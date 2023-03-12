@@ -1,0 +1,410 @@
+{
+  "runTime": 1678591187739,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1372185,
+        "num": 1372185,
+        "word": "各部部长",
+        "onboard_time": 1678588164,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 854275,
+        "num": 854275,
+        "word": "丁薛祥何立峰张国清刘国中为副总理",
+        "onboard_time": 1678587744,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 69273,
+        "num": 686338,
+        "word": "春天里的中国生机盎然",
+        "onboard_time": 1678587744,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 591737,
+        "num": 591737,
+        "word": "中国外交悄悄干了件大事",
+        "onboard_time": 1678577478,
+        "rank": 3,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 521410,
+        "num": 521410,
+        "word": "委员称无痛分娩是该单独入医保了",
+        "onboard_time": 1678588703,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 489460,
+        "num": 489460,
+        "word": "四级",
+        "onboard_time": 1678578620,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 435248,
+        "num": 435248,
+        "word": "教授谈为什么有的手机越用越慢",
+        "onboard_time": 1678582226,
+        "rank": 6,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 301126,
+        "num": 301126,
+        "word": "决定吴政隆为国务院秘书长",
+        "onboard_time": 1678588764,
+        "rank": 7,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 168883,
+        "num": 301122,
+        "word": "副总理国务委员秘书长进行宪法宣誓",
+        "onboard_time": 1678589844,
+        "rank": 8,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 147698,
+        "num": 293722,
+        "word": "梅西助攻姆巴佩绝杀",
+        "onboard_time": 1678577901,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1153034,
+        "num": 289017,
+        "word": "朴妍珍被霸凌",
+        "onboard_time": 1678590025,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1135792,
+        "num": 280059,
+        "word": "网红阿秋8千元单车被以700元贱卖",
+        "onboard_time": 1678586845,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 708642,
+        "num": 273771,
+        "word": "退清华考上北大博主遭质疑后删视频",
+        "onboard_time": 1678578259,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 664288,
+        "num": 269416,
+        "word": "世界上最孤独的鲸去世",
+        "onboard_time": 1678584147,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 429696,
+        "num": 264150,
+        "word": "黑暗荣耀2五人组头像",
+        "onboard_time": 1678586545,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 553534,
+        "num": 257232,
+        "word": "莫兰特",
+        "onboard_time": 1678589603,
+        "rank": 15,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 418604,
+        "num": 251648,
+        "word": "Kakao取得SMTOWN经营权",
+        "onboard_time": 1678587083,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 372490,
+        "num": 250532,
+        "word": "贾玲第二部导演作品有张小斐",
+        "onboard_time": 1678577598,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 344122,
+        "num": 243260,
+        "word": "看完黑暗荣耀的我",
+        "onboard_time": 1678588645,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 240595,
+        "num": 240595,
+        "word": "青春有你2播出三周年",
+        "onboard_time": 1678591044,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272346,
+        "num": 239689,
+        "word": "李莎拉打滚做臀桥",
+        "onboard_time": 1678581323,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 238706,
+        "num": 238706,
+        "word": "还硬糖少女303一场演唱会",
+        "onboard_time": 1678581323,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 214317,
+        "num": 214317,
+        "word": "山西泽州二三孩中考将加10分",
+        "onboard_time": 1678582344,
+        "rank": 22,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 180466,
+        "num": 180466,
+        "word": "硅谷银行破产波及中国创业者",
+        "onboard_time": 1678554978,
+        "rank": 23,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 180036,
+        "num": 180036,
+        "word": "周洁琼刘耀文埋肩抱",
+        "onboard_time": 1678580363,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170990,
+        "num": 170990,
+        "word": "李雪琴秒答满江红",
+        "onboard_time": 1678585107,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155897,
+        "num": 155897,
+        "word": "东恩呐 以后都是春天了",
+        "onboard_time": 1678581505,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 148824,
+        "num": 148824,
+        "word": "林心如贾静雯徐熙娣此时此刻预告",
+        "onboard_time": 1678547070,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 143936,
+        "num": 143936,
+        "word": "哪些机构在硅谷银行有存款",
+        "onboard_time": 1678576878,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 132689,
+        "num": 132689,
+        "word": "朴彩英应变能力",
+        "onboard_time": 1678578321,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 334089,
+        "num": 132685,
+        "word": "高龄产妇剖宫诞下羊膜护体宝宝",
+        "onboard_time": 1678546469,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174909,
+        "num": 132662,
+        "word": "庆余年2 范思辙",
+        "onboard_time": 1678531467,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 133583,
+        "num": 132650,
+        "word": "育龄青年为什么不愿生了",
+        "onboard_time": 1678537230,
+        "rank": 32,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 132618,
+        "num": 132618,
+        "word": "seventeen加场verynice舞台",
+        "onboard_time": 1678586964,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131661,
+        "num": 131661,
+        "word": "柯南警校篇完结",
+        "onboard_time": 1678552940,
+        "rank": 34,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 116371,
+        "num": 116371,
+        "word": "国务院副总理人选",
+        "onboard_time": 1678583844,
+        "rank": 35,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 114048,
+        "num": 114048,
+        "word": "承欢记主演拟邀杨紫许凯",
+        "onboard_time": 1678582104,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 103983,
+        "num": 103983,
+        "word": "国务委员人选",
+        "onboard_time": 1678586964,
+        "rank": 37,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 100053,
+        "num": 100053,
+        "word": "美团称没有存款在硅谷银行",
+        "onboard_time": 1678549586,
+        "rank": 38,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 98738,
+        "num": 98738,
+        "word": "拾荒男子用冥币买羊肝老板娘装不知情",
+        "onboard_time": 1678542928,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96341,
+        "num": 96341,
+        "word": "4分钟看懂硅谷银行危机来龙去脉",
+        "onboard_time": 1678586486,
+        "rank": 40,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 94509,
+        "num": 94509,
+        "word": "雄鹿vs勇士",
+        "onboard_time": 1678586185,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94300,
+        "num": 94300,
+        "word": "上班时最崩溃的事",
+        "onboard_time": 1678565832,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 93900,
+        "num": 93900,
+        "word": "李强简历",
+        "onboard_time": 1678535005,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85102,
+        "num": 85102,
+        "word": "这些树你可能不会种",
+        "onboard_time": 1678590384,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84033,
+        "num": 84033,
+        "word": "植树节",
+        "onboard_time": 1678578860,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94735,
+        "num": 83993,
+        "word": "硅谷银行CEO精准套现2500万",
+        "onboard_time": 1678591165,
+        "rank": 46,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 83535,
+        "num": 83535,
+        "word": "星落凝成糖天帝结局",
+        "onboard_time": 1678578380,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 81040,
+        "num": 81040,
+        "word": "从身高看怎样算生长迟缓",
+        "onboard_time": 1678560794,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71356,
+        "num": 71356,
+        "word": "星落凝成糖番外",
+        "onboard_time": 1678542508,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民在总书记心中重若千钧#"
+    }
+  }
+}

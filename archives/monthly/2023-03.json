@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678589896684,
+  "endTime": 1678591187739,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -1460,7 +1460,7 @@
     },
     {
       "raw_hot": 1273174,
-      "num": 256407,
+      "num": 280059,
       "word": "网红阿秋8千元单车被以700元贱卖",
       "onboard_time": 1678586845,
       "rank": 10,
@@ -1793,6 +1793,14 @@
       "onboard_time": 1677663149,
       "rank": 46,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 1153034,
+      "num": 289017,
+      "word": "朴妍珍被霸凌",
+      "onboard_time": 1678590025,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 1151341,
@@ -5667,6 +5675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 553534,
+      "num": 257232,
+      "word": "莫兰特",
+      "onboard_time": 1677972678,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 553255,
       "num": 315206,
       "word": "小S二女儿跳lovedive视频",
@@ -6116,7 +6132,7 @@
     },
     {
       "raw_hot": 524600,
-      "num": 249298,
+      "num": 251648,
       "word": "Kakao取得SMTOWN经营权",
       "onboard_time": 1678587083,
       "rank": 13,
@@ -6193,6 +6209,14 @@
       "onboard_time": 1677821667,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 521410,
+      "num": 521410,
+      "word": "委员称无痛分娩是该单独入医保了",
+      "onboard_time": 1678588703,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 521395,
@@ -6729,6 +6753,14 @@
       "onboard_time": 1678002448,
       "rank": 12,
       "category": "科技"
+    },
+    {
+      "raw_hot": 489460,
+      "num": 489460,
+      "word": "四级",
+      "onboard_time": 1678578620,
+      "rank": 6,
+      "category": "教育"
     },
     {
       "raw_hot": 489264,
@@ -7659,6 +7691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 429696,
+      "num": 264150,
+      "word": "黑暗荣耀2五人组头像",
+      "onboard_time": 1678586545,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 429609,
       "num": 429609,
       "word": "快乐再出发2收官",
@@ -7976,14 +8016,6 @@
       "word": "蒋雯丽明道 转角之恋",
       "onboard_time": 1678349367,
       "rank": 15,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 408965,
-      "num": 245222,
-      "word": "黑暗荣耀2五人组头像",
-      "onboard_time": 1678586545,
-      "rank": 35,
       "category": "影视"
     },
     {
@@ -9147,14 +9179,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 361380,
-      "num": 361380,
-      "word": "四级",
-      "onboard_time": 1678578620,
-      "rank": 6,
-      "category": "教育"
-    },
-    {
       "raw_hot": 361169,
       "num": 361169,
       "word": "大学每月生活费多少才够用",
@@ -9635,6 +9659,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 344122,
+      "num": 243260,
+      "word": "看完黑暗荣耀的我",
+      "onboard_time": 1678588645,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 343750,
       "num": 343750,
       "word": "张若昀敲胸的",
@@ -9745,14 +9777,6 @@
       "onboard_time": 1677830785,
       "rank": 14,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 340885,
-      "num": 340885,
-      "word": "委员称无痛分娩是该单独入医保了",
-      "onboard_time": 1678588703,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 340751,
@@ -10827,6 +10851,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 301126,
+      "num": 301126,
+      "word": "决定吴政隆为国务院秘书长",
+      "onboard_time": 1678588764,
+      "rank": 9,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 300339,
       "num": 300339,
       "word": "在新疆减肥有多难",
@@ -11024,14 +11056,6 @@
       "word": "王鹤棣候场模仿高启盛",
       "onboard_time": 1677653007,
       "rank": 20,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 293212,
-      "num": 234980,
-      "word": "看完黑暗荣耀的我",
-      "onboard_time": 1678588645,
-      "rank": 24,
       "category": "影视"
     },
     {
@@ -12059,14 +12083,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 259213,
-      "num": 259213,
-      "word": "决定吴政隆为国务院秘书长",
-      "onboard_time": 1678588764,
-      "rank": 9,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 259000,
       "num": 259000,
       "word": "上海迪士尼门票热度暴涨350%",
@@ -12689,6 +12705,14 @@
       "onboard_time": 1678499128,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 240595,
+      "num": 240595,
+      "word": "青春有你2播出三周年",
+      "onboard_time": 1678591044,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 240493,
@@ -17179,6 +17203,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 168883,
+      "num": 301122,
+      "word": "副总理国务委员秘书长进行宪法宣誓",
+      "onboard_time": 1678589844,
+      "rank": 28,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 168823,
       "num": 147178,
       "word": "美国独立精神奖",
@@ -17473,14 +17505,6 @@
       "onboard_time": 1678093407,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 162803,
-      "num": 162803,
-      "word": "副总理国务委员秘书长进行宪法宣誓",
-      "onboard_time": 1678589844,
-      "rank": 28,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 162523,
@@ -19073,14 +19097,6 @@
       "onboard_time": 1677719490,
       "rank": 36,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 136348,
-      "num": 201807,
-      "word": "莫兰特",
-      "onboard_time": 1677972678,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 136224,
@@ -21595,6 +21611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 94735,
+      "num": 83993,
+      "word": "硅谷银行CEO精准套现2500万",
+      "onboard_time": 1678591165,
+      "rank": 46,
+      "category": "财经,科技"
+    },
+    {
       "raw_hot": 94717,
       "num": 94717,
       "word": "玄商夜昙额头吻",
@@ -21961,6 +21985,14 @@
       "onboard_time": 1678366289,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 85102,
+      "num": 85102,
+      "word": "这些树你可能不会种",
+      "onboard_time": 1678590384,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 84659,

@@ -1,6 +1,6 @@
 {
   "startTime": 1678551810555,
-  "endTime": 1678589896684,
+  "endTime": 1678591187739,
   "band_list": [
     {
       "raw_hot": 1649982,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1273174,
-      "num": 256407,
+      "num": 280059,
       "word": "网红阿秋8千元单车被以700元贱卖",
       "onboard_time": 1678586845,
       "rank": 10,
@@ -41,6 +41,14 @@
       "onboard_time": 1678587744,
       "rank": 0,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 1153034,
+      "num": 289017,
+      "word": "朴妍珍被霸凌",
+      "onboard_time": 1678590025,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 1091744,
@@ -107,12 +115,28 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 553534,
+      "num": 257232,
+      "word": "莫兰特",
+      "onboard_time": 1678589603,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 524600,
-      "num": 249298,
+      "num": 251648,
       "word": "Kakao取得SMTOWN经营权",
       "onboard_time": 1678587083,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 521410,
+      "num": 521410,
+      "word": "委员称无痛分娩是该单独入医保了",
+      "onboard_time": 1678588703,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 516486,
@@ -129,6 +153,14 @@
       "onboard_time": 1678581323,
       "rank": 14,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 489460,
+      "num": 489460,
+      "word": "四级",
+      "onboard_time": 1678578620,
+      "rank": 6,
+      "category": "教育"
     },
     {
       "raw_hot": 489371,
@@ -163,8 +195,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 408965,
-      "num": 245222,
+      "raw_hot": 429696,
+      "num": 264150,
       "word": "黑暗荣耀2五人组头像",
       "onboard_time": 1678586545,
       "rank": 35,
@@ -195,14 +227,6 @@
       "category": "情感,社会新闻"
     },
     {
-      "raw_hot": 361380,
-      "num": 361380,
-      "word": "四级",
-      "onboard_time": 1678578620,
-      "rank": 6,
-      "category": "教育"
-    },
-    {
       "raw_hot": 360387,
       "num": 272693,
       "word": "BLACKPINK新项目预告视频",
@@ -211,12 +235,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 340885,
-      "num": 340885,
-      "word": "委员称无痛分娩是该单独入医保了",
-      "onboard_time": 1678588703,
-      "rank": 22,
-      "category": "社会新闻"
+      "raw_hot": 344122,
+      "num": 243260,
+      "word": "看完黑暗荣耀的我",
+      "onboard_time": 1678588645,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 333631,
@@ -275,20 +299,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 301126,
+      "num": 301126,
+      "word": "决定吴政隆为国务院秘书长",
+      "onboard_time": 1678588764,
+      "rank": 9,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 297415,
       "num": 170270,
       "word": "女生辞职考研八次失败",
       "onboard_time": 1678534706,
       "rank": 31,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 293212,
-      "num": 234980,
-      "word": "看完黑暗荣耀的我",
-      "onboard_time": 1678588645,
-      "rank": 24,
-      "category": "影视"
     },
     {
       "raw_hot": 273974,
@@ -313,14 +337,6 @@
       "onboard_time": 1678542208,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 259213,
-      "num": 259213,
-      "word": "决定吴政隆为国务院秘书长",
-      "onboard_time": 1678588764,
-      "rank": 9,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 253577,
@@ -361,6 +377,14 @@
       "onboard_time": 1678537529,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 240595,
+      "num": 240595,
+      "word": "青春有你2播出三周年",
+      "onboard_time": 1678591044,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 238221,
@@ -515,6 +539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168883,
+      "num": 301122,
+      "word": "副总理国务委员秘书长进行宪法宣誓",
+      "onboard_time": 1678589844,
+      "rank": 28,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 168166,
       "num": 168166,
       "word": "秦霄贤误碰水箱淋李雪琴一身水",
@@ -537,14 +569,6 @@
       "onboard_time": 1678534349,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 162803,
-      "num": 162803,
-      "word": "副总理国务委员秘书长进行宪法宣誓",
-      "onboard_time": 1678589844,
-      "rank": 28,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 152532,
@@ -600,14 +624,6 @@
       "word": "哈兰德26轮英超打进28球",
       "onboard_time": 1678581145,
       "rank": 28,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 136348,
-      "num": 136348,
-      "word": "莫兰特",
-      "onboard_time": 1678589603,
-      "rank": 35,
       "category": "体育"
     },
     {
@@ -771,6 +787,14 @@
       "category": "财经,科技"
     },
     {
+      "raw_hot": 94735,
+      "num": 83993,
+      "word": "硅谷银行CEO精准套现2500万",
+      "onboard_time": 1678591165,
+      "rank": 46,
+      "category": "财经,科技"
+    },
+    {
       "raw_hot": 94586,
       "num": 94586,
       "word": "做自然的朋友",
@@ -833,6 +857,14 @@
       "onboard_time": 1678554439,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 85102,
+      "num": 85102,
+      "word": "这些树你可能不会种",
+      "onboard_time": 1678590384,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 82968,
