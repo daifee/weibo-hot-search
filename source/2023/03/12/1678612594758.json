@@ -1,0 +1,410 @@
+{
+  "runTime": 1678612594758,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 294523,
+        "num": 480382,
+        "word": "中国人的饭碗一定能牢牢端在自己手上",
+        "onboard_time": 1678609584,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 137166,
+        "num": 478285,
+        "word": "建议优化火车票改签规定",
+        "onboard_time": 1678598605,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133859,
+        "num": 474998,
+        "word": "中国发布2022年国土绿化成绩单",
+        "onboard_time": 1678609644,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 923482,
+        "num": 470839,
+        "word": "中国队世锦赛5000米接力夺冠",
+        "onboard_time": 1678611507,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 652733,
+        "num": 467589,
+        "word": "四只大熊猫凑一桌像在打麻将",
+        "onboard_time": 1678608084,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 797923,
+        "num": 466338,
+        "word": "浙江选育出了螺蛳粉樱花",
+        "onboard_time": 1678604905,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297441,
+        "num": 462743,
+        "word": "深圳校服出防晒服版",
+        "onboard_time": 1678606164,
+        "rank": 6,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 279207,
+        "num": 458427,
+        "word": "2023年武汉大学赏樱政策发布",
+        "onboard_time": 1678605746,
+        "rank": 7,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 271435,
+        "num": 457345,
+        "word": "人民日报AI虚拟主播",
+        "onboard_time": 1678602684,
+        "rank": 8,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 215412,
+        "num": 452519,
+        "word": "北京海洋馆回应鸭子给鱼当饲养员",
+        "onboard_time": 1678603703,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1948556,
+        "num": 449034,
+        "word": "黑暗荣耀导演承认校园暴力",
+        "onboard_time": 1678610906,
+        "rank": 10,
+        "category": "影视,社会新闻"
+      },
+      {
+        "raw_hot": 937820,
+        "num": 446236,
+        "word": "庆余年2 原班人马",
+        "onboard_time": 1678596865,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 837221,
+        "num": 442067,
+        "word": "护士兼职摆摊两周赚1万5后全职开店",
+        "onboard_time": 1678608386,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 801419,
+        "num": 441283,
+        "word": "李一桐遗憾和张颂文没有对手戏",
+        "onboard_time": 1678606584,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 786562,
+        "num": 438300,
+        "word": "国考",
+        "onboard_time": 1678609644,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 708592,
+        "num": 433395,
+        "word": "黑暗荣耀韩国收视率",
+        "onboard_time": 1678607726,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 701952,
+        "num": 431728,
+        "word": "美媒称中国遍地杨树花是遭虫雨袭击",
+        "onboard_time": 1678610427,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 628503,
+        "num": 426408,
+        "word": "林孝埈决赛前说加油中国",
+        "onboard_time": 1678611386,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 609921,
+        "num": 424791,
+        "word": "富国银行",
+        "onboard_time": 1678606764,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 422660,
+        "num": 422660,
+        "word": "张亮麻辣烫回应门店缺斤短两",
+        "onboard_time": 1678602504,
+        "rank": 19,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 409506,
+        "num": 409506,
+        "word": "迪丽热巴 微博之夜",
+        "onboard_time": 1678604905,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 390246,
+        "num": 390246,
+        "word": "林孝埈1000米被撞",
+        "onboard_time": 1678599746,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 339800,
+        "num": 339800,
+        "word": "南京一动物园狮子瘦成排骨",
+        "onboard_time": 1678600285,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305974,
+        "num": 305974,
+        "word": "朴妍珍被霸凌",
+        "onboard_time": 1678590025,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 293863,
+        "num": 293863,
+        "word": "大鹏贾冰吻戏拍了28遍",
+        "onboard_time": 1678602984,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 258305,
+        "num": 258305,
+        "word": "河道英抢女儿的原因",
+        "onboard_time": 1678600464,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 244261,
+        "num": 244261,
+        "word": "硅谷银行破产冲击已蔓延多国",
+        "onboard_time": 1678596928,
+        "rank": 26,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 235484,
+        "num": 235484,
+        "word": "注意两男三女的圈子",
+        "onboard_time": 1678596086,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 205678,
+        "num": 205678,
+        "word": "华晨宇录节目错过杭州抢票",
+        "onboard_time": 1678612527,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 202429,
+        "num": 202429,
+        "word": "张译新剧他是谁定档",
+        "onboard_time": 1678604305,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 293337,
+        "num": 202102,
+        "word": "潘石屹",
+        "onboard_time": 1678600045,
+        "rank": 30,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 200271,
+        "num": 200271,
+        "word": "老师监考时都在干什么",
+        "onboard_time": 1678606285,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 189140,
+        "num": 189140,
+        "word": "黑暗荣耀",
+        "onboard_time": 1678607064,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187965,
+        "num": 187965,
+        "word": "硅谷银行危机或引发大范围裁员潮",
+        "onboard_time": 1678611207,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 187144,
+        "num": 187144,
+        "word": "2023短道速滑世锦赛",
+        "onboard_time": 1678599565,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181809,
+        "num": 181809,
+        "word": "保你平安",
+        "onboard_time": 1678598785,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 173740,
+        "num": 173740,
+        "word": "EDG战胜AL",
+        "onboard_time": 1678611805,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 168305,
+        "num": 168305,
+        "word": "六级",
+        "onboard_time": 1678592608,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 157720,
+        "num": 157720,
+        "word": "没有一个大姨是多余的",
+        "onboard_time": 1678612105,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 156798,
+        "num": 156798,
+        "word": "中国队世锦赛混合接力亚军",
+        "onboard_time": 1678612466,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131259,
+        "num": 131259,
+        "word": "重庆去年山火救援志愿者又回来植树",
+        "onboard_time": 1678606226,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126430,
+        "num": 126430,
+        "word": "张新成光渊病号服造型",
+        "onboard_time": 1678605805,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 121622,
+        "num": 121622,
+        "word": "想看THE9解散演唱会",
+        "onboard_time": 1678599626,
+        "rank": 42,
+        "category": "音乐,幽默"
+      },
+      {
+        "raw_hot": 110247,
+        "num": 110247,
+        "word": "美国硅谷银行请求员工一起想办法",
+        "onboard_time": 1678600826,
+        "rank": 43,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 109966,
+        "num": 109966,
+        "word": "再就业兄弟团再开麦",
+        "onboard_time": 1678608926,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103212,
+        "num": 103212,
+        "word": "袁励岑",
+        "onboard_time": 1678612466,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94062,
+        "num": 94062,
+        "word": "朴志效跳Hypeboy",
+        "onboard_time": 1678610546,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 92375,
+        "num": 92375,
+        "word": "不愧是大熊猫的舞姿",
+        "onboard_time": 1678612466,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 88418,
+        "num": 88418,
+        "word": "看完黑暗荣耀的我",
+        "onboard_time": 1678588645,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 74573,
+        "num": 74573,
+        "word": "网红阿秋8千元单车被以700元贱卖",
+        "onboard_time": 1678586845,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#征途向未来#"
+    }
+  }
+}
