@@ -1,6 +1,6 @@
 {
   "startTime": 1678551810555,
-  "endTime": 1678625463795,
+  "endTime": 1678627273461,
   "band_list": [
     {
       "raw_hot": 2673036,
@@ -187,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 951279,
+      "num": 466937,
+      "word": "台民众买24颗鸡蛋花400块",
+      "onboard_time": 1678623445,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 948976,
       "num": 493790,
       "word": "韩国队恶意犯规遭裁判无视",
@@ -211,6 +219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 905686,
+      "num": 417150,
+      "word": "兄弟瞒着外嫁姐姐办理父母遗产继承",
+      "onboard_time": 1678624348,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 897328,
       "num": 417876,
       "word": "迪丽热巴 微博之夜",
@@ -225,6 +241,14 @@
       "onboard_time": 1678592608,
       "rank": 15,
       "category": "教育"
+    },
+    {
+      "raw_hot": 866635,
+      "num": 436158,
+      "word": "马龙",
+      "onboard_time": 1678625068,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 837221,
@@ -321,14 +345,6 @@
       "onboard_time": 1678582226,
       "rank": 3,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 730793,
-      "num": 466937,
-      "word": "台民众买24颗鸡蛋花400块",
-      "onboard_time": 1678623445,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 708592,
@@ -448,6 +464,14 @@
       "word": "莫兰特",
       "onboard_time": 1678589603,
       "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 549790,
+      "num": 416012,
+      "word": "U20国足止步八强",
+      "onboard_time": 1678625666,
+      "rank": 5,
       "category": "体育"
     },
     {
@@ -611,6 +635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 438425,
+      "num": 383469,
+      "word": "张译亮相亚洲电影大奖",
+      "onboard_time": 1678625847,
+      "rank": 15,
+      "category": "影视,艺人"
+    },
+    {
       "raw_hot": 432909,
       "num": 394476,
       "word": "硅谷银行破产冲击已蔓延多国",
@@ -633,14 +665,6 @@
       "onboard_time": 1678595486,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 417150,
-      "num": 417150,
-      "word": "兄弟瞒着外嫁姐姐办理父母遗产继承",
-      "onboard_time": 1678624348,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 403688,
@@ -737,6 +761,14 @@
       "onboard_time": 1678603703,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 346403,
+      "num": 402734,
+      "word": "AG 一诺采访",
+      "onboard_time": 1678625068,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 345131,
@@ -859,6 +891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 315720,
+      "num": 315720,
+      "word": "崔惠廷扮演者的双面人生",
+      "onboard_time": 1678624947,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 308451,
       "num": 308451,
       "word": "华晨宇 抢票",
@@ -944,6 +984,14 @@
       "word": "比顾里生日更热闹的是孙明悟的葬礼",
       "onboard_time": 1678547908,
       "rank": 13,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 268384,
+      "num": 268384,
+      "word": "九霄寒夜暖又he又be",
+      "onboard_time": 1678625488,
+      "rank": 26,
       "category": "影视"
     },
     {
@@ -1059,14 +1107,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 236520,
-      "num": 236520,
-      "word": "马龙",
-      "onboard_time": 1678625068,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 232787,
       "num": 232787,
       "word": "张颂文对于普通演员们的意义",
@@ -1139,6 +1179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 218562,
+      "num": 218562,
+      "word": "U20国足1比3韩国U20",
+      "onboard_time": 1678625967,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 217718,
       "num": 217718,
       "word": "拾荒男子用冥币买羊肝老板娘装不知情",
@@ -1163,12 +1211,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 212476,
-      "num": 212476,
-      "word": "崔惠廷扮演者的双面人生",
-      "onboard_time": 1678624947,
-      "rank": 31,
-      "category": "作品衍生"
+      "raw_hot": 211856,
+      "num": 211856,
+      "word": "流浪地球2票房破40亿",
+      "onboard_time": 1678627228,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 210683,
@@ -1219,14 +1267,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 204580,
-      "num": 204580,
-      "word": "AG 一诺采访",
-      "onboard_time": 1678625068,
-      "rank": 35,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 204393,
       "num": 204393,
       "word": "KPL",
@@ -1259,6 +1299,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 201088,
+      "num": 201088,
+      "word": "九霄寒夜暖",
+      "onboard_time": 1678626446,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 199770,
       "num": 199770,
       "word": "刘耀文收官vlog",
@@ -1280,6 +1328,14 @@
       "word": "Hero对战WB",
       "onboard_time": 1678605446,
       "rank": 5,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 196867,
+      "num": 196867,
+      "word": "第五人格COA6",
+      "onboard_time": 1678626266,
+      "rank": 40,
       "category": "游戏"
     },
     {
@@ -1315,6 +1371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189430,
+      "num": 189430,
+      "word": "心想事成",
+      "onboard_time": 1678626087,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 188758,
       "num": 188758,
       "word": "佘诗曼林峯9年后再合作",
@@ -1339,6 +1403,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 186825,
+      "num": 186825,
+      "word": "2023wcba总决赛",
+      "onboard_time": 1678626327,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 186234,
       "num": 186234,
       "word": "LNG对战JDG",
@@ -1353,6 +1425,14 @@
       "onboard_time": 1678600225,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 179253,
+      "num": 179253,
+      "word": "LGD对战TTG",
+      "onboard_time": 1678626746,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 178379,
@@ -1499,6 +1579,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 158301,
+      "num": 158301,
+      "word": "马龙3比0杜达",
+      "onboard_time": 1678625847,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 155602,
       "num": 579500,
       "word": "中国发布2022年国土绿化成绩单",
@@ -1539,7 +1627,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 151508,
+      "raw_hot": 151878,
       "num": 486324,
       "word": "天舟六号已运往文昌航天发射场",
       "onboard_time": 1678624527,
