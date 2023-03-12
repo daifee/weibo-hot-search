@@ -1,6 +1,6 @@
 {
   "startTime": 1678551810555,
-  "endTime": 1678585383197,
+  "endTime": 1678586720487,
   "band_list": [
     {
       "raw_hot": 1649982,
@@ -16,6 +16,14 @@
       "word": "退清华考上北大博主遭质疑后删视频",
       "onboard_time": 1678578259,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1091744,
+      "num": 1091744,
+      "word": "世界上最孤独的鲸去世",
+      "onboard_time": 1678584147,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -51,20 +59,12 @@
       "category": "科技,财经"
     },
     {
-      "raw_hot": 712048,
-      "num": 712048,
+      "raw_hot": 746289,
+      "num": 746289,
       "word": "教授谈为什么有的手机越用越慢",
       "onboard_time": 1678582226,
       "rank": 3,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 708449,
-      "num": 310872,
-      "word": "世界上最孤独的鲸去世",
-      "onboard_time": 1678584147,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 684115,
@@ -123,7 +123,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 471785,
+      "raw_hot": 475679,
       "num": 305881,
       "word": "李莎拉打滚做臀桥",
       "onboard_time": 1678581323,
@@ -387,6 +387,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 176941,
+      "num": 176941,
+      "word": "哪些机构在硅谷银行有存款",
+      "onboard_time": 1678576878,
+      "rank": 14,
+      "category": "财经"
+    },
+    {
       "raw_hot": 175266,
       "num": 175266,
       "word": "WBG RNG",
@@ -411,20 +419,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 170086,
-      "num": 170086,
-      "word": "哪些机构在硅谷银行有存款",
-      "onboard_time": 1678576878,
-      "rank": 14,
-      "category": "财经"
-    },
-    {
       "raw_hot": 168979,
       "num": 168979,
       "word": "美国将公示丫丫乐乐回国证明",
       "onboard_time": 1678524567,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168257,
+      "num": 113328,
+      "word": "黑暗荣耀2五人组头像",
+      "onboard_time": 1678586545,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 168166,
@@ -465,6 +473,14 @@
       "onboard_time": 1678581684,
       "rank": 26,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 144804,
+      "num": 113302,
+      "word": "4分钟看懂硅谷银行危机来龙去脉",
+      "onboard_time": 1678586486,
+      "rank": 36,
+      "category": "财经,科技"
     },
     {
       "raw_hot": 143719,
@@ -579,20 +595,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 118259,
+      "num": 118259,
+      "word": "李雪琴秒答满江红",
+      "onboard_time": 1678585107,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 108061,
+      "num": 108061,
+      "word": "黑暗荣耀亲情",
+      "onboard_time": 1678581745,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 107518,
       "num": 104540,
       "word": "硅谷银行倒闭钱怎么办",
       "onboard_time": 1678555636,
       "rank": 42,
       "category": "财经"
-    },
-    {
-      "raw_hot": 105174,
-      "num": 105174,
-      "word": "黑暗荣耀亲情",
-      "onboard_time": 1678581745,
-      "rank": 38,
-      "category": "影视"
     },
     {
       "raw_hot": 104863,
@@ -627,6 +651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 95697,
+      "num": 95697,
+      "word": "雄鹿vs勇士",
+      "onboard_time": 1678586185,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 95069,
       "num": 95069,
       "word": "郑乃馨泰国演唱会",
@@ -641,14 +673,6 @@
       "onboard_time": 1678541430,
       "rank": 7,
       "category": "财经,科技"
-    },
-    {
-      "raw_hot": 94568,
-      "num": 94568,
-      "word": "李雪琴秒答满江红",
-      "onboard_time": 1678585107,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 93450,
@@ -692,15 +716,15 @@
     },
     {
       "raw_hot": 82968,
-      "num": 327731,
+      "num": 764262,
       "word": "人大会议第五次全体会议",
       "onboard_time": 1678582645,
       "rank": 4,
       "category": "国内要闻"
     },
     {
-      "raw_hot": 77163,
-      "num": 77163,
+      "raw_hot": 80941,
+      "num": 80941,
       "word": "植树节",
       "onboard_time": 1678578860,
       "rank": 47,
@@ -772,7 +796,7 @@
     },
     {
       "raw_hot": 44581,
-      "num": 751851,
+      "num": 913810,
       "word": "微观2023全国两会",
       "onboard_time": 1678545387,
       "rank": 2,
