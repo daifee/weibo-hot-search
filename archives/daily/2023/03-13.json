@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1678645294146,
+  "endTime": 1678646114582,
   "band_list": [
     {
       "raw_hot": 1071468,
@@ -459,12 +459,20 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 21138,
+      "raw_hot": 22540,
       "num": 23001,
       "word": "亚洲电影大奖",
       "onboard_time": 1678634967,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 19868,
+      "num": 20799,
+      "word": "硅谷银行倒闭",
+      "onboard_time": 1678491140,
+      "rank": 49,
+      "category": "财经"
     }
   ],
   "hotgov_list": [
