@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1678659402807,
+  "endTime": 1678660406198,
   "band_list": [
     {
       "raw_hot": 1071468,
@@ -235,6 +235,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 111947,
+      "num": 54741,
+      "word": "妈妈用废纸壳为女儿搭出童话世界",
+      "onboard_time": 1678652111,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110863,
       "num": 110863,
       "word": "庆余年2 原班人马",
@@ -339,14 +347,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 79469,
-      "num": 38102,
-      "word": "妈妈用废纸壳为女儿搭出童话世界",
-      "onboard_time": 1678652111,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 77618,
       "num": 77618,
       "word": "四川女篮WCBA总冠军",
@@ -443,20 +443,28 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 29193,
-      "num": 29193,
+      "raw_hot": 29664,
+      "num": 29664,
       "word": "浦发硅谷银行公告",
       "onboard_time": 1678519588,
       "rank": 49,
       "category": "财经"
     },
     {
-      "raw_hot": 28297,
-      "num": 33779,
+      "raw_hot": 29650,
+      "num": 47974,
       "word": "亚洲电影大奖",
       "onboard_time": 1678634967,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 27448,
+      "num": 58531,
+      "word": "人大代表说科技创新要带着农民赚",
+      "onboard_time": 1678646232,
+      "rank": 0,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 25757,
@@ -483,14 +491,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 21116,
-      "num": 41623,
-      "word": "人大代表说科技创新要带着农民赚",
-      "onboard_time": 1678646232,
-      "rank": 0,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 17549,
       "num": 17549,
       "word": "驾驶我的车亚洲电影大奖最佳影片",
@@ -499,8 +499,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 13650,
-      "num": 13650,
+      "raw_hot": 17366,
+      "num": 20824,
       "word": "黑暗荣耀2双向救赎",
       "onboard_time": 1678649111,
       "rank": 45,
