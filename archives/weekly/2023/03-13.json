@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1678660406198,
+  "endTime": 1678663072498,
   "band_list": [
     {
       "raw_hot": 1071468,
@@ -59,6 +59,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 376984,
+      "num": 169054,
+      "word": "兄弟瞒着外嫁姐姐办理父母遗产继承",
+      "onboard_time": 1678624348,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 346891,
       "num": 228240,
       "word": "流浪地球2票房破40亿",
@@ -75,6 +83,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 272792,
+      "num": 131729,
+      "word": "妈妈用废纸壳为女儿搭出童话世界",
+      "onboard_time": 1678652111,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 263746,
       "num": 169350,
       "word": "小鬼精修图vs现场生图",
@@ -83,11 +99,11 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 262372,
-      "num": 169054,
-      "word": "兄弟瞒着外嫁姐姐办理父母遗产继承",
-      "onboard_time": 1678624348,
-      "rank": 18,
+      "raw_hot": 238353,
+      "num": 165435,
+      "word": "台民众买24颗鸡蛋花400块",
+      "onboard_time": 1678623445,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -105,14 +121,6 @@
       "onboard_time": 1678615467,
       "rank": 5,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 225021,
-      "num": 165435,
-      "word": "台民众买24颗鸡蛋花400块",
-      "onboard_time": 1678623445,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 218629,
@@ -156,7 +164,7 @@
     },
     {
       "raw_hot": 178229,
-      "num": 89356,
+      "num": 112014,
       "word": "梁朝伟亚洲电影大奖最佳男主角",
       "onboard_time": 1678641196,
       "rank": 16,
@@ -179,20 +187,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145666,
+      "num": 130730,
+      "word": "潘石屹称从未在硅谷银行开过户",
+      "onboard_time": 1678620565,
+      "rank": 25,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 140607,
       "num": 140607,
       "word": "黑暗荣耀 讽刺",
       "onboard_time": 1678616367,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 130730,
-      "num": 130730,
-      "word": "潘石屹称从未在硅谷银行开过户",
-      "onboard_time": 1678620565,
-      "rank": 25,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 127173,
@@ -209,6 +217,14 @@
       "onboard_time": 1678620867,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 125488,
+      "num": 125488,
+      "word": "我国每年废弃手机约4亿部",
+      "onboard_time": 1678621348,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 117589,
@@ -235,14 +251,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 111947,
-      "num": 54741,
-      "word": "妈妈用废纸壳为女儿搭出童话世界",
-      "onboard_time": 1678652111,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 110863,
       "num": 110863,
       "word": "庆余年2 原班人马",
@@ -264,6 +272,14 @@
       "word": "华晨宇录节目错过杭州抢票",
       "onboard_time": 1678612527,
       "rank": 33,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 104398,
+      "num": 104398,
+      "word": "NMIXX新歌YoungDumbStupid",
+      "onboard_time": 1678662739,
+      "rank": 23,
       "category": "音乐"
     },
     {
@@ -299,14 +315,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 91809,
-      "num": 91809,
-      "word": "我国每年废弃手机约4亿部",
-      "onboard_time": 1678621348,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 91272,
       "num": 91272,
       "word": "护士兼职摆摊两周赚1万5后全职开店",
@@ -339,6 +347,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 81801,
+      "num": 138299,
+      "word": "人大代表说科技创新要带着农民赚",
+      "onboard_time": 1678646232,
+      "rank": 0,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 80214,
+      "num": 78001,
+      "word": "两颗球的泰坦尼克号",
+      "onboard_time": 1678662739,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 79626,
       "num": 79626,
       "word": "穆延叱兰be",
@@ -364,7 +388,7 @@
     },
     {
       "raw_hot": 73756,
-      "num": 73756,
+      "num": 122701,
       "word": "九霄寒夜暖又he又be",
       "onboard_time": 1678625488,
       "rank": 46,
@@ -427,12 +451,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 42563,
+      "raw_hot": 53993,
       "num": 229114,
       "word": "这就是春天里的中国",
       "onboard_time": 1678628848,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 44244,
+      "num": 44244,
+      "word": "黑暗荣耀2双向救赎",
+      "onboard_time": 1678649111,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 36359,
+      "num": 38893,
+      "word": "用辣椒丝当成藏红花泡茶喝",
+      "onboard_time": 1678662918,
+      "rank": 44,
+      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 30012,
@@ -459,24 +499,16 @@
       "category": "影视"
     },
     {
-      "raw_hot": 27448,
-      "num": 58531,
-      "word": "人大代表说科技创新要带着农民赚",
-      "onboard_time": 1678646232,
-      "rank": 0,
-      "category": "国内要闻"
-    },
-    {
-      "raw_hot": 25757,
-      "num": 33744,
+      "raw_hot": 26726,
+      "num": 38815,
       "word": "U20国足加油",
       "onboard_time": 1678633169,
       "rank": 38,
       "category": "体育"
     },
     {
-      "raw_hot": 24607,
-      "num": 24607,
+      "raw_hot": 25108,
+      "num": 38789,
       "word": "硅谷银行倒闭",
       "onboard_time": 1678491140,
       "rank": 49,
@@ -496,14 +528,6 @@
       "word": "驾驶我的车亚洲电影大奖最佳影片",
       "onboard_time": 1678645632,
       "rank": 40,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 17366,
-      "num": 20824,
-      "word": "黑暗荣耀2双向救赎",
-      "onboard_time": 1678649111,
-      "rank": 45,
       "category": "影视"
     },
     {
