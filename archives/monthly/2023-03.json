@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678594923008,
+  "endTime": 1678595806654,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -3315,6 +3315,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 795739,
+      "num": 795739,
+      "word": "体育总局局长谈振兴三大球",
+      "onboard_time": 1678592067,
+      "rank": 1,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 795138,
       "num": 617153,
       "word": "蔚来称零容忍员工违法犯罪行为",
@@ -4017,14 +4025,6 @@
       "onboard_time": 1678348825,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 712385,
-      "num": 712385,
-      "word": "体育总局局长谈振兴三大球",
-      "onboard_time": 1678592067,
-      "rank": 1,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 711097,
@@ -5323,6 +5323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 579136,
+      "num": 520737,
+      "word": "硅谷银行CEO精准套现2500万",
+      "onboard_time": 1678591165,
+      "rank": 46,
+      "category": "财经,科技"
+    },
+    {
       "raw_hot": 578333,
       "num": 578333,
       "word": "满江红中国影史票房榜第6",
@@ -6313,14 +6321,6 @@
       "onboard_time": 1677840328,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 520737,
-      "num": 520737,
-      "word": "硅谷银行CEO精准套现2500万",
-      "onboard_time": 1678591165,
-      "rank": 46,
-      "category": "财经,科技"
     },
     {
       "raw_hot": 520707,
@@ -8363,6 +8363,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 396040,
+      "num": 396040,
+      "word": "看完黑暗荣耀的我",
+      "onboard_time": 1678588645,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 395719,
       "num": 395719,
       "word": "白色草莓真的更好吃吗",
@@ -8504,14 +8512,6 @@
       "word": "河道英吃文东恩的紫菜饭团",
       "onboard_time": 1678534349,
       "rank": 17,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 388261,
-      "num": 388261,
-      "word": "看完黑暗荣耀的我",
-      "onboard_time": 1678588645,
-      "rank": 24,
       "category": "影视"
     },
     {
@@ -10051,6 +10051,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 332261,
+      "num": 557046,
+      "word": "回廊亭豆瓣开分5.8",
+      "onboard_time": 1678593265,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 332226,
       "num": 332226,
       "word": "徐海乔拥抱安慰郭晓婷",
@@ -10417,14 +10425,6 @@
       "onboard_time": 1677773604,
       "rank": 24,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 317821,
-      "num": 557046,
-      "word": "回廊亭豆瓣开分5.8",
-      "onboard_time": 1678593265,
-      "rank": 8,
-      "category": "影视"
     },
     {
       "raw_hot": 317585,
@@ -12281,6 +12281,14 @@
       "onboard_time": 1678533328,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 255150,
+      "num": 255150,
+      "word": "惠英红说刘耀文非常有进步",
+      "onboard_time": 1678595666,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 254908,
@@ -16083,6 +16091,14 @@
       "category": "幽默,时尚"
     },
     {
+      "raw_hot": 190115,
+      "num": 190115,
+      "word": "库里绝平三分",
+      "onboard_time": 1678595486,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190050,
       "num": 160106,
       "word": "黑暗荣耀见面会现场照片",
@@ -17681,6 +17697,14 @@
       "onboard_time": 1678081764,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 161291,
+      "num": 161291,
+      "word": "神奇女侠现身沙赞2",
+      "onboard_time": 1678595007,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 161070,
