@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1678652314311,
+  "endTime": 1678653222588,
   "band_list": [
     {
       "raw_hot": 1071468,
@@ -467,6 +467,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 21324,
+      "num": 21324,
+      "word": "妈妈用废纸壳为女儿搭出童话世界",
+      "onboard_time": 1678652111,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 21116,
       "num": 34476,
       "word": "人大代表说科技创新要带着农民赚",
@@ -497,14 +505,6 @@
       "onboard_time": 1678649111,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 11709,
-      "num": 11709,
-      "word": "妈妈用废纸壳为女儿搭出童话世界",
-      "onboard_time": 1678652111,
-      "rank": 41,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
