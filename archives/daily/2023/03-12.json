@@ -1,10 +1,10 @@
 {
   "startTime": 1678551810555,
-  "endTime": 1678617237728,
+  "endTime": 1678619655972,
   "band_list": [
     {
       "raw_hot": 2673036,
-      "num": 434496,
+      "num": 510628,
       "word": "六级答案",
       "onboard_time": 1678613906,
       "rank": 10,
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 1022569,
-      "num": 470282,
+      "num": 512987,
       "word": "林孝埈唱国歌",
       "onboard_time": 1678615467,
       "rank": 6,
@@ -275,6 +275,14 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 762783,
+      "num": 502532,
+      "word": "小鬼精修图vs现场生图",
+      "onboard_time": 1678615585,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 761281,
       "num": 587006,
       "word": "注意两男三女的圈子",
@@ -371,6 +379,22 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 590493,
+      "num": 511840,
+      "word": "U20国足vs韩国U20",
+      "onboard_time": 1678615286,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 585709,
+      "num": 498629,
+      "word": "六级阅读 小鸭子",
+      "onboard_time": 1678617327,
+      "rank": 15,
+      "category": "教育"
+    },
+    {
       "raw_hot": 579136,
       "num": 520737,
       "word": "硅谷银行CEO精准套现2500万",
@@ -385,14 +409,6 @@
       "onboard_time": 1678537348,
       "rank": 0,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 569297,
-      "num": 403375,
-      "word": "小鬼精修图vs现场生图",
-      "onboard_time": 1678615585,
-      "rank": 22,
-      "category": "音乐"
     },
     {
       "raw_hot": 553534,
@@ -449,6 +465,14 @@
       "onboard_time": 1678600464,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 494787,
+      "num": 494787,
+      "word": "翻译徐霞客",
+      "onboard_time": 1678617385,
+      "rank": 19,
+      "category": "教育"
     },
     {
       "raw_hot": 489371,
@@ -515,6 +539,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 441054,
+      "num": 441054,
+      "word": "黑暗荣耀 讽刺",
+      "onboard_time": 1678616367,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 432909,
       "num": 394476,
       "word": "硅谷银行破产冲击已蔓延多国",
@@ -564,7 +596,7 @@
     },
     {
       "raw_hot": 395841,
-      "num": 370049,
+      "num": 389801,
       "word": "动物园猩猩抽烟吐烟圈动作娴熟",
       "onboard_time": 1678614207,
       "rank": 24,
@@ -585,14 +617,6 @@
       "onboard_time": 1678554978,
       "rank": 11,
       "category": "财经,科技"
-    },
-    {
-      "raw_hot": 369595,
-      "num": 369595,
-      "word": "黑暗荣耀 讽刺",
-      "onboard_time": 1678616367,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 369578,
@@ -699,6 +723,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 323551,
+      "num": 323551,
+      "word": "写作 数字鸿沟",
+      "onboard_time": 1678617086,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 322631,
       "num": 322631,
       "word": "梅西助攻姆巴佩绝杀",
@@ -779,6 +811,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 280543,
+      "num": 507302,
+      "word": "小镇青年应该怎么扩大交友圈",
+      "onboard_time": 1678619065,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 275901,
+      "num": 275901,
+      "word": "硅谷许多公司可能发不出工资",
+      "onboard_time": 1678615886,
+      "rank": 42,
+      "category": "财经,科技"
+    },
+    {
       "raw_hot": 273974,
       "num": 250859,
       "word": "比顾里生日更热闹的是孙明悟的葬礼",
@@ -817,14 +865,6 @@
       "onboard_time": 1678600826,
       "rank": 30,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 254219,
-      "num": 374082,
-      "word": "U20国足vs韩国U20",
-      "onboard_time": 1678615286,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 253577,
@@ -915,6 +955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 231016,
+      "num": 231016,
+      "word": "梁朝伟获亚洲电影贡献荣誉大奖",
+      "onboard_time": 1678617866,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 224961,
       "num": 187144,
       "word": "2023短道速滑世锦赛",
@@ -952,6 +1000,14 @@
       "word": "黑暗荣耀",
       "onboard_time": 1678607064,
       "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 218843,
+      "num": 218843,
+      "word": "河道英靠全在俊肩膀",
+      "onboard_time": 1678618465,
+      "rank": 33,
       "category": "影视"
     },
     {
@@ -1043,14 +1099,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 198639,
-      "num": 198639,
-      "word": "写作 数字鸿沟",
-      "onboard_time": 1678617086,
-      "rank": 38,
-      "category": "教育"
-    },
-    {
       "raw_hot": 197678,
       "num": 197678,
       "word": "承欢记主演拟邀杨紫许凯",
@@ -1083,6 +1131,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 196321,
+      "num": 506532,
+      "word": "Hero 状态",
+      "onboard_time": 1678618405,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 191113,
       "num": 395327,
       "word": "重庆去年山火救援志愿者又回来植树",
@@ -1113,14 +1169,6 @@
       "onboard_time": 1678611207,
       "rank": 33,
       "category": "财经"
-    },
-    {
-      "raw_hot": 182900,
-      "num": 182900,
-      "word": "硅谷许多公司可能发不出工资",
-      "onboard_time": 1678615886,
-      "rank": 42,
-      "category": "财经,科技"
     },
     {
       "raw_hot": 181703,
@@ -1433,6 +1481,14 @@
       "onboard_time": 1678596625,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122941,
+      "num": 122941,
+      "word": "美商界人士警告经济衰退或已到来",
+      "onboard_time": 1678619187,
+      "rank": 49,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 121155,
@@ -1789,6 +1845,9 @@
     },
     {
       "word": "#征途向未来#"
+    },
+    {
+      "word": "#春天的共鸣#"
     }
   ]
 }

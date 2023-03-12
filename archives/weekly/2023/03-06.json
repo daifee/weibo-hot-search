@@ -1,6 +1,6 @@
 {
   "startTime": 1678033461577,
-  "endTime": 1678617237728,
+  "endTime": 1678619655972,
   "band_list": [
     {
       "raw_hot": 15614082,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 2673036,
-      "num": 434496,
+      "num": 510628,
       "word": "六级答案",
       "onboard_time": 1678613906,
       "rank": 10,
@@ -1388,7 +1388,7 @@
     },
     {
       "raw_hot": 1022569,
-      "num": 470282,
+      "num": 512987,
       "word": "林孝埈唱国歌",
       "onboard_time": 1678615467,
       "rank": 6,
@@ -2145,6 +2145,14 @@
       "onboard_time": 1678407148,
       "rank": 11,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 762783,
+      "num": 502532,
+      "word": "小鬼精修图vs现场生图",
+      "onboard_time": 1678615585,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 761281,
@@ -3099,6 +3107,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 590493,
+      "num": 511840,
+      "word": "U20国足vs韩国U20",
+      "onboard_time": 1678615286,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 589088,
       "num": 283794,
       "word": "薛之谦 票",
@@ -3113,6 +3129,14 @@
       "onboard_time": 1678246948,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 585709,
+      "num": 498629,
+      "word": "六级阅读 小鸭子",
+      "onboard_time": 1678617327,
+      "rank": 15,
+      "category": "教育"
     },
     {
       "raw_hot": 585583,
@@ -3248,14 +3272,6 @@
       "word": "汪苏泷唱的乌梅子酱",
       "onboard_time": 1678427608,
       "rank": 25,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 569297,
-      "num": 403375,
-      "word": "小鬼精修图vs现场生图",
-      "onboard_time": 1678615585,
-      "rank": 22,
       "category": "音乐"
     },
     {
@@ -3963,6 +3979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 494787,
+      "num": 494787,
+      "word": "翻译徐霞客",
+      "onboard_time": 1678617385,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
       "raw_hot": 494498,
       "num": 494498,
       "word": "维和防暴队将于今年上映",
@@ -4435,6 +4459,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 441054,
+      "num": 441054,
+      "word": "黑暗荣耀 讽刺",
+      "onboard_time": 1678616367,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 440522,
       "num": 1215532,
       "word": "历史学考研",
@@ -4892,7 +4924,7 @@
     },
     {
       "raw_hot": 395841,
-      "num": 370049,
+      "num": 389801,
       "word": "动物园猩猩抽烟吐烟圈动作娴熟",
       "onboard_time": 1678614207,
       "rank": 24,
@@ -5217,14 +5249,6 @@
       "onboard_time": 1678405102,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 369595,
-      "num": 369595,
-      "word": "黑暗荣耀 讽刺",
-      "onboard_time": 1678616367,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 369578,
@@ -6011,6 +6035,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 323551,
+      "num": 323551,
+      "word": "写作 数字鸿沟",
+      "onboard_time": 1678617086,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 323246,
       "num": 309802,
       "word": "王子浩投票",
@@ -6675,6 +6707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 280543,
+      "num": 507302,
+      "word": "小镇青年应该怎么扩大交友圈",
+      "onboard_time": 1678619065,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 280420,
       "num": 280420,
       "word": "苏芮琪获日本两项音乐大奖",
@@ -6737,6 +6777,14 @@
       "onboard_time": 1678116446,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 275901,
+      "num": 275901,
+      "word": "硅谷许多公司可能发不出工资",
+      "onboard_time": 1678615886,
+      "rank": 42,
+      "category": "财经,科技"
     },
     {
       "raw_hot": 275400,
@@ -7097,14 +7145,6 @@
       "onboard_time": 1678496845,
       "rank": 16,
       "category": "财经"
-    },
-    {
-      "raw_hot": 254219,
-      "num": 374082,
-      "word": "U20国足vs韩国U20",
-      "onboard_time": 1678615286,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 254187,
@@ -7571,6 +7611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 231016,
+      "num": 231016,
+      "word": "梁朝伟获亚洲电影贡献荣誉大奖",
+      "onboard_time": 1678617866,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 230828,
       "num": 230828,
       "word": "向太说前路并非坦途一起加油",
@@ -7929,6 +7977,14 @@
       "onboard_time": 1678413689,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 218843,
+      "num": 218843,
+      "word": "河道英靠全在俊肩膀",
+      "onboard_time": 1678618465,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 218406,
@@ -8819,14 +8875,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 198639,
-      "num": 198639,
-      "word": "写作 数字鸿沟",
-      "onboard_time": 1678617086,
-      "rank": 38,
-      "category": "教育"
-    },
-    {
       "raw_hot": 198608,
       "num": 198608,
       "word": "成毅英雄志被踹路透",
@@ -8968,6 +9016,14 @@
       "word": "KPL针锋相对第二轮",
       "onboard_time": 1678160307,
       "rank": 25,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 196321,
+      "num": 506532,
+      "word": "Hero 状态",
+      "onboard_time": 1678618405,
+      "rank": 9,
       "category": "游戏"
     },
     {
@@ -9537,14 +9593,6 @@
       "onboard_time": 1678017628,
       "rank": 9,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 182900,
-      "num": 182900,
-      "word": "硅谷许多公司可能发不出工资",
-      "onboard_time": 1678615886,
-      "rank": 42,
-      "category": "财经,科技"
     },
     {
       "raw_hot": 182665,
@@ -11649,6 +11697,14 @@
       "onboard_time": 1678171945,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 122941,
+      "num": 122941,
+      "word": "美商界人士警告经济衰退或已到来",
+      "onboard_time": 1678619187,
+      "rank": 49,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 122939,
@@ -13818,6 +13874,9 @@
     },
     {
       "word": "#征途向未来#"
+    },
+    {
+      "word": "#春天的共鸣#"
     }
   ]
 }
