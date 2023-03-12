@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1678641343715,
+  "endTime": 1678642403867,
   "band_list": [
     {
       "raw_hot": 1071468,
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 178229,
-      "num": 86601,
+      "num": 89356,
       "word": "梁朝伟亚洲电影大奖最佳男主角",
       "onboard_time": 1678641196,
       "rank": 16,
@@ -395,6 +395,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 58775,
+      "num": 58775,
+      "word": "这歌终于有个合理的出处了",
+      "onboard_time": 1678640538,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 55655,
       "num": 55655,
       "word": "阿森纳半场领先",
@@ -419,12 +427,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 42459,
-      "num": 42459,
-      "word": "这歌终于有个合理的出处了",
-      "onboard_time": 1678640538,
-      "rank": 41,
-      "category": "幽默"
+      "raw_hot": 30012,
+      "num": 30012,
+      "word": "全圆佑跳Attention",
+      "onboard_time": 1678616427,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 29193,
+      "num": 29193,
+      "word": "浦发硅谷银行公告",
+      "onboard_time": 1678519588,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 23846,
@@ -441,6 +457,9 @@
     },
     {
       "word": "#春天的共鸣#"
+    },
+    {
+      "word": "#团结凝聚力量#"
     }
   ]
 }
