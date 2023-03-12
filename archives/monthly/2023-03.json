@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678595806654,
+  "endTime": 1678598184250,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -441,6 +441,14 @@
       "onboard_time": 1678093946,
       "rank": 16,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1992196,
+      "num": 457959,
+      "word": "庆余年2 原班人马",
+      "onboard_time": 1678596865,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 1991579,
@@ -3721,6 +3729,14 @@
       "onboard_time": 1677887424,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 745452,
+      "num": 457641,
+      "word": "注意两男三女的圈子",
+      "onboard_time": 1678596086,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 744690,
@@ -7913,6 +7929,14 @@
       "onboard_time": 1678353326,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 423153,
+      "num": 459829,
+      "word": "库里绝平三分",
+      "onboard_time": 1678595486,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 423006,
@@ -12587,6 +12611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 246791,
+      "num": 246791,
+      "word": "硅谷银行破产冲击已蔓延多国",
+      "onboard_time": 1678596928,
+      "rank": 24,
+      "category": "财经,科技"
+    },
+    {
       "raw_hot": 246492,
       "num": 246492,
       "word": "外墙面层均计入建筑面积",
@@ -13137,6 +13169,14 @@
       "onboard_time": 1678259305,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 231683,
+      "num": 231683,
+      "word": "周震南说分享的意义是在找同类",
+      "onboard_time": 1678597166,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 230828,
@@ -14923,6 +14963,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 201615,
+      "num": 201615,
+      "word": "金秋天跳OMG",
+      "onboard_time": 1678596625,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 201431,
       "num": 201431,
       "word": "会飞的大象置景路透",
@@ -16089,14 +16137,6 @@
       "onboard_time": 1678272688,
       "rank": 27,
       "category": "幽默,时尚"
-    },
-    {
-      "raw_hot": 190115,
-      "num": 190115,
-      "word": "库里绝平三分",
-      "onboard_time": 1678595486,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 190050,
@@ -19035,6 +19075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 139651,
+      "num": 139651,
+      "word": "小鬼王琳凯音乐节",
+      "onboard_time": 1678596567,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 139628,
       "num": 139628,
       "word": "葬送的芙莉莲",
@@ -19825,6 +19873,14 @@
       "onboard_time": 1678459050,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 126759,
+      "num": 126759,
+      "word": "勇士战胜雄鹿",
+      "onboard_time": 1678596625,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 126668,
