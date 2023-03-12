@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1678646114582,
+  "endTime": 1678648437504,
   "band_list": [
     {
       "raw_hot": 1071468,
@@ -451,6 +451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 25255,
+      "num": 26859,
+      "word": "亚洲电影大奖",
+      "onboard_time": 1678634967,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 23846,
       "num": 229242,
       "word": "中国人的饭碗一定能牢牢端在自己手上",
@@ -459,12 +467,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 22540,
-      "num": 23001,
-      "word": "亚洲电影大奖",
-      "onboard_time": 1678634967,
-      "rank": 49,
-      "category": "影视"
+      "raw_hot": 19972,
+      "num": 34476,
+      "word": "人大代表说科技创新要带着农民赚",
+      "onboard_time": 1678646232,
+      "rank": 0,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 19868,
@@ -473,6 +481,14 @@
       "onboard_time": 1678491140,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 17549,
+      "num": 17549,
+      "word": "驾驶我的车亚洲电影大奖最佳影片",
+      "onboard_time": 1678645632,
+      "rank": 40,
+      "category": "影视"
     }
   ],
   "hotgov_list": [
