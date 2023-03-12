@@ -1,0 +1,410 @@
+{
+  "runTime": 1678599228305,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 463507,
+        "num": 463507,
+        "word": "各部部长",
+        "onboard_time": 1678588164,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 413844,
+        "num": 413844,
+        "word": "中国外交悄悄干了件大事",
+        "onboard_time": 1678577478,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 68268,
+        "num": 412615,
+        "word": "春天里的中国生机盎然",
+        "onboard_time": 1678587744,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 968044,
+        "num": 406622,
+        "word": "四级",
+        "onboard_time": 1678578620,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 329500,
+        "num": 405514,
+        "word": "委员称无痛分娩是该单独入医保了",
+        "onboard_time": 1678588703,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317521,
+        "num": 398469,
+        "word": "库里绝平三分",
+        "onboard_time": 1678595486,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 448301,
+        "num": 393887,
+        "word": "四级作文",
+        "onboard_time": 1678591885,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 303748,
+        "num": 392655,
+        "word": "教授谈为什么有的手机越用越慢",
+        "onboard_time": 1678582226,
+        "rank": 7,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 247474,
+        "num": 386608,
+        "word": "保你平安",
+        "onboard_time": 1678598785,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 344432,
+        "num": 381855,
+        "word": "四级答案",
+        "onboard_time": 1678592067,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 2245944,
+        "num": 379577,
+        "word": "庆余年2 原班人马",
+        "onboard_time": 1678596865,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 997555,
+        "num": 374353,
+        "word": "朴妍珍被霸凌",
+        "onboard_time": 1678590025,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 761281,
+        "num": 370400,
+        "word": "注意两男三女的圈子",
+        "onboard_time": 1678596086,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 575266,
+        "num": 366336,
+        "word": "网红阿秋8千元单车被以700元贱卖",
+        "onboard_time": 1678586845,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 445908,
+        "num": 362287,
+        "word": "硅谷银行CEO精准套现2500万",
+        "onboard_time": 1678591165,
+        "rank": 14,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 359998,
+        "num": 359998,
+        "word": "世界上最孤独的鲸去世",
+        "onboard_time": 1678584147,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350682,
+        "num": 350682,
+        "word": "体育总局局长谈振兴三大球",
+        "onboard_time": 1678592067,
+        "rank": 16,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 413246,
+        "num": 345431,
+        "word": "硅谷银行破产冲击已蔓延多国",
+        "onboard_time": 1678596928,
+        "rank": 17,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 325787,
+        "num": 325787,
+        "word": "退清华考上北大博主遭质疑后删视频",
+        "onboard_time": 1678578259,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320832,
+        "num": 320832,
+        "word": "六级",
+        "onboard_time": 1678592608,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 312827,
+        "num": 312827,
+        "word": "看完黑暗荣耀的我",
+        "onboard_time": 1678588645,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 268662,
+        "num": 268662,
+        "word": "SM回应HYBE退出此次商战",
+        "onboard_time": 1678592788,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315675,
+        "num": 254905,
+        "word": "自驾游 翻译",
+        "onboard_time": 1678593205,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 201006,
+        "num": 201006,
+        "word": "惠英红说刘耀文非常有进步",
+        "onboard_time": 1678595666,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187761,
+        "num": 187761,
+        "word": "周震南说分享的意义是在找同类",
+        "onboard_time": 1678597166,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227946,
+        "num": 187712,
+        "word": "四级主打一个陪伴",
+        "onboard_time": 1678593626,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 187488,
+        "num": 187488,
+        "word": "青春有你2播出三周年",
+        "onboard_time": 1678591044,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178094,
+        "num": 178094,
+        "word": "姚晨呼兰脐带首映礼同框",
+        "onboard_time": 1678599085,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 177058,
+        "num": 177058,
+        "word": "回廊亭豆瓣开分5.8",
+        "onboard_time": 1678593265,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 154573,
+        "num": 154573,
+        "word": "黑暗荣耀2五人组头像",
+        "onboard_time": 1678586545,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 155323,
+        "num": 154437,
+        "word": "建议优化火车票改签规定",
+        "onboard_time": 1678598605,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153469,
+        "num": 153469,
+        "word": "山西泽州二三孩中考将加10分",
+        "onboard_time": 1678582344,
+        "rank": 31,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 152752,
+        "num": 152752,
+        "word": "李莎拉打滚做臀桥",
+        "onboard_time": 1678581323,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 150392,
+        "num": 150392,
+        "word": "小鬼王琳凯音乐节",
+        "onboard_time": 1678596567,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 148486,
+        "num": 148486,
+        "word": "金秋天跳OMG",
+        "onboard_time": 1678596625,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 148074,
+        "num": 148074,
+        "word": "Kakao取得SMTOWN经营权",
+        "onboard_time": 1678587083,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128352,
+        "num": 128352,
+        "word": "高龄产妇剖宫诞下羊膜护体宝宝",
+        "onboard_time": 1678546469,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127490,
+        "num": 127490,
+        "word": "奥斯卡",
+        "onboard_time": 1678592247,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 115931,
+        "num": 115931,
+        "word": "电视剧归路OST阵容",
+        "onboard_time": 1678592487,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 111615,
+        "num": 111615,
+        "word": "丁薛祥何立峰张国清刘国中为副总理",
+        "onboard_time": 1678587744,
+        "rank": 39,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 105469,
+        "num": 105469,
+        "word": "业内称硅谷银行很快迎来接盘方",
+        "onboard_time": 1678598365,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 104813,
+        "num": 104813,
+        "word": "种树吧电竞少年",
+        "onboard_time": 1678591647,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 95009,
+        "num": 95009,
+        "word": "神奇女侠现身沙赞2",
+        "onboard_time": 1678595007,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 88943,
+        "num": 88943,
+        "word": "贾玲第二部导演作品有张小斐",
+        "onboard_time": 1678577598,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 87520,
+        "num": 87520,
+        "word": "庆余年2 范思辙",
+        "onboard_time": 1678531467,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 86164,
+        "num": 86164,
+        "word": "副总理国务委员秘书长进行宪法宣誓",
+        "onboard_time": 1678589844,
+        "rank": 45,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 79316,
+        "num": 79316,
+        "word": "还硬糖少女303一场演唱会",
+        "onboard_time": 1678581323,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 77695,
+        "num": 77695,
+        "word": "承欢记主演拟邀杨紫许凯",
+        "onboard_time": 1678582104,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 74796,
+        "num": 74796,
+        "word": "SEVENTEEN将于4月回归",
+        "onboard_time": 1678599205,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 72274,
+        "num": 72274,
+        "word": "六级预测",
+        "onboard_time": 1678599146,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#两会#"
+    }
+  }
+}

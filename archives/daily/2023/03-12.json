@@ -1,9 +1,9 @@
 {
   "startTime": 1678551810555,
-  "endTime": 1678598184250,
+  "endTime": 1678599228305,
   "band_list": [
     {
-      "raw_hot": 1992196,
+      "raw_hot": 2245944,
       "num": 457959,
       "word": "庆余年2 原班人马",
       "onboard_time": 1678596865,
@@ -139,6 +139,14 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 761281,
+      "num": 457641,
+      "word": "注意两男三女的圈子",
+      "onboard_time": 1678596086,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 750572,
       "num": 552072,
       "word": "青春有你2播出三周年",
@@ -153,14 +161,6 @@
       "onboard_time": 1678582226,
       "rank": 3,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 745452,
-      "num": 457641,
-      "word": "注意两男三女的圈子",
-      "onboard_time": 1678596086,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 684115,
@@ -289,6 +289,14 @@
       "onboard_time": 1678595486,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 413246,
+      "num": 345431,
+      "word": "硅谷银行破产冲击已蔓延多国",
+      "onboard_time": 1678596928,
+      "rank": 24,
+      "category": "财经,科技"
     },
     {
       "raw_hot": 398858,
@@ -491,12 +499,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 246791,
-      "num": 246791,
-      "word": "硅谷银行破产冲击已蔓延多国",
-      "onboard_time": 1678596928,
-      "rank": 24,
-      "category": "财经,科技"
+      "raw_hot": 247474,
+      "num": 386608,
+      "word": "保你平安",
+      "onboard_time": 1678598785,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 245576,
@@ -643,6 +651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 178094,
+      "num": 178094,
+      "word": "姚晨呼兰脐带首映礼同框",
+      "onboard_time": 1678599085,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 177772,
       "num": 177772,
       "word": "RNG战胜WBG",
@@ -731,6 +747,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 155323,
+      "num": 154437,
+      "word": "建议优化火车票改签规定",
+      "onboard_time": 1678598605,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152906,
       "num": 152906,
       "word": "雄鹿vs勇士",
@@ -763,6 +787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 150392,
+      "num": 150392,
+      "word": "小鬼王琳凯音乐节",
+      "onboard_time": 1678596567,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 144804,
       "num": 113802,
       "word": "4分钟看懂硅谷银行危机来龙去脉",
@@ -785,14 +817,6 @@
       "onboard_time": 1678540889,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 139651,
-      "num": 139651,
-      "word": "小鬼王琳凯音乐节",
-      "onboard_time": 1678596567,
-      "rank": 35,
-      "category": "音乐"
     },
     {
       "raw_hot": 138179,
@@ -912,6 +936,14 @@
       "word": "硅谷银行倒闭钱怎么办",
       "onboard_time": 1678555636,
       "rank": 42,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 105469,
+      "num": 105469,
+      "word": "业内称硅谷银行很快迎来接盘方",
+      "onboard_time": 1678598365,
+      "rank": 40,
       "category": "财经"
     },
     {
@@ -1041,6 +1073,22 @@
       "onboard_time": 1678582645,
       "rank": 4,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 74796,
+      "num": 74796,
+      "word": "SEVENTEEN将于4月回归",
+      "onboard_time": 1678599205,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 72274,
+      "num": 72274,
+      "word": "六级预测",
+      "onboard_time": 1678599146,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 66425,
