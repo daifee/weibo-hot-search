@@ -1,0 +1,410 @@
+{
+  "runTime": 1678630542337,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 158979,
+        "num": 555299,
+        "word": "天舟六号已运往文昌航天发射场",
+        "onboard_time": 1678624527,
+        "rank": 0,
+        "category": "科技,国内要闻"
+      },
+      {
+        "raw_hot": 96746,
+        "num": 553779,
+        "word": "中国人的饭碗一定能牢牢端在自己手上",
+        "onboard_time": 1678609584,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 74974,
+        "num": 542091,
+        "word": "这就是春天里的中国",
+        "onboard_time": 1678628848,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1546293,
+        "num": 537115,
+        "word": "游客饮料不慎掉落被大熊猫捡来喝",
+        "onboard_time": 1678627827,
+        "rank": 3,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 628688,
+        "num": 532386,
+        "word": "流浪地球2票房破40亿",
+        "onboard_time": 1678627228,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 528625,
+        "num": 528625,
+        "word": "林孝埈唱国歌",
+        "onboard_time": 1678615467,
+        "rank": 5,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 495234,
+        "num": 495234,
+        "word": "马龙",
+        "onboard_time": 1678625068,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 417170,
+        "num": 417170,
+        "word": "韩国队恶意犯规遭裁判无视",
+        "onboard_time": 1678620446,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 352095,
+        "num": 416773,
+        "word": "六级阅读 小鸭子",
+        "onboard_time": 1678617327,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 328688,
+        "num": 415656,
+        "word": "WCBA",
+        "onboard_time": 1678629447,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 979118,
+        "num": 415389,
+        "word": "兄弟瞒着外嫁姐姐办理父母遗产继承",
+        "onboard_time": 1678624348,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 846098,
+        "num": 414114,
+        "word": "黑暗荣耀导演承认校园暴力",
+        "onboard_time": 1678610906,
+        "rank": 11,
+        "category": "影视,社会新闻"
+      },
+      {
+        "raw_hot": 841432,
+        "num": 413605,
+        "word": "浙江人1年花18亿买香奈儿",
+        "onboard_time": 1678620147,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 613317,
+        "num": 412595,
+        "word": "台民众买24颗鸡蛋花400块",
+        "onboard_time": 1678623445,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 412538,
+        "num": 412538,
+        "word": "张译亮相亚洲电影大奖",
+        "onboard_time": 1678625847,
+        "rank": 14,
+        "category": "影视,艺人"
+      },
+      {
+        "raw_hot": 401962,
+        "num": 401962,
+        "word": "小鬼精修图vs现场生图",
+        "onboard_time": 1678615585,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 394883,
+        "num": 394883,
+        "word": "Pledis新男团亮相克拉岛",
+        "onboard_time": 1678629507,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 364466,
+        "num": 364466,
+        "word": "陆虎 扬州",
+        "onboard_time": 1678623986,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 363660,
+        "num": 363660,
+        "word": "崔惠廷扮演者的双面人生",
+        "onboard_time": 1678624947,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 296409,
+        "num": 296409,
+        "word": "潘石屹称从未在硅谷银行开过户",
+        "onboard_time": 1678620565,
+        "rank": 19,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 296197,
+        "num": 296197,
+        "word": "庆余年2 原班人马",
+        "onboard_time": 1678596865,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 262778,
+        "num": 262778,
+        "word": "SMTOWN艺人在BoA演唱会团建",
+        "onboard_time": 1678627588,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 253829,
+        "num": 253829,
+        "word": "杨紫琼获奥斯卡影后概率有多大",
+        "onboard_time": 1678620867,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 247472,
+        "num": 247472,
+        "word": "六级答案",
+        "onboard_time": 1678613906,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 242813,
+        "num": 242813,
+        "word": "国考",
+        "onboard_time": 1678609644,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 234353,
+        "num": 234353,
+        "word": "护士兼职摆摊两周赚1万5后全职开店",
+        "onboard_time": 1678608386,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224176,
+        "num": 224176,
+        "word": "张朝阳推导复系数高斯积分有多烧脑",
+        "onboard_time": 1678627527,
+        "rank": 26,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 224173,
+        "num": 224173,
+        "word": "今晚开放麦",
+        "onboard_time": 1678628848,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213933,
+        "num": 213933,
+        "word": "四川女篮WCBA总冠军",
+        "onboard_time": 1678629989,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 212836,
+        "num": 212836,
+        "word": "九霄寒夜暖又he又be",
+        "onboard_time": 1678625488,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 224886,
+        "num": 210808,
+        "word": "李梦上篮",
+        "onboard_time": 1678629929,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208197,
+        "num": 208197,
+        "word": "美媒称中国遍地杨树花是遭虫雨袭击",
+        "onboard_time": 1678610427,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206777,
+        "num": 206777,
+        "word": "林孝埈说下赛季见",
+        "onboard_time": 1678629686,
+        "rank": 32,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 205691,
+        "num": 205691,
+        "word": "TTG 上野",
+        "onboard_time": 1678628249,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 202549,
+        "num": 202549,
+        "word": "U20国足1比3韩国U20",
+        "onboard_time": 1678625967,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193411,
+        "num": 193411,
+        "word": "孟美岐舞蹈cover",
+        "onboard_time": 1678630469,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 190707,
+        "num": 190707,
+        "word": "黑暗荣耀",
+        "onboard_time": 1678607064,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189845,
+        "num": 189845,
+        "word": "乘风2023 嘉宾",
+        "onboard_time": 1678621407,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181321,
+        "num": 181321,
+        "word": "全圆佑跳Attention",
+        "onboard_time": 1678616427,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 180632,
+        "num": 180632,
+        "word": "黑暗荣耀 讽刺",
+        "onboard_time": 1678616367,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 179303,
+        "num": 179303,
+        "word": "羽生结弦冰上跳Dynamite",
+        "onboard_time": 1678620565,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173768,
+        "num": 173768,
+        "word": "我国每年废弃手机约4亿部",
+        "onboard_time": 1678621348,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170307,
+        "num": 170307,
+        "word": "AG 一诺采访",
+        "onboard_time": 1678625068,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 165896,
+        "num": 165896,
+        "word": "李一桐遗憾和张颂文没有对手戏",
+        "onboard_time": 1678606584,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163361,
+        "num": 163361,
+        "word": "美商界人士警告经济衰退或已到来",
+        "onboard_time": 1678619187,
+        "rank": 44,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 162069,
+        "num": 162069,
+        "word": "华晨宇录节目错过杭州抢票",
+        "onboard_time": 1678612527,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 156744,
+        "num": 156744,
+        "word": "大熊猫宝宝被妈妈强行按进水里",
+        "onboard_time": 1678613244,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152544,
+        "num": 152544,
+        "word": "U20国足止步八强",
+        "onboard_time": 1678625666,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149307,
+        "num": 149307,
+        "word": "MRC 星河",
+        "onboard_time": 1678627887,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 125979,
+        "num": 125979,
+        "word": "SEVENTEEN集体跳HypeBoy",
+        "onboard_time": 1678620266,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#团结凝聚力量#"
+    }
+  }
+}
