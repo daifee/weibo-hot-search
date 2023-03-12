@@ -1,6 +1,6 @@
 {
   "startTime": 1678033461577,
-  "endTime": 1678609324078,
+  "endTime": 1678610135406,
   "band_list": [
     {
       "raw_hot": 15614082,
@@ -1555,6 +1555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 938103,
+      "num": 390611,
+      "word": "李一桐遗憾和张颂文没有对手戏",
+      "onboard_time": 1678606584,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 928704,
       "num": 253306,
       "word": "B站",
@@ -1905,14 +1913,6 @@
       "onboard_time": 1678334070,
       "rank": 12,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 810510,
-      "num": 390611,
-      "word": "李一桐遗憾和张颂文没有对手戏",
-      "onboard_time": 1678606584,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 807984,
@@ -2347,6 +2347,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 688140,
+      "num": 390103,
+      "word": "黑暗荣耀韩国收视率",
+      "onboard_time": 1678607726,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 687976,
       "num": 687976,
       "word": "王楚然说玉骨遥今年会播",
@@ -2379,14 +2387,6 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 680941,
-      "num": 390103,
-      "word": "黑暗荣耀韩国收视率",
-      "onboard_time": 1678607726,
-      "rank": 13,
-      "category": "影视"
-    },
-    {
       "raw_hot": 680392,
       "num": 375548,
       "word": "徐若晗 男人装",
@@ -2417,6 +2417,14 @@
       "onboard_time": 1678408408,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 673480,
+      "num": 387685,
+      "word": "富国银行",
+      "onboard_time": 1678606764,
+      "rank": 15,
+      "category": "财经"
     },
     {
       "raw_hot": 673418,
@@ -2489,6 +2497,14 @@
       "onboard_time": 1678504710,
       "rank": 28,
       "category": "教育"
+    },
+    {
+      "raw_hot": 665349,
+      "num": 363168,
+      "word": "护士兼职摆摊两周赚1万5后全职开店",
+      "onboard_time": 1678608386,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 665004,
@@ -2681,14 +2697,6 @@
       "onboard_time": 1678363827,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 641425,
-      "num": 387685,
-      "word": "富国银行",
-      "onboard_time": 1678606764,
-      "rank": 15,
-      "category": "财经"
     },
     {
       "raw_hot": 638217,
@@ -3425,6 +3433,14 @@
       "onboard_time": 1678266268,
       "rank": 32,
       "category": "科技"
+    },
+    {
+      "raw_hot": 535419,
+      "num": 397978,
+      "word": "四只大熊猫凑一桌像在打麻将",
+      "onboard_time": 1678608084,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 534702,
@@ -5259,14 +5275,6 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 362407,
-      "num": 362407,
-      "word": "护士兼职摆摊两周赚1万5后全职开店",
-      "onboard_time": 1678608386,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 361118,
       "num": 278027,
       "word": "委员说国家统一是大势所趋",
@@ -5753,14 +5761,6 @@
       "onboard_time": 1678604305,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 333008,
-      "num": 397978,
-      "word": "四只大熊猫凑一桌像在打麻将",
-      "onboard_time": 1678608084,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 332379,
@@ -6369,6 +6369,14 @@
       "onboard_time": 1678458331,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 292885,
+      "num": 372045,
+      "word": "深圳校服出防晒服版",
+      "onboard_time": 1678606164,
+      "rank": 46,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 292829,
@@ -6985,14 +6993,6 @@
       "onboard_time": 1678246829,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 252097,
-      "num": 252097,
-      "word": "深圳校服出防晒服版",
-      "onboard_time": 1678606164,
-      "rank": 46,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 252017,
@@ -9043,6 +9043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 191113,
+      "num": 395327,
+      "word": "重庆去年山火救援志愿者又回来植树",
+      "onboard_time": 1678606226,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190998,
       "num": 190998,
       "word": "九尾KPL登场四周年",
@@ -9105,14 +9113,6 @@
       "onboard_time": 1678272688,
       "rank": 27,
       "category": "幽默,时尚"
-    },
-    {
-      "raw_hot": 190113,
-      "num": 395327,
-      "word": "重庆去年山火救援志愿者又回来植树",
-      "onboard_time": 1678606226,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 190050,
@@ -12755,6 +12755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 88331,
+      "num": 382544,
+      "word": "中国人的饭碗一定能牢牢端在自己手上",
+      "onboard_time": 1678609584,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 88203,
       "num": 165248,
       "word": "网红打卡地如何一直红下去",
@@ -13241,6 +13249,14 @@
       "onboard_time": 1678120939,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 52387,
+      "num": 379606,
+      "word": "中国发布2022年国土绿化成绩单",
+      "onboard_time": 1678609644,
+      "rank": 3,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 51445,
