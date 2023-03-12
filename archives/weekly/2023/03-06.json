@@ -1,6 +1,6 @@
 {
   "startTime": 1678033461577,
-  "endTime": 1678619655972,
+  "endTime": 1678620806791,
   "band_list": [
     {
       "raw_hot": 15614082,
@@ -2659,6 +2659,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 654499,
+      "num": 503583,
+      "word": "六级阅读 小鸭子",
+      "onboard_time": 1678617327,
+      "rank": 15,
+      "category": "教育"
+    },
+    {
       "raw_hot": 652733,
       "num": 573429,
       "word": "四只大熊猫凑一桌像在打麻将",
@@ -3129,14 +3137,6 @@
       "onboard_time": 1678246948,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 585709,
-      "num": 498629,
-      "word": "六级阅读 小鸭子",
-      "onboard_time": 1678617327,
-      "rank": 15,
-      "category": "教育"
     },
     {
       "raw_hot": 585583,
@@ -4201,6 +4201,14 @@
       "onboard_time": 1678063287,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 476958,
+      "num": 476958,
+      "word": "徐明浩跳nxde",
+      "onboard_time": 1678620086,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 476032,
@@ -6411,6 +6419,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 300455,
+      "num": 300455,
+      "word": "SEVENTEEN集体跳HypeBoy",
+      "onboard_time": 1678620266,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 299168,
       "num": 256038,
       "word": "导师修改的摘要和你的正文",
@@ -6561,6 +6577,14 @@
       "onboard_time": 1678543408,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 291111,
+      "num": 291111,
+      "word": "硅谷许多公司可能发不出工资",
+      "onboard_time": 1678615886,
+      "rank": 42,
+      "category": "财经,科技"
     },
     {
       "raw_hot": 290915,
@@ -6777,14 +6801,6 @@
       "onboard_time": 1678116446,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 275901,
-      "num": 275901,
-      "word": "硅谷许多公司可能发不出工资",
-      "onboard_time": 1678615886,
-      "rank": 42,
-      "category": "财经,科技"
     },
     {
       "raw_hot": 275400,
@@ -7835,6 +7851,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 223504,
+      "num": 223504,
+      "word": "韩国队恶意犯规遭裁判无视",
+      "onboard_time": 1678620446,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 223389,
       "num": 223389,
       "word": "薛之谦 抢票",
@@ -7865,6 +7889,14 @@
       "onboard_time": 1678079007,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 222834,
+      "num": 222834,
+      "word": "浙江人1年花18亿买香奈儿",
+      "onboard_time": 1678620147,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 222759,
@@ -8115,6 +8147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 213067,
+      "num": 506532,
+      "word": "Hero 状态",
+      "onboard_time": 1678618405,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 212759,
       "num": 212759,
       "word": "特朗普谈2024年大选",
@@ -8265,6 +8305,14 @@
       "onboard_time": 1678102286,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 208684,
+      "num": 208684,
+      "word": "潘石屹称从未在硅谷银行开过户",
+      "onboard_time": 1678620565,
+      "rank": 33,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 208235,
@@ -8449,6 +8497,14 @@
       "onboard_time": 1678334970,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 205113,
+      "num": 205113,
+      "word": "木塔力甫破门",
+      "onboard_time": 1678619665,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 205061,
@@ -9019,14 +9075,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 196321,
-      "num": 506532,
-      "word": "Hero 状态",
-      "onboard_time": 1678618405,
-      "rank": 9,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 196294,
       "num": 196294,
       "word": "朱珠爱情观",
@@ -9313,6 +9361,14 @@
       "onboard_time": 1678334731,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 190792,
+      "num": 200874,
+      "word": "羽生结弦冰上跳Dynamite",
+      "onboard_time": 1678620565,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 190762,
@@ -9713,6 +9769,14 @@
       "onboard_time": 1678067667,
       "rank": 40,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 179913,
+      "num": 179913,
+      "word": "美商界人士警告经济衰退或已到来",
+      "onboard_time": 1678619187,
+      "rank": 49,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 179887,
@@ -11697,14 +11761,6 @@
       "onboard_time": 1678171945,
       "rank": 38,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 122941,
-      "num": 122941,
-      "word": "美商界人士警告经济衰退或已到来",
-      "onboard_time": 1678619187,
-      "rank": 49,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 122939,

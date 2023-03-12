@@ -1,6 +1,6 @@
 {
   "startTime": 1678551810555,
-  "endTime": 1678619655972,
+  "endTime": 1678620806791,
   "band_list": [
     {
       "raw_hot": 2673036,
@@ -347,6 +347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 654499,
+      "num": 503583,
+      "word": "六级阅读 小鸭子",
+      "onboard_time": 1678617327,
+      "rank": 15,
+      "category": "教育"
+    },
+    {
       "raw_hot": 652733,
       "num": 573429,
       "word": "四只大熊猫凑一桌像在打麻将",
@@ -385,14 +393,6 @@
       "onboard_time": 1678615286,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 585709,
-      "num": 498629,
-      "word": "六级阅读 小鸭子",
-      "onboard_time": 1678617327,
-      "rank": 15,
-      "category": "教育"
     },
     {
       "raw_hot": 579136,
@@ -497,6 +497,14 @@
       "onboard_time": 1678530086,
       "rank": 3,
       "category": "情感"
+    },
+    {
+      "raw_hot": 476958,
+      "num": 476958,
+      "word": "徐明浩跳nxde",
+      "onboard_time": 1678620086,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 475679,
@@ -787,6 +795,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 300455,
+      "num": 300455,
+      "word": "SEVENTEEN集体跳HypeBoy",
+      "onboard_time": 1678620266,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 297441,
       "num": 571614,
       "word": "深圳校服出防晒服版",
@@ -803,6 +819,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 291111,
+      "num": 291111,
+      "word": "硅谷许多公司可能发不出工资",
+      "onboard_time": 1678615886,
+      "rank": 42,
+      "category": "财经,科技"
+    },
+    {
       "raw_hot": 282277,
       "num": 235412,
       "word": "张新成光渊病号服造型",
@@ -817,14 +841,6 @@
       "onboard_time": 1678619065,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 275901,
-      "num": 275901,
-      "word": "硅谷许多公司可能发不出工资",
-      "onboard_time": 1678615886,
-      "rank": 42,
-      "category": "财经,科技"
     },
     {
       "raw_hot": 273974,
@@ -979,6 +995,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 223504,
+      "num": 223504,
+      "word": "韩国队恶意犯规遭裁判无视",
+      "onboard_time": 1678620446,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 222834,
+      "num": 222834,
+      "word": "浙江人1年花18亿买香奈儿",
+      "onboard_time": 1678620147,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 222759,
       "num": 222759,
       "word": "宋轶罗一舟也来鼓楼打卡了",
@@ -1027,12 +1059,28 @@
       "category": "时尚,幽默"
     },
     {
+      "raw_hot": 213067,
+      "num": 506532,
+      "word": "Hero 状态",
+      "onboard_time": 1678618405,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 210683,
       "num": 204583,
       "word": "种树吧电竞少年",
       "onboard_time": 1678591647,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 208684,
+      "num": 208684,
+      "word": "潘石屹称从未在硅谷银行开过户",
+      "onboard_time": 1678620565,
+      "rank": 33,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 208054,
@@ -1049,6 +1097,14 @@
       "onboard_time": 1678616785,
       "rank": 34,
       "category": "教育"
+    },
+    {
+      "raw_hot": 205113,
+      "num": 205113,
+      "word": "木塔力甫破门",
+      "onboard_time": 1678619665,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 204886,
@@ -1131,20 +1187,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 196321,
-      "num": 506532,
-      "word": "Hero 状态",
-      "onboard_time": 1678618405,
-      "rank": 9,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 191113,
       "num": 395327,
       "word": "重庆去年山火救援志愿者又回来植树",
       "onboard_time": 1678606226,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190792,
+      "num": 200874,
+      "word": "羽生结弦冰上跳Dynamite",
+      "onboard_time": 1678620565,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 188758,
@@ -1177,6 +1233,14 @@
       "onboard_time": 1678600225,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 179913,
+      "num": 179913,
+      "word": "美商界人士警告经济衰退或已到来",
+      "onboard_time": 1678619187,
+      "rank": 49,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 178379,
@@ -1481,14 +1545,6 @@
       "onboard_time": 1678596625,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 122941,
-      "num": 122941,
-      "word": "美商界人士警告经济衰退或已到来",
-      "onboard_time": 1678619187,
-      "rank": 49,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 121155,

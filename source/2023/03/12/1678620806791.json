@@ -1,0 +1,410 @@
+{
+  "runTime": 1678620806791,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 214392,
+        "num": 504276,
+        "word": "中国人的饭碗一定能牢牢端在自己手上",
+        "onboard_time": 1678609584,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 123148,
+        "num": 504268,
+        "word": "建议优化火车票改签规定",
+        "onboard_time": 1678598605,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92110,
+        "num": 504054,
+        "word": "中国发布2022年国土绿化成绩单",
+        "onboard_time": 1678609644,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 856055,
+        "num": 503761,
+        "word": "林孝埈唱国歌",
+        "onboard_time": 1678615467,
+        "rank": 3,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 654499,
+        "num": 503583,
+        "word": "六级阅读 小鸭子",
+        "onboard_time": 1678617327,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 578900,
+        "num": 503247,
+        "word": "U20国足vs韩国U20",
+        "onboard_time": 1678615286,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 503194,
+        "num": 503194,
+        "word": "浙江选育出了螺蛳粉樱花",
+        "onboard_time": 1678604905,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 615615,
+        "num": 502358,
+        "word": "六级答案",
+        "onboard_time": 1678613906,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 351315,
+        "num": 499296,
+        "word": "中国队世锦赛5000米接力夺冠",
+        "onboard_time": 1678611507,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213067,
+        "num": 496136,
+        "word": "Hero 状态",
+        "onboard_time": 1678618405,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1588206,
+        "num": 493418,
+        "word": "黑暗荣耀导演承认校园暴力",
+        "onboard_time": 1678610906,
+        "rank": 10,
+        "category": "影视,社会新闻"
+      },
+      {
+        "raw_hot": 731119,
+        "num": 491833,
+        "word": "国考",
+        "onboard_time": 1678609644,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 713285,
+        "num": 488820,
+        "word": "小鬼精修图vs现场生图",
+        "onboard_time": 1678615585,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 651665,
+        "num": 487391,
+        "word": "庆余年2 原班人马",
+        "onboard_time": 1678596865,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 560808,
+        "num": 483730,
+        "word": "美媒称中国遍地杨树花是遭虫雨袭击",
+        "onboard_time": 1678610427,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 482654,
+        "num": 482654,
+        "word": "李一桐遗憾和张颂文没有对手戏",
+        "onboard_time": 1678606584,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 476958,
+        "num": 476958,
+        "word": "徐明浩跳nxde",
+        "onboard_time": 1678620086,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 475897,
+        "num": 475897,
+        "word": "护士兼职摆摊两周赚1万5后全职开店",
+        "onboard_time": 1678608386,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 448397,
+        "num": 448397,
+        "word": "翻译徐霞客",
+        "onboard_time": 1678617385,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 433314,
+        "num": 433314,
+        "word": "华晨宇录节目错过杭州抢票",
+        "onboard_time": 1678612527,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 376770,
+        "num": 376770,
+        "word": "黑暗荣耀 讽刺",
+        "onboard_time": 1678616367,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 304764,
+        "num": 304764,
+        "word": "写作 数字鸿沟",
+        "onboard_time": 1678617086,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 300455,
+        "num": 300455,
+        "word": "SEVENTEEN集体跳HypeBoy",
+        "onboard_time": 1678620266,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 274704,
+        "num": 291298,
+        "word": "小镇青年应该怎么扩大交友圈",
+        "onboard_time": 1678619065,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 291111,
+        "num": 291111,
+        "word": "硅谷许多公司可能发不出工资",
+        "onboard_time": 1678615886,
+        "rank": 24,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 290837,
+        "num": 290837,
+        "word": "动物园猩猩抽烟吐烟圈动作娴熟",
+        "onboard_time": 1678614207,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283034,
+        "num": 283034,
+        "word": "迪丽热巴 微博之夜",
+        "onboard_time": 1678604905,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264884,
+        "num": 264884,
+        "word": "大熊猫宝宝被妈妈强行按进水里",
+        "onboard_time": 1678613244,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248553,
+        "num": 248553,
+        "word": "四只大熊猫凑一桌像在打麻将",
+        "onboard_time": 1678608084,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229783,
+        "num": 229783,
+        "word": "张亮麻辣烫回应门店缺斤短两",
+        "onboard_time": 1678602504,
+        "rank": 29,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 263575,
+        "num": 228137,
+        "word": "潘石屹",
+        "onboard_time": 1678600045,
+        "rank": 30,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 223504,
+        "num": 223504,
+        "word": "韩国队恶意犯规遭裁判无视",
+        "onboard_time": 1678620446,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 222834,
+        "num": 222834,
+        "word": "浙江人1年花18亿买香奈儿",
+        "onboard_time": 1678620147,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208684,
+        "num": 208684,
+        "word": "潘石屹称从未在硅谷银行开过户",
+        "onboard_time": 1678620565,
+        "rank": 33,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 205113,
+        "num": 205113,
+        "word": "木塔力甫破门",
+        "onboard_time": 1678619665,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204178,
+        "num": 204178,
+        "word": "黑暗荣耀",
+        "onboard_time": 1678607064,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207766,
+        "num": 203619,
+        "word": "富国银行",
+        "onboard_time": 1678606764,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 190792,
+        "num": 200874,
+        "word": "羽生结弦冰上跳Dynamite",
+        "onboard_time": 1678620565,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199735,
+        "num": 199735,
+        "word": "河道英靠全在俊肩膀",
+        "onboard_time": 1678618465,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199518,
+        "num": 199518,
+        "word": "梁朝伟获亚洲电影贡献荣誉大奖",
+        "onboard_time": 1678617866,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 195153,
+        "num": 195153,
+        "word": "没有一个大姨是多余的",
+        "onboard_time": 1678612105,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 179913,
+        "num": 179913,
+        "word": "美商界人士警告经济衰退或已到来",
+        "onboard_time": 1678619187,
+        "rank": 41,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 176023,
+        "num": 176023,
+        "word": "大鹏贾冰吻戏拍了28遍",
+        "onboard_time": 1678602984,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 175656,
+        "num": 175656,
+        "word": "黑暗荣耀韩国收视率",
+        "onboard_time": 1678607726,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 169060,
+        "num": 169060,
+        "word": "宋轶罗一舟也来鼓楼打卡了",
+        "onboard_time": 1678616367,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 166703,
+        "num": 166703,
+        "word": "张译新剧他是谁定档",
+        "onboard_time": 1678604305,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 154348,
+        "num": 154348,
+        "word": "六级作文",
+        "onboard_time": 1678614328,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 152248,
+        "num": 152248,
+        "word": "全圆佑跳Attention",
+        "onboard_time": 1678616427,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 140145,
+        "num": 140145,
+        "word": "河道英抢女儿的原因",
+        "onboard_time": 1678600464,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 136391,
+        "num": 136391,
+        "word": "老师监考时都在干什么",
+        "onboard_time": 1678606285,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#两会#"
+    }
+  }
+}
