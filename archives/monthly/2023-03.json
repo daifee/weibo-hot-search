@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678591187739,
+  "endTime": 1678592008841,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -731,6 +731,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1729967,
+      "num": 616239,
+      "word": "四级",
+      "onboard_time": 1678578620,
+      "rank": 6,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1713353,
       "num": 1713353,
       "word": "周琦回应",
@@ -1065,6 +1073,14 @@
       "onboard_time": 1677653126,
       "rank": 0,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1467139,
+      "num": 289017,
+      "word": "朴妍珍被霸凌",
+      "onboard_time": 1678590025,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 1466556,
@@ -1793,14 +1809,6 @@
       "onboard_time": 1677663149,
       "rank": 46,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 1153034,
-      "num": 289017,
-      "word": "朴妍珍被霸凌",
-      "onboard_time": 1678590025,
-      "rank": 10,
-      "category": "影视"
     },
     {
       "raw_hot": 1151341,
@@ -4915,6 +4923,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 612948,
+      "num": 612948,
+      "word": "委员称无痛分娩是该单独入医保了",
+      "onboard_time": 1678588703,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 612218,
       "num": 414892,
       "word": "鹿晗领养的老虎叫五哈",
@@ -5169,6 +5185,14 @@
       "onboard_time": 1677887544,
       "rank": 4,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 589294,
+      "num": 240595,
+      "word": "青春有你2播出三周年",
+      "onboard_time": 1678591044,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 589088,
@@ -6211,14 +6235,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 521410,
-      "num": 521410,
-      "word": "委员称无痛分娩是该单独入医保了",
-      "onboard_time": 1678588703,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 521395,
       "num": 518874,
       "word": "iPhone14黄色款成最快降价新产品",
@@ -6753,14 +6769,6 @@
       "onboard_time": 1678002448,
       "rank": 12,
       "category": "科技"
-    },
-    {
-      "raw_hot": 489460,
-      "num": 489460,
-      "word": "四级",
-      "onboard_time": 1678578620,
-      "rank": 6,
-      "category": "教育"
     },
     {
       "raw_hot": 489264,
@@ -8747,6 +8755,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 377530,
+      "num": 243260,
+      "word": "看完黑暗荣耀的我",
+      "onboard_time": 1678588645,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 377074,
       "num": 242593,
       "word": "周一没有不疯的打工人",
@@ -9659,14 +9675,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 344122,
-      "num": 243260,
-      "word": "看完黑暗荣耀的我",
-      "onboard_time": 1678588645,
-      "rank": 24,
-      "category": "影视"
-    },
-    {
       "raw_hot": 343750,
       "num": 343750,
       "word": "张若昀敲胸的",
@@ -10065,6 +10073,14 @@
       "onboard_time": 1677850287,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 326857,
+      "num": 326857,
+      "word": "四级作文",
+      "onboard_time": 1678591885,
+      "rank": 7,
+      "category": "教育"
     },
     {
       "raw_hot": 326745,
@@ -12707,14 +12723,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 240595,
-      "num": 240595,
-      "word": "青春有你2播出三周年",
-      "onboard_time": 1678591044,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 240493,
       "num": 240493,
       "word": "吴兴涵",
@@ -14041,6 +14049,14 @@
       "onboard_time": 1678530866,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 210683,
+      "num": 169616,
+      "word": "种树吧电竞少年",
+      "onboard_time": 1678591647,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 210662,
@@ -16561,6 +16577,14 @@
       "onboard_time": 1678505910,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 180357,
+      "num": 138249,
+      "word": "硅谷银行CEO精准套现2500万",
+      "onboard_time": 1678591165,
+      "rank": 46,
+      "category": "财经,科技"
     },
     {
       "raw_hot": 180143,
@@ -21595,6 +21619,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 95176,
+      "num": 95176,
+      "word": "这些树你可能不会种",
+      "onboard_time": 1678590384,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 95111,
       "num": 999557,
       "word": "中国女性的互联网之路",
@@ -21609,14 +21641,6 @@
       "onboard_time": 1677658710,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 94735,
-      "num": 83993,
-      "word": "硅谷银行CEO精准套现2500万",
-      "onboard_time": 1678591165,
-      "rank": 46,
-      "category": "财经,科技"
     },
     {
       "raw_hot": 94717,
@@ -21985,14 +22009,6 @@
       "onboard_time": 1678366289,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 85102,
-      "num": 85102,
-      "word": "这些树你可能不会种",
-      "onboard_time": 1678590384,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 84659,
