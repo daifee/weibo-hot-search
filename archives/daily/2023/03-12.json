@@ -1,7 +1,15 @@
 {
   "startTime": 1678551810555,
-  "endTime": 1678592008841,
+  "endTime": 1678594923008,
   "band_list": [
+    {
+      "raw_hot": 1913124,
+      "num": 630185,
+      "word": "四级作文",
+      "onboard_time": 1678591885,
+      "rank": 7,
+      "category": "教育"
+    },
     {
       "raw_hot": 1729967,
       "num": 616239,
@@ -28,7 +36,7 @@
     },
     {
       "raw_hot": 1467139,
-      "num": 289017,
+      "num": 555144,
       "word": "朴妍珍被霸凌",
       "onboard_time": 1678590025,
       "rank": 10,
@@ -36,7 +44,7 @@
     },
     {
       "raw_hot": 1304753,
-      "num": 312675,
+      "num": 551476,
       "word": "退清华考上北大博主遭质疑后删视频",
       "onboard_time": 1678578259,
       "rank": 10,
@@ -44,7 +52,7 @@
     },
     {
       "raw_hot": 1273174,
-      "num": 280059,
+      "num": 553869,
       "word": "网红阿秋8千元单车被以700元贱卖",
       "onboard_time": 1678586845,
       "rank": 10,
@@ -57,6 +65,14 @@
       "onboard_time": 1678587744,
       "rank": 0,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 1188111,
+      "num": 555546,
+      "word": "四级答案",
+      "onboard_time": 1678592067,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 1091744,
@@ -91,12 +107,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 796274,
+      "num": 552640,
+      "word": "自驾游 翻译",
+      "onboard_time": 1678593205,
+      "rank": 12,
+      "category": "教育"
+    },
+    {
       "raw_hot": 769116,
       "num": 769116,
       "word": "美团称没有存款在硅谷银行",
       "onboard_time": 1678549586,
       "rank": 1,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 750572,
+      "num": 552072,
+      "word": "青春有你2播出三周年",
+      "onboard_time": 1678591044,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 746289,
@@ -107,6 +139,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 712385,
+      "num": 712385,
+      "word": "体育总局局长谈振兴三大球",
+      "onboard_time": 1678592067,
+      "rank": 1,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 684115,
       "num": 310523,
       "word": "贾玲第二部导演作品有张小斐",
@@ -115,20 +155,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 671322,
+      "num": 543482,
+      "word": "六级",
+      "onboard_time": 1678592608,
+      "rank": 15,
+      "category": "教育"
+    },
+    {
       "raw_hot": 612948,
       "num": 612948,
       "word": "委员称无痛分娩是该单独入医保了",
       "onboard_time": 1678588703,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 589294,
-      "num": 240595,
-      "word": "青春有你2播出三周年",
-      "onboard_time": 1678591044,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 575811,
@@ -148,11 +188,19 @@
     },
     {
       "raw_hot": 524600,
-      "num": 251648,
+      "num": 277771,
       "word": "Kakao取得SMTOWN经营权",
       "onboard_time": 1678587083,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 520737,
+      "num": 520737,
+      "word": "硅谷银行CEO精准套现2500万",
+      "onboard_time": 1678591165,
+      "rank": 46,
+      "category": "财经,科技"
     },
     {
       "raw_hot": 516486,
@@ -169,6 +217,14 @@
       "onboard_time": 1678581323,
       "rank": 14,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 511187,
+      "num": 500727,
+      "word": "四级主打一个陪伴",
+      "onboard_time": 1678593626,
+      "rank": 18,
+      "category": "教育"
     },
     {
       "raw_hot": 489371,
@@ -219,8 +275,16 @@
       "category": "影视"
     },
     {
-      "raw_hot": 377530,
-      "num": 243260,
+      "raw_hot": 391803,
+      "num": 391803,
+      "word": "SM回应HYBE退出此次商战",
+      "onboard_time": 1678592788,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 388261,
+      "num": 388261,
       "word": "看完黑暗荣耀的我",
       "onboard_time": 1678588645,
       "rank": 24,
@@ -233,6 +297,14 @@
       "onboard_time": 1678554978,
       "rank": 11,
       "category": "财经,科技"
+    },
+    {
+      "raw_hot": 369578,
+      "num": 369578,
+      "word": "奥斯卡",
+      "onboard_time": 1678592247,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 368393,
@@ -267,20 +339,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 331551,
+      "num": 557739,
+      "word": "电视剧归路OST阵容",
+      "onboard_time": 1678592487,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 329936,
       "num": 315542,
       "word": "柯南警校篇完结",
       "onboard_time": 1678552940,
       "rank": 3,
       "category": "动漫,影视"
-    },
-    {
-      "raw_hot": 326857,
-      "num": 326857,
-      "word": "四级作文",
-      "onboard_time": 1678591885,
-      "rank": 7,
-      "category": "教育"
     },
     {
       "raw_hot": 322631,
@@ -297,6 +369,14 @@
       "onboard_time": 1678545628,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 317821,
+      "num": 557046,
+      "word": "回廊亭豆瓣开分5.8",
+      "onboard_time": 1678593265,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 315750,
@@ -428,7 +508,7 @@
     },
     {
       "raw_hot": 210683,
-      "num": 169616,
+      "num": 204583,
       "word": "种树吧电竞少年",
       "onboard_time": 1678591647,
       "rank": 24,
@@ -497,14 +577,6 @@
       "onboard_time": 1678539689,
       "rank": 7,
       "category": "教育"
-    },
-    {
-      "raw_hot": 180357,
-      "num": 138249,
-      "word": "硅谷银行CEO精准套现2500万",
-      "onboard_time": 1678591165,
-      "rank": 46,
-      "category": "财经,科技"
     },
     {
       "raw_hot": 178379,
@@ -593,6 +665,14 @@
       "onboard_time": 1678534349,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 152906,
+      "num": 152906,
+      "word": "雄鹿vs勇士",
+      "onboard_time": 1678586185,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 152532,
@@ -745,14 +825,6 @@
       "onboard_time": 1678581745,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 107694,
-      "num": 107694,
-      "word": "雄鹿vs勇士",
-      "onboard_time": 1678586185,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 107518,
@@ -1015,6 +1087,9 @@
     },
     {
       "word": "#2023两会热词#"
+    },
+    {
+      "word": "#全国两会时光#"
     }
   ]
 }

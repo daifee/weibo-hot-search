@@ -1,6 +1,6 @@
 {
   "startTime": 1678033461577,
-  "endTime": 1678592008841,
+  "endTime": 1678594923008,
   "band_list": [
     {
       "raw_hot": 15614082,
@@ -305,6 +305,14 @@
       "onboard_time": 1678107386,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1913124,
+      "num": 630185,
+      "word": "四级作文",
+      "onboard_time": 1678591885,
+      "rank": 7,
+      "category": "教育"
     },
     {
       "raw_hot": 1891362,
@@ -684,7 +692,7 @@
     },
     {
       "raw_hot": 1467139,
-      "num": 289017,
+      "num": 555144,
       "word": "朴妍珍被霸凌",
       "onboard_time": 1678590025,
       "rank": 10,
@@ -892,7 +900,7 @@
     },
     {
       "raw_hot": 1304753,
-      "num": 312675,
+      "num": 551476,
       "word": "退清华考上北大博主遭质疑后删视频",
       "onboard_time": 1678578259,
       "rank": 10,
@@ -900,7 +908,7 @@
     },
     {
       "raw_hot": 1273174,
-      "num": 280059,
+      "num": 553869,
       "word": "网红阿秋8千元单车被以700元贱卖",
       "onboard_time": 1678586845,
       "rank": 10,
@@ -1049,6 +1057,14 @@
       "onboard_time": 1678249951,
       "rank": 12,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1188111,
+      "num": 555546,
+      "word": "四级答案",
+      "onboard_time": 1678592067,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 1177927,
@@ -1843,6 +1859,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 796274,
+      "num": 552640,
+      "word": "自驾游 翻译",
+      "onboard_time": 1678593205,
+      "rank": 12,
+      "category": "教育"
+    },
+    {
       "raw_hot": 789324,
       "num": 539467,
       "word": "老福特",
@@ -1993,6 +2017,14 @@
       "onboard_time": 1678440927,
       "rank": 4,
       "category": "教育"
+    },
+    {
+      "raw_hot": 750572,
+      "num": 552072,
+      "word": "青春有你2播出三周年",
+      "onboard_time": 1678591044,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 749320,
@@ -2179,6 +2211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 712385,
+      "num": 712385,
+      "word": "体育总局局长谈振兴三大球",
+      "onboard_time": 1678592067,
+      "rank": 1,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 711097,
       "num": 711097,
       "word": "从录取率来看考研难度超过高考",
@@ -2305,6 +2345,14 @@
       "onboard_time": 1678238305,
       "rank": 13,
       "category": "科技"
+    },
+    {
+      "raw_hot": 671322,
+      "num": 543482,
+      "word": "六级",
+      "onboard_time": 1678592608,
+      "rank": 15,
+      "category": "教育"
     },
     {
       "raw_hot": 671255,
@@ -2859,14 +2907,6 @@
       "category": "艺人,美食"
     },
     {
-      "raw_hot": 589294,
-      "num": 240595,
-      "word": "青春有你2播出三周年",
-      "onboard_time": 1678591044,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 589088,
       "num": 283794,
       "word": "薛之谦 票",
@@ -3340,7 +3380,7 @@
     },
     {
       "raw_hot": 524600,
-      "num": 251648,
+      "num": 277771,
       "word": "Kakao取得SMTOWN经营权",
       "onboard_time": 1678587083,
       "rank": 13,
@@ -3417,6 +3457,14 @@
       "onboard_time": 1678187428,
       "rank": 23,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 520737,
+      "num": 520737,
+      "word": "硅谷银行CEO精准套现2500万",
+      "onboard_time": 1678591165,
+      "rank": 46,
+      "category": "财经,科技"
     },
     {
       "raw_hot": 520707,
@@ -3513,6 +3561,14 @@
       "onboard_time": 1678504287,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 511187,
+      "num": 500727,
+      "word": "四级主打一个陪伴",
+      "onboard_time": 1678593626,
+      "rank": 18,
+      "category": "教育"
     },
     {
       "raw_hot": 510377,
@@ -4603,6 +4659,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 391803,
+      "num": 391803,
+      "word": "SM回应HYBE退出此次商战",
+      "onboard_time": 1678592788,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 391435,
       "num": 465403,
       "word": "企业宣传员工18年从未请假",
@@ -4648,6 +4712,14 @@
       "word": "河道英吃文东恩的紫菜饭团",
       "onboard_time": 1678534349,
       "rank": 17,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 388261,
+      "num": 388261,
+      "word": "看完黑暗荣耀的我",
+      "onboard_time": 1678588645,
+      "rank": 24,
       "category": "影视"
     },
     {
@@ -4779,14 +4851,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 377530,
-      "num": 243260,
-      "word": "看完黑暗荣耀的我",
-      "onboard_time": 1678588645,
-      "rank": 24,
-      "category": "影视"
-    },
-    {
       "raw_hot": 376589,
       "num": 260009,
       "word": "吴磊赵今麦撒娇路透",
@@ -4873,6 +4937,14 @@
       "onboard_time": 1678405102,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 369578,
+      "num": 369578,
+      "word": "奥斯卡",
+      "onboard_time": 1678592247,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 369557,
@@ -5507,6 +5579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 331551,
+      "num": 557739,
+      "word": "电视剧归路OST阵容",
+      "onboard_time": 1678592487,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 331027,
       "num": 426681,
       "word": "谷建芬87了",
@@ -5545,14 +5625,6 @@
       "onboard_time": 1678184850,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 326857,
-      "num": 326857,
-      "word": "四级作文",
-      "onboard_time": 1678591885,
-      "rank": 7,
-      "category": "教育"
     },
     {
       "raw_hot": 326574,
@@ -5681,6 +5753,14 @@
       "onboard_time": 1678336235,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 317821,
+      "num": 557046,
+      "word": "回廊亭豆瓣开分5.8",
+      "onboard_time": 1678593265,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 317475,
@@ -7596,7 +7676,7 @@
     },
     {
       "raw_hot": 210683,
-      "num": 169616,
+      "num": 204583,
       "word": "种树吧电竞少年",
       "onboard_time": 1678591647,
       "rank": 24,
@@ -9067,14 +9147,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 180357,
-      "num": 138249,
-      "word": "硅谷银行CEO精准套现2500万",
-      "onboard_time": 1678591165,
-      "rank": 46,
-      "category": "财经,科技"
-    },
-    {
       "raw_hot": 179955,
       "num": 179955,
       "word": "白岩松谈女足为什么比男足更出成绩",
@@ -9881,6 +9953,14 @@
       "onboard_time": 1678328725,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 152906,
+      "num": 152906,
+      "word": "雄鹿vs勇士",
+      "onboard_time": 1678586185,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 152408,
@@ -11616,14 +11696,6 @@
       "word": "赵继伟说主场打球太舒服了",
       "onboard_time": 1678288289,
       "rank": 44,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 107694,
-      "num": 107694,
-      "word": "雄鹿vs勇士",
-      "onboard_time": 1678586185,
-      "rank": 42,
       "category": "体育"
     },
     {
