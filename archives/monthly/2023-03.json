@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678599228305,
+  "endTime": 1678602159966,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -1275,6 +1275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1386303,
+      "num": 198554,
+      "word": "林孝埈1000米被撞",
+      "onboard_time": 1678599746,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1383651,
       "num": 864833,
       "word": "专家称打HPV疫苗不必纠结几价",
@@ -1745,6 +1753,14 @@
       "onboard_time": 1677725188,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1182708,
+      "num": 196775,
+      "word": "潘石屹",
+      "onboard_time": 1678600045,
+      "rank": 12,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 1177927,
@@ -3483,6 +3499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 779221,
+      "num": 195561,
+      "word": "南京一动物园狮子瘦成排骨",
+      "onboard_time": 1678600285,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 777539,
       "num": 777539,
       "word": "人社部将适时调整个人养老金缴费上限",
@@ -5195,6 +5219,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 594248,
+      "num": 594248,
+      "word": "建议优化火车票改签规定",
+      "onboard_time": 1678598605,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 594209,
       "num": 594209,
       "word": "工作人员帮游客捡手机被幼虎围观",
@@ -6427,6 +6459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 517220,
+      "num": 191268,
+      "word": "想看THE9解散演唱会",
+      "onboard_time": 1678599626,
+      "rank": 16,
+      "category": "音乐,幽默"
+    },
+    {
       "raw_hot": 517087,
       "num": 283205,
       "word": "大熊猫拉完粑粑屁股蹭妈妈头上",
@@ -7155,6 +7195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 471914,
+      "num": 185876,
+      "word": "河道英抢女儿的原因",
+      "onboard_time": 1678600464,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 471493,
       "num": 601565,
       "word": "CBA",
@@ -7443,6 +7491,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 449115,
+      "num": 189655,
+      "word": "六级预测",
+      "onboard_time": 1678599146,
+      "rank": 49,
+      "category": "教育"
+    },
+    {
       "raw_hot": 449091,
       "num": 449091,
       "word": "千万要小心路边的鬼秤",
@@ -7729,6 +7785,14 @@
       "onboard_time": 1678286070,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 432909,
+      "num": 345431,
+      "word": "硅谷银行破产冲击已蔓延多国",
+      "onboard_time": 1678596928,
+      "rank": 24,
+      "category": "财经,科技"
     },
     {
       "raw_hot": 432462,
@@ -8041,14 +8105,6 @@
       "onboard_time": 1678287031,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 413246,
-      "num": 345431,
-      "word": "硅谷银行破产冲击已蔓延多国",
-      "onboard_time": 1678596928,
-      "rank": 24,
-      "category": "财经,科技"
     },
     {
       "raw_hot": 412305,
@@ -13299,6 +13355,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 228453,
+      "num": 172026,
+      "word": "美国硅谷银行请求员工一起想办法",
+      "onboard_time": 1678600826,
+      "rank": 30,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 228285,
       "num": 228285,
       "word": "姚薇怀孕",
@@ -13513,6 +13577,14 @@
       "onboard_time": 1678530506,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 224961,
+      "num": 549566,
+      "word": "2023短道速滑世锦赛",
+      "onboard_time": 1678412665,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 224906,
@@ -14217,6 +14289,14 @@
       "onboard_time": 1677650306,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 210464,
+      "num": 210464,
+      "word": "向鹏vs张本智和",
+      "onboard_time": 1678601844,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 210280,
@@ -15377,14 +15457,6 @@
       "onboard_time": 1677812967,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 197755,
-      "num": 549566,
-      "word": "2023短道速滑世锦赛",
-      "onboard_time": 1678412665,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 197749,
@@ -18059,14 +18131,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 155323,
-      "num": 154437,
-      "word": "建议优化火车票改签规定",
-      "onboard_time": 1678598605,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 155097,
       "num": 155097,
       "word": "谁是宝藏歌手",
@@ -18177,6 +18241,14 @@
       "onboard_time": 1677844947,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 152460,
+      "num": 152460,
+      "word": "黑暗荣耀复仇真的爽吗",
+      "onboard_time": 1678600225,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 152408,
@@ -20235,6 +20307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 121155,
+      "num": 121155,
+      "word": "SEVENTEEN将于4月回归",
+      "onboard_time": 1678599205,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 121021,
       "num": 121021,
       "word": "张大大体验东北烧烤",
@@ -21963,6 +22043,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 91114,
+      "num": 91114,
+      "word": "黑暗荣耀大婶演技",
+      "onboard_time": 1678600586,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 91072,
       "num": 133204,
       "word": "BoysPlanet二公限制外国人投票",
@@ -22483,14 +22571,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 74796,
-      "num": 74796,
-      "word": "SEVENTEEN将于4月回归",
-      "onboard_time": 1678599205,
-      "rank": 48,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 74770,
       "num": 888863,
       "word": "两会数说中国",
@@ -22561,14 +22641,6 @@
       "onboard_time": 1677870552,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 72274,
-      "num": 72274,
-      "word": "六级预测",
-      "onboard_time": 1678599146,
-      "rank": 49,
-      "category": "教育"
     },
     {
       "raw_hot": 71947,

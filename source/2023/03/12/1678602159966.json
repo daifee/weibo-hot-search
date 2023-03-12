@@ -1,0 +1,410 @@
+{
+  "runTime": 1678602159966,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 594248,
+        "num": 594248,
+        "word": "建议优化火车票改签规定",
+        "onboard_time": 1678598605,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269601,
+        "num": 269601,
+        "word": "各部部长",
+        "onboard_time": 1678588164,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 52245,
+        "num": 236834,
+        "word": "春天里的中国生机盎然",
+        "onboard_time": 1678587744,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 287340,
+        "num": 233685,
+        "word": "委员称无痛分娩是该单独入医保了",
+        "onboard_time": 1678588703,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222318,
+        "num": 222318,
+        "word": "中国外交悄悄干了件大事",
+        "onboard_time": 1678577478,
+        "rank": 4,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 210464,
+        "num": 210464,
+        "word": "向鹏vs张本智和",
+        "onboard_time": 1678601844,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208622,
+        "num": 208622,
+        "word": "教授谈为什么有的手机越用越慢",
+        "onboard_time": 1678582226,
+        "rank": 6,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 206526,
+        "num": 206526,
+        "word": "保你平安",
+        "onboard_time": 1678598785,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 202514,
+        "num": 202514,
+        "word": "库里绝平三分",
+        "onboard_time": 1678595486,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132990,
+        "num": 201442,
+        "word": "回廊亭豆瓣开分5.8",
+        "onboard_time": 1678593265,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1637965,
+        "num": 199894,
+        "word": "庆余年2 原班人马",
+        "onboard_time": 1678596865,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1386303,
+        "num": 198554,
+        "word": "林孝埈1000米被撞",
+        "onboard_time": 1678599746,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1182708,
+        "num": 196775,
+        "word": "潘石屹",
+        "onboard_time": 1678600045,
+        "rank": 12,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 779221,
+        "num": 195561,
+        "word": "南京一动物园狮子瘦成排骨",
+        "onboard_time": 1678600285,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 739526,
+        "num": 194956,
+        "word": "朴妍珍被霸凌",
+        "onboard_time": 1678590025,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 615511,
+        "num": 192596,
+        "word": "注意两男三女的圈子",
+        "onboard_time": 1678596086,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 517220,
+        "num": 191268,
+        "word": "想看THE9解散演唱会",
+        "onboard_time": 1678599626,
+        "rank": 16,
+        "category": "音乐,幽默"
+      },
+      {
+        "raw_hot": 449115,
+        "num": 189655,
+        "word": "六级预测",
+        "onboard_time": 1678599146,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 432909,
+        "num": 188396,
+        "word": "硅谷银行破产冲击已蔓延多国",
+        "onboard_time": 1678596928,
+        "rank": 18,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 382272,
+        "num": 186021,
+        "word": "网红阿秋8千元单车被以700元贱卖",
+        "onboard_time": 1678586845,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 471914,
+        "num": 185876,
+        "word": "河道英抢女儿的原因",
+        "onboard_time": 1678600464,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 422289,
+        "num": 183951,
+        "word": "四级",
+        "onboard_time": 1678578620,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 268020,
+        "num": 182452,
+        "word": "硅谷银行CEO精准套现2500万",
+        "onboard_time": 1678591165,
+        "rank": 22,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 261749,
+        "num": 181206,
+        "word": "世界上最孤独的鲸去世",
+        "onboard_time": 1678584147,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245593,
+        "num": 179753,
+        "word": "看完黑暗荣耀的我",
+        "onboard_time": 1678588645,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 230503,
+        "num": 177262,
+        "word": "四级作文",
+        "onboard_time": 1678591885,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 224961,
+        "num": 176819,
+        "word": "2023短道速滑世锦赛",
+        "onboard_time": 1678599565,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175516,
+        "num": 175516,
+        "word": "体育总局局长谈振兴三大球",
+        "onboard_time": 1678592067,
+        "rank": 27,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 211568,
+        "num": 174760,
+        "word": "六级",
+        "onboard_time": 1678592608,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 172948,
+        "num": 172948,
+        "word": "SM回应HYBE退出此次商战",
+        "onboard_time": 1678592788,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228453,
+        "num": 172026,
+        "word": "美国硅谷银行请求员工一起想办法",
+        "onboard_time": 1678600826,
+        "rank": 30,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 189305,
+        "num": 169091,
+        "word": "四级答案",
+        "onboard_time": 1678592067,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 159239,
+        "num": 159239,
+        "word": "退清华考上北大博主遭质疑后删视频",
+        "onboard_time": 1678578259,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152460,
+        "num": 152460,
+        "word": "黑暗荣耀复仇真的爽吗",
+        "onboard_time": 1678600225,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 121155,
+        "num": 121155,
+        "word": "SEVENTEEN将于4月回归",
+        "onboard_time": 1678599205,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 120995,
+        "num": 120995,
+        "word": "四级主打一个陪伴",
+        "onboard_time": 1678593626,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 120032,
+        "num": 120032,
+        "word": "小鬼王琳凯音乐节",
+        "onboard_time": 1678596567,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 114283,
+        "num": 114283,
+        "word": "Kakao取得SMTOWN经营权",
+        "onboard_time": 1678587083,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113545,
+        "num": 113545,
+        "word": "奥斯卡",
+        "onboard_time": 1678592247,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 107789,
+        "num": 107789,
+        "word": "惠英红说刘耀文非常有进步",
+        "onboard_time": 1678595666,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106871,
+        "num": 106871,
+        "word": "周震南说分享的意义是在找同类",
+        "onboard_time": 1678597166,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102613,
+        "num": 102613,
+        "word": "金秋天跳OMG",
+        "onboard_time": 1678596625,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 97576,
+        "num": 97576,
+        "word": "丁薛祥何立峰张国清刘国中为副总理",
+        "onboard_time": 1678587744,
+        "rank": 42,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 102322,
+        "num": 96947,
+        "word": "自驾游 翻译",
+        "onboard_time": 1678593205,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 95747,
+        "num": 95747,
+        "word": "山西泽州二三孩中考将加10分",
+        "onboard_time": 1678582344,
+        "rank": 44,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 93223,
+        "num": 93223,
+        "word": "业内称硅谷银行很快迎来接盘方",
+        "onboard_time": 1678598365,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 92376,
+        "num": 92376,
+        "word": "李莎拉打滚做臀桥",
+        "onboard_time": 1678581323,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 91623,
+        "num": 91623,
+        "word": "姚晨呼兰脐带首映礼同框",
+        "onboard_time": 1678599085,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 91114,
+        "num": 91114,
+        "word": "黑暗荣耀大婶演技",
+        "onboard_time": 1678600586,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 80845,
+        "num": 80845,
+        "word": "电视剧归路OST阵容",
+        "onboard_time": 1678592487,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民在总书记心中重若千钧#"
+    }
+  }
+}
