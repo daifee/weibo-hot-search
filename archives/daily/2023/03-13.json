@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1678663072498,
+  "endTime": 1678664029588,
   "band_list": [
     {
       "raw_hot": 1071468,
@@ -27,11 +27,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 497009,
+      "num": 104958,
+      "word": "全员加速中3开录了",
+      "onboard_time": 1678663646,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 496241,
       "num": 176306,
       "word": "汤唯亚洲电影大奖最佳女主角",
       "onboard_time": 1678631909,
       "rank": 13,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 443851,
+      "num": 104953,
+      "word": "奥斯卡红毯",
+      "onboard_time": 1678663339,
+      "rank": 14,
       "category": "影视"
     },
     {
@@ -51,20 +67,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 420111,
+      "num": 169054,
+      "word": "兄弟瞒着外嫁姐姐办理父母遗产继承",
+      "onboard_time": 1678624348,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 406867,
+      "num": 104943,
+      "word": "花花流眼泪",
+      "onboard_time": 1678663099,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 389810,
       "num": 228533,
       "word": "白色月牙暂别赛场",
       "onboard_time": 1678635985,
       "rank": 3,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 376984,
-      "num": 169054,
-      "word": "兄弟瞒着外嫁姐姐办理父母遗产继承",
-      "onboard_time": 1678624348,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 346891,
@@ -83,8 +107,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 272792,
-      "num": 131729,
+      "raw_hot": 292540,
+      "num": 133874,
       "word": "妈妈用废纸壳为女儿搭出童话世界",
       "onboard_time": 1678652111,
       "rank": 41,
@@ -115,20 +139,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 231706,
+      "num": 99103,
+      "word": "两颗球的泰坦尼克号",
+      "onboard_time": 1678662739,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 230454,
+      "num": 218629,
+      "word": "韩国队恶意犯规遭裁判无视",
+      "onboard_time": 1678620446,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 227805,
       "num": 227805,
       "word": "林孝埈唱国歌",
       "onboard_time": 1678615467,
       "rank": 5,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 218629,
-      "num": 218629,
-      "word": "韩国队恶意犯规遭裁判无视",
-      "onboard_time": 1678620446,
-      "rank": 6,
-      "category": "体育"
     },
     {
       "raw_hot": 216190,
@@ -171,6 +203,14 @@
       "category": "艺人,影视"
     },
     {
+      "raw_hot": 176575,
+      "num": 104921,
+      "word": "用辣椒丝当成藏红花泡茶喝",
+      "onboard_time": 1678662918,
+      "rank": 44,
+      "category": "幽默,社会新闻"
+    },
+    {
       "raw_hot": 163407,
       "num": 163407,
       "word": "张译亮相亚洲电影大奖",
@@ -185,6 +225,14 @@
       "onboard_time": 1678634787,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 152358,
+      "num": 104916,
+      "word": "NMIXX新歌YoungDumbStupid",
+      "onboard_time": 1678662739,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 145666,
@@ -203,6 +251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 132205,
+      "num": 132205,
+      "word": "我国每年废弃手机约4亿部",
+      "onboard_time": 1678621348,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127173,
       "num": 127173,
       "word": "崔惠廷扮演者的双面人生",
@@ -219,14 +275,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 125488,
-      "num": 125488,
-      "word": "我国每年废弃手机约4亿部",
-      "onboard_time": 1678621348,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 117589,
       "num": 117589,
       "word": "六级答案",
@@ -241,6 +289,14 @@
       "onboard_time": 1678636884,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115108,
+      "num": 98732,
+      "word": "想把你留在这里",
+      "onboard_time": 1678663398,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 114343,
@@ -275,12 +331,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 104398,
-      "num": 104398,
-      "word": "NMIXX新歌YoungDumbStupid",
-      "onboard_time": 1678662739,
-      "rank": 23,
-      "category": "音乐"
+      "raw_hot": 104983,
+      "num": 104983,
+      "word": "要着力解决自媒体内容失真问题",
+      "onboard_time": 1678663099,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 99603,
@@ -289,6 +345,14 @@
       "onboard_time": 1678632929,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98615,
+      "num": 138299,
+      "word": "人大代表说科技创新要带着农民赚",
+      "onboard_time": 1678646232,
+      "rank": 0,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 98028,
@@ -340,27 +404,11 @@
     },
     {
       "raw_hot": 82880,
-      "num": 82880,
+      "num": 104974,
       "word": "TTG 上野",
       "onboard_time": 1678628249,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 81801,
-      "num": 138299,
-      "word": "人大代表说科技创新要带着农民赚",
-      "onboard_time": 1678646232,
-      "rank": 0,
-      "category": "国内要闻"
-    },
-    {
-      "raw_hot": 80214,
-      "num": 78001,
-      "word": "两颗球的泰坦尼克号",
-      "onboard_time": 1678662739,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 79626,
@@ -377,6 +425,14 @@
       "onboard_time": 1678629989,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 74971,
+      "num": 74971,
+      "word": "文东恩在监狱当老师",
+      "onboard_time": 1678663821,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 74342,
@@ -403,20 +459,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 69602,
+      "num": 229608,
+      "word": "天舟六号已运往文昌航天发射场",
+      "onboard_time": 1678624527,
+      "rank": 0,
+      "category": "科技,国内要闻"
+    },
+    {
       "raw_hot": 68199,
       "num": 68199,
       "word": "陈楚生成都巡演",
       "onboard_time": 1678631428,
       "rank": 48,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 66531,
-      "num": 229608,
-      "word": "天舟六号已运往文昌航天发射场",
-      "onboard_time": 1678624527,
-      "rank": 0,
-      "category": "科技,国内要闻"
     },
     {
       "raw_hot": 65974,
@@ -427,12 +483,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 59531,
+      "num": 59531,
+      "word": "花花是如何成为顶流的",
+      "onboard_time": 1678663760,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58775,
       "num": 58775,
       "word": "这歌终于有个合理的出处了",
       "onboard_time": 1678640538,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 57864,
+      "num": 229114,
+      "word": "这就是春天里的中国",
+      "onboard_time": 1678628848,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 55655,
@@ -451,28 +523,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 53993,
-      "num": 229114,
-      "word": "这就是春天里的中国",
-      "onboard_time": 1678628848,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 44244,
-      "num": 44244,
+      "raw_hot": 47169,
+      "num": 47169,
       "word": "黑暗荣耀2双向救赎",
       "onboard_time": 1678649111,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 36359,
-      "num": 38893,
-      "word": "用辣椒丝当成藏红花泡茶喝",
-      "onboard_time": 1678662918,
-      "rank": 44,
-      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 30012,

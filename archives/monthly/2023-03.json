@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678663072498,
+  "endTime": 1678664029588,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -7051,6 +7051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 497009,
+      "num": 104958,
+      "word": "全员加速中3开录了",
+      "onboard_time": 1678663646,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 496499,
       "num": 442867,
       "word": "金赛纶酒驾被判罚2000万韩元",
@@ -7923,6 +7931,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 443851,
+      "num": 104953,
+      "word": "奥斯卡红毯",
+      "onboard_time": 1678663339,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 443344,
       "num": 211671,
       "word": "女生辞职考研八次失败",
@@ -8577,6 +8593,14 @@
       "onboard_time": 1677655348,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 406867,
+      "num": 104943,
+      "word": "花花流眼泪",
+      "onboard_time": 1678663099,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 406463,
@@ -11827,6 +11851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 292540,
+      "num": 133874,
+      "word": "妈妈用废纸壳为女儿搭出童话世界",
+      "onboard_time": 1678652111,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 291885,
       "num": 291885,
       "word": "梁龙问蒋龙是不是想提前杀青",
@@ -12417,14 +12449,6 @@
       "onboard_time": 1677940709,
       "rank": 26,
       "category": "综艺,音乐"
-    },
-    {
-      "raw_hot": 272792,
-      "num": 131729,
-      "word": "妈妈用废纸壳为女儿搭出童话世界",
-      "onboard_time": 1678652111,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 272448,
@@ -13896,6 +13920,14 @@
       "word": "徐克将拍射雕英雄传",
       "onboard_time": 1677644731,
       "rank": 37,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 231706,
+      "num": 99103,
+      "word": "两颗球的泰坦尼克号",
+      "onboard_time": 1678662739,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -17859,6 +17891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 176575,
+      "num": 104921,
+      "word": "用辣椒丝当成藏红花泡茶喝",
+      "onboard_time": 1678662918,
+      "rank": 44,
+      "category": "幽默,社会新闻"
+    },
+    {
       "raw_hot": 176552,
       "num": 206139,
       "word": "柯南剧场版人物关系图",
@@ -19241,6 +19281,14 @@
       "onboard_time": 1678144700,
       "rank": 30,
       "category": "科技"
+    },
+    {
+      "raw_hot": 152358,
+      "num": 104916,
+      "word": "NMIXX新歌YoungDumbStupid",
+      "onboard_time": 1678662739,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 152325,
@@ -21683,6 +21731,14 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 115108,
+      "num": 98732,
+      "word": "想把你留在这里",
+      "onboard_time": 1678663398,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 114791,
       "num": 114791,
       "word": "吴荣照说未来要满足国人跑步需求",
@@ -22395,6 +22451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 104983,
+      "num": 104983,
+      "word": "要着力解决自媒体内容失真问题",
+      "onboard_time": 1678663099,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104930,
       "num": 104930,
       "word": "编剧赵冬苓说UP主的吐槽启发了她",
@@ -22441,14 +22505,6 @@
       "onboard_time": 1678104506,
       "rank": 41,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 104398,
-      "num": 104398,
-      "word": "NMIXX新歌YoungDumbStupid",
-      "onboard_time": 1678662739,
-      "rank": 23,
-      "category": "音乐"
     },
     {
       "raw_hot": 104191,
@@ -22769,6 +22825,14 @@
       "onboard_time": 1678193967,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 98615,
+      "num": 138299,
+      "word": "人大代表说科技创新要带着农民赚",
+      "onboard_time": 1678646232,
+      "rank": 0,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 98498,
@@ -23467,14 +23531,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 81801,
-      "num": 138299,
-      "word": "人大代表说科技创新要带着农民赚",
-      "onboard_time": 1678646232,
-      "rank": 0,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 81780,
       "num": 81780,
       "word": "重紫没有等到洛音凡",
@@ -23521,14 +23577,6 @@
       "onboard_time": 1677842007,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 80214,
-      "num": 78001,
-      "word": "两颗球的泰坦尼克号",
-      "onboard_time": 1678662739,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 80147,
@@ -23641,6 +23689,14 @@
       "onboard_time": 1678034000,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 74971,
+      "num": 74971,
+      "word": "文东恩在监狱当老师",
+      "onboard_time": 1678663821,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 74932,
@@ -23979,6 +24035,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 59531,
+      "num": 59531,
+      "word": "花花是如何成为顶流的",
+      "onboard_time": 1678663760,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58947,
       "num": 58947,
       "word": "甄子丹说希望用动作电影讲好中国故事",
@@ -24163,6 +24227,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 47169,
+      "num": 47169,
+      "word": "黑暗荣耀2双向救赎",
+      "onboard_time": 1678649111,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 47118,
       "num": 47118,
       "word": "成毅英雄志吊威亚路透",
@@ -24209,14 +24281,6 @@
       "onboard_time": 1678545387,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 44244,
-      "num": 44244,
-      "word": "黑暗荣耀2双向救赎",
-      "onboard_time": 1678649111,
-      "rank": 45,
-      "category": "影视"
     },
     {
       "raw_hot": 44212,
@@ -24337,14 +24401,6 @@
       "onboard_time": 1677916047,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 36359,
-      "num": 38893,
-      "word": "用辣椒丝当成藏红花泡茶喝",
-      "onboard_time": 1678662918,
-      "rank": 44,
-      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 36291,
