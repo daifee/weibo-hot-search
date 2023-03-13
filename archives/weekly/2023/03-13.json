@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1678689544653,
+  "endTime": 1678691818733,
   "band_list": [
     {
       "raw_hot": 6010597,
@@ -83,8 +83,16 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 1035634,
+      "num": 201843,
+      "word": "大学生真的很容易困",
+      "onboard_time": 1678686808,
+      "rank": 12,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1002744,
-      "num": 181608,
+      "num": 198011,
       "word": "奥斯卡三位影后同框",
       "onboard_time": 1678686509,
       "rank": 23,
@@ -115,12 +123,28 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 923277,
+      "num": 201804,
+      "word": "美国公示丫丫回国相关申请",
+      "onboard_time": 1678690226,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 858606,
       "num": 401418,
       "word": "宋佳王阳演夫妻",
       "onboard_time": 1678674206,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 852766,
+      "num": 201791,
+      "word": "游客吐槽25元看海洋馆就几个鱼缸",
+      "onboard_time": 1678688307,
+      "rank": 42,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 845860,
@@ -203,16 +227,16 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 650220,
-      "num": 196614,
-      "word": "大学生真的很容易困",
-      "onboard_time": 1678686808,
-      "rank": 12,
-      "category": "幽默"
+      "raw_hot": 687192,
+      "num": 201741,
+      "word": "孙明悟 备注",
+      "onboard_time": 1678691007,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 612050,
-      "num": 181558,
+      "num": 201343,
       "word": "李一桐坦言就是想踹安欣",
       "onboard_time": 1678687467,
       "rank": 24,
@@ -363,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 473524,
+      "num": 201685,
+      "word": "教育局回应学校发券要家长兑现",
+      "onboard_time": 1678689865,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 471650,
       "num": 208608,
       "word": "朴妍珍在监狱播报气象",
@@ -467,12 +499,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 393828,
-      "num": 191191,
-      "word": "游客吐槽25元看海洋馆就几个鱼缸",
-      "onboard_time": 1678688307,
-      "rank": 42,
-      "category": "旅游,社会新闻"
+      "raw_hot": 412536,
+      "num": 201624,
+      "word": "大江健三郎去世",
+      "onboard_time": 1678690105,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 412339,
+      "num": 201601,
+      "word": "七根凶简更名七根心简",
+      "onboard_time": 1678690285,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 389810,
@@ -539,6 +579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 355342,
+      "num": 201556,
+      "word": "有头发和没头发的都沉默了呀",
+      "onboard_time": 1678688665,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 346891,
       "num": 228240,
       "word": "流浪地球2票房破40亿",
@@ -561,6 +609,14 @@
       "onboard_time": 1678675225,
       "rank": 49,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 344495,
+      "num": 202166,
+      "word": "总理记者会要点速览",
+      "onboard_time": 1678689326,
+      "rank": 18,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 339878,
@@ -617,6 +673,14 @@
       "onboard_time": 1678682912,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 280313,
+      "num": 189348,
+      "word": "华晨宇声生不息2上班路透",
+      "onboard_time": 1678690285,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 266219,
@@ -676,7 +740,7 @@
     },
     {
       "raw_hot": 245587,
-      "num": 179914,
+      "num": 180440,
       "word": "黑暗荣耀2登网飞电视剧全球榜第二",
       "onboard_time": 1678687167,
       "rank": 32,
@@ -803,6 +867,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 212437,
+      "num": 201487,
+      "word": "WTT",
+      "onboard_time": 1678691244,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204791,
       "num": 204791,
       "word": "关继威奥斯卡最佳男配角",
@@ -811,12 +883,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 203189,
-      "num": 188170,
-      "word": "有头发和没头发的都沉默了呀",
-      "onboard_time": 1678688665,
-      "rank": 48,
-      "category": "幽默"
+      "raw_hot": 202519,
+      "num": 201445,
+      "word": "马尔代夫恢复与伊朗外交关系",
+      "onboard_time": 1678690705,
+      "rank": 19,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 201272,
+      "num": 201272,
+      "word": "动物园回应大熊猫擦屁股出圈",
+      "onboard_time": 1678690826,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 200103,
@@ -849,14 +929,6 @@
       "onboard_time": 1678664182,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 187524,
-      "num": 187524,
-      "word": "总理记者会要点速览",
-      "onboard_time": 1678689326,
-      "rank": 18,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 184196,
@@ -1171,6 +1243,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 97756,
+      "num": 97756,
+      "word": "Xiaoxu获最佳新秀",
+      "onboard_time": 1678691788,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 97682,
+      "num": 97682,
+      "word": "好像聊了又好像什么都没聊",
+      "onboard_time": 1678689444,
+      "rank": 49,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 95622,
       "num": 95622,
       "word": "中国发展惠及世界中国发展离不开世界",
@@ -1217,14 +1305,6 @@
       "onboard_time": 1678609644,
       "rank": 40,
       "category": "教育"
-    },
-    {
-      "raw_hot": 86250,
-      "num": 86250,
-      "word": "好像聊了又好像什么都没聊",
-      "onboard_time": 1678689444,
-      "rank": 49,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 85658,
