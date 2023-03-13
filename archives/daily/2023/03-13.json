@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1678685612458,
+  "endTime": 1678688698602,
   "band_list": [
     {
       "raw_hot": 6010597,
@@ -83,6 +83,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 1002744,
+      "num": 181608,
+      "word": "奥斯卡三位影后同框",
+      "onboard_time": 1678686509,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 970805,
       "num": 404156,
       "word": "村集体不给出嫁女福利被判补发",
@@ -107,12 +115,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 851891,
+      "num": 198587,
+      "word": "才被硅谷银行录取就失业了",
+      "onboard_time": 1678687047,
+      "rank": 10,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 845860,
+      "num": 197399,
+      "word": "丫丫最新动态",
+      "onboard_time": 1678686328,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 828976,
       "num": 1117694,
       "word": "建议将中小学生睡眠质量纳入考核",
       "onboard_time": 1678665444,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 826183,
+      "num": 206434,
+      "word": "边牧鱼仔",
+      "onboard_time": 1678685009,
+      "rank": 28,
+      "category": "社会负面"
     },
     {
       "raw_hot": 793330,
@@ -203,6 +235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 575676,
+      "num": 181558,
+      "word": "李一桐坦言就是想踹安欣",
+      "onboard_time": 1678687467,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 567235,
       "num": 401359,
       "word": "迪丽热巴时装三月刊内页大片",
@@ -259,6 +299,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 509113,
+      "num": 206119,
+      "word": "老人捡钱不愿归还女孩崩溃下跪",
+      "onboard_time": 1678684770,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 505167,
       "num": 401521,
       "word": "爸爸先后三次取头皮救重伤儿子",
@@ -297,6 +345,14 @@
       "onboard_time": 1678672466,
       "rank": 37,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 489432,
+      "num": 196614,
+      "word": "大学生真的很容易困",
+      "onboard_time": 1678686808,
+      "rank": 12,
+      "category": "幽默"
     },
     {
       "raw_hot": 484830,
@@ -419,6 +475,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 382597,
+      "num": 195538,
+      "word": "就开放单身女性冻卵征求专家意见",
+      "onboard_time": 1678685369,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 381606,
       "num": 401791,
       "word": "西直门三太子萌兰",
@@ -507,12 +571,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 311919,
-      "num": 206434,
-      "word": "边牧鱼仔",
-      "onboard_time": 1678685009,
-      "rank": 28,
-      "category": "社会负面"
+      "raw_hot": 310852,
+      "num": 195242,
+      "word": "王艺迪2比3平野美宇",
+      "onboard_time": 1678688008,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 308704,
@@ -539,20 +603,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 291862,
-      "num": 206119,
-      "word": "老人捡钱不愿归还女孩崩溃下跪",
-      "onboard_time": 1678684770,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 290366,
       "num": 290366,
       "word": "KPOP4月回归阵容",
       "onboard_time": 1678682912,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 266219,
+      "num": 180754,
+      "word": "用湖南卫视打开黑暗荣耀",
+      "onboard_time": 1678686687,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 264733,
+      "num": 180591,
+      "word": "李莎拉铅笔PTSD",
+      "onboard_time": 1678685909,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 263746,
@@ -673,6 +745,14 @@
       "onboard_time": 1678620446,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 227975,
+      "num": 179914,
+      "word": "黑暗荣耀2登网飞电视剧全球榜第二",
+      "onboard_time": 1678687167,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 227805,
@@ -931,6 +1011,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 128159,
+      "num": 128159,
+      "word": "游客吐槽25元看海洋馆就几个鱼缸",
+      "onboard_time": 1678688307,
+      "rank": 42,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 127173,
       "num": 127173,
       "word": "崔惠廷扮演者的双面人生",
@@ -943,14 +1031,6 @@
       "num": 237717,
       "word": "专家建议大企业带小企业手拉手",
       "onboard_time": 1678676426,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 120031,
-      "num": 120031,
-      "word": "就开放单身女性冻卵征求专家意见",
-      "onboard_time": 1678685369,
       "rank": 47,
       "category": "社会新闻"
     },
@@ -1089,6 +1169,14 @@
       "onboard_time": 1678627588,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 92035,
+      "num": 92035,
+      "word": "有头发和没头发的都沉默了呀",
+      "onboard_time": 1678688665,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 91272,

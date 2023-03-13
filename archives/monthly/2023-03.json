@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678685612458,
+  "endTime": 1678688698602,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -2587,6 +2587,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 1002744,
+      "num": 181608,
+      "word": "奥斯卡三位影后同框",
+      "onboard_time": 1678686509,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1002738,
       "num": 1002738,
       "word": "建议高考外语必考改为选考",
@@ -3267,6 +3275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 851891,
+      "num": 198587,
+      "word": "才被硅谷银行录取就失业了",
+      "onboard_time": 1678687047,
+      "rank": 10,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 850879,
       "num": 850879,
       "word": "台黑帮五星级酒店高调办晚宴",
@@ -3297,6 +3313,14 @@
       "onboard_time": 1678182930,
       "rank": 4,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 845860,
+      "num": 197399,
+      "word": "丫丫最新动态",
+      "onboard_time": 1678686328,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 845824,
@@ -3441,6 +3465,14 @@
       "onboard_time": 1678442968,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 826183,
+      "num": 206434,
+      "word": "边牧鱼仔",
+      "onboard_time": 1678685009,
+      "rank": 28,
+      "category": "社会负面"
     },
     {
       "raw_hot": 825267,
@@ -5867,6 +5899,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 575676,
+      "num": 181558,
+      "word": "李一桐坦言就是想踹安欣",
+      "onboard_time": 1678687467,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 575627,
       "num": 575627,
       "word": "法院禁止Kakao买SM新股",
@@ -7083,6 +7123,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 509113,
+      "num": 206119,
+      "word": "老人捡钱不愿归还女孩崩溃下跪",
+      "onboard_time": 1678684770,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 508720,
       "num": 508720,
       "word": "1家3口同月同日生日",
@@ -7433,6 +7481,14 @@
       "onboard_time": 1678002448,
       "rank": 12,
       "category": "科技"
+    },
+    {
+      "raw_hot": 489432,
+      "num": 196614,
+      "word": "大学生真的很容易困",
+      "onboard_time": 1678686808,
+      "rank": 12,
+      "category": "幽默"
     },
     {
       "raw_hot": 489264,
@@ -9505,6 +9561,14 @@
       "onboard_time": 1677850287,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 382597,
+      "num": 195538,
+      "word": "就开放单身女性冻卵征求专家意见",
+      "onboard_time": 1678685369,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 382469,
@@ -11675,14 +11739,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 311919,
-      "num": 206434,
-      "word": "边牧鱼仔",
-      "onboard_time": 1678685009,
-      "rank": 28,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 311712,
       "num": 311712,
       "word": "王鹤棣新剧老年妆",
@@ -11721,6 +11777,14 @@
       "onboard_time": 1678525885,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 310852,
+      "num": 195242,
+      "word": "王艺迪2比3平野美宇",
+      "onboard_time": 1678688008,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 309964,
@@ -12281,14 +12345,6 @@
       "onboard_time": 1678161026,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 291862,
-      "num": 206119,
-      "word": "老人捡钱不愿归还女孩崩溃下跪",
-      "onboard_time": 1678684770,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 291247,
@@ -13115,6 +13171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 266219,
+      "num": 180754,
+      "word": "用湖南卫视打开黑暗荣耀",
+      "onboard_time": 1678686687,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 265931,
       "num": 265931,
       "word": "华为称仍将加大手机业务的投入",
@@ -13177,6 +13241,14 @@
       "onboard_time": 1678523366,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 264733,
+      "num": 180591,
+      "word": "李莎拉铅笔PTSD",
+      "onboard_time": 1678685909,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 264719,
@@ -14617,6 +14689,14 @@
       "onboard_time": 1677673767,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 227975,
+      "num": 179914,
+      "word": "黑暗荣耀2登网飞电视剧全球榜第二",
+      "onboard_time": 1678687167,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 227755,
@@ -21579,6 +21659,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 128159,
+      "num": 128159,
+      "word": "游客吐槽25元看海洋馆就几个鱼缸",
+      "onboard_time": 1678688307,
+      "rank": 42,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 128117,
       "num": 128117,
       "word": "九霄寒夜暖豆瓣开分7.3",
@@ -22065,14 +22153,6 @@
       "onboard_time": 1678178068,
       "rank": 41,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 120031,
-      "num": 120031,
-      "word": "就开放单身女性冻卵征求专家意见",
-      "onboard_time": 1678685369,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 119947,
@@ -23849,6 +23929,14 @@
       "onboard_time": 1678492582,
       "rank": 46,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 92035,
+      "num": 92035,
+      "word": "有头发和没头发的都沉默了呀",
+      "onboard_time": 1678688665,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 91973,
