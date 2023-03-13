@@ -1,0 +1,410 @@
+{
+  "runTime": 1678712135160,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 86984,
+        "num": 132493,
+        "word": "两会",
+        "onboard_time": 1678701026,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 31511,
+        "num": 132477,
+        "word": "图解梳理国务院机构改革方案",
+        "onboard_time": 1678695747,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19823,
+        "num": 132465,
+        "word": "新征程我们一起驶向春天",
+        "onboard_time": 1678696703,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 610570,
+        "num": 132455,
+        "word": "李强总理说自己是老网民",
+        "onboard_time": 1678696406,
+        "rank": 3,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 77623,
+        "num": 132431,
+        "word": "马尔代夫恢复与伊朗外交关系",
+        "onboard_time": 1678690705,
+        "rank": 4,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 79512,
+        "num": 132409,
+        "word": "陈梦2比3萨马拉",
+        "onboard_time": 1678692391,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 74097,
+        "num": 132390,
+        "word": "王楚钦晋级",
+        "onboard_time": 1678695747,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42976,
+        "num": 132377,
+        "word": "李强答中外记者问",
+        "onboard_time": 1678674745,
+        "rank": 7,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 42419,
+        "num": 132367,
+        "word": "众筹纪录片看春日里的中国人",
+        "onboard_time": 1678697247,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38596,
+        "num": 132342,
+        "word": "明日中国先导片",
+        "onboard_time": 1678702765,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1834389,
+        "num": 132320,
+        "word": "黑莲花",
+        "onboard_time": 1678709905,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1394486,
+        "num": 132310,
+        "word": "曾经穷游的泰国贵到去不起了",
+        "onboard_time": 1678707684,
+        "rank": 11,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 945969,
+        "num": 132291,
+        "word": "新上错花轿嫁对郎改名",
+        "onboard_time": 1678706426,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 840896,
+        "num": 132272,
+        "word": "钱天一 vs伊藤美诚",
+        "onboard_time": 1678711107,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 783507,
+        "num": 132265,
+        "word": "董明珠说员工被培养多年理应不去同业",
+        "onboard_time": 1678706904,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 776726,
+        "num": 132246,
+        "word": "女孩出汗把衣服染蓝查出色汗症",
+        "onboard_time": 1678708706,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 532050,
+        "num": 132230,
+        "word": "22岁的丫丫约等于人类的80岁",
+        "onboard_time": 1678699226,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 492592,
+        "num": 132207,
+        "word": "林高远",
+        "onboard_time": 1678709665,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 377273,
+        "num": 132184,
+        "word": "光渊更不更",
+        "onboard_time": 1678708646,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 307657,
+        "num": 132176,
+        "word": "微博之夜",
+        "onboard_time": 1678702526,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28748,
+        "num": 132149,
+        "word": "十四届全国人大一次会议闭幕会",
+        "onboard_time": 1678664965,
+        "rank": 20,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 751651,
+        "num": 132129,
+        "word": "向太发文祝贺杨紫琼获奖",
+        "onboard_time": 1678707746,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 547755,
+        "num": 132118,
+        "word": "日本女游客在印度遭骚扰反道歉",
+        "onboard_time": 1678710808,
+        "rank": 22,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 390040,
+        "num": 132095,
+        "word": "港星尹子维在内地做探店博主",
+        "onboard_time": 1678705766,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 440600,
+        "num": 132073,
+        "word": "刘雯奥斯卡派对造型",
+        "onboard_time": 1678705285,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 376730,
+        "num": 132066,
+        "word": "毛晓彤王子异居家风剧照",
+        "onboard_time": 1678705887,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 348511,
+        "num": 132051,
+        "word": "刘宇赞多录制了不起舞社2",
+        "onboard_time": 1678709247,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 265785,
+        "num": 132030,
+        "word": "黑暗荣耀与太阳的后裔名场面对比",
+        "onboard_time": 1678698506,
+        "rank": 27,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 258445,
+        "num": 132013,
+        "word": "熊猫萌兰潜逃失败开启撒娇模式",
+        "onboard_time": 1678709966,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210639,
+        "num": 131989,
+        "word": "台军因蛋荒将改喝豆奶",
+        "onboard_time": 1678703845,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321222,
+        "num": 131979,
+        "word": "海莉出席奥斯卡派对",
+        "onboard_time": 1678710026,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 206145,
+        "num": 131950,
+        "word": "山西男篮vs广东男篮",
+        "onboard_time": 1678710987,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199810,
+        "num": 131933,
+        "word": "清华博士回应送外卖",
+        "onboard_time": 1678697667,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198412,
+        "num": 131916,
+        "word": "林高远3比2张禹珍",
+        "onboard_time": 1678711586,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187270,
+        "num": 131897,
+        "word": "二级保护动物豹猫疑遭小孩殴打重伤",
+        "onboard_time": 1678703185,
+        "rank": 34,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 183713,
+        "num": 131893,
+        "word": "妍珍的拖鞋",
+        "onboard_time": 1678697487,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 182523,
+        "num": 131875,
+        "word": "杨颖 微博之夜",
+        "onboard_time": 1678698865,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177088,
+        "num": 131856,
+        "word": "迪丽热巴古典造型花絮视频",
+        "onboard_time": 1678698025,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 174036,
+        "num": 131829,
+        "word": "江苏卫视三体",
+        "onboard_time": 1678705646,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 172419,
+        "num": 131820,
+        "word": "好直观的出血量讲解",
+        "onboard_time": 1678711647,
+        "rank": 39,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 161841,
+        "num": 131808,
+        "word": "花琉璃轶闻定档",
+        "onboard_time": 1678704687,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 161723,
+        "num": 131785,
+        "word": "甲流感染期的食养建议",
+        "onboard_time": 1678700665,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151248,
+        "num": 131758,
+        "word": "美国公示丫丫回国相关申请",
+        "onboard_time": 1678690226,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145433,
+        "num": 131753,
+        "word": "孙明悟 备注",
+        "onboard_time": 1678691007,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 142494,
+        "num": 131733,
+        "word": "倾城亦清欢过审",
+        "onboard_time": 1678702466,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 131722,
+        "num": 131722,
+        "word": "内向的原因找到了",
+        "onboard_time": 1678701145,
+        "rank": 45,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 131297,
+        "num": 131297,
+        "word": "才被硅谷银行录取就失业了",
+        "onboard_time": 1678687047,
+        "rank": 46,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 130175,
+        "num": 130175,
+        "word": "黑暗荣耀 细节",
+        "onboard_time": 1678698325,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 127662,
+        "num": 127662,
+        "word": "老人捡钱不愿归还女孩崩溃下跪",
+        "onboard_time": 1678684770,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117673,
+        "num": 127397,
+        "word": "隔着屏幕都感受到了压迫感",
+        "onboard_time": 1678711227,
+        "rank": 49,
+        "category": "幽默,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#国家主席习近平发表重要讲话#"
+    }
+  }
+}
