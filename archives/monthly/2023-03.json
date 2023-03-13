@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678702859617,
+  "endTime": 1678703809970,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -1387,6 +1387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1379472,
+      "num": 261682,
+      "word": "22岁的丫丫约等于人类的80岁",
+      "onboard_time": 1678699226,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1377705,
       "num": 1377705,
       "word": "专家称零彩礼不符合传统婚俗",
@@ -1456,14 +1464,6 @@
       "word": "椰树推出猛男直播销售额不到1千",
       "onboard_time": 1678332087,
       "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1338353,
-      "num": 261682,
-      "word": "22岁的丫丫约等于人类的80岁",
-      "onboard_time": 1678699226,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -4723,6 +4723,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 682806,
+      "num": 261325,
+      "word": "倾城亦清欢过审",
+      "onboard_time": 1678702466,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 682271,
       "num": 682271,
       "word": "特斯拉潮州事故鉴定结果已出",
@@ -5513,6 +5521,14 @@
       "onboard_time": 1678506750,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 615508,
+      "num": 260613,
+      "word": "微博之夜",
+      "onboard_time": 1678702526,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 615274,
@@ -7315,6 +7331,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 506576,
+      "num": 261233,
+      "word": "黑暗荣耀与太阳的后裔名场面对比",
+      "onboard_time": 1678698506,
+      "rank": 40,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 506025,
       "num": 506025,
       "word": "大卫詹姆斯受伤",
@@ -7337,14 +7361,6 @@
       "onboard_time": 1678678708,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 504811,
-      "num": 261325,
-      "word": "倾城亦清欢过审",
-      "onboard_time": 1678702466,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 504627,
@@ -8875,14 +8891,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 424108,
-      "num": 261233,
-      "word": "黑暗荣耀与太阳的后裔名场面对比",
-      "onboard_time": 1678698506,
-      "rank": 40,
-      "category": "影视,幽默"
-    },
-    {
       "raw_hot": 423776,
       "num": 412224,
       "word": "佘诗曼林峯9年后再合作",
@@ -9587,6 +9595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 388443,
+      "num": 260695,
+      "word": "不要让任何人去定义你年华已逝",
+      "onboard_time": 1678698205,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 388000,
       "num": 388000,
       "word": "剧版繁花预计9月播出",
@@ -9800,14 +9816,6 @@
       "word": "玄商君失忆",
       "onboard_time": 1678193070,
       "rank": 9,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 381274,
-      "num": 260695,
-      "word": "不要让任何人去定义你年华已逝",
-      "onboard_time": 1678698205,
-      "rank": 32,
       "category": "影视"
     },
     {
@@ -10747,6 +10755,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 351445,
+      "num": 261043,
+      "word": "甲流感染期的食养建议",
+      "onboard_time": 1678700665,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 351138,
       "num": 351138,
       "word": "见过最让人窒息的家长",
@@ -10873,14 +10889,6 @@
       "onboard_time": 1677975681,
       "rank": 6,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 347461,
-      "num": 261043,
-      "word": "甲流感染期的食养建议",
-      "onboard_time": 1678700665,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 346510,
@@ -11385,14 +11393,6 @@
       "onboard_time": 1677677970,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 330004,
-      "num": 260613,
-      "word": "微博之夜",
-      "onboard_time": 1678702526,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 329936,
@@ -14288,6 +14288,14 @@
       "word": "capper现场",
       "onboard_time": 1678545569,
       "rank": 27,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 244087,
+      "num": 244087,
+      "word": "咪豆音乐节",
+      "onboard_time": 1678703546,
+      "rank": 26,
       "category": "音乐"
     },
     {
@@ -18547,6 +18555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182901,
+      "num": 182901,
+      "word": "二级保护动物豹猫疑遭小孩殴打重伤",
+      "onboard_time": 1678703185,
+      "rank": 36,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 182788,
       "num": 182788,
       "word": "老中医旅途中带针灸包接连救12人",
@@ -18753,6 +18769,14 @@
       "onboard_time": 1677809846,
       "rank": 38,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 179423,
+      "num": 179423,
+      "word": "WBG对战OMG",
+      "onboard_time": 1678698987,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 178821,
@@ -19417,14 +19441,6 @@
       "onboard_time": 1678359268,
       "rank": 28,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 168917,
-      "num": 168917,
-      "word": "WBG对战OMG",
-      "onboard_time": 1678698987,
-      "rank": 44,
-      "category": "游戏"
     },
     {
       "raw_hot": 168883,
@@ -21451,6 +21467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 137325,
+      "num": 261864,
+      "word": "明日中国先导片",
+      "onboard_time": 1678702765,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 137152,
       "num": 137152,
       "word": "肖战意大利氛围感随拍",
@@ -21673,6 +21697,14 @@
       "onboard_time": 1678354169,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 134261,
+      "num": 261384,
+      "word": "你为什么坚持在异乡打拼",
+      "onboard_time": 1678695026,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 134225,
@@ -23067,14 +23099,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 112015,
-      "num": 261864,
-      "word": "明日中国先导片",
-      "onboard_time": 1678702765,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 111876,
       "num": 111876,
       "word": "2023年春季流感中医药防治方案",
@@ -23353,14 +23377,6 @@
       "onboard_time": 1678263448,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 108229,
-      "num": 261384,
-      "word": "你为什么坚持在异乡打拼",
-      "onboard_time": 1678695026,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 108220,

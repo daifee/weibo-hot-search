@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1678702859617,
+  "endTime": 1678703809970,
   "band_list": [
     {
       "raw_hot": 6010597,
@@ -43,7 +43,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1338353,
+      "raw_hot": 1379472,
       "num": 261682,
       "word": "22岁的丫丫约等于人类的80岁",
       "onboard_time": 1678699226,
@@ -291,11 +291,27 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 682806,
+      "num": 261325,
+      "word": "倾城亦清欢过审",
+      "onboard_time": 1678702466,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 654093,
       "num": 228197,
       "word": "秦岚喜欢你4录制现场发糖",
       "onboard_time": 1678694367,
       "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 615508,
+      "num": 260613,
+      "word": "微博之夜",
+      "onboard_time": 1678702526,
+      "rank": 24,
       "category": "综艺"
     },
     {
@@ -427,20 +443,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 506576,
+      "num": 261233,
+      "word": "黑暗荣耀与太阳的后裔名场面对比",
+      "onboard_time": 1678698506,
+      "rank": 40,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 505167,
       "num": 401521,
       "word": "爸爸先后三次取头皮救重伤儿子",
       "onboard_time": 1678678708,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 504811,
-      "num": 261325,
-      "word": "倾城亦清欢过审",
-      "onboard_time": 1678702466,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 503160,
@@ -611,14 +627,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 424108,
-      "num": 261233,
-      "word": "黑暗荣耀与太阳的后裔名场面对比",
-      "onboard_time": 1678698506,
-      "rank": 40,
-      "category": "影视,幽默"
-    },
-    {
       "raw_hot": 420111,
       "num": 207810,
       "word": "兄弟瞒着外嫁姐姐办理父母遗产继承",
@@ -675,6 +683,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 388443,
+      "num": 260695,
+      "word": "不要让任何人去定义你年华已逝",
+      "onboard_time": 1678698205,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 382597,
       "num": 195538,
       "word": "就开放单身女性冻卵征求专家意见",
@@ -689,14 +705,6 @@
       "onboard_time": 1678665685,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 381274,
-      "num": 260695,
-      "word": "不要让任何人去定义你年华已逝",
-      "onboard_time": 1678698205,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 375568,
@@ -747,7 +755,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 347461,
+      "raw_hot": 351445,
       "num": 261043,
       "word": "甲流感染期的食养建议",
       "onboard_time": 1678700665,
@@ -800,14 +808,6 @@
       "word": "高圆圆是秦霄贤心中德高望重的演员",
       "onboard_time": 1678635148,
       "rank": 16,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 330004,
-      "num": 260613,
-      "word": "微博之夜",
-      "onboard_time": 1678702526,
-      "rank": 24,
       "category": "综艺"
     },
     {
@@ -969,6 +969,14 @@
       "onboard_time": 1678677686,
       "rank": 35,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 244087,
+      "num": 244087,
+      "word": "咪豆音乐节",
+      "onboard_time": 1678703546,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 240731,
@@ -1179,6 +1187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 182901,
+      "num": 182901,
+      "word": "二级保护动物豹猫疑遭小孩殴打重伤",
+      "onboard_time": 1678703185,
+      "rank": 36,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 181479,
       "num": 163977,
       "word": "重紫徐正溪特辑",
@@ -1193,6 +1209,14 @@
       "onboard_time": 1678623149,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 179423,
+      "num": 179423,
+      "word": "WBG对战OMG",
+      "onboard_time": 1678698987,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 178229,
@@ -1233,14 +1257,6 @@
       "onboard_time": 1678665324,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 168917,
-      "num": 168917,
-      "word": "WBG对战OMG",
-      "onboard_time": 1678698987,
-      "rank": 44,
-      "category": "游戏"
     },
     {
       "raw_hot": 163407,
@@ -1339,6 +1355,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 141656,
+      "num": 262368,
+      "word": "两会",
+      "onboard_time": 1678701026,
+      "rank": 0,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 140607,
       "num": 140607,
       "word": "黑暗荣耀 讽刺",
@@ -1371,12 +1395,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 134448,
-      "num": 262368,
-      "word": "两会",
-      "onboard_time": 1678701026,
-      "rank": 0,
-      "category": "国内要闻"
+      "raw_hot": 137325,
+      "num": 261864,
+      "word": "明日中国先导片",
+      "onboard_time": 1678702765,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134261,
+      "num": 261384,
+      "word": "你为什么坚持在异乡打拼",
+      "onboard_time": 1678695026,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132205,
@@ -1443,14 +1475,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 112015,
-      "num": 261864,
-      "word": "明日中国先导片",
-      "onboard_time": 1678702765,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 110863,
       "num": 110863,
       "word": "庆余年2 原班人马",
@@ -1481,14 +1505,6 @@
       "onboard_time": 1678612527,
       "rank": 33,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 108229,
-      "num": 261384,
-      "word": "你为什么坚持在异乡打拼",
-      "onboard_time": 1678695026,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 108019,
