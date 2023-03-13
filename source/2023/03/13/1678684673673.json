@@ -1,0 +1,410 @@
+{
+  "runTime": 1678684673673,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 324560,
+        "num": 392413,
+        "word": "中国人民成为自己命运的主人",
+        "onboard_time": 1678672466,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 234093,
+        "num": 392381,
+        "word": "从现在起全党全国人民的中心任务",
+        "onboard_time": 1678672466,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 103024,
+        "num": 389811,
+        "word": "坚定不移推进祖国统一进程",
+        "onboard_time": 1678676486,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 932701,
+        "num": 387672,
+        "word": "我国人口红利并没有消失",
+        "onboard_time": 1678680390,
+        "rank": 3,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 519201,
+        "num": 385470,
+        "word": "李强答中外记者问",
+        "onboard_time": 1678674745,
+        "rank": 4,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 472792,
+        "num": 383048,
+        "word": "李强总理回应中美脱钩论调",
+        "onboard_time": 1678681890,
+        "rank": 5,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 412749,
+        "num": 382026,
+        "word": "总理说高手在民间",
+        "onboard_time": 1678682970,
+        "rank": 6,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 116825,
+        "num": 379856,
+        "word": "表决通过了关于修改立法法的决定",
+        "onboard_time": 1678670725,
+        "rank": 7,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 83695,
+        "num": 377583,
+        "word": "人民的信任是我前进的最大动力",
+        "onboard_time": 1678672345,
+        "rank": 8,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 70467,
+        "num": 377104,
+        "word": "十四届全国人大一次会议闭幕会",
+        "onboard_time": 1678664965,
+        "rank": 9,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 424407,
+        "num": 374083,
+        "word": "美国签字银行被关闭",
+        "onboard_time": 1678680569,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373480,
+        "num": 373480,
+        "word": "直观感受到了山东航空的硬核",
+        "onboard_time": 1678675705,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 363292,
+        "num": 363292,
+        "word": "长辈给狗狗洗脸的方式",
+        "onboard_time": 1678680450,
+        "rank": 12,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 357593,
+        "num": 357593,
+        "word": "李强总理谈新一届政府的施政目标",
+        "onboard_time": 1678676727,
+        "rank": 13,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 350528,
+        "num": 350528,
+        "word": "直播总理记者会",
+        "onboard_time": 1678674326,
+        "rank": 14,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 285855,
+        "num": 349643,
+        "word": "女主播因身材焦虑吸毒减肥",
+        "onboard_time": 1678683994,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273084,
+        "num": 348552,
+        "word": "毛雪汪定档",
+        "onboard_time": 1678680150,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218218,
+        "num": 348318,
+        "word": "A股",
+        "onboard_time": 1678678770,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 212459,
+        "num": 346717,
+        "word": "华为P60发布时间官宣",
+        "onboard_time": 1678671385,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 186759,
+        "num": 346268,
+        "word": "苹果市值或将再次站上3万亿美元",
+        "onboard_time": 1678682553,
+        "rank": 19,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 3195329,
+        "num": 345106,
+        "word": "杨紫琼奥斯卡影后",
+        "onboard_time": 1678678287,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1454499,
+        "num": 343231,
+        "word": "迪丽热巴不希望生活中被过度关注",
+        "onboard_time": 1678683451,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 766936,
+        "num": 342379,
+        "word": "TFBOYS魔法城堡发布9周年",
+        "onboard_time": 1678683273,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 530248,
+        "num": 341431,
+        "word": "洪金宝获终身成就奖哽咽了",
+        "onboard_time": 1678665867,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 482600,
+        "num": 340538,
+        "word": "村集体不给出嫁女福利被判补发",
+        "onboard_time": 1678670185,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 431650,
+        "num": 339117,
+        "word": "爸爸先后三次取头皮救重伤儿子",
+        "onboard_time": 1678678708,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 453454,
+        "num": 338446,
+        "word": "妍珍从不内耗",
+        "onboard_time": 1678679490,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 419889,
+        "num": 337356,
+        "word": "祖父母丧事礼薄上父亲留言女子破防",
+        "onboard_time": 1678683513,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336765,
+        "num": 336765,
+        "word": "成都太古里水池频频坑人误踩",
+        "onboard_time": 1678676367,
+        "rank": 28,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 290366,
+        "num": 290366,
+        "word": "KPOP4月回归阵容",
+        "onboard_time": 1678682912,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 690036,
+        "num": 290359,
+        "word": "2023奥斯卡获奖名单",
+        "onboard_time": 1678668568,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 375568,
+        "num": 290324,
+        "word": "刘嘉玲说梁朝伟是最好的",
+        "onboard_time": 1678679188,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 341663,
+        "num": 290298,
+        "word": "腾讯T13技术大佬黄希彤被曝遭裁员",
+        "onboard_time": 1678671085,
+        "rank": 32,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 183758,
+        "num": 290278,
+        "word": "西直门三太子萌兰",
+        "onboard_time": 1678665685,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237015,
+        "num": 290239,
+        "word": "老人7万养老钱埋树下找不着报警",
+        "onboard_time": 1678673666,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235278,
+        "num": 290227,
+        "word": "日本将翻拍隐秘的角落",
+        "onboard_time": 1678676727,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 231504,
+        "num": 290189,
+        "word": "刘若英深圳演唱会售罄",
+        "onboard_time": 1678682553,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 215947,
+        "num": 290175,
+        "word": "宋佳王阳演夫妻",
+        "onboard_time": 1678674206,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 212095,
+        "num": 290141,
+        "word": "全员加速中3开录了",
+        "onboard_time": 1678663646,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195182,
+        "num": 290126,
+        "word": "黄子韬做我的唯一上线",
+        "onboard_time": 1678677567,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 173324,
+        "num": 290101,
+        "word": "花花是如何成为顶流的",
+        "onboard_time": 1678663760,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161200,
+        "num": 290077,
+        "word": "谭松韵新剧妆造",
+        "onboard_time": 1678677987,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 150478,
+        "num": 290045,
+        "word": "大学生把汉宫春晓图106人物演活了",
+        "onboard_time": 1678671565,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148262,
+        "num": 290021,
+        "word": "为中国航天点赞",
+        "onboard_time": 1678684471,
+        "rank": 43,
+        "category": "国内要闻,科技"
+      },
+      {
+        "raw_hot": 354081,
+        "num": 289992,
+        "word": "瞬息全宇宙 横扫",
+        "onboard_time": 1678670485,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 147346,
+        "num": 289949,
+        "word": "刘诗诗时尚芭莎四月刊封面",
+        "onboard_time": 1678677686,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 143495,
+        "num": 289934,
+        "word": "张俪李泽锋吻戏",
+        "onboard_time": 1678675769,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 141618,
+        "num": 289895,
+        "word": "中国人从来没有被任何困难压倒",
+        "onboard_time": 1678677809,
+        "rank": 47,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 130052,
+        "num": 289880,
+        "word": "EXO将4月回归",
+        "onboard_time": 1678671924,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123917,
+        "num": 289861,
+        "word": "白桃星座",
+        "onboard_time": 1678667247,
+        "rank": 49,
+        "category": "情感,网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#国家主席习近平发表重要讲话#"
+    }
+  }
+}
