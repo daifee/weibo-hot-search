@@ -1,0 +1,410 @@
+{
+  "runTime": 1678699168584,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 89031,
+        "num": 169105,
+        "word": "中国人民成为自己命运的主人",
+        "onboard_time": 1678672466,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 107213,
+        "num": 169092,
+        "word": "图解梳理国务院机构改革方案",
+        "onboard_time": 1678695747,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28329,
+        "num": 169059,
+        "word": "新征程我们一起驶向春天",
+        "onboard_time": 1678696703,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251542,
+        "num": 168990,
+        "word": "马尔代夫恢复与伊朗外交关系",
+        "onboard_time": 1678690705,
+        "rank": 3,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 221937,
+        "num": 168947,
+        "word": "王楚钦晋级",
+        "onboard_time": 1678695747,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 229814,
+        "num": 168904,
+        "word": "陈梦2比3萨马拉",
+        "onboard_time": 1678692391,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202110,
+        "num": 168861,
+        "word": "我国人口红利并没有消失",
+        "onboard_time": 1678680390,
+        "rank": 6,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 174120,
+        "num": 168806,
+        "word": "李强总理回应中美脱钩论调",
+        "onboard_time": 1678681890,
+        "rank": 7,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 60605,
+        "num": 168751,
+        "word": "众筹纪录片看春日里的中国人",
+        "onboard_time": 1678697247,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44507,
+        "num": 168745,
+        "word": "从现在起全党全国人民的中心任务",
+        "onboard_time": 1678672466,
+        "rank": 9,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 915478,
+        "num": 168663,
+        "word": "马琳",
+        "onboard_time": 1678696105,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 770180,
+        "num": 168641,
+        "word": "金龟子问当年的小朋友过得还好吗",
+        "onboard_time": 1678695386,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 728288,
+        "num": 168594,
+        "word": "美国公示丫丫回国相关申请",
+        "onboard_time": 1678690226,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 647664,
+        "num": 168553,
+        "word": "孙明悟 备注",
+        "onboard_time": 1678691007,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 492520,
+        "num": 168525,
+        "word": "女子回应烧伤后被男友照顾6年",
+        "onboard_time": 1678694306,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 542816,
+        "num": 168479,
+        "word": "妍珍的拖鞋",
+        "onboard_time": 1678697487,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 486650,
+        "num": 168437,
+        "word": "汇丰收购硅谷银行英国子公司",
+        "onboard_time": 1678695747,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 482490,
+        "num": 168373,
+        "word": "清华博士回应送外卖",
+        "onboard_time": 1678697667,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373096,
+        "num": 168326,
+        "word": "游客吐槽25元看海洋馆就几个鱼缸",
+        "onboard_time": 1678688307,
+        "rank": 18,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 308076,
+        "num": 168276,
+        "word": "动物园回应大熊猫擦屁股出圈",
+        "onboard_time": 1678690826,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1386887,
+        "num": 168219,
+        "word": "李冰冰 恭喜杨紫琼姐姐",
+        "onboard_time": 1678697727,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 504753,
+        "num": 168210,
+        "word": "秦岚喜欢你4录制现场发糖",
+        "onboard_time": 1678694367,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 407984,
+        "num": 168155,
+        "word": "迪丽热巴古典造型花絮视频",
+        "onboard_time": 1678698025,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 286855,
+        "num": 168128,
+        "word": "老人捡钱不愿归还女孩崩溃下跪",
+        "onboard_time": 1678684770,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282888,
+        "num": 168074,
+        "word": "有头发和没头发的都沉默了呀",
+        "onboard_time": 1678688665,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 260887,
+        "num": 168000,
+        "word": "杨颖 微博之夜",
+        "onboard_time": 1678698865,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246692,
+        "num": 167951,
+        "word": "刘敏涛说林珍惠不是纯反派",
+        "onboard_time": 1678698025,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 217598,
+        "num": 167935,
+        "word": "李一桐坦言就是想踹安欣",
+        "onboard_time": 1678687467,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 211659,
+        "num": 167865,
+        "word": "黑暗荣耀 细节",
+        "onboard_time": 1678698325,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203334,
+        "num": 167850,
+        "word": "陆虎三句话让兄弟团再就业",
+        "onboard_time": 1678695806,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 922971,
+        "num": 167805,
+        "word": "李强总理说自己是老网民",
+        "onboard_time": 1678696406,
+        "rank": 30,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 406198,
+        "num": 167755,
+        "word": "才被硅谷银行录取就失业了",
+        "onboard_time": 1678687047,
+        "rank": 31,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 207943,
+        "num": 167700,
+        "word": "不要让任何人去定义你年华已逝",
+        "onboard_time": 1678698205,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 188085,
+        "num": 167641,
+        "word": "祖父母丧事礼薄上父亲留言女子破防",
+        "onboard_time": 1678683513,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180512,
+        "num": 167618,
+        "word": "TFBOYS魔法城堡发布9周年",
+        "onboard_time": 1678683273,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 177064,
+        "num": 167593,
+        "word": "人间优雅黑天鹅",
+        "onboard_time": 1678695986,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 176968,
+        "num": 167540,
+        "word": "大江健三郎去世",
+        "onboard_time": 1678690105,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167506,
+        "num": 167506,
+        "word": "爸爸先后三次取头皮救重伤儿子",
+        "onboard_time": 1678678708,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167048,
+        "num": 167048,
+        "word": "文韬蒲熠星唐九洲名学6reaction",
+        "onboard_time": 1678691966,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161729,
+        "num": 161729,
+        "word": "大学生真的很容易困",
+        "onboard_time": 1678686808,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149351,
+        "num": 149351,
+        "word": "黑暗荣耀与太阳的后裔名场面对比",
+        "onboard_time": 1678698506,
+        "rank": 40,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 134919,
+        "num": 134919,
+        "word": "七根凶简更名七根心简",
+        "onboard_time": 1678690285,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 134819,
+        "num": 134819,
+        "word": "李强答中外记者问",
+        "onboard_time": 1678674745,
+        "rank": 42,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 106144,
+        "num": 106144,
+        "word": "Xiaoxu获最佳新秀",
+        "onboard_time": 1678691788,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 99433,
+        "num": 99433,
+        "word": "WBG对战OMG",
+        "onboard_time": 1678698987,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 97990,
+        "num": 97990,
+        "word": "黑暗荣耀2登网飞电视剧全球榜第二",
+        "onboard_time": 1678687167,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 97827,
+        "num": 97827,
+        "word": "华晨宇声生不息2上班路透",
+        "onboard_time": 1678690285,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94915,
+        "num": 94915,
+        "word": "李莎拉铅笔PTSD",
+        "onboard_time": 1678685909,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 93048,
+        "num": 93048,
+        "word": "丫丫最新动态",
+        "onboard_time": 1678686328,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88403,
+        "num": 88403,
+        "word": "总理记者会要点速览",
+        "onboard_time": 1678689326,
+        "rank": 49,
+        "category": "国内要闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#为强国建设民族复兴伟业添砖加瓦#"
+    }
+  }
+}
