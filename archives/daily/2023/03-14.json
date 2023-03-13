@@ -1,6 +1,6 @@
 {
   "startTime": 1678724793394,
-  "endTime": 1678738816334,
+  "endTime": 1678739614590,
   "band_list": [
     {
       "raw_hot": 700022,
@@ -481,6 +481,14 @@
       "onboard_time": 1678697247,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8946,
+      "num": 10543,
+      "word": "成毅英雄志骑马送亲路透",
+      "onboard_time": 1678735091,
+      "rank": 49,
+      "category": "影视"
     }
   ],
   "hotgov_list": [
