@@ -1,6 +1,6 @@
 {
   "startTime": 1678724793394,
-  "endTime": 1678724793394,
+  "endTime": 1678725850220,
   "band_list": [
     {
       "raw_hot": 700022,
@@ -64,6 +64,14 @@
       "word": "大爷充29万做美容反悔起诉退钱",
       "onboard_time": 1678717168,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 281510,
+      "num": 67215,
+      "word": "美国网红称华人商店该被抢",
+      "onboard_time": 1678722982,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -275,12 +283,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 82120,
-      "num": 67215,
-      "word": "美国网红称华人商店该被抢",
-      "onboard_time": 1678722982,
-      "rank": 43,
-      "category": "社会新闻"
+      "raw_hot": 96920,
+      "num": 42517,
+      "word": "王源绿色西装舞台花絮",
+      "onboard_time": 1678725558,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 88086,
+      "num": 39988,
+      "word": "徐正溪新剧造型",
+      "onboard_time": 1678725679,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 74851,
@@ -395,6 +411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 9542,
+      "num": 59526,
+      "word": "代表委员说检察",
+      "onboard_time": 1678725500,
+      "rank": 8,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 9173,
       "num": 70963,
       "word": "众筹纪录片看春日里的中国人",
@@ -406,6 +430,9 @@
   "hotgov_list": [
     {
       "word": "#国家主席习近平发表重要讲话#"
+    },
+    {
+      "word": "#强国建设民族复兴#"
     }
   ]
 }
