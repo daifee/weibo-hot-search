@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1678714634814,
+  "endTime": 1678717085611,
   "band_list": [
     {
       "raw_hot": 6010597,
@@ -203,6 +203,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 942077,
+      "num": 119271,
+      "word": "潘玮柏的嫌弃不像是演的",
+      "onboard_time": 1678713630,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 915478,
       "num": 261131,
       "word": "马琳",
@@ -289,6 +297,14 @@
       "onboard_time": 1678695386,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 796902,
+      "num": 116423,
+      "word": "于冬说无名9亿票房很满意",
+      "onboard_time": 1678716207,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 793330,
@@ -395,20 +411,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 668225,
+      "num": 119529,
+      "word": "杜锋被驱逐",
+      "onboard_time": 1678712967,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 654093,
       "num": 228197,
       "word": "秦岚喜欢你4录制现场发糖",
       "onboard_time": 1678694367,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 632623,
-      "num": 119529,
-      "word": "杜锋被驱逐",
-      "onboard_time": 1678712967,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 615508,
@@ -747,6 +763,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 428143,
+      "num": 119128,
+      "word": "声生不息宝岛季概念海报",
+      "onboard_time": 1678714348,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 426289,
       "num": 262090,
       "word": "马尔代夫恢复与伊朗外交关系",
@@ -833,6 +857,14 @@
       "onboard_time": 1678635985,
       "rank": 3,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 389578,
+      "num": 116211,
+      "word": "女子自学医美给他人手术致8级伤残",
+      "onboard_time": 1678716207,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 388443,
@@ -1019,6 +1051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 317893,
+      "num": 119222,
+      "word": "流浪地球2评分再次上涨",
+      "onboard_time": 1678712426,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 313252,
       "num": 119248,
       "word": "樊振东vs阿波罗尼亚",
@@ -1059,6 +1099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 297348,
+      "num": 116813,
+      "word": "拜登就银行破产危机讲话",
+      "onboard_time": 1678715848,
+      "rank": 18,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 292540,
       "num": 1112734,
       "word": "妈妈用废纸壳为女儿搭出童话世界",
@@ -1083,28 +1131,12 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 282043,
-      "num": 119271,
-      "word": "潘玮柏的嫌弃不像是演的",
-      "onboard_time": 1678713630,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 280313,
       "num": 202461,
       "word": "华晨宇声生不息2上班路透",
       "onboard_time": 1678690285,
       "rank": 26,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 278335,
-      "num": 119222,
-      "word": "流浪地球2评分再次上涨",
-      "onboard_time": 1678712426,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 276362,
@@ -1419,14 +1451,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 197959,
-      "num": 119128,
-      "word": "声生不息宝岛季概念海报",
-      "onboard_time": 1678714348,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 197506,
       "num": 244137,
       "word": "春日暖阳开播",
@@ -1457,6 +1481,14 @@
       "onboard_time": 1678705585,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 184259,
+      "num": 115107,
+      "word": "了不起舞社",
+      "onboard_time": 1678716148,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 184196,
@@ -1955,20 +1987,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 79460,
+      "num": 119788,
+      "word": "我们从春天出发",
+      "onboard_time": 1678712908,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 77618,
       "num": 77618,
       "word": "四川女篮WCBA总冠军",
       "onboard_time": 1678629989,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 75544,
-      "num": 119788,
-      "word": "我们从春天出发",
-      "onboard_time": 1678712908,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 74342,
@@ -2137,6 +2169,14 @@
       "onboard_time": 1678645632,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 14964,
+      "num": 117704,
+      "word": "春天最美列车里的热血合唱",
+      "onboard_time": 1678716928,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 10541,
