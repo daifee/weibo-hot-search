@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1678706134087,
+  "endTime": 1678707216955,
   "band_list": [
     {
       "raw_hot": 6010597,
@@ -139,6 +139,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 983638,
+      "num": 204059,
+      "word": "刘雯奥斯卡派对造型",
+      "onboard_time": 1678705285,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 970805,
       "num": 404156,
       "word": "村集体不给出嫁女福利被判补发",
@@ -211,14 +219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 828520,
-      "num": 204059,
-      "word": "刘雯奥斯卡派对造型",
-      "onboard_time": 1678705285,
-      "rank": 20,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 826183,
       "num": 206434,
       "word": "边牧鱼仔",
@@ -233,6 +233,14 @@
       "onboard_time": 1678695386,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 795994,
+      "num": 183703,
+      "word": "新上错花轿嫁对郎改名",
+      "onboard_time": 1678706426,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 793330,
@@ -379,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 584704,
+      "num": 202930,
+      "word": "港星尹子维在内地做探店博主",
+      "onboard_time": 1678705766,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 581942,
       "num": 581942,
       "word": "文东恩在监狱当老师",
@@ -409,6 +425,14 @@
       "onboard_time": 1678678770,
       "rank": 11,
       "category": "财经"
+    },
+    {
+      "raw_hot": 545797,
+      "num": 203899,
+      "word": "毛晓彤王子异居家风剧照",
+      "onboard_time": 1678705887,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 542875,
@@ -624,14 +648,6 @@
       "word": "刘嘉玲给梁朝伟颁奖",
       "onboard_time": 1678633169,
       "rank": 15,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 430984,
-      "num": 203899,
-      "word": "毛晓彤王子异居家风剧照",
-      "onboard_time": 1678705887,
-      "rank": 21,
       "category": "影视"
     },
     {
@@ -883,6 +899,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 306593,
+      "num": 191034,
+      "word": "江苏卫视三体",
+      "onboard_time": 1678705646,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 301362,
       "num": 401862,
       "word": "花花是如何成为顶流的",
@@ -937,14 +961,6 @@
       "onboard_time": 1678686687,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 265287,
-      "num": 202930,
-      "word": "港星尹子维在内地做探店博主",
-      "onboard_time": 1678705766,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 264733,
@@ -1243,14 +1259,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 191034,
-      "num": 191034,
-      "word": "江苏卫视三体",
-      "onboard_time": 1678705646,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 187716,
       "num": 187716,
       "word": "OMG状态",
@@ -1328,6 +1336,14 @@
       "word": "3岁跆拳道宝宝展示超萌空翻",
       "onboard_time": 1678665324,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 169635,
+      "num": 169635,
+      "word": "董明珠说员工被培养多年理应不去同业",
+      "onboard_time": 1678706904,
+      "rank": 35,
       "category": "社会新闻"
     },
     {

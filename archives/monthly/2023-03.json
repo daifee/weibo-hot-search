@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678706134087,
+  "endTime": 1678707216955,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -2739,6 +2739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 983638,
+      "num": 204059,
+      "word": "刘雯奥斯卡派对造型",
+      "onboard_time": 1678705285,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 979898,
       "num": 610047,
       "word": "凡人修仙传 杨洋",
@@ -3539,14 +3547,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 828520,
-      "num": 204059,
-      "word": "刘雯奥斯卡派对造型",
-      "onboard_time": 1678705285,
-      "rank": 20,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 826183,
       "num": 206434,
       "word": "边牧鱼仔",
@@ -3729,6 +3729,14 @@
       "onboard_time": 1678593205,
       "rank": 12,
       "category": "教育"
+    },
+    {
+      "raw_hot": 795994,
+      "num": 183703,
+      "word": "新上错花轿嫁对郎改名",
+      "onboard_time": 1678706426,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 795739,
@@ -5947,6 +5955,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 584704,
+      "num": 202930,
+      "word": "港星尹子维在内地做探店博主",
+      "onboard_time": 1678705766,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 583110,
       "num": 583110,
       "word": "熬夜后咯噔一下有三大风险",
@@ -6609,6 +6625,14 @@
       "onboard_time": 1677649767,
       "rank": 9,
       "category": "情感"
+    },
+    {
+      "raw_hot": 545797,
+      "num": 203899,
+      "word": "毛晓彤王子异居家风剧照",
+      "onboard_time": 1678705887,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 545233,
@@ -8737,14 +8761,6 @@
       "onboard_time": 1677998605,
       "rank": 11,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 430984,
-      "num": 203899,
-      "word": "毛晓彤王子异居家风剧照",
-      "onboard_time": 1678705887,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 430823,
@@ -12219,6 +12235,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 306593,
+      "num": 191034,
+      "word": "江苏卫视三体",
+      "onboard_time": 1678705646,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 305787,
       "num": 305787,
       "word": "TVB直播网友建议讲粤语",
@@ -13521,14 +13545,6 @@
       "onboard_time": 1677906567,
       "rank": 34,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 265287,
-      "num": 202930,
-      "word": "港星尹子维在内地做探店博主",
-      "onboard_time": 1678705766,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 265139,
@@ -18067,14 +18083,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 191034,
-      "num": 191034,
-      "word": "江苏卫视三体",
-      "onboard_time": 1678705646,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 190998,
       "num": 190998,
       "word": "九尾KPL登场四周年",
@@ -19473,6 +19481,14 @@
       "onboard_time": 1677739166,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 169635,
+      "num": 169635,
+      "word": "董明珠说员工被培养多年理应不去同业",
+      "onboard_time": 1678706904,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 169533,
