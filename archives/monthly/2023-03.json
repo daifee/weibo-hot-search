@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678727839695,
+  "endTime": 1678728827212,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -26371,6 +26371,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 17482,
+      "num": 42437,
+      "word": "文俊辉翻唱CROOKED",
+      "onboard_time": 1678727716,
+      "rank": 9,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 16984,
       "num": 23879,
       "word": "2023年德国羽毛球公开赛",
@@ -26417,14 +26425,6 @@
       "onboard_time": 1678653911,
       "rank": 45,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 6267,
-      "num": 42437,
-      "word": "文俊辉翻唱CROOKED",
-      "onboard_time": 1678727716,
-      "rank": 9,
-      "category": "音乐"
     }
   ],
   "hotgov_list": [

@@ -1,6 +1,6 @@
 {
   "startTime": 1678724793394,
-  "endTime": 1678727839695,
+  "endTime": 1678728827212,
   "band_list": [
     {
       "raw_hot": 700022,
@@ -403,6 +403,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 17482,
+      "num": 42437,
+      "word": "文俊辉翻唱CROOKED",
+      "onboard_time": 1678727716,
+      "rank": 9,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 13692,
       "num": 59526,
       "word": "代表委员说检察",
@@ -433,14 +441,6 @@
       "onboard_time": 1678697247,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 6267,
-      "num": 42437,
-      "word": "文俊辉翻唱CROOKED",
-      "onboard_time": 1678727716,
-      "rank": 9,
-      "category": "音乐"
     }
   ],
   "hotgov_list": [
@@ -449,6 +449,9 @@
     },
     {
       "word": "#强国建设民族复兴#"
+    },
+    {
+      "word": "#明日中国先导片#"
     }
   ]
 }
