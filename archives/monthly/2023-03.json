@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678713975286,
+  "endTime": 1678714634814,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -1459,6 +1459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1353724,
+      "num": 119408,
+      "word": "徐艺洋出演黄子韬新剧",
+      "onboard_time": 1678712489,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1348218,
       "num": 1348218,
       "word": "室温超导",
@@ -1577,14 +1585,6 @@
       "onboard_time": 1677662849,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1295990,
-      "num": 119261,
-      "word": "徐艺洋出演黄子韬新剧",
-      "onboard_time": 1678712489,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 1293393,
@@ -3723,6 +3723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 808681,
+      "num": 132118,
+      "word": "日本女游客在印度遭骚扰反道歉",
+      "onboard_time": 1678710808,
+      "rank": 44,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 807984,
       "num": 290225,
       "word": "废文",
@@ -4457,14 +4465,6 @@
       "onboard_time": 1678207758,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 722475,
-      "num": 132118,
-      "word": "日本女游客在印度遭骚扰反道歉",
-      "onboard_time": 1678710808,
-      "rank": 44,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 721227,
@@ -5457,6 +5457,14 @@
       "onboard_time": 1678434807,
       "rank": 5,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 632623,
+      "num": 119529,
+      "word": "杜锋被驱逐",
+      "onboard_time": 1678712967,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 631709,
@@ -8171,14 +8179,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 467862,
-      "num": 119419,
-      "word": "杜锋被驱逐",
-      "onboard_time": 1678712967,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
       "raw_hot": 466033,
       "num": 466033,
       "word": "杨紫琼获奥斯卡影后概率有多大",
@@ -8193,6 +8193,14 @@
       "onboard_time": 1678016969,
       "rank": 6,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 463640,
+      "num": 119473,
+      "word": "钱天一3比2伊藤美诚",
+      "onboard_time": 1678712489,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 463353,
@@ -8993,14 +9001,6 @@
       "onboard_time": 1677984145,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 425593,
-      "num": 119352,
-      "word": "钱天一3比2伊藤美诚",
-      "onboard_time": 1678712489,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 424996,
@@ -10675,6 +10675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 358615,
+      "num": 137693,
+      "word": "熊猫萌兰潜逃失败开启撒娇模式",
+      "onboard_time": 1678709966,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 358144,
       "num": 358144,
       "word": "使用耳机606060原则保护耳朵",
@@ -11115,14 +11123,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 344747,
-      "num": 137693,
-      "word": "熊猫萌兰潜逃失败开启撒娇模式",
-      "onboard_time": 1678709966,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 344656,
       "num": 344656,
       "word": "建议给3岁以下婴幼儿家庭发育儿补贴",
@@ -11473,6 +11473,14 @@
       "onboard_time": 1678340786,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 333475,
+      "num": 119440,
+      "word": "王楚钦孙颖莎晋级",
+      "onboard_time": 1678713327,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 333091,
@@ -12116,7 +12124,7 @@
     },
     {
       "raw_hot": 313252,
-      "num": 119083,
+      "num": 119248,
       "word": "樊振东vs阿波罗尼亚",
       "onboard_time": 1678712489,
       "rank": 26,
@@ -13083,6 +13091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 282043,
+      "num": 119271,
+      "word": "潘玮柏的嫌弃不像是演的",
+      "onboard_time": 1678713630,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 281698,
       "num": 281698,
       "word": "温州特斯拉驾驶员已记不清失控场景",
@@ -13225,6 +13241,14 @@
       "onboard_time": 1677943170,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 278335,
+      "num": 119222,
+      "word": "流浪地球2评分再次上涨",
+      "onboard_time": 1678712426,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 278035,
@@ -13384,6 +13408,14 @@
       "word": "比顾里生日更热闹的是孙明悟的葬礼",
       "onboard_time": 1678547908,
       "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 273960,
+      "num": 119203,
+      "word": "孟子义新剧妆造",
+      "onboard_time": 1678714527,
+      "rank": 31,
       "category": "影视"
     },
     {
@@ -14531,14 +14563,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 242832,
-      "num": 119017,
-      "word": "王楚钦孙颖莎晋级",
-      "onboard_time": 1678713327,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 242828,
       "num": 242828,
       "word": "大张伟澳门开唱",
@@ -15097,14 +15121,6 @@
       "onboard_time": 1678180706,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 230635,
-      "num": 118881,
-      "word": "潘玮柏的嫌弃不像是演的",
-      "onboard_time": 1678713630,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 230480,
@@ -16787,14 +16803,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 204349,
-      "num": 118843,
-      "word": "流浪地球2评分再次上涨",
-      "onboard_time": 1678712426,
-      "rank": 34,
-      "category": "影视"
-    },
-    {
       "raw_hot": 204322,
       "num": 204322,
       "word": "KPL春季赛",
@@ -17529,6 +17537,14 @@
       "onboard_time": 1677812967,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 197959,
+      "num": 119128,
+      "word": "声生不息宝岛季概念海报",
+      "onboard_time": 1678714348,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 197749,
@@ -25171,6 +25187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 75544,
+      "num": 119788,
+      "word": "我们从春天出发",
+      "onboard_time": 1678712908,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 75018,
       "num": 75018,
       "word": "陈卓璇唱支山歌给党听",
@@ -25481,14 +25505,6 @@
       "onboard_time": 1677689479,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 61287,
-      "num": 119788,
-      "word": "我们从春天出发",
-      "onboard_time": 1678712908,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 60866,
