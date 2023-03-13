@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678721666049,
+  "endTime": 1678724793394,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -7659,6 +7659,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 499516,
+      "num": 69727,
+      "word": "杨紫琼从history到herstory",
+      "onboard_time": 1678723044,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 499338,
       "num": 499338,
       "word": "拜仁2比0巴黎",
@@ -8161,6 +8169,14 @@
       "onboard_time": 1677710777,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 473557,
+      "num": 88242,
+      "word": "美国银行",
+      "onboard_time": 1678719088,
+      "rank": 17,
+      "category": "财经"
     },
     {
       "raw_hot": 473014,
@@ -9257,14 +9273,6 @@
       "onboard_time": 1678691966,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 416068,
-      "num": 88242,
-      "word": "美国银行",
-      "onboard_time": 1678719088,
-      "rank": 17,
-      "category": "财经"
     },
     {
       "raw_hot": 414431,
@@ -18411,6 +18419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 190790,
+      "num": 87896,
+      "word": "周雨彤官宣加盟毛雪汪",
+      "onboard_time": 1678721426,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 190762,
       "num": 190762,
       "word": "那些影剧双栖发展的演员",
@@ -22323,14 +22339,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 130781,
-      "num": 87896,
-      "word": "周雨彤官宣加盟毛雪汪",
-      "onboard_time": 1678721426,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 130299,
       "num": 130299,
       "word": "TWICE直拍",
@@ -25169,6 +25177,14 @@
       "onboard_time": 1678197629,
       "rank": 14,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 82120,
+      "num": 67215,
+      "word": "美国网红称华人商店该被抢",
+      "onboard_time": 1678722982,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 82010,

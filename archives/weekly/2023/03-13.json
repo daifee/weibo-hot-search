@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1678721666049,
+  "endTime": 1678724793394,
   "band_list": [
     {
       "raw_hot": 6010597,
@@ -675,6 +675,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 499516,
+      "num": 69727,
+      "word": "杨紫琼从history到herstory",
+      "onboard_time": 1678723044,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 498659,
       "num": 498659,
       "word": "直播总理记者会",
@@ -721,6 +729,14 @@
       "onboard_time": 1678666646,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 473557,
+      "num": 88242,
+      "word": "美国银行",
+      "onboard_time": 1678719088,
+      "rank": 17,
+      "category": "财经"
     },
     {
       "raw_hot": 471650,
@@ -889,14 +905,6 @@
       "onboard_time": 1678691966,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 416068,
-      "num": 88242,
-      "word": "美国银行",
-      "onboard_time": 1678719088,
-      "rank": 17,
-      "category": "财经"
     },
     {
       "raw_hot": 412536,
@@ -1579,6 +1587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 190790,
+      "num": 87896,
+      "word": "周雨彤官宣加盟毛雪汪",
+      "onboard_time": 1678721426,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187716,
       "num": 187716,
       "word": "OMG状态",
@@ -1843,14 +1859,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 130781,
-      "num": 87896,
-      "word": "周雨彤官宣加盟毛雪汪",
-      "onboard_time": 1678721426,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 129653,
       "num": 129653,
       "word": "西线无战事奥斯卡最佳摄影",
@@ -2081,6 +2089,14 @@
       "onboard_time": 1678628249,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 82120,
+      "num": 67215,
+      "word": "美国网红称华人商店该被抢",
+      "onboard_time": 1678722982,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 82010,
