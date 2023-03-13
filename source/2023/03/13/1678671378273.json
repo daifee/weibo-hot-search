@@ -1,0 +1,410 @@
+{
+  "runTime": 1678671378273,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 635283,
+        "num": 635283,
+        "word": "表决通过了关于修改立法法的决定",
+        "onboard_time": 1678670725,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 240731,
+        "num": 632860,
+        "word": "十四届全国人大一次会议闭幕会",
+        "onboard_time": 1678664965,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 46569,
+        "num": 629989,
+        "word": "这就是春天里的中国",
+        "onboard_time": 1678628848,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 828976,
+        "num": 623661,
+        "word": "建议将中小学生睡眠质量纳入考核",
+        "onboard_time": 1678665444,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220124,
+        "num": 619153,
+        "word": "妈妈用废纸壳为女儿搭出童话世界",
+        "onboard_time": 1678652111,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172039,
+        "num": 618085,
+        "word": "3岁跆拳道宝宝展示超萌空翻",
+        "onboard_time": 1678665324,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151396,
+        "num": 614464,
+        "word": "要着力解决自媒体内容失真问题",
+        "onboard_time": 1678663099,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118545,
+        "num": 609697,
+        "word": "我国每年废弃手机约4亿部",
+        "onboard_time": 1678621348,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95490,
+        "num": 602537,
+        "word": "人大代表说科技创新要带着农民赚",
+        "onboard_time": 1678646232,
+        "rank": 8,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 53177,
+        "num": 599121,
+        "word": "全国两会时光",
+        "onboard_time": 1678664663,
+        "rank": 9,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1793295,
+        "num": 596977,
+        "word": "2023奥斯卡获奖名单",
+        "onboard_time": 1678668568,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1069053,
+        "num": 590427,
+        "word": "瞬息全宇宙 横扫",
+        "onboard_time": 1678670485,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1056808,
+        "num": 589917,
+        "word": "奥斯卡直播",
+        "onboard_time": 1678668808,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 958427,
+        "num": 583977,
+        "word": "花花流眼泪",
+        "onboard_time": 1678663099,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 581942,
+        "num": 581942,
+        "word": "文东恩在监狱当老师",
+        "onboard_time": 1678663821,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 556568,
+        "num": 556568,
+        "word": "全员加速中3开录了",
+        "onboard_time": 1678663646,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 542875,
+        "num": 542875,
+        "word": "白桃星座",
+        "onboard_time": 1678667247,
+        "rank": 16,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 540265,
+        "num": 540265,
+        "word": "奥斯卡红毯",
+        "onboard_time": 1678663339,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 484830,
+        "num": 484830,
+        "word": "新疆多个休眠火山口积水如彩色画盘",
+        "onboard_time": 1678666646,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 433273,
+        "num": 433273,
+        "word": "游客饮料不慎掉落被大熊猫捡来喝",
+        "onboard_time": 1678627827,
+        "rank": 19,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 1130829,
+        "num": 413077,
+        "word": "洪金宝获终身成就奖哽咽了",
+        "onboard_time": 1678665867,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 618668,
+        "num": 404156,
+        "word": "村集体不给出嫁女福利被判补发",
+        "onboard_time": 1678670185,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381606,
+        "num": 381606,
+        "word": "西直门三太子萌兰",
+        "onboard_time": 1678665685,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365058,
+        "num": 365058,
+        "word": "阿迪达斯中国区业绩连续7季度下滑",
+        "onboard_time": 1678669946,
+        "rank": 23,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 325755,
+        "num": 325755,
+        "word": "男子爬山偶遇赤狐对视引路",
+        "onboard_time": 1678669167,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308704,
+        "num": 308704,
+        "word": "美联储就硅谷银行事件出手干预",
+        "onboard_time": 1678665805,
+        "rank": 25,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 301362,
+        "num": 301362,
+        "word": "花花是如何成为顶流的",
+        "onboard_time": 1678663760,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258492,
+        "num": 258492,
+        "word": "宋慧乔演技破碎感",
+        "onboard_time": 1678667127,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 235588,
+        "num": 235588,
+        "word": "美财长称政府不会救助硅谷银行",
+        "onboard_time": 1678664601,
+        "rank": 28,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 216909,
+        "num": 216909,
+        "word": "金智秀solo个人预告",
+        "onboard_time": 1678664182,
+        "rank": 29,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 207810,
+        "num": 207810,
+        "word": "兄弟瞒着外嫁姐姐办理父母遗产继承",
+        "onboard_time": 1678624348,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204791,
+        "num": 204791,
+        "word": "关继威奥斯卡最佳男配角",
+        "onboard_time": 1678668808,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194796,
+        "num": 194796,
+        "word": "小美人鱼正式预告",
+        "onboard_time": 1678671085,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 191367,
+        "num": 191367,
+        "word": "偶遇8只好奇心极强的傻狍子",
+        "onboard_time": 1678664182,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177450,
+        "num": 177450,
+        "word": "美财政部美联储和FDIC联合声明",
+        "onboard_time": 1678670126,
+        "rank": 34,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 177265,
+        "num": 177265,
+        "word": "浙江人1年花18亿买香奈儿",
+        "onboard_time": 1678620147,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162387,
+        "num": 162387,
+        "word": "汤唯亚洲电影大奖最佳女主角",
+        "onboard_time": 1678631909,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 149970,
+        "num": 149970,
+        "word": "杨紫琼获奥斯卡影后概率有多大",
+        "onboard_time": 1678620867,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 135737,
+        "num": 135737,
+        "word": "白色月牙暂别赛场",
+        "onboard_time": 1678635985,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 131064,
+        "num": 131064,
+        "word": "台民众买24颗鸡蛋花400块",
+        "onboard_time": 1678623445,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129653,
+        "num": 129653,
+        "word": "西线无战事奥斯卡最佳摄影",
+        "onboard_time": 1678670846,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 128857,
+        "num": 128857,
+        "word": "高圆圆是秦霄贤心中德高望重的演员",
+        "onboard_time": 1678635148,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128576,
+        "num": 128576,
+        "word": "梁朝伟亚洲电影大奖最佳男主角",
+        "onboard_time": 1678641196,
+        "rank": 42,
+        "category": "艺人,影视"
+      },
+      {
+        "raw_hot": 123287,
+        "num": 123287,
+        "word": "腾讯T13技术大佬黄希彤被曝遭裁员",
+        "onboard_time": 1678671085,
+        "rank": 43,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 118073,
+        "num": 118073,
+        "word": "尼克斯vs湖人",
+        "onboard_time": 1678670366,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117328,
+        "num": 117328,
+        "word": "用辣椒丝当成藏红花泡茶喝",
+        "onboard_time": 1678662918,
+        "rank": 45,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 96751,
+        "num": 96751,
+        "word": "NMIXX新歌YoungDumbStupid",
+        "onboard_time": 1678662739,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 91140,
+        "num": 91140,
+        "word": "两颗球的泰坦尼克号",
+        "onboard_time": 1678662739,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 88188,
+        "num": 88188,
+        "word": "裸眼3D看开往春天的列车",
+        "onboard_time": 1678667547,
+        "rank": 48,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 78774,
+        "num": 78774,
+        "word": "韩国队恶意犯规遭裁判无视",
+        "onboard_time": 1678620446,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#国家主席习近平发表重要讲话#"
+    }
+  }
+}
