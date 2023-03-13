@@ -1,0 +1,410 @@
+{
+  "runTime": 1678749554442,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 39965,
+        "num": 153378,
+        "word": "两会",
+        "onboard_time": 1678701026,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 24930,
+        "num": 153264,
+        "word": "代表委员说检察",
+        "onboard_time": 1678725500,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 43490,
+        "num": 152531,
+        "word": "我们从春天出发",
+        "onboard_time": 1678712908,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 599964,
+        "num": 151462,
+        "word": "不吃主食或造成大脑功能衰退",
+        "onboard_time": 1678729394,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 387654,
+        "num": 151247,
+        "word": "分娩之痛并非天经地义",
+        "onboard_time": 1678734671,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84967,
+        "num": 150120,
+        "word": "李强总理说自己是老网民",
+        "onboard_time": 1678696406,
+        "rank": 5,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 38972,
+        "num": 149650,
+        "word": "春天最美列车里的热血合唱",
+        "onboard_time": 1678716928,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25436,
+        "num": 149094,
+        "word": "把施工图和宏伟蓝图变成美好现实",
+        "onboard_time": 1678729874,
+        "rank": 7,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 20943,
+        "num": 148342,
+        "word": "海南警方魔性反诈广告",
+        "onboard_time": 1678749320,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11828,
+        "num": 147356,
+        "word": "FPX战胜RA",
+        "onboard_time": 1678749139,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 497759,
+        "num": 146319,
+        "word": "曾经穷游的泰国贵到去不起了",
+        "onboard_time": 1678707684,
+        "rank": 10,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 286169,
+        "num": 146005,
+        "word": "大爷充29万做美容反悔起诉退钱",
+        "onboard_time": 1678717168,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204853,
+        "num": 145305,
+        "word": "女孩出汗把衣服染蓝查出色汗症",
+        "onboard_time": 1678708706,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200787,
+        "num": 144441,
+        "word": "爱奇艺考虑拍狂飙电影版",
+        "onboard_time": 1678720106,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 196279,
+        "num": 143815,
+        "word": "美国银行",
+        "onboard_time": 1678719088,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 163778,
+        "num": 143053,
+        "word": "新上错花轿嫁对郎改名",
+        "onboard_time": 1678706426,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 142741,
+        "num": 142741,
+        "word": "拜登就银行破产危机讲话",
+        "onboard_time": 1678715848,
+        "rank": 16,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 174297,
+        "num": 142727,
+        "word": "美股",
+        "onboard_time": 1678717229,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 135700,
+        "num": 142673,
+        "word": "22岁的丫丫约等于人类的80岁",
+        "onboard_time": 1678699226,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115042,
+        "num": 142596,
+        "word": "微博之夜",
+        "onboard_time": 1678702526,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 477293,
+        "num": 142525,
+        "word": "美国网红称华人商店该被抢",
+        "onboard_time": 1678722982,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309478,
+        "num": 142490,
+        "word": "女子自学医美给他人手术致8级伤残",
+        "onboard_time": 1678716207,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299072,
+        "num": 142401,
+        "word": "潘玮柏的嫌弃不像是演的",
+        "onboard_time": 1678713630,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 235256,
+        "num": 142380,
+        "word": "肖战登日本moviestar封面",
+        "onboard_time": 1678719507,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 228698,
+        "num": 142282,
+        "word": "杨紫琼从history到herstory",
+        "onboard_time": 1678723044,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 27296,
+        "num": 142235,
+        "word": "文俊辉翻唱CROOKED",
+        "onboard_time": 1678727716,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 209881,
+        "num": 142183,
+        "word": "日本女游客在印度遭骚扰反道歉",
+        "onboard_time": 1678710808,
+        "rank": 26,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 142159,
+        "num": 142159,
+        "word": "港星尹子维在内地做探店博主",
+        "onboard_time": 1678705766,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141275,
+        "num": 141275,
+        "word": "于冬说无名9亿票房很满意",
+        "onboard_time": 1678716207,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 137070,
+        "num": 137070,
+        "word": "徐艺洋出演黄子韬新剧",
+        "onboard_time": 1678712489,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 132807,
+        "num": 132807,
+        "word": "火速加入瘦肚子挑战",
+        "onboard_time": 1678743191,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112781,
+        "num": 112781,
+        "word": "董明珠说员工被培养多年理应不去同业",
+        "onboard_time": 1678706904,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106939,
+        "num": 106939,
+        "word": "周杰伦演唱会",
+        "onboard_time": 1678719568,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 102090,
+        "num": 102090,
+        "word": "黑莲花",
+        "onboard_time": 1678709905,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 94814,
+        "num": 94814,
+        "word": "声生不息宝岛季概念海报",
+        "onboard_time": 1678714348,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93010,
+        "num": 93010,
+        "word": "刘雯奥斯卡派对造型",
+        "onboard_time": 1678705285,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 87059,
+        "num": 87059,
+        "word": "杜锋被驱逐",
+        "onboard_time": 1678712967,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85138,
+        "num": 85138,
+        "word": "熊猫萌兰潜逃失败开启撒娇模式",
+        "onboard_time": 1678709966,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75948,
+        "num": 75948,
+        "word": "瞬息全宇宙奥斯卡最佳影片",
+        "onboard_time": 1678726997,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 74078,
+        "num": 74078,
+        "word": "好直观的出血量讲解",
+        "onboard_time": 1678711647,
+        "rank": 39,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 71422,
+        "num": 71422,
+        "word": "中国空间站与北海白塔同框",
+        "onboard_time": 1678739710,
+        "rank": 40,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 69775,
+        "num": 69775,
+        "word": "徐正溪新剧造型",
+        "onboard_time": 1678725679,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 67269,
+        "num": 69771,
+        "word": "周雨彤官宣加盟毛雪汪",
+        "onboard_time": 1678721426,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63843,
+        "num": 69763,
+        "word": "光渊更不更",
+        "onboard_time": 1678708646,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 60832,
+        "num": 69755,
+        "word": "孙怡演技状态",
+        "onboard_time": 1678718188,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 58345,
+        "num": 69748,
+        "word": "红海行动2今年开拍",
+        "onboard_time": 1678719150,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 48333,
+        "num": 69746,
+        "word": "蓝柚 AG",
+        "onboard_time": 1678719928,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 44080,
+        "num": 69736,
+        "word": "成毅英雄志骑马送亲路透",
+        "onboard_time": 1678735091,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 43499,
+        "num": 69730,
+        "word": "流浪地球2评分再次上涨",
+        "onboard_time": 1678712426,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 42865,
+        "num": 69724,
+        "word": "黑暗荣耀 细节",
+        "onboard_time": 1678698325,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#明日中国先导片#"
+    }
+  }
+}
