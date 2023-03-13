@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1678718114116,
+  "endTime": 1678720749764,
   "band_list": [
     {
       "raw_hot": 6010597,
@@ -291,6 +291,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 802634,
+      "num": 110173,
+      "word": "赛格",
+      "onboard_time": 1678717948,
+      "rank": 43,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 798126,
       "num": 261487,
       "word": "金龟子问当年的小朋友过得还好吗",
@@ -363,6 +371,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 716843,
+      "num": 110363,
+      "word": "大爷充29万做美容反悔起诉退钱",
+      "onboard_time": 1678717168,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 716053,
       "num": 138950,
       "word": "林高远",
@@ -403,6 +419,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 695293,
+      "num": 116211,
+      "word": "女子自学医美给他人手术致8级伤残",
+      "onboard_time": 1678716207,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 682806,
       "num": 261325,
       "word": "倾城亦清欢过审",
@@ -425,14 +449,6 @@
       "onboard_time": 1678694367,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 639147,
-      "num": 116211,
-      "word": "女子自学医美给他人手术致8级伤残",
-      "onboard_time": 1678716207,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 615508,
@@ -473,6 +489,14 @@
       "onboard_time": 1678683994,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 608014,
+      "num": 75654,
+      "word": "肖战登日本moviestar封面",
+      "onboard_time": 1678719507,
+      "rank": 23,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 605718,
@@ -579,6 +603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 522320,
+      "num": 110627,
+      "word": "美股",
+      "onboard_time": 1678717229,
+      "rank": 18,
+      "category": "财经"
+    },
+    {
       "raw_hot": 520260,
       "num": 260773,
       "word": "杨颖 微博之夜",
@@ -648,6 +680,14 @@
       "word": "汤唯亚洲电影大奖最佳女主角",
       "onboard_time": 1678631909,
       "rank": 13,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 495777,
+      "num": 75690,
+      "word": "爱奇艺考虑拍狂飙电影版",
+      "onboard_time": 1678720106,
+      "rank": 15,
       "category": "影视"
     },
     {
@@ -843,6 +883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 416068,
+      "num": 75681,
+      "word": "美国银行",
+      "onboard_time": 1678719088,
+      "rank": 17,
+      "category": "财经"
+    },
+    {
       "raw_hot": 412536,
       "num": 229346,
       "word": "大江健三郎去世",
@@ -867,12 +915,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 400884,
-      "num": 110627,
-      "word": "美股",
-      "onboard_time": 1678717229,
-      "rank": 18,
-      "category": "财经"
+      "raw_hot": 406397,
+      "num": 75640,
+      "word": "周杰伦演唱会",
+      "onboard_time": 1678719568,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 389810,
@@ -1147,6 +1195,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 279086,
+      "num": 75620,
+      "word": "昏嫁将影视化",
+      "onboard_time": 1678718309,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 276362,
       "num": 239262,
       "word": "黑暗荣耀 细节",
@@ -1203,6 +1259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 259243,
+      "num": 75616,
+      "word": "孙怡演技状态",
+      "onboard_time": 1678718188,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 258492,
       "num": 400525,
       "word": "宋慧乔演技破碎感",
@@ -1224,6 +1288,14 @@
       "word": "谭松韵新剧妆造",
       "onboard_time": 1678677987,
       "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 247072,
+      "num": 75608,
+      "word": "杨紫琼 奥斯卡第一位亚洲影后",
+      "onboard_time": 1678720347,
+      "rank": 33,
       "category": "影视"
     },
     {
@@ -1315,14 +1387,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 233358,
-      "num": 110363,
-      "word": "大爷充29万做美容反悔起诉退钱",
-      "onboard_time": 1678717168,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 232963,
       "num": 232963,
       "word": "梁朝伟刘德华新片剧照",
@@ -1379,6 +1443,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 222858,
+      "num": 75597,
+      "word": "红海行动2今年开拍",
+      "onboard_time": 1678719150,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 220637,
       "num": 346268,
       "word": "苹果市值或将再次站上3万亿美元",
@@ -1393,6 +1465,14 @@
       "onboard_time": 1678672345,
       "rank": 36,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 217803,
+      "num": 75595,
+      "word": "蓝柚 AG",
+      "onboard_time": 1678719928,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 216909,
@@ -1497,6 +1577,14 @@
       "onboard_time": 1678705585,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 184948,
+      "num": 75585,
+      "word": "瞬息全宇宙",
+      "onboard_time": 1678720648,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 184259,
@@ -1713,14 +1801,6 @@
       "onboard_time": 1678670366,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 138778,
-      "num": 110173,
-      "word": "赛格",
-      "onboard_time": 1678717948,
-      "rank": 43,
-      "category": "社会负面"
     },
     {
       "raw_hot": 137325,
@@ -2123,20 +2203,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 50958,
+      "num": 117704,
+      "word": "春天最美列车里的热血合唱",
+      "onboard_time": 1678716928,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 47169,
       "num": 47169,
       "word": "黑暗荣耀2双向救赎",
       "onboard_time": 1678649111,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 39786,
-      "num": 117704,
-      "word": "春天最美列车里的热血合唱",
-      "onboard_time": 1678716928,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 30012,

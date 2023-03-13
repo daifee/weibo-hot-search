@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678718114116,
+  "endTime": 1678720749764,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -3771,6 +3771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 802634,
+      "num": 110173,
+      "word": "赛格",
+      "onboard_time": 1678717948,
+      "rank": 43,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 802463,
       "num": 802463,
       "word": "建议推行婚检与婚姻登记一站式服务",
@@ -4555,6 +4563,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 716843,
+      "num": 110363,
+      "word": "大爷充29万做美容反悔起诉退钱",
+      "onboard_time": 1678717168,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 716053,
       "num": 433418,
       "word": "林高远",
@@ -4721,6 +4737,14 @@
       "onboard_time": 1678529006,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 695293,
+      "num": 116211,
+      "word": "女子自学医美给他人手术致8级伤残",
+      "onboard_time": 1678716207,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 694462,
@@ -5403,14 +5427,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 639147,
-      "num": 116211,
-      "word": "女子自学医美给他人手术致8级伤残",
-      "onboard_time": 1678716207,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 638528,
       "num": 638528,
       "word": "毛不易演唱会门票",
@@ -5801,6 +5817,14 @@
       "onboard_time": 1677664048,
       "rank": 8,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 608014,
+      "num": 75654,
+      "word": "肖战登日本moviestar封面",
+      "onboard_time": 1678719507,
+      "rank": 23,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 606970,
@@ -7131,6 +7155,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 522320,
+      "num": 110627,
+      "word": "美股",
+      "onboard_time": 1678717229,
+      "rank": 18,
+      "category": "财经"
+    },
+    {
       "raw_hot": 521858,
       "num": 521858,
       "word": "官方辟谣送顿顿出国",
@@ -7681,6 +7713,14 @@
       "onboard_time": 1678265909,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 495777,
+      "num": 75690,
+      "word": "爱奇艺考虑拍狂飙电影版",
+      "onboard_time": 1678720106,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 495331,
@@ -9211,6 +9251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 416068,
+      "num": 75681,
+      "word": "美国银行",
+      "onboard_time": 1678719088,
+      "rank": 17,
+      "category": "财经"
+    },
+    {
       "raw_hot": 414431,
       "num": 414431,
       "word": "金智秀紫裙",
@@ -9387,6 +9435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 406397,
+      "num": 75640,
+      "word": "周杰伦演唱会",
+      "onboard_time": 1678719568,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 406045,
       "num": 406045,
       "word": "名侦探学院禁入派对",
@@ -9489,14 +9545,6 @@
       "onboard_time": 1677643589,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 400884,
-      "num": 110627,
-      "word": "美股",
-      "onboard_time": 1678717229,
-      "rank": 18,
-      "category": "财经"
     },
     {
       "raw_hot": 400502,
@@ -13251,6 +13299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 279086,
+      "num": 75620,
+      "word": "昏嫁将影视化",
+      "onboard_time": 1678718309,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 278455,
       "num": 278455,
       "word": "DRG 对S组过敏",
@@ -13971,6 +14027,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 259243,
+      "num": 75616,
+      "word": "孙怡演技状态",
+      "onboard_time": 1678718188,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 259000,
       "num": 259000,
       "word": "上海迪士尼门票热度暴涨350%",
@@ -14424,6 +14488,14 @@
       "word": "邢菲哭戏",
       "onboard_time": 1677672750,
       "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 247072,
+      "num": 75608,
+      "word": "杨紫琼 奥斯卡第一位亚洲影后",
+      "onboard_time": 1678720347,
+      "rank": 33,
       "category": "影视"
     },
     {
@@ -15009,14 +15081,6 @@
       "onboard_time": 1678060645,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 233358,
-      "num": 110363,
-      "word": "大爷充29万做美容反悔起诉退钱",
-      "onboard_time": 1678717168,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 232963,
@@ -15667,6 +15731,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 222858,
+      "num": 75597,
+      "word": "红海行动2今年开拍",
+      "onboard_time": 1678719150,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 222759,
       "num": 222759,
       "word": "宋轶罗一舟也来鼓楼打卡了",
@@ -15929,6 +16001,14 @@
       "onboard_time": 1677899965,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 217803,
+      "num": 75595,
+      "word": "蓝柚 AG",
+      "onboard_time": 1678719928,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 217782,
@@ -18811,6 +18891,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 184948,
+      "num": 75585,
+      "word": "瞬息全宇宙",
+      "onboard_time": 1678720648,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 184364,
       "num": 184364,
       "word": "RW锁定S组",
@@ -21673,14 +21761,6 @@
       "onboard_time": 1678026510,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 138778,
-      "num": 110173,
-      "word": "赛格",
-      "onboard_time": 1678717948,
-      "rank": 43,
-      "category": "社会负面"
     },
     {
       "raw_hot": 138766,
@@ -25739,6 +25819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 50958,
+      "num": 117704,
+      "word": "春天最美列车里的热血合唱",
+      "onboard_time": 1678716928,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50654,
       "num": 1323841,
       "word": "奋进的春天",
@@ -25912,14 +26000,6 @@
       "word": "建议高考外语降到100分",
       "onboard_time": 1677886340,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 39786,
-      "num": 117704,
-      "word": "春天最美列车里的热血合唱",
-      "onboard_time": 1678716928,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
