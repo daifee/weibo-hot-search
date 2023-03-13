@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678707216955,
+  "endTime": 1678711056384,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -1603,6 +1603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1272452,
+      "num": 139291,
+      "word": "曾经穷游的泰国贵到去不起了",
+      "onboard_time": 1678707684,
+      "rank": 10,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 1270781,
       "num": 250309,
       "word": "蜂花回应要认养大熊猫丫丫",
@@ -2139,6 +2147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1099617,
+      "num": 183703,
+      "word": "新上错花轿嫁对郎改名",
+      "onboard_time": 1678706426,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1099312,
       "num": 460444,
       "word": "女护士下班摆摊卖无菌烤肠",
@@ -2200,6 +2216,14 @@
       "word": "白鹿片场靠在张凌赫肩膀上",
       "onboard_time": 1678008326,
       "rank": 10,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1079566,
+      "num": 139146,
+      "word": "黑莲花",
+      "onboard_time": 1678709905,
+      "rank": 12,
       "category": "影视"
     },
     {
@@ -3675,6 +3699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 809049,
+      "num": 169635,
+      "word": "董明珠说员工被培养多年理应不去同业",
+      "onboard_time": 1678706904,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 807984,
       "num": 290225,
       "word": "废文",
@@ -3729,14 +3761,6 @@
       "onboard_time": 1678593205,
       "rank": 12,
       "category": "教育"
-    },
-    {
-      "raw_hot": 795994,
-      "num": 183703,
-      "word": "新上错花轿嫁对郎改名",
-      "onboard_time": 1678706426,
-      "rank": 11,
-      "category": "影视"
     },
     {
       "raw_hot": 795739,
@@ -3931,6 +3955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 777064,
+      "num": 139029,
+      "word": "女孩出汗把衣服染蓝查出色汗症",
+      "onboard_time": 1678708706,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 776224,
       "num": 502044,
       "word": "zzm",
@@ -3969,6 +4001,14 @@
       "onboard_time": 1678412844,
       "rank": 3,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 771190,
+      "num": 138644,
+      "word": "向太发文祝贺杨紫琼获奖",
+      "onboard_time": 1678707746,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 769116,
@@ -4473,6 +4513,14 @@
       "onboard_time": 1678284870,
       "rank": 42,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 716053,
+      "num": 433418,
+      "word": "林高远",
+      "onboard_time": 1677829166,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 715531,
@@ -8715,14 +8763,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 433418,
-      "num": 433418,
-      "word": "林高远",
-      "onboard_time": 1677829166,
-      "rank": 11,
-      "category": "体育"
-    },
-    {
       "raw_hot": 433085,
       "num": 311764,
       "word": "在整个直播界都相当炸裂",
@@ -9040,6 +9080,14 @@
       "word": "星落凝成糖男主男二一起养花",
       "onboard_time": 1678455568,
       "rank": 16,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 419911,
+      "num": 138827,
+      "word": "光渊更不更",
+      "onboard_time": 1678708646,
+      "rank": 17,
       "category": "影视"
     },
     {
@@ -10176,6 +10224,14 @@
       "word": "丁程鑫录制第一期你好星期六",
       "onboard_time": 1677902427,
       "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 370459,
+      "num": 138386,
+      "word": "刘宇赞多录制了不起舞社2",
+      "onboard_time": 1678709247,
+      "rank": 24,
       "category": "综艺"
     },
     {
@@ -11473,6 +11529,14 @@
       "onboard_time": 1677835288,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 329051,
+      "num": 137938,
+      "word": "海莉出席奥斯卡派对",
+      "onboard_time": 1678710026,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 328688,
@@ -19483,14 +19547,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 169635,
-      "num": 169635,
-      "word": "董明珠说员工被培养多年理应不去同业",
-      "onboard_time": 1678706904,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 169533,
       "num": 169533,
       "word": "听说你喜欢我上星播出",
@@ -19745,6 +19801,14 @@
       "onboard_time": 1677824904,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 165293,
+      "num": 137693,
+      "word": "熊猫萌兰潜逃失败开启撒娇模式",
+      "onboard_time": 1678709966,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 165061,
@@ -22515,6 +22579,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 122964,
+      "num": 122964,
+      "word": "日本女游客在印度遭骚扰反道歉",
+      "onboard_time": 1678710808,
+      "rank": 44,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 122939,
       "num": 122939,
       "word": "RNG三连败",
@@ -23187,6 +23259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 112670,
+      "num": 112670,
+      "word": "RedVelvet演唱会预告视频",
+      "onboard_time": 1678707446,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 112446,
       "num": 112446,
       "word": "像极了被领导训话时的你",
@@ -23673,6 +23753,14 @@
       "onboard_time": 1677883936,
       "rank": 30,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 105715,
+      "num": 105715,
+      "word": "山西男篮vs广东男篮",
+      "onboard_time": 1678710987,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 105566,

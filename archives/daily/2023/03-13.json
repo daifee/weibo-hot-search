@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1678707216955,
+  "endTime": 1678711056384,
   "band_list": [
     {
       "raw_hot": 6010597,
@@ -59,6 +59,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1272452,
+      "num": 139291,
+      "word": "曾经穷游的泰国贵到去不起了",
+      "onboard_time": 1678707684,
+      "rank": 10,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 1251135,
       "num": 260991,
       "word": "美国公示丫丫回国相关申请",
@@ -105,6 +113,22 @@
       "onboard_time": 1678670725,
       "rank": 0,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 1099617,
+      "num": 183703,
+      "word": "新上错花轿嫁对郎改名",
+      "onboard_time": 1678706426,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1079566,
+      "num": 139146,
+      "word": "黑莲花",
+      "onboard_time": 1678709905,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 1071468,
@@ -227,20 +251,20 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 809049,
+      "num": 169635,
+      "word": "董明珠说员工被培养多年理应不去同业",
+      "onboard_time": 1678706904,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 798126,
       "num": 261487,
       "word": "金龟子问当年的小朋友过得还好吗",
       "onboard_time": 1678695386,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 795994,
-      "num": 183703,
-      "word": "新上错花轿嫁对郎改名",
-      "onboard_time": 1678706426,
-      "rank": 11,
-      "category": "影视"
     },
     {
       "raw_hot": 793330,
@@ -256,6 +280,22 @@
       "word": "奥斯卡红毯",
       "onboard_time": 1678663339,
       "rank": 14,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 777064,
+      "num": 139029,
+      "word": "女孩出汗把衣服染蓝查出色汗症",
+      "onboard_time": 1678708706,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 771190,
+      "num": 138644,
+      "word": "向太发文祝贺杨紫琼获奖",
+      "onboard_time": 1678707746,
+      "rank": 20,
       "category": "影视"
     },
     {
@@ -281,6 +321,14 @@
       "onboard_time": 1678672466,
       "rank": 49,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 716053,
+      "num": 138950,
+      "word": "林高远",
+      "onboard_time": 1678709665,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 712690,
@@ -691,6 +739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 419911,
+      "num": 138827,
+      "word": "光渊更不更",
+      "onboard_time": 1678708646,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 419889,
       "num": 337356,
       "word": "祖父母丧事礼薄上父亲留言女子破防",
@@ -777,6 +833,14 @@
       "onboard_time": 1678679188,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 370459,
+      "num": 138386,
+      "word": "刘宇赞多录制了不起舞社2",
+      "onboard_time": 1678709247,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 366882,
@@ -873,6 +937,14 @@
       "onboard_time": 1678635148,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 329051,
+      "num": 137938,
+      "word": "海莉出席奥斯卡派对",
+      "onboard_time": 1678710026,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 325755,
@@ -1339,11 +1411,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 169635,
-      "num": 169635,
-      "word": "董明珠说员工被培养多年理应不去同业",
-      "onboard_time": 1678706904,
-      "rank": 35,
+      "raw_hot": 165293,
+      "num": 137693,
+      "word": "熊猫萌兰潜逃失败开启撒娇模式",
+      "onboard_time": 1678709966,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -1531,6 +1603,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 122964,
+      "num": 122964,
+      "word": "日本女游客在印度遭骚扰反道歉",
+      "onboard_time": 1678710808,
+      "rank": 44,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 121067,
       "num": 237717,
       "word": "专家建议大企业带小企业手拉手",
@@ -1576,6 +1656,14 @@
       "word": "孟美岐舞蹈cover",
       "onboard_time": 1678630469,
       "rank": 30,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 112670,
+      "num": 112670,
+      "word": "RedVelvet演唱会预告视频",
+      "onboard_time": 1678707446,
+      "rank": 46,
       "category": "音乐"
     },
     {
@@ -1633,6 +1721,14 @@
       "onboard_time": 1678695747,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105715,
+      "num": 105715,
+      "word": "山西男篮vs广东男篮",
+      "onboard_time": 1678710987,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 102313,
