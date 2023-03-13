@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1678703809970,
+  "endTime": 1678706134087,
   "band_list": [
     {
       "raw_hot": 6010597,
@@ -211,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 828520,
+      "num": 204059,
+      "word": "刘雯奥斯卡派对造型",
+      "onboard_time": 1678705285,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 826183,
       "num": 206434,
       "word": "边牧鱼仔",
@@ -241,6 +249,14 @@
       "onboard_time": 1678663339,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 768414,
+      "num": 205693,
+      "word": "台军因蛋荒将改喝豆奶",
+      "onboard_time": 1678703845,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 766936,
@@ -331,6 +347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 610755,
+      "num": 203622,
+      "word": "香港文旅局长祝贺杨紫琼",
+      "onboard_time": 1678705285,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 608888,
       "num": 367630,
       "word": "女主播因身材焦虑吸毒减肥",
@@ -409,6 +433,14 @@
       "onboard_time": 1678620147,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 524296,
+      "num": 205152,
+      "word": "花琉璃轶闻定档",
+      "onboard_time": 1678704687,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 520260,
@@ -595,6 +627,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 430984,
+      "num": 203899,
+      "word": "毛晓彤王子异居家风剧照",
+      "onboard_time": 1678705887,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 428335,
       "num": 382026,
       "word": "总理说高手在民间",
@@ -707,12 +747,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 381185,
+      "num": 261043,
+      "word": "甲流感染期的食养建议",
+      "onboard_time": 1678700665,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 375568,
       "num": 401325,
       "word": "刘嘉玲说梁朝伟是最好的",
       "onboard_time": 1678679188,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 366882,
+      "num": 203684,
+      "word": "二级保护动物豹猫疑遭小孩殴打重伤",
+      "onboard_time": 1678703185,
+      "rank": 36,
+      "category": "社会负面"
     },
     {
       "raw_hot": 363292,
@@ -753,14 +809,6 @@
       "onboard_time": 1678688665,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 351445,
-      "num": 261043,
-      "word": "甲流感染期的食养建议",
-      "onboard_time": 1678700665,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 346891,
@@ -859,6 +907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 284290,
+      "num": 260381,
+      "word": "内向的原因找到了",
+      "onboard_time": 1678701145,
+      "rank": 28,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 280313,
       "num": 202461,
       "word": "华晨宇声生不息2上班路透",
@@ -883,6 +939,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 265287,
+      "num": 202930,
+      "word": "港星尹子维在内地做探店博主",
+      "onboard_time": 1678705766,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 264733,
       "num": 182346,
       "word": "李莎拉铅笔PTSD",
@@ -905,14 +969,6 @@
       "onboard_time": 1678671085,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 260381,
-      "num": 260381,
-      "word": "内向的原因找到了",
-      "onboard_time": 1678701145,
-      "rank": 28,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 260305,
@@ -961,6 +1017,14 @@
       "onboard_time": 1678687167,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 245275,
+      "num": 204304,
+      "word": "WBG战胜OMG",
+      "onboard_time": 1678705047,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 245074,
@@ -1179,20 +1243,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 191034,
+      "num": 191034,
+      "word": "江苏卫视三体",
+      "onboard_time": 1678705646,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 187716,
+      "num": 187716,
+      "word": "OMG状态",
+      "onboard_time": 1678705585,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 184196,
       "num": 164191,
       "word": "陆虎 扬州",
       "onboard_time": 1678623986,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 182901,
-      "num": 182901,
-      "word": "二级保护动物豹猫疑遭小孩殴打重伤",
-      "onboard_time": 1678703185,
-      "rank": 36,
-      "category": "社会负面"
     },
     {
       "raw_hot": 181479,
@@ -1403,6 +1475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136129,
+      "num": 136129,
+      "word": "light泽丽五杀",
+      "onboard_time": 1678704147,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 134261,
       "num": 261384,
       "word": "你为什么坚持在异乡打拼",
@@ -1465,6 +1545,14 @@
       "onboard_time": 1678663398,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 114567,
+      "num": 114567,
+      "word": "避开花朵也会花粉过敏",
+      "onboard_time": 1678704985,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 114343,

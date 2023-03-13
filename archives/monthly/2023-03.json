@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678703809970,
+  "endTime": 1678706134087,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -3539,6 +3539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 828520,
+      "num": 204059,
+      "word": "刘雯奥斯卡派对造型",
+      "onboard_time": 1678705285,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 826183,
       "num": 206434,
       "word": "边牧鱼仔",
@@ -3961,6 +3969,14 @@
       "onboard_time": 1678549586,
       "rank": 1,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 768414,
+      "num": 205693,
+      "word": "台军因蛋荒将改喝豆奶",
+      "onboard_time": 1678703845,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 767876,
@@ -5611,6 +5627,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 610755,
+      "num": 203622,
+      "word": "香港文旅局长祝贺杨紫琼",
+      "onboard_time": 1678705285,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 610345,
       "num": 478999,
       "word": "王一博读雷锋日记",
@@ -6929,6 +6953,14 @@
       "onboard_time": 1678107688,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 524296,
+      "num": 205152,
+      "word": "花琉璃轶闻定档",
+      "onboard_time": 1678704687,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 524261,
@@ -8707,6 +8739,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 430984,
+      "num": 203899,
+      "word": "毛晓彤王子异居家风剧照",
+      "onboard_time": 1678705887,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 430823,
       "num": 430823,
       "word": "星落凝成糖",
@@ -9827,6 +9867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 381185,
+      "num": 261043,
+      "word": "甲流感染期的食养建议",
+      "onboard_time": 1678700665,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 380682,
       "num": 265420,
       "word": "死亡万花筒故事概要",
@@ -10209,6 +10257,14 @@
       "onboard_time": 1678623508,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 366882,
+      "num": 203684,
+      "word": "二级保护动物豹猫疑遭小孩殴打重伤",
+      "onboard_time": 1678703185,
+      "rank": 36,
+      "category": "社会负面"
     },
     {
       "raw_hot": 366866,
@@ -10753,14 +10809,6 @@
       "onboard_time": 1677840211,
       "rank": 8,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 351445,
-      "num": 261043,
-      "word": "甲流感染期的食养建议",
-      "onboard_time": 1678700665,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 351138,
@@ -12827,6 +12875,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 284290,
+      "num": 260381,
+      "word": "内向的原因找到了",
+      "onboard_time": 1678701145,
+      "rank": 28,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 284231,
       "num": 284231,
       "word": "泰山景区回应多名游客深夜翻门进入",
@@ -13467,6 +13523,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 265287,
+      "num": 202930,
+      "word": "港星尹子维在内地做探店博主",
+      "onboard_time": 1678705766,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 265139,
       "num": 265139,
       "word": "于和伟说三体涨分像涨工资",
@@ -13665,14 +13729,6 @@
       "onboard_time": 1677817414,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 260381,
-      "num": 260381,
-      "word": "内向的原因找到了",
-      "onboard_time": 1678701145,
-      "rank": 28,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 260305,
@@ -14217,6 +14273,14 @@
       "onboard_time": 1677826647,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 245275,
+      "num": 204304,
+      "word": "WBG战胜OMG",
+      "onboard_time": 1678705047,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 245215,
@@ -18003,6 +18067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 191034,
+      "num": 191034,
+      "word": "江苏卫视三体",
+      "onboard_time": 1678705646,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 190998,
       "num": 190998,
       "word": "九尾KPL登场四周年",
@@ -18299,6 +18371,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 187716,
+      "num": 187716,
+      "word": "OMG状态",
+      "onboard_time": 1678705585,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 187651,
       "num": 187651,
       "word": "赵小棠宋妍霏生图路透",
@@ -18553,14 +18633,6 @@
       "onboard_time": 1677727349,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 182901,
-      "num": 182901,
-      "word": "二级保护动物豹猫疑遭小孩殴打重伤",
-      "onboard_time": 1678703185,
-      "rank": 36,
-      "category": "社会负面"
     },
     {
       "raw_hot": 182788,
@@ -21571,6 +21643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 136129,
+      "num": 136129,
+      "word": "light泽丽五杀",
+      "onboard_time": 1678704147,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 135929,
       "num": 135929,
       "word": "张杰说谢娜记不住银行卡密码",
@@ -22921,6 +23001,14 @@
       "onboard_time": 1678358127,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114567,
+      "num": 114567,
+      "word": "避开花朵也会花粉过敏",
+      "onboard_time": 1678704985,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 114360,
