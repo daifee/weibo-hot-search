@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678699168584,
+  "endTime": 1678700036425,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -2939,6 +2939,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 929795,
+      "num": 167805,
+      "word": "李强总理说自己是老网民",
+      "onboard_time": 1678696406,
+      "rank": 34,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 928046,
       "num": 843497,
       "word": "爱奇艺回应2月充会员只能用28天",
@@ -2977,14 +2985,6 @@
       "onboard_time": 1677766111,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 922971,
-      "num": 167805,
-      "word": "李强总理说自己是老网民",
-      "onboard_time": 1678696406,
-      "rank": 34,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 915478,
@@ -3651,6 +3651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 812101,
+      "num": 168373,
+      "word": "清华博士回应送外卖",
+      "onboard_time": 1678697667,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 807984,
       "num": 290225,
       "word": "废文",
@@ -3689,6 +3697,14 @@
       "onboard_time": 1677977545,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 798126,
+      "num": 229648,
+      "word": "金龟子问当年的小朋友过得还好吗",
+      "onboard_time": 1678695386,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 796274,
@@ -3929,14 +3945,6 @@
       "onboard_time": 1678412844,
       "rank": 3,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 770180,
-      "num": 229648,
-      "word": "金龟子问当年的小朋友过得还好吗",
-      "onboard_time": 1678695386,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 769116,
@@ -7211,6 +7219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 509964,
+      "num": 168000,
+      "word": "杨颖 微博之夜",
+      "onboard_time": 1678698865,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 509268,
       "num": 401376,
       "word": "苹果公司CEO库克降薪40%",
@@ -7753,14 +7769,6 @@
       "onboard_time": 1678499366,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 482490,
-      "num": 168373,
-      "word": "清华博士回应送外卖",
-      "onboard_time": 1678697667,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 482441,
@@ -9928,6 +9936,14 @@
       "word": "我国多地将超前体验4月的暖意",
       "onboard_time": 1678006646,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 375268,
+      "num": 150185,
+      "word": "22岁的丫丫约等于人类的80岁",
+      "onboard_time": 1678699226,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -13011,6 +13027,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 276362,
+      "num": 167865,
+      "word": "黑暗荣耀 细节",
+      "onboard_time": 1678698325,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 276240,
       "num": 276240,
       "word": "永远猜不到女生包里有什么",
@@ -13579,14 +13603,6 @@
       "category": "游戏,体育"
     },
     {
-      "raw_hot": 260887,
-      "num": 168000,
-      "word": "杨颖 微博之夜",
-      "onboard_time": 1678698865,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 260718,
       "num": 509714,
       "word": "TTG 上野",
@@ -13977,6 +13993,14 @@
       "onboard_time": 1678677987,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 249926,
+      "num": 149883,
+      "word": "黑暗荣耀与太阳的后裔名场面对比",
+      "onboard_time": 1678698506,
+      "rank": 40,
+      "category": "影视,幽默"
     },
     {
       "raw_hot": 249825,
@@ -15859,14 +15883,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 211659,
-      "num": 167865,
-      "word": "黑暗荣耀 细节",
-      "onboard_time": 1678698325,
-      "rank": 28,
-      "category": "影视"
-    },
-    {
       "raw_hot": 211444,
       "num": 211444,
       "word": "曼联创造双红会最大比分失利",
@@ -17169,6 +17185,14 @@
       "onboard_time": 1678453468,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 198536,
+      "num": 149809,
+      "word": "金钟仁新歌rover",
+      "onboard_time": 1678699706,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 198410,
@@ -20483,14 +20507,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 149351,
-      "num": 149351,
-      "word": "黑暗荣耀与太阳的后裔名场面对比",
-      "onboard_time": 1678698506,
-      "rank": 40,
-      "category": "影视,幽默"
-    },
-    {
       "raw_hot": 149340,
       "num": 217156,
       "word": "寒狰主动吻苏玖儿",
@@ -21640,6 +21656,14 @@
       "word": "DYG对阵KSG",
       "onboard_time": 1677753568,
       "rank": 36,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 133920,
+      "num": 133920,
+      "word": "WBG对战OMG",
+      "onboard_time": 1678698987,
+      "rank": 44,
       "category": "游戏"
     },
     {
@@ -23867,14 +23891,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 99433,
-      "num": 99433,
-      "word": "WBG对战OMG",
-      "onboard_time": 1678698987,
-      "rank": 44,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 99212,
       "num": 126792,
       "word": "春天有多美",
@@ -25651,20 +25667,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 28917,
+      "num": 213653,
+      "word": "新征程我们一起驶向春天",
+      "onboard_time": 1678696703,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28887,
       "num": 28887,
       "word": "宋祖儿和小朋友跳舞",
       "onboard_time": 1678050612,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 28329,
-      "num": 213653,
-      "word": "新征程我们一起驶向春天",
-      "onboard_time": 1678696703,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 27934,

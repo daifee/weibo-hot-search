@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1678699168584,
+  "endTime": 1678700036425,
   "band_list": [
     {
       "raw_hot": 6010597,
@@ -147,7 +147,7 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 922971,
+      "raw_hot": 929795,
       "num": 167805,
       "word": "李强总理说自己是老网民",
       "onboard_time": 1678696406,
@@ -203,6 +203,22 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 812101,
+      "num": 168373,
+      "word": "清华博士回应送外卖",
+      "onboard_time": 1678697667,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 798126,
+      "num": 229648,
+      "word": "金龟子问当年的小朋友过得还好吗",
+      "onboard_time": 1678695386,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 793330,
       "num": 435456,
       "word": "李强总理谈新一届政府的施政目标",
@@ -217,14 +233,6 @@
       "onboard_time": 1678663339,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 770180,
-      "num": 229648,
-      "word": "金龟子问当年的小朋友过得还好吗",
-      "onboard_time": 1678695386,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 766936,
@@ -387,6 +395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 509964,
+      "num": 168000,
+      "word": "杨颖 微博之夜",
+      "onboard_time": 1678698865,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 509268,
       "num": 401376,
       "word": "苹果公司CEO库克降薪40%",
@@ -464,14 +480,6 @@
       "word": "新疆多个休眠火山口积水如彩色画盘",
       "onboard_time": 1678666646,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 482490,
-      "num": 168373,
-      "word": "清华博士回应送外卖",
-      "onboard_time": 1678697667,
-      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -667,6 +675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 375268,
+      "num": 150185,
+      "word": "22岁的丫丫约等于人类的80岁",
+      "onboard_time": 1678699226,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 363292,
       "num": 400636,
       "word": "长辈给狗狗洗脸的方式",
@@ -811,6 +827,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 276362,
+      "num": 167865,
+      "word": "黑暗荣耀 细节",
+      "onboard_time": 1678698325,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 266219,
       "num": 180754,
       "word": "用湖南卫视打开黑暗荣耀",
@@ -843,14 +867,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 260887,
-      "num": 168000,
-      "word": "杨颖 微博之夜",
-      "onboard_time": 1678698865,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 260305,
       "num": 199058,
       "word": "王楚钦晋级",
@@ -881,6 +897,14 @@
       "onboard_time": 1678677987,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 249926,
+      "num": 149883,
+      "word": "黑暗荣耀与太阳的后裔名场面对比",
+      "onboard_time": 1678698506,
+      "rank": 40,
+      "category": "影视,幽默"
     },
     {
       "raw_hot": 246692,
@@ -1043,14 +1067,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 211659,
-      "num": 167865,
-      "word": "黑暗荣耀 细节",
-      "onboard_time": 1678698325,
-      "rank": 28,
-      "category": "影视"
-    },
-    {
       "raw_hot": 207943,
       "num": 167700,
       "word": "不要让任何人去定义你年华已逝",
@@ -1081,6 +1097,14 @@
       "onboard_time": 1678634128,
       "rank": 8,
       "category": "影视,音乐"
+    },
+    {
+      "raw_hot": 198536,
+      "num": 149809,
+      "word": "金钟仁新歌rover",
+      "onboard_time": 1678699706,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 197506,
@@ -1211,14 +1235,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 149351,
-      "num": 149351,
-      "word": "黑暗荣耀与太阳的后裔名场面对比",
-      "onboard_time": 1678698506,
-      "rank": 40,
-      "category": "影视,幽默"
-    },
-    {
       "raw_hot": 148262,
       "num": 369846,
       "word": "为中国航天点赞",
@@ -1297,6 +1313,14 @@
       "onboard_time": 1678670366,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 133920,
+      "num": 133920,
+      "word": "WBG对战OMG",
+      "onboard_time": 1678698987,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 132205,
@@ -1441,14 +1465,6 @@
       "onboard_time": 1678632929,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 99433,
-      "num": 99433,
-      "word": "WBG对战OMG",
-      "onboard_time": 1678698987,
-      "rank": 44,
-      "category": "游戏"
     },
     {
       "raw_hot": 98615,
@@ -1683,7 +1699,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 28329,
+      "raw_hot": 28917,
       "num": 213653,
       "word": "新征程我们一起驶向春天",
       "onboard_time": 1678696703,
