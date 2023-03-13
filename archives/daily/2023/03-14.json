@@ -1,6 +1,6 @@
 {
   "startTime": 1678724793394,
-  "endTime": 1678736018990,
+  "endTime": 1678738816334,
   "band_list": [
     {
       "raw_hot": 700022,
@@ -251,6 +251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 113628,
+      "num": 113628,
+      "word": "分娩之痛并非天经地义",
+      "onboard_time": 1678734671,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 113230,
       "num": 67840,
       "word": "董明珠说员工被培养多年理应不去同业",
@@ -305,14 +313,6 @@
       "onboard_time": 1678725558,
       "rank": 37,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 77197,
-      "num": 107321,
-      "word": "分娩之痛并非天经地义",
-      "onboard_time": 1678734671,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 74851,
