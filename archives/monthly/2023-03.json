@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678725850220,
+  "endTime": 1678727839695,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -9723,6 +9723,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 394028,
+      "num": 67215,
+      "word": "美国网红称华人商店该被抢",
+      "onboard_time": 1678722982,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 393296,
       "num": 393296,
       "word": "小学办公室的主要用途",
@@ -13240,14 +13248,6 @@
       "word": "甲流易感染人群如何防护",
       "onboard_time": 1677635069,
       "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 281510,
-      "num": 67215,
-      "word": "美国网红称华人商店该被抢",
-      "onboard_time": 1678722982,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -24571,6 +24571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 97369,
+      "num": 39988,
+      "word": "徐正溪新剧造型",
+      "onboard_time": 1678725679,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 97251,
       "num": 452301,
       "word": "7个关键字看政府工作报告",
@@ -24969,14 +24977,6 @@
       "onboard_time": 1678667547,
       "rank": 48,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 88086,
-      "num": 39988,
-      "word": "徐正溪新剧造型",
-      "onboard_time": 1678725679,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 87831,
@@ -25803,6 +25803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 55707,
+      "num": 28198,
+      "word": "瞬息全宇宙奥斯卡最佳影片",
+      "onboard_time": 1678726997,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 54821,
       "num": 126650,
       "word": "忍不住想买的早春单品",
@@ -26387,6 +26395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 13692,
+      "num": 59526,
+      "word": "代表委员说检察",
+      "onboard_time": 1678725500,
+      "rank": 8,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 12119,
       "num": 12119,
       "word": "2023的她们",
@@ -26403,12 +26419,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 9542,
-      "num": 59526,
-      "word": "代表委员说检察",
-      "onboard_time": 1678725500,
-      "rank": 8,
-      "category": "国内要闻"
+      "raw_hot": 6267,
+      "num": 42437,
+      "word": "文俊辉翻唱CROOKED",
+      "onboard_time": 1678727716,
+      "rank": 9,
+      "category": "音乐"
     }
   ],
   "hotgov_list": [
