@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1678720749764,
+  "endTime": 1678721666049,
   "band_list": [
     {
       "raw_hot": 6010597,
@@ -225,6 +225,14 @@
       "onboard_time": 1678697667,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 861661,
+      "num": 88340,
+      "word": "爱奇艺考虑拍狂飙电影版",
+      "onboard_time": 1678720106,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 858606,
@@ -492,7 +500,7 @@
     },
     {
       "raw_hot": 608014,
-      "num": 75654,
+      "num": 88188,
       "word": "肖战登日本moviestar封面",
       "onboard_time": 1678719507,
       "rank": 23,
@@ -683,14 +691,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 495777,
-      "num": 75690,
-      "word": "爱奇艺考虑拍狂飙电影版",
-      "onboard_time": 1678720106,
-      "rank": 15,
-      "category": "影视"
-    },
-    {
       "raw_hot": 495331,
       "num": 495331,
       "word": "从现在起全党全国人民的中心任务",
@@ -745,6 +745,14 @@
       "onboard_time": 1678692391,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 456416,
+      "num": 88152,
+      "word": "周杰伦演唱会",
+      "onboard_time": 1678719568,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 453454,
@@ -884,7 +892,7 @@
     },
     {
       "raw_hot": 416068,
-      "num": 75681,
+      "num": 88242,
       "word": "美国银行",
       "onboard_time": 1678719088,
       "rank": 17,
@@ -913,14 +921,6 @@
       "onboard_time": 1678698025,
       "rank": 22,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 406397,
-      "num": 75640,
-      "word": "周杰伦演唱会",
-      "onboard_time": 1678719568,
-      "rank": 26,
-      "category": "音乐"
     },
     {
       "raw_hot": 389810,
@@ -1163,6 +1163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 300783,
+      "num": 88121,
+      "word": "杨紫琼 奥斯卡第一位亚洲影后",
+      "onboard_time": 1678720347,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 292540,
       "num": 1112734,
       "word": "妈妈用废纸壳为女儿搭出童话世界",
@@ -1196,7 +1204,7 @@
     },
     {
       "raw_hot": 279086,
-      "num": 75620,
+      "num": 88032,
       "word": "昏嫁将影视化",
       "onboard_time": 1678718309,
       "rank": 30,
@@ -1217,6 +1225,14 @@
       "onboard_time": 1678714527,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 271035,
+      "num": 88111,
+      "word": "蓝柚 AG",
+      "onboard_time": 1678719928,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 266219,
@@ -1260,7 +1276,7 @@
     },
     {
       "raw_hot": 259243,
-      "num": 75616,
+      "num": 88101,
       "word": "孙怡演技状态",
       "onboard_time": 1678718188,
       "rank": 31,
@@ -1288,14 +1304,6 @@
       "word": "谭松韵新剧妆造",
       "onboard_time": 1678677987,
       "rank": 41,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 247072,
-      "num": 75608,
-      "word": "杨紫琼 奥斯卡第一位亚洲影后",
-      "onboard_time": 1678720347,
-      "rank": 33,
       "category": "影视"
     },
     {
@@ -1444,7 +1452,7 @@
     },
     {
       "raw_hot": 222858,
-      "num": 75597,
+      "num": 88043,
       "word": "红海行动2今年开拍",
       "onboard_time": 1678719150,
       "rank": 35,
@@ -1465,14 +1473,6 @@
       "onboard_time": 1678672345,
       "rank": 36,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 217803,
-      "num": 75595,
-      "word": "蓝柚 AG",
-      "onboard_time": 1678719928,
-      "rank": 36,
-      "category": "游戏"
     },
     {
       "raw_hot": 216909,
@@ -1497,6 +1497,14 @@
       "onboard_time": 1678691244,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 206950,
+      "num": 88013,
+      "word": "瞬息全宇宙",
+      "onboard_time": 1678720648,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 206145,
@@ -1577,14 +1585,6 @@
       "onboard_time": 1678705585,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 184948,
-      "num": 75585,
-      "word": "瞬息全宇宙",
-      "onboard_time": 1678720648,
-      "rank": 38,
-      "category": "影视"
     },
     {
       "raw_hot": 184259,
@@ -1841,6 +1841,14 @@
       "onboard_time": 1678621348,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130781,
+      "num": 87896,
+      "word": "周雨彤官宣加盟毛雪汪",
+      "onboard_time": 1678721426,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 129653,
