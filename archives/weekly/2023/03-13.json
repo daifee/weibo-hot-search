@@ -1,21 +1,45 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1678671378273,
+  "endTime": 1678672479849,
   "band_list": [
     {
       "raw_hot": 1793295,
-      "num": 596977,
+      "num": 1094046,
       "word": "2023奥斯卡获奖名单",
       "onboard_time": 1678668568,
       "rank": 10,
       "category": "影视"
     },
     {
-      "raw_hot": 1130829,
+      "raw_hot": 1140599,
+      "num": 1090441,
+      "word": "瞬息全宇宙 横扫",
+      "onboard_time": 1678670485,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1135758,
       "num": 413077,
       "word": "洪金宝获终身成就奖哽咽了",
       "onboard_time": 1678665867,
       "rank": 20,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1125962,
+      "num": 1125962,
+      "word": "表决通过了关于修改立法法的决定",
+      "onboard_time": 1678670725,
+      "rank": 0,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 1087254,
+      "num": 1087254,
+      "word": "奥斯卡直播",
+      "onboard_time": 1678668808,
+      "rank": 12,
       "category": "影视"
     },
     {
@@ -27,51 +51,27 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 1069053,
-      "num": 590427,
-      "word": "瞬息全宇宙 横扫",
-      "onboard_time": 1678670485,
-      "rank": 11,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 1056808,
-      "num": 589917,
-      "word": "奥斯卡直播",
-      "onboard_time": 1678668808,
-      "rank": 12,
-      "category": "影视"
-    },
-    {
       "raw_hot": 958427,
-      "num": 583977,
+      "num": 853608,
       "word": "花花流眼泪",
       "onboard_time": 1678663099,
       "rank": 16,
       "category": "情感"
     },
     {
-      "raw_hot": 828976,
-      "num": 623661,
-      "word": "建议将中小学生睡眠质量纳入考核",
-      "onboard_time": 1678665444,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 635283,
-      "num": 635283,
-      "word": "表决通过了关于修改立法法的决定",
-      "onboard_time": 1678670725,
-      "rank": 0,
-      "category": "国内要闻"
-    },
-    {
-      "raw_hot": 618668,
+      "raw_hot": 907292,
       "num": 404156,
       "word": "村集体不给出嫁女福利被判补发",
       "onboard_time": 1678670185,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 828976,
+      "num": 1117694,
+      "word": "建议将中小学生睡眠质量纳入考核",
+      "onboard_time": 1678665444,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -99,6 +99,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 550780,
+      "num": 550780,
+      "word": "奥斯卡红毯",
+      "onboard_time": 1678663339,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 542875,
       "num": 542875,
       "word": "白桃星座",
@@ -107,20 +115,20 @@
       "category": "情感,网红"
     },
     {
-      "raw_hot": 540265,
-      "num": 540265,
-      "word": "奥斯卡红毯",
-      "onboard_time": 1678663339,
-      "rank": 14,
-      "category": "影视"
-    },
-    {
       "raw_hot": 537776,
       "num": 177265,
       "word": "浙江人1年花18亿买香奈儿",
       "onboard_time": 1678620147,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 536539,
+      "num": 275348,
+      "word": "腾讯T13技术大佬黄希彤被曝遭裁员",
+      "onboard_time": 1678671085,
+      "rank": 43,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 496241,
@@ -137,6 +145,14 @@
       "onboard_time": 1678666646,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 440424,
+      "num": 440424,
+      "word": "阿迪达斯中国区业绩连续7季度下滑",
+      "onboard_time": 1678669946,
+      "rank": 23,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 439112,
@@ -179,12 +195,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 365058,
-      "num": 365058,
-      "word": "阿迪达斯中国区业绩连续7季度下滑",
-      "onboard_time": 1678669946,
-      "rank": 23,
-      "category": "财经,社会新闻"
+      "raw_hot": 362613,
+      "num": 362613,
+      "word": "EXO将4月回归",
+      "onboard_time": 1678671924,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 346891,
@@ -227,8 +243,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 298629,
+      "num": 298629,
+      "word": "华为P60发布时间官宣",
+      "onboard_time": 1678671385,
+      "rank": 25,
+      "category": "科技"
+    },
+    {
       "raw_hot": 292540,
-      "num": 619153,
+      "num": 1112734,
       "word": "妈妈用废纸壳为女儿搭出童话世界",
       "onboard_time": 1678652111,
       "rank": 41,
@@ -243,6 +267,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 261394,
+      "num": 261394,
+      "word": "小美人鱼正式预告",
+      "onboard_time": 1678671085,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 258492,
       "num": 258492,
       "word": "宋慧乔演技破碎感",
@@ -252,7 +284,7 @@
     },
     {
       "raw_hot": 240731,
-      "num": 632860,
+      "num": 1125957,
       "word": "十四届全国人大一次会议闭幕会",
       "onboard_time": 1678664965,
       "rank": 1,
@@ -339,12 +371,12 @@
       "category": "影视,音乐"
     },
     {
-      "raw_hot": 194796,
-      "num": 194796,
-      "word": "小美人鱼正式预告",
-      "onboard_time": 1678671085,
-      "rank": 32,
-      "category": "影视"
+      "raw_hot": 192696,
+      "num": 192696,
+      "word": "人民的信任是我前进的最大动力",
+      "onboard_time": 1678672345,
+      "rank": 36,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 191367,
@@ -396,10 +428,18 @@
     },
     {
       "raw_hot": 172039,
-      "num": 618085,
+      "num": 1109245,
       "word": "3岁跆拳道宝宝展示超萌空翻",
       "onboard_time": 1678665324,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167950,
+      "num": 193322,
+      "word": "大学生把汉宫春晓图106人物演活了",
+      "onboard_time": 1678671565,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -409,6 +449,14 @@
       "onboard_time": 1678625847,
       "rank": 22,
       "category": "影视,艺人"
+    },
+    {
+      "raw_hot": 157866,
+      "num": 157866,
+      "word": "从现在起全党全国人民的中心任务",
+      "onboard_time": 1678672466,
+      "rank": 37,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 153291,
@@ -428,7 +476,7 @@
     },
     {
       "raw_hot": 151396,
-      "num": 614464,
+      "num": 1106863,
       "word": "要着力解决自媒体内容失真问题",
       "onboard_time": 1678663099,
       "rank": 6,
@@ -459,8 +507,16 @@
       "category": "影视"
     },
     {
+      "raw_hot": 139907,
+      "num": 139907,
+      "word": "娜扎保你平安观后感",
+      "onboard_time": 1678671565,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 132205,
-      "num": 609697,
+      "num": 1102250,
       "word": "我国每年废弃手机约4亿部",
       "onboard_time": 1678621348,
       "rank": 38,
@@ -483,12 +539,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 123287,
-      "num": 123287,
-      "word": "腾讯T13技术大佬黄希彤被曝遭裁员",
-      "onboard_time": 1678671085,
-      "rank": 43,
-      "category": "科技,社会新闻"
+      "raw_hot": 118832,
+      "num": 118832,
+      "word": "教学楼上的鲜花瀑布",
+      "onboard_time": 1678671505,
+      "rank": 44,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 118073,
@@ -564,7 +620,7 @@
     },
     {
       "raw_hot": 98615,
-      "num": 602537,
+      "num": 1100578,
       "word": "人大代表说科技创新要带着农民赚",
       "onboard_time": 1678646232,
       "rank": 0,
@@ -577,6 +633,14 @@
       "onboard_time": 1678629507,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 93546,
+      "num": 93546,
+      "word": "中国人民成为自己命运的主人",
+      "onboard_time": 1678672466,
+      "rank": 49,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 92540,
@@ -707,8 +771,16 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 58078,
+      "num": 1094827,
+      "word": "全国两会时光",
+      "onboard_time": 1678664663,
+      "rank": 9,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 57864,
-      "num": 629989,
+      "num": 1120424,
       "word": "这就是春天里的中国",
       "onboard_time": 1678628848,
       "rank": 2,
@@ -729,14 +801,6 @@
       "onboard_time": 1678621407,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 53177,
-      "num": 599121,
-      "word": "全国两会时光",
-      "onboard_time": 1678664663,
-      "rank": 9,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 47169,
