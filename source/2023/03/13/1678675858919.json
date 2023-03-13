@@ -1,0 +1,410 @@
+{
+  "runTime": 1678675858919,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 722473,
+        "num": 722473,
+        "word": "中国人民成为自己命运的主人",
+        "onboard_time": 1678672466,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 588934,
+        "num": 588934,
+        "word": "表决通过了关于修改立法法的决定",
+        "onboard_time": 1678670725,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 36170,
+        "num": 499274,
+        "word": "这就是春天里的中国",
+        "onboard_time": 1678628848,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 613486,
+        "num": 499149,
+        "word": "李强答中外记者问",
+        "onboard_time": 1678674745,
+        "rank": 3,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 498659,
+        "num": 498659,
+        "word": "直播总理记者会",
+        "onboard_time": 1678674326,
+        "rank": 4,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 439332,
+        "num": 439332,
+        "word": "从现在起全党全国人民的中心任务",
+        "onboard_time": 1678672466,
+        "rank": 5,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 189492,
+        "num": 438307,
+        "word": "人民的信任是我前进的最大动力",
+        "onboard_time": 1678672345,
+        "rank": 6,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 137318,
+        "num": 433340,
+        "word": "十四届全国人大一次会议闭幕会",
+        "onboard_time": 1678664965,
+        "rank": 7,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 103729,
+        "num": 428579,
+        "word": "人大会议闭幕会全体唱国歌",
+        "onboard_time": 1678673367,
+        "rank": 8,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 101438,
+        "num": 426352,
+        "word": "要着力解决自媒体内容失真问题",
+        "onboard_time": 1678663099,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1906017,
+        "num": 422118,
+        "word": "妍珍 疯驴子",
+        "onboard_time": 1678674388,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 419812,
+        "num": 419812,
+        "word": "全员加速中3开录了",
+        "onboard_time": 1678663646,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 336897,
+        "num": 336897,
+        "word": "华为P60发布时间官宣",
+        "onboard_time": 1678671385,
+        "rank": 12,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 271241,
+        "num": 271241,
+        "word": "白桃星座",
+        "onboard_time": 1678667247,
+        "rank": 13,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 257962,
+        "num": 257962,
+        "word": "文东恩在监狱当老师",
+        "onboard_time": 1678663821,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 257137,
+        "num": 257137,
+        "word": "男子爬山偶遇赤狐对视引路",
+        "onboard_time": 1678669167,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255027,
+        "num": 255027,
+        "word": "黑暗荣耀 复仇者联盟",
+        "onboard_time": 1678674027,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 227304,
+        "num": 227304,
+        "word": "大学生把汉宫春晓图106人物演活了",
+        "onboard_time": 1678671565,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211404,
+        "num": 211404,
+        "word": "游客饮料不慎掉落被大熊猫捡来喝",
+        "onboard_time": 1678627827,
+        "rank": 18,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 194399,
+        "num": 194399,
+        "word": "小美人鱼正式预告",
+        "onboard_time": 1678671085,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1380291,
+        "num": 194365,
+        "word": "2023奥斯卡获奖名单",
+        "onboard_time": 1678668568,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 910344,
+        "num": 193791,
+        "word": "村集体不给出嫁女福利被判补发",
+        "onboard_time": 1678670185,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 858606,
+        "num": 193631,
+        "word": "宋佳王阳演夫妻",
+        "onboard_time": 1678674206,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 726560,
+        "num": 193357,
+        "word": "洪金宝获终身成就奖哽咽了",
+        "onboard_time": 1678665867,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 707017,
+        "num": 192817,
+        "word": "奥斯卡直播",
+        "onboard_time": 1678668808,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 406194,
+        "num": 192528,
+        "word": "老人7万养老钱埋树下找不着报警",
+        "onboard_time": 1678673666,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315437,
+        "num": 192316,
+        "word": "王皓史策午夜出租车海报",
+        "onboard_time": 1678673606,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 192072,
+        "num": 192072,
+        "word": "花花是如何成为顶流的",
+        "onboard_time": 1678663760,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309376,
+        "num": 190335,
+        "word": "EXO将4月回归",
+        "onboard_time": 1678671924,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192152,
+        "num": 187085,
+        "word": "西直门三太子萌兰",
+        "onboard_time": 1678665685,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 652842,
+        "num": 180637,
+        "word": "瞬息全宇宙 横扫",
+        "onboard_time": 1678670485,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 649610,
+        "num": 177343,
+        "word": "腾讯T13技术大佬黄希彤被曝遭裁员",
+        "onboard_time": 1678671085,
+        "rank": 31,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 351557,
+        "num": 173108,
+        "word": "阿迪达斯中国区业绩连续7季度下滑",
+        "onboard_time": 1678669946,
+        "rank": 32,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 172070,
+        "num": 172070,
+        "word": "张俪李泽锋吻戏",
+        "onboard_time": 1678675769,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171228,
+        "num": 171228,
+        "word": "金智秀solo个人预告",
+        "onboard_time": 1678664182,
+        "rank": 34,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 146593,
+        "num": 146593,
+        "word": "新疆多个休眠火山口积水如彩色画盘",
+        "onboard_time": 1678666646,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142568,
+        "num": 142568,
+        "word": "教学楼上的鲜花瀑布",
+        "onboard_time": 1678671505,
+        "rank": 36,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 135517,
+        "num": 135517,
+        "word": "宋慧乔演技破碎感",
+        "onboard_time": 1678667127,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 120775,
+        "num": 120775,
+        "word": "美军战略轰炸机模拟打击圣彼得堡",
+        "onboard_time": 1678675407,
+        "rank": 38,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 115898,
+        "num": 115898,
+        "word": "尼克斯vs湖人",
+        "onboard_time": 1678670366,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104758,
+        "num": 104758,
+        "word": "偶遇8只好奇心极强的傻狍子",
+        "onboard_time": 1678664182,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104631,
+        "num": 104631,
+        "word": "白色月牙暂别赛场",
+        "onboard_time": 1678635985,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 104488,
+        "num": 104488,
+        "word": "美联储就硅谷银行事件出手干预",
+        "onboard_time": 1678665805,
+        "rank": 42,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 102080,
+        "num": 102080,
+        "word": "拉塞尔半场23分",
+        "onboard_time": 1678675527,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101477,
+        "num": 101477,
+        "word": "多家公司紧急回应硅谷银行危机",
+        "onboard_time": 1678675225,
+        "rank": 44,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 89910,
+        "num": 89910,
+        "word": "10后小学生双语讲解千里江山图",
+        "onboard_time": 1678674206,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86079,
+        "num": 86079,
+        "word": "汤唯亚洲电影大奖最佳女主角",
+        "onboard_time": 1678631909,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 83143,
+        "num": 83143,
+        "word": "兄弟瞒着外嫁姐姐办理父母遗产继承",
+        "onboard_time": 1678624348,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79163,
+        "num": 79163,
+        "word": "直观感受到了山东航空的硬核",
+        "onboard_time": 1678675705,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 76137,
+        "num": 76137,
+        "word": "妈妈用废纸壳为女儿搭出童话世界",
+        "onboard_time": 1678652111,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#国家主席习近平发表重要讲话#"
+    }
+  }
+}
