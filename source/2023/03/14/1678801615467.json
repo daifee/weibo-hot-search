@@ -1,0 +1,410 @@
+{
+  "runTime": 1678801615467,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6995165,
+        "num": 6995165,
+        "word": "国考成绩",
+        "onboard_time": 1678800991,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1789506,
+        "num": 1789506,
+        "word": "去冰 少冰",
+        "onboard_time": 1678798591,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 10963,
+        "num": 1771491,
+        "word": "这就是春天里的中国",
+        "onboard_time": 1678628848,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2866754,
+        "num": 1770444,
+        "word": "女演员实名举报五星级酒店",
+        "onboard_time": 1678795046,
+        "rank": 3,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1761486,
+        "num": 1761486,
+        "word": "井柏然 八个字我决定接下这部戏",
+        "onboard_time": 1678800452,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1618978,
+        "num": 1618978,
+        "word": "吴磊赵露思 微博之夜",
+        "onboard_time": 1678798949,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1546003,
+        "num": 1546003,
+        "word": "瑞幸咖啡被吐槽去冰后剩半杯",
+        "onboard_time": 1678795769,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1402266,
+        "num": 1402266,
+        "word": "国考",
+        "onboard_time": 1678760005,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 634892,
+        "num": 634892,
+        "word": "刘亚仁吸毒证据超10000张",
+        "onboard_time": 1678785510,
+        "rank": 8,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 537673,
+        "num": 537673,
+        "word": "他是谁家暴男被妻子反杀",
+        "onboard_time": 1678797630,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 516418,
+        "num": 516418,
+        "word": "BLACKPINK科切拉排练照",
+        "onboard_time": 1678798350,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 495269,
+        "num": 495269,
+        "word": "省考",
+        "onboard_time": 1678801114,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 490068,
+        "num": 490068,
+        "word": "微博年度热度人物",
+        "onboard_time": 1678799491,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 445479,
+        "num": 445479,
+        "word": "张本智和",
+        "onboard_time": 1678797991,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 426363,
+        "num": 426363,
+        "word": "动物园棕熊听懂人话被质疑是人假扮",
+        "onboard_time": 1678796070,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 399462,
+        "num": 399462,
+        "word": "腰部终于不再酸疼了",
+        "onboard_time": 1678797150,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 368122,
+        "num": 368122,
+        "word": "他是谁",
+        "onboard_time": 1678789950,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 348597,
+        "num": 348597,
+        "word": "一镜到底有多暴露演技",
+        "onboard_time": 1678800694,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 341850,
+        "num": 341850,
+        "word": "黑暗荣耀里的蛇是真蛇",
+        "onboard_time": 1678783528,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 292309,
+        "num": 292309,
+        "word": "宁艺卓右眼几乎看不到",
+        "onboard_time": 1678776508,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 829850,
+        "num": 290734,
+        "word": "杭州一套凶宅低于市场价73万成交",
+        "onboard_time": 1678787130,
+        "rank": 20,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 342254,
+        "num": 289168,
+        "word": "卫国平下水道里摸尸块",
+        "onboard_time": 1678790249,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 287345,
+        "num": 287345,
+        "word": "曝梅西父亲向沙特球队开价6亿欧",
+        "onboard_time": 1678793490,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 284654,
+        "num": 284654,
+        "word": "全国高中C9联盟成立",
+        "onboard_time": 1678790310,
+        "rank": 23,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 280094,
+        "num": 280094,
+        "word": "归路",
+        "onboard_time": 1678785569,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 270238,
+        "num": 270238,
+        "word": "马国明 没有放假",
+        "onboard_time": 1678799192,
+        "rank": 25,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 253965,
+        "num": 253965,
+        "word": "无名是北电开学的第一课",
+        "onboard_time": 1678790850,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 253760,
+        "num": 253760,
+        "word": "河道英全在俊演过霜花店",
+        "onboard_time": 1678793188,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 243918,
+        "num": 243918,
+        "word": "什么都馋只会害了你",
+        "onboard_time": 1678799849,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 150878,
+        "num": 236696,
+        "word": "甲流与新冠有可能叠加感染吗",
+        "onboard_time": 1678777349,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248735,
+        "num": 236268,
+        "word": "黑暗荣耀里最文明的人",
+        "onboard_time": 1678800212,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 235293,
+        "num": 235293,
+        "word": "光渊",
+        "onboard_time": 1678793608,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 222674,
+        "num": 222674,
+        "word": "微博之夜",
+        "onboard_time": 1678788510,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208553,
+        "num": 208553,
+        "word": "成龙张学友张家辉梁朝伟刘德华合照",
+        "onboard_time": 1678795589,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 201003,
+        "num": 201003,
+        "word": "315",
+        "onboard_time": 1678801351,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188059,
+        "num": 188059,
+        "word": "胡歌包场支持敦煌女儿",
+        "onboard_time": 1678790850,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 186240,
+        "num": 186240,
+        "word": "华晨宇晒台湾音乐磁带合集",
+        "onboard_time": 1678798893,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 180186,
+        "num": 180186,
+        "word": "陈粒抄歌词练字",
+        "onboard_time": 1678793848,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168359,
+        "num": 168359,
+        "word": "可能有童年创伤的三个迹象",
+        "onboard_time": 1678790550,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 144395,
+        "num": 144395,
+        "word": "CPI",
+        "onboard_time": 1678798290,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 170796,
+        "num": 143307,
+        "word": "杨紫张晚意邓为长相思路透",
+        "onboard_time": 1678793129,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 160911,
+        "num": 142946,
+        "word": "半熟恋人2第六期满地是雷",
+        "onboard_time": 1678789589,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155326,
+        "num": 141908,
+        "word": "声生不息宝岛季首发阵容",
+        "onboard_time": 1678786349,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140512,
+        "num": 140512,
+        "word": "张俪看自己被公主抱看了10遍",
+        "onboard_time": 1678788630,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 138136,
+        "num": 138136,
+        "word": "卫国平的腰",
+        "onboard_time": 1678796130,
+        "rank": 44,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 137259,
+        "num": 137259,
+        "word": "C罗社媒账号粉丝数达5.6亿",
+        "onboard_time": 1678794207,
+        "rank": 45,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 135674,
+        "num": 135674,
+        "word": "政协委员称追求编制未必是最好选择",
+        "onboard_time": 1678790069,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132622,
+        "num": 132622,
+        "word": "熊猫是懂松弛感的",
+        "onboard_time": 1678796009,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 114507,
+        "num": 132619,
+        "word": "中方明起扩大公民出境团队游国家范围",
+        "onboard_time": 1678801415,
+        "rank": 48,
+        "category": "国内要闻,旅游"
+      },
+      {
+        "raw_hot": 109989,
+        "num": 132617,
+        "word": "福岛核污染水含60多种放射性核素",
+        "onboard_time": 1678789290,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#踔厉奋发新征程勇毅前行向复兴#"
+    }
+  }
+}
