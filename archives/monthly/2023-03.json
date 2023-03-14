@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678829643410,
+  "endTime": 1678832270886,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -27913,6 +27913,14 @@
       "onboard_time": 1677680911,
       "rank": 47,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 41127,
+      "num": 41127,
+      "word": "空气污染研究表明全球几无安全之地",
+      "onboard_time": 1678829831,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 40006,

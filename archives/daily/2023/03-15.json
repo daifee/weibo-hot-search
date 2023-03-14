@@ -1,6 +1,6 @@
 {
   "startTime": 1678811567881,
-  "endTime": 1678829643410,
+  "endTime": 1678832270886,
   "band_list": [
     {
       "raw_hot": 2252522,
@@ -435,7 +435,15 @@
       "category": "影视"
     },
     {
-      "raw_hot": 23113,
+      "raw_hot": 41127,
+      "num": 41127,
+      "word": "空气污染研究表明全球几无安全之地",
+      "onboard_time": 1678829831,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24006,
       "num": 29093,
       "word": "申论",
       "onboard_time": 1678805192,
