@@ -1,6 +1,6 @@
 {
   "startTime": 1678724793394,
-  "endTime": 1678756728223,
+  "endTime": 1678758162161,
   "band_list": [
     {
       "raw_hot": 1726486,
@@ -12,11 +12,27 @@
     },
     {
       "raw_hot": 883265,
-      "num": 542218,
+      "num": 682165,
       "word": "美国一城市为霉霉巡演更名",
       "onboard_time": 1678750221,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 859737,
+      "num": 682818,
+      "word": "大连理工出版社回应图片选取不当",
+      "onboard_time": 1678756645,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 716756,
+      "num": 682410,
+      "word": "iPhone15若限充电速度或违反欧盟法律",
+      "onboard_time": 1678754607,
+      "rank": 5,
+      "category": "科技"
     },
     {
       "raw_hot": 700022,
@@ -25,14 +41,6 @@
       "onboard_time": 1678720106,
       "rank": 10,
       "category": "影视"
-    },
-    {
-      "raw_hot": 672092,
-      "num": 524432,
-      "word": "iPhone15若限充电速度或违反欧盟法律",
-      "onboard_time": 1678754607,
-      "rank": 5,
-      "category": "科技"
     },
     {
       "raw_hot": 668814,
@@ -44,27 +52,27 @@
     },
     {
       "raw_hot": 653162,
-      "num": 485714,
+      "num": 513031,
       "word": "每个人的生日都能在圆周率中找到",
       "onboard_time": 1678749678,
       "rank": 12,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 622844,
-      "num": 372899,
-      "word": "曾经穷游的泰国贵到去不起了",
-      "onboard_time": 1678707684,
-      "rank": 11,
-      "category": "旅游"
-    },
-    {
-      "raw_hot": 567267,
-      "num": 350395,
+      "raw_hot": 629064,
+      "num": 629064,
       "word": "李梦宣布加盟华盛顿神秘人",
       "onboard_time": 1678755626,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 622844,
+      "num": 386711,
+      "word": "曾经穷游的泰国贵到去不起了",
+      "onboard_time": 1678707684,
+      "rank": 11,
+      "category": "旅游"
     },
     {
       "raw_hot": 554645,
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 554295,
-      "num": 339975,
+      "num": 385956,
       "word": "硅谷银行开门储户大排长龙取款",
       "onboard_time": 1678753708,
       "rank": 12,
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 509106,
-      "num": 226737,
+      "num": 229499,
       "word": "潘玮柏的嫌弃不像是演的",
       "onboard_time": 1678713630,
       "rank": 21,
@@ -100,7 +108,7 @@
     },
     {
       "raw_hot": 499516,
-      "num": 222438,
+      "num": 225291,
       "word": "杨紫琼从history到herstory",
       "onboard_time": 1678723044,
       "rank": 20,
@@ -132,11 +140,19 @@
     },
     {
       "raw_hot": 357473,
-      "num": 224875,
+      "num": 226517,
       "word": "女子自学医美给他人手术致8级伤残",
       "onboard_time": 1678716207,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 349018,
+      "num": 683573,
+      "word": "人民日报社论",
+      "onboard_time": 1678755326,
+      "rank": 17,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 325492,
@@ -147,11 +163,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 324755,
+      "num": 324755,
+      "word": "感染甲流后哪种情况需就医",
+      "onboard_time": 1678757067,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 317532,
       "num": 299255,
       "word": "美国两家银行接连关闭",
       "onboard_time": 1678753826,
       "rank": 15,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 313069,
+      "num": 313069,
+      "word": "硅谷银行破产最惨踩雷机构",
+      "onboard_time": 1678756886,
+      "rank": 14,
       "category": "财经"
     },
     {
@@ -171,12 +203,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 263340,
-      "num": 263340,
-      "word": "人民日报社论",
-      "onboard_time": 1678755326,
+      "raw_hot": 294814,
+      "num": 294814,
+      "word": "黑暗荣耀花絮",
+      "onboard_time": 1678756347,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 286405,
+      "num": 286405,
+      "word": "公司回应员工因给客户倒水太满被开除",
+      "onboard_time": 1678757544,
       "rank": 17,
-      "category": "国内要闻"
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 261692,
+      "num": 261692,
+      "word": "苹果首款头显零件照片曝光",
+      "onboard_time": 1678755687,
+      "rank": 30,
+      "category": "科技"
     },
     {
       "raw_hot": 258357,
@@ -188,7 +236,7 @@
     },
     {
       "raw_hot": 255595,
-      "num": 136460,
+      "num": 140648,
       "word": "周杰伦演唱会",
       "onboard_time": 1678719568,
       "rank": 24,
@@ -219,20 +267,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 218463,
-      "num": 171696,
-      "word": "苹果首款头显零件照片曝光",
-      "onboard_time": 1678755687,
-      "rank": 30,
-      "category": "科技"
-    },
-    {
       "raw_hot": 215014,
       "num": 194419,
       "word": "徐艺洋出演黄子韬新剧",
       "onboard_time": 1678712489,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 212409,
+      "num": 212409,
+      "word": "师生在校期间不强制要求戴口罩",
+      "onboard_time": 1678757366,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 207001,
@@ -283,14 +331,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 166774,
-      "num": 166774,
-      "word": "大连理工出版社回应图片选取不当",
-      "onboard_time": 1678756645,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 162740,
       "num": 161458,
       "word": "拜登就银行破产危机讲话",
@@ -305,14 +345,6 @@
       "onboard_time": 1678749320,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 161311,
-      "num": 161311,
-      "word": "黑暗荣耀花絮",
-      "onboard_time": 1678756347,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 156167,
@@ -345,6 +377,14 @@
       "onboard_time": 1678716207,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 149729,
+      "num": 149729,
+      "word": "315骗假不留",
+      "onboard_time": 1678758083,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 147430,
@@ -417,6 +457,14 @@
       "onboard_time": 1678718188,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 122650,
+      "num": 122650,
+      "word": "纪念马克思逝世140周年",
+      "onboard_time": 1678757305,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 118352,
@@ -507,8 +555,16 @@
       "category": "影视"
     },
     {
+      "raw_hot": 72217,
+      "num": 682903,
+      "word": "我们从春天出发",
+      "onboard_time": 1678712908,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 72204,
-      "num": 649194,
+      "num": 683410,
       "word": "两会",
       "onboard_time": 1678701026,
       "rank": 1,
@@ -520,14 +576,6 @@
       "word": "十四届全国人大一次会议闭幕会",
       "onboard_time": 1678664965,
       "rank": 0,
-      "category": "国内要闻"
-    },
-    {
-      "raw_hot": 67676,
-      "num": 612482,
-      "word": "我们从春天出发",
-      "onboard_time": 1678712908,
-      "rank": 2,
       "category": "国内要闻"
     },
     {
