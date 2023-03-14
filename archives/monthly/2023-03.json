@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678818535197,
+  "endTime": 1678819577444,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -26467,6 +26467,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 95210,
+      "num": 95210,
+      "word": "陈伟霆一天官宣两部电影",
+      "onboard_time": 1678818253,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 95176,
       "num": 95176,
       "word": "这些树你可能不会种",
@@ -27769,14 +27777,6 @@
       "onboard_time": 1677596564,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 47610,
-      "num": 47610,
-      "word": "陈伟霆一天官宣两部电影",
-      "onboard_time": 1678818253,
-      "rank": 18,
-      "category": "影视"
     },
     {
       "raw_hot": 47356,

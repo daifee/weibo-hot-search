@@ -1,6 +1,6 @@
 {
   "startTime": 1678811567881,
-  "endTime": 1678818535197,
+  "endTime": 1678819577444,
   "band_list": [
     {
       "raw_hot": 2252522,
@@ -347,6 +347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 95210,
+      "num": 95210,
+      "word": "陈伟霆一天官宣两部电影",
+      "onboard_time": 1678818253,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 88805,
       "num": 88805,
       "word": "什么都馋只会害了你",
@@ -416,14 +424,6 @@
       "word": "电影梅根中国首映",
       "onboard_time": 1678814058,
       "rank": 39,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 47610,
-      "num": 47610,
-      "word": "陈伟霆一天官宣两部电影",
-      "onboard_time": 1678818253,
-      "rank": 18,
       "category": "影视"
     },
     {

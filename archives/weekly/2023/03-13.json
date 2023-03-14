@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1678818535197,
+  "endTime": 1678819577444,
   "band_list": [
     {
       "raw_hot": 6995165,
@@ -3939,6 +3939,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 95210,
+      "num": 95210,
+      "word": "陈伟霆一天官宣两部电影",
+      "onboard_time": 1678818253,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 92540,
       "num": 92540,
       "word": "李梦上篮",
@@ -4201,14 +4209,6 @@
       "onboard_time": 1678791631,
       "rank": 14,
       "category": "情感"
-    },
-    {
-      "raw_hot": 47610,
-      "num": 47610,
-      "word": "陈伟霆一天官宣两部电影",
-      "onboard_time": 1678818253,
-      "rank": 18,
-      "category": "影视"
     },
     {
       "raw_hot": 47169,
