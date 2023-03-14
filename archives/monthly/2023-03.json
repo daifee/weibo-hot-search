@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678814604741,
+  "endTime": 1678815683379,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -27555,6 +27555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 59975,
+      "num": 59975,
+      "word": "电影梅根中国首映",
+      "onboard_time": 1678814058,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 59968,
       "num": 59968,
       "word": "祝每一个她节日快乐",
@@ -27609,14 +27617,6 @@
       "onboard_time": 1678417655,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 56278,
-      "num": 56278,
-      "word": "电影梅根中国首映",
-      "onboard_time": 1678814058,
-      "rank": 39,
-      "category": "影视"
     },
     {
       "raw_hot": 56240,

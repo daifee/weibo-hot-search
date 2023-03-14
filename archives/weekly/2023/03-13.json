@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1678814604741,
+  "endTime": 1678815683379,
   "band_list": [
     {
       "raw_hot": 6995165,
@@ -4131,6 +4131,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 59975,
+      "num": 59975,
+      "word": "电影梅根中国首映",
+      "onboard_time": 1678814058,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 58775,
       "num": 58775,
       "word": "这歌终于有个合理的出处了",
@@ -4153,14 +4161,6 @@
       "onboard_time": 1678628848,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 56278,
-      "num": 56278,
-      "word": "电影梅根中国首映",
-      "onboard_time": 1678814058,
-      "rank": 39,
-      "category": "影视"
     },
     {
       "raw_hot": 55655,
