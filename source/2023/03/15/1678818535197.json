@@ -1,0 +1,410 @@
+{
+  "runTime": 1678818535197,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 294960,
+        "num": 294960,
+        "word": "315",
+        "onboard_time": 1678801351,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171227,
+        "num": 171227,
+        "word": "当词汇量到达一定量的时候",
+        "onboard_time": 1678811184,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1861,
+        "num": 168725,
+        "word": "这就是春天里的中国",
+        "onboard_time": 1678628848,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168472,
+        "num": 168472,
+        "word": "瑞幸咖啡被吐槽去冰后剩半杯",
+        "onboard_time": 1678795769,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135740,
+        "num": 135740,
+        "word": "井柏然 八个字我决定接下这部戏",
+        "onboard_time": 1678800452,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 296815,
+        "num": 133334,
+        "word": "女演员实名举报五星级酒店",
+        "onboard_time": 1678795046,
+        "rank": 5,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 124414,
+        "num": 124414,
+        "word": "吴磊赵露思 微博之夜",
+        "onboard_time": 1678798949,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98351,
+        "num": 98351,
+        "word": "国考成绩",
+        "onboard_time": 1678800991,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 89897,
+        "num": 89897,
+        "word": "遇到房东不退押金就这样做",
+        "onboard_time": 1678807348,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 80637,
+        "num": 80637,
+        "word": "刘亚仁吸毒证据超10000张",
+        "onboard_time": 1678785510,
+        "rank": 9,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 152444,
+        "num": 79088,
+        "word": "台军失踪士兵在厦门吃好睡好",
+        "onboard_time": 1678806150,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74034,
+        "num": 74034,
+        "word": "还爱我么 我还爱着你",
+        "onboard_time": 1678807110,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 66485,
+        "num": 66485,
+        "word": "黑暗荣耀里最文明的人",
+        "onboard_time": 1678800212,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 66009,
+        "num": 66009,
+        "word": "归路小说还原度",
+        "onboard_time": 1678811961,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 61964,
+        "num": 61964,
+        "word": "重庆一鱼塘神秘大坑吞噬2万斤鱼",
+        "onboard_time": 1678805252,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60475,
+        "num": 60475,
+        "word": "去冰 少冰",
+        "onboard_time": 1678798591,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 58093,
+        "num": 58093,
+        "word": "国考排名",
+        "onboard_time": 1678807889,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 52067,
+        "num": 52067,
+        "word": "一镜到底有多暴露演技",
+        "onboard_time": 1678800694,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 47610,
+        "num": 47610,
+        "word": "陈伟霆一天官宣两部电影",
+        "onboard_time": 1678818253,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 44920,
+        "num": 44920,
+        "word": "微博年度热度人物",
+        "onboard_time": 1678799491,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102500,
+        "num": 44620,
+        "word": "男子辞职摆摊拍照1月内激增14家同行",
+        "onboard_time": 1678808548,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87266,
+        "num": 44615,
+        "word": "杭州一套凶宅低于市场价73万成交",
+        "onboard_time": 1678787130,
+        "rank": 21,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 44224,
+        "num": 44224,
+        "word": "杨幂新片预计今年完成制作",
+        "onboard_time": 1678817414,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 43956,
+        "num": 43956,
+        "word": "iG",
+        "onboard_time": 1678801771,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 43821,
+        "num": 43821,
+        "word": "他是谁",
+        "onboard_time": 1678789950,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 43476,
+        "num": 43476,
+        "word": "电影梅根中国首映",
+        "onboard_time": 1678814058,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 42681,
+        "num": 42681,
+        "word": "他是谁家暴男被妻子反杀",
+        "onboard_time": 1678797630,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 42680,
+        "num": 42680,
+        "word": "动物园棕熊听懂人话被质疑是人假扮",
+        "onboard_time": 1678796070,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40316,
+        "num": 40316,
+        "word": "归路",
+        "onboard_time": 1678785569,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 21651,
+        "num": 39099,
+        "word": "中方明起扩大公民出境团队游国家范围",
+        "onboard_time": 1678801415,
+        "rank": 29,
+        "category": "国内要闻,旅游"
+      },
+      {
+        "raw_hot": 38805,
+        "num": 38805,
+        "word": "全国高中C9联盟成立",
+        "onboard_time": 1678790310,
+        "rank": 30,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 37740,
+        "num": 37740,
+        "word": "曝梅西父亲向沙特球队开价6亿欧",
+        "onboard_time": 1678793490,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36516,
+        "num": 36516,
+        "word": "无名是北电开学的第一课",
+        "onboard_time": 1678790850,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 36287,
+        "num": 36287,
+        "word": "杨紫高马尾条纹衫路透",
+        "onboard_time": 1678812560,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 35610,
+        "num": 35610,
+        "word": "河道英全在俊演过霜花店",
+        "onboard_time": 1678793188,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 34426,
+        "num": 34426,
+        "word": "国考分数线",
+        "onboard_time": 1678805553,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 34297,
+        "num": 34297,
+        "word": "腰部终于不再酸疼了",
+        "onboard_time": 1678797150,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33514,
+        "num": 33514,
+        "word": "可能有童年创伤的三个迹象",
+        "onboard_time": 1678790550,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 32187,
+        "num": 32187,
+        "word": "张学友时隔7年回归大银幕",
+        "onboard_time": 1678804952,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 32134,
+        "num": 32134,
+        "word": "田柾国直播",
+        "onboard_time": 1678804053,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32098,
+        "num": 32098,
+        "word": "卫国平下水道里摸尸块",
+        "onboard_time": 1678790249,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 31309,
+        "num": 31309,
+        "word": "上岸了",
+        "onboard_time": 1678801896,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 29614,
+        "num": 29614,
+        "word": "国考申论",
+        "onboard_time": 1678802136,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 29169,
+        "num": 29169,
+        "word": "微博之夜",
+        "onboard_time": 1678788510,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29107,
+        "num": 29107,
+        "word": "省考",
+        "onboard_time": 1678801114,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 26526,
+        "num": 29104,
+        "word": "BLACKPINK科切拉排练照",
+        "onboard_time": 1678798350,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 26412,
+        "num": 29101,
+        "word": "黑暗荣耀",
+        "onboard_time": 1678802374,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 26151,
+        "num": 29098,
+        "word": "重紫之雪仙情定档",
+        "onboard_time": 1678806511,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 23113,
+        "num": 29093,
+        "word": "申论",
+        "onboard_time": 1678805192,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 21591,
+        "num": 29087,
+        "word": "晨晓cp开虐",
+        "onboard_time": 1678803572,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#新征程上的中华大地#"
+    }
+  }
+}

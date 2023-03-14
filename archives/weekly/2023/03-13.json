@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1678815683379,
+  "endTime": 1678818535197,
   "band_list": [
     {
       "raw_hot": 6995165,
@@ -4203,11 +4203,27 @@
       "category": "情感"
     },
     {
+      "raw_hot": 47610,
+      "num": 47610,
+      "word": "陈伟霆一天官宣两部电影",
+      "onboard_time": 1678818253,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 47169,
       "num": 47169,
       "word": "黑暗荣耀2双向救赎",
       "onboard_time": 1678649111,
       "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 44224,
+      "num": 44224,
+      "word": "杨幂新片预计今年完成制作",
+      "onboard_time": 1678817414,
+      "rank": 22,
       "category": "影视"
     },
     {
