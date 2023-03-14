@@ -1,0 +1,410 @@
+{
+  "runTime": 1678761961500,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1458482,
+        "num": 1458482,
+        "word": "国考",
+        "onboard_time": 1678760005,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 433640,
+        "num": 433640,
+        "word": "每个人的生日都能在圆周率中找到",
+        "onboard_time": 1678749678,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205799,
+        "num": 432857,
+        "word": "白色情人节",
+        "onboard_time": 1678761806,
+        "rank": 2,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 26792,
+        "num": 432486,
+        "word": "春天里的中国自带氛围感",
+        "onboard_time": 1678752746,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1515578,
+        "num": 431419,
+        "word": "TFBOYS十周年演唱会许可证",
+        "onboard_time": 1678759826,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 874193,
+        "num": 431137,
+        "word": "公司回应员工因给客户倒水太满被开除",
+        "onboard_time": 1678757544,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 593657,
+        "num": 429944,
+        "word": "京考",
+        "onboard_time": 1678761449,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 469668,
+        "num": 429221,
+        "word": "赵露思金色华服路透",
+        "onboard_time": 1678758866,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 456417,
+        "num": 428430,
+        "word": "师生在校期间不强制要求戴口罩",
+        "onboard_time": 1678757366,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 427927,
+        "num": 427927,
+        "word": "315骗假不留",
+        "onboard_time": 1678758083,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 624768,
+        "num": 410275,
+        "word": "甲流抗原售价已超新冠抗原10倍",
+        "onboard_time": 1678753586,
+        "rank": 10,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 510808,
+        "num": 401570,
+        "word": "大连理工出版社回应图片选取不当",
+        "onboard_time": 1678756645,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392565,
+        "num": 392565,
+        "word": "无名中国香港票房破10万美元",
+        "onboard_time": 1678761505,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 379688,
+        "num": 379688,
+        "word": "华晨宇回家乡湖北开演唱会",
+        "onboard_time": 1678761745,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 372775,
+        "num": 372775,
+        "word": "硅谷银行破产最惨踩雷机构",
+        "onboard_time": 1678756886,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 367636,
+        "num": 367636,
+        "word": "网友实验证明三星拍摄月亮存在造假",
+        "onboard_time": 1678758324,
+        "rank": 15,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 341882,
+        "num": 341882,
+        "word": "iPhone15若限充电速度或违反欧盟法律",
+        "onboard_time": 1678754607,
+        "rank": 16,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 304274,
+        "num": 304274,
+        "word": "美国一城市为霉霉巡演更名",
+        "onboard_time": 1678750221,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 289464,
+        "num": 289464,
+        "word": "李梦宣布加盟华盛顿神秘人",
+        "onboard_time": 1678755626,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 287792,
+        "num": 287792,
+        "word": "电影我看见两朵一样的云",
+        "onboard_time": 1678761024,
+        "rank": 19,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 2116473,
+        "num": 287739,
+        "word": "韩国SBS剪掉杨紫琼获奖感言女性部分",
+        "onboard_time": 1678759046,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287245,
+        "num": 287245,
+        "word": "黑暗荣耀花絮",
+        "onboard_time": 1678756347,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 275494,
+        "num": 275494,
+        "word": "感染甲流后哪种情况需就医",
+        "onboard_time": 1678757067,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262600,
+        "num": 262600,
+        "word": "曾经穷游的泰国贵到去不起了",
+        "onboard_time": 1678707684,
+        "rank": 23,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 256744,
+        "num": 256744,
+        "word": "电影暴风定档",
+        "onboard_time": 1678760425,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 252849,
+        "num": 252849,
+        "word": "gidleTomBoy发行一周年",
+        "onboard_time": 1678760784,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 246684,
+        "num": 246684,
+        "word": "蔡徐坤 微博之夜",
+        "onboard_time": 1678759164,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242565,
+        "num": 242565,
+        "word": "潘玮柏的嫌弃不像是演的",
+        "onboard_time": 1678713630,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 221706,
+        "num": 221706,
+        "word": "硅谷银行开门储户大排长龙取款",
+        "onboard_time": 1678753708,
+        "rank": 28,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 220763,
+        "num": 220763,
+        "word": "分娩之痛并非天经地义",
+        "onboard_time": 1678734671,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201123,
+        "num": 220760,
+        "word": "女子自学医美给他人手术致8级伤残",
+        "onboard_time": 1678716207,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184859,
+        "num": 220749,
+        "word": "美国网红称华人商店该被抢",
+        "onboard_time": 1678722982,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184592,
+        "num": 220739,
+        "word": "太阳vs勇士",
+        "onboard_time": 1678760126,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183442,
+        "num": 220734,
+        "word": "他是谁",
+        "onboard_time": 1678750763,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171040,
+        "num": 220721,
+        "word": "纪念马克思逝世140周年",
+        "onboard_time": 1678757305,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160574,
+        "num": 220719,
+        "word": "不吃主食或造成大脑功能衰退",
+        "onboard_time": 1678729394,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139395,
+        "num": 220710,
+        "word": "肖战登日本moviestar封面",
+        "onboard_time": 1678719507,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 139223,
+        "num": 220695,
+        "word": "库里领唱中文版小星星",
+        "onboard_time": 1678761686,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134108,
+        "num": 220685,
+        "word": "苹果首款头显零件照片曝光",
+        "onboard_time": 1678755687,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 133727,
+        "num": 220676,
+        "word": "人民日报社论",
+        "onboard_time": 1678755326,
+        "rank": 39,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 120253,
+        "num": 220673,
+        "word": "硅谷银行新CEO回应",
+        "onboard_time": 1678759587,
+        "rank": 40,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 112848,
+        "num": 220659,
+        "word": "大爷充29万做美容反悔起诉退钱",
+        "onboard_time": 1678717168,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99396,
+        "num": 220655,
+        "word": "妈妈绣22米长清明上河图送女儿",
+        "onboard_time": 1678752806,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97825,
+        "num": 220641,
+        "word": "周杰伦演唱会",
+        "onboard_time": 1678719568,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 88030,
+        "num": 220637,
+        "word": "爱奇艺考虑拍狂飙电影版",
+        "onboard_time": 1678720106,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 46395,
+        "num": 220630,
+        "word": "我们从春天出发",
+        "onboard_time": 1678712908,
+        "rank": 45,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 83314,
+        "num": 220620,
+        "word": "黑莲花",
+        "onboard_time": 1678709905,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 75834,
+        "num": 220608,
+        "word": "22岁的丫丫约等于人类的80岁",
+        "onboard_time": 1678699226,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75071,
+        "num": 220597,
+        "word": "贾昊回应杜锋被驱逐风波",
+        "onboard_time": 1678754487,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 74546,
+        "num": 220593,
+        "word": "美国两家银行接连关闭",
+        "onboard_time": 1678753826,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#明日中国先导片#"
+    }
+  }
+}
