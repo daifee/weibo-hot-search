@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1678793643352,
+  "endTime": 1678798007261,
   "band_list": [
     {
       "raw_hot": 6010597,
@@ -17,6 +17,14 @@
       "onboard_time": 1678765648,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2932502,
+      "num": 2932502,
+      "word": "女演员实名举报五星级酒店",
+      "onboard_time": 1678795046,
+      "rank": 0,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 2911206,
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 1671846,
-      "num": 660545,
+      "num": 892703,
       "word": "刘亚仁吸毒证据超10000张",
       "onboard_time": 1678785510,
       "rank": 22,
@@ -129,6 +137,14 @@
       "onboard_time": 1678609644,
       "rank": 40,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1432222,
+      "num": 1432222,
+      "word": "瑞幸咖啡被吐槽去冰后剩半杯",
+      "onboard_time": 1678795769,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1394486,
@@ -755,6 +771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 641108,
+      "num": 641108,
+      "word": "曝梅西父亲向沙特球队开价6亿欧",
+      "onboard_time": 1678793490,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 629064,
       "num": 629064,
       "word": "李梦宣布加盟华盛顿神秘人",
@@ -969,6 +993,14 @@
       "onboard_time": 1678790850,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 538170,
+      "num": 538170,
+      "word": "光渊",
+      "onboard_time": 1678793608,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 537776,
@@ -1763,6 +1795,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 347680,
+      "num": 347680,
+      "word": "卫国平的腰",
+      "onboard_time": 1678796130,
+      "rank": 13,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 346891,
       "num": 228240,
       "word": "流浪地球2票房破40亿",
@@ -1832,6 +1872,14 @@
       "word": "EXO最新节目预告",
       "onboard_time": 1678789049,
       "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 338022,
+      "num": 338022,
+      "word": "陈粒抄歌词练字",
+      "onboard_time": 1678793848,
+      "rank": 14,
       "category": "综艺"
     },
     {
@@ -2051,6 +2099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 286294,
+      "num": 231100,
+      "word": "归路",
+      "onboard_time": 1678785569,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 284369,
       "num": 242841,
       "word": "魏如萱首个内地常驻综艺",
@@ -2073,6 +2129,14 @@
       "onboard_time": 1678789290,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 280669,
+      "num": 185121,
+      "word": "成龙张学友张家辉梁朝伟刘德华合照",
+      "onboard_time": 1678795589,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 280313,
@@ -2299,6 +2363,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 254021,
+      "num": 254021,
+      "word": "动物园棕熊听懂人话被质疑是人假扮",
+      "onboard_time": 1678796070,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 251391,
       "num": 251391,
       "word": "土坑酸菜涉事企业成立农业新公司",
@@ -2419,6 +2491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 237852,
+      "num": 163270,
+      "word": "他是谁家暴男被妻子反杀",
+      "onboard_time": 1678797630,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 236919,
       "num": 166578,
       "word": "宋慧乔李到晛cp名",
@@ -2433,6 +2513,14 @@
       "onboard_time": 1678664601,
       "rank": 28,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 233141,
+      "num": 233141,
+      "word": "C罗社媒账号粉丝数达5.6亿",
+      "onboard_time": 1678794207,
+      "rank": 18,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 232963,
@@ -2555,6 +2643,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 217698,
+      "num": 165672,
+      "word": "保你平安测试渣男技巧",
+      "onboard_time": 1678796070,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 216909,
       "num": 400562,
       "word": "金智秀solo个人预告",
@@ -2609,6 +2705,14 @@
       "onboard_time": 1678710987,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 205825,
+      "num": 156808,
+      "word": "归路前任分手10年后再重逢",
+      "onboard_time": 1678793668,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 205633,
@@ -2923,14 +3027,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 164152,
-      "num": 217530,
-      "word": "归路",
-      "onboard_time": 1678785569,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 164006,
       "num": 217511,
       "word": "原神白色情人节",
@@ -2987,6 +3083,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 156664,
+      "num": 156664,
+      "word": "腰部终于不再酸疼了",
+      "onboard_time": 1678797150,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 155140,
       "num": 155140,
       "word": "库里35岁生日",
@@ -3025,6 +3129,14 @@
       "onboard_time": 1678662739,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 152075,
+      "num": 152075,
+      "word": "wtt新加坡大满贯2023",
+      "onboard_time": 1678793789,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 151396,
@@ -3107,6 +3219,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 142939,
+      "num": 142939,
+      "word": "熊猫是懂松弛感的",
+      "onboard_time": 1678796009,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 142568,
       "num": 235258,
       "word": "教学楼上的鲜花瀑布",
@@ -3179,14 +3299,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 136951,
-      "num": 136951,
-      "word": "曝梅西父亲向沙特球队开价6亿欧",
-      "onboard_time": 1678793490,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 136129,
       "num": 136129,
       "word": "light泽丽五杀",
@@ -3213,10 +3325,10 @@
     {
       "raw_hot": 132807,
       "num": 132807,
-      "word": "光渊",
-      "onboard_time": 1678793608,
-      "rank": 48,
-      "category": "影视"
+      "word": "没想到拔个河会这么社死",
+      "onboard_time": 1678794748,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 132553,
@@ -3523,6 +3635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 90711,
+      "num": 132769,
+      "word": "张本智和",
+      "onboard_time": 1678797991,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 89077,
       "num": 89077,
       "word": "尹子维普通话",
@@ -3544,6 +3664,14 @@
       "word": "羽生结弦冰上跳Dynamite",
       "onboard_time": 1678620565,
       "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 85386,
+      "num": 132764,
+      "word": "孙颖莎3比0温特",
+      "onboard_time": 1678795709,
+      "rank": 49,
       "category": "体育"
     },
     {
