@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1678761961500,
+  "endTime": 1678764026133,
   "band_list": [
     {
       "raw_hot": 6010597,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2326521,
-      "num": 287739,
+      "num": 298893,
       "word": "韩国SBS剪掉杨紫琼获奖感言女性部分",
       "onboard_time": 1678759046,
       "rank": 20,
@@ -315,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 843937,
+      "num": 790432,
+      "word": "京考",
+      "onboard_time": 1678761449,
+      "rank": 6,
+      "category": "教育"
+    },
+    {
       "raw_hot": 840896,
       "num": 132272,
       "word": "钱天一 vs伊藤美诚",
@@ -355,6 +363,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 805854,
+      "num": 805854,
+      "word": "白色情人节",
+      "onboard_time": 1678761806,
+      "rank": 2,
+      "category": "情感"
+    },
+    {
       "raw_hot": 802634,
       "num": 110173,
       "word": "赛格",
@@ -385,6 +401,14 @@
       "onboard_time": 1678676727,
       "rank": 4,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 787649,
+      "num": 787649,
+      "word": "A股",
+      "onboard_time": 1678678770,
+      "rank": 11,
+      "category": "财经"
     },
     {
       "raw_hot": 785299,
@@ -611,14 +635,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 593657,
-      "num": 429944,
-      "word": "京考",
-      "onboard_time": 1678761449,
-      "rank": 6,
-      "category": "教育"
-    },
-    {
       "raw_hot": 584704,
       "num": 202930,
       "word": "港星尹子维在内地做探店博主",
@@ -665,14 +681,6 @@
       "onboard_time": 1678753708,
       "rank": 12,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 551452,
-      "num": 402055,
-      "word": "A股",
-      "onboard_time": 1678678770,
-      "rank": 11,
-      "category": "财经"
     },
     {
       "raw_hot": 545797,
@@ -763,6 +771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 508757,
+      "num": 508757,
+      "word": "华晨宇回家乡湖北开演唱会",
+      "onboard_time": 1678761745,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 506576,
       "num": 261233,
       "word": "黑暗荣耀与太阳的后裔名场面对比",
@@ -785,6 +801,14 @@
       "onboard_time": 1678681890,
       "rank": 40,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 499820,
+      "num": 499820,
+      "word": "无名中国香港票房破10万美元",
+      "onboard_time": 1678761505,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 499516,
@@ -857,6 +881,14 @@
       "onboard_time": 1678666646,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 480739,
+      "num": 480739,
+      "word": "大侦探",
+      "onboard_time": 1678763667,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 475762,
@@ -961,6 +993,14 @@
       "onboard_time": 1678610906,
       "rank": 14,
       "category": "影视,社会新闻"
+    },
+    {
+      "raw_hot": 438537,
+      "num": 438537,
+      "word": "电影我看见两朵一样的云",
+      "onboard_time": 1678761024,
+      "rank": 27,
+      "category": "影视,幽默"
     },
     {
       "raw_hot": 431979,
@@ -1083,14 +1123,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 392565,
-      "num": 392565,
-      "word": "无名中国香港票房破10万美元",
-      "onboard_time": 1678761505,
-      "rank": 12,
-      "category": "影视"
-    },
-    {
       "raw_hot": 389810,
       "num": 228533,
       "word": "白色月牙暂别赛场",
@@ -1139,20 +1171,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 379688,
-      "num": 379688,
-      "word": "华晨宇回家乡湖北开演唱会",
-      "onboard_time": 1678761745,
-      "rank": 13,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 375568,
       "num": 401325,
       "word": "刘嘉玲说梁朝伟是最好的",
       "onboard_time": 1678679188,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 373256,
+      "num": 373256,
+      "word": "库里领唱中文版小星星",
+      "onboard_time": 1678761686,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 370459,
@@ -1347,6 +1379,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 313719,
+      "num": 313719,
+      "word": "电影铃芽之旅",
+      "onboard_time": 1678762703,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 313252,
       "num": 119248,
       "word": "樊振东vs阿波罗尼亚",
@@ -1369,6 +1409,14 @@
       "onboard_time": 1678665805,
       "rank": 25,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 306886,
+      "num": 306886,
+      "word": "井柏然谭松韵新剧从校服到婚纱",
+      "onboard_time": 1678763126,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 306593,
@@ -1427,20 +1475,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 290431,
+      "num": 290431,
+      "word": "星落凝成糖新滤镜",
+      "onboard_time": 1678763787,
+      "rank": 21,
+      "category": "影视,科技"
+    },
+    {
       "raw_hot": 290366,
       "num": 290366,
       "word": "KPOP4月回归阵容",
       "onboard_time": 1678682912,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 287792,
-      "num": 287792,
-      "word": "电影我看见两朵一样的云",
-      "onboard_time": 1678761024,
-      "rank": 27,
-      "category": "影视,幽默"
     },
     {
       "raw_hot": 284290,
@@ -1497,6 +1545,14 @@
       "onboard_time": 1678719928,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 267578,
+      "num": 267578,
+      "word": "忠犬八公狗狗的爱都在陪伴里",
+      "onboard_time": 1678763605,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 266219,
@@ -1576,6 +1632,14 @@
       "word": "黑暗荣耀 复仇者联盟",
       "onboard_time": 1678674027,
       "rank": 16,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 250979,
+      "num": 250979,
+      "word": "重紫大婚海报",
+      "onboard_time": 1678762885,
+      "rank": 26,
       "category": "影视"
     },
     {
@@ -1795,14 +1859,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 205799,
-      "num": 432857,
-      "word": "白色情人节",
-      "onboard_time": 1678761806,
-      "rank": 2,
-      "category": "情感"
-    },
-    {
       "raw_hot": 204791,
       "num": 204791,
       "word": "关继威奥斯卡最佳男配角",
@@ -1825,6 +1881,14 @@
       "onboard_time": 1678754906,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 200739,
+      "num": 200739,
+      "word": "硅谷银行买家浮现",
+      "onboard_time": 1678763246,
+      "rank": 29,
+      "category": "财经"
     },
     {
       "raw_hot": 200103,
@@ -1859,6 +1923,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 195669,
+      "num": 220739,
+      "word": "太阳vs勇士",
+      "onboard_time": 1678760126,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 192607,
       "num": 424886,
       "word": "政府工作就是要贴近老百姓实际感受",
@@ -1883,20 +1955,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190750,
+      "num": 190750,
+      "word": "周深铃芽之旅MV",
+      "onboard_time": 1678763304,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 187716,
       "num": 187716,
       "word": "OMG状态",
       "onboard_time": 1678705585,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 184592,
-      "num": 220739,
-      "word": "太阳vs勇士",
-      "onboard_time": 1678760126,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 184259,
@@ -2171,14 +2243,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 139223,
-      "num": 220695,
-      "word": "库里领唱中文版小星星",
-      "onboard_time": 1678761686,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 137325,
       "num": 261864,
       "word": "明日中国先导片",
@@ -2193,6 +2257,14 @@
       "onboard_time": 1678704147,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 134888,
+      "num": 150750,
+      "word": "王源文淇新片概念海报曝光",
+      "onboard_time": 1678761985,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 134261,
@@ -2315,6 +2387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 110763,
+      "num": 150749,
+      "word": "5岁男孩患白血病两年半化疗26次",
+      "onboard_time": 1678763846,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110441,
       "num": 436442,
       "word": "坚定不移推进祖国统一进程",
@@ -2361,6 +2441,14 @@
       "onboard_time": 1678695747,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 104527,
+      "num": 150747,
+      "word": "二刷黑暗荣耀",
+      "onboard_time": 1678761626,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 102313,
@@ -2539,6 +2627,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 72822,
+      "num": 792804,
+      "word": "春天里的中国自带氛围感",
+      "onboard_time": 1678752746,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 69602,
       "num": 229608,
       "word": "天舟六号已运往文昌航天发射场",
@@ -2689,14 +2785,6 @@
       "onboard_time": 1678727716,
       "rank": 9,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 26792,
-      "num": 432486,
-      "word": "春天里的中国自带氛围感",
-      "onboard_time": 1678752746,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 26726,

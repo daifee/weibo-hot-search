@@ -1,10 +1,10 @@
 {
   "startTime": 1678724793394,
-  "endTime": 1678761961500,
+  "endTime": 1678764026133,
   "band_list": [
     {
       "raw_hot": 2326521,
-      "num": 287739,
+      "num": 298893,
       "word": "韩国SBS剪掉杨紫琼获奖感言女性部分",
       "onboard_time": 1678759046,
       "rank": 20,
@@ -59,6 +59,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 843937,
+      "num": 790432,
+      "word": "京考",
+      "onboard_time": 1678761449,
+      "rank": 6,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 805854,
+      "num": 805854,
+      "word": "白色情人节",
+      "onboard_time": 1678761806,
+      "rank": 2,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 787649,
+      "num": 787649,
+      "word": "A股",
+      "onboard_time": 1678762464,
+      "rank": 4,
+      "category": "财经"
+    },
+    {
       "raw_hot": 716756,
       "num": 682410,
       "word": "iPhone15若限充电速度或违反欧盟法律",
@@ -107,14 +131,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 593657,
-      "num": 429944,
-      "word": "京考",
-      "onboard_time": 1678761449,
-      "rank": 6,
-      "category": "教育"
-    },
-    {
       "raw_hot": 554645,
       "num": 229103,
       "word": "美国网红称华人商店该被抢",
@@ -139,10 +155,26 @@
       "category": "影视"
     },
     {
+      "raw_hot": 508757,
+      "num": 508757,
+      "word": "华晨宇回家乡湖北开演唱会",
+      "onboard_time": 1678761745,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 500083,
       "num": 220620,
       "word": "黑莲花",
       "onboard_time": 1678709905,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 499820,
+      "num": 499820,
+      "word": "无名中国香港票房破10万美元",
+      "onboard_time": 1678761505,
       "rank": 12,
       "category": "影视"
     },
@@ -171,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 480739,
+      "num": 480739,
+      "word": "大侦探",
+      "onboard_time": 1678763667,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 475762,
       "num": 475762,
       "word": "他是谁",
@@ -185,6 +225,14 @@
       "onboard_time": 1678719088,
       "rank": 13,
       "category": "财经"
+    },
+    {
+      "raw_hot": 438537,
+      "num": 438537,
+      "word": "电影我看见两朵一样的云",
+      "onboard_time": 1678761024,
+      "rank": 27,
+      "category": "影视,幽默"
     },
     {
       "raw_hot": 427927,
@@ -203,14 +251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 392565,
-      "num": 392565,
-      "word": "无名中国香港票房破10万美元",
-      "onboard_time": 1678761505,
-      "rank": 12,
-      "category": "影视"
-    },
-    {
       "raw_hot": 385315,
       "num": 372775,
       "word": "硅谷银行破产最惨踩雷机构",
@@ -219,12 +259,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 379688,
-      "num": 379688,
-      "word": "华晨宇回家乡湖北开演唱会",
-      "onboard_time": 1678761745,
-      "rank": 13,
-      "category": "音乐"
+      "raw_hot": 373256,
+      "num": 373256,
+      "word": "库里领唱中文版小星星",
+      "onboard_time": 1678761686,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 367636,
@@ -283,6 +323,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 313719,
+      "num": 313719,
+      "word": "电影铃芽之旅",
+      "onboard_time": 1678762703,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 306886,
+      "num": 306886,
+      "word": "井柏然谭松韵新剧从校服到婚纱",
+      "onboard_time": 1678763126,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 304833,
       "num": 304833,
       "word": "黑暗荣耀花絮",
@@ -307,12 +363,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 287792,
-      "num": 287792,
-      "word": "电影我看见两朵一样的云",
-      "onboard_time": 1678761024,
-      "rank": 27,
-      "category": "影视,幽默"
+      "raw_hot": 290431,
+      "num": 290431,
+      "word": "星落凝成糖新滤镜",
+      "onboard_time": 1678763787,
+      "rank": 21,
+      "category": "影视,科技"
     },
     {
       "raw_hot": 278246,
@@ -321,6 +377,14 @@
       "onboard_time": 1678759164,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 267578,
+      "num": 267578,
+      "word": "忠犬八公狗狗的爱都在陪伴里",
+      "onboard_time": 1678763605,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 261692,
@@ -353,6 +417,14 @@
       "onboard_time": 1678719568,
       "rank": 24,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 250979,
+      "num": 250979,
+      "word": "重紫大婚海报",
+      "onboard_time": 1678762885,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 244469,
@@ -395,19 +467,27 @@
       "category": "财经"
     },
     {
-      "raw_hot": 205799,
-      "num": 432857,
-      "word": "白色情人节",
-      "onboard_time": 1678761806,
-      "rank": 2,
-      "category": "情感"
-    },
-    {
       "raw_hot": 200884,
       "num": 202294,
       "word": "我国民间乒乓球藏龙又卧虎",
       "onboard_time": 1678754906,
       "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 200739,
+      "num": 200739,
+      "word": "硅谷银行买家浮现",
+      "onboard_time": 1678763246,
+      "rank": 29,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 195669,
+      "num": 220739,
+      "word": "太阳vs勇士",
+      "onboard_time": 1678760126,
+      "rank": 33,
       "category": "体育"
     },
     {
@@ -419,20 +499,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190750,
+      "num": 190750,
+      "word": "周深铃芽之旅MV",
+      "onboard_time": 1678763304,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 185361,
       "num": 161480,
       "word": "新上错花轿嫁对郎改名",
       "onboard_time": 1678706426,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 184592,
-      "num": 220739,
-      "word": "太阳vs勇士",
-      "onboard_time": 1678760126,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 181018,
@@ -547,14 +627,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 139223,
-      "num": 220695,
-      "word": "库里领唱中文版小星星",
-      "onboard_time": 1678761686,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 135863,
       "num": 104623,
       "word": "杜锋被驱逐",
@@ -569,6 +641,14 @@
       "onboard_time": 1678711647,
       "rank": 32,
       "category": "其它"
+    },
+    {
+      "raw_hot": 134888,
+      "num": 150750,
+      "word": "王源文淇新片概念海报曝光",
+      "onboard_time": 1678761985,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 129832,
@@ -611,6 +691,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 110763,
+      "num": 150749,
+      "word": "5岁男孩患白血病两年半化疗26次",
+      "onboard_time": 1678763846,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 108307,
       "num": 104393,
       "word": "声生不息宝岛季概念海报",
@@ -624,6 +712,14 @@
       "word": "昏嫁将影视化",
       "onboard_time": 1678718309,
       "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 104527,
+      "num": 150747,
+      "word": "二刷黑暗荣耀",
+      "onboard_time": 1678761626,
+      "rank": 49,
       "category": "影视"
     },
     {
@@ -681,6 +777,14 @@
       "onboard_time": 1678712426,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 72822,
+      "num": 792804,
+      "word": "春天里的中国自带氛围感",
+      "onboard_time": 1678752746,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 72217,
@@ -793,14 +897,6 @@
       "onboard_time": 1678727716,
       "rank": 9,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 26792,
-      "num": 432486,
-      "word": "春天里的中国自带氛围感",
-      "onboard_time": 1678752746,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 24354,
