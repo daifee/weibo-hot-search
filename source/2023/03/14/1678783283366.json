@@ -1,0 +1,410 @@
+{
+  "runTime": 1678783283366,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1200888,
+        "num": 1200888,
+        "word": "警方悬赏3万缉捕马冬梅",
+        "onboard_time": 1678775364,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 879567,
+        "num": 879567,
+        "word": "海底捞要求必须点锅底",
+        "onboard_time": 1678765648,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47588,
+        "num": 843109,
+        "word": "太空视角看美丽地球家园",
+        "onboard_time": 1678782867,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 832886,
+        "num": 832886,
+        "word": "谢霆锋一天官宣3部新片",
+        "onboard_time": 1678777769,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 581382,
+        "num": 581382,
+        "word": "甲流与新冠有可能叠加感染吗",
+        "onboard_time": 1678777349,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 489683,
+        "num": 489683,
+        "word": "阿根廷国家队关于中国行声明",
+        "onboard_time": 1678776867,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 474071,
+        "num": 474071,
+        "word": "我国理工科学生比例下降",
+        "onboard_time": 1678773567,
+        "rank": 6,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 458583,
+        "num": 458583,
+        "word": "刘亦菲 微博之夜",
+        "onboard_time": 1678779028,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 454789,
+        "num": 454789,
+        "word": "双子座真的很需要夸奖",
+        "onboard_time": 1678780289,
+        "rank": 8,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 395841,
+        "num": 395841,
+        "word": "那些小说中的顶流天花板",
+        "onboard_time": 1678779810,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1517098,
+        "num": 383570,
+        "word": "宁艺卓右眼几乎看不到",
+        "onboard_time": 1678776508,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1039352,
+        "num": 376284,
+        "word": "蔚来险遭强奸女员工发声",
+        "onboard_time": 1678782450,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 645609,
+        "num": 364317,
+        "word": "杨紫琼获奖 马国明放假",
+        "onboard_time": 1678781308,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 589260,
+        "num": 352639,
+        "word": "河道英 全在俊",
+        "onboard_time": 1678777769,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 468378,
+        "num": 333221,
+        "word": "她拿格莱美才会刺激到张曼玉",
+        "onboard_time": 1678776748,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 332599,
+        "num": 332599,
+        "word": "腾讯会议再次调整",
+        "onboard_time": 1678778129,
+        "rank": 15,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 297639,
+        "num": 297639,
+        "word": "创造101乐华初舞台彩排未公开版",
+        "onboard_time": 1678776148,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273926,
+        "num": 273926,
+        "word": "张远觉得王栎鑫改编的嘉宾最差",
+        "onboard_time": 1678781908,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 265291,
+        "num": 265291,
+        "word": "关晓彤了不起的我们开机生图",
+        "onboard_time": 1678782268,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 237248,
+        "num": 237248,
+        "word": "国考",
+        "onboard_time": 1678760005,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 234502,
+        "num": 234502,
+        "word": "多家电商平台有女性迷药隐蔽出售",
+        "onboard_time": 1678769132,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234155,
+        "num": 234155,
+        "word": "陈星旭李兰迪鼻尖吻删减剧情",
+        "onboard_time": 1678780527,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 225502,
+        "num": 225502,
+        "word": "于和伟确诊甲流",
+        "onboard_time": 1678766549,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206234,
+        "num": 206234,
+        "word": "王曼昱连得7分造逆转",
+        "onboard_time": 1678778188,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184192,
+        "num": 205448,
+        "word": "硅谷银行的储户已可正常提款",
+        "onboard_time": 1678774466,
+        "rank": 24,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 212956,
+        "num": 205308,
+        "word": "文东恩妈妈和张震演过情侣",
+        "onboard_time": 1678782387,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 205055,
+        "num": 205055,
+        "word": "安欣vs卫国平",
+        "onboard_time": 1678782268,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 191479,
+        "num": 204998,
+        "word": "黑暗荣耀2",
+        "onboard_time": 1678780230,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 186280,
+        "num": 204936,
+        "word": "宋妍霏新歌制作人是暗格里的秘密导演",
+        "onboard_time": 1678782688,
+        "rank": 28,
+        "category": "综艺,音乐"
+      },
+      {
+        "raw_hot": 144599,
+        "num": 204813,
+        "word": "终于知道为什么老说猴急了",
+        "onboard_time": 1678782808,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162342,
+        "num": 204723,
+        "word": "陈飞宇最新机场路透",
+        "onboard_time": 1678770928,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 154471,
+        "num": 204675,
+        "word": "声生不息海报",
+        "onboard_time": 1678779209,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141573,
+        "num": 204564,
+        "word": "上班通勤四小时是什么体验",
+        "onboard_time": 1678764326,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139454,
+        "num": 204449,
+        "word": "原神",
+        "onboard_time": 1678769550,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 129394,
+        "num": 204377,
+        "word": "看得出她对吃饭的热情",
+        "onboard_time": 1678780350,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 148087,
+        "num": 204329,
+        "word": "张译每剧嘎一个兄弟",
+        "onboard_time": 1678773087,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 141992,
+        "num": 204235,
+        "word": "SMTOWN开办偶像培训班",
+        "onboard_time": 1678779509,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141298,
+        "num": 204154,
+        "word": "吴世勋亲爱的阿基米德将今年播出",
+        "onboard_time": 1678770031,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 130802,
+        "num": 204073,
+        "word": "沈月的野猪一家要出团综了",
+        "onboard_time": 1678781606,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 117858,
+        "num": 203968,
+        "word": "马龙3比0林诗栋",
+        "onboard_time": 1678780230,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118189,
+        "num": 203857,
+        "word": "肖战骑单车路透",
+        "onboard_time": 1678769250,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 111490,
+        "num": 203745,
+        "word": "一起照亮丫丫回家路",
+        "onboard_time": 1678783050,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108020,
+        "num": 203724,
+        "word": "飞鲨歼15昼夜飞行有多帅",
+        "onboard_time": 1678777648,
+        "rank": 42,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 482982,
+        "num": 203561,
+        "word": "美国3岁女童玩枪打死4岁姐姐",
+        "onboard_time": 1678772009,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28274,
+        "num": 203521,
+        "word": "春天里的中国自带氛围感",
+        "onboard_time": 1678752746,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104540,
+        "num": 203382,
+        "word": "孝埈的保镖天团",
+        "onboard_time": 1678772666,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103603,
+        "num": 203340,
+        "word": "情人节头像",
+        "onboard_time": 1678764988,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 101932,
+        "num": 203235,
+        "word": "土坑酸菜涉事企业成立农业新公司",
+        "onboard_time": 1678775248,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100683,
+        "num": 203180,
+        "word": "王伯祥去世",
+        "onboard_time": 1678765766,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97966,
+        "num": 203103,
+        "word": "时代峰峻称TFBOYS十周年演唱会暂未报批",
+        "onboard_time": 1678765106,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#强国建设民族复兴#"
+    }
+  }
+}

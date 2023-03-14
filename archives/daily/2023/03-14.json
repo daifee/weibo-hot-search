@@ -1,6 +1,6 @@
 {
   "startTime": 1678724793394,
-  "endTime": 1678782422341,
+  "endTime": 1678783283366,
   "band_list": [
     {
       "raw_hot": 3314139,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1994978,
-      "num": 362749,
+      "num": 383570,
       "word": "宁艺卓右眼几乎看不到",
       "onboard_time": 1678776508,
       "rank": 10,
@@ -97,6 +97,14 @@
       "onboard_time": 1678765106,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1039352,
+      "num": 376284,
+      "word": "蔚来险遭强奸女员工发声",
+      "onboard_time": 1678782450,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 893758,
@@ -204,7 +212,7 @@
     },
     {
       "raw_hot": 685621,
-      "num": 353756,
+      "num": 364317,
       "word": "杨紫琼获奖 马国明放假",
       "onboard_time": 1678781308,
       "rank": 11,
@@ -212,7 +220,7 @@
     },
     {
       "raw_hot": 673651,
-      "num": 347369,
+      "num": 352639,
       "word": "河道英 全在俊",
       "onboard_time": 1678777769,
       "rank": 14,
@@ -563,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 395841,
+      "num": 395841,
+      "word": "那些小说中的顶流天花板",
+      "onboard_time": 1678779810,
+      "rank": 9,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 385315,
       "num": 372775,
       "word": "硅谷银行破产最惨踩雷机构",
@@ -585,14 +601,6 @@
       "onboard_time": 1678758324,
       "rank": 13,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 363625,
-      "num": 363625,
-      "word": "那些小说中的顶流天花板",
-      "onboard_time": 1678779810,
-      "rank": 9,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 357473,
@@ -755,6 +763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 273926,
+      "num": 273926,
+      "word": "张远觉得王栎鑫改编的嘉宾最差",
+      "onboard_time": 1678781908,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 270590,
       "num": 270590,
       "word": "柠萌影视2023片单",
@@ -776,6 +792,14 @@
       "word": "陈星旭李兰迪鼻尖吻删减剧情",
       "onboard_time": 1678780527,
       "rank": 18,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 265291,
+      "num": 265291,
+      "word": "关晓彤了不起的我们开机生图",
+      "onboard_time": 1678782268,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -899,6 +923,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 212956,
+      "num": 237621,
+      "word": "文东恩妈妈和张震演过情侣",
+      "onboard_time": 1678782387,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 207001,
       "num": 161395,
       "word": "美股",
@@ -921,6 +953,14 @@
       "onboard_time": 1678768053,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 205055,
+      "num": 239383,
+      "word": "安欣vs卫国平",
+      "onboard_time": 1678782268,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 200884,
@@ -947,28 +987,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 196700,
-      "num": 239946,
-      "word": "张远觉得王栎鑫改编的嘉宾最差",
-      "onboard_time": 1678781908,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 195669,
       "num": 220739,
       "word": "太阳vs勇士",
       "onboard_time": 1678760126,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 194971,
-      "num": 239383,
-      "word": "安欣vs卫国平",
-      "onboard_time": 1678782268,
-      "rank": 29,
-      "category": "影视"
     },
     {
       "raw_hot": 193306,
@@ -1011,12 +1035,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 187711,
-      "num": 239270,
-      "word": "关晓彤了不起的我们开机生图",
-      "onboard_time": 1678782268,
-      "rank": 30,
-      "category": "影视"
+      "raw_hot": 186280,
+      "num": 204936,
+      "word": "宋妍霏新歌制作人是暗格里的秘密导演",
+      "onboard_time": 1678782688,
+      "rank": 28,
+      "category": "综艺,音乐"
     },
     {
       "raw_hot": 185361,
@@ -1155,6 +1179,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 144599,
+      "num": 204813,
+      "word": "终于知道为什么老说猴急了",
+      "onboard_time": 1678782808,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 144300,
       "num": 202264,
       "word": "火速加入瘦肚子挑战",
@@ -1227,6 +1259,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 130802,
+      "num": 238170,
+      "word": "沈月的野猪一家要出团综了",
+      "onboard_time": 1678781606,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 129832,
       "num": 129832,
       "word": "瞬息全宇宙奥斯卡最佳影片",
@@ -1240,14 +1280,6 @@
       "word": "刘雯奥斯卡派对造型",
       "onboard_time": 1678705285,
       "rank": 34,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 125286,
-      "num": 238170,
-      "word": "沈月的野猪一家要出团综了",
-      "onboard_time": 1678781606,
-      "rank": 40,
       "category": "作品衍生"
     },
     {
@@ -1299,20 +1331,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 111490,
+      "num": 203745,
+      "word": "一起照亮丫丫回家路",
+      "onboard_time": 1678783050,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 108307,
       "num": 104393,
       "word": "声生不息宝岛季概念海报",
       "onboard_time": 1678714348,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 106316,
-      "num": 237621,
-      "word": "文东恩妈妈和张震演过情侣",
-      "onboard_time": 1678782387,
-      "rank": 45,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 105187,
@@ -1481,6 +1513,14 @@
       "onboard_time": 1678735091,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 47588,
+      "num": 843109,
+      "word": "太空视角看美丽地球家园",
+      "onboard_time": 1678782867,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 44475,
