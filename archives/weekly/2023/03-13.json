@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1678768695347,
+  "endTime": 1678771079585,
   "band_list": [
     {
       "raw_hot": 6010597,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1702895,
-      "num": 397446,
+      "num": 473399,
       "word": "于和伟确诊甲流",
       "onboard_time": 1678766549,
       "rank": 10,
@@ -196,7 +196,7 @@
     },
     {
       "raw_hot": 1074761,
-      "num": 393299,
+      "num": 466901,
       "word": "时代峰峻称TFBOYS十周年演唱会暂未报批",
       "onboard_time": 1678765106,
       "rank": 11,
@@ -336,6 +336,14 @@
       "word": "宋佳王阳演夫妻",
       "onboard_time": 1678674206,
       "rank": 23,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 856596,
+      "num": 678601,
+      "word": "吴世勋亲爱的阿基米德将今年播出",
+      "onboard_time": 1678770031,
+      "rank": 3,
       "category": "影视"
     },
     {
@@ -611,8 +619,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 623167,
-      "num": 592643,
+      "raw_hot": 626497,
+      "num": 626497,
       "word": "王伯祥去世",
       "onboard_time": 1678765766,
       "rank": 12,
@@ -691,6 +699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 596899,
+      "num": 596899,
+      "word": "梁朝伟刘德华二十年后再合作",
+      "onboard_time": 1678770330,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 584704,
       "num": 202930,
       "word": "港星尹子维在内地做探店博主",
@@ -707,6 +723,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 570040,
+      "num": 467896,
+      "word": "肖战骑单车路透",
+      "onboard_time": 1678769250,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 567235,
       "num": 401359,
       "word": "迪丽热巴时装三月刊内页大片",
@@ -721,6 +745,14 @@
       "onboard_time": 1678663646,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 556331,
+      "num": 556331,
+      "word": "最希望继续二搭的cp",
+      "onboard_time": 1678769372,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 554645,
@@ -859,6 +891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 504235,
+      "num": 504235,
+      "word": "原神",
+      "onboard_time": 1678769550,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 503160,
       "num": 400796,
       "word": "李强总理回应中美脱钩论调",
@@ -912,6 +952,14 @@
       "word": "女子回应烧伤后被男友照顾6年",
       "onboard_time": 1678694306,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 490785,
+      "num": 490785,
+      "word": "多家电商平台有女性迷药隐蔽出售",
+      "onboard_time": 1678769132,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1139,6 +1187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 420613,
+      "num": 420613,
+      "word": "蒲熠星说蒲鱼是一切故事的开端",
+      "onboard_time": 1678768834,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 420111,
       "num": 207810,
       "word": "兄弟瞒着外嫁姐姐办理父母遗产继承",
@@ -1201,6 +1257,14 @@
       "onboard_time": 1678698025,
       "rank": 22,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 400271,
+      "num": 400271,
+      "word": "男童患白血病保险公司拒绝续保",
+      "onboard_time": 1678767751,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 398459,
@@ -1635,6 +1699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 271851,
+      "num": 271851,
+      "word": "幼师教升旗用英文口号被质疑",
+      "onboard_time": 1678770090,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 271035,
       "num": 88111,
       "word": "蓝柚 AG",
@@ -1648,6 +1720,14 @@
       "word": "柠萌影视2023片单",
       "onboard_time": 1678768472,
       "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 270524,
+      "num": 270524,
+      "word": "张家辉陈伟霆爆裂开打",
+      "onboard_time": 1678770928,
+      "rank": 23,
       "category": "影视"
     },
     {
@@ -1665,14 +1745,6 @@
       "onboard_time": 1678686687,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 264977,
-      "num": 264977,
-      "word": "男童患白血病保险公司拒绝续保",
-      "onboard_time": 1678767751,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 264733,
@@ -1729,6 +1801,14 @@
       "onboard_time": 1678667127,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 257964,
+      "num": 257964,
+      "word": "大侦探芒州诡事录古装剧照",
+      "onboard_time": 1678769250,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 256744,
@@ -2155,6 +2235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 180802,
+      "num": 180802,
+      "word": "陈飞宇最新机场路透",
+      "onboard_time": 1678770928,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 179423,
       "num": 179423,
       "word": "WBG对战OMG",
@@ -2211,6 +2299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168783,
+      "num": 168783,
+      "word": "勇士战胜太阳",
+      "onboard_time": 1678770691,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 163407,
       "num": 163407,
       "word": "张译亮相亚洲电影大奖",
@@ -2232,6 +2328,14 @@
       "word": "最后生还者 长颈鹿",
       "onboard_time": 1678767991,
       "rank": 39,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 156985,
+      "num": 156985,
+      "word": "爱情而已白色情人节海报",
+      "onboard_time": 1678769372,
+      "rank": 37,
       "category": "影视"
     },
     {
@@ -2465,6 +2569,14 @@
       "onboard_time": 1678624947,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 122972,
+      "num": 122972,
+      "word": "鹿晗 杭州",
+      "onboard_time": 1678771048,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 121067,

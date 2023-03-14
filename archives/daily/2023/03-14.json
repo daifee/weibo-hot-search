@@ -1,6 +1,6 @@
 {
   "startTime": 1678724793394,
-  "endTime": 1678768695347,
+  "endTime": 1678771079585,
   "band_list": [
     {
       "raw_hot": 3314139,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1702895,
-      "num": 397446,
+      "num": 473399,
       "word": "于和伟确诊甲流",
       "onboard_time": 1678766549,
       "rank": 10,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1074761,
-      "num": 393299,
+      "num": 466901,
       "word": "时代峰峻称TFBOYS十周年演唱会暂未报批",
       "onboard_time": 1678765106,
       "rank": 11,
@@ -97,6 +97,14 @@
       "onboard_time": 1678756645,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 856596,
+      "num": 678601,
+      "word": "吴世勋亲爱的阿基米德将今年播出",
+      "onboard_time": 1678770031,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 843937,
@@ -163,8 +171,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 623167,
-      "num": 592643,
+      "raw_hot": 626497,
+      "num": 626497,
       "word": "王伯祥去世",
       "onboard_time": 1678765766,
       "rank": 12,
@@ -184,6 +192,30 @@
       "word": "不良笑花里的陈妍希",
       "onboard_time": 1678764684,
       "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 596899,
+      "num": 596899,
+      "word": "梁朝伟刘德华二十年后再合作",
+      "onboard_time": 1678770330,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 570040,
+      "num": 467896,
+      "word": "肖战骑单车路透",
+      "onboard_time": 1678769250,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 556331,
+      "num": 556331,
+      "word": "最希望继续二搭的cp",
+      "onboard_time": 1678769372,
+      "rank": 6,
       "category": "影视"
     },
     {
@@ -227,6 +259,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 504235,
+      "num": 504235,
+      "word": "原神",
+      "onboard_time": 1678769550,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 500083,
       "num": 220620,
       "word": "黑莲花",
@@ -249,6 +289,14 @@
       "onboard_time": 1678764988,
       "rank": 7,
       "category": "情感"
+    },
+    {
+      "raw_hot": 490785,
+      "num": 490785,
+      "word": "多家电商平台有女性迷药隐蔽出售",
+      "onboard_time": 1678769132,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 486238,
@@ -323,12 +371,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 420613,
+      "num": 420613,
+      "word": "蒲熠星说蒲鱼是一切故事的开端",
+      "onboard_time": 1678768834,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 417213,
       "num": 417213,
       "word": "库里领唱中文版小星星",
       "onboard_time": 1678761686,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 400271,
+      "num": 400271,
+      "word": "男童患白血病保险公司拒绝续保",
+      "onboard_time": 1678767751,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 398459,
@@ -475,11 +539,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 271851,
+      "num": 271851,
+      "word": "幼师教升旗用英文口号被质疑",
+      "onboard_time": 1678770090,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 270590,
       "num": 270590,
       "word": "柠萌影视2023片单",
       "onboard_time": 1678768472,
       "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 270524,
+      "num": 270524,
+      "word": "张家辉陈伟霆爆裂开打",
+      "onboard_time": 1678770928,
+      "rank": 23,
       "category": "影视"
     },
     {
@@ -489,14 +569,6 @@
       "onboard_time": 1678763605,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 264977,
-      "num": 264977,
-      "word": "男童患白血病保险公司拒绝续保",
-      "onboard_time": 1678767751,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 261692,
@@ -513,6 +585,14 @@
       "onboard_time": 1678719507,
       "rank": 23,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 257964,
+      "num": 257964,
+      "word": "大侦探芒州诡事录古装剧照",
+      "onboard_time": 1678769250,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 256744,
@@ -667,6 +747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 180802,
+      "num": 180802,
+      "word": "陈飞宇最新机场路透",
+      "onboard_time": 1678770928,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 175954,
       "num": 175954,
       "word": "董明珠说员工被培养多年理应不去同业",
@@ -681,6 +769,14 @@
       "onboard_time": 1678757305,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168783,
+      "num": 168783,
+      "word": "勇士战胜太阳",
+      "onboard_time": 1678770691,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 162740,
@@ -704,6 +800,14 @@
       "word": "最后生还者 长颈鹿",
       "onboard_time": 1678767991,
       "rank": 39,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 156985,
+      "num": 156985,
+      "word": "爱情而已白色情人节海报",
+      "onboard_time": 1678769372,
+      "rank": 37,
       "category": "影视"
     },
     {
@@ -825,6 +929,14 @@
       "onboard_time": 1678718188,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 122972,
+      "num": 122972,
+      "word": "鹿晗 杭州",
+      "onboard_time": 1678771048,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 118352,
