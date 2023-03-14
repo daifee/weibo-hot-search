@@ -1,0 +1,410 @@
+{
+  "runTime": 1678793643352,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 972514,
+        "num": 972514,
+        "word": "全国高中C9联盟成立",
+        "onboard_time": 1678790310,
+        "rank": 0,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 625482,
+        "num": 625482,
+        "word": "黑暗荣耀里的蛇是真蛇",
+        "onboard_time": 1678783528,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 52430,
+        "num": 624550,
+        "word": "太空视角看美丽地球家园",
+        "onboard_time": 1678782867,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1581462,
+        "num": 621915,
+        "word": "蔚来险遭强奸女员工发声",
+        "onboard_time": 1678782450,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1473219,
+        "num": 618991,
+        "word": "杭州一套凶宅低于市场价73万成交",
+        "onboard_time": 1678787130,
+        "rank": 4,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1182275,
+        "num": 618193,
+        "word": "刘亚仁吸毒证据超10000张",
+        "onboard_time": 1678785510,
+        "rank": 5,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 996190,
+        "num": 616440,
+        "word": "无名是北电开学的第一课",
+        "onboard_time": 1678790850,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 614657,
+        "num": 614657,
+        "word": "张俪看自己被公主抱看了10遍",
+        "onboard_time": 1678788630,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 490451,
+        "num": 490451,
+        "word": "胡歌包场支持敦煌女儿",
+        "onboard_time": 1678790850,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 412078,
+        "num": 412078,
+        "word": "他是谁",
+        "onboard_time": 1678789950,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 575734,
+        "num": 410972,
+        "word": "宁艺卓右眼几乎看不到",
+        "onboard_time": 1678776508,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 409710,
+        "num": 409710,
+        "word": "杨紫张晚意邓为长相思路透",
+        "onboard_time": 1678793129,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 353904,
+        "num": 353904,
+        "word": "河道英全在俊演过霜花店",
+        "onboard_time": 1678793188,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 341637,
+        "num": 341637,
+        "word": "梅西世界杯后涨粉近4000万",
+        "onboard_time": 1678789770,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 48524,
+        "num": 329844,
+        "word": "读千卷书会成为怎样的人",
+        "onboard_time": 1678791631,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 329816,
+        "num": 329816,
+        "word": "聂小雨表白卫国平",
+        "onboard_time": 1678790310,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 328959,
+        "num": 328959,
+        "word": "政协委员称追求编制未必是最好选择",
+        "onboard_time": 1678790069,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320700,
+        "num": 320700,
+        "word": "微博之夜",
+        "onboard_time": 1678788510,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283084,
+        "num": 283084,
+        "word": "福岛核污染水含60多种放射性核素",
+        "onboard_time": 1678789290,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275073,
+        "num": 275073,
+        "word": "北京沙尘暴",
+        "onboard_time": 1678792170,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358035,
+        "num": 275065,
+        "word": "卫国平下水道里摸尸块",
+        "onboard_time": 1678790249,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 301940,
+        "num": 273287,
+        "word": "半熟恋人2第六期满地是雷",
+        "onboard_time": 1678789589,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 270273,
+        "num": 270273,
+        "word": "国考",
+        "onboard_time": 1678760005,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 263062,
+        "num": 263062,
+        "word": "可能有童年创伤的三个迹象",
+        "onboard_time": 1678790550,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 254835,
+        "num": 254835,
+        "word": "海底捞要求必须点锅底",
+        "onboard_time": 1678765648,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299854,
+        "num": 254329,
+        "word": "你好星期六好六街官宣升级",
+        "onboard_time": 1678787731,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271308,
+        "num": 254109,
+        "word": "刘亦菲 微博之夜",
+        "onboard_time": 1678779028,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249493,
+        "num": 249493,
+        "word": "声生不息宝岛季首发阵容",
+        "onboard_time": 1678786349,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242235,
+        "num": 242235,
+        "word": "谢娜分享和朋友们聚餐聊天vlog",
+        "onboard_time": 1678791270,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238819,
+        "num": 238819,
+        "word": "警方悬赏3万缉捕马冬梅",
+        "onboard_time": 1678775364,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225539,
+        "num": 225539,
+        "word": "蔡依林说请大家先听别人的专辑",
+        "onboard_time": 1678787670,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 214131,
+        "num": 214131,
+        "word": "EXO最新节目预告",
+        "onboard_time": 1678789049,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207950,
+        "num": 207950,
+        "word": "UP无缘季后赛",
+        "onboard_time": 1678792530,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 196070,
+        "num": 196070,
+        "word": "双子座真的很需要夸奖",
+        "onboard_time": 1678780289,
+        "rank": 33,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 187178,
+        "num": 187178,
+        "word": "甲流与新冠有可能叠加感染吗",
+        "onboard_time": 1678777349,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204404,
+        "num": 186889,
+        "word": "她拿格莱美才会刺激到张曼玉",
+        "onboard_time": 1678776748,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 197381,
+        "num": 185925,
+        "word": "杨紫琼获奖 马国明放假",
+        "onboard_time": 1678781308,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 174480,
+        "num": 185435,
+        "word": "蔚来",
+        "onboard_time": 1678787190,
+        "rank": 37,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 157945,
+        "num": 184272,
+        "word": "吃个饭五官都张开了",
+        "onboard_time": 1678786888,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 146175,
+        "num": 183767,
+        "word": "我国理工科学生比例下降",
+        "onboard_time": 1678773567,
+        "rank": 39,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 183539,
+        "num": 183539,
+        "word": "谢霆锋一天官宣3部新片",
+        "onboard_time": 1678777769,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 180071,
+        "num": 180071,
+        "word": "魏如萱首个内地常驻综艺",
+        "onboard_time": 1678788570,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173652,
+        "num": 173652,
+        "word": "那些小说中的顶流天花板",
+        "onboard_time": 1678779810,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 153634,
+        "num": 153634,
+        "word": "归路",
+        "onboard_time": 1678785569,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 149498,
+        "num": 149498,
+        "word": "河道英 全在俊",
+        "onboard_time": 1678777769,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 143482,
+        "num": 143482,
+        "word": "阿根廷国家队关于中国行声明",
+        "onboard_time": 1678776867,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136951,
+        "num": 136951,
+        "word": "曝梅西父亲向沙特球队开价6亿欧",
+        "onboard_time": 1678793490,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136858,
+        "num": 136858,
+        "word": "卧底揭秘海鲜加工厂的狠活",
+        "onboard_time": 1678787431,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132807,
+        "num": 132807,
+        "word": "光渊",
+        "onboard_time": 1678793608,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 128962,
+        "num": 128962,
+        "word": "一起照亮丫丫回家路",
+        "onboard_time": 1678783050,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记两会金句#"
+    }
+  }
+}

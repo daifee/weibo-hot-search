@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1678792679020,
+  "endTime": 1678793643352,
   "band_list": [
     {
       "raw_hot": 6010597,
@@ -313,6 +313,14 @@
       "onboard_time": 1678705285,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 972514,
+      "num": 972514,
+      "word": "全国高中C9联盟成立",
+      "onboard_time": 1678790310,
+      "rank": 48,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 970805,
@@ -689,14 +697,6 @@
       "onboard_time": 1678702466,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 682339,
-      "num": 682339,
-      "word": "全国高中C9联盟成立",
-      "onboard_time": 1678790310,
-      "rank": 48,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 674638,
@@ -1531,6 +1531,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 409710,
+      "num": 409710,
+      "word": "杨紫张晚意邓为长相思路透",
+      "onboard_time": 1678793129,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 407984,
       "num": 237538,
       "word": "迪丽热巴古典造型花絮视频",
@@ -1723,6 +1731,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 353904,
+      "num": 353904,
+      "word": "河道英全在俊演过霜花店",
+      "onboard_time": 1678793188,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 351326,
       "num": 351326,
       "word": "他是谁开播",
@@ -1851,6 +1867,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 328959,
+      "num": 328959,
+      "word": "政协委员称追求编制未必是最好选择",
+      "onboard_time": 1678790069,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 325755,
       "num": 400462,
       "word": "男子爬山偶遇赤狐对视引路",
@@ -1963,14 +1987,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 306589,
-      "num": 306589,
-      "word": "政协委员称追求编制未必是最好选择",
-      "onboard_time": 1678790069,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 304833,
       "num": 304833,
       "word": "黑暗荣耀花絮",
@@ -2051,6 +2067,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 283084,
+      "num": 283084,
+      "word": "福岛核污染水含60多种放射性核素",
+      "onboard_time": 1678789290,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 280313,
       "num": 202461,
       "word": "华晨宇声生不息2上班路透",
@@ -2105,6 +2129,14 @@
       "onboard_time": 1678764085,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 275073,
+      "num": 275073,
+      "word": "北京沙尘暴",
+      "onboard_time": 1678792170,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 274070,
@@ -2164,7 +2196,7 @@
     },
     {
       "raw_hot": 265447,
-      "num": 235382,
+      "num": 242235,
       "word": "谢娜分享和朋友们聚餐聊天vlog",
       "onboard_time": 1678791270,
       "rank": 27,
@@ -2185,6 +2217,14 @@
       "onboard_time": 1678615585,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 263062,
+      "num": 263062,
+      "word": "可能有童年创伤的三个迹象",
+      "onboard_time": 1678790550,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 261692,
@@ -2321,14 +2361,6 @@
       "onboard_time": 1678677686,
       "rank": 35,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 244838,
-      "num": 244838,
-      "word": "福岛核污染水含60多种放射性核素",
-      "onboard_time": 1678789290,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 244087,
@@ -2547,20 +2579,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 207950,
+      "num": 207950,
+      "word": "UP无缘季后赛",
+      "onboard_time": 1678792530,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 206950,
       "num": 88013,
       "word": "瞬息全宇宙",
       "onboard_time": 1678720648,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 206614,
-      "num": 233079,
-      "word": "可能有童年创伤的三个迹象",
-      "onboard_time": 1678790550,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 206225,
@@ -2745,14 +2777,6 @@
       "onboard_time": 1678770691,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 189560,
-      "num": 189560,
-      "word": "UP无缘季后赛",
-      "onboard_time": 1678792530,
-      "rank": 34,
-      "category": "游戏"
     },
     {
       "raw_hot": 187943,
@@ -3019,14 +3043,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 150979,
-      "num": 150979,
-      "word": "北京沙尘暴",
-      "onboard_time": 1678792170,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 149970,
       "num": 149970,
       "word": "杨紫琼获奥斯卡影后概率有多大",
@@ -3163,6 +3179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136951,
+      "num": 136951,
+      "word": "曝梅西父亲向沙特球队开价6亿欧",
+      "onboard_time": 1678793490,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136129,
       "num": 136129,
       "word": "light泽丽五杀",
@@ -3185,6 +3209,14 @@
       "onboard_time": 1678695026,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132807,
+      "num": 132807,
+      "word": "光渊",
+      "onboard_time": 1678793608,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 132553,
@@ -3707,20 +3739,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 48524,
+      "num": 329844,
+      "word": "读千卷书会成为怎样的人",
+      "onboard_time": 1678791631,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 47169,
       "num": 47169,
       "word": "黑暗荣耀2双向救赎",
       "onboard_time": 1678649111,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 32878,
-      "num": 326486,
-      "word": "读千卷书会成为怎样的人",
-      "onboard_time": 1678791631,
-      "rank": 14,
-      "category": "情感"
     },
     {
       "raw_hot": 30012,
