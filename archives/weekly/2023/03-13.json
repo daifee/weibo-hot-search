@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1678758162161,
+  "endTime": 1678761298250,
   "band_list": [
     {
       "raw_hot": 6010597,
@@ -9,6 +9,14 @@
       "onboard_time": 1678678287,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2326521,
+      "num": 277752,
+      "word": "韩国SBS剪掉杨紫琼获奖感言女性部分",
+      "onboard_time": 1678759046,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 2213152,
@@ -28,7 +36,7 @@
     },
     {
       "raw_hot": 1834389,
-      "num": 154460,
+      "num": 202288,
       "word": "黑莲花",
       "onboard_time": 1678709905,
       "rank": 12,
@@ -49,6 +57,14 @@
       "onboard_time": 1678683451,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1559346,
+      "num": 395461,
+      "word": "TFBOYS十周年演唱会许可证",
+      "onboard_time": 1678759826,
+      "rank": 3,
+      "category": "音乐"
     },
     {
       "raw_hot": 1394486,
@@ -76,7 +92,7 @@
     },
     {
       "raw_hot": 1353724,
-      "num": 194419,
+      "num": 202245,
       "word": "徐艺洋出演黄子韬新剧",
       "onboard_time": 1678712489,
       "rank": 20,
@@ -89,6 +105,14 @@
       "onboard_time": 1678691007,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1288389,
+      "num": 1288389,
+      "word": "国考",
+      "onboard_time": 1678609644,
+      "rank": 40,
+      "category": "教育"
     },
     {
       "raw_hot": 1251135,
@@ -196,7 +220,7 @@
     },
     {
       "raw_hot": 960916,
-      "num": 229499,
+      "num": 259227,
       "word": "潘玮柏的嫌弃不像是演的",
       "onboard_time": 1678713630,
       "rank": 33,
@@ -241,6 +265,14 @@
       "onboard_time": 1678750221,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 862927,
+      "num": 386299,
+      "word": "公司回应员工因给客户倒水太满被开除",
+      "onboard_time": 1678757544,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 861661,
@@ -340,7 +372,7 @@
     },
     {
       "raw_hot": 796902,
-      "num": 152449,
+      "num": 202231,
       "word": "于冬说无名9亿票房很满意",
       "onboard_time": 1678716207,
       "rank": 23,
@@ -460,7 +492,7 @@
     },
     {
       "raw_hot": 695293,
-      "num": 226517,
+      "num": 231557,
       "word": "女子自学医美给他人手术致8级伤残",
       "onboard_time": 1678716207,
       "rank": 25,
@@ -795,6 +827,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 486238,
+      "num": 384367,
+      "word": "赵露思金色华服路透",
+      "onboard_time": 1678758866,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 485921,
+      "num": 378836,
+      "word": "师生在校期间不强制要求戴口罩",
+      "onboard_time": 1678757366,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 484830,
       "num": 484830,
       "word": "新疆多个休眠火山口积水如彩色画盘",
@@ -844,7 +892,7 @@
     },
     {
       "raw_hot": 456416,
-      "num": 140648,
+      "num": 202308,
       "word": "周杰伦演唱会",
       "onboard_time": 1678719568,
       "rank": 26,
@@ -929,6 +977,14 @@
       "onboard_time": 1678714348,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 426629,
+      "num": 366746,
+      "word": "315骗假不留",
+      "onboard_time": 1678758083,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 426289,
@@ -1033,6 +1089,14 @@
       "onboard_time": 1678698205,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 385315,
+      "num": 347708,
+      "word": "硅谷银行破产最惨踩雷机构",
+      "onboard_time": 1678756886,
+      "rank": 14,
+      "category": "财经"
     },
     {
       "raw_hot": 382597,
@@ -1171,6 +1235,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 343661,
+      "num": 343661,
+      "word": "网友实验证明三星拍摄月亮存在造假",
+      "onboard_time": 1678758324,
+      "rank": 13,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 341351,
       "num": 131820,
       "word": "好直观的出血量讲解",
@@ -1227,6 +1299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 319508,
+      "num": 319508,
+      "word": "gidleTomBoy发行一周年",
+      "onboard_time": 1678760784,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 317893,
       "num": 119222,
       "word": "流浪地球2评分再次上涨",
@@ -1251,14 +1331,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 313069,
-      "num": 313069,
-      "word": "硅谷银行破产最惨踩雷机构",
-      "onboard_time": 1678756886,
-      "rank": 14,
-      "category": "财经"
-    },
-    {
       "raw_hot": 312187,
       "num": 227407,
       "word": "毛晓彤晒心想事成全家福",
@@ -1280,6 +1352,14 @@
       "word": "江苏卫视三体",
       "onboard_time": 1678705646,
       "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 304833,
+      "num": 304833,
+      "word": "黑暗荣耀花絮",
+      "onboard_time": 1678756347,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -1315,14 +1395,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 294814,
-      "num": 294814,
-      "word": "黑暗荣耀花絮",
-      "onboard_time": 1678756347,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 292540,
       "num": 1112734,
       "word": "妈妈用废纸壳为女儿搭出童话世界",
@@ -1337,14 +1409,6 @@
       "onboard_time": 1678682912,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 286405,
-      "num": 286405,
-      "word": "公司回应员工因给客户倒水太满被开除",
-      "onboard_time": 1678757544,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 284290,
@@ -1369,6 +1433,14 @@
       "onboard_time": 1678718309,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 278246,
+      "num": 278246,
+      "word": "蔡徐坤 微博之夜",
+      "onboard_time": 1678759164,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 276362,
@@ -1464,6 +1536,14 @@
       "word": "黑暗荣耀 复仇者联盟",
       "onboard_time": 1678674027,
       "rank": 16,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 254987,
+      "num": 254987,
+      "word": "电影暴风定档",
+      "onboard_time": 1678760425,
+      "rank": 22,
       "category": "影视"
     },
     {
@@ -1667,14 +1747,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 212409,
-      "num": 212409,
-      "word": "师生在校期间不强制要求戴口罩",
-      "onboard_time": 1678757366,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 206950,
       "num": 88013,
       "word": "瞬息全宇宙",
@@ -1699,6 +1771,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 204297,
+      "num": 204297,
+      "word": "电影我看见两朵一样的云",
+      "onboard_time": 1678761024,
+      "rank": 27,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 203334,
       "num": 167850,
       "word": "陆虎三句话让兄弟团再就业",
@@ -1708,7 +1788,7 @@
     },
     {
       "raw_hot": 200884,
-      "num": 200884,
+      "num": 202294,
       "word": "我国民间乒乓球藏龙又卧虎",
       "onboard_time": 1678754906,
       "rank": 26,
@@ -1812,7 +1892,7 @@
     },
     {
       "raw_hot": 181018,
-      "num": 181018,
+      "num": 202274,
       "word": "贾昊回应杜锋被驱逐风波",
       "onboard_time": 1678754487,
       "rank": 28,
@@ -1864,6 +1944,14 @@
       "word": "3岁跆拳道宝宝展示超萌空翻",
       "onboard_time": 1678665324,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 172005,
+      "num": 202359,
+      "word": "纪念马克思逝世140周年",
+      "onboard_time": 1678757305,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -1931,12 +2019,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 149729,
-      "num": 149729,
-      "word": "315骗假不留",
-      "onboard_time": 1678758083,
+      "raw_hot": 148374,
+      "num": 202339,
+      "word": "太阳vs勇士",
+      "onboard_time": 1678760126,
       "rank": 33,
-      "category": "财经"
+      "category": "体育"
     },
     {
       "raw_hot": 148262,
@@ -1980,11 +2068,19 @@
     },
     {
       "raw_hot": 144300,
-      "num": 144300,
+      "num": 202264,
       "word": "火速加入瘦肚子挑战",
       "onboard_time": 1678743191,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 143880,
+      "num": 202321,
+      "word": "硅谷银行新CEO回应",
+      "onboard_time": 1678759587,
+      "rank": 35,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 142568,
@@ -2105,14 +2201,6 @@
       "onboard_time": 1678624947,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 122650,
-      "num": 122650,
-      "word": "纪念马克思逝世140周年",
-      "onboard_time": 1678757305,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 121067,
@@ -2329,14 +2417,6 @@
       "onboard_time": 1678667547,
       "rank": 48,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 87094,
-      "num": 87094,
-      "word": "国考",
-      "onboard_time": 1678609644,
-      "rank": 40,
-      "category": "教育"
     },
     {
       "raw_hot": 85658,

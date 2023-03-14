@@ -1,0 +1,410 @@
+{
+  "runTime": 1678761298250,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1288389,
+        "num": 1288389,
+        "word": "国考",
+        "onboard_time": 1678760005,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 401894,
+        "num": 401894,
+        "word": "每个人的生日都能在圆周率中找到",
+        "onboard_time": 1678749678,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55038,
+        "num": 396526,
+        "word": "我们从春天出发",
+        "onboard_time": 1678712908,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1559346,
+        "num": 395461,
+        "word": "TFBOYS十周年演唱会许可证",
+        "onboard_time": 1678759826,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 862927,
+        "num": 386299,
+        "word": "公司回应员工因给客户倒水太满被开除",
+        "onboard_time": 1678757544,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 486238,
+        "num": 384367,
+        "word": "赵露思金色华服路透",
+        "onboard_time": 1678758866,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 485921,
+        "num": 378836,
+        "word": "师生在校期间不强制要求戴口罩",
+        "onboard_time": 1678757366,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 435955,
+        "num": 372428,
+        "word": "iPhone15若限充电速度或违反欧盟法律",
+        "onboard_time": 1678754607,
+        "rank": 7,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 426629,
+        "num": 366746,
+        "word": "315骗假不留",
+        "onboard_time": 1678758083,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 362973,
+        "num": 362973,
+        "word": "美国一城市为霉霉巡演更名",
+        "onboard_time": 1678750221,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 729184,
+        "num": 355806,
+        "word": "甲流抗原售价已超新冠抗原10倍",
+        "onboard_time": 1678753586,
+        "rank": 10,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 587516,
+        "num": 350470,
+        "word": "大连理工出版社回应图片选取不当",
+        "onboard_time": 1678756645,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385315,
+        "num": 347708,
+        "word": "硅谷银行破产最惨踩雷机构",
+        "onboard_time": 1678756886,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 343661,
+        "num": 343661,
+        "word": "网友实验证明三星拍摄月亮存在造假",
+        "onboard_time": 1678758324,
+        "rank": 13,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 335290,
+        "num": 335290,
+        "word": "李梦宣布加盟华盛顿神秘人",
+        "onboard_time": 1678755626,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 319508,
+        "num": 319508,
+        "word": "gidleTomBoy发行一周年",
+        "onboard_time": 1678760784,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 305437,
+        "num": 305437,
+        "word": "感染甲流后哪种情况需就医",
+        "onboard_time": 1678757067,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304833,
+        "num": 304833,
+        "word": "黑暗荣耀花絮",
+        "onboard_time": 1678756347,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 297641,
+        "num": 297641,
+        "word": "曾经穷游的泰国贵到去不起了",
+        "onboard_time": 1678707684,
+        "rank": 18,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 278246,
+        "num": 278246,
+        "word": "蔡徐坤 微博之夜",
+        "onboard_time": 1678759164,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2326521,
+        "num": 277752,
+        "word": "韩国SBS剪掉杨紫琼获奖感言女性部分",
+        "onboard_time": 1678759046,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259227,
+        "num": 259227,
+        "word": "潘玮柏的嫌弃不像是演的",
+        "onboard_time": 1678713630,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 254987,
+        "num": 254987,
+        "word": "电影暴风定档",
+        "onboard_time": 1678760425,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 241644,
+        "num": 241644,
+        "word": "硅谷银行开门储户大排长龙取款",
+        "onboard_time": 1678753708,
+        "rank": 23,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 233693,
+        "num": 233693,
+        "word": "分娩之痛并非天经地义",
+        "onboard_time": 1678734671,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231557,
+        "num": 231557,
+        "word": "女子自学医美给他人手术致8级伤残",
+        "onboard_time": 1678716207,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212461,
+        "num": 212461,
+        "word": "他是谁",
+        "onboard_time": 1678750763,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204297,
+        "num": 204297,
+        "word": "电影我看见两朵一样的云",
+        "onboard_time": 1678761024,
+        "rank": 27,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 202369,
+        "num": 202369,
+        "word": "人民日报社论",
+        "onboard_time": 1678755326,
+        "rank": 28,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 200815,
+        "num": 202364,
+        "word": "美国网红称华人商店该被抢",
+        "onboard_time": 1678722982,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172005,
+        "num": 202359,
+        "word": "纪念马克思逝世140周年",
+        "onboard_time": 1678757305,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168172,
+        "num": 202353,
+        "word": "不吃主食或造成大脑功能衰退",
+        "onboard_time": 1678729394,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164420,
+        "num": 202347,
+        "word": "苹果首款头显零件照片曝光",
+        "onboard_time": 1678755687,
+        "rank": 32,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 148374,
+        "num": 202339,
+        "word": "太阳vs勇士",
+        "onboard_time": 1678760126,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146588,
+        "num": 202335,
+        "word": "肖战登日本moviestar封面",
+        "onboard_time": 1678719507,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 143880,
+        "num": 202321,
+        "word": "硅谷银行新CEO回应",
+        "onboard_time": 1678759587,
+        "rank": 35,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 123829,
+        "num": 202318,
+        "word": "大爷充29万做美容反悔起诉退钱",
+        "onboard_time": 1678717168,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106196,
+        "num": 202308,
+        "word": "周杰伦演唱会",
+        "onboard_time": 1678719568,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 102174,
+        "num": 202308,
+        "word": "妈妈绣22米长清明上河图送女儿",
+        "onboard_time": 1678752806,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101475,
+        "num": 202295,
+        "word": "爱奇艺考虑拍狂飙电影版",
+        "onboard_time": 1678720106,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 87770,
+        "num": 202294,
+        "word": "我国民间乒乓球藏龙又卧虎",
+        "onboard_time": 1678754906,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84360,
+        "num": 202288,
+        "word": "黑莲花",
+        "onboard_time": 1678709905,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 84187,
+        "num": 202277,
+        "word": "美国两家银行接连关闭",
+        "onboard_time": 1678753826,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 81444,
+        "num": 202274,
+        "word": "贾昊回应杜锋被驱逐风波",
+        "onboard_time": 1678754487,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79249,
+        "num": 202264,
+        "word": "火速加入瘦肚子挑战",
+        "onboard_time": 1678743191,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78937,
+        "num": 202259,
+        "word": "22岁的丫丫约等于人类的80岁",
+        "onboard_time": 1678699226,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78310,
+        "num": 202251,
+        "word": "日本女游客在印度遭骚扰反道歉",
+        "onboard_time": 1678710808,
+        "rank": 46,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 67412,
+        "num": 202245,
+        "word": "徐艺洋出演黄子韬新剧",
+        "onboard_time": 1678712489,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 61550,
+        "num": 202239,
+        "word": "女孩出汗把衣服染蓝查出色汗症",
+        "onboard_time": 1678708706,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55707,
+        "num": 202231,
+        "word": "于冬说无名9亿票房很满意",
+        "onboard_time": 1678716207,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#明日中国先导片#"
+    }
+  }
+}
