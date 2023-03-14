@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678764026133,
+  "endTime": 1678764869073,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -348,7 +348,7 @@
     },
     {
       "raw_hot": 2326521,
-      "num": 298893,
+      "num": 307623,
       "word": "韩国SBS剪掉杨紫琼获奖感言女性部分",
       "onboard_time": 1678759046,
       "rank": 20,
@@ -3273,6 +3273,14 @@
       "onboard_time": 1677686724,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 878454,
+      "num": 699203,
+      "word": "大侦探",
+      "onboard_time": 1677733111,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 877549,
@@ -6691,6 +6699,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 553858,
+      "num": 553858,
+      "word": "无名中国香港票房破10万美元",
+      "onboard_time": 1678761505,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 553776,
       "num": 553776,
       "word": "代表称要理解和尊重不婚女性",
@@ -7779,14 +7795,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 499820,
-      "num": 499820,
-      "word": "无名中国香港票房破10万美元",
-      "onboard_time": 1678761505,
-      "rank": 12,
-      "category": "影视"
-    },
-    {
       "raw_hot": 499516,
       "num": 225291,
       "word": "杨紫琼从history到herstory",
@@ -8185,14 +8193,6 @@
       "onboard_time": 1678355547,
       "rank": 10,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 480739,
-      "num": 480739,
-      "word": "大侦探",
-      "onboard_time": 1677733111,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 480654,
@@ -8707,6 +8707,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 451164,
+      "num": 451164,
+      "word": "井柏然谭松韵新剧从校服到婚纱",
+      "onboard_time": 1678763126,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 451043,
       "num": 451043,
       "word": "警方通报甘孜村民多次拦车要红包",
@@ -9049,6 +9057,14 @@
       "onboard_time": 1677850045,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 434389,
+      "num": 434389,
+      "word": "星落凝成糖新滤镜",
+      "onboard_time": 1678763787,
+      "rank": 21,
+      "category": "影视,科技"
     },
     {
       "raw_hot": 434360,
@@ -9441,6 +9457,14 @@
       "onboard_time": 1678176564,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 417213,
+      "num": 417213,
+      "word": "库里领唱中文版小星星",
+      "onboard_time": 1678761686,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 416904,
@@ -10459,14 +10483,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 373256,
-      "num": 373256,
-      "word": "库里领唱中文版小星星",
-      "onboard_time": 1678761686,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 372688,
       "num": 372688,
       "word": "金龟子如何看待女儿早恋",
@@ -10673,6 +10689,14 @@
       "onboard_time": 1678623508,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 367163,
+      "num": 367163,
+      "word": "5岁男孩患白血病两年半化疗26次",
+      "onboard_time": 1678763846,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 366882,
@@ -12515,6 +12539,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 312746,
+      "num": 312746,
+      "word": "上班通勤四小时是什么体验",
+      "onboard_time": 1678764326,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 312455,
       "num": 223577,
       "word": "星落凝成糖 HE",
@@ -12705,14 +12737,6 @@
       "onboard_time": 1677607576,
       "rank": 31,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 306886,
-      "num": 306886,
-      "word": "井柏然谭松韵新剧从校服到婚纱",
-      "onboard_time": 1678763126,
-      "rank": 19,
-      "category": "影视"
     },
     {
       "raw_hot": 306882,
@@ -13243,14 +13267,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 290431,
-      "num": 290431,
-      "word": "星落凝成糖新滤镜",
-      "onboard_time": 1678763787,
-      "rank": 21,
-      "category": "影视,科技"
-    },
-    {
       "raw_hot": 290366,
       "num": 290366,
       "word": "KPOP4月回归阵容",
@@ -13753,6 +13769,14 @@
       "onboard_time": 1678331007,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 275073,
+      "num": 275073,
+      "word": "中国乒乓网播定档",
+      "onboard_time": 1678764085,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 274968,
@@ -16883,6 +16907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 207477,
+      "num": 207477,
+      "word": "不良笑花里的陈妍希",
+      "onboard_time": 1678764684,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 207446,
       "num": 207446,
       "word": "芒禾音乐节",
@@ -17025,6 +17057,14 @@
       "onboard_time": 1678410387,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 206225,
+      "num": 206225,
+      "word": "王源胡子剧照",
+      "onboard_time": 1678764506,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 206210,
@@ -17873,6 +17913,14 @@
       "onboard_time": 1678084165,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199192,
+      "num": 199192,
+      "word": "丁禹兮彭小苒吻戏",
+      "onboard_time": 1678764567,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 199176,
@@ -19241,6 +19289,14 @@
       "onboard_time": 1677666089,
       "rank": 49,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 185506,
+      "num": 185506,
+      "word": "他是谁开播",
+      "onboard_time": 1678764567,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 185491,
@@ -24051,14 +24107,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 110763,
-      "num": 150749,
-      "word": "5岁男孩患白血病两年半化疗26次",
-      "onboard_time": 1678763846,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 110724,
       "num": 110724,
       "word": "计划生育宣传语应及时清理",
@@ -27084,6 +27132,9 @@
     },
     {
       "word": "#强国建设民族复兴#"
+    },
+    {
+      "word": "#习近平总书记两会金句#"
     }
   ]
 }

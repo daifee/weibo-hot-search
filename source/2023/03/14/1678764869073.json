@@ -1,0 +1,410 @@
+{
+  "runTime": 1678764869073,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1206033,
+        "num": 1206033,
+        "word": "国考",
+        "onboard_time": 1678760005,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 775293,
+        "num": 775293,
+        "word": "白色情人节",
+        "onboard_time": 1678761806,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 68766,
+        "num": 707785,
+        "word": "春天里的中国自带氛围感",
+        "onboard_time": 1678752746,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 878454,
+        "num": 699203,
+        "word": "大侦探",
+        "onboard_time": 1678763667,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 686047,
+        "num": 686047,
+        "word": "A股",
+        "onboard_time": 1678762464,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 596647,
+        "num": 596647,
+        "word": "京考",
+        "onboard_time": 1678761449,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 553858,
+        "num": 553858,
+        "word": "无名中国香港票房破10万美元",
+        "onboard_time": 1678761505,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 451164,
+        "num": 451164,
+        "word": "井柏然谭松韵新剧从校服到婚纱",
+        "onboard_time": 1678763126,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 434389,
+        "num": 434389,
+        "word": "星落凝成糖新滤镜",
+        "onboard_time": 1678763787,
+        "rank": 8,
+        "category": "影视,科技"
+      },
+      {
+        "raw_hot": 430795,
+        "num": 430795,
+        "word": "华晨宇回家乡湖北开演唱会",
+        "onboard_time": 1678761745,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 904671,
+        "num": 427177,
+        "word": "TFBOYS十周年演唱会许可证",
+        "onboard_time": 1678759826,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 609749,
+        "num": 422360,
+        "word": "公司回应员工因给客户倒水太满被开除",
+        "onboard_time": 1678757544,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417213,
+        "num": 417213,
+        "word": "库里领唱中文版小星星",
+        "onboard_time": 1678761686,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 405197,
+        "num": 405197,
+        "word": "甲流抗原售价已超新冠抗原10倍",
+        "onboard_time": 1678753586,
+        "rank": 13,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 387321,
+        "num": 387321,
+        "word": "电影我看见两朵一样的云",
+        "onboard_time": 1678761024,
+        "rank": 14,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 367163,
+        "num": 367163,
+        "word": "5岁男孩患白血病两年半化疗26次",
+        "onboard_time": 1678763846,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363375,
+        "num": 363375,
+        "word": "赵露思金色华服路透",
+        "onboard_time": 1678758866,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 342631,
+        "num": 342631,
+        "word": "师生在校期间不强制要求戴口罩",
+        "onboard_time": 1678757366,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314940,
+        "num": 314940,
+        "word": "每个人的生日都能在圆周率中找到",
+        "onboard_time": 1678749678,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312746,
+        "num": 312746,
+        "word": "上班通勤四小时是什么体验",
+        "onboard_time": 1678764326,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1855231,
+        "num": 307623,
+        "word": "韩国SBS剪掉杨紫琼获奖感言女性部分",
+        "onboard_time": 1678759046,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301083,
+        "num": 301083,
+        "word": "网友实验证明三星拍摄月亮存在造假",
+        "onboard_time": 1678758324,
+        "rank": 21,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 292298,
+        "num": 292298,
+        "word": "315骗假不留",
+        "onboard_time": 1678758083,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 275073,
+        "num": 275073,
+        "word": "中国乒乓网播定档",
+        "onboard_time": 1678764085,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 274573,
+        "num": 274573,
+        "word": "电影铃芽之旅",
+        "onboard_time": 1678762703,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 245692,
+        "num": 245692,
+        "word": "硅谷银行破产最惨踩雷机构",
+        "onboard_time": 1678756886,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 240095,
+        "num": 240095,
+        "word": "大连理工出版社回应图片选取不当",
+        "onboard_time": 1678756645,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227498,
+        "num": 227498,
+        "word": "iPhone15若限充电速度或违反欧盟法律",
+        "onboard_time": 1678754607,
+        "rank": 27,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 222015,
+        "num": 222015,
+        "word": "忠犬八公狗狗的爱都在陪伴里",
+        "onboard_time": 1678763605,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 217977,
+        "num": 217977,
+        "word": "重紫大婚海报",
+        "onboard_time": 1678762885,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207477,
+        "num": 207477,
+        "word": "不良笑花里的陈妍希",
+        "onboard_time": 1678764684,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 206225,
+        "num": 206225,
+        "word": "王源胡子剧照",
+        "onboard_time": 1678764506,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199192,
+        "num": 199192,
+        "word": "丁禹兮彭小苒吻戏",
+        "onboard_time": 1678764567,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 185506,
+        "num": 185506,
+        "word": "他是谁开播",
+        "onboard_time": 1678764567,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 184849,
+        "num": 184849,
+        "word": "黑暗荣耀花絮",
+        "onboard_time": 1678756347,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 181420,
+        "num": 181420,
+        "word": "感染甲流后哪种情况需就医",
+        "onboard_time": 1678757067,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181019,
+        "num": 181019,
+        "word": "美国一城市为霉霉巡演更名",
+        "onboard_time": 1678750221,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 180968,
+        "num": 180968,
+        "word": "太阳vs勇士",
+        "onboard_time": 1678760126,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179493,
+        "num": 179493,
+        "word": "硅谷银行买家浮现",
+        "onboard_time": 1678763246,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 176688,
+        "num": 176688,
+        "word": "硅谷银行开门储户大排长龙取款",
+        "onboard_time": 1678753708,
+        "rank": 39,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 175476,
+        "num": 175476,
+        "word": "蔡徐坤 微博之夜",
+        "onboard_time": 1678759164,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153524,
+        "num": 153524,
+        "word": "分娩之痛并非天经地义",
+        "onboard_time": 1678734671,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153169,
+        "num": 153169,
+        "word": "李梦宣布加盟华盛顿神秘人",
+        "onboard_time": 1678755626,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149375,
+        "num": 149375,
+        "word": "gidleTomBoy发行一周年",
+        "onboard_time": 1678760784,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 144585,
+        "num": 144585,
+        "word": "电影暴风定档",
+        "onboard_time": 1678760425,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 143303,
+        "num": 143303,
+        "word": "他是谁",
+        "onboard_time": 1678750763,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 138266,
+        "num": 138266,
+        "word": "女子自学医美给他人手术致8级伤残",
+        "onboard_time": 1678716207,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121337,
+        "num": 121337,
+        "word": "不吃主食或造成大脑功能衰退",
+        "onboard_time": 1678729394,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119042,
+        "num": 119042,
+        "word": "曾经穷游的泰国贵到去不起了",
+        "onboard_time": 1678707684,
+        "rank": 48,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 115766,
+        "num": 115766,
+        "word": "周深铃芽之旅MV",
+        "onboard_time": 1678763304,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记两会金句#"
+    }
+  }
+}
