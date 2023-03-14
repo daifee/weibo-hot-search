@@ -1,6 +1,6 @@
 {
   "startTime": 1678724793394,
-  "endTime": 1678771079585,
+  "endTime": 1678772026038,
   "band_list": [
     {
       "raw_hot": 3314139,
@@ -89,6 +89,14 @@
       "onboard_time": 1678757544,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 859879,
+      "num": 433043,
+      "word": "鹿晗 杭州",
+      "onboard_time": 1678771048,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 859737,
@@ -195,8 +203,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 596899,
-      "num": 596899,
+      "raw_hot": 613917,
+      "num": 613917,
       "word": "梁朝伟刘德华二十年后再合作",
       "onboard_time": 1678770330,
       "rank": 5,
@@ -241,6 +249,14 @@
       "onboard_time": 1678761505,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 544297,
+      "num": 544297,
+      "word": "多家电商平台有女性迷药隐蔽出售",
+      "onboard_time": 1678769132,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 509106,
@@ -289,14 +305,6 @@
       "onboard_time": 1678764988,
       "rank": 7,
       "category": "情感"
-    },
-    {
-      "raw_hot": 490785,
-      "num": 490785,
-      "word": "多家电商平台有女性迷药隐蔽出售",
-      "onboard_time": 1678769132,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 486238,
@@ -363,6 +371,14 @@
       "category": "影视,科技"
     },
     {
+      "raw_hot": 430910,
+      "num": 430910,
+      "word": "陈飞宇最新机场路透",
+      "onboard_time": 1678770928,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 427927,
       "num": 427927,
       "word": "315骗假不留",
@@ -385,6 +401,14 @@
       "onboard_time": 1678761686,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 416497,
+      "num": 416497,
+      "word": "幼师教升旗用英文口号被质疑",
+      "onboard_time": 1678770090,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 400271,
@@ -451,6 +475,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 340079,
+      "num": 300765,
+      "word": "张家辉陈伟霆爆裂开打",
+      "onboard_time": 1678770928,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 325492,
       "num": 293184,
       "word": "大爷充29万做美容反悔起诉退钱",
@@ -499,6 +531,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 301324,
+      "num": 301324,
+      "word": "莎头",
+      "onboard_time": 1678771588,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 301288,
       "num": 301288,
       "word": "妈妈绣22米长清明上河图送女儿",
@@ -539,27 +579,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 271851,
-      "num": 271851,
-      "word": "幼师教升旗用英文口号被质疑",
-      "onboard_time": 1678770090,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 270590,
       "num": 270590,
       "word": "柠萌影视2023片单",
       "onboard_time": 1678768472,
       "rank": 21,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 270524,
-      "num": 270524,
-      "word": "张家辉陈伟霆爆裂开打",
-      "onboard_time": 1678770928,
-      "rank": 23,
       "category": "影视"
     },
     {
@@ -633,6 +657,14 @@
       "onboard_time": 1678710808,
       "rank": 25,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 229391,
+      "num": 229391,
+      "word": "谭松韵新剧校服造型梦回李尖尖",
+      "onboard_time": 1678771169,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 219990,
@@ -731,6 +763,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 190111,
+      "num": 190111,
+      "word": "勇士战胜太阳",
+      "onboard_time": 1678770691,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 185361,
       "num": 161480,
       "word": "新上错花轿嫁对郎改名",
@@ -747,14 +787,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 180802,
-      "num": 180802,
-      "word": "陈飞宇最新机场路透",
-      "onboard_time": 1678770928,
-      "rank": 32,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 175954,
       "num": 175954,
       "word": "董明珠说员工被培养多年理应不去同业",
@@ -769,14 +801,6 @@
       "onboard_time": 1678757305,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 168783,
-      "num": 168783,
-      "word": "勇士战胜太阳",
-      "onboard_time": 1678770691,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 162740,
@@ -931,12 +955,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 122972,
-      "num": 122972,
-      "word": "鹿晗 杭州",
-      "onboard_time": 1678771048,
-      "rank": 49,
-      "category": "艺人"
+      "raw_hot": 122910,
+      "num": 122910,
+      "word": "光遇",
+      "onboard_time": 1678771949,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 119813,
+      "num": 119813,
+      "word": "美国3岁女童玩枪打死4岁姐姐",
+      "onboard_time": 1678772009,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 118352,

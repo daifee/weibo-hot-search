@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678771079585,
+  "endTime": 1678772026038,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -3435,6 +3435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 859879,
+      "num": 433043,
+      "word": "鹿晗 杭州",
+      "onboard_time": 1678771048,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 859737,
       "num": 682818,
       "word": "大连理工出版社回应图片选取不当",
@@ -5875,6 +5883,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 613917,
+      "num": 613917,
+      "word": "梁朝伟刘德华二十年后再合作",
+      "onboard_time": 1678770330,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 612948,
       "num": 631393,
       "word": "委员称无痛分娩是该单独入医保了",
@@ -6113,14 +6129,6 @@
       "onboard_time": 1678335812,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 596899,
-      "num": 596899,
-      "word": "梁朝伟刘德华二十年后再合作",
-      "onboard_time": 1678770330,
-      "rank": 5,
-      "category": "影视"
     },
     {
       "raw_hot": 595958,
@@ -6985,6 +6993,14 @@
       "onboard_time": 1677773485,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 544297,
+      "num": 544297,
+      "word": "多家电商平台有女性迷药隐蔽出售",
+      "onboard_time": 1678769132,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 543968,
@@ -8049,14 +8065,6 @@
       "onboard_time": 1678505372,
       "rank": 19,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 490785,
-      "num": 490785,
-      "word": "多家电商平台有女性迷药隐蔽出售",
-      "onboard_time": 1678769132,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 490635,
@@ -9227,6 +9235,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 430910,
+      "num": 430910,
+      "word": "陈飞宇最新机场路透",
+      "onboard_time": 1678770928,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 430823,
       "num": 430823,
       "word": "星落凝成糖",
@@ -9585,6 +9601,14 @@
       "onboard_time": 1678691966,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 416497,
+      "num": 416497,
+      "word": "幼师教升旗用英文口号被质疑",
+      "onboard_time": 1678770090,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 414431,
@@ -11747,6 +11771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 340079,
+      "num": 300765,
+      "word": "张家辉陈伟霆爆裂开打",
+      "onboard_time": 1678770928,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 340017,
       "num": 340017,
       "word": "浦发硅谷银行公告",
@@ -13019,6 +13051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 301324,
+      "num": 301324,
+      "word": "莎头",
+      "onboard_time": 1678771588,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 301322,
       "num": 301322,
       "word": "黑暗荣耀2里的清醒台词",
@@ -14027,14 +14067,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 271851,
-      "num": 271851,
-      "word": "幼师教升旗用英文口号被质疑",
-      "onboard_time": 1678770090,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 271442,
       "num": 271442,
       "word": "妇女节文案",
@@ -14080,14 +14112,6 @@
       "word": "柠萌影视2023片单",
       "onboard_time": 1678768472,
       "rank": 21,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 270524,
-      "num": 270524,
-      "word": "张家辉陈伟霆爆裂开打",
-      "onboard_time": 1678770928,
-      "rank": 23,
       "category": "影视"
     },
     {
@@ -15809,6 +15833,14 @@
       "onboard_time": 1677734368,
       "rank": 31,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 229391,
+      "num": 229391,
+      "word": "谭松韵新剧校服造型梦回李尖尖",
+      "onboard_time": 1678771169,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 229038,
@@ -19075,6 +19107,14 @@
       "category": "幽默,时尚"
     },
     {
+      "raw_hot": 190111,
+      "num": 190111,
+      "word": "勇士战胜太阳",
+      "onboard_time": 1678770691,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190050,
       "num": 160106,
       "word": "黑暗荣耀见面会现场照片",
@@ -19713,14 +19753,6 @@
       "onboard_time": 1678444467,
       "rank": 46,
       "category": "财经"
-    },
-    {
-      "raw_hot": 180802,
-      "num": 180802,
-      "word": "陈飞宇最新机场路透",
-      "onboard_time": 1678770928,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 180382,
@@ -20465,14 +20497,6 @@
       "onboard_time": 1677983786,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 168783,
-      "num": 168783,
-      "word": "勇士战胜太阳",
-      "onboard_time": 1678770691,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 168667,
@@ -23515,14 +23539,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 122972,
-      "num": 122972,
-      "word": "鹿晗 杭州",
-      "onboard_time": 1678771048,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 122939,
       "num": 122939,
       "word": "RNG三连败",
@@ -23673,6 +23689,14 @@
       "onboard_time": 1678608206,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 119813,
+      "num": 119813,
+      "word": "美国3岁女童玩枪打死4岁姐姐",
+      "onboard_time": 1678772009,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 119745,
