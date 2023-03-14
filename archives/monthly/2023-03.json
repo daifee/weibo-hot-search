@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678808405469,
+  "endTime": 1678811567881,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -385,6 +385,14 @@
       "onboard_time": 1678759046,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2252522,
+      "num": 2252522,
+      "word": "315",
+      "onboard_time": 1678801351,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2245944,
@@ -1097,14 +1105,6 @@
       "onboard_time": 1678464924,
       "rank": 10,
       "category": "科技,影视"
-    },
-    {
-      "raw_hot": 1592737,
-      "num": 1592737,
-      "word": "315",
-      "onboard_time": 1678801351,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1591473,
@@ -8595,6 +8595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 483291,
+      "num": 152891,
+      "word": "男子辞职摆摊拍照1月内激增14家同行",
+      "onboard_time": 1678808548,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 482947,
       "num": 482947,
       "word": "创造101乐华初舞台彩排未公开版",
@@ -10027,6 +10035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 416912,
+      "num": 416912,
+      "word": "遇到房东不退押金就这样做",
+      "onboard_time": 1678807348,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 416904,
       "num": 227217,
       "word": "文韬蒲熠星唐九洲名学6reaction",
@@ -11073,6 +11089,14 @@
       "onboard_time": 1678006646,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 374922,
+      "num": 374922,
+      "word": "国考排名",
+      "onboard_time": 1678807889,
+      "rank": 31,
+      "category": "教育"
     },
     {
       "raw_hot": 374661,
@@ -16091,14 +16115,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 240343,
-      "num": 240343,
-      "word": "遇到房东不退押金就这样做",
-      "onboard_time": 1678807348,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 240333,
       "num": 240333,
       "word": "丁真新歌",
@@ -18481,14 +18497,6 @@
       "onboard_time": 1678249710,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 203015,
-      "num": 203015,
-      "word": "国考排名",
-      "onboard_time": 1678807889,
-      "rank": 31,
-      "category": "教育"
     },
     {
       "raw_hot": 202960,
@@ -26657,6 +26665,14 @@
       "onboard_time": 1677572791,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 89568,
+      "num": 89568,
+      "word": "当词汇量到达一定量的时候",
+      "onboard_time": 1678811184,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 89542,
