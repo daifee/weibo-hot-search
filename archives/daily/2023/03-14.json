@@ -1,6 +1,6 @@
 {
   "startTime": 1678724793394,
-  "endTime": 1678786569371,
+  "endTime": 1678789444763,
   "band_list": [
     {
       "raw_hot": 3314139,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1994978,
-      "num": 389024,
+      "num": 465267,
       "word": "宁艺卓右眼几乎看不到",
       "onboard_time": 1678776508,
       "rank": 10,
@@ -51,12 +51,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1671846,
+      "num": 648989,
+      "word": "刘亚仁吸毒证据超10000张",
+      "onboard_time": 1678785510,
+      "rank": 22,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1664004,
       "num": 1664004,
       "word": "上班通勤四小时是什么体验",
       "onboard_time": 1678764326,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1633207,
+      "num": 641787,
+      "word": "杭州一套凶宅低于市场价73万成交",
+      "onboard_time": 1678787130,
+      "rank": 5,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 1559346,
@@ -73,14 +89,6 @@
       "onboard_time": 1678760005,
       "rank": 0,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1338821,
-      "num": 601959,
-      "word": "刘亚仁吸毒证据超10000张",
-      "onboard_time": 1678785510,
-      "rank": 22,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1336503,
@@ -116,7 +124,7 @@
     },
     {
       "raw_hot": 1064293,
-      "num": 1064293,
+      "num": 1170258,
       "word": "黑暗荣耀里的蛇是真蛇",
       "onboard_time": 1678783528,
       "rank": 0,
@@ -251,12 +259,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 658713,
+      "num": 658713,
+      "word": "你好星期六好六街官宣升级",
+      "onboard_time": 1678787731,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 653162,
       "num": 513031,
       "word": "每个人的生日都能在圆周率中找到",
       "onboard_time": 1678749678,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 641083,
+      "num": 641083,
+      "word": "微博之夜",
+      "onboard_time": 1678702526,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 629064,
@@ -395,6 +419,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 506604,
+      "num": 506604,
+      "word": "蔚来",
+      "onboard_time": 1678787190,
+      "rank": 8,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 505511,
       "num": 505511,
       "word": "莎头",
@@ -499,6 +531,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 473495,
+      "num": 463986,
+      "word": "张俪看自己被公主抱看了10遍",
+      "onboard_time": 1678788630,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 471487,
       "num": 471487,
       "word": "刘亦菲 微博之夜",
@@ -513,6 +553,14 @@
       "onboard_time": 1678764567,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 466667,
+      "num": 466667,
+      "word": "声生不息宝岛季首发阵容",
+      "onboard_time": 1678786349,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 451164,
@@ -619,6 +667,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 385174,
+      "num": 385174,
+      "word": "蔡依林说请大家先听别人的专辑",
+      "onboard_time": 1678787670,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 383764,
       "num": 383764,
       "word": "他是谁首播收视率",
@@ -715,6 +771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 323663,
+      "num": 323663,
+      "word": "EXO最新节目预告",
+      "onboard_time": 1678789049,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 320395,
       "num": 320395,
       "word": "声生不息",
@@ -756,7 +820,7 @@
     },
     {
       "raw_hot": 310830,
-      "num": 208276,
+      "num": 218685,
       "word": "韩俊同志任安徽省委书记",
       "onboard_time": 1678784189,
       "rank": 30,
@@ -785,6 +849,14 @@
       "onboard_time": 1678752323,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 299040,
+      "num": 270081,
+      "word": "半熟恋人",
+      "onboard_time": 1678788451,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 278325,
@@ -931,12 +1003,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 242841,
+      "num": 242841,
+      "word": "魏如萱首个内地常驻综艺",
+      "onboard_time": 1678788570,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 240087,
       "num": 240087,
       "word": "黑暗荣耀2",
       "onboard_time": 1678780230,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 232234,
+      "num": 232234,
+      "word": "薛之谦演唱会",
+      "onboard_time": 1678786409,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 231965,
@@ -955,6 +1043,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 231241,
+      "num": 231241,
+      "word": "KAI出道评价会视频公开",
+      "onboard_time": 1678788811,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 229391,
       "num": 229391,
       "word": "谭松韵新剧校服造型梦回李尖尖",
@@ -971,6 +1067,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 220233,
+      "num": 220233,
+      "word": "吃个饭五官都张开了",
+      "onboard_time": 1678786888,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 219990,
       "num": 230992,
       "word": "女孩出汗把衣服染蓝查出色汗症",
@@ -985,14 +1089,6 @@
       "onboard_time": 1678712489,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 208317,
-      "num": 208317,
-      "word": "声生不息宝岛季首发阵容",
-      "onboard_time": 1678786349,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 207001,
@@ -1107,6 +1203,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 187943,
+      "num": 217585,
+      "word": "张译卫国平隐忍式哭戏",
+      "onboard_time": 1678789231,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 186825,
+      "num": 217842,
+      "word": "卧底揭秘海鲜加工厂的狠活",
+      "onboard_time": 1678787431,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 186280,
       "num": 204936,
       "word": "宋妍霏新歌制作人是暗格里的秘密导演",
@@ -1129,14 +1241,6 @@
       "onboard_time": 1678754487,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 178343,
-      "num": 208302,
-      "word": "薛之谦演唱会",
-      "onboard_time": 1678786409,
-      "rank": 27,
-      "category": "音乐"
     },
     {
       "raw_hot": 176891,
@@ -1172,7 +1276,7 @@
     },
     {
       "raw_hot": 164006,
-      "num": 208280,
+      "num": 217511,
       "word": "原神白色情人节",
       "onboard_time": 1678783469,
       "rank": 34,
@@ -1267,6 +1371,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 151399,
+      "num": 217530,
+      "word": "归路",
+      "onboard_time": 1678785569,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 151017,
       "num": 237459,
       "word": "葛优王俊凯电影刺猬预计今年上映",
@@ -1339,14 +1451,6 @@
       "category": "其它"
     },
     {
-      "raw_hot": 135168,
-      "num": 208175,
-      "word": "归路",
-      "onboard_time": 1678785569,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 134888,
       "num": 150750,
       "word": "王源文淇新片概念海报曝光",
@@ -1380,7 +1484,7 @@
     },
     {
       "raw_hot": 127220,
-      "num": 208192,
+      "num": 217457,
       "word": "沈晓明同志任湖南省委书记",
       "onboard_time": 1678784908,
       "rank": 36,
@@ -1417,14 +1521,6 @@
       "onboard_time": 1678780829,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 118352,
-      "num": 142596,
-      "word": "微博之夜",
-      "onboard_time": 1678702526,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 117674,
@@ -1593,6 +1689,14 @@
       "onboard_time": 1678698506,
       "rank": 46,
       "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 64715,
+      "num": 217433,
+      "word": "福岛核污染水含60多种放射性核素",
+      "onboard_time": 1678789290,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 60332,
