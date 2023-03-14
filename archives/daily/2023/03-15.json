@@ -1,6 +1,6 @@
 {
   "startTime": 1678811567881,
-  "endTime": 1678833285778,
+  "endTime": 1678835916546,
   "band_list": [
     {
       "raw_hot": 2252522,
@@ -11,7 +11,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1121950,
+      "raw_hot": 1203162,
       "num": 523881,
       "word": "女演员实名举报五星级酒店",
       "onboard_time": 1678795046,
@@ -27,11 +27,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 637636,
+      "raw_hot": 653376,
       "num": 523070,
       "word": "台军失踪士兵在厦门吃好睡好",
       "onboard_time": 1678806150,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 551088,
+      "num": 551088,
+      "word": "重庆一鱼塘神秘大坑吞噬2万斤鱼",
+      "onboard_time": 1678805252,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -99,14 +107,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 325198,
-      "num": 325198,
-      "word": "重庆一鱼塘神秘大坑吞噬2万斤鱼",
-      "onboard_time": 1678805252,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 318023,
       "num": 152715,
       "word": "杭州一套凶宅低于市场价73万成交",
@@ -147,6 +147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 233050,
+      "num": 233050,
+      "word": "哈兰德五子登科",
+      "onboard_time": 1678835541,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 232784,
       "num": 232784,
       "word": "去冰 少冰",
@@ -171,8 +179,16 @@
       "category": "影视"
     },
     {
-      "raw_hot": 169760,
-      "num": 169760,
+      "raw_hot": 195017,
+      "num": 195017,
+      "word": "动物园棕熊听懂人话被质疑是人假扮",
+      "onboard_time": 1678796070,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171648,
+      "num": 171648,
       "word": "微博年度热度人物",
       "onboard_time": 1678799491,
       "rank": 18,
@@ -195,6 +211,22 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 149260,
+      "num": 149260,
+      "word": "曼城7比0莱比锡",
+      "onboard_time": 1678835722,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 148581,
+      "num": 148581,
+      "word": "杨紫高马尾条纹衫路透",
+      "onboard_time": 1678812560,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 146774,
       "num": 146774,
       "word": "卫国平下水道里摸尸块",
@@ -211,14 +243,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 140362,
-      "num": 140362,
-      "word": "动物园棕熊听懂人话被质疑是人假扮",
-      "onboard_time": 1678796070,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 135720,
       "num": 135720,
       "word": "河道英全在俊演过霜花店",
@@ -233,6 +257,14 @@
       "onboard_time": 1678804952,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 129753,
+      "num": 129753,
+      "word": "欧冠",
+      "onboard_time": 1678835661,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 128623,
@@ -315,14 +347,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 104160,
-      "num": 104160,
-      "word": "杨紫高马尾条纹衫路透",
-      "onboard_time": 1678812560,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 101547,
       "num": 101547,
       "word": "上岸了",
@@ -355,6 +379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 91623,
+      "num": 91623,
+      "word": "原来长河落日圆如此壮美",
+      "onboard_time": 1678835781,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 88805,
       "num": 88805,
       "word": "什么都馋只会害了你",
@@ -369,6 +401,14 @@
       "onboard_time": 1678802136,
       "rank": 44,
       "category": "教育"
+    },
+    {
+      "raw_hot": 84728,
+      "num": 84728,
+      "word": "空气污染研究表明全球几无安全之地",
+      "onboard_time": 1678829831,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 82585,
@@ -411,6 +451,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 67718,
+      "num": 67718,
+      "word": "魏如萱首个内地常驻综艺",
+      "onboard_time": 1678788570,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 65710,
+      "num": 65710,
+      "word": "庞博说余陶然孙沐雨像在公费过日子",
+      "onboard_time": 1678834037,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 63031,
       "num": 128332,
       "word": "中方明起扩大公民出境团队游国家范围",
@@ -425,14 +481,6 @@
       "onboard_time": 1678814058,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 54757,
-      "num": 54757,
-      "word": "空气污染研究表明全球几无安全之地",
-      "onboard_time": 1678829831,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 44224,
@@ -451,7 +499,7 @@
       "category": "教育"
     },
     {
-      "raw_hot": 5031,
+      "raw_hot": 8061,
       "num": 603643,
       "word": "这就是春天里的中国",
       "onboard_time": 1678628848,
