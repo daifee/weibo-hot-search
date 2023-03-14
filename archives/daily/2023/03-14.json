@@ -1,6 +1,6 @@
 {
   "startTime": 1678724793394,
-  "endTime": 1678779218530,
+  "endTime": 1678782422341,
   "band_list": [
     {
       "raw_hot": 3314139,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1994978,
-      "num": 336257,
+      "num": 362749,
       "word": "宁艺卓右眼几乎看不到",
       "onboard_time": 1678776508,
       "rank": 10,
@@ -195,8 +195,24 @@
       "category": "影视"
     },
     {
+      "raw_hot": 686809,
+      "num": 686809,
+      "word": "甲流与新冠有可能叠加感染吗",
+      "onboard_time": 1678777349,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 685621,
+      "num": 353756,
+      "word": "杨紫琼获奖 马国明放假",
+      "onboard_time": 1678781308,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 673651,
-      "num": 332961,
+      "num": 347369,
       "word": "河道英 全在俊",
       "onboard_time": 1678777769,
       "rank": 14,
@@ -259,12 +275,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 594690,
-      "num": 594690,
-      "word": "甲流与新冠有可能叠加感染吗",
-      "onboard_time": 1678777349,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 599780,
+      "num": 599780,
+      "word": "阿根廷国家队关于中国行声明",
+      "onboard_time": 1678776867,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 570040,
@@ -315,20 +331,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 547656,
-      "num": 330537,
-      "word": "阿根廷国家队关于中国行声明",
-      "onboard_time": 1678776867,
-      "rank": 11,
-      "category": "体育"
-    },
-    {
       "raw_hot": 544297,
       "num": 544297,
       "word": "多家电商平台有女性迷药隐蔽出售",
       "onboard_time": 1678769132,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 526692,
+      "num": 342189,
+      "word": "她拿格莱美才会刺激到张曼玉",
+      "onboard_time": 1678776748,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 512051,
@@ -435,6 +451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 482169,
+      "num": 482169,
+      "word": "双子座真的很需要夸奖",
+      "onboard_time": 1678780289,
+      "rank": 7,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 475762,
       "num": 475762,
       "word": "他是谁",
@@ -451,19 +475,19 @@
       "category": "财经"
     },
     {
+      "raw_hot": 471487,
+      "num": 471487,
+      "word": "刘亦菲 微博之夜",
+      "onboard_time": 1678779028,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 467075,
       "num": 467075,
       "word": "丁禹兮彭小苒吻戏",
       "onboard_time": 1678764567,
       "rank": 32,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 457570,
-      "num": 326551,
-      "word": "她拿格莱美才会刺激到张曼玉",
-      "onboard_time": 1678776748,
-      "rank": 15,
       "category": "影视"
     },
     {
@@ -563,6 +587,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 363625,
+      "num": 363625,
+      "word": "那些小说中的顶流天花板",
+      "onboard_time": 1678779810,
+      "rank": 9,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 357473,
       "num": 231557,
       "word": "女子自学医美给他人手术致8级伤残",
@@ -601,6 +633,14 @@
       "onboard_time": 1678770928,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 335718,
+      "num": 335718,
+      "word": "腾讯会议再次调整",
+      "onboard_time": 1678778129,
+      "rank": 35,
+      "category": "科技"
     },
     {
       "raw_hot": 325492,
@@ -731,6 +771,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 265544,
+      "num": 265544,
+      "word": "陈星旭李兰迪鼻尖吻删减剧情",
+      "onboard_time": 1678780527,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 261692,
       "num": 261692,
       "word": "苹果首款头显零件照片曝光",
@@ -793,6 +841,14 @@
       "onboard_time": 1678699226,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 240087,
+      "num": 240087,
+      "word": "黑暗荣耀2",
+      "onboard_time": 1678780230,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 231965,
@@ -891,12 +947,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 196700,
+      "num": 239946,
+      "word": "张远觉得王栎鑫改编的嘉宾最差",
+      "onboard_time": 1678781908,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 195669,
       "num": 220739,
       "word": "太阳vs勇士",
       "onboard_time": 1678760126,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 194971,
+      "num": 239383,
+      "word": "安欣vs卫国平",
+      "onboard_time": 1678782268,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 193306,
@@ -939,6 +1011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 187711,
+      "num": 239270,
+      "word": "关晓彤了不起的我们开机生图",
+      "onboard_time": 1678782268,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 185361,
       "num": 161480,
       "word": "新上错花轿嫁对郎改名",
@@ -971,6 +1051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 164287,
+      "num": 239133,
+      "word": "声生不息海报",
+      "onboard_time": 1678779209,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 162740,
       "num": 161458,
       "word": "拜登就银行破产危机讲话",
@@ -987,8 +1075,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161889,
+      "num": 239100,
+      "word": "SMTOWN开办偶像培训班",
+      "onboard_time": 1678779509,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 160468,
-      "num": 160468,
+      "num": 238788,
       "word": "飞鲨歼15昼夜飞行有多帅",
       "onboard_time": 1678777648,
       "rank": 38,
@@ -1027,14 +1123,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 154040,
-      "num": 154040,
-      "word": "声生不息海报",
-      "onboard_time": 1678779209,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 153094,
       "num": 153094,
       "word": "花粉过敏与感冒如何区分",
@@ -1052,7 +1140,7 @@
     },
     {
       "raw_hot": 151017,
-      "num": 151017,
+      "num": 237459,
       "word": "葛优王俊凯电影刺猬预计今年上映",
       "onboard_time": 1678776208,
       "rank": 31,
@@ -1091,20 +1179,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 142255,
-      "num": 142255,
-      "word": "腾讯会议再次调整",
-      "onboard_time": 1678778129,
-      "rank": 35,
-      "category": "科技"
-    },
-    {
       "raw_hot": 140060,
       "num": 186874,
       "word": "李强总理说自己是老网民",
       "onboard_time": 1678696406,
       "rank": 3,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 140026,
+      "num": 238796,
+      "word": "马龙3比0林诗栋",
+      "onboard_time": 1678780230,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 135863,
@@ -1131,6 +1219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 131021,
+      "num": 238607,
+      "word": "看得出她对吃饭的热情",
+      "onboard_time": 1678780350,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 129832,
       "num": 129832,
       "word": "瞬息全宇宙奥斯卡最佳影片",
@@ -1144,6 +1240,14 @@
       "word": "刘雯奥斯卡派对造型",
       "onboard_time": 1678705285,
       "rank": 34,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 125286,
+      "num": 238170,
+      "word": "沈月的野猪一家要出团综了",
+      "onboard_time": 1678781606,
+      "rank": 40,
       "category": "作品衍生"
     },
     {
@@ -1161,6 +1265,14 @@
       "onboard_time": 1678771949,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 122859,
+      "num": 238123,
+      "word": "王源颓废造型",
+      "onboard_time": 1678780829,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 118352,
@@ -1195,12 +1307,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 106773,
-      "num": 106773,
-      "word": "刘亦菲 微博之夜",
-      "onboard_time": 1678779028,
-      "rank": 41,
-      "category": "综艺"
+      "raw_hot": 106316,
+      "num": 237621,
+      "word": "文东恩妈妈和张震演过情侣",
+      "onboard_time": 1678782387,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 105187,

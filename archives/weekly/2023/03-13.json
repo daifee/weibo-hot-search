@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1678779218530,
+  "endTime": 1678782422341,
   "band_list": [
     {
       "raw_hot": 6010597,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1994978,
-      "num": 336257,
+      "num": 362749,
       "word": "宁艺卓右眼几乎看不到",
       "onboard_time": 1678776508,
       "rank": 10,
@@ -619,6 +619,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 686809,
+      "num": 686809,
+      "word": "甲流与新冠有可能叠加感染吗",
+      "onboard_time": 1678777349,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 685621,
+      "num": 353756,
+      "word": "杨紫琼获奖 马国明放假",
+      "onboard_time": 1678781308,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 682806,
       "num": 261325,
       "word": "倾城亦清欢过审",
@@ -628,7 +644,7 @@
     },
     {
       "raw_hot": 673651,
-      "num": 332961,
+      "num": 347369,
       "word": "河道英 全在俊",
       "onboard_time": 1678777769,
       "rank": 14,
@@ -763,12 +779,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 594690,
-      "num": 594690,
-      "word": "甲流与新冠有可能叠加感染吗",
-      "onboard_time": 1678777349,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 599780,
+      "num": 599780,
+      "word": "阿根廷国家队关于中国行声明",
+      "onboard_time": 1678776867,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 584704,
@@ -851,14 +867,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 547656,
-      "num": 330537,
-      "word": "阿根廷国家队关于中国行声明",
-      "onboard_time": 1678776867,
-      "rank": 11,
-      "category": "体育"
-    },
-    {
       "raw_hot": 545797,
       "num": 203899,
       "word": "毛晓彤王子异居家风剧照",
@@ -905,6 +913,14 @@
       "onboard_time": 1678715848,
       "rank": 18,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 526692,
+      "num": 342189,
+      "word": "她拿格莱美才会刺激到张曼玉",
+      "onboard_time": 1678776748,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 524296,
@@ -1115,6 +1131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 482169,
+      "num": 482169,
+      "word": "双子座真的很需要夸奖",
+      "onboard_time": 1678780289,
+      "rank": 7,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 475762,
       "num": 475762,
       "word": "他是谁",
@@ -1139,6 +1163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 471487,
+      "num": 471487,
+      "word": "刘亦菲 微博之夜",
+      "onboard_time": 1678779028,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 467075,
       "num": 467075,
       "word": "丁禹兮彭小苒吻戏",
@@ -1161,14 +1193,6 @@
       "onboard_time": 1678692391,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 457570,
-      "num": 326551,
-      "word": "她拿格莱美才会刺激到张曼玉",
-      "onboard_time": 1678776748,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 456416,
@@ -1499,6 +1523,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 363625,
+      "num": 363625,
+      "word": "那些小说中的顶流天花板",
+      "onboard_time": 1678779810,
+      "rank": 9,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 363292,
       "num": 400636,
       "word": "长辈给狗狗洗脸的方式",
@@ -1633,6 +1665,14 @@
       "onboard_time": 1678635148,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 335718,
+      "num": 335718,
+      "word": "腾讯会议再次调整",
+      "onboard_time": 1678778129,
+      "rank": 35,
+      "category": "科技"
     },
     {
       "raw_hot": 333475,
@@ -1907,6 +1947,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 265544,
+      "num": 265544,
+      "word": "陈星旭李兰迪鼻尖吻删减剧情",
+      "onboard_time": 1678780527,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 264733,
       "num": 182346,
       "word": "李莎拉铅笔PTSD",
@@ -2057,6 +2105,14 @@
       "onboard_time": 1678664965,
       "rank": 1,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 240087,
+      "num": 240087,
+      "word": "黑暗荣耀2",
+      "onboard_time": 1678780230,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 240067,
@@ -2331,12 +2387,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 196700,
+      "num": 239946,
+      "word": "张远觉得王栎鑫改编的嘉宾最差",
+      "onboard_time": 1678781908,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 195669,
       "num": 220739,
       "word": "太阳vs勇士",
       "onboard_time": 1678760126,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 194971,
+      "num": 239383,
+      "word": "安欣vs卫国平",
+      "onboard_time": 1678782268,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 193306,
@@ -2401,6 +2473,14 @@
       "onboard_time": 1678705585,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 187711,
+      "num": 239270,
+      "word": "关晓彤了不起的我们开机生图",
+      "onboard_time": 1678782268,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 184259,
@@ -2499,6 +2579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 164287,
+      "num": 239133,
+      "word": "声生不息海报",
+      "onboard_time": 1678779209,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 163407,
       "num": 163407,
       "word": "张译亮相亚洲电影大奖",
@@ -2515,8 +2603,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161889,
+      "num": 239100,
+      "word": "SMTOWN开办偶像培训班",
+      "onboard_time": 1678779509,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 160468,
-      "num": 160468,
+      "num": 238788,
       "word": "飞鲨歼15昼夜飞行有多帅",
       "onboard_time": 1678777648,
       "rank": 38,
@@ -2545,14 +2641,6 @@
       "onboard_time": 1678752387,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 154040,
-      "num": 154040,
-      "word": "声生不息海报",
-      "onboard_time": 1678779209,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 153291,
@@ -2588,7 +2676,7 @@
     },
     {
       "raw_hot": 151017,
-      "num": 151017,
+      "num": 237459,
       "word": "葛优王俊凯电影刺猬预计今年上映",
       "onboard_time": 1678776208,
       "rank": 31,
@@ -2667,14 +2755,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 142255,
-      "num": 142255,
-      "word": "腾讯会议再次调整",
-      "onboard_time": 1678778129,
-      "rank": 35,
-      "category": "科技"
-    },
-    {
       "raw_hot": 141898,
       "num": 190370,
       "word": "好像聊了又好像什么都没聊",
@@ -2697,6 +2777,14 @@
       "onboard_time": 1678616367,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 140026,
+      "num": 238796,
+      "word": "马龙3比0林诗栋",
+      "onboard_time": 1678780230,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 139907,
@@ -2771,6 +2859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131021,
+      "num": 238607,
+      "word": "看得出她对吃饭的热情",
+      "onboard_time": 1678780350,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 129832,
       "num": 129832,
       "word": "瞬息全宇宙奥斯卡最佳影片",
@@ -2795,12 +2891,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 125286,
+      "num": 238170,
+      "word": "沈月的野猪一家要出团综了",
+      "onboard_time": 1678781606,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 122910,
       "num": 122910,
       "word": "光遇",
       "onboard_time": 1678771949,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 122859,
+      "num": 238123,
+      "word": "王源颓废造型",
+      "onboard_time": 1678780829,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 121067,
@@ -2931,12 +3043,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 106773,
-      "num": 106773,
-      "word": "刘亦菲 微博之夜",
-      "onboard_time": 1678779028,
-      "rank": 41,
-      "category": "综艺"
+      "raw_hot": 106316,
+      "num": 237621,
+      "word": "文东恩妈妈和张震演过情侣",
+      "onboard_time": 1678782387,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 104527,
