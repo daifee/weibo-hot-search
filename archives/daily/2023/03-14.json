@@ -1,6 +1,6 @@
 {
   "startTime": 1678724793394,
-  "endTime": 1678807478676,
+  "endTime": 1678808405469,
   "band_list": [
     {
       "raw_hot": 6995165,
@@ -131,6 +131,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1592737,
+      "num": 1592737,
+      "word": "315",
+      "onboard_time": 1678801351,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1559346,
       "num": 431419,
       "word": "TFBOYS十周年演唱会许可证",
@@ -193,14 +201,6 @@
       "onboard_time": 1678801114,
       "rank": 11,
       "category": "教育"
-    },
-    {
-      "raw_hot": 982365,
-      "num": 982365,
-      "word": "315",
-      "onboard_time": 1678801351,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 972514,
@@ -267,6 +267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 847051,
+      "num": 847051,
+      "word": "台军失踪士兵在厦门吃好睡好",
+      "onboard_time": 1678806150,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 843937,
       "num": 790432,
       "word": "京考",
@@ -304,6 +312,14 @@
       "word": "一镜到底有多暴露演技",
       "onboard_time": 1678800694,
       "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 733886,
+      "num": 733886,
+      "word": "还爱我么 我还爱着你",
+      "onboard_time": 1678807110,
+      "rank": 17,
       "category": "影视"
     },
     {
@@ -441,14 +457,6 @@
       "onboard_time": 1678707684,
       "rank": 11,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 620031,
-      "num": 583648,
-      "word": "台军失踪士兵在厦门吃好睡好",
-      "onboard_time": 1678806150,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 614947,
@@ -913,14 +921,6 @@
       "onboard_time": 1678779810,
       "rank": 9,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 392720,
-      "num": 392720,
-      "word": "还爱我么 我还爱着你",
-      "onboard_time": 1678807110,
-      "rank": 17,
-      "category": "影视"
     },
     {
       "raw_hot": 385315,
@@ -1435,6 +1435,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 240343,
+      "num": 240343,
+      "word": "遇到房东不退押金就这样做",
+      "onboard_time": 1678807348,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 240087,
       "num": 240087,
       "word": "黑暗荣耀2",
@@ -1577,6 +1585,14 @@
       "onboard_time": 1678782268,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 203015,
+      "num": 203015,
+      "word": "国考排名",
+      "onboard_time": 1678807889,
+      "rank": 31,
+      "category": "教育"
     },
     {
       "raw_hot": 202874,
@@ -1993,14 +2009,6 @@
       "onboard_time": 1678804173,
       "rank": 48,
       "category": "美食,幽默"
-    },
-    {
-      "raw_hot": 134707,
-      "num": 134707,
-      "word": "遇到房东不退押金就这样做",
-      "onboard_time": 1678807348,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 132807,

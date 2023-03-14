@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678807478676,
+  "endTime": 1678808405469,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -1097,6 +1097,14 @@
       "onboard_time": 1678464924,
       "rank": 10,
       "category": "科技,影视"
+    },
+    {
+      "raw_hot": 1592737,
+      "num": 1592737,
+      "word": "315",
+      "onboard_time": 1678801351,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1591473,
@@ -2955,14 +2963,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 982365,
-      "num": 982365,
-      "word": "315",
-      "onboard_time": 1678801351,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 979898,
       "num": 610047,
       "word": "凡人修仙传 杨洋",
@@ -3680,6 +3680,14 @@
       "word": "吴尊友回应三年白头",
       "onboard_time": 1678065506,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 847051,
+      "num": 847051,
+      "word": "台军失踪士兵在厦门吃好睡好",
+      "onboard_time": 1678806150,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -4696,6 +4704,14 @@
       "word": "六公主连播两部张颂文主演电影",
       "onboard_time": 1678506750,
       "rank": 4,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 733886,
+      "num": 733886,
+      "word": "还爱我么 我还爱着你",
+      "onboard_time": 1678807110,
+      "rank": 17,
       "category": "影视"
     },
     {
@@ -6049,14 +6065,6 @@
       "onboard_time": 1677750810,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 620031,
-      "num": 583648,
-      "word": "台军失踪士兵在厦门吃好睡好",
-      "onboard_time": 1678806150,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 619495,
@@ -10545,14 +10553,6 @@
       "onboard_time": 1678360167,
       "rank": 30,
       "category": "军事"
-    },
-    {
-      "raw_hot": 392720,
-      "num": 392720,
-      "word": "还爱我么 我还爱着你",
-      "onboard_time": 1678807110,
-      "rank": 17,
-      "category": "影视"
     },
     {
       "raw_hot": 392380,
@@ -16091,6 +16091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 240343,
+      "num": 240343,
+      "word": "遇到房东不退押金就这样做",
+      "onboard_time": 1678807348,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 240333,
       "num": 240333,
       "word": "丁真新歌",
@@ -18473,6 +18481,14 @@
       "onboard_time": 1678249710,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 203015,
+      "num": 203015,
+      "word": "国考排名",
+      "onboard_time": 1678807889,
+      "rank": 31,
+      "category": "教育"
     },
     {
       "raw_hot": 202960,
@@ -23761,14 +23777,6 @@
       "onboard_time": 1678804173,
       "rank": 48,
       "category": "美食,幽默"
-    },
-    {
-      "raw_hot": 134707,
-      "num": 134707,
-      "word": "遇到房东不退押金就这样做",
-      "onboard_time": 1678807348,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 134520,
