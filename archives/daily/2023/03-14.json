@@ -1,10 +1,10 @@
 {
   "startTime": 1678724793394,
-  "endTime": 1678767798603,
+  "endTime": 1678768695347,
   "band_list": [
     {
-      "raw_hot": 3038702,
-      "num": 3038702,
+      "raw_hot": 3314139,
+      "num": 3314139,
       "word": "海底捞要求必须点锅底",
       "onboard_time": 1678765648,
       "rank": 0,
@@ -27,7 +27,7 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 1693208,
+      "raw_hot": 1702895,
       "num": 397446,
       "word": "于和伟确诊甲流",
       "onboard_time": 1678766549,
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 623167,
-      "num": 391929,
+      "num": 592643,
       "word": "王伯祥去世",
       "onboard_time": 1678765766,
       "rank": 12,
@@ -243,8 +243,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 486931,
-      "num": 486931,
+      "raw_hot": 495666,
+      "num": 495666,
       "word": "情人节头像",
       "onboard_time": 1678764988,
       "rank": 7,
@@ -459,11 +459,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 276141,
+      "num": 276141,
+      "word": "白色情人节 回礼",
+      "onboard_time": 1678767389,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 275073,
       "num": 275073,
       "word": "中国乒乓网播定档",
       "onboard_time": 1678764085,
       "rank": 23,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 270590,
+      "num": 270590,
+      "word": "柠萌影视2023片单",
+      "onboard_time": 1678768472,
+      "rank": 21,
       "category": "影视"
     },
     {
@@ -473,6 +489,14 @@
       "onboard_time": 1678763605,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 264977,
+      "num": 264977,
+      "word": "男童患白血病保险公司拒绝续保",
+      "onboard_time": 1678767751,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 261692,
@@ -563,6 +587,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 205633,
+      "num": 205633,
+      "word": "于文文新歌是我",
+      "onboard_time": 1678768053,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 200884,
       "num": 202294,
       "word": "我国民间乒乓球藏龙又卧虎",
@@ -577,6 +609,14 @@
       "onboard_time": 1678763246,
       "rank": 29,
       "category": "财经"
+    },
+    {
+      "raw_hot": 199874,
+      "num": 199874,
+      "word": "他是谁首更4集连更9天",
+      "onboard_time": 1678768351,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 195669,
@@ -643,14 +683,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 169130,
-      "num": 169130,
-      "word": "白色情人节 回礼",
-      "onboard_time": 1678767389,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 162740,
       "num": 161458,
       "word": "拜登就银行破产危机讲话",
@@ -665,6 +697,14 @@
       "onboard_time": 1678749320,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157774,
+      "num": 157774,
+      "word": "最后生还者 长颈鹿",
+      "onboard_time": 1678767991,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 156167,
@@ -817,14 +857,6 @@
       "onboard_time": 1678714348,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 106521,
-      "num": 106521,
-      "word": "男童患白血病保险公司拒绝续保",
-      "onboard_time": 1678767751,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 105187,

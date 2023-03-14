@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678767798603,
+  "endTime": 1678768695347,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -155,6 +155,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 3314139,
+      "num": 3314139,
+      "word": "海底捞要求必须点锅底",
+      "onboard_time": 1678765648,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3312641,
       "num": 3312641,
       "word": "代表建议取消调休制度",
@@ -169,14 +177,6 @@
       "onboard_time": 1678071507,
       "rank": 12,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 3038702,
-      "num": 3038702,
-      "word": "海底捞要求必须点锅底",
-      "onboard_time": 1678765648,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2976403,
@@ -843,6 +843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1702895,
+      "num": 397446,
+      "word": "于和伟确诊甲流",
+      "onboard_time": 1678766549,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1702014,
       "num": 566708,
       "word": "华晨宇录节目错过杭州抢票",
@@ -857,14 +865,6 @@
       "onboard_time": 1678110569,
       "rank": 3,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 1693208,
-      "num": 397446,
-      "word": "于和伟确诊甲流",
-      "onboard_time": 1678766549,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1683745,
@@ -5740,7 +5740,7 @@
     },
     {
       "raw_hot": 623167,
-      "num": 391929,
+      "num": 592643,
       "word": "王伯祥去世",
       "onboard_time": 1678765766,
       "rank": 12,
@@ -7915,6 +7915,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 495666,
+      "num": 495666,
+      "word": "情人节头像",
+      "onboard_time": 1678764988,
+      "rank": 7,
+      "category": "情感"
+    },
+    {
       "raw_hot": 495331,
       "num": 495331,
       "word": "从现在起全党全国人民的中心任务",
@@ -8081,14 +8089,6 @@
       "onboard_time": 1677855389,
       "rank": 27,
       "category": "情感,财经"
-    },
-    {
-      "raw_hot": 486931,
-      "num": 486931,
-      "word": "情人节头像",
-      "onboard_time": 1678764988,
-      "rank": 7,
-      "category": "情感"
     },
     {
       "raw_hot": 486650,
@@ -13811,6 +13811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 276141,
+      "num": 276141,
+      "word": "白色情人节 回礼",
+      "onboard_time": 1678767389,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 275952,
       "num": 275952,
       "word": "没点本事千万别骑鸵鸟",
@@ -14001,6 +14009,14 @@
       "onboard_time": 1678526607,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 270590,
+      "num": 270590,
+      "word": "柠萌影视2023片单",
+      "onboard_time": 1678768472,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 270352,
@@ -14217,6 +14233,14 @@
       "onboard_time": 1677745950,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 264977,
+      "num": 264977,
+      "word": "男童患白血病保险公司拒绝续保",
+      "onboard_time": 1678767751,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 264871,
@@ -17187,6 +17211,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 205633,
+      "num": 205633,
+      "word": "于文文新歌是我",
+      "onboard_time": 1678768053,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 205454,
       "num": 205454,
       "word": "神隐惊蛰海报",
@@ -17905,6 +17937,14 @@
       "onboard_time": 1678179507,
       "rank": 26,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 199874,
+      "num": 199874,
+      "word": "他是谁首更4集连更9天",
+      "onboard_time": 1678768351,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 199867,
@@ -20323,14 +20363,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 169130,
-      "num": 169130,
-      "word": "白色情人节 回礼",
-      "onboard_time": 1678767389,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 168986,
       "num": 168986,
       "word": "王鹤棣费加罗三色流光封面",
@@ -20928,6 +20960,14 @@
       "word": "陈钰琪新剧杀青随拍",
       "onboard_time": 1678161509,
       "rank": 38,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 157774,
+      "num": 157774,
+      "word": "最后生还者 长颈鹿",
+      "onboard_time": 1678767991,
+      "rank": 39,
       "category": "影视"
     },
     {
@@ -24529,14 +24569,6 @@
       "onboard_time": 1677933206,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 106521,
-      "num": 106521,
-      "word": "男童患白血病保险公司拒绝续保",
-      "onboard_time": 1678767751,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 106511,
