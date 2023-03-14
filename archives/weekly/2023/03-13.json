@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1678772026038,
+  "endTime": 1678775058286,
   "band_list": [
     {
       "raw_hot": 6010597,
@@ -185,6 +185,14 @@
       "onboard_time": 1678670725,
       "rank": 0,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 1118619,
+      "num": 498267,
+      "word": "美国3岁女童玩枪打死4岁姐姐",
+      "onboard_time": 1678772009,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1099617,
@@ -763,6 +771,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 556099,
+      "num": 497527,
+      "word": "成龙张学友谢霆锋张家辉同框",
+      "onboard_time": 1678772248,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 554645,
       "num": 229103,
       "word": "美国网红称华人商店该被抢",
@@ -899,6 +915,14 @@
       "category": "影视,幽默"
     },
     {
+      "raw_hot": 505511,
+      "num": 505511,
+      "word": "莎头",
+      "onboard_time": 1678771588,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 505167,
       "num": 401521,
       "word": "爸爸先后三次取头皮救重伤儿子",
@@ -1003,12 +1027,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 483924,
+      "num": 483924,
+      "word": "幼师教升旗用英文口号被质疑",
+      "onboard_time": 1678770090,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 475762,
       "num": 475762,
       "word": "他是谁",
       "onboard_time": 1678750763,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 475203,
+      "num": 432103,
+      "word": "陈飞宇最新机场路透",
+      "onboard_time": 1678770928,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 473557,
@@ -1032,6 +1072,14 @@
       "word": "丁禹兮彭小苒吻戏",
       "onboard_time": 1678764567,
       "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 466029,
+      "num": 466029,
+      "word": "陈星旭面试过你好旧时光",
+      "onboard_time": 1678773807,
+      "rank": 8,
       "category": "影视"
     },
     {
@@ -1091,6 +1139,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 448548,
+      "num": 448548,
+      "word": "我国理工科学生比例下降",
+      "onboard_time": 1678773567,
+      "rank": 9,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 443316,
       "num": 440424,
       "word": "阿迪达斯中国区业绩连续7季度下滑",
@@ -1145,14 +1201,6 @@
       "onboard_time": 1678633169,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 430910,
-      "num": 430910,
-      "word": "陈飞宇最新机场路透",
-      "onboard_time": 1678770928,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 428335,
@@ -1251,14 +1299,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 416497,
-      "num": 416497,
-      "word": "幼师教升旗用英文口号被质疑",
-      "onboard_time": 1678770090,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 412536,
       "num": 229346,
       "word": "大江健三郎去世",
@@ -1281,6 +1321,14 @@
       "onboard_time": 1678698025,
       "rank": 22,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 405418,
+      "num": 405418,
+      "word": "张译每剧嘎一个兄弟",
+      "onboard_time": 1678773087,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 400271,
@@ -1539,6 +1587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 325016,
+      "num": 325016,
+      "word": "孝埈的保镖天团",
+      "onboard_time": 1678772666,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 324755,
       "num": 324755,
       "word": "感染甲流后哪种情况需就医",
@@ -1625,14 +1681,6 @@
       "onboard_time": 1678663760,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 301324,
-      "num": 301324,
-      "word": "莎头",
-      "onboard_time": 1678771588,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 301288,
@@ -1963,6 +2011,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 231965,
+      "num": 231965,
+      "word": "徐若晗关注和颂传媒",
+      "onboard_time": 1678773687,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 231706,
       "num": 99103,
       "word": "两颗球的泰坦尼克号",
@@ -2193,6 +2249,14 @@
       "onboard_time": 1678676608,
       "rank": 7,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 192160,
+      "num": 192160,
+      "word": "王楚钦孙颖莎晋级混双4强",
+      "onboard_time": 1678772189,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 191367,
@@ -2611,14 +2675,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 119813,
-      "num": 119813,
-      "word": "美国3岁女童玩枪打死4岁姐姐",
-      "onboard_time": 1678772009,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 117673,
       "num": 127397,
       "word": "隔着屏幕都感受到了压迫感",
@@ -2713,6 +2769,14 @@
       "onboard_time": 1678612527,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 108460,
+      "num": 108460,
+      "word": "硅谷银行的储户已可正常提款",
+      "onboard_time": 1678774466,
+      "rank": 38,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 108019,
