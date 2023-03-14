@@ -1,0 +1,410 @@
+{
+  "runTime": 1678778318946,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1455147,
+        "num": 1455147,
+        "word": "海底捞要求必须点锅底",
+        "onboard_time": 1678765648,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1319253,
+        "num": 1319253,
+        "word": "警方悬赏3万缉捕马冬梅",
+        "onboard_time": 1678775364,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32007,
+        "num": 1202657,
+        "word": "春天里的中国自带氛围感",
+        "onboard_time": 1678752746,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1188814,
+        "num": 1188814,
+        "word": "谢霆锋一天官宣3部新片",
+        "onboard_time": 1678777769,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 893758,
+        "num": 893758,
+        "word": "我国理工科学生比例下降",
+        "onboard_time": 1678773567,
+        "rank": 4,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 792837,
+        "num": 792837,
+        "word": "美国3岁女童玩枪打死4岁姐姐",
+        "onboard_time": 1678772009,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 456573,
+        "num": 456573,
+        "word": "创造101乐华初舞台彩排未公开版",
+        "onboard_time": 1678776148,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 414421,
+        "num": 414421,
+        "word": "陈星旭面试过你好旧时光",
+        "onboard_time": 1678773807,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 337068,
+        "num": 337068,
+        "word": "多家电商平台有女性迷药隐蔽出售",
+        "onboard_time": 1678769132,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320395,
+        "num": 320395,
+        "word": "声生不息",
+        "onboard_time": 1678775547,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1906088,
+        "num": 320395,
+        "word": "宁艺卓右眼几乎看不到",
+        "onboard_time": 1678776508,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 434754,
+        "num": 320395,
+        "word": "阿根廷国家队关于中国行声明",
+        "onboard_time": 1678776867,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 419019,
+        "num": 320395,
+        "word": "于和伟确诊甲流",
+        "onboard_time": 1678766549,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 335694,
+        "num": 320395,
+        "word": "陈飞宇最新机场路透",
+        "onboard_time": 1678770928,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 327309,
+        "num": 320395,
+        "word": "河道英 全在俊",
+        "onboard_time": 1678777769,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 320395,
+        "num": 320394,
+        "word": "她拿格莱美才会刺激到张曼玉",
+        "onboard_time": 1678776748,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 314309,
+        "num": 314309,
+        "word": "国考",
+        "onboard_time": 1678760005,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 314213,
+        "num": 314213,
+        "word": "硅谷银行的储户已可正常提款",
+        "onboard_time": 1678774466,
+        "rank": 17,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 313215,
+        "num": 313215,
+        "word": "张译每剧嘎一个兄弟",
+        "onboard_time": 1678773087,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 295365,
+        "num": 295365,
+        "word": "甲流与新冠有可能叠加感染吗",
+        "onboard_time": 1678777349,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306061,
+        "num": 288333,
+        "word": "韩国SBS剪掉杨紫琼获奖感言女性部分",
+        "onboard_time": 1678759046,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268415,
+        "num": 268415,
+        "word": "吴世勋亲爱的阿基米德将今年播出",
+        "onboard_time": 1678770031,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 251391,
+        "num": 251391,
+        "word": "土坑酸菜涉事企业成立农业新公司",
+        "onboard_time": 1678775248,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247418,
+        "num": 247418,
+        "word": "孝埈的保镖天团",
+        "onboard_time": 1678772666,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 229790,
+        "num": 229790,
+        "word": "原神",
+        "onboard_time": 1678769550,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 221260,
+        "num": 221260,
+        "word": "上班通勤四小时是什么体验",
+        "onboard_time": 1678764326,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 214914,
+        "num": 214914,
+        "word": "肖战骑单车路透",
+        "onboard_time": 1678769250,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 193903,
+        "num": 193903,
+        "word": "幼师教升旗用英文口号被质疑",
+        "onboard_time": 1678770090,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169426,
+        "num": 169426,
+        "word": "时代峰峻称TFBOYS十周年演唱会暂未报批",
+        "onboard_time": 1678765106,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 163025,
+        "num": 163025,
+        "word": "王伯祥去世",
+        "onboard_time": 1678765766,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151608,
+        "num": 151608,
+        "word": "莎头",
+        "onboard_time": 1678771588,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151017,
+        "num": 151017,
+        "word": "葛优王俊凯电影刺猬预计今年上映",
+        "onboard_time": 1678776208,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 143634,
+        "num": 143634,
+        "word": "KPL春季赛第五周最佳阵容",
+        "onboard_time": 1678775364,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 138329,
+        "num": 138329,
+        "word": "情人节头像",
+        "onboard_time": 1678764988,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135557,
+        "num": 135557,
+        "word": "不良笑花里的陈妍希",
+        "onboard_time": 1678764684,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 128979,
+        "num": 128979,
+        "word": "蒲熠星说蒲鱼是一切故事的开端",
+        "onboard_time": 1678768834,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127800,
+        "num": 127800,
+        "word": "白色情人节",
+        "onboard_time": 1678761806,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 127431,
+        "num": 127431,
+        "word": "王曼昱连得7分造逆转",
+        "onboard_time": 1678778188,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122657,
+        "num": 122657,
+        "word": "飞鲨歼15昼夜飞行有多帅",
+        "onboard_time": 1678777648,
+        "rank": 38,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 116628,
+        "num": 116628,
+        "word": "大侦探芒州诡事录古装剧照",
+        "onboard_time": 1678769250,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115734,
+        "num": 115734,
+        "word": "徐若晗关注和颂传媒",
+        "onboard_time": 1678773687,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111054,
+        "num": 111054,
+        "word": "男童患白血病保险公司拒绝续保",
+        "onboard_time": 1678767751,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108407,
+        "num": 108407,
+        "word": "王楚钦孙颖莎晋级混双4强",
+        "onboard_time": 1678772189,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96993,
+        "num": 96993,
+        "word": "5岁男孩患白血病两年半化疗26次",
+        "onboard_time": 1678763846,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95274,
+        "num": 95274,
+        "word": "梁朝伟刘德华二十年后再合作",
+        "onboard_time": 1678770330,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 88337,
+        "num": 88337,
+        "word": "勇士战胜太阳",
+        "onboard_time": 1678770691,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86387,
+        "num": 86387,
+        "word": "公司回应员工因给客户倒水太满被开除",
+        "onboard_time": 1678757544,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83826,
+        "num": 83826,
+        "word": "丁禹兮彭小苒吻戏",
+        "onboard_time": 1678764567,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 80402,
+        "num": 80402,
+        "word": "感染甲流后哪种情况需就医",
+        "onboard_time": 1678757067,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78730,
+        "num": 78730,
+        "word": "最希望继续二搭的cp",
+        "onboard_time": 1678769372,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#明日中国先导片#"
+    }
+  }
+}

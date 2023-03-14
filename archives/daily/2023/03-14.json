@@ -1,6 +1,6 @@
 {
   "startTime": 1678724793394,
-  "endTime": 1678775931601,
+  "endTime": 1678778318946,
   "band_list": [
     {
       "raw_hot": 3314139,
@@ -17,6 +17,14 @@
       "onboard_time": 1678759046,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1906088,
+      "num": 320395,
+      "word": "宁艺卓右眼几乎看不到",
+      "onboard_time": 1678776508,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1726486,
@@ -59,8 +67,24 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1319253,
+      "num": 1319253,
+      "word": "警方悬赏3万缉捕马冬梅",
+      "onboard_time": 1678775364,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1188814,
+      "num": 1188814,
+      "word": "谢霆锋一天官宣3部新片",
+      "onboard_time": 1678777769,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1149367,
-      "num": 594488,
+      "num": 792837,
       "word": "美国3岁女童玩枪打死4岁姐姐",
       "onboard_time": 1678772009,
       "rank": 46,
@@ -73,6 +97,14 @@
       "onboard_time": 1678765106,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 893758,
+      "num": 893758,
+      "word": "我国理工科学生比例下降",
+      "onboard_time": 1678773567,
+      "rank": 9,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 883265,
@@ -145,14 +177,6 @@
       "onboard_time": 1678762464,
       "rank": 4,
       "category": "财经"
-    },
-    {
-      "raw_hot": 766679,
-      "num": 766679,
-      "word": "我国理工科学生比例下降",
-      "onboard_time": 1678773567,
-      "rank": 9,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 716756,
@@ -403,6 +427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 456573,
+      "num": 456573,
+      "word": "创造101乐华初舞台彩排未公开版",
+      "onboard_time": 1678776148,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 451164,
       "num": 451164,
       "word": "井柏然谭松韵新剧从校服到婚纱",
@@ -417,6 +449,14 @@
       "onboard_time": 1678761024,
       "rank": 27,
       "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 434754,
+      "num": 320395,
+      "word": "阿根廷国家队关于中国行声明",
+      "onboard_time": 1678776867,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 434389,
@@ -483,14 +523,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 384179,
-      "num": 384179,
-      "word": "警方悬赏3万缉捕马冬梅",
-      "onboard_time": 1678775364,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 372321,
       "num": 372321,
       "word": "5岁男孩患白血病两年半化疗26次",
@@ -539,6 +571,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 327309,
+      "num": 320395,
+      "word": "河道英 全在俊",
+      "onboard_time": 1678777769,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 325492,
       "num": 293184,
       "word": "大爷充29万做美容反悔起诉退钱",
@@ -563,6 +603,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 320395,
+      "num": 320395,
+      "word": "声生不息",
+      "onboard_time": 1678775547,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 320395,
+      "num": 320394,
+      "word": "她拿格莱美才会刺激到张曼玉",
+      "onboard_time": 1678776748,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 319508,
       "num": 319508,
       "word": "gidleTomBoy发行一周年",
@@ -577,6 +633,14 @@
       "onboard_time": 1678753826,
       "rank": 15,
       "category": "财经"
+    },
+    {
+      "raw_hot": 314213,
+      "num": 314213,
+      "word": "硅谷银行的储户已可正常提款",
+      "onboard_time": 1678774466,
+      "rank": 38,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 313719,
@@ -608,6 +672,14 @@
       "word": "恢复审发外国人各类赴华签证",
       "onboard_time": 1678752323,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 295365,
+      "num": 295365,
+      "word": "甲流与新冠有可能叠加感染吗",
+      "onboard_time": 1678777349,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -691,6 +763,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 251391,
+      "num": 251391,
+      "word": "土坑酸菜涉事企业成立农业新公司",
+      "onboard_time": 1678775248,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 250979,
       "num": 250979,
       "word": "重紫大婚海报",
@@ -731,14 +811,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 228920,
-      "num": 228920,
-      "word": "声生不息",
-      "onboard_time": 1678775547,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 228601,
       "num": 228601,
       "word": "KPL春季赛第五周最佳阵容",
@@ -761,14 +833,6 @@
       "onboard_time": 1678712489,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 213117,
-      "num": 213117,
-      "word": "硅谷银行的储户已可正常提款",
-      "onboard_time": 1678774466,
-      "rank": 38,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 207001,
@@ -915,14 +979,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 157964,
-      "num": 157964,
-      "word": "土坑酸菜涉事企业成立农业新公司",
-      "onboard_time": 1678775248,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 157774,
       "num": 157774,
       "word": "最后生还者 长颈鹿",
@@ -968,6 +1024,14 @@
       "word": "于冬说无名9亿票房很满意",
       "onboard_time": 1678716207,
       "rank": 29,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 151017,
+      "num": 151017,
+      "word": "葛优王俊凯电影刺猬预计今年上映",
+      "onboard_time": 1678776208,
+      "rank": 31,
       "category": "影视"
     },
     {
@@ -1043,6 +1107,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 127431,
+      "num": 127431,
+      "word": "王曼昱连得7分造逆转",
+      "onboard_time": 1678778188,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126208,
       "num": 96051,
       "word": "刘雯奥斯卡派对造型",
@@ -1065,6 +1137,14 @@
       "onboard_time": 1678771949,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 122657,
+      "num": 122657,
+      "word": "飞鲨歼15昼夜飞行有多帅",
+      "onboard_time": 1678777648,
+      "rank": 38,
+      "category": "军事"
     },
     {
       "raw_hot": 118352,
@@ -1164,7 +1244,7 @@
     },
     {
       "raw_hot": 79890,
-      "num": 1050231,
+      "num": 1202657,
       "word": "春天里的中国自带氛围感",
       "onboard_time": 1678752746,
       "rank": 3,
