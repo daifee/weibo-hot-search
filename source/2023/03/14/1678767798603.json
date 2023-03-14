@@ -1,0 +1,410 @@
+{
+  "runTime": 1678767798603,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3038702,
+        "num": 3038702,
+        "word": "海底捞要求必须点锅底",
+        "onboard_time": 1678765648,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1664004,
+        "num": 1664004,
+        "word": "上班通勤四小时是什么体验",
+        "onboard_time": 1678764326,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 79890,
+        "num": 1050231,
+        "word": "春天里的中国自带氛围感",
+        "onboard_time": 1678752746,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 614947,
+        "num": 614947,
+        "word": "不良笑花里的陈妍希",
+        "onboard_time": 1678764684,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 551305,
+        "num": 551305,
+        "word": "大侦探",
+        "onboard_time": 1678763667,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 525862,
+        "num": 525862,
+        "word": "白色情人节",
+        "onboard_time": 1678761806,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 519507,
+        "num": 519507,
+        "word": "国考",
+        "onboard_time": 1678760005,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 486931,
+        "num": 486931,
+        "word": "情人节头像",
+        "onboard_time": 1678764988,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 467075,
+        "num": 467075,
+        "word": "丁禹兮彭小苒吻戏",
+        "onboard_time": 1678764567,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 397836,
+        "num": 397836,
+        "word": "A股",
+        "onboard_time": 1678762464,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1693208,
+        "num": 397446,
+        "word": "于和伟确诊甲流",
+        "onboard_time": 1678766549,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1074761,
+        "num": 393299,
+        "word": "时代峰峻称TFBOYS十周年演唱会暂未报批",
+        "onboard_time": 1678765106,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 623167,
+        "num": 391929,
+        "word": "王伯祥去世",
+        "onboard_time": 1678765766,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 520131,
+        "num": 389451,
+        "word": "公司回应员工因给客户倒水太满被开除",
+        "onboard_time": 1678757544,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 387951,
+        "num": 387951,
+        "word": "甲流抗原售价已超新冠抗原10倍",
+        "onboard_time": 1678753586,
+        "rank": 14,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 372321,
+        "num": 372321,
+        "word": "5岁男孩患白血病两年半化疗26次",
+        "onboard_time": 1678763846,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368449,
+        "num": 368449,
+        "word": "井柏然谭松韵新剧从校服到婚纱",
+        "onboard_time": 1678763126,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 366175,
+        "num": 366175,
+        "word": "星落凝成糖新滤镜",
+        "onboard_time": 1678763787,
+        "rank": 17,
+        "category": "影视,科技"
+      },
+      {
+        "raw_hot": 351326,
+        "num": 351326,
+        "word": "他是谁开播",
+        "onboard_time": 1678764567,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 302728,
+        "num": 302728,
+        "word": "无名中国香港票房破10万美元",
+        "onboard_time": 1678761505,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1370692,
+        "num": 285326,
+        "word": "韩国SBS剪掉杨紫琼获奖感言女性部分",
+        "onboard_time": 1678759046,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245997,
+        "num": 245997,
+        "word": "京考",
+        "onboard_time": 1678761449,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 245319,
+        "num": 245319,
+        "word": "华晨宇回家乡湖北开演唱会",
+        "onboard_time": 1678761745,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 240128,
+        "num": 240128,
+        "word": "315骗假不留",
+        "onboard_time": 1678758083,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 230970,
+        "num": 230970,
+        "word": "赵露思金色华服路透",
+        "onboard_time": 1678758866,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 225326,
+        "num": 225326,
+        "word": "硅谷银行破产最惨踩雷机构",
+        "onboard_time": 1678756886,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 223775,
+        "num": 223775,
+        "word": "中国乒乓网播定档",
+        "onboard_time": 1678764085,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 220403,
+        "num": 220403,
+        "word": "库里领唱中文版小星星",
+        "onboard_time": 1678761686,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214672,
+        "num": 214672,
+        "word": "电影铃芽之旅",
+        "onboard_time": 1678762703,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 200459,
+        "num": 200459,
+        "word": "大连理工出版社回应图片选取不当",
+        "onboard_time": 1678756645,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195169,
+        "num": 195169,
+        "word": "师生在校期间不强制要求戴口罩",
+        "onboard_time": 1678757366,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193306,
+        "num": 193306,
+        "word": "杰森斯坦森金爆行动定档",
+        "onboard_time": 1678765286,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 192240,
+        "num": 192240,
+        "word": "网友实验证明三星拍摄月亮存在造假",
+        "onboard_time": 1678758324,
+        "rank": 32,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 190737,
+        "num": 190737,
+        "word": "硅谷银行开门储户大排长龙取款",
+        "onboard_time": 1678753708,
+        "rank": 33,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 187884,
+        "num": 187884,
+        "word": "电影我看见两朵一样的云",
+        "onboard_time": 1678761024,
+        "rank": 34,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 174871,
+        "num": 174871,
+        "word": "iPhone15若限充电速度或违反欧盟法律",
+        "onboard_time": 1678754607,
+        "rank": 35,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 173424,
+        "num": 173424,
+        "word": "感染甲流后哪种情况需就医",
+        "onboard_time": 1678757067,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172565,
+        "num": 172565,
+        "word": "每个人的生日都能在圆周率中找到",
+        "onboard_time": 1678749678,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169665,
+        "num": 169665,
+        "word": "太阳vs勇士",
+        "onboard_time": 1678760126,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169130,
+        "num": 169130,
+        "word": "白色情人节 回礼",
+        "onboard_time": 1678767389,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 167099,
+        "num": 167099,
+        "word": "硅谷银行买家浮现",
+        "onboard_time": 1678763246,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 164274,
+        "num": 164274,
+        "word": "王源胡子剧照",
+        "onboard_time": 1678764506,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 156386,
+        "num": 156386,
+        "word": "黑暗荣耀花絮",
+        "onboard_time": 1678756347,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 136689,
+        "num": 136689,
+        "word": "蔡徐坤 微博之夜",
+        "onboard_time": 1678759164,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135632,
+        "num": 135632,
+        "word": "美国一城市为霉霉巡演更名",
+        "onboard_time": 1678750221,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 121210,
+        "num": 121210,
+        "word": "重紫大婚海报",
+        "onboard_time": 1678762885,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 115331,
+        "num": 115331,
+        "word": "李梦宣布加盟华盛顿神秘人",
+        "onboard_time": 1678755626,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114604,
+        "num": 114604,
+        "word": "忠犬八公狗狗的爱都在陪伴里",
+        "onboard_time": 1678763605,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 111665,
+        "num": 111665,
+        "word": "INTO1微博之夜开屏",
+        "onboard_time": 1678765949,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106521,
+        "num": 106521,
+        "word": "男童患白血病保险公司拒绝续保",
+        "onboard_time": 1678767751,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#明日中国先导片#"
+    }
+  }
+}

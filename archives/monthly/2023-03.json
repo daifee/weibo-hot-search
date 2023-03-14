@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678764869073,
+  "endTime": 1678767798603,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -169,6 +169,14 @@
       "onboard_time": 1678071507,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 3038702,
+      "num": 3038702,
+      "word": "海底捞要求必须点锅底",
+      "onboard_time": 1678765648,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2976403,
@@ -851,6 +859,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 1693208,
+      "num": 397446,
+      "word": "于和伟确诊甲流",
+      "onboard_time": 1678766549,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1683745,
       "num": 910102,
       "word": "赵丽颖 花少5",
@@ -889,6 +905,14 @@
       "onboard_time": 1678238066,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1664004,
+      "num": 1664004,
+      "word": "上班通勤四小时是什么体验",
+      "onboard_time": 1678764326,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 1662953,
@@ -2265,6 +2289,14 @@
       "onboard_time": 1677669869,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1074761,
+      "num": 393299,
+      "word": "时代峰峻称TFBOYS十周年演唱会暂未报批",
+      "onboard_time": 1678765106,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1073134,
@@ -5707,6 +5739,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 623167,
+      "num": 391929,
+      "word": "王伯祥去世",
+      "onboard_time": 1678765766,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 622738,
       "num": 481020,
       "word": "何超莲徐璐张天爱同框看秀",
@@ -5793,6 +5833,14 @@
       "onboard_time": 1678420781,
       "rank": 6,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 614947,
+      "num": 614947,
+      "word": "不良笑花里的陈妍希",
+      "onboard_time": 1678764684,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 614286,
@@ -8035,6 +8083,14 @@
       "category": "情感,财经"
     },
     {
+      "raw_hot": 486931,
+      "num": 486931,
+      "word": "情人节头像",
+      "onboard_time": 1678764988,
+      "rank": 7,
+      "category": "情感"
+    },
+    {
       "raw_hot": 486650,
       "num": 201664,
       "word": "汇丰收购硅谷银行英国子公司",
@@ -8425,6 +8481,14 @@
       "onboard_time": 1678347626,
       "rank": 13,
       "category": "财经"
+    },
+    {
+      "raw_hot": 467075,
+      "num": 467075,
+      "word": "丁禹兮彭小苒吻戏",
+      "onboard_time": 1678764567,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 466033,
@@ -10499,6 +10563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 372321,
+      "num": 372321,
+      "word": "5岁男孩患白血病两年半化疗26次",
+      "onboard_time": 1678763846,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 372210,
       "num": 372210,
       "word": "浪潮",
@@ -10689,14 +10761,6 @@
       "onboard_time": 1678623508,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 367163,
-      "num": 367163,
-      "word": "5岁男孩患白血病两年半化疗26次",
-      "onboard_time": 1678763846,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 366882,
@@ -11257,6 +11321,14 @@
       "onboard_time": 1677840211,
       "rank": 8,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 351326,
+      "num": 351326,
+      "word": "他是谁开播",
+      "onboard_time": 1678764567,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 351138,
@@ -12537,14 +12609,6 @@
       "onboard_time": 1678061306,
       "rank": 15,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 312746,
-      "num": 312746,
-      "word": "上班通勤四小时是什么体验",
-      "onboard_time": 1678764326,
-      "rank": 19,
-      "category": "情感"
     },
     {
       "raw_hot": 312455,
@@ -16907,14 +16971,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 207477,
-      "num": 207477,
-      "word": "不良笑花里的陈妍希",
-      "onboard_time": 1678764684,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 207446,
       "num": 207446,
       "word": "芒禾音乐节",
@@ -17915,14 +17971,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 199192,
-      "num": 199192,
-      "word": "丁禹兮彭小苒吻戏",
-      "onboard_time": 1678764567,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 199176,
       "num": 199176,
       "word": "2023F1巴林大奖赛",
@@ -18600,6 +18648,14 @@
       "word": "宋慧乔演技感染力",
       "onboard_time": 1678530086,
       "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 193306,
+      "num": 193306,
+      "word": "杰森斯坦森金爆行动定档",
+      "onboard_time": 1678765286,
+      "rank": 31,
       "category": "影视"
     },
     {
@@ -19289,14 +19345,6 @@
       "onboard_time": 1677666089,
       "rank": 49,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 185506,
-      "num": 185506,
-      "word": "他是谁开播",
-      "onboard_time": 1678764567,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 185491,
@@ -20273,6 +20321,14 @@
       "onboard_time": 1678524265,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 169130,
+      "num": 169130,
+      "word": "白色情人节 回礼",
+      "onboard_time": 1678767389,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 168986,
@@ -24059,6 +24115,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 111665,
+      "num": 111665,
+      "word": "INTO1微博之夜开屏",
+      "onboard_time": 1678765949,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 111551,
       "num": 111551,
       "word": "淄博烧烤节",
@@ -24465,6 +24529,14 @@
       "onboard_time": 1677933206,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106521,
+      "num": 106521,
+      "word": "男童患白血病保险公司拒绝续保",
+      "onboard_time": 1678767751,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 106511,
@@ -25771,6 +25843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 79890,
+      "num": 1050231,
+      "word": "春天里的中国自带氛围感",
+      "onboard_time": 1678752746,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 79845,
       "num": 79845,
       "word": "教育局回应学校要求学生必须缴医保",
@@ -25937,14 +26017,6 @@
       "onboard_time": 1677816029,
       "rank": 14,
       "category": "情感"
-    },
-    {
-      "raw_hot": 72822,
-      "num": 792804,
-      "word": "春天里的中国自带氛围感",
-      "onboard_time": 1678752746,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 72790,
