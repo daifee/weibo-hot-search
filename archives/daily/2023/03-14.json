@@ -1,6 +1,6 @@
 {
   "startTime": 1678724793394,
-  "endTime": 1678783283366,
+  "endTime": 1678785665201,
   "band_list": [
     {
       "raw_hot": 3314139,
@@ -8,6 +8,14 @@
       "word": "海底捞要求必须点锅底",
       "onboard_time": 1678765648,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2513158,
+      "num": 688882,
+      "word": "蔚来险遭强奸女员工发声",
+      "onboard_time": 1678782450,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -20,7 +28,7 @@
     },
     {
       "raw_hot": 1994978,
-      "num": 383570,
+      "num": 389024,
       "word": "宁艺卓右眼几乎看不到",
       "onboard_time": 1678776508,
       "rank": 10,
@@ -99,12 +107,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1039352,
-      "num": 376284,
-      "word": "蔚来险遭强奸女员工发声",
-      "onboard_time": 1678782450,
-      "rank": 11,
-      "category": "社会新闻"
+      "raw_hot": 1064293,
+      "num": 1064293,
+      "word": "黑暗荣耀里的蛇是真蛇",
+      "onboard_time": 1678783528,
+      "rank": 0,
+      "category": "影视"
     },
     {
       "raw_hot": 893758,
@@ -212,7 +220,7 @@
     },
     {
       "raw_hot": 685621,
-      "num": 364317,
+      "num": 387654,
       "word": "杨紫琼获奖 马国明放假",
       "onboard_time": 1678781308,
       "rank": 11,
@@ -547,6 +555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 413262,
+      "num": 413262,
+      "word": "关晓彤了不起的我们开机生图",
+      "onboard_time": 1678782268,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 405418,
       "num": 405418,
       "word": "张译每剧嘎一个兄弟",
@@ -585,6 +601,14 @@
       "onboard_time": 1678756886,
       "rank": 14,
       "category": "财经"
+    },
+    {
+      "raw_hot": 376822,
+      "num": 376822,
+      "word": "终于知道为什么老说猴急了",
+      "onboard_time": 1678782808,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 372321,
@@ -715,6 +739,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 310830,
+      "num": 167376,
+      "word": "韩俊同志任安徽省委书记",
+      "onboard_time": 1678784189,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 304833,
       "num": 304833,
       "word": "黑暗荣耀花絮",
@@ -737,6 +769,14 @@
       "onboard_time": 1678752323,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 278325,
+      "num": 278325,
+      "word": "张远觉得王栎鑫改编的嘉宾最差",
+      "onboard_time": 1678781908,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 278246,
@@ -763,14 +803,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 273926,
-      "num": 273926,
-      "word": "张远觉得王栎鑫改编的嘉宾最差",
-      "onboard_time": 1678781908,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 270590,
       "num": 270590,
       "word": "柠萌影视2023片单",
@@ -792,14 +824,6 @@
       "word": "陈星旭李兰迪鼻尖吻删减剧情",
       "onboard_time": 1678780527,
       "rank": 18,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 265291,
-      "num": 265291,
-      "word": "关晓彤了不起的我们开机生图",
-      "onboard_time": 1678782268,
-      "rank": 30,
       "category": "影视"
     },
     {
@@ -825,6 +849,14 @@
       "onboard_time": 1678769250,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 256921,
+      "num": 237621,
+      "word": "文东恩妈妈和张震演过情侣",
+      "onboard_time": 1678782387,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 256744,
@@ -883,6 +915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 231738,
+      "num": 231738,
+      "word": "学而思素养课存在超前超纲内容",
+      "onboard_time": 1678784429,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 231378,
       "num": 220436,
       "word": "日本女游客在印度遭骚扰反道歉",
@@ -923,12 +963,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 212956,
-      "num": 237621,
-      "word": "文东恩妈妈和张震演过情侣",
-      "onboard_time": 1678782387,
-      "rank": 45,
-      "category": "作品衍生"
+      "raw_hot": 211309,
+      "num": 211309,
+      "word": "刘亚仁吸毒证据超10000张",
+      "onboard_time": 1678785510,
+      "rank": 22,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 207001,
@@ -961,6 +1001,14 @@
       "onboard_time": 1678782268,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 203914,
+      "num": 203914,
+      "word": "一起照亮丫丫回家路",
+      "onboard_time": 1678783050,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 200884,
@@ -1067,6 +1115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173001,
+      "num": 173001,
+      "word": "管虎新片黄渤倪妮搭档",
+      "onboard_time": 1678784009,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 172005,
       "num": 220721,
       "word": "纪念马克思逝世140周年",
@@ -1147,12 +1203,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 153591,
+      "num": 153591,
+      "word": "黄子韬演技",
+      "onboard_time": 1678784608,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 153094,
       "num": 153094,
       "word": "花粉过敏与感冒如何区分",
       "onboard_time": 1678756406,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152672,
+      "num": 152672,
+      "word": "原神白色情人节",
+      "onboard_time": 1678783469,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 152449,
@@ -1177,14 +1249,6 @@
       "onboard_time": 1678719928,
       "rank": 30,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 144599,
-      "num": 204813,
-      "word": "终于知道为什么老说猴急了",
-      "onboard_time": 1678782808,
-      "rank": 29,
-      "category": "幽默"
     },
     {
       "raw_hot": 144300,
@@ -1275,6 +1339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 127220,
+      "num": 127220,
+      "word": "沈晓明同志任湖南省委书记",
+      "onboard_time": 1678784908,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126208,
       "num": 96051,
       "word": "刘雯奥斯卡派对造型",
@@ -1288,6 +1360,14 @@
       "word": "孙怡演技状态",
       "onboard_time": 1678718188,
       "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 123158,
+      "num": 123158,
+      "word": "归路",
+      "onboard_time": 1678785569,
+      "rank": 37,
       "category": "影视"
     },
     {
@@ -1331,12 +1411,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 111490,
-      "num": 203745,
-      "word": "一起照亮丫丫回家路",
-      "onboard_time": 1678783050,
-      "rank": 41,
-      "category": "社会新闻"
+      "raw_hot": 111416,
+      "num": 111416,
+      "word": "杨紫牛仔外套路透",
+      "onboard_time": 1678785028,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 108307,
@@ -1435,6 +1515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 74311,
+      "num": 843109,
+      "word": "太空视角看美丽地球家园",
+      "onboard_time": 1678782867,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 72217,
       "num": 682903,
       "word": "我们从春天出发",
@@ -1513,14 +1601,6 @@
       "onboard_time": 1678735091,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 47588,
-      "num": 843109,
-      "word": "太空视角看美丽地球家园",
-      "onboard_time": 1678782867,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 44475,
@@ -1623,6 +1703,9 @@
     },
     {
       "word": "#习近平总书记两会金句#"
+    },
+    {
+      "word": "#新征程上的中华大地#"
     }
   ]
 }
