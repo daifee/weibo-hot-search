@@ -1,6 +1,6 @@
 {
   "startTime": 1678724793394,
-  "endTime": 1678799165857,
+  "endTime": 1678801005310,
   "band_list": [
     {
       "raw_hot": 3963842,
@@ -33,6 +33,22 @@
       "onboard_time": 1678759046,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2258541,
+      "num": 2258541,
+      "word": "国考成绩",
+      "onboard_time": 1678800991,
+      "rank": 0,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 2112746,
+      "num": 2112746,
+      "word": "去冰 少冰",
+      "onboard_time": 1678798591,
+      "rank": 4,
+      "category": "财经"
     },
     {
       "raw_hot": 1994978,
@@ -75,6 +91,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1698661,
+      "num": 1698661,
+      "word": "吴磊赵露思 微博之夜",
+      "onboard_time": 1678798949,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1697049,
+      "num": 1697049,
+      "word": "国考",
+      "onboard_time": 1678760005,
+      "rank": 0,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1671846,
       "num": 892703,
       "word": "刘亚仁吸毒证据超10000张",
@@ -99,14 +131,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1458482,
-      "num": 1458482,
-      "word": "国考",
-      "onboard_time": 1678760005,
-      "rank": 0,
-      "category": "教育"
-    },
-    {
       "raw_hot": 1336503,
       "num": 1336503,
       "word": "警方悬赏3万缉捕马冬梅",
@@ -120,6 +144,14 @@
       "word": "谢霆锋一天官宣3部新片",
       "onboard_time": 1678777769,
       "rank": 3,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1202610,
+      "num": 549931,
+      "word": "井柏然 八个字我决定接下这部戏",
+      "onboard_time": 1678800452,
+      "rank": 10,
       "category": "影视"
     },
     {
@@ -323,12 +355,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 643628,
-      "num": 643628,
-      "word": "去冰 少冰",
-      "onboard_time": 1678798591,
-      "rank": 4,
-      "category": "财经"
+      "raw_hot": 650957,
+      "num": 650957,
+      "word": "BLACKPINK科切拉排练照",
+      "onboard_time": 1678798350,
+      "rank": 6,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 641108,
@@ -379,20 +411,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 610820,
-      "num": 610820,
-      "word": "吴磊赵露思 微博之夜",
-      "onboard_time": 1678798949,
-      "rank": 5,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 599780,
       "num": 599780,
       "word": "阿根廷国家队关于中国行声明",
       "onboard_time": 1678776867,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 572010,
+      "num": 572010,
+      "word": "他是谁家暴男被妻子反杀",
+      "onboard_time": 1678797630,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 570040,
@@ -451,14 +483,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 543793,
-      "num": 543793,
-      "word": "BLACKPINK科切拉排练照",
-      "onboard_time": 1678798350,
-      "rank": 6,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 540620,
       "num": 540620,
       "word": "胡歌包场支持敦煌女儿",
@@ -481,6 +505,22 @@
       "onboard_time": 1678776748,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 520948,
+      "num": 520948,
+      "word": "微博年度热度人物",
+      "onboard_time": 1678799491,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 519243,
+      "num": 519243,
+      "word": "张本智和",
+      "onboard_time": 1678797991,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 512051,
@@ -659,6 +699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 442664,
+      "num": 442664,
+      "word": "动物园棕熊听懂人话被质疑是人假扮",
+      "onboard_time": 1678796070,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 440322,
       "num": 440322,
       "word": "终于知道为什么老说猴急了",
@@ -684,18 +732,10 @@
     },
     {
       "raw_hot": 431193,
-      "num": 319094,
+      "num": 327170,
       "word": "卫国平下水道里摸尸块",
       "onboard_time": 1678790249,
       "rank": 37,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 429453,
-      "num": 429453,
-      "word": "他是谁家暴男被妻子反杀",
-      "onboard_time": 1678797630,
-      "rank": 30,
       "category": "影视"
     },
     {
@@ -721,6 +761,14 @@
       "onboard_time": 1678768834,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 419318,
+      "num": 419318,
+      "word": "腰部终于不再酸疼了",
+      "onboard_time": 1678797150,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 417213,
@@ -819,14 +867,6 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 366014,
-      "num": 366014,
-      "word": "张本智和",
-      "onboard_time": 1678797991,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 357473,
       "num": 231557,
       "word": "女子自学医美给他人手术致8级伤残",
@@ -841,14 +881,6 @@
       "onboard_time": 1678793188,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 352454,
-      "num": 352454,
-      "word": "动物园棕熊听懂人话被质疑是人假扮",
-      "onboard_time": 1678796070,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 351326,
@@ -955,14 +987,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 320832,
-      "num": 320832,
-      "word": "腰部终于不再酸疼了",
-      "onboard_time": 1678797150,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 320395,
       "num": 320395,
       "word": "声生不息",
@@ -1051,12 +1075,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 287689,
-      "num": 287689,
+      "raw_hot": 290165,
+      "num": 290165,
       "word": "归路",
       "onboard_time": 1678785569,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 284908,
+      "num": 284908,
+      "word": "马国明 没有放假",
+      "onboard_time": 1678799192,
+      "rank": 24,
+      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 284369,
@@ -1076,7 +1108,7 @@
     },
     {
       "raw_hot": 280669,
-      "num": 200861,
+      "num": 246301,
       "word": "成龙张学友张家辉梁朝伟刘德华合照",
       "onboard_time": 1678795589,
       "rank": 25,
@@ -1267,6 +1299,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 239037,
+      "num": 222207,
+      "word": "黑暗荣耀里最文明的人",
+      "onboard_time": 1678800212,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 233141,
       "num": 233141,
       "word": "C罗社媒账号粉丝数达5.6亿",
@@ -1331,12 +1371,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 221984,
+      "num": 221984,
+      "word": "什么都馋只会害了你",
+      "onboard_time": 1678799849,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 219990,
       "num": 230992,
       "word": "女孩出汗把衣服染蓝查出色汗症",
       "onboard_time": 1678708706,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 219754,
+      "num": 219754,
+      "word": "一镜到底有多暴露演技",
+      "onboard_time": 1678800694,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 217698,
@@ -2131,6 +2187,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 10957,
+      "num": 2155551,
+      "word": "这就是春天里的中国",
+      "onboard_time": 1678628848,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 10931,
       "num": 16166,
       "word": "世界棒球经典赛",
@@ -2153,14 +2217,6 @@
       "onboard_time": 1678697247,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 8159,
-      "num": 1279692,
-      "word": "这就是春天里的中国",
-      "onboard_time": 1678628848,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -2178,6 +2234,9 @@
     },
     {
       "word": "#新征程上的中华大地#"
+    },
+    {
+      "word": "#踔厉奋发新征程勇毅前行向复兴#"
     }
   ]
 }
