@@ -1,6 +1,6 @@
 {
   "startTime": 1678724793394,
-  "endTime": 1678778318946,
+  "endTime": 1678779218530,
   "band_list": [
     {
       "raw_hot": 3314139,
@@ -19,8 +19,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1906088,
-      "num": 320395,
+      "raw_hot": 1994978,
+      "num": 336257,
       "word": "宁艺卓右眼几乎看不到",
       "onboard_time": 1678776508,
       "rank": 10,
@@ -67,16 +67,16 @@
       "category": "教育"
     },
     {
-      "raw_hot": 1319253,
-      "num": 1319253,
+      "raw_hot": 1336503,
+      "num": 1336503,
       "word": "警方悬赏3万缉捕马冬梅",
       "onboard_time": 1678775364,
       "rank": 12,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1188814,
-      "num": 1188814,
+      "raw_hot": 1220778,
+      "num": 1220778,
       "word": "谢霆锋一天官宣3部新片",
       "onboard_time": 1678777769,
       "rank": 3,
@@ -195,6 +195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 673651,
+      "num": 332961,
+      "word": "河道英 全在俊",
+      "onboard_time": 1678777769,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 668814,
       "num": 406159,
       "word": "不吃主食或造成大脑功能衰退",
@@ -251,6 +259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 594690,
+      "num": 594690,
+      "word": "甲流与新冠有可能叠加感染吗",
+      "onboard_time": 1678777349,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 570040,
       "num": 467896,
       "word": "肖战骑单车路透",
@@ -297,6 +313,14 @@
       "onboard_time": 1678761505,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 547656,
+      "num": 330537,
+      "word": "阿根廷国家队关于中国行声明",
+      "onboard_time": 1678776867,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 544297,
@@ -403,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 482947,
+      "num": 482947,
+      "word": "创造101乐华初舞台彩排未公开版",
+      "onboard_time": 1678776148,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 475762,
       "num": 475762,
       "word": "他是谁",
@@ -427,12 +459,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 456573,
-      "num": 456573,
-      "word": "创造101乐华初舞台彩排未公开版",
-      "onboard_time": 1678776148,
-      "rank": 6,
-      "category": "综艺"
+      "raw_hot": 457570,
+      "num": 326551,
+      "word": "她拿格莱美才会刺激到张曼玉",
+      "onboard_time": 1678776748,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 451164,
@@ -449,14 +481,6 @@
       "onboard_time": 1678761024,
       "rank": 27,
       "category": "影视,幽默"
-    },
-    {
-      "raw_hot": 434754,
-      "num": 320395,
-      "word": "阿根廷国家队关于中国行声明",
-      "onboard_time": 1678776867,
-      "rank": 11,
-      "category": "体育"
     },
     {
       "raw_hot": 434389,
@@ -563,19 +587,19 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 344472,
+      "num": 344472,
+      "word": "王曼昱连得7分造逆转",
+      "onboard_time": 1678778188,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 340079,
       "num": 300765,
       "word": "张家辉陈伟霆爆裂开打",
       "onboard_time": 1678770928,
       "rank": 23,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 327309,
-      "num": 320395,
-      "word": "河道英 全在俊",
-      "onboard_time": 1678777769,
-      "rank": 14,
       "category": "影视"
     },
     {
@@ -611,14 +635,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 320395,
-      "num": 320394,
-      "word": "她拿格莱美才会刺激到张曼玉",
-      "onboard_time": 1678776748,
-      "rank": 15,
-      "category": "影视"
-    },
-    {
       "raw_hot": 319508,
       "num": 319508,
       "word": "gidleTomBoy发行一周年",
@@ -627,20 +643,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 319016,
+      "num": 319016,
+      "word": "硅谷银行的储户已可正常提款",
+      "onboard_time": 1678774466,
+      "rank": 38,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 317532,
       "num": 299255,
       "word": "美国两家银行接连关闭",
       "onboard_time": 1678753826,
       "rank": 15,
       "category": "财经"
-    },
-    {
-      "raw_hot": 314213,
-      "num": 314213,
-      "word": "硅谷银行的储户已可正常提款",
-      "onboard_time": 1678774466,
-      "rank": 38,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 313719,
@@ -672,14 +688,6 @@
       "word": "恢复审发外国人各类赴华签证",
       "onboard_time": 1678752323,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 295365,
-      "num": 295365,
-      "word": "甲流与新冠有可能叠加感染吗",
-      "onboard_time": 1678777349,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -979,6 +987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 160468,
+      "num": 160468,
+      "word": "飞鲨歼15昼夜飞行有多帅",
+      "onboard_time": 1678777648,
+      "rank": 38,
+      "category": "军事"
+    },
+    {
       "raw_hot": 157774,
       "num": 157774,
       "word": "最后生还者 长颈鹿",
@@ -1009,6 +1025,14 @@
       "onboard_time": 1678752387,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 154040,
+      "num": 154040,
+      "word": "声生不息海报",
+      "onboard_time": 1678779209,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 153094,
@@ -1067,6 +1091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 142255,
+      "num": 142255,
+      "word": "腾讯会议再次调整",
+      "onboard_time": 1678778129,
+      "rank": 35,
+      "category": "科技"
+    },
+    {
       "raw_hot": 140060,
       "num": 186874,
       "word": "李强总理说自己是老网民",
@@ -1107,14 +1139,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 127431,
-      "num": 127431,
-      "word": "王曼昱连得7分造逆转",
-      "onboard_time": 1678778188,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 126208,
       "num": 96051,
       "word": "刘雯奥斯卡派对造型",
@@ -1137,14 +1161,6 @@
       "onboard_time": 1678771949,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 122657,
-      "num": 122657,
-      "word": "飞鲨歼15昼夜飞行有多帅",
-      "onboard_time": 1678777648,
-      "rank": 38,
-      "category": "军事"
     },
     {
       "raw_hot": 118352,
@@ -1176,6 +1192,14 @@
       "word": "声生不息宝岛季概念海报",
       "onboard_time": 1678714348,
       "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 106773,
+      "num": 106773,
+      "word": "刘亦菲 微博之夜",
+      "onboard_time": 1678779028,
+      "rank": 41,
       "category": "综艺"
     },
     {
@@ -1244,7 +1268,7 @@
     },
     {
       "raw_hot": 79890,
-      "num": 1202657,
+      "num": 1248446,
       "word": "春天里的中国自带氛围感",
       "onboard_time": 1678752746,
       "rank": 3,

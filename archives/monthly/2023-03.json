@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678778318946,
+  "endTime": 1678779218530,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -507,6 +507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1994978,
+      "num": 336257,
+      "word": "宁艺卓右眼几乎看不到",
+      "onboard_time": 1678776508,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1991579,
       "num": 1991579,
       "word": "建议裁减非必要事业单位和人员",
@@ -577,14 +585,6 @@
       "onboard_time": 1678591885,
       "rank": 7,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1906088,
-      "num": 320395,
-      "word": "宁艺卓右眼几乎看不到",
-      "onboard_time": 1678776508,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1891362,
@@ -1555,6 +1555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1336503,
+      "num": 1336503,
+      "word": "警方悬赏3万缉捕马冬梅",
+      "onboard_time": 1678775364,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1336436,
       "num": 1336436,
       "word": "樊振东",
@@ -1576,14 +1584,6 @@
       "word": "网友突击检查全世界大熊猫",
       "onboard_time": 1678282647,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1319253,
-      "num": 1319253,
-      "word": "警方悬赏3万缉捕马冬梅",
-      "onboard_time": 1678775364,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -1883,6 +1883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1220778,
+      "num": 1220778,
+      "word": "谢霆锋一天官宣3部新片",
+      "onboard_time": 1678777769,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1218443,
       "num": 640014,
       "word": "iPhone17Pro系列才会有屏下FaceID",
@@ -1953,14 +1961,6 @@
       "onboard_time": 1678249951,
       "rank": 12,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 1188814,
-      "num": 1188814,
-      "word": "谢霆锋一天官宣3部新片",
-      "onboard_time": 1678777769,
-      "rank": 3,
-      "category": "影视"
     },
     {
       "raw_hot": 1188111,
@@ -5139,6 +5139,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 673651,
+      "num": 332961,
+      "word": "河道英 全在俊",
+      "onboard_time": 1678777769,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 673480,
       "num": 425335,
       "word": "富国银行",
@@ -6179,6 +6187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 594690,
+      "num": 594690,
+      "word": "甲流与新冠有可能叠加感染吗",
+      "onboard_time": 1678777349,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 594659,
       "num": 251899,
       "word": "青你选手徐炳超卖包子",
@@ -6961,6 +6977,14 @@
       "onboard_time": 1677766710,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 547656,
+      "num": 330537,
+      "word": "阿根廷国家队关于中国行声明",
+      "onboard_time": 1678776867,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 547408,
@@ -8323,6 +8347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 482947,
+      "num": 482947,
+      "word": "创造101乐华初舞台彩排未公开版",
+      "onboard_time": 1678776148,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 482917,
       "num": 482917,
       "word": "郁金香",
@@ -8771,6 +8803,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 457570,
+      "num": 326551,
+      "word": "她拿格莱美才会刺激到张曼玉",
+      "onboard_time": 1678776748,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 457564,
       "num": 457564,
       "word": "明天起个税将再次多退少补",
@@ -8809,14 +8849,6 @@
       "onboard_time": 1677695953,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 456573,
-      "num": 456573,
-      "word": "创造101乐华初舞台彩排未公开版",
-      "onboard_time": 1678776148,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 456571,
@@ -9257,14 +9289,6 @@
       "onboard_time": 1677850045,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 434754,
-      "num": 320395,
-      "word": "阿根廷国家队关于中国行声明",
-      "onboard_time": 1678776867,
-      "rank": 11,
-      "category": "体育"
     },
     {
       "raw_hot": 434389,
@@ -11723,6 +11747,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 344472,
+      "num": 344472,
+      "word": "王曼昱连得7分造逆转",
+      "onboard_time": 1678778188,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 343750,
       "num": 343750,
       "word": "张若昀敲胸的",
@@ -12219,14 +12251,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 327309,
-      "num": 320395,
-      "word": "河道英 全在俊",
-      "onboard_time": 1678777769,
-      "rank": 14,
-      "category": "影视"
-    },
-    {
       "raw_hot": 326745,
       "num": 326745,
       "word": "TheShy奎因上单",
@@ -12483,14 +12507,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 320395,
-      "num": 320394,
-      "word": "她拿格莱美才会刺激到张曼玉",
-      "onboard_time": 1678776748,
-      "rank": 15,
-      "category": "影视"
-    },
-    {
       "raw_hot": 320056,
       "num": 219837,
       "word": "梁朝伟刘嘉玲亮相亚洲电影大奖",
@@ -12529,6 +12545,14 @@
       "onboard_time": 1678092506,
       "rank": 19,
       "category": "社会负面,财经"
+    },
+    {
+      "raw_hot": 319016,
+      "num": 319016,
+      "word": "硅谷银行的储户已可正常提款",
+      "onboard_time": 1678774466,
+      "rank": 38,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 318840,
@@ -12721,14 +12745,6 @@
       "onboard_time": 1678343426,
       "rank": 31,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 314213,
-      "num": 314213,
-      "word": "硅谷银行的储户已可正常提款",
-      "onboard_time": 1678774466,
-      "rank": 38,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 314194,
@@ -13409,14 +13425,6 @@
       "onboard_time": 1678345406,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 295365,
-      "num": 295365,
-      "word": "甲流与新冠有可能叠加感染吗",
-      "onboard_time": 1678777349,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 295321,
@@ -21067,6 +21075,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 160468,
+      "num": 160468,
+      "word": "飞鲨歼15昼夜飞行有多帅",
+      "onboard_time": 1678777648,
+      "rank": 38,
+      "category": "军事"
+    },
+    {
       "raw_hot": 160441,
       "num": 160441,
       "word": "快船五连败",
@@ -21457,6 +21473,14 @@
       "onboard_time": 1678428748,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 154040,
+      "num": 154040,
+      "word": "声生不息海报",
+      "onboard_time": 1678779209,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 153815,
@@ -22337,6 +22361,14 @@
       "onboard_time": 1678082307,
       "rank": 39,
       "category": "影视,社会新闻"
+    },
+    {
+      "raw_hot": 142255,
+      "num": 142255,
+      "word": "腾讯会议再次调整",
+      "onboard_time": 1678778129,
+      "rank": 35,
+      "category": "科技"
     },
     {
       "raw_hot": 142244,
@@ -23395,14 +23427,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 127431,
-      "num": 127431,
-      "word": "王曼昱连得7分造逆转",
-      "onboard_time": 1678778188,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 127430,
       "num": 127430,
       "word": "靳东收藏新疆小朋友画作",
@@ -23737,14 +23761,6 @@
       "onboard_time": 1677816209,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 122657,
-      "num": 122657,
-      "word": "飞鲨歼15昼夜飞行有多帅",
-      "onboard_time": 1678777648,
-      "rank": 38,
-      "category": "军事"
     },
     {
       "raw_hot": 122637,
@@ -24849,6 +24865,14 @@
       "onboard_time": 1678248809,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 106773,
+      "num": 106773,
+      "word": "刘亦菲 微博之夜",
+      "onboard_time": 1678779028,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 106640,
@@ -26172,7 +26196,7 @@
     },
     {
       "raw_hot": 79890,
-      "num": 1202657,
+      "num": 1248446,
       "word": "春天里的中国自带氛围感",
       "onboard_time": 1678752746,
       "rank": 3,
