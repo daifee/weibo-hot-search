@@ -1,7 +1,15 @@
 {
   "startTime": 1678724793394,
-  "endTime": 1678798007261,
+  "endTime": 1678799165857,
   "band_list": [
+    {
+      "raw_hot": 3963842,
+      "num": 3963842,
+      "word": "女演员实名举报五星级酒店",
+      "onboard_time": 1678795046,
+      "rank": 0,
+      "category": "社会新闻,艺人"
+    },
     {
       "raw_hot": 3314139,
       "num": 3314139,
@@ -9,14 +17,6 @@
       "onboard_time": 1678765648,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2932502,
-      "num": 2932502,
-      "word": "女演员实名举报五星级酒店",
-      "onboard_time": 1678795046,
-      "rank": 0,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 2911206,
@@ -41,6 +41,14 @@
       "onboard_time": 1678776508,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1888830,
+      "num": 1888830,
+      "word": "瑞幸咖啡被吐槽去冰后剩半杯",
+      "onboard_time": 1678795769,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1731253,
@@ -97,14 +105,6 @@
       "onboard_time": 1678760005,
       "rank": 0,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1432222,
-      "num": 1432222,
-      "word": "瑞幸咖啡被吐槽去冰后剩半杯",
-      "onboard_time": 1678795769,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1336503,
@@ -323,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 643628,
+      "num": 643628,
+      "word": "去冰 少冰",
+      "onboard_time": 1678798591,
+      "rank": 4,
+      "category": "财经"
+    },
+    {
       "raw_hot": 641108,
       "num": 641108,
       "word": "曝梅西父亲向沙特球队开价6亿欧",
@@ -369,6 +377,14 @@
       "onboard_time": 1678770330,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 610820,
+      "num": 610820,
+      "word": "吴磊赵露思 微博之夜",
+      "onboard_time": 1678798949,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 599780,
@@ -433,6 +449,14 @@
       "onboard_time": 1678769132,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 543793,
+      "num": 543793,
+      "word": "BLACKPINK科切拉排练照",
+      "onboard_time": 1678798350,
+      "rank": 6,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 540620,
@@ -660,10 +684,18 @@
     },
     {
       "raw_hot": 431193,
-      "num": 293644,
+      "num": 319094,
       "word": "卫国平下水道里摸尸块",
       "onboard_time": 1678790249,
       "rank": 37,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 429453,
+      "num": 429453,
+      "word": "他是谁家暴男被妻子反杀",
+      "onboard_time": 1678797630,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -787,6 +819,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 366014,
+      "num": 366014,
+      "word": "张本智和",
+      "onboard_time": 1678797991,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 357473,
       "num": 231557,
       "word": "女子自学医美给他人手术致8级伤残",
@@ -801,6 +841,14 @@
       "onboard_time": 1678793188,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 352454,
+      "num": 352454,
+      "word": "动物园棕熊听懂人话被质疑是人假扮",
+      "onboard_time": 1678796070,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 351326,
@@ -907,6 +955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 320832,
+      "num": 320832,
+      "word": "腰部终于不再酸疼了",
+      "onboard_time": 1678797150,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 320395,
       "num": 320395,
       "word": "声生不息",
@@ -945,6 +1001,14 @@
       "onboard_time": 1678762703,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 312008,
+      "num": 312008,
+      "word": "华晨宇晒台湾音乐磁带合集",
+      "onboard_time": 1678798893,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 310830,
@@ -987,8 +1051,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 286294,
-      "num": 231100,
+      "raw_hot": 287689,
+      "num": 287689,
       "word": "归路",
       "onboard_time": 1678785569,
       "rank": 37,
@@ -1012,7 +1076,7 @@
     },
     {
       "raw_hot": 280669,
-      "num": 185121,
+      "num": 200861,
       "word": "成龙张学友张家辉梁朝伟刘德华合照",
       "onboard_time": 1678795589,
       "rank": 25,
@@ -1155,14 +1219,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 254021,
-      "num": 254021,
-      "word": "动物园棕熊听懂人话被质疑是人假扮",
-      "onboard_time": 1678796070,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 251391,
       "num": 251391,
       "word": "土坑酸菜涉事企业成立农业新公司",
@@ -1211,14 +1267,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 237852,
-      "num": 163270,
-      "word": "他是谁家暴男被妻子反杀",
-      "onboard_time": 1678797630,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 233141,
       "num": 233141,
       "word": "C罗社媒账号粉丝数达5.6亿",
@@ -1241,6 +1289,14 @@
       "onboard_time": 1678773687,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 231457,
+      "num": 231457,
+      "word": "CPI",
+      "onboard_time": 1678798290,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 231378,
@@ -1347,6 +1403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 202874,
+      "num": 165078,
+      "word": "归晓眼神清澈感",
+      "onboard_time": 1678798049,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 202720,
       "num": 217842,
       "word": "卧底揭秘海鲜加工厂的狠活",
@@ -1392,6 +1456,14 @@
       "word": "杰森斯坦森金爆行动定档",
       "onboard_time": 1678765286,
       "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 192238,
+      "num": 143845,
+      "word": "张译原声台词压迫感",
+      "onboard_time": 1678798893,
+      "rank": 41,
       "category": "影视"
     },
     {
@@ -1539,6 +1611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 160764,
+      "num": 160764,
+      "word": "熊猫是懂松弛感的",
+      "onboard_time": 1678796009,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 160468,
       "num": 238788,
       "word": "飞鲨歼15昼夜飞行有多帅",
@@ -1561,14 +1641,6 @@
       "onboard_time": 1678769372,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 156664,
-      "num": 156664,
-      "word": "腰部终于不再酸疼了",
-      "onboard_time": 1678797150,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 156167,
@@ -1651,14 +1723,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 142939,
-      "num": 142939,
-      "word": "熊猫是懂松弛感的",
-      "onboard_time": 1678796009,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 142421,
       "num": 142421,
       "word": "熊猫萌兰潜逃失败开启撒娇模式",
@@ -1708,7 +1772,7 @@
     },
     {
       "raw_hot": 132807,
-      "num": 132807,
+      "num": 143795,
       "word": "没想到拔个河会这么社死",
       "onboard_time": 1678794748,
       "rank": 43,
@@ -1857,14 +1921,6 @@
       "onboard_time": 1678725558,
       "rank": 37,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 90711,
-      "num": 132769,
-      "word": "张本智和",
-      "onboard_time": 1678797991,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 89077,
@@ -2099,8 +2155,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 4568,
-      "num": 1017569,
+      "raw_hot": 8159,
+      "num": 1279692,
       "word": "这就是春天里的中国",
       "onboard_time": 1678628848,
       "rank": 2,

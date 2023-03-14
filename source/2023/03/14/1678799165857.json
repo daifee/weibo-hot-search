@@ -1,0 +1,410 @@
+{
+  "runTime": 1678799165857,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3963842,
+        "num": 3963842,
+        "word": "女演员实名举报五星级酒店",
+        "onboard_time": 1678795046,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1888830,
+        "num": 1888830,
+        "word": "瑞幸咖啡被吐槽去冰后剩半杯",
+        "onboard_time": 1678795769,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8159,
+        "num": 1279692,
+        "word": "这就是春天里的中国",
+        "onboard_time": 1678628848,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 812534,
+        "num": 812534,
+        "word": "刘亚仁吸毒证据超10000张",
+        "onboard_time": 1678785510,
+        "rank": 3,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 643628,
+        "num": 643628,
+        "word": "去冰 少冰",
+        "onboard_time": 1678798591,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 610820,
+        "num": 610820,
+        "word": "吴磊赵露思 微博之夜",
+        "onboard_time": 1678798949,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 543793,
+        "num": 543793,
+        "word": "BLACKPINK科切拉排练照",
+        "onboard_time": 1678798350,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 516893,
+        "num": 516893,
+        "word": "曝梅西父亲向沙特球队开价6亿欧",
+        "onboard_time": 1678793490,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 452411,
+        "num": 452411,
+        "word": "无名是北电开学的第一课",
+        "onboard_time": 1678790850,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 451583,
+        "num": 451583,
+        "word": "全国高中C9联盟成立",
+        "onboard_time": 1678790310,
+        "rank": 9,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 446933,
+        "num": 446933,
+        "word": "光渊",
+        "onboard_time": 1678793608,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 431057,
+        "num": 431057,
+        "word": "黑暗荣耀里的蛇是真蛇",
+        "onboard_time": 1678783528,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 429453,
+        "num": 429453,
+        "word": "他是谁家暴男被妻子反杀",
+        "onboard_time": 1678797630,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1035748,
+        "num": 429322,
+        "word": "杭州一套凶宅低于市场价73万成交",
+        "onboard_time": 1678787130,
+        "rank": 13,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 427859,
+        "num": 427859,
+        "word": "他是谁",
+        "onboard_time": 1678789950,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 385265,
+        "num": 385265,
+        "word": "宁艺卓右眼几乎看不到",
+        "onboard_time": 1678776508,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 366014,
+        "num": 366014,
+        "word": "张本智和",
+        "onboard_time": 1678797991,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 352454,
+        "num": 352454,
+        "word": "动物园棕熊听懂人话被质疑是人假扮",
+        "onboard_time": 1678796070,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323807,
+        "num": 323807,
+        "word": "河道英全在俊演过霜花店",
+        "onboard_time": 1678793188,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 320832,
+        "num": 320832,
+        "word": "腰部终于不再酸疼了",
+        "onboard_time": 1678797150,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 348572,
+        "num": 319094,
+        "word": "卫国平下水道里摸尸块",
+        "onboard_time": 1678790249,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 312008,
+        "num": 312008,
+        "word": "华晨宇晒台湾音乐磁带合集",
+        "onboard_time": 1678798893,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 287689,
+        "num": 287689,
+        "word": "归路",
+        "onboard_time": 1678785569,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 251422,
+        "num": 251422,
+        "word": "国考",
+        "onboard_time": 1678760005,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 231457,
+        "num": 231457,
+        "word": "CPI",
+        "onboard_time": 1678798290,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 279711,
+        "num": 222727,
+        "word": "卫国平的腰",
+        "onboard_time": 1678796130,
+        "rank": 25,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 278896,
+        "num": 217601,
+        "word": "陈粒抄歌词练字",
+        "onboard_time": 1678793848,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 277242,
+        "num": 215027,
+        "word": "杨紫张晚意邓为长相思路透",
+        "onboard_time": 1678793129,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 210594,
+        "num": 210594,
+        "word": "C罗社媒账号粉丝数达5.6亿",
+        "onboard_time": 1678794207,
+        "rank": 28,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 162899,
+        "num": 205019,
+        "word": "甲流与新冠有可能叠加感染吗",
+        "onboard_time": 1678777349,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277021,
+        "num": 200861,
+        "word": "成龙张学友张家辉梁朝伟刘德华合照",
+        "onboard_time": 1678795589,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 231980,
+        "num": 190816,
+        "word": "微博之夜",
+        "onboard_time": 1678788510,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218445,
+        "num": 187814,
+        "word": "胡歌包场支持敦煌女儿",
+        "onboard_time": 1678790850,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 183915,
+        "num": 183915,
+        "word": "可能有童年创伤的三个迹象",
+        "onboard_time": 1678790550,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 183460,
+        "num": 183460,
+        "word": "政协委员称追求编制未必是最好选择",
+        "onboard_time": 1678790069,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215828,
+        "num": 173520,
+        "word": "张俪看自己被公主抱看了10遍",
+        "onboard_time": 1678788630,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 206385,
+        "num": 168733,
+        "word": "半熟恋人2第六期满地是雷",
+        "onboard_time": 1678789589,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202874,
+        "num": 165078,
+        "word": "归晓眼神清澈感",
+        "onboard_time": 1678798049,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 160764,
+        "num": 160764,
+        "word": "熊猫是懂松弛感的",
+        "onboard_time": 1678796009,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143867,
+        "num": 143867,
+        "word": "福岛核污染水含60多种放射性核素",
+        "onboard_time": 1678789290,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197823,
+        "num": 143855,
+        "word": "声生不息宝岛季首发阵容",
+        "onboard_time": 1678786349,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192238,
+        "num": 143845,
+        "word": "张译原声台词压迫感",
+        "onboard_time": 1678798893,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 185199,
+        "num": 143831,
+        "word": "归路前任分手10年后再重逢",
+        "onboard_time": 1678793668,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 152131,
+        "num": 143810,
+        "word": "谢娜分享和朋友们聚餐聊天vlog",
+        "onboard_time": 1678791270,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116759,
+        "num": 143807,
+        "word": "wtt新加坡大满贯2023",
+        "onboard_time": 1678793789,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115243,
+        "num": 143795,
+        "word": "没想到拔个河会这么社死",
+        "onboard_time": 1678794748,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 110093,
+        "num": 143776,
+        "word": "双子座真的很需要夸奖",
+        "onboard_time": 1678780289,
+        "rank": 46,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 108465,
+        "num": 143760,
+        "word": "UP无缘季后赛",
+        "onboard_time": 1678792530,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 104127,
+        "num": 143746,
+        "word": "梅西世界杯后涨粉近4000万",
+        "onboard_time": 1678789770,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71120,
+        "num": 143727,
+        "word": "海底捞要求必须点锅底",
+        "onboard_time": 1678765648,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#强国建设民族复兴#"
+    }
+  }
+}
