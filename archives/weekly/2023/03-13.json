@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1678811567881,
+  "endTime": 1678812784270,
   "band_list": [
     {
       "raw_hot": 6995165,
@@ -2483,6 +2483,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 269018,
+      "num": 269018,
+      "word": "当词汇量到达一定量的时候",
+      "onboard_time": 1678811184,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 267578,
       "num": 267578,
       "word": "忠犬八公狗狗的爱都在陪伴里",
@@ -3080,6 +3088,14 @@
       "word": "春日暖阳开播",
       "onboard_time": 1678677686,
       "rank": 19,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 196329,
+      "num": 196329,
+      "word": "归路小说还原度",
+      "onboard_time": 1678811961,
+      "rank": 16,
       "category": "影视"
     },
     {
@@ -3859,6 +3875,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 104160,
+      "num": 104160,
+      "word": "杨紫高马尾条纹衫路透",
+      "onboard_time": 1678812560,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 102313,
       "num": 235238,
       "word": "拉塞尔半场23分",
@@ -3937,14 +3961,6 @@
       "onboard_time": 1678608386,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 89568,
-      "num": 89568,
-      "word": "当词汇量到达一定量的时候",
-      "onboard_time": 1678811184,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 89077,

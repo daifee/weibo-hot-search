@@ -1,6 +1,6 @@
 {
   "startTime": 1678811567881,
-  "endTime": 1678811567881,
+  "endTime": 1678812784270,
   "band_list": [
     {
       "raw_hot": 2252522,
@@ -115,6 +115,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 269018,
+      "num": 269018,
+      "word": "当词汇量到达一定量的时候",
+      "onboard_time": 1678811184,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 257750,
       "num": 257750,
       "word": "刘亚仁吸毒证据超10000张",
@@ -153,6 +161,14 @@
       "onboard_time": 1678805553,
       "rank": 17,
       "category": "教育"
+    },
+    {
+      "raw_hot": 196329,
+      "num": 196329,
+      "word": "归路小说还原度",
+      "onboard_time": 1678811961,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 169760,
@@ -283,6 +299,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 115510,
+      "num": 115510,
+      "word": "可能有童年创伤的三个迹象",
+      "onboard_time": 1678790550,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 113738,
       "num": 113738,
       "word": "田柾国直播",
@@ -291,12 +315,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 112117,
-      "num": 112117,
-      "word": "可能有童年创伤的三个迹象",
-      "onboard_time": 1678790550,
-      "rank": 38,
-      "category": "情感"
+      "raw_hot": 104160,
+      "num": 104160,
+      "word": "杨紫高马尾条纹衫路透",
+      "onboard_time": 1678812560,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 101547,
@@ -321,14 +345,6 @@
       "onboard_time": 1678788510,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 89568,
-      "num": 89568,
-      "word": "当词汇量到达一定量的时候",
-      "onboard_time": 1678811184,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 88805,
