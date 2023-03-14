@@ -1,6 +1,6 @@
 {
   "startTime": 1678724793394,
-  "endTime": 1678789444763,
+  "endTime": 1678790444187,
   "band_list": [
     {
       "raw_hot": 3314139,
@@ -35,6 +35,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1731253,
+      "num": 641787,
+      "word": "杭州一套凶宅低于市场价73万成交",
+      "onboard_time": 1678787130,
+      "rank": 5,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 1726486,
       "num": 574886,
       "word": "甲流抗原售价已超新冠抗原10倍",
@@ -65,14 +73,6 @@
       "onboard_time": 1678764326,
       "rank": 19,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1633207,
-      "num": 641787,
-      "word": "杭州一套凶宅低于市场价73万成交",
-      "onboard_time": 1678787130,
-      "rank": 5,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 1559346,
@@ -211,6 +211,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 778574,
+      "num": 510648,
+      "word": "张俪看自己被公主抱看了10遍",
+      "onboard_time": 1678788630,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 716756,
       "num": 682410,
       "word": "iPhone15若限充电速度或违反欧盟法律",
@@ -243,6 +251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 674638,
+      "num": 674638,
+      "word": "微博之夜",
+      "onboard_time": 1678702526,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 673651,
       "num": 352639,
       "word": "河道英 全在俊",
@@ -273,14 +289,6 @@
       "onboard_time": 1678749678,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 641083,
-      "num": 641083,
-      "word": "微博之夜",
-      "onboard_time": 1678702526,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 629064,
@@ -531,14 +539,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 473495,
-      "num": 463986,
-      "word": "张俪看自己被公主抱看了10遍",
-      "onboard_time": 1678788630,
-      "rank": 11,
-      "category": "影视"
-    },
-    {
       "raw_hot": 471487,
       "num": 471487,
       "word": "刘亦菲 微博之夜",
@@ -561,6 +561,14 @@
       "onboard_time": 1678786349,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 451270,
+      "num": 410888,
+      "word": "聂小雨表白卫国平",
+      "onboard_time": 1678790310,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 451164,
@@ -601,6 +609,14 @@
       "onboard_time": 1678758083,
       "rank": 33,
       "category": "财经"
+    },
+    {
+      "raw_hot": 423487,
+      "num": 408225,
+      "word": "半熟恋人2第六期满地是雷",
+      "onboard_time": 1678789589,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 420613,
@@ -739,6 +755,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 338243,
+      "num": 323663,
+      "word": "EXO最新节目预告",
+      "onboard_time": 1678789049,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 335718,
       "num": 335718,
       "word": "腾讯会议再次调整",
@@ -769,14 +793,6 @@
       "onboard_time": 1678757067,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 323663,
-      "num": 323663,
-      "word": "EXO最新节目预告",
-      "onboard_time": 1678789049,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 320395,
@@ -856,6 +872,14 @@
       "word": "半熟恋人",
       "onboard_time": 1678788451,
       "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 284369,
+      "num": 242841,
+      "word": "魏如萱首个内地常驻综艺",
+      "onboard_time": 1678788570,
+      "rank": 28,
       "category": "综艺"
     },
     {
@@ -1003,12 +1027,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 242841,
-      "num": 242841,
-      "word": "魏如萱首个内地常驻综艺",
-      "onboard_time": 1678788570,
-      "rank": 28,
-      "category": "综艺"
+      "raw_hot": 243523,
+      "num": 243523,
+      "word": "吃个饭五官都张开了",
+      "onboard_time": 1678786888,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 240087,
@@ -1067,14 +1091,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 220233,
-      "num": 220233,
-      "word": "吃个饭五官都张开了",
-      "onboard_time": 1678786888,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 219990,
       "num": 230992,
       "word": "女孩出汗把衣服染蓝查出色汗症",
@@ -1123,6 +1139,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 202720,
+      "num": 217842,
+      "word": "卧底揭秘海鲜加工厂的狠活",
+      "onboard_time": 1678787431,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201731,
+      "num": 201731,
+      "word": "卫国平下水道里摸尸块",
+      "onboard_time": 1678790249,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 200884,
       "num": 202294,
       "word": "我国民间乒乓球藏龙又卧虎",
@@ -1145,6 +1177,14 @@
       "onboard_time": 1678768351,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 197693,
+      "num": 202728,
+      "word": "梅西世界杯后涨粉近4000万",
+      "onboard_time": 1678789770,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 195669,
@@ -1209,14 +1249,6 @@
       "onboard_time": 1678789231,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 186825,
-      "num": 217842,
-      "word": "卧底揭秘海鲜加工厂的狠活",
-      "onboard_time": 1678787431,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 186280,
@@ -1483,6 +1515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 128697,
+      "num": 217433,
+      "word": "福岛核污染水含60多种放射性核素",
+      "onboard_time": 1678789290,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127220,
       "num": 217457,
       "word": "沈晓明同志任湖南省委书记",
@@ -1505,6 +1545,14 @@
       "onboard_time": 1678718188,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 123455,
+      "num": 123455,
+      "word": "政协委员称追求编制未必是最好选择",
+      "onboard_time": 1678790069,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 122910,
@@ -1603,6 +1651,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 94343,
+      "num": 94343,
+      "word": "全国高中C9联盟成立",
+      "onboard_time": 1678790310,
+      "rank": 48,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 89077,
       "num": 89077,
       "word": "尹子维普通话",
@@ -1689,14 +1745,6 @@
       "onboard_time": 1678698506,
       "rank": 46,
       "category": "影视,幽默"
-    },
-    {
-      "raw_hot": 64715,
-      "num": 217433,
-      "word": "福岛核污染水含60多种放射性核素",
-      "onboard_time": 1678789290,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 60332,
