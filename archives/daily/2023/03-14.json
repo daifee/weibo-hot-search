@@ -1,6 +1,6 @@
 {
   "startTime": 1678724793394,
-  "endTime": 1678775058286,
+  "endTime": 1678775931601,
   "band_list": [
     {
       "raw_hot": 3314139,
@@ -59,8 +59,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 1118619,
-      "num": 498267,
+      "raw_hot": 1149367,
+      "num": 594488,
       "word": "美国3岁女童玩枪打死4岁姐姐",
       "onboard_time": 1678772009,
       "rank": 46,
@@ -145,6 +145,14 @@
       "onboard_time": 1678762464,
       "rank": 4,
       "category": "财经"
+    },
+    {
+      "raw_hot": 766679,
+      "num": 766679,
+      "word": "我国理工科学生比例下降",
+      "onboard_time": 1678773567,
+      "rank": 9,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 716756,
@@ -236,7 +244,7 @@
     },
     {
       "raw_hot": 556099,
-      "num": 497527,
+      "num": 551099,
       "word": "成龙张学友谢霆锋张家辉同框",
       "onboard_time": 1678772248,
       "rank": 4,
@@ -275,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 512051,
+      "num": 512051,
+      "word": "陈星旭面试过你好旧时光",
+      "onboard_time": 1678773807,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 509106,
       "num": 259227,
       "word": "潘玮柏的嫌弃不像是演的",
@@ -305,6 +321,14 @@
       "onboard_time": 1678769550,
       "rank": 8,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 500659,
+      "num": 432103,
+      "word": "陈飞宇最新机场路透",
+      "onboard_time": 1678770928,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 500083,
@@ -363,14 +387,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 475203,
-      "num": 432103,
-      "word": "陈飞宇最新机场路透",
-      "onboard_time": 1678770928,
-      "rank": 32,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 473557,
       "num": 161534,
       "word": "美国银行",
@@ -387,28 +403,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 466029,
-      "num": 466029,
-      "word": "陈星旭面试过你好旧时光",
-      "onboard_time": 1678773807,
-      "rank": 8,
-      "category": "影视"
-    },
-    {
       "raw_hot": 451164,
       "num": 451164,
       "word": "井柏然谭松韵新剧从校服到婚纱",
       "onboard_time": 1678763126,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 448548,
-      "num": 448548,
-      "word": "我国理工科学生比例下降",
-      "onboard_time": 1678773567,
-      "rank": 9,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 438537,
@@ -481,6 +481,14 @@
       "onboard_time": 1678756886,
       "rank": 14,
       "category": "财经"
+    },
+    {
+      "raw_hot": 384179,
+      "num": 384179,
+      "word": "警方悬赏3万缉捕马冬梅",
+      "onboard_time": 1678775364,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 372321,
@@ -723,6 +731,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 228920,
+      "num": 228920,
+      "word": "声生不息",
+      "onboard_time": 1678775547,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 228601,
+      "num": 228601,
+      "word": "KPL春季赛第五周最佳阵容",
+      "onboard_time": 1678775364,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 219990,
       "num": 230992,
       "word": "女孩出汗把衣服染蓝查出色汗症",
@@ -737,6 +761,14 @@
       "onboard_time": 1678712489,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 213117,
+      "num": 213117,
+      "word": "硅谷银行的储户已可正常提款",
+      "onboard_time": 1678774466,
+      "rank": 38,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 207001,
@@ -880,6 +912,14 @@
       "word": "海南警方魔性反诈广告",
       "onboard_time": 1678749320,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157964,
+      "num": 157964,
+      "word": "土坑酸菜涉事企业成立农业新公司",
+      "onboard_time": 1678775248,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -1051,14 +1091,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 108460,
-      "num": 108460,
-      "word": "硅谷银行的储户已可正常提款",
-      "onboard_time": 1678774466,
-      "rank": 38,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 108307,
       "num": 104393,
       "word": "声生不息宝岛季概念海报",
@@ -1137,6 +1169,14 @@
       "onboard_time": 1678752746,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 78758,
+      "num": 78758,
+      "word": "令人惊艳的原创歌手",
+      "onboard_time": 1678775487,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 74851,

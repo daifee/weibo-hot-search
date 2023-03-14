@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1678775058286,
+  "endTime": 1678775931601,
   "band_list": [
     {
       "raw_hot": 6010597,
@@ -163,6 +163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1149367,
+      "num": 594488,
+      "word": "美国3岁女童玩枪打死4岁姐姐",
+      "onboard_time": 1678772009,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1140599,
       "num": 1090441,
       "word": "瞬息全宇宙 横扫",
@@ -185,14 +193,6 @@
       "onboard_time": 1678670725,
       "rank": 0,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 1118619,
-      "num": 498267,
-      "word": "美国3岁女童玩枪打死4岁姐姐",
-      "onboard_time": 1678772009,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1099617,
@@ -515,6 +515,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 766679,
+      "num": 766679,
+      "word": "我国理工科学生比例下降",
+      "onboard_time": 1678773567,
+      "rank": 9,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 752026,
       "num": 752026,
       "word": "中国人民成为自己命运的主人",
@@ -772,7 +780,7 @@
     },
     {
       "raw_hot": 556099,
-      "num": 497527,
+      "num": 551099,
       "word": "成龙张学友谢霆锋张家辉同框",
       "onboard_time": 1678772248,
       "rank": 4,
@@ -883,6 +891,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 512051,
+      "num": 512051,
+      "word": "陈星旭面试过你好旧时光",
+      "onboard_time": 1678773807,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 509268,
       "num": 401376,
       "word": "苹果公司CEO库克降薪40%",
@@ -945,6 +961,14 @@
       "onboard_time": 1678681890,
       "rank": 40,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 500659,
+      "num": 432103,
+      "word": "陈飞宇最新机场路透",
+      "onboard_time": 1678770928,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 499516,
@@ -1043,14 +1067,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 475203,
-      "num": 432103,
-      "word": "陈飞宇最新机场路透",
-      "onboard_time": 1678770928,
-      "rank": 32,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 473557,
       "num": 161534,
       "word": "美国银行",
@@ -1072,14 +1088,6 @@
       "word": "丁禹兮彭小苒吻戏",
       "onboard_time": 1678764567,
       "rank": 32,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 466029,
-      "num": 466029,
-      "word": "陈星旭面试过你好旧时光",
-      "onboard_time": 1678773807,
-      "rank": 8,
       "category": "影视"
     },
     {
@@ -1137,14 +1145,6 @@
       "onboard_time": 1678763126,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 448548,
-      "num": 448548,
-      "word": "我国理工科学生比例下降",
-      "onboard_time": 1678773567,
-      "rank": 9,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 443316,
@@ -1369,6 +1369,14 @@
       "onboard_time": 1678756886,
       "rank": 14,
       "category": "财经"
+    },
+    {
+      "raw_hot": 384179,
+      "num": 384179,
+      "word": "警方悬赏3万缉捕马冬梅",
+      "onboard_time": 1678775364,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 382597,
@@ -2067,6 +2075,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 228920,
+      "num": 228920,
+      "word": "声生不息",
+      "onboard_time": 1678775547,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 228601,
+      "num": 228601,
+      "word": "KPL春季赛第五周最佳阵容",
+      "onboard_time": 1678775364,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 227805,
       "num": 227805,
       "word": "林孝埈唱国歌",
@@ -2113,6 +2137,14 @@
       "onboard_time": 1678617327,
       "rank": 7,
       "category": "教育"
+    },
+    {
+      "raw_hot": 213117,
+      "num": 213117,
+      "word": "硅谷银行的储户已可正常提款",
+      "onboard_time": 1678774466,
+      "rank": 38,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 212437,
@@ -2408,6 +2440,14 @@
       "word": "海南警方魔性反诈广告",
       "onboard_time": 1678749320,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157964,
+      "num": 157964,
+      "word": "土坑酸菜涉事企业成立农业新公司",
+      "onboard_time": 1678775248,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -2771,14 +2811,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 108460,
-      "num": 108460,
-      "word": "硅谷银行的储户已可正常提款",
-      "onboard_time": 1678774466,
-      "rank": 38,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 108019,
       "num": 437815,
       "word": "人大会议闭幕会全体唱国歌",
@@ -2961,6 +2993,14 @@
       "onboard_time": 1678712908,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 78758,
+      "num": 78758,
+      "word": "令人惊艳的原创歌手",
+      "onboard_time": 1678775487,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 77618,
