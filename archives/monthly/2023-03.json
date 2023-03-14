@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678812784270,
+  "endTime": 1678814604741,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -10051,6 +10051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 415222,
+      "num": 415222,
+      "word": "当词汇量到达一定量的时候",
+      "onboard_time": 1678811184,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 414431,
       "num": 414431,
       "word": "金智秀紫裙",
@@ -14881,14 +14889,6 @@
       "onboard_time": 1677982225,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 269018,
-      "num": 269018,
-      "word": "当词汇量到达一定量的时候",
-      "onboard_time": 1678811184,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 268952,
@@ -27609,6 +27609,14 @@
       "onboard_time": 1678417655,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 56278,
+      "num": 56278,
+      "word": "电影梅根中国首映",
+      "onboard_time": 1678814058,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 56240,

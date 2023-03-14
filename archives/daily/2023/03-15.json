@@ -1,6 +1,6 @@
 {
   "startTime": 1678811567881,
-  "endTime": 1678812784270,
+  "endTime": 1678814604741,
   "band_list": [
     {
       "raw_hot": 2252522,
@@ -83,6 +83,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 415222,
+      "num": 415222,
+      "word": "当词汇量到达一定量的时候",
+      "onboard_time": 1678811184,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 374922,
       "num": 374922,
       "word": "国考排名",
@@ -113,14 +121,6 @@
       "onboard_time": 1678800694,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 269018,
-      "num": 269018,
-      "word": "当词汇量到达一定量的时候",
-      "onboard_time": 1678811184,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 257750,
@@ -409,6 +409,14 @@
       "onboard_time": 1678801415,
       "rank": 29,
       "category": "国内要闻,旅游"
+    },
+    {
+      "raw_hot": 56278,
+      "num": 56278,
+      "word": "电影梅根中国首映",
+      "onboard_time": 1678814058,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 5031,

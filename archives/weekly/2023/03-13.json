@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1678812784270,
+  "endTime": 1678814604741,
   "band_list": [
     {
       "raw_hot": 6995165,
@@ -1723,6 +1723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 415222,
+      "num": 415222,
+      "word": "当词汇量到达一定量的时候",
+      "onboard_time": 1678811184,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 413262,
       "num": 413262,
       "word": "关晓彤了不起的我们开机生图",
@@ -2481,14 +2489,6 @@
       "onboard_time": 1678768472,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 269018,
-      "num": 269018,
-      "word": "当词汇量到达一定量的时候",
-      "onboard_time": 1678811184,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 267578,
@@ -4153,6 +4153,14 @@
       "onboard_time": 1678628848,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 56278,
+      "num": 56278,
+      "word": "电影梅根中国首映",
+      "onboard_time": 1678814058,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 55655,
