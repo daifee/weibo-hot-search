@@ -1,42 +1,98 @@
 {
   "startTime": 1678724793394,
-  "endTime": 1678750428297,
+  "endTime": 1678756728223,
   "band_list": [
     {
+      "raw_hot": 1726486,
+      "num": 574886,
+      "word": "甲流抗原售价已超新冠抗原10倍",
+      "onboard_time": 1678753586,
+      "rank": 3,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 883265,
+      "num": 542218,
+      "word": "美国一城市为霉霉巡演更名",
+      "onboard_time": 1678750221,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 700022,
-      "num": 161601,
+      "num": 231006,
       "word": "爱奇艺考虑拍狂飙电影版",
       "onboard_time": 1678720106,
       "rank": 10,
       "category": "影视"
     },
     {
+      "raw_hot": 672092,
+      "num": 524432,
+      "word": "iPhone15若限充电速度或违反欧盟法律",
+      "onboard_time": 1678754607,
+      "rank": 5,
+      "category": "科技"
+    },
+    {
       "raw_hot": 668814,
-      "num": 243993,
+      "num": 406159,
       "word": "不吃主食或造成大脑功能衰退",
       "onboard_time": 1678729394,
       "rank": 0,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 578125,
-      "num": 161774,
+      "raw_hot": 653162,
+      "num": 485714,
+      "word": "每个人的生日都能在圆周率中找到",
+      "onboard_time": 1678749678,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 622844,
+      "num": 372899,
       "word": "曾经穷游的泰国贵到去不起了",
       "onboard_time": 1678707684,
       "rank": 11,
       "category": "旅游"
     },
     {
-      "raw_hot": 534782,
-      "num": 159761,
+      "raw_hot": 567267,
+      "num": 350395,
+      "word": "李梦宣布加盟华盛顿神秘人",
+      "onboard_time": 1678755626,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 554645,
+      "num": 229103,
       "word": "美国网红称华人商店该被抢",
       "onboard_time": 1678722982,
       "rank": 43,
       "category": "社会新闻"
     },
     {
+      "raw_hot": 554295,
+      "num": 339975,
+      "word": "硅谷银行开门储户大排长龙取款",
+      "onboard_time": 1678753708,
+      "rank": 12,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 509106,
+      "num": 226737,
+      "word": "潘玮柏的嫌弃不像是演的",
+      "onboard_time": 1678713630,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 500083,
-      "num": 141414,
+      "num": 154460,
       "word": "黑莲花",
       "onboard_time": 1678709905,
       "rank": 12,
@@ -44,11 +100,19 @@
     },
     {
       "raw_hot": 499516,
-      "num": 157571,
+      "num": 222438,
       "word": "杨紫琼从history到herstory",
       "onboard_time": 1678723044,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 475762,
+      "num": 475762,
+      "word": "他是谁",
+      "onboard_time": 1678750763,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 473557,
@@ -59,16 +123,8 @@
       "category": "财经"
     },
     {
-      "raw_hot": 406904,
-      "num": 159232,
-      "word": "潘玮柏的嫌弃不像是演的",
-      "onboard_time": 1678713630,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 398459,
-      "num": 162195,
+      "num": 392814,
       "word": "分娩之痛并非天经地义",
       "onboard_time": 1678734671,
       "rank": 5,
@@ -76,7 +132,7 @@
     },
     {
       "raw_hot": 357473,
-      "num": 158857,
+      "num": 224875,
       "word": "女子自学医美给他人手术致8级伤残",
       "onboard_time": 1678716207,
       "rank": 22,
@@ -84,23 +140,47 @@
     },
     {
       "raw_hot": 325492,
-      "num": 161716,
+      "num": 293184,
       "word": "大爷充29万做美容反悔起诉退钱",
       "onboard_time": 1678717168,
       "rank": 14,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 320919,
-      "num": 161687,
-      "word": "每个人的生日都能在圆周率中找到",
-      "onboard_time": 1678749678,
-      "rank": 12,
+      "raw_hot": 317532,
+      "num": 299255,
+      "word": "美国两家银行接连关闭",
+      "onboard_time": 1678753826,
+      "rank": 15,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 301288,
+      "num": 301288,
+      "word": "妈妈绣22米长清明上河图送女儿",
+      "onboard_time": 1678752806,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
+      "raw_hot": 299312,
+      "num": 299312,
+      "word": "恢复审发外国人各类赴华签证",
+      "onboard_time": 1678752323,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 263340,
+      "num": 263340,
+      "word": "人民日报社论",
+      "onboard_time": 1678755326,
+      "rank": 17,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 258357,
-      "num": 158290,
+      "num": 220969,
       "word": "肖战登日本moviestar封面",
       "onboard_time": 1678719507,
       "rank": 23,
@@ -108,7 +188,7 @@
     },
     {
       "raw_hot": 255595,
-      "num": 129012,
+      "num": 136460,
       "word": "周杰伦演唱会",
       "onboard_time": 1678719568,
       "rank": 24,
@@ -116,7 +196,7 @@
     },
     {
       "raw_hot": 244469,
-      "num": 142673,
+      "num": 153961,
       "word": "22岁的丫丫约等于人类的80岁",
       "onboard_time": 1678699226,
       "rank": 15,
@@ -124,7 +204,7 @@
     },
     {
       "raw_hot": 231378,
-      "num": 156852,
+      "num": 220436,
       "word": "日本女游客在印度遭骚扰反道歉",
       "onboard_time": 1678710808,
       "rank": 25,
@@ -132,15 +212,23 @@
     },
     {
       "raw_hot": 219990,
-      "num": 161656,
+      "num": 230992,
       "word": "女孩出汗把衣服染蓝查出色汗症",
       "onboard_time": 1678708706,
       "rank": 16,
       "category": "社会新闻"
     },
     {
+      "raw_hot": 218463,
+      "num": 171696,
+      "word": "苹果首款头显零件照片曝光",
+      "onboard_time": 1678755687,
+      "rank": 30,
+      "category": "科技"
+    },
+    {
       "raw_hot": 215014,
-      "num": 156175,
+      "num": 194419,
       "word": "徐艺洋出演黄子韬新剧",
       "onboard_time": 1678712489,
       "rank": 26,
@@ -155,8 +243,16 @@
       "category": "财经"
     },
     {
+      "raw_hot": 200884,
+      "num": 200884,
+      "word": "我国民间乒乓球藏龙又卧虎",
+      "onboard_time": 1678754906,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190790,
-      "num": 96018,
+      "num": 115828,
       "word": "周雨彤官宣加盟毛雪汪",
       "onboard_time": 1678721426,
       "rank": 27,
@@ -169,6 +265,30 @@
       "onboard_time": 1678706426,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 181018,
+      "num": 181018,
+      "word": "贾昊回应杜锋被驱逐风波",
+      "onboard_time": 1678754487,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 175954,
+      "num": 175954,
+      "word": "董明珠说员工被培养多年理应不去同业",
+      "onboard_time": 1678706904,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 166774,
+      "num": 166774,
+      "word": "大连理工出版社回应图片选取不当",
+      "onboard_time": 1678756645,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 162740,
@@ -187,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161311,
+      "num": 161311,
+      "word": "黑暗荣耀花絮",
+      "onboard_time": 1678756347,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 156167,
       "num": 156167,
       "word": "港星尹子维在内地做探店博主",
@@ -195,20 +323,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 155140,
+      "num": 155140,
+      "word": "库里35岁生日",
+      "onboard_time": 1678752387,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 153094,
+      "num": 153094,
+      "word": "花粉过敏与感冒如何区分",
+      "onboard_time": 1678756406,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152449,
       "num": 152449,
       "word": "于冬说无名9亿票房很满意",
       "onboard_time": 1678716207,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 148119,
-      "num": 160503,
-      "word": "董明珠说员工被培养多年理应不去同业",
-      "onboard_time": 1678706904,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 147430,
@@ -227,6 +363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142421,
+      "num": 142421,
+      "word": "熊猫萌兰潜逃失败开启撒娇模式",
+      "onboard_time": 1678709966,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140060,
       "num": 186874,
       "word": "李强总理说自己是老网民",
@@ -236,7 +380,7 @@
     },
     {
       "raw_hot": 135863,
-      "num": 94077,
+      "num": 104623,
       "word": "杜锋被驱逐",
       "onboard_time": 1678712967,
       "rank": 31,
@@ -251,20 +395,12 @@
       "category": "其它"
     },
     {
-      "raw_hot": 133082,
-      "num": 133082,
-      "word": "美国一城市为霉霉巡演更名",
-      "onboard_time": 1678750221,
-      "rank": 32,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 130888,
-      "num": 96040,
-      "word": "熊猫萌兰潜逃失败开启撒娇模式",
-      "onboard_time": 1678709966,
-      "rank": 33,
-      "category": "社会新闻"
+      "raw_hot": 129832,
+      "num": 129832,
+      "word": "瞬息全宇宙奥斯卡最佳影片",
+      "onboard_time": 1678726997,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 126208,
@@ -276,7 +412,7 @@
     },
     {
       "raw_hot": 124671,
-      "num": 81166,
+      "num": 92082,
       "word": "孙怡演技状态",
       "onboard_time": 1678718188,
       "rank": 35,
@@ -347,12 +483,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 89553,
-      "num": 89553,
-      "word": "瞬息全宇宙奥斯卡最佳影片",
-      "onboard_time": 1678726997,
-      "rank": 42,
-      "category": "影视"
+      "raw_hot": 89077,
+      "num": 89077,
+      "word": "尹子维普通话",
+      "onboard_time": 1678753347,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 81171,
@@ -371,6 +507,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 72204,
+      "num": 649194,
+      "word": "两会",
+      "onboard_time": 1678701026,
+      "rank": 1,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 71833,
       "num": 195012,
       "word": "十四届全国人大一次会议闭幕会",
@@ -379,11 +523,11 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 68793,
-      "num": 188329,
-      "word": "两会",
-      "onboard_time": 1678701026,
-      "rank": 1,
+      "raw_hot": 67676,
+      "num": 612482,
+      "word": "我们从春天出发",
+      "onboard_time": 1678712908,
+      "rank": 2,
       "category": "国内要闻"
     },
     {
@@ -401,6 +545,14 @@
       "onboard_time": 1678698506,
       "rank": 46,
       "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 60332,
+      "num": 621606,
+      "word": "代表委员说检察",
+      "onboard_time": 1678725500,
+      "rank": 8,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 60197,
@@ -427,14 +579,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 55511,
-      "num": 192965,
-      "word": "我们从春天出发",
-      "onboard_time": 1678712908,
-      "rank": 2,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 54522,
       "num": 80753,
       "word": "成毅英雄志骑马送亲路透",
@@ -449,14 +593,6 @@
       "onboard_time": 1678716928,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 37666,
-      "num": 186274,
-      "word": "代表委员说检察",
-      "onboard_time": 1678725500,
-      "rank": 8,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 28945,
