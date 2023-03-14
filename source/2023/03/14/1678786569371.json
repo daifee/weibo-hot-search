@@ -1,0 +1,410 @@
+{
+  "runTime": 1678786569371,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1039742,
+        "num": 1039742,
+        "word": "黑暗荣耀里的蛇是真蛇",
+        "onboard_time": 1678783528,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 878326,
+        "num": 878326,
+        "word": "警方悬赏3万缉捕马冬梅",
+        "onboard_time": 1678775364,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66830,
+        "num": 606103,
+        "word": "太空视角看美丽地球家园",
+        "onboard_time": 1678782867,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2911206,
+        "num": 602107,
+        "word": "蔚来险遭强奸女员工发声",
+        "onboard_time": 1678782450,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1338821,
+        "num": 601959,
+        "word": "刘亚仁吸毒证据超10000张",
+        "onboard_time": 1678785510,
+        "rank": 4,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 595923,
+        "num": 595923,
+        "word": "海底捞要求必须点锅底",
+        "onboard_time": 1678765648,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 440322,
+        "num": 440322,
+        "word": "终于知道为什么老说猴急了",
+        "onboard_time": 1678782808,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 431729,
+        "num": 431729,
+        "word": "谢霆锋一天官宣3部新片",
+        "onboard_time": 1678777769,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 399555,
+        "num": 399555,
+        "word": "关晓彤了不起的我们开机生图",
+        "onboard_time": 1678782268,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 383764,
+        "num": 383764,
+        "word": "他是谁首播收视率",
+        "onboard_time": 1678786349,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 988370,
+        "num": 372535,
+        "word": "宁艺卓右眼几乎看不到",
+        "onboard_time": 1678776508,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 513565,
+        "num": 363162,
+        "word": "杨紫琼获奖 马国明放假",
+        "onboard_time": 1678781308,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 343497,
+        "num": 343497,
+        "word": "双子座真的很需要夸奖",
+        "onboard_time": 1678780289,
+        "rank": 12,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 336051,
+        "num": 336051,
+        "word": "刘亦菲 微博之夜",
+        "onboard_time": 1678779028,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 334351,
+        "num": 334351,
+        "word": "阿根廷国家队关于中国行声明",
+        "onboard_time": 1678776867,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 327946,
+        "num": 327946,
+        "word": "我国理工科学生比例下降",
+        "onboard_time": 1678773567,
+        "rank": 15,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 326040,
+        "num": 326040,
+        "word": "甲流与新冠有可能叠加感染吗",
+        "onboard_time": 1678777349,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317641,
+        "num": 317641,
+        "word": "她拿格莱美才会刺激到张曼玉",
+        "onboard_time": 1678776748,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 292885,
+        "num": 292885,
+        "word": "那些小说中的顶流天花板",
+        "onboard_time": 1678779810,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 274070,
+        "num": 274070,
+        "word": "学而思素养课存在超前超纲内容",
+        "onboard_time": 1678784429,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273710,
+        "num": 273710,
+        "word": "河道英 全在俊",
+        "onboard_time": 1678777769,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 245401,
+        "num": 245401,
+        "word": "张远觉得王栎鑫改编的嘉宾最差",
+        "onboard_time": 1678781908,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245377,
+        "num": 245377,
+        "word": "一起照亮丫丫回家路",
+        "onboard_time": 1678783050,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241903,
+        "num": 241903,
+        "word": "文东恩妈妈和张震演过情侣",
+        "onboard_time": 1678782387,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 189399,
+        "num": 219348,
+        "word": "国考",
+        "onboard_time": 1678760005,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 208317,
+        "num": 208317,
+        "word": "声生不息宝岛季首发阵容",
+        "onboard_time": 1678786349,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190853,
+        "num": 208316,
+        "word": "王一博无名幕后",
+        "onboard_time": 1678786349,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 178343,
+        "num": 208302,
+        "word": "薛之谦演唱会",
+        "onboard_time": 1678786409,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 166776,
+        "num": 208297,
+        "word": "多家电商平台有女性迷药隐蔽出售",
+        "onboard_time": 1678769132,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164006,
+        "num": 208280,
+        "word": "原神白色情人节",
+        "onboard_time": 1678783469,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 270728,
+        "num": 208276,
+        "word": "韩俊同志任安徽省委书记",
+        "onboard_time": 1678784189,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176891,
+        "num": 208260,
+        "word": "管虎新片黄渤倪妮搭档",
+        "onboard_time": 1678784009,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165881,
+        "num": 208256,
+        "word": "创造101乐华初舞台彩排未公开版",
+        "onboard_time": 1678776148,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155170,
+        "num": 208250,
+        "word": "黑暗荣耀2",
+        "onboard_time": 1678780230,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 149582,
+        "num": 208235,
+        "word": "于和伟确诊甲流",
+        "onboard_time": 1678766549,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145329,
+        "num": 208225,
+        "word": "黄子韬演技",
+        "onboard_time": 1678784608,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 141828,
+        "num": 208215,
+        "word": "硅谷银行的储户已可正常提款",
+        "onboard_time": 1678774466,
+        "rank": 36,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 139151,
+        "num": 208205,
+        "word": "腾讯会议再次调整",
+        "onboard_time": 1678778129,
+        "rank": 37,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 116320,
+        "num": 208192,
+        "word": "沈晓明同志任湖南省委书记",
+        "onboard_time": 1678784908,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95946,
+        "num": 208192,
+        "word": "看得出她对吃饭的热情",
+        "onboard_time": 1678780350,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 135168,
+        "num": 208175,
+        "word": "归路",
+        "onboard_time": 1678785569,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 130506,
+        "num": 208172,
+        "word": "陈星旭李兰迪鼻尖吻删减剧情",
+        "onboard_time": 1678780527,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 115319,
+        "num": 208158,
+        "word": "吴世勋亲爱的阿基米德将今年播出",
+        "onboard_time": 1678770031,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 115046,
+        "num": 208151,
+        "word": "陈飞宇最新机场路透",
+        "onboard_time": 1678770928,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 102752,
+        "num": 208141,
+        "word": "肖战骑单车路透",
+        "onboard_time": 1678769250,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 100848,
+        "num": 208132,
+        "word": "声生不息海报",
+        "onboard_time": 1678779209,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90690,
+        "num": 208116,
+        "word": "原神",
+        "onboard_time": 1678769550,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 90549,
+        "num": 208107,
+        "word": "上班通勤四小时是什么体验",
+        "onboard_time": 1678764326,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 87077,
+        "num": 208105,
+        "word": "王曼昱连得7分造逆转",
+        "onboard_time": 1678778188,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78080,
+        "num": 208092,
+        "word": "王伯祥去世",
+        "onboard_time": 1678765766,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#强国建设民族复兴#"
+    }
+  }
+}
