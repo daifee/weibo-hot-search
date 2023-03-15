@@ -1,0 +1,410 @@
+{
+  "runTime": 1678868653803,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1121434,
+        "num": 1121434,
+        "word": "108公斤毒品藏身20吨木炭",
+        "onboard_time": 1678864287,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 836410,
+        "num": 836410,
+        "word": "张译王骁高叶狂飙后再同框",
+        "onboard_time": 1678867648,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 45293,
+        "num": 677138,
+        "word": "政府工作报告全文发布",
+        "onboard_time": 1678847906,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 676924,
+        "num": 676924,
+        "word": "吉野家吃出蟑螂后检查发现43只",
+        "onboard_time": 1678854329,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 581759,
+        "num": 581759,
+        "word": "矿大校长回应校友1100万捐款风波",
+        "onboard_time": 1678866388,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 530338,
+        "num": 530338,
+        "word": "全院加速中",
+        "onboard_time": 1678861646,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 495103,
+        "num": 495103,
+        "word": "曝新疆男篮即将回归CBA",
+        "onboard_time": 1678864167,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 477997,
+        "num": 477997,
+        "word": "找到了最适合大学生的工作",
+        "onboard_time": 1678866388,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 477705,
+        "num": 477705,
+        "word": "中伊俄等国将举行海上联合军演",
+        "onboard_time": 1678865187,
+        "rank": 8,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 451249,
+        "num": 451249,
+        "word": "岳云鹏商演定了三个城市",
+        "onboard_time": 1678863327,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1091365,
+        "num": 450461,
+        "word": "内娱红毯的定海神针",
+        "onboard_time": 1678864647,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 707744,
+        "num": 449765,
+        "word": "俩孩子看直播花光父亲百万死亡赔偿金",
+        "onboard_time": 1678859305,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 442912,
+        "num": 442912,
+        "word": "山航就中国俄航等调侃信息发声明",
+        "onboard_time": 1678865488,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 439380,
+        "num": 439380,
+        "word": "郁金香壁纸",
+        "onboard_time": 1678860328,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 437139,
+        "num": 437139,
+        "word": "国产悬疑刑侦剧天花板",
+        "onboard_time": 1678855831,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 400753,
+        "num": 400753,
+        "word": "迪丽热巴新视线封面预告",
+        "onboard_time": 1678868428,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 367727,
+        "num": 367727,
+        "word": "原来熊猫是可以钓的",
+        "onboard_time": 1678865248,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 354890,
+        "num": 354890,
+        "word": "洪知秀内地首封",
+        "onboard_time": 1678863566,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 350736,
+        "num": 350736,
+        "word": "钱天一晋级",
+        "onboard_time": 1678868006,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1833128,
+        "num": 350447,
+        "word": "长期吸食奶茶杯或致闭经不孕",
+        "onboard_time": 1678863867,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1167675,
+        "num": 350236,
+        "word": "王鹤棣赵露思三亚同框",
+        "onboard_time": 1678862908,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 349785,
+        "num": 349785,
+        "word": "混血神颜天花板",
+        "onboard_time": 1678862727,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 322957,
+        "num": 322957,
+        "word": "李到晛罗美兰合作",
+        "onboard_time": 1678866988,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 322509,
+        "num": 322509,
+        "word": "墨宝非宝男主嘴一个比一个硬",
+        "onboard_time": 1678856550,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 266406,
+        "num": 266406,
+        "word": "国考调剂",
+        "onboard_time": 1678860568,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 247364,
+        "num": 247364,
+        "word": "清明节放假一天不调休",
+        "onboard_time": 1678842150,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235390,
+        "num": 235390,
+        "word": "上海网红餐厅火烧云吃出异物",
+        "onboard_time": 1678867588,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235282,
+        "num": 235282,
+        "word": "酒店与女演员和解方案未达一致",
+        "onboard_time": 1678866028,
+        "rank": 27,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 223424,
+        "num": 223424,
+        "word": "成龙耍刀郭麒麟被刀耍",
+        "onboard_time": 1678866507,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 215895,
+        "num": 215895,
+        "word": "警方通报女子殴打代驾称丈夫是警察",
+        "onboard_time": 1678857748,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209697,
+        "num": 209697,
+        "word": "宋智雅重启演艺活动",
+        "onboard_time": 1678860148,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189687,
+        "num": 189687,
+        "word": "周深两首歌入选中国当代歌曲创作精品",
+        "onboard_time": 1678868550,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 188724,
+        "num": 188724,
+        "word": "谭松韵说井柏然像来接孩子的",
+        "onboard_time": 1678860925,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 185241,
+        "num": 185241,
+        "word": "315",
+        "onboard_time": 1678801351,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182297,
+        "num": 182297,
+        "word": "WTT",
+        "onboard_time": 1678866085,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180450,
+        "num": 180450,
+        "word": "俞永镇跟李秀满离开SM",
+        "onboard_time": 1678862846,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176079,
+        "num": 176079,
+        "word": "崔惠廷露出镜头是CG替身合成",
+        "onboard_time": 1678857689,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 170820,
+        "num": 170820,
+        "word": "用绳子缠住主人的狗狗",
+        "onboard_time": 1678862366,
+        "rank": 37,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 164828,
+        "num": 164828,
+        "word": "13岁女孩患红斑狼疮疼得精神异常",
+        "onboard_time": 1678851209,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154826,
+        "num": 154826,
+        "word": "大鹏说找王一博演热烈是因为适合",
+        "onboard_time": 1678860508,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 150812,
+        "num": 150812,
+        "word": "为什么国内喝星巴克的人越来越少了",
+        "onboard_time": 1678840950,
+        "rank": 40,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 143783,
+        "num": 143783,
+        "word": "和春天约会",
+        "onboard_time": 1678867230,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139997,
+        "num": 139997,
+        "word": "南京地铁回应乘客喝牛奶被开罚单",
+        "onboard_time": 1678850666,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126205,
+        "num": 126205,
+        "word": "在俊呐 拍杂志也要这么上火吗",
+        "onboard_time": 1678850366,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 121102,
+        "num": 121102,
+        "word": "他是谁4集9个受害者",
+        "onboard_time": 1678863026,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 111237,
+        "num": 111237,
+        "word": "猫为什么讨厌你男朋友",
+        "onboard_time": 1678868245,
+        "rank": 45,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 104021,
+        "num": 104021,
+        "word": "按摩枕充电自燃女子新家变废墟",
+        "onboard_time": 1678863086,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104019,
+        "num": 104019,
+        "word": "戴文青木",
+        "onboard_time": 1678859668,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97523,
+        "num": 97523,
+        "word": "女子抄凳子猛砸代驾叫嚣",
+        "onboard_time": 1678857689,
+        "rank": 48,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 96463,
+        "num": 96463,
+        "word": "黑龙江再现黑土非法贩卖",
+        "onboard_time": 1678857329,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记点赞新农人逐梦沃野#"
+    }
+  }
+}

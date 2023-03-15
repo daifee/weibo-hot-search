@@ -1,6 +1,6 @@
 {
   "startTime": 1678811567881,
-  "endTime": 1678865624574,
+  "endTime": 1678868653803,
   "band_list": [
     {
       "raw_hot": 2978909,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1471468,
-      "num": 320547,
+      "num": 350236,
       "word": "王鹤棣赵露思三亚同框",
       "onboard_time": 1678862908,
       "rank": 20,
@@ -83,12 +83,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1121434,
+      "num": 1121434,
+      "word": "108公斤毒品藏身20吨木炭",
+      "onboard_time": 1678864287,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1121327,
       "num": 1121327,
       "word": "13岁女孩患红斑狼疮疼得精神异常",
       "onboard_time": 1678851209,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1091365,
+      "num": 497508,
+      "word": "内娱红毯的定海神针",
+      "onboard_time": 1678864647,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1057155,
@@ -161,6 +177,14 @@
       "onboard_time": 1678859305,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 836410,
+      "num": 836410,
+      "word": "张译王骁高叶狂飙后再同框",
+      "onboard_time": 1678867648,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 834613,
@@ -291,14 +315,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 604973,
-      "num": 497508,
-      "word": "内娱红毯的定海神针",
-      "onboard_time": 1678864647,
-      "rank": 11,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 603382,
       "num": 603382,
       "word": "郁金香壁纸",
@@ -321,6 +337,14 @@
       "onboard_time": 1678846347,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 581759,
+      "num": 581759,
+      "word": "矿大校长回应校友1100万捐款风波",
+      "onboard_time": 1678866388,
+      "rank": 4,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 580983,
@@ -475,6 +499,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 477997,
+      "num": 477997,
+      "word": "找到了最适合大学生的工作",
+      "onboard_time": 1678866388,
+      "rank": 7,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 477705,
+      "num": 477705,
+      "word": "中伊俄等国将举行海上联合军演",
+      "onboard_time": 1678865187,
+      "rank": 33,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 473379,
       "num": 473379,
       "word": "国考成绩",
@@ -491,6 +531,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 442912,
+      "num": 442912,
+      "word": "山航就中国俄航等调侃信息发声明",
+      "onboard_time": 1678865488,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 435167,
       "num": 435167,
       "word": "赤脚踩腌菜涉事公司回应",
@@ -505,14 +553,6 @@
       "onboard_time": 1678842808,
       "rank": 18,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 435036,
-      "num": 435036,
-      "word": "108公斤毒品藏身20吨木炭",
-      "onboard_time": 1678864287,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 428816,
@@ -571,6 +611,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 400753,
+      "num": 400753,
+      "word": "迪丽热巴新视线封面预告",
+      "onboard_time": 1678868428,
+      "rank": 15,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 394180,
       "num": 394180,
       "word": "名侦探学院",
@@ -585,6 +633,14 @@
       "onboard_time": 1678838968,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 367727,
+      "num": 367727,
+      "word": "原来熊猫是可以钓的",
+      "onboard_time": 1678865248,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 364699,
@@ -627,6 +683,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 350736,
+      "num": 350736,
+      "word": "钱天一晋级",
+      "onboard_time": 1678868006,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 349785,
+      "num": 349785,
+      "word": "混血神颜天花板",
+      "onboard_time": 1678862727,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 345729,
       "num": 345729,
       "word": "黑龙江省考",
@@ -643,14 +715,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 336936,
-      "num": 336936,
-      "word": "混血神颜天花板",
-      "onboard_time": 1678862727,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 328163,
       "num": 328163,
       "word": "EXO看KAI新歌MVReaction",
@@ -665,6 +729,14 @@
       "onboard_time": 1678838127,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 322957,
+      "num": 322957,
+      "word": "李到晛罗美兰合作",
+      "onboard_time": 1678866988,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 322822,
@@ -827,6 +899,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 235390,
+      "num": 235390,
+      "word": "上海网红餐厅火烧云吃出异物",
+      "onboard_time": 1678867588,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 235282,
+      "num": 235282,
+      "word": "酒店与女演员和解方案未达一致",
+      "onboard_time": 1678866028,
+      "rank": 27,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 233080,
       "num": 233080,
       "word": "爱情而已首发预告",
@@ -881,6 +969,14 @@
       "onboard_time": 1678796070,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223424,
+      "num": 223424,
+      "word": "成龙耍刀郭麒麟被刀耍",
+      "onboard_time": 1678866507,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 222541,
@@ -979,20 +1075,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 194557,
-      "num": 194557,
-      "word": "中伊俄等国将举行海上联合军演",
-      "onboard_time": 1678865187,
-      "rank": 33,
-      "category": "军事,社会新闻"
-    },
-    {
       "raw_hot": 192342,
       "num": 192342,
       "word": "张俪嘶吼哭戏",
       "onboard_time": 1678854933,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 189687,
+      "num": 189687,
+      "word": "周深两首歌入选中国当代歌曲创作精品",
+      "onboard_time": 1678868550,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 188746,
@@ -1017,6 +1113,14 @@
       "onboard_time": 1678842989,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182297,
+      "num": 182297,
+      "word": "WTT",
+      "onboard_time": 1678866085,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 175957,
@@ -1131,12 +1235,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 142479,
-      "num": 142479,
-      "word": "原来熊猫是可以钓的",
-      "onboard_time": 1678865248,
-      "rank": 39,
-      "category": "幽默"
+      "raw_hot": 143783,
+      "num": 143783,
+      "word": "和春天约会",
+      "onboard_time": 1678867230,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 141509,
@@ -1267,12 +1371,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 111690,
-      "num": 111690,
-      "word": "山航就中国俄航等调侃信息发声明",
-      "onboard_time": 1678865488,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 111237,
+      "num": 111237,
+      "word": "猫为什么讨厌你男朋友",
+      "onboard_time": 1678868245,
+      "rank": 45,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 101547,
