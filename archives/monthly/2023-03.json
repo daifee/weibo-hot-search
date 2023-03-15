@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678912428353,
+  "endTime": 1678915006991,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -30041,6 +30041,14 @@
       "onboard_time": 1677575251,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 36409,
+      "num": 21240,
+      "word": "980元一盒的鹿鞭丸检出伟哥",
+      "onboard_time": 1678912571,
+      "rank": 21,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 36377,
