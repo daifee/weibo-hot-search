@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678836834233,
+  "endTime": 1678844110114,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -417,6 +417,14 @@
       "onboard_time": 1678668568,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2208175,
+      "num": 1718683,
+      "word": "GPT4",
+      "onboard_time": 1678840350,
+      "rank": 1,
+      "category": "科技"
     },
     {
       "raw_hot": 2171501,
@@ -907,6 +915,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 1719265,
+      "num": 1719265,
+      "word": "为什么国内喝星巴克的人越来越少了",
+      "onboard_time": 1678840950,
+      "rank": 0,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 1713353,
       "num": 1713353,
       "word": "周琦回应",
@@ -961,6 +977,14 @@
       "onboard_time": 1678092927,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1681466,
+      "num": 1681466,
+      "word": "清明节放假一天不调休",
+      "onboard_time": 1678842150,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1679857,
@@ -2939,6 +2963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 986445,
+      "num": 986445,
+      "word": "夫妻辞去中科院和北大的工作回乡务农",
+      "onboard_time": 1678840170,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 986362,
       "num": 536850,
       "word": "大学生主打的就是一个信任",
@@ -3081,6 +3113,14 @@
       "onboard_time": 1678367307,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 963594,
+      "num": 963594,
+      "word": "汕头再现工人赤脚踩腌菜",
+      "onboard_time": 1678836502,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 960916,
@@ -3531,6 +3571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 868065,
+      "num": 868065,
+      "word": "网文连载十余年被网友举报",
+      "onboard_time": 1678841431,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 867116,
       "num": 553905,
       "word": "六级",
@@ -3577,6 +3625,14 @@
       "onboard_time": 1678720106,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 860380,
+      "num": 860380,
+      "word": "洗澡吃橘子",
+      "onboard_time": 1678841970,
+      "rank": 9,
+      "category": "情感"
     },
     {
       "raw_hot": 859879,
@@ -3993,6 +4049,14 @@
       "onboard_time": 1678020750,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 810488,
+      "num": 810488,
+      "word": "宋慧乔韩素希合作自白的代价",
+      "onboard_time": 1678843526,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 809049,
@@ -4489,6 +4553,14 @@
       "onboard_time": 1677748592,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 753414,
+      "num": 753414,
+      "word": "台湾女子买两盒鸡蛋5分钟被偷",
+      "onboard_time": 1678842388,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 752908,
@@ -5987,6 +6059,14 @@
       "category": "军事,国内要闻"
     },
     {
+      "raw_hot": 626619,
+      "num": 626619,
+      "word": "东方甄选养殖虾当野生虾卖",
+      "onboard_time": 1678838909,
+      "rank": 12,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 626497,
       "num": 626497,
       "word": "王伯祥去世",
@@ -7403,6 +7483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 536162,
+      "num": 536162,
+      "word": "女子疑吃自嗨锅后食物中毒被送医",
+      "onboard_time": 1678836744,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 535585,
       "num": 535585,
       "word": "奇瑞回应要求员工周六上班",
@@ -8612,7 +8700,7 @@
     },
     {
       "raw_hot": 483291,
-      "num": 203407,
+      "num": 300552,
       "word": "男子辞职摆摊拍照1月内激增14家同行",
       "onboard_time": 1678808548,
       "rank": 20,
@@ -8737,6 +8825,14 @@
       "onboard_time": 1678620086,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 476775,
+      "num": 476775,
+      "word": "橄榄菜",
+      "onboard_time": 1678841250,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 476425,
@@ -8961,6 +9057,14 @@
       "onboard_time": 1678016969,
       "rank": 6,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 464564,
+      "num": 464564,
+      "word": "国考排名",
+      "onboard_time": 1678807889,
+      "rank": 31,
+      "category": "教育"
     },
     {
       "raw_hot": 463640,
@@ -9603,6 +9707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 435039,
+      "num": 435039,
+      "word": "自嗨锅",
+      "onboard_time": 1678842808,
+      "rank": 18,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 434813,
       "num": 374071,
       "word": "李秀满选择方时赫的理由",
@@ -9721,6 +9833,14 @@
       "onboard_time": 1677891747,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 428816,
+      "num": 428816,
+      "word": "他是谁首播成全网收视冠军",
+      "onboard_time": 1678840831,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 428799,
@@ -10771,6 +10891,14 @@
       "category": "动漫,艺人"
     },
     {
+      "raw_hot": 385535,
+      "num": 385535,
+      "word": "微博之夜嘉宾",
+      "onboard_time": 1677551848,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 385391,
       "num": 385391,
       "word": "薛之谦说佛山站郑州站准备就绪",
@@ -11113,14 +11241,6 @@
       "onboard_time": 1678006646,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 374922,
-      "num": 374922,
-      "word": "国考排名",
-      "onboard_time": 1678807889,
-      "rank": 31,
-      "category": "教育"
     },
     {
       "raw_hot": 374661,
@@ -11768,6 +11888,14 @@
       "word": "王艺迪2比3平野美宇",
       "onboard_time": 1678688008,
       "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 355747,
+      "num": 355747,
+      "word": "2026世界杯改制",
+      "onboard_time": 1678839269,
+      "rank": 22,
       "category": "体育"
     },
     {
@@ -12913,6 +13041,14 @@
       "onboard_time": 1677749370,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 323037,
+      "num": 323037,
+      "word": "张大大给赵继伟送周杰伦演唱会门票",
+      "onboard_time": 1678838127,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 322631,
@@ -17555,6 +17691,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 214585,
+      "num": 214585,
+      "word": "cp29",
+      "onboard_time": 1678843288,
+      "rank": 32,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 214536,
       "num": 209549,
       "word": "李兰迪陈星旭你好星期六合体",
@@ -17801,6 +17945,14 @@
       "onboard_time": 1678502126,
       "rank": 38,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 209939,
+      "num": 209939,
+      "word": "湖人三分球投疯了",
+      "onboard_time": 1678843469,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 209927,
@@ -19187,6 +19339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 197582,
+      "num": 197582,
+      "word": "国考进面",
+      "onboard_time": 1678844068,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 197530,
       "num": 197530,
       "word": "秦刚回应中美无人飞艇事件",
@@ -20539,14 +20699,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 183918,
-      "num": 137634,
-      "word": "汕头再现工人赤脚踩腌菜",
-      "onboard_time": 1678836502,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 183369,
       "num": 183369,
       "word": "LGD对战TTG",
@@ -21001,6 +21153,14 @@
       "onboard_time": 1678520845,
       "rank": 24,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 175957,
+      "num": 175957,
+      "word": "路晨归晓什么时候复合",
+      "onboard_time": 1678842089,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 175881,
@@ -22019,14 +22179,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 159649,
-      "num": 138234,
-      "word": "女子疑吃自嗨锅后食物中毒被送医",
-      "onboard_time": 1678836744,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 159605,
       "num": 159605,
       "word": "致敬所有的独立妇女",
@@ -22537,6 +22689,14 @@
       "onboard_time": 1678177645,
       "rank": 39,
       "category": "幽默,社会新闻"
+    },
+    {
+      "raw_hot": 151636,
+      "num": 206587,
+      "word": "800多岁玉兰古树花开似雪",
+      "onboard_time": 1678836623,
+      "rank": 29,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 151622,
@@ -23107,6 +23267,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 144611,
+      "num": 144611,
+      "word": "315最受关注数码问题灵动岛烧屏",
+      "onboard_time": 1678842749,
+      "rank": 43,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 144590,
       "num": 144590,
       "word": "U20国足5分钟内连丢两球",
@@ -23313,6 +23481,14 @@
       "onboard_time": 1677997407,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 141509,
+      "num": 141509,
+      "word": "湖人vs鹈鹕",
+      "onboard_time": 1678840771,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 141427,
@@ -23953,6 +24129,14 @@
       "onboard_time": 1677753568,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 133980,
+      "num": 133980,
+      "word": "速度与激情10新海报",
+      "onboard_time": 1678838127,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 133846,
@@ -24857,6 +25041,14 @@
       "onboard_time": 1678180828,
       "rank": 44,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 118949,
+      "num": 118949,
+      "word": "张纯烨说大多数人拒绝情绪化的另一半",
+      "onboard_time": 1678840649,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 118917,
@@ -26523,6 +26715,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 95268,
+      "num": 95268,
+      "word": "朴智旻 预告",
+      "onboard_time": 1678839209,
+      "rank": 49,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 95210,
       "num": 95210,
       "word": "陈伟霆一天官宣两部电影",
@@ -27025,14 +27225,6 @@
       "onboard_time": 1678009047,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 83026,
-      "num": 137803,
-      "word": "800多岁玉兰古树花开似雪",
-      "onboard_time": 1678836623,
-      "rank": 29,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 82968,
@@ -28097,14 +28289,6 @@
       "onboard_time": 1678553540,
       "rank": 4,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 32331,
-      "num": 32331,
-      "word": "微博之夜嘉宾",
-      "onboard_time": 1677551848,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 31948,
