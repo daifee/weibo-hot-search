@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678862272241,
+  "endTime": 1678864622659,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -1593,6 +1593,14 @@
       "onboard_time": 1678699226,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1377967,
+      "num": 302514,
+      "word": "王鹤棣赵露思三亚同框",
+      "onboard_time": 1678862908,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1377705,
@@ -3651,6 +3659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 868106,
+      "num": 507702,
+      "word": "俩孩子看直播花光父亲百万死亡赔偿金",
+      "onboard_time": 1678859305,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 867116,
       "num": 553905,
       "word": "六级",
@@ -3875,14 +3891,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 843378,
-      "num": 507702,
-      "word": "俩孩子看直播花光父亲百万死亡赔偿金",
-      "onboard_time": 1678859305,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 841523,
       "num": 841523,
       "word": "国家医保局回应患者15天必须出院",
@@ -3953,6 +3961,14 @@
       "onboard_time": 1678850366,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 832688,
+      "num": 464179,
+      "word": "长期吸食奶茶杯或致闭经不孕",
+      "onboard_time": 1678863867,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 832531,
@@ -4209,6 +4225,14 @@
       "onboard_time": 1677977545,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 801616,
+      "num": 801616,
+      "word": "全院加速中",
+      "onboard_time": 1678861646,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 799659,
@@ -7035,6 +7059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 567992,
+      "num": 567992,
+      "word": "岳云鹏商演定了三个城市",
+      "onboard_time": 1678863327,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 567578,
       "num": 304609,
       "word": "曲阜师范女大学生考研前期确诊血癌",
@@ -7657,6 +7689,14 @@
       "onboard_time": 1678505673,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 536636,
+      "num": 536636,
+      "word": "郁金香壁纸",
+      "onboard_time": 1678860328,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 536162,
@@ -8585,6 +8625,14 @@
       "onboard_time": 1678147947,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 496648,
+      "num": 496648,
+      "word": "洪知秀内地首封",
+      "onboard_time": 1678863566,
+      "rank": 8,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 496499,
@@ -10177,14 +10225,6 @@
       "onboard_time": 1677670468,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 425763,
-      "num": 425763,
-      "word": "全院加速中",
-      "onboard_time": 1678861646,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 425685,
@@ -12355,6 +12395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 351905,
+      "num": 351905,
+      "word": "俞永镇跟李秀满离开SM",
+      "onboard_time": 1678862846,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 351884,
       "num": 351884,
       "word": "姚弛 不被性别化偏见的形容词所绑架",
@@ -12889,6 +12937,14 @@
       "onboard_time": 1678858647,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 336936,
+      "num": 336936,
+      "word": "混血神颜天花板",
+      "onboard_time": 1678862727,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 336072,
@@ -14755,14 +14811,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 285393,
-      "num": 285393,
-      "word": "郁金香壁纸",
-      "onboard_time": 1678860328,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
       "raw_hot": 284908,
       "num": 284908,
       "word": "马国明 没有放假",
@@ -15187,6 +15235,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 274565,
+      "num": 243388,
+      "word": "他是谁4集9个受害者",
+      "onboard_time": 1678863026,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 274322,
       "num": 274322,
       "word": "熊猫界也有熊孩子",
@@ -15425,6 +15481,14 @@
       "onboard_time": 1678363948,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 268911,
+      "num": 257782,
+      "word": "谭松韵说井柏然像来接孩子的",
+      "onboard_time": 1678860925,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 268699,
@@ -15849,14 +15913,6 @@
       "onboard_time": 1678769250,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 257782,
-      "num": 257782,
-      "word": "谭松韵说井柏然像来接孩子的",
-      "onboard_time": 1678860925,
-      "rank": 39,
-      "category": "影视"
     },
     {
       "raw_hot": 257615,
@@ -17347,6 +17403,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 227930,
+      "num": 227930,
+      "word": "用绳子缠住主人的狗狗",
+      "onboard_time": 1678862366,
+      "rank": 27,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 227755,
       "num": 227755,
       "word": "五行世家定档",
@@ -18313,6 +18377,14 @@
       "onboard_time": 1678167146,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 211261,
+      "num": 211261,
+      "word": "曝新疆男篮即将回归CBA",
+      "onboard_time": 1678864167,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 211254,
@@ -21011,6 +21083,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 186501,
+      "num": 186501,
+      "word": "高圆圆片场吃零食",
+      "onboard_time": 1678859128,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 186335,
       "num": 186335,
       "word": "NMIXX新专预告照",
@@ -21891,14 +21971,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 172460,
-      "num": 172460,
-      "word": "高圆圆片场吃零食",
-      "onboard_time": 1678859128,
-      "rank": 38,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 172362,
       "num": 207964,
       "word": "河道英演我回消息",
@@ -21983,6 +22055,14 @@
       "num": 220721,
       "word": "纪念马克思逝世140周年",
       "onboard_time": 1678757305,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171994,
+      "num": 171994,
+      "word": "按摩枕充电自燃女子新家变废墟",
+      "onboard_time": 1678863086,
       "rank": 38,
       "category": "社会新闻"
     },
@@ -22419,6 +22499,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 164910,
+      "num": 220773,
+      "word": "云南瑞丽查获冰毒超100公斤",
+      "onboard_time": 1678863745,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164884,
       "num": 602036,
       "word": "苍兰诀动画收官",
@@ -22777,6 +22865,14 @@
       "onboard_time": 1677917066,
       "rank": 8,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 158566,
+      "num": 158566,
+      "word": "张瑞3比2平野美宇",
+      "onboard_time": 1678862245,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 158405,
@@ -23969,6 +24065,14 @@
       "onboard_time": 1678082307,
       "rank": 39,
       "category": "影视,社会新闻"
+    },
+    {
+      "raw_hot": 142395,
+      "num": 142395,
+      "word": "108公斤毒品藏身20吨木炭",
+      "onboard_time": 1678864287,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142244,
@@ -26131,6 +26235,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 111785,
+      "num": 111785,
+      "word": "晨晓cp打台球",
+      "onboard_time": 1678863867,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 111783,
       "num": 111783,
       "word": "支持见义勇为坚决反对和稀泥",
@@ -26648,14 +26760,6 @@
       "word": "NBA",
       "onboard_time": 1678517067,
       "rank": 42,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 105214,
-      "num": 105214,
-      "word": "张瑞3比2平野美宇",
-      "onboard_time": 1678862245,
-      "rank": 47,
       "category": "体育"
     },
     {
