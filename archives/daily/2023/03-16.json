@@ -1,6 +1,6 @@
 {
   "startTime": 1678897636121,
-  "endTime": 1678905416795,
+  "endTime": 1678907717764,
   "band_list": [
     {
       "raw_hot": 1136086,
@@ -451,20 +451,20 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 23183,
+      "num": 23183,
+      "word": "樊振东 混双",
+      "onboard_time": 1678891474,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 22043,
       "num": 22397,
       "word": "黑暗荣耀2",
       "onboard_time": 1678780230,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 20922,
-      "num": 22394,
-      "word": "樊振东 混双",
-      "onboard_time": 1678891474,
-      "rank": 48,
-      "category": "体育"
     }
   ],
   "hotgov_list": [
