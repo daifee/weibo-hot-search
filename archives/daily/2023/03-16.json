@@ -1,6 +1,6 @@
 {
   "startTime": 1678897636121,
-  "endTime": 1678898700640,
+  "endTime": 1678900670263,
   "band_list": [
     {
       "raw_hot": 1136086,
@@ -27,8 +27,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 638554,
-      "num": 227990,
+      "raw_hot": 645273,
+      "num": 645273,
       "word": "Tiffany被曝一钻两卖",
       "onboard_time": 1678896445,
       "rank": 30,
@@ -97,6 +97,14 @@
       "onboard_time": 1678876888,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 366144,
+      "num": 185999,
+      "word": "offer约定月薪2万1入职时变4千",
+      "onboard_time": 1678897643,
+      "rank": 18,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 338932,
@@ -187,14 +195,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 185999,
-      "num": 185999,
-      "word": "offer约定月薪2万1入职时变4千",
-      "onboard_time": 1678897643,
-      "rank": 18,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 177462,
       "num": 177462,
       "word": "瑞士信贷股价暴跌",
@@ -249,6 +249,14 @@
       "onboard_time": 1678893210,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 153949,
+      "num": 109965,
+      "word": "硕士爸爸解一年级数学题急出汗",
+      "onboard_time": 1678898840,
+      "rank": 20,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 152475,
@@ -315,12 +323,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 123965,
+      "num": 117555,
+      "word": "男子吃雪糕吐槽体积明显缩水",
+      "onboard_time": 1678898482,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 119816,
       "num": 119816,
       "word": "龚俊 会飞的大象",
       "onboard_time": 1678885472,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 115344,
+      "num": 115344,
+      "word": "被东北小吃的物价震惊了",
+      "onboard_time": 1678898482,
+      "rank": 45,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 114087,
@@ -403,28 +427,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 70614,
+      "num": 70614,
+      "word": "大鹏说宋茜和白宇的cp感很强",
+      "onboard_time": 1678899739,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 58860,
       "num": 58860,
       "word": "汪涵欧弟再合体",
       "onboard_time": 1678871367,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 58613,
-      "num": 58613,
-      "word": "被东北小吃的物价震惊了",
-      "onboard_time": 1678898482,
-      "rank": 45,
-      "category": "美食,幽默"
-    },
-    {
-      "raw_hot": 53442,
-      "num": 53442,
-      "word": "男子吃雪糕吐槽体积明显缩水",
-      "onboard_time": 1678898482,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 49585,
@@ -441,6 +457,9 @@
     },
     {
       "word": "#总书记点赞新农人逐梦沃野#"
+    },
+    {
+      "word": "#坚持和加强党的全面领导#"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678898700640,
+  "endTime": 1678900670263,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -6235,6 +6235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 645273,
+      "num": 645273,
+      "word": "Tiffany被曝一钻两卖",
+      "onboard_time": 1678896445,
+      "rank": 30,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 644693,
       "num": 644693,
       "word": "重庆一鱼塘神秘大坑吞噬2万斤鱼",
@@ -6313,14 +6321,6 @@
       "onboard_time": 1677814527,
       "rank": 4,
       "category": "影视"
-    },
-    {
-      "raw_hot": 638554,
-      "num": 227990,
-      "word": "Tiffany被曝一钻两卖",
-      "onboard_time": 1678896445,
-      "rank": 30,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 638528,
@@ -12393,6 +12393,14 @@
       "onboard_time": 1678263387,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 366144,
+      "num": 185999,
+      "word": "offer约定月薪2万1入职时变4千",
+      "onboard_time": 1678897643,
+      "rank": 18,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 365501,
@@ -22075,14 +22083,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 185999,
-      "num": 185999,
-      "word": "offer约定月薪2万1入职时变4千",
-      "onboard_time": 1678897643,
-      "rank": 18,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 185977,
       "num": 185977,
       "word": "湖北东风系多品牌巨幅降价调查",
@@ -24185,6 +24185,14 @@
       "onboard_time": 1678428748,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 153949,
+      "num": 109965,
+      "word": "硕士爸爸解一年级数学题急出汗",
+      "onboard_time": 1678898840,
+      "rank": 20,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 153815,
@@ -26491,6 +26499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 123965,
+      "num": 117555,
+      "word": "男子吃雪糕吐槽体积明显缩水",
+      "onboard_time": 1678898482,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123855,
       "num": 123855,
       "word": "德云社演出节目单",
@@ -27041,6 +27057,14 @@
       "onboard_time": 1678371093,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 115344,
+      "num": 115344,
+      "word": "被东北小吃的物价震惊了",
+      "onboard_time": 1678898482,
+      "rank": 45,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 115289,
@@ -29371,6 +29395,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 70614,
+      "num": 70614,
+      "word": "大鹏说宋茜和白宇的cp感很强",
+      "onboard_time": 1678899739,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 70531,
       "num": 70531,
       "word": "无畏炸裂转场",
@@ -29627,14 +29659,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 58613,
-      "num": 58613,
-      "word": "被东北小吃的物价震惊了",
-      "onboard_time": 1678898482,
-      "rank": 45,
-      "category": "美食,幽默"
-    },
-    {
       "raw_hot": 57873,
       "num": 57873,
       "word": "王鹤棣黑衬衫",
@@ -29745,14 +29769,6 @@
       "onboard_time": 1678125674,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 53442,
-      "num": 53442,
-      "word": "男子吃雪糕吐槽体积明显缩水",
-      "onboard_time": 1678898482,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 53086,
