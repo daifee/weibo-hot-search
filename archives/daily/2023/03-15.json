@@ -1,6 +1,6 @@
 {
   "startTime": 1678811567881,
-  "endTime": 1678876593255,
+  "endTime": 1678878950714,
   "band_list": [
     {
       "raw_hot": 2978909,
@@ -59,6 +59,22 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 1513175,
+      "num": 1513175,
+      "word": "398元烫发烫完变成3980元",
+      "onboard_time": 1678875688,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1492363,
+      "num": 340809,
+      "word": "费曼 无蒸鱼我劝你睡觉别睡得太深",
+      "onboard_time": 1678876888,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1471468,
       "num": 350236,
       "word": "王鹤棣赵露思三亚同框",
@@ -73,6 +89,22 @@
       "onboard_time": 1678795046,
       "rank": 5,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1226585,
+      "num": 1226585,
+      "word": "好利来半熟芝士包装内密封着头发",
+      "onboard_time": 1678876286,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1157622,
+      "num": 1157622,
+      "word": "晨晓夫妇车内吻",
+      "onboard_time": 1678876405,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 1126953,
@@ -227,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 849784,
+      "num": 849784,
+      "word": "空姐喜欢全在俊的原因",
+      "onboard_time": 1678874666,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 834613,
       "num": 595932,
       "word": "在俊呐 拍杂志也要这么上火吗",
@@ -248,14 +288,6 @@
       "word": "墨宝非宝男主嘴一个比一个硬",
       "onboard_time": 1678856550,
       "rank": 12,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 807508,
-      "num": 807508,
-      "word": "空姐喜欢全在俊的原因",
-      "onboard_time": 1678874666,
-      "rank": 14,
       "category": "影视"
     },
     {
@@ -531,14 +563,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 507307,
-      "num": 363559,
-      "word": "398元烫发烫完变成3980元",
-      "onboard_time": 1678875688,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 502501,
       "num": 502501,
       "word": "余生请多指教开播一周年了",
@@ -715,6 +739,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 399118,
+      "num": 399118,
+      "word": "他是谁",
+      "onboard_time": 1678789950,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 394180,
       "num": 394180,
       "word": "名侦探学院",
@@ -787,6 +819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 348519,
+      "num": 319058,
+      "word": "郑秀妍教徐老师穿搭",
+      "onboard_time": 1678877369,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 345729,
       "num": 345729,
       "word": "黑龙江省考",
@@ -801,6 +841,14 @@
       "onboard_time": 1678870887,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 341348,
+      "num": 341348,
+      "word": "曾少年",
+      "onboard_time": 1678877310,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 337210,
@@ -979,6 +1027,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 250318,
+      "num": 250318,
+      "word": "宁艺卓的画",
+      "onboard_time": 1678878567,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 248258,
       "num": 248258,
       "word": "用绳子缠住主人的狗狗",
@@ -1131,6 +1187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 210713,
+      "num": 210713,
+      "word": "洛音凡被重紫杀死",
+      "onboard_time": 1678878809,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 210156,
       "num": 210156,
       "word": "花琉璃人设",
@@ -1187,6 +1251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 202280,
+      "num": 202280,
+      "word": "2023年315晚会主题发布",
+      "onboard_time": 1678878628,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201918,
       "num": 201918,
       "word": "欧冠",
@@ -1225,14 +1297,6 @@
       "onboard_time": 1678870828,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 198408,
-      "num": 174122,
-      "word": "晨晓夫妇车内吻",
-      "onboard_time": 1678876405,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 196329,
@@ -1307,12 +1371,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 179928,
-      "num": 174464,
-      "word": "好利来半熟芝士包装内密封着头发",
-      "onboard_time": 1678876286,
-      "rank": 31,
-      "category": "社会新闻"
+      "raw_hot": 182047,
+      "num": 177972,
+      "word": "建议他是谁专家不要建议",
+      "onboard_time": 1678878567,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 177434,
+      "num": 177434,
+      "word": "王楚钦孙颖莎晋级混双决赛",
+      "onboard_time": 1678877129,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 175957,
@@ -1379,6 +1451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 162814,
+      "num": 162814,
+      "word": "他是谁案件套娃",
+      "onboard_time": 1678877847,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 161007,
       "num": 161007,
       "word": "国产古装剧高虐OST",
@@ -1427,14 +1507,6 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 153540,
-      "num": 153540,
-      "word": "他是谁",
-      "onboard_time": 1678789950,
-      "rank": 19,
-      "category": "影视"
-    },
-    {
       "raw_hot": 151636,
       "num": 206587,
       "word": "800多岁玉兰古树花开似雪",
@@ -1481,6 +1553,14 @@
       "onboard_time": 1678840771,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139448,
+      "num": 139448,
+      "word": "能不能不要那么快答应他",
+      "onboard_time": 1678876823,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 137389,
@@ -1592,6 +1672,14 @@
       "word": "可能有童年创伤的三个迹象",
       "onboard_time": 1678790550,
       "rank": 38,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 114335,
+      "num": 114335,
+      "word": "养郁金香的欲望达到了巅峰",
+      "onboard_time": 1678878748,
+      "rank": 48,
       "category": "情感"
     },
     {
@@ -1763,8 +1851,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 48540,
-      "num": 898776,
+      "raw_hot": 55994,
+      "num": 1158264,
       "word": "卫星俯瞰大江大河有多大气",
       "onboard_time": 1678874547,
       "rank": 2,
