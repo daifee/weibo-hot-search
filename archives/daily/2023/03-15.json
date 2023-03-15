@@ -1,10 +1,10 @@
 {
   "startTime": 1678811567881,
-  "endTime": 1678883795201,
+  "endTime": 1678884885033,
   "band_list": [
     {
-      "raw_hot": 4683250,
-      "num": 4683250,
+      "raw_hot": 8307302,
+      "num": 9557302,
       "word": "315晚会",
       "onboard_time": 1678880010,
       "rank": 3,
@@ -39,6 +39,14 @@
       "num": 2174830,
       "word": "长期吸食奶茶杯或致闭经不孕",
       "onboard_time": 1678863867,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1962449,
+      "num": 1962449,
+      "word": "上野千鹤子承认秘密结婚",
+      "onboard_time": 1678883490,
       "rank": 11,
       "category": "社会新闻"
     },
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 1492363,
-      "num": 555786,
+      "num": 580267,
       "word": "费曼 无蒸鱼我劝你睡觉别睡得太深",
       "onboard_time": 1678876888,
       "rank": 10,
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 1471468,
-      "num": 377719,
+      "num": 380967,
       "word": "王鹤棣赵露思三亚同框",
       "onboard_time": 1678862908,
       "rank": 20,
@@ -107,20 +115,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1382943,
+      "num": 1382943,
+      "word": "泰国香米 香精",
+      "onboard_time": 1678882770,
+      "rank": 3,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 1377845,
       "num": 966561,
       "word": "女演员实名举报五星级酒店",
       "onboard_time": 1678795046,
       "rank": 5,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 1289769,
-      "num": 1289769,
-      "word": "泰国香米 香精",
-      "onboard_time": 1678882770,
-      "rank": 3,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 1272247,
@@ -315,6 +323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 807899,
+      "num": 807899,
+      "word": "部分头盔成戴在头上的刀片",
+      "onboard_time": 1678884150,
+      "rank": 5,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 801616,
       "num": 801616,
       "word": "全院加速中",
@@ -351,14 +367,6 @@
       "num": 777079,
       "word": "台湾女子买两盒鸡蛋5分钟被偷",
       "onboard_time": 1678842388,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 774872,
-      "num": 553540,
-      "word": "上野千鹤子承认秘密结婚",
-      "onboard_time": 1678883490,
       "rank": 11,
       "category": "社会新闻"
     },
@@ -499,8 +507,16 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 564749,
-      "num": 564749,
+      "raw_hot": 573317,
+      "num": 573317,
+      "word": "蜜雪冰城食材频改标签过期继续用",
+      "onboard_time": 1678882287,
+      "rank": 16,
+      "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 571879,
+      "num": 571879,
       "word": "胡歌 微博之夜",
       "onboard_time": 1678881267,
       "rank": 8,
@@ -723,12 +739,36 @@
       "category": "教育"
     },
     {
+      "raw_hot": 470886,
+      "num": 470886,
+      "word": "315晚会卧底记者讲述惊险经历",
+      "onboard_time": 1678882710,
+      "rank": 32,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 464564,
       "num": 464564,
       "word": "国考排名",
       "onboard_time": 1678807889,
       "rank": 10,
       "category": "教育"
+    },
+    {
+      "raw_hot": 455793,
+      "num": 455793,
+      "word": "直播间 骗老人",
+      "onboard_time": 1678884574,
+      "rank": 14,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 453920,
+      "num": 453920,
+      "word": "白冰金发",
+      "onboard_time": 1678879108,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 452909,
@@ -787,6 +827,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 417544,
+      "num": 417544,
+      "word": "不可注射的美容针",
+      "onboard_time": 1678883550,
+      "rank": 34,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 416912,
       "num": 416912,
       "word": "遇到房东不退押金就这样做",
@@ -841,14 +889,6 @@
       "onboard_time": 1678789950,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 397494,
-      "num": 397494,
-      "word": "蜜雪冰城食材频改标签过期继续用",
-      "onboard_time": 1678882287,
-      "rank": 16,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 394180,
@@ -977,14 +1017,6 @@
       "onboard_time": 1678877369,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 347332,
-      "num": 347332,
-      "word": "白冰金发",
-      "onboard_time": 1678879108,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 345729,
@@ -1299,14 +1331,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 228379,
-      "num": 228379,
-      "word": "315晚会卧底记者讲述惊险经历",
-      "onboard_time": 1678882710,
-      "rank": 32,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 227753,
       "num": 227753,
       "word": "省考",
@@ -1411,20 +1435,36 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 205235,
+      "num": 205235,
+      "word": "直播间里的儿子们",
+      "onboard_time": 1678884574,
+      "rank": 34,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 204529,
+      "num": 204529,
+      "word": "LPL春季赛",
+      "onboard_time": 1678884814,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 204527,
+      "num": 204527,
+      "word": "如何辨别真假香米",
+      "onboard_time": 1678884574,
+      "rank": 36,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 204233,
       "num": 204233,
       "word": "原来长河落日圆如此壮美",
       "onboard_time": 1678835781,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 203117,
-      "num": 203117,
-      "word": "不可注射的美容针",
-      "onboard_time": 1678883550,
-      "rank": 34,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 202657,
@@ -1520,6 +1560,14 @@
       "word": "CBA",
       "onboard_time": 1678881026,
       "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 188965,
+      "num": 188965,
+      "word": "林高远3比2梁靖崑",
+      "onboard_time": 1678883670,
+      "rank": 41,
       "category": "体育"
     },
     {
@@ -1633,14 +1681,6 @@
       "onboard_time": 1678854753,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 168735,
-      "num": 168735,
-      "word": "林高远3比2梁靖崑",
-      "onboard_time": 1678883670,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 162814,
@@ -2036,7 +2076,7 @@
     },
     {
       "raw_hot": 55994,
-      "num": 1408262,
+      "num": 1623681,
       "word": "卫星俯瞰大江大河有多大气",
       "onboard_time": 1678874547,
       "rank": 2,
