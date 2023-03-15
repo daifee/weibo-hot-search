@@ -1,6 +1,6 @@
 {
   "startTime": 1678811567881,
-  "endTime": 1678887407140,
+  "endTime": 1678889845181,
   "band_list": [
     {
       "raw_hot": 8307302,
@@ -203,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1039580,
+      "num": 1039580,
+      "word": "一台手机操纵2万个水军",
+      "onboard_time": 1678887153,
+      "rank": 46,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 1014941,
       "num": 1014941,
       "word": "部分头盔成戴在头上的刀片",
@@ -371,6 +379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 791659,
+      "num": 616612,
+      "word": "丫丫归国为何引发公众高度关注",
+      "onboard_time": 1678886911,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 786327,
       "num": 786327,
       "word": "蓝蛙致歉",
@@ -419,6 +435,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 704126,
+      "num": 704126,
+      "word": "郭麒麟说孟子义弱柳扶风",
+      "onboard_time": 1678886732,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 700995,
       "num": 700995,
       "word": "樊振东",
@@ -433,6 +457,14 @@
       "onboard_time": 1678860568,
       "rank": 11,
       "category": "教育"
+    },
+    {
+      "raw_hot": 649261,
+      "num": 513529,
+      "word": "王楚然下车照",
+      "onboard_time": 1678887331,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 644693,
@@ -723,6 +755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 484884,
+      "num": 484884,
+      "word": "315曝光ETC卡禁用短信骗局",
+      "onboard_time": 1678886432,
+      "rank": 41,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 484409,
       "num": 484409,
       "word": "沃尔玛超市回应盒饭上蟑螂乱爬",
@@ -763,6 +803,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 473866,
+      "num": 473866,
+      "word": "恢复出厂设置不一定彻底清除手机数据",
+      "onboard_time": 1678887694,
+      "rank": 14,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 473379,
       "num": 473379,
       "word": "国考成绩",
@@ -793,6 +841,14 @@
       "onboard_time": 1678882408,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 440533,
+      "num": 440533,
+      "word": "王者荣耀",
+      "onboard_time": 1678886132,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 435167,
@@ -907,12 +963,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 398779,
-      "num": 398779,
-      "word": "王者荣耀",
-      "onboard_time": 1678886132,
-      "rank": 36,
-      "category": "游戏"
+      "raw_hot": 397296,
+      "num": 397296,
+      "word": "徐峰立喊话张艺兴工作室",
+      "onboard_time": 1678889496,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 394180,
@@ -969,6 +1025,14 @@
       "onboard_time": 1678849526,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 360979,
+      "num": 360979,
+      "word": "安徽永良米业回应",
+      "onboard_time": 1678888295,
+      "rank": 23,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 359844,
@@ -1139,6 +1203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 318469,
+      "num": 318469,
+      "word": "偷偷藏不住路透",
+      "onboard_time": 1678887632,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 318023,
       "num": 203126,
       "word": "杭州一套凶宅低于市场价73万成交",
@@ -1187,14 +1259,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 298382,
-      "num": 298382,
-      "word": "郭麒麟说孟子义弱柳扶风",
-      "onboard_time": 1678886732,
-      "rank": 24,
-      "category": "影视"
-    },
-    {
       "raw_hot": 296174,
       "num": 296174,
       "word": "戴文青木",
@@ -1203,11 +1267,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 280051,
-      "num": 280051,
-      "word": "王楚然下车照",
-      "onboard_time": 1678887331,
-      "rank": 26,
+      "raw_hot": 291603,
+      "num": 291603,
+      "word": "破解版APP成永不消失的追踪器",
+      "onboard_time": 1678888894,
+      "rank": 29,
+      "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 283700,
+      "num": 283700,
+      "word": "SM新女团showcase有21名女练习生",
+      "onboard_time": 1678888534,
+      "rank": 31,
       "category": "艺人"
     },
     {
@@ -1233,6 +1305,14 @@
       "onboard_time": 1678860925,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 264021,
+      "num": 264021,
+      "word": "医美",
+      "onboard_time": 1678886492,
+      "rank": 43,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 261280,
@@ -1289,6 +1369,14 @@
       "onboard_time": 1678858169,
       "rank": 24,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 244120,
+      "num": 244120,
+      "word": "XYG对战EDGM",
+      "onboard_time": 1678887632,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 243652,
@@ -1403,14 +1491,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 225832,
-      "num": 225832,
-      "word": "315曝光ETC卡禁用短信骗局",
-      "onboard_time": 1678886432,
-      "rank": 41,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 223424,
       "num": 223424,
       "word": "成龙耍刀郭麒麟被刀耍",
@@ -1425,14 +1505,6 @@
       "onboard_time": 1678855291,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 216096,
-      "num": 216096,
-      "word": "丫丫归国为何引发公众高度关注",
-      "onboard_time": 1678886911,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 216089,
@@ -1539,6 +1611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 202776,
+      "num": 202776,
+      "word": "林智妍和金俊勉是同学",
+      "onboard_time": 1678885353,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202657,
       "num": 174567,
       "word": "宋宁峰客串了归路",
@@ -1563,6 +1643,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 201702,
+      "num": 201702,
+      "word": "什么是五点式安全带",
+      "onboard_time": 1678888596,
+      "rank": 43,
+      "category": "社会议题,财经"
+    },
+    {
       "raw_hot": 200981,
       "num": 200981,
       "word": "水军操盘直播间诱导跟风下单",
@@ -1577,6 +1665,14 @@
       "onboard_time": 1678855111,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 199350,
+      "num": 199350,
+      "word": "景区高空项目安全带不安全",
+      "onboard_time": 1678888711,
+      "rank": 44,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 199134,
@@ -1616,14 +1712,6 @@
       "word": "315曝光香精大米公司曾2次被限消",
       "onboard_time": 1678886432,
       "rank": 37,
-      "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 194648,
-      "num": 194648,
-      "word": "一台手机操纵2万个水军",
-      "onboard_time": 1678887153,
-      "rank": 46,
       "category": "社会新闻,财经"
     },
     {
@@ -1691,6 +1779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186968,
+      "num": 186968,
+      "word": "偷工减料的盐城滨海高标准农田",
+      "onboard_time": 1678889496,
+      "rank": 47,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 186501,
       "num": 186501,
       "word": "高圆圆片场吃零食",
@@ -1699,20 +1795,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 183600,
-      "num": 183600,
-      "word": "林智妍和金俊勉是同学",
-      "onboard_time": 1678885353,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 183022,
-      "num": 183022,
-      "word": "医美",
-      "onboard_time": 1678886492,
-      "rank": 43,
-      "category": "社会新闻,财经"
+      "raw_hot": 183784,
+      "num": 183784,
+      "word": "刷到这条的会计人有福了",
+      "onboard_time": 1678889251,
+      "rank": 49,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 182736,
@@ -2161,6 +2249,14 @@
       "onboard_time": 1678776508,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 80101,
+      "num": 1459965,
+      "word": "开年中国经济企稳回升",
+      "onboard_time": 1678888596,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 79521,
