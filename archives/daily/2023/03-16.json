@@ -1,6 +1,6 @@
 {
   "startTime": 1678897636121,
-  "endTime": 1678922132227,
+  "endTime": 1678923204581,
   "band_list": [
     {
       "raw_hot": 1136086,
@@ -19,6 +19,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 879170,
+      "num": 879170,
+      "word": "offer约定月薪2万1入职时变4千",
+      "onboard_time": 1678897643,
+      "rank": 18,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 817894,
       "num": 175934,
       "word": "徐峰立喊话张艺兴工作室",
@@ -35,20 +43,20 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 608462,
-      "num": 608462,
-      "word": "offer约定月薪2万1入职时变4千",
-      "onboard_time": 1678897643,
-      "rank": 18,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 584695,
       "num": 584695,
       "word": "月子中心竟提供代孕服务",
       "onboard_time": 1678882349,
       "rank": 3,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 544388,
+      "num": 463847,
+      "word": "美州长称中国有个2000年灭美计划",
+      "onboard_time": 1678896566,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 535459,
@@ -67,20 +75,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 494434,
+      "num": 494434,
+      "word": "县委书记5年跑出33000个蔬菜大棚",
+      "onboard_time": 1678921939,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 493380,
+      "num": 493380,
+      "word": "影视剧用演员原声很难吗",
+      "onboard_time": 1678922422,
+      "rank": 5,
+      "category": "影视,财经"
+    },
+    {
       "raw_hot": 476603,
       "num": 476603,
       "word": "检测机构已抵达假香米公司",
       "onboard_time": 1678892430,
       "rank": 6,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 463847,
-      "num": 463847,
-      "word": "美州长称中国有个2000年灭美计划",
-      "onboard_time": 1678896566,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 448075,
@@ -107,20 +123,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 398169,
+      "num": 176524,
+      "word": "硕士爸爸解一年级数学题急出汗",
+      "onboard_time": 1678898840,
+      "rank": 20,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 345125,
+      "num": 345125,
+      "word": "被东北小吃的物价震惊了",
+      "onboard_time": 1678898482,
+      "rank": 45,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 338932,
       "num": 289349,
       "word": "赵露思海边双马尾造型",
       "onboard_time": 1678894049,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 334201,
-      "num": 119606,
-      "word": "硕士爸爸解一年级数学题急出汗",
-      "onboard_time": 1678898840,
-      "rank": 20,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 332933,
@@ -131,6 +155,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 331934,
+      "num": 172744,
+      "word": "女演员经纪人称酒店未曾联系道歉",
+      "onboard_time": 1678881506,
+      "rank": 22,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 290602,
       "num": 290602,
       "word": "一台手机操纵2万个水军",
@@ -139,20 +171,12 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 285721,
-      "num": 118837,
-      "word": "女演员经纪人称酒店未曾联系道歉",
-      "onboard_time": 1678881506,
-      "rank": 22,
-      "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 277289,
-      "num": 277289,
-      "word": "被东北小吃的物价震惊了",
-      "onboard_time": 1678898482,
-      "rank": 45,
-      "category": "美食,幽默"
+      "raw_hot": 277455,
+      "num": 277455,
+      "word": "皇马连续3年欧冠战胜利物浦",
+      "onboard_time": 1678921880,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 277170,
@@ -211,6 +235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 244781,
+      "num": 244781,
+      "word": "315",
+      "onboard_time": 1678922001,
+      "rank": 13,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 235665,
       "num": 235665,
       "word": "Capper直播",
@@ -219,20 +251,36 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 192187,
-      "num": 192187,
+      "raw_hot": 200095,
+      "num": 159114,
+      "word": "980元一盒的鹿鞭丸检出伟哥",
+      "onboard_time": 1678912571,
+      "rank": 21,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 197793,
+      "num": 197793,
+      "word": "315晚会卧底记者讲述惊险经历",
+      "onboard_time": 1678882710,
+      "rank": 34,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 197538,
+      "num": 197538,
       "word": "男子吃雪糕吐槽体积明显缩水",
       "onboard_time": 1678898482,
       "rank": 48,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 183628,
-      "num": 183628,
-      "word": "315晚会卧底记者讲述惊险经历",
-      "onboard_time": 1678882710,
-      "rank": 34,
-      "category": "社会新闻,财经"
+      "raw_hot": 194996,
+      "num": 194996,
+      "word": "心想事成",
+      "onboard_time": 1678923145,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 177462,
@@ -243,14 +291,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 173519,
-      "num": 173519,
-      "word": "315",
-      "onboard_time": 1678922001,
-      "rank": 13,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 172066,
       "num": 172066,
       "word": "官方通报假泰国香米问题",
@@ -259,11 +299,11 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 169947,
-      "num": 118000,
-      "word": "980元一盒的鹿鞭丸检出伟哥",
-      "onboard_time": 1678912571,
-      "rank": 21,
+      "raw_hot": 167772,
+      "num": 167772,
+      "word": "315点名诱骗老年人直播间均已被封",
+      "onboard_time": 1678889914,
+      "rank": 25,
       "category": "社会新闻,财经"
     },
     {
@@ -283,12 +323,12 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 158609,
-      "num": 158609,
-      "word": "315点名诱骗老年人直播间均已被封",
-      "onboard_time": 1678889914,
-      "rank": 25,
-      "category": "社会新闻,财经"
+      "raw_hot": 159100,
+      "num": 159100,
+      "word": "湊湊火锅缺斤少两被查",
+      "onboard_time": 1678922962,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 157605,
@@ -363,6 +403,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 125941,
+      "num": 125941,
+      "word": "部分头盔成戴在头上的刀片",
+      "onboard_time": 1678884150,
+      "rank": 43,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 119816,
       "num": 119816,
       "word": "龚俊 会飞的大象",
@@ -371,12 +419,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 117607,
-      "num": 95631,
-      "word": "皇马连续3年欧冠战胜利物浦",
-      "onboard_time": 1678921880,
-      "rank": 30,
-      "category": "体育"
+      "raw_hot": 118301,
+      "num": 118301,
+      "word": "一图看全315晚会",
+      "onboard_time": 1678922962,
+      "rank": 35,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 114311,
+      "num": 114311,
+      "word": "市监局回应苦情戏直播欺骗老人",
+      "onboard_time": 1678922661,
+      "rank": 36,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 114087,
@@ -392,14 +448,6 @@
       "word": "医美",
       "onboard_time": 1678886492,
       "rank": 41,
-      "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 111905,
-      "num": 111905,
-      "word": "部分头盔成戴在头上的刀片",
-      "onboard_time": 1678884150,
-      "rank": 43,
       "category": "社会新闻,财经"
     },
     {
@@ -435,14 +483,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 89674,
-      "num": 89674,
-      "word": "县委书记5年跑出33000个蔬菜大棚",
-      "onboard_time": 1678921939,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 84915,
       "num": 84915,
       "word": "PUBG",
@@ -451,12 +491,36 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 79375,
-      "num": 79375,
+      "raw_hot": 83600,
+      "num": 83600,
+      "word": "为什么网约车都不愿去天府机场",
+      "onboard_time": 1678922903,
+      "rank": 41,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 81587,
+      "num": 81587,
       "word": "本泽马破门",
       "onboard_time": 1678921760,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 80534,
+      "num": 80534,
+      "word": "大鹏说宋茜和白宇的cp感很强",
+      "onboard_time": 1678899739,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 79119,
+      "num": 79119,
+      "word": "真的墓地平安哥被扒出来了",
+      "onboard_time": 1678879949,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 74917,
@@ -475,14 +539,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 70614,
-      "num": 70614,
-      "word": "大鹏说宋茜和白宇的cp感很强",
-      "onboard_time": 1678899739,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 58860,
       "num": 58860,
       "word": "汪涵欧弟再合体",
@@ -491,12 +547,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 57728,
-      "num": 56837,
-      "word": "真的墓地平安哥被扒出来了",
-      "onboard_time": 1678879949,
-      "rank": 45,
-      "category": "影视"
+      "raw_hot": 58205,
+      "num": 666298,
+      "word": "开年中国经济企稳回升",
+      "onboard_time": 1678888596,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 57025,
@@ -513,14 +569,6 @@
       "onboard_time": 1678910772,
       "rank": 47,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 49585,
-      "num": 666298,
-      "word": "开年中国经济企稳回升",
-      "onboard_time": 1678888596,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 27170,
