@@ -1,6 +1,6 @@
 {
   "startTime": 1678897636121,
-  "endTime": 1678915006991,
+  "endTime": 1678916042138,
   "band_list": [
     {
       "raw_hot": 1136086,
@@ -451,8 +451,8 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 36409,
-      "num": 21240,
+      "raw_hot": 42169,
+      "num": 22372,
       "word": "980元一盒的鹿鞭丸检出伟哥",
       "onboard_time": 1678912571,
       "rank": 21,
@@ -473,6 +473,14 @@
       "onboard_time": 1678780230,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 11336,
+      "num": 11336,
+      "word": "朗枫香料公司仅2人参保",
+      "onboard_time": 1678910772,
+      "rank": 47,
+      "category": "社会新闻,财经"
     }
   ],
   "hotgov_list": [
