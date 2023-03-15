@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678871947728,
+  "endTime": 1678872839966,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -4955,6 +4955,14 @@
       "category": "社会负面,艺人"
     },
     {
+      "raw_hot": 730002,
+      "num": 730002,
+      "word": "上海网红餐厅火烧云吃出异物",
+      "onboard_time": 1678867588,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 727720,
       "num": 727720,
       "word": "李莎拉好疯",
@@ -5249,6 +5257,14 @@
       "onboard_time": 1677637829,
       "rank": 20,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 700938,
+      "num": 700938,
+      "word": "汪涵欧弟再合体",
+      "onboard_time": 1678871367,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 699304,
@@ -6016,14 +6032,6 @@
       "word": "北京下雨",
       "onboard_time": 1678538188,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 643460,
-      "num": 643460,
-      "word": "上海网红餐厅火烧云吃出异物",
-      "onboard_time": 1678867588,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -7875,6 +7883,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 530317,
+      "num": 530317,
+      "word": "猫为什么讨厌你男朋友",
+      "onboard_time": 1678868245,
+      "rank": 45,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 529803,
       "num": 282388,
       "word": "卓文萱否认参加浪姐4",
@@ -7985,14 +8001,6 @@
       "onboard_time": 1678621407,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 526118,
-      "num": 526118,
-      "word": "猫为什么讨厌你男朋友",
-      "onboard_time": 1678868245,
-      "rank": 45,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 525402,
@@ -10444,7 +10452,7 @@
     },
     {
       "raw_hot": 420778,
-      "num": 341796,
+      "num": 414785,
       "word": "蓝蛙餐厅被立案调查",
       "onboard_time": 1678870169,
       "rank": 12,
@@ -10601,6 +10609,14 @@
       "onboard_time": 1678782268,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 412750,
+      "num": 412750,
+      "word": "记者暗访租女友业务",
+      "onboard_time": 1678871007,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 412536,
@@ -12819,6 +12835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 343601,
+      "num": 343601,
+      "word": "王楚钦孙颖莎vs林昀儒陈思羽",
+      "onboard_time": 1678870887,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 343412,
       "num": 343412,
       "word": "浙理工教师回应直播推学生简历走红",
@@ -13057,14 +13081,6 @@
       "onboard_time": 1678858647,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 336409,
-      "num": 336409,
-      "word": "王楚钦孙颖莎vs林昀儒陈思羽",
-      "onboard_time": 1678870887,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 336072,
@@ -13361,14 +13377,6 @@
       "onboard_time": 1677850287,
       "rank": 37,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 327683,
-      "num": 327683,
-      "word": "汪涵欧弟再合体",
-      "onboard_time": 1678871367,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 327283,
@@ -14297,6 +14305,14 @@
       "onboard_time": 1678756347,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 304767,
+      "num": 304767,
+      "word": "巴奴下架富硒土豆",
+      "onboard_time": 1678871066,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 304156,
@@ -15979,6 +15995,14 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 260953,
+      "num": 260953,
+      "word": "第一次见这么细节的演技",
+      "onboard_time": 1678870105,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 260718,
       "num": 509714,
       "word": "TTG 上野",
@@ -17635,14 +17659,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 226730,
-      "num": 226730,
-      "word": "巴奴下架富硒土豆",
-      "onboard_time": 1678871066,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 226537,
       "num": 226537,
       "word": "特斯拉人形机器人自己造自己",
@@ -18105,14 +18121,6 @@
       "onboard_time": 1678155384,
       "rank": 26,
       "category": "财经"
-    },
-    {
-      "raw_hot": 219918,
-      "num": 219918,
-      "word": "第一次见这么细节的演技",
-      "onboard_time": 1678870105,
-      "rank": 25,
-      "category": "幽默"
     },
     {
       "raw_hot": 219816,
@@ -19753,14 +19761,6 @@
       "onboard_time": 1678281868,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 200290,
-      "num": 200290,
-      "word": "记者暗访租女友业务",
-      "onboard_time": 1678871007,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 200278,
@@ -25347,6 +25347,14 @@
       "category": "幽默,影视"
     },
     {
+      "raw_hot": 129029,
+      "num": 129029,
+      "word": "杨超越天魔上线",
+      "onboard_time": 1678871967,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 129021,
       "num": 129021,
       "word": "何洁张远合唱",
@@ -27409,6 +27417,14 @@
       "onboard_time": 1678455506,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 98427,
+      "num": 98427,
+      "word": "延时看香雪兰盛放如优雅起舞",
+      "onboard_time": 1678872807,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 98416,

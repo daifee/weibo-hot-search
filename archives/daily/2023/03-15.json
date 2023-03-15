@@ -1,6 +1,6 @@
 {
   "startTime": 1678811567881,
-  "endTime": 1678871947728,
+  "endTime": 1678872839966,
   "band_list": [
     {
       "raw_hot": 2978909,
@@ -259,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 730002,
+      "num": 730002,
+      "word": "上海网红餐厅火烧云吃出异物",
+      "onboard_time": 1678867588,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 706238,
       "num": 706238,
       "word": "杨幂曾黎早期合照",
@@ -275,6 +283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 700938,
+      "num": 700938,
+      "word": "汪涵欧弟再合体",
+      "onboard_time": 1678871367,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 652606,
       "num": 652606,
       "word": "国考调剂",
@@ -288,14 +304,6 @@
       "word": "重庆一鱼塘神秘大坑吞噬2万斤鱼",
       "onboard_time": 1678805252,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 643460,
-      "num": 643460,
-      "word": "上海网红餐厅火烧云吃出异物",
-      "onboard_time": 1678867588,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -435,6 +443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 530317,
+      "num": 530317,
+      "word": "猫为什么讨厌你男朋友",
+      "onboard_time": 1678868245,
+      "rank": 45,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 527777,
       "num": 527777,
       "word": "哈兰德五子登科",
@@ -449,14 +465,6 @@
       "onboard_time": 1678851266,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 526118,
-      "num": 526118,
-      "word": "猫为什么讨厌你男朋友",
-      "onboard_time": 1678868245,
-      "rank": 45,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 526087,
@@ -588,7 +596,7 @@
     },
     {
       "raw_hot": 420778,
-      "num": 341796,
+      "num": 414785,
       "word": "蓝蛙餐厅被立案调查",
       "onboard_time": 1678870169,
       "rank": 12,
@@ -625,6 +633,14 @@
       "onboard_time": 1678855471,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 412750,
+      "num": 412750,
+      "word": "记者暗访租女友业务",
+      "onboard_time": 1678871007,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 412314,
@@ -731,6 +747,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 343601,
+      "num": 343601,
+      "word": "王楚钦孙颖莎vs林昀儒陈思羽",
+      "onboard_time": 1678870887,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 337210,
       "num": 337210,
       "word": "李兰迪官宣加盟微博之夜",
@@ -739,28 +763,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 336409,
-      "num": 336409,
-      "word": "王楚钦孙颖莎vs林昀儒陈思羽",
-      "onboard_time": 1678870887,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 328163,
       "num": 328163,
       "word": "EXO看KAI新歌MVReaction",
       "onboard_time": 1678844730,
       "rank": 24,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 327683,
-      "num": 327683,
-      "word": "汪涵欧弟再合体",
-      "onboard_time": 1678871367,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 327283,
@@ -835,6 +843,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 304767,
+      "num": 304767,
+      "word": "巴奴下架富硒土豆",
+      "onboard_time": 1678871066,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 296174,
       "num": 296174,
       "word": "戴文青木",
@@ -873,6 +889,14 @@
       "onboard_time": 1678843469,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 260953,
+      "num": 260953,
+      "word": "第一次见这么细节的演技",
+      "onboard_time": 1678870105,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 257750,
@@ -1011,14 +1035,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 226730,
-      "num": 226730,
-      "word": "巴奴下架富硒土豆",
-      "onboard_time": 1678871066,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 223424,
       "num": 223424,
       "word": "成龙耍刀郭麒麟被刀耍",
@@ -1033,14 +1049,6 @@
       "onboard_time": 1678855291,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 219918,
-      "num": 219918,
-      "word": "第一次见这么细节的演技",
-      "onboard_time": 1678870105,
-      "rank": 25,
-      "category": "幽默"
     },
     {
       "raw_hot": 216089,
@@ -1129,14 +1137,6 @@
       "onboard_time": 1678855111,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 200290,
-      "num": 200290,
-      "word": "记者暗访租女友业务",
-      "onboard_time": 1678871007,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 199134,
@@ -1411,6 +1411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 129029,
+      "num": 129029,
+      "word": "杨超越天魔上线",
+      "onboard_time": 1678871967,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 128623,
       "num": 128623,
       "word": "归路",
@@ -1505,6 +1513,14 @@
       "onboard_time": 1678802374,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 98427,
+      "num": 98427,
+      "word": "延时看香雪兰盛放如优雅起舞",
+      "onboard_time": 1678872807,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 95964,
