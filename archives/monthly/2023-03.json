@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678884885033,
+  "endTime": 1678886732675,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -337,6 +337,14 @@
       "onboard_time": 1678179808,
       "rank": 0,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 2402280,
+      "num": 2402280,
+      "word": "直播间 骗老人",
+      "onboard_time": 1678884574,
+      "rank": 14,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 2397876,
@@ -2947,6 +2955,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 1014941,
+      "num": 1014941,
+      "word": "部分头盔成戴在头上的刀片",
+      "onboard_time": 1678884150,
+      "rank": 5,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 1014153,
       "num": 952780,
       "word": "BLACKPINK澳门演唱会",
@@ -3425,6 +3441,14 @@
       "onboard_time": 1678606584,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 933542,
+      "num": 933542,
+      "word": "蜜雪冰城食材频改标签过期继续用",
+      "onboard_time": 1678882287,
+      "rank": 16,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 928046,
@@ -4313,14 +4337,6 @@
       "onboard_time": 1678268548,
       "rank": 12,
       "category": "科技"
-    },
-    {
-      "raw_hot": 807899,
-      "num": 807899,
-      "word": "部分头盔成戴在头上的刀片",
-      "onboard_time": 1678884150,
-      "rank": 5,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 806658,
@@ -7171,14 +7187,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 573317,
-      "num": 573317,
-      "word": "蜜雪冰城食材频改标签过期继续用",
-      "onboard_time": 1678882287,
-      "rank": 16,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 572793,
       "num": 277442,
       "word": "肖战蓬皮杜艺术中心看展",
@@ -7793,6 +7801,14 @@
       "onboard_time": 1678860148,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 544475,
+      "num": 544475,
+      "word": "315晚会卧底记者讲述惊险经历",
+      "onboard_time": 1678882710,
+      "rank": 32,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 544297,
@@ -9523,14 +9539,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 470886,
-      "num": 470886,
-      "word": "315晚会卧底记者讲述惊险经历",
-      "onboard_time": 1678882710,
-      "rank": 32,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 470732,
       "num": 470732,
       "word": "年轻人都流向了哪些城市",
@@ -9817,14 +9825,6 @@
       "onboard_time": 1677639149,
       "rank": 26,
       "category": "教育"
-    },
-    {
-      "raw_hot": 455793,
-      "num": 455793,
-      "word": "直播间 骗老人",
-      "onboard_time": 1678884574,
-      "rank": 14,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 454305,
@@ -10603,6 +10603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 423267,
+      "num": 423267,
+      "word": "不可注射的美容针",
+      "onboard_time": 1678883550,
+      "rank": 34,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 423217,
       "num": 369030,
       "word": "李钟硕最新活动图",
@@ -10657,6 +10665,14 @@
       "onboard_time": 1677645210,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 421094,
+      "num": 421094,
+      "word": "龚俊 会飞的大象",
+      "onboard_time": 1678885472,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 420778,
@@ -10747,14 +10763,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 417544,
-      "num": 417544,
-      "word": "不可注射的美容针",
-      "onboard_time": 1678883550,
-      "rank": 34,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 417384,
       "num": 417384,
       "word": "把寝室四个军师干懵了",
@@ -10769,6 +10777,14 @@
       "onboard_time": 1678761686,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 417113,
+      "num": 417113,
+      "word": "直播间里的儿子们",
+      "onboard_time": 1678884574,
+      "rank": 34,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 416912,
@@ -13139,6 +13155,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 342889,
+      "num": 342889,
+      "word": "马嘉祺扮演外卖员",
+      "onboard_time": 1678885472,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 342881,
       "num": 342881,
       "word": "照亮你官宣新主演",
@@ -13417,6 +13441,14 @@
       "onboard_time": 1677718410,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 335032,
+      "num": 335032,
+      "word": "TES三连败",
+      "onboard_time": 1678881627,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 334950,
@@ -17675,14 +17707,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 231279,
-      "num": 231279,
-      "word": "TES三连败",
-      "onboard_time": 1678881627,
-      "rank": 31,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 231241,
       "num": 231241,
       "word": "KAI出道评价会视频公开",
@@ -19043,6 +19067,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 208874,
+      "num": 208874,
+      "word": "宋亚轩吵架戏",
+      "onboard_time": 1678885114,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 208847,
       "num": 208847,
       "word": "安香怡世青赛总分183.94",
@@ -19417,14 +19449,6 @@
       "onboard_time": 1678856852,
       "rank": 34,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 205235,
-      "num": 205235,
-      "word": "直播间里的儿子们",
-      "onboard_time": 1678884574,
-      "rank": 34,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 205174,
@@ -20507,6 +20531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 197145,
+      "num": 197145,
+      "word": "王者荣耀",
+      "onboard_time": 1678886132,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 197134,
       "num": 279178,
       "word": "Hero对战WB",
@@ -20801,6 +20833,14 @@
       "onboard_time": 1677988285,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 194939,
+      "num": 194939,
+      "word": "315曝光香精大米公司曾2次被限消",
+      "onboard_time": 1678886432,
+      "rank": 37,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 194918,
@@ -21411,6 +21451,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 189558,
+      "num": 189558,
+      "word": "315曝光ETC卡禁用短信骗局",
+      "onboard_time": 1678886432,
+      "rank": 41,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 189430,
       "num": 408891,
       "word": "心想事成",
@@ -21529,6 +21577,14 @@
       "onboard_time": 1677810566,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 188363,
+      "num": 190720,
+      "word": "保你平安票房破2亿",
+      "onboard_time": 1678886552,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 188341,
@@ -21859,12 +21915,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 183600,
+      "num": 183600,
+      "word": "林智妍和金俊勉是同学",
+      "onboard_time": 1678885353,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 183369,
       "num": 183369,
       "word": "LGD对战TTG",
       "onboard_time": 1678626746,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 183022,
+      "num": 183022,
+      "word": "医美",
+      "onboard_time": 1678886492,
+      "rank": 43,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 182904,
@@ -23067,6 +23139,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 166431,
+      "num": 166431,
+      "word": "免费评书机暗藏天价神药骗局",
+      "onboard_time": 1678885353,
+      "rank": 44,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 165493,
       "num": 165493,
       "word": "东北连熊猫也会整活",
@@ -23553,6 +23633,14 @@
       "onboard_time": 1677913884,
       "rank": 8,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 157630,
+      "num": 157630,
+      "word": "马洪亮 小张说事",
+      "onboard_time": 1678885592,
+      "rank": 46,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 157531,
@@ -24257,6 +24345,14 @@
       "onboard_time": 1677832347,
       "rank": 37,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 148456,
+      "num": 148456,
+      "word": "樊振东3比0林钟勋",
+      "onboard_time": 1678885114,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 148347,
@@ -29236,7 +29332,7 @@
     },
     {
       "raw_hot": 55994,
-      "num": 1623681,
+      "num": 1699594,
       "word": "卫星俯瞰大江大河有多大气",
       "onboard_time": 1678874547,
       "rank": 2,

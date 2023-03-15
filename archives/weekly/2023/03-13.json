@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1678884885033,
+  "endTime": 1678886732675,
   "band_list": [
     {
       "raw_hot": 8307302,
@@ -57,6 +57,14 @@
       "onboard_time": 1678782450,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2402280,
+      "num": 2402280,
+      "word": "直播间 骗老人",
+      "onboard_time": 1678884574,
+      "rank": 14,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 2326521,
@@ -531,6 +539,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1014941,
+      "num": 1014941,
+      "word": "部分头盔成戴在头上的刀片",
+      "onboard_time": 1678884150,
+      "rank": 5,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 1009245,
       "num": 1009245,
       "word": "省考",
@@ -649,6 +665,14 @@
       "onboard_time": 1678866388,
       "rank": 4,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 933542,
+      "num": 933542,
+      "word": "蜜雪冰城食材频改标签过期继续用",
+      "onboard_time": 1678882287,
+      "rank": 16,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 915478,
@@ -873,14 +897,6 @@
       "onboard_time": 1678710808,
       "rank": 44,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 807899,
-      "num": 807899,
-      "word": "部分头盔成戴在头上的刀片",
-      "onboard_time": 1678884150,
-      "rank": 5,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 805854,
@@ -1459,14 +1475,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 573317,
-      "num": 573317,
-      "word": "蜜雪冰城食材频改标签过期继续用",
-      "onboard_time": 1678882287,
-      "rank": 16,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 572010,
       "num": 572010,
       "word": "他是谁家暴男被妻子反杀",
@@ -1609,6 +1617,14 @@
       "onboard_time": 1678860148,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 544475,
+      "num": 544475,
+      "word": "315晚会卧底记者讲述惊险经历",
+      "onboard_time": 1678882710,
+      "rank": 32,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 544297,
@@ -2083,14 +2099,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 470886,
-      "num": 470886,
-      "word": "315晚会卧底记者讲述惊险经历",
-      "onboard_time": 1678882710,
-      "rank": 32,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 467075,
       "num": 467075,
       "word": "丁禹兮彭小苒吻戏",
@@ -2137,14 +2145,6 @@
       "onboard_time": 1678719568,
       "rank": 26,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 455793,
-      "num": 455793,
-      "word": "直播间 骗老人",
-      "onboard_time": 1678884574,
-      "rank": 14,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 453920,
@@ -2379,6 +2379,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 423267,
+      "num": 423267,
+      "word": "不可注射的美容针",
+      "onboard_time": 1678883550,
+      "rank": 34,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 421094,
+      "num": 421094,
+      "word": "龚俊 会飞的大象",
+      "onboard_time": 1678885472,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 420778,
       "num": 414785,
       "word": "蓝蛙餐厅被立案调查",
@@ -2435,20 +2451,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 417544,
-      "num": 417544,
-      "word": "不可注射的美容针",
-      "onboard_time": 1678883550,
-      "rank": 34,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 417213,
       "num": 417213,
       "word": "库里领唱中文版小星星",
       "onboard_time": 1678761686,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 417113,
+      "num": 417113,
+      "word": "直播间里的儿子们",
+      "onboard_time": 1678884574,
+      "rank": 34,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 416912,
@@ -2971,6 +2987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 342889,
+      "num": 342889,
+      "word": "马嘉祺扮演外卖员",
+      "onboard_time": 1678885472,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 342415,
       "num": 342415,
       "word": "iG",
@@ -3049,6 +3073,14 @@
       "onboard_time": 1678778129,
       "rank": 35,
       "category": "科技"
+    },
+    {
+      "raw_hot": 335032,
+      "num": 335032,
+      "word": "TES三连败",
+      "onboard_time": 1678881627,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 333475,
@@ -3963,14 +3995,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 231279,
-      "num": 231279,
-      "word": "TES三连败",
-      "onboard_time": 1678881627,
-      "rank": 31,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 231241,
       "num": 231241,
       "word": "KAI出道评价会视频公开",
@@ -4147,6 +4171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 208874,
+      "num": 208874,
+      "word": "宋亚轩吵架戏",
+      "onboard_time": 1678885114,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 208291,
       "num": 1272077,
       "word": "政府工作报告全文发布",
@@ -4217,14 +4249,6 @@
       "onboard_time": 1678856852,
       "rank": 34,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 205235,
-      "num": 205235,
-      "word": "直播间里的儿子们",
-      "onboard_time": 1678884574,
-      "rank": 34,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 205055,
@@ -4395,6 +4419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 197145,
+      "num": 197145,
+      "word": "王者荣耀",
+      "onboard_time": 1678886132,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 196329,
       "num": 196329,
       "word": "归路小说还原度",
@@ -4417,6 +4449,14 @@
       "onboard_time": 1678804533,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 194939,
+      "num": 194939,
+      "word": "315曝光香精大米公司曾2次被限消",
+      "onboard_time": 1678886432,
+      "rank": 37,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 193306,
@@ -4523,6 +4563,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 189558,
+      "num": 189558,
+      "word": "315曝光ETC卡禁用短信骗局",
+      "onboard_time": 1678886432,
+      "rank": 41,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 189271,
       "num": 189271,
       "word": "CBA",
@@ -4544,6 +4592,14 @@
       "word": "路炎晨哄归晓",
       "onboard_time": 1678852648,
       "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 188363,
+      "num": 190720,
+      "word": "保你平安票房破2亿",
+      "onboard_time": 1678886552,
+      "rank": 40,
       "category": "影视"
     },
     {
@@ -4601,6 +4657,22 @@
       "onboard_time": 1678623986,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 183600,
+      "num": 183600,
+      "word": "林智妍和金俊勉是同学",
+      "onboard_time": 1678885353,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 183022,
+      "num": 183022,
+      "word": "医美",
+      "onboard_time": 1678886492,
+      "rank": 43,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 182736,
@@ -4787,6 +4859,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 166431,
+      "num": 166431,
+      "word": "免费评书机暗藏天价神药骗局",
+      "onboard_time": 1678885353,
+      "rank": 44,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 164287,
       "num": 239133,
       "word": "声生不息海报",
@@ -4881,6 +4961,14 @@
       "onboard_time": 1678767991,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 157630,
+      "num": 157630,
+      "word": "马洪亮 小张说事",
+      "onboard_time": 1678885592,
+      "rank": 46,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 157531,
@@ -5001,6 +5089,14 @@
       "onboard_time": 1678812560,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 148456,
+      "num": 148456,
+      "word": "樊振东3比0林钟勋",
+      "onboard_time": 1678885114,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 148262,
@@ -5796,7 +5892,7 @@
     },
     {
       "raw_hot": 55994,
-      "num": 1623681,
+      "num": 1699594,
       "word": "卫星俯瞰大江大河有多大气",
       "onboard_time": 1678874547,
       "rank": 2,

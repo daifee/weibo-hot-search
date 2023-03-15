@@ -1,0 +1,410 @@
+{
+  "runTime": 1678886732675,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7772488,
+        "num": 8563999,
+        "word": "315晚会",
+        "onboard_time": 1678880010,
+        "rank": 0,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 2402280,
+        "num": 2402280,
+        "word": "直播间 骗老人",
+        "onboard_time": 1678884574,
+        "rank": 1,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 47328,
+        "num": 1699594,
+        "word": "卫星俯瞰大江大河有多大气",
+        "onboard_time": 1678874547,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1463301,
+        "num": 1463301,
+        "word": "月子中心竟提供代孕服务",
+        "onboard_time": 1678882349,
+        "rank": 3,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1635693,
+        "num": 1455016,
+        "word": "上野千鹤子承认秘密结婚",
+        "onboard_time": 1678883490,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1014941,
+        "num": 1014941,
+        "word": "部分头盔成戴在头上的刀片",
+        "onboard_time": 1678884150,
+        "rank": 5,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1014604,
+        "num": 1014604,
+        "word": "泰国香米 香精",
+        "onboard_time": 1678882770,
+        "rank": 6,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 933542,
+        "num": 933542,
+        "word": "蜜雪冰城食材频改标签过期继续用",
+        "onboard_time": 1678882287,
+        "rank": 7,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 544475,
+        "num": 544475,
+        "word": "315晚会卧底记者讲述惊险经历",
+        "onboard_time": 1678882710,
+        "rank": 8,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 539762,
+        "num": 539762,
+        "word": "蓝蛙致歉",
+        "onboard_time": 1678881808,
+        "rank": 9,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 691505,
+        "num": 531539,
+        "word": "费曼 无蒸鱼我劝你睡觉别睡得太深",
+        "onboard_time": 1678876888,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 516745,
+        "num": 516745,
+        "word": "胡歌 微博之夜",
+        "onboard_time": 1678881267,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 469237,
+        "num": 469237,
+        "word": "398元烫发烫完变成3980元",
+        "onboard_time": 1678875688,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 449896,
+        "num": 449896,
+        "word": "晨晓夫妇车内吻",
+        "onboard_time": 1678876405,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 423267,
+        "num": 423267,
+        "word": "不可注射的美容针",
+        "onboard_time": 1678883550,
+        "rank": 14,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 421094,
+        "num": 421094,
+        "word": "龚俊 会飞的大象",
+        "onboard_time": 1678885472,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 417113,
+        "num": 417113,
+        "word": "直播间里的儿子们",
+        "onboard_time": 1678884574,
+        "rank": 16,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 407438,
+        "num": 407438,
+        "word": "养郁金香的欲望达到了巅峰",
+        "onboard_time": 1678878748,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 344517,
+        "num": 344517,
+        "word": "女演员经纪人称酒店未曾联系道歉",
+        "onboard_time": 1678881506,
+        "rank": 18,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 342889,
+        "num": 342889,
+        "word": "马嘉祺扮演外卖员",
+        "onboard_time": 1678885472,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 863653,
+        "num": 338979,
+        "word": "好利来半熟芝士包装内密封着头发",
+        "onboard_time": 1678876286,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384425,
+        "num": 338677,
+        "word": "王鹤棣赵露思三亚同框",
+        "onboard_time": 1678862908,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 335032,
+        "num": 335032,
+        "word": "TES三连败",
+        "onboard_time": 1678881627,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 310869,
+        "num": 310869,
+        "word": "林高远",
+        "onboard_time": 1678883128,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 289670,
+        "num": 289670,
+        "word": "白冰金发",
+        "onboard_time": 1678879108,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 289377,
+        "num": 289377,
+        "word": "人民网评东方甄选疑似售假",
+        "onboard_time": 1678873527,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279526,
+        "num": 279526,
+        "word": "他是谁",
+        "onboard_time": 1678877310,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 274602,
+        "num": 274602,
+        "word": "空姐喜欢全在俊的原因",
+        "onboard_time": 1678874666,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 272599,
+        "num": 272599,
+        "word": "熊黛林回复网友",
+        "onboard_time": 1678881568,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261136,
+        "num": 261136,
+        "word": "陈飞宇新电影路透",
+        "onboard_time": 1678882408,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 250030,
+        "num": 250030,
+        "word": "汪涵欧弟再合体",
+        "onboard_time": 1678871367,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244729,
+        "num": 244729,
+        "word": "2023年315晚会主题发布",
+        "onboard_time": 1678878628,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240431,
+        "num": 240431,
+        "word": "SM新女团成员",
+        "onboard_time": 1678874426,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232429,
+        "num": 232429,
+        "word": "博主疑因揭露商家缺斤少两被网络悬赏",
+        "onboard_time": 1678879408,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208874,
+        "num": 208874,
+        "word": "宋亚轩吵架戏",
+        "onboard_time": 1678885114,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 205893,
+        "num": 205893,
+        "word": "归路",
+        "onboard_time": 1678879649,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 197145,
+        "num": 197145,
+        "word": "王者荣耀",
+        "onboard_time": 1678886132,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 194939,
+        "num": 194939,
+        "word": "315曝光香精大米公司曾2次被限消",
+        "onboard_time": 1678886432,
+        "rank": 37,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 193555,
+        "num": 193555,
+        "word": "UCAL哭了",
+        "onboard_time": 1678881208,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 192748,
+        "num": 192748,
+        "word": "TT战胜TES",
+        "onboard_time": 1678880369,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 188363,
+        "num": 190720,
+        "word": "保你平安票房破2亿",
+        "onboard_time": 1678886552,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189558,
+        "num": 189558,
+        "word": "315曝光ETC卡禁用短信骗局",
+        "onboard_time": 1678886432,
+        "rank": 41,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 183600,
+        "num": 183600,
+        "word": "林智妍和金俊勉是同学",
+        "onboard_time": 1678885353,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183022,
+        "num": 183022,
+        "word": "医美",
+        "onboard_time": 1678886492,
+        "rank": 43,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 166431,
+        "num": 166431,
+        "word": "免费评书机暗藏天价神药骗局",
+        "onboard_time": 1678885353,
+        "rank": 44,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 160724,
+        "num": 160724,
+        "word": "将门毒后影视化搁置原因",
+        "onboard_time": 1678875384,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 157630,
+        "num": 157630,
+        "word": "马洪亮 小张说事",
+        "onboard_time": 1678885592,
+        "rank": 46,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 155445,
+        "num": 155445,
+        "word": "TT对战TES",
+        "onboard_time": 1678873947,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 148456,
+        "num": 148456,
+        "word": "樊振东3比0林钟勋",
+        "onboard_time": 1678885114,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143440,
+        "num": 143440,
+        "word": "张译王骁高叶狂飙后再同框",
+        "onboard_time": 1678867648,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚持和加强党的全面领导#"
+    }
+  }
+}
