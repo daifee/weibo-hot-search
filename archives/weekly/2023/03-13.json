@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1678878950714,
+  "endTime": 1678880023388,
   "band_list": [
     {
       "raw_hot": 6995165,
@@ -219,6 +219,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1640542,
+      "num": 1640542,
+      "word": "398元烫发烫完变成3980元",
+      "onboard_time": 1678875688,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1635922,
       "num": 343231,
       "word": "迪丽热巴不希望生活中被过度关注",
@@ -235,16 +243,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1513175,
-      "num": 1513175,
-      "word": "398元烫发烫完变成3980元",
-      "onboard_time": 1678875688,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1492363,
-      "num": 340809,
+      "num": 432644,
       "word": "费曼 无蒸鱼我劝你睡觉别睡得太深",
       "onboard_time": 1678876888,
       "rank": 10,
@@ -257,6 +257,22 @@
       "onboard_time": 1678862908,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1411431,
+      "num": 1411431,
+      "word": "好利来半熟芝士包装内密封着头发",
+      "onboard_time": 1678876286,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1407409,
+      "num": 1407409,
+      "word": "315晚会",
+      "onboard_time": 1678880010,
+      "rank": 3,
+      "category": "国内要闻,财经"
     },
     {
       "raw_hot": 1394486,
@@ -307,19 +323,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1272247,
+      "num": 1272247,
+      "word": "晨晓夫妇车内吻",
+      "onboard_time": 1678876405,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1251135,
       "num": 260991,
       "word": "美国公示丫丫回国相关申请",
       "onboard_time": 1678690226,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1226585,
-      "num": 1226585,
-      "word": "好利来半熟芝士包装内密封着头发",
-      "onboard_time": 1678876286,
-      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -344,14 +360,6 @@
       "word": "奥斯卡直播",
       "onboard_time": 1678668808,
       "rank": 12,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 1157622,
-      "num": 1157622,
-      "word": "晨晓夫妇车内吻",
-      "onboard_time": 1678876405,
-      "rank": 32,
       "category": "影视"
     },
     {
@@ -2139,6 +2147,14 @@
       "category": "影视,幽默"
     },
     {
+      "raw_hot": 437689,
+      "num": 437689,
+      "word": "2023年315晚会主题发布",
+      "onboard_time": 1678878628,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 436112,
       "num": 436112,
       "word": "中方明起扩大公民出境团队游国家范围",
@@ -2153,6 +2169,14 @@
       "onboard_time": 1678851386,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 435131,
+      "num": 435131,
+      "word": "TT对战TES",
+      "onboard_time": 1678873947,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 435039,
@@ -2627,6 +2651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 357392,
+      "num": 357392,
+      "word": "宁艺卓的画",
+      "onboard_time": 1678878567,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 355899,
       "num": 195242,
       "word": "王艺迪2比3平野美宇",
@@ -2673,6 +2705,14 @@
       "onboard_time": 1678862846,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 351412,
+      "num": 351412,
+      "word": "建议他是谁专家不要建议",
+      "onboard_time": 1678878567,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 351326,
@@ -3091,14 +3131,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 305804,
-      "num": 305804,
-      "word": "TT对战TES",
-      "onboard_time": 1678873947,
-      "rank": 19,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 304833,
       "num": 304833,
       "word": "黑暗荣耀花絮",
@@ -3363,6 +3395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 266961,
+      "num": 266961,
+      "word": "养郁金香的欲望达到了巅峰",
+      "onboard_time": 1678878748,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 266219,
       "num": 180754,
       "word": "用湖南卫视打开黑暗荣耀",
@@ -3483,6 +3523,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 256283,
+      "num": 256283,
+      "word": "白冰金发",
+      "onboard_time": 1678879108,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 255912,
       "num": 249625,
       "word": "晨晓cp开虐",
@@ -3513,14 +3561,6 @@
       "onboard_time": 1678762885,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 250318,
-      "num": 250318,
-      "word": "宁艺卓的画",
-      "onboard_time": 1678878567,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 249944,
@@ -3728,6 +3768,14 @@
       "word": "梁朝伟刘德华新片剧照",
       "onboard_time": 1678700306,
       "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 232896,
+      "num": 199666,
+      "word": "真的墓地平安哥被扒出来了",
+      "onboard_time": 1678879949,
+      "rank": 31,
       "category": "影视"
     },
     {
@@ -4091,14 +4139,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 202280,
-      "num": 202280,
-      "word": "2023年315晚会主题发布",
-      "onboard_time": 1678878628,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 201918,
       "num": 201918,
       "word": "欧冠",
@@ -4379,20 +4419,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 183929,
+      "num": 183929,
+      "word": "博主疑因揭露商家缺斤少两被网络悬赏",
+      "onboard_time": 1678879408,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 182736,
       "num": 182736,
       "word": "消费透视镜",
       "onboard_time": 1678842989,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 182047,
-      "num": 177972,
-      "word": "建议他是谁专家不要建议",
-      "onboard_time": 1678878567,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 181479,
@@ -4867,6 +4907,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 142281,
+      "num": 142281,
+      "word": "能不能不要那么快答应他",
+      "onboard_time": 1678876823,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 141898,
       "num": 190370,
       "word": "好像聊了又好像什么都没聊",
@@ -4921,14 +4969,6 @@
       "onboard_time": 1678677387,
       "rank": 44,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 139448,
-      "num": 139448,
-      "word": "能不能不要那么快答应他",
-      "onboard_time": 1678876823,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 139422,
@@ -5153,14 +5193,6 @@
       "onboard_time": 1678630469,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 114335,
-      "num": 114335,
-      "word": "养郁金香的欲望达到了巅峰",
-      "onboard_time": 1678878748,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 112670,
@@ -5580,7 +5612,7 @@
     },
     {
       "raw_hot": 55994,
-      "num": 1158264,
+      "num": 1408262,
       "word": "卫星俯瞰大江大河有多大气",
       "onboard_time": 1678874547,
       "rank": 2,

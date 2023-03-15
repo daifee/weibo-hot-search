@@ -1,0 +1,410 @@
+{
+  "runTime": 1678880023388,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1640542,
+        "num": 1640542,
+        "word": "398元烫发烫完变成3980元",
+        "onboard_time": 1678875688,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1411431,
+        "num": 1411431,
+        "word": "好利来半熟芝士包装内密封着头发",
+        "onboard_time": 1678876286,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55721,
+        "num": 1408262,
+        "word": "卫星俯瞰大江大河有多大气",
+        "onboard_time": 1678874547,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1407409,
+        "num": 1407409,
+        "word": "315晚会",
+        "onboard_time": 1678880010,
+        "rank": 3,
+        "category": "国内要闻,财经"
+      },
+      {
+        "raw_hot": 1272247,
+        "num": 1272247,
+        "word": "晨晓夫妇车内吻",
+        "onboard_time": 1678876405,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 808943,
+        "num": 808943,
+        "word": "人民网评东方甄选疑似售假",
+        "onboard_time": 1678873527,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 678194,
+        "num": 678194,
+        "word": "空姐喜欢全在俊的原因",
+        "onboard_time": 1678874666,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 568035,
+        "num": 568035,
+        "word": "将门毒后影视化搁置原因",
+        "onboard_time": 1678875384,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 437689,
+        "num": 437689,
+        "word": "2023年315晚会主题发布",
+        "onboard_time": 1678878628,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 435131,
+        "num": 435131,
+        "word": "TT对战TES",
+        "onboard_time": 1678873947,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1488947,
+        "num": 432644,
+        "word": "费曼 无蒸鱼我劝你睡觉别睡得太深",
+        "onboard_time": 1678876888,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 404136,
+        "num": 404136,
+        "word": "俩孩子看直播花光父亲百万死亡赔偿金",
+        "onboard_time": 1678859305,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371433,
+        "num": 371433,
+        "word": "他是谁",
+        "onboard_time": 1678877310,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 370525,
+        "num": 370525,
+        "word": "SM新女团成员",
+        "onboard_time": 1678874426,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 368088,
+        "num": 368088,
+        "word": "记者暗访租女友业务",
+        "onboard_time": 1678871007,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367164,
+        "num": 367164,
+        "word": "汪涵欧弟再合体",
+        "onboard_time": 1678871367,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 357392,
+        "num": 357392,
+        "word": "宁艺卓的画",
+        "onboard_time": 1678878567,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 351412,
+        "num": 351412,
+        "word": "建议他是谁专家不要建议",
+        "onboard_time": 1678878567,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 304924,
+        "num": 304924,
+        "word": "曾少年",
+        "onboard_time": 1678877310,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 300226,
+        "num": 300226,
+        "word": "找到了最适合大学生的工作",
+        "onboard_time": 1678866388,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 389722,
+        "num": 296835,
+        "word": "王鹤棣赵露思三亚同框",
+        "onboard_time": 1678862908,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287096,
+        "num": 287096,
+        "word": "郑秀妍教徐老师穿搭",
+        "onboard_time": 1678877369,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266961,
+        "num": 266961,
+        "word": "养郁金香的欲望达到了巅峰",
+        "onboard_time": 1678878748,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 259146,
+        "num": 259146,
+        "word": "周琦辟谣",
+        "onboard_time": 1678873827,
+        "rank": 23,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 216914,
+        "num": 258878,
+        "word": "吉野家吃出蟑螂后检查发现43只",
+        "onboard_time": 1678854329,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258869,
+        "num": 258869,
+        "word": "内娱红毯的定海神针",
+        "onboard_time": 1678864647,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 256283,
+        "num": 256283,
+        "word": "白冰金发",
+        "onboard_time": 1678879108,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 253685,
+        "num": 253685,
+        "word": "归路",
+        "onboard_time": 1678879649,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 211444,
+        "num": 211444,
+        "word": "矿大校长回应校友1100万捐款风波",
+        "onboard_time": 1678866388,
+        "rank": 28,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 203086,
+        "num": 203086,
+        "word": "上海网红餐厅火烧云吃出异物",
+        "onboard_time": 1678867588,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247741,
+        "num": 202127,
+        "word": "张译王骁高叶狂飙后再同框",
+        "onboard_time": 1678867648,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 232896,
+        "num": 199666,
+        "word": "真的墓地平安哥被扒出来了",
+        "onboard_time": 1678879949,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 209160,
+        "num": 194972,
+        "word": "全院加速中",
+        "onboard_time": 1678861646,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183929,
+        "num": 183929,
+        "word": "博主疑因揭露商家缺斤少两被网络悬赏",
+        "onboard_time": 1678879408,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182097,
+        "num": 182097,
+        "word": "洛音凡被重紫杀死",
+        "onboard_time": 1678878809,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 180975,
+        "num": 180975,
+        "word": "108公斤毒品藏身20吨木炭",
+        "onboard_time": 1678864287,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162740,
+        "num": 162740,
+        "word": "山航就中国俄航等调侃信息发声明",
+        "onboard_time": 1678865488,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159717,
+        "num": 159717,
+        "word": "蓝蛙餐厅被立案调查",
+        "onboard_time": 1678870169,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156044,
+        "num": 156044,
+        "word": "王楚钦孙颖莎晋级混双决赛",
+        "onboard_time": 1678877129,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155405,
+        "num": 155405,
+        "word": "曝新疆男篮即将回归CBA",
+        "onboard_time": 1678864167,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154475,
+        "num": 154475,
+        "word": "大鹏说星爷我可以学摄影的",
+        "onboard_time": 1678874847,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152066,
+        "num": 152066,
+        "word": "猫为什么讨厌你男朋友",
+        "onboard_time": 1678868245,
+        "rank": 41,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 145183,
+        "num": 145183,
+        "word": "他是谁案件套娃",
+        "onboard_time": 1678877847,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 144806,
+        "num": 144806,
+        "word": "宋宁峰客串了归路",
+        "onboard_time": 1678876168,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 142526,
+        "num": 142526,
+        "word": "第一次见这么细节的演技",
+        "onboard_time": 1678870105,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142281,
+        "num": 142281,
+        "word": "能不能不要那么快答应他",
+        "onboard_time": 1678876823,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 125759,
+        "num": 125759,
+        "word": "中伊俄等国将举行海上联合军演",
+        "onboard_time": 1678865187,
+        "rank": 46,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 124379,
+        "num": 124379,
+        "word": "迪丽热巴新视线封面预告",
+        "onboard_time": 1678868428,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 122507,
+        "num": 122507,
+        "word": "原来熊猫是可以钓的",
+        "onboard_time": 1678865248,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 115236,
+        "num": 115236,
+        "word": "你为什么经常会觉得无聊",
+        "onboard_time": 1678874186,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记点赞新农人逐梦沃野#"
+    }
+  }
+}
