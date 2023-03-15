@@ -1,6 +1,6 @@
 {
   "startTime": 1678897636121,
-  "endTime": 1678916042138,
+  "endTime": 1678918642641,
   "band_list": [
     {
       "raw_hot": 1136086,
@@ -435,6 +435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 65853,
+      "num": 35456,
+      "word": "980元一盒的鹿鞭丸检出伟哥",
+      "onboard_time": 1678912571,
+      "rank": 21,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 58860,
       "num": 58860,
       "word": "汪涵欧弟再合体",
@@ -451,16 +459,8 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 42169,
-      "num": 22372,
-      "word": "980元一盒的鹿鞭丸检出伟哥",
-      "onboard_time": 1678912571,
-      "rank": 21,
-      "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 23183,
-      "num": 23183,
+      "raw_hot": 27170,
+      "num": 27170,
       "word": "樊振东 混双",
       "onboard_time": 1678891474,
       "rank": 48,
@@ -475,12 +475,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 11336,
-      "num": 11336,
+      "raw_hot": 20375,
+      "num": 20375,
       "word": "朗枫香料公司仅2人参保",
       "onboard_time": 1678910772,
       "rank": 47,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 14206,
+      "num": 17439,
+      "word": "路晨吃醋",
+      "onboard_time": 1678918514,
+      "rank": 47,
+      "category": "影视"
     }
   ],
   "hotgov_list": [
