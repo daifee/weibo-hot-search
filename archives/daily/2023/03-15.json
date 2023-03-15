@@ -1,6 +1,6 @@
 {
   "startTime": 1678811567881,
-  "endTime": 1678893600060,
+  "endTime": 1678894584093,
   "band_list": [
     {
       "raw_hot": 8307302,
@@ -891,6 +891,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 443952,
+      "num": 443952,
+      "word": "瑞信",
+      "onboard_time": 1678891174,
+      "rank": 22,
+      "category": "财经"
+    },
+    {
       "raw_hot": 440533,
       "num": 440533,
       "word": "王者荣耀",
@@ -1067,6 +1075,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 376002,
+      "num": 376002,
+      "word": "赵露思海边双马尾造型",
+      "onboard_time": 1678894049,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 373076,
       "num": 373076,
       "word": "Capper直播",
@@ -1169,14 +1185,6 @@
       "onboard_time": 1678844730,
       "rank": 20,
       "category": "教育"
-    },
-    {
-      "raw_hot": 344115,
-      "num": 344115,
-      "word": "瑞信",
-      "onboard_time": 1678891174,
-      "rank": 22,
-      "category": "财经"
     },
     {
       "raw_hot": 343601,
@@ -1329,6 +1337,14 @@
       "onboard_time": 1678859668,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 287332,
+      "num": 287332,
+      "word": "检测机构已抵达假香米公司",
+      "onboard_time": 1678892430,
+      "rank": 42,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 287206,
@@ -1563,6 +1579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 220755,
+      "num": 220755,
+      "word": "王鹤棣三亚游泳",
+      "onboard_time": 1678893451,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 217036,
       "num": 217036,
       "word": "iQOO回应难以删除数据",
@@ -1699,14 +1723,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 203694,
-      "num": 203694,
-      "word": "王鹤棣三亚游泳",
-      "onboard_time": 1678893451,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 202657,
       "num": 174567,
       "word": "宋宁峰客串了归路",
@@ -1752,6 +1768,14 @@
       "word": "爱情而已里有郭柯宇",
       "onboard_time": 1678855111,
       "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 199436,
+      "num": 199436,
+      "word": "今日宜加油豆瓣开8.2分",
+      "onboard_time": 1678893210,
+      "rank": 41,
       "category": "影视"
     },
     {
@@ -1835,14 +1859,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 191802,
-      "num": 191802,
-      "word": "今日宜加油豆瓣开8.2分",
-      "onboard_time": 1678893210,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 189833,
       "num": 189833,
       "word": "花琉璃轶闻",
@@ -1857,14 +1873,6 @@
       "onboard_time": 1678870766,
       "rank": 35,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 189512,
-      "num": 189512,
-      "word": "检测机构已抵达假香米公司",
-      "onboard_time": 1678892430,
-      "rank": 42,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 189271,
