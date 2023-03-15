@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1678894584093,
+  "endTime": 1678897636121,
   "band_list": [
     {
       "raw_hot": 8307302,
@@ -608,6 +608,14 @@
       "word": "夫妻辞去中科院和北大的工作回乡务农",
       "onboard_time": 1678840170,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 983860,
+      "num": 983860,
+      "word": "湊湊火锅致歉",
+      "onboard_time": 1678895607,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -2179,6 +2187,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 476603,
+      "num": 476603,
+      "word": "检测机构已抵达假香米公司",
+      "onboard_time": 1678892430,
+      "rank": 42,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 475762,
       "num": 475762,
       "word": "他是谁",
@@ -2315,8 +2331,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 443952,
-      "num": 443952,
+      "raw_hot": 448075,
+      "num": 448075,
       "word": "瑞信",
       "onboard_time": 1678891174,
       "rank": 22,
@@ -2689,6 +2705,14 @@
       "onboard_time": 1678805973,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 400334,
+      "num": 151082,
+      "word": "Tiffany被曝一钻两卖",
+      "onboard_time": 1678896445,
+      "rank": 30,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 400271,
@@ -3555,14 +3579,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 287332,
-      "num": 287332,
-      "word": "检测机构已抵达假香米公司",
-      "onboard_time": 1678892430,
-      "rank": 42,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 287206,
       "num": 287206,
       "word": "SM新女团showcase有21名女练习生",
@@ -3777,6 +3793,14 @@
       "onboard_time": 1678615585,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 263659,
+      "num": 263659,
+      "word": "王鹤棣问三亚有什么好吃的",
+      "onboard_time": 1678894889,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 263062,
@@ -4032,6 +4056,14 @@
       "word": "大学生把汉宫春晓图106人物演活了",
       "onboard_time": 1678671565,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 239489,
+      "num": 239489,
+      "word": "美州长称中国有个2000年灭美计划",
+      "onboard_time": 1678896566,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -4987,6 +5019,14 @@
       "category": "艺人,影视"
     },
     {
+      "raw_hot": 177462,
+      "num": 177462,
+      "word": "瑞士信贷股价暴跌",
+      "onboard_time": 1678894769,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
       "raw_hot": 177450,
       "num": 177450,
       "word": "美财政部美联储和FDIC联合声明",
@@ -5571,6 +5611,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 132997,
+      "num": 132997,
+      "word": "LNG战胜AL",
+      "onboard_time": 1678896985,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 132807,
       "num": 143795,
       "word": "没想到拔个河会这么社死",
@@ -5657,6 +5705,14 @@
       "onboard_time": 1678624947,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 126463,
+      "num": 126463,
+      "word": "当代大学生的周末旅游",
+      "onboard_time": 1678893391,
+      "rank": 38,
+      "category": "旅游,幽默"
     },
     {
       "raw_hot": 122910,
@@ -6057,6 +6113,14 @@
       "onboard_time": 1678629989,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 74917,
+      "num": 74917,
+      "word": "丁可芒拍桌子教松杨演戏",
+      "onboard_time": 1678895785,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 74342,

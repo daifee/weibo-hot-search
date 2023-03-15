@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678894584093,
+  "endTime": 1678897636121,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -3192,6 +3192,14 @@
       "word": "香港警方回应网红阿秋自行车被偷",
       "onboard_time": 1678427128,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 983860,
+      "num": 983860,
+      "word": "湊湊火锅致歉",
+      "onboard_time": 1678895607,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -9491,6 +9499,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 476603,
+      "num": 476603,
+      "word": "检测机构已抵达假香米公司",
+      "onboard_time": 1678892430,
+      "rank": 42,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 476425,
       "num": 261122,
       "word": "宋慧乔李到晛cp名",
@@ -10067,6 +10083,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 448075,
+      "num": 448075,
+      "word": "瑞信",
+      "onboard_time": 1678891174,
+      "rank": 22,
+      "category": "财经"
+    },
+    {
       "raw_hot": 447763,
       "num": 447763,
       "word": "建议辅助生殖技术进医保",
@@ -10145,14 +10169,6 @@
       "onboard_time": 1678544908,
       "rank": 27,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 443952,
-      "num": 443952,
-      "word": "瑞信",
-      "onboard_time": 1678891174,
-      "rank": 22,
-      "category": "财经"
     },
     {
       "raw_hot": 443344,
@@ -11281,6 +11297,14 @@
       "onboard_time": 1677811345,
       "rank": 17,
       "category": "科技"
+    },
+    {
+      "raw_hot": 400334,
+      "num": 151082,
+      "word": "Tiffany被曝一钻两卖",
+      "onboard_time": 1678896445,
+      "rank": 30,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 400271,
@@ -15371,14 +15395,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 287332,
-      "num": 287332,
-      "word": "检测机构已抵达假香米公司",
-      "onboard_time": 1678892430,
-      "rank": 42,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 287322,
       "num": 287322,
       "word": "Angelababy红披风",
@@ -16369,6 +16385,14 @@
       "onboard_time": 1677758850,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 263659,
+      "num": 263659,
+      "word": "王鹤棣问三亚有什么好吃的",
+      "onboard_time": 1678894889,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 263062,
@@ -17473,6 +17497,14 @@
       "onboard_time": 1677924626,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 239489,
+      "num": 239489,
+      "word": "美州长称中国有个2000年灭美计划",
+      "onboard_time": 1678896566,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 239074,
@@ -22515,6 +22547,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 177462,
+      "num": 177462,
+      "word": "瑞士信贷股价暴跌",
+      "onboard_time": 1678894769,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
       "raw_hot": 177450,
       "num": 177450,
       "word": "美财政部美联储和FDIC联合声明",
@@ -25827,6 +25867,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 132997,
+      "num": 132997,
+      "word": "LNG战胜AL",
+      "onboard_time": 1678896985,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 132868,
       "num": 132868,
       "word": "黄子韬松杨人设",
@@ -26289,6 +26337,14 @@
       "onboard_time": 1678257205,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 126463,
+      "num": 126463,
+      "word": "当代大学生的周末旅游",
+      "onboard_time": 1678893391,
+      "rank": 38,
+      "category": "旅游,幽默"
     },
     {
       "raw_hot": 126393,
@@ -29177,6 +29233,14 @@
       "onboard_time": 1678005206,
       "rank": 43,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 74917,
+      "num": 74917,
+      "word": "丁可芒拍桌子教松杨演戏",
+      "onboard_time": 1678895785,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 74846,
