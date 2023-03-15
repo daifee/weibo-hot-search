@@ -1,6 +1,6 @@
 {
   "startTime": 1678897636121,
-  "endTime": 1678919590040,
+  "endTime": 1678922132227,
   "band_list": [
     {
       "raw_hot": 1136086,
@@ -27,11 +27,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 645273,
-      "num": 645273,
+      "raw_hot": 741610,
+      "num": 741610,
       "word": "Tiffany被曝一钻两卖",
       "onboard_time": 1678896445,
       "rank": 30,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 608462,
+      "num": 608462,
+      "word": "offer约定月薪2万1入职时变4千",
+      "onboard_time": 1678897643,
+      "rank": 18,
       "category": "社会新闻,财经"
     },
     {
@@ -99,20 +107,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 366144,
-      "num": 352594,
-      "word": "offer约定月薪2万1入职时变4千",
-      "onboard_time": 1678897643,
-      "rank": 18,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 338932,
       "num": 289349,
       "word": "赵露思海边双马尾造型",
       "onboard_time": 1678894049,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 334201,
+      "num": 119606,
+      "word": "硕士爸爸解一年级数学题急出汗",
+      "onboard_time": 1678898840,
+      "rank": 20,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 332933,
@@ -129,6 +137,22 @@
       "onboard_time": 1678887153,
       "rank": 9,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 285721,
+      "num": 118837,
+      "word": "女演员经纪人称酒店未曾联系道歉",
+      "onboard_time": 1678881506,
+      "rank": 22,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 277289,
+      "num": 277289,
+      "word": "被东北小吃的物价震惊了",
+      "onboard_time": 1678898482,
+      "rank": 45,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 277170,
@@ -195,12 +219,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 192187,
+      "num": 192187,
+      "word": "男子吃雪糕吐槽体积明显缩水",
+      "onboard_time": 1678898482,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183628,
+      "num": 183628,
+      "word": "315晚会卧底记者讲述惊险经历",
+      "onboard_time": 1678882710,
+      "rank": 34,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 177462,
       "num": 177462,
       "word": "瑞士信贷股价暴跌",
       "onboard_time": 1678894769,
       "rank": 19,
       "category": "财经"
+    },
+    {
+      "raw_hot": 173519,
+      "num": 173519,
+      "word": "315",
+      "onboard_time": 1678922001,
+      "rank": 13,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 172066,
@@ -211,6 +259,22 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 169947,
+      "num": 118000,
+      "word": "980元一盒的鹿鞭丸检出伟哥",
+      "onboard_time": 1678912571,
+      "rank": 21,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 166015,
+      "num": 166015,
+      "word": "郭麒麟说孟子义弱柳扶风",
+      "onboard_time": 1678886732,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 163554,
       "num": 163554,
       "word": "不可注射的美容针",
@@ -219,8 +283,8 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 157724,
-      "num": 157724,
+      "raw_hot": 158609,
+      "num": 158609,
       "word": "315点名诱骗老年人直播间均已被封",
       "onboard_time": 1678889914,
       "rank": 25,
@@ -233,14 +297,6 @@
       "onboard_time": 1678893391,
       "rank": 38,
       "category": "旅游,幽默"
-    },
-    {
-      "raw_hot": 156650,
-      "num": 109965,
-      "word": "硕士爸爸解一年级数学题急出汗",
-      "onboard_time": 1678898840,
-      "rank": 20,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 155193,
@@ -275,36 +331,12 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 140080,
-      "num": 140080,
-      "word": "郭麒麟说孟子义弱柳扶风",
-      "onboard_time": 1678886732,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 138805,
       "num": 138805,
       "word": "王者荣耀",
       "onboard_time": 1678886132,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 138183,
-      "num": 138183,
-      "word": "被东北小吃的物价震惊了",
-      "onboard_time": 1678898482,
-      "rank": 45,
-      "category": "美食,幽默"
-    },
-    {
-      "raw_hot": 137264,
-      "num": 137264,
-      "word": "315晚会卧底记者讲述惊险经历",
-      "onboard_time": 1678882710,
-      "rank": 34,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 135174,
@@ -331,20 +363,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 128253,
-      "num": 117555,
-      "word": "男子吃雪糕吐槽体积明显缩水",
-      "onboard_time": 1678898482,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 119816,
       "num": 119816,
       "word": "龚俊 会飞的大象",
       "onboard_time": 1678885472,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 117607,
+      "num": 95631,
+      "word": "皇马连续3年欧冠战胜利物浦",
+      "onboard_time": 1678921880,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 114087,
@@ -363,20 +395,20 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 111905,
+      "num": 111905,
+      "word": "部分头盔成戴在头上的刀片",
+      "onboard_time": 1678884150,
+      "rank": 43,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 111016,
       "num": 111016,
       "word": "偷偷藏不住路透",
       "onboard_time": 1678887632,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 110087,
-      "num": 110087,
-      "word": "部分头盔成戴在头上的刀片",
-      "onboard_time": 1678884150,
-      "rank": 43,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 107538,
@@ -403,6 +435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 89674,
+      "num": 89674,
+      "word": "县委书记5年跑出33000个蔬菜大棚",
+      "onboard_time": 1678921939,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 84915,
       "num": 84915,
       "word": "PUBG",
@@ -411,12 +451,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 80152,
-      "num": 44467,
-      "word": "980元一盒的鹿鞭丸检出伟哥",
-      "onboard_time": 1678912571,
-      "rank": 21,
-      "category": "社会新闻,财经"
+      "raw_hot": 79375,
+      "num": 79375,
+      "word": "本泽马破门",
+      "onboard_time": 1678921760,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 74917,
@@ -451,8 +491,32 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 57728,
+      "num": 56837,
+      "word": "真的墓地平安哥被扒出来了",
+      "onboard_time": 1678879949,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 57025,
+      "num": 57025,
+      "word": "路晨吃醋",
+      "onboard_time": 1678918514,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 55420,
+      "num": 55420,
+      "word": "朗枫香料公司仅2人参保",
+      "onboard_time": 1678910772,
+      "rank": 47,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 49585,
-      "num": 639576,
+      "num": 666298,
       "word": "开年中国经济企稳回升",
       "onboard_time": 1678888596,
       "rank": 2,
@@ -465,22 +529,6 @@
       "onboard_time": 1678891474,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 26992,
-      "num": 26992,
-      "word": "路晨吃醋",
-      "onboard_time": 1678918514,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 24895,
-      "num": 24895,
-      "word": "朗枫香料公司仅2人参保",
-      "onboard_time": 1678910772,
-      "rank": 47,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 22043,
