@@ -1,6 +1,6 @@
 {
   "startTime": 1678811567881,
-  "endTime": 1678851214834,
+  "endTime": 1678854169331,
   "band_list": [
     {
       "raw_hot": 2978909,
@@ -91,12 +91,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 961595,
+      "num": 961595,
+      "word": "13岁女孩患红斑狼疮疼得精神异常",
+      "onboard_time": 1678851209,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 872048,
       "num": 872048,
       "word": "洗澡吃橘子",
       "onboard_time": 1678841970,
       "rank": 9,
       "category": "情感"
+    },
+    {
+      "raw_hot": 859423,
+      "num": 859423,
+      "word": "南京地铁回应乘客喝牛奶被开罚单",
+      "onboard_time": 1678850666,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 834613,
+      "num": 595932,
+      "word": "在俊呐 拍杂志也要这么上火吗",
+      "onboard_time": 1678850366,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 819017,
@@ -147,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 634374,
+      "num": 634374,
+      "word": "公司招聘员工要求只吃素",
+      "onboard_time": 1678848387,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 626619,
       "num": 626619,
       "word": "东方甄选养殖虾当野生虾卖",
@@ -177,14 +209,6 @@
       "onboard_time": 1678849346,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 551910,
-      "num": 551910,
-      "word": "公司招聘员工要求只吃素",
-      "onboard_time": 1678848387,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 547704,
@@ -235,6 +259,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 524699,
+      "num": 524699,
+      "word": "汕头市监局连夜查封多家腌制菜生产商",
+      "onboard_time": 1678850366,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 507134,
+      "num": 507134,
+      "word": "王楚然李兰迪孙千周洁琼合照",
+      "onboard_time": 1678851266,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 502501,
       "num": 502501,
       "word": "余生请多指教开播一周年了",
@@ -251,8 +291,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 476775,
-      "num": 476775,
+      "raw_hot": 479619,
+      "num": 479619,
       "word": "橄榄菜",
       "onboard_time": 1678841250,
       "rank": 15,
@@ -275,12 +315,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 443704,
-      "num": 443704,
-      "word": "在俊呐 拍杂志也要这么上火吗",
-      "onboard_time": 1678850366,
-      "rank": 41,
-      "category": "影视"
+      "raw_hot": 435167,
+      "num": 435167,
+      "word": "赤脚踩腌菜涉事公司回应",
+      "onboard_time": 1678851386,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 435039,
@@ -371,6 +411,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 340388,
+      "num": 340388,
+      "word": "李秀满听说HYBE和KAKAO协议的反应",
+      "onboard_time": 1678852770,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 328163,
       "num": 328163,
       "word": "EXO看KAI新歌MVReaction",
@@ -403,12 +451,36 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 312852,
+      "num": 312852,
+      "word": "防弹少年团希望2025年重启活动",
+      "onboard_time": 1678853067,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 309123,
       "num": 309123,
       "word": "一镜到底有多暴露演技",
       "onboard_time": 1678800694,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 306900,
+      "num": 306900,
+      "word": "张译警察角色101",
+      "onboard_time": 1678851146,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 278432,
+      "num": 278432,
+      "word": "丁程鑫加盟你好星期六",
+      "onboard_time": 1678851928,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 261280,
@@ -467,6 +539,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 234851,
+      "num": 234851,
+      "word": "沃尔玛超市回应盒饭上蟑螂乱爬",
+      "onboard_time": 1678853307,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 233080,
       "num": 233080,
       "word": "爱情而已首发预告",
@@ -507,14 +587,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 226147,
-      "num": 226147,
-      "word": "南京地铁回应乘客喝牛奶被开罚单",
-      "onboard_time": 1678850666,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 213561,
       "num": 213561,
       "word": "曼城7比0莱比锡",
@@ -524,7 +596,7 @@
     },
     {
       "raw_hot": 208291,
-      "num": 1209769,
+      "num": 1272077,
       "word": "政府工作报告全文发布",
       "onboard_time": 1678847906,
       "rank": 2,
@@ -563,14 +635,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 199589,
-      "num": 199589,
-      "word": "汕头市监局连夜查封多家腌制菜生产商",
-      "onboard_time": 1678850366,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 199134,
       "num": 199134,
       "word": "微博年度热度人物",
@@ -584,6 +648,14 @@
       "word": "归路小说还原度",
       "onboard_time": 1678811961,
       "rank": 16,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 188746,
+      "num": 188746,
+      "word": "路炎晨哄归晓",
+      "onboard_time": 1678852648,
+      "rank": 35,
       "category": "影视"
     },
     {
@@ -611,6 +683,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 173229,
+      "num": 173229,
+      "word": "潮汕涉事橄榄菜企业下架整改",
+      "onboard_time": 1678854031,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172318,
       "num": 172318,
       "word": "超八成受访者对国内消费环境总体满意",
@@ -625,6 +705,14 @@
       "onboard_time": 1678797630,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 160872,
+      "num": 160872,
+      "word": "警方开始调查刘亚仁经纪公司及同事",
+      "onboard_time": 1678853249,
+      "rank": 43,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 154650,
@@ -691,14 +779,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 135907,
-      "num": 135907,
-      "word": "张译警察角色101",
-      "onboard_time": 1678851146,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
       "raw_hot": 135720,
       "num": 135720,
       "word": "河道英全在俊演过霜花店",
@@ -729,14 +809,6 @@
       "onboard_time": 1678785569,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 127859,
-      "num": 127859,
-      "word": "13岁女孩患红斑狼疮疼得精神异常",
-      "onboard_time": 1678851209,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 125843,
