@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1678868653803,
+  "endTime": 1678869489544,
   "band_list": [
     {
       "raw_hot": 6995165,
@@ -595,6 +595,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 882698,
+      "num": 882698,
+      "word": "张译王骁高叶狂飙后再同框",
+      "onboard_time": 1678867648,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 878454,
       "num": 699203,
       "word": "大侦探",
@@ -705,14 +713,6 @@
       "onboard_time": 1678711107,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 836410,
-      "num": 836410,
-      "word": "张译王骁高叶狂飙后再同框",
-      "onboard_time": 1678867648,
-      "rank": 1,
-      "category": "影视"
     },
     {
       "raw_hot": 834613,
@@ -897,6 +897,14 @@
       "onboard_time": 1678800694,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 734784,
+      "num": 734784,
+      "word": "矿大校长回应校友1100万捐款风波",
+      "onboard_time": 1678866388,
+      "rank": 4,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 733886,
@@ -1299,14 +1307,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 581759,
-      "num": 581759,
-      "word": "矿大校长回应校友1100万捐款风波",
-      "onboard_time": 1678866388,
-      "rank": 4,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 580983,
       "num": 580983,
       "word": "洪知秀内地首封",
@@ -1329,6 +1329,14 @@
       "onboard_time": 1678769250,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 567436,
+      "num": 567436,
+      "word": "找到了最适合大学生的工作",
+      "onboard_time": 1678866388,
+      "rank": 7,
+      "category": "幽默"
     },
     {
       "raw_hot": 567235,
@@ -1755,6 +1763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 486925,
+      "num": 486925,
+      "word": "山航就中国俄航等调侃信息发声明",
+      "onboard_time": 1678865488,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 486650,
       "num": 201664,
       "word": "汇丰收购硅谷银行英国子公司",
@@ -1827,12 +1843,12 @@
       "category": "情感,网红"
     },
     {
-      "raw_hot": 477997,
-      "num": 477997,
-      "word": "找到了最适合大学生的工作",
-      "onboard_time": 1678866388,
-      "rank": 7,
-      "category": "幽默"
+      "raw_hot": 479817,
+      "num": 479817,
+      "word": "迪丽热巴新视线封面预告",
+      "onboard_time": 1678868428,
+      "rank": 15,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 477705,
@@ -1969,14 +1985,6 @@
       "onboard_time": 1678669946,
       "rank": 23,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 442912,
-      "num": 442912,
-      "word": "山航就中国俄航等调侃信息发声明",
-      "onboard_time": 1678865488,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 442664,
@@ -2251,6 +2259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 412314,
+      "num": 412314,
+      "word": "原来熊猫是可以钓的",
+      "onboard_time": 1678865248,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 411754,
       "num": 411754,
       "word": "虞书欣白鹿张婧仪宋轶微博之夜开屏",
@@ -2299,14 +2315,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 400753,
-      "num": 400753,
-      "word": "迪丽热巴新视线封面预告",
-      "onboard_time": 1678868428,
-      "rank": 15,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 400271,
       "num": 400271,
       "word": "男童患白血病保险公司拒绝续保",
@@ -2337,6 +2345,14 @@
       "onboard_time": 1678854329,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 392229,
+      "num": 392229,
+      "word": "上海网红餐厅火烧云吃出异物",
+      "onboard_time": 1678867588,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 389810,
@@ -2441,14 +2457,6 @@
       "onboard_time": 1678709247,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 367727,
-      "num": 367727,
-      "word": "原来熊猫是可以钓的",
-      "onboard_time": 1678865248,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 367636,
@@ -2763,6 +2771,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 327283,
+      "num": 327283,
+      "word": "李到晛罗美兰合作",
+      "onboard_time": 1678866988,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 325755,
       "num": 400462,
       "word": "男子爬山偶遇赤狐对视引路",
@@ -2793,14 +2809,6 @@
       "onboard_time": 1678838127,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 322957,
-      "num": 322957,
-      "word": "李到晛罗美兰合作",
-      "onboard_time": 1678866988,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 322822,
@@ -2921,6 +2929,14 @@
       "onboard_time": 1678851146,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 309211,
+      "num": 309211,
+      "word": "吉野家回应吃出蟑螂",
+      "onboard_time": 1678869326,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 308704,
@@ -3427,6 +3443,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 243652,
+      "num": 243652,
+      "word": "酒店与女演员和解方案未达一致",
+      "onboard_time": 1678866028,
+      "rank": 27,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 243523,
       "num": 243523,
       "word": "吃个饭五官都张开了",
@@ -3521,22 +3545,6 @@
       "onboard_time": 1678664601,
       "rank": 28,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 235390,
-      "num": 235390,
-      "word": "上海网红餐厅火烧云吃出异物",
-      "onboard_time": 1678867588,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 235282,
-      "num": 235282,
-      "word": "酒店与女演员和解方案未达一致",
-      "onboard_time": 1678866028,
-      "rank": 27,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 233141,
@@ -3723,6 +3731,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 219478,
+      "num": 219478,
+      "word": "猫为什么讨厌你男朋友",
+      "onboard_time": 1678868245,
+      "rank": 45,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 217698,
       "num": 165672,
       "word": "保你平安测试渣男技巧",
@@ -3897,6 +3913,14 @@
       "onboard_time": 1678835661,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 201776,
+      "num": 201776,
+      "word": "周深两首歌入选中国当代歌曲创作精品",
+      "onboard_time": 1678868550,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 200968,
@@ -4075,14 +4099,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 189687,
-      "num": 189687,
-      "word": "周深两首歌入选中国当代歌曲创作精品",
-      "onboard_time": 1678868550,
-      "rank": 31,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 188746,
       "num": 188746,
       "word": "路炎晨哄归晓",
@@ -4097,6 +4113,14 @@
       "onboard_time": 1678789231,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 187914,
+      "num": 187914,
+      "word": "贺峻霖演我上课",
+      "onboard_time": 1678868847,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 187716,
@@ -4867,14 +4891,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 111237,
-      "num": 111237,
-      "word": "猫为什么讨厌你男朋友",
-      "onboard_time": 1678868245,
-      "rank": 45,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 110863,
       "num": 110863,
       "word": "庆余年2 原班人马",
@@ -4921,6 +4937,14 @@
       "onboard_time": 1678695747,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 106050,
+      "num": 106050,
+      "word": "睡出泡泡的小熊猫",
+      "onboard_time": 1678869028,
+      "rank": 45,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 104527,
