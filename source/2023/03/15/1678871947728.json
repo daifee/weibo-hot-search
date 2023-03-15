@@ -1,0 +1,410 @@
+{
+  "runTime": 1678871947728,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 975492,
+        "num": 975492,
+        "word": "张译王骁高叶狂飙后再同框",
+        "onboard_time": 1678867648,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 949720,
+        "num": 949720,
+        "word": "矿大校长回应校友1100万捐款风波",
+        "onboard_time": 1678866388,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 26656,
+        "num": 765759,
+        "word": "政府工作报告全文发布",
+        "onboard_time": 1678847906,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 761779,
+        "num": 761779,
+        "word": "找到了最适合大学生的工作",
+        "onboard_time": 1678866388,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 645903,
+        "num": 645903,
+        "word": "108公斤毒品藏身20吨木炭",
+        "onboard_time": 1678864287,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 643460,
+        "num": 643460,
+        "word": "上海网红餐厅火烧云吃出异物",
+        "onboard_time": 1678867588,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 550314,
+        "num": 550314,
+        "word": "吉野家吃出蟑螂后检查发现43只",
+        "onboard_time": 1678854329,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 526118,
+        "num": 526118,
+        "word": "猫为什么讨厌你男朋友",
+        "onboard_time": 1678868245,
+        "rank": 7,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 395816,
+        "num": 395816,
+        "word": "山航就中国俄航等调侃信息发声明",
+        "onboard_time": 1678865488,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349404,
+        "num": 349404,
+        "word": "全院加速中",
+        "onboard_time": 1678861646,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 796086,
+        "num": 344577,
+        "word": "内娱红毯的定海神针",
+        "onboard_time": 1678864647,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 609105,
+        "num": 344319,
+        "word": "俩孩子看直播花光父亲百万死亡赔偿金",
+        "onboard_time": 1678859305,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 420778,
+        "num": 341796,
+        "word": "蓝蛙餐厅被立案调查",
+        "onboard_time": 1678870169,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336409,
+        "num": 336409,
+        "word": "王楚钦孙颖莎vs林昀儒陈思羽",
+        "onboard_time": 1678870887,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 336117,
+        "num": 336117,
+        "word": "原来熊猫是可以钓的",
+        "onboard_time": 1678865248,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 327683,
+        "num": 327683,
+        "word": "汪涵欧弟再合体",
+        "onboard_time": 1678871367,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 326886,
+        "num": 326886,
+        "word": "曝新疆男篮即将回归CBA",
+        "onboard_time": 1678864167,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 320232,
+        "num": 320232,
+        "word": "迪丽热巴新视线封面预告",
+        "onboard_time": 1678868428,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 294705,
+        "num": 294705,
+        "word": "郁金香壁纸",
+        "onboard_time": 1678860328,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 280815,
+        "num": 280815,
+        "word": "李到晛罗美兰合作",
+        "onboard_time": 1678866988,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 702717,
+        "num": 279632,
+        "word": "王鹤棣赵露思三亚同框",
+        "onboard_time": 1678862908,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276535,
+        "num": 276535,
+        "word": "中伊俄等国将举行海上联合军演",
+        "onboard_time": 1678865187,
+        "rank": 21,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 271766,
+        "num": 271766,
+        "word": "墨宝非宝男主嘴一个比一个硬",
+        "onboard_time": 1678856550,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 243442,
+        "num": 243442,
+        "word": "国产悬疑刑侦剧天花板",
+        "onboard_time": 1678855831,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 226730,
+        "num": 226730,
+        "word": "巴奴下架富硒土豆",
+        "onboard_time": 1678871066,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219918,
+        "num": 219918,
+        "word": "第一次见这么细节的演技",
+        "onboard_time": 1678870105,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 216089,
+        "num": 216089,
+        "word": "外交部对洪都拉斯表态表示欢迎",
+        "onboard_time": 1678870348,
+        "rank": 26,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 212339,
+        "num": 212339,
+        "word": "酒店与女演员和解方案未达一致",
+        "onboard_time": 1678866028,
+        "rank": 27,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 209935,
+        "num": 209935,
+        "word": "吉野家回应吃出蟑螂",
+        "onboard_time": 1678869326,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200745,
+        "num": 200745,
+        "word": "周深两首歌入选中国当代歌曲创作精品",
+        "onboard_time": 1678868550,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 200290,
+        "num": 200290,
+        "word": "记者暗访租女友业务",
+        "onboard_time": 1678871007,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198786,
+        "num": 198786,
+        "word": "丁程鑫杨迪团建",
+        "onboard_time": 1678870828,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197716,
+        "num": 197716,
+        "word": "洪知秀内地首封",
+        "onboard_time": 1678863566,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 195778,
+        "num": 195778,
+        "word": "混血神颜天花板",
+        "onboard_time": 1678862727,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192696,
+        "num": 192696,
+        "word": "消费者购买食物吃出异物咋维权",
+        "onboard_time": 1678871424,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189796,
+        "num": 189796,
+        "word": "如何看待诺而不捐",
+        "onboard_time": 1678870766,
+        "rank": 35,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 187656,
+        "num": 187656,
+        "word": "国考调剂",
+        "onboard_time": 1678860568,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 187085,
+        "num": 187085,
+        "word": "成龙耍刀郭麒麟被刀耍",
+        "onboard_time": 1678866507,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 178508,
+        "num": 178508,
+        "word": "岳云鹏商演定了三个城市",
+        "onboard_time": 1678863327,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159604,
+        "num": 159604,
+        "word": "谭松韵说井柏然像来接孩子的",
+        "onboard_time": 1678860925,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 157531,
+        "num": 157531,
+        "word": "三大队",
+        "onboard_time": 1678870528,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 156497,
+        "num": 156497,
+        "word": "睡出泡泡的小熊猫",
+        "onboard_time": 1678869028,
+        "rank": 41,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 155478,
+        "num": 155478,
+        "word": "宋智雅重启演艺活动",
+        "onboard_time": 1678860148,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155173,
+        "num": 155173,
+        "word": "钱天一晋级",
+        "onboard_time": 1678868006,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152985,
+        "num": 152985,
+        "word": "警方通报女子殴打代驾称丈夫是警察",
+        "onboard_time": 1678857748,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149096,
+        "num": 149096,
+        "word": "俞永镇跟李秀满离开SM",
+        "onboard_time": 1678862846,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147082,
+        "num": 147082,
+        "word": "13岁女孩患红斑狼疮疼得精神异常",
+        "onboard_time": 1678851209,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137812,
+        "num": 137812,
+        "word": "崔惠廷露出镜头是CG替身合成",
+        "onboard_time": 1678857689,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 115371,
+        "num": 115371,
+        "word": "清明节放假一天不调休",
+        "onboard_time": 1678842150,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113009,
+        "num": 113009,
+        "word": "大鹏说找王一博演热烈是因为适合",
+        "onboard_time": 1678860508,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#315市场监管在行动#"
+    }
+  }
+}

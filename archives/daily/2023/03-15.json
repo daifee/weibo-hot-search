@@ -1,6 +1,6 @@
 {
   "startTime": 1678811567881,
-  "endTime": 1678869489544,
+  "endTime": 1678871947728,
   "band_list": [
     {
       "raw_hot": 2978909,
@@ -131,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 975492,
+      "num": 975492,
+      "word": "张译王骁高叶狂飙后再同框",
+      "onboard_time": 1678867648,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 968335,
       "num": 968335,
       "word": "国考进面",
@@ -155,20 +163,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 949720,
+      "num": 949720,
+      "word": "矿大校长回应校友1100万捐款风波",
+      "onboard_time": 1678866388,
+      "rank": 4,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 890958,
       "num": 890958,
       "word": "文旅局副局长吐槽被诱导办话费套餐",
       "onboard_time": 1678854933,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 882698,
-      "num": 882698,
-      "word": "张译王骁高叶狂飙后再同框",
-      "onboard_time": 1678867648,
-      "rank": 1,
-      "category": "影视"
     },
     {
       "raw_hot": 872048,
@@ -235,20 +243,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 761779,
+      "num": 761779,
+      "word": "找到了最适合大学生的工作",
+      "onboard_time": 1678866388,
+      "rank": 7,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 758704,
       "num": 599768,
       "word": "台军失踪士兵在厦门吃好睡好",
       "onboard_time": 1678806150,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 734784,
-      "num": 734784,
-      "word": "矿大校长回应校友1100万捐款风波",
-      "onboard_time": 1678866388,
-      "rank": 4,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 706238,
@@ -280,6 +288,14 @@
       "word": "重庆一鱼塘神秘大坑吞噬2万斤鱼",
       "onboard_time": 1678805252,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 643460,
+      "num": 643460,
+      "word": "上海网红餐厅火烧云吃出异物",
+      "onboard_time": 1678867588,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -353,14 +369,6 @@
       "onboard_time": 1678863566,
       "rank": 8,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 567436,
-      "num": 567436,
-      "word": "找到了最适合大学生的工作",
-      "onboard_time": 1678866388,
-      "rank": 7,
-      "category": "幽默"
     },
     {
       "raw_hot": 563635,
@@ -441,6 +449,14 @@
       "onboard_time": 1678851266,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 526118,
+      "num": 526118,
+      "word": "猫为什么讨厌你男朋友",
+      "onboard_time": 1678868245,
+      "rank": 45,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 526087,
@@ -571,6 +587,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 420778,
+      "num": 341796,
+      "word": "蓝蛙餐厅被立案调查",
+      "onboard_time": 1678870169,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 419781,
       "num": 419781,
       "word": "崔惠廷露出镜头是CG替身合成",
@@ -633,14 +657,6 @@
       "onboard_time": 1678854329,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 392229,
-      "num": 392229,
-      "word": "上海网红餐厅火烧云吃出异物",
-      "onboard_time": 1678867588,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 385535,
@@ -723,12 +739,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 336409,
+      "num": 336409,
+      "word": "王楚钦孙颖莎vs林昀儒陈思羽",
+      "onboard_time": 1678870887,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 328163,
       "num": 328163,
       "word": "EXO看KAI新歌MVReaction",
       "onboard_time": 1678844730,
       "rank": 24,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 327683,
+      "num": 327683,
+      "word": "汪涵欧弟再合体",
+      "onboard_time": 1678871367,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 327283,
@@ -979,6 +1011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 226730,
+      "num": 226730,
+      "word": "巴奴下架富硒土豆",
+      "onboard_time": 1678871066,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 223424,
       "num": 223424,
       "word": "成龙耍刀郭麒麟被刀耍",
@@ -995,12 +1035,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 219478,
-      "num": 219478,
-      "word": "猫为什么讨厌你男朋友",
-      "onboard_time": 1678868245,
-      "rank": 45,
-      "category": "幽默,情感"
+      "raw_hot": 219918,
+      "num": 219918,
+      "word": "第一次见这么细节的演技",
+      "onboard_time": 1678870105,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 216089,
+      "num": 216089,
+      "word": "外交部对洪都拉斯表态表示欢迎",
+      "onboard_time": 1678870348,
+      "rank": 26,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 213561,
@@ -1083,11 +1131,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 200290,
+      "num": 200290,
+      "word": "记者暗访租女友业务",
+      "onboard_time": 1678871007,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 199134,
       "num": 199134,
       "word": "微博年度热度人物",
       "onboard_time": 1678799491,
       "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 198786,
+      "num": 198786,
+      "word": "丁程鑫杨迪团建",
+      "onboard_time": 1678870828,
+      "rank": 31,
       "category": "综艺"
     },
     {
@@ -1099,12 +1163,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 192696,
+      "num": 192696,
+      "word": "消费者购买食物吃出异物咋维权",
+      "onboard_time": 1678871424,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192342,
       "num": 192342,
       "word": "张俪嘶吼哭戏",
       "onboard_time": 1678854933,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 189796,
+      "num": 189796,
+      "word": "如何看待诺而不捐",
+      "onboard_time": 1678870766,
+      "rank": 35,
+      "category": "社会议题"
     },
     {
       "raw_hot": 188746,
@@ -1209,6 +1289,22 @@
       "onboard_time": 1678862245,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 157531,
+      "num": 157531,
+      "word": "三大队",
+      "onboard_time": 1678870528,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 156497,
+      "num": 156497,
+      "word": "睡出泡泡的小熊猫",
+      "onboard_time": 1678869028,
+      "rank": 45,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 154650,
@@ -1393,14 +1489,6 @@
       "onboard_time": 1678863867,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 106050,
-      "num": 106050,
-      "word": "睡出泡泡的小熊猫",
-      "onboard_time": 1678869028,
-      "rank": 45,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 101547,
