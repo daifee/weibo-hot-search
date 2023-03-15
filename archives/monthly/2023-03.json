@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678864622659,
+  "endTime": 1678865624574,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -433,6 +433,14 @@
       "onboard_time": 1678840350,
       "rank": 1,
       "category": "科技"
+    },
+    {
+      "raw_hot": 2174830,
+      "num": 2174830,
+      "word": "长期吸食奶茶杯或致闭经不孕",
+      "onboard_time": 1678863867,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2171501,
@@ -1339,6 +1347,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 1471468,
+      "num": 320547,
+      "word": "王鹤棣赵露思三亚同框",
+      "onboard_time": 1678862908,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1467955,
       "num": 1467955,
       "word": "陆虎 抢票",
@@ -1593,14 +1609,6 @@
       "onboard_time": 1678699226,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1377967,
-      "num": 302514,
-      "word": "王鹤棣赵露思三亚同框",
-      "onboard_time": 1678862908,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 1377705,
@@ -3961,14 +3969,6 @@
       "onboard_time": 1678850366,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 832688,
-      "num": 464179,
-      "word": "长期吸食奶茶杯或致闭经不孕",
-      "onboard_time": 1678863867,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 832531,
@@ -6523,6 +6523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 604973,
+      "num": 497508,
+      "word": "内娱红毯的定海神针",
+      "onboard_time": 1678864647,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 604013,
       "num": 604013,
       "word": "官方通报网传苏州动保组织拘禁审讯猫贩",
@@ -6537,6 +6545,14 @@
       "onboard_time": 1677926849,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 603382,
+      "num": 603382,
+      "word": "郁金香壁纸",
+      "onboard_time": 1678860328,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 602887,
@@ -6593,6 +6609,14 @@
       "onboard_time": 1677986904,
       "rank": 17,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 599962,
+      "num": 599962,
+      "word": "岳云鹏商演定了三个城市",
+      "onboard_time": 1678863327,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 599902,
@@ -6809,6 +6833,14 @@
       "onboard_time": 1678663821,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 580983,
+      "num": 580983,
+      "word": "洪知秀内地首封",
+      "onboard_time": 1678863566,
+      "rank": 8,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 580975,
@@ -7057,14 +7089,6 @@
       "onboard_time": 1677671189,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 567992,
-      "num": 567992,
-      "word": "岳云鹏商演定了三个城市",
-      "onboard_time": 1678863327,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 567578,
@@ -7403,6 +7427,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 551946,
+      "num": 551946,
+      "word": "曝新疆男篮即将回归CBA",
+      "onboard_time": 1678864167,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 550933,
       "num": 550933,
       "word": "人大代表建议在幼儿园实施全面性教育",
@@ -7689,14 +7721,6 @@
       "onboard_time": 1678505673,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 536636,
-      "num": 536636,
-      "word": "郁金香壁纸",
-      "onboard_time": 1678860328,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 536162,
@@ -8625,14 +8649,6 @@
       "onboard_time": 1678147947,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 496648,
-      "num": 496648,
-      "word": "洪知秀内地首封",
-      "onboard_time": 1678863566,
-      "rank": 8,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 496499,
@@ -9985,6 +10001,14 @@
       "onboard_time": 1678842808,
       "rank": 18,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 435036,
+      "num": 435036,
+      "word": "108公斤毒品藏身20吨木炭",
+      "onboard_time": 1678864287,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 434813,
@@ -13467,6 +13491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 322086,
+      "num": 322086,
+      "word": "云南瑞丽查获冰毒超100公斤",
+      "onboard_time": 1678863745,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 321659,
       "num": 321659,
       "word": "金泰亨95后整顿职场",
@@ -16347,6 +16379,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 248258,
+      "num": 248258,
+      "word": "用绳子缠住主人的狗狗",
+      "onboard_time": 1678862366,
+      "rank": 27,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 247509,
       "num": 247509,
       "word": "急诊科医生与外卖小哥的共同点找到了",
@@ -17403,14 +17443,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 227930,
-      "num": 227930,
-      "word": "用绳子缠住主人的狗狗",
-      "onboard_time": 1678862366,
-      "rank": 27,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 227755,
       "num": 227755,
       "word": "五行世家定档",
@@ -18377,14 +18409,6 @@
       "onboard_time": 1678167146,
       "rank": 26,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 211261,
-      "num": 211261,
-      "word": "曝新疆男篮即将回归CBA",
-      "onboard_time": 1678864167,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 211254,
@@ -20297,6 +20321,14 @@
       "onboard_time": 1678101927,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 194557,
+      "num": 194557,
+      "word": "中伊俄等国将举行海上联合军演",
+      "onboard_time": 1678865187,
+      "rank": 33,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 194508,
@@ -22499,14 +22531,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 164910,
-      "num": 220773,
-      "word": "云南瑞丽查获冰毒超100公斤",
-      "onboard_time": 1678863745,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 164884,
       "num": 602036,
       "word": "苍兰诀动画收官",
@@ -24067,12 +24091,12 @@
       "category": "影视,社会新闻"
     },
     {
-      "raw_hot": 142395,
-      "num": 142395,
-      "word": "108公斤毒品藏身20吨木炭",
-      "onboard_time": 1678864287,
-      "rank": 41,
-      "category": "社会新闻"
+      "raw_hot": 142479,
+      "num": 142479,
+      "word": "原来熊猫是可以钓的",
+      "onboard_time": 1678865248,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 142244,
@@ -26248,6 +26272,14 @@
       "word": "支持见义勇为坚决反对和稀泥",
       "onboard_time": 1678177588,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 111690,
+      "num": 111690,
+      "word": "山航就中国俄航等调侃信息发声明",
+      "onboard_time": 1678865488,
+      "rank": 48,
       "category": "社会新闻"
     },
     {

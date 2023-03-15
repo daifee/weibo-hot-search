@@ -1,0 +1,410 @@
+{
+  "runTime": 1678865624574,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2174830,
+        "num": 2174830,
+        "word": "长期吸食奶茶杯或致闭经不孕",
+        "onboard_time": 1678863867,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 851335,
+        "num": 851335,
+        "word": "吉野家吃出蟑螂后检查发现43只",
+        "onboard_time": 1678854329,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60297,
+        "num": 766865,
+        "word": "政府工作报告全文发布",
+        "onboard_time": 1678847906,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 738338,
+        "num": 738338,
+        "word": "全院加速中",
+        "onboard_time": 1678861646,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 635050,
+        "num": 635050,
+        "word": "国产悬疑刑侦剧天花板",
+        "onboard_time": 1678855831,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 603382,
+        "num": 603382,
+        "word": "郁金香壁纸",
+        "onboard_time": 1678860328,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 599962,
+        "num": 599962,
+        "word": "岳云鹏商演定了三个城市",
+        "onboard_time": 1678863327,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 580983,
+        "num": 580983,
+        "word": "洪知秀内地首封",
+        "onboard_time": 1678863566,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 551946,
+        "num": 551946,
+        "word": "曝新疆男篮即将回归CBA",
+        "onboard_time": 1678864167,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 509257,
+        "num": 509257,
+        "word": "国考调剂",
+        "onboard_time": 1678860568,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 761027,
+        "num": 500761,
+        "word": "俩孩子看直播花光父亲百万死亡赔偿金",
+        "onboard_time": 1678859305,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 604973,
+        "num": 497508,
+        "word": "内娱红毯的定海神针",
+        "onboard_time": 1678864647,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 483827,
+        "num": 483827,
+        "word": "墨宝非宝男主嘴一个比一个硬",
+        "onboard_time": 1678856550,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 435036,
+        "num": 435036,
+        "word": "108公斤毒品藏身20吨木炭",
+        "onboard_time": 1678864287,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 407783,
+        "num": 407783,
+        "word": "宋智雅重启演艺活动",
+        "onboard_time": 1678860148,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 369632,
+        "num": 369632,
+        "word": "大鹏说找王一博演热烈是因为适合",
+        "onboard_time": 1678860508,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 363474,
+        "num": 363474,
+        "word": "清明节放假一天不调休",
+        "onboard_time": 1678842150,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335621,
+        "num": 335621,
+        "word": "张译腕线过裆",
+        "onboard_time": 1678861227,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 331150,
+        "num": 331150,
+        "word": "混血神颜天花板",
+        "onboard_time": 1678862727,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 322086,
+        "num": 322086,
+        "word": "云南瑞丽查获冰毒超100公斤",
+        "onboard_time": 1678863745,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1471468,
+        "num": 320547,
+        "word": "王鹤棣赵露思三亚同框",
+        "onboard_time": 1678862908,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 310440,
+        "num": 310440,
+        "word": "警方通报女子殴打代驾称丈夫是警察",
+        "onboard_time": 1678857748,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278807,
+        "num": 278807,
+        "word": "文旅局副局长吐槽被诱导办话费套餐",
+        "onboard_time": 1678854933,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264008,
+        "num": 264008,
+        "word": "俞永镇跟李秀满离开SM",
+        "onboard_time": 1678862846,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248258,
+        "num": 248258,
+        "word": "用绳子缠住主人的狗狗",
+        "onboard_time": 1678862366,
+        "rank": 24,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 254073,
+        "num": 239830,
+        "word": "谭松韵说井柏然像来接孩子的",
+        "onboard_time": 1678860925,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 251982,
+        "num": 238366,
+        "word": "崔惠廷露出镜头是CG替身合成",
+        "onboard_time": 1678857689,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 225214,
+        "num": 225214,
+        "word": "黑龙江再现黑土非法贩卖",
+        "onboard_time": 1678857329,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222734,
+        "num": 222734,
+        "word": "为什么国内喝星巴克的人越来越少了",
+        "onboard_time": 1678840950,
+        "rank": 28,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 217177,
+        "num": 217177,
+        "word": "南京地铁回应乘客喝牛奶被开罚单",
+        "onboard_time": 1678850666,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213243,
+        "num": 213243,
+        "word": "他是谁4集9个受害者",
+        "onboard_time": 1678863026,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 211157,
+        "num": 211157,
+        "word": "315",
+        "onboard_time": 1678801351,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204984,
+        "num": 204984,
+        "word": "13岁女孩患红斑狼疮疼得精神异常",
+        "onboard_time": 1678851209,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194557,
+        "num": 194557,
+        "word": "中伊俄等国将举行海上联合军演",
+        "onboard_time": 1678865187,
+        "rank": 33,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 187655,
+        "num": 187655,
+        "word": "戴文青木",
+        "onboard_time": 1678859668,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169797,
+        "num": 169797,
+        "word": "按摩枕充电自燃女子新家变废墟",
+        "onboard_time": 1678863086,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162681,
+        "num": 162681,
+        "word": "记者卧底网红餐厅蓝蛙曝光后厨乱象",
+        "onboard_time": 1678846765,
+        "rank": 36,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 155147,
+        "num": 155147,
+        "word": "花琉璃人设",
+        "onboard_time": 1678860568,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 145250,
+        "num": 145250,
+        "word": "高圆圆片场吃零食",
+        "onboard_time": 1678859128,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 142479,
+        "num": 142479,
+        "word": "原来熊猫是可以钓的",
+        "onboard_time": 1678865248,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138951,
+        "num": 138951,
+        "word": "李兰迪官宣加盟微博之夜",
+        "onboard_time": 1678858647,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137764,
+        "num": 137764,
+        "word": "女子抄凳子猛砸代驾叫嚣",
+        "onboard_time": 1678857689,
+        "rank": 41,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 134955,
+        "num": 134955,
+        "word": "在俊呐 拍杂志也要这么上火吗",
+        "onboard_time": 1678850366,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 129212,
+        "num": 129212,
+        "word": "吴刚扇韩童生巴掌是真打",
+        "onboard_time": 1678858590,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 125283,
+        "num": 125283,
+        "word": "潮汕涉事橄榄菜企业下架整改",
+        "onboard_time": 1678854031,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122075,
+        "num": 122075,
+        "word": "去年315晚会曝光的企业都咋样了",
+        "onboard_time": 1678844549,
+        "rank": 45,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 119471,
+        "num": 119471,
+        "word": "宋慧乔韩素希合作自白的代价",
+        "onboard_time": 1678843526,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 113128,
+        "num": 113128,
+        "word": "张瑞3比2平野美宇",
+        "onboard_time": 1678862245,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111690,
+        "num": 111690,
+        "word": "山航就中国俄航等调侃信息发声明",
+        "onboard_time": 1678865488,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96251,
+        "num": 96251,
+        "word": "吴磊周雨彤的吻戏",
+        "onboard_time": 1678848985,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#踔厉奋发新征程勇毅前行向复兴#"
+    }
+  }
+}
