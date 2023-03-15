@@ -1,6 +1,6 @@
 {
   "startTime": 1678897636121,
-  "endTime": 1678897636121,
+  "endTime": 1678898700640,
   "band_list": [
     {
       "raw_hot": 1136086,
@@ -11,8 +11,8 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 983860,
-      "num": 983860,
+      "raw_hot": 1080888,
+      "num": 1080888,
       "word": "湊湊火锅致歉",
       "onboard_time": 1678895607,
       "rank": 1,
@@ -25,6 +25,14 @@
       "onboard_time": 1678889496,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 638554,
+      "num": 227990,
+      "word": "Tiffany被曝一钻两卖",
+      "onboard_time": 1678896445,
+      "rank": 30,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 584695,
@@ -59,6 +67,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 463847,
+      "num": 463847,
+      "word": "美州长称中国有个2000年灭美计划",
+      "onboard_time": 1678896566,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 448075,
       "num": 448075,
       "word": "瑞信",
@@ -73,14 +89,6 @@
       "onboard_time": 1678876286,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 400334,
-      "num": 151082,
-      "word": "Tiffany被曝一钻两卖",
-      "onboard_time": 1678896445,
-      "rank": 30,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 399622,
@@ -171,20 +179,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 239489,
-      "num": 239489,
-      "word": "美州长称中国有个2000年灭美计划",
-      "onboard_time": 1678896566,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 235665,
       "num": 235665,
       "word": "Capper直播",
       "onboard_time": 1678891830,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 185999,
+      "num": 185999,
+      "word": "offer约定月薪2万1入职时变4千",
+      "onboard_time": 1678897643,
+      "rank": 18,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 177462,
@@ -217,6 +225,14 @@
       "onboard_time": 1678889914,
       "rank": 25,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 157605,
+      "num": 157605,
+      "word": "当代大学生的周末旅游",
+      "onboard_time": 1678893391,
+      "rank": 38,
+      "category": "旅游,幽默"
     },
     {
       "raw_hot": 155193,
@@ -297,14 +313,6 @@
       "onboard_time": 1678888534,
       "rank": 37,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 126463,
-      "num": 126463,
-      "word": "当代大学生的周末旅游",
-      "onboard_time": 1678893391,
-      "rank": 38,
-      "category": "旅游,幽默"
     },
     {
       "raw_hot": 119816,
@@ -395,6 +403,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 58860,
+      "num": 58860,
+      "word": "汪涵欧弟再合体",
+      "onboard_time": 1678871367,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 58613,
+      "num": 58613,
+      "word": "被东北小吃的物价震惊了",
+      "onboard_time": 1678898482,
+      "rank": 45,
+      "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 53442,
+      "num": 53442,
+      "word": "男子吃雪糕吐槽体积明显缩水",
+      "onboard_time": 1678898482,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49585,
       "num": 639576,
       "word": "开年中国经济企稳回升",
@@ -406,6 +438,9 @@
   "hotgov_list": [
     {
       "word": "#推进中国式现代化关键在党#"
+    },
+    {
+      "word": "#总书记点赞新农人逐梦沃野#"
     }
   ]
 }
