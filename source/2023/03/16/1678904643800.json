@@ -1,0 +1,410 @@
+{
+  "runTime": 1678904643800,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 209063,
+        "num": 209063,
+        "word": "Tiffany被曝一钻两卖",
+        "onboard_time": 1678896445,
+        "rank": 0,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 196636,
+        "num": 196636,
+        "word": "315晚会",
+        "onboard_time": 1678880010,
+        "rank": 1,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 17166,
+        "num": 180410,
+        "word": "开年中国经济企稳回升",
+        "onboard_time": 1678888596,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 175562,
+        "num": 175562,
+        "word": "offer约定月薪2万1入职时变4千",
+        "onboard_time": 1678897643,
+        "rank": 3,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 155637,
+        "num": 155637,
+        "word": "湊湊火锅致歉",
+        "onboard_time": 1678895607,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124342,
+        "num": 124342,
+        "word": "直播间 骗老人",
+        "onboard_time": 1678884574,
+        "rank": 5,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 115534,
+        "num": 115534,
+        "word": "月子中心竟提供代孕服务",
+        "onboard_time": 1678882349,
+        "rank": 6,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 98169,
+        "num": 98169,
+        "word": "被东北小吃的物价震惊了",
+        "onboard_time": 1678898482,
+        "rank": 7,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 63042,
+        "num": 63042,
+        "word": "破解版APP成永不消失的追踪器",
+        "onboard_time": 1678888894,
+        "rank": 8,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 58780,
+        "num": 58780,
+        "word": "樊振东王曼昱0比3张本智和早田希娜",
+        "onboard_time": 1678891413,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76760,
+        "num": 57686,
+        "word": "男子吃雪糕吐槽体积明显缩水",
+        "onboard_time": 1678898482,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66760,
+        "num": 57155,
+        "word": "费曼 无蒸鱼我劝你睡觉别睡得太深",
+        "onboard_time": 1678876888,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55902,
+        "num": 55902,
+        "word": "一台手机操纵2万个水军",
+        "onboard_time": 1678887153,
+        "rank": 12,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 55672,
+        "num": 55672,
+        "word": "晨晓夫妇车内吻",
+        "onboard_time": 1678876405,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 55414,
+        "num": 55414,
+        "word": "王鹤棣问三亚有什么好吃的",
+        "onboard_time": 1678894889,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53159,
+        "num": 53159,
+        "word": "大鹏说宋茜和白宇的cp感很强",
+        "onboard_time": 1678899739,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 44871,
+        "num": 44871,
+        "word": "王者荣耀",
+        "onboard_time": 1678886132,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 51702,
+        "num": 44328,
+        "word": "赵露思海边双马尾造型",
+        "onboard_time": 1678894049,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43190,
+        "num": 43190,
+        "word": "养郁金香的欲望达到了巅峰",
+        "onboard_time": 1678878748,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 40470,
+        "num": 40470,
+        "word": "当代大学生的周末旅游",
+        "onboard_time": 1678893391,
+        "rank": 19,
+        "category": "旅游,幽默"
+      },
+      {
+        "raw_hot": 132190,
+        "num": 40457,
+        "word": "美州长称中国有个2000年灭美计划",
+        "onboard_time": 1678896566,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89069,
+        "num": 40438,
+        "word": "硕士爸爸解一年级数学题急出汗",
+        "onboard_time": 1678898840,
+        "rank": 21,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 51896,
+        "num": 40318,
+        "word": "好利来半熟芝士包装内密封着头发",
+        "onboard_time": 1678876286,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40073,
+        "num": 40073,
+        "word": "瑞信",
+        "onboard_time": 1678891174,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 39710,
+        "num": 39710,
+        "word": "315点名诱骗老年人直播间均已被封",
+        "onboard_time": 1678889914,
+        "rank": 24,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 37938,
+        "num": 37938,
+        "word": "郭麒麟说孟子义弱柳扶风",
+        "onboard_time": 1678886732,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 35861,
+        "num": 35861,
+        "word": "他是谁",
+        "onboard_time": 1678877310,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 34036,
+        "num": 34036,
+        "word": "398元烫发烫完变成3980元",
+        "onboard_time": 1678875688,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33829,
+        "num": 33829,
+        "word": "空姐喜欢全在俊的原因",
+        "onboard_time": 1678874666,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 33271,
+        "num": 33271,
+        "word": "TES三连败",
+        "onboard_time": 1678881627,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 31471,
+        "num": 31471,
+        "word": "瑞士信贷股价暴跌",
+        "onboard_time": 1678894769,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 31243,
+        "num": 31243,
+        "word": "丁可芒拍桌子教松杨演戏",
+        "onboard_time": 1678895785,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 30577,
+        "num": 30577,
+        "word": "315晚会卧底记者讲述惊险经历",
+        "onboard_time": 1678882710,
+        "rank": 32,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 30303,
+        "num": 30303,
+        "word": "Capper直播",
+        "onboard_time": 1678891830,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 30116,
+        "num": 30116,
+        "word": "龚俊 会飞的大象",
+        "onboard_time": 1678885472,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 29809,
+        "num": 29809,
+        "word": "不可注射的美容针",
+        "onboard_time": 1678883550,
+        "rank": 35,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 29685,
+        "num": 29685,
+        "word": "315曝光ETC卡禁用短信骗局",
+        "onboard_time": 1678886432,
+        "rank": 36,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 29344,
+        "num": 29344,
+        "word": "归路",
+        "onboard_time": 1678879649,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 29335,
+        "num": 29335,
+        "word": "蓝蛙致歉",
+        "onboard_time": 1678881808,
+        "rank": 38,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 28629,
+        "num": 28629,
+        "word": "医美",
+        "onboard_time": 1678886492,
+        "rank": 39,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 28119,
+        "num": 28119,
+        "word": "检测机构已抵达假香米公司",
+        "onboard_time": 1678892430,
+        "rank": 40,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 27842,
+        "num": 27842,
+        "word": "蜜雪冰城食材频改标签过期继续用",
+        "onboard_time": 1678882287,
+        "rank": 41,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 23946,
+        "num": 23946,
+        "word": "胡歌 微博之夜",
+        "onboard_time": 1678881267,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23925,
+        "num": 23925,
+        "word": "部分头盔成戴在头上的刀片",
+        "onboard_time": 1678884150,
+        "rank": 43,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 23849,
+        "num": 23849,
+        "word": "SM新女团showcase有21名女练习生",
+        "onboard_time": 1678888534,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 23275,
+        "num": 23275,
+        "word": "官方通报假泰国香米问题",
+        "onboard_time": 1678890274,
+        "rank": 45,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 22401,
+        "num": 22401,
+        "word": "恢复出厂设置不一定彻底清除手机数据",
+        "onboard_time": 1678887694,
+        "rank": 46,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 21446,
+        "num": 22397,
+        "word": "黑暗荣耀2",
+        "onboard_time": 1678780230,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 20922,
+        "num": 22394,
+        "word": "樊振东 混双",
+        "onboard_time": 1678891474,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20908,
+        "num": 22382,
+        "word": "汪涵欧弟再合体",
+        "onboard_time": 1678871367,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记点赞新农人逐梦沃野#"
+    }
+  }
+}
