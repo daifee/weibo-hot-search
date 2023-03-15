@@ -1,0 +1,410 @@
+{
+  "runTime": 1678845210244,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2125921,
+        "num": 2125921,
+        "word": "清明节放假一天不调休",
+        "onboard_time": 1678842150,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1655793,
+        "num": 1655793,
+        "word": "为什么国内喝星巴克的人越来越少了",
+        "onboard_time": 1678840950,
+        "rank": 1,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 18374,
+        "num": 1236072,
+        "word": "这就是春天里的中国",
+        "onboard_time": 1678628848,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1126953,
+        "num": 1126953,
+        "word": "宋慧乔韩素希合作自白的代价",
+        "onboard_time": 1678843526,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1616558,
+        "num": 1121877,
+        "word": "GPT4",
+        "onboard_time": 1678840350,
+        "rank": 4,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1057155,
+        "num": 1057155,
+        "word": "网文连载十余年被网友举报",
+        "onboard_time": 1678841431,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 896786,
+        "num": 896786,
+        "word": "315",
+        "onboard_time": 1678801351,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 872048,
+        "num": 872048,
+        "word": "洗澡吃橘子",
+        "onboard_time": 1678841970,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 830695,
+        "num": 830695,
+        "word": "夫妻辞去中科院和北大的工作回乡务农",
+        "onboard_time": 1678840170,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 827449,
+        "num": 827449,
+        "word": "女演员实名举报五星级酒店",
+        "onboard_time": 1678795046,
+        "rank": 9,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 777079,
+        "num": 777079,
+        "word": "台湾女子买两盒鸡蛋5分钟被偷",
+        "onboard_time": 1678842388,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 661664,
+        "num": 661664,
+        "word": "汕头再现工人赤脚踩腌菜",
+        "onboard_time": 1678836502,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 621203,
+        "num": 621203,
+        "word": "国考进面",
+        "onboard_time": 1678844068,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 485995,
+        "num": 485995,
+        "word": "台军失踪士兵在厦门吃好睡好",
+        "onboard_time": 1678806150,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 455784,
+        "num": 455784,
+        "word": "东方甄选养殖虾当野生虾卖",
+        "onboard_time": 1678838909,
+        "rank": 14,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 423471,
+        "num": 423471,
+        "word": "女子疑吃自嗨锅后食物中毒被送医",
+        "onboard_time": 1678836744,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400225,
+        "num": 400225,
+        "word": "自嗨锅",
+        "onboard_time": 1678842808,
+        "rank": 16,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 386606,
+        "num": 386606,
+        "word": "橄榄菜",
+        "onboard_time": 1678841250,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 378672,
+        "num": 378672,
+        "word": "他是谁首播成全网收视冠军",
+        "onboard_time": 1678840831,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 374470,
+        "num": 374470,
+        "word": "瑞幸咖啡被吐槽去冰后剩半杯",
+        "onboard_time": 1678795769,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345729,
+        "num": 345729,
+        "word": "黑龙江省考",
+        "onboard_time": 1678844730,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 341539,
+        "num": 341539,
+        "word": "国考排名",
+        "onboard_time": 1678807889,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 332342,
+        "num": 332342,
+        "word": "微博之夜嘉宾",
+        "onboard_time": 1678838968,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 328526,
+        "num": 328526,
+        "word": "井柏然 八个字我决定接下这部戏",
+        "onboard_time": 1678800452,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 328163,
+        "num": 328163,
+        "word": "EXO看KAI新歌MVReaction",
+        "onboard_time": 1678844730,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 283721,
+        "num": 283721,
+        "word": "2026世界杯改制",
+        "onboard_time": 1678839269,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 261280,
+        "num": 261280,
+        "word": "湖人三分球投疯了",
+        "onboard_time": 1678843469,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 245529,
+        "num": 245529,
+        "word": "男子辞职摆摊拍照1月内激增14家同行",
+        "onboard_time": 1678808548,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242846,
+        "num": 242846,
+        "word": "张大大给赵继伟送周杰伦演唱会门票",
+        "onboard_time": 1678838127,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238554,
+        "num": 238554,
+        "word": "cp29",
+        "onboard_time": 1678843288,
+        "rank": 29,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 331365,
+        "num": 236724,
+        "word": "洪都拉斯寻求与中国正式建立外交关系",
+        "onboard_time": 1678844247,
+        "rank": 30,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 232961,
+        "num": 232961,
+        "word": "遇到房东不退押金就这样做",
+        "onboard_time": 1678807348,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 230564,
+        "num": 230564,
+        "word": "余生请多指教开播一周年了",
+        "onboard_time": 1678836383,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223533,
+        "num": 223533,
+        "word": "国考成绩",
+        "onboard_time": 1678800991,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 213661,
+        "num": 213661,
+        "word": "哈兰德五子登科",
+        "onboard_time": 1678835541,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207603,
+        "num": 207603,
+        "word": "黑暗荣耀里最文明的人",
+        "onboard_time": 1678800212,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203495,
+        "num": 203495,
+        "word": "虞书欣白鹿张婧仪宋轶微博之夜开屏",
+        "onboard_time": 1678845147,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203208,
+        "num": 203208,
+        "word": "去年315晚会曝光的企业都咋样了",
+        "onboard_time": 1678844549,
+        "rank": 37,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 181373,
+        "num": 181373,
+        "word": "当词汇量到达一定量的时候",
+        "onboard_time": 1678811184,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 180524,
+        "num": 180524,
+        "word": "省考",
+        "onboard_time": 1678801114,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 178075,
+        "num": 178075,
+        "word": "重庆一鱼塘神秘大坑吞噬2万斤鱼",
+        "onboard_time": 1678805252,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166194,
+        "num": 166194,
+        "word": "还爱我么 我还爱着你",
+        "onboard_time": 1678807110,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 153988,
+        "num": 153988,
+        "word": "315最受关注数码问题灵动岛烧屏",
+        "onboard_time": 1678842749,
+        "rank": 42,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 152239,
+        "num": 152239,
+        "word": "路晨归晓什么时候复合",
+        "onboard_time": 1678842089,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 150374,
+        "num": 150374,
+        "word": "一镜到底有多暴露演技",
+        "onboard_time": 1678800694,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 146028,
+        "num": 146028,
+        "word": "去冰 少冰",
+        "onboard_time": 1678798591,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 133616,
+        "num": 133616,
+        "word": "国考分数线",
+        "onboard_time": 1678805553,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 127793,
+        "num": 127793,
+        "word": "800多岁玉兰古树花开似雪",
+        "onboard_time": 1678836623,
+        "rank": 47,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 116983,
+        "num": 116983,
+        "word": "不要太过沉重地活下去",
+        "onboard_time": 1678844665,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112042,
+        "num": 112042,
+        "word": "速度与激情10新海报",
+        "onboard_time": 1678838127,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#新征程上的中华大地#"
+    }
+  }
+}

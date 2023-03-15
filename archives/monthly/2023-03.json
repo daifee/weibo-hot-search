@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678844110114,
+  "endTime": 1678845210244,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -449,6 +449,14 @@
       "onboard_time": 1678610906,
       "rank": 10,
       "category": "影视,社会新闻"
+    },
+    {
+      "raw_hot": 2125921,
+      "num": 2125921,
+      "word": "清明节放假一天不调休",
+      "onboard_time": 1678842150,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2124485,
@@ -977,14 +985,6 @@
       "onboard_time": 1678092927,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1681466,
-      "num": 1681466,
-      "word": "清明节放假一天不调休",
-      "onboard_time": 1678842150,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1679857,
@@ -2267,6 +2267,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1126953,
+      "num": 1126953,
+      "word": "宋慧乔韩素希合作自白的代价",
+      "onboard_time": 1678843526,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1125962,
       "num": 1125962,
       "word": "表决通过了关于修改立法法的决定",
@@ -2568,6 +2576,14 @@
       "word": "美国将公示丫丫乐乐回国证明",
       "onboard_time": 1678524567,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1057155,
+      "num": 1057155,
+      "word": "网文连载十余年被网友举报",
+      "onboard_time": 1678841431,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -3539,6 +3555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 872048,
+      "num": 872048,
+      "word": "洗澡吃橘子",
+      "onboard_time": 1678841970,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 870848,
       "num": 1239745,
       "word": "法硕",
@@ -3568,14 +3592,6 @@
       "word": "买根火腿肠就能在石家庄实现地铁自由",
       "onboard_time": 1678024829,
       "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 868065,
-      "num": 868065,
-      "word": "网文连载十余年被网友举报",
-      "onboard_time": 1678841431,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -3625,14 +3641,6 @@
       "onboard_time": 1678720106,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 860380,
-      "num": 860380,
-      "word": "洗澡吃橘子",
-      "onboard_time": 1678841970,
-      "rank": 9,
-      "category": "情感"
     },
     {
       "raw_hot": 859879,
@@ -4051,14 +4059,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 810488,
-      "num": 810488,
-      "word": "宋慧乔韩素希合作自白的代价",
-      "onboard_time": 1678843526,
-      "rank": 10,
-      "category": "影视"
-    },
-    {
       "raw_hot": 809049,
       "num": 175954,
       "word": "董明珠说员工被培养多年理应不去同业",
@@ -4363,6 +4363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 777079,
+      "num": 777079,
+      "word": "台湾女子买两盒鸡蛋5分钟被偷",
+      "onboard_time": 1678842388,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 776224,
       "num": 502044,
       "word": "zzm",
@@ -4553,14 +4561,6 @@
       "onboard_time": 1677748592,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 753414,
-      "num": 753414,
-      "word": "台湾女子买两盒鸡蛋5分钟被偷",
-      "onboard_time": 1678842388,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 752908,
@@ -6129,6 +6129,14 @@
       "onboard_time": 1678009763,
       "rank": 11,
       "category": "美食,情感"
+    },
+    {
+      "raw_hot": 621203,
+      "num": 621203,
+      "word": "国考进面",
+      "onboard_time": 1678844068,
+      "rank": 36,
+      "category": "教育"
     },
     {
       "raw_hot": 620697,
@@ -12283,6 +12291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 345729,
+      "num": 345729,
+      "word": "黑龙江省考",
+      "onboard_time": 1678844730,
+      "rank": 20,
+      "category": "教育"
+    },
+    {
       "raw_hot": 345428,
       "num": 325423,
       "word": "董明珠称她工作就是生活也幸福",
@@ -12763,6 +12779,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 331365,
+      "num": 236724,
+      "word": "洪都拉斯寻求与中国正式建立外交关系",
+      "onboard_time": 1678844247,
+      "rank": 30,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 331069,
       "num": 266865,
       "word": "金硕珍郑号锡朴智旻同框合照",
@@ -12857,6 +12881,14 @@
       "onboard_time": 1678184850,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 328163,
+      "num": 328163,
+      "word": "EXO看KAI新歌MVReaction",
+      "onboard_time": 1678844730,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 327876,
@@ -15379,6 +15411,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 261280,
+      "num": 261280,
+      "word": "湖人三分球投疯了",
+      "onboard_time": 1678843469,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 261184,
       "num": 261184,
       "word": "首批亚运电竞特许商品上线",
@@ -16353,6 +16393,14 @@
       "onboard_time": 1678677809,
       "rank": 44,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 238554,
+      "num": 238554,
+      "word": "cp29",
+      "onboard_time": 1678843288,
+      "rank": 32,
+      "category": "动漫"
     },
     {
       "raw_hot": 238371,
@@ -17691,14 +17739,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 214585,
-      "num": 214585,
-      "word": "cp29",
-      "onboard_time": 1678843288,
-      "rank": 32,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 214536,
       "num": 209549,
       "word": "李兰迪陈星旭你好星期六合体",
@@ -17945,14 +17985,6 @@
       "onboard_time": 1678502126,
       "rank": 38,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 209939,
-      "num": 209939,
-      "word": "湖人三分球投疯了",
-      "onboard_time": 1678843469,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 209927,
@@ -18643,6 +18675,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 203495,
+      "num": 203495,
+      "word": "虞书欣白鹿张婧仪宋轶微博之夜开屏",
+      "onboard_time": 1678845147,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 203433,
       "num": 203433,
       "word": "大鹏王迅王圣迪扫楼扫成了演唱会",
@@ -18665,6 +18705,14 @@
       "onboard_time": 1677734488,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 203208,
+      "num": 203208,
+      "word": "去年315晚会曝光的企业都咋样了",
+      "onboard_time": 1678844549,
+      "rank": 37,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 203179,
@@ -19337,14 +19385,6 @@
       "onboard_time": 1678582104,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 197582,
-      "num": 197582,
-      "word": "国考进面",
-      "onboard_time": 1678844068,
-      "rank": 36,
-      "category": "教育"
     },
     {
       "raw_hot": 197530,
@@ -22515,6 +22555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 153988,
+      "num": 153988,
+      "word": "315最受关注数码问题灵动岛烧屏",
+      "onboard_time": 1678842749,
+      "rank": 43,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 153815,
       "num": 153815,
       "word": "谢彬彬张淼怡新剧开机",
@@ -23265,14 +23313,6 @@
       "onboard_time": 1678364546,
       "rank": 37,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 144611,
-      "num": 144611,
-      "word": "315最受关注数码问题灵动岛烧屏",
-      "onboard_time": 1678842749,
-      "rank": 43,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 144590,
@@ -25169,6 +25209,14 @@
       "onboard_time": 1678283368,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 116983,
+      "num": 116983,
+      "word": "不要太过沉重地活下去",
+      "onboard_time": 1678844665,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 116839,

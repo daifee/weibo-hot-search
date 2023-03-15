@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1678844110114,
+  "endTime": 1678845210244,
   "band_list": [
     {
       "raw_hot": 6995165,
@@ -73,6 +73,14 @@
       "onboard_time": 1678840350,
       "rank": 1,
       "category": "科技"
+    },
+    {
+      "raw_hot": 2125921,
+      "num": 2125921,
+      "word": "清明节放假一天不调休",
+      "onboard_time": 1678842150,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2112746,
@@ -169,14 +177,6 @@
       "onboard_time": 1678609644,
       "rank": 40,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1681466,
-      "num": 1681466,
-      "word": "清明节放假一天不调休",
-      "onboard_time": 1678842150,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1671846,
@@ -315,6 +315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1126953,
+      "num": 1126953,
+      "word": "宋慧乔韩素希合作自白的代价",
+      "onboard_time": 1678843526,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1125962,
       "num": 1125962,
       "word": "表决通过了关于修改立法法的决定",
@@ -369,6 +377,14 @@
       "onboard_time": 1678680390,
       "rank": 4,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 1057155,
+      "num": 1057155,
+      "word": "网文连载十余年被网友举报",
+      "onboard_time": 1678841431,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1035634,
@@ -507,12 +523,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 868065,
-      "num": 868065,
-      "word": "网文连载十余年被网友举报",
-      "onboard_time": 1678841431,
-      "rank": 8,
-      "category": "社会新闻"
+      "raw_hot": 872048,
+      "num": 872048,
+      "word": "洗澡吃橘子",
+      "onboard_time": 1678841970,
+      "rank": 9,
+      "category": "情感"
     },
     {
       "raw_hot": 861661,
@@ -521,14 +537,6 @@
       "onboard_time": 1678720106,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 860380,
-      "num": 860380,
-      "word": "洗澡吃橘子",
-      "onboard_time": 1678841970,
-      "rank": 9,
-      "category": "情感"
     },
     {
       "raw_hot": 859879,
@@ -619,14 +627,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 810488,
-      "num": 810488,
-      "word": "宋慧乔韩素希合作自白的代价",
-      "onboard_time": 1678843526,
-      "rank": 10,
-      "category": "影视"
-    },
-    {
       "raw_hot": 809049,
       "num": 175954,
       "word": "董明珠说员工被培养多年理应不去同业",
@@ -715,6 +715,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 777079,
+      "num": 777079,
+      "word": "台湾女子买两盒鸡蛋5分钟被偷",
+      "onboard_time": 1678842388,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 771190,
       "num": 138644,
       "word": "向太发文祝贺杨紫琼获奖",
@@ -737,14 +745,6 @@
       "onboard_time": 1678683273,
       "rank": 22,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 753414,
-      "num": 753414,
-      "word": "台湾女子买两盒鸡蛋5分钟被偷",
-      "onboard_time": 1678842388,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 752026,
@@ -985,6 +985,14 @@
       "onboard_time": 1678765766,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 621203,
+      "num": 621203,
+      "word": "国考进面",
+      "onboard_time": 1678844068,
+      "rank": 36,
+      "category": "教育"
     },
     {
       "raw_hot": 614947,
@@ -2179,6 +2187,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 345729,
+      "num": 345729,
+      "word": "黑龙江省考",
+      "onboard_time": 1678844730,
+      "rank": 20,
+      "category": "教育"
+    },
+    {
       "raw_hot": 344578,
       "num": 400929,
       "word": "多家公司紧急回应硅谷银行危机",
@@ -2275,6 +2291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 331365,
+      "num": 236724,
+      "word": "洪都拉斯寻求与中国正式建立外交关系",
+      "onboard_time": 1678844247,
+      "rank": 30,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 329051,
       "num": 137938,
       "word": "海莉出席奥斯卡派对",
@@ -2289,6 +2313,14 @@
       "onboard_time": 1678790069,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 328163,
+      "num": 328163,
+      "word": "EXO看KAI新歌MVReaction",
+      "onboard_time": 1678844730,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 325755,
@@ -2715,6 +2747,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 261280,
+      "num": 261280,
+      "word": "湖人三分球投疯了",
+      "onboard_time": 1678843469,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 260305,
       "num": 261808,
       "word": "王楚钦晋级",
@@ -2897,6 +2937,14 @@
       "onboard_time": 1678677809,
       "rank": 44,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 238554,
+      "num": 238554,
+      "word": "cp29",
+      "onboard_time": 1678843288,
+      "rank": 32,
+      "category": "动漫"
     },
     {
       "raw_hot": 238353,
@@ -3083,14 +3131,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 214585,
-      "num": 214585,
-      "word": "cp29",
-      "onboard_time": 1678843288,
-      "rank": 32,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 213561,
       "num": 213561,
       "word": "曼城7比0莱比锡",
@@ -3104,14 +3144,6 @@
       "word": "WTT",
       "onboard_time": 1678691244,
       "rank": 18,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 209939,
-      "num": 209939,
-      "word": "湖人三分球投疯了",
-      "onboard_time": 1678843469,
-      "rank": 33,
       "category": "体育"
     },
     {
@@ -3187,12 +3219,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203495,
+      "num": 203495,
+      "word": "虞书欣白鹿张婧仪宋轶微博之夜开屏",
+      "onboard_time": 1678845147,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 203334,
       "num": 167850,
       "word": "陆虎三句话让兄弟团再就业",
       "onboard_time": 1678695806,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 203208,
+      "num": 203208,
+      "word": "去年315晚会曝光的企业都咋样了",
+      "onboard_time": 1678844549,
+      "rank": 37,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 202874,
@@ -3273,14 +3321,6 @@
       "onboard_time": 1678711586,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 197582,
-      "num": 197582,
-      "word": "国考进面",
-      "onboard_time": 1678844068,
-      "rank": 36,
-      "category": "教育"
     },
     {
       "raw_hot": 197506,
@@ -3635,6 +3675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 153988,
+      "num": 153988,
+      "word": "315最受关注数码问题灵动岛烧屏",
+      "onboard_time": 1678842749,
+      "rank": 43,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 153591,
       "num": 208225,
       "word": "黄子韬演技",
@@ -3761,14 +3809,6 @@
       "onboard_time": 1678679368,
       "rank": 44,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 144611,
-      "num": 144611,
-      "word": "315最受关注数码问题灵动岛烧屏",
-      "onboard_time": 1678842749,
-      "rank": 43,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 144300,
@@ -4025,6 +4065,14 @@
       "onboard_time": 1678613906,
       "rank": 28,
       "category": "教育"
+    },
+    {
+      "raw_hot": 116983,
+      "num": 116983,
+      "word": "不要太过沉重地活下去",
+      "onboard_time": 1678844665,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 115473,
