@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678889845181,
+  "endTime": 1678890876495,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -2099,6 +2099,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1216348,
+      "num": 495727,
+      "word": "徐峰立喊话张艺兴工作室",
+      "onboard_time": 1678889496,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1215759,
       "num": 487800,
       "word": "浙江人1年花18亿买香奈儿",
@@ -2627,6 +2635,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 1065900,
+      "num": 1065900,
+      "word": "一台手机操纵2万个水军",
+      "onboard_time": 1678887153,
+      "rank": 46,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 1064723,
       "num": 1064723,
       "word": "杜海涛说想和沈梦辰生两到三个孩子",
@@ -2825,14 +2841,6 @@
       "onboard_time": 1677898647,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1039580,
-      "num": 1039580,
-      "word": "一台手机操纵2万个水军",
-      "onboard_time": 1678887153,
-      "rank": 46,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 1037665,
@@ -5187,6 +5195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 721899,
+      "num": 721899,
+      "word": "郭麒麟说孟子义弱柳扶风",
+      "onboard_time": 1678886732,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 721227,
       "num": 721227,
       "word": "深圳一业主拆迁9栋楼",
@@ -5387,14 +5403,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 704126,
-      "num": 704126,
-      "word": "郭麒麟说孟子义弱柳扶风",
-      "onboard_time": 1678886732,
-      "rank": 24,
-      "category": "影视"
-    },
-    {
       "raw_hot": 703490,
       "num": 213689,
       "word": "崔胜澈徐明浩直播",
@@ -5537,6 +5545,14 @@
       "onboard_time": 1678105049,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 687710,
+      "num": 490445,
+      "word": "官方通报假泰国香米问题",
+      "onboard_time": 1678890274,
+      "rank": 12,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 686809,
@@ -6049,6 +6065,14 @@
       "onboard_time": 1678326146,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 651262,
+      "num": 651262,
+      "word": "315曝光ETC卡禁用短信骗局",
+      "onboard_time": 1678886432,
+      "rank": 41,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 650957,
@@ -6889,6 +6913,14 @@
       "onboard_time": 1677998126,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 593608,
+      "num": 593608,
+      "word": "破解版APP成永不消失的追踪器",
+      "onboard_time": 1678888894,
+      "rank": 29,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 593323,
@@ -8891,6 +8923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 498710,
+      "num": 498710,
+      "word": "恢复出厂设置不一定彻底清除手机数据",
+      "onboard_time": 1678887694,
+      "rank": 14,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 498659,
       "num": 498659,
       "word": "直播总理记者会",
@@ -9227,14 +9267,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 484884,
-      "num": 484884,
-      "word": "315曝光ETC卡禁用短信骗局",
-      "onboard_time": 1678886432,
-      "rank": 41,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 484830,
       "num": 484830,
       "word": "新疆多个休眠火山口积水如彩色画盘",
@@ -9411,6 +9443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 478233,
+      "num": 478233,
+      "word": "315点名诱骗老年人直播间均已被封",
+      "onboard_time": 1678889914,
+      "rank": 16,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 477705,
       "num": 477705,
       "word": "中伊俄等国将举行海上联合军演",
@@ -9505,14 +9545,6 @@
       "onboard_time": 1678625847,
       "rank": 15,
       "category": "影视,艺人"
-    },
-    {
-      "raw_hot": 473866,
-      "num": 473866,
-      "word": "恢复出厂设置不一定彻底清除手机数据",
-      "onboard_time": 1678887694,
-      "rank": 14,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 473803,
@@ -11299,14 +11331,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 397296,
-      "num": 397296,
-      "word": "徐峰立喊话张艺兴工作室",
-      "onboard_time": 1678889496,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 396880,
       "num": 396880,
       "word": "爱奇艺3月片单",
@@ -11915,6 +11939,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 378064,
+      "num": 378064,
+      "word": "安徽永良米业回应",
+      "onboard_time": 1678888295,
+      "rank": 23,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 377946,
       "num": 377946,
       "word": "95后大厂裸辞卖盒饭月挣4万",
@@ -11945,6 +11977,14 @@
       "onboard_time": 1678166245,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 376427,
+      "num": 376427,
+      "word": "医美",
+      "onboard_time": 1678886492,
+      "rank": 43,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 376204,
@@ -12497,14 +12537,6 @@
       "onboard_time": 1678152386,
       "rank": 14,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 360979,
-      "num": 360979,
-      "word": "安徽永良米业回应",
-      "onboard_time": 1678888295,
-      "rank": 23,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 360815,
@@ -15139,14 +15171,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 291603,
-      "num": 291603,
-      "word": "破解版APP成永不消失的追踪器",
-      "onboard_time": 1678888894,
-      "rank": 29,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 291247,
       "num": 291247,
       "word": "市监局回应男子点帝王蟹疑被调包",
@@ -15315,6 +15339,14 @@
       "category": "影视,时尚"
     },
     {
+      "raw_hot": 287206,
+      "num": 287206,
+      "word": "SM新女团showcase有21名女练习生",
+      "onboard_time": 1678888534,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 287092,
       "num": 247565,
       "word": "萌兰",
@@ -15441,14 +15473,6 @@
       "onboard_time": 1678237887,
       "rank": 19,
       "category": "科技"
-    },
-    {
-      "raw_hot": 283700,
-      "num": 283700,
-      "word": "SM新女团showcase有21名女练习生",
-      "onboard_time": 1678888534,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 283084,
@@ -16297,14 +16321,6 @@
       "onboard_time": 1677758850,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 264021,
-      "num": 264021,
-      "word": "医美",
-      "onboard_time": 1678886492,
-      "rank": 43,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 263062,
@@ -19035,6 +19051,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 210963,
+      "num": 210963,
+      "word": "PUBG",
+      "onboard_time": 1678890034,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 210833,
       "num": 210833,
       "word": "BoysPlanet二公竞演",
@@ -19259,6 +19283,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 207854,
+      "num": 207854,
+      "word": "林智妍和金俊勉是同学",
+      "onboard_time": 1678885353,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 207840,
       "num": 207840,
       "word": "何超莲薛凯琪加盟奇妙之城2",
@@ -19288,6 +19320,14 @@
       "word": "Lesserafim应援棒公开",
       "onboard_time": 1677810086,
       "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 207561,
+      "num": 207561,
+      "word": "严浩翔开学踢球了",
+      "onboard_time": 1678890754,
+      "rank": 40,
       "category": "艺人"
     },
     {
@@ -19923,14 +19963,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 202776,
-      "num": 202776,
-      "word": "林智妍和金俊勉是同学",
-      "onboard_time": 1678885353,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 202765,
       "num": 202765,
       "word": "盘点记得解说名场面",
@@ -20281,6 +20313,14 @@
       "onboard_time": 1678183231,
       "rank": 28,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 200204,
+      "num": 200204,
+      "word": "偷工减料的盐城滨海高标准农田",
+      "onboard_time": 1678889496,
+      "rank": 47,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 200197,
@@ -21155,6 +21195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193347,
+      "num": 193347,
+      "word": "王楚钦3比0郭勇",
+      "onboard_time": 1678890696,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193346,
       "num": 193346,
       "word": "新手改妆",
@@ -21825,14 +21873,6 @@
       "onboard_time": 1678075767,
       "rank": 33,
       "category": "情感,社会新闻"
-    },
-    {
-      "raw_hot": 186968,
-      "num": 186968,
-      "word": "偷工减料的盐城滨海高标准农田",
-      "onboard_time": 1678889496,
-      "rank": 47,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 186927,
@@ -28539,6 +28579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 88847,
+      "num": 1459965,
+      "word": "开年中国经济企稳回升",
+      "onboard_time": 1678888596,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 88667,
       "num": 88667,
       "word": "子女受父母胁迫结婚可申请撤销",
@@ -28897,14 +28945,6 @@
       "onboard_time": 1677670228,
       "rank": 48,
       "category": "综艺,时尚"
-    },
-    {
-      "raw_hot": 80101,
-      "num": 1459965,
-      "word": "开年中国经济企稳回升",
-      "onboard_time": 1678888596,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 80040,
