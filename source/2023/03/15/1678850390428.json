@@ -1,0 +1,410 @@
+{
+  "runTime": 1678850390428,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2692326,
+        "num": 2692326,
+        "word": "清明节放假一天不调休",
+        "onboard_time": 1678842150,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1682783,
+        "num": 1682783,
+        "word": "记者卧底网红餐厅蓝蛙曝光后厨乱象",
+        "onboard_time": 1678846765,
+        "rank": 1,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 208291,
+        "num": 1004590,
+        "word": "政府工作报告全文发布",
+        "onboard_time": 1678847906,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 968335,
+        "num": 968335,
+        "word": "国考进面",
+        "onboard_time": 1678844068,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 892044,
+        "num": 892044,
+        "word": "315",
+        "onboard_time": 1678801351,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 859500,
+        "num": 859500,
+        "word": "为什么国内喝星巴克的人越来越少了",
+        "onboard_time": 1678840950,
+        "rank": 5,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 659061,
+        "num": 659061,
+        "word": "网文连载十余年被网友举报",
+        "onboard_time": 1678841431,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 651257,
+        "num": 651257,
+        "word": "宋慧乔韩素希合作自白的代价",
+        "onboard_time": 1678843526,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 563635,
+        "num": 563635,
+        "word": "方时赫就收购SMTOWN道歉",
+        "onboard_time": 1678849346,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 547704,
+        "num": 547704,
+        "word": "去年315晚会曝光的企业都咋样了",
+        "onboard_time": 1678844549,
+        "rank": 9,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 534964,
+        "num": 534964,
+        "word": "吴磊周雨彤的吻戏",
+        "onboard_time": 1678848985,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 498716,
+        "num": 498716,
+        "word": "杨幂曾黎早期合照",
+        "onboard_time": 1678847368,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 460936,
+        "num": 460936,
+        "word": "公司招聘员工要求只吃素",
+        "onboard_time": 1678848387,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 448174,
+        "num": 448174,
+        "word": "台湾女子买两盒鸡蛋5分钟被偷",
+        "onboard_time": 1678842388,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33897,
+        "num": 446925,
+        "word": "曼城连续6年晋级欧冠8强",
+        "onboard_time": 1678849346,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 446505,
+        "num": 446505,
+        "word": "洗澡吃橘子",
+        "onboard_time": 1678841970,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 435981,
+        "num": 435981,
+        "word": "SM新女团showcase",
+        "onboard_time": 1678846347,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 393397,
+        "num": 393397,
+        "word": "辽宁省考",
+        "onboard_time": 1678846947,
+        "rank": 17,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 375820,
+        "num": 375820,
+        "word": "汕头再现工人赤脚踩腌菜",
+        "onboard_time": 1678836502,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 364699,
+        "num": 364699,
+        "word": "龙马精神成龙再现经典动作",
+        "onboard_time": 1678849526,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 324960,
+        "num": 324960,
+        "word": "不要太过沉重地活下去",
+        "onboard_time": 1678844665,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 324135,
+        "num": 324135,
+        "word": "洪都拉斯寻求与中国正式建立外交关系",
+        "onboard_time": 1678844247,
+        "rank": 21,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 314834,
+        "num": 314834,
+        "word": "女演员实名举报五星级酒店",
+        "onboard_time": 1678795046,
+        "rank": 22,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 308565,
+        "num": 308565,
+        "word": "虞书欣白鹿张婧仪宋轶微博之夜开屏",
+        "onboard_time": 1678845147,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 297939,
+        "num": 297939,
+        "word": "橄榄菜",
+        "onboard_time": 1678841250,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287046,
+        "num": 287046,
+        "word": "夫妻辞去中科院和北大的工作回乡务农",
+        "onboard_time": 1678840170,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242283,
+        "num": 242283,
+        "word": "台军失踪士兵在厦门吃好睡好",
+        "onboard_time": 1678806150,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229423,
+        "num": 229423,
+        "word": "东方甄选养殖虾当野生虾卖",
+        "onboard_time": 1678838909,
+        "rank": 27,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 229321,
+        "num": 229321,
+        "word": "爱情而已",
+        "onboard_time": 1678849288,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 224355,
+        "num": 224355,
+        "word": "国考成绩",
+        "onboard_time": 1678800991,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 220580,
+        "num": 220580,
+        "word": "女子疑吃自嗨锅后食物中毒被送医",
+        "onboard_time": 1678836744,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207187,
+        "num": 207187,
+        "word": "INTO1新歌有110张合照",
+        "onboard_time": 1678849168,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 206959,
+        "num": 206959,
+        "word": "湖人战胜鹈鹕",
+        "onboard_time": 1678849107,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194124,
+        "num": 194124,
+        "word": "瑞幸咖啡被吐槽去冰后剩半杯",
+        "onboard_time": 1678795769,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192347,
+        "num": 192347,
+        "word": "他是谁首播成全网收视冠军",
+        "onboard_time": 1678840831,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 192057,
+        "num": 192057,
+        "word": "微博之夜嘉宾",
+        "onboard_time": 1678838968,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190120,
+        "num": 190120,
+        "word": "井柏然 八个字我决定接下这部戏",
+        "onboard_time": 1678800452,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 188039,
+        "num": 188039,
+        "word": "自嗨锅",
+        "onboard_time": 1678842808,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181005,
+        "num": 181005,
+        "word": "国考排名",
+        "onboard_time": 1678807889,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 175761,
+        "num": 175761,
+        "word": "归路里有王皓",
+        "onboard_time": 1678849767,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171302,
+        "num": 171302,
+        "word": "赵露思三亚路透",
+        "onboard_time": 1678847368,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 163636,
+        "num": 163636,
+        "word": "在俊呐 拍杂志也要这么上火吗",
+        "onboard_time": 1678850366,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 162339,
+        "num": 162339,
+        "word": "湖人三分球投疯了",
+        "onboard_time": 1678843469,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158076,
+        "num": 158076,
+        "word": "超八成受访者对国内消费环境总体满意",
+        "onboard_time": 1678845628,
+        "rank": 43,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 150907,
+        "num": 150907,
+        "word": "EXO看KAI新歌MVReaction",
+        "onboard_time": 1678844730,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 149452,
+        "num": 149452,
+        "word": "男子辞职摆摊拍照1月内激增14家同行",
+        "onboard_time": 1678808548,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135748,
+        "num": 135748,
+        "word": "汕头市监局连夜查封多家腌制菜生产商",
+        "onboard_time": 1678850366,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131857,
+        "num": 131857,
+        "word": "2026世界杯改制",
+        "onboard_time": 1678839269,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131812,
+        "num": 131812,
+        "word": "爱情而已首发预告",
+        "onboard_time": 1678848087,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 130227,
+        "num": 130227,
+        "word": "cp29",
+        "onboard_time": 1678843288,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#315市场监管在行动#"
+    }
+  }
+}
