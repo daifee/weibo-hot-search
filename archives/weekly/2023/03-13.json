@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1678918642641,
+  "endTime": 1678919590040,
   "band_list": [
     {
       "raw_hot": 8307302,
@@ -6099,6 +6099,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 80152,
+      "num": 44467,
+      "word": "980元一盒的鹿鞭丸检出伟哥",
+      "onboard_time": 1678912571,
+      "rank": 21,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 79890,
       "num": 1248446,
       "word": "春天里的中国自带氛围感",
@@ -6217,14 +6225,6 @@
       "onboard_time": 1678635028,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 65853,
-      "num": 35456,
-      "word": "980元一盒的鹿鞭丸检出伟哥",
-      "onboard_time": 1678912571,
-      "rank": 21,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 61409,
@@ -6395,6 +6395,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 26992,
+      "num": 26992,
+      "word": "路晨吃醋",
+      "onboard_time": 1678918514,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 26726,
       "num": 38815,
       "word": "U20国足加油",
@@ -6409,6 +6417,14 @@
       "onboard_time": 1678491140,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 24895,
+      "num": 24895,
+      "word": "朗枫香料公司仅2人参保",
+      "onboard_time": 1678910772,
+      "rank": 47,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 24354,
@@ -6435,27 +6451,11 @@
       "category": "科技"
     },
     {
-      "raw_hot": 20375,
-      "num": 20375,
-      "word": "朗枫香料公司仅2人参保",
-      "onboard_time": 1678910772,
-      "rank": 47,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 17549,
       "num": 17549,
       "word": "驾驶我的车亚洲电影大奖最佳影片",
       "onboard_time": 1678645632,
       "rank": 40,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 14206,
-      "num": 17439,
-      "word": "路晨吃醋",
-      "onboard_time": 1678918514,
-      "rank": 47,
       "category": "影视"
     },
     {
