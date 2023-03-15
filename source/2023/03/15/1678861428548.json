@@ -1,0 +1,410 @@
+{
+  "runTime": 1678861428548,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1335400,
+        "num": 1335400,
+        "word": "吉野家吃出蟑螂后检查发现43只",
+        "onboard_time": 1678854329,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1005830,
+        "num": 1005830,
+        "word": "国产悬疑刑侦剧天花板",
+        "onboard_time": 1678855831,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 69670,
+        "num": 822987,
+        "word": "政府工作报告全文发布",
+        "onboard_time": 1678847906,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 811690,
+        "num": 811690,
+        "word": "墨宝非宝男主嘴一个比一个硬",
+        "onboard_time": 1678856550,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 700995,
+        "num": 700995,
+        "word": "樊振东",
+        "onboard_time": 1678859728,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 644458,
+        "num": 644458,
+        "word": "清明节放假一天不调休",
+        "onboard_time": 1678842150,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 621693,
+        "num": 621693,
+        "word": "文旅局副局长吐槽被诱导办话费套餐",
+        "onboard_time": 1678854933,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 617085,
+        "num": 617085,
+        "word": "警方通报女子殴打代驾称丈夫是警察",
+        "onboard_time": 1678857748,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 496408,
+        "num": 496408,
+        "word": "黑龙江再现黑土非法贩卖",
+        "onboard_time": 1678857329,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 478482,
+        "num": 478482,
+        "word": "315",
+        "onboard_time": 1678801351,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 756729,
+        "num": 470458,
+        "word": "俩孩子看直播花光父亲百万死亡赔偿金",
+        "onboard_time": 1678859305,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 508876,
+        "num": 466268,
+        "word": "国考调剂",
+        "onboard_time": 1678860568,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 490766,
+        "num": 463816,
+        "word": "宋智雅重启演艺活动",
+        "onboard_time": 1678860148,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 455067,
+        "num": 455067,
+        "word": "大鹏说找王一博演热烈是因为适合",
+        "onboard_time": 1678860508,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 444732,
+        "num": 444732,
+        "word": "为什么国内喝星巴克的人越来越少了",
+        "onboard_time": 1678840950,
+        "rank": 14,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 417273,
+        "num": 417273,
+        "word": "崔惠廷露出镜头是CG替身合成",
+        "onboard_time": 1678857689,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 379511,
+        "num": 379511,
+        "word": "女子抄凳子猛砸代驾叫嚣",
+        "onboard_time": 1678857689,
+        "rank": 16,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 328132,
+        "num": 328132,
+        "word": "张译腕线过裆",
+        "onboard_time": 1678861227,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 322461,
+        "num": 322461,
+        "word": "李兰迪官宣加盟微博之夜",
+        "onboard_time": 1678858647,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 321157,
+        "num": 321157,
+        "word": "记者卧底网红餐厅蓝蛙曝光后厨乱象",
+        "onboard_time": 1678846765,
+        "rank": 19,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 296612,
+        "num": 296612,
+        "word": "国考进面",
+        "onboard_time": 1678844068,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 293341,
+        "num": 293341,
+        "word": "13岁女孩患红斑狼疮疼得精神异常",
+        "onboard_time": 1678851209,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253600,
+        "num": 253600,
+        "word": "戴文青木",
+        "onboard_time": 1678859668,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252201,
+        "num": 252201,
+        "word": "南京地铁回应乘客喝牛奶被开罚单",
+        "onboard_time": 1678850666,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248924,
+        "num": 248924,
+        "word": "在俊呐 拍杂志也要这么上火吗",
+        "onboard_time": 1678850366,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 232804,
+        "num": 232804,
+        "word": "徐正溪自己接档自己",
+        "onboard_time": 1678859305,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 229360,
+        "num": 229360,
+        "word": "吴刚扇韩童生巴掌是真打",
+        "onboard_time": 1678858590,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 211347,
+        "num": 211347,
+        "word": "张小斐猫眼妆封面",
+        "onboard_time": 1678858169,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 209521,
+        "num": 209521,
+        "word": "黄子韬演的顶流",
+        "onboard_time": 1678855471,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 102888,
+        "num": 203764,
+        "word": "夫妻辞去中科院和北大的工作回乡务农",
+        "onboard_time": 1678840170,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202842,
+        "num": 202842,
+        "word": "宋慧乔韩素希合作自白的代价",
+        "onboard_time": 1678843526,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 202802,
+        "num": 202802,
+        "word": "花琉璃人设",
+        "onboard_time": 1678860568,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193196,
+        "num": 193196,
+        "word": "吴磊周雨彤的吻戏",
+        "onboard_time": 1678848985,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 186038,
+        "num": 186038,
+        "word": "网文连载十余年被网友举报",
+        "onboard_time": 1678841431,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180592,
+        "num": 180592,
+        "word": "去年315晚会曝光的企业都咋样了",
+        "onboard_time": 1678844549,
+        "rank": 34,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 171741,
+        "num": 171741,
+        "word": "郁金香壁纸",
+        "onboard_time": 1678860328,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157400,
+        "num": 157400,
+        "word": "名侦探学院",
+        "onboard_time": 1678854329,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155862,
+        "num": 155862,
+        "word": "橄榄菜",
+        "onboard_time": 1678841250,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150244,
+        "num": 150244,
+        "word": "高圆圆片场吃零食",
+        "onboard_time": 1678859128,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 144721,
+        "num": 144721,
+        "word": "谭松韵说井柏然像来接孩子的",
+        "onboard_time": 1678860925,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 142994,
+        "num": 142994,
+        "word": "潮汕涉事橄榄菜企业下架整改",
+        "onboard_time": 1678854031,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139954,
+        "num": 139954,
+        "word": "杨幂曾黎早期合照",
+        "onboard_time": 1678847368,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 131124,
+        "num": 131124,
+        "word": "忘记火烈鸟来看宋三川",
+        "onboard_time": 1678861407,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 128987,
+        "num": 128987,
+        "word": "伍六七第四季大结局",
+        "onboard_time": 1678856852,
+        "rank": 43,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 117878,
+        "num": 117878,
+        "word": "沃尔玛超市回应盒饭上蟑螂乱爬",
+        "onboard_time": 1678853307,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115695,
+        "num": 115695,
+        "word": "李秀满听说HYBE和KAKAO协议的反应",
+        "onboard_time": 1678852770,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110804,
+        "num": 110804,
+        "word": "洗澡吃橘子",
+        "onboard_time": 1678841970,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 108806,
+        "num": 108806,
+        "word": "SM新女团showcase",
+        "onboard_time": 1678846347,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 102794,
+        "num": 102794,
+        "word": "防弹少年团希望2025年重启活动",
+        "onboard_time": 1678853067,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101717,
+        "num": 101717,
+        "word": "台湾女子买两盒鸡蛋5分钟被偷",
+        "onboard_time": 1678842388,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#踔厉奋发新征程勇毅前行向复兴#"
+    }
+  }
+}
