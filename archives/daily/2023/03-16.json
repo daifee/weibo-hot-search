@@ -1,6 +1,6 @@
 {
   "startTime": 1678897636121,
-  "endTime": 1678955918040,
+  "endTime": 1678958335550,
   "band_list": [
     {
       "raw_hot": 3119338,
@@ -259,6 +259,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 711371,
+      "num": 711371,
+      "word": "李到晛和IU演过德鲁纳酒店",
+      "onboard_time": 1678955908,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 707541,
       "num": 707541,
       "word": "莎头",
@@ -299,6 +307,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 656005,
+      "num": 656005,
+      "word": "光渊 复播",
+      "onboard_time": 1678957469,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 653167,
       "num": 653167,
       "word": "城管劝离工地卖盒饭摊贩被怼",
@@ -308,7 +324,7 @@
     },
     {
       "raw_hot": 652942,
-      "num": 381522,
+      "num": 550794,
       "word": "韩国邀请小S拍旅游宣传片",
       "onboard_time": 1678954289,
       "rank": 16,
@@ -347,6 +363,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 601060,
+      "num": 601060,
+      "word": "熊猫叉腰与饲养员理论",
+      "onboard_time": 1678956149,
+      "rank": 8,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 600650,
       "num": 600650,
       "word": "无穷小亮和水哥同游西藏",
@@ -369,6 +393,14 @@
       "onboard_time": 1678882349,
       "rank": 3,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 581818,
+      "num": 581818,
+      "word": "教育局回应老师让小学生拿外卖",
+      "onboard_time": 1678956868,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 576452,
@@ -579,6 +611,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 399682,
+      "num": 399682,
+      "word": "徐冬冬说自己永远火不了",
+      "onboard_time": 1678958128,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 399622,
       "num": 289832,
       "word": "费曼 无蒸鱼我劝你睡觉别睡得太深",
@@ -649,6 +689,14 @@
       "onboard_time": 1678940370,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 348240,
+      "num": 348240,
+      "word": "第一根辣条其实不叫辣条",
+      "onboard_time": 1678957228,
+      "rank": 15,
+      "category": "美食"
     },
     {
       "raw_hot": 345125,
@@ -787,6 +835,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 296313,
+      "num": 296313,
+      "word": "伏明霞",
+      "onboard_time": 1678957949,
+      "rank": 18,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 294193,
       "num": 294193,
       "word": "315",
@@ -817,6 +873,14 @@
       "onboard_time": 1678931606,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 283501,
+      "num": 283501,
+      "word": "泰国街头偶遇徐若晗",
+      "onboard_time": 1678956391,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 277455,
@@ -939,6 +1003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 251678,
+      "num": 251678,
+      "word": "4S店直播回应清库存五折卖车",
+      "onboard_time": 1678955550,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 251300,
       "num": 251300,
       "word": "父母偏心是一种什么感受",
@@ -993,6 +1065,14 @@
       "onboard_time": 1678939529,
       "rank": 30,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 238886,
+      "num": 238886,
+      "word": "尹正让大鹏给小白兔道歉",
+      "onboard_time": 1678958309,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 235665,
@@ -1073,6 +1153,14 @@
       "onboard_time": 1678950808,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 209313,
+      "num": 209313,
+      "word": "多家腌菜店公告称愿接受网友监督",
+      "onboard_time": 1678957287,
+      "rank": 30,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 207786,
@@ -1217,6 +1305,14 @@
       "onboard_time": 1678934788,
       "rank": 44,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 189348,
+      "num": 189348,
+      "word": "恢复涉外营业性演出的受理审批",
+      "onboard_time": 1678958309,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 188932,
@@ -1451,6 +1547,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 150460,
+      "num": 150460,
+      "word": "DK对战T1",
+      "onboard_time": 1678956927,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 147889,
       "num": 147889,
       "word": "电影保你平安",
@@ -1465,6 +1569,14 @@
       "onboard_time": 1678926688,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 142842,
+      "num": 142842,
+      "word": "张杰未live巡回演唱会",
+      "onboard_time": 1678956927,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 141785,
@@ -1505,6 +1617,14 @@
       "onboard_time": 1678950927,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 136102,
+      "num": 136102,
+      "word": "被救者全家给挡刀受伤老民警送锦旗",
+      "onboard_time": 1678957408,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 135816,
@@ -1579,14 +1699,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 129581,
-      "num": 129581,
-      "word": "4S店直播回应清库存五折卖车",
-      "onboard_time": 1678955550,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 127272,
       "num": 127272,
       "word": "周笔畅给姚晨新电影打call",
@@ -1651,12 +1763,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 115660,
-      "num": 115660,
-      "word": "李到晛和IU演过德鲁纳酒店",
-      "onboard_time": 1678955908,
-      "rank": 41,
-      "category": "影视"
+      "raw_hot": 116287,
+      "num": 116287,
+      "word": "王鹤棣主打的就是一个缓缓下线",
+      "onboard_time": 1678957048,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 114311,
@@ -1777,6 +1889,14 @@
       "onboard_time": 1678888596,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 66415,
+      "num": 703173,
+      "word": "新时代中国网络法治建设白皮书发布",
+      "onboard_time": 1678956808,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 64608,
