@@ -1,6 +1,6 @@
 {
   "startTime": 1678897636121,
-  "endTime": 1678952043547,
+  "endTime": 1678955068658,
   "band_list": [
     {
       "raw_hot": 3119338,
@@ -17,6 +17,14 @@
       "onboard_time": 1678937908,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2066944,
+      "num": 2066944,
+      "word": "何老师这辈子眼睛没瞪这么大过",
+      "onboard_time": 1678952728,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 1777140,
@@ -139,6 +147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 922255,
+      "num": 922255,
+      "word": "女儿8万为父看病百万拆迁款给儿子",
+      "onboard_time": 1678949666,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 879170,
       "num": 879170,
       "word": "offer约定月薪2万1入职时变4千",
@@ -177,14 +193,6 @@
       "onboard_time": 1678946548,
       "rank": 9,
       "category": "科技"
-    },
-    {
-      "raw_hot": 807858,
-      "num": 807858,
-      "word": "女儿8万为父看病百万拆迁款给儿子",
-      "onboard_time": 1678949666,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 788846,
@@ -249,6 +257,14 @@
       "onboard_time": 1678949847,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 679705,
+      "num": 679705,
+      "word": "莎头",
+      "onboard_time": 1678953929,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 674907,
@@ -339,6 +355,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 582847,
+      "num": 582847,
+      "word": "王楚钦孙颖莎夺冠",
+      "onboard_time": 1678954831,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 576452,
       "num": 576452,
       "word": "炉石传说或被移出亚运项目",
@@ -377,6 +401,14 @@
       "onboard_time": 1678884574,
       "rank": 4,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 532339,
+      "num": 420293,
+      "word": "肖战米兰探店黑西装随拍",
+      "onboard_time": 1678954348,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 531729,
@@ -579,6 +611,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 381522,
+      "num": 381522,
+      "word": "韩国邀请小S拍旅游宣传片",
+      "onboard_time": 1678954289,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 377503,
       "num": 377503,
       "word": "过敏体质要警惕咳嗽变异性哮喘",
@@ -691,8 +731,16 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 317262,
-      "num": 317262,
+      "raw_hot": 325678,
+      "num": 311625,
+      "word": "女童摸狗被咬家长怒斥不赔偿不道歉",
+      "onboard_time": 1678952548,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 319028,
+      "num": 319028,
       "word": "女生吃没熟发芽土豆后晕厥送医",
       "onboard_time": 1678949248,
       "rank": 22,
@@ -1131,6 +1179,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 193209,
+      "num": 188138,
+      "word": "摇着尾巴喝水的小猫",
+      "onboard_time": 1678954227,
+      "rank": 30,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 191854,
       "num": 191854,
       "word": "官方回复苏南硕放机场没有改名",
@@ -1144,6 +1200,14 @@
       "word": "白客张颂文化身调查记者探寻真相",
       "onboard_time": 1678937309,
       "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 190629,
+      "num": 190629,
+      "word": "水里的张译",
+      "onboard_time": 1678953929,
+      "rank": 28,
       "category": "影视"
     },
     {
@@ -1457,6 +1521,14 @@
       "onboard_time": 1678882287,
       "rank": 35,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 134600,
+      "num": 134600,
+      "word": "梅根跳舞没有感情全是技巧",
+      "onboard_time": 1678954227,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 134181,
