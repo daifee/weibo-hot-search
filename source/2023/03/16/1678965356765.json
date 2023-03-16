@@ -1,0 +1,410 @@
+{
+  "runTime": 1678965356765,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1090283,
+        "num": 1090283,
+        "word": "韩剧溯洄",
+        "onboard_time": 1678960950,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 754500,
+        "num": 754500,
+        "word": "充电时真的别玩手机",
+        "onboard_time": 1678946009,
+        "rank": 1,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 41377,
+        "num": 749343,
+        "word": "新时代中国网络法治建设白皮书发布",
+        "onboard_time": 1678956808,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 849665,
+        "num": 748472,
+        "word": "教育局回应老师让小学生拿外卖",
+        "onboard_time": 1678956868,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 746880,
+        "num": 746880,
+        "word": "伏明霞",
+        "onboard_time": 1678957949,
+        "rank": 4,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 646027,
+        "num": 646027,
+        "word": "网易LOFTER致歉",
+        "onboard_time": 1678963108,
+        "rank": 5,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 621454,
+        "num": 621454,
+        "word": "你会为了另一半辞职吗",
+        "onboard_time": 1678961907,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 607837,
+        "num": 607837,
+        "word": "央视网谈孔乙己文学",
+        "onboard_time": 1678943191,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 514132,
+        "num": 514132,
+        "word": "国防部说台湾当归",
+        "onboard_time": 1678964309,
+        "rank": 8,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 482585,
+        "num": 482585,
+        "word": "熊猫叉腰与饲养员理论",
+        "onboard_time": 1678956149,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1400302,
+        "num": 475956,
+        "word": "何老师这辈子眼睛没瞪这么大过",
+        "onboard_time": 1678952728,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 928086,
+        "num": 457371,
+        "word": "童瑶仪态",
+        "onboard_time": 1678962929,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 880395,
+        "num": 452900,
+        "word": "利比亚丢失2.5吨天然铀",
+        "onboard_time": 1678962929,
+        "rank": 12,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 432765,
+        "num": 432765,
+        "word": "党和国家机构改革方案全文",
+        "onboard_time": 1678964609,
+        "rank": 13,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 426054,
+        "num": 426054,
+        "word": "光渊 复播",
+        "onboard_time": 1678957469,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 413209,
+        "num": 413209,
+        "word": "女儿8万为父看病百万拆迁款给儿子",
+        "onboard_time": 1678949666,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350316,
+        "num": 350316,
+        "word": "赵丽颖粉丝画与凤行海报",
+        "onboard_time": 1678964247,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 339924,
+        "num": 339924,
+        "word": "王一博叶先生最新剧照",
+        "onboard_time": 1678964790,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 329319,
+        "num": 329319,
+        "word": "双塔偶遇陈飞宇录节目",
+        "onboard_time": 1678959151,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 328626,
+        "num": 328626,
+        "word": "徐冬冬说自己永远火不了",
+        "onboard_time": 1678958128,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315943,
+        "num": 315943,
+        "word": "毕业怎么写最刀",
+        "onboard_time": 1678962268,
+        "rank": 20,
+        "category": "教育,情感"
+      },
+      {
+        "raw_hot": 290043,
+        "num": 290043,
+        "word": "李到晛和IU演过德鲁纳酒店",
+        "onboard_time": 1678955908,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 278597,
+        "num": 278597,
+        "word": "第一根辣条其实不叫辣条",
+        "onboard_time": 1678957228,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 244111,
+        "num": 244111,
+        "word": "王楚钦孙颖莎夺冠",
+        "onboard_time": 1678954831,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 241388,
+        "num": 241388,
+        "word": "白夜追凶2组讯",
+        "onboard_time": 1678962089,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 228375,
+        "num": 228375,
+        "word": "女子用价值20万金刀画熊猫丫丫",
+        "onboard_time": 1678948107,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224571,
+        "num": 224571,
+        "word": "时代少年团为马嘉祺声生不息打call",
+        "onboard_time": 1678962268,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219754,
+        "num": 219754,
+        "word": "女童摸狗被咬家长怒斥不赔偿不道歉",
+        "onboard_time": 1678952548,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199824,
+        "num": 199824,
+        "word": "肖战米兰探店黑西装随拍",
+        "onboard_time": 1678954348,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 198848,
+        "num": 198848,
+        "word": "新海诚夸周深唱的主题曲非常动听",
+        "onboard_time": 1678964550,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193738,
+        "num": 193738,
+        "word": "韩国邀请小S拍旅游宣传片",
+        "onboard_time": 1678954289,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183555,
+        "num": 183555,
+        "word": "女子深夜点三次外卖小哥报警救了她",
+        "onboard_time": 1678945047,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181103,
+        "num": 181103,
+        "word": "恢复涉外营业性演出的受理审批",
+        "onboard_time": 1678958309,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167441,
+        "num": 167441,
+        "word": "百度股价跳水",
+        "onboard_time": 1678949308,
+        "rank": 33,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 164072,
+        "num": 164072,
+        "word": "刘亚仁医生因吸毒被拘捕",
+        "onboard_time": 1678946908,
+        "rank": 34,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 160720,
+        "num": 160720,
+        "word": "摇着尾巴喝水的小猫",
+        "onboard_time": 1678954227,
+        "rank": 35,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 150774,
+        "num": 150774,
+        "word": "李一桐毕雯珺回应7岁年龄差",
+        "onboard_time": 1678949127,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 135808,
+        "num": 135808,
+        "word": "泫雅林允合影",
+        "onboard_time": 1678949847,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127295,
+        "num": 127295,
+        "word": "11岁奥莉腿长",
+        "onboard_time": 1678939649,
+        "rank": 38,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 126198,
+        "num": 126198,
+        "word": "韩总统坚称韩日不应再为历史恩怨对抗",
+        "onboard_time": 1678943010,
+        "rank": 39,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 123068,
+        "num": 123068,
+        "word": "海南省考",
+        "onboard_time": 1678959509,
+        "rank": 40,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 120770,
+        "num": 120770,
+        "word": "王鹤棣主打的就是一个缓缓下线",
+        "onboard_time": 1678957048,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117859,
+        "num": 117859,
+        "word": "90后男演员原声台词大赏",
+        "onboard_time": 1678964247,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 116693,
+        "num": 116693,
+        "word": "贾冰在讲一种很新的英语",
+        "onboard_time": 1678963349,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 113202,
+        "num": 113202,
+        "word": "Cat牛魔好猛",
+        "onboard_time": 1678963228,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 106846,
+        "num": 106846,
+        "word": "LGD对战TES",
+        "onboard_time": 1678959991,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 101136,
+        "num": 101136,
+        "word": "谭松韵归晓剧组碎片",
+        "onboard_time": 1678965149,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 99259,
+        "num": 99259,
+        "word": "T1战胜DK",
+        "onboard_time": 1678960889,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 96056,
+        "num": 96056,
+        "word": "女子地铁上暴打男子叫嚣男人必须站着",
+        "onboard_time": 1678937605,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94848,
+        "num": 94848,
+        "word": "多家腌菜店公告称愿接受网友监督",
+        "onboard_time": 1678957287,
+        "rank": 49,
+        "category": "社会新闻,财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国共产党与世界政党高层对话会开幕#"
+    }
+  }
+}

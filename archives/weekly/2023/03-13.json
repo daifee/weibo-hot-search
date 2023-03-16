@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1678963012222,
+  "endTime": 1678965356765,
   "band_list": [
     {
       "raw_hot": 8307302,
@@ -611,6 +611,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1090283,
+      "num": 1090283,
+      "word": "韩剧溯洄",
+      "onboard_time": 1678960950,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1081303,
       "num": 654283,
       "word": "无名是北电开学的第一课",
@@ -843,6 +851,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 928086,
+      "num": 457371,
+      "word": "童瑶仪态",
+      "onboard_time": 1678962929,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 923917,
       "num": 923917,
       "word": "柠萌影视",
@@ -921,6 +937,14 @@
       "onboard_time": 1678750221,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 880395,
+      "num": 452900,
+      "word": "利比亚丢失2.5吨天然铀",
+      "onboard_time": 1678962929,
+      "rank": 48,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 879170,
@@ -1619,14 +1643,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 658613,
-      "num": 658613,
-      "word": "韩剧溯洄",
-      "onboard_time": 1678960950,
-      "rank": 13,
-      "category": "影视"
-    },
-    {
       "raw_hot": 654093,
       "num": 228197,
       "word": "秦岚喜欢你4录制现场发糖",
@@ -1715,6 +1731,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 646027,
+      "num": 646027,
+      "word": "网易LOFTER致歉",
+      "onboard_time": 1678963108,
+      "rank": 5,
+      "category": "科技"
+    },
+    {
       "raw_hot": 644693,
       "num": 644693,
       "word": "重庆一鱼塘神秘大坑吞噬2万斤鱼",
@@ -1769,6 +1793,14 @@
       "onboard_time": 1678765766,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 621454,
+      "num": 621454,
+      "word": "你会为了另一半辞职吗",
+      "onboard_time": 1678961907,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 619874,
@@ -1969,14 +2001,6 @@
       "onboard_time": 1678937726,
       "rank": 6,
       "category": "游戏,体育"
-    },
-    {
-      "raw_hot": 575519,
-      "num": 575519,
-      "word": "你会为了另一半辞职吗",
-      "onboard_time": 1678961907,
-      "rank": 17,
-      "category": "影视"
     },
     {
       "raw_hot": 574627,
@@ -2337,6 +2361,14 @@
       "onboard_time": 1678873827,
       "rank": 13,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 514132,
+      "num": 514132,
+      "word": "国防部说台湾当归",
+      "onboard_time": 1678964309,
+      "rank": 8,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 512294,
@@ -2993,6 +3025,14 @@
       "onboard_time": 1678763787,
       "rank": 21,
       "category": "影视,科技"
+    },
+    {
+      "raw_hot": 432765,
+      "num": 432765,
+      "word": "党和国家机构改革方案全文",
+      "onboard_time": 1678964609,
+      "rank": 13,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 431979,
@@ -3691,6 +3731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 350316,
+      "num": 350316,
+      "word": "赵丽颖粉丝画与凤行海报",
+      "onboard_time": 1678964247,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 349785,
       "num": 349785,
       "word": "混血神颜天花板",
@@ -3840,6 +3888,14 @@
       "word": "张家辉陈伟霆爆裂开打",
       "onboard_time": 1678770928,
       "rank": 23,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 339924,
+      "num": 339924,
+      "word": "王一博叶先生最新剧照",
+      "onboard_time": 1678964790,
+      "rank": 17,
       "category": "影视"
     },
     {
@@ -4105,6 +4161,14 @@
       "onboard_time": 1678804952,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 315943,
+      "num": 315943,
+      "word": "毕业怎么写最刀",
+      "onboard_time": 1678962268,
+      "rank": 25,
+      "category": "教育,情感"
     },
     {
       "raw_hot": 314850,
@@ -5203,6 +5267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 224571,
+      "num": 224571,
+      "word": "时代少年团为马嘉祺声生不息打call",
+      "onboard_time": 1678962268,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 223424,
       "num": 223424,
       "word": "成龙耍刀郭麒麟被刀耍",
@@ -5371,14 +5443,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 211702,
-      "num": 211702,
-      "word": "毕业怎么写最刀",
-      "onboard_time": 1678962268,
-      "rank": 25,
-      "category": "教育,情感"
-    },
-    {
       "raw_hot": 210963,
       "num": 210963,
       "word": "PUBG",
@@ -5539,14 +5603,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 204906,
-      "num": 204906,
-      "word": "时代少年团为马嘉祺声生不息打call",
-      "onboard_time": 1678962268,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 204791,
       "num": 204791,
       "word": "关继威奥斯卡最佳男配角",
@@ -5593,14 +5649,6 @@
       "onboard_time": 1678929625,
       "rank": 31,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 203030,
-      "num": 194479,
-      "word": "童瑶仪态",
-      "onboard_time": 1678962929,
-      "rank": 29,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 202972,
@@ -5761,6 +5809,14 @@
       "onboard_time": 1678888711,
       "rank": 44,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 198848,
+      "num": 198848,
+      "word": "新海诚夸周深唱的主题曲非常动听",
+      "onboard_time": 1678964550,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 198786,
@@ -7227,6 +7283,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 117859,
+      "num": 117859,
+      "word": "90后男演员原声台词大赏",
+      "onboard_time": 1678964247,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 117673,
       "num": 127397,
       "word": "隔着屏幕都感受到了压迫感",
@@ -7241,6 +7305,14 @@
       "onboard_time": 1678613906,
       "rank": 28,
       "category": "教育"
+    },
+    {
+      "raw_hot": 116693,
+      "num": 116693,
+      "word": "贾冰在讲一种很新的英语",
+      "onboard_time": 1678963349,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 115473,
@@ -7281,6 +7353,14 @@
       "onboard_time": 1678922661,
       "rank": 36,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 113202,
+      "num": 113202,
+      "word": "Cat牛魔好猛",
+      "onboard_time": 1678963228,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 112670,
@@ -7395,6 +7475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101136,
+      "num": 101136,
+      "word": "谭松韵归晓剧组碎片",
+      "onboard_time": 1678965149,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 99603,
       "num": 99603,
       "word": "卡塞米罗红牌",
@@ -7441,14 +7529,6 @@
       "onboard_time": 1678725558,
       "rank": 37,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 96450,
-      "num": 96450,
-      "word": "利比亚丢失2.5吨天然铀",
-      "onboard_time": 1678962929,
-      "rank": 48,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 95914,
