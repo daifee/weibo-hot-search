@@ -1,10 +1,10 @@
 {
   "startTime": 1678897636121,
-  "endTime": 1678947833163,
+  "endTime": 1678948693561,
   "band_list": [
     {
-      "raw_hot": 3058128,
-      "num": 3058128,
+      "raw_hot": 3119338,
+      "num": 3119338,
       "word": "央视网谈孔乙己文学",
       "onboard_time": 1678943191,
       "rank": 18,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1157458,
+      "num": 1157458,
+      "word": "刘亚仁医生因吸毒被拘捕",
+      "onboard_time": 1678946908,
+      "rank": 10,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1136086,
       "num": 1136086,
       "word": "315晚会",
@@ -115,12 +123,20 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 906299,
-      "num": 906299,
+      "raw_hot": 923917,
+      "num": 923917,
       "word": "柠萌影视",
       "onboard_time": 1678945647,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 915975,
+      "num": 915975,
+      "word": "充电时真的别玩手机",
+      "onboard_time": 1678946009,
+      "rank": 4,
+      "category": "科技"
     },
     {
       "raw_hot": 879170,
@@ -147,14 +163,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 823320,
-      "num": 823320,
-      "word": "充电时真的别玩手机",
-      "onboard_time": 1678946009,
-      "rank": 4,
-      "category": "科技"
-    },
-    {
       "raw_hot": 817894,
       "num": 175934,
       "word": "徐峰立喊话张艺兴工作室",
@@ -163,12 +171,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 790612,
-      "num": 458348,
-      "word": "刘亚仁医生因吸毒被拘捕",
-      "onboard_time": 1678946908,
-      "rank": 10,
-      "category": "社会新闻,艺人"
+      "raw_hot": 811932,
+      "num": 811932,
+      "word": "文心一言",
+      "onboard_time": 1678946548,
+      "rank": 9,
+      "category": "科技"
     },
     {
       "raw_hot": 788846,
@@ -243,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 649477,
+      "num": 649477,
+      "word": "女子深夜点三次外卖小哥报警救了她",
+      "onboard_time": 1678945047,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 642443,
       "num": 642443,
       "word": "15个小时的新娘",
@@ -257,14 +273,6 @@
       "onboard_time": 1678940071,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 611742,
-      "num": 611742,
-      "word": "女子深夜点三次外卖小哥报警救了她",
-      "onboard_time": 1678945047,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 606047,
@@ -395,12 +403,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 462413,
-      "num": 462413,
-      "word": "文心一言",
-      "onboard_time": 1678946548,
-      "rank": 9,
-      "category": "科技"
+      "raw_hot": 463828,
+      "num": 454154,
+      "word": "欧阳娜娜晒与爸爸合照",
+      "onboard_time": 1678947927,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 459525,
@@ -563,6 +571,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 334513,
+      "num": 334513,
+      "word": "A股",
+      "onboard_time": 1678947867,
+      "rank": 14,
+      "category": "财经"
+    },
+    {
       "raw_hot": 333928,
       "num": 333928,
       "word": "苹果工程师在开发类ChatGPT人工智能",
@@ -643,6 +659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 297991,
+      "num": 297991,
+      "word": "当医生说两种药要同时吃",
+      "onboard_time": 1678944148,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 294193,
       "num": 294193,
       "word": "315",
@@ -691,6 +715,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 274030,
+      "num": 274030,
+      "word": "郑恺打入时代少年团内部拿签名照",
+      "onboard_time": 1678948228,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 267841,
       "num": 267841,
       "word": "养郁金香的欲望达到了巅峰",
@@ -737,14 +769,6 @@
       "onboard_time": 1678894889,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 260313,
-      "num": 260313,
-      "word": "当医生说两种药要同时吃",
-      "onboard_time": 1678944148,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 258772,
@@ -915,6 +939,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 202972,
+      "num": 202972,
+      "word": "李荣浩成都",
+      "onboard_time": 1678948165,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 200659,
       "num": 200659,
       "word": "上交叉综合症是什么",
@@ -971,12 +1003,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 194159,
+      "num": 194159,
+      "word": "魏大勋一秒变恭顺",
+      "onboard_time": 1678947867,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193937,
       "num": 249775,
       "word": "刘作虎称2023手机影像大战开始",
       "onboard_time": 1678937126,
       "rank": 24,
       "category": "科技"
+    },
+    {
+      "raw_hot": 192513,
+      "num": 192513,
+      "word": "张颂文安慰网友",
+      "onboard_time": 1678947685,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 191854,
@@ -1025,6 +1073,14 @@
       "onboard_time": 1678944807,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 184663,
+      "num": 184663,
+      "word": "亚运会",
+      "onboard_time": 1678946308,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 181373,
@@ -1131,14 +1187,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 166071,
-      "num": 166071,
-      "word": "亚运会",
-      "onboard_time": 1678946308,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 166015,
       "num": 166015,
       "word": "郭麒麟说孟子义弱柳扶风",
@@ -1169,6 +1217,14 @@
       "onboard_time": 1678883550,
       "rank": 24,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 161097,
+      "num": 161097,
+      "word": "边用边充影响手机体验吗",
+      "onboard_time": 1678947388,
+      "rank": 40,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 159100,
@@ -1203,6 +1259,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 154825,
+      "num": 154825,
+      "word": "童年的贫瘠真的会困扰一生",
+      "onboard_time": 1678946786,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 154085,
       "num": 154085,
       "word": "今日宜加油豆瓣开8.2分",
@@ -1217,6 +1281,14 @@
       "onboard_time": 1678877310,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 150947,
+      "num": 150947,
+      "word": "女子用价值20万金刀画熊猫丫丫",
+      "onboard_time": 1678948107,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 147889,
@@ -1259,14 +1331,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 138559,
-      "num": 138559,
-      "word": "边用边充影响手机体验吗",
-      "onboard_time": 1678947388,
-      "rank": 40,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 137759,
       "num": 137759,
       "word": "白鹿王鹤棣互戴发箍路透",
@@ -1275,28 +1339,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 137148,
-      "num": 137148,
-      "word": "张颂文安慰网友",
-      "onboard_time": 1678947685,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 135816,
       "num": 135816,
       "word": "湖人vs火箭",
       "onboard_time": 1678934607,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 135226,
-      "num": 135226,
-      "word": "童年的贫瘠真的会困扰一生",
-      "onboard_time": 1678946786,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 135174,
@@ -1393,6 +1441,22 @@
       "onboard_time": 1678930348,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 116475,
+      "num": 116475,
+      "word": "孙颖莎晋级大满贯女单8强",
+      "onboard_time": 1678948588,
+      "rank": 48,
+      "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 115298,
+      "num": 115298,
+      "word": "威少15分",
+      "onboard_time": 1678948588,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 114311,
