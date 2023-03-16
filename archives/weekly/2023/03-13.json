@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1678958335550,
+  "endTime": 1678959239281,
   "band_list": [
     {
       "raw_hot": 8307302,
@@ -587,6 +587,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1096067,
+      "num": 1096067,
+      "word": "教育局回应老师让小学生拿外卖",
+      "onboard_time": 1678956868,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1091365,
       "num": 497508,
       "word": "内娱红毯的定海神针",
@@ -888,6 +896,14 @@
       "word": "将门毒后影视化搁置原因",
       "onboard_time": 1678875384,
       "rank": 8,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 884767,
+      "num": 884767,
+      "word": "光渊 复播",
+      "onboard_time": 1678957469,
+      "rank": 6,
       "category": "影视"
     },
     {
@@ -1435,6 +1451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 703393,
+      "num": 537150,
+      "word": "徐冬冬说自己永远火不了",
+      "onboard_time": 1678958128,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 703168,
       "num": 499149,
       "word": "李强答中外记者问",
@@ -1579,14 +1603,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 656005,
-      "num": 656005,
-      "word": "光渊 复播",
-      "onboard_time": 1678957469,
-      "rank": 6,
-      "category": "影视"
-    },
-    {
       "raw_hot": 654093,
       "num": 228197,
       "word": "秦岚喜欢你4录制现场发糖",
@@ -1697,6 +1713,14 @@
       "onboard_time": 1678848387,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 633422,
+      "num": 633422,
+      "word": "熊猫叉腰与饲养员理论",
+      "onboard_time": 1678956149,
+      "rank": 8,
+      "category": "幽默"
     },
     {
       "raw_hot": 629064,
@@ -1843,14 +1867,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 601060,
-      "num": 601060,
-      "word": "熊猫叉腰与饲养员理论",
-      "onboard_time": 1678956149,
-      "rank": 8,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 600650,
       "num": 600650,
       "word": "无穷小亮和水哥同游西藏",
@@ -1915,20 +1931,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 581818,
-      "num": 581818,
-      "word": "教育局回应老师让小学生拿外卖",
-      "onboard_time": 1678956868,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 580983,
       "num": 580983,
       "word": "洪知秀内地首封",
       "onboard_time": 1678863566,
       "rank": 8,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 576815,
+      "num": 576815,
+      "word": "第一根辣条其实不叫辣条",
+      "onboard_time": 1678957228,
+      "rank": 15,
+      "category": "美食"
     },
     {
       "raw_hot": 576452,
@@ -3235,14 +3251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 399682,
-      "num": 399682,
-      "word": "徐冬冬说自己永远火不了",
-      "onboard_time": 1678958128,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 398459,
       "num": 392814,
       "word": "分娩之痛并非天经地义",
@@ -3673,14 +3681,6 @@
       "onboard_time": 1678877369,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 348240,
-      "num": 348240,
-      "word": "第一根辣条其实不叫辣条",
-      "onboard_time": 1678957228,
-      "rank": 15,
-      "category": "美食"
     },
     {
       "raw_hot": 347680,
@@ -4355,6 +4355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 281932,
+      "num": 281932,
+      "word": "尹正让大鹏给小白兔道歉",
+      "onboard_time": 1678958309,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 280669,
       "num": 246301,
       "word": "成龙张学友张家辉梁朝伟刘德华合照",
@@ -4929,14 +4937,6 @@
       "onboard_time": 1678849168,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 238886,
-      "num": 238886,
-      "word": "尹正让大鹏给小白兔道歉",
-      "onboard_time": 1678958309,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 238847,
@@ -5691,6 +5691,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 198926,
+      "num": 198926,
+      "word": "恢复涉外营业性演出的受理审批",
+      "onboard_time": 1678958309,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198786,
       "num": 198786,
       "word": "丁程鑫杨迪团建",
@@ -5955,14 +5963,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 189348,
-      "num": 189348,
-      "word": "恢复涉外营业性演出的受理审批",
-      "onboard_time": 1678958309,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 189271,
       "num": 189271,
       "word": "CBA",
@@ -6049,6 +6049,14 @@
       "onboard_time": 1678944807,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 185009,
+      "num": 185009,
+      "word": "双塔偶遇陈飞宇录节目",
+      "onboard_time": 1678959151,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 184663,
@@ -6579,6 +6587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 152402,
+      "num": 152402,
+      "word": "被救者全家给挡刀受伤老民警送锦旗",
+      "onboard_time": 1678957408,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152358,
       "num": 104916,
       "word": "NMIXX新歌YoungDumbStupid",
@@ -6795,6 +6811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141264,
+      "num": 141264,
+      "word": "海关回应旅客带101管孕妇血样出境",
+      "onboard_time": 1678958847,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140607,
       "num": 140607,
       "word": "黑暗荣耀 讽刺",
@@ -6843,6 +6867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 138370,
+      "num": 138370,
+      "word": "王鹤棣主打的就是一个缓缓下线",
+      "onboard_time": 1678957048,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 137759,
       "num": 137759,
       "word": "白鹿王鹤棣互戴发箍路透",
@@ -6873,14 +6905,6 @@
       "onboard_time": 1678704147,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 136102,
-      "num": 136102,
-      "word": "被救者全家给挡刀受伤老民警送锦旗",
-      "onboard_time": 1678957408,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 135816,
@@ -7145,14 +7169,6 @@
       "onboard_time": 1678613906,
       "rank": 28,
       "category": "教育"
-    },
-    {
-      "raw_hot": 116287,
-      "num": 116287,
-      "word": "王鹤棣主打的就是一个缓缓下线",
-      "onboard_time": 1678957048,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 115473,
@@ -7596,7 +7612,7 @@
     },
     {
       "raw_hot": 66415,
-      "num": 703173,
+      "num": 952435,
       "word": "新时代中国网络法治建设白皮书发布",
       "onboard_time": 1678956808,
       "rank": 2,

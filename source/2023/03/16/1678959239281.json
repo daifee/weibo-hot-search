@@ -1,0 +1,410 @@
+{
+  "runTime": 1678959239281,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1096067,
+        "num": 1096067,
+        "word": "教育局回应老师让小学生拿外卖",
+        "onboard_time": 1678956868,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1063554,
+        "num": 1063554,
+        "word": "充电时真的别玩手机",
+        "onboard_time": 1678946009,
+        "rank": 1,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 49212,
+        "num": 952435,
+        "word": "新时代中国网络法治建设白皮书发布",
+        "onboard_time": 1678956808,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1932640,
+        "num": 945335,
+        "word": "何老师这辈子眼睛没瞪这么大过",
+        "onboard_time": 1678952728,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 884767,
+        "num": 884767,
+        "word": "光渊 复播",
+        "onboard_time": 1678957469,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 879789,
+        "num": 879789,
+        "word": "央视网谈孔乙己文学",
+        "onboard_time": 1678943191,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 696694,
+        "num": 696694,
+        "word": "李到晛和IU演过德鲁纳酒店",
+        "onboard_time": 1678955908,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 633422,
+        "num": 633422,
+        "word": "熊猫叉腰与饲养员理论",
+        "onboard_time": 1678956149,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 576815,
+        "num": 576815,
+        "word": "第一根辣条其实不叫辣条",
+        "onboard_time": 1678957228,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 540553,
+        "num": 540553,
+        "word": "女儿8万为父看病百万拆迁款给儿子",
+        "onboard_time": 1678949666,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 703393,
+        "num": 537150,
+        "word": "徐冬冬说自己永远火不了",
+        "onboard_time": 1678958128,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 505561,
+        "num": 505561,
+        "word": "王楚钦孙颖莎夺冠",
+        "onboard_time": 1678954831,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 477655,
+        "num": 477655,
+        "word": "韩国邀请小S拍旅游宣传片",
+        "onboard_time": 1678954289,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 348936,
+        "num": 348936,
+        "word": "肖战米兰探店黑西装随拍",
+        "onboard_time": 1678954348,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 327293,
+        "num": 327293,
+        "word": "女子深夜点三次外卖小哥报警救了她",
+        "onboard_time": 1678945047,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294885,
+        "num": 294885,
+        "word": "女子用价值20万金刀画熊猫丫丫",
+        "onboard_time": 1678948107,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281932,
+        "num": 281932,
+        "word": "尹正让大鹏给小白兔道歉",
+        "onboard_time": 1678958309,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 281800,
+        "num": 281800,
+        "word": "伏明霞",
+        "onboard_time": 1678957949,
+        "rank": 17,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 274026,
+        "num": 274026,
+        "word": "韩总统坚称韩日不应再为历史恩怨对抗",
+        "onboard_time": 1678943010,
+        "rank": 18,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 272453,
+        "num": 272453,
+        "word": "刘亚仁医生因吸毒被拘捕",
+        "onboard_time": 1678946908,
+        "rank": 19,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 293647,
+        "num": 270729,
+        "word": "女童摸狗被咬家长怒斥不赔偿不道歉",
+        "onboard_time": 1678952548,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268843,
+        "num": 268843,
+        "word": "11岁奥莉腿长",
+        "onboard_time": 1678939649,
+        "rank": 21,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 266714,
+        "num": 266714,
+        "word": "百度股价跳水",
+        "onboard_time": 1678949308,
+        "rank": 22,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 239505,
+        "num": 239505,
+        "word": "摇着尾巴喝水的小猫",
+        "onboard_time": 1678954227,
+        "rank": 23,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 230903,
+        "num": 230903,
+        "word": "4S店直播回应清库存五折卖车",
+        "onboard_time": 1678955550,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228830,
+        "num": 228830,
+        "word": "泫雅林允合影",
+        "onboard_time": 1678949847,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226648,
+        "num": 226648,
+        "word": "泰国街头偶遇徐若晗",
+        "onboard_time": 1678956391,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201453,
+        "num": 201453,
+        "word": "网友寺庙偶遇王菲",
+        "onboard_time": 1678949728,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198926,
+        "num": 198926,
+        "word": "恢复涉外营业性演出的受理审批",
+        "onboard_time": 1678958309,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189871,
+        "num": 189871,
+        "word": "李一桐毕雯珺回应7岁年龄差",
+        "onboard_time": 1678949127,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 185009,
+        "num": 185009,
+        "word": "双塔偶遇陈飞宇录节目",
+        "onboard_time": 1678959151,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 183815,
+        "num": 183815,
+        "word": "女子地铁上暴打男子叫嚣男人必须站着",
+        "onboard_time": 1678937605,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177442,
+        "num": 177442,
+        "word": "莎头",
+        "onboard_time": 1678953929,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155005,
+        "num": 155005,
+        "word": "多家腌菜店公告称愿接受网友监督",
+        "onboard_time": 1678957287,
+        "rank": 33,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 152402,
+        "num": 152402,
+        "word": "被救者全家给挡刀受伤老民警送锦旗",
+        "onboard_time": 1678957408,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147119,
+        "num": 147119,
+        "word": "姐姐放弃考研做3份家教救重病弟弟",
+        "onboard_time": 1678936886,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141264,
+        "num": 141264,
+        "word": "海关回应旅客带101管孕妇血样出境",
+        "onboard_time": 1678958847,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139265,
+        "num": 139265,
+        "word": "DK对战T1",
+        "onboard_time": 1678956927,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 138370,
+        "num": 138370,
+        "word": "王鹤棣主打的就是一个缓缓下线",
+        "onboard_time": 1678957048,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133486,
+        "num": 133486,
+        "word": "女生吃没熟发芽土豆后晕厥送医",
+        "onboard_time": 1678949248,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132955,
+        "num": 132955,
+        "word": "井柏然早期旧照",
+        "onboard_time": 1678949428,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129397,
+        "num": 129397,
+        "word": "张杰想见你想见你想见你",
+        "onboard_time": 1678938806,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128701,
+        "num": 128701,
+        "word": "河南下雪",
+        "onboard_time": 1678932928,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127302,
+        "num": 127302,
+        "word": "刘德华导演成龙吴京电影",
+        "onboard_time": 1678949847,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 122133,
+        "num": 122133,
+        "word": "旅客带101管孕妇血液样本出境被查",
+        "onboard_time": 1678936347,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112988,
+        "num": 112988,
+        "word": "张颂文安慰网友",
+        "onboard_time": 1678947685,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112796,
+        "num": 112796,
+        "word": "苏州机场",
+        "onboard_time": 1678937908,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110562,
+        "num": 110562,
+        "word": "郑恺打入时代少年团内部拿签名照",
+        "onboard_time": 1678948228,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109297,
+        "num": 109297,
+        "word": "快乐再出发",
+        "onboard_time": 1678945284,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100334,
+        "num": 100334,
+        "word": "迪丽热巴说想染发",
+        "onboard_time": 1678941153,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#春天的启航#"
+    }
+  }
+}
