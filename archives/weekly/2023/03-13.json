@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1678935061503,
+  "endTime": 1678936774784,
   "band_list": [
     {
       "raw_hot": 8307302,
@@ -171,6 +171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1777140,
+      "num": 1777140,
+      "word": "河南下雪",
+      "onboard_time": 1678932928,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1761486,
       "num": 1761486,
       "word": "井柏然 八个字我决定接下这部戏",
@@ -297,14 +305,6 @@
       "onboard_time": 1678862908,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1455049,
-      "num": 1455049,
-      "word": "河南下雪",
-      "onboard_time": 1678932928,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1433382,
@@ -593,6 +593,14 @@
       "onboard_time": 1678686808,
       "rank": 12,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1019657,
+      "num": 1019657,
+      "word": "工地盒饭",
+      "onboard_time": 1678934245,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1014941,
@@ -1171,6 +1179,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 741393,
+      "num": 741393,
+      "word": "美国女性喜欢iPhone标准机型",
+      "onboard_time": 1678931965,
+      "rank": 10,
+      "category": "科技"
+    },
+    {
       "raw_hot": 740716,
       "num": 740716,
       "word": "一镜到底有多暴露演技",
@@ -1289,14 +1305,6 @@
       "onboard_time": 1678716207,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 690570,
-      "num": 690570,
-      "word": "美国女性喜欢iPhone标准机型",
-      "onboard_time": 1678931965,
-      "rank": 10,
-      "category": "科技"
     },
     {
       "raw_hot": 689026,
@@ -1571,6 +1579,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 606714,
+      "num": 606714,
+      "word": "城管劝离工地卖盒饭摊贩被怼",
+      "onboard_time": 1678933405,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 606095,
       "num": 514116,
       "word": "女子抄凳子猛砸代驾叫嚣",
@@ -1609,6 +1625,14 @@
       "onboard_time": 1678689865,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 600650,
+      "num": 600650,
+      "word": "无穷小亮和水哥同游西藏",
+      "onboard_time": 1678933047,
+      "rank": 9,
+      "category": "网红"
     },
     {
       "raw_hot": 599962,
@@ -1987,14 +2011,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 517599,
-      "num": 517599,
-      "word": "无穷小亮和水哥同游西藏",
-      "onboard_time": 1678933047,
-      "rank": 9,
-      "category": "网红"
-    },
-    {
       "raw_hot": 516768,
       "num": 481557,
       "word": "周琦辟谣",
@@ -2201,6 +2217,14 @@
       "onboard_time": 1678860508,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 489424,
+      "num": 434725,
+      "word": "权志龙说在准备新项目",
+      "onboard_time": 1678935027,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 487528,
@@ -2603,6 +2627,14 @@
       "category": "影视,科技"
     },
     {
+      "raw_hot": 432497,
+      "num": 432497,
+      "word": "泰坦尼克号内地重映定档",
+      "onboard_time": 1678935686,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 431979,
       "num": 173087,
       "word": "刘嘉玲给梁朝伟颁奖",
@@ -2955,6 +2987,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 387360,
+      "num": 387360,
+      "word": "49岁程序员转行讲历史被学校当课件",
+      "onboard_time": 1678933586,
+      "rank": 33,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 385535,
       "num": 385535,
       "word": "微博之夜嘉宾",
@@ -2992,6 +3032,14 @@
       "word": "他是谁首播收视率",
       "onboard_time": 1678786349,
       "rank": 9,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 382648,
+      "num": 382648,
+      "word": "谭松韵归晓十年前后哭戏对比",
+      "onboard_time": 1678933703,
+      "rank": 23,
       "category": "影视"
     },
     {
@@ -3072,6 +3120,14 @@
       "word": "刘嘉玲说梁朝伟是最好的",
       "onboard_time": 1678679188,
       "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 373549,
+      "num": 373549,
+      "word": "张俪发文纪念北京青年开播十周年",
+      "onboard_time": 1678935686,
+      "rank": 17,
       "category": "影视"
     },
     {
@@ -3179,14 +3235,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 356163,
-      "num": 356163,
-      "word": "谭松韵归晓十年前后哭戏对比",
-      "onboard_time": 1678933703,
-      "rank": 23,
-      "category": "影视"
-    },
-    {
       "raw_hot": 355899,
       "num": 195242,
       "word": "王艺迪2比3平野美宇",
@@ -3233,14 +3281,6 @@
       "onboard_time": 1678862846,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 351538,
-      "num": 351538,
-      "word": "城管劝离工地卖盒饭摊贩被怼",
-      "onboard_time": 1678933405,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 351412,
@@ -3739,14 +3779,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 303526,
-      "num": 303526,
-      "word": "49岁程序员转行讲历史被学校当课件",
-      "onboard_time": 1678933586,
-      "rank": 33,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 301362,
       "num": 401862,
       "word": "花花是如何成为顶流的",
@@ -3843,6 +3875,14 @@
       "category": "社会新闻,影视"
     },
     {
+      "raw_hot": 284806,
+      "num": 284806,
+      "word": "大鹏解释为何邀请宋茜演保你平安",
+      "onboard_time": 1678931606,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 284369,
       "num": 242841,
       "word": "魏如萱首个内地常驻综艺",
@@ -3889,14 +3929,6 @@
       "onboard_time": 1678718309,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 278930,
-      "num": 278930,
-      "word": "工地盒饭",
-      "onboard_time": 1678934245,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 278432,
@@ -4179,14 +4211,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 254796,
-      "num": 254796,
-      "word": "权志龙说在准备新项目",
-      "onboard_time": 1678935027,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 253665,
       "num": 253665,
       "word": "张雨绮谈暧昧拉扯",
@@ -4224,14 +4248,6 @@
       "word": "谭松韵新剧妆造",
       "onboard_time": 1678677987,
       "rank": 41,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 248928,
-      "num": 248928,
-      "word": "大鹏解释为何邀请宋茜演保你平安",
-      "onboard_time": 1678931606,
-      "rank": 49,
       "category": "影视"
     },
     {
@@ -4329,6 +4345,14 @@
       "onboard_time": 1678786888,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 243054,
+      "num": 243054,
+      "word": "小美人鱼爱丽儿和王子驾车剧照",
+      "onboard_time": 1678934187,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 242755,
@@ -4595,6 +4619,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 225464,
+      "num": 225464,
+      "word": "旅客带101管孕妇血液样本出境被查",
+      "onboard_time": 1678936347,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 223424,
       "num": 223424,
       "word": "成龙耍刀郭麒麟被刀耍",
@@ -4801,6 +4833,14 @@
       "onboard_time": 1678720648,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 206429,
+      "num": 206429,
+      "word": "倒春寒",
+      "onboard_time": 1678935203,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 206225,
@@ -5251,6 +5291,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 189532,
+      "num": 189532,
+      "word": "不良人",
+      "onboard_time": 1678934788,
+      "rank": 44,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 189271,
       "num": 189271,
       "word": "CBA",
@@ -5339,19 +5387,19 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 183580,
-      "num": 183580,
-      "word": "小美人鱼爱丽儿和王子驾车剧照",
-      "onboard_time": 1678934187,
-      "rank": 45,
-      "category": "影视"
-    },
-    {
       "raw_hot": 182736,
       "num": 182736,
       "word": "消费透视镜",
       "onboard_time": 1678842989,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182118,
+      "num": 182118,
+      "word": "被丈夫洗过的棉拖发芽了",
+      "onboard_time": 1678936466,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -5449,6 +5497,14 @@
       "onboard_time": 1678662918,
       "rank": 44,
       "category": "幽默,社会新闻"
+    },
+    {
+      "raw_hot": 176480,
+      "num": 176480,
+      "word": "花开了才下雪不讲武德",
+      "onboard_time": 1678935506,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 175957,
@@ -5553,6 +5609,22 @@
       "onboard_time": 1678854753,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 169114,
+      "num": 169114,
+      "word": "Siri为什么这么蠢",
+      "onboard_time": 1678936046,
+      "rank": 37,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 167009,
+      "num": 167009,
+      "word": "四川选调",
+      "onboard_time": 1678935925,
+      "rank": 38,
+      "category": "教育"
     },
     {
       "raw_hot": 166431,
@@ -5681,6 +5753,14 @@
       "onboard_time": 1678893391,
       "rank": 38,
       "category": "旅游,幽默"
+    },
+    {
+      "raw_hot": 157572,
+      "num": 157572,
+      "word": "火箭战胜湖人",
+      "onboard_time": 1678935806,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 157531,
@@ -6107,6 +6187,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 130948,
+      "num": 130948,
+      "word": "阳康后咳不停警惕咳嗽性哮喘",
+      "onboard_time": 1678936287,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130802,
       "num": 238170,
       "word": "沈月的野猪一家要出团综了",
@@ -6155,12 +6243,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 123949,
-      "num": 123949,
-      "word": "不良人",
-      "onboard_time": 1678934788,
-      "rank": 44,
-      "category": "动漫"
+      "raw_hot": 123733,
+      "num": 123733,
+      "word": "龙与地下城彩墨风怪物海报",
+      "onboard_time": 1678935565,
+      "rank": 46,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 122910,
@@ -6991,6 +7079,9 @@
     },
     {
       "word": "#中国共产党与世界政党高层对话会开幕#"
+    },
+    {
+      "word": "#吹灭别人的灯不会让自己更加光明#"
     }
   ]
 }
