@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1678966432348,
+  "endTime": 1678970219119,
   "band_list": [
     {
       "raw_hot": 8307302,
@@ -185,6 +185,14 @@
       "onboard_time": 1678854329,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1856521,
+      "num": 397883,
+      "word": "宋慧乔是王家卫公司艺人",
+      "onboard_time": 1678967370,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1849041,
@@ -403,6 +411,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 1382192,
+      "num": 1382192,
+      "word": "国防部说台湾当归",
+      "onboard_time": 1678964309,
+      "rank": 8,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 1379472,
       "num": 261682,
       "word": "22岁的丫丫约等于人类的80岁",
@@ -475,6 +491,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 1226733,
+      "num": 1226733,
+      "word": "丫丫正努力吃饭等待回国",
+      "onboard_time": 1678968449,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1220778,
       "num": 1220778,
       "word": "谢霆锋一天官宣3部新片",
@@ -497,14 +521,6 @@
       "onboard_time": 1678934245,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1170331,
-      "num": 1170331,
-      "word": "国防部说台湾当归",
-      "onboard_time": 1678964309,
-      "rank": 8,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 1165434,
@@ -857,6 +873,14 @@
       "onboard_time": 1678850666,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 949983,
+      "num": 949983,
+      "word": "柠萌影视声明",
+      "onboard_time": 1678965508,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 949720,
@@ -1347,6 +1371,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 748431,
+      "num": 748431,
+      "word": "那英张杰华晨宇马嘉祺唱征服",
+      "onboard_time": 1678969528,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 747619,
       "num": 747619,
       "word": "网易LOFTER致歉",
@@ -1649,14 +1681,6 @@
       "onboard_time": 1678949127,
       "rank": 18,
       "category": "科技"
-    },
-    {
-      "raw_hot": 660774,
-      "num": 660774,
-      "word": "柠萌影视声明",
-      "onboard_time": 1678965508,
-      "rank": 5,
-      "category": "影视"
     },
     {
       "raw_hot": 658713,
@@ -2139,6 +2163,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 554228,
+      "num": 554228,
+      "word": "妍珍 美羊羊",
+      "onboard_time": 1678966349,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 553858,
       "num": 553858,
       "word": "无名中国香港票房破10万美元",
@@ -2385,14 +2417,6 @@
       "onboard_time": 1678873827,
       "rank": 13,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 516145,
-      "num": 516145,
-      "word": "妍珍 美羊羊",
-      "onboard_time": 1678966349,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 512294,
@@ -2771,6 +2795,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 472813,
+      "num": 472813,
+      "word": "不敢向妈妈推荐黑暗荣耀的原因",
+      "onboard_time": 1678965868,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 471650,
       "num": 208608,
       "word": "朴妍珍在监狱播报气象",
@@ -2833,14 +2865,6 @@
       "onboard_time": 1678712489,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 461660,
-      "num": 461660,
-      "word": "不敢向妈妈推荐黑暗荣耀的原因",
-      "onboard_time": 1678965868,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 461476,
@@ -3009,6 +3033,14 @@
       "onboard_time": 1678610906,
       "rank": 14,
       "category": "影视,社会新闻"
+    },
+    {
+      "raw_hot": 438838,
+      "num": 386852,
+      "word": "比亚迪发布会",
+      "onboard_time": 1678968810,
+      "rank": 15,
+      "category": "科技"
     },
     {
       "raw_hot": 438537,
@@ -3355,6 +3387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 398628,
+      "num": 398628,
+      "word": "声生不息宝岛季",
+      "onboard_time": 1678966050,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 398459,
       "num": 392814,
       "word": "分娩之痛并非天经地义",
@@ -3409,6 +3449,14 @@
       "onboard_time": 1678635985,
       "rank": 3,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 389446,
+      "num": 389446,
+      "word": "马龙",
+      "onboard_time": 1678966410,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 388443,
@@ -4195,6 +4243,14 @@
       "category": "教育,情感"
     },
     {
+      "raw_hot": 314920,
+      "num": 314920,
+      "word": "张译他是谁热度破9000",
+      "onboard_time": 1678968511,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 314850,
       "num": 314850,
       "word": "EXO前夜舞蹈练习室",
@@ -4419,6 +4475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 290081,
+      "num": 290081,
+      "word": "他是谁分尸者到底是谁",
+      "onboard_time": 1678969349,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 287206,
       "num": 287206,
       "word": "SM新女团showcase有21名女练习生",
@@ -4611,6 +4675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 272197,
+      "num": 272197,
+      "word": "别来无恙",
+      "onboard_time": 1678966887,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 271564,
       "num": 271564,
       "word": "摇着尾巴喝水的小猫",
@@ -4769,6 +4841,14 @@
       "onboard_time": 1678695747,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 260024,
+      "num": 260024,
+      "word": "研究发现猴子会有意制造工具",
+      "onboard_time": 1678965508,
+      "rank": 40,
+      "category": "科技"
     },
     {
       "raw_hot": 259243,
@@ -5123,6 +5203,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 234059,
+      "num": 234059,
+      "word": "一生一世日本定档",
+      "onboard_time": 1678966827,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 233141,
       "num": 233141,
       "word": "C罗社媒账号粉丝数达5.6亿",
@@ -5289,6 +5377,14 @@
       "onboard_time": 1678615467,
       "rank": 5,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 227591,
+      "num": 227591,
+      "word": "孟子义花琉璃红衣舞",
+      "onboard_time": 1678969472,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 227374,
@@ -5555,14 +5651,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 207223,
-      "num": 207223,
-      "word": "声生不息宝岛季",
-      "onboard_time": 1678966050,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 206994,
       "num": 206994,
       "word": "花开了才下雪不讲武德",
@@ -5673,6 +5761,14 @@
       "onboard_time": 1678835781,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203697,
+      "num": 203697,
+      "word": "吴磊拍日落",
+      "onboard_time": 1678969290,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 203334,
@@ -5883,6 +5979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 197554,
+      "num": 197554,
+      "word": "WE战胜LGD",
+      "onboard_time": 1678969349,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 197538,
       "num": 197538,
       "word": "男子吃雪糕吐槽体积明显缩水",
@@ -5912,6 +6016,14 @@
       "word": "归路小说还原度",
       "onboard_time": 1678811961,
       "rank": 16,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 196087,
+      "num": 196087,
+      "word": "花琉璃",
+      "onboard_time": 1678969229,
+      "rank": 33,
       "category": "影视"
     },
     {
@@ -6001,6 +6113,14 @@
       "onboard_time": 1678871424,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192635,
+      "num": 192635,
+      "word": "马龙大满贯晋级八强",
+      "onboard_time": 1678969407,
+      "rank": 35,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 192607,
@@ -6145,6 +6265,14 @@
       "onboard_time": 1678936287,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188806,
+      "num": 188806,
+      "word": "清清吕布C的咧",
+      "onboard_time": 1678969229,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 188746,
@@ -6315,6 +6443,14 @@
       "category": "艺人,影视"
     },
     {
+      "raw_hot": 177576,
+      "num": 177576,
+      "word": "博主回应因打假海鲜市场疑被悬赏",
+      "onboard_time": 1678968810,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 177570,
       "num": 177570,
       "word": "勇士vs快船",
@@ -6483,6 +6619,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 169620,
+      "num": 169620,
+      "word": "90后男演员原声台词大赏",
+      "onboard_time": 1678964247,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 169312,
       "num": 169312,
       "word": "你为什么经常会觉得无聊",
@@ -6587,6 +6731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 161103,
+      "num": 159397,
+      "word": "李到晛曹世镐模仿黑暗荣耀吻戏",
+      "onboard_time": 1678968089,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 161097,
       "num": 161097,
       "word": "边用边充影响手机体验吗",
@@ -6625,6 +6777,14 @@
       "onboard_time": 1678777648,
       "rank": 38,
       "category": "军事"
+    },
+    {
+      "raw_hot": 159511,
+      "num": 159511,
+      "word": "湖北消费券",
+      "onboard_time": 1678969170,
+      "rank": 39,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 159384,
@@ -7075,14 +7235,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 136020,
-      "num": 136020,
-      "word": "研究发现猴子会有意制造工具",
-      "onboard_time": 1678965508,
-      "rank": 40,
-      "category": "科技"
-    },
-    {
       "raw_hot": 135816,
       "num": 135816,
       "word": "湖人vs火箭",
@@ -7299,14 +7451,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 122349,
-      "num": 122349,
-      "word": "90后男演员原声台词大赏",
-      "onboard_time": 1678964247,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 121974,
       "num": 121974,
       "word": "引起花粉过敏的元凶究竟是什么",
@@ -7473,14 +7617,6 @@
       "onboard_time": 1678612527,
       "rank": 33,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 109060,
-      "num": 109060,
-      "word": "马龙",
-      "onboard_time": 1678966410,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 108019,
@@ -7836,7 +7972,7 @@
     },
     {
       "raw_hot": 66415,
-      "num": 964102,
+      "num": 997505,
       "word": "新时代中国网络法治建设白皮书发布",
       "onboard_time": 1678956808,
       "rank": 2,
