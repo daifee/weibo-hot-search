@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1678984163342,
+  "endTime": 1678985198214,
   "band_list": [
     {
       "raw_hot": 8307302,
@@ -7003,6 +7003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166124,
+      "num": 166124,
+      "word": "tangoz演我看黑暗荣耀",
+      "onboard_time": 1678983982,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 165346,
       "num": 165346,
       "word": "阿鲁纳",
@@ -7179,6 +7187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 157743,
+      "num": 157743,
+      "word": "孔雪儿粉衣路透",
+      "onboard_time": 1678982965,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 157630,
       "num": 157630,
       "word": "马洪亮 小张说事",
@@ -7273,14 +7289,6 @@
       "onboard_time": 1678960889,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 152809,
-      "num": 152809,
-      "word": "tangoz演我看黑暗荣耀",
-      "onboard_time": 1678983982,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 152402,
@@ -7379,14 +7387,6 @@
       "category": "国内要闻,科技"
     },
     {
-      "raw_hot": 148046,
-      "num": 148046,
-      "word": "孔雪儿粉衣路透",
-      "onboard_time": 1678982965,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 147889,
       "num": 147889,
       "word": "电影保你平安",
@@ -7449,6 +7449,14 @@
       "onboard_time": 1678743191,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 144253,
+      "num": 144253,
+      "word": "出生率下跌致幼儿园关停或成趋势",
+      "onboard_time": 1678984460,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 143880,
