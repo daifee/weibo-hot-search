@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1678974094222,
+  "endTime": 1678976310858,
   "band_list": [
     {
       "raw_hot": 8307302,
@@ -91,6 +91,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2265985,
+      "num": 2265985,
+      "word": "当我收到二月份工资",
+      "onboard_time": 1678970308,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
       "raw_hot": 2252522,
       "num": 2252522,
       "word": "315",
@@ -113,14 +121,6 @@
       "onboard_time": 1678840350,
       "rank": 1,
       "category": "科技"
-    },
-    {
-      "raw_hot": 2185122,
-      "num": 2185122,
-      "word": "当我收到二月份工资",
-      "onboard_time": 1678970308,
-      "rank": 8,
-      "category": "情感"
     },
     {
       "raw_hot": 2174830,
@@ -196,7 +196,7 @@
     },
     {
       "raw_hot": 1856521,
-      "num": 442610,
+      "num": 448514,
       "word": "宋慧乔是王家卫公司艺人",
       "onboard_time": 1678967370,
       "rank": 10,
@@ -377,6 +377,14 @@
       "onboard_time": 1678862908,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1470942,
+      "num": 1470942,
+      "word": "丫丫吃甘蔗小心翼翼不舍得浪费",
+      "onboard_time": 1678974689,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1433382,
@@ -1331,6 +1339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 780119,
+      "num": 780119,
+      "word": "柠萌宣布停拍溯洄",
+      "onboard_time": 1678974389,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 778574,
       "num": 651614,
       "word": "张俪看自己被公主抱看了10遍",
@@ -1537,6 +1553,14 @@
       "onboard_time": 1678888894,
       "rank": 29,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 705322,
+      "num": 705322,
+      "word": "张杰想见你大合唱",
+      "onboard_time": 1678974089,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 703742,
@@ -2027,6 +2051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 592312,
+      "num": 564091,
+      "word": "声生不息宝岛季",
+      "onboard_time": 1678966050,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 590992,
       "num": 590992,
       "word": "养郁金香的欲望达到了巅峰",
@@ -2121,14 +2153,6 @@
       "onboard_time": 1678882710,
       "rank": 32,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 564091,
-      "num": 564091,
-      "word": "声生不息宝岛季",
-      "onboard_time": 1678966050,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 563635,
@@ -2465,6 +2489,14 @@
       "onboard_time": 1678773807,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 510931,
+      "num": 439765,
+      "word": "那英 好听",
+      "onboard_time": 1678974330,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 510857,
@@ -3147,6 +3179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 430263,
+      "num": 430263,
+      "word": "张韶涵开场易天边回忆杀暴击",
+      "onboard_time": 1678973370,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 428816,
       "num": 428816,
       "word": "他是谁首播成全网收视冠军",
@@ -3569,14 +3609,6 @@
       "onboard_time": 1678685369,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 382325,
-      "num": 382325,
-      "word": "张韶涵开场易天边回忆杀暴击",
-      "onboard_time": 1678973370,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 381606,
@@ -4011,6 +4043,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 340545,
+      "num": 340545,
+      "word": "夏花番外HE",
+      "onboard_time": 1678974509,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 340079,
       "num": 300765,
       "word": "张家辉陈伟霆爆裂开打",
@@ -4177,6 +4217,14 @@
       "onboard_time": 1678669167,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 325636,
+      "num": 273091,
+      "word": "陈立农陈卓璇合唱好甜",
+      "onboard_time": 1678975950,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 325016,
@@ -4579,6 +4627,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 283910,
+      "num": 283910,
+      "word": "Baolan投了Meiko",
+      "onboard_time": 1678972770,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 283501,
       "num": 283501,
       "word": "泰国街头偶遇徐若晗",
@@ -4625,14 +4681,6 @@
       "onboard_time": 1678718309,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 279052,
-      "num": 279052,
-      "word": "Baolan投了Meiko",
-      "onboard_time": 1678972770,
-      "rank": 31,
-      "category": "游戏"
     },
     {
       "raw_hot": 278432,
@@ -5059,6 +5107,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 250234,
+      "num": 154867,
+      "word": "徐正溪还是人间适合你",
+      "onboard_time": 1678974930,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 250055,
       "num": 250055,
       "word": "运动员的孩子都走上了运动员的路",
@@ -5353,6 +5409,14 @@
       "onboard_time": 1678859305,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 232778,
+      "num": 152139,
+      "word": "华晨宇逆光演唱一定要幸福",
+      "onboard_time": 1678974208,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 232538,
@@ -5977,6 +6041,14 @@
       "onboard_time": 1678929506,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200547,
+      "num": 131741,
+      "word": "白敬亭烟雾氛围感随拍",
+      "onboard_time": 1678974208,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 200343,
@@ -6731,6 +6803,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 168438,
+      "num": 148241,
+      "word": "黑暗荣耀",
+      "onboard_time": 1678607064,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 166431,
       "num": 166431,
       "word": "免费评书机暗藏天价神药骗局",
@@ -7099,14 +7179,6 @@
       "category": "国内要闻,科技"
     },
     {
-      "raw_hot": 148241,
-      "num": 148241,
-      "word": "黑暗荣耀",
-      "onboard_time": 1678607064,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 147889,
       "num": 147889,
       "word": "电影保你平安",
@@ -7281,6 +7353,14 @@
       "onboard_time": 1678677387,
       "rank": 44,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 139714,
+      "num": 139714,
+      "word": "00后女孩夺世界盲人柔道大赛金牌",
+      "onboard_time": 1678974028,
+      "rank": 49,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 139422,
@@ -7723,6 +7803,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 110419,
+      "num": 110419,
+      "word": "空牛奶盒有多值钱",
+      "onboard_time": 1678975771,
+      "rank": 45,
+      "category": "其它"
+    },
+    {
       "raw_hot": 109477,
       "num": 109477,
       "word": "华晨宇录节目错过杭州抢票",
@@ -7905,14 +7993,6 @@
       "onboard_time": 1678888596,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 88534,
-      "num": 88534,
-      "word": "00后女孩夺世界盲人柔道大赛金牌",
-      "onboard_time": 1678974028,
-      "rank": 49,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 88188,

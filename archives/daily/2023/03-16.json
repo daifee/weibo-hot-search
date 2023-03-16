@@ -1,6 +1,6 @@
 {
   "startTime": 1678897636121,
-  "endTime": 1678974094222,
+  "endTime": 1678976310858,
   "band_list": [
     {
       "raw_hot": 3119338,
@@ -19,8 +19,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 2185122,
-      "num": 2185122,
+      "raw_hot": 2265985,
+      "num": 2265985,
       "word": "当我收到二月份工资",
       "onboard_time": 1678970308,
       "rank": 8,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1856521,
-      "num": 442610,
+      "num": 448514,
       "word": "宋慧乔是王家卫公司艺人",
       "onboard_time": 1678967370,
       "rank": 10,
@@ -80,6 +80,14 @@
       "word": "旅客带101管孕妇血液样本出境被查",
       "onboard_time": 1678936347,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1470942,
+      "num": 1470942,
+      "word": "丫丫吃甘蔗小心翼翼不舍得浪费",
+      "onboard_time": 1678974689,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -315,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 780119,
+      "num": 780119,
+      "word": "柠萌宣布停拍溯洄",
+      "onboard_time": 1678974389,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 748853,
       "num": 748853,
       "word": "iPhone15Pro系列或涨价",
@@ -385,6 +401,14 @@
       "onboard_time": 1678953929,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 705322,
+      "num": 705322,
+      "word": "张杰想见你大合唱",
+      "onboard_time": 1678974089,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 703742,
@@ -531,6 +555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 592312,
+      "num": 564091,
+      "word": "声生不息宝岛季",
+      "onboard_time": 1678966050,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 584695,
       "num": 584695,
       "word": "月子中心竟提供代孕服务",
@@ -553,14 +585,6 @@
       "onboard_time": 1678941511,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 564091,
-      "num": 564091,
-      "word": "声生不息宝岛季",
-      "onboard_time": 1678966050,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 554228,
@@ -625,6 +649,14 @@
       "onboard_time": 1678949127,
       "rank": 6,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 510931,
+      "num": 439765,
+      "word": "那英 好听",
+      "onboard_time": 1678974330,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 510857,
@@ -771,6 +803,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 430263,
+      "num": 430263,
+      "word": "张韶涵开场易天边回忆杀暴击",
+      "onboard_time": 1678973370,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 412755,
       "num": 412755,
       "word": "苹果员工人均为公司创收240万美元",
@@ -859,14 +899,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 382325,
-      "num": 382325,
-      "word": "张韶涵开场易天边回忆杀暴击",
-      "onboard_time": 1678973370,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 377503,
       "num": 377503,
       "word": "过敏体质要警惕咳嗽变异性哮喘",
@@ -939,6 +971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 340545,
+      "num": 340545,
+      "word": "夏花番外HE",
+      "onboard_time": 1678974509,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 338932,
       "num": 289349,
       "word": "赵露思海边双马尾造型",
@@ -1009,6 +1049,14 @@
       "onboard_time": 1678945348,
       "rank": 14,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 325636,
+      "num": 273091,
+      "word": "陈立农陈卓璇合唱好甜",
+      "onboard_time": 1678975950,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 319507,
@@ -1123,6 +1171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 283910,
+      "num": 283910,
+      "word": "Baolan投了Meiko",
+      "onboard_time": 1678972770,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 283501,
       "num": 283501,
       "word": "泰国街头偶遇徐若晗",
@@ -1137,14 +1193,6 @@
       "onboard_time": 1678958309,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 279052,
-      "num": 279052,
-      "word": "Baolan投了Meiko",
-      "onboard_time": 1678972770,
-      "rank": 31,
-      "category": "游戏"
     },
     {
       "raw_hot": 278263,
@@ -1339,6 +1387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 250234,
+      "num": 154867,
+      "word": "徐正溪还是人间适合你",
+      "onboard_time": 1678974930,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 250055,
       "num": 250055,
       "word": "运动员的孩子都走上了运动员的路",
@@ -1415,6 +1471,14 @@
       "num": 196271,
       "word": "陈立农唱暧昧",
       "onboard_time": 1678971507,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 232778,
+      "num": 152139,
+      "word": "华晨宇逆光演唱一定要幸福",
+      "onboard_time": 1678974208,
       "rank": 28,
       "category": "综艺"
     },
@@ -1561,6 +1625,14 @@
       "onboard_time": 1678929506,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200547,
+      "num": 131741,
+      "word": "白敬亭烟雾氛围感随拍",
+      "onboard_time": 1678974208,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 200343,
@@ -1827,6 +1899,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 168438,
+      "num": 123134,
+      "word": "黑暗荣耀",
+      "onboard_time": 1678975891,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 167772,
       "num": 167772,
       "word": "315点名诱骗老年人直播间均已被封",
@@ -2049,6 +2129,14 @@
       "onboard_time": 1678881808,
       "rank": 31,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 139714,
+      "num": 139714,
+      "word": "00后女孩夺世界盲人柔道大赛金牌",
+      "onboard_time": 1678974028,
+      "rank": 49,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 138805,
@@ -2275,6 +2363,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 110419,
+      "num": 110419,
+      "word": "空牛奶盒有多值钱",
+      "onboard_time": 1678975771,
+      "rank": 45,
+      "category": "其它"
+    },
+    {
       "raw_hot": 107538,
       "num": 107538,
       "word": "归路",
@@ -2321,14 +2417,6 @@
       "onboard_time": 1678960052,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 88534,
-      "num": 88534,
-      "word": "00后女孩夺世界盲人柔道大赛金牌",
-      "onboard_time": 1678974028,
-      "rank": 49,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 84915,
