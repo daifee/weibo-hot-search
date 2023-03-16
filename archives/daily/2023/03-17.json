@@ -1,6 +1,6 @@
 {
   "startTime": 1678984163342,
-  "endTime": 1678987066934,
+  "endTime": 1678988057237,
   "band_list": [
     {
       "raw_hot": 1573198,
@@ -35,6 +35,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 633397,
+      "num": 633397,
+      "word": "出生率下跌致幼儿园关停或成趋势",
+      "onboard_time": 1678984460,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 593259,
       "num": 163825,
       "word": "老婆和表侄私奔老公举报吸毒全被抓",
@@ -57,14 +65,6 @@
       "onboard_time": 1678977449,
       "rank": 4,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 518177,
-      "num": 518177,
-      "word": "出生率下跌致幼儿园关停或成趋势",
-      "onboard_time": 1678984460,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 478041,
@@ -409,6 +409,14 @@
       "onboard_time": 1678962929,
       "rank": 49,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 42653,
+      "num": 42653,
+      "word": "路晨向归晓求婚",
+      "onboard_time": 1678987817,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 39063,

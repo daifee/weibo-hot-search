@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678987066934,
+  "endTime": 1678988057237,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -6915,6 +6915,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 633397,
+      "num": 633397,
+      "word": "出生率下跌致幼儿园关停或成趋势",
+      "onboard_time": 1678984460,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 633033,
       "num": 1386232,
       "word": "建议全国统一医院电子病历",
@@ -9177,14 +9185,6 @@
       "onboard_time": 1677737844,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 518177,
-      "num": 518177,
-      "word": "出生率下跌致幼儿园关停或成趋势",
-      "onboard_time": 1678984460,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 517605,
@@ -32153,6 +32153,14 @@
       "onboard_time": 1678574834,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 42653,
+      "num": 42653,
+      "word": "路晨向归晓求婚",
+      "onboard_time": 1678987817,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 42412,
