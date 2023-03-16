@@ -1,6 +1,6 @@
 {
   "startTime": 1678897636121,
-  "endTime": 1678948693561,
+  "endTime": 1678951031271,
   "band_list": [
     {
       "raw_hot": 3119338,
@@ -67,6 +67,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1280125,
+      "num": 1280125,
+      "word": "充电时真的别玩手机",
+      "onboard_time": 1678946009,
+      "rank": 4,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1203858,
       "num": 1203858,
       "word": "姐姐放弃考研做3份家教救重病弟弟",
@@ -129,14 +137,6 @@
       "onboard_time": 1678945647,
       "rank": 3,
       "category": "影视"
-    },
-    {
-      "raw_hot": 915975,
-      "num": 915975,
-      "word": "充电时真的别玩手机",
-      "onboard_time": 1678946009,
-      "rank": 4,
-      "category": "科技"
     },
     {
       "raw_hot": 879170,
@@ -235,12 +235,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 675852,
+      "num": 464337,
+      "word": "泫雅林允合影",
+      "onboard_time": 1678949847,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 674907,
       "num": 674907,
       "word": "奥莉参加花滑比赛",
       "onboard_time": 1678929686,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 670759,
+      "num": 457983,
+      "word": "百度股价跳水",
+      "onboard_time": 1678949308,
+      "rank": 11,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 653167,
@@ -289,6 +305,14 @@
       "onboard_time": 1678933047,
       "rank": 9,
       "category": "网红"
+    },
+    {
+      "raw_hot": 600458,
+      "num": 295643,
+      "word": "百度正式发布文心一言",
+      "onboard_time": 1678949127,
+      "rank": 18,
+      "category": "科技"
     },
     {
       "raw_hot": 593108,
@@ -355,6 +379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 517144,
+      "num": 517144,
+      "word": "李一桐毕雯珺回应7岁年龄差",
+      "onboard_time": 1678949127,
+      "rank": 6,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 498067,
       "num": 498067,
       "word": "泰坦尼克号内地重映定档",
@@ -368,6 +400,14 @@
       "word": "县委书记5年跑出33000个蔬菜大棚",
       "onboard_time": 1678921939,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 491477,
+      "num": 491477,
+      "word": "女子用价值20万金刀画熊猫丫丫",
+      "onboard_time": 1678948107,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -393,6 +433,14 @@
       "onboard_time": 1678940191,
       "rank": 14,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 475392,
+      "num": 475392,
+      "word": "A股",
+      "onboard_time": 1678947867,
+      "rank": 14,
+      "category": "财经"
     },
     {
       "raw_hot": 466247,
@@ -443,12 +491,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 445319,
+      "num": 445319,
+      "word": "网友寺庙偶遇王菲",
+      "onboard_time": 1678949728,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 442908,
       "num": 442908,
       "word": "镜新皮肤爆料",
       "onboard_time": 1678931905,
       "rank": 8,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 436072,
+      "num": 436072,
+      "word": "女儿8万为父看病百万拆迁款给儿子",
+      "onboard_time": 1678949666,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 412755,
@@ -571,14 +635,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 334513,
-      "num": 334513,
-      "word": "A股",
-      "onboard_time": 1678947867,
-      "rank": 14,
-      "category": "财经"
-    },
-    {
       "raw_hot": 333928,
       "num": 333928,
       "word": "苹果工程师在开发类ChatGPT人工智能",
@@ -659,6 +715,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 298888,
+      "num": 298888,
+      "word": "刘德华导演成龙吴京电影",
+      "onboard_time": 1678949847,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 297991,
       "num": 297991,
       "word": "当医生说两种药要同时吃",
@@ -697,6 +761,14 @@
       "onboard_time": 1678931606,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 283371,
+      "num": 283371,
+      "word": "女生吃没熟发芽土豆后晕厥送医",
+      "onboard_time": 1678949248,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 277455,
@@ -787,6 +859,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 256305,
+      "num": 256305,
+      "word": "张颂文安慰网友",
+      "onboard_time": 1678947685,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 253665,
       "num": 253665,
       "word": "张雨绮谈暧昧拉扯",
@@ -875,12 +955,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 221860,
+      "num": 221860,
+      "word": "井柏然早期旧照",
+      "onboard_time": 1678949428,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 218291,
       "num": 218291,
       "word": "张译他是谁片场和猫咪对话",
       "onboard_time": 1678941212,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 217225,
+      "num": 217225,
+      "word": "孙颖莎晋级大满贯女单8强",
+      "onboard_time": 1678948588,
+      "rank": 48,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 216604,
@@ -1019,14 +1115,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 192513,
-      "num": 192513,
-      "word": "张颂文安慰网友",
-      "onboard_time": 1678947685,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 191854,
       "num": 191854,
       "word": "官方回复苏南硕放机场没有改名",
@@ -1081,6 +1169,14 @@
       "onboard_time": 1678946308,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 184632,
+      "num": 184632,
+      "word": "基金",
+      "onboard_time": 1678950328,
+      "rank": 31,
+      "category": "财经"
     },
     {
       "raw_hot": 181373,
@@ -1283,14 +1379,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 150947,
-      "num": 150947,
-      "word": "女子用价值20万金刀画熊猫丫丫",
-      "onboard_time": 1678948107,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 147889,
       "num": 147889,
       "word": "电影保你平安",
@@ -1331,6 +1419,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 137836,
+      "num": 137836,
+      "word": "光伏",
+      "onboard_time": 1678950808,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 137759,
       "num": 137759,
       "word": "白鹿王鹤棣互戴发箍路透",
@@ -1353,6 +1449,14 @@
       "onboard_time": 1678882287,
       "rank": 35,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 134181,
+      "num": 134181,
+      "word": "威少15分",
+      "onboard_time": 1678948588,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 133683,
@@ -1395,6 +1499,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 127272,
+      "num": 127272,
+      "word": "周笔畅给姚晨新电影打call",
+      "onboard_time": 1678950267,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 125941,
       "num": 125941,
       "word": "部分头盔成戴在头上的刀片",
@@ -1409,6 +1521,22 @@
       "onboard_time": 1678935565,
       "rank": 46,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 123291,
+      "num": 123291,
+      "word": "他是谁将在马来西亚播出",
+      "onboard_time": 1678950927,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 123256,
+      "num": 123256,
+      "word": "李墨之归路人设",
+      "onboard_time": 1678950387,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 122533,
@@ -1441,22 +1569,6 @@
       "onboard_time": 1678930348,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 116475,
-      "num": 116475,
-      "word": "孙颖莎晋级大满贯女单8强",
-      "onboard_time": 1678948588,
-      "rank": 48,
-      "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 115298,
-      "num": 115298,
-      "word": "威少15分",
-      "onboard_time": 1678948588,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 114311,
@@ -1575,6 +1687,14 @@
       "num": 1357846,
       "word": "开年中国经济企稳回升",
       "onboard_time": 1678888596,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 64608,
+      "num": 1098023,
+      "word": "新时代中国网络法治建设白皮书",
+      "onboard_time": 1678948708,
       "rank": 2,
       "category": "国内要闻"
     },
