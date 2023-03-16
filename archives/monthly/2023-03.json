@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678934459988,
+  "endTime": 1678935061503,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -1467,6 +1467,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1455049,
+      "num": 1455049,
+      "word": "河南下雪",
+      "onboard_time": 1678932928,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1449394,
       "num": 577472,
       "word": "中国队世锦赛5000米接力夺冠",
@@ -2313,14 +2321,6 @@
       "onboard_time": 1677663149,
       "rank": 46,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 1155929,
-      "num": 1155929,
-      "word": "河南下雪",
-      "onboard_time": 1678932928,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1151341,
@@ -5619,6 +5619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 690570,
+      "num": 690570,
+      "word": "美国女性喜欢iPhone标准机型",
+      "onboard_time": 1678931965,
+      "rank": 10,
+      "category": "科技"
+    },
+    {
       "raw_hot": 690323,
       "num": 690323,
       "word": "向太暂停直播的原因",
@@ -5985,14 +5993,6 @@
       "onboard_time": 1677903327,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 665546,
-      "num": 430860,
-      "word": "美国女性喜欢iPhone标准机型",
-      "onboard_time": 1678931965,
-      "rank": 10,
-      "category": "科技"
     },
     {
       "raw_hot": 665254,
@@ -8643,6 +8643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 517599,
+      "num": 517599,
+      "word": "无穷小亮和水哥同游西藏",
+      "onboard_time": 1678933047,
+      "rank": 9,
+      "category": "网红"
+    },
+    {
       "raw_hot": 517582,
       "num": 369861,
       "word": "许光汉单集片酬",
@@ -10091,6 +10099,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 454931,
+      "num": 454931,
+      "word": "成都又双叒提醒不要跑错机场",
+      "onboard_time": 1678931965,
+      "rank": 11,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 454305,
       "num": 391046,
       "word": "郑州一大学老师撞脸高启盛",
@@ -10635,14 +10651,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 431855,
-      "num": 431855,
-      "word": "无穷小亮和水哥同游西藏",
-      "onboard_time": 1678933047,
-      "rank": 9,
-      "category": "网红"
-    },
-    {
       "raw_hot": 431193,
       "num": 327170,
       "word": "卫国平下水道里摸尸块",
@@ -10761,14 +10769,6 @@
       "onboard_time": 1678758083,
       "rank": 33,
       "category": "财经"
-    },
-    {
-      "raw_hot": 427785,
-      "num": 427785,
-      "word": "成都又双叒提醒不要跑错机场",
-      "onboard_time": 1678931965,
-      "rank": 11,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 427602,
@@ -11129,6 +11129,14 @@
       "onboard_time": 1678782268,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 412755,
+      "num": 412755,
+      "word": "苹果员工人均为公司创收240万美元",
+      "onboard_time": 1678933283,
+      "rank": 15,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 412536,
@@ -11593,6 +11601,14 @@
       "onboard_time": 1678779810,
       "rank": 9,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 395808,
+      "num": 395808,
+      "word": "LESSERAFIM将5月1日回归",
+      "onboard_time": 1678934245,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 395719,
@@ -12939,6 +12955,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 356163,
+      "num": 356163,
+      "word": "谭松韵归晓十年前后哭戏对比",
+      "onboard_time": 1678933703,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 355899,
       "num": 195242,
       "word": "王艺迪2比3平野美宇",
@@ -13145,6 +13169,14 @@
       "onboard_time": 1677840211,
       "rank": 8,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 351538,
+      "num": 351538,
+      "word": "城管劝离工地卖盒饭摊贩被怼",
+      "onboard_time": 1678933405,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 351412,
@@ -13425,14 +13457,6 @@
       "onboard_time": 1677614711,
       "rank": 12,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 344580,
-      "num": 344580,
-      "word": "LESSERAFIM将5月1日回归",
-      "onboard_time": 1678934245,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 344578,
@@ -14563,14 +14587,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 315686,
-      "num": 315686,
-      "word": "苹果员工人均为公司创收240万美元",
-      "onboard_time": 1678933283,
-      "rank": 15,
-      "category": "科技,财经"
-    },
-    {
       "raw_hot": 315572,
       "num": 315572,
       "word": "威少被勇士放空",
@@ -15049,6 +15065,14 @@
       "onboard_time": 1678187008,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 303526,
+      "num": 303526,
+      "word": "49岁程序员转行讲历史被学校当课件",
+      "onboard_time": 1678933586,
+      "rank": 33,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 303031,
@@ -15905,6 +15929,14 @@
       "onboard_time": 1678718309,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 278930,
+      "num": 278930,
+      "word": "工地盒饭",
+      "onboard_time": 1678934245,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 278455,
@@ -16987,6 +17019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 254796,
+      "num": 254796,
+      "word": "权志龙说在准备新项目",
+      "onboard_time": 1678935027,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 254391,
       "num": 254391,
       "word": "送手机被打车主家属称双方已和解",
@@ -17187,6 +17227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 250055,
+      "num": 250055,
+      "word": "运动员的孩子都走上了运动员的路",
+      "onboard_time": 1678933225,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 250051,
       "num": 250051,
       "word": "林俊杰vlog辟谣网传内地巡演",
@@ -17289,14 +17337,6 @@
       "onboard_time": 1678862366,
       "rank": 27,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 247934,
-      "num": 247934,
-      "word": "谭松韵归晓十年前后哭戏对比",
-      "onboard_time": 1678933703,
-      "rank": 23,
-      "category": "影视"
     },
     {
       "raw_hot": 247509,
@@ -18369,14 +18409,6 @@
       "onboard_time": 1678775364,
       "rank": 23,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 228503,
-      "num": 228503,
-      "word": "城管劝离工地卖盒饭摊贩被怼",
-      "onboard_time": 1678933405,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 228479,
@@ -19616,14 +19648,6 @@
       "word": "安香怡世青赛总分183.94",
       "onboard_time": 1677906866,
       "rank": 36,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 208776,
-      "num": 205237,
-      "word": "运动员的孩子都走上了运动员的路",
-      "onboard_time": 1678933225,
-      "rank": 30,
       "category": "体育"
     },
     {
@@ -21795,14 +21819,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 192601,
-      "num": 192601,
-      "word": "49岁程序员转行讲历史被学校当课件",
-      "onboard_time": 1678933586,
-      "rank": 33,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 192442,
       "num": 192442,
       "word": "刘宇宁唱了两首一念关山OST",
@@ -22569,6 +22585,14 @@
       "onboard_time": 1678889251,
       "rank": 49,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 183580,
+      "num": 183580,
+      "word": "小美人鱼爱丽儿和王子驾车剧照",
+      "onboard_time": 1678934187,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 183369,
@@ -24755,14 +24779,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 151583,
-      "num": 151583,
-      "word": "工地盒饭",
-      "onboard_time": 1678934245,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 151405,
       "num": 151405,
       "word": "职场上不喜欢社交该怎么办",
@@ -26067,6 +26083,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 135816,
+      "num": 135816,
+      "word": "湖人vs火箭",
+      "onboard_time": 1678934607,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135715,
       "num": 135715,
       "word": "美国一大学课堂播放步步惊心",
@@ -27323,14 +27347,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 116936,
-      "num": 116936,
-      "word": "小美人鱼爱丽儿和王子驾车剧照",
-      "onboard_time": 1678934187,
-      "rank": 45,
-      "category": "影视"
-    },
-    {
       "raw_hot": 116839,
       "num": 598035,
       "word": "皮卡堂",
@@ -28233,6 +28249,14 @@
       "onboard_time": 1677883936,
       "rank": 30,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 105983,
+      "num": 105983,
+      "word": "三门峡气温骤降下起桃花雪",
+      "onboard_time": 1678934909,
+      "rank": 48,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 105566,
