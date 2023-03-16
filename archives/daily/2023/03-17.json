@@ -1,6 +1,6 @@
 {
   "startTime": 1678984163342,
-  "endTime": 1678991886771,
+  "endTime": 1678994101570,
   "band_list": [
     {
       "raw_hot": 1573198,
@@ -441,6 +441,22 @@
       "onboard_time": 1678799491,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 20363,
+      "num": 20363,
+      "word": "保你平安笑中带泪",
+      "onboard_time": 1678982005,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 13857,
+      "num": 17288,
+      "word": "LPL春季赛",
+      "onboard_time": 1678884814,
+      "rank": 49,
+      "category": "游戏"
     }
   ],
   "hotgov_list": [

@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678991886771,
+  "endTime": 1678994101570,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -32521,6 +32521,14 @@
       "onboard_time": 1677583231,
       "rank": 14,
       "category": "科技"
+    },
+    {
+      "raw_hot": 20363,
+      "num": 20363,
+      "word": "保你平安笑中带泪",
+      "onboard_time": 1678982005,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 20323,
