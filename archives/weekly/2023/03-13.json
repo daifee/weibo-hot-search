@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1678951031271,
+  "endTime": 1678952043547,
   "band_list": [
     {
       "raw_hot": 8307302,
@@ -427,8 +427,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1280125,
-      "num": 1280125,
+      "raw_hot": 1288319,
+      "num": 1288319,
       "word": "充电时真的别玩手机",
       "onboard_time": 1678946009,
       "rank": 4,
@@ -1091,6 +1091,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 807858,
+      "num": 807858,
+      "word": "女儿8万为父看病百万拆迁款给儿子",
+      "onboard_time": 1678949666,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 805854,
       "num": 805854,
       "word": "白色情人节",
@@ -1387,6 +1395,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 703742,
+      "num": 464337,
+      "word": "泫雅林允合影",
+      "onboard_time": 1678949847,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 703168,
       "num": 499149,
       "word": "李强答中外记者问",
@@ -1467,14 +1483,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 675852,
-      "num": 464337,
-      "word": "泫雅林允合影",
-      "onboard_time": 1678949847,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 674907,
       "num": 674907,
       "word": "奥莉参加花滑比赛",
@@ -1521,6 +1529,14 @@
       "onboard_time": 1678712967,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 664156,
+      "num": 295643,
+      "word": "百度正式发布文心一言",
+      "onboard_time": 1678949127,
+      "rank": 18,
+      "category": "科技"
     },
     {
       "raw_hot": 658713,
@@ -1787,14 +1803,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 600458,
-      "num": 295643,
-      "word": "百度正式发布文心一言",
-      "onboard_time": 1678949127,
-      "rank": 18,
-      "category": "科技"
-    },
-    {
       "raw_hot": 599962,
       "num": 599962,
       "word": "岳云鹏商演定了三个城市",
@@ -2009,6 +2017,14 @@
       "onboard_time": 1678844549,
       "rank": 37,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 546382,
+      "num": 546382,
+      "word": "女子用价值20万金刀画熊猫丫丫",
+      "onboard_time": 1678948107,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 545797,
@@ -2403,14 +2419,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 491477,
-      "num": 491477,
-      "word": "女子用价值20万金刀画熊猫丫丫",
-      "onboard_time": 1678948107,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 491115,
       "num": 491115,
       "word": "龚俊 会飞的大象",
@@ -2529,6 +2537,14 @@
       "onboard_time": 1678780289,
       "rank": 7,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 479983,
+      "num": 445319,
+      "word": "网友寺庙偶遇王菲",
+      "onboard_time": 1678949728,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 479817,
@@ -2755,14 +2771,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 445319,
-      "num": 445319,
-      "word": "网友寺庙偶遇王菲",
-      "onboard_time": 1678949728,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 443316,
       "num": 440424,
       "word": "阿迪达斯中国区业绩连续7季度下滑",
@@ -2841,14 +2849,6 @@
       "onboard_time": 1678801415,
       "rank": 48,
       "category": "国内要闻,旅游"
-    },
-    {
-      "raw_hot": 436072,
-      "num": 436072,
-      "word": "女儿8万为父看病百万拆迁款给儿子",
-      "onboard_time": 1678949666,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 435167,
@@ -3763,6 +3763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 336147,
+      "num": 336147,
+      "word": "刘德华导演成龙吴京电影",
+      "onboard_time": 1678949847,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 335718,
       "num": 335718,
       "word": "腾讯会议再次调整",
@@ -3955,6 +3963,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 317262,
+      "num": 317262,
+      "word": "女生吃没熟发芽土豆后晕厥送医",
+      "onboard_time": 1678949248,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 316583,
       "num": 316583,
       "word": "张学友时隔7年回归大银幕",
@@ -4131,14 +4147,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 298888,
-      "num": 298888,
-      "word": "刘德华导演成龙吴京电影",
-      "onboard_time": 1678949847,
-      "rank": 16,
-      "category": "影视"
-    },
-    {
       "raw_hot": 297991,
       "num": 297991,
       "word": "当医生说两种药要同时吃",
@@ -4233,14 +4241,6 @@
       "onboard_time": 1678701145,
       "rank": 28,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 283371,
-      "num": 283371,
-      "word": "女生吃没熟发芽土豆后晕厥送医",
-      "onboard_time": 1678949248,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 283084,
@@ -4385,6 +4385,22 @@
       "onboard_time": 1678768472,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 269825,
+      "num": 269825,
+      "word": "基金",
+      "onboard_time": 1678950328,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 269065,
+      "num": 269065,
+      "word": "张颂文安慰网友",
+      "onboard_time": 1678947685,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 268911,
@@ -4561,14 +4577,6 @@
       "onboard_time": 1678760425,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 256305,
-      "num": 256305,
-      "word": "张颂文安慰网友",
-      "onboard_time": 1678947685,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 255912,
@@ -5035,6 +5043,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 223398,
+      "num": 223398,
+      "word": "井柏然早期旧照",
+      "onboard_time": 1678949428,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 222858,
       "num": 88043,
       "word": "红海行动2今年开拍",
@@ -5049,14 +5065,6 @@
       "onboard_time": 1678855291,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 221860,
-      "num": 221860,
-      "word": "井柏然早期旧照",
-      "onboard_time": 1678949428,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 220755,
@@ -5177,6 +5185,14 @@
       "onboard_time": 1678835722,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 212873,
+      "num": 212873,
+      "word": "光伏",
+      "onboard_time": 1678950808,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 212437,
@@ -5891,14 +5907,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 184632,
-      "num": 184632,
-      "word": "基金",
-      "onboard_time": 1678950328,
-      "rank": 31,
-      "category": "财经"
-    },
-    {
       "raw_hot": 184259,
       "num": 115107,
       "word": "了不起舞社",
@@ -6299,6 +6307,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 159384,
+      "num": 159384,
+      "word": "童年的贫瘠真的会困扰一生",
+      "onboard_time": 1678946786,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 159100,
       "num": 159100,
       "word": "湊湊火锅缺斤少两被查",
@@ -6377,14 +6393,6 @@
       "onboard_time": 1678923264,
       "rank": 36,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 154825,
-      "num": 154825,
-      "word": "童年的贫瘠真的会困扰一生",
-      "onboard_time": 1678946786,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 154650,
@@ -6667,14 +6675,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 137836,
-      "num": 137836,
-      "word": "光伏",
-      "onboard_time": 1678950808,
-      "rank": 44,
-      "category": "财经"
-    },
-    {
       "raw_hot": 137759,
       "num": 137759,
       "word": "白鹿王鹤棣互戴发箍路透",
@@ -6689,6 +6689,14 @@
       "onboard_time": 1678702765,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 137096,
+      "num": 137096,
+      "word": "他是谁将在马来西亚播出",
+      "onboard_time": 1678950927,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 136129,
@@ -6873,14 +6881,6 @@
       "onboard_time": 1678935565,
       "rank": 46,
       "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 123291,
-      "num": 123291,
-      "word": "他是谁将在马来西亚播出",
-      "onboard_time": 1678950927,
-      "rank": 48,
-      "category": "影视"
     },
     {
       "raw_hot": 123256,

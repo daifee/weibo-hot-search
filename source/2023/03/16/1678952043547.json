@@ -1,0 +1,410 @@
+{
+  "runTime": 1678952043547,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1288319,
+        "num": 1288319,
+        "word": "充电时真的别玩手机",
+        "onboard_time": 1678946009,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1048244,
+        "num": 1048244,
+        "word": "刘亚仁医生因吸毒被拘捕",
+        "onboard_time": 1678946908,
+        "rank": 1,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 60375,
+        "num": 825752,
+        "word": "新时代中国网络法治建设白皮书",
+        "onboard_time": 1678948708,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 807858,
+        "num": 807858,
+        "word": "女儿8万为父看病百万拆迁款给儿子",
+        "onboard_time": 1678949666,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1780189,
+        "num": 703588,
+        "word": "央视网谈孔乙己文学",
+        "onboard_time": 1678943191,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 546382,
+        "num": 546382,
+        "word": "女子用价值20万金刀画熊猫丫丫",
+        "onboard_time": 1678948107,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 527269,
+        "num": 527269,
+        "word": "11岁奥莉腿长",
+        "onboard_time": 1678939649,
+        "rank": 6,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 511271,
+        "num": 511271,
+        "word": "女子深夜点三次外卖小哥报警救了她",
+        "onboard_time": 1678945047,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 479648,
+        "num": 479648,
+        "word": "李一桐毕雯珺回应7岁年龄差",
+        "onboard_time": 1678949127,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 478001,
+        "num": 478001,
+        "word": "A股",
+        "onboard_time": 1678947867,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 703742,
+        "num": 454278,
+        "word": "泫雅林允合影",
+        "onboard_time": 1678949847,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 639062,
+        "num": 449864,
+        "word": "百度股价跳水",
+        "onboard_time": 1678949308,
+        "rank": 11,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 479983,
+        "num": 430717,
+        "word": "网友寺庙偶遇王菲",
+        "onboard_time": 1678949728,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 396912,
+        "num": 396912,
+        "word": "韩总统坚称韩日不应再为历史恩怨对抗",
+        "onboard_time": 1678943010,
+        "rank": 13,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 372960,
+        "num": 372960,
+        "word": "姐姐放弃考研做3份家教救重病弟弟",
+        "onboard_time": 1678936886,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336147,
+        "num": 336147,
+        "word": "刘德华导演成龙吴京电影",
+        "onboard_time": 1678949847,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 331806,
+        "num": 331806,
+        "word": "欧阳娜娜晒与爸爸合照",
+        "onboard_time": 1678947927,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 317262,
+        "num": 317262,
+        "word": "女生吃没熟发芽土豆后晕厥送医",
+        "onboard_time": 1678949248,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272916,
+        "num": 272916,
+        "word": "旅客带101管孕妇血液样本出境被查",
+        "onboard_time": 1678936347,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269825,
+        "num": 269825,
+        "word": "基金",
+        "onboard_time": 1678950328,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 305852,
+        "num": 269820,
+        "word": "女子地铁上暴打男子叫嚣男人必须站着",
+        "onboard_time": 1678937605,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269065,
+        "num": 269065,
+        "word": "张颂文安慰网友",
+        "onboard_time": 1678947685,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248118,
+        "num": 248118,
+        "word": "张杰想见你想见你想见你",
+        "onboard_time": 1678938806,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225432,
+        "num": 225432,
+        "word": "河南下雪",
+        "onboard_time": 1678932928,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223398,
+        "num": 223398,
+        "word": "井柏然早期旧照",
+        "onboard_time": 1678949428,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213074,
+        "num": 213074,
+        "word": "快乐再出发",
+        "onboard_time": 1678945284,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212873,
+        "num": 212873,
+        "word": "光伏",
+        "onboard_time": 1678950808,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 207232,
+        "num": 207232,
+        "word": "迪丽热巴说想染发",
+        "onboard_time": 1678941153,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198845,
+        "num": 198845,
+        "word": "苏州机场",
+        "onboard_time": 1678937908,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180750,
+        "num": 180750,
+        "word": "主人发图解释狗被拴的原因",
+        "onboard_time": 1678943369,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 178145,
+        "num": 178145,
+        "word": "孙颖莎晋级大满贯女单8强",
+        "onboard_time": 1678948588,
+        "rank": 30,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 176568,
+        "num": 176568,
+        "word": "李荣浩成都",
+        "onboard_time": 1678948165,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 169630,
+        "num": 169630,
+        "word": "当医生说两种药要同时吃",
+        "onboard_time": 1678944148,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 167097,
+        "num": 167097,
+        "word": "王鹤棣手机壳是五花肉",
+        "onboard_time": 1678939168,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165073,
+        "num": 165073,
+        "word": "郑恺打入时代少年团内部拿签名照",
+        "onboard_time": 1678948228,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 664156,
+        "num": 164551,
+        "word": "百度正式发布文心一言",
+        "onboard_time": 1678949127,
+        "rank": 35,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 163827,
+        "num": 163827,
+        "word": "被丈夫洗过的棉拖发芽了",
+        "onboard_time": 1678936466,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159384,
+        "num": 159384,
+        "word": "童年的贫瘠真的会困扰一生",
+        "onboard_time": 1678946786,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156884,
+        "num": 156884,
+        "word": "蔡徐坤人形立牌有八米高",
+        "onboard_time": 1678941511,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146619,
+        "num": 146619,
+        "word": "阿鲁纳3比0张本智和",
+        "onboard_time": 1678946428,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137096,
+        "num": 137096,
+        "word": "他是谁将在马来西亚播出",
+        "onboard_time": 1678950927,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 136649,
+        "num": 136649,
+        "word": "杨紫现代剧原声率百分百",
+        "onboard_time": 1678940071,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 135580,
+        "num": 135580,
+        "word": "赵露思小说女主适配度",
+        "onboard_time": 1678937788,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 130702,
+        "num": 130702,
+        "word": "威少15分",
+        "onboard_time": 1678948588,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127950,
+        "num": 127950,
+        "word": "棱镜",
+        "onboard_time": 1678945348,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 122940,
+        "num": 122940,
+        "word": "沙特",
+        "onboard_time": 1678945406,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106944,
+        "num": 106944,
+        "word": "没想到李莎拉这么会唱歌",
+        "onboard_time": 1678944148,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 106651,
+        "num": 106651,
+        "word": "亚运会",
+        "onboard_time": 1678946308,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104456,
+        "num": 104456,
+        "word": "声生不息有歌之年歌单视频",
+        "onboard_time": 1678944807,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104231,
+        "num": 104231,
+        "word": "张予曦古风高马尾路透",
+        "onboard_time": 1678947507,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#推进中国式现代化关键在党#"
+    }
+  }
+}
