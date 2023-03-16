@@ -1,6 +1,6 @@
 {
   "startTime": 1678984163342,
-  "endTime": 1679002436362,
+  "endTime": 1679005078692,
   "band_list": [
     {
       "raw_hot": 1573198,
@@ -307,6 +307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 108121,
+      "num": 108121,
+      "word": "科学家在中国发现脖子最长恐龙",
+      "onboard_time": 1679002332,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 103508,
       "num": 103508,
       "word": "空牛奶盒有多值钱",
@@ -457,14 +465,6 @@
       "onboard_time": 1678884814,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 13636,
-      "num": 13636,
-      "word": "科学家在中国发现脖子最长恐龙",
-      "onboard_time": 1679002332,
-      "rank": 40,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
