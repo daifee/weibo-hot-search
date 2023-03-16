@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1678940561206,
+  "endTime": 1678941475736,
   "band_list": [
     {
       "raw_hot": 8307302,
@@ -107,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2139075,
+      "num": 2139075,
+      "word": "苏州机场",
+      "onboard_time": 1678937908,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2112746,
       "num": 2112746,
       "word": "去冰 少冰",
@@ -121,14 +129,6 @@
       "onboard_time": 1678674388,
       "rank": 10,
       "category": "影视"
-    },
-    {
-      "raw_hot": 2081104,
-      "num": 2081104,
-      "word": "苏州机场",
-      "onboard_time": 1678937908,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1994978,
@@ -193,6 +193,14 @@
       "onboard_time": 1678800452,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1746617,
+      "num": 391476,
+      "word": "女子地铁上暴打男子叫嚣男人必须站着",
+      "onboard_time": 1678937605,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1731253,
@@ -289,14 +297,6 @@
       "onboard_time": 1678882349,
       "rank": 1,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 1570227,
-      "num": 391476,
-      "word": "女子地铁上暴打男子叫嚣男人必须站着",
-      "onboard_time": 1678937605,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1559346,
@@ -403,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1305311,
+      "num": 1305311,
+      "word": "张杰想见你想见你想见你",
+      "onboard_time": 1678938806,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1303336,
       "num": 260400,
       "word": "孙明悟 备注",
@@ -435,8 +443,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1193978,
-      "num": 1193978,
+      "raw_hot": 1203858,
+      "num": 1203858,
       "word": "姐姐放弃考研做3份家教救重病弟弟",
       "onboard_time": 1678936886,
       "rank": 18,
@@ -497,14 +505,6 @@
       "onboard_time": 1678665867,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1128987,
-      "num": 1128987,
-      "word": "张杰想见你想见你想见你",
-      "onboard_time": 1678938806,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 1126953,
@@ -633,6 +633,14 @@
       "onboard_time": 1678841431,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1035645,
+      "num": 1035645,
+      "word": "11岁奥莉腿长",
+      "onboard_time": 1678939649,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 1035634,
@@ -1595,6 +1603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 616768,
+      "num": 384999,
+      "word": "杨紫现代剧原声率百分百",
+      "onboard_time": 1678940071,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 614947,
       "num": 614947,
       "word": "不良笑花里的陈妍希",
@@ -1763,6 +1779,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 576452,
+      "num": 576452,
+      "word": "炉石传说或被移出亚运项目",
+      "onboard_time": 1678937726,
+      "rank": 6,
+      "category": "游戏,体育"
+    },
+    {
       "raw_hot": 572010,
       "num": 572010,
       "word": "他是谁家暴男被妻子反杀",
@@ -1817,14 +1841,6 @@
       "onboard_time": 1678850366,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 562031,
-      "num": 562031,
-      "word": "炉石传说或被移出亚运项目",
-      "onboard_time": 1678937726,
-      "rank": 6,
-      "category": "游戏,体育"
     },
     {
       "raw_hot": 561616,
@@ -1937,14 +1953,6 @@
       "onboard_time": 1678769132,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 543287,
-      "num": 384999,
-      "word": "杨紫现代剧原声率百分百",
-      "onboard_time": 1678940071,
-      "rank": 14,
-      "category": "影视"
     },
     {
       "raw_hot": 542875,
@@ -2097,14 +2105,6 @@
       "onboard_time": 1678873827,
       "rank": 13,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 512730,
-      "num": 383405,
-      "word": "11岁奥莉腿长",
-      "onboard_time": 1678939649,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 512294,
@@ -2459,6 +2459,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 475624,
+      "num": 364249,
+      "word": "龚俊 特写",
+      "onboard_time": 1678940191,
+      "rank": 14,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 473557,
       "num": 161534,
       "word": "美国银行",
@@ -2497,6 +2505,14 @@
       "onboard_time": 1678786349,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 466247,
+      "num": 316743,
+      "word": "被丈夫洗过的棉拖发芽了",
+      "onboard_time": 1678936466,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 464564,
@@ -2603,20 +2619,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 449894,
-      "num": 316743,
-      "word": "被丈夫洗过的棉拖发芽了",
-      "onboard_time": 1678936466,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 448075,
       "num": 448075,
       "word": "瑞信",
       "onboard_time": 1678891174,
       "rank": 22,
       "category": "财经"
+    },
+    {
+      "raw_hot": 446661,
+      "num": 297332,
+      "word": "迪丽热巴说想染发",
+      "onboard_time": 1678941153,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 443316,
@@ -3627,6 +3643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 331896,
+      "num": 316152,
+      "word": "他是谁味道好大一部剧",
+      "onboard_time": 1678939288,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 330261,
       "num": 330261,
       "word": "第一次见这么细节的演技",
@@ -3721,14 +3745,6 @@
       "onboard_time": 1678775547,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 319896,
-      "num": 316152,
-      "word": "他是谁味道好大一部剧",
-      "onboard_time": 1678939288,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 319508,
@@ -3865,6 +3881,14 @@
       "onboard_time": 1678705646,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 305778,
+      "num": 305778,
+      "word": "李到晛脸部比心",
+      "onboard_time": 1678941092,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 304833,
@@ -4147,12 +4171,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 268415,
+      "num": 268415,
+      "word": "苏州 梅友机场",
+      "onboard_time": 1678940370,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 267578,
       "num": 267578,
       "word": "忠犬八公狗狗的爱都在陪伴里",
       "onboard_time": 1678763605,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 266955,
+      "num": 266955,
+      "word": "坐飞机偶遇赵今麦",
+      "onboard_time": 1678941153,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 266219,
@@ -4339,6 +4379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 251300,
+      "num": 251300,
+      "word": "父母偏心是一种什么感受",
+      "onboard_time": 1678938448,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 250979,
       "num": 250979,
       "word": "重紫大婚海报",
@@ -4369,14 +4417,6 @@
       "onboard_time": 1678862366,
       "rank": 27,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 247193,
-      "num": 247193,
-      "word": "父母偏心是一种什么感受",
-      "onboard_time": 1678938448,
-      "rank": 28,
-      "category": "影视"
     },
     {
       "raw_hot": 246692,
@@ -4483,6 +4523,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 240890,
+      "num": 240890,
+      "word": "韩流男神们近照",
+      "onboard_time": 1678939529,
+      "rank": 30,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 240731,
       "num": 1125957,
       "word": "十四届全国人大一次会议闭幕会",
@@ -4569,14 +4617,6 @@
       "onboard_time": 1678664601,
       "rank": 28,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 235322,
-      "num": 235322,
-      "word": "韩流男神们近照",
-      "onboard_time": 1678939529,
-      "rank": 30,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 233141,
@@ -4795,6 +4835,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 218291,
+      "num": 218291,
+      "word": "张译他是谁片场和猫咪对话",
+      "onboard_time": 1678941212,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 217698,
       "num": 165672,
       "word": "保你平安测试渣男技巧",
@@ -4817,6 +4865,14 @@
       "onboard_time": 1678664182,
       "rank": 29,
       "category": "音乐,时尚"
+    },
+    {
+      "raw_hot": 216237,
+      "num": 216237,
+      "word": "忠犬八公小狗演戏主要靠感情",
+      "onboard_time": 1678941212,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 216190,
@@ -4881,6 +4937,14 @@
       "onboard_time": 1678878809,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 210587,
+      "num": 210587,
+      "word": "警方回应女子地铁上殴打小伙",
+      "onboard_time": 1678940550,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 210156,
@@ -5241,14 +5305,6 @@
       "onboard_time": 1678677686,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 197208,
-      "num": 197208,
-      "word": "苏州 梅友机场",
-      "onboard_time": 1678940370,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 196348,
@@ -5811,6 +5867,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 164703,
+      "num": 164703,
+      "word": "勇士vs快船",
+      "onboard_time": 1678940791,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 164287,
       "num": 239133,
       "word": "声生不息海报",
@@ -6000,14 +6064,6 @@
       "word": "花粉过敏与感冒如何区分",
       "onboard_time": 1678756406,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 152797,
-      "num": 152797,
-      "word": "警方回应女子地铁上殴打小伙",
-      "onboard_time": 1678940550,
-      "rank": 49,
       "category": "社会新闻"
     },
     {

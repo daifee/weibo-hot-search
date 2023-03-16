@@ -1,0 +1,410 @@
+{
+  "runTime": 1678941475736,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2139075,
+        "num": 2139075,
+        "word": "苏州机场",
+        "onboard_time": 1678937908,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1445146,
+        "num": 1445146,
+        "word": "旅客带101管孕妇血液样本出境被查",
+        "onboard_time": 1678936347,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19783,
+        "num": 1357846,
+        "word": "开年中国经济企稳回升",
+        "onboard_time": 1678888596,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1305311,
+        "num": 1305311,
+        "word": "张杰想见你想见你想见你",
+        "onboard_time": 1678938806,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1203858,
+        "num": 1203858,
+        "word": "姐姐放弃考研做3份家教救重病弟弟",
+        "onboard_time": 1678936886,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1035645,
+        "num": 1035645,
+        "word": "11岁奥莉腿长",
+        "onboard_time": 1678939649,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 724492,
+        "num": 724492,
+        "word": "河南下雪",
+        "onboard_time": 1678932928,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 576452,
+        "num": 576452,
+        "word": "炉石传说或被移出亚运项目",
+        "onboard_time": 1678937726,
+        "rank": 7,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 459805,
+        "num": 459805,
+        "word": "警犬搜毒超12公斤被奖励鸡腿花环",
+        "onboard_time": 1678925727,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392083,
+        "num": 392083,
+        "word": "女大学生边读书边创业营收1800万",
+        "onboard_time": 1678923443,
+        "rank": 9,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1746617,
+        "num": 389244,
+        "word": "女子地铁上暴打男子叫嚣男人必须站着",
+        "onboard_time": 1678937605,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 805051,
+        "num": 384144,
+        "word": "赵露思小说女主适配度",
+        "onboard_time": 1678937788,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 717037,
+        "num": 376803,
+        "word": "王鹤棣手机壳是五花肉",
+        "onboard_time": 1678939168,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 616768,
+        "num": 373204,
+        "word": "杨紫现代剧原声率百分百",
+        "onboard_time": 1678940071,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 475624,
+        "num": 364249,
+        "word": "龚俊 特写",
+        "onboard_time": 1678940191,
+        "rank": 14,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 415949,
+        "num": 362870,
+        "word": "工地盒饭",
+        "onboard_time": 1678934245,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 357801,
+        "num": 357801,
+        "word": "美国女性喜欢iPhone标准机型",
+        "onboard_time": 1678931965,
+        "rank": 16,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 339798,
+        "num": 339798,
+        "word": "城管劝离工地卖盒饭摊贩被怼",
+        "onboard_time": 1678933405,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305778,
+        "num": 305778,
+        "word": "李到晛脸部比心",
+        "onboard_time": 1678941092,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 297936,
+        "num": 297936,
+        "word": "泰坦尼克号内地重映定档",
+        "onboard_time": 1678935686,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 466247,
+        "num": 297765,
+        "word": "被丈夫洗过的棉拖发芽了",
+        "onboard_time": 1678936466,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 446661,
+        "num": 297332,
+        "word": "迪丽热巴说想染发",
+        "onboard_time": 1678941153,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 331896,
+        "num": 297104,
+        "word": "他是谁味道好大一部剧",
+        "onboard_time": 1678939288,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 295402,
+        "num": 295402,
+        "word": "315曝光景区称6年来没发生意外",
+        "onboard_time": 1678928788,
+        "rank": 23,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 284111,
+        "num": 284111,
+        "word": "无穷小亮和水哥同游西藏",
+        "onboard_time": 1678933047,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 272030,
+        "num": 272030,
+        "word": "315",
+        "onboard_time": 1678922001,
+        "rank": 25,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 268415,
+        "num": 268415,
+        "word": "苏州 梅友机场",
+        "onboard_time": 1678940370,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266955,
+        "num": 266955,
+        "word": "坐飞机偶遇赵今麦",
+        "onboard_time": 1678941153,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 256646,
+        "num": 256646,
+        "word": "49岁程序员转行讲历史被学校当课件",
+        "onboard_time": 1678933586,
+        "rank": 28,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 251300,
+        "num": 251300,
+        "word": "父母偏心是一种什么感受",
+        "onboard_time": 1678938448,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 240890,
+        "num": 240890,
+        "word": "韩流男神们近照",
+        "onboard_time": 1678939529,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 231219,
+        "num": 231219,
+        "word": "苹果员工人均为公司创收240万美元",
+        "onboard_time": 1678933283,
+        "rank": 31,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 224564,
+        "num": 224564,
+        "word": "张俪发文纪念北京青年开播十周年",
+        "onboard_time": 1678935686,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 218291,
+        "num": 218291,
+        "word": "张译他是谁片场和猫咪对话",
+        "onboard_time": 1678941212,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 216237,
+        "num": 216237,
+        "word": "忠犬八公小狗演戏主要靠感情",
+        "onboard_time": 1678941212,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 214587,
+        "num": 214587,
+        "word": "iPhone15Pro系列或涨价",
+        "onboard_time": 1678926327,
+        "rank": 35,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 210587,
+        "num": 210587,
+        "word": "警方回应女子地铁上殴打小伙",
+        "onboard_time": 1678940550,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207138,
+        "num": 207138,
+        "word": "为什么网约车都不愿去天府机场",
+        "onboard_time": 1678922903,
+        "rank": 37,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 207084,
+        "num": 207084,
+        "word": "权志龙说在准备新项目",
+        "onboard_time": 1678935027,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198247,
+        "num": 198247,
+        "word": "东方甄选CEO称有问题不要攻击主播",
+        "onboard_time": 1678928548,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177287,
+        "num": 177287,
+        "word": "花开了才下雪不讲武德",
+        "onboard_time": 1678935506,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176662,
+        "num": 176662,
+        "word": "小美人鱼爱丽儿和王子驾车剧照",
+        "onboard_time": 1678934187,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 173716,
+        "num": 173716,
+        "word": "阳康后咳不停警惕咳嗽性哮喘",
+        "onboard_time": 1678936287,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166913,
+        "num": 166913,
+        "word": "成都又双叒提醒不要跑错机场",
+        "onboard_time": 1678931965,
+        "rank": 43,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 166585,
+        "num": 166585,
+        "word": "谭松韵归晓十年前后哭戏对比",
+        "onboard_time": 1678933703,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165441,
+        "num": 165441,
+        "word": "奥莉参加花滑比赛",
+        "onboard_time": 1678929686,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165167,
+        "num": 165167,
+        "word": "315晚会",
+        "onboard_time": 1678880010,
+        "rank": 46,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 164753,
+        "num": 164753,
+        "word": "LESSERAFIM将5月1日回归",
+        "onboard_time": 1678934245,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 164703,
+        "num": 164703,
+        "word": "勇士vs快船",
+        "onboard_time": 1678940791,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154408,
+        "num": 154408,
+        "word": "offer约定月薪2万1入职时变4千",
+        "onboard_time": 1678897643,
+        "rank": 49,
+        "category": "社会新闻,财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#吹灭别人的灯不会让自己更加光明#"
+    }
+  }
+}

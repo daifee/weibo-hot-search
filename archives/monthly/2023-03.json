@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678940561206,
+  "endTime": 1678941475736,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -483,6 +483,14 @@
       "category": "影视,社会新闻"
     },
     {
+      "raw_hot": 2139075,
+      "num": 2139075,
+      "word": "苏州机场",
+      "onboard_time": 1678937908,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2124485,
       "num": 2124485,
       "word": "台湾或面临史上最久缺蛋荒",
@@ -529,14 +537,6 @@
       "onboard_time": 1677850647,
       "rank": 1,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 2081104,
-      "num": 2081104,
-      "word": "苏州机场",
-      "onboard_time": 1678937908,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2062064,
@@ -923,6 +923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1746617,
+      "num": 391476,
+      "word": "女子地铁上暴打男子叫嚣男人必须站着",
+      "onboard_time": 1678937605,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1744728,
       "num": 471899,
       "word": "周星驰 周杰伦",
@@ -1248,14 +1256,6 @@
       "word": "旅俄大熊猫画风突变体重狂飙40公斤",
       "onboard_time": 1677640168,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1570227,
-      "num": 391476,
-      "word": "女子地铁上暴打男子叫嚣男人必须站着",
-      "onboard_time": 1678937605,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -1859,6 +1859,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1305311,
+      "num": 1305311,
+      "word": "张杰想见你想见你想见你",
+      "onboard_time": 1678938806,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1304753,
       "num": 551476,
       "word": "退清华考上北大博主遭质疑后删视频",
@@ -2195,6 +2203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1203858,
+      "num": 1203858,
+      "word": "姐姐放弃考研做3份家教救重病弟弟",
+      "onboard_time": 1678936886,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1201618,
       "num": 1201618,
       "word": "1.89亿天价拍卖后万辆新车被报废",
@@ -2217,14 +2233,6 @@
       "onboard_time": 1678249951,
       "rank": 12,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 1193978,
-      "num": 1193978,
-      "word": "姐姐放弃考研做3份家教救重病弟弟",
-      "onboard_time": 1678936886,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1188111,
@@ -2449,14 +2457,6 @@
       "onboard_time": 1677905069,
       "rank": 13,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1128987,
-      "num": 1128987,
-      "word": "张杰想见你想见你想见你",
-      "onboard_time": 1678938806,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 1126953,
@@ -2945,6 +2945,14 @@
       "onboard_time": 1677838107,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1035645,
+      "num": 1035645,
+      "word": "11岁奥莉腿长",
+      "onboard_time": 1678939649,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 1035634,
@@ -6771,6 +6779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 616768,
+      "num": 384999,
+      "word": "杨紫现代剧原声率百分百",
+      "onboard_time": 1678940071,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 616472,
       "num": 457421,
       "word": "公司规定不接董事长电话1次罚1万",
@@ -7395,6 +7411,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 576452,
+      "num": 576452,
+      "word": "炉石传说或被移出亚运项目",
+      "onboard_time": 1678937726,
+      "rank": 6,
+      "category": "游戏,体育"
+    },
+    {
       "raw_hot": 575627,
       "num": 575627,
       "word": "法院禁止Kakao买SM新股",
@@ -7689,14 +7713,6 @@
       "onboard_time": 1678364905,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 562031,
-      "num": 562031,
-      "word": "炉石传说或被移出亚运项目",
-      "onboard_time": 1678937726,
-      "rank": 6,
-      "category": "游戏,体育"
     },
     {
       "raw_hot": 561616,
@@ -8137,14 +8153,6 @@
       "onboard_time": 1678187428,
       "rank": 15,
       "category": "自然"
-    },
-    {
-      "raw_hot": 543287,
-      "num": 384999,
-      "word": "杨紫现代剧原声率百分百",
-      "onboard_time": 1678940071,
-      "rank": 14,
-      "category": "影视"
     },
     {
       "raw_hot": 542875,
@@ -8824,14 +8832,6 @@
       "word": "C罗为地震灾区捐赠物资",
       "onboard_time": 1678023511,
       "rank": 3,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 512730,
-      "num": 383405,
-      "word": "11岁奥莉腿长",
-      "onboard_time": 1678939649,
-      "rank": 15,
       "category": "体育"
     },
     {
@@ -9795,6 +9795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 475624,
+      "num": 364249,
+      "word": "龚俊 特写",
+      "onboard_time": 1678940191,
+      "rank": 14,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 474630,
       "num": 242064,
       "word": "郭晓婷徐海乔苍兰诀后合体",
@@ -9969,6 +9977,14 @@
       "onboard_time": 1678786349,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 466247,
+      "num": 316743,
+      "word": "被丈夫洗过的棉拖发芽了",
+      "onboard_time": 1678936466,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 466033,
@@ -10339,14 +10355,6 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 449894,
-      "num": 316743,
-      "word": "被丈夫洗过的棉拖发芽了",
-      "onboard_time": 1678936466,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 449115,
       "num": 420286,
       "word": "六级预测",
@@ -10409,6 +10417,14 @@
       "onboard_time": 1677748892,
       "rank": 19,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 446661,
+      "num": 297332,
+      "word": "迪丽热巴说想染发",
+      "onboard_time": 1678941153,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 445394,
@@ -14099,6 +14115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 331896,
+      "num": 316152,
+      "word": "他是谁味道好大一部剧",
+      "onboard_time": 1678939288,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 331551,
       "num": 557739,
       "word": "电视剧归路OST阵容",
@@ -14521,14 +14545,6 @@
       "onboard_time": 1678630709,
       "rank": 30,
       "category": "影视,影视"
-    },
-    {
-      "raw_hot": 319896,
-      "num": 316152,
-      "word": "他是谁味道好大一部剧",
-      "onboard_time": 1678939288,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 319840,
@@ -15136,6 +15152,14 @@
       "word": "TVB直播网友建议讲粤语",
       "onboard_time": 1678180107,
       "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 305778,
+      "num": 305778,
+      "word": "李到晛脸部比心",
+      "onboard_time": 1678941092,
+      "rank": 18,
       "category": "艺人"
     },
     {
@@ -16579,6 +16603,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 268415,
+      "num": 268415,
+      "word": "苏州 梅友机场",
+      "onboard_time": 1678940370,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 268384,
       "num": 268384,
       "word": "九霄寒夜暖又he又be",
@@ -16632,6 +16664,14 @@
       "word": "利路修走秀",
       "onboard_time": 1677989606,
       "rank": 32,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 266955,
+      "num": 266955,
+      "word": "坐飞机偶遇赵今麦",
+      "onboard_time": 1678941153,
+      "rank": 27,
       "category": "作品衍生"
     },
     {
@@ -17283,6 +17323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 251300,
+      "num": 251300,
+      "word": "父母偏心是一种什么感受",
+      "onboard_time": 1678938448,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 251065,
       "num": 251065,
       "word": "广东选调",
@@ -17504,14 +17552,6 @@
       "word": "邢菲哭戏",
       "onboard_time": 1677672750,
       "rank": 26,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 247193,
-      "num": 247193,
-      "word": "父母偏心是一种什么感受",
-      "onboard_time": 1678938448,
-      "rank": 28,
       "category": "影视"
     },
     {
@@ -17851,6 +17891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 240890,
+      "num": 240890,
+      "word": "韩流男神们近照",
+      "onboard_time": 1678939529,
+      "rank": 30,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 240863,
       "num": 240863,
       "word": "星落女主变植物",
@@ -18145,14 +18193,6 @@
       "onboard_time": 1678664601,
       "rank": 28,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 235322,
-      "num": 235322,
-      "word": "韩流男神们近照",
-      "onboard_time": 1678939529,
-      "rank": 30,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 235213,
@@ -19227,6 +19267,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 218291,
+      "num": 218291,
+      "word": "张译他是谁片场和猫咪对话",
+      "onboard_time": 1678941212,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 218256,
       "num": 218256,
       "word": "我们都爱笑主创近况",
@@ -19345,6 +19393,14 @@
       "onboard_time": 1678080147,
       "rank": 31,
       "category": "时尚,艺人"
+    },
+    {
+      "raw_hot": 216237,
+      "num": 216237,
+      "word": "忠犬八公小狗演戏主要靠感情",
+      "onboard_time": 1678941212,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 216153,
@@ -19673,6 +19729,14 @@
       "onboard_time": 1677648508,
       "rank": 35,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 210587,
+      "num": 210587,
+      "word": "警方回应女子地铁上殴打小伙",
+      "onboard_time": 1678940550,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 210546,
@@ -21329,14 +21393,6 @@
       "onboard_time": 1678288648,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 197208,
-      "num": 197208,
-      "word": "苏州 梅友机场",
-      "onboard_time": 1678940370,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 197205,
@@ -24123,6 +24179,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 164703,
+      "num": 164703,
+      "word": "勇士vs快船",
+      "onboard_time": 1678940791,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 164325,
       "num": 164325,
       "word": "上野千鹤子对谈戴锦华实录",
@@ -24921,14 +24985,6 @@
       "onboard_time": 1677844947,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 152797,
-      "num": 152797,
-      "word": "警方回应女子地铁上殴打小伙",
-      "onboard_time": 1678940550,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 152408,
