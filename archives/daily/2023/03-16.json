@@ -1,6 +1,6 @@
 {
   "startTime": 1678897636121,
-  "endTime": 1678943864062,
+  "endTime": 1678944820315,
   "band_list": [
     {
       "raw_hot": 2139075,
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1142533,
+      "num": 1142533,
+      "word": "央视网谈孔乙己文学",
+      "onboard_time": 1678943191,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1136086,
       "num": 1136086,
       "word": "315晚会",
@@ -97,6 +105,14 @@
       "onboard_time": 1678895607,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 910820,
+      "num": 910820,
+      "word": "韩总统坚称韩日不应再为历史恩怨对抗",
+      "onboard_time": 1678943010,
+      "rank": 30,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 879170,
@@ -259,8 +275,8 @@
       "category": "游戏,体育"
     },
     {
-      "raw_hot": 566716,
-      "num": 355143,
+      "raw_hot": 574627,
+      "num": 390299,
       "word": "蔡徐坤人形立牌有八米高",
       "onboard_time": 1678941511,
       "rank": 12,
@@ -289,6 +305,14 @@
       "onboard_time": 1678891413,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 520235,
+      "num": 520235,
+      "word": "郑恺说丁程鑫是别人家的孩子",
+      "onboard_time": 1678943489,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 498067,
@@ -339,14 +363,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 463958,
-      "num": 463958,
-      "word": "郑恺说丁程鑫是别人家的孩子",
-      "onboard_time": 1678943489,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 459525,
       "num": 311243,
       "word": "硕士爸爸解一年级数学题急出汗",
@@ -385,14 +401,6 @@
       "onboard_time": 1678931905,
       "rank": 8,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 415191,
-      "num": 217261,
-      "word": "韩总统坚称韩日不应再为历史恩怨对抗",
-      "onboard_time": 1678943010,
-      "rank": 30,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 412755,
@@ -507,6 +515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 338026,
+      "num": 338026,
+      "word": "果然娱乐喊话小鬼排练巡演",
+      "onboard_time": 1678943787,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 333928,
       "num": 333928,
       "word": "苹果工程师在开发类ChatGPT人工智能",
@@ -555,28 +571,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 305294,
-      "num": 305294,
-      "word": "果然娱乐喊话小鬼排练巡演",
-      "onboard_time": 1678943787,
-      "rank": 17,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 294193,
       "num": 294193,
       "word": "315",
       "onboard_time": 1678922001,
       "rank": 13,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 293585,
-      "num": 293585,
-      "word": "央视网谈孔乙己文学",
-      "onboard_time": 1678943191,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 290602,
@@ -608,6 +608,14 @@
       "word": "晨晓夫妇车内吻",
       "onboard_time": 1678876405,
       "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 267887,
+      "num": 267887,
+      "word": "没想到李莎拉这么会唱歌",
+      "onboard_time": 1678944148,
+      "rank": 19,
       "category": "影视"
     },
     {
@@ -763,6 +771,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 217213,
+      "num": 206602,
+      "word": "主人发图解释狗被拴的原因",
+      "onboard_time": 1678943369,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 216604,
+      "num": 216604,
+      "word": "库里50分",
+      "onboard_time": 1678944628,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 216237,
       "num": 216237,
       "word": "忠犬八公小狗演戏主要靠感情",
@@ -867,6 +891,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 191854,
+      "num": 191854,
+      "word": "官方回复苏南硕放机场没有改名",
+      "onboard_time": 1678943728,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191816,
       "num": 191816,
       "word": "白客张颂文化身调查记者探寻真相",
@@ -897,6 +929,14 @@
       "onboard_time": 1678935806,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 185062,
+      "num": 185062,
+      "word": "声生不息有歌之年歌单视频",
+      "onboard_time": 1678944807,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 181373,
@@ -937,6 +977,14 @@
       "onboard_time": 1678937726,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173142,
+      "num": 173142,
+      "word": "当医生说两种药要同时吃",
+      "onboard_time": 1678944148,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 172429,
@@ -985,14 +1033,6 @@
       "onboard_time": 1678889914,
       "rank": 25,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 167490,
-      "num": 167490,
-      "word": "官方回复苏南硕放机场没有改名",
-      "onboard_time": 1678943728,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 166015,
@@ -1057,14 +1097,6 @@
       "onboard_time": 1678877310,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 148873,
-      "num": 148873,
-      "word": "主人发图解释狗被拴的原因",
-      "onboard_time": 1678943369,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 147889,
@@ -1381,6 +1413,9 @@
     },
     {
       "word": "#吹灭别人的灯不会让自己更加光明#"
+    },
+    {
+      "word": "#新时代中国网络法治建设白皮书#"
     }
   ]
 }
