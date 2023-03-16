@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678973473298,
+  "endTime": 1678974094222,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -467,6 +467,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 2185122,
+      "num": 2185122,
+      "word": "当我收到二月份工资",
+      "onboard_time": 1678970308,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
       "raw_hot": 2174830,
       "num": 2174830,
       "word": "长期吸食奶茶杯或致闭经不孕",
@@ -721,14 +729,6 @@
       "onboard_time": 1678795769,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1888758,
-      "num": 1888758,
-      "word": "当我收到二月份工资",
-      "onboard_time": 1678970308,
-      "rank": 8,
-      "category": "情感"
     },
     {
       "raw_hot": 1884766,
@@ -7955,6 +7955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 564091,
+      "num": 564091,
+      "word": "声生不息宝岛季",
+      "onboard_time": 1678966050,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 563823,
       "num": 563823,
       "word": "熊猫七七在医院做CT",
@@ -8577,14 +8585,6 @@
       "onboard_time": 1678836744,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 535935,
-      "num": 535935,
-      "word": "声生不息宝岛季",
-      "onboard_time": 1678966050,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 535585,
@@ -11123,6 +11123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 434571,
+      "num": 434571,
+      "word": "他是谁分尸者到底是谁",
+      "onboard_time": 1678969349,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 434389,
       "num": 434389,
       "word": "星落凝成糖新滤镜",
@@ -11401,14 +11409,6 @@
       "onboard_time": 1678680569,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 424095,
-      "num": 424095,
-      "word": "他是谁分尸者到底是谁",
-      "onboard_time": 1678969349,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 423776,
@@ -12593,6 +12593,14 @@
       "onboard_time": 1678531828,
       "rank": 15,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 382325,
+      "num": 382325,
+      "word": "张韶涵开场易天边回忆杀暴击",
+      "onboard_time": 1678973370,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 381757,
@@ -15555,6 +15563,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 308577,
+      "num": 308577,
+      "word": "高叶说巩俐张曼玉是榜样",
+      "onboard_time": 1678972710,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 308451,
       "num": 308451,
       "word": "华晨宇 抢票",
@@ -16635,6 +16651,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 279052,
+      "num": 279052,
+      "word": "Baolan投了Meiko",
+      "onboard_time": 1678972770,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 278455,
       "num": 278455,
       "word": "DRG 对S组过敏",
@@ -17411,14 +17435,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 263837,
-      "num": 252536,
-      "word": "高叶说巩俐张曼玉是榜样",
-      "onboard_time": 1678972710,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 263659,
       "num": 263659,
       "word": "王鹤棣问三亚有什么好吃的",
@@ -17608,6 +17624,14 @@
       "word": "玉兰花竟然这么像小鸟",
       "onboard_time": 1678924586,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 258515,
+      "num": 258515,
+      "word": "博主回应因打假海鲜市场疑被悬赏",
+      "onboard_time": 1678968810,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -17812,7 +17836,7 @@
     },
     {
       "raw_hot": 254364,
-      "num": 197871,
+      "num": 199557,
       "word": "陈粒初舞台他夏了夏天",
       "onboard_time": 1678972650,
       "rank": 26,
@@ -17881,14 +17905,6 @@
       "onboard_time": 1677680312,
       "rank": 39,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 253311,
-      "num": 253311,
-      "word": "博主回应因打假海鲜市场疑被悬赏",
-      "onboard_time": 1678968810,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 253151,
@@ -18105,14 +18121,6 @@
       "onboard_time": 1678239446,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 249292,
-      "num": 197709,
-      "word": "张韶涵开场易天边回忆杀暴击",
-      "onboard_time": 1678973370,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 249005,
@@ -18932,7 +18940,7 @@
     },
     {
       "raw_hot": 232903,
-      "num": 195516,
+      "num": 196271,
       "word": "陈立农唱暧昧",
       "onboard_time": 1678971507,
       "rank": 28,
@@ -21691,20 +21699,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 200545,
-      "num": 187670,
-      "word": "Baolan投了Meiko",
-      "onboard_time": 1678972770,
-      "rank": 31,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 200501,
       "num": 150016,
       "word": "如何预防甲流",
       "onboard_time": 1677812727,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200343,
+      "num": 196087,
+      "word": "花琉璃",
+      "onboard_time": 1678969229,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 200318,
@@ -22297,14 +22305,6 @@
       "onboard_time": 1678272507,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 196087,
-      "num": 196087,
-      "word": "花琉璃",
-      "onboard_time": 1678969229,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 196074,
@@ -25499,6 +25499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 158268,
+      "num": 158268,
+      "word": "归路是成年人爱情的高速公路",
+      "onboard_time": 1678969110,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 158234,
       "num": 158234,
       "word": "陈钰琪新剧杀青随拍",
@@ -26491,6 +26499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 145725,
+      "num": 145725,
+      "word": "女博主用短剧还原电梯家暴事件",
+      "onboard_time": 1678971990,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145636,
       "num": 145636,
       "word": "狼队对战KSG",
@@ -26841,14 +26857,6 @@
       "onboard_time": 1678161265,
       "rank": 43,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 141415,
-      "num": 136503,
-      "word": "归路是成年人爱情的高速公路",
-      "onboard_time": 1678969110,
-      "rank": 45,
-      "category": "影视"
     },
     {
       "raw_hot": 141389,
@@ -27249,14 +27257,6 @@
       "onboard_time": 1678286492,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 136741,
-      "num": 136741,
-      "word": "女博主用短剧还原电梯家暴事件",
-      "onboard_time": 1678971990,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 136704,
@@ -30577,6 +30577,14 @@
       "onboard_time": 1677703991,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 88534,
+      "num": 88534,
+      "word": "00后女孩夺世界盲人柔道大赛金牌",
+      "onboard_time": 1678974028,
+      "rank": 49,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 88495,
