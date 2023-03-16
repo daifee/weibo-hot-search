@@ -1,6 +1,6 @@
 {
   "startTime": 1678897636121,
-  "endTime": 1678976310858,
+  "endTime": 1678977348352,
   "band_list": [
     {
       "raw_hot": 3119338,
@@ -27,6 +27,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 2149904,
+      "num": 2149904,
+      "word": "丫丫吃甘蔗小心翼翼不舍得浪费",
+      "onboard_time": 1678974689,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2139075,
       "num": 2139075,
       "word": "苏州机场",
@@ -36,7 +44,7 @@
     },
     {
       "raw_hot": 1856521,
-      "num": 448514,
+      "num": 487677,
       "word": "宋慧乔是王家卫公司艺人",
       "onboard_time": 1678967370,
       "rank": 10,
@@ -80,14 +88,6 @@
       "word": "旅客带101管孕妇血液样本出境被查",
       "onboard_time": 1678936347,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1470942,
-      "num": 1470942,
-      "word": "丫丫吃甘蔗小心翼翼不舍得浪费",
-      "onboard_time": 1678974689,
-      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -315,20 +315,20 @@
       "category": "科技"
     },
     {
+      "raw_hot": 798828,
+      "num": 798828,
+      "word": "柠萌宣布停拍溯洄",
+      "onboard_time": 1678974389,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 788846,
       "num": 788846,
       "word": "东方甄选CEO称有问题不要攻击主播",
       "onboard_time": 1678928548,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 780119,
-      "num": 780119,
-      "word": "柠萌宣布停拍溯洄",
-      "onboard_time": 1678974389,
-      "rank": 4,
-      "category": "影视"
     },
     {
       "raw_hot": 748853,
@@ -635,6 +635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 522956,
+      "num": 522956,
+      "word": "陈立农陈卓璇合唱好甜",
+      "onboard_time": 1678975950,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 520235,
       "num": 520235,
       "word": "郑恺说丁程鑫是别人家的孩子",
@@ -652,7 +660,7 @@
     },
     {
       "raw_hot": 510931,
-      "num": 439765,
+      "num": 480064,
       "word": "那英 好听",
       "onboard_time": 1678974330,
       "rank": 12,
@@ -963,20 +971,20 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 343153,
+      "num": 343153,
+      "word": "夏花番外HE",
+      "onboard_time": 1678974509,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 342828,
       "num": 342828,
       "word": "aespa确定5月回归",
       "onboard_time": 1678930465,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 340545,
-      "num": 340545,
-      "word": "夏花番外HE",
-      "onboard_time": 1678974509,
-      "rank": 17,
-      "category": "影视"
     },
     {
       "raw_hot": 338932,
@@ -1051,14 +1059,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 325636,
-      "num": 273091,
-      "word": "陈立农陈卓璇合唱好甜",
-      "onboard_time": 1678975950,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 319507,
       "num": 319507,
       "word": "gidle胜利之舞",
@@ -1113,6 +1113,14 @@
       "onboard_time": 1678972710,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 307155,
+      "num": 240081,
+      "word": "黑暗荣耀",
+      "onboard_time": 1678975891,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 305778,
@@ -1187,11 +1195,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 282325,
+      "num": 226567,
+      "word": "徐正溪还是人间适合你",
+      "onboard_time": 1678974930,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 281932,
       "num": 281932,
       "word": "尹正让大鹏给小白兔道歉",
       "onboard_time": 1678958309,
       "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 280962,
+      "num": 224278,
+      "word": "他是谁红衣女竟然还活着",
+      "onboard_time": 1678976428,
+      "rank": 26,
       "category": "影视"
     },
     {
@@ -1387,14 +1411,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 250234,
-      "num": 154867,
-      "word": "徐正溪还是人间适合你",
-      "onboard_time": 1678974930,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 250055,
       "num": 250055,
       "word": "运动员的孩子都走上了运动员的路",
@@ -1417,6 +1433,14 @@
       "onboard_time": 1678887331,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 244375,
+      "num": 244375,
+      "word": "空牛奶盒有多值钱",
+      "onboard_time": 1678975771,
+      "rank": 45,
+      "category": "其它"
     },
     {
       "raw_hot": 243054,
@@ -1476,7 +1500,7 @@
     },
     {
       "raw_hot": 232778,
-      "num": 152139,
+      "num": 197607,
       "word": "华晨宇逆光演唱一定要幸福",
       "onboard_time": 1678974208,
       "rank": 28,
@@ -1571,6 +1595,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 208706,
+      "num": 208706,
+      "word": "清清的猪八戒",
+      "onboard_time": 1678977150,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 207786,
       "num": 207786,
       "word": "唐朝诡事录2置景路透",
@@ -1628,7 +1660,7 @@
     },
     {
       "raw_hot": 200547,
-      "num": 131741,
+      "num": 169515,
       "word": "白敬亭烟雾氛围感随拍",
       "onboard_time": 1678974208,
       "rank": 36,
@@ -1705,6 +1737,22 @@
       "onboard_time": 1678923145,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 194879,
+      "num": 194879,
+      "word": "吴刚说中年人的人生也是人生",
+      "onboard_time": 1678976849,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 194460,
+      "num": 194460,
+      "word": "马嘉祺四年后再唱异类",
+      "onboard_time": 1678977091,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 194159,
@@ -1811,12 +1859,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 180995,
+      "num": 230106,
+      "word": "00后女孩夺世界盲人柔道大赛金牌",
+      "onboard_time": 1678974028,
+      "rank": 49,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 178505,
       "num": 178505,
       "word": "四川选调",
       "onboard_time": 1678935925,
       "rank": 38,
       "category": "教育"
+    },
+    {
+      "raw_hot": 178302,
+      "num": 178302,
+      "word": "龚俊洗澡唱年少有为",
+      "onboard_time": 1678977210,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 177570,
@@ -1899,14 +1963,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 168438,
-      "num": 123134,
-      "word": "黑暗荣耀",
-      "onboard_time": 1678975891,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 167772,
       "num": 167772,
       "word": "315点名诱骗老年人直播间均已被封",
@@ -1977,6 +2033,14 @@
       "onboard_time": 1678947388,
       "rank": 40,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 160684,
+      "num": 216355,
+      "word": "美军公布俄美黑海撞机画面",
+      "onboard_time": 1678976549,
+      "rank": 29,
+      "category": "军事"
     },
     {
       "raw_hot": 159511,
@@ -2129,14 +2193,6 @@
       "onboard_time": 1678881808,
       "rank": 31,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 139714,
-      "num": 139714,
-      "word": "00后女孩夺世界盲人柔道大赛金牌",
-      "onboard_time": 1678974028,
-      "rank": 49,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 138805,
@@ -2363,14 +2419,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 110419,
-      "num": 110419,
-      "word": "空牛奶盒有多值钱",
-      "onboard_time": 1678975771,
-      "rank": 45,
-      "category": "其它"
-    },
-    {
       "raw_hot": 107538,
       "num": 107538,
       "word": "归路",
@@ -2411,12 +2459,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 97903,
+      "num": 115656,
+      "word": "尹锡悦抵达日本",
+      "onboard_time": 1678976790,
+      "rank": 48,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 95914,
       "num": 95914,
       "word": "薛之谦自带音响上班",
       "onboard_time": 1678960052,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 86091,
+      "num": 114011,
+      "word": "原来真能雇人吵架啊",
+      "onboard_time": 1678977210,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 84915,
@@ -2476,7 +2540,7 @@
     },
     {
       "raw_hot": 66415,
-      "num": 997505,
+      "num": 1293621,
       "word": "新时代中国网络法治建设白皮书发布",
       "onboard_time": 1678956808,
       "rank": 2,
