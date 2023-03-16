@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1678941475736,
+  "endTime": 1678943864062,
   "band_list": [
     {
       "raw_hot": 8307302,
@@ -539,6 +539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1120635,
+      "num": 1120635,
+      "word": "11岁奥莉腿长",
+      "onboard_time": 1678939649,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1099617,
       "num": 183703,
       "word": "新上错花轿嫁对郎改名",
@@ -633,14 +641,6 @@
       "onboard_time": 1678841431,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1035645,
-      "num": 1035645,
-      "word": "11岁奥莉腿长",
-      "onboard_time": 1678939649,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 1035634,
@@ -1819,6 +1819,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 566716,
+      "num": 355143,
+      "word": "蔡徐坤人形立牌有八米高",
+      "onboard_time": 1678941511,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 565946,
       "num": 565946,
       "word": "315晚会卧底记者讲述惊险经历",
@@ -2523,6 +2531,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 463958,
+      "num": 463958,
+      "word": "郑恺说丁程鑫是别人家的孩子",
+      "onboard_time": 1678943489,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 463640,
       "num": 119473,
       "word": "钱天一3比2伊藤美诚",
@@ -2595,6 +2611,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 451978,
+      "num": 297332,
+      "word": "迪丽热巴说想染发",
+      "onboard_time": 1678941153,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 451590,
       "num": 401450,
       "word": "成都太古里水池频频坑人误踩",
@@ -2625,14 +2649,6 @@
       "onboard_time": 1678891174,
       "rank": 22,
       "category": "财经"
-    },
-    {
-      "raw_hot": 446661,
-      "num": 297332,
-      "word": "迪丽热巴说想染发",
-      "onboard_time": 1678941153,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 443316,
@@ -2921,6 +2937,14 @@
       "onboard_time": 1678811184,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 415191,
+      "num": 217261,
+      "word": "韩总统坚称韩日不应再为历史恩怨对抗",
+      "onboard_time": 1678943010,
+      "rank": 30,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 414610,
@@ -3321,6 +3345,14 @@
       "onboard_time": 1678671924,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 361118,
+      "num": 361118,
+      "word": "苏州 梅友机场",
+      "onboard_time": 1678940370,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 359844,
@@ -3891,6 +3923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 305294,
+      "num": 305294,
+      "word": "果然娱乐喊话小鬼排练巡演",
+      "onboard_time": 1678943787,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 304833,
       "num": 304833,
       "word": "黑暗荣耀花絮",
@@ -3953,6 +3993,14 @@
       "onboard_time": 1678859668,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 293585,
+      "num": 293585,
+      "word": "央视网谈孔乙己文学",
+      "onboard_time": 1678943191,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 292846,
@@ -4169,14 +4217,6 @@
       "onboard_time": 1678860925,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 268415,
-      "num": 268415,
-      "word": "苏州 梅友机场",
-      "onboard_time": 1678940370,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 267578,
@@ -4787,6 +4827,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 227374,
+      "num": 227374,
+      "word": "警方回应女子地铁上殴打小伙",
+      "onboard_time": 1678940550,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 223424,
       "num": 223424,
       "word": "成龙耍刀郭麒麟被刀耍",
@@ -4937,14 +4985,6 @@
       "onboard_time": 1678878809,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 210587,
-      "num": 210587,
-      "word": "警方回应女子地铁上殴打小伙",
-      "onboard_time": 1678940550,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 210156,
@@ -5683,6 +5723,14 @@
       "category": "艺人,影视"
     },
     {
+      "raw_hot": 177570,
+      "num": 177570,
+      "word": "勇士vs快船",
+      "onboard_time": 1678940791,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177462,
       "num": 177462,
       "word": "瑞士信贷股价暴跌",
@@ -5859,20 +5907,20 @@
       "category": "科技"
     },
     {
+      "raw_hot": 167490,
+      "num": 167490,
+      "word": "官方回复苏南硕放机场没有改名",
+      "onboard_time": 1678943728,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166431,
       "num": 166431,
       "word": "免费评书机暗藏天价神药骗局",
       "onboard_time": 1678885353,
       "rank": 44,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 164703,
-      "num": 164703,
-      "word": "勇士vs快船",
-      "onboard_time": 1678940791,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 164287,
@@ -6115,6 +6163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 148873,
+      "num": 148873,
+      "word": "主人发图解释狗被拴的原因",
+      "onboard_time": 1678943369,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 148581,
       "num": 148581,
       "word": "杨紫高马尾条纹衫路透",
@@ -6241,6 +6297,14 @@
       "onboard_time": 1678689444,
       "rank": 49,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 141785,
+      "num": 141785,
+      "word": "刘若英演唱会",
+      "onboard_time": 1678941691,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 141656,
