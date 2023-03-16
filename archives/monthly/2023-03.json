@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678977348352,
+  "endTime": 1678980049819,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -1849,6 +1849,14 @@
       "onboard_time": 1678712489,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1348759,
+      "num": 1348759,
+      "word": "243万存款被行长挪用银行拒赔",
+      "onboard_time": 1678977449,
+      "rank": 1,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 1348218,
@@ -6715,6 +6723,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 643267,
+      "num": 643267,
+      "word": "再玩下去阿姨就到家了",
+      "onboard_time": 1678977692,
+      "rank": 3,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 643250,
+      "num": 643250,
+      "word": "章昊Tomboy组第一",
+      "onboard_time": 1678978471,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 642443,
       "num": 642443,
       "word": "15个小时的新娘",
@@ -7500,7 +7524,7 @@
     },
     {
       "raw_hot": 592312,
-      "num": 564091,
+      "num": 588090,
       "word": "声生不息宝岛季",
       "onboard_time": 1678966050,
       "rank": 31,
@@ -9121,6 +9145,14 @@
       "onboard_time": 1677737844,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 517605,
+      "num": 517605,
+      "word": "美军公布俄美黑海撞机画面",
+      "onboard_time": 1678976549,
+      "rank": 29,
+      "category": "军事"
     },
     {
       "raw_hot": 517582,
@@ -11395,6 +11427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 426703,
+      "num": 426703,
+      "word": "卿卿日常三少主在回响演司机",
+      "onboard_time": 1678977751,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 426289,
       "num": 262090,
       "word": "马尔代夫恢复与伊朗外交关系",
@@ -11809,6 +11849,14 @@
       "onboard_time": 1678330648,
       "rank": 35,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 409348,
+      "num": 409348,
+      "word": "夏日入侵企画唱周杰伦暗号",
+      "onboard_time": 1678978891,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 409097,
@@ -12977,6 +13025,14 @@
       "onboard_time": 1677817892,
       "rank": 34,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 372131,
+      "num": 372131,
+      "word": "丫丫最新画面",
+      "onboard_time": 1678978828,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 372089,
@@ -15235,6 +15291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 316824,
+      "num": 316824,
+      "word": "空牛奶盒有多值钱",
+      "onboard_time": 1678975771,
+      "rank": 45,
+      "category": "其它"
+    },
+    {
       "raw_hot": 316718,
       "num": 316718,
       "word": "阿娇米兰餐厅打卡照",
@@ -17243,6 +17307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 268928,
+      "num": 268928,
+      "word": "马嘉祺四年后再唱异类",
+      "onboard_time": 1678977091,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 268911,
       "num": 257782,
       "word": "谭松韵说井柏然像来接孩子的",
@@ -18425,14 +18497,6 @@
       "onboard_time": 1678545569,
       "rank": 27,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 244375,
-      "num": 244375,
-      "word": "空牛奶盒有多值钱",
-      "onboard_time": 1678975771,
-      "rank": 45,
-      "category": "其它"
     },
     {
       "raw_hot": 244120,
@@ -20195,6 +20259,14 @@
       "category": "时尚,艺人"
     },
     {
+      "raw_hot": 216539,
+      "num": 216539,
+      "word": "尹锡悦抵达日本",
+      "onboard_time": 1678976790,
+      "rank": 48,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 216237,
       "num": 216237,
       "word": "忠犬八公小狗演戏主要靠感情",
@@ -20881,6 +20953,14 @@
       "onboard_time": 1677906866,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 206909,
+      "num": 206909,
+      "word": "事业单位HR嘲讽求职者简历",
+      "onboard_time": 1678979609,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 206869,
@@ -22683,14 +22763,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 194460,
-      "num": 194460,
-      "word": "马嘉祺四年后再唱异类",
-      "onboard_time": 1678977091,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 194298,
       "num": 194298,
       "word": "谭松韵新歌安上线",
@@ -23601,6 +23673,14 @@
       "onboard_time": 1678782688,
       "rank": 28,
       "category": "综艺,音乐"
+    },
+    {
+      "raw_hot": 186267,
+      "num": 154409,
+      "word": "归路超多吻戏",
+      "onboard_time": 1678977390,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 186252,
@@ -24891,6 +24971,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 169078,
+      "num": 117333,
+      "word": "BoysPlanet第二次公演",
+      "onboard_time": 1678977809,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168986,
       "num": 168986,
       "word": "王鹤棣费加罗三色流光封面",
@@ -25433,14 +25521,6 @@
       "onboard_time": 1678796009,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 160684,
-      "num": 216355,
-      "word": "美军公布俄美黑海撞机画面",
-      "onboard_time": 1678976549,
-      "rank": 29,
-      "category": "军事"
     },
     {
       "raw_hot": 160468,
@@ -30259,14 +30339,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 97903,
-      "num": 115656,
-      "word": "尹锡悦抵达日本",
-      "onboard_time": 1678976790,
-      "rank": 48,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 97771,
       "num": 97771,
       "word": "同曦男篮战胜广厦男篮",
@@ -30337,6 +30409,14 @@
       "onboard_time": 1678381217,
       "rank": 26,
       "category": "美食"
+    },
+    {
+      "raw_hot": 97094,
+      "num": 97094,
+      "word": "4AM海岛吃鸡",
+      "onboard_time": 1678978350,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 96963,
@@ -31153,6 +31233,14 @@
       "onboard_time": 1678712908,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 79379,
+      "num": 964960,
+      "word": "国新办发布新时代的中国网络法治建设白皮书",
+      "onboard_time": 1678978290,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 78758,
