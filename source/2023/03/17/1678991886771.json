@@ -1,0 +1,410 @@
+{
+  "runTime": 1678991886771,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 323945,
+        "num": 323945,
+        "word": "出生率下跌致幼儿园关停或成趋势",
+        "onboard_time": 1678984460,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160114,
+        "num": 160114,
+        "word": "事业单位HR嘲讽求职者简历",
+        "onboard_time": 1678979609,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10789,
+        "num": 134501,
+        "word": "国新办发布新时代的中国网络法治建设白皮书",
+        "onboard_time": 1678978290,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113467,
+        "num": 113467,
+        "word": "当我收到二月份工资",
+        "onboard_time": 1678970308,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 97364,
+        "num": 97364,
+        "word": "张远说被台湾同胞们喜欢三生有幸",
+        "onboard_time": 1678981047,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77317,
+        "num": 77317,
+        "word": "243万存款被行长挪用银行拒赔",
+        "onboard_time": 1678977449,
+        "rank": 5,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 81077,
+        "num": 76211,
+        "word": "声生不息宝岛季",
+        "onboard_time": 1678966050,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74281,
+        "num": 74281,
+        "word": "太喜欢美而自知的感觉了",
+        "onboard_time": 1678985241,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 71500,
+        "num": 71500,
+        "word": "红色通缉犯郭文贵在美国被捕",
+        "onboard_time": 1678970427,
+        "rank": 8,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 60256,
+        "num": 60256,
+        "word": "再玩下去阿姨就到家了",
+        "onboard_time": 1678977692,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152184,
+        "num": 58303,
+        "word": "宋慧乔是王家卫公司艺人",
+        "onboard_time": 1678967370,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71491,
+        "num": 57496,
+        "word": "庄慕卿父亲称儿子并非富二代",
+        "onboard_time": 1678988053,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70388,
+        "num": 56573,
+        "word": "何老师这辈子眼睛没瞪这么大过",
+        "onboard_time": 1678952728,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55478,
+        "num": 55478,
+        "word": "美军公布俄美黑海撞机画面",
+        "onboard_time": 1678976549,
+        "rank": 13,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 52375,
+        "num": 52375,
+        "word": "国防部说台湾当归",
+        "onboard_time": 1678964309,
+        "rank": 14,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 51630,
+        "num": 51630,
+        "word": "丫丫最新画面",
+        "onboard_time": 1678978828,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50681,
+        "num": 50681,
+        "word": "tangoz演我看黑暗荣耀",
+        "onboard_time": 1678983982,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 49122,
+        "num": 49122,
+        "word": "潮汕迎老爷",
+        "onboard_time": 1678980268,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45626,
+        "num": 45626,
+        "word": "坏特演我",
+        "onboard_time": 1678981824,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43318,
+        "num": 43318,
+        "word": "霸王别姬韩国再次重映",
+        "onboard_time": 1678981529,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 150053,
+        "num": 42237,
+        "word": "丫丫吃甘蔗小心翼翼不舍得浪费",
+        "onboard_time": 1678974689,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103691,
+        "num": 42227,
+        "word": "老婆和表侄私奔老公举报吸毒全被抓",
+        "onboard_time": 1678981706,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44454,
+        "num": 42131,
+        "word": "丫丫正努力吃饭等待回国",
+        "onboard_time": 1678968449,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40931,
+        "num": 40931,
+        "word": "张杰想见你大合唱",
+        "onboard_time": 1678974089,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36342,
+        "num": 36342,
+        "word": "他是谁分尸者到底是谁",
+        "onboard_time": 1678969349,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 38145,
+        "num": 35969,
+        "word": "夏日入侵企画唱周杰伦暗号",
+        "onboard_time": 1678978891,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35409,
+        "num": 35409,
+        "word": "他是谁",
+        "onboard_time": 1678966170,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 33877,
+        "num": 33877,
+        "word": "网易LOFTER致歉",
+        "onboard_time": 1678963108,
+        "rank": 27,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 33787,
+        "num": 33787,
+        "word": "卿卿日常三少主在回响演司机",
+        "onboard_time": 1678977751,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 32689,
+        "num": 32689,
+        "word": "华晨宇逆光演唱一定要幸福",
+        "onboard_time": 1678974208,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31932,
+        "num": 31932,
+        "word": "妍珍 美羊羊",
+        "onboard_time": 1678966349,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 31232,
+        "num": 31232,
+        "word": "路晨向归晓求婚",
+        "onboard_time": 1678987817,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 30787,
+        "num": 30787,
+        "word": "章昊Tomboy组第一",
+        "onboard_time": 1678978471,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30581,
+        "num": 30581,
+        "word": "孔雪儿粉衣路透",
+        "onboard_time": 1678982965,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 30378,
+        "num": 30378,
+        "word": "CBA同意新疆男篮复赛",
+        "onboard_time": 1678970849,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29979,
+        "num": 29979,
+        "word": "不敢向妈妈推荐黑暗荣耀的原因",
+        "onboard_time": 1678965868,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 28855,
+        "num": 28855,
+        "word": "魏如萱音色",
+        "onboard_time": 1678981765,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28178,
+        "num": 28178,
+        "word": "教育局回应老师让小学生拿外卖",
+        "onboard_time": 1678956868,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27876,
+        "num": 27876,
+        "word": "小猫咪有点嫉妒心怎么了",
+        "onboard_time": 1678981224,
+        "rank": 38,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 27058,
+        "num": 27058,
+        "word": "空牛奶盒有多值钱",
+        "onboard_time": 1678975771,
+        "rank": 39,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 28109,
+        "num": 27025,
+        "word": "童瑶仪态",
+        "onboard_time": 1678962929,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 26875,
+        "num": 26875,
+        "word": "微博年度热度人物",
+        "onboard_time": 1678799491,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24911,
+        "num": 24911,
+        "word": "张译他是谁热度破9000",
+        "onboard_time": 1678968511,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 24519,
+        "num": 24519,
+        "word": "夏花番外HE",
+        "onboard_time": 1678974509,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 24410,
+        "num": 24410,
+        "word": "尹锡悦抵达日本",
+        "onboard_time": 1678976790,
+        "rank": 44,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 23528,
+        "num": 23528,
+        "word": "陈立农陈卓璇合唱好甜",
+        "onboard_time": 1678975950,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22851,
+        "num": 22851,
+        "word": "研究发现猴子会有意制造工具",
+        "onboard_time": 1678965508,
+        "rank": 46,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 22227,
+        "num": 22227,
+        "word": "养狗的人都有副好脾气",
+        "onboard_time": 1678980688,
+        "rank": 47,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 21749,
+        "num": 22227,
+        "word": "秦刚同乌克兰外长库列巴通电话",
+        "onboard_time": 1678980149,
+        "rank": 48,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 17967,
+        "num": 22203,
+        "word": "Baolan投了Meiko",
+        "onboard_time": 1678972770,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#春天的启航#"
+    }
+  }
+}
