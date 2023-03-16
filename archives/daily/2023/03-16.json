@@ -1,6 +1,6 @@
 {
   "startTime": 1678897636121,
-  "endTime": 1678930570056,
+  "endTime": 1678931655796,
   "band_list": [
     {
       "raw_hot": 1433382,
@@ -59,8 +59,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 774400,
-      "num": 774400,
+      "raw_hot": 788846,
+      "num": 788846,
       "word": "东方甄选CEO称有问题不要攻击主播",
       "onboard_time": 1678928548,
       "rank": 4,
@@ -91,12 +91,36 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 674907,
+      "num": 674907,
+      "word": "奥莉参加花滑比赛",
+      "onboard_time": 1678929686,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 642443,
       "num": 642443,
       "word": "15个小时的新娘",
       "onboard_time": 1678925188,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 606047,
+      "num": 606047,
+      "word": "315曝光景区称6年来没发生意外",
+      "onboard_time": 1678928788,
+      "rank": 10,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 593108,
+      "num": 593108,
+      "word": "张纪中辟谣去医院注射生命养护针",
+      "onboard_time": 1678929807,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 584695,
@@ -131,14 +155,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 525474,
-      "num": 525474,
-      "word": "315曝光景区称6年来没发生意外",
-      "onboard_time": 1678928788,
-      "rank": 10,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 494434,
       "num": 494434,
       "word": "县委书记5年跑出33000个蔬菜大棚",
@@ -161,14 +177,6 @@
       "onboard_time": 1678898840,
       "rank": 20,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 457223,
-      "num": 457223,
-      "word": "奥莉参加花滑比赛",
-      "onboard_time": 1678929686,
-      "rank": 11,
-      "category": "体育"
     },
     {
       "raw_hot": 448075,
@@ -203,20 +211,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 398013,
-      "num": 398013,
-      "word": "张纪中辟谣去医院注射生命养护针",
-      "onboard_time": 1678929807,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 392191,
       "num": 392191,
       "word": "娜扎 微博之夜",
       "onboard_time": 1678927048,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 377503,
+      "num": 377503,
+      "word": "过敏体质要警惕咳嗽变异性哮喘",
+      "onboard_time": 1678928069,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 345125,
@@ -227,6 +235,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 342828,
+      "num": 342828,
+      "word": "aespa确定5月回归",
+      "onboard_time": 1678930465,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 338932,
       "num": 289349,
       "word": "赵露思海边双马尾造型",
@@ -235,12 +251,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 337656,
-      "num": 337656,
-      "word": "过敏体质要警惕咳嗽变异性哮喘",
-      "onboard_time": 1678928069,
-      "rank": 17,
-      "category": "社会新闻"
+      "raw_hot": 333928,
+      "num": 333928,
+      "word": "苹果工程师在开发类ChatGPT人工智能",
+      "onboard_time": 1678929327,
+      "rank": 21,
+      "category": "科技"
     },
     {
       "raw_hot": 332933,
@@ -259,20 +275,12 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 312253,
-      "num": 312253,
+      "raw_hot": 314850,
+      "num": 314850,
       "word": "EXO前夜舞蹈练习室",
       "onboard_time": 1678928369,
       "rank": 19,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 305998,
-      "num": 305998,
-      "word": "苹果工程师在开发类ChatGPT人工智能",
-      "onboard_time": 1678929327,
-      "rank": 21,
-      "category": "科技"
     },
     {
       "raw_hot": 290602,
@@ -281,14 +289,6 @@
       "onboard_time": 1678887153,
       "rank": 9,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 277833,
-      "num": 277833,
-      "word": "aespa确定5月回归",
-      "onboard_time": 1678930465,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 277455,
@@ -419,6 +419,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 200659,
+      "num": 200659,
+      "word": "上交叉综合症是什么",
+      "onboard_time": 1678929506,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200095,
       "num": 175055,
       "word": "980元一盒的鹿鞭丸检出伟哥",
@@ -457,14 +465,6 @@
       "onboard_time": 1678923145,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 188982,
-      "num": 188982,
-      "word": "上交叉综合症是什么",
-      "onboard_time": 1678929506,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 177462,
@@ -635,8 +635,8 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 119908,
-      "num": 119908,
+      "raw_hot": 122533,
+      "num": 122533,
       "word": "金智秀新专概念视频",
       "onboard_time": 1678923443,
       "rank": 46,
@@ -713,6 +713,14 @@
       "onboard_time": 1678881267,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 95073,
+      "num": 95073,
+      "word": "大鹏解释为何邀请宋茜演保你平安",
+      "onboard_time": 1678931606,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 84915,

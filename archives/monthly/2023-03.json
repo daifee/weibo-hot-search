@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678930570056,
+  "endTime": 1678931655796,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -4571,6 +4571,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 788846,
+      "num": 788846,
+      "word": "东方甄选CEO称有问题不要攻击主播",
+      "onboard_time": 1678928548,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 788270,
       "num": 321130,
       "word": "虞书欣片场掐郭敬明脖子",
@@ -4761,14 +4769,6 @@
       "onboard_time": 1678493605,
       "rank": 4,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 774400,
-      "num": 774400,
-      "word": "东方甄选CEO称有问题不要攻击主播",
-      "onboard_time": 1678928548,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 773018,
@@ -5793,6 +5793,14 @@
       "onboard_time": 1678408408,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 674907,
+      "num": 674907,
+      "word": "奥莉参加花滑比赛",
+      "onboard_time": 1678929686,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 674638,
@@ -6859,6 +6867,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 606047,
+      "num": 606047,
+      "word": "315曝光景区称6年来没发生意外",
+      "onboard_time": 1678928788,
+      "rank": 10,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 605934,
       "num": 605934,
       "word": "女子别墅被老爸60万装出浓情复古风",
@@ -7033,6 +7049,14 @@
       "onboard_time": 1678449389,
       "rank": 15,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 593108,
+      "num": 593108,
+      "word": "张纪中辟谣去医院注射生命养护针",
+      "onboard_time": 1678929807,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 592699,
@@ -8337,14 +8361,6 @@
       "onboard_time": 1678621407,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 525474,
-      "num": 525474,
-      "word": "315曝光景区称6年来没发生意外",
-      "onboard_time": 1678928788,
-      "rank": 10,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 525402,
@@ -10011,14 +10027,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 457223,
-      "num": 457223,
-      "word": "奥莉参加花滑比赛",
-      "onboard_time": 1678929686,
-      "rank": 11,
-      "category": "体育"
-    },
-    {
       "raw_hot": 456743,
       "num": 456743,
       "word": "浙江女子追到广州找到被偷的爱猫",
@@ -11467,14 +11475,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 398013,
-      "num": 398013,
-      "word": "张纪中辟谣去医院注射生命养护针",
-      "onboard_time": 1678929807,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 397628,
       "num": 397628,
       "word": "历届微博之夜名场面盘点",
@@ -12137,6 +12137,14 @@
       "onboard_time": 1678546767,
       "rank": 8,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 377503,
+      "num": 377503,
+      "word": "过敏体质要警惕咳嗽变异性哮喘",
+      "onboard_time": 1678928069,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 377074,
@@ -13491,6 +13499,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 342828,
+      "num": 342828,
+      "word": "aespa确定5月回归",
+      "onboard_time": 1678930465,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 342809,
       "num": 342809,
       "word": "LOFTER再回应头像生成器争议",
@@ -13675,14 +13691,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 337656,
-      "num": 337656,
-      "word": "过敏体质要警惕咳嗽变异性哮喘",
-      "onboard_time": 1678928069,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 337210,
       "num": 337210,
       "word": "李兰迪官宣加盟微博之夜",
@@ -13793,6 +13801,14 @@
       "onboard_time": 1678501225,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 333928,
+      "num": 333928,
+      "word": "苹果工程师在开发类ChatGPT人工智能",
+      "onboard_time": 1678929327,
+      "rank": 21,
+      "category": "科技"
     },
     {
       "raw_hot": 333696,
@@ -14531,6 +14547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 314850,
+      "num": 314850,
+      "word": "EXO前夜舞蹈练习室",
+      "onboard_time": 1678928369,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 314814,
       "num": 281272,
       "word": "委员建议为三孩家庭颁发光荣证",
@@ -14657,14 +14681,6 @@
       "onboard_time": 1677904467,
       "rank": 23,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 312253,
-      "num": 312253,
-      "word": "EXO前夜舞蹈练习室",
-      "onboard_time": 1678928369,
-      "rank": 19,
-      "category": "音乐"
     },
     {
       "raw_hot": 312187,
@@ -14897,14 +14913,6 @@
       "onboard_time": 1678705646,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 305998,
-      "num": 305998,
-      "word": "苹果工程师在开发类ChatGPT人工智能",
-      "onboard_time": 1678929327,
-      "rank": 21,
-      "category": "科技"
     },
     {
       "raw_hot": 305787,
@@ -15913,14 +15921,6 @@
       "onboard_time": 1677853648,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 277833,
-      "num": 277833,
-      "word": "aespa确定5月回归",
-      "onboard_time": 1678930465,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 277512,
@@ -20595,6 +20595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 200659,
+      "num": 200659,
+      "word": "上交叉综合症是什么",
+      "onboard_time": 1678929506,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200501,
       "num": 150016,
       "word": "如何预防甲流",
@@ -22017,14 +22025,6 @@
       "onboard_time": 1678079310,
       "rank": 37,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 188982,
-      "num": 188982,
-      "word": "上交叉综合症是什么",
-      "onboard_time": 1678929506,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 188965,
@@ -26931,6 +26931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122533,
+      "num": 122533,
+      "word": "金智秀新专概念视频",
+      "onboard_time": 1678923443,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 122265,
       "num": 122265,
       "word": "切尔西vs利兹联",
@@ -27009,14 +27017,6 @@
       "onboard_time": 1678535607,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 119908,
-      "num": 119908,
-      "word": "金智秀新专概念视频",
-      "onboard_time": 1678923443,
-      "rank": 46,
-      "category": "音乐"
     },
     {
       "raw_hot": 119835,
@@ -28793,6 +28793,14 @@
       "onboard_time": 1678261346,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 95073,
+      "num": 95073,
+      "word": "大鹏解释为何邀请宋茜演保你平安",
+      "onboard_time": 1678931606,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 94894,
