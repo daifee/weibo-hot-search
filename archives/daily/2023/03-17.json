@@ -1,6 +1,6 @@
 {
   "startTime": 1678984163342,
-  "endTime": 1679006050679,
+  "endTime": 1679008722312,
   "band_list": [
     {
       "raw_hot": 1573198,
@@ -19,6 +19,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 911856,
+      "num": 633397,
+      "word": "出生率下跌致幼儿园关停或成趋势",
+      "onboard_time": 1678984460,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 699230,
       "num": 163826,
       "word": "丫丫吃甘蔗小心翼翼不舍得浪费",
@@ -33,14 +41,6 @@
       "onboard_time": 1678967370,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 633397,
-      "num": 633397,
-      "word": "出生率下跌致幼儿园关停或成趋势",
-      "onboard_time": 1678984460,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 593259,
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 281892,
+      "num": 281892,
+      "word": "科学家在中国发现脖子最长恐龙",
+      "onboard_time": 1679002332,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 251017,
       "num": 251017,
       "word": "章昊Tomboy组第一",
@@ -137,6 +145,14 @@
       "onboard_time": 1678978891,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 224072,
+      "num": 135844,
+      "word": "阿森纳淘汰",
+      "onboard_time": 1679007978,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 218966,
@@ -169,6 +185,22 @@
       "onboard_time": 1678977751,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 191863,
+      "num": 135339,
+      "word": "教育局回应老师让小学生拿外卖",
+      "onboard_time": 1678956868,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 166957,
+      "num": 132103,
+      "word": "庄慕卿父亲称儿子并非富二代",
+      "onboard_time": 1678988053,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 166124,
@@ -235,20 +267,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 141820,
-      "num": 141820,
+      "raw_hot": 142556,
+      "num": 142556,
       "word": "太喜欢美而自知的感觉了",
       "onboard_time": 1678985241,
       "rank": 9,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 141557,
-      "num": 141557,
-      "word": "科学家在中国发现脖子最长恐龙",
-      "onboard_time": 1679002332,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 136694,
@@ -275,14 +299,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 135339,
-      "num": 135339,
-      "word": "教育局回应老师让小学生拿外卖",
-      "onboard_time": 1678956868,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 126471,
       "num": 126471,
       "word": "陈立农陈卓璇合唱好甜",
@@ -291,11 +307,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125242,
+      "num": 125242,
+      "word": "褚晓羽走了许幻山的老路",
+      "onboard_time": 1679008700,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 118718,
       "num": 118718,
       "word": "不敢向妈妈推荐黑暗荣耀的原因",
       "onboard_time": 1678965868,
       "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 118158,
+      "num": 118158,
+      "word": "路晨向归晓求婚",
+      "onboard_time": 1678987817,
+      "rank": 42,
       "category": "影视"
     },
     {
@@ -411,14 +443,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 71491,
-      "num": 68092,
-      "word": "庄慕卿父亲称儿子并非富二代",
-      "onboard_time": 1678988053,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 67524,
       "num": 67524,
       "word": "利比亚丢失2.5吨天然铀",
@@ -427,11 +451,11 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 42653,
-      "num": 42653,
-      "word": "路晨向归晓求婚",
-      "onboard_time": 1678987817,
-      "rank": 42,
+      "raw_hot": 57335,
+      "num": 57335,
+      "word": "他是谁红衣女竟然还活着",
+      "onboard_time": 1678976428,
+      "rank": 33,
       "category": "影视"
     },
     {
@@ -441,6 +465,14 @@
       "onboard_time": 1678978290,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 37738,
+      "num": 37738,
+      "word": "妍珍徒步换双鞋吧",
+      "onboard_time": 1678970551,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 26875,
