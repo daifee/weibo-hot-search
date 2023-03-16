@@ -1,6 +1,6 @@
 {
   "startTime": 1678897636121,
-  "endTime": 1678931655796,
+  "endTime": 1678934459988,
   "band_list": [
     {
       "raw_hot": 1433382,
@@ -17,6 +17,14 @@
       "onboard_time": 1678922903,
       "rank": 41,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 1155929,
+      "num": 1155929,
+      "word": "河南下雪",
+      "onboard_time": 1678932928,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1136086,
@@ -97,6 +105,14 @@
       "onboard_time": 1678929686,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 665546,
+      "num": 430860,
+      "word": "美国女性喜欢iPhone标准机型",
+      "onboard_time": 1678931965,
+      "rank": 10,
+      "category": "科技"
     },
     {
       "raw_hot": 642443,
@@ -187,6 +203,30 @@
       "category": "财经"
     },
     {
+      "raw_hot": 442908,
+      "num": 442908,
+      "word": "镜新皮肤爆料",
+      "onboard_time": 1678931905,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 431855,
+      "num": 431855,
+      "word": "无穷小亮和水哥同游西藏",
+      "onboard_time": 1678933047,
+      "rank": 9,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 427785,
+      "num": 427785,
+      "word": "成都又双叒提醒不要跑错机场",
+      "onboard_time": 1678931965,
+      "rank": 11,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 407899,
       "num": 174233,
       "word": "好利来半熟芝士包装内密封着头发",
@@ -235,6 +275,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 344580,
+      "num": 344580,
+      "word": "LESSERAFIM将5月1日回归",
+      "onboard_time": 1678934245,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 342828,
       "num": 342828,
       "word": "aespa确定5月回归",
@@ -273,6 +321,14 @@
       "onboard_time": 1678881506,
       "rank": 22,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 315686,
+      "num": 315686,
+      "word": "苹果员工人均为公司创收240万美元",
+      "onboard_time": 1678933283,
+      "rank": 15,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 314850,
@@ -363,12 +419,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 248928,
+      "num": 248928,
+      "word": "大鹏解释为何邀请宋茜演保你平安",
+      "onboard_time": 1678931606,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 248887,
       "num": 248887,
       "word": "315曝光ETC卡禁用短信骗局",
       "onboard_time": 1678886432,
       "rank": 16,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 247934,
+      "num": 247934,
+      "word": "谭松韵归晓十年前后哭戏对比",
+      "onboard_time": 1678933703,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 246306,
@@ -395,12 +467,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 233135,
+      "num": 233135,
+      "word": "陈都灵孤舟旗袍装路透",
+      "onboard_time": 1678932264,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 228503,
+      "num": 228503,
+      "word": "城管劝离工地卖盒饭摊贩被怼",
+      "onboard_time": 1678933405,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 213877,
       "num": 213877,
       "word": "迪丽热巴黑西装裙花絮",
       "onboard_time": 1678925009,
       "rank": 29,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 208776,
+      "num": 205237,
+      "word": "运动员的孩子都走上了运动员的路",
+      "onboard_time": 1678933225,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 207786,
@@ -467,12 +563,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 192601,
+      "num": 192601,
+      "word": "49岁程序员转行讲历史被学校当课件",
+      "onboard_time": 1678933586,
+      "rank": 33,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 177462,
       "num": 177462,
       "word": "瑞士信贷股价暴跌",
       "onboard_time": 1678894769,
       "rank": 19,
       "category": "财经"
+    },
+    {
+      "raw_hot": 172429,
+      "num": 172429,
+      "word": "路晨归晓十年前分手的原因",
+      "onboard_time": 1678932564,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 172146,
@@ -563,6 +675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 151583,
+      "num": 151583,
+      "word": "工地盒饭",
+      "onboard_time": 1678934245,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143254,
       "num": 143254,
       "word": "欧冠8强出炉",
@@ -643,6 +763,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 121974,
+      "num": 121974,
+      "word": "引起花粉过敏的元凶究竟是什么",
+      "onboard_time": 1678933466,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 119816,
       "num": 119816,
       "word": "龚俊 会飞的大象",
@@ -656,6 +784,14 @@
       "word": "路晨看归晓的眼神满是宠溺",
       "onboard_time": 1678930348,
       "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 116936,
+      "num": 116936,
+      "word": "小美人鱼爱丽儿和王子驾车剧照",
+      "onboard_time": 1678934187,
+      "rank": 45,
       "category": "影视"
     },
     {
@@ -713,14 +849,6 @@
       "onboard_time": 1678881267,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 95073,
-      "num": 95073,
-      "word": "大鹏解释为何邀请宋茜演保你平安",
-      "onboard_time": 1678931606,
-      "rank": 49,
-      "category": "影视"
     },
     {
       "raw_hot": 84915,
