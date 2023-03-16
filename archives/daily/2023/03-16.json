@@ -1,6 +1,6 @@
 {
   "startTime": 1678897636121,
-  "endTime": 1678962025197,
+  "endTime": 1678963012222,
   "band_list": [
     {
       "raw_hot": 3119338,
@@ -308,7 +308,7 @@
     },
     {
       "raw_hot": 703393,
-      "num": 537150,
+      "num": 548598,
       "word": "徐冬冬说自己永远火不了",
       "onboard_time": 1678958128,
       "rank": 11,
@@ -345,6 +345,14 @@
       "onboard_time": 1678949127,
       "rank": 18,
       "category": "科技"
+    },
+    {
+      "raw_hot": 658613,
+      "num": 658613,
+      "word": "韩剧溯洄",
+      "onboard_time": 1678960950,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 653167,
@@ -435,6 +443,14 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 575519,
+      "num": 575519,
+      "word": "你会为了另一半辞职吗",
+      "onboard_time": 1678961907,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 574627,
       "num": 390299,
       "word": "蔡徐坤人形立牌有八米高",
@@ -500,7 +516,7 @@
     },
     {
       "raw_hot": 510857,
-      "num": 482714,
+      "num": 491511,
       "word": "双塔偶遇陈飞宇录节目",
       "onboard_time": 1678959151,
       "rank": 30,
@@ -587,14 +603,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 458813,
-      "num": 458813,
-      "word": "韩剧溯洄",
-      "onboard_time": 1678960950,
-      "rank": 13,
-      "category": "影视"
-    },
-    {
       "raw_hot": 454931,
       "num": 454931,
       "word": "成都又双叒提醒不要跑错机场",
@@ -651,20 +659,20 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 403788,
+      "num": 403788,
+      "word": "恢复涉外营业性演出的受理审批",
+      "onboard_time": 1678958309,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 399622,
       "num": 289832,
       "word": "费曼 无蒸鱼我劝你睡觉别睡得太深",
       "onboard_time": 1678876888,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 398830,
-      "num": 398830,
-      "word": "恢复涉外营业性演出的受理审批",
-      "onboard_time": 1678958309,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 395808,
@@ -843,6 +851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 308727,
+      "num": 308727,
+      "word": "白夜追凶2组讯",
+      "onboard_time": 1678962089,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 305778,
       "num": 305778,
       "word": "李到晛脸部比心",
@@ -905,14 +921,6 @@
       "onboard_time": 1678956391,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 283215,
-      "num": 283215,
-      "word": "你会为了另一半辞职吗",
-      "onboard_time": 1678961907,
-      "rank": 17,
-      "category": "影视"
     },
     {
       "raw_hot": 281932,
@@ -1187,6 +1195,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 211702,
+      "num": 211702,
+      "word": "毕业怎么写最刀",
+      "onboard_time": 1678962268,
+      "rank": 25,
+      "category": "教育,情感"
+    },
+    {
       "raw_hot": 209313,
       "num": 209313,
       "word": "多家腌菜店公告称愿接受网友监督",
@@ -1219,12 +1235,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 204906,
+      "num": 204906,
+      "word": "时代少年团为马嘉祺声生不息打call",
+      "onboard_time": 1678962268,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 203081,
       "num": 203081,
       "word": "多地连夜处置315晚会曝光企业",
       "onboard_time": 1678929625,
       "rank": 31,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 203030,
+      "num": 194479,
+      "word": "童瑶仪态",
+      "onboard_time": 1678962929,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 202972,
@@ -1579,6 +1611,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 153076,
+      "num": 153076,
+      "word": "T1战胜DK",
+      "onboard_time": 1678960889,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 152475,
       "num": 152475,
       "word": "他是谁",
@@ -1673,14 +1713,6 @@
       "onboard_time": 1678925668,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 137588,
-      "num": 137588,
-      "word": "T1战胜DK",
-      "onboard_time": 1678960889,
-      "rank": 36,
-      "category": "游戏"
     },
     {
       "raw_hot": 137096,
@@ -1889,6 +1921,14 @@
       "onboard_time": 1678934909,
       "rank": 48,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 96450,
+      "num": 96450,
+      "word": "利比亚丢失2.5吨天然铀",
+      "onboard_time": 1678962929,
+      "rank": 48,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 95914,

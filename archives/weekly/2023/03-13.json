@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1678962025197,
+  "endTime": 1678963012222,
   "band_list": [
     {
       "raw_hot": 8307302,
@@ -1460,7 +1460,7 @@
     },
     {
       "raw_hot": 703393,
-      "num": 537150,
+      "num": 548598,
       "word": "徐冬冬说自己永远火不了",
       "onboard_time": 1678958128,
       "rank": 11,
@@ -1617,6 +1617,14 @@
       "onboard_time": 1678787731,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 658613,
+      "num": 658613,
+      "word": "韩剧溯洄",
+      "onboard_time": 1678960950,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 654093,
@@ -1961,6 +1969,14 @@
       "onboard_time": 1678937726,
       "rank": 6,
       "category": "游戏,体育"
+    },
+    {
+      "raw_hot": 575519,
+      "num": 575519,
+      "word": "你会为了另一半辞职吗",
+      "onboard_time": 1678961907,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 574627,
@@ -2340,7 +2356,7 @@
     },
     {
       "raw_hot": 510857,
-      "num": 482714,
+      "num": 491511,
       "word": "双塔偶遇陈飞宇录节目",
       "onboard_time": 1678959151,
       "rank": 30,
@@ -2777,14 +2793,6 @@
       "onboard_time": 1678898840,
       "rank": 20,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 458813,
-      "num": 458813,
-      "word": "韩剧溯洄",
-      "onboard_time": 1678960950,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 456416,
@@ -3259,6 +3267,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 403788,
+      "num": 403788,
+      "word": "恢复涉外营业性演出的受理审批",
+      "onboard_time": 1678958309,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 401880,
       "num": 401880,
       "word": "张艺谋监制电竞剧英雄联盟",
@@ -3272,14 +3288,6 @@
       "word": "男童患白血病保险公司拒绝续保",
       "onboard_time": 1678767751,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 398830,
-      "num": 398830,
-      "word": "恢复涉外营业性演出的受理审批",
-      "onboard_time": 1678958309,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -4179,6 +4187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 308727,
+      "num": 308727,
+      "word": "白夜追凶2组讯",
+      "onboard_time": 1678962089,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 308704,
       "num": 308704,
       "word": "美联储就硅谷银行事件出手干预",
@@ -4369,14 +4385,6 @@
       "onboard_time": 1678956391,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 283215,
-      "num": 283215,
-      "word": "你会为了另一半辞职吗",
-      "onboard_time": 1678961907,
-      "rank": 17,
-      "category": "影视"
     },
     {
       "raw_hot": 283084,
@@ -5363,6 +5371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 211702,
+      "num": 211702,
+      "word": "毕业怎么写最刀",
+      "onboard_time": 1678962268,
+      "rank": 25,
+      "category": "教育,情感"
+    },
+    {
       "raw_hot": 210963,
       "num": 210963,
       "word": "PUBG",
@@ -5523,6 +5539,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 204906,
+      "num": 204906,
+      "word": "时代少年团为马嘉祺声生不息打call",
+      "onboard_time": 1678962268,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 204791,
       "num": 204791,
       "word": "关继威奥斯卡最佳男配角",
@@ -5569,6 +5593,14 @@
       "onboard_time": 1678929625,
       "rank": 31,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 203030,
+      "num": 194479,
+      "word": "童瑶仪态",
+      "onboard_time": 1678962929,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 202972,
@@ -6619,6 +6651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153076,
+      "num": 153076,
+      "word": "T1战胜DK",
+      "onboard_time": 1678960889,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 152402,
       "num": 152402,
       "word": "被救者全家给挡刀受伤老民警送锦旗",
@@ -6913,14 +6953,6 @@
       "onboard_time": 1678925668,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 137588,
-      "num": 137588,
-      "word": "T1战胜DK",
-      "onboard_time": 1678960889,
-      "rank": 36,
-      "category": "游戏"
     },
     {
       "raw_hot": 137325,
@@ -7409,6 +7441,14 @@
       "onboard_time": 1678725558,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 96450,
+      "num": 96450,
+      "word": "利比亚丢失2.5吨天然铀",
+      "onboard_time": 1678962929,
+      "rank": 48,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 95914,
