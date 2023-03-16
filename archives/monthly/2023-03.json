@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678980986867,
+  "endTime": 1678984163342,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -1305,6 +1305,14 @@
       "onboard_time": 1678064906,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1573198,
+      "num": 1573198,
+      "word": "事业单位HR嘲讽求职者简历",
+      "onboard_time": 1678979609,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1570659,
@@ -3755,6 +3763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 918222,
+      "num": 918222,
+      "word": "张远说被台湾同胞们喜欢三生有幸",
+      "onboard_time": 1678981047,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 915478,
       "num": 261131,
       "word": "马琳",
@@ -5576,14 +5592,6 @@
       "word": "上海宜家回应禁止在仓库拍照",
       "onboard_time": 1678207758,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 721972,
-      "num": 721972,
-      "word": "事业单位HR嘲讽求职者简历",
-      "onboard_time": 1678979609,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -7505,6 +7513,14 @@
       "onboard_time": 1678158505,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 593259,
+      "num": 163825,
+      "word": "老婆和表侄私奔老公举报吸毒全被抓",
+      "onboard_time": 1678981706,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 593176,
@@ -10177,6 +10193,14 @@
       "onboard_time": 1678889914,
       "rank": 16,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 478041,
+      "num": 478041,
+      "word": "霸王别姬韩国再次重映",
+      "onboard_time": 1678981529,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 477705,
@@ -16321,6 +16345,14 @@
       "onboard_time": 1677850887,
       "rank": 16,
       "category": "音乐,影视"
+    },
+    {
+      "raw_hot": 290946,
+      "num": 290946,
+      "word": "潮汕迎老爷",
+      "onboard_time": 1678980268,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 290915,
@@ -25323,6 +25355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 163752,
+      "num": 163752,
+      "word": "坏特演我",
+      "onboard_time": 1678981824,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 163701,
       "num": 163701,
       "word": "阿森纳vs伯恩茅斯",
@@ -25657,6 +25697,14 @@
       "onboard_time": 1678624527,
       "rank": 1,
       "category": "科技,国内要闻"
+    },
+    {
+      "raw_hot": 158794,
+      "num": 158794,
+      "word": "小猫咪有点嫉妒心怎么了",
+      "onboard_time": 1678981224,
+      "rank": 24,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 158744,
@@ -26115,6 +26163,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 152809,
+      "num": 152809,
+      "word": "tangoz演我看黑暗荣耀",
+      "onboard_time": 1678983982,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 152408,
       "num": 152408,
       "word": "LOFTER平台AI绘画功能遭用户质疑",
@@ -26545,6 +26601,14 @@
       "onboard_time": 1677891565,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 148046,
+      "num": 148046,
+      "word": "孔雪儿粉衣路透",
+      "onboard_time": 1678982965,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 147972,
@@ -27531,6 +27595,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 136399,
+      "num": 135731,
+      "word": "魏如萱音色",
+      "onboard_time": 1678981765,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 136224,
       "num": 199961,
       "word": "UFC285",
@@ -27561,6 +27633,14 @@
       "onboard_time": 1678704147,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 136056,
+      "num": 136056,
+      "word": "养狗的人都有副好脾气",
+      "onboard_time": 1678980688,
+      "rank": 48,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 135929,
@@ -27865,14 +27945,6 @@
       "onboard_time": 1678794748,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 132712,
-      "num": 132712,
-      "word": "潮汕迎老爷",
-      "onboard_time": 1678980268,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 132708,
@@ -30761,14 +30833,6 @@
       "onboard_time": 1678587744,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 89758,
-      "num": 89758,
-      "word": "养狗的人都有副好脾气",
-      "onboard_time": 1678980688,
-      "rank": 48,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 89658,
