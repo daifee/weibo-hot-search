@@ -1,0 +1,410 @@
+{
+  "runTime": 1678973473298,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1888758,
+        "num": 1888758,
+        "word": "当我收到二月份工资",
+        "onboard_time": 1678970308,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1269282,
+        "num": 1269282,
+        "word": "红色通缉犯郭文贵在美国被捕",
+        "onboard_time": 1678970427,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 33558,
+        "num": 981202,
+        "word": "新时代中国网络法治建设白皮书发布",
+        "onboard_time": 1678956808,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 782722,
+        "num": 782722,
+        "word": "柠萌影视声明",
+        "onboard_time": 1678965508,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1364033,
+        "num": 730617,
+        "word": "丫丫正努力吃饭等待回国",
+        "onboard_time": 1678968449,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 640898,
+        "num": 640898,
+        "word": "CBA同意新疆男篮复赛",
+        "onboard_time": 1678970849,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 573295,
+        "num": 573295,
+        "word": "国防部说台湾当归",
+        "onboard_time": 1678964309,
+        "rank": 6,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 569703,
+        "num": 569703,
+        "word": "那英张杰华晨宇马嘉祺唱征服",
+        "onboard_time": 1678969528,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 535935,
+        "num": 535935,
+        "word": "声生不息宝岛季",
+        "onboard_time": 1678966050,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 452001,
+        "num": 452001,
+        "word": "网易LOFTER致歉",
+        "onboard_time": 1678963108,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1558055,
+        "num": 442610,
+        "word": "宋慧乔是王家卫公司艺人",
+        "onboard_time": 1678967370,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 726919,
+        "num": 441050,
+        "word": "何老师这辈子眼睛没瞪这么大过",
+        "onboard_time": 1678952728,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 430759,
+        "num": 430759,
+        "word": "比亚迪发布会",
+        "onboard_time": 1678968810,
+        "rank": 12,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 424095,
+        "num": 424095,
+        "word": "他是谁分尸者到底是谁",
+        "onboard_time": 1678969349,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 423408,
+        "num": 423408,
+        "word": "教育局回应老师让小学生拿外卖",
+        "onboard_time": 1678956868,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354658,
+        "num": 354658,
+        "word": "童瑶仪态",
+        "onboard_time": 1678962929,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 338593,
+        "num": 338593,
+        "word": "张译他是谁热度破9000",
+        "onboard_time": 1678968511,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 319507,
+        "num": 319507,
+        "word": "gidle胜利之舞",
+        "onboard_time": 1678972592,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 296972,
+        "num": 296972,
+        "word": "妍珍 美羊羊",
+        "onboard_time": 1678966349,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 253311,
+        "num": 253311,
+        "word": "博主回应因打假海鲜市场疑被悬赏",
+        "onboard_time": 1678968810,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285560,
+        "num": 252821,
+        "word": "不敢向妈妈推荐黑暗荣耀的原因",
+        "onboard_time": 1678965868,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 263837,
+        "num": 252536,
+        "word": "高叶说巩俐张曼玉是榜样",
+        "onboard_time": 1678972710,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250685,
+        "num": 250685,
+        "word": "利比亚丢失2.5吨天然铀",
+        "onboard_time": 1678962929,
+        "rank": 22,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 219536,
+        "num": 219536,
+        "word": "充电时真的别玩手机",
+        "onboard_time": 1678946009,
+        "rank": 23,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 201954,
+        "num": 201954,
+        "word": "女儿8万为父看病百万拆迁款给儿子",
+        "onboard_time": 1678949666,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259716,
+        "num": 200041,
+        "word": "他是谁",
+        "onboard_time": 1678966170,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 254364,
+        "num": 197871,
+        "word": "陈粒初舞台他夏了夏天",
+        "onboard_time": 1678972650,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249292,
+        "num": 197709,
+        "word": "张韶涵开场易天边回忆杀暴击",
+        "onboard_time": 1678973370,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232903,
+        "num": 195516,
+        "word": "陈立农唱暧昧",
+        "onboard_time": 1678971507,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193649,
+        "num": 193649,
+        "word": "熊猫叉腰与饲养员理论",
+        "onboard_time": 1678956149,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 206729,
+        "num": 191839,
+        "word": "吴磊拍日落",
+        "onboard_time": 1678969290,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200545,
+        "num": 187670,
+        "word": "Baolan投了Meiko",
+        "onboard_time": 1678972770,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 176643,
+        "num": 176643,
+        "word": "花琉璃",
+        "onboard_time": 1678969229,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 149898,
+        "num": 175719,
+        "word": "RNG战胜UP",
+        "onboard_time": 1678971208,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 146692,
+        "num": 175426,
+        "word": "研究发现猴子会有意制造工具",
+        "onboard_time": 1678965508,
+        "rank": 34,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 175390,
+        "num": 175390,
+        "word": "妍珍徒步换双鞋吧",
+        "onboard_time": 1678970551,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 164586,
+        "num": 164586,
+        "word": "光渊 复播",
+        "onboard_time": 1678957469,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 156150,
+        "num": 156150,
+        "word": "别来无恙",
+        "onboard_time": 1678966887,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 143667,
+        "num": 143667,
+        "word": "央视网谈孔乙己文学",
+        "onboard_time": 1678943191,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136741,
+        "num": 136741,
+        "word": "女博主用短剧还原电梯家暴事件",
+        "onboard_time": 1678971990,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154108,
+        "num": 136621,
+        "word": "肖战米兰探店黑西装随拍",
+        "onboard_time": 1678954348,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 141415,
+        "num": 136503,
+        "word": "归路是成年人爱情的高速公路",
+        "onboard_time": 1678969110,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 136361,
+        "num": 136361,
+        "word": "一生一世日本定档",
+        "onboard_time": 1678966827,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 135228,
+        "num": 135228,
+        "word": "伏明霞",
+        "onboard_time": 1678957949,
+        "rank": 43,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 133733,
+        "num": 133733,
+        "word": "党和国家机构改革方案全文",
+        "onboard_time": 1678964609,
+        "rank": 44,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 125360,
+        "num": 125360,
+        "word": "赵丽颖粉丝画与凤行海报",
+        "onboard_time": 1678964247,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 122911,
+        "num": 122911,
+        "word": "马龙大满贯晋级八强",
+        "onboard_time": 1678969407,
+        "rank": 46,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 114853,
+        "num": 114853,
+        "word": "王楚钦孙颖莎夺冠",
+        "onboard_time": 1678954831,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101543,
+        "num": 101543,
+        "word": "女子用价值20万金刀画熊猫丫丫",
+        "onboard_time": 1678948107,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96497,
+        "num": 96497,
+        "word": "KPL",
+        "onboard_time": 1678971269,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国共产党与世界政党高层对话会开幕#"
+    }
+  }
+}
