@@ -1,6 +1,6 @@
 {
   "startTime": 1678984163342,
-  "endTime": 1679008722312,
+  "endTime": 1679009633581,
   "band_list": [
     {
       "raw_hot": 1573198,
@@ -8,6 +8,14 @@
       "word": "事业单位HR嘲讽求职者简历",
       "onboard_time": 1678979609,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1033044,
+      "num": 633397,
+      "word": "出生率下跌致幼儿园关停或成趋势",
+      "onboard_time": 1678984460,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -19,14 +27,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 911856,
-      "num": 633397,
-      "word": "出生率下跌致幼儿园关停或成趋势",
-      "onboard_time": 1678984460,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 699230,
       "num": 163826,
       "word": "丫丫吃甘蔗小心翼翼不舍得浪费",
@@ -35,7 +35,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 651745,
+      "raw_hot": 688782,
       "num": 248925,
       "word": "宋慧乔是王家卫公司艺人",
       "onboard_time": 1678967370,
@@ -43,7 +43,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 593259,
+      "raw_hot": 611215,
       "num": 163825,
       "word": "老婆和表侄私奔老公举报吸毒全被抓",
       "onboard_time": 1678981706,
@@ -51,8 +51,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 575262,
-      "num": 575262,
+      "raw_hot": 610575,
+      "num": 610575,
       "word": "当我收到二月份工资",
       "onboard_time": 1678970308,
       "rank": 3,
@@ -83,20 +83,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 331664,
+      "num": 331664,
+      "word": "阿森纳淘汰",
+      "onboard_time": 1679007978,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 330767,
+      "num": 330767,
+      "word": "再玩下去阿姨就到家了",
+      "onboard_time": 1678977692,
+      "rank": 7,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 318944,
       "num": 246904,
       "word": "丫丫最新画面",
       "onboard_time": 1678978828,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 304072,
-      "num": 304072,
-      "word": "再玩下去阿姨就到家了",
-      "onboard_time": 1678977692,
-      "rank": 7,
-      "category": "幽默"
     },
     {
       "raw_hot": 303529,
@@ -115,8 +123,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 281892,
-      "num": 281892,
+      "raw_hot": 288087,
+      "num": 288087,
       "word": "科学家在中国发现脖子最长恐龙",
       "onboard_time": 1679002332,
       "rank": 40,
@@ -131,8 +139,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 242142,
-      "num": 242142,
+      "raw_hot": 249222,
+      "num": 249222,
       "word": "美军公布俄美黑海撞机画面",
       "onboard_time": 1678976549,
       "rank": 13,
@@ -145,14 +153,6 @@
       "onboard_time": 1678978891,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 224072,
-      "num": 135844,
-      "word": "阿森纳淘汰",
-      "onboard_time": 1679007978,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 218966,
@@ -179,6 +179,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 198585,
+      "num": 198585,
+      "word": "庄慕卿父亲称儿子并非富二代",
+      "onboard_time": 1678988053,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192946,
       "num": 192946,
       "word": "卿卿日常三少主在回响演司机",
@@ -188,19 +196,19 @@
     },
     {
       "raw_hot": 191863,
-      "num": 135339,
+      "num": 188141,
       "word": "教育局回应老师让小学生拿外卖",
       "onboard_time": 1678956868,
       "rank": 32,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 166957,
-      "num": 132103,
-      "word": "庄慕卿父亲称儿子并非富二代",
-      "onboard_time": 1678988053,
-      "rank": 12,
-      "category": "社会新闻"
+      "raw_hot": 186973,
+      "num": 186973,
+      "word": "褚晓羽走了许幻山的老路",
+      "onboard_time": 1679008700,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 166124,
@@ -259,20 +267,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 150318,
+      "num": 150318,
+      "word": "太喜欢美而自知的感觉了",
+      "onboard_time": 1678985241,
+      "rank": 9,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 147236,
       "num": 147236,
       "word": "他是谁",
       "onboard_time": 1678966170,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 142556,
-      "num": 142556,
-      "word": "太喜欢美而自知的感觉了",
-      "onboard_time": 1678985241,
-      "rank": 9,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 136694,
@@ -299,6 +307,22 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 135021,
+      "num": 135021,
+      "word": "路晨向归晓求婚",
+      "onboard_time": 1678987817,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 127252,
+      "num": 127252,
+      "word": "村医52年为村民免除40万医药费",
+      "onboard_time": 1679009001,
+      "rank": 22,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 126471,
       "num": 126471,
       "word": "陈立农陈卓璇合唱好甜",
@@ -307,27 +331,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 125242,
-      "num": 125242,
-      "word": "褚晓羽走了许幻山的老路",
-      "onboard_time": 1679008700,
-      "rank": 18,
-      "category": "影视"
-    },
-    {
       "raw_hot": 118718,
       "num": 118718,
       "word": "不敢向妈妈推荐黑暗荣耀的原因",
       "onboard_time": 1678965868,
       "rank": 34,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 118158,
-      "num": 118158,
-      "word": "路晨向归晓求婚",
-      "onboard_time": 1678987817,
-      "rank": 42,
       "category": "影视"
     },
     {
@@ -395,8 +403,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 89120,
-      "num": 89120,
+      "raw_hot": 90741,
+      "num": 90741,
       "word": "夏花番外HE",
       "onboard_time": 1678974509,
       "rank": 43,
@@ -416,6 +424,14 @@
       "word": "徐正溪还是人间适合你",
       "onboard_time": 1678974930,
       "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 82615,
+      "num": 82615,
+      "word": "父母的衰老会让你感到害怕吗",
+      "onboard_time": 1679009543,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -443,6 +459,22 @@
       "category": "科技"
     },
     {
+      "raw_hot": 70382,
+      "num": 70382,
+      "word": "他是谁红衣女竟然还活着",
+      "onboard_time": 1678976428,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 68169,
+      "num": 68169,
+      "word": "皇家贝蒂斯0比1曼联",
+      "onboard_time": 1679009362,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 67524,
       "num": 67524,
       "word": "利比亚丢失2.5吨天然铀",
@@ -451,11 +483,11 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 57335,
-      "num": 57335,
-      "word": "他是谁红衣女竟然还活着",
-      "onboard_time": 1678976428,
-      "rank": 33,
+      "raw_hot": 46382,
+      "num": 46382,
+      "word": "妍珍徒步换双鞋吧",
+      "onboard_time": 1678970551,
+      "rank": 48,
       "category": "影视"
     },
     {
@@ -465,14 +497,6 @@
       "onboard_time": 1678978290,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 37738,
-      "num": 37738,
-      "word": "妍珍徒步换双鞋吧",
-      "onboard_time": 1678970551,
-      "rank": 48,
-      "category": "影视"
     },
     {
       "raw_hot": 26875,
