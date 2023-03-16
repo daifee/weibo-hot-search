@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1678944820315,
+  "endTime": 1678947833163,
   "band_list": [
     {
       "raw_hot": 8307302,
@@ -40,6 +40,14 @@
       "word": "海底捞要求必须点锅底",
       "onboard_time": 1678765648,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3058128,
+      "num": 3058128,
+      "word": "央视网谈孔乙己文学",
+      "onboard_time": 1678943191,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -483,14 +491,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1142533,
-      "num": 1142533,
-      "word": "央视网谈孔乙己文学",
-      "onboard_time": 1678943191,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1140599,
       "num": 1090441,
       "word": "瞬息全宇宙 横扫",
@@ -651,6 +651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1036842,
+      "num": 1036842,
+      "word": "韩总统坚称韩日不应再为历史恩怨对抗",
+      "onboard_time": 1678943010,
+      "rank": 30,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1035634,
       "num": 229556,
       "word": "大学生真的很容易困",
@@ -803,12 +811,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 910820,
-      "num": 910820,
-      "word": "韩总统坚称韩日不应再为历史恩怨对抗",
-      "onboard_time": 1678943010,
-      "rank": 30,
-      "category": "国外要闻"
+      "raw_hot": 906299,
+      "num": 906299,
+      "word": "柠萌影视",
+      "onboard_time": 1678945647,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 897766,
@@ -1035,6 +1043,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 823320,
+      "num": 823320,
+      "word": "充电时真的别玩手机",
+      "onboard_time": 1678946009,
+      "rank": 4,
+      "category": "科技"
+    },
+    {
       "raw_hot": 811690,
       "num": 811690,
       "word": "墨宝非宝男主嘴一个比一个硬",
@@ -1129,6 +1145,14 @@
       "onboard_time": 1678886911,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 790612,
+      "num": 458348,
+      "word": "刘亚仁医生因吸毒被拘捕",
+      "onboard_time": 1678946908,
+      "rank": 10,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 788846,
@@ -1657,6 +1681,14 @@
       "onboard_time": 1678680150,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 611742,
+      "num": 611742,
+      "word": "女子深夜点三次外卖小哥报警救了她",
+      "onboard_time": 1678945047,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 610755,
@@ -2561,6 +2593,14 @@
       "onboard_time": 1678712489,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 462413,
+      "num": 462413,
+      "word": "文心一言",
+      "onboard_time": 1678946548,
+      "rank": 9,
+      "category": "科技"
     },
     {
       "raw_hot": 461476,
@@ -3691,6 +3731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 331971,
+      "num": 331971,
+      "word": "主人发图解释狗被拴的原因",
+      "onboard_time": 1678943369,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 331896,
       "num": 316152,
       "word": "他是谁味道好大一部剧",
@@ -3705,6 +3753,14 @@
       "onboard_time": 1678870105,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 330105,
+      "num": 330105,
+      "word": "棱镜",
+      "onboard_time": 1678945348,
+      "rank": 14,
+      "category": "音乐"
     },
     {
       "raw_hot": 329051,
@@ -3875,6 +3931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 312353,
+      "num": 312353,
+      "word": "快乐再出发",
+      "onboard_time": 1678945284,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 312187,
       "num": 227407,
       "word": "毛晓彤晒心想事成全家福",
@@ -3937,6 +4001,14 @@
       "onboard_time": 1678941092,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 305697,
+      "num": 305697,
+      "word": "没想到李莎拉这么会唱歌",
+      "onboard_time": 1678944148,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 304833,
@@ -4041,6 +4113,14 @@
       "onboard_time": 1678888534,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 286506,
+      "num": 286506,
+      "word": "沙特",
+      "onboard_time": 1678945406,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 284908,
@@ -4219,14 +4299,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 267887,
-      "num": 267887,
-      "word": "没想到李莎拉这么会唱歌",
-      "onboard_time": 1678944148,
-      "rank": 19,
-      "category": "影视"
-    },
-    {
       "raw_hot": 267578,
       "num": 267578,
       "word": "忠犬八公狗狗的爱都在陪伴里",
@@ -4329,6 +4401,14 @@
       "onboard_time": 1678843469,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 260313,
+      "num": 260313,
+      "word": "当医生说两种药要同时吃",
+      "onboard_time": 1678944148,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 260305,
@@ -4569,6 +4649,14 @@
       "onboard_time": 1678858590,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 242166,
+      "num": 242166,
+      "word": "阿鲁纳3比0张本智和",
+      "onboard_time": 1678946428,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 240890,
@@ -4905,14 +4993,6 @@
       "onboard_time": 1678796070,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 217213,
-      "num": 206602,
-      "word": "主人发图解释狗被拴的原因",
-      "onboard_time": 1678943369,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 217036,
@@ -5305,6 +5385,14 @@
       "onboard_time": 1678768351,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 199755,
+      "num": 199755,
+      "word": "张予曦古风高马尾路透",
+      "onboard_time": 1678947507,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 199436,
@@ -5867,14 +5955,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 173142,
-      "num": 173142,
-      "word": "当医生说两种药要同时吃",
-      "onboard_time": 1678944148,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 172429,
       "num": 172429,
       "word": "路晨归晓十年前分手的原因",
@@ -5961,6 +6041,38 @@
       "onboard_time": 1678885353,
       "rank": 44,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 166374,
+      "num": 166374,
+      "word": "何炅秦霄贤给檀健次采耳",
+      "onboard_time": 1678946786,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 166071,
+      "num": 166071,
+      "word": "亚运会",
+      "onboard_time": 1678946308,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 165346,
+      "num": 165346,
+      "word": "阿鲁纳",
+      "onboard_time": 1678945284,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 164616,
+      "num": 164616,
+      "word": "鹿晗唱野狼disco",
+      "onboard_time": 1678945886,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 164287,
@@ -6403,6 +6515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 138559,
+      "num": 138559,
+      "word": "边用边充影响手机体验吗",
+      "onboard_time": 1678947388,
+      "rank": 40,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 137759,
       "num": 137759,
       "word": "白鹿王鹤棣互戴发箍路透",
@@ -6419,6 +6539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 137148,
+      "num": 137148,
+      "word": "张颂文安慰网友",
+      "onboard_time": 1678947685,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 136129,
       "num": 136129,
       "word": "light泽丽五杀",
@@ -6433,6 +6561,14 @@
       "onboard_time": 1678934607,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135226,
+      "num": 135226,
+      "word": "童年的贫瘠真的会困扰一生",
+      "onboard_time": 1678946786,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 134888,
@@ -6471,6 +6607,14 @@
       "num": 133980,
       "word": "速度与激情10新海报",
       "onboard_time": 1678838127,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 133204,
+      "num": 133204,
+      "word": "井柏然唱歌把谭松韵逗笑",
+      "onboard_time": 1678945586,
       "rank": 45,
       "category": "影视"
     },

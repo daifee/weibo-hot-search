@@ -1,0 +1,410 @@
+{
+  "runTime": 1678947833163,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3058128,
+        "num": 3058128,
+        "word": "央视网谈孔乙己文学",
+        "onboard_time": 1678943191,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1036842,
+        "num": 1036842,
+        "word": "韩总统坚称韩日不应再为历史恩怨对抗",
+        "onboard_time": 1678943010,
+        "rank": 1,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 11929,
+        "num": 920890,
+        "word": "开年中国经济企稳回升",
+        "onboard_time": 1678888596,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 906299,
+        "num": 906299,
+        "word": "柠萌影视",
+        "onboard_time": 1678945647,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 823320,
+        "num": 823320,
+        "word": "充电时真的别玩手机",
+        "onboard_time": 1678946009,
+        "rank": 4,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 723710,
+        "num": 723710,
+        "word": "11岁奥莉腿长",
+        "onboard_time": 1678939649,
+        "rank": 5,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 611742,
+        "num": 611742,
+        "word": "女子深夜点三次外卖小哥报警救了她",
+        "onboard_time": 1678945047,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 504049,
+        "num": 504049,
+        "word": "张杰想见你想见你想见你",
+        "onboard_time": 1678938806,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 486356,
+        "num": 486356,
+        "word": "旅客带101管孕妇血液样本出境被查",
+        "onboard_time": 1678936347,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 462413,
+        "num": 462413,
+        "word": "文心一言",
+        "onboard_time": 1678946548,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 790612,
+        "num": 458348,
+        "word": "刘亚仁医生因吸毒被拘捕",
+        "onboard_time": 1678946908,
+        "rank": 10,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 432503,
+        "num": 432503,
+        "word": "苏州机场",
+        "onboard_time": 1678937908,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 426996,
+        "num": 426996,
+        "word": "姐姐放弃考研做3份家教救重病弟弟",
+        "onboard_time": 1678936886,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331971,
+        "num": 331971,
+        "word": "主人发图解释狗被拴的原因",
+        "onboard_time": 1678943369,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 330105,
+        "num": 330105,
+        "word": "棱镜",
+        "onboard_time": 1678945348,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 329957,
+        "num": 329957,
+        "word": "蔡徐坤人形立牌有八米高",
+        "onboard_time": 1678941511,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312353,
+        "num": 312353,
+        "word": "快乐再出发",
+        "onboard_time": 1678945284,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 305697,
+        "num": 305697,
+        "word": "没想到李莎拉这么会唱歌",
+        "onboard_time": 1678944148,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 303083,
+        "num": 303083,
+        "word": "河南下雪",
+        "onboard_time": 1678932928,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286506,
+        "num": 286506,
+        "word": "沙特",
+        "onboard_time": 1678945406,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 592632,
+        "num": 283318,
+        "word": "女子地铁上暴打男子叫嚣男人必须站着",
+        "onboard_time": 1678937605,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260313,
+        "num": 260313,
+        "word": "当医生说两种药要同时吃",
+        "onboard_time": 1678944148,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 259395,
+        "num": 259395,
+        "word": "郑恺说丁程鑫是别人家的孩子",
+        "onboard_time": 1678943489,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242166,
+        "num": 242166,
+        "word": "阿鲁纳3比0张本智和",
+        "onboard_time": 1678946428,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 252708,
+        "num": 241620,
+        "word": "赵露思小说女主适配度",
+        "onboard_time": 1678937788,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 240999,
+        "num": 240999,
+        "word": "被丈夫洗过的棉拖发芽了",
+        "onboard_time": 1678936466,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224512,
+        "num": 224512,
+        "word": "王鹤棣手机壳是五花肉",
+        "onboard_time": 1678939168,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222527,
+        "num": 222527,
+        "word": "杨紫现代剧原声率百分百",
+        "onboard_time": 1678940071,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 209316,
+        "num": 209316,
+        "word": "迪丽热巴说想染发",
+        "onboard_time": 1678941153,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199755,
+        "num": 199755,
+        "word": "张予曦古风高马尾路透",
+        "onboard_time": 1678947507,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 193670,
+        "num": 193670,
+        "word": "炉石传说或被移出亚运项目",
+        "onboard_time": 1678937726,
+        "rank": 30,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 166374,
+        "num": 166374,
+        "word": "何炅秦霄贤给檀健次采耳",
+        "onboard_time": 1678946786,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166143,
+        "num": 166143,
+        "word": "大侦探",
+        "onboard_time": 1678945647,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166071,
+        "num": 166071,
+        "word": "亚运会",
+        "onboard_time": 1678946308,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165346,
+        "num": 165346,
+        "word": "阿鲁纳",
+        "onboard_time": 1678945284,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164616,
+        "num": 164616,
+        "word": "鹿晗唱野狼disco",
+        "onboard_time": 1678945886,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161720,
+        "num": 161720,
+        "word": "库里50分",
+        "onboard_time": 1678944628,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160351,
+        "num": 160351,
+        "word": "果然娱乐喊话小鬼排练巡演",
+        "onboard_time": 1678943787,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 155323,
+        "num": 155323,
+        "word": "警方回应女子地铁上殴打小伙",
+        "onboard_time": 1678940550,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155177,
+        "num": 155177,
+        "word": "声生不息有歌之年歌单视频",
+        "onboard_time": 1678944807,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138559,
+        "num": 138559,
+        "word": "边用边充影响手机体验吗",
+        "onboard_time": 1678947388,
+        "rank": 40,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 138184,
+        "num": 138184,
+        "word": "美国女性喜欢iPhone标准机型",
+        "onboard_time": 1678931965,
+        "rank": 41,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 137148,
+        "num": 137148,
+        "word": "张颂文安慰网友",
+        "onboard_time": 1678947685,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136182,
+        "num": 136182,
+        "word": "警犬搜毒超12公斤被奖励鸡腿花环",
+        "onboard_time": 1678925727,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135226,
+        "num": 135226,
+        "word": "童年的贫瘠真的会困扰一生",
+        "onboard_time": 1678946786,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133204,
+        "num": 133204,
+        "word": "井柏然唱歌把谭松韵逗笑",
+        "onboard_time": 1678945586,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 130358,
+        "num": 130358,
+        "word": "声生不息",
+        "onboard_time": 1678945228,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121461,
+        "num": 121461,
+        "word": "坐飞机偶遇赵今麦",
+        "onboard_time": 1678941153,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 120774,
+        "num": 120774,
+        "word": "苹果员工人均为公司创收240万美元",
+        "onboard_time": 1678933283,
+        "rank": 48,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 119710,
+        "num": 119710,
+        "word": "李到晛脸部比心",
+        "onboard_time": 1678941092,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国共产党与世界政党高层对话会开幕#"
+    }
+  }
+}
