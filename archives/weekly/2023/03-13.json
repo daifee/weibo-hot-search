@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1678985198214,
+  "endTime": 1678987066934,
   "band_list": [
     {
       "raw_hot": 8307302,
@@ -2521,6 +2521,14 @@
       "onboard_time": 1678675769,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 518177,
+      "num": 518177,
+      "word": "出生率下跌致幼儿园关停或成趋势",
+      "onboard_time": 1678984460,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 517605,
@@ -7451,14 +7459,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 144253,
-      "num": 144253,
-      "word": "出生率下跌致幼儿园关停或成趋势",
-      "onboard_time": 1678984460,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 143880,
       "num": 220673,
       "word": "硅谷银行新CEO回应",
@@ -7513,6 +7513,14 @@
       "onboard_time": 1678689444,
       "rank": 49,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 141820,
+      "num": 141820,
+      "word": "太喜欢美而自知的感觉了",
+      "onboard_time": 1678985241,
+      "rank": 9,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 141785,
