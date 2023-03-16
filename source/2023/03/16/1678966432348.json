@@ -1,0 +1,410 @@
+{
+  "runTime": 1678966432348,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1170331,
+        "num": 1170331,
+        "word": "国防部说台湾当归",
+        "onboard_time": 1678964309,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1122459,
+        "num": 1122459,
+        "word": "韩剧溯洄",
+        "onboard_time": 1678960950,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 41944,
+        "num": 964102,
+        "word": "新时代中国网络法治建设白皮书发布",
+        "onboard_time": 1678956808,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 865790,
+        "num": 865790,
+        "word": "利比亚丢失2.5吨天然铀",
+        "onboard_time": 1678962929,
+        "rank": 3,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 747619,
+        "num": 747619,
+        "word": "网易LOFTER致歉",
+        "onboard_time": 1678963108,
+        "rank": 4,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 660774,
+        "num": 660774,
+        "word": "柠萌影视声明",
+        "onboard_time": 1678965508,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 642357,
+        "num": 642357,
+        "word": "伏明霞",
+        "onboard_time": 1678957949,
+        "rank": 6,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 611788,
+        "num": 611788,
+        "word": "党和国家机构改革方案全文",
+        "onboard_time": 1678964609,
+        "rank": 7,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 610827,
+        "num": 610827,
+        "word": "充电时真的别玩手机",
+        "onboard_time": 1678946009,
+        "rank": 8,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 574036,
+        "num": 574036,
+        "word": "你会为了另一半辞职吗",
+        "onboard_time": 1678961907,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1295344,
+        "num": 558904,
+        "word": "何老师这辈子眼睛没瞪这么大过",
+        "onboard_time": 1678952728,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1069136,
+        "num": 538552,
+        "word": "童瑶仪态",
+        "onboard_time": 1678962929,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 718873,
+        "num": 534686,
+        "word": "教育局回应老师让小学生拿外卖",
+        "onboard_time": 1678956868,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 516145,
+        "num": 516145,
+        "word": "妍珍 美羊羊",
+        "onboard_time": 1678966349,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 462981,
+        "num": 462981,
+        "word": "央视网谈孔乙己文学",
+        "onboard_time": 1678943191,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 461660,
+        "num": 461660,
+        "word": "不敢向妈妈推荐黑暗荣耀的原因",
+        "onboard_time": 1678965868,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 416511,
+        "num": 416511,
+        "word": "熊猫叉腰与饲养员理论",
+        "onboard_time": 1678956149,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 390463,
+        "num": 390463,
+        "word": "女儿8万为父看病百万拆迁款给儿子",
+        "onboard_time": 1678949666,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 357520,
+        "num": 357520,
+        "word": "赵丽颖粉丝画与凤行海报",
+        "onboard_time": 1678964247,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 357002,
+        "num": 357002,
+        "word": "王一博叶先生最新剧照",
+        "onboard_time": 1678964790,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 350499,
+        "num": 350499,
+        "word": "他是谁",
+        "onboard_time": 1678966170,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 348148,
+        "num": 348148,
+        "word": "光渊 复播",
+        "onboard_time": 1678957469,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 280465,
+        "num": 280465,
+        "word": "毕业怎么写最刀",
+        "onboard_time": 1678962268,
+        "rank": 22,
+        "category": "教育,情感"
+      },
+      {
+        "raw_hot": 275261,
+        "num": 275261,
+        "word": "徐冬冬说自己永远火不了",
+        "onboard_time": 1678958128,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220069,
+        "num": 220069,
+        "word": "女子用价值20万金刀画熊猫丫丫",
+        "onboard_time": 1678948107,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255504,
+        "num": 219967,
+        "word": "TWICE新歌MCD回归舞台",
+        "onboard_time": 1678965927,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 231297,
+        "num": 219934,
+        "word": "李到晛和IU演过德鲁纳酒店",
+        "onboard_time": 1678955908,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 228470,
+        "num": 219837,
+        "word": "双塔偶遇陈飞宇录节目",
+        "onboard_time": 1678959151,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 217934,
+        "num": 217934,
+        "word": "第一根辣条其实不叫辣条",
+        "onboard_time": 1678957228,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 213047,
+        "num": 213047,
+        "word": "王楚钦孙颖莎夺冠",
+        "onboard_time": 1678954831,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211737,
+        "num": 211737,
+        "word": "白夜追凶2组讯",
+        "onboard_time": 1678962089,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207223,
+        "num": 207223,
+        "word": "声生不息宝岛季",
+        "onboard_time": 1678966050,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204284,
+        "num": 204284,
+        "word": "时代少年团为马嘉祺声生不息打call",
+        "onboard_time": 1678962268,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193218,
+        "num": 193218,
+        "word": "女童摸狗被咬家长怒斥不赔偿不道歉",
+        "onboard_time": 1678952548,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161007,
+        "num": 161007,
+        "word": "女子深夜点三次外卖小哥报警救了她",
+        "onboard_time": 1678945047,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201137,
+        "num": 160973,
+        "word": "肖战米兰探店黑西装随拍",
+        "onboard_time": 1678954348,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 167520,
+        "num": 160335,
+        "word": "韩国邀请小S拍旅游宣传片",
+        "onboard_time": 1678954289,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159496,
+        "num": 159496,
+        "word": "摇着尾巴喝水的小猫",
+        "onboard_time": 1678954227,
+        "rank": 37,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 150173,
+        "num": 150173,
+        "word": "刘亚仁医生因吸毒被拘捕",
+        "onboard_time": 1678946908,
+        "rank": 38,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 137128,
+        "num": 137128,
+        "word": "百度股价跳水",
+        "onboard_time": 1678949308,
+        "rank": 39,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 136020,
+        "num": 136020,
+        "word": "研究发现猴子会有意制造工具",
+        "onboard_time": 1678965508,
+        "rank": 40,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 132834,
+        "num": 132834,
+        "word": "李一桐毕雯珺回应7岁年龄差",
+        "onboard_time": 1678949127,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 132551,
+        "num": 132551,
+        "word": "新海诚夸周深唱的主题曲非常动听",
+        "onboard_time": 1678964550,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 122349,
+        "num": 122349,
+        "word": "90后男演员原声台词大赏",
+        "onboard_time": 1678964247,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 121465,
+        "num": 121465,
+        "word": "贾冰在讲一种很新的英语",
+        "onboard_time": 1678963349,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 117418,
+        "num": 117418,
+        "word": "Cat牛魔好猛",
+        "onboard_time": 1678963228,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 109060,
+        "num": 109060,
+        "word": "马龙",
+        "onboard_time": 1678966410,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108659,
+        "num": 108659,
+        "word": "11岁奥莉腿长",
+        "onboard_time": 1678939649,
+        "rank": 47,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 106821,
+        "num": 106821,
+        "word": "韩总统坚称韩日不应再为历史恩怨对抗",
+        "onboard_time": 1678943010,
+        "rank": 48,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 105619,
+        "num": 105619,
+        "word": "王鹤棣主打的就是一个缓缓下线",
+        "onboard_time": 1678957048,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#春天的启航#"
+    }
+  }
+}

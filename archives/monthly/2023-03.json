@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678965356765,
+  "endTime": 1678966432348,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -2347,6 +2347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1170331,
+      "num": 1170331,
+      "word": "国防部说台湾当归",
+      "onboard_time": 1678964309,
+      "rank": 8,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 1167642,
       "num": 619026,
       "word": "老师点名月考第1女生连站7次",
@@ -2523,6 +2531,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 1122459,
+      "num": 1122459,
+      "word": "韩剧溯洄",
+      "onboard_time": 1678960950,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1121434,
       "num": 1121434,
       "word": "108公斤毒品藏身20吨木炭",
@@ -2691,14 +2707,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1090283,
-      "num": 1090283,
-      "word": "韩剧溯洄",
-      "onboard_time": 1678960950,
-      "rank": 13,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1081303,
       "num": 654283,
       "word": "无名是北电开学的第一课",
@@ -2769,6 +2777,14 @@
       "onboard_time": 1678266086,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1069136,
+      "num": 538552,
+      "word": "童瑶仪态",
+      "onboard_time": 1678962929,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1068914,
@@ -3627,14 +3643,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 928086,
-      "num": 457371,
-      "word": "童瑶仪态",
-      "onboard_time": 1678962929,
-      "rank": 29,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 928046,
       "num": 843497,
       "word": "爱奇艺回应2月充会员只能用28天",
@@ -3940,7 +3948,7 @@
     },
     {
       "raw_hot": 880395,
-      "num": 452900,
+      "num": 865790,
       "word": "利比亚丢失2.5吨天然铀",
       "onboard_time": 1678962929,
       "rank": 48,
@@ -5195,6 +5203,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 747619,
+      "num": 747619,
+      "word": "网易LOFTER致歉",
+      "onboard_time": 1678963108,
+      "rank": 5,
+      "category": "科技"
+    },
+    {
       "raw_hot": 747006,
       "num": 747006,
       "word": "广州震感",
@@ -6299,6 +6315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 660774,
+      "num": 660774,
+      "word": "柠萌影视声明",
+      "onboard_time": 1678965508,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 660534,
       "num": 660534,
       "word": "大学生送5年外卖还清40万外债",
@@ -6585,14 +6609,6 @@
       "onboard_time": 1677838407,
       "rank": 19,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 646027,
-      "num": 646027,
-      "word": "网易LOFTER致歉",
-      "onboard_time": 1678963108,
-      "rank": 5,
-      "category": "科技"
     },
     {
       "raw_hot": 645884,
@@ -7097,6 +7113,14 @@
       "onboard_time": 1678680150,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 611788,
+      "num": 611788,
+      "word": "党和国家机构改革方案全文",
+      "onboard_time": 1678964609,
+      "rank": 13,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 611293,
@@ -9067,12 +9091,12 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 514132,
-      "num": 514132,
-      "word": "国防部说台湾当归",
-      "onboard_time": 1678964309,
-      "rank": 8,
-      "category": "国内要闻"
+      "raw_hot": 516145,
+      "num": 516145,
+      "word": "妍珍 美羊羊",
+      "onboard_time": 1678966349,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 513603,
@@ -10363,6 +10387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 461660,
+      "num": 461660,
+      "word": "不敢向妈妈推荐黑暗荣耀的原因",
+      "onboard_time": 1678965868,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 461476,
       "num": 262026,
       "word": "陈梦2比3萨马拉",
@@ -11065,14 +11097,6 @@
       "onboard_time": 1678596928,
       "rank": 24,
       "category": "财经,科技"
-    },
-    {
-      "raw_hot": 432765,
-      "num": 432765,
-      "word": "党和国家机构改革方案全文",
-      "onboard_time": 1678964609,
-      "rank": 13,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 432462,
@@ -13403,6 +13427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 357520,
+      "num": 357520,
+      "word": "赵丽颖粉丝画与凤行海报",
+      "onboard_time": 1678964247,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 357392,
       "num": 357392,
       "word": "宁艺卓的画",
@@ -13417,6 +13449,14 @@
       "onboard_time": 1678127173,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 357002,
+      "num": 357002,
+      "word": "王一博叶先生最新剧照",
+      "onboard_time": 1678964790,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 356717,
@@ -13697,14 +13737,6 @@
       "onboard_time": 1678415127,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 350316,
-      "num": 350316,
-      "word": "赵丽颖粉丝画与凤行海报",
-      "onboard_time": 1678964247,
-      "rank": 16,
-      "category": "影视"
     },
     {
       "raw_hot": 350252,
@@ -14153,14 +14185,6 @@
       "onboard_time": 1678002806,
       "rank": 17,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 339924,
-      "num": 339924,
-      "word": "王一博叶先生最新剧照",
-      "onboard_time": 1678964790,
-      "rank": 17,
-      "category": "影视"
     },
     {
       "raw_hot": 339878,
@@ -17587,6 +17611,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 255504,
+      "num": 219967,
+      "word": "TWICE新歌MCD回归舞台",
+      "onboard_time": 1678965927,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 255424,
       "num": 185760,
       "word": "委员建议实行弹性灵活退休机制",
@@ -20512,6 +20544,14 @@
       "word": "刘耀文扮雕",
       "onboard_time": 1677914185,
       "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 207223,
+      "num": 207223,
+      "word": "声生不息宝岛季",
+      "onboard_time": 1678966050,
+      "rank": 31,
       "category": "综艺"
     },
     {
@@ -27043,6 +27083,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 136020,
+      "num": 136020,
+      "word": "研究发现猴子会有意制造工具",
+      "onboard_time": 1678965508,
+      "rank": 40,
+      "category": "科技"
+    },
+    {
       "raw_hot": 135929,
       "num": 135929,
       "word": "张杰说谢娜记不住银行卡密码",
@@ -28123,6 +28171,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 122349,
+      "num": 122349,
+      "word": "90后男演员原声台词大赏",
+      "onboard_time": 1678964247,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 122265,
       "num": 122265,
       "word": "切尔西vs利兹联",
@@ -28145,6 +28201,14 @@
       "onboard_time": 1678933466,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 121465,
+      "num": 121465,
+      "word": "贾冰在讲一种很新的英语",
+      "onboard_time": 1678963349,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 121379,
@@ -28323,14 +28387,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 117859,
-      "num": 117859,
-      "word": "90后男演员原声台词大赏",
-      "onboard_time": 1678964247,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 117673,
       "num": 127397,
       "word": "隔着屏幕都感受到了压迫感",
@@ -28368,6 +28424,14 @@
       "word": "澜星元皮肤",
       "onboard_time": 1677866536,
       "rank": 26,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 117418,
+      "num": 117418,
+      "word": "Cat牛魔好猛",
+      "onboard_time": 1678963228,
+      "rank": 44,
       "category": "游戏"
     },
     {
@@ -28409,14 +28473,6 @@
       "onboard_time": 1677737546,
       "rank": 42,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 116693,
-      "num": 116693,
-      "word": "贾冰在讲一种很新的英语",
-      "onboard_time": 1678963349,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 116654,
@@ -28769,14 +28825,6 @@
       "onboard_time": 1678092807,
       "rank": 29,
       "category": "科技"
-    },
-    {
-      "raw_hot": 113202,
-      "num": 113202,
-      "word": "Cat牛魔好猛",
-      "onboard_time": 1678963228,
-      "rank": 44,
-      "category": "游戏"
     },
     {
       "raw_hot": 113192,
@@ -31044,7 +31092,7 @@
     },
     {
       "raw_hot": 66415,
-      "num": 952435,
+      "num": 964102,
       "word": "新时代中国网络法治建设白皮书发布",
       "onboard_time": 1678956808,
       "rank": 2,
