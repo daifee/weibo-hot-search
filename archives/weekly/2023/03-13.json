@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1678988057237,
+  "endTime": 1678991026419,
   "band_list": [
     {
       "raw_hot": 8307302,
@@ -8425,6 +8425,14 @@
       "onboard_time": 1678631428,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 67566,
+      "num": 61537,
+      "word": "庄慕卿父亲称儿子并非富二代",
+      "onboard_time": 1678988053,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 66415,
