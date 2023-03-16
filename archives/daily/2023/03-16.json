@@ -1,6 +1,6 @@
 {
   "startTime": 1678897636121,
-  "endTime": 1678970219119,
+  "endTime": 1678971320466,
   "band_list": [
     {
       "raw_hot": 3119338,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1856521,
-      "num": 397883,
+      "num": 413289,
       "word": "宋慧乔是王家卫公司艺人",
       "onboard_time": 1678967370,
       "rank": 10,
@@ -56,6 +56,14 @@
       "word": "女子地铁上暴打男子叫嚣男人必须站着",
       "onboard_time": 1678937605,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1725351,
+      "num": 1725351,
+      "word": "丫丫正努力吃饭等待回国",
+      "onboard_time": 1678968449,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -113,14 +121,6 @@
       "onboard_time": 1678957949,
       "rank": 18,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 1226733,
-      "num": 1226733,
-      "word": "丫丫正努力吃饭等待回国",
-      "onboard_time": 1678968449,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1203858,
@@ -251,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 844094,
+      "num": 844094,
+      "word": "那英张杰华晨宇马嘉祺唱征服",
+      "onboard_time": 1678969528,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 828680,
       "num": 828680,
       "word": "王楚钦孙颖莎夺冠",
@@ -297,14 +305,6 @@
       "onboard_time": 1678926327,
       "rank": 5,
       "category": "科技"
-    },
-    {
-      "raw_hot": 748431,
-      "num": 748431,
-      "word": "那英张杰华晨宇马嘉祺唱征服",
-      "onboard_time": 1678969528,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 747619,
@@ -401,6 +401,14 @@
       "onboard_time": 1678929686,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 671503,
+      "num": 411006,
+      "word": "红色通缉犯郭文贵在美国被捕",
+      "onboard_time": 1678970427,
+      "rank": 12,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 670759,
@@ -619,6 +627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 493413,
+      "num": 493413,
+      "word": "比亚迪发布会",
+      "onboard_time": 1678968810,
+      "rank": 15,
+      "category": "科技"
+    },
+    {
       "raw_hot": 489424,
       "num": 434725,
       "word": "权志龙说在准备新项目",
@@ -691,6 +707,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 458245,
+      "num": 458245,
+      "word": "当我收到二月份工资",
+      "onboard_time": 1678970308,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
       "raw_hot": 454931,
       "num": 454931,
       "word": "成都又双叒提醒不要跑错机场",
@@ -723,12 +747,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 438838,
-      "num": 386852,
-      "word": "比亚迪发布会",
-      "onboard_time": 1678968810,
-      "rank": 15,
-      "category": "科技"
+      "raw_hot": 413583,
+      "num": 413583,
+      "word": "声生不息宝岛季",
+      "onboard_time": 1678966050,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 412755,
@@ -769,14 +793,6 @@
       "onboard_time": 1678876888,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 398628,
-      "num": 398628,
-      "word": "声生不息宝岛季",
-      "onboard_time": 1678966050,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 395808,
@@ -843,12 +859,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 365378,
+      "num": 365378,
+      "word": "张译他是谁热度破9000",
+      "onboard_time": 1678968511,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 361118,
       "num": 361118,
       "word": "苏州 梅友机场",
       "onboard_time": 1678940370,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 360496,
+      "num": 310376,
+      "word": "他是谁分尸者到底是谁",
+      "onboard_time": 1678969349,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 357520,
@@ -979,14 +1011,6 @@
       "category": "教育,情感"
     },
     {
-      "raw_hot": 314920,
-      "num": 314920,
-      "word": "张译他是谁热度破9000",
-      "onboard_time": 1678968511,
-      "rank": 19,
-      "category": "影视"
-    },
-    {
       "raw_hot": 314850,
       "num": 314850,
       "word": "EXO前夜舞蹈练习室",
@@ -1051,14 +1075,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 290081,
-      "num": 290081,
-      "word": "他是谁分尸者到底是谁",
-      "onboard_time": 1678969349,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 286506,
       "num": 286506,
       "word": "沙特",
@@ -1088,6 +1104,14 @@
       "word": "尹正让大鹏给小白兔道歉",
       "onboard_time": 1678958309,
       "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 278263,
+      "num": 278263,
+      "word": "妍珍徒步换双鞋吧",
+      "onboard_time": 1678970551,
+      "rank": 20,
       "category": "影视"
     },
     {
@@ -1227,6 +1251,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 254090,
+      "num": 234909,
+      "word": "吴磊拍日落",
+      "onboard_time": 1678969290,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 253665,
       "num": 253665,
       "word": "张雨绮谈暧昧拉扯",
@@ -1339,6 +1371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 226717,
+      "num": 226717,
+      "word": "CBA同意新疆男篮复赛",
+      "onboard_time": 1678970849,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 224571,
       "num": 224571,
       "word": "时代少年团为马嘉祺声生不息打call",
@@ -1387,6 +1427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 214115,
+      "num": 214115,
+      "word": "博主回应因打假海鲜市场疑被悬赏",
+      "onboard_time": 1678968810,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 213877,
       "num": 213877,
       "word": "迪丽热巴黑西装裙花絮",
@@ -1433,14 +1481,6 @@
       "onboard_time": 1678935203,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 203697,
-      "num": 203697,
-      "word": "吴磊拍日落",
-      "onboard_time": 1678969290,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 203081,
@@ -1563,8 +1603,8 @@
       "category": "科技"
     },
     {
-      "raw_hot": 192635,
-      "num": 192635,
+      "raw_hot": 192962,
+      "num": 192962,
       "word": "马龙大满贯晋级八强",
       "onboard_time": 1678969407,
       "rank": 35,
@@ -1657,14 +1697,6 @@
       "onboard_time": 1678935925,
       "rank": 38,
       "category": "教育"
-    },
-    {
-      "raw_hot": 177576,
-      "num": 177576,
-      "word": "博主回应因打假海鲜市场疑被悬赏",
-      "onboard_time": 1678968810,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 177570,
@@ -1907,6 +1939,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 147555,
+      "num": 147555,
+      "word": "RNG战胜UP",
+      "onboard_time": 1678971208,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 143254,
       "num": 143254,
       "word": "欧冠8强出炉",
@@ -2027,6 +2067,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 133001,
+      "num": 133001,
+      "word": "归路是成年人爱情的高速公路",
+      "onboard_time": 1678969110,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 132997,
       "num": 132997,
       "word": "LNG战胜AL",
@@ -2049,6 +2097,14 @@
       "onboard_time": 1678888534,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 128934,
+      "num": 128934,
+      "word": "KPL",
+      "onboard_time": 1678971269,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 127272,
