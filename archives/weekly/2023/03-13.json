@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1679001376140,
+  "endTime": 1679002436362,
   "band_list": [
     {
       "raw_hot": 8307302,
@@ -8705,6 +8705,14 @@
       "onboard_time": 1678645632,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 13636,
+      "num": 13636,
+      "word": "科学家在中国发现脖子最长恐龙",
+      "onboard_time": 1679002332,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 10931,
