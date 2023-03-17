@@ -1,7 +1,15 @@
 {
   "startTime": 1678984163342,
-  "endTime": 1679023167732,
+  "endTime": 1679024027262,
   "band_list": [
+    {
+      "raw_hot": 2182836,
+      "num": 2182836,
+      "word": "何炅再提快乐大本营",
+      "onboard_time": 1679020948,
+      "rank": 21,
+      "category": "综艺,艺人"
+    },
     {
       "raw_hot": 2182595,
       "num": 2182595,
@@ -11,12 +19,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2143772,
-      "num": 2143772,
-      "word": "何炅再提快乐大本营",
-      "onboard_time": 1679020948,
-      "rank": 21,
-      "category": "综艺,艺人"
+      "raw_hot": 1980637,
+      "num": 1980637,
+      "word": "初三学生被罚站倒地去世",
+      "onboard_time": 1679021907,
+      "rank": 4,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1939065,
@@ -67,12 +75,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1162719,
-      "num": 1162719,
-      "word": "初三学生被罚站倒地去世",
-      "onboard_time": 1679021907,
-      "rank": 4,
-      "category": "社会新闻,教育"
+      "raw_hot": 1038285,
+      "num": 1038285,
+      "word": "丫丫回国先到上海检疫",
+      "onboard_time": 1679021489,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1033044,
@@ -105,6 +113,14 @@
       "onboard_time": 1679018067,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 906039,
+      "num": 906039,
+      "word": "尹锡悦向日本国旗鞠躬画面引争议",
+      "onboard_time": 1679021250,
+      "rank": 46,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 859457,
@@ -155,12 +171,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 678496,
-      "num": 527307,
-      "word": "尹锡悦向日本国旗鞠躬画面引争议",
-      "onboard_time": 1679021250,
-      "rank": 46,
-      "category": "国外要闻"
+      "raw_hot": 667180,
+      "num": 551070,
+      "word": "女子领证当天在星巴克化妆遭驱赶",
+      "onboard_time": 1679022869,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 659400,
@@ -176,14 +192,6 @@
       "word": "中国低龄老人达1.5亿",
       "onboard_time": 1679015308,
       "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 641735,
-      "num": 641735,
-      "word": "丫丫回国先到上海检疫",
-      "onboard_time": 1679021489,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -251,6 +259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 480104,
+      "num": 480104,
+      "word": "重庆动物园大熊猫反向参观游客",
+      "onboard_time": 1679019807,
+      "rank": 27,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 478041,
       "num": 478041,
       "word": "霸王别姬韩国再次重映",
@@ -283,12 +299,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 450571,
-      "num": 450571,
-      "word": "重庆动物园大熊猫反向参观游客",
-      "onboard_time": 1679019807,
-      "rank": 27,
-      "category": "旅游,社会新闻"
+      "raw_hot": 461292,
+      "num": 461292,
+      "word": "蛋仔派对鹅鸭杀联动",
+      "onboard_time": 1679022088,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 438639,
@@ -411,6 +427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 259875,
+      "num": 259875,
+      "word": "多位在美华人接力守护丫丫",
+      "onboard_time": 1679021428,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 251017,
       "num": 251017,
       "word": "章昊Tomboy组第一",
@@ -435,12 +459,28 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 240446,
+      "num": 240446,
+      "word": "张俪吐槽自己眼泪拐弯",
+      "onboard_time": 1679022448,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 235640,
       "num": 235640,
       "word": "蛋仔派对",
       "onboard_time": 1679009784,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 233291,
+      "num": 233291,
+      "word": "专家称未来养老金很难大幅上涨",
+      "onboard_time": 1679021489,
+      "rank": 31,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 232727,
@@ -457,14 +497,6 @@
       "onboard_time": 1678978891,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 228059,
-      "num": 228059,
-      "word": "蛋仔派对鹅鸭杀联动",
-      "onboard_time": 1679022088,
-      "rank": 28,
-      "category": "游戏"
     },
     {
       "raw_hot": 220232,
@@ -499,36 +531,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 207282,
-      "num": 207282,
-      "word": "多位在美华人接力守护丫丫",
-      "onboard_time": 1679021428,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 204504,
-      "num": 204504,
-      "word": "张俪吐槽自己眼泪拐弯",
-      "onboard_time": 1679022448,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 200059,
       "num": 200059,
       "word": "国防部说台湾当归",
       "onboard_time": 1678964309,
       "rank": 17,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 199111,
-      "num": 199111,
-      "word": "专家称未来养老金很难大幅上涨",
-      "onboard_time": 1679021489,
-      "rank": 31,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 198585,
@@ -651,6 +659,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 156829,
+      "num": 156829,
+      "word": "INTO1微博之夜官宣",
+      "onboard_time": 1679023827,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 152589,
       "num": 152589,
       "word": "他是谁分尸者到底是谁",
@@ -681,14 +697,6 @@
       "onboard_time": 1678966170,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 146651,
-      "num": 146651,
-      "word": "女子领证当天在星巴克化妆遭驱赶",
-      "onboard_time": 1679022869,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 136694,
@@ -723,6 +731,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 130434,
+      "num": 130434,
+      "word": "上海迪士尼回应停售年卡",
+      "onboard_time": 1679023950,
+      "rank": 41,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 127252,
       "num": 127252,
       "word": "村医52年为村民免除40万医药费",
@@ -737,6 +753,22 @@
       "onboard_time": 1678975950,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 123484,
+      "num": 123484,
+      "word": "苹果推进Siri自然语言生成新框架",
+      "onboard_time": 1679021369,
+      "rank": 46,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 121821,
+      "num": 121821,
+      "word": "张译抬眸",
+      "onboard_time": 1679023709,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 119678,
@@ -761,14 +793,6 @@
       "onboard_time": 1678965868,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 118703,
-      "num": 118703,
-      "word": "苹果推进Siri自然语言生成新框架",
-      "onboard_time": 1679021369,
-      "rank": 46,
-      "category": "科技"
     },
     {
       "raw_hot": 117950,
@@ -932,7 +956,7 @@
     },
     {
       "raw_hot": 54081,
-      "num": 1249157,
+      "num": 1367316,
       "word": "国新办发布新时代的中国网络法治建设白皮书",
       "onboard_time": 1678978290,
       "rank": 2,
