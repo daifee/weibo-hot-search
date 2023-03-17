@@ -1,6 +1,6 @@
 {
   "startTime": 1679070330564,
-  "endTime": 1679092466288,
+  "endTime": 1679095096355,
   "band_list": [
     {
       "raw_hot": 1250904,
@@ -35,6 +35,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 860033,
+      "num": 860033,
+      "word": "我国首次发现奥密克戎新亚型",
+      "onboard_time": 1679084533,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 786880,
       "num": 786880,
       "word": "月薪三千的生活是怎样的",
@@ -59,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 577779,
+      "num": 577779,
+      "word": "富豪出10万美元请女子摘口罩遭拒",
+      "onboard_time": 1679074218,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 548088,
       "num": 548088,
       "word": "杨洋直播",
@@ -72,14 +88,6 @@
       "word": "日本女大胃王菅原初代患肠癌病逝",
       "onboard_time": 1679059410,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 465968,
-      "num": 465968,
-      "word": "我国首次发现奥密克戎新亚型",
-      "onboard_time": 1679084533,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -131,6 +139,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 344694,
+      "num": 344694,
+      "word": "超市6500元招聘引学生排队投简历",
+      "onboard_time": 1679079193,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 313343,
       "num": 313343,
       "word": "金大川雎晓雯 喜酒",
@@ -145,14 +161,6 @@
       "onboard_time": 1679063372,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 277254,
-      "num": 277254,
-      "word": "富豪出10万美元请女子摘口罩遭拒",
-      "onboard_time": 1679074218,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 273447,
@@ -171,12 +179,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 251641,
+      "num": 189314,
+      "word": "俄罗斯养的大熊猫",
+      "onboard_time": 1679082312,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 243980,
       "num": 243980,
       "word": "鹿晗在厨房洗头",
       "onboard_time": 1679064270,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 242226,
+      "num": 173791,
+      "word": "警方回应游客98元买走60根虫草",
+      "onboard_time": 1679078654,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 215817,
@@ -275,14 +299,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 145847,
-      "num": 84757,
-      "word": "超市6500元招聘引学生排队投简历",
-      "onboard_time": 1679079193,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 141766,
       "num": 141766,
       "word": "这家凉皮摊前全是100分",
@@ -315,12 +331,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 123401,
+      "num": 97073,
+      "word": "研究表明养猫养狗或影响睡眠",
+      "onboard_time": 1679077875,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 122230,
       "num": 122230,
       "word": "小学生第一次听周杰伦的歌",
       "onboard_time": 1679055026,
       "rank": 35,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 119593,
+      "num": 96100,
+      "word": "女友被拍18下才反应被求婚",
+      "onboard_time": 1679074637,
+      "rank": 21,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 118804,
@@ -371,22 +403,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 105864,
-      "num": 76226,
-      "word": "警方回应游客98元买走60根虫草",
-      "onboard_time": 1679078654,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 105347,
-      "num": 72214,
-      "word": "俄罗斯养的大熊猫",
-      "onboard_time": 1679082312,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 103588,
       "num": 103588,
       "word": "樊振东VS莫雷加德",
@@ -401,14 +417,6 @@
       "onboard_time": 1679066667,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 99064,
-      "num": 55170,
-      "word": "女友被拍18下才反应被求婚",
-      "onboard_time": 1679074637,
-      "rank": 21,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 98837,
@@ -435,12 +443,28 @@
       "category": "时尚,艺人"
     },
     {
+      "raw_hot": 94443,
+      "num": 94443,
+      "word": "晨晓夫妇70秒吻戏",
+      "onboard_time": 1679051669,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 91282,
       "num": 91282,
       "word": "iG花式解读电影龙与地下城",
       "onboard_time": 1679068227,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 88444,
+      "num": 88444,
+      "word": "你管这叫修正带",
+      "onboard_time": 1679080453,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 82533,
@@ -467,6 +491,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 80431,
+      "num": 80431,
+      "word": "魏平安女儿被校园霸凌",
+      "onboard_time": 1679062472,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 68378,
+      "num": 68378,
+      "word": "谁教你们这么谈恋爱的",
+      "onboard_time": 1679082852,
+      "rank": 24,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 66060,
       "num": 1056967,
       "word": "2022中国科学十大进展",
@@ -483,36 +523,20 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 58329,
-      "num": 45437,
-      "word": "研究表明养猫养狗或影响睡眠",
-      "onboard_time": 1679077875,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 60135,
+      "num": 60135,
+      "word": "孙怡徐艺洋演同事",
+      "onboard_time": 1679057187,
+      "rank": 37,
+      "category": "影视"
     },
     {
-      "raw_hot": 43173,
-      "num": 43173,
+      "raw_hot": 49062,
+      "num": 49062,
       "word": "28岁徐志胜和38岁陈伟霆同框",
       "onboard_time": 1679045669,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 37131,
-      "num": 37131,
-      "word": "你管这叫修正带",
-      "onboard_time": 1679080453,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 32747,
-      "num": 32747,
-      "word": "谁教你们这么谈恋爱的",
-      "onboard_time": 1679082852,
-      "rank": 24,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 28239,
