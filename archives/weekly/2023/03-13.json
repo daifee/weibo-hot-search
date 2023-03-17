@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1679063661423,
+  "endTime": 1679066365960,
   "band_list": [
     {
       "raw_hot": 9458443,
@@ -883,6 +883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1114905,
+      "num": 1114905,
+      "word": "好友去世少年凌晨3点在街头痛哭",
+      "onboard_time": 1679063313,
+      "rank": 48,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 1099617,
       "num": 183703,
       "word": "新上错花轿嫁对郎改名",
@@ -1313,6 +1321,14 @@
       "onboard_time": 1678890274,
       "rank": 12,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 889183,
+      "num": 889183,
+      "word": "小福菀终于学会爬树了",
+      "onboard_time": 1679062412,
+      "rank": 48,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 888410,
@@ -1841,6 +1857,14 @@
       "onboard_time": 1678926327,
       "rank": 5,
       "category": "科技"
+    },
+    {
+      "raw_hot": 747660,
+      "num": 747660,
+      "word": "最强大脑10脑王",
+      "onboard_time": 1679063372,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 747619,
@@ -2491,6 +2515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 616984,
+      "num": 340398,
+      "word": "男子隐瞒婚史与21岁女孩交往",
+      "onboard_time": 1679064814,
+      "rank": 20,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 616768,
       "num": 384999,
       "word": "杨紫现代剧原声率百分百",
@@ -2668,7 +2700,7 @@
     },
     {
       "raw_hot": 591098,
-      "num": 373292,
+      "num": 504782,
       "word": "Jennie新剧将在戛纳首映",
       "onboard_time": 1679062655,
       "rank": 12,
@@ -3643,6 +3675,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 475894,
+      "num": 475894,
+      "word": "鹿晗在厨房洗头",
+      "onboard_time": 1679064270,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 475762,
       "num": 475762,
       "word": "他是谁",
@@ -3691,6 +3731,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 471796,
+      "num": 471796,
+      "word": "丫丫胖了一点白了一点",
+      "onboard_time": 1679065230,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 471650,
       "num": 208608,
       "word": "朴妍珍在监狱播报气象",
@@ -3713,6 +3761,14 @@
       "onboard_time": 1678764567,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 466852,
+      "num": 466852,
+      "word": "理科生坠入情网",
+      "onboard_time": 1679062291,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 466667,
@@ -4899,6 +4955,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 353717,
+      "num": 353717,
+      "word": "郭艾伦被谁绊倒了",
+      "onboard_time": 1679064454,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 353697,
+      "num": 353697,
+      "word": "樊振东VS莫雷加德",
+      "onboard_time": 1679064573,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 351905,
       "num": 351905,
       "word": "俞永镇跟李秀满离开SM",
@@ -5643,14 +5715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 303366,
-      "num": 303366,
-      "word": "小福菀终于学会爬树了",
-      "onboard_time": 1679062412,
-      "rank": 48,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 301362,
       "num": 401862,
       "word": "花花是如何成为顶流的",
@@ -5729,14 +5793,6 @@
       "onboard_time": 1678652111,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 292004,
-      "num": 292004,
-      "word": "最强大脑10脑王",
-      "onboard_time": 1679063372,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 291028,
@@ -6595,14 +6651,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 240988,
-      "num": 240988,
-      "word": "理科生坠入情网",
-      "onboard_time": 1679062291,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 240890,
       "num": 240890,
       "word": "韩流男神们近照",
@@ -6899,6 +6947,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 229851,
+      "num": 229851,
+      "word": "杨英豪淘汰",
+      "onboard_time": 1679064573,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 229847,
       "num": 229847,
       "word": "潮汕涉事橄榄菜企业下架整改",
@@ -6977,6 +7033,14 @@
       "onboard_time": 1678940550,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 224784,
+      "num": 224784,
+      "word": "樊振东4比2莫雷加德",
+      "onboard_time": 1679065353,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 224571,
@@ -7715,6 +7779,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 198837,
+      "num": 198837,
+      "word": "杨洋直播",
+      "onboard_time": 1679066190,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198786,
       "num": 198786,
       "word": "丁程鑫杨迪团建",
@@ -8265,6 +8337,14 @@
       "onboard_time": 1678977390,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 186086,
+      "num": 186086,
+      "word": "毛不易演唱会",
+      "onboard_time": 1679066131,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 186075,
@@ -9451,6 +9531,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 136773,
+      "num": 136773,
+      "word": "张杰好会过日子",
+      "onboard_time": 1679066190,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 136399,
       "num": 135731,
       "word": "魏如萱音色",
@@ -9489,14 +9577,6 @@
       "onboard_time": 1678934607,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 135557,
-      "num": 135557,
-      "word": "好友去世少年凌晨3点在街头痛哭",
-      "onboard_time": 1679063313,
-      "rank": 48,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 135317,

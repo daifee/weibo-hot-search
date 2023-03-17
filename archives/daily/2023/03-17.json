@@ -1,6 +1,6 @@
 {
   "startTime": 1678984163342,
-  "endTime": 1679063661423,
+  "endTime": 1679066365960,
   "band_list": [
     {
       "raw_hot": 9458443,
@@ -227,6 +227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1114905,
+      "num": 1114905,
+      "word": "好友去世少年凌晨3点在街头痛哭",
+      "onboard_time": 1679063313,
+      "rank": 48,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 1085717,
       "num": 572261,
       "word": "迪丽热巴驼色大衣造型",
@@ -339,6 +347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 889183,
+      "num": 889183,
+      "word": "小福菀终于学会爬树了",
+      "onboard_time": 1679062412,
+      "rank": 48,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 867799,
       "num": 867799,
       "word": "宝木中阳",
@@ -432,6 +448,14 @@
       "word": "严浩翔 极限挑战",
       "onboard_time": 1679042309,
       "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 747660,
+      "num": 747660,
+      "word": "最强大脑10脑王",
+      "onboard_time": 1679063372,
+      "rank": 23,
       "category": "综艺"
     },
     {
@@ -587,6 +611,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 616984,
+      "num": 340398,
+      "word": "男子隐瞒婚史与21岁女孩交往",
+      "onboard_time": 1679064814,
+      "rank": 20,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 610066,
       "num": 610066,
       "word": "上海迪士尼乐园年卡停售",
@@ -620,7 +652,7 @@
     },
     {
       "raw_hot": 591098,
-      "num": 373292,
+      "num": 504782,
       "word": "Jennie新剧将在戛纳首映",
       "onboard_time": 1679062655,
       "rank": 12,
@@ -803,6 +835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 475894,
+      "num": 475894,
+      "word": "鹿晗在厨房洗头",
+      "onboard_time": 1679064270,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 473470,
       "num": 473470,
       "word": "郁金香见到雪了",
@@ -819,12 +859,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 471796,
+      "num": 471796,
+      "word": "丫丫胖了一点白了一点",
+      "onboard_time": 1679065230,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 470424,
       "num": 470424,
       "word": "再玩下去阿姨就到家了",
       "onboard_time": 1678977692,
       "rank": 7,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 466852,
+      "num": 466852,
+      "word": "理科生坠入情网",
+      "onboard_time": 1679062291,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 461292,
@@ -939,6 +995,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 403990,
+      "num": 403990,
+      "word": "他是谁",
+      "onboard_time": 1678966170,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 401734,
       "num": 393580,
       "word": "斗罗大陆2备案",
@@ -1041,6 +1105,22 @@
       "onboard_time": 1679024549,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 353717,
+      "num": 353717,
+      "word": "郭艾伦被谁绊倒了",
+      "onboard_time": 1679064454,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 353697,
+      "num": 353697,
+      "word": "樊振东VS莫雷加德",
+      "onboard_time": 1679064573,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 348323,
@@ -1171,28 +1251,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 303366,
-      "num": 303366,
-      "word": "小福菀终于学会爬树了",
-      "onboard_time": 1679062412,
-      "rank": 48,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 293804,
       "num": 293804,
       "word": "中俄关系的意义和影响远超双边范畴",
       "onboard_time": 1679042427,
       "rank": 27,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 292004,
-      "num": 292004,
-      "word": "最强大脑10脑王",
-      "onboard_time": 1679063372,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 291028,
@@ -1363,14 +1427,6 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 240988,
-      "num": 240988,
-      "word": "理科生坠入情网",
-      "onboard_time": 1679062291,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 236224,
       "num": 217109,
       "word": "你遇到过哪些天价消费套路",
@@ -1419,6 +1475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 229851,
+      "num": 229851,
+      "word": "杨英豪淘汰",
+      "onboard_time": 1679064573,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 229342,
       "num": 229342,
       "word": "台湾音乐",
@@ -1449,6 +1513,14 @@
       "onboard_time": 1679029290,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 224784,
+      "num": 224784,
+      "word": "樊振东4比2莫雷加德",
+      "onboard_time": 1679065353,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 222053,
@@ -1625,6 +1697,14 @@
       "onboard_time": 1679029109,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 198837,
+      "num": 198837,
+      "word": "杨洋直播",
+      "onboard_time": 1679066190,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 198585,
@@ -1809,6 +1889,14 @@
       "onboard_time": 1679008700,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 186086,
+      "num": 186086,
+      "word": "毛不易演唱会",
+      "onboard_time": 1679066131,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 186075,
@@ -2035,14 +2123,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 147236,
-      "num": 147236,
-      "word": "他是谁",
-      "onboard_time": 1678966170,
-      "rank": 28,
-      "category": "影视"
-    },
-    {
       "raw_hot": 143871,
       "num": 143871,
       "word": "阴阳师",
@@ -2091,6 +2171,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 136773,
+      "num": 136773,
+      "word": "张杰好会过日子",
+      "onboard_time": 1679066190,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 136694,
       "num": 135761,
       "word": "秦刚同乌克兰外长库列巴通电话",
@@ -2121,14 +2209,6 @@
       "onboard_time": 1679048553,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 135557,
-      "num": 135557,
-      "word": "好友去世少年凌晨3点在街头痛哭",
-      "onboard_time": 1679063313,
-      "rank": 48,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 135317,
