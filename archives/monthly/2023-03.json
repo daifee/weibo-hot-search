@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679048427451,
+  "endTime": 1679049393855,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -451,6 +451,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 2263167,
+      "num": 2263167,
+      "word": "金大川雎晓雯 喜酒",
+      "onboard_time": 1679047412,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2252522,
       "num": 2252522,
       "word": "315",
@@ -833,14 +841,6 @@
       "onboard_time": 1678262668,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1876634,
-      "num": 1876634,
-      "word": "金大川雎晓雯 喜酒",
-      "onboard_time": 1679047412,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 1866333,
@@ -2145,6 +2145,14 @@
       "onboard_time": 1678946009,
       "rank": 4,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1284022,
+      "num": 1284022,
+      "word": "天官赐福",
+      "onboard_time": 1679047472,
+      "rank": 6,
+      "category": "影视,艺人"
     },
     {
       "raw_hot": 1275681,
@@ -5419,14 +5427,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 765357,
-      "num": 765357,
-      "word": "天官赐福",
-      "onboard_time": 1679047472,
-      "rank": 6,
-      "category": "影视,艺人"
-    },
-    {
       "raw_hot": 765176,
       "num": 433023,
       "word": "科学家首次让2只雄性老鼠产仔",
@@ -5833,6 +5833,14 @@
       "onboard_time": 1677892467,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 733186,
+      "num": 733186,
+      "word": "王也配音",
+      "onboard_time": 1679047352,
+      "rank": 7,
+      "category": "动漫,艺人"
     },
     {
       "raw_hot": 730838,
@@ -7225,14 +7233,6 @@
       "onboard_time": 1677651805,
       "rank": 23,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 638501,
-      "num": 638501,
-      "word": "王也配音",
-      "onboard_time": 1679047352,
-      "rank": 7,
-      "category": "动漫,艺人"
     },
     {
       "raw_hot": 638217,
@@ -14235,6 +14235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 359689,
+      "num": 359689,
+      "word": "宋慧乔韩素希海报是网友P的",
+      "onboard_time": 1679046572,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 358817,
       "num": 358817,
       "word": "金钟仁更新ins",
@@ -14481,14 +14489,6 @@
       "onboard_time": 1677663509,
       "rank": 19,
       "category": "科技"
-    },
-    {
-      "raw_hot": 352565,
-      "num": 352565,
-      "word": "宋慧乔韩素希海报是网友P的",
-      "onboard_time": 1679046572,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 352559,
@@ -18939,6 +18939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 252663,
+      "num": 252663,
+      "word": "宋扬",
+      "onboard_time": 1679048493,
+      "rank": 28,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 252639,
       "num": 252639,
       "word": "制片人梅子笑为风波中的女演员抱不平",
@@ -19465,6 +19473,14 @@
       "onboard_time": 1678170147,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 243005,
+      "num": 243005,
+      "word": "丁程鑫杨迪加盟你好星期六",
+      "onboard_time": 1679048373,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 242828,
@@ -21225,6 +21241,14 @@
       "onboard_time": 1678080147,
       "rank": 31,
       "category": "时尚,艺人"
+    },
+    {
+      "raw_hot": 216563,
+      "num": 216563,
+      "word": "这么轻松的工作就得我来干",
+      "onboard_time": 1679046029,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 216539,
@@ -23835,6 +23859,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 194240,
+      "num": 194240,
+      "word": "未定事件簿 莫弈",
+      "onboard_time": 1679049030,
+      "rank": 37,
+      "category": "动漫,艺人"
+    },
+    {
       "raw_hot": 194159,
       "num": 194159,
       "word": "魏大勋一秒变恭顺",
@@ -24235,6 +24267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 191222,
+      "num": 191222,
+      "word": "张栋梁再唱自己8年前的歌",
+      "onboard_time": 1679044832,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191113,
       "num": 395327,
       "word": "重庆去年山火救援志愿者又回来植树",
@@ -24433,14 +24473,6 @@
       "onboard_time": 1678882889,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 189812,
-      "num": 189812,
-      "word": "张栋梁再唱自己8年前的歌",
-      "onboard_time": 1679044832,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 189796,
@@ -25265,14 +25297,6 @@
       "onboard_time": 1677809846,
       "rank": 38,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 179707,
-      "num": 179707,
-      "word": "这么轻松的工作就得我来干",
-      "onboard_time": 1679046029,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 179423,
@@ -27011,6 +27035,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 157507,
+      "num": 157507,
+      "word": "归晓哄路晨",
+      "onboard_time": 1679048612,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 157434,
       "num": 157434,
       "word": "秦刚答记者问",
@@ -28651,14 +28683,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 138442,
-      "num": 138442,
-      "word": "丁程鑫杨迪加盟你好星期六",
-      "onboard_time": 1679048373,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 138370,
       "num": 138370,
       "word": "王鹤棣主打的就是一个缓缓下线",
@@ -28889,6 +28913,14 @@
       "onboard_time": 1678455928,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 135881,
+      "num": 135881,
+      "word": "归晓抚摸路晨伤疤",
+      "onboard_time": 1679048553,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 135863,
@@ -30025,6 +30057,14 @@
       "onboard_time": 1678445306,
       "rank": 33,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 122158,
+      "num": 470471,
+      "word": "全年最早上市的瓜来了",
+      "onboard_time": 1679047230,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121974,
@@ -32843,14 +32883,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 72905,
-      "num": 470471,
-      "word": "全年最早上市的瓜来了",
-      "onboard_time": 1679047230,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 72884,
       "num": 386524,
       "word": "为什么向野而生成为趋势",
@@ -33387,6 +33419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 48585,
+      "num": 1590409,
+      "word": "这支船队守望祖国的星空",
+      "onboard_time": 1679046093,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 48524,
       "num": 329844,
       "word": "读千卷书会成为怎样的人",
@@ -33553,14 +33593,6 @@
       "onboard_time": 1678524865,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 39646,
-      "num": 1588721,
-      "word": "这支船队守望祖国的星空",
-      "onboard_time": 1679046093,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 38982,

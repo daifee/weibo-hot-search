@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1679048427451,
+  "endTime": 1679049393855,
   "band_list": [
     {
       "raw_hot": 9458443,
@@ -113,6 +113,14 @@
       "onboard_time": 1678970308,
       "rank": 8,
       "category": "情感"
+    },
+    {
+      "raw_hot": 2263167,
+      "num": 2263167,
+      "word": "金大川雎晓雯 喜酒",
+      "onboard_time": 1679047412,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 2252522,
@@ -273,14 +281,6 @@
       "onboard_time": 1678854329,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1876634,
-      "num": 1876634,
-      "word": "金大川雎晓雯 喜酒",
-      "onboard_time": 1679047412,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 1856521,
@@ -625,6 +625,14 @@
       "onboard_time": 1678946009,
       "rank": 4,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1284022,
+      "num": 1284022,
+      "word": "天官赐福",
+      "onboard_time": 1679047472,
+      "rank": 6,
+      "category": "影视,艺人"
     },
     {
       "raw_hot": 1272247,
@@ -1707,14 +1715,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 765357,
-      "num": 765357,
-      "word": "天官赐福",
-      "onboard_time": 1679047472,
-      "rank": 6,
-      "category": "影视,艺人"
-    },
-    {
       "raw_hot": 762454,
       "num": 762454,
       "word": "严浩翔 极限挑战",
@@ -1809,6 +1809,14 @@
       "onboard_time": 1678807110,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 733186,
+      "num": 733186,
+      "word": "王也配音",
+      "onboard_time": 1679047352,
+      "rank": 7,
+      "category": "动漫,艺人"
     },
     {
       "raw_hot": 730151,
@@ -2273,14 +2281,6 @@
       "onboard_time": 1678970849,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 638501,
-      "num": 638501,
-      "word": "王也配音",
-      "onboard_time": 1679047352,
-      "rank": 7,
-      "category": "动漫,艺人"
     },
     {
       "raw_hot": 634728,
@@ -4555,6 +4555,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 359689,
+      "num": 359689,
+      "word": "宋慧乔韩素希海报是网友P的",
+      "onboard_time": 1679046572,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 358615,
       "num": 142421,
       "word": "熊猫萌兰潜逃失败开启撒娇模式",
@@ -4633,14 +4641,6 @@
       "onboard_time": 1678793188,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 352565,
-      "num": 352565,
-      "word": "宋慧乔韩素希海报是网友P的",
-      "onboard_time": 1679046572,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 351905,
@@ -6059,6 +6059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 252663,
+      "num": 252663,
+      "word": "宋扬",
+      "onboard_time": 1679048493,
+      "rank": 28,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 251678,
       "num": 251678,
       "word": "4S店直播回应清库存五折卖车",
@@ -6217,6 +6225,14 @@
       "onboard_time": 1678934187,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 243005,
+      "num": 243005,
+      "word": "丁程鑫杨迪加盟你好星期六",
+      "onboard_time": 1679048373,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 242755,
@@ -6729,6 +6745,14 @@
       "onboard_time": 1678944628,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 216563,
+      "num": 216563,
+      "word": "这么轻松的工作就得我来干",
+      "onboard_time": 1679046029,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 216539,
@@ -7419,6 +7443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 194240,
+      "num": 194240,
+      "word": "未定事件簿 莫弈",
+      "onboard_time": 1679049030,
+      "rank": 37,
+      "category": "动漫,艺人"
+    },
+    {
       "raw_hot": 194159,
       "num": 194159,
       "word": "魏大勋一秒变恭顺",
@@ -7539,6 +7571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 191222,
+      "num": 191222,
+      "word": "张栋梁再唱自己8年前的歌",
+      "onboard_time": 1679044832,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 190853,
       "num": 208316,
       "word": "王一博无名幕后",
@@ -7601,14 +7641,6 @@
       "onboard_time": 1678882889,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 189812,
-      "num": 189812,
-      "word": "张栋梁再唱自己8年前的歌",
-      "onboard_time": 1679044832,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 189796,
@@ -7857,14 +7889,6 @@
       "onboard_time": 1679030909,
       "rank": 40,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 179707,
-      "num": 179707,
-      "word": "这么轻松的工作就得我来干",
-      "onboard_time": 1679046029,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 179423,
@@ -8395,6 +8419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 157507,
+      "num": 157507,
+      "word": "归晓哄路晨",
+      "onboard_time": 1679048612,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 157200,
       "num": 157200,
       "word": "YG新女团翻唱Gone",
@@ -8827,14 +8859,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 138442,
-      "num": 138442,
-      "word": "丁程鑫杨迪加盟你好星期六",
-      "onboard_time": 1679048373,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 138370,
       "num": 138370,
       "word": "王鹤棣主打的就是一个缓缓下线",
@@ -8889,6 +8913,14 @@
       "onboard_time": 1678980688,
       "rank": 48,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 135881,
+      "num": 135881,
+      "word": "归晓抚摸路晨伤疤",
+      "onboard_time": 1679048553,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 135816,
@@ -9161,6 +9193,14 @@
       "onboard_time": 1678923443,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 122158,
+      "num": 470471,
+      "word": "全年最早上市的瓜来了",
+      "onboard_time": 1679047230,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121974,
@@ -9763,14 +9803,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 72905,
-      "num": 470471,
-      "word": "全年最早上市的瓜来了",
-      "onboard_time": 1679047230,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 69602,
       "num": 229608,
       "word": "天舟六号已运往文昌航天发射场",
@@ -9931,6 +9963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 48585,
+      "num": 1590409,
+      "word": "这支船队守望祖国的星空",
+      "onboard_time": 1679046093,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 48524,
       "num": 329844,
       "word": "读千卷书会成为怎样的人",
@@ -9953,14 +9993,6 @@
       "onboard_time": 1678817414,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 39646,
-      "num": 1588721,
-      "word": "这支船队守望祖国的星空",
-      "onboard_time": 1679046093,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 37417,
