@@ -1,0 +1,410 @@
+{
+  "runTime": 1679017930987,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1999667,
+        "num": 1999667,
+        "word": "四川雅安地震",
+        "onboard_time": 1679015609,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1530468,
+        "num": 1530468,
+        "word": "男子彩票中800万让表弟代领被强占",
+        "onboard_time": 1679016449,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48880,
+        "num": 1210942,
+        "word": "国新办发布新时代的中国网络法治建设白皮书",
+        "onboard_time": 1678978290,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 926608,
+        "num": 926608,
+        "word": "国内2名专家已前往美国照料丫丫",
+        "onboard_time": 1679012426,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 730151,
+        "num": 730151,
+        "word": "上海地铁",
+        "onboard_time": 1679016149,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 701696,
+        "num": 701696,
+        "word": "官方回应丫丫4月7日是否能回国",
+        "onboard_time": 1679015308,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 628150,
+        "num": 628150,
+        "word": "中国低龄老人达1.5亿",
+        "onboard_time": 1679015308,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 615375,
+        "num": 615375,
+        "word": "学生乘车贴绑架纸条致大巴被截停",
+        "onboard_time": 1679013692,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 516992,
+        "num": 516992,
+        "word": "关晓彤官宣加盟微博之夜",
+        "onboard_time": 1679012066,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 429249,
+        "num": 429249,
+        "word": "警方通报女子地铁上辱骂殴打男子",
+        "onboard_time": 1679012306,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1803123,
+        "num": 427771,
+        "word": "韩素希说宋慧乔现在是她的了",
+        "onboard_time": 1679009902,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 736456,
+        "num": 426367,
+        "word": "出生率下跌致幼儿园关停或成趋势",
+        "onboard_time": 1678984460,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 662635,
+        "num": 422663,
+        "word": "当我收到二月份工资",
+        "onboard_time": 1678970308,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 511274,
+        "num": 420953,
+        "word": "上海迪士尼乐园年卡停售",
+        "onboard_time": 1679016506,
+        "rank": 13,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 495847,
+        "num": 419707,
+        "word": "事业单位HR嘲讽求职者简历",
+        "onboard_time": 1678979609,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 418196,
+        "num": 418196,
+        "word": "郭帆 赛凡",
+        "onboard_time": 1679013208,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 363706,
+        "num": 363706,
+        "word": "宋智孝脸部比心",
+        "onboard_time": 1679010924,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 361375,
+        "num": 361375,
+        "word": "苹果可折叠手机新专利",
+        "onboard_time": 1679016806,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 343036,
+        "num": 343036,
+        "word": "学生自带秤复称食堂麻辣香锅被拒",
+        "onboard_time": 1679016868,
+        "rank": 18,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 333605,
+        "num": 333605,
+        "word": "再玩下去阿姨就到家了",
+        "onboard_time": 1678977692,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 544843,
+        "num": 333050,
+        "word": "老婆和表侄私奔老公举报吸毒全被抓",
+        "onboard_time": 1678981706,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 516164,
+        "num": 332549,
+        "word": "丫丫吃甘蔗小心翼翼不舍得浪费",
+        "onboard_time": 1678974689,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331970,
+        "num": 331970,
+        "word": "微博之夜第二批官宣阵容",
+        "onboard_time": 1679016266,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 275183,
+        "num": 275183,
+        "word": "微软将把聊天机器人技术植入Office",
+        "onboard_time": 1679012246,
+        "rank": 23,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 265947,
+        "num": 265947,
+        "word": "一个动作疏肝解郁",
+        "onboard_time": 1679013328,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 257260,
+        "num": 257260,
+        "word": "2人用98元从女童处买走68根虫草",
+        "onboard_time": 1679017166,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245204,
+        "num": 245204,
+        "word": "爷爷生前手抄红楼梦留给孙女",
+        "onboard_time": 1679015849,
+        "rank": 26,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 237440,
+        "num": 237440,
+        "word": "243万存款被行长挪用银行拒赔",
+        "onboard_time": 1678977449,
+        "rank": 27,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 232295,
+        "num": 232295,
+        "word": "张远说被台湾同胞们喜欢三生有幸",
+        "onboard_time": 1678981047,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216021,
+        "num": 216021,
+        "word": "杨坤一直对那英说马嘉祺",
+        "onboard_time": 1679012727,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211015,
+        "num": 211015,
+        "word": "张歆艺问北京有没有春天",
+        "onboard_time": 1679011105,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205750,
+        "num": 205750,
+        "word": "蛋仔派对",
+        "onboard_time": 1679009784,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 205154,
+        "num": 205154,
+        "word": "2022微博之夜最期待的荧幕cp",
+        "onboard_time": 1679017346,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198235,
+        "num": 198235,
+        "word": "太喜欢美而自知的感觉了",
+        "onboard_time": 1678985241,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 186437,
+        "num": 186437,
+        "word": "父母的衰老会让你感到害怕吗",
+        "onboard_time": 1679009543,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169430,
+        "num": 169430,
+        "word": "优质简历都注重的9个细节",
+        "onboard_time": 1679015190,
+        "rank": 35,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 166008,
+        "num": 166008,
+        "word": "佛山草莓音乐节官宣",
+        "onboard_time": 1679011227,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 157200,
+        "num": 157200,
+        "word": "YG新女团翻唱Gone",
+        "onboard_time": 1679012847,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 154895,
+        "num": 154895,
+        "word": "小猫咪有点嫉妒心怎么了",
+        "onboard_time": 1678981224,
+        "rank": 38,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 140119,
+        "num": 140119,
+        "word": "美军公布俄美黑海撞机画面",
+        "onboard_time": 1678976549,
+        "rank": 39,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 135893,
+        "num": 135893,
+        "word": "女子被卷闸门夹住邻居用千斤顶救出",
+        "onboard_time": 1679014289,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109899,
+        "num": 109899,
+        "word": "张杰想见你大合唱",
+        "onboard_time": 1678974089,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109123,
+        "num": 109123,
+        "word": "庄慕卿父亲称儿子并非富二代",
+        "onboard_time": 1678988053,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107013,
+        "num": 107013,
+        "word": "路晨向归晓求婚",
+        "onboard_time": 1678987817,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 103822,
+        "num": 103822,
+        "word": "科学家在中国发现脖子最长恐龙",
+        "onboard_time": 1679002332,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100317,
+        "num": 100317,
+        "word": "丫丫最新画面",
+        "onboard_time": 1678978828,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98934,
+        "num": 98934,
+        "word": "维密秀回归预告",
+        "onboard_time": 1679010324,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 98742,
+        "num": 98742,
+        "word": "红色通缉犯郭文贵在美国被捕",
+        "onboard_time": 1678970427,
+        "rank": 47,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 95079,
+        "num": 95079,
+        "word": "顽童拉走椅子致童星摔至尿失禁",
+        "onboard_time": 1679017888,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92592,
+        "num": 92592,
+        "word": "林俊杰香港演唱会vlog",
+        "onboard_time": 1679013509,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#党和国家机构改革方案全文#"
+    }
+  }
+}

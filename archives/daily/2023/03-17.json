@@ -1,6 +1,6 @@
 {
   "startTime": 1678984163342,
-  "endTime": 1679016877560,
+  "endTime": 1679017930987,
   "band_list": [
     {
       "raw_hot": 2182595,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1939065,
-      "num": 413008,
+      "num": 427771,
       "word": "韩素希说宋慧乔现在是她的了",
       "onboard_time": 1679009902,
       "rank": 10,
@@ -24,6 +24,14 @@
       "word": "事业单位HR嘲讽求职者简历",
       "onboard_time": 1678979609,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1530468,
+      "num": 1530468,
+      "word": "男子彩票中800万让表弟代领被强占",
+      "onboard_time": 1679016449,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -59,8 +67,24 @@
       "category": "情感"
     },
     {
+      "raw_hot": 730151,
+      "num": 730151,
+      "word": "上海地铁",
+      "onboard_time": 1679016149,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 701696,
+      "num": 701696,
+      "word": "官方回应丫丫4月7日是否能回国",
+      "onboard_time": 1679015308,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 699230,
-      "num": 262581,
+      "num": 332549,
       "word": "丫丫吃甘蔗小心翼翼不舍得浪费",
       "onboard_time": 1678974689,
       "rank": 20,
@@ -76,18 +100,10 @@
     },
     {
       "raw_hot": 659400,
-      "num": 266845,
+      "num": 333050,
       "word": "老婆和表侄私奔老公举报吸毒全被抓",
       "onboard_time": 1678981706,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 643992,
-      "num": 643992,
-      "word": "官方回应丫丫4月7日是否能回国",
-      "onboard_time": 1679015308,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -107,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 628150,
+      "num": 628150,
+      "word": "中国低龄老人达1.5亿",
+      "onboard_time": 1679015308,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 549979,
       "num": 549979,
       "word": "243万存款被行长挪用银行拒赔",
@@ -115,12 +139,20 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 534051,
-      "num": 534051,
-      "word": "中国低龄老人达1.5亿",
-      "onboard_time": 1679015308,
-      "rank": 6,
-      "category": "社会新闻"
+      "raw_hot": 516992,
+      "num": 516992,
+      "word": "关晓彤官宣加盟微博之夜",
+      "onboard_time": 1679012066,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 511274,
+      "num": 420953,
+      "word": "上海迪士尼乐园年卡停售",
+      "onboard_time": 1679016506,
+      "rank": 33,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 478041,
@@ -163,19 +195,35 @@
       "category": "科技"
     },
     {
-      "raw_hot": 404300,
-      "num": 404300,
-      "word": "关晓彤官宣加盟微博之夜",
-      "onboard_time": 1679012066,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 361494,
       "num": 361494,
       "word": "声生不息宝岛季",
       "onboard_time": 1678966050,
       "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 361375,
+      "num": 361375,
+      "word": "苹果可折叠手机新专利",
+      "onboard_time": 1679016806,
+      "rank": 48,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 343036,
+      "num": 343036,
+      "word": "学生自带秤复称食堂麻辣香锅被拒",
+      "onboard_time": 1679016868,
+      "rank": 49,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 331970,
+      "num": 331970,
+      "word": "微博之夜第二批官宣阵容",
+      "onboard_time": 1679016266,
+      "rank": 29,
       "category": "综艺"
     },
     {
@@ -188,7 +236,7 @@
     },
     {
       "raw_hot": 331231,
-      "num": 257162,
+      "num": 265947,
       "word": "一个动作疏肝解郁",
       "onboard_time": 1679013328,
       "rank": 22,
@@ -235,20 +283,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 287697,
-      "num": 287697,
-      "word": "上海地铁",
-      "onboard_time": 1679016149,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 279617,
       "num": 279617,
       "word": "张歆艺问北京有没有春天",
       "onboard_time": 1679011105,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 257260,
+      "num": 257260,
+      "word": "2人用98元从女童处买走68根虫草",
+      "onboard_time": 1679017166,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 251017,
@@ -267,12 +315,12 @@
       "category": "军事"
     },
     {
-      "raw_hot": 248123,
-      "num": 248123,
-      "word": "男子彩票中800万让表弟代领被强占",
-      "onboard_time": 1679016449,
-      "rank": 24,
-      "category": "社会新闻"
+      "raw_hot": 245204,
+      "num": 245204,
+      "word": "爷爷生前手抄红楼梦留给孙女",
+      "onboard_time": 1679015849,
+      "rank": 30,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 235640,
@@ -331,20 +379,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 205743,
-      "num": 205743,
-      "word": "微博之夜第二批官宣阵容",
-      "onboard_time": 1679016266,
-      "rank": 29,
+      "raw_hot": 205154,
+      "num": 205154,
+      "word": "2022微博之夜最期待的荧幕cp",
+      "onboard_time": 1679017346,
+      "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 203682,
-      "num": 203682,
-      "word": "爷爷生前手抄红楼梦留给孙女",
-      "onboard_time": 1679015849,
-      "rank": 30,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 200059,
@@ -395,14 +435,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 168806,
-      "num": 168806,
-      "word": "上海迪士尼乐园年卡停售",
-      "onboard_time": 1679016506,
-      "rank": 33,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 166124,
       "num": 166124,
       "word": "tangoz演我看黑暗荣耀",
@@ -451,6 +483,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 157200,
+      "num": 157200,
+      "word": "YG新女团翻唱Gone",
+      "onboard_time": 1679012847,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 152589,
       "num": 152589,
       "word": "他是谁分尸者到底是谁",
@@ -473,14 +513,6 @@
       "onboard_time": 1678966170,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 145867,
-      "num": 145867,
-      "word": "YG新女团翻唱Gone",
-      "onboard_time": 1679012847,
-      "rank": 36,
-      "category": "音乐"
     },
     {
       "raw_hot": 136694,
@@ -611,14 +643,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 99883,
-      "num": 99883,
-      "word": "苹果可折叠手机新专利",
-      "onboard_time": 1679016806,
-      "rank": 48,
-      "category": "科技"
-    },
-    {
       "raw_hot": 99262,
       "num": 95895,
       "word": "童瑶仪态",
@@ -627,20 +651,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 99068,
-      "num": 99068,
-      "word": "学生自带秤复称食堂麻辣香锅被拒",
-      "onboard_time": 1679016868,
-      "rank": 49,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 96993,
       "num": 96993,
       "word": "尹锡悦抵达日本",
       "onboard_time": 1678976790,
       "rank": 39,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 95079,
+      "num": 95079,
+      "word": "顽童拉走椅子致童星摔至尿失禁",
+      "onboard_time": 1679017888,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 91659,
@@ -724,7 +748,7 @@
     },
     {
       "raw_hot": 54081,
-      "num": 702384,
+      "num": 1210942,
       "word": "国新办发布新时代的中国网络法治建设白皮书",
       "onboard_time": 1678978290,
       "rank": 2,
