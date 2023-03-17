@@ -1,0 +1,410 @@
+{
+  "runTime": 1679087778353,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 86754,
+        "num": 86754,
+        "word": "富豪出10万美元请女子摘口罩遭拒",
+        "onboard_time": 1679074218,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69385,
+        "num": 69385,
+        "word": "他是谁 看yue了",
+        "onboard_time": 1679060550,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 10517,
+        "num": 65554,
+        "word": "2022中国科学十大进展",
+        "onboard_time": 1679057729,
+        "rank": 2,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 74897,
+        "num": 65040,
+        "word": "好友去世少年凌晨3点在街头痛哭",
+        "onboard_time": 1679063313,
+        "rank": 3,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 63196,
+        "num": 63196,
+        "word": "姜广涛涉嫌刑事犯罪",
+        "onboard_time": 1679042309,
+        "rank": 4,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 52854,
+        "num": 52854,
+        "word": "丫丫胖了一点白了一点",
+        "onboard_time": 1679065230,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42434,
+        "num": 42434,
+        "word": "日本女大胃王菅原初代患肠癌病逝",
+        "onboard_time": 1679059410,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40341,
+        "num": 40341,
+        "word": "什么行为容易伤肝",
+        "onboard_time": 1679068169,
+        "rank": 7,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 32976,
+        "num": 32976,
+        "word": "隔空猥亵受害者多为未成年人",
+        "onboard_time": 1679067569,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30971,
+        "num": 30971,
+        "word": "谁教你们这么谈恋爱的",
+        "onboard_time": 1679082852,
+        "rank": 9,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 191111,
+        "num": 30113,
+        "word": "我国首次发现奥密克戎新亚型",
+        "onboard_time": 1679084533,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47580,
+        "num": 29950,
+        "word": "警方回应游客98元买走60根虫草",
+        "onboard_time": 1679078654,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28112,
+        "num": 28112,
+        "word": "月薪三千的生活是怎样的",
+        "onboard_time": 1679060070,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 27888,
+        "num": 27888,
+        "word": "钟汉良买菜只花了9毛钱",
+        "onboard_time": 1679073020,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25513,
+        "num": 25513,
+        "word": "金大川雎晓雯 喜酒",
+        "onboard_time": 1679047412,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25374,
+        "num": 25374,
+        "word": "哇唧唧哇 难哄",
+        "onboard_time": 1679055327,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 24169,
+        "num": 24169,
+        "word": "你管这叫修正带",
+        "onboard_time": 1679080453,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 23701,
+        "num": 23701,
+        "word": "关晓彤香槟色水光裙",
+        "onboard_time": 1679061451,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 23034,
+        "num": 23034,
+        "word": "桑延选角",
+        "onboard_time": 1679059470,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 21911,
+        "num": 21911,
+        "word": "小福菀终于学会爬树了",
+        "onboard_time": 1679062412,
+        "rank": 19,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 73993,
+        "num": 21805,
+        "word": "男子隐瞒婚史与21岁女孩交往",
+        "onboard_time": 1679064814,
+        "rank": 20,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 36670,
+        "num": 21754,
+        "word": "24岁女子不会做饭给自己报名小饭桌",
+        "onboard_time": 1679066790,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29597,
+        "num": 21706,
+        "word": "研究表明养猫养狗或影响睡眠",
+        "onboard_time": 1679077875,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21502,
+        "num": 21502,
+        "word": "他是谁",
+        "onboard_time": 1679065830,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 20448,
+        "num": 20448,
+        "word": "女友被拍18下才反应被求婚",
+        "onboard_time": 1679074637,
+        "rank": 24,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 20131,
+        "num": 20131,
+        "word": "最强大脑10脑王",
+        "onboard_time": 1679063372,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20122,
+        "num": 20122,
+        "word": "央行决定降准0.25个百分点",
+        "onboard_time": 1679045072,
+        "rank": 26,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 19876,
+        "num": 19876,
+        "word": "张译带着悬疑刑侦硬菜剧来了",
+        "onboard_time": 1679069485,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 18150,
+        "num": 18150,
+        "word": "鹿晗在厨房洗头",
+        "onboard_time": 1679064270,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16797,
+        "num": 16797,
+        "word": "iG花式解读电影龙与地下城",
+        "onboard_time": 1679068227,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 54969,
+        "num": 16769,
+        "word": "俄罗斯养的大熊猫",
+        "onboard_time": 1679082312,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51325,
+        "num": 16737,
+        "word": "超市6500元招聘引学生排队投简历",
+        "onboard_time": 1679079193,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16568,
+        "num": 16568,
+        "word": "这家凉皮摊前全是100分",
+        "onboard_time": 1679058508,
+        "rank": 32,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 16473,
+        "num": 16473,
+        "word": "Jennie新剧将在戛纳首映",
+        "onboard_time": 1679062655,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 16385,
+        "num": 16385,
+        "word": "女子腹痛就医竟怀孕足月生下男婴",
+        "onboard_time": 1679036069,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15791,
+        "num": 15791,
+        "word": "梁博现场",
+        "onboard_time": 1679060852,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 15440,
+        "num": 15440,
+        "word": "水哥家里有个小森林",
+        "onboard_time": 1679068588,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14350,
+        "num": 14350,
+        "word": "魏大勋大侦探靠一句话洗脱嫌疑",
+        "onboard_time": 1679051131,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14235,
+        "num": 14235,
+        "word": "28岁徐志胜和38岁陈伟霆同框",
+        "onboard_time": 1679045669,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14066,
+        "num": 14066,
+        "word": "天官赐福",
+        "onboard_time": 1679047472,
+        "rank": 39,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 13962,
+        "num": 13962,
+        "word": "大江大河3海报",
+        "onboard_time": 1679062291,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 13771,
+        "num": 13771,
+        "word": "斗罗大陆2备案",
+        "onboard_time": 1679056170,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 13722,
+        "num": 13722,
+        "word": "郭艾伦被谁绊倒了",
+        "onboard_time": 1679064454,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13572,
+        "num": 13572,
+        "word": "小学生第一次听周杰伦的歌",
+        "onboard_time": 1679055026,
+        "rank": 43,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 12864,
+        "num": 12864,
+        "word": "理科生坠入情网",
+        "onboard_time": 1679062291,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 12504,
+        "num": 12504,
+        "word": "雎晓雯 谢谢祝福",
+        "onboard_time": 1679050230,
+        "rank": 45,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 12417,
+        "num": 12417,
+        "word": "广东一名消防员在灭火战斗中牺牲",
+        "onboard_time": 1679058087,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11943,
+        "num": 12416,
+        "word": "姜广涛能不能把声带捐出来",
+        "onboard_time": 1679052869,
+        "rank": 47,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 11445,
+        "num": 12411,
+        "word": "德勤华永回应财政部罚单",
+        "onboard_time": 1679054248,
+        "rank": 48,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 11058,
+        "num": 12411,
+        "word": "如何一句话让网友应激",
+        "onboard_time": 1679071822,
+        "rank": 49,
+        "category": "幽默,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平将对俄罗斯进行国事访问#"
+    }
+  }
+}
