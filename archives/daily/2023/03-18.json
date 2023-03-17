@@ -1,6 +1,6 @@
 {
   "startTime": 1679070330564,
-  "endTime": 1679073405462,
+  "endTime": 1679074413784,
   "band_list": [
     {
       "raw_hot": 1250904,
@@ -155,6 +155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 243410,
+      "num": 243410,
+      "word": "怎么亲嘴还要人教啊",
+      "onboard_time": 1679072959,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 215817,
       "num": 215817,
       "word": "关晓彤香槟色水光裙",
@@ -219,19 +227,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 168198,
+      "num": 168198,
+      "word": "钟汉良买菜只花了9毛钱",
+      "onboard_time": 1679073020,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 156430,
       "num": 156430,
       "word": "魏大勋大侦探靠一句话洗脱嫌疑",
       "onboard_time": 1679051131,
       "rank": 28,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 155160,
-      "num": 155160,
-      "word": "钟汉良买菜只花了9毛钱",
-      "onboard_time": 1679073020,
-      "rank": 13,
       "category": "综艺"
     },
     {
@@ -419,20 +427,20 @@
       "category": "科技"
     },
     {
-      "raw_hot": 59270,
-      "num": 59270,
-      "word": "怎么亲嘴还要人教啊",
-      "onboard_time": 1679072959,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 56497,
-      "num": 56497,
+      "raw_hot": 61549,
+      "num": 61549,
       "word": "如何一句话让网友应激",
       "onboard_time": 1679071822,
       "rank": 46,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 38444,
+      "num": 38444,
+      "word": "富豪出10万美元请女子摘口罩遭拒",
+      "onboard_time": 1679074218,
+      "rank": 48,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

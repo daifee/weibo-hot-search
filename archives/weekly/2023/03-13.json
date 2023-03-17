@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1679073405462,
+  "endTime": 1679074413784,
   "band_list": [
     {
       "raw_hot": 9458443,
@@ -6667,6 +6667,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 243410,
+      "num": 243410,
+      "word": "怎么亲嘴还要人教啊",
+      "onboard_time": 1679072959,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 243054,
       "num": 243054,
       "word": "小美人鱼爱丽儿和王子驾车剧照",
@@ -8803,6 +8811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 168198,
+      "num": 168198,
+      "word": "钟汉良买菜只花了9毛钱",
+      "onboard_time": 1679073020,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 167756,
       "num": 167756,
       "word": "魏平安女儿被校园霸凌",
@@ -9105,14 +9121,6 @@
       "onboard_time": 1678869028,
       "rank": 45,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 155160,
-      "num": 155160,
-      "word": "钟汉良买菜只花了9毛钱",
-      "onboard_time": 1679073020,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 155140,
@@ -10595,6 +10603,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 61549,
+      "num": 61549,
+      "word": "如何一句话让网友应激",
+      "onboard_time": 1679071822,
+      "rank": 46,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 61409,
       "num": 261763,
       "word": "众筹纪录片看春日里的中国人",
@@ -10617,14 +10633,6 @@
       "onboard_time": 1678814058,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 59270,
-      "num": 59270,
-      "word": "怎么亲嘴还要人教啊",
-      "onboard_time": 1679072959,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 58775,
@@ -10657,14 +10665,6 @@
       "onboard_time": 1678918514,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 56497,
-      "num": 56497,
-      "word": "如何一句话让网友应激",
-      "onboard_time": 1679071822,
-      "rank": 46,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 55994,
@@ -10753,6 +10753,14 @@
       "onboard_time": 1678817414,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 38444,
+      "num": 38444,
+      "word": "富豪出10万美元请女子摘口罩遭拒",
+      "onboard_time": 1679074218,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 37417,

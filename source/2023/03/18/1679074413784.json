@@ -1,0 +1,410 @@
+{
+  "runTime": 1679074413784,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 495447,
+        "num": 495447,
+        "word": "丫丫胖了一点白了一点",
+        "onboard_time": 1679065230,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 418663,
+        "num": 418663,
+        "word": "他是谁 看yue了",
+        "onboard_time": 1679060550,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 34016,
+        "num": 406164,
+        "word": "2022中国科学十大进展",
+        "onboard_time": 1679057729,
+        "rank": 2,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 576159,
+        "num": 404729,
+        "word": "好友去世少年凌晨3点在街头痛哭",
+        "onboard_time": 1679063313,
+        "rank": 3,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 401952,
+        "num": 401952,
+        "word": "姜广涛涉嫌刑事犯罪",
+        "onboard_time": 1679042309,
+        "rank": 4,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 272484,
+        "num": 272484,
+        "word": "月薪三千的生活是怎样的",
+        "onboard_time": 1679060070,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 271250,
+        "num": 271250,
+        "word": "隔空猥亵受害者多为未成年人",
+        "onboard_time": 1679067569,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243410,
+        "num": 243410,
+        "word": "怎么亲嘴还要人教啊",
+        "onboard_time": 1679072959,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 239997,
+        "num": 239997,
+        "word": "日本女大胃王菅原初代患肠癌病逝",
+        "onboard_time": 1679059410,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223608,
+        "num": 223608,
+        "word": "什么行为容易伤肝",
+        "onboard_time": 1679068169,
+        "rank": 9,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 203484,
+        "num": 203484,
+        "word": "哇唧唧哇 难哄",
+        "onboard_time": 1679055327,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 168198,
+        "num": 168198,
+        "word": "钟汉良买菜只花了9毛钱",
+        "onboard_time": 1679073020,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145537,
+        "num": 145537,
+        "word": "金大川雎晓雯 喜酒",
+        "onboard_time": 1679047412,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144725,
+        "num": 144725,
+        "word": "桑延选角",
+        "onboard_time": 1679059470,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 141546,
+        "num": 141546,
+        "word": "小福菀终于学会爬树了",
+        "onboard_time": 1679062412,
+        "rank": 14,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 113776,
+        "num": 113776,
+        "word": "梁博现场",
+        "onboard_time": 1679060852,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 108532,
+        "num": 108532,
+        "word": "最强大脑10脑王",
+        "onboard_time": 1679063372,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98532,
+        "num": 98532,
+        "word": "关晓彤香槟色水光裙",
+        "onboard_time": 1679061451,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 95643,
+        "num": 95643,
+        "word": "Jennie新剧将在戛纳首映",
+        "onboard_time": 1679062655,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 94472,
+        "num": 94472,
+        "word": "理科生坠入情网",
+        "onboard_time": 1679062291,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 263442,
+        "num": 92609,
+        "word": "男子隐瞒婚史与21岁女孩交往",
+        "onboard_time": 1679064814,
+        "rank": 20,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 173921,
+        "num": 91700,
+        "word": "24岁女子不会做饭给自己报名小饭桌",
+        "onboard_time": 1679066790,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89499,
+        "num": 89499,
+        "word": "水哥家里有个小森林",
+        "onboard_time": 1679068588,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82023,
+        "num": 82023,
+        "word": "张译带着悬疑刑侦硬菜剧来了",
+        "onboard_time": 1679069485,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 78199,
+        "num": 78199,
+        "word": "天官赐福",
+        "onboard_time": 1679047472,
+        "rank": 24,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 80713,
+        "num": 78092,
+        "word": "他是谁",
+        "onboard_time": 1679065830,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 77911,
+        "num": 77911,
+        "word": "鹿晗在厨房洗头",
+        "onboard_time": 1679064270,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 75338,
+        "num": 75338,
+        "word": "魏大勋大侦探靠一句话洗脱嫌疑",
+        "onboard_time": 1679051131,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74678,
+        "num": 74678,
+        "word": "央行决定降准0.25个百分点",
+        "onboard_time": 1679045072,
+        "rank": 28,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 69731,
+        "num": 69731,
+        "word": "女子腹痛就医竟怀孕足月生下男婴",
+        "onboard_time": 1679036069,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68888,
+        "num": 68888,
+        "word": "小学生第一次听周杰伦的歌",
+        "onboard_time": 1679055026,
+        "rank": 30,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 66865,
+        "num": 66865,
+        "word": "广东一名消防员在灭火战斗中牺牲",
+        "onboard_time": 1679058087,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62430,
+        "num": 62430,
+        "word": "这家凉皮摊前全是100分",
+        "onboard_time": 1679058508,
+        "rank": 32,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 61549,
+        "num": 61549,
+        "word": "如何一句话让网友应激",
+        "onboard_time": 1679071822,
+        "rank": 33,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 58732,
+        "num": 58732,
+        "word": "毛不易演唱会",
+        "onboard_time": 1679066131,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 58681,
+        "num": 58681,
+        "word": "姜广涛能不能把声带捐出来",
+        "onboard_time": 1679052869,
+        "rank": 35,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 56321,
+        "num": 56321,
+        "word": "井柏然说第十一集真美好",
+        "onboard_time": 1679070383,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 126463,
+        "num": 55639,
+        "word": "杨洋直播",
+        "onboard_time": 1679066190,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54370,
+        "num": 54370,
+        "word": "德勤华永回应财政部罚单",
+        "onboard_time": 1679054248,
+        "rank": 38,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 51811,
+        "num": 51811,
+        "word": "雎晓雯 谢谢祝福",
+        "onboard_time": 1679050230,
+        "rank": 39,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 51160,
+        "num": 51160,
+        "word": "归晓催路晨结婚",
+        "onboard_time": 1679069125,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 50286,
+        "num": 50286,
+        "word": "斗罗大陆2备案",
+        "onboard_time": 1679056170,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 47664,
+        "num": 47664,
+        "word": "中国专家抵达孟菲斯动物园",
+        "onboard_time": 1679041288,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46640,
+        "num": 46640,
+        "word": "光渊",
+        "onboard_time": 1679058569,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 46077,
+        "num": 46077,
+        "word": "白宇鹏卫冕脑王",
+        "onboard_time": 1679066551,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45668,
+        "num": 45668,
+        "word": "大江大河3海报",
+        "onboard_time": 1679062291,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 45133,
+        "num": 45133,
+        "word": "郭艾伦被谁绊倒了",
+        "onboard_time": 1679064454,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 44646,
+        "num": 44646,
+        "word": "iG花式解读电影龙与地下城",
+        "onboard_time": 1679068227,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 38444,
+        "num": 38444,
+        "word": "富豪出10万美元请女子摘口罩遭拒",
+        "onboard_time": 1679074218,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34687,
+        "num": 34687,
+        "word": "樊振东VS莫雷加德",
+        "onboard_time": 1679064573,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动世界现代化进程的中国方案#"
+    }
+  }
+}
