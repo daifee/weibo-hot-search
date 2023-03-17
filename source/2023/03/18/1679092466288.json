@@ -1,0 +1,410 @@
+{
+  "runTime": 1679092466288,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 465968,
+        "num": 465968,
+        "word": "我国首次发现奥密克戎新亚型",
+        "onboard_time": 1679084533,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213229,
+        "num": 213229,
+        "word": "富豪出10万美元请女子摘口罩遭拒",
+        "onboard_time": 1679074218,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20798,
+        "num": 181734,
+        "word": "2022中国科学十大进展",
+        "onboard_time": 1679057729,
+        "rank": 2,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 228388,
+        "num": 176128,
+        "word": "好友去世少年凌晨3点在街头痛哭",
+        "onboard_time": 1679063313,
+        "rank": 3,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 162371,
+        "num": 162371,
+        "word": "他是谁 看yue了",
+        "onboard_time": 1679060550,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 135907,
+        "num": 135907,
+        "word": "丫丫胖了一点白了一点",
+        "onboard_time": 1679065230,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132060,
+        "num": 132060,
+        "word": "姜广涛涉嫌刑事犯罪",
+        "onboard_time": 1679042309,
+        "rank": 6,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 122677,
+        "num": 122677,
+        "word": "日本女大胃王菅原初代患肠癌病逝",
+        "onboard_time": 1679059410,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97842,
+        "num": 97842,
+        "word": "什么行为容易伤肝",
+        "onboard_time": 1679068169,
+        "rank": 8,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 85128,
+        "num": 85128,
+        "word": "隔空猥亵受害者多为未成年人",
+        "onboard_time": 1679067569,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145847,
+        "num": 84757,
+        "word": "超市6500元招聘引学生排队投简历",
+        "onboard_time": 1679079193,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105864,
+        "num": 76226,
+        "word": "警方回应游客98元买走60根虫草",
+        "onboard_time": 1679078654,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105347,
+        "num": 72214,
+        "word": "俄罗斯养的大熊猫",
+        "onboard_time": 1679082312,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65417,
+        "num": 65417,
+        "word": "钟汉良买菜只花了9毛钱",
+        "onboard_time": 1679073020,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62901,
+        "num": 62901,
+        "word": "月薪三千的生活是怎样的",
+        "onboard_time": 1679060070,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 58320,
+        "num": 58320,
+        "word": "哇唧唧哇 难哄",
+        "onboard_time": 1679055327,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 57416,
+        "num": 57416,
+        "word": "金大川雎晓雯 喜酒",
+        "onboard_time": 1679047412,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51663,
+        "num": 51663,
+        "word": "最强大脑10脑王",
+        "onboard_time": 1679063372,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50606,
+        "num": 50606,
+        "word": "张译带着悬疑刑侦硬菜剧来了",
+        "onboard_time": 1679069485,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 45824,
+        "num": 45824,
+        "word": "鹿晗在厨房洗头",
+        "onboard_time": 1679064270,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186807,
+        "num": 45805,
+        "word": "男子隐瞒婚史与21岁女孩交往",
+        "onboard_time": 1679064814,
+        "rank": 20,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 91662,
+        "num": 45665,
+        "word": "24岁女子不会做饭给自己报名小饭桌",
+        "onboard_time": 1679066790,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58329,
+        "num": 45437,
+        "word": "研究表明养猫养狗或影响睡眠",
+        "onboard_time": 1679077875,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50741,
+        "num": 45354,
+        "word": "女友被拍18下才反应被求婚",
+        "onboard_time": 1679074637,
+        "rank": 23,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 45212,
+        "num": 45212,
+        "word": "桑延选角",
+        "onboard_time": 1679059470,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 43204,
+        "num": 43204,
+        "word": "央行决定降准0.25个百分点",
+        "onboard_time": 1679045072,
+        "rank": 25,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 43173,
+        "num": 43173,
+        "word": "28岁徐志胜和38岁陈伟霆同框",
+        "onboard_time": 1679045669,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42801,
+        "num": 42801,
+        "word": "小福菀终于学会爬树了",
+        "onboard_time": 1679062412,
+        "rank": 27,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 42755,
+        "num": 42755,
+        "word": "关晓彤香槟色水光裙",
+        "onboard_time": 1679061451,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 41846,
+        "num": 41846,
+        "word": "这家凉皮摊前全是100分",
+        "onboard_time": 1679058508,
+        "rank": 29,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 37131,
+        "num": 37131,
+        "word": "你管这叫修正带",
+        "onboard_time": 1679080453,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 36459,
+        "num": 36459,
+        "word": "女子腹痛就医竟怀孕足月生下男婴",
+        "onboard_time": 1679036069,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32536,
+        "num": 32536,
+        "word": "水哥家里有个小森林",
+        "onboard_time": 1679068588,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32380,
+        "num": 32380,
+        "word": "谁教你们这么谈恋爱的",
+        "onboard_time": 1679082852,
+        "rank": 33,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 30414,
+        "num": 30414,
+        "word": "大江大河3海报",
+        "onboard_time": 1679062291,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 29899,
+        "num": 29899,
+        "word": "Jennie新剧将在戛纳首映",
+        "onboard_time": 1679062655,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 29203,
+        "num": 29203,
+        "word": "郭艾伦被谁绊倒了",
+        "onboard_time": 1679064454,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28219,
+        "num": 28219,
+        "word": "小学生第一次听周杰伦的歌",
+        "onboard_time": 1679055026,
+        "rank": 37,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 27192,
+        "num": 27192,
+        "word": "魏大勋大侦探靠一句话洗脱嫌疑",
+        "onboard_time": 1679051131,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26913,
+        "num": 26913,
+        "word": "他是谁",
+        "onboard_time": 1679065830,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 25816,
+        "num": 25816,
+        "word": "雎晓雯 谢谢祝福",
+        "onboard_time": 1679050230,
+        "rank": 40,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 25290,
+        "num": 25290,
+        "word": "梁博现场",
+        "onboard_time": 1679060852,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 23167,
+        "num": 23167,
+        "word": "广东一名消防员在灭火战斗中牺牲",
+        "onboard_time": 1679058087,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22840,
+        "num": 22840,
+        "word": "天官赐福",
+        "onboard_time": 1679047472,
+        "rank": 43,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 22706,
+        "num": 22706,
+        "word": "斗罗大陆2备案",
+        "onboard_time": 1679056170,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 22199,
+        "num": 22199,
+        "word": "iG花式解读电影龙与地下城",
+        "onboard_time": 1679068227,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 22063,
+        "num": 22063,
+        "word": "理科生坠入情网",
+        "onboard_time": 1679062291,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 21829,
+        "num": 21829,
+        "word": "光渊",
+        "onboard_time": 1679058569,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 20513,
+        "num": 20513,
+        "word": "毛不易演唱会",
+        "onboard_time": 1679066131,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 20366,
+        "num": 20366,
+        "word": "德勤华永回应财政部罚单",
+        "onboard_time": 1679054248,
+        "rank": 49,
+        "category": "财经,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#面对现代化之问中国给出方案#"
+    }
+  }
+}
