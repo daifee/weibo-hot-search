@@ -1,0 +1,410 @@
+{
+  "runTime": 1679023167732,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2143772,
+        "num": 2143772,
+        "word": "何炅再提快乐大本营",
+        "onboard_time": 1679020948,
+        "rank": 0,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 1354883,
+        "num": 1354883,
+        "word": "狂飙 北城",
+        "onboard_time": 1679020408,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 35361,
+        "num": 1249157,
+        "word": "国新办发布新时代的中国网络法治建设白皮书",
+        "onboard_time": 1678978290,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1244028,
+        "num": 1244028,
+        "word": "男子彩票中800万让表弟代领被强占",
+        "onboard_time": 1679016449,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1162719,
+        "num": 1162719,
+        "word": "初三学生被罚站倒地去世",
+        "onboard_time": 1679021907,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1081385,
+        "num": 1081385,
+        "word": "2人用98元从女童处买走68根虫草",
+        "onboard_time": 1679017166,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 899354,
+        "num": 899354,
+        "word": "竹马",
+        "onboard_time": 1679019027,
+        "rank": 6,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 691939,
+        "num": 691939,
+        "word": "新海诚中韩工作餐",
+        "onboard_time": 1679018067,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 641735,
+        "num": 641735,
+        "word": "丫丫回国先到上海检疫",
+        "onboard_time": 1679021489,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 536028,
+        "num": 536028,
+        "word": "苹果可折叠手机新专利",
+        "onboard_time": 1679016806,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1333464,
+        "num": 534763,
+        "word": "韩素希说宋慧乔现在是她的了",
+        "onboard_time": 1679009902,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 678496,
+        "num": 527307,
+        "word": "尹锡悦向日本国旗鞠躬画面引争议",
+        "onboard_time": 1679021250,
+        "rank": 11,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 504995,
+        "num": 504995,
+        "word": "官方回应丫丫4月7日是否能回国",
+        "onboard_time": 1679015308,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 450571,
+        "num": 450571,
+        "word": "重庆动物园大熊猫反向参观游客",
+        "onboard_time": 1679019807,
+        "rank": 13,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 440503,
+        "num": 440503,
+        "word": "顽童拉走椅子致童星摔至尿失禁",
+        "onboard_time": 1679017888,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 425112,
+        "num": 425112,
+        "word": "学生自带秤复称食堂麻辣香锅被拒",
+        "onboard_time": 1679016868,
+        "rank": 15,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 419430,
+        "num": 419430,
+        "word": "中国低龄老人达1.5亿",
+        "onboard_time": 1679015308,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 416545,
+        "num": 416545,
+        "word": "出生率下跌致幼儿园关停或成趋势",
+        "onboard_time": 1678984460,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 411144,
+        "num": 411144,
+        "word": "微博之夜",
+        "onboard_time": 1679018127,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 401348,
+        "num": 401348,
+        "word": "四川雅安地震",
+        "onboard_time": 1679015609,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358623,
+        "num": 358623,
+        "word": "上海迪士尼乐园年卡停售",
+        "onboard_time": 1679016506,
+        "rank": 20,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 329027,
+        "num": 329027,
+        "word": "郁金香见到雪了",
+        "onboard_time": 1679019148,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 291401,
+        "num": 291401,
+        "word": "上海地铁",
+        "onboard_time": 1679016149,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275815,
+        "num": 275815,
+        "word": "2022微博之夜最期待的荧幕cp",
+        "onboard_time": 1679017346,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 262684,
+        "num": 262684,
+        "word": "丫丫吃甘蔗小心翼翼不舍得浪费",
+        "onboard_time": 1678974689,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264812,
+        "num": 260146,
+        "word": "微博之夜第二批官宣阵容",
+        "onboard_time": 1679016266,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234092,
+        "num": 234092,
+        "word": "老婆和表侄私奔老公举报吸毒全被抓",
+        "onboard_time": 1678981706,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231336,
+        "num": 231336,
+        "word": "当我收到二月份工资",
+        "onboard_time": 1678970308,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 228059,
+        "num": 228059,
+        "word": "蛋仔派对鹅鸭杀联动",
+        "onboard_time": 1679022088,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 207282,
+        "num": 207282,
+        "word": "多位在美华人接力守护丫丫",
+        "onboard_time": 1679021428,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204504,
+        "num": 204504,
+        "word": "张俪吐槽自己眼泪拐弯",
+        "onboard_time": 1679022448,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199111,
+        "num": 199111,
+        "word": "专家称未来养老金很难大幅上涨",
+        "onboard_time": 1679021489,
+        "rank": 31,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 197596,
+        "num": 197596,
+        "word": "事业单位HR嘲讽求职者简历",
+        "onboard_time": 1678979609,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182113,
+        "num": 182113,
+        "word": "关晓彤官宣加盟微博之夜",
+        "onboard_time": 1679012066,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180751,
+        "num": 180751,
+        "word": "德云社",
+        "onboard_time": 1679018006,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176253,
+        "num": 176253,
+        "word": "宋智孝脸部比心",
+        "onboard_time": 1679010924,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171763,
+        "num": 171763,
+        "word": "微博娱乐白皮书",
+        "onboard_time": 1679021788,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163064,
+        "num": 163064,
+        "word": "国内2名专家已前往美国照料丫丫",
+        "onboard_time": 1679012426,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153892,
+        "num": 153892,
+        "word": "太喜欢美而自知的感觉了",
+        "onboard_time": 1678985241,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 149842,
+        "num": 149842,
+        "word": "郭帆 赛凡",
+        "onboard_time": 1679013208,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 147933,
+        "num": 147933,
+        "word": "归晓反套路实录",
+        "onboard_time": 1679022750,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 146651,
+        "num": 146651,
+        "word": "女子领证当天在星巴克化妆遭驱赶",
+        "onboard_time": 1679022869,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141220,
+        "num": 141220,
+        "word": "吴优哭戏",
+        "onboard_time": 1679019747,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 133190,
+        "num": 133190,
+        "word": "一个动作疏肝解郁",
+        "onboard_time": 1679013328,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130478,
+        "num": 130478,
+        "word": "学生乘车贴绑架纸条致大巴被截停",
+        "onboard_time": 1679013692,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127163,
+        "num": 127163,
+        "word": "爷爷生前手抄红楼梦留给孙女",
+        "onboard_time": 1679015849,
+        "rank": 45,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 118703,
+        "num": 118703,
+        "word": "苹果推进Siri自然语言生成新框架",
+        "onboard_time": 1679021369,
+        "rank": 46,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 117055,
+        "num": 117055,
+        "word": "蛋仔派对",
+        "onboard_time": 1679009784,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 112597,
+        "num": 112597,
+        "word": "警方通报女子地铁上辱骂殴打男子",
+        "onboard_time": 1679012306,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108749,
+        "num": 108749,
+        "word": "243万存款被行长挪用银行拒赔",
+        "onboard_time": 1678977449,
+        "rank": 49,
+        "category": "财经,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#党和国家机构改革方案全文#"
+    }
+  }
+}

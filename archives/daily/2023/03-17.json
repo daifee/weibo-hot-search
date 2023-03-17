@@ -1,6 +1,6 @@
 {
   "startTime": 1678984163342,
-  "endTime": 1679021343098,
+  "endTime": 1679023167732,
   "band_list": [
     {
       "raw_hot": 2182595,
@@ -9,6 +9,14 @@
       "onboard_time": 1679015609,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2143772,
+      "num": 2143772,
+      "word": "何炅再提快乐大本营",
+      "onboard_time": 1679020948,
+      "rank": 21,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 1939065,
@@ -35,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1354883,
+      "num": 1354883,
+      "word": "狂飙 北城",
+      "onboard_time": 1679020408,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1331871,
       "num": 1331871,
       "word": "国内2名专家已前往美国照料丫丫",
@@ -49,6 +65,14 @@
       "onboard_time": 1679017166,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1162719,
+      "num": 1162719,
+      "word": "初三学生被罚站倒地去世",
+      "onboard_time": 1679021907,
+      "rank": 4,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1033044,
@@ -131,6 +155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 678496,
+      "num": 527307,
+      "word": "尹锡悦向日本国旗鞠躬画面引争议",
+      "onboard_time": 1679021250,
+      "rank": 46,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 659400,
       "num": 333050,
       "word": "老婆和表侄私奔老公举报吸毒全被抓",
@@ -144,6 +176,14 @@
       "word": "中国低龄老人达1.5亿",
       "onboard_time": 1679015308,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 641735,
+      "num": 641735,
+      "word": "丫丫回国先到上海检疫",
+      "onboard_time": 1679021489,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -169,14 +209,6 @@
       "onboard_time": 1679016506,
       "rank": 33,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 594136,
-      "num": 594136,
-      "word": "狂飙 北城",
-      "onboard_time": 1679020408,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 551505,
@@ -251,6 +283,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 450571,
+      "num": 450571,
+      "word": "重庆动物园大熊猫反向参观游客",
+      "onboard_time": 1679019807,
+      "rank": 27,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 438639,
       "num": 438639,
       "word": "微博之夜第二批官宣阵容",
@@ -289,22 +329,6 @@
       "onboard_time": 1679017346,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 378081,
-      "num": 378081,
-      "word": "重庆动物园大熊猫反向参观游客",
-      "onboard_time": 1679019807,
-      "rank": 27,
-      "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 374575,
-      "num": 374575,
-      "word": "何炅再提快乐大本营",
-      "onboard_time": 1679020948,
-      "rank": 21,
-      "category": "综艺,艺人"
     },
     {
       "raw_hot": 364492,
@@ -435,6 +459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 228059,
+      "num": 228059,
+      "word": "蛋仔派对鹅鸭杀联动",
+      "onboard_time": 1679022088,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 220232,
       "num": 220232,
       "word": "杨坤一直对那英说马嘉祺",
@@ -467,12 +499,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207282,
+      "num": 207282,
+      "word": "多位在美华人接力守护丫丫",
+      "onboard_time": 1679021428,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204504,
+      "num": 204504,
+      "word": "张俪吐槽自己眼泪拐弯",
+      "onboard_time": 1679022448,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 200059,
       "num": 200059,
       "word": "国防部说台湾当归",
       "onboard_time": 1678964309,
       "rank": 17,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 199111,
+      "num": 199111,
+      "word": "专家称未来养老金很难大幅上涨",
+      "onboard_time": 1679021489,
+      "rank": 31,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 198585,
@@ -521,6 +577,14 @@
       "onboard_time": 1679008700,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 171763,
+      "num": 171763,
+      "word": "微博娱乐白皮书",
+      "onboard_time": 1679021788,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 169237,
@@ -603,12 +667,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 147933,
+      "num": 147933,
+      "word": "归晓反套路实录",
+      "onboard_time": 1679022750,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 147236,
       "num": 147236,
       "word": "他是谁",
       "onboard_time": 1678966170,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 146651,
+      "num": 146651,
+      "word": "女子领证当天在星巴克化妆遭驱赶",
+      "onboard_time": 1679022869,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136694,
@@ -683,6 +763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 118703,
+      "num": 118703,
+      "word": "苹果推进Siri自然语言生成新框架",
+      "onboard_time": 1679021369,
+      "rank": 46,
+      "category": "科技"
+    },
+    {
       "raw_hot": 117950,
       "num": 117950,
       "word": "马丁内利失点",
@@ -729,14 +817,6 @@
       "onboard_time": 1678975771,
       "rank": 37,
       "category": "其它"
-    },
-    {
-      "raw_hot": 102879,
-      "num": 102879,
-      "word": "尹锡悦向日本国旗鞠躬画面引争议",
-      "onboard_time": 1679021250,
-      "rank": 46,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 101862,
@@ -852,7 +932,7 @@
     },
     {
       "raw_hot": 54081,
-      "num": 1210942,
+      "num": 1249157,
       "word": "国新办发布新时代的中国网络法治建设白皮书",
       "onboard_time": 1678978290,
       "rank": 2,
