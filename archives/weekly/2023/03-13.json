@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1679027865256,
+  "endTime": 1679030235865,
   "band_list": [
     {
       "raw_hot": 8307302,
@@ -603,6 +603,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 1237631,
+      "num": 1237631,
+      "word": "跌了17个月后房价涨了",
+      "onboard_time": 1679027249,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1220778,
       "num": 1220778,
       "word": "谢霆锋一天官宣3部新片",
@@ -1027,6 +1035,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 927457,
+      "num": 240846,
+      "word": "肖战2022年高带货力明星",
+      "onboard_time": 1679030008,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 923917,
       "num": 923917,
       "word": "柠萌影视",
@@ -1233,6 +1249,14 @@
       "onboard_time": 1678674206,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 858128,
+      "num": 858128,
+      "word": "快乐大本营",
+      "onboard_time": 1679026710,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 856596,
@@ -1515,6 +1539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 773554,
+      "num": 773554,
+      "word": "半天妖垃圾桶捞回餐食又端给顾客",
+      "onboard_time": 1679027310,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 771190,
       "num": 138644,
       "word": "向太发文祝贺杨紫琼获奖",
@@ -1689,14 +1721,6 @@
       "onboard_time": 1678955908,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 709115,
-      "num": 709115,
-      "word": "快乐大本营",
-      "onboard_time": 1679026710,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 707541,
@@ -2603,6 +2627,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 537399,
+      "num": 537399,
+      "word": "难听",
+      "onboard_time": 1679029646,
+      "rank": 9,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 536504,
+      "num": 536504,
+      "word": "张颂文 小熊老师",
+      "onboard_time": 1679026108,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 536162,
       "num": 536162,
       "word": "女子疑吃自嗨锅后食物中毒被送医",
@@ -2657,14 +2697,6 @@
       "onboard_time": 1678776748,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 524325,
-      "num": 524325,
-      "word": "张颂文 小熊老师",
-      "onboard_time": 1679026108,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 524296,
@@ -4555,6 +4587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 336329,
+      "num": 336329,
+      "word": "广西省考",
+      "onboard_time": 1679029170,
+      "rank": 19,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 336147,
       "num": 336147,
       "word": "刘德华导演成龙吴京电影",
@@ -5459,6 +5499,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 263709,
+      "num": 263709,
+      "word": "星巴克回应女子在店内化妆遭辱骂驱赶",
+      "onboard_time": 1679028689,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 263659,
       "num": 263659,
       "word": "王鹤棣问三亚有什么好吃的",
@@ -5843,14 +5891,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 239325,
-      "num": 239325,
-      "word": "半天妖垃圾桶捞回餐食又端给顾客",
-      "onboard_time": 1679027310,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 238976,
       "num": 238976,
       "word": "INTO1新歌有110张合照",
@@ -6113,6 +6153,14 @@
       "onboard_time": 1678775364,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 227843,
+      "num": 227843,
+      "word": "马嘉祺台湾腔",
+      "onboard_time": 1679029290,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 227805,
@@ -6547,14 +6595,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 204428,
-      "num": 204428,
-      "word": "跌了17个月后房价涨了",
-      "onboard_time": 1679027249,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 204233,
       "num": 204233,
       "word": "原来长河落日圆如此壮美",
@@ -6747,6 +6787,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 199397,
+      "num": 199397,
+      "word": "朴智旻先行曲MV",
+      "onboard_time": 1679029109,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 199393,
       "num": 199393,
       "word": "樊振东王曼昱晋级",
@@ -6857,6 +6905,14 @@
       "onboard_time": 1679027428,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 196106,
+      "num": 196106,
+      "word": "张译许芳铱对手戏",
+      "onboard_time": 1679029409,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 195678,
@@ -7009,6 +7065,14 @@
       "onboard_time": 1678937309,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 191702,
+      "num": 191702,
+      "word": "花亦山心之月",
+      "onboard_time": 1679027010,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 191367,
@@ -8579,14 +8643,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 115652,
-      "num": 115652,
-      "word": "花亦山心之月",
-      "onboard_time": 1679027010,
-      "rank": 49,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 115473,
       "num": 115473,
       "word": "特罗萨德助攻帽子戏法",
@@ -9033,6 +9089,14 @@
       "onboard_time": 1678895785,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 74811,
+      "num": 515955,
+      "word": "年轻人过生日能有多整活",
+      "onboard_time": 1679025330,
+      "rank": 14,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 74342,

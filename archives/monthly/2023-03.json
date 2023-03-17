@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679027865256,
+  "endTime": 1679030235865,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -2275,6 +2275,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 1237631,
+      "num": 1237631,
+      "word": "跌了17个月后房价涨了",
+      "onboard_time": 1679027249,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1236072,
       "num": 242247,
       "word": "长珩仙君杀我咯",
@@ -3819,6 +3827,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 927457,
+      "num": 240846,
+      "word": "肖战2022年高带货力明星",
+      "onboard_time": 1679030008,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 925883,
       "num": 925883,
       "word": "十四届全国人大一次会议开幕",
@@ -4345,6 +4361,14 @@
       "onboard_time": 1678674206,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 858128,
+      "num": 858128,
+      "word": "快乐大本营",
+      "onboard_time": 1679026710,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 857414,
@@ -5187,6 +5211,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 773554,
+      "num": 773554,
+      "word": "半天妖垃圾桶捞回餐食又端给顾客",
+      "onboard_time": 1679027310,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 773018,
       "num": 773018,
       "word": "樊振东2比3赵大成",
@@ -5929,14 +5961,6 @@
       "onboard_time": 1677734727,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 709115,
-      "num": 709115,
-      "word": "快乐大本营",
-      "onboard_time": 1679026710,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 708615,
@@ -8867,6 +8891,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 537399,
+      "num": 537399,
+      "word": "难听",
+      "onboard_time": 1679029646,
+      "rank": 9,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 536504,
+      "num": 536504,
+      "word": "张颂文 小熊老师",
+      "onboard_time": 1679026108,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 536162,
       "num": 536162,
       "word": "女子疑吃自嗨锅后食物中毒被送医",
@@ -9145,14 +9185,6 @@
       "onboard_time": 1678107688,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 524325,
-      "num": 524325,
-      "word": "张颂文 小熊老师",
-      "onboard_time": 1679026108,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 524296,
@@ -14859,6 +14891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 336329,
+      "num": 336329,
+      "word": "广西省考",
+      "onboard_time": 1679029170,
+      "rank": 19,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 336147,
       "num": 336147,
       "word": "刘德华导演成龙吴京电影",
@@ -18027,6 +18067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 263709,
+      "num": 263709,
+      "word": "星巴克回应女子在店内化妆遭辱骂驱赶",
+      "onboard_time": 1679028689,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 263659,
       "num": 263659,
       "word": "王鹤棣问三亚有什么好吃的",
@@ -19259,14 +19307,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 239325,
-      "num": 239325,
-      "word": "半天妖垃圾桶捞回餐食又端给顾客",
-      "onboard_time": 1679027310,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 239074,
       "num": 239074,
       "word": "YG新女团出道人数待定",
@@ -19937,6 +19977,14 @@
       "onboard_time": 1677673767,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 227843,
+      "num": 227843,
+      "word": "马嘉祺台湾腔",
+      "onboard_time": 1679029290,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 227755,
@@ -21835,14 +21883,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 204428,
-      "num": 204428,
-      "word": "跌了17个月后房价涨了",
-      "onboard_time": 1679027249,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 204393,
       "num": 204393,
       "word": "KPL",
@@ -22619,6 +22659,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 199397,
+      "num": 199397,
+      "word": "朴智旻先行曲MV",
+      "onboard_time": 1679029109,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 199393,
       "num": 199393,
       "word": "樊振东王曼昱晋级",
@@ -23033,6 +23081,14 @@
       "onboard_time": 1678272507,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 196106,
+      "num": 196106,
+      "word": "张译许芳铱对手戏",
+      "onboard_time": 1679029409,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 196074,
@@ -23681,6 +23737,14 @@
       "onboard_time": 1677660268,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191702,
+      "num": 191702,
+      "word": "花亦山心之月",
+      "onboard_time": 1679027010,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 191700,
@@ -29747,14 +29811,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 115652,
-      "num": 115652,
-      "word": "花亦山心之月",
-      "onboard_time": 1679027010,
-      "rank": 49,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 115607,
       "num": 115607,
       "word": "两会热词学习笔记",
@@ -32105,6 +32161,14 @@
       "onboard_time": 1678406786,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 74811,
+      "num": 515955,
+      "word": "年轻人过生日能有多整活",
+      "onboard_time": 1679025330,
+      "rank": 14,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 74770,

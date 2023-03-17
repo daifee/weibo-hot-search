@@ -1,6 +1,6 @@
 {
   "startTime": 1678984163342,
-  "endTime": 1679027865256,
+  "endTime": 1679030235865,
   "band_list": [
     {
       "raw_hot": 2491186,
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1237631,
+      "num": 1237631,
+      "word": "跌了17个月后房价涨了",
+      "onboard_time": 1679027249,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1218866,
       "num": 1218866,
       "word": "2人用98元从女童处买走68根虫草",
@@ -105,6 +113,14 @@
       "onboard_time": 1679021250,
       "rank": 46,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 927457,
+      "num": 240846,
+      "word": "肖战2022年高带货力明星",
+      "onboard_time": 1679030008,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 922524,
@@ -139,6 +155,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 858128,
+      "num": 858128,
+      "word": "快乐大本营",
+      "onboard_time": 1679026710,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 838833,
       "num": 838833,
       "word": "官方回应丫丫4月7日是否能回国",
@@ -155,20 +179,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 773554,
+      "num": 773554,
+      "word": "半天妖垃圾桶捞回餐食又端给顾客",
+      "onboard_time": 1679027310,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 730151,
       "num": 730151,
       "word": "上海地铁",
       "onboard_time": 1679016149,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 709115,
-      "num": 709115,
-      "word": "快乐大本营",
-      "onboard_time": 1679026710,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 699230,
@@ -267,8 +291,16 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 524325,
-      "num": 524325,
+      "raw_hot": 537399,
+      "num": 537399,
+      "word": "难听",
+      "onboard_time": 1679029646,
+      "rank": 9,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 536504,
+      "num": 536504,
       "word": "张颂文 小熊老师",
       "onboard_time": 1679026108,
       "rank": 27,
@@ -443,6 +475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 336329,
+      "num": 336329,
+      "word": "广西省考",
+      "onboard_time": 1679029170,
+      "rank": 19,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 331664,
       "num": 331664,
       "word": "阿森纳淘汰",
@@ -531,6 +571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 263709,
+      "num": 263709,
+      "word": "星巴克回应女子在店内化妆遭辱骂驱赶",
+      "onboard_time": 1679028689,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 251017,
       "num": 251017,
       "word": "章昊Tomboy组第一",
@@ -553,14 +601,6 @@
       "onboard_time": 1679015849,
       "rank": 30,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 239325,
-      "num": 239325,
-      "word": "半天妖垃圾桶捞回餐食又端给顾客",
-      "onboard_time": 1679027310,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 235640,
@@ -592,6 +632,14 @@
       "word": "夏日入侵企画唱周杰伦暗号",
       "onboard_time": 1678978891,
       "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 227843,
+      "num": 227843,
+      "word": "马嘉祺台湾腔",
+      "onboard_time": 1679029290,
+      "rank": 32,
       "category": "综艺"
     },
     {
@@ -643,14 +691,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 204428,
-      "num": 204428,
-      "word": "跌了17个月后房价涨了",
-      "onboard_time": 1679027249,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 203010,
       "num": 203010,
       "word": "春家小姐是讼师定档",
@@ -665,6 +705,14 @@
       "onboard_time": 1678964309,
       "rank": 17,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 199397,
+      "num": 199397,
+      "word": "朴智旻先行曲MV",
+      "onboard_time": 1679029109,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 198585,
@@ -691,6 +739,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 196106,
+      "num": 196106,
+      "word": "张译许芳铱对手戏",
+      "onboard_time": 1679029409,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 192946,
       "num": 192946,
       "word": "卿卿日常三少主在回响演司机",
@@ -705,6 +761,14 @@
       "onboard_time": 1678956868,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191702,
+      "num": 191702,
+      "word": "花亦山心之月",
+      "onboard_time": 1679027010,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 190285,
@@ -939,14 +1003,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 115652,
-      "num": 115652,
-      "word": "花亦山心之月",
-      "onboard_time": 1679027010,
-      "rank": 49,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 110573,
       "num": 133471,
       "word": "美术老师入伍前跟全班视频告别",
@@ -1057,6 +1113,14 @@
       "onboard_time": 1678966349,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 74811,
+      "num": 515955,
+      "word": "年轻人过生日能有多整活",
+      "onboard_time": 1679025330,
+      "rank": 14,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 74308,
