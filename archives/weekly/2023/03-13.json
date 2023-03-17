@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1679035024333,
+  "endTime": 1679037426209,
   "band_list": [
     {
       "raw_hot": 8307302,
@@ -233,6 +233,14 @@
       "onboard_time": 1679016449,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1898137,
+      "num": 594701,
+      "word": "李维嘉近照",
+      "onboard_time": 1679033366,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1888830,
@@ -867,14 +875,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1039322,
-      "num": 531770,
-      "word": "李维嘉近照",
-      "onboard_time": 1679033366,
-      "rank": 12,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 1038285,
       "num": 1038285,
       "word": "丫丫回国先到上海检疫",
@@ -929,6 +929,14 @@
       "onboard_time": 1678855831,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1004819,
+      "num": 1004819,
+      "word": "武汉一女子怀孕后遭公司辞退",
+      "onboard_time": 1679034688,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1002744,
@@ -1001,6 +1009,14 @@
       "onboard_time": 1678844068,
       "rank": 36,
       "category": "教育"
+    },
+    {
+      "raw_hot": 963969,
+      "num": 307325,
+      "word": "女子腹痛就医竟怀孕足月生下男婴",
+      "onboard_time": 1679036069,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 963594,
@@ -1292,7 +1308,7 @@
     },
     {
       "raw_hot": 857576,
-      "num": 538036,
+      "num": 718978,
       "word": "教育局回应初三学生被罚站倒地去世",
       "onboard_time": 1679032106,
       "rank": 10,
@@ -1923,6 +1939,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 673461,
+      "num": 673461,
+      "word": "丫丫主食单一无人与其互动",
+      "onboard_time": 1679035226,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 670759,
       "num": 457983,
       "word": "百度股价跳水",
@@ -2281,6 +2305,14 @@
       "onboard_time": 1678719507,
       "rank": 23,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 607335,
+      "num": 607335,
+      "word": "郑州大雪压塌6000平方米物流仓库",
+      "onboard_time": 1679035047,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 606095,
@@ -2649,6 +2681,14 @@
       "onboard_time": 1678697487,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 541661,
+      "num": 541661,
+      "word": "杨幂的摩天轮比耶照",
+      "onboard_time": 1679036307,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 540620,
@@ -3777,6 +3817,14 @@
       "onboard_time": 1678797150,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 418860,
+      "num": 418860,
+      "word": "黄文煜自曝曾被猥亵",
+      "onboard_time": 1679036251,
+      "rank": 15,
+      "category": "网红"
     },
     {
       "raw_hot": 417213,
@@ -4969,6 +5017,22 @@
       "onboard_time": 1678784189,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 310728,
+      "num": 310728,
+      "word": "河道英扮演者曾是YG练习生",
+      "onboard_time": 1679037149,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 309887,
+      "num": 309887,
+      "word": "霉霉空降4首新歌",
+      "onboard_time": 1679035106,
+      "rank": 19,
+      "category": "音乐"
     },
     {
       "raw_hot": 309631,
@@ -6251,6 +6315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 223679,
+      "num": 223679,
+      "word": "女子求职被要求每月至少晨跑20天",
+      "onboard_time": 1679036186,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 223424,
       "num": 223424,
       "word": "成龙耍刀郭麒麟被刀耍",
@@ -6441,6 +6513,14 @@
       "onboard_time": 1678835722,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 213463,
+      "num": 213463,
+      "word": "宁艺卓方律师函",
+      "onboard_time": 1679037388,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 212873,
@@ -7579,6 +7659,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 174017,
+      "num": 174017,
+      "word": "小朋友 你已经很幸福啦",
+      "onboard_time": 1679036487,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 173828,
       "num": 173828,
       "word": "李宇春入选达沃斯2023YGL名单",
@@ -7707,6 +7795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166872,
+      "num": 166872,
+      "word": "台湾音乐",
+      "onboard_time": 1679036548,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 166431,
       "num": 166431,
       "word": "免费评书机暗藏天价神药骗局",
@@ -7809,6 +7905,14 @@
       "onboard_time": 1678779509,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 161621,
+      "num": 161621,
+      "word": "热爱KPL的外卖小哥",
+      "onboard_time": 1679035649,
+      "rank": 33,
+      "category": "游戏,社会新闻"
     },
     {
       "raw_hot": 161103,
@@ -8307,6 +8411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 140533,
+      "num": 140533,
+      "word": "李荣浩沈阳门票",
+      "onboard_time": 1679035947,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 140026,
       "num": 238796,
       "word": "马龙3比0林诗栋",
@@ -8336,6 +8448,14 @@
       "word": "尼克斯vs湖人",
       "onboard_time": 1678670366,
       "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 138892,
+      "num": 138892,
+      "word": "钱天一4比1波尔卡诺娃",
+      "onboard_time": 1679036726,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -8617,14 +8737,6 @@
       "onboard_time": 1679023709,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 124191,
-      "num": 124191,
-      "word": "武汉一女子怀孕后遭公司辞退",
-      "onboard_time": 1679034688,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 123733,
@@ -9051,6 +9163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 89128,
+      "num": 89128,
+      "word": "我想和你唱",
+      "onboard_time": 1679036425,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 89077,
       "num": 89077,
       "word": "尹子维普通话",
@@ -9065,6 +9185,14 @@
       "onboard_time": 1678888596,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 88607,
+      "num": 88607,
+      "word": "合肥一民警执勤突发心脏骤停因公牺牲",
+      "onboard_time": 1679037207,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 88188,

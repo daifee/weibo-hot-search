@@ -1,6 +1,6 @@
 {
   "startTime": 1678984163342,
-  "endTime": 1679035024333,
+  "endTime": 1679037426209,
   "band_list": [
     {
       "raw_hot": 2491186,
@@ -49,6 +49,14 @@
       "onboard_time": 1679016449,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1898137,
+      "num": 594701,
+      "word": "李维嘉近照",
+      "onboard_time": 1679033366,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1573198,
@@ -107,14 +115,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1039322,
-      "num": 531770,
-      "word": "李维嘉近照",
-      "onboard_time": 1679033366,
-      "rank": 12,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 1038285,
       "num": 1038285,
       "word": "丫丫回国先到上海检疫",
@@ -131,12 +131,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1004819,
+      "num": 1004819,
+      "word": "武汉一女子怀孕后遭公司辞退",
+      "onboard_time": 1679034688,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 977207,
       "num": 977207,
       "word": "尹锡悦向日本国旗鞠躬画面引争议",
       "onboard_time": 1679021250,
       "rank": 46,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 963969,
+      "num": 307325,
+      "word": "女子腹痛就医竟怀孕足月生下男婴",
+      "onboard_time": 1679036069,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 927457,
@@ -196,7 +212,7 @@
     },
     {
       "raw_hot": 857576,
-      "num": 538036,
+      "num": 718978,
       "word": "教育局回应初三学生被罚站倒地去世",
       "onboard_time": 1679032106,
       "rank": 10,
@@ -249,6 +265,14 @@
       "onboard_time": 1678967370,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 673461,
+      "num": 673461,
+      "word": "丫丫主食单一无人与其互动",
+      "onboard_time": 1679035226,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 659400,
@@ -307,6 +331,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 607335,
+      "num": 607335,
+      "word": "郑州大雪压塌6000平方米物流仓库",
+      "onboard_time": 1679035047,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 587723,
       "num": 587723,
       "word": "王鸥替大侦探角色道歉",
@@ -337,6 +369,14 @@
       "onboard_time": 1678977449,
       "rank": 4,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 541661,
+      "num": 541661,
+      "word": "杨幂的摩天轮比耶照",
+      "onboard_time": 1679036307,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 536504,
@@ -451,6 +491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 418860,
+      "num": 418860,
+      "word": "黄文煜自曝曾被猥亵",
+      "onboard_time": 1679036251,
+      "rank": 15,
+      "category": "网红"
+    },
+    {
       "raw_hot": 415212,
       "num": 415212,
       "word": "多位在美华人接力守护丫丫",
@@ -561,6 +609,22 @@
       "onboard_time": 1679021489,
       "rank": 31,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 310728,
+      "num": 310728,
+      "word": "河道英扮演者曾是YG练习生",
+      "onboard_time": 1679037149,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 309887,
+      "num": 309887,
+      "word": "霉霉空降4首新歌",
+      "onboard_time": 1679035106,
+      "rank": 19,
+      "category": "音乐"
     },
     {
       "raw_hot": 303529,
@@ -699,6 +763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 223679,
+      "num": 223679,
+      "word": "女子求职被要求每月至少晨跑20天",
+      "onboard_time": 1679036186,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 220232,
       "num": 220232,
       "word": "杨坤一直对那英说马嘉祺",
@@ -737,6 +809,14 @@
       "onboard_time": 1679011227,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 213463,
+      "num": 213463,
+      "word": "宁艺卓方律师函",
+      "onboard_time": 1679037388,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 212697,
@@ -883,6 +963,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 174017,
+      "num": 174017,
+      "word": "小朋友 你已经很幸福啦",
+      "onboard_time": 1679036487,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 171763,
       "num": 171763,
       "word": "微博娱乐白皮书",
@@ -897,6 +985,14 @@
       "onboard_time": 1679019089,
       "rank": 37,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 166872,
+      "num": 166872,
+      "word": "台湾音乐",
+      "onboard_time": 1679036548,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 166124,
@@ -937,6 +1033,14 @@
       "onboard_time": 1679025749,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 161621,
+      "num": 161621,
+      "word": "热爱KPL的外卖小哥",
+      "onboard_time": 1679035649,
+      "rank": 33,
+      "category": "游戏,社会新闻"
     },
     {
       "raw_hot": 159189,
@@ -1003,6 +1107,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 140533,
+      "num": 140533,
+      "word": "李荣浩沈阳门票",
+      "onboard_time": 1679035947,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 138892,
+      "num": 138892,
+      "word": "钱天一4比1波尔卡诺娃",
+      "onboard_time": 1679036726,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136694,
       "num": 135761,
       "word": "秦刚同乌克兰外长库列巴通电话",
@@ -1065,14 +1185,6 @@
       "onboard_time": 1679023709,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 124191,
-      "num": 124191,
-      "word": "武汉一女子怀孕后遭公司辞退",
-      "onboard_time": 1679034688,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 123484,
@@ -1201,6 +1313,22 @@
       "onboard_time": 1678974509,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 89128,
+      "num": 89128,
+      "word": "我想和你唱",
+      "onboard_time": 1679036425,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 88607,
+      "num": 88607,
+      "word": "合肥一民警执勤突发心脏骤停因公牺牲",
+      "onboard_time": 1679037207,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 87193,
