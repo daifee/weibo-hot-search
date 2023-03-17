@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1679041435332,
+  "endTime": 1679042258725,
   "band_list": [
     {
       "raw_hot": 8307302,
@@ -195,6 +195,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 2022075,
+      "num": 2022075,
+      "word": "小朋友 你已经很幸福啦",
+      "onboard_time": 1679036487,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1994978,
       "num": 465267,
       "word": "宁艺卓右眼几乎看不到",
@@ -313,14 +321,6 @@
       "onboard_time": 1678787130,
       "rank": 5,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 1729536,
-      "num": 1729536,
-      "word": "小朋友 你已经很幸福啦",
-      "onboard_time": 1679036487,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 1726486,
@@ -1491,20 +1491,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 804260,
+      "num": 804260,
+      "word": "河道英扮演者曾是YG练习生",
+      "onboard_time": 1679037149,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 802634,
       "num": 110173,
       "word": "赛格",
       "onboard_time": 1678717948,
       "rank": 43,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 802172,
-      "num": 802172,
-      "word": "河道英扮演者曾是YG练习生",
-      "onboard_time": 1679037149,
-      "rank": 18,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 801616,
@@ -1769,6 +1769,14 @@
       "onboard_time": 1678891533,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 724118,
+      "num": 724118,
+      "word": "张颂文摸苏小玎脸 梦回狂飙",
+      "onboard_time": 1679040988,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 721899,
@@ -2880,14 +2888,6 @@
       "word": "张俪李泽锋吻戏",
       "onboard_time": 1678675769,
       "rank": 33,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 517844,
-      "num": 517844,
-      "word": "张颂文摸苏小玎脸 梦回狂飙",
-      "onboard_time": 1679040988,
-      "rank": 7,
       "category": "影视"
     },
     {
@@ -4219,6 +4219,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 380446,
+      "num": 380446,
+      "word": "满江红再次延长上映",
+      "onboard_time": 1679041228,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 379509,
       "num": 379509,
       "word": "2022微博之夜最期待的荧幕cp",
@@ -4553,6 +4561,14 @@
       "onboard_time": 1678877369,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 348323,
+      "num": 348323,
+      "word": "拟规定电竞酒店严禁违规接待未成年人",
+      "onboard_time": 1679039487,
+      "rank": 21,
+      "category": "社会新闻,游戏"
     },
     {
       "raw_hot": 347680,
@@ -5131,6 +5147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 305882,
+      "num": 305882,
+      "word": "她还以为狗狗也有钱",
+      "onboard_time": 1679040508,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 305778,
       "num": 305778,
       "word": "李到晛脸部比心",
@@ -5611,12 +5635,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 267316,
-      "num": 267316,
-      "word": "拟规定电竞酒店严禁违规接待未成年人",
-      "onboard_time": 1679039487,
-      "rank": 21,
-      "category": "社会新闻,游戏"
+      "raw_hot": 267426,
+      "num": 267426,
+      "word": "中国专家抵达孟菲斯动物园",
+      "onboard_time": 1679041288,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 266955,
@@ -5648,6 +5672,14 @@
       "word": "谢娜分享和朋友们聚餐聊天vlog",
       "onboard_time": 1678791270,
       "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 264830,
+      "num": 264830,
+      "word": "杨紫粉丝娱乐白皮书寄语",
+      "onboard_time": 1679041950,
+      "rank": 24,
       "category": "艺人"
     },
     {
@@ -6115,14 +6147,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 236485,
-      "num": 236485,
-      "word": "满江红再次延长上映",
-      "onboard_time": 1679041228,
-      "rank": 24,
-      "category": "影视"
-    },
-    {
       "raw_hot": 235640,
       "num": 235640,
       "word": "蛋仔派对",
@@ -6233,6 +6257,14 @@
       "onboard_time": 1678850429,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 232273,
+      "num": 232273,
+      "word": "刘雨昕下车的姿势",
+      "onboard_time": 1679040869,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 232234,
@@ -6417,6 +6449,14 @@
       "onboard_time": 1678855291,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 222053,
+      "num": 222053,
+      "word": "泫雅力丸同框照",
+      "onboard_time": 1679041528,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 221185,
@@ -6611,14 +6651,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 211843,
-      "num": 211843,
-      "word": "中国专家抵达孟菲斯动物园",
-      "onboard_time": 1679041288,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 210963,
       "num": 210963,
       "word": "PUBG",
@@ -6713,14 +6745,6 @@
       "onboard_time": 1678890754,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 207115,
-      "num": 220560,
-      "word": "刘雨昕下车的姿势",
-      "onboard_time": 1679040869,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 206994,
@@ -7081,6 +7105,14 @@
       "onboard_time": 1678711586,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 198231,
+      "num": 198231,
+      "word": "赛凡数字生命卡可全额退款",
+      "onboard_time": 1679041169,
+      "rank": 33,
+      "category": "社会新闻,社会新闻"
     },
     {
       "raw_hot": 197554,
@@ -7467,14 +7499,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 187369,
-      "num": 216518,
-      "word": "她还以为狗狗也有钱",
-      "onboard_time": 1679040508,
-      "rank": 29,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 187145,
       "num": 187145,
       "word": "火箭战胜湖人",
@@ -7739,6 +7763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 175669,
+      "num": 160988,
+      "word": "微博之夜舞台名场面",
+      "onboard_time": 1679041288,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 175301,
       "num": 175301,
       "word": "杨超越给徐正溪新剧宣传",
@@ -7761,14 +7793,6 @@
       "onboard_time": 1678791389,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 173795,
-      "num": 173795,
-      "word": "赛凡数字生命卡可全额退款",
-      "onboard_time": 1679041169,
-      "rank": 33,
-      "category": "社会新闻,社会新闻"
     },
     {
       "raw_hot": 173191,
@@ -8313,14 +8337,6 @@
       "onboard_time": 1679014289,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 149744,
-      "num": 149744,
-      "word": "微博之夜舞台名场面",
-      "onboard_time": 1679041288,
-      "rank": 36,
-      "category": "音乐"
     },
     {
       "raw_hot": 149638,
@@ -9083,6 +9099,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 110475,
+      "num": 110475,
+      "word": "业主合力掀翻挡道车辆为消防车让行",
+      "onboard_time": 1679041887,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110441,
       "num": 436442,
       "word": "坚定不移推进祖国统一进程",
@@ -9225,6 +9249,14 @@
       "onboard_time": 1678960052,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 95739,
+      "num": 95739,
+      "word": "对话摆摊两周赚1万5辞职护士",
+      "onboard_time": 1679042188,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 95622,

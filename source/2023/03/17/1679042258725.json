@@ -1,0 +1,410 @@
+{
+  "runTime": 1679042258725,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2022075,
+        "num": 2022075,
+        "word": "小朋友 你已经很幸福啦",
+        "onboard_time": 1679036487,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 804260,
+        "num": 804260,
+        "word": "河道英扮演者曾是YG练习生",
+        "onboard_time": 1679037149,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 27785,
+        "num": 757484,
+        "word": "高手在民间高燃合集",
+        "onboard_time": 1679012788,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 911563,
+        "num": 755135,
+        "word": "初三学生被罚站倒地去世",
+        "onboard_time": 1679021907,
+        "rank": 3,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 724118,
+        "num": 724118,
+        "word": "张颂文摸苏小玎脸 梦回狂飙",
+        "onboard_time": 1679040988,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 646712,
+        "num": 646712,
+        "word": "武汉一女子怀孕后遭公司辞退",
+        "onboard_time": 1679034688,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 489581,
+        "num": 489581,
+        "word": "女子穿仿制日本军服夜市打闹被行拘",
+        "onboard_time": 1679031506,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 475604,
+        "num": 475604,
+        "word": "教育局回应初三学生被罚站倒地去世",
+        "onboard_time": 1679032106,
+        "rank": 7,
+        "category": "社会负面,教育"
+      },
+      {
+        "raw_hot": 469745,
+        "num": 469745,
+        "word": "郑州大雪压塌6000平方米物流仓库",
+        "onboard_time": 1679035047,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 456862,
+        "num": 456862,
+        "word": "跌了17个月后房价涨了",
+        "onboard_time": 1679027249,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 951874,
+        "num": 447257,
+        "word": "迪丽热巴驼色大衣造型",
+        "onboard_time": 1679038228,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 843142,
+        "num": 435334,
+        "word": "李维嘉近照",
+        "onboard_time": 1679033366,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 422987,
+        "num": 422987,
+        "word": "杨幂的摩天轮比耶照",
+        "onboard_time": 1679036307,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 380446,
+        "num": 380446,
+        "word": "满江红再次延长上映",
+        "onboard_time": 1679041228,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 822708,
+        "num": 375449,
+        "word": "丫丫主食单一无人与其互动",
+        "onboard_time": 1679035226,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 361713,
+        "num": 361713,
+        "word": "黄文煜自曝曾被猥亵",
+        "onboard_time": 1679036251,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 355539,
+        "num": 355539,
+        "word": "女子求职被要求每月至少晨跑20天",
+        "onboard_time": 1679036186,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350633,
+        "num": 350633,
+        "word": "何炅再提快乐大本营",
+        "onboard_time": 1679020948,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 348323,
+        "num": 348323,
+        "word": "拟规定电竞酒店严禁违规接待未成年人",
+        "onboard_time": 1679039487,
+        "rank": 18,
+        "category": "社会新闻,游戏"
+      },
+      {
+        "raw_hot": 311685,
+        "num": 311685,
+        "word": "女子领证当天在星巴克化妆遭驱赶",
+        "onboard_time": 1679022869,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 990047,
+        "num": 308936,
+        "word": "女子腹痛就医竟怀孕足月生下男婴",
+        "onboard_time": 1679036069,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 693850,
+        "num": 308818,
+        "word": "宁艺卓方律师函",
+        "onboard_time": 1679037388,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 305882,
+        "num": 305882,
+        "word": "她还以为狗狗也有钱",
+        "onboard_time": 1679040508,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 267426,
+        "num": 267426,
+        "word": "中国专家抵达孟菲斯动物园",
+        "onboard_time": 1679041288,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264830,
+        "num": 264830,
+        "word": "杨紫粉丝娱乐白皮书寄语",
+        "onboard_time": 1679041950,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250961,
+        "num": 250961,
+        "word": "半天妖垃圾桶捞回餐食又端给顾客",
+        "onboard_time": 1679027310,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243981,
+        "num": 243981,
+        "word": "王鸥替大侦探角色道歉",
+        "onboard_time": 1679032227,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232273,
+        "num": 232273,
+        "word": "刘雨昕下车的姿势",
+        "onboard_time": 1679040869,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222053,
+        "num": 222053,
+        "word": "泫雅力丸同框照",
+        "onboard_time": 1679041528,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216348,
+        "num": 216348,
+        "word": "马龙4比0邱党",
+        "onboard_time": 1679038589,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214488,
+        "num": 214488,
+        "word": "为什么猩猩会停止进化",
+        "onboard_time": 1679037149,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 198231,
+        "num": 198231,
+        "word": "赛凡数字生命卡可全额退款",
+        "onboard_time": 1679041169,
+        "rank": 31,
+        "category": "社会新闻,社会新闻"
+      },
+      {
+        "raw_hot": 187357,
+        "num": 187357,
+        "word": "向太 火推文化",
+        "onboard_time": 1679033068,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179714,
+        "num": 179714,
+        "word": "微博之夜公告",
+        "onboard_time": 1679033425,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162656,
+        "num": 162656,
+        "word": "难听",
+        "onboard_time": 1679029646,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 175669,
+        "num": 160988,
+        "word": "微博之夜舞台名场面",
+        "onboard_time": 1679041288,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 151380,
+        "num": 151380,
+        "word": "霉霉空降4首新歌",
+        "onboard_time": 1679035106,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 147707,
+        "num": 147707,
+        "word": "丫丫回国先到上海检疫",
+        "onboard_time": 1679021489,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142700,
+        "num": 142700,
+        "word": "市监局回应半天妖垃圾桶捞餐食",
+        "onboard_time": 1679039008,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129059,
+        "num": 129059,
+        "word": "快乐大本营",
+        "onboard_time": 1679026710,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125037,
+        "num": 125037,
+        "word": "合肥一民警执勤突发心脏骤停因公牺牲",
+        "onboard_time": 1679037207,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119937,
+        "num": 119937,
+        "word": "广西省考",
+        "onboard_time": 1679029170,
+        "rank": 41,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 117598,
+        "num": 117598,
+        "word": "韩素希说宋慧乔现在是她的了",
+        "onboard_time": 1679009902,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 110475,
+        "num": 110475,
+        "word": "业主合力掀翻挡道车辆为消防车让行",
+        "onboard_time": 1679041887,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110162,
+        "num": 110162,
+        "word": "热爱KPL的外卖小哥",
+        "onboard_time": 1679035649,
+        "rank": 44,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 109759,
+        "num": 109759,
+        "word": "狂飙 北城",
+        "onboard_time": 1679020408,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 98626,
+        "num": 98626,
+        "word": "微博之夜",
+        "onboard_time": 1679018127,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95938,
+        "num": 95938,
+        "word": "2人用98元从女童处买走68根虫草",
+        "onboard_time": 1679017166,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95739,
+        "num": 95739,
+        "word": "对话摆摊两周赚1万5辞职护士",
+        "onboard_time": 1679042188,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94123,
+        "num": 94123,
+        "word": "尹锡悦向日本国旗鞠躬画面引争议",
+        "onboard_time": 1679021250,
+        "rank": 49,
+        "category": "国外要闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#面对现代化之问中国给出方案#"
+    }
+  }
+}
