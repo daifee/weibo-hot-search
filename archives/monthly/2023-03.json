@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679062644130,
+  "endTime": 1679063661423,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -417,6 +417,14 @@
       "onboard_time": 1678263448,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2343024,
+      "num": 2343024,
+      "word": "他是谁 看yue了",
+      "onboard_time": 1679060550,
+      "rank": 0,
+      "category": "影视"
     },
     {
       "raw_hot": 2326658,
@@ -851,6 +859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1878854,
+      "num": 1878854,
+      "word": "月薪三千的生活是怎样的",
+      "onboard_time": 1679060070,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1866333,
       "num": 1104753,
       "word": "疯狂小杨哥带货又翻车",
@@ -945,14 +961,6 @@
       "onboard_time": 1677934646,
       "rank": 20,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1817288,
-      "num": 1817288,
-      "word": "他是谁 看yue了",
-      "onboard_time": 1679060550,
-      "rank": 0,
-      "category": "影视"
     },
     {
       "raw_hot": 1815729,
@@ -1945,14 +1953,6 @@
       "onboard_time": 1677816329,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1372452,
-      "num": 1372452,
-      "word": "月薪三千的生活是怎样的",
-      "onboard_time": 1679060070,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 1369052,
@@ -7643,6 +7643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 619359,
+      "num": 513159,
+      "word": "梁博现场",
+      "onboard_time": 1679060852,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 619170,
       "num": 619170,
       "word": "警方通报女子殴打代驾称丈夫是警察",
@@ -8121,6 +8129,14 @@
       "onboard_time": 1678349726,
       "rank": 21,
       "category": "艺人,美食"
+    },
+    {
+      "raw_hot": 591098,
+      "num": 373292,
+      "word": "Jennie新剧将在戛纳首映",
+      "onboard_time": 1679062655,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 590992,
@@ -9915,14 +9931,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 513159,
-      "num": 513159,
-      "word": "梁博现场",
-      "onboard_time": 1679060852,
-      "rank": 12,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 512294,
       "num": 512294,
       "word": "黑龙江再现黑土非法贩卖",
@@ -11363,6 +11371,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 458907,
+      "num": 415727,
+      "word": "关晓彤香槟色水光裙",
+      "onboard_time": 1679061451,
+      "rank": 14,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 458551,
       "num": 299180,
       "word": "SMTOWN新女团将举办见面会",
@@ -12561,14 +12577,6 @@
       "onboard_time": 1679043872,
       "rank": 19,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 415727,
-      "num": 415727,
-      "word": "关晓彤香槟色水光裙",
-      "onboard_time": 1679061451,
-      "rank": 14,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 415222,
@@ -16163,6 +16171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 319682,
+      "num": 319682,
+      "word": "孙颖莎王曼昱3比0田志希申裕斌",
+      "onboard_time": 1679061691,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 319669,
       "num": 1102250,
       "word": "我国每年废弃手机约4亿部",
@@ -16771,6 +16787,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 307169,
+      "num": 307169,
+      "word": "大江大河3海报",
+      "onboard_time": 1679062291,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 307156,
       "num": 307156,
       "word": "AppleWatch上能和ChatGPT聊天了",
@@ -16921,6 +16945,14 @@
       "onboard_time": 1678187008,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 303366,
+      "num": 303366,
+      "word": "小福菀终于学会爬树了",
+      "onboard_time": 1679062412,
+      "rank": 48,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 303031,
@@ -17337,6 +17369,14 @@
       "onboard_time": 1678652111,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 292004,
+      "num": 292004,
+      "word": "最强大脑10脑王",
+      "onboard_time": 1679063372,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 291885,
@@ -19891,6 +19931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 240988,
+      "num": 240988,
+      "word": "理科生坠入情网",
+      "onboard_time": 1679062291,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 240890,
       "num": 240890,
       "word": "韩流男神们近照",
@@ -20009,14 +20057,6 @@
       "onboard_time": 1678061006,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 238985,
-      "num": 238985,
-      "word": "孙颖莎王曼昱3比0田志希申裕斌",
-      "onboard_time": 1679061691,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 238976,
@@ -20177,6 +20217,14 @@
       "onboard_time": 1677946047,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 236224,
+      "num": 217109,
+      "word": "你遇到过哪些天价消费套路",
+      "onboard_time": 1679063193,
+      "rank": 30,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 235925,
@@ -22347,6 +22395,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 206721,
+      "num": 206721,
+      "word": "Fly三连MVP",
+      "onboard_time": 1679062833,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 206708,
       "num": 206708,
       "word": "VG对战eStar",
@@ -22737,6 +22793,14 @@
       "onboard_time": 1677659846,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 204036,
+      "num": 204036,
+      "word": "EDG战胜OMG",
+      "onboard_time": 1679063073,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 204002,
@@ -23521,14 +23585,6 @@
       "onboard_time": 1678349845,
       "rank": 42,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 199137,
-      "num": 199137,
-      "word": "大江大河3海报",
-      "onboard_time": 1679062291,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 199053,
@@ -25268,7 +25324,7 @@
     },
     {
       "raw_hot": 186075,
-      "num": 1573566,
+      "num": 1800435,
       "word": "2022中国科学十大进展",
       "onboard_time": 1679057729,
       "rank": 2,
@@ -28179,6 +28235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 149200,
+      "num": 149200,
+      "word": "国乒锁定大满贯女双冠军",
+      "onboard_time": 1679062052,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 149148,
       "num": 149148,
       "word": "建议特定条件支持未婚女性冻卵",
@@ -29107,14 +29171,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 138849,
-      "num": 138849,
-      "word": "理科生坠入情网",
-      "onboard_time": 1679062291,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 138794,
       "num": 138794,
       "word": "叶诗文说想在杭州亚运会拿冠军",
@@ -29161,6 +29217,14 @@
       "onboard_time": 1678957048,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138268,
+      "num": 138268,
+      "word": "NV三连鸡",
+      "onboard_time": 1679063012,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 138202,
@@ -29441,6 +29505,14 @@
       "onboard_time": 1677747092,
       "rank": 38,
       "category": "影视,社会新闻"
+    },
+    {
+      "raw_hot": 135557,
+      "num": 135557,
+      "word": "好友去世少年凌晨3点在街头痛哭",
+      "onboard_time": 1679063313,
+      "rank": 48,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 135490,
@@ -30211,14 +30283,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 126131,
-      "num": 126131,
-      "word": "国乒锁定大满贯女双冠军",
-      "onboard_time": 1679062052,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 126078,
       "num": 126078,
       "word": "朴敏赫退队",
@@ -30369,14 +30433,6 @@
       "onboard_time": 1678179926,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 123777,
-      "num": 123777,
-      "word": "小福菀终于学会爬树了",
-      "onboard_time": 1679062412,
-      "rank": 48,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 123733,
@@ -34721,6 +34777,9 @@
     },
     {
       "word": "#推动世界现代化进程的中国方案#"
+    },
+    {
+      "word": "#习主席访俄是一次友谊合作和平之旅#"
     }
   ]
 }

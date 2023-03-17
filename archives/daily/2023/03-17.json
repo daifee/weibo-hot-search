@@ -1,6 +1,6 @@
 {
   "startTime": 1678984163342,
-  "endTime": 1679062644130,
+  "endTime": 1679063661423,
   "band_list": [
     {
       "raw_hot": 9458443,
@@ -17,6 +17,14 @@
       "onboard_time": 1679022869,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2343024,
+      "num": 2343024,
+      "word": "他是谁 看yue了",
+      "onboard_time": 1679060550,
+      "rank": 0,
+      "category": "影视"
     },
     {
       "raw_hot": 2263167,
@@ -91,12 +99,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1817288,
-      "num": 1817288,
-      "word": "他是谁 看yue了",
-      "onboard_time": 1679060550,
-      "rank": 0,
-      "category": "影视"
+      "raw_hot": 1878854,
+      "num": 1878854,
+      "word": "月薪三千的生活是怎样的",
+      "onboard_time": 1679060070,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 1686138,
@@ -145,14 +153,6 @@
       "onboard_time": 1679031506,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1372452,
-      "num": 1372452,
-      "word": "月薪三千的生活是怎样的",
-      "onboard_time": 1679060070,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 1354883,
@@ -579,6 +579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 619359,
+      "num": 513159,
+      "word": "梁博现场",
+      "onboard_time": 1679060852,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 610066,
       "num": 610066,
       "word": "上海迪士尼乐园年卡停售",
@@ -595,12 +603,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 603205,
+      "num": 572686,
+      "word": "马琳",
+      "onboard_time": 1679059590,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 600876,
       "num": 600876,
       "word": "小学生第一次听周杰伦的歌",
       "onboard_time": 1679055026,
       "rank": 15,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 591098,
+      "num": 373292,
+      "word": "Jennie新剧将在戛纳首映",
+      "onboard_time": 1679062655,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 587723,
@@ -617,14 +641,6 @@
       "onboard_time": 1679049571,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 572686,
-      "num": 572686,
-      "word": "马琳",
-      "onboard_time": 1679059590,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 559939,
@@ -705,14 +721,6 @@
       "onboard_time": 1679012066,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 513159,
-      "num": 513159,
-      "word": "梁博现场",
-      "onboard_time": 1679060852,
-      "rank": 12,
-      "category": "音乐"
     },
     {
       "raw_hot": 508008,
@@ -827,6 +835,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 458907,
+      "num": 415727,
+      "word": "关晓彤香槟色水光裙",
+      "onboard_time": 1679061451,
+      "rank": 14,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 456569,
       "num": 456569,
       "word": "新海诚说喜欢罗小黑战记",
@@ -897,14 +913,6 @@
       "onboard_time": 1679043872,
       "rank": 19,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 415727,
-      "num": 415727,
-      "word": "关晓彤香槟色水光裙",
-      "onboard_time": 1679061451,
-      "rank": 14,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 415212,
@@ -1107,6 +1115,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 319682,
+      "num": 319682,
+      "word": "孙颖莎王曼昱3比0田志希申裕斌",
+      "onboard_time": 1679061691,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 318944,
       "num": 246904,
       "word": "丫丫最新画面",
@@ -1139,6 +1155,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 307169,
+      "num": 307169,
+      "word": "大江大河3海报",
+      "onboard_time": 1679062291,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 303529,
       "num": 244860,
       "word": "何老师这辈子眼睛没瞪这么大过",
@@ -1147,12 +1171,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 303366,
+      "num": 303366,
+      "word": "小福菀终于学会爬树了",
+      "onboard_time": 1679062412,
+      "rank": 48,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 293804,
       "num": 293804,
       "word": "中俄关系的意义和影响远超双边范畴",
       "onboard_time": 1679042427,
       "rank": 27,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 292004,
+      "num": 292004,
+      "word": "最强大脑10脑王",
+      "onboard_time": 1679063372,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 291028,
@@ -1259,6 +1299,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 268454,
+      "num": 268454,
+      "word": "最强大脑",
+      "onboard_time": 1679058328,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 264830,
       "num": 264830,
       "word": "杨紫粉丝娱乐白皮书寄语",
@@ -1315,12 +1363,20 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 238985,
-      "num": 238985,
-      "word": "孙颖莎王曼昱3比0田志希申裕斌",
-      "onboard_time": 1679061691,
-      "rank": 27,
-      "category": "体育"
+      "raw_hot": 240988,
+      "num": 240988,
+      "word": "理科生坠入情网",
+      "onboard_time": 1679062291,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 236224,
+      "num": 217109,
+      "word": "你遇到过哪些天价消费套路",
+      "onboard_time": 1679063193,
+      "rank": 30,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 235762,
@@ -1360,14 +1416,6 @@
       "word": "刘雨昕下车的姿势",
       "onboard_time": 1679040869,
       "rank": 28,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 230645,
-      "num": 230645,
-      "word": "最强大脑",
-      "onboard_time": 1679058328,
-      "rank": 34,
       "category": "综艺"
     },
     {
@@ -1515,12 +1563,28 @@
       "category": "综艺,幽默"
     },
     {
+      "raw_hot": 206721,
+      "num": 206721,
+      "word": "Fly三连MVP",
+      "onboard_time": 1679062833,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 204959,
       "num": 204959,
       "word": "吉林省考",
       "onboard_time": 1679046992,
       "rank": 33,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 204036,
+      "num": 204036,
+      "word": "EDG战胜OMG",
+      "onboard_time": 1679063073,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 203545,
@@ -1561,14 +1625,6 @@
       "onboard_time": 1679029109,
       "rank": 34,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 199137,
-      "num": 199137,
-      "word": "大江大河3海报",
-      "onboard_time": 1679062291,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 198585,
@@ -1756,7 +1812,7 @@
     },
     {
       "raw_hot": 186075,
-      "num": 1573566,
+      "num": 1800435,
       "word": "2022中国科学十大进展",
       "onboard_time": 1679057729,
       "rank": 2,
@@ -1955,6 +2011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 149200,
+      "num": 149200,
+      "word": "国乒锁定大满贯女双冠军",
+      "onboard_time": 1679062052,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 148749,
       "num": 136701,
       "word": "任素汐全程把脉追完他是谁",
@@ -2011,12 +2075,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 138849,
-      "num": 138849,
-      "word": "理科生坠入情网",
-      "onboard_time": 1679062291,
-      "rank": 41,
-      "category": "情感"
+      "raw_hot": 138268,
+      "num": 138268,
+      "word": "NV三连鸡",
+      "onboard_time": 1679063012,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 137744,
@@ -2059,6 +2123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 135557,
+      "num": 135557,
+      "word": "好友去世少年凌晨3点在街头痛哭",
+      "onboard_time": 1679063313,
+      "rank": 48,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 135317,
       "num": 135317,
       "word": "张瑞VS韩莹",
@@ -2099,14 +2171,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 126131,
-      "num": 126131,
-      "word": "国乒锁定大满贯女双冠军",
-      "onboard_time": 1679062052,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 126003,
       "num": 126003,
       "word": "电视剧归路11集新预告",
@@ -2129,14 +2193,6 @@
       "onboard_time": 1679023709,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 123777,
-      "num": 123777,
-      "word": "小福菀终于学会爬树了",
-      "onboard_time": 1679062412,
-      "rank": 48,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 123484,
@@ -2437,6 +2493,9 @@
     },
     {
       "word": "#推动世界现代化进程的中国方案#"
+    },
+    {
+      "word": "#习主席访俄是一次友谊合作和平之旅#"
     }
   ]
 }
