@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679042258725,
+  "endTime": 1679044740638,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -33,6 +33,14 @@
       "onboard_time": 1678418423,
       "rank": 1,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 8816770,
+      "num": 8816770,
+      "word": "姜广涛涉嫌刑事犯罪",
+      "onboard_time": 1679042309,
+      "rank": 0,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 8343319,
@@ -5395,6 +5403,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 762454,
+      "num": 762454,
+      "word": "严浩翔 极限挑战",
+      "onboard_time": 1679042309,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 761779,
       "num": 761779,
       "word": "找到了最适合大学生的工作",
@@ -7131,6 +7147,14 @@
       "category": "影视,社会新闻"
     },
     {
+      "raw_hot": 639989,
+      "num": 639989,
+      "word": "财政部处罚德勤和华融",
+      "onboard_time": 1679042787,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 639680,
       "num": 233830,
       "word": "4岁娃17楼坠落140天后重新行走",
@@ -8552,6 +8576,14 @@
       "word": "清华学生操场拍下中国空间站凌月",
       "onboard_time": 1678347565,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 555346,
+      "num": 555346,
+      "word": "中国专家抵达孟菲斯动物园",
+      "onboard_time": 1679041288,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -10275,6 +10307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 488188,
+      "num": 470030,
+      "word": "宝木中阳",
+      "onboard_time": 1679044353,
+      "rank": 9,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 488054,
       "num": 395466,
       "word": "博主挑战天价土豆火锅被账单吓到",
@@ -10577,6 +10617,14 @@
       "onboard_time": 1678438468,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 478888,
+      "num": 478888,
+      "word": "张俪看孙心出嫁片段哭了",
+      "onboard_time": 1679042550,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 478797,
@@ -11105,6 +11153,14 @@
       "onboard_time": 1678201109,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 457076,
+      "num": 457076,
+      "word": "王楚钦VS林高远",
+      "onboard_time": 1679043992,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 456743,
@@ -12459,6 +12515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 406402,
+      "num": 406402,
+      "word": "满江红再次延长上映",
+      "onboard_time": 1679041228,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 406045,
       "num": 406045,
       "word": "名侦探学院禁入派对",
@@ -13297,14 +13361,6 @@
       "onboard_time": 1678003046,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 380446,
-      "num": 380446,
-      "word": "满江红再次延长上映",
-      "onboard_time": 1679041228,
-      "rank": 24,
-      "category": "影视"
     },
     {
       "raw_hot": 380288,
@@ -14451,6 +14507,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 351251,
+      "num": 351251,
+      "word": "吼浪工作室发声明",
+      "onboard_time": 1679043872,
+      "rank": 19,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 351138,
       "num": 351138,
       "word": "见过最让人窒息的家长",
@@ -14697,6 +14761,14 @@
       "onboard_time": 1678069166,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 345240,
+      "num": 345240,
+      "word": "天堂门票",
+      "onboard_time": 1679044231,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 345131,
@@ -15177,6 +15249,14 @@
       "onboard_time": 1678929327,
       "rank": 21,
       "category": "科技"
+    },
+    {
+      "raw_hot": 333710,
+      "num": 333710,
+      "word": "她还以为狗狗也有钱",
+      "onboard_time": 1679040508,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 333696,
@@ -16387,14 +16467,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 305882,
-      "num": 305882,
-      "word": "她还以为狗狗也有钱",
-      "onboard_time": 1679040508,
-      "rank": 29,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 305787,
       "num": 305787,
       "word": "TVB直播网友建议讲粤语",
@@ -16849,6 +16921,14 @@
       "onboard_time": 1678100366,
       "rank": 26,
       "category": "科技"
+    },
+    {
+      "raw_hot": 293804,
+      "num": 293804,
+      "word": "中俄关系的意义和影响远超双边范畴",
+      "onboard_time": 1679042427,
+      "rank": 27,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 293695,
@@ -18089,14 +18169,6 @@
       "onboard_time": 1677989606,
       "rank": 32,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 267426,
-      "num": 267426,
-      "word": "中国专家抵达孟菲斯动物园",
-      "onboard_time": 1679041288,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 266955,
@@ -20529,6 +20601,14 @@
       "onboard_time": 1678260326,
       "rank": 32,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 223539,
+      "num": 223539,
+      "word": "九尾发文抵制私生",
+      "onboard_time": 1679044173,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 223484,
@@ -24427,6 +24507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 188018,
+      "num": 188018,
+      "word": "吼浪",
+      "onboard_time": 1679043811,
+      "rank": 38,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 187965,
       "num": 187965,
       "word": "硅谷银行危机或引发大范围裁员潮",
@@ -28211,6 +28299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 140568,
+      "num": 140568,
+      "word": "王曼昱4比1杨晓欣",
+      "onboard_time": 1679043269,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140539,
       "num": 96073,
       "word": "NCTDREAMgo发行五周年",
@@ -29321,6 +29417,14 @@
       "onboard_time": 1677730711,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 127460,
+      "num": 127460,
+      "word": "对话摆摊两周赚1万5辞职护士",
+      "onboard_time": 1679042188,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 127430,
@@ -31657,14 +31761,6 @@
       "onboard_time": 1677643233,
       "rank": 14,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 95739,
-      "num": 95739,
-      "word": "对话摆摊两周赚1万5辞职护士",
-      "onboard_time": 1679042188,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 95622,

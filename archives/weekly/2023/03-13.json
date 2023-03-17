@@ -1,7 +1,15 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1679042258725,
+  "endTime": 1679044740638,
   "band_list": [
+    {
+      "raw_hot": 8816770,
+      "num": 8816770,
+      "word": "姜广涛涉嫌刑事犯罪",
+      "onboard_time": 1679042309,
+      "rank": 0,
+      "category": "社会新闻,艺人"
+    },
     {
       "raw_hot": 8307302,
       "num": 9557302,
@@ -1659,6 +1667,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 762454,
+      "num": 762454,
+      "word": "严浩翔 极限挑战",
+      "onboard_time": 1679042309,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 761779,
       "num": 761779,
       "word": "找到了最适合大学生的工作",
@@ -2203,6 +2219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 639989,
+      "num": 639989,
+      "word": "财政部处罚德勤和华融",
+      "onboard_time": 1679042787,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 634728,
       "num": 634728,
       "word": "学生乘车贴绑架纸条致大巴被截停",
@@ -2593,6 +2617,14 @@
       "onboard_time": 1678772248,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 555346,
+      "num": 555346,
+      "word": "中国专家抵达孟菲斯动物园",
+      "onboard_time": 1679041288,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 554645,
@@ -3171,6 +3203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 488188,
+      "num": 470030,
+      "word": "宝木中阳",
+      "onboard_time": 1679044353,
+      "rank": 9,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 487528,
       "num": 487528,
       "word": "张译腕线过裆",
@@ -3289,6 +3329,14 @@
       "onboard_time": 1678868428,
       "rank": 15,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 478888,
+      "num": 478888,
+      "word": "张俪看孙心出嫁片段哭了",
+      "onboard_time": 1679042550,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 478233,
@@ -3465,6 +3513,14 @@
       "onboard_time": 1678898840,
       "rank": 20,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 457076,
+      "num": 457076,
+      "word": "王楚钦VS林高远",
+      "onboard_time": 1679043992,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 456416,
@@ -3995,6 +4051,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 406402,
+      "num": 406402,
+      "word": "满江红再次延长上映",
+      "onboard_time": 1679041228,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 405418,
       "num": 405418,
       "word": "张译每剧嘎一个兄弟",
@@ -4217,14 +4281,6 @@
       "onboard_time": 1679025330,
       "rank": 19,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 380446,
-      "num": 380446,
-      "word": "满江红再次延长上映",
-      "onboard_time": 1679041228,
-      "rank": 24,
-      "category": "影视"
     },
     {
       "raw_hot": 379509,
@@ -4523,6 +4579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 351251,
+      "num": 351251,
+      "word": "吼浪工作室发声明",
+      "onboard_time": 1679043872,
+      "rank": 19,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 350736,
       "num": 350736,
       "word": "钱天一晋级",
@@ -4601,6 +4665,14 @@
       "onboard_time": 1678844730,
       "rank": 20,
       "category": "教育"
+    },
+    {
+      "raw_hot": 345240,
+      "num": 345240,
+      "word": "天堂门票",
+      "onboard_time": 1679044231,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 345125,
@@ -4785,6 +4857,14 @@
       "onboard_time": 1678929327,
       "rank": 21,
       "category": "科技"
+    },
+    {
+      "raw_hot": 333710,
+      "num": 333710,
+      "word": "她还以为狗狗也有钱",
+      "onboard_time": 1679040508,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 333475,
@@ -5147,14 +5227,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 305882,
-      "num": 305882,
-      "word": "她还以为狗狗也有钱",
-      "onboard_time": 1679040508,
-      "rank": 29,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 305778,
       "num": 305778,
       "word": "李到晛脸部比心",
@@ -5241,6 +5313,14 @@
       "onboard_time": 1678859668,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 293804,
+      "num": 293804,
+      "word": "中俄关系的意义和影响远超双边范畴",
+      "onboard_time": 1679042427,
+      "rank": 27,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 292846,
@@ -5633,14 +5713,6 @@
       "onboard_time": 1678763605,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 267426,
-      "num": 267426,
-      "word": "中国专家抵达孟菲斯动物园",
-      "onboard_time": 1679041288,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 266955,
@@ -6417,6 +6489,14 @@
       "onboard_time": 1678962268,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 223539,
+      "num": 223539,
+      "word": "九尾发文抵制私生",
+      "onboard_time": 1679044173,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 223424,
@@ -7473,6 +7553,14 @@
       "onboard_time": 1678852648,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 188018,
+      "num": 188018,
+      "word": "吼浪",
+      "onboard_time": 1679043811,
+      "rank": 38,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 187943,
@@ -8547,6 +8635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 140568,
+      "num": 140568,
+      "word": "王曼昱4比1杨晓欣",
+      "onboard_time": 1679043269,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140533,
       "num": 140533,
       "word": "李荣浩沈阳门票",
@@ -8817,6 +8913,14 @@
       "onboard_time": 1678971269,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 127460,
+      "num": 127460,
+      "word": "对话摆摊两周赚1万5辞职护士",
+      "onboard_time": 1679042188,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 127272,
@@ -9249,14 +9353,6 @@
       "onboard_time": 1678960052,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 95739,
-      "num": 95739,
-      "word": "对话摆摊两周赚1万5辞职护士",
-      "onboard_time": 1679042188,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 95622,

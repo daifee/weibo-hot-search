@@ -1,7 +1,15 @@
 {
   "startTime": 1678984163342,
-  "endTime": 1679042258725,
+  "endTime": 1679044740638,
   "band_list": [
+    {
+      "raw_hot": 8816770,
+      "num": 8816770,
+      "word": "姜广涛涉嫌刑事犯罪",
+      "onboard_time": 1679042309,
+      "rank": 0,
+      "category": "社会新闻,艺人"
+    },
     {
       "raw_hot": 2491186,
       "num": 2491186,
@@ -275,6 +283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 762454,
+      "num": 762454,
+      "word": "严浩翔 极限挑战",
+      "onboard_time": 1679042309,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 743613,
       "num": 743613,
       "word": "向太 火推文化",
@@ -355,6 +371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 639989,
+      "num": 639989,
+      "word": "财政部处罚德勤和华融",
+      "onboard_time": 1679042787,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 634728,
       "num": 634728,
       "word": "学生乘车贴绑架纸条致大巴被截停",
@@ -393,6 +417,14 @@
       "onboard_time": 1679032227,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 555346,
+      "num": 555346,
+      "word": "中国专家抵达孟菲斯动物园",
+      "onboard_time": 1679041288,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 552982,
@@ -451,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 488188,
+      "num": 470030,
+      "word": "宝木中阳",
+      "onboard_time": 1679044353,
+      "rank": 9,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 487786,
       "num": 487786,
       "word": "微博之夜",
@@ -465,6 +505,14 @@
       "onboard_time": 1679019807,
       "rank": 27,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 478888,
+      "num": 478888,
+      "word": "张俪看孙心出嫁片段哭了",
+      "onboard_time": 1679042550,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 478041,
@@ -515,6 +563,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 457076,
+      "num": 457076,
+      "word": "王楚钦VS林高远",
+      "onboard_time": 1679043992,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 438639,
       "num": 438639,
       "word": "微博之夜第二批官宣阵容",
@@ -555,6 +611,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 406402,
+      "num": 406402,
+      "word": "满江红再次延长上映",
+      "onboard_time": 1679041228,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 401419,
       "num": 401419,
       "word": "女子求职被要求每月至少晨跑20天",
@@ -577,14 +641,6 @@
       "onboard_time": 1679025330,
       "rank": 19,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 380446,
-      "num": 380446,
-      "word": "满江红再次延长上映",
-      "onboard_time": 1679041228,
-      "rank": 24,
-      "category": "影视"
     },
     {
       "raw_hot": 379509,
@@ -627,6 +683,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 351251,
+      "num": 351251,
+      "word": "吼浪工作室发声明",
+      "onboard_time": 1679043872,
+      "rank": 19,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 348323,
       "num": 348323,
       "word": "拟规定电竞酒店严禁违规接待未成年人",
@@ -635,12 +699,28 @@
       "category": "社会新闻,游戏"
     },
     {
+      "raw_hot": 345240,
+      "num": 345240,
+      "word": "天堂门票",
+      "onboard_time": 1679044231,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 338517,
       "num": 338517,
       "word": "梅根",
       "onboard_time": 1679025207,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 333710,
+      "num": 333710,
+      "word": "她还以为狗狗也有钱",
+      "onboard_time": 1679040508,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 331664,
@@ -683,20 +763,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 305882,
-      "num": 305882,
-      "word": "她还以为狗狗也有钱",
-      "onboard_time": 1679040508,
-      "rank": 29,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 303529,
       "num": 244860,
       "word": "何老师这辈子眼睛没瞪这么大过",
       "onboard_time": 1678952728,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 293804,
+      "num": 293804,
+      "word": "中俄关系的意义和影响远超双边范畴",
+      "onboard_time": 1679042427,
+      "rank": 27,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 291028,
@@ -761,14 +841,6 @@
       "onboard_time": 1679038589,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 267426,
-      "num": 267426,
-      "word": "中国专家抵达孟菲斯动物园",
-      "onboard_time": 1679041288,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 264830,
@@ -865,6 +937,14 @@
       "onboard_time": 1679029290,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 223539,
+      "num": 223539,
+      "word": "九尾发文抵制私生",
+      "onboard_time": 1679044173,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 222053,
@@ -1059,6 +1139,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 188018,
+      "num": 188018,
+      "word": "吼浪",
+      "onboard_time": 1679043811,
+      "rank": 38,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 186973,
       "num": 186973,
       "word": "褚晓羽走了许幻山的老路",
@@ -1243,6 +1331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 140568,
+      "num": 140568,
+      "word": "王曼昱4比1杨晓欣",
+      "onboard_time": 1679043269,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140533,
       "num": 140533,
       "word": "李荣浩沈阳门票",
@@ -1281,6 +1377,14 @@
       "onboard_time": 1678987817,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 127460,
+      "num": 127460,
+      "word": "对话摆摊两周赚1万5辞职护士",
+      "onboard_time": 1679042188,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 127252,
@@ -1433,14 +1537,6 @@
       "onboard_time": 1678976790,
       "rank": 39,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 95739,
-      "num": 95739,
-      "word": "对话摆摊两周赚1万5辞职护士",
-      "onboard_time": 1679042188,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 91659,

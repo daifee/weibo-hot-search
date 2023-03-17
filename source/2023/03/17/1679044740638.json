@@ -1,0 +1,410 @@
+{
+  "runTime": 1679044740638,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8816770,
+        "num": 8816770,
+        "word": "姜广涛涉嫌刑事犯罪",
+        "onboard_time": 1679042309,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1490771,
+        "num": 1490771,
+        "word": "小朋友 你已经很幸福啦",
+        "onboard_time": 1679036487,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 21528,
+        "num": 808744,
+        "word": "高手在民间高燃合集",
+        "onboard_time": 1679012788,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 762454,
+        "num": 762454,
+        "word": "严浩翔 极限挑战",
+        "onboard_time": 1679042309,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 667266,
+        "num": 667266,
+        "word": "张颂文摸苏小玎脸 梦回狂飙",
+        "onboard_time": 1679040988,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 639989,
+        "num": 639989,
+        "word": "财政部处罚德勤和华融",
+        "onboard_time": 1679042787,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 555346,
+        "num": 555346,
+        "word": "中国专家抵达孟菲斯动物园",
+        "onboard_time": 1679041288,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 478888,
+        "num": 478888,
+        "word": "张俪看孙心出嫁片段哭了",
+        "onboard_time": 1679042550,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 825773,
+        "num": 475123,
+        "word": "初三学生被罚站倒地去世",
+        "onboard_time": 1679021907,
+        "rank": 8,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 488188,
+        "num": 470030,
+        "word": "宝木中阳",
+        "onboard_time": 1679044353,
+        "rank": 9,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 690626,
+        "num": 466952,
+        "word": "迪丽热巴驼色大衣造型",
+        "onboard_time": 1679038228,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 581660,
+        "num": 458188,
+        "word": "李维嘉近照",
+        "onboard_time": 1679033366,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 457076,
+        "num": 457076,
+        "word": "王楚钦VS林高远",
+        "onboard_time": 1679043992,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 456751,
+        "num": 456751,
+        "word": "女子穿仿制日本军服夜市打闹被行拘",
+        "onboard_time": 1679031506,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 431805,
+        "num": 431805,
+        "word": "河道英扮演者曾是YG练习生",
+        "onboard_time": 1679037149,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 420752,
+        "num": 420752,
+        "word": "武汉一女子怀孕后遭公司辞退",
+        "onboard_time": 1679034688,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 406402,
+        "num": 406402,
+        "word": "满江红再次延长上映",
+        "onboard_time": 1679041228,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 370039,
+        "num": 370039,
+        "word": "教育局回应初三学生被罚站倒地去世",
+        "onboard_time": 1679032106,
+        "rank": 17,
+        "category": "社会负面,教育"
+      },
+      {
+        "raw_hot": 353764,
+        "num": 353764,
+        "word": "跌了17个月后房价涨了",
+        "onboard_time": 1679027249,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351251,
+        "num": 351251,
+        "word": "吼浪工作室发声明",
+        "onboard_time": 1679043872,
+        "rank": 19,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 996612,
+        "num": 348321,
+        "word": "女子腹痛就医竟怀孕足月生下男婴",
+        "onboard_time": 1679036069,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 538491,
+        "num": 347118,
+        "word": "丫丫主食单一无人与其互动",
+        "onboard_time": 1679035226,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 470615,
+        "num": 346723,
+        "word": "宁艺卓方律师函",
+        "onboard_time": 1679037388,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 345240,
+        "num": 345240,
+        "word": "天堂门票",
+        "onboard_time": 1679044231,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 333710,
+        "num": 333710,
+        "word": "她还以为狗狗也有钱",
+        "onboard_time": 1679040508,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 316224,
+        "num": 316224,
+        "word": "杨幂的摩天轮比耶照",
+        "onboard_time": 1679036307,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308986,
+        "num": 308986,
+        "word": "女子求职被要求每月至少晨跑20天",
+        "onboard_time": 1679036186,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293804,
+        "num": 293804,
+        "word": "中俄关系的意义和影响远超双边范畴",
+        "onboard_time": 1679042427,
+        "rank": 27,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 282336,
+        "num": 282336,
+        "word": "拟规定电竞酒店严禁违规接待未成年人",
+        "onboard_time": 1679039487,
+        "rank": 28,
+        "category": "社会新闻,游戏"
+      },
+      {
+        "raw_hot": 280767,
+        "num": 280767,
+        "word": "郑州大雪压塌6000平方米物流仓库",
+        "onboard_time": 1679035047,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251356,
+        "num": 251356,
+        "word": "何炅再提快乐大本营",
+        "onboard_time": 1679020948,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224643,
+        "num": 224643,
+        "word": "王鸥替大侦探角色道歉",
+        "onboard_time": 1679032227,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223539,
+        "num": 223539,
+        "word": "九尾发文抵制私生",
+        "onboard_time": 1679044173,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 222257,
+        "num": 222257,
+        "word": "女子领证当天在星巴克化妆遭驱赶",
+        "onboard_time": 1679022869,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220646,
+        "num": 220646,
+        "word": "黄文煜自曝曾被猥亵",
+        "onboard_time": 1679036251,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 216556,
+        "num": 216556,
+        "word": "杨紫粉丝娱乐白皮书寄语",
+        "onboard_time": 1679041950,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211541,
+        "num": 211541,
+        "word": "泫雅力丸同框照",
+        "onboard_time": 1679041528,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209378,
+        "num": 209378,
+        "word": "半天妖垃圾桶捞回餐食又端给顾客",
+        "onboard_time": 1679027310,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188018,
+        "num": 188018,
+        "word": "吼浪",
+        "onboard_time": 1679043811,
+        "rank": 38,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 164191,
+        "num": 164191,
+        "word": "刘雨昕下车的姿势",
+        "onboard_time": 1679040869,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151066,
+        "num": 151066,
+        "word": "向太 火推文化",
+        "onboard_time": 1679033068,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148570,
+        "num": 148570,
+        "word": "微博之夜舞台名场面",
+        "onboard_time": 1679041288,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 140568,
+        "num": 140568,
+        "word": "王曼昱4比1杨晓欣",
+        "onboard_time": 1679043269,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135337,
+        "num": 135337,
+        "word": "为什么猩猩会停止进化",
+        "onboard_time": 1679037149,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127980,
+        "num": 127980,
+        "word": "快乐大本营",
+        "onboard_time": 1679026710,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127460,
+        "num": 127460,
+        "word": "对话摆摊两周赚1万5辞职护士",
+        "onboard_time": 1679042188,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121616,
+        "num": 121616,
+        "word": "微博之夜公告",
+        "onboard_time": 1679033425,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120251,
+        "num": 120251,
+        "word": "霉霉空降4首新歌",
+        "onboard_time": 1679035106,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 118969,
+        "num": 118969,
+        "word": "难听",
+        "onboard_time": 1679029646,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 115216,
+        "num": 115216,
+        "word": "马龙4比0邱党",
+        "onboard_time": 1679038589,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平将对俄罗斯进行国事访问#"
+    }
+  }
+}
