@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1679034155314,
+  "endTime": 1679035024333,
   "band_list": [
     {
       "raw_hot": 8307302,
@@ -459,6 +459,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 1432779,
+      "num": 1432779,
+      "word": "女子穿仿制日本军服夜市打闹被行拘",
+      "onboard_time": 1679031506,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1411431,
       "num": 1411431,
       "word": "好利来半熟芝士包装内密封着头发",
@@ -600,14 +608,6 @@
       "word": "美国公示丫丫回国相关申请",
       "onboard_time": 1678690226,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1244992,
-      "num": 1244992,
-      "word": "女子穿仿制日本军服夜市打闹被行拘",
-      "onboard_time": 1679031506,
-      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -865,6 +865,14 @@
       "onboard_time": 1678841431,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1039322,
+      "num": 531770,
+      "word": "李维嘉近照",
+      "onboard_time": 1679033366,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1038285,
@@ -1635,6 +1643,14 @@
       "category": "影视,财经"
     },
     {
+      "raw_hot": 743613,
+      "num": 743613,
+      "word": "向太 火推文化",
+      "onboard_time": 1679033068,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 741610,
       "num": 741610,
       "word": "Tiffany被曝一钻两卖",
@@ -2385,14 +2401,6 @@
       "onboard_time": 1678663821,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 581900,
-      "num": 581900,
-      "word": "向太 火推文化",
-      "onboard_time": 1679033068,
-      "rank": 9,
-      "category": "艺人"
     },
     {
       "raw_hot": 580983,
@@ -3219,6 +3227,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 476718,
+      "num": 476718,
+      "word": "微博之夜公告",
+      "onboard_time": 1679033425,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 476603,
       "num": 476603,
       "word": "检测机构已抵达假香米公司",
@@ -3288,14 +3304,6 @@
       "word": "刘亦菲 微博之夜",
       "onboard_time": 1678779028,
       "rank": 41,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 467966,
-      "num": 467966,
-      "word": "微博之夜公告",
-      "onboard_time": 1679033425,
-      "rank": 11,
       "category": "综艺"
     },
     {
@@ -3449,14 +3457,6 @@
       "onboard_time": 1678763126,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 450898,
-      "num": 450898,
-      "word": "李维嘉近照",
-      "onboard_time": 1679033366,
-      "rank": 12,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 448075,
@@ -6348,7 +6348,7 @@
     },
     {
       "raw_hot": 217034,
-      "num": 183112,
+      "num": 201615,
       "word": "他是谁俞灏明今晚上线",
       "onboard_time": 1679032106,
       "rank": 25,
@@ -7435,6 +7435,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 180865,
+      "num": 180865,
+      "word": "那英军训歌迷大合唱",
+      "onboard_time": 1679034327,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 180085,
       "num": 162433,
       "word": "秦舒培VOGUE夏威夷大片",
@@ -8099,6 +8107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 148749,
+      "num": 136701,
+      "word": "任素汐全程把脉追完他是谁",
+      "onboard_time": 1679033727,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 148581,
       "num": 148581,
       "word": "杨紫高马尾条纹衫路透",
@@ -8363,14 +8379,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 136701,
-      "num": 136701,
-      "word": "任素汐全程把脉追完他是谁",
-      "onboard_time": 1679033727,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 136399,
       "num": 135731,
       "word": "魏如萱音色",
@@ -8595,12 +8603,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 125878,
+      "num": 118740,
+      "word": "陈坤说没空相亲",
+      "onboard_time": 1679031208,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125599,
       "num": 125599,
       "word": "张译抬眸",
       "onboard_time": 1679023709,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 124191,
+      "num": 124191,
+      "word": "武汉一女子怀孕后遭公司辞退",
+      "onboard_time": 1679034688,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 123733,
@@ -8889,14 +8913,6 @@
       "onboard_time": 1678934909,
       "rank": 48,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 104993,
-      "num": 104993,
-      "word": "陈坤说没空相亲",
-      "onboard_time": 1679031208,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 104527,

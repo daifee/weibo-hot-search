@@ -1,6 +1,6 @@
 {
   "startTime": 1678984163342,
-  "endTime": 1679034155314,
+  "endTime": 1679035024333,
   "band_list": [
     {
       "raw_hot": 2491186,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1432779,
+      "num": 1432779,
+      "word": "女子穿仿制日本军服夜市打闹被行拘",
+      "onboard_time": 1679031506,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1354883,
       "num": 1354883,
       "word": "狂飙 北城",
@@ -79,14 +87,6 @@
       "num": 1331871,
       "word": "国内2名专家已前往美国照料丫丫",
       "onboard_time": 1679012426,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1244992,
-      "num": 1244992,
-      "word": "女子穿仿制日本军服夜市打闹被行拘",
-      "onboard_time": 1679031506,
       "rank": 1,
       "category": "社会新闻"
     },
@@ -105,6 +105,14 @@
       "onboard_time": 1679017166,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1039322,
+      "num": 531770,
+      "word": "李维嘉近照",
+      "onboard_time": 1679033366,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1038285,
@@ -211,6 +219,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 743613,
+      "num": 743613,
+      "word": "向太 火推文化",
+      "onboard_time": 1679033068,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 730151,
       "num": 730151,
       "word": "上海地铁",
@@ -299,14 +315,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 581900,
-      "num": 581900,
-      "word": "向太 火推文化",
-      "onboard_time": 1679033068,
-      "rank": 9,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 552982,
       "num": 552982,
       "word": "李健 北城老师",
@@ -379,6 +387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 476718,
+      "num": 476718,
+      "word": "微博之夜公告",
+      "onboard_time": 1679033425,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 473470,
       "num": 473470,
       "word": "郁金香见到雪了",
@@ -403,28 +419,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 467966,
-      "num": 467966,
-      "word": "微博之夜公告",
-      "onboard_time": 1679033425,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 461292,
       "num": 461292,
       "word": "蛋仔派对鹅鸭杀联动",
       "onboard_time": 1679022088,
       "rank": 28,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 450898,
-      "num": 450898,
-      "word": "李维嘉近照",
-      "onboard_time": 1679033366,
-      "rank": 12,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 438639,
@@ -716,7 +716,7 @@
     },
     {
       "raw_hot": 217034,
-      "num": 183112,
+      "num": 201615,
       "word": "他是谁俞灏明今晚上线",
       "onboard_time": 1679032106,
       "rank": 25,
@@ -867,6 +867,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 180865,
+      "num": 180865,
+      "word": "那英军训歌迷大合唱",
+      "onboard_time": 1679034327,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 180085,
       "num": 162433,
       "word": "秦舒培VOGUE夏威夷大片",
@@ -971,6 +979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 148749,
+      "num": 136701,
+      "word": "任素汐全程把脉追完他是谁",
+      "onboard_time": 1679033727,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 147933,
       "num": 147933,
       "word": "归晓反套路实录",
@@ -984,14 +1000,6 @@
       "word": "他是谁",
       "onboard_time": 1678966170,
       "rank": 28,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 136701,
-      "num": 136701,
-      "word": "任素汐全程把脉追完他是谁",
-      "onboard_time": 1679033727,
-      "rank": 36,
       "category": "影视"
     },
     {
@@ -1043,12 +1051,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125878,
+      "num": 118740,
+      "word": "陈坤说没空相亲",
+      "onboard_time": 1679031208,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125599,
       "num": 125599,
       "word": "张译抬眸",
       "onboard_time": 1679023709,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 124191,
+      "num": 124191,
+      "word": "武汉一女子怀孕后遭公司辞退",
+      "onboard_time": 1679034688,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 123484,
@@ -1129,14 +1153,6 @@
       "onboard_time": 1678975771,
       "rank": 37,
       "category": "其它"
-    },
-    {
-      "raw_hot": 104993,
-      "num": 104993,
-      "word": "陈坤说没空相亲",
-      "onboard_time": 1679031208,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 101862,
