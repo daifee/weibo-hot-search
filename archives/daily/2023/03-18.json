@@ -1,6 +1,6 @@
 {
   "startTime": 1679070330564,
-  "endTime": 1679078196212,
+  "endTime": 1679080491662,
   "band_list": [
     {
       "raw_hot": 1250904,
@@ -443,12 +443,36 @@
       "category": "科技"
     },
     {
+      "raw_hot": 61817,
+      "num": 61817,
+      "word": "警方回应游客98元买走60根虫草",
+      "onboard_time": 1679078654,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 61549,
       "num": 61549,
       "word": "如何一句话让网友应激",
       "onboard_time": 1679071822,
       "rank": 46,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 54881,
+      "num": 32714,
+      "word": "研究表明养猫养狗或影响睡眠",
+      "onboard_time": 1679077875,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 53803,
+      "num": 25567,
+      "word": "超市6500元招聘引学生排队投简历",
+      "onboard_time": 1679079193,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 29525,
@@ -467,12 +491,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 23913,
-      "num": 23913,
-      "word": "研究表明养猫养狗或影响睡眠",
-      "onboard_time": 1679077875,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 15267,
+      "num": 18793,
+      "word": "你管这叫修正带",
+      "onboard_time": 1679080453,
+      "rank": 49,
+      "category": "幽默"
     }
   ],
   "hotgov_list": [
