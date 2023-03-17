@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1679080491662,
+  "endTime": 1679081595308,
   "band_list": [
     {
       "raw_hot": 9458443,
@@ -10379,12 +10379,28 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 88562,
+      "num": 25567,
+      "word": "超市6500元招聘引学生排队投简历",
+      "onboard_time": 1679079193,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 88188,
       "num": 88188,
       "word": "裸眼3D看开往春天的列车",
       "onboard_time": 1678667547,
       "rank": 48,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 86275,
+      "num": 61817,
+      "word": "警方回应游客98元买走60根虫草",
+      "onboard_time": 1679078654,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 86091,
@@ -10619,14 +10635,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 61817,
-      "num": 61817,
-      "word": "警方回应游客98元买走60根虫草",
-      "onboard_time": 1679078654,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 61549,
       "num": 61549,
       "word": "如何一句话让网友应激",
@@ -10665,6 +10673,14 @@
       "onboard_time": 1678640538,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 58314,
+      "num": 32714,
+      "word": "研究表明养猫养狗或影响睡眠",
+      "onboard_time": 1679077875,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 58078,
@@ -10723,28 +10739,12 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 54881,
-      "num": 32714,
-      "word": "研究表明养猫养狗或影响睡眠",
-      "onboard_time": 1679077875,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 54522,
       "num": 80753,
       "word": "成毅英雄志骑马送亲路透",
       "onboard_time": 1678735091,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 53803,
-      "num": 25567,
-      "word": "超市6500元招聘引学生排队投简历",
-      "onboard_time": 1679079193,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 50958,
@@ -10907,20 +10907,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 21015,
+      "num": 21015,
+      "word": "你管这叫修正带",
+      "onboard_time": 1679080453,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 17549,
       "num": 17549,
       "word": "驾驶我的车亚洲电影大奖最佳影片",
       "onboard_time": 1678645632,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 15267,
-      "num": 18793,
-      "word": "你管这叫修正带",
-      "onboard_time": 1679080453,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 10931,
