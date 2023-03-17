@@ -1,0 +1,410 @@
+{
+  "runTime": 1679057645663,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2555087,
+        "num": 2555087,
+        "word": "姜广涛涉嫌刑事犯罪",
+        "onboard_time": 1679042309,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1949385,
+        "num": 1949385,
+        "word": "哇唧唧哇 难哄",
+        "onboard_time": 1679055327,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 35935,
+        "num": 1158479,
+        "word": "这支船队守望祖国的星空",
+        "onboard_time": 1679046093,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1082196,
+        "num": 1082196,
+        "word": "金大川雎晓雯 喜酒",
+        "onboard_time": 1679047412,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 973427,
+        "num": 973427,
+        "word": "王阳补牢",
+        "onboard_time": 1679055389,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 699305,
+        "num": 699305,
+        "word": "姜广涛能不能把声带捐出来",
+        "onboard_time": 1679052869,
+        "rank": 5,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 602553,
+        "num": 602553,
+        "word": "不得因怀孕辞退女职工",
+        "onboard_time": 1679052330,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 581847,
+        "num": 581847,
+        "word": "央行决定降准0.25个百分点",
+        "onboard_time": 1679045072,
+        "rank": 7,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 541961,
+        "num": 541961,
+        "word": "魏大勋大侦探靠一句话洗脱嫌疑",
+        "onboard_time": 1679051131,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 527849,
+        "num": 527849,
+        "word": "邓超零下27度吃雪糕",
+        "onboard_time": 1679053407,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 449944,
+        "num": 449944,
+        "word": "天官赐福",
+        "onboard_time": 1679047472,
+        "rank": 10,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 442692,
+        "num": 442692,
+        "word": "小学生第一次听周杰伦的歌",
+        "onboard_time": 1679055026,
+        "rank": 11,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 424248,
+        "num": 424248,
+        "word": "苏小玎拍车窗",
+        "onboard_time": 1679055509,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 411178,
+        "num": 411178,
+        "word": "雎晓雯 谢谢祝福",
+        "onboard_time": 1679050230,
+        "rank": 13,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 395871,
+        "num": 395871,
+        "word": "老干妈或将推出冰淇淋",
+        "onboard_time": 1679052149,
+        "rank": 14,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 388926,
+        "num": 388926,
+        "word": "斗罗大陆2备案",
+        "onboard_time": 1679056170,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 339177,
+        "num": 339177,
+        "word": "欧冠死亡半区",
+        "onboard_time": 1679054009,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 333056,
+        "num": 333056,
+        "word": "孙颖莎VS朱芊曦",
+        "onboard_time": 1679054187,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 312890,
+        "num": 312890,
+        "word": "28岁徐志胜和38岁陈伟霆同框",
+        "onboard_time": 1679045669,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240682,
+        "num": 240682,
+        "word": "德勤华永回应财政部罚单",
+        "onboard_time": 1679054248,
+        "rank": 19,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 629504,
+        "num": 239087,
+        "word": "女子腹痛就医竟怀孕足月生下男婴",
+        "onboard_time": 1679036069,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337325,
+        "num": 238650,
+        "word": "丫丫主食单一无人与其互动",
+        "onboard_time": 1679035226,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236662,
+        "num": 236662,
+        "word": "财政部处罚德勤和华融",
+        "onboard_time": 1679042787,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235762,
+        "num": 235762,
+        "word": "孙颖莎4比3朱芊曦",
+        "onboard_time": 1679056468,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 231273,
+        "num": 231273,
+        "word": "谭松韵问井柏然收视有保障吗",
+        "onboard_time": 1679052448,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 229975,
+        "num": 229975,
+        "word": "迪丽热巴驼色大衣造型",
+        "onboard_time": 1679038228,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 228412,
+        "num": 228412,
+        "word": "北京体育中考调整为合格考",
+        "onboard_time": 1679056048,
+        "rank": 26,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 222842,
+        "num": 222842,
+        "word": "宋扬",
+        "onboard_time": 1679048493,
+        "rank": 27,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 211206,
+        "num": 211206,
+        "word": "中国专家抵达孟菲斯动物园",
+        "onboard_time": 1679041288,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210484,
+        "num": 210484,
+        "word": "初三学生被罚站倒地去世",
+        "onboard_time": 1679021907,
+        "rank": 29,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 382841,
+        "num": 210363,
+        "word": "孙怡徐艺洋演同事",
+        "onboard_time": 1679057187,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 209103,
+        "num": 209103,
+        "word": "我们的客栈",
+        "onboard_time": 1679057187,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201870,
+        "num": 201870,
+        "word": "回响",
+        "onboard_time": 1679056889,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 198245,
+        "num": 198245,
+        "word": "EDG对战OMG",
+        "onboard_time": 1679057008,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 194717,
+        "num": 194717,
+        "word": "新式神言灵",
+        "onboard_time": 1679056350,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 192045,
+        "num": 192045,
+        "word": "时代少年团个人外务",
+        "onboard_time": 1679051010,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 188257,
+        "num": 188257,
+        "word": "RNGM战胜EDGM",
+        "onboard_time": 1679057308,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 180212,
+        "num": 180212,
+        "word": "姜广涛的配音作品",
+        "onboard_time": 1679045852,
+        "rank": 37,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 177750,
+        "num": 177750,
+        "word": "曼联将战塞维利亚",
+        "onboard_time": 1679056826,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176696,
+        "num": 176696,
+        "word": "宋慧乔韩素希海报是网友P的",
+        "onboard_time": 1679046572,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156990,
+        "num": 156990,
+        "word": "新海诚说喜欢罗小黑战记",
+        "onboard_time": 1679050891,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 154679,
+        "num": 154679,
+        "word": "陈都灵云之羽蓝衣",
+        "onboard_time": 1679054668,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 152252,
+        "num": 152252,
+        "word": "宁艺卓方律师函",
+        "onboard_time": 1679037388,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143389,
+        "num": 143389,
+        "word": "宝木中阳",
+        "onboard_time": 1679044353,
+        "rank": 43,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 136503,
+        "num": 136503,
+        "word": "教育局回应初三学生被罚站倒地去世",
+        "onboard_time": 1679032106,
+        "rank": 44,
+        "category": "社会负面,教育"
+      },
+      {
+        "raw_hot": 130669,
+        "num": 130669,
+        "word": "光合积木",
+        "onboard_time": 1679045072,
+        "rank": 45,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 128527,
+        "num": 128527,
+        "word": "武汉一女子怀孕后遭公司辞退",
+        "onboard_time": 1679034688,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126185,
+        "num": 126185,
+        "word": "你还相信情感主播吗",
+        "onboard_time": 1679057427,
+        "rank": 47,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 125956,
+        "num": 125956,
+        "word": "河道英扮演者曾是YG练习生",
+        "onboard_time": 1679037149,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 123443,
+        "num": 123443,
+        "word": "严浩翔 极限挑战",
+        "onboard_time": 1679042309,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平将对俄罗斯进行国事访问#"
+    }
+  }
+}

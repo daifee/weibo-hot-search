@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679056561240,
+  "endTime": 1679057645663,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -739,6 +739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1949385,
+      "num": 1949385,
+      "word": "哇唧唧哇 难哄",
+      "onboard_time": 1679055327,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1942155,
       "num": 421795,
       "word": "王子文 现在没有恋人",
@@ -1401,14 +1409,6 @@
       "onboard_time": 1677640168,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1568899,
-      "num": 1568899,
-      "word": "哇唧唧哇 难哄",
-      "onboard_time": 1679055327,
-      "rank": 1,
-      "category": "影视"
     },
     {
       "raw_hot": 1566236,
@@ -3723,6 +3723,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 973427,
+      "num": 973427,
+      "word": "王阳补牢",
+      "onboard_time": 1679055389,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 973279,
       "num": 564573,
       "word": "美媒称中国遍地杨树花是遭虫雨袭击",
@@ -4713,14 +4721,6 @@
       "onboard_time": 1678325246,
       "rank": 10,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 840131,
-      "num": 840131,
-      "word": "王阳补牢",
-      "onboard_time": 1679055389,
-      "rank": 4,
-      "category": "影视"
     },
     {
       "raw_hot": 838833,
@@ -11651,6 +11651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 442692,
+      "num": 442692,
+      "word": "小学生第一次听周杰伦的歌",
+      "onboard_time": 1679055026,
+      "rank": 15,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 442683,
       "num": 765989,
       "word": "最新国家形象网宣片",
@@ -12225,6 +12233,14 @@
       "onboard_time": 1678680569,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 424248,
+      "num": 424248,
+      "word": "苏小玎拍车窗",
+      "onboard_time": 1679055509,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 423776,
@@ -13187,6 +13203,14 @@
       "category": "军事,国内要闻"
     },
     {
+      "raw_hot": 388926,
+      "num": 388926,
+      "word": "斗罗大陆2备案",
+      "onboard_time": 1679056170,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 388826,
       "num": 388826,
       "word": "迪丽热巴时装3月刊",
@@ -13281,14 +13305,6 @@
       "onboard_time": 1677981866,
       "rank": 16,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 386246,
-      "num": 386246,
-      "word": "小学生第一次听周杰伦的歌",
-      "onboard_time": 1679055026,
-      "rank": 15,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 386232,
@@ -13403,14 +13419,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 384010,
-      "num": 384010,
-      "word": "苏小玎拍车窗",
-      "onboard_time": 1679055509,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 383991,
       "num": 315793,
       "word": "TWICE全员素颜造型",
@@ -13456,6 +13464,14 @@
       "word": "白马帅掉马",
       "onboard_time": 1678010907,
       "rank": 18,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 382841,
+      "num": 210363,
+      "word": "孙怡徐艺洋演同事",
+      "onboard_time": 1679057187,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -19771,6 +19787,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 240682,
+      "num": 240682,
+      "word": "德勤华永回应财政部罚单",
+      "onboard_time": 1679054248,
+      "rank": 25,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 240493,
       "num": 240493,
       "word": "吴兴涵",
@@ -20035,6 +20059,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 235762,
+      "num": 235762,
+      "word": "孙颖莎4比3朱芊曦",
+      "onboard_time": 1679056468,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 235743,
       "num": 268351,
       "word": "TES对战RNG",
@@ -20073,14 +20105,6 @@
       "onboard_time": 1677908964,
       "rank": 18,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 234484,
-      "num": 234484,
-      "word": "德勤华永回应财政部罚单",
-      "onboard_time": 1679054248,
-      "rank": 25,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 234185,
@@ -20531,6 +20555,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 228412,
+      "num": 228412,
+      "word": "北京体育中考调整为合格考",
+      "onboard_time": 1679056048,
+      "rank": 33,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 228285,
       "num": 228285,
       "word": "姚薇怀孕",
@@ -20633,14 +20665,6 @@
       "onboard_time": 1677875951,
       "rank": 10,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 227098,
-      "num": 227098,
-      "word": "斗罗大陆2备案",
-      "onboard_time": 1679056170,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 226798,
@@ -22291,14 +22315,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 206033,
-      "num": 140068,
-      "word": "孙颖莎4比3朱芊曦",
-      "onboard_time": 1679056468,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 205917,
       "num": 205917,
       "word": "尹净汉扎发造型",
@@ -22899,6 +22915,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 201870,
+      "num": 201870,
+      "word": "回响",
+      "onboard_time": 1679056889,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 201776,
       "num": 201776,
       "word": "周深两首歌入选中国当代歌曲创作精品",
@@ -23497,6 +23521,14 @@
       "onboard_time": 1678230501,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198245,
+      "num": 198245,
+      "word": "EDG对战OMG",
+      "onboard_time": 1679057008,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 198231,
@@ -24875,6 +24907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 188257,
+      "num": 188257,
+      "word": "RNGM战胜EDGM",
+      "onboard_time": 1679057308,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 188197,
       "num": 261519,
       "word": "U20国足加油",
@@ -25241,14 +25281,6 @@
       "onboard_time": 1678080448,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 183857,
-      "num": 183857,
-      "word": "北京体育中考调整为合格考",
-      "onboard_time": 1679056048,
-      "rank": 33,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 183784,
@@ -25633,6 +25665,14 @@
       "onboard_time": 1677769769,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 177750,
+      "num": 177750,
+      "word": "曼联将战塞维利亚",
+      "onboard_time": 1679056826,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 177717,
@@ -29977,6 +30017,14 @@
       "onboard_time": 1678201351,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 126185,
+      "num": 126185,
+      "word": "你还相信情感主播吗",
+      "onboard_time": 1679057427,
+      "rank": 47,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 126167,

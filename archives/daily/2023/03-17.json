@@ -1,6 +1,6 @@
 {
   "startTime": 1678984163342,
-  "endTime": 1679056561240,
+  "endTime": 1679057645663,
   "band_list": [
     {
       "raw_hot": 9458443,
@@ -59,6 +59,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1949385,
+      "num": 1949385,
+      "word": "哇唧唧哇 难哄",
+      "onboard_time": 1679055327,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1939065,
       "num": 650907,
       "word": "韩素希说宋慧乔现在是她的了",
@@ -89,14 +97,6 @@
       "onboard_time": 1678979609,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1568899,
-      "num": 1568899,
-      "word": "哇唧唧哇 难哄",
-      "onboard_time": 1679055327,
-      "rank": 1,
-      "category": "影视"
     },
     {
       "raw_hot": 1558258,
@@ -243,6 +243,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 973427,
+      "num": 973427,
+      "word": "王阳补牢",
+      "onboard_time": 1679055389,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 927457,
       "num": 240846,
       "word": "肖战2022年高带货力明星",
@@ -321,14 +329,6 @@
       "onboard_time": 1679032106,
       "rank": 10,
       "category": "社会负面,教育"
-    },
-    {
-      "raw_hot": 840131,
-      "num": 840131,
-      "word": "王阳补牢",
-      "onboard_time": 1679055389,
-      "rank": 4,
-      "category": "影视"
     },
     {
       "raw_hot": 838833,
@@ -739,6 +739,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 442692,
+      "num": 442692,
+      "word": "小学生第一次听周杰伦的歌",
+      "onboard_time": 1679055026,
+      "rank": 15,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 442515,
       "num": 442515,
       "word": "时代少年团个人外务",
@@ -768,6 +776,14 @@
       "word": "德云社",
       "onboard_time": 1679018006,
       "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 424248,
+      "num": 424248,
+      "word": "苏小玎拍车窗",
+      "onboard_time": 1679055509,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -827,20 +843,20 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 386246,
-      "num": 386246,
-      "word": "小学生第一次听周杰伦的歌",
-      "onboard_time": 1679055026,
-      "rank": 15,
-      "category": "幽默,艺人"
+      "raw_hot": 388926,
+      "num": 388926,
+      "word": "斗罗大陆2备案",
+      "onboard_time": 1679056170,
+      "rank": 26,
+      "category": "影视"
     },
     {
-      "raw_hot": 384010,
-      "num": 384010,
-      "word": "苏小玎拍车窗",
-      "onboard_time": 1679055509,
-      "rank": 16,
-      "category": "艺人"
+      "raw_hot": 382841,
+      "num": 210363,
+      "word": "孙怡徐艺洋演同事",
+      "onboard_time": 1679057187,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 380801,
@@ -1155,20 +1171,28 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 240682,
+      "num": 240682,
+      "word": "德勤华永回应财政部罚单",
+      "onboard_time": 1679054248,
+      "rank": 25,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 235762,
+      "num": 235762,
+      "word": "孙颖莎4比3朱芊曦",
+      "onboard_time": 1679056468,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 235640,
       "num": 235640,
       "word": "蛋仔派对",
       "onboard_time": 1679009784,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 234484,
-      "num": 234484,
-      "word": "德勤华永回应财政部罚单",
-      "onboard_time": 1679054248,
-      "rank": 25,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 234185,
@@ -1211,20 +1235,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 228412,
+      "num": 228412,
+      "word": "北京体育中考调整为合格考",
+      "onboard_time": 1679056048,
+      "rank": 33,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 227843,
       "num": 227843,
       "word": "马嘉祺台湾腔",
       "onboard_time": 1679029290,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 227098,
-      "num": 227098,
-      "word": "斗罗大陆2备案",
-      "onboard_time": 1679056170,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 222053,
@@ -1315,20 +1339,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 209103,
+      "num": 209103,
+      "word": "我们的客栈",
+      "onboard_time": 1679057187,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207844,
       "num": 207844,
       "word": "声生不息台湾腔配音",
       "onboard_time": 1679030666,
       "rank": 28,
       "category": "综艺,幽默"
-    },
-    {
-      "raw_hot": 206033,
-      "num": 140068,
-      "word": "孙颖莎4比3朱芊曦",
-      "onboard_time": 1679056468,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 204959,
@@ -1355,6 +1379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 201870,
+      "num": 201870,
+      "word": "回响",
+      "onboard_time": 1679056889,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 200059,
       "num": 200059,
       "word": "国防部说台湾当归",
@@ -1377,6 +1409,14 @@
       "onboard_time": 1678988053,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198245,
+      "num": 198245,
+      "word": "EDG对战OMG",
+      "onboard_time": 1679057008,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 198231,
@@ -1515,6 +1555,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 188257,
+      "num": 188257,
+      "word": "RNGM战胜EDGM",
+      "onboard_time": 1679057308,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 188018,
       "num": 188018,
       "word": "吼浪",
@@ -1529,14 +1577,6 @@
       "onboard_time": 1679008700,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 183857,
-      "num": 183857,
-      "word": "北京体育中考调整为合格考",
-      "onboard_time": 1679056048,
-      "rank": 33,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 180865,
@@ -1561,6 +1601,14 @@
       "onboard_time": 1679054668,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 177750,
+      "num": 177750,
+      "word": "曼联将战塞维利亚",
+      "onboard_time": 1679056826,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 175669,
@@ -1841,6 +1889,14 @@
       "onboard_time": 1678975950,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126185,
+      "num": 126185,
+      "word": "你还相信情感主播吗",
+      "onboard_time": 1679057427,
+      "rank": 47,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 125878,
