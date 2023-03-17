@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1679060143557,
+  "endTime": 1679062644130,
   "band_list": [
     {
       "raw_hot": 9458443,
@@ -315,6 +315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1817288,
+      "num": 1817288,
+      "word": "他是谁 看yue了",
+      "onboard_time": 1679060550,
+      "rank": 0,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1777140,
       "num": 1777140,
       "word": "河南下雪",
@@ -403,6 +411,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1686138,
+      "num": 1686138,
+      "word": "日本女大胃王菅原初代患肠癌病逝",
+      "onboard_time": 1679059410,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1671846,
       "num": 892703,
       "word": "刘亚仁吸毒证据超10000张",
@@ -473,6 +489,14 @@
       "onboard_time": 1679045072,
       "rank": 3,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 1509410,
+      "num": 1509410,
+      "word": "桑延选角",
+      "onboard_time": 1679059470,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 1507507,
@@ -569,6 +593,14 @@
       "onboard_time": 1678699226,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1372452,
+      "num": 1372452,
+      "word": "月薪三千的生活是怎样的",
+      "onboard_time": 1679060070,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 1368754,
@@ -1059,14 +1091,6 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 993290,
-      "num": 993290,
-      "word": "桑延选角",
-      "onboard_time": 1679059470,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 986445,
       "num": 986445,
       "word": "夫妻辞去中科院和北大的工作回乡务农",
@@ -1236,7 +1260,7 @@
     },
     {
       "raw_hot": 915478,
-      "num": 261131,
+      "num": 572686,
       "word": "马琳",
       "onboard_time": 1678696105,
       "rank": 17,
@@ -1673,6 +1697,14 @@
       "onboard_time": 1678716207,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 794984,
+      "num": 794984,
+      "word": "唐嫣钟汉良再演何以笙箫默",
+      "onboard_time": 1679060733,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 793330,
@@ -3155,6 +3187,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 513159,
+      "num": 513159,
+      "word": "梁博现场",
+      "onboard_time": 1679060852,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 512294,
       "num": 512294,
       "word": "黑龙江再现黑土非法贩卖",
@@ -4203,6 +4243,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 415727,
+      "num": 415727,
+      "word": "关晓彤香槟色水光裙",
+      "onboard_time": 1679061451,
+      "rank": 14,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 415222,
       "num": 415222,
       "word": "当词汇量到达一定量的时候",
@@ -4369,6 +4417,14 @@
       "onboard_time": 1678767751,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 399557,
+      "num": 399557,
+      "word": "这家凉皮摊前全是100分",
+      "onboard_time": 1679058508,
+      "rank": 33,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 398459,
@@ -4793,14 +4849,6 @@
       "onboard_time": 1678964790,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 356359,
-      "num": 227388,
-      "word": "日本女大胃王菅原初代患肠癌病逝",
-      "onboard_time": 1679059410,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 355899,
@@ -5571,14 +5619,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 304317,
-      "num": 304317,
-      "word": "这家凉皮摊前全是100分",
-      "onboard_time": 1679058508,
-      "rank": 33,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 301362,
       "num": 401862,
       "word": "花花是如何成为顶流的",
@@ -5729,6 +5769,14 @@
       "onboard_time": 1678888534,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 287132,
+      "num": 287132,
+      "word": "宋亚轩和弟弟连线",
+      "onboard_time": 1679060791,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 286506,
@@ -6537,6 +6585,14 @@
       "onboard_time": 1678671565,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 238985,
+      "num": 238985,
+      "word": "孙颖莎王曼昱3比0田志希申裕斌",
+      "onboard_time": 1679061691,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 238976,
@@ -7587,6 +7643,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 199137,
+      "num": 199137,
+      "word": "大江大河3海报",
+      "onboard_time": 1679062291,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 198848,
       "num": 198848,
       "word": "新海诚夸周深唱的主题曲非常动听",
@@ -8148,7 +8212,7 @@
     },
     {
       "raw_hot": 186075,
-      "num": 1112310,
+      "num": 1573566,
       "word": "2022中国科学十大进展",
       "onboard_time": 1679057729,
       "rank": 2,
@@ -8553,6 +8617,14 @@
       "onboard_time": 1678977809,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 167756,
+      "num": 167756,
+      "word": "魏平安女儿被校园霸凌",
+      "onboard_time": 1679062472,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 166431,
@@ -9259,6 +9331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 138849,
+      "num": 138849,
+      "word": "理科生坠入情网",
+      "onboard_time": 1679062291,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 138794,
       "num": 138794,
       "word": "叶诗文说想在杭州亚运会拿冠军",
@@ -9344,6 +9424,14 @@
       "word": "湖人vs火箭",
       "onboard_time": 1678934607,
       "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 135317,
+      "num": 135317,
+      "word": "张瑞VS韩莹",
+      "onboard_time": 1679060131,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -9547,6 +9635,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 126131,
+      "num": 126131,
+      "word": "国乒锁定大满贯女双冠军",
+      "onboard_time": 1679062052,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 126003,
+      "num": 126003,
+      "word": "电视剧归路11集新预告",
+      "onboard_time": 1679061092,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 125878,
       "num": 118740,
       "word": "陈坤说没空相亲",
@@ -9561,6 +9665,14 @@
       "onboard_time": 1679023709,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 123777,
+      "num": 123777,
+      "word": "小福菀终于学会爬树了",
+      "onboard_time": 1679062412,
+      "rank": 48,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 123733,
@@ -9747,14 +9859,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 113462,
-      "num": 113462,
-      "word": "张瑞VS韩莹",
-      "onboard_time": 1679060131,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 112670,
       "num": 112670,
       "word": "RedVelvet演唱会预告视频",
@@ -9825,14 +9929,6 @@
       "onboard_time": 1678676486,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 110029,
-      "num": 110029,
-      "word": "月薪三千的生活是怎样的",
-      "onboard_time": 1679060070,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 109477,

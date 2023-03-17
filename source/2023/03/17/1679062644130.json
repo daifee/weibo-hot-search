@@ -1,0 +1,410 @@
+{
+  "runTime": 1679062644130,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1817288,
+        "num": 1817288,
+        "word": "他是谁 看yue了",
+        "onboard_time": 1679060550,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1686138,
+        "num": 1686138,
+        "word": "日本女大胃王菅原初代患肠癌病逝",
+        "onboard_time": 1679059410,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166291,
+        "num": 1573566,
+        "word": "2022中国科学十大进展",
+        "onboard_time": 1679057729,
+        "rank": 2,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1954991,
+        "num": 1544421,
+        "word": "姜广涛涉嫌刑事犯罪",
+        "onboard_time": 1679042309,
+        "rank": 3,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1509410,
+        "num": 1509410,
+        "word": "桑延选角",
+        "onboard_time": 1679059470,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1372452,
+        "num": 1372452,
+        "word": "月薪三千的生活是怎样的",
+        "onboard_time": 1679060070,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1191433,
+        "num": 1191433,
+        "word": "哇唧唧哇 难哄",
+        "onboard_time": 1679055327,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 794984,
+        "num": 794984,
+        "word": "唐嫣钟汉良再演何以笙箫默",
+        "onboard_time": 1679060733,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 711714,
+        "num": 711714,
+        "word": "金大川雎晓雯 喜酒",
+        "onboard_time": 1679047412,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 592339,
+        "num": 592339,
+        "word": "女双",
+        "onboard_time": 1679058150,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 722721,
+        "num": 592157,
+        "word": "王勉说跟鹿晗一块睡觉此生无憾了",
+        "onboard_time": 1679059170,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 572686,
+        "num": 572686,
+        "word": "马琳",
+        "onboard_time": 1679059590,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 513159,
+        "num": 513159,
+        "word": "梁博现场",
+        "onboard_time": 1679060852,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 444896,
+        "num": 444896,
+        "word": "广东一名消防员在灭火战斗中牺牲",
+        "onboard_time": 1679058087,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415727,
+        "num": 415727,
+        "word": "关晓彤香槟色水光裙",
+        "onboard_time": 1679061451,
+        "rank": 14,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 399557,
+        "num": 399557,
+        "word": "这家凉皮摊前全是100分",
+        "onboard_time": 1679058508,
+        "rank": 15,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 392469,
+        "num": 392469,
+        "word": "央行决定降准0.25个百分点",
+        "onboard_time": 1679045072,
+        "rank": 16,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 356987,
+        "num": 356987,
+        "word": "小学生第一次听周杰伦的歌",
+        "onboard_time": 1679055026,
+        "rank": 17,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 313878,
+        "num": 313878,
+        "word": "光渊",
+        "onboard_time": 1679058569,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 297626,
+        "num": 297626,
+        "word": "魏大勋大侦探靠一句话洗脱嫌疑",
+        "onboard_time": 1679051131,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 448478,
+        "num": 295499,
+        "word": "女子腹痛就医竟怀孕足月生下男婴",
+        "onboard_time": 1679036069,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287269,
+        "num": 287269,
+        "word": "天官赐福",
+        "onboard_time": 1679047472,
+        "rank": 21,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 287132,
+        "num": 287132,
+        "word": "宋亚轩和弟弟连线",
+        "onboard_time": 1679060791,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 263385,
+        "num": 263385,
+        "word": "王阳补牢",
+        "onboard_time": 1679055389,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 257900,
+        "num": 257900,
+        "word": "姜广涛能不能把声带捐出来",
+        "onboard_time": 1679052869,
+        "rank": 24,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 254259,
+        "num": 254259,
+        "word": "28岁徐志胜和38岁陈伟霆同框",
+        "onboard_time": 1679045669,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248652,
+        "num": 248652,
+        "word": "丫丫主食单一无人与其互动",
+        "onboard_time": 1679035226,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238985,
+        "num": 238985,
+        "word": "孙颖莎王曼昱3比0田志希申裕斌",
+        "onboard_time": 1679061691,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 238475,
+        "num": 238475,
+        "word": "斗罗大陆2备案",
+        "onboard_time": 1679056170,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 217583,
+        "num": 217583,
+        "word": "最强大脑",
+        "onboard_time": 1679058328,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212046,
+        "num": 212046,
+        "word": "德勤华永回应财政部罚单",
+        "onboard_time": 1679054248,
+        "rank": 30,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 210477,
+        "num": 210477,
+        "word": "苏小玎拍车窗",
+        "onboard_time": 1679055509,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203344,
+        "num": 203344,
+        "word": "雎晓雯 谢谢祝福",
+        "onboard_time": 1679050230,
+        "rank": 32,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 199137,
+        "num": 199137,
+        "word": "大江大河3海报",
+        "onboard_time": 1679062291,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 185682,
+        "num": 185682,
+        "word": "中国专家抵达孟菲斯动物园",
+        "onboard_time": 1679041288,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176757,
+        "num": 176757,
+        "word": "不得因怀孕辞退女职工",
+        "onboard_time": 1679052330,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176710,
+        "num": 176710,
+        "word": "迪丽热巴驼色大衣造型",
+        "onboard_time": 1679038228,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 169278,
+        "num": 169278,
+        "word": "孙怡徐艺洋演同事",
+        "onboard_time": 1679057187,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 167756,
+        "num": 167756,
+        "word": "魏平安女儿被校园霸凌",
+        "onboard_time": 1679062472,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159190,
+        "num": 159190,
+        "word": "欧冠死亡半区",
+        "onboard_time": 1679054009,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153493,
+        "num": 153493,
+        "word": "EDG对战OMG",
+        "onboard_time": 1679057008,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 138849,
+        "num": 138849,
+        "word": "理科生坠入情网",
+        "onboard_time": 1679062291,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135317,
+        "num": 135317,
+        "word": "张瑞VS韩莹",
+        "onboard_time": 1679060131,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134124,
+        "num": 134124,
+        "word": "宋慧乔韩素希海报是网友P的",
+        "onboard_time": 1679046572,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130403,
+        "num": 130403,
+        "word": "谭松韵问井柏然收视有保障吗",
+        "onboard_time": 1679052448,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 126131,
+        "num": 126131,
+        "word": "国乒锁定大满贯女双冠军",
+        "onboard_time": 1679062052,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126003,
+        "num": 126003,
+        "word": "电视剧归路11集新预告",
+        "onboard_time": 1679061092,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 124609,
+        "num": 124609,
+        "word": "周深 和门有特别的缘分",
+        "onboard_time": 1679059289,
+        "rank": 47,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 123777,
+        "num": 123777,
+        "word": "小福菀终于学会爬树了",
+        "onboard_time": 1679062412,
+        "rank": 48,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 120738,
+        "num": 120738,
+        "word": "邓超零下27度吃雪糕",
+        "onboard_time": 1679053407,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动世界现代化进程的中国方案#"
+    }
+  }
+}
