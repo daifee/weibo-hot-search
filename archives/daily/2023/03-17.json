@@ -1,6 +1,6 @@
 {
   "startTime": 1678984163342,
-  "endTime": 1679030235865,
+  "endTime": 1679031212428,
   "band_list": [
     {
       "raw_hot": 2491186,
@@ -59,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1558258,
+      "num": 1558258,
+      "word": "跌了17个月后房价涨了",
+      "onboard_time": 1679027249,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1354883,
       "num": 1354883,
       "word": "狂飙 北城",
@@ -75,12 +83,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1237631,
-      "num": 1237631,
-      "word": "跌了17个月后房价涨了",
-      "onboard_time": 1679027249,
-      "rank": 36,
-      "category": "社会新闻"
+      "raw_hot": 1242396,
+      "num": 1242396,
+      "word": "难听",
+      "onboard_time": 1679029646,
+      "rank": 9,
+      "category": "音乐"
     },
     {
       "raw_hot": 1218866,
@@ -139,6 +147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 909826,
+      "num": 909826,
+      "word": "半天妖垃圾桶捞回餐食又端给顾客",
+      "onboard_time": 1679027310,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 909158,
       "num": 909158,
       "word": "新海诚中韩工作餐",
@@ -177,14 +193,6 @@
       "onboard_time": 1678970308,
       "rank": 3,
       "category": "情感"
-    },
-    {
-      "raw_hot": 773554,
-      "num": 773554,
-      "word": "半天妖垃圾桶捞回餐食又端给顾客",
-      "onboard_time": 1679027310,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 730151,
@@ -289,14 +297,6 @@
       "onboard_time": 1678977449,
       "rank": 4,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 537399,
-      "num": 537399,
-      "word": "难听",
-      "onboard_time": 1679029646,
-      "rank": 9,
-      "category": "音乐"
     },
     {
       "raw_hot": 536504,
@@ -443,6 +443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 369188,
+      "num": 369188,
+      "word": "广西省考",
+      "onboard_time": 1679029170,
+      "rank": 19,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 364492,
       "num": 364492,
       "word": "吴优哭戏",
@@ -473,14 +481,6 @@
       "onboard_time": 1679025207,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 336329,
-      "num": 336329,
-      "word": "广西省考",
-      "onboard_time": 1679029170,
-      "rank": 19,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 331664,
@@ -691,6 +691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207844,
+      "num": 207844,
+      "word": "声生不息台湾腔配音",
+      "onboard_time": 1679030666,
+      "rank": 28,
+      "category": "综艺,幽默"
+    },
+    {
       "raw_hot": 203010,
       "num": 203010,
       "word": "春家小姐是讼师定档",
@@ -771,6 +779,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 190418,
+      "num": 190418,
+      "word": "音乐节对年轻人有什么意义",
+      "onboard_time": 1679030787,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 190285,
       "num": 190285,
       "word": "女神异闻录新作实机曝光",
@@ -849,6 +865,14 @@
       "onboard_time": 1678981224,
       "rank": 24,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 158351,
+      "num": 158351,
+      "word": "秦舒培VOGUE夏威夷大片",
+      "onboard_time": 1679030909,
+      "rank": 40,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 157743,
@@ -1035,6 +1059,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 104993,
+      "num": 104993,
+      "word": "陈坤说没空相亲",
+      "onboard_time": 1679031208,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 101862,
       "num": 101862,
       "word": "华晨宇逆光演唱一定要幸福",
@@ -1099,6 +1131,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 84567,
+      "num": 515955,
+      "word": "年轻人过生日能有多整活",
+      "onboard_time": 1679025330,
+      "rank": 14,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 80562,
       "num": 80562,
       "word": "Baolan投了Meiko",
@@ -1113,14 +1153,6 @@
       "onboard_time": 1678966349,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 74811,
-      "num": 515955,
-      "word": "年轻人过生日能有多整活",
-      "onboard_time": 1679025330,
-      "rank": 14,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 74308,
@@ -1171,6 +1203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 31451,
+      "num": 1556785,
+      "word": "高手在民间高燃合集",
+      "onboard_time": 1679012788,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26875,
       "num": 26875,
       "word": "微博年度热度人物",
@@ -1204,6 +1244,9 @@
     },
     {
       "word": "#春天的启航#"
+    },
+    {
+      "word": "#面对现代化之问中国给出方案#"
     }
   ]
 }

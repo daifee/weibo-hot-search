@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1679030235865,
+  "endTime": 1679031212428,
   "band_list": [
     {
       "raw_hot": 8307302,
@@ -419,6 +419,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1558258,
+      "num": 1558258,
+      "word": "跌了17个月后房价涨了",
+      "onboard_time": 1679027249,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1507507,
       "num": 1507507,
       "word": "旅客带101管孕妇血液样本出境被查",
@@ -595,20 +603,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1242396,
+      "num": 1242396,
+      "word": "难听",
+      "onboard_time": 1679029646,
+      "rank": 9,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1238087,
       "num": 792260,
       "word": "伏明霞",
       "onboard_time": 1678957949,
       "rank": 18,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 1237631,
-      "num": 1237631,
-      "word": "跌了17个月后房价涨了",
-      "onboard_time": 1679027249,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1220778,
@@ -1083,6 +1091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 909826,
+      "num": 909826,
+      "word": "半天妖垃圾桶捞回餐食又端给顾客",
+      "onboard_time": 1679027310,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 909158,
       "num": 909158,
       "word": "新海诚中韩工作餐",
@@ -1536,14 +1552,6 @@
       "word": "台湾女子买两盒鸡蛋5分钟被偷",
       "onboard_time": 1678842388,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 773554,
-      "num": 773554,
-      "word": "半天妖垃圾桶捞回餐食又端给顾客",
-      "onboard_time": 1679027310,
-      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -2625,14 +2633,6 @@
       "onboard_time": 1678620147,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 537399,
-      "num": 537399,
-      "word": "难听",
-      "onboard_time": 1679029646,
-      "rank": 9,
-      "category": "音乐"
     },
     {
       "raw_hot": 536504,
@@ -4179,6 +4179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 369188,
+      "num": 369188,
+      "word": "广西省考",
+      "onboard_time": 1679029170,
+      "rank": 19,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 367636,
       "num": 367636,
       "word": "网友实验证明三星拍摄月亮存在造假",
@@ -4585,14 +4593,6 @@
       "onboard_time": 1678858647,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 336329,
-      "num": 336329,
-      "word": "广西省考",
-      "onboard_time": 1679029170,
-      "rank": 19,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 336147,
@@ -6475,6 +6475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 207844,
+      "num": 207844,
+      "word": "声生不息台湾腔配音",
+      "onboard_time": 1679030666,
+      "rank": 28,
+      "category": "综艺,幽默"
+    },
+    {
       "raw_hot": 207786,
       "num": 207786,
       "word": "唐朝诡事录2置景路透",
@@ -7113,6 +7121,14 @@
       "onboard_time": 1678953929,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 190418,
+      "num": 190418,
+      "word": "音乐节对年轻人有什么意义",
+      "onboard_time": 1679030787,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 190285,
@@ -7801,6 +7817,14 @@
       "onboard_time": 1678862245,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 158351,
+      "num": 158351,
+      "word": "秦舒培VOGUE夏威夷大片",
+      "onboard_time": 1679030909,
+      "rank": 40,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 158268,
@@ -8795,6 +8819,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 104993,
+      "num": 104993,
+      "word": "陈坤说没空相亲",
+      "onboard_time": 1679031208,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 104527,
       "num": 150747,
       "word": "二刷黑暗荣耀",
@@ -8987,6 +9019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 84567,
+      "num": 515955,
+      "word": "年轻人过生日能有多整活",
+      "onboard_time": 1679025330,
+      "rank": 14,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 82880,
       "num": 104974,
       "word": "TTG 上野",
@@ -9089,14 +9129,6 @@
       "onboard_time": 1678895785,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 74811,
-      "num": 515955,
-      "word": "年轻人过生日能有多整活",
-      "onboard_time": 1679025330,
-      "rank": 14,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 74342,
@@ -9315,6 +9347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 31451,
+      "num": 1556785,
+      "word": "高手在民间高燃合集",
+      "onboard_time": 1679012788,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30012,
       "num": 30012,
       "word": "全圆佑跳Attention",
@@ -9507,6 +9547,9 @@
     },
     {
       "word": "#党和国家机构改革方案全文#"
+    },
+    {
+      "word": "#面对现代化之问中国给出方案#"
     }
   ]
 }
