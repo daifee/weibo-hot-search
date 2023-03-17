@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/03/18 00:25:30 ~ 2023/03/18 05:16:18
+本榜单时间：2023/03/18 00:25:30 ~ 2023/03/18 05:33:58
 </p>
 </blockquote>
 <p>
@@ -147,6 +147,12 @@ Jennie新剧将在戛纳首映（热度：256108）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E9%A6%96%E6%AC%A1%E5%8F%91%E7%8E%B0%E5%A5%A5%E5%AF%86%E5%85%8B%E6%88%8E%E6%96%B0%E4%BA%9A%E5%9E%8B%23" target="weibo">
+我国首次发现奥密克戎新亚型（热度：213022）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A2%81%E5%8D%9A%E7%8E%B0%E5%9C%BA%23" target="weibo">
 梁博现场（热度：209807）
 </a>
@@ -161,12 +167,6 @@ Jennie新剧将在戛纳首映（热度：256108）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AF%9B%E4%B8%8D%E6%98%93%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
 毛不易演唱会（热度：200986）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E9%A6%96%E6%AC%A1%E5%8F%91%E7%8E%B0%E5%A5%A5%E5%AF%86%E5%85%8B%E6%88%8E%E6%96%B0%E4%BA%9A%E5%9E%8B%23" target="weibo">
-我国首次发现奥密克戎新亚型（热度：191111）
 </a>
 </li>
 
@@ -388,7 +388,7 @@ Fly三连MVP（热度：81364）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E6%95%99%E4%BD%A0%E4%BB%AC%E8%BF%99%E4%B9%88%E8%B0%88%E6%81%8B%E7%88%B1%E7%9A%84%23" target="weibo">
-谁教你们这么谈恋爱的（热度：30971）
+谁教你们这么谈恋爱的（热度：32747）
 </a>
 </li>
 
