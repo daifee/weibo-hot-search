@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679009633581,
+  "endTime": 1679016877560,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -475,6 +475,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 2182595,
+      "num": 2182595,
+      "word": "四川雅安地震",
+      "onboard_time": 1679015609,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2174830,
       "num": 2174830,
       "word": "长期吸食奶茶杯或致闭经不孕",
@@ -697,6 +705,14 @@
       "onboard_time": 1678107386,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1939065,
+      "num": 413008,
+      "word": "韩素希说宋慧乔现在是她的了",
+      "onboard_time": 1679009902,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1935867,
@@ -1905,6 +1921,14 @@
       "onboard_time": 1678515207,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1331871,
+      "num": 1331871,
+      "word": "国内2名专家已前往美国照料丫丫",
+      "onboard_time": 1679012426,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1326865,
@@ -6459,6 +6483,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 659400,
+      "num": 266845,
+      "word": "老婆和表侄私奔老公举报吸毒全被抓",
+      "onboard_time": 1678981706,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 658713,
       "num": 658713,
       "word": "你好星期六好六街官宣升级",
@@ -6755,6 +6787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 643992,
+      "num": 643992,
+      "word": "官方回应丫丫4月7日是否能回国",
+      "onboard_time": 1679015308,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 643250,
       "num": 643250,
       "word": "章昊Tomboy组第一",
@@ -6899,6 +6939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 634728,
+      "num": 634728,
+      "word": "学生乘车贴绑架纸条致大巴被截停",
+      "onboard_time": 1679013692,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 634446,
       "num": 634446,
       "word": "多喝水真的能预防结石",
@@ -6929,6 +6977,14 @@
       "onboard_time": 1678434807,
       "rank": 5,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 632507,
+      "num": 632507,
+      "word": "警方通报女子地铁上辱骂殴打男子",
+      "onboard_time": 1679012306,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 631709,
@@ -7249,14 +7305,6 @@
       "onboard_time": 1678349545,
       "rank": 1,
       "category": "影视"
-    },
-    {
-      "raw_hot": 611215,
-      "num": 163825,
-      "word": "老婆和表侄私奔老公举报吸毒全被抓",
-      "onboard_time": 1678981706,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 610755,
@@ -8711,6 +8759,14 @@
       "num": 534216,
       "word": "鸡你太美商标无一注册成功",
       "onboard_time": 1678182449,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 534051,
+      "num": 534051,
+      "word": "中国低龄老人达1.5亿",
+      "onboard_time": 1679015308,
       "rank": 6,
       "category": "社会新闻"
     },
@@ -10347,6 +10403,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 473403,
+      "num": 473403,
+      "word": "郭帆 赛凡",
+      "onboard_time": 1679013208,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 473014,
       "num": 473014,
       "word": "第一次见消防员社死",
@@ -11643,6 +11707,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 420667,
+      "num": 404426,
+      "word": "宋智孝脸部比心",
+      "onboard_time": 1679010924,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 420613,
       "num": 420613,
       "word": "蒲熠星说蒲鱼是一切故事的开端",
@@ -11769,6 +11841,14 @@
       "onboard_time": 1678811184,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 415091,
+      "num": 415091,
+      "word": "微软将把聊天机器人技术植入Office",
+      "onboard_time": 1679012246,
+      "rank": 9,
+      "category": "科技"
     },
     {
       "raw_hot": 414610,
@@ -12041,6 +12121,14 @@
       "onboard_time": 1678243408,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 404300,
+      "num": 404300,
+      "word": "关晓彤官宣加盟微博之夜",
+      "onboard_time": 1679012066,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 404158,
@@ -14747,6 +14835,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 331231,
+      "num": 257162,
+      "word": "一个动作疏肝解郁",
+      "onboard_time": 1679013328,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 331069,
       "num": 266865,
       "word": "金硕珍郑号锡朴智旻同框合照",
@@ -16363,6 +16459,14 @@
       "category": "音乐,影视"
     },
     {
+      "raw_hot": 291028,
+      "num": 291028,
+      "word": "父母的衰老会让你感到害怕吗",
+      "onboard_time": 1679009543,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 290946,
       "num": 290946,
       "word": "潮汕迎老爷",
@@ -16505,6 +16609,14 @@
       "onboard_time": 1678283309,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 287697,
+      "num": 287697,
+      "word": "上海地铁",
+      "onboard_time": 1679016149,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 287322,
@@ -16841,6 +16953,14 @@
       "onboard_time": 1677938129,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 279617,
+      "num": 279617,
+      "word": "张歆艺问北京有没有春天",
+      "onboard_time": 1679011105,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 279086,
@@ -18363,6 +18483,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 248123,
+      "num": 248123,
+      "word": "男子彩票中800万让表弟代领被强占",
+      "onboard_time": 1679016449,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 247509,
       "num": 247509,
       "word": "急诊科医生与外卖小哥的共同点找到了",
@@ -19177,6 +19305,14 @@
       "onboard_time": 1678974208,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 232727,
+      "num": 232727,
+      "word": "太喜欢美而自知的感觉了",
+      "onboard_time": 1678985241,
+      "rank": 9,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 232626,
@@ -20059,6 +20195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 220232,
+      "num": 220232,
+      "word": "杨坤一直对那英说马嘉祺",
+      "onboard_time": 1679012727,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 220193,
       "num": 220193,
       "word": "姚晨还原赌神名场面",
@@ -20337,6 +20481,14 @@
       "onboard_time": 1678941212,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 216189,
+      "num": 216189,
+      "word": "佛山草莓音乐节官宣",
+      "onboard_time": 1679011227,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 216153,
@@ -21179,6 +21331,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 205743,
+      "num": 205743,
+      "word": "微博之夜第二批官宣阵容",
+      "onboard_time": 1679016266,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205633,
       "num": 205633,
       "word": "于文文新歌是我",
@@ -21473,6 +21633,14 @@
       "onboard_time": 1677903565,
       "rank": 35,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 203682,
+      "num": 203682,
+      "word": "爷爷生前手抄红楼梦留给孙女",
+      "onboard_time": 1679015849,
+      "rank": 30,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 203620,
@@ -22417,6 +22585,14 @@
       "onboard_time": 1677842966,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 197205,
+      "num": 197205,
+      "word": "优质简历都注重的9个细节",
+      "onboard_time": 1679015190,
+      "rank": 32,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 197176,
@@ -25075,6 +25251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 168806,
+      "num": 168806,
+      "word": "上海迪士尼乐园年卡停售",
+      "onboard_time": 1679016506,
+      "rank": 33,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 168667,
       "num": 168667,
       "word": "刘诗诗米兰时装周采访视频",
@@ -25723,6 +25907,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 159189,
+      "num": 159189,
+      "word": "小猫咪有点嫉妒心怎么了",
+      "onboard_time": 1678981224,
+      "rank": 24,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 159100,
       "num": 159100,
       "word": "湊湊火锅缺斤少两被查",
@@ -25745,14 +25937,6 @@
       "onboard_time": 1678624527,
       "rank": 1,
       "category": "科技,国内要闻"
-    },
-    {
-      "raw_hot": 158794,
-      "num": 158794,
-      "word": "小猫咪有点嫉妒心怎么了",
-      "onboard_time": 1678981224,
-      "rank": 24,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 158744,
@@ -26459,14 +26643,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 150318,
-      "num": 150318,
-      "word": "太喜欢美而自知的感觉了",
-      "onboard_time": 1678985241,
-      "rank": 9,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 150316,
       "num": 138931,
       "word": "瑞镇家",
@@ -26505,6 +26681,14 @@
       "onboard_time": 1677983126,
       "rank": 32,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 149785,
+      "num": 149785,
+      "word": "女子被卷闸门夹住邻居用千斤顶救出",
+      "onboard_time": 1679014289,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 149652,
@@ -26817,6 +27001,14 @@
       "onboard_time": 1677901287,
       "rank": 38,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 145867,
+      "num": 145867,
+      "word": "YG新女团翻唱Gone",
+      "onboard_time": 1679012847,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 145759,
@@ -28907,12 +29099,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 119678,
+      "num": 119678,
+      "word": "维密秀回归预告",
+      "onboard_time": 1679010324,
+      "rank": 43,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 119658,
       "num": 119658,
       "word": "玄商求母后催婚",
       "onboard_time": 1677926367,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 119595,
+      "num": 119595,
+      "word": "林俊杰香港演唱会vlog",
+      "onboard_time": 1679013509,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 119510,
@@ -28985,6 +29193,14 @@
       "onboard_time": 1678062147,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 117950,
+      "num": 117950,
+      "word": "马丁内利失点",
+      "onboard_time": 1679011406,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 117898,
@@ -29851,6 +30067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 107836,
+      "num": 107836,
+      "word": "求职遇到歧视怎么办",
+      "onboard_time": 1679015190,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 107658,
       "num": 107658,
       "word": "首场代表通道",
@@ -30371,6 +30595,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 99883,
+      "num": 99883,
+      "word": "苹果可折叠手机新专利",
+      "onboard_time": 1679016806,
+      "rank": 48,
+      "category": "科技"
+    },
+    {
       "raw_hot": 99536,
       "num": 99536,
       "word": "虞书欣牛仔套装上班路透",
@@ -30425,6 +30657,14 @@
       "onboard_time": 1678006406,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 99068,
+      "num": 99068,
+      "word": "学生自带秤复称食堂麻辣香锅被拒",
+      "onboard_time": 1679016868,
+      "rank": 49,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 98785,
@@ -31217,14 +31457,6 @@
       "onboard_time": 1678429528,
       "rank": 49,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 82615,
-      "num": 82615,
-      "word": "父母的衰老会让你感到害怕吗",
-      "onboard_time": 1679009543,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 82611,

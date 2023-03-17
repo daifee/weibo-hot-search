@@ -1,13 +1,37 @@
 {
   "startTime": 1678984163342,
-  "endTime": 1679009633581,
+  "endTime": 1679016877560,
   "band_list": [
+    {
+      "raw_hot": 2182595,
+      "num": 2182595,
+      "word": "四川雅安地震",
+      "onboard_time": 1679015609,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1939065,
+      "num": 413008,
+      "word": "韩素希说宋慧乔现在是她的了",
+      "onboard_time": 1679009902,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1573198,
       "num": 1573198,
       "word": "事业单位HR嘲讽求职者简历",
       "onboard_time": 1678979609,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1331871,
+      "num": 1331871,
+      "word": "国内2名专家已前往美国照料丫丫",
+      "onboard_time": 1679012426,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -27,8 +51,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 818865,
+      "num": 610575,
+      "word": "当我收到二月份工资",
+      "onboard_time": 1678970308,
+      "rank": 3,
+      "category": "情感"
+    },
+    {
       "raw_hot": 699230,
-      "num": 163826,
+      "num": 262581,
       "word": "丫丫吃甘蔗小心翼翼不舍得浪费",
       "onboard_time": 1678974689,
       "rank": 20,
@@ -43,20 +75,36 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 611215,
-      "num": 163825,
+      "raw_hot": 659400,
+      "num": 266845,
       "word": "老婆和表侄私奔老公举报吸毒全被抓",
       "onboard_time": 1678981706,
       "rank": 21,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 610575,
-      "num": 610575,
-      "word": "当我收到二月份工资",
-      "onboard_time": 1678970308,
+      "raw_hot": 643992,
+      "num": 643992,
+      "word": "官方回应丫丫4月7日是否能回国",
+      "onboard_time": 1679015308,
       "rank": 3,
-      "category": "情感"
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 634728,
+      "num": 634728,
+      "word": "学生乘车贴绑架纸条致大巴被截停",
+      "onboard_time": 1679013692,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 632507,
+      "num": 632507,
+      "word": "警方通报女子地铁上辱骂殴打男子",
+      "onboard_time": 1679012306,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 549979,
@@ -67,12 +115,60 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 534051,
+      "num": 534051,
+      "word": "中国低龄老人达1.5亿",
+      "onboard_time": 1679015308,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 478041,
       "num": 478041,
       "word": "霸王别姬韩国再次重映",
       "onboard_time": 1678981529,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 473403,
+      "num": 473403,
+      "word": "郭帆 赛凡",
+      "onboard_time": 1679013208,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 470424,
+      "num": 470424,
+      "word": "再玩下去阿姨就到家了",
+      "onboard_time": 1678977692,
+      "rank": 7,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 420667,
+      "num": 404426,
+      "word": "宋智孝脸部比心",
+      "onboard_time": 1679010924,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 415091,
+      "num": 415091,
+      "word": "微软将把聊天机器人技术植入Office",
+      "onboard_time": 1679012246,
+      "rank": 9,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 404300,
+      "num": 404300,
+      "word": "关晓彤官宣加盟微博之夜",
+      "onboard_time": 1679012066,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 361494,
@@ -91,12 +187,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 330767,
-      "num": 330767,
-      "word": "再玩下去阿姨就到家了",
-      "onboard_time": 1678977692,
-      "rank": 7,
-      "category": "幽默"
+      "raw_hot": 331231,
+      "num": 257162,
+      "word": "一个动作疏肝解郁",
+      "onboard_time": 1679013328,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 318944,
@@ -115,6 +211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 291028,
+      "num": 291028,
+      "word": "父母的衰老会让你感到害怕吗",
+      "onboard_time": 1679009543,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 290946,
       "num": 290946,
       "word": "潮汕迎老爷",
@@ -129,6 +233,22 @@
       "onboard_time": 1679002332,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 287697,
+      "num": 287697,
+      "word": "上海地铁",
+      "onboard_time": 1679016149,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 279617,
+      "num": 279617,
+      "word": "张歆艺问北京有没有春天",
+      "onboard_time": 1679011105,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 251017,
@@ -147,11 +267,43 @@
       "category": "军事"
     },
     {
+      "raw_hot": 248123,
+      "num": 248123,
+      "word": "男子彩票中800万让表弟代领被强占",
+      "onboard_time": 1679016449,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 235640,
+      "num": 235640,
+      "word": "蛋仔派对",
+      "onboard_time": 1679009784,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 232727,
+      "num": 232727,
+      "word": "太喜欢美而自知的感觉了",
+      "onboard_time": 1678985241,
+      "rank": 9,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 228601,
       "num": 228601,
       "word": "夏日入侵企画唱周杰伦暗号",
       "onboard_time": 1678978891,
       "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 220232,
+      "num": 220232,
+      "word": "杨坤一直对那英说马嘉祺",
+      "onboard_time": 1679012727,
+      "rank": 27,
       "category": "综艺"
     },
     {
@@ -163,12 +315,36 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 216189,
+      "num": 216189,
+      "word": "佛山草莓音乐节官宣",
+      "onboard_time": 1679011227,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 211037,
       "num": 211037,
       "word": "张杰想见你大合唱",
       "onboard_time": 1678974089,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 205743,
+      "num": 205743,
+      "word": "微博之夜第二批官宣阵容",
+      "onboard_time": 1679016266,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 203682,
+      "num": 203682,
+      "word": "爷爷生前手抄红楼梦留给孙女",
+      "onboard_time": 1679015849,
+      "rank": 30,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 200059,
@@ -185,6 +361,14 @@
       "onboard_time": 1678988053,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197205,
+      "num": 197205,
+      "word": "优质简历都注重的9个细节",
+      "onboard_time": 1679015190,
+      "rank": 32,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 192946,
@@ -209,6 +393,14 @@
       "onboard_time": 1679008700,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 168806,
+      "num": 168806,
+      "word": "上海迪士尼乐园年卡停售",
+      "onboard_time": 1679016506,
+      "rank": 33,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 166124,
@@ -243,8 +435,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 158794,
-      "num": 158794,
+      "raw_hot": 159189,
+      "num": 159189,
       "word": "小猫咪有点嫉妒心怎么了",
       "onboard_time": 1678981224,
       "rank": 24,
@@ -267,12 +459,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 150318,
-      "num": 150318,
-      "word": "太喜欢美而自知的感觉了",
-      "onboard_time": 1678985241,
-      "rank": 9,
-      "category": "作品衍生"
+      "raw_hot": 149785,
+      "num": 149785,
+      "word": "女子被卷闸门夹住邻居用千斤顶救出",
+      "onboard_time": 1679014289,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 147236,
@@ -281,6 +473,14 @@
       "onboard_time": 1678966170,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 145867,
+      "num": 145867,
+      "word": "YG新女团翻唱Gone",
+      "onboard_time": 1679012847,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 136694,
@@ -331,12 +531,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119678,
+      "num": 119678,
+      "word": "维密秀回归预告",
+      "onboard_time": 1679010324,
+      "rank": 43,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 119595,
+      "num": 119595,
+      "word": "林俊杰香港演唱会vlog",
+      "onboard_time": 1679013509,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 118718,
       "num": 118718,
       "word": "不敢向妈妈推荐黑暗荣耀的原因",
       "onboard_time": 1678965868,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 117950,
+      "num": 117950,
+      "word": "马丁内利失点",
+      "onboard_time": 1679011406,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 116627,
@@ -355,8 +579,16 @@
       "category": "影视"
     },
     {
-      "raw_hot": 103508,
-      "num": 103508,
+      "raw_hot": 107836,
+      "num": 107836,
+      "word": "求职遇到歧视怎么办",
+      "onboard_time": 1679015190,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 107281,
+      "num": 107281,
       "word": "空牛奶盒有多值钱",
       "onboard_time": 1678975771,
       "rank": 37,
@@ -379,12 +611,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 99883,
+      "num": 99883,
+      "word": "苹果可折叠手机新专利",
+      "onboard_time": 1679016806,
+      "rank": 48,
+      "category": "科技"
+    },
+    {
       "raw_hot": 99262,
       "num": 95895,
       "word": "童瑶仪态",
       "onboard_time": 1678962929,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 99068,
+      "num": 99068,
+      "word": "学生自带秤复称食堂麻辣香锅被拒",
+      "onboard_time": 1679016868,
+      "rank": 49,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 96993,
@@ -424,14 +672,6 @@
       "word": "徐正溪还是人间适合你",
       "onboard_time": 1678974930,
       "rank": 45,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 82615,
-      "num": 82615,
-      "word": "父母的衰老会让你感到害怕吗",
-      "onboard_time": 1679009543,
-      "rank": 30,
       "category": "影视"
     },
     {
@@ -483,20 +723,20 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 54081,
+      "num": 702384,
+      "word": "国新办发布新时代的中国网络法治建设白皮书",
+      "onboard_time": 1678978290,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 46382,
       "num": 46382,
       "word": "妍珍徒步换双鞋吧",
       "onboard_time": 1678970551,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 39063,
-      "num": 702384,
-      "word": "国新办发布新时代的中国网络法治建设白皮书",
-      "onboard_time": 1678978290,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 26875,
