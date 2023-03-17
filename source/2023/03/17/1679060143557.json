@@ -1,0 +1,410 @@
+{
+  "runTime": 1679060143557,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1885554,
+        "num": 1885554,
+        "word": "哇唧唧哇 难哄",
+        "onboard_time": 1679055327,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1340194,
+        "num": 1340194,
+        "word": "女双",
+        "onboard_time": 1679058150,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186075,
+        "num": 1112310,
+        "word": "2022中国科学十大进展",
+        "onboard_time": 1679057729,
+        "rank": 2,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 2171358,
+        "num": 1074541,
+        "word": "姜广涛涉嫌刑事犯罪",
+        "onboard_time": 1679042309,
+        "rank": 3,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 993290,
+        "num": 993290,
+        "word": "桑延选角",
+        "onboard_time": 1679059470,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 985764,
+        "num": 985764,
+        "word": "金大川雎晓雯 喜酒",
+        "onboard_time": 1679047412,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 860885,
+        "num": 860885,
+        "word": "王阳补牢",
+        "onboard_time": 1679055389,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 815914,
+        "num": 815914,
+        "word": "王勉说跟鹿晗一块睡觉此生无憾了",
+        "onboard_time": 1679059170,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 553403,
+        "num": 553403,
+        "word": "小学生第一次听周杰伦的歌",
+        "onboard_time": 1679055026,
+        "rank": 8,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 514128,
+        "num": 514128,
+        "word": "央行决定降准0.25个百分点",
+        "onboard_time": 1679045072,
+        "rank": 9,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 628322,
+        "num": 504550,
+        "word": "张杰唐嫣合唱",
+        "onboard_time": 1679057848,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 480463,
+        "num": 480463,
+        "word": "广东一名消防员在灭火战斗中牺牲",
+        "onboard_time": 1679058087,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 435347,
+        "num": 435347,
+        "word": "姜广涛能不能把声带捐出来",
+        "onboard_time": 1679052869,
+        "rank": 12,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 395108,
+        "num": 395108,
+        "word": "光渊",
+        "onboard_time": 1679058569,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 390417,
+        "num": 390417,
+        "word": "魏大勋大侦探靠一句话洗脱嫌疑",
+        "onboard_time": 1679051131,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 365075,
+        "num": 365075,
+        "word": "斗罗大陆2备案",
+        "onboard_time": 1679056170,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 348407,
+        "num": 348407,
+        "word": "不得因怀孕辞退女职工",
+        "onboard_time": 1679052330,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346797,
+        "num": 346797,
+        "word": "天官赐福",
+        "onboard_time": 1679047472,
+        "rank": 17,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 346319,
+        "num": 346319,
+        "word": "苏小玎拍车窗",
+        "onboard_time": 1679055509,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304317,
+        "num": 304317,
+        "word": "这家凉皮摊前全是100分",
+        "onboard_time": 1679058508,
+        "rank": 19,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 585319,
+        "num": 300582,
+        "word": "女子腹痛就医竟怀孕足月生下男婴",
+        "onboard_time": 1679036069,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339954,
+        "num": 298918,
+        "word": "孙怡徐艺洋演同事",
+        "onboard_time": 1679057187,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 304853,
+        "num": 293999,
+        "word": "28岁徐志胜和38岁陈伟霆同框",
+        "onboard_time": 1679045669,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 281528,
+        "num": 281528,
+        "word": "德勤华永回应财政部罚单",
+        "onboard_time": 1679054248,
+        "rank": 23,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 274411,
+        "num": 274411,
+        "word": "丫丫主食单一无人与其互动",
+        "onboard_time": 1679035226,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286731,
+        "num": 274253,
+        "word": "邓超零下27度吃雪糕",
+        "onboard_time": 1679053407,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261822,
+        "num": 261822,
+        "word": "沙溢给宋亚轩发红包打欠条",
+        "onboard_time": 1679058328,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256439,
+        "num": 256439,
+        "word": "雎晓雯 谢谢祝福",
+        "onboard_time": 1679050230,
+        "rank": 27,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 251547,
+        "num": 251547,
+        "word": "欧冠死亡半区",
+        "onboard_time": 1679054009,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230645,
+        "num": 230645,
+        "word": "最强大脑",
+        "onboard_time": 1679058328,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 356359,
+        "num": 227388,
+        "word": "日本女大胃王菅原初代患肠癌病逝",
+        "onboard_time": 1679059410,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209633,
+        "num": 209633,
+        "word": "你还相信情感主播吗",
+        "onboard_time": 1679057427,
+        "rank": 31,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 203512,
+        "num": 203512,
+        "word": "马琳",
+        "onboard_time": 1679059590,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203137,
+        "num": 203137,
+        "word": "迪丽热巴驼色大衣造型",
+        "onboard_time": 1679038228,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 199752,
+        "num": 199752,
+        "word": "中国专家抵达孟菲斯动物园",
+        "onboard_time": 1679041288,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192015,
+        "num": 192015,
+        "word": "北京体育中考调整为合格考",
+        "onboard_time": 1679056048,
+        "rank": 35,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 190872,
+        "num": 190872,
+        "word": "周深 和门有特别的缘分",
+        "onboard_time": 1679059289,
+        "rank": 36,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 184065,
+        "num": 184065,
+        "word": "孙颖莎4比3朱芊曦",
+        "onboard_time": 1679056468,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180442,
+        "num": 180442,
+        "word": "宋慧乔韩素希海报是网友P的",
+        "onboard_time": 1679046572,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164462,
+        "num": 164462,
+        "word": "狼队对战DRG",
+        "onboard_time": 1679058750,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 160096,
+        "num": 160096,
+        "word": "谭松韵问井柏然收视有保障吗",
+        "onboard_time": 1679052448,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159220,
+        "num": 159220,
+        "word": "财政部处罚德勤和华融",
+        "onboard_time": 1679042787,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150001,
+        "num": 150001,
+        "word": "老干妈或将推出冰淇淋",
+        "onboard_time": 1679052149,
+        "rank": 42,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 131010,
+        "num": 131010,
+        "word": "初三学生被罚站倒地去世",
+        "onboard_time": 1679021907,
+        "rank": 43,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 128652,
+        "num": 128652,
+        "word": "宁艺卓方律师函",
+        "onboard_time": 1679037388,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116081,
+        "num": 116081,
+        "word": "姜广涛的配音作品",
+        "onboard_time": 1679045852,
+        "rank": 45,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 113462,
+        "num": 113462,
+        "word": "张瑞VS韩莹",
+        "onboard_time": 1679060131,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112368,
+        "num": 112368,
+        "word": "陈都灵云之羽蓝衣",
+        "onboard_time": 1679054668,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 110029,
+        "num": 110029,
+        "word": "月薪三千的生活是怎样的",
+        "onboard_time": 1679060070,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109578,
+        "num": 109578,
+        "word": "EDG对战OMG",
+        "onboard_time": 1679057008,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#面对现代化之问中国给出方案#"
+    }
+  }
+}

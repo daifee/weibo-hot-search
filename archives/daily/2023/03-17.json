@@ -1,6 +1,6 @@
 {
   "startTime": 1678984163342,
-  "endTime": 1679059481918,
+  "endTime": 1679060143557,
   "band_list": [
     {
       "raw_hot": 9458443,
@@ -131,6 +131,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1340194,
+      "num": 1340194,
+      "word": "女双",
+      "onboard_time": 1679058150,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1331871,
       "num": 1331871,
       "word": "国内2名专家已前往美国照料丫丫",
@@ -235,6 +243,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 993290,
+      "num": 993290,
+      "word": "桑延选角",
+      "onboard_time": 1679059470,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 977207,
       "num": 977207,
       "word": "尹锡悦向日本国旗鞠躬画面引争议",
@@ -315,14 +331,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 859063,
-      "num": 859063,
-      "word": "女双",
-      "onboard_time": 1679058150,
-      "rank": 5,
-      "category": "体育"
-    },
-    {
       "raw_hot": 858128,
       "num": 858128,
       "word": "快乐大本营",
@@ -361,6 +369,14 @@
       "onboard_time": 1678970308,
       "rank": 3,
       "category": "情感"
+    },
+    {
+      "raw_hot": 815914,
+      "num": 815914,
+      "word": "王勉说跟鹿晗一块睡觉此生无憾了",
+      "onboard_time": 1679059170,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 804260,
@@ -667,14 +683,6 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 496397,
-      "num": 496397,
-      "word": "王勉说跟鹿晗一块睡觉此生无憾了",
-      "onboard_time": 1679059170,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 489027,
       "num": 489027,
       "word": "顽童拉走椅子致童星摔至尿失禁",
@@ -697,6 +705,14 @@
       "onboard_time": 1679045310,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 480463,
+      "num": 480463,
+      "word": "广东一名消防员在灭火战斗中牺牲",
+      "onboard_time": 1679058087,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 480104,
@@ -883,12 +899,12 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 395007,
-      "num": 395007,
-      "word": "广东一名消防员在灭火战斗中牺牲",
-      "onboard_time": 1679058087,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 395108,
+      "num": 395108,
+      "word": "光渊",
+      "onboard_time": 1679058569,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 380801,
@@ -953,6 +969,14 @@
       "onboard_time": 1679024549,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 356359,
+      "num": 227388,
+      "word": "日本女大胃王菅原初代患肠癌病逝",
+      "onboard_time": 1679059410,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 348323,
@@ -1043,14 +1067,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 314188,
-      "num": 314188,
-      "word": "光渊",
-      "onboard_time": 1679058569,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 312543,
       "num": 312543,
       "word": "沙溢给宋亚轩发红包打欠条",
@@ -1065,6 +1081,14 @@
       "onboard_time": 1679035106,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 304317,
+      "num": 304317,
+      "word": "这家凉皮摊前全是100分",
+      "onboard_time": 1679058508,
+      "rank": 33,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 303529,
@@ -1203,14 +1227,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 254119,
-      "num": 254119,
-      "word": "桑延选角",
-      "onboard_time": 1679059470,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 253009,
       "num": 253009,
       "word": "你还相信情感主播吗",
@@ -1280,6 +1296,14 @@
       "word": "刘雨昕下车的姿势",
       "onboard_time": 1679040869,
       "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 230645,
+      "num": 230645,
+      "word": "最强大脑",
+      "onboard_time": 1679058328,
+      "rank": 34,
       "category": "综艺"
     },
     {
@@ -1387,14 +1411,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 212805,
-      "num": 212805,
-      "word": "这家凉皮摊前全是100分",
-      "onboard_time": 1679058508,
-      "rank": 33,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 212697,
       "num": 191406,
       "word": "阿雅说王伟忠是行走的台湾综艺史",
@@ -1427,14 +1443,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 207908,
-      "num": 207908,
-      "word": "最强大脑",
-      "onboard_time": 1679058328,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 207844,
       "num": 207844,
       "word": "声生不息台湾腔配音",
@@ -1457,6 +1465,14 @@
       "onboard_time": 1679049752,
       "rank": 38,
       "category": "综艺,音乐"
+    },
+    {
+      "raw_hot": 203512,
+      "num": 203512,
+      "word": "马琳",
+      "onboard_time": 1679059590,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 203010,
@@ -1611,6 +1627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190872,
+      "num": 190872,
+      "word": "周深 和门有特别的缘分",
+      "onboard_time": 1679059289,
+      "rank": 41,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 190418,
       "num": 190418,
       "word": "音乐节对年轻人有什么意义",
@@ -1665,6 +1689,14 @@
       "onboard_time": 1679008700,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 186075,
+      "num": 1112310,
+      "word": "2022中国科学十大进展",
+      "onboard_time": 1679057729,
+      "rank": 2,
+      "category": "科技"
     },
     {
       "raw_hot": 180865,
@@ -1859,14 +1891,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 148420,
-      "num": 148420,
-      "word": "周深 和门有特别的缘分",
-      "onboard_time": 1679059289,
-      "rank": 41,
-      "category": "影视,动漫"
-    },
-    {
       "raw_hot": 147933,
       "num": 147933,
       "word": "归晓反套路实录",
@@ -1889,22 +1913,6 @@
       "onboard_time": 1679053528,
       "rank": 40,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 142581,
-      "num": 903277,
-      "word": "2022中国科学十大进展",
-      "onboard_time": 1679057729,
-      "rank": 2,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 141655,
-      "num": 141655,
-      "word": "日本女大胃王菅原初代患肠癌病逝",
-      "onboard_time": 1679059410,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 141044,
@@ -2075,6 +2083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 113462,
+      "num": 113462,
+      "word": "张瑞VS韩莹",
+      "onboard_time": 1679060131,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110573,
       "num": 133471,
       "word": "美术老师入伍前跟全班视频告别",
@@ -2089,6 +2105,14 @@
       "onboard_time": 1679041887,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110029,
+      "num": 110029,
+      "word": "月薪三千的生活是怎样的",
+      "onboard_time": 1679060070,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 108530,
