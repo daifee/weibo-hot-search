@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1679070330564,
+  "endTime": 1679071366642,
   "band_list": [
     {
       "raw_hot": 9458443,
@@ -2603,6 +2603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 608054,
+      "num": 608054,
+      "word": "隔空猥亵受害者多为未成年人",
+      "onboard_time": 1679067569,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 608014,
       "num": 220969,
       "word": "肖战登日本moviestar封面",
@@ -2801,14 +2809,6 @@
       "onboard_time": 1678881267,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 571842,
-      "num": 571842,
-      "word": "隔空猥亵受害者多为未成年人",
-      "onboard_time": 1679067569,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 570040,
@@ -4667,6 +4667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 382042,
+      "num": 382042,
+      "word": "什么行为容易伤肝",
+      "onboard_time": 1679068169,
+      "rank": 13,
+      "category": "其它"
+    },
+    {
       "raw_hot": 381606,
       "num": 401791,
       "word": "西直门三太子萌兰",
@@ -5753,14 +5761,6 @@
       "onboard_time": 1678752806,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 300826,
-      "num": 300826,
-      "word": "什么行为容易伤肝",
-      "onboard_time": 1679068169,
-      "rank": 13,
-      "category": "其它"
     },
     {
       "raw_hot": 300783,
@@ -9547,8 +9547,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 137773,
-      "num": 137773,
+      "raw_hot": 138190,
+      "num": 138190,
       "word": "水哥家里有个小森林",
       "onboard_time": 1679068588,
       "rank": 32,
@@ -10051,6 +10051,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 114163,
+      "num": 114163,
+      "word": "归晓催路晨结婚",
+      "onboard_time": 1679069125,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 112670,
       "num": 112670,
       "word": "RedVelvet演唱会预告视频",
@@ -10161,14 +10169,6 @@
       "onboard_time": 1678695747,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 106619,
-      "num": 106619,
-      "word": "归晓催路晨结婚",
-      "onboard_time": 1679069125,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 105983,
@@ -10425,6 +10425,14 @@
       "onboard_time": 1678739710,
       "rank": 17,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 80670,
+      "num": 80670,
+      "word": "井柏然说第十一集真美好",
+      "onboard_time": 1679070383,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 80534,

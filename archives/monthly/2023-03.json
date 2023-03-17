@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679070330564,
+  "endTime": 1679071366642,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -7899,6 +7899,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 608054,
+      "num": 608054,
+      "word": "隔空猥亵受害者多为未成年人",
+      "onboard_time": 1679067569,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 608014,
       "num": 220969,
       "word": "肖战登日本moviestar封面",
@@ -8537,14 +8545,6 @@
       "onboard_time": 1678881267,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 571842,
-      "num": 571842,
-      "word": "隔空猥亵受害者多为未成年人",
-      "onboard_time": 1679067569,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 571688,
@@ -13691,6 +13691,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 382042,
+      "num": 382042,
+      "word": "什么行为容易伤肝",
+      "onboard_time": 1679068169,
+      "rank": 13,
+      "category": "其它"
+    },
+    {
       "raw_hot": 381757,
       "num": 381757,
       "word": "哪些政策能真正鼓励生育",
@@ -17145,14 +17153,6 @@
       "onboard_time": 1678588764,
       "rank": 9,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 300826,
-      "num": 300826,
-      "word": "什么行为容易伤肝",
-      "onboard_time": 1679068169,
-      "rank": 13,
-      "category": "其它"
     },
     {
       "raw_hot": 300783,
@@ -29363,6 +29363,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 138190,
+      "num": 138190,
+      "word": "水哥家里有个小森林",
+      "onboard_time": 1679068588,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 138179,
       "num": 138179,
       "word": "哈兰德26轮英超打进28球",
@@ -29417,14 +29425,6 @@
       "onboard_time": 1678294698,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 137773,
-      "num": 137773,
-      "word": "水哥家里有个小森林",
-      "onboard_time": 1679068588,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 137759,
@@ -31307,6 +31307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 114163,
+      "num": 114163,
+      "word": "归晓催路晨结婚",
+      "onboard_time": 1679069125,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 114148,
       "num": 114148,
       "word": "李宏毅直播",
@@ -31945,14 +31953,6 @@
       "onboard_time": 1677923908,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 106619,
-      "num": 106619,
-      "word": "归晓催路晨结婚",
-      "onboard_time": 1679069125,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 106584,
@@ -33345,6 +33345,14 @@
       "onboard_time": 1678083807,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 80670,
+      "num": 80670,
+      "word": "井柏然说第十一集真美好",
+      "onboard_time": 1679070383,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 80534,
