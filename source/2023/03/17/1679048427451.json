@@ -1,0 +1,410 @@
+{
+  "runTime": 1679048427451,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8139432,
+        "num": 8139432,
+        "word": "姜广涛涉嫌刑事犯罪",
+        "onboard_time": 1679042309,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1876634,
+        "num": 1876634,
+        "word": "金大川雎晓雯 喜酒",
+        "onboard_time": 1679047412,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39646,
+        "num": 1588721,
+        "word": "这支船队守望祖国的星空",
+        "onboard_time": 1679046093,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1538746,
+        "num": 1538746,
+        "word": "央行决定降准0.25个百分点",
+        "onboard_time": 1679045072,
+        "rank": 3,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 1265588,
+        "num": 1265588,
+        "word": "姜广涛的配音作品",
+        "onboard_time": 1679045852,
+        "rank": 4,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1072714,
+        "num": 1072714,
+        "word": "28岁徐志胜和38岁陈伟霆同框",
+        "onboard_time": 1679045669,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 765357,
+        "num": 765357,
+        "word": "天官赐福",
+        "onboard_time": 1679047472,
+        "rank": 6,
+        "category": "影视,艺人"
+      },
+      {
+        "raw_hot": 638501,
+        "num": 638501,
+        "word": "王也配音",
+        "onboard_time": 1679047352,
+        "rank": 7,
+        "category": "动漫,艺人"
+      },
+      {
+        "raw_hot": 559939,
+        "num": 559939,
+        "word": "光合积木",
+        "onboard_time": 1679045072,
+        "rank": 8,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 556766,
+        "num": 556766,
+        "word": "财政部处罚德勤和华融",
+        "onboard_time": 1679042787,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 660128,
+        "num": 554099,
+        "word": "初三学生被罚站倒地去世",
+        "onboard_time": 1679021907,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 549879,
+        "num": 549879,
+        "word": "王雪",
+        "onboard_time": 1679045553,
+        "rank": 11,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 484887,
+        "num": 484887,
+        "word": "周杰伦天津演唱会",
+        "onboard_time": 1679045310,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 482957,
+        "num": 482957,
+        "word": "宝木中阳",
+        "onboard_time": 1679044353,
+        "rank": 13,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 72905,
+        "num": 470471,
+        "word": "全年最早上市的瓜来了",
+        "onboard_time": 1679047230,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 464362,
+        "num": 464362,
+        "word": "小朋友 你已经很幸福啦",
+        "onboard_time": 1679036487,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 435268,
+        "num": 435268,
+        "word": "迪丽热巴驼色大衣造型",
+        "onboard_time": 1679038228,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 415879,
+        "num": 415879,
+        "word": "吼浪工作室发声明",
+        "onboard_time": 1679043872,
+        "rank": 17,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 403274,
+        "num": 403274,
+        "word": "严浩翔 极限挑战",
+        "onboard_time": 1679042309,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 352565,
+        "num": 352565,
+        "word": "宋慧乔韩素希海报是网友P的",
+        "onboard_time": 1679046572,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 909521,
+        "num": 352564,
+        "word": "女子腹痛就医竟怀孕足月生下男婴",
+        "onboard_time": 1679036069,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 361425,
+        "num": 352545,
+        "word": "丫丫主食单一无人与其互动",
+        "onboard_time": 1679035226,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352524,
+        "num": 352524,
+        "word": "李维嘉近照",
+        "onboard_time": 1679033366,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 345385,
+        "num": 345385,
+        "word": "张颂文摸苏小玎脸 梦回狂飙",
+        "onboard_time": 1679040988,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 329201,
+        "num": 329201,
+        "word": "张俪看孙心出嫁片段哭了",
+        "onboard_time": 1679042550,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 291994,
+        "num": 291994,
+        "word": "宁艺卓方律师函",
+        "onboard_time": 1679037388,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274837,
+        "num": 274837,
+        "word": "教育局回应初三学生被罚站倒地去世",
+        "onboard_time": 1679032106,
+        "rank": 26,
+        "category": "社会负面,教育"
+      },
+      {
+        "raw_hot": 274148,
+        "num": 274148,
+        "word": "何洁唱好想爱这个世界啊",
+        "onboard_time": 1679046572,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 269235,
+        "num": 269235,
+        "word": "中国专家抵达孟菲斯动物园",
+        "onboard_time": 1679041288,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266637,
+        "num": 266637,
+        "word": "武汉一女子怀孕后遭公司辞退",
+        "onboard_time": 1679034688,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262631,
+        "num": 262631,
+        "word": "女子穿仿制日本军服夜市打闹被行拘",
+        "onboard_time": 1679031506,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220317,
+        "num": 220317,
+        "word": "九尾发文抵制私生",
+        "onboard_time": 1679044173,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 216228,
+        "num": 216228,
+        "word": "河道英扮演者曾是YG练习生",
+        "onboard_time": 1679037149,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 204959,
+        "num": 204959,
+        "word": "吉林省考",
+        "onboard_time": 1679046992,
+        "rank": 33,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 204028,
+        "num": 204028,
+        "word": "王楚钦4比1林高远",
+        "onboard_time": 1679045132,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195113,
+        "num": 195113,
+        "word": "满江红再次延长上映",
+        "onboard_time": 1679041228,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189015,
+        "num": 189015,
+        "word": "90花校服造型大赏",
+        "onboard_time": 1679047652,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 187088,
+        "num": 187088,
+        "word": "女子求职被要求每月至少晨跑20天",
+        "onboard_time": 1679036186,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186193,
+        "num": 186193,
+        "word": "张栋梁再唱自己8年前的歌",
+        "onboard_time": 1679044832,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179707,
+        "num": 179707,
+        "word": "这么轻松的工作就得我来干",
+        "onboard_time": 1679046029,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 178307,
+        "num": 178307,
+        "word": "杨幂的摩天轮比耶照",
+        "onboard_time": 1679036307,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174577,
+        "num": 174577,
+        "word": "她还以为狗狗也有钱",
+        "onboard_time": 1679040508,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 165028,
+        "num": 165028,
+        "word": "中俄关系的意义和影响远超双边范畴",
+        "onboard_time": 1679042427,
+        "rank": 42,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 156708,
+        "num": 156708,
+        "word": "跌了17个月后房价涨了",
+        "onboard_time": 1679027249,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149365,
+        "num": 149365,
+        "word": "黄文煜自曝曾被猥亵",
+        "onboard_time": 1679036251,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 145534,
+        "num": 145534,
+        "word": "王鸥替大侦探角色道歉",
+        "onboard_time": 1679032227,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143051,
+        "num": 143051,
+        "word": "王楚钦VS林高远",
+        "onboard_time": 1679043992,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140947,
+        "num": 140947,
+        "word": "郑州大雪压塌6000平方米物流仓库",
+        "onboard_time": 1679035047,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138442,
+        "num": 138442,
+        "word": "丁程鑫杨迪加盟你好星期六",
+        "onboard_time": 1679048373,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121900,
+        "num": 121900,
+        "word": "不辞长作广西人",
+        "onboard_time": 1679048252,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#党和国家机构改革方案全文#"
+    }
+  }
+}
