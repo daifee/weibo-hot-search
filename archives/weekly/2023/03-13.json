@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1679066365960,
+  "endTime": 1679067255277,
   "band_list": [
     {
       "raw_hot": 9458443,
@@ -755,6 +755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1195365,
+      "num": 1195365,
+      "word": "好友去世少年凌晨3点在街头痛哭",
+      "onboard_time": 1679063313,
+      "rank": 48,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 1187209,
       "num": 1019657,
       "word": "工地盒饭",
@@ -881,14 +889,6 @@
       "onboard_time": 1678939649,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1114905,
-      "num": 1114905,
-      "word": "好友去世少年凌晨3点在街头痛哭",
-      "onboard_time": 1679063313,
-      "rank": 48,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 1099617,
@@ -1603,6 +1603,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 824641,
+      "num": 824641,
+      "word": "丫丫胖了一点白了一点",
+      "onboard_time": 1679065230,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 815914,
       "num": 815914,
       "word": "王勉说跟鹿晗一块睡觉此生无憾了",
@@ -1945,6 +1953,14 @@
       "onboard_time": 1679016149,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 730094,
+      "num": 340398,
+      "word": "男子隐瞒婚史与21岁女孩交往",
+      "onboard_time": 1679064814,
+      "rank": 20,
+      "category": "社会负面"
     },
     {
       "raw_hot": 730002,
@@ -2513,14 +2529,6 @@
       "onboard_time": 1678857748,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 616984,
-      "num": 340398,
-      "word": "男子隐瞒婚史与21岁女孩交往",
-      "onboard_time": 1679064814,
-      "rank": 20,
-      "category": "社会负面"
     },
     {
       "raw_hot": 616768,
@@ -3459,6 +3467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 491924,
+      "num": 491924,
+      "word": "理科生坠入情网",
+      "onboard_time": 1679062291,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 491115,
       "num": 491115,
       "word": "龚俊 会飞的大象",
@@ -3731,14 +3747,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 471796,
-      "num": 471796,
-      "word": "丫丫胖了一点白了一点",
-      "onboard_time": 1679065230,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 471650,
       "num": 208608,
       "word": "朴妍珍在监狱播报气象",
@@ -3761,14 +3769,6 @@
       "onboard_time": 1678764567,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 466852,
-      "num": 466852,
-      "word": "理科生坠入情网",
-      "onboard_time": 1679062291,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 466667,
@@ -4489,6 +4489,14 @@
       "onboard_time": 1679058508,
       "rank": 33,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 399217,
+      "num": 399217,
+      "word": "杨洋直播",
+      "onboard_time": 1679066190,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 398459,
@@ -6123,6 +6131,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 272467,
+      "num": 256732,
+      "word": "白宇鹏卫冕脑王",
+      "onboard_time": 1679066551,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 272197,
       "num": 272197,
       "word": "别来无恙",
@@ -6785,6 +6801,14 @@
       "onboard_time": 1678966827,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 233769,
+      "num": 233769,
+      "word": "毛不易演唱会",
+      "onboard_time": 1679066131,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 233141,
@@ -7779,14 +7803,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 198837,
-      "num": 198837,
-      "word": "杨洋直播",
-      "onboard_time": 1679066190,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 198786,
       "num": 198786,
       "word": "丁程鑫杨迪团建",
@@ -8339,14 +8355,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 186086,
-      "num": 186086,
-      "word": "毛不易演唱会",
-      "onboard_time": 1679066131,
-      "rank": 34,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 186075,
       "num": 1800435,
       "word": "2022中国科学十大进展",
@@ -8360,6 +8368,14 @@
       "word": "声生不息有歌之年歌单视频",
       "onboard_time": 1678944807,
       "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 184760,
+      "num": 184760,
+      "word": "沈月向庄达菲推荐东北澡堂",
+      "onboard_time": 1679066667,
+      "rank": 33,
       "category": "综艺"
     },
     {
@@ -8625,6 +8641,14 @@
       "onboard_time": 1678791389,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 173370,
+      "num": 173370,
+      "word": "张杰好会过日子",
+      "onboard_time": 1679066190,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 173191,
@@ -9531,14 +9555,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 136773,
-      "num": 136773,
-      "word": "张杰好会过日子",
-      "onboard_time": 1679066190,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 136399,
       "num": 135731,
       "word": "魏如萱音色",
@@ -9785,6 +9801,14 @@
       "onboard_time": 1678624947,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 126580,
+      "num": 126580,
+      "word": "24岁女子不会做饭给自己报名小饭桌",
+      "onboard_time": 1679066790,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 126003,
