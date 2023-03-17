@@ -1,0 +1,410 @@
+{
+  "runTime": 1679034155314,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1557516,
+        "num": 1557516,
+        "word": "跌了17个月后房价涨了",
+        "onboard_time": 1679027249,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1244992,
+        "num": 1244992,
+        "word": "女子穿仿制日本军服夜市打闹被行拘",
+        "onboard_time": 1679031506,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50914,
+        "num": 1243013,
+        "word": "高手在民间高燃合集",
+        "onboard_time": 1679012788,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1241528,
+        "num": 1241528,
+        "word": "何炅再提快乐大本营",
+        "onboard_time": 1679020948,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1102185,
+        "num": 1102185,
+        "word": "初三学生被罚站倒地去世",
+        "onboard_time": 1679021907,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 904661,
+        "num": 904661,
+        "word": "难听",
+        "onboard_time": 1679029646,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 819945,
+        "num": 819945,
+        "word": "女子领证当天在星巴克化妆遭驱赶",
+        "onboard_time": 1679022869,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 596372,
+        "num": 596372,
+        "word": "半天妖垃圾桶捞回餐食又端给顾客",
+        "onboard_time": 1679027310,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 587723,
+        "num": 587723,
+        "word": "王鸥替大侦探角色道歉",
+        "onboard_time": 1679032227,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 581900,
+        "num": 581900,
+        "word": "向太 火推文化",
+        "onboard_time": 1679033068,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 857576,
+        "num": 538036,
+        "word": "教育局回应初三学生被罚站倒地去世",
+        "onboard_time": 1679032106,
+        "rank": 10,
+        "category": "社会负面,教育"
+      },
+      {
+        "raw_hot": 467966,
+        "num": 467966,
+        "word": "微博之夜公告",
+        "onboard_time": 1679033425,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 450898,
+        "num": 450898,
+        "word": "李维嘉近照",
+        "onboard_time": 1679033366,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 421773,
+        "num": 421773,
+        "word": "丫丫回国先到上海检疫",
+        "onboard_time": 1679021489,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 413158,
+        "num": 413158,
+        "word": "韩素希说宋慧乔现在是她的了",
+        "onboard_time": 1679009902,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 387044,
+        "num": 387044,
+        "word": "2人用98元从女童处买走68根虫草",
+        "onboard_time": 1679017166,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322687,
+        "num": 322687,
+        "word": "男子彩票中800万让表弟代领被强占",
+        "onboard_time": 1679016449,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307681,
+        "num": 307681,
+        "word": "尹锡悦向日本国旗鞠躬画面引争议",
+        "onboard_time": 1679021250,
+        "rank": 17,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 303540,
+        "num": 303540,
+        "word": "张颂文 小熊老师",
+        "onboard_time": 1679026108,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289841,
+        "num": 289841,
+        "word": "时代少年团2022年高关注热度明星",
+        "onboard_time": 1679034025,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276578,
+        "num": 276578,
+        "word": "快乐大本营",
+        "onboard_time": 1679026710,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 263552,
+        "num": 263552,
+        "word": "吴谨言在跟郝蕾上表演课",
+        "onboard_time": 1679025509,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243968,
+        "num": 243968,
+        "word": "广西省考",
+        "onboard_time": 1679029170,
+        "rank": 22,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 226617,
+        "num": 226617,
+        "word": "狂飙 北城",
+        "onboard_time": 1679020408,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187344,
+        "num": 187344,
+        "word": "星巴克回应女子在店内化妆遭辱骂驱赶",
+        "onboard_time": 1679028689,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217034,
+        "num": 183112,
+        "word": "他是谁俞灏明今晚上线",
+        "onboard_time": 1679032106,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207512,
+        "num": 178732,
+        "word": "赵丽颖2022年高专业热度明星",
+        "onboard_time": 1679024609,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187354,
+        "num": 177752,
+        "word": "声生不息台湾腔配音",
+        "onboard_time": 1679030666,
+        "rank": 27,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 172261,
+        "num": 172261,
+        "word": "重庆动物园大熊猫反向参观游客",
+        "onboard_time": 1679019807,
+        "rank": 28,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 170394,
+        "num": 170394,
+        "word": "中国低龄老人达1.5亿",
+        "onboard_time": 1679015308,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187330,
+        "num": 166759,
+        "word": "微博之夜",
+        "onboard_time": 1679018127,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182167,
+        "num": 164265,
+        "word": "新海诚中韩工作餐",
+        "onboard_time": 1679018067,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180085,
+        "num": 162433,
+        "word": "秦舒培VOGUE夏威夷大片",
+        "onboard_time": 1679030909,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 159741,
+        "num": 159741,
+        "word": "官方回应丫丫4月7日是否能回国",
+        "onboard_time": 1679015308,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151654,
+        "num": 151654,
+        "word": "黑暗荣耀剧组真的会精分吧",
+        "onboard_time": 1679024549,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 141605,
+        "num": 141605,
+        "word": "顽童拉走椅子致童星摔至尿失禁",
+        "onboard_time": 1679017888,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136701,
+        "num": 136701,
+        "word": "任素汐全程把脉追完他是谁",
+        "onboard_time": 1679033727,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 105861,
+        "num": 105861,
+        "word": "多位在美华人接力守护丫丫",
+        "onboard_time": 1679021428,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105088,
+        "num": 105088,
+        "word": "蛋仔派对鹅鸭杀联动",
+        "onboard_time": 1679022088,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 104921,
+        "num": 104921,
+        "word": "上海迪士尼回应停售年卡",
+        "onboard_time": 1679023950,
+        "rank": 39,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 134566,
+        "num": 104708,
+        "word": "李健 北城老师",
+        "onboard_time": 1679025268,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 123361,
+        "num": 104475,
+        "word": "音乐节对年轻人有什么意义",
+        "onboard_time": 1679030787,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 122092,
+        "num": 104008,
+        "word": "INTO1微博之夜官宣",
+        "onboard_time": 1679023827,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102790,
+        "num": 102790,
+        "word": "陈坤说没空相亲",
+        "onboard_time": 1679031208,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100111,
+        "num": 100111,
+        "word": "花亦山心之月",
+        "onboard_time": 1679027010,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 98467,
+        "num": 98467,
+        "word": "苹果可折叠手机新专利",
+        "onboard_time": 1679016806,
+        "rank": 45,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 94488,
+        "num": 94488,
+        "word": "杨和苏门票",
+        "onboard_time": 1679025330,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 94002,
+        "num": 94002,
+        "word": "出生率下跌致幼儿园关停或成趋势",
+        "onboard_time": 1678984460,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92293,
+        "num": 92293,
+        "word": "专家称未来养老金很难大幅上涨",
+        "onboard_time": 1679021489,
+        "rank": 48,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 91725,
+        "num": 91725,
+        "word": "郁金香见到雪了",
+        "onboard_time": 1679019148,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#党和国家机构改革方案全文#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679031212428,
+  "endTime": 1679034155314,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -2259,6 +2259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1244992,
+      "num": 1244992,
+      "word": "女子穿仿制日本军服夜市打闹被行拘",
+      "onboard_time": 1679031506,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1242678,
       "num": 510476,
       "word": "黄婉秋逝世",
@@ -4385,6 +4393,14 @@
       "onboard_time": 1679026710,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 857576,
+      "num": 538036,
+      "word": "教育局回应初三学生被罚站倒地去世",
+      "onboard_time": 1679032106,
+      "rank": 10,
+      "category": "社会负面,教育"
     },
     {
       "raw_hot": 857414,
@@ -7851,6 +7867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 587723,
+      "num": 587723,
+      "word": "王鸥替大侦探角色道歉",
+      "onboard_time": 1679032227,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 585583,
       "num": 443460,
       "word": "许榕真谭松韵新剧演母女",
@@ -7913,6 +7937,14 @@
       "onboard_time": 1678663821,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 581900,
+      "num": 581900,
+      "word": "向太 火推文化",
+      "onboard_time": 1679033068,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 580983,
@@ -10731,6 +10763,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 467966,
+      "num": 467966,
+      "word": "微博之夜公告",
+      "onboard_time": 1679033425,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 467075,
       "num": 467075,
       "word": "丁禹兮彭小苒吻戏",
@@ -11121,6 +11161,14 @@
       "onboard_time": 1678374690,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 450898,
+      "num": 450898,
+      "word": "李维嘉近照",
+      "onboard_time": 1679033366,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 450766,
@@ -16835,6 +16883,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 289841,
+      "num": 289841,
+      "word": "时代少年团2022年高关注热度明星",
+      "onboard_time": 1679034025,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 289313,
       "num": 289313,
       "word": "感动中国淘宝店主7成员工是残疾人",
@@ -20745,6 +20801,14 @@
       "onboard_time": 1678892671,
       "rank": 33,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 217034,
+      "num": 183112,
+      "word": "他是谁俞灏明今晚上线",
+      "onboard_time": 1679032106,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 217013,
@@ -24755,6 +24819,14 @@
       "category": "情感,教育"
     },
     {
+      "raw_hot": 180085,
+      "num": 162433,
+      "word": "秦舒培VOGUE夏威夷大片",
+      "onboard_time": 1679030909,
+      "rank": 40,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 179955,
       "num": 179955,
       "word": "白岩松谈女足为什么比男足更出成绩",
@@ -26401,14 +26473,6 @@
       "onboard_time": 1678500506,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 158351,
-      "num": 158351,
-      "word": "秦舒培VOGUE夏威夷大片",
-      "onboard_time": 1679030909,
-      "rank": 40,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 158301,
@@ -28233,6 +28297,14 @@
       "onboard_time": 1678372772,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136701,
+      "num": 136701,
+      "word": "任素汐全程把脉追完他是谁",
+      "onboard_time": 1679033727,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 136697,
@@ -32747,6 +32819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 50914,
+      "num": 1556785,
+      "word": "高手在民间高燃合集",
+      "onboard_time": 1679012788,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50654,
       "num": 1323841,
       "word": "奋进的春天",
@@ -33073,14 +33153,6 @@
       "onboard_time": 1677654027,
       "rank": 39,
       "category": "科技"
-    },
-    {
-      "raw_hot": 31451,
-      "num": 1556785,
-      "word": "高手在民间高燃合集",
-      "onboard_time": 1679012788,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 31082,

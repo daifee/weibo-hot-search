@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1679031212428,
+  "endTime": 1679034155314,
   "band_list": [
     {
       "raw_hot": 8307302,
@@ -600,6 +600,14 @@
       "word": "美国公示丫丫回国相关申请",
       "onboard_time": 1678690226,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1244992,
+      "num": 1244992,
+      "word": "女子穿仿制日本军服夜市打闹被行拘",
+      "onboard_time": 1679031506,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -1273,6 +1281,14 @@
       "onboard_time": 1679026710,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 857576,
+      "num": 538036,
+      "word": "教育局回应初三学生被罚站倒地去世",
+      "onboard_time": 1679032106,
+      "rank": 10,
+      "category": "社会负面,教育"
     },
     {
       "raw_hot": 856596,
@@ -2347,6 +2363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 587723,
+      "num": 587723,
+      "word": "王鸥替大侦探角色道歉",
+      "onboard_time": 1679032227,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 584704,
       "num": 202930,
       "word": "港星尹子维在内地做探店博主",
@@ -2361,6 +2385,14 @@
       "onboard_time": 1678663821,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 581900,
+      "num": 581900,
+      "word": "向太 火推文化",
+      "onboard_time": 1679033068,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 580983,
@@ -3259,6 +3291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 467966,
+      "num": 467966,
+      "word": "微博之夜公告",
+      "onboard_time": 1679033425,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 467075,
       "num": 467075,
       "word": "丁禹兮彭小苒吻戏",
@@ -3409,6 +3449,14 @@
       "onboard_time": 1678763126,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 450898,
+      "num": 450898,
+      "word": "李维嘉近照",
+      "onboard_time": 1679033366,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 448075,
@@ -5123,6 +5171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 289841,
+      "num": 289841,
+      "word": "时代少年团2022年高关注热度明星",
+      "onboard_time": 1679034025,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 288087,
       "num": 288087,
       "word": "科学家在中国发现脖子最长恐龙",
@@ -6291,6 +6347,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 217034,
+      "num": 183112,
+      "word": "他是谁俞灏明今晚上线",
+      "onboard_time": 1679032106,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 216909,
       "num": 400562,
       "word": "金智秀solo个人预告",
@@ -7371,6 +7435,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 180085,
+      "num": 162433,
+      "word": "秦舒培VOGUE夏威夷大片",
+      "onboard_time": 1679030909,
+      "rank": 40,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 179423,
       "num": 179423,
       "word": "WBG对战OMG",
@@ -7817,14 +7889,6 @@
       "onboard_time": 1678862245,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 158351,
-      "num": 158351,
-      "word": "秦舒培VOGUE夏威夷大片",
-      "onboard_time": 1679030909,
-      "rank": 40,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 158268,
@@ -8296,6 +8360,14 @@
       "word": "他是谁将在马来西亚播出",
       "onboard_time": 1678950927,
       "rank": 48,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 136701,
+      "num": 136701,
+      "word": "任素汐全程把脉追完他是谁",
+      "onboard_time": 1679033727,
+      "rank": 36,
       "category": "影视"
     },
     {
@@ -9315,6 +9387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 50914,
+      "num": 1556785,
+      "word": "高手在民间高燃合集",
+      "onboard_time": 1679012788,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 48524,
       "num": 329844,
       "word": "读千卷书会成为怎样的人",
@@ -9345,14 +9425,6 @@
       "onboard_time": 1678849346,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 31451,
-      "num": 1556785,
-      "word": "高手在民间高燃合集",
-      "onboard_time": 1679012788,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 30012,

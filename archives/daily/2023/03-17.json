@@ -1,6 +1,6 @@
 {
   "startTime": 1678984163342,
-  "endTime": 1679031212428,
+  "endTime": 1679034155314,
   "band_list": [
     {
       "raw_hot": 2491186,
@@ -79,6 +79,14 @@
       "num": 1331871,
       "word": "国内2名专家已前往美国照料丫丫",
       "onboard_time": 1679012426,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1244992,
+      "num": 1244992,
+      "word": "女子穿仿制日本军服夜市打闹被行拘",
+      "onboard_time": 1679031506,
       "rank": 1,
       "category": "社会新闻"
     },
@@ -179,6 +187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 857576,
+      "num": 538036,
+      "word": "教育局回应初三学生被罚站倒地去世",
+      "onboard_time": 1679032106,
+      "rank": 10,
+      "category": "社会负面,教育"
+    },
+    {
       "raw_hot": 838833,
       "num": 838833,
       "word": "官方回应丫丫4月7日是否能回国",
@@ -273,6 +289,22 @@
       "onboard_time": 1679016506,
       "rank": 33,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 587723,
+      "num": 587723,
+      "word": "王鸥替大侦探角色道歉",
+      "onboard_time": 1679032227,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 581900,
+      "num": 581900,
+      "word": "向太 火推文化",
+      "onboard_time": 1679033068,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 552982,
@@ -371,12 +403,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 467966,
+      "num": 467966,
+      "word": "微博之夜公告",
+      "onboard_time": 1679033425,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 461292,
       "num": 461292,
       "word": "蛋仔派对鹅鸭杀联动",
       "onboard_time": 1679022088,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 450898,
+      "num": 450898,
+      "word": "李维嘉近照",
+      "onboard_time": 1679033366,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 438639,
@@ -547,6 +595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 289841,
+      "num": 289841,
+      "word": "时代少年团2022年高关注热度明星",
+      "onboard_time": 1679034025,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 288087,
       "num": 288087,
       "word": "科学家在中国发现脖子最长恐龙",
@@ -657,6 +713,14 @@
       "onboard_time": 1678970427,
       "rank": 15,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 217034,
+      "num": 183112,
+      "word": "他是谁俞灏明今晚上线",
+      "onboard_time": 1679032106,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 216337,
@@ -803,6 +867,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 180085,
+      "num": 162433,
+      "word": "秦舒培VOGUE夏威夷大片",
+      "onboard_time": 1679030909,
+      "rank": 40,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 171763,
       "num": 171763,
       "word": "微博娱乐白皮书",
@@ -867,14 +939,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 158351,
-      "num": 158351,
-      "word": "秦舒培VOGUE夏威夷大片",
-      "onboard_time": 1679030909,
-      "rank": 40,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 157743,
       "num": 157743,
       "word": "孔雪儿粉衣路透",
@@ -920,6 +984,14 @@
       "word": "他是谁",
       "onboard_time": 1678966170,
       "rank": 28,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 136701,
+      "num": 136701,
+      "word": "任素汐全程把脉追完他是谁",
+      "onboard_time": 1679033727,
+      "rank": 36,
       "category": "影视"
     },
     {
@@ -1195,20 +1267,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 50914,
+      "num": 1556785,
+      "word": "高手在民间高燃合集",
+      "onboard_time": 1679012788,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 46382,
       "num": 46382,
       "word": "妍珍徒步换双鞋吧",
       "onboard_time": 1678970551,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 31451,
-      "num": 1556785,
-      "word": "高手在民间高燃合集",
-      "onboard_time": 1679012788,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 26875,
