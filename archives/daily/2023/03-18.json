@@ -1,6 +1,6 @@
 {
   "startTime": 1679070330564,
-  "endTime": 1679071366642,
+  "endTime": 1679073405462,
   "band_list": [
     {
       "raw_hot": 1250904,
@@ -227,6 +227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 155160,
+      "num": 155160,
+      "word": "钟汉良买菜只花了9毛钱",
+      "onboard_time": 1679073020,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 153492,
       "num": 153492,
       "word": "央行决定降准0.25个百分点",
@@ -409,6 +417,22 @@
       "onboard_time": 1679057729,
       "rank": 2,
       "category": "科技"
+    },
+    {
+      "raw_hot": 59270,
+      "num": 59270,
+      "word": "怎么亲嘴还要人教啊",
+      "onboard_time": 1679072959,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 56497,
+      "num": 56497,
+      "word": "如何一句话让网友应激",
+      "onboard_time": 1679071822,
+      "rank": 46,
+      "category": "幽默,情感"
     }
   ],
   "hotgov_list": [
