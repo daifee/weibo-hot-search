@@ -1,6 +1,6 @@
 {
   "startTime": 1678984163342,
-  "endTime": 1679037426209,
+  "endTime": 1679038424146,
   "band_list": [
     {
       "raw_hot": 2491186,
@@ -115,6 +115,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1145016,
+      "num": 1145016,
+      "word": "武汉一女子怀孕后遭公司辞退",
+      "onboard_time": 1679034688,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1066544,
+      "num": 401812,
+      "word": "女子腹痛就医竟怀孕足月生下男婴",
+      "onboard_time": 1679036069,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1038285,
       "num": 1038285,
       "word": "丫丫回国先到上海检疫",
@@ -131,28 +147,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1004819,
-      "num": 1004819,
-      "word": "武汉一女子怀孕后遭公司辞退",
-      "onboard_time": 1679034688,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 977207,
       "num": 977207,
       "word": "尹锡悦向日本国旗鞠躬画面引争议",
       "onboard_time": 1679021250,
       "rank": 46,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 963969,
-      "num": 307325,
-      "word": "女子腹痛就医竟怀孕足月生下男婴",
-      "onboard_time": 1679036069,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 927457,
@@ -219,12 +219,28 @@
       "category": "社会负面,教育"
     },
     {
+      "raw_hot": 854134,
+      "num": 854134,
+      "word": "丫丫主食单一无人与其互动",
+      "onboard_time": 1679035226,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 838833,
       "num": 838833,
       "word": "官方回应丫丫4月7日是否能回国",
       "onboard_time": 1679015308,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 825516,
+      "num": 572261,
+      "word": "迪丽热巴驼色大衣造型",
+      "onboard_time": 1679038228,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 818865,
@@ -235,12 +251,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 786086,
+      "num": 786086,
+      "word": "宁艺卓方律师函",
+      "onboard_time": 1679037388,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 743613,
       "num": 743613,
       "word": "向太 火推文化",
       "onboard_time": 1679033068,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 737975,
+      "num": 737975,
+      "word": "郑州大雪压塌6000平方米物流仓库",
+      "onboard_time": 1679035047,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 730151,
@@ -267,14 +299,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 673461,
-      "num": 673461,
-      "word": "丫丫主食单一无人与其互动",
-      "onboard_time": 1679035226,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 659400,
       "num": 333050,
       "word": "老婆和表侄私奔老公举报吸毒全被抓",
@@ -289,6 +313,14 @@
       "onboard_time": 1679015308,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 651461,
+      "num": 565002,
+      "word": "杨幂的摩天轮比耶照",
+      "onboard_time": 1679036307,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 645423,
@@ -331,12 +363,12 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 607335,
-      "num": 607335,
-      "word": "郑州大雪压塌6000平方米物流仓库",
-      "onboard_time": 1679035047,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 595462,
+      "num": 595462,
+      "word": "河道英扮演者曾是YG练习生",
+      "onboard_time": 1679037149,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 587723,
@@ -371,14 +403,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 541661,
-      "num": 541661,
-      "word": "杨幂的摩天轮比耶照",
-      "onboard_time": 1679036307,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 536504,
       "num": 536504,
       "word": "张颂文 小熊老师",
@@ -393,6 +417,14 @@
       "onboard_time": 1679012066,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 508008,
+      "num": 508008,
+      "word": "黄文煜自曝曾被猥亵",
+      "onboard_time": 1679036251,
+      "rank": 15,
+      "category": "网红"
     },
     {
       "raw_hot": 489027,
@@ -491,14 +523,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 418860,
-      "num": 418860,
-      "word": "黄文煜自曝曾被猥亵",
-      "onboard_time": 1679036251,
-      "rank": 15,
-      "category": "网红"
-    },
-    {
       "raw_hot": 415212,
       "num": 415212,
       "word": "多位在美华人接力守护丫丫",
@@ -513,6 +537,14 @@
       "onboard_time": 1679012246,
       "rank": 9,
       "category": "科技"
+    },
+    {
+      "raw_hot": 404251,
+      "num": 404251,
+      "word": "小朋友 你已经很幸福啦",
+      "onboard_time": 1679036487,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 396324,
@@ -611,20 +643,20 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 310728,
-      "num": 310728,
-      "word": "河道英扮演者曾是YG练习生",
-      "onboard_time": 1679037149,
-      "rank": 18,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 309887,
       "num": 309887,
       "word": "霉霉空降4首新歌",
       "onboard_time": 1679035106,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 304832,
+      "num": 304832,
+      "word": "女子求职被要求每月至少晨跑20天",
+      "onboard_time": 1679036186,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 303529,
@@ -747,6 +779,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 229342,
+      "num": 229342,
+      "word": "台湾音乐",
+      "onboard_time": 1679036548,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 228601,
       "num": 228601,
       "word": "夏日入侵企画唱周杰伦暗号",
@@ -761,14 +801,6 @@
       "onboard_time": 1679029290,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 223679,
-      "num": 223679,
-      "word": "女子求职被要求每月至少晨跑20天",
-      "onboard_time": 1679036186,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 220232,
@@ -809,14 +841,6 @@
       "onboard_time": 1679011227,
       "rank": 28,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 213463,
-      "num": 213463,
-      "word": "宁艺卓方律师函",
-      "onboard_time": 1679037388,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 212697,
@@ -891,6 +915,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 196125,
+      "num": 196125,
+      "word": "华人影业与吴京共同开发电影",
+      "onboard_time": 1679038228,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 196106,
       "num": 196106,
       "word": "张译许芳铱对手戏",
@@ -963,14 +995,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 174017,
-      "num": 174017,
-      "word": "小朋友 你已经很幸福啦",
-      "onboard_time": 1679036487,
-      "rank": 29,
-      "category": "情感"
-    },
-    {
       "raw_hot": 171763,
       "num": 171763,
       "word": "微博娱乐白皮书",
@@ -987,20 +1011,20 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 166872,
-      "num": 166872,
-      "word": "台湾音乐",
-      "onboard_time": 1679036548,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 166124,
       "num": 166124,
       "word": "tangoz演我看黑暗荣耀",
       "onboard_time": 1678983982,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 165318,
+      "num": 165318,
+      "word": "钱天一4比1波尔卡诺娃",
+      "onboard_time": 1679036726,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 165207,
@@ -1115,14 +1139,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 138892,
-      "num": 138892,
-      "word": "钱天一4比1波尔卡诺娃",
-      "onboard_time": 1679036726,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 136694,
       "num": 135761,
       "word": "秦刚同乌克兰外长库列巴通电话",
@@ -1147,12 +1163,28 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 135149,
+      "num": 135149,
+      "word": "合肥一民警执勤突发心脏骤停因公牺牲",
+      "onboard_time": 1679037207,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135021,
       "num": 135021,
       "word": "路晨向归晓求婚",
       "onboard_time": 1678987817,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 130601,
+      "num": 130601,
+      "word": "为什么猩猩会停止进化",
+      "onboard_time": 1679037149,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 127252,
@@ -1321,14 +1353,6 @@
       "onboard_time": 1679036425,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 88607,
-      "num": 88607,
-      "word": "合肥一民警执勤突发心脏骤停因公牺牲",
-      "onboard_time": 1679037207,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 87193,
