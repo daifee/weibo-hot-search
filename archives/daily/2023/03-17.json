@@ -1,6 +1,6 @@
 {
   "startTime": 1678984163342,
-  "endTime": 1679049393855,
+  "endTime": 1679051757021,
   "band_list": [
     {
       "raw_hot": 9458443,
@@ -219,6 +219,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 967869,
+      "num": 967869,
+      "word": "宋扬",
+      "onboard_time": 1679048493,
+      "rank": 28,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 927457,
       "num": 240846,
       "word": "肖战2022年高带货力明星",
@@ -387,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 693815,
+      "num": 693815,
+      "word": "雎晓雯 谢谢祝福",
+      "onboard_time": 1679050230,
+      "rank": 7,
+      "category": "时尚,艺人"
+    },
+    {
       "raw_hot": 688782,
       "num": 248925,
       "word": "宋慧乔是王家卫公司艺人",
@@ -473,6 +489,14 @@
       "onboard_time": 1679032227,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 577665,
+      "num": 454852,
+      "word": "超模夫妇",
+      "onboard_time": 1679049571,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 559939,
@@ -643,6 +667,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 456569,
+      "num": 456569,
+      "word": "新海诚说喜欢罗小黑战记",
+      "onboard_time": 1679050891,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 442515,
+      "num": 442515,
+      "word": "时代少年团个人外务",
+      "onboard_time": 1679051010,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 438639,
       "num": 438639,
       "word": "微博之夜第二批官宣阵容",
@@ -657,6 +697,14 @@
       "onboard_time": 1679018006,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 420904,
+      "num": 420904,
+      "word": "魏大勋大侦探靠一句话洗脱嫌疑",
+      "onboard_time": 1679051131,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 420667,
@@ -947,6 +995,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 271827,
+      "num": 271827,
+      "word": "未定事件簿 莫弈",
+      "onboard_time": 1679049030,
+      "rank": 37,
+      "category": "动漫,艺人"
+    },
+    {
+      "raw_hot": 270938,
+      "num": 270938,
+      "word": "这么轻松的工作就得我来干",
+      "onboard_time": 1679046029,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 264830,
       "num": 264830,
       "word": "杨紫粉丝娱乐白皮书寄语",
@@ -963,12 +1027,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 252663,
-      "num": 252663,
-      "word": "宋扬",
-      "onboard_time": 1679048493,
-      "rank": 28,
-      "category": "社会新闻,艺人"
+      "raw_hot": 257778,
+      "num": 257778,
+      "word": "丁程鑫杨迪加盟你好星期六",
+      "onboard_time": 1679048373,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 251017,
@@ -993,14 +1057,6 @@
       "onboard_time": 1679015849,
       "rank": 30,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 243005,
-      "num": 243005,
-      "word": "丁程鑫杨迪加盟你好星期六",
-      "onboard_time": 1679048373,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 235640,
@@ -1067,6 +1123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 221975,
+      "num": 221975,
+      "word": "白鹿制服造型",
+      "onboard_time": 1679049391,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 221185,
       "num": 221185,
       "word": "为什么猩猩会停止进化",
@@ -1099,14 +1163,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 216563,
-      "num": 216563,
-      "word": "这么轻松的工作就得我来干",
-      "onboard_time": 1679046029,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 216337,
       "num": 216337,
       "word": "陈立农白色花朵西装",
@@ -1121,6 +1177,14 @@
       "onboard_time": 1679011227,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 215345,
+      "num": 215345,
+      "word": "欧冠8强抽签",
+      "onboard_time": 1679051249,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 212697,
@@ -1147,12 +1211,28 @@
       "category": "综艺,幽默"
     },
     {
+      "raw_hot": 206067,
+      "num": 206067,
+      "word": "晨晓夫妇70秒吻戏",
+      "onboard_time": 1679051669,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 204959,
       "num": 204959,
       "word": "吉林省考",
       "onboard_time": 1679046992,
       "rank": 33,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 203545,
+      "num": 203545,
+      "word": "TWICE新歌获音银一位",
+      "onboard_time": 1679049752,
+      "rank": 38,
+      "category": "综艺,音乐"
     },
     {
       "raw_hot": 203010,
@@ -1227,20 +1307,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 194240,
-      "num": 194240,
-      "word": "未定事件簿 莫弈",
-      "onboard_time": 1679049030,
-      "rank": 37,
-      "category": "动漫,艺人"
-    },
-    {
       "raw_hot": 192946,
       "num": 192946,
       "word": "卿卿日常三少主在回响演司机",
       "onboard_time": 1678977751,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 192502,
+      "num": 192502,
+      "word": "AL战胜FPX",
+      "onboard_time": 1679051189,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 191863,
@@ -1257,6 +1337,14 @@
       "onboard_time": 1679027010,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 191356,
+      "num": 191356,
+      "word": "宋亚轩格子拼接外套",
+      "onboard_time": 1679050711,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 191222,
@@ -1417,6 +1505,14 @@
       "onboard_time": 1678981224,
       "rank": 24,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 158956,
+      "num": 470471,
+      "word": "全年最早上市的瓜来了",
+      "onboard_time": 1679047230,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 157743,
@@ -1601,14 +1697,6 @@
       "onboard_time": 1679021369,
       "rank": 46,
       "category": "科技"
-    },
-    {
-      "raw_hot": 122158,
-      "num": 470471,
-      "word": "全年最早上市的瓜来了",
-      "onboard_time": 1679047230,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 121900,

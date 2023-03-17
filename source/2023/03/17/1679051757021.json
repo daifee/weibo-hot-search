@@ -1,0 +1,410 @@
+{
+  "runTime": 1679051757021,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6395705,
+        "num": 6395705,
+        "word": "姜广涛涉嫌刑事犯罪",
+        "onboard_time": 1679042309,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1753428,
+        "num": 1753428,
+        "word": "金大川雎晓雯 喜酒",
+        "onboard_time": 1679047412,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47585,
+        "num": 1114550,
+        "word": "这支船队守望祖国的星空",
+        "onboard_time": 1679046093,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 988473,
+        "num": 988473,
+        "word": "天官赐福",
+        "onboard_time": 1679047472,
+        "rank": 3,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 967869,
+        "num": 967869,
+        "word": "宋扬",
+        "onboard_time": 1679048493,
+        "rank": 4,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 892717,
+        "num": 892717,
+        "word": "央行决定降准0.25个百分点",
+        "onboard_time": 1679045072,
+        "rank": 5,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 850535,
+        "num": 850535,
+        "word": "姜广涛的配音作品",
+        "onboard_time": 1679045852,
+        "rank": 6,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 693815,
+        "num": 693815,
+        "word": "雎晓雯 谢谢祝福",
+        "onboard_time": 1679050230,
+        "rank": 7,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 683248,
+        "num": 683248,
+        "word": "28岁徐志胜和38岁陈伟霆同框",
+        "onboard_time": 1679045669,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 456569,
+        "num": 456569,
+        "word": "新海诚说喜欢罗小黑战记",
+        "onboard_time": 1679050891,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 577665,
+        "num": 454852,
+        "word": "超模夫妇",
+        "onboard_time": 1679049571,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 498672,
+        "num": 453860,
+        "word": "初三学生被罚站倒地去世",
+        "onboard_time": 1679021907,
+        "rank": 11,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 452495,
+        "num": 452495,
+        "word": "周杰伦天津演唱会",
+        "onboard_time": 1679045310,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 445825,
+        "num": 445825,
+        "word": "王也配音",
+        "onboard_time": 1679047352,
+        "rank": 13,
+        "category": "动漫,艺人"
+      },
+      {
+        "raw_hot": 442515,
+        "num": 442515,
+        "word": "时代少年团个人外务",
+        "onboard_time": 1679051010,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 424249,
+        "num": 424249,
+        "word": "财政部处罚德勤和华融",
+        "onboard_time": 1679042787,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 420904,
+        "num": 420904,
+        "word": "魏大勋大侦探靠一句话洗脱嫌疑",
+        "onboard_time": 1679051131,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 377933,
+        "num": 377933,
+        "word": "迪丽热巴驼色大衣造型",
+        "onboard_time": 1679038228,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 326778,
+        "num": 326778,
+        "word": "宋慧乔韩素希海报是网友P的",
+        "onboard_time": 1679046572,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291478,
+        "num": 291478,
+        "word": "光合积木",
+        "onboard_time": 1679045072,
+        "rank": 19,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 878598,
+        "num": 285024,
+        "word": "女子腹痛就医竟怀孕足月生下男婴",
+        "onboard_time": 1679036069,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 401817,
+        "num": 283492,
+        "word": "丫丫主食单一无人与其互动",
+        "onboard_time": 1679035226,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271827,
+        "num": 271827,
+        "word": "未定事件簿 莫弈",
+        "onboard_time": 1679049030,
+        "rank": 22,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 270938,
+        "num": 270938,
+        "word": "这么轻松的工作就得我来干",
+        "onboard_time": 1679046029,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 257778,
+        "num": 257778,
+        "word": "丁程鑫杨迪加盟你好星期六",
+        "onboard_time": 1679048373,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 255411,
+        "num": 255411,
+        "word": "武汉一女子怀孕后遭公司辞退",
+        "onboard_time": 1679034688,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254149,
+        "num": 254149,
+        "word": "张颂文摸苏小玎脸 梦回狂飙",
+        "onboard_time": 1679040988,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 246384,
+        "num": 246384,
+        "word": "何洁唱好想爱这个世界啊",
+        "onboard_time": 1679046572,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245887,
+        "num": 245887,
+        "word": "宁艺卓方律师函",
+        "onboard_time": 1679037388,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238314,
+        "num": 238314,
+        "word": "教育局回应初三学生被罚站倒地去世",
+        "onboard_time": 1679032106,
+        "rank": 29,
+        "category": "社会负面,教育"
+      },
+      {
+        "raw_hot": 237263,
+        "num": 237263,
+        "word": "宝木中阳",
+        "onboard_time": 1679044353,
+        "rank": 30,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 223515,
+        "num": 223515,
+        "word": "小朋友 你已经很幸福啦",
+        "onboard_time": 1679036487,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 221975,
+        "num": 221975,
+        "word": "白鹿制服造型",
+        "onboard_time": 1679049391,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 221444,
+        "num": 221444,
+        "word": "严浩翔 极限挑战",
+        "onboard_time": 1679042309,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221428,
+        "num": 221428,
+        "word": "中国专家抵达孟菲斯动物园",
+        "onboard_time": 1679041288,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218598,
+        "num": 218598,
+        "word": "李维嘉近照",
+        "onboard_time": 1679033366,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 215345,
+        "num": 215345,
+        "word": "欧冠8强抽签",
+        "onboard_time": 1679051249,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206067,
+        "num": 206067,
+        "word": "晨晓夫妇70秒吻戏",
+        "onboard_time": 1679051669,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203545,
+        "num": 203545,
+        "word": "TWICE新歌获音银一位",
+        "onboard_time": 1679049752,
+        "rank": 38,
+        "category": "综艺,音乐"
+      },
+      {
+        "raw_hot": 201695,
+        "num": 201695,
+        "word": "女子穿仿制日本军服夜市打闹被行拘",
+        "onboard_time": 1679031506,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192502,
+        "num": 192502,
+        "word": "AL战胜FPX",
+        "onboard_time": 1679051189,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 191356,
+        "num": 191356,
+        "word": "宋亚轩格子拼接外套",
+        "onboard_time": 1679050711,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189246,
+        "num": 189246,
+        "word": "王雪",
+        "onboard_time": 1679045553,
+        "rank": 42,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 188631,
+        "num": 188631,
+        "word": "河道英扮演者曾是YG练习生",
+        "onboard_time": 1679037149,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 183238,
+        "num": 183238,
+        "word": "女子求职被要求每月至少晨跑20天",
+        "onboard_time": 1679036186,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182672,
+        "num": 182672,
+        "word": "张俪看孙心出嫁片段哭了",
+        "onboard_time": 1679042550,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165705,
+        "num": 165705,
+        "word": "吉林省考",
+        "onboard_time": 1679046992,
+        "rank": 46,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 163860,
+        "num": 163860,
+        "word": "张栋梁再唱自己8年前的歌",
+        "onboard_time": 1679044832,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158956,
+        "num": 158956,
+        "word": "全年最早上市的瓜来了",
+        "onboard_time": 1679047230,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147901,
+        "num": 147901,
+        "word": "杨幂的摩天轮比耶照",
+        "onboard_time": 1679036307,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#面对现代化之问中国给出方案#"
+    }
+  }
+}
