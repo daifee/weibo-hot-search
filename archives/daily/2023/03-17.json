@@ -1,10 +1,10 @@
 {
   "startTime": 1678984163342,
-  "endTime": 1679044740638,
+  "endTime": 1679045636479,
   "band_list": [
     {
-      "raw_hot": 8816770,
-      "num": 8816770,
+      "raw_hot": 9458443,
+      "num": 9458443,
       "word": "姜广涛涉嫌刑事犯罪",
       "onboard_time": 1679042309,
       "rank": 0,
@@ -147,6 +147,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1079871,
+      "num": 1079871,
+      "word": "央行决定降准0.25个百分点",
+      "onboard_time": 1679045072,
+      "rank": 3,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 1066544,
       "num": 401812,
       "word": "女子腹痛就医竟怀孕足月生下男婴",
@@ -225,6 +233,14 @@
       "onboard_time": 1679018067,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 867799,
+      "num": 867799,
+      "word": "宝木中阳",
+      "onboard_time": 1679044353,
+      "rank": 9,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 859457,
@@ -339,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 686810,
+      "num": 686810,
+      "word": "财政部处罚德勤和华融",
+      "onboard_time": 1679042787,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 659400,
       "num": 333050,
       "word": "老婆和表侄私奔老公举报吸毒全被抓",
@@ -369,14 +393,6 @@
       "onboard_time": 1679024609,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 639989,
-      "num": 639989,
-      "word": "财政部处罚德勤和华融",
-      "onboard_time": 1679042787,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 634728,
@@ -425,6 +441,14 @@
       "onboard_time": 1679041288,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 553635,
+      "num": 553635,
+      "word": "王楚钦VS林高远",
+      "onboard_time": 1679043992,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 552982,
@@ -483,14 +507,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 488188,
-      "num": 470030,
-      "word": "宝木中阳",
-      "onboard_time": 1679044353,
-      "rank": 9,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 487786,
       "num": 487786,
       "word": "微博之夜",
@@ -531,6 +547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 473532,
+      "num": 473532,
+      "word": "光合积木",
+      "onboard_time": 1679045072,
+      "rank": 13,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 473470,
       "num": 473470,
       "word": "郁金香见到雪了",
@@ -561,14 +585,6 @@
       "onboard_time": 1679022088,
       "rank": 28,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 457076,
-      "num": 457076,
-      "word": "王楚钦VS林高远",
-      "onboard_time": 1679043992,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 438639,
@@ -723,6 +739,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 333613,
+      "num": 333613,
+      "word": "王楚钦4比1林高远",
+      "onboard_time": 1679045132,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 331664,
       "num": 331664,
       "word": "阿森纳淘汰",
@@ -737,6 +761,14 @@
       "onboard_time": 1679013328,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 331008,
+      "num": 331008,
+      "word": "九尾发文抵制私生",
+      "onboard_time": 1679044173,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 318944,
@@ -939,14 +971,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 223539,
-      "num": 223539,
-      "word": "九尾发文抵制私生",
-      "onboard_time": 1679044173,
-      "rank": 32,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 222053,
       "num": 222053,
       "word": "泫雅力丸同框照",
@@ -1035,6 +1059,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 202986,
+      "num": 202986,
+      "word": "王雪",
+      "onboard_time": 1679045553,
+      "rank": 36,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 200059,
       "num": 200059,
       "word": "国防部说台湾当归",
@@ -1048,6 +1080,14 @@
       "word": "朴智旻先行曲MV",
       "onboard_time": 1679029109,
       "rank": 34,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 199381,
+      "num": 199381,
+      "word": "周杰伦天津演唱会",
+      "onboard_time": 1679045310,
+      "rank": 37,
       "category": "音乐"
     },
     {
@@ -1139,6 +1179,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 189812,
+      "num": 189812,
+      "word": "张栋梁再唱自己8年前的歌",
+      "onboard_time": 1679044832,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188018,
       "num": 188018,
       "word": "吼浪",
@@ -1172,7 +1220,7 @@
     },
     {
       "raw_hot": 175669,
-      "num": 160988,
+      "num": 174752,
       "word": "微博之夜舞台名场面",
       "onboard_time": 1679041288,
       "rank": 36,
@@ -1329,6 +1377,14 @@
       "onboard_time": 1678966170,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 141044,
+      "num": 141044,
+      "word": "韩素希年下直球",
+      "onboard_time": 1679045371,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 140568,
