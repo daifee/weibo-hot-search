@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679084392294,
+  "endTime": 1679085228704,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -34307,6 +34307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 43998,
+      "num": 18978,
+      "word": "俄罗斯养的大熊猫",
+      "onboard_time": 1679082312,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43982,
       "num": 43982,
       "word": "水哥看到杨英豪反超握拳庆祝",
@@ -34457,14 +34465,6 @@
       "onboard_time": 1677700272,
       "rank": 33,
       "category": "美食"
-    },
-    {
-      "raw_hot": 34532,
-      "num": 18978,
-      "word": "俄罗斯养的大熊猫",
-      "onboard_time": 1679082312,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 33120,
@@ -34633,6 +34633,14 @@
       "onboard_time": 1678553540,
       "rank": 9,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 27306,
+      "num": 27306,
+      "word": "我国首次发现奥密克戎新亚型",
+      "onboard_time": 1679084533,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 27296,
