@@ -1,6 +1,6 @@
 {
   "startTime": 1679070330564,
-  "endTime": 1679081595308,
+  "endTime": 1679084392294,
   "band_list": [
     {
       "raw_hot": 1250904,
@@ -475,6 +475,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 37077,
+      "num": 32158,
+      "word": "你管这叫修正带",
+      "onboard_time": 1679080453,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 34532,
+      "num": 18978,
+      "word": "俄罗斯养的大熊猫",
+      "onboard_time": 1679082312,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29525,
       "num": 29525,
       "word": "28岁徐志胜和38岁陈伟霆同框",
@@ -491,12 +507,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 21015,
-      "num": 21015,
-      "word": "你管这叫修正带",
-      "onboard_time": 1679080453,
-      "rank": 49,
-      "category": "幽默"
+      "raw_hot": 21776,
+      "num": 21776,
+      "word": "谁教你们这么谈恋爱的",
+      "onboard_time": 1679082852,
+      "rank": 24,
+      "category": "幽默,情感"
     }
   ],
   "hotgov_list": [

@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1679081595308,
+  "endTime": 1679084392294,
   "band_list": [
     {
       "raw_hot": 9458443,
@@ -10803,6 +10803,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 37077,
+      "num": 32158,
+      "word": "你管这叫修正带",
+      "onboard_time": 1679080453,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 34532,
+      "num": 18978,
+      "word": "俄罗斯养的大熊猫",
+      "onboard_time": 1679082312,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30012,
       "num": 30012,
       "word": "全圆佑跳Attention",
@@ -10899,20 +10915,20 @@
       "category": "科技"
     },
     {
+      "raw_hot": 21776,
+      "num": 21776,
+      "word": "谁教你们这么谈恋爱的",
+      "onboard_time": 1679082852,
+      "rank": 24,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 21229,
       "num": 21229,
       "word": "保你平安笑中带泪",
       "onboard_time": 1678982005,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 21015,
-      "num": 21015,
-      "word": "你管这叫修正带",
-      "onboard_time": 1679080453,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 17549,
