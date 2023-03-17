@@ -1,6 +1,6 @@
 {
   "startTime": 1679070330564,
-  "endTime": 1679095096355,
+  "endTime": 1679096031740,
   "band_list": [
     {
       "raw_hot": 1250904,
@@ -27,6 +27,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 980370,
+      "num": 980370,
+      "word": "我国首次发现奥密克戎新亚型",
+      "onboard_time": 1679084533,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 878135,
       "num": 878135,
       "word": "姜广涛涉嫌刑事犯罪",
@@ -35,20 +43,20 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 860033,
-      "num": 860033,
-      "word": "我国首次发现奥密克戎新亚型",
-      "onboard_time": 1679084533,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 786880,
       "num": 786880,
       "word": "月薪三千的生活是怎样的",
       "onboard_time": 1679060070,
       "rank": 5,
       "category": "情感"
+    },
+    {
+      "raw_hot": 665568,
+      "num": 665568,
+      "word": "富豪出10万美元请女子摘口罩遭拒",
+      "onboard_time": 1679074218,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 617555,
@@ -64,14 +72,6 @@
       "word": "隔空猥亵受害者多为未成年人",
       "onboard_time": 1679067569,
       "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 577779,
-      "num": 577779,
-      "word": "富豪出10万美元请女子摘口罩遭拒",
-      "onboard_time": 1679074218,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -97,6 +97,14 @@
       "onboard_time": 1679072959,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 448531,
+      "num": 448531,
+      "word": "超市6500元招聘引学生排队投简历",
+      "onboard_time": 1679079193,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 425627,
@@ -139,11 +147,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 344694,
-      "num": 344694,
-      "word": "超市6500元招聘引学生排队投简历",
-      "onboard_time": 1679079193,
-      "rank": 30,
+      "raw_hot": 329257,
+      "num": 329257,
+      "word": "俄罗斯养的大熊猫",
+      "onboard_time": 1679082312,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -163,6 +171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 298412,
+      "num": 298412,
+      "word": "警方回应游客98元买走60根虫草",
+      "onboard_time": 1679078654,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 273447,
       "num": 273447,
       "word": "理科生坠入情网",
@@ -179,28 +195,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 251641,
-      "num": 189314,
-      "word": "俄罗斯养的大熊猫",
-      "onboard_time": 1679082312,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 243980,
       "num": 243980,
       "word": "鹿晗在厨房洗头",
       "onboard_time": 1679064270,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 242226,
-      "num": 173791,
-      "word": "警方回应游客98元买走60根虫草",
-      "onboard_time": 1679078654,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 215817,
@@ -225,6 +225,14 @@
       "onboard_time": 1679060733,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 205443,
+      "num": 118530,
+      "word": "民警一把抱起昏迷男童飞奔急救室",
+      "onboard_time": 1679095581,
+      "rank": 22,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 200986,
@@ -291,6 +299,22 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 152526,
+      "num": 117413,
+      "word": "女友被拍18下才反应被求婚",
+      "onboard_time": 1679074637,
+      "rank": 21,
+      "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 147977,
+      "num": 116454,
+      "word": "研究表明养猫养狗或影响睡眠",
+      "onboard_time": 1679077875,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147152,
       "num": 147152,
       "word": "女子腹痛就医竟怀孕足月生下男婴",
@@ -331,28 +355,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 123401,
-      "num": 97073,
-      "word": "研究表明养猫养狗或影响睡眠",
-      "onboard_time": 1679077875,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 122230,
       "num": 122230,
       "word": "小学生第一次听周杰伦的歌",
       "onboard_time": 1679055026,
       "rank": 35,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 119593,
-      "num": 96100,
-      "word": "女友被拍18下才反应被求婚",
-      "onboard_time": 1679074637,
-      "rank": 21,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 118804,
@@ -369,6 +377,22 @@
       "onboard_time": 1679052869,
       "rank": 37,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 115625,
+      "num": 115625,
+      "word": "晨晓夫妇70秒吻戏",
+      "onboard_time": 1679051669,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 114604,
+      "num": 114604,
+      "word": "山东7位文旅局长变装推荐家乡",
+      "onboard_time": 1679095641,
+      "rank": 26,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 114163,
@@ -392,6 +416,14 @@
       "word": "大江大河3海报",
       "onboard_time": 1679062291,
       "rank": 39,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 111856,
+      "num": 111856,
+      "word": "魏平安女儿被校园霸凌",
+      "onboard_time": 1679062472,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -443,12 +475,12 @@
       "category": "时尚,艺人"
     },
     {
-      "raw_hot": 94443,
-      "num": 94443,
-      "word": "晨晓夫妇70秒吻戏",
-      "onboard_time": 1679051669,
-      "rank": 26,
-      "category": "影视"
+      "raw_hot": 97478,
+      "num": 97478,
+      "word": "你管这叫修正带",
+      "onboard_time": 1679080453,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 91282,
@@ -459,20 +491,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 88444,
-      "num": 88444,
-      "word": "你管这叫修正带",
-      "onboard_time": 1679080453,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 82533,
       "num": 82533,
       "word": "中国专家抵达孟菲斯动物园",
       "onboard_time": 1679041288,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 81987,
+      "num": 81987,
+      "word": "谁教你们这么谈恋爱的",
+      "onboard_time": 1679082852,
+      "rank": 24,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 81364,
@@ -491,20 +523,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 80431,
-      "num": 80431,
-      "word": "魏平安女儿被校园霸凌",
-      "onboard_time": 1679062472,
-      "rank": 30,
+      "raw_hot": 76319,
+      "num": 76319,
+      "word": "孙怡徐艺洋演同事",
+      "onboard_time": 1679057187,
+      "rank": 37,
       "category": "影视"
     },
     {
-      "raw_hot": 68378,
-      "num": 68378,
-      "word": "谁教你们这么谈恋爱的",
-      "onboard_time": 1679082852,
-      "rank": 24,
-      "category": "幽默,情感"
+      "raw_hot": 71729,
+      "num": 71729,
+      "word": "归路",
+      "onboard_time": 1679095880,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 66060,
@@ -523,12 +555,12 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 60135,
-      "num": 60135,
-      "word": "孙怡徐艺洋演同事",
-      "onboard_time": 1679057187,
-      "rank": 37,
-      "category": "影视"
+      "raw_hot": 60977,
+      "num": 60977,
+      "word": "乱吃保健品警惕伤肝",
+      "onboard_time": 1679095880,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 49062,
