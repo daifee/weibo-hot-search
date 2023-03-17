@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1679051757021,
+  "endTime": 1679052832257,
   "band_list": [
     {
       "raw_hot": 9458443,
@@ -795,6 +795,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 1124768,
+      "num": 436670,
+      "word": "魏大勋大侦探靠一句话洗脱嫌疑",
+      "onboard_time": 1679051131,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1122459,
       "num": 1122459,
       "word": "韩剧溯洄",
@@ -995,6 +1003,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 1010980,
+      "num": 1010980,
+      "word": "宋扬",
+      "onboard_time": 1679048493,
+      "rank": 28,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1009245,
       "num": 1009245,
       "word": "省考",
@@ -1081,14 +1097,6 @@
       "onboard_time": 1678844068,
       "rank": 36,
       "category": "教育"
-    },
-    {
-      "raw_hot": 967869,
-      "num": 967869,
-      "word": "宋扬",
-      "onboard_time": 1679048493,
-      "rank": 28,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 963594,
@@ -1867,6 +1875,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 720119,
+      "num": 720119,
+      "word": "雎晓雯 谢谢祝福",
+      "onboard_time": 1679050230,
+      "rank": 7,
+      "category": "时尚,艺人"
+    },
+    {
       "raw_hot": 718789,
       "num": 388765,
       "word": "王鹤棣手机壳是五花肉",
@@ -2001,14 +2017,6 @@
       "onboard_time": 1678716207,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 693815,
-      "num": 693815,
-      "word": "雎晓雯 谢谢祝福",
-      "onboard_time": 1679050230,
-      "rank": 7,
-      "category": "时尚,艺人"
     },
     {
       "raw_hot": 689026,
@@ -3803,6 +3811,14 @@
       "category": "影视,幽默"
     },
     {
+      "raw_hot": 436194,
+      "num": 436194,
+      "word": "欧冠8强抽签",
+      "onboard_time": 1679051249,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 436112,
       "num": 436112,
       "word": "中方明起扩大公民出境团队游国家范围",
@@ -3952,14 +3968,6 @@
       "word": "半熟恋人2第六期满地是雷",
       "onboard_time": 1678789589,
       "rank": 12,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 420904,
-      "num": 420904,
-      "word": "魏大勋大侦探靠一句话洗脱嫌疑",
-      "onboard_time": 1679051131,
-      "rank": 16,
       "category": "综艺"
     },
     {
@@ -4833,6 +4841,14 @@
       "onboard_time": 1678778188,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 344150,
+      "num": 344150,
+      "word": "谭松韵问井柏然收视有保障吗",
+      "onboard_time": 1679052448,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 343601,
@@ -6867,14 +6883,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 215345,
-      "num": 215345,
-      "word": "欧冠8强抽签",
-      "onboard_time": 1679051249,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 213877,
       "num": 213877,
       "word": "迪丽热巴黑西装裙花絮",
@@ -6913,6 +6921,14 @@
       "onboard_time": 1678691244,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 211240,
+      "num": 211240,
+      "word": "晨晓夫妇70秒吻戏",
+      "onboard_time": 1679051669,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 210963,
@@ -7057,14 +7073,6 @@
       "onboard_time": 1678710987,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 206067,
-      "num": 206067,
-      "word": "晨晓夫妇70秒吻戏",
-      "onboard_time": 1679051669,
-      "rank": 37,
-      "category": "影视"
     },
     {
       "raw_hot": 205825,
@@ -7515,6 +7523,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 194883,
+      "num": 194883,
+      "word": "胡宇桐live版梦里花",
+      "onboard_time": 1679052448,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194879,
       "num": 194879,
       "word": "吴刚说中年人的人生也是人生",
@@ -7867,6 +7883,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 185322,
+      "num": 185322,
+      "word": "老干妈或将推出冰淇淋",
+      "onboard_time": 1679052149,
+      "rank": 39,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 185062,
       "num": 185062,
       "word": "声生不息有歌之年歌单视频",
@@ -7912,6 +7936,14 @@
       "word": "消费透视镜",
       "onboard_time": 1678842989,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182586,
+      "num": 182586,
+      "word": "不得因怀孕辞退女职工",
+      "onboard_time": 1679052330,
+      "rank": 42,
       "category": "社会新闻"
     },
     {

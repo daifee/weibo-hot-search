@@ -1,0 +1,410 @@
+{
+  "runTime": 1679052832257,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5190254,
+        "num": 5190254,
+        "word": "姜广涛涉嫌刑事犯罪",
+        "onboard_time": 1679042309,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1591066,
+        "num": 1591066,
+        "word": "金大川雎晓雯 喜酒",
+        "onboard_time": 1679047412,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46886,
+        "num": 1094567,
+        "word": "这支船队守望祖国的星空",
+        "onboard_time": 1679046093,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1010980,
+        "num": 1010980,
+        "word": "宋扬",
+        "onboard_time": 1679048493,
+        "rank": 3,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 902237,
+        "num": 902237,
+        "word": "天官赐福",
+        "onboard_time": 1679047472,
+        "rank": 4,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 751292,
+        "num": 751292,
+        "word": "央行决定降准0.25个百分点",
+        "onboard_time": 1679045072,
+        "rank": 5,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 720119,
+        "num": 720119,
+        "word": "雎晓雯 谢谢祝福",
+        "onboard_time": 1679050230,
+        "rank": 6,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 678551,
+        "num": 678551,
+        "word": "姜广涛的配音作品",
+        "onboard_time": 1679045852,
+        "rank": 7,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 632241,
+        "num": 632241,
+        "word": "28岁徐志胜和38岁陈伟霆同框",
+        "onboard_time": 1679045669,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 436818,
+        "num": 436818,
+        "word": "时代少年团个人外务",
+        "onboard_time": 1679051010,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1124768,
+        "num": 436670,
+        "word": "魏大勋大侦探靠一句话洗脱嫌疑",
+        "onboard_time": 1679051131,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 443528,
+        "num": 436642,
+        "word": "超模夫妇",
+        "onboard_time": 1679049571,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 436194,
+        "num": 436194,
+        "word": "欧冠8强抽签",
+        "onboard_time": 1679051249,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 433890,
+        "num": 433890,
+        "word": "初三学生被罚站倒地去世",
+        "onboard_time": 1679021907,
+        "rank": 13,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 409888,
+        "num": 409888,
+        "word": "财政部处罚德勤和华融",
+        "onboard_time": 1679042787,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 406708,
+        "num": 406708,
+        "word": "新海诚说喜欢罗小黑战记",
+        "onboard_time": 1679050891,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 354862,
+        "num": 354862,
+        "word": "迪丽热巴驼色大衣造型",
+        "onboard_time": 1679038228,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 354729,
+        "num": 354729,
+        "word": "周杰伦天津演唱会",
+        "onboard_time": 1679045310,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 344150,
+        "num": 344150,
+        "word": "谭松韵问井柏然收视有保障吗",
+        "onboard_time": 1679052448,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 342125,
+        "num": 342125,
+        "word": "王也配音",
+        "onboard_time": 1679047352,
+        "rank": 19,
+        "category": "动漫,艺人"
+      },
+      {
+        "raw_hot": 812213,
+        "num": 321760,
+        "word": "女子腹痛就医竟怀孕足月生下男婴",
+        "onboard_time": 1679036069,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 419139,
+        "num": 307307,
+        "word": "丫丫主食单一无人与其互动",
+        "onboard_time": 1679035226,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263787,
+        "num": 263787,
+        "word": "宋慧乔韩素希海报是网友P的",
+        "onboard_time": 1679046572,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238811,
+        "num": 238811,
+        "word": "未定事件簿 莫弈",
+        "onboard_time": 1679049030,
+        "rank": 23,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 238361,
+        "num": 238361,
+        "word": "宁艺卓方律师函",
+        "onboard_time": 1679037388,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237987,
+        "num": 237987,
+        "word": "教育局回应初三学生被罚站倒地去世",
+        "onboard_time": 1679032106,
+        "rank": 25,
+        "category": "社会负面,教育"
+      },
+      {
+        "raw_hot": 237840,
+        "num": 237840,
+        "word": "武汉一女子怀孕后遭公司辞退",
+        "onboard_time": 1679034688,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237004,
+        "num": 237004,
+        "word": "光合积木",
+        "onboard_time": 1679045072,
+        "rank": 27,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 236493,
+        "num": 236493,
+        "word": "这么轻松的工作就得我来干",
+        "onboard_time": 1679046029,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 219674,
+        "num": 219674,
+        "word": "张颂文摸苏小玎脸 梦回狂飙",
+        "onboard_time": 1679040988,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 215926,
+        "num": 215926,
+        "word": "中国专家抵达孟菲斯动物园",
+        "onboard_time": 1679041288,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211240,
+        "num": 211240,
+        "word": "晨晓夫妇70秒吻戏",
+        "onboard_time": 1679051669,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 209477,
+        "num": 209477,
+        "word": "丁程鑫杨迪加盟你好星期六",
+        "onboard_time": 1679048373,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200066,
+        "num": 200066,
+        "word": "李维嘉近照",
+        "onboard_time": 1679033366,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 194883,
+        "num": 194883,
+        "word": "胡宇桐live版梦里花",
+        "onboard_time": 1679052448,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191531,
+        "num": 191531,
+        "word": "宝木中阳",
+        "onboard_time": 1679044353,
+        "rank": 35,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 191287,
+        "num": 191287,
+        "word": "白鹿制服造型",
+        "onboard_time": 1679049391,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 186551,
+        "num": 186551,
+        "word": "小朋友 你已经很幸福啦",
+        "onboard_time": 1679036487,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 186054,
+        "num": 186054,
+        "word": "严浩翔 极限挑战",
+        "onboard_time": 1679042309,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185322,
+        "num": 185322,
+        "word": "老干妈或将推出冰淇淋",
+        "onboard_time": 1679052149,
+        "rank": 39,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 183656,
+        "num": 183656,
+        "word": "女子穿仿制日本军服夜市打闹被行拘",
+        "onboard_time": 1679031506,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183359,
+        "num": 183359,
+        "word": "何洁唱好想爱这个世界啊",
+        "onboard_time": 1679046572,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182586,
+        "num": 182586,
+        "word": "不得因怀孕辞退女职工",
+        "onboard_time": 1679052330,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179739,
+        "num": 179739,
+        "word": "女子求职被要求每月至少晨跑20天",
+        "onboard_time": 1679036186,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179259,
+        "num": 179259,
+        "word": "河道英扮演者曾是YG练习生",
+        "onboard_time": 1679037149,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 165570,
+        "num": 165570,
+        "word": "TWICE新歌获音银一位",
+        "onboard_time": 1679049752,
+        "rank": 45,
+        "category": "综艺,音乐"
+      },
+      {
+        "raw_hot": 149969,
+        "num": 149969,
+        "word": "张俪看孙心出嫁片段哭了",
+        "onboard_time": 1679042550,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 140667,
+        "num": 140667,
+        "word": "杨幂的摩天轮比耶照",
+        "onboard_time": 1679036307,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127415,
+        "num": 127415,
+        "word": "吉林省考",
+        "onboard_time": 1679046992,
+        "rank": 48,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 125519,
+        "num": 125519,
+        "word": "张栋梁再唱自己8年前的歌",
+        "onboard_time": 1679044832,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平将对俄罗斯进行国事访问#"
+    }
+  }
+}
