@@ -1,6 +1,6 @@
 {
   "startTime": 1678984163342,
-  "endTime": 1679017930987,
+  "endTime": 1679020731307,
   "band_list": [
     {
       "raw_hot": 2182595,
@@ -12,11 +12,19 @@
     },
     {
       "raw_hot": 1939065,
-      "num": 427771,
+      "num": 597743,
       "word": "韩素希说宋慧乔现在是她的了",
       "onboard_time": 1679009902,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1898269,
+      "num": 1898269,
+      "word": "男子彩票中800万让表弟代领被强占",
+      "onboard_time": 1679016449,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1573198,
@@ -27,19 +35,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1530468,
-      "num": 1530468,
-      "word": "男子彩票中800万让表弟代领被强占",
-      "onboard_time": 1679016449,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1331871,
       "num": 1331871,
       "word": "国内2名专家已前往美国照料丫丫",
       "onboard_time": 1679012426,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1216715,
+      "num": 1216715,
+      "word": "2人用98元从女童处买走68根虫草",
+      "onboard_time": 1679017166,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -59,12 +67,44 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 909158,
+      "num": 909158,
+      "word": "新海诚中韩工作餐",
+      "onboard_time": 1679018067,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 859457,
+      "num": 859457,
+      "word": "苹果可折叠手机新专利",
+      "onboard_time": 1679016806,
+      "rank": 48,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 838833,
+      "num": 838833,
+      "word": "官方回应丫丫4月7日是否能回国",
+      "onboard_time": 1679015308,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 818865,
       "num": 610575,
       "word": "当我收到二月份工资",
       "onboard_time": 1678970308,
       "rank": 3,
       "category": "情感"
+    },
+    {
+      "raw_hot": 731235,
+      "num": 731235,
+      "word": "竹马",
+      "onboard_time": 1679019027,
+      "rank": 7,
+      "category": "科技"
     },
     {
       "raw_hot": 730151,
@@ -75,16 +115,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 701696,
-      "num": 701696,
-      "word": "官方回应丫丫4月7日是否能回国",
-      "onboard_time": 1679015308,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 699230,
-      "num": 332549,
+      "num": 342404,
       "word": "丫丫吃甘蔗小心翼翼不舍得浪费",
       "onboard_time": 1678974689,
       "rank": 20,
@@ -107,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 656136,
+      "num": 656136,
+      "word": "中国低龄老人达1.5亿",
+      "onboard_time": 1679015308,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 634728,
       "num": 634728,
       "word": "学生乘车贴绑架纸条致大巴被截停",
@@ -123,12 +163,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 628150,
-      "num": 628150,
-      "word": "中国低龄老人达1.5亿",
-      "onboard_time": 1679015308,
-      "rank": 6,
-      "category": "社会新闻"
+      "raw_hot": 610066,
+      "num": 610066,
+      "word": "上海迪士尼乐园年卡停售",
+      "onboard_time": 1679016506,
+      "rank": 33,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 549979,
@@ -139,6 +179,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 540176,
+      "num": 540176,
+      "word": "学生自带秤复称食堂麻辣香锅被拒",
+      "onboard_time": 1679016868,
+      "rank": 49,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 516992,
       "num": 516992,
       "word": "关晓彤官宣加盟微博之夜",
@@ -147,12 +195,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 511274,
-      "num": 420953,
-      "word": "上海迪士尼乐园年卡停售",
-      "onboard_time": 1679016506,
-      "rank": 33,
-      "category": "旅游,社会新闻"
+      "raw_hot": 489027,
+      "num": 489027,
+      "word": "顽童拉走椅子致童星摔至尿失禁",
+      "onboard_time": 1679017888,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 487786,
+      "num": 487786,
+      "word": "微博之夜",
+      "onboard_time": 1679018127,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 478041,
@@ -179,6 +235,30 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 461174,
+      "num": 461174,
+      "word": "郁金香见到雪了",
+      "onboard_time": 1679019148,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 438639,
+      "num": 438639,
+      "word": "微博之夜第二批官宣阵容",
+      "onboard_time": 1679016266,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 425626,
+      "num": 425626,
+      "word": "德云社",
+      "onboard_time": 1679018006,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 420667,
       "num": 404426,
       "word": "宋智孝脸部比心",
@@ -195,35 +275,27 @@
       "category": "科技"
     },
     {
+      "raw_hot": 379509,
+      "num": 379509,
+      "word": "2022微博之夜最期待的荧幕cp",
+      "onboard_time": 1679017346,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 364492,
+      "num": 364492,
+      "word": "吴优哭戏",
+      "onboard_time": 1679019747,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 361494,
       "num": 361494,
       "word": "声生不息宝岛季",
       "onboard_time": 1678966050,
       "rank": 6,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 361375,
-      "num": 361375,
-      "word": "苹果可折叠手机新专利",
-      "onboard_time": 1679016806,
-      "rank": 48,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 343036,
-      "num": 343036,
-      "word": "学生自带秤复称食堂麻辣香锅被拒",
-      "onboard_time": 1679016868,
-      "rank": 49,
-      "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 331970,
-      "num": 331970,
-      "word": "微博之夜第二批官宣阵容",
-      "onboard_time": 1679016266,
-      "rank": 29,
       "category": "综艺"
     },
     {
@@ -291,12 +363,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 257260,
-      "num": 257260,
-      "word": "2人用98元从女童处买走68根虫草",
-      "onboard_time": 1679017166,
-      "rank": 25,
-      "category": "社会新闻"
+      "raw_hot": 257624,
+      "num": 257624,
+      "word": "重庆动物园大熊猫反向参观游客",
+      "onboard_time": 1679019807,
+      "rank": 27,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 251017,
@@ -371,19 +443,19 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 215242,
+      "num": 215242,
+      "word": "狂飙 北城",
+      "onboard_time": 1679020408,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 211037,
       "num": 211037,
       "word": "张杰想见你大合唱",
       "onboard_time": 1678974089,
       "rank": 16,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 205154,
-      "num": 205154,
-      "word": "2022微博之夜最期待的荧幕cp",
-      "onboard_time": 1679017346,
-      "rank": 32,
       "category": "综艺"
     },
     {
@@ -427,12 +499,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 190285,
+      "num": 190285,
+      "word": "女神异闻录新作实机曝光",
+      "onboard_time": 1679020527,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 186973,
       "num": 186973,
       "word": "褚晓羽走了许幻山的老路",
       "onboard_time": 1679008700,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 169237,
+      "num": 169237,
+      "word": "雷锋班资助的女孩考上大学也成了资助人",
+      "onboard_time": 1679019089,
+      "rank": 37,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 166124,
@@ -603,6 +691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110573,
+      "num": 133471,
+      "word": "美术老师入伍前跟全班视频告别",
+      "onboard_time": 1679018667,
+      "rank": 47,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 108530,
       "num": 108530,
       "word": "张译他是谁热度破9000",
@@ -657,14 +753,6 @@
       "onboard_time": 1678976790,
       "rank": 39,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 95079,
-      "num": 95079,
-      "word": "顽童拉走椅子致童星摔至尿失禁",
-      "onboard_time": 1679017888,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 91659,
