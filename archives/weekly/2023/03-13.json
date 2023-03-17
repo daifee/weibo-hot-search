@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1679052832257,
+  "endTime": 1679056561240,
   "band_list": [
     {
       "raw_hot": 9458443,
@@ -443,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1568899,
+      "num": 1568899,
+      "word": "哇唧唧哇 难哄",
+      "onboard_time": 1679055327,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1559346,
       "num": 431419,
       "word": "TFBOYS十周年演唱会许可证",
@@ -796,7 +804,7 @@
     },
     {
       "raw_hot": 1124768,
-      "num": 436670,
+      "num": 765464,
       "word": "魏大勋大侦探靠一句话洗脱嫌疑",
       "onboard_time": 1679051131,
       "rank": 16,
@@ -1475,6 +1483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 840131,
+      "num": 840131,
+      "word": "王阳补牢",
+      "onboard_time": 1679055389,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 838833,
       "num": 838833,
       "word": "官方回应丫丫4月7日是否能回国",
@@ -1489,6 +1505,14 @@
       "onboard_time": 1678850366,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 830359,
+      "num": 830359,
+      "word": "姜广涛能不能把声带捐出来",
+      "onboard_time": 1679052869,
+      "rank": 5,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 828976,
@@ -2019,6 +2043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 689564,
+      "num": 689564,
+      "word": "邓超零下27度吃雪糕",
+      "onboard_time": 1679053407,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 689026,
       "num": 689026,
       "word": "国考分数线",
@@ -2491,6 +2523,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 605098,
+      "num": 605098,
+      "word": "不得因怀孕辞退女职工",
+      "onboard_time": 1679052330,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 603382,
       "num": 603382,
       "word": "郁金香壁纸",
@@ -2760,6 +2800,14 @@
       "word": "王楚钦VS林高远",
       "onboard_time": 1679043992,
       "rank": 12,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 553009,
+      "num": 553009,
+      "word": "孙颖莎VS朱芊曦",
+      "onboard_time": 1679054187,
+      "rank": 10,
       "category": "体育"
     },
     {
@@ -3233,6 +3281,14 @@
       "onboard_time": 1678935686,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 497459,
+      "num": 497459,
+      "word": "老干妈或将推出冰淇淋",
+      "onboard_time": 1679052149,
+      "rank": 39,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 496241,
@@ -4331,6 +4387,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 386246,
+      "num": 386246,
+      "word": "小学生第一次听周杰伦的歌",
+      "onboard_time": 1679055026,
+      "rank": 15,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 385535,
       "num": 385535,
       "word": "微博之夜嘉宾",
@@ -4368,6 +4432,14 @@
       "word": "田柾国直播",
       "onboard_time": 1678804053,
       "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 384010,
+      "num": 384010,
+      "word": "苏小玎拍车窗",
+      "onboard_time": 1679055509,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -4441,6 +4513,14 @@
       "onboard_time": 1678888295,
       "rank": 23,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 377504,
+      "num": 377504,
+      "word": "欧冠死亡半区",
+      "onboard_time": 1679054009,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 377503,
@@ -6427,6 +6507,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 234484,
+      "num": 234484,
+      "word": "德勤华永回应财政部罚单",
+      "onboard_time": 1679054248,
+      "rank": 25,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 234185,
       "num": 234185,
       "word": "INTO1微博之夜官宣",
@@ -6673,6 +6761,14 @@
       "onboard_time": 1678940550,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 227098,
+      "num": 227098,
+      "word": "斗罗大陆2备案",
+      "onboard_time": 1679056170,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 224571,
@@ -7072,6 +7168,14 @@
       "word": "山西男篮vs广东男篮",
       "onboard_time": 1678710987,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 206033,
+      "num": 140068,
+      "word": "孙颖莎4比3朱芊曦",
+      "onboard_time": 1679056468,
+      "rank": 42,
       "category": "体育"
     },
     {
@@ -7523,6 +7627,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 194925,
+      "num": 194925,
+      "word": "新式神言灵",
+      "onboard_time": 1679056350,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 194883,
       "num": 194883,
       "word": "胡宇桐live版梦里花",
@@ -7755,6 +7867,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 189791,
+      "num": 189791,
+      "word": "皇马将战切尔西",
+      "onboard_time": 1679055988,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 189532,
       "num": 189532,
       "word": "不良人",
@@ -7883,14 +8003,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 185322,
-      "num": 185322,
-      "word": "老干妈或将推出冰淇淋",
-      "onboard_time": 1679052149,
-      "rank": 39,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 185062,
       "num": 185062,
       "word": "声生不息有歌之年歌单视频",
@@ -7923,6 +8035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 183857,
+      "num": 183857,
+      "word": "北京体育中考调整为合格考",
+      "onboard_time": 1679056048,
+      "rank": 33,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 183784,
       "num": 183784,
       "word": "刷到这条的会计人有福了",
@@ -7936,14 +8056,6 @@
       "word": "消费透视镜",
       "onboard_time": 1678842989,
       "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 182586,
-      "num": 182586,
-      "word": "不得因怀孕辞退女职工",
-      "onboard_time": 1679052330,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -8041,6 +8153,14 @@
       "onboard_time": 1678641196,
       "rank": 16,
       "category": "艺人,影视"
+    },
+    {
+      "raw_hot": 177984,
+      "num": 177984,
+      "word": "陈都灵云之羽蓝衣",
+      "onboard_time": 1679054668,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 177570,
@@ -8835,6 +8955,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 143871,
+      "num": 143871,
+      "word": "阴阳师",
+      "onboard_time": 1679053528,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 143783,
       "num": 143783,
       "word": "和春天约会",
@@ -9001,6 +9129,14 @@
       "onboard_time": 1678925668,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 137744,
+      "num": 137744,
+      "word": "RNGM春季赛首胜",
+      "onboard_time": 1679056107,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 137325,
