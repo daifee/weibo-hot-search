@@ -1,6 +1,6 @@
 {
   "startTime": 1678984163342,
-  "endTime": 1679020731307,
+  "endTime": 1679021343098,
   "band_list": [
     {
       "raw_hot": 2182595,
@@ -43,8 +43,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1216715,
-      "num": 1216715,
+      "raw_hot": 1218866,
+      "num": 1218866,
       "word": "2人用98元从女童处买走68根虫草",
       "onboard_time": 1679017166,
       "rank": 25,
@@ -57,6 +57,14 @@
       "onboard_time": 1678984460,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 922524,
+      "num": 922524,
+      "word": "竹马",
+      "onboard_time": 1679019027,
+      "rank": 7,
+      "category": "科技"
     },
     {
       "raw_hot": 918222,
@@ -97,14 +105,6 @@
       "onboard_time": 1678970308,
       "rank": 3,
       "category": "情感"
-    },
-    {
-      "raw_hot": 731235,
-      "num": 731235,
-      "word": "竹马",
-      "onboard_time": 1679019027,
-      "rank": 7,
-      "category": "科技"
     },
     {
       "raw_hot": 730151,
@@ -171,20 +171,28 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 594136,
+      "num": 594136,
+      "word": "狂飙 北城",
+      "onboard_time": 1679020408,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 551505,
+      "num": 551505,
+      "word": "学生自带秤复称食堂麻辣香锅被拒",
+      "onboard_time": 1679016868,
+      "rank": 49,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 549979,
       "num": 549979,
       "word": "243万存款被行长挪用银行拒赔",
       "onboard_time": 1678977449,
       "rank": 4,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 540176,
-      "num": 540176,
-      "word": "学生自带秤复称食堂麻辣香锅被拒",
-      "onboard_time": 1679016868,
-      "rank": 49,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 516992,
@@ -219,6 +227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 473470,
+      "num": 473470,
+      "word": "郁金香见到雪了",
+      "onboard_time": 1679019148,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 473403,
       "num": 473403,
       "word": "郭帆 赛凡",
@@ -233,14 +249,6 @@
       "onboard_time": 1678977692,
       "rank": 7,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 461174,
-      "num": 461174,
-      "word": "郁金香见到雪了",
-      "onboard_time": 1679019148,
-      "rank": 16,
-      "category": "情感"
     },
     {
       "raw_hot": 438639,
@@ -281,6 +289,22 @@
       "onboard_time": 1679017346,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 378081,
+      "num": 378081,
+      "word": "重庆动物园大熊猫反向参观游客",
+      "onboard_time": 1679019807,
+      "rank": 27,
+      "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 374575,
+      "num": 374575,
+      "word": "何炅再提快乐大本营",
+      "onboard_time": 1679020948,
+      "rank": 21,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 364492,
@@ -363,14 +387,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 257624,
-      "num": 257624,
-      "word": "重庆动物园大熊猫反向参观游客",
-      "onboard_time": 1679019807,
-      "rank": 27,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 251017,
       "num": 251017,
       "word": "章昊Tomboy组第一",
@@ -441,14 +457,6 @@
       "onboard_time": 1679011227,
       "rank": 28,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 215242,
-      "num": 215242,
-      "word": "狂飙 北城",
-      "onboard_time": 1679020408,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 211037,
@@ -721,6 +729,14 @@
       "onboard_time": 1678975771,
       "rank": 37,
       "category": "其它"
+    },
+    {
+      "raw_hot": 102879,
+      "num": 102879,
+      "word": "尹锡悦向日本国旗鞠躬画面引争议",
+      "onboard_time": 1679021250,
+      "rank": 46,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 101862,

@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1679020731307,
+  "endTime": 1679021343098,
   "band_list": [
     {
       "raw_hot": 8307302,
@@ -579,8 +579,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1216715,
-      "num": 1216715,
+      "raw_hot": 1218866,
+      "num": 1218866,
       "word": "2人用98元从女童处买走68根虫草",
       "onboard_time": 1679017166,
       "rank": 25,
@@ -985,6 +985,14 @@
       "onboard_time": 1678945647,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 922524,
+      "num": 922524,
+      "word": "竹马",
+      "onboard_time": 1679019027,
+      "rank": 7,
+      "category": "科技"
     },
     {
       "raw_hot": 922255,
@@ -1553,14 +1561,6 @@
       "onboard_time": 1678807110,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 731235,
-      "num": 731235,
-      "word": "竹马",
-      "onboard_time": 1679019027,
-      "rank": 7,
-      "category": "科技"
     },
     {
       "raw_hot": 730151,
@@ -2211,6 +2211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 594136,
+      "num": 594136,
+      "word": "狂飙 北城",
+      "onboard_time": 1679020408,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 593108,
       "num": 593108,
       "word": "张纪中辟谣去医院注射生命养护针",
@@ -2411,6 +2419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 551505,
+      "num": 551505,
+      "word": "学生自带秤复称食堂麻辣香锅被拒",
+      "onboard_time": 1679016868,
+      "rank": 49,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 551101,
       "num": 414069,
       "word": "SM新女团成员",
@@ -2497,14 +2513,6 @@
       "onboard_time": 1678790850,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 540176,
-      "num": 540176,
-      "word": "学生自带秤复称食堂麻辣香锅被拒",
-      "onboard_time": 1679016868,
-      "rank": 49,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 538170,
@@ -3091,6 +3099,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 473470,
+      "num": 473470,
+      "word": "郁金香见到雪了",
+      "onboard_time": 1679019148,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 473403,
       "num": 473403,
       "word": "郭帆 赛凡",
@@ -3177,14 +3193,6 @@
       "onboard_time": 1678692391,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 461174,
-      "num": 461174,
-      "word": "郁金香见到雪了",
-      "onboard_time": 1679019148,
-      "rank": 16,
-      "category": "情感"
     },
     {
       "raw_hot": 459525,
@@ -3931,6 +3939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 378081,
+      "num": 378081,
+      "word": "重庆动物园大熊猫反向参观游客",
+      "onboard_time": 1679019807,
+      "rank": 27,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 378064,
       "num": 378064,
       "word": "安徽永良米业回应",
@@ -3977,6 +3993,14 @@
       "onboard_time": 1678679188,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 374575,
+      "num": 374575,
+      "word": "何炅再提快乐大本营",
+      "onboard_time": 1679020948,
+      "rank": 21,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 373549,
@@ -5395,14 +5419,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 257624,
-      "num": 257624,
-      "word": "重庆动物园大熊猫反向参观游客",
-      "onboard_time": 1679019807,
-      "rank": 27,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 256921,
       "num": 241903,
       "word": "文东恩妈妈和张震演过情侣",
@@ -6129,14 +6145,6 @@
       "onboard_time": 1678874847,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 215242,
-      "num": 215242,
-      "word": "狂飙 北城",
-      "onboard_time": 1679020408,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 213877,
@@ -8489,6 +8497,14 @@
       "onboard_time": 1678761626,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 102879,
+      "num": 102879,
+      "word": "尹锡悦向日本国旗鞠躬画面引争议",
+      "onboard_time": 1679021250,
+      "rank": 46,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 102313,
