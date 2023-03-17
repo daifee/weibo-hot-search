@@ -1,0 +1,410 @@
+{
+  "runTime": 1679078196212,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 277254,
+        "num": 277254,
+        "word": "富豪出10万美元请女子摘口罩遭拒",
+        "onboard_time": 1679074218,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178792,
+        "num": 226734,
+        "word": "他是谁 看yue了",
+        "onboard_time": 1679060550,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 16852,
+        "num": 213959,
+        "word": "2022中国科学十大进展",
+        "onboard_time": 1679057729,
+        "rank": 2,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 203798,
+        "num": 203798,
+        "word": "姜广涛涉嫌刑事犯罪",
+        "onboard_time": 1679042309,
+        "rank": 3,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 201577,
+        "num": 201577,
+        "word": "好友去世少年凌晨3点在街头痛哭",
+        "onboard_time": 1679063313,
+        "rank": 4,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 157142,
+        "num": 157142,
+        "word": "丫丫胖了一点白了一点",
+        "onboard_time": 1679065230,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116440,
+        "num": 116440,
+        "word": "日本女大胃王菅原初代患肠癌病逝",
+        "onboard_time": 1679059410,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106580,
+        "num": 106580,
+        "word": "哇唧唧哇 难哄",
+        "onboard_time": 1679055327,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 92459,
+        "num": 92459,
+        "word": "月薪三千的生活是怎样的",
+        "onboard_time": 1679060070,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 87199,
+        "num": 87199,
+        "word": "什么行为容易伤肝",
+        "onboard_time": 1679068169,
+        "rank": 9,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 72335,
+        "num": 72335,
+        "word": "隔空猥亵受害者多为未成年人",
+        "onboard_time": 1679067569,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71064,
+        "num": 71064,
+        "word": "金大川雎晓雯 喜酒",
+        "onboard_time": 1679047412,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70587,
+        "num": 70587,
+        "word": "桑延选角",
+        "onboard_time": 1679059470,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 69536,
+        "num": 69536,
+        "word": "小福菀终于学会爬树了",
+        "onboard_time": 1679062412,
+        "rank": 13,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 67188,
+        "num": 67188,
+        "word": "钟汉良买菜只花了9毛钱",
+        "onboard_time": 1679073020,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 64124,
+        "num": 64124,
+        "word": "梁博现场",
+        "onboard_time": 1679060852,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 48960,
+        "num": 48960,
+        "word": "他是谁",
+        "onboard_time": 1679065830,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 48845,
+        "num": 48845,
+        "word": "Jennie新剧将在戛纳首映",
+        "onboard_time": 1679062655,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 47816,
+        "num": 47816,
+        "word": "最强大脑10脑王",
+        "onboard_time": 1679063372,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47109,
+        "num": 47109,
+        "word": "理科生坠入情网",
+        "onboard_time": 1679062291,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 236361,
+        "num": 46980,
+        "word": "怎么亲嘴还要人教啊",
+        "onboard_time": 1679072959,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142058,
+        "num": 46849,
+        "word": "男子隐瞒婚史与21岁女孩交往",
+        "onboard_time": 1679064814,
+        "rank": 21,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 90932,
+        "num": 46678,
+        "word": "女友被拍18下才反应被求婚",
+        "onboard_time": 1679074637,
+        "rank": 22,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 66783,
+        "num": 46527,
+        "word": "24岁女子不会做饭给自己报名小饭桌",
+        "onboard_time": 1679066790,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46483,
+        "num": 46483,
+        "word": "魏大勋大侦探靠一句话洗脱嫌疑",
+        "onboard_time": 1679051131,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38444,
+        "num": 38444,
+        "word": "央行决定降准0.25个百分点",
+        "onboard_time": 1679045072,
+        "rank": 25,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 38136,
+        "num": 38136,
+        "word": "如何一句话让网友应激",
+        "onboard_time": 1679071822,
+        "rank": 26,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 37826,
+        "num": 37826,
+        "word": "广东一名消防员在灭火战斗中牺牲",
+        "onboard_time": 1679058087,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37473,
+        "num": 37473,
+        "word": "水哥家里有个小森林",
+        "onboard_time": 1679068588,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37283,
+        "num": 37283,
+        "word": "小学生第一次听周杰伦的歌",
+        "onboard_time": 1679055026,
+        "rank": 29,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 37057,
+        "num": 37057,
+        "word": "张译带着悬疑刑侦硬菜剧来了",
+        "onboard_time": 1679069485,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 36267,
+        "num": 36267,
+        "word": "天官赐福",
+        "onboard_time": 1679047472,
+        "rank": 31,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 36011,
+        "num": 36011,
+        "word": "鹿晗在厨房洗头",
+        "onboard_time": 1679064270,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35599,
+        "num": 35599,
+        "word": "关晓彤香槟色水光裙",
+        "onboard_time": 1679061451,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 34239,
+        "num": 34239,
+        "word": "女子腹痛就医竟怀孕足月生下男婴",
+        "onboard_time": 1679036069,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31813,
+        "num": 31813,
+        "word": "这家凉皮摊前全是100分",
+        "onboard_time": 1679058508,
+        "rank": 35,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 30446,
+        "num": 30446,
+        "word": "姜广涛能不能把声带捐出来",
+        "onboard_time": 1679052869,
+        "rank": 36,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 30358,
+        "num": 30358,
+        "word": "德勤华永回应财政部罚单",
+        "onboard_time": 1679054248,
+        "rank": 37,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 29542,
+        "num": 29542,
+        "word": "毛不易演唱会",
+        "onboard_time": 1679066131,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 29468,
+        "num": 29468,
+        "word": "雎晓雯 谢谢祝福",
+        "onboard_time": 1679050230,
+        "rank": 39,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 28592,
+        "num": 28592,
+        "word": "中国专家抵达孟菲斯动物园",
+        "onboard_time": 1679041288,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28065,
+        "num": 28065,
+        "word": "斗罗大陆2备案",
+        "onboard_time": 1679056170,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 26717,
+        "num": 26717,
+        "word": "28岁徐志胜和38岁陈伟霆同框",
+        "onboard_time": 1679045669,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25762,
+        "num": 25762,
+        "word": "iG花式解读电影龙与地下城",
+        "onboard_time": 1679068227,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 25648,
+        "num": 25648,
+        "word": "光渊",
+        "onboard_time": 1679058569,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 24482,
+        "num": 24482,
+        "word": "郭艾伦被谁绊倒了",
+        "onboard_time": 1679064454,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24129,
+        "num": 24129,
+        "word": "2023F1沙特大奖赛",
+        "onboard_time": 1679076794,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23913,
+        "num": 23913,
+        "word": "研究表明养猫养狗或影响睡眠",
+        "onboard_time": 1679077875,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23591,
+        "num": 23591,
+        "word": "大江大河3海报",
+        "onboard_time": 1679062291,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 21947,
+        "num": 23589,
+        "word": "井柏然说第十一集真美好",
+        "onboard_time": 1679070383,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平将对俄罗斯进行国事访问#"
+    }
+  }
+}

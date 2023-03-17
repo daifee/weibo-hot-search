@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1679077326644,
+  "endTime": 1679078196212,
   "band_list": [
     {
       "raw_hot": 9458443,
@@ -6083,6 +6083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 277254,
+      "num": 277254,
+      "word": "富豪出10万美元请女子摘口罩遭拒",
+      "onboard_time": 1679074218,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 276983,
       "num": 276983,
       "word": "马龙4比0邱党",
@@ -6753,14 +6761,6 @@
       "onboard_time": 1678677809,
       "rank": 44,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 238607,
-      "num": 238607,
-      "word": "富豪出10万美元请女子摘口罩遭拒",
-      "onboard_time": 1679074218,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 238554,
@@ -10857,6 +10857,14 @@
       "onboard_time": 1678749139,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 23913,
+      "num": 23913,
+      "word": "研究表明养猫养狗或影响睡眠",
+      "onboard_time": 1679077875,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 23846,
