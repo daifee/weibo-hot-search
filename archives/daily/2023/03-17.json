@@ -1,6 +1,6 @@
 {
   "startTime": 1678984163342,
-  "endTime": 1679026968949,
+  "endTime": 1679027865256,
   "band_list": [
     {
       "raw_hot": 2491186,
@@ -27,7 +27,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1997167,
+      "raw_hot": 2024767,
       "num": 1980637,
       "word": "初三学生被罚站倒地去世",
       "onboard_time": 1679021907,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1939065,
-      "num": 597743,
+      "num": 650907,
       "word": "韩素希说宋慧乔现在是她的了",
       "onboard_time": 1679009902,
       "rank": 10,
@@ -163,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 709115,
+      "num": 709115,
+      "word": "快乐大本营",
+      "onboard_time": 1679026710,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 699230,
       "num": 342404,
       "word": "丫丫吃甘蔗小心翼翼不舍得浪费",
@@ -196,7 +204,7 @@
     },
     {
       "raw_hot": 645423,
-      "num": 511093,
+      "num": 537522,
       "word": "赵丽颖2022年高专业热度明星",
       "onboard_time": 1679024609,
       "rank": 11,
@@ -219,20 +227,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 623643,
+      "num": 623643,
+      "word": "吴谨言在跟郝蕾上表演课",
+      "onboard_time": 1679025509,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 610066,
       "num": 610066,
       "word": "上海迪士尼乐园年卡停售",
       "onboard_time": 1679016506,
       "rank": 33,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 582273,
-      "num": 509530,
-      "word": "吴谨言在跟郝蕾上表演课",
-      "onboard_time": 1679025509,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 552982,
@@ -257,6 +265,14 @@
       "onboard_time": 1678977449,
       "rank": 4,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 524325,
+      "num": 524325,
+      "word": "张颂文 小熊老师",
+      "onboard_time": 1679026108,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 516992,
@@ -419,6 +435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 338517,
+      "num": 338517,
+      "word": "梅根",
+      "onboard_time": 1679025207,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 331664,
       "num": 331664,
       "word": "阿森纳淘汰",
@@ -433,14 +457,6 @@
       "onboard_time": 1679013328,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 324032,
-      "num": 324032,
-      "word": "梅根",
-      "onboard_time": 1679025207,
-      "rank": 23,
-      "category": "影视"
     },
     {
       "raw_hot": 318944,
@@ -467,14 +483,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 294571,
-      "num": 294571,
-      "word": "张颂文 小熊老师",
-      "onboard_time": 1679026108,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 291028,
       "num": 291028,
       "word": "父母的衰老会让你感到害怕吗",
@@ -491,20 +499,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 290899,
+      "num": 290899,
+      "word": "张杰的宣传委员",
+      "onboard_time": 1679025749,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 288087,
       "num": 288087,
       "word": "科学家在中国发现脖子最长恐龙",
       "onboard_time": 1679002332,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 287140,
-      "num": 287140,
-      "word": "张杰的宣传委员",
-      "onboard_time": 1679025749,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 285453,
@@ -521,14 +529,6 @@
       "onboard_time": 1679011105,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 252192,
-      "num": 252192,
-      "word": "快乐大本营",
-      "onboard_time": 1679026710,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 251017,
@@ -555,12 +555,28 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 239325,
+      "num": 239325,
+      "word": "半天妖垃圾桶捞回餐食又端给顾客",
+      "onboard_time": 1679027310,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 235640,
       "num": 235640,
       "word": "蛋仔派对",
       "onboard_time": 1679009784,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 234185,
+      "num": 234185,
+      "word": "INTO1微博之夜官宣",
+      "onboard_time": 1679023827,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 232727,
@@ -584,14 +600,6 @@
       "word": "杨坤一直对那英说马嘉祺",
       "onboard_time": 1679012727,
       "rank": 27,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 219425,
-      "num": 219425,
-      "word": "INTO1微博之夜官宣",
-      "onboard_time": 1679023827,
-      "rank": 35,
       "category": "综艺"
     },
     {
@@ -635,6 +643,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 204428,
+      "num": 204428,
+      "word": "跌了17个月后房价涨了",
+      "onboard_time": 1679027249,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203010,
+      "num": 203010,
+      "word": "春家小姐是讼师定档",
+      "onboard_time": 1679027068,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 200059,
       "num": 200059,
       "word": "国防部说台湾当归",
@@ -657,6 +681,14 @@
       "onboard_time": 1679015190,
       "rank": 32,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 196329,
+      "num": 196329,
+      "word": "白夜极光",
+      "onboard_time": 1679027428,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 192946,
@@ -905,6 +937,14 @@
       "onboard_time": 1678970849,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115652,
+      "num": 115652,
+      "word": "花亦山心之月",
+      "onboard_time": 1679027010,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 110573,
