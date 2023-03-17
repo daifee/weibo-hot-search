@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1679024027262,
+  "endTime": 1679026968949,
   "band_list": [
     {
       "raw_hot": 8307302,
@@ -64,6 +64,14 @@
       "word": "蔚来险遭强奸女员工发声",
       "onboard_time": 1678782450,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2491186,
+      "num": 2491186,
+      "word": "女子领证当天在星巴克化妆遭驱赶",
+      "onboard_time": 1679022869,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -179,20 +187,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1997167,
+      "num": 1980637,
+      "word": "初三学生被罚站倒地去世",
+      "onboard_time": 1679021907,
+      "rank": 4,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1994978,
       "num": 465267,
       "word": "宁艺卓右眼几乎看不到",
       "onboard_time": 1678776508,
       "rank": 10,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1980637,
-      "num": 1980637,
-      "word": "初三学生被罚站倒地去世",
-      "onboard_time": 1679021907,
-      "rank": 4,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1962449,
@@ -923,6 +931,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 977207,
+      "num": 977207,
+      "word": "尹锡悦向日本国旗鞠躬画面引争议",
+      "onboard_time": 1679021250,
+      "rank": 46,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 975492,
       "num": 975492,
       "word": "张译王骁高叶狂飙后再同框",
@@ -1057,14 +1073,6 @@
       "onboard_time": 1679018067,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 906039,
-      "num": 906039,
-      "word": "尹锡悦向日本国旗鞠躬画面引争议",
-      "onboard_time": 1679021250,
-      "rank": 46,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 897766,
@@ -1867,14 +1875,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 667180,
-      "num": 551070,
-      "word": "女子领证当天在星巴克化妆遭驱赶",
-      "onboard_time": 1679022869,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 664156,
       "num": 295643,
       "word": "百度正式发布文心一言",
@@ -2001,6 +2001,14 @@
       "onboard_time": 1678957228,
       "rank": 15,
       "category": "美食"
+    },
+    {
+      "raw_hot": 645423,
+      "num": 511093,
+      "word": "赵丽颖2022年高专业热度明星",
+      "onboard_time": 1679024609,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 644693,
@@ -2299,6 +2307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 582273,
+      "num": 509530,
+      "word": "吴谨言在跟郝蕾上表演课",
+      "onboard_time": 1679025509,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 581942,
       "num": 581942,
       "word": "文东恩在监狱当老师",
@@ -2449,6 +2465,14 @@
       "onboard_time": 1678761505,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 552982,
+      "num": 552982,
+      "word": "李健 北城老师",
+      "onboard_time": 1679025268,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 551946,
@@ -3691,6 +3715,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 415212,
+      "num": 415212,
+      "word": "多位在美华人接力守护丫丫",
+      "onboard_time": 1679021428,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 415091,
       "num": 415091,
       "word": "微软将把聊天机器人技术植入Office",
@@ -3825,6 +3857,14 @@
       "onboard_time": 1678734671,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 396324,
+      "num": 396324,
+      "word": "上海迪士尼回应停售年卡",
+      "onboard_time": 1679023950,
+      "rank": 41,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 395841,
@@ -3977,6 +4017,14 @@
       "onboard_time": 1678700665,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 380801,
+      "num": 380801,
+      "word": "杨和苏门票",
+      "onboard_time": 1679025330,
+      "rank": 19,
+      "category": "音乐"
     },
     {
       "raw_hot": 379509,
@@ -4169,6 +4217,14 @@
       "onboard_time": 1678709966,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 358463,
+      "num": 358463,
+      "word": "黑暗荣耀剧组真的会精分吧",
+      "onboard_time": 1679024549,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 357520,
@@ -4619,6 +4675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 324032,
+      "num": 324032,
+      "word": "梅根",
+      "onboard_time": 1679025207,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 323037,
       "num": 323037,
       "word": "张大大给赵继伟送周杰伦演唱会门票",
@@ -4721,6 +4785,14 @@
       "onboard_time": 1678804952,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 316303,
+      "num": 316303,
+      "word": "专家称未来养老金很难大幅上涨",
+      "onboard_time": 1679021489,
+      "rank": 31,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 315943,
@@ -4939,6 +5011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 294571,
+      "num": 294571,
+      "word": "张颂文 小熊老师",
+      "onboard_time": 1679026108,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 292846,
       "num": 292846,
       "word": "重紫之雪仙情定档",
@@ -5003,12 +5083,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 287140,
+      "num": 287140,
+      "word": "张杰的宣传委员",
+      "onboard_time": 1679025749,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 286506,
       "num": 286506,
       "word": "沙特",
       "onboard_time": 1678945406,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 285453,
+      "num": 285453,
+      "word": "张俪吐槽自己眼泪拐弯",
+      "onboard_time": 1679022448,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 284908,
@@ -5411,14 +5507,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 259875,
-      "num": 259875,
-      "word": "多位在美华人接力守护丫丫",
-      "onboard_time": 1679021428,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 259243,
       "num": 92082,
       "word": "孙怡演技状态",
@@ -5528,6 +5616,14 @@
       "word": "张雨绮谈暧昧拉扯",
       "onboard_time": 1678923984,
       "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 252192,
+      "num": 252192,
+      "word": "快乐大本营",
+      "onboard_time": 1679026710,
+      "rank": 32,
       "category": "综艺"
     },
     {
@@ -5723,14 +5819,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 240446,
-      "num": 240446,
-      "word": "张俪吐槽自己眼泪拐弯",
-      "onboard_time": 1679022448,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 240221,
       "num": 240221,
       "word": "保你平安票房破2亿",
@@ -5825,14 +5913,6 @@
       "onboard_time": 1678966827,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 233291,
-      "num": 233291,
-      "word": "专家称未来养老金很难大幅上涨",
-      "onboard_time": 1679021489,
-      "rank": 31,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 233141,
@@ -6115,6 +6195,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 219425,
+      "num": 219425,
+      "word": "INTO1微博之夜官宣",
+      "onboard_time": 1679023827,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 218291,
       "num": 218291,
       "word": "张译他是谁片场和猫咪对话",
@@ -6169,6 +6257,14 @@
       "onboard_time": 1678976790,
       "rank": 48,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 216337,
+      "num": 216337,
+      "word": "陈立农白色花朵西装",
+      "onboard_time": 1679026710,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 216237,
@@ -6233,6 +6329,14 @@
       "onboard_time": 1678950808,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 212697,
+      "num": 191406,
+      "word": "阿雅说王伟忠是行走的台湾综艺史",
+      "onboard_time": 1679025689,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 212437,
@@ -7475,6 +7579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 163697,
+      "num": 163697,
+      "word": "如月过审下证",
+      "onboard_time": 1679025749,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 163407,
       "num": 163407,
       "word": "张译亮相亚洲电影大奖",
@@ -7657,14 +7769,6 @@
       "onboard_time": 1678769372,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 156829,
-      "num": 156829,
-      "word": "INTO1微博之夜官宣",
-      "onboard_time": 1679023827,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 156497,
@@ -8235,14 +8339,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 130434,
-      "num": 130434,
-      "word": "上海迪士尼回应停售年卡",
-      "onboard_time": 1679023950,
-      "rank": 41,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 129832,
       "num": 129832,
       "word": "瞬息全宇宙奥斯卡最佳影片",
@@ -8307,6 +8403,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 125599,
+      "num": 125599,
+      "word": "张译抬眸",
+      "onboard_time": 1679023709,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 123733,
       "num": 123733,
       "word": "龙与地下城彩墨风怪物海报",
@@ -8361,14 +8465,6 @@
       "onboard_time": 1678933466,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 121821,
-      "num": 121821,
-      "word": "张译抬眸",
-      "onboard_time": 1679023709,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 121465,
