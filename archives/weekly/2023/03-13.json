@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1679160820168,
+  "endTime": 1679163689771,
   "band_list": [
     {
       "raw_hot": 9458443,
@@ -12259,6 +12259,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 97387,
+      "num": 97387,
+      "word": "F1",
+      "onboard_time": 1679160977,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 97369,
       "num": 81044,
       "word": "徐正溪新剧造型",
@@ -12611,6 +12619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 66281,
+      "num": 66281,
+      "word": "这猫真的不是人变得吗",
+      "onboard_time": 1679159720,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 65974,
       "num": 65974,
       "word": "TTG战胜LGD",
@@ -12755,14 +12771,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 49059,
-      "num": 49124,
-      "word": "这猫真的不是人变得吗",
-      "onboard_time": 1679159720,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 48585,
       "num": 1590409,
       "word": "这支船队守望祖国的星空",
@@ -12801,6 +12809,14 @@
       "onboard_time": 1678849346,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 32996,
+      "num": 32996,
+      "word": "GEN战胜DK",
+      "onboard_time": 1679161638,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 32004,

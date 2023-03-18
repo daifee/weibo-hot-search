@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679160820168,
+  "endTime": 1679163689771,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -35763,6 +35763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 66281,
+      "num": 66281,
+      "word": "这猫真的不是人变得吗",
+      "onboard_time": 1679159720,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 64954,
       "num": 64954,
       "word": "卓沅说他一年赚不到2万块",
@@ -36123,14 +36131,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 49059,
-      "num": 49124,
-      "word": "这猫真的不是人变得吗",
-      "onboard_time": 1679159720,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 48682,
       "num": 839062,
       "word": "青春主场",
@@ -36401,6 +36401,14 @@
       "onboard_time": 1677590731,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 32996,
+      "num": 32996,
+      "word": "GEN战胜DK",
+      "onboard_time": 1679161638,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 32965,
