@@ -1,10 +1,10 @@
 {
   "startTime": 1679070330564,
-  "endTime": 1679138099248,
+  "endTime": 1679139215673,
   "band_list": [
     {
       "raw_hot": 3685659,
-      "num": 548920,
+      "num": 556805,
       "word": "重庆大学",
       "onboard_time": 1679109331,
       "rank": 38,
@@ -67,7 +67,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2143430,
+      "raw_hot": 2280832,
       "num": 816714,
       "word": "被造黄谣女生决定不采取自诉",
       "onboard_time": 1679136628,
@@ -97,6 +97,14 @@
       "onboard_time": 1679096482,
       "rank": 1,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 1543662,
+      "num": 712794,
+      "word": "曹曦月",
+      "onboard_time": 1679137350,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 1520479,
@@ -412,7 +420,7 @@
     },
     {
       "raw_hot": 615807,
-      "num": 414947,
+      "num": 554643,
       "word": "刘亦菲 活动",
       "onboard_time": 1679135489,
       "rank": 35,
@@ -483,6 +491,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 556837,
+      "num": 556837,
+      "word": "陷入我们的热恋",
+      "onboard_time": 1679137529,
+      "rank": 9,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 555251,
+      "num": 555251,
+      "word": "女子称离职被拒HR招人又招到自己",
+      "onboard_time": 1679137648,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 551279,
       "num": 551279,
       "word": "印度男子因新娘高中成绩差退婚",
@@ -521,14 +545,6 @@
       "onboard_time": 1679110167,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 500040,
-      "num": 412543,
-      "word": "曹曦月",
-      "onboard_time": 1679137350,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 490145,
@@ -633,14 +649,6 @@
       "onboard_time": 1679059470,
       "rank": 9,
       "category": "影视"
-    },
-    {
-      "raw_hot": 422039,
-      "num": 422039,
-      "word": "陷入我们的热恋",
-      "onboard_time": 1679137529,
-      "rank": 9,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 417983,
@@ -761,6 +769,14 @@
       "onboard_time": 1679132247,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 360413,
+      "num": 360413,
+      "word": "花三三卢靖姗合照",
+      "onboard_time": 1679138188,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 352317,
@@ -1043,6 +1059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 227031,
+      "num": 227031,
+      "word": "哈利波特看到都愣住了",
+      "onboard_time": 1679135788,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 223282,
       "num": 223282,
       "word": "樊振东王楚钦战胜韩国组合夺冠",
@@ -1137,6 +1161,14 @@
       "onboard_time": 1679117368,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 208352,
+      "num": 208352,
+      "word": "范丞丞直播",
+      "onboard_time": 1679138251,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 208034,
@@ -1419,6 +1451,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 167568,
+      "num": 167568,
+      "word": "强盛公司勾兑盐水冒充神药坑骗老人",
+      "onboard_time": 1679138729,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166236,
       "num": 166236,
       "word": "他是谁真敢拍",
@@ -1433,14 +1473,6 @@
       "onboard_time": 1679107888,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 163848,
-      "num": 163848,
-      "word": "哈利波特看到都愣住了",
-      "onboard_time": 1679135788,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 163662,
@@ -1467,20 +1499,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 160192,
+      "num": 160192,
+      "word": "这猫咪经历了什么",
+      "onboard_time": 1679135425,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 156430,
       "num": 156430,
       "word": "魏大勋大侦探靠一句话洗脱嫌疑",
       "onboard_time": 1679051131,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 155235,
-      "num": 155235,
-      "word": "女子称离职被拒HR招人又招到自己",
-      "onboard_time": 1679137648,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 153492,
@@ -1561,14 +1593,6 @@
       "onboard_time": 1679058508,
       "rank": 31,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 140748,
-      "num": 140748,
-      "word": "这猫咪经历了什么",
-      "onboard_time": 1679135425,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 138771,
@@ -1705,6 +1729,14 @@
       "onboard_time": 1679055026,
       "rank": 35,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 121766,
+      "num": 121766,
+      "word": "中国花游混双首次夺得世界杯冠军",
+      "onboard_time": 1679138908,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 120501,

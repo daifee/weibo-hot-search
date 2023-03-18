@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1679138099248,
+  "endTime": 1679139215673,
   "band_list": [
     {
       "raw_hot": 9458443,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 3685659,
-      "num": 548920,
+      "num": 556805,
       "word": "重庆大学",
       "onboard_time": 1679109331,
       "rank": 38,
@@ -171,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2280832,
+      "num": 816714,
+      "word": "被造黄谣女生决定不采取自诉",
+      "onboard_time": 1679136628,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2268157,
       "num": 2066944,
       "word": "何老师这辈子眼睛没瞪这么大过",
@@ -248,14 +256,6 @@
       "word": "丫丫吃甘蔗小心翼翼不舍得浪费",
       "onboard_time": 1678974689,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2143430,
-      "num": 816714,
-      "word": "被造黄谣女生决定不采取自诉",
-      "onboard_time": 1679136628,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -585,6 +585,14 @@
       "onboard_time": 1679027249,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1543662,
+      "num": 712794,
+      "word": "曹曦月",
+      "onboard_time": 1679137350,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 1538746,
@@ -2900,7 +2908,7 @@
     },
     {
       "raw_hot": 615807,
-      "num": 414947,
+      "num": 554643,
       "word": "刘亦菲 活动",
       "onboard_time": 1679135489,
       "rank": 35,
@@ -3291,6 +3299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 556837,
+      "num": 556837,
+      "word": "陷入我们的热恋",
+      "onboard_time": 1679137529,
+      "rank": 9,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 556568,
       "num": 556568,
       "word": "全员加速中3开录了",
@@ -3320,6 +3336,14 @@
       "word": "中国专家抵达孟菲斯动物园",
       "onboard_time": 1679041288,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 555251,
+      "num": 555251,
+      "word": "女子称离职被拒HR招人又招到自己",
+      "onboard_time": 1679137648,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -3833,14 +3857,6 @@
       "onboard_time": 1678770928,
       "rank": 32,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 500040,
-      "num": 412543,
-      "word": "曹曦月",
-      "onboard_time": 1679137350,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 499516,
@@ -4763,14 +4779,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 422039,
-      "num": 422039,
-      "word": "陷入我们的热恋",
-      "onboard_time": 1679137529,
-      "rank": 9,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 420778,
       "num": 414785,
       "word": "蓝蛙餐厅被立案调查",
@@ -5529,6 +5537,14 @@
       "onboard_time": 1678940370,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 360413,
+      "num": 360413,
+      "word": "花三三卢靖姗合照",
+      "onboard_time": 1679138188,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 359844,
@@ -7955,6 +7971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 227031,
+      "num": 227031,
+      "word": "哈利波特看到都愣住了",
+      "onboard_time": 1679135788,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 224784,
       "num": 224784,
       "word": "樊振东4比2莫雷加德",
@@ -8361,6 +8385,14 @@
       "onboard_time": 1678977150,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 208352,
+      "num": 208352,
+      "word": "范丞丞直播",
+      "onboard_time": 1679138251,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 208291,
@@ -9995,6 +10027,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 167568,
+      "num": 167568,
+      "word": "强盛公司勾兑盐水冒充神药坑骗老人",
+      "onboard_time": 1679138729,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166431,
       "num": 166431,
       "word": "免费评书机暗藏天价神药骗局",
@@ -10073,14 +10113,6 @@
       "onboard_time": 1678783469,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 163848,
-      "num": 163848,
-      "word": "哈利波特看到都愣住了",
-      "onboard_time": 1679135788,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 163752,
@@ -10211,6 +10243,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 160192,
+      "num": 160192,
+      "word": "这猫咪经历了什么",
+      "onboard_time": 1679135425,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 159511,
       "num": 159511,
       "word": "湖北消费券",
@@ -10337,14 +10377,6 @@
       "onboard_time": 1678869028,
       "rank": 45,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 155235,
-      "num": 155235,
-      "word": "女子称离职被拒HR招人又招到自己",
-      "onboard_time": 1679137648,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 155140,
@@ -10761,14 +10793,6 @@
       "onboard_time": 1679045371,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 140748,
-      "num": 140748,
-      "word": "这猫咪经历了什么",
-      "onboard_time": 1679135425,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 140607,
@@ -11337,6 +11361,14 @@
       "onboard_time": 1679048252,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 121766,
+      "num": 121766,
+      "word": "中国花游混双首次夺得世界杯冠军",
+      "onboard_time": 1679138908,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 121465,
