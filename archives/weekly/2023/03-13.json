@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1679114211750,
+  "endTime": 1679116598988,
   "band_list": [
     {
       "raw_hot": 9458443,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 3685659,
-      "num": 507730,
+      "num": 548920,
       "word": "重庆大学",
       "onboard_time": 1679109331,
       "rank": 38,
@@ -113,6 +113,14 @@
       "onboard_time": 1678884574,
       "rank": 14,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 2382510,
+      "num": 1465035,
+      "word": "苏州大学通报男生P图造女生黄谣",
+      "onboard_time": 1679110048,
+      "rank": 28,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 2343024,
@@ -555,14 +563,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1485839,
-      "num": 1333599,
-      "word": "苏州大学通报男生P图造女生黄谣",
-      "onboard_time": 1679110048,
-      "rank": 28,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 1471468,
       "num": 380967,
       "word": "王鹤棣赵露思三亚同框",
@@ -675,6 +675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1349743,
+      "num": 1349743,
+      "word": "张俪发际线粉掉了",
+      "onboard_time": 1679115330,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1340194,
       "num": 1340194,
       "word": "女双",
@@ -729,6 +737,14 @@
       "onboard_time": 1679047472,
       "rank": 6,
       "category": "影视,艺人"
+    },
+    {
+      "raw_hot": 1277614,
+      "num": 1277614,
+      "word": "肯德基全家桶被曝吃出生的炸鸡",
+      "onboard_time": 1679113650,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1272247,
@@ -1307,6 +1323,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 932644,
+      "num": 932644,
+      "word": "赛琳娜现身霉霉演唱会",
+      "onboard_time": 1679115931,
+      "rank": 6,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 927457,
       "num": 240846,
       "word": "肖战2022年高带货力明星",
@@ -1516,7 +1540,7 @@
     },
     {
       "raw_hot": 869989,
-      "num": 500547,
+      "num": 533571,
       "word": "王诗龄放假回国",
       "onboard_time": 1679108550,
       "rank": 10,
@@ -2507,6 +2531,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 651770,
+      "num": 651770,
+      "word": "独行侠绝杀湖人",
+      "onboard_time": 1679116228,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 651461,
       "num": 565002,
       "word": "杨幂的摩天轮比耶照",
@@ -3068,7 +3100,7 @@
     },
     {
       "raw_hot": 558124,
-      "num": 407171,
+      "num": 531800,
       "word": "时代少年团全员真实身高",
       "onboard_time": 1679113468,
       "rank": 13,
@@ -3361,6 +3393,14 @@
       "onboard_time": 1678776748,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 526444,
+      "num": 526444,
+      "word": "JINNI开通ins",
+      "onboard_time": 1679116410,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 524296,
@@ -4257,6 +4297,14 @@
       "onboard_time": 1679051010,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 441386,
+      "num": 441386,
+      "word": "张大大官宣加盟微博之夜",
+      "onboard_time": 1679114729,
+      "rank": 16,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 440533,
@@ -6035,6 +6083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 308187,
+      "num": 308187,
+      "word": "cruel summer",
+      "onboard_time": 1679115269,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 307169,
       "num": 307169,
       "word": "大江大河3海报",
@@ -6113,14 +6169,6 @@
       "onboard_time": 1678720347,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 300170,
-      "num": 174442,
-      "word": "肯德基全家桶被曝吃出生的炸鸡",
-      "onboard_time": 1679113650,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 299312,
@@ -7195,6 +7243,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 234491,
+      "num": 234491,
+      "word": "光与夜之恋主线",
+      "onboard_time": 1679114489,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 234185,
       "num": 234185,
       "word": "INTO1微博之夜官宣",
@@ -7489,6 +7545,14 @@
       "onboard_time": 1678969472,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 227469,
+      "num": 227469,
+      "word": "名侦探学院 小芒",
+      "onboard_time": 1679116530,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 227374,
@@ -7811,6 +7875,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 210942,
+      "num": 210942,
+      "word": "张元英棕色牛仔造型",
+      "onboard_time": 1679112930,
+      "rank": 31,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 210713,
       "num": 210713,
       "word": "洛音凡被重紫杀死",
@@ -8027,6 +8099,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 204991,
+      "num": 204991,
+      "word": "张雨绮官宣加盟微博之夜",
+      "onboard_time": 1679116530,
+      "rank": 32,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 204959,
       "num": 204959,
       "word": "吉林省考",
@@ -8121,14 +8201,6 @@
       "onboard_time": 1678948165,
       "rank": 27,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 202938,
-      "num": 202938,
-      "word": "张元英棕色牛仔造型",
-      "onboard_time": 1679112930,
-      "rank": 31,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 202891,
@@ -8393,6 +8465,14 @@
       "onboard_time": 1679041169,
       "rank": 33,
       "category": "社会新闻,社会新闻"
+    },
+    {
+      "raw_hot": 198017,
+      "num": 198017,
+      "word": "薛之谦巡演衢州登船彩排",
+      "onboard_time": 1679115388,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 197554,
@@ -8963,6 +9043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184240,
+      "num": 184240,
+      "word": "徐娇中分刘海",
+      "onboard_time": 1679116171,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 184196,
       "num": 164191,
       "word": "陆虎 扬州",
@@ -9209,6 +9297,14 @@
       "onboard_time": 1678805192,
       "rank": 40,
       "category": "教育"
+    },
+    {
+      "raw_hot": 174683,
+      "num": 174683,
+      "word": "归路删减剧情",
+      "onboard_time": 1679114310,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 173828,
@@ -9467,6 +9563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 163662,
+      "num": 163662,
+      "word": "残夏终于有现场了",
+      "onboard_time": 1679115269,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 163407,
       "num": 163407,
       "word": "张译亮相亚洲电影大奖",
@@ -9481,6 +9585,14 @@
       "onboard_time": 1678877847,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 162505,
+      "num": 162505,
+      "word": "你好星期六全员模仿欢迎光临表情包",
+      "onboard_time": 1679115269,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 162010,
@@ -10299,6 +10411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 134186,
+      "num": 134186,
+      "word": "国产剧疯批美人盘点",
+      "onboard_time": 1679116530,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 134181,
       "num": 134181,
       "word": "威少15分",
@@ -10665,6 +10785,14 @@
       "onboard_time": 1678963228,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 116953,
+      "num": 116953,
+      "word": "10岁女孩一字马轮滑过12辆车车底",
+      "onboard_time": 1679115868,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 116844,
@@ -11658,6 +11786,9 @@
     },
     {
       "word": "#推动思政课建设内涵式发展#"
+    },
+    {
+      "word": "#大国外交定能破浪远航#"
     }
   ]
 }
