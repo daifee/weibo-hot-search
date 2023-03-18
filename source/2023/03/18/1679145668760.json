@@ -1,0 +1,410 @@
+{
+  "runTime": 1679145668760,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1431227,
+        "num": 1431227,
+        "word": "强盛公司勾兑盐水冒充神药坑骗老人",
+        "onboard_time": 1679138729,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 758227,
+        "num": 758227,
+        "word": "20万请曹姓明星带货3月成交278元",
+        "onboard_time": 1679131647,
+        "rank": 1,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 129751,
+        "num": 662273,
+        "word": "这段跨越千年的对话令人骄傲又感动",
+        "onboard_time": 1679142929,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 650569,
+        "num": 650569,
+        "word": "霉霉唱了44首歌",
+        "onboard_time": 1679141548,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 609620,
+        "num": 609620,
+        "word": "乌总统夫人讲述乌妇女用罐头击落俄无人机",
+        "onboard_time": 1679143708,
+        "rank": 4,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 828422,
+        "num": 600360,
+        "word": "苏州大学造黄谣学生与受害者对话曝光",
+        "onboard_time": 1679121209,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 591068,
+        "num": 591068,
+        "word": "女子称离职被拒HR招人又招到自己",
+        "onboard_time": 1679137648,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 529368,
+        "num": 529368,
+        "word": "光渊更不更",
+        "onboard_time": 1679142327,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 680049,
+        "num": 528133,
+        "word": "被造黄谣女生决定不采取自诉",
+        "onboard_time": 1679136628,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 448558,
+        "num": 448558,
+        "word": "马龙vs雨果",
+        "onboard_time": 1679141609,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1526995,
+        "num": 445015,
+        "word": "曹曦月",
+        "onboard_time": 1679137350,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1096282,
+        "num": 441650,
+        "word": "这才是吸毒前后真实的面容变化",
+        "onboard_time": 1679125645,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 833397,
+        "num": 437893,
+        "word": "花三三卢靖姗合照",
+        "onboard_time": 1679138188,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 548953,
+        "num": 435422,
+        "word": "BLG战胜TES",
+        "onboard_time": 1679145210,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 433909,
+        "num": 433909,
+        "word": "TES对战BLG",
+        "onboard_time": 1679141429,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 394015,
+        "num": 394015,
+        "word": "闪光灯",
+        "onboard_time": 1679141789,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 382875,
+        "num": 382875,
+        "word": "人真的不能不上班",
+        "onboard_time": 1679126247,
+        "rank": 16,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 375485,
+        "num": 375485,
+        "word": "魏大勋敲在杨超越的发夹上",
+        "onboard_time": 1679132907,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 360934,
+        "num": 360934,
+        "word": "孙怡猫眼妆",
+        "onboard_time": 1679144249,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 339489,
+        "num": 339489,
+        "word": "为什么工作后很难谈恋爱了",
+        "onboard_time": 1679132486,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 916662,
+        "num": 337979,
+        "word": "张隆 李梦",
+        "onboard_time": 1679120426,
+        "rank": 20,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 326482,
+        "num": 326482,
+        "word": "薛之谦演唱会衢州",
+        "onboard_time": 1679140708,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 544605,
+        "num": 326433,
+        "word": "李梦",
+        "onboard_time": 1679118686,
+        "rank": 22,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 737028,
+        "num": 326236,
+        "word": "TES四连败",
+        "onboard_time": 1679145451,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 326033,
+        "num": 326033,
+        "word": "重庆大学",
+        "onboard_time": 1679109331,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317923,
+        "num": 317923,
+        "word": "西南大学开设公务员专业",
+        "onboard_time": 1679145027,
+        "rank": 25,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 288465,
+        "num": 288465,
+        "word": "刘亦菲 活动",
+        "onboard_time": 1679135489,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273219,
+        "num": 273219,
+        "word": "马龙晋级大满贯决赛",
+        "onboard_time": 1679144968,
+        "rank": 27,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 254721,
+        "num": 254721,
+        "word": "玫瑰花的葬礼现在是鹭卓的禁曲",
+        "onboard_time": 1679133928,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251918,
+        "num": 251918,
+        "word": "女孩回应大学毕业回村当选村长走红",
+        "onboard_time": 1679144186,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249903,
+        "num": 249903,
+        "word": "你好星期六下周有两对cp",
+        "onboard_time": 1679145268,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249804,
+        "num": 249804,
+        "word": "樊振东晋级大满贯决赛",
+        "onboard_time": 1679141248,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 243428,
+        "num": 243428,
+        "word": "粉丝叫费曼饭焖",
+        "onboard_time": 1679144730,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232790,
+        "num": 232790,
+        "word": "陷入我们的热恋",
+        "onboard_time": 1679137529,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 225062,
+        "num": 225062,
+        "word": "LESSERAFIM用应援棒卷发",
+        "onboard_time": 1679140468,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 221911,
+        "num": 221911,
+        "word": "樊振东马龙争夺冠军",
+        "onboard_time": 1679145329,
+        "rank": 35,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 196076,
+        "num": 196076,
+        "word": "他是谁",
+        "onboard_time": 1679143827,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 168604,
+        "num": 168604,
+        "word": "宋丹丹汪苏泷孟子义李嘉琦合照",
+        "onboard_time": 1679141908,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194777,
+        "num": 168202,
+        "word": "卫国平 捂胸口",
+        "onboard_time": 1679142869,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 166226,
+        "num": 166226,
+        "word": "你好星期六",
+        "onboard_time": 1679142085,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164801,
+        "num": 164801,
+        "word": "孔雪儿生图",
+        "onboard_time": 1679130025,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160530,
+        "num": 160530,
+        "word": "语文课真的是思想上的抚摸",
+        "onboard_time": 1679133627,
+        "rank": 41,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 148268,
+        "num": 148268,
+        "word": "保你平安票房破3亿",
+        "onboard_time": 1679145510,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 146796,
+        "num": 146796,
+        "word": "哈利波特看到都愣住了",
+        "onboard_time": 1679135788,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144319,
+        "num": 144319,
+        "word": "李现新剧演遗体整容师",
+        "onboard_time": 1679130987,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 143092,
+        "num": 143092,
+        "word": "马嘉祺宋亚轩跑步上课",
+        "onboard_time": 1679134588,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139207,
+        "num": 139207,
+        "word": "小美人鱼主演看预告的反应",
+        "onboard_time": 1679136748,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 133438,
+        "num": 133438,
+        "word": "LPL",
+        "onboard_time": 1679141429,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 131633,
+        "num": 131633,
+        "word": "王嘉尔丁程鑫跳舞",
+        "onboard_time": 1679130507,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131043,
+        "num": 131043,
+        "word": "言灵建模",
+        "onboard_time": 1679143468,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#中俄树立新型国际关系典范#"
+    }
+  }
+}

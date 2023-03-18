@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679143840376,
+  "endTime": 1679145668760,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -4324,7 +4324,7 @@
     },
     {
       "raw_hot": 913478,
-      "num": 414045,
+      "num": 437893,
       "word": "花三三卢靖姗合照",
       "onboard_time": 1679138188,
       "rank": 14,
@@ -6225,6 +6225,14 @@
       "onboard_time": 1677742887,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 737028,
+      "num": 326236,
+      "word": "TES四连败",
+      "onboard_time": 1679145451,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 736543,
@@ -8291,6 +8299,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 609620,
+      "num": 609620,
+      "word": "乌总统夫人讲述乌妇女用罐头击落俄无人机",
+      "onboard_time": 1679143708,
+      "rank": 49,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 609205,
       "num": 766022,
       "word": "育龄青年为什么不愿生了",
@@ -9569,6 +9585,14 @@
       "onboard_time": 1677765269,
       "rank": 30,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 548953,
+      "num": 435422,
+      "word": "BLG战胜TES",
+      "onboard_time": 1679145210,
+      "rank": 13,
+      "category": "游戏"
     },
     {
       "raw_hot": 548302,
@@ -12715,6 +12739,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 433909,
+      "num": 433909,
+      "word": "TES对战BLG",
+      "onboard_time": 1679141429,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 433085,
       "num": 311764,
       "word": "在整个直播界都相当炸裂",
@@ -13907,6 +13939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 394015,
+      "num": 394015,
+      "word": "闪光灯",
+      "onboard_time": 1679141789,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 393971,
       "num": 393971,
       "word": "梅西索要6亿欧年薪是谣言",
@@ -14289,14 +14329,6 @@
       "onboard_time": 1678786349,
       "rank": 9,
       "category": "影视"
-    },
-    {
-      "raw_hot": 383517,
-      "num": 383517,
-      "word": "TES对战BLG",
-      "onboard_time": 1679141429,
-      "rank": 16,
-      "category": "游戏"
     },
     {
       "raw_hot": 383516,
@@ -15225,6 +15257,14 @@
       "onboard_time": 1678940370,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 360934,
+      "num": 360934,
+      "word": "孙怡猫眼妆",
+      "onboard_time": 1679144249,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 360815,
@@ -16939,14 +16979,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 322591,
-      "num": 322591,
-      "word": "闪光灯",
-      "onboard_time": 1679141789,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 322555,
       "num": 322555,
       "word": "成毅抵达巴黎",
@@ -17129,6 +17161,14 @@
       "onboard_time": 1678336235,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 317923,
+      "num": 317923,
+      "word": "西南大学开设公务员专业",
+      "onboard_time": 1679145027,
+      "rank": 25,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 317893,
@@ -19227,6 +19267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 273219,
+      "num": 273219,
+      "word": "马龙晋级大满贯决赛",
+      "onboard_time": 1679144968,
+      "rank": 27,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 273166,
       "num": 264367,
       "word": "王心凌现场好稳",
@@ -20291,6 +20339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 251918,
+      "num": 251918,
+      "word": "女孩回应大学毕业回村当选村长走红",
+      "onboard_time": 1679144186,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 251773,
       "num": 251773,
       "word": "吴兴涵被曝涉假球",
@@ -20441,6 +20497,14 @@
       "onboard_time": 1678677987,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 249903,
+      "num": 249903,
+      "word": "你好星期六下周有两对cp",
+      "onboard_time": 1679145268,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 249825,
@@ -20816,6 +20880,14 @@
       "word": "值得爆红的姐",
       "onboard_time": 1678244008,
       "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 243428,
+      "num": 243428,
+      "word": "粉丝叫费曼饭焖",
+      "onboard_time": 1679144730,
+      "rank": 32,
       "category": "艺人"
     },
     {
@@ -22353,6 +22425,14 @@
       "onboard_time": 1678356386,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 221911,
+      "num": 221911,
+      "word": "樊振东马龙争夺冠军",
+      "onboard_time": 1679145329,
+      "rank": 35,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 221845,
@@ -29859,6 +29939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 148268,
+      "num": 148268,
+      "word": "保你平安票房破3亿",
+      "onboard_time": 1679145510,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 148262,
       "num": 369846,
       "word": "为中国航天点赞",
@@ -31499,6 +31587,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 131043,
+      "num": 131043,
+      "word": "言灵建模",
+      "onboard_time": 1679143468,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 131021,
       "num": 238607,
       "word": "看得出她对吃饭的热情",
@@ -31513,14 +31609,6 @@
       "onboard_time": 1677913465,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 130997,
-      "num": 130997,
-      "word": "言灵建模",
-      "onboard_time": 1679143468,
-      "rank": 43,
-      "category": "游戏"
     },
     {
       "raw_hot": 130963,
@@ -31617,6 +31705,14 @@
       "onboard_time": 1678199970,
       "rank": 29,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 129751,
+      "num": 787972,
+      "word": "这段跨越千年的对话令人骄傲又感动",
+      "onboard_time": 1679142929,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129689,
@@ -33851,14 +33947,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 102027,
-      "num": 108015,
-      "word": "乌总统夫人讲述乌妇女用罐头击落俄无人机",
-      "onboard_time": 1679143708,
-      "rank": 49,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 102013,
       "num": 102013,
       "word": "这是钓鱼的专项训练吧",
@@ -35049,14 +35137,6 @@
       "onboard_time": 1678258166,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 75808,
-      "num": 787972,
-      "word": "这段跨越千年的对话令人骄傲又感动",
-      "onboard_time": 1679142929,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 75666,
@@ -36552,6 +36632,9 @@
     },
     {
       "word": "#中国经济高质量发展#"
+    },
+    {
+      "word": "#中俄树立新型国际关系典范#"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "startTime": 1679070330564,
-  "endTime": 1679143840376,
+  "endTime": 1679145668760,
   "band_list": [
     {
       "raw_hot": 3685659,
@@ -236,7 +236,7 @@
     },
     {
       "raw_hot": 913478,
-      "num": 414045,
+      "num": 437893,
       "word": "花三三卢靖姗合照",
       "onboard_time": 1679138188,
       "rank": 14,
@@ -371,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 737028,
+      "num": 326236,
+      "word": "TES四连败",
+      "onboard_time": 1679145451,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 727659,
       "num": 1066049,
       "word": "朴妍珍的牙",
@@ -483,6 +491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 609620,
+      "num": 609620,
+      "word": "乌总统夫人讲述乌妇女用罐头击落俄无人机",
+      "onboard_time": 1679143708,
+      "rank": 49,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 608054,
       "num": 608054,
       "word": "隔空猥亵受害者多为未成年人",
@@ -553,6 +569,14 @@
       "onboard_time": 1679121388,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 548953,
+      "num": 435422,
+      "word": "BLG战胜TES",
+      "onboard_time": 1679145210,
+      "rank": 13,
+      "category": "游戏"
     },
     {
       "raw_hot": 548088,
@@ -675,6 +699,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 433909,
+      "num": 433909,
+      "word": "TES对战BLG",
+      "onboard_time": 1679141429,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 427595,
       "num": 427595,
       "word": "小智终于去见比雕了",
@@ -723,6 +755,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 394015,
+      "num": 394015,
+      "word": "闪光灯",
+      "onboard_time": 1679141789,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 393971,
       "num": 393971,
       "word": "梅西索要6亿欧年薪是谣言",
@@ -761,14 +801,6 @@
       "onboard_time": 1679123669,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 383517,
-      "num": 383517,
-      "word": "TES对战BLG",
-      "onboard_time": 1679141429,
-      "rank": 16,
-      "category": "游戏"
     },
     {
       "raw_hot": 382042,
@@ -835,6 +867,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 360934,
+      "num": 360934,
+      "word": "孙怡猫眼妆",
+      "onboard_time": 1679144249,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 353763,
       "num": 353763,
       "word": "薛之谦演唱会衢州",
@@ -883,12 +923,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 322591,
-      "num": 322591,
-      "word": "闪光灯",
-      "onboard_time": 1679141789,
-      "rank": 33,
-      "category": "体育"
+      "raw_hot": 317923,
+      "num": 317923,
+      "word": "西南大学开设公务员专业",
+      "onboard_time": 1679145027,
+      "rank": 25,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 316698,
@@ -1003,6 +1043,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 273219,
+      "num": 273219,
+      "word": "马龙晋级大满贯决赛",
+      "onboard_time": 1679144968,
+      "rank": 27,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 272911,
       "num": 272911,
       "word": "人生路遥改名人生之路",
@@ -1043,12 +1091,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 251918,
+      "num": 251918,
+      "word": "女孩回应大学毕业回村当选村长走红",
+      "onboard_time": 1679144186,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 251128,
       "num": 251128,
       "word": "10岁女孩一字马轮滑过12辆车车底",
       "onboard_time": 1679115868,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 249903,
+      "num": 249903,
+      "word": "你好星期六下周有两对cp",
+      "onboard_time": 1679145268,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 248635,
@@ -1089,6 +1153,14 @@
       "onboard_time": 1679064270,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 243428,
+      "num": 243428,
+      "word": "粉丝叫费曼饭焖",
+      "onboard_time": 1679144730,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 240601,
@@ -1177,6 +1249,14 @@
       "onboard_time": 1679138251,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 221911,
+      "num": 221911,
+      "word": "樊振东马龙争夺冠军",
+      "onboard_time": 1679145329,
+      "rank": 35,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 221218,
@@ -1411,6 +1491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 196076,
+      "num": 196076,
+      "word": "他是谁",
+      "onboard_time": 1679065830,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 195920,
       "num": 195920,
       "word": "NBA",
@@ -1513,14 +1601,6 @@
       "onboard_time": 1679047472,
       "rank": 24,
       "category": "动漫,影视"
-    },
-    {
-      "raw_hot": 176790,
-      "num": 176790,
-      "word": "他是谁",
-      "onboard_time": 1679065830,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 176119,
@@ -1659,6 +1739,14 @@
       "category": "财经,科技"
     },
     {
+      "raw_hot": 148268,
+      "num": 148268,
+      "word": "保你平安票房破3亿",
+      "onboard_time": 1679145510,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 148082,
       "num": 148082,
       "word": "WBG战胜NIP",
@@ -1787,8 +1875,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 130997,
-      "num": 130997,
+      "raw_hot": 131043,
+      "num": 131043,
       "word": "言灵建模",
       "onboard_time": 1679143468,
       "rank": 43,
@@ -1801,6 +1889,14 @@
       "onboard_time": 1679080453,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 129751,
+      "num": 787972,
+      "word": "这段跨越千年的对话令人骄傲又感动",
+      "onboard_time": 1679142929,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 127922,
@@ -1987,14 +2083,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 102027,
-      "num": 108015,
-      "word": "乌总统夫人讲述乌妇女用罐头击落俄无人机",
-      "onboard_time": 1679143708,
-      "rank": 49,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 99262,
       "num": 99262,
       "word": "沈月向庄达菲推荐东北澡堂",
@@ -2065,14 +2153,6 @@
       "onboard_time": 1679057187,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 75808,
-      "num": 787972,
-      "word": "这段跨越千年的对话令人骄傲又感动",
-      "onboard_time": 1679142929,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 71297,
@@ -2155,6 +2235,9 @@
     },
     {
       "word": "#中国经济高质量发展#"
+    },
+    {
+      "word": "#中俄树立新型国际关系典范#"
     }
   ]
 }
