@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1679104349428,
+  "endTime": 1679107100643,
   "band_list": [
     {
       "raw_hot": 9458443,
@@ -1891,6 +1891,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 757430,
+      "num": 757430,
+      "word": "水哥的书房",
+      "onboard_time": 1679106088,
+      "rank": 1,
+      "category": "网红"
+    },
+    {
       "raw_hot": 752026,
       "num": 752026,
       "word": "中国人民成为自己命运的主人",
@@ -1977,6 +1985,14 @@
       "onboard_time": 1679035047,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 735588,
+      "num": 735588,
+      "word": "iPhone15ProMax将打破最薄边框纪录",
+      "onboard_time": 1679105666,
+      "rank": 3,
+      "category": "科技"
     },
     {
       "raw_hot": 733886,
@@ -2763,6 +2779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 598789,
+      "num": 598789,
+      "word": "俞敏洪称宁愿当没钱的流浪汉",
+      "onboard_time": 1679103688,
+      "rank": 31,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 595038,
       "num": 595038,
       "word": "阿迪达斯们为何在中国市场不香了",
@@ -2825,6 +2849,14 @@
       "onboard_time": 1678705766,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 584028,
+      "num": 440988,
+      "word": "男孩患鸟面综合症",
+      "onboard_time": 1679106147,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 581942,
@@ -3859,6 +3891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 470012,
+      "num": 437228,
+      "word": "女子称医院延误治疗致儿子甲流死亡",
+      "onboard_time": 1679105546,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 467116,
       "num": 467116,
       "word": "莲花坐垫",
@@ -4257,6 +4297,14 @@
       "onboard_time": 1678758083,
       "rank": 33,
       "category": "财经"
+    },
+    {
+      "raw_hot": 427595,
+      "num": 427595,
+      "word": "小智终于去见比雕了",
+      "onboard_time": 1679102008,
+      "rank": 40,
+      "category": "动漫"
     },
     {
       "raw_hot": 426703,
@@ -5195,6 +5243,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 348682,
+      "num": 348682,
+      "word": "归路断更",
+      "onboard_time": 1679105366,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 348519,
       "num": 319058,
       "word": "郑秀妍教徐老师穿搭",
@@ -5233,6 +5289,14 @@
       "onboard_time": 1678677567,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 346434,
+      "num": 346434,
+      "word": "25岁女生长期熬夜长出老年斑",
+      "onboard_time": 1679106506,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 345729,
@@ -5825,14 +5889,6 @@
       "onboard_time": 1678972710,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 307586,
-      "num": 307586,
-      "word": "小智终于去见比雕了",
-      "onboard_time": 1679102008,
-      "rank": 40,
-      "category": "动漫"
     },
     {
       "raw_hot": 307169,
@@ -6891,6 +6947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 239037,
+      "num": 239037,
+      "word": "黄金",
+      "onboard_time": 1679106267,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 238976,
       "num": 238976,
       "word": "INTO1新歌有110张合照",
@@ -7211,6 +7275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 229044,
+      "num": 229044,
+      "word": "原来蚕娘这个职业一直默默存在",
+      "onboard_time": 1679104348,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 228601,
       "num": 228601,
       "word": "KPL春季赛第五周最佳阵容",
@@ -7305,6 +7377,14 @@
       "onboard_time": 1678855291,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 222513,
+      "num": 222513,
+      "word": "张婧仪花朵耳环",
+      "onboard_time": 1679101528,
+      "rank": 33,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 222053,
@@ -7563,12 +7643,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 210285,
+      "num": 210285,
+      "word": "勇士客场十连败",
+      "onboard_time": 1679105907,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 210156,
       "num": 210156,
       "word": "花琉璃人设",
       "onboard_time": 1678860568,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 209345,
+      "num": 209345,
+      "word": "追星星的人提档",
+      "onboard_time": 1679105186,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 209313,
@@ -8259,14 +8355,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 193566,
-      "num": 193566,
-      "word": "张婧仪花朵耳环",
-      "onboard_time": 1679101528,
-      "rank": 33,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 193347,
       "num": 193347,
       "word": "王楚钦3比0郭勇",
@@ -8491,6 +8579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189257,
+      "num": 189257,
+      "word": "关注孟菲斯天气只因丫丫在那里",
+      "onboard_time": 1679101826,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189015,
       "num": 189015,
       "word": "90花校服造型大赏",
@@ -8569,22 +8665,6 @@
       "onboard_time": 1678705585,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 187705,
-      "num": 187705,
-      "word": "俞敏洪称宁愿当没钱的流浪汉",
-      "onboard_time": 1679103688,
-      "rank": 31,
-      "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 187328,
-      "num": 187328,
-      "word": "关注孟菲斯天气只因丫丫在那里",
-      "onboard_time": 1679101826,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 187145,
@@ -8907,6 +8987,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 174613,
+      "num": 174613,
+      "word": "杨迪壁咚唐嫣",
+      "onboard_time": 1679106689,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 173828,
       "num": 173828,
       "word": "李宇春入选达沃斯2023YGL名单",
@@ -9049,6 +9137,14 @@
       "onboard_time": 1678977809,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 168311,
+      "num": 168311,
+      "word": "林墨模仿高启盛走路",
+      "onboard_time": 1679105186,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 167756,
@@ -10291,6 +10387,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 117425,
+      "num": 117425,
+      "word": "归晓氛围感海报",
+      "onboard_time": 1679106867,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 117418,
       "num": 117418,
       "word": "Cat牛魔好猛",
@@ -10481,6 +10585,14 @@
       "onboard_time": 1678934909,
       "rank": 48,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 105815,
+      "num": 105815,
+      "word": "井柏然和小朋友合照",
+      "onboard_time": 1679107048,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 104527,

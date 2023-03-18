@@ -1,6 +1,6 @@
 {
   "startTime": 1679070330564,
-  "endTime": 1679104349428,
+  "endTime": 1679107100643,
   "band_list": [
     {
       "raw_hot": 1825028,
@@ -83,12 +83,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 757430,
+      "num": 757430,
+      "word": "水哥的书房",
+      "onboard_time": 1679106088,
+      "rank": 1,
+      "category": "网红"
+    },
+    {
       "raw_hot": 743497,
       "num": 743497,
       "word": "身体出现哪些异常是肝脏在预警",
       "onboard_time": 1679099126,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 735588,
+      "num": 735588,
+      "word": "iPhone15ProMax将打破最薄边框纪录",
+      "onboard_time": 1679105666,
+      "rank": 3,
+      "category": "科技"
     },
     {
       "raw_hot": 665568,
@@ -123,12 +139,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 598789,
+      "num": 598789,
+      "word": "俞敏洪称宁愿当没钱的流浪汉",
+      "onboard_time": 1679103688,
+      "rank": 31,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 595038,
       "num": 595038,
       "word": "阿迪达斯们为何在中国市场不香了",
       "onboard_time": 1679099727,
       "rank": 7,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 584028,
+      "num": 440988,
+      "word": "男孩患鸟面综合症",
+      "onboard_time": 1679106147,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 548088,
@@ -155,6 +187,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 470012,
+      "num": 437228,
+      "word": "女子称医院延误治疗致儿子甲流死亡",
+      "onboard_time": 1679105546,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 467116,
       "num": 467116,
       "word": "莲花坐垫",
@@ -177,6 +217,14 @@
       "onboard_time": 1679079193,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 427595,
+      "num": 427595,
+      "word": "小智终于去见比雕了",
+      "onboard_time": 1679102008,
+      "rank": 40,
+      "category": "动漫"
     },
     {
       "raw_hot": 425627,
@@ -251,20 +299,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 348682,
+      "num": 348682,
+      "word": "归路断更",
+      "onboard_time": 1679105366,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 346434,
+      "num": 346434,
+      "word": "25岁女生长期熬夜长出老年斑",
+      "onboard_time": 1679106506,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 313343,
       "num": 313343,
       "word": "金大川雎晓雯 喜酒",
       "onboard_time": 1679047412,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 307586,
-      "num": 307586,
-      "word": "小智终于去见比雕了",
-      "onboard_time": 1679102008,
-      "rank": 40,
-      "category": "动漫"
     },
     {
       "raw_hot": 300671,
@@ -315,6 +371,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 240601,
+      "num": 240601,
+      "word": "光渊",
+      "onboard_time": 1679058569,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 239037,
+      "num": 239037,
+      "word": "黄金",
+      "onboard_time": 1679106267,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 238504,
       "num": 238504,
       "word": "当代年轻人为什么要爆肝",
@@ -329,6 +401,22 @@
       "onboard_time": 1679098224,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 229044,
+      "num": 229044,
+      "word": "原来蚕娘这个职业一直默默存在",
+      "onboard_time": 1679104348,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 222513,
+      "num": 222513,
+      "word": "张婧仪花朵耳环",
+      "onboard_time": 1679101528,
+      "rank": 33,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 221218,
@@ -355,12 +443,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 210285,
+      "num": 210285,
+      "word": "勇士客场十连败",
+      "onboard_time": 1679105907,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 209807,
       "num": 209807,
       "word": "梁博现场",
       "onboard_time": 1679060852,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 209345,
+      "num": 209345,
+      "word": "追星星的人提档",
+      "onboard_time": 1679105186,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 208034,
@@ -411,24 +515,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 193566,
-      "num": 193566,
-      "word": "张婧仪花朵耳环",
-      "onboard_time": 1679101528,
-      "rank": 33,
-      "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 187705,
-      "num": 187705,
-      "word": "俞敏洪称宁愿当没钱的流浪汉",
-      "onboard_time": 1679103688,
-      "rank": 31,
-      "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 187328,
-      "num": 187328,
+      "raw_hot": 189257,
+      "num": 189257,
       "word": "关注孟菲斯天气只因丫丫在那里",
       "onboard_time": 1679101826,
       "rank": 47,
@@ -459,12 +547,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 174613,
+      "num": 174613,
+      "word": "杨迪壁咚唐嫣",
+      "onboard_time": 1679106689,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170867,
       "num": 170867,
       "word": "郭艾伦被谁绊倒了",
       "onboard_time": 1679064454,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 168311,
+      "num": 168311,
+      "word": "林墨模仿高启盛走路",
+      "onboard_time": 1679105186,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 156430,
@@ -489,14 +593,6 @@
       "onboard_time": 1679097986,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 151193,
-      "num": 151193,
-      "word": "光渊",
-      "onboard_time": 1679058569,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 150695,
@@ -587,6 +683,22 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 117425,
+      "num": 117425,
+      "word": "归晓氛围感海报",
+      "onboard_time": 1679106867,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 117194,
+      "num": 110211,
+      "word": "归路",
+      "onboard_time": 1679095880,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 116844,
       "num": 116844,
       "word": "归晓路晨吃一个汉堡",
@@ -649,6 +761,14 @@
       "onboard_time": 1679066190,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 105815,
+      "num": 105815,
+      "word": "井柏然和小朋友合照",
+      "onboard_time": 1679107048,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 103588,
@@ -728,14 +848,6 @@
       "word": "孙怡徐艺洋演同事",
       "onboard_time": 1679057187,
       "rank": 37,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 71729,
-      "num": 71729,
-      "word": "归路",
-      "onboard_time": 1679095880,
-      "rank": 38,
       "category": "影视"
     },
     {

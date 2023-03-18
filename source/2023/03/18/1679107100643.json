@@ -1,0 +1,410 @@
+{
+  "runTime": 1679107100643,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 955495,
+        "num": 955495,
+        "word": "上海7旬大爷结3次婚被分3套房",
+        "onboard_time": 1679101348,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 757430,
+        "num": 757430,
+        "word": "水哥的书房",
+        "onboard_time": 1679106088,
+        "rank": 1,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 25422,
+        "num": 740240,
+        "word": "2022中国科学十大进展",
+        "onboard_time": 1679057729,
+        "rank": 2,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 735588,
+        "num": 735588,
+        "word": "iPhone15ProMax将打破最薄边框纪录",
+        "onboard_time": 1679105666,
+        "rank": 3,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 648093,
+        "num": 648093,
+        "word": "昆明航空向葛优致歉",
+        "onboard_time": 1679098707,
+        "rank": 4,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1254353,
+        "num": 640271,
+        "word": "男教师被举报猥亵女生后坠亡",
+        "onboard_time": 1679096482,
+        "rank": 5,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 598789,
+        "num": 598789,
+        "word": "俞敏洪称宁愿当没钱的流浪汉",
+        "onboard_time": 1679103688,
+        "rank": 6,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 490494,
+        "num": 490494,
+        "word": "我国首次发现奥密克戎新亚型",
+        "onboard_time": 1679084533,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 458551,
+        "num": 458551,
+        "word": "身体出现哪些异常是肝脏在预警",
+        "onboard_time": 1679099126,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 441633,
+        "num": 441633,
+        "word": "他是谁 看yue了",
+        "onboard_time": 1679060550,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 584028,
+        "num": 440988,
+        "word": "男孩患鸟面综合症",
+        "onboard_time": 1679106147,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 474349,
+        "num": 437496,
+        "word": "丫丫胖了一点白了一点",
+        "onboard_time": 1679065230,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 470012,
+        "num": 437228,
+        "word": "女子称医院延误治疗致儿子甲流死亡",
+        "onboard_time": 1679105546,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 427595,
+        "num": 427595,
+        "word": "小智终于去见比雕了",
+        "onboard_time": 1679102008,
+        "rank": 13,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 415660,
+        "num": 415660,
+        "word": "J姐扔海莉产品支持赛琳娜",
+        "onboard_time": 1679097623,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 348682,
+        "num": 348682,
+        "word": "归路断更",
+        "onboard_time": 1679105366,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 346434,
+        "num": 346434,
+        "word": "25岁女生长期熬夜长出老年斑",
+        "onboard_time": 1679106506,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336417,
+        "num": 336417,
+        "word": "文东恩复仇花费",
+        "onboard_time": 1679099487,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 334701,
+        "num": 334701,
+        "word": "肝不好真的会变丑吗",
+        "onboard_time": 1679101047,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332939,
+        "num": 332939,
+        "word": "霉霉全球巡演",
+        "onboard_time": 1679100748,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 357428,
+        "num": 325870,
+        "word": "阿迪达斯们为何在中国市场不香了",
+        "onboard_time": 1679099727,
+        "rank": 20,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 357208,
+        "num": 323354,
+        "word": "男子隐瞒婚史与21岁女孩交往",
+        "onboard_time": 1679064814,
+        "rank": 21,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 293588,
+        "num": 293588,
+        "word": "俄罗斯养的大熊猫",
+        "onboard_time": 1679082312,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289396,
+        "num": 289396,
+        "word": "卫国平终于承认喜欢聂小雨",
+        "onboard_time": 1679099366,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 248976,
+        "num": 248976,
+        "word": "富豪出10万美元请女子摘口罩遭拒",
+        "onboard_time": 1679074218,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245365,
+        "num": 245365,
+        "word": "超市6500元招聘引学生排队投简历",
+        "onboard_time": 1679079193,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240601,
+        "num": 240601,
+        "word": "光渊",
+        "onboard_time": 1679058569,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 239037,
+        "num": 239037,
+        "word": "黄金",
+        "onboard_time": 1679106267,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 229044,
+        "num": 229044,
+        "word": "原来蚕娘这个职业一直默默存在",
+        "onboard_time": 1679104348,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222513,
+        "num": 222513,
+        "word": "张婧仪花朵耳环",
+        "onboard_time": 1679101528,
+        "rank": 29,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 218786,
+        "num": 218786,
+        "word": "24岁女子不会做饭给自己报名小饭桌",
+        "onboard_time": 1679066790,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214720,
+        "num": 214720,
+        "word": "梅西索要6亿欧年薪是谣言",
+        "onboard_time": 1679100329,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210285,
+        "num": 210285,
+        "word": "勇士客场十连败",
+        "onboard_time": 1679105907,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209345,
+        "num": 209345,
+        "word": "追星星的人提档",
+        "onboard_time": 1679105186,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189895,
+        "num": 189895,
+        "word": "好友去世少年凌晨3点在街头痛哭",
+        "onboard_time": 1679063313,
+        "rank": 34,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 189257,
+        "num": 189257,
+        "word": "关注孟菲斯天气只因丫丫在那里",
+        "onboard_time": 1679101826,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174613,
+        "num": 174613,
+        "word": "杨迪壁咚唐嫣",
+        "onboard_time": 1679106689,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168311,
+        "num": 168311,
+        "word": "林墨模仿高启盛走路",
+        "onboard_time": 1679105186,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166644,
+        "num": 166644,
+        "word": "迪丽热巴流光闪烁花絮",
+        "onboard_time": 1679100627,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159371,
+        "num": 159371,
+        "word": "当代年轻人为什么要爆肝",
+        "onboard_time": 1679102368,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148858,
+        "num": 148858,
+        "word": "YG解决歌手空白期的办法",
+        "onboard_time": 1679098224,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145513,
+        "num": 145513,
+        "word": "钟汉良买菜只花了9毛钱",
+        "onboard_time": 1679073020,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139436,
+        "num": 139436,
+        "word": "莲花坐垫",
+        "onboard_time": 1679096662,
+        "rank": 42,
+        "category": "幽默,时尚"
+      },
+      {
+        "raw_hot": 135085,
+        "num": 135085,
+        "word": "研究表明养猫养狗或影响睡眠",
+        "onboard_time": 1679077875,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130873,
+        "num": 130873,
+        "word": "女友被拍18下才反应被求婚",
+        "onboard_time": 1679074637,
+        "rank": 44,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 122249,
+        "num": 122249,
+        "word": "警方回应游客98元买走60根虫草",
+        "onboard_time": 1679078654,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117425,
+        "num": 117425,
+        "word": "归晓氛围感海报",
+        "onboard_time": 1679106867,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 113015,
+        "num": 113015,
+        "word": "姜广涛涉嫌刑事犯罪",
+        "onboard_time": 1679042309,
+        "rank": 47,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 117194,
+        "num": 110211,
+        "word": "归路",
+        "onboard_time": 1679095880,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 105815,
+        "num": 105815,
+        "word": "井柏然和小朋友合照",
+        "onboard_time": 1679107048,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席访俄是一次友谊合作和平之旅#"
+    }
+  }
+}
