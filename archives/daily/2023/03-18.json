@@ -1,6 +1,6 @@
 {
   "startTime": 1679070330564,
-  "endTime": 1679113326952,
+  "endTime": 1679114211750,
   "band_list": [
     {
       "raw_hot": 3685659,
@@ -35,7 +35,7 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 1333599,
+      "raw_hot": 1485839,
       "num": 1333599,
       "word": "苏州大学通报男生P图造女生黄谣",
       "onboard_time": 1679110048,
@@ -43,19 +43,19 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1402819,
+      "num": 1402819,
+      "word": "女子称点1314元套餐被店员嫌男友小气",
+      "onboard_time": 1679109809,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1250904,
       "num": 1250904,
       "word": "丫丫胖了一点白了一点",
       "onboard_time": 1679065230,
       "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1187821,
-      "num": 1187821,
-      "word": "女子称点1314元套餐被店员嫌男友小气",
-      "onboard_time": 1679109809,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -73,6 +73,14 @@
       "onboard_time": 1679084533,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1060391,
+      "num": 1060391,
+      "word": "山东事业编",
+      "onboard_time": 1679111427,
+      "rank": 5,
+      "category": "教育"
     },
     {
       "raw_hot": 1031612,
@@ -97,14 +105,6 @@
       "onboard_time": 1679063313,
       "rank": 3,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 923811,
-      "num": 923811,
-      "word": "山东事业编",
-      "onboard_time": 1679111427,
-      "rank": 5,
-      "category": "教育"
     },
     {
       "raw_hot": 895816,
@@ -211,6 +211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 622135,
+      "num": 418191,
+      "word": "霉霉演唱会播放PinkVenom",
+      "onboard_time": 1679113169,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 617555,
       "num": 333651,
       "word": "男子隐瞒婚史与21岁女孩交往",
@@ -251,6 +259,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 558124,
+      "num": 407171,
+      "word": "时代少年团全员真实身高",
+      "onboard_time": 1679113468,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 548088,
       "num": 548088,
       "word": "杨洋直播",
@@ -275,7 +291,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 480967,
+      "raw_hot": 502386,
       "num": 480967,
       "word": "垂涎 专属omega",
       "onboard_time": 1679110167,
@@ -427,14 +443,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 373009,
-      "num": 177522,
-      "word": "霉霉演唱会播放PinkVenom",
-      "onboard_time": 1679113169,
-      "rank": 30,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 348682,
       "num": 348682,
       "word": "归路断更",
@@ -473,6 +481,14 @@
       "onboard_time": 1679063372,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 300170,
+      "num": 174442,
+      "word": "肯德基全家桶被曝吃出生的炸鸡",
+      "onboard_time": 1679113650,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 298412,
@@ -595,20 +611,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 217882,
+      "num": 217882,
+      "word": "陈晓新剧演民办教师",
+      "onboard_time": 1679109989,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 215817,
       "num": 215817,
       "word": "关晓彤香槟色水光裙",
       "onboard_time": 1679061451,
       "rank": 18,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 212192,
-      "num": 212192,
-      "word": "陈晓新剧演民办教师",
-      "onboard_time": 1679109989,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 210285,
@@ -667,6 +683,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 202938,
+      "num": 202938,
+      "word": "张元英棕色牛仔造型",
+      "onboard_time": 1679112930,
+      "rank": 31,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 202053,
       "num": 202053,
       "word": "研究表明养猫养狗或影响睡眠",
@@ -705,14 +729,6 @@
       "onboard_time": 1679112748,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 194259,
-      "num": 174038,
-      "word": "张元英棕色牛仔造型",
-      "onboard_time": 1679112930,
-      "rank": 31,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 189257,
@@ -923,6 +939,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 120501,
+      "num": 120501,
+      "word": "一张照片留住春天",
+      "onboard_time": 1679114068,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 117798,
       "num": 117798,
       "word": "姜广涛能不能把声带捐出来",
@@ -1091,6 +1115,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 71297,
+      "num": 1577782,
+      "word": "震撼航拍感受大漠生态治沙",
+      "onboard_time": 1679112028,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66060,
       "num": 1564947,
       "word": "2022中国科学十大进展",
@@ -1115,14 +1147,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 52259,
-      "num": 1577782,
-      "word": "震撼航拍感受大漠生态治沙",
-      "onboard_time": 1679112028,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 49062,
       "num": 49062,
       "word": "28岁徐志胜和38岁陈伟霆同框",
@@ -1131,20 +1155,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 32004,
+      "num": 151726,
+      "word": "今天点饿了么能省74",
+      "onboard_time": 1679112028,
+      "rank": 39,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 28239,
       "num": 28239,
       "word": "2023F1沙特大奖赛",
       "onboard_time": 1679076794,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 27743,
-      "num": 151726,
-      "word": "今天点饿了么能省74",
-      "onboard_time": 1679112028,
-      "rank": 39,
-      "category": "科技,社会新闻"
     }
   ],
   "hotgov_list": [
@@ -1159,6 +1183,9 @@
     },
     {
       "word": "#习近平将对俄罗斯进行国事访问#"
+    },
+    {
+      "word": "#推动思政课建设内涵式发展#"
     }
   ]
 }
