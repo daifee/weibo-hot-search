@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1679145668760,
+  "endTime": 1679146400117,
   "band_list": [
     {
       "raw_hot": 9458443,
@@ -1195,6 +1195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1042512,
+      "num": 1042512,
+      "word": "西南大学开设公务员专业",
+      "onboard_time": 1679145027,
+      "rank": 25,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 1038285,
       "num": 1038285,
       "word": "丫丫回国先到上海检疫",
@@ -1265,6 +1273,14 @@
       "onboard_time": 1679048493,
       "rank": 28,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1010683,
+      "num": 1010683,
+      "word": "TES四连败",
+      "onboard_time": 1679145451,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 1009245,
@@ -1492,7 +1508,7 @@
     },
     {
       "raw_hot": 913478,
-      "num": 437893,
+      "num": 579072,
       "word": "花三三卢靖姗合照",
       "onboard_time": 1679138188,
       "rank": 14,
@@ -1875,6 +1891,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 824496,
+      "num": 824496,
+      "word": "你好星期六下周有两对cp",
+      "onboard_time": 1679145268,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 815914,
       "num": 815914,
       "word": "王勉说跟鹿晗一块睡觉此生无憾了",
@@ -2251,20 +2275,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 740085,
+      "num": 740085,
+      "word": "乌总统夫人讲述乌妇女用罐头击落俄无人机",
+      "onboard_time": 1679143708,
+      "rank": 49,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 737975,
       "num": 737975,
       "word": "郑州大雪压塌6000平方米物流仓库",
       "onboard_time": 1679035047,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 737028,
-      "num": 326236,
-      "word": "TES四连败",
-      "onboard_time": 1679145451,
-      "rank": 23,
-      "category": "游戏"
     },
     {
       "raw_hot": 733886,
@@ -3035,14 +3059,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 609620,
-      "num": 609620,
-      "word": "乌总统夫人讲述乌妇女用罐头击落俄无人机",
-      "onboard_time": 1679143708,
-      "rank": 49,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 608888,
       "num": 367630,
       "word": "女主播因身材焦虑吸毒减肥",
@@ -3257,6 +3273,14 @@
       "onboard_time": 1679125888,
       "rank": 5,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 577807,
+      "num": 577807,
+      "word": "BLG战胜TES",
+      "onboard_time": 1679145210,
+      "rank": 13,
+      "category": "游戏"
     },
     {
       "raw_hot": 577665,
@@ -3505,14 +3529,6 @@
       "onboard_time": 1679045553,
       "rank": 36,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 548953,
-      "num": 435422,
-      "word": "BLG战胜TES",
-      "onboard_time": 1679145210,
-      "rank": 13,
-      "category": "游戏"
     },
     {
       "raw_hot": 548088,
@@ -4851,6 +4867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 421316,
+      "num": 421316,
+      "word": "孙怡猫眼妆",
+      "onboard_time": 1679144249,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 420778,
       "num": 414785,
       "word": "蓝蛙餐厅被立案调查",
@@ -5627,14 +5651,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 360934,
-      "num": 360934,
-      "word": "孙怡猫眼妆",
-      "onboard_time": 1679144249,
-      "rank": 18,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 359844,
       "num": 359844,
       "word": "洪都拉斯寻求与中国正式建立外交关系",
@@ -6315,14 +6331,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 317923,
-      "num": 317923,
-      "word": "西南大学开设公务员专业",
-      "onboard_time": 1679145027,
-      "rank": 25,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 317893,
       "num": 119222,
       "word": "流浪地球2评分再次上涨",
@@ -6643,6 +6651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 298240,
+      "num": 235658,
+      "word": "小S带女儿去看BLACKPINK的演唱会",
+      "onboard_time": 1679146048,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 297991,
       "num": 297991,
       "word": "当医生说两种药要同时吃",
@@ -6849,6 +6865,14 @@
       "onboard_time": 1678789290,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 282805,
+      "num": 282805,
+      "word": "樊振东马龙争夺冠军",
+      "onboard_time": 1679145329,
+      "rank": 35,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 282724,
@@ -7505,14 +7529,6 @@
       "onboard_time": 1678677987,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 249903,
-      "num": 249903,
-      "word": "你好星期六下周有两对cp",
-      "onboard_time": 1679145268,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 248635,
@@ -8219,20 +8235,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 221911,
-      "num": 221911,
-      "word": "樊振东马龙争夺冠军",
-      "onboard_time": 1679145329,
-      "rank": 35,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 221218,
       "num": 221218,
       "word": "山东7位文旅局长变装推荐家乡",
       "onboard_time": 1679095641,
       "rank": 26,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 221208,
+      "num": 221208,
+      "word": "陈雨菲进决赛",
+      "onboard_time": 1679146168,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 221185,
@@ -9475,6 +9491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191079,
+      "num": 191079,
+      "word": "保你平安票房破3亿",
+      "onboard_time": 1679145510,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 190872,
       "num": 190872,
       "word": "周深 和门有特别的缘分",
@@ -9963,6 +9987,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 176961,
+      "num": 176961,
+      "word": "丫丫",
+      "onboard_time": 1679146048,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 176891,
       "num": 208260,
       "word": "管虎新片黄渤倪妮搭档",
@@ -10281,6 +10313,14 @@
       "onboard_time": 1679107888,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 164170,
+      "num": 164170,
+      "word": "偶遇杨幂看电影",
+      "onboard_time": 1679146228,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 164006,
@@ -10763,14 +10803,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 148268,
-      "num": 148268,
-      "word": "保你平安票房破3亿",
-      "onboard_time": 1679145510,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 148262,
       "num": 369846,
       "word": "为中国航天点赞",
@@ -10849,6 +10881,14 @@
       "onboard_time": 1678620565,
       "rank": 25,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 145240,
+      "num": 1024789,
+      "word": "这段跨越千年的对话令人骄傲又感动",
+      "onboard_time": 1679142929,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 145177,
@@ -11377,14 +11417,6 @@
       "onboard_time": 1678726997,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 129751,
-      "num": 787972,
-      "word": "这段跨越千年的对话令人骄傲又感动",
-      "onboard_time": 1679142929,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 129653,
@@ -12694,6 +12726,9 @@
     },
     {
       "word": "#中俄树立新型国际关系典范#"
+    },
+    {
+      "word": "#聚焦经济社会发展#"
     }
   ]
 }

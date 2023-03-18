@@ -1,6 +1,6 @@
 {
   "startTime": 1679070330564,
-  "endTime": 1679145668760,
+  "endTime": 1679146400117,
   "band_list": [
     {
       "raw_hot": 3685659,
@@ -187,6 +187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1042512,
+      "num": 1042512,
+      "word": "西南大学开设公务员专业",
+      "onboard_time": 1679145027,
+      "rank": 25,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 1033927,
       "num": 419033,
       "word": "宋慧乔回复韩素希",
@@ -209,6 +217,14 @@
       "onboard_time": 1679130025,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1010683,
+      "num": 1010683,
+      "word": "TES四连败",
+      "onboard_time": 1679145451,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 997518,
@@ -236,7 +252,7 @@
     },
     {
       "raw_hot": 913478,
-      "num": 437893,
+      "num": 579072,
       "word": "花三三卢靖姗合照",
       "onboard_time": 1679138188,
       "rank": 14,
@@ -297,6 +313,14 @@
       "onboard_time": 1679137648,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 824496,
+      "num": 824496,
+      "word": "你好星期六下周有两对cp",
+      "onboard_time": 1679145268,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 808639,
@@ -371,12 +395,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 737028,
-      "num": 326236,
-      "word": "TES四连败",
-      "onboard_time": 1679145451,
-      "rank": 23,
-      "category": "游戏"
+      "raw_hot": 740085,
+      "num": 740085,
+      "word": "乌总统夫人讲述乌妇女用罐头击落俄无人机",
+      "onboard_time": 1679143708,
+      "rank": 49,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 727659,
@@ -491,14 +515,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 609620,
-      "num": 609620,
-      "word": "乌总统夫人讲述乌妇女用罐头击落俄无人机",
-      "onboard_time": 1679143708,
-      "rank": 49,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 608054,
       "num": 608054,
       "word": "隔空猥亵受害者多为未成年人",
@@ -547,6 +563,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 577807,
+      "num": 577807,
+      "word": "BLG战胜TES",
+      "onboard_time": 1679145210,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 558124,
       "num": 531800,
       "word": "时代少年团全员真实身高",
@@ -569,14 +593,6 @@
       "onboard_time": 1679121388,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 548953,
-      "num": 435422,
-      "word": "BLG战胜TES",
-      "onboard_time": 1679145210,
-      "rank": 13,
-      "category": "游戏"
     },
     {
       "raw_hot": 548088,
@@ -723,6 +739,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 421316,
+      "num": 421316,
+      "word": "孙怡猫眼妆",
+      "onboard_time": 1679144249,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 417983,
       "num": 309280,
       "word": "24岁女子不会做饭给自己报名小饭桌",
@@ -867,14 +891,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 360934,
-      "num": 360934,
-      "word": "孙怡猫眼妆",
-      "onboard_time": 1679144249,
-      "rank": 18,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 353763,
       "num": 353763,
       "word": "薛之谦演唱会衢州",
@@ -921,14 +937,6 @@
       "onboard_time": 1679132367,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 317923,
-      "num": 317923,
-      "word": "西南大学开设公务员专业",
-      "onboard_time": 1679145027,
-      "rank": 25,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 316698,
@@ -1003,6 +1011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 298240,
+      "num": 235658,
+      "word": "小S带女儿去看BLACKPINK的演唱会",
+      "onboard_time": 1679146048,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 292096,
       "num": 292096,
       "word": "吴谨言千禧辣妹妆",
@@ -1017,6 +1033,14 @@
       "onboard_time": 1679120728,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 282805,
+      "num": 282805,
+      "word": "樊振东马龙争夺冠军",
+      "onboard_time": 1679145329,
+      "rank": 35,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 282724,
@@ -1105,14 +1129,6 @@
       "onboard_time": 1679115868,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 249903,
-      "num": 249903,
-      "word": "你好星期六下周有两对cp",
-      "onboard_time": 1679145268,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 248635,
@@ -1251,20 +1267,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 221911,
-      "num": 221911,
-      "word": "樊振东马龙争夺冠军",
-      "onboard_time": 1679145329,
-      "rank": 35,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 221218,
       "num": 221218,
       "word": "山东7位文旅局长变装推荐家乡",
       "onboard_time": 1679095641,
       "rank": 26,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 221208,
+      "num": 221208,
+      "word": "陈雨菲进决赛",
+      "onboard_time": 1679146168,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 218877,
+      "num": 218877,
+      "word": "他是谁",
+      "onboard_time": 1679065830,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 218858,
@@ -1491,14 +1515,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 196076,
-      "num": 196076,
-      "word": "他是谁",
-      "onboard_time": 1679065830,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 195920,
       "num": 195920,
       "word": "NBA",
@@ -1537,6 +1553,14 @@
       "onboard_time": 1679123246,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 191079,
+      "num": 191079,
+      "word": "保你平安票房破3亿",
+      "onboard_time": 1679145510,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 189257,
@@ -1603,6 +1627,14 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 176961,
+      "num": 176961,
+      "word": "丫丫",
+      "onboard_time": 1679146048,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 176119,
       "num": 176119,
       "word": "归路删减剧情",
@@ -1657,6 +1689,14 @@
       "onboard_time": 1679107888,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 164170,
+      "num": 164170,
+      "word": "偶遇杨幂看电影",
+      "onboard_time": 1679146228,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 163662,
@@ -1739,14 +1779,6 @@
       "category": "财经,科技"
     },
     {
-      "raw_hot": 148268,
-      "num": 148268,
-      "word": "保你平安票房破3亿",
-      "onboard_time": 1679145510,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 148082,
       "num": 148082,
       "word": "WBG战胜NIP",
@@ -1769,6 +1801,14 @@
       "onboard_time": 1679117787,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 145240,
+      "num": 1024789,
+      "word": "这段跨越千年的对话令人骄傲又感动",
+      "onboard_time": 1679142929,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 145177,
@@ -1889,14 +1929,6 @@
       "onboard_time": 1679080453,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 129751,
-      "num": 787972,
-      "word": "这段跨越千年的对话令人骄傲又感动",
-      "onboard_time": 1679142929,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 127922,
@@ -2238,6 +2270,9 @@
     },
     {
       "word": "#中俄树立新型国际关系典范#"
+    },
+    {
+      "word": "#聚焦经济社会发展#"
     }
   ]
 }
