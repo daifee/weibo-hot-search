@@ -1,6 +1,6 @@
 {
   "startTime": 1679070330564,
-  "endTime": 1679132028039,
+  "endTime": 1679134700695,
   "band_list": [
     {
       "raw_hot": 3685659,
@@ -56,6 +56,14 @@
       "word": "25岁女生长期熬夜长出老年斑",
       "onboard_time": 1679106506,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2198106,
+      "num": 2198106,
+      "word": "20万请曹姓明星带货3月成交278元",
+      "onboard_time": 1679131647,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -172,7 +180,7 @@
     },
     {
       "raw_hot": 1028575,
-      "num": 340043,
+      "num": 379933,
       "word": "孔雪儿生图",
       "onboard_time": 1679130025,
       "rank": 11,
@@ -281,6 +289,14 @@
       "onboard_time": 1679127089,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 745968,
+      "num": 745968,
+      "word": "魏大勋敲在杨超越的发夹上",
+      "onboard_time": 1679132907,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 743497,
@@ -419,6 +435,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 564242,
+      "num": 564242,
+      "word": "为什么工作后很难谈恋爱了",
+      "onboard_time": 1679132486,
+      "rank": 7,
+      "category": "情感"
+    },
+    {
       "raw_hot": 558124,
       "num": 531800,
       "word": "时代少年团全员真实身高",
@@ -465,6 +489,14 @@
       "onboard_time": 1679110167,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 499168,
+      "num": 370280,
+      "word": "李承铉终于出来营业了",
+      "onboard_time": 1679134226,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 490145,
@@ -553,6 +585,14 @@
       "onboard_time": 1679114729,
       "rank": 16,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 428521,
+      "num": 428521,
+      "word": "玫瑰花的葬礼现在是鹭卓的禁曲",
+      "onboard_time": 1679133928,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 427595,
@@ -667,6 +707,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 363324,
+      "num": 363324,
+      "word": "模范出租车男主是84年的",
+      "onboard_time": 1679132247,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 352317,
       "num": 352317,
       "word": "名侦探学院 小芒",
@@ -683,12 +731,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 346452,
+      "num": 346452,
+      "word": "张译他是谁叫卫国平的原因",
+      "onboard_time": 1679132666,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 344528,
       "num": 344528,
       "word": "郑成日说河道英很爱妍珍",
       "onboard_time": 1679118148,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 338156,
+      "num": 338156,
+      "word": "1997年的杨紫琼",
+      "onboard_time": 1679132367,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 316698,
@@ -915,6 +979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 228944,
+      "num": 228944,
+      "word": "马嘉祺宋亚轩跑步上课",
+      "onboard_time": 1679134588,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 223282,
       "num": 223282,
       "word": "樊振东王楚钦战胜韩国组合夺冠",
@@ -961,6 +1033,14 @@
       "onboard_time": 1679061451,
       "rank": 18,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 213715,
+      "num": 213715,
+      "word": "XYG七连败",
+      "onboard_time": 1679133808,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 210942,
@@ -1097,6 +1177,14 @@
       "onboard_time": 1679066131,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 200224,
+      "num": 200224,
+      "word": "2023KPL春季赛",
+      "onboard_time": 1679133568,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 198494,
@@ -1307,12 +1395,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 163283,
-      "num": 163283,
-      "word": "20万请曹姓明星带货3月成交278元",
-      "onboard_time": 1679131647,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 156768,
+      "num": 213986,
+      "word": "语文课真的是思想上的抚摸",
+      "onboard_time": 1679133627,
+      "rank": 29,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 156430,
@@ -1499,6 +1587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 124954,
+      "num": 124954,
+      "word": "保你平安",
+      "onboard_time": 1679131825,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 123887,
       "num": 123887,
       "word": "不敢晚上看他是谁",
@@ -1555,19 +1651,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 116488,
+      "num": 116488,
+      "word": "种地吧全员搬运4000盆玫瑰",
+      "onboard_time": 1679134108,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 115625,
       "num": 115625,
       "word": "晨晓夫妇70秒吻戏",
       "onboard_time": 1679051669,
       "rank": 26,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 114594,
-      "num": 114594,
-      "word": "保你平安",
-      "onboard_time": 1679131825,
-      "rank": 46,
       "category": "影视"
     },
     {
@@ -1608,6 +1704,14 @@
       "word": "魏平安女儿被校园霸凌",
       "onboard_time": 1679062472,
       "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 109747,
+      "num": 109747,
+      "word": "站住",
+      "onboard_time": 1679134168,
+      "rank": 45,
       "category": "影视"
     },
     {

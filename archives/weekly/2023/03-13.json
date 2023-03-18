@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1679132028039,
+  "endTime": 1679134700695,
   "band_list": [
     {
       "raw_hot": 9458443,
@@ -209,6 +209,14 @@
       "onboard_time": 1678840350,
       "rank": 1,
       "category": "科技"
+    },
+    {
+      "raw_hot": 2198106,
+      "num": 2198106,
+      "word": "20万请曹姓明星带货3月成交278元",
+      "onboard_time": 1679131647,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2182836,
@@ -1212,7 +1220,7 @@
     },
     {
       "raw_hot": 1028575,
-      "num": 340043,
+      "num": 379933,
       "word": "孔雪儿生图",
       "onboard_time": 1679130025,
       "rank": 11,
@@ -2121,6 +2129,14 @@
       "onboard_time": 1678963108,
       "rank": 5,
       "category": "科技"
+    },
+    {
+      "raw_hot": 745968,
+      "num": 745968,
+      "word": "魏大勋敲在杨超越的发夹上",
+      "onboard_time": 1679132907,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 743836,
@@ -3195,6 +3211,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 564242,
+      "num": 564242,
+      "word": "为什么工作后很难谈恋爱了",
+      "onboard_time": 1679132486,
+      "rank": 7,
+      "category": "情感"
+    },
+    {
       "raw_hot": 563635,
       "num": 563635,
       "word": "方时赫就收购SMTOWN道歉",
@@ -3785,6 +3809,14 @@
       "onboard_time": 1678723044,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 499168,
+      "num": 370280,
+      "word": "李承铉终于出来营业了",
+      "onboard_time": 1679134226,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 498710,
@@ -4603,6 +4635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 428521,
+      "num": 428521,
+      "word": "玫瑰花的葬礼现在是鹭卓的禁曲",
+      "onboard_time": 1679133928,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 428335,
       "num": 382026,
       "word": "总理说高手在民间",
@@ -5403,6 +5443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 363324,
+      "num": 363324,
+      "word": "模范出租车男主是84年的",
+      "onboard_time": 1679132247,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 363292,
       "num": 400636,
       "word": "长辈给狗狗洗脸的方式",
@@ -5659,6 +5707,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 346452,
+      "num": 346452,
+      "word": "张译他是谁叫卫国平的原因",
+      "onboard_time": 1679132666,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 345729,
       "num": 345729,
       "word": "黑龙江省考",
@@ -5809,6 +5865,14 @@
       "onboard_time": 1678789049,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 338156,
+      "num": 338156,
+      "word": "1997年的杨紫琼",
+      "onboard_time": 1679132367,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 338026,
@@ -7779,6 +7843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 228944,
+      "num": 228944,
+      "word": "马嘉祺宋亚轩跑步上课",
+      "onboard_time": 1679134588,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 228601,
       "num": 228601,
       "word": "KPL春季赛第五周最佳阵容",
@@ -8097,6 +8169,14 @@
       "onboard_time": 1678925009,
       "rank": 29,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 213715,
+      "num": 213715,
+      "word": "XYG七连败",
+      "onboard_time": 1679133808,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 213561,
@@ -8649,6 +8729,14 @@
       "onboard_time": 1678969229,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 200224,
+      "num": 200224,
+      "word": "2023KPL春季赛",
+      "onboard_time": 1679133568,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 200103,
@@ -9971,14 +10059,6 @@
       "category": "影视,艺人"
     },
     {
-      "raw_hot": 163283,
-      "num": 163283,
-      "word": "20万请曹姓明星带货3月成交278元",
-      "onboard_time": 1679131647,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 162814,
       "num": 162814,
       "word": "他是谁案件套娃",
@@ -10177,6 +10257,14 @@
       "onboard_time": 1678769372,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 156768,
+      "num": 213986,
+      "word": "语文课真的是思想上的抚摸",
+      "onboard_time": 1679133627,
+      "rank": 29,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 156497,
@@ -11075,6 +11163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 124954,
+      "num": 124954,
+      "word": "保你平安",
+      "onboard_time": 1679131825,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 123887,
       "num": 123887,
       "word": "不敢晚上看他是谁",
@@ -11251,6 +11347,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 116488,
+      "num": 116488,
+      "word": "种地吧全员搬运4000盆玫瑰",
+      "onboard_time": 1679134108,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 115473,
       "num": 115473,
       "word": "特罗萨德助攻帽子戏法",
@@ -11265,14 +11369,6 @@
       "onboard_time": 1678663398,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 114594,
-      "num": 114594,
-      "word": "保你平安",
-      "onboard_time": 1679131825,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 114567,
@@ -11385,6 +11481,14 @@
       "onboard_time": 1678676486,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 109747,
+      "num": 109747,
+      "word": "站住",
+      "onboard_time": 1679134168,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 109477,
