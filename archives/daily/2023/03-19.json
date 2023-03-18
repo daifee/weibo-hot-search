@@ -1,6 +1,6 @@
 {
   "startTime": 1679156607539,
-  "endTime": 1679156607539,
+  "endTime": 1679157619382,
   "band_list": [
     {
       "raw_hot": 1336084,
@@ -227,20 +227,20 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 180038,
+      "num": 180038,
+      "word": "TES四连败",
+      "onboard_time": 1679145451,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 176415,
       "num": 176415,
       "word": "女子称离职被拒HR招人又招到自己",
       "onboard_time": 1679137648,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 175733,
-      "num": 175733,
-      "word": "TES四连败",
-      "onboard_time": 1679145451,
-      "rank": 30,
-      "category": "游戏"
     },
     {
       "raw_hot": 166951,
@@ -307,8 +307,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 124470,
-      "num": 124470,
+      "raw_hot": 127400,
+      "num": 127400,
       "word": "人真的不能不上班",
       "onboard_time": 1679126247,
       "rank": 39,
@@ -401,6 +401,14 @@
       "onboard_time": 1679149354,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 73185,
+      "num": 73185,
+      "word": "刘亦菲 活动",
+      "onboard_time": 1679135489,
+      "rank": 46,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [
