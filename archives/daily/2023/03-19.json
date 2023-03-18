@@ -1,6 +1,6 @@
 {
   "startTime": 1679156607539,
-  "endTime": 1679171619385,
+  "endTime": 1679174134694,
   "band_list": [
     {
       "raw_hot": 1336084,
@@ -355,6 +355,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 97810,
+      "num": 30286,
+      "word": "山东乳山发现大型金矿床",
+      "onboard_time": 1679171531,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 97531,
       "num": 97531,
       "word": "F1",
@@ -467,12 +475,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 11006,
-      "num": 13442,
-      "word": "山东乳山发现大型金矿床",
-      "onboard_time": 1679171531,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 15152,
+      "num": 15152,
+      "word": "井柏然谭松韵打台球",
+      "onboard_time": 1679173511,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 12199,
+      "num": 12199,
+      "word": "华为P60手机外观公布",
+      "onboard_time": 1679149171,
+      "rank": 44,
+      "category": "科技"
     }
   ],
   "hotgov_list": [
