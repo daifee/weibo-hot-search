@@ -1,6 +1,6 @@
 {
   "startTime": 1679070330564,
-  "endTime": 1679152679715,
+  "endTime": 1679153635004,
   "band_list": [
     {
       "raw_hot": 3685659,
@@ -115,7 +115,7 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 1685989,
+      "raw_hot": 1816217,
       "num": 902028,
       "word": "丫丫",
       "onboard_time": 1679146048,
@@ -595,6 +595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 604311,
+      "num": 604311,
+      "word": "椰树直播间",
+      "onboard_time": 1679150791,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 598789,
       "num": 598789,
       "word": "俞敏洪称宁愿当没钱的流浪汉",
@@ -803,6 +811,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 431683,
+      "num": 431683,
+      "word": "洪恩採哭了",
+      "onboard_time": 1679151691,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 429292,
       "num": 429292,
       "word": "林俊杰黄贯中合唱海阔天空",
@@ -859,6 +875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 405438,
+      "num": 405438,
+      "word": "丁程鑫看李一桐毕雯珺夹气球的表情",
+      "onboard_time": 1679153309,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 404810,
       "num": 404810,
       "word": "王俊凯金色外套机场路透",
@@ -913,14 +937,6 @@
       "onboard_time": 1679135307,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 386664,
-      "num": 386664,
-      "word": "洪恩採哭了",
-      "onboard_time": 1679151691,
-      "rank": 17,
-      "category": "音乐"
     },
     {
       "raw_hot": 385433,
@@ -985,14 +1001,6 @@
       "onboard_time": 1679055327,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 375416,
-      "num": 375416,
-      "word": "椰树直播间",
-      "onboard_time": 1679150791,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 372140,
@@ -1067,6 +1075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 332732,
+      "num": 256592,
+      "word": "薛之谦演唱会戴老奶奶假发",
+      "onboard_time": 1679153489,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 327716,
       "num": 327716,
       "word": "王鹤棣语音要被丁程鑫玩坏了",
@@ -1139,7 +1155,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 301038,
+      "raw_hot": 301297,
       "num": 301038,
       "word": "阿信用AI发微博",
       "onboard_time": 1679150432,
@@ -1203,20 +1219,20 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 275513,
+      "num": 273382,
+      "word": "李健音乐会",
+      "onboard_time": 1679150070,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 273447,
       "num": 273447,
       "word": "理科生坠入情网",
       "onboard_time": 1679062291,
       "rank": 15,
       "category": "情感"
-    },
-    {
-      "raw_hot": 273382,
-      "num": 273382,
-      "word": "李健音乐会",
-      "onboard_time": 1679150070,
-      "rank": 29,
-      "category": "音乐"
     },
     {
       "raw_hot": 273219,
@@ -1273,6 +1289,14 @@
       "onboard_time": 1679151091,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 263189,
+      "num": 254122,
+      "word": "杨紫叫杨迪哥",
+      "onboard_time": 1679152589,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 256108,
@@ -1360,6 +1384,14 @@
       "word": "当代年轻人为什么要爆肝",
       "onboard_time": 1679102368,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 236499,
+      "num": 236499,
+      "word": "男子网恋1年多女友竟是好友老婆",
+      "onboard_time": 1679152948,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -1859,6 +1891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171576,
+      "num": 171576,
+      "word": "给猪喂的是我的减脂餐吧",
+      "onboard_time": 1679152892,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 171258,
       "num": 171258,
       "word": "LPL",
@@ -1873,6 +1913,14 @@
       "onboard_time": 1679064454,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 170371,
+      "num": 170371,
+      "word": "见过最实在的刷礼物",
+      "onboard_time": 1679152110,
+      "rank": 46,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 168311,
@@ -1963,14 +2011,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 151871,
-      "num": 151871,
-      "word": "杨紫叫杨迪哥",
-      "onboard_time": 1679152589,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 151054,
       "num": 151054,
       "word": "站住",
@@ -2001,14 +2041,6 @@
       "onboard_time": 1679128767,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 147255,
-      "num": 147255,
-      "word": "见过最实在的刷礼物",
-      "onboard_time": 1679152110,
-      "rank": 46,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 147152,
@@ -2145,6 +2177,14 @@
       "onboard_time": 1679125288,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 132636,
+      "num": 132636,
+      "word": "花琉璃暧昧期比热恋期甜",
+      "onboard_time": 1679153249,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 131043,

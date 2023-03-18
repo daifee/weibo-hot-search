@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1679152679715,
+  "endTime": 1679153635004,
   "band_list": [
     {
       "raw_hot": 9458443,
@@ -443,6 +443,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1816217,
+      "num": 902028,
+      "word": "丫丫",
+      "onboard_time": 1679146048,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1777140,
       "num": 1777140,
       "word": "河南下雪",
@@ -536,14 +544,6 @@
       "word": "日本女大胃王菅原初代患肠癌病逝",
       "onboard_time": 1679059410,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1685989,
-      "num": 902028,
-      "word": "丫丫",
-      "onboard_time": 1679146048,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -3187,6 +3187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 604311,
+      "num": 604311,
+      "word": "椰树直播间",
+      "onboard_time": 1679150791,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 603382,
       "num": 603382,
       "word": "郁金香壁纸",
@@ -4827,6 +4835,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 431683,
+      "num": 431683,
+      "word": "洪恩採哭了",
+      "onboard_time": 1679151691,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 431193,
       "num": 327170,
       "word": "卫国平下水道里摸尸块",
@@ -5203,6 +5219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 405438,
+      "num": 405438,
+      "word": "丁程鑫看李一桐毕雯珺夹气球的表情",
+      "onboard_time": 1679153309,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 405418,
       "num": 405418,
       "word": "张译每剧嘎一个兄弟",
@@ -5411,14 +5435,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 386664,
-      "num": 386664,
-      "word": "洪恩採哭了",
-      "onboard_time": 1679151691,
-      "rank": 17,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 385535,
       "num": 385535,
       "word": "微博之夜嘉宾",
@@ -5625,14 +5641,6 @@
       "onboard_time": 1678679188,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 375416,
-      "num": 375416,
-      "word": "椰树直播间",
-      "onboard_time": 1679150791,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 373549,
@@ -6267,6 +6275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 332732,
+      "num": 256592,
+      "word": "薛之谦演唱会戴老奶奶假发",
+      "onboard_time": 1679153489,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 331971,
       "num": 331971,
       "word": "主人发图解释狗被拴的原因",
@@ -6755,20 +6771,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 301297,
+      "num": 301038,
+      "word": "阿信用AI发微博",
+      "onboard_time": 1679150432,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 301288,
       "num": 301288,
       "word": "妈妈绣22米长清明上河图送女儿",
       "onboard_time": 1678752806,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 301038,
-      "num": 301038,
-      "word": "阿信用AI发微博",
-      "onboard_time": 1679150432,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 300783,
@@ -7155,6 +7171,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 275513,
+      "num": 273382,
+      "word": "李健音乐会",
+      "onboard_time": 1679150070,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 275073,
       "num": 275073,
       "word": "中国乒乓网播定档",
@@ -7209,14 +7233,6 @@
       "onboard_time": 1678714527,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 273382,
-      "num": 273382,
-      "word": "李健音乐会",
-      "onboard_time": 1679150070,
-      "rank": 29,
-      "category": "音乐"
     },
     {
       "raw_hot": 273219,
@@ -7457,6 +7473,14 @@
       "onboard_time": 1678894889,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 263189,
+      "num": 254122,
+      "word": "杨紫叫杨迪哥",
+      "onboard_time": 1679152589,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 263062,
@@ -7961,6 +7985,14 @@
       "onboard_time": 1678631909,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 236499,
+      "num": 236499,
+      "word": "男子网恋1年多女友竟是好友老婆",
+      "onboard_time": 1679152948,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 236224,
@@ -10363,12 +10395,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 171576,
+      "num": 171576,
+      "word": "给猪喂的是我的减脂餐吧",
+      "onboard_time": 1679152892,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 171258,
       "num": 171258,
       "word": "LPL",
       "onboard_time": 1679141429,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 170371,
+      "num": 170371,
+      "word": "见过最实在的刷礼物",
+      "onboard_time": 1679152110,
+      "rank": 46,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 169836,
@@ -10891,14 +10939,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 151871,
-      "num": 151871,
-      "word": "杨紫叫杨迪哥",
-      "onboard_time": 1679152589,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 151636,
       "num": 206587,
       "word": "800多岁玉兰古树花开似雪",
@@ -11073,14 +11113,6 @@
       "onboard_time": 1678980149,
       "rank": 34,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 147255,
-      "num": 147255,
-      "word": "见过最实在的刷礼物",
-      "onboard_time": 1679152110,
-      "rank": 46,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 146910,
@@ -11585,6 +11617,14 @@
       "onboard_time": 1678794748,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 132636,
+      "num": 132636,
+      "word": "花琉璃暧昧期比热恋期甜",
+      "onboard_time": 1679153249,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 132553,
