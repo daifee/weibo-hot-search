@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679168002139,
+  "endTime": 1679170714726,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -36281,6 +36281,14 @@
       "onboard_time": 1678005688,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 42340,
+      "num": 35375,
+      "word": "自行车怕被偷与警车锁在一起",
+      "onboard_time": 1679168653,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 41813,
