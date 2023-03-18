@@ -1,6 +1,6 @@
 {
   "startTime": 1679070330564,
-  "endTime": 1679139215673,
+  "endTime": 1679142803768,
   "band_list": [
     {
       "raw_hot": 3685659,
@@ -99,7 +99,7 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 1543662,
+      "raw_hot": 1577757,
       "num": 712794,
       "word": "曹曦月",
       "onboard_time": 1679137350,
@@ -112,6 +112,14 @@
       "word": "肯德基全家桶被曝吃出生的炸鸡",
       "onboard_time": 1679113650,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1475931,
+      "num": 1475931,
+      "word": "强盛公司勾兑盐水冒充神药坑骗老人",
+      "onboard_time": 1679138729,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -227,6 +235,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 913478,
+      "num": 414045,
+      "word": "花三三卢靖姗合照",
+      "onboard_time": 1679138188,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 908320,
       "num": 908320,
       "word": "魏大勋敲在杨超越的发夹上",
@@ -273,6 +289,14 @@
       "onboard_time": 1679108550,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 865502,
+      "num": 865502,
+      "word": "女子称离职被拒HR招人又招到自己",
+      "onboard_time": 1679137648,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 808639,
@@ -345,6 +369,14 @@
       "onboard_time": 1679122227,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 720571,
+      "num": 720571,
+      "word": "霉霉唱了44首歌",
+      "onboard_time": 1679141548,
+      "rank": 4,
+      "category": "音乐"
     },
     {
       "raw_hot": 698416,
@@ -499,14 +531,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 555251,
-      "num": 555251,
-      "word": "女子称离职被拒HR招人又招到自己",
-      "onboard_time": 1679137648,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 551279,
       "num": 551279,
       "word": "印度男子因新娘高中成绩差退婚",
@@ -521,6 +545,14 @@
       "onboard_time": 1679066190,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 545458,
+      "num": 410436,
+      "word": "马龙vs雨果",
+      "onboard_time": 1679141609,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 533149,
@@ -603,6 +635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 451427,
+      "num": 451427,
+      "word": "光渊更不更",
+      "onboard_time": 1679142327,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 449537,
       "num": 243410,
       "word": "怎么亲嘴还要人教啊",
@@ -657,6 +697,14 @@
       "onboard_time": 1679066790,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 414736,
+      "num": 414736,
+      "word": "樊振东vs王楚钦",
+      "onboard_time": 1679139929,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 407575,
@@ -715,6 +763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 383517,
+      "num": 383517,
+      "word": "TES对战BLG",
+      "onboard_time": 1679141429,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 382042,
       "num": 382042,
       "word": "什么行为容易伤肝",
@@ -763,6 +819,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 372140,
+      "num": 372140,
+      "word": "樊振东晋级大满贯决赛",
+      "onboard_time": 1679141248,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 363324,
       "num": 363324,
       "word": "模范出租车男主是84年的",
@@ -771,12 +835,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 360413,
-      "num": 360413,
-      "word": "花三三卢靖姗合照",
-      "onboard_time": 1679138188,
-      "rank": 14,
-      "category": "作品衍生"
+      "raw_hot": 353763,
+      "num": 353763,
+      "word": "薛之谦演唱会衢州",
+      "onboard_time": 1679140708,
+      "rank": 19,
+      "category": "音乐"
     },
     {
       "raw_hot": 352317,
@@ -841,6 +905,14 @@
       "onboard_time": 1679047412,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 313181,
+      "num": 313181,
+      "word": "LESSERAFIM用应援棒卷发",
+      "onboard_time": 1679140468,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 308187,
@@ -971,6 +1043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 248635,
+      "num": 248635,
+      "word": "你好星期六",
+      "onboard_time": 1679142085,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 247194,
       "num": 247194,
       "word": "迪丽热巴流光闪烁花絮",
@@ -1083,6 +1163,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 222153,
+      "num": 222153,
+      "word": "范丞丞直播",
+      "onboard_time": 1679138251,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 221218,
       "num": 221218,
       "word": "山东7位文旅局长变装推荐家乡",
@@ -1163,14 +1251,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 208352,
-      "num": 208352,
-      "word": "范丞丞直播",
-      "onboard_time": 1679138251,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 208034,
       "num": 208034,
       "word": "唐嫣钟汉良再演何以笙箫默",
@@ -1235,6 +1315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202920,
+      "num": 202920,
+      "word": "宋丹丹汪苏泷孟子义李嘉琦合照",
+      "onboard_time": 1679141908,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202053,
       "num": 202053,
       "word": "研究表明养猫养狗或影响睡眠",
@@ -1265,6 +1353,14 @@
       "onboard_time": 1679133568,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 198943,
+      "num": 198943,
+      "word": "闪光灯",
+      "onboard_time": 1679141789,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 198494,
@@ -1427,6 +1523,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 171258,
+      "num": 171258,
+      "word": "LPL",
+      "onboard_time": 1679141429,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 170867,
       "num": 170867,
       "word": "郭艾伦被谁绊倒了",
@@ -1449,14 +1553,6 @@
       "onboard_time": 1679132008,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 167568,
-      "num": 167568,
-      "word": "强盛公司勾兑盐水冒充神药坑骗老人",
-      "onboard_time": 1679138729,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 166236,
@@ -1595,6 +1691,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 139536,
+      "num": 139536,
+      "word": "中国花游混双首次夺得世界杯冠军",
+      "onboard_time": 1679138908,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 138771,
       "num": 138771,
       "word": "国产剧疯批美人盘点",
@@ -1715,6 +1819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 124444,
+      "num": 124444,
+      "word": "回响",
+      "onboard_time": 1679140229,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 123887,
       "num": 123887,
       "word": "不敢晚上看他是谁",
@@ -1729,14 +1841,6 @@
       "onboard_time": 1679055026,
       "rank": 35,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 121766,
-      "num": 121766,
-      "word": "中国花游混双首次夺得世界杯冠军",
-      "onboard_time": 1679138908,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 120501,

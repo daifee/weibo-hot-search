@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679139215673,
+  "endTime": 1679142803768,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -1515,6 +1515,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1577757,
+      "num": 712794,
+      "word": "曹曦月",
+      "onboard_time": 1679137350,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1573198,
       "num": 1573198,
       "word": "事业单位HR嘲讽求职者简历",
@@ -1569,14 +1577,6 @@
       "onboard_time": 1678156643,
       "rank": 8,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1543662,
-      "num": 712794,
-      "word": "曹曦月",
-      "onboard_time": 1679137350,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 1538746,
@@ -1736,6 +1736,14 @@
       "word": "甲流阳性率在继续上升",
       "onboard_time": 1678067725,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1475931,
+      "num": 1475931,
+      "word": "强盛公司勾兑盐水冒充神药坑骗老人",
+      "onboard_time": 1679138729,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -4315,6 +4323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 913478,
+      "num": 414045,
+      "word": "花三三卢靖姗合照",
+      "onboard_time": 1679138188,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 912577,
       "num": 843365,
       "word": "西安市发布流感应急预案",
@@ -4760,6 +4776,14 @@
       "word": "到北京动物园为丫丫探营的人好多",
       "onboard_time": 1677942390,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 865502,
+      "num": 865502,
+      "word": "女子称离职被拒HR招人又招到自己",
+      "onboard_time": 1679137648,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -6425,6 +6449,14 @@
       "onboard_time": 1677744510,
       "rank": 11,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 720571,
+      "num": 720571,
+      "word": "霉霉唱了44首歌",
+      "onboard_time": 1679141548,
+      "rank": 4,
+      "category": "音乐"
     },
     {
       "raw_hot": 720395,
@@ -9299,14 +9331,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 555251,
-      "num": 555251,
-      "word": "女子称离职被拒HR招人又招到自己",
-      "onboard_time": 1679137648,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 554978,
       "num": 554978,
       "word": "林孝埈世锦赛500米晋级",
@@ -9657,6 +9681,14 @@
       "onboard_time": 1678705887,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 545458,
+      "num": 410436,
+      "word": "马龙vs雨果",
+      "onboard_time": 1679141609,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 545233,
@@ -12155,6 +12187,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 451427,
+      "num": 451427,
+      "word": "光渊更不更",
+      "onboard_time": 1678708646,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 451270,
       "num": 410888,
       "word": "聂小雨表白卫国平",
@@ -13123,14 +13163,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 419911,
-      "num": 138827,
-      "word": "光渊更不更",
-      "onboard_time": 1678708646,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
       "raw_hot": 419889,
       "num": 337356,
       "word": "祖父母丧事礼薄上父亲留言女子破防",
@@ -13241,6 +13273,14 @@
       "onboard_time": 1679012246,
       "rank": 9,
       "category": "科技"
+    },
+    {
+      "raw_hot": 414736,
+      "num": 414736,
+      "word": "樊振东vs王楚钦",
+      "onboard_time": 1679139929,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 414610,
@@ -14251,6 +14291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 383517,
+      "num": 383517,
+      "word": "TES对战BLG",
+      "onboard_time": 1679141429,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 383516,
       "num": 342638,
       "word": "在美华人用四川话喊丫丫",
@@ -14697,6 +14745,14 @@
       "onboard_time": 1677817892,
       "rank": 34,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 372140,
+      "num": 372140,
+      "word": "樊振东晋级大满贯决赛",
+      "onboard_time": 1679141248,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 372089,
@@ -15187,14 +15243,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 360413,
-      "num": 360413,
-      "word": "花三三卢靖姗合照",
-      "onboard_time": 1679138188,
-      "rank": 14,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 360387,
       "num": 272693,
       "word": "BLACKPINK新项目预告视频",
@@ -15449,6 +15497,14 @@
       "onboard_time": 1678793188,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 353763,
+      "num": 353763,
+      "word": "薛之谦演唱会衢州",
+      "onboard_time": 1679140708,
+      "rank": 19,
+      "category": "音乐"
     },
     {
       "raw_hot": 353717,
@@ -17353,6 +17409,14 @@
       "onboard_time": 1678329987,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 313181,
+      "num": 313181,
+      "word": "LESSERAFIM用应援棒卷发",
+      "onboard_time": 1679140468,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 312887,
@@ -20427,6 +20491,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 248635,
+      "num": 248635,
+      "word": "你好星期六",
+      "onboard_time": 1678461508,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 248602,
       "num": 248602,
       "word": "御怨般若典藏皮肤",
@@ -22227,6 +22299,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 222153,
+      "num": 222153,
+      "word": "范丞丞直播",
+      "onboard_time": 1679138251,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 222134,
       "num": 223367,
       "word": "邓超遇见冰雪甄嬛",
@@ -23251,14 +23331,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 208352,
-      "num": 208352,
-      "word": "范丞丞直播",
-      "onboard_time": 1679138251,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 208319,
       "num": 208319,
       "word": "TES战胜XYG",
@@ -24123,6 +24195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 202920,
+      "num": 202920,
+      "word": "宋丹丹汪苏泷孟子义李嘉琦合照",
+      "onboard_time": 1679141908,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202891,
       "num": 202891,
       "word": "海南省考",
@@ -24769,6 +24849,14 @@
       "onboard_time": 1678109968,
       "rank": 27,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 198943,
+      "num": 198943,
+      "word": "闪光灯",
+      "onboard_time": 1679141789,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 198863,
@@ -28147,14 +28235,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 167568,
-      "num": 167568,
-      "word": "强盛公司勾兑盐水冒充神药坑骗老人",
-      "onboard_time": 1679138729,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 167553,
       "num": 167553,
       "word": "狂铁品质升级",
@@ -30587,6 +30667,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 139536,
+      "num": 139536,
+      "word": "中国花游混双首次夺得世界杯冠军",
+      "onboard_time": 1679138908,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139422,
       "num": 400437,
       "word": "尼克斯vs湖人",
@@ -32187,14 +32275,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 121766,
-      "num": 121766,
-      "word": "中国花游混双首次夺得世界杯冠军",
-      "onboard_time": 1679138908,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 121465,
       "num": 121465,
       "word": "贾冰在讲一种很新的英语",
@@ -32569,14 +32649,6 @@
       "onboard_time": 1677772827,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 116009,
-      "num": 223429,
-      "word": "你好星期六",
-      "onboard_time": 1678461508,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 115992,

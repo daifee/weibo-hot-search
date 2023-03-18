@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1679139215673,
+  "endTime": 1679142803768,
   "band_list": [
     {
       "raw_hot": 9458443,
@@ -563,6 +563,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 1577757,
+      "num": 712794,
+      "word": "曹曦月",
+      "onboard_time": 1679137350,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1573198,
       "num": 1573198,
       "word": "事业单位HR嘲讽求职者简历",
@@ -585,14 +593,6 @@
       "onboard_time": 1679027249,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1543662,
-      "num": 712794,
-      "word": "曹曦月",
-      "onboard_time": 1679137350,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 1538746,
@@ -633,6 +633,14 @@
       "onboard_time": 1678876888,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1475931,
+      "num": 1475931,
+      "word": "强盛公司勾兑盐水冒充神药坑骗老人",
+      "onboard_time": 1679138729,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1471468,
@@ -1483,6 +1491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 913478,
+      "num": 414045,
+      "word": "花三三卢靖姗合照",
+      "onboard_time": 1679138188,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 909826,
       "num": 909826,
       "word": "半天妖垃圾桶捞回餐食又端给顾客",
@@ -1665,6 +1681,14 @@
       "onboard_time": 1679044353,
       "rank": 9,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 865502,
+      "num": 865502,
+      "word": "女子称离职被拒HR招人又招到自己",
+      "onboard_time": 1679137648,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 861661,
@@ -2305,6 +2329,14 @@
       "onboard_time": 1678886732,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 720571,
+      "num": 720571,
+      "word": "霉霉唱了44首歌",
+      "onboard_time": 1679141548,
+      "rank": 4,
+      "category": "音乐"
     },
     {
       "raw_hot": 720119,
@@ -3339,14 +3371,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 555251,
-      "num": 555251,
-      "word": "女子称离职被拒HR招人又招到自己",
-      "onboard_time": 1679137648,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 554645,
       "num": 229103,
       "word": "美国网红称华人商店该被抢",
@@ -3481,6 +3505,14 @@
       "onboard_time": 1678705887,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 545458,
+      "num": 410436,
+      "word": "马龙vs雨果",
+      "onboard_time": 1679141609,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 545080,
@@ -4451,6 +4483,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 451427,
+      "num": 451427,
+      "word": "光渊更不更",
+      "onboard_time": 1678708646,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 451270,
       "num": 410888,
       "word": "聂小雨表白卫国平",
@@ -4827,14 +4867,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 419911,
-      "num": 138827,
-      "word": "光渊更不更",
-      "onboard_time": 1678708646,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
       "raw_hot": 419889,
       "num": 337356,
       "word": "祖父母丧事礼薄上父亲留言女子破防",
@@ -4921,6 +4953,14 @@
       "onboard_time": 1679012246,
       "rank": 9,
       "category": "科技"
+    },
+    {
+      "raw_hot": 414736,
+      "num": 414736,
+      "word": "樊振东vs王楚钦",
+      "onboard_time": 1679139929,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 414610,
@@ -5267,6 +5307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 383517,
+      "num": 383517,
+      "word": "TES对战BLG",
+      "onboard_time": 1679141429,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 382648,
       "num": 382648,
       "word": "谭松韵归晓十年前后哭戏对比",
@@ -5443,6 +5491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 372140,
+      "num": 372140,
+      "word": "樊振东晋级大满贯决赛",
+      "onboard_time": 1679141248,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 370459,
       "num": 138386,
       "word": "刘宇赞多录制了不起舞社2",
@@ -5539,14 +5595,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 360413,
-      "num": 360413,
-      "word": "花三三卢靖姗合照",
-      "onboard_time": 1679138188,
-      "rank": 14,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 359844,
       "num": 359844,
       "word": "洪都拉斯寻求与中国正式建立外交关系",
@@ -5641,6 +5689,14 @@
       "onboard_time": 1678793188,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 353763,
+      "num": 353763,
+      "word": "薛之谦演唱会衢州",
+      "onboard_time": 1679140708,
+      "rank": 19,
+      "category": "音乐"
     },
     {
       "raw_hot": 353717,
@@ -6305,6 +6361,14 @@
       "onboard_time": 1678712489,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 313181,
+      "num": 313181,
+      "word": "LESSERAFIM用应援棒卷发",
+      "onboard_time": 1679140468,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 312852,
@@ -7379,6 +7443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 248635,
+      "num": 248635,
+      "word": "你好星期六",
+      "onboard_time": 1679142085,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 248258,
       "num": 248258,
       "word": "用绳子缠住主人的狗狗",
@@ -8043,6 +8115,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 222153,
+      "num": 222153,
+      "word": "范丞丞直播",
+      "onboard_time": 1679138251,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 222053,
       "num": 222053,
       "word": "泫雅力丸同框照",
@@ -8387,14 +8467,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 208352,
-      "num": 208352,
-      "word": "范丞丞直播",
-      "onboard_time": 1679138251,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 208291,
       "num": 1272077,
       "word": "政府工作报告全文发布",
@@ -8675,6 +8747,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 202920,
+      "num": 202920,
+      "word": "宋丹丹汪苏泷孟子义李嘉琦合照",
+      "onboard_time": 1679141908,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202891,
       "num": 202891,
       "word": "海南省考",
@@ -8881,6 +8961,14 @@
       "onboard_time": 1678888711,
       "rank": 44,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 198943,
+      "num": 198943,
+      "word": "闪光灯",
+      "onboard_time": 1679141789,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 198848,
@@ -9939,6 +10027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 171258,
+      "num": 171258,
+      "word": "LPL",
+      "onboard_time": 1679141429,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 169836,
       "num": 169836,
       "word": "沈月学院风造型机场路透",
@@ -10025,14 +10121,6 @@
       "onboard_time": 1679062472,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 167568,
-      "num": 167568,
-      "word": "强盛公司勾兑盐水冒充神药坑骗老人",
-      "onboard_time": 1679138729,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 166431,
@@ -10843,6 +10931,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 139536,
+      "num": 139536,
+      "word": "中国花游混双首次夺得世界杯冠军",
+      "onboard_time": 1679138908,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139422,
       "num": 400437,
       "word": "尼克斯vs湖人",
@@ -11361,14 +11457,6 @@
       "onboard_time": 1679048252,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 121766,
-      "num": 121766,
-      "word": "中国花游混双首次夺得世界杯冠军",
-      "onboard_time": 1679138908,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 121465,
