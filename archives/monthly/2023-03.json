@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679109562208,
+  "endTime": 1679110423780,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -307,6 +307,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 2520880,
+      "num": 2520880,
+      "word": "25岁女生长期熬夜长出老年斑",
+      "onboard_time": 1679106506,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2518692,
       "num": 2518692,
       "word": "中方已完成所有丫丫回国审批事项",
@@ -427,6 +435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 2330226,
+      "num": 2330226,
+      "word": "苏州大学赵尚峰",
+      "onboard_time": 1679107647,
+      "rank": 34,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 2326658,
       "num": 2326658,
       "word": "建议六三三学制改为五二三",
@@ -441,14 +457,6 @@
       "onboard_time": 1678759046,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2310136,
-      "num": 2310136,
-      "word": "25岁女生长期熬夜长出老年斑",
-      "onboard_time": 1679106506,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2268157,
@@ -721,14 +729,6 @@
       "onboard_time": 1677901526,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1965958,
-      "num": 1965958,
-      "word": "苏州大学赵尚峰",
-      "onboard_time": 1679107647,
-      "rank": 34,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1962449,
@@ -2153,6 +2153,14 @@
       "onboard_time": 1678691007,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1302159,
+      "num": 471667,
+      "word": "重庆大学",
+      "onboard_time": 1679109331,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1300561,
@@ -4747,6 +4755,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 847940,
+      "num": 500547,
+      "word": "王诗龄放假回国",
+      "onboard_time": 1679108550,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 847051,
       "num": 847051,
       "word": "台军失踪士兵在厦门吃好睡好",
@@ -7019,6 +7035,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 662101,
+      "num": 662101,
+      "word": "乘风发布人 费翔",
+      "onboard_time": 1679108729,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 661858,
       "num": 564644,
       "word": "学霸寝室不泡图书馆全员保研名校",
@@ -8211,14 +8235,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 597696,
-      "num": 500547,
-      "word": "王诗龄放假回国",
-      "onboard_time": 1679108550,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 597280,
       "num": 322234,
       "word": "4岁男童将扳手塞进爸爸嘴里被吞下",
@@ -8441,14 +8457,6 @@
       "onboard_time": 1678330648,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 582584,
-      "num": 582584,
-      "word": "乘风发布人 费翔",
-      "onboard_time": 1679108729,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 581942,
@@ -11163,6 +11171,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 476650,
+      "num": 476650,
+      "word": "黄金",
+      "onboard_time": 1679106267,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 476603,
       "num": 476603,
       "word": "检测机构已抵达假香米公司",
@@ -11403,14 +11419,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 468852,
-      "num": 468852,
-      "word": "黄金",
-      "onboard_time": 1679106267,
-      "rank": 27,
-      "category": "财经"
-    },
-    {
       "raw_hot": 468181,
       "num": 468181,
       "word": "东风系引发车市价格大战",
@@ -11641,6 +11649,14 @@
       "onboard_time": 1677932486,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 457628,
+      "num": 457628,
+      "word": "王鹤棣官宣微博之夜",
+      "onboard_time": 1679109507,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 457564,
@@ -12049,6 +12065,14 @@
       "onboard_time": 1678031486,
       "rank": 12,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 442171,
+      "num": 442171,
+      "word": "垂涎 专属omega",
+      "onboard_time": 1679110167,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 441875,
@@ -19491,14 +19515,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 255650,
-      "num": 255650,
-      "word": "王鹤棣官宣微博之夜",
-      "onboard_time": 1679109507,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 255504,
       "num": 219967,
       "word": "TWICE新歌MCD回归舞台",
@@ -19673,6 +19689,14 @@
       "onboard_time": 1677662128,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 252633,
+      "num": 200901,
+      "word": "女子称点1314元套餐被店员嫌男友小气",
+      "onboard_time": 1679109809,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 252017,
@@ -23155,6 +23179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 204831,
+      "num": 204831,
+      "word": "苏州大学通报男生P图造女生黄谣",
+      "onboard_time": 1679110048,
+      "rank": 28,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 204791,
       "num": 204791,
       "word": "关继威奥斯卡最佳男配角",
@@ -24235,6 +24267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 198263,
+      "num": 198263,
+      "word": "老年斑",
+      "onboard_time": 1679110288,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198245,
       "num": 198245,
       "word": "EDG对战OMG",
@@ -24264,6 +24304,14 @@
       "word": "电影爱很美味定档",
       "onboard_time": 1677812967,
       "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 197756,
+      "num": 197756,
+      "word": "陈晓新剧演民办教师",
+      "onboard_time": 1679109989,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -27979,12 +28027,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 158844,
-      "num": 158844,
-      "word": "重庆大学",
-      "onboard_time": 1679109331,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 158906,
+      "num": 158906,
+      "word": "斗罗大陆建模",
+      "onboard_time": 1679109809,
+      "rank": 37,
+      "category": "动漫"
     },
     {
       "raw_hot": 158744,
@@ -28739,6 +28787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150087,
+      "num": 150087,
+      "word": "苹果股价2023年已上涨19%",
+      "onboard_time": 1679109209,
+      "rank": 42,
+      "category": "财经,科技"
+    },
+    {
       "raw_hot": 150002,
       "num": 261147,
       "word": "广玉兰",
@@ -29273,14 +29329,6 @@
       "onboard_time": 1677727408,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 143978,
-      "num": 143978,
-      "word": "苹果股价2023年已上涨19%",
-      "onboard_time": 1679109209,
-      "rank": 42,
-      "category": "财经,科技"
     },
     {
       "raw_hot": 143949,

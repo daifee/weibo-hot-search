@@ -1,18 +1,18 @@
 {
   "startTime": 1679070330564,
-  "endTime": 1679109562208,
+  "endTime": 1679110423780,
   "band_list": [
     {
-      "raw_hot": 2310136,
-      "num": 2310136,
+      "raw_hot": 2520880,
+      "num": 2520880,
       "word": "25岁女生长期熬夜长出老年斑",
       "onboard_time": 1679106506,
       "rank": 16,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1965958,
-      "num": 1965958,
+      "raw_hot": 2330226,
+      "num": 2330226,
       "word": "苏州大学赵尚峰",
       "onboard_time": 1679107647,
       "rank": 34,
@@ -25,6 +25,14 @@
       "onboard_time": 1679096482,
       "rank": 1,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 1302159,
+      "num": 471667,
+      "word": "重庆大学",
+      "onboard_time": 1679109331,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1250904,
@@ -99,6 +107,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 847940,
+      "num": 500547,
+      "word": "王诗龄放假回国",
+      "onboard_time": 1679108550,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 808639,
       "num": 808639,
       "word": "iPhone15ProMax将打破最薄边框纪录",
@@ -147,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 662101,
+      "num": 662101,
+      "word": "乘风发布人 费翔",
+      "onboard_time": 1679108729,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 632305,
       "num": 632305,
       "word": "文东恩复仇花费",
@@ -179,28 +203,12 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 597696,
-      "num": 500547,
-      "word": "王诗龄放假回国",
-      "onboard_time": 1679108550,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 595038,
       "num": 595038,
       "word": "阿迪达斯们为何在中国市场不香了",
       "onboard_time": 1679099727,
       "rank": 7,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 582584,
-      "num": 582584,
-      "word": "乘风发布人 费翔",
-      "onboard_time": 1679108729,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 548088,
@@ -227,6 +235,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 476650,
+      "num": 476650,
+      "word": "黄金",
+      "onboard_time": 1679106267,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 470012,
       "num": 437228,
       "word": "女子称医院延误治疗致儿子甲流死亡",
@@ -235,20 +251,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 468852,
-      "num": 468852,
-      "word": "黄金",
-      "onboard_time": 1679106267,
-      "rank": 27,
-      "category": "财经"
-    },
-    {
       "raw_hot": 467116,
       "num": 467116,
       "word": "莲花坐垫",
       "onboard_time": 1679096662,
       "rank": 9,
       "category": "幽默,时尚"
+    },
+    {
+      "raw_hot": 457628,
+      "num": 457628,
+      "word": "王鹤棣官宣微博之夜",
+      "onboard_time": 1679109507,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 449537,
@@ -265,6 +281,14 @@
       "onboard_time": 1679079193,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 442171,
+      "num": 442171,
+      "word": "垂涎 专属omega",
+      "onboard_time": 1679110167,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 427595,
@@ -419,12 +443,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 255650,
-      "num": 255650,
-      "word": "王鹤棣官宣微博之夜",
-      "onboard_time": 1679109507,
-      "rank": 20,
-      "category": "综艺"
+      "raw_hot": 252633,
+      "num": 200901,
+      "word": "女子称点1314元套餐被店员嫌男友小气",
+      "onboard_time": 1679109809,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 247194,
@@ -563,6 +587,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 204831,
+      "num": 204831,
+      "word": "苏州大学通报男生P图造女生黄谣",
+      "onboard_time": 1679110048,
+      "rank": 28,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 204247,
       "num": 204247,
       "word": "导游因游客未购物恶劣态度已立案调查",
@@ -593,6 +625,22 @@
       "onboard_time": 1679066131,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 198263,
+      "num": 198263,
+      "word": "老年斑",
+      "onboard_time": 1679110288,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197756,
+      "num": 197756,
+      "word": "陈晓新剧演民办教师",
+      "onboard_time": 1679109989,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 189257,
@@ -659,12 +707,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 158844,
-      "num": 158844,
-      "word": "重庆大学",
-      "onboard_time": 1679109331,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 158906,
+      "num": 158906,
+      "word": "斗罗大陆建模",
+      "onboard_time": 1679109809,
+      "rank": 37,
+      "category": "动漫"
     },
     {
       "raw_hot": 156430,
@@ -699,20 +747,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 150087,
+      "num": 150087,
+      "word": "苹果股价2023年已上涨19%",
+      "onboard_time": 1679109209,
+      "rank": 42,
+      "category": "财经,科技"
+    },
+    {
       "raw_hot": 147152,
       "num": 147152,
       "word": "女子腹痛就医竟怀孕足月生下男婴",
       "onboard_time": 1679036069,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 143978,
-      "num": 143978,
-      "word": "苹果股价2023年已上涨19%",
-      "onboard_time": 1679109209,
-      "rank": 42,
-      "category": "财经,科技"
     },
     {
       "raw_hot": 141766,
@@ -956,7 +1004,7 @@
     },
     {
       "raw_hot": 66060,
-      "num": 1197820,
+      "num": 1564947,
       "word": "2022中国科学十大进展",
       "onboard_time": 1679057729,
       "rank": 2,

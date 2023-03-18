@@ -1,0 +1,410 @@
+{
+  "runTime": 1679110423780,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2520880,
+        "num": 2520880,
+        "word": "25岁女生长期熬夜长出老年斑",
+        "onboard_time": 1679106506,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2330226,
+        "num": 2330226,
+        "word": "苏州大学赵尚峰",
+        "onboard_time": 1679107647,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 17175,
+        "num": 1564947,
+        "word": "2022中国科学十大进展",
+        "onboard_time": 1679057729,
+        "rank": 2,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1007952,
+        "num": 1007952,
+        "word": "男孩患鸟面综合症",
+        "onboard_time": 1679106147,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 662101,
+        "num": 662101,
+        "word": "乘风发布人 费翔",
+        "onboard_time": 1679108729,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 861395,
+        "num": 659256,
+        "word": "男教师被举报猥亵女生后坠亡",
+        "onboard_time": 1679096482,
+        "rank": 5,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 652033,
+        "num": 652033,
+        "word": "iPhone15ProMax将打破最薄边框纪录",
+        "onboard_time": 1679105666,
+        "rank": 6,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 625806,
+        "num": 625806,
+        "word": "中央统战部原副部长崔茂虎接受审查调查",
+        "onboard_time": 1679107229,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 526217,
+        "num": 526217,
+        "word": "水哥的书房",
+        "onboard_time": 1679106088,
+        "rank": 8,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 476650,
+        "num": 476650,
+        "word": "黄金",
+        "onboard_time": 1679106267,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1302159,
+        "num": 471667,
+        "word": "重庆大学",
+        "onboard_time": 1679109331,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 847940,
+        "num": 470364,
+        "word": "王诗龄放假回国",
+        "onboard_time": 1679108550,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 457628,
+        "num": 457628,
+        "word": "王鹤棣官宣微博之夜",
+        "onboard_time": 1679109507,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 442171,
+        "num": 442171,
+        "word": "垂涎 专属omega",
+        "onboard_time": 1679110167,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 413504,
+        "num": 413504,
+        "word": "上海7旬大爷结3次婚被分3套房",
+        "onboard_time": 1679101348,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358902,
+        "num": 358902,
+        "word": "女子称医院延误治疗致儿子甲流死亡",
+        "onboard_time": 1679105546,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 357621,
+        "num": 357621,
+        "word": "初代未拆封iPhone拍出37.9万元",
+        "onboard_time": 1679107589,
+        "rank": 16,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 342083,
+        "num": 342083,
+        "word": "丫丫胖了一点白了一点",
+        "onboard_time": 1679065230,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315762,
+        "num": 315762,
+        "word": "昆明航空向葛优致歉",
+        "onboard_time": 1679098707,
+        "rank": 18,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 306168,
+        "num": 306168,
+        "word": "16吨变质牙签肉是如何流入市场的",
+        "onboard_time": 1679107528,
+        "rank": 19,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 245956,
+        "num": 245956,
+        "word": "身体出现哪些异常是肝脏在预警",
+        "onboard_time": 1679099126,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241619,
+        "num": 241619,
+        "word": "J姐扔海莉产品支持赛琳娜",
+        "onboard_time": 1679097623,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223574,
+        "num": 223574,
+        "word": "男子隐瞒婚史与21岁女孩交往",
+        "onboard_time": 1679064814,
+        "rank": 22,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 222801,
+        "num": 222801,
+        "word": "霉霉全球巡演",
+        "onboard_time": 1679100748,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 221178,
+        "num": 221178,
+        "word": "杨迪壁咚唐嫣",
+        "onboard_time": 1679106689,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220134,
+        "num": 220134,
+        "word": "小智终于去见比雕了",
+        "onboard_time": 1679102008,
+        "rank": 25,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 210684,
+        "num": 210684,
+        "word": "俞敏洪称宁愿当没钱的流浪汉",
+        "onboard_time": 1679103688,
+        "rank": 26,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 208472,
+        "num": 208472,
+        "word": "他是谁 看yue了",
+        "onboard_time": 1679060550,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204831,
+        "num": 204831,
+        "word": "苏州大学通报男生P图造女生黄谣",
+        "onboard_time": 1679110048,
+        "rank": 28,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 201079,
+        "num": 201079,
+        "word": "归路断更",
+        "onboard_time": 1679105366,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 252633,
+        "num": 200901,
+        "word": "女子称点1314元套餐被店员嫌男友小气",
+        "onboard_time": 1679109809,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198263,
+        "num": 198263,
+        "word": "老年斑",
+        "onboard_time": 1679110288,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197756,
+        "num": 197756,
+        "word": "陈晓新剧演民办教师",
+        "onboard_time": 1679109989,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 173803,
+        "num": 173803,
+        "word": "95后成为二手交易主力军",
+        "onboard_time": 1679109209,
+        "rank": 33,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 172248,
+        "num": 172248,
+        "word": "宋佳王阳两次演夫妻对比",
+        "onboard_time": 1679108371,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 169019,
+        "num": 169019,
+        "word": "文东恩复仇花费",
+        "onboard_time": 1679099487,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 168438,
+        "num": 168438,
+        "word": "我国首次发现奥密克戎新亚型",
+        "onboard_time": 1679084533,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158906,
+        "num": 158906,
+        "word": "斗罗大陆建模",
+        "onboard_time": 1679109809,
+        "rank": 37,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 157062,
+        "num": 157062,
+        "word": "关注孟菲斯天气只因丫丫在那里",
+        "onboard_time": 1679101826,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154785,
+        "num": 154785,
+        "word": "阿迪达斯们为何在中国市场不香了",
+        "onboard_time": 1679099727,
+        "rank": 39,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 151268,
+        "num": 151268,
+        "word": "火箭绝杀鹈鹕",
+        "onboard_time": 1679107888,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150087,
+        "num": 150087,
+        "word": "苹果股价2023年已上涨19%",
+        "onboard_time": 1679109209,
+        "rank": 41,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 145501,
+        "num": 145501,
+        "word": "梅西索要6亿欧年薪是谣言",
+        "onboard_time": 1679100329,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144416,
+        "num": 144416,
+        "word": "俄罗斯养的大熊猫",
+        "onboard_time": 1679082312,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139536,
+        "num": 139536,
+        "word": "光渊",
+        "onboard_time": 1679058569,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 129548,
+        "num": 129548,
+        "word": "24岁女子不会做饭给自己报名小饭桌",
+        "onboard_time": 1679066790,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127185,
+        "num": 127185,
+        "word": "肝不好真的会变丑吗",
+        "onboard_time": 1679101047,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116099,
+        "num": 116099,
+        "word": "林墨模仿高启盛走路",
+        "onboard_time": 1679105186,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115717,
+        "num": 115717,
+        "word": "YG解决歌手空白期的办法",
+        "onboard_time": 1679098224,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111613,
+        "num": 111613,
+        "word": "人生路遥改名人生之路",
+        "onboard_time": 1679107348,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席访俄是一次友谊合作和平之旅#"
+    }
+  }
+}
