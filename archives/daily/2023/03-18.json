@@ -1,6 +1,6 @@
 {
   "startTime": 1679070330564,
-  "endTime": 1679102818229,
+  "endTime": 1679104349428,
   "band_list": [
     {
       "raw_hot": 1825028,
@@ -32,6 +32,14 @@
       "word": "我国首次发现奥密克戎新亚型",
       "onboard_time": 1679084533,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 997518,
+      "num": 997518,
+      "word": "上海7旬大爷结3次婚被分3套房",
+      "onboard_time": 1679101348,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 784771,
-      "num": 461438,
+      "num": 466069,
       "word": "J姐扔海莉产品支持赛琳娜",
       "onboard_time": 1679097623,
       "rank": 10,
@@ -83,20 +91,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 681949,
-      "num": 457355,
-      "word": "上海7旬大爷结3次婚被分3套房",
-      "onboard_time": 1679101348,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 665568,
       "num": 665568,
       "word": "富豪出10万美元请女子摘口罩遭拒",
       "onboard_time": 1679074218,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 632305,
+      "num": 632305,
+      "word": "文东恩复仇花费",
+      "onboard_time": 1679099487,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 617555,
@@ -107,20 +115,20 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 613718,
-      "num": 613718,
-      "word": "文东恩复仇花费",
-      "onboard_time": 1679099487,
-      "rank": 5,
-      "category": "影视"
-    },
-    {
       "raw_hot": 608054,
       "num": 608054,
       "word": "隔空猥亵受害者多为未成年人",
       "onboard_time": 1679067569,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 595038,
+      "num": 595038,
+      "word": "阿迪达斯们为何在中国市场不香了",
+      "onboard_time": 1679099727,
+      "rank": 7,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 548088,
@@ -131,20 +139,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 528982,
-      "num": 528982,
-      "word": "阿迪达斯们为何在中国市场不香了",
-      "onboard_time": 1679099727,
-      "rank": 7,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 525379,
       "num": 525379,
       "word": "日本女大胃王菅原初代患肠癌病逝",
       "onboard_time": 1679059410,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 476718,
+      "num": 476718,
+      "word": "霉霉全球巡演",
+      "onboard_time": 1679100748,
+      "rank": 13,
+      "category": "音乐"
     },
     {
       "raw_hot": 467116,
@@ -171,14 +179,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 430207,
-      "num": 430207,
-      "word": "霉霉全球巡演",
-      "onboard_time": 1679100748,
-      "rank": 13,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 425627,
       "num": 425627,
       "word": "桑延选角",
@@ -192,6 +192,14 @@
       "word": "24岁女子不会做饭给自己报名小饭桌",
       "onboard_time": 1679066790,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 407575,
+      "num": 407575,
+      "word": "俄罗斯养的大熊猫",
+      "onboard_time": 1679082312,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -211,20 +219,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 384997,
-      "num": 384997,
-      "word": "俄罗斯养的大熊猫",
-      "onboard_time": 1679082312,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 382042,
       "num": 382042,
       "word": "什么行为容易伤肝",
       "onboard_time": 1679068169,
       "rank": 13,
       "category": "其它"
+    },
+    {
+      "raw_hot": 381279,
+      "num": 381279,
+      "word": "肝不好真的会变丑吗",
+      "onboard_time": 1679101047,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 379393,
@@ -243,20 +251,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 346101,
-      "num": 346101,
-      "word": "肝不好真的会变丑吗",
-      "onboard_time": 1679101047,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 313343,
       "num": 313343,
       "word": "金大川雎晓雯 喜酒",
       "onboard_time": 1679047412,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 307586,
+      "num": 307586,
+      "word": "小智终于去见比雕了",
+      "onboard_time": 1679102008,
+      "rank": 40,
+      "category": "动漫"
     },
     {
       "raw_hot": 300671,
@@ -305,6 +313,14 @@
       "onboard_time": 1679064270,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 238504,
+      "num": 238504,
+      "word": "当代年轻人为什么要爆肝",
+      "onboard_time": 1679102368,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 233883,
@@ -371,11 +387,11 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 203274,
-      "num": 203274,
-      "word": "当代年轻人为什么要爆肝",
-      "onboard_time": 1679102368,
-      "rank": 29,
+      "raw_hot": 202053,
+      "num": 202053,
+      "word": "研究表明养猫养狗或影响睡眠",
+      "onboard_time": 1679077875,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -395,10 +411,26 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 197864,
-      "num": 197864,
-      "word": "研究表明养猫养狗或影响睡眠",
-      "onboard_time": 1679077875,
+      "raw_hot": 193566,
+      "num": 193566,
+      "word": "张婧仪花朵耳环",
+      "onboard_time": 1679101528,
+      "rank": 33,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 187705,
+      "num": 187705,
+      "word": "俞敏洪称宁愿当没钱的流浪汉",
+      "onboard_time": 1679103688,
+      "rank": 31,
+      "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 187328,
+      "num": 187328,
+      "word": "关注孟菲斯天气只因丫丫在那里",
+      "onboard_time": 1679101826,
       "rank": 47,
       "category": "社会新闻"
     },
@@ -427,14 +459,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 175387,
-      "num": 175387,
-      "word": "张婧仪花朵耳环",
-      "onboard_time": 1679101528,
-      "rank": 33,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 170867,
       "num": 170867,
       "word": "郭艾伦被谁绊倒了",
@@ -459,20 +483,28 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 151886,
+      "num": 151886,
+      "word": "张杰买菜",
+      "onboard_time": 1679097986,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 151193,
+      "num": 151193,
+      "word": "光渊",
+      "onboard_time": 1679058569,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 150695,
       "num": 150695,
       "word": "李现看了十四冠之心",
       "onboard_time": 1679097505,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 148571,
-      "num": 148571,
-      "word": "小智终于去见比雕了",
-      "onboard_time": 1679102008,
-      "rank": 40,
-      "category": "动漫"
     },
     {
       "raw_hot": 147152,
@@ -499,14 +531,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 136677,
-      "num": 136677,
-      "word": "张杰买菜",
-      "onboard_time": 1679097986,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 130596,
       "num": 130596,
       "word": "你管这叫修正带",
@@ -520,14 +544,6 @@
       "word": "张译带着悬疑刑侦硬菜剧来了",
       "onboard_time": 1679069485,
       "rank": 33,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 126349,
-      "num": 126349,
-      "word": "光渊",
-      "onboard_time": 1679058569,
-      "rank": 36,
       "category": "影视"
     },
     {
@@ -547,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 123887,
+      "num": 123887,
+      "word": "不敢晚上看他是谁",
+      "onboard_time": 1679104048,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 122230,
       "num": 122230,
       "word": "小学生第一次听周杰伦的歌",
@@ -555,20 +579,20 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 118638,
-      "num": 118638,
-      "word": "关注孟菲斯天气只因丫丫在那里",
-      "onboard_time": 1679101826,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 117798,
       "num": 117798,
       "word": "姜广涛能不能把声带捐出来",
       "onboard_time": 1679052869,
       "rank": 37,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 116844,
+      "num": 116844,
+      "word": "归晓路晨吃一个汉堡",
+      "onboard_time": 1679103566,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 115625,
