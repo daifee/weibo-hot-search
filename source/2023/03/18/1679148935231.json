@@ -1,0 +1,410 @@
+{
+  "runTime": 1679148935231,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2001118,
+        "num": 2001118,
+        "word": "西南大学开设公务员专业",
+        "onboard_time": 1679145027,
+        "rank": 0,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1503904,
+        "num": 1503904,
+        "word": "中国专家组检查丫丫日常食物",
+        "onboard_time": 1679147012,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131443,
+        "num": 1196614,
+        "word": "这段跨越千年的对话令人骄傲又感动",
+        "onboard_time": 1679142929,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1135400,
+        "num": 1135400,
+        "word": "你好星期六下周有两对cp",
+        "onboard_time": 1679145268,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1034325,
+        "num": 1034325,
+        "word": "特朗普自称将被捕",
+        "onboard_time": 1679146650,
+        "rank": 4,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 982311,
+        "num": 982311,
+        "word": "Jennie台湾高雄演唱会饭拍视频",
+        "onboard_time": 1679146953,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 946088,
+        "num": 946088,
+        "word": "牛迪",
+        "onboard_time": 1679146532,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 709470,
+        "num": 709470,
+        "word": "丫丫",
+        "onboard_time": 1679146048,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 688177,
+        "num": 688177,
+        "word": "王曼昱孙颖莎女双冠军",
+        "onboard_time": 1679148030,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 664224,
+        "num": 664224,
+        "word": "强盛公司勾兑盐水冒充神药坑骗老人",
+        "onboard_time": 1679138729,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1257980,
+        "num": 655475,
+        "word": "曹曦月",
+        "onboard_time": 1679137350,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 839049,
+        "num": 647549,
+        "word": "这才是吸毒前后真实的面容变化",
+        "onboard_time": 1679125645,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 740158,
+        "num": 626366,
+        "word": "小S带女儿去看BLACKPINK的演唱会",
+        "onboard_time": 1679146048,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 683981,
+        "num": 607923,
+        "word": "偶遇杨幂看电影",
+        "onboard_time": 1679146228,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 605753,
+        "num": 605753,
+        "word": "乌总统夫人讲述乌妇女用罐头击落俄无人机",
+        "onboard_time": 1679143708,
+        "rank": 14,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 577949,
+        "num": 577949,
+        "word": "花三三卢靖姗合照",
+        "onboard_time": 1679138188,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 557362,
+        "num": 557362,
+        "word": "被造黄谣女生决定不采取自诉",
+        "onboard_time": 1679136628,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 518912,
+        "num": 518912,
+        "word": "TES四连败",
+        "onboard_time": 1679145451,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 408156,
+        "num": 408156,
+        "word": "灵梦道歉",
+        "onboard_time": 1679148090,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 443894,
+        "num": 403935,
+        "word": "苏州大学造黄谣学生与受害者对话曝光",
+        "onboard_time": 1679121209,
+        "rank": 19,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 755955,
+        "num": 403138,
+        "word": "张隆 李梦",
+        "onboard_time": 1679120426,
+        "rank": 20,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 397966,
+        "num": 397966,
+        "word": "金钟仁MOMO舞蹈挑战",
+        "onboard_time": 1679147370,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 410018,
+        "num": 396921,
+        "word": "李梦",
+        "onboard_time": 1679118686,
+        "rank": 22,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 393182,
+        "num": 393182,
+        "word": "20万请曹姓明星带货3月成交278元",
+        "onboard_time": 1679131647,
+        "rank": 23,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 376670,
+        "num": 376670,
+        "word": "光渊更不更",
+        "onboard_time": 1679142327,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 373387,
+        "num": 373387,
+        "word": "言承旭李雪琴再现夏花名场面",
+        "onboard_time": 1679148213,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 346410,
+        "num": 346410,
+        "word": "霉霉唱了44首歌",
+        "onboard_time": 1679141548,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 326827,
+        "num": 326827,
+        "word": "樊振东马龙争夺冠军",
+        "onboard_time": 1679145329,
+        "rank": 27,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 302736,
+        "num": 302736,
+        "word": "女子称离职被拒HR招人又招到自己",
+        "onboard_time": 1679137648,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299375,
+        "num": 299375,
+        "word": "任嘉伦给宋祖儿撑伞路透视频",
+        "onboard_time": 1679146830,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 280795,
+        "num": 280795,
+        "word": "人真的不能不上班",
+        "onboard_time": 1679126247,
+        "rank": 30,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 271243,
+        "num": 271243,
+        "word": "王嘉尔今年有国内巡演",
+        "onboard_time": 1679146711,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245254,
+        "num": 245254,
+        "word": "为什么工作后很难谈恋爱了",
+        "onboard_time": 1679132486,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 240432,
+        "num": 240432,
+        "word": "薛之谦演唱会衢州",
+        "onboard_time": 1679140708,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 207518,
+        "num": 207518,
+        "word": "BLG战胜TES",
+        "onboard_time": 1679145210,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 205840,
+        "num": 205840,
+        "word": "重庆大学",
+        "onboard_time": 1679109331,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196275,
+        "num": 196275,
+        "word": "朱正廷金翅造型开场",
+        "onboard_time": 1679147972,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 193670,
+        "num": 193670,
+        "word": "KPL",
+        "onboard_time": 1679148213,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 192516,
+        "num": 192516,
+        "word": "孙怡猫眼妆",
+        "onboard_time": 1679144249,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 184376,
+        "num": 184376,
+        "word": "刘亦菲 活动",
+        "onboard_time": 1679135489,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181925,
+        "num": 181925,
+        "word": "魏大勋敲在杨超越的发夹上",
+        "onboard_time": 1679132907,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180680,
+        "num": 180680,
+        "word": "女孩回应大学毕业回村当选村长走红",
+        "onboard_time": 1679144186,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173303,
+        "num": 173303,
+        "word": "他是谁",
+        "onboard_time": 1679143827,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 164436,
+        "num": 164436,
+        "word": "陈雨菲进决赛",
+        "onboard_time": 1679146168,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157533,
+        "num": 157533,
+        "word": "玫瑰花的葬礼现在是鹭卓的禁曲",
+        "onboard_time": 1679133928,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150997,
+        "num": 150997,
+        "word": "粉丝叫费曼饭焖",
+        "onboard_time": 1679144730,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137992,
+        "num": 137992,
+        "word": "陷入我们的热恋",
+        "onboard_time": 1679137529,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 115891,
+        "num": 115891,
+        "word": "能量爆棚的一节舞蹈课",
+        "onboard_time": 1679148752,
+        "rank": 47,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 112733,
+        "num": 112733,
+        "word": "马嘉祺宋亚轩跑步上课",
+        "onboard_time": 1679134588,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111302,
+        "num": 111302,
+        "word": "马龙晋级大满贯决赛",
+        "onboard_time": 1679144968,
+        "rank": 49,
+        "category": "体育,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国经济高质量发展#"
+    }
+  }
+}

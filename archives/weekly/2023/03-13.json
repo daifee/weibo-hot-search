@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1679146400117,
+  "endTime": 1679148935231,
   "band_list": [
     {
       "raw_hot": 9458443,
@@ -305,6 +305,14 @@
       "onboard_time": 1679036487,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 2001118,
+      "num": 2001118,
+      "word": "西南大学开设公务员专业",
+      "onboard_time": 1679145027,
+      "rank": 25,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1994978,
@@ -632,6 +640,14 @@
       "word": "旅客带101管孕妇血液样本出境被查",
       "onboard_time": 1678936347,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1503904,
+      "num": 1503904,
+      "word": "中国专家组检查丫丫日常食物",
+      "onboard_time": 1679147012,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -979,6 +995,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1135400,
+      "num": 1135400,
+      "word": "你好星期六下周有两对cp",
+      "onboard_time": 1679145268,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1126953,
       "num": 1126953,
       "word": "宋慧乔韩素希合作自白的代价",
@@ -1195,14 +1219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1042512,
-      "num": 1042512,
-      "word": "西南大学开设公务员专业",
-      "onboard_time": 1679145027,
-      "rank": 25,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 1038285,
       "num": 1038285,
       "word": "丫丫回国先到上海检疫",
@@ -1225,6 +1241,14 @@
       "onboard_time": 1678686808,
       "rank": 12,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1034325,
+      "num": 1034325,
+      "word": "特朗普自称将被捕",
+      "onboard_time": 1679146650,
+      "rank": 4,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 1033927,
@@ -1339,6 +1363,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 982311,
+      "num": 982311,
+      "word": "Jennie台湾高雄演唱会饭拍视频",
+      "onboard_time": 1679146953,
+      "rank": 5,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 977207,
       "num": 977207,
       "word": "尹锡悦向日本国旗鞠躬画面引争议",
@@ -1441,6 +1473,14 @@
       "onboard_time": 1678866388,
       "rank": 4,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 946088,
+      "num": 946088,
+      "word": "牛迪",
+      "onboard_time": 1679146532,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 932644,
@@ -1891,14 +1931,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 824496,
-      "num": 824496,
-      "word": "你好星期六下周有两对cp",
-      "onboard_time": 1679145268,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 815914,
       "num": 815914,
       "word": "王勉说跟鹿晗一块睡觉此生无憾了",
@@ -2275,6 +2307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 740158,
+      "num": 626366,
+      "word": "小S带女儿去看BLACKPINK的演唱会",
+      "onboard_time": 1679146048,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 740085,
       "num": 740085,
       "word": "乌总统夫人讲述乌妇女用罐头击落俄无人机",
@@ -2435,6 +2475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 709470,
+      "num": 709470,
+      "word": "丫丫",
+      "onboard_time": 1679146048,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 707541,
       "num": 707541,
       "word": "莎头",
@@ -2555,6 +2603,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 688177,
+      "num": 688177,
+      "word": "王曼昱孙颖莎女双冠军",
+      "onboard_time": 1679148030,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 686810,
       "num": 686810,
       "word": "财政部处罚德勤和华融",
@@ -2585,6 +2641,14 @@
       "onboard_time": 1678802136,
       "rank": 8,
       "category": "教育"
+    },
+    {
+      "raw_hot": 683981,
+      "num": 607923,
+      "word": "偶遇杨幂看电影",
+      "onboard_time": 1679146228,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 683664,
@@ -5091,6 +5155,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 408156,
+      "num": 408156,
+      "word": "灵梦道歉",
+      "onboard_time": 1679148090,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 407984,
       "num": 237538,
       "word": "迪丽热巴古典造型花絮视频",
@@ -5185,6 +5257,14 @@
       "onboard_time": 1678734671,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 397966,
+      "num": 397966,
+      "word": "金钟仁MOMO舞蹈挑战",
+      "onboard_time": 1679147370,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 397329,
@@ -5521,6 +5601,14 @@
       "onboard_time": 1678935686,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 373387,
+      "num": 373387,
+      "word": "言承旭李雪琴再现夏花名场面",
+      "onboard_time": 1679148213,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 373076,
@@ -6227,6 +6315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 326827,
+      "num": 326827,
+      "word": "樊振东马龙争夺冠军",
+      "onboard_time": 1679145329,
+      "rank": 35,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 325755,
       "num": 400462,
       "word": "男子爬山偶遇赤狐对视引路",
@@ -6619,6 +6715,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 299375,
+      "num": 299375,
+      "word": "任嘉伦给宋祖儿撑伞路透视频",
+      "onboard_time": 1679146830,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 299312,
       "num": 299312,
       "word": "恢复审发外国人各类赴华签证",
@@ -6649,14 +6753,6 @@
       "onboard_time": 1679078654,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 298240,
-      "num": 235658,
-      "word": "小S带女儿去看BLACKPINK的演唱会",
-      "onboard_time": 1679146048,
-      "rank": 30,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 297991,
@@ -6865,14 +6961,6 @@
       "onboard_time": 1678789290,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 282805,
-      "num": 282805,
-      "word": "樊振东马龙争夺冠军",
-      "onboard_time": 1679145329,
-      "rank": 35,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 282724,
@@ -7121,6 +7209,14 @@
       "onboard_time": 1678954227,
       "rank": 30,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 271243,
+      "num": 271243,
+      "word": "王嘉尔今年有国内巡演",
+      "onboard_time": 1679146711,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 271035,
@@ -9219,6 +9315,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 196275,
+      "num": 196275,
+      "word": "朱正廷金翅造型开场",
+      "onboard_time": 1679147972,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 196135,
       "num": 196135,
       "word": "垂涎",
@@ -9345,6 +9449,14 @@
       "onboard_time": 1678937126,
       "rank": 24,
       "category": "科技"
+    },
+    {
+      "raw_hot": 193670,
+      "num": 193670,
+      "word": "KPL",
+      "onboard_time": 1678971269,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 193347,
@@ -9987,14 +10099,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 176961,
-      "num": 176961,
-      "word": "丫丫",
-      "onboard_time": 1679146048,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 176891,
       "num": 208260,
       "word": "管虎新片黄渤倪妮搭档",
@@ -10313,14 +10417,6 @@
       "onboard_time": 1679107888,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 164170,
-      "num": 164170,
-      "word": "偶遇杨幂看电影",
-      "onboard_time": 1679146228,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 164006,
@@ -10884,7 +10980,7 @@
     },
     {
       "raw_hot": 145240,
-      "num": 1024789,
+      "num": 1196614,
       "word": "这段跨越千年的对话令人骄傲又感动",
       "onboard_time": 1679142929,
       "rank": 2,
@@ -11435,14 +11531,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 128934,
-      "num": 128934,
-      "word": "KPL",
-      "onboard_time": 1678971269,
-      "rank": 47,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 127922,
       "num": 127922,
       "word": "谣言的伤害力有多大",
@@ -11721,6 +11809,14 @@
       "onboard_time": 1679134108,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 115891,
+      "num": 115891,
+      "word": "能量爆棚的一节舞蹈课",
+      "onboard_time": 1679148752,
+      "rank": 47,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 115473,

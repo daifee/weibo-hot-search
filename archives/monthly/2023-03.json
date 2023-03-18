@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679146400117,
+  "endTime": 1679148935231,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -769,6 +769,14 @@
       "onboard_time": 1678093946,
       "rank": 16,
       "category": "情感"
+    },
+    {
+      "raw_hot": 2001118,
+      "num": 2001118,
+      "word": "西南大学开设公务员专业",
+      "onboard_time": 1679145027,
+      "rank": 25,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1994978,
@@ -1680,6 +1688,14 @@
       "word": "汇源发布认养丫丫征集令",
       "onboard_time": 1678343845,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1503904,
+      "num": 1503904,
+      "word": "中国专家组检查丫丫日常食物",
+      "onboard_time": 1679147012,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -2923,6 +2939,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1135400,
+      "num": 1135400,
+      "word": "你好星期六下周有两对cp",
+      "onboard_time": 1679145268,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1134239,
       "num": 328919,
       "word": "安福路小公主",
@@ -3483,14 +3507,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 1042512,
-      "num": 1042512,
-      "word": "西南大学开设公务员专业",
-      "onboard_time": 1679145027,
-      "rank": 25,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 1042020,
       "num": 1042020,
       "word": "被夺笋的花花",
@@ -3537,6 +3553,14 @@
       "onboard_time": 1678686808,
       "rank": 12,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1034325,
+      "num": 1034325,
+      "word": "特朗普自称将被捕",
+      "onboard_time": 1679146650,
+      "rank": 4,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 1033927,
@@ -3923,6 +3947,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 982311,
+      "num": 982311,
+      "word": "Jennie台湾高雄演唱会饭拍视频",
+      "onboard_time": 1679146953,
+      "rank": 5,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 979898,
       "num": 610047,
       "word": "凡人修仙传 杨洋",
@@ -4193,6 +4225,14 @@
       "onboard_time": 1678274846,
       "rank": 14,
       "category": "网红"
+    },
+    {
+      "raw_hot": 946088,
+      "num": 946088,
+      "word": "牛迪",
+      "onboard_time": 1679146532,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 944181,
@@ -5219,14 +5259,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 824496,
-      "num": 824496,
-      "word": "你好星期六下周有两对cp",
-      "onboard_time": 1679145268,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 823683,
       "num": 400043,
       "word": "一楼住户不同意装电梯被邻居起诉",
@@ -6211,6 +6243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 740158,
+      "num": 626366,
+      "word": "小S带女儿去看BLACKPINK的演唱会",
+      "onboard_time": 1679146048,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 740085,
       "num": 740085,
       "word": "乌总统夫人讲述乌妇女用罐头击落俄无人机",
@@ -6907,6 +6947,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 688177,
+      "num": 688177,
+      "word": "王曼昱孙颖莎女双冠军",
+      "onboard_time": 1679148030,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 687976,
       "num": 687976,
       "word": "王楚然说玉骨遥今年会播",
@@ -6985,6 +7033,14 @@
       "onboard_time": 1678577598,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 683981,
+      "num": 607923,
+      "word": "偶遇杨幂看电影",
+      "onboard_time": 1679146228,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 683664,
@@ -13499,6 +13555,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 408156,
+      "num": 408156,
+      "word": "灵梦道歉",
+      "onboard_time": 1679148090,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 408002,
       "num": 408002,
       "word": "光遇",
@@ -13809,6 +13873,14 @@
       "onboard_time": 1678505129,
       "rank": 16,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 397966,
+      "num": 397966,
+      "word": "金钟仁MOMO舞蹈挑战",
+      "onboard_time": 1679147370,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 397628,
@@ -14753,6 +14825,14 @@
       "onboard_time": 1678935686,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 373387,
+      "num": 373387,
+      "word": "言承旭李雪琴再现夏花名场面",
+      "onboard_time": 1679148213,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 373076,
@@ -16787,6 +16867,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 326827,
+      "num": 326827,
+      "word": "樊振东马龙争夺冠军",
+      "onboard_time": 1679145329,
+      "rank": 35,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 326745,
       "num": 326745,
       "word": "TheShy奎因上单",
@@ -18035,6 +18123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 299375,
+      "num": 299375,
+      "word": "任嘉伦给宋祖儿撑伞路透视频",
+      "onboard_time": 1679146830,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 299312,
       "num": 299312,
       "word": "恢复审发外国人各类赴华签证",
@@ -18145,14 +18241,6 @@
       "onboard_time": 1677626542,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 298240,
-      "num": 235658,
-      "word": "小S带女儿去看BLACKPINK的演唱会",
-      "onboard_time": 1679146048,
-      "rank": 30,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 297991,
@@ -18769,14 +18857,6 @@
       "onboard_time": 1678789290,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 282805,
-      "num": 282805,
-      "word": "樊振东马龙争夺冠军",
-      "onboard_time": 1679145329,
-      "rank": 35,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 282724,
@@ -19401,6 +19481,14 @@
       "onboard_time": 1677643049,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 271243,
+      "num": 271243,
+      "word": "王嘉尔今年有国内巡演",
+      "onboard_time": 1679146711,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 271072,
@@ -25371,6 +25459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196275,
+      "num": 196275,
+      "word": "朱正廷金翅造型开场",
+      "onboard_time": 1679147972,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 196135,
       "num": 196135,
       "word": "垂涎",
@@ -28555,14 +28651,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 164170,
-      "num": 164170,
-      "word": "偶遇杨幂看电影",
-      "onboard_time": 1679146228,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 164047,
       "num": 242037,
       "word": "黑暗荣耀导演否认校园暴力",
@@ -30204,7 +30292,7 @@
     },
     {
       "raw_hot": 145240,
-      "num": 1024789,
+      "num": 1196614,
       "word": "这段跨越千年的对话令人骄傲又感动",
       "onboard_time": 1679142929,
       "rank": 2,
@@ -32817,6 +32905,14 @@
       "onboard_time": 1678193308,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 115891,
+      "num": 115891,
+      "word": "能量爆棚的一节舞蹈课",
+      "onboard_time": 1679148752,
+      "rank": 47,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 115854,
