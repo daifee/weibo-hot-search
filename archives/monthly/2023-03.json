@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679131017142,
+  "endTime": 1679132028039,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -3307,6 +3307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1059848,
+      "num": 1059848,
+      "word": "李现新剧演遗体整容师",
+      "onboard_time": 1679130987,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1059632,
       "num": 1056072,
       "word": "宋茜路演现场因雪莉落泪",
@@ -3529,6 +3537,14 @@
       "onboard_time": 1679106147,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1028575,
+      "num": 340043,
+      "word": "孔雪儿生图",
+      "onboard_time": 1679130025,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1027508,
@@ -6857,14 +6873,6 @@
       "onboard_time": 1678956149,
       "rank": 8,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 683641,
-      "num": 338064,
-      "word": "孔雪儿生图",
-      "onboard_time": 1679130025,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 682806,
@@ -10811,14 +10819,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 495442,
-      "num": 495442,
-      "word": "李现新剧演遗体整容师",
-      "onboard_time": 1679130987,
-      "rank": 6,
-      "category": "影视"
-    },
-    {
       "raw_hot": 495331,
       "num": 495331,
       "word": "从现在起全党全国人民的中心任务",
@@ -14025,6 +14025,14 @@
       "onboard_time": 1677551848,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 385433,
+      "num": 385433,
+      "word": "孙颖莎晋级大满贯决赛",
+      "onboard_time": 1679130025,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 385391,
@@ -17539,14 +17547,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 306540,
-      "num": 306540,
-      "word": "孙颖莎晋级大满贯决赛",
-      "onboard_time": 1679130025,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
       "raw_hot": 305787,
       "num": 305787,
       "word": "TVB直播网友建议讲粤语",
@@ -17809,6 +17809,14 @@
       "onboard_time": 1678173626,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 299062,
+      "num": 299062,
+      "word": "王嘉尔丁程鑫跳舞",
+      "onboard_time": 1679130507,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 299040,
@@ -25491,6 +25499,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 193337,
+      "num": 193337,
+      "word": "不止不休",
+      "onboard_time": 1679129727,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 193316,
       "num": 193316,
       "word": "宋慧乔演技感染力",
@@ -25595,12 +25611,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 192727,
-      "num": 192727,
-      "word": "王嘉尔丁程鑫跳舞",
-      "onboard_time": 1679130507,
-      "rank": 27,
-      "category": "综艺"
+      "raw_hot": 192714,
+      "num": 189171,
+      "word": "DYG战胜XYG",
+      "onboard_time": 1679131825,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 192696,
@@ -27939,6 +27955,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 167770,
+      "num": 167770,
+      "word": "钎城公孙离MVP",
+      "onboard_time": 1679132008,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 167756,
       "num": 167756,
       "word": "魏平安女儿被校园霸凌",
@@ -28267,6 +28291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 163283,
+      "num": 163283,
+      "word": "20万请曹姓明星带货3月成交278元",
+      "onboard_time": 1679131647,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162814,
       "num": 162814,
       "word": "他是谁案件套娃",
@@ -28441,14 +28473,6 @@
       "onboard_time": 1678796009,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 160589,
-      "num": 160589,
-      "word": "不止不休",
-      "onboard_time": 1679129727,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 160468,
@@ -31641,6 +31665,14 @@
       "onboard_time": 1677748172,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 125627,
+      "num": 125627,
+      "word": "苏翊鸣训练秀1980",
+      "onboard_time": 1679131886,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 125599,
