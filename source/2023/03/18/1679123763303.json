@@ -1,0 +1,410 @@
+{
+  "runTime": 1679123763303,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1821715,
+        "num": 1821715,
+        "word": "苏州大学造黄谣学生与受害者对话曝光",
+        "onboard_time": 1679121209,
+        "rank": 0,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 2907213,
+        "num": 1573813,
+        "word": "李梦",
+        "onboard_time": 1679118686,
+        "rank": 1,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 45462,
+        "num": 958010,
+        "word": "震撼航拍感受大漠生态治沙",
+        "onboard_time": 1679112028,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 669271,
+        "num": 669271,
+        "word": "24岁女大学生回村选村长意外当选",
+        "onboard_time": 1679119107,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 602065,
+        "num": 602065,
+        "word": "杜华官宣乐华家族演唱会",
+        "onboard_time": 1679118628,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 571764,
+        "num": 571764,
+        "word": "25岁女生长期熬夜长出老年斑",
+        "onboard_time": 1679106506,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 525478,
+        "num": 525478,
+        "word": "张俪发际线粉掉了",
+        "onboard_time": 1679115330,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 478645,
+        "num": 478645,
+        "word": "金牛座太善于隐藏自己的情绪",
+        "onboard_time": 1679122589,
+        "rank": 7,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 378928,
+        "num": 378928,
+        "word": "杨超越迈不开腿",
+        "onboard_time": 1679122768,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 299769,
+        "num": 299769,
+        "word": "赛琳娜现身霉霉演唱会",
+        "onboard_time": 1679115931,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 2704112,
+        "num": 299324,
+        "word": "张隆 李梦",
+        "onboard_time": 1679120426,
+        "rank": 10,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 2019491,
+        "num": 298955,
+        "word": "重庆大学",
+        "onboard_time": 1679109331,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1118281,
+        "num": 298380,
+        "word": "苏州大学通报男生P图造女生黄谣",
+        "onboard_time": 1679110048,
+        "rank": 12,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1033927,
+        "num": 297782,
+        "word": "宋慧乔回复韩素希",
+        "onboard_time": 1679120728,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 710105,
+        "num": 297576,
+        "word": "肯德基全家桶被曝吃出生的炸鸡",
+        "onboard_time": 1679113650,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 627681,
+        "num": 297135,
+        "word": "朴妍珍的牙",
+        "onboard_time": 1679122227,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 479945,
+        "num": 296469,
+        "word": "苏州大学赵尚峰",
+        "onboard_time": 1679107647,
+        "rank": 16,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 451880,
+        "num": 295868,
+        "word": "JINNI开通ins",
+        "onboard_time": 1679116410,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 438202,
+        "num": 295606,
+        "word": "网友P的周冬雨",
+        "onboard_time": 1679119767,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 416295,
+        "num": 295072,
+        "word": "印度男子因新娘高中成绩差退婚",
+        "onboard_time": 1679121388,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294604,
+        "num": 294604,
+        "word": "男孩患鸟面综合症",
+        "onboard_time": 1679106147,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293796,
+        "num": 293796,
+        "word": "微博之夜第四波阵容官宣",
+        "onboard_time": 1679110650,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 284283,
+        "num": 284283,
+        "word": "樊振东王楚钦vs张禹珍林钟勋",
+        "onboard_time": 1679120728,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 271355,
+        "num": 271355,
+        "word": "外国小朋友鼓励熊猫丫丫",
+        "onboard_time": 1679120187,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269277,
+        "num": 269277,
+        "word": "叶舒华问粉丝手机壳是谁",
+        "onboard_time": 1679121507,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267507,
+        "num": 267507,
+        "word": "女子称点1314元套餐被店员嫌男友小气",
+        "onboard_time": 1679109809,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234875,
+        "num": 234875,
+        "word": "郑成日说河道英很爱妍珍",
+        "onboard_time": 1679118148,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 229604,
+        "num": 229604,
+        "word": "时代少年团全员真实身高",
+        "onboard_time": 1679113468,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226919,
+        "num": 226919,
+        "word": "微博之夜",
+        "onboard_time": 1679110650,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 223282,
+        "num": 223282,
+        "word": "樊振东王楚钦战胜韩国组合夺冠",
+        "onboard_time": 1679122709,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207325,
+        "num": 207325,
+        "word": "山东事业编",
+        "onboard_time": 1679111427,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 206482,
+        "num": 206482,
+        "word": "华晨宇成都演唱会首场今日预售",
+        "onboard_time": 1679122107,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 200269,
+        "num": 200269,
+        "word": "王诗龄放假回国",
+        "onboard_time": 1679108550,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199638,
+        "num": 199638,
+        "word": "iPhone15ProMax将打破最薄边框纪录",
+        "onboard_time": 1679105666,
+        "rank": 33,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 192539,
+        "num": 192539,
+        "word": "演员兰斯莱迪克去世",
+        "onboard_time": 1679119166,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181911,
+        "num": 181911,
+        "word": "名侦探学院 小芒",
+        "onboard_time": 1679116530,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181437,
+        "num": 181437,
+        "word": "鹿晗撸猫",
+        "onboard_time": 1679119889,
+        "rank": 36,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 169306,
+        "num": 169306,
+        "word": "吴谨言千禧辣妹妆",
+        "onboard_time": 1679118445,
+        "rank": 37,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 146268,
+        "num": 146268,
+        "word": "谭松韵的松弛感",
+        "onboard_time": 1679123669,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 143520,
+        "num": 143520,
+        "word": "湖人煮熟的鸭子飞了",
+        "onboard_time": 1679116948,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134132,
+        "num": 134132,
+        "word": "初代未拆封iPhone拍出37.9万元",
+        "onboard_time": 1679107589,
+        "rank": 40,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 127276,
+        "num": 127276,
+        "word": "中央统战部原副部长崔茂虎接受审查调查",
+        "onboard_time": 1679107229,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125945,
+        "num": 125945,
+        "word": "浓眉把锅背好",
+        "onboard_time": 1679117967,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125885,
+        "num": 125885,
+        "word": "李一桐白鹿穿同款星星卫衣",
+        "onboard_time": 1679110650,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120100,
+        "num": 120100,
+        "word": "国产剧有他了不起",
+        "onboard_time": 1679122046,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 117346,
+        "num": 117346,
+        "word": "10岁女孩一字马轮滑过12辆车车底",
+        "onboard_time": 1679115868,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114282,
+        "num": 114282,
+        "word": "XYG对战DYG",
+        "onboard_time": 1679123246,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 111844,
+        "num": 111844,
+        "word": "女子称医院延误治疗致儿子甲流死亡",
+        "onboard_time": 1679105546,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103043,
+        "num": 103043,
+        "word": "独行侠绝杀湖人",
+        "onboard_time": 1679116228,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102907,
+        "num": 102907,
+        "word": "女子网购冰冻鸡爪厚似猪蹄",
+        "onboard_time": 1679123428,
+        "rank": 49,
+        "category": "社会新闻,美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动思政课建设内涵式发展#"
+    }
+  }
+}

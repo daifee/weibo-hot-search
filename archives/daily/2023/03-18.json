@@ -1,6 +1,6 @@
 {
   "startTime": 1679070330564,
-  "endTime": 1679121390473,
+  "endTime": 1679123763303,
   "band_list": [
     {
       "raw_hot": 3685659,
@@ -27,6 +27,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 2704112,
+      "num": 347534,
+      "word": "张隆 李梦",
+      "onboard_time": 1679120426,
+      "rank": 14,
+      "category": "体育,网红"
+    },
+    {
       "raw_hot": 2664250,
       "num": 1465035,
       "word": "苏州大学通报男生P图造女生黄谣",
@@ -43,20 +51,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2166894,
-      "num": 347534,
-      "word": "张隆 李梦",
-      "onboard_time": 1679120426,
-      "rank": 14,
-      "category": "体育,网红"
-    },
-    {
       "raw_hot": 1825028,
       "num": 1065827,
       "word": "男教师被举报猥亵女生后坠亡",
       "onboard_time": 1679096482,
       "rank": 1,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 1821715,
+      "num": 1821715,
+      "word": "苏州大学造黄谣学生与受害者对话曝光",
+      "onboard_time": 1679121209,
+      "rank": 31,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1520479,
@@ -121,6 +129,14 @@
       "onboard_time": 1679111427,
       "rank": 5,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1033927,
+      "num": 333775,
+      "word": "宋慧乔回复韩素希",
+      "onboard_time": 1679120728,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 1031612,
@@ -251,6 +267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 669271,
+      "num": 669271,
+      "word": "24岁女大学生回村选村长意外当选",
+      "onboard_time": 1679119107,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 665568,
       "num": 665568,
       "word": "富豪出10万美元请女子摘口罩遭拒",
@@ -280,6 +304,14 @@
       "word": "文东恩复仇花费",
       "onboard_time": 1679099487,
       "rank": 5,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 627681,
+      "num": 297135,
+      "word": "朴妍珍的牙",
+      "onboard_time": 1679122227,
+      "rank": 15,
       "category": "影视"
     },
     {
@@ -379,12 +411,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 481067,
-      "num": 333775,
-      "word": "宋慧乔回复韩素希",
-      "onboard_time": 1679120728,
-      "rank": 16,
-      "category": "艺人"
+      "raw_hot": 478645,
+      "num": 478645,
+      "word": "金牛座太善于隐藏自己的情绪",
+      "onboard_time": 1679122589,
+      "rank": 7,
+      "category": "情感,网红"
     },
     {
       "raw_hot": 476718,
@@ -401,14 +433,6 @@
       "onboard_time": 1679106267,
       "rank": 27,
       "category": "财经"
-    },
-    {
-      "raw_hot": 475108,
-      "num": 475108,
-      "word": "24岁女大学生回村选村长意外当选",
-      "onboard_time": 1679119107,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 470012,
@@ -483,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 416295,
+      "num": 295072,
+      "word": "印度男子因新娘高中成绩差退婚",
+      "onboard_time": 1679121388,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 407575,
       "num": 407575,
       "word": "俄罗斯养的大熊猫",
@@ -537,6 +569,14 @@
       "onboard_time": 1679062412,
       "rank": 10,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 378928,
+      "num": 378928,
+      "word": "杨超越迈不开腿",
+      "onboard_time": 1679122768,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 377284,
@@ -627,6 +667,14 @@
       "category": "艺人,美妆"
     },
     {
+      "raw_hot": 284283,
+      "num": 284283,
+      "word": "樊振东王楚钦vs张禹珍林钟勋",
+      "onboard_time": 1679120728,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 273447,
       "num": 273447,
       "word": "理科生坠入情网",
@@ -641,6 +689,22 @@
       "onboard_time": 1679107348,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 271355,
+      "num": 271355,
+      "word": "外国小朋友鼓励熊猫丫丫",
+      "onboard_time": 1679120187,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 269277,
+      "num": 269277,
+      "word": "叶舒华问粉丝手机壳是谁",
+      "onboard_time": 1679121507,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 266243,
@@ -747,6 +811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 223282,
+      "num": 223282,
+      "word": "樊振东王楚钦战胜韩国组合夺冠",
+      "onboard_time": 1679122709,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 222513,
       "num": 222513,
       "word": "张婧仪花朵耳环",
@@ -843,20 +915,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 207830,
-      "num": 207830,
-      "word": "樊振东王楚钦vs张禹珍林钟勋",
-      "onboard_time": 1679120728,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 207547,
       "num": 207547,
       "word": "浓眉把锅背好",
       "onboard_time": 1679117967,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 206482,
+      "num": 206482,
+      "word": "华晨宇成都演唱会首场今日预售",
+      "onboard_time": 1679122107,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 205443,
@@ -971,14 +1043,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 187936,
-      "num": 187936,
-      "word": "苏州大学造黄谣学生与受害者对话曝光",
-      "onboard_time": 1679121209,
-      "rank": 31,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 184240,
       "num": 184240,
       "word": "徐娇中分刘海",
@@ -1025,14 +1089,6 @@
       "onboard_time": 1679114310,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 174594,
-      "num": 174594,
-      "word": "外国小朋友鼓励熊猫丫丫",
-      "onboard_time": 1679120187,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 170867,
@@ -1129,6 +1185,14 @@
       "onboard_time": 1679117787,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 146268,
+      "num": 146268,
+      "word": "谭松韵的松弛感",
+      "onboard_time": 1679123669,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 141766,
@@ -1235,6 +1299,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 120100,
+      "num": 120100,
+      "word": "国产剧有他了不起",
+      "onboard_time": 1679122046,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 117798,
       "num": 117798,
       "word": "姜广涛能不能把声带捐出来",
@@ -1273,6 +1345,14 @@
       "onboard_time": 1679051669,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 114282,
+      "num": 114282,
+      "word": "XYG对战DYG",
+      "onboard_time": 1679123246,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 114163,
@@ -1329,6 +1409,14 @@
       "onboard_time": 1679064573,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 102907,
+      "num": 102907,
+      "word": "女子网购冰冻鸡爪厚似猪蹄",
+      "onboard_time": 1679123428,
+      "rank": 49,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 99262,
