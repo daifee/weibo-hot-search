@@ -1,6 +1,6 @@
 {
   "startTime": 1679070330564,
-  "endTime": 1679134700695,
+  "endTime": 1679135646638,
   "band_list": [
     {
       "raw_hot": 3685659,
@@ -59,8 +59,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2198106,
-      "num": 2198106,
+      "raw_hot": 2418136,
+      "num": 2418136,
       "word": "20万请曹姓明星带货3月成交278元",
       "onboard_time": 1679131647,
       "rank": 35,
@@ -180,7 +180,7 @@
     },
     {
       "raw_hot": 1028575,
-      "num": 379933,
+      "num": 512741,
       "word": "孔雪儿生图",
       "onboard_time": 1679130025,
       "rank": 11,
@@ -209,6 +209,14 @@
       "onboard_time": 1679115931,
       "rank": 6,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 908320,
+      "num": 908320,
+      "word": "魏大勋敲在杨超越的发夹上",
+      "onboard_time": 1679132907,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 895816,
@@ -291,11 +299,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 745968,
-      "num": 745968,
-      "word": "魏大勋敲在杨超越的发夹上",
-      "onboard_time": 1679132907,
-      "rank": 5,
+      "raw_hot": 745205,
+      "num": 745205,
+      "word": "李承铉终于出来营业了",
+      "onboard_time": 1679134226,
+      "rank": 12,
       "category": "综艺"
     },
     {
@@ -427,6 +435,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 588213,
+      "num": 588213,
+      "word": "为什么工作后很难谈恋爱了",
+      "onboard_time": 1679132486,
+      "rank": 7,
+      "category": "情感"
+    },
+    {
       "raw_hot": 580008,
       "num": 580008,
       "word": "霉霉演唱会游泳",
@@ -435,20 +451,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 564242,
-      "num": 564242,
-      "word": "为什么工作后很难谈恋爱了",
-      "onboard_time": 1679132486,
-      "rank": 7,
-      "category": "情感"
-    },
-    {
       "raw_hot": 558124,
       "num": 531800,
       "word": "时代少年团全员真实身高",
       "onboard_time": 1679113468,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 551812,
+      "num": 551812,
+      "word": "玫瑰花的葬礼现在是鹭卓的禁曲",
+      "onboard_time": 1679133928,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 551279,
@@ -489,14 +505,6 @@
       "onboard_time": 1679110167,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 499168,
-      "num": 370280,
-      "word": "李承铉终于出来营业了",
-      "onboard_time": 1679134226,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 490145,
@@ -587,14 +595,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 428521,
-      "num": 428521,
-      "word": "玫瑰花的葬礼现在是鹭卓的禁曲",
-      "onboard_time": 1679133928,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 427595,
       "num": 427595,
       "word": "小智终于去见比雕了",
@@ -641,6 +641,14 @@
       "onboard_time": 1679100329,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 391352,
+      "num": 391352,
+      "word": "马嘉祺宋亚轩跑步上课",
+      "onboard_time": 1679134588,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 385433,
@@ -835,6 +843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 282724,
+      "num": 282724,
+      "word": "XYG七连败",
+      "onboard_time": 1679133808,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 275728,
       "num": 275728,
       "word": "女子网购冰冻鸡爪厚似猪蹄",
@@ -979,14 +995,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 228944,
-      "num": 228944,
-      "word": "马嘉祺宋亚轩跑步上课",
-      "onboard_time": 1679134588,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 223282,
       "num": 223282,
       "word": "樊振东王楚钦战胜韩国组合夺冠",
@@ -1035,12 +1043,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 213715,
-      "num": 213715,
-      "word": "XYG七连败",
-      "onboard_time": 1679133808,
+      "raw_hot": 215517,
+      "num": 198338,
+      "word": "费曼吴镇宇电影院合照",
+      "onboard_time": 1679135307,
       "rank": 30,
-      "category": "游戏"
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 214669,
+      "num": 214669,
+      "word": "语文课真的是思想上的抚摸",
+      "onboard_time": 1679133627,
+      "rank": 29,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 210942,
@@ -1395,12 +1411,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 156768,
-      "num": 213986,
-      "word": "语文课真的是思想上的抚摸",
-      "onboard_time": 1679133627,
-      "rank": 29,
-      "category": "社会新闻,教育"
+      "raw_hot": 161386,
+      "num": 161386,
+      "word": "刘亦菲 活动",
+      "onboard_time": 1679135489,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 156430,
@@ -1507,6 +1523,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 136015,
+      "num": 136015,
+      "word": "保你平安",
+      "onboard_time": 1679131825,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 135359,
       "num": 135359,
       "word": "国际品牌重新设计争议卫衣",
@@ -1587,14 +1611,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 124954,
-      "num": 124954,
-      "word": "保你平安",
-      "onboard_time": 1679131825,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
       "raw_hot": 123887,
       "num": 123887,
       "word": "不敢晚上看他是谁",
@@ -1667,6 +1683,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 115297,
+      "num": 115297,
+      "word": "张若昀活动生图",
+      "onboard_time": 1679135425,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 114163,
       "num": 114163,
       "word": "归晓催路晨结婚",
@@ -1691,6 +1715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 112903,
+      "num": 112903,
+      "word": "站住",
+      "onboard_time": 1679134168,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 112718,
       "num": 112718,
       "word": "大江大河3海报",
@@ -1704,14 +1736,6 @@
       "word": "魏平安女儿被校园霸凌",
       "onboard_time": 1679062472,
       "rank": 30,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 109747,
-      "num": 109747,
-      "word": "站住",
-      "onboard_time": 1679134168,
-      "rank": 45,
       "category": "影视"
     },
     {
@@ -1793,6 +1817,14 @@
       "onboard_time": 1679070383,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 79847,
+      "num": 79847,
+      "word": "这猫咪经历了什么",
+      "onboard_time": 1679135425,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 76319,

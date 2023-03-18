@@ -1,0 +1,410 @@
+{
+  "runTime": 1679135646638,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2418136,
+        "num": 2418136,
+        "word": "20万请曹姓明星带货3月成交278元",
+        "onboard_time": 1679131647,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1520495,
+        "num": 1520495,
+        "word": "这才是吸毒前后真实的面容变化",
+        "onboard_time": 1679125645,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21413,
+        "num": 1080611,
+        "word": "震撼航拍感受大漠生态治沙",
+        "onboard_time": 1679112028,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2408189,
+        "num": 1001951,
+        "word": "苏州大学造黄谣学生与受害者对话曝光",
+        "onboard_time": 1679121209,
+        "rank": 3,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 908320,
+        "num": 908320,
+        "word": "魏大勋敲在杨超越的发夹上",
+        "onboard_time": 1679132907,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 840499,
+        "num": 840499,
+        "word": "人真的不能不上班",
+        "onboard_time": 1679126247,
+        "rank": 5,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 745205,
+        "num": 745205,
+        "word": "李承铉终于出来营业了",
+        "onboard_time": 1679134226,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 604272,
+        "num": 604272,
+        "word": "李现新剧演遗体整容师",
+        "onboard_time": 1679130987,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 588213,
+        "num": 588213,
+        "word": "为什么工作后很难谈恋爱了",
+        "onboard_time": 1679132486,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 551812,
+        "num": 551812,
+        "word": "玫瑰花的葬礼现在是鹭卓的禁曲",
+        "onboard_time": 1679133928,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 942438,
+        "num": 523225,
+        "word": "重庆大学",
+        "onboard_time": 1679109331,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 664392,
+        "num": 512741,
+        "word": "孔雪儿生图",
+        "onboard_time": 1679130025,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 391352,
+        "num": 391352,
+        "word": "马嘉祺宋亚轩跑步上课",
+        "onboard_time": 1679134588,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 386700,
+        "num": 386700,
+        "word": "苏州大学通报男生P图造女生黄谣",
+        "onboard_time": 1679110048,
+        "rank": 13,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 357593,
+        "num": 357593,
+        "word": "霉霉演唱会游泳",
+        "onboard_time": 1679125888,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 325899,
+        "num": 325899,
+        "word": "宋慧乔回复韩素希",
+        "onboard_time": 1679120728,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315867,
+        "num": 315867,
+        "word": "1997年的杨紫琼",
+        "onboard_time": 1679132367,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 286381,
+        "num": 286381,
+        "word": "模范出租车男主是84年的",
+        "onboard_time": 1679132247,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 282724,
+        "num": 282724,
+        "word": "XYG七连败",
+        "onboard_time": 1679133808,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 235350,
+        "num": 262941,
+        "word": "苏州大学赵尚峰",
+        "onboard_time": 1679107647,
+        "rank": 19,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 2101663,
+        "num": 261442,
+        "word": "张隆 李梦",
+        "onboard_time": 1679120426,
+        "rank": 20,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 258823,
+        "num": 258823,
+        "word": "张俪发际线粉掉了",
+        "onboard_time": 1679115330,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1279082,
+        "num": 254867,
+        "word": "李梦",
+        "onboard_time": 1679118686,
+        "rank": 22,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 242231,
+        "num": 242231,
+        "word": "张译他是谁叫卫国平的原因",
+        "onboard_time": 1679132666,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 232175,
+        "num": 232175,
+        "word": "孙颖莎晋级大满贯决赛",
+        "onboard_time": 1679130025,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 216543,
+        "num": 216543,
+        "word": "金牛座太善于隐藏自己的情绪",
+        "onboard_time": 1679122589,
+        "rank": 25,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 214669,
+        "num": 214669,
+        "word": "语文课真的是思想上的抚摸",
+        "onboard_time": 1679133627,
+        "rank": 26,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 205637,
+        "num": 205637,
+        "word": "24岁女大学生回村选村长意外当选",
+        "onboard_time": 1679119107,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204208,
+        "num": 204208,
+        "word": "王嘉尔丁程鑫跳舞",
+        "onboard_time": 1679130507,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198862,
+        "num": 198862,
+        "word": "朴妍珍的牙",
+        "onboard_time": 1679122227,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 215517,
+        "num": 198338,
+        "word": "费曼吴镇宇电影院合照",
+        "onboard_time": 1679135307,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196367,
+        "num": 196367,
+        "word": "JINNI开通ins",
+        "onboard_time": 1679116410,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185149,
+        "num": 185149,
+        "word": "外国小朋友鼓励熊猫丫丫",
+        "onboard_time": 1679120187,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182948,
+        "num": 182948,
+        "word": "印度男子因新娘高中成绩差退婚",
+        "onboard_time": 1679121388,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166009,
+        "num": 166009,
+        "word": "女子网购冰冻鸡爪厚似猪蹄",
+        "onboard_time": 1679123428,
+        "rank": 34,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 161386,
+        "num": 161386,
+        "word": "刘亦菲 活动",
+        "onboard_time": 1679135489,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157764,
+        "num": 157764,
+        "word": "微博之夜",
+        "onboard_time": 1679110650,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 147788,
+        "num": 147788,
+        "word": "25岁女生长期熬夜长出老年斑",
+        "onboard_time": 1679106506,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150445,
+        "num": 147572,
+        "word": "微博之夜第四波阵容官宣",
+        "onboard_time": 1679110650,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 147057,
+        "num": 147057,
+        "word": "谭松韵的松弛感",
+        "onboard_time": 1679123669,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 136015,
+        "num": 136015,
+        "word": "保你平安",
+        "onboard_time": 1679131825,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 124505,
+        "num": 124505,
+        "word": "网友P的周冬雨",
+        "onboard_time": 1679119767,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115297,
+        "num": 115297,
+        "word": "张若昀活动生图",
+        "onboard_time": 1679135425,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 112903,
+        "num": 112903,
+        "word": "站住",
+        "onboard_time": 1679134168,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 108135,
+        "num": 108135,
+        "word": "湖人煮熟的鸭子飞了",
+        "onboard_time": 1679116948,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105485,
+        "num": 105485,
+        "word": "种地吧全员搬运4000盆玫瑰",
+        "onboard_time": 1679134108,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103334,
+        "num": 103334,
+        "word": "孙颖莎",
+        "onboard_time": 1679127089,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87906,
+        "num": 87906,
+        "word": "DYG战胜XYG",
+        "onboard_time": 1679131825,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 87800,
+        "num": 87800,
+        "word": "樊振东王楚钦战胜韩国组合夺冠",
+        "onboard_time": 1679122709,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79847,
+        "num": 79847,
+        "word": "这猫咪经历了什么",
+        "onboard_time": 1679135425,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动思政课建设内涵式发展#"
+    }
+  }
+}
