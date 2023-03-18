@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1679116598988,
+  "endTime": 1679117618182,
   "band_list": [
     {
       "raw_hot": 9458443,
@@ -91,6 +91,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 2664250,
+      "num": 1465035,
+      "word": "苏州大学通报男生P图造女生黄谣",
+      "onboard_time": 1679110048,
+      "rank": 28,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 2520880,
       "num": 2520880,
       "word": "25岁女生长期熬夜长出老年斑",
@@ -113,14 +121,6 @@
       "onboard_time": 1678884574,
       "rank": 14,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 2382510,
-      "num": 1465035,
-      "word": "苏州大学通报男生P图造女生黄谣",
-      "onboard_time": 1679110048,
-      "rank": 28,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 2343024,
@@ -539,6 +539,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 1520479,
+      "num": 1520479,
+      "word": "肯德基全家桶被曝吃出生的炸鸡",
+      "onboard_time": 1679113650,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1509410,
       "num": 1509410,
       "word": "桑延选角",
@@ -737,14 +745,6 @@
       "onboard_time": 1679047472,
       "rank": 6,
       "category": "影视,艺人"
-    },
-    {
-      "raw_hot": 1277614,
-      "num": 1277614,
-      "word": "肯德基全家桶被曝吃出生的炸鸡",
-      "onboard_time": 1679113650,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1272247,
@@ -961,6 +961,14 @@
       "onboard_time": 1678939649,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1111046,
+      "num": 526444,
+      "word": "JINNI开通ins",
+      "onboard_time": 1679116410,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 1099617,
@@ -2315,6 +2323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 691911,
+      "num": 691911,
+      "word": "独行侠绝杀湖人",
+      "onboard_time": 1679116228,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 689564,
       "num": 689564,
       "word": "邓超零下27度吃雪糕",
@@ -2529,14 +2545,6 @@
       "onboard_time": 1678860568,
       "rank": 11,
       "category": "教育"
-    },
-    {
-      "raw_hot": 651770,
-      "num": 651770,
-      "word": "独行侠绝杀湖人",
-      "onboard_time": 1679116228,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 651461,
@@ -3395,14 +3403,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 526444,
-      "num": 526444,
-      "word": "JINNI开通ins",
-      "onboard_time": 1679116410,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 524296,
       "num": 205152,
       "word": "花琉璃轶闻定档",
@@ -3753,6 +3753,14 @@
       "onboard_time": 1678885472,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 490145,
+      "num": 490145,
+      "word": "湖人煮熟的鸭子飞了",
+      "onboard_time": 1679116948,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 489497,
@@ -5369,6 +5377,14 @@
       "onboard_time": 1679064573,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 352317,
+      "num": 352317,
+      "word": "名侦探学院 小芒",
+      "onboard_time": 1679116530,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 351905,
@@ -7547,14 +7563,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 227469,
-      "num": 227469,
-      "word": "名侦探学院 小芒",
-      "onboard_time": 1679116530,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 227374,
       "num": 227374,
       "word": "警方回应女子地铁上殴打小伙",
@@ -7931,6 +7939,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 209311,
+      "num": 209311,
+      "word": "马嘉祺模仿那英",
+      "onboard_time": 1679117368,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 209103,
       "num": 209103,
       "word": "我们的客栈",
@@ -8161,6 +8177,14 @@
       "onboard_time": 1679063073,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 203632,
+      "num": 203632,
+      "word": "欧文复出",
+      "onboard_time": 1679116826,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 203545,
@@ -8435,6 +8459,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 198494,
+      "num": 198494,
+      "word": "你好星期六全员模仿欢迎光临表情包",
+      "onboard_time": 1679115269,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198412,
       "num": 131916,
       "word": "林高远3比2张禹珍",
@@ -8553,6 +8585,14 @@
       "onboard_time": 1679029409,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 195920,
+      "num": 195920,
+      "word": "NBA",
+      "onboard_time": 1679117248,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 195678,
@@ -8963,6 +9003,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 187359,
+      "num": 187359,
+      "word": "10岁女孩一字马轮滑过12辆车车底",
+      "onboard_time": 1679115868,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187145,
       "num": 187145,
       "word": "火箭战胜湖人",
@@ -9259,6 +9307,14 @@
       "category": "幽默,社会新闻"
     },
     {
+      "raw_hot": 176119,
+      "num": 176119,
+      "word": "归路删减剧情",
+      "onboard_time": 1679114310,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 175957,
       "num": 175957,
       "word": "路晨归晓什么时候复合",
@@ -9297,14 +9353,6 @@
       "onboard_time": 1678805192,
       "rank": 40,
       "category": "教育"
-    },
-    {
-      "raw_hot": 174683,
-      "num": 174683,
-      "word": "归路删减剧情",
-      "onboard_time": 1679114310,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 173828,
@@ -9585,14 +9633,6 @@
       "onboard_time": 1678877847,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 162505,
-      "num": 162505,
-      "word": "你好星期六全员模仿欢迎光临表情包",
-      "onboard_time": 1679115269,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 162010,
@@ -10243,6 +10283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 138771,
+      "num": 138771,
+      "word": "国产剧疯批美人盘点",
+      "onboard_time": 1679116530,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 138370,
       "num": 138370,
       "word": "王鹤棣主打的就是一个缓缓下线",
@@ -10409,14 +10457,6 @@
       "onboard_time": 1678695026,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 134186,
-      "num": 134186,
-      "word": "国产剧疯批美人盘点",
-      "onboard_time": 1679116530,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 134181,
@@ -10785,14 +10825,6 @@
       "onboard_time": 1678963228,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 116953,
-      "num": 116953,
-      "word": "10岁女孩一字马轮滑过12辆车车底",
-      "onboard_time": 1679115868,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 116844,
