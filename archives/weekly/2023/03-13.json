@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1679148935231,
+  "endTime": 1679149994801,
   "band_list": [
     {
       "raw_hot": 9458443,
@@ -419,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1840036,
+      "num": 1840036,
+      "word": "中国专家组检查丫丫日常食物",
+      "onboard_time": 1679147012,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1834389,
       "num": 220620,
       "word": "黑莲花",
@@ -640,14 +648,6 @@
       "word": "旅客带101管孕妇血液样本出境被查",
       "onboard_time": 1678936347,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1503904,
-      "num": 1503904,
-      "word": "中国专家组检查丫丫日常食物",
-      "onboard_time": 1679147012,
-      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -1083,6 +1083,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1090264,
+      "num": 1090264,
+      "word": "特朗普自称将被捕",
+      "onboard_time": 1679146650,
+      "rank": 4,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1085717,
       "num": 572261,
       "word": "迪丽热巴驼色大衣造型",
@@ -1241,14 +1249,6 @@
       "onboard_time": 1678686808,
       "rank": 12,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1034325,
-      "num": 1034325,
-      "word": "特朗普自称将被捕",
-      "onboard_time": 1679146650,
-      "rank": 4,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 1033927,
@@ -1577,6 +1577,14 @@
       "onboard_time": 1679132907,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 902028,
+      "num": 902028,
+      "word": "丫丫",
+      "onboard_time": 1679146048,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 897766,
@@ -2043,6 +2051,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 798286,
+      "num": 672482,
+      "word": "小S带女儿去看BLACKPINK的演唱会",
+      "onboard_time": 1679146048,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 798126,
       "num": 261487,
       "word": "金龟子问当年的小朋友过得还好吗",
@@ -2307,14 +2323,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 740158,
-      "num": 626366,
-      "word": "小S带女儿去看BLACKPINK的演唱会",
-      "onboard_time": 1679146048,
-      "rank": 30,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 740085,
       "num": 740085,
       "word": "乌总统夫人讲述乌妇女用罐头击落俄无人机",
@@ -2475,14 +2483,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 709470,
-      "num": 709470,
-      "word": "丫丫",
-      "onboard_time": 1679146048,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 707541,
       "num": 707541,
       "word": "莎头",
@@ -2537,6 +2537,14 @@
       "onboard_time": 1678674745,
       "rank": 3,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 701440,
+      "num": 701440,
+      "word": "灵梦道歉",
+      "onboard_time": 1679148090,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 700995,
@@ -2644,7 +2652,7 @@
     },
     {
       "raw_hot": 683981,
-      "num": 607923,
+      "num": 672478,
       "word": "偶遇杨幂看电影",
       "onboard_time": 1679146228,
       "rank": 42,
@@ -4403,6 +4411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 472238,
+      "num": 472238,
+      "word": "言承旭李雪琴再现夏花名场面",
+      "onboard_time": 1679148213,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 471650,
       "num": 208608,
       "word": "朴妍珍在监狱播报气象",
@@ -5155,14 +5171,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 408156,
-      "num": 408156,
-      "word": "灵梦道歉",
-      "onboard_time": 1679148090,
-      "rank": 18,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 407984,
       "num": 237538,
       "word": "迪丽热巴古典造型花絮视频",
@@ -5603,14 +5611,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 373387,
-      "num": 373387,
-      "word": "言承旭李雪琴再现夏花名场面",
-      "onboard_time": 1679148213,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 373076,
       "num": 373076,
       "word": "Capper直播",
@@ -5753,6 +5753,14 @@
       "onboard_time": 1679046572,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 359466,
+      "num": 183753,
+      "word": "周震南",
+      "onboard_time": 1679149530,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 358615,
@@ -6491,6 +6499,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 315164,
+      "num": 315164,
+      "word": "任嘉伦给宋祖儿撑伞路透视频",
+      "onboard_time": 1679146830,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 314850,
       "num": 314850,
       "word": "EXO前夜舞蹈练习室",
@@ -6712,14 +6728,6 @@
       "word": "杨紫琼 奥斯卡第一位亚洲影后",
       "onboard_time": 1678720347,
       "rank": 33,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 299375,
-      "num": 299375,
-      "word": "任嘉伦给宋祖儿撑伞路透视频",
-      "onboard_time": 1679146830,
-      "rank": 29,
       "category": "影视"
     },
     {
@@ -7025,6 +7033,14 @@
       "onboard_time": 1678718309,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 278829,
+      "num": 278829,
+      "word": "王鹤棣语音要被丁程鑫玩坏了",
+      "onboard_time": 1679148932,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 278432,
@@ -9291,6 +9307,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 196480,
+      "num": 196480,
+      "word": "食物语",
+      "onboard_time": 1679149354,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 196348,
       "num": 196348,
       "word": "中年女北漂创业赔400万女儿确诊白血病",
@@ -10179,6 +10203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 173528,
+      "num": 173528,
+      "word": "檀健次没记住舞蹈动作",
+      "onboard_time": 1679149830,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 173370,
       "num": 173370,
       "word": "张杰好会过日子",
@@ -10249,6 +10281,14 @@
       "onboard_time": 1679021788,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 171552,
+      "num": 171552,
+      "word": "清融状态",
+      "onboard_time": 1679149891,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 171258,
@@ -10980,7 +11020,7 @@
     },
     {
       "raw_hot": 145240,
-      "num": 1196614,
+      "num": 1286786,
       "word": "这段跨越千年的对话令人骄傲又感动",
       "onboard_time": 1679142929,
       "rank": 2,
@@ -11865,6 +11905,14 @@
       "onboard_time": 1679069125,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 114050,
+      "num": 114050,
+      "word": "华为P60手机外观公布",
+      "onboard_time": 1679149171,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 113772,
