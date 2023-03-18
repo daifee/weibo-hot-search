@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1679170714726,
+  "endTime": 1679171619385,
   "band_list": [
     {
       "raw_hot": 9458443,
@@ -12747,6 +12747,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 55392,
+      "num": 35375,
+      "word": "自行车怕被偷与警车锁在一起",
+      "onboard_time": 1679168653,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 54522,
       "num": 80753,
       "word": "成毅英雄志骑马送亲路透",
@@ -12801,14 +12809,6 @@
       "onboard_time": 1678817414,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 42340,
-      "num": 35375,
-      "word": "自行车怕被偷与警车锁在一起",
-      "onboard_time": 1679168653,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 37417,
@@ -12945,6 +12945,14 @@
       "onboard_time": 1678645632,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 11006,
+      "num": 13442,
+      "word": "山东乳山发现大型金矿床",
+      "onboard_time": 1679171531,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 10931,

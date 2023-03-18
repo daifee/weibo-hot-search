@@ -1,6 +1,6 @@
 {
   "startTime": 1679156607539,
-  "endTime": 1679170714726,
+  "endTime": 1679171619385,
   "band_list": [
     {
       "raw_hot": 1336084,
@@ -443,6 +443,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 55392,
+      "num": 35375,
+      "word": "自行车怕被偷与警车锁在一起",
+      "onboard_time": 1679168653,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49355,
       "num": 49355,
       "word": "魏大勋敲在杨超越的发夹上",
@@ -451,20 +459,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 42340,
-      "num": 35375,
-      "word": "自行车怕被偷与警车锁在一起",
-      "onboard_time": 1679168653,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 32996,
       "num": 32996,
       "word": "GEN战胜DK",
       "onboard_time": 1679161638,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 11006,
+      "num": 13442,
+      "word": "山东乳山发现大型金矿床",
+      "onboard_time": 1679171531,
+      "rank": 49,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
