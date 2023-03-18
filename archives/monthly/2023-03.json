@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679120546507,
+  "endTime": 1679121390473,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -219,6 +219,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 3240768,
+      "num": 3240768,
+      "word": "李梦",
+      "onboard_time": 1679118686,
+      "rank": 0,
+      "category": "体育,网红"
+    },
+    {
       "raw_hot": 3119338,
       "num": 3119338,
       "word": "央视网谈孔乙己文学",
@@ -289,14 +297,6 @@
       "onboard_time": 1679107647,
       "rank": 34,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 2807297,
-      "num": 2807297,
-      "word": "李梦",
-      "onboard_time": 1679118686,
-      "rank": 0,
-      "category": "体育,网红"
     },
     {
       "raw_hot": 2698699,
@@ -577,6 +577,14 @@
       "onboard_time": 1678198709,
       "rank": 18,
       "category": "科技"
+    },
+    {
+      "raw_hot": 2166894,
+      "num": 347534,
+      "word": "张隆 李梦",
+      "onboard_time": 1679120426,
+      "rank": 14,
+      "category": "体育,网红"
     },
     {
       "raw_hot": 2153485,
@@ -5291,6 +5299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 803284,
+      "num": 803284,
+      "word": "杜华官宣乐华家族演唱会",
+      "onboard_time": 1679118628,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 802634,
       "num": 110173,
       "word": "赛格",
@@ -5745,14 +5761,6 @@
       "onboard_time": 1679042309,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 761994,
-      "num": 761994,
-      "word": "杜华官宣乐华家族演唱会",
-      "onboard_time": 1679118628,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 761779,
@@ -7473,6 +7481,14 @@
       "onboard_time": 1678352787,
       "rank": 32,
       "category": "财经,科技"
+    },
+    {
+      "raw_hot": 645832,
+      "num": 345585,
+      "word": "网友P的周冬雨",
+      "onboard_time": 1679119767,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 645757,
@@ -9595,14 +9611,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 539074,
-      "num": 346326,
-      "word": "张隆 李梦",
-      "onboard_time": 1679120426,
-      "rank": 14,
-      "category": "体育,网红"
-    },
-    {
       "raw_hot": 539013,
       "num": 315000,
       "word": "5岁女孩故宫拍千元甄嬛照累哭",
@@ -10787,14 +10795,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 493167,
-      "num": 345585,
-      "word": "网友P的周冬雨",
-      "onboard_time": 1679119767,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 492520,
       "num": 260533,
       "word": "女子回应烧伤后被男友照顾6年",
@@ -11187,6 +11187,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 481067,
+      "num": 333775,
+      "word": "宋慧乔回复韩素希",
+      "onboard_time": 1679120728,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 480654,
       "num": 457019,
       "word": "蛋仔派对果宝特攻",
@@ -11377,6 +11385,14 @@
       "onboard_time": 1678940191,
       "rank": 14,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 475108,
+      "num": 475108,
+      "word": "24岁女大学生回村选村长意外当选",
+      "onboard_time": 1679119107,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 474630,
@@ -17267,14 +17283,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 309169,
-      "num": 309169,
-      "word": "24岁女大学生回村选村长意外当选",
-      "onboard_time": 1679119107,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 309013,
       "num": 309013,
       "word": "宋妍霏发长文告别温媃",
@@ -20219,6 +20227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 246274,
+      "num": 246274,
+      "word": "鹿晗撸猫",
+      "onboard_time": 1679119889,
+      "rank": 28,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 245830,
       "num": 171872,
       "word": "国务院总理任命现场视频",
@@ -22859,14 +22875,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 209137,
-      "num": 209137,
-      "word": "鹿晗撸猫",
-      "onboard_time": 1679119889,
-      "rank": 28,
-      "category": "艺人,幽默"
-    },
-    {
       "raw_hot": 208986,
       "num": 208986,
       "word": "宋妍霏15秒摆了33个pose",
@@ -22985,6 +22993,14 @@
       "onboard_time": 1678093226,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207830,
+      "num": 207830,
+      "word": "樊振东王楚钦vs张禹珍林钟勋",
+      "onboard_time": 1679120728,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 207812,
@@ -26019,6 +26035,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 187936,
+      "num": 187936,
+      "word": "苏州大学造黄谣学生与受害者对话曝光",
+      "onboard_time": 1679121209,
+      "rank": 31,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 187928,
       "num": 187928,
       "word": "宋亚轩首支个人单曲上线战报",
@@ -27065,6 +27089,14 @@
       "onboard_time": 1678507171,
       "rank": 35,
       "category": "财经,科技"
+    },
+    {
+      "raw_hot": 174594,
+      "num": 174594,
+      "word": "外国小朋友鼓励熊猫丫丫",
+      "onboard_time": 1679120187,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 174302,
@@ -31633,14 +31665,6 @@
       "onboard_time": 1678923443,
       "rank": 46,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 122470,
-      "num": 122470,
-      "word": "外国小朋友鼓励熊猫丫丫",
-      "onboard_time": 1679120187,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 122265,

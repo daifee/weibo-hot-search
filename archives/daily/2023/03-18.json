@@ -1,6 +1,6 @@
 {
   "startTime": 1679070330564,
-  "endTime": 1679120546507,
+  "endTime": 1679121390473,
   "band_list": [
     {
       "raw_hot": 3685659,
@@ -11,20 +11,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3240768,
+      "num": 3240768,
+      "word": "李梦",
+      "onboard_time": 1679118686,
+      "rank": 0,
+      "category": "体育,网红"
+    },
+    {
       "raw_hot": 2821301,
       "num": 2821301,
       "word": "苏州大学赵尚峰",
       "onboard_time": 1679107647,
       "rank": 34,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 2807297,
-      "num": 2807297,
-      "word": "李梦",
-      "onboard_time": 1679118686,
-      "rank": 0,
-      "category": "体育,网红"
     },
     {
       "raw_hot": 2664250,
@@ -41,6 +41,14 @@
       "onboard_time": 1679106506,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2166894,
+      "num": 347534,
+      "word": "张隆 李梦",
+      "onboard_time": 1679120426,
+      "rank": 14,
+      "category": "体育,网红"
     },
     {
       "raw_hot": 1825028,
@@ -195,6 +203,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 803284,
+      "num": 803284,
+      "word": "杜华官宣乐华家族演唱会",
+      "onboard_time": 1679118628,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 786880,
       "num": 786880,
       "word": "月薪三千的生活是怎样的",
@@ -208,14 +224,6 @@
       "word": "J姐扔海莉产品支持赛琳娜",
       "onboard_time": 1679097623,
       "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 761994,
-      "num": 761994,
-      "word": "杜华官宣乐华家族演唱会",
-      "onboard_time": 1679118628,
-      "rank": 4,
       "category": "艺人"
     },
     {
@@ -257,6 +265,14 @@
       "onboard_time": 1679108729,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 645832,
+      "num": 345585,
+      "word": "网友P的周冬雨",
+      "onboard_time": 1679119767,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 632305,
@@ -331,14 +347,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 539074,
-      "num": 346326,
-      "word": "张隆 李梦",
-      "onboard_time": 1679120426,
-      "rank": 14,
-      "category": "体育,网红"
-    },
-    {
       "raw_hot": 533149,
       "num": 533149,
       "word": "微博之夜",
@@ -363,20 +371,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 493167,
-      "num": 345585,
-      "word": "网友P的周冬雨",
-      "onboard_time": 1679119767,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 490145,
       "num": 490145,
       "word": "湖人煮熟的鸭子飞了",
       "onboard_time": 1679116948,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 481067,
+      "num": 333775,
+      "word": "宋慧乔回复韩素希",
+      "onboard_time": 1679120728,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 476718,
@@ -393,6 +401,14 @@
       "onboard_time": 1679106267,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 475108,
+      "num": 475108,
+      "word": "24岁女大学生回村选村长意外当选",
+      "onboard_time": 1679119107,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 470012,
@@ -579,14 +595,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 309169,
-      "num": 309169,
-      "word": "24岁女大学生回村选村长意外当选",
-      "onboard_time": 1679119107,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 308187,
       "num": 308187,
       "word": "cruel summer",
@@ -665,6 +673,14 @@
       "onboard_time": 1679100627,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 246274,
+      "num": 246274,
+      "word": "鹿晗撸猫",
+      "onboard_time": 1679119889,
+      "rank": 28,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 243980,
@@ -819,20 +835,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 209137,
-      "num": 209137,
-      "word": "鹿晗撸猫",
-      "onboard_time": 1679119889,
-      "rank": 28,
-      "category": "艺人,幽默"
-    },
-    {
       "raw_hot": 208034,
       "num": 208034,
       "word": "唐嫣钟汉良再演何以笙箫默",
       "onboard_time": 1679060733,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207830,
+      "num": 207830,
+      "word": "樊振东王楚钦vs张禹珍林钟勋",
+      "onboard_time": 1679120728,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 207547,
@@ -955,6 +971,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 187936,
+      "num": 187936,
+      "word": "苏州大学造黄谣学生与受害者对话曝光",
+      "onboard_time": 1679121209,
+      "rank": 31,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 184240,
       "num": 184240,
       "word": "徐娇中分刘海",
@@ -1001,6 +1025,14 @@
       "onboard_time": 1679114310,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 174594,
+      "num": 174594,
+      "word": "外国小朋友鼓励熊猫丫丫",
+      "onboard_time": 1679120187,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170867,
@@ -1185,14 +1217,6 @@
       "onboard_time": 1679104048,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 122470,
-      "num": 122470,
-      "word": "外国小朋友鼓励熊猫丫丫",
-      "onboard_time": 1679120187,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 122230,
