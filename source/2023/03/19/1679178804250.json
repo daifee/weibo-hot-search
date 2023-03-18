@@ -1,0 +1,410 @@
+{
+  "runTime": 1679178804250,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 180922,
+        "num": 180922,
+        "word": "男子警示大会被铐走全场震惊",
+        "onboard_time": 1679158101,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115743,
+        "num": 115743,
+        "word": "20万请曹姓明星带货3月成交278元",
+        "onboard_time": 1679131647,
+        "rank": 1,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 22535,
+        "num": 97486,
+        "word": "这段跨越千年的对话令人骄傲又感动",
+        "onboard_time": 1679142929,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186056,
+        "num": 93095,
+        "word": "丫丫",
+        "onboard_time": 1679146048,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163710,
+        "num": 93057,
+        "word": "男子网恋1年多女友竟是好友老婆",
+        "onboard_time": 1679152948,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87869,
+        "num": 87869,
+        "word": "强盛公司勾兑盐水冒充神药坑骗老人",
+        "onboard_time": 1679138729,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81507,
+        "num": 81507,
+        "word": "乌总统夫人讲述乌妇女用罐头击落俄无人机",
+        "onboard_time": 1679143708,
+        "rank": 6,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 78547,
+        "num": 78547,
+        "word": "给猪喂的是我的减脂餐吧",
+        "onboard_time": 1679152892,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 65196,
+        "num": 65196,
+        "word": "特朗普自称将被捕",
+        "onboard_time": 1679146650,
+        "rank": 8,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 49150,
+        "num": 49150,
+        "word": "女子称离职被拒HR招人又招到自己",
+        "onboard_time": 1679137648,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195365,
+        "num": 49138,
+        "word": "曹曦月",
+        "onboard_time": 1679137350,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188012,
+        "num": 48280,
+        "word": "山东乳山发现大型金矿床",
+        "onboard_time": 1679171531,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104530,
+        "num": 47318,
+        "word": "花三三卢靖姗合照",
+        "onboard_time": 1679138188,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 70657,
+        "num": 46420,
+        "word": "被造黄谣女生决定不采取自诉",
+        "onboard_time": 1679136628,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63780,
+        "num": 45596,
+        "word": "西南大学开设公务员专业",
+        "onboard_time": 1679145027,
+        "rank": 14,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 60829,
+        "num": 44649,
+        "word": "自行车怕被偷与警车锁在一起",
+        "onboard_time": 1679168653,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44577,
+        "num": 44577,
+        "word": "薛之谦演唱会戴老奶奶假发",
+        "onboard_time": 1679153489,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 43595,
+        "num": 43595,
+        "word": "这才是吸毒前后真实的面容变化",
+        "onboard_time": 1679125645,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43093,
+        "num": 43093,
+        "word": "你好星期六下周有两对cp",
+        "onboard_time": 1679145268,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37450,
+        "num": 37450,
+        "word": "Jennie台湾高雄演唱会饭拍视频",
+        "onboard_time": 1679146953,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 59980,
+        "num": 36903,
+        "word": "李梦",
+        "onboard_time": 1679118686,
+        "rank": 20,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 39741,
+        "num": 35715,
+        "word": "杨紫叫杨迪哥",
+        "onboard_time": 1679152589,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50149,
+        "num": 35027,
+        "word": "张隆 李梦",
+        "onboard_time": 1679120426,
+        "rank": 22,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 34335,
+        "num": 34335,
+        "word": "小S带女儿去看BLACKPINK的演唱会",
+        "onboard_time": 1679146048,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 33604,
+        "num": 33604,
+        "word": "王曼昱孙颖莎女双冠军",
+        "onboard_time": 1679148030,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33317,
+        "num": 33317,
+        "word": "言承旭李雪琴再现夏花名场面",
+        "onboard_time": 1679148213,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33184,
+        "num": 33184,
+        "word": "霉霉唱了44首歌",
+        "onboard_time": 1679141548,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 31894,
+        "num": 31894,
+        "word": "椰树直播间",
+        "onboard_time": 1679150791,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31507,
+        "num": 31507,
+        "word": "偶遇杨幂看电影",
+        "onboard_time": 1679146228,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31173,
+        "num": 31173,
+        "word": "为什么工作后很难谈恋爱了",
+        "onboard_time": 1679132486,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 44510,
+        "num": 30703,
+        "word": "井柏然谭松韵打台球",
+        "onboard_time": 1679173511,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 30187,
+        "num": 30187,
+        "word": "人真的不能不上班",
+        "onboard_time": 1679126247,
+        "rank": 31,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 28075,
+        "num": 28075,
+        "word": "这猫真的不是人变得吗",
+        "onboard_time": 1679159720,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 26767,
+        "num": 26767,
+        "word": "李健音乐会",
+        "onboard_time": 1679150070,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 25552,
+        "num": 25552,
+        "word": "苏州大学造黄谣学生与受害者对话曝光",
+        "onboard_time": 1679121209,
+        "rank": 34,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 24894,
+        "num": 24894,
+        "word": "华为P60手机外观公布",
+        "onboard_time": 1679149171,
+        "rank": 35,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 23251,
+        "num": 23251,
+        "word": "丁程鑫看李一桐毕雯珺夹气球的表情",
+        "onboard_time": 1679153309,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23016,
+        "num": 23016,
+        "word": "听张颂文讲述春天",
+        "onboard_time": 1679155526,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22211,
+        "num": 22211,
+        "word": "灵梦道歉",
+        "onboard_time": 1679148090,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 21613,
+        "num": 21613,
+        "word": "TES四连败",
+        "onboard_time": 1679145451,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 21180,
+        "num": 21180,
+        "word": "阿信用AI发微博",
+        "onboard_time": 1679150432,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21078,
+        "num": 21078,
+        "word": "王俊凯金色外套机场路透",
+        "onboard_time": 1679150970,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 20148,
+        "num": 20148,
+        "word": "WB对战eStar",
+        "onboard_time": 1679155585,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 18766,
+        "num": 18766,
+        "word": "周震南音乐节",
+        "onboard_time": 1679151091,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 16212,
+        "num": 18762,
+        "word": "穿只袜子反转比悬疑片还多",
+        "onboard_time": 1679178193,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 15994,
+        "num": 18761,
+        "word": "洪恩採哭了",
+        "onboard_time": 1679151691,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 15172,
+        "num": 18755,
+        "word": "光渊更不更",
+        "onboard_time": 1679142327,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 14803,
+        "num": 18753,
+        "word": "牛迪",
+        "onboard_time": 1679146532,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14279,
+        "num": 18745,
+        "word": "邓佳鑫白衬衫",
+        "onboard_time": 1679158762,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 13908,
+        "num": 18743,
+        "word": "林俊杰黄贯中合唱海阔天空",
+        "onboard_time": 1679150012,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#中俄树立新型国际关系典范#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1679156607539,
-  "endTime": 1679177796039,
+  "endTime": 1679178804250,
   "band_list": [
     {
       "raw_hot": 1336084,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 267323,
-      "num": 176871,
+      "num": 180922,
       "word": "男子警示大会被铐走全场震惊",
       "onboard_time": 1679158101,
       "rank": 15,
@@ -219,6 +219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 188012,
+      "num": 48280,
+      "word": "山东乳山发现大型金矿床",
+      "onboard_time": 1679171531,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185834,
       "num": 185834,
       "word": "WB对战eStar",
@@ -233,14 +241,6 @@
       "onboard_time": 1679131647,
       "rank": 28,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 180292,
-      "num": 36973,
-      "word": "山东乳山发现大型金矿床",
-      "onboard_time": 1679171531,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 180038,
@@ -451,8 +451,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 55392,
-      "num": 36731,
+      "raw_hot": 60829,
+      "num": 44649,
       "word": "自行车怕被偷与警车锁在一起",
       "onboard_time": 1679168653,
       "rank": 13,
@@ -467,8 +467,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 34877,
-      "num": 22065,
+      "raw_hot": 44510,
+      "num": 30703,
       "word": "井柏然谭松韵打台球",
       "onboard_time": 1679173511,
       "rank": 36,
@@ -483,12 +483,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 20431,
-      "num": 20431,
+      "raw_hot": 24894,
+      "num": 24894,
       "word": "华为P60手机外观公布",
       "onboard_time": 1679149171,
       "rank": 44,
       "category": "科技"
+    },
+    {
+      "raw_hot": 16212,
+      "num": 18762,
+      "word": "穿只袜子反转比悬疑片还多",
+      "onboard_time": 1679178193,
+      "rank": 44,
+      "category": "幽默"
     }
   ],
   "hotgov_list": [
