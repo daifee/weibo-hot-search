@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1679149994801,
+  "endTime": 1679152679715,
   "band_list": [
     {
       "raw_hot": 9458443,
@@ -536,6 +536,14 @@
       "word": "日本女大胃王菅原初代患肠癌病逝",
       "onboard_time": 1679059410,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1685989,
+      "num": 902028,
+      "word": "丫丫",
+      "onboard_time": 1679146048,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -1577,14 +1585,6 @@
       "onboard_time": 1679132907,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 902028,
-      "num": 902028,
-      "word": "丫丫",
-      "onboard_time": 1679146048,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 897766,
@@ -4843,6 +4843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 429292,
+      "num": 429292,
+      "word": "林俊杰黄贯中合唱海阔天空",
+      "onboard_time": 1679150012,
+      "rank": 9,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 428816,
       "num": 428816,
       "word": "他是谁首播成全网收视冠军",
@@ -5203,6 +5211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 404810,
+      "num": 404810,
+      "word": "王俊凯金色外套机场路透",
+      "onboard_time": 1679150970,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 404158,
       "num": 404158,
       "word": "一图看全315晚会",
@@ -5393,6 +5409,14 @@
       "onboard_time": 1678933586,
       "rank": 33,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 386664,
+      "num": 386664,
+      "word": "洪恩採哭了",
+      "onboard_time": 1679151691,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 385535,
@@ -5601,6 +5625,14 @@
       "onboard_time": 1678679188,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 375416,
+      "num": 375416,
+      "word": "椰树直播间",
+      "onboard_time": 1679150791,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 373549,
@@ -6315,6 +6347,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 327716,
+      "num": 327716,
+      "word": "王鹤棣语音要被丁程鑫玩坏了",
+      "onboard_time": 1679148932,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 327283,
       "num": 327283,
       "word": "李到晛罗美兰合作",
@@ -6723,6 +6763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 301038,
+      "num": 301038,
+      "word": "阿信用AI发微博",
+      "onboard_time": 1679150432,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 300783,
       "num": 88121,
       "word": "杨紫琼 奥斯卡第一位亚洲影后",
@@ -7035,14 +7083,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 278829,
-      "num": 278829,
-      "word": "王鹤棣语音要被丁程鑫玩坏了",
-      "onboard_time": 1679148932,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 278432,
       "num": 278432,
       "word": "丁程鑫加盟你好星期六",
@@ -7169,6 +7209,14 @@
       "onboard_time": 1678714527,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 273382,
+      "num": 273382,
+      "word": "李健音乐会",
+      "onboard_time": 1679150070,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 273219,
@@ -7377,6 +7425,14 @@
       "onboard_time": 1678928489,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 263866,
+      "num": 263866,
+      "word": "周震南音乐节",
+      "onboard_time": 1679151091,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 263746,
@@ -8201,6 +8257,14 @@
       "onboard_time": 1679104348,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 228795,
+      "num": 228795,
+      "word": "清融状态",
+      "onboard_time": 1679149891,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 228601,
@@ -9187,6 +9251,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 198986,
+      "num": 198986,
+      "word": "2023全英羽毛球公开赛",
+      "onboard_time": 1679152227,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198848,
       "num": 198848,
       "word": "新海诚夸周深唱的主题曲非常动听",
@@ -10027,6 +10099,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 179613,
+      "num": 179613,
+      "word": "华为P60后置相机像考拉",
+      "onboard_time": 1679151691,
+      "rank": 42,
+      "category": "科技"
+    },
+    {
       "raw_hot": 179423,
       "num": 179423,
       "word": "WBG对战OMG",
@@ -10281,14 +10361,6 @@
       "onboard_time": 1679021788,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 171552,
-      "num": 171552,
-      "word": "清融状态",
-      "onboard_time": 1679149891,
-      "rank": 40,
-      "category": "游戏"
     },
     {
       "raw_hot": 171258,
@@ -10819,6 +10891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 151871,
+      "num": 151871,
+      "word": "杨紫叫杨迪哥",
+      "onboard_time": 1679152589,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 151636,
       "num": 206587,
       "word": "800多岁玉兰古树花开似雪",
@@ -10995,6 +11075,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 147255,
+      "num": 147255,
+      "word": "见过最实在的刷礼物",
+      "onboard_time": 1679152110,
+      "rank": 46,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 146910,
       "num": 146910,
       "word": "WTT新加坡大满贯2023",
@@ -11105,6 +11193,14 @@
       "onboard_time": 1678671505,
       "rank": 44,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 142306,
+      "num": 142306,
+      "word": "华为P60手机外观公布",
+      "onboard_time": 1679149171,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 142281,
@@ -11905,14 +12001,6 @@
       "onboard_time": 1679069125,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 114050,
-      "num": 114050,
-      "word": "华为P60手机外观公布",
-      "onboard_time": 1679149171,
-      "rank": 49,
-      "category": "科技"
     },
     {
       "raw_hot": 113772,
