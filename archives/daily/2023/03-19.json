@@ -1,6 +1,6 @@
 {
   "startTime": 1679156607539,
-  "endTime": 1679175219707,
+  "endTime": 1679177796039,
   "band_list": [
     {
       "raw_hot": 1336084,
@@ -235,6 +235,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 180292,
+      "num": 36973,
+      "word": "山东乳山发现大型金矿床",
+      "onboard_time": 1679171531,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 180038,
       "num": 180038,
       "word": "TES四连败",
@@ -321,14 +329,6 @@
       "onboard_time": 1679126247,
       "rank": 39,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 122048,
-      "num": 30286,
-      "word": "山东乳山发现大型金矿床",
-      "onboard_time": 1679171531,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 121485,
@@ -452,7 +452,7 @@
     },
     {
       "raw_hot": 55392,
-      "num": 35375,
+      "num": 36731,
       "word": "自行车怕被偷与警车锁在一起",
       "onboard_time": 1679168653,
       "rank": 13,
@@ -467,6 +467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 34877,
+      "num": 22065,
+      "word": "井柏然谭松韵打台球",
+      "onboard_time": 1679173511,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 32996,
       "num": 32996,
       "word": "GEN战胜DK",
@@ -475,16 +483,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 20141,
-      "num": 19767,
-      "word": "井柏然谭松韵打台球",
-      "onboard_time": 1679173511,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 12531,
-      "num": 12531,
+      "raw_hot": 20431,
+      "num": 20431,
       "word": "华为P60手机外观公布",
       "onboard_time": 1679149171,
       "rank": 44,
