@@ -1,6 +1,6 @@
 {
   "startTime": 1679156607539,
-  "endTime": 1679181461431,
+  "endTime": 1679182439588,
   "band_list": [
     {
       "raw_hot": 1336084,
@@ -59,6 +59,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 553523,
+      "num": 553523,
+      "word": "男子警示大会被铐走全场震惊",
+      "onboard_time": 1679158101,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 513257,
       "num": 268271,
       "word": "被造黄谣女生决定不采取自诉",
@@ -83,11 +91,11 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 445627,
-      "num": 445627,
-      "word": "男子警示大会被铐走全场震惊",
-      "onboard_time": 1679158101,
-      "rank": 15,
+      "raw_hot": 465859,
+      "num": 465859,
+      "word": "山东乳山发现大型金矿床",
+      "onboard_time": 1679171531,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -97,14 +105,6 @@
       "onboard_time": 1679146953,
       "rank": 7,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 398924,
-      "num": 398924,
-      "word": "山东乳山发现大型金矿床",
-      "onboard_time": 1679171531,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 388585,
@@ -147,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 271640,
+      "num": 271640,
+      "word": "20万请曹姓明星带货3月成交278元",
+      "onboard_time": 1679131647,
+      "rank": 28,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 269892,
       "num": 269892,
       "word": "洪恩採哭了",
@@ -177,14 +185,6 @@
       "onboard_time": 1679118686,
       "rank": 22,
       "category": "体育,网红"
-    },
-    {
-      "raw_hot": 232727,
-      "num": 232727,
-      "word": "20万请曹姓明星带货3月成交278元",
-      "onboard_time": 1679131647,
-      "rank": 28,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 230947,
@@ -235,6 +235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 190495,
+      "num": 190495,
+      "word": "乌总统夫人讲述乌妇女用罐头击落俄无人机",
+      "onboard_time": 1679143708,
+      "rank": 31,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 185834,
       "num": 185834,
       "word": "WB对战eStar",
@@ -259,12 +267,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 176329,
-      "num": 176329,
-      "word": "乌总统夫人讲述乌妇女用罐头击落俄无人机",
-      "onboard_time": 1679143708,
-      "rank": 31,
-      "category": "国外要闻"
+      "raw_hot": 175363,
+      "num": 175363,
+      "word": "自行车怕被偷与警车锁在一起",
+      "onboard_time": 1679168653,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173723,
+      "num": 156439,
+      "word": "苏州大学造黄谣学生与受害者对话曝光",
+      "onboard_time": 1679121209,
+      "rank": 37,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 169704,
+      "num": 169704,
+      "word": "C罗任意球破门",
+      "onboard_time": 1679181257,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 166585,
@@ -291,14 +315,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 147337,
-      "num": 147337,
-      "word": "自行车怕被偷与警车锁在一起",
-      "onboard_time": 1679168653,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 140381,
       "num": 140381,
       "word": "周震南音乐节",
@@ -313,14 +329,6 @@
       "onboard_time": 1679148213,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 128636,
-      "num": 128636,
-      "word": "苏州大学造黄谣学生与受害者对话曝光",
-      "onboard_time": 1679121209,
-      "rank": 37,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 128379,
@@ -355,6 +363,22 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 115223,
+      "num": 115223,
+      "word": "穿只袜子反转比悬疑片还多",
+      "onboard_time": 1679178193,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 107839,
+      "num": 107839,
+      "word": "蔡文静晒布达拉宫风景照",
+      "onboard_time": 1679181616,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 104522,
       "num": 104522,
       "word": "牛迪",
@@ -363,20 +387,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 103899,
+      "num": 67783,
+      "word": "哈兰德两场8球",
+      "onboard_time": 1679181437,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 101032,
       "num": 101032,
       "word": "樊振东马龙争夺冠军",
       "onboard_time": 1679145329,
       "rank": 43,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 100435,
-      "num": 100435,
-      "word": "穿只袜子反转比悬疑片还多",
-      "onboard_time": 1679178193,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 97531,
@@ -409,14 +433,6 @@
       "onboard_time": 1679153249,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 88731,
-      "num": 88731,
-      "word": "C罗任意球破门",
-      "onboard_time": 1679181257,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 86947,
@@ -467,12 +483,44 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 66281,
-      "num": 66281,
+      "raw_hot": 71474,
+      "num": 67718,
+      "word": "心理素质不强上不了这课",
+      "onboard_time": 1679181678,
+      "rank": 31,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 67553,
+      "num": 67553,
       "word": "这猫真的不是人变得吗",
       "onboard_time": 1679159720,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 55661,
+      "num": 55661,
+      "word": "林一登韩国MAPS四月刊封面",
+      "onboard_time": 1679182098,
+      "rank": 39,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 52206,
+      "num": 52206,
+      "word": "南安普顿3比3热刺",
+      "onboard_time": 1679181978,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 51227,
+      "num": 51227,
+      "word": "华为P60手机外观公布",
+      "onboard_time": 1679149171,
+      "rank": 44,
+      "category": "科技"
     },
     {
       "raw_hot": 49355,
@@ -483,6 +531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 48397,
+      "num": 48397,
+      "word": "海棠花",
+      "onboard_time": 1679182400,
+      "rank": 43,
+      "category": "自然"
+    },
+    {
       "raw_hot": 44510,
       "num": 30703,
       "word": "井柏然谭松韵打台球",
@@ -491,20 +547,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 40250,
-      "num": 40250,
-      "word": "华为P60手机外观公布",
-      "onboard_time": 1679149171,
+      "raw_hot": 42977,
+      "num": 42977,
+      "word": "路晨永远盯着归晓",
+      "onboard_time": 1679180475,
       "rank": 44,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 39423,
-      "num": 39423,
-      "word": "哈兰德两场8球",
-      "onboard_time": 1679181437,
-      "rank": 39,
-      "category": "体育"
+      "category": "影视"
     },
     {
       "raw_hot": 32996,
@@ -513,14 +561,6 @@
       "onboard_time": 1679161638,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 32368,
-      "num": 32368,
-      "word": "路晨永远盯着归晓",
-      "onboard_time": 1679180475,
-      "rank": 44,
-      "category": "影视"
     }
   ],
   "hotgov_list": [

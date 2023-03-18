@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1679181461431,
+  "endTime": 1679182439588,
   "band_list": [
     {
       "raw_hot": 9458443,
@@ -3563,6 +3563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 553523,
+      "num": 553523,
+      "word": "男子警示大会被铐走全场震惊",
+      "onboard_time": 1679158101,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 553009,
       "num": 553009,
       "word": "孙颖莎VS朱芊曦",
@@ -4507,6 +4515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 465859,
+      "num": 465859,
+      "word": "山东乳山发现大型金矿床",
+      "onboard_time": 1679171531,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 464564,
       "num": 464564,
       "word": "国考排名",
@@ -4689,14 +4705,6 @@
       "onboard_time": 1678891174,
       "rank": 22,
       "category": "财经"
-    },
-    {
-      "raw_hot": 445627,
-      "num": 445627,
-      "word": "男子警示大会被铐走全场震惊",
-      "onboard_time": 1679158101,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 443316,
@@ -5329,14 +5337,6 @@
       "onboard_time": 1679058508,
       "rank": 33,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 398924,
-      "num": 398924,
-      "word": "山东乳山发现大型金矿床",
-      "onboard_time": 1679171531,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 398459,
@@ -10331,6 +10331,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 175363,
+      "num": 175363,
+      "word": "自行车怕被偷与警车锁在一起",
+      "onboard_time": 1679168653,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175301,
       "num": 175301,
       "word": "杨超越给徐正溪新剧宣传",
@@ -10457,6 +10465,14 @@
       "onboard_time": 1678939649,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 169704,
+      "num": 169704,
+      "word": "C罗任意球破门",
+      "onboard_time": 1679181257,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 169620,
@@ -11145,14 +11161,6 @@
       "onboard_time": 1678980149,
       "rank": 34,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 147337,
-      "num": 147337,
-      "word": "自行车怕被偷与警车锁在一起",
-      "onboard_time": 1679168653,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 146910,
@@ -12043,6 +12051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115223,
+      "num": 115223,
+      "word": "穿只袜子反转比悬疑片还多",
+      "onboard_time": 1679178193,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 115108,
       "num": 98732,
       "word": "想把你留在这里",
@@ -12187,6 +12203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 107839,
+      "num": 107839,
+      "word": "蔡文静晒布达拉宫风景照",
+      "onboard_time": 1679181616,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 107836,
       "num": 107836,
       "word": "求职遇到歧视怎么办",
@@ -12219,6 +12243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 103899,
+      "num": 67783,
+      "word": "哈兰德两场8球",
+      "onboard_time": 1679181437,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 102342,
       "num": 102342,
       "word": "为什么容易失眠",
@@ -12241,14 +12273,6 @@
       "onboard_time": 1678965149,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 100435,
-      "num": 100435,
-      "word": "穿只袜子反转比悬疑片还多",
-      "onboard_time": 1679178193,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 99603,
@@ -12401,14 +12425,6 @@
       "onboard_time": 1678888596,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 88731,
-      "num": 88731,
-      "word": "C罗任意球破门",
-      "onboard_time": 1679181257,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 88188,
@@ -12611,6 +12627,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 71474,
+      "num": 67718,
+      "word": "心理素质不强上不了这课",
+      "onboard_time": 1679181678,
+      "rank": 31,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 71297,
       "num": 1577782,
       "word": "震撼航拍感受大漠生态治沙",
@@ -12643,20 +12667,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 67553,
+      "num": 67553,
+      "word": "这猫真的不是人变得吗",
+      "onboard_time": 1679159720,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 66415,
       "num": 1293621,
       "word": "新时代中国网络法治建设白皮书发布",
       "onboard_time": 1678956808,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 66281,
-      "num": 66281,
-      "word": "这猫真的不是人变得吗",
-      "onboard_time": 1679159720,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 65974,
@@ -12755,6 +12779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 55661,
+      "num": 55661,
+      "word": "林一登韩国MAPS四月刊封面",
+      "onboard_time": 1679182098,
+      "rank": 39,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 55655,
       "num": 55655,
       "word": "阿森纳半场领先",
@@ -12785,6 +12817,14 @@
       "onboard_time": 1678735091,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 52206,
+      "num": 52206,
+      "word": "南安普顿3比3热刺",
+      "onboard_time": 1679181978,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 50958,
@@ -12819,6 +12859,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 48397,
+      "num": 48397,
+      "word": "海棠花",
+      "onboard_time": 1679182400,
+      "rank": 43,
+      "category": "自然"
+    },
+    {
       "raw_hot": 47169,
       "num": 47169,
       "word": "黑暗荣耀2双向救赎",
@@ -12843,12 +12891,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 39423,
-      "num": 39423,
-      "word": "哈兰德两场8球",
-      "onboard_time": 1679181437,
-      "rank": 39,
-      "category": "体育"
+      "raw_hot": 42977,
+      "num": 42977,
+      "word": "路晨永远盯着归晓",
+      "onboard_time": 1679180475,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 37417,
@@ -12865,14 +12913,6 @@
       "onboard_time": 1679161638,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 32368,
-      "num": 32368,
-      "word": "路晨永远盯着归晓",
-      "onboard_time": 1679180475,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 32004,
