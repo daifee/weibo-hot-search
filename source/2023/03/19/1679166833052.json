@@ -1,0 +1,410 @@
+{
+  "runTime": 1679166833052,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 116085,
+        "num": 116085,
+        "word": "椰树直播间",
+        "onboard_time": 1679150791,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107107,
+        "num": 107107,
+        "word": "男子警示大会被铐走全场震惊",
+        "onboard_time": 1679158101,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18814,
+        "num": 89329,
+        "word": "这段跨越千年的对话令人骄傲又感动",
+        "onboard_time": 1679142929,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193133,
+        "num": 88398,
+        "word": "丫丫",
+        "onboard_time": 1679146048,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126759,
+        "num": 86613,
+        "word": "男子网恋1年多女友竟是好友老婆",
+        "onboard_time": 1679152948,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82437,
+        "num": 82437,
+        "word": "霉霉唱了44首歌",
+        "onboard_time": 1679141548,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 77984,
+        "num": 77984,
+        "word": "强盛公司勾兑盐水冒充神药坑骗老人",
+        "onboard_time": 1679138729,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74625,
+        "num": 74625,
+        "word": "Jennie台湾高雄演唱会饭拍视频",
+        "onboard_time": 1679146953,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 68264,
+        "num": 68264,
+        "word": "特朗普自称将被捕",
+        "onboard_time": 1679146650,
+        "rank": 8,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 58689,
+        "num": 58689,
+        "word": "F1",
+        "onboard_time": 1679160977,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170110,
+        "num": 58581,
+        "word": "被造黄谣女生决定不采取自诉",
+        "onboard_time": 1679136628,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149660,
+        "num": 57878,
+        "word": "曹曦月",
+        "onboard_time": 1679137350,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128003,
+        "num": 57466,
+        "word": "花三三卢靖姗合照",
+        "onboard_time": 1679138188,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 65387,
+        "num": 56957,
+        "word": "西南大学开设公务员专业",
+        "onboard_time": 1679145027,
+        "rank": 13,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 64444,
+        "num": 56832,
+        "word": "这才是吸毒前后真实的面容变化",
+        "onboard_time": 1679125645,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56497,
+        "num": 56497,
+        "word": "薛之谦演唱会戴老奶奶假发",
+        "onboard_time": 1679153489,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 53540,
+        "num": 53540,
+        "word": "给猪喂的是我的减脂餐吧",
+        "onboard_time": 1679152892,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 49839,
+        "num": 49839,
+        "word": "20万请曹姓明星带货3月成交278元",
+        "onboard_time": 1679131647,
+        "rank": 17,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 45406,
+        "num": 45406,
+        "word": "你好星期六下周有两对cp",
+        "onboard_time": 1679145268,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43785,
+        "num": 43785,
+        "word": "苏州大学造黄谣学生与受害者对话曝光",
+        "onboard_time": 1679121209,
+        "rank": 19,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 62409,
+        "num": 43658,
+        "word": "张隆 李梦",
+        "onboard_time": 1679120426,
+        "rank": 20,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 43525,
+        "num": 43525,
+        "word": "灵梦道歉",
+        "onboard_time": 1679148090,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 56410,
+        "num": 43508,
+        "word": "李梦",
+        "onboard_time": 1679118686,
+        "rank": 22,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 43416,
+        "num": 43416,
+        "word": "乌总统夫人讲述乌妇女用罐头击落俄无人机",
+        "onboard_time": 1679143708,
+        "rank": 23,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 43176,
+        "num": 43176,
+        "word": "女子称离职被拒HR招人又招到自己",
+        "onboard_time": 1679137648,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39541,
+        "num": 39541,
+        "word": "TES四连败",
+        "onboard_time": 1679145451,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 36896,
+        "num": 36896,
+        "word": "偶遇杨幂看电影",
+        "onboard_time": 1679146228,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33821,
+        "num": 33821,
+        "word": "小S带女儿去看BLACKPINK的演唱会",
+        "onboard_time": 1679146048,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 33570,
+        "num": 33570,
+        "word": "WB对战eStar",
+        "onboard_time": 1679155585,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 33089,
+        "num": 33089,
+        "word": "阿信用AI发微博",
+        "onboard_time": 1679150432,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31202,
+        "num": 31202,
+        "word": "这猫真的不是人变得吗",
+        "onboard_time": 1679159720,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 31087,
+        "num": 31087,
+        "word": "为什么工作后很难谈恋爱了",
+        "onboard_time": 1679132486,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 30997,
+        "num": 30997,
+        "word": "人真的不能不上班",
+        "onboard_time": 1679126247,
+        "rank": 32,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 27193,
+        "num": 27193,
+        "word": "牛迪",
+        "onboard_time": 1679146532,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25764,
+        "num": 25764,
+        "word": "洪恩採哭了",
+        "onboard_time": 1679151691,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 25226,
+        "num": 25226,
+        "word": "杨紫叫杨迪哥",
+        "onboard_time": 1679152589,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25117,
+        "num": 25117,
+        "word": "清融状态",
+        "onboard_time": 1679149891,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 24368,
+        "num": 24368,
+        "word": "丁程鑫看李一桐毕雯珺夹气球的表情",
+        "onboard_time": 1679153309,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23671,
+        "num": 23671,
+        "word": "林俊杰黄贯中合唱海阔天空",
+        "onboard_time": 1679150012,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 23539,
+        "num": 23539,
+        "word": "魏大勋敲在杨超越的发夹上",
+        "onboard_time": 1679132907,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23485,
+        "num": 23485,
+        "word": "GEN战胜DK",
+        "onboard_time": 1679161638,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 21631,
+        "num": 23477,
+        "word": "光渊更不更",
+        "onboard_time": 1679142327,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 21610,
+        "num": 23471,
+        "word": "周震南音乐节",
+        "onboard_time": 1679151091,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 21250,
+        "num": 23459,
+        "word": "金钟仁MOMO舞蹈挑战",
+        "onboard_time": 1679147370,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 20838,
+        "num": 23451,
+        "word": "王俊凯金色外套机场路透",
+        "onboard_time": 1679150970,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 20785,
+        "num": 23431,
+        "word": "李健音乐会",
+        "onboard_time": 1679150070,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 20406,
+        "num": 23418,
+        "word": "言承旭李雪琴再现夏花名场面",
+        "onboard_time": 1679148213,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20346,
+        "num": 23412,
+        "word": "听张颂文讲述春天",
+        "onboard_time": 1679155526,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19558,
+        "num": 23405,
+        "word": "王曼昱孙颖莎女双冠军",
+        "onboard_time": 1679148030,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18940,
+        "num": 23390,
+        "word": "邓佳鑫白衬衫",
+        "onboard_time": 1679158762,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#聚焦经济社会发展#"
+    }
+  }
+}
