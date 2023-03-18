@@ -1,6 +1,6 @@
 {
   "startTime": 1679070330564,
-  "endTime": 1679135646638,
+  "endTime": 1679138099248,
   "band_list": [
     {
       "raw_hot": 3685659,
@@ -64,6 +64,14 @@
       "word": "20万请曹姓明星带货3月成交278元",
       "onboard_time": 1679131647,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2143430,
+      "num": 816714,
+      "word": "被造黄谣女生决定不采取自诉",
+      "onboard_time": 1679136628,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -299,6 +307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 764244,
+      "num": 764244,
+      "word": "玫瑰花的葬礼现在是鹭卓的禁曲",
+      "onboard_time": 1679133928,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 745205,
       "num": 745205,
       "word": "李承铉终于出来营业了",
@@ -395,6 +411,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 615807,
+      "num": 414947,
+      "word": "刘亦菲 活动",
+      "onboard_time": 1679135489,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 612847,
       "num": 612847,
       "word": "孙颖莎vs王曼昱",
@@ -459,14 +483,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 551812,
-      "num": 551812,
-      "word": "玫瑰花的葬礼现在是鹭卓的禁曲",
-      "onboard_time": 1679133928,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 551279,
       "num": 551279,
       "word": "印度男子因新娘高中成绩差退婚",
@@ -505,6 +521,14 @@
       "onboard_time": 1679110167,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 500040,
+      "num": 412543,
+      "word": "曹曦月",
+      "onboard_time": 1679137350,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 490145,
@@ -611,6 +635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 422039,
+      "num": 422039,
+      "word": "陷入我们的热恋",
+      "onboard_time": 1679137529,
+      "rank": 9,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 417983,
       "num": 309280,
       "word": "24岁女子不会做饭给自己报名小饭桌",
@@ -648,6 +680,14 @@
       "word": "马嘉祺宋亚轩跑步上课",
       "onboard_time": 1679134588,
       "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 389973,
+      "num": 389973,
+      "word": "费曼吴镇宇电影院合照",
+      "onboard_time": 1679135307,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -923,6 +963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 247073,
+      "num": 247073,
+      "word": "语文课真的是思想上的抚摸",
+      "onboard_time": 1679133627,
+      "rank": 29,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 246274,
       "num": 246274,
       "word": "鹿晗撸猫",
@@ -1041,22 +1089,6 @@
       "onboard_time": 1679061451,
       "rank": 18,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 215517,
-      "num": 198338,
-      "word": "费曼吴镇宇电影院合照",
-      "onboard_time": 1679135307,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 214669,
-      "num": 214669,
-      "word": "语文课真的是思想上的抚摸",
-      "onboard_time": 1679133627,
-      "rank": 29,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 210942,
@@ -1403,6 +1435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 163848,
+      "num": 163848,
+      "word": "哈利波特看到都愣住了",
+      "onboard_time": 1679135788,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 163662,
       "num": 163662,
       "word": "残夏终于有现场了",
@@ -1411,12 +1451,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 161386,
-      "num": 161386,
-      "word": "刘亦菲 活动",
-      "onboard_time": 1679135489,
-      "rank": 35,
-      "category": "艺人"
+      "raw_hot": 162070,
+      "num": 162070,
+      "word": "小美人鱼主演看预告的反应",
+      "onboard_time": 1679136748,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 161796,
+      "num": 161796,
+      "word": "井柏然穿的防爆服重80斤",
+      "onboard_time": 1679137226,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 156430,
@@ -1425,6 +1473,14 @@
       "onboard_time": 1679051131,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 155235,
+      "num": 155235,
+      "word": "女子称离职被拒HR招人又招到自己",
+      "onboard_time": 1679137648,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 153492,
@@ -1441,6 +1497,14 @@
       "onboard_time": 1679097986,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 151054,
+      "num": 151054,
+      "word": "站住",
+      "onboard_time": 1679134168,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 150695,
@@ -1483,12 +1547,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145177,
+      "num": 145177,
+      "word": "张若昀活动生图",
+      "onboard_time": 1679135425,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 141766,
       "num": 141766,
       "word": "这家凉皮摊前全是100分",
       "onboard_time": 1679058508,
       "rank": 31,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 140748,
+      "num": 140748,
+      "word": "这猫咪经历了什么",
+      "onboard_time": 1679135425,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 138771,
@@ -1683,14 +1763,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 115297,
-      "num": 115297,
-      "word": "张若昀活动生图",
-      "onboard_time": 1679135425,
-      "rank": 42,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 114163,
       "num": 114163,
       "word": "归晓催路晨结婚",
@@ -1713,14 +1785,6 @@
       "onboard_time": 1679098465,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 112903,
-      "num": 112903,
-      "word": "站住",
-      "onboard_time": 1679134168,
-      "rank": 45,
-      "category": "影视"
     },
     {
       "raw_hot": 112718,
@@ -1753,6 +1817,14 @@
       "onboard_time": 1679064573,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 102342,
+      "num": 102342,
+      "word": "为什么容易失眠",
+      "onboard_time": 1679136868,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 99262,
@@ -1817,14 +1889,6 @@
       "onboard_time": 1679070383,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 79847,
-      "num": 79847,
-      "word": "这猫咪经历了什么",
-      "onboard_time": 1679135425,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 76319,
