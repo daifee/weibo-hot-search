@@ -1,6 +1,6 @@
 {
   "startTime": 1679070330564,
-  "endTime": 1679123763303,
+  "endTime": 1679124804587,
   "band_list": [
     {
       "raw_hot": 3685659,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 2704112,
-      "num": 347534,
+      "num": 429915,
       "word": "张隆 李梦",
       "onboard_time": 1679120426,
       "rank": 14,
@@ -51,20 +51,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2154429,
+      "num": 1821715,
+      "word": "苏州大学造黄谣学生与受害者对话曝光",
+      "onboard_time": 1679121209,
+      "rank": 31,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1825028,
       "num": 1065827,
       "word": "男教师被举报猥亵女生后坠亡",
       "onboard_time": 1679096482,
       "rank": 1,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 1821715,
-      "num": 1821715,
-      "word": "苏州大学造黄谣学生与受害者对话曝光",
-      "onboard_time": 1679121209,
-      "rank": 31,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1520479,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 1033927,
-      "num": 333775,
+      "num": 419033,
       "word": "宋慧乔回复韩素希",
       "onboard_time": 1679120728,
       "rank": 16,
@@ -251,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 727659,
+      "num": 1066049,
+      "word": "朴妍珍的牙",
+      "onboard_time": 1679122227,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 698416,
       "num": 698416,
       "word": "中央统战部原副部长崔茂虎接受审查调查",
@@ -292,7 +300,7 @@
     },
     {
       "raw_hot": 645832,
-      "num": 345585,
+      "num": 406253,
       "word": "网友P的周冬雨",
       "onboard_time": 1679119767,
       "rank": 15,
@@ -304,14 +312,6 @@
       "word": "文东恩复仇花费",
       "onboard_time": 1679099487,
       "rank": 5,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 627681,
-      "num": 297135,
-      "word": "朴妍珍的牙",
-      "onboard_time": 1679122227,
-      "rank": 15,
       "category": "影视"
     },
     {
@@ -369,6 +369,14 @@
       "onboard_time": 1679113468,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 551279,
+      "num": 551279,
+      "word": "印度男子因新娘高中成绩差退婚",
+      "onboard_time": 1679121388,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 548088,
@@ -507,14 +515,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 416295,
-      "num": 295072,
-      "word": "印度男子因新娘高中成绩差退婚",
-      "onboard_time": 1679121388,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 407575,
       "num": 407575,
       "word": "俄罗斯养的大熊猫",
@@ -537,6 +537,14 @@
       "onboard_time": 1679100329,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 383937,
+      "num": 383937,
+      "word": "谭松韵的松弛感",
+      "onboard_time": 1679123669,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 382042,
@@ -563,20 +571,20 @@
       "category": "科技"
     },
     {
+      "raw_hot": 379602,
+      "num": 379602,
+      "word": "杨超越迈不开腿",
+      "onboard_time": 1679122768,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 379393,
       "num": 379393,
       "word": "小福菀终于学会爬树了",
       "onboard_time": 1679062412,
       "rank": 10,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 378928,
-      "num": 378928,
-      "word": "杨超越迈不开腿",
-      "onboard_time": 1679122768,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 377284,
@@ -691,8 +699,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 271355,
-      "num": 271355,
+      "raw_hot": 272704,
+      "num": 272704,
       "word": "外国小朋友鼓励熊猫丫丫",
       "onboard_time": 1679120187,
       "rank": 43,
@@ -1011,6 +1019,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 197666,
+      "num": 197666,
+      "word": "极限挑战宝藏行",
+      "onboard_time": 1679124147,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 196135,
       "num": 196135,
       "word": "垂涎",
@@ -1057,6 +1073,22 @@
       "onboard_time": 1679109209,
       "rank": 30,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 181203,
+      "num": 181203,
+      "word": "女子网购冰冻鸡爪厚似猪蹄",
+      "onboard_time": 1679123428,
+      "rank": 49,
+      "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 178406,
+      "num": 178406,
+      "word": "陈少熙搬花精神状态",
+      "onboard_time": 1679123908,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 177963,
@@ -1187,14 +1219,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 146268,
-      "num": 146268,
-      "word": "谭松韵的松弛感",
-      "onboard_time": 1679123669,
-      "rank": 38,
-      "category": "影视"
-    },
-    {
       "raw_hot": 141766,
       "num": 141766,
       "word": "这家凉皮摊前全是100分",
@@ -1203,11 +1227,27 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 141107,
+      "num": 141107,
+      "word": "XYG对战DYG",
+      "onboard_time": 1679123246,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 138771,
       "num": 138771,
       "word": "国产剧疯批美人盘点",
       "onboard_time": 1679116530,
       "rank": 46,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 138310,
+      "num": 138310,
+      "word": "国产剧有他了不起",
+      "onboard_time": 1679122046,
+      "rank": 44,
       "category": "影视"
     },
     {
@@ -1249,6 +1289,14 @@
       "onboard_time": 1679080453,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 127922,
+      "num": 127922,
+      "word": "谣言的伤害力有多大",
+      "onboard_time": 1679124386,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 126372,
@@ -1299,14 +1347,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 120100,
-      "num": 120100,
-      "word": "国产剧有他了不起",
-      "onboard_time": 1679122046,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
       "raw_hot": 117798,
       "num": 117798,
       "word": "姜广涛能不能把声带捐出来",
@@ -1345,14 +1385,6 @@
       "onboard_time": 1679051669,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 114282,
-      "num": 114282,
-      "word": "XYG对战DYG",
-      "onboard_time": 1679123246,
-      "rank": 46,
-      "category": "游戏"
     },
     {
       "raw_hot": 114163,
@@ -1409,14 +1441,6 @@
       "onboard_time": 1679064573,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 102907,
-      "num": 102907,
-      "word": "女子网购冰冻鸡爪厚似猪蹄",
-      "onboard_time": 1679123428,
-      "rank": 49,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 99262,
