@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1679110423780,
+  "endTime": 1679113326952,
   "band_list": [
     {
       "raw_hot": 9458443,
@@ -43,6 +43,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 3685659,
+      "num": 507730,
+      "word": "重庆大学",
+      "onboard_time": 1679109331,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3314139,
       "num": 3314139,
       "word": "海底捞要求必须点锅底",
@@ -75,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2821301,
+      "num": 2821301,
+      "word": "苏州大学赵尚峰",
+      "onboard_time": 1679107647,
+      "rank": 34,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 2520880,
       "num": 2520880,
       "word": "25岁女生长期熬夜长出老年斑",
@@ -105,14 +121,6 @@
       "onboard_time": 1679060550,
       "rank": 0,
       "category": "影视"
-    },
-    {
-      "raw_hot": 2330226,
-      "num": 2330226,
-      "word": "苏州大学赵尚峰",
-      "onboard_time": 1679107647,
-      "rank": 34,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 2326521,
@@ -667,6 +675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1333599,
+      "num": 1333599,
+      "word": "苏州大学通报男生P图造女生黄谣",
+      "onboard_time": 1679110048,
+      "rank": 28,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1331871,
       "num": 1331871,
       "word": "国内2名专家已前往美国照料丫丫",
@@ -689,14 +705,6 @@
       "onboard_time": 1678691007,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1302159,
-      "num": 471667,
-      "word": "重庆大学",
-      "onboard_time": 1679109331,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1288319,
@@ -801,6 +809,14 @@
       "onboard_time": 1679063313,
       "rank": 48,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 1187821,
+      "num": 1187821,
+      "word": "女子称点1314元套餐被店员嫌男友小气",
+      "onboard_time": 1679109809,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1187209,
@@ -1299,6 +1315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 923811,
+      "num": 923811,
+      "word": "山东事业编",
+      "onboard_time": 1679111427,
+      "rank": 5,
+      "category": "教育"
+    },
+    {
       "raw_hot": 922524,
       "num": 922524,
       "word": "竹马",
@@ -1475,12 +1499,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 873810,
+      "num": 873810,
+      "word": "微博之夜第四波阵容官宣",
+      "onboard_time": 1679110650,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 872048,
       "num": 872048,
       "word": "洗澡吃橘子",
       "onboard_time": 1678841970,
       "rank": 9,
       "category": "情感"
+    },
+    {
+      "raw_hot": 869989,
+      "num": 500547,
+      "word": "王诗龄放假回国",
+      "onboard_time": 1679108550,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 868106,
@@ -1585,14 +1625,6 @@
       "onboard_time": 1678874666,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 847940,
-      "num": 500547,
-      "word": "王诗龄放假回国",
-      "onboard_time": 1679108550,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 847051,
@@ -2843,6 +2875,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 596165,
+      "num": 490516,
+      "word": "李一桐白鹿穿同款星星卫衣",
+      "onboard_time": 1679110650,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 595038,
       "num": 595038,
       "word": "阿迪达斯们为何在中国市场不香了",
@@ -3779,6 +3819,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 480967,
+      "num": 480967,
+      "word": "垂涎 专属omega",
+      "onboard_time": 1679110167,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 480463,
       "num": 480463,
       "word": "广东一名消防员在灭火战斗中牺牲",
@@ -4193,14 +4241,6 @@
       "onboard_time": 1679051010,
       "rank": 14,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 442171,
-      "num": 442171,
-      "word": "垂涎 专属omega",
-      "onboard_time": 1679110167,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 440533,
@@ -5051,6 +5091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 373009,
+      "num": 177522,
+      "word": "霉霉演唱会播放PinkVenom",
+      "onboard_time": 1679113169,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 372800,
       "num": 372800,
       "word": "女演员经纪人称酒店未曾联系道歉",
@@ -5817,6 +5865,14 @@
       "onboard_time": 1678975771,
       "rank": 45,
       "category": "其它"
+    },
+    {
+      "raw_hot": 316698,
+      "num": 316698,
+      "word": "CUBE找练习生的困境",
+      "onboard_time": 1679112508,
+      "rank": 17,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 316583,
@@ -6811,14 +6867,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 252633,
-      "num": 200901,
-      "word": "女子称点1314元套餐被店员嫌男友小气",
-      "onboard_time": 1679109809,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 251678,
       "num": 251678,
       "word": "4S店直播回应清库存五折卖车",
@@ -7249,6 +7297,14 @@
       "onboard_time": 1678850429,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 232397,
+      "num": 232397,
+      "word": "斗罗大陆建模",
+      "onboard_time": 1679109809,
+      "rank": 37,
+      "category": "动漫"
     },
     {
       "raw_hot": 232273,
@@ -7715,6 +7771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 212192,
+      "num": 212192,
+      "word": "陈晓新剧演民办教师",
+      "onboard_time": 1679109989,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 211240,
       "num": 211240,
       "word": "晨晓夫妇70秒吻戏",
@@ -7952,14 +8016,6 @@
       "word": "吉林省考",
       "onboard_time": 1679046992,
       "rank": 33,
-      "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 204831,
-      "num": 204831,
-      "word": "苏州大学通报男生P图造女生黄谣",
-      "onboard_time": 1679110048,
-      "rank": 28,
       "category": "社会新闻,教育"
     },
     {
@@ -8315,14 +8371,6 @@
       "category": "社会新闻,社会新闻"
     },
     {
-      "raw_hot": 197756,
-      "num": 197756,
-      "word": "陈晓新剧演民办教师",
-      "onboard_time": 1679109989,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 197554,
       "num": 197554,
       "word": "WE战胜LGD",
@@ -8377,6 +8425,14 @@
       "onboard_time": 1679027428,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 196135,
+      "num": 196135,
+      "word": "垂涎",
+      "onboard_time": 1679112748,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 196125,
@@ -8457,6 +8513,14 @@
       "onboard_time": 1678976849,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 194259,
+      "num": 174038,
+      "word": "张元英棕色牛仔造型",
+      "onboard_time": 1679112930,
+      "rank": 31,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 194159,
@@ -8761,6 +8825,14 @@
       "onboard_time": 1679057308,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 188088,
+      "num": 188088,
+      "word": "新农人创业有多热血",
+      "onboard_time": 1679112330,
+      "rank": 28,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 188018,
@@ -9299,6 +9371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166236,
+      "num": 166236,
+      "word": "他是谁真敢拍",
+      "onboard_time": 1679111969,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 166124,
       "num": 166124,
       "word": "tangoz演我看黑暗荣耀",
@@ -9497,14 +9577,6 @@
       "onboard_time": 1679047230,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 158906,
-      "num": 158906,
-      "word": "斗罗大陆建模",
-      "onboard_time": 1679109809,
-      "rank": 37,
-      "category": "动漫"
     },
     {
       "raw_hot": 158566,
@@ -10137,6 +10209,14 @@
       "onboard_time": 1678934607,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135359,
+      "num": 135359,
+      "word": "国际品牌重新设计争议卫衣",
+      "onboard_time": 1679110650,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 135317,
@@ -11267,6 +11347,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 52259,
+      "num": 1577782,
+      "word": "震撼航拍感受大漠生态治沙",
+      "onboard_time": 1679112028,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50958,
       "num": 165656,
       "word": "春天最美列车里的热血合唱",
@@ -11369,6 +11457,14 @@
       "onboard_time": 1679076794,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 27743,
+      "num": 151726,
+      "word": "今天点饿了么能省74",
+      "onboard_time": 1679112028,
+      "rank": 39,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 27296,
