@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679174134694,
+  "endTime": 1679175219707,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -32691,6 +32691,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 122048,
+      "num": 30286,
+      "word": "山东乳山发现大型金矿床",
+      "onboard_time": 1679171531,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121974,
       "num": 121974,
       "word": "引起花粉过敏的元凶究竟是什么",
@@ -34481,14 +34489,6 @@
       "onboard_time": 1678327824,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 97810,
-      "num": 30286,
-      "word": "山东乳山发现大型金矿床",
-      "onboard_time": 1679171531,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 97771,
@@ -36683,6 +36683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 20141,
+      "num": 19767,
+      "word": "井柏然谭松韵打台球",
+      "onboard_time": 1679173511,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 18134,
       "num": 20132,
       "word": "杨超越重紫猫眼角色热度第二",
@@ -36721,14 +36729,6 @@
       "onboard_time": 1678390451,
       "rank": 34,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 15152,
-      "num": 15152,
-      "word": "井柏然谭松韵打台球",
-      "onboard_time": 1679173511,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 13727,

@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1679174134694,
+  "endTime": 1679175219707,
   "band_list": [
     {
       "raw_hot": 9458443,
@@ -11883,6 +11883,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 122048,
+      "num": 30286,
+      "word": "山东乳山发现大型金矿床",
+      "onboard_time": 1679171531,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121974,
       "num": 121974,
       "word": "引起花粉过敏的元凶究竟是什么",
@@ -12257,14 +12265,6 @@
       "onboard_time": 1678629507,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 97810,
-      "num": 30286,
-      "word": "山东乳山发现大型金矿床",
-      "onboard_time": 1679171531,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 97531,
@@ -12947,19 +12947,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 20141,
+      "num": 19767,
+      "word": "井柏然谭松韵打台球",
+      "onboard_time": 1679173511,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 17549,
       "num": 17549,
       "word": "驾驶我的车亚洲电影大奖最佳影片",
       "onboard_time": 1678645632,
       "rank": 40,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 15152,
-      "num": 15152,
-      "word": "井柏然谭松韵打台球",
-      "onboard_time": 1679173511,
-      "rank": 36,
       "category": "影视"
     },
     {
