@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679107100643,
+  "endTime": 1679107703545,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -2427,6 +2427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1234400,
+      "num": 1234400,
+      "word": "25岁女生长期熬夜长出老年斑",
+      "onboard_time": 1679106506,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1229401,
       "num": 306244,
       "word": "迪丽热巴水晶缀饰礼服",
@@ -3779,6 +3787,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 976335,
+      "num": 827270,
+      "word": "男孩患鸟面综合症",
+      "onboard_time": 1679106147,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 975798,
       "num": 514804,
       "word": "安以轩老公陈荣炼案将宣判",
@@ -4273,6 +4289,14 @@
       "onboard_time": 1677836908,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 895816,
+      "num": 895816,
+      "word": "水哥的书房",
+      "onboard_time": 1679106088,
+      "rank": 1,
+      "category": "网红"
     },
     {
       "raw_hot": 894582,
@@ -5115,6 +5139,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 808639,
+      "num": 808639,
+      "word": "iPhone15ProMax将打破最薄边框纪录",
+      "onboard_time": 1679105666,
+      "rank": 3,
+      "category": "科技"
+    },
+    {
       "raw_hot": 807984,
       "num": 290225,
       "word": "废文",
@@ -5651,14 +5683,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 757430,
-      "num": 757430,
-      "word": "水哥的书房",
-      "onboard_time": 1679106088,
-      "rank": 1,
-      "category": "网红"
-    },
-    {
       "raw_hot": 756445,
       "num": 756445,
       "word": "我们的西南联大改名战火中的青春",
@@ -5977,14 +6001,6 @@
       "onboard_time": 1678194627,
       "rank": 8,
       "category": "情感"
-    },
-    {
-      "raw_hot": 735588,
-      "num": 735588,
-      "word": "iPhone15ProMax将打破最薄边框纪录",
-      "onboard_time": 1679105666,
-      "rank": 3,
-      "category": "科技"
     },
     {
       "raw_hot": 735172,
@@ -8385,14 +8401,6 @@
       "onboard_time": 1678705766,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 584028,
-      "num": 440988,
-      "word": "男孩患鸟面综合症",
-      "onboard_time": 1679106147,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 583110,
@@ -14323,6 +14331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 369738,
+      "num": 369738,
+      "word": "黄金",
+      "onboard_time": 1679106267,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 369671,
       "num": 369671,
       "word": "怎样走路能减肥",
@@ -15353,14 +15369,6 @@
       "onboard_time": 1678677567,
       "rank": 49,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 346434,
-      "num": 346434,
-      "word": "25岁女生长期熬夜长出老年斑",
-      "onboard_time": 1679106506,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 346403,
@@ -18595,6 +18603,14 @@
       "category": "综艺,音乐"
     },
     {
+      "raw_hot": 272911,
+      "num": 272911,
+      "word": "人生路遥改名人生之路",
+      "onboard_time": 1679107348,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 272467,
       "num": 256732,
       "word": "白宇鹏卫冕脑王",
@@ -20361,14 +20377,6 @@
       "onboard_time": 1678061006,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 239037,
-      "num": 239037,
-      "word": "黄金",
-      "onboard_time": 1679106267,
-      "rank": 27,
-      "category": "财经"
     },
     {
       "raw_hot": 238976,
@@ -22323,6 +22331,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 211320,
+      "num": 211320,
+      "word": "中央统战部原副部长崔茂虎接受审查调查",
+      "onboard_time": 1679107229,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211254,
       "num": 193110,
       "word": "你们专业的分数线是涨了还是降了",
@@ -22641,6 +22657,14 @@
       "onboard_time": 1677992606,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 207803,
+      "num": 207803,
+      "word": "杨迪壁咚唐嫣",
+      "onboard_time": 1679106689,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 207786,
@@ -24803,6 +24827,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 193836,
+      "num": 193836,
+      "word": "苏州大学赵尚峰",
+      "onboard_time": 1679107647,
+      "rank": 34,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 193796,
       "num": 193796,
       "word": "流量密码被食堂拿捏住了",
@@ -26617,14 +26649,6 @@
       "onboard_time": 1678507171,
       "rank": 35,
       "category": "财经,科技"
-    },
-    {
-      "raw_hot": 174613,
-      "num": 174613,
-      "word": "杨迪壁咚唐嫣",
-      "onboard_time": 1679106689,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 174302,
@@ -29059,6 +29083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 145447,
+      "num": 145447,
+      "word": "16吨变质牙签肉是如何流入市场的",
+      "onboard_time": 1679107528,
+      "rank": 42,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 145158,
       "num": 145158,
       "word": "张艺兴变装教程视频",
@@ -29281,6 +29313,14 @@
       "onboard_time": 1678956927,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 142794,
+      "num": 142794,
+      "word": "初代未拆封iPhone拍出37.9万元",
+      "onboard_time": 1679107589,
+      "rank": 43,
+      "category": "科技"
     },
     {
       "raw_hot": 142702,
@@ -30057,6 +30097,14 @@
       "onboard_time": 1678987817,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 135003,
+      "num": 135003,
+      "word": "井柏然和小朋友合照",
+      "onboard_time": 1679107048,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 134899,
@@ -32409,14 +32457,6 @@
       "onboard_time": 1678934909,
       "rank": 48,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 105815,
-      "num": 105815,
-      "word": "井柏然和小朋友合照",
-      "onboard_time": 1679107048,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 105566,
