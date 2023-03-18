@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1679107703545,
+  "endTime": 1679109562208,
   "band_list": [
     {
       "raw_hot": 9458443,
@@ -105,6 +105,14 @@
       "onboard_time": 1678759046,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2310136,
+      "num": 2310136,
+      "word": "25岁女生长期熬夜长出老年斑",
+      "onboard_time": 1679106506,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2268157,
@@ -233,6 +241,14 @@
       "onboard_time": 1678776508,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1965958,
+      "num": 1965958,
+      "word": "苏州大学赵尚峰",
+      "onboard_time": 1679107647,
+      "rank": 34,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1962449,
@@ -747,14 +763,6 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 1234400,
-      "num": 1234400,
-      "word": "25岁女生长期熬夜长出老年斑",
-      "onboard_time": 1679106506,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1220778,
       "num": 1220778,
       "word": "谢霆锋一天官宣3部新片",
@@ -1083,6 +1091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1031612,
+      "num": 1031612,
+      "word": "男孩患鸟面综合症",
+      "onboard_time": 1679106147,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1014941,
       "num": 1014941,
       "word": "部分头盔成戴在头上的刀片",
@@ -1161,14 +1177,6 @@
       "onboard_time": 1679021250,
       "rank": 46,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 976335,
-      "num": 827270,
-      "word": "男孩患鸟面综合症",
-      "onboard_time": 1679106147,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 975492,
@@ -2211,6 +2219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 698416,
+      "num": 698416,
+      "word": "中央统战部原副部长崔茂虎接受审查调查",
+      "onboard_time": 1679107229,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 696909,
       "num": 401197,
       "word": "腾讯T13技术大佬黄希彤被曝遭裁员",
@@ -2803,6 +2819,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 597696,
+      "num": 500547,
+      "word": "王诗龄放假回国",
+      "onboard_time": 1679108550,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 595038,
       "num": 595038,
       "word": "阿迪达斯们为何在中国市场不香了",
@@ -2865,6 +2889,14 @@
       "onboard_time": 1678705766,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 582584,
+      "num": 582584,
+      "word": "乘风发布人 费翔",
+      "onboard_time": 1679108729,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 581942,
@@ -3907,6 +3939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 468852,
+      "num": 468852,
+      "word": "黄金",
+      "onboard_time": 1679106267,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 467116,
       "num": 467116,
       "word": "莲花坐垫",
@@ -4883,6 +4923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 381128,
+      "num": 381128,
+      "word": "初代未拆封iPhone拍出37.9万元",
+      "onboard_time": 1679107589,
+      "rank": 43,
+      "category": "科技"
+    },
+    {
       "raw_hot": 380801,
       "num": 380801,
       "word": "杨和苏门票",
@@ -5001,14 +5049,6 @@
       "onboard_time": 1678709247,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 369738,
-      "num": 369738,
-      "word": "黄金",
-      "onboard_time": 1679106267,
-      "rank": 27,
-      "category": "财经"
     },
     {
       "raw_hot": 369188,
@@ -5777,6 +5817,14 @@
       "onboard_time": 1678962268,
       "rank": 25,
       "category": "教育,情感"
+    },
+    {
+      "raw_hot": 315567,
+      "num": 315567,
+      "word": "16吨变质牙签肉是如何流入市场的",
+      "onboard_time": 1679107528,
+      "rank": 42,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 314850,
@@ -6691,6 +6739,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 255650,
+      "num": 255650,
+      "word": "王鹤棣官宣微博之夜",
+      "onboard_time": 1679109507,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 255504,
       "num": 219967,
       "word": "TWICE新歌MCD回归舞台",
@@ -7097,6 +7153,14 @@
       "onboard_time": 1678932264,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 233131,
+      "num": 233131,
+      "word": "杨迪壁咚唐嫣",
+      "onboard_time": 1679106689,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 233080,
@@ -7627,14 +7691,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 211320,
-      "num": 211320,
-      "word": "中央统战部原副部长崔茂虎接受审查调查",
-      "onboard_time": 1679107229,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 211240,
       "num": 211240,
       "word": "晨晓夫妇70秒吻戏",
@@ -7681,6 +7737,14 @@
       "onboard_time": 1679105186,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 209320,
+      "num": 209320,
+      "word": "宋佳王阳两次演夫妻对比",
+      "onboard_time": 1679108371,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 209313,
@@ -7745,14 +7809,6 @@
       "onboard_time": 1679030666,
       "rank": 28,
       "category": "综艺,幽默"
-    },
-    {
-      "raw_hot": 207803,
-      "num": 207803,
-      "word": "杨迪壁咚唐嫣",
-      "onboard_time": 1679106689,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 207786,
@@ -8379,14 +8435,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 193836,
-      "num": 193836,
-      "word": "苏州大学赵尚峰",
-      "onboard_time": 1679107647,
-      "rank": 34,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 193347,
       "num": 193347,
       "word": "王楚钦3比0郭勇",
@@ -8785,6 +8833,14 @@
       "onboard_time": 1678623986,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 183983,
+      "num": 183983,
+      "word": "95后成为二手交易主力军",
+      "onboard_time": 1679109209,
+      "rank": 30,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 183784,
@@ -9235,6 +9291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 164213,
+      "num": 164213,
+      "word": "火箭绝杀鹈鹕",
+      "onboard_time": 1679107888,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 164006,
       "num": 217511,
       "word": "原神白色情人节",
@@ -9384,6 +9448,14 @@
       "word": "全年最早上市的瓜来了",
       "onboard_time": 1679047230,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158844,
+      "num": 158844,
+      "word": "重庆大学",
+      "onboard_time": 1679109331,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -9731,14 +9803,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 145447,
-      "num": 145447,
-      "word": "16吨变质牙签肉是如何流入市场的",
-      "onboard_time": 1679107528,
-      "rank": 42,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 144906,
       "num": 400393,
       "word": "李强总理谈港澳发展",
@@ -9753,6 +9817,14 @@
       "onboard_time": 1678743191,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 143978,
+      "num": 143978,
+      "word": "苹果股价2023年已上涨19%",
+      "onboard_time": 1679109209,
+      "rank": 42,
+      "category": "财经,科技"
     },
     {
       "raw_hot": 143880,
@@ -9793,14 +9865,6 @@
       "onboard_time": 1678956927,
       "rank": 38,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 142794,
-      "num": 142794,
-      "word": "初代未拆封iPhone拍出37.9万元",
-      "onboard_time": 1679107589,
-      "rank": 43,
-      "category": "科技"
     },
     {
       "raw_hot": 142568,

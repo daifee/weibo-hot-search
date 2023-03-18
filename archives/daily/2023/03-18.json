@@ -1,7 +1,23 @@
 {
   "startTime": 1679070330564,
-  "endTime": 1679107703545,
+  "endTime": 1679109562208,
   "band_list": [
+    {
+      "raw_hot": 2310136,
+      "num": 2310136,
+      "word": "25岁女生长期熬夜长出老年斑",
+      "onboard_time": 1679106506,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1965958,
+      "num": 1965958,
+      "word": "苏州大学赵尚峰",
+      "onboard_time": 1679107647,
+      "rank": 34,
+      "category": "社会新闻,教育"
+    },
     {
       "raw_hot": 1825028,
       "num": 1065827,
@@ -16,14 +32,6 @@
       "word": "丫丫胖了一点白了一点",
       "onboard_time": 1679065230,
       "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1234400,
-      "num": 1234400,
-      "word": "25岁女生长期熬夜长出老年斑",
-      "onboard_time": 1679106506,
-      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -43,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1031612,
+      "num": 1031612,
+      "word": "男孩患鸟面综合症",
+      "onboard_time": 1679106147,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 997518,
       "num": 997518,
       "word": "上海7旬大爷结3次婚被分3套房",
@@ -57,14 +73,6 @@
       "onboard_time": 1679063313,
       "rank": 3,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 976335,
-      "num": 827270,
-      "word": "男孩患鸟面综合症",
-      "onboard_time": 1679106147,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 895816,
@@ -123,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 698416,
+      "num": 698416,
+      "word": "中央统战部原副部长崔茂虎接受审查调查",
+      "onboard_time": 1679107229,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 665568,
       "num": 665568,
       "word": "富豪出10万美元请女子摘口罩遭拒",
@@ -163,12 +179,28 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 597696,
+      "num": 500547,
+      "word": "王诗龄放假回国",
+      "onboard_time": 1679108550,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 595038,
       "num": 595038,
       "word": "阿迪达斯们为何在中国市场不香了",
       "onboard_time": 1679099727,
       "rank": 7,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 582584,
+      "num": 582584,
+      "word": "乘风发布人 费翔",
+      "onboard_time": 1679108729,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 548088,
@@ -201,6 +233,14 @@
       "onboard_time": 1679105546,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 468852,
+      "num": 468852,
+      "word": "黄金",
+      "onboard_time": 1679106267,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 467116,
@@ -291,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 381128,
+      "num": 381128,
+      "word": "初代未拆封iPhone拍出37.9万元",
+      "onboard_time": 1679107589,
+      "rank": 43,
+      "category": "科技"
+    },
+    {
       "raw_hot": 379393,
       "num": 379393,
       "word": "小福菀终于学会爬树了",
@@ -307,20 +355,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 369738,
-      "num": 369738,
-      "word": "黄金",
-      "onboard_time": 1679106267,
-      "rank": 27,
-      "category": "财经"
-    },
-    {
       "raw_hot": 348682,
       "num": 348682,
       "word": "归路断更",
       "onboard_time": 1679105366,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 315567,
+      "num": 315567,
+      "word": "16吨变质牙签肉是如何流入市场的",
+      "onboard_time": 1679107528,
+      "rank": 42,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 313343,
@@ -371,6 +419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 255650,
+      "num": 255650,
+      "word": "王鹤棣官宣微博之夜",
+      "onboard_time": 1679109507,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 247194,
       "num": 247194,
       "word": "迪丽热巴流光闪烁花絮",
@@ -409,6 +465,14 @@
       "onboard_time": 1679098224,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 233131,
+      "num": 233131,
+      "word": "杨迪壁咚唐嫣",
+      "onboard_time": 1679106689,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 229044,
@@ -451,14 +515,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 211320,
-      "num": 211320,
-      "word": "中央统战部原副部长崔茂虎接受审查调查",
-      "onboard_time": 1679107229,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 210285,
       "num": 210285,
       "word": "勇士客场十连败",
@@ -483,19 +539,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 209320,
+      "num": 209320,
+      "word": "宋佳王阳两次演夫妻对比",
+      "onboard_time": 1679108371,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 208034,
       "num": 208034,
       "word": "唐嫣钟汉良再演何以笙箫默",
       "onboard_time": 1679060733,
       "rank": 22,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 207803,
-      "num": 207803,
-      "word": "杨迪壁咚唐嫣",
-      "onboard_time": 1679106689,
-      "rank": 36,
       "category": "综艺"
     },
     {
@@ -539,20 +595,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 193836,
-      "num": 193836,
-      "word": "苏州大学赵尚峰",
-      "onboard_time": 1679107647,
-      "rank": 34,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 189257,
       "num": 189257,
       "word": "关注孟菲斯天气只因丫丫在那里",
       "onboard_time": 1679101826,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183983,
+      "num": 183983,
+      "word": "95后成为二手交易主力军",
+      "onboard_time": 1679109209,
+      "rank": 30,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 177963,
@@ -595,6 +651,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 164213,
+      "num": 164213,
+      "word": "火箭绝杀鹈鹕",
+      "onboard_time": 1679107888,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 158844,
+      "num": 158844,
+      "word": "重庆大学",
+      "onboard_time": 1679109331,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156430,
       "num": 156430,
       "word": "魏大勋大侦探靠一句话洗脱嫌疑",
@@ -635,20 +707,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 145447,
-      "num": 145447,
-      "word": "16吨变质牙签肉是如何流入市场的",
-      "onboard_time": 1679107528,
+      "raw_hot": 143978,
+      "num": 143978,
+      "word": "苹果股价2023年已上涨19%",
+      "onboard_time": 1679109209,
       "rank": 42,
-      "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 142794,
-      "num": 142794,
-      "word": "初代未拆封iPhone拍出37.9万元",
-      "onboard_time": 1679107589,
-      "rank": 43,
-      "category": "科技"
+      "category": "财经,科技"
     },
     {
       "raw_hot": 141766,
@@ -892,7 +956,7 @@
     },
     {
       "raw_hot": 66060,
-      "num": 1056967,
+      "num": 1197820,
       "word": "2022中国科学十大进展",
       "onboard_time": 1679057729,
       "rank": 2,
