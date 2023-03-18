@@ -1,6 +1,6 @@
 {
   "startTime": 1679156607539,
-  "endTime": 1679178804250,
+  "endTime": 1679181461431,
   "band_list": [
     {
       "raw_hot": 1336084,
@@ -83,12 +83,28 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 445627,
+      "num": 445627,
+      "word": "男子警示大会被铐走全场震惊",
+      "onboard_time": 1679158101,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 438956,
       "num": 438956,
       "word": "Jennie台湾高雄演唱会饭拍视频",
       "onboard_time": 1679146953,
       "rank": 7,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 398924,
+      "num": 398924,
+      "word": "山东乳山发现大型金矿床",
+      "onboard_time": 1679171531,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 388585,
@@ -139,14 +155,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 267323,
-      "num": 180922,
-      "word": "男子警示大会被铐走全场震惊",
-      "onboard_time": 1679158101,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 267257,
       "num": 267257,
       "word": "灵梦道歉",
@@ -169,6 +177,14 @@
       "onboard_time": 1679118686,
       "rank": 22,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 232727,
+      "num": 232727,
+      "word": "20万请曹姓明星带货3月成交278元",
+      "onboard_time": 1679131647,
+      "rank": 28,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 230947,
@@ -219,28 +235,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 188012,
-      "num": 48280,
-      "word": "山东乳山发现大型金矿床",
-      "onboard_time": 1679171531,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 185834,
       "num": 185834,
       "word": "WB对战eStar",
       "onboard_time": 1679155585,
       "rank": 27,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 181300,
-      "num": 181300,
-      "word": "20万请曹姓明星带货3月成交278元",
-      "onboard_time": 1679131647,
-      "rank": 28,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 180038,
@@ -259,8 +259,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 166951,
-      "num": 166951,
+      "raw_hot": 176329,
+      "num": 176329,
       "word": "乌总统夫人讲述乌妇女用罐头击落俄无人机",
       "onboard_time": 1679143708,
       "rank": 31,
@@ -289,6 +289,14 @@
       "onboard_time": 1679132486,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 147337,
+      "num": 147337,
+      "word": "自行车怕被偷与警车锁在一起",
+      "onboard_time": 1679168653,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140381,
@@ -363,6 +371,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 100435,
+      "num": 100435,
+      "word": "穿只袜子反转比悬疑片还多",
+      "onboard_time": 1679178193,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 97531,
       "num": 97531,
       "word": "F1",
@@ -393,6 +409,14 @@
       "onboard_time": 1679153249,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 88731,
+      "num": 88731,
+      "word": "C罗任意球破门",
+      "onboard_time": 1679181257,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 86947,
@@ -451,14 +475,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 60829,
-      "num": 44649,
-      "word": "自行车怕被偷与警车锁在一起",
-      "onboard_time": 1679168653,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 49355,
       "num": 49355,
       "word": "魏大勋敲在杨超越的发夹上",
@@ -475,6 +491,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 40250,
+      "num": 40250,
+      "word": "华为P60手机外观公布",
+      "onboard_time": 1679149171,
+      "rank": 44,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 39423,
+      "num": 39423,
+      "word": "哈兰德两场8球",
+      "onboard_time": 1679181437,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 32996,
       "num": 32996,
       "word": "GEN战胜DK",
@@ -483,20 +515,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 24894,
-      "num": 24894,
-      "word": "华为P60手机外观公布",
-      "onboard_time": 1679149171,
+      "raw_hot": 32368,
+      "num": 32368,
+      "word": "路晨永远盯着归晓",
+      "onboard_time": 1679180475,
       "rank": 44,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 16212,
-      "num": 18762,
-      "word": "穿只袜子反转比悬疑片还多",
-      "onboard_time": 1679178193,
-      "rank": 44,
-      "category": "幽默"
+      "category": "影视"
     }
   ],
   "hotgov_list": [
