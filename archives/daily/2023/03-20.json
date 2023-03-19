@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679253268142,
+  "endTime": 1679254400692,
   "band_list": [
     {
       "raw_hot": 1724841,
@@ -435,6 +435,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 35318,
+      "num": 35318,
+      "word": "巴萨vs皇马",
+      "onboard_time": 1679252173,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 34286,
       "num": 34286,
       "word": "樊振东马龙争夺冠军",
@@ -449,14 +457,6 @@
       "onboard_time": 1679248695,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 31125,
-      "num": 31125,
-      "word": "巴萨vs皇马",
-      "onboard_time": 1679252173,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 30468,

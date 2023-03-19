@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679253268142,
+  "endTime": 1679254400692,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -38555,6 +38555,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 35318,
+      "num": 35318,
+      "word": "巴萨vs皇马",
+      "onboard_time": 1679252173,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 34677,
       "num": 34677,
       "word": "普通蓝莓vs蓝莓plus",
@@ -38641,14 +38649,6 @@
       "onboard_time": 1677654027,
       "rank": 39,
       "category": "科技"
-    },
-    {
-      "raw_hot": 31125,
-      "num": 31125,
-      "word": "巴萨vs皇马",
-      "onboard_time": 1679252173,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 31082,
