@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1679230276335,
+  "endTime": 1679232092484,
   "band_list": [
     {
       "raw_hot": 9458443,
@@ -65,6 +65,14 @@
       "onboard_time": 1679118686,
       "rank": 0,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 3157217,
+      "num": 3157217,
+      "word": "张兰欠9.8亿未还家族信托被击穿",
+      "onboard_time": 1679229987,
+      "rank": 30,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 3144800,
@@ -1947,6 +1955,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 886281,
+      "num": 886281,
+      "word": "樊振东马龙争夺冠军",
+      "onboard_time": 1679145329,
+      "rank": 35,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 884767,
       "num": 884767,
       "word": "光渊 复播",
@@ -2723,14 +2739,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 738573,
-      "num": 738573,
-      "word": "樊振东马龙争夺冠军",
-      "onboard_time": 1679145329,
-      "rank": 35,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 737975,
       "num": 737975,
       "word": "郑州大雪压塌6000平方米物流仓库",
@@ -3483,14 +3491,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 625595,
-      "num": 219094,
-      "word": "张兰欠9.8亿未还家族信托被击穿",
-      "onboard_time": 1679229987,
-      "rank": 30,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 623643,
       "num": 623643,
       "word": "吴谨言在跟郝蕾上表演课",
@@ -4105,6 +4105,14 @@
       "onboard_time": 1678978828,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 550521,
+      "num": 422010,
+      "word": "周星驰石榴姐聚餐",
+      "onboard_time": 1679230648,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 549879,
@@ -5347,6 +5355,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 444475,
+      "num": 444475,
+      "word": "网传浪姐4确定名单与待定名单",
+      "onboard_time": 1679231190,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 443316,
       "num": 440424,
       "word": "阿迪达斯中国区业绩连续7季度下滑",
@@ -6371,6 +6387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 375960,
+      "num": 375960,
+      "word": "护心",
+      "onboard_time": 1679230408,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 375568,
       "num": 401325,
       "word": "刘嘉玲说梁朝伟是最好的",
@@ -6425,6 +6449,14 @@
       "onboard_time": 1679141248,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 370510,
+      "num": 370510,
+      "word": "TWICE全员跳Pop",
+      "onboard_time": 1679230950,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 370459,
@@ -7235,6 +7267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 325747,
+      "num": 325747,
+      "word": "柯佳嬿想演文东恩妈妈",
+      "onboard_time": 1679229208,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 325016,
       "num": 325016,
       "word": "孝埈的保镖天团",
@@ -7563,6 +7603,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 307729,
+      "num": 307729,
+      "word": "苏醒拍的张远王栎鑫",
+      "onboard_time": 1679231370,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 307169,
       "num": 307169,
       "word": "大江大河3海报",
@@ -7881,14 +7929,6 @@
       "onboard_time": 1679060791,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 287096,
-      "num": 287096,
-      "word": "柯佳嬿想演文东恩妈妈",
-      "onboard_time": 1679229208,
-      "rank": 35,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 286506,
@@ -8931,6 +8971,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 242539,
+      "num": 220593,
+      "word": "玲娜贝儿",
+      "onboard_time": 1679231729,
+      "rank": 27,
+      "category": "网红"
+    },
+    {
       "raw_hot": 242166,
       "num": 242166,
       "word": "阿鲁纳3比0张本智和",
@@ -9641,6 +9689,14 @@
       "onboard_time": 1678948588,
       "rank": 48,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 217130,
+      "num": 217130,
+      "word": "莫兰德的爱情保卫战",
+      "onboard_time": 1679230588,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 217036,
@@ -11043,6 +11099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189960,
+      "num": 189960,
+      "word": "leave 好好复盘",
+      "onboard_time": 1679228967,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 189796,
       "num": 189796,
       "word": "如何看待诺而不捐",
@@ -11203,6 +11267,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 187699,
+      "num": 187699,
+      "word": "eStar乒乓对战DYG",
+      "onboard_time": 1679231490,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 187533,
+      "num": 187533,
+      "word": "TTG piu亮",
+      "onboard_time": 1679231011,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 187244,
       "num": 187244,
       "word": "自行车怕被偷与警车锁在一起",
@@ -11273,6 +11353,14 @@
       "onboard_time": 1679155585,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 185574,
+      "num": 185574,
+      "word": "邓某某伙同他人散布别人隐私被拘",
+      "onboard_time": 1679231610,
+      "rank": 38,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 185500,
@@ -11691,14 +11779,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 172314,
-      "num": 172314,
-      "word": "leave 好好复盘",
-      "onboard_time": 1679228967,
-      "rank": 45,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 172146,
       "num": 172146,
       "word": "莫兰特被禁赛8场",
@@ -11937,6 +12017,14 @@
       "onboard_time": 1679036726,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 164966,
+      "num": 219243,
+      "word": "坐多久要起来动一动",
+      "onboard_time": 1679229927,
+      "rank": 29,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 164616,
@@ -12643,6 +12731,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 144953,
+      "num": 144953,
+      "word": "保你平安",
+      "onboard_time": 1679131825,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 144906,
       "num": 400393,
       "word": "李强总理谈港澳发展",
@@ -12883,6 +12979,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 138473,
+      "num": 138473,
+      "word": "刘诗诗白衣嘟嘴路透",
+      "onboard_time": 1679232028,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 138370,
       "num": 138370,
       "word": "王鹤棣主打的就是一个缓缓下线",
@@ -12993,14 +13097,6 @@
       "onboard_time": 1678980688,
       "rank": 48,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 136015,
-      "num": 136015,
-      "word": "保你平安",
-      "onboard_time": 1679131825,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 135881,
@@ -14131,14 +14227,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 82569,
-      "num": 219243,
-      "word": "坐多久要起来动一动",
-      "onboard_time": 1679229927,
-      "rank": 29,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 82010,
       "num": 82010,
       "word": "猎鹰突击队女兵98秒蒙眼拆装枪",
@@ -14531,6 +14619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 37961,
+      "num": 896603,
+      "word": "钢铁丝路好风光",
+      "onboard_time": 1679229987,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37417,
       "num": 446925,
       "word": "曼城连续6年晋级欧冠8强",
@@ -14633,14 +14729,6 @@
       "onboard_time": 1678749139,
       "rank": 9,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 24097,
-      "num": 832857,
-      "word": "钢铁丝路好风光",
-      "onboard_time": 1679229987,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 23846,
