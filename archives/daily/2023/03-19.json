@@ -1,6 +1,6 @@
 {
   "startTime": 1679156607539,
-  "endTime": 1679239086622,
+  "endTime": 1679240014583,
   "band_list": [
     {
       "raw_hot": 3316552,
@@ -259,6 +259,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 1148778,
+      "num": 1148778,
+      "word": "张兰回应海外欠债9.8亿",
+      "onboard_time": 1679237848,
+      "rank": 5,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1139634,
       "num": 1139634,
       "word": "樊振东马龙争夺冠军",
@@ -339,20 +347,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 950552,
+      "num": 950552,
+      "word": "研究称男性也有最佳生育年龄",
+      "onboard_time": 1679236530,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 950029,
       "num": 950029,
       "word": "邓某某伙同他人散布别人隐私被拘",
       "onboard_time": 1679231610,
       "rank": 38,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 931418,
-      "num": 931418,
-      "word": "研究称男性也有最佳生育年龄",
-      "onboard_time": 1679236530,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 907004,
@@ -369,14 +377,6 @@
       "onboard_time": 1679150791,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 893763,
-      "num": 893763,
-      "word": "张兰回应海外欠债9.8亿",
-      "onboard_time": 1679237848,
-      "rank": 5,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 883269,
@@ -483,6 +483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 762092,
+      "num": 762092,
+      "word": "女生为见偶像花花被骗1140元",
+      "onboard_time": 1679237491,
+      "rank": 7,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 760805,
       "num": 529451,
       "word": "米卡看房",
@@ -547,6 +555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 686067,
+      "num": 686067,
+      "word": "台媒称马英九将赴大陆",
+      "onboard_time": 1679239290,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 683063,
       "num": 269246,
       "word": "西南大学开设公务员专业",
@@ -561,6 +577,14 @@
       "onboard_time": 1679226688,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 669668,
+      "num": 669668,
+      "word": "大麦向华晨宇方致歉",
+      "onboard_time": 1679238093,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 662104,
@@ -609,14 +633,6 @@
       "onboard_time": 1679236589,
       "rank": 6,
       "category": "情感"
-    },
-    {
-      "raw_hot": 596070,
-      "num": 596070,
-      "word": "女生为见偶像花花被骗1140元",
-      "onboard_time": 1679237491,
-      "rank": 7,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 574465,
@@ -875,14 +891,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 442926,
-      "num": 442926,
-      "word": "大麦向华晨宇方致歉",
-      "onboard_time": 1679238093,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 441826,
       "num": 441826,
       "word": "女生应聘被HR称不是校长喜欢类型",
@@ -907,8 +915,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 414749,
-      "num": 414749,
+      "raw_hot": 418584,
+      "num": 418584,
       "word": "黄奕曾以为言承旭演自己追求者",
       "onboard_time": 1679236949,
       "rank": 14,
@@ -921,6 +929,14 @@
       "onboard_time": 1679192427,
       "rank": 11,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 411281,
+      "num": 411281,
+      "word": "水瓶座到底在焦虑什么",
+      "onboard_time": 1679238153,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 405034,
@@ -1107,6 +1123,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 331316,
+      "num": 331316,
+      "word": "泰国真的已经贵到去不起了吗",
+      "onboard_time": 1679239170,
+      "rank": 19,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 329356,
       "num": 329356,
       "word": "瑞秋",
@@ -1217,6 +1241,14 @@
       "onboard_time": 1679221589,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 298077,
+      "num": 298077,
+      "word": "九尾重现火舞打金蝉",
+      "onboard_time": 1679238451,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 297153,
@@ -1395,6 +1427,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 262714,
+      "num": 262714,
+      "word": "狂飙李宏伟观战北京男篮",
+      "onboard_time": 1679238869,
+      "rank": 31,
+      "category": "体育,影视"
+    },
+    {
       "raw_hot": 261529,
       "num": 261529,
       "word": "宁安如梦制片人回应张凌赫必火言论",
@@ -1425,6 +1465,14 @@
       "onboard_time": 1679118686,
       "rank": 22,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 233076,
+      "num": 194479,
+      "word": "为什么不建议年轻人去摆摊",
+      "onboard_time": 1679239229,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 230947,
@@ -1547,14 +1595,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 219647,
-      "num": 219647,
-      "word": "九尾重现火舞打金蝉",
-      "onboard_time": 1679238451,
-      "rank": 25,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 218054,
       "num": 218054,
       "word": "关晓彤哭戏路透",
@@ -1635,28 +1675,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 205332,
-      "num": 205332,
-      "word": "水瓶座到底在焦虑什么",
-      "onboard_time": 1679238153,
-      "rank": 29,
-      "category": "情感"
-    },
-    {
       "raw_hot": 205243,
       "num": 205243,
       "word": "新海诚粉丝映后整活",
       "onboard_time": 1679229089,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 204606,
-      "num": 204606,
-      "word": "狂飙李宏伟观战北京男篮",
-      "onboard_time": 1679238869,
-      "rank": 31,
-      "category": "体育,影视"
     },
     {
       "raw_hot": 204195,
@@ -2401,6 +2425,14 @@
       "onboard_time": 1679212586,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 103570,
+      "num": 103570,
+      "word": "台湾日月潭九蛙叠像全部露出",
+      "onboard_time": 1679239712,
+      "rank": 48,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 100308,
