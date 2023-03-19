@@ -1,6 +1,6 @@
 {
   "startTime": 1679156607539,
-  "endTime": 1679191500392,
+  "endTime": 1679194124737,
   "band_list": [
     {
       "raw_hot": 3144800,
@@ -19,12 +19,28 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1880989,
+      "num": 1336483,
+      "word": "迪丽热巴花三三合照",
+      "onboard_time": 1679192968,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1753171,
       "num": 908551,
       "word": "重庆大学贺某公开书面检讨",
       "onboard_time": 1679187566,
       "rank": 3,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1380211,
+      "num": 1380211,
+      "word": "花三三回应",
+      "onboard_time": 1679183361,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 1336084,
@@ -35,20 +51,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1289873,
-      "num": 876945,
+      "raw_hot": 1330475,
+      "num": 1330475,
       "word": "熊猫美香",
       "onboard_time": 1679184143,
       "rank": 4,
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 1076236,
-      "num": 1076236,
-      "word": "花三三回应",
-      "onboard_time": 1679183361,
-      "rank": 1,
-      "category": "艺人"
+      "raw_hot": 1087358,
+      "num": 1087358,
+      "word": "重庆大学回应男生偷拍女生",
+      "onboard_time": 1679190266,
+      "rank": 7,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1011751,
+      "num": 386070,
+      "word": "袖珍老师嫁给9岁时就对她笑的男生",
+      "onboard_time": 1679191825,
+      "rank": 10,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 978959,
@@ -59,20 +83,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 955439,
+      "num": 955439,
+      "word": "入职第三天发现这公司算来对了",
+      "onboard_time": 1679188167,
+      "rank": 11,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 902608,
       "num": 902608,
       "word": "椰树直播间",
       "onboard_time": 1679150791,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 876276,
-      "num": 876276,
-      "word": "入职第三天发现这公司算来对了",
-      "onboard_time": 1679188167,
-      "rank": 11,
-      "category": "幽默"
     },
     {
       "raw_hot": 780232,
@@ -121,14 +145,6 @@
       "onboard_time": 1679186846,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 631172,
-      "num": 631172,
-      "word": "重庆大学回应男生偷拍女生",
-      "onboard_time": 1679190266,
-      "rank": 7,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 555524,
@@ -195,6 +211,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 472428,
+      "num": 248535,
+      "word": "95后夜市夫妻档算起收入笑了",
+      "onboard_time": 1679191706,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 465859,
       "num": 465859,
       "word": "山东乳山发现大型金矿床",
@@ -243,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 348996,
+      "num": 348996,
+      "word": "科学家公布首位女性艾滋病治愈者案例",
+      "onboard_time": 1679192427,
+      "rank": 11,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 348636,
       "num": 268130,
       "word": "这才是吸毒前后真实的面容变化",
@@ -257,6 +289,22 @@
       "onboard_time": 1679120426,
       "rank": 20,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 324763,
+      "num": 324763,
+      "word": "Lisa演唱会新造型",
+      "onboard_time": 1679193446,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 324212,
+      "num": 324212,
+      "word": "64岁男子为打工谎报年龄办假证被抓",
+      "onboard_time": 1679191107,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 283162,
@@ -411,12 +459,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 198941,
+      "num": 198941,
+      "word": "律师说造黄谣背后是对女性群体的歧视",
+      "onboard_time": 1679191584,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198931,
       "num": 198931,
       "word": "听张颂文讲述春天",
       "onboard_time": 1679155526,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 196205,
+      "num": 196205,
+      "word": "在暴雪时分返航成功海报",
+      "onboard_time": 1679193626,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 195240,
@@ -531,6 +595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 152266,
+      "num": 152266,
+      "word": "何杰打破男子马拉松全国纪录",
+      "onboard_time": 1679191825,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 149367,
       "num": 149367,
       "word": "为什么工作后很难谈恋爱了",
@@ -555,6 +627,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 132729,
+      "num": 132729,
+      "word": "勇士vs灰熊",
+      "onboard_time": 1679192666,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129411,
       "num": 129411,
       "word": "言承旭李雪琴再现夏花名场面",
@@ -577,6 +657,14 @@
       "onboard_time": 1679126247,
       "rank": 39,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 125352,
+      "num": 125352,
+      "word": "花花教学版文明观国宝攻略",
+      "onboard_time": 1679191287,
+      "rank": 41,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 121485,
@@ -651,28 +739,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 96997,
-      "num": 96997,
-      "word": "花花教学版文明观国宝攻略",
-      "onboard_time": 1679191287,
-      "rank": 41,
-      "category": "社会新闻,旅游"
-    },
-    {
       "raw_hot": 96797,
       "num": 96797,
       "word": "无锡马拉松",
       "onboard_time": 1679184683,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 94439,
-      "num": 94439,
-      "word": "64岁男子为打工谎报年龄办假证被抓",
-      "onboard_time": 1679191107,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 93109,
@@ -684,7 +756,7 @@
     },
     {
       "raw_hot": 91624,
-      "num": 913263,
+      "num": 1339269,
       "word": "这段跨越千年的对话令人骄傲又感动",
       "onboard_time": 1679142929,
       "rank": 2,
@@ -697,6 +769,14 @@
       "onboard_time": 1679153249,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 88136,
+      "num": 88136,
+      "word": "北京硕博毕业生人数首超本科生",
+      "onboard_time": 1679194107,
+      "rank": 49,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 86947,

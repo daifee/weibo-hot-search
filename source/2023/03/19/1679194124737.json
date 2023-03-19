@@ -1,0 +1,410 @@
+{
+  "runTime": 1679194124737,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2720118,
+        "num": 2720118,
+        "word": "苏大恶意P图者被开除学籍",
+        "onboard_time": 1679183000,
+        "rank": 0,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1380211,
+        "num": 1380211,
+        "word": "花三三回应",
+        "onboard_time": 1679183361,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46495,
+        "num": 1339269,
+        "word": "这段跨越千年的对话令人骄傲又感动",
+        "onboard_time": 1679142929,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1880989,
+        "num": 1336483,
+        "word": "迪丽热巴花三三合照",
+        "onboard_time": 1679192968,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1330475,
+        "num": 1330475,
+        "word": "熊猫美香",
+        "onboard_time": 1679184143,
+        "rank": 4,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 1087358,
+        "num": 1087358,
+        "word": "重庆大学回应男生偷拍女生",
+        "onboard_time": 1679190266,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 955439,
+        "num": 955439,
+        "word": "入职第三天发现这公司算来对了",
+        "onboard_time": 1679188167,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 509964,
+        "num": 509964,
+        "word": "还原被造黄谣女生6个月调查时间线",
+        "onboard_time": 1679185524,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 459552,
+        "num": 459552,
+        "word": "柯南 九转大肠",
+        "onboard_time": 1679185345,
+        "rank": 8,
+        "category": "动漫,综艺"
+      },
+      {
+        "raw_hot": 392783,
+        "num": 392783,
+        "word": "金智秀将出演虽然没准备什么菜",
+        "onboard_time": 1679189788,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1011751,
+        "num": 386070,
+        "word": "袖珍老师嫁给9岁时就对她笑的男生",
+        "onboard_time": 1679191825,
+        "rank": 10,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 348996,
+        "num": 348996,
+        "word": "科学家公布首位女性艾滋病治愈者案例",
+        "onboard_time": 1679192427,
+        "rank": 11,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 333555,
+        "num": 333555,
+        "word": "林允在机场滞留24小时",
+        "onboard_time": 1679182518,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 328293,
+        "num": 328293,
+        "word": "失孤原型郭刚堂儿子结婚",
+        "onboard_time": 1679188407,
+        "rank": 13,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 324763,
+        "num": 324763,
+        "word": "Lisa演唱会新造型",
+        "onboard_time": 1679193446,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 324212,
+        "num": 324212,
+        "word": "64岁男子为打工谎报年龄办假证被抓",
+        "onboard_time": 1679191107,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280377,
+        "num": 280377,
+        "word": "宁安如梦后期 张凌赫必火",
+        "onboard_time": 1679183181,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 275465,
+        "num": 275465,
+        "word": "赵雷 我记得",
+        "onboard_time": 1679182761,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 270818,
+        "num": 270818,
+        "word": "花三三卢靖姗合照",
+        "onboard_time": 1679138188,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 258176,
+        "num": 258176,
+        "word": "男子网恋1年多女友竟是好友老婆",
+        "onboard_time": 1679152948,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 472428,
+        "num": 248535,
+        "word": "95后夜市夫妻档算起收入笑了",
+        "onboard_time": 1679191706,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277941,
+        "num": 239647,
+        "word": "男子不听民警劝说转账309万",
+        "onboard_time": 1679189188,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211484,
+        "num": 211484,
+        "word": "被造黄谣女生决定不采取自诉",
+        "onboard_time": 1679136628,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198941,
+        "num": 198941,
+        "word": "律师说造黄谣背后是对女性群体的歧视",
+        "onboard_time": 1679191584,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196205,
+        "num": 196205,
+        "word": "在暴雪时分返航成功海报",
+        "onboard_time": 1679193626,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193103,
+        "num": 193103,
+        "word": "辛叡恩出演朴妍珍的原因",
+        "onboard_time": 1679185944,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 192561,
+        "num": 192561,
+        "word": "给猪喂的是我的减脂餐吧",
+        "onboard_time": 1679152892,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 178600,
+        "num": 178600,
+        "word": "他叫王德发",
+        "onboard_time": 1679188707,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 170363,
+        "num": 170363,
+        "word": "曹承衍 智齿比心",
+        "onboard_time": 1679189788,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157662,
+        "num": 157662,
+        "word": "如何看待苏州大学对造谣学生处罚结果",
+        "onboard_time": 1679185345,
+        "rank": 29,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 152266,
+        "num": 152266,
+        "word": "何杰打破男子马拉松全国纪录",
+        "onboard_time": 1679191825,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151426,
+        "num": 151426,
+        "word": "男子警示大会被铐走全场震惊",
+        "onboard_time": 1679158101,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147157,
+        "num": 147157,
+        "word": "吴奇隆拍的布达拉宫",
+        "onboard_time": 1679183782,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141871,
+        "num": 141871,
+        "word": "心理素质不强上不了这课",
+        "onboard_time": 1679181678,
+        "rank": 33,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 140033,
+        "num": 140033,
+        "word": "黑暗荣耀",
+        "onboard_time": 1679182518,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2100777,
+        "num": 139976,
+        "word": "苏州一女子涉嫌杀夫后藏尸冰柜",
+        "onboard_time": 1679186124,
+        "rank": 35,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 139743,
+        "num": 139743,
+        "word": "山东乳山发现大型金矿床",
+        "onboard_time": 1679171531,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137030,
+        "num": 137030,
+        "word": "他用了6麻袋草稿纸攻克世界数学难题",
+        "onboard_time": 1679182941,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132729,
+        "num": 132729,
+        "word": "勇士vs灰熊",
+        "onboard_time": 1679192666,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132160,
+        "num": 132160,
+        "word": "BLACKPINK演唱会彩排退场方式",
+        "onboard_time": 1679188767,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 129034,
+        "num": 129034,
+        "word": "C罗任意球破门",
+        "onboard_time": 1679181257,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125352,
+        "num": 125352,
+        "word": "花花教学版文明观国宝攻略",
+        "onboard_time": 1679191287,
+        "rank": 41,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 125264,
+        "num": 125264,
+        "word": "西南大学开设公务员专业",
+        "onboard_time": 1679145027,
+        "rank": 42,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 120680,
+        "num": 120680,
+        "word": "秦霄贤的理想型",
+        "onboard_time": 1679188767,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117414,
+        "num": 117414,
+        "word": "哈兰德两场8球",
+        "onboard_time": 1679181437,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114387,
+        "num": 114387,
+        "word": "自行车怕被偷与警车锁在一起",
+        "onboard_time": 1679168653,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110927,
+        "num": 110927,
+        "word": "海棠花",
+        "onboard_time": 1679182400,
+        "rank": 46,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 103646,
+        "num": 103646,
+        "word": "唐嫣鸭舌帽随拍",
+        "onboard_time": 1679185285,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94395,
+        "num": 94395,
+        "word": "特朗普自称将被捕",
+        "onboard_time": 1679146650,
+        "rank": 48,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 88136,
+        "num": 88136,
+        "word": "北京硕博毕业生人数首超本科生",
+        "onboard_time": 1679194107,
+        "rank": 49,
+        "category": "教育,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中俄树立新型国际关系典范#"
+    }
+  }
+}
