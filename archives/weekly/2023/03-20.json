@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679250097304,
+  "endTime": 1679250927693,
   "band_list": [
     {
       "raw_hot": 1724841,
@@ -139,6 +139,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 263494,
+      "num": 263494,
+      "word": "网曝重庆瑞鹏宠物医院医生虐待猫咪",
+      "onboard_time": 1679247377,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 240159,
       "num": 240159,
       "word": "厕所看自己好看一些的原因",
@@ -152,14 +160,6 @@
       "word": "丫丫吃上了新鲜竹子和辅食",
       "onboard_time": 1679237668,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 228161,
-      "num": 228161,
-      "word": "网曝重庆瑞鹏宠物医院医生虐待猫咪",
-      "onboard_time": 1679247377,
-      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -443,12 +443,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 31936,
-      "num": 31936,
+      "raw_hot": 33222,
+      "num": 33222,
       "word": "宋茜的泰国游玩vlog",
       "onboard_time": 1679248695,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 30468,
+      "num": 30468,
+      "word": "林俊杰香港演唱会",
+      "onboard_time": 1679234427,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 27779,

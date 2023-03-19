@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679250097304,
+  "endTime": 1679250927693,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -21323,6 +21323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 263494,
+      "num": 263494,
+      "word": "网曝重庆瑞鹏宠物医院医生虐待猫咪",
+      "onboard_time": 1679247377,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 263189,
       "num": 254122,
       "word": "杨紫叫杨迪哥",
@@ -23441,14 +23449,6 @@
       "onboard_time": 1677664948,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 228161,
-      "num": 228161,
-      "word": "网曝重庆瑞鹏宠物医院医生虐待猫咪",
-      "onboard_time": 1679247377,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 228114,
@@ -38563,6 +38563,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 33222,
+      "num": 33222,
+      "word": "宋茜的泰国游玩vlog",
+      "onboard_time": 1679248695,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 33120,
       "num": 33120,
       "word": "杨紫琼张天爱同框照",
@@ -38609,14 +38617,6 @@
       "onboard_time": 1677729629,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 31936,
-      "num": 31936,
-      "word": "宋茜的泰国游玩vlog",
-      "onboard_time": 1679248695,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 31912,
