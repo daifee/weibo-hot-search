@@ -1,6 +1,6 @@
 {
   "startTime": 1679156607539,
-  "endTime": 1679200617196,
+  "endTime": 1679202998416,
   "band_list": [
     {
       "raw_hot": 3144800,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1366671,
-      "num": 639897,
+      "num": 662966,
       "word": "孙俪大提琴考试过了",
       "onboard_time": 1679198728,
       "rank": 10,
@@ -115,6 +115,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 986186,
+      "num": 652069,
+      "word": "吴磊回国吃油条",
+      "onboard_time": 1679200048,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 978959,
       "num": 536852,
       "word": "男子网恋1年多女友竟是好友老婆",
@@ -137,6 +145,14 @@
       "onboard_time": 1679188167,
       "rank": 11,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 907004,
+      "num": 907004,
+      "word": "陈芋汐全红婵断层式夺冠",
+      "onboard_time": 1679198968,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 902608,
@@ -163,6 +179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 746804,
+      "num": 746804,
+      "word": "租房带不走的能不买就不买",
+      "onboard_time": 1679196747,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 727307,
       "num": 727307,
       "word": "还原被造黄谣女生6个月调查时间线",
@@ -179,14 +203,6 @@
       "category": "动漫,综艺"
     },
     {
-      "raw_hot": 707878,
-      "num": 707878,
-      "word": "陈芋汐全红婵断层式夺冠",
-      "onboard_time": 1679198968,
-      "rank": 21,
-      "category": "体育"
-    },
-    {
       "raw_hot": 683063,
       "num": 269246,
       "word": "西南大学开设公务员专业",
@@ -195,28 +211,28 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 667858,
+      "num": 667858,
+      "word": "近9成网友认为苏大开除造谣者合理",
+      "onboard_time": 1679198006,
+      "rank": 11,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 667677,
+      "num": 667677,
+      "word": "女子丧偶式育儿身心俱疲起诉离婚",
+      "onboard_time": 1679199089,
+      "rank": 34,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 649224,
       "num": 649224,
       "word": "薛之谦演唱会戴老奶奶假发",
       "onboard_time": 1679153489,
       "rank": 1,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 648545,
-      "num": 648545,
-      "word": "租房带不走的能不买就不买",
-      "onboard_time": 1679196747,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 642135,
-      "num": 602164,
-      "word": "近9成网友认为苏大开除造谣者合理",
-      "onboard_time": 1679198006,
-      "rank": 11,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 634110,
@@ -283,6 +299,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 507670,
+      "num": 507670,
+      "word": "白雪公主女演员被指歧视华裔",
+      "onboard_time": 1679202208,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 485223,
       "num": 446590,
       "word": "医院偶遇严浩翔看病",
@@ -339,12 +363,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 454086,
-      "num": 454086,
-      "word": "吴磊回国吃油条",
-      "onboard_time": 1679200048,
+      "raw_hot": 448076,
+      "num": 448076,
+      "word": "被00后的话震惊到了",
+      "onboard_time": 1679201009,
       "rank": 14,
-      "category": "艺人"
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 444817,
@@ -377,14 +401,6 @@
       "onboard_time": 1679192427,
       "rank": 11,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 406313,
-      "num": 406313,
-      "word": "女子丧偶式育儿身心俱疲起诉离婚",
-      "onboard_time": 1679199089,
-      "rank": 34,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 388585,
@@ -435,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 353057,
+      "num": 353057,
+      "word": "白宇的微博全是细节",
+      "onboard_time": 1679202150,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 350751,
       "num": 250564,
       "word": "男子不听民警劝说转账309万",
@@ -451,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 332479,
+      "num": 332479,
+      "word": "王嘉尔捡漏",
+      "onboard_time": 1679201009,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 326831,
       "num": 230020,
       "word": "张隆 李梦",
@@ -459,12 +491,20 @@
       "category": "体育,网红"
     },
     {
-      "raw_hot": 311331,
-      "num": 311331,
+      "raw_hot": 316614,
+      "num": 316614,
       "word": "吸熊猫",
       "onboard_time": 1679199208,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 293002,
+      "num": 293002,
+      "word": "江西一银行柜员挪用储户200万赌博",
+      "onboard_time": 1679201848,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 291056,
@@ -539,6 +579,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 264117,
+      "num": 264117,
+      "word": "杭州近千人共创3米高樱花公仔",
+      "onboard_time": 1679199869,
+      "rank": 32,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 253605,
       "num": 253605,
       "word": "杨紫叫杨迪哥",
@@ -595,6 +643,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 218226,
+      "num": 218226,
+      "word": "霉霉换衣服",
+      "onboard_time": 1679202688,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 215180,
       "num": 215180,
       "word": "黑暗荣耀",
@@ -619,6 +675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 211714,
+      "num": 211714,
+      "word": "檀健次模仿高启盛走路",
+      "onboard_time": 1679200168,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 211659,
       "num": 211659,
       "word": "王俊凯金色外套机场路透",
@@ -641,14 +705,6 @@
       "onboard_time": 1679189788,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 202323,
-      "num": 202323,
-      "word": "杭州近千人共创3米高樱花公仔",
-      "onboard_time": 1679199869,
-      "rank": 32,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 199384,
@@ -795,6 +851,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 158313,
+      "num": 158313,
+      "word": "丁程鑫走秀现场",
+      "onboard_time": 1679200470,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 156482,
       "num": 156482,
       "word": "NCT道在廷出国机场图",
@@ -809,6 +873,14 @@
       "onboard_time": 1679181437,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 151414,
+      "num": 151414,
+      "word": "妍珍的多重宇宙",
+      "onboard_time": 1679201428,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 149367,
@@ -843,12 +915,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 139038,
-      "num": 139038,
-      "word": "檀健次模仿高启盛走路",
-      "onboard_time": 1679200168,
-      "rank": 37,
-      "category": "综艺"
+      "raw_hot": 138216,
+      "num": 138216,
+      "word": "女生应聘被HR称不是校长喜欢类型",
+      "onboard_time": 1679202567,
+      "rank": 40,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 138061,
+      "num": 138061,
+      "word": "保你平安也是宝你平安",
+      "onboard_time": 1679202330,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 135524,
@@ -960,14 +1040,6 @@
       "word": "牛迪",
       "onboard_time": 1679146532,
       "rank": 42,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 101589,
-      "num": 101589,
-      "word": "丁程鑫走秀现场",
-      "onboard_time": 1679200470,
-      "rank": 49,
       "category": "综艺"
     },
     {
