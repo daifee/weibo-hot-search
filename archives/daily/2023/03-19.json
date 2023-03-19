@@ -1,6 +1,6 @@
 {
   "startTime": 1679156607539,
-  "endTime": 1679190218317,
+  "endTime": 1679191500392,
   "band_list": [
     {
       "raw_hot": 3144800,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 3119034,
-      "num": 363097,
+      "num": 507613,
       "word": "苏州一女子涉嫌杀夫后藏尸冰柜",
       "onboard_time": 1679186124,
       "rank": 10,
@@ -35,8 +35,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1047555,
-      "num": 1047555,
+      "raw_hot": 1289873,
+      "num": 876945,
+      "word": "熊猫美香",
+      "onboard_time": 1679184143,
+      "rank": 4,
+      "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 1076236,
+      "num": 1076236,
       "word": "花三三回应",
       "onboard_time": 1679183361,
       "rank": 1,
@@ -59,12 +67,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 867070,
-      "num": 867070,
-      "word": "熊猫美香",
-      "onboard_time": 1679184143,
-      "rank": 4,
-      "category": "社会新闻,情感"
+      "raw_hot": 876276,
+      "num": 876276,
+      "word": "入职第三天发现这公司算来对了",
+      "onboard_time": 1679188167,
+      "rank": 11,
+      "category": "幽默"
     },
     {
       "raw_hot": 780232,
@@ -115,12 +123,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 605421,
-      "num": 362826,
-      "word": "入职第三天发现这公司算来对了",
-      "onboard_time": 1679188167,
-      "rank": 11,
-      "category": "幽默"
+      "raw_hot": 631172,
+      "num": 631172,
+      "word": "重庆大学回应男生偷拍女生",
+      "onboard_time": 1679190266,
+      "rank": 7,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 555524,
@@ -140,11 +148,19 @@
     },
     {
       "raw_hot": 545209,
-      "num": 362350,
+      "num": 458856,
       "word": "林允在机场滞留24小时",
       "onboard_time": 1679182518,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 529981,
+      "num": 529981,
+      "word": "金智秀将出演虽然没准备什么菜",
+      "onboard_time": 1679189788,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 521463,
@@ -203,6 +219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 369142,
+      "num": 369142,
+      "word": "宁安如梦后期 张凌赫必火",
+      "onboard_time": 1679183181,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 363255,
       "num": 363255,
       "word": "赵雷 我记得",
@@ -211,12 +235,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 361823,
-      "num": 361823,
-      "word": "宁安如梦后期 张凌赫必火",
-      "onboard_time": 1679183181,
-      "rank": 13,
-      "category": "影视"
+      "raw_hot": 350751,
+      "num": 241413,
+      "word": "男子不听民警劝说转账309万",
+      "onboard_time": 1679189188,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 348636,
@@ -225,14 +249,6 @@
       "onboard_time": 1679125645,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 345537,
-      "num": 345537,
-      "word": "金智秀将出演虽然没准备什么菜",
-      "onboard_time": 1679189788,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 326831,
@@ -283,6 +299,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 266778,
+      "num": 266778,
+      "word": "吴奇隆拍的布达拉宫",
+      "onboard_time": 1679183782,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 264916,
       "num": 264916,
       "word": "如何看待苏州大学对造谣学生处罚结果",
@@ -315,28 +339,20 @@
       "category": "体育,网红"
     },
     {
-      "raw_hot": 241413,
-      "num": 241413,
-      "word": "男子不听民警劝说转账309万",
-      "onboard_time": 1679189188,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 234944,
-      "num": 234944,
-      "word": "吴奇隆拍的布达拉宫",
-      "onboard_time": 1679183782,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 230947,
       "num": 230947,
       "word": "霉霉唱了44首歌",
       "onboard_time": 1679141548,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 229969,
+      "num": 229969,
+      "word": "他用了6麻袋草稿纸攻克世界数学难题",
+      "onboard_time": 1679182941,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 229342,
@@ -353,14 +369,6 @@
       "onboard_time": 1679146048,
       "rank": 21,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 215290,
-      "num": 215290,
-      "word": "他用了6麻袋草稿纸攻克世界数学难题",
-      "onboard_time": 1679182941,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 215180,
@@ -419,6 +427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 191685,
+      "num": 191685,
+      "word": "曹承衍 智齿比心",
+      "onboard_time": 1679189788,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 190495,
       "num": 190495,
       "word": "乌总统夫人讲述乌妇女用罐头击落俄无人机",
@@ -433,14 +449,6 @@
       "onboard_time": 1679168653,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 186832,
-      "num": 186832,
-      "word": "曹承衍 智齿比心",
-      "onboard_time": 1679189788,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 185834,
@@ -483,6 +491,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 171103,
+      "num": 171103,
+      "word": "BLACKPINK演唱会彩排退场方式",
+      "onboard_time": 1679188767,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 169173,
       "num": 169173,
       "word": "海棠花",
@@ -523,19 +539,19 @@
       "category": "情感"
     },
     {
+      "raw_hot": 145439,
+      "num": 145439,
+      "word": "秦霄贤的理想型",
+      "onboard_time": 1679188767,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 140381,
       "num": 140381,
       "word": "周震南音乐节",
       "onboard_time": 1679151091,
       "rank": 35,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 130394,
-      "num": 130394,
-      "word": "BLACKPINK演唱会彩排退场方式",
-      "onboard_time": 1679188767,
-      "rank": 37,
       "category": "音乐"
     },
     {
@@ -587,14 +603,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 118908,
-      "num": 118908,
-      "word": "秦霄贤的理想型",
-      "onboard_time": 1679188767,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 115223,
       "num": 115223,
       "word": "穿只袜子反转比悬疑片还多",
@@ -641,6 +649,30 @@
       "onboard_time": 1679149171,
       "rank": 44,
       "category": "科技"
+    },
+    {
+      "raw_hot": 96997,
+      "num": 96997,
+      "word": "花花教学版文明观国宝攻略",
+      "onboard_time": 1679191287,
+      "rank": 41,
+      "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 96797,
+      "num": 96797,
+      "word": "无锡马拉松",
+      "onboard_time": 1679184683,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 94439,
+      "num": 94439,
+      "word": "64岁男子为打工谎报年龄办假证被抓",
+      "onboard_time": 1679191107,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 93109,
