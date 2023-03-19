@@ -1,6 +1,6 @@
 {
   "startTime": 1679156607539,
-  "endTime": 1679204011141,
+  "endTime": 1679207033544,
   "band_list": [
     {
       "raw_hot": 3144800,
@@ -33,6 +33,14 @@
       "onboard_time": 1679198068,
       "rank": 0,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1976799,
+      "num": 1976799,
+      "word": "白雪公主女演员被指歧视华裔",
+      "onboard_time": 1679202208,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 1928937,
@@ -107,20 +115,20 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1252504,
+      "num": 1252504,
+      "word": "近9成网友认为苏大开除造谣者合理",
+      "onboard_time": 1679198006,
+      "rank": 11,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1154007,
       "num": 1154007,
       "word": "袖珍老师嫁给9岁时就对她笑的男生",
       "onboard_time": 1679191825,
       "rank": 10,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 1043645,
-      "num": 1043645,
-      "word": "白雪公主女演员被指歧视华裔",
-      "onboard_time": 1679202208,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 986186,
@@ -137,14 +145,6 @@
       "onboard_time": 1679152948,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 974303,
-      "num": 974303,
-      "word": "近9成网友认为苏大开除造谣者合理",
-      "onboard_time": 1679198006,
-      "rank": 11,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 957867,
@@ -251,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 557923,
+      "num": 557923,
+      "word": "张颂文感谢不被大家看见的二十多年",
+      "onboard_time": 1679204307,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 555524,
       "num": 353004,
       "word": "花三三卢靖姗合照",
@@ -283,6 +291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 526514,
+      "num": 526514,
+      "word": "被00后的话震惊到了",
+      "onboard_time": 1679201009,
+      "rank": 14,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 521463,
       "num": 521463,
       "word": "失孤原型郭刚堂儿子结婚",
@@ -305,6 +321,14 @@
       "onboard_time": 1679152892,
       "rank": 5,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 487222,
+      "num": 487222,
+      "word": "江西一银行柜员挪用储户200万赌博",
+      "onboard_time": 1679201848,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 485223,
@@ -363,28 +387,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 453896,
-      "num": 453896,
-      "word": "被00后的话震惊到了",
-      "onboard_time": 1679201009,
-      "rank": 14,
-      "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 453340,
-      "num": 453340,
-      "word": "江西一银行柜员挪用储户200万赌博",
-      "onboard_time": 1679201848,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 444817,
       "num": 444817,
       "word": "学院风的尽头是老头衫",
       "onboard_time": 1679198006,
       "rank": 14,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 441826,
+      "num": 441826,
+      "word": "女生应聘被HR称不是校长喜欢类型",
+      "onboard_time": 1679202567,
+      "rank": 40,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 441135,
@@ -409,6 +425,14 @@
       "onboard_time": 1679192427,
       "rank": 11,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 390484,
+      "num": 390484,
+      "word": "宗庆后称狂飙中AD钙奶不是广告植入",
+      "onboard_time": 1679206108,
+      "rank": 14,
+      "category": "财经,影视"
     },
     {
       "raw_hot": 388585,
@@ -483,14 +507,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 348682,
-      "num": 348682,
-      "word": "女生应聘被HR称不是校长喜欢类型",
-      "onboard_time": 1679202567,
-      "rank": 40,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 348636,
       "num": 268130,
       "word": "这才是吸毒前后真实的面容变化",
@@ -507,8 +523,8 @@
       "category": "体育,网红"
     },
     {
-      "raw_hot": 324827,
-      "num": 324827,
+      "raw_hot": 326492,
+      "num": 326492,
       "word": "霉霉换衣服",
       "onboard_time": 1679202688,
       "rank": 32,
@@ -739,6 +755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 198503,
+      "num": 198503,
+      "word": "妍珍的多重宇宙",
+      "onboard_time": 1679201428,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 195240,
       "num": 195240,
       "word": "他叫王德发",
@@ -795,20 +819,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 177710,
+      "num": 177710,
+      "word": "酒店让员工给菜下药系自导自演",
+      "onboard_time": 1679204486,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 176415,
       "num": 176415,
       "word": "女子称离职被拒HR招人又招到自己",
       "onboard_time": 1679137648,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 175667,
-      "num": 175667,
-      "word": "妍珍的多重宇宙",
-      "onboard_time": 1679201428,
-      "rank": 38,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 173723,
@@ -907,6 +931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151773,
+      "num": 151773,
+      "word": "张若昀王鸥再飙演技",
+      "onboard_time": 1679203706,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 149367,
       "num": 149367,
       "word": "为什么工作后很难谈恋爱了",
@@ -929,14 +961,6 @@
       "onboard_time": 1679197105,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 141261,
-      "num": 141261,
-      "word": "张若昀王鸥再飙演技",
-      "onboard_time": 1679203706,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 140381,
@@ -967,6 +991,14 @@
       "num": 132729,
       "word": "勇士vs灰熊",
       "onboard_time": 1679192666,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 130516,
+      "num": 130516,
+      "word": "陈芋汐全红婵跳水侧看如一人",
+      "onboard_time": 1679205626,
       "rank": 38,
       "category": "体育"
     },
@@ -1003,6 +1035,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 126176,
+      "num": 126176,
+      "word": "这两位学长怎么这么凶",
+      "onboard_time": 1679206345,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 121485,
       "num": 121485,
       "word": "清融状态",
@@ -1033,6 +1073,14 @@
       "onboard_time": 1679178193,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 109547,
+      "num": 109547,
+      "word": "花32万买到全损事故车获退1赔3",
+      "onboard_time": 1679206768,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 107863,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1679207033544,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1976799,
+        "num": 1976799,
+        "word": "白雪公主女演员被指歧视华裔",
+        "onboard_time": 1679202208,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1252504,
+        "num": 1252504,
+        "word": "近9成网友认为苏大开除造谣者合理",
+        "onboard_time": 1679198006,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 58485,
+        "num": 1061515,
+        "word": "这就是春天里的中国",
+        "onboard_time": 1679198068,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 977104,
+        "num": 977104,
+        "word": "微博之夜 好多人啊",
+        "onboard_time": 1679198068,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 777844,
+        "num": 777844,
+        "word": "苏大恶意P图者被开除学籍",
+        "onboard_time": 1679183000,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 570049,
+        "num": 570049,
+        "word": "租房带不走的能不买就不买",
+        "onboard_time": 1679196747,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 557923,
+        "num": 557923,
+        "word": "张颂文感谢不被大家看见的二十多年",
+        "onboard_time": 1679204307,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 526514,
+        "num": 526514,
+        "word": "被00后的话震惊到了",
+        "onboard_time": 1679201009,
+        "rank": 7,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 487222,
+        "num": 487222,
+        "word": "江西一银行柜员挪用储户200万赌博",
+        "onboard_time": 1679201848,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 478633,
+        "num": 478633,
+        "word": "熊猫美香",
+        "onboard_time": 1679184143,
+        "rank": 9,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 1940790,
+        "num": 465806,
+        "word": "杀夫藏尸冰柜女子被父母劝说自首",
+        "onboard_time": 1679197167,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 597203,
+        "num": 465443,
+        "word": "孙俪大提琴考试过了",
+        "onboard_time": 1679198728,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 485904,
+        "num": 463793,
+        "word": "吴磊回国吃油条",
+        "onboard_time": 1679200048,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 441826,
+        "num": 441826,
+        "word": "女生应聘被HR称不是校长喜欢类型",
+        "onboard_time": 1679202567,
+        "rank": 13,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 390484,
+        "num": 390484,
+        "word": "宗庆后称狂飙中AD钙奶不是广告植入",
+        "onboard_time": 1679206108,
+        "rank": 14,
+        "category": "财经,影视"
+      },
+      {
+        "raw_hot": 387326,
+        "num": 387326,
+        "word": "女子丧偶式育儿身心俱疲起诉离婚",
+        "onboard_time": 1679199089,
+        "rank": 15,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 359434,
+        "num": 359434,
+        "word": "王嘉尔捡漏",
+        "onboard_time": 1679201009,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 355011,
+        "num": 355011,
+        "word": "25岁小伙做鼻子整形失败毁容",
+        "onboard_time": 1679196146,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341656,
+        "num": 341656,
+        "word": "陈芋汐全红婵断层式夺冠",
+        "onboard_time": 1679198968,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 326492,
+        "num": 326492,
+        "word": "霉霉换衣服",
+        "onboard_time": 1679202688,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 886506,
+        "num": 317965,
+        "word": "女篮李梦",
+        "onboard_time": 1679194767,
+        "rank": 20,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 305092,
+        "num": 305092,
+        "word": "北京硕博毕业生人数首超本科生",
+        "onboard_time": 1679194107,
+        "rank": 21,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 261810,
+        "num": 261810,
+        "word": "医学生吃烧烤花1小时解剖猪头",
+        "onboard_time": 1679195125,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240981,
+        "num": 240981,
+        "word": "白宇的微博全是细节",
+        "onboard_time": 1679202150,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 234712,
+        "num": 234712,
+        "word": "一文读懂苏大男生P图造黄谣事件",
+        "onboard_time": 1679195727,
+        "rank": 24,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 233245,
+        "num": 233245,
+        "word": "大熊猫花花休假弟弟和叶成顶流",
+        "onboard_time": 1679195546,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217897,
+        "num": 217897,
+        "word": "袖珍老师嫁给9岁时就对她笑的男生",
+        "onboard_time": 1679191825,
+        "rank": 26,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 198503,
+        "num": 198503,
+        "word": "妍珍的多重宇宙",
+        "onboard_time": 1679201428,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 196153,
+        "num": 196153,
+        "word": "学院风的尽头是老头衫",
+        "onboard_time": 1679198006,
+        "rank": 28,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 189680,
+        "num": 189680,
+        "word": "檀健次模仿高启盛走路",
+        "onboard_time": 1679200168,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177710,
+        "num": 177710,
+        "word": "酒店让员工给菜下药系自导自演",
+        "onboard_time": 1679204486,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174316,
+        "num": 174316,
+        "word": "HYBE艺人信息表",
+        "onboard_time": 1679198368,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157461,
+        "num": 157461,
+        "word": "吸熊猫",
+        "onboard_time": 1679199208,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 151773,
+        "num": 151773,
+        "word": "张若昀王鸥再飙演技",
+        "onboard_time": 1679203706,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151100,
+        "num": 151100,
+        "word": "颜人中 广州",
+        "onboard_time": 1679203466,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 146754,
+        "num": 146754,
+        "word": "95后夜市夫妻档算起收入笑了",
+        "onboard_time": 1679191706,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140186,
+        "num": 140186,
+        "word": "来活了兄弟再就业男团新团综",
+        "onboard_time": 1679197046,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138780,
+        "num": 138780,
+        "word": "花三三回应",
+        "onboard_time": 1679183361,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130516,
+        "num": 130516,
+        "word": "陈芋汐全红婵跳水侧看如一人",
+        "onboard_time": 1679205626,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130476,
+        "num": 130476,
+        "word": "柯南 九转大肠",
+        "onboard_time": 1679185345,
+        "rank": 39,
+        "category": "动漫,综艺"
+      },
+      {
+        "raw_hot": 126176,
+        "num": 126176,
+        "word": "这两位学长怎么这么凶",
+        "onboard_time": 1679206345,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123215,
+        "num": 123215,
+        "word": "宁安如梦制片人回应张凌赫必火言论",
+        "onboard_time": 1679203110,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 120647,
+        "num": 120647,
+        "word": "入职第三天发现这公司算来对了",
+        "onboard_time": 1679188167,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118994,
+        "num": 118994,
+        "word": "杭州近千人共创3米高樱花公仔",
+        "onboard_time": 1679199869,
+        "rank": 43,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 109547,
+        "num": 109547,
+        "word": "花32万买到全损事故车获退1赔3",
+        "onboard_time": 1679206768,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104629,
+        "num": 104629,
+        "word": "薛之谦 今天的雨是我们的记号",
+        "onboard_time": 1679198427,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 103695,
+        "num": 103695,
+        "word": "64岁男子为打工谎报年龄办假证被抓",
+        "onboard_time": 1679191107,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101973,
+        "num": 101973,
+        "word": "Lisa演唱会新造型",
+        "onboard_time": 1679193446,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 97795,
+        "num": 97795,
+        "word": "医院偶遇严浩翔看病",
+        "onboard_time": 1679194406,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90849,
+        "num": 90849,
+        "word": "丁程鑫走秀现场",
+        "onboard_time": 1679200470,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#春天里的盛会#"
+    }
+  }
+}
