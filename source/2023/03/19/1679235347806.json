@@ -1,0 +1,410 @@
+{
+  "runTime": 1679235347806,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3094009,
+        "num": 3094009,
+        "word": "张兰欠9.8亿未还家族信托被击穿",
+        "onboard_time": 1679229987,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1269922,
+        "num": 1269922,
+        "word": "刘惜君状态",
+        "onboard_time": 1679232810,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 54364,
+        "num": 1160244,
+        "word": "钢铁丝路好风光",
+        "onboard_time": 1679229987,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2429026,
+        "num": 1152176,
+        "word": "玲娜贝儿",
+        "onboard_time": 1679231729,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1087086,
+        "num": 1087086,
+        "word": "樊振东卫冕男单冠军",
+        "onboard_time": 1679232810,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 874878,
+        "num": 874878,
+        "word": "邓某某伙同他人散布别人隐私被拘",
+        "onboard_time": 1679231610,
+        "rank": 5,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 757370,
+        "num": 757370,
+        "word": "8箱芒果托运980女子当场吃完",
+        "onboard_time": 1679224887,
+        "rank": 6,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 576917,
+        "num": 576917,
+        "word": "网传浪姐4确定名单与待定名单",
+        "onboard_time": 1679231190,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 518503,
+        "num": 518503,
+        "word": "白敬亭对井柏然说哥我错了下次还敢",
+        "onboard_time": 1679226328,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 383106,
+        "num": 477827,
+        "word": "樊振东马龙争夺冠军",
+        "onboard_time": 1679228607,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 776618,
+        "num": 474326,
+        "word": "周星驰石榴姐聚餐",
+        "onboard_time": 1679230648,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 462946,
+        "num": 462946,
+        "word": "胡明轩受伤",
+        "onboard_time": 1679232571,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 410182,
+        "num": 410182,
+        "word": "路炎晨邢克垒一路前邢",
+        "onboard_time": 1679232753,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 375154,
+        "num": 375154,
+        "word": "护心",
+        "onboard_time": 1679230408,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 371817,
+        "num": 371817,
+        "word": "24考研",
+        "onboard_time": 1679222969,
+        "rank": 14,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 361201,
+        "num": 361201,
+        "word": "马龙男单亚军",
+        "onboard_time": 1679233710,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 321009,
+        "num": 321009,
+        "word": "30岁极其接近理想中的18岁",
+        "onboard_time": 1679218710,
+        "rank": 16,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 305852,
+        "num": 305852,
+        "word": "内娱明星emoji简称",
+        "onboard_time": 1679234609,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 398601,
+        "num": 305447,
+        "word": "男子吐槽22元买大碗面一口就能吃完",
+        "onboard_time": 1679220148,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297153,
+        "num": 297153,
+        "word": "张译新剧颅内飙戏",
+        "onboard_time": 1679234310,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 552335,
+        "num": 295122,
+        "word": "女子在缅遭绑哭喊我有两小孩",
+        "onboard_time": 1679213848,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291812,
+        "num": 291812,
+        "word": "微博之夜",
+        "onboard_time": 1679224408,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 290142,
+        "num": 290142,
+        "word": "AG打野",
+        "onboard_time": 1679229089,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 271994,
+        "num": 271994,
+        "word": "克莉丝汀所有门店暂停运营",
+        "onboard_time": 1679225427,
+        "rank": 23,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 237230,
+        "num": 237230,
+        "word": "新海诚上海简餐",
+        "onboard_time": 1679220208,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235756,
+        "num": 235756,
+        "word": "杨超越把宠物送养了",
+        "onboard_time": 1679217626,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225459,
+        "num": 225459,
+        "word": "陈雨菲vs安洗莹",
+        "onboard_time": 1679233169,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 222235,
+        "num": 222235,
+        "word": "流浪地球2里代码公式都是来真的",
+        "onboard_time": 1679234791,
+        "rank": 27,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 222063,
+        "num": 222063,
+        "word": "莫兰德的爱情保卫战",
+        "onboard_time": 1679230588,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 220005,
+        "num": 220005,
+        "word": "高龄产妇称遵医嘱请假被解聘",
+        "onboard_time": 1679216306,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218836,
+        "num": 218836,
+        "word": "EDG这个龙王ban了吧",
+        "onboard_time": 1679220387,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 218035,
+        "num": 218035,
+        "word": "韩网友评价新海诚中韩工作餐",
+        "onboard_time": 1679219968,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 214341,
+        "num": 214341,
+        "word": "AG对战TTG",
+        "onboard_time": 1679228490,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 211884,
+        "num": 211884,
+        "word": "TWICE全员跳Pop",
+        "onboard_time": 1679230950,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 204612,
+        "num": 204612,
+        "word": "林俊杰香港演唱会",
+        "onboard_time": 1679234427,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 203613,
+        "num": 203613,
+        "word": "坐多久要起来动一动",
+        "onboard_time": 1679229927,
+        "rank": 35,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 200253,
+        "num": 200253,
+        "word": "孙颖莎三冠王",
+        "onboard_time": 1679228248,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194946,
+        "num": 194946,
+        "word": "樊振东双冠王",
+        "onboard_time": 1679234791,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188539,
+        "num": 188539,
+        "word": "柯佳嬿想演文东恩妈妈",
+        "onboard_time": 1679229208,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 178707,
+        "num": 178707,
+        "word": "斗鱼回应36岁女子请假保胎遭辞退",
+        "onboard_time": 1679217448,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170299,
+        "num": 170299,
+        "word": "刘诗诗白衣嘟嘴路透",
+        "onboard_time": 1679232028,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 167692,
+        "num": 167692,
+        "word": "辽宁男篮vs深圳男篮",
+        "onboard_time": 1679234851,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165949,
+        "num": 165949,
+        "word": "王一博周日库存视频",
+        "onboard_time": 1679229149,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163936,
+        "num": 163936,
+        "word": "薛之谦衢州站第二场空降",
+        "onboard_time": 1679226508,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 163012,
+        "num": 163012,
+        "word": "保你平安",
+        "onboard_time": 1679231910,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 153138,
+        "num": 153138,
+        "word": "秦岚手机壳",
+        "onboard_time": 1679214446,
+        "rank": 45,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 151580,
+        "num": 151580,
+        "word": "孙颖莎大满贯女单夺冠",
+        "onboard_time": 1679229387,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150516,
+        "num": 150516,
+        "word": "WTT新加坡大满贯2023",
+        "onboard_time": 1679232089,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149522,
+        "num": 149522,
+        "word": "苏醒拍的张远王栎鑫",
+        "onboard_time": 1679231370,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146405,
+        "num": 146405,
+        "word": "教育局回应家长发又有作业被踢出群聊",
+        "onboard_time": 1679208866,
+        "rank": 49,
+        "category": "社会新闻,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#交通成为中国现代化的开路先锋#"
+    }
+  }
+}

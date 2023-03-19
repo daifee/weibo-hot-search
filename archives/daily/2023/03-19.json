@@ -1,6 +1,6 @@
 {
   "startTime": 1679156607539,
-  "endTime": 1679232809277,
+  "endTime": 1679235347806,
   "band_list": [
     {
       "raw_hot": 3316552,
@@ -57,6 +57,14 @@
       "onboard_time": 1679220928,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2429026,
+      "num": 1478682,
+      "word": "玲娜贝儿",
+      "onboard_time": 1679231729,
+      "rank": 27,
+      "category": "网红"
     },
     {
       "raw_hot": 1994747,
@@ -139,14 +147,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1478682,
-      "num": 1478682,
-      "word": "玲娜贝儿",
-      "onboard_time": 1679231729,
-      "rank": 27,
-      "category": "网红"
-    },
-    {
       "raw_hot": 1400207,
       "num": 1400207,
       "word": "北京硕博毕业生人数首超本科生",
@@ -211,6 +211,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1269922,
+      "num": 1269922,
+      "word": "刘惜君状态",
+      "onboard_time": 1679232810,
+      "rank": 1,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1252504,
       "num": 1252504,
       "word": "近9成网友认为苏大开除造谣者合理",
@@ -257,6 +265,14 @@
       "onboard_time": 1679206768,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1087086,
+      "num": 1087086,
+      "word": "樊振东卫冕男单冠军",
+      "onboard_time": 1679232810,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 986186,
@@ -339,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 874878,
+      "num": 874878,
+      "word": "邓某某伙同他人散布别人隐私被拘",
+      "onboard_time": 1679231610,
+      "rank": 38,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 873815,
       "num": 873815,
       "word": "青春环游记4emoji阵容",
@@ -404,7 +428,7 @@
     },
     {
       "raw_hot": 784083,
-      "num": 430543,
+      "num": 474326,
       "word": "周星驰石榴姐聚餐",
       "onboard_time": 1679230648,
       "rank": 11,
@@ -755,6 +779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 462946,
+      "num": 462946,
+      "word": "胡明轩受伤",
+      "onboard_time": 1679232571,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 457033,
       "num": 457033,
       "word": "HYBE艺人信息表",
@@ -809,6 +841,14 @@
       "onboard_time": 1679192427,
       "rank": 11,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 410182,
+      "num": 410182,
+      "word": "路炎晨邢克垒一路前邢",
+      "onboard_time": 1679232753,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 405034,
@@ -883,14 +923,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 369514,
-      "num": 369514,
-      "word": "邓某某伙同他人散布别人隐私被拘",
-      "onboard_time": 1679231610,
-      "rank": 38,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 369142,
       "num": 369142,
       "word": "宁安如梦后期 张凌赫必火",
@@ -921,6 +953,14 @@
       "onboard_time": 1679182761,
       "rank": 9,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 361201,
+      "num": 361201,
+      "word": "马龙男单亚军",
+      "onboard_time": 1679233710,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 360479,
@@ -1059,6 +1099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 305852,
+      "num": 305852,
+      "word": "内娱明星emoji简称",
+      "onboard_time": 1679234609,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 303790,
       "num": 303790,
       "word": "贺峻霖介绍无名幕后故事",
@@ -1091,6 +1139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 297153,
+      "num": 297153,
+      "word": "张译新剧颅内飙戏",
+      "onboard_time": 1679234310,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 294983,
       "num": 241311,
       "word": "中戏老师如何评价张颂文",
@@ -1105,6 +1161,14 @@
       "onboard_time": 1679198427,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 290142,
+      "num": 290142,
+      "word": "AG打野",
+      "onboard_time": 1679229089,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 289171,
@@ -1283,14 +1347,6 @@
       "category": "体育,网红"
     },
     {
-      "raw_hot": 237988,
-      "num": 237988,
-      "word": "AG打野",
-      "onboard_time": 1679229089,
-      "rank": 42,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 230947,
       "num": 230947,
       "word": "霉霉唱了44首歌",
@@ -1355,6 +1411,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 225459,
+      "num": 225459,
+      "word": "陈雨菲vs安洗莹",
+      "onboard_time": 1679233169,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 225066,
       "num": 225066,
       "word": "AG对战TTG",
@@ -1371,19 +1435,27 @@
       "category": "时尚,情感"
     },
     {
+      "raw_hot": 222235,
+      "num": 222235,
+      "word": "流浪地球2里代码公式都是来真的",
+      "onboard_time": 1679234791,
+      "rank": 27,
+      "category": "社会新闻,影视"
+    },
+    {
+      "raw_hot": 222063,
+      "num": 222063,
+      "word": "莫兰德的爱情保卫战",
+      "onboard_time": 1679230588,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 220420,
       "num": 220420,
       "word": "WTT新加坡大满贯2023",
       "onboard_time": 1679232089,
       "rank": 31,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 217130,
-      "num": 217130,
-      "word": "莫兰德的爱情保卫战",
-      "onboard_time": 1679230588,
-      "rank": 28,
       "category": "体育"
     },
     {
@@ -1457,6 +1529,22 @@
       "onboard_time": 1679229089,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 204612,
+      "num": 204612,
+      "word": "林俊杰香港演唱会",
+      "onboard_time": 1679234427,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 203613,
+      "num": 223615,
+      "word": "坐多久要起来动一动",
+      "onboard_time": 1679229927,
+      "rank": 29,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 203560,
@@ -1553,6 +1641,14 @@
       "onboard_time": 1679224649,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 194946,
+      "num": 194946,
+      "word": "樊振东双冠王",
+      "onboard_time": 1679234791,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 192460,
@@ -1667,14 +1763,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 182076,
-      "num": 223615,
-      "word": "坐多久要起来动一动",
-      "onboard_time": 1679229927,
-      "rank": 29,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 181055,
       "num": 181055,
       "word": "李光洙演我吃瓜表情",
@@ -1747,12 +1835,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 169359,
-      "num": 169359,
-      "word": "胡明轩受伤",
-      "onboard_time": 1679232571,
-      "rank": 40,
-      "category": "体育"
+      "raw_hot": 170299,
+      "num": 170299,
+      "word": "刘诗诗白衣嘟嘴路透",
+      "onboard_time": 1679232028,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 169173,
@@ -1777,6 +1865,14 @@
       "onboard_time": 1679203706,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 167692,
+      "num": 167692,
+      "word": "辽宁男篮vs深圳男篮",
+      "onboard_time": 1679234851,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 167355,
@@ -1873,14 +1969,6 @@
       "onboard_time": 1679198609,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 155985,
-      "num": 155985,
-      "word": "刘诗诗白衣嘟嘴路透",
-      "onboard_time": 1679232028,
-      "rank": 49,
-      "category": "影视"
     },
     {
       "raw_hot": 153919,
@@ -2331,20 +2419,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 54364,
+      "num": 1262582,
+      "word": "钢铁丝路好风光",
+      "onboard_time": 1679229987,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52206,
       "num": 52206,
       "word": "南安普顿3比3热刺",
       "onboard_time": 1679181978,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 49665,
-      "num": 1262582,
-      "word": "钢铁丝路好风光",
-      "onboard_time": 1679229987,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 49355,

@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679232809277,
+  "endTime": 1679235347806,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -473,6 +473,14 @@
       "onboard_time": 1678179808,
       "rank": 0,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 2429026,
+      "num": 1478682,
+      "word": "玲娜贝儿",
+      "onboard_time": 1679231729,
+      "rank": 27,
+      "category": "网红"
     },
     {
       "raw_hot": 2418136,
@@ -1899,14 +1907,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1478682,
-      "num": 1478682,
-      "word": "玲娜贝儿",
-      "onboard_time": 1679231729,
-      "rank": 27,
-      "category": "网红"
-    },
-    {
       "raw_hot": 1473978,
       "num": 1473978,
       "word": "各部部长",
@@ -2585,6 +2585,14 @@
       "onboard_time": 1678266747,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1269922,
+      "num": 1269922,
+      "word": "刘惜君状态",
+      "onboard_time": 1679232810,
+      "rank": 1,
+      "category": "音乐"
     },
     {
       "raw_hot": 1269282,
@@ -3417,6 +3425,14 @@
       "onboard_time": 1679206768,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1087086,
+      "num": 1087086,
+      "word": "樊振东卫冕男单冠军",
+      "onboard_time": 1679232810,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 1085717,
@@ -5043,6 +5059,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 874878,
+      "num": 874878,
+      "word": "邓某某伙同他人散布别人隐私被拘",
+      "onboard_time": 1679231610,
+      "rank": 38,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 874193,
       "num": 431137,
       "word": "公司回应员工因给客户倒水太满被开除",
@@ -6100,7 +6124,7 @@
     },
     {
       "raw_hot": 784083,
-      "num": 430543,
+      "num": 474326,
       "word": "周星驰石榴姐聚餐",
       "onboard_time": 1679230648,
       "rank": 11,
@@ -12699,6 +12723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 462946,
+      "num": 462946,
+      "word": "胡明轩受伤",
+      "onboard_time": 1679232571,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 462479,
       "num": 247912,
       "word": "南京地铁回应乘客因手机外放收罚单",
@@ -14275,6 +14307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 410182,
+      "num": 410182,
+      "word": "路炎晨邢克垒一路前邢",
+      "onboard_time": 1679232753,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 409710,
       "num": 409710,
       "word": "杨紫张晚意邓为长相思路透",
@@ -15835,14 +15875,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 369514,
-      "num": 369514,
-      "word": "邓某某伙同他人散布别人隐私被拘",
-      "onboard_time": 1679231610,
-      "rank": 38,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 369473,
       "num": 369473,
       "word": "深圳震感",
@@ -16209,6 +16241,14 @@
       "onboard_time": 1678007726,
       "rank": 20,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 361201,
+      "num": 361201,
+      "word": "马龙男单亚军",
+      "onboard_time": 1679233710,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 361169,
@@ -18891,6 +18931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 305852,
+      "num": 305852,
+      "word": "内娱明星emoji简称",
+      "onboard_time": 1679234609,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 305787,
       "num": 305787,
       "word": "TVB直播网友建议讲粤语",
@@ -19315,6 +19363,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 297153,
+      "num": 297153,
+      "word": "张译新剧颅内飙戏",
+      "onboard_time": 1679234310,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 297059,
       "num": 297059,
       "word": "你是补税还是退税",
@@ -19601,6 +19657,14 @@
       "onboard_time": 1678459050,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 290142,
+      "num": 290142,
+      "word": "AG打野",
+      "onboard_time": 1679229089,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 289841,
@@ -22499,14 +22563,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 237988,
-      "num": 237988,
-      "word": "AG打野",
-      "onboard_time": 1679229089,
-      "rank": 42,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 237843,
       "num": 237843,
       "word": "刘耀文没想到会去无限超越班",
@@ -23467,6 +23523,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 225459,
+      "num": 225459,
+      "word": "陈雨菲vs安洗莹",
+      "onboard_time": 1679233169,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 225342,
       "num": 225342,
       "word": "电影深海票房破9亿",
@@ -23763,6 +23827,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 222235,
+      "num": 222235,
+      "word": "流浪地球2里代码公式都是来真的",
+      "onboard_time": 1679234791,
+      "rank": 27,
+      "category": "社会新闻,影视"
+    },
+    {
       "raw_hot": 222153,
       "num": 222153,
       "word": "范丞丞直播",
@@ -23777,6 +23849,14 @@
       "onboard_time": 1678456649,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 222063,
+      "num": 222063,
+      "word": "莫兰德的爱情保卫战",
+      "onboard_time": 1679230588,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 222053,
@@ -24153,14 +24233,6 @@
       "onboard_time": 1678948588,
       "rank": 48,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 217130,
-      "num": 217130,
-      "word": "莫兰德的爱情保卫战",
-      "onboard_time": 1679230588,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 217050,
@@ -25427,6 +25499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 204612,
+      "num": 204612,
+      "word": "林俊杰香港演唱会",
+      "onboard_time": 1679234427,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 204583,
       "num": 204583,
       "word": "白敬亭最新专访",
@@ -25609,6 +25689,14 @@
       "onboard_time": 1678245627,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 203613,
+      "num": 223615,
+      "word": "坐多久要起来动一动",
+      "onboard_time": 1679229927,
+      "rank": 29,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 203590,
@@ -27137,6 +27225,14 @@
       "onboard_time": 1678367550,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 194946,
+      "num": 194946,
+      "word": "樊振东双冠王",
+      "onboard_time": 1679234791,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 194939,
@@ -28699,14 +28795,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 182076,
-      "num": 223615,
-      "word": "坐多久要起来动一动",
-      "onboard_time": 1679229927,
-      "rank": 29,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 182047,
       "num": 182047,
       "word": "迪士尼介绍兔朱迪机器人",
@@ -29747,6 +29835,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 170299,
+      "num": 170299,
+      "word": "刘诗诗白衣嘟嘴路透",
+      "onboard_time": 1679232028,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 170112,
       "num": 170112,
       "word": "有哪些巨好用的防晒霜",
@@ -29832,14 +29928,6 @@
       "word": "湖人终结勇士五连胜",
       "onboard_time": 1678059684,
       "rank": 32,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 169359,
-      "num": 169359,
-      "word": "胡明轩受伤",
-      "onboard_time": 1679232571,
-      "rank": 40,
       "category": "体育"
     },
     {
@@ -30073,6 +30161,14 @@
       "onboard_time": 1677630031,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 167692,
+      "num": 167692,
+      "word": "辽宁男篮vs深圳男篮",
+      "onboard_time": 1679234851,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 167612,
@@ -31073,14 +31169,6 @@
       "onboard_time": 1679198609,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 155985,
-      "num": 155985,
-      "word": "刘诗诗白衣嘟嘴路透",
-      "onboard_time": 1679232028,
-      "rank": 49,
-      "category": "影视"
     },
     {
       "raw_hot": 155944,
@@ -37859,6 +37947,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 54364,
+      "num": 1262582,
+      "word": "钢铁丝路好风光",
+      "onboard_time": 1679229987,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 54057,
       "num": 69660,
       "word": "WBG BP",
@@ -37937,14 +38033,6 @@
       "onboard_time": 1678102286,
       "rank": 9,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 49665,
-      "num": 1262582,
-      "word": "钢铁丝路好风光",
-      "onboard_time": 1679229987,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 49661,
