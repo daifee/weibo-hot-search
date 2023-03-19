@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679246144549,
+  "endTime": 1679247212499,
   "band_list": [
     {
       "raw_hot": 1724841,
@@ -411,12 +411,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 48386,
-      "num": 48386,
+      "raw_hot": 52458,
+      "num": 52458,
       "word": "这小猫咪是犯人瘾了吧",
       "onboard_time": 1679245399,
       "rank": 45,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 34286,
+      "num": 34286,
+      "word": "樊振东马龙争夺冠军",
+      "onboard_time": 1679228607,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 20144,

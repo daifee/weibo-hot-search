@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679246144549,
+  "endTime": 1679247212499,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -38211,6 +38211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 52458,
+      "num": 52458,
+      "word": "这小猫咪是犯人瘾了吧",
+      "onboard_time": 1679245399,
+      "rank": 45,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 52206,
       "num": 52206,
       "word": "南安普顿3比3热刺",
@@ -38289,14 +38297,6 @@
       "onboard_time": 1678791631,
       "rank": 14,
       "category": "情感"
-    },
-    {
-      "raw_hot": 48386,
-      "num": 48386,
-      "word": "这小猫咪是犯人瘾了吧",
-      "onboard_time": 1679245399,
-      "rank": 45,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 48070,
