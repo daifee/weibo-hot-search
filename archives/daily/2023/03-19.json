@@ -1,6 +1,6 @@
 {
   "startTime": 1679156607539,
-  "endTime": 1679235347806,
+  "endTime": 1679236414129,
   "band_list": [
     {
       "raw_hot": 3316552,
@@ -147,6 +147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1457391,
+      "num": 1457391,
+      "word": "刘惜君状态",
+      "onboard_time": 1679232810,
+      "rank": 1,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1400207,
       "num": 1400207,
       "word": "北京硕博毕业生人数首超本科生",
@@ -211,20 +219,20 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 1269922,
-      "num": 1269922,
-      "word": "刘惜君状态",
-      "onboard_time": 1679232810,
-      "rank": 1,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 1252504,
       "num": 1252504,
       "word": "近9成网友认为苏大开除造谣者合理",
       "onboard_time": 1679198006,
       "rank": 11,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1235143,
+      "num": 1235143,
+      "word": "樊振东卫冕男单冠军",
+      "onboard_time": 1679232810,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 1220426,
@@ -265,14 +273,6 @@
       "onboard_time": 1679206768,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1087086,
-      "num": 1087086,
-      "word": "樊振东卫冕男单冠军",
-      "onboard_time": 1679232810,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 986186,
@@ -331,6 +331,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 950029,
+      "num": 950029,
+      "word": "邓某某伙同他人散布别人隐私被拘",
+      "onboard_time": 1679231610,
+      "rank": 38,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 907004,
       "num": 907004,
       "word": "陈芋汐全红婵断层式夺冠",
@@ -353,14 +361,6 @@
       "onboard_time": 1679220148,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 874878,
-      "num": 874878,
-      "word": "邓某某伙同他人散布别人隐私被拘",
-      "onboard_time": 1679231610,
-      "rank": 38,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 873815,
@@ -428,7 +428,7 @@
     },
     {
       "raw_hot": 784083,
-      "num": 474326,
+      "num": 498535,
       "word": "周星驰石榴姐聚餐",
       "onboard_time": 1679230648,
       "rank": 11,
@@ -683,6 +683,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 510257,
+      "num": 510257,
+      "word": "路炎晨邢克垒一路前邢",
+      "onboard_time": 1679232753,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 509628,
       "num": 509628,
       "word": "给猪喂的是我的减脂餐吧",
@@ -811,6 +819,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 444031,
+      "num": 444031,
+      "word": "内娱明星emoji简称",
+      "onboard_time": 1679234609,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 441826,
       "num": 441826,
       "word": "女生应聘被HR称不是校长喜欢类型",
@@ -841,14 +857,6 @@
       "onboard_time": 1679192427,
       "rank": 11,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 410182,
-      "num": 410182,
-      "word": "路炎晨邢克垒一路前邢",
-      "onboard_time": 1679232753,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 405034,
@@ -1019,6 +1027,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 341434,
+      "num": 341434,
+      "word": "流浪地球2里代码公式都是来真的",
+      "onboard_time": 1679234791,
+      "rank": 27,
+      "category": "社会新闻,影视"
+    },
+    {
+      "raw_hot": 340475,
+      "num": 340475,
+      "word": "张凯的驴是去成都了吗",
+      "onboard_time": 1679235931,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 329356,
       "num": 329356,
       "word": "瑞秋",
@@ -1097,14 +1121,6 @@
       "onboard_time": 1679229387,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 305852,
-      "num": 305852,
-      "word": "内娱明星emoji简称",
-      "onboard_time": 1679234609,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 303790,
@@ -1379,6 +1395,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 227730,
+      "num": 227730,
+      "word": "姜思达王勉走秀",
+      "onboard_time": 1679235691,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 227518,
       "num": 227518,
       "word": "滔搏选手为什么在KSG",
@@ -1411,6 +1435,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 225811,
+      "num": 225811,
+      "word": "厕所看自己好看一些的原因",
+      "onboard_time": 1679235629,
+      "rank": 27,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 225459,
       "num": 225459,
       "word": "陈雨菲vs安洗莹",
@@ -1435,20 +1467,20 @@
       "category": "时尚,情感"
     },
     {
-      "raw_hot": 222235,
-      "num": 222235,
-      "word": "流浪地球2里代码公式都是来真的",
-      "onboard_time": 1679234791,
-      "rank": 27,
-      "category": "社会新闻,影视"
-    },
-    {
       "raw_hot": 222063,
       "num": 222063,
       "word": "莫兰德的爱情保卫战",
       "onboard_time": 1679230588,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 221247,
+      "num": 221247,
+      "word": "林俊杰香港演唱会",
+      "onboard_time": 1679234427,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 220420,
@@ -1531,12 +1563,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 204612,
-      "num": 204612,
-      "word": "林俊杰香港演唱会",
-      "onboard_time": 1679234427,
+      "raw_hot": 204195,
+      "num": 204195,
+      "word": "清清廉颇一拍四",
+      "onboard_time": 1679236111,
       "rank": 34,
-      "category": "音乐"
+      "category": "游戏"
     },
     {
       "raw_hot": 203613,
@@ -1747,6 +1779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 186660,
+      "num": 186660,
+      "word": "TTG战胜AG",
+      "onboard_time": 1679236111,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 185834,
       "num": 185834,
       "word": "WB对战eStar",
@@ -1761,6 +1801,14 @@
       "onboard_time": 1679226927,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 182675,
+      "num": 182675,
+      "word": "关晓彤哭戏路透",
+      "onboard_time": 1679236169,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 181055,
@@ -2419,7 +2467,7 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 54364,
+      "raw_hot": 54649,
       "num": 1262582,
       "word": "钢铁丝路好风光",
       "onboard_time": 1679229987,

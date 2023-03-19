@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1679235347806,
+  "endTime": 1679236414129,
   "band_list": [
     {
       "raw_hot": 9458443,
@@ -819,6 +819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1457391,
+      "num": 1457391,
+      "word": "刘惜君状态",
+      "onboard_time": 1679232810,
+      "rank": 1,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1433382,
       "num": 1433382,
       "word": "女大学生边读书边创业营收1800万",
@@ -1051,14 +1059,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 1269922,
-      "num": 1269922,
-      "word": "刘惜君状态",
-      "onboard_time": 1679232810,
-      "rank": 1,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 1269282,
       "num": 1269282,
       "word": "红色通缉犯郭文贵在美国被捕",
@@ -1113,6 +1113,14 @@
       "onboard_time": 1678957949,
       "rank": 18,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 1235143,
+      "num": 1235143,
+      "word": "樊振东卫冕男单冠军",
+      "onboard_time": 1679232810,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 1220778,
@@ -1353,14 +1361,6 @@
       "onboard_time": 1679206768,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1087086,
-      "num": 1087086,
-      "word": "樊振东卫冕男单冠军",
-      "onboard_time": 1679232810,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 1085717,
@@ -1787,6 +1787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 950029,
+      "num": 950029,
+      "word": "邓某某伙同他人散布别人隐私被拘",
+      "onboard_time": 1679231610,
+      "rank": 38,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 949983,
       "num": 949983,
       "word": "柠萌影视声明",
@@ -2041,14 +2049,6 @@
       "onboard_time": 1678925727,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 874878,
-      "num": 874878,
-      "word": "邓某某伙同他人散布别人隐私被拘",
-      "onboard_time": 1679231610,
-      "rank": 38,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 874193,
@@ -2564,7 +2564,7 @@
     },
     {
       "raw_hot": 784083,
-      "num": 474326,
+      "num": 498535,
       "word": "周星驰石榴姐聚餐",
       "onboard_time": 1679230648,
       "rank": 11,
@@ -4523,6 +4523,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 510257,
+      "num": 510257,
+      "word": "路炎晨邢克垒一路前邢",
+      "onboard_time": 1679232753,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 509628,
       "num": 509628,
       "word": "给猪喂的是我的减脂餐吧",
@@ -5403,6 +5411,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 444031,
+      "num": 444031,
+      "word": "内娱明星emoji简称",
+      "onboard_time": 1679234609,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 443316,
       "num": 440424,
       "word": "阿迪达斯中国区业绩连续7季度下滑",
@@ -5937,14 +5953,6 @@
       "onboard_time": 1679192427,
       "rank": 11,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 410182,
-      "num": 410182,
-      "word": "路炎晨邢克垒一路前邢",
-      "onboard_time": 1679232753,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 409710,
@@ -7051,6 +7059,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 341434,
+      "num": 341434,
+      "word": "流浪地球2里代码公式都是来真的",
+      "onboard_time": 1679234791,
+      "rank": 27,
+      "category": "社会新闻,影视"
+    },
+    {
       "raw_hot": 341351,
       "num": 131820,
       "word": "好直观的出血量讲解",
@@ -7065,6 +7081,14 @@
       "onboard_time": 1678877310,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 340475,
+      "num": 340475,
+      "word": "张凯的驴是去成都了吗",
+      "onboard_time": 1679235931,
+      "rank": 15,
+      "category": "游戏"
     },
     {
       "raw_hot": 340079,
@@ -7697,14 +7721,6 @@
       "onboard_time": 1679229387,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 305852,
-      "num": 305852,
-      "word": "内娱明星emoji简称",
-      "onboard_time": 1679234609,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 305778,
@@ -9515,6 +9531,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 227730,
+      "num": 227730,
+      "word": "姜思达王勉走秀",
+      "onboard_time": 1679235691,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 227591,
       "num": 227591,
       "word": "孟子义花琉璃红衣舞",
@@ -9561,6 +9585,14 @@
       "onboard_time": 1679221769,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 225811,
+      "num": 225811,
+      "word": "厕所看自己好看一些的原因",
+      "onboard_time": 1679235629,
+      "rank": 27,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 225459,
@@ -9651,14 +9683,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 222235,
-      "num": 222235,
-      "word": "流浪地球2里代码公式都是来真的",
-      "onboard_time": 1679234791,
-      "rank": 27,
-      "category": "社会新闻,影视"
-    },
-    {
       "raw_hot": 222153,
       "num": 222153,
       "word": "范丞丞直播",
@@ -9689,6 +9713,14 @@
       "onboard_time": 1679049391,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 221247,
+      "num": 221247,
+      "word": "林俊杰香港演唱会",
+      "onboard_time": 1679234427,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 221218,
@@ -10267,14 +10299,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 204612,
-      "num": 204612,
-      "word": "林俊杰香港演唱会",
-      "onboard_time": 1679234427,
-      "rank": 34,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 204529,
       "num": 204529,
       "word": "LPL春季赛",
@@ -10305,6 +10329,14 @@
       "onboard_time": 1678835781,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204195,
+      "num": 204195,
+      "word": "清清廉颇一拍四",
+      "onboard_time": 1679236111,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 204036,
@@ -11451,6 +11483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 186660,
+      "num": 186660,
+      "word": "TTG战胜AG",
+      "onboard_time": 1679236111,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 186501,
       "num": 186501,
       "word": "高圆圆片场吃零食",
@@ -11577,6 +11617,14 @@
       "onboard_time": 1678842989,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182675,
+      "num": 182675,
+      "word": "关晓彤哭戏路透",
+      "onboard_time": 1679236169,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 181479,
@@ -14651,20 +14699,20 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 54649,
+      "num": 1262582,
+      "word": "钢铁丝路好风光",
+      "onboard_time": 1679229987,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 54522,
       "num": 80753,
       "word": "成毅英雄志骑马送亲路透",
       "onboard_time": 1678735091,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 54364,
-      "num": 1262582,
-      "word": "钢铁丝路好风光",
-      "onboard_time": 1679229987,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 52206,
