@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679218430846,
+  "endTime": 1679221142043,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -1060,7 +1060,7 @@
     },
     {
       "raw_hot": 1851242,
-      "num": 533691,
+      "num": 661811,
       "word": "秦岚手机壳",
       "onboard_time": 1679214446,
       "rank": 10,
@@ -4131,6 +4131,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 981063,
+      "num": 660096,
+      "word": "杨超越把宠物送养了",
+      "onboard_time": 1679217626,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 979898,
       "num": 610047,
       "word": "凡人修仙传 杨洋",
@@ -4441,6 +4449,14 @@
       "onboard_time": 1678583844,
       "rank": 1,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 942375,
+      "num": 942375,
+      "word": "斗鱼回应36岁女子请假保胎遭辞退",
+      "onboard_time": 1679217448,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 938747,
@@ -4913,6 +4929,14 @@
       "onboard_time": 1678366588,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 876141,
+      "num": 876141,
+      "word": "30岁极其接近理想中的18岁",
+      "onboard_time": 1679218710,
+      "rank": 5,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 875230,
@@ -5936,6 +5960,14 @@
       "word": "女孩出汗把衣服染蓝查出色汗症",
       "onboard_time": 1678708706,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 785286,
+      "num": 785286,
+      "word": "高龄产妇称遵医嘱请假被解聘",
+      "onboard_time": 1679216306,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -7003,6 +7035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 709900,
+      "num": 709900,
+      "word": "妮维雅",
+      "onboard_time": 1679220928,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 709137,
       "num": 709137,
       "word": "忠犬八公主演是中华田园犬",
@@ -7593,6 +7633,14 @@
       "onboard_time": 1678729394,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 668495,
+      "num": 668495,
+      "word": "EDG这个龙王ban了吧",
+      "onboard_time": 1679220387,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 668419,
@@ -8449,14 +8497,6 @@
       "onboard_time": 1677808348,
       "rank": 13,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 622275,
-      "num": 622275,
-      "word": "高龄产妇称遵医嘱请假被解聘",
-      "onboard_time": 1679216306,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 622268,
@@ -10275,6 +10315,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 540661,
+      "num": 540661,
+      "word": "徐明浩剧透国内行程",
+      "onboard_time": 1679219669,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 540620,
       "num": 540620,
       "word": "胡歌包场支持敦煌女儿",
@@ -10313,6 +10361,14 @@
       "onboard_time": 1677645393,
       "rank": 41,
       "category": "科技"
+    },
+    {
+      "raw_hot": 537709,
+      "num": 537709,
+      "word": "韩网友评价新海诚中韩工作餐",
+      "onboard_time": 1679219968,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 537630,
@@ -10737,14 +10793,6 @@
       "onboard_time": 1678366408,
       "rank": 30,
       "category": "时尚,艺人"
-    },
-    {
-      "raw_hot": 521181,
-      "num": 521181,
-      "word": "杨超越把宠物送养了",
-      "onboard_time": 1679217626,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 521080,
@@ -11369,6 +11417,14 @@
       "onboard_time": 1678358487,
       "rank": 7,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 500144,
+      "num": 500144,
+      "word": "不叠被子教",
+      "onboard_time": 1679217808,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 499516,
@@ -13427,6 +13483,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 430606,
+      "num": 331499,
+      "word": "窦靖童窦佳嫄聚会",
+      "onboard_time": 1679218288,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 430263,
       "num": 430263,
       "word": "张韶涵开场易天边回忆杀暴击",
@@ -14259,6 +14323,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 405034,
+      "num": 323896,
+      "word": "马苏喝多了管宁浩叫大哥",
+      "onboard_time": 1679219727,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 404810,
       "num": 404810,
       "word": "王俊凯金色外套机场路透",
@@ -14297,6 +14369,14 @@
       "onboard_time": 1678422639,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 402986,
+      "num": 378878,
+      "word": "岳云鹏问极限挑战还录不录",
+      "onboard_time": 1679217987,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 402560,
@@ -14401,6 +14481,14 @@
       "onboard_time": 1678767751,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 400011,
+      "num": 363149,
+      "word": "青春环游记",
+      "onboard_time": 1679217327,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 399648,
@@ -14761,14 +14849,6 @@
       "onboard_time": 1678337557,
       "rank": 12,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 388668,
-      "num": 177239,
-      "word": "斗鱼回应36岁女子请假保胎遭辞退",
-      "onboard_time": 1679217448,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 388651,
@@ -15200,14 +15280,6 @@
       "word": "2022微博之夜最期待的荧幕cp",
       "onboard_time": 1679017346,
       "rank": 32,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 378878,
-      "num": 378878,
-      "word": "岳云鹏问极限挑战还录不录",
-      "onboard_time": 1679217987,
-      "rank": 15,
       "category": "综艺"
     },
     {
@@ -15865,14 +15937,6 @@
       "onboard_time": 1679182761,
       "rank": 9,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 363149,
-      "num": 363149,
-      "word": "青春环游记",
-      "onboard_time": 1679217327,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 363022,
@@ -19075,6 +19139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 294983,
+      "num": 240309,
+      "word": "中戏老师如何评价张颂文",
+      "onboard_time": 1679218710,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 294847,
       "num": 282495,
       "word": "成毅谈莲花楼",
@@ -19779,12 +19851,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 279718,
+      "num": 239079,
+      "word": "卢正义哭了",
+      "onboard_time": 1679219007,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 279617,
       "num": 279617,
       "word": "张歆艺问北京有没有春天",
       "onboard_time": 1679011105,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 279511,
+      "num": 279511,
+      "word": "小伙求加薪被拒将老板工程车弃河",
+      "onboard_time": 1679218108,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 279086,
@@ -19881,6 +19969,14 @@
       "onboard_time": 1677853648,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 277608,
+      "num": 236786,
+      "word": "新海诚上海简餐",
+      "onboard_time": 1679220208,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 277512,
@@ -21489,6 +21585,14 @@
       "onboard_time": 1678239446,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 249364,
+      "num": 249364,
+      "word": "男子吐槽22元买大碗面一口就能吃完",
+      "onboard_time": 1679220148,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 249005,
@@ -24739,14 +24843,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 206353,
-      "num": 206353,
-      "word": "不叠被子教",
-      "onboard_time": 1679217808,
-      "rank": 24,
-      "category": "情感"
-    },
-    {
       "raw_hot": 206225,
       "num": 206225,
       "word": "王源胡子剧照",
@@ -24825,6 +24921,14 @@
       "onboard_time": 1678246289,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 205695,
+      "num": 205695,
+      "word": "花琉璃轶闻",
+      "onboard_time": 1678882889,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 205633,
@@ -25425,6 +25529,14 @@
       "onboard_time": 1677626061,
       "rank": 22,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 202270,
+      "num": 202270,
+      "word": "大学生写论文现状",
+      "onboard_time": 1679219727,
+      "rank": 37,
+      "category": "幽默,教育"
     },
     {
       "raw_hot": 202117,
@@ -26875,14 +26987,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 193917,
-      "num": 189833,
-      "word": "花琉璃轶闻",
-      "onboard_time": 1678882889,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 193914,
       "num": 193914,
       "word": "亚洲电影大奖红毯",
@@ -27857,6 +27961,14 @@
       "onboard_time": 1678543588,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 186873,
+      "num": 186873,
+      "word": "博主多次曝光商家套路被央视点名表扬",
+      "onboard_time": 1679219848,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186825,
@@ -30787,14 +30899,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 152385,
-      "num": 133265,
-      "word": "窦靖童窦佳嫄聚会",
-      "onboard_time": 1679218288,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 152358,
       "num": 104916,
       "word": "NMIXX新歌YoungDumbStupid",
@@ -32537,6 +32641,14 @@
       "onboard_time": 1678325785,
       "rank": 44,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 135832,
+      "num": 135832,
+      "word": "科学家称终结者区或藏有外星生命",
+      "onboard_time": 1679220747,
+      "rank": 44,
+      "category": "科技"
     },
     {
       "raw_hot": 135816,
@@ -34545,14 +34657,6 @@
       "onboard_time": 1678096106,
       "rank": 44,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 113163,
-      "num": 113163,
-      "word": "小伙求加薪被拒将老板工程车弃河",
-      "onboard_time": 1679218108,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 112847,
@@ -38252,6 +38356,9 @@
     },
     {
       "word": "#交通成为中国现代化的开路先锋#"
+    },
+    {
+      "word": "#钢铁丝路好风光#"
     }
   ]
 }

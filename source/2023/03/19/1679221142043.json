@@ -1,0 +1,410 @@
+{
+  "runTime": 1679221142043,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1419588,
+        "num": 1419588,
+        "word": "女子在缅遭绑哭喊我有两小孩",
+        "onboard_time": 1679213848,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1038315,
+        "num": 1038315,
+        "word": "瑞秋删中文评论",
+        "onboard_time": 1679209467,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84057,
+        "num": 943270,
+        "word": "第一视角感受南海海上直升机救援",
+        "onboard_time": 1679213366,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1050879,
+        "num": 943168,
+        "word": "苏州杀夫女子已被警方控制",
+        "onboard_time": 1679211566,
+        "rank": 3,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 942375,
+        "num": 942375,
+        "word": "斗鱼回应36岁女子请假保胎遭辞退",
+        "onboard_time": 1679217448,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 876141,
+        "num": 876141,
+        "word": "30岁极其接近理想中的18岁",
+        "onboard_time": 1679218710,
+        "rank": 5,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 785286,
+        "num": 785286,
+        "word": "高龄产妇称遵医嘱请假被解聘",
+        "onboard_time": 1679216306,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 728570,
+        "num": 728570,
+        "word": "王俊凯马上要进组了",
+        "onboard_time": 1679217626,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 709900,
+        "num": 709900,
+        "word": "妮维雅",
+        "onboard_time": 1679220928,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 668495,
+        "num": 668495,
+        "word": "EDG这个龙王ban了吧",
+        "onboard_time": 1679220387,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1045030,
+        "num": 661811,
+        "word": "秦岚手机壳",
+        "onboard_time": 1679214446,
+        "rank": 10,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 981063,
+        "num": 660096,
+        "word": "杨超越把宠物送养了",
+        "onboard_time": 1679217626,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 646148,
+        "num": 646148,
+        "word": "青春环游记4emoji阵容",
+        "onboard_time": 1679215768,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 616040,
+        "num": 616040,
+        "word": "聂小雨vs高启兰",
+        "onboard_time": 1679215350,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 549835,
+        "num": 549835,
+        "word": "微博之夜 好多人啊",
+        "onboard_time": 1679198068,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 540661,
+        "num": 540661,
+        "word": "徐明浩剧透国内行程",
+        "onboard_time": 1679219669,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 537709,
+        "num": 537709,
+        "word": "韩网友评价新海诚中韩工作餐",
+        "onboard_time": 1679219968,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 500144,
+        "num": 500144,
+        "word": "不叠被子教",
+        "onboard_time": 1679217808,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 372022,
+        "num": 372022,
+        "word": "成都文殊院门前一对职业乞讨者被挂牌",
+        "onboard_time": 1679214748,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335929,
+        "num": 335929,
+        "word": "大熊猫用脚抠嘴遭奶爸吐槽不讲卫生",
+        "onboard_time": 1679212465,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 430606,
+        "num": 331499,
+        "word": "窦靖童窦佳嫄聚会",
+        "onboard_time": 1679218288,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 405034,
+        "num": 323896,
+        "word": "马苏喝多了管宁浩叫大哥",
+        "onboard_time": 1679219727,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 402986,
+        "num": 320172,
+        "word": "岳云鹏问极限挑战还录不录",
+        "onboard_time": 1679217987,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 303148,
+        "num": 303148,
+        "word": "花32万买到全损事故车获退1赔3",
+        "onboard_time": 1679206768,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279511,
+        "num": 279511,
+        "word": "小伙求加薪被拒将老板工程车弃河",
+        "onboard_time": 1679218108,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400011,
+        "num": 274778,
+        "word": "青春环游记",
+        "onboard_time": 1679217327,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 354747,
+        "num": 267537,
+        "word": "米卡看房",
+        "onboard_time": 1679215588,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249364,
+        "num": 249364,
+        "word": "男子吐槽22元买大碗面一口就能吃完",
+        "onboard_time": 1679220148,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243277,
+        "num": 243277,
+        "word": "教育局回应家长发又有作业被踢出群聊",
+        "onboard_time": 1679208866,
+        "rank": 28,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 91351,
+        "num": 241935,
+        "word": "25岁小伙做鼻子整形失败毁容",
+        "onboard_time": 1679196146,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294983,
+        "num": 240309,
+        "word": "中戏老师如何评价张颂文",
+        "onboard_time": 1679218710,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279718,
+        "num": 239079,
+        "word": "卢正义哭了",
+        "onboard_time": 1679219007,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 277608,
+        "num": 236786,
+        "word": "新海诚上海简餐",
+        "onboard_time": 1679220208,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234916,
+        "num": 234916,
+        "word": "女篮李梦",
+        "onboard_time": 1679194767,
+        "rank": 33,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 219609,
+        "num": 219609,
+        "word": "男子现款买房被骗236万元",
+        "onboard_time": 1679212107,
+        "rank": 34,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 214313,
+        "num": 214313,
+        "word": "白雪公主女演员被指歧视华裔",
+        "onboard_time": 1679202208,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205695,
+        "num": 205695,
+        "word": "花琉璃轶闻",
+        "onboard_time": 1679217987,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 202270,
+        "num": 202270,
+        "word": "大学生写论文现状",
+        "onboard_time": 1679219727,
+        "rank": 37,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 186873,
+        "num": 186873,
+        "word": "博主多次曝光商家套路被央视点名表扬",
+        "onboard_time": 1679219848,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156324,
+        "num": 156324,
+        "word": "宗庆后称狂飙中AD钙奶不是广告植入",
+        "onboard_time": 1679206108,
+        "rank": 39,
+        "category": "财经,影视"
+      },
+      {
+        "raw_hot": 189037,
+        "num": 152171,
+        "word": "林智妍ins更新妍珍入狱照",
+        "onboard_time": 1679207188,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 183898,
+        "num": 150930,
+        "word": "JINNI或将签约YG黑厂",
+        "onboard_time": 1679210186,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146004,
+        "num": 146004,
+        "word": "2023年度总票房破150亿",
+        "onboard_time": 1679216728,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 137013,
+        "num": 137013,
+        "word": "妍珍小鸟",
+        "onboard_time": 1679212646,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135832,
+        "num": 135832,
+        "word": "科学家称终结者区或藏有外星生命",
+        "onboard_time": 1679220747,
+        "rank": 44,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 132809,
+        "num": 132809,
+        "word": "租房带不走的能不买就不买",
+        "onboard_time": 1679196747,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 131435,
+        "num": 131435,
+        "word": "厌食症女孩怕外婆担心增重15斤",
+        "onboard_time": 1679208148,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120533,
+        "num": 120533,
+        "word": "施柏宇晒Lisa舞台",
+        "onboard_time": 1679211446,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 110603,
+        "num": 110603,
+        "word": "女子丧偶式育儿身心俱疲起诉离婚",
+        "onboard_time": 1679199089,
+        "rank": 48,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 100855,
+        "num": 100855,
+        "word": "被00后的话震惊到了",
+        "onboard_time": 1679201009,
+        "rank": 49,
+        "category": "幽默,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#钢铁丝路好风光#"
+    }
+  }
+}
