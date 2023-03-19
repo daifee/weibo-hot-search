@@ -1,0 +1,410 @@
+{
+  "runTime": 1679264238493,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 309597,
+        "num": 309597,
+        "word": "泰国真的已经贵到去不起了吗",
+        "onboard_time": 1679239170,
+        "rank": 0,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 204509,
+        "num": 204509,
+        "word": "张兰回应海外欠债9.8亿",
+        "onboard_time": 1679237848,
+        "rank": 1,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 9742,
+        "num": 134451,
+        "word": "钢铁丝路好风光",
+        "onboard_time": 1679229987,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128576,
+        "num": 128576,
+        "word": "台湾日月潭九蛙叠像全部露出",
+        "onboard_time": 1679239712,
+        "rank": 3,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 95899,
+        "num": 95899,
+        "word": "女生为见偶像花花被骗1140元",
+        "onboard_time": 1679237491,
+        "rank": 4,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 94296,
+        "num": 94296,
+        "word": "台媒称马英九将赴大陆",
+        "onboard_time": 1679239290,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92865,
+        "num": 92865,
+        "word": "张译说准备尝试一下演李清照",
+        "onboard_time": 1679242705,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74122,
+        "num": 74122,
+        "word": "研究称男性也有最佳生育年龄",
+        "onboard_time": 1679236530,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69244,
+        "num": 69244,
+        "word": "巴萨vs皇马",
+        "onboard_time": 1679252173,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66796,
+        "num": 66796,
+        "word": "8箱芒果托运980女子当场吃完",
+        "onboard_time": 1679224887,
+        "rank": 9,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 103964,
+        "num": 65444,
+        "word": "张兰欠9.8亿未还家族信托被击穿",
+        "onboard_time": 1679229987,
+        "rank": 10,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 98386,
+        "num": 63881,
+        "word": "女子去年双11网购家具仍未发货",
+        "onboard_time": 1679255531,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88058,
+        "num": 63551,
+        "word": "玲娜贝儿",
+        "onboard_time": 1679231729,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 61825,
+        "num": 61825,
+        "word": "网曝重庆瑞鹏宠物医院医生虐待猫咪",
+        "onboard_time": 1679247377,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58689,
+        "num": 58689,
+        "word": "水瓶座到底在焦虑什么",
+        "onboard_time": 1679238153,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 47914,
+        "num": 47914,
+        "word": "TVB演员30秒被扇21个耳光",
+        "onboard_time": 1679240011,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47106,
+        "num": 47106,
+        "word": "狂飙李宏伟观战北京男篮",
+        "onboard_time": 1679238869,
+        "rank": 16,
+        "category": "体育,影视"
+      },
+      {
+        "raw_hot": 41937,
+        "num": 41937,
+        "word": "路炎晨邢克垒一路前邢",
+        "onboard_time": 1679232753,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 40066,
+        "num": 40066,
+        "word": "厕所看自己好看一些的原因",
+        "onboard_time": 1679235629,
+        "rank": 18,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 39705,
+        "num": 39705,
+        "word": "周星驰石榴姐聚餐",
+        "onboard_time": 1679230648,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81748,
+        "num": 38235,
+        "word": "为什么不建议年轻人去摆摊",
+        "onboard_time": 1679239229,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 35003,
+        "num": 35003,
+        "word": "克莉丝汀所有门店暂停运营",
+        "onboard_time": 1679225427,
+        "rank": 21,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 33963,
+        "num": 33963,
+        "word": "刘惜君状态",
+        "onboard_time": 1679232810,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 32753,
+        "num": 32753,
+        "word": "大麦向华晨宇方致歉",
+        "onboard_time": 1679238093,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32360,
+        "num": 32360,
+        "word": "丫丫吃上了新鲜竹子和辅食",
+        "onboard_time": 1679237668,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30562,
+        "num": 30562,
+        "word": "女子在缅遭绑哭喊我有两小孩",
+        "onboard_time": 1679213848,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30487,
+        "num": 30487,
+        "word": "黄奕曾以为言承旭演自己追求者",
+        "onboard_time": 1679236949,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28209,
+        "num": 28209,
+        "word": "白敬亭对井柏然说哥我错了下次还敢",
+        "onboard_time": 1679226328,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 27885,
+        "num": 27885,
+        "word": "樊振东卫冕男单冠军",
+        "onboard_time": 1679232810,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24355,
+        "num": 26491,
+        "word": "流浪地球2里代码公式都是来真的",
+        "onboard_time": 1679234791,
+        "rank": 29,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 25672,
+        "num": 25672,
+        "word": "女子撞脸黑暗荣耀特工大婶",
+        "onboard_time": 1679242824,
+        "rank": 30,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 25134,
+        "num": 25134,
+        "word": "内娱明星emoji简称",
+        "onboard_time": 1679234609,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24930,
+        "num": 24930,
+        "word": "微博之夜",
+        "onboard_time": 1679224408,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 24220,
+        "num": 24220,
+        "word": "王鹤棣杀青灯光秀",
+        "onboard_time": 1679244080,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 24178,
+        "num": 24178,
+        "word": "薛之谦衢州站第二场空降",
+        "onboard_time": 1679226508,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 24119,
+        "num": 24119,
+        "word": "网传浪姐4确定名单与待定名单",
+        "onboard_time": 1679231190,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23558,
+        "num": 23558,
+        "word": "九尾重现火舞打金蝉",
+        "onboard_time": 1679238451,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 23555,
+        "num": 23555,
+        "word": "一秒入夏的连衣裙",
+        "onboard_time": 1679263334,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 23042,
+        "num": 23042,
+        "word": "男子吐槽22元买大碗面一口就能吃完",
+        "onboard_time": 1679220148,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22948,
+        "num": 22948,
+        "word": "这小猫咪是犯人瘾了吧",
+        "onboard_time": 1679245399,
+        "rank": 39,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 22513,
+        "num": 22513,
+        "word": "白桃星座",
+        "onboard_time": 1679236589,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 20971,
+        "num": 20971,
+        "word": "AG打野",
+        "onboard_time": 1679229089,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 20549,
+        "num": 20549,
+        "word": "宋亚轩挑战与春天合拍视频",
+        "onboard_time": 1679242167,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20457,
+        "num": 20457,
+        "word": "新海诚上海简餐",
+        "onboard_time": 1679220208,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20034,
+        "num": 20034,
+        "word": "TTG春季赛三连胜",
+        "onboard_time": 1679242286,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 19827,
+        "num": 19827,
+        "word": "原来恐怖片配音是这样做的",
+        "onboard_time": 1679248275,
+        "rank": 45,
+        "category": "幽默,影视"
+      },
+      {
+        "raw_hot": 19605,
+        "num": 19605,
+        "word": "EDG这个龙王ban了吧",
+        "onboard_time": 1679220387,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 18934,
+        "num": 18934,
+        "word": "韩网友评价新海诚中韩工作餐",
+        "onboard_time": 1679219968,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 17203,
+        "num": 18932,
+        "word": "宋茜的泰国游玩vlog",
+        "onboard_time": 1679248695,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14991,
+        "num": 18905,
+        "word": "杨超越把宠物送养了",
+        "onboard_time": 1679217626,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#交通成为中国现代化的开路先锋#"
+    }
+  }
+}
