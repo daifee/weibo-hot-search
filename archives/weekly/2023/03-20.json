@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679257140604,
+  "endTime": 1679258019445,
   "band_list": [
     {
       "raw_hot": 1724841,
@@ -427,20 +427,20 @@
       "category": "幽默,影视"
     },
     {
+      "raw_hot": 53175,
+      "num": 19173,
+      "word": "女子去年双11网购家具仍未发货",
+      "onboard_time": 1679255531,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52458,
       "num": 52458,
       "word": "这小猫咪是犯人瘾了吧",
       "onboard_time": 1679245399,
       "rank": 45,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 40730,
-      "num": 19173,
-      "word": "女子去年双11网购家具仍未发货",
-      "onboard_time": 1679255531,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 39933,
