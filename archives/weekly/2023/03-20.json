@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679267889498,
+  "endTime": 1679268824255,
   "band_list": [
     {
       "raw_hot": 1724841,
@@ -19,8 +19,8 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 722944,
-      "num": 722944,
+      "raw_hot": 809683,
+      "num": 809683,
       "word": "张兰回应海外欠债9.8亿",
       "onboard_time": 1679237848,
       "rank": 4,
@@ -75,8 +75,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 465104,
-      "num": 465104,
+      "raw_hot": 536063,
+      "num": 536063,
       "word": "台湾日月潭九蛙叠像全部露出",
       "onboard_time": 1679239712,
       "rank": 13,
@@ -107,6 +107,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 408475,
+      "num": 184144,
+      "word": "2名未成年男生殴打侵犯11岁女孩",
+      "onboard_time": 1679267901,
+      "rank": 20,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 407714,
+      "num": 407714,
+      "word": "女子去年双11网购家具仍未发货",
+      "onboard_time": 1679255531,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 405041,
       "num": 405041,
       "word": "刘惜君状态",
@@ -121,14 +137,6 @@
       "onboard_time": 1679238869,
       "rank": 12,
       "category": "体育,影视"
-    },
-    {
-      "raw_hot": 362790,
-      "num": 362790,
-      "word": "女子去年双11网购家具仍未发货",
-      "onboard_time": 1679255531,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 328904,
@@ -187,6 +195,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 206411,
+      "num": 206411,
+      "word": "山东一港口汽车排队出海超壮观",
+      "onboard_time": 1679268081,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203314,
+      "num": 203314,
+      "word": "沈梦辰被微积分整晕了",
+      "onboard_time": 1679266277,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199447,
       "num": 199447,
       "word": "宋亚轩挑战与春天合拍视频",
@@ -209,6 +233,38 @@
       "onboard_time": 1679242824,
       "rank": 24,
       "category": "社会新闻,影视"
+    },
+    {
+      "raw_hot": 193181,
+      "num": 193181,
+      "word": "一秒入夏的连衣裙",
+      "onboard_time": 1679263334,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 189601,
+      "num": 189601,
+      "word": "路炎晨邢克垒一路前邢",
+      "onboard_time": 1679232753,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 184510,
+      "num": 184510,
+      "word": "美香",
+      "onboard_time": 1679268443,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179383,
+      "num": 129089,
+      "word": "贺峻霖投篮姿势",
+      "onboard_time": 1679268684,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 178962,
@@ -243,20 +299,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 171722,
-      "num": 171722,
-      "word": "路炎晨邢克垒一路前邢",
-      "onboard_time": 1679232753,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 166018,
       "num": 166018,
       "word": "内娱明星emoji简称",
       "onboard_time": 1679234609,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 164942,
+      "num": 164942,
+      "word": "凯西绝杀皇马",
+      "onboard_time": 1679267539,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 145797,
@@ -267,12 +323,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144544,
+      "num": 144544,
+      "word": "九连真人迷笛音乐节",
+      "onboard_time": 1679268443,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 144102,
       "num": 144102,
       "word": "邓某某伙同他人散布别人隐私被拘",
       "onboard_time": 1679231610,
       "rank": 32,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 143239,
+      "num": 128980,
+      "word": "今天国际幸福日",
+      "onboard_time": 1679268202,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 139549,
@@ -291,14 +363,6 @@
       "category": "社会新闻,影视"
     },
     {
-      "raw_hot": 138973,
-      "num": 138973,
-      "word": "一秒入夏的连衣裙",
-      "onboard_time": 1679263334,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 133612,
       "num": 133612,
       "word": "王鹤棣杀青灯光秀",
@@ -307,19 +371,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 129323,
+      "num": 129323,
+      "word": "你知道国际幸福日吗",
+      "onboard_time": 1679267901,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124239,
       "num": 124239,
       "word": "樊振东卫冕男单冠军",
       "onboard_time": 1679232810,
       "rank": 34,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 124102,
-      "num": 88444,
-      "word": "凯西绝杀皇马",
-      "onboard_time": 1679267539,
-      "rank": 30,
       "category": "体育"
     },
     {
@@ -337,14 +401,6 @@
       "onboard_time": 1679226508,
       "rank": 36,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 117383,
-      "num": 117383,
-      "word": "沈梦辰被微积分整晕了",
-      "onboard_time": 1679266277,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 115692,
@@ -403,6 +459,30 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 99166,
+      "num": 99166,
+      "word": "归路",
+      "onboard_time": 1679268623,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 99051,
+      "num": 99051,
+      "word": "曼联3比1富勒姆",
+      "onboard_time": 1679267901,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 96138,
+      "num": 96138,
+      "word": "这小猫咪是犯人瘾了吧",
+      "onboard_time": 1679245399,
+      "rank": 45,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 93096,
       "num": 93096,
       "word": "关晓彤哭戏路透",
@@ -411,12 +491,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 90402,
-      "num": 87293,
-      "word": "这小猫咪是犯人瘾了吧",
-      "onboard_time": 1679245399,
-      "rank": 45,
-      "category": "幽默,情感"
+      "raw_hot": 89287,
+      "num": 89287,
+      "word": "开启中俄友好合作共同发展新篇章",
+      "onboard_time": 1679268684,
+      "rank": 42,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 84689,
@@ -483,20 +563,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 38078,
+      "num": 719324,
+      "word": "钢铁丝路好风光",
+      "onboard_time": 1679229987,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34286,
       "num": 34286,
       "word": "樊振东马龙争夺冠军",
       "onboard_time": 1679228607,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 31900,
-      "num": 719324,
-      "word": "钢铁丝路好风光",
-      "onboard_time": 1679229987,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 30468,
