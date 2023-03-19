@@ -1,0 +1,410 @@
+{
+  "runTime": 1679222075549,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1299726,
+        "num": 1299726,
+        "word": "女子在缅遭绑哭喊我有两小孩",
+        "onboard_time": 1679213848,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 963083,
+        "num": 963083,
+        "word": "斗鱼回应36岁女子请假保胎遭辞退",
+        "onboard_time": 1679217448,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86287,
+        "num": 908646,
+        "word": "第一视角感受南海海上直升机救援",
+        "onboard_time": 1679213366,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2474982,
+        "num": 908129,
+        "word": "妮维雅",
+        "onboard_time": 1679220928,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 905970,
+        "num": 905970,
+        "word": "苏州杀夫女子已被警方控制",
+        "onboard_time": 1679211566,
+        "rank": 4,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 893067,
+        "num": 893067,
+        "word": "30岁极其接近理想中的18岁",
+        "onboard_time": 1679218710,
+        "rank": 5,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 886965,
+        "num": 886965,
+        "word": "瑞秋删中文评论",
+        "onboard_time": 1679209467,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 808290,
+        "num": 808290,
+        "word": "EDG这个龙王ban了吧",
+        "onboard_time": 1679220387,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 807381,
+        "num": 807381,
+        "word": "韩网友评价新海诚中韩工作餐",
+        "onboard_time": 1679219968,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 606308,
+        "num": 606308,
+        "word": "高龄产妇称遵医嘱请假被解聘",
+        "onboard_time": 1679216306,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 948185,
+        "num": 604682,
+        "word": "秦岚手机壳",
+        "onboard_time": 1679214446,
+        "rank": 10,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 857922,
+        "num": 602891,
+        "word": "杨超越把宠物送养了",
+        "onboard_time": 1679217626,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 594638,
+        "num": 594638,
+        "word": "王俊凯马上要进组了",
+        "onboard_time": 1679217626,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 552657,
+        "num": 552657,
+        "word": "男子吐槽22元买大碗面一口就能吃完",
+        "onboard_time": 1679220148,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 542183,
+        "num": 542183,
+        "word": "青春环游记4emoji阵容",
+        "onboard_time": 1679215768,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 529075,
+        "num": 529075,
+        "word": "微博之夜 好多人啊",
+        "onboard_time": 1679198068,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 509360,
+        "num": 509360,
+        "word": "聂小雨vs高启兰",
+        "onboard_time": 1679215350,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 471035,
+        "num": 471035,
+        "word": "窦靖童窦佳嫄聚会",
+        "onboard_time": 1679218288,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 396895,
+        "num": 396895,
+        "word": "不叠被子教",
+        "onboard_time": 1679217808,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 311025,
+        "num": 311025,
+        "word": "成都文殊院门前一对职业乞讨者被挂牌",
+        "onboard_time": 1679214748,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 467742,
+        "num": 310287,
+        "word": "徐明浩剧透国内行程",
+        "onboard_time": 1679219669,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 392533,
+        "num": 308149,
+        "word": "青春环游记",
+        "onboard_time": 1679217327,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 375309,
+        "num": 307472,
+        "word": "岳云鹏问极限挑战还录不录",
+        "onboard_time": 1679217987,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 304679,
+        "num": 304679,
+        "word": "大学生写论文现状",
+        "onboard_time": 1679219727,
+        "rank": 23,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 293710,
+        "num": 293710,
+        "word": "大熊猫用脚抠嘴遭奶爸吐槽不讲卫生",
+        "onboard_time": 1679212465,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356053,
+        "num": 286023,
+        "word": "马苏喝多了管宁浩叫大哥",
+        "onboard_time": 1679219727,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 300160,
+        "num": 282060,
+        "word": "王栎鑫紫色发带",
+        "onboard_time": 1679221589,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 266974,
+        "num": 266974,
+        "word": "小伙求加薪被拒将老板工程车弃河",
+        "onboard_time": 1679218108,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258841,
+        "num": 258841,
+        "word": "花32万买到全损事故车获退1赔3",
+        "onboard_time": 1679206768,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85883,
+        "num": 245810,
+        "word": "被00后退役小伙的变装惊艳了",
+        "onboard_time": 1679221648,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 578472,
+        "num": 244403,
+        "word": "新海诚上海简餐",
+        "onboard_time": 1679220208,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270629,
+        "num": 241311,
+        "word": "中戏老师如何评价张颂文",
+        "onboard_time": 1679218710,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237752,
+        "num": 237752,
+        "word": "米卡看房",
+        "onboard_time": 1679215588,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223780,
+        "num": 223780,
+        "word": "教育局回应家长发又有作业被踢出群聊",
+        "onboard_time": 1679208866,
+        "rank": 33,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 221775,
+        "num": 221775,
+        "word": "女篮李梦",
+        "onboard_time": 1679194767,
+        "rank": 34,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 226126,
+        "num": 218133,
+        "word": "虞书欣黑色连帽外套",
+        "onboard_time": 1679221769,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 209373,
+        "num": 209373,
+        "word": "卢正义哭了",
+        "onboard_time": 1679219007,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207232,
+        "num": 207232,
+        "word": "男子现款买房被骗236万元",
+        "onboard_time": 1679212107,
+        "rank": 37,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 188376,
+        "num": 203879,
+        "word": "FPX先下一城",
+        "onboard_time": 1679221648,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 165251,
+        "num": 202750,
+        "word": "博主多次曝光商家套路被央视点名表扬",
+        "onboard_time": 1679219848,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208943,
+        "num": 202462,
+        "word": "内娱顶级撕漫感",
+        "onboard_time": 1679222008,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 201895,
+        "num": 201895,
+        "word": "白雪公主女演员被指歧视华裔",
+        "onboard_time": 1679202208,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200376,
+        "num": 200376,
+        "word": "花琉璃轶闻",
+        "onboard_time": 1679217987,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 177433,
+        "num": 177433,
+        "word": "林智妍ins更新妍珍入狱照",
+        "onboard_time": 1679207188,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 168677,
+        "num": 168677,
+        "word": "JINNI或将签约YG黑厂",
+        "onboard_time": 1679210186,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160685,
+        "num": 160685,
+        "word": "Hero对战狼队",
+        "onboard_time": 1679221169,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 141967,
+        "num": 141967,
+        "word": "宗庆后称狂飙中AD钙奶不是广告植入",
+        "onboard_time": 1679206108,
+        "rank": 46,
+        "category": "财经,影视"
+      },
+      {
+        "raw_hot": 135688,
+        "num": 135688,
+        "word": "科学家称终结者区或藏有外星生命",
+        "onboard_time": 1679220747,
+        "rank": 47,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 127963,
+        "num": 127963,
+        "word": "厌食症女孩怕外婆担心增重15斤",
+        "onboard_time": 1679208148,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107926,
+        "num": 107926,
+        "word": "VG战胜WE",
+        "onboard_time": 1679221949,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#春天里的盛会#"
+    }
+  }
+}

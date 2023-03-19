@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679221142043,
+  "endTime": 1679222075549,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -441,6 +441,14 @@
       "onboard_time": 1677919706,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2474982,
+      "num": 908129,
+      "word": "妮维雅",
+      "onboard_time": 1679220928,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 2459613,
@@ -4307,6 +4315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 963083,
+      "num": 963083,
+      "word": "斗鱼回应36岁女子请假保胎遭辞退",
+      "onboard_time": 1679217448,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 960916,
       "num": 259227,
       "word": "潘玮柏的嫌弃不像是演的",
@@ -4449,14 +4465,6 @@
       "onboard_time": 1678583844,
       "rank": 1,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 942375,
-      "num": 942375,
-      "word": "斗鱼回应36岁女子请假保胎遭辞退",
-      "onboard_time": 1679217448,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 938747,
@@ -4795,6 +4803,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 893067,
+      "num": 893067,
+      "word": "30岁极其接近理想中的18岁",
+      "onboard_time": 1679218710,
+      "rank": 5,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 892387,
       "num": 483942,
       "word": "什么电视剧能拍到第15季",
@@ -4929,14 +4945,6 @@
       "onboard_time": 1678366588,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 876141,
-      "num": 876141,
-      "word": "30岁极其接近理想中的18岁",
-      "onboard_time": 1679218710,
-      "rank": 5,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 875230,
@@ -5675,12 +5683,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 808290,
+      "num": 808290,
+      "word": "EDG这个龙王ban了吧",
+      "onboard_time": 1679220387,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 807984,
       "num": 290225,
       "word": "废文",
       "onboard_time": 1678268548,
       "rank": 12,
       "category": "科技"
+    },
+    {
+      "raw_hot": 807381,
+      "num": 807381,
+      "word": "韩网友评价新海诚中韩工作餐",
+      "onboard_time": 1679219968,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 806658,
@@ -7035,14 +7059,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 709900,
-      "num": 709900,
-      "word": "妮维雅",
-      "onboard_time": 1679220928,
-      "rank": 8,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 709137,
       "num": 709137,
       "word": "忠犬八公主演是中华田园犬",
@@ -7633,14 +7649,6 @@
       "onboard_time": 1678729394,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 668495,
-      "num": 668495,
-      "word": "EDG这个龙王ban了吧",
-      "onboard_time": 1679220387,
-      "rank": 9,
-      "category": "游戏"
     },
     {
       "raw_hot": 668419,
@@ -9299,6 +9307,14 @@
       "category": "财经,科技"
     },
     {
+      "raw_hot": 578472,
+      "num": 244403,
+      "word": "新海诚上海简餐",
+      "onboard_time": 1679220208,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 578333,
       "num": 578333,
       "word": "满江红中国影史票房榜第6",
@@ -9987,6 +10003,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 552657,
+      "num": 552657,
+      "word": "男子吐槽22元买大碗面一口就能吃完",
+      "onboard_time": 1679220148,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 552158,
       "num": 552158,
       "word": "宋亚轩新歌是高姗填词",
@@ -10361,14 +10385,6 @@
       "onboard_time": 1677645393,
       "rank": 41,
       "category": "科技"
-    },
-    {
-      "raw_hot": 537709,
-      "num": 537709,
-      "word": "韩网友评价新海诚中韩工作餐",
-      "onboard_time": 1679219968,
-      "rank": 16,
-      "category": "影视"
     },
     {
       "raw_hot": 537630,
@@ -12387,6 +12403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 471035,
+      "num": 471035,
+      "word": "窦靖童窦佳嫄聚会",
+      "onboard_time": 1679218288,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 470941,
       "num": 374388,
       "word": "男生健身做200斤深蹲咬碎后槽牙",
@@ -13481,14 +13505,6 @@
       "onboard_time": 1677591451,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 430606,
-      "num": 331499,
-      "word": "窦靖童窦佳嫄聚会",
-      "onboard_time": 1679218288,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 430263,
@@ -18731,6 +18747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 304679,
+      "num": 304679,
+      "word": "大学生写论文现状",
+      "onboard_time": 1679219727,
+      "rank": 37,
+      "category": "幽默,教育"
+    },
+    {
       "raw_hot": 304156,
       "num": 304156,
       "word": "虞书欣像戴着袖套",
@@ -18921,6 +18945,14 @@
       "onboard_time": 1678008447,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 300160,
+      "num": 282060,
+      "word": "王栎鑫紫色发带",
+      "onboard_time": 1679221589,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 299312,
@@ -19140,7 +19172,7 @@
     },
     {
       "raw_hot": 294983,
-      "num": 240309,
+      "num": 241311,
       "word": "中戏老师如何评价张颂文",
       "onboard_time": 1679218710,
       "rank": 30,
@@ -19969,14 +20001,6 @@
       "onboard_time": 1677853648,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 277608,
-      "num": 236786,
-      "word": "新海诚上海简餐",
-      "onboard_time": 1679220208,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 277512,
@@ -21587,14 +21611,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 249364,
-      "num": 249364,
-      "word": "男子吐槽22元买大碗面一口就能吃完",
-      "onboard_time": 1679220148,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 249005,
       "num": 193272,
       "word": "邓超一口气炫冻梨",
@@ -23147,6 +23163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 226126,
+      "num": 218133,
+      "word": "虞书欣黑色连帽外套",
+      "onboard_time": 1679221769,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 226087,
       "num": 595058,
       "word": "我想和你唱再就业兄弟团",
@@ -24507,6 +24531,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 208943,
+      "num": 202462,
+      "word": "内娱顶级撕漫感",
+      "onboard_time": 1679222008,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 208874,
       "num": 208874,
       "word": "宋亚轩吵架戏",
@@ -25529,14 +25561,6 @@
       "onboard_time": 1677626061,
       "rank": 22,
       "category": "情感,社会新闻"
-    },
-    {
-      "raw_hot": 202270,
-      "num": 202270,
-      "word": "大学生写论文现状",
-      "onboard_time": 1679219727,
-      "rank": 37,
-      "category": "幽默,教育"
     },
     {
       "raw_hot": 202117,
@@ -27779,6 +27803,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 188376,
+      "num": 203879,
+      "word": "FPX先下一城",
+      "onboard_time": 1679221648,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 188363,
       "num": 188363,
       "word": "塞尔达传说王国之泪",
@@ -27964,7 +27996,7 @@
     },
     {
       "raw_hot": 186873,
-      "num": 186873,
+      "num": 202750,
       "word": "博主多次曝光商家套路被央视点名表扬",
       "onboard_time": 1679219848,
       "rank": 38,
@@ -30217,6 +30249,14 @@
       "onboard_time": 1678796009,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 160685,
+      "num": 160685,
+      "word": "Hero对战狼队",
+      "onboard_time": 1679221169,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 160468,
@@ -35091,6 +35131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 107926,
+      "num": 107926,
+      "word": "VG战胜WE",
+      "onboard_time": 1679221949,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 107863,
       "num": 107863,
       "word": "废弃三轮出现狗头大灯",
@@ -36409,6 +36457,14 @@
       "onboard_time": 1678977210,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 85883,
+      "num": 245810,
+      "word": "被00后退役小伙的变装惊艳了",
+      "onboard_time": 1679221648,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 85386,
