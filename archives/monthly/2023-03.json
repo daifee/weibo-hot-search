@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679229238977,
+  "endTime": 1679230276335,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -6667,6 +6667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 738573,
+      "num": 738573,
+      "word": "樊振东马龙争夺冠军",
+      "onboard_time": 1679145329,
+      "rank": 35,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 737975,
       "num": 737975,
       "word": "郑州大雪压塌6000平方米物流仓库",
@@ -7835,6 +7843,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 662104,
+      "num": 662104,
+      "word": "克莉丝汀所有门店暂停运营",
+      "onboard_time": 1679225427,
+      "rank": 49,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 662101,
       "num": 662101,
       "word": "乘风发布人 费翔",
@@ -8251,14 +8267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 644475,
-      "num": 644475,
-      "word": "克莉丝汀所有门店暂停运营",
-      "onboard_time": 1679225427,
-      "rank": 49,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 644094,
       "num": 471094,
       "word": "北京下雨",
@@ -8553,6 +8561,14 @@
       "onboard_time": 1678339408,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 625595,
+      "num": 219094,
+      "word": "张兰欠9.8亿未还家族信托被击穿",
+      "onboard_time": 1679229987,
+      "rank": 30,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 624710,
@@ -14155,14 +14171,6 @@
       "category": "科技,财经"
     },
     {
-      "raw_hot": 412551,
-      "num": 412551,
-      "word": "樊振东马龙争夺冠军",
-      "onboard_time": 1679145329,
-      "rank": 35,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 412536,
       "num": 229346,
       "word": "大江健三郎去世",
@@ -18123,6 +18131,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 318866,
+      "num": 318866,
+      "word": "王一博周日库存视频",
+      "onboard_time": 1679229149,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 318840,
       "num": 318840,
       "word": "苏州通报男子被爱猫人士控制殴打",
@@ -18803,6 +18819,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 306194,
+      "num": 306194,
+      "word": "孙颖莎大满贯女单夺冠",
+      "onboard_time": 1679229387,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 305787,
       "num": 305787,
       "word": "TVB直播网友建议讲粤语",
@@ -19201,14 +19225,6 @@
       "onboard_time": 1678944148,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 297790,
-      "num": 297790,
-      "word": "王一博周日库存视频",
-      "onboard_time": 1679229149,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 297653,
@@ -19657,6 +19673,14 @@
       "onboard_time": 1679060791,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 287096,
+      "num": 287096,
+      "word": "柯佳嬿想演文东恩妈妈",
+      "onboard_time": 1679229208,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 287092,
@@ -24699,6 +24723,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 208970,
+      "num": 208970,
+      "word": "AG打野",
+      "onboard_time": 1679229089,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 208874,
       "num": 208874,
       "word": "宋亚轩吵架戏",
@@ -25185,6 +25217,14 @@
       "onboard_time": 1678856852,
       "rank": 34,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 205243,
+      "num": 205243,
+      "word": "新海诚粉丝映后整活",
+      "onboard_time": 1679229089,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 205174,
@@ -26147,6 +26187,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 199894,
+      "num": 199894,
+      "word": "wtt",
+      "onboard_time": 1679229567,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199874,
       "num": 199874,
       "word": "他是谁首更4集连更9天",
@@ -26849,14 +26897,6 @@
       "onboard_time": 1678084707,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 195857,
-      "num": 195857,
-      "word": "柯佳嬿想演文东恩妈妈",
-      "onboard_time": 1679229208,
-      "rank": 35,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 195803,
@@ -27896,14 +27936,6 @@
       "word": "王勉吐槽王伟",
       "onboard_time": 1677768570,
       "rank": 34,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 188872,
-      "num": 188872,
-      "word": "新海诚粉丝映后整活",
-      "onboard_time": 1679229089,
-      "rank": 39,
       "category": "影视"
     },
     {
@@ -28979,6 +29011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 177162,
+      "num": 177162,
+      "word": "阿豆苏烈关键之绕",
+      "onboard_time": 1679230109,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 177064,
       "num": 167593,
       "word": "人间优雅黑天鹅",
@@ -29185,14 +29225,6 @@
       "onboard_time": 1679208087,
       "rank": 34,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 174879,
-      "num": 174879,
-      "word": "AG打野",
-      "onboard_time": 1679229089,
-      "rank": 42,
-      "category": "游戏"
     },
     {
       "raw_hot": 174760,
@@ -29409,6 +29441,14 @@
       "onboard_time": 1678845628,
       "rank": 39,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 172314,
+      "num": 172314,
+      "word": "leave 好好复盘",
+      "onboard_time": 1679228967,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 172289,
@@ -30475,6 +30515,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 160644,
+      "num": 160644,
+      "word": "教科书级别的吃戏有多绝",
+      "onboard_time": 1679226028,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 160468,
       "num": 238788,
       "word": "飞鲨歼15昼夜飞行有多帅",
@@ -30505,14 +30553,6 @@
       "onboard_time": 1678364307,
       "rank": 23,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 160273,
-      "num": 160273,
-      "word": "leave 好好复盘",
-      "onboard_time": 1679228967,
-      "rank": 45,
-      "category": "游戏"
     },
     {
       "raw_hot": 160204,
@@ -30867,14 +30907,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 156842,
-      "num": 156842,
-      "word": "教科书级别的吃戏有多绝",
-      "onboard_time": 1679226028,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
       "raw_hot": 156799,
       "num": 156799,
       "word": "lofter回应AI绘画功能遭质疑",
@@ -30897,6 +30929,14 @@
       "onboard_time": 1677663028,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 156499,
+      "num": 156499,
+      "word": "宫胁咲良唱YumeDeKissMe",
+      "onboard_time": 1679228847,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 156497,
@@ -31297,6 +31337,14 @@
       "onboard_time": 1678304471,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151354,
+      "num": 151354,
+      "word": "雅思组合夺全英第二冠",
+      "onboard_time": 1679230109,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 151196,
@@ -32153,14 +32201,6 @@
       "onboard_time": 1679215468,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 142923,
-      "num": 142923,
-      "word": "宫胁咲良唱YumeDeKissMe",
-      "onboard_time": 1679228847,
-      "rank": 49,
-      "category": "音乐"
     },
     {
       "raw_hot": 142842,
@@ -36875,6 +36915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 82569,
+      "num": 219243,
+      "word": "坐多久要起来动一动",
+      "onboard_time": 1679229927,
+      "rank": 29,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 82458,
       "num": 125742,
       "word": "上海街头惊现新欢角",
@@ -38289,6 +38337,14 @@
       "onboard_time": 1678749139,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 24097,
+      "num": 832857,
+      "word": "钢铁丝路好风光",
+      "onboard_time": 1679229987,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 23024,

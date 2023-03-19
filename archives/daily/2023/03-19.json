@@ -1,6 +1,6 @@
 {
   "startTime": 1679156607539,
-  "endTime": 1679229238977,
+  "endTime": 1679230276335,
   "band_list": [
     {
       "raw_hot": 3144800,
@@ -411,6 +411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 738573,
+      "num": 738573,
+      "word": "樊振东马龙争夺冠军",
+      "onboard_time": 1679145329,
+      "rank": 43,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 737590,
       "num": 737590,
       "word": "林智妍ins更新妍珍入狱照",
@@ -475,6 +483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 662104,
+      "num": 662104,
+      "word": "克莉丝汀所有门店暂停运营",
+      "onboard_time": 1679225427,
+      "rank": 49,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 651461,
       "num": 651461,
       "word": "宗庆后称狂飙中AD钙奶不是广告植入",
@@ -499,20 +515,20 @@
       "category": "作品衍生,幽默"
     },
     {
-      "raw_hot": 644475,
-      "num": 644475,
-      "word": "克莉丝汀所有门店暂停运营",
-      "onboard_time": 1679225427,
-      "rank": 49,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 634110,
       "num": 255300,
       "word": "重庆大学",
       "onboard_time": 1679186846,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 625595,
+      "num": 219094,
+      "word": "张兰欠9.8亿未还家族信托被击穿",
+      "onboard_time": 1679229987,
+      "rank": 30,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 574465,
@@ -763,14 +779,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 412551,
-      "num": 412551,
-      "word": "樊振东马龙争夺冠军",
-      "onboard_time": 1679145329,
-      "rank": 43,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 411666,
       "num": 411666,
       "word": "科学家公布首位女性艾滋病治愈者案例",
@@ -955,6 +963,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 318866,
+      "num": 318866,
+      "word": "王一博周日库存视频",
+      "onboard_time": 1679229149,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 316614,
       "num": 316614,
       "word": "吸熊猫",
@@ -969,6 +985,14 @@
       "onboard_time": 1679223869,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 306194,
+      "num": 306194,
+      "word": "孙颖莎大满贯女单夺冠",
+      "onboard_time": 1679229387,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 303790,
@@ -1003,14 +1027,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 297790,
-      "num": 297790,
-      "word": "王一博周日库存视频",
-      "onboard_time": 1679229149,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 294983,
       "num": 241311,
       "word": "中戏老师如何评价张颂文",
@@ -1033,6 +1049,14 @@
       "onboard_time": 1679210968,
       "rank": 49,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 287096,
+      "num": 287096,
+      "word": "柯佳嬿想演文东恩妈妈",
+      "onboard_time": 1679229208,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 283916,
@@ -1323,6 +1347,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 208970,
+      "num": 208970,
+      "word": "AG打野",
+      "onboard_time": 1679229089,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 205695,
       "num": 205695,
       "word": "花琉璃轶闻",
@@ -1339,6 +1371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205243,
+      "num": 205243,
+      "word": "新海诚粉丝映后整活",
+      "onboard_time": 1679229089,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 203560,
       "num": 203560,
       "word": "曹承衍 智齿比心",
@@ -1353,6 +1393,14 @@
       "onboard_time": 1679210006,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 199894,
+      "num": 199894,
+      "word": "wtt",
+      "onboard_time": 1679229567,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 199534,
@@ -1393,14 +1441,6 @@
       "onboard_time": 1679207787,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 195857,
-      "num": 195857,
-      "word": "柯佳嬿想演文东恩妈妈",
-      "onboard_time": 1679229208,
-      "rank": 35,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 195242,
@@ -1449,14 +1489,6 @@
       "onboard_time": 1679210727,
       "rank": 31,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 188872,
-      "num": 188872,
-      "word": "新海诚粉丝映后整活",
-      "onboard_time": 1679229089,
-      "rank": 39,
-      "category": "影视"
     },
     {
       "raw_hot": 188745,
@@ -1547,6 +1579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177162,
+      "num": 177162,
+      "word": "阿豆苏烈关键之绕",
+      "onboard_time": 1679230109,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 176415,
       "num": 176415,
       "word": "女子称离职被拒HR招人又招到自己",
@@ -1563,20 +1603,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 174879,
-      "num": 174879,
-      "word": "AG打野",
-      "onboard_time": 1679229089,
-      "rank": 42,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 173723,
       "num": 156439,
       "word": "苏州大学造黄谣学生与受害者对话曝光",
       "onboard_time": 1679121209,
       "rank": 37,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 172314,
+      "num": 172314,
+      "word": "leave 好好复盘",
+      "onboard_time": 1679228967,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 171103,
@@ -1675,12 +1715,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 160273,
-      "num": 160273,
-      "word": "leave 好好复盘",
-      "onboard_time": 1679228967,
-      "rank": 45,
-      "category": "游戏"
+      "raw_hot": 160644,
+      "num": 160644,
+      "word": "教科书级别的吃戏有多绝",
+      "onboard_time": 1679226028,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 158313,
@@ -1691,12 +1731,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 156842,
-      "num": 156842,
-      "word": "教科书级别的吃戏有多绝",
-      "onboard_time": 1679226028,
-      "rank": 46,
-      "category": "影视"
+      "raw_hot": 156499,
+      "num": 156499,
+      "word": "宫胁咲良唱YumeDeKissMe",
+      "onboard_time": 1679228847,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 156482,
@@ -1712,6 +1752,14 @@
       "word": "哈兰德两场8球",
       "onboard_time": 1679181437,
       "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 151354,
+      "num": 151354,
+      "word": "雅思组合夺全英第二冠",
+      "onboard_time": 1679230109,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -1769,14 +1817,6 @@
       "onboard_time": 1679215468,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 142923,
-      "num": 142923,
-      "word": "宫胁咲良唱YumeDeKissMe",
-      "onboard_time": 1679228847,
-      "rank": 49,
-      "category": "音乐"
     },
     {
       "raw_hot": 140381,
@@ -2107,6 +2147,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 82569,
+      "num": 219243,
+      "word": "坐多久要起来动一动",
+      "onboard_time": 1679229927,
+      "rank": 29,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 80773,
       "num": 80773,
       "word": "华为P60后置相机像考拉",
@@ -2193,6 +2241,14 @@
       "onboard_time": 1679161638,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 24097,
+      "num": 832857,
+      "word": "钢铁丝路好风光",
+      "onboard_time": 1679229987,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
