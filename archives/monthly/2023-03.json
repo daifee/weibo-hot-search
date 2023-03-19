@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679254400692,
+  "endTime": 1679257140604,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -38475,12 +38475,28 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 40730,
+      "num": 19173,
+      "word": "女子去年双11网购家具仍未发货",
+      "onboard_time": 1679255531,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40006,
       "num": 40006,
       "word": "建议高考外语降到100分",
       "onboard_time": 1677886340,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 39933,
+      "num": 39933,
+      "word": "巴萨vs皇马",
+      "onboard_time": 1679252173,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 39748,
@@ -38553,14 +38569,6 @@
       "onboard_time": 1677904287,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 35318,
-      "num": 35318,
-      "word": "巴萨vs皇马",
-      "onboard_time": 1679252173,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 34677,
