@@ -1,6 +1,6 @@
 {
   "startTime": 1679156607539,
-  "endTime": 1679196020767,
+  "endTime": 1679196826616,
   "band_list": [
     {
       "raw_hot": 3144800,
@@ -43,6 +43,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1400207,
+      "num": 1400207,
+      "word": "北京硕博毕业生人数首超本科生",
+      "onboard_time": 1679194107,
+      "rank": 49,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 1336084,
       "num": 559676,
       "word": "丫丫",
@@ -59,20 +67,12 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 1268025,
+      "raw_hot": 1271411,
       "num": 1087358,
       "word": "重庆大学回应男生偷拍女生",
       "onboard_time": 1679190266,
       "rank": 7,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1170414,
-      "num": 1170414,
-      "word": "北京硕博毕业生人数首超本科生",
-      "onboard_time": 1679194107,
-      "rank": 49,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1154007,
@@ -81,6 +81,14 @@
       "onboard_time": 1679191825,
       "rank": 10,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 1030555,
+      "num": 256891,
+      "word": "女篮李梦",
+      "onboard_time": 1679194767,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 978959,
@@ -107,12 +115,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 897317,
-      "num": 230648,
-      "word": "女篮李梦",
-      "onboard_time": 1679194767,
-      "rank": 20,
-      "category": "体育"
+      "raw_hot": 855995,
+      "num": 855995,
+      "word": "医学生吃烧烤花1小时解剖猪头",
+      "onboard_time": 1679195125,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 780232,
@@ -220,11 +228,19 @@
     },
     {
       "raw_hot": 485223,
-      "num": 386153,
+      "num": 446590,
       "word": "医院偶遇严浩翔看病",
       "onboard_time": 1679194406,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 479373,
+      "num": 479373,
+      "word": "Lisa演唱会新造型",
+      "onboard_time": 1679193446,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 475569,
@@ -236,19 +252,11 @@
     },
     {
       "raw_hot": 472428,
-      "num": 254192,
+      "num": 255674,
       "word": "95后夜市夫妻档算起收入笑了",
       "onboard_time": 1679191706,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 467601,
-      "num": 467601,
-      "word": "Lisa演唱会新造型",
-      "onboard_time": 1679193446,
-      "rank": 14,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 465859,
@@ -281,14 +289,6 @@
       "onboard_time": 1679145268,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 383591,
-      "num": 383591,
-      "word": "医学生吃烧烤花1小时解剖猪头",
-      "onboard_time": 1679195125,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 369700,
@@ -347,12 +347,28 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 318282,
+      "num": 318282,
+      "word": "大熊猫花花休假弟弟和叶成顶流",
+      "onboard_time": 1679195546,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 283162,
       "num": 267358,
       "word": "丁程鑫看李一桐毕雯珺夹气球的表情",
       "onboard_time": 1679153309,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 280509,
+      "num": 280509,
+      "word": "一文读懂苏大男生P图造黄谣事件",
+      "onboard_time": 1679195727,
+      "rank": 30,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 279098,
@@ -401,6 +417,14 @@
       "onboard_time": 1679185345,
       "rank": 19,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 263414,
+      "num": 263414,
+      "word": "25岁小伙做鼻子整形失败毁容",
+      "onboard_time": 1679196146,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 253605,
@@ -507,14 +531,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 201953,
-      "num": 162087,
-      "word": "一文读懂苏大男生P图造黄谣事件",
-      "onboard_time": 1679195727,
-      "rank": 30,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 199384,
       "num": 199384,
       "word": "阿信用AI发微博",
@@ -619,6 +635,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 169135,
+      "num": 169135,
+      "word": "勇士客场11连败",
+      "onboard_time": 1679195067,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 166585,
       "num": 166585,
       "word": "林俊杰黄贯中合唱海阔天空",
@@ -632,14 +656,6 @@
       "word": "何杰打破男子马拉松全国纪录",
       "onboard_time": 1679191825,
       "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 165931,
-      "num": 165931,
-      "word": "勇士客场11连败",
-      "onboard_time": 1679195067,
-      "rank": 29,
       "category": "体育"
     },
     {
@@ -689,14 +705,6 @@
       "onboard_time": 1679151091,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 134821,
-      "num": 134821,
-      "word": "大熊猫花花休假弟弟和叶成顶流",
-      "onboard_time": 1679195546,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 132729,
@@ -803,6 +811,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 97667,
+      "num": 97667,
+      "word": "租房带不走的能不买就不买",
+      "onboard_time": 1679196747,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 97531,
       "num": 97531,
       "word": "F1",
@@ -827,6 +843,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96683,
+      "num": 96683,
+      "word": "秦海璐走路气场",
+      "onboard_time": 1679196807,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 93235,
+      "num": 93235,
+      "word": "我相册里的大熊猫",
+      "onboard_time": 1679196085,
+      "rank": 44,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 93109,
       "num": 93109,
       "word": "王曼昱孙颖莎女双冠军",
@@ -849,6 +881,14 @@
       "onboard_time": 1679153249,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 88683,
+      "num": 88683,
+      "word": "重庆马拉松",
+      "onboard_time": 1679196565,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 86947,

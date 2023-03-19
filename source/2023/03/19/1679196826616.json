@@ -1,0 +1,410 @@
+{
+  "runTime": 1679196826616,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2580598,
+        "num": 2580598,
+        "word": "苏大恶意P图者被开除学籍",
+        "onboard_time": 1679183000,
+        "rank": 0,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1400207,
+        "num": 1400207,
+        "word": "北京硕博毕业生人数首超本科生",
+        "onboard_time": 1679194107,
+        "rank": 1,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 32396,
+        "num": 1349758,
+        "word": "这段跨越千年的对话令人骄傲又感动",
+        "onboard_time": 1679142929,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1341149,
+        "num": 1341149,
+        "word": "花三三回应",
+        "onboard_time": 1679183361,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1083084,
+        "num": 1083084,
+        "word": "袖珍老师嫁给9岁时就对她笑的男生",
+        "onboard_time": 1679191825,
+        "rank": 4,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 1035390,
+        "num": 1035390,
+        "word": "熊猫美香",
+        "onboard_time": 1679184143,
+        "rank": 5,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 855995,
+        "num": 855995,
+        "word": "医学生吃烧烤花1小时解剖猪头",
+        "onboard_time": 1679195125,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 611511,
+        "num": 611511,
+        "word": "入职第三天发现这公司算来对了",
+        "onboard_time": 1679188167,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 479373,
+        "num": 479373,
+        "word": "Lisa演唱会新造型",
+        "onboard_time": 1679193446,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 467002,
+        "num": 467002,
+        "word": "柯南 九转大肠",
+        "onboard_time": 1679185345,
+        "rank": 9,
+        "category": "动漫,综艺"
+      },
+      {
+        "raw_hot": 446590,
+        "num": 446590,
+        "word": "医院偶遇严浩翔看病",
+        "onboard_time": 1679194406,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 387001,
+        "num": 387001,
+        "word": "还原被造黄谣女生6个月调查时间线",
+        "onboard_time": 1679185524,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 364538,
+        "num": 364538,
+        "word": "科学家公布首位女性艾滋病治愈者案例",
+        "onboard_time": 1679192427,
+        "rank": 12,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 342489,
+        "num": 342489,
+        "word": "林允在机场滞留24小时",
+        "onboard_time": 1679182518,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 318282,
+        "num": 318282,
+        "word": "大熊猫花花休假弟弟和叶成顶流",
+        "onboard_time": 1679195546,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316245,
+        "num": 316245,
+        "word": "64岁男子为打工谎报年龄办假证被抓",
+        "onboard_time": 1679191107,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314244,
+        "num": 314244,
+        "word": "在暴雪时分返航成功海报",
+        "onboard_time": 1679193626,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 289898,
+        "num": 289898,
+        "word": "金智秀将出演虽然没准备什么菜",
+        "onboard_time": 1679189788,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 280509,
+        "num": 280509,
+        "word": "一文读懂苏大男生P图造黄谣事件",
+        "onboard_time": 1679195727,
+        "rank": 18,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 263414,
+        "num": 263414,
+        "word": "25岁小伙做鼻子整形失败毁容",
+        "onboard_time": 1679196146,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1030555,
+        "num": 256891,
+        "word": "女篮李梦",
+        "onboard_time": 1679194767,
+        "rank": 20,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 414160,
+        "num": 255674,
+        "word": "95后夜市夫妻档算起收入笑了",
+        "onboard_time": 1679191706,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237355,
+        "num": 237355,
+        "word": "宁安如梦后期 张凌赫必火",
+        "onboard_time": 1679183181,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 221084,
+        "num": 221084,
+        "word": "赵雷 我记得",
+        "onboard_time": 1679182761,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 218763,
+        "num": 218763,
+        "word": "失孤原型郭刚堂儿子结婚",
+        "onboard_time": 1679188407,
+        "rank": 24,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 215352,
+        "num": 215352,
+        "word": "男子不听民警劝说转账309万",
+        "onboard_time": 1679189188,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209430,
+        "num": 209430,
+        "word": "花三三卢靖姗合照",
+        "onboard_time": 1679138188,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 180081,
+        "num": 180081,
+        "word": "律师说造黄谣背后是对女性群体的歧视",
+        "onboard_time": 1679191584,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175414,
+        "num": 175414,
+        "word": "毛晓彤王子异CP感",
+        "onboard_time": 1679194586,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 169135,
+        "num": 169135,
+        "word": "勇士客场11连败",
+        "onboard_time": 1679195067,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1271411,
+        "num": 168956,
+        "word": "重庆大学回应男生偷拍女生",
+        "onboard_time": 1679190266,
+        "rank": 30,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 166567,
+        "num": 166567,
+        "word": "男子网恋1年多女友竟是好友老婆",
+        "onboard_time": 1679152948,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149462,
+        "num": 149462,
+        "word": "曹承衍 智齿比心",
+        "onboard_time": 1679189788,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136321,
+        "num": 136321,
+        "word": "沈月收到粉丝的隔空投送",
+        "onboard_time": 1679194647,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129666,
+        "num": 129666,
+        "word": "辛叡恩出演朴妍珍的原因",
+        "onboard_time": 1679185944,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 126985,
+        "num": 126985,
+        "word": "给猪喂的是我的减脂餐吧",
+        "onboard_time": 1679152892,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123149,
+        "num": 123149,
+        "word": "如何看待苏州大学对造谣学生处罚结果",
+        "onboard_time": 1679185345,
+        "rank": 36,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 114988,
+        "num": 114988,
+        "word": "海棠花",
+        "onboard_time": 1679182400,
+        "rank": 37,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 112109,
+        "num": 112109,
+        "word": "他叫王德发",
+        "onboard_time": 1679188707,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 109321,
+        "num": 109321,
+        "word": "被造黄谣女生决定不采取自诉",
+        "onboard_time": 1679136628,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102648,
+        "num": 102648,
+        "word": "花花教学版文明观国宝攻略",
+        "onboard_time": 1679191287,
+        "rank": 40,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 101409,
+        "num": 101409,
+        "word": "C罗任意球破门",
+        "onboard_time": 1679181257,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97667,
+        "num": 97667,
+        "word": "租房带不走的能不买就不买",
+        "onboard_time": 1679196747,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 96683,
+        "num": 96683,
+        "word": "秦海璐走路气场",
+        "onboard_time": 1679196807,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 93235,
+        "num": 93235,
+        "word": "我相册里的大熊猫",
+        "onboard_time": 1679196085,
+        "rank": 44,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 92741,
+        "num": 92741,
+        "word": "男子警示大会被铐走全场震惊",
+        "onboard_time": 1679158101,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92028,
+        "num": 92028,
+        "word": "何杰打破男子马拉松全国纪录",
+        "onboard_time": 1679191825,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90985,
+        "num": 90985,
+        "word": "心理素质不强上不了这课",
+        "onboard_time": 1679181678,
+        "rank": 47,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 89173,
+        "num": 89173,
+        "word": "山东乳山发现大型金矿床",
+        "onboard_time": 1679171531,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88683,
+        "num": 88683,
+        "word": "重庆马拉松",
+        "onboard_time": 1679196565,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#聚焦经济社会发展#"
+    }
+  }
+}
