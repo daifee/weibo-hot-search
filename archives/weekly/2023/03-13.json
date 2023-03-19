@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1679199732434,
+  "endTime": 1679200617196,
   "band_list": [
     {
       "raw_hot": 9458443,
@@ -91,6 +91,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 2989484,
+      "num": 1577434,
+      "word": "杀夫藏尸冰柜女子被父母劝说自首",
+      "onboard_time": 1679197167,
+      "rank": 3,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 2989114,
       "num": 1821715,
       "word": "苏州大学造黄谣学生与受害者对话曝光",
@@ -121,14 +129,6 @@
       "onboard_time": 1679107647,
       "rank": 34,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 2714317,
-      "num": 1577434,
-      "word": "杀夫藏尸冰柜女子被父母劝说自首",
-      "onboard_time": 1679197167,
-      "rank": 3,
-      "category": "社会负面"
     },
     {
       "raw_hot": 2712319,
@@ -827,8 +827,16 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 1366671,
+      "num": 639897,
+      "word": "孙俪大提琴考试过了",
+      "onboard_time": 1679198728,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1360818,
-      "num": 343178,
+      "num": 398992,
       "word": "女篮李梦",
       "onboard_time": 1679194767,
       "rank": 20,
@@ -1025,14 +1033,6 @@
       "onboard_time": 1678934245,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1181232,
-      "num": 568637,
-      "word": "孙俪大提琴考试过了",
-      "onboard_time": 1679198728,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1165434,
@@ -2643,6 +2643,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 707878,
+      "num": 707878,
+      "word": "陈芋汐全红婵断层式夺冠",
+      "onboard_time": 1679198968,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 707541,
       "num": 707541,
       "word": "莎头",
@@ -3051,6 +3059,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 648545,
+      "num": 648545,
+      "word": "租房带不走的能不买就不买",
+      "onboard_time": 1679196747,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 648214,
       "num": 648214,
       "word": "第一根辣条其实不叫辣条",
@@ -3100,7 +3116,7 @@
     },
     {
       "raw_hot": 642135,
-      "num": 554840,
+      "num": 602164,
       "word": "近9成网友认为苏大开除造谣者合理",
       "onboard_time": 1679198006,
       "rank": 11,
@@ -3537,14 +3553,6 @@
       "onboard_time": 1679049571,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 577640,
-      "num": 577640,
-      "word": "租房带不走的能不买就不买",
-      "onboard_time": 1679196747,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 576452,
@@ -4803,6 +4811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 457033,
+      "num": 457033,
+      "word": "HYBE艺人信息表",
+      "onboard_time": 1679198368,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 456569,
       "num": 456569,
       "word": "新海诚说喜欢罗小黑战记",
@@ -4825,6 +4841,14 @@
       "onboard_time": 1678931965,
       "rank": 11,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 454086,
+      "num": 454086,
+      "word": "吴磊回国吃油条",
+      "onboard_time": 1679200048,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 453920,
@@ -5009,14 +5033,6 @@
       "onboard_time": 1678675705,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 439144,
-      "num": 439144,
-      "word": "HYBE艺人信息表",
-      "onboard_time": 1679198368,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 439112,
@@ -5505,6 +5521,14 @@
       "onboard_time": 1679041228,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 406313,
+      "num": 406313,
+      "word": "女子丧偶式育儿身心俱疲起诉离婚",
+      "onboard_time": 1679199089,
+      "rank": 34,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 405438,
@@ -6579,14 +6603,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 334404,
-      "num": 334404,
-      "word": "陈芋汐全红婵断层式夺冠",
-      "onboard_time": 1679198968,
-      "rank": 21,
-      "category": "体育"
-    },
-    {
       "raw_hot": 333928,
       "num": 333928,
       "word": "苹果工程师在开发类ChatGPT人工智能",
@@ -6969,6 +6985,14 @@
       "onboard_time": 1678798893,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 311331,
+      "num": 311331,
+      "word": "吸熊猫",
+      "onboard_time": 1679199208,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 310830,
@@ -7377,6 +7401,14 @@
       "onboard_time": 1678789290,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 282823,
+      "num": 282823,
+      "word": "王心凌官宣微博之夜",
+      "onboard_time": 1679199687,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 282724,
@@ -9267,14 +9299,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 206300,
-      "num": 195923,
-      "word": "吸熊猫",
-      "onboard_time": 1679199208,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 206225,
       "num": 206225,
       "word": "王源胡子剧照",
@@ -9403,14 +9427,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 203706,
-      "num": 203706,
-      "word": "王心凌官宣微博之夜",
-      "onboard_time": 1679199687,
-      "rank": 28,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 203658,
       "num": 203658,
       "word": "水哥对世界充满了好奇心",
@@ -9513,6 +9529,14 @@
       "onboard_time": 1678876168,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 202323,
+      "num": 202323,
+      "word": "杭州近千人共创3米高樱花公仔",
+      "onboard_time": 1679199869,
+      "rank": 32,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 202053,
@@ -10987,14 +11011,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 166946,
-      "num": 166946,
-      "word": "女子丧偶式育儿身心俱疲起诉离婚",
-      "onboard_time": 1679199089,
-      "rank": 34,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 166533,
       "num": 166533,
       "word": "何杰打破男子马拉松全国纪录",
@@ -11889,6 +11905,14 @@
       "onboard_time": 1678670366,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139038,
+      "num": 139038,
+      "word": "檀健次模仿高启盛走路",
+      "onboard_time": 1679200168,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 138794,
@@ -12787,6 +12811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101589,
+      "num": 101589,
+      "word": "丁程鑫走秀现场",
+      "onboard_time": 1679200470,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 101136,
       "num": 101136,
       "word": "谭松韵归晓剧组碎片",
@@ -13211,6 +13243,14 @@
       "category": "科技,国内要闻"
     },
     {
+      "raw_hot": 69154,
+      "num": 2155551,
+      "word": "这就是春天里的中国",
+      "onboard_time": 1678628848,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 68199,
       "num": 68199,
       "word": "陈楚生成都巡演",
@@ -13249,14 +13289,6 @@
       "onboard_time": 1678948708,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 63306,
-      "num": 2155551,
-      "word": "这就是春天里的中国",
-      "onboard_time": 1678628848,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 61549,
