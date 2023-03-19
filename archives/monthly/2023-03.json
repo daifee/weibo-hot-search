@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679217449209,
+  "endTime": 1679218430846,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -1060,7 +1060,7 @@
     },
     {
       "raw_hot": 1851242,
-      "num": 464310,
+      "num": 533691,
       "word": "秦岚手机壳",
       "onboard_time": 1679214446,
       "rank": 10,
@@ -1624,6 +1624,14 @@
       "word": "事业单位HR嘲讽求职者简历",
       "onboard_time": 1678979609,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1571158,
+      "num": 1571158,
+      "word": "女子在缅遭绑哭喊我有两小孩",
+      "onboard_time": 1679213848,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -2233,14 +2241,6 @@
       "onboard_time": 1678496066,
       "rank": 9,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1364220,
-      "num": 1364220,
-      "word": "女子在缅遭绑哭喊我有两小孩",
-      "onboard_time": 1679213848,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1360818,
@@ -5571,6 +5571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 814711,
+      "num": 814711,
+      "word": "王俊凯马上要进组了",
+      "onboard_time": 1679217626,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 814621,
       "num": 769586,
       "word": "中国亿元资产家庭13.8万户",
@@ -6212,7 +6220,7 @@
     },
     {
       "raw_hot": 760805,
-      "num": 458461,
+      "num": 529451,
       "word": "米卡看房",
       "onboard_time": 1679215588,
       "rank": 11,
@@ -8441,6 +8449,14 @@
       "onboard_time": 1677808348,
       "rank": 13,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 622275,
+      "num": 622275,
+      "word": "高龄产妇称遵医嘱请假被解聘",
+      "onboard_time": 1679216306,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 622268,
@@ -10723,6 +10739,14 @@
       "category": "时尚,艺人"
     },
     {
+      "raw_hot": 521181,
+      "num": 521181,
+      "word": "杨超越把宠物送养了",
+      "onboard_time": 1679217626,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 521080,
       "num": 521080,
       "word": "香奈儿大秀",
@@ -11017,6 +11041,14 @@
       "onboard_time": 1678593626,
       "rank": 18,
       "category": "教育"
+    },
+    {
+      "raw_hot": 511146,
+      "num": 511146,
+      "word": "成都文殊院门前一对职业乞讨者被挂牌",
+      "onboard_time": 1679214748,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 510966,
@@ -12793,14 +12825,6 @@
       "onboard_time": 1678763126,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 451156,
-      "num": 451156,
-      "word": "成都文殊院门前一对职业乞讨者被挂牌",
-      "onboard_time": 1679214748,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 451043,
@@ -14739,6 +14763,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 388668,
+      "num": 177239,
+      "word": "斗鱼回应36岁女子请假保胎遭辞退",
+      "onboard_time": 1679217448,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 388651,
       "num": 345079,
       "word": "张元英wink镜头",
@@ -15168,6 +15200,14 @@
       "word": "2022微博之夜最期待的荧幕cp",
       "onboard_time": 1679017346,
       "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 378878,
+      "num": 378878,
+      "word": "岳云鹏问极限挑战还录不录",
+      "onboard_time": 1679217987,
+      "rank": 15,
       "category": "综艺"
     },
     {
@@ -15825,6 +15865,14 @@
       "onboard_time": 1679182761,
       "rank": 9,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 363149,
+      "num": 363149,
+      "word": "青春环游记",
+      "onboard_time": 1679217327,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 363022,
@@ -16905,14 +16953,6 @@
       "onboard_time": 1678801771,
       "rank": 23,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 342379,
-      "num": 342379,
-      "word": "高龄产妇称遵医嘱请假被解聘",
-      "onboard_time": 1679216306,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 342081,
@@ -24699,6 +24739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 206353,
+      "num": 206353,
+      "word": "不叠被子教",
+      "onboard_time": 1679217808,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 206225,
       "num": 206225,
       "word": "王源胡子剧照",
@@ -25217,14 +25265,6 @@
       "onboard_time": 1677734488,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 203183,
-      "num": 203183,
-      "word": "青春环游记",
-      "onboard_time": 1679217327,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 203179,
@@ -26835,6 +26875,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 193917,
+      "num": 189833,
+      "word": "花琉璃轶闻",
+      "onboard_time": 1678882889,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 193914,
       "num": 193914,
       "word": "亚洲电影大奖红毯",
@@ -27433,14 +27481,6 @@
       "onboard_time": 1678523366,
       "rank": 24,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 189833,
-      "num": 189833,
-      "word": "花琉璃轶闻",
-      "onboard_time": 1678882889,
-      "rank": 37,
-      "category": "影视"
     },
     {
       "raw_hot": 189796,
@@ -30745,6 +30785,14 @@
       "onboard_time": 1678957408,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152385,
+      "num": 133265,
+      "word": "窦靖童窦佳嫄聚会",
+      "onboard_time": 1679218288,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 152358,
@@ -34499,6 +34547,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 113163,
+      "num": 113163,
+      "word": "小伙求加薪被拒将老板工程车弃河",
+      "onboard_time": 1679218108,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112847,
       "num": 112847,
       "word": "出现耳鸣怎么办",
@@ -34857,6 +34913,14 @@
       "onboard_time": 1677829948,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 108126,
+      "num": 1333854,
+      "word": "第一视角感受南海海上直升机救援",
+      "onboard_time": 1679213366,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 108103,
@@ -35297,14 +35361,6 @@
       "onboard_time": 1678088366,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 103307,
-      "num": 1333854,
-      "word": "第一视角感受南海海上直升机救援",
-      "onboard_time": 1679213366,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 103270,
