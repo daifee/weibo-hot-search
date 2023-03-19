@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679244045236,
+  "endTime": 1679246144549,
   "band_list": [
     {
       "raw_hot": 1724841,
@@ -59,20 +59,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 562097,
+      "num": 562097,
+      "word": "张译说准备尝试一下演李清照",
+      "onboard_time": 1679242705,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 545519,
       "num": 545519,
       "word": "研究称男性也有最佳生育年龄",
       "onboard_time": 1679236530,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 542828,
-      "num": 542828,
-      "word": "张译说准备尝试一下演李清照",
-      "onboard_time": 1679242705,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 431792,
@@ -187,8 +187,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 194108,
-      "num": 194108,
+      "raw_hot": 195651,
+      "num": 195651,
       "word": "女子撞脸黑暗荣耀特工大婶",
       "onboard_time": 1679242824,
       "rank": 24,
@@ -265,6 +265,14 @@
       "onboard_time": 1679234791,
       "rank": 29,
       "category": "社会新闻,影视"
+    },
+    {
+      "raw_hot": 133612,
+      "num": 133612,
+      "word": "王鹤棣杀青灯光秀",
+      "onboard_time": 1679244080,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 124239,
@@ -401,6 +409,14 @@
       "onboard_time": 1679230950,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 48386,
+      "num": 48386,
+      "word": "这小猫咪是犯人瘾了吧",
+      "onboard_time": 1679245399,
+      "rank": 45,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 20144,
