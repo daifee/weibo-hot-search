@@ -1,6 +1,6 @@
 {
   "startTime": 1679156607539,
-  "endTime": 1679194124737,
+  "endTime": 1679194696387,
   "band_list": [
     {
       "raw_hot": 3144800,
@@ -19,8 +19,8 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 1880989,
-      "num": 1336483,
+      "raw_hot": 1928937,
+      "num": 1343496,
       "word": "迪丽热巴花三三合照",
       "onboard_time": 1679192968,
       "rank": 3,
@@ -35,8 +35,8 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 1380211,
-      "num": 1380211,
+      "raw_hot": 1509894,
+      "num": 1509894,
       "word": "花三三回应",
       "onboard_time": 1679183361,
       "rank": 1,
@@ -59,7 +59,7 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 1087358,
+      "raw_hot": 1207062,
       "num": 1087358,
       "word": "重庆大学回应男生偷拍女生",
       "onboard_time": 1679190266,
@@ -67,8 +67,8 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 1011751,
-      "num": 386070,
+      "raw_hot": 1017195,
+      "num": 1017195,
       "word": "袖珍老师嫁给9岁时就对她笑的男生",
       "onboard_time": 1679191825,
       "rank": 10,
@@ -212,7 +212,7 @@
     },
     {
       "raw_hot": 472428,
-      "num": 248535,
+      "num": 254192,
       "word": "95后夜市夫妻档算起收入笑了",
       "onboard_time": 1679191706,
       "rank": 20,
@@ -235,12 +235,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 411666,
+      "num": 411666,
+      "word": "科学家公布首位女性艾滋病治愈者案例",
+      "onboard_time": 1679192427,
+      "rank": 11,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 388585,
       "num": 388585,
       "word": "你好星期六下周有两对cp",
       "onboard_time": 1679145268,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 388347,
+      "num": 388347,
+      "word": "Lisa演唱会新造型",
+      "onboard_time": 1679193446,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 369142,
@@ -259,20 +275,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 360479,
+      "num": 360479,
+      "word": "64岁男子为打工谎报年龄办假证被抓",
+      "onboard_time": 1679191107,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 350751,
-      "num": 241413,
+      "num": 250564,
       "word": "男子不听民警劝说转账309万",
       "onboard_time": 1679189188,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 348996,
-      "num": 348996,
-      "word": "科学家公布首位女性艾滋病治愈者案例",
-      "onboard_time": 1679192427,
-      "rank": 11,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 348636,
@@ -291,20 +307,12 @@
       "category": "体育,网红"
     },
     {
-      "raw_hot": 324763,
-      "num": 324763,
-      "word": "Lisa演唱会新造型",
-      "onboard_time": 1679193446,
+      "raw_hot": 324303,
+      "num": 324303,
+      "word": "医院偶遇严浩翔看病",
+      "onboard_time": 1679194406,
       "rank": 14,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 324212,
-      "num": 324212,
-      "word": "64岁男子为打工谎报年龄办假证被抓",
-      "onboard_time": 1679191107,
-      "rank": 43,
-      "category": "社会新闻"
+      "category": "艺人"
     },
     {
       "raw_hot": 283162,
@@ -379,6 +387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 244798,
+      "num": 244798,
+      "word": "北京硕博毕业生人数首超本科生",
+      "onboard_time": 1679194107,
+      "rank": 49,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 243946,
       "num": 225529,
       "word": "李梦",
@@ -419,6 +435,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 220373,
+      "num": 220373,
+      "word": "在暴雪时分返航成功海报",
+      "onboard_time": 1679193626,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 215180,
       "num": 215180,
       "word": "黑暗荣耀",
@@ -433,6 +457,14 @@
       "onboard_time": 1679146228,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 212901,
+      "num": 212901,
+      "word": "律师说造黄谣背后是对女性群体的歧视",
+      "onboard_time": 1679191584,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 211659,
@@ -451,20 +483,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203560,
+      "num": 203560,
+      "word": "曹承衍 智齿比心",
+      "onboard_time": 1679189788,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199384,
       "num": 199384,
       "word": "阿信用AI发微博",
       "onboard_time": 1679150432,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 198941,
-      "num": 198941,
-      "word": "律师说造黄谣背后是对女性群体的歧视",
-      "onboard_time": 1679191584,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 198931,
@@ -475,28 +507,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 196205,
-      "num": 196205,
-      "word": "在暴雪时分返航成功海报",
-      "onboard_time": 1679193626,
-      "rank": 24,
-      "category": "影视"
-    },
-    {
       "raw_hot": 195240,
       "num": 195240,
       "word": "他叫王德发",
       "onboard_time": 1679188707,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 191685,
-      "num": 191685,
-      "word": "曹承衍 智齿比心",
-      "onboard_time": 1679189788,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 190495,
@@ -579,6 +595,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 166533,
+      "num": 166533,
+      "word": "何杰打破男子马拉松全国纪录",
+      "onboard_time": 1679191825,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 164589,
+      "num": 164589,
+      "word": "沈月收到粉丝的隔空投送",
+      "onboard_time": 1679194647,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 163647,
       "num": 163647,
       "word": "李健音乐会",
@@ -592,14 +624,6 @@
       "word": "哈兰德两场8球",
       "onboard_time": 1679181437,
       "rank": 39,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 152266,
-      "num": 152266,
-      "word": "何杰打破男子马拉松全国纪录",
-      "onboard_time": 1679191825,
-      "rank": 30,
       "category": "体育"
     },
     {
@@ -651,20 +675,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 128185,
+      "num": 128185,
+      "word": "花花教学版文明观国宝攻略",
+      "onboard_time": 1679191287,
+      "rank": 41,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 127400,
       "num": 127400,
       "word": "人真的不能不上班",
       "onboard_time": 1679126247,
       "rank": 39,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 125352,
-      "num": 125352,
-      "word": "花花教学版文明观国宝攻略",
-      "onboard_time": 1679191287,
-      "rank": 41,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 121485,
@@ -705,6 +729,14 @@
       "onboard_time": 1679181616,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 107835,
+      "num": 107835,
+      "word": "毛晓彤王子异CP感",
+      "onboard_time": 1679194586,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 104522,
@@ -756,7 +788,7 @@
     },
     {
       "raw_hot": 91624,
-      "num": 1339269,
+      "num": 1355706,
       "word": "这段跨越千年的对话令人骄傲又感动",
       "onboard_time": 1679142929,
       "rank": 2,
@@ -769,14 +801,6 @@
       "onboard_time": 1679153249,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 88136,
-      "num": 88136,
-      "word": "北京硕博毕业生人数首超本科生",
-      "onboard_time": 1679194107,
-      "rank": 49,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 86947,
