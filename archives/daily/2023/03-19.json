@@ -1,6 +1,6 @@
 {
   "startTime": 1679156607539,
-  "endTime": 1679194696387,
+  "endTime": 1679196020767,
   "band_list": [
     {
       "raw_hot": 3144800,
@@ -59,7 +59,7 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 1207062,
+      "raw_hot": 1268025,
       "num": 1087358,
       "word": "重庆大学回应男生偷拍女生",
       "onboard_time": 1679190266,
@@ -67,8 +67,16 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 1017195,
-      "num": 1017195,
+      "raw_hot": 1170414,
+      "num": 1170414,
+      "word": "北京硕博毕业生人数首超本科生",
+      "onboard_time": 1679194107,
+      "rank": 49,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 1154007,
+      "num": 1154007,
       "word": "袖珍老师嫁给9岁时就对她笑的男生",
       "onboard_time": 1679191825,
       "rank": 10,
@@ -97,6 +105,14 @@
       "onboard_time": 1679150791,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 897317,
+      "num": 230648,
+      "word": "女篮李梦",
+      "onboard_time": 1679194767,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 780232,
@@ -203,6 +219,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 485223,
+      "num": 386153,
+      "word": "医院偶遇严浩翔看病",
+      "onboard_time": 1679194406,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 475569,
       "num": 475569,
       "word": "特朗普自称将被捕",
@@ -217,6 +241,14 @@
       "onboard_time": 1679191706,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 467601,
+      "num": 467601,
+      "word": "Lisa演唱会新造型",
+      "onboard_time": 1679193446,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 465859,
@@ -251,12 +283,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 388347,
-      "num": 388347,
-      "word": "Lisa演唱会新造型",
-      "onboard_time": 1679193446,
-      "rank": 14,
-      "category": "作品衍生"
+      "raw_hot": 383591,
+      "num": 383591,
+      "word": "医学生吃烧烤花1小时解剖猪头",
+      "onboard_time": 1679195125,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 369700,
+      "num": 369700,
+      "word": "在暴雪时分返航成功海报",
+      "onboard_time": 1679193626,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 369142,
@@ -305,14 +345,6 @@
       "onboard_time": 1679120426,
       "rank": 20,
       "category": "体育,网红"
-    },
-    {
-      "raw_hot": 324303,
-      "num": 324303,
-      "word": "医院偶遇严浩翔看病",
-      "onboard_time": 1679194406,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 283162,
@@ -387,14 +419,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 244798,
-      "num": 244798,
-      "word": "北京硕博毕业生人数首超本科生",
-      "onboard_time": 1679194107,
-      "rank": 49,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 243946,
       "num": 225529,
       "word": "李梦",
@@ -433,14 +457,6 @@
       "onboard_time": 1679146048,
       "rank": 21,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 220373,
-      "num": 220373,
-      "word": "在暴雪时分返航成功海报",
-      "onboard_time": 1679193626,
-      "rank": 24,
-      "category": "影视"
     },
     {
       "raw_hot": 215180,
@@ -491,6 +507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 201953,
+      "num": 162087,
+      "word": "一文读懂苏大男生P图造黄谣事件",
+      "onboard_time": 1679195727,
+      "rank": 30,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 199384,
       "num": 199384,
       "word": "阿信用AI发微博",
@@ -521,6 +545,14 @@
       "onboard_time": 1679143708,
       "rank": 31,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 188745,
+      "num": 188745,
+      "word": "毛晓彤王子异CP感",
+      "onboard_time": 1679194586,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 187244,
@@ -603,6 +635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 165931,
+      "num": 165931,
+      "word": "勇士客场11连败",
+      "onboard_time": 1679195067,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 164589,
       "num": 164589,
       "word": "沈月收到粉丝的隔空投送",
@@ -649,6 +689,14 @@
       "onboard_time": 1679151091,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 134821,
+      "num": 134821,
+      "word": "大熊猫花花休假弟弟和叶成顶流",
+      "onboard_time": 1679195546,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132729,
@@ -731,12 +779,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 107835,
-      "num": 107835,
-      "word": "毛晓彤王子异CP感",
-      "onboard_time": 1679194586,
-      "rank": 48,
-      "category": "影视"
+      "raw_hot": 106600,
+      "num": 106600,
+      "word": "一时分不清是画还是蛋糕",
+      "onboard_time": 1679195366,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 104522,
