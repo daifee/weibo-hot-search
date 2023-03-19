@@ -1,6 +1,6 @@
 {
   "startTime": 1679156607539,
-  "endTime": 1679214950342,
+  "endTime": 1679217449209,
   "band_list": [
     {
       "raw_hot": 3144800,
@@ -59,6 +59,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1851242,
+      "num": 464310,
+      "word": "秦岚手机壳",
+      "onboard_time": 1679214446,
+      "rank": 10,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 1753171,
       "num": 908551,
       "word": "重庆大学贺某公开书面检讨",
@@ -97,6 +105,14 @@
       "onboard_time": 1679198728,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1364220,
+      "num": 1364220,
+      "word": "女子在缅遭绑哭喊我有两小孩",
+      "onboard_time": 1679213848,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1360818,
@@ -211,12 +227,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 873815,
+      "num": 873815,
+      "word": "青春环游记4emoji阵容",
+      "onboard_time": 1679215768,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 855995,
       "num": 855995,
       "word": "医学生吃烧烤花1小时解剖猪头",
       "onboard_time": 1679195125,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 802035,
+      "num": 802035,
+      "word": "聂小雨vs高启兰",
+      "onboard_time": 1679215350,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 780232,
@@ -235,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 760805,
+      "num": 458461,
+      "word": "米卡看房",
+      "onboard_time": 1679215588,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 746804,
       "num": 746804,
       "word": "租房带不走的能不买就不买",
@@ -249,14 +289,6 @@
       "onboard_time": 1679207188,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 731719,
-      "num": 444306,
-      "word": "秦岚手机壳",
-      "onboard_time": 1679214446,
-      "rank": 10,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 727307,
@@ -323,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 574465,
+      "num": 574465,
+      "word": "大熊猫用脚抠嘴遭奶爸吐槽不讲卫生",
+      "onboard_time": 1679212465,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 565308,
       "num": 565308,
       "word": "张颂文感谢不被大家看见的二十多年",
@@ -353,14 +393,6 @@
       "onboard_time": 1679182518,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 533831,
-      "num": 439646,
-      "word": "大熊猫用脚抠嘴遭奶爸吐槽不讲卫生",
-      "onboard_time": 1679212465,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 529981,
@@ -417,14 +449,6 @@
       "onboard_time": 1679152892,
       "rank": 5,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 494492,
-      "num": 429582,
-      "word": "女子在缅遭绑哭喊我有两小孩",
-      "onboard_time": 1679213848,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 487222,
@@ -505,6 +529,14 @@
       "onboard_time": 1679212107,
       "rank": 13,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 451156,
+      "num": 451156,
+      "word": "成都文殊院门前一对职业乞讨者被挂牌",
+      "onboard_time": 1679214748,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 444817,
@@ -635,6 +667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 342379,
+      "num": 342379,
+      "word": "高龄产妇称遵医嘱请假被解聘",
+      "onboard_time": 1679216306,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 329356,
       "num": 329356,
       "word": "瑞秋",
@@ -729,6 +769,14 @@
       "onboard_time": 1679138729,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 278134,
+      "num": 278134,
+      "word": "2023年度总票房破150亿",
+      "onboard_time": 1679216728,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 271640,
@@ -937,6 +985,14 @@
       "onboard_time": 1679189788,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 203183,
+      "num": 203183,
+      "word": "青春环游记",
+      "onboard_time": 1679217327,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 200920,
@@ -1251,6 +1307,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 142977,
+      "num": 126578,
+      "word": "张远鸟窝发型",
+      "onboard_time": 1679215468,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 140381,
       "num": 140381,
       "word": "周震南音乐节",
@@ -1347,14 +1411,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 122242,
-      "num": 122242,
-      "word": "成都文殊院门前一对职业乞讨者被挂牌",
-      "onboard_time": 1679214748,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 121485,
       "num": 121485,
       "word": "清融状态",
@@ -1395,6 +1451,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 114690,
+      "num": 114690,
+      "word": "银魂番外篇动画化",
+      "onboard_time": 1679215826,
+      "rank": 42,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 107863,
       "num": 107863,
       "word": "废弃三轮出现狗头大灯",
@@ -1433,6 +1497,14 @@
       "onboard_time": 1679212586,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 103307,
+      "num": 1333854,
+      "word": "第一视角感受南海海上直升机救援",
+      "onboard_time": 1679213366,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 101032,
@@ -1569,14 +1641,6 @@
       "onboard_time": 1679149354,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 77451,
-      "num": 1333854,
-      "word": "第一视角感受南海海上直升机救援",
-      "onboard_time": 1679213366,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 73185,

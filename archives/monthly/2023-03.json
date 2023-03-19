@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679214950342,
+  "endTime": 1679217449209,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -1057,6 +1057,14 @@
       "onboard_time": 1677984745,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1851242,
+      "num": 464310,
+      "word": "秦岚手机壳",
+      "onboard_time": 1679214446,
+      "rank": 10,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 1849041,
@@ -2225,6 +2233,14 @@
       "onboard_time": 1678496066,
       "rank": 9,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1364220,
+      "num": 1364220,
+      "word": "女子在缅遭绑哭喊我有两小孩",
+      "onboard_time": 1679213848,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1360818,
@@ -4923,6 +4939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 873815,
+      "num": 873815,
+      "word": "青春环游记4emoji阵容",
+      "onboard_time": 1679215768,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 873810,
       "num": 873810,
       "word": "微博之夜第四波阵容官宣",
@@ -5691,6 +5715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 802035,
+      "num": 802035,
+      "word": "聂小雨vs高启兰",
+      "onboard_time": 1679215350,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 801616,
       "num": 801616,
       "word": "全院加速中",
@@ -6179,6 +6211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 760805,
+      "num": 458461,
+      "word": "米卡看房",
+      "onboard_time": 1679215588,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 758844,
       "num": 758844,
       "word": "国足新帅正式亮相",
@@ -6601,14 +6641,6 @@
       "onboard_time": 1679047352,
       "rank": 7,
       "category": "动漫,艺人"
-    },
-    {
-      "raw_hot": 731719,
-      "num": 444306,
-      "word": "秦岚手机壳",
-      "onboard_time": 1679214446,
-      "rank": 10,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 730838,
@@ -9339,6 +9371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 574465,
+      "num": 574465,
+      "word": "大熊猫用脚抠嘴遭奶爸吐槽不讲卫生",
+      "onboard_time": 1679212465,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 574135,
       "num": 574135,
       "word": "建议随迁子女就地入学",
@@ -10320,14 +10360,6 @@
       "word": "鸡你太美商标无一注册成功",
       "onboard_time": 1678182449,
       "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 533831,
-      "num": 439646,
-      "word": "大熊猫用脚抠嘴遭奶爸吐槽不讲卫生",
-      "onboard_time": 1679212465,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -11457,14 +11489,6 @@
       "onboard_time": 1678462469,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 494492,
-      "num": 429582,
-      "word": "女子在缅遭绑哭喊我有两小孩",
-      "onboard_time": 1679213848,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 494434,
@@ -12769,6 +12793,14 @@
       "onboard_time": 1678763126,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 451156,
+      "num": 451156,
+      "word": "成都文殊院门前一对职业乞讨者被挂牌",
+      "onboard_time": 1679214748,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 451043,
@@ -16875,6 +16907,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 342379,
+      "num": 342379,
+      "word": "高龄产妇称遵医嘱请假被解聘",
+      "onboard_time": 1679216306,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 342081,
       "num": 303821,
       "word": "希林娜依高高定红毯造型",
@@ -19785,6 +19825,14 @@
       "onboard_time": 1678759164,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 278134,
+      "num": 278134,
+      "word": "2023年度总票房破150亿",
+      "onboard_time": 1679216728,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 278035,
@@ -25169,6 +25217,14 @@
       "onboard_time": 1677734488,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 203183,
+      "num": 203183,
+      "word": "青春环游记",
+      "onboard_time": 1679217327,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 203179,
@@ -31659,6 +31715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142977,
+      "num": 126578,
+      "word": "张远鸟窝发型",
+      "onboard_time": 1679215468,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 142842,
       "num": 142842,
       "word": "张杰未live巡回演唱会",
@@ -33691,14 +33755,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 122242,
-      "num": 122242,
-      "word": "成都文殊院门前一对职业乞讨者被挂牌",
-      "onboard_time": 1679214748,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 121974,
       "num": 121974,
       "word": "引起花粉过敏的元凶究竟是什么",
@@ -34233,6 +34289,14 @@
       "onboard_time": 1678007306,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 114690,
+      "num": 114690,
+      "word": "银魂番外篇动画化",
+      "onboard_time": 1679215826,
+      "rank": 42,
+      "category": "动漫"
     },
     {
       "raw_hot": 114684,
@@ -35233,6 +35297,14 @@
       "onboard_time": 1678088366,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 103307,
+      "num": 1333854,
+      "word": "第一视角感受南海海上直升机救援",
+      "onboard_time": 1679213366,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 103270,
@@ -36553,14 +36625,6 @@
       "onboard_time": 1677888385,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 77451,
-      "num": 1333854,
-      "word": "第一视角感受南海海上直升机救援",
-      "onboard_time": 1679213366,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 76972,
