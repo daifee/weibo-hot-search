@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679258019445,
+  "endTime": 1679260536226,
   "band_list": [
     {
       "raw_hot": 1724841,
@@ -419,20 +419,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 54305,
+      "num": 19173,
+      "word": "女子去年双11网购家具仍未发货",
+      "onboard_time": 1679255531,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 54195,
       "num": 54195,
       "word": "原来恐怖片配音是这样做的",
       "onboard_time": 1679248275,
       "rank": 19,
       "category": "幽默,影视"
-    },
-    {
-      "raw_hot": 53175,
-      "num": 19173,
-      "word": "女子去年双11网购家具仍未发货",
-      "onboard_time": 1679255531,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 52458,
