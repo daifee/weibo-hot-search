@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1679182439588,
+  "endTime": 1679190218317,
   "band_list": [
     {
       "raw_hot": 9458443,
@@ -67,12 +67,28 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 3144800,
+      "num": 3144800,
+      "word": "苏大恶意P图者被开除学籍",
+      "onboard_time": 1679183000,
+      "rank": 0,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 3119338,
       "num": 3119338,
       "word": "央视网谈孔乙己文学",
       "onboard_time": 1678943191,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3119034,
+      "num": 363097,
+      "word": "苏州一女子涉嫌杀夫后藏尸冰柜",
+      "onboard_time": 1679186124,
+      "rank": 10,
+      "category": "社会负面"
     },
     {
       "raw_hot": 2989114,
@@ -465,6 +481,14 @@
       "onboard_time": 1678800452,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1753171,
+      "num": 908551,
+      "word": "重庆大学贺某公开书面检讨",
+      "onboard_time": 1679187566,
+      "rank": 3,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1746617,
@@ -1235,6 +1259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1047555,
+      "num": 1047555,
+      "word": "花三三回应",
+      "onboard_time": 1679183361,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1038285,
       "num": 1038285,
       "word": "丫丫回国先到上海检疫",
@@ -1761,6 +1793,14 @@
       "onboard_time": 1679044353,
       "rank": 9,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 867070,
+      "num": 867070,
+      "word": "熊猫美香",
+      "onboard_time": 1679184143,
+      "rank": 4,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 865502,
@@ -2411,6 +2451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 727307,
+      "num": 727307,
+      "word": "还原被造黄谣女生6个月调查时间线",
+      "onboard_time": 1679185524,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 725556,
       "num": 453729,
       "word": "王一博工作室开通ins油管账号",
@@ -2473,6 +2521,14 @@
       "onboard_time": 1678754607,
       "rank": 5,
       "category": "科技"
+    },
+    {
+      "raw_hot": 715562,
+      "num": 715562,
+      "word": "柯南 九转大肠",
+      "onboard_time": 1679185345,
+      "rank": 6,
+      "category": "动漫,综艺"
     },
     {
       "raw_hot": 712820,
@@ -3203,6 +3259,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 605421,
+      "num": 362826,
+      "word": "入职第三天发现这公司算来对了",
+      "onboard_time": 1679188167,
+      "rank": 11,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 605098,
       "num": 605098,
       "word": "不得因怀孕辞退女职工",
@@ -3667,6 +3731,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 545209,
+      "num": 362350,
+      "word": "林允在机场滞留24小时",
+      "onboard_time": 1679182518,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 545080,
       "num": 500105,
       "word": "宋智雅重启演艺活动",
@@ -3825,6 +3897,14 @@
       "onboard_time": 1678717229,
       "rank": 18,
       "category": "财经"
+    },
+    {
+      "raw_hot": 521463,
+      "num": 521463,
+      "word": "失孤原型郭刚堂儿子结婚",
+      "onboard_time": 1679188407,
+      "rank": 7,
+      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 520948,
@@ -5795,6 +5875,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 363255,
+      "num": 363255,
+      "word": "赵雷 我记得",
+      "onboard_time": 1679182761,
+      "rank": 9,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 362941,
       "num": 401816,
       "word": "华为P60发布时间官宣",
@@ -5809,6 +5897,14 @@
       "onboard_time": 1678671924,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 361823,
+      "num": 361823,
+      "word": "宁安如梦后期 张凌赫必火",
+      "onboard_time": 1679183181,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 361118,
@@ -6073,6 +6169,14 @@
       "onboard_time": 1678844730,
       "rank": 20,
       "category": "教育"
+    },
+    {
+      "raw_hot": 345537,
+      "num": 345537,
+      "word": "金智秀将出演虽然没准备什么菜",
+      "onboard_time": 1679189788,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 345240,
@@ -7451,6 +7555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 264916,
+      "num": 264916,
+      "word": "如何看待苏州大学对造谣学生处罚结果",
+      "onboard_time": 1679185345,
+      "rank": 19,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 264830,
       "num": 264830,
       "word": "杨紫粉丝娱乐白皮书寄语",
@@ -7771,6 +7883,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 247837,
+      "num": 247837,
+      "word": "辛叡恩出演朴妍珍的原因",
+      "onboard_time": 1679185944,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 247194,
       "num": 247194,
       "word": "迪丽热巴流光闪烁花絮",
@@ -7923,6 +8043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 241413,
+      "num": 241413,
+      "word": "男子不听民警劝说转账309万",
+      "onboard_time": 1679189188,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 240890,
       "num": 240890,
       "word": "韩流男神们近照",
@@ -8049,6 +8177,14 @@
       "onboard_time": 1678664601,
       "rank": 28,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 234944,
+      "num": 234944,
+      "word": "吴奇隆拍的布达拉宫",
+      "onboard_time": 1679183782,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 234491,
@@ -8305,6 +8441,14 @@
       "onboard_time": 1679036548,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 229342,
+      "num": 229342,
+      "word": "心理素质不强上不了这课",
+      "onboard_time": 1679181678,
+      "rank": 31,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 229044,
@@ -8659,6 +8803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 215290,
+      "num": 215290,
+      "word": "他用了6麻袋草稿纸攻克世界数学难题",
+      "onboard_time": 1679182941,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 213877,
       "num": 213877,
       "word": "迪丽热巴黑西装裙花絮",
@@ -8937,6 +9089,14 @@
       "onboard_time": 1678768053,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 205516,
+      "num": 205516,
+      "word": "唐嫣鸭舌帽随拍",
+      "onboard_time": 1679185285,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 205443,
@@ -9539,6 +9699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 195240,
+      "num": 195240,
+      "word": "他叫王德发",
+      "onboard_time": 1679188707,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 194996,
       "num": 194996,
       "word": "心想事成",
@@ -9971,6 +10139,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 187244,
+      "num": 187244,
+      "word": "自行车怕被偷与警车锁在一起",
+      "onboard_time": 1679168653,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187145,
       "num": 187145,
       "word": "火箭战胜湖人",
@@ -9985,6 +10161,14 @@
       "onboard_time": 1679008700,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 186832,
+      "num": 186832,
+      "word": "曹承衍 智齿比心",
+      "onboard_time": 1679189788,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 186501,
@@ -10219,6 +10403,14 @@
       "category": "艺人,影视"
     },
     {
+      "raw_hot": 178224,
+      "num": 178224,
+      "word": "C罗任意球破门",
+      "onboard_time": 1679181257,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177984,
       "num": 177984,
       "word": "陈都灵云之羽蓝衣",
@@ -10329,14 +10521,6 @@
       "onboard_time": 1679041288,
       "rank": 36,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 175363,
-      "num": 175363,
-      "word": "自行车怕被偷与警车锁在一起",
-      "onboard_time": 1679168653,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 175301,
@@ -10467,14 +10651,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 169704,
-      "num": 169704,
-      "word": "C罗任意球破门",
-      "onboard_time": 1679181257,
-      "rank": 21,
-      "category": "体育"
-    },
-    {
       "raw_hot": 169620,
       "num": 169620,
       "word": "90后男演员原声台词大赏",
@@ -10513,6 +10689,14 @@
       "onboard_time": 1679019089,
       "rank": 37,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 169173,
+      "num": 169173,
+      "word": "海棠花",
+      "onboard_time": 1679182400,
+      "rank": 43,
+      "category": "自然"
     },
     {
       "raw_hot": 169114,
@@ -10921,6 +11105,14 @@
       "onboard_time": 1678842749,
       "rank": 43,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 153919,
+      "num": 153919,
+      "word": "哈兰德两场8球",
+      "onboard_time": 1679181437,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 153591,
@@ -11731,6 +11923,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 130394,
+      "num": 130394,
+      "word": "BLACKPINK演唱会彩排退场方式",
+      "onboard_time": 1679188767,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 129832,
       "num": 129832,
       "word": "瞬息全宇宙奥斯卡最佳影片",
@@ -11939,6 +12139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120958,
+      "num": 120958,
+      "word": "薛之谦提醒粉丝天冷加衣",
+      "onboard_time": 1679184803,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 120501,
       "num": 120501,
       "word": "一张照片留住春天",
@@ -11968,6 +12176,14 @@
       "word": "张纯烨说大多数人拒绝情绪化的另一半",
       "onboard_time": 1678840649,
       "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 118908,
+      "num": 118908,
+      "word": "秦霄贤的理想型",
+      "onboard_time": 1679188767,
+      "rank": 41,
       "category": "综艺"
     },
     {
@@ -12243,14 +12459,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 103899,
-      "num": 67783,
-      "word": "哈兰德两场8球",
-      "onboard_time": 1679181437,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 102342,
       "num": 102342,
       "word": "为什么容易失眠",
@@ -12435,6 +12643,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 86423,
+      "num": 86423,
+      "word": "这猫真的不是人变得吗",
+      "onboard_time": 1679159720,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 86091,
       "num": 114011,
       "word": "原来真能雇人吵架啊",
@@ -12473,6 +12689,14 @@
       "onboard_time": 1679025330,
       "rank": 14,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 83484,
+      "num": 83484,
+      "word": "朱志鑫黑卫衣棒球帽造型",
+      "onboard_time": 1679187866,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 82880,
@@ -12627,14 +12851,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 71474,
-      "num": 67718,
-      "word": "心理素质不强上不了这课",
-      "onboard_time": 1679181678,
-      "rank": 31,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 71297,
       "num": 1577782,
       "word": "震撼航拍感受大漠生态治沙",
@@ -12665,14 +12881,6 @@
       "onboard_time": 1679009362,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 67553,
-      "num": 67553,
-      "word": "这猫真的不是人变得吗",
-      "onboard_time": 1679159720,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 66415,
@@ -12857,14 +13065,6 @@
       "onboard_time": 1678791631,
       "rank": 14,
       "category": "情感"
-    },
-    {
-      "raw_hot": 48397,
-      "num": 48397,
-      "word": "海棠花",
-      "onboard_time": 1679182400,
-      "rank": 43,
-      "category": "自然"
     },
     {
       "raw_hot": 47169,
