@@ -1,0 +1,410 @@
+{
+  "runTime": 1679214120543,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2143544,
+        "num": 2143544,
+        "word": "瑞秋删中文评论",
+        "onboard_time": 1679209467,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1424777,
+        "num": 1424777,
+        "word": "苏州杀夫女子已被警方控制",
+        "onboard_time": 1679211566,
+        "rank": 1,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 49100,
+        "num": 1333854,
+        "word": "第一视角感受南海海上直升机救援",
+        "onboard_time": 1679213366,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1314384,
+        "num": 1314384,
+        "word": "微博之夜 好多人啊",
+        "onboard_time": 1679198068,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 983916,
+        "num": 983916,
+        "word": "教育局回应家长发又有作业被踢出群聊",
+        "onboard_time": 1679208866,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 754458,
+        "num": 754458,
+        "word": "花32万买到全损事故车获退1赔3",
+        "onboard_time": 1679206768,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 544546,
+        "num": 544546,
+        "word": "白雪公主女演员被指歧视华裔",
+        "onboard_time": 1679202208,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 510787,
+        "num": 510787,
+        "word": "游客私闯熊猫园逗引大熊猫",
+        "onboard_time": 1679209707,
+        "rank": 7,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 510438,
+        "num": 510438,
+        "word": "林智妍ins更新妍珍入狱照",
+        "onboard_time": 1679207188,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 478624,
+        "num": 478624,
+        "word": "JINNI或将签约YG黑厂",
+        "onboard_time": 1679210186,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 418346,
+        "num": 418346,
+        "word": "租房带不走的能不买就不买",
+        "onboard_time": 1679196747,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 416034,
+        "num": 416034,
+        "word": "宗庆后称狂飙中AD钙奶不是广告植入",
+        "onboard_time": 1679206108,
+        "rank": 11,
+        "category": "财经,影视"
+      },
+      {
+        "raw_hot": 389532,
+        "num": 389532,
+        "word": "妍珍小鸟",
+        "onboard_time": 1679212646,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 375439,
+        "num": 375439,
+        "word": "男子现款买房被骗236万元",
+        "onboard_time": 1679212107,
+        "rank": 13,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 362458,
+        "num": 362458,
+        "word": "大熊猫用脚抠嘴遭奶爸吐槽不讲卫生",
+        "onboard_time": 1679212465,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353818,
+        "num": 353818,
+        "word": "微博之夜明星眼神杀",
+        "onboard_time": 1679208566,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 304801,
+        "num": 304801,
+        "word": "孙俪大提琴考试过了",
+        "onboard_time": 1679198728,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 296018,
+        "num": 296018,
+        "word": "张颂文感谢不被大家看见的二十多年",
+        "onboard_time": 1679204307,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289171,
+        "num": 289171,
+        "word": "唐山动物园回应游客翻进熊猫园区",
+        "onboard_time": 1679210968,
+        "rank": 18,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 272142,
+        "num": 272142,
+        "word": "施柏宇晒Lisa舞台",
+        "onboard_time": 1679211446,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 614284,
+        "num": 269372,
+        "word": "女篮李梦",
+        "onboard_time": 1679194767,
+        "rank": 20,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 303117,
+        "num": 267847,
+        "word": "厌食症女孩怕外婆担心增重15斤",
+        "onboard_time": 1679208148,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265764,
+        "num": 265764,
+        "word": "宋轶沙滩随拍",
+        "onboard_time": 1679212766,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250195,
+        "num": 250195,
+        "word": "孙怡秦霄贤身高对比",
+        "onboard_time": 1679208267,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247912,
+        "num": 247912,
+        "word": "吴磊回国吃油条",
+        "onboard_time": 1679200048,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239045,
+        "num": 239045,
+        "word": "被00后的话震惊到了",
+        "onboard_time": 1679201009,
+        "rank": 25,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 233358,
+        "num": 233358,
+        "word": "美香一家或于年底回国",
+        "onboard_time": 1679207846,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222505,
+        "num": 222505,
+        "word": "女子丧偶式育儿身心俱疲起诉离婚",
+        "onboard_time": 1679199089,
+        "rank": 27,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 221122,
+        "num": 221122,
+        "word": "范丞丞戴耳环",
+        "onboard_time": 1679213486,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 211891,
+        "num": 211891,
+        "word": "25岁小伙做鼻子整形失败毁容",
+        "onboard_time": 1679196146,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210978,
+        "num": 210978,
+        "word": "华晨宇杭州成都4场门票售罄",
+        "onboard_time": 1679212706,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 196681,
+        "num": 196681,
+        "word": "金玟庭GISELLE手势舞",
+        "onboard_time": 1679210186,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 194315,
+        "num": 194315,
+        "word": "滔搏选手为什么在KSG",
+        "onboard_time": 1679209407,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 183960,
+        "num": 183960,
+        "word": "苏大恶意P图者被开除学籍",
+        "onboard_time": 1679183000,
+        "rank": 33,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 180530,
+        "num": 180530,
+        "word": "医学生吃烧烤花1小时解剖猪头",
+        "onboard_time": 1679195125,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165925,
+        "num": 165925,
+        "word": "大熊猫花花休假弟弟和叶成顶流",
+        "onboard_time": 1679195546,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164646,
+        "num": 164646,
+        "word": "女生应聘被HR称不是校长喜欢类型",
+        "onboard_time": 1679202567,
+        "rank": 36,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 159239,
+        "num": 159239,
+        "word": "张馨予为他是谁打call",
+        "onboard_time": 1679209407,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 151153,
+        "num": 151153,
+        "word": "霉霉换衣服",
+        "onboard_time": 1679202688,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 147784,
+        "num": 147784,
+        "word": "北京硕博毕业生人数首超本科生",
+        "onboard_time": 1679194107,
+        "rank": 39,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 146332,
+        "num": 146332,
+        "word": "新疆禁毒揭示化身奶茶的毒品",
+        "onboard_time": 1679208747,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143194,
+        "num": 143194,
+        "word": "女子在缅遭绑哭喊我有两小孩",
+        "onboard_time": 1679213848,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138739,
+        "num": 138739,
+        "word": "近9成网友认为苏大开除造谣者合理",
+        "onboard_time": 1679198006,
+        "rank": 42,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 131072,
+        "num": 131072,
+        "word": "江西一银行柜员挪用储户200万赌博",
+        "onboard_time": 1679201848,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127152,
+        "num": 127152,
+        "word": "陈芋汐全红婵断层式夺冠",
+        "onboard_time": 1679198968,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125717,
+        "num": 125717,
+        "word": "T1拿下NS",
+        "onboard_time": 1679211086,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 121085,
+        "num": 121085,
+        "word": "学院风的尽头是老头衫",
+        "onboard_time": 1679198006,
+        "rank": 46,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 114262,
+        "num": 114262,
+        "word": "一文读懂苏大男生P图造黄谣事件",
+        "onboard_time": 1679195727,
+        "rank": 47,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 112227,
+        "num": 112227,
+        "word": "光影重叠下的刘诗诗",
+        "onboard_time": 1679208087,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 104259,
+        "num": 104259,
+        "word": "许凯微博之夜VCR",
+        "onboard_time": 1679212586,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#春天里的盛会#"
+    }
+  }
+}

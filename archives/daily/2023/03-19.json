@@ -1,6 +1,6 @@
 {
   "startTime": 1679156607539,
-  "endTime": 1679211195093,
+  "endTime": 1679214120543,
   "band_list": [
     {
       "raw_hot": 3144800,
@@ -73,6 +73,14 @@
       "onboard_time": 1679183361,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1424777,
+      "num": 1424777,
+      "word": "苏州杀夫女子已被警方控制",
+      "onboard_time": 1679211566,
+      "rank": 1,
+      "category": "社会负面"
     },
     {
       "raw_hot": 1400207,
@@ -155,6 +163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 983916,
+      "num": 983916,
+      "word": "教育局回应家长发又有作业被踢出群聊",
+      "onboard_time": 1679208866,
+      "rank": 10,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 978959,
       "num": 536852,
       "word": "男子网恋1年多女友竟是好友老婆",
@@ -217,14 +233,6 @@
       "onboard_time": 1679207846,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 770703,
-      "num": 770703,
-      "word": "教育局回应家长发又有作业被踢出群聊",
-      "onboard_time": 1679208866,
-      "rank": 10,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 746804,
@@ -379,6 +387,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 510787,
+      "num": 510787,
+      "word": "游客私闯熊猫园逗引大熊猫",
+      "onboard_time": 1679209707,
+      "rank": 45,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 509628,
       "num": 509628,
       "word": "给猪喂的是我的减脂餐吧",
@@ -491,12 +507,28 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 389532,
+      "num": 389532,
+      "word": "妍珍小鸟",
+      "onboard_time": 1679212646,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 388585,
       "num": 388585,
       "word": "你好星期六下周有两对cp",
       "onboard_time": 1679145268,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 375439,
+      "num": 375439,
+      "word": "男子现款买房被骗236万元",
+      "onboard_time": 1679212107,
+      "rank": 13,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 369700,
@@ -537,6 +569,14 @@
       "onboard_time": 1679182761,
       "rank": 9,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 362458,
+      "num": 362458,
+      "word": "大熊猫用脚抠嘴遭奶爸吐槽不讲卫生",
+      "onboard_time": 1679212465,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 360479,
@@ -619,7 +659,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 302949,
+      "raw_hot": 303117,
       "num": 269931,
       "word": "厌食症女孩怕外婆担心增重15斤",
       "onboard_time": 1679208148,
@@ -633,6 +673,14 @@
       "onboard_time": 1679198427,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 289171,
+      "num": 289171,
+      "word": "唐山动物园回应游客翻进熊猫园区",
+      "onboard_time": 1679210968,
+      "rank": 49,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 283162,
@@ -657,6 +705,14 @@
       "onboard_time": 1679138729,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 272142,
+      "num": 272142,
+      "word": "施柏宇晒Lisa舞台",
+      "onboard_time": 1679211446,
+      "rank": 19,
+      "category": "音乐"
     },
     {
       "raw_hot": 271640,
@@ -699,6 +755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 265764,
+      "num": 265764,
+      "word": "宋轶沙滩随拍",
+      "onboard_time": 1679212766,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 264916,
       "num": 264916,
       "word": "如何看待苏州大学对造谣学生处罚结果",
@@ -737,14 +801,6 @@
       "onboard_time": 1679185944,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 244767,
-      "num": 244767,
-      "word": "游客私闯熊猫园逗引大熊猫",
-      "onboard_time": 1679209707,
-      "rank": 45,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 243946,
@@ -795,6 +851,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 221122,
+      "num": 221122,
+      "word": "范丞丞戴耳环",
+      "onboard_time": 1679213486,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 215180,
       "num": 215180,
       "word": "黑暗荣耀",
@@ -833,6 +897,14 @@
       "onboard_time": 1679150970,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 210978,
+      "num": 210978,
+      "word": "华晨宇杭州成都4场门票售罄",
+      "onboard_time": 1679212706,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 205516,
@@ -1131,6 +1203,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 146332,
+      "num": 146332,
+      "word": "新疆禁毒揭示化身奶茶的毒品",
+      "onboard_time": 1679208747,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145439,
       "num": 145439,
       "word": "秦霄贤的理想型",
@@ -1147,10 +1227,10 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 144001,
-      "num": 144001,
-      "word": "新疆禁毒揭示化身奶茶的毒品",
-      "onboard_time": 1679208747,
+      "raw_hot": 143194,
+      "num": 143194,
+      "word": "女子在缅遭绑哭喊我有两小孩",
+      "onboard_time": 1679213848,
       "rank": 41,
       "category": "社会新闻"
     },
@@ -1251,14 +1331,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 122182,
-      "num": 122182,
-      "word": "唐山动物园回应游客翻进熊猫园区",
-      "onboard_time": 1679210968,
-      "rank": 49,
-      "category": "社会新闻,旅游"
-    },
-    {
       "raw_hot": 121485,
       "num": 121485,
       "word": "清融状态",
@@ -1321,6 +1393,14 @@
       "onboard_time": 1679146532,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 104259,
+      "num": 104259,
+      "word": "许凯微博之夜VCR",
+      "onboard_time": 1679212586,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 101032,
@@ -1505,6 +1585,14 @@
       "onboard_time": 1679132907,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 49100,
+      "num": 1333854,
+      "word": "第一视角感受南海海上直升机救援",
+      "onboard_time": 1679213366,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 44510,
