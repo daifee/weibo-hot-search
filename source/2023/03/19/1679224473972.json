@@ -1,0 +1,410 @@
+{
+  "runTime": 1679224473972,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1153674,
+        "num": 1153674,
+        "word": "韩网友评价新海诚中韩工作餐",
+        "onboard_time": 1679219968,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 775438,
+        "num": 775438,
+        "word": "24考研",
+        "onboard_time": 1679222969,
+        "rank": 1,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 65876,
+        "num": 714282,
+        "word": "第一视角感受南海海上直升机救援",
+        "onboard_time": 1679213366,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1561811,
+        "num": 713515,
+        "word": "内娱顶级撕漫感",
+        "onboard_time": 1679222008,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 882790,
+        "num": 691598,
+        "word": "男子吐槽22元买大碗面一口就能吃完",
+        "onboard_time": 1679220148,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 658326,
+        "num": 658326,
+        "word": "EDG这个龙王ban了吧",
+        "onboard_time": 1679220387,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 545280,
+        "num": 545280,
+        "word": "微博之夜",
+        "onboard_time": 1679224408,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 460951,
+        "num": 460951,
+        "word": "大学生写论文现状",
+        "onboard_time": 1679219727,
+        "rank": 7,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 523721,
+        "num": 451580,
+        "word": "微博之夜 好多人啊",
+        "onboard_time": 1679198068,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1277699,
+        "num": 448897,
+        "word": "30岁极其接近理想中的18岁",
+        "onboard_time": 1679218710,
+        "rank": 9,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 1807252,
+        "num": 434623,
+        "word": "妮维雅",
+        "onboard_time": 1679220928,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 788969,
+        "num": 428898,
+        "word": "新海诚上海简餐",
+        "onboard_time": 1679220208,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 691716,
+        "num": 410213,
+        "word": "秦岚手机壳",
+        "onboard_time": 1679214446,
+        "rank": 12,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 587964,
+        "num": 400703,
+        "word": "白敬亭露脐装",
+        "onboard_time": 1679222849,
+        "rank": 13,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 398691,
+        "num": 398691,
+        "word": "青春环游记4emoji阵容",
+        "onboard_time": 1679215768,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 554597,
+        "num": 388994,
+        "word": "杨超越把宠物送养了",
+        "onboard_time": 1679217626,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 766001,
+        "num": 378344,
+        "word": "女子在缅遭绑哭喊我有两小孩",
+        "onboard_time": 1679213848,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 554100,
+        "num": 369763,
+        "word": "斗鱼回应36岁女子请假保胎遭辞退",
+        "onboard_time": 1679217448,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 420451,
+        "num": 360780,
+        "word": "高龄产妇称遵医嘱请假被解聘",
+        "onboard_time": 1679216306,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 357288,
+        "num": 357288,
+        "word": "窦靖童窦佳嫄聚会",
+        "onboard_time": 1679218288,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350115,
+        "num": 350115,
+        "word": "聂小雨vs高启兰",
+        "onboard_time": 1679215350,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 333029,
+        "num": 333029,
+        "word": "Hero夏侯惇打野",
+        "onboard_time": 1679222189,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 275140,
+        "num": 275140,
+        "word": "无畏轮换",
+        "onboard_time": 1679223272,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 264692,
+        "num": 264692,
+        "word": "大熊猫用脚抠嘴遭奶爸吐槽不讲卫生",
+        "onboard_time": 1679212465,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214243,
+        "num": 214243,
+        "word": "花32万买到全损事故车获退1赔3",
+        "onboard_time": 1679206768,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284957,
+        "num": 214001,
+        "word": "马苏喝多了管宁浩叫大哥",
+        "onboard_time": 1679219727,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 274423,
+        "num": 212270,
+        "word": "俞灏明王栎鑫将合体录制综艺",
+        "onboard_time": 1679224227,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256996,
+        "num": 211415,
+        "word": "岳云鹏问极限挑战还录不录",
+        "onboard_time": 1679217987,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248969,
+        "num": 208766,
+        "word": "徐明浩剧透国内行程",
+        "onboard_time": 1679219669,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163653,
+        "num": 207979,
+        "word": "被00后退役小伙的变装惊艳了",
+        "onboard_time": 1679221648,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314915,
+        "num": 206238,
+        "word": "王俊凯马上要进组了",
+        "onboard_time": 1679217626,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241699,
+        "num": 205060,
+        "word": "青春环游记",
+        "onboard_time": 1679217327,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204652,
+        "num": 204652,
+        "word": "王子异哭戏",
+        "onboard_time": 1679223330,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 200635,
+        "num": 200635,
+        "word": "教育局回应家长发又有作业被踢出群聊",
+        "onboard_time": 1679208866,
+        "rank": 33,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 197486,
+        "num": 199698,
+        "word": "久哲的BP",
+        "onboard_time": 1679223869,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 198915,
+        "num": 198915,
+        "word": "成都文殊院门前一对职业乞讨者被挂牌",
+        "onboard_time": 1679214748,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196023,
+        "num": 196023,
+        "word": "男子现款买房被骗236万元",
+        "onboard_time": 1679212107,
+        "rank": 36,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 192864,
+        "num": 192864,
+        "word": "小伙求加薪被拒将老板工程车弃河",
+        "onboard_time": 1679218108,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192149,
+        "num": 192149,
+        "word": "中戏老师如何评价张颂文",
+        "onboard_time": 1679218710,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 744979,
+        "num": 187401,
+        "word": "苏州杀夫女子已被警方控制",
+        "onboard_time": 1679211566,
+        "rank": 39,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 694919,
+        "num": 184311,
+        "word": "瑞秋删中文评论",
+        "onboard_time": 1679209467,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177192,
+        "num": 177192,
+        "word": "博主多次曝光商家套路被央视点名表扬",
+        "onboard_time": 1679219848,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159445,
+        "num": 159445,
+        "word": "不叠被子教",
+        "onboard_time": 1679217808,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 158860,
+        "num": 158860,
+        "word": "白雪公主女演员被指歧视华裔",
+        "onboard_time": 1679202208,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140216,
+        "num": 140216,
+        "word": "女篮李梦",
+        "onboard_time": 1679194767,
+        "rank": 44,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 137590,
+        "num": 137590,
+        "word": "花琉璃轶闻",
+        "onboard_time": 1679217987,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 136092,
+        "num": 136092,
+        "word": "林智妍ins更新妍珍入狱照",
+        "onboard_time": 1679207188,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 135663,
+        "num": 135663,
+        "word": "JINNI或将签约YG黑厂",
+        "onboard_time": 1679210186,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130040,
+        "num": 130040,
+        "word": "卢正义哭了",
+        "onboard_time": 1679219007,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101950,
+        "num": 101950,
+        "word": "科学家称终结者区或藏有外星生命",
+        "onboard_time": 1679220747,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#交通成为中国现代化的开路先锋#"
+    }
+  }
+}

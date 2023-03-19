@@ -1,6 +1,6 @@
 {
   "startTime": 1679156607539,
-  "endTime": 1679222075549,
+  "endTime": 1679224473972,
   "band_list": [
     {
       "raw_hot": 3144800,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1561811,
+      "num": 713515,
+      "word": "内娱顶级撕漫感",
+      "onboard_time": 1679222008,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1509894,
       "num": 1509894,
       "word": "花三三回应",
@@ -147,6 +155,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 1277699,
+      "num": 893067,
+      "word": "30岁极其接近理想中的18岁",
+      "onboard_time": 1679218710,
+      "rank": 5,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 1271411,
       "num": 1087358,
       "word": "重庆大学回应男生偷拍女生",
@@ -169,6 +185,14 @@
       "onboard_time": 1679191825,
       "rank": 10,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 1153674,
+      "num": 1153674,
+      "word": "韩网友评价新海诚中韩工作餐",
+      "onboard_time": 1679219968,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 1088418,
@@ -251,12 +275,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 893067,
-      "num": 893067,
-      "word": "30岁极其接近理想中的18岁",
-      "onboard_time": 1679218710,
-      "rank": 5,
-      "category": "社会新闻,情感"
+      "raw_hot": 882790,
+      "num": 691598,
+      "word": "男子吐槽22元买大碗面一口就能吃完",
+      "onboard_time": 1679220148,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 873815,
@@ -291,20 +315,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 807381,
-      "num": 807381,
-      "word": "韩网友评价新海诚中韩工作餐",
-      "onboard_time": 1679219968,
-      "rank": 16,
-      "category": "影视"
-    },
-    {
       "raw_hot": 802035,
       "num": 802035,
       "word": "聂小雨vs高启兰",
       "onboard_time": 1679215350,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 788969,
+      "num": 428898,
+      "word": "新海诚上海简餐",
+      "onboard_time": 1679220208,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 785286,
@@ -329,6 +353,14 @@
       "onboard_time": 1679207846,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 775438,
+      "num": 775438,
+      "word": "24考研",
+      "onboard_time": 1679222969,
+      "rank": 1,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 760805,
@@ -419,12 +451,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 578472,
-      "num": 244403,
-      "word": "新海诚上海简餐",
-      "onboard_time": 1679220208,
-      "rank": 32,
-      "category": "艺人"
+      "raw_hot": 587964,
+      "num": 400703,
+      "word": "白敬亭露脐装",
+      "onboard_time": 1679222849,
+      "rank": 13,
+      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 574465,
@@ -459,12 +491,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 552657,
-      "num": 552657,
-      "word": "男子吐槽22元买大碗面一口就能吃完",
-      "onboard_time": 1679220148,
-      "rank": 27,
-      "category": "社会新闻"
+      "raw_hot": 545280,
+      "num": 545280,
+      "word": "微博之夜",
+      "onboard_time": 1679224408,
+      "rank": 6,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 545209,
@@ -625,6 +657,14 @@
       "onboard_time": 1679171531,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 460951,
+      "num": 460951,
+      "word": "大学生写论文现状",
+      "onboard_time": 1679219727,
+      "rank": 37,
+      "category": "幽默,教育"
     },
     {
       "raw_hot": 457033,
@@ -795,6 +835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 333029,
+      "num": 333029,
+      "word": "Hero夏侯惇打野",
+      "onboard_time": 1679222189,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 329356,
       "num": 329356,
       "word": "瑞秋",
@@ -825,14 +873,6 @@
       "onboard_time": 1679199208,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 304679,
-      "num": 304679,
-      "word": "大学生写论文现状",
-      "onboard_time": 1679219727,
-      "rank": 37,
-      "category": "幽默,教育"
     },
     {
       "raw_hot": 303176,
@@ -937,6 +977,22 @@
       "onboard_time": 1679216728,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 275140,
+      "num": 275140,
+      "word": "无畏轮换",
+      "onboard_time": 1679223272,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 274423,
+      "num": 212270,
+      "word": "俞灏明王栎鑫将合体录制综艺",
+      "onboard_time": 1679224227,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 271640,
@@ -1139,14 +1195,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 208943,
-      "num": 202462,
-      "word": "内娱顶级撕漫感",
-      "onboard_time": 1679222008,
-      "rank": 40,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 205695,
       "num": 205695,
       "word": "花琉璃轶闻",
@@ -1161,6 +1209,14 @@
       "onboard_time": 1679185285,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 204652,
+      "num": 204652,
+      "word": "王子异哭戏",
+      "onboard_time": 1679223330,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 203560,
@@ -1209,6 +1265,14 @@
       "onboard_time": 1679201428,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 197486,
+      "num": 199698,
+      "word": "久哲的BP",
+      "onboard_time": 1679223869,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 197414,
@@ -1417,6 +1481,14 @@
       "onboard_time": 1679194647,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 163653,
+      "num": 245810,
+      "word": "被00后退役小伙的变装惊艳了",
+      "onboard_time": 1679221648,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 163647,
@@ -1825,14 +1897,6 @@
       "onboard_time": 1679159720,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 85883,
-      "num": 245810,
-      "word": "被00后退役小伙的变装惊艳了",
-      "onboard_time": 1679221648,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 85368,
