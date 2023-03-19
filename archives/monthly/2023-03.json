@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679240014583,
+  "endTime": 1679243021291,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -1361,6 +1361,14 @@
       "onboard_time": 1678968449,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1724841,
+      "num": 1724841,
+      "word": "泰国真的已经贵到去不起了吗",
+      "onboard_time": 1679239170,
+      "rank": 19,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 1719265,
@@ -4171,6 +4179,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 992480,
+      "num": 992480,
+      "word": "女生为见偶像花花被骗1140元",
+      "onboard_time": 1679237491,
+      "rank": 7,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 991633,
       "num": 484825,
       "word": "福菀被游客泼水后躲在角落里",
@@ -6409,14 +6425,6 @@
       "onboard_time": 1679042309,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 762092,
-      "num": 762092,
-      "word": "女生为见偶像花花被骗1140元",
-      "onboard_time": 1679237491,
-      "rank": 7,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 761779,
@@ -9521,6 +9529,14 @@
       "onboard_time": 1678460189,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 577975,
+      "num": 577975,
+      "word": "TVB演员30秒被扇21个耳光",
+      "onboard_time": 1679240011,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 577807,
@@ -13691,6 +13707,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 431792,
+      "num": 219772,
+      "word": "为什么不建议年轻人去摆摊",
+      "onboard_time": 1679239229,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 431683,
       "num": 431683,
       "word": "洪恩採哭了",
@@ -13721,6 +13745,14 @@
       "onboard_time": 1677998605,
       "rank": 11,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 431028,
+      "num": 431028,
+      "word": "水瓶座到底在焦虑什么",
+      "onboard_time": 1679238153,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 430823,
@@ -14371,14 +14403,6 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 411281,
-      "num": 411281,
-      "word": "水瓶座到底在焦虑什么",
-      "onboard_time": 1679238153,
-      "rank": 29,
-      "category": "情感"
-    },
-    {
       "raw_hot": 411199,
       "num": 411199,
       "word": "林葳三分",
@@ -14801,6 +14825,14 @@
       "onboard_time": 1679147370,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 397798,
+      "num": 397798,
+      "word": "狂飙李宏伟观战北京男篮",
+      "onboard_time": 1679238869,
+      "rank": 31,
+      "category": "体育,影视"
     },
     {
       "raw_hot": 397628,
@@ -16907,6 +16939,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 349617,
+      "num": 349617,
+      "word": "台湾日月潭九蛙叠像全部露出",
+      "onboard_time": 1679239712,
+      "rank": 48,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 349469,
       "num": 349469,
       "word": "阿里影业总裁谈长空之王",
@@ -17777,14 +17817,6 @@
       "onboard_time": 1678592487,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 331316,
-      "num": 331316,
-      "word": "泰国真的已经贵到去不起了吗",
-      "onboard_time": 1679239170,
-      "rank": 19,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 331231,
@@ -18817,6 +18849,14 @@
       "onboard_time": 1678784189,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 310503,
+      "num": 310503,
+      "word": "张译说准备尝试一下演李清照",
+      "onboard_time": 1679242705,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 309964,
@@ -21307,14 +21347,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 262714,
-      "num": 262714,
-      "word": "狂飙李宏伟观战北京男篮",
-      "onboard_time": 1679238869,
-      "rank": 31,
-      "category": "体育,影视"
-    },
-    {
       "raw_hot": 262525,
       "num": 236337,
       "word": "理发店宠物狗未栓绳店主被城管掌掴",
@@ -22945,14 +22977,6 @@
       "onboard_time": 1678848087,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 233076,
-      "num": 194479,
-      "word": "为什么不建议年轻人去摆摊",
-      "onboard_time": 1679239229,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 232963,
@@ -26563,6 +26587,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 199447,
+      "num": 199447,
+      "word": "宋亚轩挑战与春天合拍视频",
+      "onboard_time": 1679242167,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199436,
       "num": 199436,
       "word": "今日宜加油豆瓣开8.2分",
@@ -26657,6 +26689,14 @@
       "onboard_time": 1679152227,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 198971,
+      "num": 198971,
+      "word": "TTG春季赛三连胜",
+      "onboard_time": 1679242286,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 198955,
@@ -28705,6 +28745,14 @@
       "onboard_time": 1677765331,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 185857,
+      "num": 185857,
+      "word": "女子撞脸黑暗荣耀特工大婶",
+      "onboard_time": 1679242824,
+      "rank": 24,
+      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 185842,
@@ -36171,14 +36219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 103570,
-      "num": 103570,
-      "word": "台湾日月潭九蛙叠像全部露出",
-      "onboard_time": 1679239712,
-      "rank": 48,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 103466,
       "num": 103466,
       "word": "Leave获周最佳新秀",
@@ -36873,6 +36913,14 @@
       "onboard_time": 1679068227,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 91197,
+      "num": 91197,
+      "word": "在重庆夜市能吃到什么",
+      "onboard_time": 1679241808,
+      "rank": 44,
+      "category": "美食"
     },
     {
       "raw_hot": 91183,
