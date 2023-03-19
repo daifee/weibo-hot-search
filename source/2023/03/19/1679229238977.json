@@ -1,0 +1,410 @@
+{
+  "runTime": 1679229238977,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1504656,
+        "num": 1504656,
+        "word": "白敬亭对井柏然说哥我错了下次还敢",
+        "onboard_time": 1679226328,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1297928,
+        "num": 1297928,
+        "word": "孙颖莎三冠王",
+        "onboard_time": 1679228248,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 67457,
+        "num": 1045874,
+        "word": "第一视角感受南海海上直升机救援",
+        "onboard_time": 1679213366,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1657644,
+        "num": 1013085,
+        "word": "8箱芒果托运980女子当场吃完",
+        "onboard_time": 1679224887,
+        "rank": 3,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 888347,
+        "num": 888347,
+        "word": "24考研",
+        "onboard_time": 1679222969,
+        "rank": 4,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 711054,
+        "num": 711054,
+        "word": "孙颖莎对战钱天一",
+        "onboard_time": 1679226927,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 681767,
+        "num": 681767,
+        "word": "钱天一涨球",
+        "onboard_time": 1679226688,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 644475,
+        "num": 644475,
+        "word": "克莉丝汀所有门店暂停运营",
+        "onboard_time": 1679225427,
+        "rank": 7,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 565338,
+        "num": 565338,
+        "word": "韩网友评价新海诚中韩工作餐",
+        "onboard_time": 1679219968,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 551669,
+        "num": 551669,
+        "word": "微博之夜",
+        "onboard_time": 1679224408,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 865357,
+        "num": 513004,
+        "word": "妮维雅",
+        "onboard_time": 1679220928,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 471041,
+        "num": 471041,
+        "word": "30岁极其接近理想中的18岁",
+        "onboard_time": 1679218710,
+        "rank": 11,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 439102,
+        "num": 439102,
+        "word": "男子吐槽22元买大碗面一口就能吃完",
+        "onboard_time": 1679220148,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 412551,
+        "num": 412551,
+        "word": "樊振东马龙争夺冠军",
+        "onboard_time": 1679228607,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 406398,
+        "num": 406398,
+        "word": "新海诚上海简餐",
+        "onboard_time": 1679220208,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 398901,
+        "num": 398901,
+        "word": "秦岚手机壳",
+        "onboard_time": 1679214446,
+        "rank": 15,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 378106,
+        "num": 378106,
+        "word": "徐帆包贝尔母子对手戏",
+        "onboard_time": 1679227289,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 361831,
+        "num": 361831,
+        "word": "杨超越把宠物送养了",
+        "onboard_time": 1679217626,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 353951,
+        "num": 353951,
+        "word": "EDG这个龙王ban了吧",
+        "onboard_time": 1679220387,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 347776,
+        "num": 347776,
+        "word": "FPX战胜EDG",
+        "onboard_time": 1679225971,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 562302,
+        "num": 346352,
+        "word": "女子在缅遭绑哭喊我有两小孩",
+        "onboard_time": 1679213848,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343733,
+        "num": 343733,
+        "word": "俞灏明王栎鑫将合体录制综艺",
+        "onboard_time": 1679224227,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 327062,
+        "num": 327062,
+        "word": "iG被虐",
+        "onboard_time": 1679227048,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 303790,
+        "num": 303790,
+        "word": "贺峻霖介绍无名幕后故事",
+        "onboard_time": 1679228847,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 297790,
+        "num": 297790,
+        "word": "王一博周日库存视频",
+        "onboard_time": 1679229149,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 295866,
+        "num": 295866,
+        "word": "微博之夜 好多人啊",
+        "onboard_time": 1679198068,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 286132,
+        "num": 286132,
+        "word": "高龄产妇称遵医嘱请假被解聘",
+        "onboard_time": 1679216306,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276184,
+        "num": 276184,
+        "word": "斗鱼回应36岁女子请假保胎遭辞退",
+        "onboard_time": 1679217448,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233355,
+        "num": 233355,
+        "word": "青春环游记4emoji阵容",
+        "onboard_time": 1679215768,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229529,
+        "num": 229529,
+        "word": "薛之谦衢州站第二场空降",
+        "onboard_time": 1679226508,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 225066,
+        "num": 225066,
+        "word": "AG对战TTG",
+        "onboard_time": 1679228490,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 219129,
+        "num": 219129,
+        "word": "教育局回应家长发又有作业被踢出群聊",
+        "onboard_time": 1679208866,
+        "rank": 31,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 210477,
+        "num": 210477,
+        "word": "久哲的BP",
+        "onboard_time": 1679223869,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 201601,
+        "num": 201601,
+        "word": "大熊猫用脚抠嘴遭奶爸吐槽不讲卫生",
+        "onboard_time": 1679212465,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197997,
+        "num": 197997,
+        "word": "王俊凯马上要进组了",
+        "onboard_time": 1679217626,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195857,
+        "num": 195857,
+        "word": "柯佳嬿想演文东恩妈妈",
+        "onboard_time": 1679229208,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 195242,
+        "num": 195242,
+        "word": "星痕采访真绷不住",
+        "onboard_time": 1679228068,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 195120,
+        "num": 195120,
+        "word": "聂小雨vs高启兰",
+        "onboard_time": 1679215350,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 190336,
+        "num": 190336,
+        "word": "窦靖童窦佳嫄聚会",
+        "onboard_time": 1679218288,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188872,
+        "num": 188872,
+        "word": "新海诚粉丝映后整活",
+        "onboard_time": 1679229089,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 184548,
+        "num": 184548,
+        "word": "QiuQiu机器人",
+        "onboard_time": 1679226927,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 183985,
+        "num": 183985,
+        "word": "男子现款买房被骗236万元",
+        "onboard_time": 1679212107,
+        "rank": 41,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 174879,
+        "num": 174879,
+        "word": "AG打野",
+        "onboard_time": 1679229089,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 168759,
+        "num": 168759,
+        "word": "大学生写论文现状",
+        "onboard_time": 1679219727,
+        "rank": 43,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 162941,
+        "num": 162941,
+        "word": "王子异哭戏",
+        "onboard_time": 1679223330,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 160273,
+        "num": 160273,
+        "word": "leave 好好复盘",
+        "onboard_time": 1679228967,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 156842,
+        "num": 156842,
+        "word": "教科书级别的吃戏有多绝",
+        "onboard_time": 1679226028,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 148382,
+        "num": 148382,
+        "word": "岳云鹏问极限挑战还录不录",
+        "onboard_time": 1679217987,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143351,
+        "num": 143351,
+        "word": "小镇青年的主要压力是什么",
+        "onboard_time": 1679225848,
+        "rank": 48,
+        "category": "综艺,情感"
+      },
+      {
+        "raw_hot": 142923,
+        "num": 142923,
+        "word": "宫胁咲良唱YumeDeKissMe",
+        "onboard_time": 1679228847,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#交通成为中国现代化的开路先锋#"
+    }
+  }
+}

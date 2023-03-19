@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679225605963,
+  "endTime": 1679229238977,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -1483,6 +1483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1657644,
+      "num": 1013085,
+      "word": "8箱芒果托运980女子当场吃完",
+      "onboard_time": 1679224887,
+      "rank": 30,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 1657362,
       "num": 1621720,
       "word": "苏炳添身体发软求破解",
@@ -1809,6 +1817,14 @@
       "onboard_time": 1678343845,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1504656,
+      "num": 1504656,
+      "word": "白敬亭对井柏然说哥我错了下次还敢",
+      "onboard_time": 1679226328,
+      "rank": 0,
+      "category": "影视"
     },
     {
       "raw_hot": 1501581,
@@ -2441,6 +2457,14 @@
       "onboard_time": 1678013366,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1297928,
+      "num": 1297928,
+      "word": "孙颖莎三冠王",
+      "onboard_time": 1679228248,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 1297168,
@@ -7091,6 +7115,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 711054,
+      "num": 711054,
+      "word": "孙颖莎对战钱天一",
+      "onboard_time": 1679226927,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 711050,
       "num": 711050,
       "word": "刘昊然银灰挑染",
@@ -7489,6 +7521,14 @@
       "onboard_time": 1677650187,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 681767,
+      "num": 681767,
+      "word": "钱天一涨球",
+      "onboard_time": 1679226688,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 681409,
@@ -8209,6 +8249,14 @@
       "onboard_time": 1678805252,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 644475,
+      "num": 644475,
+      "word": "克莉丝汀所有门店暂停运营",
+      "onboard_time": 1679225427,
+      "rank": 49,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 644094,
@@ -14107,6 +14155,14 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 412551,
+      "num": 412551,
+      "word": "樊振东马龙争夺冠军",
+      "onboard_time": 1679145329,
+      "rank": 35,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 412536,
       "num": 229346,
       "word": "大江健三郎去世",
@@ -15376,6 +15432,14 @@
       "word": "星落凝成糖豆瓣开分7.4分",
       "onboard_time": 1678426110,
       "rank": 19,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 378106,
+      "num": 378106,
+      "word": "徐帆包贝尔母子对手戏",
+      "onboard_time": 1679227289,
+      "rank": 16,
       "category": "影视"
     },
     {
@@ -16779,6 +16843,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 347776,
+      "num": 347776,
+      "word": "FPX战胜EDG",
+      "onboard_time": 1679225971,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 347680,
       "num": 347680,
       "word": "卫国平的腰",
@@ -16944,6 +17016,14 @@
       "word": "张若昀敲胸的",
       "onboard_time": 1677734608,
       "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 343733,
+      "num": 343733,
+      "word": "俞灏明王栎鑫将合体录制综艺",
+      "onboard_time": 1679224227,
+      "rank": 26,
       "category": "综艺"
     },
     {
@@ -17675,12 +17755,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 326827,
-      "num": 326827,
-      "word": "樊振东马龙争夺冠军",
-      "onboard_time": 1679145329,
-      "rank": 35,
-      "category": "体育,社会新闻"
+      "raw_hot": 327062,
+      "num": 327062,
+      "word": "iG被虐",
+      "onboard_time": 1679227048,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 326745,
@@ -18811,6 +18891,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 303790,
+      "num": 303790,
+      "word": "贺峻霖介绍无名幕后故事",
+      "onboard_time": 1679228847,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 303709,
       "num": 303709,
       "word": "苗苗带女儿探班前任4剧组",
@@ -19107,20 +19195,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 298293,
-      "num": 298293,
-      "word": "俞灏明王栎鑫将合体录制综艺",
-      "onboard_time": 1679224227,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 297991,
       "num": 297991,
       "word": "当医生说两种药要同时吃",
       "onboard_time": 1678944148,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 297790,
+      "num": 297790,
+      "word": "王一博周日库存视频",
+      "onboard_time": 1679229149,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 297653,
@@ -19185,14 +19273,6 @@
       "onboard_time": 1677829228,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 295746,
-      "num": 203073,
-      "word": "8箱芒果托运980女子当场吃完",
-      "onboard_time": 1679224887,
-      "rank": 30,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 295524,
@@ -22931,6 +23011,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 229529,
+      "num": 229529,
+      "word": "薛之谦衢州站第二场空降",
+      "onboard_time": 1679226508,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 229447,
       "num": 229447,
       "word": "宋佳米兰电影感大片",
@@ -23313,6 +23401,14 @@
       "onboard_time": 1677639508,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 225066,
+      "num": 225066,
+      "word": "AG对战TTG",
+      "onboard_time": 1679228490,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 225056,
@@ -26755,6 +26851,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 195857,
+      "num": 195857,
+      "word": "柯佳嬿想演文东恩妈妈",
+      "onboard_time": 1679229208,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 195803,
       "num": 195803,
       "word": "同曦男篮vs江苏男篮",
@@ -26864,6 +26968,14 @@
       "word": "TTG拉票放大招了",
       "onboard_time": 1677725308,
       "rank": 27,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 195242,
+      "num": 195242,
+      "word": "星痕采访真绷不住",
+      "onboard_time": 1679228068,
+      "rank": 36,
       "category": "游戏"
     },
     {
@@ -27787,6 +27899,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 188872,
+      "num": 188872,
+      "word": "新海诚粉丝映后整活",
+      "onboard_time": 1679229089,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 188865,
       "num": 198603,
       "word": "黑暗荣耀2主演们的剧透",
@@ -28289,6 +28409,14 @@
       "onboard_time": 1678946308,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 184548,
+      "num": 184548,
+      "word": "QiuQiu机器人",
+      "onboard_time": 1679226927,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 184364,
@@ -29057,6 +29185,14 @@
       "onboard_time": 1679208087,
       "rank": 34,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 174879,
+      "num": 174879,
+      "word": "AG打野",
+      "onboard_time": 1679229089,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 174760,
@@ -30371,6 +30507,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 160273,
+      "num": 160273,
+      "word": "leave 好好复盘",
+      "onboard_time": 1679228967,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 160204,
       "num": 160204,
       "word": "山东男篮双加时战胜辽宁男篮",
@@ -30720,6 +30864,14 @@
       "word": "甄子丹将担任第95届奥斯卡颁奖嘉宾",
       "onboard_time": 1678357347,
       "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 156842,
+      "num": 156842,
+      "word": "教科书级别的吃戏有多绝",
+      "onboard_time": 1679226028,
+      "rank": 46,
       "category": "影视"
     },
     {
@@ -31947,6 +32099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143351,
+      "num": 143351,
+      "word": "小镇青年的主要压力是什么",
+      "onboard_time": 1679225848,
+      "rank": 48,
+      "category": "综艺,情感"
+    },
+    {
       "raw_hot": 143309,
       "num": 143309,
       "word": "众星致敬雷锋精神",
@@ -31993,6 +32153,14 @@
       "onboard_time": 1679215468,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 142923,
+      "num": 142923,
+      "word": "宫胁咲良唱YumeDeKissMe",
+      "onboard_time": 1679228847,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 142842,
@@ -35121,14 +35289,6 @@
       "onboard_time": 1678413086,
       "rank": 9,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 108395,
-      "num": 108395,
-      "word": "克莉丝汀所有门店暂停运营",
-      "onboard_time": 1679225427,
-      "rank": 49,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 108394,
