@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679224473972,
+  "endTime": 1679225605963,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -2779,6 +2779,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1220426,
+      "num": 1153674,
+      "word": "韩网友评价新海诚中韩工作餐",
+      "onboard_time": 1679219968,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1218866,
       "num": 1218866,
       "word": "2人用98元从女童处买走68根虫草",
@@ -3027,14 +3035,6 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 1153674,
-      "num": 1153674,
-      "word": "韩网友评价新海诚中韩工作餐",
-      "onboard_time": 1679219968,
-      "rank": 16,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1151341,
       "num": 332035,
       "word": "徐明浩直播喝茅台",
@@ -3201,6 +3201,14 @@
       "onboard_time": 1678246526,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1116985,
+      "num": 1116985,
+      "word": "24考研",
+      "onboard_time": 1679222969,
+      "rank": 1,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1115981,
@@ -4907,6 +4915,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 883269,
+      "num": 691598,
+      "word": "男子吐槽22元买大碗面一口就能吃完",
+      "onboard_time": 1679220148,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 883265,
       "num": 682165,
       "word": "美国一城市为霉霉巡演更名",
@@ -4920,14 +4936,6 @@
       "word": "美国流浪汉被当街处决式射杀",
       "onboard_time": 1677686724,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 882790,
-      "num": 691598,
-      "word": "男子吐槽22元买大碗面一口就能吃完",
-      "onboard_time": 1679220148,
-      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -5395,6 +5403,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 838952,
+      "num": 428898,
+      "word": "新海诚上海简餐",
+      "onboard_time": 1679220208,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 838833,
       "num": 838833,
       "word": "官方回应丫丫4月7日是否能回国",
@@ -5561,6 +5577,14 @@
       "onboard_time": 1678600285,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 822229,
+      "num": 822229,
+      "word": "微博之夜",
+      "onboard_time": 1678702526,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 821001,
@@ -5931,14 +5955,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 788969,
-      "num": 428898,
-      "word": "新海诚上海简餐",
-      "onboard_time": 1679220208,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 788846,
       "num": 788846,
       "word": "东方甄选CEO称有问题不要攻击主播",
@@ -6161,14 +6177,6 @@
       "onboard_time": 1678457068,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 775438,
-      "num": 775438,
-      "word": "24考研",
-      "onboard_time": 1679222969,
-      "rank": 1,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 774949,
@@ -7555,14 +7563,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 674638,
-      "num": 674638,
-      "word": "微博之夜",
-      "onboard_time": 1678702526,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 674577,
       "num": 674577,
       "word": "撞脸高启盛大学老师回应走红",
@@ -8129,6 +8129,14 @@
       "onboard_time": 1678957228,
       "rank": 15,
       "category": "美食"
+    },
+    {
+      "raw_hot": 647249,
+      "num": 400703,
+      "word": "白敬亭露脐装",
+      "onboard_time": 1679222849,
+      "rank": 13,
+      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 647245,
@@ -9209,14 +9217,6 @@
       "onboard_time": 1679132486,
       "rank": 7,
       "category": "情感"
-    },
-    {
-      "raw_hot": 587964,
-      "num": 400703,
-      "word": "白敬亭露脐装",
-      "onboard_time": 1679222849,
-      "rank": 13,
-      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 587828,
@@ -11531,6 +11531,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 497425,
+      "num": 497425,
+      "word": "大学生写论文现状",
+      "onboard_time": 1679219727,
+      "rank": 37,
+      "category": "幽默,教育"
+    },
+    {
       "raw_hot": 497354,
       "num": 274955,
       "word": "KAKAO宣布公开收购SMTOWN",
@@ -12649,14 +12657,6 @@
       "onboard_time": 1679022088,
       "rank": 28,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 460951,
-      "num": 460951,
-      "word": "大学生写论文现状",
-      "onboard_time": 1679219727,
-      "rank": 37,
-      "category": "幽默,教育"
     },
     {
       "raw_hot": 460861,
@@ -15587,6 +15587,14 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 372191,
+      "num": 372191,
+      "word": "Hero夏侯惇打野",
+      "onboard_time": 1679222189,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 372140,
       "num": 372140,
       "word": "樊振东晋级大满贯决赛",
@@ -17427,14 +17435,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 333029,
-      "num": 333029,
-      "word": "Hero夏侯惇打野",
-      "onboard_time": 1679222189,
-      "rank": 21,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 332700,
       "num": 332700,
       "word": "杨紫199爱哭戏",
@@ -18315,6 +18315,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 314364,
+      "num": 314364,
+      "word": "久哲的BP",
+      "onboard_time": 1679223869,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 314194,
       "num": 314194,
       "word": "耳背文学",
@@ -19099,6 +19107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 298293,
+      "num": 298293,
+      "word": "俞灏明王栎鑫将合体录制综艺",
+      "onboard_time": 1679224227,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 297991,
       "num": 297991,
       "word": "当医生说两种药要同时吃",
@@ -19169,6 +19185,14 @@
       "onboard_time": 1677829228,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 295746,
+      "num": 203073,
+      "word": "8箱芒果托运980女子当场吃完",
+      "onboard_time": 1679224887,
+      "rank": 30,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 295524,
@@ -20131,6 +20155,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 276049,
+      "num": 251129,
+      "word": "王子异哭戏",
+      "onboard_time": 1679223330,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 275952,
       "num": 275952,
       "word": "没点本事千万别骑鸵鸟",
@@ -20225,14 +20257,6 @@
       "onboard_time": 1678863026,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 274423,
-      "num": 212270,
-      "word": "俞灏明王栎鑫将合体录制综艺",
-      "onboard_time": 1679224227,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 274322,
@@ -25179,14 +25203,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 204652,
-      "num": 204652,
-      "word": "王子异哭戏",
-      "onboard_time": 1679223330,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 204616,
       "num": 204616,
       "word": "李岱昆重紫烟熏妆",
@@ -26443,14 +26459,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 197486,
-      "num": 199698,
-      "word": "久哲的BP",
-      "onboard_time": 1679223869,
-      "rank": 34,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 197429,
       "num": 242215,
       "word": "星落凝成糖对称文学",
@@ -26881,6 +26889,14 @@
       "onboard_time": 1677994887,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 195033,
+      "num": 195033,
+      "word": "铃芽之旅",
+      "onboard_time": 1679224649,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 195015,
@@ -34419,6 +34435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 116029,
+      "num": 116029,
+      "word": "新海诚上海见面会",
+      "onboard_time": 1679221348,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 115992,
       "num": 133213,
       "word": "XYG对战TES",
@@ -35097,6 +35121,14 @@
       "onboard_time": 1678413086,
       "rank": 9,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 108395,
+      "num": 108395,
+      "word": "克莉丝汀所有门店暂停运营",
+      "onboard_time": 1679225427,
+      "rank": 49,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 108394,

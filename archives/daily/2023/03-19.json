@@ -1,6 +1,6 @@
 {
   "startTime": 1679156607539,
-  "endTime": 1679224473972,
+  "endTime": 1679225605963,
   "band_list": [
     {
       "raw_hot": 3144800,
@@ -179,6 +179,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1220426,
+      "num": 1153674,
+      "word": "韩网友评价新海诚中韩工作餐",
+      "onboard_time": 1679219968,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1154007,
       "num": 1154007,
       "word": "袖珍老师嫁给9岁时就对她笑的男生",
@@ -187,12 +195,12 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 1153674,
-      "num": 1153674,
-      "word": "韩网友评价新海诚中韩工作餐",
-      "onboard_time": 1679219968,
-      "rank": 16,
-      "category": "影视"
+      "raw_hot": 1116985,
+      "num": 1116985,
+      "word": "24考研",
+      "onboard_time": 1679222969,
+      "rank": 1,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1088418,
@@ -275,7 +283,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 882790,
+      "raw_hot": 883269,
       "num": 691598,
       "word": "男子吐槽22元买大碗面一口就能吃完",
       "onboard_time": 1679220148,
@@ -297,6 +305,22 @@
       "onboard_time": 1679195125,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 838952,
+      "num": 428898,
+      "word": "新海诚上海简餐",
+      "onboard_time": 1679220208,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 822229,
+      "num": 822229,
+      "word": "微博之夜",
+      "onboard_time": 1679224408,
+      "rank": 6,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 814711,
@@ -323,14 +347,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 788969,
-      "num": 428898,
-      "word": "新海诚上海简餐",
-      "onboard_time": 1679220208,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 785286,
       "num": 785286,
       "word": "高龄产妇称遵医嘱请假被解聘",
@@ -353,14 +369,6 @@
       "onboard_time": 1679207846,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 775438,
-      "num": 775438,
-      "word": "24考研",
-      "onboard_time": 1679222969,
-      "rank": 1,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 760805,
@@ -443,20 +451,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 647249,
+      "num": 400703,
+      "word": "白敬亭露脐装",
+      "onboard_time": 1679222849,
+      "rank": 13,
+      "category": "作品衍生,幽默"
+    },
+    {
       "raw_hot": 634110,
       "num": 255300,
       "word": "重庆大学",
       "onboard_time": 1679186846,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 587964,
-      "num": 400703,
-      "word": "白敬亭露脐装",
-      "onboard_time": 1679222849,
-      "rank": 13,
-      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 574465,
@@ -489,14 +497,6 @@
       "onboard_time": 1679158101,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 545280,
-      "num": 545280,
-      "word": "微博之夜",
-      "onboard_time": 1679224408,
-      "rank": 6,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 545209,
@@ -587,6 +587,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 497425,
+      "num": 497425,
+      "word": "大学生写论文现状",
+      "onboard_time": 1679219727,
+      "rank": 37,
+      "category": "幽默,教育"
+    },
+    {
       "raw_hot": 487222,
       "num": 487222,
       "word": "江西一银行柜员挪用储户200万赌博",
@@ -657,14 +665,6 @@
       "onboard_time": 1679171531,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 460951,
-      "num": 460951,
-      "word": "大学生写论文现状",
-      "onboard_time": 1679219727,
-      "rank": 37,
-      "category": "幽默,教育"
     },
     {
       "raw_hot": 457033,
@@ -755,6 +755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 372191,
+      "num": 372191,
+      "word": "Hero夏侯惇打野",
+      "onboard_time": 1679222189,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 369700,
       "num": 369700,
       "word": "在暴雪时分返航成功海报",
@@ -835,14 +843,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 333029,
-      "num": 333029,
-      "word": "Hero夏侯惇打野",
-      "onboard_time": 1679222189,
-      "rank": 21,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 329356,
       "num": 329356,
       "word": "瑞秋",
@@ -875,6 +875,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 314364,
+      "num": 314364,
+      "word": "久哲的BP",
+      "onboard_time": 1679223869,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 303176,
       "num": 303176,
       "word": "孙怡秦霄贤身高对比",
@@ -897,6 +905,22 @@
       "onboard_time": 1679221589,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 298293,
+      "num": 298293,
+      "word": "俞灏明王栎鑫将合体录制综艺",
+      "onboard_time": 1679224227,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 295746,
+      "num": 203073,
+      "word": "8箱芒果托运980女子当场吃完",
+      "onboard_time": 1679224887,
+      "rank": 30,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 294983,
@@ -979,20 +1003,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 276049,
+      "num": 251129,
+      "word": "王子异哭戏",
+      "onboard_time": 1679223330,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 275140,
       "num": 275140,
       "word": "无畏轮换",
       "onboard_time": 1679223272,
       "rank": 22,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 274423,
-      "num": 212270,
-      "word": "俞灏明王栎鑫将合体录制综艺",
-      "onboard_time": 1679224227,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 271640,
@@ -1211,14 +1235,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 204652,
-      "num": 204652,
-      "word": "王子异哭戏",
-      "onboard_time": 1679223330,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 203560,
       "num": 203560,
       "word": "曹承衍 智齿比心",
@@ -1267,14 +1283,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 197486,
-      "num": 199698,
-      "word": "久哲的BP",
-      "onboard_time": 1679223869,
-      "rank": 34,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 197414,
       "num": 188826,
       "word": "何浩楠和他被咬的一生",
@@ -1288,6 +1296,14 @@
       "word": "他叫王德发",
       "onboard_time": 1679188707,
       "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 195033,
+      "num": 195033,
+      "word": "铃芽之旅",
+      "onboard_time": 1679224649,
+      "rank": 33,
       "category": "影视"
     },
     {
@@ -1723,6 +1739,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 116029,
+      "num": 116029,
+      "word": "新海诚上海见面会",
+      "onboard_time": 1679221348,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 115223,
       "num": 115223,
       "word": "穿只袜子反转比悬疑片还多",
@@ -1737,6 +1761,14 @@
       "onboard_time": 1679215826,
       "rank": 42,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 108395,
+      "num": 108395,
+      "word": "克莉丝汀所有门店暂停运营",
+      "onboard_time": 1679225427,
+      "rank": 49,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 108126,
