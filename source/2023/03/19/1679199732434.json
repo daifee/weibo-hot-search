@@ -1,0 +1,410 @@
+{
+  "runTime": 1679199732434,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2686608,
+        "num": 2686608,
+        "word": "微博之夜 好多人啊",
+        "onboard_time": 1679198068,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1863178,
+        "num": 1863178,
+        "word": "苏大恶意P图者被开除学籍",
+        "onboard_time": 1679183000,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 63306,
+        "num": 1586456,
+        "word": "这就是春天里的中国",
+        "onboard_time": 1679198068,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2714317,
+        "num": 1577434,
+        "word": "杀夫藏尸冰柜女子被父母劝说自首",
+        "onboard_time": 1679197167,
+        "rank": 3,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1314474,
+        "num": 1314474,
+        "word": "北京硕博毕业生人数首超本科生",
+        "onboard_time": 1679194107,
+        "rank": 4,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 957867,
+        "num": 957867,
+        "word": "25岁小伙做鼻子整形失败毁容",
+        "onboard_time": 1679196146,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 793955,
+        "num": 793955,
+        "word": "熊猫美香",
+        "onboard_time": 1679184143,
+        "rank": 6,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 767309,
+        "num": 767309,
+        "word": "医学生吃烧烤花1小时解剖猪头",
+        "onboard_time": 1679195125,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 607410,
+        "num": 607410,
+        "word": "花三三回应",
+        "onboard_time": 1679183361,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 577640,
+        "num": 577640,
+        "word": "租房带不走的能不买就不买",
+        "onboard_time": 1679196747,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1181232,
+        "num": 568637,
+        "word": "孙俪大提琴考试过了",
+        "onboard_time": 1679198728,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 642135,
+        "num": 554840,
+        "word": "近9成网友认为苏大开除造谣者合理",
+        "onboard_time": 1679198006,
+        "rank": 11,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 521173,
+        "num": 521173,
+        "word": "袖珍老师嫁给9岁时就对她笑的男生",
+        "onboard_time": 1679191825,
+        "rank": 12,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 470360,
+        "num": 470360,
+        "word": "一文读懂苏大男生P图造黄谣事件",
+        "onboard_time": 1679195727,
+        "rank": 13,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 444817,
+        "num": 444817,
+        "word": "学院风的尽头是老头衫",
+        "onboard_time": 1679198006,
+        "rank": 14,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 441135,
+        "num": 441135,
+        "word": "大熊猫花花休假弟弟和叶成顶流",
+        "onboard_time": 1679195546,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 439144,
+        "num": 439144,
+        "word": "HYBE艺人信息表",
+        "onboard_time": 1679198368,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 366116,
+        "num": 366116,
+        "word": "入职第三天发现这公司算来对了",
+        "onboard_time": 1679188167,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 363760,
+        "num": 363760,
+        "word": "来活了兄弟再就业男团新团综",
+        "onboard_time": 1679197046,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 350072,
+        "num": 350072,
+        "word": "柯南 九转大肠",
+        "onboard_time": 1679185345,
+        "rank": 19,
+        "category": "动漫,综艺"
+      },
+      {
+        "raw_hot": 1360818,
+        "num": 343178,
+        "word": "女篮李梦",
+        "onboard_time": 1679194767,
+        "rank": 20,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 334404,
+        "num": 334404,
+        "word": "陈芋汐全红婵断层式夺冠",
+        "onboard_time": 1679198968,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 304463,
+        "num": 304463,
+        "word": "医院偶遇严浩翔看病",
+        "onboard_time": 1679194406,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301370,
+        "num": 301370,
+        "word": "Lisa演唱会新造型",
+        "onboard_time": 1679193446,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 293839,
+        "num": 293839,
+        "word": "95后夜市夫妻档算起收入笑了",
+        "onboard_time": 1679191706,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291056,
+        "num": 291056,
+        "word": "薛之谦 今天的雨是我们的记号",
+        "onboard_time": 1679198427,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 218932,
+        "num": 218932,
+        "word": "林允在机场滞留24小时",
+        "onboard_time": 1679182518,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214656,
+        "num": 214656,
+        "word": "宁安如梦后期 张凌赫必火",
+        "onboard_time": 1679183181,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203706,
+        "num": 203706,
+        "word": "王心凌官宣微博之夜",
+        "onboard_time": 1679199687,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 196404,
+        "num": 196404,
+        "word": "金智秀将出演虽然没准备什么菜",
+        "onboard_time": 1679189788,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 917610,
+        "num": 196292,
+        "word": "重庆大学回应男生偷拍女生",
+        "onboard_time": 1679190266,
+        "rank": 30,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 206300,
+        "num": 195923,
+        "word": "吸熊猫",
+        "onboard_time": 1679199208,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 194010,
+        "num": 194010,
+        "word": "赵雷 我记得",
+        "onboard_time": 1679182761,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 174087,
+        "num": 174087,
+        "word": "64岁男子为打工谎报年龄办假证被抓",
+        "onboard_time": 1679191107,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166946,
+        "num": 166946,
+        "word": "女子丧偶式育儿身心俱疲起诉离婚",
+        "onboard_time": 1679199089,
+        "rank": 34,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 156811,
+        "num": 156811,
+        "word": "男子不听民警劝说转账309万",
+        "onboard_time": 1679189188,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156482,
+        "num": 156482,
+        "word": "NCT道在廷出国机场图",
+        "onboard_time": 1679198609,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 148595,
+        "num": 148595,
+        "word": "在暴雪时分返航成功海报",
+        "onboard_time": 1679193626,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 146984,
+        "num": 146984,
+        "word": "还原被造黄谣女生6个月调查时间线",
+        "onboard_time": 1679185524,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145678,
+        "num": 145678,
+        "word": "失孤原型郭刚堂儿子结婚",
+        "onboard_time": 1679188407,
+        "rank": 39,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 144501,
+        "num": 144501,
+        "word": "朴彩英台湾高雄演唱会饭拍视频",
+        "onboard_time": 1679197105,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 143494,
+        "num": 143494,
+        "word": "科学家公布首位女性艾滋病治愈者案例",
+        "onboard_time": 1679192427,
+        "rank": 41,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 135735,
+        "num": 135735,
+        "word": "勇士客场11连败",
+        "onboard_time": 1679195067,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116581,
+        "num": 116581,
+        "word": "花三三卢靖姗合照",
+        "onboard_time": 1679138188,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 107863,
+        "num": 107863,
+        "word": "废弃三轮出现狗头大灯",
+        "onboard_time": 1679199387,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103217,
+        "num": 103217,
+        "word": "沈月收到粉丝的隔空投送",
+        "onboard_time": 1679194647,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102252,
+        "num": 102252,
+        "word": "毛晓彤王子异CP感",
+        "onboard_time": 1679194586,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 95147,
+        "num": 95147,
+        "word": "男子网恋1年多女友竟是好友老婆",
+        "onboard_time": 1679152948,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94932,
+        "num": 94932,
+        "word": "如何看待苏州大学对造谣学生处罚结果",
+        "onboard_time": 1679185345,
+        "rank": 48,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 94162,
+        "num": 94162,
+        "word": "辛叡恩出演朴妍珍的原因",
+        "onboard_time": 1679185944,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#聚焦经济社会发展#"
+    }
+  }
+}
