@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679264238493,
+  "endTime": 1679265210708,
   "band_list": [
     {
       "raw_hot": 1724841,
@@ -251,6 +251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 149690,
+      "num": 85690,
+      "word": "女子去年双11网购家具仍未发货",
+      "onboard_time": 1679255531,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144102,
       "num": 144102,
       "word": "邓某某伙同他人散布别人隐私被拘",
@@ -363,20 +371,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 98386,
-      "num": 63881,
-      "word": "女子去年双11网购家具仍未发货",
-      "onboard_time": 1679255531,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 93096,
       "num": 93096,
       "word": "关晓彤哭戏路透",
       "onboard_time": 1679236169,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 92522,
+      "num": 92522,
+      "word": "巴萨vs皇马",
+      "onboard_time": 1679252173,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 84689,
@@ -419,14 +427,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 69244,
-      "num": 69244,
-      "word": "巴萨vs皇马",
-      "onboard_time": 1679252173,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 65638,
       "num": 65638,
       "word": "TWICE全员跳Pop",
@@ -449,6 +449,14 @@
       "onboard_time": 1679245399,
       "rank": 45,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 40243,
+      "num": 36620,
+      "word": "一秒入夏的连衣裙",
+      "onboard_time": 1679263334,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 34286,
@@ -481,14 +489,6 @@
       "onboard_time": 1679228248,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 23555,
-      "num": 23555,
-      "word": "一秒入夏的连衣裙",
-      "onboard_time": 1679263334,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 20144,
