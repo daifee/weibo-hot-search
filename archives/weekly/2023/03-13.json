@@ -1,6 +1,6 @@
 {
   "startTime": 1678638204578,
-  "endTime": 1679232092484,
+  "endTime": 1679232809277,
   "band_list": [
     {
       "raw_hot": 9458443,
@@ -51,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3316552,
+      "num": 3316552,
+      "word": "张兰欠9.8亿未还家族信托被击穿",
+      "onboard_time": 1679229987,
+      "rank": 30,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 3314139,
       "num": 3314139,
       "word": "海底捞要求必须点锅底",
@@ -65,14 +73,6 @@
       "onboard_time": 1679118686,
       "rank": 0,
       "category": "体育,网红"
-    },
-    {
-      "raw_hot": 3157217,
-      "num": 3157217,
-      "word": "张兰欠9.8亿未还家族信托被击穿",
-      "onboard_time": 1679229987,
-      "rank": 30,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 3144800,
@@ -803,6 +803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1478682,
+      "num": 1478682,
+      "word": "玲娜贝儿",
+      "onboard_time": 1679231729,
+      "rank": 27,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1471468,
       "num": 380967,
       "word": "王鹤棣赵露思三亚同框",
@@ -1201,6 +1209,14 @@
       "onboard_time": 1678670485,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1139634,
+      "num": 1139634,
+      "word": "樊振东马龙争夺冠军",
+      "onboard_time": 1679145329,
+      "rank": 35,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 1135821,
@@ -1955,14 +1971,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 886281,
-      "num": 886281,
-      "word": "樊振东马龙争夺冠军",
-      "onboard_time": 1679145329,
-      "rank": 35,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 884767,
       "num": 884767,
       "word": "光渊 复播",
@@ -2531,6 +2539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 784083,
+      "num": 430543,
+      "word": "周星驰石榴姐聚餐",
+      "onboard_time": 1679230648,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 781112,
       "num": 550780,
       "word": "奥斯卡红毯",
@@ -2561,6 +2577,14 @@
       "onboard_time": 1678842388,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 771371,
+      "num": 771371,
+      "word": "网传浪姐4确定名单与待定名单",
+      "onboard_time": 1679231190,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 771190,
@@ -4107,14 +4131,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 550521,
-      "num": 422010,
-      "word": "周星驰石榴姐聚餐",
-      "onboard_time": 1679230648,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 549879,
       "num": 549879,
       "word": "王雪",
@@ -5355,14 +5371,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 444475,
-      "num": 444475,
-      "word": "网传浪姐4确定名单与待定名单",
-      "onboard_time": 1679231190,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 443316,
       "num": 440424,
       "word": "阿迪达斯中国区业绩连续7季度下滑",
@@ -6067,6 +6075,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 396421,
+      "num": 396421,
+      "word": "护心",
+      "onboard_time": 1679230408,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 396324,
       "num": 396324,
       "word": "上海迪士尼回应停售年卡",
@@ -6387,14 +6403,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 375960,
-      "num": 375960,
-      "word": "护心",
-      "onboard_time": 1679230408,
-      "rank": 13,
-      "category": "影视"
-    },
-    {
       "raw_hot": 375568,
       "num": 401325,
       "word": "刘嘉玲说梁朝伟是最好的",
@@ -6473,6 +6481,14 @@
       "onboard_time": 1679193626,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 369514,
+      "num": 369514,
+      "word": "邓某某伙同他人散布别人隐私被拘",
+      "onboard_time": 1679231610,
+      "rank": 38,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 369188,
@@ -8971,14 +8987,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 242539,
-      "num": 220593,
-      "word": "玲娜贝儿",
-      "onboard_time": 1679231729,
-      "rank": 27,
-      "category": "网红"
-    },
-    {
       "raw_hot": 242166,
       "num": 242166,
       "word": "阿鲁纳3比0张本智和",
@@ -9065,6 +9073,14 @@
       "onboard_time": 1678623445,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 237988,
+      "num": 237988,
+      "word": "AG打野",
+      "onboard_time": 1679229089,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 237319,
@@ -9515,6 +9531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 223513,
+      "num": 223513,
+      "word": "OOTD",
+      "onboard_time": 1679232391,
+      "rank": 30,
+      "category": "时尚,情感"
+    },
+    {
       "raw_hot": 223424,
       "num": 223424,
       "word": "成龙耍刀郭麒麟被刀耍",
@@ -9633,6 +9657,14 @@
       "onboard_time": 1679058750,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 220420,
+      "num": 220420,
+      "word": "WTT新加坡大满贯2023",
+      "onboard_time": 1679117787,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 220232,
@@ -9937,14 +9969,6 @@
       "onboard_time": 1679057187,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 208970,
-      "num": 208970,
-      "word": "AG打野",
-      "onboard_time": 1679229089,
-      "rank": 42,
-      "category": "游戏"
     },
     {
       "raw_hot": 208874,
@@ -10361,6 +10385,14 @@
       "onboard_time": 1679074637,
       "rank": 21,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 201154,
+      "num": 201154,
+      "word": "保你平安",
+      "onboard_time": 1679131825,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 200981,
@@ -10939,6 +10971,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 192460,
+      "num": 192460,
+      "word": "路炎晨邢克垒一路前刑",
+      "onboard_time": 1679232753,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 192342,
       "num": 192342,
       "word": "张俪嘶吼哭戏",
@@ -11355,14 +11395,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 185574,
-      "num": 185574,
-      "word": "邓某某伙同他人散布别人隐私被拘",
-      "onboard_time": 1679231610,
-      "rank": 38,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 185500,
       "num": 185500,
       "word": "难怪文东恩不让周汝正唱歌",
@@ -11449,6 +11481,14 @@
       "onboard_time": 1678842989,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182076,
+      "num": 223615,
+      "word": "坐多久要起来动一动",
+      "onboard_time": 1679229927,
+      "rank": 29,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 181479,
@@ -11859,6 +11899,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 169359,
+      "num": 169359,
+      "word": "胡明轩受伤",
+      "onboard_time": 1679232571,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 169358,
       "num": 169358,
       "word": "市监局回应半天妖垃圾桶捞餐食",
@@ -12017,14 +12065,6 @@
       "onboard_time": 1679036726,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 164966,
-      "num": 219243,
-      "word": "坐多久要起来动一动",
-      "onboard_time": 1679229927,
-      "rank": 29,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 164616,
@@ -12387,6 +12427,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 155985,
+      "num": 155985,
+      "word": "刘诗诗白衣嘟嘴路透",
+      "onboard_time": 1679232028,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 155140,
       "num": 155140,
       "word": "库里35岁生日",
@@ -12675,14 +12723,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 146910,
-      "num": 146910,
-      "word": "WTT新加坡大满贯2023",
-      "onboard_time": 1679117787,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 146332,
       "num": 146332,
       "word": "新疆禁毒揭示化身奶茶的毒品",
@@ -12729,14 +12769,6 @@
       "onboard_time": 1679135425,
       "rank": 42,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 144953,
-      "num": 144953,
-      "word": "保你平安",
-      "onboard_time": 1679131825,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 144906,
@@ -12976,14 +13008,6 @@
       "word": "国产剧疯批美人盘点",
       "onboard_time": 1679116530,
       "rank": 46,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 138473,
-      "num": 138473,
-      "word": "刘诗诗白衣嘟嘴路透",
-      "onboard_time": 1679232028,
-      "rank": 49,
       "category": "影视"
     },
     {
@@ -14571,6 +14595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 49665,
+      "num": 1262582,
+      "word": "钢铁丝路好风光",
+      "onboard_time": 1679229987,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 48585,
       "num": 1590409,
       "word": "这支船队守望祖国的星空",
@@ -14617,14 +14649,6 @@
       "onboard_time": 1679180475,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 37961,
-      "num": 896603,
-      "word": "钢铁丝路好风光",
-      "onboard_time": 1679229987,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 37417,
@@ -14890,6 +14914,9 @@
     },
     {
       "word": "#钢铁丝路好风光#"
+    },
+    {
+      "word": "#在全党大兴调查研究#"
     }
   ]
 }
