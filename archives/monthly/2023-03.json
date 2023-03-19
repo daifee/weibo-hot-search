@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679247212499,
+  "endTime": 1679250097304,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -23443,6 +23443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 228161,
+      "num": 228161,
+      "word": "网曝重庆瑞鹏宠物医院医生虐待猫咪",
+      "onboard_time": 1679247377,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 228114,
       "num": 228114,
       "word": "Hero星元紫金契约",
@@ -38179,6 +38187,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 54195,
+      "num": 54195,
+      "word": "原来恐怖片配音是这样做的",
+      "onboard_time": 1679248275,
+      "rank": 19,
+      "category": "幽默,影视"
+    },
+    {
       "raw_hot": 54057,
       "num": 69660,
       "word": "WBG BP",
@@ -38593,6 +38609,14 @@
       "onboard_time": 1677729629,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 31936,
+      "num": 31936,
+      "word": "宋茜的泰国游玩vlog",
+      "onboard_time": 1679248695,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 31912,
