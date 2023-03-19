@@ -1,6 +1,6 @@
 {
   "startTime": 1679156607539,
-  "endTime": 1679236414129,
+  "endTime": 1679239086622,
   "band_list": [
     {
       "raw_hot": 3316552,
@@ -153,6 +153,14 @@
       "onboard_time": 1679232810,
       "rank": 1,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1457265,
+      "num": 1457265,
+      "word": "丫丫吃上了新鲜竹子和辅食",
+      "onboard_time": 1679237668,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1400207,
@@ -339,6 +347,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 931418,
+      "num": 931418,
+      "word": "研究称男性也有最佳生育年龄",
+      "onboard_time": 1679236530,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 907004,
       "num": 907004,
       "word": "陈芋汐全红婵断层式夺冠",
@@ -353,6 +369,14 @@
       "onboard_time": 1679150791,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 893763,
+      "num": 893763,
+      "word": "张兰回应海外欠债9.8亿",
+      "onboard_time": 1679237848,
+      "rank": 5,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 883269,
@@ -579,6 +603,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 633250,
+      "num": 633250,
+      "word": "白桃星座",
+      "onboard_time": 1679236589,
+      "rank": 6,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 596070,
+      "num": 596070,
+      "word": "女生为见偶像花花被骗1140元",
+      "onboard_time": 1679237491,
+      "rank": 7,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 574465,
       "num": 574465,
       "word": "大熊猫用脚抠嘴遭奶爸吐槽不讲卫生",
@@ -715,6 +755,14 @@
       "category": "幽默,教育"
     },
     {
+      "raw_hot": 488066,
+      "num": 488066,
+      "word": "厕所看自己好看一些的原因",
+      "onboard_time": 1679235629,
+      "rank": 27,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 487222,
       "num": 487222,
       "word": "江西一银行柜员挪用储户200万赌博",
@@ -827,6 +875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 442926,
+      "num": 442926,
+      "word": "大麦向华晨宇方致歉",
+      "onboard_time": 1679238093,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 441826,
       "num": 441826,
       "word": "女生应聘被HR称不是校长喜欢类型",
@@ -849,6 +905,14 @@
       "onboard_time": 1679146953,
       "rank": 7,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 414749,
+      "num": 414749,
+      "word": "黄奕曾以为言承旭演自己追求者",
+      "onboard_time": 1679236949,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 411666,
@@ -1435,14 +1499,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 225811,
-      "num": 225811,
-      "word": "厕所看自己好看一些的原因",
-      "onboard_time": 1679235629,
-      "rank": 27,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 225459,
       "num": 225459,
       "word": "陈雨菲vs安洗莹",
@@ -1489,6 +1545,22 @@
       "onboard_time": 1679232089,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 219647,
+      "num": 219647,
+      "word": "九尾重现火舞打金蝉",
+      "onboard_time": 1679238451,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 218054,
+      "num": 218054,
+      "word": "关晓彤哭戏路透",
+      "onboard_time": 1679236169,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 215180,
@@ -1539,6 +1611,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 208652,
+      "num": 208652,
+      "word": "周也跳舞但没完全跳",
+      "onboard_time": 1679236949,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 205695,
       "num": 205695,
       "word": "花琉璃轶闻",
@@ -1555,12 +1635,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205332,
+      "num": 205332,
+      "word": "水瓶座到底在焦虑什么",
+      "onboard_time": 1679238153,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 205243,
       "num": 205243,
       "word": "新海诚粉丝映后整活",
       "onboard_time": 1679229089,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 204606,
+      "num": 204606,
+      "word": "狂飙李宏伟观战北京男篮",
+      "onboard_time": 1679238869,
+      "rank": 31,
+      "category": "体育,影视"
     },
     {
       "raw_hot": 204195,
@@ -1683,6 +1779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192936,
+      "num": 192936,
+      "word": "王啸坤亮相薛之谦演唱会",
+      "onboard_time": 1679238392,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 192460,
       "num": 192460,
       "word": "路炎晨邢克垒一路前刑",
@@ -1801,14 +1905,6 @@
       "onboard_time": 1679226927,
       "rank": 40,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 182675,
-      "num": 182675,
-      "word": "关晓彤哭戏路透",
-      "onboard_time": 1679236169,
-      "rank": 39,
-      "category": "影视"
     },
     {
       "raw_hot": 181055,
