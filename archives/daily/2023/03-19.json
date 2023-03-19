@@ -1,6 +1,6 @@
 {
   "startTime": 1679156607539,
-  "endTime": 1679210163820,
+  "endTime": 1679211195093,
   "band_list": [
     {
       "raw_hot": 3144800,
@@ -35,8 +35,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 2628732,
-      "num": 2628732,
+      "raw_hot": 2661141,
+      "num": 2661141,
       "word": "瑞秋删中文评论",
       "onboard_time": 1679209467,
       "rank": 0,
@@ -139,8 +139,8 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 1007397,
-      "num": 1007397,
+      "raw_hot": 1088418,
+      "num": 1088418,
       "word": "花32万买到全损事故车获退1赔3",
       "onboard_time": 1679206768,
       "rank": 44,
@@ -219,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 770703,
+      "num": 770703,
+      "word": "教育局回应家长发又有作业被踢出群聊",
+      "onboard_time": 1679208866,
+      "rank": 10,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 746804,
       "num": 746804,
       "word": "租房带不走的能不买就不买",
@@ -257,6 +265,14 @@
       "onboard_time": 1679199089,
       "rank": 34,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 689716,
+      "num": 689716,
+      "word": "JINNI或将签约YG黑厂",
+      "onboard_time": 1679210186,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 683063,
@@ -411,14 +427,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 470813,
-      "num": 470813,
-      "word": "教育局回应家长发又有作业被踢出群聊",
-      "onboard_time": 1679208866,
-      "rank": 10,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 470360,
       "num": 470360,
       "word": "一文读懂苏大男生P图造黄谣事件",
@@ -555,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 349416,
+      "num": 349416,
+      "word": "金玟庭GISELLE手势舞",
+      "onboard_time": 1679210186,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 348636,
       "num": 268130,
       "word": "这才是吸毒前后真实的面容变化",
@@ -595,8 +611,16 @@
       "category": "情感"
     },
     {
-      "raw_hot": 298926,
-      "num": 264462,
+      "raw_hot": 303176,
+      "num": 303176,
+      "word": "孙怡秦霄贤身高对比",
+      "onboard_time": 1679208267,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 302949,
+      "num": 269931,
       "word": "厌食症女孩怕外婆担心增重15斤",
       "onboard_time": 1679208148,
       "rank": 21,
@@ -699,14 +723,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 261331,
-      "num": 261331,
-      "word": "孙怡秦霄贤身高对比",
-      "onboard_time": 1679208267,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 253605,
       "num": 253605,
       "word": "杨紫叫杨迪哥",
@@ -721,6 +737,14 @@
       "onboard_time": 1679185944,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 244767,
+      "num": 244767,
+      "word": "游客私闯熊猫园逗引大熊猫",
+      "onboard_time": 1679209707,
+      "rank": 45,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 243946,
@@ -753,6 +777,14 @@
       "onboard_time": 1679181678,
       "rank": 31,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 227518,
+      "num": 227518,
+      "word": "滔搏选手为什么在KSG",
+      "onboard_time": 1679209407,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 227266,
@@ -883,12 +915,28 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 189675,
+      "num": 189675,
+      "word": "你的春日上分英雄是什么",
+      "onboard_time": 1679210727,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 188745,
       "num": 188745,
       "word": "毛晓彤王子异CP感",
       "onboard_time": 1679194586,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 187981,
+      "num": 187981,
+      "word": "林俊杰香港巡演花絮照",
+      "onboard_time": 1679210248,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 187244,
@@ -1035,8 +1083,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 160486,
-      "num": 160486,
+      "raw_hot": 163145,
+      "num": 163145,
       "word": "张馨予为他是谁打call",
       "onboard_time": 1679209407,
       "rank": 37,
@@ -1099,12 +1147,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 141499,
-      "num": 141499,
-      "word": "滔搏选手为什么在KSG",
-      "onboard_time": 1679209407,
-      "rank": 40,
-      "category": "游戏"
+      "raw_hot": 144001,
+      "num": 144001,
+      "word": "新疆禁毒揭示化身奶茶的毒品",
+      "onboard_time": 1679208747,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140381,
@@ -1123,12 +1171,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 137310,
-      "num": 137310,
-      "word": "新疆禁毒揭示化身奶茶的毒品",
-      "onboard_time": 1679208747,
-      "rank": 41,
-      "category": "社会新闻"
+      "raw_hot": 137391,
+      "num": 137391,
+      "word": "T1拿下NS",
+      "onboard_time": 1679211086,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 135524,
@@ -1137,6 +1185,14 @@
       "onboard_time": 1679200470,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 134040,
+      "num": 134040,
+      "word": "科学家揭示斑马黑白条纹之谜",
+      "onboard_time": 1679210727,
+      "rank": 45,
+      "category": "科技"
     },
     {
       "raw_hot": 132729,
@@ -1187,6 +1243,22 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 124547,
+      "num": 124547,
+      "word": "赵小棠来活了兄弟模仿高启蛙",
+      "onboard_time": 1679210248,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 122182,
+      "num": 122182,
+      "word": "唐山动物园回应游客翻进熊猫园区",
+      "onboard_time": 1679210968,
+      "rank": 49,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 121485,
       "num": 121485,
       "word": "清融状态",
@@ -1217,14 +1289,6 @@
       "onboard_time": 1679178193,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 111820,
-      "num": 111820,
-      "word": "游客私闯熊猫园逗引大熊猫",
-      "onboard_time": 1679209707,
-      "rank": 45,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 107863,

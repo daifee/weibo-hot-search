@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679210163820,
+  "endTime": 1679211195093,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -371,19 +371,19 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 2661141,
+      "num": 2661141,
+      "word": "瑞秋删中文评论",
+      "onboard_time": 1679209467,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2650216,
       "num": 523015,
       "word": "25岁男演员刘峰去世",
       "onboard_time": 1677885859,
       "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 2628732,
-      "num": 2628732,
-      "word": "瑞秋删中文评论",
-      "onboard_time": 1679209467,
-      "rank": 0,
       "category": "艺人"
     },
     {
@@ -3299,6 +3299,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1088418,
+      "num": 1088418,
+      "word": "花32万买到全损事故车获退1赔3",
+      "onboard_time": 1679206768,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1085717,
       "num": 572261,
       "word": "迪丽热巴驼色大衣造型",
@@ -3888,14 +3896,6 @@
       "word": "孟菲斯动物园称已提交丫丫回国所有申请",
       "onboard_time": 1678201888,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1007397,
-      "num": 1007397,
-      "word": "花32万买到全损事故车获退1赔3",
-      "onboard_time": 1679206768,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -6059,6 +6059,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 770703,
+      "num": 770703,
+      "word": "教育局回应家长发又有作业被踢出群聊",
+      "onboard_time": 1679208866,
+      "rank": 10,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 769116,
       "num": 769116,
       "word": "美团称没有存款在硅谷银行",
@@ -7169,6 +7177,14 @@
       "onboard_time": 1677928767,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 689716,
+      "num": 689716,
+      "word": "JINNI或将签约YG黑厂",
+      "onboard_time": 1679210186,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 689564,
@@ -12219,14 +12235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 470813,
-      "num": 470813,
-      "word": "教育局回应家长发又有作业被踢出群聊",
-      "onboard_time": 1679208866,
-      "rank": 10,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 470732,
       "num": 470732,
       "word": "年轻人都流向了哪些城市",
@@ -16411,6 +16419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 349416,
+      "num": 349416,
+      "word": "金玟庭GISELLE手势舞",
+      "onboard_time": 1679210186,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 349068,
       "num": 349068,
       "word": "梅西世界杯后涨粉近4000万",
@@ -18539,6 +18555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 303176,
+      "num": 303176,
+      "word": "孙怡秦霄贤身高对比",
+      "onboard_time": 1679208267,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 303031,
       "num": 303031,
       "word": "白鹿摸周柯宇的头",
@@ -18553,6 +18577,14 @@
       "onboard_time": 1678538309,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 302949,
+      "num": 269931,
+      "word": "厌食症女孩怕外婆担心增重15斤",
+      "onboard_time": 1679208148,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 302399,
@@ -18737,14 +18769,6 @@
       "onboard_time": 1677890307,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 298926,
-      "num": 264462,
-      "word": "厌食症女孩怕外婆担心增重15斤",
-      "onboard_time": 1679208148,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 298862,
@@ -20667,14 +20691,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 261331,
-      "num": 261331,
-      "word": "孙怡秦霄贤身高对比",
-      "onboard_time": 1679208267,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 261325,
       "num": 261325,
       "word": "XYG折夕",
@@ -21561,6 +21577,14 @@
       "onboard_time": 1678163248,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 244767,
+      "num": 244767,
+      "word": "游客私闯熊猫园逗引大熊猫",
+      "onboard_time": 1679209707,
+      "rank": 45,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 244679,
@@ -22737,6 +22761,14 @@
       "onboard_time": 1678969472,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 227518,
+      "num": 227518,
+      "word": "滔搏选手为什么在KSG",
+      "onboard_time": 1679209407,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 227414,
@@ -27291,6 +27323,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 189675,
+      "num": 189675,
+      "word": "你的春日上分英雄是什么",
+      "onboard_time": 1679210727,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 189648,
       "num": 189648,
       "word": "春日壁纸",
@@ -27489,6 +27529,14 @@
       "onboard_time": 1679043811,
       "rank": 38,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 187981,
+      "num": 187981,
+      "word": "林俊杰香港巡演花絮照",
+      "onboard_time": 1679210248,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 187965,
@@ -29667,6 +29715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 163145,
+      "num": 163145,
+      "word": "张馨予为他是谁打call",
+      "onboard_time": 1679209407,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 162814,
       "num": 162814,
       "word": "他是谁案件套娃",
@@ -29857,14 +29913,6 @@
       "onboard_time": 1678796009,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 160486,
-      "num": 160486,
-      "word": "张馨予为他是谁打call",
-      "onboard_time": 1679209407,
-      "rank": 37,
-      "category": "影视"
     },
     {
       "raw_hot": 160468,
@@ -31403,6 +31451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144001,
+      "num": 144001,
+      "word": "新疆禁毒揭示化身奶茶的毒品",
+      "onboard_time": 1679208747,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143949,
       "num": 143949,
       "word": "刘耀文结业大戏剧照",
@@ -31633,14 +31689,6 @@
       "onboard_time": 1678840771,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 141499,
-      "num": 141499,
-      "word": "滔搏选手为什么在KSG",
-      "onboard_time": 1679209407,
-      "rank": 40,
-      "category": "游戏"
     },
     {
       "raw_hot": 141427,
@@ -32091,19 +32139,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 137391,
+      "num": 137391,
+      "word": "T1拿下NS",
+      "onboard_time": 1679211086,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 137325,
       "num": 261864,
       "word": "明日中国先导片",
       "onboard_time": 1678702765,
       "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 137310,
-      "num": 137310,
-      "word": "新疆禁毒揭示化身奶茶的毒品",
-      "onboard_time": 1679208747,
-      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -32513,6 +32561,14 @@
       "onboard_time": 1677753568,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 134040,
+      "num": 134040,
+      "word": "科学家揭示斑马黑白条纹之谜",
+      "onboard_time": 1679210727,
+      "rank": 45,
+      "category": "科技"
     },
     {
       "raw_hot": 133980,
@@ -33283,6 +33339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 124547,
+      "num": 124547,
+      "word": "赵小棠来活了兄弟模仿高启蛙",
+      "onboard_time": 1679210248,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 124343,
       "num": 124343,
       "word": "部分制造企业招工成本过万",
@@ -33529,6 +33593,14 @@
       "onboard_time": 1678445306,
       "rank": 33,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 122182,
+      "num": 122182,
+      "word": "唐山动物园回应游客翻进熊猫园区",
+      "onboard_time": 1679210968,
+      "rank": 49,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 121974,
@@ -34297,14 +34369,6 @@
       "onboard_time": 1677932605,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 111820,
-      "num": 111820,
-      "word": "游客私闯熊猫园逗引大熊猫",
-      "onboard_time": 1679209707,
-      "rank": 45,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 111787,
