@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679265210708,
+  "endTime": 1679267889498,
   "band_list": [
     {
       "raw_hot": 1724841,
@@ -19,6 +19,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 722944,
+      "num": 722944,
+      "word": "张兰回应海外欠债9.8亿",
+      "onboard_time": 1679237848,
+      "rank": 4,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 712725,
       "num": 403449,
       "word": "玲娜贝儿",
@@ -33,14 +41,6 @@
       "onboard_time": 1679239290,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 660017,
-      "num": 660017,
-      "word": "张兰回应海外欠债9.8亿",
-      "onboard_time": 1679237848,
-      "rank": 4,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 608157,
@@ -73,6 +73,14 @@
       "onboard_time": 1679236530,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 465104,
+      "num": 465104,
+      "word": "台湾日月潭九蛙叠像全部露出",
+      "onboard_time": 1679239712,
+      "rank": 13,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 431792,
@@ -115,12 +123,12 @@
       "category": "体育,影视"
     },
     {
-      "raw_hot": 349617,
-      "num": 349617,
-      "word": "台湾日月潭九蛙叠像全部露出",
-      "onboard_time": 1679239712,
-      "rank": 13,
-      "category": "旅游,社会新闻"
+      "raw_hot": 362790,
+      "num": 362790,
+      "word": "女子去年双11网购家具仍未发货",
+      "onboard_time": 1679255531,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 328904,
@@ -251,12 +259,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 149690,
-      "num": 85690,
-      "word": "女子去年双11网购家具仍未发货",
-      "onboard_time": 1679255531,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 145797,
+      "num": 145797,
+      "word": "巴萨vs皇马",
+      "onboard_time": 1679252173,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 144102,
@@ -283,6 +291,14 @@
       "category": "社会新闻,影视"
     },
     {
+      "raw_hot": 138973,
+      "num": 138973,
+      "word": "一秒入夏的连衣裙",
+      "onboard_time": 1679263334,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 133612,
       "num": 133612,
       "word": "王鹤棣杀青灯光秀",
@@ -296,6 +312,14 @@
       "word": "樊振东卫冕男单冠军",
       "onboard_time": 1679232810,
       "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 124102,
+      "num": 88444,
+      "word": "凯西绝杀皇马",
+      "onboard_time": 1679267539,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -313,6 +337,14 @@
       "onboard_time": 1679226508,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 117383,
+      "num": 117383,
+      "word": "沈梦辰被微积分整晕了",
+      "onboard_time": 1679266277,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 115692,
@@ -379,12 +411,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 92522,
-      "num": 92522,
-      "word": "巴萨vs皇马",
-      "onboard_time": 1679252173,
-      "rank": 22,
-      "category": "体育"
+      "raw_hot": 90402,
+      "num": 87293,
+      "word": "这小猫咪是犯人瘾了吧",
+      "onboard_time": 1679245399,
+      "rank": 45,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 84689,
@@ -443,20 +475,12 @@
       "category": "幽默,影视"
     },
     {
-      "raw_hot": 52458,
-      "num": 52458,
-      "word": "这小猫咪是犯人瘾了吧",
-      "onboard_time": 1679245399,
-      "rank": 45,
-      "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 40243,
-      "num": 36620,
-      "word": "一秒入夏的连衣裙",
-      "onboard_time": 1679263334,
-      "rank": 37,
-      "category": "情感"
+      "raw_hot": 47246,
+      "num": 47246,
+      "word": "宋茜的泰国游玩vlog",
+      "onboard_time": 1679248695,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 34286,
@@ -467,12 +491,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 33222,
-      "num": 33222,
-      "word": "宋茜的泰国游玩vlog",
-      "onboard_time": 1679248695,
-      "rank": 42,
-      "category": "艺人"
+      "raw_hot": 31900,
+      "num": 719324,
+      "word": "钢铁丝路好风光",
+      "onboard_time": 1679229987,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 30468,
@@ -489,14 +513,6 @@
       "onboard_time": 1679228248,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 20144,
-      "num": 719324,
-      "word": "钢铁丝路好风光",
-      "onboard_time": 1679229987,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
