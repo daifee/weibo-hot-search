@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679296663023,
+  "endTime": 1679297637614,
   "band_list": [
     {
       "raw_hot": 2369555,
@@ -17,6 +17,14 @@
       "onboard_time": 1679276187,
       "rank": 45,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 1751861,
+      "num": 816971,
+      "word": "杀夫藏尸冰柜女子婚礼主持人发声",
+      "onboard_time": 1679294847,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1724841,
@@ -64,14 +72,6 @@
       "word": "情侣住江景房裸身开窗帘被看光",
       "onboard_time": 1679286336,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1349518,
-      "num": 801121,
-      "word": "杀夫藏尸冰柜女子婚礼主持人发声",
-      "onboard_time": 1679294847,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -123,6 +123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 982205,
+      "num": 982205,
+      "word": "杀夫女子曾与丈夫合开一家文化公司",
+      "onboard_time": 1679293708,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 962463,
       "num": 962463,
       "word": "4名学生偷渡前往缅甸后失联",
@@ -152,14 +160,6 @@
       "word": "北大丁乾坤",
       "onboard_time": 1679291666,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 823700,
-      "num": 823700,
-      "word": "杀夫女子曾与丈夫合开一家文化公司",
-      "onboard_time": 1679293708,
-      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -299,6 +299,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 609977,
+      "num": 609977,
+      "word": "睡8个小时不一定代表睡得好",
+      "onboard_time": 1679295087,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 608157,
       "num": 400872,
       "word": "张兰欠9.8亿未还家族信托被击穿",
@@ -371,12 +379,12 @@
       "category": "社会新闻,幽默"
     },
     {
-      "raw_hot": 486457,
-      "num": 486457,
-      "word": "睡8个小时不一定代表睡得好",
-      "onboard_time": 1679295087,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 522411,
+      "num": 522411,
+      "word": "基金",
+      "onboard_time": 1679296048,
+      "rank": 32,
+      "category": "财经"
     },
     {
       "raw_hot": 479375,
@@ -427,6 +435,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 434145,
+      "num": 434145,
+      "word": "王鹤棣吃汉堡",
+      "onboard_time": 1679294068,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 431028,
       "num": 431028,
       "word": "水瓶座到底在焦虑什么",
@@ -449,14 +465,6 @@
       "onboard_time": 1679295147,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 425055,
-      "num": 425055,
-      "word": "王鹤棣吃汉堡",
-      "onboard_time": 1679294068,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 417892,
@@ -515,6 +523,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 375391,
+      "num": 375391,
+      "word": "黑厂否认与JINNI签约",
+      "onboard_time": 1679296587,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 368583,
       "num": 368583,
       "word": "瑞银提出收购瑞信",
@@ -529,6 +545,14 @@
       "onboard_time": 1679293286,
       "rank": 30,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 355384,
+      "num": 355384,
+      "word": "丫丫吃起了夜宵",
+      "onboard_time": 1679295987,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 342488,
@@ -683,14 +707,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 277618,
-      "num": 277618,
-      "word": "黑厂否认与JINNI签约",
-      "onboard_time": 1679296587,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 275645,
       "num": 275645,
       "word": "给狗狗打伞的爷爷",
@@ -787,6 +803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 230506,
+      "num": 230506,
+      "word": "杀夫藏尸案死者前同事称其很稳重",
+      "onboard_time": 1679295747,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 225777,
       "num": 225777,
       "word": "九尾重现火舞打金蝉",
@@ -817,14 +841,6 @@
       "onboard_time": 1679284171,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 217773,
-      "num": 217773,
-      "word": "杀夫藏尸案死者前同事称其很稳重",
-      "onboard_time": 1679295747,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 216353,
@@ -915,6 +931,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 198574,
+      "num": 198574,
+      "word": "吴磊微博之夜官宣视频",
+      "onboard_time": 1679297548,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 195651,
       "num": 195651,
       "word": "女子撞脸黑暗荣耀特工大婶",
@@ -993,14 +1017,6 @@
       "onboard_time": 1679222969,
       "rank": 25,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 178915,
-      "num": 178915,
-      "word": "基金",
-      "onboard_time": 1679296048,
-      "rank": 32,
-      "category": "财经"
     },
     {
       "raw_hot": 178824,
@@ -1091,6 +1107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 164470,
+      "num": 164470,
+      "word": "路晨归晓给我亲",
+      "onboard_time": 1679296347,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 163963,
       "num": 163963,
       "word": "黑暗荣耀弹幕",
@@ -1121,6 +1145,14 @@
       "onboard_time": 1679290350,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 153314,
+      "num": 153314,
+      "word": "好看的纹身有多酷",
+      "onboard_time": 1679296828,
+      "rank": 37,
+      "category": "时尚"
     },
     {
       "raw_hot": 152862,
@@ -1243,6 +1275,14 @@
       "category": "社会新闻,影视"
     },
     {
+      "raw_hot": 140412,
+      "num": 140412,
+      "word": "紫光原董事长赵伟国被起诉",
+      "onboard_time": 1679297308,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139549,
       "num": 139549,
       "word": "女子在缅遭绑哭喊我有两小孩",
@@ -1251,28 +1291,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 136933,
-      "num": 136933,
-      "word": "路晨归晓给我亲",
-      "onboard_time": 1679296347,
-      "rank": 39,
-      "category": "影视"
-    },
-    {
       "raw_hot": 135924,
       "num": 135924,
       "word": "车勋今日入伍",
       "onboard_time": 1679274329,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 134578,
-      "num": 134578,
-      "word": "丫丫吃起了夜宵",
-      "onboard_time": 1679295987,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 134445,
@@ -1321,6 +1345,14 @@
       "onboard_time": 1679283088,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 124817,
+      "num": 124817,
+      "word": "晨晓夫妇今日行程",
+      "onboard_time": 1679296708,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 124239,

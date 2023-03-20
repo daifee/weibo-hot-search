@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679296663023,
+  "endTime": 1679297637614,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -1291,6 +1291,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1751861,
+      "num": 816971,
+      "word": "杀夫藏尸冰柜女子婚礼主持人发声",
+      "onboard_time": 1679294847,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1750021,
       "num": 1750021,
       "word": "熊猫和花",
@@ -2417,14 +2425,6 @@
       "onboard_time": 1679115330,
       "rank": 3,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1349518,
-      "num": 801121,
-      "word": "杀夫藏尸冰柜女子婚礼主持人发声",
-      "onboard_time": 1679294847,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1348218,
@@ -4363,6 +4363,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 982205,
+      "num": 982205,
+      "word": "杀夫女子曾与丈夫合开一家文化公司",
+      "onboard_time": 1679293708,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 981063,
       "num": 660096,
       "word": "杨超越把宠物送养了",
@@ -5801,14 +5809,6 @@
       "onboard_time": 1678180888,
       "rank": 6,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 823700,
-      "num": 823700,
-      "word": "杀夫女子曾与丈夫合开一家文化公司",
-      "onboard_time": 1679293708,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 823683,
@@ -9219,6 +9219,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 609977,
+      "num": 609977,
+      "word": "睡8个小时不一定代表睡得好",
+      "onboard_time": 1679295087,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 609656,
       "num": 609656,
       "word": "网剧花戎",
@@ -11243,6 +11251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 522411,
+      "num": 522411,
+      "word": "基金",
+      "onboard_time": 1678950328,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 522320,
       "num": 161395,
       "word": "美股",
@@ -12321,14 +12337,6 @@
       "onboard_time": 1678695747,
       "rank": 36,
       "category": "财经"
-    },
-    {
-      "raw_hot": 486457,
-      "num": 486457,
-      "word": "睡8个小时不一定代表睡得好",
-      "onboard_time": 1679295087,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 486335,
@@ -14019,6 +14027,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 434145,
+      "num": 434145,
+      "word": "王鹤棣吃汉堡",
+      "onboard_time": 1679294068,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 433909,
       "num": 433909,
       "word": "TES对战BLG",
@@ -14337,14 +14353,6 @@
       "onboard_time": 1677984145,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 425055,
-      "num": 425055,
-      "word": "王鹤棣吃汉堡",
-      "onboard_time": 1679294068,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 424996,
@@ -16131,6 +16139,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 375391,
+      "num": 375391,
+      "word": "黑厂否认与JINNI签约",
+      "onboard_time": 1679296587,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 375385,
       "num": 375385,
       "word": "我国多地将超前体验4月的暖意",
@@ -17025,6 +17041,14 @@
       "onboard_time": 1677641247,
       "rank": 41,
       "category": "科技"
+    },
+    {
+      "raw_hot": 355384,
+      "num": 355384,
+      "word": "丫丫吃起了夜宵",
+      "onboard_time": 1679295987,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 355342,
@@ -20963,14 +20987,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 277618,
-      "num": 277618,
-      "word": "黑厂否认与JINNI签约",
-      "onboard_time": 1679296587,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 277512,
       "num": 277512,
       "word": "售价近40元的绘本",
@@ -21457,14 +21473,6 @@
       "onboard_time": 1678115307,
       "rank": 23,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 269825,
-      "num": 269825,
-      "word": "基金",
-      "onboard_time": 1678950328,
-      "rank": 31,
-      "category": "财经"
     },
     {
       "raw_hot": 269593,
@@ -23835,6 +23843,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 230506,
+      "num": 230506,
+      "word": "杀夫藏尸案死者前同事称其很稳重",
+      "onboard_time": 1679295747,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 230480,
       "num": 230480,
       "word": "吴奇隆林峯合照",
@@ -24993,14 +25009,6 @@
       "onboard_time": 1678080745,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 217773,
-      "num": 217773,
-      "word": "杀夫藏尸案死者前同事称其很稳重",
-      "onboard_time": 1679295747,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 217698,
@@ -27489,6 +27497,14 @@
       "onboard_time": 1678988053,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198574,
+      "num": 198574,
+      "word": "吴磊微博之夜官宣视频",
+      "onboard_time": 1679297548,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 198571,
@@ -31411,6 +31427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 164470,
+      "num": 164470,
+      "word": "路晨归晓给我亲",
+      "onboard_time": 1679296347,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 164325,
       "num": 164325,
       "word": "上野千鹤子对谈戴锦华实录",
@@ -32409,6 +32433,14 @@
       "onboard_time": 1677894025,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 153314,
+      "num": 153314,
+      "word": "好看的纹身有多酷",
+      "onboard_time": 1679296828,
+      "rank": 37,
+      "category": "时尚"
     },
     {
       "raw_hot": 153291,
@@ -33827,6 +33859,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 140412,
+      "num": 140412,
+      "word": "紫光原董事长赵伟国被起诉",
+      "onboard_time": 1679297308,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140352,
       "num": 140352,
       "word": "王鹤棣告别白马帅",
@@ -34179,14 +34219,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 136933,
-      "num": 136933,
-      "word": "路晨归晓给我亲",
-      "onboard_time": 1679296347,
-      "rank": 39,
-      "category": "影视"
-    },
-    {
       "raw_hot": 136763,
       "num": 136763,
       "word": "星落凝成糖优酷热度破10000",
@@ -34497,14 +34529,6 @@
       "onboard_time": 1678954227,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 134578,
-      "num": 134578,
-      "word": "丫丫吃起了夜宵",
-      "onboard_time": 1679295987,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 134520,
@@ -35417,6 +35441,14 @@
       "onboard_time": 1678086146,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 124817,
+      "num": 124817,
+      "word": "晨晓夫妇今日行程",
+      "onboard_time": 1679296708,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 124554,
