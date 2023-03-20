@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679321959378,
+  "endTime": 1679323035935,
   "band_list": [
     {
       "raw_hot": 7256959,
@@ -147,20 +147,20 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 1339577,
+      "num": 1339577,
+      "word": "C罗女友透露曾三次流产",
+      "onboard_time": 1679320052,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1245393,
       "num": 514952,
       "word": "小S称许雅钧是隐形爸爸",
       "onboard_time": 1679308110,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1244796,
-      "num": 1244796,
-      "word": "C罗女友透露曾三次流产",
-      "onboard_time": 1679320052,
-      "rank": 3,
-      "category": "体育"
     },
     {
       "raw_hot": 1182964,
@@ -177,6 +177,14 @@
       "onboard_time": 1679284890,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1120192,
+      "num": 1120192,
+      "word": "蔚来发布实习生事件调查报告",
+      "onboard_time": 1679321312,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1085916,
@@ -201,6 +209,14 @@
       "onboard_time": 1679275167,
       "rank": 3,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 1001475,
+      "num": 891460,
+      "word": "官方回应网传熊猫宝新去世",
+      "onboard_time": 1679319569,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 992480,
@@ -281,14 +297,6 @@
       "onboard_time": 1679302288,
       "rank": 5,
       "category": "影视"
-    },
-    {
-      "raw_hot": 891460,
-      "num": 891460,
-      "word": "官方回应网传熊猫宝新去世",
-      "onboard_time": 1679319569,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 884764,
@@ -451,14 +459,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 664245,
-      "num": 664245,
-      "word": "蔚来发布实习生事件调查报告",
-      "onboard_time": 1679321312,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 647431,
       "num": 398447,
       "word": "唐嫣的仪态",
@@ -577,6 +577,14 @@
       "onboard_time": 1679312672,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 581327,
+      "num": 581327,
+      "word": "杭州久摇不中72次及以上可申请车牌",
+      "onboard_time": 1679321133,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 580984,
@@ -763,12 +771,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 461653,
+      "num": 461653,
+      "word": "陈晓李沁为贴近角色化黑妆",
+      "onboard_time": 1679318729,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 461455,
       "num": 461455,
       "word": "赛琳娜ins粉丝数",
       "onboard_time": 1679282848,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 458388,
+      "num": 458388,
+      "word": "王栎鑫是懂代餐的",
+      "onboard_time": 1679322213,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 447567,
@@ -859,14 +883,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 417399,
-      "num": 417399,
-      "word": "陈晓李沁为贴近角色化黑妆",
-      "onboard_time": 1679318729,
-      "rank": 48,
-      "category": "影视"
-    },
-    {
       "raw_hot": 416751,
       "num": 416751,
       "word": "洪洗象 XYG教练",
@@ -897,6 +913,14 @@
       "onboard_time": 1679232810,
       "rank": 9,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 401502,
+      "num": 401502,
+      "word": "每天早睡1小时",
+      "onboard_time": 1679321190,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 398599,
@@ -1123,14 +1147,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 311543,
-      "num": 311543,
-      "word": "杭州久摇不中72次及以上可申请车牌",
-      "onboard_time": 1679321133,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 310043,
       "num": 310043,
       "word": "哪吒2预计于明年上映",
@@ -1211,8 +1227,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 288805,
+      "num": 288805,
+      "word": "王俊凯亮相不止不休首映",
+      "onboard_time": 1679322155,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 287345,
-      "num": 287345,
+      "num": 1419954,
       "word": "中俄两国是山水相连的友好邻邦",
       "onboard_time": 1679309969,
       "rank": 36,
@@ -1355,6 +1379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 248949,
+      "num": 248949,
+      "word": "丫丫",
+      "onboard_time": 1679321972,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 248715,
       "num": 248715,
       "word": "你好星期六cp大乱炖",
@@ -1465,14 +1497,6 @@
       "onboard_time": 1679287414,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 222676,
-      "num": 222676,
-      "word": "每天早睡1小时",
-      "onboard_time": 1679321190,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 222327,
@@ -1624,6 +1648,14 @@
       "word": "姐姐4招募观众",
       "onboard_time": 1679289750,
       "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 201293,
+      "num": 201293,
+      "word": "陈哲远青春环游记路透",
+      "onboard_time": 1679322155,
+      "rank": 32,
       "category": "综艺"
     },
     {
@@ -1891,6 +1923,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 170208,
+      "num": 170208,
+      "word": "被这只猫的肌肉惊到了",
+      "onboard_time": 1679321553,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 169674,
       "num": 166182,
       "word": "KPL选手的陪伴方式",
@@ -2035,14 +2075,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 151748,
-      "num": 151748,
-      "word": "被这只猫的肌肉惊到了",
-      "onboard_time": 1679321553,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 151741,
       "num": 151741,
       "word": "霉霉给烧伤粉丝送演唱会门票",
@@ -2153,6 +2185,14 @@
       "onboard_time": 1679231610,
       "rank": 32,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 143443,
+      "num": 143443,
+      "word": "艾怡良点赞宋亚轩翻唱foreveryoung",
+      "onboard_time": 1679322872,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 143239,
