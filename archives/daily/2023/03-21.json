@@ -1,6 +1,6 @@
 {
   "startTime": 1679329653267,
-  "endTime": 1679344429672,
+  "endTime": 1679346996058,
   "band_list": [
     {
       "raw_hot": 1094898,
@@ -451,6 +451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 36993,
+      "num": 27959,
+      "word": "大数据不会无缘无故推给我",
+      "onboard_time": 1679341931,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 32604,
       "num": 32604,
       "word": "林永健王天辰演父子",
@@ -459,12 +467,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 21872,
-      "num": 17314,
-      "word": "大数据不会无缘无故推给我",
-      "onboard_time": 1679341931,
-      "rank": 30,
-      "category": "情感"
+      "raw_hot": 14701,
+      "num": 14701,
+      "word": "各地旅游现状",
+      "onboard_time": 1679344574,
+      "rank": 35,
+      "category": "旅游"
     }
   ],
   "hotgov_list": [
