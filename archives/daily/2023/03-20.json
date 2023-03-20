@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679307661521,
+  "endTime": 1679308694620,
   "band_list": [
     {
       "raw_hot": 2369555,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 1353562,
-      "num": 318461,
+      "num": 334177,
       "word": "情侣住江景房裸身开窗帘被看光",
       "onboard_time": 1679286336,
       "rank": 30,
@@ -105,6 +105,14 @@
       "onboard_time": 1679268984,
       "rank": 20,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 1216985,
+      "num": 1216985,
+      "word": "8小时睡眠论可能是错的",
+      "onboard_time": 1679304149,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1182964,
@@ -147,20 +155,20 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 1004906,
-      "num": 1004906,
-      "word": "8小时睡眠论可能是错的",
-      "onboard_time": 1679304149,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 992480,
       "num": 992480,
       "word": "女生为见偶像花花被骗1140元",
       "onboard_time": 1679237491,
       "rank": 1,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 989411,
+      "num": 503467,
+      "word": "难听",
+      "onboard_time": 1679306370,
+      "rank": 10,
+      "category": "音乐"
     },
     {
       "raw_hot": 984860,
@@ -243,14 +251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 829511,
-      "num": 462473,
-      "word": "难听",
-      "onboard_time": 1679306370,
-      "rank": 10,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 809683,
       "num": 809683,
       "word": "张兰回应海外欠债9.8亿",
@@ -265,6 +265,14 @@
       "onboard_time": 1679277266,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 792984,
+      "num": 495166,
+      "word": "王一博打高尔夫",
+      "onboard_time": 1679307629,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 789393,
@@ -305,6 +313,14 @@
       "onboard_time": 1679278407,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 749235,
+      "num": 492312,
+      "word": "小S称许雅钧是隐形爸爸",
+      "onboard_time": 1679308110,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 712725,
@@ -419,6 +435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 595302,
+      "num": 595302,
+      "word": "内娱女星白色婚纱造型",
+      "onboard_time": 1679304570,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 586874,
       "num": 586874,
       "word": "哇唧唧哇养猪",
@@ -427,12 +451,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 580984,
+      "num": 580984,
+      "word": "山西省考",
+      "onboard_time": 1679282789,
+      "rank": 35,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 577975,
       "num": 577975,
       "word": "TVB演员30秒被扇21个耳光",
       "onboard_time": 1679240011,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 573989,
+      "num": 573989,
+      "word": "很难被拒绝的简历",
+      "onboard_time": 1679304149,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 571046,
+      "num": 571046,
+      "word": "男子追砍邻居祖孙俩被老伯制服",
+      "onboard_time": 1679304868,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 566246,
@@ -515,14 +563,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 498566,
-      "num": 448058,
-      "word": "王一博打高尔夫",
-      "onboard_time": 1679307629,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 493811,
       "num": 493811,
       "word": "以爱为营杀青",
@@ -531,27 +571,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 484638,
-      "num": 436825,
-      "word": "很难被拒绝的简历",
-      "onboard_time": 1679304149,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 483912,
-      "num": 483912,
-      "word": "男子追砍邻居祖孙俩被老伯制服",
-      "onboard_time": 1679304868,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 479375,
       "num": 479375,
       "word": "黑暗荣耀大婶登ELLE四月刊",
       "onboard_time": 1679286394,
       "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 474085,
+      "num": 474085,
+      "word": "1994小美人鱼vs2023小美人鱼",
+      "onboard_time": 1679307930,
+      "rank": 14,
       "category": "影视"
     },
     {
@@ -577,14 +609,6 @@
       "onboard_time": 1679289210,
       "rank": 37,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 466043,
-      "num": 466043,
-      "word": "内娱女星白色婚纱造型",
-      "onboard_time": 1679304570,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 461455,
@@ -803,6 +827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 315600,
+      "num": 315600,
+      "word": "英雄联盟",
+      "onboard_time": 1679307389,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 312835,
       "num": 312835,
       "word": "边伯贤将出演音乐节",
@@ -859,6 +891,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 295813,
+      "num": 295813,
+      "word": "黑暗荣耀河艺率表情管理",
+      "onboard_time": 1679305528,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 295324,
       "num": 295324,
       "word": "林峯黄宗泽吴卓羲群名三个帅哥",
@@ -873,14 +913,6 @@
       "onboard_time": 1679281827,
       "rank": 37,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 292044,
-      "num": 292044,
-      "word": "黑暗荣耀河艺率表情管理",
-      "onboard_time": 1679305528,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 290560,
@@ -1043,6 +1075,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 239127,
+      "num": 239127,
+      "word": "蛋仔派对",
+      "onboard_time": 1679306131,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 237703,
       "num": 237703,
       "word": "山东省考",
@@ -1057,14 +1097,6 @@
       "onboard_time": 1679237668,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 231603,
-      "num": 231603,
-      "word": "蛋仔派对",
-      "onboard_time": 1679306131,
-      "rank": 27,
-      "category": "游戏"
     },
     {
       "raw_hot": 230506,
@@ -1155,6 +1187,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 209509,
+      "num": 209509,
+      "word": "张新成模仿海清欧豪你是我的神",
+      "onboard_time": 1679308110,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208255,
       "num": 208255,
       "word": "恋与制作人",
@@ -1169,6 +1209,14 @@
       "onboard_time": 1679300187,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 206563,
+      "num": 206563,
+      "word": "版号",
+      "onboard_time": 1679308410,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 206530,
@@ -1193,6 +1241,14 @@
       "onboard_time": 1679289509,
       "rank": 33,
       "category": "科技"
+    },
+    {
+      "raw_hot": 204328,
+      "num": 204328,
+      "word": "晚睡晚起原来是病",
+      "onboard_time": 1679305168,
+      "rank": 31,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 202988,
@@ -1275,14 +1331,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 191933,
-      "num": 191933,
-      "word": "晚睡晚起原来是病",
-      "onboard_time": 1679305168,
-      "rank": 31,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 189667,
       "num": 189667,
       "word": "美香",
@@ -1337,14 +1385,6 @@
       "onboard_time": 1679298090,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 181097,
-      "num": 181097,
-      "word": "英雄联盟",
-      "onboard_time": 1679307389,
-      "rank": 35,
-      "category": "游戏"
     },
     {
       "raw_hot": 179383,
@@ -1443,6 +1483,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 169363,
+      "num": 169363,
+      "word": "等地铁被抓走的小猫咪",
+      "onboard_time": 1679305411,
+      "rank": 39,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 167613,
       "num": 483100,
       "word": "开啥都要喝开水",
@@ -1523,14 +1571,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 158235,
-      "num": 158235,
-      "word": "等地铁被抓走的小猫咪",
-      "onboard_time": 1679305411,
-      "rank": 39,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 154938,
       "num": 154938,
       "word": "路人被整蛊后的反应",
@@ -1579,12 +1619,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 149299,
-      "num": 149299,
-      "word": "山西省考",
-      "onboard_time": 1679282789,
-      "rank": 35,
-      "category": "教育,社会新闻"
+      "raw_hot": 148854,
+      "num": 148854,
+      "word": "当身边恋爱长跑的朋友分手后",
+      "onboard_time": 1679308229,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 148395,
@@ -1705,6 +1745,14 @@
       "onboard_time": 1679244080,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 133131,
+      "num": 133131,
+      "word": "网友们的配图有多搞笑",
+      "onboard_time": 1679307689,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 132071,
