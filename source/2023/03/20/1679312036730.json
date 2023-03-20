@@ -1,0 +1,410 @@
+{
+  "runTime": 1679312036730,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7256959,
+        "num": 8506959,
+        "word": "MU5735事故调查最新情况",
+        "onboard_time": 1679310572,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1406202,
+        "num": 1406202,
+        "word": "8小时睡眠论可能是错的",
+        "onboard_time": 1679304149,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24906,
+        "num": 975298,
+        "word": "1分钟感受身边的幸福",
+        "onboard_time": 1679280507,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 923875,
+        "num": 923875,
+        "word": "1994小美人鱼vs2023小美人鱼",
+        "onboard_time": 1679307930,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 818530,
+        "num": 818530,
+        "word": "中国代表团抵达莫斯科",
+        "onboard_time": 1679309609,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1179415,
+        "num": 794419,
+        "word": "3名在缅甸失联学生已找到",
+        "onboard_time": 1679303489,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 720771,
+        "num": 720771,
+        "word": "NIP零封RNG",
+        "onboard_time": 1679310268,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 640718,
+        "num": 640718,
+        "word": "冯琳 青年大学习",
+        "onboard_time": 1679302169,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 596267,
+        "num": 596267,
+        "word": "断糖对人会有什么影响",
+        "onboard_time": 1679308710,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 466206,
+        "num": 466206,
+        "word": "路星河是路炎晨和归晓的儿子吗",
+        "onboard_time": 1679308949,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1101102,
+        "num": 462839,
+        "word": "小S称许雅钧是隐形爸爸",
+        "onboard_time": 1679308110,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 648619,
+        "num": 441299,
+        "word": "中方回应国际刑事法院对普京逮捕令",
+        "onboard_time": 1679304331,
+        "rank": 11,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 637315,
+        "num": 426670,
+        "word": "王一博打高尔夫",
+        "onboard_time": 1679307629,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 616094,
+        "num": 418127,
+        "word": "难听",
+        "onboard_time": 1679306370,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 559325,
+        "num": 395021,
+        "word": "吴磊在芬兰冬泳",
+        "onboard_time": 1679310268,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 389421,
+        "num": 389421,
+        "word": "张颂文不止不休首映礼",
+        "onboard_time": 1679309789,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 377218,
+        "num": 377218,
+        "word": "很难被拒绝的简历",
+        "onboard_time": 1679304149,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 369907,
+        "num": 369907,
+        "word": "山西省考",
+        "onboard_time": 1679307869,
+        "rank": 17,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 358512,
+        "num": 358512,
+        "word": "当身边恋爱长跑的朋友分手后",
+        "onboard_time": 1679308229,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 338454,
+        "num": 338454,
+        "word": "ChatGPT",
+        "onboard_time": 1679301748,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 513982,
+        "num": 335895,
+        "word": "情侣住江景房裸身开窗帘被看光",
+        "onboard_time": 1679286336,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322128,
+        "num": 322128,
+        "word": "郭麒麟毛不易李雪琴演女婿上门",
+        "onboard_time": 1679310870,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 313961,
+        "num": 313961,
+        "word": "王俊凯墨镜倒影",
+        "onboard_time": 1679309129,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300702,
+        "num": 300702,
+        "word": "王者荣耀",
+        "onboard_time": 1679303128,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 294847,
+        "num": 294847,
+        "word": "丫丫吃起了夜宵",
+        "onboard_time": 1679295987,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293333,
+        "num": 293333,
+        "word": "内娱女星白色婚纱造型",
+        "onboard_time": 1679304570,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 287345,
+        "num": 287345,
+        "word": "中俄两国是山水相连的友好邻邦",
+        "onboard_time": 1679309969,
+        "rank": 26,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 271547,
+        "num": 271547,
+        "word": "英雄联盟",
+        "onboard_time": 1679307389,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 261361,
+        "num": 261361,
+        "word": "鞠婧祎蓝色头巾照",
+        "onboard_time": 1679311895,
+        "rank": 28,
+        "category": "作品衍生,社会新闻"
+      },
+      {
+        "raw_hot": 233664,
+        "num": 233664,
+        "word": "版号",
+        "onboard_time": 1679308410,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 232997,
+        "num": 232997,
+        "word": "董璇牵女儿走秀",
+        "onboard_time": 1679304688,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226921,
+        "num": 226921,
+        "word": "爱情而已 定档",
+        "onboard_time": 1679302288,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 225862,
+        "num": 225862,
+        "word": "27款进口网络游戏获批",
+        "onboard_time": 1679309009,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 217678,
+        "num": 217678,
+        "word": "原来妍珍也吃过爱情的苦",
+        "onboard_time": 1679311836,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 201277,
+        "num": 201277,
+        "word": "导师给我的论文批注",
+        "onboard_time": 1679298686,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 212802,
+        "num": 200177,
+        "word": "黑暗荣耀河艺率表情管理",
+        "onboard_time": 1679305528,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 195825,
+        "num": 195825,
+        "word": "等地铁被抓走的小猫咪",
+        "onboard_time": 1679305411,
+        "rank": 36,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 190096,
+        "num": 190096,
+        "word": "高叶版妍珍",
+        "onboard_time": 1679302590,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 181836,
+        "num": 181836,
+        "word": "EXO三大主唱经典高音现场",
+        "onboard_time": 1679301267,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 178552,
+        "num": 178552,
+        "word": "晨晓夫妇恋爱遭反对",
+        "onboard_time": 1679311054,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 168148,
+        "num": 168148,
+        "word": "IVE专辑配置",
+        "onboard_time": 1679305828,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 166909,
+        "num": 166909,
+        "word": "张新成模仿海清欧豪你是我的神",
+        "onboard_time": 1679308110,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166501,
+        "num": 166501,
+        "word": "这是刮鱼鳞还是刮毛",
+        "onboard_time": 1679310994,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 164851,
+        "num": 164851,
+        "word": "原来摘桃子这么过瘾",
+        "onboard_time": 1679308050,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163779,
+        "num": 163779,
+        "word": "晚睡晚起原来是病",
+        "onboard_time": 1679305168,
+        "rank": 44,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 153788,
+        "num": 153788,
+        "word": "阿信做梦都想删掉这段视频吧",
+        "onboard_time": 1679301267,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151920,
+        "num": 151920,
+        "word": "毛雪汪",
+        "onboard_time": 1679310327,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147050,
+        "num": 147050,
+        "word": "孟子义让徐正溪去植发",
+        "onboard_time": 1679311714,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 140749,
+        "num": 140749,
+        "word": "戚薇的恋爱观",
+        "onboard_time": 1679307330,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135459,
+        "num": 135459,
+        "word": "蛋仔派对",
+        "onboard_time": 1679306131,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对俄罗斯进行国事访问#"
+    }
+  }
+}
