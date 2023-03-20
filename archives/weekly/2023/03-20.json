@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679277376150,
+  "endTime": 1679280264902,
   "band_list": [
     {
       "raw_hot": 2369555,
@@ -9,6 +9,14 @@
       "onboard_time": 1679271148,
       "rank": 0,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 2114665,
+      "num": 2114665,
+      "word": "拒绝和玲娜贝儿互动的当事人回应",
+      "onboard_time": 1679276187,
+      "rank": 45,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 1724841,
@@ -27,20 +35,20 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 1220452,
+      "num": 1220452,
+      "word": "华为又一天才少年曝光",
+      "onboard_time": 1679277686,
+      "rank": 1,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1034170,
       "num": 1034170,
       "word": "大陆方面欢迎马英九先生来访",
       "onboard_time": 1679275167,
       "rank": 3,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 997019,
-      "num": 997019,
-      "word": "拒绝和玲娜贝儿互动的当事人回应",
-      "onboard_time": 1679276187,
-      "rank": 45,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 992480,
@@ -51,6 +59,22 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 961800,
+      "num": 510927,
+      "word": "顶顶拍的董洁",
+      "onboard_time": 1679278645,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 909039,
+      "num": 909039,
+      "word": "4名学生偷渡前往缅甸后失联",
+      "onboard_time": 1679277506,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 809683,
       "num": 809683,
       "word": "张兰回应海外欠债9.8亿",
@@ -59,12 +83,28 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 771819,
+      "num": 771819,
+      "word": "省考",
+      "onboard_time": 1679278527,
+      "rank": 5,
+      "category": "教育"
+    },
+    {
       "raw_hot": 712725,
       "num": 403449,
       "word": "玲娜贝儿",
       "onboard_time": 1679231729,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 693829,
+      "num": 693829,
+      "word": "报告称中国人幸福感全球最高",
+      "onboard_time": 1679277266,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 672518,
@@ -76,7 +116,7 @@
     },
     {
       "raw_hot": 666361,
-      "num": 409936,
+      "num": 509290,
       "word": "17岁女生寒假兼职做保安",
       "onboard_time": 1679275527,
       "rank": 18,
@@ -155,6 +195,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 485714,
+      "num": 485714,
+      "word": "调查称韩国人幸福感排名全球垫底",
+      "onboard_time": 1679278407,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 473039,
       "num": 262144,
       "word": "为什么不建议年轻人去摆摊",
@@ -227,6 +275,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 332370,
+      "num": 332370,
+      "word": "贺峻霖报道北电第一课无名",
+      "onboard_time": 1679278167,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 328904,
       "num": 328904,
       "word": "白桃星座",
@@ -257,6 +313,14 @@
       "onboard_time": 1679247377,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 252626,
+      "num": 252626,
+      "word": "直播平台回应苏州杀夫女子打赏金额",
+      "onboard_time": 1679277926,
+      "rank": 18,
+      "category": "社会负面,科技"
     },
     {
       "raw_hot": 250218,
@@ -316,7 +380,7 @@
     },
     {
       "raw_hot": 215431,
-      "num": 179142,
+      "num": 191866,
       "word": "徐冬冬吴卓羲老板娘3开机路透",
       "onboard_time": 1679277266,
       "rank": 27,
@@ -451,6 +515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161212,
+      "num": 161212,
+      "word": "南大教授团队推翻美国室温超导研究",
+      "onboard_time": 1679279488,
+      "rank": 27,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 151741,
       "num": 151741,
       "word": "霉霉给烧伤粉丝送演唱会门票",
@@ -473,14 +545,6 @@
       "onboard_time": 1679275946,
       "rank": 43,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 149290,
-      "num": 144237,
-      "word": "报告称中国人幸福感全球最高",
-      "onboard_time": 1679277266,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 145797,
@@ -521,6 +585,14 @@
       "onboard_time": 1679268202,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 141940,
+      "num": 141940,
+      "word": "这就是猫界双开门吧",
+      "onboard_time": 1679278287,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 141673,
@@ -611,6 +683,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 115581,
+      "num": 115581,
+      "word": "开啥都要喝开水",
+      "onboard_time": 1679279187,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 114804,
+      "num": 114804,
+      "word": "上市公司回应网传怒斥员工视频",
+      "onboard_time": 1679279068,
+      "rank": 38,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 114704,
       "num": 114704,
       "word": "克莉丝汀所有门店暂停运营",
@@ -641,6 +729,14 @@
       "onboard_time": 1679241808,
       "rank": 44,
       "category": "美食"
+    },
+    {
+      "raw_hot": 109112,
+      "num": 109112,
+      "word": "魔术vs湖人",
+      "onboard_time": 1679280028,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 102766,

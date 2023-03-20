@@ -1,0 +1,410 @@
+{
+  "runTime": 1679280264902,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2114665,
+        "num": 2114665,
+        "word": "拒绝和玲娜贝儿互动的当事人回应",
+        "onboard_time": 1679276187,
+        "rank": 0,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 1220452,
+        "num": 1220452,
+        "word": "华为又一天才少年曝光",
+        "onboard_time": 1679277686,
+        "rank": 1,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 14042,
+        "num": 998228,
+        "word": "钢铁丝路好风光",
+        "onboard_time": 1679229987,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1445242,
+        "num": 975042,
+        "word": "未满14周岁不承担法律后果合理吗",
+        "onboard_time": 1679271148,
+        "rank": 3,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 909039,
+        "num": 909039,
+        "word": "4名学生偷渡前往缅甸后失联",
+        "onboard_time": 1679277506,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 771819,
+        "num": 771819,
+        "word": "省考",
+        "onboard_time": 1679278527,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 693829,
+        "num": 693829,
+        "word": "报告称中国人幸福感全球最高",
+        "onboard_time": 1679277266,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 553363,
+        "num": 553363,
+        "word": "大陆方面欢迎马英九先生来访",
+        "onboard_time": 1679275167,
+        "rank": 7,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 525834,
+        "num": 525834,
+        "word": "泰国真的已经贵到去不起了吗",
+        "onboard_time": 1679239170,
+        "rank": 8,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 467783,
+        "num": 512202,
+        "word": "辅警往身上浇了盆水后冲进火场",
+        "onboard_time": 1679274987,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 961800,
+        "num": 510927,
+        "word": "顶顶拍的董洁",
+        "onboard_time": 1679278645,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 509290,
+        "num": 509290,
+        "word": "17岁女生寒假兼职做保安",
+        "onboard_time": 1679275527,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 485714,
+        "num": 485714,
+        "word": "调查称韩国人幸福感排名全球垫底",
+        "onboard_time": 1679278407,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 355112,
+        "num": 355112,
+        "word": "李湘辟谣主持乘风破浪",
+        "onboard_time": 1679275226,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 332370,
+        "num": 332370,
+        "word": "贺峻霖报道北电第一课无名",
+        "onboard_time": 1679278167,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 329590,
+        "num": 329590,
+        "word": "女生为见偶像花花被骗1140元",
+        "onboard_time": 1679237491,
+        "rank": 15,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 319647,
+        "num": 319647,
+        "word": "唐嫣的仪态",
+        "onboard_time": 1679269586,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 254226,
+        "num": 254226,
+        "word": "张兰回应海外欠债9.8亿",
+        "onboard_time": 1679237848,
+        "rank": 17,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 252626,
+        "num": 252626,
+        "word": "直播平台回应苏州杀夫女子打赏金额",
+        "onboard_time": 1679277926,
+        "rank": 18,
+        "category": "社会负面,科技"
+      },
+      {
+        "raw_hot": 237656,
+        "num": 237656,
+        "word": "周一",
+        "onboard_time": 1679275047,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 800453,
+        "num": 217117,
+        "word": "李梦",
+        "onboard_time": 1679268984,
+        "rank": 20,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 300835,
+        "num": 213312,
+        "word": "为什么不建议年轻人去摆摊",
+        "onboard_time": 1679239229,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 191866,
+        "num": 191866,
+        "word": "徐冬冬吴卓羲老板娘3开机路透",
+        "onboard_time": 1679277266,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 186736,
+        "num": 186736,
+        "word": "我驻中非使馆发布安全提醒",
+        "onboard_time": 1679273247,
+        "rank": 23,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 184279,
+        "num": 184279,
+        "word": "张译说准备尝试一下演李清照",
+        "onboard_time": 1679242705,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173958,
+        "num": 173958,
+        "word": "姆巴佩两失单刀",
+        "onboard_time": 1679273668,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170036,
+        "num": 170036,
+        "word": "研究称男性也有最佳生育年龄",
+        "onboard_time": 1679236530,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161212,
+        "num": 161212,
+        "word": "南大教授团队推翻美国室温超导研究",
+        "onboard_time": 1679279488,
+        "rank": 27,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 156850,
+        "num": 156850,
+        "word": "玲娜贝儿",
+        "onboard_time": 1679231729,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 151054,
+        "num": 151054,
+        "word": "张兰欠9.8亿未还家族信托被击穿",
+        "onboard_time": 1679229987,
+        "rank": 29,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 148118,
+        "num": 148118,
+        "word": "水瓶座到底在焦虑什么",
+        "onboard_time": 1679238153,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142093,
+        "num": 142093,
+        "word": "女子去年双11网购家具仍未发货",
+        "onboard_time": 1679255531,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141940,
+        "num": 141940,
+        "word": "这就是猫界双开门吧",
+        "onboard_time": 1679278287,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 129084,
+        "num": 129084,
+        "word": "网曝重庆瑞鹏宠物医院医生虐待猫咪",
+        "onboard_time": 1679247377,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127019,
+        "num": 127019,
+        "word": "Lisa钢管舞蹈视频",
+        "onboard_time": 1679269765,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 125710,
+        "num": 125710,
+        "word": "台湾日月潭九蛙叠像全部露出",
+        "onboard_time": 1679239712,
+        "rank": 35,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 117166,
+        "num": 117166,
+        "word": "雅思组合击败韩国队获混双冠军",
+        "onboard_time": 1679275946,
+        "rank": 36,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 115581,
+        "num": 115581,
+        "word": "开啥都要喝开水",
+        "onboard_time": 1679279187,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 114804,
+        "num": 114804,
+        "word": "上市公司回应网传怒斥员工视频",
+        "onboard_time": 1679279068,
+        "rank": 38,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 110251,
+        "num": 110251,
+        "word": "狂飙李宏伟观战北京男篮",
+        "onboard_time": 1679238869,
+        "rank": 39,
+        "category": "体育,影视"
+      },
+      {
+        "raw_hot": 109112,
+        "num": 109112,
+        "word": "魔术vs湖人",
+        "onboard_time": 1679280028,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108147,
+        "num": 108147,
+        "word": "如果在全在俊面前跳就死定了",
+        "onboard_time": 1679269528,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103684,
+        "num": 103684,
+        "word": "美香",
+        "onboard_time": 1679268443,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93569,
+        "num": 93569,
+        "word": "这小猫咪是犯人瘾了吧",
+        "onboard_time": 1679245399,
+        "rank": 43,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 90656,
+        "num": 90656,
+        "word": "厕所看自己好看一些的原因",
+        "onboard_time": 1679235629,
+        "rank": 44,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 87898,
+        "num": 87898,
+        "word": "艾热王以太早安杨和苏现场",
+        "onboard_time": 1679274090,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 87836,
+        "num": 87836,
+        "word": "大麦向华晨宇方致歉",
+        "onboard_time": 1679238093,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82919,
+        "num": 82919,
+        "word": "沈梦辰被微积分整晕了",
+        "onboard_time": 1679266277,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81370,
+        "num": 81370,
+        "word": "TVB演员30秒被扇21个耳光",
+        "onboard_time": 1679240011,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80479,
+        "num": 80479,
+        "word": "金智秀主打曲海报",
+        "onboard_time": 1679270304,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#交通成为中国现代化的开路先锋#"
+    }
+  }
+}
