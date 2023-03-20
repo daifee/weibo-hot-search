@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679326648476,
+  "endTime": 1679329653267,
   "band_list": [
     {
       "raw_hot": 7256959,
@@ -203,6 +203,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1083762,
+      "num": 1083762,
+      "word": "泰国旅游",
+      "onboard_time": 1679326229,
+      "rank": 33,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 1051181,
       "num": 1051181,
       "word": "睡8个小时不一定代表睡得好",
@@ -387,6 +395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 792228,
+      "num": 792228,
+      "word": "为什么不建议婚后和父母住",
+      "onboard_time": 1679324312,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 789393,
       "num": 789393,
       "word": "朴妍珍的嘴",
@@ -497,6 +513,14 @@
       "onboard_time": 1679301267,
       "rank": 15,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 644787,
+      "num": 644787,
+      "word": "秒回是很喜欢一个人的表现吗",
+      "onboard_time": 1679325208,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 639785,
@@ -635,14 +659,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 568081,
-      "num": 568081,
-      "word": "为什么不建议婚后和父母住",
-      "onboard_time": 1679324312,
-      "rank": 19,
-      "category": "情感"
-    },
-    {
       "raw_hot": 566246,
       "num": 566246,
       "word": "基金",
@@ -769,6 +785,14 @@
       "onboard_time": 1679286394,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 477382,
+      "num": 477382,
+      "word": "wbg",
+      "onboard_time": 1679325509,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 473039,
@@ -923,14 +947,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 409220,
-      "num": 409220,
-      "word": "wbg",
-      "onboard_time": 1679325509,
-      "rank": 37,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 408475,
       "num": 184144,
       "word": "2名未成年男生殴打侵犯11岁女孩",
@@ -979,8 +995,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 379465,
-      "num": 379465,
+      "raw_hot": 381905,
+      "num": 381905,
       "word": "把猫猫一把拖进被窝",
       "onboard_time": 1679324611,
       "rank": 29,
@@ -1401,14 +1417,6 @@
       "onboard_time": 1679311895,
       "rank": 28,
       "category": "作品衍生,社会新闻"
-    },
-    {
-      "raw_hot": 253515,
-      "num": 253515,
-      "word": "秒回是很喜欢一个人的表现吗",
-      "onboard_time": 1679325208,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 252626,
@@ -1835,14 +1843,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 193156,
-      "num": 193156,
-      "word": "泰国旅游",
-      "onboard_time": 1679326229,
-      "rank": 33,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 193059,
       "num": 193059,
       "word": "被这只猫的肌肉惊到了",
@@ -2243,6 +2243,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 147342,
+      "num": 147342,
+      "word": "李雪琴演我发消息",
+      "onboard_time": 1679327965,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 147265,
       "num": 147265,
       "word": "陈伟南",
@@ -2523,6 +2531,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 110808,
+      "num": 110808,
+      "word": "谁教你们这样拍婚纱照的",
+      "onboard_time": 1679326707,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 110724,
       "num": 110724,
       "word": "EDG这个龙王ban了吧",
@@ -2545,6 +2561,14 @@
       "onboard_time": 1679220148,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 102566,
+      "num": 102566,
+      "word": "哈卷演唱会",
+      "onboard_time": 1679327965,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 101994,
