@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679330722620,
+  "endTime": 1679332644897,
   "band_list": [
     {
       "raw_hot": 7256959,
@@ -440,6 +440,14 @@
       "word": "调查称韩国人幸福感排名全球垫底",
       "onboard_time": 1679278407,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 764659,
+      "num": 764659,
+      "word": "广东人上床睡觉时间全国最晚",
+      "onboard_time": 1679329882,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -1649,14 +1657,6 @@
       "onboard_time": 1679304271,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 212965,
-      "num": 212965,
-      "word": "广东人上床睡觉时间全国最晚",
-      "onboard_time": 1679329882,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 209585,

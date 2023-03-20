@@ -1,6 +1,6 @@
 {
   "startTime": 1679329653267,
-  "endTime": 1679330722620,
+  "endTime": 1679332644897,
   "band_list": [
     {
       "raw_hot": 1094898,
@@ -33,6 +33,14 @@
       "onboard_time": 1679324312,
       "rank": 3,
       "category": "情感"
+    },
+    {
+      "raw_hot": 764659,
+      "num": 764659,
+      "word": "广东人上床睡觉时间全国最晚",
+      "onboard_time": 1679329882,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 660539,
@@ -144,14 +152,6 @@
       "word": "杭州久摇不中72次及以上可申请车牌",
       "onboard_time": 1679321133,
       "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 212965,
-      "num": 212965,
-      "word": "广东人上床睡觉时间全国最晚",
-      "onboard_time": 1679329882,
-      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -417,11 +417,22 @@
       "onboard_time": 1679312794,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 53404,
+      "num": 53404,
+      "word": "丁禹兮彭小苒新剧被叫雌雄双煞",
+      "onboard_time": 1679316390,
+      "rank": 38,
+      "category": "影视"
     }
   ],
   "hotgov_list": [
     {
       "word": "#习近平乘专机抵达莫斯科#"
+    },
+    {
+      "word": "#开启友谊合作与和平之旅#"
     }
   ]
 }
