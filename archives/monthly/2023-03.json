@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679339715556,
+  "endTime": 1679340822544,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -39379,6 +39379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85297,
+      "num": 49889,
+      "word": "日本一农村25年才迎来一个新生儿",
+      "onboard_time": 1679336952,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 85213,
       "num": 80735,
       "word": "星落凝成糖 意难平",
@@ -39465,14 +39473,6 @@
       "onboard_time": 1677585270,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 83581,
-      "num": 49889,
-      "word": "日本一农村25年才迎来一个新生儿",
-      "onboard_time": 1679336952,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 83484,
@@ -40379,6 +40379,14 @@
       "category": "幽默,影视"
     },
     {
+      "raw_hot": 54097,
+      "num": 41129,
+      "word": "女子被姑叔分走15万遗产后遭拉黑",
+      "onboard_time": 1679338392,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 54057,
       "num": 69660,
       "word": "WBG BP",
@@ -40745,14 +40753,6 @@
       "onboard_time": 1677700272,
       "rank": 33,
       "category": "美食"
-    },
-    {
-      "raw_hot": 34384,
-      "num": 34384,
-      "word": "女子被姑叔分走15万遗产后遭拉黑",
-      "onboard_time": 1679338392,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 33120,

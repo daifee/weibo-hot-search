@@ -1,6 +1,6 @@
 {
   "startTime": 1679329653267,
-  "endTime": 1679339715556,
+  "endTime": 1679340822544,
   "band_list": [
     {
       "raw_hot": 1094898,
@@ -411,20 +411,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 85297,
+      "num": 49889,
+      "word": "日本一农村25年才迎来一个新生儿",
+      "onboard_time": 1679336952,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 84805,
       "num": 84805,
       "word": "IVE回归概念预告",
       "onboard_time": 1679324791,
       "rank": 49,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 83581,
-      "num": 49889,
-      "word": "日本一农村25年才迎来一个新生儿",
-      "onboard_time": 1679336952,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 83300,
@@ -435,20 +435,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 54097,
+      "num": 41129,
+      "word": "女子被姑叔分走15万遗产后遭拉黑",
+      "onboard_time": 1679338392,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 53404,
       "num": 53404,
       "word": "丁禹兮彭小苒新剧被叫雌雄双煞",
       "onboard_time": 1679316390,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 34384,
-      "num": 34384,
-      "word": "女子被姑叔分走15万遗产后遭拉黑",
-      "onboard_time": 1679338392,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 32604,

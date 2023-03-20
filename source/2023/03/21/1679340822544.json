@@ -1,0 +1,410 @@
+{
+  "runTime": 1679340822544,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 138786,
+        "num": 138786,
+        "word": "海底捞回应女大学生在包间留宿",
+        "onboard_time": 1679317468,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110271,
+        "num": 110271,
+        "word": "广东人上床睡觉时间全国最晚",
+        "onboard_time": 1679329882,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18828,
+        "num": 97648,
+        "word": "中俄两国是山水相连的友好邻邦",
+        "onboard_time": 1679322451,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 92266,
+        "num": 92266,
+        "word": "MU5735事故调查最新情况",
+        "onboard_time": 1679310572,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86569,
+        "num": 86569,
+        "word": "泰国旅游",
+        "onboard_time": 1679326229,
+        "rank": 4,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 65122,
+        "num": 65122,
+        "word": "为什么不建议婚后和父母住",
+        "onboard_time": 1679324312,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 59920,
+        "num": 59920,
+        "word": "C罗女友透露曾三次流产",
+        "onboard_time": 1679320052,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58283,
+        "num": 58283,
+        "word": "张颂文 什么都嗑只会害了你",
+        "onboard_time": 1679316690,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 57792,
+        "num": 57792,
+        "word": "8小时睡眠论可能是错的",
+        "onboard_time": 1679304149,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42334,
+        "num": 42334,
+        "word": "wbg",
+        "onboard_time": 1679325509,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 93282,
+        "num": 41896,
+        "word": "90后小伙因长得老气专骗70后阿姨",
+        "onboard_time": 1679334734,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85297,
+        "num": 41346,
+        "word": "日本一农村25年才迎来一个新生儿",
+        "onboard_time": 1679336952,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54097,
+        "num": 41129,
+        "word": "女子被姑叔分走15万遗产后遭拉黑",
+        "onboard_time": 1679338392,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39644,
+        "num": 39644,
+        "word": "小S称许雅钧是隐形爸爸",
+        "onboard_time": 1679308110,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34953,
+        "num": 34953,
+        "word": "把猫猫一把拖进被窝",
+        "onboard_time": 1679324611,
+        "rank": 14,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 34799,
+        "num": 34799,
+        "word": "男子3万块钱车被13万停车费吓到",
+        "onboard_time": 1679318609,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33562,
+        "num": 33562,
+        "word": "杨子 李亚鹏",
+        "onboard_time": 1679313093,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 32149,
+        "num": 32149,
+        "word": "秒回是很喜欢一个人的表现吗",
+        "onboard_time": 1679325208,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 31388,
+        "num": 31388,
+        "word": "云胡不喜选角 胡歌陈星旭",
+        "onboard_time": 1679324849,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 27181,
+        "num": 27181,
+        "word": "林永健王天辰演父子",
+        "onboard_time": 1679325449,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 33434,
+        "num": 27176,
+        "word": "官方回应网传熊猫宝新去世",
+        "onboard_time": 1679319569,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27171,
+        "num": 27171,
+        "word": "俞灏明他是谁演了个疯批",
+        "onboard_time": 1679314413,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 26712,
+        "num": 26712,
+        "word": "中方回应国际刑事法院对普京逮捕令",
+        "onboard_time": 1679304331,
+        "rank": 22,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 26325,
+        "num": 26325,
+        "word": "TT官宣iBoy",
+        "onboard_time": 1679314110,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 24240,
+        "num": 24240,
+        "word": "陈晓李沁为贴近角色化黑妆",
+        "onboard_time": 1679318729,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 23401,
+        "num": 23401,
+        "word": "蔚来发布实习生事件调查报告",
+        "onboard_time": 1679321312,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23119,
+        "num": 23119,
+        "word": "1994小美人鱼vs2023小美人鱼",
+        "onboard_time": 1679307930,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 22616,
+        "num": 22616,
+        "word": "杭州久摇不中72次及以上可申请车牌",
+        "onboard_time": 1679321133,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21345,
+        "num": 21345,
+        "word": "感受到了基因的优越性",
+        "onboard_time": 1679321731,
+        "rank": 28,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 21333,
+        "num": 21333,
+        "word": "回响",
+        "onboard_time": 1679319331,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 21074,
+        "num": 21074,
+        "word": "王俊凯亮相不止不休首映",
+        "onboard_time": 1679322155,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 20902,
+        "num": 20902,
+        "word": "李雪琴演我发消息",
+        "onboard_time": 1679327965,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18827,
+        "num": 18827,
+        "word": "断糖对人会有什么影响",
+        "onboard_time": 1679308710,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 18776,
+        "num": 18776,
+        "word": "aespa演唱会上的假唱舞台",
+        "onboard_time": 1679317468,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 17625,
+        "num": 17625,
+        "word": "他是谁凶手",
+        "onboard_time": 1679315130,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 17547,
+        "num": 17547,
+        "word": "戚薇说李承铉是秃头小宝贝",
+        "onboard_time": 1679312794,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16990,
+        "num": 16990,
+        "word": "真的不建议大家趴睡",
+        "onboard_time": 1679314830,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 16182,
+        "num": 16182,
+        "word": "俄方在机场举行迎宾仪式",
+        "onboard_time": 1679318190,
+        "rank": 37,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 15979,
+        "num": 15979,
+        "word": "王一博打高尔夫",
+        "onboard_time": 1679307629,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15704,
+        "num": 15704,
+        "word": "熊猫萌兰为了越狱有多努力",
+        "onboard_time": 1679316750,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 15593,
+        "num": 15593,
+        "word": "王栎鑫是懂代餐的",
+        "onboard_time": 1679322213,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 15415,
+        "num": 15415,
+        "word": "被这只猫的肌肉惊到了",
+        "onboard_time": 1679321553,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 15315,
+        "num": 15315,
+        "word": "微博之夜同台名场面",
+        "onboard_time": 1679314110,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 14194,
+        "num": 14194,
+        "word": "哈卷演唱会",
+        "onboard_time": 1679327965,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 13678,
+        "num": 13678,
+        "word": "高加林大学名额被顶替",
+        "onboard_time": 1679323109,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 13086,
+        "num": 13086,
+        "word": "路星河是路炎晨和归晓的儿子吗",
+        "onboard_time": 1679308949,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 12900,
+        "num": 12900,
+        "word": "林俊杰演唱会单手接花",
+        "onboard_time": 1679323291,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 12886,
+        "num": 12886,
+        "word": "每天早睡1小时",
+        "onboard_time": 1679321190,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 11835,
+        "num": 12886,
+        "word": "IVE回归概念预告",
+        "onboard_time": 1679324791,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 11678,
+        "num": 12883,
+        "word": "丁禹兮彭小苒新剧被叫雌雄双煞",
+        "onboard_time": 1679316390,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对俄罗斯进行国事访问#"
+    }
+  }
+}
