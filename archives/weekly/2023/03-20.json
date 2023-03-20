@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679282365342,
+  "endTime": 1679283219266,
   "band_list": [
     {
       "raw_hot": 2369555,
@@ -43,6 +43,14 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 1151440,
+      "num": 1151440,
+      "word": "公公豪掷117万为儿媳买编制被骗",
+      "onboard_time": 1679280628,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1034170,
       "num": 1034170,
       "word": "大陆方面欢迎马英九先生来访",
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 884764,
-      "num": 507510,
+      "num": 608746,
       "word": "Jinni即将solo出道",
       "onboard_time": 1679280687,
       "rank": 11,
@@ -107,14 +115,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 774394,
-      "num": 460302,
-      "word": "公公豪掷117万为儿媳买编制被骗",
-      "onboard_time": 1679280628,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 767667,
       "num": 767667,
       "word": "调查称韩国人幸福感排名全球垫底",
@@ -129,6 +129,14 @@
       "onboard_time": 1679231729,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 703565,
+      "num": 703565,
+      "word": "迪士尼回应玲娜贝儿演员疑遭排挤",
+      "onboard_time": 1679282187,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 672518,
@@ -163,20 +171,28 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 618937,
+      "num": 618937,
+      "word": "杨幂宽檐礼帽造型",
+      "onboard_time": 1679281407,
+      "rank": 8,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 610119,
+      "num": 610119,
+      "word": "妍珍演我上班",
+      "onboard_time": 1679281347,
+      "rank": 9,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 608157,
       "num": 400872,
       "word": "张兰欠9.8亿未还家族信托被击穿",
       "onboard_time": 1679229987,
       "rank": 11,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 606813,
-      "num": 606813,
-      "word": "杨幂宽檐礼帽造型",
-      "onboard_time": 1679281407,
-      "rank": 8,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 577975,
@@ -227,14 +243,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 532546,
-      "num": 532546,
-      "word": "妍珍演我上班",
-      "onboard_time": 1679281347,
-      "rank": 9,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 473039,
       "num": 262144,
       "word": "为什么不建议年轻人去摆摊",
@@ -257,6 +265,14 @@
       "onboard_time": 1679273247,
       "rank": 11,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 429212,
+      "num": 429212,
+      "word": "南大教授团队推翻美国室温超导研究",
+      "onboard_time": 1679279488,
+      "rank": 27,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 417892,
@@ -291,20 +307,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 398360,
-      "num": 398360,
-      "word": "南大教授团队推翻美国室温超导研究",
-      "onboard_time": 1679279488,
-      "rank": 27,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 397798,
       "num": 397798,
       "word": "狂飙李宏伟观战北京男篮",
       "onboard_time": 1679238869,
       "rank": 12,
       "category": "体育,影视"
+    },
+    {
+      "raw_hot": 386845,
+      "num": 386845,
+      "word": "赛琳娜ins粉丝数",
+      "onboard_time": 1679282848,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 368583,
@@ -339,8 +355,16 @@
       "category": "体育"
     },
     {
-      "raw_hot": 275582,
-      "num": 275582,
+      "raw_hot": 304806,
+      "num": 304806,
+      "word": "以最残忍的方式羞辱钓鱼佬",
+      "onboard_time": 1679280988,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 282747,
+      "num": 282747,
       "word": "广东省考",
       "onboard_time": 1679280567,
       "rank": 38,
@@ -361,14 +385,6 @@
       "onboard_time": 1679247377,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 256356,
-      "num": 170699,
-      "word": "以最残忍的方式羞辱钓鱼佬",
-      "onboard_time": 1679280988,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 252626,
@@ -403,6 +419,22 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 238102,
+      "num": 238102,
+      "word": "女子寺庙游玩遇到新式鬼屋",
+      "onboard_time": 1679281827,
+      "rank": 37,
+      "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 237703,
+      "num": 237703,
+      "word": "山东省考",
+      "onboard_time": 1679281287,
+      "rank": 25,
+      "category": "教育"
+    },
+    {
       "raw_hot": 235212,
       "num": 218075,
       "word": "丫丫吃上了新鲜竹子和辅食",
@@ -419,20 +451,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 225218,
-      "num": 225218,
-      "word": "山东省考",
-      "onboard_time": 1679281287,
-      "rank": 25,
-      "category": "教育"
-    },
-    {
       "raw_hot": 222327,
       "num": 222327,
       "word": "白敬亭对井柏然说哥我错了下次还敢",
       "onboard_time": 1679226328,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 222263,
+      "num": 222263,
+      "word": "任正非称不能垄断人才",
+      "onboard_time": 1679281767,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 216353,
@@ -465,6 +497,14 @@
       "onboard_time": 1679275767,
       "rank": 27,
       "category": "社会新闻,军事"
+    },
+    {
+      "raw_hot": 202574,
+      "num": 202574,
+      "word": "李现官宣加盟微博之夜",
+      "onboard_time": 1679282848,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 199447,
@@ -507,14 +547,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 190318,
-      "num": 190318,
-      "word": "任正非称不能垄断人才",
-      "onboard_time": 1679281767,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 189667,
       "num": 189667,
       "word": "美香",
@@ -531,12 +563,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 184260,
+      "num": 184260,
+      "word": "吴磊说周雨彤的口头禅",
+      "onboard_time": 1679282966,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 179383,
       "num": 129089,
       "word": "贺峻霖投篮姿势",
       "onboard_time": 1679268684,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 179029,
+      "num": 129675,
+      "word": "原来老一辈才是理财高手",
+      "onboard_time": 1679283149,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 178962,
@@ -569,6 +617,14 @@
       "onboard_time": 1679236949,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 174026,
+      "num": 174026,
+      "word": "睡不好为何会昏昏沉沉",
+      "onboard_time": 1679281048,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 171810,
@@ -659,14 +715,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 143378,
-      "num": 143378,
-      "word": "睡不好为何会昏昏沉沉",
-      "onboard_time": 1679281048,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 143239,
       "num": 128980,
       "word": "今天国际幸福日",
@@ -689,6 +737,14 @@
       "onboard_time": 1679234791,
       "rank": 29,
       "category": "社会新闻,影视"
+    },
+    {
+      "raw_hot": 139815,
+      "num": 128109,
+      "word": "00后女生10秒拒绝8家公司",
+      "onboard_time": 1679283149,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 139549,
@@ -731,12 +787,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 132603,
-      "num": 132603,
-      "word": "迪士尼回应玲娜贝儿演员疑遭排挤",
-      "onboard_time": 1679282187,
-      "rank": 34,
-      "category": "社会新闻"
+      "raw_hot": 130835,
+      "num": 130835,
+      "word": "山西省考",
+      "onboard_time": 1679282789,
+      "rank": 35,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 130812,
@@ -756,19 +812,19 @@
     },
     {
       "raw_hot": 128672,
-      "num": 1062128,
+      "num": 1175129,
       "word": "1分钟感受身边的幸福",
       "onboard_time": 1679280507,
       "rank": 2,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 127754,
-      "num": 127754,
-      "word": "女子寺庙游玩遇到新式鬼屋",
-      "onboard_time": 1679281827,
+      "raw_hot": 128448,
+      "num": 128448,
+      "word": "成韩彬的旧照",
+      "onboard_time": 1679283088,
       "rank": 37,
-      "category": "旅游,社会新闻"
+      "category": "作品衍生"
     },
     {
       "raw_hot": 124239,
@@ -889,6 +945,14 @@
       "onboard_time": 1679267901,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 93097,
+      "num": 93097,
+      "word": "天津省考",
+      "onboard_time": 1679283207,
+      "rank": 48,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 93096,
