@@ -1,0 +1,410 @@
+{
+  "runTime": 1679282365342,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2018138,
+        "num": 2018138,
+        "word": "拒绝和玲娜贝儿互动的当事人回应",
+        "onboard_time": 1679276187,
+        "rank": 0,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 1384942,
+        "num": 1384942,
+        "word": "华为又一天才少年曝光",
+        "onboard_time": 1679277686,
+        "rank": 1,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 128672,
+        "num": 1062128,
+        "word": "1分钟感受身边的幸福",
+        "onboard_time": 1679280507,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 908517,
+        "num": 908517,
+        "word": "4名学生偷渡前往缅甸后失联",
+        "onboard_time": 1679277506,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 794811,
+        "num": 794811,
+        "word": "报告称中国人幸福感全球最高",
+        "onboard_time": 1679277266,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1145596,
+        "num": 787333,
+        "word": "未满14周岁不承担法律后果合理吗",
+        "onboard_time": 1679271148,
+        "rank": 5,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 767667,
+        "num": 767667,
+        "word": "调查称韩国人幸福感排名全球垫底",
+        "onboard_time": 1679278407,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 615956,
+        "num": 615956,
+        "word": "省考",
+        "onboard_time": 1679278527,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 606813,
+        "num": 606813,
+        "word": "杨幂宽檐礼帽造型",
+        "onboard_time": 1679281407,
+        "rank": 8,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 532546,
+        "num": 532546,
+        "word": "妍珍演我上班",
+        "onboard_time": 1679281347,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 884764,
+        "num": 507510,
+        "word": "Jinni即将solo出道",
+        "onboard_time": 1679280687,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 774394,
+        "num": 460302,
+        "word": "公公豪掷117万为儿媳买编制被骗",
+        "onboard_time": 1679280628,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 398360,
+        "num": 398360,
+        "word": "南大教授团队推翻美国室温超导研究",
+        "onboard_time": 1679279488,
+        "rank": 12,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 354096,
+        "num": 354096,
+        "word": "泰国真的已经贵到去不起了吗",
+        "onboard_time": 1679239170,
+        "rank": 13,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 303824,
+        "num": 303824,
+        "word": "17岁女生寒假兼职做保安",
+        "onboard_time": 1679275527,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298125,
+        "num": 298125,
+        "word": "贺峻霖报道北电第一课无名",
+        "onboard_time": 1679278167,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 275582,
+        "num": 275582,
+        "word": "广东省考",
+        "onboard_time": 1679280567,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 242115,
+        "num": 242115,
+        "word": "唐嫣的仪态",
+        "onboard_time": 1679269586,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 241995,
+        "num": 241995,
+        "word": "女生为见偶像花花被骗1140元",
+        "onboard_time": 1679237491,
+        "rank": 18,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 237721,
+        "num": 237721,
+        "word": "大陆方面欢迎马英九先生来访",
+        "onboard_time": 1679275167,
+        "rank": 19,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 604593,
+        "num": 237718,
+        "word": "李梦",
+        "onboard_time": 1679268984,
+        "rank": 20,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 273154,
+        "num": 237717,
+        "word": "为什么不建议年轻人去摆摊",
+        "onboard_time": 1679239229,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 237697,
+        "num": 237697,
+        "word": "辅警往身上浇了盆水后冲进火场",
+        "onboard_time": 1679274987,
+        "rank": 22,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 228683,
+        "num": 228683,
+        "word": "直播平台回应苏州杀夫女子打赏金额",
+        "onboard_time": 1679277926,
+        "rank": 23,
+        "category": "社会负面,科技"
+      },
+      {
+        "raw_hot": 226882,
+        "num": 226882,
+        "word": "张兰回应海外欠债9.8亿",
+        "onboard_time": 1679237848,
+        "rank": 24,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 225218,
+        "num": 225218,
+        "word": "山东省考",
+        "onboard_time": 1679281287,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 214647,
+        "num": 214647,
+        "word": "不止不休真实的力量",
+        "onboard_time": 1679281168,
+        "rank": 26,
+        "category": "影视,情感"
+      },
+      {
+        "raw_hot": 190318,
+        "num": 190318,
+        "word": "任正非称不能垄断人才",
+        "onboard_time": 1679281767,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 984860,
+        "num": 187166,
+        "word": "顶顶拍的董洁",
+        "onboard_time": 1679278645,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173396,
+        "num": 173396,
+        "word": "李湘辟谣主持乘风破浪",
+        "onboard_time": 1679275226,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256356,
+        "num": 170699,
+        "word": "以最残忍的方式羞辱钓鱼佬",
+        "onboard_time": 1679280988,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143378,
+        "num": 143378,
+        "word": "睡不好为何会昏昏沉沉",
+        "onboard_time": 1679281048,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134445,
+        "num": 134445,
+        "word": "上市公司回应网传怒斥员工视频",
+        "onboard_time": 1679279068,
+        "rank": 32,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 132690,
+        "num": 132690,
+        "word": "华为最新天才少年回应入选",
+        "onboard_time": 1679280328,
+        "rank": 33,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 132603,
+        "num": 132603,
+        "word": "迪士尼回应玲娜贝儿演员疑遭排挤",
+        "onboard_time": 1679282187,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129261,
+        "num": 129261,
+        "word": "这就是猫界双开门吧",
+        "onboard_time": 1679278287,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 128754,
+        "num": 128754,
+        "word": "水瓶座到底在焦虑什么",
+        "onboard_time": 1679238153,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 127754,
+        "num": 127754,
+        "word": "女子寺庙游玩遇到新式鬼屋",
+        "onboard_time": 1679281827,
+        "rank": 37,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 126241,
+        "num": 126241,
+        "word": "魔术vs湖人",
+        "onboard_time": 1679280028,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124909,
+        "num": 124909,
+        "word": "姆巴佩两失单刀",
+        "onboard_time": 1679273668,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124456,
+        "num": 124456,
+        "word": "张译说准备尝试一下演李清照",
+        "onboard_time": 1679242705,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121683,
+        "num": 121683,
+        "word": "研究称男性也有最佳生育年龄",
+        "onboard_time": 1679236530,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120948,
+        "num": 120948,
+        "word": "张兰欠9.8亿未还家族信托被击穿",
+        "onboard_time": 1679229987,
+        "rank": 42,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 117235,
+        "num": 117235,
+        "word": "徐冬冬吴卓羲老板娘3开机路透",
+        "onboard_time": 1679277266,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 114239,
+        "num": 114239,
+        "word": "我驻中非使馆发布安全提醒",
+        "onboard_time": 1679273247,
+        "rank": 44,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 103034,
+        "num": 103034,
+        "word": "周一",
+        "onboard_time": 1679275047,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 102172,
+        "num": 102172,
+        "word": "Lisa钢管舞蹈视频",
+        "onboard_time": 1679269765,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 101287,
+        "num": 101287,
+        "word": "玲娜贝儿",
+        "onboard_time": 1679231729,
+        "rank": 47,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 97630,
+        "num": 97630,
+        "word": "网曝重庆瑞鹏宠物医院医生虐待猫咪",
+        "onboard_time": 1679247377,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95835,
+        "num": 95835,
+        "word": "女子去年双11网购家具仍未发货",
+        "onboard_time": 1679255531,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对俄罗斯进行国事访问#"
+    }
+  }
+}

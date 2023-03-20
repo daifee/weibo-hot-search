@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679280811746,
+  "endTime": 1679282365342,
   "band_list": [
     {
       "raw_hot": 2369555,
@@ -27,20 +27,20 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 1384942,
+      "num": 1384942,
+      "word": "华为又一天才少年曝光",
+      "onboard_time": 1679277686,
+      "rank": 1,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1344800,
       "num": 262461,
       "word": "李梦",
       "onboard_time": 1679268984,
       "rank": 20,
       "category": "体育,网红"
-    },
-    {
-      "raw_hot": 1259650,
-      "num": 1259650,
-      "word": "华为又一天才少年曝光",
-      "onboard_time": 1679277686,
-      "rank": 1,
-      "category": "科技"
     },
     {
       "raw_hot": 1034170,
@@ -59,6 +59,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 984860,
+      "num": 510927,
+      "word": "顶顶拍的董洁",
+      "onboard_time": 1679278645,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 962463,
       "num": 962463,
       "word": "4名学生偷渡前往缅甸后失联",
@@ -67,11 +75,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 961800,
-      "num": 510927,
-      "word": "顶顶拍的董洁",
-      "onboard_time": 1679278645,
-      "rank": 10,
+      "raw_hot": 884764,
+      "num": 507510,
+      "word": "Jinni即将solo出道",
+      "onboard_time": 1679280687,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -83,6 +91,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 794811,
+      "num": 794811,
+      "word": "报告称中国人幸福感全球最高",
+      "onboard_time": 1679277266,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 778060,
       "num": 778060,
       "word": "省考",
@@ -91,11 +107,19 @@
       "category": "教育"
     },
     {
-      "raw_hot": 743859,
-      "num": 743859,
-      "word": "报告称中国人幸福感全球最高",
-      "onboard_time": 1679277266,
-      "rank": 36,
+      "raw_hot": 774394,
+      "num": 460302,
+      "word": "公公豪掷117万为儿媳买编制被骗",
+      "onboard_time": 1679280628,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 767667,
+      "num": 767667,
+      "word": "调查称韩国人幸福感排名全球垫底",
+      "onboard_time": 1679278407,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -147,12 +171,12 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 596494,
-      "num": 596494,
-      "word": "调查称韩国人幸福感排名全球垫底",
-      "onboard_time": 1679278407,
-      "rank": 12,
-      "category": "社会新闻"
+      "raw_hot": 606813,
+      "num": 606813,
+      "word": "杨幂宽檐礼帽造型",
+      "onboard_time": 1679281407,
+      "rank": 8,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 577975,
@@ -203,12 +227,12 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 503839,
-      "num": 427029,
-      "word": "Jinni即将solo出道",
-      "onboard_time": 1679280687,
-      "rank": 11,
-      "category": "艺人"
+      "raw_hot": 532546,
+      "num": 532546,
+      "word": "妍珍演我上班",
+      "onboard_time": 1679281347,
+      "rank": 9,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 473039,
@@ -267,6 +291,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 398360,
+      "num": 398360,
+      "word": "南大教授团队推翻美国室温超导研究",
+      "onboard_time": 1679279488,
+      "rank": 27,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 397798,
       "num": 397798,
       "word": "狂飙李宏伟观战北京男篮",
@@ -307,6 +339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 275582,
+      "num": 275582,
+      "word": "广东省考",
+      "onboard_time": 1679280567,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 269061,
       "num": 269061,
       "word": "8箱芒果托运980女子当场吃完",
@@ -321,6 +361,14 @@
       "onboard_time": 1679247377,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 256356,
+      "num": 170699,
+      "word": "以最残忍的方式羞辱钓鱼佬",
+      "onboard_time": 1679280988,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 252626,
@@ -363,20 +411,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 234232,
-      "num": 234232,
-      "word": "南大教授团队推翻美国室温超导研究",
-      "onboard_time": 1679279488,
-      "rank": 27,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 225777,
       "num": 225777,
       "word": "九尾重现火舞打金蝉",
       "onboard_time": 1679238451,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 225218,
+      "num": 225218,
+      "word": "山东省考",
+      "onboard_time": 1679281287,
+      "rank": 25,
+      "category": "教育"
     },
     {
       "raw_hot": 222327,
@@ -401,6 +449,14 @@
       "onboard_time": 1679277266,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 214647,
+      "num": 214647,
+      "word": "不止不休真实的力量",
+      "onboard_time": 1679281168,
+      "rank": 26,
+      "category": "影视,情感"
     },
     {
       "raw_hot": 206530,
@@ -449,6 +505,14 @@
       "onboard_time": 1679280328,
       "rank": 24,
       "category": "科技"
+    },
+    {
+      "raw_hot": 190318,
+      "num": 190318,
+      "word": "任正非称不能垄断人才",
+      "onboard_time": 1679281767,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 189667,
@@ -595,6 +659,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 143378,
+      "num": 143378,
+      "word": "睡不好为何会昏昏沉沉",
+      "onboard_time": 1679281048,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143239,
       "num": 128980,
       "word": "今天国际幸福日",
@@ -635,6 +707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 134445,
+      "num": 134445,
+      "word": "上市公司回应网传怒斥员工视频",
+      "onboard_time": 1679279068,
+      "rank": 38,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 133612,
       "num": 133612,
       "word": "王鹤棣杀青灯光秀",
@@ -651,6 +731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 132603,
+      "num": 132603,
+      "word": "迪士尼回应玲娜贝儿演员疑遭排挤",
+      "onboard_time": 1679282187,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130812,
       "num": 130812,
       "word": "金智秀主打曲海报",
@@ -665,6 +753,22 @@
       "onboard_time": 1679267901,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128672,
+      "num": 1062128,
+      "word": "1分钟感受身边的幸福",
+      "onboard_time": 1679280507,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127754,
+      "num": 127754,
+      "word": "女子寺庙游玩遇到新式鬼屋",
+      "onboard_time": 1679281827,
+      "rank": 37,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 124239,
@@ -715,14 +819,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 114804,
-      "num": 114804,
-      "word": "上市公司回应网传怒斥员工视频",
-      "onboard_time": 1679279068,
-      "rank": 38,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 114704,
       "num": 114704,
       "word": "克莉丝汀所有门店暂停运营",
@@ -737,14 +833,6 @@
       "onboard_time": 1679220208,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 112946,
-      "num": 112946,
-      "word": "广东省考",
-      "onboard_time": 1679280567,
-      "rank": 38,
-      "category": "教育"
     },
     {
       "raw_hot": 110724,
@@ -777,14 +865,6 @@
       "onboard_time": 1679268684,
       "rank": 42,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 99771,
-      "num": 99771,
-      "word": "公公豪掷117万为儿媳买编制被骗",
-      "onboard_time": 1679280628,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 99476,
@@ -859,14 +939,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 75250,
-      "num": 988403,
-      "word": "1分钟感受身边的幸福",
-      "onboard_time": 1679280507,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 65638,
       "num": 65638,
       "word": "TWICE全员跳Pop",
@@ -932,6 +1004,9 @@
     },
     {
       "word": "#在全党大兴调查研究#"
+    },
+    {
+      "word": "#习近平对俄罗斯进行国事访问#"
     }
   ]
 }
