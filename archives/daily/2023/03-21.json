@@ -1,6 +1,6 @@
 {
   "startTime": 1679329653267,
-  "endTime": 1679350586137,
+  "endTime": 1679351611733,
   "band_list": [
     {
       "raw_hot": 1094898,
@@ -155,12 +155,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 197324,
+      "num": 197324,
+      "word": "女子被姑叔分走15万遗产后遭拉黑",
+      "onboard_time": 1679338392,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184242,
       "num": 184242,
       "word": "aespa演唱会上的假唱舞台",
       "onboard_time": 1679317468,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 177771,
+      "num": 177771,
+      "word": "日本一农村25年才迎来一个新生儿",
+      "onboard_time": 1679336952,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 172493,
@@ -235,6 +251,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 139576,
+      "num": 139576,
+      "word": "90后小伙因长得老气专骗70后阿姨",
+      "onboard_time": 1679334734,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139173,
       "num": 139173,
       "word": "断糖对人会有什么影响",
@@ -243,36 +267,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 129046,
-      "num": 129046,
-      "word": "女子被姑叔分走15万遗产后遭拉黑",
-      "onboard_time": 1679338392,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 127409,
-      "num": 127409,
-      "word": "日本一农村25年才迎来一个新生儿",
-      "onboard_time": 1679336952,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 124350,
       "num": 124350,
       "word": "谭松韵哭腔",
       "onboard_time": 1679324069,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 123693,
-      "num": 94729,
-      "word": "90后小伙因长得老气专骗70后阿姨",
-      "onboard_time": 1679334734,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 121315,
@@ -451,20 +451,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 38472,
+      "num": 34684,
+      "word": "各地旅游现状",
+      "onboard_time": 1679344574,
+      "rank": 35,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 37275,
       "num": 37275,
       "word": "大数据不会无缘无故推给我",
       "onboard_time": 1679341931,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 34763,
-      "num": 26216,
-      "word": "各地旅游现状",
-      "onboard_time": 1679344574,
-      "rank": 35,
-      "category": "旅游"
     },
     {
       "raw_hot": 32604,
