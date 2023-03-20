@@ -1,7 +1,15 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679308694620,
+  "endTime": 1679310976954,
   "band_list": [
+    {
+      "raw_hot": 2964363,
+      "num": 2964363,
+      "word": "MU5735事故调查最新情况",
+      "onboard_time": 1679310572,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2369555,
       "num": 2369555,
@@ -75,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1460919,
+      "num": 1460919,
+      "word": "8小时睡眠论可能是错的",
+      "onboard_time": 1679304149,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1450900,
       "num": 1450900,
       "word": "冯琳 青年大学习",
@@ -92,7 +108,7 @@
     },
     {
       "raw_hot": 1353562,
-      "num": 334177,
+      "num": 400781,
       "word": "情侣住江景房裸身开窗帘被看光",
       "onboard_time": 1679286336,
       "rank": 30,
@@ -107,12 +123,12 @@
       "category": "体育,网红"
     },
     {
-      "raw_hot": 1216985,
-      "num": 1216985,
-      "word": "8小时睡眠论可能是错的",
-      "onboard_time": 1679304149,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 1245393,
+      "num": 514952,
+      "word": "小S称许雅钧是隐形爸爸",
+      "onboard_time": 1679308110,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 1182964,
@@ -315,12 +331,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 749235,
-      "num": 492312,
-      "word": "小S称许雅钧是隐形爸爸",
-      "onboard_time": 1679308110,
-      "rank": 12,
-      "category": "综艺"
+      "raw_hot": 748263,
+      "num": 748263,
+      "word": "1994小美人鱼vs2023小美人鱼",
+      "onboard_time": 1679307930,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 712725,
@@ -329,6 +345,14 @@
       "onboard_time": 1679231729,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 704564,
+      "num": 704564,
+      "word": "中国代表团抵达莫斯科",
+      "onboard_time": 1679309609,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 702096,
@@ -443,6 +467,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 587245,
+      "num": 587245,
+      "word": "NIP零封RNG",
+      "onboard_time": 1679310268,
+      "rank": 7,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 586874,
       "num": 586874,
       "word": "哇唧唧哇养猪",
@@ -539,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 538156,
+      "num": 452564,
+      "word": "吴磊在芬兰冬泳",
+      "onboard_time": 1679310268,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 536063,
       "num": 536063,
       "word": "台湾日月潭九蛙叠像全部露出",
@@ -553,6 +593,14 @@
       "onboard_time": 1679292927,
       "rank": 42,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 526953,
+      "num": 526953,
+      "word": "路星河是路炎晨和归晓的儿子吗",
+      "onboard_time": 1679308949,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 501386,
@@ -576,14 +624,6 @@
       "word": "黑暗荣耀大婶登ELLE四月刊",
       "onboard_time": 1679286394,
       "rank": 21,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 474085,
-      "num": 474085,
-      "word": "1994小美人鱼vs2023小美人鱼",
-      "onboard_time": 1679307930,
-      "rank": 14,
       "category": "影视"
     },
     {
@@ -659,12 +699,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 430758,
+      "num": 430758,
+      "word": "王俊凯墨镜倒影",
+      "onboard_time": 1679309129,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 430427,
       "num": 378277,
       "word": "我驻中非使馆发布安全提醒",
       "onboard_time": 1679273247,
       "rank": 11,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 429037,
+      "num": 429037,
+      "word": "NIP对战RNG",
+      "onboard_time": 1679306788,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 428047,
@@ -707,12 +763,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 403453,
+      "num": 403453,
+      "word": "断糖对人会有什么影响",
+      "onboard_time": 1679308710,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 397798,
       "num": 397798,
       "word": "狂飙李宏伟观战北京男篮",
       "onboard_time": 1679238869,
       "rank": 12,
       "category": "体育,影视"
+    },
+    {
+      "raw_hot": 392970,
+      "num": 392970,
+      "word": "张颂文不止不休首映礼",
+      "onboard_time": 1679309789,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 377060,
@@ -827,11 +899,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 315600,
-      "num": 315600,
+      "raw_hot": 320720,
+      "num": 320720,
       "word": "英雄联盟",
       "onboard_time": 1679307389,
       "rank": 35,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 316108,
+      "num": 316108,
+      "word": "版号",
+      "onboard_time": 1679308410,
+      "rank": 32,
       "category": "游戏"
     },
     {
@@ -987,6 +1067,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 274004,
+      "num": 274004,
+      "word": "当身边恋爱长跑的朋友分手后",
+      "onboard_time": 1679308229,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 273390,
       "num": 273390,
       "word": "李现官宣加盟微博之夜",
@@ -1027,6 +1115,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 261759,
+      "num": 261759,
+      "word": "郭麒麟毛不易李雪琴演女婿上门",
+      "onboard_time": 1679310870,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 252626,
       "num": 252626,
       "word": "直播平台回应苏州杀夫女子打赏金额",
@@ -1057,6 +1153,14 @@
       "onboard_time": 1679304928,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 244043,
+      "num": 244043,
+      "word": "27款进口网络游戏获批",
+      "onboard_time": 1679309009,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 242022,
@@ -1187,6 +1291,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 209585,
+      "num": 209585,
+      "word": "晚睡晚起原来是病",
+      "onboard_time": 1679305168,
+      "rank": 31,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 209509,
       "num": 209509,
       "word": "张新成模仿海清欧豪你是我的神",
@@ -1211,12 +1323,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 206563,
-      "num": 206563,
-      "word": "版号",
-      "onboard_time": 1679308410,
-      "rank": 32,
-      "category": "游戏"
+      "raw_hot": 206844,
+      "num": 206844,
+      "word": "中俄两国是山水相连的友好邻邦",
+      "onboard_time": 1679309969,
+      "rank": 36,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 206530,
@@ -1243,11 +1355,11 @@
       "category": "科技"
     },
     {
-      "raw_hot": 204328,
-      "num": 204328,
-      "word": "晚睡晚起原来是病",
-      "onboard_time": 1679305168,
-      "rank": 31,
+      "raw_hot": 204198,
+      "num": 204198,
+      "word": "等地铁被抓走的小猫咪",
+      "onboard_time": 1679305411,
+      "rank": 39,
       "category": "幽默,情感"
     },
     {
@@ -1315,6 +1427,14 @@
       "category": "社会新闻,影视"
     },
     {
+      "raw_hot": 193949,
+      "num": 193949,
+      "word": "毛雪汪",
+      "onboard_time": 1679310327,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193181,
       "num": 193181,
       "word": "一秒入夏的连衣裙",
@@ -1345,14 +1465,6 @@
       "onboard_time": 1679232753,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 186470,
-      "num": 186470,
-      "word": "NIP对战RNG",
-      "onboard_time": 1679306788,
-      "rank": 33,
-      "category": "游戏"
     },
     {
       "raw_hot": 185145,
@@ -1483,14 +1595,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 169363,
-      "num": 169363,
-      "word": "等地铁被抓走的小猫咪",
-      "onboard_time": 1679305411,
-      "rank": 39,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 167613,
       "num": 483100,
       "word": "开啥都要喝开水",
@@ -1571,6 +1675,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 158957,
+      "num": 158957,
+      "word": "宋亚轩教庄达菲说粤语",
+      "onboard_time": 1679306488,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154938,
       "num": 154938,
       "word": "路人被整蛊后的反应",
@@ -1617,14 +1729,6 @@
       "onboard_time": 1679288135,
       "rank": 43,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 148854,
-      "num": 148854,
-      "word": "当身边恋爱长跑的朋友分手后",
-      "onboard_time": 1679308229,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 148395,
@@ -1753,14 +1857,6 @@
       "onboard_time": 1679307689,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 132071,
-      "num": 132071,
-      "word": "宋亚轩教庄达菲说粤语",
-      "onboard_time": 1679306488,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 130812,
