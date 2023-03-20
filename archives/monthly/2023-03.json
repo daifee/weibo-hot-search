@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679333660358,
+  "endTime": 1679336645051,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -39232,6 +39232,14 @@
       "word": "植树节",
       "onboard_time": 1678578860,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 88331,
+      "num": 88331,
+      "word": "90后小伙因长得老气专骗70后阿姨",
+      "onboard_time": 1679334734,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
