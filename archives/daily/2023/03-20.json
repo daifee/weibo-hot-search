@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679283219266,
+  "endTime": 1679286186382,
   "band_list": [
     {
       "raw_hot": 2369555,
@@ -27,6 +27,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 1621382,
+      "num": 1621382,
+      "word": "公公豪掷117万为儿媳买编制被骗",
+      "onboard_time": 1679280628,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1384942,
       "num": 1384942,
       "word": "华为又一天才少年曝光",
@@ -43,12 +51,12 @@
       "category": "体育,网红"
     },
     {
-      "raw_hot": 1151440,
-      "num": 1151440,
-      "word": "公公豪掷117万为儿媳买编制被骗",
-      "onboard_time": 1679280628,
-      "rank": 44,
-      "category": "社会新闻"
+      "raw_hot": 1147089,
+      "num": 1147089,
+      "word": "杨紫两部剧获微博年度人气剧集",
+      "onboard_time": 1679284890,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 1034170,
@@ -57,6 +65,14 @@
       "onboard_time": 1679275167,
       "rank": 3,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 996039,
+      "num": 996039,
+      "word": "00后女生10秒拒绝8家公司",
+      "onboard_time": 1679283149,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 992480,
@@ -80,6 +96,14 @@
       "word": "4名学生偷渡前往缅甸后失联",
       "onboard_time": 1679277506,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 951176,
+      "num": 951176,
+      "word": "迪士尼回应玲娜贝儿演员疑遭排挤",
+      "onboard_time": 1679282187,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -107,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 789393,
+      "num": 789393,
+      "word": "朴妍珍的嘴",
+      "onboard_time": 1679284950,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 778060,
       "num": 778060,
       "word": "省考",
@@ -129,14 +161,6 @@
       "onboard_time": 1679231729,
       "rank": 10,
       "category": "网红"
-    },
-    {
-      "raw_hot": 703565,
-      "num": 703565,
-      "word": "迪士尼回应玲娜贝儿演员疑遭排挤",
-      "onboard_time": 1679282187,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 672518,
@@ -203,6 +227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 566198,
+      "num": 535523,
+      "word": "动物园大猩猩被发现在直立行走",
+      "onboard_time": 1679283749,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 562097,
       "num": 562097,
       "word": "张译说准备尝试一下演李清照",
@@ -251,6 +283,30 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 461455,
+      "num": 461455,
+      "word": "赛琳娜ins粉丝数",
+      "onboard_time": 1679282848,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 447567,
+      "num": 447567,
+      "word": "南大教授团队推翻美国室温超导研究",
+      "onboard_time": 1679279488,
+      "rank": 27,
+      "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 446853,
+      "num": 446853,
+      "word": "以最残忍的方式羞辱钓鱼佬",
+      "onboard_time": 1679280988,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 431028,
       "num": 431028,
       "word": "水瓶座到底在焦虑什么",
@@ -265,14 +321,6 @@
       "onboard_time": 1679273247,
       "rank": 11,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 429212,
-      "num": 429212,
-      "word": "南大教授团队推翻美国室温超导研究",
-      "onboard_time": 1679279488,
-      "rank": 27,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 417892,
@@ -315,12 +363,12 @@
       "category": "体育,影视"
     },
     {
-      "raw_hot": 386845,
-      "num": 386845,
-      "word": "赛琳娜ins粉丝数",
-      "onboard_time": 1679282848,
-      "rank": 14,
-      "category": "艺人"
+      "raw_hot": 377060,
+      "num": 377060,
+      "word": "吴磊说周雨彤的口头禅",
+      "onboard_time": 1679282966,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 368583,
@@ -355,12 +403,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 304806,
-      "num": 304806,
-      "word": "以最残忍的方式羞辱钓鱼佬",
-      "onboard_time": 1679280988,
-      "rank": 30,
-      "category": "幽默"
+      "raw_hot": 294022,
+      "num": 294022,
+      "word": "女子寺庙游玩遇到新式鬼屋",
+      "onboard_time": 1679281827,
+      "rank": 37,
+      "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 290291,
+      "num": 290291,
+      "word": "任正非称不能垄断人才",
+      "onboard_time": 1679281767,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 287963,
+      "num": 287963,
+      "word": "宝新",
+      "onboard_time": 1679285792,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 282747,
@@ -369,6 +433,30 @@
       "onboard_time": 1679280567,
       "rank": 38,
       "category": "教育"
+    },
+    {
+      "raw_hot": 281626,
+      "num": 281626,
+      "word": "杨颖马天宇宣璐汪卓成尘缘花絮",
+      "onboard_time": 1679284352,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 273390,
+      "num": 273390,
+      "word": "李现官宣加盟微博之夜",
+      "onboard_time": 1679282848,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 271690,
+      "num": 271690,
+      "word": "蓝眼泪将迎高发期",
+      "onboard_time": 1679284112,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 269061,
@@ -384,6 +472,14 @@
       "word": "网曝重庆瑞鹏宠物医院医生虐待猫咪",
       "onboard_time": 1679247377,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 252979,
+      "num": 252979,
+      "word": "导游劝游客少购物提前对暗号",
+      "onboard_time": 1679283933,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -419,14 +515,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 238102,
-      "num": 238102,
-      "word": "女子寺庙游玩遇到新式鬼屋",
-      "onboard_time": 1679281827,
-      "rank": 37,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 237703,
       "num": 237703,
       "word": "山东省考",
@@ -441,6 +529,14 @@
       "onboard_time": 1679237668,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 226837,
+      "num": 226837,
+      "word": "原来胃是情绪器官",
+      "onboard_time": 1679285792,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 225777,
@@ -459,12 +555,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 222263,
-      "num": 222263,
-      "word": "任正非称不能垄断人才",
-      "onboard_time": 1679281767,
-      "rank": 27,
-      "category": "社会新闻"
+      "raw_hot": 218862,
+      "num": 218862,
+      "word": "狂飙版美人鱼",
+      "onboard_time": 1679284171,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 216353,
@@ -499,12 +595,12 @@
       "category": "社会新闻,军事"
     },
     {
-      "raw_hot": 202574,
-      "num": 202574,
-      "word": "李现官宣加盟微博之夜",
-      "onboard_time": 1679282848,
-      "rank": 30,
-      "category": "作品衍生"
+      "raw_hot": 200375,
+      "num": 200375,
+      "word": "喜欢你4全员向你抛个绣球",
+      "onboard_time": 1679284171,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 199447,
@@ -563,12 +659,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 184260,
-      "num": 184260,
-      "word": "吴磊说周雨彤的口头禅",
-      "onboard_time": 1679282966,
-      "rank": 32,
-      "category": "作品衍生"
+      "raw_hot": 184338,
+      "num": 184338,
+      "word": "人生之路今日开播",
+      "onboard_time": 1679284950,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 179383,
@@ -580,7 +676,7 @@
     },
     {
       "raw_hot": 179029,
-      "num": 129675,
+      "num": 174924,
       "word": "原来老一辈才是理财高手",
       "onboard_time": 1679283149,
       "rank": 36,
@@ -635,6 +731,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 171429,
+      "num": 171429,
+      "word": "魔术vs湖人",
+      "onboard_time": 1679280028,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 170276,
       "num": 170276,
       "word": "艾热王以太早安杨和苏现场",
@@ -659,6 +763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160203,
+      "num": 160203,
+      "word": "丫丫加油等你回家",
+      "onboard_time": 1679283449,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 151741,
       "num": 151741,
       "word": "霉霉给烧伤粉丝送演唱会门票",
@@ -681,6 +793,14 @@
       "onboard_time": 1679275946,
       "rank": 43,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 149299,
+      "num": 149299,
+      "word": "山西省考",
+      "onboard_time": 1679282789,
+      "rank": 35,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 145797,
@@ -739,14 +859,6 @@
       "category": "社会新闻,影视"
     },
     {
-      "raw_hot": 139815,
-      "num": 128109,
-      "word": "00后女生10秒拒绝8家公司",
-      "onboard_time": 1679283149,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 139549,
       "num": 139549,
       "word": "女子在缅遭绑哭喊我有两小孩",
@@ -779,22 +891,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 132734,
-      "num": 132734,
-      "word": "魔术vs湖人",
-      "onboard_time": 1679280028,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 130835,
-      "num": 130835,
-      "word": "山西省考",
-      "onboard_time": 1679282789,
-      "rank": 35,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 130812,
       "num": 130812,
       "word": "金智秀主打曲海报",
@@ -812,7 +908,7 @@
     },
     {
       "raw_hot": 128672,
-      "num": 1175129,
+      "num": 1366958,
       "word": "1分钟感受身边的幸福",
       "onboard_time": 1679280507,
       "rank": 2,
@@ -868,7 +964,7 @@
     },
     {
       "raw_hot": 115581,
-      "num": 115581,
+      "num": 453297,
       "word": "开啥都要喝开水",
       "onboard_time": 1679279187,
       "rank": 37,
