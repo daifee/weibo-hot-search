@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679303978321,
+  "endTime": 1679304841531,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -2059,6 +2059,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1450900,
+      "num": 1450900,
+      "word": "冯琳 青年大学习",
+      "onboard_time": 1679302169,
+      "rank": 1,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1449394,
       "num": 577472,
       "word": "中国队世锦赛5000米接力夺冠",
@@ -2129,14 +2137,6 @@
       "onboard_time": 1677888925,
       "rank": 3,
       "category": "科技"
-    },
-    {
-      "raw_hot": 1430597,
-      "num": 1430597,
-      "word": "冯琳 青年大学习",
-      "onboard_time": 1679302169,
-      "rank": 1,
-      "category": "教育"
     },
     {
       "raw_hot": 1430575,
@@ -2873,6 +2873,14 @@
       "onboard_time": 1678957949,
       "rank": 18,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 1237491,
+      "num": 486756,
+      "word": "3名在缅甸失联学生已找到",
+      "onboard_time": 1679303489,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1236072,
@@ -4595,6 +4603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 960439,
+      "num": 960439,
+      "word": "ChatGPT",
+      "onboard_time": 1679301748,
+      "rank": 3,
+      "category": "科技"
+    },
+    {
       "raw_hot": 958535,
       "num": 530970,
       "word": "条件不错却不谈恋爱的原因",
@@ -4755,14 +4771,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 941681,
-      "num": 941681,
-      "word": "ChatGPT",
-      "onboard_time": 1679301748,
-      "rank": 3,
-      "category": "科技"
-    },
-    {
       "raw_hot": 938747,
       "num": 608657,
       "word": "成都大风",
@@ -4881,6 +4889,14 @@
       "onboard_time": 1679035226,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 917661,
+      "num": 917661,
+      "word": "爱情而已 定档",
+      "onboard_time": 1679302288,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 915478,
@@ -5081,14 +5097,6 @@
       "onboard_time": 1679106088,
       "rank": 1,
       "category": "网红"
-    },
-    {
-      "raw_hot": 894802,
-      "num": 894802,
-      "word": "爱情而已 定档",
-      "onboard_time": 1679302288,
-      "rank": 5,
-      "category": "影视"
     },
     {
       "raw_hot": 894582,
@@ -11995,6 +12003,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 501386,
+      "num": 501386,
+      "word": "王者荣耀",
+      "onboard_time": 1678886132,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 501334,
       "num": 501334,
       "word": "橄榄菜",
@@ -13091,6 +13107,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 468658,
+      "num": 468658,
+      "word": "高叶版妍珍",
+      "onboard_time": 1679302590,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 468181,
       "num": 468181,
       "word": "东风系引发车市价格大战",
@@ -13881,14 +13905,6 @@
       "onboard_time": 1678616367,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 440533,
-      "num": 440533,
-      "word": "王者荣耀",
-      "onboard_time": 1678886132,
-      "rank": 36,
-      "category": "游戏"
     },
     {
       "raw_hot": 440522,
@@ -14785,14 +14801,6 @@
       "onboard_time": 1678287031,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 413680,
-      "num": 413680,
-      "word": "高叶版妍珍",
-      "onboard_time": 1679302590,
-      "rank": 14,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 413262,
@@ -20235,14 +20243,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 294360,
-      "num": 198090,
-      "word": "3名在缅甸失联学生已找到",
-      "onboard_time": 1679303489,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 294066,
       "num": 294066,
       "word": "科学家发现黑洞旁诞生一颗恒星",
@@ -21939,6 +21939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 264829,
+      "num": 264829,
+      "word": "中方回应国际刑事法院对普京逮捕令",
+      "onboard_time": 1679304331,
+      "rank": 21,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 264813,
       "num": 210281,
       "word": "刘耀文说要做三无演员",
@@ -22115,6 +22123,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 261872,
+      "num": 261872,
+      "word": "苦孩子也不能苦自己",
+      "onboard_time": 1679299768,
+      "rank": 42,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 261692,
       "num": 261692,
       "word": "苹果首款头显零件照片曝光",
@@ -22169,14 +22185,6 @@
       "onboard_time": 1678172847,
       "rank": 24,
       "category": "游戏,体育"
-    },
-    {
-      "raw_hot": 260991,
-      "num": 260991,
-      "word": "苦孩子也不能苦自己",
-      "onboard_time": 1679299768,
-      "rank": 42,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 260718,
@@ -28947,6 +28955,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 190932,
+      "num": 190932,
+      "word": "8小时睡眠论可能是错的",
+      "onboard_time": 1679304149,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190876,
       "num": 190876,
       "word": "INTO1烟花回眸氛围感",
@@ -29097,6 +29113,14 @@
       "onboard_time": 1678272688,
       "rank": 27,
       "category": "幽默,时尚"
+    },
+    {
+      "raw_hot": 190157,
+      "num": 190157,
+      "word": "内娱女星白色婚纱造型",
+      "onboard_time": 1679304570,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 190111,
@@ -31116,7 +31140,7 @@
     },
     {
       "raw_hot": 169674,
-      "num": 160631,
+      "num": 166182,
       "word": "KPL选手的陪伴方式",
       "onboard_time": 1679303910,
       "rank": 37,
@@ -31297,6 +31321,14 @@
       "onboard_time": 1678097608,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 168412,
+      "num": 168412,
+      "word": "董璇牵女儿走秀",
+      "onboard_time": 1679304688,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 168311,
@@ -31491,6 +31523,14 @@
       "category": "幽默,科技"
     },
     {
+      "raw_hot": 166843,
+      "num": 166843,
+      "word": "很难被拒绝的简历",
+      "onboard_time": 1679304149,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 166616,
       "num": 166616,
       "word": "Haerin双丸子头",
@@ -31537,6 +31577,14 @@
       "onboard_time": 1678983982,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 165974,
+      "num": 165974,
+      "word": "放在00后职场也是相当炸裂",
+      "onboard_time": 1679300968,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 165493,
@@ -32043,6 +32091,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 160401,
+      "num": 160401,
+      "word": "这跟捡钱有什么区别",
+      "onboard_time": 1679303669,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 160357,
       "num": 160357,
       "word": "刘恋新歌",
@@ -32457,6 +32513,14 @@
       "onboard_time": 1679198609,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 156258,
+      "num": 156258,
+      "word": "原来熊猫是这样打嗝的",
+      "onboard_time": 1679304271,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 155944,
@@ -33337,14 +33401,6 @@
       "onboard_time": 1678680510,
       "rank": 43,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 147547,
-      "num": 147547,
-      "word": "放在00后职场也是相当炸裂",
-      "onboard_time": 1679300968,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 147480,
@@ -35201,14 +35257,6 @@
       "onboard_time": 1677595293,
       "rank": 39,
       "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 129956,
-      "num": 129956,
-      "word": "这跟捡钱有什么区别",
-      "onboard_time": 1679303669,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 129832,
