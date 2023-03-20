@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679348028797,
+  "endTime": 1679350586137,
   "band_list": [
     {
       "raw_hot": 7256959,
@@ -2435,6 +2435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 129046,
+      "num": 129046,
+      "word": "女子被姑叔分走15万遗产后遭拉黑",
+      "onboard_time": 1679338392,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 128672,
       "num": 1383260,
       "word": "1分钟感受身边的幸福",
@@ -2449,6 +2457,14 @@
       "onboard_time": 1679283088,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 127409,
+      "num": 127409,
+      "word": "日本一农村25年才迎来一个新生儿",
+      "onboard_time": 1679336952,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 124817,
@@ -2468,7 +2484,7 @@
     },
     {
       "raw_hot": 123693,
-      "num": 88331,
+      "num": 94729,
       "word": "90后小伙因长得老气专骗70后阿姨",
       "onboard_time": 1679334734,
       "rank": 11,
@@ -2651,14 +2667,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 85297,
-      "num": 60864,
-      "word": "日本一农村25年才迎来一个新生儿",
-      "onboard_time": 1679336952,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 84689,
       "num": 84689,
       "word": "姜思达王勉走秀",
@@ -2689,14 +2697,6 @@
       "onboard_time": 1679217626,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 81525,
-      "num": 46055,
-      "word": "女子被姑叔分走15万遗产后遭拉黑",
-      "onboard_time": 1679338392,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 78207,
@@ -2739,12 +2739,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 36993,
-      "num": 35363,
+      "raw_hot": 37275,
+      "num": 37275,
       "word": "大数据不会无缘无故推给我",
       "onboard_time": 1679341931,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 34763,
+      "num": 26216,
+      "word": "各地旅游现状",
+      "onboard_time": 1679344574,
+      "rank": 35,
+      "category": "旅游"
     },
     {
       "raw_hot": 34286,
@@ -2777,14 +2785,6 @@
       "onboard_time": 1679228248,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 17991,
-      "num": 16759,
-      "word": "各地旅游现状",
-      "onboard_time": 1679344574,
-      "rank": 35,
-      "category": "旅游"
     }
   ],
   "hotgov_list": [
