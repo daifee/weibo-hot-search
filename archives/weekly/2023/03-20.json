@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679286186382,
+  "endTime": 1679287076009,
   "band_list": [
     {
       "raw_hot": 2369555,
@@ -44,11 +44,19 @@
     },
     {
       "raw_hot": 1344800,
-      "num": 262461,
+      "num": 286250,
       "word": "李梦",
       "onboard_time": 1679268984,
       "rank": 20,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 1312608,
+      "num": 1312608,
+      "word": "00后女生10秒拒绝8家公司",
+      "onboard_time": 1679283149,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1147089,
@@ -65,14 +73,6 @@
       "onboard_time": 1679275167,
       "rank": 3,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 996039,
-      "num": 996039,
-      "word": "00后女生10秒拒绝8家公司",
-      "onboard_time": 1679283149,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 992480,
@@ -155,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 729987,
+      "num": 729987,
+      "word": "动物园大猩猩被发现在直立行走",
+      "onboard_time": 1679283749,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 712725,
       "num": 403449,
       "word": "玲娜贝儿",
@@ -171,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 671161,
+      "num": 671161,
+      "word": "原来胃是情绪器官",
+      "onboard_time": 1679285792,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 666361,
       "num": 509290,
       "word": "17岁女生寒假兼职做保安",
@@ -185,6 +201,14 @@
       "onboard_time": 1679269586,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 641517,
+      "num": 641517,
+      "word": "宝新",
+      "onboard_time": 1679285792,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 639785,
@@ -227,14 +251,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 566198,
-      "num": 535523,
-      "word": "动物园大猩猩被发现在直立行走",
-      "onboard_time": 1679283749,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 562097,
       "num": 562097,
       "word": "张译说准备尝试一下演李清照",
@@ -273,6 +289,14 @@
       "onboard_time": 1679239712,
       "rank": 13,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 476122,
+      "num": 275603,
+      "word": "情侣住江景房裸身开窗帘被看光",
+      "onboard_time": 1679286336,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 473039,
@@ -403,6 +427,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 306169,
+      "num": 306169,
+      "word": "咪豆",
+      "onboard_time": 1679286754,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 304111,
+      "num": 304111,
+      "word": "黑暗荣耀大婶登ELLE四月刊",
+      "onboard_time": 1679286394,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 294022,
       "num": 294022,
       "word": "女子寺庙游玩遇到新式鬼屋",
@@ -419,11 +459,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 287963,
-      "num": 287963,
-      "word": "宝新",
-      "onboard_time": 1679285792,
-      "rank": 23,
+      "raw_hot": 283098,
+      "num": 283098,
+      "word": "导游劝游客少购物提前对暗号",
+      "onboard_time": 1679283933,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -443,20 +483,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 280936,
+      "num": 280936,
+      "word": "张杰演唱会",
+      "onboard_time": 1679286694,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 278761,
+      "num": 278761,
+      "word": "蓝眼泪将迎高发期",
+      "onboard_time": 1679284112,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 273390,
       "num": 273390,
       "word": "李现官宣加盟微博之夜",
       "onboard_time": 1679282848,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 271690,
-      "num": 271690,
-      "word": "蓝眼泪将迎高发期",
-      "onboard_time": 1679284112,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 269061,
@@ -467,19 +515,19 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 266710,
+      "num": 266710,
+      "word": "张远官宣加盟毛血汪",
+      "onboard_time": 1679286996,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 263494,
       "num": 263494,
       "word": "网曝重庆瑞鹏宠物医院医生虐待猫咪",
       "onboard_time": 1679247377,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 252979,
-      "num": 252979,
-      "word": "导游劝游客少购物提前对暗号",
-      "onboard_time": 1679283933,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -529,14 +577,6 @@
       "onboard_time": 1679237668,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 226837,
-      "num": 226837,
-      "word": "原来胃是情绪器官",
-      "onboard_time": 1679285792,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 225777,
@@ -627,6 +667,14 @@
       "category": "社会新闻,影视"
     },
     {
+      "raw_hot": 193321,
+      "num": 193321,
+      "word": "恋与制作人",
+      "onboard_time": 1679286336,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 193181,
       "num": 193181,
       "word": "一秒入夏的连衣裙",
@@ -643,6 +691,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 191625,
+      "num": 191625,
+      "word": "里弗斯",
+      "onboard_time": 1679286872,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 189667,
       "num": 189667,
       "word": "美香",
@@ -657,6 +713,14 @@
       "onboard_time": 1679232753,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 185145,
+      "num": 185145,
+      "word": "湖人战胜魔术",
+      "onboard_time": 1679286573,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 184338,
@@ -715,6 +779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 174672,
+      "num": 174672,
+      "word": "丫丫加油等你回家",
+      "onboard_time": 1679283449,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174026,
       "num": 174026,
       "word": "睡不好为何会昏昏沉沉",
@@ -747,6 +819,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 166798,
+      "num": 483100,
+      "word": "开啥都要喝开水",
+      "onboard_time": 1679279187,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 166018,
       "num": 166018,
       "word": "内娱明星emoji简称",
@@ -763,11 +843,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 160203,
-      "num": 160203,
-      "word": "丫丫加油等你回家",
-      "onboard_time": 1679283449,
-      "rank": 44,
+      "raw_hot": 159810,
+      "num": 159810,
+      "word": "广东人把大熊猫养成了阿伯",
+      "onboard_time": 1679286872,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -908,7 +988,7 @@
     },
     {
       "raw_hot": 128672,
-      "num": 1366958,
+      "num": 1383260,
       "word": "1分钟感受身边的幸福",
       "onboard_time": 1679280507,
       "rank": 2,
@@ -961,14 +1041,6 @@
       "onboard_time": 1679231190,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 115581,
-      "num": 453297,
-      "word": "开啥都要喝开水",
-      "onboard_time": 1679279187,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 114704,
