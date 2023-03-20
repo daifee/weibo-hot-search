@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679315841755,
+  "endTime": 1679316934772,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -2171,6 +2171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1426979,
+      "num": 368798,
+      "word": "杨子 李亚鹏",
+      "onboard_time": 1679313093,
+      "rank": 10,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1424311,
       "num": 753142,
       "word": "教资科二",
@@ -2497,14 +2505,6 @@
       "onboard_time": 1679058150,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1336685,
-      "num": 339024,
-      "word": "杨子 李亚鹏",
-      "onboard_time": 1679313093,
-      "rank": 10,
-      "category": "网红"
     },
     {
       "raw_hot": 1336503,
@@ -8668,7 +8668,7 @@
     },
     {
       "raw_hot": 646211,
-      "num": 332792,
+      "num": 353436,
       "word": "TT官宣iBoy",
       "onboard_time": 1679314110,
       "rank": 12,
@@ -9747,6 +9747,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 591681,
+      "num": 362627,
+      "word": "张颂文 什么都嗑只会害了你",
+      "onboard_time": 1679316690,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 591134,
       "num": 287477,
       "word": "金泰妍吃播",
@@ -9880,6 +9888,14 @@
       "word": "港星尹子维在内地做探店博主",
       "onboard_time": 1678705766,
       "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 583970,
+      "num": 355030,
+      "word": "孙红雷被女儿夸帅的反应",
+      "onboard_time": 1679312672,
+      "rank": 13,
       "category": "艺人"
     },
     {
@@ -10171,14 +10187,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 572194,
-      "num": 331055,
-      "word": "孙红雷被女儿夸帅的反应",
-      "onboard_time": 1679312672,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 572010,
       "num": 572010,
       "word": "他是谁家暴男被妻子反杀",
@@ -10240,6 +10248,14 @@
       "word": "肖战骑单车路透",
       "onboard_time": 1678769250,
       "rank": 11,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 569478,
+      "num": 569478,
+      "word": "微博之夜同台名场面",
+      "onboard_time": 1679314110,
+      "rank": 8,
       "category": "作品衍生"
     },
     {
@@ -11019,6 +11035,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 542446,
+      "num": 542446,
+      "word": "真的不建议大家趴睡",
+      "onboard_time": 1679314830,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 542290,
       "num": 542290,
       "word": "建议发钱鼓励生孩要关注第一孩",
@@ -11401,6 +11425,14 @@
       "onboard_time": 1678621407,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 525787,
+      "num": 347505,
+      "word": "戚薇说李承铉是秃头小宝贝",
+      "onboard_time": 1679312794,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 525402,
@@ -14083,14 +14115,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 440003,
-      "num": 328063,
-      "word": "戚薇说李承铉是秃头小宝贝",
-      "onboard_time": 1679312794,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 439818,
       "num": 439818,
       "word": "日本千叶县全体议员戴头盔开会",
@@ -15481,14 +15505,6 @@
       "onboard_time": 1678734671,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 398412,
-      "num": 398412,
-      "word": "微博之夜同台名场面",
-      "onboard_time": 1679314110,
-      "rank": 8,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 398181,
@@ -18075,6 +18091,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 342831,
+      "num": 342831,
+      "word": "俞灏明他是谁演了个疯批",
+      "onboard_time": 1679314413,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 342828,
       "num": 342828,
       "word": "马思唯官宣2023世界巡演",
@@ -18595,6 +18619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 331359,
+      "num": 331359,
+      "word": "原来妍珍也吃过爱情的苦",
+      "onboard_time": 1679311836,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 331231,
       "num": 265947,
       "word": "一个动作疏肝解郁",
@@ -18649,6 +18681,14 @@
       "onboard_time": 1678870105,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 330194,
+      "num": 330194,
+      "word": "他是谁凶手",
+      "onboard_time": 1679315130,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 330164,
@@ -21299,14 +21339,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 278927,
-      "num": 278927,
-      "word": "原来妍珍也吃过爱情的苦",
-      "onboard_time": 1679311836,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 278761,
       "num": 278761,
       "word": "蓝眼泪将迎高发期",
@@ -23819,6 +23851,14 @@
       "category": "影视,时尚"
     },
     {
+      "raw_hot": 237120,
+      "num": 237120,
+      "word": "丁禹兮彭小苒新剧被叫雌雄双煞",
+      "onboard_time": 1679316390,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 237002,
       "num": 237002,
       "word": "易烊千玺未知动物剧照",
@@ -23977,14 +24017,6 @@
       "onboard_time": 1679023827,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 234151,
-      "num": 234151,
-      "word": "俞灏明他是谁演了个疯批",
-      "onboard_time": 1679314413,
-      "rank": 24,
-      "category": "影视"
     },
     {
       "raw_hot": 234059,
@@ -25507,14 +25539,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 217346,
-      "num": 217346,
-      "word": "他是谁凶手",
-      "onboard_time": 1679315130,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 217343,
       "num": 217343,
       "word": "柯南剧场版90秒预告",
@@ -26699,14 +26723,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 205791,
-      "num": 205791,
-      "word": "真的不建议大家趴睡",
-      "onboard_time": 1679314830,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 205695,
       "num": 205695,
       "word": "花琉璃轶闻",
@@ -27035,6 +27051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 204056,
+      "num": 204056,
+      "word": "2023LPL",
+      "onboard_time": 1678538188,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 204051,
       "num": 204051,
       "word": "仲春欢乐启航",
@@ -27225,14 +27249,6 @@
       "onboard_time": 1678929625,
       "rank": 31,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 203042,
-      "num": 203042,
-      "word": "2023LPL",
-      "onboard_time": 1678538188,
-      "rank": 29,
-      "category": "游戏"
     },
     {
       "raw_hot": 203010,
@@ -29283,6 +29299,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 191452,
+      "num": 191452,
+      "word": "人生之路",
+      "onboard_time": 1679316572,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 191390,
       "num": 191390,
       "word": "XYG对战DYG",
@@ -30961,6 +30985,14 @@
       "onboard_time": 1677654748,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 175692,
+      "num": 175692,
+      "word": "小狗在意的人只有你",
+      "onboard_time": 1679313752,
+      "rank": 46,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 175669,
@@ -34465,14 +34497,6 @@
       "onboard_time": 1678233206,
       "rank": 39,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 140876,
-      "num": 140876,
-      "word": "小狗在意的人只有你",
-      "onboard_time": 1679313752,
-      "rank": 46,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 140858,
@@ -39491,6 +39515,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 72835,
+      "num": 735641,
+      "word": "航拍看红土地宛如大地油画",
+      "onboard_time": 1679314289,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 72790,
       "num": 72790,
       "word": "毕雯珺喝了李一桐奶茶",
@@ -39969,14 +40001,6 @@
       "onboard_time": 1677834028,
       "rank": 39,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 54229,
-      "num": 735641,
-      "word": "航拍看红土地宛如大地油画",
-      "onboard_time": 1679314289,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 54195,
