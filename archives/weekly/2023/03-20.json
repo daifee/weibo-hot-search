@@ -1,7 +1,15 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679268824255,
+  "endTime": 1679276273415,
   "band_list": [
+    {
+      "raw_hot": 2292841,
+      "num": 2292841,
+      "word": "未满14周岁不承担法律后果合理吗",
+      "onboard_time": 1679271148,
+      "rank": 0,
+      "category": "社会议题"
+    },
     {
       "raw_hot": 1724841,
       "num": 1724841,
@@ -11,12 +19,28 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 1344800,
+      "num": 247920,
+      "word": "李梦",
+      "onboard_time": 1679268984,
+      "rank": 20,
+      "category": "体育,网红"
+    },
+    {
       "raw_hot": 992480,
       "num": 992480,
       "word": "女生为见偶像花花被骗1140元",
       "onboard_time": 1679237491,
       "rank": 1,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 900649,
+      "num": 900649,
+      "word": "大陆方面欢迎马英九先生来访",
+      "onboard_time": 1679275167,
+      "rank": 3,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 809683,
@@ -41,6 +65,14 @@
       "onboard_time": 1679239290,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 647431,
+      "num": 378409,
+      "word": "唐嫣的仪态",
+      "onboard_time": 1679269586,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 608157,
@@ -75,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 536786,
+      "num": 536786,
+      "word": "李湘辟谣主持乘风破浪",
+      "onboard_time": 1679275226,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 536063,
       "num": 536063,
       "word": "台湾日月潭九蛙叠像全部露出",
@@ -83,8 +123,8 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 431792,
-      "num": 219772,
+      "raw_hot": 473039,
+      "num": 247728,
       "word": "为什么不建议年轻人去摆摊",
       "onboard_time": 1679239229,
       "rank": 20,
@@ -97,6 +137,22 @@
       "onboard_time": 1679238153,
       "rank": 7,
       "category": "情感"
+    },
+    {
+      "raw_hot": 430436,
+      "num": 430436,
+      "word": "周一",
+      "onboard_time": 1679275047,
+      "rank": 7,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 430427,
+      "num": 378277,
+      "word": "我驻中非使馆发布安全提醒",
+      "onboard_time": 1679273247,
+      "rank": 11,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 417892,
@@ -123,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 407591,
+      "num": 378014,
+      "word": "辅警往身上浇了盆水后冲进火场",
+      "onboard_time": 1679274987,
+      "rank": 12,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 405041,
       "num": 405041,
       "word": "刘惜君状态",
@@ -139,12 +203,36 @@
       "category": "体育,影视"
     },
     {
+      "raw_hot": 368583,
+      "num": 368583,
+      "word": "瑞银提出收购瑞信",
+      "onboard_time": 1679272107,
+      "rank": 13,
+      "category": "财经"
+    },
+    {
       "raw_hot": 328904,
       "num": 328904,
       "word": "白桃星座",
       "onboard_time": 1679236589,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 322444,
+      "num": 322444,
+      "word": "姆巴佩两失单刀",
+      "onboard_time": 1679273668,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 282506,
+      "num": 282506,
+      "word": "17岁女生寒假兼职做保安",
+      "onboard_time": 1679275527,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 269061,
@@ -161,6 +249,22 @@
       "onboard_time": 1679247377,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 250218,
+      "num": 250218,
+      "word": "沈梦辰被微积分整晕了",
+      "onboard_time": 1679266277,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 242022,
+      "num": 242022,
+      "word": "如果在全在俊面前跳就死定了",
+      "onboard_time": 1679269528,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 240159,
@@ -195,20 +299,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 206411,
-      "num": 206411,
+      "raw_hot": 216353,
+      "num": 216353,
       "word": "山东一港口汽车排队出海超壮观",
       "onboard_time": 1679268081,
       "rank": 14,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 203314,
-      "num": 203314,
-      "word": "沈梦辰被微积分整晕了",
-      "onboard_time": 1679266277,
-      "rank": 22,
-      "category": "综艺"
+      "raw_hot": 206530,
+      "num": 206530,
+      "word": "陈红军家里有张合成的全家福",
+      "onboard_time": 1679275767,
+      "rank": 27,
+      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 199447,
@@ -243,20 +347,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 189667,
+      "num": 189667,
+      "word": "美香",
+      "onboard_time": 1679268443,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189601,
       "num": 189601,
       "word": "路炎晨邢克垒一路前邢",
       "onboard_time": 1679232753,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 184510,
-      "num": 184510,
-      "word": "美香",
-      "onboard_time": 1679268443,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 179383,
@@ -273,6 +377,14 @@
       "onboard_time": 1679222969,
       "rank": 25,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 178824,
+      "num": 178824,
+      "word": "Lisa钢管舞蹈视频",
+      "onboard_time": 1679269765,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 177952,
@@ -307,12 +419,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 165369,
+      "num": 165369,
+      "word": "艾热王以太早安杨和苏现场",
+      "onboard_time": 1679274090,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 164942,
       "num": 164942,
       "word": "凯西绝杀皇马",
       "onboard_time": 1679267539,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 151741,
+      "num": 151741,
+      "word": "霉霉给烧伤粉丝送演唱会门票",
+      "onboard_time": 1679270127,
+      "rank": 36,
+      "category": "艺人,音乐"
+    },
+    {
+      "raw_hot": 151662,
+      "num": 151662,
+      "word": "这小猫咪是犯人瘾了吧",
+      "onboard_time": 1679245399,
+      "rank": 45,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 145797,
@@ -347,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 141673,
+      "num": 171740,
+      "word": "流浪地球2里代码公式都是来真的",
+      "onboard_time": 1679234791,
+      "rank": 29,
+      "category": "社会新闻,影视"
+    },
+    {
       "raw_hot": 139549,
       "num": 139549,
       "word": "女子在缅遭绑哭喊我有两小孩",
@@ -355,12 +499,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 139261,
-      "num": 171740,
-      "word": "流浪地球2里代码公式都是来真的",
-      "onboard_time": 1679234791,
-      "rank": 29,
-      "category": "社会新闻,影视"
+      "raw_hot": 135924,
+      "num": 135924,
+      "word": "车勋今日入伍",
+      "onboard_time": 1679274329,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 133612,
@@ -369,6 +513,14 @@
       "onboard_time": 1679244080,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 130812,
+      "num": 130812,
+      "word": "金智秀主打曲海报",
+      "onboard_time": 1679270304,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 129323,
@@ -400,6 +552,22 @@
       "word": "薛之谦衢州站第二场空降",
       "onboard_time": 1679226508,
       "rank": 36,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 120252,
+      "num": 120252,
+      "word": "雅思组合击败韩国队获混双冠军",
+      "onboard_time": 1679275946,
+      "rank": 43,
+      "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 119872,
+      "num": 119872,
+      "word": "薛之谦感谢所有人承蒙关照",
+      "onboard_time": 1679269586,
+      "rank": 44,
       "category": "音乐"
     },
     {
@@ -435,6 +603,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 109716,
+      "num": 109716,
+      "word": "拒绝和玲娜贝儿互动的当事人回应",
+      "onboard_time": 1679276187,
+      "rank": 45,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 109235,
       "num": 109235,
       "word": "在重庆夜市能吃到什么",
@@ -449,6 +625,14 @@
       "onboard_time": 1679220148,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 100827,
+      "num": 100827,
+      "word": "开启中俄友好合作共同发展新篇章",
+      "onboard_time": 1679268684,
+      "rank": 42,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 99476,
@@ -475,28 +659,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 96138,
-      "num": 96138,
-      "word": "这小猫咪是犯人瘾了吧",
-      "onboard_time": 1679245399,
-      "rank": 45,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 93096,
       "num": 93096,
       "word": "关晓彤哭戏路透",
       "onboard_time": 1679236169,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 89287,
-      "num": 89287,
-      "word": "开启中俄友好合作共同发展新篇章",
-      "onboard_time": 1679268684,
-      "rank": 42,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 84689,
@@ -564,7 +732,7 @@
     },
     {
       "raw_hot": 38078,
-      "num": 719324,
+      "num": 1037765,
       "word": "钢铁丝路好风光",
       "onboard_time": 1679229987,
       "rank": 2,

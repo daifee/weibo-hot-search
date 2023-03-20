@@ -1,0 +1,410 @@
+{
+  "runTime": 1679276273415,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2292841,
+        "num": 2292841,
+        "word": "未满14周岁不承担法律后果合理吗",
+        "onboard_time": 1679271148,
+        "rank": 0,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 1400776,
+        "num": 1400776,
+        "word": "泰国真的已经贵到去不起了吗",
+        "onboard_time": 1679239170,
+        "rank": 1,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 27922,
+        "num": 1037765,
+        "word": "钢铁丝路好风光",
+        "onboard_time": 1679229987,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 900649,
+        "num": 900649,
+        "word": "大陆方面欢迎马英九先生来访",
+        "onboard_time": 1679275167,
+        "rank": 3,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 763464,
+        "num": 763464,
+        "word": "女生为见偶像花花被骗1140元",
+        "onboard_time": 1679237491,
+        "rank": 4,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 536786,
+        "num": 536786,
+        "word": "李湘辟谣主持乘风破浪",
+        "onboard_time": 1679275226,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 452740,
+        "num": 452740,
+        "word": "张兰回应海外欠债9.8亿",
+        "onboard_time": 1679237848,
+        "rank": 6,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 430436,
+        "num": 430436,
+        "word": "周一",
+        "onboard_time": 1679275047,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 386941,
+        "num": 386941,
+        "word": "台湾日月潭九蛙叠像全部露出",
+        "onboard_time": 1679239712,
+        "rank": 8,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 379510,
+        "num": 379510,
+        "word": "研究称男性也有最佳生育年龄",
+        "onboard_time": 1679236530,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 647431,
+        "num": 378409,
+        "word": "唐嫣的仪态",
+        "onboard_time": 1679269586,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 430427,
+        "num": 378277,
+        "word": "我驻中非使馆发布安全提醒",
+        "onboard_time": 1679273247,
+        "rank": 11,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 407591,
+        "num": 378014,
+        "word": "辅警往身上浇了盆水后冲进火场",
+        "onboard_time": 1679274987,
+        "rank": 12,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 368583,
+        "num": 368583,
+        "word": "瑞银提出收购瑞信",
+        "onboard_time": 1679272107,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 340401,
+        "num": 340401,
+        "word": "女子去年双11网购家具仍未发货",
+        "onboard_time": 1679255531,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329882,
+        "num": 329882,
+        "word": "张兰欠9.8亿未还家族信托被击穿",
+        "onboard_time": 1679229987,
+        "rank": 15,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 322444,
+        "num": 322444,
+        "word": "姆巴佩两失单刀",
+        "onboard_time": 1679273668,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 318456,
+        "num": 318456,
+        "word": "张译说准备尝试一下演李清照",
+        "onboard_time": 1679242705,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 282506,
+        "num": 282506,
+        "word": "17岁女生寒假兼职做保安",
+        "onboard_time": 1679275527,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250218,
+        "num": 250218,
+        "word": "沈梦辰被微积分整晕了",
+        "onboard_time": 1679266277,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1344800,
+        "num": 247920,
+        "word": "李梦",
+        "onboard_time": 1679268984,
+        "rank": 20,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 473039,
+        "num": 247728,
+        "word": "为什么不建议年轻人去摆摊",
+        "onboard_time": 1679239229,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 258162,
+        "num": 245932,
+        "word": "网曝重庆瑞鹏宠物医院医生虐待猫咪",
+        "onboard_time": 1679247377,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242022,
+        "num": 242022,
+        "word": "如果在全在俊面前跳就死定了",
+        "onboard_time": 1679269528,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224278,
+        "num": 224278,
+        "word": "水瓶座到底在焦虑什么",
+        "onboard_time": 1679238153,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 216454,
+        "num": 216454,
+        "word": "玲娜贝儿",
+        "onboard_time": 1679231729,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 216353,
+        "num": 216353,
+        "word": "山东一港口汽车排队出海超壮观",
+        "onboard_time": 1679268081,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206530,
+        "num": 206530,
+        "word": "陈红军家里有张合成的全家福",
+        "onboard_time": 1679275767,
+        "rank": 27,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 197616,
+        "num": 197616,
+        "word": "TVB演员30秒被扇21个耳光",
+        "onboard_time": 1679240011,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189667,
+        "num": 189667,
+        "word": "美香",
+        "onboard_time": 1679268443,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186275,
+        "num": 186275,
+        "word": "狂飙李宏伟观战北京男篮",
+        "onboard_time": 1679238869,
+        "rank": 30,
+        "category": "体育,影视"
+      },
+      {
+        "raw_hot": 178824,
+        "num": 178824,
+        "word": "Lisa钢管舞蹈视频",
+        "onboard_time": 1679269765,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 172371,
+        "num": 172371,
+        "word": "台媒称马英九将赴大陆",
+        "onboard_time": 1679239290,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170995,
+        "num": 170995,
+        "word": "厕所看自己好看一些的原因",
+        "onboard_time": 1679235629,
+        "rank": 33,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 166351,
+        "num": 166351,
+        "word": "8箱芒果托运980女子当场吃完",
+        "onboard_time": 1679224887,
+        "rank": 34,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 165369,
+        "num": 165369,
+        "word": "艾热王以太早安杨和苏现场",
+        "onboard_time": 1679274090,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 151741,
+        "num": 151741,
+        "word": "霉霉给烧伤粉丝送演唱会门票",
+        "onboard_time": 1679270127,
+        "rank": 36,
+        "category": "艺人,音乐"
+      },
+      {
+        "raw_hot": 151662,
+        "num": 151662,
+        "word": "这小猫咪是犯人瘾了吧",
+        "onboard_time": 1679245399,
+        "rank": 37,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 145680,
+        "num": 145680,
+        "word": "大麦向华晨宇方致歉",
+        "onboard_time": 1679238093,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141673,
+        "num": 141673,
+        "word": "流浪地球2里代码公式都是来真的",
+        "onboard_time": 1679234791,
+        "rank": 39,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 135924,
+        "num": 135924,
+        "word": "车勋今日入伍",
+        "onboard_time": 1679274329,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135120,
+        "num": 135120,
+        "word": "黄奕曾以为言承旭演自己追求者",
+        "onboard_time": 1679236949,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130812,
+        "num": 130812,
+        "word": "金智秀主打曲海报",
+        "onboard_time": 1679270304,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 120252,
+        "num": 120252,
+        "word": "雅思组合击败韩国队获混双冠军",
+        "onboard_time": 1679275946,
+        "rank": 43,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 119872,
+        "num": 119872,
+        "word": "薛之谦感谢所有人承蒙关照",
+        "onboard_time": 1679269586,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 109716,
+        "num": 109716,
+        "word": "拒绝和玲娜贝儿互动的当事人回应",
+        "onboard_time": 1679276187,
+        "rank": 45,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 104988,
+        "num": 104988,
+        "word": "女子撞脸黑暗荣耀特工大婶",
+        "onboard_time": 1679242824,
+        "rank": 46,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 103628,
+        "num": 103628,
+        "word": "九尾重现火舞打金蝉",
+        "onboard_time": 1679238451,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 102668,
+        "num": 102668,
+        "word": "内娱明星emoji简称",
+        "onboard_time": 1679234609,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100827,
+        "num": 100827,
+        "word": "开启中俄友好合作共同发展新篇章",
+        "onboard_time": 1679268684,
+        "rank": 49,
+        "category": "国内要闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#在全党大兴调查研究#"
+    }
+  }
+}
