@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679300689277,
+  "endTime": 1679301497833,
   "band_list": [
     {
       "raw_hot": 2369555,
@@ -57,6 +57,14 @@
       "onboard_time": 1679283149,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1475107,
+      "num": 1475107,
+      "word": "导师给我的论文批注",
+      "onboard_time": 1679298686,
+      "rank": 1,
+      "category": "幽默"
     },
     {
       "raw_hot": 1384942,
@@ -171,16 +179,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 844316,
-      "num": 844316,
-      "word": "导师给我的论文批注",
-      "onboard_time": 1679298686,
-      "rank": 1,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 843918,
-      "num": 843918,
+      "raw_hot": 848417,
+      "num": 848417,
       "word": "丫丫吃起了夜宵",
       "onboard_time": 1679295987,
       "rank": 40,
@@ -339,12 +339,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 586874,
+      "num": 586874,
+      "word": "哇唧唧哇养猪",
+      "onboard_time": 1679299107,
+      "rank": 9,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 577975,
       "num": 577975,
       "word": "TVB演员30秒被扇21个耳光",
       "onboard_time": 1679240011,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 566246,
+      "num": 566246,
+      "word": "基金",
+      "onboard_time": 1679296048,
+      "rank": 32,
+      "category": "财经"
     },
     {
       "raw_hot": 562097,
@@ -363,12 +379,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 558170,
-      "num": 558170,
-      "word": "基金",
-      "onboard_time": 1679296048,
-      "rank": 32,
-      "category": "财经"
+      "raw_hot": 557030,
+      "num": 557030,
+      "word": "种地吧紧急寻兽医",
+      "onboard_time": 1679300366,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 551359,
@@ -409,14 +425,6 @@
       "onboard_time": 1679299227,
       "rank": 8,
       "category": "影视"
-    },
-    {
-      "raw_hot": 493450,
-      "num": 493450,
-      "word": "哇唧唧哇养猪",
-      "onboard_time": 1679299107,
-      "rank": 9,
-      "category": "幽默"
     },
     {
       "raw_hot": 479375,
@@ -579,11 +587,27 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 354875,
+      "num": 354875,
+      "word": "微博之夜VCR",
+      "onboard_time": 1679301147,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 342488,
       "num": 342488,
       "word": "金智秀solo专辑预售突破95万张",
       "onboard_time": 1679295567,
       "rank": 16,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 334897,
+      "num": 334897,
+      "word": "EXO三大主唱经典高音现场",
+      "onboard_time": 1679301267,
+      "rank": 15,
       "category": "音乐"
     },
     {
@@ -625,14 +649,6 @@
       "onboard_time": 1679273668,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 317271,
-      "num": 317271,
-      "word": "种地吧紧急寻兽医",
-      "onboard_time": 1679300366,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 312835,
@@ -689,6 +705,14 @@
       "onboard_time": 1679293708,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 294139,
+      "num": 294139,
+      "word": "黄金",
+      "onboard_time": 1679300547,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 294022,
@@ -907,6 +931,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 217790,
+      "num": 217790,
+      "word": "阿信做梦都想删掉这段视频吧",
+      "onboard_time": 1679301267,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 216353,
       "num": 216353,
       "word": "山东一港口汽车排队出海超壮观",
@@ -1008,6 +1040,22 @@
       "word": "吴磊微博之夜官宣视频",
       "onboard_time": 1679297548,
       "rank": 27,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 195974,
+      "num": 195974,
+      "word": "无名延长上映",
+      "onboard_time": 1679300727,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 195951,
+      "num": 195951,
+      "word": "微博年度人气电影剧集综艺都有王一博",
+      "onboard_time": 1679300848,
+      "rank": 32,
       "category": "作品衍生"
     },
     {
@@ -1227,6 +1275,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 157378,
+      "num": 157378,
+      "word": "苦孩子也不能苦自己",
+      "onboard_time": 1679299768,
+      "rank": 42,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 152862,
       "num": 152862,
       "word": "宋亚轩中戏生活快问快答",
@@ -1273,6 +1329,14 @@
       "onboard_time": 1679282789,
       "rank": 35,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 148395,
+      "num": 148395,
+      "word": "狗狗啃白菜",
+      "onboard_time": 1679299587,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 147963,
@@ -1355,28 +1419,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 136303,
-      "num": 136303,
-      "word": "狗狗啃白菜",
-      "onboard_time": 1679299587,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 135924,
       "num": 135924,
       "word": "车勋今日入伍",
       "onboard_time": 1679274329,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 134711,
-      "num": 134711,
-      "word": "苦孩子也不能苦自己",
-      "onboard_time": 1679299768,
-      "rank": 42,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 134445,
@@ -1401,6 +1449,14 @@
       "onboard_time": 1679270304,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 130083,
+      "num": 130083,
+      "word": "放在00后职场也是相当炸裂",
+      "onboard_time": 1679300968,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 129323,
@@ -1489,14 +1545,6 @@
       "onboard_time": 1679225427,
       "rank": 38,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 114552,
-      "num": 114552,
-      "word": "黄金",
-      "onboard_time": 1679300547,
-      "rank": 46,
-      "category": "财经"
     },
     {
       "raw_hot": 113424,
@@ -1706,6 +1754,9 @@
     },
     {
       "word": "#中俄关系新篇章#"
+    },
+    {
+      "word": "#开启友谊合作与和平之旅#"
     }
   ]
 }

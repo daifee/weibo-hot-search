@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679300689277,
+  "endTime": 1679301497833,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -1961,6 +1961,14 @@
       "onboard_time": 1678067725,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1475107,
+      "num": 1475107,
+      "word": "导师给我的论文批注",
+      "onboard_time": 1679298686,
+      "rank": 1,
+      "category": "幽默"
     },
     {
       "raw_hot": 1473978,
@@ -5555,6 +5563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 848417,
+      "num": 848417,
+      "word": "丫丫吃起了夜宵",
+      "onboard_time": 1679295987,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 847051,
       "num": 847051,
       "word": "台军失踪士兵在厦门吃好睡好",
@@ -5611,14 +5627,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 844316,
-      "num": 844316,
-      "word": "导师给我的论文批注",
-      "onboard_time": 1679298686,
-      "rank": 1,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 844094,
       "num": 844094,
       "word": "那英张杰华晨宇马嘉祺唱征服",
@@ -5633,14 +5641,6 @@
       "onboard_time": 1678761449,
       "rank": 6,
       "category": "教育"
-    },
-    {
-      "raw_hot": 843918,
-      "num": 843918,
-      "word": "丫丫吃起了夜宵",
-      "onboard_time": 1679295987,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 843380,
@@ -9683,6 +9683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 586874,
+      "num": 586874,
+      "word": "哇唧唧哇养猪",
+      "onboard_time": 1679299107,
+      "rank": 9,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 585583,
       "num": 443460,
       "word": "许榕真谭松韵新剧演母女",
@@ -10107,6 +10115,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 566246,
+      "num": 566246,
+      "word": "基金",
+      "onboard_time": 1678950328,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 565946,
       "num": 565946,
       "word": "感动中国年度人物颁奖",
@@ -10283,14 +10299,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 558170,
-      "num": 558170,
-      "word": "基金",
-      "onboard_time": 1678950328,
-      "rank": 31,
-      "category": "财经"
-    },
-    {
       "raw_hot": 558124,
       "num": 531800,
       "word": "时代少年团全员真实身高",
@@ -10305,6 +10313,14 @@
       "onboard_time": 1678494746,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 557030,
+      "num": 557030,
+      "word": "种地吧紧急寻兽医",
+      "onboard_time": 1679300366,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 556837,
@@ -12145,14 +12161,6 @@
       "onboard_time": 1679299227,
       "rank": 8,
       "category": "影视"
-    },
-    {
-      "raw_hot": 493450,
-      "num": 493450,
-      "word": "哇唧唧哇养猪",
-      "onboard_time": 1679299107,
-      "rank": 9,
-      "category": "幽默"
     },
     {
       "raw_hot": 493426,
@@ -17107,6 +17115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 354875,
+      "num": 354875,
+      "word": "微博之夜VCR",
+      "onboard_time": 1679301147,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 354414,
       "num": 281258,
       "word": "申留真WANNABE直拍",
@@ -18123,6 +18139,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 334897,
+      "num": 334897,
+      "word": "EXO三大主唱经典高音现场",
+      "onboard_time": 1679301267,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 334862,
       "num": 334862,
       "word": "8旬爷爷凌晨5点炒花生赚钱救病孙",
@@ -18953,14 +18977,6 @@
       "onboard_time": 1677852208,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 317271,
-      "num": 317271,
-      "word": "种地吧紧急寻兽医",
-      "onboard_time": 1679300366,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 317158,
@@ -25067,6 +25083,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 217790,
+      "num": 217790,
+      "word": "阿信做梦都想删掉这段视频吧",
+      "onboard_time": 1679301267,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 217782,
       "num": 207184,
       "word": "展博宛瑜BE美学",
@@ -28001,6 +28025,22 @@
       "onboard_time": 1678538188,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 195974,
+      "num": 195974,
+      "word": "无名延长上映",
+      "onboard_time": 1679300727,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 195951,
+      "num": 195951,
+      "word": "微博年度人气电影剧集综艺都有王一博",
+      "onboard_time": 1679300848,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 195938,
@@ -32219,6 +32259,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 157378,
+      "num": 157378,
+      "word": "苦孩子也不能苦自己",
+      "onboard_time": 1679299768,
+      "rank": 42,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 157372,
       "num": 157372,
       "word": "路人巴黎偶遇刘宇",
@@ -33097,6 +33145,14 @@
       "onboard_time": 1678885114,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 148395,
+      "num": 148395,
+      "word": "狗狗啃白菜",
+      "onboard_time": 1679299587,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 148347,
@@ -34363,14 +34419,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 136303,
-      "num": 136303,
-      "word": "狗狗啃白菜",
-      "onboard_time": 1679299587,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 136224,
       "num": 199961,
       "word": "UFC285",
@@ -34593,14 +34641,6 @@
       "onboard_time": 1679127147,
       "rank": 41,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 134711,
-      "num": 134711,
-      "word": "苦孩子也不能苦自己",
-      "onboard_time": 1679299768,
-      "rank": 42,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 134600,
@@ -35033,6 +35073,14 @@
       "onboard_time": 1678006766,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130083,
+      "num": 130083,
+      "word": "放在00后职场也是相当炸裂",
+      "onboard_time": 1679300968,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 130040,
@@ -40352,6 +40400,9 @@
     },
     {
       "word": "#中俄关系新篇章#"
+    },
+    {
+      "word": "#开启友谊合作与和平之旅#"
     }
   ]
 }
