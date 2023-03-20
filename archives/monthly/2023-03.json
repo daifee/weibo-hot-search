@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679343510813,
+  "endTime": 1679344429672,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -41019,6 +41019,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 21872,
+      "num": 17314,
+      "word": "大数据不会无缘无故推给我",
+      "onboard_time": 1679341931,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 21229,
       "num": 21229,
       "word": "保你平安笑中带泪",
@@ -41057,14 +41065,6 @@
       "onboard_time": 1677700632,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 17641,
-      "num": 17314,
-      "word": "大数据不会无缘无故推给我",
-      "onboard_time": 1679341931,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 17549,
