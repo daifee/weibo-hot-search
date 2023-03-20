@@ -1,0 +1,410 @@
+{
+  "runTime": 1679315841755,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4799390,
+        "num": 4799390,
+        "word": "MU5735事故调查最新情况",
+        "onboard_time": 1679310572,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1117856,
+        "num": 1117856,
+        "word": "8小时睡眠论可能是错的",
+        "onboard_time": 1679304149,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54229,
+        "num": 735641,
+        "word": "航拍看红土地宛如大地油画",
+        "onboard_time": 1679314289,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 600722,
+        "num": 600722,
+        "word": "断糖对人会有什么影响",
+        "onboard_time": 1679308710,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 555358,
+        "num": 555358,
+        "word": "中国代表团抵达莫斯科",
+        "onboard_time": 1679309609,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 493206,
+        "num": 493206,
+        "word": "1994小美人鱼vs2023小美人鱼",
+        "onboard_time": 1679307930,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 430822,
+        "num": 430822,
+        "word": "冯琳 青年大学习",
+        "onboard_time": 1679302169,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 416751,
+        "num": 416751,
+        "word": "洪洗象 XYG教练",
+        "onboard_time": 1679313514,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 398412,
+        "num": 398412,
+        "word": "微博之夜同台名场面",
+        "onboard_time": 1679314110,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 341778,
+        "num": 341778,
+        "word": "王源包场支持不止不休",
+        "onboard_time": 1679313152,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1336685,
+        "num": 339024,
+        "word": "杨子 李亚鹏",
+        "onboard_time": 1679313093,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 676735,
+        "num": 335694,
+        "word": "小S称许雅钧是隐形爸爸",
+        "onboard_time": 1679308110,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 646211,
+        "num": 332792,
+        "word": "TT官宣iBoy",
+        "onboard_time": 1679314110,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 572194,
+        "num": 331055,
+        "word": "孙红雷被女儿夸帅的反应",
+        "onboard_time": 1679312672,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 440003,
+        "num": 328063,
+        "word": "戚薇说李承铉是秃头小宝贝",
+        "onboard_time": 1679312794,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 431915,
+        "num": 324417,
+        "word": "中方回应国际刑事法院对普京逮捕令",
+        "onboard_time": 1679304331,
+        "rank": 15,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 365066,
+        "num": 320568,
+        "word": "王一博打高尔夫",
+        "onboard_time": 1679307629,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 319527,
+        "num": 319527,
+        "word": "当身边恋爱长跑的朋友分手后",
+        "onboard_time": 1679308229,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 278927,
+        "num": 278927,
+        "word": "原来妍珍也吃过爱情的苦",
+        "onboard_time": 1679311836,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 257195,
+        "num": 257195,
+        "word": "NIP零封RNG",
+        "onboard_time": 1679310268,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 346344,
+        "num": 256556,
+        "word": "情侣住江景房裸身开窗帘被看光",
+        "onboard_time": 1679286336,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255390,
+        "num": 255390,
+        "word": "山西省考",
+        "onboard_time": 1679307869,
+        "rank": 21,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 247899,
+        "num": 247899,
+        "word": "这是刮鱼鳞还是刮毛",
+        "onboard_time": 1679310994,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 244547,
+        "num": 244547,
+        "word": "丫丫吃起了夜宵",
+        "onboard_time": 1679295987,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234151,
+        "num": 234151,
+        "word": "俞灏明他是谁演了个疯批",
+        "onboard_time": 1679314413,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 228973,
+        "num": 228973,
+        "word": "路星河是路炎晨和归晓的儿子吗",
+        "onboard_time": 1679308949,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 226587,
+        "num": 226587,
+        "word": "李沁新剧开拖拉机",
+        "onboard_time": 1679313334,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 221200,
+        "num": 221200,
+        "word": "ChatGPT",
+        "onboard_time": 1679301748,
+        "rank": 27,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 219746,
+        "num": 219746,
+        "word": "鞠婧祎蓝色头巾照",
+        "onboard_time": 1679311895,
+        "rank": 28,
+        "category": "作品衍生,社会新闻"
+      },
+      {
+        "raw_hot": 217924,
+        "num": 217924,
+        "word": "吴磊在芬兰冬泳",
+        "onboard_time": 1679310268,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217346,
+        "num": 217346,
+        "word": "他是谁凶手",
+        "onboard_time": 1679315130,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 208383,
+        "num": 208383,
+        "word": "难听",
+        "onboard_time": 1679306370,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 207877,
+        "num": 207877,
+        "word": "保你平安的彩蛋",
+        "onboard_time": 1679315789,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 205791,
+        "num": 205791,
+        "word": "真的不建议大家趴睡",
+        "onboard_time": 1679314830,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 203042,
+        "num": 203042,
+        "word": "2023LPL",
+        "onboard_time": 1679315731,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 197633,
+        "num": 197633,
+        "word": "张颂文不止不休首映礼",
+        "onboard_time": 1679309789,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 183537,
+        "num": 183537,
+        "word": "王者荣耀",
+        "onboard_time": 1679303128,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 182855,
+        "num": 182855,
+        "word": "心想事成王一冰绿茶真面目",
+        "onboard_time": 1679315611,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 179948,
+        "num": 179948,
+        "word": "等地铁被抓走的小猫咪",
+        "onboard_time": 1679305411,
+        "rank": 38,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 167944,
+        "num": 167944,
+        "word": "郭麒麟毛不易李雪琴演女婿上门",
+        "onboard_time": 1679310870,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167174,
+        "num": 167174,
+        "word": "内娱女星白色婚纱造型",
+        "onboard_time": 1679304570,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 166830,
+        "num": 166830,
+        "word": "27款进口网络游戏获批",
+        "onboard_time": 1679309009,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 161093,
+        "num": 161093,
+        "word": "王俊凯墨镜倒影",
+        "onboard_time": 1679309129,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152077,
+        "num": 152077,
+        "word": "很难被拒绝的简历",
+        "onboard_time": 1679304149,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 148433,
+        "num": 148433,
+        "word": "EXO三大主唱经典高音现场",
+        "onboard_time": 1679301267,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 145465,
+        "num": 145465,
+        "word": "吉克隽逸唱的归路",
+        "onboard_time": 1679314413,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 140876,
+        "num": 140876,
+        "word": "小狗在意的人只有你",
+        "onboard_time": 1679313752,
+        "rank": 46,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 138806,
+        "num": 138806,
+        "word": "爱情而已 定档",
+        "onboard_time": 1679302288,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 615806,
+        "num": 136779,
+        "word": "3名在缅甸失联学生已找到",
+        "onboard_time": 1679303489,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131282,
+        "num": 131282,
+        "word": "董璇牵女儿走秀",
+        "onboard_time": 1679304688,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#开启友谊合作与和平之旅#"
+    }
+  }
+}

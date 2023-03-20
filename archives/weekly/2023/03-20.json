@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679312036730,
+  "endTime": 1679315841755,
   "band_list": [
     {
       "raw_hot": 7256959,
@@ -121,6 +121,14 @@
       "onboard_time": 1679268984,
       "rank": 20,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 1336685,
+      "num": 339024,
+      "word": "杨子 李亚鹏",
+      "onboard_time": 1679313093,
+      "rank": 10,
+      "category": "网红"
     },
     {
       "raw_hot": 1245393,
@@ -403,6 +411,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 646211,
+      "num": 332792,
+      "word": "TT官宣iBoy",
+      "onboard_time": 1679314110,
+      "rank": 12,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 645746,
       "num": 645746,
       "word": "EXO三大主唱经典高音现场",
@@ -451,6 +467,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 600722,
+      "num": 600722,
+      "word": "断糖对人会有什么影响",
+      "onboard_time": 1679308710,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 600555,
       "num": 600555,
       "word": "井柏然说谭松韵再笑我捶你了",
@@ -465,14 +489,6 @@
       "onboard_time": 1679301567,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 596267,
-      "num": 596267,
-      "word": "断糖对人会有什么影响",
-      "onboard_time": 1679308710,
-      "rank": 19,
-      "category": "情感"
     },
     {
       "raw_hot": 595302,
@@ -513,6 +529,14 @@
       "onboard_time": 1679304149,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 572194,
+      "num": 331055,
+      "word": "孙红雷被女儿夸帅的反应",
+      "onboard_time": 1679312672,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 571046,
@@ -683,6 +707,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 440003,
+      "num": 328063,
+      "word": "戚薇说李承铉是秃头小宝贝",
+      "onboard_time": 1679312794,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 437340,
       "num": 437340,
       "word": "阿信做梦都想删掉这段视频吧",
@@ -747,6 +779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 416751,
+      "num": 416751,
+      "word": "洪洗象 XYG教练",
+      "onboard_time": 1679313514,
+      "rank": 7,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 408475,
       "num": 184144,
       "word": "2名未成年男生殴打侵犯11岁女孩",
@@ -769,6 +809,14 @@
       "onboard_time": 1679232810,
       "rank": 9,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 398412,
+      "num": 398412,
+      "word": "微博之夜同台名场面",
+      "onboard_time": 1679314110,
+      "rank": 8,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 397798,
@@ -865,6 +913,14 @@
       "onboard_time": 1679295567,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 341778,
+      "num": 341778,
+      "word": "王源包场支持不止不休",
+      "onboard_time": 1679313152,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 332370,
@@ -1075,6 +1131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 278927,
+      "num": 278927,
+      "word": "原来妍珍也吃过爱情的苦",
+      "onboard_time": 1679311836,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 278761,
       "num": 278761,
       "word": "蓝眼泪将迎高发期",
@@ -1171,6 +1235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 247899,
+      "num": 247899,
+      "word": "这是刮鱼鳞还是刮毛",
+      "onboard_time": 1679310994,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 244043,
       "num": 244043,
       "word": "27款进口网络游戏获批",
@@ -1219,6 +1291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 234151,
+      "num": 234151,
+      "word": "俞灏明他是谁演了个疯批",
+      "onboard_time": 1679314413,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 230506,
       "num": 230506,
       "word": "杀夫藏尸案死者前同事称其很稳重",
@@ -1233,6 +1313,14 @@
       "onboard_time": 1679296828,
       "rank": 37,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 226587,
+      "num": 226587,
+      "word": "李沁新剧开拖拉机",
+      "onboard_time": 1679313334,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 225777,
@@ -1267,11 +1355,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 217678,
-      "num": 217678,
-      "word": "原来妍珍也吃过爱情的苦",
-      "onboard_time": 1679311836,
-      "rank": 33,
+      "raw_hot": 217346,
+      "num": 217346,
+      "word": "他是谁凶手",
+      "onboard_time": 1679315130,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -1347,6 +1435,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 207877,
+      "num": 207877,
+      "word": "保你平安的彩蛋",
+      "onboard_time": 1679315789,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 206530,
       "num": 206530,
       "word": "陈红军家里有张合成的全家福",
@@ -1363,6 +1459,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 205791,
+      "num": 205791,
+      "word": "真的不建议大家趴睡",
+      "onboard_time": 1679314830,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 205457,
       "num": 205457,
       "word": "QQ音乐上线AI绘画功能",
@@ -1377,6 +1481,14 @@
       "onboard_time": 1679305411,
       "rank": 39,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 203042,
+      "num": 203042,
+      "word": "2023LPL",
+      "onboard_time": 1679315731,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 202988,
@@ -1507,6 +1619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 182855,
+      "num": 182855,
+      "word": "心想事成王一冰绿茶真面目",
+      "onboard_time": 1679315611,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 182225,
       "num": 182225,
       "word": "程潇乌梅子酱手势舞",
@@ -1625,14 +1745,6 @@
       "onboard_time": 1679279187,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 166501,
-      "num": 166501,
-      "word": "这是刮鱼鳞还是刮毛",
-      "onboard_time": 1679310994,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 166018,
@@ -1811,6 +1923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145465,
+      "num": 145465,
+      "word": "吉克隽逸唱的归路",
+      "onboard_time": 1679314413,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 144717,
       "num": 144717,
       "word": "窗边的小豆豆动画电影化",
@@ -1857,6 +1977,14 @@
       "onboard_time": 1679234791,
       "rank": 29,
       "category": "社会新闻,影视"
+    },
+    {
+      "raw_hot": 140876,
+      "num": 140876,
+      "word": "小狗在意的人只有你",
+      "onboard_time": 1679313752,
+      "rank": 46,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 139549,
@@ -2153,6 +2281,14 @@
       "onboard_time": 1679230950,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 54229,
+      "num": 735641,
+      "word": "航拍看红土地宛如大地油画",
+      "onboard_time": 1679314289,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 54195,
