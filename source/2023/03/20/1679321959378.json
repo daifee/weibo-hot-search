@@ -1,0 +1,410 @@
+{
+  "runTime": 1679321959378,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2463732,
+        "num": 2463732,
+        "word": "海底捞回应女大学生在包间留宿",
+        "onboard_time": 1679317468,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1718363,
+        "num": 1718363,
+        "word": "MU5735事故调查最新情况",
+        "onboard_time": 1679310572,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81756,
+        "num": 1245894,
+        "word": "航拍看红土地宛如大地油画",
+        "onboard_time": 1679314289,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1244796,
+        "num": 1244796,
+        "word": "C罗女友透露曾三次流产",
+        "onboard_time": 1679320052,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1165043,
+        "num": 1165043,
+        "word": "张颂文 什么都嗑只会害了你",
+        "onboard_time": 1679316690,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 891460,
+        "num": 891460,
+        "word": "官方回应网传熊猫宝新去世",
+        "onboard_time": 1679319569,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 858068,
+        "num": 858068,
+        "word": "男子3万块钱车被13万停车费吓到",
+        "onboard_time": 1679318609,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 704097,
+        "num": 704097,
+        "word": "8小时睡眠论可能是错的",
+        "onboard_time": 1679304149,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 664245,
+        "num": 664245,
+        "word": "蔚来发布实习生事件调查报告",
+        "onboard_time": 1679321312,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 470804,
+        "num": 470804,
+        "word": "真的不建议大家趴睡",
+        "onboard_time": 1679314830,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 687620,
+        "num": 461974,
+        "word": "杨子 李亚鹏",
+        "onboard_time": 1679313093,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 506167,
+        "num": 453922,
+        "word": "小S称许雅钧是隐形爸爸",
+        "onboard_time": 1679308110,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 445418,
+        "num": 445418,
+        "word": "微博之夜同台名场面",
+        "onboard_time": 1679314110,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 422443,
+        "num": 422443,
+        "word": "俄方在机场举行迎宾仪式",
+        "onboard_time": 1679318190,
+        "rank": 13,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 417399,
+        "num": 417399,
+        "word": "陈晓李沁为贴近角色化黑妆",
+        "onboard_time": 1679318729,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 355033,
+        "num": 355033,
+        "word": "俞灏明他是谁演了个疯批",
+        "onboard_time": 1679314413,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 480103,
+        "num": 353973,
+        "word": "熊猫萌兰为了越狱有多努力",
+        "onboard_time": 1679316750,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 348852,
+        "num": 348852,
+        "word": "aespa演唱会上的假唱舞台",
+        "onboard_time": 1679317468,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 340648,
+        "num": 340648,
+        "word": "断糖对人会有什么影响",
+        "onboard_time": 1679308710,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 311543,
+        "num": 311543,
+        "word": "杭州久摇不中72次及以上可申请车牌",
+        "onboard_time": 1679321133,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305474,
+        "num": 305474,
+        "word": "TT官宣iBoy",
+        "onboard_time": 1679314110,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 305367,
+        "num": 305367,
+        "word": "中方回应国际刑事法院对普京逮捕令",
+        "onboard_time": 1679304331,
+        "rank": 21,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 299131,
+        "num": 299131,
+        "word": "他是谁凶手",
+        "onboard_time": 1679315130,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 285569,
+        "num": 285569,
+        "word": "戚薇说李承铉是秃头小宝贝",
+        "onboard_time": 1679312794,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270035,
+        "num": 270035,
+        "word": "路星河是路炎晨和归晓的儿子吗",
+        "onboard_time": 1679308949,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 259482,
+        "num": 259482,
+        "word": "王一博打高尔夫",
+        "onboard_time": 1679307629,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248715,
+        "num": 248715,
+        "word": "你好星期六cp大乱炖",
+        "onboard_time": 1679320713,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230514,
+        "num": 230514,
+        "word": "1994小美人鱼vs2023小美人鱼",
+        "onboard_time": 1679307930,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 222676,
+        "num": 222676,
+        "word": "每天早睡1小时",
+        "onboard_time": 1679321190,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 219172,
+        "num": 219172,
+        "word": "丁禹兮彭小苒新剧被叫雌雄双煞",
+        "onboard_time": 1679316390,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 208005,
+        "num": 208005,
+        "word": "孙红雷被女儿夸帅的反应",
+        "onboard_time": 1679312672,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184363,
+        "num": 184363,
+        "word": "情侣住江景房裸身开窗帘被看光",
+        "onboard_time": 1679286336,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174768,
+        "num": 174768,
+        "word": "IVE专辑配置",
+        "onboard_time": 1679305828,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 173102,
+        "num": 173102,
+        "word": "摸猫的时候突然打它一下",
+        "onboard_time": 1679317050,
+        "rank": 33,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 172914,
+        "num": 172914,
+        "word": "中国代表团抵达莫斯科",
+        "onboard_time": 1679309609,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172224,
+        "num": 172224,
+        "word": "冯琳 青年大学习",
+        "onboard_time": 1679302169,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 169226,
+        "num": 169226,
+        "word": "不止不休",
+        "onboard_time": 1679320651,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 166075,
+        "num": 166075,
+        "word": "回响",
+        "onboard_time": 1679319331,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165387,
+        "num": 165387,
+        "word": "当身边恋爱长跑的朋友分手后",
+        "onboard_time": 1679308229,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 162007,
+        "num": 162007,
+        "word": "吉吉国王在他是谁演刑满释放人员",
+        "onboard_time": 1679320651,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 161950,
+        "num": 161950,
+        "word": "山西省考",
+        "onboard_time": 1679307869,
+        "rank": 40,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 161091,
+        "num": 161091,
+        "word": "别等到口渴时再喝水",
+        "onboard_time": 1679320952,
+        "rank": 41,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 156006,
+        "num": 156006,
+        "word": "小狗在意的人只有你",
+        "onboard_time": 1679313752,
+        "rank": 42,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 151748,
+        "num": 151748,
+        "word": "被这只猫的肌肉惊到了",
+        "onboard_time": 1679321553,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 150968,
+        "num": 150968,
+        "word": "洪洗象 XYG教练",
+        "onboard_time": 1679313514,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 147265,
+        "num": 147265,
+        "word": "陈伟南",
+        "onboard_time": 1679319871,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137579,
+        "num": 137579,
+        "word": "NIP零封RNG",
+        "onboard_time": 1679310268,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 134982,
+        "num": 134982,
+        "word": "什么都嗑只会让我营养均衡",
+        "onboard_time": 1679318790,
+        "rank": 47,
+        "category": "幽默,作品衍生"
+      },
+      {
+        "raw_hot": 134489,
+        "num": 134489,
+        "word": "感受到了基因的优越性",
+        "onboard_time": 1679321731,
+        "rank": 48,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 129820,
+        "num": 129820,
+        "word": "丫丫吃起了夜宵",
+        "onboard_time": 1679295987,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#开启友谊合作与和平之旅#"
+    }
+  }
+}
