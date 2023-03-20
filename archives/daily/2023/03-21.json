@@ -1,10 +1,10 @@
 {
   "startTime": 1679329653267,
-  "endTime": 1679329653267,
+  "endTime": 1679330722620,
   "band_list": [
     {
-      "raw_hot": 1083762,
-      "num": 1083762,
+      "raw_hot": 1094898,
+      "num": 1094898,
       "word": "泰国旅游",
       "onboard_time": 1679326229,
       "rank": 0,
@@ -144,6 +144,14 @@
       "word": "杭州久摇不中72次及以上可申请车牌",
       "onboard_time": 1679321133,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212965,
+      "num": 212965,
+      "word": "广东人上床睡觉时间全国最晚",
+      "onboard_time": 1679329882,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -401,6 +409,14 @@
       "onboard_time": 1679324791,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 83300,
+      "num": 83300,
+      "word": "戚薇说李承铉是秃头小宝贝",
+      "onboard_time": 1679312794,
+      "rank": 36,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [

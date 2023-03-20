@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679329653267,
+  "endTime": 1679330722620,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -3571,6 +3571,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1094898,
+      "num": 1094898,
+      "word": "泰国旅游",
+      "onboard_time": 1679326229,
+      "rank": 33,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 1094499,
       "num": 643561,
       "word": "二十六七岁多么美好的年纪",
@@ -3649,14 +3657,6 @@
       "onboard_time": 1679038228,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1083762,
-      "num": 1083762,
-      "word": "泰国旅游",
-      "onboard_time": 1679326229,
-      "rank": 33,
-      "category": "旅游"
     },
     {
       "raw_hot": 1082704,
@@ -26113,6 +26113,14 @@
       "onboard_time": 1677589471,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 212965,
+      "num": 212965,
+      "word": "广东人上床睡觉时间全国最晚",
+      "onboard_time": 1679329882,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 212901,
