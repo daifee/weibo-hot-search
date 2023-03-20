@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679323035935,
+  "endTime": 1679325667172,
   "band_list": [
     {
       "raw_hot": 7256959,
@@ -41,6 +41,14 @@
       "onboard_time": 1679276187,
       "rank": 45,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 2056909,
+      "num": 1427134,
+      "word": "杀夫藏尸女子已被刑拘",
+      "onboard_time": 1679323651,
+      "rank": 1,
+      "category": "社会负面"
     },
     {
       "raw_hot": 2018931,
@@ -683,6 +691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 544178,
+      "num": 544178,
+      "word": "云胡不喜选角 胡歌陈星旭",
+      "onboard_time": 1679324849,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 536063,
       "num": 536063,
       "word": "台湾日月潭九蛙叠像全部露出",
@@ -769,6 +785,14 @@
       "onboard_time": 1679289210,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 466370,
+      "num": 466370,
+      "word": "每天早睡1小时",
+      "onboard_time": 1679321190,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 461653,
@@ -913,14 +937,6 @@
       "onboard_time": 1679232810,
       "rank": 9,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 401502,
-      "num": 401502,
-      "word": "每天早睡1小时",
-      "onboard_time": 1679321190,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 398599,
@@ -1091,6 +1107,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 327256,
+      "num": 327256,
+      "word": "林俊杰演唱会单手接花",
+      "onboard_time": 1679323291,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 323652,
       "num": 323652,
       "word": "Hero辟谣",
@@ -1163,6 +1187,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 305652,
+      "num": 305652,
+      "word": "王俊凯亮相不止不休首映",
+      "onboard_time": 1679322155,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 297310,
       "num": 297310,
       "word": "中非",
@@ -1225,14 +1257,6 @@
       "onboard_time": 1679281767,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 288805,
-      "num": 288805,
-      "word": "王俊凯亮相不止不休首映",
-      "onboard_time": 1679322155,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 287345,
@@ -1307,6 +1331,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 272827,
+      "num": 258344,
+      "word": "谭松韵哭腔",
+      "onboard_time": 1679324069,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 269061,
       "num": 269061,
       "word": "8箱芒果托运980女子当场吃完",
@@ -1345,6 +1377,14 @@
       "onboard_time": 1679311895,
       "rank": 28,
       "category": "作品衍生,社会新闻"
+    },
+    {
+      "raw_hot": 261269,
+      "num": 261269,
+      "word": "为什么不建议婚后和父母住",
+      "onboard_time": 1679324312,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 252626,
@@ -1403,12 +1443,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 245145,
+      "num": 245145,
+      "word": "陈哲远青春环游记路透",
+      "onboard_time": 1679322155,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 244043,
       "num": 244043,
       "word": "27款进口网络游戏获批",
       "onboard_time": 1679309009,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 244000,
+      "num": 244000,
+      "word": "艾怡良点赞宋亚轩翻唱foreveryoung",
+      "onboard_time": 1679322872,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 242022,
@@ -1497,6 +1553,22 @@
       "onboard_time": 1679287414,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 224408,
+      "num": 224408,
+      "word": "把猫猫一把拖进被窝",
+      "onboard_time": 1679324611,
+      "rank": 29,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 224064,
+      "num": 224064,
+      "word": "IVE回归概念预告",
+      "onboard_time": 1679324791,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 222327,
@@ -1595,6 +1667,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 207706,
+      "num": 207706,
+      "word": "林永健王天辰演父子",
+      "onboard_time": 1679325449,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 206530,
       "num": 206530,
       "word": "陈红军家里有张合成的全家福",
@@ -1627,6 +1707,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 204262,
+      "num": 204262,
+      "word": "高加林大学名额被顶替",
+      "onboard_time": 1679323109,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 204198,
       "num": 204198,
       "word": "等地铁被抓走的小猫咪",
@@ -1648,14 +1736,6 @@
       "word": "姐姐4招募观众",
       "onboard_time": 1679289750,
       "rank": 34,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 201293,
-      "num": 201293,
-      "word": "陈哲远青春环游记路透",
-      "onboard_time": 1679322155,
-      "rank": 32,
       "category": "综艺"
     },
     {
@@ -1739,6 +1819,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 193059,
+      "num": 193059,
+      "word": "被这只猫的肌肉惊到了",
+      "onboard_time": 1679321553,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 192903,
       "num": 192903,
       "word": "华为最新天才少年回应入选",
@@ -1809,6 +1897,14 @@
       "onboard_time": 1679298090,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 180376,
+      "num": 180376,
+      "word": "wbg",
+      "onboard_time": 1679325509,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 179383,
@@ -1923,14 +2019,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 170208,
-      "num": 170208,
-      "word": "被这只猫的肌肉惊到了",
-      "onboard_time": 1679321553,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 169674,
       "num": 166182,
       "word": "KPL选手的陪伴方式",
@@ -2043,6 +2131,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 161710,
+      "num": 161710,
+      "word": "苏醒我想和你唱花絮vlog",
+      "onboard_time": 1679323831,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161091,
       "num": 161091,
       "word": "别等到口渴时再喝水",
@@ -2123,6 +2219,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 147640,
+      "num": 147640,
+      "word": "如何亲手制作送给心爱的人礼物",
+      "onboard_time": 1679324970,
+      "rank": 44,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 147265,
       "num": 147265,
       "word": "陈伟南",
@@ -2171,6 +2275,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 144613,
+      "num": 144613,
+      "word": "秒回是很喜欢一个人的表现吗",
+      "onboard_time": 1679325208,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 144544,
       "num": 144544,
       "word": "九连真人迷笛音乐节",
@@ -2185,14 +2297,6 @@
       "onboard_time": 1679231610,
       "rank": 32,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 143443,
-      "num": 143443,
-      "word": "艾怡良点赞宋亚轩翻唱foreveryoung",
-      "onboard_time": 1679322872,
-      "rank": 44,
-      "category": "音乐"
     },
     {
       "raw_hot": 143239,
@@ -2613,6 +2717,9 @@
     },
     {
       "word": "#开启友谊合作与和平之旅#"
+    },
+    {
+      "word": "#习近平乘专机抵达莫斯科#"
     }
   ]
 }
