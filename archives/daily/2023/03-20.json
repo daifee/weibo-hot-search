@@ -1,10 +1,10 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679276273415,
+  "endTime": 1679277376150,
   "band_list": [
     {
-      "raw_hot": 2292841,
-      "num": 2292841,
+      "raw_hot": 2369555,
+      "num": 2369555,
       "word": "未满14周岁不承担法律后果合理吗",
       "onboard_time": 1679271148,
       "rank": 0,
@@ -20,11 +20,27 @@
     },
     {
       "raw_hot": 1344800,
-      "num": 247920,
+      "num": 262461,
       "word": "李梦",
       "onboard_time": 1679268984,
       "rank": 20,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 1034170,
+      "num": 1034170,
+      "word": "大陆方面欢迎马英九先生来访",
+      "onboard_time": 1679275167,
+      "rank": 3,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 997019,
+      "num": 997019,
+      "word": "拒绝和玲娜贝儿互动的当事人回应",
+      "onboard_time": 1679276187,
+      "rank": 45,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 992480,
@@ -33,14 +49,6 @@
       "onboard_time": 1679237491,
       "rank": 1,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 900649,
-      "num": 900649,
-      "word": "大陆方面欢迎马英九先生来访",
-      "onboard_time": 1679275167,
-      "rank": 3,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 809683,
@@ -67,12 +75,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 666361,
+      "num": 409936,
+      "word": "17岁女生寒假兼职做保安",
+      "onboard_time": 1679275527,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 647431,
-      "num": 378409,
+      "num": 398447,
       "word": "唐嫣的仪态",
       "onboard_time": 1679269586,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 639785,
+      "num": 639785,
+      "word": "辅警往身上浇了盆水后冲进火场",
+      "onboard_time": 1679274987,
+      "rank": 12,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 608157,
@@ -99,20 +123,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 559053,
+      "num": 559053,
+      "word": "周一",
+      "onboard_time": 1679275047,
+      "rank": 7,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 551359,
+      "num": 551359,
+      "word": "李湘辟谣主持乘风破浪",
+      "onboard_time": 1679275226,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 545519,
       "num": 545519,
       "word": "研究称男性也有最佳生育年龄",
       "onboard_time": 1679236530,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 536786,
-      "num": 536786,
-      "word": "李湘辟谣主持乘风破浪",
-      "onboard_time": 1679275226,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 536063,
@@ -124,7 +156,7 @@
     },
     {
       "raw_hot": 473039,
-      "num": 247728,
+      "num": 262144,
       "word": "为什么不建议年轻人去摆摊",
       "onboard_time": 1679239229,
       "rank": 20,
@@ -135,14 +167,6 @@
       "num": 431028,
       "word": "水瓶座到底在焦虑什么",
       "onboard_time": 1679238153,
-      "rank": 7,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 430436,
-      "num": 430436,
-      "word": "周一",
-      "onboard_time": 1679275047,
       "rank": 7,
       "category": "情感"
     },
@@ -177,14 +201,6 @@
       "onboard_time": 1679255531,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 407591,
-      "num": 378014,
-      "word": "辅警往身上浇了盆水后冲进火场",
-      "onboard_time": 1679274987,
-      "rank": 12,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 405041,
@@ -225,14 +241,6 @@
       "onboard_time": 1679273668,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 282506,
-      "num": 282506,
-      "word": "17岁女生寒假兼职做保安",
-      "onboard_time": 1679275527,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 269061,
@@ -305,6 +313,14 @@
       "onboard_time": 1679268081,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215431,
+      "num": 179142,
+      "word": "徐冬冬吴卓羲老板娘3开机路透",
+      "onboard_time": 1679277266,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 206530,
@@ -411,20 +427,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 170276,
+      "num": 170276,
+      "word": "艾热王以太早安杨和苏现场",
+      "onboard_time": 1679274090,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 166018,
       "num": 166018,
       "word": "内娱明星emoji简称",
       "onboard_time": 1679234609,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 165369,
-      "num": 165369,
-      "word": "艾热王以太早安杨和苏现场",
-      "onboard_time": 1679274090,
-      "rank": 35,
-      "category": "音乐"
     },
     {
       "raw_hot": 164942,
@@ -451,12 +467,36 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 150166,
+      "num": 150166,
+      "word": "雅思组合击败韩国队获混双冠军",
+      "onboard_time": 1679275946,
+      "rank": 43,
+      "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 149290,
+      "num": 144237,
+      "word": "报告称中国人幸福感全球最高",
+      "onboard_time": 1679277266,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145797,
       "num": 145797,
       "word": "巴萨vs皇马",
       "onboard_time": 1679252173,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 144717,
+      "num": 144717,
+      "word": "窗边的小豆豆动画电影化",
+      "onboard_time": 1679277146,
+      "rank": 35,
+      "category": "动漫"
     },
     {
       "raw_hot": 144544,
@@ -555,14 +595,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 120252,
-      "num": 120252,
-      "word": "雅思组合击败韩国队获混双冠军",
-      "onboard_time": 1679275946,
-      "rank": 43,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 119872,
       "num": 119872,
       "word": "薛之谦感谢所有人承蒙关照",
@@ -601,14 +633,6 @@
       "onboard_time": 1679220387,
       "rank": 40,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 109716,
-      "num": 109716,
-      "word": "拒绝和玲娜贝儿互动的当事人回应",
-      "onboard_time": 1679276187,
-      "rank": 45,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 109235,
