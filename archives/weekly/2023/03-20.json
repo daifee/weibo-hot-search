@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679294314824,
+  "endTime": 1679296663023,
   "band_list": [
     {
       "raw_hot": 2369555,
@@ -64,6 +64,14 @@
       "word": "情侣住江景房裸身开窗帘被看光",
       "onboard_time": 1679286336,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1349518,
+      "num": 801121,
+      "word": "杀夫藏尸冰柜女子婚礼主持人发声",
+      "onboard_time": 1679294847,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -139,6 +147,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 854405,
+      "num": 469161,
+      "word": "北大丁乾坤",
+      "onboard_time": 1679291666,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 823700,
+      "num": 823700,
+      "word": "杀夫女子曾与丈夫合开一家文化公司",
+      "onboard_time": 1679293708,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 809683,
       "num": 809683,
       "word": "张兰回应海外欠债9.8亿",
@@ -192,14 +216,6 @@
       "word": "调查称韩国人幸福感排名全球垫底",
       "onboard_time": 1679278407,
       "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 741120,
-      "num": 339690,
-      "word": "北大丁乾坤",
-      "onboard_time": 1679291666,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -347,6 +363,22 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 528726,
+      "num": 528726,
+      "word": "男子在车里铺瓷砖还做了踢脚线",
+      "onboard_time": 1679292927,
+      "rank": 42,
+      "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 486457,
+      "num": 486457,
+      "word": "睡8个小时不一定代表睡得好",
+      "onboard_time": 1679295087,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 479375,
       "num": 479375,
       "word": "黑暗荣耀大婶登ELLE四月刊",
@@ -409,6 +441,22 @@
       "onboard_time": 1679273247,
       "rank": 11,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 428047,
+      "num": 428047,
+      "word": "他是谁把警察荣誉剧组搬来了",
+      "onboard_time": 1679295147,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 425055,
+      "num": 425055,
+      "word": "王鹤棣吃汉堡",
+      "onboard_time": 1679294068,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 417892,
@@ -475,12 +523,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 334164,
-      "num": 323789,
-      "word": "王鹤棣吃汉堡",
-      "onboard_time": 1679294068,
-      "rank": 13,
-      "category": "艺人"
+      "raw_hot": 359411,
+      "num": 359411,
+      "word": "外交部回应中资民营企业在中非遭袭",
+      "onboard_time": 1679293286,
+      "rank": 30,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 342488,
+      "num": 342488,
+      "word": "金智秀solo专辑预售突破95万张",
+      "onboard_time": 1679295567,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 332370,
@@ -547,6 +603,14 @@
       "category": "体育,作品衍生"
     },
     {
+      "raw_hot": 295324,
+      "num": 295324,
+      "word": "林峯黄宗泽吴卓羲群名三个帅哥",
+      "onboard_time": 1679293708,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 294022,
       "num": 294022,
       "word": "女子寺庙游玩遇到新式鬼屋",
@@ -595,14 +659,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 281999,
-      "num": 281999,
-      "word": "男子在车里铺瓷砖还做了踢脚线",
-      "onboard_time": 1679292927,
-      "rank": 42,
-      "category": "社会新闻,幽默"
-    },
-    {
       "raw_hot": 281626,
       "num": 281626,
       "word": "杨颖马天宇宣璐汪卓成尘缘花絮",
@@ -625,6 +681,22 @@
       "onboard_time": 1679284112,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 277618,
+      "num": 277618,
+      "word": "黑厂否认与JINNI签约",
+      "onboard_time": 1679296587,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 275645,
+      "num": 275645,
+      "word": "给狗狗打伞的爷爷",
+      "onboard_time": 1679294486,
+      "rank": 23,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 273390,
@@ -731,14 +803,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 223150,
-      "num": 223150,
-      "word": "林峯黄宗泽吴卓羲群名三个帅哥",
-      "onboard_time": 1679293708,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 222327,
       "num": 222327,
       "word": "白敬亭对井柏然说哥我错了下次还敢",
@@ -755,12 +819,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 218471,
-      "num": 169338,
-      "word": "外交部回应中资民营企业在中非遭袭",
-      "onboard_time": 1679293286,
-      "rank": 30,
-      "category": "国内要闻"
+      "raw_hot": 217773,
+      "num": 217773,
+      "word": "杀夫藏尸案死者前同事称其很稳重",
+      "onboard_time": 1679295747,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 216353,
@@ -833,14 +897,6 @@
       "onboard_time": 1679284171,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 200051,
-      "num": 164130,
-      "word": "杀夫女子曾与丈夫合开一家文化公司",
-      "onboard_time": 1679293708,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 199447,
@@ -937,6 +993,14 @@
       "onboard_time": 1679222969,
       "rank": 25,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 178915,
+      "num": 178915,
+      "word": "基金",
+      "onboard_time": 1679296048,
+      "rank": 32,
+      "category": "财经"
     },
     {
       "raw_hot": 178824,
@@ -1043,6 +1107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 163111,
+      "num": 163111,
+      "word": "读书能缓解你的精神内耗吗",
+      "onboard_time": 1679295327,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162368,
       "num": 162368,
       "word": "重新定义了上有老下有小",
@@ -1105,6 +1177,14 @@
       "onboard_time": 1679290649,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 146694,
+      "num": 146694,
+      "word": "Elk获得周MVP",
+      "onboard_time": 1679295389,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 145797,
@@ -1171,12 +1251,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136933,
+      "num": 136933,
+      "word": "路晨归晓给我亲",
+      "onboard_time": 1679296347,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 135924,
       "num": 135924,
       "word": "车勋今日入伍",
       "onboard_time": 1679274329,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 134578,
+      "num": 134578,
+      "word": "丫丫吃起了夜宵",
+      "onboard_time": 1679295987,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 134445,
@@ -1241,6 +1337,14 @@
       "onboard_time": 1679241088,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121991,
+      "num": 121991,
+      "word": "刘宇宁寻一个你微博年度人气音乐",
+      "onboard_time": 1679295026,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 120884,

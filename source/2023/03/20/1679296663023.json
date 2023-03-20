@@ -1,0 +1,410 @@
+{
+  "runTime": 1679296663023,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1397364,
+        "num": 1397364,
+        "word": "原来胃是情绪器官",
+        "onboard_time": 1679285792,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 823700,
+        "num": 823700,
+        "word": "杀夫女子曾与丈夫合开一家文化公司",
+        "onboard_time": 1679293708,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75811,
+        "num": 805642,
+        "word": "1分钟感受身边的幸福",
+        "onboard_time": 1679280507,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1349518,
+        "num": 801121,
+        "word": "杀夫藏尸冰柜女子婚礼主持人发声",
+        "onboard_time": 1679294847,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 790006,
+        "num": 790006,
+        "word": "00后女生10秒拒绝8家公司",
+        "onboard_time": 1679283149,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 704973,
+        "num": 704973,
+        "word": "韩国40出头新娘人数比20岁还多",
+        "onboard_time": 1679289568,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 567834,
+        "num": 567834,
+        "word": "公公豪掷117万为儿媳买编制被骗",
+        "onboard_time": 1679280628,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 528726,
+        "num": 528726,
+        "word": "男子在车里铺瓷砖还做了踢脚线",
+        "onboard_time": 1679292927,
+        "rank": 7,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 494358,
+        "num": 494358,
+        "word": "拒绝和玲娜贝儿互动的当事人回应",
+        "onboard_time": 1679276187,
+        "rank": 8,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 486457,
+        "num": 486457,
+        "word": "睡8个小时不一定代表睡得好",
+        "onboard_time": 1679295087,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 854405,
+        "num": 469161,
+        "word": "北大丁乾坤",
+        "onboard_time": 1679291666,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 428047,
+        "num": 428047,
+        "word": "他是谁把警察荣誉剧组搬来了",
+        "onboard_time": 1679295147,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 425055,
+        "num": 425055,
+        "word": "王鹤棣吃汉堡",
+        "onboard_time": 1679294068,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 364680,
+        "num": 364680,
+        "word": "动物园大猩猩被发现在直立行走",
+        "onboard_time": 1679283749,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359411,
+        "num": 359411,
+        "word": "外交部回应中资民营企业在中非遭袭",
+        "onboard_time": 1679293286,
+        "rank": 14,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 354028,
+        "num": 354028,
+        "word": "井柏然说谭松韵再笑我捶你了",
+        "onboard_time": 1679290048,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 342488,
+        "num": 342488,
+        "word": "金智秀solo专辑预售突破95万张",
+        "onboard_time": 1679295567,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 318377,
+        "num": 318377,
+        "word": "广东人把大熊猫养成了阿伯",
+        "onboard_time": 1679286872,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295324,
+        "num": 295324,
+        "word": "林峯黄宗泽吴卓羲群名三个帅哥",
+        "onboard_time": 1679293708,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283323,
+        "num": 283323,
+        "word": "Lisa机场素颜照",
+        "onboard_time": 1679288193,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 777349,
+        "num": 283312,
+        "word": "情侣住江景房裸身开窗帘被看光",
+        "onboard_time": 1679286336,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283232,
+        "num": 283232,
+        "word": "迪丽热巴黑色西装套装",
+        "onboard_time": 1679289210,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 277618,
+        "num": 277618,
+        "word": "黑厂否认与JINNI签约",
+        "onboard_time": 1679296587,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275645,
+        "num": 275645,
+        "word": "给狗狗打伞的爷爷",
+        "onboard_time": 1679294486,
+        "rank": 23,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 217773,
+        "num": 217773,
+        "word": "杀夫藏尸案死者前同事称其很稳重",
+        "onboard_time": 1679295747,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212116,
+        "num": 212116,
+        "word": "黑暗荣耀大婶登ELLE四月刊",
+        "onboard_time": 1679286394,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204298,
+        "num": 204298,
+        "word": "Hero辟谣",
+        "onboard_time": 1679292330,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 203421,
+        "num": 203421,
+        "word": "哪吒2预计于明年上映",
+        "onboard_time": 1679291067,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193419,
+        "num": 193419,
+        "word": "4名学生偷渡前往缅甸后失联",
+        "onboard_time": 1679277506,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190611,
+        "num": 190611,
+        "word": "华为又一天才少年曝光",
+        "onboard_time": 1679277686,
+        "rank": 29,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 188925,
+        "num": 188925,
+        "word": "杨紫确认出席微博之夜",
+        "onboard_time": 1679289450,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 179029,
+        "num": 179029,
+        "word": "宝新",
+        "onboard_time": 1679285792,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178915,
+        "num": 178915,
+        "word": "基金",
+        "onboard_time": 1679296048,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 178531,
+        "num": 178531,
+        "word": "张杰演唱会",
+        "onboard_time": 1679286694,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 163111,
+        "num": 163111,
+        "word": "读书能缓解你的精神内耗吗",
+        "onboard_time": 1679295327,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160768,
+        "num": 160768,
+        "word": "省考",
+        "onboard_time": 1679278527,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 158801,
+        "num": 158801,
+        "word": "迪士尼回应玲娜贝儿演员疑遭排挤",
+        "onboard_time": 1679282187,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146694,
+        "num": 146694,
+        "word": "Elk获得周MVP",
+        "onboard_time": 1679295389,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 145789,
+        "num": 145789,
+        "word": "孙颖莎获微博年度喜爱人物",
+        "onboard_time": 1679290827,
+        "rank": 38,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 136933,
+        "num": 136933,
+        "word": "路晨归晓给我亲",
+        "onboard_time": 1679296347,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 134578,
+        "num": 134578,
+        "word": "丫丫吃起了夜宵",
+        "onboard_time": 1679295987,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129802,
+        "num": 129802,
+        "word": "放在全国毕业季都相当炸裂",
+        "onboard_time": 1679290649,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 125407,
+        "num": 125407,
+        "word": "以最残忍的方式羞辱钓鱼佬",
+        "onboard_time": 1679280988,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123889,
+        "num": 123889,
+        "word": "黑暗荣耀弹幕",
+        "onboard_time": 1679292148,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 121991,
+        "num": 121991,
+        "word": "刘宇宁寻一个你微博年度人气音乐",
+        "onboard_time": 1679295026,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 120852,
+        "num": 120852,
+        "word": "姐姐4招募观众",
+        "onboard_time": 1679289750,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114656,
+        "num": 114656,
+        "word": "朴妍珍的嘴",
+        "onboard_time": 1679284950,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 111055,
+        "num": 111055,
+        "word": "中非",
+        "onboard_time": 1679287295,
+        "rank": 47,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 103774,
+        "num": 103774,
+        "word": "蓝眼泪将迎高发期",
+        "onboard_time": 1679284112,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102106,
+        "num": 102106,
+        "word": "重新定义了上有老下有小",
+        "onboard_time": 1679290350,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对俄罗斯进行国事访问#"
+    }
+  }
+}
