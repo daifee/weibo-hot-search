@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679301497833,
+  "endTime": 1679303978321,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -1203,6 +1203,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1812649,
+      "num": 1812649,
+      "word": "导师给我的论文批注",
+      "onboard_time": 1679298686,
+      "rank": 1,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1808573,
       "num": 323486,
       "word": "Jennie脸部受伤后现身机场",
@@ -1963,14 +1971,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1475107,
-      "num": 1475107,
-      "word": "导师给我的论文批注",
-      "onboard_time": 1679298686,
-      "rank": 1,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 1473978,
       "num": 1473978,
       "word": "各部部长",
@@ -2129,6 +2129,14 @@
       "onboard_time": 1677888925,
       "rank": 3,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1430597,
+      "num": 1430597,
+      "word": "冯琳 青年大学习",
+      "onboard_time": 1679302169,
+      "rank": 1,
+      "category": "教育"
     },
     {
       "raw_hot": 1430575,
@@ -2420,7 +2428,7 @@
     },
     {
       "raw_hot": 1353562,
-      "num": 311853,
+      "num": 318461,
       "word": "情侣住江景房裸身开窗帘被看光",
       "onboard_time": 1679286336,
       "rank": 30,
@@ -4747,6 +4755,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 941681,
+      "num": 941681,
+      "word": "ChatGPT",
+      "onboard_time": 1679301748,
+      "rank": 3,
+      "category": "科技"
+    },
+    {
       "raw_hot": 938747,
       "num": 608657,
       "word": "成都大风",
@@ -4769,6 +4785,14 @@
       "onboard_time": 1679115931,
       "rank": 6,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 932568,
+      "num": 932568,
+      "word": "黄金",
+      "onboard_time": 1679106267,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 928046,
@@ -5057,6 +5081,14 @@
       "onboard_time": 1679106088,
       "rank": 1,
       "category": "网红"
+    },
+    {
+      "raw_hot": 894802,
+      "num": 894802,
+      "word": "爱情而已 定档",
+      "onboard_time": 1679302288,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 894582,
@@ -8587,6 +8619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 645746,
+      "num": 645746,
+      "word": "EXO三大主唱经典高音现场",
+      "onboard_time": 1679301267,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 645600,
       "num": 498977,
       "word": "你好星期六下周有丁程鑫",
@@ -9473,6 +9513,14 @@
       "onboard_time": 1678776867,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 599708,
+      "num": 599708,
+      "word": "张嘉倪长文解读黄亚萍",
+      "onboard_time": 1679301567,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 599180,
@@ -10593,6 +10641,14 @@
       "onboard_time": 1677716729,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 550136,
+      "num": 550136,
+      "word": "NMIXX新歌",
+      "onboard_time": 1679303550,
+      "rank": 9,
+      "category": "音乐"
     },
     {
       "raw_hot": 549879,
@@ -12755,14 +12811,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 476650,
-      "num": 476650,
-      "word": "黄金",
-      "onboard_time": 1679106267,
-      "rank": 27,
-      "category": "财经"
-    },
-    {
       "raw_hot": 476603,
       "num": 476603,
       "word": "检测机构已抵达假香米公司",
@@ -13947,6 +13995,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 437340,
+      "num": 437340,
+      "word": "阿信做梦都想删掉这段视频吧",
+      "onboard_time": 1679301267,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 437215,
       "num": 414234,
       "word": "庆余年2",
@@ -14729,6 +14785,14 @@
       "onboard_time": 1678287031,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 413680,
+      "num": 413680,
+      "word": "高叶版妍珍",
+      "onboard_time": 1679302590,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 413262,
@@ -16579,6 +16643,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 365249,
+      "num": 365249,
+      "word": "微博年度人气电影剧集综艺都有王一博",
+      "onboard_time": 1679300848,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 364844,
       "num": 164702,
       "word": "薛凯琪周柯宇吻戏",
@@ -18137,14 +18209,6 @@
       "onboard_time": 1678111529,
       "rank": 20,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 334897,
-      "num": 334897,
-      "word": "EXO三大主唱经典高音现场",
-      "onboard_time": 1679301267,
-      "rank": 15,
-      "category": "音乐"
     },
     {
       "raw_hot": 334862,
@@ -20171,6 +20235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 294360,
+      "num": 198090,
+      "word": "3名在缅甸失联学生已找到",
+      "onboard_time": 1679303489,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 294066,
       "num": 294066,
       "word": "科学家发现黑洞旁诞生一颗恒星",
@@ -22097,6 +22169,14 @@
       "onboard_time": 1678172847,
       "rank": 24,
       "category": "游戏,体育"
+    },
+    {
+      "raw_hot": 260991,
+      "num": 260991,
+      "word": "苦孩子也不能苦自己",
+      "onboard_time": 1679299768,
+      "rank": 42,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 260718,
@@ -25083,14 +25163,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 217790,
-      "num": 217790,
-      "word": "阿信做梦都想删掉这段视频吧",
-      "onboard_time": 1679301267,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 217782,
       "num": 207184,
       "word": "展博宛瑜BE美学",
@@ -26169,6 +26241,14 @@
       "onboard_time": 1678935203,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206244,
+      "num": 206244,
+      "word": "六公主专访甄嬛传功勋制片人",
+      "onboard_time": 1679301868,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 206225,
@@ -28033,14 +28113,6 @@
       "onboard_time": 1679300727,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 195951,
-      "num": 195951,
-      "word": "微博年度人气电影剧集综艺都有王一博",
-      "onboard_time": 1679300848,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 195938,
@@ -31043,6 +31115,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 169674,
+      "num": 160631,
+      "word": "KPL选手的陪伴方式",
+      "onboard_time": 1679303910,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 169644,
       "num": 169644,
       "word": "刘耀文荣梓杉海报拍摄花絮",
@@ -31699,6 +31779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 163396,
+      "num": 163396,
+      "word": "影视剧破镜重圆天花板",
+      "onboard_time": 1679301931,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 163145,
       "num": 163145,
       "word": "张馨予为他是谁打call",
@@ -32257,14 +32345,6 @@
       "onboard_time": 1677934587,
       "rank": 40,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 157378,
-      "num": 157378,
-      "word": "苦孩子也不能苦自己",
-      "onboard_time": 1679299768,
-      "rank": 42,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 157372,
@@ -33257,6 +33337,14 @@
       "onboard_time": 1678680510,
       "rank": 43,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 147547,
+      "num": 147547,
+      "word": "放在00后职场也是相当炸裂",
+      "onboard_time": 1679300968,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 147480,
@@ -34563,6 +34651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 135345,
+      "num": 135345,
+      "word": "一下子就变成了重点客户",
+      "onboard_time": 1679303608,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 135317,
       "num": 135317,
       "word": "张瑞VS韩莹",
@@ -35075,14 +35171,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 130083,
-      "num": 130083,
-      "word": "放在00后职场也是相当炸裂",
-      "onboard_time": 1679300968,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 130040,
       "num": 130040,
       "word": "玄商三个神识修罗场来了",
@@ -35113,6 +35201,14 @@
       "onboard_time": 1677595293,
       "rank": 39,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 129956,
+      "num": 129956,
+      "word": "这跟捡钱有什么区别",
+      "onboard_time": 1679303669,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 129832,
@@ -38153,6 +38249,14 @@
       "onboard_time": 1679068227,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 91184,
+      "num": 198167,
+      "word": "买豪车的人在买啥",
+      "onboard_time": 1679301987,
+      "rank": 29,
+      "category": "时尚"
     },
     {
       "raw_hot": 91183,
