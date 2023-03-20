@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679293483741,
+  "endTime": 1679294314824,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -1627,6 +1627,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1628996,
+      "num": 1628996,
+      "word": "原来胃是情绪器官",
+      "onboard_time": 1679285792,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1621382,
       "num": 1621382,
       "word": "公公豪掷117万为儿媳买编制被骗",
@@ -1945,14 +1953,6 @@
       "onboard_time": 1678067725,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1475699,
-      "num": 1475699,
-      "word": "原来胃是情绪器官",
-      "onboard_time": 1679285792,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 1473978,
@@ -6891,6 +6891,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 741120,
+      "num": 339690,
+      "word": "北大丁乾坤",
+      "onboard_time": 1679291666,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 740716,
       "num": 740716,
       "word": "一镜到底有多暴露演技",
@@ -9387,8 +9395,8 @@
       "category": "网红"
     },
     {
-      "raw_hot": 600550,
-      "num": 600550,
+      "raw_hot": 600555,
+      "num": 600555,
       "word": "井柏然说谭松韵再笑我捶你了",
       "onboard_time": 1679290048,
       "rank": 16,
@@ -10312,14 +10320,6 @@
       "word": "中国专家抵达孟菲斯动物园",
       "onboard_time": 1679041288,
       "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 555344,
-      "num": 339690,
-      "word": "北大丁乾坤",
-      "onboard_time": 1679291666,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -18027,6 +18027,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 334164,
+      "num": 323789,
+      "word": "王鹤棣吃汉堡",
+      "onboard_time": 1679294068,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 333928,
       "num": 333928,
       "word": "苹果工程师在开发类ChatGPT人工智能",
@@ -18489,6 +18497,14 @@
       "onboard_time": 1678232965,
       "rank": 8,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 323652,
+      "num": 323652,
+      "word": "Hero辟谣",
+      "onboard_time": 1679292330,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 323551,
@@ -19481,14 +19497,6 @@
       "onboard_time": 1678944148,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 305539,
-      "num": 305539,
-      "word": "Hero辟谣",
-      "onboard_time": 1679292330,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 305329,
@@ -20617,6 +20625,14 @@
       "onboard_time": 1678011925,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 281999,
+      "num": 281999,
+      "word": "男子在车里铺瓷砖还做了踢脚线",
+      "onboard_time": 1679292927,
+      "rank": 42,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 281932,
@@ -24459,6 +24475,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 223150,
+      "num": 223150,
+      "word": "林峯黄宗泽吴卓羲群名三个帅哥",
+      "onboard_time": 1679293708,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 223030,
       "num": 223030,
       "word": "吴磊赵今麦海边拍摄路透",
@@ -24833,6 +24857,14 @@
       "onboard_time": 1678618465,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 218471,
+      "num": 169338,
+      "word": "外交部回应中资民营企业在中非遭袭",
+      "onboard_time": 1679293286,
+      "rank": 30,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 218406,
@@ -27097,6 +27129,14 @@
       "onboard_time": 1678246169,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 200051,
+      "num": 164130,
+      "word": "杀夫女子曾与丈夫合开一家文化公司",
+      "onboard_time": 1679293708,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 200014,
@@ -30851,14 +30891,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 169338,
-      "num": 169338,
-      "word": "外交部回应中资民营企业在中非遭袭",
-      "onboard_time": 1679293286,
-      "rank": 30,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 169312,
       "num": 169312,
       "word": "你为什么经常会觉得无聊",
@@ -31361,6 +31393,14 @@
       "onboard_time": 1678783469,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 163963,
+      "num": 163963,
+      "word": "黑暗荣耀弹幕",
+      "onboard_time": 1679292148,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 163838,
@@ -32249,14 +32289,6 @@
       "onboard_time": 1679181437,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 153864,
-      "num": 153864,
-      "word": "黑暗荣耀弹幕",
-      "onboard_time": 1679292148,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 153815,
@@ -34673,14 +34705,6 @@
       "onboard_time": 1678453828,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 132079,
-      "num": 132079,
-      "word": "男子在车里铺瓷砖还做了踢脚线",
-      "onboard_time": 1679292927,
-      "rank": 42,
-      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 132049,
