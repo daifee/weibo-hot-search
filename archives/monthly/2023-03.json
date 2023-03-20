@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679325667172,
+  "endTime": 1679326648476,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -6043,6 +6043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 817145,
+      "num": 817145,
+      "word": "云胡不喜选角 胡歌陈星旭",
+      "onboard_time": 1679324849,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 816479,
       "num": 604609,
       "word": "帅哥不可以官宣",
@@ -10339,6 +10347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 568081,
+      "num": 568081,
+      "word": "为什么不建议婚后和父母住",
+      "onboard_time": 1679324312,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 567578,
       "num": 304609,
       "word": "曲阜师范女大学生考研前期确诊血癌",
@@ -11073,14 +11089,6 @@
       "onboard_time": 1678769132,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 544178,
-      "num": 544178,
-      "word": "云胡不喜选角 胡歌陈星旭",
-      "onboard_time": 1679324849,
-      "rank": 10,
-      "category": "影视"
     },
     {
       "raw_hot": 543968,
@@ -13404,7 +13412,7 @@
     },
     {
       "raw_hot": 466370,
-      "num": 466370,
+      "num": 567103,
       "word": "每天早睡1小时",
       "onboard_time": 1679321190,
       "rank": 28,
@@ -15227,6 +15235,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 409220,
+      "num": 409220,
+      "word": "wbg",
+      "onboard_time": 1679325509,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 409097,
       "num": 409097,
       "word": "不要太过沉重地活下去",
@@ -16393,6 +16409,14 @@
       "onboard_time": 1679017346,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 379465,
+      "num": 379465,
+      "word": "把猫猫一把拖进被窝",
+      "onboard_time": 1679324611,
+      "rank": 29,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 378692,
@@ -22627,14 +22651,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 261269,
-      "num": 261269,
-      "word": "为什么不建议婚后和父母住",
-      "onboard_time": 1679324312,
-      "rank": 19,
-      "category": "情感"
-    },
-    {
       "raw_hot": 261184,
       "num": 261184,
       "word": "首批亚运电竞特许商品上线",
@@ -22993,6 +23009,14 @@
       "onboard_time": 1678923984,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 253515,
+      "num": 253515,
+      "word": "秒回是很喜欢一个人的表现吗",
+      "onboard_time": 1679325208,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 253481,
@@ -25113,14 +25137,6 @@
       "onboard_time": 1677639328,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 224408,
-      "num": 224408,
-      "word": "把猫猫一把拖进被窝",
-      "onboard_time": 1679324611,
-      "rank": 29,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 224385,
@@ -29235,6 +29251,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 193156,
+      "num": 193156,
+      "word": "泰国旅游",
+      "onboard_time": 1679326229,
+      "rank": 33,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 193143,
       "num": 193143,
       "word": "特斯拉下一代汽车成本降低",
@@ -30769,14 +30793,6 @@
       "onboard_time": 1678505910,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 180376,
-      "num": 180376,
-      "word": "wbg",
-      "onboard_time": 1679325509,
-      "rank": 37,
-      "category": "游戏"
     },
     {
       "raw_hot": 180143,
@@ -34363,6 +34379,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 144717,
+      "num": 144717,
+      "word": "感受到了基因的优越性",
+      "onboard_time": 1679321731,
+      "rank": 48,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 144709,
       "num": 144709,
       "word": "大侦探无名联动",
@@ -34377,14 +34401,6 @@
       "onboard_time": 1678364546,
       "rank": 37,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 144613,
-      "num": 144613,
-      "word": "秒回是很喜欢一个人的表现吗",
-      "onboard_time": 1679325208,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 144590,
@@ -34505,6 +34521,14 @@
       "onboard_time": 1678495706,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 143490,
+      "num": 143490,
+      "word": "归路是什么路",
+      "onboard_time": 1679326289,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 143460,
@@ -35521,14 +35545,6 @@
       "onboard_time": 1677861681,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 134489,
-      "num": 134489,
-      "word": "感受到了基因的优越性",
-      "onboard_time": 1679321731,
-      "rank": 48,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 134445,

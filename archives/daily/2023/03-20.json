@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679325667172,
+  "endTime": 1679326648476,
   "band_list": [
     {
       "raw_hot": 7256959,
@@ -355,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 817145,
+      "num": 817145,
+      "word": "云胡不喜选角 胡歌陈星旭",
+      "onboard_time": 1679324849,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 809683,
       "num": 809683,
       "word": "张兰回应海外欠债9.8亿",
@@ -627,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 568081,
+      "num": 568081,
+      "word": "为什么不建议婚后和父母住",
+      "onboard_time": 1679324312,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 566246,
       "num": 566246,
       "word": "基金",
@@ -689,14 +705,6 @@
       "onboard_time": 1679236530,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 544178,
-      "num": 544178,
-      "word": "云胡不喜选角 胡歌陈星旭",
-      "onboard_time": 1679324849,
-      "rank": 10,
-      "category": "影视"
     },
     {
       "raw_hot": 536063,
@@ -788,7 +796,7 @@
     },
     {
       "raw_hot": 466370,
-      "num": 466370,
+      "num": 567103,
       "word": "每天早睡1小时",
       "onboard_time": 1679321190,
       "rank": 28,
@@ -915,6 +923,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 409220,
+      "num": 409220,
+      "word": "wbg",
+      "onboard_time": 1679325509,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 408475,
       "num": 184144,
       "word": "2名未成年男生殴打侵犯11岁女孩",
@@ -961,6 +977,14 @@
       "onboard_time": 1679309789,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 379465,
+      "num": 379465,
+      "word": "把猫猫一把拖进被窝",
+      "onboard_time": 1679324611,
+      "rank": 29,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 378692,
@@ -1379,11 +1403,11 @@
       "category": "作品衍生,社会新闻"
     },
     {
-      "raw_hot": 261269,
-      "num": 261269,
-      "word": "为什么不建议婚后和父母住",
-      "onboard_time": 1679324312,
-      "rank": 19,
+      "raw_hot": 253515,
+      "num": 253515,
+      "word": "秒回是很喜欢一个人的表现吗",
+      "onboard_time": 1679325208,
+      "rank": 45,
       "category": "情感"
     },
     {
@@ -1553,14 +1577,6 @@
       "onboard_time": 1679287414,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 224408,
-      "num": 224408,
-      "word": "把猫猫一把拖进被窝",
-      "onboard_time": 1679324611,
-      "rank": 29,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 224064,
@@ -1819,6 +1835,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 193156,
+      "num": 193156,
+      "word": "泰国旅游",
+      "onboard_time": 1679326229,
+      "rank": 33,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 193059,
       "num": 193059,
       "word": "被这只猫的肌肉惊到了",
@@ -1897,14 +1921,6 @@
       "onboard_time": 1679298090,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 180376,
-      "num": 180376,
-      "word": "wbg",
-      "onboard_time": 1679325509,
-      "rank": 37,
-      "category": "游戏"
     },
     {
       "raw_hot": 179383,
@@ -2275,12 +2291,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 144613,
-      "num": 144613,
-      "word": "秒回是很喜欢一个人的表现吗",
-      "onboard_time": 1679325208,
-      "rank": 45,
-      "category": "情感"
+      "raw_hot": 144717,
+      "num": 144717,
+      "word": "感受到了基因的优越性",
+      "onboard_time": 1679321731,
+      "rank": 48,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 144544,
@@ -2297,6 +2313,14 @@
       "onboard_time": 1679231610,
       "rank": 32,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 143490,
+      "num": 143490,
+      "word": "归路是什么路",
+      "onboard_time": 1679326289,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 143239,
@@ -2353,14 +2377,6 @@
       "onboard_time": 1679303608,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 134489,
-      "num": 134489,
-      "word": "感受到了基因的优越性",
-      "onboard_time": 1679321731,
-      "rank": 48,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 134445,
