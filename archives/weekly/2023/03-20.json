@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679340822544,
+  "endTime": 1679343510813,
   "band_list": [
     {
       "raw_hot": 7256959,
@@ -2652,7 +2652,7 @@
     },
     {
       "raw_hot": 85297,
-      "num": 49889,
+      "num": 60864,
       "word": "日本一农村25年才迎来一个新生儿",
       "onboard_time": 1679336952,
       "rank": 32,
@@ -2691,6 +2691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 81525,
+      "num": 41129,
+      "word": "女子被姑叔分走15万遗产后遭拉黑",
+      "onboard_time": 1679338392,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 78207,
       "num": 78207,
       "word": "张凯的驴是去成都了吗",
@@ -2713,14 +2721,6 @@
       "onboard_time": 1679248275,
       "rank": 19,
       "category": "幽默,影视"
-    },
-    {
-      "raw_hot": 54097,
-      "num": 41129,
-      "word": "女子被姑叔分走15万遗产后遭拉黑",
-      "onboard_time": 1679338392,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 47246,
@@ -2769,6 +2769,14 @@
       "onboard_time": 1679228248,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 17641,
+      "num": 17314,
+      "word": "大数据不会无缘无故推给我",
+      "onboard_time": 1679341931,
+      "rank": 30,
+      "category": "情感"
     }
   ],
   "hotgov_list": [
