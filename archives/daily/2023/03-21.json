@@ -1,6 +1,6 @@
 {
   "startTime": 1679329653267,
-  "endTime": 1679387780134,
+  "endTime": 1679390310627,
   "band_list": [
     {
       "raw_hot": 4463977,
@@ -113,6 +113,14 @@
       "onboard_time": 1679373575,
       "rank": 3,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 1268822,
+      "num": 751480,
+      "word": "大学生已经在为五一做准备了",
+      "onboard_time": 1679385932,
+      "rank": 16,
+      "category": "教育,幽默"
     },
     {
       "raw_hot": 1231999,
@@ -331,14 +339,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 747303,
-      "num": 747303,
-      "word": "大学生已经在为五一做准备了",
-      "onboard_time": 1679385932,
-      "rank": 16,
-      "category": "教育,幽默"
-    },
-    {
       "raw_hot": 719878,
       "num": 1306419,
       "word": "声生不息宝岛季一公分组名单",
@@ -403,6 +403,30 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 617541,
+      "num": 531865,
+      "word": "全红婵哭了",
+      "onboard_time": 1679389290,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 615672,
+      "num": 527714,
+      "word": "田曦薇烟熏妆",
+      "onboard_time": 1679388511,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 612412,
+      "num": 612412,
+      "word": "红双喜",
+      "onboard_time": 1679386228,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 599836,
       "num": 599836,
       "word": "大侦探木偶复仇记剧照",
@@ -435,6 +459,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 567466,
+      "num": 567466,
+      "word": "因狗狗跑错楼主人被母子暴打",
+      "onboard_time": 1679385392,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 557180,
       "num": 557180,
       "word": "22元大碗面后续店家已退餐费",
@@ -451,6 +483,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 554555,
+      "num": 554555,
+      "word": "陈曌旭在张杰演唱会团队",
+      "onboard_time": 1679388931,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 546752,
       "num": 546752,
       "word": "花花明天要上班了",
@@ -465,6 +505,14 @@
       "onboard_time": 1679320052,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 533749,
+      "num": 533749,
+      "word": "大胆请假拒绝请假耻辱",
+      "onboard_time": 1679389051,
+      "rank": 9,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 529345,
@@ -491,20 +539,12 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 509002,
-      "num": 509002,
-      "word": "红双喜",
-      "onboard_time": 1679386228,
-      "rank": 23,
+      "raw_hot": 494030,
+      "num": 494030,
+      "word": "张家齐",
+      "onboard_time": 1679386770,
+      "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 496811,
-      "num": 496811,
-      "word": "因狗狗跑错楼主人被母子暴打",
-      "onboard_time": 1679385392,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 491208,
@@ -627,14 +667,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 429334,
-      "num": 429334,
-      "word": "张家齐",
-      "onboard_time": 1679386770,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 429083,
       "num": 429083,
       "word": "OPPO",
@@ -688,6 +720,14 @@
       "word": "小朋友感染甲流应该怎么办",
       "onboard_time": 1679383590,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 397709,
+      "num": 397709,
+      "word": "云南一男子接种男性9价HPV疫苗",
+      "onboard_time": 1679386052,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -787,14 +827,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 334965,
-      "num": 334965,
-      "word": "云南一男子接种男性9价HPV疫苗",
-      "onboard_time": 1679386052,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 333028,
       "num": 333028,
       "word": "张兰再回应海外欠债9.8亿事件",
@@ -827,12 +859,28 @@
       "category": "影视,科技"
     },
     {
+      "raw_hot": 310385,
+      "num": 310385,
+      "word": "遇到一个有礼貌的鬼",
+      "onboard_time": 1679387130,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 309590,
       "num": 309590,
       "word": "苏州人有多爱刀鱼馄饨",
       "onboard_time": 1679367687,
       "rank": 25,
       "category": "美食"
+    },
+    {
+      "raw_hot": 307958,
+      "num": 307958,
+      "word": "上海街头现移动冰块车",
+      "onboard_time": 1679387611,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 307733,
@@ -1059,6 +1107,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 223743,
+      "num": 223743,
+      "word": "为什么寺庙旅游突然火了",
+      "onboard_time": 1679387430,
+      "rank": 49,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 220875,
       "num": 220875,
       "word": "他是谁开分8.2",
@@ -1123,6 +1179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 213646,
+      "num": 213646,
+      "word": "诺一逛环球影城",
+      "onboard_time": 1679389828,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 207694,
       "num": 207694,
       "word": "虞书欣假装度假vlog",
@@ -1131,20 +1195,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 205129,
-      "num": 199867,
-      "word": "遇到一个有礼貌的鬼",
-      "onboard_time": 1679387130,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 203005,
       "num": 203005,
       "word": "刘诗诗加盟微博之夜",
       "onboard_time": 1679372495,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 202700,
+      "num": 202700,
+      "word": "分享欲是维持亲密关系的秘诀",
+      "onboard_time": 1679387130,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 202128,
@@ -1283,19 +1347,19 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 182440,
+      "num": 182440,
+      "word": "会两门语言才懂的笑话",
+      "onboard_time": 1679387789,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 177408,
       "num": 177408,
       "word": "另有家属求助称4名孩子在缅甸失联",
       "onboard_time": 1679363065,
       "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 173714,
-      "num": 173714,
-      "word": "上海街头现移动冰块车",
-      "onboard_time": 1679387611,
-      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -1339,6 +1403,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 166610,
+      "num": 166610,
+      "word": "不小心把猫脚剪伤后",
+      "onboard_time": 1679388750,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 166507,
       "num": 166507,
       "word": "这部电影把反黄谣搬上银幕",
@@ -1377,14 +1449,6 @@
       "onboard_time": 1679382209,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 154534,
-      "num": 154534,
-      "word": "分享欲是维持亲密关系的秘诀",
-      "onboard_time": 1679387130,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 151925,
@@ -1483,6 +1547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136143,
+      "num": 136143,
+      "word": "上一次这么脱单的还是许仙",
+      "onboard_time": 1679389770,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 134748,
       "num": 134748,
       "word": "KPL春季赛第六周最佳阵容",
@@ -1571,6 +1643,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 113118,
+      "num": 113118,
+      "word": "中国妇女报评造黄谣事件",
+      "onboard_time": 1679390067,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 111622,
       "num": 111622,
       "word": "王俊凯亮相不止不休首映",
@@ -1603,12 +1683,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 108750,
-      "num": 108750,
-      "word": "为什么寺庙旅游突然火了",
-      "onboard_time": 1679387430,
-      "rank": 49,
-      "category": "旅游"
+      "raw_hot": 108547,
+      "num": 108547,
+      "word": "大妈是懂避而不见的",
+      "onboard_time": 1679389469,
+      "rank": 44,
+      "category": "幽默,社会新闻"
+    },
+    {
+      "raw_hot": 107553,
+      "num": 107553,
+      "word": "员工去世老板私吞90万死亡赔偿金",
+      "onboard_time": 1679390010,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 105057,
@@ -1617,6 +1705,14 @@
       "onboard_time": 1679354963,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 104350,
+      "num": 104350,
+      "word": "井柏然梁天对手戏花絮",
+      "onboard_time": 1679388511,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 102566,
@@ -1713,6 +1809,14 @@
       "onboard_time": 1679307629,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 85762,
+      "num": 85762,
+      "word": "春分是懂浪漫的",
+      "onboard_time": 1679389890,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 84805,

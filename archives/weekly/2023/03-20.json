@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679387780134,
+  "endTime": 1679390310627,
   "band_list": [
     {
       "raw_hot": 7256959,
@@ -273,6 +273,14 @@
       "onboard_time": 1679373575,
       "rank": 3,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 1268822,
+      "num": 751480,
+      "word": "大学生已经在为五一做准备了",
+      "onboard_time": 1679385932,
+      "rank": 16,
+      "category": "教育,幽默"
     },
     {
       "raw_hot": 1245393,
@@ -731,14 +739,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 747303,
-      "num": 747303,
-      "word": "大学生已经在为五一做准备了",
-      "onboard_time": 1679385932,
-      "rank": 16,
-      "category": "教育,幽默"
-    },
-    {
       "raw_hot": 720771,
       "num": 720771,
       "word": "NIP零封RNG",
@@ -891,12 +891,36 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 617541,
+      "num": 531865,
+      "word": "全红婵哭了",
+      "onboard_time": 1679389290,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 615672,
+      "num": 527714,
+      "word": "田曦薇烟熏妆",
+      "onboard_time": 1679388511,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 614560,
       "num": 614560,
       "word": "广东人把大熊猫养成了阿伯",
       "onboard_time": 1679286872,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 612412,
+      "num": 612412,
+      "word": "红双喜",
+      "onboard_time": 1679386228,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 610119,
@@ -1035,6 +1059,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 567466,
+      "num": 567466,
+      "word": "因狗狗跑错楼主人被母子暴打",
+      "onboard_time": 1679385392,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 566246,
       "num": 566246,
       "word": "基金",
@@ -1083,6 +1115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 554555,
+      "num": 554555,
+      "word": "陈曌旭在张杰演唱会团队",
+      "onboard_time": 1679388931,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 551359,
       "num": 551359,
       "word": "李湘辟谣主持乘风破浪",
@@ -1121,6 +1161,14 @@
       "onboard_time": 1679239712,
       "rank": 13,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 533749,
+      "num": 533749,
+      "word": "大胆请假拒绝请假耻辱",
+      "onboard_time": 1679389051,
+      "rank": 9,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 529345,
@@ -1171,14 +1219,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 509002,
-      "num": 509002,
-      "word": "红双喜",
-      "onboard_time": 1679386228,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 501386,
       "num": 501386,
       "word": "王者荣耀",
@@ -1187,12 +1227,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 496811,
-      "num": 496811,
-      "word": "因狗狗跑错楼主人被母子暴打",
-      "onboard_time": 1679385392,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 494030,
+      "num": 494030,
+      "word": "张家齐",
+      "onboard_time": 1679386770,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 493811,
@@ -1443,14 +1483,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 429334,
-      "num": 429334,
-      "word": "张家齐",
-      "onboard_time": 1679386770,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 429083,
       "num": 429083,
       "word": "OPPO",
@@ -1577,6 +1609,14 @@
       "onboard_time": 1679238869,
       "rank": 12,
       "category": "体育,影视"
+    },
+    {
+      "raw_hot": 397709,
+      "num": 397709,
+      "word": "云南一男子接种男性9价HPV疫苗",
+      "onboard_time": 1679386052,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 396182,
@@ -1787,14 +1827,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 334965,
-      "num": 334965,
-      "word": "云南一男子接种男性9价HPV疫苗",
-      "onboard_time": 1679386052,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 333028,
       "num": 333028,
       "word": "张兰再回应海外欠债9.8亿事件",
@@ -1931,6 +1963,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 310385,
+      "num": 310385,
+      "word": "遇到一个有礼貌的鬼",
+      "onboard_time": 1679387130,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 310043,
       "num": 310043,
       "word": "哪吒2预计于明年上映",
@@ -1945,6 +1985,14 @@
       "onboard_time": 1679367687,
       "rank": 25,
       "category": "美食"
+    },
+    {
+      "raw_hot": 307958,
+      "num": 307958,
+      "word": "上海街头现移动冰块车",
+      "onboard_time": 1679387611,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 307733,
@@ -2507,6 +2555,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 223743,
+      "num": 223743,
+      "word": "为什么寺庙旅游突然火了",
+      "onboard_time": 1679387430,
+      "rank": 49,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 222327,
       "num": 222327,
       "word": "白敬亭对井柏然说哥我错了下次还敢",
@@ -2619,6 +2675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 213646,
+      "num": 213646,
+      "word": "诺一逛环球影城",
+      "onboard_time": 1679389828,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 209585,
       "num": 209585,
       "word": "晚睡晚起原来是病",
@@ -2699,14 +2763,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 205129,
-      "num": 199867,
-      "word": "遇到一个有礼貌的鬼",
-      "onboard_time": 1679387130,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 204309,
       "num": 204309,
       "word": "回响",
@@ -2753,6 +2809,14 @@
       "onboard_time": 1679289750,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 202700,
+      "num": 202700,
+      "word": "分享欲是维持亲密关系的秘诀",
+      "onboard_time": 1679387130,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 202128,
@@ -3027,6 +3091,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 182440,
+      "num": 182440,
+      "word": "会两门语言才懂的笑话",
+      "onboard_time": 1679387789,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 182225,
       "num": 182225,
       "word": "程潇乌梅子酱手势舞",
@@ -3123,14 +3195,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 173714,
-      "num": 173714,
-      "word": "上海街头现移动冰块车",
-      "onboard_time": 1679387611,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 172963,
       "num": 172963,
       "word": "司香师",
@@ -3209,6 +3273,14 @@
       "onboard_time": 1679279187,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 166610,
+      "num": 166610,
+      "word": "不小心把猫脚剪伤后",
+      "onboard_time": 1679388750,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 166507,
@@ -3353,14 +3425,6 @@
       "onboard_time": 1679306668,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 154534,
-      "num": 154534,
-      "word": "分享欲是维持亲密关系的秘诀",
-      "onboard_time": 1679387130,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 152862,
@@ -3603,6 +3667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136143,
+      "num": 136143,
+      "word": "上一次这么脱单的还是许仙",
+      "onboard_time": 1679389770,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 135924,
       "num": 135924,
       "word": "车勋今日入伍",
@@ -3803,6 +3875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 113118,
+      "num": 113118,
+      "word": "中国妇女报评造黄谣事件",
+      "onboard_time": 1679390067,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110844,
       "num": 110844,
       "word": "白百何复古摩登造型",
@@ -3843,12 +3923,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 108750,
-      "num": 108750,
-      "word": "为什么寺庙旅游突然火了",
-      "onboard_time": 1679387430,
-      "rank": 49,
-      "category": "旅游"
+      "raw_hot": 108547,
+      "num": 108547,
+      "word": "大妈是懂避而不见的",
+      "onboard_time": 1679389469,
+      "rank": 44,
+      "category": "幽默,社会新闻"
+    },
+    {
+      "raw_hot": 107553,
+      "num": 107553,
+      "word": "员工去世老板私吞90万死亡赔偿金",
+      "onboard_time": 1679390010,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 105057,
@@ -3857,6 +3945,14 @@
       "onboard_time": 1679354963,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 104350,
+      "num": 104350,
+      "word": "井柏然梁天对手戏花絮",
+      "onboard_time": 1679388511,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 102766,
@@ -3945,6 +4041,14 @@
       "onboard_time": 1679314289,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 85762,
+      "num": 85762,
+      "word": "春分是懂浪漫的",
+      "onboard_time": 1679389890,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 84689,
