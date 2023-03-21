@@ -1,6 +1,6 @@
 {
   "startTime": 1679415632915,
-  "endTime": 1679438007343,
+  "endTime": 1679440620459,
   "band_list": [
     {
       "raw_hot": 1337983,
@@ -99,6 +99,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 316149,
+      "num": 114015,
+      "word": "男子在离婚冷静期买房前妻要求分割",
+      "onboard_time": 1679424434,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 311572,
       "num": 311572,
       "word": "大胆请假拒绝请假耻辱",
@@ -139,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 289044,
+      "num": 289044,
+      "word": "公交司机急刹车致乘客死亡获刑",
+      "onboard_time": 1679424314,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 284454,
       "num": 308391,
       "word": "下月起长沙可乘高铁直达香港",
@@ -163,8 +179,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 226522,
-      "num": 153619,
+      "raw_hot": 245480,
+      "num": 162966,
       "word": "官方通报男孩被家长打骂浑身淤青",
       "onboard_time": 1679432531,
       "rank": 33,
@@ -187,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 197157,
+      "num": 197157,
+      "word": "为什么说爬山检验感情",
+      "onboard_time": 1679406569,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 191779,
       "num": 191779,
       "word": "刘耀文嘟嘴比耶照",
@@ -195,19 +219,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 189276,
-      "num": 189276,
-      "word": "为什么说爬山检验感情",
-      "onboard_time": 1679406569,
-      "rank": 24,
-      "category": "情感"
-    },
-    {
       "raw_hot": 182440,
       "num": 182440,
       "word": "官方证实大熊猫宝新已去世",
       "onboard_time": 1679375731,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179169,
+      "num": 179169,
+      "word": "北京沙尘暴",
+      "onboard_time": 1679440521,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -267,14 +291,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 136893,
-      "num": 42182,
-      "word": "男子在离婚冷静期买房前妻要求分割",
-      "onboard_time": 1679424434,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 132194,
       "num": 132194,
       "word": "舒淇摇曳生姿的白玫瑰",
@@ -323,12 +339,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 108809,
-      "num": 108809,
-      "word": "公交司机急刹车致乘客死亡获刑",
-      "onboard_time": 1679424314,
-      "rank": 17,
-      "category": "社会新闻"
+      "raw_hot": 106439,
+      "num": 106439,
+      "word": "调解双胞胎打架",
+      "onboard_time": 1679397449,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 105457,
@@ -337,6 +353,14 @@
       "onboard_time": 1679407769,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 105274,
+      "num": 105274,
+      "word": "沙溢比宋亚轩爸爸大一岁",
+      "onboard_time": 1679440281,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 101807,
@@ -363,12 +387,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 90828,
-      "num": 90828,
-      "word": "调解双胞胎打架",
-      "onboard_time": 1679397449,
-      "rank": 43,
-      "category": "情感"
+      "raw_hot": 99727,
+      "num": 448328,
+      "word": "不要等缺水了才想起节水",
+      "onboard_time": 1679440160,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 90014,
@@ -425,6 +449,14 @@
       "onboard_time": 1679395109,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 41214,
+      "num": 41214,
+      "word": "春闺梦里人",
+      "onboard_time": 1679396609,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 32072,
