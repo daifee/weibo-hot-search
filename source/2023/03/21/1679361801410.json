@@ -1,0 +1,410 @@
+{
+  "runTime": 1679361801410,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1666717,
+        "num": 1666717,
+        "word": "春分",
+        "onboard_time": 1679353638,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1508369,
+        "num": 1508369,
+        "word": "缅甸遭绑架女店员被放回",
+        "onboard_time": 1679359170,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110857,
+        "num": 1438630,
+        "word": "中俄两国是山水相连的友好邻邦",
+        "onboard_time": 1679322451,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1407706,
+        "num": 1407706,
+        "word": "谷爱凌落地上海直奔健身房",
+        "onboard_time": 1679357788,
+        "rank": 3,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 942593,
+        "num": 942593,
+        "word": "为什么不建议婚后和父母住",
+        "onboard_time": 1679324312,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 724292,
+        "num": 724292,
+        "word": "广东人上床睡觉时间全国最晚",
+        "onboard_time": 1679329882,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 722946,
+        "num": 722946,
+        "word": "学生因点外卖被校务人员按倒训斥",
+        "onboard_time": 1679358688,
+        "rank": 6,
+        "category": "社会负面,教育"
+      },
+      {
+        "raw_hot": 722334,
+        "num": 722334,
+        "word": "海底捞回应女大学生在包间留宿",
+        "onboard_time": 1679317468,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 576424,
+        "num": 576424,
+        "word": "新版出生医学证明4月1日启用",
+        "onboard_time": 1679357669,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 557180,
+        "num": 557180,
+        "word": "22元大碗面后续店家已退餐费",
+        "onboard_time": 1679357065,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 529345,
+        "num": 529345,
+        "word": "汤唯韩国导演剪辑奖最佳女演员",
+        "onboard_time": 1679358329,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 519419,
+        "num": 519419,
+        "word": "243万元存款被挪用当事人发声",
+        "onboard_time": 1679358809,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 484293,
+        "num": 484293,
+        "word": "8小时睡眠论可能是错的",
+        "onboard_time": 1679304149,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 476524,
+        "num": 476524,
+        "word": "90后小伙因长得老气专骗70后阿姨",
+        "onboard_time": 1679334734,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 452984,
+        "num": 452984,
+        "word": "中方回应国际刑事法院对普京逮捕令",
+        "onboard_time": 1679361747,
+        "rank": 14,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 447579,
+        "num": 447579,
+        "word": "王鹤棣晒照告别时宴",
+        "onboard_time": 1679356765,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 398888,
+        "num": 398888,
+        "word": "日本一农村25年才迎来一个新生儿",
+        "onboard_time": 1679336952,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380814,
+        "num": 380814,
+        "word": "睡不好的人容易变胖",
+        "onboard_time": 1679358809,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352607,
+        "num": 352607,
+        "word": "优酸乳",
+        "onboard_time": 1679356465,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 349069,
+        "num": 349069,
+        "word": "春分该吃什么",
+        "onboard_time": 1679355262,
+        "rank": 19,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 2223638,
+        "num": 345846,
+        "word": "张隆李梦 结婚",
+        "onboard_time": 1679356406,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 327434,
+        "num": 327434,
+        "word": "中国乒乓之绝地反击票房破亿",
+        "onboard_time": 1679360370,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 320052,
+        "num": 320052,
+        "word": "中俄关系在各自外交全局中占优先地位",
+        "onboard_time": 1679357065,
+        "rank": 22,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 317468,
+        "num": 317468,
+        "word": "郑渊洁把白客说哭了",
+        "onboard_time": 1679358809,
+        "rank": 23,
+        "category": "影视,科技"
+      },
+      {
+        "raw_hot": 306127,
+        "num": 306127,
+        "word": "东航",
+        "onboard_time": 1679355203,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292062,
+        "num": 292062,
+        "word": "原神",
+        "onboard_time": 1679357849,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 289060,
+        "num": 289060,
+        "word": "云胡不喜",
+        "onboard_time": 1679359227,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 279680,
+        "num": 279680,
+        "word": "把猫猫一把拖进被窝",
+        "onboard_time": 1679324611,
+        "rank": 27,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 264314,
+        "num": 264314,
+        "word": "女子被姑叔分走15万遗产后遭拉黑",
+        "onboard_time": 1679338392,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253695,
+        "num": 253695,
+        "word": "云胡不喜女主 宋元",
+        "onboard_time": 1679356347,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 251671,
+        "num": 251671,
+        "word": "C罗女友透露曾三次流产",
+        "onboard_time": 1679320052,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 240828,
+        "num": 240828,
+        "word": "田曦薇三亚路透",
+        "onboard_time": 1679361208,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 233404,
+        "num": 233404,
+        "word": "郭麒麟有接电话恐惧",
+        "onboard_time": 1679359589,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231742,
+        "num": 231742,
+        "word": "张颂文 什么都嗑只会害了你",
+        "onboard_time": 1679316690,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 228580,
+        "num": 228580,
+        "word": "易烊千玺夜景随拍",
+        "onboard_time": 1679357190,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227043,
+        "num": 227043,
+        "word": "泰国旅游",
+        "onboard_time": 1679326229,
+        "rank": 35,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 214997,
+        "num": 214997,
+        "word": "秒回是很喜欢一个人的表现吗",
+        "onboard_time": 1679325208,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 208078,
+        "num": 208078,
+        "word": "电视剧他是谁",
+        "onboard_time": 1679357728,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207694,
+        "num": 207694,
+        "word": "虞书欣假装度假vlog",
+        "onboard_time": 1679360908,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202113,
+        "num": 202113,
+        "word": "杭州久摇不中72次及以上可申请车牌",
+        "onboard_time": 1679321133,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197563,
+        "num": 197563,
+        "word": "云胡不喜选角 胡歌陈星旭",
+        "onboard_time": 1679324849,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 197563,
+        "num": 197563,
+        "word": "世界睡眠日",
+        "onboard_time": 1679361629,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192539,
+        "num": 192539,
+        "word": "春分节气壁纸",
+        "onboard_time": 1679354240,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172362,
+        "num": 172362,
+        "word": "北京为全国最能熬夜城市",
+        "onboard_time": 1679361629,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184810,
+        "num": 172357,
+        "word": "今天春分送花花",
+        "onboard_time": 1679361447,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167458,
+        "num": 167458,
+        "word": "wbg",
+        "onboard_time": 1679325509,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 161175,
+        "num": 161175,
+        "word": "MU5735事故调查最新情况",
+        "onboard_time": 1679310572,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158241,
+        "num": 158241,
+        "word": "蔚来发布实习生事件调查报告",
+        "onboard_time": 1679321312,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152173,
+        "num": 152173,
+        "word": "司香师",
+        "onboard_time": 1679361389,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142180,
+        "num": 142180,
+        "word": "男子3万块钱车被13万停车费吓到",
+        "onboard_time": 1679318609,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平乘专机抵达莫斯科#"
+    }
+  }
+}
