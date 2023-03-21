@@ -1,6 +1,6 @@
 {
   "startTime": 1679329653267,
-  "endTime": 1679361801410,
+  "endTime": 1679363179697,
   "band_list": [
     {
       "raw_hot": 2223638,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 884415,
+      "num": 722946,
+      "word": "学生因点外卖被校务人员按倒训斥",
+      "onboard_time": 1679358688,
+      "rank": 6,
+      "category": "社会负面,教育"
+    },
+    {
       "raw_hot": 880384,
       "num": 660002,
       "word": "杀夫藏尸女子已被刑拘",
@@ -83,12 +91,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 722946,
-      "num": 722946,
-      "word": "学生因点外卖被校务人员按倒训斥",
-      "onboard_time": 1679358688,
-      "rank": 6,
-      "category": "社会负面,教育"
+      "raw_hot": 672519,
+      "num": 519419,
+      "word": "243万元存款被挪用当事人发声",
+      "onboard_time": 1679358809,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 660539,
@@ -155,12 +163,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 519419,
-      "num": 519419,
-      "word": "243万元存款被挪用当事人发声",
-      "onboard_time": 1679358809,
-      "rank": 11,
-      "category": "社会新闻"
+      "raw_hot": 491806,
+      "num": 491806,
+      "word": "归路收视率下跌",
+      "onboard_time": 1679362286,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 489274,
@@ -227,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 359857,
+      "num": 359857,
+      "word": "WBG发文抵制私生",
+      "onboard_time": 1679361927,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 352607,
       "num": 352607,
       "word": "优酸乳",
@@ -241,6 +257,14 @@
       "onboard_time": 1679355262,
       "rank": 19,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 343747,
+      "num": 343747,
+      "word": "北京为全国最能熬夜城市",
+      "onboard_time": 1679361629,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 327434,
@@ -323,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 241751,
+      "num": 241751,
+      "word": "郭麒麟有接电话恐惧",
+      "onboard_time": 1679359589,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 240845,
       "num": 240845,
       "word": "杨子 李亚鹏",
@@ -347,14 +379,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 233404,
-      "num": 233404,
-      "word": "郭麒麟有接电话恐惧",
-      "onboard_time": 1679359589,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 228580,
       "num": 228580,
       "word": "易烊千玺夜景随拍",
@@ -371,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 213396,
+      "num": 213396,
+      "word": "杀夫案受害人父母去年曾陪儿媳过中秋",
+      "onboard_time": 1679362767,
+      "rank": 30,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 208078,
       "num": 208078,
       "word": "电视剧他是谁",
@@ -385,6 +417,14 @@
       "onboard_time": 1679360908,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 201634,
+      "num": 201634,
+      "word": "无痛起床试试这些方法",
+      "onboard_time": 1679362886,
+      "rank": 32,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 197563,
@@ -427,12 +467,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 172362,
-      "num": 172362,
-      "word": "北京为全国最能熬夜城市",
-      "onboard_time": 1679361629,
-      "rank": 43,
+      "raw_hot": 177408,
+      "num": 177408,
+      "word": "另有家属求助称4名孩子在缅甸失联",
+      "onboard_time": 1679363065,
+      "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 172963,
+      "num": 172963,
+      "word": "司香师",
+      "onboard_time": 1679361389,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 167809,
@@ -451,6 +499,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 157402,
+      "num": 157402,
+      "word": "啥家庭啊给狗买皮肤",
+      "onboard_time": 1679362948,
+      "rank": 47,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 156549,
       "num": 156549,
       "word": "陈晓李沁为贴近角色化黑妆",
@@ -459,12 +515,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 152173,
-      "num": 152173,
-      "word": "司香师",
-      "onboard_time": 1679361389,
+      "raw_hot": 151925,
+      "num": 151925,
+      "word": "春分立蛋",
+      "onboard_time": 1679363006,
       "rank": 48,
-      "category": "情感"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 147814,

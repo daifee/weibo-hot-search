@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679361801410,
+  "endTime": 1679363179697,
   "band_list": [
     {
       "raw_hot": 7256959,
@@ -363,6 +363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 884415,
+      "num": 722946,
+      "word": "学生因点外卖被校务人员按倒训斥",
+      "onboard_time": 1679358688,
+      "rank": 6,
+      "category": "社会负面,教育"
+    },
+    {
       "raw_hot": 872955,
       "num": 872955,
       "word": "广东人上床睡觉时间全国最晚",
@@ -483,14 +491,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 722946,
-      "num": 722946,
-      "word": "学生因点外卖被校务人员按倒训斥",
-      "onboard_time": 1679358688,
-      "rank": 6,
-      "category": "社会负面,教育"
-    },
-    {
       "raw_hot": 720771,
       "num": 720771,
       "word": "NIP零封RNG",
@@ -521,6 +521,14 @@
       "onboard_time": 1679288193,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 672519,
+      "num": 519419,
+      "word": "243万元存款被挪用当事人发声",
+      "onboard_time": 1679358809,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 672518,
@@ -835,14 +843,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 519419,
-      "num": 519419,
-      "word": "243万元存款被挪用当事人发声",
-      "onboard_time": 1679358809,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 501386,
       "num": 501386,
       "word": "王者荣耀",
@@ -856,6 +856,14 @@
       "word": "以爱为营杀青",
       "onboard_time": 1679299227,
       "rank": 8,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 491806,
+      "num": 491806,
+      "word": "归路收视率下跌",
+      "onboard_time": 1679362286,
+      "rank": 10,
       "category": "影视"
     },
     {
@@ -1187,6 +1195,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 359857,
+      "num": 359857,
+      "word": "WBG发文抵制私生",
+      "onboard_time": 1679361927,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 359411,
       "num": 359411,
       "word": "外交部回应中资民营企业在中非遭袭",
@@ -1225,6 +1241,14 @@
       "onboard_time": 1679355262,
       "rank": 19,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 343747,
+      "num": 343747,
+      "word": "北京为全国最能熬夜城市",
+      "onboard_time": 1679361629,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 342488,
@@ -1699,6 +1723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 241751,
+      "num": 241751,
+      "word": "郭麒麟有接电话恐惧",
+      "onboard_time": 1679359589,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 240828,
       "num": 240828,
       "word": "田曦薇三亚路透",
@@ -1745,14 +1777,6 @@
       "onboard_time": 1679237668,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 233404,
-      "num": 233404,
-      "word": "郭麒麟有接电话恐惧",
-      "onboard_time": 1679359589,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 230506,
@@ -1865,6 +1889,14 @@
       "onboard_time": 1679304271,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 213396,
+      "num": 213396,
+      "word": "杀夫案受害人父母去年曾陪儿媳过中秋",
+      "onboard_time": 1679362767,
+      "rank": 30,
+      "category": "社会负面"
     },
     {
       "raw_hot": 209585,
@@ -1993,6 +2025,14 @@
       "onboard_time": 1679289750,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 201634,
+      "num": 201634,
+      "word": "无痛起床试试这些方法",
+      "onboard_time": 1679362886,
+      "rank": 32,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 200539,
@@ -2243,6 +2283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 177408,
+      "num": 177408,
+      "word": "另有家属求助称4名孩子在缅甸失联",
+      "onboard_time": 1679363065,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174672,
       "num": 174672,
       "word": "丫丫加油等你回家",
@@ -2259,20 +2307,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 172963,
+      "num": 172963,
+      "word": "司香师",
+      "onboard_time": 1679361389,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 172705,
       "num": 172705,
       "word": "什么都嗑只会让我营养均衡",
       "onboard_time": 1679318790,
       "rank": 37,
       "category": "幽默,作品衍生"
-    },
-    {
-      "raw_hot": 172362,
-      "num": 172362,
-      "word": "北京为全国最能熬夜城市",
-      "onboard_time": 1679361629,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 171810,
@@ -2435,6 +2483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157402,
+      "num": 157402,
+      "word": "啥家庭啊给狗买皮肤",
+      "onboard_time": 1679362948,
+      "rank": 47,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 154938,
       "num": 154938,
       "word": "路人被整蛊后的反应",
@@ -2451,12 +2507,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 152173,
-      "num": 152173,
-      "word": "司香师",
-      "onboard_time": 1679361389,
+      "raw_hot": 151925,
+      "num": 151925,
+      "word": "春分立蛋",
+      "onboard_time": 1679363006,
       "rank": 48,
-      "category": "情感"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 151741,

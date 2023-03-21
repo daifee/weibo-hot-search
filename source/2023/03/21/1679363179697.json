@@ -1,0 +1,410 @@
+{
+  "runTime": 1679363179697,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1356929,
+        "num": 1356929,
+        "word": "春分",
+        "onboard_time": 1679353638,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 833634,
+        "num": 833634,
+        "word": "为什么不建议婚后和父母住",
+        "onboard_time": 1679324312,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 84561,
+        "num": 735270,
+        "word": "中俄两国是山水相连的友好邻邦",
+        "onboard_time": 1679322451,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 981287,
+        "num": 714085,
+        "word": "谷爱凌落地上海直奔健身房",
+        "onboard_time": 1679357788,
+        "rank": 3,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 641371,
+        "num": 641371,
+        "word": "广东人上床睡觉时间全国最晚",
+        "onboard_time": 1679329882,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 548471,
+        "num": 548471,
+        "word": "海底捞回应女大学生在包间留宿",
+        "onboard_time": 1679317468,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1344742,
+        "num": 535957,
+        "word": "缅甸遭绑架女店员被放回",
+        "onboard_time": 1679359170,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 514103,
+        "num": 514103,
+        "word": "新版出生医学证明4月1日启用",
+        "onboard_time": 1679357669,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 501673,
+        "num": 501673,
+        "word": "汤唯韩国导演剪辑奖最佳女演员",
+        "onboard_time": 1679358329,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 884415,
+        "num": 499368,
+        "word": "学生因点外卖被校务人员按倒训斥",
+        "onboard_time": 1679358688,
+        "rank": 9,
+        "category": "社会负面,教育"
+      },
+      {
+        "raw_hot": 491806,
+        "num": 491806,
+        "word": "归路收视率下跌",
+        "onboard_time": 1679362286,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 401331,
+        "num": 401331,
+        "word": "中方回应国际刑事法院对普京逮捕令",
+        "onboard_time": 1679363126,
+        "rank": 11,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 672519,
+        "num": 397200,
+        "word": "243万元存款被挪用当事人发声",
+        "onboard_time": 1679358809,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359857,
+        "num": 359857,
+        "word": "WBG发文抵制私生",
+        "onboard_time": 1679361927,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 352784,
+        "num": 352784,
+        "word": "8小时睡眠论可能是错的",
+        "onboard_time": 1679304149,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 416610,
+        "num": 349336,
+        "word": "22元大碗面后续店家已退餐费",
+        "onboard_time": 1679357065,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343747,
+        "num": 343747,
+        "word": "北京为全国最能熬夜城市",
+        "onboard_time": 1679361629,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317135,
+        "num": 317135,
+        "word": "王鹤棣晒照告别时宴",
+        "onboard_time": 1679356765,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 376711,
+        "num": 314305,
+        "word": "90后小伙因长得老气专骗70后阿姨",
+        "onboard_time": 1679334734,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309595,
+        "num": 309595,
+        "word": "中国乒乓之绝地反击票房破亿",
+        "onboard_time": 1679360370,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1898066,
+        "num": 306839,
+        "word": "张隆李梦 结婚",
+        "onboard_time": 1679356406,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 299518,
+        "num": 299518,
+        "word": "日本一农村25年才迎来一个新生儿",
+        "onboard_time": 1679336952,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298533,
+        "num": 298533,
+        "word": "睡不好的人容易变胖",
+        "onboard_time": 1679358809,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286401,
+        "num": 286401,
+        "word": "春分该吃什么",
+        "onboard_time": 1679355262,
+        "rank": 23,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 263427,
+        "num": 263427,
+        "word": "郑渊洁把白客说哭了",
+        "onboard_time": 1679358809,
+        "rank": 24,
+        "category": "影视,科技"
+      },
+      {
+        "raw_hot": 251490,
+        "num": 251490,
+        "word": "原神",
+        "onboard_time": 1679357849,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 247771,
+        "num": 247771,
+        "word": "把猫猫一把拖进被窝",
+        "onboard_time": 1679324611,
+        "rank": 26,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 241751,
+        "num": 241751,
+        "word": "郭麒麟有接电话恐惧",
+        "onboard_time": 1679359589,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241249,
+        "num": 241249,
+        "word": "中俄关系在各自外交全局中占优先地位",
+        "onboard_time": 1679357065,
+        "rank": 28,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 236136,
+        "num": 236136,
+        "word": "优酸乳",
+        "onboard_time": 1679356465,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 213396,
+        "num": 213396,
+        "word": "杀夫案受害人父母去年曾陪儿媳过中秋",
+        "onboard_time": 1679362767,
+        "rank": 30,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 212292,
+        "num": 212292,
+        "word": "女子被姑叔分走15万遗产后遭拉黑",
+        "onboard_time": 1679338392,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201634,
+        "num": 201634,
+        "word": "无痛起床试试这些方法",
+        "onboard_time": 1679362886,
+        "rank": 32,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 198863,
+        "num": 198863,
+        "word": "泰国旅游",
+        "onboard_time": 1679326229,
+        "rank": 33,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 198765,
+        "num": 198765,
+        "word": "C罗女友透露曾三次流产",
+        "onboard_time": 1679320052,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198754,
+        "num": 198754,
+        "word": "田曦薇三亚路透",
+        "onboard_time": 1679361208,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 194486,
+        "num": 194486,
+        "word": "东航",
+        "onboard_time": 1679355203,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185084,
+        "num": 185084,
+        "word": "云胡不喜",
+        "onboard_time": 1679359227,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 177494,
+        "num": 177494,
+        "word": "易烊千玺夜景随拍",
+        "onboard_time": 1679357190,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179610,
+        "num": 177490,
+        "word": "云胡不喜女主 宋元",
+        "onboard_time": 1679356347,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 177408,
+        "num": 177408,
+        "word": "另有家属求助称4名孩子在缅甸失联",
+        "onboard_time": 1679363065,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174823,
+        "num": 174823,
+        "word": "春分节气壁纸",
+        "onboard_time": 1679354240,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172981,
+        "num": 172981,
+        "word": "张颂文 什么都嗑只会害了你",
+        "onboard_time": 1679316690,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 172963,
+        "num": 172963,
+        "word": "司香师",
+        "onboard_time": 1679361389,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164751,
+        "num": 164751,
+        "word": "电视剧他是谁",
+        "onboard_time": 1679357728,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 160697,
+        "num": 160697,
+        "word": "虞书欣假装度假vlog",
+        "onboard_time": 1679360908,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158932,
+        "num": 158932,
+        "word": "秒回是很喜欢一个人的表现吗",
+        "onboard_time": 1679325208,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157402,
+        "num": 157402,
+        "word": "啥家庭啊给狗买皮肤",
+        "onboard_time": 1679362948,
+        "rank": 47,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 151925,
+        "num": 151925,
+        "word": "春分立蛋",
+        "onboard_time": 1679363006,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146034,
+        "num": 146034,
+        "word": "杭州久摇不中72次及以上可申请车牌",
+        "onboard_time": 1679321133,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对俄罗斯进行国事访问#"
+    }
+  }
+}
