@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679366545474,
+  "endTime": 1679368698058,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -152,6 +152,14 @@
       "word": "重庆大学",
       "onboard_time": 1679109331,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3518723,
+      "num": 837688,
+      "word": "杭州杀妻案凶手许国利被执行死刑",
+      "onboard_time": 1679367024,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -4172,7 +4180,7 @@
     },
     {
       "raw_hot": 1023981,
-      "num": 630856,
+      "num": 818969,
       "word": "苹果iPhone15Pro设计图曝光",
       "onboard_time": 1679363424,
       "rank": 3,
@@ -4264,6 +4272,14 @@
       "word": "BLACKPINK澳门演唱会",
       "onboard_time": 1677897146,
       "rank": 5,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 1013358,
+      "num": 1013358,
+      "word": "周杰伦门票",
+      "onboard_time": 1679365586,
+      "rank": 13,
       "category": "音乐"
     },
     {
@@ -5560,6 +5576,14 @@
       "word": "买根火腿肠就能在石家庄实现地铁自由",
       "onboard_time": 1678024829,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 868247,
+      "num": 868247,
+      "word": "男子吐槽女子穿和服在景区拍照",
+      "onboard_time": 1679364148,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -9259,14 +9283,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 625827,
-      "num": 625827,
-      "word": "周杰伦门票",
-      "onboard_time": 1679365586,
-      "rank": 13,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 624710,
       "num": 624710,
       "word": "高启兰被粉丝狂叫金丝老婆",
@@ -12915,14 +12931,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 485485,
-      "num": 485485,
-      "word": "男子吐槽女子穿和服在景区拍照",
-      "onboard_time": 1679364148,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 485398,
       "num": 473594,
       "word": "女明星捧花头像",
@@ -14699,6 +14707,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 431050,
+      "num": 431050,
+      "word": "00后找工作更看重什么",
+      "onboard_time": 1679365047,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 431028,
       "num": 431028,
       "word": "水瓶座到底在焦虑什么",
@@ -14745,6 +14761,14 @@
       "onboard_time": 1677752553,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 429756,
+      "num": 429756,
+      "word": "张俪海边一字马",
+      "onboard_time": 1679365706,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 429696,
@@ -17049,6 +17073,14 @@
       "onboard_time": 1678709247,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 370001,
+      "num": 370001,
+      "word": "大侦探木偶复仇记剧照",
+      "onboard_time": 1679368348,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 369700,
@@ -20267,6 +20299,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 308274,
+      "num": 308274,
+      "word": "林宥嘉演唱会",
+      "onboard_time": 1679367868,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 308187,
       "num": 308187,
       "word": "cruel summer",
@@ -22259,14 +22299,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 272037,
-      "num": 272037,
-      "word": "00后找工作更看重什么",
-      "onboard_time": 1679365047,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 271882,
       "num": 261357,
       "word": "王俊凯小时候打篮球旧照",
@@ -23283,6 +23315,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 254102,
+      "num": 254102,
+      "word": "苏州人有多爱刀鱼馄饨",
+      "onboard_time": 1679367687,
+      "rank": 25,
+      "category": "美食"
+    },
+    {
       "raw_hot": 254090,
       "num": 234909,
       "word": "吴磊拍日落",
@@ -23361,14 +23401,6 @@
       "onboard_time": 1679277926,
       "rank": 18,
       "category": "社会负面,科技"
-    },
-    {
-      "raw_hot": 252588,
-      "num": 252588,
-      "word": "张俪海边一字马",
-      "onboard_time": 1679365706,
-      "rank": 29,
-      "category": "影视"
     },
     {
       "raw_hot": 252017,
@@ -24065,6 +24097,14 @@
       "onboard_time": 1677929125,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 242462,
+      "num": 242462,
+      "word": "3岁女童患罕见病伴15种并发症",
+      "onboard_time": 1679367208,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 242347,
@@ -25905,6 +25945,14 @@
       "onboard_time": 1677905545,
       "rank": 31,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 219748,
+      "num": 219748,
+      "word": "南华大学回应网传男生造女生黄谣",
+      "onboard_time": 1679368408,
+      "rank": 30,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 219642,
@@ -28817,6 +28865,14 @@
       "onboard_time": 1678076668,
       "rank": 35,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 197738,
+      "num": 197738,
+      "word": "唐嫣加盟微博之夜",
+      "onboard_time": 1679368527,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 197678,
@@ -34049,6 +34105,14 @@
       "onboard_time": 1679230109,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 151224,
+      "num": 155354,
+      "word": "电影倒数说爱你首支长预告",
+      "onboard_time": 1679367447,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 151196,

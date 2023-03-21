@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679366545474,
+  "endTime": 1679368698058,
   "band_list": [
     {
       "raw_hot": 7256959,
@@ -8,6 +8,14 @@
       "word": "MU5735事故调查最新情况",
       "onboard_time": 1679310572,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3518723,
+      "num": 837688,
+      "word": "杭州杀妻案凶手许国利被执行死刑",
+      "onboard_time": 1679367024,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -276,11 +284,19 @@
     },
     {
       "raw_hot": 1023981,
-      "num": 630856,
+      "num": 818969,
       "word": "苹果iPhone15Pro设计图曝光",
       "onboard_time": 1679363424,
       "rank": 3,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1013358,
+      "num": 1013358,
+      "word": "周杰伦门票",
+      "onboard_time": 1679365586,
+      "rank": 13,
+      "category": "音乐"
     },
     {
       "raw_hot": 1001475,
@@ -408,6 +424,14 @@
       "word": "广东人上床睡觉时间全国最晚",
       "onboard_time": 1679329882,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 868247,
+      "num": 868247,
+      "word": "男子吐槽女子穿和服在景区拍照",
+      "onboard_time": 1679364148,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -635,20 +659,20 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 639272,
+      "num": 639272,
+      "word": "微博之夜",
+      "onboard_time": 1679224408,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 629897,
       "num": 629897,
       "word": "微博之夜同台名场面",
       "onboard_time": 1679314110,
       "rank": 8,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 625827,
-      "num": 625827,
-      "word": "周杰伦门票",
-      "onboard_time": 1679365586,
-      "rank": 13,
-      "category": "音乐"
     },
     {
       "raw_hot": 618937,
@@ -923,19 +947,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 487457,
+      "num": 487457,
+      "word": "大侦探",
+      "onboard_time": 1679366067,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 487412,
       "num": 487412,
       "word": "90后小伙因长得老气专骗70后阿姨",
       "onboard_time": 1679334734,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 485485,
-      "num": 485485,
-      "word": "男子吐槽女子穿和服在景区拍照",
-      "onboard_time": 1679364148,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -1067,6 +1091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 431050,
+      "num": 431050,
+      "word": "00后找工作更看重什么",
+      "onboard_time": 1679365047,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 431028,
       "num": 431028,
       "word": "水瓶座到底在焦虑什么",
@@ -1089,6 +1121,14 @@
       "onboard_time": 1679273247,
       "rank": 11,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 429756,
+      "num": 429756,
+      "word": "张俪海边一字马",
+      "onboard_time": 1679365706,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 429037,
@@ -1249,6 +1289,14 @@
       "onboard_time": 1679296587,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 370001,
+      "num": 370001,
+      "word": "大侦探木偶复仇记剧照",
+      "onboard_time": 1679368348,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 368583,
@@ -1475,6 +1523,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 308274,
+      "num": 308274,
+      "word": "林宥嘉演唱会",
+      "onboard_time": 1679367868,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 306169,
       "num": 306169,
       "word": "咪豆",
@@ -1587,14 +1643,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 285594,
-      "num": 285594,
-      "word": "大侦探",
-      "onboard_time": 1679366067,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 283098,
       "num": 283098,
       "word": "导游劝游客少购物提前对暗号",
@@ -1667,14 +1715,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 272037,
-      "num": 272037,
-      "word": "00后找工作更看重什么",
-      "onboard_time": 1679365047,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 269061,
       "num": 269061,
       "word": "8箱芒果托运980女子当场吃完",
@@ -1715,6 +1755,14 @@
       "category": "作品衍生,社会新闻"
     },
     {
+      "raw_hot": 254102,
+      "num": 254102,
+      "word": "苏州人有多爱刀鱼馄饨",
+      "onboard_time": 1679367687,
+      "rank": 25,
+      "category": "美食"
+    },
+    {
       "raw_hot": 253695,
       "num": 253695,
       "word": "云胡不喜女主 宋元",
@@ -1729,14 +1777,6 @@
       "onboard_time": 1679277926,
       "rank": 18,
       "category": "社会负面,科技"
-    },
-    {
-      "raw_hot": 252588,
-      "num": 252588,
-      "word": "张俪海边一字马",
-      "onboard_time": 1679365706,
-      "rank": 29,
-      "category": "影视"
     },
     {
       "raw_hot": 250696,
@@ -1809,6 +1849,14 @@
       "onboard_time": 1679322872,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 242462,
+      "num": 242462,
+      "word": "3岁女童患罕见病伴15种并发症",
+      "onboard_time": 1679367208,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 242022,
@@ -1945,6 +1993,14 @@
       "onboard_time": 1679226328,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 219748,
+      "num": 219748,
+      "word": "南华大学回应网传男生造女生黄谣",
+      "onboard_time": 1679368408,
+      "rank": 30,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 218862,
@@ -2184,6 +2240,14 @@
       "word": "吴磊微博之夜官宣视频",
       "onboard_time": 1679297548,
       "rank": 27,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 197738,
+      "num": 197738,
+      "word": "唐嫣加盟微博之夜",
+      "onboard_time": 1679368527,
+      "rank": 32,
       "category": "作品衍生"
     },
     {
@@ -2443,14 +2507,6 @@
       "category": "幽默,作品衍生"
     },
     {
-      "raw_hot": 171810,
-      "num": 171810,
-      "word": "微博之夜",
-      "onboard_time": 1679224408,
-      "rank": 28,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 171429,
       "num": 171429,
       "word": "魔术vs湖人",
@@ -2641,6 +2697,14 @@
       "onboard_time": 1679245399,
       "rank": 45,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 151224,
+      "num": 155354,
+      "word": "电影倒数说爱你首支长预告",
+      "onboard_time": 1679367447,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 150166,

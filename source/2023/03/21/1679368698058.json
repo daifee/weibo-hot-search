@@ -1,0 +1,410 @@
+{
+  "runTime": 1679368698058,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1013358,
+        "num": 1013358,
+        "word": "周杰伦门票",
+        "onboard_time": 1679365586,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 868247,
+        "num": 868247,
+        "word": "男子吐槽女子穿和服在景区拍照",
+        "onboard_time": 1679364148,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55741,
+        "num": 839730,
+        "word": "中俄两国是山水相连的友好邻邦",
+        "onboard_time": 1679322451,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 3518723,
+        "num": 837688,
+        "word": "杭州杀妻案凶手许国利被执行死刑",
+        "onboard_time": 1679367024,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 818969,
+        "num": 818969,
+        "word": "苹果iPhone15Pro设计图曝光",
+        "onboard_time": 1679363424,
+        "rank": 4,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 652974,
+        "num": 652974,
+        "word": "归路收视率下跌",
+        "onboard_time": 1679362286,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 639272,
+        "num": 639272,
+        "word": "微博之夜",
+        "onboard_time": 1679367568,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 526818,
+        "num": 526818,
+        "word": "缅甸遭绑架女店员被放回",
+        "onboard_time": 1679359170,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 550422,
+        "num": 522149,
+        "word": "王一博 微博之夜",
+        "onboard_time": 1679363727,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 487457,
+        "num": 487457,
+        "word": "大侦探",
+        "onboard_time": 1679366067,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 433125,
+        "num": 433125,
+        "word": "北京为全国最能熬夜城市",
+        "onboard_time": 1679361629,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 431050,
+        "num": 431050,
+        "word": "00后找工作更看重什么",
+        "onboard_time": 1679365047,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 429756,
+        "num": 429756,
+        "word": "张俪海边一字马",
+        "onboard_time": 1679365706,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 407762,
+        "num": 407762,
+        "word": "雨刷器腿",
+        "onboard_time": 1679363246,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 401916,
+        "num": 401916,
+        "word": "为什么不建议婚后和父母住",
+        "onboard_time": 1679324312,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 758897,
+        "num": 388918,
+        "word": "杀夫案受害人父母去年曾陪儿媳过中秋",
+        "onboard_time": 1679362767,
+        "rank": 15,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 370001,
+        "num": 370001,
+        "word": "大侦探木偶复仇记剧照",
+        "onboard_time": 1679368348,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 349150,
+        "num": 349150,
+        "word": "IU朴叙俊新片预告",
+        "onboard_time": 1679364566,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 353245,
+        "num": 343151,
+        "word": "谷爱凌落地上海直奔健身房",
+        "onboard_time": 1679357788,
+        "rank": 18,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 313801,
+        "num": 313801,
+        "word": "中方回应国际刑事法院对普京逮捕令",
+        "onboard_time": 1679368648,
+        "rank": 19,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1633039,
+        "num": 313490,
+        "word": "张隆李梦 结婚",
+        "onboard_time": 1679356406,
+        "rank": 20,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 308274,
+        "num": 308274,
+        "word": "林宥嘉演唱会",
+        "onboard_time": 1679367868,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 276193,
+        "num": 276193,
+        "word": "广东人上床睡觉时间全国最晚",
+        "onboard_time": 1679329882,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262957,
+        "num": 262957,
+        "word": "东方财富",
+        "onboard_time": 1679363727,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 262649,
+        "num": 262649,
+        "word": "张新成再现九转大肠名场面",
+        "onboard_time": 1679364566,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 254102,
+        "num": 254102,
+        "word": "苏州人有多爱刀鱼馄饨",
+        "onboard_time": 1679367687,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 245733,
+        "num": 245733,
+        "word": "新版出生医学证明4月1日启用",
+        "onboard_time": 1679357669,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242462,
+        "num": 242462,
+        "word": "3岁女童患罕见病伴15种并发症",
+        "onboard_time": 1679367208,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241233,
+        "num": 241233,
+        "word": "学生因点外卖被校务人员按倒训斥",
+        "onboard_time": 1679358688,
+        "rank": 28,
+        "category": "社会负面,教育"
+      },
+      {
+        "raw_hot": 233969,
+        "num": 233969,
+        "word": "春分该吃什么",
+        "onboard_time": 1679355262,
+        "rank": 29,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 219748,
+        "num": 219748,
+        "word": "南华大学回应网传男生造女生黄谣",
+        "onboard_time": 1679368408,
+        "rank": 30,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 235625,
+        "num": 217907,
+        "word": "243万元存款被挪用当事人发声",
+        "onboard_time": 1679358809,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197738,
+        "num": 197738,
+        "word": "唐嫣加盟微博之夜",
+        "onboard_time": 1679368527,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 190633,
+        "num": 190633,
+        "word": "春分",
+        "onboard_time": 1679353638,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228602,
+        "num": 187851,
+        "word": "90后小伙因长得老气专骗70后阿姨",
+        "onboard_time": 1679334734,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163663,
+        "num": 163663,
+        "word": "去年高端手机市场苹果占75%",
+        "onboard_time": 1679365706,
+        "rank": 35,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 160080,
+        "num": 160080,
+        "word": "风花的呼吸",
+        "onboard_time": 1679366247,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 219865,
+        "num": 159852,
+        "word": "WBG发文抵制私生",
+        "onboard_time": 1679361927,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 157659,
+        "num": 157659,
+        "word": "无痛起床试试这些方法",
+        "onboard_time": 1679362886,
+        "rank": 38,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 151224,
+        "num": 155354,
+        "word": "电影倒数说爱你首支长预告",
+        "onboard_time": 1679367447,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207590,
+        "num": 154860,
+        "word": "啥家庭啊给狗买皮肤",
+        "onboard_time": 1679362948,
+        "rank": 40,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 153580,
+        "num": 153580,
+        "word": "海底捞回应女大学生在包间留宿",
+        "onboard_time": 1679317468,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151370,
+        "num": 151370,
+        "word": "日本一农村25年才迎来一个新生儿",
+        "onboard_time": 1679336952,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149718,
+        "num": 149718,
+        "word": "另有家属求助称4名孩子在缅甸失联",
+        "onboard_time": 1679363065,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147586,
+        "num": 147586,
+        "word": "中国乒乓之绝地反击票房破亿",
+        "onboard_time": 1679360370,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 145419,
+        "num": 145419,
+        "word": "原神",
+        "onboard_time": 1679357849,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 139010,
+        "num": 139010,
+        "word": "把猫猫一把拖进被窝",
+        "onboard_time": 1679324611,
+        "rank": 46,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 138393,
+        "num": 138393,
+        "word": "郑渊洁把白客说哭了",
+        "onboard_time": 1679358809,
+        "rank": 47,
+        "category": "影视,科技"
+      },
+      {
+        "raw_hot": 134589,
+        "num": 134589,
+        "word": "22元大碗面后续店家已退餐费",
+        "onboard_time": 1679357065,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131735,
+        "num": 131735,
+        "word": "春分节气壁纸",
+        "onboard_time": 1679354240,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#开启友谊合作与和平之旅#"
+    }
+  }
+}
