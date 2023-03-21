@@ -1,6 +1,6 @@
 {
   "startTime": 1679329653267,
-  "endTime": 1679379762550,
+  "endTime": 1679380589245,
   "band_list": [
     {
       "raw_hot": 4463977,
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 927171,
-      "num": 927171,
+      "num": 1068042,
       "word": "冉莹颖称轩轩韧带断裂",
       "onboard_time": 1679374712,
       "rank": 14,
@@ -225,6 +225,22 @@
       "onboard_time": 1679364148,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 852550,
+      "num": 404400,
+      "word": "徐明浩回国",
+      "onboard_time": 1679379208,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 846002,
+      "num": 543297,
+      "word": "范丞丞 马思唯",
+      "onboard_time": 1679378848,
+      "rank": 7,
+      "category": "音乐"
     },
     {
       "raw_hot": 833406,
@@ -283,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 665079,
+      "num": 379962,
+      "word": "普京宣布免除超200亿美元非洲债务",
+      "onboard_time": 1679378969,
+      "rank": 30,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 661348,
       "num": 661348,
       "word": "李秀满不希望HYBE拿走经营权的原因",
@@ -305,6 +329,14 @@
       "onboard_time": 1679325208,
       "rank": 6,
       "category": "情感"
+    },
+    {
+      "raw_hot": 629408,
+      "num": 629408,
+      "word": "李莎拉靠眼睛拿下剧本",
+      "onboard_time": 1679375430,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 624734,
@@ -345,14 +377,6 @@
       "onboard_time": 1679368768,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 558665,
-      "num": 558665,
-      "word": "李莎拉靠眼睛拿下剧本",
-      "onboard_time": 1679375430,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 557180,
@@ -427,14 +451,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 486598,
-      "num": 486598,
-      "word": "范丞丞 马思唯",
-      "onboard_time": 1679378848,
-      "rank": 7,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 485436,
       "num": 485436,
       "word": "你支持家暴入刑吗",
@@ -483,6 +499,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 447692,
+      "num": 447692,
+      "word": "N1",
+      "onboard_time": 1679379567,
+      "rank": 37,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 447579,
       "num": 447579,
       "word": "王鹤棣晒照告别时宴",
@@ -505,14 +529,6 @@
       "onboard_time": 1679377409,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 442955,
-      "num": 404400,
-      "word": "徐明浩回国",
-      "onboard_time": 1679379208,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 432316,
@@ -601,6 +617,14 @@
       "onboard_time": 1679371350,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 362029,
+      "num": 215174,
+      "word": "苏州杀夫藏尸案死者母亲发声",
+      "onboard_time": 1679379329,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 359857,
@@ -779,12 +803,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 252653,
+      "num": 252653,
+      "word": "辛巴员工称无法同公司搬迁被扣绩效",
+      "onboard_time": 1679379447,
+      "rank": 42,
+      "category": "网红,社会新闻"
+    },
+    {
       "raw_hot": 251847,
       "num": 251847,
       "word": "电视剧他是谁",
       "onboard_time": 1679357728,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 251362,
+      "num": 251362,
+      "word": "OPPO",
+      "onboard_time": 1679380108,
+      "rank": 26,
+      "category": "科技"
     },
     {
       "raw_hot": 249650,
@@ -827,12 +867,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 234053,
-      "num": 192410,
-      "word": "普京宣布免除超200亿美元非洲债务",
-      "onboard_time": 1679378969,
-      "rank": 30,
-      "category": "国外要闻"
+      "raw_hot": 230057,
+      "num": 230057,
+      "word": "哪有这样吸鼠鼠的",
+      "onboard_time": 1679377649,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 229549,
@@ -859,12 +899,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 227681,
-      "num": 227681,
-      "word": "哪有这样吸鼠鼠的",
-      "onboard_time": 1679377649,
-      "rank": 26,
-      "category": "幽默"
+      "raw_hot": 224120,
+      "num": 224120,
+      "word": "花瓣",
+      "onboard_time": 1679378189,
+      "rank": 27,
+      "category": "科技"
     },
     {
       "raw_hot": 220875,
@@ -881,14 +921,6 @@
       "onboard_time": 1679321133,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 217555,
-      "num": 217555,
-      "word": "花瓣",
-      "onboard_time": 1679378189,
-      "rank": 27,
-      "category": "科技"
     },
     {
       "raw_hot": 215557,
@@ -947,6 +979,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 201933,
+      "num": 201933,
+      "word": "中国人十年睡眠变化",
+      "onboard_time": 1679379989,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200960,
       "num": 200960,
       "word": "乔布斯签名奖牌65.5万元被出售",
@@ -993,6 +1033,14 @@
       "onboard_time": 1679354240,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191348,
+      "num": 191348,
+      "word": "张杰陈粒清唱哭砂",
+      "onboard_time": 1679379628,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 186367,
@@ -1075,14 +1123,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 163325,
-      "num": 163325,
-      "word": "N1",
-      "onboard_time": 1679379567,
-      "rank": 37,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 160135,
       "num": 160135,
       "word": "熊猫萌兰为了越狱有多努力",
@@ -1097,14 +1137,6 @@
       "onboard_time": 1679318729,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 152739,
-      "num": 152739,
-      "word": "张杰陈粒清唱哭砂",
-      "onboard_time": 1679379628,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 151925,
@@ -1139,28 +1171,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 148129,
-      "num": 148129,
-      "word": "苏州杀夫藏尸案死者母亲发声",
-      "onboard_time": 1679379329,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 147814,
       "num": 147814,
       "word": "每天早睡1小时",
       "onboard_time": 1679321190,
       "rank": 25,
       "category": "情感"
-    },
-    {
-      "raw_hot": 147599,
-      "num": 147599,
-      "word": "辛巴员工称无法同公司搬迁被扣绩效",
-      "onboard_time": 1679379447,
-      "rank": 42,
-      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 147342,
@@ -1299,6 +1315,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 109826,
+      "num": 109826,
+      "word": "超清画面看生机勃勃的春天",
+      "onboard_time": 1679379447,
+      "rank": 47,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 109753,
       "num": 109753,
       "word": "真的不建议大家趴睡",
@@ -1321,6 +1345,14 @@
       "onboard_time": 1679327965,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 100889,
+      "num": 100889,
+      "word": "小朋友真的把姐姐写进作文了",
+      "onboard_time": 1679380466,
+      "rank": 48,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 100513,
