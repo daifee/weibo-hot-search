@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679380589245,
+  "endTime": 1679382970799,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 4463977,
-      "num": 670481,
+      "num": 770096,
       "word": "官方证实大熊猫宝新已去世",
       "onboard_time": 1679375731,
       "rank": 32,
@@ -3627,6 +3627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1107687,
+      "num": 805563,
+      "word": "普京宣布免除超200亿美元非洲债务",
+      "onboard_time": 1679378969,
+      "rank": 30,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1107527,
       "num": 1107527,
       "word": "罪犯子女考公限制要不要取消",
@@ -5051,6 +5059,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 930459,
+      "num": 227235,
+      "word": "苏州杀夫藏尸案死者母亲发声",
+      "onboard_time": 1679379329,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 928046,
       "num": 843497,
       "word": "爱奇艺回应2月充会员只能用28天",
@@ -5169,6 +5185,14 @@
       "onboard_time": 1678696105,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 915063,
+      "num": 543297,
+      "word": "范丞丞 马思唯",
+      "onboard_time": 1679378848,
+      "rank": 7,
+      "category": "音乐"
     },
     {
       "raw_hot": 914379,
@@ -5945,14 +5969,6 @@
       "onboard_time": 1678182930,
       "rank": 4,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 846002,
-      "num": 543297,
-      "word": "范丞丞 马思唯",
-      "onboard_time": 1679378848,
-      "rank": 7,
-      "category": "音乐"
     },
     {
       "raw_hot": 845860,
@@ -7065,6 +7081,14 @@
       "onboard_time": 1679215588,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 759007,
+      "num": 759007,
+      "word": "全红婵",
+      "onboard_time": 1679382027,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 758844,
@@ -8593,14 +8617,6 @@
       "onboard_time": 1677846505,
       "rank": 30,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 665079,
-      "num": 379962,
-      "word": "普京宣布免除超200亿美元非洲债务",
-      "onboard_time": 1679378969,
-      "rank": 30,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 665004,
@@ -11843,6 +11859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 525910,
+      "num": 342308,
+      "word": "女子领生育金被告知丈夫已婚",
+      "onboard_time": 1679381369,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 525787,
       "num": 386522,
       "word": "戚薇说李承铉是秃头小宝贝",
@@ -12113,6 +12137,14 @@
       "onboard_time": 1678192045,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 518495,
+      "num": 518495,
+      "word": "N1",
+      "onboard_time": 1679379567,
+      "rank": 37,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 518405,
@@ -14371,14 +14403,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 447692,
-      "num": 447692,
-      "word": "N1",
-      "onboard_time": 1679379567,
-      "rank": 37,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 447579,
       "num": 447579,
       "word": "王鹤棣晒照告别时宴",
@@ -15457,6 +15481,14 @@
       "onboard_time": 1678797150,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 419311,
+      "num": 357426,
+      "word": "辛巴员工称无法同公司搬迁被扣绩效",
+      "onboard_time": 1679379447,
+      "rank": 42,
+      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 418584,
@@ -17763,14 +17795,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 362029,
-      "num": 215174,
-      "word": "苏州杀夫藏尸案死者母亲发声",
-      "onboard_time": 1679379329,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 361201,
       "num": 361201,
       "word": "马龙男单亚军",
@@ -17961,6 +17985,14 @@
       "onboard_time": 1678329626,
       "rank": 22,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 357900,
+      "num": 357900,
+      "word": "OPPO",
+      "onboard_time": 1679380108,
+      "rank": 26,
+      "category": "科技"
     },
     {
       "raw_hot": 357868,
@@ -19057,6 +19089,14 @@
       "onboard_time": 1678858647,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 336769,
+      "num": 336769,
+      "word": "杨幂起诉网友侵权案将开庭",
+      "onboard_time": 1679381848,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 336147,
@@ -23699,14 +23739,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 252653,
-      "num": 252653,
-      "word": "辛巴员工称无法同公司搬迁被扣绩效",
-      "onboard_time": 1679379447,
-      "rank": 42,
-      "category": "网红,社会新闻"
-    },
-    {
       "raw_hot": 252639,
       "num": 252639,
       "word": "制片人梅子笑为风波中的女演员抱不平",
@@ -23785,14 +23817,6 @@
       "onboard_time": 1678775248,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 251362,
-      "num": 251362,
-      "word": "OPPO",
-      "onboard_time": 1679380108,
-      "rank": 26,
-      "category": "科技"
     },
     {
       "raw_hot": 251300,
@@ -25553,6 +25577,14 @@
       "onboard_time": 1678969472,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 227564,
+      "num": 227564,
+      "word": "小朋友真的把姐姐写进作文了",
+      "onboard_time": 1679380466,
+      "rank": 48,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 227518,
@@ -34107,6 +34139,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 156324,
+      "num": 156324,
+      "word": "另类的吸猫方式",
+      "onboard_time": 1679382209,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 155944,
       "num": 155944,
       "word": "OMG偷家获胜",
@@ -36275,6 +36315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 136142,
+      "num": 136142,
+      "word": "这东西已经发明出来了吗",
+      "onboard_time": 1679381488,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 136129,
       "num": 136129,
       "word": "light泽丽五杀",
@@ -36481,6 +36529,14 @@
       "onboard_time": 1679127147,
       "rank": 41,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 134748,
+      "num": 134748,
+      "word": "KPL春季赛第六周最佳阵容",
+      "onboard_time": 1679380709,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 134600,
@@ -36865,6 +36921,14 @@
       "onboard_time": 1677977422,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130831,
+      "num": 130831,
+      "word": "刘作虎称全主摄时代来了",
+      "onboard_time": 1679382570,
+      "rank": 40,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 130812,
@@ -39499,14 +39563,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 100889,
-      "num": 100889,
-      "word": "小朋友真的把姐姐写进作文了",
-      "onboard_time": 1679380466,
-      "rank": 48,
-      "category": "情感,社会新闻"
-    },
-    {
       "raw_hot": 100827,
       "num": 100827,
       "word": "开启中俄友好合作共同发展新篇章",
@@ -40889,6 +40945,14 @@
       "onboard_time": 1677870552,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 72089,
+      "num": 814409,
+      "word": "开启友谊合作与和平之旅",
+      "onboard_time": 1679380709,
+      "rank": 0,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 71947,

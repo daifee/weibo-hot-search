@@ -1,10 +1,10 @@
 {
   "startTime": 1679329653267,
-  "endTime": 1679380589245,
+  "endTime": 1679382970799,
   "band_list": [
     {
       "raw_hot": 4463977,
-      "num": 670481,
+      "num": 770096,
       "word": "官方证实大熊猫宝新已去世",
       "onboard_time": 1679375731,
       "rank": 32,
@@ -123,6 +123,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1107687,
+      "num": 805563,
+      "word": "普京宣布免除超200亿美元非洲债务",
+      "onboard_time": 1679378969,
+      "rank": 30,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1094898,
       "num": 1094898,
       "word": "泰国旅游",
@@ -171,12 +179,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 930459,
+      "num": 227235,
+      "word": "苏州杀夫藏尸案死者母亲发声",
+      "onboard_time": 1679379329,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 927171,
       "num": 1068042,
       "word": "冉莹颖称轩轩韧带断裂",
       "onboard_time": 1679374712,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 915063,
+      "num": 543297,
+      "word": "范丞丞 马思唯",
+      "onboard_time": 1679378848,
+      "rank": 7,
+      "category": "音乐"
     },
     {
       "raw_hot": 894340,
@@ -235,14 +259,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 846002,
-      "num": 543297,
-      "word": "范丞丞 马思唯",
-      "onboard_time": 1679378848,
-      "rank": 7,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 833406,
       "num": 659542,
       "word": "还有多少女孩被挂在黄色网站上",
@@ -265,6 +281,14 @@
       "onboard_time": 1679363727,
       "rank": 9,
       "category": "财经"
+    },
+    {
+      "raw_hot": 759007,
+      "num": 759007,
+      "word": "全红婵",
+      "onboard_time": 1679382027,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 755249,
@@ -297,14 +321,6 @@
       "onboard_time": 1679358809,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 665079,
-      "num": 379962,
-      "word": "普京宣布免除超200亿美元非洲债务",
-      "onboard_time": 1679378969,
-      "rank": 30,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 661348,
@@ -411,12 +427,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 525910,
+      "num": 342308,
+      "word": "女子领生育金被告知丈夫已婚",
+      "onboard_time": 1679381369,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 520623,
       "num": 455306,
       "word": "明星微博之夜邀请函VCR",
       "onboard_time": 1679372132,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 518495,
+      "num": 518495,
+      "word": "N1",
+      "onboard_time": 1679379567,
+      "rank": 37,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 491208,
@@ -499,14 +531,6 @@
       "category": "艺人,幽默"
     },
     {
-      "raw_hot": 447692,
-      "num": 447692,
-      "word": "N1",
-      "onboard_time": 1679379567,
-      "rank": 37,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 447579,
       "num": 447579,
       "word": "王鹤棣晒照告别时宴",
@@ -561,6 +585,14 @@
       "onboard_time": 1679316690,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 419311,
+      "num": 357426,
+      "word": "辛巴员工称无法同公司搬迁被扣绩效",
+      "onboard_time": 1679379447,
+      "rank": 42,
+      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 417188,
@@ -619,20 +651,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 362029,
-      "num": 215174,
-      "word": "苏州杀夫藏尸案死者母亲发声",
-      "onboard_time": 1679379329,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 359857,
       "num": 359857,
       "word": "WBG发文抵制私生",
       "onboard_time": 1679361927,
       "rank": 13,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 357900,
+      "num": 357900,
+      "word": "OPPO",
+      "onboard_time": 1679380108,
+      "rank": 26,
+      "category": "科技"
     },
     {
       "raw_hot": 352607,
@@ -665,6 +697,14 @@
       "onboard_time": 1679367868,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 336769,
+      "num": 336769,
+      "word": "杨幂起诉网友侵权案将开庭",
+      "onboard_time": 1679381848,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 333028,
@@ -803,28 +843,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 252653,
-      "num": 252653,
-      "word": "辛巴员工称无法同公司搬迁被扣绩效",
-      "onboard_time": 1679379447,
-      "rank": 42,
-      "category": "网红,社会新闻"
-    },
-    {
       "raw_hot": 251847,
       "num": 251847,
       "word": "电视剧他是谁",
       "onboard_time": 1679357728,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 251362,
-      "num": 251362,
-      "word": "OPPO",
-      "onboard_time": 1679380108,
-      "rank": 26,
-      "category": "科技"
     },
     {
       "raw_hot": 249650,
@@ -897,6 +921,14 @@
       "onboard_time": 1679357190,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 227564,
+      "num": 227564,
+      "word": "小朋友真的把姐姐写进作文了",
+      "onboard_time": 1679380466,
+      "rank": 48,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 224120,
@@ -1139,6 +1171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 156324,
+      "num": 156324,
+      "word": "另类的吸猫方式",
+      "onboard_time": 1679382209,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 151925,
       "num": 151925,
       "word": "春分立蛋",
@@ -1225,6 +1265,30 @@
       "onboard_time": 1679365947,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136142,
+      "num": 136142,
+      "word": "这东西已经发明出来了吗",
+      "onboard_time": 1679381488,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 134748,
+      "num": 134748,
+      "word": "KPL春季赛第六周最佳阵容",
+      "onboard_time": 1679380709,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 130831,
+      "num": 130831,
+      "word": "刘作虎称全主摄时代来了",
+      "onboard_time": 1679382570,
+      "rank": 40,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 130544,
@@ -1347,14 +1411,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 100889,
-      "num": 100889,
-      "word": "小朋友真的把姐姐写进作文了",
-      "onboard_time": 1679380466,
-      "rank": 48,
-      "category": "情感,社会新闻"
-    },
-    {
       "raw_hot": 100513,
       "num": 100513,
       "word": "1994小美人鱼vs2023小美人鱼",
@@ -1457,6 +1513,14 @@
       "onboard_time": 1679312794,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 72089,
+      "num": 814409,
+      "word": "开启友谊合作与和平之旅",
+      "onboard_time": 1679380709,
+      "rank": 0,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 56231,
