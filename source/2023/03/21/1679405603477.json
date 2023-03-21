@@ -1,0 +1,410 @@
+{
+  "runTime": 1679405603477,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 187063,
+        "num": 798410,
+        "word": "二十四节气是中国人的时间哲学",
+        "onboard_time": 1679400627,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1491135,
+        "num": 795915,
+        "word": "女主韦一敏 男主王子斌",
+        "onboard_time": 1679401887,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 51058,
+        "num": 792569,
+        "word": "以中国新发展给世界带来新机遇",
+        "onboard_time": 1679403808,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1464502,
+        "num": 792412,
+        "word": "大胆请假拒绝请假耻辱",
+        "onboard_time": 1679389051,
+        "rank": 3,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 791808,
+        "num": 791808,
+        "word": "内娱隐藏手模",
+        "onboard_time": 1679401108,
+        "rank": 4,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 604874,
+        "num": 604874,
+        "word": "山姆会员店寿司致多人上吐下泻",
+        "onboard_time": 1679394808,
+        "rank": 5,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 562260,
+        "num": 562260,
+        "word": "网剧回响",
+        "onboard_time": 1679402849,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 533280,
+        "num": 533280,
+        "word": "王子文说谈恋爱就是要全力以赴",
+        "onboard_time": 1679401407,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 486166,
+        "num": 486166,
+        "word": "戚薇如果爱忘了MV",
+        "onboard_time": 1679402424,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 481270,
+        "num": 481270,
+        "word": "调解双胞胎打架",
+        "onboard_time": 1679397449,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 904065,
+        "num": 481252,
+        "word": "宋慧乔ins 争宠",
+        "onboard_time": 1679396609,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 581437,
+        "num": 479995,
+        "word": "开门杀致人死亡女子被判9个月",
+        "onboard_time": 1679404649,
+        "rank": 11,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 524055,
+        "num": 479070,
+        "word": "特朗普预告的被捕时间将到",
+        "onboard_time": 1679396008,
+        "rank": 12,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 474694,
+        "num": 474694,
+        "word": "官方证实大熊猫宝新已去世",
+        "onboard_time": 1679375731,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 460210,
+        "num": 460210,
+        "word": "纽约警方为特朗普或遭起诉设置路障",
+        "onboard_time": 1679401589,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 428582,
+        "num": 428582,
+        "word": "重启之极海听雷2香港定档",
+        "onboard_time": 1679401049,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 349882,
+        "num": 349882,
+        "word": "舒淇摇曳生姿的白玫瑰",
+        "onboard_time": 1679399907,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 322143,
+        "num": 322143,
+        "word": "一个姿势帮你快速入睡",
+        "onboard_time": 1679402849,
+        "rank": 17,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 310357,
+        "num": 310357,
+        "word": "TES五连败",
+        "onboard_time": 1679398528,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 295242,
+        "num": 295242,
+        "word": "潍坊依法生育的三孩免费读公办高中",
+        "onboard_time": 1679396967,
+        "rank": 19,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 652041,
+        "num": 295014,
+        "word": "男子将200万房子80元卖了",
+        "onboard_time": 1679400986,
+        "rank": 20,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 294465,
+        "num": 294465,
+        "word": "白鹿海边花絮",
+        "onboard_time": 1679405128,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 289602,
+        "num": 289602,
+        "word": "全红婵哭了",
+        "onboard_time": 1679389290,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 274090,
+        "num": 274090,
+        "word": "青春环游记",
+        "onboard_time": 1679393491,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258750,
+        "num": 258750,
+        "word": "员工去世老板私吞90万死亡赔偿金",
+        "onboard_time": 1679390010,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224429,
+        "num": 224429,
+        "word": "为什么寺庙旅游突然火了",
+        "onboard_time": 1679387430,
+        "rank": 25,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 206661,
+        "num": 206661,
+        "word": "内娱天花板公主抱",
+        "onboard_time": 1679392948,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204352,
+        "num": 204352,
+        "word": "光遇复刻白绒",
+        "onboard_time": 1679404826,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 201938,
+        "num": 201938,
+        "word": "网友深圳偶遇萧敬腾打篮球",
+        "onboard_time": 1679404708,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197589,
+        "num": 197589,
+        "word": "丁泽仁否认嘴队友",
+        "onboard_time": 1679395109,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193727,
+        "num": 193727,
+        "word": "黑暗荣耀校霸五人组画报",
+        "onboard_time": 1679404587,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 190393,
+        "num": 190393,
+        "word": "田曦薇烟熏妆",
+        "onboard_time": 1679388511,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170298,
+        "num": 170298,
+        "word": "做饭舞娘",
+        "onboard_time": 1679403088,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 169323,
+        "num": 169323,
+        "word": "看得出来男朋友很怕我迷路",
+        "onboard_time": 1679399666,
+        "rank": 33,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 165732,
+        "num": 165732,
+        "word": "大学生已经在为五一做准备了",
+        "onboard_time": 1679385932,
+        "rank": 34,
+        "category": "教育,幽默"
+      },
+      {
+        "raw_hot": 155313,
+        "num": 155313,
+        "word": "原神申鹤",
+        "onboard_time": 1679399306,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 152012,
+        "num": 152012,
+        "word": "路炎晨在厕所门口吃东西",
+        "onboard_time": 1679404049,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 140622,
+        "num": 140622,
+        "word": "科学家用水熊虫实现人类健康突破",
+        "onboard_time": 1679403567,
+        "rank": 37,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 134030,
+        "num": 134030,
+        "word": "陈曌旭在张杰演唱会团队",
+        "onboard_time": 1679388931,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 133638,
+        "num": 133638,
+        "word": "徐明浩或将常驻青春环游记",
+        "onboard_time": 1679392227,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130977,
+        "num": 130977,
+        "word": "湖南00后实地翻拍他是谁名场面",
+        "onboard_time": 1679399547,
+        "rank": 40,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 130537,
+        "num": 130537,
+        "word": "女子领生育金被告知丈夫已婚",
+        "onboard_time": 1679381369,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128174,
+        "num": 128174,
+        "word": "路炎晨为归晓默默攒钱",
+        "onboard_time": 1679402308,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 127086,
+        "num": 127086,
+        "word": "年纪轻轻就背上猫猫的重担",
+        "onboard_time": 1679405370,
+        "rank": 43,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 123053,
+        "num": 123053,
+        "word": "滔式运营",
+        "onboard_time": 1679401347,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 122156,
+        "num": 122156,
+        "word": "滔搏",
+        "onboard_time": 1679399968,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 119656,
+        "num": 119656,
+        "word": "因狗狗跑错楼主人被母子暴打",
+        "onboard_time": 1679385392,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116382,
+        "num": 116382,
+        "word": "春闺梦里人小说还原度",
+        "onboard_time": 1679398348,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 107633,
+        "num": 107633,
+        "word": "WE对战WBG",
+        "onboard_time": 1679404468,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 107520,
+        "num": 107520,
+        "word": "杨紫范丞丞牵手路透",
+        "onboard_time": 1679383351,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席出访俄罗斯#"
+    }
+  }
+}

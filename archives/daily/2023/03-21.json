@@ -1,6 +1,6 @@
 {
   "startTime": 1679329653267,
-  "endTime": 1679404647840,
+  "endTime": 1679405603477,
   "band_list": [
     {
       "raw_hot": 4463977,
@@ -105,6 +105,14 @@
       "onboard_time": 1679359170,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1491135,
+      "num": 804197,
+      "word": "女主韦一敏 男主王子斌",
+      "onboard_time": 1679401887,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 1439090,
@@ -267,16 +275,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 966000,
-      "num": 804197,
-      "word": "女主韦一敏 男主王子斌",
-      "onboard_time": 1679401887,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 955531,
-      "num": 752281,
+      "num": 791808,
       "word": "内娱隐藏手模",
       "onboard_time": 1679401108,
       "rank": 4,
@@ -380,7 +380,7 @@
     },
     {
       "raw_hot": 849519,
-      "num": 467547,
+      "num": 479070,
       "word": "特朗普预告的被捕时间将到",
       "onboard_time": 1679396008,
       "rank": 30,
@@ -499,6 +499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 652041,
+      "num": 295014,
+      "word": "男子将200万房子80元卖了",
+      "onboard_time": 1679400986,
+      "rank": 20,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 644787,
       "num": 644787,
       "word": "秒回是很喜欢一个人的表现吗",
@@ -555,6 +563,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 581437,
+      "num": 479995,
+      "word": "开门杀致人死亡女子被判9个月",
+      "onboard_time": 1679404649,
+      "rank": 11,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 579067,
       "num": 579067,
       "word": "女子被姑叔分走15万遗产后遭拉黑",
@@ -595,12 +611,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 557353,
-      "num": 277099,
-      "word": "男子将200万房子80元卖了",
-      "onboard_time": 1679400986,
-      "rank": 20,
-      "category": "社会新闻,财经"
+      "raw_hot": 562260,
+      "num": 562260,
+      "word": "网剧回响",
+      "onboard_time": 1679402849,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 557180,
@@ -707,6 +723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 486166,
+      "num": 486166,
+      "word": "戚薇如果爱忘了MV",
+      "onboard_time": 1679402424,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 485436,
       "num": 485436,
       "word": "你支持家暴入刑吗",
@@ -729,6 +753,14 @@
       "onboard_time": 1679363246,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 460210,
+      "num": 460210,
+      "word": "纽约警方为特朗普或遭起诉设置路障",
+      "onboard_time": 1679401589,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 456820,
@@ -1019,6 +1051,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 322143,
+      "num": 322143,
+      "word": "一个姿势帮你快速入睡",
+      "onboard_time": 1679402849,
+      "rank": 17,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 320052,
       "num": 320052,
       "word": "中俄关系在各自外交全局中占优先地位",
@@ -1115,6 +1155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 294465,
+      "num": 294465,
+      "word": "白鹿海边花絮",
+      "onboard_time": 1679405128,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 292062,
       "num": 292062,
       "word": "原神",
@@ -1169,14 +1217,6 @@
       "onboard_time": 1679369667,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 277684,
-      "num": 277684,
-      "word": "纽约警方为特朗普或遭起诉设置路障",
-      "onboard_time": 1679401589,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 276304,
@@ -1483,14 +1523,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 206742,
-      "num": 188290,
-      "word": "戚薇如果爱忘了MV",
-      "onboard_time": 1679402424,
-      "rank": 30,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 205607,
       "num": 201677,
       "word": "春闺梦里人弹跳运镜",
@@ -1507,6 +1539,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 204352,
+      "num": 204352,
+      "word": "光遇复刻白绒",
+      "onboard_time": 1679404826,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 203005,
       "num": 203005,
       "word": "刘诗诗加盟微博之夜",
@@ -1521,6 +1561,14 @@
       "onboard_time": 1679383532,
       "rank": 19,
       "category": "科技"
+    },
+    {
+      "raw_hot": 201938,
+      "num": 201938,
+      "word": "网友深圳偶遇萧敬腾打篮球",
+      "onboard_time": 1679404708,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 201933,
@@ -1611,6 +1659,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 193727,
+      "num": 193727,
+      "word": "黑暗荣耀校霸五人组画报",
+      "onboard_time": 1679404587,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 192539,
       "num": 192539,
       "word": "春分节气壁纸",
@@ -1627,6 +1683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187063,
+      "num": 804866,
+      "word": "二十四节气是中国人的时间哲学",
+      "onboard_time": 1679400627,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 186367,
       "num": 186367,
       "word": "春闺梦里人今日开播",
@@ -1641,14 +1705,6 @@
       "onboard_time": 1679371530,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 185325,
-      "num": 804866,
-      "word": "二十四节气是中国人的时间哲学",
-      "onboard_time": 1679400627,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 184810,
@@ -1747,6 +1803,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 170298,
+      "num": 170298,
+      "word": "做饭舞娘",
+      "onboard_time": 1679403088,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 170136,
       "num": 170136,
       "word": "路炎晨我车呢",
@@ -1761,6 +1825,14 @@
       "onboard_time": 1679392349,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 169323,
+      "num": 169323,
+      "word": "看得出来男朋友很怕我迷路",
+      "onboard_time": 1679399666,
+      "rank": 39,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 167809,
@@ -1785,14 +1857,6 @@
       "onboard_time": 1679383829,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 165777,
-      "num": 165777,
-      "word": "看得出来男朋友很怕我迷路",
-      "onboard_time": 1679399666,
-      "rank": 39,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 165365,
@@ -1849,6 +1913,14 @@
       "onboard_time": 1679382209,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 152012,
+      "num": 152012,
+      "word": "路炎晨在厕所门口吃东西",
+      "onboard_time": 1679404049,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 151925,
@@ -1947,6 +2019,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 140622,
+      "num": 140622,
+      "word": "科学家用水熊虫实现人类健康突破",
+      "onboard_time": 1679403567,
+      "rank": 37,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 139189,
       "num": 139189,
       "word": "许凯娜扎新剧下证",
@@ -2043,12 +2123,28 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 128174,
+      "num": 128174,
+      "word": "路炎晨为归晓默默攒钱",
+      "onboard_time": 1679402308,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 127529,
       "num": 127529,
       "word": "开多少种花才算一个春天",
       "onboard_time": 1679369369,
       "rank": 48,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 127086,
+      "num": 127086,
+      "word": "年纪轻轻就背上猫猫的重担",
+      "onboard_time": 1679405370,
+      "rank": 43,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 125346,
@@ -2064,14 +2160,6 @@
       "word": "谭松韵哭腔",
       "onboard_time": 1679324069,
       "rank": 30,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 123654,
-      "num": 123654,
-      "word": "路炎晨为归晓默默攒钱",
-      "onboard_time": 1679402308,
-      "rank": 47,
       "category": "影视"
     },
     {
@@ -2177,6 +2265,14 @@
       "onboard_time": 1679389469,
       "rank": 44,
       "category": "幽默,社会新闻"
+    },
+    {
+      "raw_hot": 107633,
+      "num": 107633,
+      "word": "WE对战WBG",
+      "onboard_time": 1679404468,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 105057,
@@ -2361,6 +2457,14 @@
       "onboard_time": 1679316390,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 51058,
+      "num": 792569,
+      "word": "以中国新发展给世界带来新机遇",
+      "onboard_time": 1679403808,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 51017,
