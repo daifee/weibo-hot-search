@@ -1,6 +1,6 @@
 {
   "startTime": 1679329653267,
-  "endTime": 1679390310627,
+  "endTime": 1679391232721,
   "band_list": [
     {
       "raw_hot": 4463977,
@@ -115,8 +115,16 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1310927,
+      "num": 863709,
+      "word": "全红婵哭了",
+      "onboard_time": 1679389290,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1268822,
-      "num": 751480,
+      "num": 765399,
       "word": "大学生已经在为五一做准备了",
       "onboard_time": 1679385932,
       "rank": 16,
@@ -153,6 +161,14 @@
       "onboard_time": 1679378969,
       "rank": 30,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 1096682,
+      "num": 742328,
+      "word": "大胆请假拒绝请假耻辱",
+      "onboard_time": 1679389051,
+      "rank": 9,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 1094898,
@@ -379,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 653906,
+      "num": 653906,
+      "word": "红双喜",
+      "onboard_time": 1679386228,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 644787,
       "num": 644787,
       "word": "秒回是很喜欢一个人的表现吗",
@@ -403,28 +427,12 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 617541,
-      "num": 531865,
-      "word": "全红婵哭了",
-      "onboard_time": 1679389290,
-      "rank": 10,
-      "category": "体育"
-    },
-    {
       "raw_hot": 615672,
-      "num": 527714,
+      "num": 553394,
       "word": "田曦薇烟熏妆",
       "onboard_time": 1679388511,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 612412,
-      "num": 612412,
-      "word": "红双喜",
-      "onboard_time": 1679386228,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 599836,
@@ -475,20 +483,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 556119,
+      "num": 556119,
+      "word": "陈曌旭在张杰演唱会团队",
+      "onboard_time": 1679388931,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 555479,
       "num": 555479,
       "word": "云胡不喜选角 胡歌陈星旭",
       "onboard_time": 1679324849,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 554555,
-      "num": 554555,
-      "word": "陈曌旭在张杰演唱会团队",
-      "onboard_time": 1679388931,
-      "rank": 8,
-      "category": "音乐"
     },
     {
       "raw_hot": 546752,
@@ -505,14 +513,6 @@
       "onboard_time": 1679320052,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 533749,
-      "num": 533749,
-      "word": "大胆请假拒绝请假耻辱",
-      "onboard_time": 1679389051,
-      "rank": 9,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 529345,
@@ -923,6 +923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 294898,
+      "num": 294898,
+      "word": "员工去世老板私吞90万死亡赔偿金",
+      "onboard_time": 1679390010,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 292062,
       "num": 292062,
       "word": "原神",
@@ -979,6 +987,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 272976,
+      "num": 272976,
+      "word": "为什么寺庙旅游突然火了",
+      "onboard_time": 1679387430,
+      "rank": 49,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 270530,
       "num": 270530,
       "word": "薛之谦演唱会 南昌",
@@ -1033,6 +1049,14 @@
       "onboard_time": 1679383951,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 241990,
+      "num": 241990,
+      "word": "井柏然做的菜",
+      "onboard_time": 1679390910,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 241751,
@@ -1099,20 +1123,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 227580,
+      "num": 227580,
+      "word": "诺一逛环球影城",
+      "onboard_time": 1679389828,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 224120,
       "num": 224120,
       "word": "花瓣",
       "onboard_time": 1679378189,
       "rank": 27,
       "category": "科技"
-    },
-    {
-      "raw_hot": 223743,
-      "num": 223743,
-      "word": "为什么寺庙旅游突然火了",
-      "onboard_time": 1679387430,
-      "rank": 49,
-      "category": "旅游"
     },
     {
       "raw_hot": 220875,
@@ -1129,6 +1153,14 @@
       "onboard_time": 1679321133,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 217790,
+      "num": 217790,
+      "word": "分享欲是维持亲密关系的秘诀",
+      "onboard_time": 1679387130,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 215557,
@@ -1179,14 +1211,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 213646,
-      "num": 213646,
-      "word": "诺一逛环球影城",
-      "onboard_time": 1679389828,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 207694,
       "num": 207694,
       "word": "虞书欣假装度假vlog",
@@ -1201,14 +1225,6 @@
       "onboard_time": 1679372495,
       "rank": 33,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 202700,
-      "num": 202700,
-      "word": "分享欲是维持亲密关系的秘诀",
-      "onboard_time": 1679387130,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 202128,
@@ -1249,6 +1265,14 @@
       "onboard_time": 1679361629,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196559,
+      "num": 196559,
+      "word": "会两门语言才懂的笑话",
+      "onboard_time": 1679387789,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 195491,
@@ -1307,6 +1331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189167,
+      "num": 189167,
+      "word": "全红婵207C失误丢分",
+      "onboard_time": 1679390850,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 186367,
       "num": 186367,
       "word": "春闺梦里人今日开播",
@@ -1347,20 +1379,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 182440,
-      "num": 182440,
-      "word": "会两门语言才懂的笑话",
-      "onboard_time": 1679387789,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 177408,
       "num": 177408,
       "word": "另有家属求助称4名孩子在缅甸失联",
       "onboard_time": 1679363065,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173121,
+      "num": 173121,
+      "word": "不小心把猫脚剪伤后",
+      "onboard_time": 1679388750,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 172963,
@@ -1403,14 +1435,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 166610,
-      "num": 166610,
-      "word": "不小心把猫脚剪伤后",
-      "onboard_time": 1679388750,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 166507,
       "num": 166507,
       "word": "这部电影把反黄谣搬上银幕",
@@ -1432,6 +1456,14 @@
       "word": "熊猫萌兰为了越狱有多努力",
       "onboard_time": 1679316750,
       "rank": 22,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 157157,
+      "num": 157157,
+      "word": "上一次这么脱单的还是许仙",
+      "onboard_time": 1679389770,
+      "rank": 37,
       "category": "幽默"
     },
     {
@@ -1515,6 +1547,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 141417,
+      "num": 141417,
+      "word": "中国妇女报评造黄谣事件",
+      "onboard_time": 1679390067,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141124,
       "num": 141124,
       "word": "微博之夜同台名场面",
@@ -1547,14 +1587,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 136143,
-      "num": 136143,
-      "word": "上一次这么脱单的还是许仙",
-      "onboard_time": 1679389770,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 134748,
       "num": 134748,
       "word": "KPL春季赛第六周最佳阵容",
@@ -1563,19 +1595,19 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 131317,
+      "num": 131317,
+      "word": "春天的第一朵花",
+      "onboard_time": 1679384491,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 130544,
       "num": 130544,
       "word": "不要辜负春天的浪漫",
       "onboard_time": 1679369548,
       "rank": 46,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 128563,
-      "num": 128563,
-      "word": "春天的第一朵花",
-      "onboard_time": 1679384491,
-      "rank": 45,
       "category": "情感"
     },
     {
@@ -1643,14 +1675,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 113118,
-      "num": 113118,
-      "word": "中国妇女报评造黄谣事件",
-      "onboard_time": 1679390067,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 111622,
       "num": 111622,
       "word": "王俊凯亮相不止不休首映",
@@ -1689,14 +1713,6 @@
       "onboard_time": 1679389469,
       "rank": 44,
       "category": "幽默,社会新闻"
-    },
-    {
-      "raw_hot": 107553,
-      "num": 107553,
-      "word": "员工去世老板私吞90万死亡赔偿金",
-      "onboard_time": 1679390010,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 105057,
@@ -1753,6 +1769,22 @@
       "onboard_time": 1679322155,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 96415,
+      "num": 96415,
+      "word": "第一次见这么华丽的天鹅",
+      "onboard_time": 1679390550,
+      "rank": 48,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 94480,
+      "num": 94480,
+      "word": "官方回应母女住民宿遭男房东强闯",
+      "onboard_time": 1679391149,
+      "rank": 49,
+      "category": "社会负面"
     },
     {
       "raw_hot": 93551,

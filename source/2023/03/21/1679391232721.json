@@ -1,0 +1,410 @@
+{
+  "runTime": 1679391232721,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 69167,
+        "num": 881052,
+        "word": "开启友谊合作与和平之旅",
+        "onboard_time": 1679380709,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1310927,
+        "num": 863709,
+        "word": "全红婵哭了",
+        "onboard_time": 1679389290,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110138,
+        "num": 830384,
+        "word": "美国这台战争机器给全球造成伤害",
+        "onboard_time": 1679368768,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1250717,
+        "num": 765399,
+        "word": "大学生已经在为五一做准备了",
+        "onboard_time": 1679385932,
+        "rank": 3,
+        "category": "教育,幽默"
+      },
+      {
+        "raw_hot": 1096682,
+        "num": 742328,
+        "word": "大胆请假拒绝请假耻辱",
+        "onboard_time": 1679389051,
+        "rank": 4,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 1095286,
+        "num": 676766,
+        "word": "官方证实大熊猫宝新已去世",
+        "onboard_time": 1679375731,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 653906,
+        "num": 653906,
+        "word": "红双喜",
+        "onboard_time": 1679386228,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 624123,
+        "num": 624123,
+        "word": "女子领生育金被告知丈夫已婚",
+        "onboard_time": 1679381369,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 575030,
+        "num": 575030,
+        "word": "全红婵",
+        "onboard_time": 1679382027,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 556119,
+        "num": 556119,
+        "word": "陈曌旭在张杰演唱会团队",
+        "onboard_time": 1679388931,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 578148,
+        "num": 553394,
+        "word": "田曦薇烟熏妆",
+        "onboard_time": 1679388511,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 523215,
+        "num": 523215,
+        "word": "因狗狗跑错楼主人被母子暴打",
+        "onboard_time": 1679385392,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 510076,
+        "num": 510076,
+        "word": "普京宣布免除超200亿美元非洲债务",
+        "onboard_time": 1679378969,
+        "rank": 12,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 391465,
+        "num": 391465,
+        "word": "张家齐",
+        "onboard_time": 1679386770,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 360378,
+        "num": 360378,
+        "word": "云南一男子接种男性9价HPV疫苗",
+        "onboard_time": 1679386052,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359188,
+        "num": 359188,
+        "word": "花花明天要上班了",
+        "onboard_time": 1679383229,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340555,
+        "num": 340555,
+        "word": "徐明浩回国",
+        "onboard_time": 1679379208,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329660,
+        "num": 329660,
+        "word": "南华大学造黄谣男生已被开除",
+        "onboard_time": 1679375013,
+        "rank": 17,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 317753,
+        "num": 317753,
+        "word": "杨紫范丞丞牵手路透",
+        "onboard_time": 1679383351,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 294898,
+        "num": 294898,
+        "word": "员工去世老板私吞90万死亡赔偿金",
+        "onboard_time": 1679390010,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281681,
+        "num": 281681,
+        "word": "遇到一个有礼貌的鬼",
+        "onboard_time": 1679387130,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 272976,
+        "num": 272976,
+        "word": "为什么寺庙旅游突然火了",
+        "onboard_time": 1679387430,
+        "rank": 21,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 263826,
+        "num": 263826,
+        "word": "媒体评年轻人不上课不上进只上香",
+        "onboard_time": 1679374893,
+        "rank": 22,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 241990,
+        "num": 241990,
+        "word": "井柏然做的菜",
+        "onboard_time": 1679390910,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234187,
+        "num": 234187,
+        "word": "上海街头现移动冰块车",
+        "onboard_time": 1679387611,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227580,
+        "num": 227580,
+        "word": "诺一逛环球影城",
+        "onboard_time": 1679389828,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219637,
+        "num": 219637,
+        "word": "中方回应国际刑事法院对普京逮捕令",
+        "onboard_time": 1679391209,
+        "rank": 26,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 217790,
+        "num": 217790,
+        "word": "分享欲是维持亲密关系的秘诀",
+        "onboard_time": 1679387130,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 201855,
+        "num": 201855,
+        "word": "黑暗荣耀演员们4K无滤镜无美颜",
+        "onboard_time": 1679386169,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 196559,
+        "num": 196559,
+        "word": "会两门语言才懂的笑话",
+        "onboard_time": 1679387789,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 191936,
+        "num": 191936,
+        "word": "郑渊洁希望张颂文不要写作",
+        "onboard_time": 1679383532,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189167,
+        "num": 189167,
+        "word": "全红婵207C失误丢分",
+        "onboard_time": 1679390850,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187059,
+        "num": 187059,
+        "word": "原来新疆的房子长这样",
+        "onboard_time": 1679377409,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 177189,
+        "num": 177189,
+        "word": "微博之夜",
+        "onboard_time": 1679367568,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 173121,
+        "num": 173121,
+        "word": "不小心把猫脚剪伤后",
+        "onboard_time": 1679388750,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 160096,
+        "num": 160096,
+        "word": "张兰前直播运营团队回应集体离职",
+        "onboard_time": 1679377228,
+        "rank": 35,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 159914,
+        "num": 159914,
+        "word": "小朋友感染甲流应该怎么办",
+        "onboard_time": 1679383590,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157157,
+        "num": 157157,
+        "word": "上一次这么脱单的还是许仙",
+        "onboard_time": 1679389770,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143786,
+        "num": 143786,
+        "word": "睡觉时穿袜子更容易睡着",
+        "onboard_time": 1679371530,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142893,
+        "num": 142893,
+        "word": "杭州杀妻案凶手许国利被执行死刑",
+        "onboard_time": 1679367024,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141417,
+        "num": 141417,
+        "word": "中国妇女报评造黄谣事件",
+        "onboard_time": 1679390067,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131317,
+        "num": 131317,
+        "word": "春天的第一朵花",
+        "onboard_time": 1679384491,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 119486,
+        "num": 119486,
+        "word": "李莎拉靠眼睛拿下剧本",
+        "onboard_time": 1679375430,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 116724,
+        "num": 116724,
+        "word": "一诺暖阳Cat出席微博之夜",
+        "onboard_time": 1679384970,
+        "rank": 43,
+        "category": "作品衍生,游戏"
+      },
+      {
+        "raw_hot": 115291,
+        "num": 115291,
+        "word": "张隆李梦 结婚",
+        "onboard_time": 1679356406,
+        "rank": 44,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 112945,
+        "num": 112945,
+        "word": "乐华娱乐被列为经营异常",
+        "onboard_time": 1679373633,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103453,
+        "num": 103453,
+        "word": "薛之谦演唱会 南昌",
+        "onboard_time": 1679378129,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 97999,
+        "num": 97999,
+        "word": "大妈是懂避而不见的",
+        "onboard_time": 1679389469,
+        "rank": 47,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 96415,
+        "num": 96415,
+        "word": "第一次见这么华丽的天鹅",
+        "onboard_time": 1679390550,
+        "rank": 48,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 94480,
+        "num": 94480,
+        "word": "官方回应母女住民宿遭男房东强闯",
+        "onboard_time": 1679391149,
+        "rank": 49,
+        "category": "社会负面"
+      }
+    ],
+    "hotgov": {
+      "word": "#中俄关系在各自外交全局中占优先地位#"
+    }
+  }
+}
