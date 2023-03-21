@@ -1,6 +1,6 @@
 {
   "startTime": 1679415632915,
-  "endTime": 1679423768483,
+  "endTime": 1679426051662,
   "band_list": [
     {
       "raw_hot": 1337983,
@@ -401,6 +401,22 @@
       "onboard_time": 1679395109,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 39291,
+      "num": 39291,
+      "word": "公交司机急刹车致乘客死亡获刑",
+      "onboard_time": 1679424314,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32238,
+      "num": 32238,
+      "word": "男子在离婚冷静期买房前妻要求分割",
+      "onboard_time": 1679424434,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 32072,
