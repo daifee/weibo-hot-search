@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679426051662,
+  "endTime": 1679427214830,
   "band_list": [
     {
       "raw_hot": 7256959,
@@ -5027,6 +5027,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 61017,
+      "num": 61017,
+      "word": "公交司机急刹车致乘客死亡获刑",
+      "onboard_time": 1679424314,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58590,
       "num": 935627,
       "word": "随手拍春天",
@@ -5051,20 +5059,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 47277,
+      "num": 32238,
+      "word": "男子在离婚冷静期买房前妻要求分割",
+      "onboard_time": 1679424434,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 47246,
       "num": 47246,
       "word": "宋茜的泰国游玩vlog",
       "onboard_time": 1679248695,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 39291,
-      "num": 39291,
-      "word": "公交司机急刹车致乘客死亡获刑",
-      "onboard_time": 1679424314,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 38472,
@@ -5089,14 +5097,6 @@
       "onboard_time": 1679228607,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 32238,
-      "num": 32238,
-      "word": "男子在离婚冷静期买房前妻要求分割",
-      "onboard_time": 1679424434,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 32072,
