@@ -1,6 +1,6 @@
 {
   "startTime": 1679329653267,
-  "endTime": 1679365961862,
+  "endTime": 1679366545474,
   "band_list": [
     {
       "raw_hot": 2223638,
@@ -51,6 +51,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 1089385,
+      "num": 559468,
+      "word": "杀夫案受害人父母去年曾陪儿媳过中秋",
+      "onboard_time": 1679362767,
+      "rank": 30,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1054455,
       "num": 1054455,
       "word": "8小时睡眠论可能是错的",
@@ -60,23 +68,15 @@
     },
     {
       "raw_hot": 1023981,
-      "num": 578018,
+      "num": 630856,
       "word": "苹果iPhone15Pro设计图曝光",
       "onboard_time": 1679363424,
       "rank": 3,
       "category": "科技"
     },
     {
-      "raw_hot": 985135,
-      "num": 559468,
-      "word": "杀夫案受害人父母去年曾陪儿媳过中秋",
-      "onboard_time": 1679362767,
-      "rank": 30,
-      "category": "社会负面"
-    },
-    {
-      "raw_hot": 960712,
-      "num": 960712,
+      "raw_hot": 988887,
+      "num": 988887,
       "word": "归路收视率下跌",
       "onboard_time": 1679362286,
       "rank": 10,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 894340,
-      "num": 572147,
+      "num": 629002,
       "word": "王一博 微博之夜",
       "onboard_time": 1679363727,
       "rank": 4,
@@ -163,6 +163,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 625827,
+      "num": 625827,
+      "word": "周杰伦门票",
+      "onboard_time": 1679365586,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 579067,
       "num": 579067,
       "word": "女子被姑叔分走15万遗产后遭拉黑",
@@ -227,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 485485,
+      "num": 485485,
+      "word": "男子吐槽女子穿和服在景区拍照",
+      "onboard_time": 1679364148,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 477382,
       "num": 477382,
       "word": "wbg",
@@ -235,8 +251,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 463898,
-      "num": 463898,
+      "raw_hot": 464542,
+      "num": 464542,
       "word": "雨刷器腿",
       "onboard_time": 1679363246,
       "rank": 8,
@@ -267,12 +283,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 397488,
-      "num": 397488,
-      "word": "男子吐槽女子穿和服在景区拍照",
-      "onboard_time": 1679364148,
-      "rank": 10,
-      "category": "社会新闻"
+      "raw_hot": 413773,
+      "num": 413773,
+      "word": "张新成再现九转大肠名场面",
+      "onboard_time": 1679364566,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 389421,
@@ -305,22 +321,6 @@
       "onboard_time": 1679361927,
       "rank": 13,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 358568,
-      "num": 358568,
-      "word": "周杰伦门票",
-      "onboard_time": 1679365586,
-      "rank": 13,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 355760,
-      "num": 355760,
-      "word": "张新成再现九转大肠名场面",
-      "onboard_time": 1679364566,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 352607,
@@ -387,11 +387,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 285594,
+      "num": 285594,
+      "word": "大侦探",
+      "onboard_time": 1679366067,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 281976,
       "num": 281976,
       "word": "男子3万块钱车被13万停车费吓到",
       "onboard_time": 1679318609,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 272037,
+      "num": 272037,
+      "word": "00后找工作更看重什么",
+      "onboard_time": 1679365047,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -407,6 +423,14 @@
       "num": 253695,
       "word": "云胡不喜女主 宋元",
       "onboard_time": 1679356347,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 252588,
+      "num": 252588,
+      "word": "张俪海边一字马",
+      "onboard_time": 1679365706,
       "rank": 29,
       "category": "影视"
     },
@@ -483,14 +507,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 211566,
-      "num": 211566,
-      "word": "张俪海边一字马",
-      "onboard_time": 1679365706,
-      "rank": 29,
-      "category": "影视"
-    },
-    {
       "raw_hot": 208078,
       "num": 208078,
       "word": "电视剧他是谁",
@@ -507,20 +523,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 206624,
-      "num": 206624,
-      "word": "00后找工作更看重什么",
-      "onboard_time": 1679365047,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 200960,
       "num": 200960,
       "word": "乔布斯签名奖牌65.5万元被出售",
       "onboard_time": 1679365106,
       "rank": 31,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 199313,
+      "num": 199313,
+      "word": "去年高端手机市场苹果占75%",
+      "onboard_time": 1679365706,
+      "rank": 36,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 197563,
@@ -563,20 +579,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 184223,
+      "num": 184223,
+      "word": "风花的呼吸",
+      "onboard_time": 1679366247,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 177408,
       "num": 177408,
       "word": "另有家属求助称4名孩子在缅甸失联",
       "onboard_time": 1679363065,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 176398,
-      "num": 176398,
-      "word": "去年高端手机市场苹果占75%",
-      "onboard_time": 1679365706,
-      "rank": 36,
-      "category": "科技,财经"
     },
     {
       "raw_hot": 172963,

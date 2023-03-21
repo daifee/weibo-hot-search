@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679365961862,
+  "endTime": 1679366545474,
   "band_list": [
     {
       "raw_hot": 7256959,
@@ -243,6 +243,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 1089385,
+      "num": 559468,
+      "word": "杀夫案受害人父母去年曾陪儿媳过中秋",
+      "onboard_time": 1679362767,
+      "rank": 30,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1085916,
       "num": 1085916,
       "word": "中方回应国际刑事法院对普京逮捕令",
@@ -268,7 +276,7 @@
     },
     {
       "raw_hot": 1023981,
-      "num": 578018,
+      "num": 630856,
       "word": "苹果iPhone15Pro设计图曝光",
       "onboard_time": 1679363424,
       "rank": 3,
@@ -299,12 +307,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 985135,
-      "num": 559468,
-      "word": "杀夫案受害人父母去年曾陪儿媳过中秋",
-      "onboard_time": 1679362767,
-      "rank": 30,
-      "category": "社会负面"
+      "raw_hot": 988887,
+      "num": 988887,
+      "word": "归路收视率下跌",
+      "onboard_time": 1679362286,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 984860,
@@ -329,14 +337,6 @@
       "onboard_time": 1679277506,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 960712,
-      "num": 960712,
-      "word": "归路收视率下跌",
-      "onboard_time": 1679362286,
-      "rank": 10,
-      "category": "影视"
     },
     {
       "raw_hot": 960439,
@@ -380,7 +380,7 @@
     },
     {
       "raw_hot": 894340,
-      "num": 572147,
+      "num": 629002,
       "word": "王一博 微博之夜",
       "onboard_time": 1679363727,
       "rank": 4,
@@ -641,6 +641,14 @@
       "onboard_time": 1679314110,
       "rank": 8,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 625827,
+      "num": 625827,
+      "word": "周杰伦门票",
+      "onboard_time": 1679365586,
+      "rank": 13,
+      "category": "音乐"
     },
     {
       "raw_hot": 618937,
@@ -923,6 +931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 485485,
+      "num": 485485,
+      "word": "男子吐槽女子穿和服在景区拍照",
+      "onboard_time": 1679364148,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 480103,
       "num": 414153,
       "word": "熊猫萌兰为了越狱有多努力",
@@ -979,8 +995,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 463898,
-      "num": 463898,
+      "raw_hot": 464542,
+      "num": 464542,
       "word": "雨刷器腿",
       "onboard_time": 1679363246,
       "rank": 8,
@@ -1115,6 +1131,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 413773,
+      "num": 413773,
+      "word": "张新成再现九转大肠名场面",
+      "onboard_time": 1679364566,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 408475,
       "num": 184144,
       "word": "2名未成年男生殴打侵犯11岁女孩",
@@ -1153,14 +1177,6 @@
       "onboard_time": 1679238869,
       "rank": 12,
       "category": "体育,影视"
-    },
-    {
-      "raw_hot": 397488,
-      "num": 397488,
-      "word": "男子吐槽女子穿和服在景区拍照",
-      "onboard_time": 1679364148,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 392970,
@@ -1275,28 +1291,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 358568,
-      "num": 358568,
-      "word": "周杰伦门票",
-      "onboard_time": 1679365586,
-      "rank": 13,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 358512,
       "num": 358512,
       "word": "当身边恋爱长跑的朋友分手后",
       "onboard_time": 1679308229,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 355760,
-      "num": 355760,
-      "word": "张新成再现九转大肠名场面",
-      "onboard_time": 1679364566,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 354875,
@@ -1587,6 +1587,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 285594,
+      "num": 285594,
+      "word": "大侦探",
+      "onboard_time": 1679366067,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 283098,
       "num": 283098,
       "word": "导游劝游客少购物提前对暗号",
@@ -1659,6 +1667,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 272037,
+      "num": 272037,
+      "word": "00后找工作更看重什么",
+      "onboard_time": 1679365047,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 269061,
       "num": 269061,
       "word": "8箱芒果托运980女子当场吃完",
@@ -1713,6 +1729,14 @@
       "onboard_time": 1679277926,
       "rank": 18,
       "category": "社会负面,科技"
+    },
+    {
+      "raw_hot": 252588,
+      "num": 252588,
+      "word": "张俪海边一字马",
+      "onboard_time": 1679365706,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 250696,
@@ -1979,14 +2003,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 211566,
-      "num": 211566,
-      "word": "张俪海边一字马",
-      "onboard_time": 1679365706,
-      "rank": 29,
-      "category": "影视"
-    },
-    {
       "raw_hot": 209585,
       "num": 209585,
       "word": "晚睡晚起原来是病",
@@ -2049,14 +2065,6 @@
       "onboard_time": 1679360908,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 206624,
-      "num": 206624,
-      "word": "00后找工作更看重什么",
-      "onboard_time": 1679365047,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 206530,
@@ -2153,6 +2161,14 @@
       "onboard_time": 1679242167,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 199313,
+      "num": 199313,
+      "word": "去年高端手机市场苹果占75%",
+      "onboard_time": 1679365706,
+      "rank": 36,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 198971,
@@ -2299,6 +2315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 184223,
+      "num": 184223,
+      "word": "风花的呼吸",
+      "onboard_time": 1679366247,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 182855,
       "num": 182855,
       "word": "心想事成王一冰绿茶真面目",
@@ -2385,14 +2409,6 @@
       "onboard_time": 1679363065,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 176398,
-      "num": 176398,
-      "word": "去年高端手机市场苹果占75%",
-      "onboard_time": 1679365706,
-      "rank": 36,
-      "category": "科技,财经"
     },
     {
       "raw_hot": 174672,

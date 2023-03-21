@@ -1,0 +1,410 @@
+{
+  "runTime": 1679366545474,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 988887,
+        "num": 988887,
+        "word": "归路收视率下跌",
+        "onboard_time": 1679362286,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 694578,
+        "num": 694578,
+        "word": "北京为全国最能熬夜城市",
+        "onboard_time": 1679361629,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65632,
+        "num": 631425,
+        "word": "中俄两国是山水相连的友好邻邦",
+        "onboard_time": 1679322451,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 977627,
+        "num": 630856,
+        "word": "苹果iPhone15Pro设计图曝光",
+        "onboard_time": 1679363424,
+        "rank": 3,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 808914,
+        "num": 629002,
+        "word": "王一博 微博之夜",
+        "onboard_time": 1679363727,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 625827,
+        "num": 625827,
+        "word": "周杰伦门票",
+        "onboard_time": 1679365586,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 720234,
+        "num": 610967,
+        "word": "缅甸遭绑架女店员被放回",
+        "onboard_time": 1679359170,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 565382,
+        "num": 565382,
+        "word": "为什么不建议婚后和父母住",
+        "onboard_time": 1679324312,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 485485,
+        "num": 485485,
+        "word": "男子吐槽女子穿和服在景区拍照",
+        "onboard_time": 1679364148,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1089385,
+        "num": 485045,
+        "word": "杀夫案受害人父母去年曾陪儿媳过中秋",
+        "onboard_time": 1679362767,
+        "rank": 9,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 464542,
+        "num": 464542,
+        "word": "雨刷器腿",
+        "onboard_time": 1679363246,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 414912,
+        "num": 414912,
+        "word": "春分",
+        "onboard_time": 1679353638,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 609251,
+        "num": 414362,
+        "word": "东方财富",
+        "onboard_time": 1679363727,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 413773,
+        "num": 413773,
+        "word": "张新成再现九转大肠名场面",
+        "onboard_time": 1679364566,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 361828,
+        "num": 361828,
+        "word": "IU朴叙俊新片预告",
+        "onboard_time": 1679364566,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 535228,
+        "num": 353317,
+        "word": "谷爱凌落地上海直奔健身房",
+        "onboard_time": 1679357788,
+        "rank": 15,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 328550,
+        "num": 328550,
+        "word": "中方回应国际刑事法院对普京逮捕令",
+        "onboard_time": 1679366487,
+        "rank": 16,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 323629,
+        "num": 323629,
+        "word": "广东人上床睡觉时间全国最晚",
+        "onboard_time": 1679329882,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 435628,
+        "num": 314816,
+        "word": "学生因点外卖被校务人员按倒训斥",
+        "onboard_time": 1679358688,
+        "rank": 18,
+        "category": "社会负面,教育"
+      },
+      {
+        "raw_hot": 287623,
+        "num": 287623,
+        "word": "新版出生医学证明4月1日启用",
+        "onboard_time": 1679357669,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1791855,
+        "num": 286941,
+        "word": "张隆李梦 结婚",
+        "onboard_time": 1679356406,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 317080,
+        "num": 286697,
+        "word": "243万元存款被挪用当事人发声",
+        "onboard_time": 1679358809,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285594,
+        "num": 285594,
+        "word": "大侦探",
+        "onboard_time": 1679366067,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273825,
+        "num": 273825,
+        "word": "海底捞回应女大学生在包间留宿",
+        "onboard_time": 1679317468,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302703,
+        "num": 273470,
+        "word": "WBG发文抵制私生",
+        "onboard_time": 1679361927,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 272037,
+        "num": 272037,
+        "word": "00后找工作更看重什么",
+        "onboard_time": 1679365047,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252588,
+        "num": 252588,
+        "word": "张俪海边一字马",
+        "onboard_time": 1679365706,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 246157,
+        "num": 246157,
+        "word": "春分该吃什么",
+        "onboard_time": 1679355262,
+        "rank": 27,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 236827,
+        "num": 236827,
+        "word": "90后小伙因长得老气专骗70后阿姨",
+        "onboard_time": 1679334734,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220716,
+        "num": 220716,
+        "word": "中国乒乓之绝地反击票房破亿",
+        "onboard_time": 1679360370,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 209153,
+        "num": 209153,
+        "word": "啥家庭啊给狗买皮肤",
+        "onboard_time": 1679362948,
+        "rank": 30,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 206235,
+        "num": 206235,
+        "word": "无痛起床试试这些方法",
+        "onboard_time": 1679362886,
+        "rank": 31,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 199313,
+        "num": 199313,
+        "word": "去年高端手机市场苹果占75%",
+        "onboard_time": 1679365706,
+        "rank": 32,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 184223,
+        "num": 184223,
+        "word": "风花的呼吸",
+        "onboard_time": 1679366247,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 182807,
+        "num": 182807,
+        "word": "原神",
+        "onboard_time": 1679357849,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 182339,
+        "num": 182339,
+        "word": "优酸乳",
+        "onboard_time": 1679356465,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 180696,
+        "num": 180696,
+        "word": "乔布斯签名奖牌65.5万元被出售",
+        "onboard_time": 1679365106,
+        "rank": 36,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 174213,
+        "num": 174213,
+        "word": "日本一农村25年才迎来一个新生儿",
+        "onboard_time": 1679336952,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171951,
+        "num": 171951,
+        "word": "另有家属求助称4名孩子在缅甸失联",
+        "onboard_time": 1679363065,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171539,
+        "num": 171539,
+        "word": "把猫猫一把拖进被窝",
+        "onboard_time": 1679324611,
+        "rank": 39,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 166699,
+        "num": 166699,
+        "word": "汤唯韩国导演剪辑奖最佳女演员",
+        "onboard_time": 1679358329,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 166370,
+        "num": 166370,
+        "word": "郑渊洁把白客说哭了",
+        "onboard_time": 1679358809,
+        "rank": 41,
+        "category": "影视,科技"
+      },
+      {
+        "raw_hot": 158820,
+        "num": 158820,
+        "word": "22元大碗面后续店家已退餐费",
+        "onboard_time": 1679357065,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157887,
+        "num": 157887,
+        "word": "司香师",
+        "onboard_time": 1679361389,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 148566,
+        "num": 148566,
+        "word": "春分节气壁纸",
+        "onboard_time": 1679354240,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143113,
+        "num": 143113,
+        "word": "田曦薇三亚路透",
+        "onboard_time": 1679361208,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 142999,
+        "num": 142999,
+        "word": "中俄关系在各自外交全局中占优先地位",
+        "onboard_time": 1679357065,
+        "rank": 46,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 141706,
+        "num": 141706,
+        "word": "女子被姑叔分走15万遗产后遭拉黑",
+        "onboard_time": 1679338392,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136378,
+        "num": 136378,
+        "word": "王鹤棣晒照告别时宴",
+        "onboard_time": 1679356765,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 135270,
+        "num": 135270,
+        "word": "4K视频看春日大美中国",
+        "onboard_time": 1679365947,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对俄罗斯进行国事访问#"
+    }
+  }
+}
