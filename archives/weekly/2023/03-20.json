@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679375819819,
+  "endTime": 1679376812014,
   "band_list": [
     {
       "raw_hot": 7256959,
@@ -8,6 +8,14 @@
       "word": "MU5735事故调查最新情况",
       "onboard_time": 1679310572,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 4463977,
+      "num": 460812,
+      "word": "官方证实大熊猫宝新已去世",
+      "onboard_time": 1679375731,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -123,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1661208,
+      "num": 478646,
+      "word": "南华大学造黄谣男生已被开除",
+      "onboard_time": 1679375013,
+      "rank": 12,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1628996,
       "num": 1628996,
       "word": "原来胃是情绪器官",
@@ -209,14 +225,6 @@
       "onboard_time": 1679277686,
       "rank": 1,
       "category": "科技"
-    },
-    {
-      "raw_hot": 1369471,
-      "num": 478646,
-      "word": "南华大学造黄谣男生已被开除",
-      "onboard_time": 1679375013,
-      "rank": 12,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1353562,
@@ -523,6 +531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 833406,
+      "num": 659542,
+      "word": "还有多少女孩被挂在黄色网站上",
+      "onboard_time": 1679374472,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 818530,
       "num": 818530,
       "word": "中国代表团抵达莫斯科",
@@ -627,6 +643,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 719878,
+      "num": 1306419,
+      "word": "声生不息宝岛季一公分组名单",
+      "onboard_time": 1679370749,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 712725,
       "num": 403449,
       "word": "玲娜贝儿",
@@ -649,14 +673,6 @@
       "onboard_time": 1679361629,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 696508,
-      "num": 696508,
-      "word": "声生不息宝岛季一公分组名单",
-      "onboard_time": 1679370749,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 680947,
@@ -697,14 +713,6 @@
       "onboard_time": 1679369488,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 659542,
-      "num": 659542,
-      "word": "还有多少女孩被挂在黄色网站上",
-      "onboard_time": 1679374472,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 647431,
@@ -899,6 +907,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 573320,
+      "num": 436082,
+      "word": "媒体评年轻人不上课不上进只上香",
+      "onboard_time": 1679374893,
+      "rank": 24,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 571046,
       "num": 571046,
       "word": "男子追砍邻居祖孙俩被老伯制服",
@@ -1043,6 +1059,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 495590,
+      "num": 473415,
+      "word": "冉莹颖称轩轩韧带断裂",
+      "onboard_time": 1679374712,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 493811,
       "num": 493811,
       "word": "以爱为营杀青",
@@ -1099,12 +1123,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 473415,
-      "num": 473415,
-      "word": "冉莹颖称轩轩韧带断裂",
-      "onboard_time": 1679374712,
-      "rank": 14,
-      "category": "体育"
+      "raw_hot": 474001,
+      "num": 474001,
+      "word": "宋妍霏MV男主",
+      "onboard_time": 1679375670,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 473039,
@@ -1235,6 +1259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 432316,
+      "num": 432316,
+      "word": "杏花乌龙拿铁",
+      "onboard_time": 1679373575,
+      "rank": 23,
+      "category": "美食"
+    },
+    {
       "raw_hot": 431028,
       "num": 431028,
       "word": "水瓶座到底在焦虑什么",
@@ -1265,14 +1297,6 @@
       "onboard_time": 1679365706,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 429499,
-      "num": 218343,
-      "word": "官方证实大熊猫宝新已去世",
-      "onboard_time": 1679375731,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 429037,
@@ -1731,14 +1755,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 301435,
-      "num": 301435,
-      "word": "杏花乌龙拿铁",
-      "onboard_time": 1679373575,
-      "rank": 23,
-      "category": "美食"
-    },
-    {
       "raw_hot": 297780,
       "num": 297780,
       "word": "3岁女童患罕见病伴15种并发症",
@@ -1795,20 +1811,20 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 293334,
-      "num": 293334,
-      "word": "媒体评年轻人不上课不上进只上香",
-      "onboard_time": 1679374893,
-      "rank": 24,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 292062,
       "num": 292062,
       "word": "原神",
       "onboard_time": 1679357849,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 291417,
+      "num": 291417,
+      "word": "李莎拉靠眼睛拿下剧本",
+      "onboard_time": 1679375430,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 290560,
@@ -1880,6 +1896,14 @@
       "word": "新Bing可以帮找序列号激活Win11",
       "onboard_time": 1679371048,
       "rank": 27,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 279947,
+      "num": 279947,
+      "word": "文心一言",
+      "onboard_time": 1679375013,
+      "rank": 41,
       "category": "科技"
     },
     {
@@ -2139,6 +2163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 229549,
+      "num": 229549,
+      "word": "东方财富恢复正常登录和交易",
+      "onboard_time": 1679376029,
+      "rank": 31,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 229029,
       "num": 229029,
       "word": "无痛起床试试这些方法",
@@ -2193,14 +2225,6 @@
       "onboard_time": 1679324791,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 224040,
-      "num": 222061,
-      "word": "李莎拉靠眼睛拿下剧本",
-      "onboard_time": 1679375430,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 222327,
@@ -2355,14 +2379,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 206657,
-      "num": 206657,
-      "word": "宋妍霏MV男主",
-      "onboard_time": 1679375670,
-      "rank": 37,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 206530,
       "num": 206530,
       "word": "陈红军家里有张合成的全家福",
@@ -2385,6 +2401,14 @@
       "onboard_time": 1679289509,
       "rank": 33,
       "category": "科技"
+    },
+    {
+      "raw_hot": 204726,
+      "num": 180518,
+      "word": "你支持家暴入刑吗",
+      "onboard_time": 1679376750,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 204309,
@@ -2595,6 +2619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 186367,
+      "num": 186367,
+      "word": "春闺梦里人今日开播",
+      "onboard_time": 1679376210,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 186284,
       "num": 186284,
       "word": "收到红包还不会感谢的有福了",
@@ -2617,14 +2649,6 @@
       "onboard_time": 1679303669,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 185033,
-      "num": 185033,
-      "word": "文心一言",
-      "onboard_time": 1679375013,
-      "rank": 41,
-      "category": "科技"
     },
     {
       "raw_hot": 184810,
@@ -3163,6 +3187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 139189,
+      "num": 139189,
+      "word": "许凯娜扎新剧下证",
+      "onboard_time": 1679376690,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 136929,
       "num": 136929,
       "word": "4K视频看春日大美中国",
@@ -3531,20 +3563,20 @@
       "category": "幽默,影视"
     },
     {
+      "raw_hot": 51017,
+      "num": 194915,
+      "word": "千万网友为撒贝宁点餐",
+      "onboard_time": 1679374829,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 47246,
       "num": 47246,
       "word": "宋茜的泰国游玩vlog",
       "onboard_time": 1679248695,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 45779,
-      "num": 194915,
-      "word": "千万网友为撒贝宁点餐",
-      "onboard_time": 1679374829,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 38472,
