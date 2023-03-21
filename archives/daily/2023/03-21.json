@@ -1,10 +1,10 @@
 {
   "startTime": 1679329653267,
-  "endTime": 1679384018170,
+  "endTime": 1679386972193,
   "band_list": [
     {
       "raw_hot": 4463977,
-      "num": 913247,
+      "num": 1043835,
       "word": "官方证实大熊猫宝新已去世",
       "onboard_time": 1679375731,
       "rank": 32,
@@ -15,6 +15,14 @@
       "num": 837688,
       "word": "杭州杀妻案凶手许国利被执行死刑",
       "onboard_time": 1679367024,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2499276,
+      "num": 1052744,
+      "word": "强奸13岁女孩致死案罪犯被判死刑",
+      "onboard_time": 1679384187,
       "rank": 3,
       "category": "社会新闻"
     },
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 1664660,
-      "num": 987211,
+      "num": 1065627,
       "word": "全红婵",
       "onboard_time": 1679382027,
       "rank": 4,
@@ -160,6 +168,14 @@
       "word": "8小时睡眠论可能是错的",
       "onboard_time": 1679304149,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1043222,
+      "num": 1043222,
+      "word": "女子领生育金被告知丈夫已婚",
+      "onboard_time": 1679381369,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -267,20 +283,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 856261,
+      "num": 410364,
+      "word": "男子上班时请假外出嫖娼被解雇",
+      "onboard_time": 1679384668,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 852550,
-      "num": 404400,
+      "num": 410095,
       "word": "徐明浩回国",
       "onboard_time": 1679379208,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 842808,
-      "num": 842808,
-      "word": "女子领生育金被告知丈夫已婚",
-      "onboard_time": 1679381369,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 833406,
@@ -404,7 +420,7 @@
     },
     {
       "raw_hot": 568373,
-      "num": 959076,
+      "num": 1058647,
       "word": "美国这台战争机器给全球造成伤害",
       "onboard_time": 1679368768,
       "rank": 2,
@@ -563,6 +579,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 442648,
+      "num": 442648,
+      "word": "花花明天要上班了",
+      "onboard_time": 1679383229,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 432316,
       "num": 432316,
       "word": "杏花乌龙拿铁",
@@ -627,6 +651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 409787,
+      "num": 409787,
+      "word": "小朋友感染甲流应该怎么办",
+      "onboard_time": 1679383590,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 396182,
       "num": 396182,
       "word": "文心一言",
@@ -659,6 +691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 378927,
+      "num": 378927,
+      "word": "因狗狗跑错楼主人被母子暴打",
+      "onboard_time": 1679385392,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 369300,
       "num": 369300,
       "word": "王俊凯绿西装怼脸视频",
@@ -673,6 +713,14 @@
       "onboard_time": 1679361927,
       "rank": 13,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 355687,
+      "num": 355687,
+      "word": "郑渊洁希望张颂文不要写作",
+      "onboard_time": 1679383532,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 352607,
@@ -721,6 +769,14 @@
       "onboard_time": 1679377109,
       "rank": 15,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 332104,
+      "num": 332104,
+      "word": "大学生已经在为五一做准备了",
+      "onboard_time": 1679385932,
+      "rank": 16,
+      "category": "教育,幽默"
     },
     {
       "raw_hot": 327434,
@@ -819,6 +875,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 283634,
+      "num": 283634,
+      "word": "全红婵完美407C",
+      "onboard_time": 1679383351,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 281976,
       "num": 281976,
       "word": "男子3万块钱车被13万停车费吓到",
@@ -867,6 +931,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 251968,
+      "num": 251968,
+      "word": "红双喜",
+      "onboard_time": 1679386228,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 251847,
       "num": 251847,
       "word": "电视剧他是谁",
@@ -883,12 +955,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 248722,
-      "num": 186485,
-      "word": "郑渊洁希望张颂文不要写作",
-      "onboard_time": 1679383532,
-      "rank": 30,
-      "category": "影视"
+      "raw_hot": 246525,
+      "num": 246525,
+      "word": "一诺暖阳Cat出席微博之夜",
+      "onboard_time": 1679384970,
+      "rank": 24,
+      "category": "作品衍生,游戏"
+    },
+    {
+      "raw_hot": 245419,
+      "num": 245419,
+      "word": "陈芋汐女子十米台冠军",
+      "onboard_time": 1679383951,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 241751,
@@ -897,14 +977,6 @@
       "onboard_time": 1679359589,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 241110,
-      "num": 186432,
-      "word": "全红婵完美407C",
-      "onboard_time": 1679383351,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 240845,
@@ -1027,12 +1099,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 212079,
+      "num": 212079,
+      "word": "云南一男子接种男性9价HPV疫苗",
+      "onboard_time": 1679386052,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 207694,
       "num": 207694,
       "word": "虞书欣假装度假vlog",
       "onboard_time": 1679360908,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 207651,
+      "num": 207651,
+      "word": "黑暗荣耀演员们4K无滤镜无美颜",
+      "onboard_time": 1679386169,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 203005,
@@ -1105,6 +1193,22 @@
       "onboard_time": 1679372552,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 193774,
+      "num": 212702,
+      "word": "OPPO钻石屏",
+      "onboard_time": 1679385690,
+      "rank": 28,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 193087,
+      "num": 275301,
+      "word": "FindX6发布会",
+      "onboard_time": 1679386110,
+      "rank": 19,
+      "category": "科技"
     },
     {
       "raw_hot": 192539,
@@ -1203,6 +1307,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 166507,
+      "num": 166507,
+      "word": "这部电影把反黄谣搬上银幕",
+      "onboard_time": 1679383829,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 166181,
+      "num": 166181,
+      "word": "张家齐",
+      "onboard_time": 1679386770,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 164852,
       "num": 164852,
       "word": "勇士结束客场11连败",
@@ -1219,14 +1339,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 157441,
-      "num": 142202,
-      "word": "陈芋汐女子十米台冠军",
-      "onboard_time": 1679383951,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 156549,
       "num": 156549,
       "word": "陈晓李沁为贴近角色化黑妆",
@@ -1241,14 +1353,6 @@
       "onboard_time": 1679382209,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 152913,
-      "num": 152913,
-      "word": "小朋友感染甲流应该怎么办",
-      "onboard_time": 1679383590,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 151925,
@@ -1363,6 +1467,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 128563,
+      "num": 128563,
+      "word": "春天的第一朵花",
+      "onboard_time": 1679384491,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 127529,
       "num": 127529,
       "word": "开多少种花才算一个春天",
@@ -1417,14 +1529,6 @@
       "onboard_time": 1679321731,
       "rank": 33,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 114590,
-      "num": 114590,
-      "word": "这部电影把反黄谣搬上银幕",
-      "onboard_time": 1679383829,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 113729,
@@ -1588,7 +1692,7 @@
     },
     {
       "raw_hot": 82858,
-      "num": 1000990,
+      "num": 1067035,
       "word": "开启友谊合作与和平之旅",
       "onboard_time": 1679380709,
       "rank": 0,
