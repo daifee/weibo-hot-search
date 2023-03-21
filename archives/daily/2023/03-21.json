@@ -1,6 +1,6 @@
 {
   "startTime": 1679329653267,
-  "endTime": 1679372453777,
+  "endTime": 1679373334228,
   "band_list": [
     {
       "raw_hot": 3790458,
@@ -19,12 +19,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1945945,
+      "num": 1945945,
+      "word": "睡觉时穿袜子更容易睡着",
+      "onboard_time": 1679371530,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1666717,
       "num": 1666717,
       "word": "春分",
       "onboard_time": 1679353638,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1512648,
+      "num": 729212,
+      "word": "南华大学回应网传男生造女生黄谣",
+      "onboard_time": 1679368408,
+      "rank": 30,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1508369,
@@ -43,20 +59,20 @@
       "category": "体育,网红"
     },
     {
-      "raw_hot": 1370295,
-      "num": 729212,
-      "word": "南华大学回应网传男生造女生黄谣",
-      "onboard_time": 1679368408,
-      "rank": 30,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 1231999,
       "num": 1231999,
       "word": "咖啡排骨",
       "onboard_time": 1679369787,
       "rank": 0,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1196247,
+      "num": 764940,
+      "word": "南华大学造女生黄谣男生已保研",
+      "onboard_time": 1679372431,
+      "rank": 46,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1159696,
@@ -163,14 +179,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 804714,
-      "num": 804714,
-      "word": "睡觉时穿袜子更容易睡着",
-      "onboard_time": 1679371530,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 774744,
       "num": 444591,
       "word": "东方财富",
@@ -195,8 +203,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 677873,
-      "num": 677873,
+      "raw_hot": 684165,
+      "num": 684165,
       "word": "声生不息宝岛季一公分组名单",
       "onboard_time": 1679370749,
       "rank": 5,
@@ -235,6 +243,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 624734,
+      "num": 466165,
+      "word": "日媒称岸田文雄正前往基辅",
+      "onboard_time": 1679370208,
+      "rank": 11,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 599836,
       "num": 599836,
       "word": "大侦探木偶复仇记剧照",
@@ -259,16 +275,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 568476,
-      "num": 465232,
-      "word": "日媒称岸田文雄正前往基辅",
-      "onboard_time": 1679370208,
-      "rank": 11,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 568373,
-      "num": 742313,
+      "num": 826048,
       "word": "美国这台战争机器给全球造成伤害",
       "onboard_time": 1679368768,
       "rank": 2,
@@ -379,8 +387,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 431310,
-      "num": 431310,
+      "raw_hot": 447083,
+      "num": 447083,
       "word": "杭州杀妻碎尸案案件梳理",
       "onboard_time": 1679370627,
       "rank": 13,
@@ -499,6 +507,14 @@
       "category": "影视,科技"
     },
     {
+      "raw_hot": 311253,
+      "num": 311253,
+      "word": "杨迪在高铁站被问是不是学生",
+      "onboard_time": 1679373213,
+      "rank": 22,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 309590,
       "num": 309590,
       "word": "苏州人有多爱刀鱼馄饨",
@@ -555,20 +571,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 281594,
+      "num": 281594,
+      "word": "新Bing可以帮找序列号激活Win11",
+      "onboard_time": 1679371048,
+      "rank": 27,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 277717,
+      "num": 277717,
+      "word": "老默说要请网友吃鱼",
+      "onboard_time": 1679369667,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 260199,
       "num": 260199,
       "word": "蔚来发布实习生事件调查报告",
       "onboard_time": 1679321312,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 256749,
-      "num": 256749,
-      "word": "老默说要请网友吃鱼",
-      "onboard_time": 1679369667,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 253695,
@@ -579,12 +603,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 252896,
-      "num": 252896,
-      "word": "新Bing可以帮找序列号激活Win11",
-      "onboard_time": 1679371048,
-      "rank": 27,
-      "category": "科技"
+      "raw_hot": 251847,
+      "num": 251847,
+      "word": "电视剧他是谁",
+      "onboard_time": 1679357728,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 249650,
@@ -617,14 +641,6 @@
       "onboard_time": 1679361208,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 240783,
-      "num": 240783,
-      "word": "电视剧他是谁",
-      "onboard_time": 1679357728,
-      "rank": 37,
-      "category": "影视"
     },
     {
       "raw_hot": 237644,
@@ -691,6 +707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203005,
+      "num": 203005,
+      "word": "刘诗诗加盟微博之夜",
+      "onboard_time": 1679372495,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 200960,
       "num": 200960,
       "word": "乔布斯签名奖牌65.5万元被出售",
@@ -723,12 +747,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 194289,
+      "num": 194289,
+      "word": "eStarDYG决战乒乓之巅",
+      "onboard_time": 1679372552,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 192539,
       "num": 192539,
       "word": "春分节气壁纸",
       "onboard_time": 1679354240,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 186284,
+      "num": 186284,
+      "word": "收到红包还不会感谢的有福了",
+      "onboard_time": 1679371530,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 184810,
@@ -755,6 +795,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 182947,
+      "num": 182947,
+      "word": "黑暗荣耀河艺率画报",
+      "onboard_time": 1679372970,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 177408,
       "num": 177408,
       "word": "另有家属求助称4名孩子在缅甸失联",
@@ -771,8 +819,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 171163,
-      "num": 171163,
+      "raw_hot": 172922,
+      "num": 172922,
       "word": "春分后必吃三道菜必做两件事",
       "onboard_time": 1679369068,
       "rank": 39,
@@ -811,14 +859,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 152298,
-      "num": 152298,
-      "word": "收到红包还不会感谢的有福了",
-      "onboard_time": 1679371530,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 151925,
       "num": 151925,
       "word": "春分立蛋",
@@ -833,6 +873,14 @@
       "onboard_time": 1679367447,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 148786,
+      "num": 148786,
+      "word": "突然想找份保安的工作",
+      "onboard_time": 1679369908,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 147814,
@@ -859,14 +907,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 145195,
-      "num": 145195,
-      "word": "突然想找份保安的工作",
-      "onboard_time": 1679369908,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 143892,
       "num": 143892,
       "word": "断糖对人会有什么影响",
@@ -881,14 +921,6 @@
       "onboard_time": 1679314110,
       "rank": 28,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 139064,
-      "num": 139064,
-      "word": "南华大学造女生黄谣男生已保研",
-      "onboard_time": 1679372431,
-      "rank": 46,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 136929,

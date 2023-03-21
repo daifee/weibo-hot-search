@@ -1,0 +1,410 @@
+{
+  "runTime": 1679373334228,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1945945,
+        "num": 1945945,
+        "word": "睡觉时穿袜子更容易睡着",
+        "onboard_time": 1679371530,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1112363,
+        "num": 1112363,
+        "word": "咖啡排骨",
+        "onboard_time": 1679369787,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 506001,
+        "num": 826048,
+        "word": "美国这台战争机器给全球造成伤害",
+        "onboard_time": 1679368768,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1196247,
+        "num": 764940,
+        "word": "南华大学造女生黄谣男生已保研",
+        "onboard_time": 1679372431,
+        "rank": 3,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 684165,
+        "num": 684165,
+        "word": "声生不息宝岛季一公分组名单",
+        "onboard_time": 1679370749,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1512648,
+        "num": 668304,
+        "word": "南华大学回应网传男生造女生黄谣",
+        "onboard_time": 1679368408,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 641978,
+        "num": 641978,
+        "word": "李秀满不希望HYBE拿走经营权的原因",
+        "onboard_time": 1679369488,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 572574,
+        "num": 572574,
+        "word": "周杰伦门票",
+        "onboard_time": 1679365586,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 555993,
+        "num": 555993,
+        "word": "大侦探木偶复仇记剧照",
+        "onboard_time": 1679368348,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 472350,
+        "num": 472350,
+        "word": "苹果iPhone15Pro设计图曝光",
+        "onboard_time": 1679363424,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 2181228,
+        "num": 470915,
+        "word": "杭州杀妻案凶手许国利被执行死刑",
+        "onboard_time": 1679367024,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 624734,
+        "num": 466165,
+        "word": "日媒称岸田文雄正前往基辅",
+        "onboard_time": 1679370208,
+        "rank": 11,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 453456,
+        "num": 453456,
+        "word": "王一博 微博之夜",
+        "onboard_time": 1679363727,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 447083,
+        "num": 447083,
+        "word": "杭州杀妻碎尸案案件梳理",
+        "onboard_time": 1679370627,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 447192,
+        "num": 429979,
+        "word": "微博之夜",
+        "onboard_time": 1679367568,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 373489,
+        "num": 373489,
+        "word": "为什么不建议婚后和父母住",
+        "onboard_time": 1679324312,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 422590,
+        "num": 367612,
+        "word": "明星微博之夜邀请函VCR",
+        "onboard_time": 1679372132,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 361385,
+        "num": 361385,
+        "word": "缅甸遭绑架女店员被放回",
+        "onboard_time": 1679359170,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337366,
+        "num": 337366,
+        "word": "王俊凯绿西装怼脸视频",
+        "onboard_time": 1679371350,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 317868,
+        "num": 317868,
+        "word": "中方回应国际刑事法院对普京逮捕令",
+        "onboard_time": 1679373272,
+        "rank": 19,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1704678,
+        "num": 314689,
+        "word": "张隆李梦 结婚",
+        "onboard_time": 1679356406,
+        "rank": 20,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 311369,
+        "num": 311369,
+        "word": "归路收视率下跌",
+        "onboard_time": 1679362286,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 311253,
+        "num": 311253,
+        "word": "杨迪在高铁站被问是不是学生",
+        "onboard_time": 1679373213,
+        "rank": 22,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 290518,
+        "num": 290518,
+        "word": "雨刷器腿",
+        "onboard_time": 1679363246,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 281594,
+        "num": 281594,
+        "word": "新Bing可以帮找序列号激活Win11",
+        "onboard_time": 1679371048,
+        "rank": 24,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 277717,
+        "num": 277717,
+        "word": "老默说要请网友吃鱼",
+        "onboard_time": 1679369667,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 262838,
+        "num": 262838,
+        "word": "光遇",
+        "onboard_time": 1679371288,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 259195,
+        "num": 259195,
+        "word": "苏州人有多爱刀鱼馄饨",
+        "onboard_time": 1679367687,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 251847,
+        "num": 251847,
+        "word": "电视剧他是谁",
+        "onboard_time": 1679357728,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 250931,
+        "num": 250931,
+        "word": "广东人上床睡觉时间全国最晚",
+        "onboard_time": 1679329882,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247178,
+        "num": 247178,
+        "word": "3岁女童患罕见病伴15种并发症",
+        "onboard_time": 1679367208,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227982,
+        "num": 227982,
+        "word": "谷爱凌落地上海直奔健身房",
+        "onboard_time": 1679357788,
+        "rank": 31,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 212702,
+        "num": 212702,
+        "word": "张俪海边一字马",
+        "onboard_time": 1679365706,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203005,
+        "num": 203005,
+        "word": "刘诗诗加盟微博之夜",
+        "onboard_time": 1679372495,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 198578,
+        "num": 198578,
+        "word": "林宥嘉演唱会",
+        "onboard_time": 1679367868,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 196509,
+        "num": 196509,
+        "word": "243万元存款被挪用当事人发声",
+        "onboard_time": 1679358809,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194895,
+        "num": 194895,
+        "word": "新版出生医学证明4月1日启用",
+        "onboard_time": 1679357669,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194289,
+        "num": 194289,
+        "word": "eStarDYG决战乒乓之巅",
+        "onboard_time": 1679372552,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 187466,
+        "num": 187466,
+        "word": "半熟恋人",
+        "onboard_time": 1679371108,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186284,
+        "num": 186284,
+        "word": "收到红包还不会感谢的有福了",
+        "onboard_time": 1679371530,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 182947,
+        "num": 182947,
+        "word": "黑暗荣耀河艺率画报",
+        "onboard_time": 1679372970,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 182146,
+        "num": 182146,
+        "word": "IU朴叙俊新片预告",
+        "onboard_time": 1679364566,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 174968,
+        "num": 174968,
+        "word": "啥家庭啊给狗买皮肤",
+        "onboard_time": 1679362948,
+        "rank": 42,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 172922,
+        "num": 172922,
+        "word": "春分后必吃三道菜必做两件事",
+        "onboard_time": 1679369068,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 154845,
+        "num": 154845,
+        "word": "春分该吃什么",
+        "onboard_time": 1679355262,
+        "rank": 44,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 158396,
+        "num": 152019,
+        "word": "WBG发文抵制私生",
+        "onboard_time": 1679361927,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 293675,
+        "num": 151082,
+        "word": "北京为全国最能熬夜城市",
+        "onboard_time": 1679361629,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148786,
+        "num": 148786,
+        "word": "突然想找份保安的工作",
+        "onboard_time": 1679369908,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 157275,
+        "num": 148318,
+        "word": "90后小伙因长得老气专骗70后阿姨",
+        "onboard_time": 1679334734,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147753,
+        "num": 147753,
+        "word": "唐嫣加盟微博之夜",
+        "onboard_time": 1679368527,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席出访俄罗斯#"
+    }
+  }
+}

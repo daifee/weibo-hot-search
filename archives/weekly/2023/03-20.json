@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679372453777,
+  "endTime": 1679373334228,
   "band_list": [
     {
       "raw_hot": 7256959,
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1945945,
+      "num": 1945945,
+      "word": "睡觉时穿袜子更容易睡着",
+      "onboard_time": 1679371530,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1812649,
       "num": 1812649,
       "word": "导师给我的论文批注",
@@ -113,6 +121,14 @@
       "onboard_time": 1679280628,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1512648,
+      "num": 729212,
+      "word": "南华大学回应网传男生造女生黄谣",
+      "onboard_time": 1679368408,
+      "rank": 30,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1508369,
@@ -179,14 +195,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 1370295,
-      "num": 729212,
-      "word": "南华大学回应网传男生造女生黄谣",
-      "onboard_time": 1679368408,
-      "rank": 30,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 1353562,
       "num": 400781,
       "word": "情侣住江景房裸身开窗帘被看光",
@@ -225,6 +233,14 @@
       "onboard_time": 1679369787,
       "rank": 0,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1196247,
+      "num": 764940,
+      "word": "南华大学造女生黄谣男生已保研",
+      "onboard_time": 1679372431,
+      "rank": 46,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1182964,
@@ -507,14 +523,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 804714,
-      "num": 804714,
-      "word": "睡觉时穿袜子更容易睡着",
-      "onboard_time": 1679371530,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 794811,
       "num": 794811,
       "word": "报告称中国人幸福感全球最高",
@@ -619,20 +627,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 684165,
+      "num": 684165,
+      "word": "声生不息宝岛季一公分组名单",
+      "onboard_time": 1679370749,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 680947,
       "num": 492574,
       "word": "Lisa机场素颜照",
       "onboard_time": 1679288193,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 677873,
-      "num": 677873,
-      "word": "声生不息宝岛季一公分组名单",
-      "onboard_time": 1679370749,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 672519,
@@ -713,6 +721,14 @@
       "onboard_time": 1679314110,
       "rank": 8,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 624734,
+      "num": 466165,
+      "word": "日媒称岸田文雄正前往基辅",
+      "onboard_time": 1679370208,
+      "rank": 11,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 618937,
@@ -859,16 +875,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 568476,
-      "num": 465232,
-      "word": "日媒称岸田文雄正前往基辅",
-      "onboard_time": 1679370208,
-      "rank": 11,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 568373,
-      "num": 742313,
+      "num": 826048,
       "word": "美国这台战争机器给全球造成伤害",
       "onboard_time": 1679368768,
       "rank": 2,
@@ -1147,6 +1155,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 447083,
+      "num": 447083,
+      "word": "杭州杀妻碎尸案案件梳理",
+      "onboard_time": 1679370627,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 446853,
       "num": 446853,
       "word": "以最残忍的方式羞辱钓鱼佬",
@@ -1169,14 +1185,6 @@
       "onboard_time": 1679294068,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 431310,
-      "num": 431310,
-      "word": "杭州杀妻碎尸案案件梳理",
-      "onboard_time": 1679370627,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 431028,
@@ -1603,6 +1611,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 311253,
+      "num": 311253,
+      "word": "杨迪在高铁站被问是不是学生",
+      "onboard_time": 1679373213,
+      "rank": 22,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 310043,
       "num": 310043,
       "word": "哪吒2预计于明年上映",
@@ -1779,6 +1795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 281594,
+      "num": 281594,
+      "word": "新Bing可以帮找序列号激活Win11",
+      "onboard_time": 1679371048,
+      "rank": 27,
+      "category": "科技"
+    },
+    {
       "raw_hot": 279520,
       "num": 285576,
       "word": "张远官宣加盟毛雪汪",
@@ -1793,6 +1817,14 @@
       "onboard_time": 1679284112,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 277717,
+      "num": 277717,
+      "word": "老默说要请网友吃鱼",
+      "onboard_time": 1679369667,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 275645,
@@ -1859,14 +1891,6 @@
       "category": "作品衍生,社会新闻"
     },
     {
-      "raw_hot": 256749,
-      "num": 256749,
-      "word": "老默说要请网友吃鱼",
-      "onboard_time": 1679369667,
-      "rank": 26,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 253695,
       "num": 253695,
       "word": "云胡不喜女主 宋元",
@@ -1875,20 +1899,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 252896,
-      "num": 252896,
-      "word": "新Bing可以帮找序列号激活Win11",
-      "onboard_time": 1679371048,
-      "rank": 27,
-      "category": "科技"
-    },
-    {
       "raw_hot": 252626,
       "num": 252626,
       "word": "直播平台回应苏州杀夫女子打赏金额",
       "onboard_time": 1679277926,
       "rank": 18,
       "category": "社会负面,科技"
+    },
+    {
+      "raw_hot": 251847,
+      "num": 251847,
+      "word": "电视剧他是谁",
+      "onboard_time": 1679357728,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 250696,
@@ -1985,14 +2009,6 @@
       "onboard_time": 1679361208,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 240783,
-      "num": 240783,
-      "word": "电视剧他是谁",
-      "onboard_time": 1679357728,
-      "rank": 37,
-      "category": "影视"
     },
     {
       "raw_hot": 240159,
@@ -2291,6 +2307,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 203005,
+      "num": 203005,
+      "word": "刘诗诗加盟微博之夜",
+      "onboard_time": 1679372495,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 202988,
       "num": 202988,
       "word": "姐姐4招募观众",
@@ -2387,6 +2411,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 194289,
+      "num": 194289,
+      "word": "eStarDYG决战乒乓之巅",
+      "onboard_time": 1679372552,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 193949,
       "num": 193949,
       "word": "毛雪汪",
@@ -2451,6 +2483,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 186284,
+      "num": 186284,
+      "word": "收到红包还不会感谢的有福了",
+      "onboard_time": 1679371530,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 185145,
       "num": 185145,
       "word": "湖人战胜魔术",
@@ -2489,6 +2529,14 @@
       "onboard_time": 1679366247,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 182947,
+      "num": 182947,
+      "word": "黑暗荣耀河艺率画报",
+      "onboard_time": 1679372970,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 182855,
@@ -2603,6 +2651,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 172922,
+      "num": 172922,
+      "word": "春分后必吃三道菜必做两件事",
+      "onboard_time": 1679369068,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 172705,
       "num": 172705,
       "word": "什么都嗑只会让我营养均衡",
@@ -2617,14 +2673,6 @@
       "onboard_time": 1679280028,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 171163,
-      "num": 171163,
-      "word": "春分后必吃三道菜必做两件事",
-      "onboard_time": 1679369068,
-      "rank": 39,
-      "category": "美食"
     },
     {
       "raw_hot": 170276,
@@ -2795,14 +2843,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 152298,
-      "num": 152298,
-      "word": "收到红包还不会感谢的有福了",
-      "onboard_time": 1679371530,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 151925,
       "num": 151925,
       "word": "春分立蛋",
@@ -2849,6 +2889,14 @@
       "onboard_time": 1679288135,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 148786,
+      "num": 148786,
+      "word": "突然想找份保安的工作",
+      "onboard_time": 1679369908,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 148395,
@@ -2923,14 +2971,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 145195,
-      "num": 145195,
-      "word": "突然想找份保安的工作",
-      "onboard_time": 1679369908,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 144717,
       "num": 144717,
       "word": "窗边的小豆豆动画电影化",
@@ -3001,14 +3041,6 @@
       "onboard_time": 1679213848,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 139064,
-      "num": 139064,
-      "word": "南华大学造女生黄谣男生已保研",
-      "onboard_time": 1679372431,
-      "rank": 46,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 136929,
