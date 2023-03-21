@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679382970799,
+  "endTime": 1679384018170,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 4463977,
-      "num": 770096,
+      "num": 913247,
       "word": "官方证实大熊猫宝新已去世",
       "onboard_time": 1679375731,
       "rank": 32,
@@ -1609,6 +1609,14 @@
       "onboard_time": 1678238066,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1664660,
+      "num": 987211,
+      "word": "全红婵",
+      "onboard_time": 1679382027,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 1664004,
@@ -3628,7 +3636,7 @@
     },
     {
       "raw_hot": 1107687,
-      "num": 805563,
+      "num": 848474,
       "word": "普京宣布免除超200亿美元非洲债务",
       "onboard_time": 1679378969,
       "rank": 30,
@@ -4315,6 +4323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1019526,
+      "num": 876788,
+      "word": "杨紫范丞丞牵手路透",
+      "onboard_time": 1679383351,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1017499,
       "num": 581757,
       "word": "林孝埈",
@@ -4907,6 +4923,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 954070,
+      "num": 227235,
+      "word": "苏州杀夫藏尸案死者母亲发声",
+      "onboard_time": 1679379329,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 953934,
       "num": 238767,
       "word": "才被硅谷银行录取就失业了",
@@ -5057,14 +5081,6 @@
       "onboard_time": 1679106267,
       "rank": 27,
       "category": "财经"
-    },
-    {
-      "raw_hot": 930459,
-      "num": 227235,
-      "word": "苏州杀夫藏尸案死者母亲发声",
-      "onboard_time": 1679379329,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 928046,
@@ -6033,6 +6049,14 @@
       "onboard_time": 1678537348,
       "rank": 22,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 842808,
+      "num": 842808,
+      "word": "女子领生育金被告知丈夫已婚",
+      "onboard_time": 1679381369,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 841523,
@@ -7081,14 +7105,6 @@
       "onboard_time": 1679215588,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 759007,
-      "num": 759007,
-      "word": "全红婵",
-      "onboard_time": 1679382027,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 758844,
@@ -10684,7 +10700,7 @@
     },
     {
       "raw_hot": 568373,
-      "num": 826048,
+      "num": 959076,
       "word": "美国这台战争机器给全球造成伤害",
       "onboard_time": 1679368768,
       "rank": 2,
@@ -11857,14 +11873,6 @@
       "onboard_time": 1678621407,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 525910,
-      "num": 342308,
-      "word": "女子领生育金被告知丈夫已婚",
-      "onboard_time": 1679381369,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 525787,
@@ -15059,6 +15067,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 429083,
+      "num": 429083,
+      "word": "OPPO",
+      "onboard_time": 1679380108,
+      "rank": 26,
+      "category": "科技"
+    },
+    {
       "raw_hot": 429037,
       "num": 429037,
       "word": "NIP对战RNG",
@@ -17987,14 +18003,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 357900,
-      "num": 357900,
-      "word": "OPPO",
-      "onboard_time": 1679380108,
-      "rank": 26,
-      "category": "科技"
-    },
-    {
       "raw_hot": 357868,
       "num": 357868,
       "word": "黄宗泽调侃自己已经不是原来的哥了",
@@ -18537,6 +18545,14 @@
       "onboard_time": 1678491439,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 347949,
+      "num": 347949,
+      "word": "杨幂起诉网友侵权案将开庭",
+      "onboard_time": 1679381848,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 347841,
@@ -19089,14 +19105,6 @@
       "onboard_time": 1678858647,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 336769,
-      "num": 336769,
-      "word": "杨幂起诉网友侵权案将开庭",
-      "onboard_time": 1679381848,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 336147,
@@ -20723,6 +20731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 306841,
+      "num": 306841,
+      "word": "泷泽秀明成立娱乐公司",
+      "onboard_time": 1679383289,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 306723,
       "num": 306723,
       "word": "全圆佑跳Attention",
@@ -21737,6 +21753,14 @@
       "onboard_time": 1678281868,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 286848,
+      "num": 286848,
+      "word": "小朋友真的把姐姐写进作文了",
+      "onboard_time": 1679380466,
+      "rank": 48,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 286712,
@@ -24019,6 +24043,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 248722,
+      "num": 186485,
+      "word": "郑渊洁希望张颂文不要写作",
+      "onboard_time": 1679383532,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 248715,
       "num": 248715,
       "word": "你好星期六cp大乱炖",
@@ -24529,6 +24561,14 @@
       "onboard_time": 1678011686,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 241110,
+      "num": 186432,
+      "word": "全红婵完美407C",
+      "onboard_time": 1679383351,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 241069,
@@ -25577,14 +25617,6 @@
       "onboard_time": 1678969472,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 227564,
-      "num": 227564,
-      "word": "小朋友真的把姐姐写进作文了",
-      "onboard_time": 1679380466,
-      "rank": 48,
-      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 227518,
@@ -28435,6 +28467,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 202128,
+      "num": 202128,
+      "word": "FindX6暗光长焦有何优势",
+      "onboard_time": 1679383532,
+      "rank": 19,
+      "category": "科技"
+    },
+    {
       "raw_hot": 202117,
       "num": 209232,
       "word": "这大姨可以去说脱口秀了",
@@ -29769,6 +29809,14 @@
       "onboard_time": 1679188707,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 195111,
+      "num": 195111,
+      "word": "华晨宇演唱会杭州成都双城加场",
+      "onboard_time": 1679384009,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 195072,
@@ -32515,6 +32563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 172062,
+      "num": 172062,
+      "word": "刘作虎称全主摄时代来了",
+      "onboard_time": 1679382570,
+      "rank": 40,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 172039,
       "num": 1109245,
       "word": "3岁跆拳道宝宝展示超萌空翻",
@@ -34003,6 +34059,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 157441,
+      "num": 142202,
+      "word": "陈芋汐女子十米台冠军",
+      "onboard_time": 1679383951,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157434,
       "num": 157434,
       "word": "秦刚答记者问",
@@ -34369,6 +34433,14 @@
       "onboard_time": 1677595293,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 152913,
+      "num": 152913,
+      "word": "小朋友感染甲流应该怎么办",
+      "onboard_time": 1679383590,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 152906,
@@ -35995,6 +36067,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 138862,
+      "num": 138862,
+      "word": "这东西已经发明出来了吗",
+      "onboard_time": 1679381488,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 138794,
       "num": 138794,
       "word": "叶诗文说想在杭州亚运会拿冠军",
@@ -36313,14 +36393,6 @@
       "onboard_time": 1677626903,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 136142,
-      "num": 136142,
-      "word": "这东西已经发明出来了吗",
-      "onboard_time": 1679381488,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 136129,
@@ -36921,14 +36993,6 @@
       "onboard_time": 1677977422,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 130831,
-      "num": 130831,
-      "word": "刘作虎称全主摄时代来了",
-      "onboard_time": 1679382570,
-      "rank": 40,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 130812,
@@ -38361,6 +38425,14 @@
       "onboard_time": 1678358127,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114590,
+      "num": 114590,
+      "word": "这部电影把反黄谣搬上银幕",
+      "onboard_time": 1679383829,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 114567,
@@ -40547,6 +40619,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 82858,
+      "num": 1000990,
+      "word": "开启友谊合作与和平之旅",
+      "onboard_time": 1679380709,
+      "rank": 0,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 82838,
       "num": 1399550,
       "word": "9图了解政协知识点",
@@ -40945,14 +41025,6 @@
       "onboard_time": 1677870552,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 72089,
-      "num": 814409,
-      "word": "开启友谊合作与和平之旅",
-      "onboard_time": 1679380709,
-      "rank": 0,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 71947,

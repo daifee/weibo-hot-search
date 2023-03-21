@@ -1,10 +1,10 @@
 {
   "startTime": 1679329653267,
-  "endTime": 1679382970799,
+  "endTime": 1679384018170,
   "band_list": [
     {
       "raw_hot": 4463977,
-      "num": 770096,
+      "num": 913247,
       "word": "官方证实大熊猫宝新已去世",
       "onboard_time": 1679375731,
       "rank": 32,
@@ -57,6 +57,14 @@
       "onboard_time": 1679353638,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1664660,
+      "num": 987211,
+      "word": "全红婵",
+      "onboard_time": 1679382027,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 1661208,
@@ -124,7 +132,7 @@
     },
     {
       "raw_hot": 1107687,
-      "num": 805563,
+      "num": 848474,
       "word": "普京宣布免除超200亿美元非洲债务",
       "onboard_time": 1679378969,
       "rank": 30,
@@ -163,6 +171,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1019526,
+      "num": 876788,
+      "word": "杨紫范丞丞牵手路透",
+      "onboard_time": 1679383351,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1013358,
       "num": 1013358,
       "word": "周杰伦门票",
@@ -179,7 +195,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 930459,
+      "raw_hot": 954070,
       "num": 227235,
       "word": "苏州杀夫藏尸案死者母亲发声",
       "onboard_time": 1679379329,
@@ -259,6 +275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 842808,
+      "num": 842808,
+      "word": "女子领生育金被告知丈夫已婚",
+      "onboard_time": 1679381369,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 833406,
       "num": 659542,
       "word": "还有多少女孩被挂在黄色网站上",
@@ -281,14 +305,6 @@
       "onboard_time": 1679363727,
       "rank": 9,
       "category": "财经"
-    },
-    {
-      "raw_hot": 759007,
-      "num": 759007,
-      "word": "全红婵",
-      "onboard_time": 1679382027,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 755249,
@@ -388,7 +404,7 @@
     },
     {
       "raw_hot": 568373,
-      "num": 826048,
+      "num": 959076,
       "word": "美国这台战争机器给全球造成伤害",
       "onboard_time": 1679368768,
       "rank": 2,
@@ -425,14 +441,6 @@
       "onboard_time": 1679358329,
       "rank": 10,
       "category": "影视"
-    },
-    {
-      "raw_hot": 525910,
-      "num": 342308,
-      "word": "女子领生育金被告知丈夫已婚",
-      "onboard_time": 1679381369,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 520623,
@@ -571,6 +579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 429083,
+      "num": 429083,
+      "word": "OPPO",
+      "onboard_time": 1679380108,
+      "rank": 26,
+      "category": "科技"
+    },
+    {
       "raw_hot": 426096,
       "num": 399121,
       "word": "张兰前直播运营团队回应集体离职",
@@ -659,14 +675,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 357900,
-      "num": 357900,
-      "word": "OPPO",
-      "onboard_time": 1679380108,
-      "rank": 26,
-      "category": "科技"
-    },
-    {
       "raw_hot": 352607,
       "num": 352607,
       "word": "优酸乳",
@@ -683,6 +691,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 347949,
+      "num": 347949,
+      "word": "杨幂起诉网友侵权案将开庭",
+      "onboard_time": 1679381848,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 345425,
       "num": 345425,
       "word": "那英说和马嘉祺是儿子和妈组合",
@@ -697,14 +713,6 @@
       "onboard_time": 1679367868,
       "rank": 21,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 336769,
-      "num": 336769,
-      "word": "杨幂起诉网友侵权案将开庭",
-      "onboard_time": 1679381848,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 333028,
@@ -755,6 +763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 306841,
+      "num": 306841,
+      "word": "泷泽秀明成立娱乐公司",
+      "onboard_time": 1679383289,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 306127,
       "num": 306127,
       "word": "东航",
@@ -793,6 +809,14 @@
       "onboard_time": 1679359227,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 286848,
+      "num": 286848,
+      "word": "小朋友真的把姐姐写进作文了",
+      "onboard_time": 1679380466,
+      "rank": 48,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 281976,
@@ -859,12 +883,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 248722,
+      "num": 186485,
+      "word": "郑渊洁希望张颂文不要写作",
+      "onboard_time": 1679383532,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 241751,
       "num": 241751,
       "word": "郭麒麟有接电话恐惧",
       "onboard_time": 1679359589,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 241110,
+      "num": 186432,
+      "word": "全红婵完美407C",
+      "onboard_time": 1679383351,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 240845,
@@ -921,14 +961,6 @@
       "onboard_time": 1679357190,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 227564,
-      "num": 227564,
-      "word": "小朋友真的把姐姐写进作文了",
-      "onboard_time": 1679380466,
-      "rank": 48,
-      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 224120,
@@ -1011,6 +1043,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 202128,
+      "num": 202128,
+      "word": "FindX6暗光长焦有何优势",
+      "onboard_time": 1679383532,
+      "rank": 19,
+      "category": "科技"
+    },
+    {
       "raw_hot": 201933,
       "num": 201933,
       "word": "中国人十年睡眠变化",
@@ -1049,6 +1089,14 @@
       "onboard_time": 1679314413,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 195111,
+      "num": 195111,
+      "word": "华晨宇演唱会杭州成都双城加场",
+      "onboard_time": 1679384009,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 194289,
@@ -1139,6 +1187,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 172062,
+      "num": 172062,
+      "word": "刘作虎称全主摄时代来了",
+      "onboard_time": 1679382570,
+      "rank": 40,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 167809,
       "num": 167809,
       "word": "TT官宣iBoy",
@@ -1163,6 +1219,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 157441,
+      "num": 142202,
+      "word": "陈芋汐女子十米台冠军",
+      "onboard_time": 1679383951,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 156549,
       "num": 156549,
       "word": "陈晓李沁为贴近角色化黑妆",
@@ -1177,6 +1241,14 @@
       "onboard_time": 1679382209,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 152913,
+      "num": 152913,
+      "word": "小朋友感染甲流应该怎么办",
+      "onboard_time": 1679383590,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 151925,
@@ -1259,6 +1331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 138862,
+      "num": 138862,
+      "word": "这东西已经发明出来了吗",
+      "onboard_time": 1679381488,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 136929,
       "num": 136929,
       "word": "4K视频看春日大美中国",
@@ -1267,28 +1347,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 136142,
-      "num": 136142,
-      "word": "这东西已经发明出来了吗",
-      "onboard_time": 1679381488,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 134748,
       "num": 134748,
       "word": "KPL春季赛第六周最佳阵容",
       "onboard_time": 1679380709,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 130831,
-      "num": 130831,
-      "word": "刘作虎称全主摄时代来了",
-      "onboard_time": 1679382570,
-      "rank": 40,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 130544,
@@ -1353,6 +1417,14 @@
       "onboard_time": 1679321731,
       "rank": 33,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 114590,
+      "num": 114590,
+      "word": "这部电影把反黄谣搬上银幕",
+      "onboard_time": 1679383829,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 113729,
@@ -1515,8 +1587,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 72089,
-      "num": 814409,
+      "raw_hot": 82858,
+      "num": 1000990,
       "word": "开启友谊合作与和平之旅",
       "onboard_time": 1679380709,
       "rank": 0,
