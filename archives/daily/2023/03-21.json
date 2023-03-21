@@ -1,10 +1,10 @@
 {
   "startTime": 1679329653267,
-  "endTime": 1679376812014,
+  "endTime": 1679379762550,
   "band_list": [
     {
       "raw_hot": 4463977,
-      "num": 460812,
+      "num": 670481,
       "word": "官方证实大熊猫宝新已去世",
       "onboard_time": 1679375731,
       "rank": 32,
@@ -107,6 +107,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1182822,
+      "num": 878489,
+      "word": "92岁默多克将第五次结婚",
+      "onboard_time": 1679377109,
+      "rank": 1,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 1159696,
       "num": 1159696,
       "word": "为什么不建议婚后和父母住",
@@ -163,6 +171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 927171,
+      "num": 927171,
+      "word": "冉莹颖称轩轩韧带断裂",
+      "onboard_time": 1679374712,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 894340,
       "num": 629002,
       "word": "王一博 微博之夜",
@@ -217,6 +233,14 @@
       "onboard_time": 1679374472,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 818656,
+      "num": 436082,
+      "word": "媒体评年轻人不上课不上进只上香",
+      "onboard_time": 1679374893,
+      "rank": 24,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 774744,
@@ -315,20 +339,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 573320,
-      "num": 436082,
-      "word": "媒体评年轻人不上课不上进只上香",
-      "onboard_time": 1679374893,
-      "rank": 24,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 568373,
       "num": 826048,
       "word": "美国这台战争机器给全球造成伤害",
       "onboard_time": 1679368768,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 558665,
+      "num": 558665,
+      "word": "李莎拉靠眼睛拿下剧本",
+      "onboard_time": 1679375430,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 557180,
@@ -371,12 +395,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 495590,
-      "num": 473415,
-      "word": "冉莹颖称轩轩韧带断裂",
-      "onboard_time": 1679374712,
-      "rank": 14,
-      "category": "体育"
+      "raw_hot": 491208,
+      "num": 491208,
+      "word": "宋妍霏MV男主",
+      "onboard_time": 1679375670,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 489274,
@@ -403,20 +427,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 486598,
+      "num": 486598,
+      "word": "范丞丞 马思唯",
+      "onboard_time": 1679378848,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 485436,
+      "num": 485436,
+      "word": "你支持家暴入刑吗",
+      "onboard_time": 1679376750,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 477382,
       "num": 477382,
       "word": "wbg",
       "onboard_time": 1679325509,
       "rank": 9,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 474001,
-      "num": 474001,
-      "word": "宋妍霏MV男主",
-      "onboard_time": 1679375670,
-      "rank": 37,
-      "category": "音乐"
     },
     {
       "raw_hot": 464542,
@@ -467,6 +499,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 444577,
+      "num": 279142,
+      "word": "原来新疆的房子长这样",
+      "onboard_time": 1679377409,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 442955,
+      "num": 404400,
+      "word": "徐明浩回国",
+      "onboard_time": 1679379208,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 432316,
       "num": 432316,
       "word": "杏花乌龙拿铁",
@@ -483,6 +531,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 426096,
+      "num": 399121,
+      "word": "张兰前直播运营团队回应集体离职",
+      "onboard_time": 1679377228,
+      "rank": 13,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 425113,
       "num": 425113,
       "word": "张颂文 什么都嗑只会害了你",
@@ -491,12 +547,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 417188,
+      "num": 417188,
+      "word": "宋轶官宣加盟登场了北京中轴线",
+      "onboard_time": 1679376869,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 413773,
       "num": 413773,
       "word": "张新成再现九转大肠名场面",
       "onboard_time": 1679364566,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 396182,
+      "num": 396182,
+      "word": "文心一言",
+      "onboard_time": 1679375013,
+      "rank": 41,
+      "category": "科技"
     },
     {
       "raw_hot": 389421,
@@ -571,6 +643,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 333028,
+      "num": 333028,
+      "word": "张兰再回应海外欠债9.8亿事件",
+      "onboard_time": 1679377109,
+      "rank": 15,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 327434,
       "num": 327434,
       "word": "中国乒乓之绝地反击票房破亿",
@@ -643,14 +723,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 291417,
-      "num": 291417,
-      "word": "李莎拉靠眼睛拿下剧本",
-      "onboard_time": 1679375430,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 289060,
       "num": 289060,
       "word": "云胡不喜",
@@ -675,20 +747,20 @@
       "category": "科技"
     },
     {
-      "raw_hot": 279947,
-      "num": 279947,
-      "word": "文心一言",
-      "onboard_time": 1679375013,
-      "rank": 41,
-      "category": "科技"
-    },
-    {
       "raw_hot": 277717,
       "num": 277717,
       "word": "老默说要请网友吃鱼",
       "onboard_time": 1679369667,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 270530,
+      "num": 270530,
+      "word": "薛之谦演唱会 南昌",
+      "onboard_time": 1679378129,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 260199,
@@ -755,6 +827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 234053,
+      "num": 192410,
+      "word": "普京宣布免除超200亿美元非洲债务",
+      "onboard_time": 1679378969,
+      "rank": 30,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 229549,
       "num": 229549,
       "word": "东方财富恢复正常登录和交易",
@@ -779,6 +859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 227681,
+      "num": 227681,
+      "word": "哪有这样吸鼠鼠的",
+      "onboard_time": 1679377649,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 220875,
       "num": 220875,
       "word": "他是谁开分8.2",
@@ -795,6 +883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 217555,
+      "num": 217555,
+      "word": "花瓣",
+      "onboard_time": 1679378189,
+      "rank": 27,
+      "category": "科技"
+    },
+    {
       "raw_hot": 215557,
       "num": 215557,
       "word": "啥家庭啊给狗买皮肤",
@@ -809,6 +905,14 @@
       "onboard_time": 1679371108,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 214980,
+      "num": 214980,
+      "word": "如果内娱翻拍黑暗荣耀",
+      "onboard_time": 1679377109,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 214379,
@@ -833,14 +937,6 @@
       "onboard_time": 1679360908,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 204726,
-      "num": 180518,
-      "word": "你支持家暴入刑吗",
-      "onboard_time": 1679376750,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 203005,
@@ -979,6 +1075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 163325,
+      "num": 163325,
+      "word": "N1",
+      "onboard_time": 1679379567,
+      "rank": 37,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 160135,
       "num": 160135,
       "word": "熊猫萌兰为了越狱有多努力",
@@ -993,6 +1097,14 @@
       "onboard_time": 1679318729,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 152739,
+      "num": 152739,
+      "word": "张杰陈粒清唱哭砂",
+      "onboard_time": 1679379628,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 151925,
@@ -1027,12 +1139,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 148129,
+      "num": 148129,
+      "word": "苏州杀夫藏尸案死者母亲发声",
+      "onboard_time": 1679379329,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147814,
       "num": 147814,
       "word": "每天早睡1小时",
       "onboard_time": 1679321190,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 147599,
+      "num": 147599,
+      "word": "辛巴员工称无法同公司搬迁被扣绩效",
+      "onboard_time": 1679379447,
+      "rank": 42,
+      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 147342,
@@ -1113,6 +1241,14 @@
       "onboard_time": 1679315130,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 118104,
+      "num": 118104,
+      "word": "华晨宇坏特一组",
+      "onboard_time": 1679377828,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 117074,

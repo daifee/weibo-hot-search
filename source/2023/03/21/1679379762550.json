@@ -1,0 +1,410 @@
+{
+  "runTime": 1679379762550,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 927171,
+        "num": 927171,
+        "word": "冉莹颖称轩轩韧带断裂",
+        "onboard_time": 1679374712,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1182822,
+        "num": 878489,
+        "word": "92岁默多克将第五次结婚",
+        "onboard_time": 1679377109,
+        "rank": 1,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 191105,
+        "num": 686683,
+        "word": "美国这台战争机器给全球造成伤害",
+        "onboard_time": 1679368768,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 3752840,
+        "num": 670481,
+        "word": "官方证实大熊猫宝新已去世",
+        "onboard_time": 1679375731,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 558665,
+        "num": 558665,
+        "word": "李莎拉靠眼睛拿下剧本",
+        "onboard_time": 1679375430,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 689963,
+        "num": 531890,
+        "word": "睡觉时穿袜子更容易睡着",
+        "onboard_time": 1679371530,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 491208,
+        "num": 491208,
+        "word": "宋妍霏MV男主",
+        "onboard_time": 1679375670,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 486598,
+        "num": 486598,
+        "word": "范丞丞 马思唯",
+        "onboard_time": 1679378848,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 485436,
+        "num": 485436,
+        "word": "你支持家暴入刑吗",
+        "onboard_time": 1679376750,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417188,
+        "num": 417188,
+        "word": "宋轶官宣加盟登场了北京中轴线",
+        "onboard_time": 1679376869,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 629931,
+        "num": 415819,
+        "word": "乐华娱乐被列为经营异常",
+        "onboard_time": 1679373633,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 609424,
+        "num": 410299,
+        "word": "杭州杀妻案凶手许国利被执行死刑",
+        "onboard_time": 1679367024,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 442955,
+        "num": 404400,
+        "word": "徐明浩回国",
+        "onboard_time": 1679379208,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 426096,
+        "num": 399121,
+        "word": "张兰前直播运营团队回应集体离职",
+        "onboard_time": 1679377228,
+        "rank": 13,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 396182,
+        "num": 396182,
+        "word": "文心一言",
+        "onboard_time": 1679375013,
+        "rank": 14,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 333028,
+        "num": 333028,
+        "word": "张兰再回应海外欠债9.8亿事件",
+        "onboard_time": 1679377109,
+        "rank": 15,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1221516,
+        "num": 329841,
+        "word": "南华大学造女生黄谣男生已保研",
+        "onboard_time": 1679372431,
+        "rank": 16,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 818656,
+        "num": 329376,
+        "word": "媒体评年轻人不上课不上进只上香",
+        "onboard_time": 1679374893,
+        "rank": 17,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 325482,
+        "num": 325482,
+        "word": "杏花乌龙拿铁",
+        "onboard_time": 1679373575,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 296138,
+        "num": 296138,
+        "word": "声生不息宝岛季一公分组名单",
+        "onboard_time": 1679370749,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 975861,
+        "num": 294668,
+        "word": "南华大学造黄谣男生已被开除",
+        "onboard_time": 1679375013,
+        "rank": 20,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 660378,
+        "num": 286178,
+        "word": "张隆李梦 结婚",
+        "onboard_time": 1679356406,
+        "rank": 21,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 444577,
+        "num": 279142,
+        "word": "原来新疆的房子长这样",
+        "onboard_time": 1679377409,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 270530,
+        "num": 270530,
+        "word": "薛之谦演唱会 南昌",
+        "onboard_time": 1679378129,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 259046,
+        "num": 259046,
+        "word": "杨迪在高铁站被问是不是学生",
+        "onboard_time": 1679373213,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238806,
+        "num": 238806,
+        "word": "南华大学回应网传男生造女生黄谣",
+        "onboard_time": 1679368408,
+        "rank": 25,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 227681,
+        "num": 227681,
+        "word": "哪有这样吸鼠鼠的",
+        "onboard_time": 1679377649,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 217555,
+        "num": 217555,
+        "word": "花瓣",
+        "onboard_time": 1679378189,
+        "rank": 27,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 214980,
+        "num": 214980,
+        "word": "如果内娱翻拍黑暗荣耀",
+        "onboard_time": 1679377109,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 192526,
+        "num": 192526,
+        "word": "微博之夜",
+        "onboard_time": 1679367568,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 234053,
+        "num": 192410,
+        "word": "普京宣布免除超200亿美元非洲债务",
+        "onboard_time": 1679378969,
+        "rank": 30,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 191730,
+        "num": 191730,
+        "word": "苹果iPhone15Pro设计图曝光",
+        "onboard_time": 1679363424,
+        "rank": 31,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 191606,
+        "num": 191606,
+        "word": "中方回应国际刑事法院对普京逮捕令",
+        "onboard_time": 1679379689,
+        "rank": 32,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 178840,
+        "num": 178840,
+        "word": "王一博 微博之夜",
+        "onboard_time": 1679363727,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 172134,
+        "num": 172134,
+        "word": "东方财富恢复正常登录和交易",
+        "onboard_time": 1679376029,
+        "rank": 34,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 164101,
+        "num": 164101,
+        "word": "周杰伦门票",
+        "onboard_time": 1679365586,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 163366,
+        "num": 163366,
+        "word": "大侦探木偶复仇记剧照",
+        "onboard_time": 1679368348,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163325,
+        "num": 163325,
+        "word": "N1",
+        "onboard_time": 1679379567,
+        "rank": 37,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 161599,
+        "num": 161599,
+        "word": "那英说和马嘉祺是儿子和妈组合",
+        "onboard_time": 1679375372,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152739,
+        "num": 152739,
+        "word": "张杰陈粒清唱哭砂",
+        "onboard_time": 1679379628,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152460,
+        "num": 152460,
+        "word": "东方财富",
+        "onboard_time": 1679363727,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 148129,
+        "num": 148129,
+        "word": "苏州杀夫藏尸案死者母亲发声",
+        "onboard_time": 1679379329,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147599,
+        "num": 147599,
+        "word": "辛巴员工称无法同公司搬迁被扣绩效",
+        "onboard_time": 1679379447,
+        "rank": 42,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 147099,
+        "num": 147099,
+        "word": "李秀满不希望HYBE拿走经营权的原因",
+        "onboard_time": 1679369488,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142182,
+        "num": 142182,
+        "word": "日媒称岸田文雄正前往基辅",
+        "onboard_time": 1679370208,
+        "rank": 44,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 125376,
+        "num": 125376,
+        "word": "许凯娜扎新剧下证",
+        "onboard_time": 1679376690,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 161332,
+        "num": 122322,
+        "word": "杭州杀妻碎尸案案件梳理",
+        "onboard_time": 1679370627,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118104,
+        "num": 118104,
+        "word": "华晨宇坏特一组",
+        "onboard_time": 1679377828,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115337,
+        "num": 115337,
+        "word": "黑暗荣耀河艺率画报",
+        "onboard_time": 1679372970,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 112010,
+        "num": 112010,
+        "word": "当你越来越像你妈妈的时候",
+        "onboard_time": 1679373453,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席出访俄罗斯#"
+    }
+  }
+}
