@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679363179697,
+  "endTime": 1679365961862,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -4163,6 +4163,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 1023981,
+      "num": 578018,
+      "word": "苹果iPhone15Pro设计图曝光",
+      "onboard_time": 1679363424,
+      "rank": 3,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1023250,
       "num": 1023250,
       "word": "国家线公布后的心情",
@@ -4499,6 +4507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 985135,
+      "num": 559468,
+      "word": "杀夫案受害人父母去年曾陪儿媳过中秋",
+      "onboard_time": 1679362767,
+      "rank": 30,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 984860,
       "num": 510927,
       "word": "顶顶拍的董洁",
@@ -4736,6 +4752,14 @@
       "word": "潘玮柏的嫌弃不像是演的",
       "onboard_time": 1678713630,
       "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 960712,
+      "num": 960712,
+      "word": "归路收视率下跌",
+      "onboard_time": 1679362286,
+      "rank": 10,
       "category": "影视"
     },
     {
@@ -5257,6 +5281,14 @@
       "onboard_time": 1677925765,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 894340,
+      "num": 572147,
+      "word": "王一博 微博之夜",
+      "onboard_time": 1679363727,
+      "rank": 4,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 893758,
@@ -6723,6 +6755,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 774744,
+      "num": 444591,
+      "word": "东方财富",
+      "onboard_time": 1679363727,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 773103,
       "num": 773103,
       "word": "动物园大猩猩被发现在直立行走",
@@ -7792,6 +7832,14 @@
       "word": "宝新",
       "onboard_time": 1679285792,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 701508,
+      "num": 701508,
+      "word": "北京为全国最能熬夜城市",
+      "onboard_time": 1679361629,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -12643,14 +12691,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 491806,
-      "num": 491806,
-      "word": "归路收视率下跌",
-      "onboard_time": 1679362286,
-      "rank": 10,
-      "category": "影视"
-    },
-    {
       "raw_hot": 491752,
       "num": 491752,
       "word": "应勇当选为最高人民检察院检察长",
@@ -13593,6 +13633,14 @@
       "onboard_time": 1678807889,
       "rank": 31,
       "category": "教育"
+    },
+    {
+      "raw_hot": 463898,
+      "num": 463898,
+      "word": "雨刷器腿",
+      "onboard_time": 1679363246,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 463828,
@@ -15803,6 +15851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 397488,
+      "num": 397488,
+      "word": "男子吐槽女子穿和服在景区拍照",
+      "onboard_time": 1679364148,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 397377,
       "num": 450550,
       "word": "迪丽热巴说公诉精英台词挑战大",
@@ -16089,6 +16145,14 @@
       "onboard_time": 1678635985,
       "rank": 3,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 389421,
+      "num": 389421,
+      "word": "IU朴叙俊新片预告",
+      "onboard_time": 1679364566,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 389166,
@@ -17555,6 +17619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 358568,
+      "num": 358568,
+      "word": "周杰伦门票",
+      "onboard_time": 1679365586,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 358512,
       "num": 358512,
       "word": "当身边恋爱长跑的朋友分手后",
@@ -17673,6 +17745,14 @@
       "onboard_time": 1678688008,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 355760,
+      "num": 355760,
+      "word": "张新成再现九转大肠名场面",
+      "onboard_time": 1679364566,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 355747,
@@ -18321,14 +18401,6 @@
       "onboard_time": 1677734608,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 343747,
-      "num": 343747,
-      "word": "北京为全国最能熬夜城市",
-      "onboard_time": 1679361629,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 343733,
@@ -24915,6 +24987,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 229029,
+      "num": 229029,
+      "word": "无痛起床试试这些方法",
+      "onboard_time": 1679362886,
+      "rank": 32,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 228883,
       "num": 228883,
       "word": "吴磊赵今麦怼脸路透",
@@ -26195,6 +26275,14 @@
       "category": "综艺,美妆"
     },
     {
+      "raw_hot": 215557,
+      "num": 215557,
+      "word": "啥家庭啊给狗买皮肤",
+      "onboard_time": 1679362948,
+      "rank": 47,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 215431,
       "num": 191866,
       "word": "徐冬冬吴卓羲老板娘3开机路透",
@@ -26305,14 +26393,6 @@
       "onboard_time": 1677853770,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 213396,
-      "num": 213396,
-      "word": "杀夫案受害人父母去年曾陪儿媳过中秋",
-      "onboard_time": 1679362767,
-      "rank": 30,
-      "category": "社会负面"
     },
     {
       "raw_hot": 213329,
@@ -26441,6 +26521,14 @@
       "onboard_time": 1679200168,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 211566,
+      "num": 211566,
+      "word": "张俪海边一字马",
+      "onboard_time": 1679365706,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 211444,
@@ -27073,6 +27161,14 @@
       "onboard_time": 1678001427,
       "rank": 13,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 206624,
+      "num": 206624,
+      "word": "00后找工作更看重什么",
+      "onboard_time": 1679365047,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 206530,
@@ -27971,14 +28067,6 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 201634,
-      "num": 201634,
-      "word": "无痛起床试试这些方法",
-      "onboard_time": 1679362886,
-      "rank": 32,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 201628,
       "num": 201628,
       "word": "国务委员人选",
@@ -28089,6 +28177,14 @@
       "onboard_time": 1678855111,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 200960,
+      "num": 200960,
+      "word": "乔布斯签名奖牌65.5万元被出售",
+      "onboard_time": 1679365106,
+      "rank": 31,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 200920,
@@ -31451,6 +31547,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 176398,
+      "num": 176398,
+      "word": "去年高端手机市场苹果占75%",
+      "onboard_time": 1679365706,
+      "rank": 36,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 176269,
       "num": 176269,
       "word": "王嘉尔 你好星期六",
@@ -33393,14 +33497,6 @@
       "onboard_time": 1678632089,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 157402,
-      "num": 157402,
-      "word": "啥家庭啊给狗买皮肤",
-      "onboard_time": 1679362948,
-      "rank": 47,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 157380,
@@ -35545,6 +35641,14 @@
       "onboard_time": 1678950927,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 136929,
+      "num": 136929,
+      "word": "4K视频看春日大美中国",
+      "onboard_time": 1679365947,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136763,

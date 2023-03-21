@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679363179697,
+  "endTime": 1679365961862,
   "band_list": [
     {
       "raw_hot": 7256959,
@@ -267,6 +267,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 1023981,
+      "num": 578018,
+      "word": "苹果iPhone15Pro设计图曝光",
+      "onboard_time": 1679363424,
+      "rank": 3,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1001475,
       "num": 891460,
       "word": "官方回应网传熊猫宝新去世",
@@ -291,6 +299,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 985135,
+      "num": 559468,
+      "word": "杀夫案受害人父母去年曾陪儿媳过中秋",
+      "onboard_time": 1679362767,
+      "rank": 30,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 984860,
       "num": 510927,
       "word": "顶顶拍的董洁",
@@ -313,6 +329,14 @@
       "onboard_time": 1679277506,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 960712,
+      "num": 960712,
+      "word": "归路收视率下跌",
+      "onboard_time": 1679362286,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 960439,
@@ -353,6 +377,14 @@
       "onboard_time": 1679302288,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 894340,
+      "num": 572147,
+      "word": "王一博 微博之夜",
+      "onboard_time": 1679363727,
+      "rank": 4,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 884764,
@@ -467,6 +499,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 774744,
+      "num": 444591,
+      "word": "东方财富",
+      "onboard_time": 1679363727,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 773103,
       "num": 773103,
       "word": "动物园大猩猩被发现在直立行走",
@@ -512,6 +552,14 @@
       "word": "宝新",
       "onboard_time": 1679285792,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 701508,
+      "num": 701508,
+      "word": "北京为全国最能熬夜城市",
+      "onboard_time": 1679361629,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -859,14 +907,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 491806,
-      "num": 491806,
-      "word": "归路收视率下跌",
-      "onboard_time": 1679362286,
-      "rank": 10,
-      "category": "影视"
-    },
-    {
       "raw_hot": 489274,
       "num": 489274,
       "word": "日本一农村25年才迎来一个新生儿",
@@ -937,6 +977,14 @@
       "onboard_time": 1679321190,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 463898,
+      "num": 463898,
+      "word": "雨刷器腿",
+      "onboard_time": 1679363246,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 461653,
@@ -1107,11 +1155,27 @@
       "category": "体育,影视"
     },
     {
+      "raw_hot": 397488,
+      "num": 397488,
+      "word": "男子吐槽女子穿和服在景区拍照",
+      "onboard_time": 1679364148,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 392970,
       "num": 392970,
       "word": "张颂文不止不休首映礼",
       "onboard_time": 1679309789,
       "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 389421,
+      "num": 389421,
+      "word": "IU朴叙俊新片预告",
+      "onboard_time": 1679364566,
+      "rank": 11,
       "category": "影视"
     },
     {
@@ -1211,12 +1275,28 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 358568,
+      "num": 358568,
+      "word": "周杰伦门票",
+      "onboard_time": 1679365586,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 358512,
       "num": 358512,
       "word": "当身边恋爱长跑的朋友分手后",
       "onboard_time": 1679308229,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 355760,
+      "num": 355760,
+      "word": "张新成再现九转大肠名场面",
+      "onboard_time": 1679364566,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 354875,
@@ -1241,14 +1321,6 @@
       "onboard_time": 1679355262,
       "rank": 19,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 343747,
-      "num": 343747,
-      "word": "北京为全国最能熬夜城市",
-      "onboard_time": 1679361629,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 342488,
@@ -1787,6 +1859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 229029,
+      "num": 229029,
+      "word": "无痛起床试试这些方法",
+      "onboard_time": 1679362886,
+      "rank": 32,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 228701,
       "num": 228701,
       "word": "好看的纹身有多酷",
@@ -1867,6 +1947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 215557,
+      "num": 215557,
+      "word": "啥家庭啊给狗买皮肤",
+      "onboard_time": 1679362948,
+      "rank": 47,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 215431,
       "num": 191866,
       "word": "徐冬冬吴卓羲老板娘3开机路透",
@@ -1891,12 +1979,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 213396,
-      "num": 213396,
-      "word": "杀夫案受害人父母去年曾陪儿媳过中秋",
-      "onboard_time": 1679362767,
-      "rank": 30,
-      "category": "社会负面"
+      "raw_hot": 211566,
+      "num": 211566,
+      "word": "张俪海边一字马",
+      "onboard_time": 1679365706,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 209585,
@@ -1963,6 +2051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 206624,
+      "num": 206624,
+      "word": "00后找工作更看重什么",
+      "onboard_time": 1679365047,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206530,
       "num": 206530,
       "word": "陈红军家里有张合成的全家福",
@@ -2027,12 +2123,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 201634,
-      "num": 201634,
-      "word": "无痛起床试试这些方法",
-      "onboard_time": 1679362886,
-      "rank": 32,
-      "category": "社会新闻,情感"
+      "raw_hot": 200960,
+      "num": 200960,
+      "word": "乔布斯签名奖牌65.5万元被出售",
+      "onboard_time": 1679365106,
+      "rank": 31,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 200539,
@@ -2291,6 +2387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176398,
+      "num": 176398,
+      "word": "去年高端手机市场苹果占75%",
+      "onboard_time": 1679365706,
+      "rank": 36,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 174672,
       "num": 174672,
       "word": "丫丫加油等你回家",
@@ -2481,14 +2585,6 @@
       "onboard_time": 1679306488,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 157402,
-      "num": 157402,
-      "word": "啥家庭啊给狗买皮肤",
-      "onboard_time": 1679362948,
-      "rank": 47,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 154938,
@@ -2688,6 +2784,14 @@
       "word": "女子在缅遭绑哭喊我有两小孩",
       "onboard_time": 1679213848,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136929,
+      "num": 136929,
+      "word": "4K视频看春日大美中国",
+      "onboard_time": 1679365947,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
