@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679405603477,
+  "endTime": 1679408054563,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -841,6 +841,14 @@
       "onboard_time": 1678674388,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2083170,
+      "num": 592917,
+      "word": "开门杀致人死亡女子被判9个月",
+      "onboard_time": 1679404649,
+      "rank": 11,
+      "category": "社会负面"
     },
     {
       "raw_hot": 2082965,
@@ -2084,7 +2092,7 @@
     },
     {
       "raw_hot": 1491135,
-      "num": 804197,
+      "num": 810645,
       "word": "女主韦一敏 男主王子斌",
       "onboard_time": 1679401887,
       "rank": 22,
@@ -4817,6 +4825,14 @@
       "onboard_time": 1679021250,
       "rank": 46,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 976774,
+      "num": 395463,
+      "word": "广东揭西发生严重交通事故",
+      "onboard_time": 1679406809,
+      "rank": 10,
+      "category": "社会负面"
     },
     {
       "raw_hot": 975798,
@@ -10515,14 +10531,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 581437,
-      "num": 479995,
-      "word": "开门杀致人死亡女子被判9个月",
-      "onboard_time": 1679404649,
-      "rank": 11,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 581327,
       "num": 581327,
       "word": "杭州久摇不中72次及以上可申请车牌",
@@ -10929,6 +10937,14 @@
       "onboard_time": 1677663987,
       "rank": 12,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 566979,
+      "num": 388006,
+      "word": "张译LOFTER账号",
+      "onboard_time": 1679407530,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 566720,
@@ -12939,6 +12955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 499061,
+      "num": 499061,
+      "word": "戚薇如果爱忘了MV",
+      "onboard_time": 1679402424,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 498710,
       "num": 498710,
       "word": "恢复出厂设置不一定彻底清除手机数据",
@@ -13369,14 +13393,6 @@
       "onboard_time": 1678180107,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 486166,
-      "num": 486166,
-      "word": "戚薇如果爱忘了MV",
-      "onboard_time": 1679402424,
-      "rank": 30,
-      "category": "音乐"
     },
     {
       "raw_hot": 485921,
@@ -17843,6 +17859,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 365785,
+      "num": 144853,
+      "word": "WBG战胜WE",
+      "onboard_time": 1679407950,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 365501,
       "num": 365501,
       "word": "林俊杰再唱雪落下的声音",
@@ -18249,6 +18273,14 @@
       "onboard_time": 1678709966,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 358537,
+      "num": 358537,
+      "word": "网友深圳偶遇萧敬腾打篮球",
+      "onboard_time": 1679404708,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 358512,
@@ -21025,6 +21057,14 @@
       "onboard_time": 1677680072,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 307230,
+      "num": 307230,
+      "word": "Heng身体不适",
+      "onboard_time": 1679405669,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 307169,
@@ -24163,6 +24203,14 @@
       "category": "社会负面,科技"
     },
     {
+      "raw_hot": 252461,
+      "num": 252461,
+      "word": "Hope",
+      "onboard_time": 1679407769,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 252017,
       "num": 252017,
       "word": "张杰新歌蕾拉留着巡演首唱",
@@ -25179,6 +25227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 237813,
+      "num": 408891,
+      "word": "心想事成",
+      "onboard_time": 1678367550,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 237703,
       "num": 237703,
       "word": "山东省考",
@@ -25393,6 +25449,14 @@
       "onboard_time": 1677936628,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 233899,
+      "num": 233899,
+      "word": "为什么说爬山检验感情",
+      "onboard_time": 1679406569,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 233883,
@@ -25897,6 +25961,14 @@
       "onboard_time": 1679149891,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 228769,
+      "num": 228769,
+      "word": "黑暗荣耀校霸五人组画报",
+      "onboard_time": 1679404587,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 228758,
@@ -29011,14 +29083,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 201938,
-      "num": 201938,
-      "word": "网友深圳偶遇萧敬腾打篮球",
-      "onboard_time": 1679404708,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 201933,
       "num": 201933,
       "word": "中国人十年睡眠变化",
@@ -30379,14 +30443,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 194996,
-      "num": 408891,
-      "word": "心想事成",
-      "onboard_time": 1678367550,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 194946,
       "num": 194946,
       "word": "樊振东双冠王",
@@ -30507,6 +30563,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 194210,
+      "num": 194210,
+      "word": "模仿金庸笔下的美女",
+      "onboard_time": 1679407051,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 194159,
       "num": 194159,
       "word": "魏大勋一秒变恭顺",
@@ -30609,14 +30673,6 @@
       "onboard_time": 1679385690,
       "rank": 28,
       "category": "科技"
-    },
-    {
-      "raw_hot": 193727,
-      "num": 193727,
-      "word": "黑暗荣耀校霸五人组画报",
-      "onboard_time": 1679404587,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 193726,
@@ -31587,6 +31643,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 187684,
+      "num": 187684,
+      "word": "中俄全方位务实合作保持良好发展势头",
+      "onboard_time": 1679407051,
+      "rank": 35,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 187651,
       "num": 187651,
       "word": "赵小棠宋妍霏生图路透",
@@ -31652,7 +31716,7 @@
     },
     {
       "raw_hot": 187063,
-      "num": 804866,
+      "num": 811427,
       "word": "二十四节气是中国人的时间哲学",
       "onboard_time": 1679400627,
       "rank": 0,
@@ -32169,6 +32233,14 @@
       "onboard_time": 1678600225,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 181693,
+      "num": 181693,
+      "word": "科学家用水熊虫实现人类健康突破",
+      "onboard_time": 1679403567,
+      "rank": 37,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 181509,
@@ -33817,6 +33889,14 @@
       "onboard_time": 1677849805,
       "rank": 48,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 166557,
+      "num": 166557,
+      "word": "辽宁男篮VS江苏男篮",
+      "onboard_time": 1679406451,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 166533,
@@ -36563,14 +36643,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 140622,
-      "num": 140622,
-      "word": "科学家用水熊虫实现人类健康突破",
-      "onboard_time": 1679403567,
-      "rank": 37,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 140568,
       "num": 140568,
       "word": "王曼昱4比1杨晓欣",
@@ -36841,6 +36913,14 @@
       "onboard_time": 1679063012,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 138203,
+      "num": 138203,
+      "word": "宋佳王阳回响BE又HE了",
+      "onboard_time": 1679405970,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 138202,
@@ -38993,6 +39073,14 @@
       "onboard_time": 1677737546,
       "rank": 42,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 116690,
+      "num": 116690,
+      "word": "舌头放对位置真的很重要",
+      "onboard_time": 1679408011,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 116654,
@@ -42051,6 +42139,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 64529,
+      "num": 792569,
+      "word": "以中国新发展给世界带来新机遇",
+      "onboard_time": 1679403808,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 64381,
       "num": 64381,
       "word": "两会时间开启",
@@ -42385,14 +42481,6 @@
       "onboard_time": 1678577056,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 51058,
-      "num": 792569,
-      "word": "以中国新发展给世界带来新机遇",
-      "onboard_time": 1679403808,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 51017,

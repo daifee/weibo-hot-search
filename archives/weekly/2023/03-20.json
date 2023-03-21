@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679405603477,
+  "endTime": 1679408054563,
   "band_list": [
     {
       "raw_hot": 7256959,
@@ -89,6 +89,14 @@
       "onboard_time": 1679276187,
       "rank": 45,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 2083170,
+      "num": 592917,
+      "word": "开门杀致人死亡女子被判9个月",
+      "onboard_time": 1679404649,
+      "rank": 11,
+      "category": "社会负面"
     },
     {
       "raw_hot": 2056909,
@@ -196,7 +204,7 @@
     },
     {
       "raw_hot": 1491135,
-      "num": 804197,
+      "num": 810645,
       "word": "女主韦一敏 男主王子斌",
       "onboard_time": 1679401887,
       "rank": 22,
@@ -521,6 +529,14 @@
       "onboard_time": 1679293708,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 976774,
+      "num": 395463,
+      "word": "广东揭西发生严重交通事故",
+      "onboard_time": 1679406809,
+      "rank": 10,
+      "category": "社会负面"
     },
     {
       "raw_hot": 962463,
@@ -1123,14 +1139,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 581437,
-      "num": 479995,
-      "word": "开门杀致人死亡女子被判9个月",
-      "onboard_time": 1679404649,
-      "rank": 11,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 581327,
       "num": 581327,
       "word": "杭州久摇不中72次及以上可申请车牌",
@@ -1201,6 +1209,14 @@
       "onboard_time": 1679385392,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 566979,
+      "num": 388006,
+      "word": "张译LOFTER账号",
+      "onboard_time": 1679407530,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 566720,
@@ -1371,6 +1387,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 499061,
+      "num": 499061,
+      "word": "戚薇如果爱忘了MV",
+      "onboard_time": 1679402424,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 494030,
       "num": 494030,
       "word": "张家齐",
@@ -1417,14 +1441,6 @@
       "onboard_time": 1679334734,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 486166,
-      "num": 486166,
-      "word": "戚薇如果爱忘了MV",
-      "onboard_time": 1679402424,
-      "rank": 30,
-      "category": "音乐"
     },
     {
       "raw_hot": 485436,
@@ -1915,6 +1931,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 365785,
+      "num": 144853,
+      "word": "WBG战胜WE",
+      "onboard_time": 1679407950,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 365249,
       "num": 365249,
       "word": "微博年度人气电影剧集综艺都有王一博",
@@ -1937,6 +1961,14 @@
       "onboard_time": 1679293286,
       "rank": 30,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 358537,
+      "num": 358537,
+      "word": "网友深圳偶遇萧敬腾打篮球",
+      "onboard_time": 1679404708,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 358512,
@@ -2225,6 +2257,14 @@
       "onboard_time": 1679372970,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 307230,
+      "num": 307230,
+      "word": "Heng身体不适",
+      "onboard_time": 1679405669,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 306841,
@@ -2563,6 +2603,14 @@
       "category": "社会负面,科技"
     },
     {
+      "raw_hot": 252461,
+      "num": 252461,
+      "word": "Hope",
+      "onboard_time": 1679407769,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 251847,
       "num": 251847,
       "word": "电视剧他是谁",
@@ -2723,6 +2771,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 237813,
+      "num": 237813,
+      "word": "心想事成",
+      "onboard_time": 1679407352,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 237703,
       "num": 237703,
       "word": "山东省考",
@@ -2745,6 +2801,14 @@
       "onboard_time": 1679237668,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 233899,
+      "num": 233899,
+      "word": "为什么说爬山检验感情",
+      "onboard_time": 1679406569,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 230506,
@@ -2785,6 +2849,14 @@
       "onboard_time": 1679396488,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 228769,
+      "num": 228769,
+      "word": "黑暗荣耀校霸五人组画报",
+      "onboard_time": 1679404587,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 228701,
@@ -3171,14 +3243,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 201938,
-      "num": 201938,
-      "word": "网友深圳偶遇萧敬腾打篮球",
-      "onboard_time": 1679404708,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 201933,
       "num": 201933,
       "word": "中国人十年睡眠变化",
@@ -3315,6 +3379,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 194210,
+      "num": 194210,
+      "word": "模仿金庸笔下的美女",
+      "onboard_time": 1679407051,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 193949,
       "num": 193949,
       "word": "毛雪汪",
@@ -3329,14 +3401,6 @@
       "onboard_time": 1679385690,
       "rank": 28,
       "category": "科技"
-    },
-    {
-      "raw_hot": 193727,
-      "num": 193727,
-      "word": "黑暗荣耀校霸五人组画报",
-      "onboard_time": 1679404587,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 193181,
@@ -3403,8 +3467,16 @@
       "category": "影视"
     },
     {
+      "raw_hot": 187684,
+      "num": 187684,
+      "word": "中俄全方位务实合作保持良好发展势头",
+      "onboard_time": 1679407051,
+      "rank": 35,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 187063,
-      "num": 804866,
+      "num": 811427,
       "word": "二十四节气是中国人的时间哲学",
       "onboard_time": 1679400627,
       "rank": 0,
@@ -3481,6 +3553,14 @@
       "onboard_time": 1679298090,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 181693,
+      "num": 181693,
+      "word": "科学家用水熊虫实现人类健康突破",
+      "onboard_time": 1679403567,
+      "rank": 37,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 179911,
@@ -3721,6 +3801,14 @@
       "onboard_time": 1679400507,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 166557,
+      "num": 166557,
+      "word": "辽宁男篮VS江苏男篮",
+      "onboard_time": 1679406451,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 166507,
@@ -4131,14 +4219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 140622,
-      "num": 140622,
-      "word": "科学家用水熊虫实现人类健康突破",
-      "onboard_time": 1679403567,
-      "rank": 37,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 139549,
       "num": 139549,
       "word": "女子在缅遭绑哭喊我有两小孩",
@@ -4161,6 +4241,14 @@
       "onboard_time": 1679381488,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 138203,
+      "num": 138203,
+      "word": "宋佳王阳回响BE又HE了",
+      "onboard_time": 1679405970,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 136929,
@@ -4435,6 +4523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 116690,
+      "num": 116690,
+      "word": "舌头放对位置真的很重要",
+      "onboard_time": 1679408011,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 115692,
       "num": 115692,
       "word": "网传浪姐4确定名单与待定名单",
@@ -4707,6 +4803,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 64529,
+      "num": 792569,
+      "word": "以中国新发展给世界带来新机遇",
+      "onboard_time": 1679403808,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 58590,
       "num": 935627,
       "word": "随手拍春天",
@@ -4721,14 +4825,6 @@
       "onboard_time": 1679248275,
       "rank": 19,
       "category": "幽默,影视"
-    },
-    {
-      "raw_hot": 51058,
-      "num": 792569,
-      "word": "以中国新发展给世界带来新机遇",
-      "onboard_time": 1679403808,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 51017,
