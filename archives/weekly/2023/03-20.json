@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679440620459,
+  "endTime": 1679441635820,
   "band_list": [
     {
       "raw_hot": 7256959,
@@ -1019,6 +1019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 658536,
+      "num": 236212,
+      "word": "美七777",
+      "onboard_time": 1679441004,
+      "rank": 10,
+      "category": "网红"
+    },
+    {
       "raw_hot": 653906,
       "num": 653906,
       "word": "红双喜",
@@ -1081,6 +1089,14 @@
       "onboard_time": 1679274987,
       "rank": 12,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 630275,
+      "num": 547331,
+      "word": "北京沙尘暴",
+      "onboard_time": 1679440521,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 629897,
@@ -1707,6 +1723,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 441185,
+      "num": 339306,
+      "word": "老人和2岁孩子疑被邻居追砍身亡",
+      "onboard_time": 1679411554,
+      "rank": 49,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 438824,
       "num": 402428,
       "word": "舒淇摇曳生姿的白玫瑰",
@@ -1899,14 +1923,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 405812,
-      "num": 301982,
-      "word": "老人和2岁孩子疑被邻居追砍身亡",
-      "onboard_time": 1679411554,
-      "rank": 49,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 405041,
       "num": 405041,
       "word": "刘惜君状态",
@@ -1985,6 +2001,14 @@
       "onboard_time": 1679317468,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 377218,
+      "num": 598389,
+      "word": "不要等缺水了才想起节水",
+      "onboard_time": 1679440160,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 377060,
@@ -2115,12 +2139,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 355061,
+      "num": 355061,
+      "word": "公交司机急刹车致乘客死亡获刑",
+      "onboard_time": 1679424314,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 354875,
       "num": 354875,
       "word": "微博之夜VCR",
       "onboard_time": 1679301147,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 352757,
+      "num": 139157,
+      "word": "男子在离婚冷静期买房前妻要求分割",
+      "onboard_time": 1679424434,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 352607,
@@ -2331,14 +2371,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 316149,
-      "num": 114015,
-      "word": "男子在离婚冷静期买房前妻要求分割",
-      "onboard_time": 1679424434,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 316108,
       "num": 316108,
       "word": "版号",
@@ -2545,14 +2577,6 @@
       "onboard_time": 1679359227,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 289044,
-      "num": 289044,
-      "word": "公交司机急刹车致乘客死亡获刑",
-      "onboard_time": 1679424314,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 287345,
@@ -2844,7 +2868,7 @@
     },
     {
       "raw_hot": 245480,
-      "num": 162966,
+      "num": 191808,
       "word": "官方通报男孩被家长打骂浑身淤青",
       "onboard_time": 1679432531,
       "rank": 33,
@@ -3241,6 +3265,14 @@
       "onboard_time": 1679368527,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 214315,
+      "num": 92506,
+      "word": "张杰直播",
+      "onboard_time": 1679441121,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 214195,
@@ -3784,14 +3816,6 @@
       "word": "小偷连续三天夜盗上海同一手机门店",
       "onboard_time": 1679391449,
       "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 179169,
-      "num": 179169,
-      "word": "北京沙尘暴",
-      "onboard_time": 1679440521,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -4443,6 +4467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 140476,
+      "num": 140476,
+      "word": "沙溢比宋亚轩爸爸大一岁",
+      "onboard_time": 1679440281,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 139549,
       "num": 139549,
       "word": "女子在缅遭绑哭喊我有两小孩",
@@ -4755,6 +4787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 116171,
+      "num": 116171,
+      "word": "山东基建巨无霸有多硬核",
+      "onboard_time": 1679440881,
+      "rank": 26,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 115692,
       "num": 115692,
       "word": "网传浪姐4确定名单与待定名单",
@@ -4843,14 +4883,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 105274,
-      "num": 105274,
-      "word": "沙溢比宋亚轩爸爸大一岁",
-      "onboard_time": 1679440281,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 105057,
       "num": 105057,
       "word": "专家解读东航MU5735事故调查最新进展",
@@ -4915,14 +4947,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 99727,
-      "num": 448328,
-      "word": "不要等缺水了才想起节水",
-      "onboard_time": 1679440160,
-      "rank": 0,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 99476,
       "num": 99476,
       "word": "AG打野",
@@ -4953,6 +4977,14 @@
       "onboard_time": 1679390550,
       "rank": 48,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 96412,
+      "num": 90577,
+      "word": "彭十六辟谣",
+      "onboard_time": 1679441304,
+      "rank": 31,
+      "category": "网红"
     },
     {
       "raw_hot": 93097,
@@ -5073,6 +5105,14 @@
       "onboard_time": 1679403808,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 58679,
+      "num": 58679,
+      "word": "四川广安遭遇大地震系造谣",
+      "onboard_time": 1679441423,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 58590,

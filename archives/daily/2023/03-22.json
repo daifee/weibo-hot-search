@@ -1,6 +1,6 @@
 {
   "startTime": 1679415632915,
-  "endTime": 1679440620459,
+  "endTime": 1679441635820,
   "band_list": [
     {
       "raw_hot": 1337983,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 725940,
-      "num": 434051,
+      "num": 526792,
       "word": "开门杀致人死亡女子被判9个月",
       "onboard_time": 1679404649,
       "rank": 5,
@@ -44,11 +44,27 @@
     },
     {
       "raw_hot": 679738,
-      "num": 538789,
+      "num": 554567,
       "word": "高叶狂飙后首个常驻综艺",
       "onboard_time": 1679409572,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 658536,
+      "num": 236212,
+      "word": "美七777",
+      "onboard_time": 1679441004,
+      "rank": 10,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 630275,
+      "num": 547331,
+      "word": "北京沙尘暴",
+      "onboard_time": 1679440521,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 590821,
@@ -67,8 +83,8 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 405812,
-      "num": 301982,
+      "raw_hot": 441185,
+      "num": 339306,
       "word": "老人和2岁孩子疑被邻居追砍身亡",
       "onboard_time": 1679411554,
       "rank": 12,
@@ -81,6 +97,30 @@
       "onboard_time": 1679408911,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 377218,
+      "num": 598389,
+      "word": "不要等缺水了才想起节水",
+      "onboard_time": 1679440160,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 355061,
+      "num": 355061,
+      "word": "公交司机急刹车致乘客死亡获刑",
+      "onboard_time": 1679424314,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 352757,
+      "num": 139157,
+      "word": "男子在离婚冷静期买房前妻要求分割",
+      "onboard_time": 1679424434,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 344350,
@@ -97,14 +137,6 @@
       "onboard_time": 1679408612,
       "rank": 21,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 316149,
-      "num": 114015,
-      "word": "男子在离婚冷静期买房前妻要求分割",
-      "onboard_time": 1679424434,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 311572,
@@ -147,14 +179,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 289044,
-      "num": 289044,
-      "word": "公交司机急刹车致乘客死亡获刑",
-      "onboard_time": 1679424314,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 284454,
       "num": 308391,
       "word": "下月起长沙可乘高铁直达香港",
@@ -180,11 +204,27 @@
     },
     {
       "raw_hot": 245480,
-      "num": 162966,
+      "num": 191808,
       "word": "官方通报男孩被家长打骂浑身淤青",
       "onboard_time": 1679432531,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 238350,
+      "num": 238350,
+      "word": "为什么说爬山检验感情",
+      "onboard_time": 1679406569,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 214315,
+      "num": 92506,
+      "word": "张杰直播",
+      "onboard_time": 1679441121,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 208263,
@@ -203,14 +243,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 197157,
-      "num": 197157,
-      "word": "为什么说爬山检验感情",
-      "onboard_time": 1679406569,
-      "rank": 24,
-      "category": "情感"
-    },
-    {
       "raw_hot": 191779,
       "num": 191779,
       "word": "刘耀文嘟嘴比耶照",
@@ -224,14 +256,6 @@
       "word": "官方证实大熊猫宝新已去世",
       "onboard_time": 1679375731,
       "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 179169,
-      "num": 179169,
-      "word": "北京沙尘暴",
-      "onboard_time": 1679440521,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -283,6 +307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 140476,
+      "num": 140476,
+      "word": "沙溢比宋亚轩爸爸大一岁",
+      "onboard_time": 1679440281,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 137009,
       "num": 137009,
       "word": "TES五连败",
@@ -313,6 +345,14 @@
       "onboard_time": 1679402424,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 116171,
+      "num": 116171,
+      "word": "山东基建巨无霸有多硬核",
+      "onboard_time": 1679440881,
+      "rank": 26,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 115054,
@@ -355,14 +395,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 105274,
-      "num": 105274,
-      "word": "沙溢比宋亚轩爸爸大一岁",
-      "onboard_time": 1679440281,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 101807,
       "num": 101807,
       "word": "内娱天花板公主抱",
@@ -387,12 +419,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 99727,
-      "num": 448328,
-      "word": "不要等缺水了才想起节水",
-      "onboard_time": 1679440160,
-      "rank": 0,
-      "category": "社会新闻"
+      "raw_hot": 96412,
+      "num": 90577,
+      "word": "彭十六辟谣",
+      "onboard_time": 1679441304,
+      "rank": 31,
+      "category": "网红"
     },
     {
       "raw_hot": 90014,
@@ -443,6 +475,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 58679,
+      "num": 58679,
+      "word": "四川广安遭遇大地震系造谣",
+      "onboard_time": 1679441423,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52769,
       "num": 52769,
       "word": "丁泽仁否认嘴队友",
@@ -468,7 +508,7 @@
     },
     {
       "raw_hot": 27370,
-      "num": 570308,
+      "num": 579500,
       "word": "以中国新发展给世界带来新机遇",
       "onboard_time": 1679403808,
       "rank": 2,
