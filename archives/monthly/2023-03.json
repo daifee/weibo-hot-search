@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679373334228,
+  "endTime": 1679375819819,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -537,6 +537,14 @@
       "onboard_time": 1678340967,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2373568,
+      "num": 764940,
+      "word": "南华大学造女生黄谣男生已保研",
+      "onboard_time": 1679372431,
+      "rank": 46,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 2370708,
@@ -1321,6 +1329,14 @@
       "onboard_time": 1677745170,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1762559,
+      "num": 1762559,
+      "word": "乐华娱乐被列为经营异常",
+      "onboard_time": 1679373633,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 1761486,
@@ -2459,6 +2475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1369471,
+      "num": 478646,
+      "word": "南华大学造黄谣男生已被开除",
+      "onboard_time": 1679375013,
+      "rank": 12,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1369052,
       "num": 1369052,
       "word": "海南椰树集团招生本科年薪16.8万",
@@ -2633,6 +2657,14 @@
       "onboard_time": 1678282647,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1322109,
+      "num": 662472,
+      "word": "男子为寻妻下落抡椅殴打女儿",
+      "onboard_time": 1679373575,
+      "rank": 3,
+      "category": "社会负面"
     },
     {
       "raw_hot": 1315853,
@@ -3161,14 +3193,6 @@
       "onboard_time": 1678249951,
       "rank": 12,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 1196247,
-      "num": 764940,
-      "word": "南华大学造女生黄谣男生已保研",
-      "onboard_time": 1679372431,
-      "rank": 46,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1195365,
@@ -7947,6 +7971,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 696508,
+      "num": 696508,
+      "word": "声生不息宝岛季一公分组名单",
+      "onboard_time": 1679370749,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 695346,
       "num": 368007,
       "word": "LGD对战TES",
@@ -8145,14 +8177,6 @@
       "onboard_time": 1678493664,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 684165,
-      "num": 684165,
-      "word": "声生不息宝岛季一公分组名单",
-      "onboard_time": 1679370749,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 684115,
@@ -8616,6 +8640,14 @@
       "word": "同城快送收到背去世老人下楼订单",
       "onboard_time": 1678145483,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 659542,
+      "num": 659542,
+      "word": "还有多少女孩被挂在黄色网站上",
+      "onboard_time": 1679374472,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -13491,6 +13523,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 473415,
+      "num": 473415,
+      "word": "冉莹颖称轩轩韧带断裂",
+      "onboard_time": 1679374712,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 473403,
       "num": 473403,
       "word": "郭帆 赛凡",
@@ -14195,6 +14235,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 450511,
+      "num": 450511,
+      "word": "杨迪在高铁站被问是不是学生",
+      "onboard_time": 1679373213,
+      "rank": 22,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 449537,
       "num": 243410,
       "word": "怎么亲嘴还要人教啊",
@@ -14276,7 +14324,7 @@
     },
     {
       "raw_hot": 447083,
-      "num": 447083,
+      "num": 495898,
       "word": "杭州杀妻碎尸案案件梳理",
       "onboard_time": 1679370627,
       "rank": 13,
@@ -14873,6 +14921,14 @@
       "onboard_time": 1677764670,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 429499,
+      "num": 218343,
+      "word": "官方证实大熊猫宝新已去世",
+      "onboard_time": 1679375731,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 429343,
@@ -18443,6 +18499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 345425,
+      "num": 345425,
+      "word": "那英说和马嘉祺是儿子和妈组合",
+      "onboard_time": 1679375372,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 345240,
       "num": 345240,
       "word": "天堂门票",
@@ -20259,14 +20323,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 311253,
-      "num": 311253,
-      "word": "杨迪在高铁站被问是不是学生",
-      "onboard_time": 1679373213,
-      "rank": 22,
-      "category": "艺人,幽默"
-    },
-    {
       "raw_hot": 311150,
       "num": 311150,
       "word": "南极洲深海拍到罕见冥河水母",
@@ -20433,6 +20489,14 @@
       "onboard_time": 1677643589,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 307733,
+      "num": 307733,
+      "word": "黑暗荣耀河艺率画报",
+      "onboard_time": 1679372970,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 307729,
@@ -20729,6 +20793,14 @@
       "onboard_time": 1677789790,
       "rank": 5,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 301435,
+      "num": 301435,
+      "word": "杏花乌龙拿铁",
+      "onboard_time": 1679373575,
+      "rank": 23,
+      "category": "美食"
     },
     {
       "raw_hot": 301362,
@@ -21161,6 +21233,14 @@
       "onboard_time": 1677653007,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 293334,
+      "num": 293334,
+      "word": "媒体评年轻人不上课不上进只上香",
+      "onboard_time": 1679374893,
+      "rank": 24,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 293112,
@@ -25667,6 +25747,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 224040,
+      "num": 222061,
+      "word": "李莎拉靠眼睛拿下剧本",
+      "onboard_time": 1679375430,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 223913,
       "num": 223913,
       "word": "李斯丹妮在澳门教葡萄牙大厨说中文",
@@ -25969,6 +26057,14 @@
       "onboard_time": 1679037149,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 220875,
+      "num": 220875,
+      "word": "他是谁开分8.2",
+      "onboard_time": 1679373333,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 220755,
@@ -26529,6 +26625,14 @@
       "onboard_time": 1679368527,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 214195,
+      "num": 214195,
+      "word": "当你越来越像你妈妈的时候",
+      "onboard_time": 1679373453,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 213877,
@@ -27321,6 +27425,14 @@
       "onboard_time": 1678330046,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 206657,
+      "num": 206657,
+      "word": "宋妍霏MV男主",
+      "onboard_time": 1679375670,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 206628,
@@ -31139,14 +31251,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 182947,
-      "num": 182947,
-      "word": "黑暗荣耀河艺率画报",
-      "onboard_time": 1679372970,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 182904,
       "num": 182904,
       "word": "建议出台反网络暴力法",
@@ -34552,6 +34656,14 @@
       "word": "何宣林2分钟台词自白",
       "onboard_time": 1678272627,
       "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 148861,
+      "num": 148861,
+      "word": "回响今日大结局",
+      "onboard_time": 1679375611,
+      "rank": 48,
       "category": "影视"
     },
     {
@@ -41209,6 +41321,14 @@
       "onboard_time": 1677854249,
       "rank": 43,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 45779,
+      "num": 194915,
+      "word": "千万网友为撒贝宁点餐",
+      "onboard_time": 1679374829,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 45406,
