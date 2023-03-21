@@ -1,0 +1,410 @@
+{
+  "runTime": 1679411778236,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 256081,
+        "num": 916252,
+        "word": "春已至花正开",
+        "onboard_time": 1679408191,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1266556,
+        "num": 911035,
+        "word": "高叶狂飙后首个常驻综艺",
+        "onboard_time": 1679409572,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32930,
+        "num": 850484,
+        "word": "以中国新发展给世界带来新机遇",
+        "onboard_time": 1679403808,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 969933,
+        "num": 849386,
+        "word": "向太说丫丫没回家之前我们不能松懈",
+        "onboard_time": 1679411133,
+        "rank": 3,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 847478,
+        "num": 847478,
+        "word": "青春环游记制片人确认徐明浩加盟",
+        "onboard_time": 1679408911,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1377200,
+        "num": 776487,
+        "word": "开门杀致人死亡女子被判9个月",
+        "onboard_time": 1679404649,
+        "rank": 5,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1212392,
+        "num": 755931,
+        "word": "舌头放对位置真的很重要",
+        "onboard_time": 1679408011,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 681303,
+        "num": 681303,
+        "word": "大胆请假拒绝请假耻辱",
+        "onboard_time": 1679389051,
+        "rank": 7,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 567020,
+        "num": 567020,
+        "word": "韩剧黑暗荣耀",
+        "onboard_time": 1679408191,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 424541,
+        "num": 566451,
+        "word": "哇唧唧哇香香",
+        "onboard_time": 1679408971,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1297229,
+        "num": 565567,
+        "word": "广东揭西发生严重交通事故",
+        "onboard_time": 1679406809,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 963356,
+        "num": 564658,
+        "word": "张译LOFTER账号",
+        "onboard_time": 1679407530,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 755833,
+        "num": 563994,
+        "word": "彭十六",
+        "onboard_time": 1679411133,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 563576,
+        "num": 563576,
+        "word": "宋慧乔ins 争宠",
+        "onboard_time": 1679396609,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 544254,
+        "num": 544254,
+        "word": "乔欣泰妆",
+        "onboard_time": 1679409992,
+        "rank": 14,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 371815,
+        "num": 371815,
+        "word": "为什么说爬山检验感情",
+        "onboard_time": 1679406569,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 361656,
+        "num": 361656,
+        "word": "山姆会员店寿司致多人上吐下泻",
+        "onboard_time": 1679394808,
+        "rank": 16,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 316122,
+        "num": 316122,
+        "word": "Hope",
+        "onboard_time": 1679407769,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 315044,
+        "num": 315044,
+        "word": "女主韦一敏 男主王子斌",
+        "onboard_time": 1679401887,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 309729,
+        "num": 309729,
+        "word": "特朗普预告的被捕时间将到",
+        "onboard_time": 1679396008,
+        "rank": 19,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 648399,
+        "num": 307909,
+        "word": "爸爸离世后5岁娃深夜洗鞋妈妈泪奔",
+        "onboard_time": 1679408612,
+        "rank": 20,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 509360,
+        "num": 297435,
+        "word": "男子将200万房子80元卖了",
+        "onboard_time": 1679400986,
+        "rank": 21,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 284152,
+        "num": 284152,
+        "word": "下月起长沙可乘高铁直达香港",
+        "onboard_time": 1679410233,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276419,
+        "num": 276419,
+        "word": "官方证实大熊猫宝新已去世",
+        "onboard_time": 1679375731,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274217,
+        "num": 274217,
+        "word": "网剧回响",
+        "onboard_time": 1679402849,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 269642,
+        "num": 269642,
+        "word": "长期侧睡对脸型的影响有多大",
+        "onboard_time": 1679410955,
+        "rank": 25,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 239459,
+        "num": 239459,
+        "word": "内娱隐藏手模",
+        "onboard_time": 1679401108,
+        "rank": 26,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 238843,
+        "num": 238843,
+        "word": "戚薇如果爱忘了MV",
+        "onboard_time": 1679402424,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 226156,
+        "num": 226156,
+        "word": "一个姿势帮你快速入睡",
+        "onboard_time": 1679402849,
+        "rank": 28,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 222416,
+        "num": 222416,
+        "word": "TES五连败",
+        "onboard_time": 1679398528,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 211763,
+        "num": 211763,
+        "word": "舒淇摇曳生姿的白玫瑰",
+        "onboard_time": 1679399907,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 208599,
+        "num": 208599,
+        "word": "模仿金庸笔下的美女",
+        "onboard_time": 1679407051,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 207579,
+        "num": 207579,
+        "word": "调解双胞胎打架",
+        "onboard_time": 1679397449,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 205353,
+        "num": 205353,
+        "word": "夫妻之间该不该明算帐",
+        "onboard_time": 1679408252,
+        "rank": 33,
+        "category": "影视,情感"
+      },
+      {
+        "raw_hot": 196162,
+        "num": 196162,
+        "word": "警方回应揭西发生严重交通事故",
+        "onboard_time": 1679410531,
+        "rank": 34,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 191993,
+        "num": 191993,
+        "word": "阴阳师",
+        "onboard_time": 1679411370,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 175182,
+        "num": 175182,
+        "word": "中俄全方位务实合作保持良好发展势头",
+        "onboard_time": 1679407051,
+        "rank": 36,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 170446,
+        "num": 170446,
+        "word": "重启之极海听雷2香港定档",
+        "onboard_time": 1679401049,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 154565,
+        "num": 154565,
+        "word": "WBG战胜WE",
+        "onboard_time": 1679407950,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 153734,
+        "num": 153734,
+        "word": "内娱天花板公主抱",
+        "onboard_time": 1679392948,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 151184,
+        "num": 151184,
+        "word": "丁禹兮古装扮相",
+        "onboard_time": 1679410830,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 147009,
+        "num": 147009,
+        "word": "网友深圳偶遇萧敬腾打篮球",
+        "onboard_time": 1679404708,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142312,
+        "num": 142312,
+        "word": "王子文说谈恋爱就是要全力以赴",
+        "onboard_time": 1679401407,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134610,
+        "num": 134610,
+        "word": "青春环游记",
+        "onboard_time": 1679393491,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132273,
+        "num": 132273,
+        "word": "全红婵哭了",
+        "onboard_time": 1679389290,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131265,
+        "num": 131265,
+        "word": "曝大量华人资产从瑞士美国撤离",
+        "onboard_time": 1679411491,
+        "rank": 45,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 131200,
+        "num": 131200,
+        "word": "见过最离谱的招聘要求",
+        "onboard_time": 1679410054,
+        "rank": 46,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 127917,
+        "num": 127917,
+        "word": "Heng身体不适",
+        "onboard_time": 1679405669,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 127025,
+        "num": 127025,
+        "word": "纽约警方为特朗普或遭起诉设置路障",
+        "onboard_time": 1679401589,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124145,
+        "num": 124145,
+        "word": "老人和2岁孩子疑被邻居追砍身亡",
+        "onboard_time": 1679411554,
+        "rank": 49,
+        "category": "社会负面"
+      }
+    ],
+    "hotgov": {
+      "word": "#中俄关系在各自外交全局中占优先地位#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679409205056,
+  "endTime": 1679411778236,
   "band_list": [
     {
       "raw_hot": 7256959,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 2083170,
-      "num": 592917,
+      "num": 776487,
       "word": "开门杀致人死亡女子被判9个月",
       "onboard_time": 1679404649,
       "rank": 11,
@@ -252,7 +252,7 @@
     },
     {
       "raw_hot": 1439090,
-      "num": 483513,
+      "num": 563576,
       "word": "宋慧乔ins 争宠",
       "onboard_time": 1679396609,
       "rank": 10,
@@ -331,8 +331,16 @@
       "category": "教育,幽默"
     },
     {
+      "raw_hot": 1266556,
+      "num": 911035,
+      "word": "高叶狂飙后首个常驻综艺",
+      "onboard_time": 1679409572,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1254969,
-      "num": 463902,
+      "num": 564658,
       "word": "张译LOFTER账号",
       "onboard_time": 1679407530,
       "rank": 12,
@@ -353,6 +361,14 @@
       "onboard_time": 1679369787,
       "rank": 0,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1212392,
+      "num": 755931,
+      "word": "舌头放对位置真的很重要",
+      "onboard_time": 1679408011,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 1205994,
@@ -547,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 969933,
+      "num": 849386,
+      "word": "向太说丫丫没回家之前我们不能松懈",
+      "onboard_time": 1679411133,
+      "rank": 3,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 962463,
       "num": 962463,
       "word": "4名学生偷渡前往缅甸后失联",
@@ -731,6 +755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 847478,
+      "num": 847478,
+      "word": "青春环游记制片人确认徐明浩加盟",
+      "onboard_time": 1679408911,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 833406,
       "num": 659542,
       "word": "还有多少女孩被挂在黄色网站上",
@@ -833,6 +865,14 @@
       "onboard_time": 1679278407,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 755833,
+      "num": 563994,
+      "word": "彭十六",
+      "onboard_time": 1679411133,
+      "rank": 12,
+      "category": "网红"
     },
     {
       "raw_hot": 755249,
@@ -969,6 +1009,14 @@
       "onboard_time": 1679400986,
       "rank": 20,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 648399,
+      "num": 307909,
+      "word": "爸爸离世后5岁娃深夜洗鞋妈妈泪奔",
+      "onboard_time": 1679408612,
+      "rank": 33,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 647431,
@@ -1227,6 +1275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 567020,
+      "num": 567020,
+      "word": "韩剧黑暗荣耀",
+      "onboard_time": 1679408191,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 566720,
       "num": 566720,
       "word": "内娱天花板公主抱",
@@ -1331,12 +1387,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 541808,
-      "num": 541808,
-      "word": "韩剧黑暗荣耀",
-      "onboard_time": 1679408191,
-      "rank": 8,
-      "category": "影视"
+      "raw_hot": 544254,
+      "num": 544254,
+      "word": "乔欣泰妆",
+      "onboard_time": 1679409992,
+      "rank": 14,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 536063,
@@ -1731,6 +1787,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 424541,
+      "num": 566451,
+      "word": "哇唧唧哇香香",
+      "onboard_time": 1679408971,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 422443,
       "num": 422443,
       "word": "俄方在机场举行迎宾仪式",
@@ -1929,6 +1993,14 @@
       "onboard_time": 1679296587,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 371815,
+      "num": 371815,
+      "word": "为什么说爬山检验感情",
+      "onboard_time": 1679406569,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 369300,
@@ -2147,14 +2219,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 323776,
-      "num": 323776,
-      "word": "青春环游记制片人确认徐明浩加盟",
-      "onboard_time": 1679408911,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 323652,
       "num": 323652,
       "word": "Hero辟谣",
@@ -2169,14 +2233,6 @@
       "onboard_time": 1679273668,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 322184,
-      "num": 322184,
-      "word": "为什么说爬山检验感情",
-      "onboard_time": 1679406569,
-      "rank": 27,
-      "category": "情感"
     },
     {
       "raw_hot": 322143,
@@ -2347,14 +2403,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 300919,
-      "num": 300919,
-      "word": "哇唧唧哇香香",
-      "onboard_time": 1679408971,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 297780,
       "num": 297780,
       "word": "3岁女童患罕见病伴15种并发症",
@@ -2369,14 +2417,6 @@
       "onboard_time": 1679287295,
       "rank": 25,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 296601,
-      "num": 234049,
-      "word": "舌头放对位置真的很重要",
-      "onboard_time": 1679408011,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 296057,
@@ -2473,6 +2513,14 @@
       "onboard_time": 1679380466,
       "rank": 48,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 284152,
+      "num": 284152,
+      "word": "下月起长沙可乘高铁直达香港",
+      "onboard_time": 1679410233,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 283634,
@@ -2595,6 +2643,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 269642,
+      "num": 269642,
+      "word": "长期侧睡对脸型的影响有多大",
+      "onboard_time": 1679410955,
+      "rank": 25,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 269061,
       "num": 269061,
       "word": "8箱芒果托运980女子当场吃完",
@@ -2641,6 +2697,14 @@
       "onboard_time": 1679311895,
       "rank": 28,
       "category": "作品衍生,社会新闻"
+    },
+    {
+      "raw_hot": 256081,
+      "num": 919207,
+      "word": "春已至花正开",
+      "onboard_time": 1679408191,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 253695,
@@ -3009,14 +3073,6 @@
       "onboard_time": 1679407051,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 219616,
-      "num": 219616,
-      "word": "爸爸离世后5岁娃深夜洗鞋妈妈泪奔",
-      "onboard_time": 1679408612,
-      "rank": 33,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 219574,
@@ -3395,6 +3451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 196162,
+      "num": 196162,
+      "word": "警方回应揭西发生严重交通事故",
+      "onboard_time": 1679410531,
+      "rank": 34,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 195974,
       "num": 195974,
       "word": "无名延长上映",
@@ -3489,6 +3553,14 @@
       "onboard_time": 1679354240,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191993,
+      "num": 191993,
+      "word": "阴阳师",
+      "onboard_time": 1679411370,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 191452,
@@ -4027,14 +4099,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 156256,
-      "num": 919207,
-      "word": "春已至花正开",
-      "onboard_time": 1679408191,
-      "rank": 0,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 154938,
       "num": 154938,
       "word": "路人被整蛊后的反应",
@@ -4088,6 +4152,14 @@
       "word": "电影倒数说爱你首支长预告",
       "onboard_time": 1679367447,
       "rank": 39,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 151184,
+      "num": 151184,
+      "word": "丁禹兮古装扮相",
+      "onboard_time": 1679410830,
+      "rank": 40,
       "category": "影视"
     },
     {
@@ -4411,6 +4483,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 131265,
+      "num": 131265,
+      "word": "曝大量华人资产从瑞士美国撤离",
+      "onboard_time": 1679411491,
+      "rank": 45,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 131200,
+      "num": 131200,
+      "word": "见过最离谱的招聘要求",
+      "onboard_time": 1679410054,
+      "rank": 46,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 130812,
       "num": 130812,
       "word": "金智秀主打曲海报",
@@ -4521,6 +4609,14 @@
       "onboard_time": 1679232810,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124145,
+      "num": 124145,
+      "word": "老人和2岁孩子疑被邻居追砍身亡",
+      "onboard_time": 1679411554,
+      "rank": 49,
+      "category": "社会负面"
     },
     {
       "raw_hot": 122454,
@@ -4860,7 +4956,7 @@
     },
     {
       "raw_hot": 64529,
-      "num": 792569,
+      "num": 850484,
       "word": "以中国新发展给世界带来新机遇",
       "onboard_time": 1679403808,
       "rank": 2,
