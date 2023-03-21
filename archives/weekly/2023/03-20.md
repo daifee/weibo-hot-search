@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/03/20 00:23:41 ~ 2023/03/22 04:33:54
+本榜单时间：2023/03/20 00:23:41 ~ 2023/03/22 05:15:41
 </p>
 </blockquote>
 <p>
@@ -3857,6 +3857,12 @@ TWICE全员跳Pop（热度：65638）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E4%B8%89%E5%86%A0%E7%8E%8B%23" target="weibo">
 孙颖莎三冠王（热度：27779）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E5%AD%A9%E8%A2%AB%E5%AE%B6%E9%95%BF%E6%89%93%E9%AA%82%E6%B5%91%E8%BA%AB%E6%B7%A4%E9%9D%92%23" target="weibo">
+官方通报男孩被家长打骂浑身淤青（热度：14305）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1679415632915,
-  "endTime": 1679430834715,
+  "endTime": 1679433341837,
   "band_list": [
     {
       "raw_hot": 1337983,
@@ -440,6 +440,14 @@
       "word": "中国代表团抵达莫斯科",
       "onboard_time": 1679309609,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14305,
+      "num": 14104,
+      "word": "官方通报男孩被家长打骂浑身淤青",
+      "onboard_time": 1679432531,
+      "rank": 33,
       "category": "社会新闻"
     }
   ],
