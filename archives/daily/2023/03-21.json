@@ -1,6 +1,6 @@
 {
   "startTime": 1679329653267,
-  "endTime": 1679391232721,
+  "endTime": 1679393962249,
   "band_list": [
     {
       "raw_hot": 4463977,
@@ -33,6 +33,14 @@
       "onboard_time": 1679372431,
       "rank": 46,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 2327198,
+      "num": 811619,
+      "word": "大胆请假拒绝请假耻辱",
+      "onboard_time": 1679389051,
+      "rank": 9,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 2223638,
@@ -163,14 +171,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 1096682,
-      "num": 742328,
-      "word": "大胆请假拒绝请假耻辱",
-      "onboard_time": 1679389051,
-      "rank": 9,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 1094898,
       "num": 1094898,
       "word": "泰国旅游",
@@ -211,6 +211,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1023881,
+      "num": 683542,
+      "word": "员工去世老板私吞90万死亡赔偿金",
+      "onboard_time": 1679390010,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1019526,
       "num": 876788,
       "word": "杨紫范丞丞牵手路透",
@@ -241,6 +249,14 @@
       "onboard_time": 1679379329,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 939388,
+      "num": 939388,
+      "word": "徐明浩或将常驻青春环游记",
+      "onboard_time": 1679392227,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 927171,
@@ -539,6 +555,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 512288,
+      "num": 466765,
+      "word": "全红婵207C失误丢分",
+      "onboard_time": 1679390850,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 494030,
       "num": 494030,
       "word": "张家齐",
@@ -771,6 +795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 361752,
+      "num": 361752,
+      "word": "内娱天花板公主抱",
+      "onboard_time": 1679392948,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 359857,
       "num": 359857,
       "word": "WBG发文抵制私生",
@@ -825,6 +857,14 @@
       "onboard_time": 1679367868,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 338035,
+      "num": 338035,
+      "word": "为什么寺庙旅游突然火了",
+      "onboard_time": 1679387430,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 333028,
@@ -891,6 +931,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 307434,
+      "num": 307434,
+      "word": "OMG对战TES",
+      "onboard_time": 1679392529,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 306841,
       "num": 306841,
       "word": "泷泽秀明成立娱乐公司",
@@ -915,19 +963,19 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 301513,
+      "num": 301513,
+      "word": "井柏然做的菜",
+      "onboard_time": 1679390910,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 297780,
       "num": 297780,
       "word": "3岁女童患罕见病伴15种并发症",
       "onboard_time": 1679367208,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 294898,
-      "num": 294898,
-      "word": "员工去世老板私吞90万死亡赔偿金",
-      "onboard_time": 1679390010,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -987,20 +1035,28 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 272976,
-      "num": 272976,
-      "word": "为什么寺庙旅游突然火了",
-      "onboard_time": 1679387430,
-      "rank": 49,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 270530,
       "num": 270530,
       "word": "薛之谦演唱会 南昌",
       "onboard_time": 1679378129,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 261931,
+      "num": 261931,
+      "word": "青春环游记",
+      "onboard_time": 1679393491,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 260535,
+      "num": 260535,
+      "word": "人民日报评保你平安",
+      "onboard_time": 1679393728,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 260199,
@@ -1049,14 +1105,6 @@
       "onboard_time": 1679383951,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 241990,
-      "num": 241990,
-      "word": "井柏然做的菜",
-      "onboard_time": 1679390910,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 241751,
@@ -1155,6 +1203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 218919,
+      "num": 218919,
+      "word": "会两门语言才懂的笑话",
+      "onboard_time": 1679387789,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 217790,
       "num": 217790,
       "word": "分享欲是维持亲密关系的秘诀",
@@ -1211,6 +1267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 212591,
+      "num": 212591,
+      "word": "官方回应母女住民宿遭男房东强闯",
+      "onboard_time": 1679391149,
+      "rank": 49,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 207694,
       "num": 207694,
       "word": "虞书欣假装度假vlog",
@@ -1259,6 +1323,14 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 198737,
+      "num": 198737,
+      "word": "全红婵的入水有多丝滑",
+      "onboard_time": 1679393549,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 197563,
       "num": 197563,
       "word": "世界睡眠日",
@@ -1267,12 +1339,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 196559,
-      "num": 196559,
-      "word": "会两门语言才懂的笑话",
-      "onboard_time": 1679387789,
-      "rank": 31,
-      "category": "幽默"
+      "raw_hot": 197068,
+      "num": 197068,
+      "word": "归晓用吻送路晨戒指",
+      "onboard_time": 1679393067,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 195491,
@@ -1331,14 +1403,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 189167,
-      "num": 189167,
-      "word": "全红婵207C失误丢分",
-      "onboard_time": 1679390850,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 186367,
       "num": 186367,
       "word": "春闺梦里人今日开播",
@@ -1377,6 +1441,14 @@
       "onboard_time": 1679366247,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 178464,
+      "num": 178464,
+      "word": "小偷连续三天夜盗上海同一手机门店",
+      "onboard_time": 1679391449,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 177408,
@@ -1427,6 +1499,22 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 169456,
+      "num": 169456,
+      "word": "原来这也算公司福利",
+      "onboard_time": 1679392349,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 168041,
+      "num": 168041,
+      "word": "OMG晋级春季季后赛",
+      "onboard_time": 1679393549,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 167809,
       "num": 167809,
       "word": "TT官宣iBoy",
@@ -1449,6 +1537,14 @@
       "onboard_time": 1679368947,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 164722,
+      "num": 153832,
+      "word": "元气森林新包装气更足",
+      "onboard_time": 1679392827,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 160135,
@@ -1497,6 +1593,14 @@
       "onboard_time": 1679367447,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 149704,
+      "num": 149704,
+      "word": "祝绪丹和卖崽蛙合影比心",
+      "onboard_time": 1679391808,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 148861,
@@ -1561,6 +1665,14 @@
       "onboard_time": 1679314110,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 140874,
+      "num": 990486,
+      "word": "为地球之肺发条微博",
+      "onboard_time": 1679393008,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 139189,
@@ -1779,14 +1891,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 94480,
-      "num": 94480,
-      "word": "官方回应母女住民宿遭男房东强闯",
-      "onboard_time": 1679391149,
-      "rank": 49,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 93551,
       "num": 93551,
       "word": "回响",
@@ -1873,6 +1977,22 @@
       "onboard_time": 1679380709,
       "rank": 0,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 72444,
+      "num": 107570,
+      "word": "FindX6稳了吗",
+      "onboard_time": 1679392948,
+      "rank": 49,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 58590,
+      "num": 935627,
+      "word": "随手拍春天",
+      "onboard_time": 1679391509,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 56231,

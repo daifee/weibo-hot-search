@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679391232721,
+  "endTime": 1679393962249,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -609,6 +609,14 @@
       "onboard_time": 1679060550,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2327198,
+      "num": 811619,
+      "word": "大胆请假拒绝请假耻辱",
+      "onboard_time": 1679389051,
+      "rank": 9,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 2326658,
@@ -3723,14 +3731,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1096682,
-      "num": 742328,
-      "word": "大胆请假拒绝请假耻辱",
-      "onboard_time": 1679389051,
-      "rank": 9,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 1095452,
       "num": 271298,
       "word": "小S大女儿二女儿合体封面",
@@ -4313,6 +4313,14 @@
       "onboard_time": 1679363424,
       "rank": 3,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1023881,
+      "num": 683542,
+      "word": "员工去世老板私吞90万死亡赔偿金",
+      "onboard_time": 1679390010,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1023250,
@@ -5089,6 +5097,14 @@
       "onboard_time": 1678583844,
       "rank": 1,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 939388,
+      "num": 939388,
+      "word": "徐明浩或将常驻青春环游记",
+      "onboard_time": 1679392227,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 938747,
@@ -12379,6 +12395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 512288,
+      "num": 466765,
+      "word": "全红婵207C失误丢分",
+      "onboard_time": 1679390850,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 512273,
       "num": 512273,
       "word": "微博之夜明星眼神杀",
@@ -17915,6 +17939,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 361752,
+      "num": 361752,
+      "word": "内娱天花板公主抱",
+      "onboard_time": 1679392948,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 361201,
       "num": 361201,
       "word": "马龙男单亚军",
@@ -19185,6 +19217,14 @@
       "onboard_time": 1679132367,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 338035,
+      "num": 338035,
+      "word": "为什么寺庙旅游突然火了",
+      "onboard_time": 1679387430,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 338026,
@@ -20803,6 +20843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 307434,
+      "num": 307434,
+      "word": "OMG对战TES",
+      "onboard_time": 1679392529,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 307295,
       "num": 307295,
       "word": "彭冠英王楚然兑现flag",
@@ -21097,6 +21145,14 @@
       "onboard_time": 1677789790,
       "rank": 5,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 301513,
+      "num": 301513,
+      "word": "井柏然做的菜",
+      "onboard_time": 1679390910,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 301362,
@@ -21481,14 +21537,6 @@
       "onboard_time": 1679218710,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 294898,
-      "num": 294898,
-      "word": "员工去世老板私吞90万死亡赔偿金",
-      "onboard_time": 1679390010,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 294847,
@@ -22755,14 +22803,6 @@
       "category": "综艺,音乐"
     },
     {
-      "raw_hot": 272976,
-      "num": 272976,
-      "word": "为什么寺庙旅游突然火了",
-      "onboard_time": 1679387430,
-      "rank": 49,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 272911,
       "num": 272911,
       "word": "人生路遥改名人生之路",
@@ -23537,6 +23577,14 @@
       "onboard_time": 1678462588,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 260535,
+      "num": 260535,
+      "word": "人民日报评保你平安",
+      "onboard_time": 1679393728,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 260444,
@@ -24681,14 +24729,6 @@
       "onboard_time": 1678263087,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 241990,
-      "num": 241990,
-      "word": "井柏然做的菜",
-      "onboard_time": 1679390910,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 241892,
@@ -26595,6 +26635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 218919,
+      "num": 218919,
+      "word": "会两门语言才懂的笑话",
+      "onboard_time": 1679387789,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 218862,
       "num": 218862,
       "word": "狂飙版美人鱼",
@@ -27177,6 +27225,14 @@
       "onboard_time": 1678246405,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 212591,
+      "num": 212591,
+      "word": "官方回应母女住民宿遭男房东强闯",
+      "onboard_time": 1679391149,
+      "rank": 49,
+      "category": "社会负面"
     },
     {
       "raw_hot": 212437,
@@ -29339,6 +29395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198737,
+      "num": 198737,
+      "word": "全红婵的入水有多丝滑",
+      "onboard_time": 1679393549,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198690,
       "num": 198690,
       "word": "DRG零封对手",
@@ -29643,6 +29707,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 197068,
+      "num": 197068,
+      "word": "归晓用吻送路晨戒指",
+      "onboard_time": 1679393067,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 197044,
       "num": 197044,
       "word": "古人戴5斤重的帽子是什么体验",
@@ -29681,14 +29753,6 @@
       "onboard_time": 1678603583,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 196559,
-      "num": 196559,
-      "word": "会两门语言才懂的笑话",
-      "onboard_time": 1679387789,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 196553,
@@ -30995,14 +31059,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 189167,
-      "num": 189167,
-      "word": "全红婵207C失误丢分",
-      "onboard_time": 1679390850,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 189015,
       "num": 189015,
       "word": "90花校服造型大赏",
@@ -32091,6 +32147,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 178464,
+      "num": 178464,
+      "word": "小偷连续三天夜盗上海同一手机门店",
+      "onboard_time": 1679391449,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 178441,
       "num": 178441,
       "word": "开往春天的花海限定列车",
@@ -33059,6 +33123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 169456,
+      "num": 169456,
+      "word": "原来这也算公司福利",
+      "onboard_time": 1679392349,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 169390,
       "num": 169390,
       "word": "湖人终结勇士五连胜",
@@ -33241,6 +33313,14 @@
       "onboard_time": 1678003346,
       "rank": 4,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 168041,
+      "num": 168041,
+      "word": "OMG晋级春季季后赛",
+      "onboard_time": 1679393549,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 167938,
@@ -33553,6 +33633,14 @@
       "onboard_time": 1679308050,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 164722,
+      "num": 153832,
+      "word": "元气森林新包装气更足",
+      "onboard_time": 1679392827,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 164616,
@@ -35075,6 +35163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 149704,
+      "num": 149704,
+      "word": "祝绪丹和卖崽蛙合影比心",
+      "onboard_time": 1679391808,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 149652,
       "num": 149652,
       "word": "花海娜可露露杀疯了",
@@ -36097,6 +36193,14 @@
       "onboard_time": 1678233206,
       "rank": 39,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 140874,
+      "num": 990486,
+      "word": "为地球之肺发条微博",
+      "onboard_time": 1679393008,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140858,
@@ -40339,14 +40443,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 94480,
-      "num": 94480,
-      "word": "官方回应母女住民宿遭男房东强闯",
-      "onboard_time": 1679391149,
-      "rank": 49,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 94084,
       "num": 94084,
       "word": "武警脱作训服做绳子冰河救人",
@@ -41299,6 +41395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 72444,
+      "num": 107570,
+      "word": "FindX6稳了吗",
+      "onboard_time": 1679392948,
+      "rank": 49,
+      "category": "科技"
+    },
+    {
       "raw_hot": 72428,
       "num": 72428,
       "word": "如果有百万年薪你会选择辞职创业吗",
@@ -41633,6 +41737,14 @@
       "onboard_time": 1678640538,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 58590,
+      "num": 935627,
+      "word": "随手拍春天",
+      "onboard_time": 1679391509,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 57873,
