@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679427214830,
+  "endTime": 1679429933100,
   "band_list": [
     {
       "raw_hot": 7256959,
@@ -5019,20 +5019,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 65497,
+      "num": 61017,
+      "word": "公交司机急刹车致乘客死亡获刑",
+      "onboard_time": 1679424314,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64529,
       "num": 850484,
       "word": "以中国新发展给世界带来新机遇",
       "onboard_time": 1679403808,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 61017,
-      "num": 61017,
-      "word": "公交司机急刹车致乘客死亡获刑",
-      "onboard_time": 1679424314,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 58590,
@@ -5051,19 +5051,19 @@
       "category": "幽默,影视"
     },
     {
+      "raw_hot": 53535,
+      "num": 32238,
+      "word": "男子在离婚冷静期买房前妻要求分割",
+      "onboard_time": 1679424434,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 51017,
       "num": 194915,
       "word": "千万网友为撒贝宁点餐",
       "onboard_time": 1679374829,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 47277,
-      "num": 32238,
-      "word": "男子在离婚冷静期买房前妻要求分割",
-      "onboard_time": 1679424434,
-      "rank": 25,
       "category": "社会新闻"
     },
     {
