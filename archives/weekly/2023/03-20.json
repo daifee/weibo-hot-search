@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679386972193,
+  "endTime": 1679387780134,
   "band_list": [
     {
       "raw_hot": 7256959,
@@ -27,7 +27,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2499276,
+      "raw_hot": 2546877,
       "num": 1052744,
       "word": "强奸13岁女孩致死案罪犯被判死刑",
       "onboard_time": 1679384187,
@@ -555,6 +555,14 @@
       "category": "社会负面,教育"
     },
     {
+      "raw_hot": 875437,
+      "num": 546722,
+      "word": "男子上班时请假外出嫖娼被解雇",
+      "onboard_time": 1679384668,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 872955,
       "num": 872955,
       "word": "广东人上床睡觉时间全国最晚",
@@ -584,14 +592,6 @@
       "word": "男子3万块钱车被13万停车费吓到",
       "onboard_time": 1679318609,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 856261,
-      "num": 410364,
-      "word": "男子上班时请假外出嫖娼被解雇",
-      "onboard_time": 1679384668,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -729,6 +729,14 @@
       "onboard_time": 1679224408,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 747303,
+      "num": 747303,
+      "word": "大学生已经在为五一做准备了",
+      "onboard_time": 1679385932,
+      "rank": 16,
+      "category": "教育,幽默"
     },
     {
       "raw_hot": 720771,
@@ -1091,6 +1099,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 546752,
+      "num": 546752,
+      "word": "花花明天要上班了",
+      "onboard_time": 1679383229,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 545519,
       "num": 545519,
       "word": "研究称男性也有最佳生育年龄",
@@ -1155,12 +1171,28 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 509002,
+      "num": 509002,
+      "word": "红双喜",
+      "onboard_time": 1679386228,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 501386,
       "num": 501386,
       "word": "王者荣耀",
       "onboard_time": 1679303128,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 496811,
+      "num": 496811,
+      "word": "因狗狗跑错楼主人被母子暴打",
+      "onboard_time": 1679385392,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 493811,
@@ -1355,14 +1387,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 442648,
-      "num": 442648,
-      "word": "花花明天要上班了",
-      "onboard_time": 1679383229,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 437340,
       "num": 437340,
       "word": "阿信做梦都想删掉这段视频吧",
@@ -1417,6 +1441,14 @@
       "onboard_time": 1679365706,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 429334,
+      "num": 429334,
+      "word": "张家齐",
+      "onboard_time": 1679386770,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 429083,
@@ -1584,14 +1616,6 @@
       "word": "睡不好的人容易变胖",
       "onboard_time": 1679358809,
       "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 378927,
-      "num": 378927,
-      "word": "因狗狗跑错楼主人被母子暴打",
-      "onboard_time": 1679385392,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1763,6 +1787,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 334965,
+      "num": 334965,
+      "word": "云南一男子接种男性9价HPV疫苗",
+      "onboard_time": 1679386052,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 333028,
       "num": 333028,
       "word": "张兰再回应海外欠债9.8亿事件",
@@ -1777,14 +1809,6 @@
       "onboard_time": 1679278167,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 332104,
-      "num": 332104,
-      "word": "大学生已经在为五一做准备了",
-      "onboard_time": 1679385932,
-      "rank": 16,
-      "category": "教育,幽默"
     },
     {
       "raw_hot": 331359,
@@ -2235,14 +2259,6 @@
       "category": "社会负面,科技"
     },
     {
-      "raw_hot": 251968,
-      "num": 251968,
-      "word": "红双喜",
-      "onboard_time": 1679386228,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 251847,
       "num": 251847,
       "word": "电视剧他是谁",
@@ -2595,12 +2611,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 212079,
-      "num": 212079,
-      "word": "云南一男子接种男性9价HPV疫苗",
-      "onboard_time": 1679386052,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 214191,
+      "num": 214191,
+      "word": "黑暗荣耀演员们4K无滤镜无美颜",
+      "onboard_time": 1679386169,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 209585,
@@ -2659,14 +2675,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 207651,
-      "num": 207651,
-      "word": "黑暗荣耀演员们4K无滤镜无美颜",
-      "onboard_time": 1679386169,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 206530,
       "num": 206530,
       "word": "陈红军家里有张合成的全家福",
@@ -2689,6 +2697,14 @@
       "onboard_time": 1679289509,
       "rank": 33,
       "category": "科技"
+    },
+    {
+      "raw_hot": 205129,
+      "num": 199867,
+      "word": "遇到一个有礼貌的鬼",
+      "onboard_time": 1679387130,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 204309,
@@ -2851,6 +2867,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 194316,
+      "num": 316887,
+      "word": "FindX6发布会",
+      "onboard_time": 1679386110,
+      "rank": 19,
+      "category": "科技"
+    },
+    {
       "raw_hot": 194289,
       "num": 194289,
       "word": "eStarDYG决战乒乓之巅",
@@ -2881,14 +2905,6 @@
       "onboard_time": 1679263334,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 193087,
-      "num": 275301,
-      "word": "FindX6发布会",
-      "onboard_time": 1679386110,
-      "rank": 19,
-      "category": "科技"
     },
     {
       "raw_hot": 193059,
@@ -3107,6 +3123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173714,
+      "num": 173714,
+      "word": "上海街头现移动冰块车",
+      "onboard_time": 1679387611,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172963,
       "num": 172963,
       "word": "司香师",
@@ -3129,6 +3153,14 @@
       "onboard_time": 1679318790,
       "rank": 37,
       "category": "幽默,作品衍生"
+    },
+    {
+      "raw_hot": 172243,
+      "num": 172243,
+      "word": "粉丝预告爱情而已明天定档",
+      "onboard_time": 1679387489,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 172062,
@@ -3185,14 +3217,6 @@
       "onboard_time": 1679383829,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 166181,
-      "num": 166181,
-      "word": "张家齐",
-      "onboard_time": 1679386770,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 166018,
@@ -3329,6 +3353,14 @@
       "onboard_time": 1679306668,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 154534,
+      "num": 154534,
+      "word": "分享欲是维持亲密关系的秘诀",
+      "onboard_time": 1679387130,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 152862,
@@ -3809,6 +3841,14 @@
       "onboard_time": 1679241808,
       "rank": 44,
       "category": "美食"
+    },
+    {
+      "raw_hot": 108750,
+      "num": 108750,
+      "word": "为什么寺庙旅游突然火了",
+      "onboard_time": 1679387430,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 105057,
