@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679393962249,
+  "endTime": 1679394893801,
   "band_list": [
     {
       "raw_hot": 7256959,
@@ -387,6 +387,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1070888,
+      "num": 739397,
+      "word": "员工去世老板私吞90万死亡赔偿金",
+      "onboard_time": 1679390010,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1051181,
       "num": 1051181,
       "word": "睡8个小时不一定代表睡得好",
@@ -417,14 +425,6 @@
       "onboard_time": 1679363424,
       "rank": 3,
       "category": "科技"
-    },
-    {
-      "raw_hot": 1023881,
-      "num": 683542,
-      "word": "员工去世老板私吞90万死亡赔偿金",
-      "onboard_time": 1679390010,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1019526,
@@ -1011,6 +1011,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 585748,
+      "num": 585748,
+      "word": "全红婵207C失误丢分",
+      "onboard_time": 1679390850,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 583970,
       "num": 387190,
       "word": "孙红雷被女儿夸帅的反应",
@@ -1147,6 +1155,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 553632,
+      "num": 553632,
+      "word": "内娱天花板公主抱",
+      "onboard_time": 1679392948,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 551359,
       "num": 551359,
       "word": "李湘辟谣主持乘风破浪",
@@ -1233,14 +1249,6 @@
       "onboard_time": 1679379567,
       "rank": 37,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 512288,
-      "num": 466765,
-      "word": "全红婵207C失误丢分",
-      "onboard_time": 1679390850,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 501386,
@@ -1456,6 +1464,14 @@
       "word": "阿信做梦都想删掉这段视频吧",
       "onboard_time": 1679301267,
       "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 435909,
+      "num": 435909,
+      "word": "青春环游记",
+      "onboard_time": 1679393491,
+      "rank": 20,
       "category": "综艺"
     },
     {
@@ -1755,14 +1771,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 361752,
-      "num": 361752,
-      "word": "内娱天花板公主抱",
-      "onboard_time": 1679392948,
-      "rank": 13,
-      "category": "影视"
-    },
-    {
       "raw_hot": 359857,
       "num": 359857,
       "word": "WBG发文抵制私生",
@@ -1977,6 +1985,14 @@
       "onboard_time": 1679358809,
       "rank": 23,
       "category": "影视,科技"
+    },
+    {
+      "raw_hot": 316573,
+      "num": 316573,
+      "word": "人民日报评保你平安",
+      "onboard_time": 1679393728,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 316108,
@@ -2331,14 +2347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 261931,
-      "num": 261931,
-      "word": "青春环游记",
-      "onboard_time": 1679393491,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 261872,
       "num": 261872,
       "word": "苦孩子也不能苦自己",
@@ -2355,20 +2363,20 @@
       "category": "作品衍生,社会新闻"
     },
     {
-      "raw_hot": 260535,
-      "num": 260535,
-      "word": "人民日报评保你平安",
-      "onboard_time": 1679393728,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 253695,
       "num": 253695,
       "word": "云胡不喜女主 宋元",
       "onboard_time": 1679356347,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 252668,
+      "num": 252668,
+      "word": "我的名字是我爷起的",
+      "onboard_time": 1679394328,
+      "rank": 21,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 252626,
@@ -2587,6 +2595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 228037,
+      "num": 228037,
+      "word": "官方回应母女住民宿遭男房东强闯",
+      "onboard_time": 1679391149,
+      "rank": 49,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 227580,
       "num": 227580,
       "word": "诺一逛环球影城",
@@ -2763,14 +2779,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 212591,
-      "num": 212591,
-      "word": "官方回应母女住民宿遭男房东强闯",
-      "onboard_time": 1679391149,
-      "rank": 49,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 209585,
       "num": 209585,
       "word": "晚睡晚起原来是病",
@@ -2939,6 +2947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200167,
+      "num": 200167,
+      "word": "全红婵的入水有多丝滑",
+      "onboard_time": 1679393549,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199447,
       "num": 199447,
       "word": "宋亚轩挑战与春天合拍视频",
@@ -2961,14 +2977,6 @@
       "onboard_time": 1679242286,
       "rank": 23,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 198737,
-      "num": 198737,
-      "word": "全红婵的入水有多丝滑",
-      "onboard_time": 1679393549,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 198574,
@@ -3139,6 +3147,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 185408,
+      "num": 185408,
+      "word": "OMG晋级春季季后赛",
+      "onboard_time": 1679393549,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 185145,
       "num": 185145,
       "word": "湖人战胜魔术",
@@ -3153,6 +3169,14 @@
       "onboard_time": 1679303669,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 184993,
+      "num": 990486,
+      "word": "为地球之肺发条微博",
+      "onboard_time": 1679393008,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 184810,
@@ -3195,12 +3219,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 179911,
+      "num": 179911,
+      "word": "你遇到过哪些离谱的辞退理由",
+      "onboard_time": 1679394508,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 179383,
       "num": 129089,
       "word": "贺峻霖投篮姿势",
       "onboard_time": 1679268684,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 179314,
+      "num": 179314,
+      "word": "小偷连续三天夜盗上海同一手机门店",
+      "onboard_time": 1679391449,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 179029,
@@ -3233,14 +3273,6 @@
       "onboard_time": 1679311054,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 178464,
-      "num": 178464,
-      "word": "小偷连续三天夜盗上海同一手机门店",
-      "onboard_time": 1679391449,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 178118,
@@ -3377,14 +3409,6 @@
       "onboard_time": 1679320651,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 168041,
-      "num": 168041,
-      "word": "OMG晋级春季季后赛",
-      "onboard_time": 1679393549,
-      "rank": 35,
-      "category": "游戏"
     },
     {
       "raw_hot": 167613,
@@ -3595,6 +3619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 150543,
+      "num": 150543,
+      "word": "为了早睡你都做过哪些事",
+      "onboard_time": 1679394089,
+      "rank": 35,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 150166,
       "num": 150166,
       "word": "雅思组合击败韩国队获混双冠军",
@@ -3779,14 +3811,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 140874,
-      "num": 990486,
-      "word": "为地球之肺发条微博",
-      "onboard_time": 1679393008,
-      "rank": 0,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 139549,
       "num": 139549,
       "word": "女子在缅遭绑哭喊我有两小孩",
@@ -3809,6 +3833,14 @@
       "onboard_time": 1679381488,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 138127,
+      "num": 138127,
+      "word": "山姆会员店寿司致多人上吐下泻",
+      "onboard_time": 1679394808,
+      "rank": 41,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 136929,
@@ -3955,6 +3987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122106,
+      "num": 122106,
+      "word": "被一只小狗崽藐视了",
+      "onboard_time": 1679391090,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 121991,
       "num": 121991,
       "word": "刘宇宁寻一个你微博年度人气音乐",
@@ -3985,6 +4025,14 @@
       "onboard_time": 1679269586,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 119434,
+      "num": 119434,
+      "word": "需要一个这样的理发伴侣",
+      "onboard_time": 1679394388,
+      "rank": 49,
+      "category": "幽默,时尚"
     },
     {
       "raw_hot": 118104,
@@ -4236,7 +4284,7 @@
     },
     {
       "raw_hot": 72444,
-      "num": 107570,
+      "num": 124942,
       "word": "FindX6稳了吗",
       "onboard_time": 1679392948,
       "rank": 49,

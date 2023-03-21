@@ -1,0 +1,410 @@
+{
+  "runTime": 1679394893801,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 184993,
+        "num": 951965,
+        "word": "为地球之肺发条微博",
+        "onboard_time": 1679393008,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 884221,
+        "num": 884221,
+        "word": "徐明浩或将常驻青春环游记",
+        "onboard_time": 1679392227,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53186,
+        "num": 834276,
+        "word": "随手拍春天",
+        "onboard_time": 1679391509,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2200241,
+        "num": 781743,
+        "word": "大胆请假拒绝请假耻辱",
+        "onboard_time": 1679389051,
+        "rank": 3,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 1070888,
+        "num": 739397,
+        "word": "员工去世老板私吞90万死亡赔偿金",
+        "onboard_time": 1679390010,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 982524,
+        "num": 648258,
+        "word": "全红婵哭了",
+        "onboard_time": 1679389290,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 899516,
+        "num": 624586,
+        "word": "官方证实大熊猫宝新已去世",
+        "onboard_time": 1679375731,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 585748,
+        "num": 585748,
+        "word": "全红婵207C失误丢分",
+        "onboard_time": 1679390850,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 553632,
+        "num": 553632,
+        "word": "内娱天花板公主抱",
+        "onboard_time": 1679392948,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 518089,
+        "num": 518089,
+        "word": "女子领生育金被告知丈夫已婚",
+        "onboard_time": 1679381369,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 493179,
+        "num": 493179,
+        "word": "大学生已经在为五一做准备了",
+        "onboard_time": 1679385932,
+        "rank": 10,
+        "category": "教育,幽默"
+      },
+      {
+        "raw_hot": 435909,
+        "num": 435909,
+        "word": "青春环游记",
+        "onboard_time": 1679393491,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 400848,
+        "num": 400848,
+        "word": "普京宣布免除超200亿美元非洲债务",
+        "onboard_time": 1679378969,
+        "rank": 12,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 386049,
+        "num": 386049,
+        "word": "田曦薇烟熏妆",
+        "onboard_time": 1679388511,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 384176,
+        "num": 384176,
+        "word": "陈曌旭在张杰演唱会团队",
+        "onboard_time": 1679388931,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 345612,
+        "num": 345612,
+        "word": "因狗狗跑错楼主人被母子暴打",
+        "onboard_time": 1679385392,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335237,
+        "num": 335237,
+        "word": "为什么寺庙旅游突然火了",
+        "onboard_time": 1679387430,
+        "rank": 16,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 316573,
+        "num": 316573,
+        "word": "人民日报评保你平安",
+        "onboard_time": 1679393728,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 290902,
+        "num": 290902,
+        "word": "红双喜",
+        "onboard_time": 1679386228,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 286607,
+        "num": 286607,
+        "word": "南华大学造黄谣男生已被开除",
+        "onboard_time": 1679375013,
+        "rank": 19,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 277681,
+        "num": 277681,
+        "word": "井柏然做的菜",
+        "onboard_time": 1679390910,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252668,
+        "num": 252668,
+        "word": "我的名字是我爷起的",
+        "onboard_time": 1679394328,
+        "rank": 21,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 249280,
+        "num": 249280,
+        "word": "花花明天要上班了",
+        "onboard_time": 1679383229,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241725,
+        "num": 241725,
+        "word": "OMG对战TES",
+        "onboard_time": 1679392529,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 228037,
+        "num": 228037,
+        "word": "官方回应母女住民宿遭男房东强闯",
+        "onboard_time": 1679391149,
+        "rank": 24,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 227122,
+        "num": 227122,
+        "word": "杨紫范丞丞牵手路透",
+        "onboard_time": 1679383351,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 219752,
+        "num": 219752,
+        "word": "云南一男子接种男性9价HPV疫苗",
+        "onboard_time": 1679386052,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218159,
+        "num": 218159,
+        "word": "媒体评年轻人不上课不上进只上香",
+        "onboard_time": 1679374893,
+        "rank": 27,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 200167,
+        "num": 200167,
+        "word": "全红婵的入水有多丝滑",
+        "onboard_time": 1679393549,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197614,
+        "num": 197614,
+        "word": "会两门语言才懂的笑话",
+        "onboard_time": 1679387789,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 190637,
+        "num": 190637,
+        "word": "中方回应国际刑事法院对普京逮捕令",
+        "onboard_time": 1679394866,
+        "rank": 30,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 185408,
+        "num": 185408,
+        "word": "OMG晋级春季季后赛",
+        "onboard_time": 1679393549,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 179911,
+        "num": 179911,
+        "word": "你遇到过哪些离谱的辞退理由",
+        "onboard_time": 1679394508,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 179314,
+        "num": 179314,
+        "word": "小偷连续三天夜盗上海同一手机门店",
+        "onboard_time": 1679391449,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166240,
+        "num": 166240,
+        "word": "遇到一个有礼貌的鬼",
+        "onboard_time": 1679387130,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 150543,
+        "num": 150543,
+        "word": "为了早睡你都做过哪些事",
+        "onboard_time": 1679394089,
+        "rank": 35,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 149803,
+        "num": 149803,
+        "word": "分享欲是维持亲密关系的秘诀",
+        "onboard_time": 1679387130,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149402,
+        "num": 149402,
+        "word": "微博之夜",
+        "onboard_time": 1679367568,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 140282,
+        "num": 140282,
+        "word": "诺一逛环球影城",
+        "onboard_time": 1679389828,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133758,
+        "num": 138533,
+        "word": "元气森林新包装气更足",
+        "onboard_time": 1679392827,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138279,
+        "num": 138279,
+        "word": "原来这也算公司福利",
+        "onboard_time": 1679392349,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138127,
+        "num": 138127,
+        "word": "山姆会员店寿司致多人上吐下泻",
+        "onboard_time": 1679394808,
+        "rank": 41,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 130908,
+        "num": 130908,
+        "word": "张家齐",
+        "onboard_time": 1679386770,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128822,
+        "num": 128822,
+        "word": "祝绪丹和卖崽蛙合影比心",
+        "onboard_time": 1679391808,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126356,
+        "num": 126356,
+        "word": "郑渊洁希望张颂文不要写作",
+        "onboard_time": 1679383532,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 50090,
+        "num": 124942,
+        "word": "FindX6稳了吗",
+        "onboard_time": 1679392948,
+        "rank": 45,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 124905,
+        "num": 124905,
+        "word": "不小心把猫脚剪伤后",
+        "onboard_time": 1679388750,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122271,
+        "num": 122271,
+        "word": "原来新疆的房子长这样",
+        "onboard_time": 1679377409,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122106,
+        "num": 122106,
+        "word": "被一只小狗崽藐视了",
+        "onboard_time": 1679391090,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119434,
+        "num": 119434,
+        "word": "需要一个这样的理发伴侣",
+        "onboard_time": 1679394388,
+        "rank": 49,
+        "category": "幽默,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#中俄关系在各自外交全局中占优先地位#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679393962249,
+  "endTime": 1679394893801,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -3915,6 +3915,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 1070888,
+      "num": 739397,
+      "word": "员工去世老板私吞90万死亡赔偿金",
+      "onboard_time": 1679390010,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1070417,
       "num": 770554,
       "word": "好欢螺回应妇女节争议文案",
@@ -4313,14 +4321,6 @@
       "onboard_time": 1679363424,
       "rank": 3,
       "category": "科技"
-    },
-    {
-      "raw_hot": 1023881,
-      "num": 683542,
-      "word": "员工去世老板私吞90万死亡赔偿金",
-      "onboard_time": 1679390010,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1023250,
@@ -10339,6 +10339,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 585748,
+      "num": 585748,
+      "word": "全红婵207C失误丢分",
+      "onboard_time": 1679390850,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 585583,
       "num": 443460,
       "word": "许榕真谭松韵新剧演母女",
@@ -11209,6 +11217,14 @@
       "onboard_time": 1679043992,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 553632,
+      "num": 553632,
+      "word": "内娱天花板公主抱",
+      "onboard_time": 1679392948,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 553534,
@@ -12393,14 +12409,6 @@
       "onboard_time": 1678857329,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 512288,
-      "num": 466765,
-      "word": "全红婵207C失误丢分",
-      "onboard_time": 1679390850,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 512273,
@@ -14931,6 +14939,14 @@
       "category": "国内要闻,旅游"
     },
     {
+      "raw_hot": 435909,
+      "num": 435909,
+      "word": "青春环游记",
+      "onboard_time": 1679217327,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 435814,
       "num": 435814,
       "word": "建议将春节法定假期由3天延长为5天",
@@ -16225,14 +16241,6 @@
       "onboard_time": 1678767751,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 400011,
-      "num": 363149,
-      "word": "青春环游记",
-      "onboard_time": 1679217327,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 399648,
@@ -17937,14 +17945,6 @@
       "onboard_time": 1678007726,
       "rank": 20,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 361752,
-      "num": 361752,
-      "word": "内娱天花板公主抱",
-      "onboard_time": 1679392948,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 361201,
@@ -20321,6 +20321,14 @@
       "onboard_time": 1678804952,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 316573,
+      "num": 316573,
+      "word": "人民日报评保你平安",
+      "onboard_time": 1679393728,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 316303,
@@ -23579,14 +23587,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 260535,
-      "num": 260535,
-      "word": "人民日报评保你平安",
-      "onboard_time": 1679393728,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 260444,
       "num": 260444,
       "word": "考试时把自己逗笑了",
@@ -23961,6 +23961,14 @@
       "onboard_time": 1679057427,
       "rank": 47,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 252668,
+      "num": 252668,
+      "word": "我的名字是我爷起的",
+      "onboard_time": 1679394328,
+      "rank": 21,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 252639,
@@ -25771,6 +25779,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 228037,
+      "num": 228037,
+      "word": "官方回应母女住民宿遭男房东强闯",
+      "onboard_time": 1679391149,
+      "rank": 49,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 227843,
       "num": 227843,
       "word": "马嘉祺台湾腔",
@@ -27225,14 +27241,6 @@
       "onboard_time": 1678246405,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 212591,
-      "num": 212591,
-      "word": "官方回应母女住民宿遭男房东强闯",
-      "onboard_time": 1679391149,
-      "rank": 49,
-      "category": "社会负面"
     },
     {
       "raw_hot": 212437,
@@ -29083,6 +29091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 200167,
+      "num": 200167,
+      "word": "全红婵的入水有多丝滑",
+      "onboard_time": 1679393549,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 200156,
       "num": 200156,
       "word": "这是在酒店进货吗",
@@ -29393,14 +29409,6 @@
       "onboard_time": 1678870828,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 198737,
-      "num": 198737,
-      "word": "全红婵的入水有多丝滑",
-      "onboard_time": 1679393549,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 198690,
@@ -31603,6 +31611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 185408,
+      "num": 185408,
+      "word": "OMG晋级春季季后赛",
+      "onboard_time": 1679393549,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 185340,
       "num": 185340,
       "word": "Rookie MVP",
@@ -31641,6 +31657,14 @@
       "onboard_time": 1679303669,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 184993,
+      "num": 990486,
+      "word": "为地球之肺发条微博",
+      "onboard_time": 1679393008,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 184810,
@@ -32043,6 +32067,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 179911,
+      "num": 179911,
+      "word": "你遇到过哪些离谱的辞退理由",
+      "onboard_time": 1679394508,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 179887,
       "num": 179887,
       "word": "阿朵祝福石璐",
@@ -32081,6 +32113,14 @@
       "onboard_time": 1679268684,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 179314,
+      "num": 179314,
+      "word": "小偷连续三天夜盗上海同一手机门店",
+      "onboard_time": 1679391449,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 179029,
@@ -32145,14 +32185,6 @@
       "onboard_time": 1678524685,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 178464,
-      "num": 178464,
-      "word": "小偷连续三天夜盗上海同一手机门店",
-      "onboard_time": 1679391449,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 178441,
@@ -33313,14 +33345,6 @@
       "onboard_time": 1678003346,
       "rank": 4,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 168041,
-      "num": 168041,
-      "word": "OMG晋级春季季后赛",
-      "onboard_time": 1679393549,
-      "rank": 35,
-      "category": "游戏"
     },
     {
       "raw_hot": 167938,
@@ -35067,6 +35091,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 150543,
+      "num": 150543,
+      "word": "为了早睡你都做过哪些事",
+      "onboard_time": 1679394089,
+      "rank": 35,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 150532,
       "num": 150532,
       "word": "郑恺李天然深不可测奖",
@@ -36195,14 +36227,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 140874,
-      "num": 990486,
-      "word": "为地球之肺发条微博",
-      "onboard_time": 1679393008,
-      "rank": 0,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 140858,
       "num": 140858,
       "word": "综艺展开说说",
@@ -36521,6 +36545,14 @@
       "onboard_time": 1678337136,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 138127,
+      "num": 138127,
+      "word": "山姆会员店寿司致多人上吐下泻",
+      "onboard_time": 1679394808,
+      "rank": 41,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 138061,
@@ -38179,6 +38211,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 122106,
+      "num": 122106,
+      "word": "被一只小狗崽藐视了",
+      "onboard_time": 1679391090,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 121991,
       "num": 121991,
       "word": "刘宇宁寻一个你微博年度人气音乐",
@@ -38361,6 +38401,14 @@
       "onboard_time": 1678180828,
       "rank": 44,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 119434,
+      "num": 119434,
+      "word": "需要一个这样的理发伴侣",
+      "onboard_time": 1679394388,
+      "rank": 49,
+      "category": "幽默,时尚"
     },
     {
       "raw_hot": 118949,
@@ -41396,7 +41444,7 @@
     },
     {
       "raw_hot": 72444,
-      "num": 107570,
+      "num": 124942,
       "word": "FindX6稳了吗",
       "onboard_time": 1679392948,
       "rank": 49,

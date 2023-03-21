@@ -1,6 +1,6 @@
 {
   "startTime": 1679329653267,
-  "endTime": 1679393962249,
+  "endTime": 1679394893801,
   "band_list": [
     {
       "raw_hot": 4463977,
@@ -187,6 +187,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1070888,
+      "num": 739397,
+      "word": "员工去世老板私吞90万死亡赔偿金",
+      "onboard_time": 1679390010,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1054455,
       "num": 1054455,
       "word": "8小时睡眠论可能是错的",
@@ -209,14 +217,6 @@
       "onboard_time": 1679363424,
       "rank": 3,
       "category": "科技"
-    },
-    {
-      "raw_hot": 1023881,
-      "num": 683542,
-      "word": "员工去世老板私吞90万死亡赔偿金",
-      "onboard_time": 1679390010,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1019526,
@@ -459,6 +459,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 585748,
+      "num": 585748,
+      "word": "全红婵207C失误丢分",
+      "onboard_time": 1679390850,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 579067,
       "num": 579067,
       "word": "女子被姑叔分走15万遗产后遭拉黑",
@@ -515,6 +523,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 553632,
+      "num": 553632,
+      "word": "内娱天花板公主抱",
+      "onboard_time": 1679392948,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 546752,
       "num": 546752,
       "word": "花花明天要上班了",
@@ -553,14 +569,6 @@
       "onboard_time": 1679379567,
       "rank": 37,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 512288,
-      "num": 466765,
-      "word": "全红婵207C失误丢分",
-      "onboard_time": 1679390850,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 494030,
@@ -673,6 +681,14 @@
       "onboard_time": 1679377409,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 435909,
+      "num": 435909,
+      "word": "青春环游记",
+      "onboard_time": 1679393491,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 432316,
@@ -795,14 +811,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 361752,
-      "num": 361752,
-      "word": "内娱天花板公主抱",
-      "onboard_time": 1679392948,
-      "rank": 13,
-      "category": "影视"
-    },
-    {
       "raw_hot": 359857,
       "num": 359857,
       "word": "WBG发文抵制私生",
@@ -897,6 +905,14 @@
       "onboard_time": 1679358809,
       "rank": 23,
       "category": "影视,科技"
+    },
+    {
+      "raw_hot": 316573,
+      "num": 316573,
+      "word": "人民日报评保你平安",
+      "onboard_time": 1679393728,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 310385,
@@ -1043,22 +1059,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 261931,
-      "num": 261931,
-      "word": "青春环游记",
-      "onboard_time": 1679393491,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 260535,
-      "num": 260535,
-      "word": "人民日报评保你平安",
-      "onboard_time": 1679393728,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 260199,
       "num": 260199,
       "word": "蔚来发布实习生事件调查报告",
@@ -1073,6 +1073,14 @@
       "onboard_time": 1679356347,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 252668,
+      "num": 252668,
+      "word": "我的名字是我爷起的",
+      "onboard_time": 1679394328,
+      "rank": 21,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 251847,
@@ -1171,6 +1179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 228037,
+      "num": 228037,
+      "word": "官方回应母女住民宿遭男房东强闯",
+      "onboard_time": 1679391149,
+      "rank": 49,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 227580,
       "num": 227580,
       "word": "诺一逛环球影城",
@@ -1267,14 +1283,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 212591,
-      "num": 212591,
-      "word": "官方回应母女住民宿遭男房东强闯",
-      "onboard_time": 1679391149,
-      "rank": 49,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 207694,
       "num": 207694,
       "word": "虞书欣假装度假vlog",
@@ -1315,20 +1323,20 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 200167,
+      "num": 200167,
+      "word": "全红婵的入水有多丝滑",
+      "onboard_time": 1679393549,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199313,
       "num": 199313,
       "word": "去年高端手机市场苹果占75%",
       "onboard_time": 1679365706,
       "rank": 36,
       "category": "科技,财经"
-    },
-    {
-      "raw_hot": 198737,
-      "num": 198737,
-      "word": "全红婵的入水有多丝滑",
-      "onboard_time": 1679393549,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 197563,
@@ -1419,6 +1427,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 185408,
+      "num": 185408,
+      "word": "OMG晋级春季季后赛",
+      "onboard_time": 1679393549,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 184993,
+      "num": 990486,
+      "word": "为地球之肺发条微博",
+      "onboard_time": 1679393008,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184810,
       "num": 172357,
       "word": "今天春分送花花",
@@ -1443,8 +1467,16 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 178464,
-      "num": 178464,
+      "raw_hot": 179911,
+      "num": 179911,
+      "word": "你遇到过哪些离谱的辞退理由",
+      "onboard_time": 1679394508,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 179314,
+      "num": 179314,
       "word": "小偷连续三天夜盗上海同一手机门店",
       "onboard_time": 1679391449,
       "rank": 33,
@@ -1505,14 +1537,6 @@
       "onboard_time": 1679392349,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 168041,
-      "num": 168041,
-      "word": "OMG晋级春季季后赛",
-      "onboard_time": 1679393549,
-      "rank": 35,
-      "category": "游戏"
     },
     {
       "raw_hot": 167809,
@@ -1595,6 +1619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 150543,
+      "num": 150543,
+      "word": "为了早睡你都做过哪些事",
+      "onboard_time": 1679394089,
+      "rank": 35,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 149704,
       "num": 149704,
       "word": "祝绪丹和卖崽蛙合影比心",
@@ -1667,14 +1699,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 140874,
-      "num": 990486,
-      "word": "为地球之肺发条微博",
-      "onboard_time": 1679393008,
-      "rank": 0,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 139189,
       "num": 139189,
       "word": "许凯娜扎新剧下证",
@@ -1689,6 +1713,14 @@
       "onboard_time": 1679381488,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 138127,
+      "num": 138127,
+      "word": "山姆会员店寿司致多人上吐下泻",
+      "onboard_time": 1679394808,
+      "rank": 41,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 136929,
@@ -1739,12 +1771,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 122106,
+      "num": 122106,
+      "word": "被一只小狗崽藐视了",
+      "onboard_time": 1679391090,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 121315,
       "num": 121315,
       "word": "他是谁凶手",
       "onboard_time": 1679315130,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 119434,
+      "num": 119434,
+      "word": "需要一个这样的理发伴侣",
+      "onboard_time": 1679394388,
+      "rank": 49,
+      "category": "幽默,时尚"
     },
     {
       "raw_hot": 118104,
@@ -1980,7 +2028,7 @@
     },
     {
       "raw_hot": 72444,
-      "num": 107570,
+      "num": 124942,
       "word": "FindX6稳了吗",
       "onboard_time": 1679392948,
       "rank": 49,
