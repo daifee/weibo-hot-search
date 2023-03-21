@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679397277387,
+  "endTime": 1679398411709,
   "band_list": [
     {
       "raw_hot": 7256959,
@@ -227,6 +227,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1439090,
+      "num": 483513,
+      "word": "宋慧乔ins 争宠",
+      "onboard_time": 1679396609,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1426979,
       "num": 461974,
       "word": "杨子 李亚鹏",
@@ -315,8 +323,8 @@
       "category": "美食"
     },
     {
-      "raw_hot": 1203053,
-      "num": 593003,
+      "raw_hot": 1205994,
+      "num": 786404,
       "word": "山姆会员店寿司致多人上吐下泻",
       "onboard_time": 1679394808,
       "rank": 41,
@@ -465,6 +473,14 @@
       "onboard_time": 1679237491,
       "rank": 1,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 991889,
+      "num": 878997,
+      "word": "OMG对战TES",
+      "onboard_time": 1679392529,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 989411,
@@ -803,14 +819,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 707195,
-      "num": 483513,
-      "word": "宋慧乔ins 争宠",
-      "onboard_time": 1679396609,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 702096,
       "num": 641517,
       "word": "宝新",
@@ -873,6 +881,14 @@
       "onboard_time": 1679369488,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 656799,
+      "num": 418571,
+      "word": "特朗普预告的被捕时间将到",
+      "onboard_time": 1679396008,
+      "rank": 30,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 653906,
@@ -1699,14 +1715,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 390376,
-      "num": 199060,
-      "word": "特朗普预告的被捕时间将到",
-      "onboard_time": 1679396008,
-      "rank": 30,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 389421,
       "num": 389421,
       "word": "IU朴叙俊新片预告",
@@ -1761,6 +1769,14 @@
       "onboard_time": 1679304688,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 375684,
+      "num": 375684,
+      "word": "我的名字是我爷起的",
+      "onboard_time": 1679394328,
+      "rank": 21,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 375391,
@@ -1865,14 +1881,6 @@
       "onboard_time": 1679381848,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 345903,
-      "num": 345903,
-      "word": "我的名字是我爷起的",
-      "onboard_time": 1679394328,
-      "rank": 21,
-      "category": "影视,动漫"
     },
     {
       "raw_hot": 345425,
@@ -2097,14 +2105,6 @@
       "onboard_time": 1679372970,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 307434,
-      "num": 307434,
-      "word": "OMG对战TES",
-      "onboard_time": 1679392529,
-      "rank": 17,
-      "category": "游戏"
     },
     {
       "raw_hot": 306841,
@@ -2507,6 +2507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 244400,
+      "num": 244400,
+      "word": "王一博无名路演记录",
+      "onboard_time": 1679398348,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 244043,
       "num": 244043,
       "word": "27款进口网络游戏获批",
@@ -2521,6 +2529,14 @@
       "onboard_time": 1679322872,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 242523,
+      "num": 242523,
+      "word": "OMG晋级春季季后赛",
+      "onboard_time": 1679393549,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 242022,
@@ -2579,6 +2595,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 236146,
+      "num": 236146,
+      "word": "毛晓彤说吵架是一个有效的沟通",
+      "onboard_time": 1679397807,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 235212,
       "num": 218075,
       "word": "丫丫吃上了新鲜竹子和辅食",
@@ -2619,6 +2643,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 229025,
+      "num": 229025,
+      "word": "王者曜的调整方向",
+      "onboard_time": 1679396488,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 228701,
       "num": 228701,
       "word": "好看的纹身有多酷",
@@ -2657,6 +2689,14 @@
       "onboard_time": 1679313334,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 225961,
+      "num": 990486,
+      "word": "为地球之肺发条微博",
+      "onboard_time": 1679393008,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 225777,
@@ -2704,6 +2744,14 @@
       "word": "他是谁开分8.2",
       "onboard_time": 1679373333,
       "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 219574,
+      "num": 207421,
+      "word": "春闺梦里人小说还原度",
+      "onboard_time": 1679398348,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -2795,14 +2843,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 214561,
-      "num": 214561,
-      "word": "OMG晋级春季季后赛",
-      "onboard_time": 1679393549,
-      "rank": 35,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 214379,
       "num": 214379,
       "word": "唐嫣加盟微博之夜",
@@ -2841,6 +2881,14 @@
       "onboard_time": 1679308110,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 208621,
+      "num": 208621,
+      "word": "调解双胞胎打架",
+      "onboard_time": 1679397449,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 208255,
@@ -2899,6 +2947,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 205607,
+      "num": 201677,
+      "word": "春闺梦里人弹跳运镜",
+      "onboard_time": 1679397207,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 205457,
       "num": 205457,
       "word": "QQ音乐上线AI绘画功能",
@@ -2945,6 +3001,14 @@
       "onboard_time": 1679315731,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 204006,
+      "num": 204006,
+      "word": "潍坊依法生育的三孩免费读公办高中",
+      "onboard_time": 1679396967,
+      "rank": 45,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 203005,
@@ -3011,14 +3075,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 199913,
-      "num": 199913,
-      "word": "王者曜的调整方向",
-      "onboard_time": 1679396488,
-      "rank": 29,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 199447,
       "num": 199447,
       "word": "宋亚轩挑战与春天合拍视频",
@@ -3065,14 +3121,6 @@
       "onboard_time": 1679393067,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 196043,
-      "num": 990486,
-      "word": "为地球之肺发条微博",
-      "onboard_time": 1679393008,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 195974,
@@ -3739,14 +3787,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 148121,
-      "num": 148121,
-      "word": "春闺梦里人弹跳运镜",
-      "onboard_time": 1679397207,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 147963,
       "num": 147963,
       "word": "放在全国毕业季都相当炸裂",
@@ -3915,6 +3955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136904,
+      "num": 136904,
+      "word": "原生家庭对子女的影响有多深",
+      "onboard_time": 1679397627,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 135924,
       "num": 135924,
       "word": "车勋今日入伍",
@@ -3971,6 +4019,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 132017,
+      "num": 132017,
+      "word": "熬夜就一定会影响睡眠质量吗",
+      "onboard_time": 1679398048,
+      "rank": 47,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 131317,
       "num": 131317,
       "word": "春天的第一朵花",
@@ -3985,6 +4041,14 @@
       "onboard_time": 1679270304,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 130750,
+      "num": 130750,
+      "word": "拯救者",
+      "onboard_time": 1679398227,
+      "rank": 48,
+      "category": "科技"
     },
     {
       "raw_hot": 130544,
@@ -4073,14 +4137,6 @@
       "onboard_time": 1679306192,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 121583,
-      "num": 121583,
-      "word": "潍坊依法生育的三孩免费读公办高中",
-      "onboard_time": 1679396967,
-      "rank": 45,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 120884,
@@ -4193,6 +4249,14 @@
       "onboard_time": 1679354963,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 104762,
+      "num": 376202,
+      "word": "原神 申鹤 神里绫华复刻",
+      "onboard_time": 1679396427,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 104350,
@@ -4369,14 +4433,6 @@
       "onboard_time": 1679230950,
       "rank": 49,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 64600,
-      "num": 359667,
-      "word": "原神 申鹤 神里绫华复刻",
-      "onboard_time": 1679396427,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 58590,

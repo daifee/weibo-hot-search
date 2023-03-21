@@ -1,0 +1,410 @@
+{
+  "runTime": 1679398411709,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 225961,
+        "num": 881130,
+        "word": "为地球之肺发条微博",
+        "onboard_time": 1679393008,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 991889,
+        "num": 878997,
+        "word": "OMG对战TES",
+        "onboard_time": 1679392529,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 44063,
+        "num": 850659,
+        "word": "随手拍春天",
+        "onboard_time": 1679391509,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2096661,
+        "num": 809808,
+        "word": "大胆请假拒绝请假耻辱",
+        "onboard_time": 1679389051,
+        "rank": 3,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 1205994,
+        "num": 786404,
+        "word": "山姆会员店寿司致多人上吐下泻",
+        "onboard_time": 1679394808,
+        "rank": 4,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 759729,
+        "num": 759729,
+        "word": "官方证实大熊猫宝新已去世",
+        "onboard_time": 1679375731,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 538779,
+        "num": 538779,
+        "word": "员工去世老板私吞90万死亡赔偿金",
+        "onboard_time": 1679390010,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 525613,
+        "num": 525613,
+        "word": "内娱天花板公主抱",
+        "onboard_time": 1679392948,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 479285,
+        "num": 479285,
+        "word": "徐明浩或将常驻青春环游记",
+        "onboard_time": 1679392227,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 474775,
+        "num": 474775,
+        "word": "全红婵哭了",
+        "onboard_time": 1679389290,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1439090,
+        "num": 453660,
+        "word": "宋慧乔ins 争宠",
+        "onboard_time": 1679396609,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 656799,
+        "num": 418571,
+        "word": "特朗普预告的被捕时间将到",
+        "onboard_time": 1679396008,
+        "rank": 11,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 612347,
+        "num": 411399,
+        "word": "丁泽仁否认嘴队友",
+        "onboard_time": 1679395109,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 380577,
+        "num": 380577,
+        "word": "青春环游记",
+        "onboard_time": 1679393491,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104762,
+        "num": 376202,
+        "word": "原神 申鹤 神里绫华复刻",
+        "onboard_time": 1679396427,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 375684,
+        "num": 375684,
+        "word": "我的名字是我爷起的",
+        "onboard_time": 1679394328,
+        "rank": 15,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 355697,
+        "num": 355697,
+        "word": "全红婵207C失误丢分",
+        "onboard_time": 1679390850,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 345533,
+        "num": 345533,
+        "word": "女子领生育金被告知丈夫已婚",
+        "onboard_time": 1679381369,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295149,
+        "num": 295149,
+        "word": "大学生已经在为五一做准备了",
+        "onboard_time": 1679385932,
+        "rank": 18,
+        "category": "教育,幽默"
+      },
+      {
+        "raw_hot": 266366,
+        "num": 266366,
+        "word": "人民日报评保你平安",
+        "onboard_time": 1679393728,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 263924,
+        "num": 263924,
+        "word": "因狗狗跑错楼主人被母子暴打",
+        "onboard_time": 1679385392,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249593,
+        "num": 249593,
+        "word": "田曦薇烟熏妆",
+        "onboard_time": 1679388511,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244400,
+        "num": 244400,
+        "word": "王一博无名路演记录",
+        "onboard_time": 1679398348,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 243110,
+        "num": 243110,
+        "word": "普京宣布免除超200亿美元非洲债务",
+        "onboard_time": 1679378969,
+        "rank": 23,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 242523,
+        "num": 242523,
+        "word": "OMG晋级春季季后赛",
+        "onboard_time": 1679393549,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 236146,
+        "num": 236146,
+        "word": "毛晓彤说吵架是一个有效的沟通",
+        "onboard_time": 1679397807,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234427,
+        "num": 234427,
+        "word": "陈曌旭在张杰演唱会团队",
+        "onboard_time": 1679388931,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 229025,
+        "num": 229025,
+        "word": "王者曜的调整方向",
+        "onboard_time": 1679396488,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 217000,
+        "num": 217000,
+        "word": "为什么寺庙旅游突然火了",
+        "onboard_time": 1679387430,
+        "rank": 28,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 208621,
+        "num": 208621,
+        "word": "调解双胞胎打架",
+        "onboard_time": 1679397449,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 219574,
+        "num": 207421,
+        "word": "春闺梦里人小说还原度",
+        "onboard_time": 1679398348,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204006,
+        "num": 204006,
+        "word": "潍坊依法生育的三孩免费读公办高中",
+        "onboard_time": 1679396967,
+        "rank": 31,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 205607,
+        "num": 201677,
+        "word": "春闺梦里人弹跳运镜",
+        "onboard_time": 1679397207,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 195366,
+        "num": 195366,
+        "word": "神里绫华",
+        "onboard_time": 1679396307,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 202609,
+        "num": 195275,
+        "word": "春闺梦里人",
+        "onboard_time": 1679396609,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194019,
+        "num": 194019,
+        "word": "杨紫范丞丞牵手路透",
+        "onboard_time": 1679383351,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 183820,
+        "num": 183820,
+        "word": "花花明天要上班了",
+        "onboard_time": 1679383229,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174702,
+        "num": 174702,
+        "word": "云南一男子接种男性9价HPV疫苗",
+        "onboard_time": 1679386052,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166570,
+        "num": 166570,
+        "word": "全红婵的入水有多丝滑",
+        "onboard_time": 1679393549,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163250,
+        "num": 163250,
+        "word": "井柏然做的菜",
+        "onboard_time": 1679390910,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163206,
+        "num": 163206,
+        "word": "路炎晨我车呢",
+        "onboard_time": 1679396249,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 162249,
+        "num": 162249,
+        "word": "中方回应国际刑事法院对普京逮捕令",
+        "onboard_time": 1679398348,
+        "rank": 41,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 150123,
+        "num": 150123,
+        "word": "官方回应母女住民宿遭男房东强闯",
+        "onboard_time": 1679391149,
+        "rank": 42,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 144777,
+        "num": 144777,
+        "word": "红双喜",
+        "onboard_time": 1679386228,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136904,
+        "num": 136904,
+        "word": "原生家庭对子女的影响有多深",
+        "onboard_time": 1679397627,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134701,
+        "num": 134701,
+        "word": "会两门语言才懂的笑话",
+        "onboard_time": 1679387789,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133067,
+        "num": 133067,
+        "word": "为了早睡你都做过哪些事",
+        "onboard_time": 1679394089,
+        "rank": 46,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 132017,
+        "num": 132017,
+        "word": "熬夜就一定会影响睡眠质量吗",
+        "onboard_time": 1679398048,
+        "rank": 47,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 130750,
+        "num": 130750,
+        "word": "拯救者",
+        "onboard_time": 1679398227,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 116036,
+        "num": 116036,
+        "word": "郑渊洁希望张颂文不要写作",
+        "onboard_time": 1679383532,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席出访俄罗斯#"
+    }
+  }
+}
