@@ -1,0 +1,410 @@
+{
+  "runTime": 1679397277387,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 196043,
+        "num": 848555,
+        "word": "为地球之肺发条微博",
+        "onboard_time": 1679393008,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 620881,
+        "num": 620881,
+        "word": "徐明浩或将常驻青春环游记",
+        "onboard_time": 1679392227,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48666,
+        "num": 613014,
+        "word": "随手拍春天",
+        "onboard_time": 1679391509,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1965627,
+        "num": 607627,
+        "word": "大胆请假拒绝请假耻辱",
+        "onboard_time": 1679389051,
+        "rank": 3,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 1203053,
+        "num": 593003,
+        "word": "山姆会员店寿司致多人上吐下泻",
+        "onboard_time": 1679394808,
+        "rank": 4,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 779407,
+        "num": 580508,
+        "word": "官方证实大熊猫宝新已去世",
+        "onboard_time": 1679375731,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 637388,
+        "num": 571592,
+        "word": "员工去世老板私吞90万死亡赔偿金",
+        "onboard_time": 1679390010,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 566720,
+        "num": 566720,
+        "word": "内娱天花板公主抱",
+        "onboard_time": 1679392948,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 565833,
+        "num": 565833,
+        "word": "全红婵哭了",
+        "onboard_time": 1679389290,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 487674,
+        "num": 487674,
+        "word": "全红婵207C失误丢分",
+        "onboard_time": 1679390850,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 707195,
+        "num": 483513,
+        "word": "宋慧乔ins 争宠",
+        "onboard_time": 1679396609,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 691543,
+        "num": 444500,
+        "word": "丁泽仁否认嘴队友",
+        "onboard_time": 1679395109,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 397209,
+        "num": 397209,
+        "word": "青春环游记",
+        "onboard_time": 1679393491,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 387631,
+        "num": 387631,
+        "word": "女子领生育金被告知丈夫已婚",
+        "onboard_time": 1679381369,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64600,
+        "num": 359667,
+        "word": "原神 申鹤 神里绫华复刻",
+        "onboard_time": 1679396427,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 345903,
+        "num": 345903,
+        "word": "我的名字是我爷起的",
+        "onboard_time": 1679394328,
+        "rank": 15,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 316519,
+        "num": 316519,
+        "word": "大学生已经在为五一做准备了",
+        "onboard_time": 1679385932,
+        "rank": 16,
+        "category": "教育,幽默"
+      },
+      {
+        "raw_hot": 293964,
+        "num": 293964,
+        "word": "普京宣布免除超200亿美元非洲债务",
+        "onboard_time": 1679378969,
+        "rank": 17,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 290478,
+        "num": 290478,
+        "word": "人民日报评保你平安",
+        "onboard_time": 1679393728,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 276304,
+        "num": 276304,
+        "word": "神里绫华",
+        "onboard_time": 1679396307,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 274212,
+        "num": 274212,
+        "word": "田曦薇烟熏妆",
+        "onboard_time": 1679388511,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266574,
+        "num": 266574,
+        "word": "因狗狗跑错楼主人被母子暴打",
+        "onboard_time": 1679385392,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257335,
+        "num": 257335,
+        "word": "陈曌旭在张杰演唱会团队",
+        "onboard_time": 1679388931,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 231130,
+        "num": 231130,
+        "word": "为什么寺庙旅游突然火了",
+        "onboard_time": 1679387430,
+        "rank": 23,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 214561,
+        "num": 214561,
+        "word": "OMG晋级春季季后赛",
+        "onboard_time": 1679393549,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 209374,
+        "num": 209374,
+        "word": "杨紫范丞丞牵手路透",
+        "onboard_time": 1679383351,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 205404,
+        "num": 205404,
+        "word": "春闺梦里人",
+        "onboard_time": 1679396609,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203073,
+        "num": 203073,
+        "word": "花花明天要上班了",
+        "onboard_time": 1679383229,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200322,
+        "num": 200322,
+        "word": "南华大学造黄谣男生已被开除",
+        "onboard_time": 1679375013,
+        "rank": 28,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 199913,
+        "num": 199913,
+        "word": "王者曜的调整方向",
+        "onboard_time": 1679396488,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 390376,
+        "num": 199060,
+        "word": "特朗普预告的被捕时间将到",
+        "onboard_time": 1679396008,
+        "rank": 30,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 197938,
+        "num": 197938,
+        "word": "官方回应母女住民宿遭男房东强闯",
+        "onboard_time": 1679391149,
+        "rank": 31,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 191435,
+        "num": 191435,
+        "word": "井柏然做的菜",
+        "onboard_time": 1679390910,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179107,
+        "num": 179107,
+        "word": "云南一男子接种男性9价HPV疫苗",
+        "onboard_time": 1679386052,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176931,
+        "num": 176931,
+        "word": "OMG对战TES",
+        "onboard_time": 1679392529,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 175218,
+        "num": 175218,
+        "word": "中方回应国际刑事法院对普京逮捕令",
+        "onboard_time": 1679397267,
+        "rank": 35,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 170136,
+        "num": 170136,
+        "word": "路炎晨我车呢",
+        "onboard_time": 1679396249,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 164354,
+        "num": 164354,
+        "word": "红双喜",
+        "onboard_time": 1679386228,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158035,
+        "num": 158035,
+        "word": "全红婵的入水有多丝滑",
+        "onboard_time": 1679393549,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148485,
+        "num": 148485,
+        "word": "会两门语言才懂的笑话",
+        "onboard_time": 1679387789,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 148121,
+        "num": 148121,
+        "word": "春闺梦里人弹跳运镜",
+        "onboard_time": 1679397207,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 135287,
+        "num": 135287,
+        "word": "为了早睡你都做过哪些事",
+        "onboard_time": 1679394089,
+        "rank": 41,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 124684,
+        "num": 124684,
+        "word": "微博之夜",
+        "onboard_time": 1679367568,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 124004,
+        "num": 124004,
+        "word": "遇到一个有礼貌的鬼",
+        "onboard_time": 1679387130,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122844,
+        "num": 122844,
+        "word": "媒体评年轻人不上课不上进只上香",
+        "onboard_time": 1679374893,
+        "rank": 44,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 121583,
+        "num": 121583,
+        "word": "潍坊依法生育的三孩免费读公办高中",
+        "onboard_time": 1679396967,
+        "rank": 45,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 118805,
+        "num": 118805,
+        "word": "郑渊洁希望张颂文不要写作",
+        "onboard_time": 1679383532,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 108332,
+        "num": 108332,
+        "word": "分享欲是维持亲密关系的秘诀",
+        "onboard_time": 1679387130,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 102562,
+        "num": 102562,
+        "word": "原来这也算公司福利",
+        "onboard_time": 1679392349,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 101877,
+        "num": 101877,
+        "word": "小偷连续三天夜盗上海同一手机门店",
+        "onboard_time": 1679391449,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席出访俄罗斯#"
+    }
+  }
+}

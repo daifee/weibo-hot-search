@@ -1,6 +1,6 @@
 {
   "startTime": 1679329653267,
-  "endTime": 1679394893801,
+  "endTime": 1679397277387,
   "band_list": [
     {
       "raw_hot": 4463977,
@@ -145,6 +145,14 @@
       "onboard_time": 1679369787,
       "rank": 0,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1203053,
+      "num": 593003,
+      "word": "山姆会员店寿司致多人上吐下泻",
+      "onboard_time": 1679394808,
+      "rank": 41,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 1182822,
@@ -379,12 +387,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 707195,
+      "num": 483513,
+      "word": "宋慧乔ins 争宠",
+      "onboard_time": 1679396609,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 701508,
       "num": 701508,
       "word": "北京为全国最能熬夜城市",
       "onboard_time": 1679361629,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 691543,
+      "num": 444500,
+      "word": "丁泽仁否认嘴队友",
+      "onboard_time": 1679395109,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 672519,
@@ -499,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 566720,
+      "num": 566720,
+      "word": "内娱天花板公主抱",
+      "onboard_time": 1679392948,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 557180,
       "num": 557180,
       "word": "22元大碗面后续店家已退餐费",
@@ -520,14 +552,6 @@
       "word": "云胡不喜选角 胡歌陈星旭",
       "onboard_time": 1679324849,
       "rank": 7,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 553632,
-      "num": 553632,
-      "word": "内娱天花板公主抱",
-      "onboard_time": 1679392948,
-      "rank": 13,
       "category": "影视"
     },
     {
@@ -779,6 +803,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 390376,
+      "num": 199060,
+      "word": "特朗普预告的被捕时间将到",
+      "onboard_time": 1679396008,
+      "rank": 30,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 389421,
       "num": 389421,
       "word": "IU朴叙俊新片预告",
@@ -849,6 +881,14 @@
       "onboard_time": 1679381848,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 345903,
+      "num": 345903,
+      "word": "我的名字是我爷起的",
+      "onboard_time": 1679394328,
+      "rank": 21,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 345425,
@@ -1051,6 +1091,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 276304,
+      "num": 276304,
+      "word": "神里绫华",
+      "onboard_time": 1679396307,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 270530,
       "num": 270530,
       "word": "薛之谦演唱会 南昌",
@@ -1073,14 +1121,6 @@
       "onboard_time": 1679356347,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 252668,
-      "num": 252668,
-      "word": "我的名字是我爷起的",
-      "onboard_time": 1679394328,
-      "rank": 21,
-      "category": "影视,动漫"
     },
     {
       "raw_hot": 251847,
@@ -1259,6 +1299,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 214561,
+      "num": 214561,
+      "word": "OMG晋级春季季后赛",
+      "onboard_time": 1679393549,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 214379,
       "num": 214379,
       "word": "唐嫣加盟微博之夜",
@@ -1289,6 +1337,14 @@
       "onboard_time": 1679360908,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 205404,
+      "num": 205404,
+      "word": "春闺梦里人",
+      "onboard_time": 1679396609,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 203005,
@@ -1331,6 +1387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 199913,
+      "num": 199913,
+      "word": "王者曜的调整方向",
+      "onboard_time": 1679396488,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 199313,
       "num": 199313,
       "word": "去年高端手机市场苹果占75%",
@@ -1353,6 +1417,14 @@
       "onboard_time": 1679393067,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 196043,
+      "num": 990486,
+      "word": "为地球之肺发条微博",
+      "onboard_time": 1679393008,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 195491,
@@ -1425,22 +1497,6 @@
       "onboard_time": 1679371530,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 185408,
-      "num": 185408,
-      "word": "OMG晋级春季季后赛",
-      "onboard_time": 1679393549,
-      "rank": 35,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 184993,
-      "num": 990486,
-      "word": "为地球之肺发条微博",
-      "onboard_time": 1679393008,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 184810,
@@ -1529,6 +1585,14 @@
       "onboard_time": 1679382570,
       "rank": 40,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 170136,
+      "num": 170136,
+      "word": "路炎晨我车呢",
+      "onboard_time": 1679396249,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 169456,
@@ -1651,6 +1715,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 148121,
+      "num": 148121,
+      "word": "春闺梦里人弹跳运镜",
+      "onboard_time": 1679397207,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 147814,
       "num": 147814,
       "word": "每天早睡1小时",
@@ -1715,14 +1787,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 138127,
-      "num": 138127,
-      "word": "山姆会员店寿司致多人上吐下泻",
-      "onboard_time": 1679394808,
-      "rank": 41,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 136929,
       "num": 136929,
       "word": "4K视频看春日大美中国",
@@ -1777,6 +1841,14 @@
       "onboard_time": 1679391090,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 121583,
+      "num": 121583,
+      "word": "潍坊依法生育的三孩免费读公办高中",
+      "onboard_time": 1679396967,
+      "rank": 45,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 121315,
@@ -2033,6 +2105,14 @@
       "onboard_time": 1679392948,
       "rank": 49,
       "category": "科技"
+    },
+    {
+      "raw_hot": 64600,
+      "num": 359667,
+      "word": "原神 申鹤 神里绫华复刻",
+      "onboard_time": 1679396427,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 58590,
