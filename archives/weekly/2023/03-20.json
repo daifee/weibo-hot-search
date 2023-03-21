@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679369624216,
+  "endTime": 1679372453777,
   "band_list": [
     {
       "raw_hot": 7256959,
@@ -179,6 +179,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1370295,
+      "num": 729212,
+      "word": "南华大学回应网传男生造女生黄谣",
+      "onboard_time": 1679368408,
+      "rank": 30,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1353562,
       "num": 400781,
       "word": "情侣住江景房裸身开窗帘被看光",
@@ -209,6 +217,14 @@
       "onboard_time": 1679308110,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1231999,
+      "num": 1231999,
+      "word": "咖啡排骨",
+      "onboard_time": 1679369787,
+      "rank": 0,
+      "category": "美食"
     },
     {
       "raw_hot": 1182964,
@@ -289,14 +305,6 @@
       "onboard_time": 1679363424,
       "rank": 3,
       "category": "科技"
-    },
-    {
-      "raw_hot": 1013988,
-      "num": 680627,
-      "word": "南华大学回应网传男生造女生黄谣",
-      "onboard_time": 1679368408,
-      "rank": 30,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1013358,
@@ -499,6 +507,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 804714,
+      "num": 804714,
+      "word": "睡觉时穿袜子更容易睡着",
+      "onboard_time": 1679371530,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 794811,
       "num": 794811,
       "word": "报告称中国人幸福感全球最高",
@@ -611,6 +627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 677873,
+      "num": 677873,
+      "word": "声生不息宝岛季一公分组名单",
+      "onboard_time": 1679370749,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 672519,
       "num": 519419,
       "word": "243万元存款被挪用当事人发声",
@@ -633,6 +657,14 @@
       "onboard_time": 1679275527,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 661348,
+      "num": 661348,
+      "word": "李秀满不希望HYBE拿走经营权的原因",
+      "onboard_time": 1679369488,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 647431,
@@ -827,6 +859,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 568476,
+      "num": 465232,
+      "word": "日媒称岸田文雄正前往基辅",
+      "onboard_time": 1679370208,
+      "rank": 11,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 568373,
+      "num": 742313,
+      "word": "美国这台战争机器给全球造成伤害",
+      "onboard_time": 1679368768,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 566246,
       "num": 566246,
       "word": "基金",
@@ -937,6 +985,14 @@
       "onboard_time": 1679312794,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 520623,
+      "num": 455306,
+      "word": "明星微博之夜邀请函VCR",
+      "onboard_time": 1679372132,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 501386,
@@ -1113,6 +1169,14 @@
       "onboard_time": 1679294068,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 431310,
+      "num": 431310,
+      "word": "杭州杀妻碎尸案案件梳理",
+      "onboard_time": 1679370627,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 431028,
@@ -1304,6 +1368,14 @@
       "word": "黑厂否认与JINNI签约",
       "onboard_time": 1679296587,
       "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 369300,
+      "num": 369300,
+      "word": "王俊凯绿西装怼脸视频",
+      "onboard_time": 1679371350,
+      "rank": 17,
       "category": "艺人"
     },
     {
@@ -1539,8 +1611,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 306941,
-      "num": 306941,
+      "raw_hot": 309590,
+      "num": 309590,
       "word": "苏州人有多爱刀鱼馄饨",
       "onboard_time": 1679367687,
       "rank": 25,
@@ -1561,6 +1633,14 @@
       "onboard_time": 1679355203,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 306049,
+      "num": 306049,
+      "word": "光遇",
+      "onboard_time": 1679371288,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 305652,
@@ -1779,12 +1859,28 @@
       "category": "作品衍生,社会新闻"
     },
     {
+      "raw_hot": 256749,
+      "num": 256749,
+      "word": "老默说要请网友吃鱼",
+      "onboard_time": 1679369667,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 253695,
       "num": 253695,
       "word": "云胡不喜女主 宋元",
       "onboard_time": 1679356347,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 252896,
+      "num": 252896,
+      "word": "新Bing可以帮找序列号激活Win11",
+      "onboard_time": 1679371048,
+      "rank": 27,
+      "category": "科技"
     },
     {
       "raw_hot": 252626,
@@ -1889,6 +1985,14 @@
       "onboard_time": 1679361208,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 240783,
+      "num": 240783,
+      "word": "电视剧他是谁",
+      "onboard_time": 1679357728,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 240159,
@@ -2043,6 +2147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 215101,
+      "num": 215101,
+      "word": "半熟恋人",
+      "onboard_time": 1679371108,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 214647,
       "num": 214647,
       "word": "不止不休真实的力量",
@@ -2067,14 +2179,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 210182,
-      "num": 210182,
-      "word": "李秀满不希望HYBE拿走经营权的原因",
-      "onboard_time": 1679369488,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 209585,
       "num": 209585,
       "word": "晚睡晚起原来是病",
@@ -2097,14 +2201,6 @@
       "onboard_time": 1679286336,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 208078,
-      "num": 208078,
-      "word": "电视剧他是谁",
-      "onboard_time": 1679357728,
-      "rank": 37,
-      "category": "影视"
     },
     {
       "raw_hot": 207939,
@@ -2153,14 +2249,6 @@
       "onboard_time": 1679301868,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 205980,
-      "num": 687276,
-      "word": "美国这台战争机器给全球造成伤害",
-      "onboard_time": 1679368768,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 205457,
@@ -2531,6 +2619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171163,
+      "num": 171163,
+      "word": "春分后必吃三道菜必做两件事",
+      "onboard_time": 1679369068,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 170276,
       "num": 170276,
       "word": "艾热王以太早安杨和苏现场",
@@ -2584,6 +2680,14 @@
       "word": "凯西绝杀皇马",
       "onboard_time": 1679267539,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 164852,
+      "num": 164852,
+      "word": "勇士结束客场11连败",
+      "onboard_time": 1679368947,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -2675,14 +2779,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 158750,
-      "num": 158750,
-      "word": "勇士结束客场11连败",
-      "onboard_time": 1679368947,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 154938,
       "num": 154938,
       "word": "路人被整蛊后的反应",
@@ -2691,20 +2787,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 154314,
-      "num": 154314,
-      "word": "春分后必吃三道菜必做两件事",
-      "onboard_time": 1679369068,
-      "rank": 39,
-      "category": "美食"
-    },
-    {
       "raw_hot": 152862,
       "num": 152862,
       "word": "宋亚轩中戏生活快问快答",
       "onboard_time": 1679292267,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 152298,
+      "num": 152298,
+      "word": "收到红包还不会感谢的有福了",
+      "onboard_time": 1679371530,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 151925,
@@ -2827,6 +2923,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 145195,
+      "num": 145195,
+      "word": "突然想找份保安的工作",
+      "onboard_time": 1679369908,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 144717,
       "num": 144717,
       "word": "窗边的小豆豆动画电影化",
@@ -2897,6 +3001,14 @@
       "onboard_time": 1679213848,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139064,
+      "num": 139064,
+      "word": "南华大学造女生黄谣男生已保研",
+      "onboard_time": 1679372431,
+      "rank": 46,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 136929,
@@ -3347,6 +3459,9 @@
     },
     {
       "word": "#习主席出访俄罗斯#"
+    },
+    {
+      "word": "#中俄关系在各自外交全局中占优先地位#"
     }
   ]
 }
