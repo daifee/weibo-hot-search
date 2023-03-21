@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679398411709,
+  "endTime": 1679401938743,
   "band_list": [
     {
       "raw_hot": 7256959,
@@ -675,6 +675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 849519,
+      "num": 418571,
+      "word": "特朗普预告的被捕时间将到",
+      "onboard_time": 1679396008,
+      "rank": 30,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 848417,
       "num": 848417,
       "word": "丫丫吃起了夜宵",
@@ -795,6 +803,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 734998,
+      "num": 603455,
+      "word": "内娱隐藏手模",
+      "onboard_time": 1679401108,
+      "rank": 4,
+      "category": "作品衍生,幽默"
+    },
+    {
       "raw_hot": 720771,
       "num": 720771,
       "word": "NIP零封RNG",
@@ -819,6 +835,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 707929,
+      "num": 590514,
+      "word": "TES五连败",
+      "onboard_time": 1679398528,
+      "rank": 6,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 702096,
       "num": 641517,
       "word": "宝新",
@@ -833,6 +857,14 @@
       "onboard_time": 1679361629,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 693827,
+      "num": 588139,
+      "word": "调解双胞胎打架",
+      "onboard_time": 1679397449,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 691543,
@@ -881,14 +913,6 @@
       "onboard_time": 1679369488,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 656799,
-      "num": 418571,
-      "word": "特朗普预告的被捕时间将到",
-      "onboard_time": 1679396008,
-      "rank": 30,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 653906,
@@ -979,6 +1003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 615107,
+      "num": 615107,
+      "word": "王子文说谈恋爱就是要全力以赴",
+      "onboard_time": 1679401407,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 614560,
       "num": 614560,
       "word": "广东人把大熊猫养成了阿伯",
@@ -1057,6 +1089,14 @@
       "onboard_time": 1679390850,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 585016,
+      "num": 585016,
+      "word": "潍坊依法生育的三孩免费读公办高中",
+      "onboard_time": 1679396967,
+      "rank": 45,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 583970,
@@ -1499,6 +1539,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 438824,
+      "num": 389017,
+      "word": "舒淇摇曳生姿的白玫瑰",
+      "onboard_time": 1679399907,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 437340,
       "num": 437340,
       "word": "阿信做梦都想删掉这段视频吧",
@@ -1723,6 +1771,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 383479,
+      "num": 262716,
+      "word": "男子将200万房子80元卖了",
+      "onboard_time": 1679400986,
+      "rank": 20,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 381905,
       "num": 381905,
       "word": "把猫猫一把拖进被窝",
@@ -1745,6 +1801,14 @@
       "onboard_time": 1679317468,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 377971,
+      "num": 377971,
+      "word": "重启之极海听雷2香港定档",
+      "onboard_time": 1679401049,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 377060,
@@ -1969,6 +2033,14 @@
       "onboard_time": 1679236589,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 328002,
+      "num": 328002,
+      "word": "滔搏",
+      "onboard_time": 1679399968,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 327434,
@@ -2395,6 +2467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 262720,
+      "num": 262720,
+      "word": "湖南00后实地翻拍他是谁名场面",
+      "onboard_time": 1679399547,
+      "rank": 19,
+      "category": "社会新闻,影视"
+    },
+    {
       "raw_hot": 261872,
       "num": 261872,
       "word": "苦孩子也不能苦自己",
@@ -2585,6 +2665,14 @@
       "onboard_time": 1679306131,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 238608,
+      "num": 238608,
+      "word": "女主韦一敏 男主王子斌",
+      "onboard_time": 1679401887,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 237703,
@@ -2867,6 +2955,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 213096,
+      "num": 213096,
+      "word": "原神申鹤",
+      "onboard_time": 1679399306,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 209585,
       "num": 209585,
       "word": "晚睡晚起原来是病",
@@ -2881,14 +2977,6 @@
       "onboard_time": 1679308110,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 208621,
-      "num": 208621,
-      "word": "调解双胞胎打架",
-      "onboard_time": 1679397449,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 208255,
@@ -3003,14 +3091,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 204006,
-      "num": 204006,
-      "word": "潍坊依法生育的三孩免费读公办高中",
-      "onboard_time": 1679396967,
-      "rank": 45,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 203005,
       "num": 203005,
       "word": "刘诗诗加盟微博之夜",
@@ -3049,6 +3129,14 @@
       "onboard_time": 1679365106,
       "rank": 31,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 200632,
+      "num": 200632,
+      "word": "纽约警方为特朗普或遭起诉设置路障",
+      "onboard_time": 1679401589,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 200539,
@@ -3411,6 +3499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 175260,
+      "num": 175260,
+      "word": "滔式运营",
+      "onboard_time": 1679401347,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 174672,
       "num": 174672,
       "word": "丫丫加油等你回家",
@@ -3531,6 +3627,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 166966,
+      "num": 166966,
+      "word": "归晓一句话路炎晨记十年",
+      "onboard_time": 1679400507,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 166507,
       "num": 166507,
       "word": "这部电影把反黄谣搬上银幕",
@@ -3553,6 +3657,22 @@
       "onboard_time": 1679300968,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 165777,
+      "num": 165777,
+      "word": "看得出来男朋友很怕我迷路",
+      "onboard_time": 1679399666,
+      "rank": 39,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 165365,
+      "num": 165365,
+      "word": "拯救者",
+      "onboard_time": 1679398227,
+      "rank": 48,
+      "category": "科技"
     },
     {
       "raw_hot": 164942,
@@ -3633,6 +3753,14 @@
       "onboard_time": 1679290350,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 162025,
+      "num": 758872,
+      "word": "二十四节气是中国人的时间哲学",
+      "onboard_time": 1679400627,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 162007,
@@ -4043,20 +4171,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 130750,
-      "num": 130750,
-      "word": "拯救者",
-      "onboard_time": 1679398227,
-      "rank": 48,
-      "category": "科技"
-    },
-    {
       "raw_hot": 130544,
       "num": 130544,
       "word": "不要辜负春天的浪漫",
       "onboard_time": 1679369548,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 130139,
+      "num": 130139,
+      "word": "归路评论区全是白敬亭",
+      "onboard_time": 1679399128,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 129323,
@@ -4075,12 +4203,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 128590,
+      "num": 128590,
+      "word": "律师谈男生造黄谣被开除学籍",
+      "onboard_time": 1679398406,
+      "rank": 47,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 128448,
       "num": 128448,
       "word": "成韩彬的旧照",
       "onboard_time": 1679283088,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 128222,
+      "num": 128222,
+      "word": "一眼望去遍地都是我爷爷",
+      "onboard_time": 1679398825,
+      "rank": 49,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 127529,
