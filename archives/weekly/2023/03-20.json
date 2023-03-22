@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679488484720,
+  "endTime": 1679489521352,
   "band_list": [
     {
       "raw_hot": 7256959,
@@ -1003,6 +1003,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 897671,
+      "num": 670108,
+      "word": "警方通报女孩将小男孩扔井中",
+      "onboard_time": 1679485168,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 894340,
       "num": 629002,
       "word": "王一博 微博之夜",
@@ -1115,6 +1123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 837441,
+      "num": 651208,
+      "word": "以后还让我怎么吃香蕉啊",
+      "onboard_time": 1679485888,
+      "rank": 4,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 833650,
       "num": 833650,
       "word": "男子工厂打工6年还清65万外债",
@@ -1176,14 +1192,6 @@
       "word": "北京沙尘暴",
       "onboard_time": 1679440521,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 795599,
-      "num": 670108,
-      "word": "警方通报女孩将小男孩扔井中",
-      "onboard_time": 1679485168,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -1264,6 +1272,14 @@
       "word": "动物园大猩猩被发现在直立行走",
       "onboard_time": 1679283749,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 771091,
+      "num": 390623,
+      "word": "HM回应女子试衣用新衣垫脚",
+      "onboard_time": 1679487389,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -1401,14 +1417,6 @@
       "onboard_time": 1679361629,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 700817,
-      "num": 651208,
-      "word": "以后还让我怎么吃香蕉啊",
-      "onboard_time": 1679485888,
-      "rank": 4,
-      "category": "幽默"
     },
     {
       "raw_hot": 699543,
@@ -2627,6 +2635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 412074,
+      "num": 378376,
+      "word": "王嘉尔飞往洛杉矶",
+      "onboard_time": 1679488047,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 409787,
       "num": 409787,
       "word": "小朋友感染甲流应该怎么办",
@@ -2731,14 +2747,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 390623,
-      "num": 390623,
-      "word": "HM回应女子试衣用新衣垫脚",
-      "onboard_time": 1679487389,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 389928,
       "num": 389928,
       "word": "偷偷藏不住站内预约人数破150万",
@@ -2795,6 +2803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 377120,
+      "num": 377120,
+      "word": "青春环游记春游F4",
+      "onboard_time": 1679488948,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 377060,
       "num": 377060,
       "word": "吴磊说周雨彤的口头禅",
@@ -2848,14 +2864,6 @@
       "word": "申有娜ins更新",
       "onboard_time": 1679412153,
       "rank": 18,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 373301,
-      "num": 373301,
-      "word": "王嘉尔飞往洛杉矶",
-      "onboard_time": 1679488047,
-      "rank": 14,
       "category": "艺人"
     },
     {
@@ -3315,6 +3323,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 312566,
+      "num": 312566,
+      "word": "IG中野",
+      "onboard_time": 1679487208,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 311969,
       "num": 311969,
       "word": "IVE专辑配置",
@@ -3681,6 +3697,14 @@
       "onboard_time": 1679369667,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 277360,
+      "num": 277360,
+      "word": "四川一高校放假7天鼓励恋爱",
+      "onboard_time": 1679487868,
+      "rank": 38,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 276304,
@@ -4107,12 +4131,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 236583,
-      "num": 236583,
-      "word": "IG中野",
-      "onboard_time": 1679487208,
-      "rank": 21,
-      "category": "游戏"
+      "raw_hot": 236835,
+      "num": 236835,
+      "word": "流浪小狗乞求收养者一起带走小熊",
+      "onboard_time": 1679488169,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 236146,
@@ -4275,6 +4299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 224898,
+      "num": 224898,
+      "word": "有什么是你谈了恋爱才明白的",
+      "onboard_time": 1679482947,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 224120,
       "num": 224120,
       "word": "花瓣",
@@ -4313,14 +4345,6 @@
       "onboard_time": 1679442626,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 222774,
-      "num": 222774,
-      "word": "有什么是你谈了恋爱才明白的",
-      "onboard_time": 1679482947,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 222327,
@@ -4577,6 +4601,14 @@
       "onboard_time": 1679360908,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 207391,
+      "num": 207391,
+      "word": "白客被北大学子表白张颂文现场吃醋",
+      "onboard_time": 1679488890,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 206530,
@@ -5603,6 +5635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 162692,
+      "num": 162692,
+      "word": "厄齐尔退役",
+      "onboard_time": 1679489187,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162368,
       "num": 162368,
       "word": "重新定义了上有老下有小",
@@ -5665,6 +5705,14 @@
       "onboard_time": 1679382209,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 155978,
+      "num": 155978,
+      "word": "电视剧人生之路",
+      "onboard_time": 1679488648,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 154938,
@@ -5947,14 +5995,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 141721,
-      "num": 141721,
-      "word": "四川一高校放假7天鼓励恋爱",
-      "onboard_time": 1679487868,
-      "rank": 38,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 141673,
       "num": 171740,
       "word": "流浪地球2里代码公式都是来真的",
@@ -6035,6 +6075,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 136159,
+      "num": 136159,
+      "word": "夏洛特浮生妄",
+      "onboard_time": 1679486610,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 136055,
       "num": 136055,
       "word": "iG对战BLG",
@@ -6088,14 +6136,6 @@
       "word": "KPL春季赛第六周最佳阵容",
       "onboard_time": 1679380709,
       "rank": 39,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 134628,
-      "num": 134628,
-      "word": "夏洛特浮生妄",
-      "onboard_time": 1679486610,
-      "rank": 40,
       "category": "游戏"
     },
     {
@@ -6353,14 +6393,6 @@
       "onboard_time": 1679269586,
       "rank": 44,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 119475,
-      "num": 119475,
-      "word": "流浪小狗乞求收养者一起带走小熊",
-      "onboard_time": 1679488169,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 119434,
@@ -6819,6 +6851,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 31852,
+      "num": 681955,
+      "word": "落实重大发展战略开创事业新局",
+      "onboard_time": 1679486968,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31181,
       "num": 177862,
       "word": "被这些花语含义打动到了",
@@ -6833,14 +6873,6 @@
       "onboard_time": 1679234427,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 27939,
-      "num": 681955,
-      "word": "落实重大发展战略开创事业新局",
-      "onboard_time": 1679486968,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 27779,

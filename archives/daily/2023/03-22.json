@@ -1,6 +1,6 @@
 {
   "startTime": 1679415632915,
-  "endTime": 1679488484720,
+  "endTime": 1679489521352,
   "band_list": [
     {
       "raw_hot": 3268124,
@@ -347,12 +347,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 897671,
+      "num": 670108,
+      "word": "警方通报女孩将小男孩扔井中",
+      "onboard_time": 1679485168,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 851446,
       "num": 754124,
       "word": "朴妍珍和宋承宪演过人间中毒",
       "onboard_time": 1679455349,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 837441,
+      "num": 651208,
+      "word": "以后还让我怎么吃香蕉啊",
+      "onboard_time": 1679485888,
+      "rank": 4,
+      "category": "幽默"
     },
     {
       "raw_hot": 833650,
@@ -376,14 +392,6 @@
       "word": "北京沙尘暴",
       "onboard_time": 1679440521,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 795599,
-      "num": 670108,
-      "word": "警方通报女孩将小男孩扔井中",
-      "onboard_time": 1679485168,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -417,6 +425,14 @@
       "onboard_time": 1679441004,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 771091,
+      "num": 390623,
+      "word": "HM回应女子试衣用新衣垫脚",
+      "onboard_time": 1679487389,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 755267,
@@ -481,14 +497,6 @@
       "onboard_time": 1679478928,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 700817,
-      "num": 651208,
-      "word": "以后还让我怎么吃香蕉啊",
-      "onboard_time": 1679485888,
-      "rank": 4,
-      "category": "幽默"
     },
     {
       "raw_hot": 699543,
@@ -819,6 +827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 412074,
+      "num": 378376,
+      "word": "王嘉尔飞往洛杉矶",
+      "onboard_time": 1679488047,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 402843,
       "num": 402843,
       "word": "追星女孩的抢票手速",
@@ -859,14 +875,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 390623,
-      "num": 390623,
-      "word": "HM回应女子试衣用新衣垫脚",
-      "onboard_time": 1679487389,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 389928,
       "num": 389928,
       "word": "偷偷藏不住站内预约人数破150万",
@@ -891,19 +899,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 377120,
+      "num": 377120,
+      "word": "青春环游记春游F4",
+      "onboard_time": 1679488948,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 375329,
       "num": 344228,
       "word": "马嘉祺带拍摄道具回学校",
       "onboard_time": 1679451866,
       "rank": 16,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 373301,
-      "num": 373301,
-      "word": "王嘉尔飞往洛杉矶",
-      "onboard_time": 1679488047,
-      "rank": 14,
       "category": "艺人"
     },
     {
@@ -1075,6 +1083,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 312566,
+      "num": 312566,
+      "word": "IG中野",
+      "onboard_time": 1679487208,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 311572,
       "num": 311572,
       "word": "大胆请假拒绝请假耻辱",
@@ -1089,6 +1105,14 @@
       "onboard_time": 1679464768,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 309209,
+      "num": 309209,
+      "word": "王者荣耀",
+      "onboard_time": 1679485769,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 300024,
@@ -1121,14 +1145,6 @@
       "onboard_time": 1679409992,
       "rank": 15,
       "category": "艺人,美妆"
-    },
-    {
-      "raw_hot": 293364,
-      "num": 293364,
-      "word": "王者荣耀",
-      "onboard_time": 1679485769,
-      "rank": 18,
-      "category": "游戏"
     },
     {
       "raw_hot": 292405,
@@ -1201,6 +1217,14 @@
       "onboard_time": 1679451446,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 277360,
+      "num": 277360,
+      "word": "四川一高校放假7天鼓励恋爱",
+      "onboard_time": 1679487868,
+      "rank": 38,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 274719,
@@ -1363,12 +1387,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 236583,
-      "num": 236583,
-      "word": "IG中野",
-      "onboard_time": 1679487208,
-      "rank": 21,
-      "category": "游戏"
+      "raw_hot": 236835,
+      "num": 236835,
+      "word": "流浪小狗乞求收养者一起带走小熊",
+      "onboard_time": 1679488169,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 234100,
@@ -1403,6 +1427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 224898,
+      "num": 224898,
+      "word": "有什么是你谈了恋爱才明白的",
+      "onboard_time": 1679482947,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 223234,
       "num": 223234,
       "word": "快船",
@@ -1417,14 +1449,6 @@
       "onboard_time": 1679442626,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 222774,
-      "num": 222774,
-      "word": "有什么是你谈了恋爱才明白的",
-      "onboard_time": 1679482947,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 215631,
@@ -1489,6 +1513,14 @@
       "onboard_time": 1679448749,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207391,
+      "num": 207391,
+      "word": "白客被北大学子表白张颂文现场吃醋",
+      "onboard_time": 1679488890,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 205871,
@@ -1763,6 +1795,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 162692,
+      "num": 162692,
+      "word": "厄齐尔退役",
+      "onboard_time": 1679489187,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157820,
       "num": 157820,
       "word": "孟子义替徐正溪回应牙缝大",
@@ -1777,6 +1817,14 @@
       "onboard_time": 1679402849,
       "rank": 31,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 155978,
+      "num": 155978,
+      "word": "电视剧人生之路",
+      "onboard_time": 1679488648,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 154059,
@@ -1819,14 +1867,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 141721,
-      "num": 141721,
-      "word": "四川一高校放假7天鼓励恋爱",
-      "onboard_time": 1679487868,
-      "rank": 38,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 141043,
       "num": 141043,
       "word": "女主韦一敏 男主王子斌",
@@ -1859,6 +1899,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 136159,
+      "num": 136159,
+      "word": "夏洛特浮生妄",
+      "onboard_time": 1679486610,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 136055,
       "num": 136055,
       "word": "iG对战BLG",
@@ -1873,14 +1921,6 @@
       "onboard_time": 1679482467,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 134628,
-      "num": 134628,
-      "word": "夏洛特浮生妄",
-      "onboard_time": 1679486610,
-      "rank": 40,
-      "category": "游戏"
     },
     {
       "raw_hot": 134280,
@@ -1952,14 +1992,6 @@
       "word": "嫌疑人坐出租路过派出所被抓",
       "onboard_time": 1679479290,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 119475,
-      "num": 119475,
-      "word": "流浪小狗乞求收养者一起带走小熊",
-      "onboard_time": 1679488169,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -2187,7 +2219,7 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 27939,
+      "raw_hot": 31852,
       "num": 681955,
       "word": "落实重大发展战略开创事业新局",
       "onboard_time": 1679486968,
