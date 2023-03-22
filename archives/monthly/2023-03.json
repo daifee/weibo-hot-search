@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679477623818,
+  "endTime": 1679480336956,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -987,6 +987,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 2001364,
+      "num": 894606,
+      "word": "被扔井中小男孩已安全救出",
+      "onboard_time": 1679475748,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2001118,
       "num": 2001118,
       "word": "西南大学开设公务员专业",
@@ -1129,14 +1137,6 @@
       "onboard_time": 1678591885,
       "rank": 7,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1902745,
-      "num": 894606,
-      "word": "被扔井中小男孩已安全救出",
-      "onboard_time": 1679475748,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1898269,
@@ -9395,6 +9395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 659278,
+      "num": 442815,
+      "word": "霓娜的气质",
+      "onboard_time": 1679478928,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 658713,
       "num": 658713,
       "word": "你好星期六好六街官宣升级",
@@ -13377,6 +13385,14 @@
       "onboard_time": 1678698506,
       "rank": 40,
       "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 506303,
+      "num": 506303,
+      "word": "薛之谦郑州场抢票",
+      "onboard_time": 1679479348,
+      "rank": 7,
+      "category": "音乐"
     },
     {
       "raw_hot": 506025,
@@ -23611,6 +23627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 278631,
+      "num": 278631,
+      "word": "王晶回应被冯淬帆公开痛骂",
+      "onboard_time": 1679478026,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 278455,
       "num": 278455,
       "word": "DRG 对S组过敏",
@@ -25955,6 +25979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 243261,
+      "num": 264587,
+      "word": "妇联回应女孩将小男孩扔井中",
+      "onboard_time": 1679479409,
+      "rank": 19,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 243054,
       "num": 243054,
       "word": "小美人鱼爱丽儿和王子驾车剧照",
@@ -25969,6 +26001,14 @@
       "onboard_time": 1678170147,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 242843,
+      "num": 242843,
+      "word": "名侦探学院第六季收官",
+      "onboard_time": 1679477908,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 242828,
@@ -27609,6 +27649,14 @@
       "onboard_time": 1678184190,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 223853,
+      "num": 220650,
+      "word": "星落凝成糖直播售后",
+      "onboard_time": 1679480187,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 223662,
@@ -31611,6 +31659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 195272,
+      "num": 195272,
+      "word": "好多综艺官宣啊",
+      "onboard_time": 1679480008,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 195266,
       "num": 195266,
       "word": "湖人升至西部第九",
@@ -33209,6 +33265,14 @@
       "onboard_time": 1677666089,
       "rank": 49,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 185677,
+      "num": 185677,
+      "word": "打麻将的和打台球的都沉默了",
+      "onboard_time": 1679477846,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 185500,
@@ -35577,6 +35641,14 @@
       "onboard_time": 1678608926,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163482,
+      "num": 163482,
+      "word": "友谊中的危险信号",
+      "onboard_time": 1679479948,
+      "rank": 40,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 163396,
@@ -40161,6 +40233,14 @@
       "onboard_time": 1679306192,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 121570,
+      "num": 121570,
+      "word": "嫌疑人坐出租路过派出所被抓",
+      "onboard_time": 1679479290,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121465,

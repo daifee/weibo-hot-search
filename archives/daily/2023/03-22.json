@@ -1,6 +1,6 @@
 {
   "startTime": 1679415632915,
-  "endTime": 1679477623818,
+  "endTime": 1679480336956,
   "band_list": [
     {
       "raw_hot": 3268124,
@@ -35,7 +35,7 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 1902745,
+      "raw_hot": 2001364,
       "num": 894606,
       "word": "被扔井中小男孩已安全救出",
       "onboard_time": 1679475748,
@@ -475,6 +475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 659278,
+      "num": 442815,
+      "word": "霓娜的气质",
+      "onboard_time": 1679478928,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 648251,
       "num": 575935,
       "word": "王一博新电影眼睛充血镜头",
@@ -577,6 +585,14 @@
       "onboard_time": 1679441844,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 506303,
+      "num": 506303,
+      "word": "薛之谦郑州场抢票",
+      "onboard_time": 1679479348,
+      "rank": 7,
+      "category": "音乐"
     },
     {
       "raw_hot": 504112,
@@ -1027,6 +1043,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 278631,
+      "num": 278631,
+      "word": "王晶回应被冯淬帆公开痛骂",
+      "onboard_time": 1679478026,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 277810,
       "num": 277810,
       "word": "T1全员入选LCK一阵",
@@ -1123,6 +1147,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 243261,
+      "num": 264587,
+      "word": "妇联回应女孩将小男孩扔井中",
+      "onboard_time": 1679479409,
+      "rank": 19,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 242843,
+      "num": 242843,
+      "word": "名侦探学院第六季收官",
+      "onboard_time": 1679477908,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 242008,
       "num": 242008,
       "word": "叠纸",
@@ -1177,6 +1217,14 @@
       "onboard_time": 1679449107,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223853,
+      "num": 220650,
+      "word": "星落凝成糖直播售后",
+      "onboard_time": 1679480187,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 223234,
@@ -1307,6 +1355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 195272,
+      "num": 195272,
+      "word": "好多综艺官宣啊",
+      "onboard_time": 1679480008,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 195036,
       "num": 195036,
       "word": "张杰广州演唱会预告视频",
@@ -1353,6 +1409,14 @@
       "onboard_time": 1679465908,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 185677,
+      "num": 185677,
+      "word": "打麻将的和打台球的都沉默了",
+      "onboard_time": 1679477846,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 184181,
@@ -1457,6 +1521,14 @@
       "onboard_time": 1679446949,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 163482,
+      "num": 163482,
+      "word": "友谊中的危险信号",
+      "onboard_time": 1679479948,
+      "rank": 40,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 157820,
@@ -1585,6 +1657,14 @@
       "onboard_time": 1679402424,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 121570,
+      "num": 121570,
+      "word": "嫌疑人坐出租路过派出所被抓",
+      "onboard_time": 1679479290,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 116171,

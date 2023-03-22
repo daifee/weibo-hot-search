@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679477623818,
+  "endTime": 1679480336956,
   "band_list": [
     {
       "raw_hot": 7256959,
@@ -155,19 +155,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2001364,
+      "num": 894606,
+      "word": "被扔井中小男孩已安全救出",
+      "onboard_time": 1679475748,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1945945,
       "num": 1945945,
       "word": "睡觉时穿袜子更容易睡着",
       "onboard_time": 1679371530,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1902745,
-      "num": 894606,
-      "word": "被扔井中小男孩已安全救出",
-      "onboard_time": 1679475748,
-      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -1443,6 +1443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 659278,
+      "num": 442815,
+      "word": "霓娜的气质",
+      "onboard_time": 1679478928,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 653906,
       "num": 653906,
       "word": "红双喜",
@@ -1993,6 +2001,14 @@
       "onboard_time": 1679379567,
       "rank": 37,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 506303,
+      "num": 506303,
+      "word": "薛之谦郑州场抢票",
+      "onboard_time": 1679479348,
+      "rank": 7,
+      "category": "音乐"
     },
     {
       "raw_hot": 502966,
@@ -3507,6 +3523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 278631,
+      "num": 278631,
+      "word": "王晶回应被冯淬帆公开痛骂",
+      "onboard_time": 1679478026,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 277810,
       "num": 277810,
       "word": "T1全员入选LCK一阵",
@@ -3819,6 +3843,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 243261,
+      "num": 264587,
+      "word": "妇联回应女孩将小男孩扔井中",
+      "onboard_time": 1679479409,
+      "rank": 19,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 242843,
+      "num": 242843,
+      "word": "名侦探学院第六季收官",
+      "onboard_time": 1679477908,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 242523,
       "num": 242523,
       "word": "OMG晋级春季季后赛",
@@ -4073,6 +4113,14 @@
       "onboard_time": 1679324791,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 223853,
+      "num": 220650,
+      "word": "星落凝成糖直播售后",
+      "onboard_time": 1679480187,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 223321,
@@ -4627,6 +4675,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 195272,
+      "num": 195272,
+      "word": "好多综艺官宣啊",
+      "onboard_time": 1679480008,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 195111,
       "num": 195111,
       "word": "华晨宇演唱会杭州成都双城加场",
@@ -4809,6 +4865,14 @@
       "onboard_time": 1679465908,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 185677,
+      "num": 185677,
+      "word": "打麻将的和打台球的都沉默了",
+      "onboard_time": 1679477846,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 185145,
@@ -5289,6 +5353,14 @@
       "onboard_time": 1679287954,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163482,
+      "num": 163482,
+      "word": "友谊中的危险信号",
+      "onboard_time": 1679479948,
+      "rank": 40,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 163396,
@@ -5977,6 +6049,14 @@
       "onboard_time": 1679306192,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 121570,
+      "num": 121570,
+      "word": "嫌疑人坐出租路过派出所被抓",
+      "onboard_time": 1679479290,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 120884,
