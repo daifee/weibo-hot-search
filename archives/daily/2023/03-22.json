@@ -1,7 +1,15 @@
 {
   "startTime": 1679415632915,
-  "endTime": 1679441635820,
+  "endTime": 1679448260238,
   "band_list": [
+    {
+      "raw_hot": 1652071,
+      "num": 1652071,
+      "word": "中俄元首签署联合声明",
+      "onboard_time": 1679441965,
+      "rank": 0,
+      "category": "国内要闻"
+    },
     {
       "raw_hot": 1337983,
       "num": 650466,
@@ -9,6 +17,46 @@
       "onboard_time": 1679411491,
       "rank": 1,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 1321543,
+      "num": 1321543,
+      "word": "长春下泥",
+      "onboard_time": 1679445450,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1283110,
+      "num": 110072,
+      "word": "北京地铁10号线",
+      "onboard_time": 1679444369,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1281287,
+      "num": 559798,
+      "word": "14岁康康近照",
+      "onboard_time": 1679447428,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1135704,
+      "num": 555492,
+      "word": "特朗普",
+      "onboard_time": 1679444369,
+      "rank": 11,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 1124296,
+      "num": 1124296,
+      "word": "22岁男子被骗到缅甸偷偷发信息求救",
+      "onboard_time": 1679442024,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1085575,
@@ -19,10 +67,42 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 1080758,
+      "num": 1080758,
+      "word": "缅甸",
+      "onboard_time": 1679446710,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 956156,
+      "num": 548918,
+      "word": "中科大回应造黄谣男生能否被录取",
+      "onboard_time": 1679441724,
+      "rank": 12,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 927154,
       "num": 306399,
       "word": "彭十六",
       "onboard_time": 1679411133,
+      "rank": 10,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 800279,
+      "num": 800279,
+      "word": "北京沙尘暴",
+      "onboard_time": 1679440521,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 776195,
+      "num": 540722,
+      "word": "美七777",
+      "onboard_time": 1679441004,
       "rank": 10,
       "category": "网红"
     },
@@ -35,8 +115,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 725940,
-      "num": 526792,
+      "raw_hot": 740363,
+      "num": 533495,
       "word": "开门杀致人死亡女子被判9个月",
       "onboard_time": 1679404649,
       "rank": 5,
@@ -44,27 +124,27 @@
     },
     {
       "raw_hot": 679738,
-      "num": 554567,
+      "num": 657704,
       "word": "高叶狂飙后首个常驻综艺",
       "onboard_time": 1679409572,
       "rank": 4,
       "category": "综艺"
     },
     {
-      "raw_hot": 658536,
-      "num": 236212,
-      "word": "美七777",
-      "onboard_time": 1679441004,
-      "rank": 10,
-      "category": "网红"
+      "raw_hot": 624175,
+      "num": 624175,
+      "word": "张兰称正在受资本霸凌",
+      "onboard_time": 1679444129,
+      "rank": 7,
+      "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 630275,
-      "num": 547331,
-      "word": "北京沙尘暴",
-      "onboard_time": 1679440521,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 591103,
+      "num": 591103,
+      "word": "奔跑吧",
+      "onboard_time": 1679442626,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 590821,
@@ -75,12 +155,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 527579,
+      "num": 527579,
+      "word": "孙彩瑛因衬衫图案发文道歉",
+      "onboard_time": 1679441844,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 504112,
       "num": 203827,
       "word": "广东揭西发生严重交通事故",
       "onboard_time": 1679406809,
       "rank": 19,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 500277,
+      "num": 500277,
+      "word": "来自天堂的婚戒和遗书",
+      "onboard_time": 1679442084,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 471675,
+      "num": 471675,
+      "word": "舒淇 松弛明媚",
+      "onboard_time": 1679442084,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 441185,
@@ -116,15 +220,31 @@
     },
     {
       "raw_hot": 352757,
-      "num": 139157,
+      "num": 324971,
       "word": "男子在离婚冷静期买房前妻要求分割",
       "onboard_time": 1679424434,
       "rank": 25,
       "category": "社会新闻"
     },
     {
+      "raw_hot": 351134,
+      "num": 351134,
+      "word": "Xiaohu喊话极端粉丝",
+      "onboard_time": 1679441724,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 345396,
+      "num": 345396,
+      "word": "中俄元首强调通过和谈解决乌克兰危机",
+      "onboard_time": 1679442205,
+      "rank": 19,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 344350,
-      "num": 203341,
+      "num": 237758,
       "word": "男子将200万房子80元卖了",
       "onboard_time": 1679400986,
       "rank": 20,
@@ -132,11 +252,19 @@
     },
     {
       "raw_hot": 339861,
-      "num": 201734,
+      "num": 317308,
       "word": "爸爸离世后5岁娃深夜洗鞋妈妈泪奔",
       "onboard_time": 1679408612,
       "rank": 21,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 329551,
+      "num": 329551,
+      "word": "特朗普预告的被捕时间将到",
+      "onboard_time": 1679396008,
+      "rank": 18,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 311572,
@@ -179,6 +307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 289079,
+      "num": 289079,
+      "word": "南京邮政回应243万存款被挪用",
+      "onboard_time": 1679445808,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 284454,
       "num": 308391,
       "word": "下月起长沙可乘高铁直达香港",
@@ -195,8 +331,16 @@
       "category": "影视"
     },
     {
+      "raw_hot": 256723,
+      "num": 256723,
+      "word": "刘宇宁直播回应加戏",
+      "onboard_time": 1679447009,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 250154,
-      "num": 157633,
+      "num": 174213,
       "word": "父亲离世后女生立遗嘱将财产给妹妹",
       "onboard_time": 1679414427,
       "rank": 30,
@@ -211,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 241923,
+      "num": 241923,
+      "word": "彭十六辟谣",
+      "onboard_time": 1679441304,
+      "rank": 31,
+      "category": "网红"
+    },
+    {
       "raw_hot": 238350,
       "num": 238350,
       "word": "为什么说爬山检验感情",
@@ -219,20 +371,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 222960,
+      "num": 222960,
+      "word": "贵与便宜的区别",
+      "onboard_time": 1679442626,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 214315,
-      "num": 92506,
+      "num": 150596,
       "word": "张杰直播",
       "onboard_time": 1679441121,
       "rank": 30,
       "category": "艺人"
     },
     {
-      "raw_hot": 208263,
-      "num": 208263,
-      "word": "特朗普预告的被捕时间将到",
-      "onboard_time": 1679396008,
-      "rank": 18,
-      "category": "国外要闻"
+      "raw_hot": 203242,
+      "num": 203242,
+      "word": "中国富豪美国瑞士取钱涌入香港真相",
+      "onboard_time": 1679447369,
+      "rank": 33,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 197179,
@@ -243,12 +403,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 193561,
+      "num": 193561,
+      "word": "四川广安遭遇大地震系造谣",
+      "onboard_time": 1679441423,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191779,
       "num": 191779,
       "word": "刘耀文嘟嘴比耶照",
       "onboard_time": 1679414607,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 189860,
+      "num": 189860,
+      "word": "汇丰银行开门7天应对通关后开户需求",
+      "onboard_time": 1679442265,
+      "rank": 37,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 182440,
@@ -281,6 +457,14 @@
       "onboard_time": 1679394808,
       "rank": 28,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 163790,
+      "num": 163790,
+      "word": "喻言练习水上芭蕾vlog",
+      "onboard_time": 1679446949,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 157820,
@@ -347,6 +531,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 122317,
+      "num": 122317,
+      "word": "上海地铁",
+      "onboard_time": 1679447909,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 116171,
       "num": 116171,
       "word": "山东基建巨无霸有多硬核",
@@ -361,6 +553,14 @@
       "onboard_time": 1679407051,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 111185,
+      "num": 111185,
+      "word": "教育厅回应浙江教育网涉黄",
+      "onboard_time": 1679448090,
+      "rank": 44,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 110802,
@@ -395,6 +595,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 104480,
+      "num": 104480,
+      "word": "瑞银收购瑞信后工会担忧大规模裁员",
+      "onboard_time": 1679447369,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 101807,
       "num": 101807,
       "word": "内娱天花板公主抱",
@@ -417,14 +625,6 @@
       "onboard_time": 1679404708,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 96412,
-      "num": 90577,
-      "word": "彭十六辟谣",
-      "onboard_time": 1679441304,
-      "rank": 31,
-      "category": "网红"
     },
     {
       "raw_hot": 90014,
@@ -475,14 +675,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 58679,
-      "num": 58679,
-      "word": "四川广安遭遇大地震系造谣",
-      "onboard_time": 1679441423,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 52769,
       "num": 52769,
       "word": "丁泽仁否认嘴队友",
@@ -499,20 +691,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 35217,
+      "num": 1217613,
+      "word": "以中国新发展给世界带来新机遇",
+      "onboard_time": 1679403808,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 32072,
       "num": 40809,
       "word": "米卡三亚黑色真空西装造型",
       "onboard_time": 1679419937,
       "rank": 48,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 27370,
-      "num": 579500,
-      "word": "以中国新发展给世界带来新机遇",
-      "onboard_time": 1679403808,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 22246,

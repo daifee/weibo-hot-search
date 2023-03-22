@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679441635820,
+  "endTime": 1679448260238,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -1715,6 +1715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1652071,
+      "num": 1652071,
+      "word": "中俄元首签署联合声明",
+      "onboard_time": 1679441965,
+      "rank": 0,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 1651195,
       "num": 262243,
       "word": "蜂花 丫丫",
@@ -2747,6 +2755,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1321543,
+      "num": 1321543,
+      "word": "长春下泥",
+      "onboard_time": 1679445450,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1315853,
       "num": 1315853,
       "word": "甲流发病急",
@@ -2889,6 +2905,22 @@
       "onboard_time": 1679047472,
       "rank": 6,
       "category": "影视,艺人"
+    },
+    {
+      "raw_hot": 1283110,
+      "num": 110072,
+      "word": "北京地铁10号线",
+      "onboard_time": 1679444369,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1281287,
+      "num": 559798,
+      "word": "14岁康康近照",
+      "onboard_time": 1679447428,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1277699,
@@ -3627,6 +3659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1135704,
+      "num": 555492,
+      "word": "特朗普",
+      "onboard_time": 1679444369,
+      "rank": 11,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1135400,
       "num": 1135400,
       "word": "你好星期六下周有两对cp",
@@ -3665,6 +3705,14 @@
       "onboard_time": 1679051131,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1124296,
+      "num": 1124296,
+      "word": "22岁男子被骗到缅甸偷偷发信息求救",
+      "onboard_time": 1679442024,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1122459,
@@ -3952,6 +4000,14 @@
       "word": "湊湊火锅致歉",
       "onboard_time": 1678895607,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1080758,
+      "num": 1080758,
+      "word": "缅甸",
+      "onboard_time": 1679446710,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -5065,6 +5121,14 @@
       "onboard_time": 1678623445,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 956156,
+      "num": 548918,
+      "word": "中科大回应造黄谣男生能否被录取",
+      "onboard_time": 1679441724,
+      "rank": 12,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 955531,
@@ -6723,6 +6787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 800279,
+      "num": 800279,
+      "word": "北京沙尘暴",
+      "onboard_time": 1678792170,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 799659,
       "num": 799659,
       "word": "辽宁省考",
@@ -7097,6 +7169,14 @@
       "onboard_time": 1677855031,
       "rank": 7,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 776195,
+      "num": 540722,
+      "word": "美七777",
+      "onboard_time": 1679441004,
+      "rank": 10,
+      "category": "网红"
     },
     {
       "raw_hot": 776124,
@@ -8987,14 +9067,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 658536,
-      "num": 236212,
-      "word": "美七777",
-      "onboard_time": 1679441004,
-      "rank": 10,
-      "category": "网红"
-    },
-    {
       "raw_hot": 657911,
       "num": 657911,
       "word": "华为P60获经销商大量预订",
@@ -9635,14 +9707,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 630275,
-      "num": 547331,
-      "word": "北京沙尘暴",
-      "onboard_time": 1678792170,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 630265,
       "num": 375941,
       "word": "男性最佳生育年龄为30到35周岁",
@@ -9737,6 +9801,14 @@
       "onboard_time": 1677725308,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 624175,
+      "num": 624175,
+      "word": "张兰称正在受资本霸凌",
+      "onboard_time": 1679444129,
+      "rank": 7,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 623879,
@@ -10449,6 +10521,14 @@
       "onboard_time": 1678349726,
       "rank": 21,
       "category": "艺人,美食"
+    },
+    {
+      "raw_hot": 591103,
+      "num": 591103,
+      "word": "奔跑吧",
+      "onboard_time": 1677915385,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 591098,
@@ -12139,6 +12219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 527579,
+      "num": 527579,
+      "word": "孙彩瑛因衬衫图案发文道歉",
+      "onboard_time": 1679441844,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 527550,
       "num": 527550,
       "word": "马思纯罗晋新片开机",
@@ -13033,6 +13121,14 @@
       "onboard_time": 1678283249,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 500277,
+      "num": 500277,
+      "word": "来自天堂的婚戒和遗书",
+      "onboard_time": 1679442084,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 500275,
@@ -14081,6 +14177,14 @@
       "onboard_time": 1677807568,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 471675,
+      "num": 471675,
+      "word": "舒淇 松弛明媚",
+      "onboard_time": 1679442084,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 471650,
@@ -18724,7 +18828,7 @@
     },
     {
       "raw_hot": 352757,
-      "num": 139157,
+      "num": 324971,
       "word": "男子在离婚冷静期买房前妻要求分割",
       "onboard_time": 1679424434,
       "rank": 25,
@@ -18857,6 +18961,14 @@
       "onboard_time": 1677669567,
       "rank": 36,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 351134,
+      "num": 351134,
+      "word": "Xiaohu喊话极端粉丝",
+      "onboard_time": 1679441724,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 351055,
@@ -19161,6 +19273,14 @@
       "onboard_time": 1679375372,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 345396,
+      "num": 345396,
+      "word": "中俄元首强调通过和谈解决乌克兰危机",
+      "onboard_time": 1679442205,
+      "rank": 19,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 345240,
@@ -22203,6 +22323,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 289079,
+      "num": 289079,
+      "word": "南京邮政回应243万存款被挪用",
+      "onboard_time": 1679445808,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 289063,
       "num": 401283,
       "word": "短道速滑",
@@ -24163,6 +24291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 256723,
+      "num": 256723,
+      "word": "刘宇宁直播回应加戏",
+      "onboard_time": 1679447009,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 256592,
       "num": 256592,
       "word": "星落凝成糖双花重生",
@@ -24556,7 +24692,7 @@
     },
     {
       "raw_hot": 250154,
-      "num": 157633,
+      "num": 174213,
       "word": "父亲离世后女生立遗嘱将财产给妹妹",
       "onboard_time": 1679414427,
       "rank": 30,
@@ -25169,6 +25305,14 @@
       "onboard_time": 1678263087,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 241923,
+      "num": 241923,
+      "word": "彭十六辟谣",
+      "onboard_time": 1679441304,
+      "rank": 31,
+      "category": "网红"
     },
     {
       "raw_hot": 241892,
@@ -26787,6 +26931,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 222960,
+      "num": 222960,
+      "word": "贵与便宜的区别",
+      "onboard_time": 1679442626,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 222942,
       "num": 222942,
       "word": "谭松韵蜀锦人家组讯",
@@ -27580,7 +27732,7 @@
     },
     {
       "raw_hot": 214315,
-      "num": 92506,
+      "num": 150596,
       "word": "张杰直播",
       "onboard_time": 1679441121,
       "rank": 30,
@@ -27761,14 +27913,6 @@
       "onboard_time": 1678166306,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 211760,
-      "num": 211760,
-      "word": "奔跑吧",
-      "onboard_time": 1677915385,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 211714,
@@ -29065,6 +29209,14 @@
       "onboard_time": 1677734488,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 203242,
+      "num": 203242,
+      "word": "中国富豪美国瑞士取钱涌入香港真相",
+      "onboard_time": 1679447369,
+      "rank": 33,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 203179,
@@ -30907,6 +31059,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 193561,
+      "num": 193561,
+      "word": "四川广安遭遇大地震系造谣",
+      "onboard_time": 1679441423,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 193514,
       "num": 193514,
       "word": "一人一句祝福亚运会",
@@ -31545,6 +31705,14 @@
       "onboard_time": 1678523366,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 189860,
+      "num": 189860,
+      "word": "汇丰银行开门7天应对通关后开户需求",
+      "onboard_time": 1679442265,
+      "rank": 37,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 189796,
@@ -34377,6 +34545,14 @@
       "onboard_time": 1677897925,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163790,
+      "num": 163790,
+      "word": "喻言练习水上芭蕾vlog",
+      "onboard_time": 1679446949,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 163752,
@@ -39843,6 +40019,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 111185,
+      "num": 111185,
+      "word": "教育厅回应浙江教育网涉黄",
+      "onboard_time": 1679448090,
+      "rank": 44,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 111108,
       "num": 111108,
       "word": "归路你先别虐",
@@ -40523,6 +40707,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 104480,
+      "num": 104480,
+      "word": "瑞银收购瑞信后工会担忧大规模裁员",
+      "onboard_time": 1679447369,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 104350,
       "num": 104350,
       "word": "井柏然梁天对手戏花絮",
@@ -41121,14 +41313,6 @@
       "onboard_time": 1679390550,
       "rank": 48,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 96412,
-      "num": 90577,
-      "word": "彭十六辟谣",
-      "onboard_time": 1679441304,
-      "rank": 31,
-      "category": "网红"
     },
     {
       "raw_hot": 96032,
@@ -42420,7 +42604,7 @@
     },
     {
       "raw_hot": 64529,
-      "num": 850484,
+      "num": 1217613,
       "word": "以中国新发展给世界带来新机遇",
       "onboard_time": 1679403808,
       "rank": 2,
@@ -42569,14 +42753,6 @@
       "onboard_time": 1678640538,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 58679,
-      "num": 58679,
-      "word": "四川广安遭遇大地震系造谣",
-      "onboard_time": 1679441423,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 58590,
