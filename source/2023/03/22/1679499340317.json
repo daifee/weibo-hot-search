@@ -1,0 +1,410 @@
+{
+  "runTime": 1679499340317,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 24933,
+        "num": 923034,
+        "word": "中俄元首强调通过和谈解决乌克兰危机",
+        "onboard_time": 1679442205,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1359788,
+        "num": 902856,
+        "word": "丁太升说声生不息首期最差是张杰",
+        "onboard_time": 1679497413,
+        "rank": 1,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 20998,
+        "num": 901072,
+        "word": "落实重大发展战略开创事业新局",
+        "onboard_time": 1679486968,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1598540,
+        "num": 864916,
+        "word": "尔康去了缅甸都回不来",
+        "onboard_time": 1679492068,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1170866,
+        "num": 851591,
+        "word": "聂小雨结局",
+        "onboard_time": 1679496332,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 840129,
+        "num": 840129,
+        "word": "凉拌菜是减脂餐的天花板吧",
+        "onboard_time": 1679495311,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 768192,
+        "num": 768192,
+        "word": "女演员被困厕所五星级酒店道歉",
+        "onboard_time": 1679497112,
+        "rank": 6,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 720569,
+        "num": 720569,
+        "word": "女子应聘被质疑23岁用苹果手机",
+        "onboard_time": 1679489728,
+        "rank": 7,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 641068,
+        "num": 641068,
+        "word": "孙笑川吧被指有大量侮辱女性言论",
+        "onboard_time": 1679498429,
+        "rank": 8,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 546867,
+        "num": 546867,
+        "word": "泰总理下令澄清旅泰安全问题",
+        "onboard_time": 1679485409,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 891383,
+        "num": 538206,
+        "word": "孔雪儿颅顶",
+        "onboard_time": 1679491289,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 503390,
+        "num": 503390,
+        "word": "女子为夫报仇引诱黑帮老大爱上自己",
+        "onboard_time": 1679496691,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 431061,
+        "num": 431061,
+        "word": "林俊杰翻唱输了你贏了世界又如何",
+        "onboard_time": 1679495551,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 400039,
+        "num": 400039,
+        "word": "迪丽热巴红裙花絮",
+        "onboard_time": 1679494050,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 355292,
+        "num": 355292,
+        "word": "泰国游有平替吗",
+        "onboard_time": 1679491472,
+        "rank": 14,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 346095,
+        "num": 346095,
+        "word": "康康诺一经常聚会",
+        "onboard_time": 1679484269,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 336300,
+        "num": 336300,
+        "word": "熊猫妈妈示范怎么吸熊猫",
+        "onboard_time": 1679493689,
+        "rank": 16,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 269355,
+        "num": 269355,
+        "word": "警方通报女孩将小男孩扔井中",
+        "onboard_time": 1679485168,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268471,
+        "num": 268471,
+        "word": "原来韩国00后也在整顿职场",
+        "onboard_time": 1679490567,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 264013,
+        "num": 264013,
+        "word": "河北省考",
+        "onboard_time": 1679493991,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 426391,
+        "num": 262459,
+        "word": "网购了一头大象",
+        "onboard_time": 1679495013,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 296923,
+        "num": 262030,
+        "word": "以后还让我怎么吃香蕉啊",
+        "onboard_time": 1679485888,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 249992,
+        "num": 249992,
+        "word": "流浪小狗乞求收养者一起带走小熊",
+        "onboard_time": 1679488169,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228492,
+        "num": 228492,
+        "word": "90后小伙经4个媒人相亲1个女孩",
+        "onboard_time": 1679491770,
+        "rank": 23,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 213634,
+        "num": 213634,
+        "word": "刘亦菲上海路透",
+        "onboard_time": 1679491590,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 213180,
+        "num": 213180,
+        "word": "青春环游记春游F4",
+        "onboard_time": 1679488948,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210051,
+        "num": 210051,
+        "word": "四川一高校放假7天鼓励恋爱",
+        "onboard_time": 1679487868,
+        "rank": 26,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 181634,
+        "num": 181634,
+        "word": "HM回应女子试衣用新衣垫脚",
+        "onboard_time": 1679487389,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179879,
+        "num": 179879,
+        "word": "王牌对王牌8官宣",
+        "onboard_time": 1679473348,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171926,
+        "num": 171926,
+        "word": "有什么是你谈了恋爱才明白的",
+        "onboard_time": 1679482947,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170815,
+        "num": 170815,
+        "word": "小说影视化成功典范",
+        "onboard_time": 1679483908,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 170471,
+        "num": 170471,
+        "word": "罗渽民分享没公开过的照片",
+        "onboard_time": 1679482168,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166718,
+        "num": 166718,
+        "word": "田曦薇侧颜随拍",
+        "onboard_time": 1679495492,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162009,
+        "num": 162009,
+        "word": "林诗栋陈幸同获新乡赛外卡",
+        "onboard_time": 1679495733,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157527,
+        "num": 157527,
+        "word": "魔咒",
+        "onboard_time": 1679493212,
+        "rank": 34,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 152660,
+        "num": 152660,
+        "word": "被扔井中小男孩已安全救出",
+        "onboard_time": 1679475748,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140841,
+        "num": 140841,
+        "word": "滚肉松小贝",
+        "onboard_time": 1679495970,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 132786,
+        "num": 132786,
+        "word": "王鹤棣时宴杀青plog",
+        "onboard_time": 1679496570,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 129571,
+        "num": 129571,
+        "word": "王者荣耀",
+        "onboard_time": 1679485769,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 122565,
+        "num": 122565,
+        "word": "Scout刷新联赛MVP纪录",
+        "onboard_time": 1679489789,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 119882,
+        "num": 119882,
+        "word": "好多综艺官宣啊",
+        "onboard_time": 1679480008,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113663,
+        "num": 113663,
+        "word": "苏州卫健委回应产科医生收红包",
+        "onboard_time": 1679498848,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111424,
+        "num": 111424,
+        "word": "王嘉尔飞往洛杉矶",
+        "onboard_time": 1679488047,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109863,
+        "num": 109863,
+        "word": "老狼官宣加盟安吉大麓青年音乐节",
+        "onboard_time": 1679493153,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 107445,
+        "num": 107445,
+        "word": "霓娜的气质",
+        "onboard_time": 1679478928,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106857,
+        "num": 106857,
+        "word": "李兰迪说想和陈星旭三搭",
+        "onboard_time": 1679486912,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 106744,
+        "num": 106744,
+        "word": "归路第18集预告",
+        "onboard_time": 1679494409,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 104200,
+        "num": 104200,
+        "word": "保你平安实时票房破4亿",
+        "onboard_time": 1679497651,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 103638,
+        "num": 103638,
+        "word": "奔跑吧阵容正式官宣",
+        "onboard_time": 1679473166,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94790,
+        "num": 94790,
+        "word": "进到一个全是托的群",
+        "onboard_time": 1679481328,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席访问俄罗斯#"
+    }
+  }
+}
