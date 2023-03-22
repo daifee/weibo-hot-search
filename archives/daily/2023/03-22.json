@@ -1,6 +1,6 @@
 {
   "startTime": 1679415632915,
-  "endTime": 1679466948125,
+  "endTime": 1679469379629,
   "band_list": [
     {
       "raw_hot": 3268124,
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1218762,
+      "num": 750152,
+      "word": "4名学生被引诱至缅甸全程经历",
+      "onboard_time": 1679464168,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1135704,
       "num": 555492,
       "word": "特朗普",
@@ -179,12 +187,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1032300,
+      "num": 712387,
+      "word": "Angelababy片场摔倒",
+      "onboard_time": 1679464709,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 974903,
+      "num": 703231,
+      "word": "跑男",
+      "onboard_time": 1679466268,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 963645,
       "num": 548918,
       "word": "中科大回应造黄谣男生能否被录取",
       "onboard_time": 1679441724,
       "rank": 12,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 930135,
+      "num": 818727,
+      "word": "谷爱凌官宣出席微博之夜",
+      "onboard_time": 1679467348,
+      "rank": 1,
+      "category": "作品衍生,体育"
     },
     {
       "raw_hot": 927154,
@@ -241,6 +273,14 @@
       "onboard_time": 1679456008,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 820527,
+      "num": 820527,
+      "word": "N2",
+      "onboard_time": 1679468067,
+      "rank": 0,
+      "category": "教育"
     },
     {
       "raw_hot": 800279,
@@ -300,7 +340,7 @@
     },
     {
       "raw_hot": 706295,
-      "num": 522739,
+      "num": 523073,
       "word": "朱一龙出发泰国机场路透",
       "onboard_time": 1679465189,
       "rank": 12,
@@ -339,22 +379,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 666707,
-      "num": 666707,
-      "word": "4名学生被引诱至缅甸全程经历",
-      "onboard_time": 1679464168,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 665603,
-      "num": 665603,
-      "word": "Angelababy片场摔倒",
-      "onboard_time": 1679464709,
-      "rank": 14,
-      "category": "影视"
-    },
-    {
       "raw_hot": 661840,
       "num": 547734,
       "word": "虞书欣新剧演女间谍",
@@ -369,6 +393,14 @@
       "onboard_time": 1679454568,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 631064,
+      "num": 544624,
+      "word": "张艺兴说三四月的事八九月自有答案",
+      "onboard_time": 1679467647,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 624175,
@@ -411,6 +443,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 584148,
+      "num": 584148,
+      "word": "网传宋雨琦将回归奔跑吧",
+      "onboard_time": 1679468427,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 577993,
       "num": 577993,
       "word": "乔治360度暴扣",
@@ -433,6 +473,14 @@
       "onboard_time": 1679454389,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 527802,
+      "num": 527802,
+      "word": "蔡徐坤暂别奔跑吧",
+      "onboard_time": 1679468967,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 527579,
@@ -465,6 +513,14 @@
       "onboard_time": 1679456369,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 486468,
+      "num": 486468,
+      "word": "5名日本人入室抢劫两名中国人",
+      "onboard_time": 1679467167,
+      "rank": 16,
+      "category": "社会负面"
     },
     {
       "raw_hot": 471675,
@@ -507,20 +563,20 @@
       "category": "情感,音乐"
     },
     {
-      "raw_hot": 397283,
-      "num": 397283,
-      "word": "跑男",
-      "onboard_time": 1679466268,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 394662,
       "num": 394662,
       "word": "上海地铁",
       "onboard_time": 1679447909,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 392303,
+      "num": 392303,
+      "word": "山东省考",
+      "onboard_time": 1679459431,
+      "rank": 40,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 391756,
@@ -553,6 +609,14 @@
       "onboard_time": 1679462251,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 355156,
+      "num": 355156,
+      "word": "只有汪峰在打折",
+      "onboard_time": 1679466746,
+      "rank": 25,
+      "category": "艺人,音乐"
     },
     {
       "raw_hot": 355061,
@@ -683,14 +747,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 313583,
-      "num": 313583,
-      "word": "山东省考",
-      "onboard_time": 1679459431,
-      "rank": 40,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 311572,
       "num": 311572,
       "word": "大胆请假拒绝请假耻辱",
@@ -705,6 +761,14 @@
       "onboard_time": 1679464768,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 304239,
+      "num": 304239,
+      "word": "浙江人接下来一个月的主食",
+      "onboard_time": 1679468008,
+      "rank": 24,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 300024,
@@ -737,6 +801,14 @@
       "onboard_time": 1679409992,
       "rank": 15,
       "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 292405,
+      "num": 292405,
+      "word": "严浩翔考科三视频",
+      "onboard_time": 1679468607,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 291916,
@@ -795,14 +867,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 268287,
-      "num": 268287,
-      "word": "只有汪峰在打折",
-      "onboard_time": 1679466746,
-      "rank": 25,
-      "category": "艺人,音乐"
-    },
-    {
       "raw_hot": 266959,
       "num": 266959,
       "word": "林更新生图状态",
@@ -851,6 +915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 247407,
+      "num": 247407,
+      "word": "张若昀听到木偶主题的反应",
+      "onboard_time": 1679468067,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 245780,
       "num": 245780,
       "word": "鞠婧祎抹胸小黑裙拍摄路透",
@@ -881,6 +953,14 @@
       "onboard_time": 1679441304,
       "rank": 31,
       "category": "网红"
+    },
+    {
+      "raw_hot": 240701,
+      "num": 240701,
+      "word": "扬州炒饭雪糕和老干妈雪糕",
+      "onboard_time": 1679465847,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 238350,
@@ -1003,6 +1083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 199280,
+      "num": 199280,
+      "word": "2022微博之夜新面孔",
+      "onboard_time": 1679468367,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 197179,
       "num": 197179,
       "word": "哇唧唧哇香香",
@@ -1049,6 +1137,14 @@
       "onboard_time": 1679442265,
       "rank": 37,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 186268,
+      "num": 186268,
+      "word": "你会坚持不健康的恋爱关系吗",
+      "onboard_time": 1679465908,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 184181,
@@ -1115,14 +1211,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 165808,
-      "num": 165808,
-      "word": "扬州炒饭雪糕和老干妈雪糕",
-      "onboard_time": 1679465847,
-      "rank": 47,
-      "category": "美食"
-    },
-    {
       "raw_hot": 165606,
       "num": 165606,
       "word": "山姆会员店寿司致多人上吐下泻",
@@ -1169,14 +1257,6 @@
       "onboard_time": 1679449226,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 151139,
-      "num": 151139,
-      "word": "你会坚持不健康的恋爱关系吗",
-      "onboard_time": 1679465908,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 146737,
