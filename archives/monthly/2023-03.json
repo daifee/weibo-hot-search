@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679480336956,
+  "endTime": 1679481272837,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -9227,6 +9227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 666998,
+      "num": 442815,
+      "word": "霓娜的气质",
+      "onboard_time": 1679478928,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 666361,
       "num": 509290,
       "word": "17岁女生寒假兼职做保安",
@@ -9393,14 +9401,6 @@
       "onboard_time": 1678981706,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 659278,
-      "num": 442815,
-      "word": "霓娜的气质",
-      "onboard_time": 1679478928,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 658713,
@@ -12563,6 +12563,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 530290,
+      "num": 390207,
+      "word": "妇联回应女孩将小男孩扔井中",
+      "onboard_time": 1679479409,
+      "rank": 19,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 529981,
       "num": 529981,
       "word": "金智秀将出演虽然没准备什么菜",
@@ -15435,6 +15443,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 446294,
+      "num": 390001,
+      "word": "好多综艺官宣啊",
+      "onboard_time": 1679480008,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 445394,
       "num": 403683,
       "word": "六级翻译",
@@ -17545,6 +17561,14 @@
       "onboard_time": 1679135307,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 389928,
+      "num": 389928,
+      "word": "偷偷藏不住站内预约人数破150万",
+      "onboard_time": 1679480549,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 389810,
@@ -23619,20 +23643,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 278820,
+      "num": 278820,
+      "word": "王晶回应被冯淬帆公开痛骂",
+      "onboard_time": 1679478026,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 278761,
       "num": 278761,
       "word": "蓝眼泪将迎高发期",
       "onboard_time": 1679284112,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 278631,
-      "num": 278631,
-      "word": "王晶回应被冯淬帆公开痛骂",
-      "onboard_time": 1679478026,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 278455,
@@ -25651,6 +25675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 247243,
+      "num": 247243,
+      "word": "不止不休北京大学分享会",
+      "onboard_time": 1679480549,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 247194,
       "num": 247194,
       "word": "迪丽热巴流光闪烁花絮",
@@ -25835,6 +25867,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 244913,
+      "num": 244913,
+      "word": "星落凝成糖直播售后",
+      "onboard_time": 1679480187,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 244837,
       "num": 244837,
       "word": "TCL客服回应电视夜间突然大声预警",
@@ -25977,14 +26017,6 @@
       "onboard_time": 1679144730,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 243261,
-      "num": 264587,
-      "word": "妇联回应女孩将小男孩扔井中",
-      "onboard_time": 1679479409,
-      "rank": 19,
-      "category": "社会负面"
     },
     {
       "raw_hot": 243054,
@@ -27649,14 +27681,6 @@
       "onboard_time": 1678184190,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 223853,
-      "num": 220650,
-      "word": "星落凝成糖直播售后",
-      "onboard_time": 1679480187,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 223662,
@@ -31019,6 +31043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198657,
+      "num": 198657,
+      "word": "4名广西小伙在缅甸失联疑似被控制",
+      "onboard_time": 1679476949,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198608,
       "num": 198608,
       "word": "成毅英雄志被踹路透",
@@ -31619,14 +31651,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 195639,
-      "num": 195639,
-      "word": "4名广西小伙在缅甸失联疑似被控制",
-      "onboard_time": 1679476949,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 195625,
       "num": 195625,
       "word": "JDG战胜LGD",
@@ -31657,14 +31681,6 @@
       "onboard_time": 1678804533,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 195272,
-      "num": 195272,
-      "word": "好多综艺官宣啊",
-      "onboard_time": 1679480008,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 195266,
@@ -35403,6 +35419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 165254,
+      "num": 145508,
+      "word": "毛晓彤恋爱观",
+      "onboard_time": 1679481208,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 165061,
       "num": 165061,
       "word": "雷军建议强化智能汽车数据安全",
@@ -37537,6 +37561,14 @@
       "onboard_time": 1678971990,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145699,
+      "num": 145699,
+      "word": "这文言文翻译完自己都笑了",
+      "onboard_time": 1679480729,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 145636,
@@ -41689,6 +41721,14 @@
       "onboard_time": 1678934909,
       "rank": 48,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 105661,
+      "num": 105661,
+      "word": "一开口就是社死现场",
+      "onboard_time": 1679478208,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 105566,
