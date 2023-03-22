@@ -1,0 +1,410 @@
+{
+  "runTime": 1679495608004,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 27495,
+        "num": 826115,
+        "word": "中俄元首强调通过和谈解决乌克兰危机",
+        "onboard_time": 1679442205,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 711106,
+        "num": 711106,
+        "word": "河北省考",
+        "onboard_time": 1679493991,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 21524,
+        "num": 691026,
+        "word": "落实重大发展战略开创事业新局",
+        "onboard_time": 1679486968,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2347274,
+        "num": 671315,
+        "word": "尔康去了缅甸都回不来",
+        "onboard_time": 1679492068,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 957924,
+        "num": 641376,
+        "word": "女子应聘被质疑23岁用苹果手机",
+        "onboard_time": 1679489728,
+        "rank": 4,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 777936,
+        "num": 605383,
+        "word": "泰总理下令澄清旅泰安全问题",
+        "onboard_time": 1679485409,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 601795,
+        "num": 601795,
+        "word": "泰国游有平替吗",
+        "onboard_time": 1679491472,
+        "rank": 6,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 583931,
+        "num": 583931,
+        "word": "原来韩国00后也在整顿职场",
+        "onboard_time": 1679490567,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 447409,
+        "num": 581471,
+        "word": "流浪小狗乞求收养者一起带走小熊",
+        "onboard_time": 1679488169,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 407900,
+        "num": 571958,
+        "word": "警方通报女孩将小男孩扔井中",
+        "onboard_time": 1679485168,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1267141,
+        "num": 561697,
+        "word": "孔雪儿颅顶",
+        "onboard_time": 1679491289,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 631902,
+        "num": 554596,
+        "word": "迪丽热巴红裙花絮",
+        "onboard_time": 1679494050,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 550580,
+        "num": 550580,
+        "word": "康康诺一经常聚会",
+        "onboard_time": 1679484269,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 463499,
+        "num": 463499,
+        "word": "林俊杰翻唱输了你贏了世界又如何",
+        "onboard_time": 1679495551,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 429661,
+        "num": 429661,
+        "word": "刘亦菲上海路透",
+        "onboard_time": 1679491590,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 384700,
+        "num": 384700,
+        "word": "青春环游记春游F4",
+        "onboard_time": 1679488948,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 358609,
+        "num": 358609,
+        "word": "老狼官宣加盟安吉大麓青年音乐节",
+        "onboard_time": 1679493153,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 340755,
+        "num": 340755,
+        "word": "王牌对王牌8官宣",
+        "onboard_time": 1679473348,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 337627,
+        "num": 337627,
+        "word": "四川一高校放假7天鼓励恋爱",
+        "onboard_time": 1679487868,
+        "rank": 18,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 335007,
+        "num": 335007,
+        "word": "HM回应女子试衣用新衣垫脚",
+        "onboard_time": 1679487389,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400137,
+        "num": 321411,
+        "word": "以后还让我怎么吃香蕉啊",
+        "onboard_time": 1679485888,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 376342,
+        "num": 311392,
+        "word": "90后小伙经4个媒人相亲1个女孩",
+        "onboard_time": 1679491770,
+        "rank": 21,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 266947,
+        "num": 266947,
+        "word": "被扔井中小男孩已安全救出",
+        "onboard_time": 1679475748,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259326,
+        "num": 259326,
+        "word": "Scout刷新联赛MVP纪录",
+        "onboard_time": 1679489789,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 243559,
+        "num": 243559,
+        "word": "以爱为营全员告别角色",
+        "onboard_time": 1679492733,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 240531,
+        "num": 240531,
+        "word": "小说影视化成功典范",
+        "onboard_time": 1679483908,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 224645,
+        "num": 224645,
+        "word": "罗渽民分享没公开过的照片",
+        "onboard_time": 1679482168,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217687,
+        "num": 217687,
+        "word": "魔咒",
+        "onboard_time": 1679493212,
+        "rank": 27,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 197507,
+        "num": 197507,
+        "word": "白鹿以爱为营杀青plog",
+        "onboard_time": 1679494829,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 195149,
+        "num": 195149,
+        "word": "有什么是你谈了恋爱才明白的",
+        "onboard_time": 1679482947,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 255101,
+        "num": 190626,
+        "word": "网购了一头大象",
+        "onboard_time": 1679495013,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 183535,
+        "num": 183535,
+        "word": "奔跑吧阵容正式官宣",
+        "onboard_time": 1679473166,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179365,
+        "num": 179365,
+        "word": "好多综艺官宣啊",
+        "onboard_time": 1679480008,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177039,
+        "num": 177039,
+        "word": "凉拌菜是减脂餐的天花板吧",
+        "onboard_time": 1679495311,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 167015,
+        "num": 167015,
+        "word": "李兰迪说想和陈星旭三搭",
+        "onboard_time": 1679486912,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165143,
+        "num": 165143,
+        "word": "归路第18集预告",
+        "onboard_time": 1679494409,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 160553,
+        "num": 160553,
+        "word": "怦然3申请他是谁卫队保护",
+        "onboard_time": 1679494170,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 158211,
+        "num": 158211,
+        "word": "狂飙京海大佬害羞了",
+        "onboard_time": 1679483187,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 154442,
+        "num": 154442,
+        "word": "霓娜的气质",
+        "onboard_time": 1679478928,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149139,
+        "num": 149139,
+        "word": "王者荣耀",
+        "onboard_time": 1679485769,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 139775,
+        "num": 139775,
+        "word": "浙江人接下来一个月的主食",
+        "onboard_time": 1679468008,
+        "rank": 40,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 132682,
+        "num": 132682,
+        "word": "王嘉尔飞往洛杉矶",
+        "onboard_time": 1679488047,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131682,
+        "num": 131682,
+        "word": "何昶希在女生和女神中选择了女装",
+        "onboard_time": 1679484510,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 131130,
+        "num": 131130,
+        "word": "进到一个全是托的群",
+        "onboard_time": 1679481328,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 128235,
+        "num": 128235,
+        "word": "薛之谦郑州场抢票",
+        "onboard_time": 1679479348,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 122603,
+        "num": 122603,
+        "word": "蔡徐坤暂别奔跑吧",
+        "onboard_time": 1679468967,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120867,
+        "num": 120867,
+        "word": "上过大学的都沉默了",
+        "onboard_time": 1679474007,
+        "rank": 46,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 118163,
+        "num": 118163,
+        "word": "田曦薇侧颜随拍",
+        "onboard_time": 1679495492,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114375,
+        "num": 114375,
+        "word": "MTG战胜KSG",
+        "onboard_time": 1679493870,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 107452,
+        "num": 107452,
+        "word": "被别人的家庭氛围感动到了",
+        "onboard_time": 1679494170,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#以长远眼光看待和把握中俄关系#"
+    }
+  }
+}
