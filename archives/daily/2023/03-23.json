@@ -1,6 +1,6 @@
 {
   "startTime": 1679502284596,
-  "endTime": 1679524401729,
+  "endTime": 1679526895298,
   "band_list": [
     {
       "raw_hot": 1288163,
@@ -75,6 +75,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 435142,
+      "num": 415628,
+      "word": "阿姨赶女儿婚前写遗嘱防女婿",
+      "onboard_time": 1679500886,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 394283,
       "num": 394283,
       "word": "泰总理下令澄清旅泰安全问题",
@@ -91,11 +99,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 331287,
-      "num": 331287,
-      "word": "阿姨赶女儿婚前写遗嘱防女婿",
-      "onboard_time": 1679500886,
-      "rank": 24,
+      "raw_hot": 338239,
+      "num": 338239,
+      "word": "网友称海底捞水果仅限打包一份",
+      "onboard_time": 1679507414,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -105,6 +113,14 @@
       "onboard_time": 1679495013,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 251457,
+      "num": 251457,
+      "word": "心医林霖",
+      "onboard_time": 1679513113,
+      "rank": 28,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 251383,
@@ -121,6 +137,14 @@
       "onboard_time": 1679494050,
       "rank": 14,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 236119,
+      "num": 236119,
+      "word": "外卖哥街头向交警下跪被掌掴",
+      "onboard_time": 1679503880,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 226536,
@@ -179,14 +203,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 192696,
-      "num": 134648,
-      "word": "网友称海底捞水果仅限打包一份",
-      "onboard_time": 1679507414,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 188566,
       "num": 195491,
       "word": "刘冬沁以爱为营马术服墨镜造型",
@@ -195,18 +211,18 @@
       "category": "影视"
     },
     {
+      "raw_hot": 183642,
+      "num": 183642,
+      "word": "多方发声还原民宿老板上门事件",
+      "onboard_time": 1679525419,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181268,
       "num": 181268,
       "word": "流浪小狗乞求收养者一起带走小熊",
       "onboard_time": 1679488169,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 168970,
-      "num": 135285,
-      "word": "外卖哥街头向交警下跪被掌掴",
-      "onboard_time": 1679503880,
       "rank": 25,
       "category": "社会新闻"
     },
@@ -315,14 +331,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 107947,
-      "num": 103104,
-      "word": "心医林霖",
-      "onboard_time": 1679513113,
-      "rank": 28,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 107744,
       "num": 107744,
       "word": "王牌对王牌8官宣",
@@ -427,12 +435,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 42774,
-      "num": 42774,
+      "raw_hot": 44643,
+      "num": 44643,
       "word": "会画画真的能为所欲为吧",
       "onboard_time": 1679503582,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 37451,
+      "num": 37451,
+      "word": "老狼官宣加盟安吉大麓青年音乐节",
+      "onboard_time": 1679493153,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 33375,
@@ -443,16 +459,24 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 29772,
-      "num": 29772,
-      "word": "老狼官宣加盟安吉大麓青年音乐节",
-      "onboard_time": 1679493153,
-      "rank": 47,
-      "category": "音乐"
+      "raw_hot": 32063,
+      "num": 37451,
+      "word": "2022微博之夜新面孔",
+      "onboard_time": 1679468367,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 30523,
+      "num": 37451,
+      "word": "风花的呼吸",
+      "onboard_time": 1679366247,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 29395,
-      "num": 29395,
+      "num": 37451,
       "word": "严浩翔七宫格连拍",
       "onboard_time": 1679500289,
       "rank": 41,
