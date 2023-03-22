@@ -1,6 +1,6 @@
 {
   "startTime": 1679415632915,
-  "endTime": 1679474141843,
+  "endTime": 1679476643256,
   "band_list": [
     {
       "raw_hot": 3268124,
@@ -75,11 +75,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1463663,
+      "num": 843412,
+      "word": "王牌对王牌8官宣",
+      "onboard_time": 1679473348,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1453188,
       "num": 738925,
       "word": "罗渽民开通微博",
       "onboard_time": 1679455529,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1438865,
+      "num": 781316,
+      "word": "林俊杰 mirror",
+      "onboard_time": 1679475086,
+      "rank": 3,
       "category": "艺人"
     },
     {
@@ -211,11 +227,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1037196,
-      "num": 675991,
-      "word": "王牌对王牌8官宣",
-      "onboard_time": 1679473348,
-      "rank": 1,
+      "raw_hot": 1034642,
+      "num": 749334,
+      "word": "爸爸去哪儿星二代近照",
+      "onboard_time": 1679474609,
+      "rank": 4,
       "category": "综艺"
     },
     {
@@ -371,6 +387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 732319,
+      "num": 732319,
+      "word": "奔跑吧阵容正式官宣",
+      "onboard_time": 1679473166,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 706295,
       "num": 523073,
       "word": "朱一龙出发泰国机场路透",
@@ -393,6 +417,14 @@
       "onboard_time": 1679460933,
       "rank": 11,
       "category": "影视,音乐"
+    },
+    {
+      "raw_hot": 692294,
+      "num": 692294,
+      "word": "JYP差点被收购",
+      "onboard_time": 1679474425,
+      "rank": 6,
+      "category": "财经,艺人"
     },
     {
       "raw_hot": 679738,
@@ -483,6 +515,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 588130,
+      "num": 588130,
+      "word": "上过大学的都沉默了",
+      "onboard_time": 1679474007,
+      "rank": 48,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 584148,
       "num": 584148,
       "word": "网传宋雨琦将回归奔跑吧",
@@ -531,6 +571,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 502966,
+      "num": 502966,
+      "word": "大学生之间莫名其妙的信任",
+      "onboard_time": 1679471187,
+      "rank": 19,
+      "category": "情感,教育"
+    },
+    {
       "raw_hot": 500277,
       "num": 500277,
       "word": "来自天堂的婚戒和遗书",
@@ -555,6 +603,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 477970,
+      "num": 477970,
+      "word": "三亚游客租车被坑事件6人被刑拘",
+      "onboard_time": 1679474066,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 471675,
       "num": 471675,
       "word": "舒淇 松弛明媚",
@@ -569,14 +625,6 @@
       "onboard_time": 1679454626,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 449597,
-      "num": 449597,
-      "word": "大学生之间莫名其妙的信任",
-      "onboard_time": 1679471187,
-      "rank": 19,
-      "category": "情感,教育"
     },
     {
       "raw_hot": 449026,
@@ -624,6 +672,14 @@
       "word": "范丞丞给姚导画饼",
       "onboard_time": 1679472509,
       "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 426041,
+      "num": 411437,
+      "word": "杨颖八个字介绍跑男11季主题",
+      "onboard_time": 1679475686,
+      "rank": 16,
       "category": "综艺"
     },
     {
@@ -675,6 +731,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 386089,
+      "num": 386089,
+      "word": "被扔井中小男孩已安全救出",
+      "onboard_time": 1679475748,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 378382,
+      "num": 378382,
+      "word": "贵州省考",
+      "onboard_time": 1679475686,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
       "raw_hot": 377218,
       "num": 598389,
       "word": "不要等缺水了才想起节水",
@@ -697,14 +769,6 @@
       "onboard_time": 1679462251,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 358393,
-      "num": 358393,
-      "word": "奔跑吧阵容正式官宣",
-      "onboard_time": 1679473166,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 355156,
@@ -748,7 +812,7 @@
     },
     {
       "raw_hot": 345396,
-      "num": 676123,
+      "num": 878585,
       "word": "中俄元首强调通过和谈解决乌克兰危机",
       "onboard_time": 1679442205,
       "rank": 19,
@@ -777,6 +841,14 @@
       "onboard_time": 1679408612,
       "rank": 21,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 338573,
+      "num": 338573,
+      "word": "彭小苒台词",
+      "onboard_time": 1679474909,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 337984,
@@ -915,6 +987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 288889,
+      "num": 288889,
+      "word": "天赐的声音4嘉宾阵容",
+      "onboard_time": 1679475806,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 287950,
       "num": 287950,
       "word": "天津沙尘暴",
@@ -953,6 +1033,14 @@
       "onboard_time": 1679453966,
       "rank": 22,
       "category": "教育"
+    },
+    {
+      "raw_hot": 267149,
+      "num": 267149,
+      "word": "青春环游记新口号",
+      "onboard_time": 1679474665,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 266959,
@@ -1139,6 +1227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 209524,
+      "num": 209524,
+      "word": "张凌赫郭敬明头围比",
+      "onboard_time": 1679475448,
+      "rank": 33,
+      "category": "艺人,综艺"
+    },
+    {
       "raw_hot": 209243,
       "num": 206873,
       "word": "归路编剧脑洞",
@@ -1193,6 +1289,14 @@
       "onboard_time": 1679408971,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 196896,
+      "num": 196896,
+      "word": "保你平安英文名含义",
+      "onboard_time": 1679475987,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 195036,
@@ -1305,6 +1409,14 @@
       "onboard_time": 1679471606,
       "rank": 36,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 168018,
+      "num": 168018,
+      "word": "小敏家金波出演爱情而已",
+      "onboard_time": 1679474366,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 166037,
@@ -1443,14 +1555,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 124792,
-      "num": 124792,
-      "word": "上过大学的都沉默了",
-      "onboard_time": 1679474007,
-      "rank": 48,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 124338,
       "num": 124338,
       "word": "戚薇如果爱忘了MV",
@@ -1468,18 +1572,10 @@
     },
     {
       "raw_hot": 115469,
-      "num": 675834,
+      "num": 820401,
       "word": "中国空间站带你看这世界的山与海",
       "onboard_time": 1679471068,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 115324,
-      "num": 115324,
-      "word": "三亚游客租车被坑事件6人被刑拘",
-      "onboard_time": 1679474066,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
