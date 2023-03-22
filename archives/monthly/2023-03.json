@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679469379629,
+  "endTime": 1679470415663,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -1795,6 +1795,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1650168,
+      "num": 1650168,
+      "word": "蔡徐坤暂别奔跑吧",
+      "onboard_time": 1679468967,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1649982,
       "num": 1649982,
       "word": "中国外交悄悄干了件大事",
@@ -3340,7 +3348,7 @@
     },
     {
       "raw_hot": 1218762,
-      "num": 750152,
+      "num": 943543,
       "word": "4名学生被引诱至缅甸全程经历",
       "onboard_time": 1679464168,
       "rank": 15,
@@ -3689,6 +3697,14 @@
       "onboard_time": 1677922586,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1142885,
+      "num": 632661,
+      "word": "白鹿问网友嗑哪儿了",
+      "onboard_time": 1679470287,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 1140599,
@@ -4235,6 +4251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1064590,
+      "num": 1064590,
+      "word": "Angelababy片场摔倒",
+      "onboard_time": 1679464709,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1064576,
       "num": 1059803,
       "word": "林葳绝杀",
@@ -4316,7 +4340,7 @@
     },
     {
       "raw_hot": 1058094,
-      "num": 703231,
+      "num": 772021,
       "word": "跑男",
       "onboard_time": 1677910106,
       "rank": 13,
@@ -4537,14 +4561,6 @@
       "onboard_time": 1678984460,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1032300,
-      "num": 712387,
-      "word": "Angelababy片场摔倒",
-      "onboard_time": 1679464709,
-      "rank": 14,
-      "category": "影视"
     },
     {
       "raw_hot": 1031700,
@@ -4977,6 +4993,14 @@
       "onboard_time": 1679208866,
       "rank": 10,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 983810,
+      "num": 665258,
+      "word": "造黄谣男生大学归来仍是高中毕业",
+      "onboard_time": 1679460156,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 983638,
@@ -5436,7 +5460,7 @@
     },
     {
       "raw_hot": 930135,
-      "num": 818727,
+      "num": 1127647,
       "word": "谷爱凌官宣出席微博之夜",
       "onboard_time": 1679467348,
       "rank": 1,
@@ -5543,14 +5567,6 @@
       "num": 922255,
       "word": "女儿8万为父看病百万拆迁款给儿子",
       "onboard_time": 1678949666,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 918631,
-      "num": 665258,
-      "word": "造黄谣男生大学归来仍是高中毕业",
-      "onboard_time": 1679460156,
       "rank": 13,
       "category": "社会新闻"
     },
@@ -7217,6 +7233,14 @@
       "onboard_time": 1679097623,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 784485,
+      "num": 784485,
+      "word": "5名日本人入室抢劫两名中国人",
+      "onboard_time": 1679467167,
+      "rank": 16,
+      "category": "社会负面"
     },
     {
       "raw_hot": 784120,
@@ -12523,14 +12547,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 527802,
-      "num": 527802,
-      "word": "蔡徐坤暂别奔跑吧",
-      "onboard_time": 1679468967,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 527777,
       "num": 527777,
       "word": "哈兰德五子登科",
@@ -13905,14 +13921,6 @@
       "onboard_time": 1678695747,
       "rank": 36,
       "category": "财经"
-    },
-    {
-      "raw_hot": 486468,
-      "num": 486468,
-      "word": "5名日本人入室抢劫两名中国人",
-      "onboard_time": 1679467167,
-      "rank": 16,
-      "category": "社会负面"
     },
     {
       "raw_hot": 486335,
@@ -16955,6 +16963,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 401533,
+      "num": 359193,
+      "word": "浙江人接下来一个月的主食",
+      "onboard_time": 1679468008,
+      "rank": 24,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 401518,
       "num": 401518,
       "word": "公诉精英",
@@ -18921,6 +18937,14 @@
       "onboard_time": 1679404708,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 358532,
+      "num": 358532,
+      "word": "2022微博之夜新面孔",
+      "onboard_time": 1679468367,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 358512,
@@ -22001,14 +22025,6 @@
       "onboard_time": 1678871066,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 304239,
-      "num": 304239,
-      "word": "浙江人接下来一个月的主食",
-      "onboard_time": 1679468008,
-      "rank": 24,
-      "category": "美食,幽默"
     },
     {
       "raw_hot": 304156,
@@ -25691,6 +25707,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 244338,
+      "num": 244338,
+      "word": "扬州炒饭雪糕和老干妈雪糕",
+      "onboard_time": 1679465847,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 244120,
       "num": 244120,
       "word": "XYG对战EDGM",
@@ -25969,14 +25993,6 @@
       "onboard_time": 1678664965,
       "rank": 1,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 240701,
-      "num": 240701,
-      "word": "扬州炒饭雪糕和老干妈雪糕",
-      "onboard_time": 1679465847,
-      "rank": 47,
-      "category": "美食"
     },
     {
       "raw_hot": 240493,
@@ -30665,14 +30681,6 @@
       "onboard_time": 1678084165,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 199280,
-      "num": 199280,
-      "word": "2022微博之夜新面孔",
-      "onboard_time": 1679468367,
-      "rank": 36,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 199176,
@@ -40217,6 +40225,14 @@
       "onboard_time": 1678193847,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 117258,
+      "num": 117258,
+      "word": "千万不要在办公室里睡觉",
+      "onboard_time": 1679470226,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 117243,
