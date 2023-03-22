@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679466138266,
+  "endTime": 1679466948125,
   "band_list": [
     {
       "raw_hot": 7256959,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 2361653,
-      "num": 1385790,
+      "num": 2106722,
       "word": "泰国旅游 安全性",
       "onboard_time": 1679461232,
       "rank": 3,
@@ -563,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1124112,
+      "num": 1124112,
+      "word": "张凌赫团综看白鹿的眼神",
+      "onboard_time": 1679462670,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1120192,
       "num": 1120192,
       "word": "蔚来发布实习生事件调查报告",
@@ -657,14 +665,6 @@
       "onboard_time": 1679381369,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1038133,
-      "num": 787905,
-      "word": "张凌赫团综看白鹿的眼神",
-      "onboard_time": 1679462670,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 1034170,
@@ -1203,6 +1203,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 706295,
+      "num": 522739,
+      "word": "朱一龙出发泰国机场路透",
+      "onboard_time": 1679465189,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 702096,
       "num": 641517,
       "word": "宝新",
@@ -1217,6 +1225,14 @@
       "onboard_time": 1679361629,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 699543,
+      "num": 699543,
+      "word": "高校按就餐记录隐去姓名给学生打饭钱",
+      "onboard_time": 1679461052,
+      "rank": 27,
+      "category": "社会正能量,教育"
     },
     {
       "raw_hot": 693100,
@@ -1275,12 +1291,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 669543,
-      "num": 522739,
-      "word": "朱一龙出发泰国机场路透",
-      "onboard_time": 1679465189,
-      "rank": 12,
-      "category": "艺人"
+      "raw_hot": 666707,
+      "num": 666707,
+      "word": "4名学生被引诱至缅甸全程经历",
+      "onboard_time": 1679464168,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 666361,
@@ -1291,12 +1307,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 664219,
-      "num": 664219,
-      "word": "高校按就餐记录隐去姓名给学生打饭钱",
-      "onboard_time": 1679461052,
-      "rank": 27,
-      "category": "社会正能量,教育"
+      "raw_hot": 665603,
+      "num": 665603,
+      "word": "Angelababy片场摔倒",
+      "onboard_time": 1679464709,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 661840,
@@ -1867,14 +1883,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 495306,
-      "num": 495306,
-      "word": "Angelababy片场摔倒",
-      "onboard_time": 1679464709,
-      "rank": 14,
-      "category": "影视"
-    },
-    {
       "raw_hot": 494030,
       "num": 494030,
       "word": "张家齐",
@@ -2299,14 +2307,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 413103,
-      "num": 413103,
-      "word": "4名学生被引诱至缅甸全程经历",
-      "onboard_time": 1679464168,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 409787,
       "num": 409787,
       "word": "小朋友感染甲流应该怎么办",
@@ -2369,6 +2369,14 @@
       "onboard_time": 1679386052,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 397283,
+      "num": 397283,
+      "word": "跑男",
+      "onboard_time": 1679466268,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 396182,
@@ -2497,6 +2505,14 @@
       "onboard_time": 1679406569,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 369715,
+      "num": 342293,
+      "word": "女大学生把床垫当成被子盖了一年",
+      "onboard_time": 1679462251,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 369300,
@@ -2673,14 +2689,6 @@
       "onboard_time": 1679295567,
       "rank": 16,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 342293,
-      "num": 342293,
-      "word": "女大学生把床垫当成被子盖了一年",
-      "onboard_time": 1679462251,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 341778,
@@ -2929,6 +2937,14 @@
       "onboard_time": 1679305828,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 311053,
+      "num": 311053,
+      "word": "SM寻找呕是谁",
+      "onboard_time": 1679464768,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 310385,
@@ -3299,14 +3315,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 270703,
-      "num": 270703,
-      "word": "SM寻找呕是谁",
-      "onboard_time": 1679464768,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 270530,
       "num": 270530,
       "word": "薛之谦演唱会 南昌",
@@ -3321,6 +3329,14 @@
       "onboard_time": 1679224887,
       "rank": 16,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 268287,
+      "num": 268287,
+      "word": "只有汪峰在打折",
+      "onboard_time": 1679466746,
+      "rank": 25,
+      "category": "艺人,音乐"
     },
     {
       "raw_hot": 266959,
@@ -4667,6 +4683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 177761,
+      "num": 177761,
+      "word": "时尚COSMO主编称公司违法",
+      "onboard_time": 1679465967,
+      "rank": 42,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 177719,
       "num": 177719,
       "word": "黄奕曾以为言承旭演自己追求者",
@@ -4867,6 +4891,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 165808,
+      "num": 165808,
+      "word": "扬州炒饭雪糕和老干妈雪糕",
+      "onboard_time": 1679465847,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 165365,
       "num": 165365,
       "word": "拯救者",
@@ -5051,14 +5083,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 152548,
-      "num": 152548,
-      "word": "时尚COSMO主编称公司违法",
-      "onboard_time": 1679465967,
-      "rank": 42,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 152012,
       "num": 152012,
       "word": "路炎晨在厕所门口吃东西",
@@ -5105,6 +5129,14 @@
       "onboard_time": 1679410830,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 151139,
+      "num": 151139,
+      "word": "你会坚持不健康的恋爱关系吗",
+      "onboard_time": 1679465908,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 150543,
@@ -5587,14 +5619,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 123803,
-      "num": 123803,
-      "word": "扬州炒饭雪糕和老干妈雪糕",
-      "onboard_time": 1679465847,
-      "rank": 47,
-      "category": "美食"
-    },
-    {
       "raw_hot": 122454,
       "num": 122454,
       "word": "CBA",
@@ -5625,14 +5649,6 @@
       "onboard_time": 1679306192,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 121558,
-      "num": 121558,
-      "word": "你会坚持不健康的恋爱关系吗",
-      "onboard_time": 1679465908,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 120884,

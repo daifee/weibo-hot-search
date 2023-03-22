@@ -1,0 +1,410 @@
+{
+  "runTime": 1679466948125,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2106722,
+        "num": 2106722,
+        "word": "泰国旅游 安全性",
+        "onboard_time": 1679461232,
+        "rank": 0,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 1124112,
+        "num": 1124112,
+        "word": "张凌赫团综看白鹿的眼神",
+        "onboard_time": 1679462670,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118001,
+        "num": 920536,
+        "word": "中俄关系对世界格局人类前途命运至关重要",
+        "onboard_time": 1679455170,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 781969,
+        "num": 781969,
+        "word": "妈妈的临终遗言是两首儿歌",
+        "onboard_time": 1679459913,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 699543,
+        "num": 699543,
+        "word": "高校按就餐记录隐去姓名给学生打饭钱",
+        "onboard_time": 1679461052,
+        "rank": 4,
+        "category": "社会正能量,教育"
+      },
+      {
+        "raw_hot": 694027,
+        "num": 694027,
+        "word": "迪丽热巴微博之夜正式官宣",
+        "onboard_time": 1679456068,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 666707,
+        "num": 666707,
+        "word": "4名学生被引诱至缅甸全程经历",
+        "onboard_time": 1679464168,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 665603,
+        "num": 665603,
+        "word": "Angelababy片场摔倒",
+        "onboard_time": 1679464709,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 601904,
+        "num": 601904,
+        "word": "郭敬明审美有点东西",
+        "onboard_time": 1679458048,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 489983,
+        "num": 489983,
+        "word": "金智秀solo预告引起争议",
+        "onboard_time": 1679460691,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1972120,
+        "num": 485713,
+        "word": "每日核酸阳性4000人以上",
+        "onboard_time": 1679458409,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1076842,
+        "num": 482551,
+        "word": "马原",
+        "onboard_time": 1679462068,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 895449,
+        "num": 474483,
+        "word": "造黄谣男生大学归来仍是高中毕业",
+        "onboard_time": 1679460156,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 706295,
+        "num": 469004,
+        "word": "朱一龙出发泰国机场路透",
+        "onboard_time": 1679465189,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 468341,
+        "num": 468341,
+        "word": "缅北逃亡者建议单身别去东南亚旅游",
+        "onboard_time": 1679456128,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 397283,
+        "num": 397283,
+        "word": "跑男",
+        "onboard_time": 1679466268,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 340373,
+        "num": 340373,
+        "word": "赛琳娜新剧婚纱照路透",
+        "onboard_time": 1679458292,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 326477,
+        "num": 326477,
+        "word": "花花今天上班了",
+        "onboard_time": 1679454749,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325675,
+        "num": 325675,
+        "word": "中科大取消造谣男生录取资格",
+        "onboard_time": 1679451985,
+        "rank": 18,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 313265,
+        "num": 313265,
+        "word": "苏醒张远都把C位让给王铮亮",
+        "onboard_time": 1679460933,
+        "rank": 19,
+        "category": "影视,音乐"
+      },
+      {
+        "raw_hot": 786053,
+        "num": 312651,
+        "word": "34岁女子未婚备孕二胎",
+        "onboard_time": 1679460691,
+        "rank": 20,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 369715,
+        "num": 312043,
+        "word": "女大学生把床垫当成被子盖了一年",
+        "onboard_time": 1679462251,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 311053,
+        "num": 311053,
+        "word": "SM寻找呕是谁",
+        "onboard_time": 1679464768,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291953,
+        "num": 291953,
+        "word": "奥利奥",
+        "onboard_time": 1679453906,
+        "rank": 23,
+        "category": "美食,艺人"
+      },
+      {
+        "raw_hot": 276952,
+        "num": 276952,
+        "word": "徐峥王宝强泰囧后综艺合体",
+        "onboard_time": 1679457749,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 268287,
+        "num": 268287,
+        "word": "只有汪峰在打折",
+        "onboard_time": 1679466746,
+        "rank": 25,
+        "category": "艺人,音乐"
+      },
+      {
+        "raw_hot": 263046,
+        "num": 263046,
+        "word": "山东省考",
+        "onboard_time": 1679459431,
+        "rank": 26,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 251622,
+        "num": 251622,
+        "word": "云之羽全是美女",
+        "onboard_time": 1679463267,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 245847,
+        "num": 245847,
+        "word": "满堂",
+        "onboard_time": 1679465667,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 236965,
+        "num": 236965,
+        "word": "保罗乔治受伤",
+        "onboard_time": 1679462011,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 232024,
+        "num": 232024,
+        "word": "奔跑吧",
+        "onboard_time": 1679442626,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224286,
+        "num": 224286,
+        "word": "安徽省考",
+        "onboard_time": 1679461832,
+        "rank": 31,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 215256,
+        "num": 215256,
+        "word": "准备摆摊的人有福了",
+        "onboard_time": 1679457028,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 205621,
+        "num": 205621,
+        "word": "罗渽民说以后会在微博和大家多多交流",
+        "onboard_time": 1679464768,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187982,
+        "num": 187982,
+        "word": "朴妍珍和宋承宪演过人间中毒",
+        "onboard_time": 1679455349,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 183603,
+        "num": 183603,
+        "word": "胜利出狱后近况",
+        "onboard_time": 1679453906,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179643,
+        "num": 179643,
+        "word": "叠纸",
+        "onboard_time": 1679461173,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 177761,
+        "num": 177761,
+        "word": "时尚COSMO主编称公司违法",
+        "onboard_time": 1679465967,
+        "rank": 37,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 169062,
+        "num": 169062,
+        "word": "马嘉祺跳八段锦",
+        "onboard_time": 1679461591,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165808,
+        "num": 165808,
+        "word": "扬州炒饭雪糕和老干妈雪糕",
+        "onboard_time": 1679465847,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 162101,
+        "num": 162101,
+        "word": "急诊科唯一可以信的话",
+        "onboard_time": 1679459072,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 159746,
+        "num": 159746,
+        "word": "男子工厂打工6年还清65万外债",
+        "onboard_time": 1679456008,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152332,
+        "num": 152332,
+        "word": "刘阅微发声明",
+        "onboard_time": 1679465607,
+        "rank": 42,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 151139,
+        "num": 151139,
+        "word": "你会坚持不健康的恋爱关系吗",
+        "onboard_time": 1679465908,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 53050,
+        "num": 149123,
+        "word": "2023LPL",
+        "onboard_time": 1679315731,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 148439,
+        "num": 148439,
+        "word": "王一博新电影眼睛充血镜头",
+        "onboard_time": 1679454568,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 138577,
+        "num": 138577,
+        "word": "乔治360度暴扣",
+        "onboard_time": 1679460213,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130624,
+        "num": 130624,
+        "word": "恋与制作人",
+        "onboard_time": 1679459733,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 130522,
+        "num": 130522,
+        "word": "花花",
+        "onboard_time": 1679456369,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120603,
+        "num": 120603,
+        "word": "美七777",
+        "onboard_time": 1679441004,
+        "rank": 49,
+        "category": "网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席访问俄罗斯#"
+    }
+  }
+}

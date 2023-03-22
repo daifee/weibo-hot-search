@@ -1,6 +1,6 @@
 {
   "startTime": 1679415632915,
-  "endTime": 1679466138266,
+  "endTime": 1679466948125,
   "band_list": [
     {
       "raw_hot": 3268124,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 2361653,
-      "num": 1385790,
+      "num": 2106722,
       "word": "泰国旅游 安全性",
       "onboard_time": 1679461232,
       "rank": 3,
@@ -139,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1124112,
+      "num": 1124112,
+      "word": "张凌赫团综看白鹿的眼神",
+      "onboard_time": 1679462670,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1101629,
       "num": 741992,
       "word": "胜利出狱后近况",
@@ -168,14 +176,6 @@
       "word": "徐峥王宝强泰囧后综艺合体",
       "onboard_time": 1679457749,
       "rank": 15,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1038133,
-      "num": 787905,
-      "word": "张凌赫团综看白鹿的眼神",
-      "onboard_time": 1679462670,
-      "rank": 8,
       "category": "综艺"
     },
     {
@@ -299,6 +299,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 706295,
+      "num": 522739,
+      "word": "朱一龙出发泰国机场路透",
+      "onboard_time": 1679465189,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 699543,
+      "num": 699543,
+      "word": "高校按就餐记录隐去姓名给学生打饭钱",
+      "onboard_time": 1679461052,
+      "rank": 27,
+      "category": "社会正能量,教育"
+    },
+    {
       "raw_hot": 693100,
       "num": 693100,
       "word": "苏醒张远都把C位让给王铮亮",
@@ -323,20 +339,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 669543,
-      "num": 522739,
-      "word": "朱一龙出发泰国机场路透",
-      "onboard_time": 1679465189,
-      "rank": 12,
-      "category": "艺人"
+      "raw_hot": 666707,
+      "num": 666707,
+      "word": "4名学生被引诱至缅甸全程经历",
+      "onboard_time": 1679464168,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 664219,
-      "num": 664219,
-      "word": "高校按就餐记录隐去姓名给学生打饭钱",
-      "onboard_time": 1679461052,
-      "rank": 27,
-      "category": "社会正能量,教育"
+      "raw_hot": 665603,
+      "num": 665603,
+      "word": "Angelababy片场摔倒",
+      "onboard_time": 1679464709,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 661840,
@@ -443,14 +459,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 495306,
-      "num": 495306,
-      "word": "Angelababy片场摔倒",
-      "onboard_time": 1679464709,
-      "rank": 14,
-      "category": "影视"
-    },
-    {
       "raw_hot": 488258,
       "num": 488258,
       "word": "花花",
@@ -491,20 +499,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 413103,
-      "num": 413103,
-      "word": "4名学生被引诱至缅甸全程经历",
-      "onboard_time": 1679464168,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 402843,
       "num": 402843,
       "word": "追星女孩的抢票手速",
       "onboard_time": 1679450607,
       "rank": 8,
       "category": "情感,音乐"
+    },
+    {
+      "raw_hot": 397283,
+      "num": 397283,
+      "word": "跑男",
+      "onboard_time": 1679466268,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 394662,
@@ -537,6 +545,14 @@
       "onboard_time": 1679451866,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 369715,
+      "num": 342293,
+      "word": "女大学生把床垫当成被子盖了一年",
+      "onboard_time": 1679462251,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 355061,
@@ -593,14 +609,6 @@
       "onboard_time": 1679449707,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 342293,
-      "num": 342293,
-      "word": "女大学生把床垫当成被子盖了一年",
-      "onboard_time": 1679462251,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 339861,
@@ -691,6 +699,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 311053,
+      "num": 311053,
+      "word": "SM寻找呕是谁",
+      "onboard_time": 1679464768,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 300024,
       "num": 300024,
       "word": "申有娜ins更新",
@@ -779,12 +795,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 270703,
-      "num": 270703,
-      "word": "SM寻找呕是谁",
-      "onboard_time": 1679464768,
+      "raw_hot": 268287,
+      "num": 268287,
+      "word": "只有汪峰在打折",
+      "onboard_time": 1679466746,
       "rank": 25,
-      "category": "艺人"
+      "category": "艺人,音乐"
     },
     {
       "raw_hot": 266959,
@@ -1083,12 +1099,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 177761,
+      "num": 177761,
+      "word": "时尚COSMO主编称公司违法",
+      "onboard_time": 1679465967,
+      "rank": 42,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 166037,
       "num": 166037,
       "word": "网剧回响",
       "onboard_time": 1679402849,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 165808,
+      "num": 165808,
+      "word": "扬州炒饭雪糕和老干妈雪糕",
+      "onboard_time": 1679465847,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 165606,
@@ -1139,12 +1171,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 152548,
-      "num": 152548,
-      "word": "时尚COSMO主编称公司违法",
-      "onboard_time": 1679465967,
-      "rank": 42,
-      "category": "社会新闻,艺人"
+      "raw_hot": 151139,
+      "num": 151139,
+      "word": "你会坚持不健康的恋爱关系吗",
+      "onboard_time": 1679465908,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 146737,
@@ -1225,22 +1257,6 @@
       "onboard_time": 1679402424,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 123803,
-      "num": 123803,
-      "word": "扬州炒饭雪糕和老干妈雪糕",
-      "onboard_time": 1679465847,
-      "rank": 47,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 121558,
-      "num": 121558,
-      "word": "你会坚持不健康的恋爱关系吗",
-      "onboard_time": 1679465908,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 116171,
