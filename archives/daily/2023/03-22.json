@@ -1,10 +1,10 @@
 {
   "startTime": 1679415632915,
-  "endTime": 1679458885697,
+  "endTime": 1679459762826,
   "band_list": [
     {
       "raw_hot": 3003512,
-      "num": 629781,
+      "num": 746340,
       "word": "中科大取消造谣男生录取资格",
       "onboard_time": 1679451985,
       "rank": 10,
@@ -19,6 +19,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1980261,
+      "num": 1247925,
+      "word": "每日核酸阳性4000人以上",
+      "onboard_time": 1679458409,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1790003,
       "num": 624792,
       "word": "14岁康康近照",
@@ -28,7 +36,7 @@
     },
     {
       "raw_hot": 1716996,
-      "num": 949664,
+      "num": 1205141,
       "word": "迪丽热巴微博之夜正式官宣",
       "onboard_time": 1679456068,
       "rank": 1,
@@ -52,11 +60,19 @@
     },
     {
       "raw_hot": 1453188,
-      "num": 627412,
+      "num": 738925,
       "word": "罗渽民开通微博",
       "onboard_time": 1679455529,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1410465,
+      "num": 1180037,
+      "word": "郭敬明审美有点东西",
+      "onboard_time": 1679458048,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 1337983,
@@ -83,8 +99,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1137483,
-      "num": 884943,
+      "raw_hot": 1274970,
+      "num": 1143329,
       "word": "花花今天上班了",
       "onboard_time": 1679454749,
       "rank": 46,
@@ -99,6 +115,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1129171,
+      "num": 1129171,
+      "word": "缅北逃亡者建议单身别去东南亚旅游",
+      "onboard_time": 1679456128,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1124296,
       "num": 1124296,
       "word": "22岁男子被骗到缅甸偷偷发信息求救",
@@ -108,7 +132,7 @@
     },
     {
       "raw_hot": 1101629,
-      "num": 625495,
+      "num": 741992,
       "word": "胜利出狱后近况",
       "onboard_time": 1679453906,
       "rank": 12,
@@ -123,12 +147,12 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 977125,
-      "num": 835713,
-      "word": "缅北逃亡者建议单身别去东南亚旅游",
-      "onboard_time": 1679456128,
-      "rank": 4,
-      "category": "社会新闻"
+      "raw_hot": 1056627,
+      "num": 1056627,
+      "word": "徐峥王宝强泰囧后综艺合体",
+      "onboard_time": 1679457749,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 963645,
@@ -211,8 +235,8 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 720056,
-      "num": 720056,
+      "raw_hot": 735527,
+      "num": 735527,
       "word": "白鹿张凌赫宁安如梦团综路透",
       "onboard_time": 1679456668,
       "rank": 7,
@@ -240,14 +264,6 @@
       "word": "王一博新电影眼睛充血镜头",
       "onboard_time": 1679454568,
       "rank": 5,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 633270,
-      "num": 633270,
-      "word": "郭敬明审美有点东西",
-      "onboard_time": 1679458048,
-      "rank": 8,
       "category": "影视"
     },
     {
@@ -283,12 +299,12 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 577810,
-      "num": 524897,
-      "word": "徐峥王宝强泰囧后综艺合体",
-      "onboard_time": 1679457749,
-      "rank": 15,
-      "category": "综艺"
+      "raw_hot": 564102,
+      "num": 564102,
+      "word": "赛琳娜新剧婚纱照路透",
+      "onboard_time": 1679458292,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 555776,
@@ -313,6 +329,14 @@
       "onboard_time": 1679441844,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 526558,
+      "num": 526558,
+      "word": "准备摆摊的人有福了",
+      "onboard_time": 1679457028,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 504112,
@@ -369,14 +393,6 @@
       "onboard_time": 1679455290,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 413858,
-      "num": 413858,
-      "word": "准备摆摊的人有福了",
-      "onboard_time": 1679457028,
-      "rank": 18,
-      "category": "幽默"
     },
     {
       "raw_hot": 402843,
@@ -475,19 +491,11 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 336765,
-      "num": 336765,
-      "word": "每日核酸阳性4000人以上",
-      "onboard_time": 1679458409,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 331442,
-      "num": 331442,
-      "word": "赛琳娜新剧婚纱照路透",
-      "onboard_time": 1679458292,
-      "rank": 25,
+      "raw_hot": 330986,
+      "num": 330986,
+      "word": "爱情而已央八播出",
+      "onboard_time": 1679458830,
+      "rank": 40,
       "category": "影视"
     },
     {
@@ -499,12 +507,28 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 325335,
+      "num": 322037,
+      "word": "爱情而已定档",
+      "onboard_time": 1679458710,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 321495,
       "num": 321495,
       "word": "中国富豪美国瑞士取钱涌入香港真相",
       "onboard_time": 1679447369,
       "rank": 33,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 315870,
+      "num": 315870,
+      "word": "没去北上广的年轻人是怎么搞钱的",
+      "onboard_time": 1679457689,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 311572,
@@ -524,7 +548,7 @@
     },
     {
       "raw_hot": 299222,
-      "num": 900085,
+      "num": 1242142,
       "word": "中俄关系对世界格局人类前途命运至关重要",
       "onboard_time": 1679455170,
       "rank": 2,
@@ -659,20 +683,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 228751,
-      "num": 228751,
-      "word": "爱情而已定档",
-      "onboard_time": 1679458710,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 226573,
-      "num": 226573,
-      "word": "没去北上广的年轻人是怎么搞钱的",
-      "onboard_time": 1679457689,
-      "rank": 33,
-      "category": "情感"
+      "raw_hot": 228114,
+      "num": 228114,
+      "word": "急诊科唯一可以信的话",
+      "onboard_time": 1679459072,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 225813,
@@ -689,6 +705,22 @@
       "onboard_time": 1679442626,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 215631,
+      "num": 215631,
+      "word": "曾黎晒以爱为营杀青照",
+      "onboard_time": 1679458710,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 214962,
+      "num": 214962,
+      "word": "声生不息一公上半场歌单视频",
+      "onboard_time": 1679457269,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 214315,
@@ -731,12 +763,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 205836,
-      "num": 205836,
-      "word": "声生不息一公上半场歌单视频",
-      "onboard_time": 1679457269,
-      "rank": 37,
-      "category": "综艺"
+      "raw_hot": 205706,
+      "num": 205706,
+      "word": "山东省考",
+      "onboard_time": 1679459431,
+      "rank": 40,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 201171,
@@ -755,6 +787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 195036,
+      "num": 195036,
+      "word": "张杰广州演唱会预告视频",
+      "onboard_time": 1679458952,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 193561,
       "num": 193561,
       "word": "四川广安遭遇大地震系造谣",
@@ -771,14 +811,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 190895,
-      "num": 189851,
-      "word": "爱情而已央八播出",
-      "onboard_time": 1679458830,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 189860,
       "num": 189860,
       "word": "汇丰银行开门7天应对通关后开户需求",
@@ -787,20 +819,20 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 183504,
-      "num": 183504,
-      "word": "曾黎晒以爱为营杀青照",
-      "onboard_time": 1679458710,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 182440,
       "num": 182440,
       "word": "官方证实大熊猫宝新已去世",
       "onboard_time": 1679375731,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179914,
+      "num": 179914,
+      "word": "恋与制作人",
+      "onboard_time": 1679459733,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 179047,
@@ -1091,20 +1123,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 75184,
+      "num": 172143,
+      "word": "住院花多少钱保险能赔",
+      "onboard_time": 1679458169,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 71322,
       "num": 82499,
       "word": "见过最离谱的招聘要求",
       "onboard_time": 1679410054,
       "rank": 48,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 59491,
-      "num": 165387,
-      "word": "住院花多少钱保险能赔",
-      "onboard_time": 1679458169,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 52769,

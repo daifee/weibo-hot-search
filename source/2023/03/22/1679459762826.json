@@ -1,0 +1,410 @@
+{
+  "runTime": 1679459762826,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 379059,
+        "num": 1271736,
+        "word": "中俄元首签署联合声明",
+        "onboard_time": 1679441965,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1980261,
+        "num": 1247925,
+        "word": "每日核酸阳性4000人以上",
+        "onboard_time": 1679458409,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285744,
+        "num": 1242142,
+        "word": "中俄关系对世界格局人类前途命运至关重要",
+        "onboard_time": 1679455170,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1511085,
+        "num": 1205141,
+        "word": "迪丽热巴微博之夜正式官宣",
+        "onboard_time": 1679456068,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1410465,
+        "num": 1180037,
+        "word": "郭敬明审美有点东西",
+        "onboard_time": 1679458048,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1274970,
+        "num": 1143329,
+        "word": "花花今天上班了",
+        "onboard_time": 1679454749,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1129171,
+        "num": 1129171,
+        "word": "缅北逃亡者建议单身别去东南亚旅游",
+        "onboard_time": 1679456128,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1056627,
+        "num": 1056627,
+        "word": "徐峥王宝强泰囧后综艺合体",
+        "onboard_time": 1679457749,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 822011,
+        "num": 822011,
+        "word": "男子工厂打工6年还清65万外债",
+        "onboard_time": 1679456008,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 748404,
+        "num": 748404,
+        "word": "朴妍珍和宋承宪演过人间中毒",
+        "onboard_time": 1679455349,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1941430,
+        "num": 746340,
+        "word": "中科大取消造谣男生录取资格",
+        "onboard_time": 1679451985,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 863505,
+        "num": 741992,
+        "word": "胜利出狱后近况",
+        "onboard_time": 1679453906,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 772730,
+        "num": 738925,
+        "word": "罗渽民开通微博",
+        "onboard_time": 1679455529,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 735527,
+        "num": 735527,
+        "word": "白鹿张凌赫宁安如梦团综路透",
+        "onboard_time": 1679456668,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 564102,
+        "num": 564102,
+        "word": "赛琳娜新剧婚纱照路透",
+        "onboard_time": 1679458292,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 537895,
+        "num": 537895,
+        "word": "14岁康康近照",
+        "onboard_time": 1679447428,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 526558,
+        "num": 526558,
+        "word": "准备摆摊的人有福了",
+        "onboard_time": 1679457028,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 490553,
+        "num": 490553,
+        "word": "虞书欣新剧演女间谍",
+        "onboard_time": 1679455109,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 452195,
+        "num": 452195,
+        "word": "花花",
+        "onboard_time": 1679456369,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 404448,
+        "num": 404448,
+        "word": "8旬奶奶熬夜读霸总小说写万字心得",
+        "onboard_time": 1679454626,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 839302,
+        "num": 379535,
+        "word": "奥利奥",
+        "onboard_time": 1679453906,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 450214,
+        "num": 359908,
+        "word": "王一博新电影眼睛充血镜头",
+        "onboard_time": 1679454568,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 338932,
+        "num": 338932,
+        "word": "教育厅回应浙江教育网涉黄",
+        "onboard_time": 1679448090,
+        "rank": 22,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 330986,
+        "num": 330986,
+        "word": "爱情而已央八播出",
+        "onboard_time": 1679458830,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 322632,
+        "num": 322632,
+        "word": "22岁男子被骗到缅甸偷偷发信息求救",
+        "onboard_time": 1679442024,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325335,
+        "num": 322037,
+        "word": "爱情而已定档",
+        "onboard_time": 1679458710,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 315870,
+        "num": 315870,
+        "word": "没去北上广的年轻人是怎么搞钱的",
+        "onboard_time": 1679457689,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 304526,
+        "num": 304526,
+        "word": "Miss工作室官宣加盟新公司",
+        "onboard_time": 1679455290,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292380,
+        "num": 292380,
+        "word": "云之羽官宣演员阵容",
+        "onboard_time": 1679453906,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 279140,
+        "num": 279140,
+        "word": "明凯称老一辈选手不该被遗忘",
+        "onboard_time": 1679457028,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 260687,
+        "num": 260687,
+        "word": "北京沙尘暴",
+        "onboard_time": 1679440521,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256687,
+        "num": 256687,
+        "word": "美七777",
+        "onboard_time": 1679441004,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 251389,
+        "num": 251389,
+        "word": "孙俪上课为新戏准备台词",
+        "onboard_time": 1679454389,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237644,
+        "num": 237644,
+        "word": "开门杀致人死亡女子被判9个月",
+        "onboard_time": 1679404649,
+        "rank": 33,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 228406,
+        "num": 228406,
+        "word": "长春下泥",
+        "onboard_time": 1679445450,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228114,
+        "num": 228114,
+        "word": "急诊科唯一可以信的话",
+        "onboard_time": 1679459072,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 218171,
+        "num": 218171,
+        "word": "中国富豪美国瑞士取钱涌入香港真相",
+        "onboard_time": 1679447369,
+        "rank": 36,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 215631,
+        "num": 215631,
+        "word": "曾黎晒以爱为营杀青照",
+        "onboard_time": 1679458710,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 214962,
+        "num": 214962,
+        "word": "声生不息一公上半场歌单视频",
+        "onboard_time": 1679457269,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206521,
+        "num": 206521,
+        "word": "奔跑吧",
+        "onboard_time": 1679442626,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205706,
+        "num": 205706,
+        "word": "山东省考",
+        "onboard_time": 1679459431,
+        "rank": 40,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 204054,
+        "num": 204054,
+        "word": "美国队长4开拍",
+        "onboard_time": 1679449707,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 195036,
+        "num": 195036,
+        "word": "张杰广州演唱会预告视频",
+        "onboard_time": 1679458952,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 186286,
+        "num": 186286,
+        "word": "南京邮政回应243万存款被挪用",
+        "onboard_time": 1679445808,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179914,
+        "num": 179914,
+        "word": "恋与制作人",
+        "onboard_time": 1679459733,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 177906,
+        "num": 177906,
+        "word": "90花红毯造型回顾",
+        "onboard_time": 1679458531,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 75184,
+        "num": 172143,
+        "word": "住院花多少钱保险能赔",
+        "onboard_time": 1679458169,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168720,
+        "num": 168720,
+        "word": "种地吧",
+        "onboard_time": 1679455349,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158790,
+        "num": 158790,
+        "word": "孙彩瑛因衬衫图案发文道歉",
+        "onboard_time": 1679441844,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155843,
+        "num": 155843,
+        "word": "这俩熊猫是复制粘贴吧",
+        "onboard_time": 1679457091,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席访问俄罗斯#"
+    }
+  }
+}
