@@ -1,6 +1,6 @@
 {
   "startTime": 1679415632915,
-  "endTime": 1679489521352,
+  "endTime": 1679491352551,
   "band_list": [
     {
       "raw_hot": 3268124,
@@ -284,7 +284,7 @@
     },
     {
       "raw_hot": 974475,
-      "num": 391466,
+      "num": 498869,
       "word": "康康诺一经常聚会",
       "onboard_time": 1679484269,
       "rank": 21,
@@ -339,6 +339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 906418,
+      "num": 663507,
+      "word": "HM回应女子试衣用新衣垫脚",
+      "onboard_time": 1679487389,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 905270,
       "num": 612557,
       "word": "云之羽官宣演员阵容",
@@ -355,20 +363,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 863699,
+      "num": 655814,
+      "word": "以后还让我怎么吃香蕉啊",
+      "onboard_time": 1679485888,
+      "rank": 4,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 851446,
       "num": 754124,
       "word": "朴妍珍和宋承宪演过人间中毒",
       "onboard_time": 1679455349,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 837441,
-      "num": 651208,
-      "word": "以后还让我怎么吃香蕉啊",
-      "onboard_time": 1679485888,
-      "rank": 4,
-      "category": "幽默"
     },
     {
       "raw_hot": 833650,
@@ -425,14 +433,6 @@
       "onboard_time": 1679441004,
       "rank": 10,
       "category": "网红"
-    },
-    {
-      "raw_hot": 771091,
-      "num": 390623,
-      "word": "HM回应女子试衣用新衣垫脚",
-      "onboard_time": 1679487389,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 755267,
@@ -513,6 +513,14 @@
       "onboard_time": 1679460933,
       "rank": 11,
       "category": "影视,音乐"
+    },
+    {
+      "raw_hot": 693046,
+      "num": 693046,
+      "word": "青春环游记春游F4",
+      "onboard_time": 1679488948,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 692294,
@@ -659,6 +667,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 548552,
+      "num": 484886,
+      "word": "女子应聘被质疑23岁用苹果手机",
+      "onboard_time": 1679489728,
+      "rank": 11,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 530482,
       "num": 530482,
       "word": "三亚游客租车被坑事件6人被刑拘",
@@ -681,6 +697,22 @@
       "onboard_time": 1679441844,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 520112,
+      "num": 520112,
+      "word": "流浪小狗乞求收养者一起带走小熊",
+      "onboard_time": 1679488169,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 511213,
+      "num": 476821,
+      "word": "孔雪儿颅顶",
+      "onboard_time": 1679491289,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 510804,
@@ -713,6 +745,14 @@
       "onboard_time": 1679471187,
       "rank": 19,
       "category": "情感,教育"
+    },
+    {
+      "raw_hot": 501444,
+      "num": 501444,
+      "word": "四川一高校放假7天鼓励恋爱",
+      "onboard_time": 1679487868,
+      "rank": 38,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 500277,
@@ -761,6 +801,14 @@
       "onboard_time": 1679475686,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 463716,
+      "num": 463716,
+      "word": "Scout刷新联赛MVP纪录",
+      "onboard_time": 1679489789,
+      "rank": 13,
+      "category": "游戏"
     },
     {
       "raw_hot": 460794,
@@ -897,14 +945,6 @@
       "onboard_time": 1679440160,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 377120,
-      "num": 377120,
-      "word": "青春环游记春游F4",
-      "onboard_time": 1679488948,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 375329,
@@ -1219,14 +1259,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 277360,
-      "num": 277360,
-      "word": "四川一高校放假7天鼓励恋爱",
-      "onboard_time": 1679487868,
-      "rank": 38,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 274719,
       "num": 274719,
       "word": "甘肃省考",
@@ -1385,14 +1417,6 @@
       "onboard_time": 1679464768,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 236835,
-      "num": 236835,
-      "word": "流浪小狗乞求收养者一起带走小熊",
-      "onboard_time": 1679488169,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 234100,
@@ -1555,12 +1579,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 203459,
+      "num": 203459,
+      "word": "高加林导游式教学",
+      "onboard_time": 1679491114,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 201171,
       "num": 201171,
       "word": "种地吧",
       "onboard_time": 1679455349,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 201132,
+      "num": 201132,
+      "word": "人生之路李沁台词爆发力",
+      "onboard_time": 1679490689,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 199734,
@@ -1601,6 +1641,14 @@
       "onboard_time": 1679458952,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 194134,
+      "num": 194134,
+      "word": "iG中野",
+      "onboard_time": 1679487208,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 193561,
@@ -1649,6 +1697,14 @@
       "onboard_time": 1679483007,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 187901,
+      "num": 187901,
+      "word": "原来韩国00后也在整顿职场",
+      "onboard_time": 1679490567,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 187004,
@@ -1883,6 +1939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140401,
+      "num": 140401,
+      "word": "驾校有你们真是了不起",
+      "onboard_time": 1679490449,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 138639,
       "num": 138639,
       "word": "四月为爱奔赴洛阳",
@@ -1987,12 +2051,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 123111,
+      "num": 123111,
+      "word": "丁沫沫保护松杨受伤",
+      "onboard_time": 1679489908,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 122688,
+      "num": 122688,
+      "word": "永远会被文字所震撼",
+      "onboard_time": 1679489789,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 121570,
       "num": 121570,
       "word": "嫌疑人坐出租路过派出所被抓",
       "onboard_time": 1679479290,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118036,
+      "num": 118036,
+      "word": "鳄鱼吃了我的遥控器",
+      "onboard_time": 1679491114,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 117361,
@@ -2211,20 +2299,20 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 33531,
+      "num": 692894,
+      "word": "落实重大发展战略开创事业新局",
+      "onboard_time": 1679486968,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32072,
       "num": 40809,
       "word": "米卡三亚黑色真空西装造型",
       "onboard_time": 1679419937,
       "rank": 48,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 31852,
-      "num": 681955,
-      "word": "落实重大发展战略开创事业新局",
-      "onboard_time": 1679486968,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 22246,

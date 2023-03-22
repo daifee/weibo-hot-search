@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679489521352,
+  "endTime": 1679491352551,
   "band_list": [
     {
       "raw_hot": 7256959,
@@ -860,7 +860,7 @@
     },
     {
       "raw_hot": 974475,
-      "num": 391466,
+      "num": 498869,
       "word": "康康诺一经常聚会",
       "onboard_time": 1679484269,
       "rank": 21,
@@ -995,6 +995,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 906418,
+      "num": 663507,
+      "word": "HM回应女子试衣用新衣垫脚",
+      "onboard_time": 1679487389,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 905270,
       "num": 612557,
       "word": "云之羽官宣演员阵容",
@@ -1067,6 +1075,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 863699,
+      "num": 655814,
+      "word": "以后还让我怎么吃香蕉啊",
+      "onboard_time": 1679485888,
+      "rank": 4,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 858068,
       "num": 858068,
       "word": "男子3万块钱车被13万停车费吓到",
@@ -1121,14 +1137,6 @@
       "onboard_time": 1679408911,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 837441,
-      "num": 651208,
-      "word": "以后还让我怎么吃香蕉啊",
-      "onboard_time": 1679485888,
-      "rank": 4,
-      "category": "幽默"
     },
     {
       "raw_hot": 833650,
@@ -1272,14 +1280,6 @@
       "word": "动物园大猩猩被发现在直立行走",
       "onboard_time": 1679283749,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 771091,
-      "num": 390623,
-      "word": "HM回应女子试衣用新衣垫脚",
-      "onboard_time": 1679487389,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -1433,6 +1433,14 @@
       "onboard_time": 1679460933,
       "rank": 11,
       "category": "影视,音乐"
+    },
+    {
+      "raw_hot": 693046,
+      "num": 693046,
+      "word": "青春环游记春游F4",
+      "onboard_time": 1679488948,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 692294,
@@ -1995,6 +2003,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 548552,
+      "num": 484886,
+      "word": "女子应聘被质疑23岁用苹果手机",
+      "onboard_time": 1679489728,
+      "rank": 11,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 546752,
       "num": 546752,
       "word": "花花明天要上班了",
@@ -2091,12 +2107,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 520112,
+      "num": 520112,
+      "word": "流浪小狗乞求收养者一起带走小熊",
+      "onboard_time": 1679488169,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 518495,
       "num": 518495,
       "word": "N1",
       "onboard_time": 1679379567,
       "rank": 37,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 511213,
+      "num": 476821,
+      "word": "孔雪儿颅顶",
+      "onboard_time": 1679491289,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 510804,
@@ -2121,6 +2153,14 @@
       "onboard_time": 1679471187,
       "rank": 19,
       "category": "情感,教育"
+    },
+    {
+      "raw_hot": 501444,
+      "num": 501444,
+      "word": "四川一高校放假7天鼓励恋爱",
+      "onboard_time": 1679487868,
+      "rank": 38,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 501386,
@@ -2305,6 +2345,14 @@
       "onboard_time": 1679363246,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 463716,
+      "num": 463716,
+      "word": "Scout刷新联赛MVP纪录",
+      "onboard_time": 1679489789,
+      "rank": 13,
+      "category": "游戏"
     },
     {
       "raw_hot": 461653,
@@ -2801,14 +2849,6 @@
       "onboard_time": 1679440160,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 377120,
-      "num": 377120,
-      "word": "青春环游记春游F4",
-      "onboard_time": 1679488948,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 377060,
@@ -3699,14 +3739,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 277360,
-      "num": 277360,
-      "word": "四川一高校放假7天鼓励恋爱",
-      "onboard_time": 1679487868,
-      "rank": 38,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 276304,
       "num": 276304,
       "word": "神里绫华",
@@ -4129,14 +4161,6 @@
       "onboard_time": 1679407352,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 236835,
-      "num": 236835,
-      "word": "流浪小狗乞求收养者一起带走小熊",
-      "onboard_time": 1679488169,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 236146,
@@ -4723,6 +4747,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 203459,
+      "num": 203459,
+      "word": "高加林导游式教学",
+      "onboard_time": 1679491114,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 203005,
       "num": 203005,
       "word": "刘诗诗加盟微博之夜",
@@ -4761,6 +4793,14 @@
       "onboard_time": 1679455349,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 201132,
+      "num": 201132,
+      "word": "人生之路李沁台词爆发力",
+      "onboard_time": 1679490689,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 200960,
@@ -4939,6 +4979,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 194134,
+      "num": 194134,
+      "word": "iG中野",
+      "onboard_time": 1679487208,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 193949,
       "num": 193949,
       "word": "毛雪汪",
@@ -5073,6 +5121,14 @@
       "onboard_time": 1679483007,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 187901,
+      "num": 187901,
+      "word": "原来韩国00后也在整顿职场",
+      "onboard_time": 1679490567,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 187063,
@@ -6019,6 +6075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140401,
+      "num": 140401,
+      "word": "驾校有你们真是了不起",
+      "onboard_time": 1679490449,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 139549,
       "num": 139549,
       "word": "女子在缅遭绑哭喊我有两小孩",
@@ -6339,6 +6403,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123111,
+      "num": 123111,
+      "word": "丁沫沫保护松杨受伤",
+      "onboard_time": 1679489908,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 122688,
+      "num": 122688,
+      "word": "永远会被文字所震撼",
+      "onboard_time": 1679489789,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 122454,
       "num": 122454,
       "word": "CBA",
@@ -6409,6 +6489,14 @@
       "onboard_time": 1679377828,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 118036,
+      "num": 118036,
+      "word": "鳄鱼吃了我的遥控器",
+      "onboard_time": 1679491114,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 117361,
@@ -6843,20 +6931,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 33531,
+      "num": 692894,
+      "word": "落实重大发展战略开创事业新局",
+      "onboard_time": 1679486968,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32072,
       "num": 40809,
       "word": "米卡三亚黑色真空西装造型",
       "onboard_time": 1679419937,
       "rank": 48,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 31852,
-      "num": 681955,
-      "word": "落实重大发展战略开创事业新局",
-      "onboard_time": 1679486968,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 31181,
