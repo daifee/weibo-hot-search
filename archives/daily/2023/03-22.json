@@ -1,6 +1,6 @@
 {
   "startTime": 1679415632915,
-  "endTime": 1679484802337,
+  "endTime": 1679488484720,
   "band_list": [
     {
       "raw_hot": 3268124,
@@ -147,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1226856,
+      "num": 646751,
+      "word": "泰总理下令澄清旅泰安全问题",
+      "onboard_time": 1679485409,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1218762,
       "num": 943543,
       "word": "4名学生被引诱至缅甸全程经历",
@@ -275,12 +283,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 974475,
+      "num": 391466,
+      "word": "康康诺一经常聚会",
+      "onboard_time": 1679484269,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 963645,
       "num": 548918,
       "word": "中科大回应造黄谣男生能否被录取",
       "onboard_time": 1679441724,
       "rank": 12,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 954804,
+      "num": 693278,
+      "word": "何昶希在女生和女神中选择了女装",
+      "onboard_time": 1679484510,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 930135,
@@ -352,6 +376,14 @@
       "word": "北京沙尘暴",
       "onboard_time": 1679440521,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 795599,
+      "num": 670108,
+      "word": "警方通报女孩将小男孩扔井中",
+      "onboard_time": 1679485168,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -451,6 +483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 700817,
+      "num": 651208,
+      "word": "以后还让我怎么吃香蕉啊",
+      "onboard_time": 1679485888,
+      "rank": 4,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 699543,
       "num": 699543,
       "word": "高校按就餐记录隐去姓名给学生打饭钱",
@@ -529,6 +569,14 @@
       "onboard_time": 1679479409,
       "rank": 19,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 635127,
+      "num": 635127,
+      "word": "李兰迪说想和陈星旭三搭",
+      "onboard_time": 1679486912,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 631064,
@@ -683,6 +731,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 472811,
+      "num": 472811,
+      "word": "小说影视化成功典范",
+      "onboard_time": 1679483908,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 471675,
       "num": 471675,
       "word": "舒淇 松弛明媚",
@@ -803,6 +859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 390623,
+      "num": 390623,
+      "word": "HM回应女子试衣用新衣垫脚",
+      "onboard_time": 1679487389,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 389928,
       "num": 389928,
       "word": "偷偷藏不住站内预约人数破150万",
@@ -833,6 +897,22 @@
       "onboard_time": 1679451866,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 373301,
+      "num": 373301,
+      "word": "王嘉尔飞往洛杉矶",
+      "onboard_time": 1679488047,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 371136,
+      "num": 371136,
+      "word": "狂飙京海大佬害羞了",
+      "onboard_time": 1679483187,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 369715,
@@ -1043,6 +1123,14 @@
       "category": "艺人,美妆"
     },
     {
+      "raw_hot": 293364,
+      "num": 293364,
+      "word": "王者荣耀",
+      "onboard_time": 1679485769,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 292405,
       "num": 292405,
       "word": "严浩翔考科三视频",
@@ -1099,14 +1187,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 281600,
-      "num": 281600,
-      "word": "小说影视化成功典范",
-      "onboard_time": 1679483908,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
       "raw_hot": 278820,
       "num": 278820,
       "word": "王晶回应被冯淬帆公开痛骂",
@@ -1121,14 +1201,6 @@
       "onboard_time": 1679451446,
       "rank": 31,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 277002,
-      "num": 261594,
-      "word": "康康诺一经常聚会",
-      "onboard_time": 1679484269,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 274719,
@@ -1177,14 +1249,6 @@
       "onboard_time": 1679483126,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 258804,
-      "num": 258804,
-      "word": "狂飙京海大佬害羞了",
-      "onboard_time": 1679483187,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 256723,
@@ -1299,19 +1363,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 236583,
+      "num": 236583,
+      "word": "IG中野",
+      "onboard_time": 1679487208,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 234100,
       "num": 234100,
       "word": "他是谁卫国平被举报",
       "onboard_time": 1679483187,
       "rank": 28,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 233175,
-      "num": 233175,
-      "word": "何昶希在女生和女神中选择了女装",
-      "onboard_time": 1679484510,
-      "rank": 27,
       "category": "影视"
     },
     {
@@ -1353,6 +1417,14 @@
       "onboard_time": 1679442626,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 222774,
+      "num": 222774,
+      "word": "有什么是你谈了恋爱才明白的",
+      "onboard_time": 1679482947,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 215631,
@@ -1443,6 +1515,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 203971,
+      "num": 203971,
+      "word": "钢化膜炸鸡腿",
+      "onboard_time": 1679483607,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 201171,
       "num": 201171,
       "word": "种地吧",
@@ -1507,6 +1587,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 191949,
+      "num": 191949,
+      "word": "刘敏涛片场篆香练习花絮",
+      "onboard_time": 1679487268,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 191779,
       "num": 191779,
       "word": "刘耀文嘟嘴比耶照",
@@ -1568,6 +1656,14 @@
       "word": "和平精英冒险列车",
       "onboard_time": 1679463208,
       "rank": 43,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 183341,
+      "num": 183341,
+      "word": "KSG对战MTG",
+      "onboard_time": 1679488047,
+      "rank": 32,
       "category": "游戏"
     },
     {
@@ -1683,14 +1779,6 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 155967,
-      "num": 155967,
-      "word": "钢化膜炸鸡腿",
-      "onboard_time": 1679483607,
-      "rank": 36,
-      "category": "美食"
-    },
-    {
       "raw_hot": 154059,
       "num": 154059,
       "word": "怎么看对造黄谣男生处置结果",
@@ -1731,6 +1819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141721,
+      "num": 141721,
+      "word": "四川一高校放假7天鼓励恋爱",
+      "onboard_time": 1679487868,
+      "rank": 38,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 141043,
       "num": 141043,
       "word": "女主韦一敏 男主王子斌",
@@ -1763,6 +1859,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 136055,
+      "num": 136055,
+      "word": "iG对战BLG",
+      "onboard_time": 1679487749,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 135251,
       "num": 135251,
       "word": "吴宣仪随机舞蹈",
@@ -1771,12 +1875,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 134628,
+      "num": 134628,
+      "word": "夏洛特浮生妄",
+      "onboard_time": 1679486610,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 134280,
       "num": 134280,
       "word": "安又琪落日海边大片",
       "onboard_time": 1679471786,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 133430,
+      "num": 133430,
+      "word": "终于知道这几个键干嘛用的了",
+      "onboard_time": 1679487148,
+      "rank": 41,
+      "category": "其它"
     },
     {
       "raw_hot": 132194,
@@ -1835,6 +1955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 119475,
+      "num": 119475,
+      "word": "流浪小狗乞求收养者一起带走小熊",
+      "onboard_time": 1679488169,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117361,
       "num": 147776,
       "word": "当代人每天的精神状态",
@@ -1881,14 +2009,6 @@
       "onboard_time": 1679411370,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 109131,
-      "num": 109131,
-      "word": "有什么是你谈了恋爱才明白的",
-      "onboard_time": 1679482947,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 108436,
@@ -1961,6 +2081,14 @@
       "onboard_time": 1679404708,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 95423,
+      "num": 95423,
+      "word": "中新网评造黄谣现象",
+      "onboard_time": 1679486789,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 90014,
@@ -2057,6 +2185,14 @@
       "onboard_time": 1679419937,
       "rank": 48,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 27939,
+      "num": 681955,
+      "word": "落实重大发展战略开创事业新局",
+      "onboard_time": 1679486968,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 22246,
