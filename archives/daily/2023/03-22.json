@@ -1,6 +1,6 @@
 {
   "startTime": 1679415632915,
-  "endTime": 1679462237597,
+  "endTime": 1679463215601,
   "band_list": [
     {
       "raw_hot": 3268124,
@@ -27,7 +27,7 @@
       "category": "美食"
     },
     {
-      "raw_hot": 2110393,
+      "raw_hot": 2361653,
       "num": 1385790,
       "word": "泰国旅游 安全性",
       "onboard_time": 1679461232,
@@ -163,6 +163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 995342,
+      "num": 995342,
+      "word": "马原",
+      "onboard_time": 1679462068,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 963645,
       "num": 548918,
       "word": "中科大回应造黄谣男生能否被录取",
@@ -179,6 +187,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 926060,
+      "num": 450979,
+      "word": "34岁女子未婚备孕二胎",
+      "onboard_time": 1679460691,
+      "rank": 20,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 922944,
       "num": 368816,
       "word": "宋承宪胖了",
@@ -187,20 +203,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 922150,
-      "num": 450979,
-      "word": "34岁女子未婚备孕二胎",
-      "onboard_time": 1679460691,
-      "rank": 20,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 905270,
       "num": 612557,
       "word": "云之羽官宣演员阵容",
       "onboard_time": 1679453906,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 903439,
+      "num": 665258,
+      "word": "造黄谣男生大学归来仍是高中毕业",
+      "onboard_time": 1679460156,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 851446,
@@ -267,6 +283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 717724,
+      "num": 717724,
+      "word": "张凌赫团综看白鹿的眼神",
+      "onboard_time": 1679462670,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 693100,
       "num": 693100,
       "word": "苏醒张远都把C位让给王铮亮",
@@ -283,28 +307,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 661840,
-      "num": 547734,
-      "word": "虞书欣新剧演女间谍",
-      "onboard_time": 1679455109,
-      "rank": 3,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 660655,
-      "num": 660655,
+      "raw_hot": 671517,
+      "num": 671517,
       "word": "金智秀solo预告引起争议",
       "onboard_time": 1679460691,
       "rank": 12,
       "category": "艺人"
     },
     {
-      "raw_hot": 655324,
-      "num": 655324,
-      "word": "造黄谣男生大学归来仍是高中毕业",
-      "onboard_time": 1679460156,
-      "rank": 13,
-      "category": "社会新闻"
+      "raw_hot": 661840,
+      "num": 547734,
+      "word": "虞书欣新剧演女间谍",
+      "onboard_time": 1679455109,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 648251,
@@ -411,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 483219,
+      "num": 483219,
+      "word": "妈妈的临终遗言是两首儿歌",
+      "onboard_time": 1679459913,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 471675,
       "num": 471675,
       "word": "舒淇 松弛明媚",
@@ -451,6 +475,14 @@
       "category": "情感,音乐"
     },
     {
+      "raw_hot": 400671,
+      "num": 400671,
+      "word": "高校按就餐记录隐去姓名给学生打饭钱",
+      "onboard_time": 1679461052,
+      "rank": 27,
+      "category": "社会正能量,教育"
+    },
+    {
       "raw_hot": 394662,
       "num": 394662,
       "word": "上海地铁",
@@ -483,14 +515,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 368879,
-      "num": 368879,
-      "word": "妈妈的临终遗言是两首儿歌",
-      "onboard_time": 1679459913,
-      "rank": 24,
-      "category": "情感"
-    },
-    {
       "raw_hot": 355061,
       "num": 355061,
       "word": "公交司机急刹车致乘客死亡获刑",
@@ -513,6 +537,14 @@
       "onboard_time": 1679441724,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 349478,
+      "num": 349478,
+      "word": "马嘉祺跳八段锦",
+      "onboard_time": 1679461591,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 345396,
@@ -579,14 +611,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 321766,
-      "num": 321766,
-      "word": "高校按就餐记录隐去姓名给学生打饭钱",
-      "onboard_time": 1679461052,
-      "rank": 27,
-      "category": "社会正能量,教育"
-    },
-    {
       "raw_hot": 321495,
       "num": 321495,
       "word": "中国富豪美国瑞士取钱涌入香港真相",
@@ -595,12 +619,28 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 317807,
+      "num": 317807,
+      "word": "保罗乔治受伤",
+      "onboard_time": 1679462011,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 315870,
       "num": 315870,
       "word": "没去北上广的年轻人是怎么搞钱的",
       "onboard_time": 1679457689,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 313583,
+      "num": 313583,
+      "word": "山东省考",
+      "onboard_time": 1679459431,
+      "rank": 40,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 311572,
@@ -699,22 +739,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 274645,
-      "num": 274645,
-      "word": "山东省考",
-      "onboard_time": 1679459431,
-      "rank": 40,
-      "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 269262,
-      "num": 269262,
-      "word": "马嘉祺跳八段锦",
-      "onboard_time": 1679461591,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 266959,
       "num": 266959,
       "word": "林更新生图状态",
@@ -729,6 +753,14 @@
       "onboard_time": 1679408191,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 259484,
+      "num": 259484,
+      "word": "安徽省考",
+      "onboard_time": 1679461832,
+      "rank": 44,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 256723,
@@ -763,6 +795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 242008,
+      "num": 242008,
+      "word": "叠纸",
+      "onboard_time": 1679461173,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 241923,
       "num": 241923,
       "word": "彭十六辟谣",
@@ -779,20 +819,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 233663,
-      "num": 233663,
-      "word": "马原",
-      "onboard_time": 1679462068,
-      "rank": 34,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 230315,
-      "num": 230315,
-      "word": "叠纸",
-      "onboard_time": 1679461173,
-      "rank": 35,
-      "category": "游戏"
+      "raw_hot": 233059,
+      "num": 233059,
+      "word": "女大学生把床垫当成被子盖了一年",
+      "onboard_time": 1679462251,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 228662,
@@ -907,20 +939,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 194267,
-      "num": 194267,
-      "word": "安徽省考",
-      "onboard_time": 1679461832,
-      "rank": 44,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 193561,
       "num": 193561,
       "word": "四川广安遭遇大地震系造谣",
       "onboard_time": 1679441423,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192959,
+      "num": 192959,
+      "word": "工作带来的语言后遗症",
+      "onboard_time": 1679462969,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 191779,
@@ -937,6 +969,22 @@
       "onboard_time": 1679442265,
       "rank": 37,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 184181,
+      "num": 184181,
+      "word": "路炎晨归晓双向求婚",
+      "onboard_time": 1679462610,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 183915,
+      "num": 183915,
+      "word": "和平精英冒险列车",
+      "onboard_time": 1679463208,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 182440,
@@ -969,14 +1017,6 @@
       "onboard_time": 1679454568,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 178524,
-      "num": 178524,
-      "word": "保罗乔治受伤",
-      "onboard_time": 1679462011,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 166037,

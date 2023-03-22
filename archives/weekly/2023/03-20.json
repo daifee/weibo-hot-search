@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679462237597,
+  "endTime": 1679463215601,
   "band_list": [
     {
       "raw_hot": 7256959,
@@ -83,6 +83,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 2361653,
+      "num": 1385790,
+      "word": "泰国旅游 安全性",
+      "onboard_time": 1679461232,
+      "rank": 3,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 2327198,
       "num": 811619,
       "word": "大胆请假拒绝请假耻辱",
@@ -121,14 +129,6 @@
       "onboard_time": 1679276187,
       "rank": 45,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 2110393,
-      "num": 1385790,
-      "word": "泰国旅游 安全性",
-      "onboard_time": 1679461232,
-      "rank": 3,
-      "category": "旅游"
     },
     {
       "raw_hot": 2083170,
@@ -691,6 +691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 995342,
+      "num": 995342,
+      "word": "马原",
+      "onboard_time": 1679462068,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 992480,
       "num": 992480,
       "word": "女生为见偶像花花被骗1140元",
@@ -811,6 +819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 926060,
+      "num": 450979,
+      "word": "34岁女子未婚备孕二胎",
+      "onboard_time": 1679460691,
+      "rank": 20,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 923875,
       "num": 923875,
       "word": "1994小美人鱼vs2023小美人鱼",
@@ -825,14 +841,6 @@
       "onboard_time": 1679449529,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 922150,
-      "num": 450979,
-      "word": "34岁女子未婚备孕二胎",
-      "onboard_time": 1679460691,
-      "rank": 20,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 917661,
@@ -857,6 +865,14 @@
       "onboard_time": 1679453906,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 903439,
+      "num": 665258,
+      "word": "造黄谣男生大学归来仍是高中毕业",
+      "onboard_time": 1679460156,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 894340,
@@ -1155,6 +1171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 717724,
+      "num": 717724,
+      "word": "张凌赫团综看白鹿的眼神",
+      "onboard_time": 1679462670,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 712725,
       "num": 403449,
       "word": "玲娜贝儿",
@@ -1235,6 +1259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 671517,
+      "num": 671517,
+      "word": "金智秀solo预告引起争议",
+      "onboard_time": 1679460691,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 666361,
       "num": 509290,
       "word": "17岁女生寒假兼职做保安",
@@ -1257,22 +1289,6 @@
       "onboard_time": 1679369488,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 660655,
-      "num": 660655,
-      "word": "金智秀solo预告引起争议",
-      "onboard_time": 1679460691,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 655324,
-      "num": 655324,
-      "word": "造黄谣男生大学归来仍是高中毕业",
-      "onboard_time": 1679460156,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 653906,
@@ -1891,6 +1907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 483219,
+      "num": 483219,
+      "word": "妈妈的临终遗言是两首儿歌",
+      "onboard_time": 1679459913,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 480103,
       "num": 414153,
       "word": "熊猫萌兰为了越狱有多努力",
@@ -2291,6 +2315,14 @@
       "category": "情感,音乐"
     },
     {
+      "raw_hot": 400671,
+      "num": 400671,
+      "word": "高校按就餐记录隐去姓名给学生打饭钱",
+      "onboard_time": 1679461052,
+      "rank": 27,
+      "category": "社会正能量,教育"
+    },
+    {
       "raw_hot": 398599,
       "num": 398599,
       "word": "俞灏明他是谁演了个疯批",
@@ -2451,14 +2483,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 368879,
-      "num": 368879,
-      "word": "妈妈的临终遗言是两首儿歌",
-      "onboard_time": 1679459913,
-      "rank": 24,
-      "category": "情感"
-    },
-    {
       "raw_hot": 368583,
       "num": 368583,
       "word": "瑞银提出收购瑞信",
@@ -2561,6 +2585,14 @@
       "onboard_time": 1679441724,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 349478,
+      "num": 349478,
+      "word": "马嘉祺跳八段锦",
+      "onboard_time": 1679461591,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 349069,
@@ -2763,14 +2795,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 321766,
-      "num": 321766,
-      "word": "高校按就餐记录隐去姓名给学生打饭钱",
-      "onboard_time": 1679461052,
-      "rank": 27,
-      "category": "社会正能量,教育"
-    },
-    {
       "raw_hot": 321495,
       "num": 321495,
       "word": "中国富豪美国瑞士取钱涌入香港真相",
@@ -2803,6 +2827,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 317807,
+      "num": 317807,
+      "word": "保罗乔治受伤",
+      "onboard_time": 1679462011,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 317468,
       "num": 317468,
       "word": "郑渊洁把白客说哭了",
@@ -2833,6 +2865,14 @@
       "onboard_time": 1679457689,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 313583,
+      "num": 313583,
+      "word": "山东省考",
+      "onboard_time": 1679281287,
+      "rank": 25,
+      "category": "教育"
     },
     {
       "raw_hot": 312835,
@@ -3203,14 +3243,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 274645,
-      "num": 274645,
-      "word": "山东省考",
-      "onboard_time": 1679281287,
-      "rank": 25,
-      "category": "教育"
-    },
-    {
       "raw_hot": 273390,
       "num": 273390,
       "word": "李现官宣加盟微博之夜",
@@ -3233,14 +3265,6 @@
       "onboard_time": 1679378129,
       "rank": 23,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 269262,
-      "num": 269262,
-      "word": "马嘉祺跳八段锦",
-      "onboard_time": 1679461591,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 269061,
@@ -3297,6 +3321,14 @@
       "onboard_time": 1679311895,
       "rank": 28,
       "category": "作品衍生,社会新闻"
+    },
+    {
+      "raw_hot": 259484,
+      "num": 259484,
+      "word": "安徽省考",
+      "onboard_time": 1679461832,
+      "rank": 44,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 256723,
@@ -3475,6 +3507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 242008,
+      "num": 242008,
+      "word": "叠纸",
+      "onboard_time": 1679461173,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 241923,
       "num": 241923,
       "word": "彭十六辟谣",
@@ -3547,12 +3587,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 233663,
-      "num": 233663,
-      "word": "马原",
-      "onboard_time": 1679462068,
-      "rank": 34,
-      "category": "教育"
+      "raw_hot": 233059,
+      "num": 233059,
+      "word": "女大学生把床垫当成被子盖了一年",
+      "onboard_time": 1679462251,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 230506,
@@ -3561,14 +3601,6 @@
       "onboard_time": 1679295747,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 230315,
-      "num": 230315,
-      "word": "叠纸",
-      "onboard_time": 1679461173,
-      "rank": 35,
-      "category": "游戏"
     },
     {
       "raw_hot": 230057,
@@ -4251,14 +4283,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 194267,
-      "num": 194267,
-      "word": "安徽省考",
-      "onboard_time": 1679461832,
-      "rank": 44,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 193949,
       "num": 193949,
       "word": "毛雪汪",
@@ -4296,6 +4320,14 @@
       "word": "被这只猫的肌肉惊到了",
       "onboard_time": 1679321553,
       "rank": 43,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 192959,
+      "num": 192959,
+      "word": "工作带来的语言后遗症",
+      "onboard_time": 1679462969,
+      "rank": 40,
       "category": "幽默"
     },
     {
@@ -4435,6 +4467,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 184181,
+      "num": 184181,
+      "word": "路炎晨归晓双向求婚",
+      "onboard_time": 1679462610,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 183915,
+      "num": 183915,
+      "word": "和平精英冒险列车",
+      "onboard_time": 1679463208,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 183730,
       "num": 183730,
       "word": "李沁刘巧珍剧照",
@@ -4537,14 +4585,6 @@
       "onboard_time": 1679311054,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 178524,
-      "num": 178524,
-      "word": "保罗乔治受伤",
-      "onboard_time": 1679462011,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 178118,
