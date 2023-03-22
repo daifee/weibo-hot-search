@@ -1,6 +1,6 @@
 {
   "startTime": 1679415632915,
-  "endTime": 1679481272837,
+  "endTime": 1679483695579,
   "band_list": [
     {
       "raw_hot": 3268124,
@@ -379,6 +379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 753233,
+      "num": 588869,
+      "word": "好多综艺官宣啊",
+      "onboard_time": 1679480008,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 752465,
       "num": 303197,
       "word": "少爷和我又见面了",
@@ -416,6 +424,14 @@
       "word": "朱一龙出发泰国机场路透",
       "onboard_time": 1679465189,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 705725,
+      "num": 445030,
+      "word": "霓娜的气质",
+      "onboard_time": 1679478928,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -467,14 +483,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 666998,
-      "num": 442815,
-      "word": "霓娜的气质",
-      "onboard_time": 1679478928,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 661840,
       "num": 547734,
       "word": "虞书欣新剧演女间谍",
@@ -483,12 +491,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 651678,
+      "num": 429779,
+      "word": "罗渽民分享没公开过的照片",
+      "onboard_time": 1679482168,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 648251,
       "num": 575935,
       "word": "王一博新电影眼睛充血镜头",
       "onboard_time": 1679454568,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 643272,
+      "num": 580000,
+      "word": "妇联回应女孩将小男孩扔井中",
+      "onboard_time": 1679479409,
+      "rank": 19,
+      "category": "社会负面"
     },
     {
       "raw_hot": 631064,
@@ -547,12 +571,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 580133,
+      "num": 419518,
+      "word": "杨紫蓝色小香风套装",
+      "onboard_time": 1679483068,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 577993,
       "num": 577993,
       "word": "乔治360度暴扣",
       "onboard_time": 1679460213,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 568778,
+      "num": 394588,
+      "word": "牛迪",
+      "onboard_time": 1679482771,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 555776,
@@ -569,14 +609,6 @@
       "onboard_time": 1679474066,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 530290,
-      "num": 390207,
-      "word": "妇联回应女孩将小男孩扔井中",
-      "onboard_time": 1679479409,
-      "rank": 19,
-      "category": "社会负面"
     },
     {
       "raw_hot": 528263,
@@ -659,6 +691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 460977,
+      "num": 460977,
+      "word": "进到一个全是托的群",
+      "onboard_time": 1679481328,
+      "rank": 9,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 460794,
       "num": 631481,
       "word": "8旬奶奶熬夜读霸总小说写万字心得",
@@ -681,14 +721,6 @@
       "onboard_time": 1679468008,
       "rank": 24,
       "category": "美食,幽默"
-    },
-    {
-      "raw_hot": 446294,
-      "num": 390001,
-      "word": "好多综艺官宣啊",
-      "onboard_time": 1679480008,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 441185,
@@ -1091,6 +1123,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 269119,
+      "num": 269119,
+      "word": "不止不休北京大学分享会",
+      "onboard_time": 1679480549,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 267149,
       "num": 267149,
       "word": "青春环游记新口号",
@@ -1147,12 +1187,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 247243,
-      "num": 247243,
-      "word": "不止不休北京大学分享会",
-      "onboard_time": 1679480549,
-      "rank": 23,
-      "category": "影视"
+      "raw_hot": 246244,
+      "num": 246244,
+      "word": "毛晓彤恋爱观",
+      "onboard_time": 1679481208,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 245780,
@@ -1211,6 +1251,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 241286,
+      "num": 304198,
+      "word": "女孩将小男孩扔井中双方家长和解",
+      "onboard_time": 1679483126,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 238350,
       "num": 238350,
       "word": "为什么说爬山检验感情",
@@ -1225,6 +1273,14 @@
       "onboard_time": 1679464768,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 234100,
+      "num": 234100,
+      "word": "他是谁卫国平被举报",
+      "onboard_time": 1679483187,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 228662,
@@ -1323,6 +1379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 206487,
+      "num": 289980,
+      "word": "RNGM春季赛淘汰",
+      "onboard_time": 1679482589,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 205871,
       "num": 205871,
       "word": "90花红毯造型回顾",
@@ -1331,12 +1395,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 205283,
+      "num": 204134,
+      "word": "郑语安讲述离婚经历",
+      "onboard_time": 1679481807,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 204703,
       "num": 204703,
       "word": "刘阅微发声明",
       "onboard_time": 1679465607,
       "rank": 33,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 204380,
+      "num": 204380,
+      "word": "狂飙京海大佬害羞了",
+      "onboard_time": 1679483187,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 201171,
@@ -1417,6 +1497,22 @@
       "onboard_time": 1679442265,
       "rank": 37,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 189567,
+      "num": 251147,
+      "word": "2023KPL春季赛",
+      "onboard_time": 1679483007,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 187004,
+      "num": 187004,
+      "word": "艾怡良说给朱利安只能唱半首",
+      "onboard_time": 1679482467,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 186268,
@@ -1531,14 +1627,6 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 165254,
-      "num": 145508,
-      "word": "毛晓彤恋爱观",
-      "onboard_time": 1679481208,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 163790,
       "num": 163790,
       "word": "喻言练习水上芭蕾vlog",
@@ -1641,6 +1729,14 @@
       "onboard_time": 1679398528,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 135251,
+      "num": 135251,
+      "word": "吴宣仪随机舞蹈",
+      "onboard_time": 1679482467,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 134280,

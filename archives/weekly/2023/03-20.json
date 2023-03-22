@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679481272837,
+  "endTime": 1679483695579,
   "band_list": [
     {
       "raw_hot": 7256959,
@@ -1251,6 +1251,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 753233,
+      "num": 588869,
+      "word": "好多综艺官宣啊",
+      "onboard_time": 1679480008,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 752465,
       "num": 463611,
       "word": "少爷和我又见面了",
@@ -1320,6 +1328,14 @@
       "word": "朱一龙出发泰国机场路透",
       "onboard_time": 1679465189,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 705725,
+      "num": 445030,
+      "word": "霓娜的气质",
+      "onboard_time": 1679478928,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -1419,14 +1435,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 666998,
-      "num": 442815,
-      "word": "霓娜的气质",
-      "onboard_time": 1679478928,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 666361,
       "num": 509290,
       "word": "17岁女生寒假兼职做保安",
@@ -1465,6 +1473,14 @@
       "onboard_time": 1679400986,
       "rank": 20,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 651678,
+      "num": 429779,
+      "word": "罗渽民分享没公开过的照片",
+      "onboard_time": 1679482168,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 648399,
@@ -1513,6 +1529,14 @@
       "onboard_time": 1679325208,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 643272,
+      "num": 580000,
+      "word": "妇联回应女孩将小男孩扔井中",
+      "onboard_time": 1679479409,
+      "rank": 19,
+      "category": "社会负面"
     },
     {
       "raw_hot": 639785,
@@ -1731,6 +1755,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 580133,
+      "num": 419518,
+      "word": "杨紫蓝色小香风套装",
+      "onboard_time": 1679483068,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 579067,
       "num": 579067,
       "word": "女子被姑叔分走15万遗产后遭拉黑",
@@ -1777,6 +1809,14 @@
       "onboard_time": 1679304868,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 568778,
+      "num": 394588,
+      "word": "牛迪",
+      "onboard_time": 1679482771,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 568373,
@@ -1937,14 +1977,6 @@
       "onboard_time": 1679474066,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 530290,
-      "num": 390207,
-      "word": "妇联回应女孩将小男孩扔井中",
-      "onboard_time": 1679479409,
-      "rank": 19,
-      "category": "社会负面"
     },
     {
       "raw_hot": 529345,
@@ -2219,6 +2251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 460977,
+      "num": 460977,
+      "word": "进到一个全是托的群",
+      "onboard_time": 1679481328,
+      "rank": 9,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 460794,
       "num": 631481,
       "word": "8旬奶奶熬夜读霸总小说写万字心得",
@@ -2305,14 +2345,6 @@
       "onboard_time": 1679280988,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 446294,
-      "num": 390001,
-      "word": "好多综艺官宣啊",
-      "onboard_time": 1679480008,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 444577,
@@ -3619,6 +3651,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 269119,
+      "num": 269119,
+      "word": "不止不休北京大学分享会",
+      "onboard_time": 1679480549,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 269061,
       "num": 269061,
       "word": "8箱芒果托运980女子当场吃完",
@@ -3795,20 +3835,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 247243,
-      "num": 247243,
-      "word": "不止不休北京大学分享会",
-      "onboard_time": 1679480549,
-      "rank": 23,
-      "category": "影视"
-    },
-    {
       "raw_hot": 246525,
       "num": 246525,
       "word": "一诺暖阳Cat出席微博之夜",
       "onboard_time": 1679384970,
       "rank": 24,
       "category": "作品衍生,游戏"
+    },
+    {
+      "raw_hot": 246244,
+      "num": 246244,
+      "word": "毛晓彤恋爱观",
+      "onboard_time": 1679481208,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 245780,
@@ -3931,6 +3971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 241286,
+      "num": 304198,
+      "word": "女孩将小男孩扔井中双方家长和解",
+      "onboard_time": 1679483126,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 240828,
       "num": 240828,
       "word": "田曦薇三亚路透",
@@ -3993,6 +4041,14 @@
       "onboard_time": 1679237668,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 234100,
+      "num": 234100,
+      "word": "他是谁卫国平被举报",
+      "onboard_time": 1679483187,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 230506,
@@ -4427,6 +4483,14 @@
       "category": "社会新闻,军事"
     },
     {
+      "raw_hot": 206487,
+      "num": 289980,
+      "word": "RNGM春季赛淘汰",
+      "onboard_time": 1679482589,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 206244,
       "num": 206244,
       "word": "六公主专访甄嬛传功勋制片人",
@@ -4467,12 +4531,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 205283,
+      "num": 204134,
+      "word": "郑语安讲述离婚经历",
+      "onboard_time": 1679481807,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 204703,
       "num": 204703,
       "word": "刘阅微发声明",
       "onboard_time": 1679465607,
       "rank": 33,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 204380,
+      "num": 204380,
+      "word": "狂飙京海大佬害羞了",
+      "onboard_time": 1679483187,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 204352,
@@ -4851,12 +4931,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 189567,
+      "num": 251147,
+      "word": "2023KPL春季赛",
+      "onboard_time": 1679483007,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 187063,
       "num": 811427,
       "word": "二十四节气是中国人的时间哲学",
       "onboard_time": 1679400627,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 187004,
+      "num": 187004,
+      "word": "艾怡良说给朱利安只能唱半首",
+      "onboard_time": 1679482467,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 186367,
@@ -5305,14 +5401,6 @@
       "onboard_time": 1679398227,
       "rank": 48,
       "category": "科技"
-    },
-    {
-      "raw_hot": 165254,
-      "num": 145508,
-      "word": "毛晓彤恋爱观",
-      "onboard_time": 1679481208,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 164942,
@@ -5857,6 +5945,14 @@
       "onboard_time": 1679402549,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 135251,
+      "num": 135251,
+      "word": "吴宣仪随机舞蹈",
+      "onboard_time": 1679482467,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 134748,

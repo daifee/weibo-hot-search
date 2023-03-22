@@ -1,0 +1,410 @@
+{
+  "runTime": 1679483695579,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 30009,
+        "num": 627788,
+        "word": "中俄元首强调通过和谈解决乌克兰危机",
+        "onboard_time": 1679442205,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 606878,
+        "num": 606878,
+        "word": "王牌对王牌8官宣",
+        "onboard_time": 1679473348,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 56281,
+        "num": 601386,
+        "word": "中国空间站带你看这世界的山与海",
+        "onboard_time": 1679471068,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1095569,
+        "num": 597846,
+        "word": "被扔井中小男孩已安全救出",
+        "onboard_time": 1679475748,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 753233,
+        "num": 588869,
+        "word": "好多综艺官宣啊",
+        "onboard_time": 1679480008,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 643272,
+        "num": 580000,
+        "word": "妇联回应女孩将小男孩扔井中",
+        "onboard_time": 1679479409,
+        "rank": 5,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 577066,
+        "num": 577066,
+        "word": "林俊杰 mirror",
+        "onboard_time": 1679475086,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 519005,
+        "num": 519005,
+        "word": "泰国旅游 安全性",
+        "onboard_time": 1679461232,
+        "rank": 7,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 489272,
+        "num": 489272,
+        "word": "上过大学的都沉默了",
+        "onboard_time": 1679474007,
+        "rank": 8,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 460977,
+        "num": 460977,
+        "word": "进到一个全是托的群",
+        "onboard_time": 1679481328,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 705725,
+        "num": 445030,
+        "word": "霓娜的气质",
+        "onboard_time": 1679478928,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 651678,
+        "num": 429779,
+        "word": "罗渽民分享没公开过的照片",
+        "onboard_time": 1679482168,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 580133,
+        "num": 419518,
+        "word": "杨紫蓝色小香风套装",
+        "onboard_time": 1679483068,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 568778,
+        "num": 394588,
+        "word": "牛迪",
+        "onboard_time": 1679482771,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 534930,
+        "num": 368252,
+        "word": "造黄谣男生大学归来仍是高中毕业",
+        "onboard_time": 1679460156,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367626,
+        "num": 367626,
+        "word": "爸爸去哪儿星二代近照",
+        "onboard_time": 1679474609,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 314778,
+        "num": 314778,
+        "word": "蔡徐坤暂别奔跑吧",
+        "onboard_time": 1679468967,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241286,
+        "num": 304198,
+        "word": "女孩将小男孩扔井中双方家长和解",
+        "onboard_time": 1679483126,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302707,
+        "num": 302707,
+        "word": "奔跑吧阵容正式官宣",
+        "onboard_time": 1679473166,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206487,
+        "num": 289980,
+        "word": "RNGM春季赛淘汰",
+        "onboard_time": 1679482589,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 305746,
+        "num": 287745,
+        "word": "34岁女子未婚备孕二胎",
+        "onboard_time": 1679460691,
+        "rank": 20,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 202572,
+        "num": 283935,
+        "word": "JYP差点被收购",
+        "onboard_time": 1679474425,
+        "rank": 21,
+        "category": "财经,艺人"
+      },
+      {
+        "raw_hot": 281339,
+        "num": 281339,
+        "word": "偷偷藏不住站内预约人数破150万",
+        "onboard_time": 1679480549,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 269119,
+        "num": 269119,
+        "word": "不止不休北京大学分享会",
+        "onboard_time": 1679480549,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 266405,
+        "num": 266405,
+        "word": "浙江人接下来一个月的主食",
+        "onboard_time": 1679468008,
+        "rank": 24,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 266786,
+        "num": 263370,
+        "word": "王晶回应被冯淬帆公开痛骂",
+        "onboard_time": 1679478026,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189567,
+        "num": 251147,
+        "word": "2023KPL春季赛",
+        "onboard_time": 1679483007,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 246244,
+        "num": 246244,
+        "word": "毛晓彤恋爱观",
+        "onboard_time": 1679481208,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234100,
+        "num": 234100,
+        "word": "他是谁卫国平被举报",
+        "onboard_time": 1679483187,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193311,
+        "num": 220159,
+        "word": "三亚游客租车被坑事件6人被刑拘",
+        "onboard_time": 1679474066,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335952,
+        "num": 219286,
+        "word": "每日核酸阳性4000人以上",
+        "onboard_time": 1679458409,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214195,
+        "num": 214195,
+        "word": "薛之谦郑州场抢票",
+        "onboard_time": 1679479348,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 204380,
+        "num": 204380,
+        "word": "狂飙京海大佬害羞了",
+        "onboard_time": 1679483187,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 205283,
+        "num": 204134,
+        "word": "郑语安讲述离婚经历",
+        "onboard_time": 1679481807,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203718,
+        "num": 203718,
+        "word": "杨颖八个字介绍跑男11季主题",
+        "onboard_time": 1679475686,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187004,
+        "num": 187004,
+        "word": "艾怡良说给朱利安只能唱半首",
+        "onboard_time": 1679482467,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175147,
+        "num": 175147,
+        "word": "女大学生把床垫当成被子盖了一年",
+        "onboard_time": 1679462251,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 172426,
+        "num": 172426,
+        "word": "千万不要在办公室里睡觉",
+        "onboard_time": 1679470226,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 172240,
+        "num": 172240,
+        "word": "4名广西小伙在缅甸失联疑似被控制",
+        "onboard_time": 1679476949,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141431,
+        "num": 169461,
+        "word": "安徽省考",
+        "onboard_time": 1679461832,
+        "rank": 39,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 168927,
+        "num": 168927,
+        "word": "白鹿问网友嗑哪儿了",
+        "onboard_time": 1679470287,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159726,
+        "num": 159726,
+        "word": "柯南贝克街的亡灵预售开启",
+        "onboard_time": 1679473348,
+        "rank": 41,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 155269,
+        "num": 155269,
+        "word": "名侦探学院第六季收官",
+        "onboard_time": 1679477908,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139797,
+        "num": 139797,
+        "word": "星落凝成糖直播售后",
+        "onboard_time": 1679480187,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 139519,
+        "num": 139519,
+        "word": "打麻将的和打台球的都沉默了",
+        "onboard_time": 1679477846,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138109,
+        "num": 138109,
+        "word": "Angelababy片场摔倒",
+        "onboard_time": 1679464709,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 135251,
+        "num": 135251,
+        "word": "吴宣仪随机舞蹈",
+        "onboard_time": 1679482467,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129269,
+        "num": 129269,
+        "word": "5名日本人入室抢劫两名中国人",
+        "onboard_time": 1679467167,
+        "rank": 47,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 125261,
+        "num": 125261,
+        "word": "4名学生被引诱至缅甸全程经历",
+        "onboard_time": 1679464168,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120205,
+        "num": 120205,
+        "word": "马原",
+        "onboard_time": 1679462068,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席访问俄罗斯#"
+    }
+  }
+}
