@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679526895298,
+  "endTime": 1679528026683,
   "band_list": [
     {
       "raw_hot": 7256959,
@@ -1531,6 +1531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 687385,
+      "num": 548161,
+      "word": "女子为夫报仇引诱黑帮老大爱上自己",
+      "onboard_time": 1679496691,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 681867,
       "num": 681867,
       "word": "王子文说谈恋爱就是要全力以赴",
@@ -2107,6 +2115,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 547607,
+      "num": 547607,
+      "word": "阿姨赶女儿婚前写遗嘱防女婿",
+      "onboard_time": 1679500886,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 546752,
       "num": 546752,
       "word": "花花明天要上班了",
@@ -2144,14 +2160,6 @@
       "word": "三亚游客租车被坑事件6人被刑拘",
       "onboard_time": 1679474066,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 529586,
-      "num": 529586,
-      "word": "女子为夫报仇引诱黑帮老大爱上自己",
-      "onboard_time": 1679496691,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -2297,6 +2305,14 @@
       "onboard_time": 1679299227,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 491747,
+      "num": 491747,
+      "word": "多方发声还原民宿老板上门事件",
+      "onboard_time": 1679525419,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 491208,
@@ -2635,14 +2651,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 435142,
-      "num": 415628,
-      "word": "阿姨赶女儿婚前写遗嘱防女婿",
-      "onboard_time": 1679500886,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 434145,
       "num": 434145,
       "word": "王鹤棣吃汉堡",
@@ -2899,6 +2907,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 395756,
+      "num": 395756,
+      "word": "网友称海底捞水果仅限打包一份",
+      "onboard_time": 1679507414,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 394662,
       "num": 394662,
       "word": "上海地铁",
@@ -3009,6 +3025,14 @@
       "onboard_time": 1679491770,
       "rank": 43,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 376119,
+      "num": 376119,
+      "word": "美联储加息25个基点",
+      "onboard_time": 1679527100,
+      "rank": 10,
+      "category": "财经"
     },
     {
       "raw_hot": 375684,
@@ -3289,14 +3313,6 @@
       "onboard_time": 1679474909,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 338239,
-      "num": 338239,
-      "word": "网友称海底捞水果仅限打包一份",
-      "onboard_time": 1679507414,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 338035,
@@ -3643,6 +3659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 301403,
+      "num": 301403,
+      "word": "心医林霖",
+      "onboard_time": 1679513113,
+      "rank": 28,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 299222,
       "num": 1386803,
       "word": "中俄关系对世界格局人类前途命运至关重要",
@@ -3793,6 +3817,14 @@
       "onboard_time": 1679380466,
       "rank": 48,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 285941,
+      "num": 285941,
+      "word": "外卖哥街头向交警下跪被掌掴",
+      "onboard_time": 1679503880,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 284454,
@@ -4083,14 +4115,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 251457,
-      "num": 251457,
-      "word": "心医林霖",
-      "onboard_time": 1679513113,
-      "rank": 28,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 250696,
       "num": 250696,
       "word": "里弗斯",
@@ -4353,14 +4377,6 @@
       "onboard_time": 1679397807,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 236119,
-      "num": 236119,
-      "word": "外卖哥街头向交警下跪被掌掴",
-      "onboard_time": 1679503880,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 235212,
@@ -5291,6 +5307,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 192680,
+      "num": 192680,
+      "word": "鲍威尔",
+      "onboard_time": 1679527281,
+      "rank": 17,
+      "category": "财经"
+    },
+    {
       "raw_hot": 192539,
       "num": 192539,
       "word": "春分节气壁纸",
@@ -5489,14 +5513,6 @@
       "onboard_time": 1679408855,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 183642,
-      "num": 183642,
-      "word": "多方发声还原民宿老板上门事件",
-      "onboard_time": 1679525419,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 183341,
@@ -6963,6 +6979,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 105368,
+      "num": 102790,
+      "word": "CS2正式公开",
+      "onboard_time": 1679527343,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 105057,
       "num": 105057,
       "word": "专家解读东航MU5735事故调查最新进展",
@@ -6977,6 +7001,14 @@
       "onboard_time": 1679396427,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 104739,
+      "num": 104739,
+      "word": "缅北",
+      "onboard_time": 1679528002,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 104480,
@@ -7203,6 +7235,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 70049,
+      "num": 70049,
+      "word": "赵露思神隐红色羽衣路透",
+      "onboard_time": 1679508556,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 65638,
       "num": 65638,
       "word": "TWICE全员跳Pop",
@@ -7217,6 +7257,22 @@
       "onboard_time": 1679403808,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 63336,
+      "num": 63336,
+      "word": "会画画真的能为所欲为吧",
+      "onboard_time": 1679503582,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 61928,
+      "num": 61928,
+      "word": "歼10战机有多帅",
+      "onboard_time": 1679527281,
+      "rank": 46,
+      "category": "军事"
     },
     {
       "raw_hot": 58590,
@@ -7235,14 +7291,6 @@
       "category": "幽默,影视"
     },
     {
-      "raw_hot": 53888,
-      "num": 55592,
-      "word": "赵露思神隐红色羽衣路透",
-      "onboard_time": 1679508556,
-      "rank": 19,
-      "category": "影视"
-    },
-    {
       "raw_hot": 51017,
       "num": 194915,
       "word": "千万网友为撒贝宁点餐",
@@ -7257,14 +7305,6 @@
       "onboard_time": 1679248695,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 44643,
-      "num": 44643,
-      "word": "会画画真的能为所欲为吧",
-      "onboard_time": 1679503582,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 38472,
@@ -7297,6 +7337,14 @@
       "onboard_time": 1679486968,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32226,
+      "num": 551839,
+      "word": "友谊之旅合作之旅和平之旅",
+      "onboard_time": 1679527701,
+      "rank": 0,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 32072,
