@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679492022570,
+  "endTime": 1679494610216,
   "band_list": [
     {
       "raw_hot": 7256959,
@@ -121,6 +121,14 @@
       "onboard_time": 1679356406,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2160589,
+      "num": 590506,
+      "word": "尔康去了缅甸都回不来",
+      "onboard_time": 1679492068,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 2146606,
@@ -395,6 +403,14 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 1390367,
+      "num": 489821,
+      "word": "孔雪儿颅顶",
+      "onboard_time": 1679491289,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1384942,
       "num": 1384942,
       "word": "华为又一天才少年曝光",
@@ -553,14 +569,6 @@
       "onboard_time": 1679394808,
       "rank": 41,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 1194395,
-      "num": 489821,
-      "word": "孔雪儿颅顶",
-      "onboard_time": 1679491289,
-      "rank": 12,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1182964,
@@ -745,6 +753,14 @@
       "onboard_time": 1679381369,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1040893,
+      "num": 575775,
+      "word": "女子应聘被质疑23岁用苹果手机",
+      "onboard_time": 1679489728,
+      "rank": 11,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 1034170,
@@ -1307,14 +1323,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 760586,
-      "num": 536605,
-      "word": "女子应聘被质疑23岁用苹果手机",
-      "onboard_time": 1679489728,
-      "rank": 11,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 755267,
       "num": 755267,
       "word": "赛琳娜新剧婚纱照路透",
@@ -1699,6 +1707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 614818,
+      "num": 614818,
+      "word": "河北省考",
+      "onboard_time": 1679493991,
+      "rank": 1,
+      "category": "教育"
+    },
+    {
       "raw_hot": 614560,
       "num": 614560,
       "word": "广东人把大熊猫养成了阿伯",
@@ -2019,6 +2035,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 547153,
+      "num": 547153,
+      "word": "原来韩国00后也在整顿职场",
+      "onboard_time": 1679490567,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 546752,
       "num": 546752,
       "word": "花花明天要上班了",
@@ -2049,6 +2073,14 @@
       "onboard_time": 1679239712,
       "rank": 13,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 533901,
+      "num": 533901,
+      "word": "泰国游有平替吗",
+      "onboard_time": 1679491472,
+      "rank": 30,
+      "category": "旅游"
     },
     {
       "raw_hot": 530482,
@@ -2363,6 +2395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 461487,
+      "num": 428555,
+      "word": "刘亦菲上海路透",
+      "onboard_time": 1679491590,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 461455,
       "num": 461455,
       "word": "赛琳娜ins粉丝数",
@@ -2643,14 +2683,6 @@
       "category": "网红,社会新闻"
     },
     {
-      "raw_hot": 418200,
-      "num": 418200,
-      "word": "刘亦菲上海路透",
-      "onboard_time": 1679491590,
-      "rank": 13,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 417892,
       "num": 417892,
       "word": "大麦向华晨宇方致歉",
@@ -2665,6 +2697,14 @@
       "onboard_time": 1679376869,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 416832,
+      "num": 416832,
+      "word": "老狼官宣加盟安吉大麓青年音乐节",
+      "onboard_time": 1679493153,
+      "rank": 14,
+      "category": "音乐"
     },
     {
       "raw_hot": 416751,
@@ -3059,6 +3099,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 352125,
+      "num": 352125,
+      "word": "以爱为营全员告别角色",
+      "onboard_time": 1679492733,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 351577,
+      "num": 320584,
+      "word": "90后小伙经4个媒人相亲1个女孩",
+      "onboard_time": 1679491770,
+      "rank": 43,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 351134,
       "num": 351134,
       "word": "Xiaohu喊话极端粉丝",
@@ -3089,6 +3145,14 @@
       "onboard_time": 1679381848,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 346255,
+      "num": 346255,
+      "word": "迪丽热巴红裙花絮",
+      "onboard_time": 1679494050,
+      "rank": 18,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 345425,
@@ -4003,6 +4067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 245856,
+      "num": 245856,
+      "word": "魔咒",
+      "onboard_time": 1679493212,
+      "rank": 26,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 245780,
       "num": 245780,
       "word": "鞠婧祎抹胸小黑裙拍摄路透",
@@ -4675,14 +4747,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 205533,
-      "num": 205533,
-      "word": "原来韩国00后也在整顿职场",
-      "onboard_time": 1679490567,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 205457,
       "num": 205457,
       "word": "QQ音乐上线AI绘画功能",
@@ -4745,6 +4809,14 @@
       "onboard_time": 1679305411,
       "rank": 39,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 204103,
+      "num": 204103,
+      "word": "高双星冒名高加林得奖",
+      "onboard_time": 1679493930,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 204056,
@@ -4891,6 +4963,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 198699,
+      "num": 198699,
+      "word": "MTG战胜KSG",
+      "onboard_time": 1679493870,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 198657,
       "num": 198657,
       "word": "4名广西小伙在缅甸失联疑似被控制",
@@ -5001,14 +5081,6 @@
       "onboard_time": 1679487208,
       "rank": 29,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 193975,
-      "num": 183121,
-      "word": "泰国游有平替吗",
-      "onboard_time": 1679491472,
-      "rank": 30,
-      "category": "旅游"
     },
     {
       "raw_hot": 193949,
@@ -5417,6 +5489,22 @@
       "onboard_time": 1679471606,
       "rank": 36,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 176599,
+      "num": 176599,
+      "word": "归路第18集预告",
+      "onboard_time": 1679494409,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 176257,
+      "num": 176257,
+      "word": "怦然3申请他是谁卫队保护",
+      "onboard_time": 1679494170,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 175260,
@@ -6371,14 +6459,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 127728,
-      "num": 127728,
-      "word": "90后小伙经4个媒人相亲1个女孩",
-      "onboard_time": 1679491770,
-      "rank": 43,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 127529,
       "num": 127529,
       "word": "开多少种花才算一个春天",
@@ -6409,6 +6489,14 @@
       "onboard_time": 1679484452,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 125596,
+      "num": 125596,
+      "word": "被别人的家庭氛围感动到了",
+      "onboard_time": 1679494170,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 125346,
