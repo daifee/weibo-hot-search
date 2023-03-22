@@ -1,0 +1,410 @@
+{
+  "runTime": 1679466138266,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 59881,
+        "num": 960146,
+        "word": "2023LPL",
+        "onboard_time": 1679315731,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 2232272,
+        "num": 906565,
+        "word": "泰国旅游 安全性",
+        "onboard_time": 1679461232,
+        "rank": 1,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 128994,
+        "num": 788061,
+        "word": "中俄关系对世界格局人类前途命运至关重要",
+        "onboard_time": 1679455170,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1038133,
+        "num": 787905,
+        "word": "张凌赫团综看白鹿的眼神",
+        "onboard_time": 1679462670,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 783564,
+        "num": 783564,
+        "word": "妈妈的临终遗言是两首儿歌",
+        "onboard_time": 1679459913,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 746554,
+        "num": 746554,
+        "word": "迪丽热巴微博之夜正式官宣",
+        "onboard_time": 1679456068,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 723868,
+        "num": 723868,
+        "word": "郭敬明审美有点东西",
+        "onboard_time": 1679458048,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1094704,
+        "num": 700483,
+        "word": "马原",
+        "onboard_time": 1679462068,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 664219,
+        "num": 664219,
+        "word": "高校按就餐记录隐去姓名给学生打饭钱",
+        "onboard_time": 1679461052,
+        "rank": 8,
+        "category": "社会正能量,教育"
+      },
+      {
+        "raw_hot": 529030,
+        "num": 529030,
+        "word": "缅北逃亡者建议单身别去东南亚旅游",
+        "onboard_time": 1679456128,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2107505,
+        "num": 528402,
+        "word": "每日核酸阳性4000人以上",
+        "onboard_time": 1679458409,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 918631,
+        "num": 526469,
+        "word": "造黄谣男生大学归来仍是高中毕业",
+        "onboard_time": 1679460156,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 669543,
+        "num": 522739,
+        "word": "朱一龙出发泰国机场路透",
+        "onboard_time": 1679465189,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 509218,
+        "num": 509218,
+        "word": "金智秀solo预告引起争议",
+        "onboard_time": 1679460691,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 495306,
+        "num": 495306,
+        "word": "Angelababy片场摔倒",
+        "onboard_time": 1679464709,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 413103,
+        "num": 413103,
+        "word": "4名学生被引诱至缅甸全程经历",
+        "onboard_time": 1679464168,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 389428,
+        "num": 389428,
+        "word": "苏醒张远都把C位让给王铮亮",
+        "onboard_time": 1679460933,
+        "rank": 16,
+        "category": "影视,音乐"
+      },
+      {
+        "raw_hot": 387988,
+        "num": 387988,
+        "word": "赛琳娜新剧婚纱照路透",
+        "onboard_time": 1679458292,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 366660,
+        "num": 366660,
+        "word": "花花今天上班了",
+        "onboard_time": 1679454749,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360610,
+        "num": 360610,
+        "word": "中科大取消造谣男生录取资格",
+        "onboard_time": 1679451985,
+        "rank": 19,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 816887,
+        "num": 355353,
+        "word": "34岁女子未婚备孕二胎",
+        "onboard_time": 1679460691,
+        "rank": 20,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 342293,
+        "num": 342293,
+        "word": "女大学生把床垫当成被子盖了一年",
+        "onboard_time": 1679462251,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 337984,
+        "num": 337984,
+        "word": "满堂",
+        "onboard_time": 1679465667,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 319422,
+        "num": 319422,
+        "word": "徐峥王宝强泰囧后综艺合体",
+        "onboard_time": 1679457749,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 292992,
+        "num": 292992,
+        "word": "奥利奥",
+        "onboard_time": 1679453906,
+        "rank": 24,
+        "category": "美食,艺人"
+      },
+      {
+        "raw_hot": 270703,
+        "num": 270703,
+        "word": "SM寻找呕是谁",
+        "onboard_time": 1679464768,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261926,
+        "num": 261926,
+        "word": "保罗乔治受伤",
+        "onboard_time": 1679462011,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 255785,
+        "num": 255785,
+        "word": "云之羽全是美女",
+        "onboard_time": 1679463267,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 245933,
+        "num": 245933,
+        "word": "山东省考",
+        "onboard_time": 1679459431,
+        "rank": 28,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 238188,
+        "num": 238188,
+        "word": "罗渽民说以后会在微博和大家多多交流",
+        "onboard_time": 1679464768,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235296,
+        "num": 235296,
+        "word": "准备摆摊的人有福了",
+        "onboard_time": 1679457028,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 208935,
+        "num": 208935,
+        "word": "安徽省考",
+        "onboard_time": 1679461832,
+        "rank": 31,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 208753,
+        "num": 208753,
+        "word": "叠纸",
+        "onboard_time": 1679461173,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 204703,
+        "num": 204703,
+        "word": "刘阅微发声明",
+        "onboard_time": 1679465607,
+        "rank": 33,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 203362,
+        "num": 203362,
+        "word": "朴妍珍和宋承宪演过人间中毒",
+        "onboard_time": 1679455349,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 200324,
+        "num": 200324,
+        "word": "马嘉祺跳八段锦",
+        "onboard_time": 1679461591,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199306,
+        "num": 199306,
+        "word": "胜利出狱后近况",
+        "onboard_time": 1679453906,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189139,
+        "num": 189139,
+        "word": "急诊科唯一可以信的话",
+        "onboard_time": 1679459072,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 183745,
+        "num": 183745,
+        "word": "男子工厂打工6年还清65万外债",
+        "onboard_time": 1679456008,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168804,
+        "num": 168804,
+        "word": "乔治360度暴扣",
+        "onboard_time": 1679460213,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163577,
+        "num": 163577,
+        "word": "王一博新电影眼睛充血镜头",
+        "onboard_time": 1679454568,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 154914,
+        "num": 154914,
+        "word": "奔跑吧",
+        "onboard_time": 1679442626,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152548,
+        "num": 152548,
+        "word": "时尚COSMO主编称公司违法",
+        "onboard_time": 1679465967,
+        "rank": 42,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 148811,
+        "num": 148811,
+        "word": "花花",
+        "onboard_time": 1679456369,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139903,
+        "num": 139903,
+        "word": "14岁康康近照",
+        "onboard_time": 1679447428,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138146,
+        "num": 138146,
+        "word": "恋与制作人",
+        "onboard_time": 1679459733,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 136324,
+        "num": 136324,
+        "word": "北京沙尘暴",
+        "onboard_time": 1679440521,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123803,
+        "num": 123803,
+        "word": "扬州炒饭雪糕和老干妈雪糕",
+        "onboard_time": 1679465847,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 121558,
+        "num": 121558,
+        "word": "你会坚持不健康的恋爱关系吗",
+        "onboard_time": 1679465908,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 118036,
+        "num": 118036,
+        "word": "Miss工作室官宣加盟新公司",
+        "onboard_time": 1679455290,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席访问俄罗斯#"
+    }
+  }
+}

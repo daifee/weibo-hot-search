@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679463215601,
+  "endTime": 1679466138266,
   "band_list": [
     {
       "raw_hot": 7256959,
@@ -595,6 +595,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 1094704,
+      "num": 995342,
+      "word": "马原",
+      "onboard_time": 1679462068,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1089385,
       "num": 559468,
       "word": "杀夫案受害人父母去年曾陪儿媳过中秋",
@@ -651,6 +659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1038133,
+      "num": 787905,
+      "word": "张凌赫团综看白鹿的眼神",
+      "onboard_time": 1679462670,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1034170,
       "num": 1034170,
       "word": "大陆方面欢迎马英九先生来访",
@@ -689,14 +705,6 @@
       "onboard_time": 1679319569,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 995342,
-      "num": 995342,
-      "word": "马原",
-      "onboard_time": 1679462068,
-      "rank": 34,
-      "category": "教育"
     },
     {
       "raw_hot": 992480,
@@ -843,6 +851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 918631,
+      "num": 665258,
+      "word": "造黄谣男生大学归来仍是高中毕业",
+      "onboard_time": 1679460156,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 917661,
       "num": 917661,
       "word": "爱情而已 定档",
@@ -865,14 +881,6 @@
       "onboard_time": 1679453906,
       "rank": 4,
       "category": "影视"
-    },
-    {
-      "raw_hot": 903439,
-      "num": 665258,
-      "word": "造黄谣男生大学归来仍是高中毕业",
-      "onboard_time": 1679460156,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 894340,
@@ -1067,6 +1075,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 783564,
+      "num": 783564,
+      "word": "妈妈的临终遗言是两首儿歌",
+      "onboard_time": 1679459913,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 778060,
       "num": 778060,
       "word": "省考",
@@ -1171,14 +1187,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 717724,
-      "num": 717724,
-      "word": "张凌赫团综看白鹿的眼神",
-      "onboard_time": 1679462670,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 712725,
       "num": 403449,
       "word": "玲娜贝儿",
@@ -1267,12 +1275,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 669543,
+      "num": 522739,
+      "word": "朱一龙出发泰国机场路透",
+      "onboard_time": 1679465189,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 666361,
       "num": 509290,
       "word": "17岁女生寒假兼职做保安",
       "onboard_time": 1679275527,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 664219,
+      "num": 664219,
+      "word": "高校按就餐记录隐去姓名给学生打饭钱",
+      "onboard_time": 1679461052,
+      "rank": 27,
+      "category": "社会正能量,教育"
     },
     {
       "raw_hot": 661840,
@@ -1843,6 +1867,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 495306,
+      "num": 495306,
+      "word": "Angelababy片场摔倒",
+      "onboard_time": 1679464709,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 494030,
       "num": 494030,
       "word": "张家齐",
@@ -1905,14 +1937,6 @@
       "onboard_time": 1679376750,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 483219,
-      "num": 483219,
-      "word": "妈妈的临终遗言是两首儿歌",
-      "onboard_time": 1679459913,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 480103,
@@ -2275,6 +2299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 413103,
+      "num": 413103,
+      "word": "4名学生被引诱至缅甸全程经历",
+      "onboard_time": 1679464168,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 409787,
       "num": 409787,
       "word": "小朋友感染甲流应该怎么办",
@@ -2313,14 +2345,6 @@
       "onboard_time": 1679450607,
       "rank": 8,
       "category": "情感,音乐"
-    },
-    {
-      "raw_hot": 400671,
-      "num": 400671,
-      "word": "高校按就餐记录隐去姓名给学生打饭钱",
-      "onboard_time": 1679461052,
-      "rank": 27,
-      "category": "社会正能量,教育"
     },
     {
       "raw_hot": 398599,
@@ -2651,6 +2675,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 342293,
+      "num": 342293,
+      "word": "女大学生把床垫当成被子盖了一年",
+      "onboard_time": 1679462251,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 341778,
       "num": 341778,
       "word": "王源包场支持不止不休",
@@ -2665,6 +2697,14 @@
       "onboard_time": 1679387430,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 337984,
+      "num": 337984,
+      "word": "满堂",
+      "onboard_time": 1679465667,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 333028,
@@ -3259,6 +3299,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 270703,
+      "num": 270703,
+      "word": "SM寻找呕是谁",
+      "onboard_time": 1679464768,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 270530,
       "num": 270530,
       "word": "薛之谦演唱会 南昌",
@@ -3345,6 +3393,14 @@
       "onboard_time": 1679408191,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 255785,
+      "num": 255785,
+      "word": "云之羽全是美女",
+      "onboard_time": 1679463267,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 253695,
@@ -3563,6 +3619,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 238188,
+      "num": 238188,
+      "word": "罗渽民说以后会在微博和大家多多交流",
+      "onboard_time": 1679464768,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 237813,
       "num": 237813,
       "word": "心想事成",
@@ -3585,14 +3649,6 @@
       "onboard_time": 1679237668,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 233059,
-      "num": 233059,
-      "word": "女大学生把床垫当成被子盖了一年",
-      "onboard_time": 1679462251,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 230506,
@@ -4051,6 +4107,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 204703,
+      "num": 204703,
+      "word": "刘阅微发声明",
+      "onboard_time": 1679465607,
+      "rank": 33,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 204352,
       "num": 204352,
       "word": "光遇复刻白绒",
@@ -4084,7 +4148,7 @@
     },
     {
       "raw_hot": 204056,
-      "num": 204056,
+      "num": 960146,
       "word": "2023LPL",
       "onboard_time": 1679315731,
       "rank": 34,
@@ -4987,6 +5051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 152548,
+      "num": 152548,
+      "word": "时尚COSMO主编称公司违法",
+      "onboard_time": 1679465967,
+      "rank": 42,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 152012,
       "num": 152012,
       "word": "路炎晨在厕所门口吃东西",
@@ -5515,6 +5587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123803,
+      "num": 123803,
+      "word": "扬州炒饭雪糕和老干妈雪糕",
+      "onboard_time": 1679465847,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 122454,
       "num": 122454,
       "word": "CBA",
@@ -5545,6 +5625,14 @@
       "onboard_time": 1679306192,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 121558,
+      "num": 121558,
+      "word": "你会坚持不健康的恋爱关系吗",
+      "onboard_time": 1679465908,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 120884,
