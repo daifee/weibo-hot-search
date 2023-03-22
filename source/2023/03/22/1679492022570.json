@@ -1,0 +1,410 @@
+{
+  "runTime": 1679492022570,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 25508,
+        "num": 673340,
+        "word": "中俄元首强调通过和谈解决乌克兰危机",
+        "onboard_time": 1679442205,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 630742,
+        "num": 630742,
+        "word": "青春环游记春游F4",
+        "onboard_time": 1679488948,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32319,
+        "num": 623665,
+        "word": "落实重大发展战略开创事业新局",
+        "onboard_time": 1679486968,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 827786,
+        "num": 610349,
+        "word": "HM回应女子试衣用新衣垫脚",
+        "onboard_time": 1679487389,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 764850,
+        "num": 585450,
+        "word": "以后还让我怎么吃香蕉啊",
+        "onboard_time": 1679485888,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1000792,
+        "num": 559435,
+        "word": "泰总理下令澄清旅泰安全问题",
+        "onboard_time": 1679485409,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 760586,
+        "num": 536605,
+        "word": "女子应聘被质疑23岁用苹果手机",
+        "onboard_time": 1679489728,
+        "rank": 6,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 536097,
+        "num": 536097,
+        "word": "警方通报女孩将小男孩扔井中",
+        "onboard_time": 1679485168,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 519201,
+        "num": 519201,
+        "word": "四川一高校放假7天鼓励恋爱",
+        "onboard_time": 1679487868,
+        "rank": 8,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 513287,
+        "num": 513287,
+        "word": "流浪小狗乞求收养者一起带走小熊",
+        "onboard_time": 1679488169,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1194395,
+        "num": 489821,
+        "word": "孔雪儿颅顶",
+        "onboard_time": 1679491289,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 684900,
+        "num": 477235,
+        "word": "康康诺一经常聚会",
+        "onboard_time": 1679484269,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 449571,
+        "num": 449571,
+        "word": "Scout刷新联赛MVP纪录",
+        "onboard_time": 1679489789,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 418200,
+        "num": 418200,
+        "word": "刘亦菲上海路透",
+        "onboard_time": 1679491590,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 401859,
+        "num": 401859,
+        "word": "王牌对王牌8官宣",
+        "onboard_time": 1679473348,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 393968,
+        "num": 393968,
+        "word": "何昶希在女生和女神中选择了女装",
+        "onboard_time": 1679484510,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 359468,
+        "num": 359468,
+        "word": "李兰迪说想和陈星旭三搭",
+        "onboard_time": 1679486912,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 336332,
+        "num": 336332,
+        "word": "被扔井中小男孩已安全救出",
+        "onboard_time": 1679475748,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298934,
+        "num": 298934,
+        "word": "林俊杰 mirror",
+        "onboard_time": 1679475086,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 284985,
+        "num": 284985,
+        "word": "小说影视化成功典范",
+        "onboard_time": 1679483908,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 227695,
+        "num": 227695,
+        "word": "狂飙京海大佬害羞了",
+        "onboard_time": 1679483187,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 227456,
+        "num": 227456,
+        "word": "好多综艺官宣啊",
+        "onboard_time": 1679480008,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225378,
+        "num": 225378,
+        "word": "王嘉尔飞往洛杉矶",
+        "onboard_time": 1679488047,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205533,
+        "num": 205533,
+        "word": "原来韩国00后也在整顿职场",
+        "onboard_time": 1679490567,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 204110,
+        "num": 204110,
+        "word": "上过大学的都沉默了",
+        "onboard_time": 1679474007,
+        "rank": 24,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 212414,
+        "num": 203776,
+        "word": "罗渽民分享没公开过的照片",
+        "onboard_time": 1679482168,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200574,
+        "num": 200574,
+        "word": "高加林导游式教学",
+        "onboard_time": 1679491114,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187814,
+        "num": 187814,
+        "word": "进到一个全是托的群",
+        "onboard_time": 1679481328,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 188059,
+        "num": 186283,
+        "word": "人生之路李沁台词爆发力",
+        "onboard_time": 1679490689,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 183340,
+        "num": 183340,
+        "word": "有什么是你谈了恋爱才明白的",
+        "onboard_time": 1679482947,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 193975,
+        "num": 183121,
+        "word": "泰国游有平替吗",
+        "onboard_time": 1679491472,
+        "rank": 30,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 182497,
+        "num": 182497,
+        "word": "霓娜的气质",
+        "onboard_time": 1679478928,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177865,
+        "num": 177865,
+        "word": "iG中野",
+        "onboard_time": 1679487208,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 176489,
+        "num": 176489,
+        "word": "王者荣耀",
+        "onboard_time": 1679485769,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 175033,
+        "num": 175033,
+        "word": "奔跑吧阵容正式官宣",
+        "onboard_time": 1679473166,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159723,
+        "num": 159723,
+        "word": "牛迪",
+        "onboard_time": 1679482771,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 172643,
+        "num": 157604,
+        "word": "蔡徐坤暂别奔跑吧",
+        "onboard_time": 1679468967,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147811,
+        "num": 147811,
+        "word": "薛之谦郑州场抢票",
+        "onboard_time": 1679479348,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 146854,
+        "num": 146854,
+        "word": "浙江人接下来一个月的主食",
+        "onboard_time": 1679468008,
+        "rank": 38,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 132987,
+        "num": 132987,
+        "word": "驾校有你们真是了不起",
+        "onboard_time": 1679490449,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134023,
+        "num": 132953,
+        "word": "爸爸去哪儿星二代近照",
+        "onboard_time": 1679474609,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132634,
+        "num": 132634,
+        "word": "34岁女子未婚备孕二胎",
+        "onboard_time": 1679460691,
+        "rank": 41,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 131968,
+        "num": 131968,
+        "word": "鳄鱼吃了我的遥控器",
+        "onboard_time": 1679491114,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127728,
+        "num": 127728,
+        "word": "90后小伙经4个媒人相亲1个女孩",
+        "onboard_time": 1679491770,
+        "rank": 43,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 121976,
+        "num": 121976,
+        "word": "每日核酸阳性4000人以上",
+        "onboard_time": 1679458409,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121348,
+        "num": 121348,
+        "word": "终于知道这几个键干嘛用的了",
+        "onboard_time": 1679487148,
+        "rank": 45,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 119336,
+        "num": 119336,
+        "word": "泰国旅游 安全性",
+        "onboard_time": 1679461232,
+        "rank": 46,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 114117,
+        "num": 114117,
+        "word": "杨颖八个字介绍跑男11季主题",
+        "onboard_time": 1679475686,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112605,
+        "num": 112605,
+        "word": "白客被北大学子表白张颂文现场吃醋",
+        "onboard_time": 1679488890,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 100350,
+        "num": 100350,
+        "word": "造黄谣男生大学归来仍是高中毕业",
+        "onboard_time": 1679460156,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#以长远眼光看待和把握中俄关系#"
+    }
+  }
+}

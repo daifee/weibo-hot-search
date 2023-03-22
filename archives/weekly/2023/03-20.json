@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679491352551,
+  "endTime": 1679492022570,
   "band_list": [
     {
       "raw_hot": 7256959,
@@ -553,6 +553,14 @@
       "onboard_time": 1679394808,
       "rank": 41,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 1194395,
+      "num": 489821,
+      "word": "孔雪儿颅顶",
+      "onboard_time": 1679491289,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1182964,
@@ -1299,6 +1307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 760586,
+      "num": 536605,
+      "word": "女子应聘被质疑23岁用苹果手机",
+      "onboard_time": 1679489728,
+      "rank": 11,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 755267,
       "num": 755267,
       "word": "赛琳娜新剧婚纱照路透",
@@ -2003,14 +2019,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 548552,
-      "num": 484886,
-      "word": "女子应聘被质疑23岁用苹果手机",
-      "onboard_time": 1679489728,
-      "rank": 11,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 546752,
       "num": 546752,
       "word": "花花明天要上班了",
@@ -2115,20 +2123,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 519201,
+      "num": 519201,
+      "word": "四川一高校放假7天鼓励恋爱",
+      "onboard_time": 1679487868,
+      "rank": 38,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 518495,
       "num": 518495,
       "word": "N1",
       "onboard_time": 1679379567,
       "rank": 37,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 511213,
-      "num": 476821,
-      "word": "孔雪儿颅顶",
-      "onboard_time": 1679491289,
-      "rank": 12,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 510804,
@@ -2153,14 +2161,6 @@
       "onboard_time": 1679471187,
       "rank": 19,
       "category": "情感,教育"
-    },
-    {
-      "raw_hot": 501444,
-      "num": 501444,
-      "word": "四川一高校放假7天鼓励恋爱",
-      "onboard_time": 1679487868,
-      "rank": 38,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 501386,
@@ -2641,6 +2641,14 @@
       "onboard_time": 1679379447,
       "rank": 42,
       "category": "网红,社会新闻"
+    },
+    {
+      "raw_hot": 418200,
+      "num": 418200,
+      "word": "刘亦菲上海路透",
+      "onboard_time": 1679491590,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 417892,
@@ -4667,6 +4675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 205533,
+      "num": 205533,
+      "word": "原来韩国00后也在整顿职场",
+      "onboard_time": 1679490567,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 205457,
       "num": 205457,
       "word": "QQ音乐上线AI绘画功能",
@@ -4987,6 +5003,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 193975,
+      "num": 183121,
+      "word": "泰国游有平替吗",
+      "onboard_time": 1679491472,
+      "rank": 30,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 193949,
       "num": 193949,
       "word": "毛雪汪",
@@ -5121,14 +5145,6 @@
       "onboard_time": 1679483007,
       "rank": 26,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 187901,
-      "num": 187901,
-      "word": "原来韩国00后也在整顿职场",
-      "onboard_time": 1679490567,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 187063,
@@ -6251,6 +6267,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 131968,
+      "num": 131968,
+      "word": "鳄鱼吃了我的遥控器",
+      "onboard_time": 1679491114,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 131317,
       "num": 131317,
       "word": "春天的第一朵花",
@@ -6345,6 +6369,14 @@
       "onboard_time": 1679402308,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 127728,
+      "num": 127728,
+      "word": "90后小伙经4个媒人相亲1个女孩",
+      "onboard_time": 1679491770,
+      "rank": 43,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 127529,
@@ -6489,14 +6521,6 @@
       "onboard_time": 1679377828,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 118036,
-      "num": 118036,
-      "word": "鳄鱼吃了我的遥控器",
-      "onboard_time": 1679491114,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 117361,

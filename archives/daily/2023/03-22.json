@@ -1,6 +1,6 @@
 {
   "startTime": 1679415632915,
-  "endTime": 1679491352551,
+  "endTime": 1679492022570,
   "band_list": [
     {
       "raw_hot": 3268124,
@@ -161,6 +161,14 @@
       "onboard_time": 1679464168,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1194395,
+      "num": 489821,
+      "word": "孔雪儿颅顶",
+      "onboard_time": 1679491289,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1142885,
@@ -435,6 +443,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 760586,
+      "num": 536605,
+      "word": "女子应聘被质疑23岁用苹果手机",
+      "onboard_time": 1679489728,
+      "rank": 11,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 755267,
       "num": 755267,
       "word": "赛琳娜新剧婚纱照路透",
@@ -667,14 +683,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 548552,
-      "num": 484886,
-      "word": "女子应聘被质疑23岁用苹果手机",
-      "onboard_time": 1679489728,
-      "rank": 11,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 530482,
       "num": 530482,
       "word": "三亚游客租车被坑事件6人被刑拘",
@@ -707,12 +715,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 511213,
-      "num": 476821,
-      "word": "孔雪儿颅顶",
-      "onboard_time": 1679491289,
-      "rank": 12,
-      "category": "作品衍生"
+      "raw_hot": 519201,
+      "num": 519201,
+      "word": "四川一高校放假7天鼓励恋爱",
+      "onboard_time": 1679487868,
+      "rank": 38,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 510804,
@@ -745,14 +753,6 @@
       "onboard_time": 1679471187,
       "rank": 19,
       "category": "情感,教育"
-    },
-    {
-      "raw_hot": 501444,
-      "num": 501444,
-      "word": "四川一高校放假7天鼓励恋爱",
-      "onboard_time": 1679487868,
-      "rank": 38,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 500277,
@@ -873,6 +873,14 @@
       "onboard_time": 1679455290,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 418200,
+      "num": 418200,
+      "word": "刘亦菲上海路透",
+      "onboard_time": 1679491590,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 412074,
@@ -1555,6 +1563,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 205533,
+      "num": 205533,
+      "word": "原来韩国00后也在整顿职场",
+      "onboard_time": 1679490567,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 205283,
       "num": 204134,
       "word": "郑语安讲述离婚经历",
@@ -1651,6 +1667,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 193975,
+      "num": 183121,
+      "word": "泰国游有平替吗",
+      "onboard_time": 1679491472,
+      "rank": 30,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 193561,
       "num": 193561,
       "word": "四川广安遭遇大地震系造谣",
@@ -1697,14 +1721,6 @@
       "onboard_time": 1679483007,
       "rank": 26,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 187901,
-      "num": 187901,
-      "word": "原来韩国00后也在整顿职场",
-      "onboard_time": 1679490567,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 187004,
@@ -2011,6 +2027,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 131968,
+      "num": 131968,
+      "word": "鳄鱼吃了我的遥控器",
+      "onboard_time": 1679491114,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 129707,
       "num": 129707,
       "word": "打工人的早高峰是什么样的",
@@ -2025,6 +2049,14 @@
       "onboard_time": 1679408191,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127728,
+      "num": 127728,
+      "word": "90后小伙经4个媒人相亲1个女孩",
+      "onboard_time": 1679491770,
+      "rank": 43,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 127330,
@@ -2073,14 +2105,6 @@
       "onboard_time": 1679479290,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 118036,
-      "num": 118036,
-      "word": "鳄鱼吃了我的遥控器",
-      "onboard_time": 1679491114,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 117361,
