@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679470415663,
+  "endTime": 1679473334079,
   "band_list": [
     {
       "raw_hot": 7256959,
@@ -715,6 +715,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1023009,
+      "num": 665258,
+      "word": "造黄谣男生大学归来仍是高中毕业",
+      "onboard_time": 1679460156,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1019526,
       "num": 876788,
       "word": "杨紫范丞丞牵手路透",
@@ -779,12 +787,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 983810,
-      "num": 665258,
-      "word": "造黄谣男生大学归来仍是高中毕业",
-      "onboard_time": 1679460156,
-      "rank": 13,
-      "category": "社会新闻"
+      "raw_hot": 983224,
+      "num": 784485,
+      "word": "5名日本人入室抢劫两名中国人",
+      "onboard_time": 1679467167,
+      "rank": 16,
+      "category": "社会负面"
     },
     {
       "raw_hot": 982205,
@@ -1129,14 +1137,6 @@
       "onboard_time": 1679284950,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 784485,
-      "num": 784485,
-      "word": "5名日本人入室抢劫两名中国人",
-      "onboard_time": 1679467167,
-      "rank": 16,
-      "category": "社会负面"
     },
     {
       "raw_hot": 783564,
@@ -2139,6 +2139,22 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 449026,
+      "num": 449026,
+      "word": "2022微博之夜新面孔",
+      "onboard_time": 1679468367,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 448480,
+      "num": 269741,
+      "word": "千万不要在办公室里睡觉",
+      "onboard_time": 1679470226,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 447579,
       "num": 447579,
       "word": "王鹤棣晒照告别时宴",
@@ -2153,6 +2169,14 @@
       "onboard_time": 1679279488,
       "rank": 27,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 447492,
+      "num": 359193,
+      "word": "浙江人接下来一个月的主食",
+      "onboard_time": 1679468008,
+      "rank": 24,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 447083,
@@ -2208,6 +2232,14 @@
       "word": "阿信做梦都想删掉这段视频吧",
       "onboard_time": 1679301267,
       "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 437031,
+      "num": 437031,
+      "word": "周深说新一季跑男要逆袭成功",
+      "onboard_time": 1679472625,
+      "rank": 9,
       "category": "综艺"
     },
     {
@@ -2281,6 +2313,14 @@
       "onboard_time": 1679306788,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 428271,
+      "num": 428271,
+      "word": "周柯宇官宣加盟青春环游记",
+      "onboard_time": 1679472866,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 428047,
@@ -2411,12 +2451,12 @@
       "category": "情感,音乐"
     },
     {
-      "raw_hot": 401533,
-      "num": 359193,
-      "word": "浙江人接下来一个月的主食",
-      "onboard_time": 1679468008,
-      "rank": 24,
-      "category": "美食,幽默"
+      "raw_hot": 401709,
+      "num": 401709,
+      "word": "白敬亭井柏然别太爱",
+      "onboard_time": 1679470648,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 398599,
@@ -2441,6 +2481,14 @@
       "onboard_time": 1679386052,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 396497,
+      "num": 396497,
+      "word": "范丞丞给姚导画饼",
+      "onboard_time": 1679472509,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 396182,
@@ -2643,14 +2691,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 358532,
-      "num": 358532,
-      "word": "2022微博之夜新面孔",
-      "onboard_time": 1679468367,
-      "rank": 36,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 358512,
       "num": 358512,
       "word": "当身边恋爱长跑的朋友分手后",
@@ -2748,7 +2788,7 @@
     },
     {
       "raw_hot": 345396,
-      "num": 345396,
+      "num": 627555,
       "word": "中俄元首强调通过和谈解决乌克兰危机",
       "onboard_time": 1679442205,
       "rank": 19,
@@ -3377,6 +3417,14 @@
       "onboard_time": 1679294486,
       "rank": 23,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 274734,
+      "num": 274734,
+      "word": "大学生之间莫名其妙的信任",
+      "onboard_time": 1679471187,
+      "rank": 19,
+      "category": "情感,教育"
     },
     {
       "raw_hot": 274719,
@@ -4099,6 +4147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 213805,
+      "num": 213805,
+      "word": "TTG严正公告",
+      "onboard_time": 1679471909,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 209609,
       "num": 209609,
       "word": "世界水日",
@@ -4811,6 +4867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177408,
+      "num": 177408,
+      "word": "撸猫时的可爱侵略症",
+      "onboard_time": 1679471606,
+      "rank": 36,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 175260,
       "num": 175260,
       "word": "滔式运营",
@@ -5129,6 +5193,14 @@
       "onboard_time": 1679414130,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 157222,
+      "num": 157222,
+      "word": "奔跑吧阵容正式官宣",
+      "onboard_time": 1679473166,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 157157,
@@ -5547,6 +5619,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 134280,
+      "num": 134280,
+      "word": "安又琪落日海边大片",
+      "onboard_time": 1679471786,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 133612,
       "num": 133612,
       "word": "王鹤棣杀青灯光秀",
@@ -5771,14 +5851,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 117258,
-      "num": 117258,
-      "word": "千万不要在办公室里睡觉",
-      "onboard_time": 1679470226,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 116171,
       "num": 116171,
       "word": "山东基建巨无霸有多硬核",
@@ -5969,6 +6041,14 @@
       "onboard_time": 1679267901,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98592,
+      "num": 615634,
+      "word": "中国空间站带你看这世界的山与海",
+      "onboard_time": 1679471068,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 97609,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1679473334079,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 119061,
+        "num": 627555,
+        "word": "中俄元首强调通过和谈解决乌克兰危机",
+        "onboard_time": 1679442205,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 548147,
+        "num": 621444,
+        "word": "谷爱凌官宣出席微博之夜",
+        "onboard_time": 1679467348,
+        "rank": 1,
+        "category": "作品衍生,体育"
+      },
+      {
+        "raw_hot": 98592,
+        "num": 615634,
+        "word": "中国空间站带你看这世界的山与海",
+        "onboard_time": 1679471068,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 983224,
+        "num": 603894,
+        "word": "5名日本人入室抢劫两名中国人",
+        "onboard_time": 1679467167,
+        "rank": 3,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 778464,
+        "num": 591508,
+        "word": "泰国旅游 安全性",
+        "onboard_time": 1679461232,
+        "rank": 4,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 693381,
+        "num": 569350,
+        "word": "Angelababy片场摔倒",
+        "onboard_time": 1679464709,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 568612,
+        "num": 568612,
+        "word": "妈妈的临终遗言是两首儿歌",
+        "onboard_time": 1679459913,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 554087,
+        "num": 554087,
+        "word": "4名学生被引诱至缅甸全程经历",
+        "onboard_time": 1679464168,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 449026,
+        "num": 449026,
+        "word": "2022微博之夜新面孔",
+        "onboard_time": 1679468367,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 437031,
+        "num": 437031,
+        "word": "周深说新一季跑男要逆袭成功",
+        "onboard_time": 1679472625,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1056930,
+        "num": 435004,
+        "word": "白鹿问网友嗑哪儿了",
+        "onboard_time": 1679470287,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1055796,
+        "num": 434620,
+        "word": "蔡徐坤暂别奔跑吧",
+        "onboard_time": 1679468967,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1023009,
+        "num": 431892,
+        "word": "造黄谣男生大学归来仍是高中毕业",
+        "onboard_time": 1679460156,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 428271,
+        "num": 428271,
+        "word": "周柯宇官宣加盟青春环游记",
+        "onboard_time": 1679472866,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 401709,
+        "num": 401709,
+        "word": "白敬亭井柏然别太爱",
+        "onboard_time": 1679470648,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 396497,
+        "num": 396497,
+        "word": "范丞丞给姚导画饼",
+        "onboard_time": 1679472509,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 310320,
+        "num": 310320,
+        "word": "高校按就餐记录隐去姓名给学生打饭钱",
+        "onboard_time": 1679461052,
+        "rank": 16,
+        "category": "社会正能量,教育"
+      },
+      {
+        "raw_hot": 375883,
+        "num": 301263,
+        "word": "网传宋雨琦将回归奔跑吧",
+        "onboard_time": 1679468427,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 278421,
+        "num": 278421,
+        "word": "N2",
+        "onboard_time": 1679468067,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 274734,
+        "num": 274734,
+        "word": "大学生之间莫名其妙的信任",
+        "onboard_time": 1679471187,
+        "rank": 19,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 734390,
+        "num": 272226,
+        "word": "34岁女子未婚备孕二胎",
+        "onboard_time": 1679460691,
+        "rank": 20,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 448480,
+        "num": 269741,
+        "word": "千万不要在办公室里睡觉",
+        "onboard_time": 1679470226,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 447492,
+        "num": 266683,
+        "word": "浙江人接下来一个月的主食",
+        "onboard_time": 1679468008,
+        "rank": 22,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 329781,
+        "num": 260987,
+        "word": "张艺兴说三四月的事八九月自有答案",
+        "onboard_time": 1679467647,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 324433,
+        "num": 257794,
+        "word": "金智秀solo预告引起争议",
+        "onboard_time": 1679460691,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 307814,
+        "num": 254604,
+        "word": "郭敬明审美有点东西",
+        "onboard_time": 1679458048,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 252968,
+        "num": 252968,
+        "word": "跑男",
+        "onboard_time": 1679466268,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252643,
+        "num": 252643,
+        "word": "女大学生把床垫当成被子盖了一年",
+        "onboard_time": 1679462251,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 226432,
+        "num": 226432,
+        "word": "迪丽热巴微博之夜正式官宣",
+        "onboard_time": 1679456068,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 290923,
+        "num": 225100,
+        "word": "马原",
+        "onboard_time": 1679462068,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 847965,
+        "num": 224806,
+        "word": "每日核酸阳性4000人以上",
+        "onboard_time": 1679458409,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222840,
+        "num": 222840,
+        "word": "奥利奥",
+        "onboard_time": 1679453906,
+        "rank": 31,
+        "category": "美食,艺人"
+      },
+      {
+        "raw_hot": 217242,
+        "num": 217242,
+        "word": "只有汪峰在打折",
+        "onboard_time": 1679466746,
+        "rank": 32,
+        "category": "音乐,音乐"
+      },
+      {
+        "raw_hot": 213805,
+        "num": 213805,
+        "word": "TTG严正公告",
+        "onboard_time": 1679471909,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 189484,
+        "num": 189484,
+        "word": "山东省考",
+        "onboard_time": 1679459431,
+        "rank": 34,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 188459,
+        "num": 188459,
+        "word": "缅北逃亡者建议单身别去东南亚旅游",
+        "onboard_time": 1679456128,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177408,
+        "num": 177408,
+        "word": "撸猫时的可爱侵略症",
+        "onboard_time": 1679471606,
+        "rank": 36,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 175440,
+        "num": 175440,
+        "word": "朱一龙出发泰国机场路透",
+        "onboard_time": 1679465189,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157272,
+        "num": 157272,
+        "word": "赛琳娜新剧婚纱照路透",
+        "onboard_time": 1679458292,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 157222,
+        "num": 157222,
+        "word": "奔跑吧阵容正式官宣",
+        "onboard_time": 1679473166,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155606,
+        "num": 155606,
+        "word": "SM寻找呕是谁",
+        "onboard_time": 1679464768,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151124,
+        "num": 151124,
+        "word": "安徽省考",
+        "onboard_time": 1679461832,
+        "rank": 41,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 144513,
+        "num": 144513,
+        "word": "花花今天上班了",
+        "onboard_time": 1679454749,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142155,
+        "num": 142155,
+        "word": "扬州炒饭雪糕和老干妈雪糕",
+        "onboard_time": 1679465847,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 139085,
+        "num": 139085,
+        "word": "急诊科唯一可以信的话",
+        "onboard_time": 1679459072,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 136347,
+        "num": 136347,
+        "word": "苏醒张远都把C位让给王铮亮",
+        "onboard_time": 1679460933,
+        "rank": 45,
+        "category": "影视,音乐"
+      },
+      {
+        "raw_hot": 134280,
+        "num": 134280,
+        "word": "安又琪落日海边大片",
+        "onboard_time": 1679471786,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 133739,
+        "num": 133739,
+        "word": "你会坚持不健康的恋爱关系吗",
+        "onboard_time": 1679465908,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133355,
+        "num": 133355,
+        "word": "张若昀听到木偶主题的反应",
+        "onboard_time": 1679468067,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124634,
+        "num": 124634,
+        "word": "严浩翔考科三视频",
+        "onboard_time": 1679468607,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中俄元首签署联合声明#"
+    }
+  }
+}
