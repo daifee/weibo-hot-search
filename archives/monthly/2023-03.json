@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679449679185,
+  "endTime": 1679452482610,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -713,6 +713,14 @@
       "onboard_time": 1679356406,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2222724,
+      "num": 365176,
+      "word": "中科大取消造谣男生录取资格",
+      "onboard_time": 1679451985,
+      "rank": 10,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 2213152,
@@ -5385,6 +5393,14 @@
       "onboard_time": 1679307930,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 922944,
+      "num": 353288,
+      "word": "宋承宪胖了",
+      "onboard_time": 1679449529,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 922524,
@@ -10545,6 +10561,14 @@
       "onboard_time": 1678878748,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 590759,
+      "num": 483177,
+      "word": "教育厅回应浙江教育网涉黄",
+      "onboard_time": 1679448090,
+      "rank": 44,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 590721,
@@ -16539,6 +16563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 402843,
+      "num": 402843,
+      "word": "追星女孩的抢票手速",
+      "onboard_time": 1679450607,
+      "rank": 8,
+      "category": "情感,音乐"
+    },
+    {
       "raw_hot": 402560,
       "num": 402560,
       "word": "建议实现适龄女性免费HPV疫苗接种",
@@ -17721,6 +17753,14 @@
       "onboard_time": 1678006646,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 375329,
+      "num": 344228,
+      "word": "马嘉祺带拍摄道具回学校",
+      "onboard_time": 1679451866,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 374661,
@@ -19411,6 +19451,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 343231,
+      "num": 343231,
+      "word": "美国队长4开拍",
+      "onboard_time": 1679449707,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 343153,
       "num": 343153,
       "word": "夏花番外HE",
@@ -20705,14 +20753,6 @@
       "onboard_time": 1678712426,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 317890,
-      "num": 317890,
-      "word": "教育厅回应浙江教育网涉黄",
-      "onboard_time": 1679448090,
-      "rank": 44,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 317864,
@@ -22147,14 +22187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 292364,
-      "num": 292364,
-      "word": "宋承宪胖了",
-      "onboard_time": 1679449529,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 292096,
       "num": 292096,
       "word": "吴谨言千禧辣妹妆",
@@ -22537,6 +22569,14 @@
       "onboard_time": 1677631110,
       "rank": 21,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 285796,
+      "num": 285796,
+      "word": "天津沙尘暴",
+      "onboard_time": 1679448928,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 285453,
@@ -25483,6 +25523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 239882,
+      "num": 239882,
+      "word": "鞠婧祎抹胸小黑裙拍摄路透",
+      "onboard_time": 1679449647,
+      "rank": 49,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 239800,
       "num": 239800,
       "word": "超导",
@@ -27363,6 +27411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 218682,
+      "num": 218682,
+      "word": "内蒙古沙尘暴天空变橙色",
+      "onboard_time": 1679449107,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 218406,
       "num": 495097,
       "word": "今年第二场部长通道直播",
@@ -28128,6 +28184,14 @@
       "word": "浙江渔民误捕疑海猪后果断放生",
       "onboard_time": 1678044072,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 209609,
+      "num": 209609,
+      "word": "世界水日",
+      "onboard_time": 1679452286,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -29641,6 +29705,14 @@
       "onboard_time": 1679365106,
       "rank": 31,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 200921,
+      "num": 200921,
+      "word": "T1全员入选LCK一阵",
+      "onboard_time": 1679451446,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 200920,
@@ -36579,6 +36651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 145061,
+      "num": 145061,
+      "word": "周扬青的流水账",
+      "onboard_time": 1679449765,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 144959,
       "num": 144959,
       "word": "T1晋级",
@@ -37779,14 +37859,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 135164,
-      "num": 135164,
-      "word": "内蒙古沙尘暴天空变橙色",
-      "onboard_time": 1679449107,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 135064,
       "num": 135064,
       "word": "看得出外公已经尽力了",
@@ -38264,14 +38336,6 @@
       "word": "徐工介绍流浪地球2的特殊演员",
       "onboard_time": 1677977422,
       "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 130899,
-      "num": 130899,
-      "word": "天津沙尘暴",
-      "onboard_time": 1679448928,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -39433,14 +39497,6 @@
       "onboard_time": 1679011406,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 117910,
-      "num": 117910,
-      "word": "鞠婧祎抹胸小黑裙拍摄路透",
-      "onboard_time": 1679449647,
-      "rank": 49,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 117673,
@@ -40787,6 +40843,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 104142,
+      "num": 126792,
+      "word": "春天有多美",
+      "onboard_time": 1677985046,
+      "rank": 47,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 104139,
       "num": 104139,
       "word": "成毅巴黎时装周停车场大片",
@@ -41113,14 +41177,6 @@
       "onboard_time": 1678194147,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 99212,
-      "num": 126792,
-      "word": "春天有多美",
-      "onboard_time": 1677985046,
-      "rank": 47,
-      "category": "旅游"
     },
     {
       "raw_hot": 99180,
