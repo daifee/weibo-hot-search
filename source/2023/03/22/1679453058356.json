@@ -1,0 +1,410 @@
+{
+  "runTime": 1679453058356,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1119163,
+        "num": 1119163,
+        "word": "中俄元首签署联合声明",
+        "onboard_time": 1679441965,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 462053,
+        "num": 462053,
+        "word": "高叶狂飙后首个常驻综艺",
+        "onboard_time": 1679409572,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15395,
+        "num": 460868,
+        "word": "以中国新发展给世界带来新机遇",
+        "onboard_time": 1679403808,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 613018,
+        "num": 448052,
+        "word": "22岁男子被骗到缅甸偷偷发信息求救",
+        "onboard_time": 1679442024,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 587180,
+        "num": 444503,
+        "word": "教育厅回应浙江教育网涉黄",
+        "onboard_time": 1679448090,
+        "rank": 4,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 515366,
+        "num": 438773,
+        "word": "长春下泥",
+        "onboard_time": 1679445450,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 431745,
+        "num": 431745,
+        "word": "来自天堂的婚戒和遗书",
+        "onboard_time": 1679442084,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 410537,
+        "num": 410537,
+        "word": "北京沙尘暴",
+        "onboard_time": 1679440521,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 374824,
+        "num": 374824,
+        "word": "追星女孩的抢票手速",
+        "onboard_time": 1679450607,
+        "rank": 8,
+        "category": "情感,音乐"
+      },
+      {
+        "raw_hot": 339710,
+        "num": 339710,
+        "word": "美国队长4开拍",
+        "onboard_time": 1679449707,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 3003512,
+        "num": 336631,
+        "word": "中科大取消造谣男生录取资格",
+        "onboard_time": 1679451985,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1113411,
+        "num": 334209,
+        "word": "14岁康康近照",
+        "onboard_time": 1679447428,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1196875,
+        "num": 328937,
+        "word": "缅甸",
+        "onboard_time": 1679446710,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 862553,
+        "num": 326669,
+        "word": "宋承宪胖了",
+        "onboard_time": 1679449529,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 444348,
+        "num": 322980,
+        "word": "开门杀致人死亡女子被判9个月",
+        "onboard_time": 1679404649,
+        "rank": 14,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 427947,
+        "num": 318653,
+        "word": "美七777",
+        "onboard_time": 1679441004,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 373859,
+        "num": 317127,
+        "word": "马嘉祺带拍摄道具回学校",
+        "onboard_time": 1679451866,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 314125,
+        "num": 314125,
+        "word": "舒淇 松弛明媚",
+        "onboard_time": 1679442084,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 310366,
+        "num": 310366,
+        "word": "上海地铁",
+        "onboard_time": 1679447909,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299362,
+        "num": 299362,
+        "word": "中国富豪美国瑞士取钱涌入香港真相",
+        "onboard_time": 1679447369,
+        "rank": 19,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 298869,
+        "num": 298869,
+        "word": "孙彩瑛因衬衫图案发文道歉",
+        "onboard_time": 1679441844,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287950,
+        "num": 287950,
+        "word": "天津沙尘暴",
+        "onboard_time": 1679448928,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266849,
+        "num": 266849,
+        "word": "奔跑吧",
+        "onboard_time": 1679442626,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250063,
+        "num": 250063,
+        "word": "曝大量华人资产从瑞士美国撤离",
+        "onboard_time": 1679411491,
+        "rank": 23,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 245780,
+        "num": 245780,
+        "word": "鞠婧祎抹胸小黑裙拍摄路透",
+        "onboard_time": 1679449647,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 226073,
+        "num": 226073,
+        "word": "张兰称正在受资本霸凌",
+        "onboard_time": 1679444129,
+        "rank": 25,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 224088,
+        "num": 224088,
+        "word": "内蒙古沙尘暴天空变橙色",
+        "onboard_time": 1679449107,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214378,
+        "num": 214378,
+        "word": "Xiaohu喊话极端粉丝",
+        "onboard_time": 1679441724,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 209948,
+        "num": 209948,
+        "word": "男子在离婚冷静期买房前妻要求分割",
+        "onboard_time": 1679424434,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208148,
+        "num": 208148,
+        "word": "T1全员入选LCK一阵",
+        "onboard_time": 1679451446,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 209243,
+        "num": 206873,
+        "word": "归路编剧脑洞",
+        "onboard_time": 1679452528,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 202452,
+        "num": 202452,
+        "word": "爸爸离世后5岁娃深夜洗鞋妈妈泪奔",
+        "onboard_time": 1679408612,
+        "rank": 31,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 189416,
+        "num": 189416,
+        "word": "世界水日",
+        "onboard_time": 1679452286,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178247,
+        "num": 178247,
+        "word": "南京邮政回应243万存款被挪用",
+        "onboard_time": 1679445808,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170672,
+        "num": 170672,
+        "word": "长期侧睡对脸型的影响有多大",
+        "onboard_time": 1679410955,
+        "rank": 34,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 161953,
+        "num": 161953,
+        "word": "公交司机急刹车致乘客死亡获刑",
+        "onboard_time": 1679424314,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161086,
+        "num": 161086,
+        "word": "少爷和我又见面了",
+        "onboard_time": 1679412270,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150505,
+        "num": 150505,
+        "word": "父亲离世后女生立遗嘱将财产给妹妹",
+        "onboard_time": 1679414427,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143629,
+        "num": 143629,
+        "word": "彭十六",
+        "onboard_time": 1679411133,
+        "rank": 38,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 142807,
+        "num": 142807,
+        "word": "舌头放对位置真的很重要",
+        "onboard_time": 1679408011,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138003,
+        "num": 138003,
+        "word": "男子将200万房子80元卖了",
+        "onboard_time": 1679400986,
+        "rank": 40,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 137372,
+        "num": 137372,
+        "word": "周扬青的流水账",
+        "onboard_time": 1679449765,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130571,
+        "num": 130571,
+        "word": "韩剧黑暗荣耀",
+        "onboard_time": 1679408191,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 124774,
+        "num": 124774,
+        "word": "四川广安遭遇大地震系造谣",
+        "onboard_time": 1679441423,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122120,
+        "num": 122120,
+        "word": "贵与便宜的区别",
+        "onboard_time": 1679442626,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120014,
+        "num": 120014,
+        "word": "青春环游记制片人确认徐明浩加盟",
+        "onboard_time": 1679408911,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112563,
+        "num": 112563,
+        "word": "刘宇宁直播回应加戏",
+        "onboard_time": 1679447009,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108436,
+        "num": 108436,
+        "word": "春天有多美",
+        "onboard_time": 1679452165,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 107257,
+        "num": 107257,
+        "word": "彭十六辟谣",
+        "onboard_time": 1679441304,
+        "rank": 48,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 106594,
+        "num": 106594,
+        "word": "喻言练习水上芭蕾vlog",
+        "onboard_time": 1679446949,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平谈调查研究#"
+    }
+  }
+}

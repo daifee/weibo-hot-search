@@ -1,9 +1,9 @@
 {
   "startTime": 1679415632915,
-  "endTime": 1679452482610,
+  "endTime": 1679453058356,
   "band_list": [
     {
-      "raw_hot": 2222724,
+      "raw_hot": 3003512,
       "num": 365176,
       "word": "中科大取消造谣男生录取资格",
       "onboard_time": 1679451985,
@@ -379,8 +379,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 285796,
-      "num": 285796,
+      "raw_hot": 287950,
+      "num": 287950,
       "word": "天津沙尘暴",
       "onboard_time": 1679448928,
       "rank": 45,
@@ -419,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 245780,
+      "num": 245780,
+      "word": "鞠婧祎抹胸小黑裙拍摄路透",
+      "onboard_time": 1679449647,
+      "rank": 49,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 245480,
       "num": 191808,
       "word": "官方通报男孩被家长打骂浑身淤青",
@@ -435,14 +443,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 239882,
-      "num": 239882,
-      "word": "鞠婧祎抹胸小黑裙拍摄路透",
-      "onboard_time": 1679449647,
-      "rank": 49,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 238350,
       "num": 238350,
       "word": "为什么说爬山检验感情",
@@ -451,20 +451,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 224088,
+      "num": 224088,
+      "word": "内蒙古沙尘暴天空变橙色",
+      "onboard_time": 1679449107,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 222960,
       "num": 222960,
       "word": "贵与便宜的区别",
       "onboard_time": 1679442626,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 218682,
-      "num": 218682,
-      "word": "内蒙古沙尘暴天空变橙色",
-      "onboard_time": 1679449107,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 214315,
@@ -483,20 +483,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 209243,
+      "num": 206873,
+      "word": "归路编剧脑洞",
+      "onboard_time": 1679452528,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 208148,
+      "num": 208148,
+      "word": "T1全员入选LCK一阵",
+      "onboard_time": 1679451446,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 207801,
       "num": 207801,
       "word": "马丁雅克称美国不应固守世界第一执念",
       "onboard_time": 1679448749,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 200921,
-      "num": 200921,
-      "word": "T1全员入选LCK一阵",
-      "onboard_time": 1679451446,
-      "rank": 31,
-      "category": "游戏"
     },
     {
       "raw_hot": 197179,
@@ -683,6 +691,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 108436,
+      "num": 108436,
+      "word": "春天有多美",
+      "onboard_time": 1679452165,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 106439,
       "num": 106439,
       "word": "调解双胞胎打架",
@@ -705,14 +721,6 @@
       "onboard_time": 1679447369,
       "rank": 47,
       "category": "财经"
-    },
-    {
-      "raw_hot": 104142,
-      "num": 104142,
-      "word": "春天有多美",
-      "onboard_time": 1679452165,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 101807,

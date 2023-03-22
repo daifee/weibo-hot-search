@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679452482610,
+  "endTime": 1679453058356,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -281,6 +281,14 @@
       "onboard_time": 1679186124,
       "rank": 10,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 3003512,
+      "num": 365176,
+      "word": "中科大取消造谣男生录取资格",
+      "onboard_time": 1679451985,
+      "rank": 10,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 2989484,
@@ -713,14 +721,6 @@
       "onboard_time": 1679356406,
       "rank": 20,
       "category": "体育"
-    },
-    {
-      "raw_hot": 2222724,
-      "num": 365176,
-      "word": "中科大取消造谣男生录取资格",
-      "onboard_time": 1679451985,
-      "rank": 10,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 2213152,
@@ -22451,6 +22451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 287950,
+      "num": 287950,
+      "word": "天津沙尘暴",
+      "onboard_time": 1679448928,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 287731,
       "num": 287731,
       "word": "刘若英再唱后来",
@@ -22569,14 +22577,6 @@
       "onboard_time": 1677631110,
       "rank": 21,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 285796,
-      "num": 285796,
-      "word": "天津沙尘暴",
-      "onboard_time": 1679448928,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 285453,
@@ -25027,6 +25027,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 245780,
+      "num": 245780,
+      "word": "鞠婧祎抹胸小黑裙拍摄路透",
+      "onboard_time": 1679449647,
+      "rank": 49,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 245587,
       "num": 191838,
       "word": "黑暗荣耀2登网飞电视剧全球榜第二",
@@ -25521,14 +25529,6 @@
       "onboard_time": 1678671565,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 239882,
-      "num": 239882,
-      "word": "鞠婧祎抹胸小黑裙拍摄路透",
-      "onboard_time": 1679449647,
-      "rank": 49,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 239800,
@@ -26867,6 +26867,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 224088,
+      "num": 224088,
+      "word": "内蒙古沙尘暴天空变橙色",
+      "onboard_time": 1679449107,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 224064,
       "num": 224064,
       "word": "IVE回归概念预告",
@@ -27409,14 +27417,6 @@
       "onboard_time": 1678618465,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 218682,
-      "num": 218682,
-      "word": "内蒙古沙尘暴天空变橙色",
-      "onboard_time": 1679449107,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 218406,
@@ -28259,6 +28259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 209243,
+      "num": 206873,
+      "word": "归路编剧脑洞",
+      "onboard_time": 1679452528,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 209232,
       "num": 209232,
       "word": "傅韵哲参加北电三试",
@@ -28353,6 +28361,14 @@
       "onboard_time": 1678446806,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 208148,
+      "num": 208148,
+      "word": "T1全员入选LCK一阵",
+      "onboard_time": 1679451446,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 208065,
@@ -29705,14 +29721,6 @@
       "onboard_time": 1679365106,
       "rank": 31,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 200921,
-      "num": 200921,
-      "word": "T1全员入选LCK一阵",
-      "onboard_time": 1679451446,
-      "rank": 31,
-      "category": "游戏"
     },
     {
       "raw_hot": 200920,
@@ -40403,6 +40411,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 108436,
+      "num": 126792,
+      "word": "春天有多美",
+      "onboard_time": 1677985046,
+      "rank": 47,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 108394,
       "num": 108394,
       "word": "维蒂尼亚空门不进",
@@ -40841,14 +40857,6 @@
       "onboard_time": 1678185628,
       "rank": 43,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 104142,
-      "num": 126792,
-      "word": "春天有多美",
-      "onboard_time": 1677985046,
-      "rank": 47,
-      "category": "旅游"
     },
     {
       "raw_hot": 104139,
