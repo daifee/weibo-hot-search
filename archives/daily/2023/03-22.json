@@ -1,6 +1,6 @@
 {
   "startTime": 1679415632915,
-  "endTime": 1679483695579,
+  "endTime": 1679484802337,
   "band_list": [
     {
       "raw_hot": 3268124,
@@ -251,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 986249,
+      "num": 419518,
+      "word": "杨紫蓝色小香风套装",
+      "onboard_time": 1679483068,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 983224,
       "num": 784485,
       "word": "5名日本人入室抢劫两名中国人",
@@ -361,6 +369,14 @@
       "onboard_time": 1679459913,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 781075,
+      "num": 394588,
+      "word": "牛迪",
+      "onboard_time": 1679482771,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 776195,
@@ -571,28 +587,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 580133,
-      "num": 419518,
-      "word": "杨紫蓝色小香风套装",
-      "onboard_time": 1679483068,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 577993,
       "num": 577993,
       "word": "乔治360度暴扣",
       "onboard_time": 1679460213,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 568778,
-      "num": 394588,
-      "word": "牛迪",
-      "onboard_time": 1679482771,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 555776,
@@ -625,6 +625,14 @@
       "onboard_time": 1679441844,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 510804,
+      "num": 510804,
+      "word": "进到一个全是托的群",
+      "onboard_time": 1679481328,
+      "rank": 9,
+      "category": "幽默"
     },
     {
       "raw_hot": 506303,
@@ -689,14 +697,6 @@
       "onboard_time": 1679475686,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 460977,
-      "num": 460977,
-      "word": "进到一个全是托的群",
-      "onboard_time": 1679481328,
-      "rank": 9,
-      "category": "幽默"
     },
     {
       "raw_hot": 460794,
@@ -1099,6 +1099,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 281600,
+      "num": 281600,
+      "word": "小说影视化成功典范",
+      "onboard_time": 1679483908,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 278820,
       "num": 278820,
       "word": "王晶回应被冯淬帆公开痛骂",
@@ -1113,6 +1121,14 @@
       "onboard_time": 1679451446,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 277002,
+      "num": 261594,
+      "word": "康康诺一经常聚会",
+      "onboard_time": 1679484269,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 274719,
@@ -1152,6 +1168,22 @@
       "word": "韩剧黑暗荣耀",
       "onboard_time": 1679408191,
       "rank": 17,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 262502,
+      "num": 304198,
+      "word": "女孩将小男孩扔井中双方家长和解",
+      "onboard_time": 1679483126,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 258804,
+      "num": 258804,
+      "word": "狂飙京海大佬害羞了",
+      "onboard_time": 1679483187,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -1251,14 +1283,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 241286,
-      "num": 304198,
-      "word": "女孩将小男孩扔井中双方家长和解",
-      "onboard_time": 1679483126,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 238350,
       "num": 238350,
       "word": "为什么说爬山检验感情",
@@ -1280,6 +1304,14 @@
       "word": "他是谁卫国平被举报",
       "onboard_time": 1679483187,
       "rank": 28,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 233175,
+      "num": 233175,
+      "word": "何昶希在女生和女神中选择了女装",
+      "onboard_time": 1679484510,
+      "rank": 27,
       "category": "影视"
     },
     {
@@ -1339,6 +1371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 214587,
+      "num": 289980,
+      "word": "RNGM春季赛淘汰",
+      "onboard_time": 1679482589,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 214315,
       "num": 150596,
       "word": "张杰直播",
@@ -1379,14 +1419,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 206487,
-      "num": 289980,
-      "word": "RNGM春季赛淘汰",
-      "onboard_time": 1679482589,
-      "rank": 19,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 205871,
       "num": 205871,
       "word": "90花红毯造型回顾",
@@ -1409,14 +1441,6 @@
       "onboard_time": 1679465607,
       "rank": 33,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 204380,
-      "num": 204380,
-      "word": "狂飙京海大佬害羞了",
-      "onboard_time": 1679483187,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 201171,
@@ -1659,6 +1683,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 155967,
+      "num": 155967,
+      "word": "钢化膜炸鸡腿",
+      "onboard_time": 1679483607,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 154059,
       "num": 154059,
       "word": "怎么看对造黄谣男生处置结果",
@@ -1779,6 +1811,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 126674,
+      "num": 126674,
+      "word": "春天就是要穿小碎花",
+      "onboard_time": 1679484452,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 124338,
       "num": 124338,
       "word": "戚薇如果爱忘了MV",
@@ -1793,6 +1833,14 @@
       "onboard_time": 1679479290,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 117361,
+      "num": 147776,
+      "word": "当代人每天的精神状态",
+      "onboard_time": 1679481328,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 116171,
@@ -1833,6 +1881,14 @@
       "onboard_time": 1679411370,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 109131,
+      "num": 109131,
+      "word": "有什么是你谈了恋爱才明白的",
+      "onboard_time": 1679482947,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 108436,

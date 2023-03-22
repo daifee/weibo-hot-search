@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679483695579,
+  "endTime": 1679484802337,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -5001,6 +5001,14 @@
       "onboard_time": 1678407387,
       "rank": 10,
       "category": "情感,教育"
+    },
+    {
+      "raw_hot": 986249,
+      "num": 419518,
+      "word": "杨紫蓝色小香风套装",
+      "onboard_time": 1679483068,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 986186,
@@ -11163,14 +11171,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 580133,
-      "num": 419518,
-      "word": "杨紫蓝色小香风套装",
-      "onboard_time": 1679483068,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 580008,
       "num": 580008,
       "word": "霉霉演唱会游泳",
@@ -13267,6 +13267,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 510804,
+      "num": 510804,
+      "word": "进到一个全是托的群",
+      "onboard_time": 1679481328,
+      "rank": 9,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 510787,
       "num": 510787,
       "word": "游客私闯熊猫园逗引大熊猫",
@@ -14977,14 +14985,6 @@
       "onboard_time": 1679022088,
       "rank": 28,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 460977,
-      "num": 460977,
-      "word": "进到一个全是托的群",
-      "onboard_time": 1679481328,
-      "rank": 9,
-      "category": "幽默"
     },
     {
       "raw_hot": 460861,
@@ -23523,6 +23523,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 281600,
+      "num": 281600,
+      "word": "小说影视化成功典范",
+      "onboard_time": 1679483908,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 281594,
       "num": 281594,
       "word": "新Bing可以帮找序列号激活Win11",
@@ -23801,6 +23809,14 @@
       "onboard_time": 1678921880,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 277002,
+      "num": 261594,
+      "word": "康康诺一经常聚会",
+      "onboard_time": 1679484269,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 276983,
@@ -24795,6 +24811,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 262502,
+      "num": 304198,
+      "word": "女孩将小男孩扔井中双方家长和解",
+      "onboard_time": 1679483126,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 262495,
       "num": 262495,
       "word": "张大大关注周柯宇的锁骨",
@@ -24969,6 +24993,14 @@
       "onboard_time": 1678079845,
       "rank": 40,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 258804,
+      "num": 258804,
+      "word": "狂飙京海大佬害羞了",
+      "onboard_time": 1679483187,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 258772,
@@ -26219,14 +26251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 241286,
-      "num": 304198,
-      "word": "女孩将小男孩扔井中双方家长和解",
-      "onboard_time": 1679483126,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 241069,
       "num": 241069,
       "word": "宋旻浩将于3月24日入伍",
@@ -26697,6 +26721,14 @@
       "onboard_time": 1679066131,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 233175,
+      "num": 233175,
+      "word": "何昶希在女生和女神中选择了女装",
+      "onboard_time": 1679484510,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 233141,
@@ -28643,6 +28675,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 214587,
+      "num": 289980,
+      "word": "RNGM春季赛淘汰",
+      "onboard_time": 1679482589,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 214536,
       "num": 209549,
       "word": "李兰迪陈星旭你好星期六合体",
@@ -29523,14 +29563,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 206487,
-      "num": 289980,
-      "word": "RNGM春季赛淘汰",
-      "onboard_time": 1679482589,
-      "rank": 19,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 206482,
       "num": 206482,
       "word": "华晨宇成都演唱会首场今日预售",
@@ -29937,14 +29969,6 @@
       "onboard_time": 1677927986,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 204380,
-      "num": 204380,
-      "word": "狂飙京海大佬害羞了",
-      "onboard_time": 1679483187,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 204365,
@@ -36483,6 +36507,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 155967,
+      "num": 155967,
+      "word": "钢化膜炸鸡腿",
+      "onboard_time": 1679483607,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 155944,
       "num": 155944,
       "word": "OMG偷家获胜",
@@ -39867,6 +39899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126674,
+      "num": 126674,
+      "word": "春天就是要穿小碎花",
+      "onboard_time": 1679484452,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 126668,
       "num": 126668,
       "word": "全员美人的影视剧",
@@ -40649,6 +40689,14 @@
       "onboard_time": 1678963228,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 117361,
+      "num": 147776,
+      "word": "当代人每天的精神状态",
+      "onboard_time": 1679481328,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 117324,
@@ -41449,6 +41497,14 @@
       "onboard_time": 1678403720,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109131,
+      "num": 109131,
+      "word": "有什么是你谈了恋爱才明白的",
+      "onboard_time": 1679482947,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 109087,
