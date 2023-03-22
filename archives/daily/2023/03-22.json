@@ -1,7 +1,15 @@
 {
   "startTime": 1679415632915,
-  "endTime": 1679459762826,
+  "endTime": 1679462237597,
   "band_list": [
+    {
+      "raw_hot": 3268124,
+      "num": 1401117,
+      "word": "每日核酸阳性4000人以上",
+      "onboard_time": 1679458409,
+      "rank": 24,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 3003512,
       "num": 746340,
@@ -19,12 +27,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 1980261,
-      "num": 1247925,
-      "word": "每日核酸阳性4000人以上",
-      "onboard_time": 1679458409,
-      "rank": 24,
-      "category": "社会新闻"
+      "raw_hot": 2110393,
+      "num": 1385790,
+      "word": "泰国旅游 安全性",
+      "onboard_time": 1679461232,
+      "rank": 3,
+      "category": "旅游"
     },
     {
       "raw_hot": 1790003,
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 1410465,
-      "num": 1180037,
+      "num": 1384335,
       "word": "郭敬明审美有点东西",
       "onboard_time": 1679458048,
       "rank": 8,
@@ -179,6 +187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 922150,
+      "num": 450979,
+      "word": "34岁女子未婚备孕二胎",
+      "onboard_time": 1679460691,
+      "rank": 20,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 905270,
       "num": 612557,
       "word": "云之羽官宣演员阵容",
@@ -219,6 +235,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 755267,
+      "num": 755267,
+      "word": "赛琳娜新剧婚纱照路透",
+      "onboard_time": 1679458292,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 752465,
       "num": 303197,
       "word": "少爷和我又见面了",
@@ -243,6 +267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 693100,
+      "num": 693100,
+      "word": "苏醒张远都把C位让给王铮亮",
+      "onboard_time": 1679460933,
+      "rank": 11,
+      "category": "影视,音乐"
+    },
+    {
       "raw_hot": 679738,
       "num": 657704,
       "word": "高叶狂飙后首个常驻综艺",
@@ -259,6 +291,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 660655,
+      "num": 660655,
+      "word": "金智秀solo预告引起争议",
+      "onboard_time": 1679460691,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 655324,
+      "num": 655324,
+      "word": "造黄谣男生大学归来仍是高中毕业",
+      "onboard_time": 1679460156,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 648251,
       "num": 575935,
       "word": "王一博新电影眼睛充血镜头",
@@ -273,6 +321,14 @@
       "onboard_time": 1679444129,
       "rank": 7,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 605062,
+      "num": 605062,
+      "word": "准备摆摊的人有福了",
+      "onboard_time": 1679457028,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 591103,
@@ -299,12 +355,12 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 564102,
-      "num": 564102,
-      "word": "赛琳娜新剧婚纱照路透",
-      "onboard_time": 1679458292,
-      "rank": 25,
-      "category": "影视"
+      "raw_hot": 577993,
+      "num": 577993,
+      "word": "乔治360度暴扣",
+      "onboard_time": 1679460213,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 555776,
@@ -331,14 +387,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 526558,
-      "num": 526558,
-      "word": "准备摆摊的人有福了",
-      "onboard_time": 1679457028,
-      "rank": 18,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 504112,
       "num": 203827,
       "word": "广东揭西发生严重交通事故",
@@ -355,6 +403,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 488258,
+      "num": 488258,
+      "word": "花花",
+      "onboard_time": 1679456369,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 471675,
       "num": 471675,
       "word": "舒淇 松弛明媚",
@@ -368,14 +424,6 @@
       "word": "8旬奶奶熬夜读霸总小说写万字心得",
       "onboard_time": 1679454626,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 458792,
-      "num": 458792,
-      "word": "花花",
-      "onboard_time": 1679456369,
-      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -433,6 +481,14 @@
       "onboard_time": 1679451866,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 368879,
+      "num": 368879,
+      "word": "妈妈的临终遗言是两首儿歌",
+      "onboard_time": 1679459913,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 355061,
@@ -515,6 +571,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 325217,
+      "num": 325217,
+      "word": "急诊科唯一可以信的话",
+      "onboard_time": 1679459072,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 321766,
+      "num": 321766,
+      "word": "高校按就餐记录隐去姓名给学生打饭钱",
+      "onboard_time": 1679461052,
+      "rank": 27,
+      "category": "社会正能量,教育"
+    },
+    {
       "raw_hot": 321495,
       "num": 321495,
       "word": "中国富豪美国瑞士取钱涌入香港真相",
@@ -548,7 +620,7 @@
     },
     {
       "raw_hot": 299222,
-      "num": 1242142,
+      "num": 1386803,
       "word": "中俄关系对世界格局人类前途命运至关重要",
       "onboard_time": 1679455170,
       "rank": 2,
@@ -627,6 +699,30 @@
       "category": "教育"
     },
     {
+      "raw_hot": 274645,
+      "num": 274645,
+      "word": "山东省考",
+      "onboard_time": 1679459431,
+      "rank": 40,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 269262,
+      "num": 269262,
+      "word": "马嘉祺跳八段锦",
+      "onboard_time": 1679461591,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 266959,
+      "num": 266959,
+      "word": "林更新生图状态",
+      "onboard_time": 1679461293,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 264600,
       "num": 264600,
       "word": "韩剧黑暗荣耀",
@@ -683,12 +779,28 @@
       "category": "情感"
     },
     {
-      "raw_hot": 228114,
-      "num": 228114,
-      "word": "急诊科唯一可以信的话",
-      "onboard_time": 1679459072,
+      "raw_hot": 233663,
+      "num": 233663,
+      "word": "马原",
+      "onboard_time": 1679462068,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 230315,
+      "num": 230315,
+      "word": "叠纸",
+      "onboard_time": 1679461173,
       "rank": 35,
-      "category": "幽默"
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 228662,
+      "num": 228662,
+      "word": "恋与制作人",
+      "onboard_time": 1679459733,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 225813,
@@ -697,6 +809,14 @@
       "onboard_time": 1679449107,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223234,
+      "num": 223234,
+      "word": "快船",
+      "onboard_time": 1679461173,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 222960,
@@ -763,14 +883,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 205706,
-      "num": 205706,
-      "word": "山东省考",
-      "onboard_time": 1679459431,
-      "rank": 40,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 201171,
       "num": 201171,
       "word": "种地吧",
@@ -793,6 +905,14 @@
       "onboard_time": 1679458952,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 194267,
+      "num": 194267,
+      "word": "安徽省考",
+      "onboard_time": 1679461832,
+      "rank": 44,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 193561,
@@ -827,14 +947,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 179914,
-      "num": 179914,
-      "word": "恋与制作人",
-      "onboard_time": 1679459733,
-      "rank": 44,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 179047,
       "num": 179047,
       "word": "这俩熊猫是复制粘贴吧",
@@ -857,6 +969,14 @@
       "onboard_time": 1679454568,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 178524,
+      "num": 178524,
+      "word": "保罗乔治受伤",
+      "onboard_time": 1679462011,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 166037,

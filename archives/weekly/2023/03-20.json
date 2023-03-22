@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679459762826,
+  "endTime": 1679462237597,
   "band_list": [
     {
       "raw_hot": 7256959,
@@ -24,6 +24,14 @@
       "word": "杭州杀妻案凶手许国利被执行死刑",
       "onboard_time": 1679367024,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3268124,
+      "num": 1401117,
+      "word": "每日核酸阳性4000人以上",
+      "onboard_time": 1679458409,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -115,6 +123,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 2110393,
+      "num": 1385790,
+      "word": "泰国旅游 安全性",
+      "onboard_time": 1679461232,
+      "rank": 3,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 2083170,
       "num": 776487,
       "word": "开门杀致人死亡女子被判9个月",
@@ -136,14 +152,6 @@
       "word": "杀夫藏尸冰柜女子婚礼主持人发声",
       "onboard_time": 1679294847,
       "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1980261,
-      "num": 1247925,
-      "word": "每日核酸阳性4000人以上",
-      "onboard_time": 1679458409,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -340,7 +348,7 @@
     },
     {
       "raw_hot": 1410465,
-      "num": 1180037,
+      "num": 1384335,
       "word": "郭敬明审美有点东西",
       "onboard_time": 1679458048,
       "rank": 8,
@@ -819,6 +827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 922150,
+      "num": 450979,
+      "word": "34岁女子未婚备孕二胎",
+      "onboard_time": 1679460691,
+      "rank": 20,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 917661,
       "num": 917661,
       "word": "爱情而已 定档",
@@ -1083,6 +1099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 755267,
+      "num": 755267,
+      "word": "赛琳娜新剧婚纱照路透",
+      "onboard_time": 1679458292,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 755249,
       "num": 755249,
       "word": "微博之夜",
@@ -1163,6 +1187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 693100,
+      "num": 693100,
+      "word": "苏醒张远都把C位让给王铮亮",
+      "onboard_time": 1679460933,
+      "rank": 11,
+      "category": "影视,音乐"
+    },
+    {
       "raw_hot": 691543,
       "num": 444500,
       "word": "丁泽仁否认嘴队友",
@@ -1225,6 +1257,22 @@
       "onboard_time": 1679369488,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 660655,
+      "num": 660655,
+      "word": "金智秀solo预告引起争议",
+      "onboard_time": 1679460691,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 655324,
+      "num": 655324,
+      "word": "造黄谣男生大学归来仍是高中毕业",
+      "onboard_time": 1679460156,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 653906,
@@ -1371,6 +1419,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 605062,
+      "num": 605062,
+      "word": "准备摆摊的人有福了",
+      "onboard_time": 1679457028,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 600722,
       "num": 600722,
       "word": "断糖对人会有什么影响",
@@ -1491,6 +1547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 577993,
+      "num": 577993,
+      "word": "乔治360度暴扣",
+      "onboard_time": 1679460213,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 577975,
       "num": 577975,
       "word": "TVB演员30秒被扇21个耳光",
@@ -1561,14 +1625,6 @@
       "onboard_time": 1679296048,
       "rank": 32,
       "category": "财经"
-    },
-    {
-      "raw_hot": 564102,
-      "num": 564102,
-      "word": "赛琳娜新剧婚纱照路透",
-      "onboard_time": 1679458292,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 562260,
@@ -1723,14 +1779,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 526558,
-      "num": 526558,
-      "word": "准备摆摊的人有福了",
-      "onboard_time": 1679457028,
-      "rank": 18,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 525787,
       "num": 386522,
       "word": "戚薇说李承铉是秃头小宝贝",
@@ -1808,6 +1856,14 @@
       "word": "日本一农村25年才迎来一个新生儿",
       "onboard_time": 1679336952,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 488258,
+      "num": 488258,
+      "word": "花花",
+      "onboard_time": 1679456369,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -1936,14 +1992,6 @@
       "word": "纽约警方为特朗普或遭起诉设置路障",
       "onboard_time": 1679401589,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 458792,
-      "num": 458792,
-      "word": "花花",
-      "onboard_time": 1679456369,
-      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -2403,6 +2451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 368879,
+      "num": 368879,
+      "word": "妈妈的临终遗言是两首儿歌",
+      "onboard_time": 1679459913,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 368583,
       "num": 368583,
       "word": "瑞银提出收购瑞信",
@@ -2667,6 +2723,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 325217,
+      "num": 325217,
+      "word": "急诊科唯一可以信的话",
+      "onboard_time": 1679459072,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 323652,
       "num": 323652,
       "word": "Hero辟谣",
@@ -2697,6 +2761,14 @@
       "onboard_time": 1679310870,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 321766,
+      "num": 321766,
+      "word": "高校按就餐记录隐去姓名给学生打饭钱",
+      "onboard_time": 1679461052,
+      "rank": 27,
+      "category": "社会正能量,教育"
     },
     {
       "raw_hot": 321495,
@@ -2868,7 +2940,7 @@
     },
     {
       "raw_hot": 299222,
-      "num": 1242142,
+      "num": 1386803,
       "word": "中俄关系对世界格局人类前途命运至关重要",
       "onboard_time": 1679455170,
       "rank": 2,
@@ -3131,6 +3203,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 274645,
+      "num": 274645,
+      "word": "山东省考",
+      "onboard_time": 1679281287,
+      "rank": 25,
+      "category": "教育"
+    },
+    {
       "raw_hot": 273390,
       "num": 273390,
       "word": "李现官宣加盟微博之夜",
@@ -3155,12 +3235,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 269262,
+      "num": 269262,
+      "word": "马嘉祺跳八段锦",
+      "onboard_time": 1679461591,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 269061,
       "num": 269061,
       "word": "8箱芒果托运980女子当场吃完",
       "onboard_time": 1679224887,
       "rank": 16,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 266959,
+      "num": 266959,
+      "word": "林更新生图状态",
+      "onboard_time": 1679461293,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 266710,
@@ -3435,14 +3531,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 237703,
-      "num": 237703,
-      "word": "山东省考",
-      "onboard_time": 1679281287,
-      "rank": 25,
-      "category": "教育"
-    },
-    {
       "raw_hot": 236146,
       "num": 236146,
       "word": "毛晓彤说吵架是一个有效的沟通",
@@ -3459,12 +3547,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 233663,
+      "num": 233663,
+      "word": "马原",
+      "onboard_time": 1679462068,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 230506,
       "num": 230506,
       "word": "杀夫藏尸案死者前同事称其很稳重",
       "onboard_time": 1679295747,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 230315,
+      "num": 230315,
+      "word": "叠纸",
+      "onboard_time": 1679461173,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 230057,
@@ -3515,20 +3619,20 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 228662,
+      "num": 228662,
+      "word": "恋与制作人",
+      "onboard_time": 1679286336,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 228580,
       "num": 228580,
       "word": "易烊千玺夜景随拍",
       "onboard_time": 1679357190,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 228114,
-      "num": 228114,
-      "word": "急诊科唯一可以信的话",
-      "onboard_time": 1679459072,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 228037,
@@ -3609,6 +3713,14 @@
       "onboard_time": 1679399306,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 223234,
+      "num": 223234,
+      "word": "快船",
+      "onboard_time": 1679461173,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 222960,
@@ -3817,14 +3929,6 @@
       "onboard_time": 1679452528,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 208255,
-      "num": 208255,
-      "word": "恋与制作人",
-      "onboard_time": 1679286336,
-      "rank": 38,
-      "category": "游戏"
     },
     {
       "raw_hot": 207939,
@@ -4147,6 +4251,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 194267,
+      "num": 194267,
+      "word": "安徽省考",
+      "onboard_time": 1679461832,
+      "rank": 44,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 193949,
       "num": 193949,
       "word": "毛雪汪",
@@ -4425,6 +4537,14 @@
       "onboard_time": 1679311054,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 178524,
+      "num": 178524,
+      "word": "保罗乔治受伤",
+      "onboard_time": 1679462011,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 178118,
