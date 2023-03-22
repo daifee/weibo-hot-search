@@ -1,6 +1,6 @@
 {
   "startTime": 1679415632915,
-  "endTime": 1679473334079,
+  "endTime": 1679474141843,
   "band_list": [
     {
       "raw_hot": 3268124,
@@ -211,6 +211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1037196,
+      "num": 675991,
+      "word": "王牌对王牌8官宣",
+      "onboard_time": 1679473348,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1023009,
       "num": 665258,
       "word": "造黄谣男生大学归来仍是高中毕业",
@@ -395,6 +403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 678413,
+      "num": 675321,
+      "word": "柯南贝克街的亡灵预售开启",
+      "onboard_time": 1679473348,
+      "rank": 5,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 671517,
       "num": 671517,
       "word": "金智秀solo预告引起争议",
@@ -531,6 +547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 483266,
+      "num": 354399,
+      "word": "千万不要在办公室里睡觉",
+      "onboard_time": 1679470226,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 471675,
       "num": 471675,
       "word": "舒淇 松弛明媚",
@@ -547,20 +571,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 449597,
+      "num": 449597,
+      "word": "大学生之间莫名其妙的信任",
+      "onboard_time": 1679471187,
+      "rank": 19,
+      "category": "情感,教育"
+    },
+    {
       "raw_hot": 449026,
       "num": 449026,
       "word": "2022微博之夜新面孔",
       "onboard_time": 1679468367,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 448480,
-      "num": 269741,
-      "word": "千万不要在办公室里睡觉",
-      "onboard_time": 1679470226,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 447492,
@@ -587,11 +611,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 428271,
-      "num": 428271,
+      "raw_hot": 436498,
+      "num": 436498,
       "word": "周柯宇官宣加盟青春环游记",
       "onboard_time": 1679472866,
       "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 431009,
+      "num": 431009,
+      "word": "范丞丞给姚导画饼",
+      "onboard_time": 1679472509,
+      "rank": 15,
       "category": "综艺"
     },
     {
@@ -617,14 +649,6 @@
       "onboard_time": 1679470648,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 396497,
-      "num": 396497,
-      "word": "范丞丞给姚导画饼",
-      "onboard_time": 1679472509,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 394662,
@@ -675,6 +699,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 358393,
+      "num": 358393,
+      "word": "奔跑吧阵容正式官宣",
+      "onboard_time": 1679473166,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 355156,
       "num": 355156,
       "word": "只有汪峰在打折",
@@ -716,7 +748,7 @@
     },
     {
       "raw_hot": 345396,
-      "num": 627555,
+      "num": 676123,
       "word": "中俄元首强调通过和谈解决乌克兰危机",
       "onboard_time": 1679442205,
       "rank": 19,
@@ -915,14 +947,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 274734,
-      "num": 274734,
-      "word": "大学生之间莫名其妙的信任",
-      "onboard_time": 1679471187,
-      "rank": 19,
-      "category": "情感,教育"
-    },
-    {
       "raw_hot": 274719,
       "num": 274719,
       "word": "甘肃省考",
@@ -1100,7 +1124,7 @@
     },
     {
       "raw_hot": 213805,
-      "num": 213805,
+      "num": 356717,
       "word": "TTG严正公告",
       "onboard_time": 1679471909,
       "rank": 33,
@@ -1153,6 +1177,14 @@
       "onboard_time": 1679455349,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199734,
+      "num": 199734,
+      "word": "曾可妮郑南衣战损妆造",
+      "onboard_time": 1679473645,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 197179,
@@ -1307,14 +1339,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 157222,
-      "num": 157222,
-      "word": "奔跑吧阵容正式官宣",
-      "onboard_time": 1679473166,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 156696,
       "num": 156696,
       "word": "一个姿势帮你快速入睡",
@@ -1419,6 +1443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 124792,
+      "num": 124792,
+      "word": "上过大学的都沉默了",
+      "onboard_time": 1679474007,
+      "rank": 48,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 124338,
       "num": 124338,
       "word": "戚薇如果爱忘了MV",
@@ -1433,6 +1465,22 @@
       "onboard_time": 1679440881,
       "rank": 26,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 115469,
+      "num": 675834,
+      "word": "中国空间站带你看这世界的山与海",
+      "onboard_time": 1679471068,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 115324,
+      "num": 115324,
+      "word": "三亚游客租车被坑事件6人被刑拘",
+      "onboard_time": 1679474066,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 115054,
@@ -1513,14 +1561,6 @@
       "onboard_time": 1679404708,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 98592,
-      "num": 615634,
-      "word": "中国空间站带你看这世界的山与海",
-      "onboard_time": 1679471068,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 90014,
