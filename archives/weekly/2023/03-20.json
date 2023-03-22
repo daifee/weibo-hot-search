@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679455091756,
+  "endTime": 1679456017405,
   "band_list": [
     {
       "raw_hot": 7256959,
@@ -35,7 +35,7 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 2561607,
+      "raw_hot": 2879974,
       "num": 707266,
       "word": "奥利奥",
       "onboard_time": 1679453906,
@@ -291,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1453188,
+      "num": 362217,
+      "word": "罗渽民开通微博",
+      "onboard_time": 1679455529,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1450900,
       "num": 1450900,
       "word": "冯琳 青年大学习",
@@ -521,6 +529,14 @@
       "onboard_time": 1679378969,
       "rank": 30,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 1101629,
+      "num": 366835,
+      "word": "胜利出狱后近况",
+      "onboard_time": 1679453906,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 1094898,
@@ -771,6 +787,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 905270,
+      "num": 612557,
+      "word": "云之羽官宣演员阵容",
+      "onboard_time": 1679453906,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 894340,
       "num": 629002,
       "word": "王一博 微博之夜",
@@ -827,14 +851,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 859706,
-      "num": 366835,
-      "word": "胜利出狱后近况",
-      "onboard_time": 1679453906,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 858068,
       "num": 858068,
       "word": "男子3万块钱车被13万停车费吓到",
@@ -857,6 +873,14 @@
       "onboard_time": 1679379208,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 851446,
+      "num": 355700,
+      "word": "朴妍珍和宋承宪演过人间中毒",
+      "onboard_time": 1679455349,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 849519,
@@ -1123,6 +1147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 661840,
+      "num": 501674,
+      "word": "虞书欣新剧演女间谍",
+      "onboard_time": 1679455109,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 661348,
       "num": 661348,
       "word": "李秀满不希望HYBE拿走经营权的原因",
@@ -1153,6 +1185,14 @@
       "onboard_time": 1679408612,
       "rank": 33,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 648251,
+      "num": 575935,
+      "word": "王一博新电影眼睛充血镜头",
+      "onboard_time": 1679454568,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 647431,
@@ -1249,14 +1289,6 @@
       "onboard_time": 1679286872,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 612557,
-      "num": 612557,
-      "word": "云之羽官宣演员阵容",
-      "onboard_time": 1679453906,
-      "rank": 4,
-      "category": "影视"
     },
     {
       "raw_hot": 610119,
@@ -1409,14 +1441,6 @@
       "onboard_time": 1679357669,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 575935,
-      "num": 575935,
-      "word": "王一博新电影眼睛充血镜头",
-      "onboard_time": 1679454568,
-      "rank": 5,
-      "category": "影视"
     },
     {
       "raw_hot": 573989,
@@ -1603,6 +1627,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 528263,
+      "num": 364462,
+      "word": "孙俪上课为新戏准备台词",
+      "onboard_time": 1679454389,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 527579,
       "num": 527579,
       "word": "孙彩瑛因衬衫图案发文道歉",
@@ -1713,14 +1745,6 @@
       "onboard_time": 1679334734,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 486117,
-      "num": 364462,
-      "word": "孙俪上课为新戏准备台词",
-      "onboard_time": 1679454389,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 485436,
@@ -2025,6 +2049,14 @@
       "onboard_time": 1679318190,
       "rank": 37,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 419826,
+      "num": 419826,
+      "word": "Miss工作室官宣加盟新公司",
+      "onboard_time": 1679455290,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 419311,
@@ -2507,6 +2539,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 327650,
+      "num": 327650,
+      "word": "花花今天上班了",
+      "onboard_time": 1679454749,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 327434,
       "num": 327434,
       "word": "中国乒乓之绝地反击票房破亿",
@@ -2753,6 +2793,14 @@
       "onboard_time": 1679305528,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 295533,
+      "num": 295533,
+      "word": "8旬奶奶熬夜读霸总小说写万字心得",
+      "onboard_time": 1679454626,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 295324,
@@ -3507,6 +3555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 216334,
+      "num": 168244,
+      "word": "男子工厂打工6年还清65万外债",
+      "onboard_time": 1679456008,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 216248,
       "num": 216248,
       "word": "戚薇的恋爱观",
@@ -3785,6 +3841,14 @@
       "onboard_time": 1679379989,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201171,
+      "num": 201171,
+      "word": "种地吧",
+      "onboard_time": 1679455349,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 200960,
@@ -4179,6 +4243,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 178852,
+      "num": 178852,
+      "word": "张杰唱的天天想你",
+      "onboard_time": 1679454568,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 178824,
       "num": 178824,
       "word": "Lisa钢管舞蹈视频",
@@ -4217,14 +4289,6 @@
       "onboard_time": 1679236949,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 177523,
-      "num": 177523,
-      "word": "8旬奶奶熬夜读霸总小说写万字心得",
-      "onboard_time": 1679454626,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 177408,
@@ -4683,14 +4747,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 149339,
-      "num": 149339,
-      "word": "张杰唱的天天想你",
-      "onboard_time": 1679454568,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 148861,
       "num": 148861,
       "word": "回响今日大结局",
@@ -4915,12 +4971,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 138007,
-      "num": 138007,
-      "word": "花花今天上班了",
-      "onboard_time": 1679454749,
-      "rank": 46,
-      "category": "社会新闻"
+      "raw_hot": 137399,
+      "num": 516395,
+      "word": "中俄关系对世界格局人类前途命运至关重要",
+      "onboard_time": 1679455170,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 136929,
