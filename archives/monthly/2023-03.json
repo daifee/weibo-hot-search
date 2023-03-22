@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679513611106,
+  "endTime": 1679516278167,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -42195,6 +42195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 107947,
+      "num": 71034,
+      "word": "心医林霖",
+      "onboard_time": 1679513113,
+      "rank": 28,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 107926,
       "num": 107926,
       "word": "VG战胜WE",
@@ -45393,14 +45401,6 @@
       "onboard_time": 1677841229,
       "rank": 39,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 24689,
-      "num": 24689,
-      "word": "心医林霖",
-      "onboard_time": 1679513113,
-      "rank": 28,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 24354,

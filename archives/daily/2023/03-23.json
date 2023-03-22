@@ -1,6 +1,6 @@
 {
   "startTime": 1679502284596,
-  "endTime": 1679513611106,
+  "endTime": 1679516278167,
   "band_list": [
     {
       "raw_hot": 1288163,
@@ -315,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 107947,
+      "num": 71034,
+      "word": "心医林霖",
+      "onboard_time": 1679513113,
+      "rank": 28,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 107744,
       "num": 107744,
       "word": "王牌对王牌8官宣",
@@ -449,14 +457,6 @@
       "onboard_time": 1679500289,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 24689,
-      "num": 24689,
-      "word": "心医林霖",
-      "onboard_time": 1679513113,
-      "rank": 28,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 19211,
