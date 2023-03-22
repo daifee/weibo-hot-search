@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679503308819,
+  "endTime": 1679505362406,
   "band_list": [
     {
       "raw_hot": 7256959,
@@ -3331,6 +3331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 331287,
+      "num": 331287,
+      "word": "阿姨赶女儿婚前写遗嘱防女婿",
+      "onboard_time": 1679500886,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 330986,
       "num": 330986,
       "word": "爱情而已央八播出",
@@ -3465,14 +3473,6 @@
       "onboard_time": 1679405669,
       "rank": 18,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 318496,
-      "num": 318496,
-      "word": "阿姨赶女儿婚前写遗嘱防女婿",
-      "onboard_time": 1679500886,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 317807,
@@ -7073,6 +7073,14 @@
       "onboard_time": 1679301987,
       "rank": 29,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 90510,
+      "num": 90510,
+      "word": "外卖哥街头向交警下跪被掌掴",
+      "onboard_time": 1679503880,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 89541,
