@@ -1,6 +1,6 @@
 {
   "startTime": 1679502284596,
-  "endTime": 1679502284596,
+  "endTime": 1679503308819,
   "band_list": [
     {
       "raw_hot": 1288163,
@@ -91,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 318496,
+      "num": 318496,
+      "word": "阿姨赶女儿婚前写遗嘱防女婿",
+      "onboard_time": 1679500886,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 253674,
       "num": 196000,
       "word": "网购了一头大象",
@@ -171,14 +179,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 190686,
-      "num": 190686,
-      "word": "阿姨赶女儿婚前写遗嘱防女婿",
-      "onboard_time": 1679500886,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 188566,
       "num": 195491,
       "word": "刘冬沁以爱为营马术服墨镜造型",
@@ -209,6 +209,14 @@
       "onboard_time": 1679491770,
       "rank": 27,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 138072,
+      "num": 138072,
+      "word": "值得熬夜到天明的王炸级小说",
+      "onboard_time": 1679499628,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 138067,
@@ -275,20 +283,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 115123,
-      "num": 115123,
-      "word": "值得熬夜到天明的王炸级小说",
-      "onboard_time": 1679499628,
-      "rank": 36,
-      "category": "情感"
-    },
-    {
       "raw_hot": 114391,
       "num": 114391,
       "word": "魔咒",
       "onboard_time": 1679493212,
       "rank": 37,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 111651,
+      "num": 111651,
+      "word": "95后烧伤女孩自学成为设计师",
+      "onboard_time": 1679500226,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 107744,
@@ -331,12 +339,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 97451,
-      "num": 97451,
-      "word": "95后烧伤女孩自学成为设计师",
-      "onboard_time": 1679500226,
-      "rank": 43,
-      "category": "社会新闻"
+      "raw_hot": 98255,
+      "num": 98255,
+      "word": "果然分数是打出来的",
+      "onboard_time": 1679501605,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 96420,
@@ -371,20 +379,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 78781,
-      "num": 78781,
-      "word": "果然分数是打出来的",
-      "onboard_time": 1679501605,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 71006,
-      "num": 71006,
+      "raw_hot": 81626,
+      "num": 81626,
       "word": "怎样对喜欢的人表达爱意",
       "onboard_time": 1679500048,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 62910,
+      "num": 62910,
+      "word": "李兰迪说想和陈星旭三搭",
+      "onboard_time": 1679486912,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 19211,
@@ -406,6 +414,9 @@
   "hotgov_list": [
     {
       "word": "#习主席访问俄罗斯#"
+    },
+    {
+      "word": "#以长远眼光看待和把握中俄关系#"
     }
   ]
 }

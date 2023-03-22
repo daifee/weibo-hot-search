@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679502284596,
+  "endTime": 1679503308819,
   "band_list": [
     {
       "raw_hot": 7256959,
@@ -3467,6 +3467,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 318496,
+      "num": 318496,
+      "word": "阿姨赶女儿婚前写遗嘱防女婿",
+      "onboard_time": 1679500886,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 317807,
       "num": 317807,
       "word": "保罗乔治受伤",
@@ -5307,14 +5315,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 190686,
-      "num": 190686,
-      "word": "阿姨赶女儿婚前写遗嘱防女婿",
-      "onboard_time": 1679500886,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 189860,
       "num": 189860,
       "word": "汇丰银行开门7天应对通关后开户需求",
@@ -6379,6 +6379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 138072,
+      "num": 138072,
+      "word": "值得熬夜到天明的王炸级小说",
+      "onboard_time": 1679499628,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 136929,
       "num": 136929,
       "word": "4K视频看春日大美中国",
@@ -6811,14 +6819,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 115123,
-      "num": 115123,
-      "word": "值得熬夜到天明的王炸级小说",
-      "onboard_time": 1679499628,
-      "rank": 36,
-      "category": "情感"
-    },
-    {
       "raw_hot": 114704,
       "num": 114704,
       "word": "克莉丝汀所有门店暂停运营",
@@ -6833,6 +6833,14 @@
       "onboard_time": 1679220208,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 111651,
+      "num": 111651,
+      "word": "95后烧伤女孩自学成为设计师",
+      "onboard_time": 1679500226,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110844,
@@ -7011,20 +7019,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98255,
+      "num": 98255,
+      "word": "果然分数是打出来的",
+      "onboard_time": 1679501605,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 97609,
       "num": 97609,
       "word": "大数据不会无缘无故推给我",
       "onboard_time": 1679341931,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 97451,
-      "num": 97451,
-      "word": "95后烧伤女孩自学成为设计师",
-      "onboard_time": 1679500226,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 96415,
@@ -7131,12 +7139,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 78781,
-      "num": 78781,
-      "word": "果然分数是打出来的",
-      "onboard_time": 1679501605,
-      "rank": 48,
-      "category": "幽默"
+      "raw_hot": 81626,
+      "num": 81626,
+      "word": "怎样对喜欢的人表达爱意",
+      "onboard_time": 1679500048,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 78207,
@@ -7161,14 +7169,6 @@
       "onboard_time": 1679392948,
       "rank": 49,
       "category": "科技"
-    },
-    {
-      "raw_hot": 71006,
-      "num": 71006,
-      "word": "怎样对喜欢的人表达爱意",
-      "onboard_time": 1679500048,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 65638,
