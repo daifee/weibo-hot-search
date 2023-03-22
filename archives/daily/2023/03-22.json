@@ -1,14 +1,22 @@
 {
   "startTime": 1679415632915,
-  "endTime": 1679453058356,
+  "endTime": 1679455091756,
   "band_list": [
     {
       "raw_hot": 3003512,
-      "num": 365176,
+      "num": 369669,
       "word": "中科大取消造谣男生录取资格",
       "onboard_time": 1679451985,
       "rank": 10,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 2561607,
+      "num": 707266,
+      "word": "奥利奥",
+      "onboard_time": 1679453906,
+      "rank": 1,
+      "category": "美食"
     },
     {
       "raw_hot": 1790003,
@@ -100,10 +108,18 @@
     },
     {
       "raw_hot": 922944,
-      "num": 353288,
+      "num": 368816,
       "word": "宋承宪胖了",
       "onboard_time": 1679449529,
       "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 859706,
+      "num": 366835,
+      "word": "胜利出狱后近况",
+      "onboard_time": 1679453906,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -155,6 +171,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 612557,
+      "num": 612557,
+      "word": "云之羽官宣演员阵容",
+      "onboard_time": 1679453906,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 591103,
       "num": 591103,
       "word": "奔跑吧",
@@ -172,11 +196,27 @@
     },
     {
       "raw_hot": 590759,
-      "num": 483177,
+      "num": 533093,
       "word": "教育厅回应浙江教育网涉黄",
       "onboard_time": 1679448090,
       "rank": 44,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 575935,
+      "num": 575935,
+      "word": "王一博新电影眼睛充血镜头",
+      "onboard_time": 1679454568,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 555776,
+      "num": 555776,
+      "word": "云之羽",
+      "onboard_time": 1679454146,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 527579,
@@ -201,6 +241,14 @@
       "onboard_time": 1679442084,
       "rank": 16,
       "category": "情感"
+    },
+    {
+      "raw_hot": 486117,
+      "num": 364462,
+      "word": "孙俪上课为新戏准备台词",
+      "onboard_time": 1679454389,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 471675,
@@ -395,6 +443,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 277810,
+      "num": 277810,
+      "word": "T1全员入选LCK一阵",
+      "onboard_time": 1679451446,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 274719,
+      "num": 274719,
+      "word": "甘肃省考",
+      "onboard_time": 1679453966,
+      "rank": 22,
+      "category": "教育"
+    },
+    {
       "raw_hot": 264600,
       "num": 264600,
       "word": "韩剧黑暗荣耀",
@@ -451,8 +515,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 224088,
-      "num": 224088,
+      "raw_hot": 225813,
+      "num": 225813,
       "word": "内蒙古沙尘暴天空变橙色",
       "onboard_time": 1679449107,
       "rank": 44,
@@ -489,14 +553,6 @@
       "onboard_time": 1679452528,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 208148,
-      "num": 208148,
-      "word": "T1全员入选LCK一阵",
-      "onboard_time": 1679451446,
-      "rank": 31,
-      "category": "游戏"
     },
     {
       "raw_hot": 207801,
@@ -555,6 +611,14 @@
       "category": "作品衍生,幽默"
     },
     {
+      "raw_hot": 177523,
+      "num": 177523,
+      "word": "8旬奶奶熬夜读霸总小说写万字心得",
+      "onboard_time": 1679454626,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166037,
       "num": 166037,
       "word": "网剧回响",
@@ -595,12 +659,36 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 154059,
+      "num": 154059,
+      "word": "怎么看对造黄谣男生处置结果",
+      "onboard_time": 1679453667,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152893,
       "num": 152893,
       "word": "此次沙尘天气会持续多久",
       "onboard_time": 1679449226,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149339,
+      "num": 149339,
+      "word": "张杰唱的天天想你",
+      "onboard_time": 1679454568,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 146737,
+      "num": 146737,
+      "word": "NCT道在廷将4月17日出道",
+      "onboard_time": 1679453786,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 145061,
@@ -627,6 +715,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 138639,
+      "num": 138639,
+      "word": "四月为爱奔赴洛阳",
+      "onboard_time": 1679453549,
+      "rank": 45,
+      "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 138007,
+      "num": 138007,
+      "word": "花花今天上班了",
+      "onboard_time": 1679454749,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 137009,
       "num": 137009,
       "word": "TES五连败",
@@ -641,6 +745,14 @@
       "onboard_time": 1679399907,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 129707,
+      "num": 129707,
+      "word": "打工人的早高峰是什么样的",
+      "onboard_time": 1679454087,
+      "rank": 48,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 127983,
@@ -855,6 +967,9 @@
     },
     {
       "word": "#中俄元首签署联合声明#"
+    },
+    {
+      "word": "#习主席访问俄罗斯#"
     }
   ]
 }
