@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679566769334,
+  "endTime": 1679567717795,
   "band_list": [
     {
       "raw_hot": 7256959,
@@ -81,6 +81,14 @@
       "onboard_time": 1679317468,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2460193,
+      "num": 422683,
+      "word": "刘亦菲宝格丽",
+      "onboard_time": 1679566409,
+      "rank": 13,
+      "category": "时尚,艺人"
     },
     {
       "raw_hot": 2442342,
@@ -347,20 +355,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1621170,
+      "num": 434770,
+      "word": "夫妻相约自杀妻子未如约被判刑",
+      "onboard_time": 1679564728,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1589542,
       "num": 893167,
       "word": "林俊杰 mirror",
       "onboard_time": 1679475086,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1562180,
-      "num": 434770,
-      "word": "夫妻相约自杀妻子未如约被判刑",
-      "onboard_time": 1679564728,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1551145,
@@ -777,14 +785,6 @@
       "onboard_time": 1679324312,
       "rank": 19,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1149688,
-      "num": 422683,
-      "word": "刘亦菲宝格丽",
-      "onboard_time": 1679566409,
-      "rank": 13,
-      "category": "时尚,艺人"
     },
     {
       "raw_hot": 1148088,
@@ -1603,6 +1603,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 773657,
+      "num": 773657,
+      "word": "柬埔寨小6自称影响泰国旅游GDP",
+      "onboard_time": 1679563348,
+      "rank": 30,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 773103,
       "num": 773103,
       "word": "动物园大猩猩被发现在直立行走",
@@ -1707,14 +1715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 730103,
-      "num": 730103,
-      "word": "柬埔寨小6自称影响泰国旅游GDP",
-      "onboard_time": 1679563348,
-      "rank": 30,
-      "category": "社会新闻,旅游"
-    },
-    {
       "raw_hot": 724881,
       "num": 724881,
       "word": "早午餐不要合成一顿",
@@ -1785,6 +1785,14 @@
       "onboard_time": 1679465189,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 705827,
+      "num": 705827,
+      "word": "孙笑川回应因孙笑川吧被网友攻击",
+      "onboard_time": 1679563886,
+      "rank": 47,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 705725,
@@ -1865,6 +1873,14 @@
       "onboard_time": 1679496691,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 687228,
+      "num": 687228,
+      "word": "情侣恋爱一年后的合照变化",
+      "onboard_time": 1679563766,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 681867,
@@ -2171,14 +2187,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 609382,
-      "num": 609382,
-      "word": "情侣恋爱一年后的合照变化",
-      "onboard_time": 1679563766,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 608157,
       "num": 400872,
       "word": "张兰欠9.8亿未还家族信托被击穿",
@@ -2283,14 +2291,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 585160,
-      "num": 585160,
-      "word": "孙笑川回应因孙笑川吧被网友攻击",
-      "onboard_time": 1679563886,
-      "rank": 47,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 585016,
       "num": 585016,
       "word": "潍坊依法生育的三孩免费读公办高中",
@@ -2305,6 +2305,14 @@
       "onboard_time": 1679468427,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 584089,
+      "num": 404356,
+      "word": "杨洋全黑造型",
+      "onboard_time": 1679567309,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 583970,
@@ -3419,6 +3427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 412177,
+      "num": 412177,
+      "word": "网传声生不息三公歌单",
+      "onboard_time": 1679566290,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 412074,
       "num": 378376,
       "word": "王嘉尔飞往洛杉矶",
@@ -3587,6 +3603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 386520,
+      "num": 386520,
+      "word": "XYG BP",
+      "onboard_time": 1679563706,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 383021,
       "num": 383021,
       "word": "你会花多少钱看一场演唱会",
@@ -3713,6 +3737,14 @@
       "onboard_time": 1679406569,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 371770,
+      "num": 371770,
+      "word": "进才中学否认网传女老师和学生恋爱",
+      "onboard_time": 1679564847,
+      "rank": 19,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 371136,
@@ -3873,14 +3905,6 @@
       "onboard_time": 1679492733,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 352108,
-      "num": 352108,
-      "word": "网传声生不息三公歌单",
-      "onboard_time": 1679566290,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 351134,
@@ -4419,14 +4443,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 299110,
-      "num": 299110,
-      "word": "进才中学否认网传女老师和学生恋爱",
-      "onboard_time": 1679564847,
-      "rank": 19,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 297780,
       "num": 297780,
       "word": "3岁女童患罕见病伴15种并发症",
@@ -4747,6 +4763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 272339,
+      "num": 272339,
+      "word": "网红团队狂摇杭州百年樱花树",
+      "onboard_time": 1679566348,
+      "rank": 24,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 270530,
       "num": 270530,
       "word": "薛之谦演唱会 南昌",
@@ -4883,14 +4907,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 257819,
-      "num": 257819,
-      "word": "XYG BP",
-      "onboard_time": 1679563706,
-      "rank": 31,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 256723,
       "num": 256723,
       "word": "刘宇宁直播回应加戏",
@@ -4913,14 +4929,6 @@
       "onboard_time": 1679463267,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 255601,
-      "num": 255601,
-      "word": "网红团队狂摇杭州百年樱花树",
-      "onboard_time": 1679566348,
-      "rank": 24,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 255358,
@@ -5299,6 +5307,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 237402,
+      "num": 237402,
+      "word": "南宁冰雹",
+      "onboard_time": 1679566709,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 236146,
       "num": 236146,
       "word": "毛晓彤说吵架是一个有效的沟通",
@@ -5587,6 +5603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 219573,
+      "num": 219573,
+      "word": "RNG",
+      "onboard_time": 1679565387,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 218919,
       "num": 218919,
       "word": "会两门语言才懂的笑话",
@@ -5819,6 +5843,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 208991,
+      "num": 208991,
+      "word": "辨别真假玲娜贝儿的方法",
+      "onboard_time": 1679566467,
+      "rank": 30,
+      "category": "其它"
+    },
+    {
       "raw_hot": 207939,
       "num": 207939,
       "word": "龚俊微博之夜宣传VCR",
@@ -5875,14 +5907,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 206759,
-      "num": 206759,
-      "word": "辨别真假玲娜贝儿的方法",
-      "onboard_time": 1679566467,
-      "rank": 30,
-      "category": "其它"
-    },
-    {
       "raw_hot": 206530,
       "num": 206530,
       "word": "陈红军家里有张合成的全家福",
@@ -5897,6 +5921,14 @@
       "onboard_time": 1679301868,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 206205,
+      "num": 206205,
+      "word": "VG对战XYG",
+      "onboard_time": 1679565688,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 205871,
@@ -6139,6 +6171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 199558,
+      "num": 199558,
+      "word": "无线耳机又有新造型了",
+      "onboard_time": 1679563527,
+      "rank": 44,
+      "category": "科技"
+    },
+    {
       "raw_hot": 199447,
       "num": 199447,
       "word": "宋亚轩挑战与春天合拍视频",
@@ -6299,14 +6339,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 194491,
-      "num": 194491,
-      "word": "RNG",
-      "onboard_time": 1679565387,
-      "rank": 32,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 194316,
       "num": 316887,
       "word": "FindX6发布会",
@@ -6393,6 +6425,14 @@
       "onboard_time": 1679527281,
       "rank": 17,
       "category": "财经"
+    },
+    {
+      "raw_hot": 192590,
+      "num": 192590,
+      "word": "RNG翻盘RA",
+      "onboard_time": 1679567608,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 192539,
@@ -6723,6 +6763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 181731,
+      "num": 181731,
+      "word": "打工人专用的咖啡杯",
+      "onboard_time": 1679567069,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 181693,
       "num": 181693,
       "word": "科学家用水熊虫实现人类健康突破",
@@ -6907,27 +6955,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 175767,
-      "num": 175767,
-      "word": "无线耳机又有新造型了",
-      "onboard_time": 1679563527,
-      "rank": 44,
-      "category": "科技"
-    },
-    {
       "raw_hot": 175260,
       "num": 175260,
       "word": "滔式运营",
       "onboard_time": 1679401347,
       "rank": 35,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 174974,
-      "num": 174974,
-      "word": "VG对战XYG",
-      "onboard_time": 1679565688,
-      "rank": 36,
       "category": "游戏"
     },
     {
@@ -7011,14 +7043,6 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 171834,
-      "num": 171834,
-      "word": "南宁冰雹",
-      "onboard_time": 1679566709,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 171429,
       "num": 171429,
       "word": "魔术vs湖人",
@@ -7033,6 +7057,22 @@
       "onboard_time": 1679564066,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 170970,
+      "num": 170970,
+      "word": "金博洋世锦赛晋级自由滑",
+      "onboard_time": 1679566226,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 170445,
+      "num": 170445,
+      "word": "林志颖否认违停",
+      "onboard_time": 1679567427,
+      "rank": 40,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 170298,
@@ -7337,14 +7377,6 @@
       "onboard_time": 1679563826,
       "rank": 38,
       "category": "影视,幽默"
-    },
-    {
-      "raw_hot": 157638,
-      "num": 157638,
-      "word": "金博洋世锦赛晋级自由滑",
-      "onboard_time": 1679566226,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 157562,
@@ -7739,6 +7771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 139352,
+      "num": 139352,
+      "word": "打工人爬泰山主打一个效率",
+      "onboard_time": 1679565927,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 139189,
       "num": 139189,
       "word": "许凯娜扎新剧下证",
@@ -7969,14 +8009,6 @@
       "onboard_time": 1679508556,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 130845,
-      "num": 130845,
-      "word": "打工人爬泰山主打一个效率",
-      "onboard_time": 1679565927,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 130812,

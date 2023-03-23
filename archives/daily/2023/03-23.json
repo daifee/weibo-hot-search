@@ -1,6 +1,6 @@
 {
   "startTime": 1679502284596,
-  "endTime": 1679566769334,
+  "endTime": 1679567717795,
   "band_list": [
     {
       "raw_hot": 3180080,
@@ -17,6 +17,14 @@
       "onboard_time": 1679539225,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 2460193,
+      "num": 422683,
+      "word": "刘亦菲宝格丽",
+      "onboard_time": 1679566409,
+      "rank": 13,
+      "category": "时尚,艺人"
     },
     {
       "raw_hot": 2442342,
@@ -59,7 +67,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1562180,
+      "raw_hot": 1621170,
       "num": 434770,
       "word": "夫妻相约自杀妻子未如约被判刑",
       "onboard_time": 1679564728,
@@ -187,14 +195,6 @@
       "category": "综艺,艺人"
     },
     {
-      "raw_hot": 1149688,
-      "num": 422683,
-      "word": "刘亦菲宝格丽",
-      "onboard_time": 1679566409,
-      "rank": 13,
-      "category": "时尚,艺人"
-    },
-    {
       "raw_hot": 1148088,
       "num": 839006,
       "word": "华为P60",
@@ -315,6 +315,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 773657,
+      "num": 773657,
+      "word": "柬埔寨小6自称影响泰国旅游GDP",
+      "onboard_time": 1679563348,
+      "rank": 30,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 764469,
       "num": 764469,
       "word": "梦华录玉骨遥全国线下巡展",
@@ -337,14 +345,6 @@
       "onboard_time": 1679554287,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 730103,
-      "num": 730103,
-      "word": "柬埔寨小6自称影响泰国旅游GDP",
-      "onboard_time": 1679563348,
-      "rank": 30,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 724881,
@@ -371,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 705827,
+      "num": 705827,
+      "word": "孙笑川回应因孙笑川吧被网友攻击",
+      "onboard_time": 1679563886,
+      "rank": 47,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 705361,
       "num": 705361,
       "word": "女子应聘被质疑23岁用苹果手机",
@@ -393,6 +401,14 @@
       "onboard_time": 1679496691,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 687228,
+      "num": 687228,
+      "word": "情侣恋爱一年后的合照变化",
+      "onboard_time": 1679563766,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 681671,
@@ -459,20 +475,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 609382,
-      "num": 609382,
-      "word": "情侣恋爱一年后的合照变化",
-      "onboard_time": 1679563766,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 585160,
-      "num": 585160,
-      "word": "孙笑川回应因孙笑川吧被网友攻击",
-      "onboard_time": 1679563886,
-      "rank": 47,
-      "category": "社会新闻,网红"
+      "raw_hot": 584089,
+      "num": 404356,
+      "word": "杨洋全黑造型",
+      "onboard_time": 1679567309,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 567146,
@@ -707,6 +715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 412177,
+      "num": 412177,
+      "word": "网传声生不息三公歌单",
+      "onboard_time": 1679566290,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 405702,
       "num": 405702,
       "word": "白鹿赵露思同款镂空背心",
@@ -755,6 +771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 386520,
+      "num": 386520,
+      "word": "XYG BP",
+      "onboard_time": 1679563706,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 383021,
       "num": 383021,
       "word": "你会花多少钱看一场演唱会",
@@ -771,6 +795,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 371770,
+      "num": 371770,
+      "word": "进才中学否认网传女老师和学生恋爱",
+      "onboard_time": 1679564847,
+      "rank": 19,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 362823,
       "num": 362823,
       "word": "C罗说沙特联会成为五大联赛",
@@ -785,14 +817,6 @@
       "onboard_time": 1679498848,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 352108,
-      "num": 352108,
-      "word": "网传声生不息三公歌单",
-      "onboard_time": 1679566290,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 338442,
@@ -891,14 +915,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 299110,
-      "num": 299110,
-      "word": "进才中学否认网传女老师和学生恋爱",
-      "onboard_time": 1679564847,
-      "rank": 19,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 287374,
       "num": 274862,
       "word": "网购了一头大象",
@@ -937,6 +953,14 @@
       "onboard_time": 1679558548,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 272339,
+      "num": 272339,
+      "word": "网红团队狂摇杭州百年樱花树",
+      "onboard_time": 1679566348,
+      "rank": 24,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 267263,
@@ -985,22 +1009,6 @@
       "onboard_time": 1679536286,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 257819,
-      "num": 257819,
-      "word": "XYG BP",
-      "onboard_time": 1679563706,
-      "rank": 31,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 255601,
-      "num": 255601,
-      "word": "网红团队狂摇杭州百年樱花树",
-      "onboard_time": 1679566348,
-      "rank": 24,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 255358,
@@ -1115,6 +1123,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 237402,
+      "num": 237402,
+      "word": "南宁冰雹",
+      "onboard_time": 1679566709,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 234987,
       "num": 234987,
       "word": "才知道哭真的很有用",
@@ -1179,6 +1195,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 219573,
+      "num": 219573,
+      "word": "RNG",
+      "onboard_time": 1679565387,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 217577,
       "num": 217577,
       "word": "陈都灵学琵琶",
@@ -1235,6 +1259,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 208991,
+      "num": 208991,
+      "word": "辨别真假玲娜贝儿的方法",
+      "onboard_time": 1679566467,
+      "rank": 30,
+      "category": "其它"
+    },
+    {
       "raw_hot": 207442,
       "num": 207442,
       "word": "警方通报游客在长城城墙上刻字",
@@ -1243,12 +1275,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 206759,
-      "num": 206759,
-      "word": "辨别真假玲娜贝儿的方法",
-      "onboard_time": 1679566467,
-      "rank": 30,
-      "category": "其它"
+      "raw_hot": 206205,
+      "num": 206205,
+      "word": "VG对战XYG",
+      "onboard_time": 1679565688,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 204039,
@@ -1307,6 +1339,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 199558,
+      "num": 199558,
+      "word": "无线耳机又有新造型了",
+      "onboard_time": 1679563527,
+      "rank": 44,
+      "category": "科技"
+    },
+    {
       "raw_hot": 195387,
       "num": 195387,
       "word": "LNG对战UP",
@@ -1323,20 +1363,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 194491,
-      "num": 194491,
-      "word": "RNG",
-      "onboard_time": 1679565387,
-      "rank": 32,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 192680,
       "num": 192680,
       "word": "鲍威尔",
       "onboard_time": 1679527281,
       "rank": 17,
       "category": "财经"
+    },
+    {
+      "raw_hot": 192590,
+      "num": 192590,
+      "word": "RNG翻盘RA",
+      "onboard_time": 1679567608,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 191837,
@@ -1443,6 +1483,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 181731,
+      "num": 181731,
+      "word": "打工人专用的咖啡杯",
+      "onboard_time": 1679567069,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 181268,
       "num": 181268,
       "word": "流浪小狗乞求收养者一起带走小熊",
@@ -1491,22 +1539,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 175767,
-      "num": 175767,
-      "word": "无线耳机又有新造型了",
-      "onboard_time": 1679563527,
-      "rank": 44,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 174974,
-      "num": 174974,
-      "word": "VG对战XYG",
-      "onboard_time": 1679565688,
-      "rank": 36,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 173964,
       "num": 173964,
       "word": "NBA",
@@ -1523,20 +1555,28 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 171834,
-      "num": 171834,
-      "word": "南宁冰雹",
-      "onboard_time": 1679566709,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 171054,
       "num": 171054,
       "word": "SEVENTEEN旧专销量破104万",
       "onboard_time": 1679564066,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 170970,
+      "num": 170970,
+      "word": "金博洋世锦赛晋级自由滑",
+      "onboard_time": 1679566226,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 170445,
+      "num": 170445,
+      "word": "林志颖否认违停",
+      "onboard_time": 1679567427,
+      "rank": 40,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 168509,
@@ -1587,14 +1627,6 @@
       "category": "影视,幽默"
     },
     {
-      "raw_hot": 157638,
-      "num": 157638,
-      "word": "金博洋世锦赛晋级自由滑",
-      "onboard_time": 1679566226,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 157562,
       "num": 157562,
       "word": "鼻子眼睛皮肤过敏都该怎么办",
@@ -1633,6 +1665,14 @@
       "onboard_time": 1679560350,
       "rank": 34,
       "category": "科技"
+    },
+    {
+      "raw_hot": 139352,
+      "num": 139352,
+      "word": "打工人爬泰山主打一个效率",
+      "onboard_time": 1679565927,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 138072,
@@ -1705,14 +1745,6 @@
       "onboard_time": 1679508556,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 130845,
-      "num": 130845,
-      "word": "打工人爬泰山主打一个效率",
-      "onboard_time": 1679565927,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 129963,

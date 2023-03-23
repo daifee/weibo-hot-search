@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679566769334,
+  "endTime": 1679567717795,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -537,6 +537,14 @@
       "onboard_time": 1679317468,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2460193,
+      "num": 422683,
+      "word": "刘亦菲宝格丽",
+      "onboard_time": 1679566409,
+      "rank": 13,
+      "category": "时尚,艺人"
     },
     {
       "raw_hot": 2459613,
@@ -1947,6 +1955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1621170,
+      "num": 434770,
+      "word": "夫妻相约自杀妻子未如约被判刑",
+      "onboard_time": 1679564728,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1606748,
       "num": 1606748,
       "word": "月子中心竟提供代孕服务",
@@ -2041,14 +2057,6 @@
       "onboard_time": 1677905428,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1562180,
-      "num": 434770,
-      "word": "夫妻相约自杀妻子未如约被判刑",
-      "onboard_time": 1679564728,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1561941,
@@ -3889,14 +3897,6 @@
       "onboard_time": 1677750271,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1149688,
-      "num": 422683,
-      "word": "刘亦菲宝格丽",
-      "onboard_time": 1679566409,
-      "rank": 13,
-      "category": "时尚,艺人"
     },
     {
       "raw_hot": 1149367,
@@ -7835,6 +7835,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 773657,
+      "num": 773657,
+      "word": "柬埔寨小6自称影响泰国旅游GDP",
+      "onboard_time": 1679563348,
+      "rank": 30,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 773103,
       "num": 773103,
       "word": "动物园大猩猩被发现在直立行走",
@@ -8523,14 +8531,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 730103,
-      "num": 730103,
-      "word": "柬埔寨小6自称影响泰国旅游GDP",
-      "onboard_time": 1679563348,
-      "rank": 30,
-      "category": "社会新闻,旅游"
-    },
-    {
       "raw_hot": 730094,
       "num": 340398,
       "word": "男子隐瞒婚史与21岁女孩交往",
@@ -8995,6 +8995,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 705827,
+      "num": 705827,
+      "word": "孙笑川回应因孙笑川吧被网友攻击",
+      "onboard_time": 1679563886,
+      "rank": 47,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 705761,
       "num": 705761,
       "word": "女子丧偶式育儿身心俱疲起诉离婚",
@@ -9297,6 +9305,14 @@
       "onboard_time": 1679496691,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 687228,
+      "num": 687228,
+      "word": "情侣恋爱一年后的合照变化",
+      "onboard_time": 1679563766,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 686810,
@@ -11067,14 +11083,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 609382,
-      "num": 609382,
-      "word": "情侣恋爱一年后的合照变化",
-      "onboard_time": 1679563766,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 609205,
       "num": 766022,
       "word": "育龄青年为什么不愿生了",
@@ -11611,14 +11619,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 585160,
-      "num": 585160,
-      "word": "孙笑川回应因孙笑川吧被网友攻击",
-      "onboard_time": 1679563886,
-      "rank": 47,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 585016,
       "num": 585016,
       "word": "潍坊依法生育的三孩免费读公办高中",
@@ -11657,6 +11657,14 @@
       "onboard_time": 1679468427,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 584089,
+      "num": 404356,
+      "word": "杨洋全黑造型",
+      "onboard_time": 1679567309,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 583970,
@@ -17627,6 +17635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 412177,
+      "num": 412177,
+      "word": "网传声生不息三公歌单",
+      "onboard_time": 1679566290,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 412074,
       "num": 378376,
       "word": "王嘉尔飞往洛杉矶",
@@ -18619,6 +18635,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 386520,
+      "num": 386520,
+      "word": "XYG BP",
+      "onboard_time": 1679563706,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 386232,
       "num": 386232,
       "word": "欧豪李一桐新剧开机",
@@ -19377,6 +19401,14 @@
       "onboard_time": 1679406569,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 371770,
+      "num": 371770,
+      "word": "进才中学否认网传女老师和学生恋爱",
+      "onboard_time": 1679564847,
+      "rank": 19,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 371495,
@@ -20473,14 +20505,6 @@
       "onboard_time": 1679492733,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 352108,
-      "num": 352108,
-      "word": "网传声生不息三公歌单",
-      "onboard_time": 1679566290,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 352098,
@@ -23555,14 +23579,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 299110,
-      "num": 299110,
-      "word": "进才中学否认网传女老师和学生恋爱",
-      "onboard_time": 1679564847,
-      "rank": 19,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 299062,
       "num": 299062,
       "word": "王嘉尔丁程鑫跳舞",
@@ -25243,6 +25259,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 272339,
+      "num": 272339,
+      "word": "网红团队狂摇杭州百年樱花树",
+      "onboard_time": 1679566348,
+      "rank": 24,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 272259,
       "num": 272259,
       "word": "嫡谋影视化",
@@ -26171,14 +26195,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 257819,
-      "num": 257819,
-      "word": "XYG BP",
-      "onboard_time": 1679563706,
-      "rank": 31,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 257778,
       "num": 257778,
       "word": "丁程鑫杨迪加盟你好星期六",
@@ -26297,14 +26313,6 @@
       "onboard_time": 1679463267,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 255601,
-      "num": 255601,
-      "word": "网红团队狂摇杭州百年樱花树",
-      "onboard_time": 1679566348,
-      "rank": 24,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 255504,
@@ -27705,6 +27713,14 @@
       "onboard_time": 1679540726,
       "rank": 35,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 237402,
+      "num": 237402,
+      "word": "南宁冰雹",
+      "onboard_time": 1679566709,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 237319,
@@ -29475,6 +29491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 219573,
+      "num": 219573,
+      "word": "RNG",
+      "onboard_time": 1679565387,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 219544,
       "num": 219544,
       "word": "全国中小学消防公开课",
@@ -30491,6 +30515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 208991,
+      "num": 208991,
+      "word": "辨别真假玲娜贝儿的方法",
+      "onboard_time": 1679566467,
+      "rank": 30,
+      "category": "其它"
+    },
+    {
       "raw_hot": 208986,
       "num": 208986,
       "word": "宋妍霏15秒摆了33个pose",
@@ -30843,14 +30875,6 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 206759,
-      "num": 206759,
-      "word": "辨别真假玲娜贝儿的方法",
-      "onboard_time": 1679566467,
-      "rank": 30,
-      "category": "其它"
-    },
-    {
       "raw_hot": 206721,
       "num": 206721,
       "word": "Fly三连MVP",
@@ -30945,6 +30969,14 @@
       "onboard_time": 1678338811,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 206205,
+      "num": 206205,
+      "word": "VG对战XYG",
+      "onboard_time": 1679565688,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 206197,
@@ -32331,6 +32363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 199558,
+      "num": 199558,
+      "word": "无线耳机又有新造型了",
+      "onboard_time": 1679563527,
+      "rank": 44,
+      "category": "科技"
+    },
+    {
       "raw_hot": 199534,
       "num": 199534,
       "word": "春日赏熊图鉴",
@@ -33379,14 +33419,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 194491,
-      "num": 194491,
-      "word": "RNG",
-      "onboard_time": 1679565387,
-      "rank": 32,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 194462,
       "num": 194462,
       "word": "张婧仪长沙夜生活花絮",
@@ -33785,6 +33817,14 @@
       "onboard_time": 1678676608,
       "rank": 7,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 192590,
+      "num": 192590,
+      "word": "RNG翻盘RA",
+      "onboard_time": 1679567608,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 192539,
@@ -35291,6 +35331,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 181731,
+      "num": 181731,
+      "word": "打工人专用的咖啡杯",
+      "onboard_time": 1679567069,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 181710,
       "num": 466739,
       "word": "极简版政府工作报告",
@@ -35987,14 +36035,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 175767,
-      "num": 175767,
-      "word": "无线耳机又有新造型了",
-      "onboard_time": 1679563527,
-      "rank": 44,
-      "category": "科技"
-    },
-    {
       "raw_hot": 175761,
       "num": 175761,
       "word": "归路里有王皓",
@@ -36073,14 +36113,6 @@
       "onboard_time": 1678516165,
       "rank": 44,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 174974,
-      "num": 174974,
-      "word": "VG对战XYG",
-      "onboard_time": 1679565688,
-      "rank": 36,
-      "category": "游戏"
     },
     {
       "raw_hot": 174922,
@@ -36475,14 +36507,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 171834,
-      "num": 171834,
-      "word": "南宁冰雹",
-      "onboard_time": 1679566709,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 171763,
       "num": 171763,
       "word": "微博娱乐白皮书",
@@ -36547,6 +36571,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 170970,
+      "num": 170970,
+      "word": "金博洋世锦赛晋级自由滑",
+      "onboard_time": 1679566226,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 170702,
       "num": 170702,
       "word": "今日说法",
@@ -36585,6 +36617,14 @@
       "onboard_time": 1678276831,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 170445,
+      "num": 170445,
+      "word": "林志颖否认违停",
+      "onboard_time": 1679567427,
+      "rank": 40,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 170371,
@@ -38049,14 +38089,6 @@
       "onboard_time": 1677913884,
       "rank": 8,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 157638,
-      "num": 157638,
-      "word": "金博洋世锦赛晋级自由滑",
-      "onboard_time": 1679566226,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 157630,
@@ -40211,6 +40243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139352,
+      "num": 139352,
+      "word": "打工人爬泰山主打一个效率",
+      "onboard_time": 1679565927,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 139189,
       "num": 139189,
       "word": "许凯娜扎新剧下证",
@@ -41313,14 +41353,6 @@
       "onboard_time": 1679508556,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 130845,
-      "num": 130845,
-      "word": "打工人爬泰山主打一个效率",
-      "onboard_time": 1679565927,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 130812,
