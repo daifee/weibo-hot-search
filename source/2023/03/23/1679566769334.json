@@ -1,0 +1,410 @@
+{
+  "runTime": 1679566769334,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1738102,
+        "num": 1738102,
+        "word": "离职前一天被辞退了",
+        "onboard_time": 1679559268,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1037548,
+        "num": 1037548,
+        "word": "女生月薪8千花15称存两百万退休",
+        "onboard_time": 1679550086,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100677,
+        "num": 841470,
+        "word": "1分钟见证歼10飞越25年",
+        "onboard_time": 1679562386,
+        "rank": 2,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 730103,
+        "num": 730103,
+        "word": "柬埔寨小6自称影响泰国旅游GDP",
+        "onboard_time": 1679563348,
+        "rank": 3,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 667936,
+        "num": 667936,
+        "word": "杨天真当杜华面挖程潇",
+        "onboard_time": 1679560707,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 609382,
+        "num": 609382,
+        "word": "情侣恋爱一年后的合照变化",
+        "onboard_time": 1679563766,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 585160,
+        "num": 585160,
+        "word": "孙笑川回应因孙笑川吧被网友攻击",
+        "onboard_time": 1679563886,
+        "rank": 6,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 483967,
+        "num": 483967,
+        "word": "金博洋",
+        "onboard_time": 1679563706,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 437137,
+        "num": 437137,
+        "word": "梦华录玉骨遥全国线下巡展",
+        "onboard_time": 1679560407,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 435778,
+        "num": 435778,
+        "word": "女生地铁口帮忙被骗光生活费",
+        "onboard_time": 1679557227,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1562180,
+        "num": 434770,
+        "word": "夫妻相约自杀妻子未如约被判刑",
+        "onboard_time": 1679564728,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1394845,
+        "num": 430137,
+        "word": "关晓彤穿了陈采尼设计礼服",
+        "onboard_time": 1679558848,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1330632,
+        "num": 426827,
+        "word": "林志玲素颜近照",
+        "onboard_time": 1679564245,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1149688,
+        "num": 422683,
+        "word": "刘亦菲宝格丽",
+        "onboard_time": 1679566409,
+        "rank": 13,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 420400,
+        "num": 420400,
+        "word": "双鱼座受不得半点冷落",
+        "onboard_time": 1679561967,
+        "rank": 14,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 405702,
+        "num": 405702,
+        "word": "白鹿赵露思同款镂空背心",
+        "onboard_time": 1679565026,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 401281,
+        "num": 401281,
+        "word": "Livehouse高票价对标周杰伦演唱会",
+        "onboard_time": 1679564066,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 352108,
+        "num": 352108,
+        "word": "网传声生不息三公歌单",
+        "onboard_time": 1679566290,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 341703,
+        "num": 341703,
+        "word": "口语考试时替我爸出柜了",
+        "onboard_time": 1679557105,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 299110,
+        "num": 299110,
+        "word": "进才中学否认网传女老师和学生恋爱",
+        "onboard_time": 1679564847,
+        "rank": 19,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 517849,
+        "num": 296749,
+        "word": "华为P60",
+        "onboard_time": 1679552065,
+        "rank": 20,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 284732,
+        "num": 284732,
+        "word": "DK打韩华",
+        "onboard_time": 1679561249,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 257819,
+        "num": 257819,
+        "word": "XYG BP",
+        "onboard_time": 1679563706,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 257763,
+        "num": 257763,
+        "word": "微博之夜阵容",
+        "onboard_time": 1679545890,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 255601,
+        "num": 255601,
+        "word": "网红团队狂摇杭州百年樱花树",
+        "onboard_time": 1679566348,
+        "rank": 24,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 237117,
+        "num": 237117,
+        "word": "女警说癌症我都不怕还怕你个毒贩不成",
+        "onboard_time": 1679553865,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230556,
+        "num": 230556,
+        "word": "遭霸凌女孩家属发声",
+        "onboard_time": 1679554287,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224076,
+        "num": 224076,
+        "word": "张靓颖向粉丝道歉",
+        "onboard_time": 1679556988,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 217577,
+        "num": 217577,
+        "word": "陈都灵学琵琶",
+        "onboard_time": 1679564066,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 214098,
+        "num": 214098,
+        "word": "华为发布会",
+        "onboard_time": 1679551826,
+        "rank": 29,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 206759,
+        "num": 206759,
+        "word": "辨别真假玲娜贝儿的方法",
+        "onboard_time": 1679566467,
+        "rank": 30,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 206170,
+        "num": 206170,
+        "word": "男孩用激光笔连照左眼51次致失明",
+        "onboard_time": 1679553447,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194491,
+        "num": 194491,
+        "word": "RNG",
+        "onboard_time": 1679565387,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 187429,
+        "num": 187429,
+        "word": "袁泉好美",
+        "onboard_time": 1679557588,
+        "rank": 33,
+        "category": "艺人,科技"
+      },
+      {
+        "raw_hot": 184857,
+        "num": 184857,
+        "word": "华为P60首发支持双向北斗卫星消息",
+        "onboard_time": 1679557888,
+        "rank": 34,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 175767,
+        "num": 175767,
+        "word": "无线耳机又有新造型了",
+        "onboard_time": 1679563527,
+        "rank": 35,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 174974,
+        "num": 174974,
+        "word": "VG对战XYG",
+        "onboard_time": 1679565688,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 171834,
+        "num": 171834,
+        "word": "南宁冰雹",
+        "onboard_time": 1679566709,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171054,
+        "num": 171054,
+        "word": "SEVENTEEN旧专销量破104万",
+        "onboard_time": 1679564066,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 161586,
+        "num": 161586,
+        "word": "再也不敢不洗手了",
+        "onboard_time": 1679554467,
+        "rank": 39,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 160673,
+        "num": 160673,
+        "word": "华为MateX3",
+        "onboard_time": 1679562687,
+        "rank": 40,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 160657,
+        "num": 160657,
+        "word": "潘长江否认全家移民美国",
+        "onboard_time": 1679556388,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157638,
+        "num": 157638,
+        "word": "金博洋世锦赛晋级自由滑",
+        "onboard_time": 1679566226,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148877,
+        "num": 148877,
+        "word": "雯丽适合你的是道明不是明道",
+        "onboard_time": 1679563826,
+        "rank": 43,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 140688,
+        "num": 140688,
+        "word": "才知道哭真的很有用",
+        "onboard_time": 1679556208,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 139995,
+        "num": 139995,
+        "word": "LPL十大选手投票结果",
+        "onboard_time": 1679552666,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 136627,
+        "num": 136627,
+        "word": "海南13岁女孩遭霸凌左耳鼓膜穿孔",
+        "onboard_time": 1679539767,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136275,
+        "num": 136275,
+        "word": "耳念珠菌已遍布美国一半以上的州",
+        "onboard_time": 1679548768,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133791,
+        "num": 133791,
+        "word": "奥利奥",
+        "onboard_time": 1679543789,
+        "rank": 48,
+        "category": "美食,艺人"
+      },
+      {
+        "raw_hot": 130845,
+        "num": 130845,
+        "word": "打工人爬泰山主打一个效率",
+        "onboard_time": 1679565927,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#共建美好世界的最大公约数#"
+    }
+  }
+}

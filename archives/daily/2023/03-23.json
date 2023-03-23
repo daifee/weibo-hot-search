@@ -1,6 +1,6 @@
 {
   "startTime": 1679502284596,
-  "endTime": 1679564030383,
+  "endTime": 1679566769334,
   "band_list": [
     {
       "raw_hot": 3180080,
@@ -56,6 +56,14 @@
       "word": "海南13岁女孩遭霸凌左耳鼓膜穿孔",
       "onboard_time": 1679539767,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1562180,
+      "num": 434770,
+      "word": "夫妻相约自杀妻子未如约被判刑",
+      "onboard_time": 1679564728,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -123,6 +131,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1330632,
+      "num": 426827,
+      "word": "林志玲素颜近照",
+      "onboard_time": 1679564245,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1299790,
       "num": 393361,
       "word": "心理医生分析女孩将男童扔井中一事",
@@ -169,6 +185,14 @@
       "onboard_time": 1679497413,
       "rank": 1,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 1149688,
+      "num": 422683,
+      "word": "刘亦菲宝格丽",
+      "onboard_time": 1679566409,
+      "rank": 13,
+      "category": "时尚,艺人"
     },
     {
       "raw_hot": 1148088,
@@ -315,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 730103,
+      "num": 730103,
+      "word": "柬埔寨小6自称影响泰国旅游GDP",
+      "onboard_time": 1679563348,
+      "rank": 30,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 724881,
       "num": 724881,
       "word": "早午餐不要合成一顿",
@@ -425,6 +457,22 @@
       "onboard_time": 1679538986,
       "rank": 5,
       "category": "教育"
+    },
+    {
+      "raw_hot": 609382,
+      "num": 609382,
+      "word": "情侣恋爱一年后的合照变化",
+      "onboard_time": 1679563766,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 585160,
+      "num": 585160,
+      "word": "孙笑川回应因孙笑川吧被网友攻击",
+      "onboard_time": 1679563886,
+      "rank": 47,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 567146,
@@ -547,6 +595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 483967,
+      "num": 483967,
+      "word": "金博洋",
+      "onboard_time": 1679563706,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 482847,
       "num": 482847,
       "word": "南部战区就美舰擅闯西沙领海发表谈话",
@@ -651,12 +707,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 405702,
+      "num": 405702,
+      "word": "白鹿赵露思同款镂空背心",
+      "onboard_time": 1679565026,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 403613,
       "num": 403613,
       "word": "公司招多人赴缅招聘者自称被诈骗",
       "onboard_time": 1679540065,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 401281,
+      "num": 401281,
+      "word": "Livehouse高票价对标周杰伦演唱会",
+      "onboard_time": 1679564066,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 394668,
@@ -713,6 +785,14 @@
       "onboard_time": 1679498848,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 352108,
+      "num": 352108,
+      "word": "网传声生不息三公歌单",
+      "onboard_time": 1679566290,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 338442,
@@ -811,6 +891,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 299110,
+      "num": 299110,
+      "word": "进才中学否认网传女老师和学生恋爱",
+      "onboard_time": 1679564847,
+      "rank": 19,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 287374,
       "num": 274862,
       "word": "网购了一头大象",
@@ -897,6 +985,22 @@
       "onboard_time": 1679536286,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 257819,
+      "num": 257819,
+      "word": "XYG BP",
+      "onboard_time": 1679563706,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 255601,
+      "num": 255601,
+      "word": "网红团队狂摇杭州百年樱花树",
+      "onboard_time": 1679566348,
+      "rank": 24,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 255358,
@@ -1075,12 +1179,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 216944,
-      "num": 192624,
-      "word": "柬埔寨小6自称影响泰国旅游GDP",
-      "onboard_time": 1679563348,
-      "rank": 30,
-      "category": "社会新闻,旅游"
+      "raw_hot": 217577,
+      "num": 217577,
+      "word": "陈都灵学琵琶",
+      "onboard_time": 1679564066,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 212240,
@@ -1137,6 +1241,14 @@
       "onboard_time": 1679560171,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206759,
+      "num": 206759,
+      "word": "辨别真假玲娜贝儿的方法",
+      "onboard_time": 1679566467,
+      "rank": 30,
+      "category": "其它"
     },
     {
       "raw_hot": 204039,
@@ -1211,6 +1323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194491,
+      "num": 194491,
+      "word": "RNG",
+      "onboard_time": 1679565387,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 192680,
       "num": 192680,
       "word": "鲍威尔",
@@ -1233,14 +1353,6 @@
       "onboard_time": 1679562386,
       "rank": 29,
       "category": "科技"
-    },
-    {
-      "raw_hot": 191181,
-      "num": 191181,
-      "word": "XYG BP",
-      "onboard_time": 1679563706,
-      "rank": 31,
-      "category": "游戏"
     },
     {
       "raw_hot": 190932,
@@ -1331,14 +1443,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 182345,
-      "num": 182345,
-      "word": "金博洋",
-      "onboard_time": 1679563706,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 181268,
       "num": 181268,
       "word": "流浪小狗乞求收养者一起带走小熊",
@@ -1387,6 +1491,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175767,
+      "num": 175767,
+      "word": "无线耳机又有新造型了",
+      "onboard_time": 1679563527,
+      "rank": 44,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 174974,
+      "num": 174974,
+      "word": "VG对战XYG",
+      "onboard_time": 1679565688,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 173964,
       "num": 173964,
       "word": "NBA",
@@ -1401,6 +1521,22 @@
       "onboard_time": 1679553386,
       "rank": 34,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 171834,
+      "num": 171834,
+      "word": "南宁冰雹",
+      "onboard_time": 1679566709,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171054,
+      "num": 171054,
+      "word": "SEVENTEEN旧专销量破104万",
+      "onboard_time": 1679564066,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 168509,
@@ -1451,6 +1587,14 @@
       "category": "影视,幽默"
     },
     {
+      "raw_hot": 157638,
+      "num": 157638,
+      "word": "金博洋世锦赛晋级自由滑",
+      "onboard_time": 1679566226,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157562,
       "num": 157562,
       "word": "鼻子眼睛皮肤过敏都该怎么办",
@@ -1481,14 +1625,6 @@
       "onboard_time": 1679558968,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 141627,
-      "num": 141627,
-      "word": "无线耳机又有新造型了",
-      "onboard_time": 1679563527,
-      "rank": 44,
-      "category": "科技"
     },
     {
       "raw_hot": 141299,
@@ -1523,14 +1659,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 137681,
-      "num": 137681,
-      "word": "情侣恋爱一年后的合照变化",
-      "onboard_time": 1679563766,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 137617,
       "num": 137617,
       "word": "没有边界感的孔雀",
@@ -1555,14 +1683,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 133344,
-      "num": 133344,
-      "word": "孙笑川回应因孙笑川吧被网友攻击",
-      "onboard_time": 1679563886,
-      "rank": 47,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 132947,
       "num": 132947,
       "word": "CS2正式公开",
@@ -1585,6 +1705,14 @@
       "onboard_time": 1679508556,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 130845,
+      "num": 130845,
+      "word": "打工人爬泰山主打一个效率",
+      "onboard_time": 1679565927,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 129963,

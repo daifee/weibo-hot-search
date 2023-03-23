@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679564030383,
+  "endTime": 1679566769334,
   "band_list": [
     {
       "raw_hot": 7256959,
@@ -355,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1562180,
+      "num": 434770,
+      "word": "夫妻相约自杀妻子未如约被判刑",
+      "onboard_time": 1679564728,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1551145,
       "num": 1551145,
       "word": "中缅泰三边警察首脑开会决议打击犯罪",
@@ -571,6 +579,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1330632,
+      "num": 426827,
+      "word": "林志玲素颜近照",
+      "onboard_time": 1679564245,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1322109,
       "num": 662472,
       "word": "男子为寻妻下落抡椅殴打女儿",
@@ -761,6 +777,14 @@
       "onboard_time": 1679324312,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1149688,
+      "num": 422683,
+      "word": "刘亦菲宝格丽",
+      "onboard_time": 1679566409,
+      "rank": 13,
+      "category": "时尚,艺人"
     },
     {
       "raw_hot": 1148088,
@@ -1683,6 +1707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 730103,
+      "num": 730103,
+      "word": "柬埔寨小6自称影响泰国旅游GDP",
+      "onboard_time": 1679563348,
+      "rank": 30,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 724881,
       "num": 724881,
       "word": "早午餐不要合成一顿",
@@ -2139,6 +2171,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 609382,
+      "num": 609382,
+      "word": "情侣恋爱一年后的合照变化",
+      "onboard_time": 1679563766,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 608157,
       "num": 400872,
       "word": "张兰欠9.8亿未还家族信托被击穿",
@@ -2241,6 +2281,14 @@
       "onboard_time": 1679390850,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 585160,
+      "num": 585160,
+      "word": "孙笑川回应因孙笑川吧被网友攻击",
+      "onboard_time": 1679563886,
+      "rank": 47,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 585016,
@@ -2801,6 +2849,14 @@
       "onboard_time": 1679376750,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 483967,
+      "num": 483967,
+      "word": "金博洋",
+      "onboard_time": 1679563706,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 483266,
@@ -3395,6 +3451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 405702,
+      "num": 405702,
+      "word": "白鹿赵露思同款镂空背心",
+      "onboard_time": 1679565026,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 405041,
       "num": 405041,
       "word": "刘惜君状态",
@@ -3425,6 +3489,14 @@
       "onboard_time": 1679470648,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 401281,
+      "num": 401281,
+      "word": "Livehouse高票价对标周杰伦演唱会",
+      "onboard_time": 1679564066,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 398599,
@@ -3801,6 +3873,14 @@
       "onboard_time": 1679492733,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 352108,
+      "num": 352108,
+      "word": "网传声生不息三公歌单",
+      "onboard_time": 1679566290,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 351134,
@@ -4339,6 +4419,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 299110,
+      "num": 299110,
+      "word": "进才中学否认网传女老师和学生恋爱",
+      "onboard_time": 1679564847,
+      "rank": 19,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 297780,
       "num": 297780,
       "word": "3岁女童患罕见病伴15种并发症",
@@ -4795,6 +4883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 257819,
+      "num": 257819,
+      "word": "XYG BP",
+      "onboard_time": 1679563706,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 256723,
       "num": 256723,
       "word": "刘宇宁直播回应加戏",
@@ -4817,6 +4913,14 @@
       "onboard_time": 1679463267,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 255601,
+      "num": 255601,
+      "word": "网红团队狂摇杭州百年樱花树",
+      "onboard_time": 1679566348,
+      "rank": 24,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 255358,
@@ -5507,12 +5611,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 216944,
-      "num": 192624,
-      "word": "柬埔寨小6自称影响泰国旅游GDP",
-      "onboard_time": 1679563348,
-      "rank": 30,
-      "category": "社会新闻,旅游"
+      "raw_hot": 217577,
+      "num": 217577,
+      "word": "陈都灵学琵琶",
+      "onboard_time": 1679564066,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 216353,
@@ -5769,6 +5873,14 @@
       "onboard_time": 1679488890,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 206759,
+      "num": 206759,
+      "word": "辨别真假玲娜贝儿的方法",
+      "onboard_time": 1679566467,
+      "rank": 30,
+      "category": "其它"
     },
     {
       "raw_hot": 206530,
@@ -6187,6 +6299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194491,
+      "num": 194491,
+      "word": "RNG",
+      "onboard_time": 1679565387,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 194316,
       "num": 316887,
       "word": "FindX6发布会",
@@ -6337,14 +6457,6 @@
       "onboard_time": 1679379628,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 191181,
-      "num": 191181,
-      "word": "XYG BP",
-      "onboard_time": 1679563706,
-      "rank": 31,
-      "category": "游戏"
     },
     {
       "raw_hot": 190932,
@@ -6603,14 +6715,6 @@
       "category": "自然,社会新闻"
     },
     {
-      "raw_hot": 182345,
-      "num": 182345,
-      "word": "金博洋",
-      "onboard_time": 1679563706,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 182225,
       "num": 182225,
       "word": "程潇乌梅子酱手势舞",
@@ -6803,11 +6907,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175767,
+      "num": 175767,
+      "word": "无线耳机又有新造型了",
+      "onboard_time": 1679563527,
+      "rank": 44,
+      "category": "科技"
+    },
+    {
       "raw_hot": 175260,
       "num": 175260,
       "word": "滔式运营",
       "onboard_time": 1679401347,
       "rank": 35,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 174974,
+      "num": 174974,
+      "word": "VG对战XYG",
+      "onboard_time": 1679565688,
+      "rank": 36,
       "category": "游戏"
     },
     {
@@ -6891,12 +7011,28 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 171834,
+      "num": 171834,
+      "word": "南宁冰雹",
+      "onboard_time": 1679566709,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171429,
       "num": 171429,
       "word": "魔术vs湖人",
       "onboard_time": 1679280028,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 171054,
+      "num": 171054,
+      "word": "SEVENTEEN旧专销量破104万",
+      "onboard_time": 1679564066,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 170298,
@@ -7201,6 +7337,14 @@
       "onboard_time": 1679563826,
       "rank": 38,
       "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 157638,
+      "num": 157638,
+      "word": "金博洋世锦赛晋级自由滑",
+      "onboard_time": 1679566226,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 157562,
@@ -7555,14 +7699,6 @@
       "category": "社会新闻,影视"
     },
     {
-      "raw_hot": 141627,
-      "num": 141627,
-      "word": "无线耳机又有新造型了",
-      "onboard_time": 1679563527,
-      "rank": 44,
-      "category": "科技"
-    },
-    {
       "raw_hot": 141417,
       "num": 141417,
       "word": "中国妇女报评造黄谣事件",
@@ -7649,14 +7785,6 @@
       "onboard_time": 1679546853,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 137681,
-      "num": 137681,
-      "word": "情侣恋爱一年后的合照变化",
-      "onboard_time": 1679563766,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 137617,
@@ -7787,14 +7915,6 @@
       "category": "其它"
     },
     {
-      "raw_hot": 133344,
-      "num": 133344,
-      "word": "孙笑川回应因孙笑川吧被网友攻击",
-      "onboard_time": 1679563886,
-      "rank": 47,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 133131,
       "num": 133131,
       "word": "网友们的配图有多搞笑",
@@ -7849,6 +7969,14 @@
       "onboard_time": 1679508556,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 130845,
+      "num": 130845,
+      "word": "打工人爬泰山主打一个效率",
+      "onboard_time": 1679565927,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 130812,
