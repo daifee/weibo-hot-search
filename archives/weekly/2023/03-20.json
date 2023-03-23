@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679613485711,
+  "endTime": 1679614418114,
   "band_list": [
     {
       "raw_hot": 7256959,
@@ -531,6 +531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1428984,
+      "num": 1155204,
+      "word": "离婚冷静期内婆婆去世丈夫拒分遗产",
+      "onboard_time": 1679594235,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1426979,
       "num": 461974,
       "word": "杨子 李亚鹏",
@@ -881,14 +889,6 @@
       "onboard_time": 1679324312,
       "rank": 19,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1155204,
-      "num": 1155204,
-      "word": "离婚冷静期内婆婆去世丈夫拒分遗产",
-      "onboard_time": 1679594235,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1148088,
@@ -4571,6 +4571,14 @@
       "category": "影视,科技"
     },
     {
+      "raw_hot": 317020,
+      "num": 317020,
+      "word": "女子冲进地铁车门致骨折索赔22万",
+      "onboard_time": 1679604912,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 316573,
       "num": 316573,
       "word": "人民日报评保你平安",
@@ -5028,7 +5036,7 @@
     },
     {
       "raw_hot": 282721,
-      "num": 209959,
+      "num": 267368,
       "word": "演员牛犇的名字原来是这么来的",
       "onboard_time": 1679574328,
       "rank": 30,
@@ -5081,6 +5089,14 @@
       "onboard_time": 1679286996,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 279001,
+      "num": 183691,
+      "word": "研究生去集市摆摊卖菜半天收入千元",
+      "onboard_time": 1679592436,
+      "rank": 49,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 278820,
@@ -5171,14 +5187,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 272302,
-      "num": 272302,
-      "word": "女子冲进地铁车门致骨折索赔22万",
-      "onboard_time": 1679604912,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 270530,
       "num": 270530,
       "word": "薛之谦演唱会 南昌",
@@ -5265,6 +5273,14 @@
       "onboard_time": 1679537188,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 264242,
+      "num": 264242,
+      "word": "放在整个主持界也是相当炸裂",
+      "onboard_time": 1679587946,
+      "rank": 42,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 263494,
@@ -5529,14 +5545,6 @@
       "onboard_time": 1679481208,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 245873,
-      "num": 159225,
-      "word": "研究生去集市摆摊卖菜半天收入千元",
-      "onboard_time": 1679592436,
-      "rank": 49,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 245856,
@@ -6051,14 +6059,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 223206,
-      "num": 223206,
-      "word": "放在整个主持界也是相当炸裂",
-      "onboard_time": 1679587946,
-      "rank": 42,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 223161,
       "num": 223161,
       "word": "黑暗荣耀",
@@ -6521,6 +6521,14 @@
       "onboard_time": 1679481807,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 205072,
+      "num": 130761,
+      "word": "晨晓夫妇领证了",
+      "onboard_time": 1679613383,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 204703,
@@ -7147,6 +7155,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 188381,
+      "num": 188381,
+      "word": "杭州狂摇樱花树网红公司道歉",
+      "onboard_time": 1679600052,
+      "rank": 14,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 187144,
       "num": 187144,
       "word": "国足vs新西兰",
@@ -7289,6 +7305,14 @@
       "onboard_time": 1679535567,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 184346,
+      "num": 184346,
+      "word": "陈建宇淘汰",
+      "onboard_time": 1679613383,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 184338,
@@ -7467,6 +7491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 178841,
+      "num": 178841,
+      "word": "网友泰国偶遇朱一龙",
+      "onboard_time": 1679613680,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 178824,
       "num": 178824,
       "word": "Lisa钢管舞蹈视频",
@@ -7595,6 +7627,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 174825,
+      "num": 130132,
+      "word": "图赫尔将执教拜仁",
+      "onboard_time": 1679613801,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 174672,
       "num": 174672,
       "word": "丫丫加油等你回家",
@@ -7635,6 +7675,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 173056,
+      "num": 173056,
+      "word": "聂小雨是聂宝华唯一的软肋",
+      "onboard_time": 1679590041,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 172963,
       "num": 172963,
       "word": "司香师",
@@ -7649,6 +7697,14 @@
       "onboard_time": 1679369068,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 172902,
+      "num": 172902,
+      "word": "C罗梅开二度",
+      "onboard_time": 1679613801,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 172705,
@@ -7699,12 +7755,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 170532,
-      "num": 170532,
-      "word": "聂小雨是聂宝华唯一的软肋",
-      "onboard_time": 1679590041,
-      "rank": 26,
-      "category": "影视"
+      "raw_hot": 170505,
+      "num": 170505,
+      "word": "小鸟偷摸薅毛大熊猫淡定干饭",
+      "onboard_time": 1679612658,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170298,
@@ -7971,14 +8027,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 161838,
-      "num": 161838,
-      "word": "杭州狂摇樱花树网红公司道歉",
-      "onboard_time": 1679600052,
-      "rank": 14,
-      "category": "社会新闻,旅游"
-    },
-    {
       "raw_hot": 161710,
       "num": 161710,
       "word": "苏醒我想和你唱花絮vlog",
@@ -8065,6 +8113,14 @@
       "onboard_time": 1679488648,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 155130,
+      "num": 155130,
+      "word": "葡萄牙4比0列支敦士登",
+      "onboard_time": 1679613801,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 154938,
@@ -8699,6 +8755,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 131600,
+      "num": 131600,
+      "word": "怎么相个亲和上班一样",
+      "onboard_time": 1679581529,
+      "rank": 45,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 131317,
       "num": 131317,
       "word": "春天的第一朵花",
@@ -8867,20 +8931,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 126361,
+      "num": 126361,
+      "word": "老板店内贴成本表称一碗面仅赚2元",
+      "onboard_time": 1679590159,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 125596,
       "num": 125596,
       "word": "被别人的家庭氛围感动到了",
       "onboard_time": 1679494170,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 125572,
-      "num": 125572,
-      "word": "陈建宇淘汰",
-      "onboard_time": 1679613383,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 125346,
@@ -8993,14 +9057,6 @@
       "onboard_time": 1679226508,
       "rank": 36,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 120318,
-      "num": 120318,
-      "word": "怎么相个亲和上班一样",
-      "onboard_time": 1679581529,
-      "rank": 45,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 119872,
@@ -9153,14 +9209,6 @@
       "onboard_time": 1679379447,
       "rank": 47,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 109408,
-      "num": 109408,
-      "word": "老板店内贴成本表称一碗面仅赚2元",
-      "onboard_time": 1679590159,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 109235,
@@ -9403,6 +9451,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 95767,
+      "num": 95767,
+      "word": "井汲大翔晋级",
+      "onboard_time": 1679613383,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 95423,
       "num": 95423,
       "word": "中新网评造黄谣现象",
@@ -9523,14 +9579,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 75491,
-      "num": 75491,
-      "word": "小鸟偷摸薅毛大熊猫淡定干饭",
-      "onboard_time": 1679612658,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 75184,
       "num": 172143,
       "word": "住院花多少钱保险能赔",
@@ -9595,12 +9643,12 @@
       "category": "幽默,影视"
     },
     {
-      "raw_hot": 53288,
-      "num": 53288,
-      "word": "晨晓夫妇领证了",
-      "onboard_time": 1679613383,
-      "rank": 45,
-      "category": "影视"
+      "raw_hot": 52073,
+      "num": 52073,
+      "word": "爬泰山的理由又多了一个",
+      "onboard_time": 1679613439,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 51017,
@@ -9657,14 +9705,6 @@
       "onboard_time": 1679229987,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 34678,
-      "num": 34678,
-      "word": "爬泰山的理由又多了一个",
-      "onboard_time": 1679613439,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 34286,
