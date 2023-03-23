@@ -1,6 +1,6 @@
 {
   "startTime": 1679588746312,
-  "endTime": 1679589753575,
+  "endTime": 1679591789619,
   "band_list": [
     {
       "raw_hot": 1780848,
@@ -115,6 +115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 297808,
+      "num": 196223,
+      "word": "中学要求向班主任交6500元培养费",
+      "onboard_time": 1679588483,
+      "rank": 46,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 289754,
       "num": 289754,
       "word": "林志玲素颜近照",
@@ -129,6 +137,14 @@
       "onboard_time": 1679584470,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 264021,
+      "num": 169587,
+      "word": "刘亦菲杨洋同框拥抱",
+      "onboard_time": 1679573907,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 263796,
@@ -227,20 +243,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 185421,
+      "num": 185421,
+      "word": "利特吃面 一步到胃",
+      "onboard_time": 1679590519,
+      "rank": 9,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 168668,
       "num": 236197,
       "word": "河南省考",
       "onboard_time": 1679579791,
       "rank": 19,
       "category": "教育"
-    },
-    {
-      "raw_hot": 166336,
-      "num": 196223,
-      "word": "中学要求向班主任交6500元培养费",
-      "onboard_time": 1679588483,
-      "rank": 46,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 159564,
@@ -291,20 +307,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 136805,
+      "num": 136805,
+      "word": "放在整个主持界也是相当炸裂",
+      "onboard_time": 1679587946,
+      "rank": 42,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 133189,
+      "num": 133189,
+      "word": "NewJeans正在制作新专辑",
+      "onboard_time": 1679591657,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 131264,
       "num": 194398,
       "word": "丫丫最新画面",
       "onboard_time": 1679580270,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 130745,
-      "num": 110347,
-      "word": "放在整个主持界也是相当炸裂",
-      "onboard_time": 1679587946,
-      "rank": 42,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 127525,
@@ -331,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 114262,
+      "num": 90386,
+      "word": "聂小雨是聂宝华唯一的软肋",
+      "onboard_time": 1679590041,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 111177,
       "num": 111177,
       "word": "王子浩排名",
@@ -347,12 +379,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 99478,
+      "num": 89443,
+      "word": "徐明浩cos肌肉袋鼠",
+      "onboard_time": 1679590100,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 97550,
       "num": 159517,
       "word": "李彦宏回应文心一言15个尖锐问题",
       "onboard_time": 1679583810,
       "rank": 33,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 95703,
+      "num": 97060,
+      "word": "当男性成为职场少数群体",
+      "onboard_time": 1679589262,
+      "rank": 49,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 93565,
@@ -379,11 +427,35 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 80946,
+      "num": 74150,
+      "word": "马嘉祺兰亭序全开麦",
+      "onboard_time": 1679589919,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 79867,
       "num": 109118,
       "word": "女生月薪8千花15称存两百万退休",
       "onboard_time": 1679550086,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 71322,
+      "num": 64889,
+      "word": "关晓彤穿了陈采尼设计礼服",
+      "onboard_time": 1679558848,
+      "rank": 41,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 70136,
+      "num": 70136,
+      "word": "老板店内贴成本表称一碗面仅赚2元",
+      "onboard_time": 1679590159,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -417,19 +489,14 @@
       "onboard_time": 1679576248,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 44088,
-      "num": 97060,
-      "word": "当男性成为职场少数群体",
-      "onboard_time": 1679589262,
-      "rank": 49,
-      "category": "情感,幽默"
     }
   ],
   "hotgov_list": [
     {
       "word": "#构建人类命运共同体理念#"
+    },
+    {
+      "word": "#共建美好世界的最大公约数#"
     }
   ]
 }

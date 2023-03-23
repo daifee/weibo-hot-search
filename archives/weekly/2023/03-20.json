@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679589753575,
+  "endTime": 1679591789619,
   "band_list": [
     {
       "raw_hot": 7256959,
@@ -4811,6 +4811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 297808,
+      "num": 196223,
+      "word": "中学要求向班主任交6500元培养费",
+      "onboard_time": 1679588483,
+      "rank": 46,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 297780,
       "num": 297780,
       "word": "3岁女童患罕见病伴15种并发症",
@@ -7211,6 +7219,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 185421,
+      "num": 185421,
+      "word": "利特吃面 一步到胃",
+      "onboard_time": 1679590519,
+      "rank": 9,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 185145,
       "num": 185145,
       "word": "湖人战胜魔术",
@@ -7761,14 +7777,6 @@
       "onboard_time": 1679383829,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 166336,
-      "num": 196223,
-      "word": "中学要求向班主任交6500元培养费",
-      "onboard_time": 1679588483,
-      "rank": 46,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 166018,
@@ -8491,6 +8499,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 136805,
+      "num": 136805,
+      "word": "放在整个主持界也是相当炸裂",
+      "onboard_time": 1679587946,
+      "rank": 42,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 136159,
       "num": 136159,
       "word": "夏洛特浮生妄",
@@ -8595,6 +8611,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 133189,
+      "num": 133189,
+      "word": "NewJeans正在制作新专辑",
+      "onboard_time": 1679591657,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 133131,
       "num": 133131,
       "word": "网友们的配图有多搞笑",
@@ -8665,14 +8689,6 @@
       "onboard_time": 1679270304,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 130745,
-      "num": 110347,
-      "word": "放在整个主持界也是相当炸裂",
-      "onboard_time": 1679587946,
-      "rank": 42,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 130544,
@@ -9027,6 +9043,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 114262,
+      "num": 90386,
+      "word": "聂小雨是聂宝华唯一的软肋",
+      "onboard_time": 1679590041,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 113833,
       "num": 113833,
       "word": "歼10战机有多帅",
@@ -9267,6 +9291,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 99478,
+      "num": 89443,
+      "word": "徐明浩cos肌肉袋鼠",
+      "onboard_time": 1679590100,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 99476,
       "num": 99476,
       "word": "AG打野",
@@ -9305,6 +9337,14 @@
       "onboard_time": 1679390550,
       "rank": 48,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 95703,
+      "num": 97060,
+      "word": "当男性成为职场少数群体",
+      "onboard_time": 1679589262,
+      "rank": 49,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 95423,
@@ -9419,6 +9459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 80946,
+      "num": 74150,
+      "word": "马嘉祺兰亭序全开麦",
+      "onboard_time": 1679589919,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 78207,
       "num": 78207,
       "word": "张凯的驴是去成都了吗",
@@ -9441,6 +9489,14 @@
       "onboard_time": 1679392948,
       "rank": 49,
       "category": "科技"
+    },
+    {
+      "raw_hot": 70136,
+      "num": 70136,
+      "word": "老板店内贴成本表称一碗面仅赚2元",
+      "onboard_time": 1679590159,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 65638,
@@ -9505,14 +9561,6 @@
       "onboard_time": 1679248695,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 44088,
-      "num": 97060,
-      "word": "当男性成为职场少数群体",
-      "onboard_time": 1679589262,
-      "rank": 49,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 41485,
