@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679541490875,
+  "endTime": 1679542420482,
   "band_list": [
     {
       "raw_hot": 7256959,
@@ -331,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1494271,
+      "num": 919579,
+      "word": "泰国",
+      "onboard_time": 1679539826,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1491135,
       "num": 810645,
       "word": "女主韦一敏 男主王子斌",
@@ -353,6 +361,22 @@
       "onboard_time": 1679316690,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1477737,
+      "num": 1477737,
+      "word": "微博之夜",
+      "onboard_time": 1679224408,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1475368,
+      "num": 939166,
+      "word": "海南13岁女孩遭霸凌左耳鼓膜穿孔",
+      "onboard_time": 1679539767,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1463663,
@@ -723,14 +747,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1116768,
-      "num": 1116768,
-      "word": "微博之夜",
-      "onboard_time": 1679224408,
-      "rank": 28,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 1107687,
       "num": 848474,
       "word": "普京宣布免除超200亿美元非洲债务",
@@ -1035,14 +1051,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 939166,
-      "num": 939166,
-      "word": "海南13岁女孩遭霸凌左耳鼓膜穿孔",
-      "onboard_time": 1679539767,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 932568,
       "num": 932568,
       "word": "黄金",
@@ -1089,14 +1097,6 @@
       "onboard_time": 1679449529,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 919579,
-      "num": 919579,
-      "word": "泰国",
-      "onboard_time": 1679539826,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 917661,
@@ -1835,6 +1835,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 624187,
+      "num": 532678,
+      "word": "青岛偶遇白敬亭逛街",
+      "onboard_time": 1679540969,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 624175,
       "num": 624175,
       "word": "张兰称正在受资本霸凌",
@@ -2243,6 +2251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 545745,
+      "num": 545745,
+      "word": "微博之夜直播预约",
+      "onboard_time": 1679540485,
+      "rank": 10,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 545519,
       "num": 545519,
       "word": "研究称男性也有最佳生育年龄",
@@ -2265,14 +2281,6 @@
       "onboard_time": 1679239712,
       "rank": 13,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 533626,
-      "num": 533626,
-      "word": "微博之夜直播预约",
-      "onboard_time": 1679540485,
-      "rank": 10,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 530482,
@@ -3043,6 +3051,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 403613,
+      "num": 403613,
+      "word": "公司招多人赴缅招聘者自称被诈骗",
+      "onboard_time": 1679540065,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 402843,
       "num": 402843,
       "word": "追星女孩的抢票手速",
@@ -3056,14 +3072,6 @@
       "word": "白敬亭井柏然别太爱",
       "onboard_time": 1679470648,
       "rank": 14,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 399866,
-      "num": 399866,
-      "word": "青岛偶遇白敬亭逛街",
-      "onboard_time": 1679540969,
-      "rank": 15,
       "category": "艺人"
     },
     {
@@ -3779,6 +3787,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 311651,
+      "num": 311651,
+      "word": "当代年轻人的就业环境",
+      "onboard_time": 1679538266,
+      "rank": 43,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 311053,
       "num": 311053,
       "word": "SM寻找呕是谁",
@@ -4057,6 +4073,14 @@
       "onboard_time": 1679380466,
       "rank": 48,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 285896,
+      "num": 285896,
+      "word": "地铁里原来真有座位继承制",
+      "onboard_time": 1679541025,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 284454,
@@ -4459,28 +4483,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 246926,
-      "num": 246926,
-      "word": "公司招多人赴缅招聘者自称被诈骗",
-      "onboard_time": 1679540065,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 246525,
       "num": 246525,
       "word": "一诺暖阳Cat出席微博之夜",
       "onboard_time": 1679384970,
       "rank": 24,
       "category": "作品衍生,游戏"
-    },
-    {
-      "raw_hot": 246286,
-      "num": 246286,
-      "word": "当代年轻人的就业环境",
-      "onboard_time": 1679538266,
-      "rank": 43,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 246244,
@@ -4673,6 +4681,14 @@
       "onboard_time": 1679407352,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 237787,
+      "num": 237787,
+      "word": "头一次见牛做的冰淇淋",
+      "onboard_time": 1679540726,
+      "rank": 35,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 236146,
@@ -5291,6 +5307,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 202998,
+      "num": 202998,
+      "word": "不良人",
+      "onboard_time": 1679539645,
+      "rank": 30,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 202988,
       "num": 202988,
       "word": "姐姐4招募观众",
@@ -5675,6 +5699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190932,
+      "num": 190932,
+      "word": "做自然的朋友",
+      "onboard_time": 1679541208,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189860,
       "num": 189860,
       "word": "汇丰银行开门7天应对通关后开户需求",
@@ -5715,6 +5747,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 188453,
+      "num": 188453,
+      "word": "第五人格五周年",
+      "onboard_time": 1679541808,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 187063,
       "num": 811427,
       "word": "二十四节气是中国人的时间哲学",
@@ -5737,14 +5777,6 @@
       "onboard_time": 1679482467,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 186702,
-      "num": 186702,
-      "word": "做自然的朋友",
-      "onboard_time": 1679541208,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 186367,
@@ -6027,14 +6059,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 176998,
-      "num": 176998,
-      "word": "不良人",
-      "onboard_time": 1679539645,
-      "rank": 30,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 176798,
       "num": 176798,
       "word": "退税待领取骗局",
@@ -6251,14 +6275,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 165901,
-      "num": 165901,
-      "word": "头一次见牛做的冰淇淋",
-      "onboard_time": 1679540726,
-      "rank": 35,
-      "category": "美食,幽默"
-    },
-    {
       "raw_hot": 165365,
       "num": 165365,
       "word": "拯救者",
@@ -6403,14 +6419,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 159189,
-      "num": 159189,
-      "word": "地铁里原来真有座位继承制",
-      "onboard_time": 1679541025,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 158957,
       "num": 158957,
       "word": "宋亚轩教庄达菲说粤语",
@@ -6473,6 +6481,22 @@
       "onboard_time": 1679453667,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 153357,
+      "num": 153357,
+      "word": "李健演我作息时间",
+      "onboard_time": 1679541748,
+      "rank": 37,
+      "category": "作品衍生,幽默"
+    },
+    {
+      "raw_hot": 153320,
+      "num": 153320,
+      "word": "NBA",
+      "onboard_time": 1679541988,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 152893,
@@ -7235,6 +7259,14 @@
       "category": "幽默,时尚"
     },
     {
+      "raw_hot": 118683,
+      "num": 118683,
+      "word": "哪些生活习惯可能会导致胃病",
+      "onboard_time": 1679541445,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 118104,
       "num": 118104,
       "word": "华晨宇坏特一组",
@@ -7459,6 +7491,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 102017,
+      "num": 102017,
+      "word": "勇士战胜独行侠",
+      "onboard_time": 1679540065,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 101994,
       "num": 101994,
       "word": "不同年龄段分别应该睡多久",
@@ -7499,14 +7539,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 99288,
-      "num": 99288,
-      "word": "勇士战胜独行侠",
-      "onboard_time": 1679540065,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 99051,
       "num": 99051,
       "word": "曼联3比1富勒姆",
@@ -7544,14 +7576,6 @@
       "word": "中新网评造黄谣现象",
       "onboard_time": 1679486789,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 93873,
-      "num": 93873,
-      "word": "哪些生活习惯可能会导致胃病",
-      "onboard_time": 1679541445,
-      "rank": 49,
       "category": "社会新闻"
     },
     {

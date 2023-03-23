@@ -1,0 +1,410 @@
+{
+  "runTime": 1679542420482,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1477737,
+        "num": 1477737,
+        "word": "微博之夜",
+        "onboard_time": 1679541147,
+        "rank": 0,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 980103,
+        "num": 980103,
+        "word": "Mirror成员向林俊杰道歉",
+        "onboard_time": 1679536107,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 5560,
+        "num": 946090,
+        "word": "落实重大发展战略开创事业新局",
+        "onboard_time": 1679486968,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2285758,
+        "num": 839155,
+        "word": "张凌赫爱与不爱很明显",
+        "onboard_time": 1679539225,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1475368,
+        "num": 686864,
+        "word": "海南13岁女孩遭霸凌左耳鼓膜穿孔",
+        "onboard_time": 1679539767,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1494271,
+        "num": 662594,
+        "word": "泰国",
+        "onboard_time": 1679539826,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 574568,
+        "num": 574568,
+        "word": "园润花花不是亲生胜似亲生",
+        "onboard_time": 1679536825,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 559557,
+        "num": 559557,
+        "word": "JackeyLove回应五连败",
+        "onboard_time": 1679539345,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 552052,
+        "num": 552052,
+        "word": "客运站要消失了吗",
+        "onboard_time": 1679532269,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 545745,
+        "num": 545745,
+        "word": "微博之夜直播预约",
+        "onboard_time": 1679540485,
+        "rank": 9,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 624187,
+        "num": 532678,
+        "word": "青岛偶遇白敬亭逛街",
+        "onboard_time": 1679540969,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 517465,
+        "num": 517465,
+        "word": "张颂文大学时期嘻哈风穿搭",
+        "onboard_time": 1679535866,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 416055,
+        "num": 416055,
+        "word": "宋亚轩加盟王牌对王牌8",
+        "onboard_time": 1679539105,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 408164,
+        "num": 408164,
+        "word": "早午餐不要合成一顿",
+        "onboard_time": 1679533289,
+        "rank": 13,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 403613,
+        "num": 403613,
+        "word": "公司招多人赴缅招聘者自称被诈骗",
+        "onboard_time": 1679540065,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 377359,
+        "num": 377359,
+        "word": "广东省考",
+        "onboard_time": 1679538986,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 364392,
+        "num": 364392,
+        "word": "丁太升说声生不息首期最差是张杰",
+        "onboard_time": 1679497413,
+        "rank": 16,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 313865,
+        "num": 313865,
+        "word": "我找到新工作了",
+        "onboard_time": 1679534906,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 311651,
+        "num": 311651,
+        "word": "当代年轻人的就业环境",
+        "onboard_time": 1679538266,
+        "rank": 18,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 293547,
+        "num": 293547,
+        "word": "女生发视频吐槽意外带火甲骨文专业",
+        "onboard_time": 1679534906,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285896,
+        "num": 285896,
+        "word": "地铁里原来真有座位继承制",
+        "onboard_time": 1679541025,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 284009,
+        "num": 284009,
+        "word": "男子因父亲未尽抚养义务拒绝赡养",
+        "onboard_time": 1679533171,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266600,
+        "num": 266600,
+        "word": "微博之夜搞笑名场面",
+        "onboard_time": 1679538386,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 239324,
+        "num": 239324,
+        "word": "国际小狗日",
+        "onboard_time": 1679535206,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 237787,
+        "num": 237787,
+        "word": "头一次见牛做的冰淇淋",
+        "onboard_time": 1679540726,
+        "rank": 24,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 229371,
+        "num": 229371,
+        "word": "女子应聘被质疑23岁用苹果手机",
+        "onboard_time": 1679489728,
+        "rank": 25,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 219000,
+        "num": 219000,
+        "word": "闰二月二双龙抬头",
+        "onboard_time": 1679531368,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214302,
+        "num": 214302,
+        "word": "C罗说沙特联会成为五大联赛",
+        "onboard_time": 1679533888,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202998,
+        "num": 202998,
+        "word": "不良人",
+        "onboard_time": 1679539645,
+        "rank": 28,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 190932,
+        "num": 190932,
+        "word": "做自然的朋友",
+        "onboard_time": 1679541208,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188453,
+        "num": 188453,
+        "word": "第五人格五周年",
+        "onboard_time": 1679541808,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 173874,
+        "num": 173874,
+        "word": "高叶打假签名照",
+        "onboard_time": 1679537188,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168116,
+        "num": 168116,
+        "word": "女子地铁唱跳骚扰乘客",
+        "onboard_time": 1679536286,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164043,
+        "num": 164043,
+        "word": "退税待领取骗局",
+        "onboard_time": 1679538566,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163992,
+        "num": 163992,
+        "word": "健身房老板健身时拉断器材",
+        "onboard_time": 1679534727,
+        "rank": 34,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 155274,
+        "num": 155274,
+        "word": "聂小雨结局",
+        "onboard_time": 1679496332,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 154882,
+        "num": 154882,
+        "word": "这猫怎么正反面长一样",
+        "onboard_time": 1679534727,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153357,
+        "num": 153357,
+        "word": "李健演我作息时间",
+        "onboard_time": 1679541748,
+        "rank": 37,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 153320,
+        "num": 153320,
+        "word": "NBA",
+        "onboard_time": 1679541988,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146324,
+        "num": 146324,
+        "word": "徐峥王宝强再现泰囧经典造型",
+        "onboard_time": 1679534007,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143865,
+        "num": 143865,
+        "word": "这不是动物萌态是刻板行为",
+        "onboard_time": 1679539584,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131655,
+        "num": 131655,
+        "word": "Wayward首发",
+        "onboard_time": 1679532807,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 129798,
+        "num": 129798,
+        "word": "程潇白色露腰短上衣造型",
+        "onboard_time": 1679535567,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122419,
+        "num": 122419,
+        "word": "女演员被困厕所五星级酒店道歉",
+        "onboard_time": 1679497112,
+        "rank": 43,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 119223,
+        "num": 119223,
+        "word": "勇士vs独行侠",
+        "onboard_time": 1679538145,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118683,
+        "num": 118683,
+        "word": "哪些生活习惯可能会导致胃病",
+        "onboard_time": 1679541445,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103329,
+        "num": 103329,
+        "word": "心医林霖",
+        "onboard_time": 1679513113,
+        "rank": 46,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 102017,
+        "num": 102017,
+        "word": "勇士战胜独行侠",
+        "onboard_time": 1679540065,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101066,
+        "num": 101066,
+        "word": "凉拌菜是减脂餐的天花板吧",
+        "onboard_time": 1679495311,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 94097,
+        "num": 94097,
+        "word": "网友称海底捞水果仅限打包一份",
+        "onboard_time": 1679507414,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#以长远眼光看待和把握中俄关系#"
+    }
+  }
+}
