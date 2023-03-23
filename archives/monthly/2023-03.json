@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679555781185,
+  "endTime": 1679556817136,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -3155,6 +3155,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 1286389,
+      "num": 1286389,
+      "word": "女警说癌症我都不怕还怕你个毒贩不成",
+      "onboard_time": 1679553865,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1284022,
       "num": 1284022,
       "word": "天官赐福",
@@ -3859,6 +3867,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1147341,
+      "num": 839006,
+      "word": "华为P60",
+      "onboard_time": 1679552065,
+      "rank": 19,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1147089,
       "num": 1147089,
       "word": "杨紫两部剧获微博年度人气剧集",
@@ -4177,14 +4193,6 @@
       "onboard_time": 1678624348,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1095807,
-      "num": 839006,
-      "word": "华为P60",
-      "onboard_time": 1679552065,
-      "rank": 19,
-      "category": "科技"
     },
     {
       "raw_hot": 1095452,
@@ -4984,14 +4992,6 @@
       "word": "孟菲斯动物园称已提交丫丫回国所有申请",
       "onboard_time": 1678201888,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1006735,
-      "num": 1006735,
-      "word": "女警说癌症我都不怕还怕你个毒贩不成",
-      "onboard_time": 1679553865,
-      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -8427,6 +8427,14 @@
       "category": "社会负面,艺人"
     },
     {
+      "raw_hot": 730242,
+      "num": 730242,
+      "word": "遭霸凌女孩家属发声",
+      "onboard_time": 1679554287,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 730151,
       "num": 730151,
       "word": "上海地铁",
@@ -8609,6 +8617,14 @@
       "onboard_time": 1679141548,
       "rank": 4,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 720541,
+      "num": 720541,
+      "word": "男孩用激光笔连照左眼51次致失明",
+      "onboard_time": 1679553447,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 720395,
@@ -12259,14 +12275,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 556582,
-      "num": 556582,
-      "word": "男孩用激光笔连照左眼51次致失明",
-      "onboard_time": 1679553447,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 556568,
       "num": 556568,
       "word": "全员加速中3开录了",
@@ -15339,14 +15347,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 468184,
-      "num": 468184,
-      "word": "遭霸凌女孩家属发声",
-      "onboard_time": 1679554287,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 468181,
       "num": 468181,
       "word": "东风系引发车市价格大战",
@@ -16785,6 +16785,14 @@
       "onboard_time": 1679306788,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 428988,
+      "num": 428988,
+      "word": "张若昀搜证五秒一吓",
+      "onboard_time": 1679555367,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 428816,
@@ -19083,14 +19091,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 373558,
-      "num": 373558,
-      "word": "张若昀搜证五秒一吓",
-      "onboard_time": 1679555367,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 373550,
       "num": 373550,
       "word": "iPhone能在PC端接打电话了",
@@ -20401,6 +20401,14 @@
       "onboard_time": 1678078771,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 350188,
+      "num": 350188,
+      "word": "再也不敢不洗手了",
+      "onboard_time": 1679554467,
+      "rank": 46,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 350184,
@@ -22849,6 +22857,14 @@
       "onboard_time": 1679115269,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 308047,
+      "num": 308047,
+      "word": "潘长江否认全家移民美国",
+      "onboard_time": 1679556388,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 308020,
@@ -29915,6 +29931,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 211476,
+      "num": 348320,
+      "word": "P60夜视长焦有多强",
+      "onboard_time": 1679554707,
+      "rank": 19,
+      "category": "科技"
+    },
+    {
       "raw_hot": 211444,
       "num": 211444,
       "word": "曼联创造双红会最大比分失利",
@@ -30003,14 +30027,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 210689,
-      "num": 348320,
-      "word": "P60夜视长焦有多强",
-      "onboard_time": 1679554707,
-      "rank": 19,
-      "category": "科技"
-    },
-    {
       "raw_hot": 210683,
       "num": 204583,
       "word": "种树吧电竞少年",
@@ -30025,6 +30041,14 @@
       "onboard_time": 1677648508,
       "rank": 35,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 210569,
+      "num": 210569,
+      "word": "长焦镜头下的夜景有多美",
+      "onboard_time": 1679556026,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 210546,
@@ -31673,6 +31697,14 @@
       "onboard_time": 1678626446,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 200994,
+      "num": 200994,
+      "word": "金度延韩国芭莎时尚大片",
+      "onboard_time": 1679554287,
+      "rank": 37,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 200992,
@@ -34867,6 +34899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182485,
+      "num": 182485,
+      "word": "舒淇维持身型秘诀",
+      "onboard_time": 1679554707,
+      "rank": 35,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 182357,
       "num": 182357,
       "word": "冰雹",
@@ -36091,14 +36131,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 171819,
-      "num": 171819,
-      "word": "舒淇维持身型秘诀",
-      "onboard_time": 1679554707,
-      "rank": 35,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 171763,
       "num": 171763,
       "word": "微博娱乐白皮书",
@@ -36763,6 +36795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 166197,
+      "num": 166197,
+      "word": "才知道哭真的很有用",
+      "onboard_time": 1679556208,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 166124,
       "num": 166124,
       "word": "tangoz演我看黑暗荣耀",
@@ -37209,14 +37249,6 @@
       "onboard_time": 1678106547,
       "rank": 38,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 161763,
-      "num": 161763,
-      "word": "金度延韩国芭莎时尚大片",
-      "onboard_time": 1679554287,
-      "rank": 37,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 161710,
@@ -37953,6 +37985,14 @@
       "onboard_time": 1678090346,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 154659,
+      "num": 154659,
+      "word": "新能源车充电桩海外需求暴涨218%",
+      "onboard_time": 1679555967,
+      "rank": 40,
+      "category": "财经"
     },
     {
       "raw_hot": 154650,
@@ -42729,14 +42769,6 @@
       "onboard_time": 1677726447,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 112374,
-      "num": 112374,
-      "word": "再也不敢不洗手了",
-      "onboard_time": 1679554467,
-      "rank": 46,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 112200,

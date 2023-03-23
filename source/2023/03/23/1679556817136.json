@@ -1,0 +1,410 @@
+{
+  "runTime": 1679556817136,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2854398,
+        "num": 2854398,
+        "word": "女生月薪8千花15称存两百万退休",
+        "onboard_time": 1679550086,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1286389,
+        "num": 1286389,
+        "word": "女警说癌症我都不怕还怕你个毒贩不成",
+        "onboard_time": 1679553865,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54347,
+        "num": 1019060,
+        "word": "春花遇春耕美成画卷",
+        "onboard_time": 1679549908,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 861656,
+        "num": 861656,
+        "word": "帅哥不可以男演员颜值",
+        "onboard_time": 1679552006,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 770878,
+        "num": 770878,
+        "word": "微博之夜阵容",
+        "onboard_time": 1679545890,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 735816,
+        "num": 735816,
+        "word": "耳念珠菌已遍布美国一半以上的州",
+        "onboard_time": 1679548768,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 730242,
+        "num": 730242,
+        "word": "遭霸凌女孩家属发声",
+        "onboard_time": 1679554287,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 720541,
+        "num": 720541,
+        "word": "男孩用激光笔连照左眼51次致失明",
+        "onboard_time": 1679553447,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 598535,
+        "num": 598535,
+        "word": "关晓彤青花瓷长裙",
+        "onboard_time": 1679551468,
+        "rank": 8,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 474349,
+        "num": 474349,
+        "word": "LPL十大选手投票结果",
+        "onboard_time": 1679552666,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1147341,
+        "num": 473816,
+        "word": "华为P60",
+        "onboard_time": 1679552065,
+        "rank": 10,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 935735,
+        "num": 472834,
+        "word": "刘亦菲素颜买衣服",
+        "onboard_time": 1679552189,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 765413,
+        "num": 471414,
+        "word": "张凌赫白鹿",
+        "onboard_time": 1679548409,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 529198,
+        "num": 471125,
+        "word": "海南13岁女孩遭霸凌左耳鼓膜穿孔",
+        "onboard_time": 1679539767,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113349,
+        "num": 469797,
+        "word": "荣耀Magic5为啥这么火",
+        "onboard_time": 1679555427,
+        "rank": 14,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 469161,
+        "num": 469161,
+        "word": "大麦抢票",
+        "onboard_time": 1679549187,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 428988,
+        "num": 428988,
+        "word": "张若昀搜证五秒一吓",
+        "onboard_time": 1679555367,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 350188,
+        "num": 350188,
+        "word": "再也不敢不洗手了",
+        "onboard_time": 1679554467,
+        "rank": 17,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 337641,
+        "num": 337641,
+        "word": "华为发布会",
+        "onboard_time": 1679551826,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 211476,
+        "num": 313623,
+        "word": "P60夜视长焦有多强",
+        "onboard_time": 1679554707,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 308047,
+        "num": 308047,
+        "word": "潘长江否认全家移民美国",
+        "onboard_time": 1679556388,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 305595,
+        "num": 305595,
+        "word": "曹德旺谈大学生热衷考公务员",
+        "onboard_time": 1679545050,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291001,
+        "num": 291001,
+        "word": "奥利奥",
+        "onboard_time": 1679543789,
+        "rank": 22,
+        "category": "美食,艺人"
+      },
+      {
+        "raw_hot": 269771,
+        "num": 269771,
+        "word": "杭州直达香港高铁太火了",
+        "onboard_time": 1679544026,
+        "rank": 23,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 260419,
+        "num": 260419,
+        "word": "吴世勋朴灿烈李响安欣套装",
+        "onboard_time": 1679545890,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 236640,
+        "num": 236640,
+        "word": "地铁里原来真有座位继承制",
+        "onboard_time": 1679541025,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 234829,
+        "num": 234829,
+        "word": "虞书欣镜头下的云之羽",
+        "onboard_time": 1679550266,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 231363,
+        "num": 231363,
+        "word": "黄明昊把杨蓉吓跪了",
+        "onboard_time": 1679551405,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222298,
+        "num": 222298,
+        "word": "微博之夜",
+        "onboard_time": 1679541147,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 220495,
+        "num": 220495,
+        "word": "大熊猫胆子有多小",
+        "onboard_time": 1679549369,
+        "rank": 29,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 211764,
+        "num": 211764,
+        "word": "每天少刷15分钟手机改善免疫",
+        "onboard_time": 1679546553,
+        "rank": 30,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 210569,
+        "num": 210569,
+        "word": "长焦镜头下的夜景有多美",
+        "onboard_time": 1679556026,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209428,
+        "num": 209428,
+        "word": "王俊凯王源微博之夜官宣",
+        "onboard_time": 1679543610,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 200994,
+        "num": 200994,
+        "word": "金度延韩国芭莎时尚大片",
+        "onboard_time": 1679554287,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 191577,
+        "num": 191577,
+        "word": "微博之夜直播预约",
+        "onboard_time": 1679540485,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 422578,
+        "num": 189636,
+        "word": "钟文泽",
+        "onboard_time": 1679553566,
+        "rank": 35,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 182485,
+        "num": 182485,
+        "word": "舒淇维持身型秘诀",
+        "onboard_time": 1679554707,
+        "rank": 36,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 179474,
+        "num": 179474,
+        "word": "湖人46次罚球",
+        "onboard_time": 1679551227,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166197,
+        "num": 166197,
+        "word": "才知道哭真的很有用",
+        "onboard_time": 1679556208,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154861,
+        "num": 154861,
+        "word": "离职后还能让公司记住",
+        "onboard_time": 1679544810,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154659,
+        "num": 154659,
+        "word": "新能源车充电桩海外需求暴涨218%",
+        "onboard_time": 1679555967,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 147216,
+        "num": 147216,
+        "word": "李彦宏称中国基本不会再出OpenAI",
+        "onboard_time": 1679543306,
+        "rank": 41,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 141296,
+        "num": 141296,
+        "word": "好想送这只乌龟去打工",
+        "onboard_time": 1679553386,
+        "rank": 42,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 133308,
+        "num": 133308,
+        "word": "Mirror成员向林俊杰道歉",
+        "onboard_time": 1679536107,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 128535,
+        "num": 128535,
+        "word": "鼻子眼睛皮肤过敏都该怎么办",
+        "onboard_time": 1679552725,
+        "rank": 44,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 127238,
+        "num": 127238,
+        "word": "归晓说路晨你凶你娃的妈",
+        "onboard_time": 1679554766,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 122553,
+        "num": 122553,
+        "word": "青岛偶遇白敬亭逛街",
+        "onboard_time": 1679540969,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119762,
+        "num": 119762,
+        "word": "一起露营吧总导演晒聊天记录",
+        "onboard_time": 1679552189,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118035,
+        "num": 118035,
+        "word": "大学生的椅子都在忍辱负重",
+        "onboard_time": 1679548468,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 114736,
+        "num": 114736,
+        "word": "NCT澳门",
+        "onboard_time": 1679547989,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#共行天下大道共创美好未来#"
+    }
+  }
+}
