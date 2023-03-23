@@ -1,6 +1,6 @@
 {
   "startTime": 1679588746312,
-  "endTime": 1679606082569,
+  "endTime": 1679607218400,
   "band_list": [
     {
       "raw_hot": 1780848,
@@ -531,6 +531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 41633,
+      "num": 20564,
+      "word": "女子冲进地铁车门致骨折索赔22万",
+      "onboard_time": 1679604912,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33093,
       "num": 29821,
       "word": "哭砂",
@@ -545,14 +553,6 @@
       "onboard_time": 1679599632,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 23801,
-      "num": 20497,
-      "word": "女子冲进地铁车门致骨折索赔22万",
-      "onboard_time": 1679604912,
-      "rank": 30,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

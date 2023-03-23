@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679606082569,
+  "endTime": 1679607218400,
   "band_list": [
     {
       "raw_hot": 7256959,
@@ -9595,6 +9595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 41633,
+      "num": 20564,
+      "word": "女子冲进地铁车门致骨折索赔22万",
+      "onboard_time": 1679604912,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41485,
       "num": 174469,
       "word": "撒贝宁在做一种很新的菜",
@@ -9681,14 +9689,6 @@
       "onboard_time": 1679228248,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 23801,
-      "num": 20497,
-      "word": "女子冲进地铁车门致骨折索赔22万",
-      "onboard_time": 1679604912,
-      "rank": 30,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
