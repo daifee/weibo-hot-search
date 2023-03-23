@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679534646031,
+  "endTime": 1679536059130,
   "band_list": [
     {
       "raw_hot": 7256959,
@@ -427,6 +427,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1364109,
+      "num": 723431,
+      "word": "客运站要消失了吗",
+      "onboard_time": 1679532269,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1359788,
       "num": 902856,
       "word": "丁太升说声生不息首期最差是张杰",
@@ -592,14 +600,6 @@
       "word": "4名学生被引诱至缅甸全程经历",
       "onboard_time": 1679464168,
       "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1216486,
-      "num": 723431,
-      "word": "客运站要消失了吗",
-      "onboard_time": 1679532269,
-      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -2019,6 +2019,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 573553,
+      "num": 573553,
+      "word": "早午餐不要合成一顿",
+      "onboard_time": 1679533289,
+      "rank": 12,
+      "category": "美食"
+    },
+    {
       "raw_hot": 571046,
       "num": 571046,
       "word": "男子追砍邻居祖孙俩被老伯制服",
@@ -2635,6 +2643,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 443991,
+      "num": 443991,
+      "word": "徐峥王宝强再现泰囧经典造型",
+      "onboard_time": 1679534007,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 441495,
       "num": 441495,
       "word": "重启之极海听雷2香港定档",
@@ -2697,6 +2713,14 @@
       "onboard_time": 1679393491,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 435772,
+      "num": 276604,
+      "word": "男子因父亲未尽抚养义务拒绝赡养",
+      "onboard_time": 1679533171,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 434145,
@@ -2795,14 +2819,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 423012,
-      "num": 276604,
-      "word": "男子因父亲未尽抚养义务拒绝赡养",
-      "onboard_time": 1679533171,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 422443,
       "num": 422443,
       "word": "俄方在机场举行迎宾仪式",
@@ -2897,14 +2913,6 @@
       "onboard_time": 1679383590,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 409519,
-      "num": 409519,
-      "word": "早午餐不要合成一顿",
-      "onboard_time": 1679533289,
-      "rank": 12,
-      "category": "美食"
     },
     {
       "raw_hot": 408475,
@@ -3201,6 +3209,14 @@
       "onboard_time": 1679300848,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 362823,
+      "num": 362823,
+      "word": "C罗说沙特联会成为五大联赛",
+      "onboard_time": 1679533888,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 361602,
@@ -3691,6 +3707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 308244,
+      "num": 308244,
+      "word": "张颂文大学时期嘻哈风穿搭",
+      "onboard_time": 1679535866,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 307958,
       "num": 307958,
       "word": "上海街头现移动冰块车",
@@ -3987,6 +4011,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 280706,
+      "num": 280706,
+      "word": "Wayward首发",
+      "onboard_time": 1679532807,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 279520,
       "num": 285576,
       "word": "张远官宣加盟毛雪汪",
@@ -4091,20 +4123,20 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 267263,
+      "num": 267263,
+      "word": "孙怡问花粉是什么意思",
+      "onboard_time": 1679531670,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 267149,
       "num": 267149,
       "word": "青春环游记新口号",
       "onboard_time": 1679474665,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 266999,
-      "num": 266999,
-      "word": "孙怡问花粉是什么意思",
-      "onboard_time": 1679531670,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 266959,
@@ -4155,14 +4187,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 261615,
-      "num": 261615,
-      "word": "Wayward首发",
-      "onboard_time": 1679532807,
-      "rank": 24,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 261361,
       "num": 261361,
       "word": "鞠婧祎蓝色头巾照",
@@ -4211,6 +4235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 252953,
+      "num": 205977,
+      "word": "健身房老板健身时拉断器材",
+      "onboard_time": 1679534727,
+      "rank": 30,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 252626,
       "num": 252626,
       "word": "直播平台回应苏州杀夫女子打赏金额",
@@ -4233,6 +4265,14 @@
       "onboard_time": 1679286872,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 250439,
+      "num": 250439,
+      "word": "这猫怎么正反面长一样",
+      "onboard_time": 1679534727,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 250218,
@@ -4465,6 +4505,22 @@
       "onboard_time": 1679306131,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 238502,
+      "num": 238502,
+      "word": "女生发视频吐槽意外带火甲骨文专业",
+      "onboard_time": 1679534906,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 238204,
+      "num": 238204,
+      "word": "国际小狗日",
+      "onboard_time": 1679535206,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 238188,
@@ -4915,14 +4971,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 208361,
-      "num": 208361,
-      "word": "徐峥王宝强再现泰囧经典造型",
-      "onboard_time": 1679534007,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 207939,
       "num": 207939,
       "word": "龚俊微博之夜宣传VCR",
@@ -5097,14 +5145,6 @@
       "onboard_time": 1679491114,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 203219,
-      "num": 203219,
-      "word": "C罗说沙特联会成为五大联赛",
-      "onboard_time": 1679533888,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 203005,
@@ -5803,6 +5843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 177488,
+      "num": 177488,
+      "word": "歼10首飞试飞员说哪怕回不来也要上",
+      "onboard_time": 1679532991,
+      "rank": 35,
+      "category": "军事"
+    },
+    {
       "raw_hot": 177408,
       "num": 177408,
       "word": "另有家属求助称4名孩子在缅甸失联",
@@ -5817,6 +5865,14 @@
       "onboard_time": 1679471606,
       "rank": 36,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 176912,
+      "num": 176912,
+      "word": "我找到新工作了",
+      "onboard_time": 1679534906,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 176599,
@@ -6059,14 +6115,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 164820,
-      "num": 164820,
-      "word": "歼10首飞试飞员说哪怕回不来也要上",
-      "onboard_time": 1679532991,
-      "rank": 35,
-      "category": "军事"
-    },
-    {
       "raw_hot": 164722,
       "num": 153832,
       "word": "元气森林新包装气更足",
@@ -6096,6 +6144,14 @@
       "word": "喻言练习水上芭蕾vlog",
       "onboard_time": 1679446949,
       "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 163749,
+      "num": 163749,
+      "word": "程潇白色露腰短上衣造型",
+      "onboard_time": 1679535567,
+      "rank": 36,
       "category": "艺人"
     },
     {
@@ -6969,6 +7025,14 @@
       "onboard_time": 1679226508,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 120238,
+      "num": 120238,
+      "word": "恒大汽车公告或有停产风险",
+      "onboard_time": 1679535747,
+      "rank": 42,
+      "category": "财经"
     },
     {
       "raw_hot": 119872,

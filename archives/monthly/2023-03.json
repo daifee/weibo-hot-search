@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679534646031,
+  "endTime": 1679536059130,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -2731,6 +2731,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1364109,
+      "num": 723431,
+      "word": "客运站要消失了吗",
+      "onboard_time": 1679532269,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1360818,
       "num": 398992,
       "word": "女篮李梦",
@@ -3449,14 +3457,6 @@
       "onboard_time": 1678412185,
       "rank": 13,
       "category": "科技"
-    },
-    {
-      "raw_hot": 1216486,
-      "num": 723431,
-      "word": "客运站要消失了吗",
-      "onboard_time": 1679532269,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1215759,
@@ -11603,6 +11603,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 573553,
+      "num": 573553,
+      "word": "早午餐不要合成一顿",
+      "onboard_time": 1679533289,
+      "rank": 12,
+      "category": "美食"
+    },
+    {
       "raw_hot": 573322,
       "num": 573322,
       "word": "SMTOWN和HYBE开通联合账号",
@@ -15819,6 +15827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 443991,
+      "num": 443991,
+      "word": "徐峥王宝强再现泰囧经典造型",
+      "onboard_time": 1679534007,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 443344,
       "num": 211671,
       "word": "女生辞职考研八次失败",
@@ -16161,6 +16177,14 @@
       "onboard_time": 1677853591,
       "rank": 32,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 435772,
+      "num": 276604,
+      "word": "男子因父亲未尽抚养义务拒绝赡养",
+      "onboard_time": 1679533171,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 435528,
@@ -16699,14 +16723,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 423012,
-      "num": 276604,
-      "word": "男子因父亲未尽抚养义务拒绝赡养",
-      "onboard_time": 1679533171,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 423006,
       "num": 423006,
       "word": "李一桐剧透今晚有大刀",
@@ -17177,14 +17193,6 @@
       "onboard_time": 1678330648,
       "rank": 35,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 409519,
-      "num": 409519,
-      "word": "早午餐不要合成一顿",
-      "onboard_time": 1679533289,
-      "rank": 12,
-      "category": "美食"
     },
     {
       "raw_hot": 409097,
@@ -19273,6 +19281,14 @@
       "onboard_time": 1678671385,
       "rank": 25,
       "category": "科技"
+    },
+    {
+      "raw_hot": 362823,
+      "num": 362823,
+      "word": "C罗说沙特联会成为五大联赛",
+      "onboard_time": 1679533888,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 362819,
@@ -22427,6 +22443,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 308244,
+      "num": 308244,
+      "word": "张颂文大学时期嘻哈风穿搭",
+      "onboard_time": 1679535866,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 308187,
       "num": 308187,
       "word": "cruel summer",
@@ -23987,6 +24011,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 280706,
+      "num": 280706,
+      "word": "Wayward首发",
+      "onboard_time": 1679532807,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 280669,
       "num": 246301,
       "word": "成龙张学友张家辉梁朝伟刘德华合照",
@@ -24907,20 +24939,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 267263,
+      "num": 267263,
+      "word": "孙怡问花粉是什么意思",
+      "onboard_time": 1679531670,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 267149,
       "num": 267149,
       "word": "青春环游记新口号",
       "onboard_time": 1679474665,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 266999,
-      "num": 266999,
-      "word": "孙怡问花粉是什么意思",
-      "onboard_time": 1679531670,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 266959,
@@ -25281,14 +25313,6 @@
       "onboard_time": 1678755687,
       "rank": 30,
       "category": "科技"
-    },
-    {
-      "raw_hot": 261615,
-      "num": 261615,
-      "word": "Wayward首发",
-      "onboard_time": 1679532807,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 261529,
@@ -25771,6 +25795,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 252953,
+      "num": 205977,
+      "word": "健身房老板健身时拉断器材",
+      "onboard_time": 1679534727,
+      "rank": 30,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 252639,
       "num": 252639,
       "word": "制片人梅子笑为风波中的女演员抱不平",
@@ -25929,6 +25961,14 @@
       "onboard_time": 1678184550,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 250439,
+      "num": 250439,
+      "word": "这猫怎么正反面长一样",
+      "onboard_time": 1679534727,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 250389,
@@ -26851,6 +26891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 238502,
+      "num": 238502,
+      "word": "女生发视频吐槽意外带火甲骨文专业",
+      "onboard_time": 1679534906,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 238371,
       "num": 238371,
       "word": "U20国足1比3韩国U20",
@@ -26865,6 +26913,14 @@
       "onboard_time": 1678413325,
       "rank": 39,
       "category": "财经,科技"
+    },
+    {
+      "raw_hot": 238204,
+      "num": 238204,
+      "word": "国际小狗日",
+      "onboard_time": 1679535206,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 238201,
@@ -29659,14 +29715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 208361,
-      "num": 208361,
-      "word": "徐峥王宝强再现泰囧经典造型",
-      "onboard_time": 1679534007,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 208319,
       "num": 208319,
       "word": "TES战胜XYG",
@@ -30697,14 +30745,6 @@
       "onboard_time": 1677734488,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 203219,
-      "num": 203219,
-      "word": "C罗说沙特联会成为五大联赛",
-      "onboard_time": 1679533888,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 203179,
@@ -34723,6 +34763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 177488,
+      "num": 177488,
+      "word": "歼10首飞试飞员说哪怕回不来也要上",
+      "onboard_time": 1679532991,
+      "rank": 35,
+      "category": "军事"
+    },
+    {
       "raw_hot": 177462,
       "num": 177462,
       "word": "瑞士信贷股价暴跌",
@@ -34817,6 +34865,14 @@
       "onboard_time": 1678576878,
       "rank": 14,
       "category": "财经"
+    },
+    {
+      "raw_hot": 176912,
+      "num": 176912,
+      "word": "我找到新工作了",
+      "onboard_time": 1679534906,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 176891,
@@ -36171,14 +36227,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 164820,
-      "num": 164820,
-      "word": "歼10首飞试飞员说哪怕回不来也要上",
-      "onboard_time": 1679532991,
-      "rank": 35,
-      "category": "军事"
-    },
-    {
       "raw_hot": 164722,
       "num": 153832,
       "word": "元气森林新包装气更足",
@@ -36297,6 +36345,14 @@
       "onboard_time": 1678981824,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163749,
+      "num": 163749,
+      "word": "程潇白色露腰短上衣造型",
+      "onboard_time": 1679535567,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 163701,
@@ -41193,6 +41249,14 @@
       "onboard_time": 1678178068,
       "rank": 41,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 120238,
+      "num": 120238,
+      "word": "恒大汽车公告或有停产风险",
+      "onboard_time": 1679535747,
+      "rank": 42,
+      "category": "财经"
     },
     {
       "raw_hot": 119947,
