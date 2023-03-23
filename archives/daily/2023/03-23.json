@@ -1,10 +1,10 @@
 {
   "startTime": 1679502284596,
-  "endTime": 1679552555376,
+  "endTime": 1679553373822,
   "band_list": [
     {
-      "raw_hot": 2678045,
-      "num": 2678045,
+      "raw_hot": 2985451,
+      "num": 2985451,
       "word": "女生月薪8千花15称存两百万退休",
       "onboard_time": 1679550086,
       "rank": 0,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2442342,
-      "num": 439597,
+      "num": 477220,
       "word": "张凌赫白鹿",
       "onboard_time": 1679548409,
       "rank": 10,
@@ -115,20 +115,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1292827,
+      "num": 1292827,
+      "word": "耳念珠菌已遍布美国一半以上的州",
+      "onboard_time": 1679548768,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1288163,
       "num": 722767,
       "word": "孙笑川吧被指有大量侮辱女性言论",
       "onboard_time": 1679498429,
       "rank": 3,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 1284837,
-      "num": 1284837,
-      "word": "耳念珠菌已遍布美国一半以上的州",
-      "onboard_time": 1679548768,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1151502,
@@ -179,12 +179,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 873600,
+      "num": 453644,
+      "word": "刘亦菲素颜买衣服",
+      "onboard_time": 1679552189,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 844737,
       "num": 844737,
       "word": "曹德旺谈大学生热衷考公务员",
       "onboard_time": 1679545050,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 839006,
+      "num": 839006,
+      "word": "华为P60",
+      "onboard_time": 1679552065,
+      "rank": 19,
+      "category": "科技"
     },
     {
       "raw_hot": 834825,
@@ -283,6 +299,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 596765,
+      "num": 596765,
+      "word": "帅哥不可以男演员颜值",
+      "onboard_time": 1679552006,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 567146,
       "num": 567146,
       "word": "闰二月二双龙抬头",
@@ -291,20 +315,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 566224,
+      "num": 566224,
+      "word": "关晓彤青花瓷长裙",
+      "onboard_time": 1679551468,
+      "rank": 6,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 561329,
       "num": 561329,
       "word": "JackeyLove回应五连败",
       "onboard_time": 1679539345,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 556368,
-      "num": 429158,
-      "word": "刘亦菲素颜买衣服",
-      "onboard_time": 1679552189,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 550816,
@@ -347,6 +371,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 509505,
+      "num": 509505,
+      "word": "华为发布会",
+      "onboard_time": 1679551826,
+      "rank": 21,
+      "category": "科技"
+    },
+    {
       "raw_hot": 509222,
       "num": 509222,
       "word": "我找到新工作了",
@@ -361,14 +393,6 @@
       "onboard_time": 1679534906,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 502741,
-      "num": 502741,
-      "word": "关晓彤青花瓷长裙",
-      "onboard_time": 1679551468,
-      "rank": 6,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 502106,
@@ -539,20 +563,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 329450,
+      "num": 329450,
+      "word": "黄明昊把杨蓉吓跪了",
+      "onboard_time": 1679551405,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 328590,
       "num": 328590,
       "word": "莎头",
       "onboard_time": 1679547631,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 321449,
-      "num": 321449,
-      "word": "黄明昊把杨蓉吓跪了",
-      "onboard_time": 1679551405,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 317884,
@@ -601,22 +625,6 @@
       "onboard_time": 1679535747,
       "rank": 42,
       "category": "财经"
-    },
-    {
-      "raw_hot": 303437,
-      "num": 303437,
-      "word": "华为P60",
-      "onboard_time": 1679552065,
-      "rank": 19,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 302555,
-      "num": 302555,
-      "word": "华为发布会",
-      "onboard_time": 1679551826,
-      "rank": 21,
-      "category": "科技"
     },
     {
       "raw_hot": 301403,
@@ -771,6 +779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 240951,
+      "num": 240951,
+      "word": "大熊猫胆子有多小",
+      "onboard_time": 1679549369,
+      "rank": 45,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 240684,
       "num": 240684,
       "word": "爱情而已不断更",
@@ -801,14 +817,6 @@
       "onboard_time": 1679540726,
       "rank": 35,
       "category": "美食,幽默"
-    },
-    {
-      "raw_hot": 237765,
-      "num": 237765,
-      "word": "大熊猫胆子有多小",
-      "onboard_time": 1679549369,
-      "rank": 45,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 233429,
@@ -851,12 +859,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 218520,
-      "num": 218520,
-      "word": "帅哥不可以男演员颜值",
-      "onboard_time": 1679552006,
-      "rank": 30,
-      "category": "影视"
+      "raw_hot": 212240,
+      "num": 212240,
+      "word": "湖人46次罚球",
+      "onboard_time": 1679551227,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 211494,
@@ -873,6 +881,14 @@
       "onboard_time": 1679485888,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 210590,
+      "num": 210590,
+      "word": "LPL十大选手投票结果",
+      "onboard_time": 1679552666,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 209770,
@@ -937,6 +953,14 @@
       "onboard_time": 1679501663,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 194632,
+      "num": 194632,
+      "word": "一起露营吧总导演晒聊天记录",
+      "onboard_time": 1679552189,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 192680,
@@ -1019,14 +1043,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 180499,
-      "num": 180499,
-      "word": "湖人46次罚球",
-      "onboard_time": 1679551227,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 180009,
       "num": 172984,
       "word": "90后小伙经4个媒人相亲1个女孩",
@@ -1067,14 +1083,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 169210,
-      "num": 169210,
-      "word": "一起露营吧总导演晒聊天记录",
-      "onboard_time": 1679552189,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 168509,
       "num": 168509,
       "word": "警方通报女孩将小男孩扔井中",
@@ -1099,12 +1107,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 154596,
-      "num": 154596,
+      "raw_hot": 162113,
+      "num": 162113,
       "word": "大学生的椅子都在忍辱负重",
       "onboard_time": 1679548468,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 143501,
+      "num": 143501,
+      "word": "鼻子眼睛皮肤过敏都该怎么办",
+      "onboard_time": 1679552725,
+      "rank": 36,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 138072,
@@ -1411,7 +1427,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 57839,
+      "raw_hot": 61160,
       "num": 1036042,
       "word": "春花遇春耕美成画卷",
       "onboard_time": 1679549908,
