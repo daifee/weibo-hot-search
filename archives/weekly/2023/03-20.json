@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679570109077,
+  "endTime": 1679571218400,
   "band_list": [
     {
       "raw_hot": 7256959,
@@ -171,20 +171,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 2149739,
+      "num": 602450,
+      "word": "夫妻相约自杀妻子未如约被判刑",
+      "onboard_time": 1679564728,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2146606,
       "num": 2146606,
       "word": "拒绝和玲娜贝儿互动的当事人回应",
       "onboard_time": 1679276187,
       "rank": 45,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 2133100,
-      "num": 602450,
-      "word": "夫妻相约自杀妻子未如约被判刑",
-      "onboard_time": 1679564728,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2125928,
@@ -524,7 +524,7 @@
     },
     {
       "raw_hot": 1386544,
-      "num": 280270,
+      "num": 289540,
       "word": "宝格丽活动",
       "onboard_time": 1679567906,
       "rank": 21,
@@ -985,6 +985,14 @@
       "onboard_time": 1679489728,
       "rank": 11,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 1038564,
+      "num": 367418,
+      "word": "张颂文 哈哈我疯了",
+      "onboard_time": 1679570010,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 1034170,
@@ -1451,6 +1459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 843907,
+      "num": 843907,
+      "word": "情侣恋爱一年后的合照变化",
+      "onboard_time": 1679563766,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 840129,
       "num": 840129,
       "word": "凉拌菜是减脂餐的天花板吧",
@@ -1529,14 +1545,6 @@
       "onboard_time": 1679237848,
       "rank": 4,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 807913,
-      "num": 807913,
-      "word": "情侣恋爱一年后的合照变化",
-      "onboard_time": 1679563766,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 800279,
@@ -3379,6 +3387,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 421805,
+      "num": 421805,
+      "word": "朱熹祖宅地3亿元直播起拍",
+      "onboard_time": 1679568568,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 419826,
       "num": 419826,
       "word": "Miss工作室官宣加盟新公司",
@@ -3521,6 +3537,14 @@
       "onboard_time": 1679450607,
       "rank": 8,
       "category": "情感,音乐"
+    },
+    {
+      "raw_hot": 402670,
+      "num": 333076,
+      "word": "张嘉倪露腰牛仔裙",
+      "onboard_time": 1679569887,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 401709,
@@ -3753,6 +3777,14 @@
       "onboard_time": 1679412153,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 371966,
+      "num": 371966,
+      "word": "成毅烤糍粑",
+      "onboard_time": 1679568808,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 371815,
@@ -4115,6 +4147,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 328793,
+      "num": 328793,
+      "word": "RNG翻盘RA",
+      "onboard_time": 1679567608,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 328590,
       "num": 328590,
       "word": "莎头",
@@ -4179,14 +4219,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 322506,
-      "num": 293658,
-      "word": "张颂文 哈哈我疯了",
-      "onboard_time": 1679570010,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 322444,
       "num": 322444,
       "word": "姆巴佩两失单刀",
@@ -4241,6 +4273,14 @@
       "onboard_time": 1679405669,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 319088,
+      "num": 319088,
+      "word": "小狗头像",
+      "onboard_time": 1679570187,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 317807,
@@ -4435,6 +4475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 301526,
+      "num": 301526,
+      "word": "HLE战胜DK",
+      "onboard_time": 1679570788,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 301513,
       "num": 301513,
       "word": "井柏然做的菜",
@@ -4523,14 +4571,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 294438,
-      "num": 294438,
-      "word": "成毅烤糍粑",
-      "onboard_time": 1679568808,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 294022,
       "num": 294022,
       "word": "女子寺庙游玩遇到新式鬼屋",
@@ -4539,20 +4579,20 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 293528,
-      "num": 293528,
-      "word": "朱熹祖宅地3亿元直播起拍",
-      "onboard_time": 1679568568,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 292405,
       "num": 292405,
       "word": "严浩翔考科三视频",
       "onboard_time": 1679468607,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 292113,
+      "num": 292113,
+      "word": "网红团队狂摇杭州百年樱花树",
+      "onboard_time": 1679566348,
+      "rank": 24,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 292062,
@@ -4635,6 +4675,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 285070,
+      "num": 285070,
+      "word": "RA打野",
+      "onboard_time": 1679571027,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 284454,
       "num": 308391,
       "word": "下月起长沙可乘高铁直达香港",
@@ -4665,14 +4713,6 @@
       "onboard_time": 1679408252,
       "rank": 26,
       "category": "影视,情感"
-    },
-    {
-      "raw_hot": 282633,
-      "num": 282633,
-      "word": "网红团队狂摇杭州百年樱花树",
-      "onboard_time": 1679566348,
-      "rank": 24,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 282371,
@@ -4721,14 +4761,6 @@
       "onboard_time": 1679286996,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 279351,
-      "num": 279351,
-      "word": "张嘉倪露腰牛仔裙",
-      "onboard_time": 1679569887,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 278820,
@@ -5113,6 +5145,14 @@
       "onboard_time": 1679468067,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 247337,
+      "num": 247337,
+      "word": "驻缅甸大使同缅方谈加强打击网络诈骗",
+      "onboard_time": 1679569109,
+      "rank": 30,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 246525,
@@ -5899,14 +5939,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 209242,
-      "num": 209242,
-      "word": "驻缅甸大使同缅方谈加强打击网络诈骗",
-      "onboard_time": 1679569109,
-      "rank": 30,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 208991,
       "num": 208991,
       "word": "辨别真假玲娜贝儿的方法",
@@ -6491,14 +6523,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 192590,
-      "num": 192590,
-      "word": "RNG翻盘RA",
-      "onboard_time": 1679567608,
-      "rank": 35,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 192539,
       "num": 192539,
       "word": "春分节气壁纸",
@@ -6513,6 +6537,14 @@
       "onboard_time": 1679411370,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 191992,
+      "num": 191992,
+      "word": "大学生怎么什么都答应",
+      "onboard_time": 1679568328,
+      "rank": 42,
+      "category": "幽默,教育"
     },
     {
       "raw_hot": 191949,
@@ -6609,6 +6641,14 @@
       "onboard_time": 1679483007,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 189460,
+      "num": 189460,
+      "word": "小说坠落",
+      "onboard_time": 1679570307,
+      "rank": 37,
+      "category": "其它"
     },
     {
       "raw_hot": 188566,
@@ -6987,6 +7027,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 177057,
+      "num": 177057,
+      "word": "他是谁88案重现",
+      "onboard_time": 1679570486,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 176798,
       "num": 176798,
       "word": "退税待领取骗局",
@@ -7048,6 +7096,14 @@
       "word": "NBA",
       "onboard_time": 1679541988,
       "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 173457,
+      "num": 173457,
+      "word": "吴前结婚",
+      "onboard_time": 1679570967,
+      "rank": 40,
       "category": "体育"
     },
     {
@@ -7507,6 +7563,14 @@
       "category": "情感,教育"
     },
     {
+      "raw_hot": 153007,
+      "num": 153007,
+      "word": "李现微博之夜VCR",
+      "onboard_time": 1679570729,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 152893,
       "num": 152893,
       "word": "此次沙尘天气会持续多久",
@@ -7825,14 +7889,6 @@
       "onboard_time": 1679490449,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 140068,
-      "num": 140068,
-      "word": "大学生怎么什么都答应",
-      "onboard_time": 1679568328,
-      "rank": 42,
-      "category": "幽默,教育"
     },
     {
       "raw_hot": 139549,
@@ -8596,7 +8652,7 @@
     },
     {
       "raw_hot": 103475,
-      "num": 212398,
+      "num": 247669,
       "word": "弱信号下也能自由通信吗",
       "onboard_time": 1679569468,
       "rank": 29,
@@ -8899,6 +8955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 41485,
+      "num": 174469,
+      "word": "撒贝宁在做一种很新的菜",
+      "onboard_time": 1679569227,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38472,
       "num": 37033,
       "word": "各地旅游现状",
@@ -8961,14 +9025,6 @@
       "onboard_time": 1679500289,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 28614,
-      "num": 150289,
-      "word": "撒贝宁在做一种很新的菜",
-      "onboard_time": 1679569227,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 27779,

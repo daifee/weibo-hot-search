@@ -1,6 +1,6 @@
 {
   "startTime": 1679502284596,
-  "endTime": 1679570109077,
+  "endTime": 1679571218400,
   "band_list": [
     {
       "raw_hot": 3180080,
@@ -43,7 +43,7 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 2133100,
+      "raw_hot": 2149739,
       "num": 602450,
       "word": "夫妻相约自杀妻子未如约被判刑",
       "onboard_time": 1679564728,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 1386544,
-      "num": 280270,
+      "num": 289540,
       "word": "宝格丽活动",
       "onboard_time": 1679567906,
       "rank": 21,
@@ -235,6 +235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1038564,
+      "num": 367418,
+      "word": "张颂文 哈哈我疯了",
+      "onboard_time": 1679570010,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1002360,
       "num": 1002360,
       "word": "帅哥不可以男演员颜值",
@@ -299,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 843907,
+      "num": 843907,
+      "word": "情侣恋爱一年后的合照变化",
+      "onboard_time": 1679563766,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 834825,
       "num": 834825,
       "word": "张颂文大学时期嘻哈风穿搭",
@@ -313,14 +329,6 @@
       "onboard_time": 1679544026,
       "rank": 18,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 807913,
-      "num": 807913,
-      "word": "情侣恋爱一年后的合照变化",
-      "onboard_time": 1679563766,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 774531,
@@ -731,6 +739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 421805,
+      "num": 421805,
+      "word": "朱熹祖宅地3亿元直播起拍",
+      "onboard_time": 1679568568,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 416749,
       "num": 416749,
       "word": "央广网评P图造黄谣牟利",
@@ -761,6 +777,14 @@
       "onboard_time": 1679540065,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 402670,
+      "num": 333076,
+      "word": "张嘉倪露腰牛仔裙",
+      "onboard_time": 1679569887,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 401281,
@@ -819,6 +843,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 371966,
+      "num": 371966,
+      "word": "成毅烤糍粑",
+      "onboard_time": 1679568808,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 362823,
       "num": 362823,
       "word": "C罗说沙特联会成为五大联赛",
@@ -859,6 +891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 328793,
+      "num": 328793,
+      "word": "RNG翻盘RA",
+      "onboard_time": 1679567608,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 328590,
       "num": 328590,
       "word": "莎头",
@@ -875,12 +915,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 322506,
-      "num": 293658,
-      "word": "张颂文 哈哈我疯了",
-      "onboard_time": 1679570010,
+      "raw_hot": 319088,
+      "num": 319088,
+      "word": "小狗头像",
+      "onboard_time": 1679570187,
       "rank": 16,
-      "category": "艺人"
+      "category": "情感"
     },
     {
       "raw_hot": 311651,
@@ -923,6 +963,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 301526,
+      "num": 301526,
+      "word": "HLE战胜DK",
+      "onboard_time": 1679570788,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 301403,
       "num": 301403,
       "word": "心医林霖",
@@ -939,20 +987,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 294438,
-      "num": 294438,
-      "word": "成毅烤糍粑",
-      "onboard_time": 1679568808,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 293528,
-      "num": 293528,
-      "word": "朱熹祖宅地3亿元直播起拍",
-      "onboard_time": 1679568568,
-      "rank": 18,
-      "category": "社会新闻"
+      "raw_hot": 292113,
+      "num": 292113,
+      "word": "网红团队狂摇杭州百年樱花树",
+      "onboard_time": 1679566348,
+      "rank": 24,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 287374,
@@ -971,12 +1011,12 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 282633,
-      "num": 282633,
-      "word": "网红团队狂摇杭州百年樱花树",
-      "onboard_time": 1679566348,
+      "raw_hot": 285070,
+      "num": 285070,
+      "word": "RA打野",
+      "onboard_time": 1679571027,
       "rank": 24,
-      "category": "社会新闻,网红"
+      "category": "游戏"
     },
     {
       "raw_hot": 280706,
@@ -985,14 +1025,6 @@
       "onboard_time": 1679532807,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 279351,
-      "num": 279351,
-      "word": "张嘉倪露腰牛仔裙",
-      "onboard_time": 1679569887,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 277014,
@@ -1113,6 +1145,14 @@
       "onboard_time": 1679544629,
       "rank": 43,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 247337,
+      "num": 247337,
+      "word": "驻缅甸大使同缅方谈加强打击网络诈骗",
+      "onboard_time": 1679569109,
+      "rank": 30,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 247185,
@@ -1315,14 +1355,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 209242,
-      "num": 209242,
-      "word": "驻缅甸大使同缅方谈加强打击网络诈骗",
-      "onboard_time": 1679569109,
-      "rank": 30,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 208991,
       "num": 208991,
       "word": "辨别真假玲娜贝儿的方法",
@@ -1435,12 +1467,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 192590,
-      "num": 192590,
-      "word": "RNG翻盘RA",
-      "onboard_time": 1679567608,
-      "rank": 35,
-      "category": "游戏"
+      "raw_hot": 191992,
+      "num": 191992,
+      "word": "大学生怎么什么都答应",
+      "onboard_time": 1679568328,
+      "rank": 42,
+      "category": "幽默,教育"
     },
     {
       "raw_hot": 191837,
@@ -1473,6 +1505,14 @@
       "onboard_time": 1679559808,
       "rank": 19,
       "category": "科技"
+    },
+    {
+      "raw_hot": 189460,
+      "num": 189460,
+      "word": "小说坠落",
+      "onboard_time": 1679570307,
+      "rank": 37,
+      "category": "其它"
     },
     {
       "raw_hot": 188566,
@@ -1587,6 +1627,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 177057,
+      "num": 177057,
+      "word": "他是谁88案重现",
+      "onboard_time": 1679570486,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 176798,
       "num": 176798,
       "word": "退税待领取骗局",
@@ -1608,6 +1656,14 @@
       "word": "NBA",
       "onboard_time": 1679541988,
       "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 173457,
+      "num": 173457,
+      "word": "吴前结婚",
+      "onboard_time": 1679570967,
+      "rank": 40,
       "category": "体育"
     },
     {
@@ -1707,6 +1763,14 @@
       "category": "情感,教育"
     },
     {
+      "raw_hot": 153007,
+      "num": 153007,
+      "word": "李现微博之夜VCR",
+      "onboard_time": 1679570729,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 149535,
       "num": 149535,
       "word": "10后小朋友用东巴文写诗",
@@ -1729,14 +1793,6 @@
       "onboard_time": 1679560350,
       "rank": 34,
       "category": "科技"
-    },
-    {
-      "raw_hot": 140068,
-      "num": 140068,
-      "word": "大学生怎么什么都答应",
-      "onboard_time": 1679568328,
-      "rank": 42,
-      "category": "幽默,教育"
     },
     {
       "raw_hot": 138072,
@@ -1988,7 +2044,7 @@
     },
     {
       "raw_hot": 103475,
-      "num": 212398,
+      "num": 247669,
       "word": "弱信号下也能自由通信吗",
       "onboard_time": 1679569468,
       "rank": 29,
@@ -2123,6 +2179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 41485,
+      "num": 174469,
+      "word": "撒贝宁在做一种很新的菜",
+      "onboard_time": 1679569227,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37451,
       "num": 37451,
       "word": "老狼官宣加盟安吉大麓青年音乐节",
@@ -2161,14 +2225,6 @@
       "onboard_time": 1679500289,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 28614,
-      "num": 150289,
-      "word": "撒贝宁在做一种很新的菜",
-      "onboard_time": 1679569227,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 19211,

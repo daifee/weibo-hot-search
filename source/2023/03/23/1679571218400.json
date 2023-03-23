@@ -1,0 +1,410 @@
+{
+  "runTime": 1679571218400,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 843907,
+        "num": 843907,
+        "word": "情侣恋爱一年后的合照变化",
+        "onboard_time": 1679563766,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 556326,
+        "num": 556326,
+        "word": "XYG 洪洗象牛哇",
+        "onboard_time": 1679567847,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 60978,
+        "num": 541772,
+        "word": "1分钟见证歼10飞越25年",
+        "onboard_time": 1679562386,
+        "rank": 2,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 793253,
+        "num": 534529,
+        "word": "离职前一天被辞退了",
+        "onboard_time": 1679559268,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 2149739,
+        "num": 513268,
+        "word": "夫妻相约自杀妻子未如约被判刑",
+        "onboard_time": 1679564728,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 629514,
+        "num": 504846,
+        "word": "女生月薪8千花15称存两百万退休",
+        "onboard_time": 1679550086,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 493774,
+        "num": 493774,
+        "word": "进才中学否认网传女老师和学生恋爱",
+        "onboard_time": 1679564847,
+        "rank": 6,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 421805,
+        "num": 421805,
+        "word": "朱熹祖宅地3亿元直播起拍",
+        "onboard_time": 1679568568,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 413306,
+        "num": 413306,
+        "word": "杨天真当杜华面挖程潇",
+        "onboard_time": 1679560707,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 371966,
+        "num": 371966,
+        "word": "成毅烤糍粑",
+        "onboard_time": 1679568808,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1038564,
+        "num": 367418,
+        "word": "张颂文 哈哈我疯了",
+        "onboard_time": 1679570010,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1024018,
+        "num": 354741,
+        "word": "关晓彤穿了陈采尼设计礼服",
+        "onboard_time": 1679558848,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 891077,
+        "num": 348696,
+        "word": "林志玲素颜近照",
+        "onboard_time": 1679564245,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 403676,
+        "num": 339092,
+        "word": "杨洋全黑造型",
+        "onboard_time": 1679567309,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 402670,
+        "num": 333076,
+        "word": "张嘉倪露腰牛仔裙",
+        "onboard_time": 1679569887,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 328793,
+        "num": 328793,
+        "word": "RNG翻盘RA",
+        "onboard_time": 1679567608,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 319088,
+        "num": 319088,
+        "word": "小狗头像",
+        "onboard_time": 1679570187,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 315055,
+        "num": 315055,
+        "word": "网传声生不息三公歌单",
+        "onboard_time": 1679566290,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 301526,
+        "num": 301526,
+        "word": "HLE战胜DK",
+        "onboard_time": 1679570788,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 292113,
+        "num": 292113,
+        "word": "网红团队狂摇杭州百年樱花树",
+        "onboard_time": 1679566348,
+        "rank": 19,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1897929,
+        "num": 291779,
+        "word": "刘亦菲宝格丽",
+        "onboard_time": 1679566409,
+        "rank": 20,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 1260730,
+        "num": 289540,
+        "word": "宝格丽活动",
+        "onboard_time": 1679567906,
+        "rank": 21,
+        "category": "时尚,影视"
+      },
+      {
+        "raw_hot": 292476,
+        "num": 286858,
+        "word": "华为P60",
+        "onboard_time": 1679552065,
+        "rank": 22,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 281990,
+        "num": 285902,
+        "word": "白鹿赵露思同款镂空背心",
+        "onboard_time": 1679565026,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285070,
+        "num": 285070,
+        "word": "RA打野",
+        "onboard_time": 1679571027,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 282634,
+        "num": 282634,
+        "word": "DK打韩华",
+        "onboard_time": 1679561249,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 276241,
+        "num": 276241,
+        "word": "口语考试时替我爸出柜了",
+        "onboard_time": 1679557105,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 249634,
+        "num": 249634,
+        "word": "梦华录玉骨遥全国线下巡展",
+        "onboard_time": 1679560407,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 57730,
+        "num": 247669,
+        "word": "弱信号下也能自由通信吗",
+        "onboard_time": 1679569468,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247337,
+        "num": 247337,
+        "word": "驻缅甸大使同缅方谈加强打击网络诈骗",
+        "onboard_time": 1679569109,
+        "rank": 29,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 237195,
+        "num": 237195,
+        "word": "女生地铁口帮忙被骗光生活费",
+        "onboard_time": 1679557227,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225305,
+        "num": 225305,
+        "word": "双鱼座受不得半点冷落",
+        "onboard_time": 1679561967,
+        "rank": 31,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 216396,
+        "num": 216396,
+        "word": "RNG",
+        "onboard_time": 1679565387,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 213364,
+        "num": 213364,
+        "word": "林志颖否认违停",
+        "onboard_time": 1679567427,
+        "rank": 33,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 208708,
+        "num": 208708,
+        "word": "微博之夜阵容",
+        "onboard_time": 1679545890,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 197138,
+        "num": 197138,
+        "word": "Livehouse高票价对标周杰伦演唱会",
+        "onboard_time": 1679564066,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 191992,
+        "num": 191992,
+        "word": "大学生怎么什么都答应",
+        "onboard_time": 1679568328,
+        "rank": 36,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 189460,
+        "num": 189460,
+        "word": "小说坠落",
+        "onboard_time": 1679570307,
+        "rank": 37,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 177057,
+        "num": 177057,
+        "word": "他是谁88案重现",
+        "onboard_time": 1679570486,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 41485,
+        "num": 174469,
+        "word": "撒贝宁在做一种很新的菜",
+        "onboard_time": 1679569227,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173457,
+        "num": 173457,
+        "word": "吴前结婚",
+        "onboard_time": 1679570967,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159608,
+        "num": 159608,
+        "word": "南宁冰雹",
+        "onboard_time": 1679566709,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154603,
+        "num": 154603,
+        "word": "遭霸凌女孩家属发声",
+        "onboard_time": 1679554287,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153007,
+        "num": 153007,
+        "word": "李现微博之夜VCR",
+        "onboard_time": 1679570729,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 141212,
+        "num": 141212,
+        "word": "女警说癌症我都不怕还怕你个毒贩不成",
+        "onboard_time": 1679553865,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139925,
+        "num": 139925,
+        "word": "XYG BP",
+        "onboard_time": 1679563706,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 131121,
+        "num": 131121,
+        "word": "打工人专用的咖啡杯",
+        "onboard_time": 1679567069,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 128981,
+        "num": 128981,
+        "word": "打工人爬泰山主打一个效率",
+        "onboard_time": 1679565927,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 128138,
+        "num": 128138,
+        "word": "金博洋",
+        "onboard_time": 1679563706,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124271,
+        "num": 124271,
+        "word": "华为P60首发支持双向北斗卫星消息",
+        "onboard_time": 1679557888,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#共建美好世界的最大公约数#"
+    }
+  }
+}
