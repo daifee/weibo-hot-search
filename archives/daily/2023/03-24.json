@@ -1,6 +1,6 @@
 {
   "startTime": 1679588746312,
-  "endTime": 1679610807609,
+  "endTime": 1679613485711,
   "band_list": [
     {
       "raw_hot": 1780848,
@@ -17,6 +17,14 @@
       "onboard_time": 1679585669,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1155204,
+      "num": 1155204,
+      "word": "离婚冷静期内婆婆去世丈夫拒分遗产",
+      "onboard_time": 1679594235,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1052847,
@@ -83,14 +91,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 444007,
-      "num": 444007,
-      "word": "离婚冷静期内婆婆去世丈夫拒分遗产",
-      "onboard_time": 1679594235,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 390965,
       "num": 390965,
       "word": "杜华向朋友借钱签韩庚",
@@ -99,12 +99,20 @@
       "category": "综艺,幽默"
     },
     {
-      "raw_hot": 374254,
-      "num": 374254,
+      "raw_hot": 384386,
+      "num": 384386,
       "word": "女子受邀赴泰国旅游失联21天",
       "onboard_time": 1679580690,
       "rank": 8,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 356166,
+      "num": 356166,
+      "word": "中学要求向班主任交6500元培养费",
+      "onboard_time": 1679588483,
+      "rank": 46,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 322748,
@@ -123,14 +131,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 297808,
-      "num": 196223,
-      "word": "中学要求向班主任交6500元培养费",
-      "onboard_time": 1679588483,
-      "rank": 46,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 289754,
       "num": 289754,
       "word": "林志玲素颜近照",
@@ -147,8 +147,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 272302,
+      "num": 272302,
+      "word": "女子冲进地铁车门致骨折索赔22万",
+      "onboard_time": 1679604912,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 264021,
-      "num": 169587,
+      "num": 203236,
       "word": "刘亦菲杨洋同框拥抱",
       "onboard_time": 1679573907,
       "rank": 13,
@@ -179,6 +187,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 245873,
+      "num": 159225,
+      "word": "研究生去集市摆摊卖菜半天收入千元",
+      "onboard_time": 1679592436,
+      "rank": 49,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 242582,
       "num": 242582,
       "word": "张信哲陈立农合唱忘了你忘了我",
@@ -201,6 +217,14 @@
       "onboard_time": 1679570010,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 223206,
+      "num": 223206,
+      "word": "放在整个主持界也是相当炸裂",
+      "onboard_time": 1679587946,
+      "rank": 42,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 218872,
@@ -259,12 +283,36 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 170532,
+      "num": 170532,
+      "word": "聂小雨是聂宝华唯一的软肋",
+      "onboard_time": 1679590041,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 168668,
       "num": 236197,
       "word": "河南省考",
       "onboard_time": 1679579791,
       "rank": 19,
       "category": "教育"
+    },
+    {
+      "raw_hot": 164465,
+      "num": 164465,
+      "word": "演员牛犇的名字原来是这么来的",
+      "onboard_time": 1679574328,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 161838,
+      "num": 161838,
+      "word": "杭州狂摇樱花树网红公司道歉",
+      "onboard_time": 1679600052,
+      "rank": 14,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 159564,
@@ -307,28 +355,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 146073,
-      "num": 146073,
-      "word": "放在整个主持界也是相当炸裂",
-      "onboard_time": 1679587946,
-      "rank": 42,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 144835,
       "num": 194842,
       "word": "这猫真的不是大爷变的吗",
       "onboard_time": 1679584707,
       "rank": 27,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 138928,
-      "num": 91198,
-      "word": "女子冲进地铁车门致骨折索赔22万",
-      "onboard_time": 1679604912,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 133189,
@@ -355,6 +387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 125572,
+      "num": 125572,
+      "word": "陈建宇淘汰",
+      "onboard_time": 1679613383,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 124020,
       "num": 194300,
       "word": "情侣恋爱一年后的合照变化",
@@ -363,12 +403,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 120003,
-      "num": 120003,
-      "word": "聂小雨是聂宝华唯一的软肋",
-      "onboard_time": 1679590041,
-      "rank": 26,
-      "category": "影视"
+      "raw_hot": 120318,
+      "num": 120318,
+      "word": "怎么相个亲和上班一样",
+      "onboard_time": 1679581529,
+      "rank": 45,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 119527,
@@ -387,20 +427,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 109408,
+      "num": 109408,
+      "word": "老板店内贴成本表称一碗面仅赚2元",
+      "onboard_time": 1679590159,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 103161,
       "num": 103161,
       "word": "舞娘改编",
       "onboard_time": 1679579128,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 101123,
-      "num": 64162,
-      "word": "研究生去集市摆摊卖菜半天收入千元",
-      "onboard_time": 1679592436,
-      "rank": 49,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 99478,
@@ -443,22 +483,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 82542,
-      "num": 108877,
-      "word": "怎么相个亲和上班一样",
-      "onboard_time": 1679581529,
-      "rank": 45,
-      "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 82307,
-      "num": 94889,
-      "word": "老板店内贴成本表称一碗面仅赚2元",
-      "onboard_time": 1679590159,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 80946,
       "num": 74150,
       "word": "马嘉祺兰亭序全开麦",
@@ -472,6 +496,22 @@
       "word": "女生月薪8千花15称存两百万退休",
       "onboard_time": 1679550086,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 78866,
+      "num": 822074,
+      "word": "开往春天的列车带你穿越花海",
+      "onboard_time": 1679576248,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 75491,
+      "num": 75491,
+      "word": "小鸟偷摸薅毛大熊猫淡定干饭",
+      "onboard_time": 1679612658,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -491,14 +531,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 64967,
-      "num": 64967,
-      "word": "杭州狂摇樱花树网红公司道歉",
-      "onboard_time": 1679600052,
-      "rank": 14,
-      "category": "社会新闻,旅游"
-    },
-    {
       "raw_hot": 62200,
       "num": 108058,
       "word": "进才中学否认网传女老师和学生恋爱",
@@ -515,12 +547,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 49853,
-      "num": 822074,
-      "word": "开往春天的列车带你穿越花海",
-      "onboard_time": 1679576248,
-      "rank": 2,
-      "category": "社会新闻"
+      "raw_hot": 53288,
+      "num": 53288,
+      "word": "晨晓夫妇领证了",
+      "onboard_time": 1679613383,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 48356,
@@ -537,6 +569,22 @@
       "onboard_time": 1679600711,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 38627,
+      "num": 38627,
+      "word": "王鹤棣赛车服饭拍路透",
+      "onboard_time": 1679612599,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 34678,
+      "num": 34678,
+      "word": "爬泰山的理由又多了一个",
+      "onboard_time": 1679613439,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 33093,
