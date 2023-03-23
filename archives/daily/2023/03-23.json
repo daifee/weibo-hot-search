@@ -1,10 +1,10 @@
 {
   "startTime": 1679502284596,
-  "endTime": 1679538835470,
+  "endTime": 1679539410586,
   "band_list": [
     {
       "raw_hot": 2007246,
-      "num": 432556,
+      "num": 502084,
       "word": "缅北",
       "onboard_time": 1679528002,
       "rank": 29,
@@ -19,8 +19,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1304371,
-      "num": 1304371,
+      "raw_hot": 1333729,
+      "num": 1333729,
       "word": "Mirror成员向林俊杰道歉",
       "onboard_time": 1679536107,
       "rank": 0,
@@ -67,8 +67,8 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 785156,
-      "num": 785156,
+      "raw_hot": 834825,
+      "num": 834825,
       "word": "张颂文大学时期嘻哈风穿搭",
       "onboard_time": 1679535866,
       "rank": 14,
@@ -115,6 +115,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 611049,
+      "num": 611049,
+      "word": "广东省考",
+      "onboard_time": 1679538986,
+      "rank": 5,
+      "category": "教育"
+    },
+    {
       "raw_hot": 567146,
       "num": 567146,
       "word": "闰二月二双龙抬头",
@@ -147,6 +155,30 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 519778,
+      "num": 519778,
+      "word": "园润花花不是亲生胜似亲生",
+      "onboard_time": 1679536825,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 509222,
+      "num": 509222,
+      "word": "我找到新工作了",
+      "onboard_time": 1679534906,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 503747,
+      "num": 503747,
+      "word": "女生发视频吐槽意外带火甲骨文专业",
+      "onboard_time": 1679534906,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 493316,
       "num": 434228,
       "word": "孔雪儿颅顶",
@@ -160,14 +192,6 @@
       "word": "多方发声还原民宿老板上门事件",
       "onboard_time": 1679525419,
       "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 448599,
-      "num": 448599,
-      "word": "女生发视频吐槽意外带火甲骨文专业",
-      "onboard_time": 1679534906,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -193,22 +217,6 @@
       "onboard_time": 1679533171,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 434702,
-      "num": 434702,
-      "word": "我找到新工作了",
-      "onboard_time": 1679534906,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 417234,
-      "num": 417234,
-      "word": "园润花花不是亲生胜似亲生",
-      "onboard_time": 1679536825,
-      "rank": 11,
-      "category": "情感"
     },
     {
       "raw_hot": 416749,
@@ -323,6 +331,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 264766,
+      "num": 264766,
+      "word": "高叶打假签名照",
+      "onboard_time": 1679537188,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 260433,
       "num": 260433,
       "word": "叶舒华说小心发言",
@@ -331,16 +347,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 258920,
-      "num": 258920,
-      "word": "高叶打假签名照",
-      "onboard_time": 1679537188,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 258691,
-      "num": 232021,
+      "raw_hot": 260193,
+      "num": 232264,
       "word": "女子地铁唱跳骚扰乘客",
       "onboard_time": 1679536286,
       "rank": 21,
@@ -361,6 +369,14 @@
       "onboard_time": 1679484269,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 251351,
+      "num": 251351,
+      "word": "张凌赫爱与不爱很明显",
+      "onboard_time": 1679539225,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 250439,
@@ -393,6 +409,22 @@
       "onboard_time": 1679495551,
       "rank": 15,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 224178,
+      "num": 224178,
+      "word": "微博之夜搞笑名场面",
+      "onboard_time": 1679538386,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 223161,
+      "num": 223161,
+      "word": "黑暗荣耀",
+      "onboard_time": 1679538325,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 220277,
@@ -459,20 +491,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 187032,
+      "num": 187032,
+      "word": "勇士vs独行侠",
+      "onboard_time": 1679538145,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 184400,
       "num": 184400,
       "word": "程潇白色露腰短上衣造型",
       "onboard_time": 1679535567,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 181332,
-      "num": 181332,
-      "word": "微博之夜搞笑名场面",
-      "onboard_time": 1679538386,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 181268,
@@ -499,12 +531,20 @@
       "category": "军事"
     },
     {
-      "raw_hot": 169413,
-      "num": 169413,
-      "word": "黑暗荣耀",
-      "onboard_time": 1679538325,
-      "rank": 29,
-      "category": "影视"
+      "raw_hot": 176798,
+      "num": 176798,
+      "word": "退税待领取骗局",
+      "onboard_time": 1679538566,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168523,
+      "num": 168523,
+      "word": "宋亚轩加盟王牌对王牌8",
+      "onboard_time": 1679539105,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 168509,
@@ -513,14 +553,6 @@
       "onboard_time": 1679485168,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 142852,
-      "num": 142852,
-      "word": "勇士vs独行侠",
-      "onboard_time": 1679538145,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 138072,
@@ -547,20 +579,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 134112,
+      "num": 134112,
+      "word": "BigHit寻找新男团成员",
+      "onboard_time": 1679537727,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 132947,
       "num": 132947,
       "word": "CS2正式公开",
       "onboard_time": 1679527343,
       "rank": 30,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 132669,
-      "num": 132669,
-      "word": "BigHit寻找新男团成员",
-      "onboard_time": 1679537727,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 131173,
@@ -577,14 +609,6 @@
       "onboard_time": 1679508556,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 130058,
-      "num": 130058,
-      "word": "退税待领取骗局",
-      "onboard_time": 1679538566,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 129963,
@@ -617,6 +641,14 @@
       "onboard_time": 1679500527,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 122840,
+      "num": 122840,
+      "word": "当代年轻人的就业环境",
+      "onboard_time": 1679538266,
+      "rank": 43,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 117392,
@@ -699,14 +731,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 102055,
-      "num": 102055,
-      "word": "当代年轻人的就业环境",
-      "onboard_time": 1679538266,
-      "rank": 43,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 101334,
       "num": 101334,
       "word": "王鹤棣时宴杀青plog",
@@ -752,6 +776,14 @@
       "word": "Scout刷新联赛MVP纪录",
       "onboard_time": 1679489789,
       "rank": 45,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 89000,
+      "num": 89000,
+      "word": "JackeyLove回应五连败",
+      "onboard_time": 1679539345,
+      "rank": 49,
       "category": "游戏"
     },
     {
@@ -852,7 +884,7 @@
     },
     {
       "raw_hot": 16655,
-      "num": 847871,
+      "num": 853228,
       "word": "落实重大发展战略开创事业新局",
       "onboard_time": 1679486968,
       "rank": 2,
@@ -868,6 +900,9 @@
     },
     {
       "word": "#中俄元首签署联合声明#"
+    },
+    {
+      "word": "#共行天下大道共创美好未来#"
     }
   ]
 }

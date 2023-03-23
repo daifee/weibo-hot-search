@@ -1,0 +1,410 @@
+{
+  "runTime": 1679539410586,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1333729,
+        "num": 1333729,
+        "word": "Mirror成员向林俊杰道歉",
+        "onboard_time": 1679536107,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 935040,
+        "num": 935040,
+        "word": "客运站要消失了吗",
+        "onboard_time": 1679532269,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6544,
+        "num": 853228,
+        "word": "落实重大发展战略开创事业新局",
+        "onboard_time": 1679486968,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 834825,
+        "num": 834825,
+        "word": "张颂文大学时期嘻哈风穿搭",
+        "onboard_time": 1679535866,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 644994,
+        "num": 644994,
+        "word": "早午餐不要合成一顿",
+        "onboard_time": 1679533289,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 611049,
+        "num": 611049,
+        "word": "广东省考",
+        "onboard_time": 1679538986,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 519778,
+        "num": 519778,
+        "word": "园润花花不是亲生胜似亲生",
+        "onboard_time": 1679536825,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 509957,
+        "num": 509957,
+        "word": "丁太升说声生不息首期最差是张杰",
+        "onboard_time": 1679497413,
+        "rank": 7,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 509222,
+        "num": 509222,
+        "word": "我找到新工作了",
+        "onboard_time": 1679534906,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 503747,
+        "num": 503747,
+        "word": "女生发视频吐槽意外带火甲骨文专业",
+        "onboard_time": 1679534906,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1541941,
+        "num": 502084,
+        "word": "缅北",
+        "onboard_time": 1679528002,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 469677,
+        "num": 469677,
+        "word": "国际小狗日",
+        "onboard_time": 1679535206,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 419497,
+        "num": 419497,
+        "word": "女子应聘被质疑23岁用苹果手机",
+        "onboard_time": 1679489728,
+        "rank": 12,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 338056,
+        "num": 338056,
+        "word": "徐峥王宝强再现泰囧经典造型",
+        "onboard_time": 1679534007,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 319498,
+        "num": 319498,
+        "word": "C罗说沙特联会成为五大联赛",
+        "onboard_time": 1679533888,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 299826,
+        "num": 299826,
+        "word": "恒大汽车公告或有停产风险",
+        "onboard_time": 1679535747,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 299750,
+        "num": 299750,
+        "word": "闰二月二双龙抬头",
+        "onboard_time": 1679531368,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264766,
+        "num": 264766,
+        "word": "高叶打假签名照",
+        "onboard_time": 1679537188,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251351,
+        "num": 251351,
+        "word": "张凌赫爱与不爱很明显",
+        "onboard_time": 1679539225,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 239570,
+        "num": 239570,
+        "word": "聂小雨结局",
+        "onboard_time": 1679496332,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 341739,
+        "num": 237948,
+        "word": "男子因父亲未尽抚养义务拒绝赡养",
+        "onboard_time": 1679533171,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260193,
+        "num": 232264,
+        "word": "女子地铁唱跳骚扰乘客",
+        "onboard_time": 1679536286,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224178,
+        "num": 224178,
+        "word": "微博之夜搞笑名场面",
+        "onboard_time": 1679538386,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 223161,
+        "num": 223161,
+        "word": "黑暗荣耀",
+        "onboard_time": 1679538325,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 220276,
+        "num": 220276,
+        "word": "健身房老板健身时拉断器材",
+        "onboard_time": 1679534727,
+        "rank": 24,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 216856,
+        "num": 216856,
+        "word": "这猫怎么正反面长一样",
+        "onboard_time": 1679534727,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 215531,
+        "num": 215531,
+        "word": "Wayward首发",
+        "onboard_time": 1679532807,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 205572,
+        "num": 205572,
+        "word": "孙怡问花粉是什么意思",
+        "onboard_time": 1679531670,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 187032,
+        "num": 187032,
+        "word": "勇士vs独行侠",
+        "onboard_time": 1679538145,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177702,
+        "num": 177702,
+        "word": "程潇白色露腰短上衣造型",
+        "onboard_time": 1679535567,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176798,
+        "num": 176798,
+        "word": "退税待领取骗局",
+        "onboard_time": 1679538566,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174741,
+        "num": 174741,
+        "word": "女演员被困厕所五星级酒店道歉",
+        "onboard_time": 1679497112,
+        "rank": 31,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 173685,
+        "num": 173685,
+        "word": "凉拌菜是减脂餐的天花板吧",
+        "onboard_time": 1679495311,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 168523,
+        "num": 168523,
+        "word": "宋亚轩加盟王牌对王牌8",
+        "onboard_time": 1679539105,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157231,
+        "num": 157231,
+        "word": "心医林霖",
+        "onboard_time": 1679513113,
+        "rank": 34,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 147609,
+        "num": 147609,
+        "word": "网友称海底捞水果仅限打包一份",
+        "onboard_time": 1679507414,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134112,
+        "num": 134112,
+        "word": "BigHit寻找新男团成员",
+        "onboard_time": 1679537727,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131755,
+        "num": 131755,
+        "word": "歼10首飞试飞员说哪怕回不来也要上",
+        "onboard_time": 1679532991,
+        "rank": 37,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 129440,
+        "num": 129440,
+        "word": "孔雪儿颅顶",
+        "onboard_time": 1679491289,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 124990,
+        "num": 124990,
+        "word": "网购了一头大象",
+        "onboard_time": 1679495013,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122840,
+        "num": 122840,
+        "word": "当代年轻人的就业环境",
+        "onboard_time": 1679538266,
+        "rank": 40,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 120817,
+        "num": 120817,
+        "word": "抓紧时间玩吧 时间到就要走了",
+        "onboard_time": 1679531609,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117572,
+        "num": 117572,
+        "word": "你会花多少钱看一场演唱会",
+        "onboard_time": 1679532269,
+        "rank": 42,
+        "category": "情感,音乐"
+      },
+      {
+        "raw_hot": 100382,
+        "num": 100382,
+        "word": "当高启强出现在语文试卷上",
+        "onboard_time": 1679529206,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100312,
+        "num": 100312,
+        "word": "原神",
+        "onboard_time": 1679527883,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 97086,
+        "num": 97086,
+        "word": "叶舒华说小心发言",
+        "onboard_time": 1679530649,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95698,
+        "num": 95698,
+        "word": "苏州卫健委回应产科医生收红包",
+        "onboard_time": 1679498848,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94327,
+        "num": 94327,
+        "word": "熊猫妈妈示范怎么吸熊猫",
+        "onboard_time": 1679493689,
+        "rank": 47,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 94149,
+        "num": 94149,
+        "word": "央广网评P图造黄谣牟利",
+        "onboard_time": 1679530526,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89000,
+        "num": 89000,
+        "word": "JackeyLove回应五连败",
+        "onboard_time": 1679539345,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#共行天下大道共创美好未来#"
+    }
+  }
+}
