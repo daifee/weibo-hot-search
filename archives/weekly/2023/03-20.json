@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679539410586,
+  "endTime": 1679541490875,
   "band_list": [
     {
       "raw_hot": 7256959,
@@ -57,6 +57,14 @@
       "onboard_time": 1679384187,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2484394,
+      "num": 980948,
+      "word": "张凌赫爱与不爱很明显",
+      "onboard_time": 1679539225,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 2463732,
@@ -715,6 +723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1116768,
+      "num": 1116768,
+      "word": "微博之夜",
+      "onboard_time": 1679224408,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1107687,
       "num": 848474,
       "word": "普京宣布免除超200亿美元非洲债务",
@@ -1019,6 +1035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 939166,
+      "num": 939166,
+      "word": "海南13岁女孩遭霸凌左耳鼓膜穿孔",
+      "onboard_time": 1679539767,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 932568,
       "num": 932568,
       "word": "黄金",
@@ -1065,6 +1089,14 @@
       "onboard_time": 1679449529,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 919579,
+      "num": 919579,
+      "word": "泰国",
+      "onboard_time": 1679539826,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 917661,
@@ -1419,14 +1451,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 755249,
-      "num": 755249,
-      "word": "微博之夜",
-      "onboard_time": 1679224408,
-      "rank": 28,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 753233,
       "num": 588869,
       "word": "好多综艺官宣啊",
@@ -1649,6 +1673,14 @@
       "onboard_time": 1679275527,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 664607,
+      "num": 664607,
+      "word": "园润花花不是亲生胜似亲生",
+      "onboard_time": 1679536825,
+      "rank": 11,
+      "category": "情感"
     },
     {
       "raw_hot": 661840,
@@ -2123,6 +2155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 561329,
+      "num": 561329,
+      "word": "JackeyLove回应五连败",
+      "onboard_time": 1679539345,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 559325,
       "num": 452564,
       "word": "吴磊在芬兰冬泳",
@@ -2227,6 +2267,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 533626,
+      "num": 533626,
+      "word": "微博之夜直播预约",
+      "onboard_time": 1679540485,
+      "rank": 10,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 530482,
       "num": 530482,
       "word": "三亚游客租车被坑事件6人被刑拘",
@@ -2305,14 +2353,6 @@
       "onboard_time": 1679488169,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 519778,
-      "num": 519778,
-      "word": "园润花花不是亲生胜似亲生",
-      "onboard_time": 1679536825,
-      "rank": 11,
-      "category": "情感"
     },
     {
       "raw_hot": 519201,
@@ -2739,6 +2779,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 438390,
+      "num": 438390,
+      "word": "宋亚轩加盟王牌对王牌8",
+      "onboard_time": 1679539105,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 437340,
       "num": 437340,
       "word": "阿信做梦都想删掉这段视频吧",
@@ -2772,7 +2820,7 @@
     },
     {
       "raw_hot": 435772,
-      "num": 276604,
+      "num": 292627,
       "word": "男子因父亲未尽抚养义务拒绝赡养",
       "onboard_time": 1679533171,
       "rank": 20,
@@ -3008,6 +3056,14 @@
       "word": "白敬亭井柏然别太爱",
       "onboard_time": 1679470648,
       "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 399866,
+      "num": 399866,
+      "word": "青岛偶遇白敬亭逛街",
+      "onboard_time": 1679540969,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -3763,6 +3819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 308757,
+      "num": 308757,
+      "word": "微博之夜搞笑名场面",
+      "onboard_time": 1679538386,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 307958,
       "num": 307958,
       "word": "上海街头现移动冰块车",
@@ -4323,14 +4387,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 251351,
-      "num": 251351,
-      "word": "张凌赫爱与不爱很明显",
-      "onboard_time": 1679539225,
-      "rank": 18,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 250696,
       "num": 250696,
       "word": "里弗斯",
@@ -4403,12 +4459,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 246926,
+      "num": 246926,
+      "word": "公司招多人赴缅招聘者自称被诈骗",
+      "onboard_time": 1679540065,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 246525,
       "num": 246525,
       "word": "一诺暖阳Cat出席微博之夜",
       "onboard_time": 1679384970,
       "rank": 24,
       "category": "作品衍生,游戏"
+    },
+    {
+      "raw_hot": 246286,
+      "num": 246286,
+      "word": "当代年轻人的就业环境",
+      "onboard_time": 1679538266,
+      "rank": 43,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 246244,
@@ -4769,14 +4841,6 @@
       "onboard_time": 1679482947,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 224178,
-      "num": 224178,
-      "word": "微博之夜搞笑名场面",
-      "onboard_time": 1679538386,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 224120,
@@ -5675,6 +5739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 186702,
+      "num": 186702,
+      "word": "做自然的朋友",
+      "onboard_time": 1679541208,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 186367,
       "num": 186367,
       "word": "春闺梦里人今日开播",
@@ -5955,6 +6027,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 176998,
+      "num": 176998,
+      "word": "不良人",
+      "onboard_time": 1679539645,
+      "rank": 30,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 176798,
       "num": 176798,
       "word": "退税待领取骗局",
@@ -6115,14 +6195,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 168523,
-      "num": 168523,
-      "word": "宋亚轩加盟王牌对王牌8",
-      "onboard_time": 1679539105,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 168018,
       "num": 168018,
       "word": "小敏家金波出演爱情而已",
@@ -6177,6 +6249,14 @@
       "onboard_time": 1679300968,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 165901,
+      "num": 165901,
+      "word": "头一次见牛做的冰淇淋",
+      "onboard_time": 1679540726,
+      "rank": 35,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 165365,
@@ -6267,6 +6347,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 163356,
+      "num": 163356,
+      "word": "这不是动物萌态是刻板行为",
+      "onboard_time": 1679539584,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163111,
       "num": 163111,
       "word": "读书能缓解你的精神内耗吗",
@@ -6313,6 +6401,14 @@
       "onboard_time": 1679320952,
       "rank": 41,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 159189,
+      "num": 159189,
+      "word": "地铁里原来真有座位继承制",
+      "onboard_time": 1679541025,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 158957,
@@ -7067,14 +7163,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 122840,
-      "num": 122840,
-      "word": "当代年轻人的就业环境",
-      "onboard_time": 1679538266,
-      "rank": 43,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 122688,
       "num": 122688,
       "word": "永远会被文字所震撼",
@@ -7411,6 +7499,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 99288,
+      "num": 99288,
+      "word": "勇士战胜独行侠",
+      "onboard_time": 1679540065,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99051,
       "num": 99051,
       "word": "曼联3比1富勒姆",
@@ -7451,6 +7547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 93873,
+      "num": 93873,
+      "word": "哪些生活习惯可能会导致胃病",
+      "onboard_time": 1679541445,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 93097,
       "num": 93097,
       "word": "天津省考",
@@ -7481,14 +7585,6 @@
       "onboard_time": 1679314289,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 89000,
-      "num": 89000,
-      "word": "JackeyLove回应五连败",
-      "onboard_time": 1679539345,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 85762,
@@ -7660,7 +7756,7 @@
     },
     {
       "raw_hot": 33531,
-      "num": 901072,
+      "num": 1015620,
       "word": "落实重大发展战略开创事业新局",
       "onboard_time": 1679486968,
       "rank": 2,
