@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679548570129,
+  "endTime": 1679549611512,
   "band_list": [
     {
       "raw_hot": 7256959,
@@ -75,7 +75,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2407766,
+      "raw_hot": 2442342,
       "num": 415509,
       "word": "张凌赫白鹿",
       "onboard_time": 1679548409,
@@ -331,6 +331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1551145,
+      "num": 1551145,
+      "word": "中缅泰三边警察首脑开会决议打击犯罪",
+      "onboard_time": 1679546912,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1512648,
       "num": 729212,
       "word": "南华大学回应网传男生造女生黄谣",
@@ -393,14 +401,6 @@
       "onboard_time": 1679224408,
       "rank": 28,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1464162,
-      "num": 1464162,
-      "word": "中缅泰三边警察首脑开会决议打击犯罪",
-      "onboard_time": 1679546912,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1463663,
@@ -1179,6 +1179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 896495,
+      "num": 896495,
+      "word": "离职后还能让公司记住",
+      "onboard_time": 1679544810,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 894340,
       "num": 629002,
       "word": "王一博 微博之夜",
@@ -1553,14 +1561,6 @@
       "onboard_time": 1679456668,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 732184,
-      "num": 732184,
-      "word": "离职后还能让公司记住",
-      "onboard_time": 1679544810,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 724881,
@@ -2507,6 +2507,14 @@
       "category": "情感,教育"
     },
     {
+      "raw_hot": 502106,
+      "num": 502106,
+      "word": "每天少刷15分钟手机改善免疫",
+      "onboard_time": 1679546553,
+      "rank": 15,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 501386,
       "num": 501386,
       "word": "王者荣耀",
@@ -2947,6 +2955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 433740,
+      "num": 433740,
+      "word": "NCT澳门",
+      "onboard_time": 1679547989,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 432316,
       "num": 432316,
       "word": "杏花乌龙拿铁",
@@ -3249,14 +3265,6 @@
       "onboard_time": 1679281287,
       "rank": 25,
       "category": "教育"
-    },
-    {
-      "raw_hot": 391767,
-      "num": 391767,
-      "word": "每天少刷15分钟手机改善免疫",
-      "onboard_time": 1679546553,
-      "rank": 15,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 389928,
@@ -3747,6 +3755,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 328590,
+      "num": 328590,
+      "word": "莎头",
+      "onboard_time": 1679547631,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 328002,
       "num": 328002,
       "word": "滔搏",
@@ -3987,14 +4003,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 307089,
-      "num": 307089,
-      "word": "NCT澳门",
-      "onboard_time": 1679547989,
-      "rank": 23,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 306841,
       "num": 306841,
       "word": "泷泽秀明成立娱乐公司",
@@ -4219,6 +4227,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 285653,
+      "num": 285653,
+      "word": "小狗站岗大赛",
+      "onboard_time": 1679544088,
+      "rank": 45,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 284454,
       "num": 308391,
       "word": "下月起长沙可乘高铁直达香港",
@@ -4297,14 +4313,6 @@
       "onboard_time": 1679286996,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 279118,
-      "num": 279118,
-      "word": "小狗站岗大赛",
-      "onboard_time": 1679544088,
-      "rank": 45,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 278820,
@@ -4441,6 +4449,14 @@
       "onboard_time": 1679286996,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 265374,
+      "num": 265374,
+      "word": "湖南高校回应悄悄往贫困生餐卡打钱",
+      "onboard_time": 1679547510,
+      "rank": 32,
+      "category": "社会正能量,教育"
     },
     {
       "raw_hot": 265343,
@@ -4739,6 +4755,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 244119,
+      "num": 244119,
+      "word": "湖人战胜太阳",
+      "onboard_time": 1679547449,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 244043,
       "num": 244043,
       "word": "27款进口网络游戏获批",
@@ -4761,14 +4785,6 @@
       "onboard_time": 1679477908,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 242620,
-      "num": 242620,
-      "word": "湖人战胜太阳",
-      "onboard_time": 1679547449,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 242523,
@@ -5347,22 +5363,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 208917,
-      "num": 208917,
-      "word": "湖南高校回应悄悄往贫困生餐卡打钱",
-      "onboard_time": 1679547510,
-      "rank": 32,
-      "category": "社会正能量,教育"
-    },
-    {
-      "raw_hot": 208184,
-      "num": 208184,
-      "word": "莎头",
-      "onboard_time": 1679547631,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 207939,
       "num": 207939,
       "word": "龚俊微博之夜宣传VCR",
@@ -5561,6 +5561,14 @@
       "onboard_time": 1679289750,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 202765,
+      "num": 202765,
+      "word": "耳念珠菌已遍布美国一半以上的州",
+      "onboard_time": 1679548768,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 202578,
@@ -5931,6 +5939,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 191800,
+      "num": 208928,
+      "word": "考拉摄像头",
+      "onboard_time": 1679549246,
+      "rank": 30,
+      "category": "科技"
+    },
+    {
       "raw_hot": 191779,
       "num": 191779,
       "word": "刘耀文嘟嘴比耶照",
@@ -5993,6 +6009,14 @@
       "onboard_time": 1679483007,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 188738,
+      "num": 188738,
+      "word": "大麦抢票",
+      "onboard_time": 1679549187,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 188566,
@@ -7171,6 +7195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 135496,
+      "num": 135496,
+      "word": "大学生的椅子都在忍辱负重",
+      "onboard_time": 1679548468,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 135345,
       "num": 135345,
       "word": "一下子就变成了重点客户",
@@ -7513,6 +7545,14 @@
       "onboard_time": 1679479290,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 121410,
+      "num": 121410,
+      "word": "大熊猫胆子有多小",
+      "onboard_time": 1679549369,
+      "rank": 45,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 120884,
