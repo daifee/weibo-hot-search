@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679603622794,
+  "endTime": 1679606082569,
   "band_list": [
     {
       "raw_hot": 7256959,
@@ -9579,6 +9579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 44712,
+      "num": 36756,
+      "word": "杭州狂摇樱花树网红公司道歉",
+      "onboard_time": 1679600052,
+      "rank": 14,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 42115,
       "num": 37974,
       "word": "刘耀文蓝天随拍",
@@ -9593,14 +9601,6 @@
       "onboard_time": 1679569227,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 39076,
-      "num": 36756,
-      "word": "杭州狂摇樱花树网红公司道歉",
-      "onboard_time": 1679600052,
-      "rank": 14,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 38472,
@@ -9681,6 +9681,14 @@
       "onboard_time": 1679228248,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 23801,
+      "num": 20497,
+      "word": "女子冲进地铁车门致骨折索赔22万",
+      "onboard_time": 1679604912,
+      "rank": 30,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
