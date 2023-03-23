@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679559757667,
+  "endTime": 1679560574819,
   "band_list": [
     {
       "raw_hot": 7256959,
@@ -155,6 +155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2157619,
+      "num": 543393,
+      "word": "关晓彤穿了陈采尼设计礼服",
+      "onboard_time": 1679558848,
+      "rank": 10,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 2146606,
       "num": 2146606,
       "word": "拒绝和玲娜贝儿互动的当事人回应",
@@ -177,14 +185,6 @@
       "onboard_time": 1679323651,
       "rank": 1,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 2038609,
-      "num": 529390,
-      "word": "关晓彤穿了陈采尼设计礼服",
-      "onboard_time": 1679558848,
-      "rank": 10,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 2018931,
@@ -755,7 +755,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1147341,
+      "raw_hot": 1148088,
       "num": 839006,
       "word": "华为P60",
       "onboard_time": 1679552065,
@@ -1587,6 +1587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 760713,
+      "num": 760713,
+      "word": "网红美七777否认炒作蹭流量",
+      "onboard_time": 1679558607,
+      "rank": 14,
+      "category": "网红"
+    },
+    {
       "raw_hot": 755267,
       "num": 755267,
       "word": "赛琳娜新剧婚纱照路透",
@@ -1883,6 +1891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 654119,
+      "num": 654119,
+      "word": "离职前一天被辞退了",
+      "onboard_time": 1679559268,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 653906,
       "num": 653906,
       "word": "红双喜",
@@ -2113,6 +2129,14 @@
       "onboard_time": 1679491472,
       "rank": 30,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 601309,
+      "num": 601309,
+      "word": "女生地铁口帮忙被骗光生活费",
+      "onboard_time": 1679557227,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 600722,
@@ -2483,14 +2507,6 @@
       "category": "艺人,美妆"
     },
     {
-      "raw_hot": 543826,
-      "num": 543826,
-      "word": "女生地铁口帮忙被骗光生活费",
-      "onboard_time": 1679557227,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 536063,
       "num": 536063,
       "word": "台湾日月潭九蛙叠像全部露出",
@@ -2625,14 +2641,6 @@
       "onboard_time": 1679534906,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 508499,
-      "num": 508499,
-      "word": "网红美七777否认炒作蹭流量",
-      "onboard_time": 1679558607,
-      "rank": 14,
-      "category": "网红"
     },
     {
       "raw_hot": 506303,
@@ -3411,6 +3419,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 395129,
+      "num": 395129,
+      "word": "口语考试时替我爸出柜了",
+      "onboard_time": 1679557105,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 394668,
       "num": 394668,
       "word": "当高启强出现在语文试卷上",
@@ -3465,14 +3481,6 @@
       "onboard_time": 1679364566,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 387549,
-      "num": 387549,
-      "word": "口语考试时替我爸出柜了",
-      "onboard_time": 1679557105,
-      "rank": 19,
-      "category": "幽默"
     },
     {
       "raw_hot": 383021,
@@ -3793,6 +3801,14 @@
       "onboard_time": 1679381848,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 347434,
+      "num": 347434,
+      "word": "梦华录玉骨遥全国线下巡展",
+      "onboard_time": 1679560407,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 345425,
@@ -4819,14 +4835,6 @@
       "category": "社会负面,科技"
     },
     {
-      "raw_hot": 252329,
-      "num": 252329,
-      "word": "离职前一天被辞退了",
-      "onboard_time": 1679559268,
-      "rank": 26,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 251847,
       "num": 251847,
       "word": "电视剧他是谁",
@@ -5099,6 +5107,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 240120,
+      "num": 240120,
+      "word": "武磊造红牌",
+      "onboard_time": 1679559088,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 239791,
       "num": 239791,
       "word": "小狗在意的人只有你",
@@ -5169,6 +5185,14 @@
       "onboard_time": 1679237668,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 234987,
+      "num": 234987,
+      "word": "才知道哭真的很有用",
+      "onboard_time": 1679556208,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 234100,
@@ -5593,14 +5617,6 @@
       "onboard_time": 1679554707,
       "rank": 19,
       "category": "科技"
-    },
-    {
-      "raw_hot": 211403,
-      "num": 211403,
-      "word": "才知道哭真的很有用",
-      "onboard_time": 1679556208,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 210569,
@@ -6267,12 +6283,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 190272,
-      "num": 190272,
-      "word": "武磊造红牌",
-      "onboard_time": 1679559088,
-      "rank": 34,
-      "category": "体育"
+      "raw_hot": 190596,
+      "num": 385258,
+      "word": "如何引领折叠屏使用新体验",
+      "onboard_time": 1679559808,
+      "rank": 19,
+      "category": "科技"
     },
     {
       "raw_hot": 189860,
@@ -6851,6 +6867,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 168398,
+      "num": 168398,
+      "word": "为什么产后修复不该拖延",
+      "onboard_time": 1679556988,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 168018,
       "num": 168018,
       "word": "小敏家金波出演爱情而已",
@@ -6881,14 +6905,6 @@
       "onboard_time": 1679400507,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 166857,
-      "num": 166857,
-      "word": "为什么产后修复不该拖延",
-      "onboard_time": 1679556988,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 166557,
@@ -7443,6 +7459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 141299,
+      "num": 180562,
+      "word": "MateX3到底能有多薄",
+      "onboard_time": 1679560350,
+      "rank": 34,
+      "category": "科技"
+    },
+    {
       "raw_hot": 140476,
       "num": 140476,
       "word": "沙溢比宋亚轩爸爸大一岁",
@@ -7729,6 +7753,14 @@
       "onboard_time": 1679399128,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 130086,
+      "num": 130086,
+      "word": "警方通报游客在长城城墙上刻字",
+      "onboard_time": 1679560171,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129707,

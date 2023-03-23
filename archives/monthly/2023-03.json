@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679559757667,
+  "endTime": 1679560574819,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -827,6 +827,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 2157619,
+      "num": 543393,
+      "word": "关晓彤穿了陈采尼设计礼服",
+      "onboard_time": 1679558848,
+      "rank": 10,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 2153485,
       "num": 2153485,
       "word": "退税",
@@ -969,14 +977,6 @@
       "onboard_time": 1678115009,
       "rank": 10,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 2038609,
-      "num": 529390,
-      "word": "关晓彤穿了陈采尼设计礼服",
-      "onboard_time": 1679558848,
-      "rank": 10,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 2037308,
@@ -3883,7 +3883,7 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 1147341,
+      "raw_hot": 1148088,
       "num": 839006,
       "word": "华为P60",
       "onboard_time": 1679552065,
@@ -7963,6 +7963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 760713,
+      "num": 760713,
+      "word": "网红美七777否认炒作蹭流量",
+      "onboard_time": 1679558607,
+      "rank": 14,
+      "category": "网红"
+    },
+    {
       "raw_hot": 758844,
       "num": 758844,
       "word": "国足新帅正式亮相",
@@ -9891,6 +9899,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 654119,
+      "num": 654119,
+      "word": "离职前一天被辞退了",
+      "onboard_time": 1679559268,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 654093,
       "num": 228197,
       "word": "秦岚喜欢你4录制现场发糖",
@@ -11169,6 +11185,14 @@
       "onboard_time": 1679491472,
       "rank": 30,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 601309,
+      "num": 601309,
+      "word": "女生地铁口帮忙被骗光生活费",
+      "onboard_time": 1679557227,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 600876,
@@ -12851,14 +12875,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 543826,
-      "num": 543826,
-      "word": "女生地铁口帮忙被骗光生活费",
-      "onboard_time": 1679557227,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 543806,
       "num": 543806,
       "word": "月亮",
@@ -13953,14 +13969,6 @@
       "onboard_time": 1678238485,
       "rank": 14,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 508499,
-      "num": 508499,
-      "word": "网红美七777否认炒作蹭流量",
-      "onboard_time": 1679558607,
-      "rank": 14,
-      "category": "网红"
     },
     {
       "raw_hot": 508363,
@@ -18187,6 +18195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 395129,
+      "num": 395129,
+      "word": "口语考试时替我爸出柜了",
+      "onboard_time": 1679557105,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 394933,
       "num": 307505,
       "word": "黑暗荣耀2演技TOP3",
@@ -18449,14 +18465,6 @@
       "onboard_time": 1677899307,
       "rank": 9,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 387549,
-      "num": 387549,
-      "word": "口语考试时替我爸出柜了",
-      "onboard_time": 1679557105,
-      "rank": 19,
-      "category": "幽默"
     },
     {
       "raw_hot": 387367,
@@ -20665,6 +20673,14 @@
       "onboard_time": 1677975681,
       "rank": 6,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 347434,
+      "num": 347434,
+      "word": "梦华录玉骨遥全国线下巡展",
+      "onboard_time": 1679560407,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 346510,
@@ -26379,14 +26395,6 @@
       "category": "社会负面,科技"
     },
     {
-      "raw_hot": 252329,
-      "num": 252329,
-      "word": "离职前一天被辞退了",
-      "onboard_time": 1679559268,
-      "rank": 26,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 252017,
       "num": 252017,
       "word": "张杰新歌蕾拉留着巡演首唱",
@@ -27411,6 +27419,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 240120,
+      "num": 240120,
+      "word": "武磊造红牌",
+      "onboard_time": 1679559088,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 240067,
       "num": 401682,
       "word": "大学生把汉宫春晓图106人物演活了",
@@ -27729,6 +27745,14 @@
       "onboard_time": 1678421680,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 234987,
+      "num": 234987,
+      "word": "才知道哭真的很有用",
+      "onboard_time": 1679556208,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 234826,
@@ -30033,14 +30057,6 @@
       "onboard_time": 1678057760,
       "rank": 10,
       "category": "体育"
-    },
-    {
-      "raw_hot": 211403,
-      "num": 211403,
-      "word": "才知道哭真的很有用",
-      "onboard_time": 1679556208,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 211325,
@@ -33939,6 +33955,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 190596,
+      "num": 385258,
+      "word": "如何引领折叠屏使用新体验",
+      "onboard_time": 1679559808,
+      "rank": 19,
+      "category": "科技"
+    },
+    {
       "raw_hot": 190592,
       "num": 190592,
       "word": "白艺潾Wendy合作曲",
@@ -33993,14 +34017,6 @@
       "onboard_time": 1679020527,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 190272,
-      "num": 190272,
-      "word": "武磊造红牌",
-      "onboard_time": 1679559088,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 190193,
@@ -36643,6 +36659,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 168398,
+      "num": 168398,
+      "word": "为什么产后修复不该拖延",
+      "onboard_time": 1679556988,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 168311,
       "num": 168311,
       "word": "林墨模仿高启盛走路",
@@ -36857,14 +36881,6 @@
       "onboard_time": 1677595232,
       "rank": 29,
       "category": "幽默,科技"
-    },
-    {
-      "raw_hot": 166857,
-      "num": 166857,
-      "word": "为什么产后修复不该拖延",
-      "onboard_time": 1679556988,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 166616,
@@ -39691,6 +39707,14 @@
       "category": "影视,综艺"
     },
     {
+      "raw_hot": 141299,
+      "num": 180562,
+      "word": "MateX3到底能有多薄",
+      "onboard_time": 1679560350,
+      "rank": 34,
+      "category": "科技"
+    },
+    {
       "raw_hot": 141264,
       "num": 141264,
       "word": "海关回应旅客带101管孕妇血样出境",
@@ -41113,6 +41137,14 @@
       "onboard_time": 1679399128,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 130086,
+      "num": 130086,
+      "word": "警方通报游客在长城城墙上刻字",
+      "onboard_time": 1679560171,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 130083,
