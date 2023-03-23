@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679598867566,
+  "endTime": 1679600017576,
   "band_list": [
     {
       "raw_hot": 7256959,
@@ -9625,6 +9625,14 @@
       "onboard_time": 1679419937,
       "rank": 48,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 31412,
+      "num": 31412,
+      "word": "陈立农银色亮片长风衣",
+      "onboard_time": 1679599632,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 31181,
