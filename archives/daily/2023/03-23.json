@@ -1,6 +1,6 @@
 {
   "startTime": 1679502284596,
-  "endTime": 1679536059130,
+  "endTime": 1679538835470,
   "band_list": [
     {
       "raw_hot": 2007246,
@@ -12,11 +12,19 @@
     },
     {
       "raw_hot": 1364109,
-      "num": 723431,
+      "num": 1041457,
       "word": "客运站要消失了吗",
       "onboard_time": 1679532269,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1304371,
+      "num": 1304371,
+      "word": "Mirror成员向林俊杰道歉",
+      "onboard_time": 1679536107,
+      "rank": 0,
+      "category": "音乐"
     },
     {
       "raw_hot": 1299790,
@@ -59,11 +67,27 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 785156,
+      "num": 785156,
+      "word": "张颂文大学时期嘻哈风穿搭",
+      "onboard_time": 1679535866,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 774531,
       "num": 689443,
       "word": "凉拌菜是减脂餐的天花板吧",
       "onboard_time": 1679495311,
       "rank": 5,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 724881,
+      "num": 724881,
+      "word": "早午餐不要合成一顿",
+      "onboard_time": 1679533289,
+      "rank": 12,
       "category": "美食"
     },
     {
@@ -91,14 +115,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 573553,
-      "num": 573553,
-      "word": "早午餐不要合成一顿",
-      "onboard_time": 1679533289,
-      "rank": 12,
-      "category": "美食"
-    },
-    {
       "raw_hot": 567146,
       "num": 567146,
       "word": "闰二月二双龙抬头",
@@ -123,6 +139,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 526802,
+      "num": 526802,
+      "word": "国际小狗日",
+      "onboard_time": 1679535206,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 493316,
       "num": 434228,
       "word": "孔雪儿颅顶",
@@ -136,6 +160,14 @@
       "word": "多方发声还原民宿老板上门事件",
       "onboard_time": 1679525419,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 448599,
+      "num": 448599,
+      "word": "女生发视频吐槽意外带火甲骨文专业",
+      "onboard_time": 1679534906,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -161,6 +193,22 @@
       "onboard_time": 1679533171,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 434702,
+      "num": 434702,
+      "word": "我找到新工作了",
+      "onboard_time": 1679534906,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 417234,
+      "num": 417234,
+      "word": "园润花花不是亲生胜似亲生",
+      "onboard_time": 1679536825,
+      "rank": 11,
+      "category": "情感"
     },
     {
       "raw_hot": 416749,
@@ -235,12 +283,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 308244,
-      "num": 308244,
-      "word": "张颂文大学时期嘻哈风穿搭",
-      "onboard_time": 1679535866,
-      "rank": 14,
-      "category": "艺人"
+      "raw_hot": 305698,
+      "num": 305698,
+      "word": "恒大汽车公告或有停产风险",
+      "onboard_time": 1679535747,
+      "rank": 42,
+      "category": "财经"
     },
     {
       "raw_hot": 301403,
@@ -283,8 +331,24 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 258920,
+      "num": 258920,
+      "word": "高叶打假签名照",
+      "onboard_time": 1679537188,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 258691,
+      "num": 232021,
+      "word": "女子地铁唱跳骚扰乘客",
+      "onboard_time": 1679536286,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 252953,
-      "num": 205977,
+      "num": 223841,
       "word": "健身房老板健身时拉断器材",
       "onboard_time": 1679534727,
       "rank": 30,
@@ -313,22 +377,6 @@
       "onboard_time": 1679494050,
       "rank": 14,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 238502,
-      "num": 238502,
-      "word": "女生发视频吐槽意外带火甲骨文专业",
-      "onboard_time": 1679534906,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 238204,
-      "num": 238204,
-      "word": "国际小狗日",
-      "onboard_time": 1679535206,
-      "rank": 24,
-      "category": "幽默"
     },
     {
       "raw_hot": 238186,
@@ -411,6 +459,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 184400,
+      "num": 184400,
+      "word": "程潇白色露腰短上衣造型",
+      "onboard_time": 1679535567,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 181332,
+      "num": 181332,
+      "word": "微博之夜搞笑名场面",
+      "onboard_time": 1679538386,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 181268,
       "num": 181268,
       "word": "流浪小狗乞求收养者一起带走小熊",
@@ -435,12 +499,12 @@
       "category": "军事"
     },
     {
-      "raw_hot": 176912,
-      "num": 176912,
-      "word": "我找到新工作了",
-      "onboard_time": 1679534906,
-      "rank": 35,
-      "category": "幽默"
+      "raw_hot": 169413,
+      "num": 169413,
+      "word": "黑暗荣耀",
+      "onboard_time": 1679538325,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 168509,
@@ -451,12 +515,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 163749,
-      "num": 163749,
-      "word": "程潇白色露腰短上衣造型",
-      "onboard_time": 1679535567,
-      "rank": 36,
-      "category": "艺人"
+      "raw_hot": 142852,
+      "num": 142852,
+      "word": "勇士vs独行侠",
+      "onboard_time": 1679538145,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 138072,
@@ -491,6 +555,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 132669,
+      "num": 132669,
+      "word": "BigHit寻找新男团成员",
+      "onboard_time": 1679537727,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 131173,
       "num": 131173,
       "word": "有什么是你谈了恋爱才明白的",
@@ -505,6 +577,14 @@
       "onboard_time": 1679508556,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 130058,
+      "num": 130058,
+      "word": "退税待领取骗局",
+      "onboard_time": 1679538566,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129963,
@@ -537,14 +617,6 @@
       "onboard_time": 1679500527,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 120238,
-      "num": 120238,
-      "word": "恒大汽车公告或有停产风险",
-      "onboard_time": 1679535747,
-      "rank": 42,
-      "category": "财经"
     },
     {
       "raw_hot": 117392,
@@ -625,6 +697,14 @@
       "onboard_time": 1679533950,
       "rank": 47,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 102055,
+      "num": 102055,
+      "word": "当代年轻人的就业环境",
+      "onboard_time": 1679538266,
+      "rank": 43,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 101334,
@@ -772,7 +852,7 @@
     },
     {
       "raw_hot": 16655,
-      "num": 729525,
+      "num": 847871,
       "word": "落实重大发展战略开创事业新局",
       "onboard_time": 1679486968,
       "rank": 2,

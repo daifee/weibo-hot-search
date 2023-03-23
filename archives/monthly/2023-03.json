@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679536059130,
+  "endTime": 1679538835470,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -2732,7 +2732,7 @@
     },
     {
       "raw_hot": 1364109,
-      "num": 723431,
+      "num": 1041457,
       "word": "客运站要消失了吗",
       "onboard_time": 1679532269,
       "rank": 1,
@@ -2961,6 +2961,14 @@
       "onboard_time": 1678578259,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1304371,
+      "num": 1304371,
+      "word": "Mirror成员向林俊杰道歉",
+      "onboard_time": 1679536107,
+      "rank": 0,
+      "category": "音乐"
     },
     {
       "raw_hot": 1303336,
@@ -7419,6 +7427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 785156,
+      "num": 785156,
+      "word": "张颂文大学时期嘻哈风穿搭",
+      "onboard_time": 1679535866,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 784771,
       "num": 466069,
       "word": "J姐扔海莉产品支持赛琳娜",
@@ -8369,6 +8385,14 @@
       "onboard_time": 1677672809,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 724881,
+      "num": 724881,
+      "word": "早午餐不要合成一顿",
+      "onboard_time": 1679533289,
+      "rank": 12,
+      "category": "美食"
     },
     {
       "raw_hot": 724471,
@@ -11603,14 +11627,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 573553,
-      "num": 573553,
-      "word": "早午餐不要合成一顿",
-      "onboard_time": 1679533289,
-      "rank": 12,
-      "category": "美食"
-    },
-    {
       "raw_hot": 573322,
       "num": 573322,
       "word": "SMTOWN和HYBE开通联合账号",
@@ -12945,6 +12961,14 @@
       "onboard_time": 1679308949,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 526802,
+      "num": 526802,
+      "word": "国际小狗日",
+      "onboard_time": 1679535206,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 526692,
@@ -15659,6 +15683,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 448599,
+      "num": 448599,
+      "word": "女生发视频吐槽意外带火甲骨文专业",
+      "onboard_time": 1679534906,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 448565,
       "num": 448565,
       "word": "李现周雨彤同框路透",
@@ -16225,6 +16257,14 @@
       "onboard_time": 1677850045,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 434702,
+      "num": 434702,
+      "word": "我找到新工作了",
+      "onboard_time": 1679534906,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 434571,
@@ -16921,6 +16961,14 @@
       "onboard_time": 1678176564,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 417234,
+      "num": 417234,
+      "word": "园润花花不是亲生胜似亲生",
+      "onboard_time": 1679536825,
+      "rank": 11,
+      "category": "情感"
     },
     {
       "raw_hot": 417213,
@@ -22443,14 +22491,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 308244,
-      "num": 308244,
-      "word": "张颂文大学时期嘻哈风穿搭",
-      "onboard_time": 1679535866,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 308187,
       "num": 308187,
       "word": "cruel summer",
@@ -22633,6 +22673,14 @@
       "onboard_time": 1678518387,
       "rank": 34,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 305698,
+      "num": 305698,
+      "word": "恒大汽车公告或有停产风险",
+      "onboard_time": 1679535747,
+      "rank": 42,
+      "category": "财经"
     },
     {
       "raw_hot": 305697,
@@ -25451,11 +25499,27 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 258920,
+      "num": 258920,
+      "word": "高叶打假签名照",
+      "onboard_time": 1679537188,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 258772,
       "num": 258772,
       "word": "玉兰花竟然这么像小鸟",
       "onboard_time": 1678924586,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 258691,
+      "num": 232021,
+      "word": "女子地铁唱跳骚扰乘客",
+      "onboard_time": 1679536286,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -25796,7 +25860,7 @@
     },
     {
       "raw_hot": 252953,
-      "num": 205977,
+      "num": 223841,
       "word": "健身房老板健身时拉断器材",
       "onboard_time": 1679534727,
       "rank": 30,
@@ -26891,14 +26955,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 238502,
-      "num": 238502,
-      "word": "女生发视频吐槽意外带火甲骨文专业",
-      "onboard_time": 1679534906,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 238371,
       "num": 238371,
       "word": "U20国足1比3韩国U20",
@@ -26913,14 +26969,6 @@
       "onboard_time": 1678413325,
       "rank": 39,
       "category": "财经,科技"
-    },
-    {
-      "raw_hot": 238204,
-      "num": 238204,
-      "word": "国际小狗日",
-      "onboard_time": 1679535206,
-      "rank": 24,
-      "category": "幽默"
     },
     {
       "raw_hot": 238201,
@@ -34083,6 +34131,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 184400,
+      "num": 184400,
+      "word": "程潇白色露腰短上衣造型",
+      "onboard_time": 1679535567,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 184364,
       "num": 184364,
       "word": "RW锁定S组",
@@ -34377,6 +34433,14 @@
       "onboard_time": 1677836547,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 181332,
+      "num": 181332,
+      "word": "微博之夜搞笑名场面",
+      "onboard_time": 1679538386,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 181265,
@@ -34865,14 +34929,6 @@
       "onboard_time": 1678576878,
       "rank": 14,
       "category": "财经"
-    },
-    {
-      "raw_hot": 176912,
-      "num": 176912,
-      "word": "我找到新工作了",
-      "onboard_time": 1679534906,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 176891,
@@ -36345,14 +36401,6 @@
       "onboard_time": 1678981824,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 163749,
-      "num": 163749,
-      "word": "程潇白色露腰短上衣造型",
-      "onboard_time": 1679535567,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 163701,
@@ -38683,6 +38731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142852,
+      "num": 142852,
+      "word": "勇士vs独行侠",
+      "onboard_time": 1679538145,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142842,
       "num": 142842,
       "word": "张杰未live巡回演唱会",
@@ -39995,6 +40051,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 132669,
+      "num": 132669,
+      "word": "BigHit寻找新男团成员",
+      "onboard_time": 1679537727,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 132636,
       "num": 132636,
       "word": "花琉璃暧昧期比热恋期甜",
@@ -40257,6 +40321,14 @@
       "onboard_time": 1678006766,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130058,
+      "num": 130058,
+      "word": "退税待领取骗局",
+      "onboard_time": 1679538566,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 130040,
@@ -41249,14 +41321,6 @@
       "onboard_time": 1678178068,
       "rank": 41,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 120238,
-      "num": 120238,
-      "word": "恒大汽车公告或有停产风险",
-      "onboard_time": 1679535747,
-      "rank": 42,
-      "category": "财经"
     },
     {
       "raw_hot": 119947,
@@ -43009,6 +43073,14 @@
       "onboard_time": 1679533950,
       "rank": 47,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 102055,
+      "num": 102055,
+      "word": "当代年轻人的就业环境",
+      "onboard_time": 1679538266,
+      "rank": 43,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 102048,
