@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679560574819,
+  "endTime": 1679563062983,
   "band_list": [
     {
       "raw_hot": 7256959,
@@ -193,6 +193,14 @@
       "onboard_time": 1679294847,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2011691,
+      "num": 2011691,
+      "word": "离职前一天被辞退了",
+      "onboard_time": 1679559268,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 2007246,
@@ -899,6 +907,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1063620,
+      "num": 1063620,
+      "word": "网红美七777否认炒作蹭流量",
+      "onboard_time": 1679558607,
+      "rank": 14,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1056627,
       "num": 1056627,
       "word": "徐峥王宝强泰囧后综艺合体",
@@ -1081,6 +1097,14 @@
       "onboard_time": 1679484269,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 970348,
+      "num": 970348,
+      "word": "杨天真当杜华面挖程潇",
+      "onboard_time": 1679560707,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 963645,
@@ -1587,12 +1611,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 760713,
-      "num": 760713,
-      "word": "网红美七777否认炒作蹭流量",
-      "onboard_time": 1679558607,
-      "rank": 14,
-      "category": "网红"
+      "raw_hot": 764469,
+      "num": 764469,
+      "word": "梦华录玉骨遥全国线下巡展",
+      "onboard_time": 1679560407,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 755267,
@@ -1705,6 +1729,14 @@
       "onboard_time": 1679493991,
       "rank": 1,
       "category": "教育"
+    },
+    {
+      "raw_hot": 708640,
+      "num": 708640,
+      "word": "女生地铁口帮忙被骗光生活费",
+      "onboard_time": 1679557227,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 707929,
@@ -1891,14 +1923,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 654119,
-      "num": 654119,
-      "word": "离职前一天被辞退了",
-      "onboard_time": 1679559268,
-      "rank": 26,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 653906,
       "num": 653906,
       "word": "红双喜",
@@ -2019,6 +2043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 630561,
+      "num": 630561,
+      "word": "双鱼座受不得半点冷落",
+      "onboard_time": 1679561967,
+      "rank": 8,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 629897,
       "num": 629897,
       "word": "微博之夜同台名场面",
@@ -2129,14 +2161,6 @@
       "onboard_time": 1679491472,
       "rank": 30,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 601309,
-      "num": 601309,
-      "word": "女生地铁口帮忙被骗光生活费",
-      "onboard_time": 1679557227,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 600722,
@@ -2963,6 +2987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 452072,
+      "num": 452072,
+      "word": "DK打韩华",
+      "onboard_time": 1679561249,
+      "rank": 11,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 450992,
       "num": 287608,
       "word": "网购了一头大象",
@@ -3323,6 +3355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 412708,
+      "num": 412708,
+      "word": "口语考试时替我爸出柜了",
+      "onboard_time": 1679557105,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 412074,
       "num": 378376,
       "word": "王嘉尔飞往洛杉矶",
@@ -3417,14 +3457,6 @@
       "onboard_time": 1679375013,
       "rank": 41,
       "category": "科技"
-    },
-    {
-      "raw_hot": 395129,
-      "num": 395129,
-      "word": "口语考试时替我爸出柜了",
-      "onboard_time": 1679557105,
-      "rank": 19,
-      "category": "幽默"
     },
     {
       "raw_hot": 394668,
@@ -3801,14 +3833,6 @@
       "onboard_time": 1679381848,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 347434,
-      "num": 347434,
-      "word": "梦华录玉骨遥全国线下巡展",
-      "onboard_time": 1679560407,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 345425,
@@ -5211,6 +5235,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 231596,
+      "num": 231596,
+      "word": "吴宣仪嘟嘴",
+      "onboard_time": 1679560771,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 230506,
       "num": 230506,
       "word": "杀夫藏尸案死者前同事称其很稳重",
@@ -5843,6 +5875,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 203226,
+      "num": 203226,
+      "word": "华为MateX3",
+      "onboard_time": 1679562687,
+      "rank": 31,
+      "category": "科技"
+    },
+    {
       "raw_hot": 203005,
       "num": 203005,
       "word": "刘诗诗加盟微博之夜",
@@ -6251,6 +6291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 191825,
+      "num": 205894,
+      "word": "华为智能手表王者稳了",
+      "onboard_time": 1679562386,
+      "rank": 29,
+      "category": "科技"
+    },
+    {
       "raw_hot": 191779,
       "num": 191779,
       "word": "刘耀文嘟嘴比耶照",
@@ -6289,6 +6337,14 @@
       "onboard_time": 1679559808,
       "rank": 19,
       "category": "科技"
+    },
+    {
+      "raw_hot": 190565,
+      "num": 190565,
+      "word": "警方通报游客在长城城墙上刻字",
+      "onboard_time": 1679560171,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 189860,
@@ -6505,6 +6561,14 @@
       "onboard_time": 1679315611,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 182660,
+      "num": 163721,
+      "word": "微博之夜倒计时2天",
+      "onboard_time": 1679562025,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 182485,
@@ -7460,7 +7524,7 @@
     },
     {
       "raw_hot": 141299,
-      "num": 180562,
+      "num": 207442,
       "word": "MateX3到底能有多薄",
       "onboard_time": 1679560350,
       "rank": 34,
@@ -7755,14 +7819,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 130086,
-      "num": 130086,
-      "word": "警方通报游客在长城城墙上刻字",
-      "onboard_time": 1679560171,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 129707,
       "num": 129707,
       "word": "打工人的早高峰是什么样的",
@@ -7849,6 +7905,14 @@
       "onboard_time": 1679477247,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 127248,
+      "num": 127248,
+      "word": "我们为什么有拖延症",
+      "onboard_time": 1679562927,
+      "rank": 46,
+      "category": "情感,教育"
     },
     {
       "raw_hot": 127086,
@@ -8459,6 +8523,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 68102,
+      "num": 1112065,
+      "word": "1分钟见证歼10飞越25年",
+      "onboard_time": 1679562386,
+      "rank": 2,
+      "category": "军事"
+    },
+    {
       "raw_hot": 65638,
       "num": 65638,
       "word": "TWICE全员跳Pop",
@@ -8646,6 +8718,9 @@
     },
     {
       "word": "#人类命运共同体理念广泛凝聚国际共识#"
+    },
+    {
+      "word": "#共建美好世界的最大公约数#"
     }
   ]
 }
