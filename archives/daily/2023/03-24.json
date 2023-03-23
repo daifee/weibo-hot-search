@@ -1,6 +1,6 @@
 {
   "startTime": 1679588746312,
-  "endTime": 1679588746312,
+  "endTime": 1679589753575,
   "band_list": [
     {
       "raw_hot": 1780848,
@@ -203,6 +203,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 204169,
+      "num": 204169,
+      "word": "章昊二顺排名",
+      "onboard_time": 1679589321,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 194282,
       "num": 194282,
       "word": "BoysPlanet",
@@ -225,6 +233,14 @@
       "onboard_time": 1679579791,
       "rank": 19,
       "category": "教育"
+    },
+    {
+      "raw_hot": 166336,
+      "num": 196223,
+      "word": "中学要求向班主任交6500元培养费",
+      "onboard_time": 1679588483,
+      "rank": 46,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 159564,
@@ -283,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 130745,
+      "num": 110347,
+      "word": "放在整个主持界也是相当炸裂",
+      "onboard_time": 1679587946,
+      "rank": 42,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 127525,
       "num": 127525,
       "word": "聂小雨人设",
@@ -315,12 +339,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 109602,
-      "num": 109602,
-      "word": "放在整个主持界也是相当炸裂",
-      "onboard_time": 1679587946,
-      "rank": 42,
-      "category": "作品衍生,时尚"
+      "raw_hot": 103161,
+      "num": 103161,
+      "word": "舞娘改编",
+      "onboard_time": 1679579128,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 97550,
@@ -347,15 +371,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 79867,
-      "num": 109118,
-      "word": "女生月薪8千花15称存两百万退休",
-      "onboard_time": 1679550086,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 74633,
+      "raw_hot": 82542,
       "num": 108877,
       "word": "怎么相个亲和上班一样",
       "onboard_time": 1679581529,
@@ -363,12 +379,12 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 70121,
-      "num": 108617,
-      "word": "中学要求向班主任交6500元培养费",
-      "onboard_time": 1679588483,
-      "rank": 46,
-      "category": "教育,社会新闻"
+      "raw_hot": 79867,
+      "num": 109118,
+      "word": "女生月薪8千花15称存两百万退休",
+      "onboard_time": 1679550086,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 67957,
@@ -401,6 +417,14 @@
       "onboard_time": 1679576248,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 44088,
+      "num": 97060,
+      "word": "当男性成为职场少数群体",
+      "onboard_time": 1679589262,
+      "rank": 49,
+      "category": "情感,幽默"
     }
   ],
   "hotgov_list": [
