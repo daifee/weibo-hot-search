@@ -1,10 +1,10 @@
 {
   "startTime": 1679502284596,
-  "endTime": 1679542420482,
+  "endTime": 1679545294106,
   "band_list": [
     {
       "raw_hot": 2484394,
-      "num": 980948,
+      "num": 1134576,
       "word": "张凌赫爱与不爱很明显",
       "onboard_time": 1679539225,
       "rank": 18,
@@ -16,6 +16,14 @@
       "word": "缅北",
       "onboard_time": 1679528002,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1833540,
+      "num": 939166,
+      "word": "海南13岁女孩遭霸凌左耳鼓膜穿孔",
+      "onboard_time": 1679539767,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -33,14 +41,6 @@
       "onboard_time": 1679541147,
       "rank": 1,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 1475368,
-      "num": 939166,
-      "word": "海南13岁女孩遭霸凌左耳鼓膜穿孔",
-      "onboard_time": 1679539767,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1364109,
@@ -75,12 +75,36 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 1229642,
+      "num": 1229642,
+      "word": "地铁里原来真有座位继承制",
+      "onboard_time": 1679541025,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 1202950,
+      "num": 1202950,
+      "word": "王俊凯王源微博之夜官宣",
+      "onboard_time": 1679543610,
+      "rank": 1,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1151502,
       "num": 751726,
       "word": "丁太升说声生不息首期最差是张杰",
       "onboard_time": 1679497413,
       "rank": 1,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 1088297,
+      "num": 532392,
+      "word": "奥利奥",
+      "onboard_time": 1679543789,
+      "rank": 11,
+      "category": "美食,艺人"
     },
     {
       "raw_hot": 1043495,
@@ -187,6 +211,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 550816,
+      "num": 550816,
+      "word": "微博之夜西装暴徒",
+      "onboard_time": 1679542650,
+      "rank": 6,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 547607,
       "num": 547607,
       "word": "阿姨赶女儿婚前写遗嘱防女婿",
@@ -251,6 +283,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 482847,
+      "num": 482847,
+      "word": "南部战区就美舰擅闯西沙领海发表谈话",
+      "onboard_time": 1679542587,
+      "rank": 13,
+      "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 479680,
+      "num": 479680,
+      "word": "王一博加盟微博之夜",
+      "onboard_time": 1679543125,
+      "rank": 14,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 443991,
       "num": 443991,
       "word": "徐峥王宝强再现泰囧经典造型",
@@ -276,7 +324,7 @@
     },
     {
       "raw_hot": 435772,
-      "num": 292627,
+      "num": 329603,
       "word": "男子因父亲未尽抚养义务拒绝赡养",
       "onboard_time": 1679533171,
       "rank": 20,
@@ -299,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 402485,
+      "num": 402485,
+      "word": "李彦宏称中国基本不会再出OpenAI",
+      "onboard_time": 1679543306,
+      "rank": 15,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 394668,
       "num": 394668,
       "word": "当高启强出现在语文试卷上",
@@ -313,6 +369,14 @@
       "onboard_time": 1679485409,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 385739,
+      "num": 385739,
+      "word": "杭州直达香港高铁太火了",
+      "onboard_time": 1679544026,
+      "rank": 18,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 383021,
@@ -379,6 +443,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 306055,
+      "num": 306055,
+      "word": "MSI赛区资格说明",
+      "onboard_time": 1679542650,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 305698,
       "num": 305698,
       "word": "恒大汽车公告或有停产风险",
@@ -403,20 +475,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 285896,
-      "num": 285896,
-      "word": "地铁里原来真有座位继承制",
-      "onboard_time": 1679541025,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 280706,
       "num": 280706,
       "word": "Wayward首发",
       "onboard_time": 1679532807,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 277014,
+      "num": 277014,
+      "word": "蔡徐坤官宣加盟微博之夜",
+      "onboard_time": 1679545170,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 267263,
@@ -475,12 +547,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 249164,
+      "num": 249164,
+      "word": "百度回应文心一言文生图功能",
+      "onboard_time": 1679542650,
+      "rank": 27,
+      "category": "科技"
+    },
+    {
       "raw_hot": 247185,
       "num": 247185,
       "word": "迪丽热巴红裙花絮",
       "onboard_time": 1679494050,
       "rank": 14,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 239415,
+      "num": 239415,
+      "word": "宋佳头顶一包花封面",
+      "onboard_time": 1679542467,
+      "rank": 28,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 238331,
+      "num": 238331,
+      "word": "李健演我作息时间",
+      "onboard_time": 1679541748,
+      "rank": 37,
+      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 238186,
@@ -497,6 +593,14 @@
       "onboard_time": 1679540726,
       "rank": 35,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 233429,
+      "num": 233429,
+      "word": "胡歌微博之夜正式官宣",
+      "onboard_time": 1679545107,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 226536,
@@ -547,6 +651,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 202578,
+      "num": 202578,
+      "word": "别对我动心今日官宣",
+      "onboard_time": 1679544209,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 200825,
       "num": 200825,
       "word": "声生不息",
@@ -577,6 +689,14 @@
       "onboard_time": 1679527281,
       "rank": 17,
       "category": "财经"
+    },
+    {
+      "raw_hot": 191837,
+      "num": 191837,
+      "word": "陈伟霆万花筒镜像海报",
+      "onboard_time": 1679545107,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 190932,
@@ -635,6 +755,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 179977,
+      "num": 179977,
+      "word": "一起露营吧嘉宾住酒店",
+      "onboard_time": 1679544929,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 177488,
       "num": 177488,
       "word": "歼10首飞试飞员说哪怕回不来也要上",
@@ -651,12 +779,52 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173964,
+      "num": 173964,
+      "word": "NBA",
+      "onboard_time": 1679541988,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 168509,
       "num": 168509,
       "word": "警方通报女孩将小男孩扔井中",
       "onboard_time": 1679485168,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167668,
+      "num": 167668,
+      "word": "游乐场社死图鉴",
+      "onboard_time": 1679545228,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 165850,
+      "num": 165850,
+      "word": "离职后还能让公司记住",
+      "onboard_time": 1679544810,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 164936,
+      "num": 164936,
+      "word": "上班快迟到了也不能着急",
+      "onboard_time": 1679544629,
+      "rank": 43,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 164894,
+      "num": 164894,
+      "word": "她是从童话里走出来的吧",
+      "onboard_time": 1679543547,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 163356,
@@ -667,20 +835,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 153357,
-      "num": 153357,
-      "word": "李健演我作息时间",
-      "onboard_time": 1679541748,
-      "rank": 37,
-      "category": "作品衍生,幽默"
+      "raw_hot": 160281,
+      "num": 160281,
+      "word": "小狗站岗大赛",
+      "onboard_time": 1679544088,
+      "rank": 45,
+      "category": "幽默,情感"
     },
     {
-      "raw_hot": 153320,
-      "num": 153320,
-      "word": "NBA",
-      "onboard_time": 1679541988,
-      "rank": 38,
-      "category": "体育"
+      "raw_hot": 139863,
+      "num": 139863,
+      "word": "曹德旺谈大学生热衷考公务员",
+      "onboard_time": 1679545050,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 138072,
@@ -1012,7 +1180,7 @@
     },
     {
       "raw_hot": 16655,
-      "num": 1015620,
+      "num": 1141730,
       "word": "落实重大发展战略开创事业新局",
       "onboard_time": 1679486968,
       "rank": 2,

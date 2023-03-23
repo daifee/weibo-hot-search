@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679542420482,
+  "endTime": 1679545294106,
   "band_list": [
     {
       "raw_hot": 7256959,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 2484394,
-      "num": 980948,
+      "num": 1134576,
       "word": "张凌赫爱与不爱很明显",
       "onboard_time": 1679539225,
       "rank": 18,
@@ -192,6 +192,14 @@
       "word": "睡觉时穿袜子更容易睡着",
       "onboard_time": 1679371530,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1833540,
+      "num": 939166,
+      "word": "海南13岁女孩遭霸凌左耳鼓膜穿孔",
+      "onboard_time": 1679539767,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -369,14 +377,6 @@
       "onboard_time": 1679224408,
       "rank": 28,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1475368,
-      "num": 939166,
-      "word": "海南13岁女孩遭霸凌左耳鼓膜穿孔",
-      "onboard_time": 1679539767,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1463663,
@@ -627,6 +627,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1229642,
+      "num": 1229642,
+      "word": "地铁里原来真有座位继承制",
+      "onboard_time": 1679541025,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1226856,
       "num": 646751,
       "word": "泰总理下令澄清旅泰安全问题",
@@ -657,6 +665,14 @@
       "onboard_time": 1679394808,
       "rank": 41,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 1202950,
+      "num": 1202950,
+      "word": "王俊凯王源微博之夜官宣",
+      "onboard_time": 1679543610,
+      "rank": 1,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1182964,
@@ -2227,6 +2243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 550816,
+      "num": 550816,
+      "word": "微博之夜西装暴徒",
+      "onboard_time": 1679542650,
+      "rank": 6,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 550136,
       "num": 550136,
       "word": "NMIXX新歌",
@@ -2523,12 +2547,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 482847,
+      "num": 482847,
+      "word": "南部战区就美舰擅闯西沙领海发表谈话",
+      "onboard_time": 1679542587,
+      "rank": 13,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 480103,
       "num": 414153,
       "word": "熊猫萌兰为了越狱有多努力",
       "onboard_time": 1679316750,
       "rank": 19,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 479680,
+      "num": 479680,
+      "word": "王一博加盟微博之夜",
+      "onboard_time": 1679543125,
+      "rank": 14,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 479375,
@@ -2828,7 +2868,7 @@
     },
     {
       "raw_hot": 435772,
-      "num": 292627,
+      "num": 329603,
       "word": "男子因父亲未尽抚养义务拒绝赡养",
       "onboard_time": 1679533171,
       "rank": 20,
@@ -3067,6 +3107,14 @@
       "category": "情感,音乐"
     },
     {
+      "raw_hot": 402485,
+      "num": 402485,
+      "word": "李彦宏称中国基本不会再出OpenAI",
+      "onboard_time": 1679543306,
+      "rank": 15,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 401709,
       "num": 401709,
       "word": "白敬亭井柏然别太爱",
@@ -3153,6 +3201,14 @@
       "onboard_time": 1679364566,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 385739,
+      "num": 385739,
+      "word": "杭州直达香港高铁太火了",
+      "onboard_time": 1679544026,
+      "rank": 18,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 383021,
@@ -3883,6 +3939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 306055,
+      "num": 306055,
+      "word": "MSI赛区资格说明",
+      "onboard_time": 1679542650,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 306049,
       "num": 306049,
       "word": "光遇",
@@ -4075,14 +4139,6 @@
       "category": "情感,社会新闻"
     },
     {
-      "raw_hot": 285896,
-      "num": 285896,
-      "word": "地铁里原来真有座位继承制",
-      "onboard_time": 1679541025,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 284454,
       "num": 308391,
       "word": "下月起长沙可乘高铁直达香港",
@@ -4192,6 +4248,14 @@
       "word": "老默说要请网友吃鱼",
       "onboard_time": 1679369667,
       "rank": 26,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 277014,
+      "num": 277014,
+      "word": "蔡徐坤官宣加盟微博之夜",
+      "onboard_time": 1679545170,
+      "rank": 25,
       "category": "作品衍生"
     },
     {
@@ -4451,6 +4515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 249164,
+      "num": 249164,
+      "word": "百度回应文心一言文生图功能",
+      "onboard_time": 1679542650,
+      "rank": 27,
+      "category": "科技"
+    },
+    {
       "raw_hot": 248949,
       "num": 248949,
       "word": "丫丫",
@@ -4651,12 +4723,28 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 239415,
+      "num": 239415,
+      "word": "宋佳头顶一包花封面",
+      "onboard_time": 1679542467,
+      "rank": 28,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 239127,
       "num": 239127,
       "word": "蛋仔派对",
       "onboard_time": 1679306131,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 238331,
+      "num": 238331,
+      "word": "李健演我作息时间",
+      "onboard_time": 1679541748,
+      "rank": 37,
+      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 238188,
@@ -4713,6 +4801,14 @@
       "onboard_time": 1679483187,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 233429,
+      "num": 233429,
+      "word": "胡歌微博之夜正式官宣",
+      "onboard_time": 1679545107,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 230506,
@@ -5323,6 +5419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 202578,
+      "num": 202578,
+      "word": "别对我动心今日官宣",
+      "onboard_time": 1679544209,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 202128,
       "num": 202128,
       "word": "FindX6暗光长焦有何优势",
@@ -5675,6 +5779,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 191837,
+      "num": 191837,
+      "word": "陈伟霆万花筒镜像海报",
+      "onboard_time": 1679545107,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 191779,
       "num": 191779,
       "word": "刘耀文嘟嘴比耶照",
@@ -5931,6 +6043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 179977,
+      "num": 179977,
+      "word": "一起露营吧嘉宾住酒店",
+      "onboard_time": 1679544929,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179911,
       "num": 179911,
       "word": "你遇到过哪些离谱的辞退理由",
@@ -6107,6 +6227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173964,
+      "num": 173964,
+      "word": "NBA",
+      "onboard_time": 1679541988,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 173121,
       "num": 173121,
       "word": "不小心把猫脚剪伤后",
@@ -6227,6 +6355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 167668,
+      "num": 167668,
+      "word": "游乐场社死图鉴",
+      "onboard_time": 1679545228,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 167613,
       "num": 483100,
       "word": "开啥都要喝开水",
@@ -6275,6 +6411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 165850,
+      "num": 165850,
+      "word": "离职后还能让公司记住",
+      "onboard_time": 1679544810,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 165365,
       "num": 165365,
       "word": "拯救者",
@@ -6289,6 +6433,22 @@
       "onboard_time": 1679267539,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 164936,
+      "num": 164936,
+      "word": "上班快迟到了也不能着急",
+      "onboard_time": 1679544629,
+      "rank": 43,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 164894,
+      "num": 164894,
+      "word": "她是从童话里走出来的吧",
+      "onboard_time": 1679543547,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 164852,
@@ -6419,6 +6579,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 160281,
+      "num": 160281,
+      "word": "小狗站岗大赛",
+      "onboard_time": 1679544088,
+      "rank": 45,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 158957,
       "num": 158957,
       "word": "宋亚轩教庄达菲说粤语",
@@ -6481,22 +6649,6 @@
       "onboard_time": 1679453667,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 153357,
-      "num": 153357,
-      "word": "李健演我作息时间",
-      "onboard_time": 1679541748,
-      "rank": 37,
-      "category": "作品衍生,幽默"
-    },
-    {
-      "raw_hot": 153320,
-      "num": 153320,
-      "word": "NBA",
-      "onboard_time": 1679541988,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 152893,
@@ -6793,6 +6945,14 @@
       "onboard_time": 1679490449,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 139863,
+      "num": 139863,
+      "word": "曹德旺谈大学生热衷考公务员",
+      "onboard_time": 1679545050,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 139549,
@@ -7780,7 +7940,7 @@
     },
     {
       "raw_hot": 33531,
-      "num": 1015620,
+      "num": 1141730,
       "word": "落实重大发展战略开创事业新局",
       "onboard_time": 1679486968,
       "rank": 2,

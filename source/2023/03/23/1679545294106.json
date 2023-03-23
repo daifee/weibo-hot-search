@@ -1,0 +1,410 @@
+{
+  "runTime": 1679545294106,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1229642,
+        "num": 1229642,
+        "word": "地铁里原来真有座位继承制",
+        "onboard_time": 1679541025,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1202950,
+        "num": 1202950,
+        "word": "王俊凯王源微博之夜官宣",
+        "onboard_time": 1679543610,
+        "rank": 1,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 5581,
+        "num": 1141730,
+        "word": "落实重大发展战略开创事业新局",
+        "onboard_time": 1679486968,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2041048,
+        "num": 1134576,
+        "word": "张凌赫爱与不爱很明显",
+        "onboard_time": 1679539225,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1118728,
+        "num": 1118728,
+        "word": "微博之夜",
+        "onboard_time": 1679541147,
+        "rank": 4,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 672722,
+        "num": 672722,
+        "word": "Mirror成员向林俊杰道歉",
+        "onboard_time": 1679536107,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 550816,
+        "num": 550816,
+        "word": "微博之夜西装暴徒",
+        "onboard_time": 1679542650,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 550816,
+        "num": 550816,
+        "word": "客运站要消失了吗",
+        "onboard_time": 1679532269,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414271,
+        "num": 545924,
+        "word": "园润花花不是亲生胜似亲生",
+        "onboard_time": 1679536825,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 265943,
+        "num": 543660,
+        "word": "广东省考",
+        "onboard_time": 1679538986,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1833540,
+        "num": 539233,
+        "word": "海南13岁女孩遭霸凌左耳鼓膜穿孔",
+        "onboard_time": 1679539767,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1088297,
+        "num": 532392,
+        "word": "奥利奥",
+        "onboard_time": 1679543789,
+        "rank": 11,
+        "category": "美食,艺人"
+      },
+      {
+        "raw_hot": 528310,
+        "num": 528310,
+        "word": "青岛偶遇白敬亭逛街",
+        "onboard_time": 1679540969,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 482847,
+        "num": 482847,
+        "word": "南部战区就美舰擅闯西沙领海发表谈话",
+        "onboard_time": 1679542587,
+        "rank": 13,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 479680,
+        "num": 479680,
+        "word": "王一博加盟微博之夜",
+        "onboard_time": 1679543125,
+        "rank": 14,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 402485,
+        "num": 402485,
+        "word": "李彦宏称中国基本不会再出OpenAI",
+        "onboard_time": 1679543306,
+        "rank": 15,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 472478,
+        "num": 399612,
+        "word": "微博之夜直播预约",
+        "onboard_time": 1679540485,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 386991,
+        "num": 386991,
+        "word": "JackeyLove回应五连败",
+        "onboard_time": 1679539345,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 385739,
+        "num": 385739,
+        "word": "杭州直达香港高铁太火了",
+        "onboard_time": 1679544026,
+        "rank": 18,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 378951,
+        "num": 378951,
+        "word": "张颂文大学时期嘻哈风穿搭",
+        "onboard_time": 1679535866,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 332839,
+        "num": 332839,
+        "word": "丁太升说声生不息首期最差是张杰",
+        "onboard_time": 1679497413,
+        "rank": 20,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 329603,
+        "num": 329603,
+        "word": "男子因父亲未尽抚养义务拒绝赡养",
+        "onboard_time": 1679533171,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306055,
+        "num": 306055,
+        "word": "MSI赛区资格说明",
+        "onboard_time": 1679542650,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 304048,
+        "num": 304048,
+        "word": "当代年轻人的就业环境",
+        "onboard_time": 1679538266,
+        "rank": 23,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 285248,
+        "num": 285248,
+        "word": "宋亚轩加盟王牌对王牌8",
+        "onboard_time": 1679539105,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 277014,
+        "num": 277014,
+        "word": "蔡徐坤官宣加盟微博之夜",
+        "onboard_time": 1679545170,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 274849,
+        "num": 274849,
+        "word": "早午餐不要合成一顿",
+        "onboard_time": 1679533289,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 249164,
+        "num": 249164,
+        "word": "百度回应文心一言文生图功能",
+        "onboard_time": 1679542650,
+        "rank": 27,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 239415,
+        "num": 239415,
+        "word": "宋佳头顶一包花封面",
+        "onboard_time": 1679542467,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 238331,
+        "num": 238331,
+        "word": "李健演我作息时间",
+        "onboard_time": 1679541748,
+        "rank": 29,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 233429,
+        "num": 233429,
+        "word": "胡歌微博之夜正式官宣",
+        "onboard_time": 1679545107,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 207165,
+        "num": 207165,
+        "word": "头一次见牛做的冰淇淋",
+        "onboard_time": 1679540726,
+        "rank": 31,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 204516,
+        "num": 204516,
+        "word": "我找到新工作了",
+        "onboard_time": 1679534906,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 202578,
+        "num": 202578,
+        "word": "别对我动心今日官宣",
+        "onboard_time": 1679544209,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 195317,
+        "num": 195317,
+        "word": "闰二月二双龙抬头",
+        "onboard_time": 1679531368,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191837,
+        "num": 191837,
+        "word": "陈伟霆万花筒镜像海报",
+        "onboard_time": 1679545107,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 181584,
+        "num": 181584,
+        "word": "国际小狗日",
+        "onboard_time": 1679535206,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 179977,
+        "num": 179977,
+        "word": "一起露营吧嘉宾住酒店",
+        "onboard_time": 1679544929,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173964,
+        "num": 173964,
+        "word": "NBA",
+        "onboard_time": 1679541988,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169497,
+        "num": 169497,
+        "word": "女子应聘被质疑23岁用苹果手机",
+        "onboard_time": 1679489728,
+        "rank": 39,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 168287,
+        "num": 168287,
+        "word": "C罗说沙特联会成为五大联赛",
+        "onboard_time": 1679533888,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167668,
+        "num": 167668,
+        "word": "游乐场社死图鉴",
+        "onboard_time": 1679545228,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 165850,
+        "num": 165850,
+        "word": "离职后还能让公司记住",
+        "onboard_time": 1679544810,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 164936,
+        "num": 164936,
+        "word": "上班快迟到了也不能着急",
+        "onboard_time": 1679544629,
+        "rank": 43,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 164894,
+        "num": 164894,
+        "word": "她是从童话里走出来的吧",
+        "onboard_time": 1679543547,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 160281,
+        "num": 160281,
+        "word": "小狗站岗大赛",
+        "onboard_time": 1679544088,
+        "rank": 45,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 156874,
+        "num": 156874,
+        "word": "不良人",
+        "onboard_time": 1679539645,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 154487,
+        "num": 154487,
+        "word": "这不是动物萌态是刻板行为",
+        "onboard_time": 1679539584,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153547,
+        "num": 153547,
+        "word": "女生发视频吐槽意外带火甲骨文专业",
+        "onboard_time": 1679534906,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139863,
+        "num": 139863,
+        "word": "曹德旺谈大学生热衷考公务员",
+        "onboard_time": 1679545050,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#共行天下大道共创美好未来#"
+    }
+  }
+}
