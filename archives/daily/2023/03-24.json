@@ -1,6 +1,6 @@
 {
   "startTime": 1679588746312,
-  "endTime": 1679602739409,
+  "endTime": 1679603622794,
   "band_list": [
     {
       "raw_hot": 1780848,
@@ -523,20 +523,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 39076,
+      "num": 36756,
+      "word": "杭州狂摇樱花树网红公司道歉",
+      "onboard_time": 1679600052,
+      "rank": 14,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 33093,
       "num": 29821,
       "word": "哭砂",
       "onboard_time": 1679576248,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 31936,
-      "num": 31936,
-      "word": "杭州狂摇樱花树网红公司道歉",
-      "onboard_time": 1679600052,
-      "rank": 14,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 31412,
