@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679549611512,
+  "endTime": 1679552555376,
   "band_list": [
     {
       "raw_hot": 7256959,
@@ -51,6 +51,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 2678045,
+      "num": 2678045,
+      "word": "女生月薪8千花15称存两百万退休",
+      "onboard_time": 1679550086,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2546877,
       "num": 1052744,
       "word": "强奸13岁女孩致死案罪犯被判死刑",
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 2442342,
-      "num": 415509,
+      "num": 439597,
       "word": "张凌赫白鹿",
       "onboard_time": 1679548409,
       "rank": 10,
@@ -603,6 +611,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 1284837,
+      "num": 1284837,
+      "word": "耳念珠菌已遍布美国一半以上的州",
+      "onboard_time": 1679548768,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1283110,
       "num": 110072,
       "word": "北京地铁10号线",
@@ -1097,6 +1113,14 @@
       "onboard_time": 1679300547,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 930412,
+      "num": 930412,
+      "word": "大麦抢票",
+      "onboard_time": 1679549187,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 930135,
@@ -2283,6 +2307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 556368,
+      "num": 429158,
+      "word": "刘亦菲素颜买衣服",
+      "onboard_time": 1679552189,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 556119,
       "num": 556119,
       "word": "陈曌旭在张杰演唱会团队",
@@ -2505,6 +2537,14 @@
       "onboard_time": 1679471187,
       "rank": 19,
       "category": "情感,教育"
+    },
+    {
+      "raw_hot": 502741,
+      "num": 502741,
+      "word": "关晓彤青花瓷长裙",
+      "onboard_time": 1679551468,
+      "rank": 6,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 502106,
@@ -3843,6 +3883,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 321449,
+      "num": 321449,
+      "word": "黄明昊把杨蓉吓跪了",
+      "onboard_time": 1679551405,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 320720,
       "num": 320720,
       "word": "英雄联盟",
@@ -3865,6 +3913,14 @@
       "onboard_time": 1679405669,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 317884,
+      "num": 317884,
+      "word": "虞书欣镜头下的云之羽",
+      "onboard_time": 1679550266,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 317807,
@@ -4059,6 +4115,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 303437,
+      "num": 303437,
+      "word": "华为P60",
+      "onboard_time": 1679552065,
+      "rank": 19,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 302555,
+      "num": 302555,
+      "word": "华为发布会",
+      "onboard_time": 1679551826,
+      "rank": 21,
+      "category": "科技"
+    },
+    {
       "raw_hot": 301513,
       "num": 301513,
       "word": "井柏然做的菜",
@@ -4073,6 +4145,14 @@
       "onboard_time": 1679513113,
       "rank": 28,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 301007,
+      "num": 301007,
+      "word": "考拉摄像头",
+      "onboard_time": 1679549246,
+      "rank": 30,
+      "category": "科技"
     },
     {
       "raw_hot": 299222,
@@ -4907,6 +4987,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 237765,
+      "num": 237765,
+      "word": "大熊猫胆子有多小",
+      "onboard_time": 1679549369,
+      "rank": 45,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 236146,
       "num": 236146,
       "word": "毛晓彤说吵架是一个有效的沟通",
@@ -5033,6 +5121,14 @@
       "onboard_time": 1679475448,
       "rank": 33,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 227048,
+      "num": 227048,
+      "word": "周冬雨小雀斑同框合影",
+      "onboard_time": 1679550866,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 226587,
@@ -5176,6 +5272,14 @@
       "word": "狂飙版美人鱼",
       "onboard_time": 1679284171,
       "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 218520,
+      "num": 218520,
+      "word": "帅哥不可以男演员颜值",
+      "onboard_time": 1679552006,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -5563,14 +5667,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 202765,
-      "num": 202765,
-      "word": "耳念珠菌已遍布美国一半以上的州",
-      "onboard_time": 1679548768,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 202578,
       "num": 202578,
       "word": "别对我动心今日官宣",
@@ -5939,14 +6035,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 191800,
-      "num": 208928,
-      "word": "考拉摄像头",
-      "onboard_time": 1679549246,
-      "rank": 30,
-      "category": "科技"
-    },
-    {
       "raw_hot": 191779,
       "num": 191779,
       "word": "刘耀文嘟嘴比耶照",
@@ -6011,14 +6099,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 188738,
-      "num": 188738,
-      "word": "大麦抢票",
-      "onboard_time": 1679549187,
-      "rank": 34,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 188566,
       "num": 195491,
       "word": "刘冬沁以爱为营马术服墨镜造型",
@@ -6033,6 +6113,14 @@
       "onboard_time": 1679541808,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 187131,
+      "num": 187131,
+      "word": "朱一龙呼吁为地球献出一小时",
+      "onboard_time": 1679551826,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 187063,
@@ -6089,6 +6177,14 @@
       "onboard_time": 1679477846,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 185609,
+      "num": 185609,
+      "word": "跟着灵儿考古Hero",
+      "onboard_time": 1679552065,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 185145,
@@ -6209,6 +6305,14 @@
       "onboard_time": 1679495492,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 180499,
+      "num": 180499,
+      "word": "湖人46次罚球",
+      "onboard_time": 1679551227,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 179911,
@@ -6515,6 +6619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 169210,
+      "num": 169210,
+      "word": "一起露营吧总导演晒聊天记录",
+      "onboard_time": 1679552189,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168018,
       "num": 168018,
       "word": "小敏家金波出演爱情而已",
@@ -6776,6 +6888,14 @@
       "word": "路人被整蛊后的反应",
       "onboard_time": 1679306668,
       "rank": 40,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 154596,
+      "num": 154596,
+      "word": "大学生的椅子都在忍辱负重",
+      "onboard_time": 1679548468,
+      "rank": 44,
       "category": "幽默"
     },
     {
@@ -7195,14 +7315,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 135496,
-      "num": 135496,
-      "word": "大学生的椅子都在忍辱负重",
-      "onboard_time": 1679548468,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 135345,
       "num": 135345,
       "word": "一下子就变成了重点客户",
@@ -7419,6 +7531,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 127745,
+      "num": 127745,
+      "word": "春闺梦里人梦华录梦幻联动",
+      "onboard_time": 1679550985,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 127529,
       "num": 127529,
       "word": "开多少种花才算一个春天",
@@ -7545,14 +7665,6 @@
       "onboard_time": 1679479290,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 121410,
-      "num": 121410,
-      "word": "大熊猫胆子有多小",
-      "onboard_time": 1679549369,
-      "rank": 45,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 120884,
@@ -8047,6 +8159,14 @@
       "num": 935627,
       "word": "随手拍春天",
       "onboard_time": 1679391509,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 57839,
+      "num": 1036042,
+      "word": "春花遇春耕美成画卷",
+      "onboard_time": 1679549908,
       "rank": 2,
       "category": "社会新闻"
     },

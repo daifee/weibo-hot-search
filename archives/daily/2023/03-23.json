@@ -1,7 +1,15 @@
 {
   "startTime": 1679502284596,
-  "endTime": 1679549611512,
+  "endTime": 1679552555376,
   "band_list": [
+    {
+      "raw_hot": 2678045,
+      "num": 2678045,
+      "word": "女生月薪8千花15称存两百万退休",
+      "onboard_time": 1679550086,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2484394,
       "num": 1134576,
@@ -12,7 +20,7 @@
     },
     {
       "raw_hot": 2442342,
-      "num": 415509,
+      "num": 439597,
       "word": "张凌赫白鹿",
       "onboard_time": 1679548409,
       "rank": 10,
@@ -115,6 +123,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 1284837,
+      "num": 1284837,
+      "word": "耳念珠菌已遍布美国一半以上的州",
+      "onboard_time": 1679548768,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1151502,
       "num": 751726,
       "word": "丁太升说声生不息首期最差是张杰",
@@ -145,6 +161,14 @@
       "onboard_time": 1679532091,
       "rank": 5,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 930412,
+      "num": 930412,
+      "word": "大麦抢票",
+      "onboard_time": 1679549187,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 896495,
@@ -275,6 +299,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 556368,
+      "num": 429158,
+      "word": "刘亦菲素颜买衣服",
+      "onboard_time": 1679552189,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 550816,
       "num": 550816,
       "word": "微博之夜西装暴徒",
@@ -329,6 +361,14 @@
       "onboard_time": 1679534906,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 502741,
+      "num": 502741,
+      "word": "关晓彤青花瓷长裙",
+      "onboard_time": 1679551468,
+      "rank": 6,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 502106,
@@ -507,6 +547,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 321449,
+      "num": 321449,
+      "word": "黄明昊把杨蓉吓跪了",
+      "onboard_time": 1679551405,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 317884,
+      "num": 317884,
+      "word": "虞书欣镜头下的云之羽",
+      "onboard_time": 1679550266,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 311651,
       "num": 311651,
       "word": "当代年轻人的就业环境",
@@ -547,12 +603,36 @@
       "category": "财经"
     },
     {
+      "raw_hot": 303437,
+      "num": 303437,
+      "word": "华为P60",
+      "onboard_time": 1679552065,
+      "rank": 19,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 302555,
+      "num": 302555,
+      "word": "华为发布会",
+      "onboard_time": 1679551826,
+      "rank": 21,
+      "category": "科技"
+    },
+    {
       "raw_hot": 301403,
       "num": 301403,
       "word": "心医林霖",
       "onboard_time": 1679513113,
       "rank": 28,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 301007,
+      "num": 301007,
+      "word": "考拉摄像头",
+      "onboard_time": 1679549246,
+      "rank": 30,
+      "category": "科技"
     },
     {
       "raw_hot": 287374,
@@ -723,11 +803,27 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 237765,
+      "num": 237765,
+      "word": "大熊猫胆子有多小",
+      "onboard_time": 1679549369,
+      "rank": 45,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 233429,
       "num": 233429,
       "word": "胡歌微博之夜正式官宣",
       "onboard_time": 1679545107,
       "rank": 30,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 227048,
+      "num": 227048,
+      "word": "周冬雨小雀斑同框合影",
+      "onboard_time": 1679550866,
+      "rank": 28,
       "category": "作品衍生"
     },
     {
@@ -753,6 +849,14 @@
       "onboard_time": 1679491472,
       "rank": 16,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 218520,
+      "num": 218520,
+      "word": "帅哥不可以男演员颜值",
+      "onboard_time": 1679552006,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 211494,
@@ -793,14 +897,6 @@
       "onboard_time": 1679539645,
       "rank": 30,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 202765,
-      "num": 202765,
-      "word": "耳念珠菌已遍布美国一半以上的州",
-      "onboard_time": 1679548768,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 202578,
@@ -859,28 +955,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 191800,
-      "num": 208928,
-      "word": "考拉摄像头",
-      "onboard_time": 1679549246,
-      "rank": 30,
-      "category": "科技"
-    },
-    {
       "raw_hot": 190932,
       "num": 190932,
       "word": "做自然的朋友",
       "onboard_time": 1679541208,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 188738,
-      "num": 188738,
-      "word": "大麦抢票",
-      "onboard_time": 1679549187,
-      "rank": 34,
-      "category": "音乐"
     },
     {
       "raw_hot": 188566,
@@ -899,12 +979,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 187131,
+      "num": 187131,
+      "word": "朱一龙呼吁为地球献出一小时",
+      "onboard_time": 1679551826,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 187032,
       "num": 187032,
       "word": "勇士vs独行侠",
       "onboard_time": 1679538145,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 185609,
+      "num": 185609,
+      "word": "跟着灵儿考古Hero",
+      "onboard_time": 1679552065,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 184400,
@@ -921,6 +1017,14 @@
       "onboard_time": 1679488169,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180499,
+      "num": 180499,
+      "word": "湖人46次罚球",
+      "onboard_time": 1679551227,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 180009,
@@ -963,6 +1067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 169210,
+      "num": 169210,
+      "word": "一起露营吧总导演晒聊天记录",
+      "onboard_time": 1679552189,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168509,
       "num": 168509,
       "word": "警方通报女孩将小男孩扔井中",
@@ -985,6 +1097,14 @@
       "onboard_time": 1679539584,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154596,
+      "num": 154596,
+      "word": "大学生的椅子都在忍辱负重",
+      "onboard_time": 1679548468,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 138072,
@@ -1016,14 +1136,6 @@
       "word": "没有边界感的孔雀",
       "onboard_time": 1679546132,
       "rank": 49,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 135496,
-      "num": 135496,
-      "word": "大学生的椅子都在忍辱负重",
-      "onboard_time": 1679548468,
-      "rank": 44,
       "category": "幽默"
     },
     {
@@ -1083,6 +1195,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 127745,
+      "num": 127745,
+      "word": "春闺梦里人梦华录梦幻联动",
+      "onboard_time": 1679550985,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 127120,
       "num": 127120,
       "word": "刘亦菲上海路透",
@@ -1097,14 +1217,6 @@
       "onboard_time": 1679500527,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 121410,
-      "num": 121410,
-      "word": "大熊猫胆子有多小",
-      "onboard_time": 1679549369,
-      "rank": 45,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 118683,
@@ -1297,6 +1409,14 @@
       "onboard_time": 1679486912,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 57839,
+      "num": 1036042,
+      "word": "春花遇春耕美成画卷",
+      "onboard_time": 1679549908,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 37451,
