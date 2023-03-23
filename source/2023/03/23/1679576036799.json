@@ -1,0 +1,410 @@
+{
+  "runTime": 1679576036799,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1384645,
+        "num": 1384645,
+        "word": "小狗头像",
+        "onboard_time": 1679570187,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1229753,
+        "num": 1229753,
+        "word": "许嵩 演唱会",
+        "onboard_time": 1679573667,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 66181,
+        "num": 1076214,
+        "word": "1分钟见证歼10飞越25年",
+        "onboard_time": 1679562386,
+        "rank": 2,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 1041334,
+        "num": 1041334,
+        "word": "微博之夜座位图有了吗",
+        "onboard_time": 1679573967,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 948232,
+        "num": 948232,
+        "word": "马嘉祺 舞娘",
+        "onboard_time": 1679573187,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 886553,
+        "num": 886553,
+        "word": "天官赐福",
+        "onboard_time": 1679574869,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 826910,
+        "num": 826910,
+        "word": "兰亭序",
+        "onboard_time": 1679574088,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 517122,
+        "num": 517122,
+        "word": "吴前结婚",
+        "onboard_time": 1679570967,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 491589,
+        "num": 491589,
+        "word": "女生月薪8千花15称存两百万退休",
+        "onboard_time": 1679550086,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 443981,
+        "num": 443981,
+        "word": "宝格丽活动",
+        "onboard_time": 1679567906,
+        "rank": 9,
+        "category": "时尚,影视"
+      },
+      {
+        "raw_hot": 2119854,
+        "num": 438211,
+        "word": "刘亦菲杨洋同框拥抱",
+        "onboard_time": 1679573907,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 490995,
+        "num": 432200,
+        "word": "离职前一天被辞退了",
+        "onboard_time": 1679559268,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1513938,
+        "num": 428721,
+        "word": "夫妻相约自杀妻子未如约被判刑",
+        "onboard_time": 1679564728,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 926698,
+        "num": 416583,
+        "word": "张颂文 哈哈我疯了",
+        "onboard_time": 1679570010,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 875869,
+        "num": 411637,
+        "word": "95后女孩失联8年被发现流浪荒山",
+        "onboard_time": 1679574388,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 716513,
+        "num": 408162,
+        "word": "杨幂 微博之夜",
+        "onboard_time": 1679574207,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 646227,
+        "num": 398437,
+        "word": "林志玲素颜近照",
+        "onboard_time": 1679564245,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 604833,
+        "num": 391353,
+        "word": "张嘉倪露腰牛仔裙",
+        "onboard_time": 1679569887,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 387844,
+        "num": 387844,
+        "word": "小说坠落",
+        "onboard_time": 1679570307,
+        "rank": 18,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 309394,
+        "num": 309394,
+        "word": "情侣恋爱一年后的合照变化",
+        "onboard_time": 1679563766,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 593493,
+        "num": 307905,
+        "word": "关晓彤穿了陈采尼设计礼服",
+        "onboard_time": 1679558848,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 547455,
+        "num": 307357,
+        "word": "何炅听天天想你哭了",
+        "onboard_time": 1679575649,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 497884,
+        "num": 306554,
+        "word": "单身久了会丧失恋爱能力吗",
+        "onboard_time": 1679571809,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 304800,
+        "num": 304800,
+        "word": "他是谁割喉案终于有线索了",
+        "onboard_time": 1679573427,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 295200,
+        "num": 295200,
+        "word": "进才中学否认网传女老师和学生恋爱",
+        "onboard_time": 1679564847,
+        "rank": 24,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 276288,
+        "num": 276288,
+        "word": "恋与深空",
+        "onboard_time": 1679573728,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 266830,
+        "num": 266830,
+        "word": "张杰重唱天天想你",
+        "onboard_time": 1679573546,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221915,
+        "num": 221915,
+        "word": "朱熹祖宅地3亿元直播起拍",
+        "onboard_time": 1679568568,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241520,
+        "num": 219894,
+        "word": "声生不息",
+        "onboard_time": 1679575530,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202239,
+        "num": 217415,
+        "word": "大学生怎么什么都答应",
+        "onboard_time": 1679568328,
+        "rank": 29,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 217190,
+        "num": 217190,
+        "word": "华晨宇声生不息舞娘预告",
+        "onboard_time": 1679575590,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205153,
+        "num": 205153,
+        "word": "佟丽娅黑色丝绒长裙",
+        "onboard_time": 1679575649,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 203292,
+        "num": 203292,
+        "word": "白鹿赵露思同款镂空背心",
+        "onboard_time": 1679565026,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193584,
+        "num": 193584,
+        "word": "张朝阳称折叠屏用户视线集中在左半边",
+        "onboard_time": 1679574267,
+        "rank": 33,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 185451,
+        "num": 185451,
+        "word": "RNG晋级春季季后赛",
+        "onboard_time": 1679573546,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 201946,
+        "num": 184697,
+        "word": "演员牛犇的名字原来是这么来的",
+        "onboard_time": 1679574328,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193800,
+        "num": 184569,
+        "word": "唐嫣武汉vlog",
+        "onboard_time": 1679573249,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183291,
+        "num": 183291,
+        "word": "驻缅甸大使同缅方谈加强打击网络诈骗",
+        "onboard_time": 1679569109,
+        "rank": 37,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 182550,
+        "num": 182550,
+        "word": "滑蛋虾仁盖浇饭",
+        "onboard_time": 1679575950,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 163879,
+        "num": 163879,
+        "word": "3月游戏版号公布",
+        "onboard_time": 1679574026,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 179911,
+        "num": 163841,
+        "word": "艾怡良陈卓璇千年之恋摇滚舞台",
+        "onboard_time": 1679574690,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160052,
+        "num": 160052,
+        "word": "XYG 洪洗象牛哇",
+        "onboard_time": 1679567847,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 159045,
+        "num": 159045,
+        "word": "口语考试时替我爸出柜了",
+        "onboard_time": 1679557105,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 155143,
+        "num": 155143,
+        "word": "华为P60",
+        "onboard_time": 1679552065,
+        "rank": 43,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 153374,
+        "num": 153374,
+        "word": "双鱼座受不得半点冷落",
+        "onboard_time": 1679561967,
+        "rank": 44,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 152238,
+        "num": 152238,
+        "word": "如果一直不睡觉会怎样",
+        "onboard_time": 1679575950,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142884,
+        "num": 142884,
+        "word": "成毅烤糍粑",
+        "onboard_time": 1679568808,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132662,
+        "num": 132662,
+        "word": "杨天真当杜华面挖程潇",
+        "onboard_time": 1679560707,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127774,
+        "num": 127774,
+        "word": "女生地铁口帮忙被骗光生活费",
+        "onboard_time": 1679557227,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126744,
+        "num": 126744,
+        "word": "网红团队狂摇杭州百年樱花树",
+        "onboard_time": 1679566348,
+        "rank": 49,
+        "category": "社会新闻,网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#人类命运共同体理念广泛凝聚国际共识#"
+    }
+  }
+}

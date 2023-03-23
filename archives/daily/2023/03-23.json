@@ -1,6 +1,6 @@
 {
   "startTime": 1679502284596,
-  "endTime": 1679574994632,
+  "endTime": 1679576036799,
   "band_list": [
     {
       "raw_hot": 3180080,
@@ -211,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1229753,
+      "num": 1229753,
+      "word": "许嵩 演唱会",
+      "onboard_time": 1679573667,
+      "rank": 3,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1223444,
       "num": 1223444,
       "word": "潘长江否认全家移民美国",
@@ -257,6 +265,14 @@
       "onboard_time": 1679492068,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1041334,
+      "num": 1041334,
+      "word": "微博之夜座位图有了吗",
+      "onboard_time": 1679573967,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1038564,
@@ -315,20 +331,28 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 920678,
-      "num": 920678,
-      "word": "许嵩 演唱会",
-      "onboard_time": 1679573667,
-      "rank": 3,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 896495,
       "num": 896495,
       "word": "离职后还能让公司记住",
       "onboard_time": 1679544810,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 886553,
+      "num": 886553,
+      "word": "天官赐福",
+      "onboard_time": 1679574869,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 875869,
+      "num": 411637,
+      "word": "95后女孩失联8年被发现流浪荒山",
+      "onboard_time": 1679574388,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 844737,
@@ -353,6 +377,14 @@
       "onboard_time": 1679535866,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 826910,
+      "num": 826910,
+      "word": "兰亭序",
+      "onboard_time": 1679574088,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 810901,
@@ -417,6 +449,14 @@
       "onboard_time": 1679553447,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 716513,
+      "num": 496762,
+      "word": "杨幂 微博之夜",
+      "onboard_time": 1679574207,
+      "rank": 9,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 708640,
@@ -595,12 +635,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 546472,
-      "num": 485743,
-      "word": "微博之夜座位图有了吗",
-      "onboard_time": 1679573967,
-      "rank": 16,
-      "category": "作品衍生"
+      "raw_hot": 547455,
+      "num": 307357,
+      "word": "何炅听天天想你哭了",
+      "onboard_time": 1679575649,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 545745,
@@ -691,14 +731,6 @@
       "category": "其它"
     },
     {
-      "raw_hot": 496762,
-      "num": 496762,
-      "word": "杨幂 微博之夜",
-      "onboard_time": 1679574207,
-      "rank": 9,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 493316,
       "num": 434228,
       "word": "孔雪儿颅顶",
@@ -713,14 +745,6 @@
       "onboard_time": 1679525419,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 484498,
-      "num": 484498,
-      "word": "兰亭序",
-      "onboard_time": 1679574088,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 483967,
@@ -1051,8 +1075,8 @@
       "category": "财经"
     },
     {
-      "raw_hot": 303413,
-      "num": 303413,
+      "raw_hot": 304800,
+      "num": 304800,
       "word": "他是谁割喉案终于有线索了",
       "onboard_time": 1679573427,
       "rank": 23,
@@ -1235,14 +1259,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 250486,
-      "num": 250486,
-      "word": "天官赐福",
-      "onboard_time": 1679574869,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 250439,
       "num": 250439,
       "word": "这猫怎么正反面长一样",
@@ -1288,6 +1304,14 @@
       "word": "鹿晗拿盆炫东北美食",
       "onboard_time": 1679558787,
       "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 241520,
+      "num": 219894,
+      "word": "声生不息",
+      "onboard_time": 1679501127,
+      "rank": 18,
       "category": "综艺"
     },
     {
@@ -1353,14 +1377,6 @@
       "onboard_time": 1679556208,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 234289,
-      "num": 207684,
-      "word": "95后女孩失联8年被发现流浪荒山",
-      "onboard_time": 1679574388,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 233429,
@@ -1433,6 +1449,14 @@
       "onboard_time": 1679564066,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 217190,
+      "num": 217190,
+      "word": "华晨宇声生不息舞娘预告",
+      "onboard_time": 1679575590,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 212240,
@@ -1515,6 +1539,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 205153,
+      "num": 205153,
+      "word": "佟丽娅黑色丝绒长裙",
+      "onboard_time": 1679575649,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 204039,
       "num": 204039,
       "word": "原来韩国00后也在整顿职场",
@@ -1569,14 +1601,6 @@
       "onboard_time": 1679554287,
       "rank": 37,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 200825,
-      "num": 200825,
-      "word": "声生不息",
-      "onboard_time": 1679501127,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 200081,
@@ -1707,6 +1731,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 185451,
+      "num": 185451,
+      "word": "RNG晋级春季季后赛",
+      "onboard_time": 1679573546,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 184400,
       "num": 184400,
       "word": "程潇白色露腰短上衣造型",
@@ -1721,6 +1753,14 @@
       "onboard_time": 1679562025,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 182550,
+      "num": 182550,
+      "word": "滑蛋虾仁盖浇饭",
+      "onboard_time": 1679575950,
+      "rank": 38,
+      "category": "美食"
     },
     {
       "raw_hot": 182485,
@@ -1907,6 +1947,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 152238,
+      "num": 152238,
+      "word": "如果一直不睡觉会怎样",
+      "onboard_time": 1679575950,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 149535,
       "num": 149535,
       "word": "10后小朋友用东巴文写诗",
@@ -1921,14 +1969,6 @@
       "onboard_time": 1679573546,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 143275,
-      "num": 143275,
-      "word": "RNG晋级春季季后赛",
-      "onboard_time": 1679573546,
-      "rank": 43,
-      "category": "游戏"
     },
     {
       "raw_hot": 142430,

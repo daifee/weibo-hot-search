@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679574994632,
+  "endTime": 1679576036799,
   "band_list": [
     {
       "raw_hot": 7256959,
@@ -755,6 +755,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1229753,
+      "num": 1229753,
+      "word": "许嵩 演唱会",
+      "onboard_time": 1679573667,
+      "rank": 3,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1226856,
       "num": 646751,
       "word": "泰总理下令澄清旅泰安全问题",
@@ -1001,6 +1009,14 @@
       "onboard_time": 1679381369,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1041334,
+      "num": 1041334,
+      "word": "微博之夜座位图有了吗",
+      "onboard_time": 1679573967,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1040893,
@@ -1307,14 +1323,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 920678,
-      "num": 920678,
-      "word": "许嵩 演唱会",
-      "onboard_time": 1679573667,
-      "rank": 3,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 917661,
       "num": 917661,
       "word": "爱情而已 定档",
@@ -1371,6 +1379,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 886553,
+      "num": 886553,
+      "word": "天官赐福",
+      "onboard_time": 1679574869,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 884764,
       "num": 608746,
       "word": "Jinni即将solo出道",
@@ -1385,6 +1401,14 @@
       "onboard_time": 1679358688,
       "rank": 6,
       "category": "社会负面,教育"
+    },
+    {
+      "raw_hot": 875869,
+      "num": 411637,
+      "word": "95后女孩失联8年被发现流浪荒山",
+      "onboard_time": 1679574388,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 875437,
@@ -1529,6 +1553,14 @@
       "onboard_time": 1679374472,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 826910,
+      "num": 826910,
+      "word": "兰亭序",
+      "onboard_time": 1679574088,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 820527,
@@ -1801,6 +1833,14 @@
       "onboard_time": 1679370749,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 716513,
+      "num": 496762,
+      "word": "杨幂 微博之夜",
+      "onboard_time": 1679574207,
+      "rank": 9,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 712725,
@@ -2635,20 +2675,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 547455,
+      "num": 307357,
+      "word": "何炅听天天想你哭了",
+      "onboard_time": 1679575649,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 546752,
       "num": 546752,
       "word": "花花明天要上班了",
       "onboard_time": 1679383229,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 546472,
-      "num": 485743,
-      "word": "微博之夜座位图有了吗",
-      "onboard_time": 1679573967,
-      "rank": 16,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 545745,
@@ -2891,14 +2931,6 @@
       "category": "其它"
     },
     {
-      "raw_hot": 496762,
-      "num": 496762,
-      "word": "杨幂 微博之夜",
-      "onboard_time": 1679574207,
-      "rank": 9,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 494030,
       "num": 494030,
       "word": "张家齐",
@@ -2969,14 +3001,6 @@
       "onboard_time": 1679376750,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 484498,
-      "num": 484498,
-      "word": "兰亭序",
-      "onboard_time": 1679574088,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 483967,
@@ -4563,8 +4587,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 303413,
-      "num": 303413,
+      "raw_hot": 304800,
+      "num": 304800,
       "word": "他是谁割喉案终于有线索了",
       "onboard_time": 1679573427,
       "rank": 23,
@@ -5179,14 +5203,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 250486,
-      "num": 250486,
-      "word": "天官赐福",
-      "onboard_time": 1679574869,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 250439,
       "num": 250439,
       "word": "这猫怎么正反面长一样",
@@ -5427,6 +5443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 241520,
+      "num": 219894,
+      "word": "声生不息",
+      "onboard_time": 1679501127,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 240828,
       "num": 240828,
       "word": "田曦薇三亚路透",
@@ -5553,14 +5577,6 @@
       "onboard_time": 1679556208,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 234289,
-      "num": 207684,
-      "word": "95后女孩失联8年被发现流浪荒山",
-      "onboard_time": 1679574388,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 234100,
@@ -5865,6 +5881,14 @@
       "onboard_time": 1679564066,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 217190,
+      "num": 217190,
+      "word": "华晨宇声生不息舞娘预告",
+      "onboard_time": 1679575590,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 216353,
@@ -6203,6 +6227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205153,
+      "num": 205153,
+      "word": "佟丽娅黑色丝绒长裙",
+      "onboard_time": 1679575649,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 204703,
       "num": 204703,
       "word": "刘阅微发声明",
@@ -6369,14 +6401,6 @@
       "onboard_time": 1679365106,
       "rank": 31,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 200825,
-      "num": 200825,
-      "word": "声生不息",
-      "onboard_time": 1679501127,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 200539,
@@ -6891,6 +6915,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 185451,
+      "num": 185451,
+      "word": "RNG晋级春季季后赛",
+      "onboard_time": 1679573546,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 185145,
       "num": 185145,
       "word": "湖人战胜魔术",
@@ -6985,6 +7017,14 @@
       "onboard_time": 1679562025,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 182550,
+      "num": 182550,
+      "word": "滑蛋虾仁盖浇饭",
+      "onboard_time": 1679575950,
+      "rank": 38,
+      "category": "美食"
     },
     {
       "raw_hot": 182485,
@@ -7723,6 +7763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 152238,
+      "num": 152238,
+      "word": "如果一直不睡觉会怎样",
+      "onboard_time": 1679575950,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 152012,
       "num": 152012,
       "word": "路炎晨在厕所门口吃东西",
@@ -7969,14 +8017,6 @@
       "onboard_time": 1679326289,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 143275,
-      "num": 143275,
-      "word": "RNG晋级春季季后赛",
-      "onboard_time": 1679573546,
-      "rank": 43,
-      "category": "游戏"
     },
     {
       "raw_hot": 143239,
