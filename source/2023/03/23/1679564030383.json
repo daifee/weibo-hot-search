@@ -1,0 +1,410 @@
+{
+  "runTime": 1679564030383,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2125928,
+        "num": 2125928,
+        "word": "离职前一天被辞退了",
+        "onboard_time": 1679559268,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1384516,
+        "num": 1384516,
+        "word": "女生月薪8千花15称存两百万退休",
+        "onboard_time": 1679550086,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122930,
+        "num": 1182304,
+        "word": "1分钟见证歼10飞越25年",
+        "onboard_time": 1679562386,
+        "rank": 2,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 984669,
+        "num": 984669,
+        "word": "杨天真当杜华面挖程潇",
+        "onboard_time": 1679560707,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 676571,
+        "num": 676571,
+        "word": "梦华录玉骨遥全国线下巡展",
+        "onboard_time": 1679560407,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 666149,
+        "num": 666149,
+        "word": "女生地铁口帮忙被骗光生活费",
+        "onboard_time": 1679557227,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 572383,
+        "num": 572383,
+        "word": "双鱼座受不得半点冷落",
+        "onboard_time": 1679561967,
+        "rank": 6,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 477814,
+        "num": 477814,
+        "word": "DK打韩华",
+        "onboard_time": 1679561249,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 437140,
+        "num": 437140,
+        "word": "潘长江否认全家移民美国",
+        "onboard_time": 1679556388,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 417585,
+        "num": 417585,
+        "word": "张靓颖向粉丝道歉",
+        "onboard_time": 1679556988,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1766937,
+        "num": 406562,
+        "word": "关晓彤穿了陈采尼设计礼服",
+        "onboard_time": 1679558848,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 430997,
+        "num": 395965,
+        "word": "口语考试时替我爸出柜了",
+        "onboard_time": 1679557105,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 374068,
+        "num": 374068,
+        "word": "张凌赫白鹿",
+        "onboard_time": 1679548409,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 370783,
+        "num": 370783,
+        "word": "女警说癌症我都不怕还怕你个毒贩不成",
+        "onboard_time": 1679553865,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349700,
+        "num": 349700,
+        "word": "袁泉好美",
+        "onboard_time": 1679557588,
+        "rank": 14,
+        "category": "艺人,科技"
+      },
+      {
+        "raw_hot": 332750,
+        "num": 332750,
+        "word": "遭霸凌女孩家属发声",
+        "onboard_time": 1679554287,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312461,
+        "num": 312461,
+        "word": "刘亦菲素颜买衣服",
+        "onboard_time": 1679552189,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 297474,
+        "num": 297474,
+        "word": "微博之夜阵容",
+        "onboard_time": 1679545890,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 278750,
+        "num": 278750,
+        "word": "男孩用激光笔连照左眼51次致失明",
+        "onboard_time": 1679553447,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273925,
+        "num": 273925,
+        "word": "再也不敢不洗手了",
+        "onboard_time": 1679554467,
+        "rank": 19,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 799628,
+        "num": 268407,
+        "word": "华为P60",
+        "onboard_time": 1679552065,
+        "rank": 20,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 318826,
+        "num": 253873,
+        "word": "华为发布会",
+        "onboard_time": 1679551826,
+        "rank": 21,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 948388,
+        "num": 246002,
+        "word": "网红美七777否认炒作蹭流量",
+        "onboard_time": 1679558607,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 309215,
+        "num": 236863,
+        "word": "华为P60首发支持双向北斗卫星消息",
+        "onboard_time": 1679557888,
+        "rank": 23,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 227792,
+        "num": 227792,
+        "word": "华为MateX3",
+        "onboard_time": 1679562687,
+        "rank": 24,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 221012,
+        "num": 221012,
+        "word": "耳念珠菌已遍布美国一半以上的州",
+        "onboard_time": 1679548768,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207442,
+        "num": 207442,
+        "word": "警方通报游客在长城城墙上刻字",
+        "onboard_time": 1679560171,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197986,
+        "num": 197986,
+        "word": "海南13岁女孩遭霸凌左耳鼓膜穿孔",
+        "onboard_time": 1679539767,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194929,
+        "num": 194929,
+        "word": "吴宣仪嘟嘴",
+        "onboard_time": 1679560771,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186279,
+        "num": 192905,
+        "word": "华为智能手表王者稳了",
+        "onboard_time": 1679562386,
+        "rank": 29,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 216944,
+        "num": 192624,
+        "word": "柬埔寨小6自称影响泰国旅游GDP",
+        "onboard_time": 1679563348,
+        "rank": 30,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 191181,
+        "num": 191181,
+        "word": "XYG BP",
+        "onboard_time": 1679563706,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 188812,
+        "num": 188812,
+        "word": "LPL十大选手投票结果",
+        "onboard_time": 1679552666,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 187522,
+        "num": 187522,
+        "word": "鹿晗拿盆炫东北美食",
+        "onboard_time": 1679558787,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185236,
+        "num": 185236,
+        "word": "奥利奥",
+        "onboard_time": 1679543789,
+        "rank": 34,
+        "category": "美食,艺人"
+      },
+      {
+        "raw_hot": 182345,
+        "num": 182345,
+        "word": "金博洋",
+        "onboard_time": 1679563706,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164915,
+        "num": 164915,
+        "word": "国足半场0比0新西兰",
+        "onboard_time": 1679558548,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163403,
+        "num": 163403,
+        "word": "微博之夜",
+        "onboard_time": 1679541147,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 157742,
+        "num": 157742,
+        "word": "雯丽适合你的是道明不是明道",
+        "onboard_time": 1679563826,
+        "rank": 38,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 147451,
+        "num": 156837,
+        "word": "微博之夜倒计时2天",
+        "onboard_time": 1679562025,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 156169,
+        "num": 156169,
+        "word": "帅哥不可以男演员颜值",
+        "onboard_time": 1679552006,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 153920,
+        "num": 153920,
+        "word": "我们为什么有拖延症",
+        "onboard_time": 1679562927,
+        "rank": 41,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 152966,
+        "num": 152966,
+        "word": "武磊造红牌",
+        "onboard_time": 1679559088,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147388,
+        "num": 147388,
+        "word": "大麦抢票",
+        "onboard_time": 1679549187,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 141627,
+        "num": 141627,
+        "word": "无线耳机又有新造型了",
+        "onboard_time": 1679563527,
+        "rank": 44,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 140404,
+        "num": 140404,
+        "word": "才知道哭真的很有用",
+        "onboard_time": 1679556208,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137681,
+        "num": 137681,
+        "word": "情侣恋爱一年后的合照变化",
+        "onboard_time": 1679563766,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133344,
+        "num": 133344,
+        "word": "孙笑川回应因孙笑川吧被网友攻击",
+        "onboard_time": 1679563886,
+        "rank": 47,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 130261,
+        "num": 130261,
+        "word": "为什么产后修复不该拖延",
+        "onboard_time": 1679556988,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124209,
+        "num": 124209,
+        "word": "大熊猫胆子有多小",
+        "onboard_time": 1679549369,
+        "rank": 49,
+        "category": "幽默,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席这样阐述人类命运共同体#"
+    }
+  }
+}
