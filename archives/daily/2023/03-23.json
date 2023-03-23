@@ -1,10 +1,10 @@
 {
   "startTime": 1679502284596,
-  "endTime": 1679553373822,
+  "endTime": 1679555781185,
   "band_list": [
     {
-      "raw_hot": 2985451,
-      "num": 2985451,
+      "raw_hot": 3180080,
+      "num": 3180080,
       "word": "女生月薪8千花15称存两百万退休",
       "onboard_time": 1679550086,
       "rank": 0,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2442342,
-      "num": 477220,
+      "num": 483503,
       "word": "张凌赫白鹿",
       "onboard_time": 1679548409,
       "rank": 10,
@@ -139,6 +139,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 1095807,
+      "num": 839006,
+      "word": "华为P60",
+      "onboard_time": 1679552065,
+      "rank": 19,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1051921,
       "num": 1051921,
       "word": "微博之夜阵容",
@@ -155,12 +163,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1006735,
+      "num": 1006735,
+      "word": "女警说癌症我都不怕还怕你个毒贩不成",
+      "onboard_time": 1679553865,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1002360,
+      "num": 1002360,
+      "word": "帅哥不可以男演员颜值",
+      "onboard_time": 1679552006,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 989820,
       "num": 692813,
       "word": "带团泰国导游称以为噶腰子是笑话",
       "onboard_time": 1679532091,
       "rank": 5,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 960004,
+      "num": 492162,
+      "word": "刘亦菲素颜买衣服",
+      "onboard_time": 1679552189,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 930412,
@@ -179,28 +211,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 873600,
-      "num": 453644,
-      "word": "刘亦菲素颜买衣服",
-      "onboard_time": 1679552189,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 844737,
       "num": 844737,
       "word": "曹德旺谈大学生热衷考公务员",
       "onboard_time": 1679545050,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 839006,
-      "num": 839006,
-      "word": "华为P60",
-      "onboard_time": 1679552065,
-      "rank": 19,
-      "category": "科技"
     },
     {
       "raw_hot": 834825,
@@ -291,20 +307,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 612074,
+      "num": 612074,
+      "word": "关晓彤青花瓷长裙",
+      "onboard_time": 1679551468,
+      "rank": 6,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 611049,
       "num": 611049,
       "word": "广东省考",
       "onboard_time": 1679538986,
       "rank": 5,
       "category": "教育"
-    },
-    {
-      "raw_hot": 596765,
-      "num": 596765,
-      "word": "帅哥不可以男演员颜值",
-      "onboard_time": 1679552006,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 567146,
@@ -315,20 +331,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 566224,
-      "num": 566224,
-      "word": "关晓彤青花瓷长裙",
-      "onboard_time": 1679551468,
-      "rank": 6,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 561329,
       "num": 561329,
       "word": "JackeyLove回应五连败",
       "onboard_time": 1679539345,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 556582,
+      "num": 556582,
+      "word": "男孩用激光笔连照左眼51次致失明",
+      "onboard_time": 1679553447,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 550816,
@@ -387,6 +403,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 505342,
+      "num": 505342,
+      "word": "LPL十大选手投票结果",
+      "onboard_time": 1679552666,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 503747,
       "num": 503747,
       "word": "女生发视频吐槽意外带火甲骨文专业",
@@ -433,6 +457,22 @@
       "onboard_time": 1679543125,
       "rank": 14,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 468184,
+      "num": 468184,
+      "word": "遭霸凌女孩家属发声",
+      "onboard_time": 1679554287,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 457836,
+      "num": 457836,
+      "word": "钟文泽",
+      "onboard_time": 1679553566,
+      "rank": 16,
+      "category": "科技"
     },
     {
       "raw_hot": 443991,
@@ -531,6 +571,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 373558,
+      "num": 373558,
+      "word": "张若昀搜证五秒一吓",
+      "onboard_time": 1679555367,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 362823,
       "num": 362823,
       "word": "C罗说沙特联会成为五大联赛",
@@ -579,8 +627,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 317884,
-      "num": 317884,
+      "raw_hot": 328142,
+      "num": 328142,
       "word": "虞书欣镜头下的云之羽",
       "onboard_time": 1679550266,
       "rank": 18,
@@ -723,6 +771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 255358,
+      "num": 255358,
+      "word": "大熊猫胆子有多小",
+      "onboard_time": 1679549369,
+      "rank": 45,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 253946,
       "num": 253946,
       "word": "百度回应文心一言文生图功能",
@@ -777,14 +833,6 @@
       "onboard_time": 1679547449,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 240951,
-      "num": 240951,
-      "word": "大熊猫胆子有多小",
-      "onboard_time": 1679549369,
-      "rank": 45,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 240684,
@@ -883,12 +931,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 210590,
-      "num": 210590,
-      "word": "LPL十大选手投票结果",
-      "onboard_time": 1679552666,
-      "rank": 25,
-      "category": "游戏"
+      "raw_hot": 210689,
+      "num": 348320,
+      "word": "P60夜视长焦有多强",
+      "onboard_time": 1679554707,
+      "rank": 19,
+      "category": "科技"
     },
     {
       "raw_hot": 209770,
@@ -1083,6 +1131,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 173100,
+      "num": 173100,
+      "word": "好想送这只乌龟去打工",
+      "onboard_time": 1679553386,
+      "rank": 34,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 171819,
+      "num": 171819,
+      "word": "舒淇维持身型秘诀",
+      "onboard_time": 1679554707,
+      "rank": 35,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 168509,
       "num": 168509,
       "word": "警方通报女孩将小男孩扔井中",
@@ -1115,8 +1179,16 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 143501,
-      "num": 143501,
+      "raw_hot": 161763,
+      "num": 161763,
+      "word": "金度延韩国芭莎时尚大片",
+      "onboard_time": 1679554287,
+      "rank": 37,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 157562,
+      "num": 157562,
       "word": "鼻子眼睛皮肤过敏都该怎么办",
       "onboard_time": 1679552725,
       "rank": 36,
@@ -1211,6 +1283,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 128076,
+      "num": 128076,
+      "word": "归晓说路晨你凶你娃的妈",
+      "onboard_time": 1679554766,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 127745,
       "num": 127745,
       "word": "春闺梦里人梦华录梦幻联动",
@@ -1227,12 +1307,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 126533,
+      "num": 126533,
+      "word": "竞人运动大比拼",
+      "onboard_time": 1679554287,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 123271,
       "num": 123271,
       "word": "刘润南墨镜摩托造型",
       "onboard_time": 1679500527,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 123091,
+      "num": 470032,
+      "word": "荣耀Magic5为啥这么火",
+      "onboard_time": 1679555427,
+      "rank": 14,
+      "category": "科技"
     },
     {
       "raw_hot": 118683,
@@ -1283,12 +1379,28 @@
       "category": "军事"
     },
     {
+      "raw_hot": 112374,
+      "num": 112374,
+      "word": "再也不敢不洗手了",
+      "onboard_time": 1679554467,
+      "rank": 46,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 111651,
       "num": 111651,
       "word": "95后烧伤女孩自学成为设计师",
       "onboard_time": 1679500226,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 108517,
+      "num": 108517,
+      "word": "AUP型人格",
+      "onboard_time": 1679555127,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 107744,
