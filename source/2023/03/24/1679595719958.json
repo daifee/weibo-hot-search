@@ -1,0 +1,410 @@
+{
+  "runTime": 1679595719958,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 322167,
+        "num": 322167,
+        "word": "兰亭序",
+        "onboard_time": 1679574088,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200470,
+        "num": 200470,
+        "word": "全在俊水泥坠楼戏没用替身",
+        "onboard_time": 1679585669,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 14881,
+        "num": 164607,
+        "word": "开往春天的列车带你穿越花海",
+        "onboard_time": 1679576248,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130054,
+        "num": 130054,
+        "word": "越来越多中小学教师岗和编制脱钩",
+        "onboard_time": 1679581891,
+        "rank": 3,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 113310,
+        "num": 113310,
+        "word": "丫丫吃甘蔗",
+        "onboard_time": 1679578770,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147076,
+        "num": 111541,
+        "word": "泰官方辟谣男模餐厅噶腰子等说法",
+        "onboard_time": 1679583029,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136388,
+        "num": 110562,
+        "word": "女子受邀赴泰国旅游失联21天",
+        "onboard_time": 1679580690,
+        "rank": 6,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 109356,
+        "num": 109356,
+        "word": "利特吃面 一步到胃",
+        "onboard_time": 1679590519,
+        "rank": 7,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 100048,
+        "num": 100048,
+        "word": "中学要求向班主任交6500元培养费",
+        "onboard_time": 1679588483,
+        "rank": 8,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 90326,
+        "num": 90326,
+        "word": "花了五百在长沙吃了30顿",
+        "onboard_time": 1679583989,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 199866,
+        "num": 90304,
+        "word": "夫妻相约自杀妻子未如约被判刑",
+        "onboard_time": 1679564728,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158468,
+        "num": 89812,
+        "word": "95后女孩失联8年被发现流浪荒山",
+        "onboard_time": 1679574388,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145360,
+        "num": 89434,
+        "word": "离婚冷静期内婆婆去世丈夫拒分遗产",
+        "onboard_time": 1679594235,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112799,
+        "num": 89175,
+        "word": "刘亦菲杨洋同框拥抱",
+        "onboard_time": 1679573907,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 88852,
+        "num": 88852,
+        "word": "放在整个主持界也是相当炸裂",
+        "onboard_time": 1679587946,
+        "rank": 14,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 75707,
+        "num": 75707,
+        "word": "老板店内贴成本表称一碗面仅赚2元",
+        "onboard_time": 1679590159,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72727,
+        "num": 72727,
+        "word": "聂小雨是聂宝华唯一的软肋",
+        "onboard_time": 1679590041,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 67569,
+        "num": 67569,
+        "word": "当男性成为职场少数群体",
+        "onboard_time": 1679589262,
+        "rank": 17,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 66134,
+        "num": 66134,
+        "word": "张颂文 哈哈我疯了",
+        "onboard_time": 1679570010,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64258,
+        "num": 64258,
+        "word": "佟丽娅黑色丝绒长裙",
+        "onboard_time": 1679575649,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 101123,
+        "num": 64162,
+        "word": "研究生去集市摆摊卖菜半天收入千元",
+        "onboard_time": 1679592436,
+        "rank": 20,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 63989,
+        "num": 63989,
+        "word": "单身久了会丧失恋爱能力吗",
+        "onboard_time": 1679571809,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 61889,
+        "num": 61889,
+        "word": "何炅听天天想你哭了",
+        "onboard_time": 1679575649,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 60179,
+        "num": 60179,
+        "word": "杨幂 微博之夜",
+        "onboard_time": 1679574207,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 52009,
+        "num": 52009,
+        "word": "林志玲素颜近照",
+        "onboard_time": 1679564245,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51266,
+        "num": 51266,
+        "word": "张嘉倪露腰牛仔裙",
+        "onboard_time": 1679569887,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 51155,
+        "num": 51155,
+        "word": "章昊二顺排名",
+        "onboard_time": 1679589321,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 51118,
+        "num": 51118,
+        "word": "天官赐福",
+        "onboard_time": 1679574869,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 49180,
+        "num": 49180,
+        "word": "NewJeans正在制作新专辑",
+        "onboard_time": 1679591657,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 48236,
+        "num": 48236,
+        "word": "徐明浩cos肌肉袋鼠",
+        "onboard_time": 1679590100,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46714,
+        "num": 46714,
+        "word": "吾木提淘汰",
+        "onboard_time": 1679584470,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44889,
+        "num": 44889,
+        "word": "想瘦腿的有福了",
+        "onboard_time": 1679585488,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42976,
+        "num": 42976,
+        "word": "杜华向朋友借钱签韩庚",
+        "onboard_time": 1679583509,
+        "rank": 32,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 41944,
+        "num": 41944,
+        "word": "宝格丽活动",
+        "onboard_time": 1679567906,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 40674,
+        "num": 40674,
+        "word": "小狗头像",
+        "onboard_time": 1679570187,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 40476,
+        "num": 40476,
+        "word": "许嵩 演唱会",
+        "onboard_time": 1679573667,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 39906,
+        "num": 39906,
+        "word": "丫丫最新画面",
+        "onboard_time": 1679580270,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39598,
+        "num": 39598,
+        "word": "BoysPlanet",
+        "onboard_time": 1679588303,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35182,
+        "num": 35182,
+        "word": "恋与深空",
+        "onboard_time": 1679573728,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 34878,
+        "num": 34878,
+        "word": "河南省考",
+        "onboard_time": 1679579791,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 34840,
+        "num": 34840,
+        "word": "舞娘改编",
+        "onboard_time": 1679579128,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33690,
+        "num": 33690,
+        "word": "关晓彤穿了陈采尼设计礼服",
+        "onboard_time": 1679558848,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 32246,
+        "num": 32246,
+        "word": "情侣恋爱一年后的合照变化",
+        "onboard_time": 1679563766,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 31300,
+        "num": 31300,
+        "word": "怎么相个亲和上班一样",
+        "onboard_time": 1679581529,
+        "rank": 43,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 31163,
+        "num": 31163,
+        "word": "陈卓璇狂飙高音",
+        "onboard_time": 1679583151,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29845,
+        "num": 29845,
+        "word": "博扬宣布退役",
+        "onboard_time": 1679577209,
+        "rank": 45,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 31018,
+        "num": 29821,
+        "word": "哭砂",
+        "onboard_time": 1679576248,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23599,
+        "num": 29627,
+        "word": "TES战胜FPX",
+        "onboard_time": 1679579308,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 30678,
+        "num": 29492,
+        "word": "马嘉祺兰亭序全开麦",
+        "onboard_time": 1679589919,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21896,
+        "num": 29328,
+        "word": "女生月薪8千花15称存两百万退休",
+        "onboard_time": 1679550086,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#共建美好世界的最大公约数#"
+    }
+  }
+}

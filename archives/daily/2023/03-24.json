@@ -1,6 +1,6 @@
 {
   "startTime": 1679588746312,
-  "endTime": 1679592815738,
+  "endTime": 1679595719958,
   "band_list": [
     {
       "raw_hot": 1780848,
@@ -307,6 +307,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 145360,
+      "num": 89434,
+      "word": "离婚冷静期内婆婆去世丈夫拒分遗产",
+      "onboard_time": 1679594235,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144835,
       "num": 194842,
       "word": "这猫真的不是大爷变的吗",
@@ -377,6 +385,14 @@
       "onboard_time": 1679579128,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 101123,
+      "num": 64162,
+      "word": "研究生去集市摆摊卖菜半天收入千元",
+      "onboard_time": 1679592436,
+      "rank": 49,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 99478,
@@ -499,12 +515,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 37327,
-      "num": 38663,
-      "word": "研究生去集市摆摊卖菜半天收入千元",
-      "onboard_time": 1679592436,
-      "rank": 49,
-      "category": "社会新闻,教育"
+      "raw_hot": 31018,
+      "num": 29821,
+      "word": "哭砂",
+      "onboard_time": 1679576248,
+      "rank": 46,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [
