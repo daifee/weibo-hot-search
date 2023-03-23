@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679567717795,
+  "endTime": 1679570109077,
   "band_list": [
     {
       "raw_hot": 7256959,
@@ -179,6 +179,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 2133100,
+      "num": 602450,
+      "word": "夫妻相约自杀妻子未如约被判刑",
+      "onboard_time": 1679564728,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2125928,
       "num": 2125928,
       "word": "离职前一天被辞退了",
@@ -355,14 +363,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1621170,
-      "num": 434770,
-      "word": "夫妻相约自杀妻子未如约被判刑",
-      "onboard_time": 1679564728,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1589542,
       "num": 893167,
       "word": "林俊杰 mirror",
@@ -521,6 +521,14 @@
       "onboard_time": 1679491289,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1386544,
+      "num": 280270,
+      "word": "宝格丽活动",
+      "onboard_time": 1679567906,
+      "rank": 21,
+      "category": "时尚,影视"
     },
     {
       "raw_hot": 1384942,
@@ -1523,6 +1531,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 807913,
+      "num": 807913,
+      "word": "情侣恋爱一年后的合照变化",
+      "onboard_time": 1679563766,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 800279,
       "num": 800279,
       "word": "北京沙尘暴",
@@ -1875,14 +1891,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 687228,
-      "num": 687228,
-      "word": "情侣恋爱一年后的合照变化",
-      "onboard_time": 1679563766,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 681867,
       "num": 681867,
       "word": "王子文说谈恋爱就是要全力以赴",
@@ -2137,6 +2145,14 @@
       "onboard_time": 1679444129,
       "rank": 7,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 623376,
+      "num": 623376,
+      "word": "XYG 洪洗象牛哇",
+      "onboard_time": 1679567847,
+      "rank": 1,
+      "category": "游戏"
     },
     {
       "raw_hot": 618937,
@@ -2401,6 +2417,14 @@
       "onboard_time": 1679304868,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 570074,
+      "num": 570074,
+      "word": "进才中学否认网传女老师和学生恋爱",
+      "onboard_time": 1679564847,
+      "rank": 19,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 568373,
@@ -3739,14 +3763,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 371770,
-      "num": 371770,
-      "word": "进才中学否认网传女老师和学生恋爱",
-      "onboard_time": 1679564847,
-      "rank": 19,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 371136,
       "num": 371136,
       "word": "狂飙京海大佬害羞了",
@@ -4163,6 +4179,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 322506,
+      "num": 293658,
+      "word": "张颂文 哈哈我疯了",
+      "onboard_time": 1679570010,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 322444,
       "num": 322444,
       "word": "姆巴佩两失单刀",
@@ -4499,12 +4523,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 294438,
+      "num": 294438,
+      "word": "成毅烤糍粑",
+      "onboard_time": 1679568808,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 294022,
       "num": 294022,
       "word": "女子寺庙游玩遇到新式鬼屋",
       "onboard_time": 1679281827,
       "rank": 37,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 293528,
+      "num": 293528,
+      "word": "朱熹祖宅地3亿元直播起拍",
+      "onboard_time": 1679568568,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 292405,
@@ -4627,6 +4667,14 @@
       "category": "影视,情感"
     },
     {
+      "raw_hot": 282633,
+      "num": 282633,
+      "word": "网红团队狂摇杭州百年樱花树",
+      "onboard_time": 1679566348,
+      "rank": 24,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 282371,
       "num": 282371,
       "word": "宋佳王阳被喊姐姐姐夫",
@@ -4673,6 +4721,14 @@
       "onboard_time": 1679286996,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 279351,
+      "num": 279351,
+      "word": "张嘉倪露腰牛仔裙",
+      "onboard_time": 1679569887,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 278820,
@@ -4763,20 +4819,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 272339,
-      "num": 272339,
-      "word": "网红团队狂摇杭州百年樱花树",
-      "onboard_time": 1679566348,
-      "rank": 24,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 270530,
       "num": 270530,
       "word": "薛之谦演唱会 南昌",
       "onboard_time": 1679378129,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 269347,
+      "num": 269347,
+      "word": "林志颖否认违停",
+      "onboard_time": 1679567427,
+      "rank": 40,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 269119,
@@ -5841,6 +5897,14 @@
       "onboard_time": 1679452528,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 209242,
+      "num": 209242,
+      "word": "驻缅甸大使同缅方谈加强打击网络诈骗",
+      "onboard_time": 1679569109,
+      "rank": 30,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 208991,
@@ -7067,14 +7131,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 170445,
-      "num": 170445,
-      "word": "林志颖否认违停",
-      "onboard_time": 1679567427,
-      "rank": 40,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 170298,
       "num": 170298,
       "word": "做饭舞娘",
@@ -7715,6 +7771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 142430,
+      "num": 142430,
+      "word": "打工人爬泰山主打一个效率",
+      "onboard_time": 1679565927,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 141940,
       "num": 141940,
       "word": "这就是猫界双开门吧",
@@ -7763,20 +7827,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 140068,
+      "num": 140068,
+      "word": "大学生怎么什么都答应",
+      "onboard_time": 1679568328,
+      "rank": 42,
+      "category": "幽默,教育"
+    },
+    {
       "raw_hot": 139549,
       "num": 139549,
       "word": "女子在缅遭绑哭喊我有两小孩",
       "onboard_time": 1679213848,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 139352,
-      "num": 139352,
-      "word": "打工人爬泰山主打一个效率",
-      "onboard_time": 1679565927,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 139189,
@@ -7969,6 +8033,14 @@
       "onboard_time": 1679527343,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 132488,
+      "num": 132488,
+      "word": "大学生在玩一种很新的变身",
+      "onboard_time": 1679568867,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 132017,
@@ -8291,6 +8363,14 @@
       "category": "幽默,时尚"
     },
     {
+      "raw_hot": 118716,
+      "num": 118716,
+      "word": "XYG状态好棒",
+      "onboard_time": 1679568507,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 118683,
       "num": 118683,
       "word": "哪些生活习惯可能会导致胃病",
@@ -8513,6 +8593,14 @@
       "onboard_time": 1679388511,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 103475,
+      "num": 212398,
+      "word": "弱信号下也能自由通信吗",
+      "onboard_time": 1679569468,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 102766,
@@ -8873,6 +8961,14 @@
       "onboard_time": 1679500289,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 28614,
+      "num": 150289,
+      "word": "撒贝宁在做一种很新的菜",
+      "onboard_time": 1679569227,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 27779,

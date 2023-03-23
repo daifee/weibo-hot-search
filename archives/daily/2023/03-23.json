@@ -1,6 +1,6 @@
 {
   "startTime": 1679502284596,
-  "endTime": 1679567717795,
+  "endTime": 1679570109077,
   "band_list": [
     {
       "raw_hot": 3180080,
@@ -43,6 +43,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 2133100,
+      "num": 602450,
+      "word": "夫妻相约自杀妻子未如约被判刑",
+      "onboard_time": 1679564728,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2125928,
       "num": 2125928,
       "word": "离职前一天被辞退了",
@@ -64,14 +72,6 @@
       "word": "海南13岁女孩遭霸凌左耳鼓膜穿孔",
       "onboard_time": 1679539767,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1621170,
-      "num": 434770,
-      "word": "夫妻相约自杀妻子未如约被判刑",
-      "onboard_time": 1679564728,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -121,6 +121,14 @@
       "onboard_time": 1679543610,
       "rank": 1,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1386544,
+      "num": 280270,
+      "word": "宝格丽活动",
+      "onboard_time": 1679567906,
+      "rank": 21,
+      "category": "时尚,影视"
     },
     {
       "raw_hot": 1364109,
@@ -307,6 +315,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 807913,
+      "num": 807913,
+      "word": "情侣恋爱一年后的合照变化",
+      "onboard_time": 1679563766,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 774531,
       "num": 689443,
       "word": "凉拌菜是减脂餐的天花板吧",
@@ -403,14 +419,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 687228,
-      "num": 687228,
-      "word": "情侣恋爱一年后的合照变化",
-      "onboard_time": 1679563766,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 681671,
       "num": 681671,
       "word": "袁泉好美",
@@ -459,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 623376,
+      "num": 623376,
+      "word": "XYG 洪洗象牛哇",
+      "onboard_time": 1679567847,
+      "rank": 1,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 612074,
       "num": 612074,
       "word": "关晓彤青花瓷长裙",
@@ -481,6 +497,14 @@
       "onboard_time": 1679567309,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 570074,
+      "num": 570074,
+      "word": "进才中学否认网传女老师和学生恋爱",
+      "onboard_time": 1679564847,
+      "rank": 19,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 567146,
@@ -795,14 +819,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 371770,
-      "num": 371770,
-      "word": "进才中学否认网传女老师和学生恋爱",
-      "onboard_time": 1679564847,
-      "rank": 19,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 362823,
       "num": 362823,
       "word": "C罗说沙特联会成为五大联赛",
@@ -857,6 +873,14 @@
       "onboard_time": 1679550266,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 322506,
+      "num": 293658,
+      "word": "张颂文 哈哈我疯了",
+      "onboard_time": 1679570010,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 311651,
@@ -915,6 +939,22 @@
       "category": "科技"
     },
     {
+      "raw_hot": 294438,
+      "num": 294438,
+      "word": "成毅烤糍粑",
+      "onboard_time": 1679568808,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 293528,
+      "num": 293528,
+      "word": "朱熹祖宅地3亿元直播起拍",
+      "onboard_time": 1679568568,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 287374,
       "num": 274862,
       "word": "网购了一头大象",
@@ -931,12 +971,28 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 282633,
+      "num": 282633,
+      "word": "网红团队狂摇杭州百年樱花树",
+      "onboard_time": 1679566348,
+      "rank": 24,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 280706,
       "num": 280706,
       "word": "Wayward首发",
       "onboard_time": 1679532807,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 279351,
+      "num": 279351,
+      "word": "张嘉倪露腰牛仔裙",
+      "onboard_time": 1679569887,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 277014,
@@ -955,12 +1011,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 272339,
-      "num": 272339,
-      "word": "网红团队狂摇杭州百年樱花树",
-      "onboard_time": 1679566348,
-      "rank": 24,
-      "category": "社会新闻,网红"
+      "raw_hot": 269347,
+      "num": 269347,
+      "word": "林志颖否认违停",
+      "onboard_time": 1679567427,
+      "rank": 40,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 267263,
@@ -1257,6 +1313,14 @@
       "onboard_time": 1679545591,
       "rank": 35,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 209242,
+      "num": 209242,
+      "word": "驻缅甸大使同缅方谈加强打击网络诈骗",
+      "onboard_time": 1679569109,
+      "rank": 30,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 208991,
@@ -1571,14 +1635,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 170445,
-      "num": 170445,
-      "word": "林志颖否认违停",
-      "onboard_time": 1679567427,
-      "rank": 40,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 168509,
       "num": 168509,
       "word": "警方通报女孩将小男孩扔井中",
@@ -1659,6 +1715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 142430,
+      "num": 142430,
+      "word": "打工人爬泰山主打一个效率",
+      "onboard_time": 1679565927,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 141299,
       "num": 207442,
       "word": "MateX3到底能有多薄",
@@ -1667,12 +1731,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 139352,
-      "num": 139352,
-      "word": "打工人爬泰山主打一个效率",
-      "onboard_time": 1679565927,
-      "rank": 49,
-      "category": "幽默"
+      "raw_hot": 140068,
+      "num": 140068,
+      "word": "大学生怎么什么都答应",
+      "onboard_time": 1679568328,
+      "rank": 42,
+      "category": "幽默,教育"
     },
     {
       "raw_hot": 138072,
@@ -1729,6 +1793,14 @@
       "onboard_time": 1679527343,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 132488,
+      "num": 132488,
+      "word": "大学生在玩一种很新的变身",
+      "onboard_time": 1679568867,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 131173,
@@ -1819,6 +1891,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 118716,
+      "num": 118716,
+      "word": "XYG状态好棒",
+      "onboard_time": 1679568507,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 118683,
       "num": 118683,
       "word": "哪些生活习惯可能会导致胃病",
@@ -1905,6 +1985,14 @@
       "onboard_time": 1679559749,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 103475,
+      "num": 212398,
+      "word": "弱信号下也能自由通信吗",
+      "onboard_time": 1679569468,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 103153,
@@ -2073,6 +2161,14 @@
       "onboard_time": 1679500289,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 28614,
+      "num": 150289,
+      "word": "撒贝宁在做一种很新的菜",
+      "onboard_time": 1679569227,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 19211,
