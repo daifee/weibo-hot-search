@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679571218400,
+  "endTime": 1679574994632,
   "band_list": [
     {
       "raw_hot": 7256959,
@@ -65,6 +65,14 @@
       "onboard_time": 1679384187,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2485680,
+      "num": 496420,
+      "word": "刘亦菲杨洋同框拥抱",
+      "onboard_time": 1679573907,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2484394,
@@ -499,6 +507,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1410509,
+      "num": 1410509,
+      "word": "小狗头像",
+      "onboard_time": 1679570187,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1410465,
       "num": 1384335,
       "word": "郭敬明审美有点东西",
@@ -524,7 +540,7 @@
     },
     {
       "raw_hot": 1386544,
-      "num": 289540,
+      "num": 656192,
       "word": "宝格丽活动",
       "onboard_time": 1679567906,
       "rank": 21,
@@ -596,7 +612,7 @@
     },
     {
       "raw_hot": 1330632,
-      "num": 426827,
+      "num": 489184,
       "word": "林志玲素颜近照",
       "onboard_time": 1679564245,
       "rank": 12,
@@ -657,6 +673,14 @@
       "onboard_time": 1679411133,
       "rank": 12,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1289138,
+      "num": 1289138,
+      "word": "马嘉祺 舞娘",
+      "onboard_time": 1679573187,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 1288163,
@@ -988,7 +1012,7 @@
     },
     {
       "raw_hot": 1038564,
-      "num": 367418,
+      "num": 492202,
       "word": "张颂文 哈哈我疯了",
       "onboard_time": 1679570010,
       "rank": 16,
@@ -1281,6 +1305,14 @@
       "onboard_time": 1679449529,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 920678,
+      "num": 920678,
+      "word": "许嵩 演唱会",
+      "onboard_time": 1679573667,
+      "rank": 3,
+      "category": "音乐"
     },
     {
       "raw_hot": 917661,
@@ -2067,6 +2099,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 642346,
+      "num": 487702,
+      "word": "张嘉倪露腰牛仔裙",
+      "onboard_time": 1679569887,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 639785,
       "num": 639785,
       "word": "辅警往身上浇了盆水后冲进火场",
@@ -2161,6 +2201,14 @@
       "onboard_time": 1679567847,
       "rank": 1,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 621950,
+      "num": 621950,
+      "word": "吴前结婚",
+      "onboard_time": 1679570967,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 618937,
@@ -2595,6 +2643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 546472,
+      "num": 485743,
+      "word": "微博之夜座位图有了吗",
+      "onboard_time": 1679573967,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 545745,
       "num": 545745,
       "word": "微博之夜直播预约",
@@ -2811,12 +2867,36 @@
       "category": "情感"
     },
     {
+      "raw_hot": 500194,
+      "num": 342165,
+      "word": "单身久了会丧失恋爱能力吗",
+      "onboard_time": 1679571809,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 499061,
       "num": 499061,
       "word": "戚薇如果爱忘了MV",
       "onboard_time": 1679402424,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 498350,
+      "num": 498350,
+      "word": "小说坠落",
+      "onboard_time": 1679570307,
+      "rank": 37,
+      "category": "其它"
+    },
+    {
+      "raw_hot": 496762,
+      "num": 496762,
+      "word": "杨幂 微博之夜",
+      "onboard_time": 1679574207,
+      "rank": 9,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 494030,
@@ -2889,6 +2969,14 @@
       "onboard_time": 1679376750,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 484498,
+      "num": 484498,
+      "word": "兰亭序",
+      "onboard_time": 1679574088,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 483967,
@@ -3539,14 +3627,6 @@
       "category": "情感,音乐"
     },
     {
-      "raw_hot": 402670,
-      "num": 333076,
-      "word": "张嘉倪露腰牛仔裙",
-      "onboard_time": 1679569887,
-      "rank": 23,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 401709,
       "num": 401709,
       "word": "白敬亭井柏然别太爱",
@@ -4083,6 +4163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 333934,
+      "num": 333934,
+      "word": "张杰重唱天天想你",
+      "onboard_time": 1679573546,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 333028,
       "num": 333028,
       "word": "张兰再回应海外欠债9.8亿事件",
@@ -4275,14 +4363,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 319088,
-      "num": 319088,
-      "word": "小狗头像",
-      "onboard_time": 1679570187,
-      "rank": 16,
-      "category": "情感"
-    },
-    {
       "raw_hot": 317807,
       "num": 317807,
       "word": "保罗乔治受伤",
@@ -4336,6 +4416,14 @@
       "word": "IG中野",
       "onboard_time": 1679487208,
       "rank": 21,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 312559,
+      "num": 312559,
+      "word": "恋与深空",
+      "onboard_time": 1679573728,
+      "rank": 22,
       "category": "游戏"
     },
     {
@@ -4472,6 +4560,14 @@
       "word": "王俊凯亮相不止不休首映",
       "onboard_time": 1679322155,
       "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 303413,
+      "num": 303413,
+      "word": "他是谁割喉案终于有线索了",
+      "onboard_time": 1679573427,
+      "rank": 23,
       "category": "影视"
     },
     {
@@ -4995,6 +5091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 259754,
+      "num": 209959,
+      "word": "演员牛犇的名字原来是这么来的",
+      "onboard_time": 1679574328,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 256723,
       "num": 256723,
       "word": "刘宇宁直播回应加戏",
@@ -5075,6 +5179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 250486,
+      "num": 250486,
+      "word": "天官赐福",
+      "onboard_time": 1679574869,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 250439,
       "num": 250439,
       "word": "这猫怎么正反面长一样",
@@ -5115,6 +5227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 249650,
+      "num": 249650,
+      "word": "驻缅甸大使同缅方谈加强打击网络诈骗",
+      "onboard_time": 1679569109,
+      "rank": 30,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 248949,
       "num": 248949,
       "word": "丫丫",
@@ -5145,14 +5265,6 @@
       "onboard_time": 1679468067,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 247337,
-      "num": 247337,
-      "word": "驻缅甸大使同缅方谈加强打击网络诈骗",
-      "onboard_time": 1679569109,
-      "rank": 30,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 246525,
@@ -5403,6 +5515,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 237601,
+      "num": 237601,
+      "word": "大学生怎么什么都答应",
+      "onboard_time": 1679568328,
+      "rank": 42,
+      "category": "幽默,教育"
+    },
+    {
       "raw_hot": 237402,
       "num": 237402,
       "word": "南宁冰雹",
@@ -5433,6 +5553,14 @@
       "onboard_time": 1679556208,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 234289,
+      "num": 207684,
+      "word": "95后女孩失联8年被发现流浪荒山",
+      "onboard_time": 1679574388,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 234100,
@@ -5875,6 +6003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 211779,
+      "num": 211779,
+      "word": "唐嫣武汉vlog",
+      "onboard_time": 1679573249,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 211494,
       "num": 211494,
       "word": "吴磊夸周雨彤真可爱",
@@ -6131,6 +6267,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 203481,
+      "num": 203481,
+      "word": "3月游戏版号公布",
+      "onboard_time": 1679574026,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 203459,
       "num": 203459,
       "word": "高加林导游式教学",
@@ -6201,6 +6345,14 @@
       "onboard_time": 1679490689,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 201089,
+      "num": 201089,
+      "word": "张朝阳称折叠屏用户视线集中在左半边",
+      "onboard_time": 1679574267,
+      "rank": 34,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 200994,
@@ -6539,14 +6691,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 191992,
-      "num": 191992,
-      "word": "大学生怎么什么都答应",
-      "onboard_time": 1679568328,
-      "rank": 42,
-      "category": "幽默,教育"
-    },
-    {
       "raw_hot": 191949,
       "num": 191949,
       "word": "刘敏涛片场篆香练习花絮",
@@ -6643,14 +6787,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 189460,
-      "num": 189460,
-      "word": "小说坠落",
-      "onboard_time": 1679570307,
-      "rank": 37,
-      "category": "其它"
-    },
-    {
       "raw_hot": 188566,
       "num": 195491,
       "word": "刘冬沁以爱为营马术服墨镜造型",
@@ -6729,6 +6865,14 @@
       "onboard_time": 1679465908,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 185863,
+      "num": 185863,
+      "word": "艾怡良陈卓璇千年之恋摇滚舞台",
+      "onboard_time": 1679574690,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 185677,
@@ -7096,14 +7240,6 @@
       "word": "NBA",
       "onboard_time": 1679541988,
       "rank": 38,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 173457,
-      "num": 173457,
-      "word": "吴前结婚",
-      "onboard_time": 1679570967,
-      "rank": 40,
       "category": "体育"
     },
     {
@@ -7763,6 +7899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145788,
+      "num": 145788,
+      "word": "西湖音乐节",
+      "onboard_time": 1679573546,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 145699,
       "num": 145699,
       "word": "这文言文翻译完自己都笑了",
@@ -7825,6 +7969,14 @@
       "onboard_time": 1679326289,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 143275,
+      "num": 143275,
+      "word": "RNG晋级春季季后赛",
+      "onboard_time": 1679573546,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 143239,
