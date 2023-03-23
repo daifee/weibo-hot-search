@@ -1,0 +1,410 @@
+{
+  "runTime": 1679548570129,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1464162,
+        "num": 1464162,
+        "word": "中缅泰三边警察首脑开会决议打击犯罪",
+        "onboard_time": 1679546912,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1287464,
+        "num": 1287464,
+        "word": "地铁里原来真有座位继承制",
+        "onboard_time": 1679541025,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 3979,
+        "num": 1093027,
+        "word": "落实重大发展战略开创事业新局",
+        "onboard_time": 1679486968,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1051921,
+        "num": 1051921,
+        "word": "微博之夜阵容",
+        "onboard_time": 1679545890,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 844737,
+        "num": 844737,
+        "word": "曹德旺谈大学生热衷考公务员",
+        "onboard_time": 1679545050,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 997601,
+        "num": 839789,
+        "word": "王俊凯王源微博之夜官宣",
+        "onboard_time": 1679543610,
+        "rank": 5,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 810901,
+        "num": 810901,
+        "word": "杭州直达香港高铁太火了",
+        "onboard_time": 1679544026,
+        "rank": 6,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 732184,
+        "num": 732184,
+        "word": "离职后还能让公司记住",
+        "onboard_time": 1679544810,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 479430,
+        "num": 479430,
+        "word": "Mirror成员向林俊杰道歉",
+        "onboard_time": 1679536107,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 416728,
+        "num": 416728,
+        "word": "微博之夜",
+        "onboard_time": 1679541147,
+        "rank": 9,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 2407766,
+        "num": 415509,
+        "word": "张凌赫白鹿",
+        "onboard_time": 1679548409,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1564862,
+        "num": 407218,
+        "word": "海南13岁女孩遭霸凌左耳鼓膜穿孔",
+        "onboard_time": 1679539767,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1221420,
+        "num": 404370,
+        "word": "奥利奥",
+        "onboard_time": 1679543789,
+        "rank": 12,
+        "category": "美食,艺人"
+      },
+      {
+        "raw_hot": 754110,
+        "num": 399752,
+        "word": "吴世勋朴灿烈李响安欣套装",
+        "onboard_time": 1679545890,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 631562,
+        "num": 392204,
+        "word": "李彦宏称中国基本不会再出OpenAI",
+        "onboard_time": 1679543306,
+        "rank": 14,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 391767,
+        "num": 391767,
+        "word": "每天少刷15分钟手机改善免疫",
+        "onboard_time": 1679546553,
+        "rank": 15,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 357826,
+        "num": 357826,
+        "word": "客运站要消失了吗",
+        "onboard_time": 1679532269,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338019,
+        "num": 338019,
+        "word": "张颂文大学时期嘻哈风穿搭",
+        "onboard_time": 1679535866,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 337135,
+        "num": 337135,
+        "word": "微博之夜直播预约",
+        "onboard_time": 1679540485,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 332976,
+        "num": 332976,
+        "word": "南部战区就美舰擅闯西沙领海发表谈话",
+        "onboard_time": 1679542587,
+        "rank": 19,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 338442,
+        "num": 332183,
+        "word": "侯明昊加盟微博之夜",
+        "onboard_time": 1679547029,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 318106,
+        "num": 318106,
+        "word": "一起露营吧嘉宾住酒店",
+        "onboard_time": 1679544929,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 308073,
+        "num": 308073,
+        "word": "园润花花不是亲生胜似亲生",
+        "onboard_time": 1679536825,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 307089,
+        "num": 307089,
+        "word": "NCT澳门",
+        "onboard_time": 1679547989,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 299871,
+        "num": 299871,
+        "word": "青岛偶遇白敬亭逛街",
+        "onboard_time": 1679540969,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279118,
+        "num": 279118,
+        "word": "小狗站岗大赛",
+        "onboard_time": 1679544088,
+        "rank": 25,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 250097,
+        "num": 250097,
+        "word": "上班快迟到了也不能着急",
+        "onboard_time": 1679544629,
+        "rank": 26,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 242620,
+        "num": 242620,
+        "word": "湖人战胜太阳",
+        "onboard_time": 1679547449,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 240684,
+        "num": 240684,
+        "word": "爱情而已不断更",
+        "onboard_time": 1679545650,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 238120,
+        "num": 238120,
+        "word": "男子因父亲未尽抚养义务拒绝赡养",
+        "onboard_time": 1679533171,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230366,
+        "num": 230366,
+        "word": "丁太升说声生不息首期最差是张杰",
+        "onboard_time": 1679497413,
+        "rank": 30,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 211494,
+        "num": 211494,
+        "word": "吴磊夸周雨彤真可爱",
+        "onboard_time": 1679546072,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 208917,
+        "num": 208917,
+        "word": "湖南高校回应悄悄往贫困生餐卡打钱",
+        "onboard_time": 1679547510,
+        "rank": 32,
+        "category": "社会正能量,教育"
+      },
+      {
+        "raw_hot": 208184,
+        "num": 208184,
+        "word": "莎头",
+        "onboard_time": 1679547631,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202568,
+        "num": 202568,
+        "word": "大侦探",
+        "onboard_time": 1679548288,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195121,
+        "num": 195121,
+        "word": "广东省考",
+        "onboard_time": 1679538986,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 194747,
+        "num": 194747,
+        "word": "当代年轻人的就业环境",
+        "onboard_time": 1679538266,
+        "rank": 36,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 182391,
+        "num": 182391,
+        "word": "宋亚轩加盟王牌对王牌8",
+        "onboard_time": 1679539105,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182111,
+        "num": 182111,
+        "word": "微博之夜西装暴徒",
+        "onboard_time": 1679542650,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 179251,
+        "num": 179251,
+        "word": "李健演我作息时间",
+        "onboard_time": 1679541748,
+        "rank": 39,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 174417,
+        "num": 174417,
+        "word": "她是从童话里走出来的吧",
+        "onboard_time": 1679543547,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 173666,
+        "num": 173666,
+        "word": "JackeyLove回应五连败",
+        "onboard_time": 1679539345,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 150815,
+        "num": 150815,
+        "word": "NBA",
+        "onboard_time": 1679541988,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140058,
+        "num": 140058,
+        "word": "早午餐不要合成一顿",
+        "onboard_time": 1679533289,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 138008,
+        "num": 138008,
+        "word": "一起露营吧称嘉宾全员夜宿帐篷内",
+        "onboard_time": 1679546853,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137598,
+        "num": 137598,
+        "word": "MSI赛区资格说明",
+        "onboard_time": 1679542650,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 136365,
+        "num": 136365,
+        "word": "国际小狗日",
+        "onboard_time": 1679535206,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 135697,
+        "num": 135697,
+        "word": "宋佳头顶一包花封面",
+        "onboard_time": 1679542467,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 128580,
+        "num": 128580,
+        "word": "百度回应文心一言文生图功能",
+        "onboard_time": 1679542650,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 125484,
+        "num": 125484,
+        "word": "我找到新工作了",
+        "onboard_time": 1679534906,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#人类命运共同体理念广泛凝聚国际共识#"
+    }
+  }
+}
