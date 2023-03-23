@@ -1,6 +1,6 @@
 {
   "startTime": 1679502284596,
-  "endTime": 1679545294106,
+  "endTime": 1679546157121,
   "band_list": [
     {
       "raw_hot": 2484394,
@@ -27,6 +27,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1512602,
+      "num": 1512602,
+      "word": "地铁里原来真有座位继承制",
+      "onboard_time": 1679541025,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1494271,
       "num": 919579,
       "word": "泰国",
@@ -39,6 +47,22 @@
       "num": 1477737,
       "word": "微博之夜",
       "onboard_time": 1679541147,
+      "rank": 1,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1463267,
+      "num": 532392,
+      "word": "奥利奥",
+      "onboard_time": 1679543789,
+      "rank": 11,
+      "category": "美食,艺人"
+    },
+    {
+      "raw_hot": 1455275,
+      "num": 1455275,
+      "word": "王俊凯王源微博之夜官宣",
+      "onboard_time": 1679543610,
       "rank": 1,
       "category": "作品衍生,时尚"
     },
@@ -75,36 +99,12 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 1229642,
-      "num": 1229642,
-      "word": "地铁里原来真有座位继承制",
-      "onboard_time": 1679541025,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 1202950,
-      "num": 1202950,
-      "word": "王俊凯王源微博之夜官宣",
-      "onboard_time": 1679543610,
-      "rank": 1,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 1151502,
       "num": 751726,
       "word": "丁太升说声生不息首期最差是张杰",
       "onboard_time": 1679497413,
       "rank": 1,
       "category": "综艺,艺人"
-    },
-    {
-      "raw_hot": 1088297,
-      "num": 532392,
-      "word": "奥利奥",
-      "onboard_time": 1679543789,
-      "rank": 11,
-      "category": "美食,艺人"
     },
     {
       "raw_hot": 1043495,
@@ -137,6 +137,14 @@
       "onboard_time": 1679495311,
       "rank": 5,
       "category": "美食"
+    },
+    {
+      "raw_hot": 738030,
+      "num": 506007,
+      "word": "杭州直达香港高铁太火了",
+      "onboard_time": 1679544026,
+      "rank": 18,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 724881,
@@ -185,6 +193,14 @@
       "onboard_time": 1679540969,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 613366,
+      "num": 498358,
+      "word": "李彦宏称中国基本不会再出OpenAI",
+      "onboard_time": 1679543306,
+      "rank": 15,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 611049,
@@ -251,6 +267,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 514717,
+      "num": 514717,
+      "word": "微博之夜阵容",
+      "onboard_time": 1679545890,
+      "rank": 7,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 509222,
       "num": 509222,
       "word": "我找到新工作了",
@@ -307,6 +331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 443641,
+      "num": 443641,
+      "word": "吴世勋朴灿烈李响安欣套装",
+      "onboard_time": 1679545890,
+      "rank": 17,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 439983,
       "num": 439983,
       "word": "网友称海底捞水果仅限打包一份",
@@ -347,14 +379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 402485,
-      "num": 402485,
-      "word": "李彦宏称中国基本不会再出OpenAI",
-      "onboard_time": 1679543306,
-      "rank": 15,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 394668,
       "num": 394668,
       "word": "当高启强出现在语文试卷上",
@@ -363,20 +387,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 394660,
+      "num": 394660,
+      "word": "一起露营吧嘉宾住酒店",
+      "onboard_time": 1679544929,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 394283,
       "num": 394283,
       "word": "泰总理下令澄清旅泰安全问题",
       "onboard_time": 1679485409,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 385739,
-      "num": 385739,
-      "word": "杭州直达香港高铁太火了",
-      "onboard_time": 1679544026,
-      "rank": 18,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 383021,
@@ -408,6 +432,14 @@
       "word": "苏州卫健委回应产科医生收红包",
       "onboard_time": 1679498848,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 345417,
+      "num": 510660,
+      "word": "曹德旺谈大学生热衷考公务员",
+      "onboard_time": 1679545050,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -499,6 +531,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 265343,
+      "num": 265343,
+      "word": "李健演我作息时间",
+      "onboard_time": 1679541748,
+      "rank": 37,
+      "category": "作品衍生,幽默"
+    },
+    {
       "raw_hot": 264766,
       "num": 264766,
       "word": "高叶打假签名照",
@@ -515,12 +555,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 260412,
+      "num": 260412,
+      "word": "离职后还能让公司记住",
+      "onboard_time": 1679544810,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 260193,
       "num": 232264,
       "word": "女子地铁唱跳骚扰乘客",
       "onboard_time": 1679536286,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 253946,
+      "num": 253946,
+      "word": "百度回应文心一言文生图功能",
+      "onboard_time": 1679542650,
+      "rank": 27,
+      "category": "科技"
     },
     {
       "raw_hot": 252953,
@@ -547,14 +603,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 249164,
-      "num": 249164,
-      "word": "百度回应文心一言文生图功能",
-      "onboard_time": 1679542650,
-      "rank": 27,
-      "category": "科技"
-    },
-    {
       "raw_hot": 247185,
       "num": 247185,
       "word": "迪丽热巴红裙花絮",
@@ -569,14 +617,6 @@
       "onboard_time": 1679542467,
       "rank": 28,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 238331,
-      "num": 238331,
-      "word": "李健演我作息时间",
-      "onboard_time": 1679541748,
-      "rank": 37,
-      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 238186,
@@ -619,6 +659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 222862,
+      "num": 222862,
+      "word": "小狗站岗大赛",
+      "onboard_time": 1679544088,
+      "rank": 45,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 220277,
       "num": 220277,
       "word": "泰国游有平替吗",
@@ -627,12 +675,28 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 215059,
+      "num": 215059,
+      "word": "上班快迟到了也不能着急",
+      "onboard_time": 1679544629,
+      "rank": 43,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 211278,
       "num": 195997,
       "word": "以后还让我怎么吃香蕉啊",
       "onboard_time": 1679485888,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 209770,
+      "num": 209770,
+      "word": "明星微博之夜出圈瞬间",
+      "onboard_time": 1679545591,
+      "rank": 35,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 204039,
@@ -673,6 +737,14 @@
       "onboard_time": 1679493689,
       "rank": 19,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 199866,
+      "num": 199866,
+      "word": "爱情而已不断更",
+      "onboard_time": 1679545650,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 195387,
@@ -755,12 +827,12 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 179977,
-      "num": 179977,
-      "word": "一起露营吧嘉宾住酒店",
-      "onboard_time": 1679544929,
-      "rank": 37,
-      "category": "综艺"
+      "raw_hot": 178463,
+      "num": 178463,
+      "word": "她是从童话里走出来的吧",
+      "onboard_time": 1679543547,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 177488,
@@ -803,30 +875,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 165850,
-      "num": 165850,
-      "word": "离职后还能让公司记住",
-      "onboard_time": 1679544810,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 164936,
-      "num": 164936,
-      "word": "上班快迟到了也不能着急",
-      "onboard_time": 1679544629,
-      "rank": 43,
-      "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 164894,
-      "num": 164894,
-      "word": "她是从童话里走出来的吧",
-      "onboard_time": 1679543547,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
       "raw_hot": 163356,
       "num": 163356,
       "word": "这不是动物萌态是刻板行为",
@@ -835,20 +883,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 160281,
-      "num": 160281,
-      "word": "小狗站岗大赛",
-      "onboard_time": 1679544088,
-      "rank": 45,
-      "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 139863,
-      "num": 139863,
-      "word": "曹德旺谈大学生热衷考公务员",
-      "onboard_time": 1679545050,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 150630,
+      "num": 150630,
+      "word": "吴磊夸周雨彤真可爱",
+      "onboard_time": 1679546072,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 138072,
@@ -865,6 +905,14 @@
       "onboard_time": 1679485769,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 137617,
+      "num": 137617,
+      "word": "没有边界感的孔雀",
+      "onboard_time": 1679546132,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 134486,
