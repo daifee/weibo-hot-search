@@ -1,0 +1,410 @@
+{
+  "runTime": 1679643207582,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7460008,
+        "num": 7460008,
+        "word": "半个娱乐圈明星都在上海",
+        "onboard_time": 1679635950,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1853630,
+        "num": 1853630,
+        "word": "前交通局长回应孙女炫富贪腐言论",
+        "onboard_time": 1679641828,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59174,
+        "num": 1261652,
+        "word": "旅游打卡地怎么能少了宝藏村落",
+        "onboard_time": 1679626288,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1027752,
+        "num": 1027752,
+        "word": "TFBOYS 微博之夜",
+        "onboard_time": 1679623707,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 686324,
+        "num": 686324,
+        "word": "那英喊肖战战哥",
+        "onboard_time": 1679638768,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 633445,
+        "num": 633445,
+        "word": "外公是我朋友圈的守护神",
+        "onboard_time": 1679637870,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 628820,
+        "num": 628820,
+        "word": "大熊猫幼崽吃游客掉落口罩",
+        "onboard_time": 1679636308,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 515937,
+        "num": 515937,
+        "word": "北极鲶鱼",
+        "onboard_time": 1679641948,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 498590,
+        "num": 498590,
+        "word": "美军空袭叙利亚东部",
+        "onboard_time": 1679636489,
+        "rank": 8,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 439295,
+        "num": 439295,
+        "word": "微博之夜主持人不是董又霖",
+        "onboard_time": 1679641649,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 923714,
+        "num": 439277,
+        "word": "家长回应孩子霸凌13岁女生",
+        "onboard_time": 1679638768,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 446501,
+        "num": 439256,
+        "word": "动画还原苏州杀夫案",
+        "onboard_time": 1679635829,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 439124,
+        "num": 439124,
+        "word": "宋再临金素恩同游乐园",
+        "onboard_time": 1679641649,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 371753,
+        "num": 371753,
+        "word": "重庆永川警方通报",
+        "onboard_time": 1679641529,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365132,
+        "num": 365132,
+        "word": "鹿晗第一次来到东北澡堂的反应",
+        "onboard_time": 1679636847,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 338536,
+        "num": 338536,
+        "word": "东南vip",
+        "onboard_time": 1679642849,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 322800,
+        "num": 322800,
+        "word": "微博之夜主持人有了吗",
+        "onboard_time": 1679625147,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 308289,
+        "num": 308289,
+        "word": "朴叙俊IU将出演出差十五夜",
+        "onboard_time": 1679639850,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 262469,
+        "num": 262469,
+        "word": "重庆农行",
+        "onboard_time": 1679635713,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238197,
+        "num": 238197,
+        "word": "吴磊放下男德",
+        "onboard_time": 1679629771,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 457027,
+        "num": 234967,
+        "word": "为什么孕期一定要认真对待",
+        "onboard_time": 1679638586,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 256768,
+        "num": 234797,
+        "word": "男子因名字被同学调侃导抑郁症",
+        "onboard_time": 1679630555,
+        "rank": 21,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 229975,
+        "num": 229975,
+        "word": "丁程鑫严浩翔微博之夜出发路透",
+        "onboard_time": 1679641529,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 228450,
+        "num": 228450,
+        "word": "那一刻真的很爱大学",
+        "onboard_time": 1679637570,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 227299,
+        "num": 227299,
+        "word": "家长称4名失联男孩已在缅甸",
+        "onboard_time": 1679624308,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214018,
+        "num": 214018,
+        "word": "团时朗去世",
+        "onboard_time": 1679622387,
+        "rank": 25,
+        "category": "动漫,艺人"
+      },
+      {
+        "raw_hot": 205816,
+        "num": 205816,
+        "word": "泰国华人回应赴泰旅游被嘎腰子",
+        "onboard_time": 1679624848,
+        "rank": 26,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 202855,
+        "num": 202855,
+        "word": "半天妖烤鱼两涉事门店永久关停",
+        "onboard_time": 1679633612,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202113,
+        "num": 202113,
+        "word": "广州冰雹",
+        "onboard_time": 1679625808,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199995,
+        "num": 199995,
+        "word": "女子长期遭家暴因感情深不愿离婚",
+        "onboard_time": 1679628388,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1064165,
+        "num": 192649,
+        "word": "抖音崩了",
+        "onboard_time": 1679636368,
+        "rank": 30,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 151700,
+        "num": 151700,
+        "word": "井柏然谭松韵洗脚花絮",
+        "onboard_time": 1679643026,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 147247,
+        "num": 147247,
+        "word": "一个人哭出来一车人收不住",
+        "onboard_time": 1679631031,
+        "rank": 32,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 144184,
+        "num": 144184,
+        "word": "罗渽民香港机场到达图",
+        "onboard_time": 1679638288,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138146,
+        "num": 138146,
+        "word": "AI爆发对大学生选专业的影响",
+        "onboard_time": 1679642969,
+        "rank": 34,
+        "category": "科技,教育"
+      },
+      {
+        "raw_hot": 137817,
+        "num": 137817,
+        "word": "张杰演唱会新增郑州站沈阳站",
+        "onboard_time": 1679634334,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 135840,
+        "num": 135840,
+        "word": "禁止中小学校举办或参与举办培训机构",
+        "onboard_time": 1679624247,
+        "rank": 36,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 134162,
+        "num": 134162,
+        "word": "大熊猫泡澡也太像人了吧",
+        "onboard_time": 1679630136,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133001,
+        "num": 133001,
+        "word": "范丞丞给刘亦菲让座",
+        "onboard_time": 1679626108,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 130735,
+        "num": 130735,
+        "word": "我妈去买菜结果被抓去走秀",
+        "onboard_time": 1679629592,
+        "rank": 39,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 128734,
+        "num": 128734,
+        "word": "猫咪舔毛被打断是什么反应",
+        "onboard_time": 1679633734,
+        "rank": 40,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 119290,
+        "num": 119290,
+        "word": "我的宝宝一夜之间怎么啦",
+        "onboard_time": 1679632294,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117311,
+        "num": 117311,
+        "word": "劳荣枝死刑复核最新进展",
+        "onboard_time": 1679617829,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113135,
+        "num": 113135,
+        "word": "博士答辩现场的压迫感",
+        "onboard_time": 1679626349,
+        "rank": 43,
+        "category": "教育,幽默"
+      },
+      {
+        "raw_hot": 109039,
+        "num": 109039,
+        "word": "海底捞回应孕妇可以插队",
+        "onboard_time": 1679614644,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105266,
+        "num": 105266,
+        "word": "很受小朋友欢迎的狗狗",
+        "onboard_time": 1679642310,
+        "rank": 45,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 102771,
+        "num": 102771,
+        "word": "张俪浪姐初舞台造型来自心想事成",
+        "onboard_time": 1679635349,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102630,
+        "num": 102630,
+        "word": "山河之影定档",
+        "onboard_time": 1679639669,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 192568,
+        "num": 101904,
+        "word": "杨幂微博之夜VCR视频",
+        "onboard_time": 1679642310,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 101093,
+        "num": 101093,
+        "word": "最强大脑国际赛中国队名单",
+        "onboard_time": 1679639850,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#每天认识一件文物#"
+    }
+  }
+}

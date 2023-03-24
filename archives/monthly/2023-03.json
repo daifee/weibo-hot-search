@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679642171645,
+  "endTime": 1679643207582,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -1385,6 +1385,14 @@
       "onboard_time": 1677984745,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1853630,
+      "num": 1853630,
+      "word": "前交通局长回应孙女炫富贪腐言论",
+      "onboard_time": 1679641828,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1851242,
@@ -10987,6 +10995,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 633445,
+      "num": 633445,
+      "word": "外公是我朋友圈的守护神",
+      "onboard_time": 1679637870,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 633250,
       "num": 633250,
       "word": "白桃星座",
@@ -14275,14 +14291,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 518360,
-      "num": 518360,
-      "word": "外公是我朋友圈的守护神",
-      "onboard_time": 1679637870,
-      "rank": 36,
-      "category": "情感"
-    },
-    {
       "raw_hot": 518293,
       "num": 400860,
       "word": "张俪李泽锋吻戏",
@@ -14377,6 +14385,14 @@
       "onboard_time": 1678582344,
       "rank": 13,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 515937,
+      "num": 515937,
+      "word": "北极鲶鱼",
+      "onboard_time": 1679641948,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 514422,
@@ -14676,7 +14692,7 @@
     },
     {
       "raw_hot": 507573,
-      "num": 431536,
+      "num": 439124,
       "word": "宋再临金素恩同游乐园",
       "onboard_time": 1679641649,
       "rank": 10,
@@ -17201,6 +17217,14 @@
       "onboard_time": 1677755308,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 439295,
+      "num": 439295,
+      "word": "微博之夜主持人不是董又霖",
+      "onboard_time": 1679641649,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 439233,
@@ -20155,6 +20179,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 371753,
+      "num": 371753,
+      "word": "重庆永川警方通报",
+      "onboard_time": 1679641529,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 371495,
       "num": 371495,
       "word": "肖俊将担任THESHOWMC",
@@ -22073,6 +22105,14 @@
       "onboard_time": 1677589650,
       "rank": 16,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 338536,
+      "num": 338536,
+      "word": "东南vip",
+      "onboard_time": 1679642849,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 338517,
@@ -24801,14 +24841,6 @@
       "onboard_time": 1677653007,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 293694,
-      "num": 293694,
-      "word": "微博之夜主持人不是董又霖",
-      "onboard_time": 1679641649,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 293444,
@@ -28779,14 +28811,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 237332,
-      "num": 237332,
-      "word": "前交通局长回应孙女炫富贪腐言论",
-      "onboard_time": 1679641828,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 237319,
       "num": 237319,
       "word": "爱情而已",
@@ -29401,6 +29425,14 @@
       "onboard_time": 1679377649,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 229975,
+      "num": 229975,
+      "word": "丁程鑫严浩翔微博之夜出发路透",
+      "onboard_time": 1679641529,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 229969,
@@ -30803,14 +30835,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 217517,
-      "num": 184664,
-      "word": "重庆永川警方通报",
-      "onboard_time": 1679641529,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 217343,
       "num": 217343,
       "word": "柯南剧场版90秒预告",
@@ -30889,14 +30913,6 @@
       "onboard_time": 1677586290,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 216605,
-      "num": 181706,
-      "word": "丁程鑫严浩翔微博之夜出发路透",
-      "onboard_time": 1679641529,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 216604,
@@ -34611,14 +34627,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 194927,
-      "num": 194927,
-      "word": "北极鲶鱼",
-      "onboard_time": 1679641948,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 194925,
       "num": 194925,
       "word": "新式神言灵",
@@ -35105,6 +35113,14 @@
       "onboard_time": 1678676608,
       "rank": 7,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 192568,
+      "num": 101904,
+      "word": "杨幂微博之夜VCR视频",
+      "onboard_time": 1679642310,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 192539,
@@ -40187,6 +40203,14 @@
       "category": "幽默,社会新闻"
     },
     {
+      "raw_hot": 151700,
+      "num": 151700,
+      "word": "井柏然谭松韵洗脚花絮",
+      "onboard_time": 1679643026,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 151662,
       "num": 151662,
       "word": "这小猫咪是犯人瘾了吧",
@@ -41977,6 +42001,14 @@
       "onboard_time": 1678337136,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 138146,
+      "num": 138146,
+      "word": "AI爆发对大学生选专业的影响",
+      "onboard_time": 1679642969,
+      "rank": 34,
+      "category": "科技,教育"
     },
     {
       "raw_hot": 138072,
@@ -45611,6 +45643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 105266,
+      "num": 105266,
+      "word": "很受小朋友欢迎的狗狗",
+      "onboard_time": 1679642310,
+      "rank": 45,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 105057,
       "num": 105057,
       "word": "专家解读东航MU5735事故调查最新进展",
@@ -46001,6 +46041,14 @@
       "onboard_time": 1678965149,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 101093,
+      "num": 101093,
+      "word": "最强大脑国际赛中国队名单",
+      "onboard_time": 1679639850,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 100998,

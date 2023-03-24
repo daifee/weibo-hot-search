@@ -1,6 +1,6 @@
 {
   "startTime": 1679588746312,
-  "endTime": 1679642171645,
+  "endTime": 1679643207582,
   "band_list": [
     {
       "raw_hot": 10450851,
@@ -41,6 +41,14 @@
       "onboard_time": 1679634031,
       "rank": 3,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1853630,
+      "num": 1853630,
+      "word": "前交通局长回应孙女炫富贪腐言论",
+      "onboard_time": 1679641828,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1780848,
@@ -315,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 633445,
+      "num": 633445,
+      "word": "外公是我朋友圈的守护神",
+      "onboard_time": 1679637870,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 618166,
       "num": 618166,
       "word": "张杰演唱会新增郑州站沈阳站",
@@ -435,12 +451,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 518360,
-      "num": 518360,
-      "word": "外公是我朋友圈的守护神",
-      "onboard_time": 1679637870,
-      "rank": 36,
-      "category": "情感"
+      "raw_hot": 515937,
+      "num": 515937,
+      "word": "北极鲶鱼",
+      "onboard_time": 1679641948,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 514422,
@@ -460,7 +476,7 @@
     },
     {
       "raw_hot": 507573,
-      "num": 431536,
+      "num": 439124,
       "word": "宋再临金素恩同游乐园",
       "onboard_time": 1679641649,
       "rank": 10,
@@ -531,6 +547,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 439295,
+      "num": 439295,
+      "word": "微博之夜主持人不是董又霖",
+      "onboard_time": 1679641649,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 435003,
       "num": 435003,
       "word": "梅西职业生涯第800球",
@@ -587,6 +611,14 @@
       "category": "综艺,幽默"
     },
     {
+      "raw_hot": 371753,
+      "num": 371753,
+      "word": "重庆永川警方通报",
+      "onboard_time": 1679641529,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 366247,
       "num": 366247,
       "word": "网友泰国偶遇朱一龙",
@@ -617,6 +649,14 @@
       "onboard_time": 1679615064,
       "rank": 20,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 338536,
+      "num": 338536,
+      "word": "东南vip",
+      "onboard_time": 1679642849,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 322748,
@@ -681,14 +721,6 @@
       "onboard_time": 1679632774,
       "rank": 23,
       "category": "美食"
-    },
-    {
-      "raw_hot": 293694,
-      "num": 293694,
-      "word": "微博之夜主持人不是董又霖",
-      "onboard_time": 1679641649,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 293444,
@@ -819,14 +851,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 237332,
-      "num": 237332,
-      "word": "前交通局长回应孙女炫富贪腐言论",
-      "onboard_time": 1679641828,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 235389,
       "num": 235389,
       "word": "猫咪舔毛被打断是什么反应",
@@ -849,6 +873,14 @@
       "onboard_time": 1679574869,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 229975,
+      "num": 229975,
+      "word": "丁程鑫严浩翔微博之夜出发路透",
+      "onboard_time": 1679641529,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 229462,
@@ -888,22 +920,6 @@
       "word": "杨幂 微博之夜",
       "onboard_time": 1679574207,
       "rank": 23,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 217517,
-      "num": 184664,
-      "word": "重庆永川警方通报",
-      "onboard_time": 1679641529,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 216605,
-      "num": 181706,
-      "word": "丁程鑫严浩翔微博之夜出发路透",
-      "onboard_time": 1679641529,
-      "rank": 32,
       "category": "作品衍生"
     },
     {
@@ -987,14 +1003,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 194927,
-      "num": 194927,
-      "word": "北极鲶鱼",
-      "onboard_time": 1679641948,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 194484,
       "num": 194484,
       "word": "陈立农小时候也抄过歌词",
@@ -1009,6 +1017,14 @@
       "onboard_time": 1679588303,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192568,
+      "num": 101904,
+      "word": "杨幂微博之夜VCR视频",
+      "onboard_time": 1679642310,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 192401,
@@ -1219,6 +1235,14 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 151700,
+      "num": 151700,
+      "word": "井柏然谭松韵洗脚花絮",
+      "onboard_time": 1679643026,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 150241,
       "num": 1599676,
       "word": "旅游打卡地怎么能少了宝藏村落",
@@ -1281,6 +1305,14 @@
       "onboard_time": 1679632774,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 138146,
+      "num": 138146,
+      "word": "AI爆发对大学生选专业的影响",
+      "onboard_time": 1679642969,
+      "rank": 34,
+      "category": "科技,教育"
     },
     {
       "raw_hot": 135447,
@@ -1387,6 +1419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 105266,
+      "num": 105266,
+      "word": "很受小朋友欢迎的狗狗",
+      "onboard_time": 1679642310,
+      "rank": 45,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 104760,
       "num": 1546686,
       "word": "开往春天的列车带你穿越花海",
@@ -1400,6 +1440,14 @@
       "word": "舞娘改编",
       "onboard_time": 1679579128,
       "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 101093,
+      "num": 101093,
+      "word": "最强大脑国际赛中国队名单",
+      "onboard_time": 1679639850,
+      "rank": 49,
       "category": "综艺"
     },
     {
