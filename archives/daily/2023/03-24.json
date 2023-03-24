@@ -1,6 +1,6 @@
 {
   "startTime": 1679588746312,
-  "endTime": 1679639782001,
+  "endTime": 1679642171645,
   "band_list": [
     {
       "raw_hot": 10450851,
@@ -11,19 +11,19 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 7754523,
+      "num": 7754523,
+      "word": "半个娱乐圈明星都在上海",
+      "onboard_time": 1679635950,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 7313901,
       "num": 7313901,
       "word": "TFBOYS 微博之夜",
       "onboard_time": 1679623707,
       "rank": 0,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 6630623,
-      "num": 6630623,
-      "word": "半个娱乐圈明星都在上海",
-      "onboard_time": 1679635950,
-      "rank": 32,
       "category": "作品衍生"
     },
     {
@@ -179,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1019633,
+      "num": 781485,
+      "word": "家长回应孩子霸凌13岁女生",
+      "onboard_time": 1679638768,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 996782,
       "num": 996782,
       "word": "招聘大熊猫饲养员数百份简历零录取",
@@ -259,19 +267,19 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 772947,
+      "num": 772947,
+      "word": "大熊猫幼崽吃游客掉落口罩",
+      "onboard_time": 1679636308,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 746802,
       "num": 746802,
       "word": "半天妖烤鱼两涉事门店永久关停",
       "onboard_time": 1679633612,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 742475,
-      "num": 742475,
-      "word": "大熊猫幼崽吃游客掉落口罩",
-      "onboard_time": 1679636308,
-      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -347,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 587818,
+      "num": 587818,
+      "word": "美军空袭叙利亚东部",
+      "onboard_time": 1679636489,
+      "rank": 11,
+      "category": "军事,国外要闻"
+    },
+    {
       "raw_hot": 582989,
       "num": 582989,
       "word": "足协黄松和王小平被查",
@@ -371,7 +387,7 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 571937,
+      "raw_hot": 575453,
       "num": 571937,
       "word": "动画还原苏州杀夫案",
       "onboard_time": 1679635829,
@@ -419,6 +435,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 518360,
+      "num": 518360,
+      "word": "外公是我朋友圈的守护神",
+      "onboard_time": 1679637870,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 514422,
+      "num": 355454,
+      "word": "为什么孕期一定要认真对待",
+      "onboard_time": 1679638586,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 510686,
       "num": 510686,
       "word": "吴倩在武大唱歌",
@@ -427,12 +459,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 500551,
-      "num": 500551,
-      "word": "美军空袭叙利亚东部",
-      "onboard_time": 1679636489,
-      "rank": 11,
-      "category": "军事,国外要闻"
+      "raw_hot": 507573,
+      "num": 431536,
+      "word": "宋再临金素恩同游乐园",
+      "onboard_time": 1679641649,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 494604,
@@ -531,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 395973,
+      "num": 395973,
+      "word": "朴叙俊IU将出演出差十五夜",
+      "onboard_time": 1679639850,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 391826,
       "num": 391826,
       "word": "罗渽民香港机场到达图",
@@ -569,14 +609,6 @@
       "onboard_time": 1679579791,
       "rank": 19,
       "category": "教育"
-    },
-    {
-      "raw_hot": 355454,
-      "num": 355454,
-      "word": "为什么孕期一定要认真对待",
-      "onboard_time": 1679638586,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 349087,
@@ -651,6 +683,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 293694,
+      "num": 293694,
+      "word": "微博之夜主持人不是董又霖",
+      "onboard_time": 1679641649,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 293444,
       "num": 293444,
       "word": "陕西省考",
@@ -673,14 +713,6 @@
       "onboard_time": 1679619269,
       "rank": 23,
       "category": "幽默,综艺"
-    },
-    {
-      "raw_hot": 282566,
-      "num": 282566,
-      "word": "家长回应孩子霸凌13岁女生",
-      "onboard_time": 1679638768,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 274246,
@@ -739,14 +771,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 263558,
-      "num": 263558,
-      "word": "外公是我朋友圈的守护神",
-      "onboard_time": 1679637870,
-      "rank": 36,
-      "category": "情感"
-    },
-    {
       "raw_hot": 262794,
       "num": 262794,
       "word": "我的宝宝一夜之间怎么啦",
@@ -785,6 +809,22 @@
       "onboard_time": 1679588244,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 239167,
+      "num": 239167,
+      "word": "那一刻真的很爱大学",
+      "onboard_time": 1679637570,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 237332,
+      "num": 237332,
+      "word": "前交通局长回应孙女炫富贪腐言论",
+      "onboard_time": 1679641828,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 235389,
@@ -851,6 +891,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 217517,
+      "num": 184664,
+      "word": "重庆永川警方通报",
+      "onboard_time": 1679641529,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 216605,
+      "num": 181706,
+      "word": "丁程鑫严浩翔微博之夜出发路透",
+      "onboard_time": 1679641529,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 213698,
       "num": 213698,
       "word": "你永远不知道小狗肚子里有什么",
@@ -883,6 +939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 205325,
+      "num": 205325,
+      "word": "爱情而已事业线",
+      "onboard_time": 1679641108,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 205072,
       "num": 198282,
       "word": "晨晓夫妇领证了",
@@ -907,12 +971,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 200219,
+      "num": 200219,
+      "word": "范丞丞马思唯新歌上线",
+      "onboard_time": 1679641649,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 198065,
       "num": 198065,
       "word": "朴智旻主打曲MV",
       "onboard_time": 1679634988,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 194927,
+      "num": 194927,
+      "word": "北极鲶鱼",
+      "onboard_time": 1679641948,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 194484,
@@ -1115,14 +1195,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 156960,
-      "num": 156960,
-      "word": "那一刻真的很爱大学",
-      "onboard_time": 1679637570,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 155130,
       "num": 155130,
       "word": "葡萄牙4比0列支敦士登",
@@ -1304,6 +1376,14 @@
       "word": "王子浩排名",
       "onboard_time": 1679581110,
       "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 110740,
+      "num": 110740,
+      "word": "马嘉祺滑雪会滑双板",
+      "onboard_time": 1679639908,
+      "rank": 47,
       "category": "综艺"
     },
     {

@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679639782001,
+  "endTime": 1679642171645,
   "band_list": [
     {
       "raw_hot": 10450851,
@@ -8,6 +8,14 @@
       "word": "TFBOYS",
       "onboard_time": 1679623707,
       "rank": 0,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 7754523,
+      "num": 7754523,
+      "word": "半个娱乐圈明星都在上海",
+      "onboard_time": 1679635950,
+      "rank": 32,
       "category": "作品衍生"
     },
     {
@@ -25,14 +33,6 @@
       "onboard_time": 1679310572,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 6630623,
-      "num": 6630623,
-      "word": "半个娱乐圈明星都在上海",
-      "onboard_time": 1679635950,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 4463977,
@@ -1283,6 +1283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1019633,
+      "num": 781485,
+      "word": "家长回应孩子霸凌13岁女生",
+      "onboard_time": 1679638768,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1019526,
       "num": 876788,
       "word": "杨紫范丞丞牵手路透",
@@ -1995,6 +2003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 772947,
+      "num": 772947,
+      "word": "大熊猫幼崽吃游客掉落口罩",
+      "onboard_time": 1679636308,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 771616,
       "num": 771616,
       "word": "娜扎帮闺蜜要徐明浩的签名照",
@@ -2080,14 +2096,6 @@
       "word": "半天妖烤鱼两涉事门店永久关停",
       "onboard_time": 1679633612,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 742475,
-      "num": 742475,
-      "word": "大熊猫幼崽吃游客掉落口罩",
-      "onboard_time": 1679636308,
-      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -2763,6 +2771,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 587818,
+      "num": 587818,
+      "word": "美军空袭叙利亚东部",
+      "onboard_time": 1679636489,
+      "rank": 11,
+      "category": "军事,国外要闻"
+    },
+    {
       "raw_hot": 586874,
       "num": 586874,
       "word": "哇唧唧哇养猪",
@@ -2899,20 +2915,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 575453,
+      "num": 571937,
+      "word": "动画还原苏州杀夫案",
+      "onboard_time": 1679635829,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 573989,
       "num": 573989,
       "word": "很难被拒绝的简历",
       "onboard_time": 1679304149,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 571937,
-      "num": 571937,
-      "word": "动画还原苏州杀夫案",
-      "onboard_time": 1679635829,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 571046,
@@ -3251,12 +3267,28 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 518360,
+      "num": 518360,
+      "word": "外公是我朋友圈的守护神",
+      "onboard_time": 1679637870,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 517605,
       "num": 517605,
       "word": "华为P60首发支持双向北斗卫星消息",
       "onboard_time": 1679557888,
       "rank": 13,
       "category": "科技"
+    },
+    {
+      "raw_hot": 514422,
+      "num": 355454,
+      "word": "为什么孕期一定要认真对待",
+      "onboard_time": 1679638586,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 513844,
@@ -3297,6 +3329,14 @@
       "onboard_time": 1679534906,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 507573,
+      "num": 431536,
+      "word": "宋再临金素恩同游乐园",
+      "onboard_time": 1679641649,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 506303,
@@ -3345,14 +3385,6 @@
       "onboard_time": 1679303128,
       "rank": 19,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 500551,
-      "num": 500551,
-      "word": "美军空袭叙利亚东部",
-      "onboard_time": 1679636489,
-      "rank": 11,
-      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 500277,
@@ -4259,6 +4291,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 395973,
+      "num": 395973,
+      "word": "朴叙俊IU将出演出差十五夜",
+      "onboard_time": 1679639850,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 394668,
       "num": 394668,
       "word": "当高启强出现在语文试卷上",
@@ -4617,14 +4657,6 @@
       "onboard_time": 1679383532,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 355454,
-      "num": 355454,
-      "word": "为什么孕期一定要认真对待",
-      "onboard_time": 1679638586,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 355156,
@@ -5403,6 +5435,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 293694,
+      "num": 293694,
+      "word": "微博之夜主持人不是董又霖",
+      "onboard_time": 1679641649,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 293444,
       "num": 293444,
       "word": "陕西省考",
@@ -5561,14 +5601,6 @@
       "onboard_time": 1679574328,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 282566,
-      "num": 282566,
-      "word": "家长回应孩子霸凌13岁女生",
-      "onboard_time": 1679638768,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 282371,
@@ -5817,14 +5849,6 @@
       "onboard_time": 1679629592,
       "rank": 46,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 263558,
-      "num": 263558,
-      "word": "外公是我朋友圈的守护神",
-      "onboard_time": 1679637870,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 263494,
@@ -6315,6 +6339,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 239167,
+      "num": 239167,
+      "word": "那一刻真的很爱大学",
+      "onboard_time": 1679637570,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 239127,
       "num": 239127,
       "word": "蛋仔派对",
@@ -6368,6 +6400,14 @@
       "word": "南宁冰雹",
       "onboard_time": 1679566709,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 237332,
+      "num": 237332,
+      "word": "前交通局长回应孙女炫富贪腐言论",
+      "onboard_time": 1679641828,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -6755,6 +6795,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 217517,
+      "num": 184664,
+      "word": "重庆永川警方通报",
+      "onboard_time": 1679641529,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 216605,
+      "num": 181706,
+      "word": "丁程鑫严浩翔微博之夜出发路透",
+      "onboard_time": 1679641529,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 216565,
       "num": 154148,
       "word": "声生不息一公舞台",
@@ -7131,6 +7187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 205325,
+      "num": 205325,
+      "word": "爱情而已事业线",
+      "onboard_time": 1679641108,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 205283,
       "num": 204134,
       "word": "郑语安讲述离婚经历",
@@ -7363,6 +7427,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 200219,
+      "num": 200219,
+      "word": "范丞丞马思唯新歌上线",
+      "onboard_time": 1679641649,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 200167,
       "num": 200167,
       "word": "全红婵的入水有多丝滑",
@@ -7553,6 +7625,14 @@
       "onboard_time": 1679585550,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 194927,
+      "num": 194927,
+      "word": "北极鲶鱼",
+      "onboard_time": 1679641948,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 194632,
@@ -8819,14 +8899,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 156960,
-      "num": 156960,
-      "word": "那一刻真的很爱大学",
-      "onboard_time": 1679637570,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 156410,
       "num": 156410,
       "word": "王鹤棣时宴杀青plog",
@@ -10017,6 +10089,14 @@
       "onboard_time": 1679326707,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 110740,
+      "num": 110740,
+      "word": "马嘉祺滑雪会滑双板",
+      "onboard_time": 1679639908,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 110724,

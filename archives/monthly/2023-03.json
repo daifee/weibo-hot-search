@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679639782001,
+  "endTime": 1679642171645,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -75,6 +75,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 7754523,
+      "num": 7754523,
+      "word": "半个娱乐圈明星都在上海",
+      "onboard_time": 1679635950,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 7313901,
       "num": 7313901,
       "word": "TFBOYS 微博之夜",
@@ -105,14 +113,6 @@
       "onboard_time": 1677809248,
       "rank": 14,
       "category": "教育"
-    },
-    {
-      "raw_hot": 6630623,
-      "num": 6630623,
-      "word": "半个娱乐圈明星都在上海",
-      "onboard_time": 1679635950,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 6010597,
@@ -5219,6 +5219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1019633,
+      "num": 781485,
+      "word": "家长回应孩子霸凌13岁女生",
+      "onboard_time": 1679638768,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1019526,
       "num": 876788,
       "word": "杨紫范丞丞牵手路透",
@@ -8227,6 +8235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 772947,
+      "num": 772947,
+      "word": "大熊猫幼崽吃游客掉落口罩",
+      "onboard_time": 1679636308,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 772435,
       "num": 804121,
       "word": "宪法宣誓",
@@ -8721,14 +8737,6 @@
       "onboard_time": 1677938367,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 742475,
-      "num": 742475,
-      "word": "大熊猫幼崽吃游客掉落口罩",
-      "onboard_time": 1679636308,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 741610,
@@ -12059,6 +12067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 587818,
+      "num": 587818,
+      "word": "美军空袭叙利亚东部",
+      "onboard_time": 1679636489,
+      "rank": 11,
+      "category": "军事,国外要闻"
+    },
+    {
       "raw_hot": 587723,
       "num": 587723,
       "word": "王鸥替大侦探角色道歉",
@@ -12395,6 +12411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 575453,
+      "num": 571937,
+      "word": "动画还原苏州杀夫案",
+      "onboard_time": 1679635829,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 575392,
       "num": 551336,
       "word": "肖战魏无羡又登剧集角色新媒体指数",
@@ -12521,14 +12545,6 @@
       "onboard_time": 1678797630,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 571937,
-      "num": 571937,
-      "word": "动画还原苏州杀夫案",
-      "onboard_time": 1679635829,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 571879,
@@ -14259,6 +14275,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 518360,
+      "num": 518360,
+      "word": "外公是我朋友圈的守护神",
+      "onboard_time": 1679637870,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 518293,
       "num": 400860,
       "word": "张俪李泽锋吻戏",
@@ -14353,6 +14377,14 @@
       "onboard_time": 1678582344,
       "rank": 13,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 514422,
+      "num": 355454,
+      "word": "为什么孕期一定要认真对待",
+      "onboard_time": 1679638586,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 513844,
@@ -14643,6 +14675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 507573,
+      "num": 431536,
+      "word": "宋再临金素恩同游乐园",
+      "onboard_time": 1679641649,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 507360,
       "num": 322313,
       "word": "Jennie巴黎看秀状态",
@@ -14833,14 +14873,6 @@
       "onboard_time": 1678770928,
       "rank": 32,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 500551,
-      "num": 500551,
-      "word": "美军空袭叙利亚东部",
-      "onboard_time": 1679636489,
-      "rank": 11,
-      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 500448,
@@ -18963,6 +18995,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 395973,
+      "num": 395973,
+      "word": "朴叙俊IU将出演出差十五夜",
+      "onboard_time": 1679639850,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 395841,
       "num": 389801,
       "word": "动物园猩猩抽烟吐烟圈动作娴熟",
@@ -21009,14 +21049,6 @@
       "onboard_time": 1677641247,
       "rank": 41,
       "category": "科技"
-    },
-    {
-      "raw_hot": 355454,
-      "num": 355454,
-      "word": "为什么孕期一定要认真对待",
-      "onboard_time": 1679638586,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 355342,
@@ -24771,6 +24803,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 293694,
+      "num": 293694,
+      "word": "微博之夜主持人不是董又霖",
+      "onboard_time": 1679641649,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 293444,
       "num": 293444,
       "word": "陕西省考",
@@ -25441,14 +25481,6 @@
       "onboard_time": 1679574328,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 282566,
-      "num": 282566,
-      "word": "家长回应孩子霸凌13岁女生",
-      "onboard_time": 1679638768,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 282371,
@@ -26841,14 +26873,6 @@
       "onboard_time": 1679629592,
       "rank": 46,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 263558,
-      "num": 263558,
-      "word": "外公是我朋友圈的守护神",
-      "onboard_time": 1679637870,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 263494,
@@ -28627,6 +28651,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 239167,
+      "num": 239167,
+      "word": "那一刻真的很爱大学",
+      "onboard_time": 1679637570,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 239074,
       "num": 239074,
       "word": "YG新女团出道人数待定",
@@ -28744,6 +28776,14 @@
       "word": "南宁冰雹",
       "onboard_time": 1679566709,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 237332,
+      "num": 237332,
+      "word": "前交通局长回应孙女炫富贪腐言论",
+      "onboard_time": 1679641828,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -30763,6 +30803,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 217517,
+      "num": 184664,
+      "word": "重庆永川警方通报",
+      "onboard_time": 1679641529,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 217343,
       "num": 217343,
       "word": "柯南剧场版90秒预告",
@@ -30841,6 +30889,14 @@
       "onboard_time": 1677586290,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 216605,
+      "num": 181706,
+      "word": "丁程鑫严浩翔微博之夜出发路透",
+      "onboard_time": 1679641529,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 216604,
@@ -32267,6 +32323,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 205325,
+      "num": 205325,
+      "word": "爱情而已事业线",
+      "onboard_time": 1679641108,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 205294,
       "num": 205294,
       "word": "浪姐团建为张俪新剧打call",
@@ -33393,6 +33457,14 @@
       "onboard_time": 1678183231,
       "rank": 28,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 200219,
+      "num": 200219,
+      "word": "范丞丞马思唯新歌上线",
+      "onboard_time": 1679641649,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 200197,
@@ -34537,6 +34609,14 @@
       "onboard_time": 1678886432,
       "rank": 37,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 194927,
+      "num": 194927,
+      "word": "北极鲶鱼",
+      "onboard_time": 1679641948,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 194925,
@@ -39593,14 +39673,6 @@
       "onboard_time": 1678769372,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 156960,
-      "num": 156960,
-      "word": "那一刻真的很爱大学",
-      "onboard_time": 1679637570,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 156945,
@@ -44945,6 +45017,14 @@
       "onboard_time": 1679326707,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 110740,
+      "num": 110740,
+      "word": "马嘉祺滑雪会滑双板",
+      "onboard_time": 1679639908,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 110724,
