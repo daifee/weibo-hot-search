@@ -1,0 +1,410 @@
+{
+  "runTime": 1679649454013,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4077442,
+        "num": 4077442,
+        "word": "半个娱乐圈明星都在上海",
+        "onboard_time": 1679635950,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 842058,
+        "num": 842058,
+        "word": "失业之后过上了双休生活",
+        "onboard_time": 1679646927,
+        "rank": 1,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 42147,
+        "num": 773133,
+        "word": "旅游打卡地怎么能少了宝藏村落",
+        "onboard_time": 1679626288,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2346416,
+        "num": 772208,
+        "word": "前交通局长回应孙女炫富贪腐言论",
+        "onboard_time": 1679641828,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1803675,
+        "num": 771440,
+        "word": "张大大 不是我哈我只是客服",
+        "onboard_time": 1679646147,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 768359,
+        "num": 768359,
+        "word": "重庆城市科技学院",
+        "onboard_time": 1679645787,
+        "rank": 5,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 895907,
+        "num": 762986,
+        "word": "今日上海机场工作人员内心belike",
+        "onboard_time": 1679645848,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 809846,
+        "num": 759273,
+        "word": "官方通报前交通局局长家属言论",
+        "onboard_time": 1679644290,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 746696,
+        "num": 746696,
+        "word": "TFBOYS 微博之夜",
+        "onboard_time": 1679623707,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 640972,
+        "num": 640972,
+        "word": "官方通报13岁女孩遭霸凌",
+        "onboard_time": 1679644589,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1217830,
+        "num": 623645,
+        "word": "肉泥",
+        "onboard_time": 1679649088,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2273121,
+        "num": 570935,
+        "word": "北极鲶鱼",
+        "onboard_time": 1679641948,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 456011,
+        "num": 456011,
+        "word": "抖音崩了",
+        "onboard_time": 1679636368,
+        "rank": 12,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 413865,
+        "num": 413865,
+        "word": "肖战微博之夜倒计时VCR",
+        "onboard_time": 1679644709,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 419604,
+        "num": 404226,
+        "word": "家长回应孩子霸凌13岁女生",
+        "onboard_time": 1679638768,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393274,
+        "num": 393274,
+        "word": "大熊猫幼崽吃游客掉落口罩",
+        "onboard_time": 1679636308,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326832,
+        "num": 326832,
+        "word": "陈楚生一秒翻栏杆",
+        "onboard_time": 1679648249,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 260758,
+        "num": 260758,
+        "word": "外公是我朋友圈的守护神",
+        "onboard_time": 1679637870,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 224658,
+        "num": 224658,
+        "word": "宋再临金素恩同游乐园",
+        "onboard_time": 1679641649,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188178,
+        "num": 188178,
+        "word": "美军空袭叙利亚东部",
+        "onboard_time": 1679636489,
+        "rank": 19,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 197008,
+        "num": 187903,
+        "word": "男子因名字被同学调侃导抑郁症",
+        "onboard_time": 1679630555,
+        "rank": 20,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 187618,
+        "num": 187618,
+        "word": "铃芽之旅画面",
+        "onboard_time": 1679643569,
+        "rank": 21,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 174701,
+        "num": 174701,
+        "word": "那一刻真的很爱大学",
+        "onboard_time": 1679637570,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 184840,
+        "num": 171121,
+        "word": "铃芽之旅上映",
+        "onboard_time": 1679646026,
+        "rank": 23,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 167113,
+        "num": 167113,
+        "word": "不信自己是逃犯到派出所求证后落网",
+        "onboard_time": 1679643688,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164247,
+        "num": 164247,
+        "word": "AI爆发对大学生选专业的影响",
+        "onboard_time": 1679642969,
+        "rank": 25,
+        "category": "科技,教育"
+      },
+      {
+        "raw_hot": 159358,
+        "num": 159358,
+        "word": "鹿晗第一次来到东北澡堂的反应",
+        "onboard_time": 1679636847,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159077,
+        "num": 159077,
+        "word": "重庆永川警方通报",
+        "onboard_time": 1679641529,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158848,
+        "num": 158848,
+        "word": "EXO见面会视频",
+        "onboard_time": 1679643867,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 158645,
+        "num": 158645,
+        "word": "深海",
+        "onboard_time": 1679648609,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 158368,
+        "num": 158368,
+        "word": "吴磊放下男德",
+        "onboard_time": 1679629771,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 148239,
+        "num": 148239,
+        "word": "女子长期遭家暴因感情深不愿离婚",
+        "onboard_time": 1679628388,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133599,
+        "num": 133599,
+        "word": "宁艺卓的变幻卡",
+        "onboard_time": 1679645967,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128928,
+        "num": 128928,
+        "word": "一段感情从好好说话开始",
+        "onboard_time": 1679644649,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 124572,
+        "num": 124572,
+        "word": "朴叙俊IU将出演出差十五夜",
+        "onboard_time": 1679639850,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123575,
+        "num": 123575,
+        "word": "广州冰雹",
+        "onboard_time": 1679625808,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120419,
+        "num": 120419,
+        "word": "把我家当成月子中心的猫咪",
+        "onboard_time": 1679647167,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120293,
+        "num": 120293,
+        "word": "重庆农行",
+        "onboard_time": 1679635713,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117204,
+        "num": 117204,
+        "word": "东南vip",
+        "onboard_time": 1679642849,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 103789,
+        "num": 103789,
+        "word": "这才是我想上的早八",
+        "onboard_time": 1679644769,
+        "rank": 39,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 101240,
+        "num": 101240,
+        "word": "大熊猫泡澡也太像人了吧",
+        "onboard_time": 1679630136,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 99306,
+        "num": 99306,
+        "word": "刘昊然大侦探哭戏",
+        "onboard_time": 1679648786,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98600,
+        "num": 98600,
+        "word": "张杰演唱会新增郑州站沈阳站",
+        "onboard_time": 1679634334,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 96224,
+        "num": 96224,
+        "word": "泰国华人回应赴泰旅游被嘎腰子",
+        "onboard_time": 1679624848,
+        "rank": 43,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 94652,
+        "num": 94652,
+        "word": "猫咪舔毛被打断是什么反应",
+        "onboard_time": 1679633734,
+        "rank": 44,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 94640,
+        "num": 94640,
+        "word": "半天妖烤鱼两涉事门店永久关停",
+        "onboard_time": 1679633612,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92588,
+        "num": 92588,
+        "word": "家长称4名失联男孩已在缅甸",
+        "onboard_time": 1679624308,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91206,
+        "num": 91206,
+        "word": "我的宝宝一夜之间怎么啦",
+        "onboard_time": 1679632294,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87473,
+        "num": 87473,
+        "word": "井柏然谭松韵洗脚花絮",
+        "onboard_time": 1679643026,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 82605,
+        "num": 82605,
+        "word": "CBA全明星",
+        "onboard_time": 1679649328,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的天下情怀#"
+    }
+  }
+}
