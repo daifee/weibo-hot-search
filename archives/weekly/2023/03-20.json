@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679678181366,
+  "endTime": 1679679224921,
   "band_list": [
     {
       "raw_hot": 10450851,
@@ -11019,6 +11019,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 117268,
+      "num": 117268,
+      "word": "网上炫富女子账号已被封",
+      "onboard_time": 1679677939,
+      "rank": 49,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 116171,
       "num": 116171,
       "word": "山东基建巨无霸有多硬核",
@@ -11667,12 +11675,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 44367,
-      "num": 44367,
-      "word": "网上炫富女子账号已被封",
-      "onboard_time": 1679677939,
-      "rank": 49,
-      "category": "社会新闻,财经"
+      "raw_hot": 42135,
+      "num": 42135,
+      "word": "小智故事最终章",
+      "onboard_time": 1679678359,
+      "rank": 46,
+      "category": "动漫,影视"
     },
     {
       "raw_hot": 42115,
@@ -11705,6 +11713,14 @@
       "onboard_time": 1679344574,
       "rank": 35,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 38386,
+      "num": 38386,
+      "word": "年轻人摆摊主打自己想吃",
+      "onboard_time": 1679677519,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 38078,
