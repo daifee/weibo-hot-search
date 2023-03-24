@@ -1,6 +1,6 @@
 {
   "startTime": 1679675078237,
-  "endTime": 1679686398964,
+  "endTime": 1679689136607,
   "band_list": [
     {
       "raw_hot": 1115573,
@@ -419,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 63264,
+      "num": 63264,
+      "word": "警方通报宁波一车撞人后倒回碾压",
+      "onboard_time": 1679685912,
+      "rank": 48,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 47588,
       "num": 47588,
       "word": "年轻人摆摊主打自己想吃",
@@ -465,14 +473,6 @@
       "onboard_time": 1679681594,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 14206,
-      "num": 18394,
-      "word": "警方通报宁波一车撞人后倒回碾压",
-      "onboard_time": 1679685912,
-      "rank": 48,
-      "category": "社会负面"
     }
   ],
   "hotgov_list": [
