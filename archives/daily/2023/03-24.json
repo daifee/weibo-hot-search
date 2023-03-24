@@ -1,6 +1,6 @@
 {
   "startTime": 1679588746312,
-  "endTime": 1679661163820,
+  "endTime": 1679662197962,
   "band_list": [
     {
       "raw_hot": 10450851,
@@ -27,8 +27,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 3583850,
-      "num": 3583850,
+      "raw_hot": 4565383,
+      "num": 4565383,
       "word": "月亮星星在一起啦",
       "onboard_time": 1679659529,
       "rank": 0,
@@ -228,7 +228,7 @@
     },
     {
       "raw_hot": 1071884,
-      "num": 260200,
+      "num": 267456,
       "word": "周公子",
       "onboard_time": 1679652328,
       "rank": 25,
@@ -387,20 +387,20 @@
       "category": "科技"
     },
     {
+      "raw_hot": 822000,
+      "num": 822000,
+      "word": "丫丫叼着竹子爬高高",
+      "onboard_time": 1679657428,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 802822,
       "num": 460962,
       "word": "张凌赫喂白鹿吃薯条",
       "onboard_time": 1679653649,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 800318,
-      "num": 800318,
-      "word": "丫丫叼着竹子爬高高",
-      "onboard_time": 1679657428,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 790387,
@@ -428,7 +428,7 @@
     },
     {
       "raw_hot": 748988,
-      "num": 255270,
+      "num": 273379,
       "word": "切糕老板多切3斤威胁不买就报警",
       "onboard_time": 1679650050,
       "rank": 29,
@@ -473,6 +473,14 @@
       "onboard_time": 1679615786,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 651750,
+      "num": 651750,
+      "word": "忍网红路牌很久了",
+      "onboard_time": 1679657488,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 647288,
@@ -547,20 +555,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 605097,
+      "num": 605097,
+      "word": "娱乐圈过年了",
+      "onboard_time": 1679658751,
+      "rank": 9,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 604261,
       "num": 604261,
       "word": "重庆农行",
       "onboard_time": 1679635713,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 587875,
-      "num": 587875,
-      "word": "忍网红路牌很久了",
-      "onboard_time": 1679657488,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 587818,
@@ -635,14 +643,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 534715,
-      "num": 534715,
-      "word": "娱乐圈过年了",
-      "onboard_time": 1679658751,
-      "rank": 9,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 532181,
       "num": 532181,
       "word": "鹿晗红色亮片真空西装造型",
@@ -659,8 +659,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 520503,
-      "num": 520503,
+      "raw_hot": 526073,
+      "num": 526073,
       "word": "月掩金星",
       "onboard_time": 1679657789,
       "rank": 11,
@@ -689,6 +689,14 @@
       "onboard_time": 1679641649,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 495285,
+      "num": 495285,
+      "word": "90后情侣3年攒100万裸辞飞荷兰",
+      "onboard_time": 1679660248,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 494604,
@@ -875,6 +883,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 376572,
+      "num": 376572,
+      "word": "张婧仪录制奔跑吧",
+      "onboard_time": 1679661386,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 374606,
       "num": 254421,
       "word": "青环制片人邀请徐明浩的原因",
@@ -987,6 +1003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 308172,
+      "num": 308172,
+      "word": "何洁素颜",
+      "onboard_time": 1679659469,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 305123,
       "num": 305123,
       "word": "于正评价田曦薇很甜",
@@ -1025,6 +1049,14 @@
       "onboard_time": 1679633315,
       "rank": 25,
       "category": "教育"
+    },
+    {
+      "raw_hot": 292449,
+      "num": 292449,
+      "word": "如何看待丝芭艺人频繁解约",
+      "onboard_time": 1679661029,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 289754,
@@ -1139,14 +1171,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 255019,
-      "num": 255019,
-      "word": "如何看待丝芭艺人频繁解约",
-      "onboard_time": 1679661029,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 254263,
       "num": 254263,
       "word": "AI爆发对大学生选专业的影响",
@@ -1161,14 +1185,6 @@
       "onboard_time": 1679650226,
       "rank": 36,
       "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 246571,
-      "num": 246571,
-      "word": "何洁素颜",
-      "onboard_time": 1679659469,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 243762,
@@ -1307,6 +1323,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 215460,
+      "num": 215460,
+      "word": "大学的猫对大学生有多信任",
+      "onboard_time": 1679658329,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 213698,
       "num": 213698,
       "word": "你永远不知道小狗肚子里有什么",
@@ -1377,14 +1401,6 @@
       "onboard_time": 1679613383,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 205007,
-      "num": 205007,
-      "word": "90后情侣3年攒100万裸辞飞荷兰",
-      "onboard_time": 1679660248,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 204169,
@@ -1675,6 +1691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161624,
+      "num": 161624,
+      "word": "广东人吃辣主打的是氛围感",
+      "onboard_time": 1679660728,
+      "rank": 45,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 159564,
       "num": 159564,
       "word": "张嘉倪露腰牛仔裙",
@@ -1721,14 +1745,6 @@
       "onboard_time": 1679613801,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 155073,
-      "num": 155073,
-      "word": "大学的猫对大学生有多信任",
-      "onboard_time": 1679658329,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 152594,
@@ -1883,12 +1899,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 134092,
+      "num": 134092,
+      "word": "路炎晨陪归晓做产检",
+      "onboard_time": 1679660068,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 133189,
       "num": 133189,
       "word": "NewJeans正在制作新专辑",
       "onboard_time": 1679591657,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 131908,
+      "num": 131908,
+      "word": "TT对战EDG",
+      "onboard_time": 1679659708,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 131557,
@@ -1947,14 +1979,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 125836,
-      "num": 125836,
-      "word": "广东人吃辣主打的是氛围感",
-      "onboard_time": 1679660728,
-      "rank": 45,
-      "category": "美食,幽默"
-    },
-    {
       "raw_hot": 124020,
       "num": 194300,
       "word": "情侣恋爱一年后的合照变化",
@@ -1969,14 +1993,6 @@
       "onboard_time": 1679638887,
       "rank": 48,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 123257,
-      "num": 123257,
-      "word": "路炎晨陪归晓做产检",
-      "onboard_time": 1679660068,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 120755,
@@ -2057,14 +2073,6 @@
       "onboard_time": 1679576248,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 104690,
-      "num": 104690,
-      "word": "TT对战EDG",
-      "onboard_time": 1679659708,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 103161,
@@ -2251,6 +2259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 35017,
+      "num": 378765,
+      "word": "罗永浩许愿成为行业明灯",
+      "onboard_time": 1679659227,
+      "rank": 14,
+      "category": "科技"
+    },
+    {
       "raw_hot": 33093,
       "num": 29821,
       "word": "哭砂",
@@ -2265,14 +2281,6 @@
       "onboard_time": 1679599632,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 28718,
-      "num": 367530,
-      "word": "罗永浩许愿成为行业明灯",
-      "onboard_time": 1679659227,
-      "rank": 14,
-      "category": "科技"
     },
     {
       "raw_hot": 18463,

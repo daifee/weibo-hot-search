@@ -1,0 +1,410 @@
+{
+  "runTime": 1679662197962,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4565383,
+        "num": 4565383,
+        "word": "月亮星星在一起啦",
+        "onboard_time": 1679659529,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 887467,
+        "num": 887467,
+        "word": "54岁女子生前贷款85万打赏男主播",
+        "onboard_time": 1679656288,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36409,
+        "num": 823381,
+        "word": "看祖国大地春景如画",
+        "onboard_time": 1679651009,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1304113,
+        "num": 822737,
+        "word": "半个娱乐圈明星都在上海",
+        "onboard_time": 1679635950,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 822000,
+        "num": 822000,
+        "word": "丫丫叼着竹子爬高高",
+        "onboard_time": 1679657428,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 690144,
+        "num": 690144,
+        "word": "TFBOYS 微博之夜",
+        "onboard_time": 1679623707,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 651750,
+        "num": 651750,
+        "word": "忍网红路牌很久了",
+        "onboard_time": 1679657488,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 605097,
+        "num": 605097,
+        "word": "娱乐圈过年了",
+        "onboard_time": 1679658751,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 575652,
+        "num": 575652,
+        "word": "库克现身北京",
+        "onboard_time": 1679654428,
+        "rank": 8,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 526073,
+        "num": 526073,
+        "word": "月掩金星",
+        "onboard_time": 1679657789,
+        "rank": 9,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 792827,
+        "num": 514240,
+        "word": "疑似孙女炫富涉事局长退休前成立公司",
+        "onboard_time": 1679652448,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 495285,
+        "num": 495285,
+        "word": "90后情侣3年攒100万裸辞飞荷兰",
+        "onboard_time": 1679660248,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 457417,
+        "num": 457417,
+        "word": "聂小雨假死",
+        "onboard_time": 1679654067,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 385887,
+        "num": 385887,
+        "word": "张凌赫喂白鹿吃薯条",
+        "onboard_time": 1679653649,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35017,
+        "num": 378765,
+        "word": "罗永浩许愿成为行业明灯",
+        "onboard_time": 1679659227,
+        "rank": 14,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 376572,
+        "num": 376572,
+        "word": "张婧仪录制奔跑吧",
+        "onboard_time": 1679661386,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 326085,
+        "num": 326085,
+        "word": "郭敬明说虞书欣天天在现场熬夜",
+        "onboard_time": 1679655329,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 308172,
+        "num": 308172,
+        "word": "何洁素颜",
+        "onboard_time": 1679659469,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 292449,
+        "num": 292449,
+        "word": "如何看待丝芭艺人频繁解约",
+        "onboard_time": 1679661029,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280363,
+        "num": 280363,
+        "word": "咒术回战",
+        "onboard_time": 1679654067,
+        "rank": 19,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 1486176,
+        "num": 278086,
+        "word": "女患者正赤裸上身医生推门而入",
+        "onboard_time": 1679649749,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343682,
+        "num": 276747,
+        "word": "前交通局长回应孙女炫富贪腐言论",
+        "onboard_time": 1679641828,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336044,
+        "num": 273379,
+        "word": "切糕老板多切3斤威胁不买就报警",
+        "onboard_time": 1679650050,
+        "rank": 22,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 335807,
+        "num": 267607,
+        "word": "月亮 星星",
+        "onboard_time": 1679656468,
+        "rank": 23,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 267456,
+        "num": 267456,
+        "word": "周公子",
+        "onboard_time": 1679652328,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267347,
+        "num": 267347,
+        "word": "金钟仁拿一位后哭了",
+        "onboard_time": 1679653169,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215460,
+        "num": 215460,
+        "word": "大学的猫对大学生有多信任",
+        "onboard_time": 1679658329,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 215342,
+        "num": 215342,
+        "word": "小欢喜林磊儿近照",
+        "onboard_time": 1679652087,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207161,
+        "num": 207161,
+        "word": "千万不要买这样的氛围灯",
+        "onboard_time": 1679654668,
+        "rank": 28,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 196068,
+        "num": 196068,
+        "word": "失业之后过上了双休生活",
+        "onboard_time": 1679646927,
+        "rank": 29,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 183781,
+        "num": 183781,
+        "word": "今日上海机场工作人员内心belike",
+        "onboard_time": 1679645848,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 175428,
+        "num": 175428,
+        "word": "铃芽之旅超你的名字首日票房",
+        "onboard_time": 1679650226,
+        "rank": 31,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 167078,
+        "num": 167078,
+        "word": "小米发布2022年财报",
+        "onboard_time": 1679658388,
+        "rank": 32,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 164444,
+        "num": 164444,
+        "word": "哈哈哈哈哈",
+        "onboard_time": 1679660848,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163397,
+        "num": 163397,
+        "word": "鹿晗红色亮片真空西装造型",
+        "onboard_time": 1679652208,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 163031,
+        "num": 163031,
+        "word": "铃芽之旅上映",
+        "onboard_time": 1679646026,
+        "rank": 35,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 161624,
+        "num": 161624,
+        "word": "广东人吃辣主打的是氛围感",
+        "onboard_time": 1679660728,
+        "rank": 36,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 157956,
+        "num": 157956,
+        "word": "姚琛送ITZY专辑",
+        "onboard_time": 1679656648,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 151159,
+        "num": 151159,
+        "word": "肖战微博之夜倒计时VCR",
+        "onboard_time": 1679644709,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 150439,
+        "num": 150439,
+        "word": "把恋爱谈成最快乐的样子",
+        "onboard_time": 1679655629,
+        "rank": 39,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 139688,
+        "num": 139688,
+        "word": "张大大 不是我哈我只是客服",
+        "onboard_time": 1679646147,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 137928,
+        "num": 137928,
+        "word": "成毅送签名照被拒绝",
+        "onboard_time": 1679651491,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135187,
+        "num": 135187,
+        "word": "李一桐毕雯珺你好星期六对视花絮",
+        "onboard_time": 1679658688,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134929,
+        "num": 134929,
+        "word": "宝可梦",
+        "onboard_time": 1679656110,
+        "rank": 43,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 134092,
+        "num": 134092,
+        "word": "路炎晨陪归晓做产检",
+        "onboard_time": 1679660068,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 134012,
+        "num": 134012,
+        "word": "人在上班心在上海",
+        "onboard_time": 1679650769,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 131908,
+        "num": 131908,
+        "word": "TT对战EDG",
+        "onboard_time": 1679659708,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 124899,
+        "num": 124899,
+        "word": "崩坏星穹铁道",
+        "onboard_time": 1679660609,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 109282,
+        "num": 124455,
+        "word": "重庆城市科技学院",
+        "onboard_time": 1679645787,
+        "rank": 48,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 106892,
+        "num": 124184,
+        "word": "NCTDREAM中国人气",
+        "onboard_time": 1679651370,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的天下情怀#"
+    }
+  }
+}

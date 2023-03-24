@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679661163820,
+  "endTime": 1679662197962,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -139,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 4565383,
+      "num": 4565383,
+      "word": "月亮星星在一起啦",
+      "onboard_time": 1679659529,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 4489001,
       "num": 4489001,
       "word": "人民网评鸡你太美是恶俗烂梗",
@@ -192,14 +200,6 @@
       "word": "重庆大学",
       "onboard_time": 1679109331,
       "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 3583850,
-      "num": 3583850,
-      "word": "月亮星星在一起啦",
-      "onboard_time": 1679659529,
-      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -4732,7 +4732,7 @@
     },
     {
       "raw_hot": 1071884,
-      "num": 260200,
+      "num": 267456,
       "word": "周公子",
       "onboard_time": 1679652328,
       "rank": 25,
@@ -7627,6 +7627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 822000,
+      "num": 822000,
+      "word": "丫丫叼着竹子爬高高",
+      "onboard_time": 1679657428,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 821001,
       "num": 625082,
       "word": "24岁高颜值女孩回应大学毕业养猪",
@@ -7913,14 +7921,6 @@
       "onboard_time": 1678861646,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 800318,
-      "num": 800318,
-      "word": "丫丫叼着竹子爬高高",
-      "onboard_time": 1679657428,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 800279,
@@ -8724,7 +8724,7 @@
     },
     {
       "raw_hot": 748988,
-      "num": 255270,
+      "num": 273379,
       "word": "切糕老板多切3斤威胁不买就报警",
       "onboard_time": 1679650050,
       "rank": 29,
@@ -10659,6 +10659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 651750,
+      "num": 651750,
+      "word": "忍网红路牌很久了",
+      "onboard_time": 1679657488,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 651678,
       "num": 429779,
       "word": "罗渽民分享没公开过的照片",
@@ -11859,6 +11867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 605097,
+      "num": 605097,
+      "word": "娱乐圈过年了",
+      "onboard_time": 1679658751,
+      "rank": 9,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 605062,
       "num": 605062,
       "word": "准备摆摊的人有福了",
@@ -12257,14 +12273,6 @@
       "onboard_time": 1679132486,
       "rank": 7,
       "category": "情感"
-    },
-    {
-      "raw_hot": 587875,
-      "num": 587875,
-      "word": "忍网红路牌很久了",
-      "onboard_time": 1679657488,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 587828,
@@ -13859,14 +13867,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 534715,
-      "num": 534715,
-      "word": "娱乐圈过年了",
-      "onboard_time": 1679658751,
-      "rank": 9,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 534702,
       "num": 534702,
       "word": "人世间周父周母HE了",
@@ -14179,6 +14179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 526073,
+      "num": 526073,
+      "word": "月掩金星",
+      "onboard_time": 1679657789,
+      "rank": 11,
+      "category": "自然"
+    },
+    {
       "raw_hot": 525787,
       "num": 386522,
       "word": "戚薇说李承铉是秃头小宝贝",
@@ -14385,14 +14393,6 @@
       "onboard_time": 1679372132,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 520503,
-      "num": 520503,
-      "word": "月掩金星",
-      "onboard_time": 1679657789,
-      "rank": 11,
-      "category": "自然"
     },
     {
       "raw_hot": 520260,
@@ -15289,6 +15289,14 @@
       "onboard_time": 1678672466,
       "rank": 37,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 495285,
+      "num": 495285,
+      "word": "90后情侣3年攒100万裸辞飞荷兰",
+      "onboard_time": 1679660248,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 494949,
@@ -20187,6 +20195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 376572,
+      "num": 376572,
+      "word": "张婧仪录制奔跑吧",
+      "onboard_time": 1679661386,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 376455,
       "num": 376455,
       "word": "张杰演唱会",
@@ -24251,6 +24267,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 308172,
+      "num": 308172,
+      "word": "何洁素颜",
+      "onboard_time": 1679659469,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 308020,
       "num": 250747,
       "word": "公司请外国男模给女员工送花过节",
@@ -25185,6 +25209,14 @@
       "onboard_time": 1678652111,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 292449,
+      "num": 292449,
+      "word": "如何看待丝芭艺人频繁解约",
+      "onboard_time": 1679661029,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 292405,
@@ -27715,14 +27747,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 255019,
-      "num": 255019,
-      "word": "如何看待丝芭艺人频繁解约",
-      "onboard_time": 1679661029,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 254927,
       "num": 232112,
       "word": "美国硅谷银行请求员工一起想办法",
@@ -28345,14 +28369,6 @@
       "onboard_time": 1678698025,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 246571,
-      "num": 246571,
-      "word": "何洁素颜",
-      "onboard_time": 1679659469,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 246525,
@@ -31451,6 +31467,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 215460,
+      "num": 215460,
+      "word": "大学的猫对大学生有多信任",
+      "onboard_time": 1679658329,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 215431,
       "num": 191866,
       "word": "徐冬冬吴卓羲老板娘3开机路透",
@@ -32841,14 +32865,6 @@
       "onboard_time": 1678061126,
       "rank": 24,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 205007,
-      "num": 205007,
-      "word": "90后情侣3年攒100万裸辞飞荷兰",
-      "onboard_time": 1679660248,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 204991,
@@ -39627,6 +39643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161624,
+      "num": 161624,
+      "word": "广东人吃辣主打的是氛围感",
+      "onboard_time": 1679660728,
+      "rank": 45,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 161621,
       "num": 161621,
       "word": "热爱KPL的外卖小哥",
@@ -40353,14 +40377,6 @@
       "onboard_time": 1677923547,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 155073,
-      "num": 155073,
-      "word": "大学的猫对大学生有多信任",
-      "onboard_time": 1679658329,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 155070,
@@ -43187,6 +43203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 134092,
+      "num": 134092,
+      "word": "路炎晨陪归晓做产检",
+      "onboard_time": 1679660068,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 134040,
       "num": 134040,
       "word": "科学家揭示斑马黑白条纹之谜",
@@ -43433,6 +43457,14 @@
       "onboard_time": 1679491114,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 131908,
+      "num": 131908,
+      "word": "TT对战EDG",
+      "onboard_time": 1679659708,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 131701,
@@ -44179,14 +44211,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 125836,
-      "num": 125836,
-      "word": "广东人吃辣主打的是氛围感",
-      "onboard_time": 1679660728,
-      "rank": 45,
-      "category": "美食,幽默"
-    },
-    {
       "raw_hot": 125817,
       "num": 125817,
       "word": "TWICE新歌初舞台直拍",
@@ -44416,14 +44440,6 @@
       "word": "刘润南墨镜摩托造型",
       "onboard_time": 1679500527,
       "rank": 33,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 123257,
-      "num": 123257,
-      "word": "路炎晨陪归晓做产检",
-      "onboard_time": 1679660068,
-      "rank": 46,
       "category": "影视"
     },
     {
@@ -46329,14 +46345,6 @@
       "onboard_time": 1678353806,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 104690,
-      "num": 104690,
-      "word": "TT对战EDG",
-      "onboard_time": 1679659708,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 104598,
@@ -49083,6 +49091,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 35017,
+      "num": 378765,
+      "word": "罗永浩许愿成为行业明灯",
+      "onboard_time": 1679659227,
+      "rank": 14,
+      "category": "科技"
+    },
+    {
       "raw_hot": 34677,
       "num": 34677,
       "word": "普通蓝莓vs蓝莓plus",
@@ -49281,14 +49297,6 @@
       "onboard_time": 1678050612,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 28718,
-      "num": 367530,
-      "word": "罗永浩许愿成为行业明灯",
-      "onboard_time": 1679659227,
-      "rank": 14,
-      "category": "科技"
     },
     {
       "raw_hot": 28239,
