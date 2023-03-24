@@ -1,6 +1,6 @@
 {
   "startTime": 1679588746312,
-  "endTime": 1679621025442,
+  "endTime": 1679622471984,
   "band_list": [
     {
       "raw_hot": 2414058,
@@ -19,20 +19,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1766585,
+      "num": 1766585,
+      "word": "劳荣枝死刑复核最新进展",
+      "onboard_time": 1679617829,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1668289,
       "num": 1668289,
       "word": "南通大学夜闯女寝男生被开除学籍",
       "onboard_time": 1679616928,
       "rank": 1,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1522606,
-      "num": 1522606,
-      "word": "劳荣枝死刑复核最新进展",
-      "onboard_time": 1679617829,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1428984,
@@ -51,8 +51,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1127357,
-      "num": 1127357,
+      "raw_hot": 1128508,
+      "num": 1128508,
       "word": "女子实名举报医生丈夫出轨",
       "onboard_time": 1679617348,
       "rank": 4,
@@ -75,16 +75,24 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 948178,
+      "num": 948178,
+      "word": "泰国旅游骗局视频已被下架",
+      "onboard_time": 1679619088,
+      "rank": 7,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 917738,
-      "num": 561401,
+      "num": 634227,
       "word": "花三三道歉",
       "onboard_time": 1679614943,
       "rank": 11,
       "category": "网红"
     },
     {
-      "raw_hot": 828074,
-      "num": 828074,
+      "raw_hot": 845242,
+      "num": 845242,
       "word": "白鹿张凌赫 遮太阳",
       "onboard_time": 1679617168,
       "rank": 6,
@@ -99,28 +107,28 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 782312,
-      "num": 782312,
-      "word": "泰国旅游骗局视频已被下架",
-      "onboard_time": 1679619088,
-      "rank": 7,
-      "category": "社会新闻,旅游"
+      "raw_hot": 652870,
+      "num": 652870,
+      "word": "阿根廷世界杯夺冠庆典",
+      "onboard_time": 1679615786,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 638939,
-      "num": 547604,
+      "num": 629992,
       "word": "文淇演我看到刘亦菲",
       "onboard_time": 1679615306,
       "rank": 12,
       "category": "作品衍生"
     },
     {
-      "raw_hot": 627211,
-      "num": 627211,
-      "word": "阿根廷世界杯夺冠庆典",
-      "onboard_time": 1679615786,
-      "rank": 8,
-      "category": "体育"
+      "raw_hot": 637750,
+      "num": 637750,
+      "word": "女生地摊套玩具熊拆开发现摄像头",
+      "onboard_time": 1679618308,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 608606,
@@ -136,14 +144,6 @@
       "word": "夫妻相约自杀妻子未如约被判刑",
       "onboard_time": 1679564728,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 587374,
-      "num": 587374,
-      "word": "女生地摊套玩具熊拆开发现摄像头",
-      "onboard_time": 1679618308,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -195,12 +195,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 485582,
+      "num": 485582,
+      "word": "ChatGPT插件",
+      "onboard_time": 1679620948,
+      "rank": 47,
+      "category": "科技"
+    },
+    {
       "raw_hot": 460812,
       "num": 460812,
       "word": "警方回应13岁女孩遭霸凌",
       "onboard_time": 1679616087,
       "rank": 16,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 449662,
+      "num": 449662,
+      "word": "白客因身体不适无法出席新片路演",
+      "onboard_time": 1679620109,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 419704,
@@ -217,6 +233,14 @@
       "onboard_time": 1679583509,
       "rank": 7,
       "category": "综艺,幽默"
+    },
+    {
+      "raw_hot": 370302,
+      "num": 370302,
+      "word": "易烊千玺微博之夜宣传图",
+      "onboard_time": 1679622145,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 366247,
@@ -249,14 +273,6 @@
       "onboard_time": 1679615064,
       "rank": 20,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 340326,
-      "num": 203432,
-      "word": "白客因身体不适无法出席新片路演",
-      "onboard_time": 1679620109,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 322748,
@@ -403,6 +419,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 214195,
+      "num": 214195,
+      "word": "团时朗去世",
+      "onboard_time": 1679622387,
+      "rank": 28,
+      "category": "社会新闻,影视"
+    },
+    {
       "raw_hot": 209848,
       "num": 209848,
       "word": "许嵩 演唱会",
@@ -417,6 +441,14 @@
       "onboard_time": 1679588423,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 206917,
+      "num": 206917,
+      "word": "那英说做真人秀不一定讲真话",
+      "onboard_time": 1679621908,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 206177,
@@ -449,6 +481,14 @@
       "onboard_time": 1679588303,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192401,
+      "num": 192401,
+      "word": "杨紫199爱白西装",
+      "onboard_time": 1679621428,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 188381,
@@ -515,6 +555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 170551,
+      "num": 170551,
+      "word": "杰克奥特曼",
+      "onboard_time": 1679622327,
+      "rank": 34,
+      "category": "社会新闻,影视"
+    },
+    {
       "raw_hot": 159564,
       "num": 159564,
       "word": "张嘉倪露腰牛仔裙",
@@ -537,6 +585,14 @@
       "onboard_time": 1679583151,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 156258,
+      "num": 156258,
+      "word": "高校图书馆设发呆区能吃东西能看景",
+      "onboard_time": 1679622145,
+      "rank": 38,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 155130,
@@ -569,6 +625,14 @@
       "onboard_time": 1679613439,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 145633,
+      "num": 145633,
+      "word": "广州天气",
+      "onboard_time": 1679622026,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 144835,
@@ -625,14 +689,6 @@
       "onboard_time": 1679590159,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 124022,
-      "num": 124022,
-      "word": "ChatGPT插件",
-      "onboard_time": 1679620948,
-      "rank": 47,
-      "category": "科技"
     },
     {
       "raw_hot": 124020,

@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679621025442,
+  "endTime": 1679622471984,
   "band_list": [
     {
       "raw_hot": 7256959,
@@ -307,6 +307,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1766585,
+      "num": 1766585,
+      "word": "劳荣枝死刑复核最新进展",
+      "onboard_time": 1679617829,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1762559,
       "num": 1762559,
       "word": "乐华娱乐被列为经营异常",
@@ -424,14 +432,6 @@
       "word": "中缅泰三边警察首脑开会决议打击犯罪",
       "onboard_time": 1679546912,
       "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1522606,
-      "num": 1522606,
-      "word": "劳荣枝死刑复核最新进展",
-      "onboard_time": 1679617829,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -963,8 +963,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1127357,
-      "num": 1127357,
+      "raw_hot": 1128508,
+      "num": 1128508,
       "word": "女子实名举报医生丈夫出轨",
       "onboard_time": 1679617348,
       "rank": 4,
@@ -1379,6 +1379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 948178,
+      "num": 948178,
+      "word": "泰国旅游骗局视频已被下架",
+      "onboard_time": 1679619088,
+      "rank": 7,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 939388,
       "num": 939388,
       "word": "徐明浩或将常驻青春环游记",
@@ -1444,7 +1452,7 @@
     },
     {
       "raw_hot": 917738,
-      "num": 561401,
+      "num": 634227,
       "word": "花三三道歉",
       "onboard_time": 1679614943,
       "rank": 11,
@@ -1627,6 +1635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 845242,
+      "num": 845242,
+      "word": "白鹿张凌赫 遮太阳",
+      "onboard_time": 1679617168,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 844737,
       "num": 844737,
       "word": "曹德旺谈大学生热衷考公务员",
@@ -1673,14 +1689,6 @@
       "onboard_time": 1679374472,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 828074,
-      "num": 828074,
-      "word": "白鹿张凌赫 遮太阳",
-      "onboard_time": 1679617168,
-      "rank": 6,
-      "category": "影视"
     },
     {
       "raw_hot": 823970,
@@ -1785,14 +1793,6 @@
       "onboard_time": 1679459913,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 782312,
-      "num": 782312,
-      "word": "泰国旅游骗局视频已被下架",
-      "onboard_time": 1679619088,
-      "rank": 7,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 781075,
@@ -2211,6 +2211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 652870,
+      "num": 652870,
+      "word": "阿根廷世界杯夺冠庆典",
+      "onboard_time": 1679615786,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 652041,
       "num": 336973,
       "word": "男子将200万房子80元卖了",
@@ -2300,11 +2308,19 @@
     },
     {
       "raw_hot": 638939,
-      "num": 547604,
+      "num": 629992,
       "word": "文淇演我看到刘亦菲",
       "onboard_time": 1679615306,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 637750,
+      "num": 637750,
+      "word": "女生地摊套玩具熊拆开发现摄像头",
+      "onboard_time": 1679618308,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 637141,
@@ -2369,14 +2385,6 @@
       "onboard_time": 1679375430,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 627211,
-      "num": 627211,
-      "word": "阿根廷世界杯夺冠庆典",
-      "onboard_time": 1679615786,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 624734,
@@ -2553,14 +2561,6 @@
       "onboard_time": 1679448090,
       "rank": 44,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 587374,
-      "num": 587374,
-      "word": "女生地摊套玩具熊拆开发现摄像头",
-      "onboard_time": 1679618308,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 586874,
@@ -3211,6 +3211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 485582,
+      "num": 485582,
+      "word": "ChatGPT插件",
+      "onboard_time": 1679620948,
+      "rank": 47,
+      "category": "科技"
+    },
+    {
       "raw_hot": 485436,
       "num": 485436,
       "word": "你支持家暴入刑吗",
@@ -3449,6 +3457,14 @@
       "onboard_time": 1679373213,
       "rank": 22,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 449662,
+      "num": 449662,
+      "word": "白客因身体不适无法出席新片路演",
+      "onboard_time": 1679620109,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 449026,
@@ -4155,6 +4171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 370302,
+      "num": 370302,
+      "word": "易烊千玺微博之夜宣传图",
+      "onboard_time": 1679622145,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 369715,
       "num": 342293,
       "word": "女大学生把床垫当成被子盖了一年",
@@ -4432,14 +4456,6 @@
       "word": "王源包场支持不止不休",
       "onboard_time": 1679313152,
       "rank": 9,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 340326,
-      "num": 203432,
-      "word": "白客因身体不适无法出席新片路演",
-      "onboard_time": 1679620109,
-      "rank": 30,
       "category": "影视"
     },
     {
@@ -6427,6 +6443,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 214195,
+      "num": 214195,
+      "word": "团时朗去世",
+      "onboard_time": 1679622387,
+      "rank": 28,
+      "category": "社会新闻,影视"
+    },
+    {
       "raw_hot": 214191,
       "num": 214191,
       "word": "黑暗荣耀演员们4K无滤镜无美颜",
@@ -6609,6 +6633,14 @@
       "onboard_time": 1679488890,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 206917,
+      "num": 206917,
+      "word": "那英说做真人秀不一定讲真话",
+      "onboard_time": 1679621908,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 206530,
@@ -7193,6 +7225,14 @@
       "onboard_time": 1679354240,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192401,
+      "num": 192401,
+      "word": "杨紫199爱白西装",
+      "onboard_time": 1679621428,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 191993,
@@ -7915,6 +7955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 170551,
+      "num": 170551,
+      "word": "杰克奥特曼",
+      "onboard_time": 1679622327,
+      "rank": 34,
+      "category": "社会新闻,影视"
+    },
+    {
       "raw_hot": 170298,
       "num": 170298,
       "word": "做饭舞娘",
@@ -8259,6 +8307,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 156258,
+      "num": 156258,
+      "word": "高校图书馆设发呆区能吃东西能看景",
+      "onboard_time": 1679622145,
+      "rank": 38,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 155978,
       "num": 155978,
       "word": "电视剧人生之路",
@@ -8537,6 +8593,14 @@
       "onboard_time": 1679480729,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 145633,
+      "num": 145633,
+      "word": "广州天气",
+      "onboard_time": 1679622026,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 145465,
@@ -9137,14 +9201,6 @@
       "onboard_time": 1679232810,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 124022,
-      "num": 124022,
-      "word": "ChatGPT插件",
-      "onboard_time": 1679620948,
-      "rank": 47,
-      "category": "科技"
     },
     {
       "raw_hot": 123271,
