@@ -1,0 +1,410 @@
+{
+  "runTime": 1679675078237,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1115573,
+        "num": 1115573,
+        "word": "心疼一诺",
+        "onboard_time": 1679668470,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 783600,
+        "num": 783600,
+        "word": "陈赫脸盆砸在杜海涛头上",
+        "onboard_time": 1679671049,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67366,
+        "num": 615938,
+        "word": "中国杂交水稻推广到数十国家和地区",
+        "onboard_time": 1679667452,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 803627,
+        "num": 612228,
+        "word": "半个娱乐圈明星都在上海",
+        "onboard_time": 1679635950,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 603503,
+        "num": 603503,
+        "word": "毛晓彤新剧收视率破2",
+        "onboard_time": 1679667151,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 529555,
+        "num": 529555,
+        "word": "刘少林刘少昂加入天津短道速滑队",
+        "onboard_time": 1679666849,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 462016,
+        "num": 462016,
+        "word": "90后情侣3年攒100万裸辞飞荷兰",
+        "onboard_time": 1679660248,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 458579,
+        "num": 458579,
+        "word": "月亮星星在一起啦",
+        "onboard_time": 1679659529,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 433570,
+        "num": 433570,
+        "word": "水哥感叹中日心算又是平局",
+        "onboard_time": 1679673806,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 426026,
+        "num": 426026,
+        "word": "深圳6折人才房卖不动",
+        "onboard_time": 1679666609,
+        "rank": 9,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 844636,
+        "num": 424049,
+        "word": "赛琳娜为海莉发声",
+        "onboard_time": 1679662409,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 667275,
+        "num": 399425,
+        "word": "疑似孙女炫富涉事局长退休前成立公司",
+        "onboard_time": 1679652448,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373813,
+        "num": 373813,
+        "word": "周深 开会",
+        "onboard_time": 1679668950,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 346786,
+        "num": 346786,
+        "word": "张雨绮微博之夜礼服",
+        "onboard_time": 1679662890,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 295474,
+        "num": 295474,
+        "word": "张萌没想到听说你喜欢我爆了",
+        "onboard_time": 1679673927,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 291277,
+        "num": 291277,
+        "word": "丫丫叼着竹子爬高高",
+        "onboard_time": 1679657428,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284819,
+        "num": 284819,
+        "word": "鹿晗直播",
+        "onboard_time": 1679666731,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259006,
+        "num": 259006,
+        "word": "大侦探木偶2故事线",
+        "onboard_time": 1679672846,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250334,
+        "num": 250334,
+        "word": "54岁女子生前贷款85万打赏男主播",
+        "onboard_time": 1679656288,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236298,
+        "num": 236298,
+        "word": "忍网红路牌很久了",
+        "onboard_time": 1679657488,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 229582,
+        "num": 229582,
+        "word": "聂小雨假死",
+        "onboard_time": 1679654067,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207284,
+        "num": 207284,
+        "word": "最强大脑",
+        "onboard_time": 1679662288,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190047,
+        "num": 190047,
+        "word": "广东人吃辣主打的是氛围感",
+        "onboard_time": 1679660728,
+        "rank": 22,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 184130,
+        "num": 184130,
+        "word": "剑南春董事长被判有期徒刑5年罚4亿",
+        "onboard_time": 1679663971,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180158,
+        "num": 180158,
+        "word": "大学的猫对大学生有多信任",
+        "onboard_time": 1679658329,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 202053,
+        "num": 180149,
+        "word": "钟汉良唐嫣唱跳晴雅集",
+        "onboard_time": 1679673987,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178707,
+        "num": 178707,
+        "word": "苏醒的粤语",
+        "onboard_time": 1679671530,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175503,
+        "num": 175503,
+        "word": "娱乐圈过年了",
+        "onboard_time": 1679658751,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 156286,
+        "num": 156286,
+        "word": "切糕老板多切3斤威胁不买就报警",
+        "onboard_time": 1679650050,
+        "rank": 28,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 140891,
+        "num": 140891,
+        "word": "不建议在室内养郁金香",
+        "onboard_time": 1679673026,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 168653,
+        "num": 136796,
+        "word": "林俊杰唱新歌感谢林秋离",
+        "onboard_time": 1679671530,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 161377,
+        "num": 136063,
+        "word": "NCTDREAM说中文",
+        "onboard_time": 1679672248,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 150072,
+        "num": 134563,
+        "word": "铃芽之旅超你的名字首日票房",
+        "onboard_time": 1679650226,
+        "rank": 32,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 130748,
+        "num": 130748,
+        "word": "咒术回战",
+        "onboard_time": 1679654067,
+        "rank": 33,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 123809,
+        "num": 123809,
+        "word": "不得不承认这鱼汤是真的鲜",
+        "onboard_time": 1679669311,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138206,
+        "num": 123701,
+        "word": "张真源贺峻霖弹吉他",
+        "onboard_time": 1679672666,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135411,
+        "num": 123260,
+        "word": "何洁素颜",
+        "onboard_time": 1679659469,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122740,
+        "num": 122740,
+        "word": "库克现身北京",
+        "onboard_time": 1679654428,
+        "rank": 37,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 121771,
+        "num": 121771,
+        "word": "千万不要买这样的氛围灯",
+        "onboard_time": 1679654668,
+        "rank": 38,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 105908,
+        "num": 119159,
+        "word": "又见马龙许昕对练",
+        "onboard_time": 1679671227,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123672,
+        "num": 119126,
+        "word": "TFBOYS 微博之夜",
+        "onboard_time": 1679623707,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 123642,
+        "num": 118620,
+        "word": "蔡徐坤为微博之力点赞",
+        "onboard_time": 1679670956,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 117791,
+        "num": 117791,
+        "word": "郭敬明说虞书欣天天在现场熬夜",
+        "onboard_time": 1679655329,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 113817,
+        "num": 113817,
+        "word": "周震南健身成果",
+        "onboard_time": 1679665529,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103984,
+        "num": 103984,
+        "word": "张角喊AG",
+        "onboard_time": 1679664571,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 97561,
+        "num": 97561,
+        "word": "周公子",
+        "onboard_time": 1679652328,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96841,
+        "num": 96841,
+        "word": "EDG拿到复活甲",
+        "onboard_time": 1679664331,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 95724,
+        "num": 95724,
+        "word": "范丞丞说乐华演唱会还没通知我",
+        "onboard_time": 1679662409,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 90850,
+        "num": 90850,
+        "word": "冰冻芒果有多好吃",
+        "onboard_time": 1679668770,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 87816,
+        "num": 87816,
+        "word": "缓解压力真的很重要",
+        "onboard_time": 1679673086,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的天下情怀#"
+    }
+  }
+}

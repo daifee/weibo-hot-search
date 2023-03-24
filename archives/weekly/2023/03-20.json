@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679672038333,
+  "endTime": 1679675078237,
   "band_list": [
     {
       "raw_hot": 10450851,
@@ -4307,6 +4307,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 433570,
+      "num": 433570,
+      "word": "水哥感叹中日心算又是平局",
+      "onboard_time": 1679673806,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 432316,
       "num": 432316,
       "word": "杏花乌龙拿铁",
@@ -5907,6 +5915,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 295474,
+      "num": 295474,
+      "word": "张萌没想到听说你喜欢我爆了",
+      "onboard_time": 1679673927,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 295324,
       "num": 295324,
       "word": "林峯黄宗泽吴卓羲群名三个帅哥",
@@ -6457,6 +6473,14 @@
       "onboard_time": 1679536286,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 259006,
+      "num": 259006,
+      "word": "大侦探木偶2故事线",
+      "onboard_time": 1679672846,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 256723,
@@ -8040,6 +8064,14 @@
       "word": "哈哈哈哈哈",
       "onboard_time": 1679660848,
       "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 202053,
+      "num": 180149,
+      "word": "钟汉良唐嫣唱跳晴雅集",
+      "onboard_time": 1679673987,
+      "rank": 25,
       "category": "综艺"
     },
     {
@@ -9643,6 +9675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 161377,
+      "num": 136063,
+      "word": "NCTDREAM说中文",
+      "onboard_time": 1679672248,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 161091,
       "num": 161091,
       "word": "别等到口渴时再喝水",
@@ -10227,6 +10267,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 140891,
+      "num": 140891,
+      "word": "不建议在室内养郁金香",
+      "onboard_time": 1679673026,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 140476,
       "num": 140476,
       "word": "沙溢比宋亚轩爸爸大一岁",
@@ -10297,6 +10345,14 @@
       "onboard_time": 1679583810,
       "rank": 45,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 138206,
+      "num": 123701,
+      "word": "张真源贺峻霖弹吉他",
+      "onboard_time": 1679672666,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 138203,
@@ -10779,6 +10835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123809,
+      "num": 123809,
+      "word": "不得不承认这鱼汤是真的鲜",
+      "onboard_time": 1679669311,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 123669,
       "num": 123669,
       "word": "侵权任嘉伦网店拒不道歉被强制执行",
@@ -10961,14 +11025,6 @@
       "onboard_time": 1679231190,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 115507,
-      "num": 115507,
-      "word": "不得不承认这鱼汤是真的鲜",
-      "onboard_time": 1679669311,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 115502,
@@ -11409,6 +11465,14 @@
       "onboard_time": 1679314289,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 87816,
+      "num": 87816,
+      "word": "缓解压力真的很重要",
+      "onboard_time": 1679673086,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 85762,
