@@ -1,6 +1,6 @@
 {
   "startTime": 1679588746312,
-  "endTime": 1679625345834,
+  "endTime": 1679625898679,
   "band_list": [
     {
       "raw_hot": 2414058,
@@ -9,6 +9,14 @@
       "onboard_time": 1679614644,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2091639,
+      "num": 2091639,
+      "word": "TFBOYS",
+      "onboard_time": 1679623707,
+      "rank": 0,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1780848,
@@ -25,14 +33,6 @@
       "onboard_time": 1679617829,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1751173,
-      "num": 1751173,
-      "word": "TFBOYS",
-      "onboard_time": 1679623707,
-      "rank": 0,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1668289,
@@ -67,20 +67,20 @@
       "category": "社会新闻,影视"
     },
     {
+      "raw_hot": 1139771,
+      "num": 1139771,
+      "word": "易烊千玺微博之夜宣传图",
+      "onboard_time": 1679622145,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1128508,
       "num": 1128508,
       "word": "女子实名举报医生丈夫出轨",
       "onboard_time": 1679617348,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1127550,
-      "num": 1127550,
-      "word": "易烊千玺微博之夜宣传图",
-      "onboard_time": 1679622145,
-      "rank": 19,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1052847,
@@ -155,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 616410,
+      "num": 616410,
+      "word": "杰克奥特曼",
+      "onboard_time": 1679622327,
+      "rank": 34,
+      "category": "社会新闻,影视"
+    },
+    {
       "raw_hot": 608606,
       "num": 555886,
       "word": "泰官方辟谣男模餐厅噶腰子等说法",
@@ -168,6 +176,22 @@
       "word": "夫妻相约自杀妻子未如约被判刑",
       "onboard_time": 1679564728,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 578495,
+      "num": 578495,
+      "word": "广州天气",
+      "onboard_time": 1679622026,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 574743,
+      "num": 574743,
+      "word": "家长称4名失联男孩已在缅甸",
+      "onboard_time": 1679624308,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -203,12 +227,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 541703,
-      "num": 541703,
-      "word": "广州天气",
-      "onboard_time": 1679622026,
-      "rank": 41,
-      "category": "社会新闻"
+      "raw_hot": 530509,
+      "num": 530509,
+      "word": "禁止中小学校举办或参与举办培训机构",
+      "onboard_time": 1679624247,
+      "rank": 22,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 528165,
@@ -217,14 +241,6 @@
       "onboard_time": 1679616145,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 523044,
-      "num": 523044,
-      "word": "杰克奥特曼",
-      "onboard_time": 1679622327,
-      "rank": 34,
-      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 510686,
@@ -251,8 +267,8 @@
       "category": "科技"
     },
     {
-      "raw_hot": 469642,
-      "num": 469642,
+      "raw_hot": 478411,
+      "num": 478411,
       "word": "高校图书馆设发呆区能吃东西能看景",
       "onboard_time": 1679622145,
       "rank": 38,
@@ -307,14 +323,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 364231,
-      "num": 364231,
-      "word": "家长称4名失联男孩已在缅甸",
-      "onboard_time": 1679624308,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 356166,
       "num": 356166,
       "word": "中学要求向班主任交6500元培养费",
@@ -337,14 +345,6 @@
       "onboard_time": 1679615064,
       "rank": 20,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 337076,
-      "num": 337076,
-      "word": "禁止中小学校举办或参与举办培训机构",
-      "onboard_time": 1679624247,
-      "rank": 22,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 322748,
@@ -467,6 +467,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 259710,
+      "num": 259710,
+      "word": "泰国华人回应赴泰旅游被嘎腰子",
+      "onboard_time": 1679624848,
+      "rank": 43,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 243762,
       "num": 243762,
       "word": "IVE将进军北美",
@@ -481,6 +489,14 @@
       "onboard_time": 1679588244,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 237552,
+      "num": 237552,
+      "word": "微博之夜主持人有了吗",
+      "onboard_time": 1679625147,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 230660,
@@ -571,6 +587,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 190582,
+      "num": 249116,
+      "word": "腰椎疾病原来跟座椅有关",
+      "onboard_time": 1679623466,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188381,
       "num": 188381,
       "word": "杭州狂摇樱花树网红公司道歉",
@@ -593,14 +617,6 @@
       "onboard_time": 1679590519,
       "rank": 9,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 184437,
-      "num": 184437,
-      "word": "微博之夜主持人有了吗",
-      "onboard_time": 1679625147,
-      "rank": 36,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 184346,
@@ -643,20 +659,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 171305,
-      "num": 249116,
-      "word": "腰椎疾病原来跟座椅有关",
-      "onboard_time": 1679623466,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 164629,
       "num": 164629,
       "word": "德云社节目单",
       "onboard_time": 1679623648,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 160333,
+      "num": 160333,
+      "word": "中国小伙应聘泰国鱼粉厂被骗至缅甸",
+      "onboard_time": 1679625267,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 159564,
@@ -697,14 +713,6 @@
       "onboard_time": 1679570187,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 150110,
-      "num": 150110,
-      "word": "泰国华人回应赴泰旅游被嘎腰子",
-      "onboard_time": 1679624848,
-      "rank": 43,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 147371,
@@ -795,6 +803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112863,
+      "num": 112863,
+      "word": "广州冰雹",
+      "onboard_time": 1679625808,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 111177,
       "num": 111177,
       "word": "王子浩排名",
@@ -833,14 +849,6 @@
       "onboard_time": 1679583810,
       "rank": 33,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 96887,
-      "num": 96887,
-      "word": "中国小伙应聘泰国鱼粉厂被骗至缅甸",
-      "onboard_time": 1679625267,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 96813,

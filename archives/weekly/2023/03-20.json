@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679625345834,
+  "endTime": 1679625898679,
   "band_list": [
     {
       "raw_hot": 7256959,
@@ -219,6 +219,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 2091639,
+      "num": 2091639,
+      "word": "TFBOYS",
+      "onboard_time": 1679623707,
+      "rank": 0,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 2083170,
       "num": 776487,
       "word": "开门杀致人死亡女子被判9个月",
@@ -321,14 +329,6 @@
       "onboard_time": 1679373633,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1751173,
-      "num": 1751173,
-      "word": "TFBOYS",
-      "onboard_time": 1679623707,
-      "rank": 0,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1724841,
@@ -955,6 +955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1139771,
+      "num": 1139771,
+      "word": "易烊千玺微博之夜宣传图",
+      "onboard_time": 1679622145,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1135704,
       "num": 555492,
       "word": "特朗普",
@@ -985,14 +993,6 @@
       "onboard_time": 1679617348,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1127550,
-      "num": 1127550,
-      "word": "易烊千玺微博之夜宣传图",
-      "onboard_time": 1679622145,
-      "rank": 19,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1124296,
@@ -2459,6 +2459,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 616410,
+      "num": 616410,
+      "word": "杰克奥特曼",
+      "onboard_time": 1679622327,
+      "rank": 34,
+      "category": "社会新闻,影视"
+    },
+    {
       "raw_hot": 615672,
       "num": 553394,
       "word": "田曦薇烟熏妆",
@@ -2675,6 +2683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 578495,
+      "num": 578495,
+      "word": "广州天气",
+      "onboard_time": 1679622026,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 577993,
       "num": 577993,
       "word": "乔治360度暴扣",
@@ -2696,6 +2712,14 @@
       "word": "新版出生医学证明4月1日启用",
       "onboard_time": 1679357669,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 574743,
+      "num": 574743,
+      "word": "家长称4名失联男孩已在缅甸",
+      "onboard_time": 1679624308,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -2923,20 +2947,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 541703,
-      "num": 541703,
-      "word": "广州天气",
-      "onboard_time": 1679622026,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 536063,
       "num": 536063,
       "word": "台湾日月潭九蛙叠像全部露出",
       "onboard_time": 1679239712,
       "rank": 13,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 530509,
+      "num": 530509,
+      "word": "禁止中小学校举办或参与举办培训机构",
+      "onboard_time": 1679624247,
+      "rank": 22,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 530482,
@@ -3009,14 +3033,6 @@
       "onboard_time": 1679312794,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 523044,
-      "num": 523044,
-      "word": "杰克奥特曼",
-      "onboard_time": 1679622327,
-      "rank": 34,
-      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 520623,
@@ -3323,6 +3339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 478411,
+      "num": 478411,
+      "word": "高校图书馆设发呆区能吃东西能看景",
+      "onboard_time": 1679622145,
+      "rank": 38,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 477814,
       "num": 477814,
       "word": "DK打韩华",
@@ -3361,14 +3385,6 @@
       "onboard_time": 1679442084,
       "rank": 17,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 469642,
-      "num": 469642,
-      "word": "高校图书馆设发呆区能吃东西能看景",
-      "onboard_time": 1679622145,
-      "rank": 38,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 469320,
@@ -4283,14 +4299,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 364231,
-      "num": 364231,
-      "word": "家长称4名失联男孩已在缅甸",
-      "onboard_time": 1679624308,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 364148,
       "num": 364148,
       "word": "博扬宣布退役",
@@ -4553,14 +4561,6 @@
       "onboard_time": 1679465667,
       "rank": 22,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 337076,
-      "num": 337076,
-      "word": "禁止中小学校举办或参与举办培训机构",
-      "onboard_time": 1679624247,
-      "rank": 22,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 336300,
@@ -5603,6 +5603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 259710,
+      "num": 259710,
+      "word": "泰国华人回应赴泰旅游被嘎腰子",
+      "onboard_time": 1679624848,
+      "rank": 43,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 256723,
       "num": 256723,
       "word": "刘宇宁直播回应加戏",
@@ -6057,6 +6065,14 @@
       "onboard_time": 1679568328,
       "rank": 42,
       "category": "幽默,教育"
+    },
+    {
+      "raw_hot": 237552,
+      "num": 237552,
+      "word": "微博之夜主持人有了吗",
+      "onboard_time": 1679625147,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 237402,
@@ -7387,6 +7403,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 190582,
+      "num": 249116,
+      "word": "腰椎疾病原来跟座椅有关",
+      "onboard_time": 1679623466,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189860,
       "num": 189860,
       "word": "汇丰银行开门7天应对通关后开户需求",
@@ -7577,14 +7601,6 @@
       "onboard_time": 1679361447,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 184437,
-      "num": 184437,
-      "word": "微博之夜主持人有了吗",
-      "onboard_time": 1679625147,
-      "rank": 36,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 184400,
@@ -8027,14 +8043,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 171305,
-      "num": 249116,
-      "word": "腰椎疾病原来跟座椅有关",
-      "onboard_time": 1679623466,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 171054,
       "num": 171054,
       "word": "SEVENTEEN旧专销量破104万",
@@ -8339,6 +8347,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 160333,
+      "num": 160333,
+      "word": "中国小伙应聘泰国鱼粉厂被骗至缅甸",
+      "onboard_time": 1679625267,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159510,
       "num": 159510,
       "word": "青燥音乐节",
@@ -8537,14 +8553,6 @@
       "onboard_time": 1679275946,
       "rank": 43,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 150110,
-      "num": 150110,
-      "word": "泰国华人回应赴泰旅游被嘎腰子",
-      "onboard_time": 1679624848,
-      "rank": 43,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 149704,
@@ -9491,6 +9499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112863,
+      "num": 112863,
+      "word": "广州冰雹",
+      "onboard_time": 1679625808,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 111651,
       "num": 111651,
       "word": "95后烧伤女孩自学成为设计师",
@@ -9753,14 +9769,6 @@
       "onboard_time": 1679341931,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 96887,
-      "num": 96887,
-      "word": "中国小伙应聘泰国鱼粉厂被骗至缅甸",
-      "onboard_time": 1679625267,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 96813,
