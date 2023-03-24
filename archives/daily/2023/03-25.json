@@ -1,6 +1,6 @@
 {
   "startTime": 1679675078237,
-  "endTime": 1679676102334,
+  "endTime": 1679678181366,
   "band_list": [
     {
       "raw_hot": 1115573,
@@ -33,6 +33,14 @@
       "onboard_time": 1679671049,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 722393,
+      "num": 722393,
+      "word": "不建议在室内养郁金香",
+      "onboard_time": 1679673026,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 667275,
@@ -75,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 453264,
+      "num": 129060,
+      "word": "纪委回应前交通局长孙女炫富",
+      "onboard_time": 1679675543,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 433570,
       "num": 433570,
       "word": "水哥感叹中日心算又是平局",
@@ -97,14 +113,6 @@
       "onboard_time": 1679668950,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 373561,
-      "num": 373561,
-      "word": "不建议在室内养郁金香",
-      "onboard_time": 1679673026,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 346786,
@@ -259,14 +267,6 @@
       "category": "影视,动漫"
     },
     {
-      "raw_hot": 141778,
-      "num": 129060,
-      "word": "纪委回应前交通局长孙女炫富",
-      "onboard_time": 1679675543,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 138206,
       "num": 123701,
       "word": "张真源贺峻霖弹吉他",
@@ -371,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 97366,
+      "num": 97366,
+      "word": "缓解压力真的很重要",
+      "onboard_time": 1679673086,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 96841,
       "num": 96841,
       "word": "EDG拿到复活甲",
@@ -395,20 +403,28 @@
       "category": "美食"
     },
     {
-      "raw_hot": 87861,
-      "num": 87861,
-      "word": "缓解压力真的很重要",
-      "onboard_time": 1679673086,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 67366,
       "num": 615938,
       "word": "中国杂交水稻推广到数十国家和地区",
       "onboard_time": 1679667452,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 46434,
+      "num": 46434,
+      "word": "这是来面试还是来社死的",
+      "onboard_time": 1679677998,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 44367,
+      "num": 44367,
+      "word": "网上炫富女子账号已被封",
+      "onboard_time": 1679677939,
+      "rank": 49,
+      "category": "社会新闻,财经"
     }
   ],
   "hotgov_list": [
@@ -417,6 +433,9 @@
     },
     {
       "word": "#从春天再出发#"
+    },
+    {
+      "word": "#每天认识一件文物#"
     }
   ]
 }
