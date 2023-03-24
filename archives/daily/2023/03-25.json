@@ -1,6 +1,6 @@
 {
   "startTime": 1679675078237,
-  "endTime": 1679697198120,
+  "endTime": 1679699832776,
   "band_list": [
     {
       "raw_hot": 1115573,
@@ -73,6 +73,14 @@
       "onboard_time": 1679666849,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 499611,
+      "num": 499611,
+      "word": "成都一幼师疑似虐打幼童",
+      "onboard_time": 1679693952,
+      "rank": 10,
+      "category": "社会负面"
     },
     {
       "raw_hot": 462016,
@@ -203,14 +211,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 193068,
-      "num": 193068,
-      "word": "成都一幼师疑似虐打幼童",
-      "onboard_time": 1679693952,
-      "rank": 10,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 190047,
       "num": 190047,
       "word": "广东人吃辣主打的是氛围感",
@@ -249,6 +249,14 @@
       "onboard_time": 1679658751,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 170570,
+      "num": 170570,
+      "word": "警方通报宁波一车撞人后倒回碾压",
+      "onboard_time": 1679685912,
+      "rank": 48,
+      "category": "社会负面"
     },
     {
       "raw_hot": 168653,
@@ -305,6 +313,14 @@
       "onboard_time": 1679654067,
       "rank": 33,
       "category": "动漫,影视"
+    },
+    {
+      "raw_hot": 127698,
+      "num": 127698,
+      "word": "华晨宇熬整晚等魏如萱起床对歌",
+      "onboard_time": 1679699177,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 123809,
@@ -403,14 +419,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 95807,
-      "num": 95807,
-      "word": "警方通报宁波一车撞人后倒回碾压",
-      "onboard_time": 1679685912,
-      "rank": 48,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 95724,
       "num": 95724,
       "word": "范丞丞说乐华演唱会还没通知我",
@@ -427,6 +435,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 85956,
+      "num": 85956,
+      "word": "年轻人摆摊主打自己想吃",
+      "onboard_time": 1679677519,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 67366,
       "num": 615938,
       "word": "中国杂交水稻推广到数十国家和地区",
@@ -435,20 +451,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 53227,
+      "num": 53227,
+      "word": "想要长高的人有福了",
+      "onboard_time": 1679677697,
+      "rank": 35,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 53204,
+      "num": 53204,
+      "word": "祝绪丹蝴蝶结编发",
+      "onboard_time": 1679679375,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 47896,
       "num": 47896,
       "word": "在华晨宇的舞台看到了星河",
       "onboard_time": 1679695092,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 47588,
-      "num": 47588,
-      "word": "年轻人摆摊主打自己想吃",
-      "onboard_time": 1679677519,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 46434,
@@ -467,28 +491,52 @@
       "category": "动漫,影视"
     },
     {
-      "raw_hot": 40538,
-      "num": 40538,
-      "word": "想要长高的人有福了",
-      "onboard_time": 1679677697,
-      "rank": 35,
-      "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 36271,
-      "num": 36271,
-      "word": "祝绪丹蝴蝶结编发",
-      "onboard_time": 1679679375,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 28510,
-      "num": 28510,
+      "raw_hot": 35729,
+      "num": 35729,
       "word": "欧洲杯预选赛",
       "onboard_time": 1679694615,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 31242,
+      "num": 31242,
+      "word": "月掩金星",
+      "onboard_time": 1679657789,
+      "rank": 43,
+      "category": "自然"
+    },
+    {
+      "raw_hot": 29706,
+      "num": 29706,
+      "word": "月亮 星星",
+      "onboard_time": 1679656468,
+      "rank": 45,
+      "category": "自然"
+    },
+    {
+      "raw_hot": 29049,
+      "num": 29049,
+      "word": "TT对战EDG",
+      "onboard_time": 1679659708,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 27964,
+      "num": 27964,
+      "word": "高双星改回本名",
+      "onboard_time": 1679666252,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 27197,
+      "num": 27197,
+      "word": "崩坏星穹铁道",
+      "onboard_time": 1679660609,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 26432,

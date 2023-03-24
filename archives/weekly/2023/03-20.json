@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679697198120,
+  "endTime": 1679699832776,
   "band_list": [
     {
       "raw_hot": 10450851,
@@ -3753,6 +3753,14 @@
       "onboard_time": 1679571809,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 499611,
+      "num": 499611,
+      "word": "成都一幼师疑似虐打幼童",
+      "onboard_time": 1679693952,
+      "rank": 10,
+      "category": "社会负面"
     },
     {
       "raw_hot": 499061,
@@ -8499,14 +8507,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 193068,
-      "num": 193068,
-      "word": "成都一幼师疑似虐打幼童",
-      "onboard_time": 1679693952,
-      "rank": 10,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 193059,
       "num": 193059,
       "word": "被这只猫的肌肉惊到了",
@@ -9353,6 +9353,14 @@
       "onboard_time": 1679566226,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 170570,
+      "num": 170570,
+      "word": "警方通报宁波一车撞人后倒回碾压",
+      "onboard_time": 1679685912,
+      "rank": 48,
+      "category": "社会负面"
     },
     {
       "raw_hot": 170528,
@@ -10771,6 +10779,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 127698,
+      "num": 127698,
+      "word": "华晨宇熬整晚等魏如萱起床对歌",
+      "onboard_time": 1679699177,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 127529,
       "num": 127529,
       "word": "开多少种花才算一个春天",
@@ -11435,14 +11451,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 95807,
-      "num": 95807,
-      "word": "警方通报宁波一车撞人后倒回碾压",
-      "onboard_time": 1679685912,
-      "rank": 48,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 95767,
       "num": 95767,
       "word": "井汲大翔晋级",
@@ -11505,6 +11513,14 @@
       "onboard_time": 1679314289,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 85956,
+      "num": 85956,
+      "word": "年轻人摆摊主打自己想吃",
+      "onboard_time": 1679677519,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 85762,
@@ -11659,6 +11675,22 @@
       "category": "幽默,影视"
     },
     {
+      "raw_hot": 53227,
+      "num": 53227,
+      "word": "想要长高的人有福了",
+      "onboard_time": 1679677697,
+      "rank": 35,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 53204,
+      "num": 53204,
+      "word": "祝绪丹蝴蝶结编发",
+      "onboard_time": 1679679375,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 51017,
       "num": 194915,
       "word": "千万网友为撒贝宁点餐",
@@ -11681,14 +11713,6 @@
       "onboard_time": 1679695092,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 47588,
-      "num": 47588,
-      "word": "年轻人摆摊主打自己想吃",
-      "onboard_time": 1679677519,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 47246,
@@ -11731,14 +11755,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 40538,
-      "num": 40538,
-      "word": "想要长高的人有福了",
-      "onboard_time": 1679677697,
-      "rank": 35,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 38627,
       "num": 38627,
       "word": "王鹤棣赛车服饭拍路透",
@@ -11763,12 +11779,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 36271,
-      "num": 36271,
-      "word": "祝绪丹蝴蝶结编发",
-      "onboard_time": 1679679375,
-      "rank": 39,
-      "category": "艺人"
+      "raw_hot": 35729,
+      "num": 35729,
+      "word": "欧洲杯预选赛",
+      "onboard_time": 1679694615,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 35017,
@@ -11833,14 +11849,6 @@
       "onboard_time": 1679500289,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 28510,
-      "num": 28510,
-      "word": "欧洲杯预选赛",
-      "onboard_time": 1679694615,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 27779,
