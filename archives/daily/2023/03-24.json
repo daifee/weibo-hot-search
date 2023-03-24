@@ -1,6 +1,6 @@
 {
   "startTime": 1679588746312,
-  "endTime": 1679668445423,
+  "endTime": 1679671165781,
   "band_list": [
     {
       "raw_hot": 10450851,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 2404396,
-      "num": 532870,
+      "num": 552982,
       "word": "赛琳娜为海莉发声",
       "onboard_time": 1679662409,
       "rank": 10,
@@ -163,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1401224,
+      "num": 1401224,
+      "word": "毛晓彤新剧收视率破2",
+      "onboard_time": 1679667151,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1376754,
       "num": 1376754,
       "word": "吴磊放下男德",
@@ -201,6 +209,14 @@
       "onboard_time": 1679644290,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1297923,
+      "num": 1297923,
+      "word": "心疼一诺",
+      "onboard_time": 1679668470,
+      "rank": 3,
+      "category": "游戏"
     },
     {
       "raw_hot": 1183316,
@@ -305,6 +321,14 @@
       "onboard_time": 1679615665,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 993920,
+      "num": 993920,
+      "word": "深圳6折人才房卖不动",
+      "onboard_time": 1679666609,
+      "rank": 37,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 992681,
@@ -499,14 +523,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 707656,
-      "num": 707656,
-      "word": "毛晓彤新剧收视率破2",
-      "onboard_time": 1679667151,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 680400,
       "num": 680400,
       "word": "聂小雨假死",
@@ -593,6 +609,14 @@
       "onboard_time": 1679637870,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 628952,
+      "num": 628952,
+      "word": "周深 开会",
+      "onboard_time": 1679668950,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 618166,
@@ -705,14 +729,6 @@
       "onboard_time": 1679586625,
       "rank": 12,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 546596,
-      "num": 546596,
-      "word": "深圳6折人才房卖不动",
-      "onboard_time": 1679666609,
-      "rank": 37,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 542940,
@@ -905,6 +921,14 @@
       "onboard_time": 1679625267,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 407601,
+      "num": 407601,
+      "word": "陈赫脸盆砸在杜海涛头上",
+      "onboard_time": 1679671049,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 404202,
@@ -1475,6 +1499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 219276,
+      "num": 210423,
+      "word": "容祖儿当林俊杰演唱会嘉宾",
+      "onboard_time": 1679670657,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 218872,
       "num": 218872,
       "word": "杨幂 微博之夜",
@@ -1529,6 +1561,14 @@
       "onboard_time": 1679573667,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 208959,
+      "num": 208959,
+      "word": "钟汉良演的贼笑",
+      "onboard_time": 1679671111,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 207492,
@@ -1651,6 +1691,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 195117,
+      "num": 195117,
+      "word": "最强大脑",
+      "onboard_time": 1679662288,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194484,
       "num": 194484,
       "word": "陈立农小时候也抄过歌词",
@@ -1721,6 +1769,14 @@
       "onboard_time": 1679600052,
       "rank": 14,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 187855,
+      "num": 187855,
+      "word": "KPL",
+      "onboard_time": 1679670450,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 187497,
@@ -1875,14 +1931,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 163503,
-      "num": 163503,
-      "word": "最强大脑",
-      "onboard_time": 1679662288,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 161754,
       "num": 161754,
       "word": "武大靖说期待在米兰赛场看到自己",
@@ -1929,6 +1977,14 @@
       "onboard_time": 1679648609,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 157993,
+      "num": 157993,
+      "word": "蔡徐坤为微博之力点赞",
+      "onboard_time": 1679670956,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 155130,
@@ -2091,6 +2147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 135294,
+      "num": 135294,
+      "word": "冰冻芒果有多好吃",
+      "onboard_time": 1679668770,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
       "raw_hot": 135282,
       "num": 135282,
       "word": "CBA全明星",
@@ -2137,6 +2201,14 @@
       "onboard_time": 1679656828,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 130465,
+      "num": 1354354,
+      "word": "中国杂交水稻推广到数十国家和地区",
+      "onboard_time": 1679667452,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 127740,
@@ -2257,6 +2329,14 @@
       "onboard_time": 1679651970,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 105793,
+      "num": 105793,
+      "word": "不得不承认这鱼汤是真的鲜",
+      "onboard_time": 1679669311,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 105266,
@@ -2465,14 +2545,6 @@
       "onboard_time": 1679612599,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 37345,
-      "num": 1354354,
-      "word": "中国杂交水稻推广到数十国家和地区",
-      "onboard_time": 1679667452,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 35017,
