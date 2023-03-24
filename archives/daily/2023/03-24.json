@@ -1,6 +1,6 @@
 {
   "startTime": 1679588746312,
-  "endTime": 1679646069887,
+  "endTime": 1679646892293,
   "band_list": [
     {
       "raw_hot": 10450851,
@@ -27,7 +27,7 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 2689526,
+      "raw_hot": 3213985,
       "num": 909579,
       "word": "北极鲶鱼",
       "onboard_time": 1679641948,
@@ -147,8 +147,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1164759,
-      "num": 1164759,
+      "raw_hot": 1352750,
+      "num": 1352750,
       "word": "官方通报前交通局局长家属言论",
       "onboard_time": 1679644290,
       "rank": 1,
@@ -251,6 +251,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 850570,
+      "num": 354580,
+      "word": "今日上海机场工作人员内心belike",
+      "onboard_time": 1679645848,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 846718,
       "num": 824368,
       "word": "微博之夜主持人有了吗",
@@ -324,7 +332,7 @@
     },
     {
       "raw_hot": 647288,
-      "num": 432642,
+      "num": 546795,
       "word": "肖战微博之夜倒计时VCR",
       "onboard_time": 1679644709,
       "rank": 7,
@@ -432,6 +440,14 @@
       "word": "动画还原苏州杀夫案",
       "onboard_time": 1679635829,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 561901,
+      "num": 561901,
+      "word": "官方通报13岁女孩遭霸凌",
+      "onboard_time": 1679644589,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -667,12 +683,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 341374,
-      "num": 300815,
-      "word": "今日上海机场工作人员内心belike",
-      "onboard_time": 1679645848,
-      "rank": 16,
-      "category": "作品衍生"
+      "raw_hot": 340441,
+      "num": 340441,
+      "word": "重庆城市科技学院",
+      "onboard_time": 1679645787,
+      "rank": 43,
+      "category": "社会负面"
     },
     {
       "raw_hot": 338536,
@@ -681,14 +697,6 @@
       "onboard_time": 1679642849,
       "rank": 15,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 331491,
-      "num": 331491,
-      "word": "官方通报13岁女孩遭霸凌",
-      "onboard_time": 1679644589,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 322748,
@@ -753,6 +761,14 @@
       "onboard_time": 1679632774,
       "rank": 23,
       "category": "美食"
+    },
+    {
+      "raw_hot": 294844,
+      "num": 168565,
+      "word": "张大大 不是我哈我只是客服",
+      "onboard_time": 1679646147,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 293444,
@@ -955,6 +971,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 220215,
+      "num": 220215,
+      "word": "铃芽之旅画面",
+      "onboard_time": 1679643569,
+      "rank": 22,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 219459,
       "num": 219459,
       "word": "吴磊涂松岩演父子",
@@ -977,14 +1001,6 @@
       "onboard_time": 1679629713,
       "rank": 31,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 213385,
-      "num": 213385,
-      "word": "铃芽之旅画面",
-      "onboard_time": 1679643569,
-      "rank": 22,
-      "category": "影视,动漫"
     },
     {
       "raw_hot": 211456,
@@ -1017,6 +1033,14 @@
       "onboard_time": 1679588423,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 206761,
+      "num": 206761,
+      "word": "铃芽之旅上映",
+      "onboard_time": 1679646026,
+      "rank": 47,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 206177,
@@ -1387,6 +1411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 142663,
+      "num": 142663,
+      "word": "一段感情从好好说话开始",
+      "onboard_time": 1679644649,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 139925,
       "num": 139925,
       "word": "聂小雨下线了吗",
@@ -1425,14 +1457,6 @@
       "onboard_time": 1679591657,
       "rank": 21,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 132112,
-      "num": 132112,
-      "word": "一段感情从好好说话开始",
-      "onboard_time": 1679644649,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 127719,
@@ -1499,28 +1523,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 118289,
-      "num": 118289,
-      "word": "重庆城市科技学院",
-      "onboard_time": 1679645787,
-      "rank": 43,
-      "category": "社会负面"
-    },
-    {
-      "raw_hot": 114759,
-      "num": 114759,
+      "raw_hot": 115450,
+      "num": 115450,
       "word": "这才是我想上的早八",
       "onboard_time": 1679644769,
       "rank": 46,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 113249,
-      "num": 113249,
-      "word": "铃芽之旅上映",
-      "onboard_time": 1679646026,
-      "rank": 47,
-      "category": "影视,动漫"
     },
     {
       "raw_hot": 111177,

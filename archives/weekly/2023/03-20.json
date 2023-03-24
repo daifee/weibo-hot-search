@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679646069887,
+  "endTime": 1679646892293,
   "band_list": [
     {
       "raw_hot": 10450851,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3213985,
+      "num": 909579,
+      "word": "北极鲶鱼",
+      "onboard_time": 1679641948,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3180080,
       "num": 3180080,
       "word": "女生月薪8千花15称存两百万退休",
@@ -89,14 +97,6 @@
       "onboard_time": 1679453906,
       "rank": 1,
       "category": "美食"
-    },
-    {
-      "raw_hot": 2689526,
-      "num": 909579,
-      "word": "北极鲶鱼",
-      "onboard_time": 1679641948,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2578597,
@@ -747,6 +747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1352750,
+      "num": 1352750,
+      "word": "官方通报前交通局局长家属言论",
+      "onboard_time": 1679644290,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1344800,
       "num": 286250,
       "word": "李梦",
@@ -1001,14 +1009,6 @@
       "onboard_time": 1679377109,
       "rank": 1,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 1164759,
-      "num": 1164759,
-      "word": "官方通报前交通局局长家属言论",
-      "onboard_time": 1679644290,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1159696,
@@ -1771,6 +1771,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 850570,
+      "num": 354580,
+      "word": "今日上海机场工作人员内心belike",
+      "onboard_time": 1679645848,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 849519,
       "num": 479070,
       "word": "特朗普预告的被捕时间将到",
@@ -2468,7 +2476,7 @@
     },
     {
       "raw_hot": 647288,
-      "num": 432642,
+      "num": 546795,
       "word": "肖战微博之夜倒计时VCR",
       "onboard_time": 1679644709,
       "rank": 7,
@@ -3049,6 +3057,14 @@
       "onboard_time": 1679242705,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 561901,
+      "num": 561901,
+      "word": "官方通报13岁女孩遭霸凌",
+      "onboard_time": 1679644589,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 561329,
@@ -4851,12 +4867,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 341374,
-      "num": 300815,
-      "word": "今日上海机场工作人员内心belike",
-      "onboard_time": 1679645848,
-      "rank": 16,
-      "category": "作品衍生"
+      "raw_hot": 340441,
+      "num": 340441,
+      "word": "重庆城市科技学院",
+      "onboard_time": 1679645787,
+      "rank": 43,
+      "category": "社会负面"
     },
     {
       "raw_hot": 338573,
@@ -4937,14 +4953,6 @@
       "onboard_time": 1679278167,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 331491,
-      "num": 331491,
-      "word": "官方通报13岁女孩遭霸凌",
-      "onboard_time": 1679644589,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 331359,
@@ -5489,6 +5497,14 @@
       "onboard_time": 1679293708,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 294844,
+      "num": 168565,
+      "word": "张大大 不是我哈我只是客服",
+      "onboard_time": 1679646147,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 294465,
@@ -6811,6 +6827,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 220215,
+      "num": 220215,
+      "word": "铃芽之旅画面",
+      "onboard_time": 1679643569,
+      "rank": 22,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 219574,
       "num": 207421,
       "word": "春闺梦里人小说还原度",
@@ -7019,14 +7043,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 213385,
-      "num": 213385,
-      "word": "铃芽之旅画面",
-      "onboard_time": 1679643569,
-      "rank": 22,
-      "category": "影视,动漫"
-    },
-    {
       "raw_hot": 213076,
       "num": 145107,
       "word": "那英戏腔",
@@ -7209,6 +7225,14 @@
       "onboard_time": 1679488890,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 206761,
+      "num": 206761,
+      "word": "铃芽之旅上映",
+      "onboard_time": 1679646026,
+      "rank": 47,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 206530,
@@ -9427,6 +9451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 142663,
+      "num": 142663,
+      "word": "一段感情从好好说话开始",
+      "onboard_time": 1679644649,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 142430,
       "num": 142430,
       "word": "打工人爬泰山主打一个效率",
@@ -9729,14 +9761,6 @@
       "onboard_time": 1679568867,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 132112,
-      "num": 132112,
-      "word": "一段感情从好好说话开始",
-      "onboard_time": 1679644649,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 132017,
@@ -10115,14 +10139,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 118289,
-      "num": 118289,
-      "word": "重庆城市科技学院",
-      "onboard_time": 1679645787,
-      "rank": 43,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 118104,
       "num": 118104,
       "word": "华晨宇坏特一组",
@@ -10179,8 +10195,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 114759,
-      "num": 114759,
+      "raw_hot": 115450,
+      "num": 115450,
       "word": "这才是我想上的早八",
       "onboard_time": 1679644769,
       "rank": 46,
@@ -10209,14 +10225,6 @@
       "onboard_time": 1679220208,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 113249,
-      "num": 113249,
-      "word": "铃芽之旅上映",
-      "onboard_time": 1679646026,
-      "rank": 47,
-      "category": "影视,动漫"
     },
     {
       "raw_hot": 111651,

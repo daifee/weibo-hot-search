@@ -1,0 +1,410 @@
+{
+  "runTime": 1679646892293,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6344653,
+        "num": 6344653,
+        "word": "半个娱乐圈明星都在上海",
+        "onboard_time": 1679635950,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1352750,
+        "num": 1352750,
+        "word": "官方通报前交通局局长家属言论",
+        "onboard_time": 1679644290,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52462,
+        "num": 977279,
+        "word": "旅游打卡地怎么能少了宝藏村落",
+        "onboard_time": 1679626288,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 853086,
+        "num": 853086,
+        "word": "TFBOYS 微博之夜",
+        "onboard_time": 1679623707,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 2408895,
+        "num": 735696,
+        "word": "前交通局长回应孙女炫富贪腐言论",
+        "onboard_time": 1679641828,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 561901,
+        "num": 561901,
+        "word": "官方通报13岁女孩遭霸凌",
+        "onboard_time": 1679644589,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 546795,
+        "num": 546795,
+        "word": "肖战微博之夜倒计时VCR",
+        "onboard_time": 1679644709,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 454333,
+        "num": 454333,
+        "word": "大熊猫幼崽吃游客掉落口罩",
+        "onboard_time": 1679636308,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358741,
+        "num": 358741,
+        "word": "重庆永川警方通报",
+        "onboard_time": 1679641529,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356421,
+        "num": 356421,
+        "word": "微博之夜主持人有了吗",
+        "onboard_time": 1679625147,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 3213985,
+        "num": 355824,
+        "word": "北极鲶鱼",
+        "onboard_time": 1679641948,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 850570,
+        "num": 354580,
+        "word": "今日上海机场工作人员内心belike",
+        "onboard_time": 1679645848,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 765580,
+        "num": 354176,
+        "word": "家长回应孩子霸凌13岁女生",
+        "onboard_time": 1679638768,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 748513,
+        "num": 353461,
+        "word": "抖音崩了",
+        "onboard_time": 1679636368,
+        "rank": 13,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 352566,
+        "num": 352566,
+        "word": "宋再临金素恩同游乐园",
+        "onboard_time": 1679641649,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 347091,
+        "num": 347091,
+        "word": "外公是我朋友圈的守护神",
+        "onboard_time": 1679637870,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 340441,
+        "num": 340441,
+        "word": "重庆城市科技学院",
+        "onboard_time": 1679645787,
+        "rank": 16,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 258601,
+        "num": 258601,
+        "word": "美军空袭叙利亚东部",
+        "onboard_time": 1679636489,
+        "rank": 17,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 230248,
+        "num": 230248,
+        "word": "AI爆发对大学生选专业的影响",
+        "onboard_time": 1679642969,
+        "rank": 18,
+        "category": "科技,教育"
+      },
+      {
+        "raw_hot": 220215,
+        "num": 220215,
+        "word": "铃芽之旅画面",
+        "onboard_time": 1679643569,
+        "rank": 19,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 252795,
+        "num": 219820,
+        "word": "男子因名字被同学调侃导抑郁症",
+        "onboard_time": 1679630555,
+        "rank": 20,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 215802,
+        "num": 215802,
+        "word": "鹿晗第一次来到东北澡堂的反应",
+        "onboard_time": 1679636847,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206761,
+        "num": 206761,
+        "word": "铃芽之旅上映",
+        "onboard_time": 1679646026,
+        "rank": 22,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 197996,
+        "num": 197996,
+        "word": "宁艺卓的变幻卡",
+        "onboard_time": 1679645967,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195067,
+        "num": 195067,
+        "word": "EXO见面会视频",
+        "onboard_time": 1679643867,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 189361,
+        "num": 189361,
+        "word": "东南vip",
+        "onboard_time": 1679642849,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 176043,
+        "num": 176043,
+        "word": "广州冰雹",
+        "onboard_time": 1679625808,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169254,
+        "num": 169254,
+        "word": "那一刻真的很爱大学",
+        "onboard_time": 1679637570,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 168977,
+        "num": 168977,
+        "word": "朴叙俊IU将出演出差十五夜",
+        "onboard_time": 1679639850,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 294844,
+        "num": 168565,
+        "word": "张大大 不是我哈我只是客服",
+        "onboard_time": 1679646147,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 162526,
+        "num": 162526,
+        "word": "女子长期遭家暴因感情深不愿离婚",
+        "onboard_time": 1679628388,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161672,
+        "num": 161672,
+        "word": "不信自己是逃犯到派出所求证后落网",
+        "onboard_time": 1679643688,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160029,
+        "num": 160029,
+        "word": "吴磊放下男德",
+        "onboard_time": 1679629771,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 142663,
+        "num": 142663,
+        "word": "一段感情从好好说话开始",
+        "onboard_time": 1679644649,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139213,
+        "num": 139213,
+        "word": "井柏然谭松韵洗脚花絮",
+        "onboard_time": 1679643026,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 135850,
+        "num": 135850,
+        "word": "5种行为构成校园欺凌",
+        "onboard_time": 1679645427,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134464,
+        "num": 134464,
+        "word": "泰国华人回应赴泰旅游被嘎腰子",
+        "onboard_time": 1679624848,
+        "rank": 36,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 128392,
+        "num": 128392,
+        "word": "大熊猫泡澡也太像人了吧",
+        "onboard_time": 1679630136,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 128106,
+        "num": 128106,
+        "word": "家长称4名失联男孩已在缅甸",
+        "onboard_time": 1679624308,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123254,
+        "num": 123254,
+        "word": "保你平安二刷看点",
+        "onboard_time": 1679645368,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 121758,
+        "num": 121758,
+        "word": "重庆农行",
+        "onboard_time": 1679635713,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115450,
+        "num": 115450,
+        "word": "这才是我想上的早八",
+        "onboard_time": 1679644769,
+        "rank": 41,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 113525,
+        "num": 113525,
+        "word": "张杰演唱会新增郑州站沈阳站",
+        "onboard_time": 1679634334,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 111402,
+        "num": 111402,
+        "word": "猫咪舔毛被打断是什么反应",
+        "onboard_time": 1679633734,
+        "rank": 43,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 108882,
+        "num": 108882,
+        "word": "团时朗去世",
+        "onboard_time": 1679622387,
+        "rank": 44,
+        "category": "动漫,艺人"
+      },
+      {
+        "raw_hot": 108519,
+        "num": 108519,
+        "word": "丁程鑫严浩翔微博之夜出发路透",
+        "onboard_time": 1679641529,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 98871,
+        "num": 98871,
+        "word": "一个人哭出来一车人收不住",
+        "onboard_time": 1679631031,
+        "rank": 46,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 94364,
+        "num": 94364,
+        "word": "范丞丞给刘亦菲让座",
+        "onboard_time": 1679626108,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 89038,
+        "num": 89038,
+        "word": "长空之王五一档待映影片想看第一",
+        "onboard_time": 1679644890,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 87489,
+        "num": 87489,
+        "word": "我的宝宝一夜之间怎么啦",
+        "onboard_time": 1679632294,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的天下情怀#"
+    }
+  }
+}
