@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679627912731,
+  "endTime": 1679628819546,
   "band_list": [
     {
       "raw_hot": 7256959,
@@ -9,6 +9,14 @@
       "onboard_time": 1679310572,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 4842784,
+      "num": 4842784,
+      "word": "TFBOYS",
+      "onboard_time": 1679623707,
+      "rank": 0,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 4463977,
@@ -57,14 +65,6 @@
       "onboard_time": 1679451985,
       "rank": 10,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 2933452,
-      "num": 2933452,
-      "word": "TFBOYS",
-      "onboard_time": 1679623707,
-      "rank": 0,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 2879974,
@@ -427,6 +427,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1601326,
+      "num": 1601326,
+      "word": "广州冰雹",
+      "onboard_time": 1679625808,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1598225,
+      "num": 1598225,
+      "word": "肖战正式官宣出席微博之夜",
+      "onboard_time": 1679627968,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1589542,
       "num": 893167,
       "word": "林俊杰 mirror",
@@ -448,14 +464,6 @@
       "word": "丫丫吃甘蔗",
       "onboard_time": 1679578770,
       "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1519907,
-      "num": 1519907,
-      "word": "广州冰雹",
-      "onboard_time": 1679625808,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -1699,6 +1707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 846718,
+      "num": 824368,
+      "word": "微博之夜主持人有了吗",
+      "onboard_time": 1679625147,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 845242,
       "num": 845242,
       "word": "白鹿张凌赫 遮太阳",
@@ -1753,14 +1769,6 @@
       "onboard_time": 1679374472,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 824368,
-      "num": 824368,
-      "word": "微博之夜主持人有了吗",
-      "onboard_time": 1679625147,
-      "rank": 36,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 823970,
@@ -2019,6 +2027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 727683,
+      "num": 247621,
+      "word": "小红书崩了",
+      "onboard_time": 1679627968,
+      "rank": 30,
+      "category": "科技"
+    },
+    {
       "raw_hot": 724881,
       "num": 724881,
       "word": "早午餐不要合成一顿",
@@ -2257,6 +2273,14 @@
       "onboard_time": 1679536825,
       "rank": 11,
       "category": "情感"
+    },
+    {
+      "raw_hot": 662534,
+      "num": 662534,
+      "word": "博士答辩现场的压迫感",
+      "onboard_time": 1679626349,
+      "rank": 18,
+      "category": "教育,幽默"
     },
     {
       "raw_hot": 661840,
@@ -2753,6 +2777,14 @@
       "onboard_time": 1679240011,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 577074,
+      "num": 577074,
+      "word": "泰国华人回应赴泰旅游被嘎腰子",
+      "onboard_time": 1679624848,
+      "rank": 43,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 576424,
@@ -3315,14 +3347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 485848,
-      "num": 485848,
-      "word": "泰国华人回应赴泰旅游被嘎腰子",
-      "onboard_time": 1679624848,
-      "rank": 43,
-      "category": "社会新闻,旅游"
-    },
-    {
       "raw_hot": 485436,
       "num": 485436,
       "word": "你支持家暴入刑吗",
@@ -3529,6 +3553,14 @@
       "onboard_time": 1679401589,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 458398,
+      "num": 458398,
+      "word": "足协黄松和王小平被查",
+      "onboard_time": 1679628210,
+      "rank": 17,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 458388,
@@ -3937,14 +3969,6 @@
       "onboard_time": 1679530526,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 414596,
-      "num": 414596,
-      "word": "博士答辩现场的压迫感",
-      "onboard_time": 1679626349,
-      "rank": 18,
-      "category": "教育,幽默"
     },
     {
       "raw_hot": 414528,
@@ -6203,6 +6227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 230450,
+      "num": 230450,
+      "word": "做好爸妈朋友圈的后勤工作",
+      "onboard_time": 1679627490,
+      "rank": 45,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 230057,
       "num": 230057,
       "word": "哪有这样吸鼠鼠的",
@@ -6449,6 +6481,14 @@
       "onboard_time": 1679565387,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 219459,
+      "num": 219459,
+      "word": "吴磊涂松岩演父子",
+      "onboard_time": 1679627730,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 218919,
@@ -7059,6 +7099,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 200742,
+      "num": 200742,
+      "word": "Fly登场KPL六周年",
+      "onboard_time": 1679628031,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 200539,
       "num": 200539,
       "word": "张杰未live曜北斗巡回演唱会",
@@ -7427,14 +7475,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 191467,
-      "num": 191467,
-      "word": "吴磊涂松岩演父子",
-      "onboard_time": 1679627730,
-      "rank": 34,
-      "category": "影视"
-    },
-    {
       "raw_hot": 191452,
       "num": 191452,
       "word": "人生之路",
@@ -7649,6 +7689,14 @@
       "onboard_time": 1679590519,
       "rank": 9,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 185413,
+      "num": 185413,
+      "word": "宋旻浩今天入伍",
+      "onboard_time": 1679626889,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 185145,
@@ -7993,14 +8041,6 @@
       "onboard_time": 1679557227,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 175468,
-      "num": 175468,
-      "word": "宋旻浩今天入伍",
-      "onboard_time": 1679626889,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 175260,
@@ -8755,14 +8795,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 146520,
-      "num": 146520,
-      "word": "做好爸妈朋友圈的后勤工作",
-      "onboard_time": 1679627490,
-      "rank": 45,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 146152,
       "num": 192692,
       "word": "海关查获玳瑁拼接的装饰画",
@@ -9187,6 +9219,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 131448,
+      "num": 1599676,
+      "word": "旅游打卡地怎么能少了宝藏村落",
+      "onboard_time": 1679626288,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131317,
       "num": 131317,
       "word": "春天的第一朵花",
@@ -9483,12 +9523,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 121263,
+      "num": 121263,
+      "word": "女子长期遭家暴因感情深不愿离婚",
+      "onboard_time": 1679628388,
+      "rank": 48,
+      "category": "社会负面,情感"
+    },
+    {
       "raw_hot": 120884,
       "num": 120884,
       "word": "薛之谦衢州站第二场空降",
       "onboard_time": 1679226508,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 120755,
+      "num": 120755,
+      "word": "李宇春微博之夜官宣",
+      "onboard_time": 1679628808,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 119872,
@@ -9873,14 +9929,6 @@
       "onboard_time": 1679589262,
       "rank": 49,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 96697,
-      "num": 1506073,
-      "word": "旅游打卡地怎么能少了宝藏村落",
-      "onboard_time": 1679626288,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 96415,
@@ -10269,6 +10317,9 @@
     },
     {
       "word": "#习近平的天下情怀#"
+    },
+    {
+      "word": "#每天认识一件文物#"
     }
   ]
 }
