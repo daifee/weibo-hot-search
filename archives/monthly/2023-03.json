@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679657605709,
+  "endTime": 1679661163820,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -192,6 +192,14 @@
       "word": "重庆大学",
       "onboard_time": 1679109331,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3583850,
+      "num": 3583850,
+      "word": "月亮星星在一起啦",
+      "onboard_time": 1679659529,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -5779,6 +5787,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 976755,
+      "num": 976755,
+      "word": "54岁女子生前贷款85万打赏男主播",
+      "onboard_time": 1679656288,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 975798,
       "num": 514804,
       "word": "安以轩老公陈荣炼案将宣判",
@@ -7897,6 +7913,14 @@
       "onboard_time": 1678861646,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 800318,
+      "num": 800318,
+      "word": "丫丫叼着竹子爬高高",
+      "onboard_time": 1679657428,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 800279,
@@ -12235,6 +12259,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 587875,
+      "num": 587875,
+      "word": "忍网红路牌很久了",
+      "onboard_time": 1679657488,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 587828,
       "num": 587828,
       "word": "婚后不久丈夫瘫痪妻子照顾15年",
@@ -13827,6 +13859,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 534715,
+      "num": 534715,
+      "word": "娱乐圈过年了",
+      "onboard_time": 1679658751,
+      "rank": 9,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 534702,
       "num": 534702,
       "word": "人世间周父周母HE了",
@@ -14345,6 +14385,14 @@
       "onboard_time": 1679372132,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 520503,
+      "num": 520503,
+      "word": "月掩金星",
+      "onboard_time": 1679657789,
+      "rank": 11,
+      "category": "自然"
     },
     {
       "raw_hot": 520260,
@@ -16841,14 +16889,6 @@
       "onboard_time": 1677639149,
       "rank": 26,
       "category": "教育"
-    },
-    {
-      "raw_hot": 455104,
-      "num": 455104,
-      "word": "54岁女子生前贷款85万打赏男主播",
-      "onboard_time": 1679656288,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 454931,
@@ -27675,6 +27715,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 255019,
+      "num": 255019,
+      "word": "如何看待丝芭艺人频繁解约",
+      "onboard_time": 1679661029,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 254927,
       "num": 232112,
       "word": "美国硅谷银行请求员工一起想办法",
@@ -28297,6 +28345,14 @@
       "onboard_time": 1678698025,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 246571,
+      "num": 246571,
+      "word": "何洁素颜",
+      "onboard_time": 1679659469,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 246525,
@@ -32787,6 +32843,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 205007,
+      "num": 205007,
+      "word": "90后情侣3年攒100万裸辞飞荷兰",
+      "onboard_time": 1679660248,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 204991,
       "num": 204991,
       "word": "张雨绮官宣加盟微博之夜",
@@ -33419,6 +33483,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 202065,
+      "num": 202065,
+      "word": "哈哈哈哈哈",
+      "onboard_time": 1679660848,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202053,
       "num": 202053,
       "word": "研究表明养猫养狗或影响睡眠",
@@ -33545,6 +33617,14 @@
       "onboard_time": 1678190007,
       "rank": 26,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 201348,
+      "num": 201348,
+      "word": "把恋爱谈成最快乐的样子",
+      "onboard_time": 1679655629,
+      "rank": 44,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 201341,
@@ -34673,6 +34753,14 @@
       "onboard_time": 1679112748,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 196126,
+      "num": 196126,
+      "word": "崩坏星穹铁道",
+      "onboard_time": 1679660609,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 196125,
@@ -38955,6 +39043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 167123,
+      "num": 167123,
+      "word": "小米发布2022年财报",
+      "onboard_time": 1679658388,
+      "rank": 37,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 167044,
       "num": 167044,
       "word": "hello hello 我们是刺猬",
@@ -39811,6 +39907,14 @@
       "category": "科技,国内要闻"
     },
     {
+      "raw_hot": 158971,
+      "num": 158971,
+      "word": "李一桐毕雯珺你好星期六对视花絮",
+      "onboard_time": 1679658688,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158957,
       "num": 158957,
       "word": "宋亚轩教庄达菲说粤语",
@@ -40249,6 +40353,14 @@
       "onboard_time": 1677923547,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 155073,
+      "num": 155073,
+      "word": "大学的猫对大学生有多信任",
+      "onboard_time": 1679658329,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 155070,
@@ -40889,14 +41001,6 @@
       "onboard_time": 1678971208,
       "rank": 40,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 149884,
-      "num": 149884,
-      "word": "把恋爱谈成最快乐的样子",
-      "onboard_time": 1679655629,
-      "rank": 44,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 149807,
@@ -44075,6 +44179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125836,
+      "num": 125836,
+      "word": "广东人吃辣主打的是氛围感",
+      "onboard_time": 1679660728,
+      "rank": 45,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 125817,
       "num": 125817,
       "word": "TWICE新歌初舞台直拍",
@@ -44304,6 +44416,14 @@
       "word": "刘润南墨镜摩托造型",
       "onboard_time": 1679500527,
       "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 123257,
+      "num": 123257,
+      "word": "路炎晨陪归晓做产检",
+      "onboard_time": 1679660068,
+      "rank": 46,
       "category": "影视"
     },
     {
@@ -45451,14 +45571,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 111576,
-      "num": 111576,
-      "word": "丫丫叼着竹子爬高高",
-      "onboard_time": 1679657428,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 111551,
       "num": 111551,
       "word": "淄博烧烤节",
@@ -45979,14 +46091,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 106808,
-      "num": 106808,
-      "word": "忍网红路牌很久了",
-      "onboard_time": 1679657488,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 106785,
       "num": 106785,
       "word": "惊蛰节气养生这样做",
@@ -46225,6 +46329,14 @@
       "onboard_time": 1678353806,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 104690,
+      "num": 104690,
+      "word": "TT对战EDG",
+      "onboard_time": 1679659708,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 104598,
@@ -49169,6 +49281,14 @@
       "onboard_time": 1678050612,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 28718,
+      "num": 367530,
+      "word": "罗永浩许愿成为行业明灯",
+      "onboard_time": 1679659227,
+      "rank": 14,
+      "category": "科技"
     },
     {
       "raw_hot": 28239,
