@@ -1,6 +1,6 @@
 {
   "startTime": 1679675078237,
-  "endTime": 1679699832776,
+  "endTime": 1679700818041,
   "band_list": [
     {
       "raw_hot": 1115573,
@@ -51,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 608670,
+      "num": 499611,
+      "word": "成都一幼师疑似虐打幼童",
+      "onboard_time": 1679693952,
+      "rank": 10,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 603503,
       "num": 603503,
       "word": "毛晓彤新剧收视率破2",
@@ -73,14 +81,6 @@
       "onboard_time": 1679666849,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 499611,
-      "num": 499611,
-      "word": "成都一幼师疑似虐打幼童",
-      "onboard_time": 1679693952,
-      "rank": 10,
-      "category": "社会负面"
     },
     {
       "raw_hot": 462016,
@@ -211,12 +211,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193134,
+      "num": 193134,
+      "word": "警方通报宁波一车撞人后倒回碾压",
+      "onboard_time": 1679685912,
+      "rank": 48,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 190047,
       "num": 190047,
       "word": "广东人吃辣主打的是氛围感",
       "onboard_time": 1679660728,
       "rank": 22,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 188369,
+      "num": 156286,
+      "word": "切糕老板多切3斤威胁不买就报警",
+      "onboard_time": 1679650050,
+      "rank": 28,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 184130,
@@ -251,14 +267,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 170570,
-      "num": 170570,
-      "word": "警方通报宁波一车撞人后倒回碾压",
-      "onboard_time": 1679685912,
-      "rank": 48,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 168653,
       "num": 136796,
       "word": "林俊杰唱新歌感谢林秋离",
@@ -273,14 +281,6 @@
       "onboard_time": 1679672248,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 156286,
-      "num": 156286,
-      "word": "切糕老板多切3斤威胁不买就报警",
-      "onboard_time": 1679650050,
-      "rank": 28,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 150072,
@@ -315,8 +315,8 @@
       "category": "动漫,影视"
     },
     {
-      "raw_hot": 127698,
-      "num": 127698,
+      "raw_hot": 130066,
+      "num": 130066,
       "word": "华晨宇熬整晚等魏如萱起床对歌",
       "onboard_time": 1679699177,
       "rank": 12,
@@ -379,6 +379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 108694,
+      "num": 108694,
+      "word": "年轻人摆摊主打自己想吃",
+      "onboard_time": 1679677519,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 105908,
       "num": 119159,
       "word": "又见马龙许昕对练",
@@ -435,14 +443,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 85956,
-      "num": 85956,
-      "word": "年轻人摆摊主打自己想吃",
-      "onboard_time": 1679677519,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 67366,
       "num": 615938,
       "word": "中国杂交水稻推广到数十国家和地区",
@@ -451,12 +451,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 53227,
-      "num": 53227,
+      "raw_hot": 64501,
+      "num": 64501,
+      "word": "清华学生发现诺奖背景报告笔误",
+      "onboard_time": 1679700498,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 60380,
+      "num": 60380,
       "word": "想要长高的人有福了",
       "onboard_time": 1679677697,
       "rank": 35,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 59077,
+      "num": 59077,
+      "word": "他是谁断更",
+      "onboard_time": 1679700498,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 53204,
@@ -483,6 +499,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 46308,
+      "num": 46308,
+      "word": "法国4比0荷兰",
+      "onboard_time": 1679700618,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 42135,
       "num": 42135,
       "word": "小智故事最终章",
@@ -491,12 +515,28 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 38737,
+      "num": 38737,
+      "word": "法国vs荷兰",
+      "onboard_time": 1679699958,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 35729,
       "num": 35729,
       "word": "欧洲杯预选赛",
       "onboard_time": 1679694615,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 31371,
+      "num": 31371,
+      "word": "原来苏东坡是摩羯座",
+      "onboard_time": 1679699838,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 31242,
