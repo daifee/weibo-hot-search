@@ -1,6 +1,6 @@
 {
   "startTime": 1679675078237,
-  "endTime": 1679689136607,
+  "endTime": 1679690014530,
   "band_list": [
     {
       "raw_hot": 1115573,
@@ -411,20 +411,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 81077,
+      "num": 81077,
+      "word": "警方通报宁波一车撞人后倒回碾压",
+      "onboard_time": 1679685912,
+      "rank": 48,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 67366,
       "num": 615938,
       "word": "中国杂交水稻推广到数十国家和地区",
       "onboard_time": 1679667452,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 63264,
-      "num": 63264,
-      "word": "警方通报宁波一车撞人后倒回碾压",
-      "onboard_time": 1679685912,
-      "rank": 48,
-      "category": "社会负面"
     },
     {
       "raw_hot": 47588,
