@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679693613958,
+  "endTime": 1679696205378,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -46979,6 +46979,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 101893,
+      "num": 48268,
+      "word": "成都一幼师疑似虐打幼童",
+      "onboard_time": 1679693952,
+      "rank": 10,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 101536,
       "num": 101536,
       "word": "天津男篮vs广厦男篮",
@@ -49203,6 +49211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 47896,
+      "num": 47896,
+      "word": "在华晨宇的舞台看到了星河",
+      "onboard_time": 1679695092,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 47588,
       "num": 47588,
       "word": "年轻人摆摊主打自己想吃",
@@ -49833,6 +49849,14 @@
       "onboard_time": 1678982005,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 20856,
+      "num": 20856,
+      "word": "欧洲杯预选赛",
+      "onboard_time": 1679694615,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 20843,
