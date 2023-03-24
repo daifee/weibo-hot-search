@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679685252007,
+  "endTime": 1679686398964,
   "band_list": [
     {
       "raw_hot": 10450851,
@@ -11833,6 +11833,14 @@
       "onboard_time": 1679637629,
       "rank": 39,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 14206,
+      "num": 18394,
+      "word": "警方通报宁波一车撞人后倒回碾压",
+      "onboard_time": 1679685912,
+      "rank": 48,
+      "category": "社会负面"
     }
   ],
   "hotgov_list": [
