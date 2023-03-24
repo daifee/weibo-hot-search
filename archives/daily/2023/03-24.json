@@ -1,11 +1,19 @@
 {
   "startTime": 1679588746312,
-  "endTime": 1679632581083,
+  "endTime": 1679634963667,
   "band_list": [
     {
       "raw_hot": 10450851,
       "num": 10450851,
       "word": "TFBOYS",
+      "onboard_time": 1679623707,
+      "rank": 0,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 7313901,
+      "num": 7313901,
+      "word": "TFBOYS 微博之夜",
       "onboard_time": 1679623707,
       "rank": 0,
       "category": "作品衍生"
@@ -17,6 +25,14 @@
       "onboard_time": 1679614644,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1860712,
+      "num": 1023819,
+      "word": "到达上海机场的明星",
+      "onboard_time": 1679634031,
+      "rank": 3,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1780848,
@@ -187,20 +203,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 846549,
+      "num": 846549,
+      "word": "女子长期遭家暴因感情深不愿离婚",
+      "onboard_time": 1679628388,
+      "rank": 48,
+      "category": "社会负面,情感"
+    },
+    {
       "raw_hot": 845242,
       "num": 845242,
       "word": "白鹿张凌赫 遮太阳",
       "onboard_time": 1679617168,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 843266,
-      "num": 843266,
-      "word": "女子长期遭家暴因感情深不愿离婚",
-      "onboard_time": 1679628388,
-      "rank": 48,
-      "category": "社会负面,情感"
     },
     {
       "raw_hot": 829208,
@@ -299,6 +315,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 563447,
+      "num": 563447,
+      "word": "张杰演唱会新增郑州站沈阳站",
+      "onboard_time": 1679634334,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 561234,
       "num": 561234,
       "word": "丫丫吃甘蔗",
@@ -361,6 +385,14 @@
       "onboard_time": 1679620948,
       "rank": 47,
       "category": "科技"
+    },
+    {
+      "raw_hot": 485661,
+      "num": 485661,
+      "word": "一个人哭出来一车人收不住",
+      "onboard_time": 1679631031,
+      "rank": 33,
+      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 478411,
@@ -467,6 +499,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 348426,
+      "num": 348426,
+      "word": "半天妖烤鱼两涉事门店永久关停",
+      "onboard_time": 1679633612,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 322748,
       "num": 322748,
       "word": "何炅听天天想你哭了",
@@ -523,12 +563,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 294911,
-      "num": 294911,
-      "word": "一个人哭出来一车人收不住",
-      "onboard_time": 1679631031,
-      "rank": 33,
-      "category": "幽默,社会新闻"
+      "raw_hot": 297330,
+      "num": 297330,
+      "word": "什么土豆要等三年才吃",
+      "onboard_time": 1679632774,
+      "rank": 23,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 293444,
+      "num": 293444,
+      "word": "陕西省考",
+      "onboard_time": 1679633315,
+      "rank": 25,
+      "category": "教育"
     },
     {
       "raw_hot": 289754,
@@ -595,6 +643,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 263609,
+      "num": 263609,
+      "word": "我妈去买菜结果被抓去走秀",
+      "onboard_time": 1679629592,
+      "rank": 46,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 261686,
       "num": 261686,
       "word": "想瘦腿的有福了",
@@ -609,6 +665,14 @@
       "onboard_time": 1679571809,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 245212,
+      "num": 245212,
+      "word": "我的宝宝一夜之间怎么啦",
+      "onboard_time": 1679632294,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 243762,
@@ -729,6 +793,14 @@
       "onboard_time": 1679628031,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 194484,
+      "num": 194484,
+      "word": "陈立农小时候也抄过歌词",
+      "onboard_time": 1679634632,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 194282,
@@ -899,22 +971,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 158816,
-      "num": 158816,
-      "word": "我的宝宝一夜之间怎么啦",
-      "onboard_time": 1679632294,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 156605,
-      "num": 156605,
-      "word": "我妈去买菜结果被抓去走秀",
-      "onboard_time": 1679629592,
-      "rank": 46,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 155130,
       "num": 155130,
       "word": "葡萄牙4比0列支敦士登",
@@ -963,6 +1019,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 144879,
+      "num": 144879,
+      "word": "猫咪舔毛被打断是什么反应",
+      "onboard_time": 1679633734,
+      "rank": 41,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 144835,
       "num": 194842,
       "word": "这猫真的不是大爷变的吗",
@@ -979,6 +1043,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 139763,
+      "num": 139763,
+      "word": "没想到连黑板擦都住单间了",
+      "onboard_time": 1679632774,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 135447,
       "num": 194398,
       "word": "丫丫最新画面",
@@ -993,6 +1065,14 @@
       "onboard_time": 1679616749,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 133710,
+      "num": 133710,
+      "word": "大熊猫泡澡也太像人了吧",
+      "onboard_time": 1679630136,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 133189,
@@ -1121,6 +1201,14 @@
       "onboard_time": 1679577209,
       "rank": 39,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 92732,
+      "num": 92732,
+      "word": "网友老照片寻人的评论区",
+      "onboard_time": 1679632116,
+      "rank": 49,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 89660,

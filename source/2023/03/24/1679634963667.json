@@ -1,0 +1,410 @@
+{
+  "runTime": 1679634963667,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7313901,
+        "num": 7313901,
+        "word": "TFBOYS 微博之夜",
+        "onboard_time": 1679623707,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1278897,
+        "num": 1278897,
+        "word": "团时朗去世",
+        "onboard_time": 1679622387,
+        "rank": 1,
+        "category": "动漫,艺人"
+      },
+      {
+        "raw_hot": 109783,
+        "num": 1036586,
+        "word": "旅游打卡地怎么能少了宝藏村落",
+        "onboard_time": 1679626288,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1860712,
+        "num": 1023819,
+        "word": "到达上海机场的明星",
+        "onboard_time": 1679634031,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 985201,
+        "num": 985201,
+        "word": "吴磊放下男德",
+        "onboard_time": 1679629771,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1146736,
+        "num": 980408,
+        "word": "肖战正式官宣出席微博之夜",
+        "onboard_time": 1679627968,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 846549,
+        "num": 846549,
+        "word": "女子长期遭家暴因感情深不愿离婚",
+        "onboard_time": 1679628388,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 808914,
+        "num": 808914,
+        "word": "广州冰雹",
+        "onboard_time": 1679625808,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1026251,
+        "num": 791992,
+        "word": "微博之夜全阵容官宣",
+        "onboard_time": 1679629713,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 759026,
+        "num": 759026,
+        "word": "家长称4名失联男孩已在缅甸",
+        "onboard_time": 1679624308,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 634290,
+        "num": 634290,
+        "word": "劳荣枝死刑复核最新进展",
+        "onboard_time": 1679617829,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 566839,
+        "num": 566839,
+        "word": "海底捞回应孕妇可以插队",
+        "onboard_time": 1679614644,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 563447,
+        "num": 563447,
+        "word": "张杰演唱会新增郑州站沈阳站",
+        "onboard_time": 1679634334,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 521606,
+        "num": 521606,
+        "word": "微博之夜主持人有了吗",
+        "onboard_time": 1679625147,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 502251,
+        "num": 502251,
+        "word": "泰国华人回应赴泰旅游被嘎腰子",
+        "onboard_time": 1679624848,
+        "rank": 14,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 488614,
+        "num": 488614,
+        "word": "范丞丞给刘亦菲让座",
+        "onboard_time": 1679626108,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 485661,
+        "num": 485661,
+        "word": "一个人哭出来一车人收不住",
+        "onboard_time": 1679631031,
+        "rank": 16,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 436645,
+        "num": 436645,
+        "word": "女子实名举报医生丈夫出轨",
+        "onboard_time": 1679617348,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388510,
+        "num": 388510,
+        "word": "博士答辩现场的压迫感",
+        "onboard_time": 1679626349,
+        "rank": 18,
+        "category": "教育,幽默"
+      },
+      {
+        "raw_hot": 348426,
+        "num": 348426,
+        "word": "半天妖烤鱼两涉事门店永久关停",
+        "onboard_time": 1679633612,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 434536,
+        "num": 344218,
+        "word": "男子因名字被同学调侃导抑郁症",
+        "onboard_time": 1679630555,
+        "rank": 20,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 336830,
+        "num": 336830,
+        "word": "中国小伙应聘泰国鱼粉厂被骗至缅甸",
+        "onboard_time": 1679625267,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306270,
+        "num": 306270,
+        "word": "做好爸妈朋友圈的后勤工作",
+        "onboard_time": 1679627490,
+        "rank": 22,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 297330,
+        "num": 297330,
+        "word": "什么土豆要等三年才吃",
+        "onboard_time": 1679632774,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 295339,
+        "num": 295339,
+        "word": "禁止中小学校举办或参与举办培训机构",
+        "onboard_time": 1679624247,
+        "rank": 24,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 293444,
+        "num": 293444,
+        "word": "陕西省考",
+        "onboard_time": 1679633315,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 288355,
+        "num": 288355,
+        "word": "泰国旅游骗局视频已被下架",
+        "onboard_time": 1679619088,
+        "rank": 26,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 263609,
+        "num": 263609,
+        "word": "我妈去买菜结果被抓去走秀",
+        "onboard_time": 1679629592,
+        "rank": 27,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 261235,
+        "num": 261235,
+        "word": "白鹿张凌赫 遮太阳",
+        "onboard_time": 1679617168,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 245212,
+        "num": 245212,
+        "word": "我的宝宝一夜之间怎么啦",
+        "onboard_time": 1679632294,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 314750,
+        "num": 237649,
+        "word": "小红书崩了",
+        "onboard_time": 1679627968,
+        "rank": 30,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 228285,
+        "num": 228285,
+        "word": "离婚冷静期内婆婆去世丈夫拒分遗产",
+        "onboard_time": 1679594235,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226706,
+        "num": 226706,
+        "word": "招聘大熊猫饲养员数百份简历零录取",
+        "onboard_time": 1679615665,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208448,
+        "num": 208448,
+        "word": "花三三道歉",
+        "onboard_time": 1679614943,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 194484,
+        "num": 194484,
+        "word": "陈立农小时候也抄过歌词",
+        "onboard_time": 1679634632,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168627,
+        "num": 168627,
+        "word": "女生地摊套玩具熊拆开发现摄像头",
+        "onboard_time": 1679618308,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163067,
+        "num": 163067,
+        "word": "足协黄松和王小平被查",
+        "onboard_time": 1679628210,
+        "rank": 36,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 159713,
+        "num": 159713,
+        "word": "你永远不知道小狗肚子里有什么",
+        "onboard_time": 1679629713,
+        "rank": 37,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 157944,
+        "num": 157944,
+        "word": "蒙犽源梦新皮肤",
+        "onboard_time": 1679629653,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 153551,
+        "num": 153551,
+        "word": "感受到了打工人的怨气",
+        "onboard_time": 1679631392,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 150676,
+        "num": 150676,
+        "word": "吴倩在武大唱歌",
+        "onboard_time": 1679615124,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144879,
+        "num": 144879,
+        "word": "猫咪舔毛被打断是什么反应",
+        "onboard_time": 1679633734,
+        "rank": 41,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 141076,
+        "num": 141076,
+        "word": "杰克奥特曼",
+        "onboard_time": 1679622327,
+        "rank": 42,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 139763,
+        "num": 139763,
+        "word": "没想到连黑板擦都住单间了",
+        "onboard_time": 1679632774,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133710,
+        "num": 133710,
+        "word": "大熊猫泡澡也太像人了吧",
+        "onboard_time": 1679630136,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121515,
+        "num": 121515,
+        "word": "白客因身体不适无法出席新片路演",
+        "onboard_time": 1679620109,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 119674,
+        "num": 119674,
+        "word": "宋旻浩今天入伍",
+        "onboard_time": 1679626889,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117630,
+        "num": 117630,
+        "word": "阿根廷世界杯夺冠庆典",
+        "onboard_time": 1679615786,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107973,
+        "num": 107973,
+        "word": "杨紫上海机场路透",
+        "onboard_time": 1679623466,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92732,
+        "num": 92732,
+        "word": "网友老照片寻人的评论区",
+        "onboard_time": 1679632116,
+        "rank": 49,
+        "category": "幽默,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的天下情怀#"
+    }
+  }
+}

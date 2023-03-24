@@ -1,11 +1,19 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679632581083,
+  "endTime": 1679634963667,
   "band_list": [
     {
       "raw_hot": 10450851,
       "num": 10450851,
       "word": "TFBOYS",
+      "onboard_time": 1679623707,
+      "rank": 0,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 7313901,
+      "num": 7313901,
+      "word": "TFBOYS 微博之夜",
       "onboard_time": 1679623707,
       "rank": 0,
       "category": "作品衍生"
@@ -281,6 +289,14 @@
       "onboard_time": 1679574388,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1860712,
+      "num": 1023819,
+      "word": "到达上海机场的明星",
+      "onboard_time": 1679634031,
+      "rank": 3,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1833540,
@@ -1731,6 +1747,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 846549,
+      "num": 846549,
+      "word": "女子长期遭家暴因感情深不愿离婚",
+      "onboard_time": 1679628388,
+      "rank": 48,
+      "category": "社会负面,情感"
+    },
+    {
       "raw_hot": 845242,
       "num": 845242,
       "word": "白鹿张凌赫 遮太阳",
@@ -1753,14 +1777,6 @@
       "onboard_time": 1679563766,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 843266,
-      "num": 843266,
-      "word": "女子长期遭家暴因感情深不愿离婚",
-      "onboard_time": 1679628388,
-      "rank": 48,
-      "category": "社会负面,情感"
     },
     {
       "raw_hot": 840129,
@@ -2899,6 +2915,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 563447,
+      "num": 563447,
+      "word": "张杰演唱会新增郑州站沈阳站",
+      "onboard_time": 1679634334,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 562260,
       "num": 562260,
       "word": "网剧回响",
@@ -3377,6 +3401,14 @@
       "onboard_time": 1679334734,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 485661,
+      "num": 485661,
+      "word": "一个人哭出来一车人收不住",
+      "onboard_time": 1679631031,
+      "rank": 33,
+      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 485436,
@@ -4595,6 +4627,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 348426,
+      "num": 348426,
+      "word": "半天妖烤鱼两涉事门店永久关停",
+      "onboard_time": 1679633612,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 347949,
       "num": 347949,
       "word": "杨幂起诉网友侵权案将开庭",
@@ -5219,6 +5259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 297330,
+      "num": 297330,
+      "word": "什么土豆要等三年才吃",
+      "onboard_time": 1679632774,
+      "rank": 23,
+      "category": "美食"
+    },
+    {
       "raw_hot": 297310,
       "num": 297310,
       "word": "中非",
@@ -5259,14 +5307,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 294911,
-      "num": 294911,
-      "word": "一个人哭出来一车人收不住",
-      "onboard_time": 1679631031,
-      "rank": 33,
-      "category": "幽默,社会新闻"
-    },
-    {
       "raw_hot": 294465,
       "num": 294465,
       "word": "白鹿海边花絮",
@@ -5281,6 +5321,14 @@
       "onboard_time": 1679281827,
       "rank": 37,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 293444,
+      "num": 293444,
+      "word": "陕西省考",
+      "onboard_time": 1679633315,
+      "rank": 25,
+      "category": "教育"
     },
     {
       "raw_hot": 292405,
@@ -5675,6 +5723,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 263609,
+      "num": 263609,
+      "word": "我妈去买菜结果被抓去走秀",
+      "onboard_time": 1679629592,
+      "rank": 46,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 263494,
       "num": 263494,
       "word": "网曝重庆瑞鹏宠物医院医生虐待猫咪",
@@ -5969,6 +6025,14 @@
       "onboard_time": 1679383951,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 245212,
+      "num": 245212,
+      "word": "我的宝宝一夜之间怎么啦",
+      "onboard_time": 1679632294,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 245145,
@@ -7379,6 +7443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194484,
+      "num": 194484,
+      "word": "陈立农小时候也抄过歌词",
+      "onboard_time": 1679634632,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194316,
       "num": 316887,
       "word": "FindX6发布会",
@@ -8571,14 +8643,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 158816,
-      "num": 158816,
-      "word": "我的宝宝一夜之间怎么啦",
-      "onboard_time": 1679632294,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 157820,
       "num": 157820,
       "word": "孟子义替徐正溪回应牙缝大",
@@ -8609,14 +8673,6 @@
       "onboard_time": 1679389770,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 156605,
-      "num": 156605,
-      "word": "我妈去买菜结果被抓去走秀",
-      "onboard_time": 1679629592,
-      "rank": 46,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 156410,
@@ -8947,6 +9003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 144879,
+      "num": 144879,
+      "word": "猫咪舔毛被打断是什么反应",
+      "onboard_time": 1679633734,
+      "rank": 41,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 144835,
       "num": 194842,
       "word": "这猫真的不是大爷变的吗",
@@ -9072,6 +9136,14 @@
       "word": "驾校有你们真是了不起",
       "onboard_time": 1679490449,
       "rank": 39,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 139763,
+      "num": 139763,
+      "word": "没想到连黑板擦都住单间了",
+      "onboard_time": 1679632774,
+      "rank": 43,
       "category": "幽默"
     },
     {
@@ -9257,6 +9329,14 @@
       "onboard_time": 1679537727,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 133710,
+      "num": 133710,
+      "word": "大熊猫泡澡也太像人了吧",
+      "onboard_time": 1679630136,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 133612,
@@ -10065,6 +10145,14 @@
       "onboard_time": 1679236169,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 92732,
+      "num": 92732,
+      "word": "网友老照片寻人的评论区",
+      "onboard_time": 1679632116,
+      "rank": 49,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 91184,
