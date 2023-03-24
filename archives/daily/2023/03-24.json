@@ -1,6 +1,6 @@
 {
   "startTime": 1679588746312,
-  "endTime": 1679662197962,
+  "endTime": 1679664124949,
   "band_list": [
     {
       "raw_hot": 10450851,
@@ -65,6 +65,14 @@
       "onboard_time": 1679614644,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2260830,
+      "num": 530747,
+      "word": "赛琳娜为海莉发声",
+      "onboard_time": 1679662409,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1860712,
@@ -267,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 998333,
+      "num": 998333,
+      "word": "90后情侣3年攒100万裸辞飞荷兰",
+      "onboard_time": 1679660248,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 996782,
       "num": 996782,
       "word": "招聘大熊猫饲养员数百份简历零录取",
@@ -428,7 +444,7 @@
     },
     {
       "raw_hot": 748988,
-      "num": 273379,
+      "num": 290704,
       "word": "切糕老板多切3斤威胁不买就报警",
       "onboard_time": 1679650050,
       "rank": 29,
@@ -499,6 +515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 640353,
+      "num": 640353,
+      "word": "娱乐圈过年了",
+      "onboard_time": 1679658751,
+      "rank": 9,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 638939,
       "num": 629992,
       "word": "文淇演我看到刘亦菲",
@@ -555,14 +579,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 605097,
-      "num": 605097,
-      "word": "娱乐圈过年了",
-      "onboard_time": 1679658751,
-      "rank": 9,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 604261,
       "num": 604261,
       "word": "重庆农行",
@@ -611,6 +627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 574070,
+      "num": 574070,
+      "word": "张雨绮微博之夜礼服",
+      "onboard_time": 1679662890,
+      "rank": 7,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 561234,
       "num": 561234,
       "word": "丫丫吃甘蔗",
@@ -625,6 +649,14 @@
       "onboard_time": 1679574388,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 549877,
+      "num": 549877,
+      "word": "范丞丞说乐华演唱会还没通知我",
+      "onboard_time": 1679662409,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 547539,
@@ -689,14 +721,6 @@
       "onboard_time": 1679641649,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 495285,
-      "num": 495285,
-      "word": "90后情侣3年攒100万裸辞飞荷兰",
-      "onboard_time": 1679660248,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 494604,
@@ -875,6 +899,14 @@
       "category": "综艺,幽默"
     },
     {
+      "raw_hot": 383087,
+      "num": 383087,
+      "word": "何洁素颜",
+      "onboard_time": 1679659469,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 380687,
       "num": 380687,
       "word": "小欢喜林磊儿近照",
@@ -1003,14 +1035,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 308172,
-      "num": 308172,
-      "word": "何洁素颜",
-      "onboard_time": 1679659469,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 305123,
       "num": 305123,
       "word": "于正评价田曦薇很甜",
@@ -1075,6 +1099,14 @@
       "category": "幽默,综艺"
     },
     {
+      "raw_hot": 274255,
+      "num": 330314,
+      "word": "NCTDREAM香港演唱会",
+      "onboard_time": 1679663609,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 274246,
       "num": 274246,
       "word": "吾木提淘汰",
@@ -1089,6 +1121,14 @@
       "onboard_time": 1679649507,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 270992,
+      "num": 270992,
+      "word": "EDG战胜TT",
+      "onboard_time": 1679663609,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 268895,
@@ -1171,6 +1211,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 255289,
+      "num": 255289,
+      "word": "TT对战EDG",
+      "onboard_time": 1679659708,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 254263,
       "num": 254263,
       "word": "AI爆发对大学生选专业的影响",
@@ -1217,6 +1265,14 @@
       "onboard_time": 1679652267,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 235891,
+      "num": 235891,
+      "word": "大学的猫对大学生有多信任",
+      "onboard_time": 1679658329,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 235389,
@@ -1291,6 +1347,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 225409,
+      "num": 225409,
+      "word": "库克晒和黄龄合影",
+      "onboard_time": 1679663069,
+      "rank": 28,
+      "category": "科技,艺人"
+    },
+    {
       "raw_hot": 220215,
       "num": 220215,
       "word": "铃芽之旅画面",
@@ -1321,14 +1385,6 @@
       "onboard_time": 1679646026,
       "rank": 47,
       "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 215460,
-      "num": 215460,
-      "word": "大学的猫对大学生有多信任",
-      "onboard_time": 1679658329,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 213698,
@@ -1443,6 +1499,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 199384,
+      "num": 199384,
+      "word": "邓超陈赫再说weare伐木累",
+      "onboard_time": 1679663729,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198065,
       "num": 198065,
       "word": "朴智旻主打曲MV",
@@ -1464,6 +1528,14 @@
       "word": "崩坏星穹铁道",
       "onboard_time": 1679660609,
       "rank": 31,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 195178,
+      "num": 195178,
+      "word": "AG对战LGD",
+      "onboard_time": 1679662288,
+      "rank": 35,
       "category": "游戏"
     },
     {
@@ -1603,6 +1675,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 178318,
+      "num": 178318,
+      "word": "广东人吃辣主打的是氛围感",
+      "onboard_time": 1679660728,
+      "rank": 45,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 174825,
       "num": 130132,
       "word": "图赫尔将执教拜仁",
@@ -1683,20 +1763,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 163503,
+      "num": 163503,
+      "word": "最强大脑",
+      "onboard_time": 1679662288,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161754,
       "num": 161754,
       "word": "武大靖说期待在米兰赛场看到自己",
       "onboard_time": 1679625987,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 161624,
-      "num": 161624,
-      "word": "广东人吃辣主打的是氛围感",
-      "onboard_time": 1679660728,
-      "rank": 45,
-      "category": "美食,幽默"
     },
     {
       "raw_hot": 159564,
@@ -1859,6 +1939,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 141398,
+      "num": 141398,
+      "word": "路炎晨陪归晓做产检",
+      "onboard_time": 1679660068,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 139925,
       "num": 139925,
       "word": "聂小雨下线了吗",
@@ -1899,12 +1987,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 134092,
-      "num": 134092,
-      "word": "路炎晨陪归晓做产检",
-      "onboard_time": 1679660068,
-      "rank": 46,
-      "category": "影视"
+      "raw_hot": 134626,
+      "num": 134626,
+      "word": "薛凯琪吃麻辣烫视频",
+      "onboard_time": 1679662890,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 133189,
@@ -1913,14 +2001,6 @@
       "onboard_time": 1679591657,
       "rank": 21,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 131908,
-      "num": 131908,
-      "word": "TT对战EDG",
-      "onboard_time": 1679659708,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 131557,
@@ -2017,6 +2097,14 @@
       "onboard_time": 1679585550,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 116650,
+      "num": 116650,
+      "word": "剑南春董事长被判有期徒刑5年罚4亿",
+      "onboard_time": 1679663971,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 115450,
@@ -2224,6 +2312,14 @@
       "word": "海关查获玳瑁拼接的装饰画",
       "onboard_time": 1679582612,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 51625,
+      "num": 402479,
+      "word": "连花清瘟清的什么瘟",
+      "onboard_time": 1679662828,
+      "rank": 14,
       "category": "社会新闻"
     },
     {

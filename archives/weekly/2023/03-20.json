@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679662197962,
+  "endTime": 1679664124949,
   "band_list": [
     {
       "raw_hot": 10450851,
@@ -217,6 +217,14 @@
       "onboard_time": 1679389051,
       "rank": 9,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 2260830,
+      "num": 530747,
+      "word": "赛琳娜为海莉发声",
+      "onboard_time": 1679662409,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2259811,
@@ -1403,6 +1411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 998333,
+      "num": 998333,
+      "word": "90后情侣3年攒100万裸辞飞荷兰",
+      "onboard_time": 1679660248,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 996782,
       "num": 996782,
       "word": "招聘大熊猫饲养员数百份简历零录取",
@@ -2244,7 +2260,7 @@
     },
     {
       "raw_hot": 748988,
-      "num": 273379,
+      "num": 290704,
       "word": "切糕老板多切3斤威胁不买就报警",
       "onboard_time": 1679650050,
       "rank": 29,
@@ -2683,6 +2699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 640353,
+      "num": 640353,
+      "word": "娱乐圈过年了",
+      "onboard_time": 1679658751,
+      "rank": 9,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 639785,
       "num": 639785,
       "word": "辅警往身上浇了盆水后冲进火场",
@@ -2889,14 +2913,6 @@
       "onboard_time": 1679229987,
       "rank": 11,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 605097,
-      "num": 605097,
-      "word": "娱乐圈过年了",
-      "onboard_time": 1679658751,
-      "rank": 9,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 605062,
@@ -3139,6 +3155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 574070,
+      "num": 574070,
+      "word": "张雨绮微博之夜礼服",
+      "onboard_time": 1679662890,
+      "rank": 7,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 573989,
       "num": 573989,
       "word": "很难被拒绝的简历",
@@ -3305,6 +3329,14 @@
       "onboard_time": 1679303550,
       "rank": 9,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 549877,
+      "num": 549877,
+      "word": "范丞丞说乐华演唱会还没通知我",
+      "onboard_time": 1679662409,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 547607,
@@ -3649,14 +3681,6 @@
       "onboard_time": 1679579791,
       "rank": 9,
       "category": "教育"
-    },
-    {
-      "raw_hot": 495285,
-      "num": 495285,
-      "word": "90后情侣3年攒100万裸辞飞荷兰",
-      "onboard_time": 1679660248,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 494030,
@@ -4659,6 +4683,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 383087,
+      "num": 383087,
+      "word": "何洁素颜",
+      "onboard_time": 1679659469,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 383021,
       "num": 383021,
       "word": "你会花多少钱看一场演唱会",
@@ -5555,14 +5587,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 308172,
-      "num": 308172,
-      "word": "何洁素颜",
-      "onboard_time": 1679659469,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 307958,
       "num": 307958,
       "word": "上海街头现移动冰块车",
@@ -6075,6 +6099,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 274255,
+      "num": 330314,
+      "word": "NCTDREAM香港演唱会",
+      "onboard_time": 1679663609,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 274229,
       "num": 274229,
       "word": "唐嫣小青剧照",
@@ -6105,6 +6137,14 @@
       "onboard_time": 1679324069,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 270992,
+      "num": 270992,
+      "word": "EDG战胜TT",
+      "onboard_time": 1679663609,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 270530,
@@ -6337,6 +6377,14 @@
       "onboard_time": 1679549369,
       "rank": 45,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 255289,
+      "num": 255289,
+      "word": "TT对战EDG",
+      "onboard_time": 1679659708,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 254263,
@@ -6811,6 +6859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 235891,
+      "num": 235891,
+      "word": "大学的猫对大学生有多信任",
+      "onboard_time": 1679658329,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 235389,
       "num": 235389,
       "word": "猫咪舔毛被打断是什么反应",
@@ -7059,6 +7115,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 225409,
+      "num": 225409,
+      "word": "库克晒和黄龄合影",
+      "onboard_time": 1679663069,
+      "rank": 28,
+      "category": "科技,艺人"
+    },
+    {
       "raw_hot": 225194,
       "num": 225194,
       "word": "谭松韵晒新疆雪景随拍",
@@ -7265,14 +7329,6 @@
       "onboard_time": 1679362948,
       "rank": 47,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 215460,
-      "num": 215460,
-      "word": "大学的猫对大学生有多信任",
-      "onboard_time": 1679658329,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 215431,
@@ -7923,6 +7979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 199384,
+      "num": 199384,
+      "word": "邓超陈赫再说weare伐木累",
+      "onboard_time": 1679663729,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199313,
       "num": 199313,
       "word": "去年高端手机市场苹果占75%",
@@ -8072,6 +8136,14 @@
       "word": "LNG对战UP",
       "onboard_time": 1679501663,
       "rank": 23,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 195178,
+      "num": 195178,
+      "word": "AG对战LGD",
+      "onboard_time": 1679662288,
+      "rank": 35,
       "category": "游戏"
     },
     {
@@ -8787,6 +8859,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 178318,
+      "num": 178318,
+      "word": "广东人吃辣主打的是氛围感",
+      "onboard_time": 1679660728,
+      "rank": 45,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 178118,
       "num": 178118,
       "word": "摸猫的时候突然打它一下",
@@ -9275,6 +9355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 163503,
+      "num": 163503,
+      "word": "最强大脑",
+      "onboard_time": 1679662288,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 163482,
       "num": 163482,
       "word": "友谊中的危险信号",
@@ -9353,14 +9441,6 @@
       "onboard_time": 1679323831,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 161624,
-      "num": 161624,
-      "word": "广东人吃辣主打的是氛围感",
-      "onboard_time": 1679660728,
-      "rank": 45,
-      "category": "美食,幽默"
     },
     {
       "raw_hot": 161091,
@@ -9923,6 +10003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 141398,
+      "num": 141398,
+      "word": "路炎晨陪归晓做产检",
+      "onboard_time": 1679660068,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 141299,
       "num": 207442,
       "word": "MateX3到底能有多薄",
@@ -10131,6 +10219,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 134626,
+      "num": 134626,
+      "word": "薛凯琪吃麻辣烫视频",
+      "onboard_time": 1679662890,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 134445,
       "num": 134445,
       "word": "上市公司回应网传怒斥员工视频",
@@ -10153,14 +10249,6 @@
       "onboard_time": 1679537727,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 134092,
-      "num": 134092,
-      "word": "路炎晨陪归晓做产检",
-      "onboard_time": 1679660068,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 133612,
@@ -10225,14 +10313,6 @@
       "onboard_time": 1679491114,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 131908,
-      "num": 131908,
-      "word": "TT对战EDG",
-      "onboard_time": 1679659708,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 131557,
@@ -10649,6 +10729,14 @@
       "onboard_time": 1679481328,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 116650,
+      "num": 116650,
+      "word": "剑南春董事长被判有期徒刑5年罚4亿",
+      "onboard_time": 1679663971,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 116171,
@@ -11249,6 +11337,14 @@
       "onboard_time": 1679248275,
       "rank": 19,
       "category": "幽默,影视"
+    },
+    {
+      "raw_hot": 51625,
+      "num": 402479,
+      "word": "连花清瘟清的什么瘟",
+      "onboard_time": 1679662828,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 51017,

@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679662197962,
+  "endTime": 1679664124949,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -816,6 +816,14 @@
       "word": "金大川雎晓雯 喜酒",
       "onboard_time": 1679047412,
       "rank": 1,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2260830,
+      "num": 530747,
+      "word": "赛琳娜为海莉发声",
+      "onboard_time": 1679662409,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -5531,6 +5539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 998333,
+      "num": 998333,
+      "word": "90后情侣3年攒100万裸辞飞荷兰",
+      "onboard_time": 1679660248,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 997518,
       "num": 997518,
       "word": "上海7旬大爷结3次婚被分3套房",
@@ -8724,7 +8740,7 @@
     },
     {
       "raw_hot": 748988,
-      "num": 273379,
+      "num": 290704,
       "word": "切糕老板多切3斤威胁不买就报警",
       "onboard_time": 1679650050,
       "rank": 29,
@@ -11043,6 +11059,14 @@
       "category": "影视,社会新闻"
     },
     {
+      "raw_hot": 640353,
+      "num": 640353,
+      "word": "娱乐圈过年了",
+      "onboard_time": 1679658751,
+      "rank": 9,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 639785,
       "num": 639785,
       "word": "辅警往身上浇了盆水后冲进火场",
@@ -11865,14 +11889,6 @@
       "onboard_time": 1679052330,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 605097,
-      "num": 605097,
-      "word": "娱乐圈过年了",
-      "onboard_time": 1679658751,
-      "rank": 9,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 605062,
@@ -12699,6 +12715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 574070,
+      "num": 574070,
+      "word": "张雨绮微博之夜礼服",
+      "onboard_time": 1679662890,
+      "rank": 7,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 573989,
       "num": 573989,
       "word": "很难被拒绝的简历",
@@ -13473,6 +13497,14 @@
       "onboard_time": 1679045553,
       "rank": 36,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 549877,
+      "num": 549877,
+      "word": "范丞丞说乐华演唱会还没通知我",
+      "onboard_time": 1679662409,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 549866,
@@ -15289,14 +15321,6 @@
       "onboard_time": 1678672466,
       "rank": 37,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 495285,
-      "num": 495285,
-      "word": "90后情侣3年攒100万裸辞飞荷兰",
-      "onboard_time": 1679660248,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 494949,
@@ -19827,6 +19851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 383087,
+      "num": 383087,
+      "word": "何洁素颜",
+      "onboard_time": 1679659469,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 383054,
       "num": 383054,
       "word": "魏无羡春季赛淘汰突破100",
@@ -24267,14 +24299,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 308172,
-      "num": 308172,
-      "word": "何洁素颜",
-      "onboard_time": 1679659469,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 308020,
       "num": 250747,
       "word": "公司请外国男模给女员工送花过节",
@@ -26427,6 +26451,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 274255,
+      "num": 330314,
+      "word": "NCTDREAM香港演唱会",
+      "onboard_time": 1679663609,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 274229,
       "num": 274229,
       "word": "唐嫣小青剧照",
@@ -26664,6 +26696,14 @@
       "word": "蓝柚 AG",
       "onboard_time": 1678719928,
       "rank": 36,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 270992,
+      "num": 270992,
+      "word": "EDG战胜TT",
+      "onboard_time": 1679663609,
+      "rank": 23,
       "category": "游戏"
     },
     {
@@ -27713,6 +27753,14 @@
       "onboard_time": 1679549369,
       "rank": 45,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 255289,
+      "num": 255289,
+      "word": "TT对战EDG",
+      "onboard_time": 1679659708,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 255234,
@@ -29307,6 +29355,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 235891,
+      "num": 235891,
+      "word": "大学的猫对大学生有多信任",
+      "onboard_time": 1679658329,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 235762,
       "num": 235762,
       "word": "孙颖莎4比3朱芊曦",
@@ -30387,6 +30443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 225409,
+      "num": 225409,
+      "word": "库克晒和黄龄合影",
+      "onboard_time": 1679663069,
+      "rank": 28,
+      "category": "科技,艺人"
+    },
+    {
       "raw_hot": 225342,
       "num": 225342,
       "word": "电影深海票房破9亿",
@@ -31465,14 +31529,6 @@
       "onboard_time": 1679362948,
       "rank": 47,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 215460,
-      "num": 215460,
-      "word": "大学的猫对大学生有多信任",
-      "onboard_time": 1679658329,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 215431,
@@ -34155,6 +34211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 199384,
+      "num": 199384,
+      "word": "邓超陈赫再说weare伐木累",
+      "onboard_time": 1679663729,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199350,
       "num": 199350,
       "word": "景区高空项目安全带不安全",
@@ -35017,6 +35081,14 @@
       "onboard_time": 1679188707,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 195178,
+      "num": 195178,
+      "word": "AG对战LGD",
+      "onboard_time": 1679662288,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 195111,
@@ -37587,6 +37659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 178318,
+      "num": 178318,
+      "word": "广东人吃辣主打的是氛围感",
+      "onboard_time": 1679660728,
+      "rank": 45,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 178302,
       "num": 178302,
       "word": "龚俊洗澡唱年少有为",
@@ -39641,14 +39721,6 @@
       "onboard_time": 1678403600,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 161624,
-      "num": 161624,
-      "word": "广东人吃辣主打的是氛围感",
-      "onboard_time": 1679660728,
-      "rank": 45,
-      "category": "美食,幽默"
     },
     {
       "raw_hot": 161621,
@@ -42115,6 +42187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 141398,
+      "num": 141398,
+      "word": "路炎晨陪归晓做产检",
+      "onboard_time": 1679660068,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 141389,
       "num": 141389,
       "word": "孙千出发巴黎时装周",
@@ -43075,6 +43155,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 134626,
+      "num": 134626,
+      "word": "薛凯琪吃麻辣烫视频",
+      "onboard_time": 1679662890,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 134600,
       "num": 134600,
       "word": "梅根跳舞没有感情全是技巧",
@@ -43201,14 +43289,6 @@
       "onboard_time": 1679537727,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 134092,
-      "num": 134092,
-      "word": "路炎晨陪归晓做产检",
-      "onboard_time": 1679660068,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 134040,
@@ -43457,14 +43537,6 @@
       "onboard_time": 1679491114,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 131908,
-      "num": 131908,
-      "word": "TT对战EDG",
-      "onboard_time": 1679659708,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 131701,
@@ -45057,6 +45129,14 @@
       "onboard_time": 1678021172,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 116650,
+      "num": 116650,
+      "word": "剑南春董事长被判有期徒刑5年罚4亿",
+      "onboard_time": 1679663971,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 116636,
@@ -48721,6 +48801,14 @@
       "onboard_time": 1679181978,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 51625,
+      "num": 402479,
+      "word": "连花清瘟清的什么瘟",
+      "onboard_time": 1679662828,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 51445,
