@@ -1,6 +1,6 @@
 {
   "startTime": 1679675078237,
-  "endTime": 1679682152745,
+  "endTime": 1679682981204,
   "band_list": [
     {
       "raw_hot": 1115573,
@@ -419,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 47588,
+      "num": 47588,
+      "word": "年轻人摆摊主打自己想吃",
+      "onboard_time": 1679677519,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 46434,
       "num": 46434,
       "word": "这是来面试还是来社死的",
@@ -435,16 +443,8 @@
       "category": "动漫,影视"
     },
     {
-      "raw_hot": 42131,
-      "num": 42131,
-      "word": "年轻人摆摊主打自己想吃",
-      "onboard_time": 1679677519,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 38711,
-      "num": 38711,
+      "raw_hot": 40538,
+      "num": 40538,
       "word": "想要长高的人有福了",
       "onboard_time": 1679677697,
       "rank": 35,
