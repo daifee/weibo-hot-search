@@ -1,7 +1,15 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679628819546,
+  "endTime": 1679631701491,
   "band_list": [
+    {
+      "raw_hot": 10397750,
+      "num": 10397750,
+      "word": "TFBOYS",
+      "onboard_time": 1679623707,
+      "rank": 0,
+      "category": "作品衍生"
+    },
     {
       "raw_hot": 7256959,
       "num": 8506959,
@@ -9,14 +17,6 @@
       "onboard_time": 1679310572,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 4842784,
-      "num": 4842784,
-      "word": "TFBOYS",
-      "onboard_time": 1679623707,
-      "rank": 0,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 4463977,
@@ -651,6 +651,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1376754,
+      "num": 1376754,
+      "word": "吴磊放下男德",
+      "onboard_time": 1679629771,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1374814,
       "num": 1374814,
       "word": "全在俊水泥坠楼戏没用替身",
@@ -857,6 +865,14 @@
       "onboard_time": 1679308110,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1243094,
+      "num": 1243094,
+      "word": "微博之夜全阵容官宣",
+      "onboard_time": 1679629713,
+      "rank": 5,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1231999,
@@ -1771,6 +1787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 829208,
+      "num": 247621,
+      "word": "小红书崩了",
+      "onboard_time": 1679627968,
+      "rank": 30,
+      "category": "科技"
+    },
+    {
       "raw_hot": 823970,
       "num": 823970,
       "word": "泰官方辟谣男模餐厅噶腰子等说法",
@@ -2027,14 +2051,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 727683,
-      "num": 247621,
-      "word": "小红书崩了",
-      "onboard_time": 1679627968,
-      "rank": 30,
-      "category": "科技"
-    },
-    {
       "raw_hot": 724881,
       "num": 724881,
       "word": "早午餐不要合成一顿",
@@ -2235,6 +2251,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 676167,
+      "num": 676167,
+      "word": "博士答辩现场的压迫感",
+      "onboard_time": 1679626349,
+      "rank": 18,
+      "category": "教育,幽默"
+    },
+    {
       "raw_hot": 672519,
       "num": 519419,
       "word": "243万元存款被挪用当事人发声",
@@ -2275,14 +2299,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 662534,
-      "num": 662534,
-      "word": "博士答辩现场的压迫感",
-      "onboard_time": 1679626349,
-      "rank": 18,
-      "category": "教育,幽默"
-    },
-    {
       "raw_hot": 661840,
       "num": 547734,
       "word": "虞书欣新剧演女间谍",
@@ -2297,6 +2313,14 @@
       "onboard_time": 1679369488,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 657568,
+      "num": 657568,
+      "word": "女子长期遭家暴因感情深不愿离婚",
+      "onboard_time": 1679628388,
+      "rank": 48,
+      "category": "社会负面,情感"
     },
     {
       "raw_hot": 653906,
@@ -2721,6 +2745,14 @@
       "onboard_time": 1679490567,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 582989,
+      "num": 582989,
+      "word": "足协黄松和王小平被查",
+      "onboard_time": 1679628210,
+      "rank": 17,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 582309,
@@ -3555,14 +3587,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 458398,
-      "num": 458398,
-      "word": "足协黄松和王小平被查",
-      "onboard_time": 1679628210,
-      "rank": 17,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 458388,
       "num": 458388,
       "word": "王栎鑫是懂代餐的",
@@ -4145,6 +4169,14 @@
       "onboard_time": 1679309789,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 392873,
+      "num": 392873,
+      "word": "做好爸妈朋友圈的后勤工作",
+      "onboard_time": 1679627490,
+      "rank": 45,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 392303,
@@ -5113,6 +5145,14 @@
       "onboard_time": 1679627309,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 302917,
+      "num": 302917,
+      "word": "男子因名字被同学调侃导抑郁症",
+      "onboard_time": 1679630555,
+      "rank": 22,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 301526,
@@ -6227,14 +6267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 230450,
-      "num": 230450,
-      "word": "做好爸妈朋友圈的后勤工作",
-      "onboard_time": 1679627490,
-      "rank": 45,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 230057,
       "num": 230057,
       "word": "哪有这样吸鼠鼠的",
@@ -6523,6 +6555,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 217627,
+      "num": 217627,
+      "word": "蒙犽源梦新皮肤",
+      "onboard_time": 1679629653,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 217577,
       "num": 217577,
       "word": "陈都灵学琵琶",
@@ -6665,6 +6705,14 @@
       "onboard_time": 1679471909,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 213698,
+      "num": 213698,
+      "word": "你永远不知道小狗肚子里有什么",
+      "onboard_time": 1679629713,
+      "rank": 31,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 213076,
@@ -8155,6 +8203,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 171685,
+      "num": 171685,
+      "word": "一个人哭出来一车人收不住",
+      "onboard_time": 1679631031,
+      "rank": 33,
+      "category": "幽默,社会新闻"
+    },
+    {
       "raw_hot": 171429,
       "num": 171429,
       "word": "魔术vs湖人",
@@ -8273,6 +8329,14 @@
       "onboard_time": 1679400507,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 166640,
+      "num": 166640,
+      "word": "你心中的国漫天花板",
+      "onboard_time": 1679630374,
+      "rank": 35,
+      "category": "综艺,动漫"
     },
     {
       "raw_hot": 166557,
@@ -8675,6 +8739,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 150241,
+      "num": 1599676,
+      "word": "旅游打卡地怎么能少了宝藏村落",
+      "onboard_time": 1679626288,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150166,
       "num": 150166,
       "word": "雅思组合击败韩国队获混双冠军",
@@ -8995,6 +9067,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 138695,
+      "num": 138695,
+      "word": "感受到了打工人的怨气",
+      "onboard_time": 1679631392,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 138639,
       "num": 138639,
       "word": "四月为爱奔赴洛阳",
@@ -9217,14 +9297,6 @@
       "onboard_time": 1679491114,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 131448,
-      "num": 1599676,
-      "word": "旅游打卡地怎么能少了宝藏村落",
-      "onboard_time": 1679626288,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 131317,
@@ -9491,6 +9563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122345,
+      "num": 122345,
+      "word": "我妈去买菜结果被抓去走秀",
+      "onboard_time": 1679629592,
+      "rank": 46,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 122106,
       "num": 122106,
       "word": "被一只小狗崽藐视了",
@@ -9523,12 +9603,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 121263,
-      "num": 121263,
-      "word": "女子长期遭家暴因感情深不愿离婚",
-      "onboard_time": 1679628388,
+      "raw_hot": 121121,
+      "num": 121121,
+      "word": "TWICE连续两次北美体育场演出售罄",
+      "onboard_time": 1679629470,
       "rank": 48,
-      "category": "社会负面,情感"
+      "category": "音乐"
     },
     {
       "raw_hot": 120884,
