@@ -1,0 +1,410 @@
+{
+  "runTime": 1679632581083,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 10450851,
+        "num": 10450851,
+        "word": "TFBOYS",
+        "onboard_time": 1679623707,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1369372,
+        "num": 1369372,
+        "word": "广州冰雹",
+        "onboard_time": 1679625808,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130083,
+        "num": 1361686,
+        "word": "旅游打卡地怎么能少了宝藏村落",
+        "onboard_time": 1679626288,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1355669,
+        "num": 1355669,
+        "word": "微博之夜全阵容官宣",
+        "onboard_time": 1679629713,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1271879,
+        "num": 1271879,
+        "word": "吴磊放下男德",
+        "onboard_time": 1679629771,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1331478,
+        "num": 1243734,
+        "word": "肖战正式官宣出席微博之夜",
+        "onboard_time": 1679627968,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1170187,
+        "num": 1170187,
+        "word": "团时朗去世",
+        "onboard_time": 1679622387,
+        "rank": 6,
+        "category": "动漫,艺人"
+      },
+      {
+        "raw_hot": 854803,
+        "num": 854803,
+        "word": "家长称4名失联男孩已在缅甸",
+        "onboard_time": 1679624308,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 843266,
+        "num": 843266,
+        "word": "女子长期遭家暴因感情深不愿离婚",
+        "onboard_time": 1679628388,
+        "rank": 8,
+        "category": "社会负面,情感"
+      },
+      {
+        "raw_hot": 794909,
+        "num": 794909,
+        "word": "海底捞回应孕妇可以插队",
+        "onboard_time": 1679614644,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 715970,
+        "num": 715970,
+        "word": "劳荣枝死刑复核最新进展",
+        "onboard_time": 1679617829,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 663987,
+        "num": 663987,
+        "word": "微博之夜主持人有了吗",
+        "onboard_time": 1679625147,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 617807,
+        "num": 617807,
+        "word": "范丞丞给刘亦菲让座",
+        "onboard_time": 1679626108,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 612785,
+        "num": 612785,
+        "word": "博士答辩现场的压迫感",
+        "onboard_time": 1679626349,
+        "rank": 13,
+        "category": "教育,幽默"
+      },
+      {
+        "raw_hot": 575794,
+        "num": 575794,
+        "word": "杨幂微博之夜出发路透",
+        "onboard_time": 1679626587,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 574251,
+        "num": 574251,
+        "word": "泰国华人回应赴泰旅游被嘎腰子",
+        "onboard_time": 1679624848,
+        "rank": 15,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 461263,
+        "num": 461263,
+        "word": "做好爸妈朋友圈的后勤工作",
+        "onboard_time": 1679627490,
+        "rank": 16,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 456215,
+        "num": 456215,
+        "word": "女子实名举报医生丈夫出轨",
+        "onboard_time": 1679617348,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 407158,
+        "num": 407158,
+        "word": "足协黄松和王小平被查",
+        "onboard_time": 1679628210,
+        "rank": 18,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 353806,
+        "num": 353806,
+        "word": "中国小伙应聘泰国鱼粉厂被骗至缅甸",
+        "onboard_time": 1679625267,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 468433,
+        "num": 353286,
+        "word": "男子因名字被同学调侃导抑郁症",
+        "onboard_time": 1679630555,
+        "rank": 20,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 351874,
+        "num": 351874,
+        "word": "禁止中小学校举办或参与举办培训机构",
+        "onboard_time": 1679624247,
+        "rank": 21,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 305782,
+        "num": 305782,
+        "word": "泰国旅游骗局视频已被下架",
+        "onboard_time": 1679619088,
+        "rank": 22,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 294911,
+        "num": 294911,
+        "word": "一个人哭出来一车人收不住",
+        "onboard_time": 1679631031,
+        "rank": 23,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 294256,
+        "num": 294256,
+        "word": "白鹿张凌赫 遮太阳",
+        "onboard_time": 1679617168,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 279087,
+        "num": 279087,
+        "word": "招聘大熊猫饲养员数百份简历零录取",
+        "onboard_time": 1679615665,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274935,
+        "num": 274935,
+        "word": "离婚冷静期内婆婆去世丈夫拒分遗产",
+        "onboard_time": 1679594235,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257287,
+        "num": 257287,
+        "word": "花三三道歉",
+        "onboard_time": 1679614943,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 229008,
+        "num": 229008,
+        "word": "杰克奥特曼",
+        "onboard_time": 1679622327,
+        "rank": 28,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 226375,
+        "num": 226375,
+        "word": "蒙犽源梦新皮肤",
+        "onboard_time": 1679629653,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 779381,
+        "num": 225287,
+        "word": "小红书崩了",
+        "onboard_time": 1679627968,
+        "rank": 30,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 220627,
+        "num": 220627,
+        "word": "女生地摊套玩具熊拆开发现摄像头",
+        "onboard_time": 1679618308,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195073,
+        "num": 195073,
+        "word": "警方回应13岁女孩遭霸凌",
+        "onboard_time": 1679616087,
+        "rank": 32,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 191342,
+        "num": 191342,
+        "word": "众星微博之夜安全倡议",
+        "onboard_time": 1679632055,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 191162,
+        "num": 191162,
+        "word": "吴倩在武大唱歌",
+        "onboard_time": 1679615124,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185844,
+        "num": 185844,
+        "word": "宋旻浩今天入伍",
+        "onboard_time": 1679626889,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178396,
+        "num": 178396,
+        "word": "你永远不知道小狗肚子里有什么",
+        "onboard_time": 1679629713,
+        "rank": 36,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 168840,
+        "num": 168840,
+        "word": "感受到了打工人的怨气",
+        "onboard_time": 1679631392,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158816,
+        "num": 158816,
+        "word": "我的宝宝一夜之间怎么啦",
+        "onboard_time": 1679632294,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156605,
+        "num": 156605,
+        "word": "我妈去买菜结果被抓去走秀",
+        "onboard_time": 1679629592,
+        "rank": 39,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 153014,
+        "num": 153014,
+        "word": "杨紫上海机场路透",
+        "onboard_time": 1679623466,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151025,
+        "num": 151025,
+        "word": "你心中的国漫天花板",
+        "onboard_time": 1679630374,
+        "rank": 41,
+        "category": "综艺,动漫"
+      },
+      {
+        "raw_hot": 150002,
+        "num": 150002,
+        "word": "阿根廷世界杯夺冠庆典",
+        "onboard_time": 1679615786,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145405,
+        "num": 145405,
+        "word": "白客因身体不适无法出席新片路演",
+        "onboard_time": 1679620109,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 139167,
+        "num": 139167,
+        "word": "久诚 处罚",
+        "onboard_time": 1679615064,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 132196,
+        "num": 132196,
+        "word": "韩红七年后第一次开演唱会",
+        "onboard_time": 1679627009,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 130174,
+        "num": 130174,
+        "word": "全在俊水泥坠楼戏没用替身",
+        "onboard_time": 1679585669,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 127592,
+        "num": 127592,
+        "word": "广州天气",
+        "onboard_time": 1679622026,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127426,
+        "num": 127426,
+        "word": "TWICE连续两次北美体育场演出售罄",
+        "onboard_time": 1679629470,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 123949,
+        "num": 123949,
+        "word": "高校图书馆设发呆区能吃东西能看景",
+        "onboard_time": 1679622145,
+        "rank": 49,
+        "category": "社会新闻,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的天下情怀#"
+    }
+  }
+}

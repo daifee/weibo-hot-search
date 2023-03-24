@@ -1,10 +1,10 @@
 {
   "startTime": 1679588746312,
-  "endTime": 1679631701491,
+  "endTime": 1679632581083,
   "band_list": [
     {
-      "raw_hot": 10397750,
-      "num": 10397750,
+      "raw_hot": 10450851,
+      "num": 10450851,
       "word": "TFBOYS",
       "onboard_time": 1679623707,
       "rank": 0,
@@ -91,8 +91,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1243094,
-      "num": 1243094,
+      "raw_hot": 1355669,
+      "num": 1355669,
       "word": "微博之夜全阵容官宣",
       "onboard_time": 1679629713,
       "rank": 5,
@@ -195,6 +195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 843266,
+      "num": 843266,
+      "word": "女子长期遭家暴因感情深不愿离婚",
+      "onboard_time": 1679628388,
+      "rank": 48,
+      "category": "社会负面,情感"
+    },
+    {
       "raw_hot": 829208,
       "num": 247621,
       "word": "小红书崩了",
@@ -217,14 +225,6 @@
       "onboard_time": 1679626349,
       "rank": 18,
       "category": "教育,幽默"
-    },
-    {
-      "raw_hot": 657568,
-      "num": 657568,
-      "word": "女子长期遭家暴因感情深不愿离婚",
-      "onboard_time": 1679628388,
-      "rank": 48,
-      "category": "社会负面,情感"
     },
     {
       "raw_hot": 652870,
@@ -371,6 +371,22 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 468433,
+      "num": 353286,
+      "word": "男子因名字被同学调侃导抑郁症",
+      "onboard_time": 1679630555,
+      "rank": 22,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 461263,
+      "num": 461263,
+      "word": "做好爸妈朋友圈的后勤工作",
+      "onboard_time": 1679627490,
+      "rank": 45,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 460812,
       "num": 460812,
       "word": "警方回应13岁女孩遭霸凌",
@@ -409,14 +425,6 @@
       "onboard_time": 1679625267,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 392873,
-      "num": 392873,
-      "word": "做好爸妈朋友圈的后勤工作",
-      "onboard_time": 1679627490,
-      "rank": 45,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 390965,
@@ -507,20 +515,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 302917,
-      "num": 302917,
-      "word": "男子因名字被同学调侃导抑郁症",
-      "onboard_time": 1679630555,
-      "rank": 22,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 300840,
       "num": 300840,
       "word": "杨紫上海机场路透",
       "onboard_time": 1679623466,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 294911,
+      "num": 294911,
+      "word": "一个人哭出来一车人收不住",
+      "onboard_time": 1679631031,
+      "rank": 33,
+      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 289754,
@@ -643,6 +651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 226375,
+      "num": 226375,
+      "word": "蒙犽源梦新皮肤",
+      "onboard_time": 1679629653,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 219459,
       "num": 219459,
       "word": "吴磊涂松岩演父子",
@@ -657,14 +673,6 @@
       "onboard_time": 1679574207,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 217627,
-      "num": 217627,
-      "word": "蒙犽源梦新皮肤",
-      "onboard_time": 1679629653,
-      "rank": 29,
-      "category": "游戏"
     },
     {
       "raw_hot": 213698,
@@ -739,6 +747,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 191342,
+      "num": 191342,
+      "word": "众星微博之夜安全倡议",
+      "onboard_time": 1679632055,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 190582,
       "num": 249116,
       "word": "腰椎疾病原来跟座椅有关",
@@ -771,20 +787,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 185844,
+      "num": 185844,
+      "word": "宋旻浩今天入伍",
+      "onboard_time": 1679626889,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 185421,
       "num": 185421,
       "word": "利特吃面 一步到胃",
       "onboard_time": 1679590519,
       "rank": 9,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 185413,
-      "num": 185413,
-      "word": "宋旻浩今天入伍",
-      "onboard_time": 1679626889,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 184346,
@@ -827,12 +843,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 171685,
-      "num": 171685,
-      "word": "一个人哭出来一车人收不住",
-      "onboard_time": 1679631031,
-      "rank": 33,
-      "category": "幽默,社会新闻"
+      "raw_hot": 168840,
+      "num": 168840,
+      "word": "感受到了打工人的怨气",
+      "onboard_time": 1679631392,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 166640,
@@ -881,6 +897,22 @@
       "onboard_time": 1679583151,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 158816,
+      "num": 158816,
+      "word": "我的宝宝一夜之间怎么啦",
+      "onboard_time": 1679632294,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 156605,
+      "num": 156605,
+      "word": "我妈去买菜结果被抓去走秀",
+      "onboard_time": 1679629592,
+      "rank": 46,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 155130,
@@ -947,14 +979,6 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 138695,
-      "num": 138695,
-      "word": "感受到了打工人的怨气",
-      "onboard_time": 1679631392,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 135447,
       "num": 194398,
       "word": "丫丫最新画面",
@@ -995,6 +1019,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 127426,
+      "num": 127426,
+      "word": "TWICE连续两次北美体育场演出售罄",
+      "onboard_time": 1679629470,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 126361,
       "num": 126361,
       "word": "老板店内贴成本表称一碗面仅赚2元",
@@ -1009,22 +1041,6 @@
       "onboard_time": 1679563766,
       "rank": 29,
       "category": "情感"
-    },
-    {
-      "raw_hot": 122345,
-      "num": 122345,
-      "word": "我妈去买菜结果被抓去走秀",
-      "onboard_time": 1679629592,
-      "rank": 46,
-      "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 121121,
-      "num": 121121,
-      "word": "TWICE连续两次北美体育场演出售罄",
-      "onboard_time": 1679629470,
-      "rank": 48,
-      "category": "音乐"
     },
     {
       "raw_hot": 120755,
