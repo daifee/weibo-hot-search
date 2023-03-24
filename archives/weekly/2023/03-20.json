@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679656509294,
+  "endTime": 1679657605709,
   "band_list": [
     {
       "raw_hot": 10450851,
@@ -1212,7 +1212,7 @@
     },
     {
       "raw_hot": 1071884,
-      "num": 251977,
+      "num": 260200,
       "word": "周公子",
       "onboard_time": 1679652328,
       "rank": 25,
@@ -1771,12 +1771,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 875362,
+      "num": 875362,
+      "word": "库克现身北京",
+      "onboard_time": 1679654428,
+      "rank": 3,
+      "category": "科技"
+    },
+    {
       "raw_hot": 872955,
       "num": 872955,
       "word": "广东人上床睡觉时间全国最晚",
       "onboard_time": 1679329882,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 870594,
+      "num": 870594,
+      "word": "月亮 星星",
+      "onboard_time": 1679656468,
+      "rank": 38,
+      "category": "自然"
     },
     {
       "raw_hot": 868247,
@@ -2004,7 +2020,7 @@
     },
     {
       "raw_hot": 802822,
-      "num": 452634,
+      "num": 460962,
       "word": "张凌赫喂白鹿吃薯条",
       "onboard_time": 1679653649,
       "rank": 12,
@@ -2057,14 +2073,6 @@
       "onboard_time": 1679459913,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 782920,
-      "num": 782920,
-      "word": "库克现身北京",
-      "onboard_time": 1679654428,
-      "rank": 3,
-      "category": "科技"
     },
     {
       "raw_hot": 781075,
@@ -3755,6 +3763,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 473805,
+      "num": 473805,
+      "word": "郭敬明说虞书欣天天在现场熬夜",
+      "onboard_time": 1679655329,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 473039,
       "num": 262144,
       "word": "为什么不建议年轻人去摆摊",
@@ -3928,6 +3944,14 @@
       "word": "00后找工作更看重什么",
       "onboard_time": 1679365047,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 455104,
+      "num": 455104,
+      "word": "54岁女子生前贷款85万打赏男主播",
+      "onboard_time": 1679656288,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -4987,6 +5011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 346747,
+      "num": 346747,
+      "word": "姚琛送ITZY专辑",
+      "onboard_time": 1679656648,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 345425,
       "num": 345425,
       "word": "那英说和马嘉祺是儿子和妈组合",
@@ -5217,14 +5249,6 @@
       "onboard_time": 1679323291,
       "rank": 15,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 326951,
-      "num": 234482,
-      "word": "郭敬明说虞书欣天天在现场熬夜",
-      "onboard_time": 1679655329,
-      "rank": 23,
-      "category": "影视"
     },
     {
       "raw_hot": 326832,
@@ -6177,6 +6201,14 @@
       "onboard_time": 1679585488,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 261363,
+      "num": 261363,
+      "word": "千万不要买这样的氛围灯",
+      "onboard_time": 1679654668,
+      "rank": 30,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 261361,
@@ -7723,14 +7755,6 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 200937,
-      "num": 200937,
-      "word": "千万不要买这样的氛围灯",
-      "onboard_time": 1679654668,
-      "rank": 30,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 200742,
       "num": 200742,
       "word": "Fly登场KPL六周年",
@@ -8083,6 +8107,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 192714,
+      "num": 192714,
+      "word": "宝可梦",
+      "onboard_time": 1679656110,
+      "rank": 32,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 192680,
       "num": 192680,
       "word": "鲍威尔",
@@ -8257,14 +8289,6 @@
       "onboard_time": 1679600052,
       "rank": 14,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 187582,
-      "num": 187582,
-      "word": "宝可梦",
-      "onboard_time": 1679656110,
-      "rank": 32,
-      "category": "动漫"
     },
     {
       "raw_hot": 187497,
@@ -9475,6 +9499,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 149884,
+      "num": 149884,
+      "word": "把恋爱谈成最快乐的样子",
+      "onboard_time": 1679655629,
+      "rank": 44,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 149704,
       "num": 149704,
       "word": "祝绪丹和卖崽蛙合影比心",
@@ -10067,6 +10099,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 131557,
+      "num": 131557,
+      "word": "张杰说准备了一堆哭砂",
+      "onboard_time": 1679656228,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 131317,
       "num": 131317,
       "word": "春天的第一朵花",
@@ -10081,6 +10121,14 @@
       "onboard_time": 1679410054,
       "rank": 46,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 131155,
+      "num": 131155,
+      "word": "LNG战胜LGD",
+      "onboard_time": 1679656828,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 130923,
@@ -10113,14 +10161,6 @@
       "onboard_time": 1679497651,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 130508,
-      "num": 130508,
-      "word": "月亮 星星",
-      "onboard_time": 1679656468,
-      "rank": 38,
-      "category": "自然"
     },
     {
       "raw_hot": 130139,
@@ -10547,12 +10587,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 111461,
-      "num": 111461,
-      "word": "把恋爱谈成最快乐的样子",
-      "onboard_time": 1679655629,
-      "rank": 44,
-      "category": "情感,幽默"
+      "raw_hot": 111576,
+      "num": 111576,
+      "word": "丫丫叼着竹子爬高高",
+      "onboard_time": 1679657428,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110844,
@@ -10643,20 +10683,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 106808,
+      "num": 106808,
+      "word": "忍网红路牌很久了",
+      "onboard_time": 1679657488,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 106507,
       "num": 106507,
       "word": "比人还像人的宠物",
       "onboard_time": 1679412752,
       "rank": 49,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 106444,
-      "num": 106444,
-      "word": "54岁女子生前贷款85万打赏男主播",
-      "onboard_time": 1679656288,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 106021,
@@ -10777,14 +10817,6 @@
       "onboard_time": 1679319331,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 101789,
-      "num": 101789,
-      "word": "张杰说准备了一堆哭砂",
-      "onboard_time": 1679656228,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 101093,

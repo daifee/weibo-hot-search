@@ -1,6 +1,6 @@
 {
   "startTime": 1679588746312,
-  "endTime": 1679656509294,
+  "endTime": 1679657605709,
   "band_list": [
     {
       "raw_hot": 10450851,
@@ -220,7 +220,7 @@
     },
     {
       "raw_hot": 1071884,
-      "num": 251977,
+      "num": 260200,
       "word": "周公子",
       "onboard_time": 1679652328,
       "rank": 25,
@@ -315,6 +315,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 875362,
+      "num": 875362,
+      "word": "库克现身北京",
+      "onboard_time": 1679654428,
+      "rank": 3,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 870594,
+      "num": 870594,
+      "word": "月亮 星星",
+      "onboard_time": 1679656468,
+      "rank": 38,
+      "category": "自然"
+    },
+    {
       "raw_hot": 863219,
       "num": 863219,
       "word": "禁止中小学校举办或参与举办培训机构",
@@ -356,7 +372,7 @@
     },
     {
       "raw_hot": 802822,
-      "num": 452634,
+      "num": 460962,
       "word": "张凌赫喂白鹿吃薯条",
       "onboard_time": 1679653649,
       "rank": 12,
@@ -369,14 +385,6 @@
       "onboard_time": 1679581891,
       "rank": 3,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 782920,
-      "num": 782920,
-      "word": "库克现身北京",
-      "onboard_time": 1679654428,
-      "rank": 3,
-      "category": "科技"
     },
     {
       "raw_hot": 780518,
@@ -667,6 +675,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 473805,
+      "num": 473805,
+      "word": "郭敬明说虞书欣天天在现场熬夜",
+      "onboard_time": 1679655329,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 468433,
       "num": 353286,
       "word": "男子因名字被同学调侃导抑郁症",
@@ -697,6 +713,14 @@
       "onboard_time": 1679616087,
       "rank": 16,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 455104,
+      "num": 455104,
+      "word": "54岁女子生前贷款85万打赏男主播",
+      "onboard_time": 1679656288,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 439295,
@@ -851,6 +875,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 346747,
+      "num": 346747,
+      "word": "姚琛送ITZY专辑",
+      "onboard_time": 1679656648,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 340480,
       "num": 252947,
       "word": "姐姐拍的欧阳娜娜",
@@ -865,14 +897,6 @@
       "onboard_time": 1679642849,
       "rank": 15,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 326951,
-      "num": 234482,
-      "word": "郭敬明说虞书欣天天在现场熬夜",
-      "onboard_time": 1679655329,
-      "rank": 23,
-      "category": "影视"
     },
     {
       "raw_hot": 326832,
@@ -1065,6 +1089,14 @@
       "onboard_time": 1679571809,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 261363,
+      "num": 261363,
+      "word": "千万不要买这样的氛围灯",
+      "onboard_time": 1679654668,
+      "rank": 30,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 254263,
@@ -1299,14 +1331,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 200937,
-      "num": 200937,
-      "word": "千万不要买这样的氛围灯",
-      "onboard_time": 1679654668,
-      "rank": 30,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 200742,
       "num": 200742,
       "word": "Fly登场KPL六周年",
@@ -1363,6 +1387,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 192714,
+      "num": 192714,
+      "word": "宝可梦",
+      "onboard_time": 1679656110,
+      "rank": 32,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 192568,
       "num": 101904,
       "word": "杨幂微博之夜VCR视频",
@@ -1401,14 +1433,6 @@
       "onboard_time": 1679600052,
       "rank": 14,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 187582,
-      "num": 187582,
-      "word": "宝可梦",
-      "onboard_time": 1679656110,
-      "rank": 32,
-      "category": "动漫"
     },
     {
       "raw_hot": 187497,
@@ -1643,6 +1667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 149884,
+      "num": 149884,
+      "word": "把恋爱谈成最快乐的样子",
+      "onboard_time": 1679655629,
+      "rank": 44,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 148844,
       "num": 148844,
       "word": "头还在睡觉身体已经起床了",
@@ -1755,12 +1787,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 130508,
-      "num": 130508,
-      "word": "月亮 星星",
-      "onboard_time": 1679656468,
+      "raw_hot": 131557,
+      "num": 131557,
+      "word": "张杰说准备了一堆哭砂",
+      "onboard_time": 1679656228,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 131155,
+      "num": 131155,
+      "word": "LNG战胜LGD",
+      "onboard_time": 1679656828,
       "rank": 38,
-      "category": "自然"
+      "category": "游戏"
     },
     {
       "raw_hot": 127740,
@@ -1851,20 +1891,20 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 111576,
+      "num": 111576,
+      "word": "丫丫叼着竹子爬高高",
+      "onboard_time": 1679657428,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 111495,
       "num": 111495,
       "word": "冰雹",
       "onboard_time": 1679651130,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 111461,
-      "num": 111461,
-      "word": "把恋爱谈成最快乐的样子",
-      "onboard_time": 1679655629,
-      "rank": 44,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 111177,
@@ -1891,12 +1931,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 106444,
-      "num": 106444,
-      "word": "54岁女子生前贷款85万打赏男主播",
-      "onboard_time": 1679656288,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 106808,
+      "num": 106808,
+      "word": "忍网红路牌很久了",
+      "onboard_time": 1679657488,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 105266,
@@ -1920,14 +1960,6 @@
       "word": "舞娘改编",
       "onboard_time": 1679579128,
       "rank": 47,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 101789,
-      "num": 101789,
-      "word": "张杰说准备了一堆哭砂",
-      "onboard_time": 1679656228,
-      "rank": 49,
       "category": "综艺"
     },
     {

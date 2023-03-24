@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679656509294,
+  "endTime": 1679657605709,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -4724,7 +4724,7 @@
     },
     {
       "raw_hot": 1071884,
-      "num": 251977,
+      "num": 260200,
       "word": "周公子",
       "onboard_time": 1679652328,
       "rank": 25,
@@ -6811,6 +6811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 875362,
+      "num": 875362,
+      "word": "库克现身北京",
+      "onboard_time": 1679654428,
+      "rank": 3,
+      "category": "科技"
+    },
+    {
       "raw_hot": 875230,
       "num": 719949,
       "word": "儿子沉迷手机爸爸逼他连玩17小时",
@@ -6881,6 +6889,14 @@
       "onboard_time": 1678449809,
       "rank": 5,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 870594,
+      "num": 870594,
+      "word": "月亮 星星",
+      "onboard_time": 1679656468,
+      "rank": 38,
+      "category": "自然"
     },
     {
       "raw_hot": 869989,
@@ -7844,7 +7860,7 @@
     },
     {
       "raw_hot": 802822,
-      "num": 452634,
+      "num": 460962,
       "word": "张凌赫喂白鹿吃薯条",
       "onboard_time": 1679653649,
       "rank": 12,
@@ -8185,14 +8201,6 @@
       "onboard_time": 1677935608,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 782920,
-      "num": 782920,
-      "word": "库克现身北京",
-      "onboard_time": 1679654428,
-      "rank": 3,
-      "category": "科技"
     },
     {
       "raw_hot": 782916,
@@ -16115,6 +16123,14 @@
       "category": "影视,艺人"
     },
     {
+      "raw_hot": 473805,
+      "num": 473805,
+      "word": "郭敬明说虞书欣天天在现场熬夜",
+      "onboard_time": 1679655329,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 473803,
       "num": 473803,
       "word": "父亲为救4岁患肿瘤儿子跑外卖摔断腿",
@@ -16825,6 +16841,14 @@
       "onboard_time": 1677639149,
       "rank": 26,
       "category": "教育"
+    },
+    {
+      "raw_hot": 455104,
+      "num": 455104,
+      "word": "54岁女子生前贷款85万打赏男主播",
+      "onboard_time": 1679656288,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 454931,
@@ -21835,6 +21859,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 346747,
+      "num": 346747,
+      "word": "姚琛送ITZY专辑",
+      "onboard_time": 1679656648,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 346510,
       "num": 346510,
       "word": "宣璐为重症肌无力女子加油",
@@ -22961,14 +22993,6 @@
       "onboard_time": 1679227048,
       "rank": 22,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 326951,
-      "num": 234482,
-      "word": "郭敬明说虞书欣天天在现场熬夜",
-      "onboard_time": 1679655329,
-      "rank": 23,
-      "category": "影视"
     },
     {
       "raw_hot": 326832,
@@ -27297,6 +27321,14 @@
       "onboard_time": 1678671085,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 261363,
+      "num": 261363,
+      "word": "千万不要买这样的氛围灯",
+      "onboard_time": 1679654668,
+      "rank": 30,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 261361,
@@ -33627,14 +33659,6 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 200937,
-      "num": 200937,
-      "word": "千万不要买这样的氛围灯",
-      "onboard_time": 1679654668,
-      "rank": 30,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 200920,
       "num": 200920,
       "word": "宋茜说冥冥中这就是最好的结局",
@@ -35419,6 +35443,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 192714,
+      "num": 192714,
+      "word": "宝可梦",
+      "onboard_time": 1679656110,
+      "rank": 32,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 192696,
       "num": 192696,
       "word": "消费者购买食物吃出异物咋维权",
@@ -36329,14 +36361,6 @@
       "onboard_time": 1678085667,
       "rank": 27,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 187582,
-      "num": 187582,
-      "word": "宝可梦",
-      "onboard_time": 1679656110,
-      "rank": 32,
-      "category": "动漫"
     },
     {
       "raw_hot": 187533,
@@ -40867,6 +40891,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 149884,
+      "num": 149884,
+      "word": "把恋爱谈成最快乐的样子",
+      "onboard_time": 1679655629,
+      "rank": 44,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 149807,
       "num": 198699,
       "word": "政府工作报告建议今年努力的几项重点",
@@ -43307,6 +43339,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 131557,
+      "num": 131557,
+      "word": "张杰说准备了一堆哭砂",
+      "onboard_time": 1679656228,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 131459,
       "num": 131459,
       "word": "电影毒舌律师",
@@ -43353,6 +43393,14 @@
       "onboard_time": 1677683310,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 131155,
+      "num": 131155,
+      "word": "LNG战胜LGD",
+      "onboard_time": 1679656828,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 131043,
@@ -43441,14 +43489,6 @@
       "onboard_time": 1679497651,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 130508,
-      "num": 130508,
-      "word": "月亮 星星",
-      "onboard_time": 1679656468,
-      "rank": 38,
-      "category": "自然"
     },
     {
       "raw_hot": 130299,
@@ -45411,20 +45451,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 111576,
+      "num": 111576,
+      "word": "丫丫叼着竹子爬高高",
+      "onboard_time": 1679657428,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 111551,
       "num": 111551,
       "word": "淄博烧烤节",
       "onboard_time": 1678481531,
       "rank": 37,
       "category": "美食,社会新闻"
-    },
-    {
-      "raw_hot": 111461,
-      "num": 111461,
-      "word": "把恋爱谈成最快乐的样子",
-      "onboard_time": 1679655629,
-      "rank": 44,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 111437,
@@ -45939,6 +45979,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 106808,
+      "num": 106808,
+      "word": "忍网红路牌很久了",
+      "onboard_time": 1679657488,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 106785,
       "num": 106785,
       "word": "惊蛰节气养生这样做",
@@ -45993,14 +46041,6 @@
       "onboard_time": 1679412752,
       "rank": 49,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 106444,
-      "num": 106444,
-      "word": "54岁女子生前贷款85万打赏男主播",
-      "onboard_time": 1679656288,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 106392,
@@ -46457,14 +46497,6 @@
       "onboard_time": 1679319331,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 101789,
-      "num": 101789,
-      "word": "张杰说准备了一堆哭砂",
-      "onboard_time": 1679656228,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 101536,
