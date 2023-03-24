@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679671165781,
+  "endTime": 1679672038333,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -2579,6 +2579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1463901,
+      "num": 1463901,
+      "word": "心疼一诺",
+      "onboard_time": 1679668470,
+      "rank": 3,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1463663,
       "num": 1002352,
       "word": "王牌对王牌8官宣",
@@ -3377,14 +3385,6 @@
       "onboard_time": 1679228248,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1297923,
-      "num": 1297923,
-      "word": "心疼一诺",
-      "onboard_time": 1679668470,
-      "rank": 3,
-      "category": "游戏"
     },
     {
       "raw_hot": 1297168,
@@ -7521,6 +7521,14 @@
       "onboard_time": 1678608386,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 835532,
+      "num": 835532,
+      "word": "陈赫脸盆砸在杜海涛头上",
+      "onboard_time": 1679671049,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 835175,
@@ -18883,14 +18891,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 407601,
-      "num": 407601,
-      "word": "陈赫脸盆砸在杜海涛头上",
-      "onboard_time": 1679671049,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 407575,
       "num": 407575,
       "word": "俄罗斯养的大熊猫",
@@ -28851,6 +28851,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 243519,
+      "num": 243519,
+      "word": "林俊杰唱新歌感谢林秋离",
+      "onboard_time": 1679671530,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 243494,
       "num": 243494,
       "word": "值得爆红的姐",
@@ -31195,6 +31203,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 219618,
+      "num": 210589,
+      "word": "苏醒的粤语",
+      "onboard_time": 1679671530,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 219601,
       "num": 459879,
       "word": "人民的信任是我前进的最大动力",
@@ -32401,6 +32417,14 @@
       "onboard_time": 1677819212,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 208327,
+      "num": 208327,
+      "word": "蔡徐坤为微博之力点赞",
+      "onboard_time": 1679670956,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 208319,
@@ -37675,6 +37699,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 179515,
+      "num": 160042,
+      "word": "又见马龙许昕对练",
+      "onboard_time": 1679671227,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 179423,
       "num": 179423,
       "word": "WBG对战OMG",
@@ -39819,6 +39851,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 161907,
+      "num": 161907,
+      "word": "冰冻芒果有多好吃",
+      "onboard_time": 1679668770,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
       "raw_hot": 161889,
       "num": 239100,
       "word": "SMTOWN开办偶像培训班",
@@ -40265,14 +40305,6 @@
       "onboard_time": 1678161509,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 157993,
-      "num": 157993,
-      "word": "蔡徐坤为微博之力点赞",
-      "onboard_time": 1679670956,
-      "rank": 39,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 157820,
@@ -43227,14 +43259,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 135294,
-      "num": 135294,
-      "word": "冰冻芒果有多好吃",
-      "onboard_time": 1679668770,
-      "rank": 44,
-      "category": "美食"
-    },
-    {
       "raw_hot": 135282,
       "num": 135282,
       "word": "CBA全明星",
@@ -45435,6 +45459,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 115507,
+      "num": 115507,
+      "word": "不得不承认这鱼汤是真的鲜",
+      "onboard_time": 1679669311,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 115502,
       "num": 736945,
       "word": "友谊之旅合作之旅和平之旅",
@@ -46465,14 +46497,6 @@
       "onboard_time": 1678934909,
       "rank": 48,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 105793,
-      "num": 105793,
-      "word": "不得不承认这鱼汤是真的鲜",
-      "onboard_time": 1679669311,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 105661,
