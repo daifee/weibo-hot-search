@@ -1,6 +1,6 @@
 {
   "startTime": 1679588746312,
-  "endTime": 1679664124949,
+  "endTime": 1679664799218,
   "band_list": [
     {
       "raw_hot": 10450851,
@@ -67,7 +67,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2260830,
+      "raw_hot": 2404396,
       "num": 530747,
       "word": "赛琳娜为海莉发声",
       "onboard_time": 1679662409,
@@ -243,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1053352,
+      "num": 1053352,
+      "word": "90后情侣3年攒100万裸辞飞荷兰",
+      "onboard_time": 1679660248,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1052847,
       "num": 159515,
       "word": "TikTok听证会",
@@ -272,14 +280,6 @@
       "word": "家长回应孩子霸凌13岁女生",
       "onboard_time": 1679638768,
       "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 998333,
-      "num": 998333,
-      "word": "90后情侣3年攒100万裸辞飞荷兰",
-      "onboard_time": 1679660248,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -467,6 +467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 718424,
+      "num": 718424,
+      "word": "张雨绮微博之夜礼服",
+      "onboard_time": 1679662890,
+      "rank": 7,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 680400,
       "num": 680400,
       "word": "聂小雨假死",
@@ -625,14 +633,6 @@
       "onboard_time": 1679635829,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 574070,
-      "num": 574070,
-      "word": "张雨绮微博之夜礼服",
-      "onboard_time": 1679662890,
-      "rank": 7,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 561234,
@@ -899,8 +899,8 @@
       "category": "综艺,幽默"
     },
     {
-      "raw_hot": 383087,
-      "num": 383087,
+      "raw_hot": 385855,
+      "num": 385855,
       "word": "何洁素颜",
       "onboard_time": 1679659469,
       "rank": 19,
@@ -1099,6 +1099,22 @@
       "category": "幽默,综艺"
     },
     {
+      "raw_hot": 282905,
+      "num": 282905,
+      "word": "EDG战胜TT",
+      "onboard_time": 1679663609,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 277135,
+      "num": 277135,
+      "word": "邓超陈赫再说weare伐木累",
+      "onboard_time": 1679663729,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 274255,
       "num": 330314,
       "word": "NCTDREAM香港演唱会",
@@ -1121,14 +1137,6 @@
       "onboard_time": 1679649507,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 270992,
-      "num": 270992,
-      "word": "EDG战胜TT",
-      "onboard_time": 1679663609,
-      "rank": 23,
-      "category": "游戏"
     },
     {
       "raw_hot": 268895,
@@ -1177,6 +1185,14 @@
       "onboard_time": 1679629592,
       "rank": 46,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 263273,
+      "num": 263273,
+      "word": "AG对战LGD",
+      "onboard_time": 1679662288,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 262794,
@@ -1235,6 +1251,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 253791,
+      "num": 253791,
+      "word": "库克晒和黄龄合影",
+      "onboard_time": 1679663069,
+      "rank": 28,
+      "category": "科技,艺人"
+    },
+    {
       "raw_hot": 243762,
       "num": 243762,
       "word": "IVE将进军北美",
@@ -1267,8 +1291,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 235891,
-      "num": 235891,
+      "raw_hot": 236399,
+      "num": 236399,
       "word": "大学的猫对大学生有多信任",
       "onboard_time": 1679658329,
       "rank": 40,
@@ -1347,12 +1371,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 225409,
-      "num": 225409,
-      "word": "库克晒和黄龄合影",
-      "onboard_time": 1679663069,
-      "rank": 28,
-      "category": "科技,艺人"
+      "raw_hot": 221938,
+      "num": 221938,
+      "word": "俞灏明说他也讨厌赵公子",
+      "onboard_time": 1679664749,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 220215,
@@ -1393,6 +1417,22 @@
       "onboard_time": 1679629713,
       "rank": 31,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 212519,
+      "num": 212519,
+      "word": "剑南春董事长被判有期徒刑5年罚4亿",
+      "onboard_time": 1679663971,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 211908,
+      "num": 211908,
+      "word": "广东人吃辣主打的是氛围感",
+      "onboard_time": 1679660728,
+      "rank": 45,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 211456,
@@ -1499,14 +1539,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 199384,
-      "num": 199384,
-      "word": "邓超陈赫再说weare伐木累",
-      "onboard_time": 1679663729,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 198065,
       "num": 198065,
       "word": "朴智旻主打曲MV",
@@ -1528,14 +1560,6 @@
       "word": "崩坏星穹铁道",
       "onboard_time": 1679660609,
       "rank": 31,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 195178,
-      "num": 195178,
-      "word": "AG对战LGD",
-      "onboard_time": 1679662288,
-      "rank": 35,
       "category": "游戏"
     },
     {
@@ -1603,6 +1627,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 190315,
+      "num": 185915,
+      "word": "林俊杰演唱会",
+      "onboard_time": 1679664447,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 188690,
+      "num": 188690,
+      "word": "EDG拿到复活甲",
+      "onboard_time": 1679664331,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 188381,
       "num": 188381,
       "word": "杭州狂摇樱花树网红公司道歉",
@@ -1667,20 +1707,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 181719,
+      "num": 181719,
+      "word": "张角喊AG",
+      "onboard_time": 1679664571,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 181544,
       "num": 181544,
       "word": "怎么相个亲和上班一样",
       "onboard_time": 1679581529,
       "rank": 45,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 178318,
-      "num": 178318,
-      "word": "广东人吃辣主打的是氛围感",
-      "onboard_time": 1679660728,
-      "rank": 45,
-      "category": "美食,幽默"
     },
     {
       "raw_hot": 174825,
@@ -2099,14 +2139,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 116650,
-      "num": 116650,
-      "word": "剑南春董事长被判有期徒刑5年罚4亿",
-      "onboard_time": 1679663971,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 115450,
       "num": 115450,
       "word": "这才是我想上的早八",
@@ -2283,6 +2315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 74286,
+      "num": 402479,
+      "word": "连花清瘟清的什么瘟",
+      "onboard_time": 1679662828,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 71322,
       "num": 64889,
       "word": "关晓彤穿了陈采尼设计礼服",
@@ -2312,14 +2352,6 @@
       "word": "海关查获玳瑁拼接的装饰画",
       "onboard_time": 1679582612,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 51625,
-      "num": 402479,
-      "word": "连花清瘟清的什么瘟",
-      "onboard_time": 1679662828,
-      "rank": 14,
       "category": "社会新闻"
     },
     {

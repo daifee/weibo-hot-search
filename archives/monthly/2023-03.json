@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679664124949,
+  "endTime": 1679664799218,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -667,6 +667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2404396,
+      "num": 530747,
+      "word": "赛琳娜为海莉发声",
+      "onboard_time": 1679662409,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2402280,
       "num": 2402280,
       "word": "直播间 骗老人",
@@ -816,14 +824,6 @@
       "word": "金大川雎晓雯 喜酒",
       "onboard_time": 1679047412,
       "rank": 1,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 2260830,
-      "num": 530747,
-      "word": "赛琳娜为海莉发声",
-      "onboard_time": 1679662409,
-      "rank": 10,
       "category": "艺人"
     },
     {
@@ -4987,6 +4987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1053352,
+      "num": 1053352,
+      "word": "90后情侣3年攒100万裸辞飞荷兰",
+      "onboard_time": 1679660248,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1052847,
       "num": 159515,
       "word": "TikTok听证会",
@@ -5537,14 +5545,6 @@
       "onboard_time": 1677940889,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 998333,
-      "num": 998333,
-      "word": "90后情侣3年攒100万裸辞飞荷兰",
-      "onboard_time": 1679660248,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 997518,
@@ -9363,6 +9363,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 718424,
+      "num": 718424,
+      "word": "张雨绮微博之夜礼服",
+      "onboard_time": 1679662890,
+      "rank": 7,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 718404,
       "num": 237293,
       "word": "年薪41万董秘自掏4亿买公司股份",
@@ -12713,14 +12721,6 @@
       "onboard_time": 1677986304,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 574070,
-      "num": 574070,
-      "word": "张雨绮微博之夜礼服",
-      "onboard_time": 1679662890,
-      "rank": 7,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 573989,
@@ -19707,6 +19707,14 @@
       "category": "动漫,艺人"
     },
     {
+      "raw_hot": 385855,
+      "num": 385855,
+      "word": "何洁素颜",
+      "onboard_time": 1679659469,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 385535,
       "num": 385535,
       "word": "微博之夜嘉宾",
@@ -19849,14 +19857,6 @@
       "onboard_time": 1678154365,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 383087,
-      "num": 383087,
-      "word": "何洁素颜",
-      "onboard_time": 1679659469,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 383054,
@@ -25843,6 +25843,14 @@
       "category": "影视,情感"
     },
     {
+      "raw_hot": 282905,
+      "num": 282905,
+      "word": "EDG战胜TT",
+      "onboard_time": 1679663609,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 282823,
       "num": 282823,
       "word": "王心凌官宣微博之夜",
@@ -26233,6 +26241,14 @@
       "onboard_time": 1678921880,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 277135,
+      "num": 277135,
+      "word": "邓超陈赫再说weare伐木累",
+      "onboard_time": 1679663729,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 277014,
@@ -26696,14 +26712,6 @@
       "word": "蓝柚 AG",
       "onboard_time": 1678719928,
       "rank": 36,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 270992,
-      "num": 270992,
-      "word": "EDG战胜TT",
-      "onboard_time": 1679663609,
-      "rank": 23,
       "category": "游戏"
     },
     {
@@ -27289,6 +27297,14 @@
       "onboard_time": 1679247377,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 263273,
+      "num": 263273,
+      "word": "AG对战LGD",
+      "onboard_time": 1679662288,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 263189,
@@ -27905,6 +27921,14 @@
       "onboard_time": 1679542650,
       "rank": 27,
       "category": "科技"
+    },
+    {
+      "raw_hot": 253791,
+      "num": 253791,
+      "word": "库克晒和黄龄合影",
+      "onboard_time": 1679663069,
+      "rank": 28,
+      "category": "科技,艺人"
     },
     {
       "raw_hot": 253695,
@@ -29315,6 +29339,14 @@
       "category": "影视,艺人"
     },
     {
+      "raw_hot": 236399,
+      "num": 236399,
+      "word": "大学的猫对大学生有多信任",
+      "onboard_time": 1679658329,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 236372,
       "num": 236372,
       "word": "只有上了泰山才能看到的风景",
@@ -29353,14 +29385,6 @@
       "onboard_time": 1678017868,
       "rank": 25,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 235891,
-      "num": 235891,
-      "word": "大学的猫对大学生有多信任",
-      "onboard_time": 1679658329,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 235762,
@@ -30443,14 +30467,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 225409,
-      "num": 225409,
-      "word": "库克晒和黄龄合影",
-      "onboard_time": 1679663069,
-      "rank": 28,
-      "category": "科技,艺人"
-    },
-    {
       "raw_hot": 225342,
       "num": 225342,
       "word": "电影深海票房破9亿",
@@ -30840,6 +30856,14 @@
       "word": "白鹿制服造型",
       "onboard_time": 1679049391,
       "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 221938,
+      "num": 221938,
+      "word": "俞灏明说他也讨厌赵公子",
+      "onboard_time": 1679664749,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -31819,6 +31843,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 212519,
+      "num": 212519,
+      "word": "剑南春董事长被判有期徒刑5年罚4亿",
+      "onboard_time": 1679663971,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 212437,
       "num": 201487,
       "word": "WTT",
@@ -31841,6 +31873,14 @@
       "onboard_time": 1679551227,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 211908,
+      "num": 211908,
+      "word": "广东人吃辣主打的是氛围感",
+      "onboard_time": 1679660728,
+      "rank": 45,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 211779,
@@ -34211,14 +34251,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 199384,
-      "num": 199384,
-      "word": "邓超陈赫再说weare伐木累",
-      "onboard_time": 1679663729,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 199350,
       "num": 199350,
       "word": "景区高空项目安全带不安全",
@@ -35081,14 +35113,6 @@
       "onboard_time": 1679188707,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 195178,
-      "num": 195178,
-      "word": "AG对战LGD",
-      "onboard_time": 1679662288,
-      "rank": 35,
-      "category": "游戏"
     },
     {
       "raw_hot": 195111,
@@ -36099,6 +36123,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 190315,
+      "num": 185915,
+      "word": "林俊杰演唱会",
+      "onboard_time": 1679664447,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 190285,
       "num": 190285,
       "word": "女神异闻录新作实机曝光",
@@ -36337,6 +36369,14 @@
       "onboard_time": 1678234109,
       "rank": 33,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 188690,
+      "num": 188690,
+      "word": "EDG拿到复活甲",
+      "onboard_time": 1679664331,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 188646,
@@ -37291,6 +37331,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 181719,
+      "num": 181719,
+      "word": "张角喊AG",
+      "onboard_time": 1679664571,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 181710,
       "num": 466739,
       "word": "极简版政府工作报告",
@@ -37657,14 +37705,6 @@
       "onboard_time": 1678560794,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 178318,
-      "num": 178318,
-      "word": "广东人吃辣主打的是氛围感",
-      "onboard_time": 1679660728,
-      "rank": 45,
-      "category": "美食,幽默"
     },
     {
       "raw_hot": 178302,
@@ -45131,14 +45171,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 116650,
-      "num": 116650,
-      "word": "剑南春董事长被判有期徒刑5年罚4亿",
-      "onboard_time": 1679663971,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 116636,
       "num": 116636,
       "word": "40国出境游名单",
@@ -48195,6 +48227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 74286,
+      "num": 402479,
+      "word": "连花清瘟清的什么瘟",
+      "onboard_time": 1679662828,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73916,
       "num": 73916,
       "word": "小朋友用纸片做了个海洋馆",
@@ -48801,14 +48841,6 @@
       "onboard_time": 1679181978,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 51625,
-      "num": 402479,
-      "word": "连花清瘟清的什么瘟",
-      "onboard_time": 1679662828,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 51445,
