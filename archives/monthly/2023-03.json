@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679696205378,
+  "endTime": 1679697198120,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -35747,6 +35747,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 193068,
+      "num": 193068,
+      "word": "成都一幼师疑似虐打幼童",
+      "onboard_time": 1679693952,
+      "rank": 10,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 193059,
       "num": 193059,
       "word": "被这只猫的肌肉惊到了",
@@ -46979,14 +46987,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 101893,
-      "num": 48268,
-      "word": "成都一幼师疑似虐打幼童",
-      "onboard_time": 1679693952,
-      "rank": 10,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 101536,
       "num": 101536,
       "word": "天津男篮vs广厦男篮",
@@ -47433,6 +47433,14 @@
       "onboard_time": 1678960052,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 95807,
+      "num": 95807,
+      "word": "警方通报宁波一车撞人后倒回碾压",
+      "onboard_time": 1679685912,
+      "rank": 48,
+      "category": "社会负面"
     },
     {
       "raw_hot": 95790,
@@ -47921,14 +47929,6 @@
       "onboard_time": 1678579762,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 87036,
-      "num": 87036,
-      "word": "警方通报宁波一车撞人后倒回碾压",
-      "onboard_time": 1679685912,
-      "rank": 48,
-      "category": "社会负面"
     },
     {
       "raw_hot": 86919,
@@ -49739,6 +49739,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 28510,
+      "num": 28510,
+      "word": "欧洲杯预选赛",
+      "onboard_time": 1679694615,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 28239,
       "num": 28239,
       "word": "2023F1沙特大奖赛",
@@ -49849,14 +49857,6 @@
       "onboard_time": 1678982005,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 20856,
-      "num": 20856,
-      "word": "欧洲杯预选赛",
-      "onboard_time": 1679694615,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 20843,

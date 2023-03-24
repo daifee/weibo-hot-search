@@ -1,6 +1,6 @@
 {
   "startTime": 1679675078237,
-  "endTime": 1679696205378,
+  "endTime": 1679697198120,
   "band_list": [
     {
       "raw_hot": 1115573,
@@ -203,6 +203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193068,
+      "num": 193068,
+      "word": "成都一幼师疑似虐打幼童",
+      "onboard_time": 1679693952,
+      "rank": 10,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 190047,
       "num": 190047,
       "word": "广东人吃辣主打的是氛围感",
@@ -371,14 +379,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 101893,
-      "num": 48268,
-      "word": "成都一幼师疑似虐打幼童",
-      "onboard_time": 1679693952,
-      "rank": 10,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 101131,
       "num": 101131,
       "word": "周公子",
@@ -403,6 +403,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 95807,
+      "num": 95807,
+      "word": "警方通报宁波一车撞人后倒回碾压",
+      "onboard_time": 1679685912,
+      "rank": 48,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 95724,
       "num": 95724,
       "word": "范丞丞说乐华演唱会还没通知我",
@@ -417,14 +425,6 @@
       "onboard_time": 1679668770,
       "rank": 48,
       "category": "美食"
-    },
-    {
-      "raw_hot": 87036,
-      "num": 87036,
-      "word": "警方通报宁波一车撞人后倒回碾压",
-      "onboard_time": 1679685912,
-      "rank": 48,
-      "category": "社会负面"
     },
     {
       "raw_hot": 67366,
@@ -483,20 +483,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 28510,
+      "num": 28510,
+      "word": "欧洲杯预选赛",
+      "onboard_time": 1679694615,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 26432,
       "num": 29634,
       "word": "第五人格",
       "onboard_time": 1679681594,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 20856,
-      "num": 20856,
-      "word": "欧洲杯预选赛",
-      "onboard_time": 1679694615,
-      "rank": 41,
-      "category": "体育"
     }
   ],
   "hotgov_list": [
