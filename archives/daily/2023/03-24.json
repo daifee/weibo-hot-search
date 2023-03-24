@@ -1,6 +1,6 @@
 {
   "startTime": 1679588746312,
-  "endTime": 1679643207582,
+  "endTime": 1679646069887,
   "band_list": [
     {
       "raw_hot": 10450851,
@@ -27,6 +27,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 2689526,
+      "num": 909579,
+      "word": "北极鲶鱼",
+      "onboard_time": 1679641948,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2578597,
+      "num": 1853630,
+      "word": "前交通局长回应孙女炫富贪腐言论",
+      "onboard_time": 1679641828,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2414058,
       "num": 2414058,
       "word": "海底捞回应孕妇可以插队",
@@ -41,14 +57,6 @@
       "onboard_time": 1679634031,
       "rank": 3,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1853630,
-      "num": 1853630,
-      "word": "前交通局长回应孙女炫富贪腐言论",
-      "onboard_time": 1679641828,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1780848,
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 1510144,
-      "num": 212128,
+      "num": 383476,
       "word": "抖音崩了",
       "onboard_time": 1679636368,
       "rank": 30,
@@ -137,6 +145,14 @@
       "onboard_time": 1679629713,
       "rank": 5,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1164759,
+      "num": 1164759,
+      "word": "官方通报前交通局局长家属言论",
+      "onboard_time": 1679644290,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1139771,
@@ -307,6 +323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 647288,
+      "num": 432642,
+      "word": "肖战微博之夜倒计时VCR",
+      "onboard_time": 1679644709,
+      "rank": 7,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 638939,
       "num": 629992,
       "word": "文淇演我看到刘亦菲",
@@ -449,14 +473,6 @@
       "onboard_time": 1679616145,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 515937,
-      "num": 515937,
-      "word": "北极鲶鱼",
-      "onboard_time": 1679641948,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 514422,
@@ -603,20 +619,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 391628,
+      "num": 391628,
+      "word": "重庆永川警方通报",
+      "onboard_time": 1679641529,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 390965,
       "num": 390965,
       "word": "杜华向朋友借钱签韩庚",
       "onboard_time": 1679583509,
       "rank": 7,
       "category": "综艺,幽默"
-    },
-    {
-      "raw_hot": 371753,
-      "num": 371753,
-      "word": "重庆永川警方通报",
-      "onboard_time": 1679641529,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 366247,
@@ -651,12 +667,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 341374,
+      "num": 300815,
+      "word": "今日上海机场工作人员内心belike",
+      "onboard_time": 1679645848,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 338536,
       "num": 338536,
       "word": "东南vip",
       "onboard_time": 1679642849,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 331491,
+      "num": 331491,
+      "word": "官方通报13岁女孩遭霸凌",
+      "onboard_time": 1679644589,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 322748,
@@ -827,6 +859,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 254263,
+      "num": 254263,
+      "word": "AI爆发对大学生选专业的影响",
+      "onboard_time": 1679642969,
+      "rank": 34,
+      "category": "科技,教育"
+    },
+    {
       "raw_hot": 243762,
       "num": 243762,
       "word": "IVE将进军北美",
@@ -865,6 +905,14 @@
       "onboard_time": 1679637029,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 233333,
+      "num": 233333,
+      "word": "EXO见面会视频",
+      "onboard_time": 1679643867,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 230660,
@@ -929,6 +977,30 @@
       "onboard_time": 1679629713,
       "rank": 31,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 213385,
+      "num": 213385,
+      "word": "铃芽之旅画面",
+      "onboard_time": 1679643569,
+      "rank": 22,
+      "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 211456,
+      "num": 211456,
+      "word": "宁艺卓的变幻卡",
+      "onboard_time": 1679645967,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 210882,
+      "num": 210882,
+      "word": "5种行为构成校园欺凌",
+      "onboard_time": 1679645427,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 209848,
@@ -1001,6 +1073,14 @@
       "onboard_time": 1679634988,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 196837,
+      "num": 196837,
+      "word": "保你平安二刷看点",
+      "onboard_time": 1679645368,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 194484,
@@ -1083,6 +1163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185482,
+      "num": 185482,
+      "word": "长空之王五一档待映影片想看第一",
+      "onboard_time": 1679644890,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 185421,
       "num": 185421,
       "word": "利特吃面 一步到胃",
@@ -1153,6 +1241,14 @@
       "onboard_time": 1679631392,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 168277,
+      "num": 168277,
+      "word": "不信自己是逃犯到派出所求证后落网",
+      "onboard_time": 1679643688,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 166640,
@@ -1307,14 +1403,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 138146,
-      "num": 138146,
-      "word": "AI爆发对大学生选专业的影响",
-      "onboard_time": 1679642969,
-      "rank": 34,
-      "category": "科技,教育"
-    },
-    {
       "raw_hot": 135447,
       "num": 194398,
       "word": "丫丫最新画面",
@@ -1337,6 +1425,14 @@
       "onboard_time": 1679591657,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 132112,
+      "num": 132112,
+      "word": "一段感情从好好说话开始",
+      "onboard_time": 1679644649,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 127719,
@@ -1401,6 +1497,30 @@
       "onboard_time": 1679585550,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 118289,
+      "num": 118289,
+      "word": "重庆城市科技学院",
+      "onboard_time": 1679645787,
+      "rank": 43,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 114759,
+      "num": 114759,
+      "word": "这才是我想上的早八",
+      "onboard_time": 1679644769,
+      "rank": 46,
+      "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 113249,
+      "num": 113249,
+      "word": "铃芽之旅上映",
+      "onboard_time": 1679646026,
+      "rank": 47,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 111177,
