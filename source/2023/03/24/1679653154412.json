@@ -1,0 +1,410 @@
+{
+  "runTime": 1679653154412,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2752603,
+        "num": 2752603,
+        "word": "半个娱乐圈明星都在上海",
+        "onboard_time": 1679635950,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 582725,
+        "num": 582725,
+        "word": "重庆城市科技学院",
+        "onboard_time": 1679645787,
+        "rank": 1,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 42690,
+        "num": 581308,
+        "word": "看祖国大地春景如画",
+        "onboard_time": 1679651009,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1859831,
+        "num": 574169,
+        "word": "女患者正赤裸上身医生推门而入",
+        "onboard_time": 1679649749,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1042792,
+        "num": 570389,
+        "word": "肉泥",
+        "onboard_time": 1679649088,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 849500,
+        "num": 562135,
+        "word": "张大大 不是我哈我只是客服",
+        "onboard_time": 1679646147,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 758131,
+        "num": 559783,
+        "word": "失业之后过上了双休生活",
+        "onboard_time": 1679646927,
+        "rank": 6,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 944750,
+        "num": 552110,
+        "word": "心碎小羊o",
+        "onboard_time": 1679649987,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 741028,
+        "num": 548012,
+        "word": "TFBOYS 微博之夜",
+        "onboard_time": 1679623707,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 343205,
+        "num": 543411,
+        "word": "中国警方自俄成功引渡1名杀人嫌犯",
+        "onboard_time": 1679650888,
+        "rank": 9,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1948574,
+        "num": 534166,
+        "word": "前交通局长回应孙女炫富贪腐言论",
+        "onboard_time": 1679641828,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 532181,
+        "num": 532181,
+        "word": "鹿晗红色亮片真空西装造型",
+        "onboard_time": 1679652208,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 468233,
+        "num": 468233,
+        "word": "今日上海机场工作人员内心belike",
+        "onboard_time": 1679645848,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 404202,
+        "num": 404202,
+        "word": "NCTDREAM中国人气",
+        "onboard_time": 1679651370,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 94077,
+        "num": 395926,
+        "word": "我为以闪亮之名代颜",
+        "onboard_time": 1679652029,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 393663,
+        "num": 393663,
+        "word": "成毅送签名照被拒绝",
+        "onboard_time": 1679651491,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 391540,
+        "num": 391540,
+        "word": "人在上班心在上海",
+        "onboard_time": 1679650769,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 298381,
+        "num": 298381,
+        "word": "疑似孙女炫富涉事局长退休前成立公司",
+        "onboard_time": 1679652448,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264145,
+        "num": 264145,
+        "word": "大熊猫幼崽吃游客掉落口罩",
+        "onboard_time": 1679636308,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257076,
+        "num": 257076,
+        "word": "抖音崩了",
+        "onboard_time": 1679636368,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1457885,
+        "num": 256865,
+        "word": "北极鲶鱼",
+        "onboard_time": 1679641948,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 748988,
+        "num": 255270,
+        "word": "切糕老板多切3斤威胁不买就报警",
+        "onboard_time": 1679650050,
+        "rank": 21,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 347493,
+        "num": 254421,
+        "word": "青环制片人邀请徐明浩的原因",
+        "onboard_time": 1679652150,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 284562,
+        "num": 253630,
+        "word": "官方通报13岁女孩遭霸凌",
+        "onboard_time": 1679644589,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340480,
+        "num": 252947,
+        "word": "姐姐拍的欧阳娜娜",
+        "onboard_time": 1679650828,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263278,
+        "num": 251977,
+        "word": "周公子",
+        "onboard_time": 1679652328,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251649,
+        "num": 251649,
+        "word": "小欢喜林磊儿近照",
+        "onboard_time": 1679652087,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 241529,
+        "num": 241529,
+        "word": "铃芽之旅超你的名字首日票房",
+        "onboard_time": 1679650226,
+        "rank": 27,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 238968,
+        "num": 238968,
+        "word": "2023LPL",
+        "onboard_time": 1679652267,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 229854,
+        "num": 229854,
+        "word": "唐嫣小青剧照",
+        "onboard_time": 1679649507,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216912,
+        "num": 216912,
+        "word": "铃芽之旅上映",
+        "onboard_time": 1679646026,
+        "rank": 30,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 189619,
+        "num": 189619,
+        "word": "田柾国直播做饭把自己香迷糊",
+        "onboard_time": 1679649809,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188323,
+        "num": 188323,
+        "word": "于正评价田曦薇很甜",
+        "onboard_time": 1679649569,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170942,
+        "num": 170942,
+        "word": "外公是我朋友圈的守护神",
+        "onboard_time": 1679637870,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 148844,
+        "num": 148844,
+        "word": "头还在睡觉身体已经起床了",
+        "onboard_time": 1679651666,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 150766,
+        "num": 147253,
+        "word": "肖战片场摸狗",
+        "onboard_time": 1679651666,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 144405,
+        "num": 144405,
+        "word": "陈楚生一秒翻栏杆",
+        "onboard_time": 1679648249,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 135282,
+        "num": 135282,
+        "word": "CBA全明星",
+        "onboard_time": 1679649328,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127686,
+        "num": 127686,
+        "word": "男子因名字被同学调侃导抑郁症",
+        "onboard_time": 1679630555,
+        "rank": 38,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 122009,
+        "num": 122009,
+        "word": "那一刻真的很爱大学",
+        "onboard_time": 1679637570,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122780,
+        "num": 117965,
+        "word": "宋再临金素恩同游乐园",
+        "onboard_time": 1679641649,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111522,
+        "num": 111522,
+        "word": "美军空袭叙利亚东部",
+        "onboard_time": 1679636489,
+        "rank": 41,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 111495,
+        "num": 111495,
+        "word": "冰雹",
+        "onboard_time": 1679651130,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110630,
+        "num": 110630,
+        "word": "这是哈尔的移动城堡吧",
+        "onboard_time": 1679651970,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109641,
+        "num": 109641,
+        "word": "官方通报前交通局局长家属言论",
+        "onboard_time": 1679644290,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107206,
+        "num": 107206,
+        "word": "深海",
+        "onboard_time": 1679648609,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 104525,
+        "num": 104525,
+        "word": "AI爆发对大学生选专业的影响",
+        "onboard_time": 1679642969,
+        "rank": 46,
+        "category": "科技,教育"
+      },
+      {
+        "raw_hot": 98826,
+        "num": 98826,
+        "word": "EXO见面会视频",
+        "onboard_time": 1679643867,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 96591,
+        "num": 96591,
+        "word": "时代少年团晒收工照",
+        "onboard_time": 1679649749,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 88248,
+        "num": 88248,
+        "word": "重庆农行",
+        "onboard_time": 1679635713,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的天下情怀#"
+    }
+  }
+}
