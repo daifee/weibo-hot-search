@@ -1,6 +1,6 @@
 {
   "startTime": 1679588746312,
-  "endTime": 1679622471984,
+  "endTime": 1679625345834,
   "band_list": [
     {
       "raw_hot": 2414058,
@@ -27,6 +27,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1751173,
+      "num": 1751173,
+      "word": "TFBOYS",
+      "onboard_time": 1679623707,
+      "rank": 0,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1668289,
       "num": 1668289,
       "word": "南通大学夜闯女寝男生被开除学籍",
@@ -51,12 +59,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1332597,
+      "num": 1332597,
+      "word": "团时朗去世",
+      "onboard_time": 1679622387,
+      "rank": 28,
+      "category": "社会新闻,影视"
+    },
+    {
       "raw_hot": 1128508,
       "num": 1128508,
       "word": "女子实名举报医生丈夫出轨",
       "onboard_time": 1679617348,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1127550,
+      "num": 1127550,
+      "word": "易烊千玺微博之夜宣传图",
+      "onboard_time": 1679622145,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1052847,
@@ -171,12 +195,36 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 542940,
+      "num": 542940,
+      "word": "白客因身体不适无法出席新片路演",
+      "onboard_time": 1679620109,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 541703,
+      "num": 541703,
+      "word": "广州天气",
+      "onboard_time": 1679622026,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 528165,
       "num": 528165,
       "word": "狐妖小红娘竹业篇组讯",
       "onboard_time": 1679616145,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 523044,
+      "num": 523044,
+      "word": "杰克奥特曼",
+      "onboard_time": 1679622327,
+      "rank": 34,
+      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 510686,
@@ -195,12 +243,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 485582,
+      "raw_hot": 490470,
       "num": 485582,
       "word": "ChatGPT插件",
       "onboard_time": 1679620948,
       "rank": 47,
       "category": "科技"
+    },
+    {
+      "raw_hot": 469642,
+      "num": 469642,
+      "word": "高校图书馆设发呆区能吃东西能看景",
+      "onboard_time": 1679622145,
+      "rank": 38,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 460812,
@@ -211,12 +267,12 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 449662,
-      "num": 449662,
-      "word": "白客因身体不适无法出席新片路演",
-      "onboard_time": 1679620109,
-      "rank": 30,
-      "category": "影视"
+      "raw_hot": 435003,
+      "num": 435003,
+      "word": "梅西职业生涯第800球",
+      "onboard_time": 1679623048,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 419704,
@@ -227,6 +283,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 418427,
+      "num": 418427,
+      "word": "阿雅微博文案好细节",
+      "onboard_time": 1679624485,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 390965,
       "num": 390965,
       "word": "杜华向朋友借钱签韩庚",
@@ -235,20 +299,20 @@
       "category": "综艺,幽默"
     },
     {
-      "raw_hot": 370302,
-      "num": 370302,
-      "word": "易烊千玺微博之夜宣传图",
-      "onboard_time": 1679622145,
-      "rank": 19,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 366247,
       "num": 366247,
       "word": "网友泰国偶遇朱一龙",
       "onboard_time": 1679613680,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 364231,
+      "num": 364231,
+      "word": "家长称4名失联男孩已在缅甸",
+      "onboard_time": 1679624308,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 356166,
@@ -275,6 +339,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 337076,
+      "num": 337076,
+      "word": "禁止中小学校举办或参与举办培训机构",
+      "onboard_time": 1679624247,
+      "rank": 22,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 322748,
       "num": 322748,
       "word": "何炅听天天想你哭了",
@@ -291,6 +363,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 318135,
+      "num": 318135,
+      "word": "那英说做真人秀不一定讲真话",
+      "onboard_time": 1679621908,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 317020,
       "num": 317020,
       "word": "女子冲进地铁车门致骨折索赔22万",
@@ -305,6 +385,14 @@
       "onboard_time": 1679581770,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 300840,
+      "num": 300840,
+      "word": "杨紫上海机场路透",
+      "onboard_time": 1679623466,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 289754,
@@ -379,6 +467,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 243762,
+      "num": 243762,
+      "word": "IVE将进军北美",
+      "onboard_time": 1679623887,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 242582,
       "num": 242582,
       "word": "张信哲陈立农合唱忘了你忘了我",
@@ -419,14 +515,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 214195,
-      "num": 214195,
-      "word": "团时朗去世",
-      "onboard_time": 1679622387,
-      "rank": 28,
-      "category": "社会新闻,影视"
-    },
-    {
       "raw_hot": 209848,
       "num": 209848,
       "word": "许嵩 演唱会",
@@ -441,14 +529,6 @@
       "onboard_time": 1679588423,
       "rank": 26,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 206917,
-      "num": 206917,
-      "word": "那英说做真人秀不一定讲真话",
-      "onboard_time": 1679621908,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 206177,
@@ -515,6 +595,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 184437,
+      "num": 184437,
+      "word": "微博之夜主持人有了吗",
+      "onboard_time": 1679625147,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 184346,
       "num": 184346,
       "word": "陈建宇淘汰",
@@ -555,12 +643,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 170551,
-      "num": 170551,
-      "word": "杰克奥特曼",
-      "onboard_time": 1679622327,
-      "rank": 34,
-      "category": "社会新闻,影视"
+      "raw_hot": 171305,
+      "num": 249116,
+      "word": "腰椎疾病原来跟座椅有关",
+      "onboard_time": 1679623466,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164629,
+      "num": 164629,
+      "word": "德云社节目单",
+      "onboard_time": 1679623648,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 159564,
@@ -587,14 +683,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 156258,
-      "num": 156258,
-      "word": "高校图书馆设发呆区能吃东西能看景",
-      "onboard_time": 1679622145,
-      "rank": 38,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 155130,
       "num": 155130,
       "word": "葡萄牙4比0列支敦士登",
@@ -611,6 +699,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 150110,
+      "num": 150110,
+      "word": "泰国华人回应赴泰旅游被嘎腰子",
+      "onboard_time": 1679624848,
+      "rank": 43,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 147371,
       "num": 147371,
       "word": "宝格丽活动",
@@ -625,14 +721,6 @@
       "onboard_time": 1679613439,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 145633,
-      "num": 145633,
-      "word": "广州天气",
-      "onboard_time": 1679622026,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 144835,
@@ -745,6 +833,14 @@
       "onboard_time": 1679583810,
       "rank": 33,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 96887,
+      "num": 96887,
+      "word": "中国小伙应聘泰国鱼粉厂被骗至缅甸",
+      "onboard_time": 1679625267,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 96813,

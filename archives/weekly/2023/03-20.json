@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679622471984,
+  "endTime": 1679625345834,
   "band_list": [
     {
       "raw_hot": 7256959,
@@ -321,6 +321,14 @@
       "onboard_time": 1679373633,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1751173,
+      "num": 1751173,
+      "word": "TFBOYS",
+      "onboard_time": 1679623707,
+      "rank": 0,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1724841,
@@ -683,6 +691,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1332597,
+      "num": 1332597,
+      "word": "团时朗去世",
+      "onboard_time": 1679622387,
+      "rank": 28,
+      "category": "社会新闻,影视"
+    },
+    {
       "raw_hot": 1330632,
       "num": 489184,
       "word": "林志玲素颜近照",
@@ -969,6 +985,14 @@
       "onboard_time": 1679617348,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1127550,
+      "num": 1127550,
+      "word": "易烊千玺微博之夜宣传图",
+      "onboard_time": 1679622145,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1124296,
@@ -2891,6 +2915,22 @@
       "category": "艺人,美妆"
     },
     {
+      "raw_hot": 542940,
+      "num": 542940,
+      "word": "白客因身体不适无法出席新片路演",
+      "onboard_time": 1679620109,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 541703,
+      "num": 541703,
+      "word": "广州天气",
+      "onboard_time": 1679622026,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 536063,
       "num": 536063,
       "word": "台湾日月潭九蛙叠像全部露出",
@@ -2969,6 +3009,14 @@
       "onboard_time": 1679312794,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 523044,
+      "num": 523044,
+      "word": "杰克奥特曼",
+      "onboard_time": 1679622327,
+      "rank": 34,
+      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 520623,
@@ -3179,6 +3227,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 490470,
+      "num": 485582,
+      "word": "ChatGPT插件",
+      "onboard_time": 1679620948,
+      "rank": 47,
+      "category": "科技"
+    },
+    {
       "raw_hot": 489274,
       "num": 489274,
       "word": "日本一农村25年才迎来一个新生儿",
@@ -3209,14 +3265,6 @@
       "onboard_time": 1679334734,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 485582,
-      "num": 485582,
-      "word": "ChatGPT插件",
-      "onboard_time": 1679620948,
-      "rank": 47,
-      "category": "科技"
     },
     {
       "raw_hot": 485436,
@@ -3313,6 +3361,14 @@
       "onboard_time": 1679442084,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 469642,
+      "num": 469642,
+      "word": "高校图书馆设发呆区能吃东西能看景",
+      "onboard_time": 1679622145,
+      "rank": 38,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 469320,
@@ -3457,14 +3513,6 @@
       "onboard_time": 1679373213,
       "rank": 22,
       "category": "艺人,幽默"
-    },
-    {
-      "raw_hot": 449662,
-      "num": 449662,
-      "word": "白客因身体不适无法出席新片路演",
-      "onboard_time": 1679620109,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 449026,
@@ -3617,6 +3665,14 @@
       "onboard_time": 1679533171,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 435003,
+      "num": 435003,
+      "word": "梅西职业生涯第800球",
+      "onboard_time": 1679623048,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 434145,
@@ -3777,6 +3833,14 @@
       "onboard_time": 1679379447,
       "rank": 42,
       "category": "网红,社会新闻"
+    },
+    {
+      "raw_hot": 418427,
+      "num": 418427,
+      "word": "阿雅微博文案好细节",
+      "onboard_time": 1679624485,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 417892,
@@ -4171,14 +4235,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 370302,
-      "num": 370302,
-      "word": "易烊千玺微博之夜宣传图",
-      "onboard_time": 1679622145,
-      "rank": 19,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 369715,
       "num": 342293,
       "word": "女大学生把床垫当成被子盖了一年",
@@ -4225,6 +4281,14 @@
       "onboard_time": 1679300848,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 364231,
+      "num": 364231,
+      "word": "家长称4名失联男孩已在缅甸",
+      "onboard_time": 1679624308,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 364148,
@@ -4491,6 +4555,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 337076,
+      "num": 337076,
+      "word": "禁止中小学校举办或参与举办培训机构",
+      "onboard_time": 1679624247,
+      "rank": 22,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 336300,
       "num": 336300,
       "word": "熊猫妈妈示范怎么吸熊猫",
@@ -4713,6 +4785,14 @@
       "onboard_time": 1679405669,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 318135,
+      "num": 318135,
+      "word": "那英说做真人秀不一定讲真话",
+      "onboard_time": 1679621908,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 317807,
@@ -4977,6 +5057,14 @@
       "onboard_time": 1679549246,
       "rank": 30,
       "category": "科技"
+    },
+    {
+      "raw_hot": 300840,
+      "num": 300840,
+      "word": "杨紫上海机场路透",
+      "onboard_time": 1679623466,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 299222,
@@ -5795,6 +5883,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 243762,
+      "num": 243762,
+      "word": "IVE将进军北美",
+      "onboard_time": 1679623887,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 243000,
       "num": 243000,
       "word": "鹿晗拿盆炫东北美食",
@@ -6443,14 +6539,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 214195,
-      "num": 214195,
-      "word": "团时朗去世",
-      "onboard_time": 1679622387,
-      "rank": 28,
-      "category": "社会新闻,影视"
-    },
-    {
       "raw_hot": 214191,
       "num": 214191,
       "word": "黑暗荣耀演员们4K无滤镜无美颜",
@@ -6633,14 +6721,6 @@
       "onboard_time": 1679488890,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 206917,
-      "num": 206917,
-      "word": "那英说做真人秀不一定讲真话",
-      "onboard_time": 1679621908,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 206530,
@@ -7499,6 +7579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 184437,
+      "num": 184437,
+      "word": "微博之夜主持人有了吗",
+      "onboard_time": 1679625147,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 184400,
       "num": 184400,
       "word": "程潇白色露腰短上衣造型",
@@ -7939,6 +8027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171305,
+      "num": 249116,
+      "word": "腰椎疾病原来跟座椅有关",
+      "onboard_time": 1679623466,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171054,
       "num": 171054,
       "word": "SEVENTEEN旧专销量破104万",
@@ -7953,14 +8049,6 @@
       "onboard_time": 1679566226,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 170551,
-      "num": 170551,
-      "word": "杰克奥特曼",
-      "onboard_time": 1679622327,
-      "rank": 34,
-      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 170298,
@@ -8129,6 +8217,14 @@
       "onboard_time": 1679392827,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164629,
+      "num": 164629,
+      "word": "德云社节目单",
+      "onboard_time": 1679623648,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 164470,
@@ -8307,14 +8403,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 156258,
-      "num": 156258,
-      "word": "高校图书馆设发呆区能吃东西能看景",
-      "onboard_time": 1679622145,
-      "rank": 38,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 155978,
       "num": 155978,
       "word": "电视剧人生之路",
@@ -8449,6 +8537,14 @@
       "onboard_time": 1679275946,
       "rank": 43,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 150110,
+      "num": 150110,
+      "word": "泰国华人回应赴泰旅游被嘎腰子",
+      "onboard_time": 1679624848,
+      "rank": 43,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 149704,
@@ -8593,14 +8689,6 @@
       "onboard_time": 1679480729,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 145633,
-      "num": 145633,
-      "word": "广州天气",
-      "onboard_time": 1679622026,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 145465,
@@ -9665,6 +9753,14 @@
       "onboard_time": 1679341931,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 96887,
+      "num": 96887,
+      "word": "中国小伙应聘泰国鱼粉厂被骗至缅甸",
+      "onboard_time": 1679625267,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 96813,
