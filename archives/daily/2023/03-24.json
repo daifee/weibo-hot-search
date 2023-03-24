@@ -1,6 +1,6 @@
 {
   "startTime": 1679588746312,
-  "endTime": 1679664799218,
+  "endTime": 1679667405209,
   "band_list": [
     {
       "raw_hot": 10450851,
@@ -267,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1028997,
+      "num": 1028997,
+      "word": "剑南春董事长被判有期徒刑5年罚4亿",
+      "onboard_time": 1679663971,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1022826,
       "num": 1022826,
       "word": "失业之后过上了双休生活",
@@ -339,6 +347,14 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 903231,
+      "num": 903231,
+      "word": "张雨绮微博之夜礼服",
+      "onboard_time": 1679662890,
+      "rank": 7,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 895907,
       "num": 765077,
       "word": "今日上海机场工作人员内心belike",
@@ -385,6 +401,14 @@
       "onboard_time": 1679628388,
       "rank": 48,
       "category": "社会负面,情感"
+    },
+    {
+      "raw_hot": 845923,
+      "num": 412142,
+      "word": "鹿晗直播",
+      "onboard_time": 1679666731,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 845242,
@@ -467,14 +491,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 718424,
-      "num": 718424,
-      "word": "张雨绮微博之夜礼服",
-      "onboard_time": 1679662890,
-      "rank": 7,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 680400,
       "num": 680400,
       "word": "聂小雨假死",
@@ -489,6 +505,14 @@
       "onboard_time": 1679626349,
       "rank": 18,
       "category": "教育,幽默"
+    },
+    {
+      "raw_hot": 663430,
+      "num": 663430,
+      "word": "唐嫣跳宅舞",
+      "onboard_time": 1679665589,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 652870,
@@ -707,6 +731,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 511251,
+      "num": 395879,
+      "word": "周震南健身成果",
+      "onboard_time": 1679665529,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 510686,
       "num": 510686,
       "word": "吴倩在武大唱歌",
@@ -899,6 +931,14 @@
       "category": "综艺,幽默"
     },
     {
+      "raw_hot": 389718,
+      "num": 389718,
+      "word": "AG对战LGD",
+      "onboard_time": 1679662288,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 385855,
       "num": 385855,
       "word": "何洁素颜",
@@ -939,6 +979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 357810,
+      "num": 357810,
+      "word": "刘少林刘少昂加入天津短道速滑队",
+      "onboard_time": 1679666849,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 356166,
       "num": 356166,
       "word": "中学要求向班主任交6500元培养费",
@@ -955,6 +1003,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 355374,
+      "num": 355374,
+      "word": "张角喊AG",
+      "onboard_time": 1679664571,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 349087,
       "num": 349087,
       "word": "久诚 处罚",
@@ -969,6 +1025,14 @@
       "onboard_time": 1679656648,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 344537,
+      "num": 344537,
+      "word": "邓超陈赫再说weare伐木累",
+      "onboard_time": 1679663729,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 340480,
@@ -1059,6 +1123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 300332,
+      "num": 266029,
+      "word": "林俊杰演唱会",
+      "onboard_time": 1679664447,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 297330,
       "num": 297330,
       "word": "什么土豆要等三年才吃",
@@ -1105,14 +1177,6 @@
       "onboard_time": 1679663609,
       "rank": 23,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 277135,
-      "num": 277135,
-      "word": "邓超陈赫再说weare伐木累",
-      "onboard_time": 1679663729,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 274255,
@@ -1185,14 +1249,6 @@
       "onboard_time": 1679629592,
       "rank": 46,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 263273,
-      "num": 263273,
-      "word": "AG对战LGD",
-      "onboard_time": 1679662288,
-      "rank": 35,
-      "category": "游戏"
     },
     {
       "raw_hot": 262794,
@@ -1323,6 +1379,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 231168,
+      "num": 231168,
+      "word": "广东人吃辣主打的是氛围感",
+      "onboard_time": 1679660728,
+      "rank": 45,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 230660,
       "num": 230660,
       "word": "天官赐福",
@@ -1419,22 +1483,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 212519,
-      "num": 212519,
-      "word": "剑南春董事长被判有期徒刑5年罚4亿",
-      "onboard_time": 1679663971,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 211908,
-      "num": 211908,
-      "word": "广东人吃辣主打的是氛围感",
-      "onboard_time": 1679660728,
-      "rank": 45,
-      "category": "美食,幽默"
-    },
-    {
       "raw_hot": 211456,
       "num": 211456,
       "word": "宁艺卓的变幻卡",
@@ -1449,6 +1497,14 @@
       "onboard_time": 1679645427,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 210692,
+      "num": 210692,
+      "word": "LGD零封AG",
+      "onboard_time": 1679666070,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 209848,
@@ -1499,6 +1555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 204700,
+      "num": 204700,
+      "word": "高双星改回本名",
+      "onboard_time": 1679666252,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 204169,
       "num": 204169,
       "word": "章昊二顺排名",
@@ -1537,6 +1601,14 @@
       "onboard_time": 1679641649,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 198385,
+      "num": 198385,
+      "word": "毛晓彤新剧收视率破2",
+      "onboard_time": 1679667151,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 198065,
@@ -1619,6 +1691,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 190903,
+      "num": 190903,
+      "word": "EDG拿到复活甲",
+      "onboard_time": 1679664331,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 190582,
       "num": 249116,
       "word": "腰椎疾病原来跟座椅有关",
@@ -1627,20 +1707,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 190315,
-      "num": 185915,
-      "word": "林俊杰演唱会",
-      "onboard_time": 1679664447,
-      "rank": 41,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 188690,
-      "num": 188690,
-      "word": "EDG拿到复活甲",
-      "onboard_time": 1679664331,
-      "rank": 40,
-      "category": "游戏"
+      "raw_hot": 190203,
+      "num": 190203,
+      "word": "深圳6折人才房卖不动",
+      "onboard_time": 1679666609,
+      "rank": 37,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 188381,
@@ -1705,14 +1777,6 @@
       "onboard_time": 1679613383,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 181719,
-      "num": 181719,
-      "word": "张角喊AG",
-      "onboard_time": 1679664571,
-      "rank": 42,
-      "category": "游戏"
     },
     {
       "raw_hot": 181544,
@@ -1793,6 +1857,14 @@
       "onboard_time": 1679623648,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 164523,
+      "num": 164523,
+      "word": "德塔文认证丁禹兮市场认可度",
+      "onboard_time": 1679664933,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 164196,

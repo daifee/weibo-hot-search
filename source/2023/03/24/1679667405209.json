@@ -1,0 +1,410 @@
+{
+  "runTime": 1679667405209,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2397033,
+        "num": 2397033,
+        "word": "月亮星星在一起啦",
+        "onboard_time": 1679659529,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1028997,
+        "num": 1028997,
+        "word": "剑南春董事长被判有期徒刑5年罚4亿",
+        "onboard_time": 1679663971,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 903231,
+        "num": 903231,
+        "word": "张雨绮微博之夜礼服",
+        "onboard_time": 1679662890,
+        "rank": 2,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1133776,
+        "num": 895830,
+        "word": "半个娱乐圈明星都在上海",
+        "onboard_time": 1679635950,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 879316,
+        "num": 879316,
+        "word": "90后情侣3年攒100万裸辞飞荷兰",
+        "onboard_time": 1679660248,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 663430,
+        "num": 663430,
+        "word": "唐嫣跳宅舞",
+        "onboard_time": 1679665589,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 578395,
+        "num": 578395,
+        "word": "TFBOYS 微博之夜",
+        "onboard_time": 1679623707,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 455370,
+        "num": 455370,
+        "word": "54岁女子生前贷款85万打赏男主播",
+        "onboard_time": 1679656288,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33962,
+        "num": 443279,
+        "word": "看祖国大地春景如画",
+        "onboard_time": 1679651009,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438428,
+        "num": 438428,
+        "word": "娱乐圈过年了",
+        "onboard_time": 1679658751,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 2102896,
+        "num": 435475,
+        "word": "赛琳娜为海莉发声",
+        "onboard_time": 1679662409,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 945389,
+        "num": 425501,
+        "word": "疑似孙女炫富涉事局长退休前成立公司",
+        "onboard_time": 1679652448,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 845923,
+        "num": 412142,
+        "word": "鹿晗直播",
+        "onboard_time": 1679666731,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 522002,
+        "num": 405806,
+        "word": "丫丫叼着竹子爬高高",
+        "onboard_time": 1679657428,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 511251,
+        "num": 395879,
+        "word": "周震南健身成果",
+        "onboard_time": 1679665529,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 389718,
+        "num": 389718,
+        "word": "AG对战LGD",
+        "onboard_time": 1679662288,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 378887,
+        "num": 378887,
+        "word": "聂小雨假死",
+        "onboard_time": 1679654067,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 363416,
+        "num": 363416,
+        "word": "何洁素颜",
+        "onboard_time": 1679659469,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 357810,
+        "num": 357810,
+        "word": "刘少林刘少昂加入天津短道速滑队",
+        "onboard_time": 1679666849,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 355374,
+        "num": 355374,
+        "word": "张角喊AG",
+        "onboard_time": 1679664571,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1022115,
+        "num": 351647,
+        "word": "女患者正赤裸上身医生推门而入",
+        "onboard_time": 1679649749,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344537,
+        "num": 344537,
+        "word": "邓超陈赫再说weare伐木累",
+        "onboard_time": 1679663729,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 328296,
+        "num": 328296,
+        "word": "张凌赫喂白鹿吃薯条",
+        "onboard_time": 1679653649,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 289532,
+        "num": 289532,
+        "word": "切糕老板多切3斤威胁不买就报警",
+        "onboard_time": 1679650050,
+        "rank": 23,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 277879,
+        "num": 277879,
+        "word": "忍网红路牌很久了",
+        "onboard_time": 1679657488,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 319835,
+        "num": 271387,
+        "word": "范丞丞说乐华演唱会还没通知我",
+        "onboard_time": 1679662409,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300332,
+        "num": 266029,
+        "word": "林俊杰演唱会",
+        "onboard_time": 1679664447,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 248126,
+        "num": 248126,
+        "word": "前交通局长回应孙女炫富贪腐言论",
+        "onboard_time": 1679641828,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240275,
+        "num": 240275,
+        "word": "库克现身北京",
+        "onboard_time": 1679654428,
+        "rank": 28,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 231168,
+        "num": 231168,
+        "word": "广东人吃辣主打的是氛围感",
+        "onboard_time": 1679660728,
+        "rank": 29,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 231105,
+        "num": 231105,
+        "word": "铃芽之旅超你的名字首日票房",
+        "onboard_time": 1679650226,
+        "rank": 30,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 210692,
+        "num": 210692,
+        "word": "LGD零封AG",
+        "onboard_time": 1679666070,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 207932,
+        "num": 207932,
+        "word": "大学的猫对大学生有多信任",
+        "onboard_time": 1679658329,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 205347,
+        "num": 205347,
+        "word": "郭敬明说虞书欣天天在现场熬夜",
+        "onboard_time": 1679655329,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204700,
+        "num": 204700,
+        "word": "高双星改回本名",
+        "onboard_time": 1679666252,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 198385,
+        "num": 198385,
+        "word": "毛晓彤新剧收视率破2",
+        "onboard_time": 1679667151,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 190903,
+        "num": 190903,
+        "word": "EDG拿到复活甲",
+        "onboard_time": 1679664331,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 190203,
+        "num": 190203,
+        "word": "深圳6折人才房卖不动",
+        "onboard_time": 1679666609,
+        "rank": 37,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 186936,
+        "num": 186936,
+        "word": "张婧仪录制奔跑吧",
+        "onboard_time": 1679661386,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184418,
+        "num": 184418,
+        "word": "铃芽之旅上映",
+        "onboard_time": 1679646026,
+        "rank": 39,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 178229,
+        "num": 178229,
+        "word": "库克晒和黄龄合影",
+        "onboard_time": 1679663069,
+        "rank": 40,
+        "category": "科技,艺人"
+      },
+      {
+        "raw_hot": 167342,
+        "num": 167342,
+        "word": "NCTDREAM香港演唱会",
+        "onboard_time": 1679663609,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 165863,
+        "num": 165863,
+        "word": "咒术回战",
+        "onboard_time": 1679654067,
+        "rank": 42,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 164523,
+        "num": 164523,
+        "word": "德塔文认证丁禹兮市场认可度",
+        "onboard_time": 1679664933,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163783,
+        "num": 163783,
+        "word": "金钟仁拿一位后哭了",
+        "onboard_time": 1679653169,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153968,
+        "num": 153968,
+        "word": "俞灏明说他也讨厌赵公子",
+        "onboard_time": 1679664749,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 153149,
+        "num": 153149,
+        "word": "周公子",
+        "onboard_time": 1679652328,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150307,
+        "num": 150307,
+        "word": "月掩金星",
+        "onboard_time": 1679657789,
+        "rank": 47,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 146967,
+        "num": 146967,
+        "word": "千万不要买这样的氛围灯",
+        "onboard_time": 1679654668,
+        "rank": 48,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 144250,
+        "num": 144250,
+        "word": "如何看待丝芭艺人频繁解约",
+        "onboard_time": 1679661029,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的天下情怀#"
+    }
+  }
+}
