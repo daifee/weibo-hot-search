@@ -1,0 +1,410 @@
+{
+  "runTime": 1679638954645,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5353219,
+        "num": 5353219,
+        "word": "半个娱乐圈明星都在上海",
+        "onboard_time": 1679635950,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1079331,
+        "num": 1079331,
+        "word": "那英喊肖战战哥",
+        "onboard_time": 1679638768,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86580,
+        "num": 751719,
+        "word": "旅游打卡地怎么能少了宝藏村落",
+        "onboard_time": 1679626288,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1790162,
+        "num": 750257,
+        "word": "TFBOYS 微博之夜",
+        "onboard_time": 1679623707,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 746802,
+        "num": 746802,
+        "word": "半天妖烤鱼两涉事门店永久关停",
+        "onboard_time": 1679633612,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 635542,
+        "num": 635542,
+        "word": "大熊猫幼崽吃游客掉落口罩",
+        "onboard_time": 1679636308,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 624994,
+        "num": 624994,
+        "word": "团时朗去世",
+        "onboard_time": 1679622387,
+        "rank": 6,
+        "category": "动漫,艺人"
+      },
+      {
+        "raw_hot": 576967,
+        "num": 576967,
+        "word": "重庆农行",
+        "onboard_time": 1679635713,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 572101,
+        "num": 572101,
+        "word": "吴磊放下男德",
+        "onboard_time": 1679629771,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 520479,
+        "num": 520479,
+        "word": "家长称4名失联男孩已在缅甸",
+        "onboard_time": 1679624308,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 497678,
+        "num": 497678,
+        "word": "动画还原苏州杀夫案",
+        "onboard_time": 1679635829,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 459079,
+        "num": 459079,
+        "word": "美军空袭叙利亚东部",
+        "onboard_time": 1679636489,
+        "rank": 11,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 433887,
+        "num": 433887,
+        "word": "鹿晗第一次来到东北澡堂的反应",
+        "onboard_time": 1679636847,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 424966,
+        "num": 424966,
+        "word": "女子长期遭家暴因感情深不愿离婚",
+        "onboard_time": 1679628388,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 409360,
+        "num": 409360,
+        "word": "微博之夜主持人有了吗",
+        "onboard_time": 1679625147,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 391826,
+        "num": 391826,
+        "word": "罗渽民香港机场到达图",
+        "onboard_time": 1679638288,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 365713,
+        "num": 365713,
+        "word": "泰国华人回应赴泰旅游被嘎腰子",
+        "onboard_time": 1679624848,
+        "rank": 16,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 351907,
+        "num": 351907,
+        "word": "广州冰雹",
+        "onboard_time": 1679625808,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346650,
+        "num": 346650,
+        "word": "张杰演唱会新增郑州站沈阳站",
+        "onboard_time": 1679634334,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 339350,
+        "num": 339350,
+        "word": "一个人哭出来一车人收不住",
+        "onboard_time": 1679631031,
+        "rank": 19,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 322951,
+        "num": 322951,
+        "word": "劳荣枝死刑复核最新进展",
+        "onboard_time": 1679617829,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318525,
+        "num": 318525,
+        "word": "微博之夜全阵容官宣",
+        "onboard_time": 1679629713,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 295521,
+        "num": 295521,
+        "word": "男子因名字被同学调侃导抑郁症",
+        "onboard_time": 1679630555,
+        "rank": 22,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 263476,
+        "num": 263476,
+        "word": "海底捞回应孕妇可以插队",
+        "onboard_time": 1679614644,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254075,
+        "num": 254075,
+        "word": "什么土豆要等三年才吃",
+        "onboard_time": 1679632774,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 236263,
+        "num": 236263,
+        "word": "我的宝宝一夜之间怎么啦",
+        "onboard_time": 1679632294,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235389,
+        "num": 235389,
+        "word": "猫咪舔毛被打断是什么反应",
+        "onboard_time": 1679633734,
+        "rank": 26,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 234428,
+        "num": 234428,
+        "word": "井柏然分享归路手写台词",
+        "onboard_time": 1679637029,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 224791,
+        "num": 224791,
+        "word": "范丞丞给刘亦菲让座",
+        "onboard_time": 1679626108,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 199181,
+        "num": 199181,
+        "word": "博士答辩现场的压迫感",
+        "onboard_time": 1679626349,
+        "rank": 29,
+        "category": "教育,幽默"
+      },
+      {
+        "raw_hot": 1510144,
+        "num": 198815,
+        "word": "抖音崩了",
+        "onboard_time": 1679636368,
+        "rank": 30,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 194774,
+        "num": 194774,
+        "word": "女子实名举报医生丈夫出轨",
+        "onboard_time": 1679617348,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172958,
+        "num": 172958,
+        "word": "禁止中小学校举办或参与举办培训机构",
+        "onboard_time": 1679624247,
+        "rank": 32,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 547823,
+        "num": 171907,
+        "word": "到达上海机场的明星",
+        "onboard_time": 1679634031,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 170528,
+        "num": 170528,
+        "word": "大熊猫泡澡也太像人了吧",
+        "onboard_time": 1679630136,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 167904,
+        "num": 167904,
+        "word": "我妈去买菜结果被抓去走秀",
+        "onboard_time": 1679629592,
+        "rank": 35,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 167725,
+        "num": 167725,
+        "word": "外公是我朋友圈的守护神",
+        "onboard_time": 1679637870,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 166629,
+        "num": 166629,
+        "word": "陕西省考",
+        "onboard_time": 1679633315,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 162789,
+        "num": 162789,
+        "word": "中国小伙应聘泰国鱼粉厂被骗至缅甸",
+        "onboard_time": 1679625267,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18463,
+        "num": 160517,
+        "word": "饿了么注册放心点商标",
+        "onboard_time": 1679637629,
+        "rank": 39,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 158821,
+        "num": 158821,
+        "word": "张俪浪姐初舞台造型来自心想事成",
+        "onboard_time": 1679635349,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157374,
+        "num": 157374,
+        "word": "家长回应孩子霸凌13岁女生",
+        "onboard_time": 1679638768,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151128,
+        "num": 151128,
+        "word": "白鹿张凌赫 遮太阳",
+        "onboard_time": 1679617168,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 139925,
+        "num": 139925,
+        "word": "聂小雨下线了吗",
+        "onboard_time": 1679637451,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 135985,
+        "num": 135985,
+        "word": "为什么孕期一定要认真对待",
+        "onboard_time": 1679638586,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133663,
+        "num": 133663,
+        "word": "那一刻真的很爱大学",
+        "onboard_time": 1679637570,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128941,
+        "num": 128941,
+        "word": "泰国旅游骗局视频已被下架",
+        "onboard_time": 1679619088,
+        "rank": 46,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 128733,
+        "num": 128733,
+        "word": "做好爸妈朋友圈的后勤工作",
+        "onboard_time": 1679627490,
+        "rank": 47,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 123669,
+        "num": 123669,
+        "word": "侵权任嘉伦网店拒不道歉被强制执行",
+        "onboard_time": 1679638887,
+        "rank": 48,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 111826,
+        "num": 111826,
+        "word": "铃芽之旅终极预告",
+        "onboard_time": 1679638706,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#每天认识一件文物#"
+    }
+  }
+}

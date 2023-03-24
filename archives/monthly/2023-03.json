@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679636008439,
+  "endTime": 1679638954645,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -121,6 +121,14 @@
       "onboard_time": 1678419581,
       "rank": 5,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 5353219,
+      "num": 5353219,
+      "word": "半个娱乐圈明星都在上海",
+      "onboard_time": 1679635950,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 5333620,
@@ -2297,6 +2305,14 @@
       "onboard_time": 1678167205,
       "rank": 48,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1510144,
+      "num": 198815,
+      "word": "抖音崩了",
+      "onboard_time": 1679636368,
+      "rank": 30,
+      "category": "科技"
     },
     {
       "raw_hot": 1509894,
@@ -4601,6 +4617,14 @@
       "onboard_time": 1678895607,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1079331,
+      "num": 1079331,
+      "word": "那英喊肖战战哥",
+      "onboard_time": 1679638768,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 1076800,
@@ -8579,6 +8603,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 746802,
+      "num": 746802,
+      "word": "半天妖烤鱼两涉事门店永久关停",
+      "onboard_time": 1679633612,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 746544,
       "num": 746544,
       "word": "建议三孩以上家庭公租房免费",
@@ -9561,14 +9593,6 @@
       "onboard_time": 1679395109,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 691008,
-      "num": 691008,
-      "word": "半天妖烤鱼两涉事门店永久关停",
-      "onboard_time": 1679633612,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 690993,
@@ -10897,6 +10921,14 @@
       "onboard_time": 1678525286,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 635542,
+      "num": 635542,
+      "word": "大熊猫幼崽吃游客掉落口罩",
+      "onboard_time": 1679636308,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 635127,
@@ -12313,6 +12345,14 @@
       "onboard_time": 1679624848,
       "rank": 43,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 576967,
+      "num": 576967,
+      "word": "重庆农行",
+      "onboard_time": 1679635713,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 576950,
@@ -14899,6 +14939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 497678,
+      "num": 497678,
+      "word": "动画还原苏州杀夫案",
+      "onboard_time": 1679635829,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 497572,
       "num": 291285,
       "word": "建议骑手保证每周至少一天休息",
@@ -16395,6 +16443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 459079,
+      "num": 459079,
+      "word": "美军空袭叙利亚东部",
+      "onboard_time": 1679636489,
+      "rank": 11,
+      "category": "军事,国外要闻"
+    },
+    {
       "raw_hot": 458983,
       "num": 458983,
       "word": "南京Hero久竞声明",
@@ -17369,6 +17425,14 @@
       "onboard_time": 1679141429,
       "rank": 16,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 433887,
+      "num": 433887,
+      "word": "鹿晗第一次来到东北澡堂的反应",
+      "onboard_time": 1679636847,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 433740,
@@ -19065,6 +19129,14 @@
       "onboard_time": 1678927048,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 391826,
+      "num": 391826,
+      "word": "罗渽民香港机场到达图",
+      "onboard_time": 1679638288,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 391803,
@@ -28803,6 +28875,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 235389,
+      "num": 235389,
+      "word": "猫咪舔毛被打断是什么反应",
+      "onboard_time": 1679633734,
+      "rank": 41,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 235213,
       "num": 235213,
       "word": "摸鱼的时候有活干了",
@@ -28849,6 +28929,14 @@
       "onboard_time": 1679114489,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 234428,
+      "num": 234428,
+      "word": "井柏然分享归路手写台词",
+      "onboard_time": 1679637029,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 234185,
@@ -33923,14 +34011,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 197305,
-      "num": 197305,
-      "word": "半个娱乐圈明星都在上海",
-      "onboard_time": 1679635950,
-      "rank": 32,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 197302,
       "num": 269663,
       "word": "孙颖莎谈心理健康",
@@ -36851,14 +36931,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 178633,
-      "num": 178633,
-      "word": "猫咪舔毛被打断是什么反应",
-      "onboard_time": 1679633734,
-      "rank": 41,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 178552,
       "num": 178552,
       "word": "晨晓夫妇恋爱遭反对",
@@ -37851,6 +37923,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 170528,
+      "num": 170528,
+      "word": "大熊猫泡澡也太像人了吧",
+      "onboard_time": 1679630136,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 170483,
       "num": 163998,
       "word": "王鸥大侦探水晶发箍造型",
@@ -38265,6 +38345,14 @@
       "onboard_time": 1679062472,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 167725,
+      "num": 167725,
+      "word": "外公是我朋友圈的守护神",
+      "onboard_time": 1679637870,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 167719,
@@ -39427,6 +39515,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 157374,
+      "num": 157374,
+      "word": "家长回应孩子霸凌13岁女生",
+      "onboard_time": 1679638768,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157372,
       "num": 157372,
       "word": "路人巴黎偶遇刘宇",
@@ -40507,14 +40603,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 148101,
-      "num": 148101,
-      "word": "大熊猫泡澡也太像人了吧",
-      "onboard_time": 1679630136,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 148082,
       "num": 148082,
       "word": "WBG战胜NIP",
@@ -41555,6 +41643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139925,
+      "num": 139925,
+      "word": "聂小雨下线了吗",
+      "onboard_time": 1679637451,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 139907,
       "num": 139907,
       "word": "娜扎保你平安观后感",
@@ -42059,6 +42155,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 135985,
+      "num": 135985,
+      "word": "为什么孕期一定要认真对待",
+      "onboard_time": 1679638586,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 135929,
       "num": 135929,
       "word": "张杰说谢娜记不住银行卡密码",
@@ -42451,6 +42555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 133663,
+      "num": 133663,
+      "word": "那一刻真的很爱大学",
+      "onboard_time": 1679637570,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 133612,
       "num": 133612,
       "word": "王鹤棣杀青灯光秀",
@@ -42561,14 +42673,6 @@
       "onboard_time": 1678330946,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 132672,
-      "num": 132672,
-      "word": "重庆农行",
-      "onboard_time": 1679635713,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 132636,
@@ -43555,6 +43659,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 123669,
+      "num": 123669,
+      "word": "侵权任嘉伦网店拒不道歉被强制执行",
+      "onboard_time": 1679638887,
+      "rank": 48,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 123636,
       "num": 123636,
       "word": "LNG战胜TES",
@@ -43809,14 +43921,6 @@
       "onboard_time": 1679306192,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 121585,
-      "num": 121585,
-      "word": "动画还原苏州杀夫案",
-      "onboard_time": 1679635829,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 121570,
@@ -44697,6 +44801,14 @@
       "onboard_time": 1677932605,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 111826,
+      "num": 111826,
+      "word": "铃芽之旅终极预告",
+      "onboard_time": 1679638706,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 111787,
@@ -48513,6 +48625,14 @@
       "onboard_time": 1678266028,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 18463,
+      "num": 160517,
+      "word": "饿了么注册放心点商标",
+      "onboard_time": 1679637629,
+      "rank": 39,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 18134,
