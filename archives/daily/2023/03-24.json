@@ -1,6 +1,6 @@
 {
   "startTime": 1679588746312,
-  "endTime": 1679634963667,
+  "endTime": 1679636008439,
   "band_list": [
     {
       "raw_hot": 10450851,
@@ -235,6 +235,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 691008,
+      "num": 691008,
+      "word": "半天妖烤鱼两涉事门店永久关停",
+      "onboard_time": 1679633612,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 676167,
       "num": 676167,
       "word": "博士答辩现场的压迫感",
@@ -265,6 +273,14 @@
       "onboard_time": 1679618308,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 618166,
+      "num": 618166,
+      "word": "张杰演唱会新增郑州站沈阳站",
+      "onboard_time": 1679634334,
+      "rank": 12,
+      "category": "音乐"
     },
     {
       "raw_hot": 616410,
@@ -313,14 +329,6 @@
       "onboard_time": 1679624848,
       "rank": 43,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 563447,
-      "num": 563447,
-      "word": "张杰演唱会新增郑州站沈阳站",
-      "onboard_time": 1679634334,
-      "rank": 12,
-      "category": "音乐"
     },
     {
       "raw_hot": 561234,
@@ -379,20 +387,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 493317,
+      "num": 493317,
+      "word": "一个人哭出来一车人收不住",
+      "onboard_time": 1679631031,
+      "rank": 33,
+      "category": "幽默,社会新闻"
+    },
+    {
       "raw_hot": 490470,
       "num": 485582,
       "word": "ChatGPT插件",
       "onboard_time": 1679620948,
       "rank": 47,
       "category": "科技"
-    },
-    {
-      "raw_hot": 485661,
-      "num": 485661,
-      "word": "一个人哭出来一车人收不住",
-      "onboard_time": 1679631031,
-      "rank": 33,
-      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 478411,
@@ -497,14 +505,6 @@
       "onboard_time": 1679615064,
       "rank": 20,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 348426,
-      "num": 348426,
-      "word": "半天妖烤鱼两涉事门店永久关停",
-      "onboard_time": 1679633612,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 322748,
@@ -651,6 +651,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 262794,
+      "num": 262794,
+      "word": "我的宝宝一夜之间怎么啦",
+      "onboard_time": 1679632294,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 261686,
       "num": 261686,
       "word": "想瘦腿的有福了",
@@ -665,14 +673,6 @@
       "onboard_time": 1679571809,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 245212,
-      "num": 245212,
-      "word": "我的宝宝一夜之间怎么啦",
-      "onboard_time": 1679632294,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 243762,
@@ -795,6 +795,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 198065,
+      "num": 198065,
+      "word": "朴智旻主打曲MV",
+      "onboard_time": 1679634988,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 197305,
+      "num": 197305,
+      "word": "半个娱乐圈明星都在上海",
+      "onboard_time": 1679635950,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 194484,
       "num": 194484,
       "word": "陈立农小时候也抄过歌词",
@@ -875,6 +891,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 184715,
+      "num": 184715,
+      "word": "张俪浪姐初舞台造型来自心想事成",
+      "onboard_time": 1679635349,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 184346,
       "num": 184346,
       "word": "陈建宇淘汰",
@@ -888,6 +912,14 @@
       "word": "怎么相个亲和上班一样",
       "onboard_time": 1679581529,
       "rank": 45,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 178633,
+      "num": 178633,
+      "word": "猫咪舔毛被打断是什么反应",
+      "onboard_time": 1679633734,
+      "rank": 41,
       "category": "幽默,情感"
     },
     {
@@ -1003,6 +1035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 148101,
+      "num": 148101,
+      "word": "大熊猫泡澡也太像人了吧",
+      "onboard_time": 1679630136,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 147371,
       "num": 147371,
       "word": "宝格丽活动",
@@ -1017,14 +1057,6 @@
       "onboard_time": 1679613439,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 144879,
-      "num": 144879,
-      "word": "猫咪舔毛被打断是什么反应",
-      "onboard_time": 1679633734,
-      "rank": 41,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 144835,
@@ -1067,20 +1099,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 133710,
-      "num": 133710,
-      "word": "大熊猫泡澡也太像人了吧",
-      "onboard_time": 1679630136,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 133189,
       "num": 133189,
       "word": "NewJeans正在制作新专辑",
       "onboard_time": 1679591657,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 132672,
+      "num": 132672,
+      "word": "重庆农行",
+      "onboard_time": 1679635713,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 127719,
@@ -1121,6 +1153,14 @@
       "onboard_time": 1679563766,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 121585,
+      "num": 121585,
+      "word": "动画还原苏州杀夫案",
+      "onboard_time": 1679635829,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 120755,
