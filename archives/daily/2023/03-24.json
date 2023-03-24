@@ -1,6 +1,6 @@
 {
   "startTime": 1679588746312,
-  "endTime": 1679653154412,
+  "endTime": 1679654063026,
   "band_list": [
     {
       "raw_hot": 10450851,
@@ -51,20 +51,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2064005,
+      "num": 2064005,
+      "word": "女患者正赤裸上身医生推门而入",
+      "onboard_time": 1679649749,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1860712,
       "num": 1023819,
       "word": "到达上海机场的明星",
       "onboard_time": 1679634031,
       "rank": 3,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1859831,
-      "num": 574169,
-      "word": "女患者正赤裸上身医生推门而入",
-      "onboard_time": 1679649749,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1803675,
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 1353410,
-      "num": 623645,
+      "num": 726089,
       "word": "肉泥",
       "onboard_time": 1679649088,
       "rank": 10,
@@ -268,7 +268,7 @@
     },
     {
       "raw_hot": 944750,
-      "num": 552110,
+      "num": 939502,
       "word": "心碎小羊o",
       "onboard_time": 1679649987,
       "rank": 15,
@@ -289,6 +289,14 @@
       "onboard_time": 1679645848,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 869199,
+      "num": 869199,
+      "word": "疑似孙女炫富涉事局长退休前成立公司",
+      "onboard_time": 1679652448,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 863219,
@@ -355,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 772269,
+      "num": 251977,
+      "word": "周公子",
+      "onboard_time": 1679652328,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 748988,
       "num": 255270,
       "word": "切糕老板多切3斤威胁不买就报警",
@@ -369,6 +385,14 @@
       "onboard_time": 1679633612,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 736327,
+      "num": 736327,
+      "word": "金钟仁拿一位后哭了",
+      "onboard_time": 1679653169,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 676167,
@@ -515,6 +539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 558590,
+      "num": 452634,
+      "word": "张凌赫喂白鹿吃薯条",
+      "onboard_time": 1679653649,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 557241,
       "num": 317507,
       "word": "95后女孩失联8年被发现流浪荒山",
@@ -659,6 +691,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 426336,
+      "num": 426336,
+      "word": "成毅送签名照被拒绝",
+      "onboard_time": 1679651491,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 426252,
+      "num": 426252,
+      "word": "人在上班心在上海",
+      "onboard_time": 1679650769,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 419704,
       "num": 404822,
       "word": "女子受邀赴泰国旅游失联21天",
@@ -699,12 +747,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 393663,
-      "num": 393663,
-      "word": "成毅送签名照被拒绝",
-      "onboard_time": 1679651491,
-      "rank": 15,
-      "category": "综艺"
+      "raw_hot": 392735,
+      "num": 543411,
+      "word": "中国警方自俄成功引渡1名杀人嫌犯",
+      "onboard_time": 1679650888,
+      "rank": 9,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 391826,
@@ -723,14 +771,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 391540,
-      "num": 391540,
-      "word": "人在上班心在上海",
-      "onboard_time": 1679650769,
-      "rank": 16,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 390965,
       "num": 390965,
       "word": "杜华向朋友借钱签韩庚",
@@ -739,12 +779,28 @@
       "category": "综艺,幽默"
     },
     {
+      "raw_hot": 374606,
+      "num": 254421,
+      "word": "青环制片人邀请徐明浩的原因",
+      "onboard_time": 1679652150,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 366247,
       "num": 366247,
       "word": "网友泰国偶遇朱一龙",
       "onboard_time": 1679613680,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 363863,
+      "num": 251649,
+      "word": "小欢喜林磊儿近照",
+      "onboard_time": 1679652087,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 356166,
@@ -769,22 +825,6 @@
       "onboard_time": 1679615064,
       "rank": 20,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 347493,
-      "num": 254421,
-      "word": "青环制片人邀请徐明浩的原因",
-      "onboard_time": 1679652150,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 343205,
-      "num": 543411,
-      "word": "中国警方自俄成功引渡1名杀人嫌犯",
-      "onboard_time": 1679650888,
-      "rank": 9,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 340480,
@@ -873,14 +913,6 @@
       "onboard_time": 1679623466,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 298381,
-      "num": 298381,
-      "word": "疑似孙女炫富涉事局长退休前成立公司",
-      "onboard_time": 1679652448,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 297330,
@@ -979,14 +1011,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 263278,
-      "num": 251977,
-      "word": "周公子",
-      "onboard_time": 1679652328,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 262794,
       "num": 262794,
       "word": "我的宝宝一夜之间怎么啦",
@@ -1019,12 +1043,12 @@
       "category": "科技,教育"
     },
     {
-      "raw_hot": 251649,
-      "num": 251649,
-      "word": "小欢喜林磊儿近照",
-      "onboard_time": 1679652087,
-      "rank": 26,
-      "category": "影视"
+      "raw_hot": 254172,
+      "num": 241529,
+      "word": "铃芽之旅超你的名字首日票房",
+      "onboard_time": 1679650226,
+      "rank": 36,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 243762,
@@ -1041,14 +1065,6 @@
       "onboard_time": 1679588244,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 241529,
-      "num": 241529,
-      "word": "铃芽之旅超你的名字首日票房",
-      "onboard_time": 1679650226,
-      "rank": 36,
-      "category": "影视,动漫"
     },
     {
       "raw_hot": 239167,
@@ -1547,12 +1563,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 150766,
+      "raw_hot": 150864,
       "num": 147253,
       "word": "肖战片场摸狗",
       "onboard_time": 1679651666,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 150607,
+      "num": 150607,
+      "word": "患者隐私",
+      "onboard_time": 1679653408,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 150241,
@@ -1803,6 +1827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 101311,
+      "num": 101311,
+      "word": "春闺梦里人",
+      "onboard_time": 1679653529,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 101093,
       "num": 101093,
       "word": "最强大脑国际赛中国队名单",
@@ -1860,7 +1892,7 @@
     },
     {
       "raw_hot": 94077,
-      "num": 395926,
+      "num": 430276,
       "word": "我为以闪亮之名代颜",
       "onboard_time": 1679652029,
       "rank": 14,
@@ -1947,8 +1979,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 42690,
-      "num": 581308,
+      "raw_hot": 45925,
+      "num": 1257937,
       "word": "看祖国大地春景如画",
       "onboard_time": 1679651009,
       "rank": 2,

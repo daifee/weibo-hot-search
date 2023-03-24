@@ -1,0 +1,410 @@
+{
+  "runTime": 1679654063026,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2496976,
+        "num": 2496976,
+        "word": "半个娱乐圈明星都在上海",
+        "onboard_time": 1679635950,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 2064005,
+        "num": 2064005,
+        "word": "女患者正赤裸上身医生推门而入",
+        "onboard_time": 1679649749,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45925,
+        "num": 1257937,
+        "word": "看祖国大地春景如画",
+        "onboard_time": 1679651009,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 939502,
+        "num": 939502,
+        "word": "心碎小羊o",
+        "onboard_time": 1679649987,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 869199,
+        "num": 869199,
+        "word": "疑似孙女炫富涉事局长退休前成立公司",
+        "onboard_time": 1679652448,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 736327,
+        "num": 736327,
+        "word": "金钟仁拿一位后哭了",
+        "onboard_time": 1679653169,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 924882,
+        "num": 726089,
+        "word": "肉泥",
+        "onboard_time": 1679649088,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 697565,
+        "num": 697565,
+        "word": "TFBOYS 微博之夜",
+        "onboard_time": 1679623707,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 648067,
+        "num": 648067,
+        "word": "失业之后过上了双休生活",
+        "onboard_time": 1679646927,
+        "rank": 8,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 490667,
+        "num": 490667,
+        "word": "重庆城市科技学院",
+        "onboard_time": 1679645787,
+        "rank": 9,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1369213,
+        "num": 488573,
+        "word": "前交通局长回应孙女炫富贪腐言论",
+        "onboard_time": 1679641828,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 681348,
+        "num": 472371,
+        "word": "张大大 不是我哈我只是客服",
+        "onboard_time": 1679646147,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 558590,
+        "num": 452634,
+        "word": "张凌赫喂白鹿吃薯条",
+        "onboard_time": 1679653649,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 494286,
+        "num": 448443,
+        "word": "鹿晗红色亮片真空西装造型",
+        "onboard_time": 1679652208,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 80252,
+        "num": 430276,
+        "word": "我为以闪亮之名代颜",
+        "onboard_time": 1679652029,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 426336,
+        "num": 426336,
+        "word": "成毅送签名照被拒绝",
+        "onboard_time": 1679651491,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 426252,
+        "num": 426252,
+        "word": "人在上班心在上海",
+        "onboard_time": 1679650769,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 392735,
+        "num": 392735,
+        "word": "中国警方自俄成功引渡1名杀人嫌犯",
+        "onboard_time": 1679650888,
+        "rank": 17,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 261988,
+        "num": 261988,
+        "word": "抖音崩了",
+        "onboard_time": 1679636368,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 243519,
+        "num": 243519,
+        "word": "大熊猫幼崽吃游客掉落口罩",
+        "onboard_time": 1679636308,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1417380,
+        "num": 240748,
+        "word": "北极鲶鱼",
+        "onboard_time": 1679641948,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 772269,
+        "num": 237820,
+        "word": "周公子",
+        "onboard_time": 1679652328,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 728188,
+        "num": 236353,
+        "word": "切糕老板多切3斤威胁不买就报警",
+        "onboard_time": 1679650050,
+        "rank": 22,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 411111,
+        "num": 231962,
+        "word": "今日上海机场工作人员内心belike",
+        "onboard_time": 1679645848,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 374606,
+        "num": 227639,
+        "word": "青环制片人邀请徐明浩的原因",
+        "onboard_time": 1679652150,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 363863,
+        "num": 223437,
+        "word": "小欢喜林磊儿近照",
+        "onboard_time": 1679652087,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 297385,
+        "num": 221257,
+        "word": "NCTDREAM中国人气",
+        "onboard_time": 1679651370,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 266005,
+        "num": 216730,
+        "word": "姐姐拍的欧阳娜娜",
+        "onboard_time": 1679650828,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216286,
+        "num": 216286,
+        "word": "官方通报13岁女孩遭霸凌",
+        "onboard_time": 1679644589,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168406,
+        "num": 168406,
+        "word": "外公是我朋友圈的守护神",
+        "onboard_time": 1679637870,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 254172,
+        "num": 167870,
+        "word": "铃芽之旅超你的名字首日票房",
+        "onboard_time": 1679650226,
+        "rank": 30,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 222015,
+        "num": 167459,
+        "word": "唐嫣小青剧照",
+        "onboard_time": 1679649507,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193387,
+        "num": 165524,
+        "word": "铃芽之旅上映",
+        "onboard_time": 1679646026,
+        "rank": 32,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 154603,
+        "num": 154603,
+        "word": "2023LPL",
+        "onboard_time": 1679652267,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 150607,
+        "num": 150607,
+        "word": "患者隐私",
+        "onboard_time": 1679653408,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156412,
+        "num": 147326,
+        "word": "田柾国直播做饭把自己香迷糊",
+        "onboard_time": 1679649809,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150864,
+        "num": 146302,
+        "word": "肖战片场摸狗",
+        "onboard_time": 1679651666,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 135275,
+        "num": 135275,
+        "word": "头还在睡觉身体已经起床了",
+        "onboard_time": 1679651666,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 128784,
+        "num": 128784,
+        "word": "CBA全明星",
+        "onboard_time": 1679649328,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111456,
+        "num": 111456,
+        "word": "重庆农行",
+        "onboard_time": 1679635713,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150259,
+        "num": 110064,
+        "word": "于正评价田曦薇很甜",
+        "onboard_time": 1679649569,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116753,
+        "num": 109724,
+        "word": "陈楚生一秒翻栏杆",
+        "onboard_time": 1679648249,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 108445,
+        "num": 108445,
+        "word": "那一刻真的很爱大学",
+        "onboard_time": 1679637570,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 107391,
+        "num": 107391,
+        "word": "男子因名字被同学调侃导抑郁症",
+        "onboard_time": 1679630555,
+        "rank": 43,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 105433,
+        "num": 105433,
+        "word": "宋再临金素恩同游乐园",
+        "onboard_time": 1679641649,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102898,
+        "num": 102898,
+        "word": "美军空袭叙利亚东部",
+        "onboard_time": 1679636489,
+        "rank": 45,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 102633,
+        "num": 102633,
+        "word": "这是哈尔的移动城堡吧",
+        "onboard_time": 1679651970,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 101311,
+        "num": 101311,
+        "word": "春闺梦里人",
+        "onboard_time": 1679653529,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 94649,
+        "num": 94649,
+        "word": "冰雹",
+        "onboard_time": 1679651130,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91089,
+        "num": 91089,
+        "word": "时代少年团晒收工照",
+        "onboard_time": 1679649749,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#每天认识一件文物#"
+    }
+  }
+}

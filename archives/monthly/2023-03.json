@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679653154412,
+  "endTime": 1679654063026,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -1027,6 +1027,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 2064005,
+      "num": 2064005,
+      "word": "女患者正赤裸上身医生推门而入",
+      "onboard_time": 1679649749,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2062064,
       "num": 611751,
       "word": "青你选手蒋智豪肺癌晚期",
@@ -1377,14 +1385,6 @@
       "onboard_time": 1679634031,
       "rank": 3,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1859831,
-      "num": 574169,
-      "word": "女患者正赤裸上身医生推门而入",
-      "onboard_time": 1679649749,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1858029,
@@ -3108,7 +3108,7 @@
     },
     {
       "raw_hot": 1353410,
-      "num": 623645,
+      "num": 726089,
       "word": "肉泥",
       "onboard_time": 1679649088,
       "rank": 10,
@@ -6124,7 +6124,7 @@
     },
     {
       "raw_hot": 944750,
-      "num": 552110,
+      "num": 939502,
       "word": "心碎小羊o",
       "onboard_time": 1679649987,
       "rank": 15,
@@ -6881,6 +6881,14 @@
       "onboard_time": 1677650908,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 869199,
+      "num": 869199,
+      "word": "疑似孙女炫富涉事局长退休前成立公司",
+      "onboard_time": 1679652448,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 869034,
@@ -8331,6 +8339,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 772269,
+      "num": 251977,
+      "word": "周公子",
+      "onboard_time": 1679652328,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 771616,
       "num": 771616,
       "word": "娜扎帮闺蜜要徐明浩的签名照",
@@ -8921,6 +8937,14 @@
       "onboard_time": 1677658949,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 736327,
+      "num": 736327,
+      "word": "金钟仁拿一位后哭了",
+      "onboard_time": 1679653169,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 736281,
@@ -13017,6 +13041,14 @@
       "onboard_time": 1678198110,
       "rank": 22,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 558590,
+      "num": 452634,
+      "word": "张凌赫喂白鹿吃薯条",
+      "onboard_time": 1679653649,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 558281,
@@ -17915,12 +17947,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 426336,
+      "num": 426336,
+      "word": "成毅送签名照被拒绝",
+      "onboard_time": 1679651491,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 426289,
       "num": 262090,
       "word": "马尔代夫恢复与伊朗外交关系",
       "onboard_time": 1678690705,
       "rank": 19,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 426252,
+      "num": 426252,
+      "word": "人在上班心在上海",
+      "onboard_time": 1679650769,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 426096,
@@ -19235,14 +19283,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 393663,
-      "num": 393663,
-      "word": "成毅送签名照被拒绝",
-      "onboard_time": 1679651491,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 393296,
       "num": 393296,
       "word": "小学办公室的主要用途",
@@ -19273,6 +19313,14 @@
       "onboard_time": 1679309789,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 392735,
+      "num": 543411,
+      "word": "中国警方自俄成功引渡1名杀人嫌犯",
+      "onboard_time": 1679650888,
+      "rank": 9,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 392380,
@@ -19329,14 +19377,6 @@
       "onboard_time": 1679641529,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 391540,
-      "num": 391540,
-      "word": "人在上班心在上海",
-      "onboard_time": 1679650769,
-      "rank": 16,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 391435,
@@ -20179,6 +20219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 374606,
+      "num": 254421,
+      "word": "青环制片人邀请徐明浩的原因",
+      "onboard_time": 1679652150,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 374387,
       "num": 374387,
       "word": "申有娜ins更新",
@@ -20681,6 +20729,14 @@
       "onboard_time": 1679577209,
       "rank": 28,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 363863,
+      "num": 251649,
+      "word": "小欢喜林磊儿近照",
+      "onboard_time": 1679652087,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 363801,
@@ -21755,14 +21811,6 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 347493,
-      "num": 254421,
-      "word": "青环制片人邀请徐明浩的原因",
-      "onboard_time": 1679652150,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 346510,
       "num": 346510,
       "word": "宣璐为重症肌无力女子加油",
@@ -21985,14 +22033,6 @@
       "onboard_time": 1679449707,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 343205,
-      "num": 543411,
-      "word": "中国警方自俄成功引渡1名杀人嫌犯",
-      "onboard_time": 1679650888,
-      "rank": 9,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 343153,
@@ -24747,14 +24787,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 298381,
-      "num": 298381,
-      "word": "疑似孙女炫富涉事局长退休前成立公司",
-      "onboard_time": 1679652448,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 298324,
       "num": 298324,
       "word": "何佳蓉",
@@ -27091,14 +27123,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 263278,
-      "num": 251977,
-      "word": "周公子",
-      "onboard_time": 1679652328,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 263189,
       "num": 254122,
       "word": "杨紫叫杨迪哥",
@@ -27651,6 +27675,14 @@
       "category": "时尚,艺人"
     },
     {
+      "raw_hot": 254172,
+      "num": 241529,
+      "word": "铃芽之旅超你的名字首日票房",
+      "onboard_time": 1679650226,
+      "rank": 36,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 254135,
       "num": 254135,
       "word": "RNG对战BLG",
@@ -27825,14 +27857,6 @@
       "onboard_time": 1677713000,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 251649,
-      "num": 251649,
-      "word": "小欢喜林磊儿近照",
-      "onboard_time": 1679652087,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 251391,
@@ -28713,14 +28737,6 @@
       "onboard_time": 1678163608,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 241529,
-      "num": 241529,
-      "word": "铃芽之旅超你的名字首日票房",
-      "onboard_time": 1679650226,
-      "rank": 36,
-      "category": "影视,动漫"
     },
     {
       "raw_hot": 241385,
@@ -40635,6 +40651,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 150864,
+      "num": 147253,
+      "word": "肖战片场摸狗",
+      "onboard_time": 1679651666,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 150851,
       "num": 150851,
       "word": "猫咪的反应说明了一切",
@@ -40649,14 +40673,6 @@
       "onboard_time": 1677887963,
       "rank": 30,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 150766,
-      "num": 147253,
-      "word": "肖战片场摸狗",
-      "onboard_time": 1679651666,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 150695,
@@ -40681,6 +40697,14 @@
       "onboard_time": 1678074026,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 150607,
+      "num": 150607,
+      "word": "患者隐私",
+      "onboard_time": 1679653408,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 150569,
@@ -46908,7 +46932,7 @@
     },
     {
       "raw_hot": 94077,
-      "num": 395926,
+      "num": 430276,
       "word": "我为以闪亮之名代颜",
       "onboard_time": 1679652029,
       "rank": 14,
@@ -48579,6 +48603,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 45925,
+      "num": 1257937,
+      "word": "看祖国大地春景如画",
+      "onboard_time": 1679651009,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45406,
       "num": 145032,
       "word": "天猫发布2023新品必买榜",
@@ -48657,14 +48689,6 @@
       "onboard_time": 1679180475,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 42690,
-      "num": 581308,
-      "word": "看祖国大地春景如画",
-      "onboard_time": 1679651009,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 42662,
