@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679667405209,
+  "endTime": 1679668445423,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -668,7 +668,7 @@
     },
     {
       "raw_hot": 2404396,
-      "num": 530747,
+      "num": 532870,
       "word": "赛琳娜为海莉发声",
       "onboard_time": 1679662409,
       "rank": 10,
@@ -1945,6 +1945,14 @@
       "onboard_time": 1678150945,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1661644,
+      "num": 1661644,
+      "word": "刘少林刘少昂加入天津短道速滑队",
+      "onboard_time": 1679666849,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 1661208,
@@ -5059,6 +5067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1047162,
+      "num": 1047162,
+      "word": "剑南春董事长被判有期徒刑5年罚4亿",
+      "onboard_time": 1679663971,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1046121,
       "num": 631644,
       "word": "薛之谦 这世界病了而我没有妥协",
@@ -5208,14 +5224,6 @@
       "word": "男孩患鸟面综合症",
       "onboard_time": 1679106147,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1028997,
-      "num": 1028997,
-      "word": "剑南春董事长被判有期徒刑5年罚4亿",
-      "onboard_time": 1679663971,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -5585,6 +5593,14 @@
       "onboard_time": 1677749609,
       "rank": 15,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 992681,
+      "num": 531263,
+      "word": "鹿晗直播",
+      "onboard_time": 1679666731,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 992480,
@@ -7321,14 +7337,6 @@
       "onboard_time": 1679628388,
       "rank": 48,
       "category": "社会负面,情感"
-    },
-    {
-      "raw_hot": 845923,
-      "num": 412142,
-      "word": "鹿晗直播",
-      "onboard_time": 1679666731,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 845860,
@@ -9576,6 +9584,14 @@
       "word": "黑暗荣耀第三季",
       "onboard_time": 1678444107,
       "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 707656,
+      "num": 707656,
+      "word": "毛晓彤新剧收视率破2",
+      "onboard_time": 1679667151,
+      "rank": 35,
       "category": "影视"
     },
     {
@@ -13665,6 +13681,14 @@
       "onboard_time": 1678110508,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 546596,
+      "num": 546596,
+      "word": "深圳6折人才房卖不动",
+      "onboard_time": 1679666609,
+      "rank": 37,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 546535,
@@ -21329,14 +21353,6 @@
       "onboard_time": 1677823827,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 357810,
-      "num": 357810,
-      "word": "刘少林刘少昂加入天津短道速滑队",
-      "onboard_time": 1679666849,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 357663,
@@ -34539,14 +34555,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 198385,
-      "num": 198385,
-      "word": "毛晓彤新剧收视率破2",
-      "onboard_time": 1679667151,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 198292,
       "num": 198292,
       "word": "谱系自闭症",
@@ -34625,6 +34633,14 @@
       "onboard_time": 1679495733,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 197910,
+      "num": 197910,
+      "word": "EDG拿到复活甲",
+      "onboard_time": 1679664331,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 197857,
@@ -36051,14 +36067,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 190903,
-      "num": 190903,
-      "word": "EDG拿到复活甲",
-      "onboard_time": 1679664331,
-      "rank": 40,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 190876,
       "num": 190876,
       "word": "INTO1烟花回眸氛围感",
@@ -36209,14 +36217,6 @@
       "onboard_time": 1679020527,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 190203,
-      "num": 190203,
-      "word": "深圳6折人才房卖不动",
-      "onboard_time": 1679666609,
-      "rank": 37,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 190193,
@@ -41321,6 +41321,14 @@
       "onboard_time": 1677984023,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 148950,
+      "num": 148950,
+      "word": "好喜欢听这样的人唠嗑",
+      "onboard_time": 1679668049,
+      "rank": 46,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 148922,
@@ -49241,6 +49249,14 @@
       "onboard_time": 1678849346,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 37345,
+      "num": 1354354,
+      "word": "中国杂交水稻推广到数十国家和地区",
+      "onboard_time": 1679667452,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 36989,
