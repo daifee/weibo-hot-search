@@ -1,7 +1,15 @@
 {
   "startTime": 1679588746312,
-  "endTime": 1679625898679,
+  "endTime": 1679627912731,
   "band_list": [
+    {
+      "raw_hot": 2933452,
+      "num": 2933452,
+      "word": "TFBOYS",
+      "onboard_time": 1679623707,
+      "rank": 0,
+      "category": "作品衍生"
+    },
     {
       "raw_hot": 2414058,
       "num": 2414058,
@@ -9,14 +17,6 @@
       "onboard_time": 1679614644,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2091639,
-      "num": 2091639,
-      "word": "TFBOYS",
-      "onboard_time": 1679623707,
-      "rank": 0,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1780848,
@@ -43,6 +43,22 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1519907,
+      "num": 1519907,
+      "word": "广州冰雹",
+      "onboard_time": 1679625808,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1499904,
+      "num": 1499904,
+      "word": "团时朗去世",
+      "onboard_time": 1679622387,
+      "rank": 28,
+      "category": "社会新闻,影视"
+    },
+    {
       "raw_hot": 1428984,
       "num": 1155204,
       "word": "离婚冷静期内婆婆去世丈夫拒分遗产",
@@ -59,19 +75,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1332597,
-      "num": 1332597,
-      "word": "团时朗去世",
-      "onboard_time": 1679622387,
-      "rank": 28,
-      "category": "社会新闻,影视"
-    },
-    {
       "raw_hot": 1139771,
       "num": 1139771,
       "word": "易烊千玺微博之夜宣传图",
       "onboard_time": 1679622145,
       "rank": 19,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1139490,
+      "num": 1139490,
+      "word": "杨幂微博之夜出发路透",
+      "onboard_time": 1679626587,
+      "rank": 6,
       "category": "作品衍生"
     },
     {
@@ -91,12 +107,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1039645,
+      "num": 1039645,
+      "word": "家长称4名失联男孩已在缅甸",
+      "onboard_time": 1679624308,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 996782,
       "num": 996782,
       "word": "招聘大熊猫饲养员数百份简历零录取",
       "onboard_time": 1679615665,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 983911,
+      "num": 858758,
+      "word": "范丞丞给刘亦菲让座",
+      "onboard_time": 1679626108,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 948178,
@@ -115,12 +147,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 863219,
+      "num": 863219,
+      "word": "禁止中小学校举办或参与举办培训机构",
+      "onboard_time": 1679624247,
+      "rank": 22,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 845242,
       "num": 845242,
       "word": "白鹿张凌赫 遮太阳",
       "onboard_time": 1679617168,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 824368,
+      "num": 824368,
+      "word": "微博之夜主持人有了吗",
+      "onboard_time": 1679625147,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 790387,
@@ -187,14 +235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 574743,
-      "num": 574743,
-      "word": "家长称4名失联男孩已在缅甸",
-      "onboard_time": 1679624308,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 561234,
       "num": 561234,
       "word": "丫丫吃甘蔗",
@@ -227,14 +267,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 530509,
-      "num": 530509,
-      "word": "禁止中小学校举办或参与举办培训机构",
-      "onboard_time": 1679624247,
-      "rank": 22,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 528165,
       "num": 528165,
       "word": "狐妖小红娘竹业篇组讯",
@@ -265,6 +297,14 @@
       "onboard_time": 1679620948,
       "rank": 47,
       "category": "科技"
+    },
+    {
+      "raw_hot": 485848,
+      "num": 485848,
+      "word": "泰国华人回应赴泰旅游被嘎腰子",
+      "onboard_time": 1679624848,
+      "rank": 43,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 478411,
@@ -305,6 +345,22 @@
       "onboard_time": 1679624485,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 414596,
+      "num": 414596,
+      "word": "博士答辩现场的压迫感",
+      "onboard_time": 1679626349,
+      "rank": 18,
+      "category": "教育,幽默"
+    },
+    {
+      "raw_hot": 409822,
+      "num": 409822,
+      "word": "中国小伙应聘泰国鱼粉厂被骗至缅甸",
+      "onboard_time": 1679625267,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 390965,
@@ -387,6 +443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 303783,
+      "num": 303783,
+      "word": "微博之夜你最期待的女星红毯",
+      "onboard_time": 1679627309,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 300840,
       "num": 300840,
       "word": "杨紫上海机场路透",
@@ -435,6 +499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 264548,
+      "num": 264548,
+      "word": "韩红七年后第一次开演唱会",
+      "onboard_time": 1679627009,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 264242,
       "num": 264242,
       "word": "放在整个主持界也是相当炸裂",
@@ -467,14 +539,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 259710,
-      "num": 259710,
-      "word": "泰国华人回应赴泰旅游被嘎腰子",
-      "onboard_time": 1679624848,
-      "rank": 43,
-      "category": "社会新闻,旅游"
-    },
-    {
       "raw_hot": 243762,
       "num": 243762,
       "word": "IVE将进军北美",
@@ -489,14 +553,6 @@
       "onboard_time": 1679588244,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 237552,
-      "num": 237552,
-      "word": "微博之夜主持人有了吗",
-      "onboard_time": 1679625147,
-      "rank": 36,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 230660,
@@ -587,6 +643,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 191467,
+      "num": 191467,
+      "word": "吴磊涂松岩演父子",
+      "onboard_time": 1679627730,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 190582,
       "num": 249116,
       "word": "腰椎疾病原来跟座椅有关",
@@ -601,6 +665,14 @@
       "onboard_time": 1679600052,
       "rank": 14,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 187497,
+      "num": 187497,
+      "word": "文咏珊新片从10几岁演到50岁",
+      "onboard_time": 1679627250,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 186396,
@@ -635,6 +707,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 175468,
+      "num": 175468,
+      "word": "宋旻浩今天入伍",
+      "onboard_time": 1679626889,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 174825,
       "num": 130132,
       "word": "图赫尔将执教拜仁",
@@ -667,12 +747,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 160333,
-      "num": 160333,
-      "word": "中国小伙应聘泰国鱼粉厂被骗至缅甸",
-      "onboard_time": 1679625267,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 161754,
+      "num": 161754,
+      "word": "武大靖说期待在米兰赛场看到自己",
+      "onboard_time": 1679625987,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 159564,
@@ -715,6 +795,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 152214,
+      "num": 152214,
+      "word": "乡秀树",
+      "onboard_time": 1679626408,
+      "rank": 43,
+      "category": "动漫,影视"
+    },
+    {
       "raw_hot": 147371,
       "num": 147371,
       "word": "宝格丽活动",
@@ -729,6 +817,14 @@
       "onboard_time": 1679613439,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 146520,
+      "num": 146520,
+      "word": "做好爸妈朋友圈的后勤工作",
+      "onboard_time": 1679627490,
+      "rank": 45,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 144835,
@@ -771,6 +867,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 127719,
+      "num": 127719,
+      "word": "女生花2百做国风家宴把生活过成诗",
+      "onboard_time": 1679627551,
+      "rank": 49,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 127525,
       "num": 127525,
       "word": "聂小雨人设",
@@ -801,14 +905,6 @@
       "onboard_time": 1679585550,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 112863,
-      "num": 112863,
-      "word": "广州冰雹",
-      "onboard_time": 1679625808,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 111177,
@@ -857,6 +953,14 @@
       "onboard_time": 1679589262,
       "rank": 49,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 96697,
+      "num": 1506073,
+      "word": "旅游打卡地怎么能少了宝藏村落",
+      "onboard_time": 1679626288,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 95767,
@@ -983,6 +1087,9 @@
     },
     {
       "word": "#习近平主席这样阐述人类命运共同体#"
+    },
+    {
+      "word": "#习近平的天下情怀#"
     }
   ]
 }
