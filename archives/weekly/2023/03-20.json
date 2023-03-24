@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679679224921,
+  "endTime": 1679682152745,
   "band_list": [
     {
       "raw_hot": 10450851,
@@ -3353,6 +3353,14 @@
       "onboard_time": 1679275047,
       "rank": 7,
       "category": "情感"
+    },
+    {
+      "raw_hot": 558023,
+      "num": 558023,
+      "word": "网上炫富女子账号已被封",
+      "onboard_time": 1679677939,
+      "rank": 49,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 557180,
@@ -11019,14 +11027,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 117268,
-      "num": 117268,
-      "word": "网上炫富女子账号已被封",
-      "onboard_time": 1679677939,
-      "rank": 49,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 116171,
       "num": 116171,
       "word": "山东基建巨无霸有多硬核",
@@ -11683,6 +11683,14 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 42131,
+      "num": 42131,
+      "word": "年轻人摆摊主打自己想吃",
+      "onboard_time": 1679677519,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 42115,
       "num": 37974,
       "word": "刘耀文蓝天随拍",
@@ -11697,6 +11705,14 @@
       "onboard_time": 1679569227,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 38711,
+      "num": 38711,
+      "word": "想要长高的人有福了",
+      "onboard_time": 1679677697,
+      "rank": 35,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 38627,
@@ -11715,20 +11731,20 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 38386,
-      "num": 38386,
-      "word": "年轻人摆摊主打自己想吃",
-      "onboard_time": 1679677519,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 38078,
       "num": 1037765,
       "word": "钢铁丝路好风光",
       "onboard_time": 1679229987,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36271,
+      "num": 36271,
+      "word": "祝绪丹蝴蝶结编发",
+      "onboard_time": 1679679375,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 35017,
@@ -11801,6 +11817,14 @@
       "onboard_time": 1679228248,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 26432,
+      "num": 29634,
+      "word": "第五人格",
+      "onboard_time": 1679681594,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 18463,
