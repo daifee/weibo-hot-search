@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679786203712,
+  "endTime": 1679787237794,
   "band_list": [
     {
       "raw_hot": 27113842,
@@ -3939,6 +3939,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 588597,
+      "num": 588597,
+      "word": "李现扶完迪丽热巴扶杨紫",
+      "onboard_time": 1679759501,
+      "rank": 5,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 587818,
       "num": 587818,
       "word": "美军空袭叙利亚东部",
@@ -4865,14 +4873,6 @@
       "onboard_time": 1679286394,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 478629,
-      "num": 478629,
-      "word": "李现扶完迪丽热巴扶杨紫",
-      "onboard_time": 1679759501,
-      "rank": 5,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 478411,
@@ -11339,6 +11339,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 161310,
+      "num": 161310,
+      "word": "苏州医生在湖南培训顺手救人",
+      "onboard_time": 1679780592,
+      "rank": 19,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 161091,
       "num": 161091,
       "word": "别等到口渴时再喝水",
@@ -11433,6 +11441,14 @@
       "onboard_time": 1679389770,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 157137,
+      "num": 157137,
+      "word": "公司女更衣室装监控近十年",
+      "onboard_time": 1679772433,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156410,
@@ -13691,14 +13707,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 60572,
-      "num": 60572,
-      "word": "公司女更衣室装监控近十年",
-      "onboard_time": 1679772433,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 60380,
       "num": 60380,
       "word": "想要长高的人有福了",
@@ -13729,14 +13737,6 @@
       "onboard_time": 1679679375,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 52471,
-      "num": 52471,
-      "word": "苏州医生在湖南培训顺手救人",
-      "onboard_time": 1679780592,
-      "rank": 19,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 51017,
@@ -13875,12 +13875,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 34190,
+      "num": 83434,
+      "word": "黄蜂战胜独行侠",
+      "onboard_time": 1679780532,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 33531,
       "num": 1141730,
       "word": "落实重大发展战略开创事业新局",
       "onboard_time": 1679486968,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 33466,
+      "num": 83051,
+      "word": "笑容逐渐消失的狗子",
+      "onboard_time": 1679775312,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 32072,
@@ -13931,6 +13947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 29039,
+      "num": 77519,
+      "word": "郑钦文晋级",
+      "onboard_time": 1679787199,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 27779,
       "num": 27779,
       "word": "孙颖莎三冠王",
@@ -13947,28 +13971,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 24828,
-      "num": 51591,
-      "word": "笑容逐渐消失的狗子",
-      "onboard_time": 1679775312,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 18463,
       "num": 160517,
       "word": "饿了么注册放心点商标",
       "onboard_time": 1679637629,
       "rank": 39,
       "category": "科技,财经"
-    },
-    {
-      "raw_hot": 18103,
-      "num": 51454,
-      "word": "黄蜂战胜独行侠",
-      "onboard_time": 1679780532,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 17686,

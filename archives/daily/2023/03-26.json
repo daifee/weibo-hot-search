@@ -1,6 +1,6 @@
 {
   "startTime": 1679761328845,
-  "endTime": 1679786203712,
+  "endTime": 1679787237794,
   "band_list": [
     {
       "raw_hot": 5965286,
@@ -115,6 +115,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 588597,
+      "num": 588597,
+      "word": "李现扶完迪丽热巴扶杨紫",
+      "onboard_time": 1679759501,
+      "rank": 5,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 536933,
       "num": 459194,
       "word": "85花同台",
@@ -137,14 +145,6 @@
       "onboard_time": 1679758661,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 478629,
-      "num": 478629,
-      "word": "李现扶完迪丽热巴扶杨紫",
-      "onboard_time": 1679759501,
-      "rank": 5,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 458040,
@@ -307,6 +307,46 @@
       "category": "影视"
     },
     {
+      "raw_hot": 176441,
+      "num": 114540,
+      "word": "肖战ES高定",
+      "onboard_time": 1679740423,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 171953,
+      "num": 171953,
+      "word": "谷爱凌好可爱",
+      "onboard_time": 1679745954,
+      "rank": 8,
+      "category": "体育,作品衍生"
+    },
+    {
+      "raw_hot": 164790,
+      "num": 100888,
+      "word": "微博之夜我圆满了",
+      "onboard_time": 1679748043,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 161310,
+      "num": 161310,
+      "word": "苏州医生在湖南培训顺手救人",
+      "onboard_time": 1679780592,
+      "rank": 19,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 157137,
+      "num": 157137,
+      "word": "公司女更衣室装监控近十年",
+      "onboard_time": 1679772433,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153735,
       "num": 459451,
       "word": "警方通报女子遭多名男子殴打",
@@ -323,12 +363,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 147182,
-      "num": 164312,
-      "word": "谷爱凌好可爱",
-      "onboard_time": 1679745954,
-      "rank": 8,
-      "category": "体育,作品衍生"
+      "raw_hot": 141588,
+      "num": 88059,
+      "word": "仙剑一仙剑三剧粉都圆满了",
+      "onboard_time": 1679747446,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 124002,
@@ -345,14 +385,6 @@
       "onboard_time": 1679746794,
       "rank": 19,
       "category": "教育"
-    },
-    {
-      "raw_hot": 90641,
-      "num": 52232,
-      "word": "肖战ES高定",
-      "onboard_time": 1679740423,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 83885,
@@ -395,28 +427,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 62279,
-      "num": 62279,
-      "word": "仙剑一仙剑三剧粉都圆满了",
-      "onboard_time": 1679747446,
-      "rank": 36,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 61724,
       "num": 312175,
       "word": "放在整个广告界也是相当炸裂",
       "onboard_time": 1679741079,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 60572,
-      "num": 60572,
-      "word": "公司女更衣室装监控近十年",
-      "onboard_time": 1679772433,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 60321,
@@ -449,14 +465,6 @@
       "onboard_time": 1679736238,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 52471,
-      "num": 52471,
-      "word": "苏州医生在湖南培训顺手救人",
-      "onboard_time": 1679780592,
-      "rank": 19,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 49750,
@@ -499,6 +507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 34190,
+      "num": 83434,
+      "word": "黄蜂战胜独行侠",
+      "onboard_time": 1679780532,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 33669,
       "num": 305869,
       "word": "榜样7",
@@ -507,12 +523,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 31311,
-      "num": 42415,
-      "word": "微博之夜我圆满了",
-      "onboard_time": 1679748043,
-      "rank": 44,
-      "category": "作品衍生"
+      "raw_hot": 33466,
+      "num": 83051,
+      "word": "笑容逐渐消失的狗子",
+      "onboard_time": 1679775312,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 29854,
@@ -531,6 +547,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 29039,
+      "num": 77519,
+      "word": "郑钦文晋级",
+      "onboard_time": 1679787199,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 26662,
       "num": 68501,
       "word": "高叶 女王",
@@ -539,28 +563,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 24828,
-      "num": 51591,
-      "word": "笑容逐渐消失的狗子",
-      "onboard_time": 1679775312,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 22851,
       "num": 86029,
       "word": "你好星期六",
       "onboard_time": 1679746732,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 18103,
-      "num": 51454,
-      "word": "黄蜂战胜独行侠",
-      "onboard_time": 1679780532,
-      "rank": 39,
-      "category": "体育"
     }
   ],
   "hotgov_list": [
