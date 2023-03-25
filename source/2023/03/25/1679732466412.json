@@ -1,0 +1,410 @@
+{
+  "runTime": 1679732466412,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 746553,
+        "num": 746553,
+        "word": "师兄求导师收留的方式",
+        "onboard_time": 1679725527,
+        "rank": 0,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 525779,
+        "num": 525779,
+        "word": "铃芽之旅",
+        "onboard_time": 1679728418,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 45606,
+        "num": 459850,
+        "word": "2023考研复试调剂全攻略",
+        "onboard_time": 1679703803,
+        "rank": 2,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 2404773,
+        "num": 456915,
+        "word": "明星微博之夜出图",
+        "onboard_time": 1679715267,
+        "rank": 3,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 123845,
+        "num": 453356,
+        "word": "与奥运天团共赴微博之夜",
+        "onboard_time": 1679730296,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 449995,
+        "num": 449995,
+        "word": "驻泰使馆回应涉泰旅游问题",
+        "onboard_time": 1679726192,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1186690,
+        "num": 449492,
+        "word": "齐思钧李莎旻子主持微博之夜红毯",
+        "onboard_time": 1679730992,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 337741,
+        "num": 337741,
+        "word": "拜登称为中国鼓掌后改口",
+        "onboard_time": 1679713286,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306700,
+        "num": 306700,
+        "word": "吴磊说周雨彤全世界最适合梁友安",
+        "onboard_time": 1679728538,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 111513,
+        "num": 303847,
+        "word": "重庆救火英雄来微博之夜了",
+        "onboard_time": 1679730236,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3607873,
+        "num": 302465,
+        "word": "杨幂红玫瑰",
+        "onboard_time": 1679731595,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 533904,
+        "num": 296696,
+        "word": "叠纸拉黑",
+        "onboard_time": 1679718027,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 315175,
+        "num": 290652,
+        "word": "周星驰林俊杰见面",
+        "onboard_time": 1679720552,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2970424,
+        "num": 287831,
+        "word": "王鹤棣好贵",
+        "onboard_time": 1679726312,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 286491,
+        "num": 286491,
+        "word": "深圳暴雨",
+        "onboard_time": 1679721391,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271207,
+        "num": 271207,
+        "word": "铃芽之旅票房破2亿",
+        "onboard_time": 1679729201,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 211796,
+        "num": 271097,
+        "word": "无锡鼋头渚雨中赏樱",
+        "onboard_time": 1679730874,
+        "rank": 16,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 207707,
+        "num": 271018,
+        "word": "大熊猫谊谊升谊将回国",
+        "onboard_time": 1679719288,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197641,
+        "num": 270881,
+        "word": "铃芽之旅票根",
+        "onboard_time": 1679715506,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189534,
+        "num": 270751,
+        "word": "当谭松韵AI换脸白敬亭",
+        "onboard_time": 1679717848,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2695643,
+        "num": 270718,
+        "word": "虞书欣红毯生图",
+        "onboard_time": 1679731902,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 295017,
+        "num": 270590,
+        "word": "陕西一美食城女子遭多名男子殴打",
+        "onboard_time": 1679715748,
+        "rank": 21,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 193024,
+        "num": 270431,
+        "word": "猫咪的不服全写在脸上",
+        "onboard_time": 1679724928,
+        "rank": 22,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 2121302,
+        "num": 270360,
+        "word": "虞书欣真的瘦好多",
+        "onboard_time": 1679723969,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 158179,
+        "num": 270218,
+        "word": "许可馨",
+        "onboard_time": 1679732144,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135414,
+        "num": 270088,
+        "word": "大熊猫萌兰究竟有多聪明",
+        "onboard_time": 1679727032,
+        "rank": 25,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 1232456,
+        "num": 270041,
+        "word": "白鹿胎毛刘海",
+        "onboard_time": 1679721509,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 123422,
+        "num": 269919,
+        "word": "T1对战KT",
+        "onboard_time": 1679726500,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 121164,
+        "num": 269838,
+        "word": "为救女儿父亲毫不犹豫跳入井中",
+        "onboard_time": 1679709986,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1167362,
+        "num": 269711,
+        "word": "王楚然的镜子照的是张凌赫吗",
+        "onboard_time": 1679725711,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 120646,
+        "num": 269558,
+        "word": "乘客地铁脱鞋男子将鞋踢出车厢",
+        "onboard_time": 1679709445,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117402,
+        "num": 269413,
+        "word": "这还有聚餐的必要吗",
+        "onboard_time": 1679721568,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 18165921,
+        "num": 269386,
+        "word": "微博之夜 红毯",
+        "onboard_time": 1679726791,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 115017,
+        "num": 269232,
+        "word": "恋与制作人",
+        "onboard_time": 1679720968,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 104255,
+        "num": 269052,
+        "word": "在做题和作弊之间他选择了作法",
+        "onboard_time": 1679714426,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 876477,
+        "num": 268984,
+        "word": "男明星五彩斑斓的黑",
+        "onboard_time": 1679727214,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 102393,
+        "num": 268926,
+        "word": "张艺兴再次为街舞打call",
+        "onboard_time": 1679718929,
+        "rank": 36,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 99337,
+        "num": 268786,
+        "word": "你肯定拍过这种写真",
+        "onboard_time": 1679719888,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 782385,
+        "num": 268596,
+        "word": "宋轶黑色露背裙",
+        "onboard_time": 1679730992,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 95529,
+        "num": 268552,
+        "word": "八段锦教程",
+        "onboard_time": 1679717787,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94360,
+        "num": 268473,
+        "word": "这才是工作的意义",
+        "onboard_time": 1679713349,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 745602,
+        "num": 268275,
+        "word": "杨紫造型好温柔",
+        "onboard_time": 1679730992,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 88149,
+        "num": 268246,
+        "word": "上树熊猫",
+        "onboard_time": 1679723010,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 84997,
+        "num": 268029,
+        "word": "齐司礼新卡",
+        "onboard_time": 1679720312,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 736305,
+        "num": 267914,
+        "word": "许凯就这么走红毯吧",
+        "onboard_time": 1679730992,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 75982,
+        "num": 267867,
+        "word": "看见好吃的连哈欠都不打了",
+        "onboard_time": 1679726011,
+        "rank": 45,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 67654,
+        "num": 267777,
+        "word": "计算机二级",
+        "onboard_time": 1679703926,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 678757,
+        "num": 267635,
+        "word": "微博之夜主持人有了吗",
+        "onboard_time": 1679625147,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 57395,
+        "num": 267548,
+        "word": "四川熊猫宝宝有多皮",
+        "onboard_time": 1679727273,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 45271,
+        "num": 267448,
+        "word": "浓眉37分14篮板",
+        "onboard_time": 1679721568,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#从春天再出发#"
+    }
+  }
+}
