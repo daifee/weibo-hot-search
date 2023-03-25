@@ -1,0 +1,410 @@
+{
+  "runTime": 1679748494434,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 13569916,
+        "num": 13569916,
+        "word": "微博之夜世纪同框",
+        "onboard_time": 1679746251,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 11806381,
+        "num": 11806381,
+        "word": "微博之夜",
+        "onboard_time": 1679739222,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 27299,
+        "num": 3846263,
+        "word": "读懂中国式现代化",
+        "onboard_time": 1679748111,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8738376,
+        "num": 8738376,
+        "word": "刘亦菲胡歌坐一起",
+        "onboard_time": 1679745117,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 8047998,
+        "num": 8047998,
+        "word": "迪丽热巴复古名伶",
+        "onboard_time": 1679743604,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1809459,
+        "num": 1809459,
+        "word": "因航班延误缺考复试考研生崩溃大哭",
+        "onboard_time": 1679743424,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 729579,
+        "num": 729579,
+        "word": "离职最后一天还被安排工作",
+        "onboard_time": 1679746318,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 4536666,
+        "num": 696755,
+        "word": "王鹤棣虞书欣白鹿修罗场",
+        "onboard_time": 1679745647,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 642095,
+        "num": 642095,
+        "word": "坠落",
+        "onboard_time": 1679743066,
+        "rank": 8,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 1639282,
+        "num": 588317,
+        "word": "谷爱凌好可爱",
+        "onboard_time": 1679745954,
+        "rank": 9,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 492575,
+        "num": 492575,
+        "word": "大学最后悔学的专业是什么",
+        "onboard_time": 1679739174,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 453555,
+        "num": 453555,
+        "word": "住杭州豪宅的人每天多工作38分钟",
+        "onboard_time": 1679741262,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4535111,
+        "num": 446592,
+        "word": "微博之夜百花齐放",
+        "onboard_time": 1679739121,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 410781,
+        "num": 410781,
+        "word": "榜样7",
+        "onboard_time": 1679746732,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295009,
+        "num": 410213,
+        "word": "河北邢台发生3.3级地震",
+        "onboard_time": 1679745168,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2297775,
+        "num": 408932,
+        "word": "微博之夜座位",
+        "onboard_time": 1679742106,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 278307,
+        "num": 407630,
+        "word": "突然收到高中同学的一封邮件",
+        "onboard_time": 1679740661,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 79274,
+        "num": 407002,
+        "word": "明星生图抗打的秘密",
+        "onboard_time": 1679746849,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 232912,
+        "num": 405903,
+        "word": "警方通报女子遭多名男子殴打",
+        "onboard_time": 1679738399,
+        "rank": 18,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 168152,
+        "num": 404183,
+        "word": "369奶奶现场观赛",
+        "onboard_time": 1679740720,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 2052677,
+        "num": 403950,
+        "word": "邓超激动得像是买票进场的",
+        "onboard_time": 1679745347,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 310925,
+        "num": 402790,
+        "word": "女子取钱后账户却莫名进账",
+        "onboard_time": 1679739060,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2685946,
+        "num": 401644,
+        "word": "内娱活了",
+        "onboard_time": 1679746251,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1867895,
+        "num": 400039,
+        "word": "肖战ES高定",
+        "onboard_time": 1679740423,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 175752,
+        "num": 399146,
+        "word": "这小狗的身体是拼接的吧",
+        "onboard_time": 1679736238,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 169789,
+        "num": 397535,
+        "word": "许可馨",
+        "onboard_time": 1679732144,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1752724,
+        "num": 397287,
+        "word": "易烊千玺又穿黑西装",
+        "onboard_time": 1679744323,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 158861,
+        "num": 395409,
+        "word": "内蒙古省考",
+        "onboard_time": 1679746794,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 158313,
+        "num": 394645,
+        "word": "领克08",
+        "onboard_time": 1679746849,
+        "rank": 28,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 110080,
+        "num": 393162,
+        "word": "刘少林回应加入天津队",
+        "onboard_time": 1679732916,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1594814,
+        "num": 392020,
+        "word": "杨紫张若昀台词真好",
+        "onboard_time": 1679744746,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 391679,
+        "num": 391679,
+        "word": "铃芽之旅",
+        "onboard_time": 1679728418,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 139983,
+        "num": 390934,
+        "word": "可是我不想去罗马",
+        "onboard_time": 1679737006,
+        "rank": 32,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 1327649,
+        "num": 389507,
+        "word": "85花都是高定",
+        "onboard_time": 1679738209,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 122240,
+        "num": 388204,
+        "word": "放在整个广告界也是相当炸裂",
+        "onboard_time": 1679741079,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 339086,
+        "num": 387017,
+        "word": "你好星期六",
+        "onboard_time": 1679746732,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1311091,
+        "num": 385261,
+        "word": "微博之夜节目单",
+        "onboard_time": 1679743665,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 241561,
+        "num": 384060,
+        "word": "张颂文说票房不是电影好坏唯一标准",
+        "onboard_time": 1679734137,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 107955,
+        "num": 383670,
+        "word": "T1战胜KT",
+        "onboard_time": 1679742406,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1107003,
+        "num": 381253,
+        "word": "王一博钻石胸针",
+        "onboard_time": 1679741922,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 188433,
+        "num": 380200,
+        "word": "李荣浩演唱会",
+        "onboard_time": 1679740304,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 159637,
+        "num": 379116,
+        "word": "铃芽之旅票房破2亿",
+        "onboard_time": 1679729201,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1067076,
+        "num": 377708,
+        "word": "张凌赫怎么不过来坐",
+        "onboard_time": 1679745587,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 62831,
+        "num": 376355,
+        "word": "太空视角感受地球气象万千",
+        "onboard_time": 1679733537,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110111,
+        "num": 374684,
+        "word": "周星驰林俊杰见面",
+        "onboard_time": 1679720552,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 374365,
+        "num": 374365,
+        "word": "微博之夜我圆满了",
+        "onboard_time": 1679748043,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 97741,
+        "num": 374194,
+        "word": "金博洋",
+        "onboard_time": 1679737079,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92518,
+        "num": 373972,
+        "word": "WE战胜XYG",
+        "onboard_time": 1679739222,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 131085,
+        "num": 373450,
+        "word": "惠英红宋佳已经开始打牌了",
+        "onboard_time": 1679740543,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 86397,
+        "num": 373299,
+        "word": "深圳暴雨",
+        "onboard_time": 1679721391,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#共建美好世界的最大公约数#"
+    }
+  }
+}
