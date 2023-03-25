@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679707327724,
+  "endTime": 1679708820818,
   "band_list": [
     {
       "raw_hot": 10450851,
@@ -1467,6 +1467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 995786,
+      "num": 995786,
+      "word": "刘烨说孩子重回公众视野顺其自然",
+      "onboard_time": 1679703264,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 993920,
       "num": 993920,
       "word": "深圳6折人才房卖不动",
@@ -1865,14 +1873,6 @@
       "onboard_time": 1679358688,
       "rank": 6,
       "category": "社会负面,教育"
-    },
-    {
-      "raw_hot": 875587,
-      "num": 875587,
-      "word": "刘烨说孩子重回公众视野顺其自然",
-      "onboard_time": 1679703264,
-      "rank": 3,
-      "category": "影视"
     },
     {
       "raw_hot": 875437,
@@ -3827,6 +3827,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 498193,
+      "num": 498193,
+      "word": "王俊凯微博之夜机场路透",
+      "onboard_time": 1679704704,
+      "rank": 7,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 496773,
       "num": 496773,
       "word": "河南省考",
@@ -3849,6 +3857,14 @@
       "onboard_time": 1679299227,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 493755,
+      "num": 373390,
+      "word": "纪委回应前交通局长孙女炫富",
+      "onboard_time": 1679675543,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 493317,
@@ -4003,14 +4019,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 473677,
-      "num": 179767,
-      "word": "纪委回应前交通局长孙女炫富",
-      "onboard_time": 1679675543,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 473039,
       "num": 262144,
       "word": "为什么不建议年轻人去摆摊",
@@ -4137,14 +4145,6 @@
       "onboard_time": 1679627490,
       "rank": 45,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 460854,
-      "num": 460854,
-      "word": "王俊凯微博之夜机场路透",
-      "onboard_time": 1679704704,
-      "rank": 7,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 460812,
@@ -4489,6 +4489,14 @@
       "onboard_time": 1679295147,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 426886,
+      "num": 373340,
+      "word": "青岛二号线偶遇文东恩了",
+      "onboard_time": 1679706623,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 426336,
@@ -5259,6 +5267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 353037,
+      "num": 353037,
+      "word": "计算机二级",
+      "onboard_time": 1679703926,
+      "rank": 14,
+      "category": "教育"
+    },
+    {
       "raw_hot": 352757,
       "num": 327305,
       "word": "男子在离婚冷静期买房前妻要求分割",
@@ -5931,14 +5947,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 303093,
-      "num": 274197,
-      "word": "青岛二号线偶遇文东恩了",
-      "onboard_time": 1679706623,
-      "rank": 16,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 301526,
       "num": 301526,
       "word": "HLE战胜DK",
@@ -6211,14 +6219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 284219,
-      "num": 284219,
-      "word": "计算机二级",
-      "onboard_time": 1679703926,
-      "rank": 14,
-      "category": "教育"
-    },
-    {
       "raw_hot": 283772,
       "num": 283772,
       "word": "你看起来像要参加偶像练习生",
@@ -6425,6 +6425,14 @@
       "onboard_time": 1679378129,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 269828,
+      "num": 269828,
+      "word": "戈登摩尔去世",
+      "onboard_time": 1679708005,
+      "rank": 19,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 269347,
@@ -6713,6 +6721,14 @@
       "onboard_time": 1679534727,
       "rank": 30,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 252881,
+      "num": 252881,
+      "word": "中国说唱巅峰对决",
+      "onboard_time": 1679703863,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 252654,
@@ -7019,6 +7035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 241128,
+      "num": 241128,
+      "word": "妈妈教育大女儿别让着妹妹委屈自己",
+      "onboard_time": 1679703445,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 240828,
       "num": 240828,
       "word": "田曦薇三亚路透",
@@ -7073,14 +7097,6 @@
       "onboard_time": 1679637570,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 239131,
-      "num": 235721,
-      "word": "妈妈教育大女儿别让着妹妹委屈自己",
-      "onboard_time": 1679703445,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 239127,
@@ -7147,20 +7163,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 237295,
+      "num": 237295,
+      "word": "2023考研复试调剂全攻略",
+      "onboard_time": 1679703803,
+      "rank": 19,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 236399,
       "num": 236399,
       "word": "大学的猫对大学生有多信任",
       "onboard_time": 1679658329,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 236373,
-      "num": 236373,
-      "word": "2023考研复试调剂全攻略",
-      "onboard_time": 1679703803,
-      "rank": 19,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 236146,
@@ -7835,14 +7851,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 210914,
-      "num": 210914,
-      "word": "中国说唱巅峰对决",
-      "onboard_time": 1679703863,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 210882,
       "num": 210882,
       "word": "5种行为构成校园欺凌",
@@ -7865,6 +7873,14 @@
       "onboard_time": 1679556026,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 210110,
+      "num": 210110,
+      "word": "王勉在小孩洗澡盆找到自己位置",
+      "onboard_time": 1679708126,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 209842,
@@ -11672,6 +11688,14 @@
       "word": "中新网评造黄谣现象",
       "onboard_time": 1679486789,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 95146,
+      "num": 95146,
+      "word": "女子被骚扰搜集证据后领导当面道歉",
+      "onboard_time": 1679708786,
+      "rank": 49,
       "category": "社会新闻"
     },
     {

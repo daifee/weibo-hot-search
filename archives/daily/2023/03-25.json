@@ -1,6 +1,6 @@
 {
   "startTime": 1679675078237,
-  "endTime": 1679707327724,
+  "endTime": 1679708820818,
   "band_list": [
     {
       "raw_hot": 1482967,
@@ -19,6 +19,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 995786,
+      "num": 995786,
+      "word": "刘烨说孩子重回公众视野顺其自然",
+      "onboard_time": 1679703264,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 926896,
       "num": 926896,
       "word": "泰山门票",
@@ -27,12 +35,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 875587,
-      "num": 875587,
-      "word": "刘烨说孩子重回公众视野顺其自然",
-      "onboard_time": 1679703264,
-      "rank": 3,
-      "category": "影视"
+      "raw_hot": 882332,
+      "num": 392185,
+      "word": "肉泥",
+      "onboard_time": 1679706206,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 844636,
@@ -115,14 +123,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 544354,
-      "num": 392185,
-      "word": "肉泥",
-      "onboard_time": 1679706206,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 541172,
       "num": 541172,
       "word": "肖战米兰时装周拍摄花絮视频",
@@ -139,8 +139,16 @@
       "category": "体育"
     },
     {
-      "raw_hot": 473677,
-      "num": 179767,
+      "raw_hot": 498193,
+      "num": 498193,
+      "word": "王俊凯微博之夜机场路透",
+      "onboard_time": 1679704704,
+      "rank": 7,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 493755,
+      "num": 373390,
       "word": "纪委回应前交通局长孙女炫富",
       "onboard_time": 1679675543,
       "rank": 30,
@@ -153,14 +161,6 @@
       "onboard_time": 1679660248,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 460854,
-      "num": 460854,
-      "word": "王俊凯微博之夜机场路透",
-      "onboard_time": 1679704704,
-      "rank": 7,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 458579,
@@ -177,6 +177,14 @@
       "onboard_time": 1679673806,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 426886,
+      "num": 373340,
+      "word": "青岛二号线偶遇文东恩了",
+      "onboard_time": 1679706623,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 426026,
@@ -227,6 +235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 353037,
+      "num": 353037,
+      "word": "计算机二级",
+      "onboard_time": 1679703926,
+      "rank": 14,
+      "category": "教育"
+    },
+    {
       "raw_hot": 346786,
       "num": 346786,
       "word": "张雨绮微博之夜礼服",
@@ -241,14 +257,6 @@
       "onboard_time": 1679673927,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 303093,
-      "num": 274197,
-      "word": "青岛二号线偶遇文东恩了",
-      "onboard_time": 1679706623,
-      "rank": 16,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 291277,
@@ -275,12 +283,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 284219,
-      "num": 284219,
-      "word": "计算机二级",
-      "onboard_time": 1679703926,
-      "rank": 14,
-      "category": "教育"
+      "raw_hot": 269828,
+      "num": 269828,
+      "word": "戈登摩尔去世",
+      "onboard_time": 1679708005,
+      "rank": 19,
+      "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 252881,
+      "num": 252881,
+      "word": "中国说唱巅峰对决",
+      "onboard_time": 1679703863,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 250334,
@@ -291,16 +307,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 239131,
-      "num": 235721,
+      "raw_hot": 241128,
+      "num": 241128,
       "word": "妈妈教育大女儿别让着妹妹委屈自己",
       "onboard_time": 1679703445,
       "rank": 22,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 236373,
-      "num": 236373,
+      "raw_hot": 237295,
+      "num": 237295,
       "word": "2023考研复试调剂全攻略",
       "onboard_time": 1679703803,
       "rank": 19,
@@ -339,10 +355,10 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 210914,
-      "num": 210914,
-      "word": "中国说唱巅峰对决",
-      "onboard_time": 1679703863,
+      "raw_hot": 210110,
+      "num": 210110,
+      "word": "王勉在小孩洗澡盆找到自己位置",
+      "onboard_time": 1679708126,
       "rank": 26,
       "category": "综艺"
     },
@@ -451,6 +467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 152455,
+      "num": 152455,
+      "word": "TFBOYS 微博之夜",
+      "onboard_time": 1679623707,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 150072,
       "num": 134563,
       "word": "铃芽之旅超你的名字首日票房",
@@ -465,14 +489,6 @@
       "onboard_time": 1679699177,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 139501,
-      "num": 139501,
-      "word": "TFBOYS 微博之夜",
-      "onboard_time": 1679623707,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 138206,
@@ -641,6 +657,14 @@
       "onboard_time": 1679662409,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 95146,
+      "num": 95146,
+      "word": "女子被骚扰搜集证据后领导当面道歉",
+      "onboard_time": 1679708786,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 90850,
