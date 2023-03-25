@@ -1,0 +1,410 @@
+{
+  "runTime": 1679707327724,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1482967,
+        "num": 1482967,
+        "word": "清华学生发现诺奖背景报告笔误",
+        "onboard_time": 1679700498,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 926896,
+        "num": 926896,
+        "word": "泰山门票",
+        "onboard_time": 1679701641,
+        "rank": 1,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 54809,
+        "num": 881571,
+        "word": "中国杂交水稻推广到数十国家和地区",
+        "onboard_time": 1679667452,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 875587,
+        "num": 875587,
+        "word": "刘烨说孩子重回公众视野顺其自然",
+        "onboard_time": 1679703264,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 606881,
+        "num": 606881,
+        "word": "冯小刚称促成宋佳王阳二搭是恰巧",
+        "onboard_time": 1679702844,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 560431,
+        "num": 560431,
+        "word": "微博之夜女明星宣传VCR",
+        "onboard_time": 1679703323,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 541172,
+        "num": 541172,
+        "word": "肖战米兰时装周拍摄花絮视频",
+        "onboard_time": 1679703985,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 460854,
+        "num": 460854,
+        "word": "王俊凯微博之夜机场路透",
+        "onboard_time": 1679704704,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 423197,
+        "num": 423197,
+        "word": "警犬在木炭中嗅出毛肚等走私货物",
+        "onboard_time": 1679702605,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 397165,
+        "num": 397165,
+        "word": "律师谈马原疑不让儿子就医去世",
+        "onboard_time": 1679702784,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 544354,
+        "num": 392185,
+        "word": "肉泥",
+        "onboard_time": 1679706206,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 416919,
+        "num": 383020,
+        "word": "蔡徐坤把帆布包挂脖子上",
+        "onboard_time": 1679701159,
+        "rank": 11,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 358776,
+        "num": 358776,
+        "word": "赛琳娜为海莉发声",
+        "onboard_time": 1679662409,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 326524,
+        "num": 326524,
+        "word": "90后情侣3年攒100万裸辞飞荷兰",
+        "onboard_time": 1679660248,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284219,
+        "num": 284219,
+        "word": "计算机二级",
+        "onboard_time": 1679703926,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 329515,
+        "num": 283791,
+        "word": "毛晓彤新剧收视率破2",
+        "onboard_time": 1679667151,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 303093,
+        "num": 274197,
+        "word": "青岛二号线偶遇文东恩了",
+        "onboard_time": 1679706623,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 263651,
+        "num": 263651,
+        "word": "疑似孙女炫富涉事局长退休前成立公司",
+        "onboard_time": 1679652448,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257791,
+        "num": 257791,
+        "word": "心疼一诺",
+        "onboard_time": 1679668470,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 236373,
+        "num": 236373,
+        "word": "2023考研复试调剂全攻略",
+        "onboard_time": 1679703803,
+        "rank": 19,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 401973,
+        "num": 236030,
+        "word": "在网盘看到了陌生人浏览记录",
+        "onboard_time": 1679702546,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 291858,
+        "num": 235829,
+        "word": "张萌没想到听说你喜欢我爆了",
+        "onboard_time": 1679673927,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 239131,
+        "num": 235721,
+        "word": "妈妈教育大女儿别让着妹妹委屈自己",
+        "onboard_time": 1679703445,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235405,
+        "num": 235405,
+        "word": "柯南小黑当主角了",
+        "onboard_time": 1679706086,
+        "rank": 23,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 214614,
+        "num": 214614,
+        "word": "深圳6折人才房卖不动",
+        "onboard_time": 1679666609,
+        "rank": 24,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 211547,
+        "num": 211547,
+        "word": "庞博发长文告别最强大脑",
+        "onboard_time": 1679703863,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210914,
+        "num": 210914,
+        "word": "中国说唱巅峰对决",
+        "onboard_time": 1679703863,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188246,
+        "num": 188246,
+        "word": "不建议在室内养郁金香",
+        "onboard_time": 1679673026,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 187640,
+        "num": 187640,
+        "word": "警方通报宁波一车撞人后倒回碾压",
+        "onboard_time": 1679685912,
+        "rank": 28,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 182025,
+        "num": 182025,
+        "word": "他是谁断更",
+        "onboard_time": 1679700498,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 473677,
+        "num": 179767,
+        "word": "纪委回应前交通局长孙女炫富",
+        "onboard_time": 1679675543,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165786,
+        "num": 165786,
+        "word": "刘少林刘少昂加入天津短道速滑队",
+        "onboard_time": 1679666849,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155816,
+        "num": 155816,
+        "word": "陈赫脸盆砸在杜海涛头上",
+        "onboard_time": 1679671049,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154781,
+        "num": 154781,
+        "word": "法国4比0荷兰",
+        "onboard_time": 1679700618,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154298,
+        "num": 154298,
+        "word": "成都一幼师疑似虐打幼童",
+        "onboard_time": 1679693952,
+        "rank": 34,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 151473,
+        "num": 151473,
+        "word": "切糕老板多切3斤威胁不买就报警",
+        "onboard_time": 1679650050,
+        "rank": 35,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 144051,
+        "num": 144051,
+        "word": "大侦探木偶2故事线",
+        "onboard_time": 1679672846,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143922,
+        "num": 143922,
+        "word": "丫丫叼着竹子爬高高",
+        "onboard_time": 1679657428,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139840,
+        "num": 139840,
+        "word": "华晨宇熬整晚等魏如萱起床对歌",
+        "onboard_time": 1679699177,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139501,
+        "num": 139501,
+        "word": "TFBOYS 微博之夜",
+        "onboard_time": 1679623707,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 134125,
+        "num": 134125,
+        "word": "潘粤明画的微博之夜闪耀仔",
+        "onboard_time": 1679706804,
+        "rank": 40,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 130118,
+        "num": 130118,
+        "word": "德意志银行股价大跌",
+        "onboard_time": 1679701159,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 125615,
+        "num": 125615,
+        "word": "地球一小时之外我们能做什么",
+        "onboard_time": 1679707047,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125094,
+        "num": 125094,
+        "word": "心疼白宇鹏",
+        "onboard_time": 1679705785,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123403,
+        "num": 123403,
+        "word": "忍网红路牌很久了",
+        "onboard_time": 1679657488,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120470,
+        "num": 120470,
+        "word": "年轻人摆摊主打自己想吃",
+        "onboard_time": 1679677519,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117892,
+        "num": 117892,
+        "word": "张雨绮微博之夜礼服",
+        "onboard_time": 1679662890,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 117122,
+        "num": 117122,
+        "word": "周深 开会",
+        "onboard_time": 1679668950,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114857,
+        "num": 114857,
+        "word": "胡歌现场演示换尿布",
+        "onboard_time": 1679700919,
+        "rank": 48,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 111961,
+        "num": 111961,
+        "word": "54岁女子生前贷款85万打赏男主播",
+        "onboard_time": 1679656288,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#每天认识一件文物#"
+    }
+  }
+}
