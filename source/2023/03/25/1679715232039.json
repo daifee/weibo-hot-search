@@ -1,0 +1,410 @@
+{
+  "runTime": 1679715232039,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1240442,
+        "num": 1240442,
+        "word": "拜登称为中国鼓掌后改口",
+        "onboard_time": 1679713286,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 708146,
+        "num": 708146,
+        "word": "清华学生发现诺奖背景报告笔误",
+        "onboard_time": 1679700498,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138207,
+        "num": 702831,
+        "word": "2023考研复试调剂全攻略",
+        "onboard_time": 1679703803,
+        "rank": 2,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 2688396,
+        "num": 652156,
+        "word": "孔乙己",
+        "onboard_time": 1679711606,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 87346,
+        "num": 615944,
+        "word": "中国冬奥天团齐聚微博之夜",
+        "onboard_time": 1679711126,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88520,
+        "num": 573739,
+        "word": "任子威微博之夜为全民运动点赞",
+        "onboard_time": 1679712026,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 562061,
+        "num": 562061,
+        "word": "乘客地铁脱鞋男子将鞋踢出车厢",
+        "onboard_time": 1679709445,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 455694,
+        "num": 455694,
+        "word": "刘烨说孩子重回公众视野顺其自然",
+        "onboard_time": 1679703264,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 435142,
+        "num": 435142,
+        "word": "青岛二号线偶遇文东恩了",
+        "onboard_time": 1679706623,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 100511,
+        "num": 372136,
+        "word": "凡人英雄相聚微博之夜",
+        "onboard_time": 1679714248,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1766704,
+        "num": 369049,
+        "word": "宋轶 礼服太紧就吃一勺",
+        "onboard_time": 1679714846,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 641468,
+        "num": 367865,
+        "word": "肉泥",
+        "onboard_time": 1679706206,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 362082,
+        "num": 362082,
+        "word": "女子被骚扰搜集证据后领导当面道歉",
+        "onboard_time": 1679708786,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348870,
+        "num": 348870,
+        "word": "纪委回应前交通局长孙女炫富",
+        "onboard_time": 1679675543,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315951,
+        "num": 315951,
+        "word": "丁禹兮彭小苒床榻私语海报",
+        "onboard_time": 1679712747,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1697637,
+        "num": 311787,
+        "word": "微博之夜彩排",
+        "onboard_time": 1679708965,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 302945,
+        "num": 302945,
+        "word": "老师疑让学生对墙坐半年",
+        "onboard_time": 1679713524,
+        "rank": 16,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 266896,
+        "num": 266896,
+        "word": "这才是工作的意义",
+        "onboard_time": 1679713349,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 264992,
+        "num": 264992,
+        "word": "檀健次丁程鑫跳大貔貅",
+        "onboard_time": 1679714127,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246143,
+        "num": 246143,
+        "word": "计算机二级",
+        "onboard_time": 1679703926,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 896685,
+        "num": 242457,
+        "word": "金晨微博之夜自带盒饭",
+        "onboard_time": 1679712747,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 256427,
+        "num": 233040,
+        "word": "为救女儿父亲毫不犹豫跳入井中",
+        "onboard_time": 1679709986,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223578,
+        "num": 223578,
+        "word": "心疼一诺",
+        "onboard_time": 1679668470,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 766307,
+        "num": 217337,
+        "word": "张大大不敢穿这套走红毯",
+        "onboard_time": 1679711365,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 204945,
+        "num": 204945,
+        "word": "老师用一张白纸讲述语言暴力",
+        "onboard_time": 1679711006,
+        "rank": 24,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 195567,
+        "num": 195567,
+        "word": "警犬在木炭中嗅出毛肚等走私货物",
+        "onboard_time": 1679702605,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182182,
+        "num": 182182,
+        "word": "赛琳娜为海莉发声",
+        "onboard_time": 1679662409,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174485,
+        "num": 174485,
+        "word": "光渊",
+        "onboard_time": 1679708965,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171578,
+        "num": 171578,
+        "word": "泰山门票",
+        "onboard_time": 1679701641,
+        "rank": 28,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 167897,
+        "num": 167897,
+        "word": "冯小刚称促成宋佳王阳二搭是恰巧",
+        "onboard_time": 1679702844,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 156294,
+        "num": 156294,
+        "word": "黄旭喊话节目组",
+        "onboard_time": 1679712987,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152374,
+        "num": 152374,
+        "word": "在做题和作弊之间他选择了作法",
+        "onboard_time": 1679714426,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146342,
+        "num": 146342,
+        "word": "沙溢在张杰眼皮底下作弊",
+        "onboard_time": 1679708905,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136595,
+        "num": 136595,
+        "word": "律师谈马原疑不让儿子就医去世",
+        "onboard_time": 1679702784,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134598,
+        "num": 134598,
+        "word": "宋亚轩黑色马甲卫衣叠穿",
+        "onboard_time": 1679708905,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 125958,
+        "num": 125958,
+        "word": "肖战米兰时装周拍摄花絮视频",
+        "onboard_time": 1679703985,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 123783,
+        "num": 123783,
+        "word": "雷霆vs湖人",
+        "onboard_time": 1679713885,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120548,
+        "num": 120548,
+        "word": "WTT新乡冠军赛2023",
+        "onboard_time": 1679714187,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113112,
+        "num": 113112,
+        "word": "李帝努香港演唱会饭拍",
+        "onboard_time": 1679713463,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 109050,
+        "num": 109050,
+        "word": "妈妈教育大女儿别让着妹妹委屈自己",
+        "onboard_time": 1679703445,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108069,
+        "num": 108069,
+        "word": "戈登摩尔去世",
+        "onboard_time": 1679708005,
+        "rank": 40,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 107271,
+        "num": 107271,
+        "word": "疑似孙女炫富涉事局长退休前成立公司",
+        "onboard_time": 1679652448,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104954,
+        "num": 104954,
+        "word": "柯南小黑当主角了",
+        "onboard_time": 1679706086,
+        "rank": 42,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 104811,
+        "num": 104811,
+        "word": "有个爱学习的妈妈是什么体验",
+        "onboard_time": 1679715208,
+        "rank": 43,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 103404,
+        "num": 103404,
+        "word": "中国说唱巅峰对决",
+        "onboard_time": 1679703863,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103194,
+        "num": 103194,
+        "word": "坐着大巴边吃火锅边赏景",
+        "onboard_time": 1679708845,
+        "rank": 45,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 101456,
+        "num": 101456,
+        "word": "蔡徐坤把帆布包挂脖子上",
+        "onboard_time": 1679701159,
+        "rank": 46,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 98572,
+        "num": 98572,
+        "word": "他是谁断更",
+        "onboard_time": 1679700498,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 98480,
+        "num": 98480,
+        "word": "看来新郎是真的不想做饭",
+        "onboard_time": 1679714788,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 88171,
+        "num": 88171,
+        "word": "假如大熊猫没有黑眼圈",
+        "onboard_time": 1679714788,
+        "rank": 49,
+        "category": "幽默,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#世界瞩目的握手时刻#"
+    }
+  }
+}
