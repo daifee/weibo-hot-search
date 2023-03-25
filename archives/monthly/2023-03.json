@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679757387787,
+  "endTime": 1679758407641,
   "band_list": [
     {
       "raw_hot": 27113842,
@@ -3449,6 +3449,14 @@
       "onboard_time": 1679713286,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1380277,
+      "num": 1380277,
+      "word": "微博之夜合照",
+      "onboard_time": 1679757055,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1379472,
@@ -13371,6 +13379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 581424,
+      "num": 581424,
+      "word": "易烊千玺时代少年团同框",
+      "onboard_time": 1679758188,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 581327,
       "num": 581327,
       "word": "杭州久摇不中72次及以上可申请车牌",
@@ -14369,14 +14385,6 @@
       "onboard_time": 1678864167,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 551843,
-      "num": 551843,
-      "word": "微博之夜合照",
-      "onboard_time": 1679757055,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 551505,
@@ -43289,6 +43297,14 @@
       "onboard_time": 1678680510,
       "rank": 43,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 147563,
+      "num": 546312,
+      "word": "这在传单界都是难以拒绝的",
+      "onboard_time": 1679758247,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 147480,
