@@ -1,6 +1,6 @@
 {
   "startTime": 1679675078237,
-  "endTime": 1679715232039,
+  "endTime": 1679718057643,
   "band_list": [
     {
       "raw_hot": 2688396,
@@ -11,6 +11,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 2533393,
+      "num": 369049,
+      "word": "宋轶 礼服太紧就吃一勺",
+      "onboard_time": 1679714846,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1888461,
       "num": 520920,
       "word": "微博之夜彩排",
@@ -19,12 +27,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1766704,
-      "num": 369049,
-      "word": "宋轶 礼服太紧就吃一勺",
-      "onboard_time": 1679714846,
-      "rank": 10,
-      "category": "作品衍生"
+      "raw_hot": 1803688,
+      "num": 343736,
+      "word": "明星微博之夜出图",
+      "onboard_time": 1679715267,
+      "rank": 13,
+      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 1482967,
@@ -32,6 +40,14 @@
       "word": "清华学生发现诺奖背景报告笔误",
       "onboard_time": 1679700498,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1380860,
+      "num": 1380860,
+      "word": "拜登称为中国鼓掌后改口",
+      "onboard_time": 1679713286,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -49,14 +65,6 @@
       "onboard_time": 1679706206,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1240442,
-      "num": 1240442,
-      "word": "拜登称为中国鼓掌后改口",
-      "onboard_time": 1679713286,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1115573,
@@ -81,6 +89,14 @@
       "onboard_time": 1679701641,
       "rank": 1,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 879458,
+      "num": 879458,
+      "word": "铃芽之旅票根",
+      "onboard_time": 1679715506,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 875394,
@@ -131,6 +147,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 709868,
+      "num": 709868,
+      "word": "老师疑让学生对墙坐半年",
+      "onboard_time": 1679713524,
+      "rank": 35,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 667275,
       "num": 399425,
       "word": "疑似孙女炫富涉事局长退休前成立公司",
@@ -153,6 +177,14 @@
       "onboard_time": 1679675543,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 611350,
+      "num": 247027,
+      "word": "张艺凡的背",
+      "onboard_time": 1679717487,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 608670,
@@ -235,11 +267,35 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 496745,
+      "num": 205087,
+      "word": "丁程鑫摸马嘉祺的头",
+      "onboard_time": 1679717607,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 488816,
       "num": 488816,
       "word": "光渊",
       "onboard_time": 1679708965,
       "rank": 5,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 485750,
+      "num": 485750,
+      "word": "陕西一美食城女子遭多名男子殴打",
+      "onboard_time": 1679715748,
+      "rank": 6,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 480989,
+      "num": 480989,
+      "word": "朴灿烈模仿文东恩",
+      "onboard_time": 1679715388,
+      "rank": 7,
       "category": "影视"
     },
     {
@@ -257,6 +313,14 @@
       "onboard_time": 1679659529,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 446149,
+      "num": 361807,
+      "word": "张艺兴翅膀特效",
+      "onboard_time": 1679717247,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 433570,
@@ -304,6 +368,14 @@
       "word": "律师谈马原疑不让儿子就医去世",
       "onboard_time": 1679702784,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 378101,
+      "num": 378101,
+      "word": "在做题和作弊之间他选择了作法",
+      "onboard_time": 1679714426,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -355,6 +427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 314933,
+      "num": 314933,
+      "word": "陈星旭李兰迪你好星期六剧照",
+      "onboard_time": 1679717547,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 305435,
       "num": 233040,
       "word": "为救女儿父亲毫不犹豫跳入井中",
@@ -363,20 +443,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 302945,
-      "num": 302945,
-      "word": "老师疑让学生对墙坐半年",
-      "onboard_time": 1679713524,
-      "rank": 35,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 291277,
       "num": 291277,
       "word": "丫丫叼着竹子爬高高",
       "onboard_time": 1679657428,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 286012,
+      "num": 534441,
+      "word": "感动全国的英雄上微博之夜了",
+      "onboard_time": 1679716049,
+      "rank": 4,
+      "category": "社会正能量,作品衍生"
     },
     {
       "raw_hot": 284819,
@@ -395,8 +475,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 266896,
-      "num": 266896,
+      "raw_hot": 270301,
+      "num": 270301,
       "word": "这才是工作的意义",
       "onboard_time": 1679713349,
       "rank": 32,
@@ -436,7 +516,7 @@
     },
     {
       "raw_hot": 237295,
-      "num": 702831,
+      "num": 786576,
       "word": "2023考研复试调剂全攻略",
       "onboard_time": 1679703803,
       "rank": 19,
@@ -473,6 +553,14 @@
       "onboard_time": 1679654067,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 224143,
+      "num": 224143,
+      "word": "当谭松韵AI换脸白敬亭",
+      "onboard_time": 1679717848,
+      "rank": 22,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 217499,
@@ -627,12 +715,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 164395,
+      "num": 164395,
+      "word": "范丞丞新歌手绘草图",
+      "onboard_time": 1679716707,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 161377,
       "num": 136063,
       "word": "NCTDREAM说中文",
       "onboard_time": 1679672248,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 160934,
+      "num": 160934,
+      "word": "看来新郎是真的不想做饭",
+      "onboard_time": 1679714788,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 154781,
@@ -651,20 +755,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 152374,
-      "num": 152374,
-      "word": "在做题和作弊之间他选择了作法",
-      "onboard_time": 1679714426,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 150072,
       "num": 134563,
       "word": "铃芽之旅超你的名字首日票房",
       "onboard_time": 1679650226,
       "rank": 32,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 146183,
+      "num": 146183,
+      "word": "假如大熊猫没有黑眼圈",
+      "onboard_time": 1679714788,
+      "rank": 49,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 139840,
@@ -681,6 +785,14 @@
       "onboard_time": 1679672666,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 137866,
+      "num": 137866,
+      "word": "有个爱学习的妈妈是什么体验",
+      "onboard_time": 1679715208,
+      "rank": 43,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 135411,
@@ -779,6 +891,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 121292,
+      "num": 121292,
+      "word": "八段锦教程",
+      "onboard_time": 1679717787,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 120548,
       "num": 120548,
       "word": "WTT新乡冠军赛2023",
@@ -827,20 +947,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 108877,
+      "num": 108877,
+      "word": "为了纪念青春买了EXO的正规二辑",
+      "onboard_time": 1679716347,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 105908,
       "num": 119159,
       "word": "又见马龙许昕对练",
       "onboard_time": 1679671227,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 104811,
-      "num": 104811,
-      "word": "有个爱学习的妈妈是什么体验",
-      "onboard_time": 1679715208,
-      "rank": 43,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 103984,
@@ -867,12 +987,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 98480,
-      "num": 98480,
-      "word": "看来新郎是真的不想做饭",
-      "onboard_time": 1679714788,
+      "raw_hot": 99944,
+      "num": 99944,
+      "word": "叠纸拉黑",
+      "onboard_time": 1679718027,
       "rank": 48,
-      "category": "幽默"
+      "category": "游戏"
     },
     {
       "raw_hot": 97366,
@@ -923,14 +1043,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 88171,
-      "num": 88171,
-      "word": "假如大熊猫没有黑眼圈",
-      "onboard_time": 1679714788,
-      "rank": 49,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 67366,
       "num": 881571,
       "word": "中国杂交水稻推广到数十国家和地区",
@@ -979,6 +1091,14 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 39311,
+      "num": 371359,
+      "word": "甘宇罗永倪太高相见了",
+      "onboard_time": 1679717607,
+      "rank": 9,
+      "category": "社会正能量,作品衍生"
+    },
+    {
       "raw_hot": 38737,
       "num": 38737,
       "word": "法国vs荷兰",
@@ -993,6 +1113,14 @@
       "onboard_time": 1679694615,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 34875,
+      "num": 491116,
+      "word": "邓亚萍电竞天团跨界同框",
+      "onboard_time": 1679717787,
+      "rank": 5,
+      "category": "游戏,作品衍生"
     },
     {
       "raw_hot": 31371,
