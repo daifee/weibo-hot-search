@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679718057643,
+  "endTime": 1679718919572,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -540,7 +540,7 @@
     },
     {
       "raw_hot": 2533393,
-      "num": 369049,
+      "num": 394904,
       "word": "宋轶 礼服太紧就吃一勺",
       "onboard_time": 1679714846,
       "rank": 10,
@@ -1083,6 +1083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2057145,
+      "num": 352461,
+      "word": "明星微博之夜出图",
+      "onboard_time": 1679715267,
+      "rank": 13,
+      "category": "作品衍生,幽默"
+    },
+    {
       "raw_hot": 2056909,
       "num": 1427134,
       "word": "杀夫藏尸女子已被刑拘",
@@ -1569,14 +1577,6 @@
       "onboard_time": 1678074628,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1803688,
-      "num": 343736,
-      "word": "明星微博之夜出图",
-      "onboard_time": 1679715267,
-      "rank": 13,
-      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 1803675,
@@ -6417,6 +6417,14 @@
       "onboard_time": 1677737125,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 924629,
+      "num": 247027,
+      "word": "张艺凡的背",
+      "onboard_time": 1679717487,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 924408,
@@ -11947,14 +11955,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 611350,
-      "num": 247027,
-      "word": "张艺凡的背",
-      "onboard_time": 1679717487,
-      "rank": 21,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 611293,
       "num": 611293,
       "word": "老默千岛湖摸鱼",
@@ -12675,6 +12675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 582427,
+      "num": 582427,
+      "word": "当谭松韵AI换脸白敬亭",
+      "onboard_time": 1679717848,
+      "rank": 22,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 582309,
       "num": 582309,
       "word": "Hope",
@@ -13003,6 +13011,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 572513,
+      "num": 572513,
+      "word": "陕西一美食城女子遭多名男子殴打",
+      "onboard_time": 1679715748,
+      "rank": 6,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 572289,
       "num": 603347,
       "word": "汪苏泷唱的乌梅子酱",
@@ -13105,6 +13121,14 @@
       "onboard_time": 1677671189,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 567934,
+      "num": 197851,
+      "word": "张雨绮 大裙摆去红毯铺开了走",
+      "onboard_time": 1679718691,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 567578,
@@ -15985,14 +16009,6 @@
       "onboard_time": 1677634051,
       "rank": 24,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 485750,
-      "num": 485750,
-      "word": "陕西一美食城女子遭多名男子殴打",
-      "onboard_time": 1679715748,
-      "rank": 6,
-      "category": "社会负面"
     },
     {
       "raw_hot": 485436,
@@ -20411,6 +20427,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 379842,
+      "num": 379842,
+      "word": "在做题和作弊之间他选择了作法",
+      "onboard_time": 1679714426,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 379681,
       "num": 237549,
       "word": "建议冬天不学十以外加减法",
@@ -20513,14 +20537,6 @@
       "onboard_time": 1679227289,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 378101,
-      "num": 378101,
-      "word": "在做题和作弊之间他选择了作法",
-      "onboard_time": 1679714426,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 378064,
@@ -21849,6 +21865,14 @@
       "onboard_time": 1678014808,
       "rank": 15,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 354113,
+      "num": 354113,
+      "word": "叠纸拉黑",
+      "onboard_time": 1679718027,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 353941,
@@ -25475,6 +25499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 296543,
+      "num": 574506,
+      "word": "感动全国的英雄上微博之夜了",
+      "onboard_time": 1679716049,
+      "rank": 4,
+      "category": "社会正能量,作品衍生"
+    },
+    {
       "raw_hot": 296187,
       "num": 613433,
       "word": "我国刷新亚洲最深水平井纪录",
@@ -26073,14 +26105,6 @@
       "onboard_time": 1678945406,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 286012,
-      "num": 534441,
-      "word": "感动全国的英雄上微博之夜了",
-      "onboard_time": 1679716049,
-      "rank": 4,
-      "category": "社会正能量,作品衍生"
     },
     {
       "raw_hot": 285971,
@@ -31123,14 +31147,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 224143,
-      "num": 224143,
-      "word": "当谭松韵AI换脸白敬亭",
-      "onboard_time": 1679717848,
-      "rank": 22,
-      "category": "幽默,艺人"
-    },
-    {
       "raw_hot": 224120,
       "num": 224120,
       "word": "花瓣",
@@ -33505,6 +33521,14 @@
       "onboard_time": 1678619665,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 205094,
+      "num": 195719,
+      "word": "归晓永远正向情绪反馈",
+      "onboard_time": 1679718268,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 205072,
@@ -37507,6 +37531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185708,
+      "num": 185708,
+      "word": "八段锦教程",
+      "onboard_time": 1679717787,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 185697,
       "num": 185697,
       "word": "eStar对战DRG",
@@ -37865,6 +37897,14 @@
       "onboard_time": 1679554707,
       "rank": 35,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 182373,
+      "num": 182373,
+      "word": "假如大熊猫没有黑眼圈",
+      "onboard_time": 1679714788,
+      "rank": 49,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 182357,
@@ -42315,14 +42355,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 146183,
-      "num": 146183,
-      "word": "假如大熊猫没有黑眼圈",
-      "onboard_time": 1679714788,
-      "rank": 49,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 146152,
       "num": 192692,
       "word": "海关查获玳瑁拼接的装饰画",
@@ -45003,6 +45035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 126249,
+      "num": 126249,
+      "word": "男子被骗柬埔寨500天被倒卖5次",
+      "onboard_time": 1679718568,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126167,
       "num": 126167,
       "word": "张颂文只想专心拍戏",
@@ -45483,6 +45523,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 122297,
+      "num": 122297,
+      "word": "计算机一级",
+      "onboard_time": 1679718449,
+      "rank": 42,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 122265,
       "num": 122265,
       "word": "切尔西vs利兹联",
@@ -45561,14 +45609,6 @@
       "onboard_time": 1678171525,
       "rank": 40,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 121292,
-      "num": 121292,
-      "word": "八段锦教程",
-      "onboard_time": 1679717787,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 121256,
@@ -46433,6 +46473,14 @@
       "onboard_time": 1678096106,
       "rank": 44,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 113125,
+      "num": 572908,
+      "word": "邓亚萍电竞天团跨界同框",
+      "onboard_time": 1679717787,
+      "rank": 5,
+      "category": "游戏,作品衍生"
     },
     {
       "raw_hot": 112847,
@@ -47689,14 +47737,6 @@
       "onboard_time": 1678170627,
       "rank": 4,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 99944,
-      "num": 99944,
-      "word": "叠纸拉黑",
-      "onboard_time": 1679718027,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 99890,
@@ -49987,6 +50027,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 42351,
+      "num": 400511,
+      "word": "甘宇罗永倪太高相见了",
+      "onboard_time": 1679717607,
+      "rank": 9,
+      "category": "社会正能量,作品衍生"
+    },
+    {
       "raw_hot": 42135,
       "num": 42135,
       "word": "小智故事最终章",
@@ -50041,14 +50089,6 @@
       "onboard_time": 1678524865,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 39311,
-      "num": 371359,
-      "word": "甘宇罗永倪太高相见了",
-      "onboard_time": 1679717607,
-      "rank": 9,
-      "category": "社会正能量,作品衍生"
     },
     {
       "raw_hot": 38982,
@@ -50153,14 +50193,6 @@
       "onboard_time": 1679659227,
       "rank": 14,
       "category": "科技"
-    },
-    {
-      "raw_hot": 34875,
-      "num": 491116,
-      "word": "邓亚萍电竞天团跨界同框",
-      "onboard_time": 1679717787,
-      "rank": 5,
-      "category": "游戏,作品衍生"
     },
     {
       "raw_hot": 34677,

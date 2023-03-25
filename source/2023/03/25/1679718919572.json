@@ -1,0 +1,410 @@
+{
+  "runTime": 1679718919572,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1331482,
+        "num": 1331482,
+        "word": "拜登称为中国鼓掌后改口",
+        "onboard_time": 1679713286,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 785355,
+        "num": 785355,
+        "word": "铃芽之旅票根",
+        "onboard_time": 1679715506,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 121487,
+        "num": 619606,
+        "word": "2023考研复试调剂全攻略",
+        "onboard_time": 1679703803,
+        "rank": 2,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 582427,
+        "num": 582427,
+        "word": "当谭松韵AI换脸白敬亭",
+        "onboard_time": 1679717848,
+        "rank": 3,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 296543,
+        "num": 574506,
+        "word": "感动全国的英雄上微博之夜了",
+        "onboard_time": 1679716049,
+        "rank": 4,
+        "category": "社会正能量,作品衍生"
+      },
+      {
+        "raw_hot": 113125,
+        "num": 572908,
+        "word": "邓亚萍电竞天团跨界同框",
+        "onboard_time": 1679717787,
+        "rank": 5,
+        "category": "游戏,作品衍生"
+      },
+      {
+        "raw_hot": 572513,
+        "num": 572513,
+        "word": "陕西一美食城女子遭多名男子殴打",
+        "onboard_time": 1679715748,
+        "rank": 6,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 459781,
+        "num": 459781,
+        "word": "朴灿烈模仿文东恩",
+        "onboard_time": 1679715388,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 706154,
+        "num": 430176,
+        "word": "老师疑让学生对墙坐半年",
+        "onboard_time": 1679713524,
+        "rank": 8,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 42351,
+        "num": 400511,
+        "word": "甘宇罗永倪太高相见了",
+        "onboard_time": 1679717607,
+        "rank": 9,
+        "category": "社会正能量,作品衍生"
+      },
+      {
+        "raw_hot": 2449908,
+        "num": 394904,
+        "word": "宋轶 礼服太紧就吃一勺",
+        "onboard_time": 1679714846,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 379842,
+        "num": 379842,
+        "word": "在做题和作弊之间他选择了作法",
+        "onboard_time": 1679714426,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354113,
+        "num": 354113,
+        "word": "叠纸拉黑",
+        "onboard_time": 1679718027,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 2057145,
+        "num": 352461,
+        "word": "明星微博之夜出图",
+        "onboard_time": 1679715267,
+        "rank": 13,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 335249,
+        "num": 335249,
+        "word": "肉泥",
+        "onboard_time": 1679706206,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 297717,
+        "num": 297717,
+        "word": "刘烨说孩子重回公众视野顺其自然",
+        "onboard_time": 1679703264,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 296768,
+        "num": 296768,
+        "word": "乘客地铁脱鞋男子将鞋踢出车厢",
+        "onboard_time": 1679709445,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265015,
+        "num": 265015,
+        "word": "清华学生发现诺奖背景报告笔误",
+        "onboard_time": 1679700498,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262981,
+        "num": 262981,
+        "word": "陈星旭李兰迪你好星期六剧照",
+        "onboard_time": 1679717547,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260697,
+        "num": 260697,
+        "word": "这才是工作的意义",
+        "onboard_time": 1679713349,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1629373,
+        "num": 236700,
+        "word": "微博之夜彩排",
+        "onboard_time": 1679708965,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 924629,
+        "num": 221599,
+        "word": "张艺凡的背",
+        "onboard_time": 1679717487,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 205279,
+        "num": 205279,
+        "word": "光与夜之恋",
+        "onboard_time": 1679718268,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 610252,
+        "num": 205275,
+        "word": "张大大不敢穿这套走红毯",
+        "onboard_time": 1679711365,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 198631,
+        "num": 198631,
+        "word": "纪委回应前交通局长孙女炫富",
+        "onboard_time": 1679675543,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228958,
+        "num": 198026,
+        "word": "青岛二号线偶遇文东恩了",
+        "onboard_time": 1679706623,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 567934,
+        "num": 197851,
+        "word": "张雨绮 大裙摆去红毯铺开了走",
+        "onboard_time": 1679718691,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 205094,
+        "num": 195719,
+        "word": "归晓永远正向情绪反馈",
+        "onboard_time": 1679718268,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 192550,
+        "num": 192550,
+        "word": "计算机二级",
+        "onboard_time": 1679703926,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 406612,
+        "num": 190499,
+        "word": "丁程鑫摸马嘉祺的头",
+        "onboard_time": 1679717607,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 185708,
+        "num": 185708,
+        "word": "八段锦教程",
+        "onboard_time": 1679717787,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182373,
+        "num": 182373,
+        "word": "假如大熊猫没有黑眼圈",
+        "onboard_time": 1679714788,
+        "rank": 31,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 178673,
+        "num": 178673,
+        "word": "为救女儿父亲毫不犹豫跳入井中",
+        "onboard_time": 1679709986,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174819,
+        "num": 174819,
+        "word": "丁禹兮彭小苒床榻私语海报",
+        "onboard_time": 1679712747,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 150566,
+        "num": 150566,
+        "word": "看来新郎是真的不想做饭",
+        "onboard_time": 1679714788,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141469,
+        "num": 141469,
+        "word": "女子被骚扰搜集证据后领导当面道歉",
+        "onboard_time": 1679708786,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138930,
+        "num": 138930,
+        "word": "檀健次丁程鑫跳大貔貅",
+        "onboard_time": 1679714127,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135879,
+        "num": 135879,
+        "word": "心疼一诺",
+        "onboard_time": 1679668470,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 135711,
+        "num": 135711,
+        "word": "泰山门票",
+        "onboard_time": 1679701641,
+        "rank": 38,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 134229,
+        "num": 134229,
+        "word": "有个爱学习的妈妈是什么体验",
+        "onboard_time": 1679715208,
+        "rank": 39,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 127059,
+        "num": 127059,
+        "word": "老师用一张白纸讲述语言暴力",
+        "onboard_time": 1679711006,
+        "rank": 40,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 126249,
+        "num": 126249,
+        "word": "男子被骗柬埔寨500天被倒卖5次",
+        "onboard_time": 1679718568,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122297,
+        "num": 122297,
+        "word": "计算机一级",
+        "onboard_time": 1679718449,
+        "rank": 42,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 111339,
+        "num": 111339,
+        "word": "雷霆vs湖人",
+        "onboard_time": 1679713885,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110115,
+        "num": 110115,
+        "word": "光渊",
+        "onboard_time": 1679708965,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 107702,
+        "num": 107702,
+        "word": "肖战米兰时装周拍摄花絮视频",
+        "onboard_time": 1679703985,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 96644,
+        "num": 96644,
+        "word": "WTT新乡冠军赛2023",
+        "onboard_time": 1679714187,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96540,
+        "num": 96540,
+        "word": "为了纪念青春买了EXO的正规二辑",
+        "onboard_time": 1679716347,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 88036,
+        "num": 88036,
+        "word": "警犬在木炭中嗅出毛肚等走私货物",
+        "onboard_time": 1679702605,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87400,
+        "num": 87400,
+        "word": "冯小刚称促成宋佳王阳二搭是恰巧",
+        "onboard_time": 1679702844,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#从春天再出发#"
+    }
+  }
+}

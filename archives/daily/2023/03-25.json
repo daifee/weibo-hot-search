@@ -1,6 +1,6 @@
 {
   "startTime": 1679675078237,
-  "endTime": 1679718057643,
+  "endTime": 1679718919572,
   "band_list": [
     {
       "raw_hot": 2688396,
@@ -12,11 +12,19 @@
     },
     {
       "raw_hot": 2533393,
-      "num": 369049,
+      "num": 394904,
       "word": "宋轶 礼服太紧就吃一勺",
       "onboard_time": 1679714846,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 2057145,
+      "num": 352461,
+      "word": "明星微博之夜出图",
+      "onboard_time": 1679715267,
+      "rank": 13,
+      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 1888461,
@@ -25,14 +33,6 @@
       "onboard_time": 1679708965,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1803688,
-      "num": 343736,
-      "word": "明星微博之夜出图",
-      "onboard_time": 1679715267,
-      "rank": 13,
-      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 1482967,
@@ -89,6 +89,14 @@
       "onboard_time": 1679701641,
       "rank": 1,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 924629,
+      "num": 247027,
+      "word": "张艺凡的背",
+      "onboard_time": 1679717487,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 879458,
@@ -179,14 +187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 611350,
-      "num": 247027,
-      "word": "张艺凡的背",
-      "onboard_time": 1679717487,
-      "rank": 21,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 608670,
       "num": 499611,
       "word": "成都一幼师疑似虐打幼童",
@@ -217,6 +217,30 @@
       "onboard_time": 1679713524,
       "rank": 26,
       "category": "作品衍生,幽默"
+    },
+    {
+      "raw_hot": 582427,
+      "num": 582427,
+      "word": "当谭松韵AI换脸白敬亭",
+      "onboard_time": 1679717848,
+      "rank": 22,
+      "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 572513,
+      "num": 572513,
+      "word": "陕西一美食城女子遭多名男子殴打",
+      "onboard_time": 1679715748,
+      "rank": 6,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 567934,
+      "num": 197851,
+      "word": "张雨绮 大裙摆去红毯铺开了走",
+      "onboard_time": 1679718691,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 560431,
@@ -281,14 +305,6 @@
       "onboard_time": 1679708965,
       "rank": 5,
       "category": "影视"
-    },
-    {
-      "raw_hot": 485750,
-      "num": 485750,
-      "word": "陕西一美食城女子遭多名男子殴打",
-      "onboard_time": 1679715748,
-      "rank": 6,
-      "category": "社会负面"
     },
     {
       "raw_hot": 480989,
@@ -371,8 +387,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 378101,
-      "num": 378101,
+      "raw_hot": 379842,
+      "num": 379842,
       "word": "在做题和作弊之间他选择了作法",
       "onboard_time": 1679714426,
       "rank": 31,
@@ -393,6 +409,14 @@
       "onboard_time": 1679668950,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 354113,
+      "num": 354113,
+      "word": "叠纸拉黑",
+      "onboard_time": 1679718027,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 346786,
@@ -443,20 +467,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 296543,
+      "num": 574506,
+      "word": "感动全国的英雄上微博之夜了",
+      "onboard_time": 1679716049,
+      "rank": 4,
+      "category": "社会正能量,作品衍生"
+    },
+    {
       "raw_hot": 291277,
       "num": 291277,
       "word": "丫丫叼着竹子爬高高",
       "onboard_time": 1679657428,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 286012,
-      "num": 534441,
-      "word": "感动全国的英雄上微博之夜了",
-      "onboard_time": 1679716049,
-      "rank": 4,
-      "category": "社会正能量,作品衍生"
     },
     {
       "raw_hot": 284819,
@@ -555,14 +579,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 224143,
-      "num": 224143,
-      "word": "当谭松韵AI换脸白敬亭",
-      "onboard_time": 1679717848,
-      "rank": 22,
-      "category": "幽默,艺人"
-    },
-    {
       "raw_hot": 217499,
       "num": 217499,
       "word": "黄旭喊话节目组",
@@ -601,6 +617,22 @@
       "onboard_time": 1679662288,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 205279,
+      "num": 205279,
+      "word": "光与夜之恋",
+      "onboard_time": 1679718268,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 205094,
+      "num": 195719,
+      "word": "归晓永远正向情绪反馈",
+      "onboard_time": 1679718268,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 202053,
@@ -651,12 +683,28 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 185708,
+      "num": 185708,
+      "word": "八段锦教程",
+      "onboard_time": 1679717787,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 184130,
       "num": 184130,
       "word": "剑南春董事长被判有期徒刑5年罚4亿",
       "onboard_time": 1679663971,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182373,
+      "num": 182373,
+      "word": "假如大熊猫没有黑眼圈",
+      "onboard_time": 1679714788,
+      "rank": 49,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 182025,
@@ -763,14 +811,6 @@
       "category": "影视,动漫"
     },
     {
-      "raw_hot": 146183,
-      "num": 146183,
-      "word": "假如大熊猫没有黑眼圈",
-      "onboard_time": 1679714788,
-      "rank": 49,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 139840,
       "num": 139840,
       "word": "华晨宇熬整晚等魏如萱起床对歌",
@@ -825,6 +865,14 @@
       "onboard_time": 1679701159,
       "rank": 41,
       "category": "财经"
+    },
+    {
+      "raw_hot": 126249,
+      "num": 126249,
+      "word": "男子被骗柬埔寨500天被倒卖5次",
+      "onboard_time": 1679718568,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 125615,
@@ -883,20 +931,20 @@
       "category": "科技"
     },
     {
+      "raw_hot": 122297,
+      "num": 122297,
+      "word": "计算机一级",
+      "onboard_time": 1679718449,
+      "rank": 42,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 121771,
       "num": 121771,
       "word": "千万不要买这样的氛围灯",
       "onboard_time": 1679654668,
       "rank": 38,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 121292,
-      "num": 121292,
-      "word": "八段锦教程",
-      "onboard_time": 1679717787,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 120548,
@@ -947,6 +995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 113125,
+      "num": 572908,
+      "word": "邓亚萍电竞天团跨界同框",
+      "onboard_time": 1679717787,
+      "rank": 5,
+      "category": "游戏,作品衍生"
+    },
+    {
       "raw_hot": 108877,
       "num": 108877,
       "word": "为了纪念青春买了EXO的正规二辑",
@@ -985,14 +1041,6 @@
       "onboard_time": 1679714248,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 99944,
-      "num": 99944,
-      "word": "叠纸拉黑",
-      "onboard_time": 1679718027,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 97366,
@@ -1083,20 +1131,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 42351,
+      "num": 400511,
+      "word": "甘宇罗永倪太高相见了",
+      "onboard_time": 1679717607,
+      "rank": 9,
+      "category": "社会正能量,作品衍生"
+    },
+    {
       "raw_hot": 42135,
       "num": 42135,
       "word": "小智故事最终章",
       "onboard_time": 1679678359,
       "rank": 46,
       "category": "动漫,影视"
-    },
-    {
-      "raw_hot": 39311,
-      "num": 371359,
-      "word": "甘宇罗永倪太高相见了",
-      "onboard_time": 1679717607,
-      "rank": 9,
-      "category": "社会正能量,作品衍生"
     },
     {
       "raw_hot": 38737,
@@ -1113,14 +1161,6 @@
       "onboard_time": 1679694615,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 34875,
-      "num": 491116,
-      "word": "邓亚萍电竞天团跨界同框",
-      "onboard_time": 1679717787,
-      "rank": 5,
-      "category": "游戏,作品衍生"
     },
     {
       "raw_hot": 31371,
