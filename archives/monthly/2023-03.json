@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679765605070,
+  "endTime": 1679768420979,
   "band_list": [
     {
       "raw_hot": 27113842,
@@ -17065,6 +17065,14 @@
       "onboard_time": 1679122589,
       "rank": 7,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 478629,
+      "num": 478629,
+      "word": "李现扶完迪丽热巴扶杨紫",
+      "onboard_time": 1679759501,
+      "rank": 5,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 478411,
@@ -51033,6 +51041,14 @@
       "onboard_time": 1678910772,
       "rank": 47,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 55012,
+      "num": 87496,
+      "word": "崔杋圭舞台点燃玫瑰",
+      "onboard_time": 1679766741,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 54821,
