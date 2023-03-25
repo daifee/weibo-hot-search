@@ -1,0 +1,410 @@
+{
+  "runTime": 1679725289394,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1256677,
+        "num": 1256677,
+        "word": "叠纸拉黑",
+        "onboard_time": 1679718027,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 858608,
+        "num": 858608,
+        "word": "深圳暴雨",
+        "onboard_time": 1679721391,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83634,
+        "num": 593836,
+        "word": "2023考研复试调剂全攻略",
+        "onboard_time": 1679703803,
+        "rank": 2,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 593641,
+        "num": 593641,
+        "word": "拜登称为中国鼓掌后改口",
+        "onboard_time": 1679713286,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33702,
+        "num": 422488,
+        "word": "甘宇罗永倪太高相见了",
+        "onboard_time": 1679717607,
+        "rank": 4,
+        "category": "社会正能量,作品衍生"
+      },
+      {
+        "raw_hot": 282121,
+        "num": 388242,
+        "word": "汶川哥哥也来微博之夜了",
+        "onboard_time": 1679721091,
+        "rank": 5,
+        "category": "社会正能量,作品衍生"
+      },
+      {
+        "raw_hot": 380385,
+        "num": 380385,
+        "word": "当谭松韵AI换脸白敬亭",
+        "onboard_time": 1679717848,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 371554,
+        "num": 371554,
+        "word": "大熊猫谊谊升谊将回国",
+        "onboard_time": 1679719288,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323655,
+        "num": 323655,
+        "word": "陕西一美食城女子遭多名男子殴打",
+        "onboard_time": 1679715748,
+        "rank": 8,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 82526,
+        "num": 263953,
+        "word": "邓亚萍微博之夜看弹幕比心",
+        "onboard_time": 1679721091,
+        "rank": 9,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 2139948,
+        "num": 263414,
+        "word": "微博之夜彩排",
+        "onboard_time": 1679708965,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 473624,
+        "num": 259174,
+        "word": "周星驰林俊杰见面",
+        "onboard_time": 1679720552,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249178,
+        "num": 249178,
+        "word": "铃芽之旅票根",
+        "onboard_time": 1679715506,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1929858,
+        "num": 249151,
+        "word": "白鹿胎毛刘海",
+        "onboard_time": 1679721509,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 231260,
+        "num": 249125,
+        "word": "乘客地铁脱鞋男子将鞋踢出车厢",
+        "onboard_time": 1679709445,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215725,
+        "num": 249092,
+        "word": "张艺兴再次为街舞打call",
+        "onboard_time": 1679718929,
+        "rank": 15,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 200293,
+        "num": 249042,
+        "word": "恋与制作人",
+        "onboard_time": 1679720968,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 186644,
+        "num": 249007,
+        "word": "朴灿烈模仿文东恩",
+        "onboard_time": 1679715388,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 183126,
+        "num": 248967,
+        "word": "在做题和作弊之间他选择了作法",
+        "onboard_time": 1679714426,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178934,
+        "num": 248921,
+        "word": "你肯定拍过这种写真",
+        "onboard_time": 1679719888,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1636509,
+        "num": 248899,
+        "word": "宋轶 礼服太紧就吃一勺",
+        "onboard_time": 1679714846,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1349707,
+        "num": 248836,
+        "word": "男子被骗柬埔寨500天被倒卖5次",
+        "onboard_time": 1679718568,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256944,
+        "num": 248799,
+        "word": "刘浩存下班随拍",
+        "onboard_time": 1679721451,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1589263,
+        "num": 248782,
+        "word": "明星微博之夜出图",
+        "onboard_time": 1679715267,
+        "rank": 23,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 188695,
+        "num": 248717,
+        "word": "为救女儿父亲毫不犹豫跳入井中",
+        "onboard_time": 1679709986,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187982,
+        "num": 248695,
+        "word": "这还有聚餐的必要吗",
+        "onboard_time": 1679721568,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1061049,
+        "num": 248641,
+        "word": "李兰迪花裙子",
+        "onboard_time": 1679721630,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 159606,
+        "num": 248606,
+        "word": "上树熊猫",
+        "onboard_time": 1679723010,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155615,
+        "num": 248573,
+        "word": "齐司礼新卡",
+        "onboard_time": 1679720312,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 150379,
+        "num": 248549,
+        "word": "肉泥",
+        "onboard_time": 1679706206,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138325,
+        "num": 248492,
+        "word": "保你平安密室逃脱",
+        "onboard_time": 1679721568,
+        "rank": 30,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 129389,
+        "num": 248448,
+        "word": "浓眉37分14篮板",
+        "onboard_time": 1679721568,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123782,
+        "num": 248435,
+        "word": "刘烨说孩子重回公众视野顺其自然",
+        "onboard_time": 1679703264,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 120181,
+        "num": 248379,
+        "word": "猫咪的不服全写在脸上",
+        "onboard_time": 1679724928,
+        "rank": 33,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 119908,
+        "num": 248339,
+        "word": "这才是工作的意义",
+        "onboard_time": 1679713349,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 119186,
+        "num": 248297,
+        "word": "青岛二号线偶遇文东恩了",
+        "onboard_time": 1679706623,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 924567,
+        "num": 248273,
+        "word": "虞书欣真的瘦好多",
+        "onboard_time": 1679723969,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 110161,
+        "num": 248250,
+        "word": "看来新郎是真的不想做饭",
+        "onboard_time": 1679714788,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109421,
+        "num": 248173,
+        "word": "奥本海默时长约三个小时",
+        "onboard_time": 1679723250,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 102826,
+        "num": 248171,
+        "word": "计算机二级",
+        "onboard_time": 1679703926,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 97136,
+        "num": 248100,
+        "word": "八段锦教程",
+        "onboard_time": 1679717787,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92947,
+        "num": 248068,
+        "word": "光与夜之恋",
+        "onboard_time": 1679718268,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 81419,
+        "num": 248030,
+        "word": "清华学生发现诺奖背景报告笔误",
+        "onboard_time": 1679700498,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77861,
+        "num": 248000,
+        "word": "假如大熊猫没有黑眼圈",
+        "onboard_time": 1679714788,
+        "rank": 43,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 76546,
+        "num": 247970,
+        "word": "雷霆vs湖人",
+        "onboard_time": 1679713885,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75230,
+        "num": 247931,
+        "word": "76人vs勇士",
+        "onboard_time": 1679718929,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 67225,
+        "num": 247865,
+        "word": "肖战米兰时装周拍摄花絮视频",
+        "onboard_time": 1679703985,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 66327,
+        "num": 247839,
+        "word": "地球关爱计划",
+        "onboard_time": 1679725108,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65124,
+        "num": 247790,
+        "word": "光渊",
+        "onboard_time": 1679708965,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 61934,
+        "num": 247768,
+        "word": "纪委回应前交通局长孙女炫富",
+        "onboard_time": 1679675543,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#世界瞩目的握手时刻#"
+    }
+  }
+}
