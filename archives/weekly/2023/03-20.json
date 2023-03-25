@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679776433832,
+  "endTime": 1679778861464,
   "band_list": [
     {
       "raw_hot": 27113842,
@@ -13939,6 +13939,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 20107,
+      "num": 33140,
+      "word": "笑容逐渐消失的狗子",
+      "onboard_time": 1679775312,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 18463,
       "num": 160517,
       "word": "饿了么注册放心点商标",
@@ -13953,14 +13961,6 @@
       "onboard_time": 1679734858,
       "rank": 39,
       "category": "体育,作品衍生"
-    },
-    {
-      "raw_hot": 11209,
-      "num": 30138,
-      "word": "笑容逐渐消失的狗子",
-      "onboard_time": 1679775312,
-      "rank": 38,
-      "category": "幽默"
     }
   ],
   "hotgov_list": [
