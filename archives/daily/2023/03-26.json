@@ -1,6 +1,6 @@
 {
   "startTime": 1679761328845,
-  "endTime": 1679775462634,
+  "endTime": 1679776433832,
   "band_list": [
     {
       "raw_hot": 5965286,
@@ -435,8 +435,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 52728,
-      "num": 30364,
+      "raw_hot": 52809,
+      "num": 41130,
       "word": "肖战ES高定",
       "onboard_time": 1679740423,
       "rank": 25,
@@ -451,8 +451,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 47465,
-      "num": 47465,
+      "raw_hot": 47609,
+      "num": 47609,
       "word": "公司女更衣室装监控近十年",
       "onboard_time": 1679772433,
       "rank": 29,
@@ -537,6 +537,14 @@
       "onboard_time": 1679746732,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 11209,
+      "num": 30138,
+      "word": "笑容逐渐消失的狗子",
+      "onboard_time": 1679775312,
+      "rank": 38,
+      "category": "幽默"
     }
   ],
   "hotgov_list": [
