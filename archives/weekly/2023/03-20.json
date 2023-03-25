@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679772816713,
+  "endTime": 1679775462634,
   "band_list": [
     {
       "raw_hot": 27113842,
@@ -13747,6 +13747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 47465,
+      "num": 47465,
+      "word": "公司女更衣室装监控近十年",
+      "onboard_time": 1679772433,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 47246,
       "num": 47246,
       "word": "宋茜的泰国游玩vlog",
@@ -13945,14 +13953,6 @@
       "onboard_time": 1679734858,
       "rank": 39,
       "category": "体育,作品衍生"
-    },
-    {
-      "raw_hot": 13036,
-      "num": 41535,
-      "word": "公司女更衣室装监控近十年",
-      "onboard_time": 1679772433,
-      "rank": 29,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
