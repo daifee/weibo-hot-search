@@ -1,0 +1,410 @@
+{
+  "runTime": 1679742827150,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 15998125,
+        "num": 15998125,
+        "word": "微博之夜",
+        "onboard_time": 1679739222,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 9655481,
+        "num": 9655481,
+        "word": "微博之夜百花齐放",
+        "onboard_time": 1679739121,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 69013,
+        "num": 5672161,
+        "word": "太空视角感受地球气象万千",
+        "onboard_time": 1679733537,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 5627078,
+        "num": 5627078,
+        "word": "想看热巴造型",
+        "onboard_time": 1679741922,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 3689805,
+        "num": 3689805,
+        "word": "刘亦菲孔雀公主",
+        "onboard_time": 1679734177,
+        "rank": 4,
+        "category": "艺人,影视"
+      },
+      {
+        "raw_hot": 1452275,
+        "num": 1452275,
+        "word": "大学最后悔学的专业是什么",
+        "onboard_time": 1679739174,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 2887979,
+        "num": 1093745,
+        "word": "王一博钻石胸针",
+        "onboard_time": 1679741922,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 725899,
+        "num": 725899,
+        "word": "住杭州豪宅的人每天多工作38分钟",
+        "onboard_time": 1679741262,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 639611,
+        "num": 639611,
+        "word": "警方通报女子遭多名男子殴打",
+        "onboard_time": 1679738399,
+        "rank": 8,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 367198,
+        "num": 367198,
+        "word": "金博洋",
+        "onboard_time": 1679737079,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2518824,
+        "num": 360414,
+        "word": "肖战ES高定",
+        "onboard_time": 1679740423,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 352721,
+        "num": 352721,
+        "word": "可是我不想去罗马",
+        "onboard_time": 1679737006,
+        "rank": 11,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 337403,
+        "num": 337403,
+        "word": "突然收到高中同学的一封邮件",
+        "onboard_time": 1679740661,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1734077,
+        "num": 329046,
+        "word": "高叶 女王",
+        "onboard_time": 1679741079,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 267746,
+        "num": 267746,
+        "word": "复兴号往返京沪能省5000度电",
+        "onboard_time": 1679737200,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243778,
+        "num": 243778,
+        "word": "369奶奶现场观赛",
+        "onboard_time": 1679740720,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1531006,
+        "num": 240062,
+        "word": "85花都是高定",
+        "onboard_time": 1679738209,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 236163,
+        "num": 236163,
+        "word": "刘少林回应加入天津队",
+        "onboard_time": 1679732916,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213021,
+        "num": 213021,
+        "word": "放在整个广告界也是相当炸裂",
+        "onboard_time": 1679741079,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1479196,
+        "num": 212719,
+        "word": "杨颖黑天鹅",
+        "onboard_time": 1679735744,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 522328,
+        "num": 212282,
+        "word": "女子取钱后账户却莫名进账",
+        "onboard_time": 1679739060,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271126,
+        "num": 211774,
+        "word": "许可馨",
+        "onboard_time": 1679732144,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1394928,
+        "num": 211120,
+        "word": "杨幂红玫瑰",
+        "onboard_time": 1679731595,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 223341,
+        "num": 210637,
+        "word": "这小狗的身体是拼接的吧",
+        "onboard_time": 1679736238,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 210417,
+        "num": 210417,
+        "word": "金博洋自由滑129.18分",
+        "onboard_time": 1679740481,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1259607,
+        "num": 210333,
+        "word": "微博之夜座位",
+        "onboard_time": 1679742106,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 202397,
+        "num": 209970,
+        "word": "深圳暴雨",
+        "onboard_time": 1679721391,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200752,
+        "num": 209761,
+        "word": "T1战胜KT",
+        "onboard_time": 1679742406,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1044290,
+        "num": 209513,
+        "word": "虞书欣红毯生图",
+        "onboard_time": 1679731902,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 199571,
+        "num": 209183,
+        "word": "XYG春季赛淘汰",
+        "onboard_time": 1679738878,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 755002,
+        "num": 209048,
+        "word": "铃芽之旅",
+        "onboard_time": 1679728418,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 933662,
+        "num": 208681,
+        "word": "白鹿穿的是平菇吗",
+        "onboard_time": 1679735861,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 169790,
+        "num": 208611,
+        "word": "南京汉堡节",
+        "onboard_time": 1679735982,
+        "rank": 32,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 156801,
+        "num": 208331,
+        "word": "叠纸拉黑",
+        "onboard_time": 1679718027,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 857650,
+        "num": 208006,
+        "word": "李一桐是公主吧",
+        "onboard_time": 1679733891,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 381008,
+        "num": 207671,
+        "word": "张颂文说票房不是电影好坏唯一标准",
+        "onboard_time": 1679734137,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 149038,
+        "num": 207535,
+        "word": "大熊猫萌兰究竟有多聪明",
+        "onboard_time": 1679727032,
+        "rank": 36,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 796004,
+        "num": 207352,
+        "word": "王鹤棣好贵",
+        "onboard_time": 1679726312,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 143093,
+        "num": 206889,
+        "word": "大学生旅游主打一个效率",
+        "onboard_time": 1679736238,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132383,
+        "num": 206824,
+        "word": "T1对战KT",
+        "onboard_time": 1679726500,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 686724,
+        "num": 206531,
+        "word": "惠英红宋佳已经开始打牌了",
+        "onboard_time": 1679740543,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 289762,
+        "num": 206230,
+        "word": "李荣浩演唱会",
+        "onboard_time": 1679740304,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 218997,
+        "num": 206057,
+        "word": "铃芽之旅票房破2亿",
+        "onboard_time": 1679729201,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 631299,
+        "num": 205816,
+        "word": "刘诗诗醒狮项链",
+        "onboard_time": 1679733953,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 129557,
+        "num": 205403,
+        "word": "世界花样滑冰锦标赛",
+        "onboard_time": 1679741802,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201615,
+        "num": 205193,
+        "word": "周星驰林俊杰见面",
+        "onboard_time": 1679720552,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 532206,
+        "num": 205055,
+        "word": "王源无袖白衬衫",
+        "onboard_time": 1679742708,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 97934,
+        "num": 204835,
+        "word": "难怪浪漫都在下雨天",
+        "onboard_time": 1679735637,
+        "rank": 47,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 95845,
+        "num": 204447,
+        "word": "AG菲菲",
+        "onboard_time": 1679734012,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 204362,
+        "num": 204362,
+        "word": "沈月饭拍",
+        "onboard_time": 1679742769,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#从春天再出发#"
+    }
+  }
+}

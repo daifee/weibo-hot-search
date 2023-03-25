@@ -1,6 +1,6 @@
 {
   "startTime": 1679675078237,
-  "endTime": 1679740403078,
+  "endTime": 1679742827150,
   "band_list": [
     {
       "raw_hot": 27113842,
@@ -19,8 +19,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 13065470,
-      "num": 410760,
+      "raw_hot": 15998125,
+      "num": 15998125,
       "word": "微博之夜",
       "onboard_time": 1679739222,
       "rank": 10,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 10731492,
-      "num": 740704,
+      "num": 3689805,
       "word": "刘亦菲孔雀公主",
       "onboard_time": 1679734177,
       "rank": 10,
@@ -36,11 +36,19 @@
     },
     {
       "raw_hot": 9756965,
-      "num": 367197,
+      "num": 9655481,
       "word": "微博之夜百花齐放",
       "onboard_time": 1679739121,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 5627078,
+      "num": 5627078,
+      "word": "想看热巴造型",
+      "onboard_time": 1679741922,
+      "rank": 3,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 4481815,
@@ -91,6 +99,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 2887979,
+      "num": 1093745,
+      "word": "王一博钻石胸针",
+      "onboard_time": 1679741922,
+      "rank": 6,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 2688396,
       "num": 652156,
       "word": "孔乙己",
@@ -111,6 +127,14 @@
       "num": 394904,
       "word": "宋轶 礼服太紧就吃一勺",
       "onboard_time": 1679714846,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 2518824,
+      "num": 360414,
+      "word": "肖战ES高定",
+      "onboard_time": 1679740423,
       "rank": 10,
       "category": "作品衍生"
     },
@@ -145,6 +169,14 @@
       "onboard_time": 1679718568,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1734077,
+      "num": 329046,
+      "word": "高叶 女王",
+      "onboard_time": 1679741079,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1730392,
@@ -211,6 +243,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1452275,
+      "num": 1452275,
+      "word": "大学最后悔学的专业是什么",
+      "onboard_time": 1679739174,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1447772,
       "num": 3086916,
       "word": "铃芽之旅",
@@ -273,6 +313,14 @@
       "onboard_time": 1679706206,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1259607,
+      "num": 210333,
+      "word": "微博之夜座位",
+      "onboard_time": 1679742106,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1196120,
@@ -459,6 +507,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 725899,
+      "num": 725899,
+      "word": "住杭州豪宅的人每天多工作38分钟",
+      "onboard_time": 1679741262,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 722393,
       "num": 722393,
       "word": "不建议在室内养郁金香",
@@ -473,6 +529,14 @@
       "onboard_time": 1679713524,
       "rank": 35,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 686724,
+      "num": 206531,
+      "word": "惠英红宋佳已经开始打牌了",
+      "onboard_time": 1679740543,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 686136,
@@ -497,6 +561,14 @@
       "onboard_time": 1679709445,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 639611,
+      "num": 639611,
+      "word": "警方通报女子遭多名男子殴打",
+      "onboard_time": 1679738399,
+      "rank": 35,
+      "category": "社会负面"
     },
     {
       "raw_hot": 627404,
@@ -603,6 +675,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 532206,
+      "num": 205055,
+      "word": "王源无袖白衬衫",
+      "onboard_time": 1679742708,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 530066,
       "num": 530066,
       "word": "女子被骚扰搜集证据后领导当面道歉",
@@ -617,6 +697,14 @@
       "onboard_time": 1679666849,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 522328,
+      "num": 221791,
+      "word": "女子取钱后账户却莫名进账",
+      "onboard_time": 1679739060,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 498193,
@@ -755,12 +843,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 367198,
+      "num": 367198,
+      "word": "金博洋",
+      "onboard_time": 1679737079,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 352721,
+      "num": 352721,
+      "word": "可是我不想去罗马",
+      "onboard_time": 1679737006,
+      "rank": 29,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 346786,
       "num": 346786,
       "word": "张雨绮微博之夜礼服",
       "onboard_time": 1679662890,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 337403,
+      "num": 337403,
+      "word": "突然收到高中同学的一封邮件",
+      "onboard_time": 1679740661,
+      "rank": 12,
+      "category": "情感"
     },
     {
       "raw_hot": 335521,
@@ -793,14 +905,6 @@
       "onboard_time": 1679728538,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 325425,
-      "num": 284622,
-      "word": "警方通报女子遭多名男子殴打",
-      "onboard_time": 1679738399,
-      "rank": 35,
-      "category": "社会负面"
     },
     {
       "raw_hot": 318266,
@@ -859,6 +963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 289762,
+      "num": 264428,
+      "word": "李荣浩演唱会",
+      "onboard_time": 1679740304,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 288694,
       "num": 742658,
       "word": "大熊猫萌兰究竟有多聪明",
@@ -891,28 +1003,12 @@
       "category": "社会正能量,作品衍生"
     },
     {
-      "raw_hot": 280821,
-      "num": 280821,
-      "word": "金博洋",
-      "onboard_time": 1679737079,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 271207,
       "num": 733982,
       "word": "铃芽之旅票房破2亿",
       "onboard_time": 1679729201,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 270710,
-      "num": 270710,
-      "word": "可是我不想去罗马",
-      "onboard_time": 1679737006,
-      "rank": 29,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 270301,
@@ -939,28 +1035,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 264428,
-      "num": 264428,
-      "word": "李荣浩演唱会",
-      "onboard_time": 1679740304,
-      "rank": 18,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 260174,
       "num": 704751,
       "word": "齐司礼新卡",
       "onboard_time": 1679720312,
       "rank": 19,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 257139,
-      "num": 257139,
-      "word": "大学最后悔学的专业是什么",
-      "onboard_time": 1679739174,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 255767,
@@ -992,6 +1072,14 @@
       "word": "XYG春季赛淘汰",
       "onboard_time": 1679738878,
       "rank": 23,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 243778,
+      "num": 243778,
+      "word": "369奶奶现场观赛",
+      "onboard_time": 1679740720,
+      "rank": 15,
       "category": "游戏"
     },
     {
@@ -1107,12 +1195,28 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 213021,
+      "num": 213021,
+      "word": "放在整个广告界也是相当炸裂",
+      "onboard_time": 1679741079,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 211547,
       "num": 211547,
       "word": "庞博发长文告别最强大脑",
       "onboard_time": 1679703863,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 210417,
+      "num": 210417,
+      "word": "金博洋自由滑129.18分",
+      "onboard_time": 1679740481,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 207284,
@@ -1139,6 +1243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 204362,
+      "num": 204362,
+      "word": "沈月饭拍",
+      "onboard_time": 1679742769,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 202315,
       "num": 222122,
       "word": "WE战胜XYG",
@@ -1153,6 +1265,14 @@
       "onboard_time": 1679673987,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 200752,
+      "num": 209761,
+      "word": "T1战胜KT",
+      "onboard_time": 1679742406,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 200293,
@@ -1499,6 +1619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 129557,
+      "num": 205403,
+      "word": "世界花样滑冰锦标赛",
+      "onboard_time": 1679741802,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128223,
       "num": 248516,
       "word": "姚晨画的自己",
@@ -1651,14 +1779,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 109540,
-      "num": 221791,
-      "word": "女子取钱后账户却莫名进账",
-      "onboard_time": 1679739060,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 108877,
       "num": 230940,
       "word": "为了纪念青春买了EXO的正规二辑",
@@ -1780,7 +1900,7 @@
     },
     {
       "raw_hot": 84206,
-      "num": 838448,
+      "num": 5672161,
       "word": "太空视角感受地球气象万千",
       "onboard_time": 1679733537,
       "rank": 2,
