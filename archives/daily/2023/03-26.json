@@ -1,6 +1,6 @@
 {
   "startTime": 1679761328845,
-  "endTime": 1679768420979,
+  "endTime": 1679769198704,
   "band_list": [
     {
       "raw_hot": 5965286,
@@ -323,20 +323,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 147182,
+      "num": 164312,
+      "word": "谷爱凌好可爱",
+      "onboard_time": 1679745954,
+      "rank": 8,
+      "category": "体育,作品衍生"
+    },
+    {
       "raw_hot": 124002,
       "num": 334709,
       "word": "这在传单界都是难以拒绝的",
       "onboard_time": 1679758247,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 120876,
-      "num": 164312,
-      "word": "谷爱凌好可爱",
-      "onboard_time": 1679745954,
-      "rank": 8,
-      "category": "体育,作品衍生"
     },
     {
       "raw_hot": 93840,
@@ -443,6 +443,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 38726,
+      "num": 68408,
+      "word": "周深台柱子歌手",
+      "onboard_time": 1679746437,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 37722,
       "num": 418637,
       "word": "随手拍春天",
@@ -481,6 +489,14 @@
       "onboard_time": 1679739222,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 26662,
+      "num": 68501,
+      "word": "高叶 女王",
+      "onboard_time": 1679741079,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 22851,

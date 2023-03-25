@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679768420979,
+  "endTime": 1679769198704,
   "band_list": [
     {
       "raw_hot": 27113842,
@@ -13801,6 +13801,14 @@
       "onboard_time": 1679699958,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 38726,
+      "num": 68408,
+      "word": "周深台柱子歌手",
+      "onboard_time": 1679746437,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 38627,
