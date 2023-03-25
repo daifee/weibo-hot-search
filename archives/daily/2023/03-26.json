@@ -1,6 +1,6 @@
 {
   "startTime": 1679761328845,
-  "endTime": 1679782618119,
+  "endTime": 1679783592515,
   "band_list": [
     {
       "raw_hot": 5965286,
@@ -347,6 +347,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 90641,
+      "num": 52232,
+      "word": "肖战ES高定",
+      "onboard_time": 1679740423,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 83885,
       "num": 324887,
       "word": "狼队对战eStar",
@@ -369,14 +377,6 @@
       "onboard_time": 1679746849,
       "rank": 28,
       "category": "科技"
-    },
-    {
-      "raw_hot": 74390,
-      "num": 41730,
-      "word": "肖战ES高定",
-      "onboard_time": 1679740423,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 70112,
@@ -411,6 +411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 60572,
+      "num": 60572,
+      "word": "公司女更衣室装监控近十年",
+      "onboard_time": 1679772433,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60321,
       "num": 206094,
       "word": "张凌赫怎么不过来坐",
@@ -443,19 +451,19 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 52471,
+      "num": 52471,
+      "word": "苏州医生在湖南培训顺手救人",
+      "onboard_time": 1679780592,
+      "rank": 19,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 49750,
       "num": 306364,
       "word": "河北邢台发生3.3级地震",
       "onboard_time": 1679745168,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 47609,
-      "num": 47609,
-      "word": "公司女更衣室装监控近十年",
-      "onboard_time": 1679772433,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -489,14 +497,6 @@
       "onboard_time": 1679740481,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 36685,
-      "num": 36685,
-      "word": "苏州医生在湖南培训顺手救人",
-      "onboard_time": 1679780592,
-      "rank": 19,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 33669,
@@ -540,7 +540,7 @@
     },
     {
       "raw_hot": 24828,
-      "num": 36983,
+      "num": 51591,
       "word": "笑容逐渐消失的狗子",
       "onboard_time": 1679775312,
       "rank": 38,
@@ -555,8 +555,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 13691,
-      "num": 34994,
+      "raw_hot": 18103,
+      "num": 51454,
       "word": "黄蜂战胜独行侠",
       "onboard_time": 1679780532,
       "rank": 39,
