@@ -1,6 +1,6 @@
 {
   "startTime": 1679675078237,
-  "endTime": 1679742827150,
+  "endTime": 1679744011733,
   "band_list": [
     {
       "raw_hot": 27113842,
@@ -47,6 +47,14 @@
       "num": 5627078,
       "word": "想看热巴造型",
       "onboard_time": 1679741922,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 4971716,
+      "num": 4971716,
+      "word": "迪丽热巴复古名伶",
+      "onboard_time": 1679743604,
       "rank": 3,
       "category": "作品衍生"
     },
@@ -100,7 +108,7 @@
     },
     {
       "raw_hot": 2887979,
-      "num": 1093745,
+      "num": 1368057,
       "word": "王一博钻石胸针",
       "onboard_time": 1679741922,
       "rank": 6,
@@ -132,7 +140,7 @@
     },
     {
       "raw_hot": 2518824,
-      "num": 360414,
+      "num": 433787,
       "word": "肖战ES高定",
       "onboard_time": 1679740423,
       "rank": 10,
@@ -155,6 +163,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 2424880,
+      "num": 456266,
+      "word": "微博之夜座位",
+      "onboard_time": 1679742106,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 2404773,
       "num": 815769,
       "word": "明星微博之夜出图",
@@ -171,8 +187,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1734077,
-      "num": 329046,
+      "raw_hot": 1758307,
+      "num": 448851,
       "word": "高叶 女王",
       "onboard_time": 1679741079,
       "rank": 13,
@@ -243,8 +259,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1452275,
-      "num": 1452275,
+      "raw_hot": 1475175,
+      "num": 1475175,
       "word": "大学最后悔学的专业是什么",
       "onboard_time": 1679739174,
       "rank": 49,
@@ -307,20 +323,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1289334,
+      "num": 205055,
+      "word": "王源无袖白衬衫",
+      "onboard_time": 1679742708,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1288598,
       "num": 497005,
       "word": "肉泥",
       "onboard_time": 1679706206,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1259607,
-      "num": 210333,
-      "word": "微博之夜座位",
-      "onboard_time": 1679742106,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1196120,
@@ -387,6 +403,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 893628,
+      "num": 893628,
+      "word": "住杭州豪宅的人每天多工作38分钟",
+      "onboard_time": 1679741262,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 879458,
       "num": 879458,
       "word": "铃芽之旅票根",
@@ -400,6 +424,14 @@
       "word": "张大大不敢穿这套走红毯",
       "onboard_time": 1679711365,
       "rank": 26,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 859150,
+      "num": 199955,
+      "word": "微博之夜节目单",
+      "onboard_time": 1679743665,
+      "rank": 41,
       "category": "作品衍生"
     },
     {
@@ -505,14 +537,6 @@
       "onboard_time": 1679722351,
       "rank": 33,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 725899,
-      "num": 725899,
-      "word": "住杭州豪宅的人每天多工作38分钟",
-      "onboard_time": 1679741262,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 722393,
@@ -675,14 +699,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 532206,
-      "num": 205055,
-      "word": "王源无袖白衬衫",
-      "onboard_time": 1679742708,
-      "rank": 46,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 530066,
       "num": 530066,
       "word": "女子被骚扰搜集证据后领导当面道歉",
@@ -700,7 +716,7 @@
     },
     {
       "raw_hot": 522328,
-      "num": 221791,
+      "num": 247425,
       "word": "女子取钱后账户却莫名进账",
       "onboard_time": 1679739060,
       "rank": 43,
@@ -763,12 +779,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 438019,
+      "num": 438019,
+      "word": "突然收到高中同学的一封邮件",
+      "onboard_time": 1679740661,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 433570,
       "num": 433570,
       "word": "水哥感叹中日心算又是平局",
       "onboard_time": 1679673806,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 428779,
+      "num": 428779,
+      "word": "坠落",
+      "onboard_time": 1679743066,
+      "rank": 14,
+      "category": "其它"
     },
     {
       "raw_hot": 426026,
@@ -844,7 +876,7 @@
     },
     {
       "raw_hot": 367198,
-      "num": 367198,
+      "num": 458569,
       "word": "金博洋",
       "onboard_time": 1679737079,
       "rank": 8,
@@ -867,12 +899,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 337403,
-      "num": 337403,
-      "word": "突然收到高中同学的一封邮件",
-      "onboard_time": 1679740661,
-      "rank": 12,
-      "category": "情感"
+      "raw_hot": 338933,
+      "num": 338933,
+      "word": "T1战胜KT",
+      "onboard_time": 1679742406,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 335521,
@@ -889,6 +921,14 @@
       "onboard_time": 1679721451,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 329938,
+      "num": 329938,
+      "word": "因航班延误缺考复试考研生崩溃大哭",
+      "onboard_time": 1679743424,
+      "rank": 17,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 329115,
@@ -939,6 +979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 298824,
+      "num": 264428,
+      "word": "李荣浩演唱会",
+      "onboard_time": 1679740304,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 297522,
       "num": 297522,
       "word": "复兴号往返京沪能省5000度电",
@@ -961,14 +1009,6 @@
       "onboard_time": 1679657428,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 289762,
-      "num": 264428,
-      "word": "李荣浩演唱会",
-      "onboard_time": 1679740304,
-      "rank": 18,
-      "category": "音乐"
     },
     {
       "raw_hot": 288694,
@@ -1041,6 +1081,14 @@
       "onboard_time": 1679720312,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 256814,
+      "num": 198650,
+      "word": "INTO1开场舞台",
+      "onboard_time": 1679743843,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 255767,
@@ -1265,14 +1313,6 @@
       "onboard_time": 1679673987,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 200752,
-      "num": 209761,
-      "word": "T1战胜KT",
-      "onboard_time": 1679742406,
-      "rank": 27,
-      "category": "游戏"
     },
     {
       "raw_hot": 200293,
@@ -1827,6 +1867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 99570,
+      "num": 198583,
+      "word": "微博春日星市集",
+      "onboard_time": 1679743604,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 99118,
       "num": 221691,
       "word": "让你的朋友结婚吧",
@@ -1900,7 +1948,7 @@
     },
     {
       "raw_hot": 84206,
-      "num": 5672161,
+      "num": 5934748,
       "word": "太空视角感受地球气象万千",
       "onboard_time": 1679733537,
       "rank": 2,

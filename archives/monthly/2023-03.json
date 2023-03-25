@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679742827150,
+  "endTime": 1679744011733,
   "band_list": [
     {
       "raw_hot": 27113842,
@@ -185,6 +185,14 @@
       "onboard_time": 1678335271,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 4971716,
+      "num": 4971716,
+      "word": "迪丽热巴复古名伶",
+      "onboard_time": 1679743604,
+      "rank": 3,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 4565383,
@@ -508,7 +516,7 @@
     },
     {
       "raw_hot": 2887979,
-      "num": 1093745,
+      "num": 1368057,
       "word": "王一博钻石胸针",
       "onboard_time": 1679741922,
       "rank": 6,
@@ -668,7 +676,7 @@
     },
     {
       "raw_hot": 2518824,
-      "num": 360414,
+      "num": 433787,
       "word": "肖战ES高定",
       "onboard_time": 1679740423,
       "rank": 10,
@@ -801,6 +809,14 @@
       "onboard_time": 1679231729,
       "rank": 27,
       "category": "网红"
+    },
+    {
+      "raw_hot": 2424880,
+      "num": 456266,
+      "word": "微博之夜座位",
+      "onboard_time": 1679742106,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 2418136,
@@ -1827,6 +1843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1758307,
+      "num": 448851,
+      "word": "高叶 女王",
+      "onboard_time": 1679741079,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1756728,
       "num": 439875,
       "word": "姚晨回应张颂文感谢她一辈子",
@@ -1881,14 +1905,6 @@
       "onboard_time": 1678070664,
       "rank": 13,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 1734077,
-      "num": 329046,
-      "word": "高叶 女王",
-      "onboard_time": 1679741079,
-      "rank": 13,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1732782,
@@ -2763,6 +2779,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1475175,
+      "num": 1475175,
+      "word": "大学最后悔学的专业是什么",
+      "onboard_time": 1679739174,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1473978,
       "num": 1473978,
       "word": "各部部长",
@@ -2889,14 +2913,6 @@
       "onboard_time": 1679455529,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1452275,
-      "num": 1452275,
-      "word": "大学最后悔学的专业是什么",
-      "onboard_time": 1679739174,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 1450900,
@@ -3739,6 +3755,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 1289334,
+      "num": 205055,
+      "word": "王源无袖白衬衫",
+      "onboard_time": 1679742708,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1289138,
       "num": 1289138,
       "word": "马嘉祺 舞娘",
@@ -3945,14 +3969,6 @@
       "onboard_time": 1678136412,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1259607,
-      "num": 210333,
-      "word": "微博之夜座位",
-      "onboard_time": 1679742106,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1259391,
@@ -7091,6 +7107,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 893628,
+      "num": 893628,
+      "word": "住杭州豪宅的人每天多工作38分钟",
+      "onboard_time": 1679741262,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 892387,
       "num": 483942,
       "word": "什么电视剧能拍到第15季",
@@ -7529,6 +7553,14 @@
       "onboard_time": 1679016806,
       "rank": 48,
       "category": "科技"
+    },
+    {
+      "raw_hot": 859150,
+      "num": 199955,
+      "word": "微博之夜节目单",
+      "onboard_time": 1679743665,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 858947,
@@ -9696,14 +9728,6 @@
       "word": "百草味回应袋装土豆片只有1片",
       "onboard_time": 1678196428,
       "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 725899,
-      "num": 725899,
-      "word": "住杭州豪宅的人每天多工作38分钟",
-      "onboard_time": 1679741262,
-      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -14643,14 +14667,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 532206,
-      "num": 205055,
-      "word": "王源无袖白衬衫",
-      "onboard_time": 1679742708,
-      "rank": 46,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 532181,
       "num": 532181,
       "word": "鹿晗红色亮片真空西装造型",
@@ -15012,7 +15028,7 @@
     },
     {
       "raw_hot": 522328,
-      "num": 221791,
+      "num": 247425,
       "word": "女子取钱后账户却莫名进账",
       "onboard_time": 1679739060,
       "rank": 43,
@@ -18291,6 +18307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 438019,
+      "num": 438019,
+      "word": "突然收到高中同学的一封邮件",
+      "onboard_time": 1679740661,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 437340,
       "num": 437340,
       "word": "阿信做梦都想删掉这段视频吧",
@@ -18697,6 +18721,14 @@
       "onboard_time": 1677730831,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 428779,
+      "num": 428779,
+      "word": "坠落",
+      "onboard_time": 1679743066,
+      "rank": 14,
+      "category": "其它"
     },
     {
       "raw_hot": 428335,
@@ -23251,6 +23283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 338933,
+      "num": 338933,
+      "word": "T1战胜KT",
+      "onboard_time": 1679742406,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 338573,
       "num": 338573,
       "word": "彭小苒台词",
@@ -23361,14 +23401,6 @@
       "onboard_time": 1678635148,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 337403,
-      "num": 337403,
-      "word": "突然收到高中同学的一封邮件",
-      "onboard_time": 1679740661,
-      "rank": 12,
-      "category": "情感"
     },
     {
       "raw_hot": 337210,
@@ -23777,6 +23809,14 @@
       "onboard_time": 1678945348,
       "rank": 14,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 329938,
+      "num": 329938,
+      "word": "因航班延误缺考复试考研生崩溃大哭",
+      "onboard_time": 1679743424,
+      "rank": 17,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 329936,
@@ -25795,6 +25835,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 298824,
+      "num": 264428,
+      "word": "李荣浩演唱会",
+      "onboard_time": 1679740304,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 298792,
       "num": 298792,
       "word": "张颂文即兴发挥吃鱼梗",
@@ -26345,14 +26393,6 @@
       "onboard_time": 1679034025,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 289762,
-      "num": 264428,
-      "word": "李荣浩演唱会",
-      "onboard_time": 1679740304,
-      "rank": 18,
-      "category": "音乐"
     },
     {
       "raw_hot": 289313,
@@ -28673,6 +28713,14 @@
       "onboard_time": 1677834688,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 256814,
+      "num": 198650,
+      "word": "INTO1开场舞台",
+      "onboard_time": 1679743843,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 256744,
@@ -35105,14 +35153,6 @@
       "onboard_time": 1678519046,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 200752,
-      "num": 209761,
-      "word": "T1战胜KT",
-      "onboard_time": 1679742406,
-      "rank": 27,
-      "category": "游戏"
     },
     {
       "raw_hot": 200742,
@@ -48491,6 +48531,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 99570,
+      "num": 198583,
+      "word": "微博春日星市集",
+      "onboard_time": 1679743604,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 99536,
       "num": 99536,
       "word": "虞书欣牛仔套装上班路透",
@@ -49468,7 +49516,7 @@
     },
     {
       "raw_hot": 84206,
-      "num": 5672161,
+      "num": 5934748,
       "word": "太空视角感受地球气象万千",
       "onboard_time": 1679733537,
       "rank": 2,
