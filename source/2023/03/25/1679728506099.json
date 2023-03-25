@@ -1,0 +1,410 @@
+{
+  "runTime": 1679728506099,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1098962,
+        "num": 1098962,
+        "word": "叠纸拉黑",
+        "onboard_time": 1679718027,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 779708,
+        "num": 779708,
+        "word": "驻泰使馆回应涉泰旅游问题",
+        "onboard_time": 1679726192,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65081,
+        "num": 710467,
+        "word": "2023考研复试调剂全攻略",
+        "onboard_time": 1679703803,
+        "rank": 2,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 672588,
+        "num": 672588,
+        "word": "师兄求导师收留的方式",
+        "onboard_time": 1679725527,
+        "rank": 3,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 32175,
+        "num": 580336,
+        "word": "甘宇罗永倪太高相见了",
+        "onboard_time": 1679717607,
+        "rank": 4,
+        "category": "社会正能量,作品衍生"
+      },
+      {
+        "raw_hot": 160567,
+        "num": 577132,
+        "word": "汶川哥哥也来微博之夜了",
+        "onboard_time": 1679721091,
+        "rank": 5,
+        "category": "社会正能量,作品衍生"
+      },
+      {
+        "raw_hot": 575677,
+        "num": 575677,
+        "word": "深圳暴雨",
+        "onboard_time": 1679721391,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 442241,
+        "num": 442241,
+        "word": "拜登称为中国鼓掌后改口",
+        "onboard_time": 1679713286,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348137,
+        "num": 348137,
+        "word": "铃芽之旅",
+        "onboard_time": 1679728418,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 36771,
+        "num": 319057,
+        "word": "邓亚萍微博之夜看弹幕比心",
+        "onboard_time": 1679721091,
+        "rank": 9,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 27113842,
+        "num": 315086,
+        "word": "微博之夜红毯直播",
+        "onboard_time": 1679726791,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 365569,
+        "num": 314657,
+        "word": "周星驰林俊杰见面",
+        "onboard_time": 1679720552,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 295234,
+        "num": 295234,
+        "word": "陕西一美食城女子遭多名男子殴打",
+        "onboard_time": 1679715748,
+        "rank": 12,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 2543985,
+        "num": 291803,
+        "word": "王鹤棣好贵",
+        "onboard_time": 1679726312,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 276303,
+        "num": 276303,
+        "word": "当谭松韵AI换脸白敬亭",
+        "onboard_time": 1679717848,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 275553,
+        "num": 275553,
+        "word": "大熊猫谊谊升谊将回国",
+        "onboard_time": 1679719288,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248190,
+        "num": 248190,
+        "word": "铃芽之旅票根",
+        "onboard_time": 1679715506,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 191738,
+        "num": 246797,
+        "word": "乘客地铁脱鞋男子将鞋踢出车厢",
+        "onboard_time": 1679709445,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179787,
+        "num": 245612,
+        "word": "上树熊猫",
+        "onboard_time": 1679723010,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 171586,
+        "num": 243022,
+        "word": "朴灿烈模仿文东恩",
+        "onboard_time": 1679715388,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1730450,
+        "num": 240752,
+        "word": "虞书欣真的瘦好多",
+        "onboard_time": 1679723969,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 240178,
+        "num": 240178,
+        "word": "猫咪的不服全写在脸上",
+        "onboard_time": 1679724928,
+        "rank": 21,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 172546,
+        "num": 238120,
+        "word": "刘浩存下班随拍",
+        "onboard_time": 1679721451,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1538399,
+        "num": 235786,
+        "word": "男明星五彩斑斓的黑",
+        "onboard_time": 1679727214,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 151436,
+        "num": 234200,
+        "word": "T1对战KT",
+        "onboard_time": 1679726500,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 163405,
+        "num": 229476,
+        "word": "心想事成大结局",
+        "onboard_time": 1679728301,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1338635,
+        "num": 227739,
+        "word": "王楚然的镜子照的是张凌赫吗",
+        "onboard_time": 1679725711,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 147483,
+        "num": 223982,
+        "word": "为救女儿父亲毫不犹豫跳入井中",
+        "onboard_time": 1679709986,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137519,
+        "num": 223002,
+        "word": "奥本海默时长约三个小时",
+        "onboard_time": 1679723250,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1242752,
+        "num": 219913,
+        "word": "白鹿胎毛刘海",
+        "onboard_time": 1679721509,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 133097,
+        "num": 217714,
+        "word": "恋与制作人",
+        "onboard_time": 1679720968,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 129553,
+        "num": 213453,
+        "word": "张艺兴再次为街舞打call",
+        "onboard_time": 1679718929,
+        "rank": 31,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 128444,
+        "num": 211322,
+        "word": "在做题和作弊之间他选择了作法",
+        "onboard_time": 1679714426,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128223,
+        "num": 209697,
+        "word": "姚晨画的自己",
+        "onboard_time": 1679724690,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121957,
+        "num": 207348,
+        "word": "肉泥",
+        "onboard_time": 1679706206,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118703,
+        "num": 203445,
+        "word": "这还有聚餐的必要吗",
+        "onboard_time": 1679721568,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 101682,
+        "num": 201392,
+        "word": "保你平安密室逃脱",
+        "onboard_time": 1679721568,
+        "rank": 36,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 100021,
+        "num": 197080,
+        "word": "你肯定拍过这种写真",
+        "onboard_time": 1679719888,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 97791,
+        "num": 194351,
+        "word": "计算机二级",
+        "onboard_time": 1679703926,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 88648,
+        "num": 193148,
+        "word": "浓眉37分14篮板",
+        "onboard_time": 1679721568,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87735,
+        "num": 188710,
+        "word": "齐司礼新卡",
+        "onboard_time": 1679720312,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 87023,
+        "num": 185943,
+        "word": "八段锦教程",
+        "onboard_time": 1679717787,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86032,
+        "num": 184158,
+        "word": "刘烨说孩子重回公众视野顺其自然",
+        "onboard_time": 1679703264,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 83610,
+        "num": 182173,
+        "word": "为了纪念青春买了EXO的正规二辑",
+        "onboard_time": 1679716347,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 82586,
+        "num": 179583,
+        "word": "这才是工作的意义",
+        "onboard_time": 1679713349,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 82143,
+        "num": 177079,
+        "word": "看见好吃的连哈欠都不打了",
+        "onboard_time": 1679726011,
+        "rank": 45,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 81783,
+        "num": 172220,
+        "word": "青岛二号线偶遇文东恩了",
+        "onboard_time": 1679706623,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 69376,
+        "num": 170458,
+        "word": "陈星旭李兰迪你好星期六剧照",
+        "onboard_time": 1679717547,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 65728,
+        "num": 166893,
+        "word": "看来新郎是真的不想做饭",
+        "onboard_time": 1679714788,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 65410,
+        "num": 163699,
+        "word": "归晓镜头下的路晨",
+        "onboard_time": 1679725769,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#从春天再出发#"
+    }
+  }
+}

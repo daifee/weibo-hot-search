@@ -1,7 +1,15 @@
 {
   "startTime": 1679675078237,
-  "endTime": 1679726100205,
+  "endTime": 1679728506099,
   "band_list": [
+    {
+      "raw_hot": 27113842,
+      "num": 315086,
+      "word": "微博之夜红毯直播",
+      "onboard_time": 1679726791,
+      "rank": 10,
+      "category": "作品衍生"
+    },
     {
       "raw_hot": 3338184,
       "num": 520920,
@@ -24,6 +32,14 @@
       "word": "白鹿胎毛刘海",
       "onboard_time": 1679721509,
       "rank": 0,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 2543985,
+      "num": 291803,
+      "word": "王鹤棣好贵",
+      "onboard_time": 1679726312,
+      "rank": 13,
       "category": "作品衍生"
     },
     {
@@ -75,6 +91,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1538399,
+      "num": 235786,
+      "word": "男明星五彩斑斓的黑",
+      "onboard_time": 1679727214,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1482967,
       "num": 1482967,
       "word": "清华学生发现诺奖背景报告笔误",
@@ -107,19 +131,19 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1338635,
+      "num": 248790,
+      "word": "王楚然的镜子照的是张凌赫吗",
+      "onboard_time": 1679725711,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1338366,
       "num": 240617,
       "word": "虞书欣水墨白花黑裙",
       "onboard_time": 1679721029,
       "rank": 27,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1328527,
-      "num": 248790,
-      "word": "王楚然的镜子照的是张凌赫吗",
-      "onboard_time": 1679725711,
-      "rank": 29,
       "category": "作品衍生"
     },
     {
@@ -219,6 +243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 779708,
+      "num": 779708,
+      "word": "驻泰使馆回应涉泰旅游问题",
+      "onboard_time": 1679726192,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 728010,
       "num": 158248,
       "word": "微博之夜好多美女",
@@ -249,6 +281,14 @@
       "onboard_time": 1679720552,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 672588,
+      "num": 672588,
+      "word": "师兄求导师收留的方式",
+      "onboard_time": 1679725527,
+      "rank": 34,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 667275,
@@ -507,6 +547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 348137,
+      "num": 348137,
+      "word": "铃芽之旅",
+      "onboard_time": 1679728418,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 346786,
       "num": 346786,
       "word": "张雨绮微博之夜礼服",
@@ -665,6 +713,14 @@
       "onboard_time": 1679703445,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 240178,
+      "num": 248876,
+      "word": "猫咪的不服全写在脸上",
+      "onboard_time": 1679724928,
+      "rank": 33,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 237295,
@@ -939,6 +995,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 163405,
+      "num": 229476,
+      "word": "心想事成大结局",
+      "onboard_time": 1679728301,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 161453,
       "num": 572908,
       "word": "邓亚萍电竞天团跨界同框",
@@ -971,14 +1035,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 159028,
-      "num": 248876,
-      "word": "猫咪的不服全写在脸上",
-      "onboard_time": 1679724928,
-      "rank": 33,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 154781,
       "num": 154781,
       "word": "法国4比0荷兰",
@@ -993,6 +1049,14 @@
       "onboard_time": 1679623707,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 151436,
+      "num": 234200,
+      "word": "T1对战KT",
+      "onboard_time": 1679726500,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 150072,
@@ -1035,6 +1099,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 137519,
+      "num": 248708,
+      "word": "奥本海默时长约三个小时",
+      "onboard_time": 1679723250,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 135411,
       "num": 123260,
       "word": "何洁素颜",
@@ -1065,6 +1137,14 @@
       "onboard_time": 1679701159,
       "rank": 41,
       "category": "财经"
+    },
+    {
+      "raw_hot": 128223,
+      "num": 248516,
+      "word": "姚晨画的自己",
+      "onboard_time": 1679724690,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 125615,
@@ -1115,14 +1195,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 122821,
-      "num": 248708,
-      "word": "奥本海默时长约三个小时",
-      "onboard_time": 1679723250,
-      "rank": 38,
-      "category": "影视"
-    },
-    {
       "raw_hot": 122740,
       "num": 122740,
       "word": "库克现身北京",
@@ -1171,14 +1243,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 117161,
-      "num": 248677,
-      "word": "师兄求导师收留的方式",
-      "onboard_time": 1679725527,
-      "rank": 34,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 116730,
       "num": 580770,
       "word": "任子威微博之夜为全民运动点赞",
@@ -1204,7 +1268,7 @@
     },
     {
       "raw_hot": 108877,
-      "num": 108877,
+      "num": 182173,
       "word": "为了纪念青春买了EXO的正规二辑",
       "onboard_time": 1679716347,
       "rank": 45,
@@ -1297,14 +1361,6 @@
       "onboard_time": 1679668770,
       "rank": 48,
       "category": "美食"
-    },
-    {
-      "raw_hot": 84912,
-      "num": 248516,
-      "word": "姚晨画的自己",
-      "onboard_time": 1679724690,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 83553,
