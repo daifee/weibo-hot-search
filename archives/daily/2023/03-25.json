@@ -1,7 +1,15 @@
 {
   "startTime": 1679675078237,
-  "endTime": 1679708820818,
+  "endTime": 1679711594214,
   "band_list": [
+    {
+      "raw_hot": 1842758,
+      "num": 320316,
+      "word": "微博之夜彩排",
+      "onboard_time": 1679708965,
+      "rank": 12,
+      "category": "作品衍生"
+    },
     {
       "raw_hot": 1482967,
       "num": 1482967,
@@ -9,6 +17,14 @@
       "onboard_time": 1679700498,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1288598,
+      "num": 392185,
+      "word": "肉泥",
+      "onboard_time": 1679706206,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1115573,
@@ -33,14 +49,6 @@
       "onboard_time": 1679701641,
       "rank": 1,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 882332,
-      "num": 392185,
-      "word": "肉泥",
-      "onboard_time": 1679706206,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 844636,
@@ -75,11 +83,35 @@
       "category": "情感"
     },
     {
+      "raw_hot": 673516,
+      "num": 673516,
+      "word": "青岛二号线偶遇文东恩了",
+      "onboard_time": 1679706623,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 667275,
       "num": 399425,
       "word": "疑似孙女炫富涉事局长退休前成立公司",
       "onboard_time": 1679652448,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 639572,
+      "num": 639572,
+      "word": "乘客地铁脱鞋男子将鞋踢出车厢",
+      "onboard_time": 1679709445,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 627404,
+      "num": 373390,
+      "word": "纪委回应前交通局长孙女炫富",
+      "onboard_time": 1679675543,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -147,11 +179,19 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 493755,
-      "num": 373390,
-      "word": "纪委回应前交通局长孙女炫富",
-      "onboard_time": 1679675543,
-      "rank": 30,
+      "raw_hot": 488816,
+      "num": 488816,
+      "word": "光渊",
+      "onboard_time": 1679708965,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 486645,
+      "num": 486645,
+      "word": "女子被骚扰搜集证据后领导当面道歉",
+      "onboard_time": 1679708786,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -177,14 +217,6 @@
       "onboard_time": 1679673806,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 426886,
-      "num": 373340,
-      "word": "青岛二号线偶遇文东恩了",
-      "onboard_time": 1679706623,
-      "rank": 16,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 426026,
@@ -235,8 +267,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 353037,
-      "num": 353037,
+      "raw_hot": 371982,
+      "num": 371982,
       "word": "计算机二级",
       "onboard_time": 1679703926,
       "rank": 14,
@@ -257,6 +289,14 @@
       "onboard_time": 1679673927,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 318266,
+      "num": 318266,
+      "word": "戈登摩尔去世",
+      "onboard_time": 1679708005,
+      "rank": 19,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 291277,
@@ -283,14 +323,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 269828,
-      "num": 269828,
-      "word": "戈登摩尔去世",
-      "onboard_time": 1679708005,
-      "rank": 19,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 252881,
       "num": 252881,
       "word": "中国说唱巅峰对决",
@@ -305,6 +337,14 @@
       "onboard_time": 1679656288,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 247217,
+      "num": 188525,
+      "word": "张大大不敢穿这套走红毯",
+      "onboard_time": 1679711365,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 241128,
@@ -339,6 +379,14 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 233564,
+      "num": 233564,
+      "word": "宋亚轩黑色马甲卫衣叠穿",
+      "onboard_time": 1679708905,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 229582,
       "num": 229582,
       "word": "聂小雨假死",
@@ -347,19 +395,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 229105,
+      "num": 229105,
+      "word": "为救女儿父亲毫不犹豫跳入井中",
+      "onboard_time": 1679709986,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 214351,
+      "num": 210110,
+      "word": "王勉在小孩洗澡盆找到自己位置",
+      "onboard_time": 1679708126,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 211547,
       "num": 211547,
       "word": "庞博发长文告别最强大脑",
       "onboard_time": 1679703863,
       "rank": 25,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 210110,
-      "num": 210110,
-      "word": "王勉在小孩洗澡盆找到自己位置",
-      "onboard_time": 1679708126,
-      "rank": 26,
       "category": "综艺"
     },
     {
@@ -432,6 +488,22 @@
       "word": "苏醒的粤语",
       "onboard_time": 1679671530,
       "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 176163,
+      "num": 176163,
+      "word": "坐着大巴边吃火锅边赏景",
+      "onboard_time": 1679708845,
+      "rank": 32,
+      "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 175902,
+      "num": 175902,
+      "word": "沙溢在张杰眼皮底下作弊",
+      "onboard_time": 1679708905,
+      "rank": 33,
       "category": "综艺"
     },
     {
@@ -539,6 +611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 125493,
+      "num": 125493,
+      "word": "白敬亭卡点视频",
+      "onboard_time": 1679709146,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 125094,
       "num": 125094,
       "word": "心疼白宇鹏",
@@ -577,6 +657,14 @@
       "onboard_time": 1679654668,
       "rank": 38,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 121694,
+      "num": 121694,
+      "word": "老师用一张白纸讲述语言暴力",
+      "onboard_time": 1679711006,
+      "rank": 41,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 120470,
@@ -659,20 +747,28 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 95146,
-      "num": 95146,
-      "word": "女子被骚扰搜集证据后领导当面道歉",
-      "onboard_time": 1679708786,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 90850,
       "num": 90850,
       "word": "冰冻芒果有多好吃",
       "onboard_time": 1679668770,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 86183,
+      "num": 96785,
+      "word": "上海嘉里中心排队领瑜伽裤",
+      "onboard_time": 1679709867,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 67516,
+      "num": 331038,
+      "word": "中国冬奥天团齐聚微博之夜",
+      "onboard_time": 1679711126,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 67366,

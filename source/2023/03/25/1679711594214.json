@@ -1,0 +1,410 @@
+{
+  "runTime": 1679711594214,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1159135,
+        "num": 1159135,
+        "word": "清华学生发现诺奖背景报告笔误",
+        "onboard_time": 1679700498,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 825627,
+        "num": 825627,
+        "word": "刘烨说孩子重回公众视野顺其自然",
+        "onboard_time": 1679703264,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 36181,
+        "num": 715158,
+        "word": "中国杂交水稻推广到数十国家和地区",
+        "onboard_time": 1679667452,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 673516,
+        "num": 673516,
+        "word": "青岛二号线偶遇文东恩了",
+        "onboard_time": 1679706623,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 639572,
+        "num": 639572,
+        "word": "乘客地铁脱鞋男子将鞋踢出车厢",
+        "onboard_time": 1679709445,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 488816,
+        "num": 488816,
+        "word": "光渊",
+        "onboard_time": 1679708965,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 486645,
+        "num": 486645,
+        "word": "女子被骚扰搜集证据后领导当面道歉",
+        "onboard_time": 1679708786,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371982,
+        "num": 371982,
+        "word": "计算机二级",
+        "onboard_time": 1679703926,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 332335,
+        "num": 332335,
+        "word": "警犬在木炭中嗅出毛肚等走私货物",
+        "onboard_time": 1679702605,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67516,
+        "num": 331038,
+        "word": "中国冬奥天团齐聚微博之夜",
+        "onboard_time": 1679711126,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1288598,
+        "num": 326037,
+        "word": "肉泥",
+        "onboard_time": 1679706206,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 627404,
+        "num": 322794,
+        "word": "纪委回应前交通局长孙女炫富",
+        "onboard_time": 1679675543,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1842758,
+        "num": 320316,
+        "word": "微博之夜彩排",
+        "onboard_time": 1679708965,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 318266,
+        "num": 318266,
+        "word": "戈登摩尔去世",
+        "onboard_time": 1679708005,
+        "rank": 13,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 293382,
+        "num": 293382,
+        "word": "冯小刚称促成宋佳王阳二搭是恰巧",
+        "onboard_time": 1679702844,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 287750,
+        "num": 287750,
+        "word": "泰山门票",
+        "onboard_time": 1679701641,
+        "rank": 15,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 287007,
+        "num": 287007,
+        "word": "律师谈马原疑不让儿子就医去世",
+        "onboard_time": 1679702784,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266959,
+        "num": 266959,
+        "word": "心疼一诺",
+        "onboard_time": 1679668470,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 250753,
+        "num": 250753,
+        "word": "赛琳娜为海莉发声",
+        "onboard_time": 1679662409,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245572,
+        "num": 245572,
+        "word": "肖战米兰时装周拍摄花絮视频",
+        "onboard_time": 1679703985,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 315008,
+        "num": 240259,
+        "word": "王俊凯微博之夜机场路透",
+        "onboard_time": 1679704704,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 233564,
+        "num": 233564,
+        "word": "宋亚轩黑色马甲卫衣叠穿",
+        "onboard_time": 1679708905,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 229105,
+        "num": 229105,
+        "word": "为救女儿父亲毫不犹豫跳入井中",
+        "onboard_time": 1679709986,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261878,
+        "num": 211156,
+        "word": "微博之夜女明星宣传VCR",
+        "onboard_time": 1679703323,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 189432,
+        "num": 189432,
+        "word": "柯南小黑当主角了",
+        "onboard_time": 1679706086,
+        "rank": 24,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 214351,
+        "num": 189377,
+        "word": "王勉在小孩洗澡盆找到自己位置",
+        "onboard_time": 1679708126,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247217,
+        "num": 188525,
+        "word": "张大大不敢穿这套走红毯",
+        "onboard_time": 1679711365,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 204886,
+        "num": 188054,
+        "word": "蔡徐坤把帆布包挂脖子上",
+        "onboard_time": 1679701159,
+        "rank": 27,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 192013,
+        "num": 187825,
+        "word": "毛晓彤新剧收视率破2",
+        "onboard_time": 1679667151,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187367,
+        "num": 187367,
+        "word": "妈妈教育大女儿别让着妹妹委屈自己",
+        "onboard_time": 1679703445,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180149,
+        "num": 180149,
+        "word": "中国说唱巅峰对决",
+        "onboard_time": 1679703863,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177223,
+        "num": 177223,
+        "word": "张萌没想到听说你喜欢我爆了",
+        "onboard_time": 1679673927,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176163,
+        "num": 176163,
+        "word": "坐着大巴边吃火锅边赏景",
+        "onboard_time": 1679708845,
+        "rank": 32,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 175902,
+        "num": 175902,
+        "word": "沙溢在张杰眼皮底下作弊",
+        "onboard_time": 1679708905,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168915,
+        "num": 168915,
+        "word": "90后情侣3年攒100万裸辞飞荷兰",
+        "onboard_time": 1679660248,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156067,
+        "num": 156067,
+        "word": "疑似孙女炫富涉事局长退休前成立公司",
+        "onboard_time": 1679652448,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148705,
+        "num": 148705,
+        "word": "2023考研复试调剂全攻略",
+        "onboard_time": 1679703803,
+        "rank": 36,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 145731,
+        "num": 145731,
+        "word": "不建议在室内养郁金香",
+        "onboard_time": 1679673026,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141583,
+        "num": 141583,
+        "word": "深圳6折人才房卖不动",
+        "onboard_time": 1679666609,
+        "rank": 38,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 135605,
+        "num": 135605,
+        "word": "他是谁断更",
+        "onboard_time": 1679700498,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 125493,
+        "num": 125493,
+        "word": "白敬亭卡点视频",
+        "onboard_time": 1679709146,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 121694,
+        "num": 121694,
+        "word": "老师用一张白纸讲述语言暴力",
+        "onboard_time": 1679711006,
+        "rank": 41,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 116662,
+        "num": 116662,
+        "word": "警方通报宁波一车撞人后倒回碾压",
+        "onboard_time": 1679685912,
+        "rank": 42,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 115610,
+        "num": 115610,
+        "word": "刘少林刘少昂加入天津短道速滑队",
+        "onboard_time": 1679666849,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114802,
+        "num": 114802,
+        "word": "大侦探木偶2故事线",
+        "onboard_time": 1679672846,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107645,
+        "num": 107645,
+        "word": "年轻人摆摊主打自己想吃",
+        "onboard_time": 1679677519,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100552,
+        "num": 100552,
+        "word": "庞博发长文告别最强大脑",
+        "onboard_time": 1679703863,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100278,
+        "num": 100278,
+        "word": "法国4比0荷兰",
+        "onboard_time": 1679700618,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97512,
+        "num": 97512,
+        "word": "华晨宇熬整晚等魏如萱起床对歌",
+        "onboard_time": 1679699177,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86183,
+        "num": 96785,
+        "word": "上海嘉里中心排队领瑜伽裤",
+        "onboard_time": 1679709867,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#从春天再出发#"
+    }
+  }
+}
