@@ -1,6 +1,6 @@
 {
   "startTime": 1679675078237,
-  "endTime": 1679739443941,
+  "endTime": 1679740403078,
   "band_list": [
     {
       "raw_hot": 27113842,
@@ -19,6 +19,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 13065470,
+      "num": 410760,
+      "word": "微博之夜",
+      "onboard_time": 1679739222,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 10731492,
       "num": 740704,
       "word": "刘亦菲孔雀公主",
@@ -27,16 +35,8 @@
       "category": "艺人,影视"
     },
     {
-      "raw_hot": 9143267,
-      "num": 255402,
-      "word": "微博之夜",
-      "onboard_time": 1679739222,
-      "rank": 10,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 8379556,
-      "num": 247881,
+      "raw_hot": 9756965,
+      "num": 367197,
       "word": "微博之夜百花齐放",
       "onboard_time": 1679739121,
       "rank": 13,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 2457487,
-      "num": 202144,
+      "num": 247881,
       "word": "85花都是高定",
       "onboard_time": 1679738209,
       "rank": 28,
@@ -212,7 +212,7 @@
     },
     {
       "raw_hot": 1447772,
-      "num": 1447772,
+      "num": 3086916,
       "word": "铃芽之旅",
       "onboard_time": 1679728418,
       "rank": 8,
@@ -275,7 +275,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1155611,
+      "raw_hot": 1196120,
       "num": 1155611,
       "word": "哈尔滨清理编外人员释放什么信号",
       "onboard_time": 1679735919,
@@ -539,12 +539,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 602698,
+      "num": 221674,
+      "word": "龚俊你好闪",
+      "onboard_time": 1679737619,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 591299,
       "num": 208211,
       "word": "坐等微博之夜开始",
       "onboard_time": 1679713524,
       "rank": 26,
       "category": "作品衍生,幽默"
+    },
+    {
+      "raw_hot": 590826,
+      "num": 274799,
+      "word": "张凌赫湿发",
+      "onboard_time": 1679739121,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 572513,
@@ -667,14 +683,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 430056,
-      "num": 251936,
-      "word": "张凌赫湿发",
-      "onboard_time": 1679739121,
-      "rank": 11,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 426026,
       "num": 426026,
       "word": "深圳6折人才房卖不动",
@@ -787,6 +795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 325425,
+      "num": 284622,
+      "word": "警方通报女子遭多名男子殴打",
+      "onboard_time": 1679738399,
+      "rank": 35,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 318266,
       "num": 318266,
       "word": "戈登摩尔去世",
@@ -816,6 +832,14 @@
       "word": "为救女儿父亲毫不犹豫跳入井中",
       "onboard_time": 1679709986,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 297522,
+      "num": 297522,
+      "word": "复兴号往返京沪能省5000度电",
+      "onboard_time": 1679737200,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -867,12 +891,28 @@
       "category": "社会正能量,作品衍生"
     },
     {
+      "raw_hot": 280821,
+      "num": 280821,
+      "word": "金博洋",
+      "onboard_time": 1679737079,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 271207,
       "num": 733982,
       "word": "铃芽之旅票房破2亿",
       "onboard_time": 1679729201,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 270710,
+      "num": 270710,
+      "word": "可是我不想去罗马",
+      "onboard_time": 1679737006,
+      "rank": 29,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 270301,
@@ -883,12 +923,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 266364,
+      "num": 724056,
+      "word": "这小狗的身体是拼接的吧",
+      "onboard_time": 1679736238,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 264992,
       "num": 264992,
       "word": "檀健次丁程鑫跳大貔貅",
       "onboard_time": 1679714127,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 264428,
+      "num": 264428,
+      "word": "李荣浩演唱会",
+      "onboard_time": 1679740304,
+      "rank": 18,
+      "category": "音乐"
     },
     {
       "raw_hot": 260174,
@@ -899,12 +955,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 259577,
-      "num": 259577,
-      "word": "金博洋",
-      "onboard_time": 1679737079,
-      "rank": 8,
-      "category": "体育"
+      "raw_hot": 257139,
+      "num": 257139,
+      "word": "大学最后悔学的专业是什么",
+      "onboard_time": 1679739174,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 255767,
@@ -931,19 +987,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 247305,
+      "num": 247305,
+      "word": "XYG春季赛淘汰",
+      "onboard_time": 1679738878,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 241128,
       "num": 241128,
       "word": "妈妈教育大女儿别让着妹妹委屈自己",
       "onboard_time": 1679703445,
       "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 240802,
-      "num": 240802,
-      "word": "复兴号往返京沪能省5000度电",
-      "onboard_time": 1679737200,
-      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -953,14 +1009,6 @@
       "onboard_time": 1679724928,
       "rank": 33,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 237845,
-      "num": 724056,
-      "word": "这小狗的身体是拼接的吧",
-      "onboard_time": 1679736238,
-      "rank": 27,
-      "category": "幽默"
     },
     {
       "raw_hot": 237295,
@@ -1003,6 +1051,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 231512,
+      "num": 717032,
+      "word": "南京汉堡节",
+      "onboard_time": 1679735982,
+      "rank": 34,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 229582,
       "num": 229582,
       "word": "聂小雨假死",
@@ -1017,14 +1073,6 @@
       "onboard_time": 1679713885,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 218835,
-      "num": 717032,
-      "word": "南京汉堡节",
-      "onboard_time": 1679735982,
-      "rank": 34,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 217499,
@@ -1091,11 +1139,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 204840,
-      "num": 204840,
-      "word": "XYG春季赛淘汰",
-      "onboard_time": 1679738878,
-      "rank": 23,
+      "raw_hot": 202315,
+      "num": 222122,
+      "word": "WE战胜XYG",
+      "onboard_time": 1679739222,
+      "rank": 32,
       "category": "游戏"
     },
     {
@@ -1187,16 +1235,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 186043,
-      "num": 202057,
-      "word": "可是我不想去罗马",
-      "onboard_time": 1679737006,
-      "rank": 29,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 185728,
-      "num": 201874,
+      "num": 221845,
       "word": "佩恩虞姬五杀",
       "onboard_time": 1679738521,
       "rank": 30,
@@ -1339,14 +1379,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 158722,
-      "num": 201715,
-      "word": "WE战胜XYG",
-      "onboard_time": 1679739222,
-      "rank": 32,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 155990,
       "num": 718629,
       "word": "难怪浪漫都在下雨天",
@@ -1425,14 +1457,6 @@
       "onboard_time": 1679723250,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 135905,
-      "num": 201296,
-      "word": "警方通报女子遭多名男子殴打",
-      "onboard_time": 1679738399,
-      "rank": 35,
-      "category": "社会负面"
     },
     {
       "raw_hot": 135411,
@@ -1563,6 +1587,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 120641,
+      "num": 221897,
+      "word": "谷爱凌微博之夜造型",
+      "onboard_time": 1679739360,
+      "rank": 39,
+      "category": "体育,作品衍生"
+    },
+    {
       "raw_hot": 120548,
       "num": 120548,
       "word": "WTT新乡冠军赛2023",
@@ -1619,6 +1651,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 109540,
+      "num": 221791,
+      "word": "女子取钱后账户却莫名进账",
+      "onboard_time": 1679739060,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 108877,
       "num": 230940,
       "word": "为了纪念青春买了EXO的正规二辑",
@@ -1667,12 +1707,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 98413,
-      "num": 199717,
-      "word": "大学最后悔学的专业是什么",
-      "onboard_time": 1679739174,
-      "rank": 49,
-      "category": "情感"
+      "raw_hot": 99118,
+      "num": 221691,
+      "word": "让你的朋友结婚吧",
+      "onboard_time": 1679738954,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 97966,
@@ -1723,14 +1763,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 91312,
-      "num": 200841,
-      "word": "谷爱凌微博之夜造型",
-      "onboard_time": 1679739360,
-      "rank": 39,
-      "category": "体育,作品衍生"
-    },
-    {
       "raw_hot": 90850,
       "num": 90850,
       "word": "冰冻芒果有多好吃",
@@ -1740,7 +1772,7 @@
     },
     {
       "raw_hot": 88641,
-      "num": 243558,
+      "num": 295110,
       "word": "延时记录微博之夜舞台搭建",
       "onboard_time": 1679737257,
       "rank": 14,
@@ -1763,6 +1795,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 83526,
+      "num": 395154,
+      "word": "冬奥电竞两大天团同框",
+      "onboard_time": 1679737257,
+      "rank": 9,
+      "category": "社会新闻,作品衍生"
+    },
+    {
       "raw_hot": 82526,
       "num": 459373,
       "word": "邓亚萍微博之夜看弹幕比心",
@@ -1777,14 +1817,6 @@
       "onboard_time": 1679725769,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 71945,
-      "num": 258827,
-      "word": "冬奥电竞两大天团同框",
-      "onboard_time": 1679737257,
-      "rank": 9,
-      "category": "社会新闻,作品衍生"
     },
     {
       "raw_hot": 67366,

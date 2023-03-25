@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679739443941,
+  "endTime": 1679740403078,
   "band_list": [
     {
       "raw_hot": 27113842,
@@ -16,6 +16,14 @@
       "word": "微博之夜 红毯",
       "onboard_time": 1679726791,
       "rank": 15,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 13065470,
+      "num": 1477737,
+      "word": "微博之夜",
+      "onboard_time": 1679224408,
+      "rank": 28,
       "category": "作品衍生"
     },
     {
@@ -35,16 +43,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 9143267,
-      "num": 1477737,
-      "word": "微博之夜",
-      "onboard_time": 1679224408,
-      "rank": 28,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 8379556,
-      "num": 247881,
+      "raw_hot": 9756965,
+      "num": 367197,
       "word": "微博之夜百花齐放",
       "onboard_time": 1679739121,
       "rank": 13,
@@ -284,7 +284,7 @@
     },
     {
       "raw_hot": 2457487,
-      "num": 202144,
+      "num": 247881,
       "word": "85花都是高定",
       "onboard_time": 1679738209,
       "rank": 28,
@@ -876,7 +876,7 @@
     },
     {
       "raw_hot": 1447772,
-      "num": 1447772,
+      "num": 3086916,
       "word": "铃芽之旅",
       "onboard_time": 1679728418,
       "rank": 8,
@@ -1315,6 +1315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1196120,
+      "num": 1155611,
+      "word": "哈尔滨清理编外人员释放什么信号",
+      "onboard_time": 1679735919,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1183316,
       "num": 869199,
       "word": "疑似孙女炫富涉事局长退休前成立公司",
@@ -1345,14 +1353,6 @@
       "onboard_time": 1679324312,
       "rank": 19,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1155611,
-      "num": 1155611,
-      "word": "哈尔滨清理编外人员释放什么信号",
-      "onboard_time": 1679735919,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1148088,
@@ -3475,6 +3475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 602698,
+      "num": 221674,
+      "word": "龚俊你好闪",
+      "onboard_time": 1679737619,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 601795,
       "num": 601795,
       "word": "泰国游有平替吗",
@@ -3545,6 +3553,14 @@
       "onboard_time": 1679442626,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 590826,
+      "num": 274799,
+      "word": "张凌赫湿发",
+      "onboard_time": 1679739121,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 590759,
@@ -4923,14 +4939,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 430056,
-      "num": 251936,
-      "word": "张凌赫湿发",
-      "onboard_time": 1679739121,
-      "rank": 11,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 429756,
       "num": 429756,
       "word": "张俪海边一字马",
@@ -6115,6 +6123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 325425,
+      "num": 284622,
+      "word": "警方通报女子遭多名男子殴打",
+      "onboard_time": 1679738399,
+      "rank": 35,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 325335,
       "num": 322037,
       "word": "爱情而已定档",
@@ -6563,6 +6579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 297522,
+      "num": 297522,
+      "word": "复兴号往返京沪能省5000度电",
+      "onboard_time": 1679737200,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 297330,
       "num": 297330,
       "word": "什么土豆要等三年才吃",
@@ -6995,6 +7019,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 270710,
+      "num": 270710,
+      "word": "可是我不想去罗马",
+      "onboard_time": 1679737006,
+      "rank": 29,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 270530,
       "num": 270530,
       "word": "薛之谦演唱会 南昌",
@@ -7067,6 +7099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 266364,
+      "num": 724056,
+      "word": "这小狗的身体是拼接的吧",
+      "onboard_time": 1679736238,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 265374,
       "num": 265374,
       "word": "湖南高校回应悄悄往贫困生餐卡打钱",
@@ -7104,6 +7144,14 @@
       "word": "韩红七年后第一次开演唱会",
       "onboard_time": 1679627009,
       "rank": 29,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 264428,
+      "num": 264428,
+      "word": "李荣浩演唱会",
+      "onboard_time": 1679740304,
+      "rank": 18,
       "category": "音乐"
     },
     {
@@ -7217,6 +7265,14 @@
       "onboard_time": 1679720312,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 257139,
+      "num": 257139,
+      "word": "大学最后悔学的专业是什么",
+      "onboard_time": 1679739174,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 256723,
@@ -7443,6 +7499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 247305,
+      "num": 247305,
+      "word": "XYG春季赛淘汰",
+      "onboard_time": 1679738878,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 246525,
       "num": 246525,
       "word": "一诺暖阳Cat出席微博之夜",
@@ -7651,14 +7715,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 240802,
-      "num": 240802,
-      "word": "复兴号往返京沪能省5000度电",
-      "onboard_time": 1679737200,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 240684,
       "num": 240684,
       "word": "爱情而已不断更",
@@ -7745,14 +7801,6 @@
       "onboard_time": 1679531609,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 237845,
-      "num": 724056,
-      "word": "这小狗的身体是拼接的吧",
-      "onboard_time": 1679736238,
-      "rank": 27,
-      "category": "幽默"
     },
     {
       "raw_hot": 237813,
@@ -7905,6 +7953,14 @@
       "onboard_time": 1679560771,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 231512,
+      "num": 717032,
+      "word": "南京汉堡节",
+      "onboard_time": 1679735982,
+      "rank": 34,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 231168,
@@ -8265,14 +8321,6 @@
       "onboard_time": 1679284171,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 218835,
-      "num": 717032,
-      "word": "南京汉堡节",
-      "onboard_time": 1679735982,
-      "rank": 34,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 218339,
@@ -8811,14 +8859,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 204840,
-      "num": 204840,
-      "word": "XYG春季赛淘汰",
-      "onboard_time": 1679738878,
-      "rank": 23,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 204703,
       "num": 204703,
       "word": "刘阅微发声明",
@@ -8945,6 +8985,14 @@
       "onboard_time": 1679544209,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 202315,
+      "num": 222122,
+      "word": "WE战胜XYG",
+      "onboard_time": 1679739222,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 202128,
@@ -9723,14 +9771,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 186043,
-      "num": 202057,
-      "word": "可是我不想去罗马",
-      "onboard_time": 1679737006,
-      "rank": 29,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 185863,
       "num": 185863,
       "word": "艾怡良陈卓璇千年之恋摇滚舞台",
@@ -9748,7 +9788,7 @@
     },
     {
       "raw_hot": 185728,
-      "num": 201874,
+      "num": 221845,
       "word": "佩恩虞姬五杀",
       "onboard_time": 1679738521,
       "rank": 30,
@@ -10771,14 +10811,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 158722,
-      "num": 201715,
-      "word": "WE战胜XYG",
-      "onboard_time": 1679739222,
-      "rank": 32,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 158645,
       "num": 158645,
       "word": "深海",
@@ -11539,14 +11571,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 135905,
-      "num": 201296,
-      "word": "警方通报女子遭多名男子殴打",
-      "onboard_time": 1679738399,
-      "rank": 35,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 135686,
       "num": 135686,
       "word": "归路",
@@ -12147,6 +12171,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 120641,
+      "num": 221897,
+      "word": "谷爱凌微博之夜造型",
+      "onboard_time": 1679739360,
+      "rank": 39,
+      "category": "体育,作品衍生"
+    },
+    {
       "raw_hot": 120548,
       "num": 120548,
       "word": "WTT新乡冠军赛2023",
@@ -12369,6 +12401,14 @@
       "onboard_time": 1679379447,
       "rank": 47,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 109540,
+      "num": 221791,
+      "word": "女子取钱后账户却莫名进账",
+      "onboard_time": 1679739060,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 109235,
@@ -12619,20 +12659,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 99118,
+      "num": 221691,
+      "word": "让你的朋友结婚吧",
+      "onboard_time": 1679738954,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 99051,
       "num": 99051,
       "word": "曼联3比1富勒姆",
       "onboard_time": 1679267901,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 98413,
-      "num": 199717,
-      "word": "大学最后悔学的专业是什么",
-      "onboard_time": 1679739174,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 98255,
@@ -12755,14 +12795,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 91312,
-      "num": 200841,
-      "word": "谷爱凌微博之夜造型",
-      "onboard_time": 1679739360,
-      "rank": 39,
-      "category": "体育,作品衍生"
-    },
-    {
       "raw_hot": 91184,
       "num": 198167,
       "word": "买豪车的人在买啥",
@@ -12780,7 +12812,7 @@
     },
     {
       "raw_hot": 88641,
-      "num": 243558,
+      "num": 295110,
       "word": "延时记录微博之夜舞台搭建",
       "onboard_time": 1679737257,
       "rank": 14,
@@ -12833,6 +12865,14 @@
       "onboard_time": 1679232571,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 83526,
+      "num": 395154,
+      "word": "冬奥电竞两大天团同框",
+      "onboard_time": 1679737257,
+      "rank": 9,
+      "category": "社会新闻,作品衍生"
     },
     {
       "raw_hot": 82858,
@@ -12921,14 +12961,6 @@
       "onboard_time": 1679392948,
       "rank": 49,
       "category": "科技"
-    },
-    {
-      "raw_hot": 71945,
-      "num": 258827,
-      "word": "冬奥电竞两大天团同框",
-      "onboard_time": 1679737257,
-      "rank": 9,
-      "category": "社会新闻,作品衍生"
     },
     {
       "raw_hot": 66327,
