@@ -1,0 +1,410 @@
+{
+  "runTime": 1679762307428,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3945479,
+        "num": 3945479,
+        "word": "刘亦菲微博Queen",
+        "onboard_time": 1679755019,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 3228253,
+        "num": 3228253,
+        "word": "赵灵儿李逍遥的十年之约",
+        "onboard_time": 1679755628,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 49785,
+        "num": 2527887,
+        "word": "读懂中国式现代化",
+        "onboard_time": 1679748111,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2376831,
+        "num": 2376831,
+        "word": "杨紫肖战同框",
+        "onboard_time": 1679760274,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 2241379,
+        "num": 2241379,
+        "word": "胡歌微博King",
+        "onboard_time": 1679755019,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1822720,
+        "num": 1822720,
+        "word": "微博之夜合照",
+        "onboard_time": 1679757055,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 882530,
+        "num": 1774968,
+        "word": "因航班延误缺考复试考研生崩溃大哭",
+        "onboard_time": 1679743424,
+        "rank": 6,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 453309,
+        "num": 1749943,
+        "word": "当事人回应因航班延误缺考研究生复试",
+        "onboard_time": 1679758783,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368080,
+        "num": 1646133,
+        "word": "离职最后一天还被安排工作",
+        "onboard_time": 1679746318,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 320582,
+        "num": 1568246,
+        "word": "哈尔滨一居民小区内发生爆炸",
+        "onboard_time": 1679759741,
+        "rank": 9,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1537205,
+        "num": 1537205,
+        "word": "杨幂刘诗诗牵手上台",
+        "onboard_time": 1679755921,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1123157,
+        "num": 1123157,
+        "word": "微博之夜",
+        "onboard_time": 1679739222,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1118592,
+        "num": 1118592,
+        "word": "微博之夜百花齐放",
+        "onboard_time": 1679739121,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 273044,
+        "num": 1107901,
+        "word": "住杭州豪宅的人每天多工作38分钟",
+        "onboard_time": 1679741262,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254886,
+        "num": 1106686,
+        "word": "大学最后悔学的专业是什么",
+        "onboard_time": 1679739174,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1106377,
+        "num": 1106377,
+        "word": "王鹤棣虞书欣白鹿修罗场",
+        "onboard_time": 1679745647,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 771609,
+        "num": 771609,
+        "word": "迪丽热巴wink",
+        "onboard_time": 1679751112,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 207777,
+        "num": 693437,
+        "word": "突然收到高中同学的一封邮件",
+        "onboard_time": 1679740661,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 144517,
+        "num": 688069,
+        "word": "坠落",
+        "onboard_time": 1679743066,
+        "rank": 18,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 74628,
+        "num": 687553,
+        "word": "内蒙古省考",
+        "onboard_time": 1679746794,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 687481,
+        "num": 687481,
+        "word": "微博之夜座位",
+        "onboard_time": 1679742106,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 624740,
+        "num": 624740,
+        "word": "关晓彤 下班跑得快已到机场",
+        "onboard_time": 1679756278,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 174751,
+        "num": 463139,
+        "word": "wink状态",
+        "onboard_time": 1679755254,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 148632,
+        "num": 459790,
+        "word": "女子取钱后账户却莫名进账",
+        "onboard_time": 1679739060,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133155,
+        "num": 459451,
+        "word": "警方通报女子遭多名男子殴打",
+        "onboard_time": 1679738399,
+        "rank": 24,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 459194,
+        "num": 459194,
+        "word": "85花同台",
+        "onboard_time": 1679753695,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 413461,
+        "num": 413461,
+        "word": "毛不易演唱会",
+        "onboard_time": 1679760395,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 383954,
+        "num": 383954,
+        "word": "张译包场张颂文的新电影",
+        "onboard_time": 1679749188,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 73884,
+        "num": 382308,
+        "word": "领克08",
+        "onboard_time": 1679746849,
+        "rank": 28,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 32395,
+        "num": 381897,
+        "word": "随手拍春天",
+        "onboard_time": 1679753216,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 381709,
+        "num": 381709,
+        "word": "王一博钻石胸针",
+        "onboard_time": 1679741922,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 374592,
+        "num": 374592,
+        "word": "张大大以主持人身份加盟剧好听的歌",
+        "onboard_time": 1679758661,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 350563,
+        "num": 350563,
+        "word": "郑容和当林俊杰演唱会嘉宾",
+        "onboard_time": 1679750328,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 104132,
+        "num": 334709,
+        "word": "这在传单界都是难以拒绝的",
+        "onboard_time": 1679758247,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 76589,
+        "num": 324887,
+        "word": "狼队对战eStar",
+        "onboard_time": 1679755254,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 319136,
+        "num": 319136,
+        "word": "邓超激动得像是买票进场的",
+        "onboard_time": 1679745347,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 59466,
+        "num": 316197,
+        "word": "369奶奶现场观赛",
+        "onboard_time": 1679740720,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 56579,
+        "num": 312175,
+        "word": "放在整个广告界也是相当炸裂",
+        "onboard_time": 1679741079,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 55373,
+        "num": 307345,
+        "word": "可是我不想去罗马",
+        "onboard_time": 1679737006,
+        "rank": 38,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 44478,
+        "num": 302501,
+        "word": "河北邢台发生3.3级地震",
+        "onboard_time": 1679745168,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298247,
+        "num": 298247,
+        "word": "微博之夜世纪同框",
+        "onboard_time": 1679746251,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 255193,
+        "num": 255193,
+        "word": "痛仰 深圳",
+        "onboard_time": 1679752613,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 181430,
+        "num": 254877,
+        "word": "李荣浩演唱会",
+        "onboard_time": 1679740304,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 266473,
+        "num": 253919,
+        "word": "蔡徐坤扔墨镜",
+        "onboard_time": 1679749550,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 154874,
+        "num": 252159,
+        "word": "铃芽之旅",
+        "onboard_time": 1679728418,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 52070,
+        "num": 250818,
+        "word": "这小狗的身体是拼接的吧",
+        "onboard_time": 1679736238,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 77131,
+        "num": 250605,
+        "word": "龚俊你好闪",
+        "onboard_time": 1679737619,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 36715,
+        "num": 248528,
+        "word": "马拉松的羊毛算是薅明白了",
+        "onboard_time": 1679751656,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 31398,
+        "num": 247563,
+        "word": "金博洋自由滑129.18分",
+        "onboard_time": 1679740481,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26088,
+        "num": 247203,
+        "word": "榜样7",
+        "onboard_time": 1679746732,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#共建美好世界的最大公约数#"
+    }
+  }
+}
