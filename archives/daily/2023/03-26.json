@@ -1,6 +1,6 @@
 {
   "startTime": 1679761328845,
-  "endTime": 1679780013877,
+  "endTime": 1679782618119,
   "band_list": [
     {
       "raw_hot": 5965286,
@@ -371,6 +371,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 74390,
+      "num": 41730,
+      "word": "肖战ES高定",
+      "onboard_time": 1679740423,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 70112,
       "num": 316197,
       "word": "369奶奶现场观赛",
@@ -417,14 +425,6 @@
       "onboard_time": 1679737006,
       "rank": 45,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 55167,
-      "num": 41130,
-      "word": "肖战ES高定",
-      "onboard_time": 1679740423,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 55012,
@@ -491,6 +491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 36685,
+      "num": 36685,
+      "word": "苏州医生在湖南培训顺手救人",
+      "onboard_time": 1679780592,
+      "rank": 19,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 33669,
       "num": 305869,
       "word": "榜样7",
@@ -531,7 +539,7 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 23959,
+      "raw_hot": 24828,
       "num": 36983,
       "word": "笑容逐渐消失的狗子",
       "onboard_time": 1679775312,
@@ -545,6 +553,14 @@
       "onboard_time": 1679746732,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 13691,
+      "num": 34994,
+      "word": "黄蜂战胜独行侠",
+      "onboard_time": 1679780532,
+      "rank": 39,
+      "category": "体育"
     }
   ],
   "hotgov_list": [

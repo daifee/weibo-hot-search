@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679780013877,
+  "endTime": 1679782618119,
   "band_list": [
     {
       "raw_hot": 27113842,
@@ -51539,6 +51539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 36685,
+      "num": 36685,
+      "word": "苏州医生在湖南培训顺手救人",
+      "onboard_time": 1679780592,
+      "rank": 19,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 36377,
       "num": 567686,
       "word": "全国政协开幕会全场高唱国歌",
@@ -51859,20 +51867,20 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 24828,
+      "num": 36983,
+      "word": "笑容逐渐消失的狗子",
+      "onboard_time": 1679775312,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 24354,
       "num": 161830,
       "word": "FPX战胜RA",
       "onboard_time": 1678749139,
       "rank": 9,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 23959,
-      "num": 36983,
-      "word": "笑容逐渐消失的狗子",
-      "onboard_time": 1679775312,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 23024,
@@ -51985,6 +51993,14 @@
       "onboard_time": 1678296675,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13691,
+      "num": 34994,
+      "word": "黄蜂战胜独行侠",
+      "onboard_time": 1679780532,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 12119,
