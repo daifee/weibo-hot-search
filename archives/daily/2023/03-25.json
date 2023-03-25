@@ -1,6 +1,6 @@
 {
   "startTime": 1679675078237,
-  "endTime": 1679718919572,
+  "endTime": 1679721342506,
   "band_list": [
     {
       "raw_hot": 2688396,
@@ -19,8 +19,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 2057145,
-      "num": 352461,
+      "raw_hot": 2144676,
+      "num": 362367,
       "word": "明星微博之夜出图",
       "onboard_time": 1679715267,
       "rank": 13,
@@ -35,12 +35,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1698661,
+      "num": 1698661,
+      "word": "叠纸拉黑",
+      "onboard_time": 1679718027,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 1504842,
+      "num": 1504842,
+      "word": "男子被骗柬埔寨500天被倒卖5次",
+      "onboard_time": 1679718568,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1482967,
       "num": 1482967,
       "word": "清华学生发现诺奖背景报告笔误",
       "onboard_time": 1679700498,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1479858,
+      "num": 240562,
+      "word": "欧阳娜娜妆造",
+      "onboard_time": 1679719828,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1380860,
@@ -56,6 +80,14 @@
       "word": "金晨微博之夜自带盒饭",
       "onboard_time": 1679712747,
       "rank": 20,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1324220,
+      "num": 207707,
+      "word": "虞书欣水墨白花黑裙",
+      "onboard_time": 1679721029,
+      "rank": 27,
       "category": "作品衍生"
     },
     {
@@ -179,12 +211,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 628020,
+      "num": 345878,
+      "word": "周星驰林俊杰见面",
+      "onboard_time": 1679720552,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 627404,
       "num": 452358,
       "word": "纪委回应前交通局长孙女炫富",
       "onboard_time": 1679675543,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 626980,
+      "num": 626980,
+      "word": "当谭松韵AI换脸白敬亭",
+      "onboard_time": 1679717848,
+      "rank": 22,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 608670,
@@ -217,14 +265,6 @@
       "onboard_time": 1679713524,
       "rank": 26,
       "category": "作品衍生,幽默"
-    },
-    {
-      "raw_hot": 582427,
-      "num": 582427,
-      "word": "当谭松韵AI换脸白敬亭",
-      "onboard_time": 1679717848,
-      "rank": 22,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 572513,
@@ -411,14 +451,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 354113,
-      "num": 354113,
-      "word": "叠纸拉黑",
-      "onboard_time": 1679718027,
-      "rank": 48,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 346786,
       "num": 346786,
       "word": "张雨绮微博之夜礼服",
@@ -433,6 +465,22 @@
       "onboard_time": 1679673927,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 328891,
+      "num": 328891,
+      "word": "大熊猫谊谊升谊将回国",
+      "onboard_time": 1679719288,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 326990,
+      "num": 326990,
+      "word": "张艺兴再次为街舞打call",
+      "onboard_time": 1679718929,
+      "rank": 15,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 318266,
@@ -515,6 +563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 255767,
+      "num": 255767,
+      "word": "光与夜之恋",
+      "onboard_time": 1679718268,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 252881,
       "num": 252881,
       "word": "中国说唱巅峰对决",
@@ -539,8 +595,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 240668,
+      "num": 240668,
+      "word": "齐司礼新卡",
+      "onboard_time": 1679720312,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 237295,
-      "num": 786576,
+      "num": 1095002,
       "word": "2023考研复试调剂全攻略",
       "onboard_time": 1679703803,
       "rank": 19,
@@ -577,6 +641,14 @@
       "onboard_time": 1679654067,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 221782,
+      "num": 221782,
+      "word": "雷霆vs湖人",
+      "onboard_time": 1679713885,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 217499,
@@ -619,12 +691,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 205279,
-      "num": 205279,
-      "word": "光与夜之恋",
-      "onboard_time": 1679718268,
-      "rank": 22,
-      "category": "游戏"
+      "raw_hot": 206562,
+      "num": 100331,
+      "word": "周笔畅露背西装",
+      "onboard_time": 1679721091,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 205094,
@@ -771,6 +843,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 162012,
+      "num": 162012,
+      "word": "你肯定拍过这种写真",
+      "onboard_time": 1679719888,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 161453,
+      "num": 572908,
+      "word": "邓亚萍电竞天团跨界同框",
+      "onboard_time": 1679717787,
+      "rank": 5,
+      "category": "游戏,作品衍生"
+    },
+    {
       "raw_hot": 161377,
       "num": 136063,
       "word": "NCTDREAM说中文",
@@ -785,6 +873,14 @@
       "onboard_time": 1679714788,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 155811,
+      "num": 155811,
+      "word": "恋与制作人",
+      "onboard_time": 1679720968,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 154781,
@@ -867,14 +963,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 126249,
-      "num": 126249,
-      "word": "男子被骗柬埔寨500天被倒卖5次",
-      "onboard_time": 1679718568,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 125615,
       "num": 125615,
       "word": "地球一小时之外我们能做什么",
@@ -899,20 +987,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124839,
+      "num": 124839,
+      "word": "76人vs勇士",
+      "onboard_time": 1679718929,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 123809,
       "num": 123809,
       "word": "不得不承认这鱼汤是真的鲜",
       "onboard_time": 1679669311,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 123783,
-      "num": 123783,
-      "word": "雷霆vs湖人",
-      "onboard_time": 1679713885,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 123642,
@@ -995,20 +1083,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 113125,
-      "num": 572908,
-      "word": "邓亚萍电竞天团跨界同框",
-      "onboard_time": 1679717787,
-      "rank": 5,
-      "category": "游戏,作品衍生"
-    },
-    {
       "raw_hot": 108877,
       "num": 108877,
       "word": "为了纪念青春买了EXO的正规二辑",
       "onboard_time": 1679716347,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 107917,
+      "num": 107917,
+      "word": "大乔新星元10选3",
+      "onboard_time": 1679720670,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 105908,
@@ -1068,7 +1156,7 @@
     },
     {
       "raw_hot": 92991,
-      "num": 96785,
+      "num": 327435,
       "word": "上海嘉里中心排队领瑜伽裤",
       "onboard_time": 1679709867,
       "rank": 49,
@@ -1089,6 +1177,14 @@
       "onboard_time": 1679668770,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 82516,
+      "num": 641426,
+      "word": "汶川哥哥也来微博之夜了",
+      "onboard_time": 1679721091,
+      "rank": 5,
+      "category": "社会正能量,作品衍生"
     },
     {
       "raw_hot": 67366,
@@ -1132,7 +1228,7 @@
     },
     {
       "raw_hot": 42351,
-      "num": 400511,
+      "num": 657805,
       "word": "甘宇罗永倪太高相见了",
       "onboard_time": 1679717607,
       "rank": 9,
@@ -1217,6 +1313,14 @@
       "onboard_time": 1679681594,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 24620,
+      "num": 385658,
+      "word": "邓亚萍微博之夜看弹幕比心",
+      "onboard_time": 1679721091,
+      "rank": 9,
+      "category": "体育,作品衍生"
     }
   ],
   "hotgov_list": [
