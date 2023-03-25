@@ -1,6 +1,6 @@
 {
   "startTime": 1679761328845,
-  "endTime": 1679778861464,
+  "endTime": 1679780013877,
   "band_list": [
     {
       "raw_hot": 5965286,
@@ -419,6 +419,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 55167,
+      "num": 41130,
+      "word": "肖战ES高定",
+      "onboard_time": 1679740423,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 55012,
       "num": 87496,
       "word": "崔杋圭舞台点燃玫瑰",
@@ -433,14 +441,6 @@
       "onboard_time": 1679736238,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 52809,
-      "num": 41130,
-      "word": "肖战ES高定",
-      "onboard_time": 1679740423,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 49750,
@@ -531,20 +531,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 23959,
+      "num": 36983,
+      "word": "笑容逐渐消失的狗子",
+      "onboard_time": 1679775312,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 22851,
       "num": 86029,
       "word": "你好星期六",
       "onboard_time": 1679746732,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 20107,
-      "num": 33140,
-      "word": "笑容逐渐消失的狗子",
-      "onboard_time": 1679775312,
-      "rank": 38,
-      "category": "幽默"
     }
   ],
   "hotgov_list": [
