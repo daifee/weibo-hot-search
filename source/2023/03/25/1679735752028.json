@@ -1,0 +1,410 @@
+{
+  "runTime": 1679735752028,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1207050,
+        "num": 1207050,
+        "word": "铃芽之旅",
+        "onboard_time": 1679728418,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 898567,
+        "num": 898567,
+        "word": "刘少林回应加入天津队",
+        "onboard_time": 1679732916,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80195,
+        "num": 838448,
+        "word": "太空视角感受地球气象万千",
+        "onboard_time": 1679733537,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2022287,
+        "num": 815769,
+        "word": "明星微博之夜出图",
+        "onboard_time": 1679715267,
+        "rank": 3,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 77583,
+        "num": 790463,
+        "word": "与奥运天团共赴微博之夜",
+        "onboard_time": 1679730296,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 784224,
+        "num": 784224,
+        "word": "张颂文说票房不是电影好坏唯一标准",
+        "onboard_time": 1679734137,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 427431,
+        "num": 427431,
+        "word": "师兄求导师收留的方式",
+        "onboard_time": 1679725527,
+        "rank": 6,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 321544,
+        "num": 321544,
+        "word": "深圳暴雨",
+        "onboard_time": 1679721391,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288694,
+        "num": 288694,
+        "word": "大熊猫萌兰究竟有多聪明",
+        "onboard_time": 1679727032,
+        "rank": 8,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 116521,
+        "num": 270082,
+        "word": "重庆救火英雄来微博之夜了",
+        "onboard_time": 1679730236,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4662949,
+        "num": 263706,
+        "word": "刘亦菲孔雀公主",
+        "onboard_time": 1679734177,
+        "rank": 10,
+        "category": "艺人,影视"
+      },
+      {
+        "raw_hot": 359718,
+        "num": 261718,
+        "word": "叠纸拉黑",
+        "onboard_time": 1679718027,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 257081,
+        "num": 257081,
+        "word": "周星驰林俊杰见面",
+        "onboard_time": 1679720552,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 3016905,
+        "num": 256168,
+        "word": "李一桐是公主吧",
+        "onboard_time": 1679733891,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 225805,
+        "num": 225805,
+        "word": "拜登称为中国鼓掌后改口",
+        "onboard_time": 1679713286,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213892,
+        "num": 213892,
+        "word": "铃芽之旅票房破2亿",
+        "onboard_time": 1679729201,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 212430,
+        "num": 212430,
+        "word": "当谭松韵AI换脸白敬亭",
+        "onboard_time": 1679717848,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203660,
+        "num": 212421,
+        "word": "无锡鼋头渚雨中赏樱",
+        "onboard_time": 1679730874,
+        "rank": 17,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 203570,
+        "num": 212327,
+        "word": "AG菲菲",
+        "onboard_time": 1679734012,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 198717,
+        "num": 212276,
+        "word": "马龙珠海赛车场活动",
+        "onboard_time": 1679735060,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2523189,
+        "num": 212203,
+        "word": "杨幂红玫瑰",
+        "onboard_time": 1679731595,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 995575,
+        "num": 212174,
+        "word": "许可馨",
+        "onboard_time": 1679732144,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175136,
+        "num": 212089,
+        "word": "驻泰使馆回应涉泰旅游问题",
+        "onboard_time": 1679726192,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2425532,
+        "num": 212071,
+        "word": "虞书欣红毯生图",
+        "onboard_time": 1679731902,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 171715,
+        "num": 212023,
+        "word": "猫咪的不服全写在脸上",
+        "onboard_time": 1679724928,
+        "rank": 24,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 141459,
+        "num": 211967,
+        "word": "这还有聚餐的必要吗",
+        "onboard_time": 1679721568,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 2082516,
+        "num": 211889,
+        "word": "王鹤棣好贵",
+        "onboard_time": 1679726312,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 136166,
+        "num": 211815,
+        "word": "大熊猫谊谊升谊将回国",
+        "onboard_time": 1679719288,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100484,
+        "num": 211783,
+        "word": "为救女儿父亲毫不犹豫跳入井中",
+        "onboard_time": 1679709986,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1656448,
+        "num": 211708,
+        "word": "刘诗诗醒狮项链",
+        "onboard_time": 1679733953,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 165142,
+        "num": 211677,
+        "word": "吴磊说周雨彤全世界最适合梁友安",
+        "onboard_time": 1679728538,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 91200,
+        "num": 211570,
+        "word": "T1对战KT",
+        "onboard_time": 1679726500,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 12494622,
+        "num": 211531,
+        "word": "微博之夜 红毯",
+        "onboard_time": 1679726791,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 87977,
+        "num": 211475,
+        "word": "在做题和作弊之间他选择了作法",
+        "onboard_time": 1679714426,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87108,
+        "num": 211406,
+        "word": "张艺兴再次为街舞打call",
+        "onboard_time": 1679718929,
+        "rank": 34,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 1105939,
+        "num": 211346,
+        "word": "唐嫣好甜美",
+        "onboard_time": 1679732555,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 86383,
+        "num": 211306,
+        "word": "恋与制作人",
+        "onboard_time": 1679720968,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 81703,
+        "num": 211241,
+        "word": "乘客地铁脱鞋男子将鞋踢出车厢",
+        "onboard_time": 1679709445,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 865131,
+        "num": 211204,
+        "word": "杨颖黑天鹅",
+        "onboard_time": 1679735744,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 12128,
+        "num": 211139,
+        "word": "被冬奥天团出发照A到了",
+        "onboard_time": 1679734858,
+        "rank": 39,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 81438,
+        "num": 211090,
+        "word": "齐司礼新卡",
+        "onboard_time": 1679720312,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 734022,
+        "num": 211022,
+        "word": "许凯就这么走红毯吧",
+        "onboard_time": 1679730992,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 76979,
+        "num": 210946,
+        "word": "你肯定拍过这种写真",
+        "onboard_time": 1679719888,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 72785,
+        "num": 210925,
+        "word": "八段锦教程",
+        "onboard_time": 1679717787,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 711323,
+        "num": 210817,
+        "word": "张大大戴麦走红毯",
+        "onboard_time": 1679732801,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 67401,
+        "num": 210784,
+        "word": "这才是工作的意义",
+        "onboard_time": 1679713349,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 59610,
+        "num": 210743,
+        "word": "难怪浪漫都在下雨天",
+        "onboard_time": 1679735637,
+        "rank": 46,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 1055049,
+        "num": 210689,
+        "word": "齐思钧李莎旻子主持微博之夜红毯",
+        "onboard_time": 1679730992,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 615634,
+        "num": 210598,
+        "word": "王楚然的镜子照的是张凌赫吗",
+        "onboard_time": 1679725711,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 708181,
+        "num": 210545,
+        "word": "白鹿胎毛刘海",
+        "onboard_time": 1679721509,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#从春天再出发#"
+    }
+  }
+}
