@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679736807720,
+  "endTime": 1679739443941,
   "band_list": [
     {
       "raw_hot": 27113842,
@@ -67,12 +67,28 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 9143267,
+      "num": 1477737,
+      "word": "微博之夜",
+      "onboard_time": 1678702526,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 8882317,
       "num": 13595049,
       "word": "习近平当选中央军委主席",
       "onboard_time": 1678418423,
       "rank": 1,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 8379556,
+      "num": 247881,
+      "word": "微博之夜百花齐放",
+      "onboard_time": 1679739121,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 8343319,
@@ -403,6 +419,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 3014561,
+      "num": 728041,
+      "word": "杨颖黑天鹅",
+      "onboard_time": 1679735744,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 3003512,
       "num": 746340,
       "word": "中科大取消造谣男生录取资格",
@@ -720,6 +744,14 @@
       "word": "虞书欣真的瘦好多",
       "onboard_time": 1679723969,
       "rank": 36,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 2457487,
+      "num": 202144,
+      "word": "85花都是高定",
+      "onboard_time": 1679738209,
+      "rank": 28,
       "category": "作品衍生"
     },
     {
@@ -1153,14 +1185,6 @@
       "onboard_time": 1677850647,
       "rank": 1,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 2067066,
-      "num": 728041,
-      "word": "杨颖黑天鹅",
-      "onboard_time": 1679735744,
-      "rank": 38,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 2062064,
@@ -1857,6 +1881,14 @@
       "onboard_time": 1677895525,
       "rank": 18,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1730392,
+      "num": 718954,
+      "word": "白鹿穿的是平菇吗",
+      "onboard_time": 1679735861,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1729967,
@@ -2563,14 +2595,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1506923,
-      "num": 718954,
-      "word": "白鹿穿的是平菇吗",
-      "onboard_time": 1679735861,
-      "rank": 32,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 1504656,
       "num": 1504656,
       "word": "白敬亭对井柏然说哥我错了下次还敢",
@@ -2691,20 +2715,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1480630,
+      "num": 707830,
+      "word": "张婧仪用的什么洗发水",
+      "onboard_time": 1679736599,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1479858,
       "num": 240562,
       "word": "欧阳娜娜妆造",
       "onboard_time": 1679719828,
       "rank": 20,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1477737,
-      "num": 1477737,
-      "word": "微博之夜",
-      "onboard_time": 1678702526,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 1473978,
@@ -4401,6 +4425,14 @@
       "onboard_time": 1677663149,
       "rank": 46,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 1155611,
+      "num": 1155611,
+      "word": "哈尔滨清理编外人员释放什么信号",
+      "onboard_time": 1679735919,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1154007,
@@ -10001,14 +10033,6 @@
       "onboard_time": 1678444107,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 707830,
-      "num": 707830,
-      "word": "张婧仪用的什么洗发水",
-      "onboard_time": 1679736599,
-      "rank": 44,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 707541,
@@ -18481,6 +18505,14 @@
       "onboard_time": 1678973370,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 430056,
+      "num": 251936,
+      "word": "张凌赫湿发",
+      "onboard_time": 1679739121,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 429938,
@@ -29827,6 +29859,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 240802,
+      "num": 240802,
+      "word": "复兴号往返京沪能省5000度电",
+      "onboard_time": 1679737200,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 240731,
       "num": 1125957,
       "word": "十四届全国人大一次会议闭幕会",
@@ -30057,6 +30097,14 @@
       "onboard_time": 1679531609,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 237845,
+      "num": 724056,
+      "word": "这小狗的身体是拼接的吧",
+      "onboard_time": 1679736238,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 237843,
@@ -31483,14 +31531,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 224266,
-      "num": 735856,
-      "word": "哈尔滨清理编外人员释放什么信号",
-      "onboard_time": 1679735919,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 224264,
       "num": 491150,
       "word": "狗狗示意主人开门的方式",
@@ -32121,6 +32161,14 @@
       "onboard_time": 1678618465,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 218835,
+      "num": 717032,
+      "word": "南京汉堡节",
+      "onboard_time": 1679735982,
+      "rank": 34,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 218406,
@@ -33993,6 +34041,14 @@
       "onboard_time": 1678115606,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 204840,
+      "num": 204840,
+      "word": "XYG春季赛淘汰",
+      "onboard_time": 1679738878,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 204791,
@@ -36523,6 +36579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 193285,
+      "num": 720625,
+      "word": "大学生旅游主打一个效率",
+      "onboard_time": 1679736238,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 193181,
       "num": 193181,
       "word": "一秒入夏的连衣裙",
@@ -37851,6 +37915,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 186043,
+      "num": 202057,
+      "word": "可是我不想去罗马",
+      "onboard_time": 1679737006,
+      "rank": 29,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 186021,
       "num": 186021,
       "word": "微博之夜答题赛",
@@ -37929,6 +38001,14 @@
       "onboard_time": 1678260803,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 185728,
+      "num": 201874,
+      "word": "佩恩虞姬五杀",
+      "onboard_time": 1679738521,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 185708,
@@ -41219,6 +41299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158722,
+      "num": 201715,
+      "word": "WE战胜XYG",
+      "onboard_time": 1679739222,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 158679,
       "num": 212403,
       "word": "2023看两会",
@@ -41545,6 +41633,14 @@
       "onboard_time": 1679382209,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 155990,
+      "num": 718629,
+      "word": "难怪浪漫都在下雨天",
+      "onboard_time": 1679735637,
+      "rank": 46,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 155978,
@@ -43211,14 +43307,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 143149,
-      "num": 724056,
-      "word": "这小狗的身体是拼接的吧",
-      "onboard_time": 1679736238,
-      "rank": 27,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 143120,
       "num": 232044,
       "word": "王曼昱说自己成熟了",
@@ -44193,6 +44281,14 @@
       "onboard_time": 1679274329,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 135905,
+      "num": 201296,
+      "word": "警方通报女子遭多名男子殴打",
+      "onboard_time": 1679738399,
+      "rank": 35,
+      "category": "社会负面"
     },
     {
       "raw_hot": 135881,
@@ -47195,6 +47291,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 110539,
+      "num": 200708,
+      "word": "OMG战胜BLG",
+      "onboard_time": 1679737200,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 110475,
       "num": 110475,
       "word": "业主合力掀翻挡道车辆为消防车让行",
@@ -47305,14 +47409,6 @@
       "onboard_time": 1678073486,
       "rank": 42,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 109051,
-      "num": 720625,
-      "word": "大学生旅游主打一个效率",
-      "onboard_time": 1679736238,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 109034,
@@ -48347,6 +48443,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 98413,
+      "num": 199717,
+      "word": "大学最后悔学的专业是什么",
+      "onboard_time": 1679739174,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 98285,
       "num": 206057,
       "word": "重紫伤心哭到不能自已",
@@ -48385,14 +48489,6 @@
       "onboard_time": 1679728597,
       "rank": 38,
       "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 97808,
-      "num": 718629,
-      "word": "难怪浪漫都在下雨天",
-      "onboard_time": 1679735637,
-      "rank": 46,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 97771,
@@ -48843,6 +48939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 91312,
+      "num": 200841,
+      "word": "谷爱凌微博之夜造型",
+      "onboard_time": 1679739360,
+      "rank": 39,
+      "category": "体育,作品衍生"
+    },
+    {
       "raw_hot": 91282,
       "num": 91282,
       "word": "iG花式解读电影龙与地下城",
@@ -48987,6 +49091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 88641,
+      "num": 243558,
+      "word": "延时记录微博之夜舞台搭建",
+      "onboard_time": 1679737257,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 88495,
       "num": 88495,
       "word": "植树节",
@@ -49089,14 +49201,6 @@
       "onboard_time": 1677973400,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 86642,
-      "num": 717032,
-      "word": "南京汉堡节",
-      "onboard_time": 1679735982,
-      "rank": 34,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 86432,
@@ -49769,6 +49873,14 @@
       "onboard_time": 1677765871,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 71945,
+      "num": 258827,
+      "word": "冬奥电竞两大天团同框",
+      "onboard_time": 1679737257,
+      "rank": 9,
+      "category": "社会新闻,作品衍生"
     },
     {
       "raw_hot": 71417,

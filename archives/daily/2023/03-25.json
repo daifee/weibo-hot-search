@@ -1,6 +1,6 @@
 {
   "startTime": 1679675078237,
-  "endTime": 1679736807720,
+  "endTime": 1679739443941,
   "band_list": [
     {
       "raw_hot": 27113842,
@@ -25,6 +25,22 @@
       "onboard_time": 1679734177,
       "rank": 10,
       "category": "艺人,影视"
+    },
+    {
+      "raw_hot": 9143267,
+      "num": 255402,
+      "word": "微博之夜",
+      "onboard_time": 1679739222,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 8379556,
+      "num": 247881,
+      "word": "微博之夜百花齐放",
+      "onboard_time": 1679739121,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 4481815,
@@ -56,6 +72,14 @@
       "word": "李一桐是公主吧",
       "onboard_time": 1679733891,
       "rank": 13,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 3014561,
+      "num": 728041,
+      "word": "杨颖黑天鹅",
+      "onboard_time": 1679735744,
+      "rank": 38,
       "category": "作品衍生"
     },
     {
@@ -99,6 +123,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 2457487,
+      "num": 202144,
+      "word": "85花都是高定",
+      "onboard_time": 1679738209,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 2404773,
       "num": 815769,
       "word": "明星微博之夜出图",
@@ -107,20 +139,20 @@
       "category": "作品衍生,幽默"
     },
     {
-      "raw_hot": 2067066,
-      "num": 728041,
-      "word": "杨颖黑天鹅",
-      "onboard_time": 1679735744,
-      "rank": 38,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 1770181,
       "num": 1504842,
       "word": "男子被骗柬埔寨500天被倒卖5次",
       "onboard_time": 1679718568,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1730392,
+      "num": 718954,
+      "word": "白鹿穿的是平菇吗",
+      "onboard_time": 1679735861,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1698661,
@@ -155,20 +187,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1506923,
-      "num": 718954,
-      "word": "白鹿穿的是平菇吗",
-      "onboard_time": 1679735861,
-      "rank": 32,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 1482967,
       "num": 1482967,
       "word": "清华学生发现诺奖背景报告笔误",
       "onboard_time": 1679700498,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1480630,
+      "num": 707830,
+      "word": "张婧仪用的什么洗发水",
+      "onboard_time": 1679736599,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1479858,
@@ -241,6 +273,14 @@
       "onboard_time": 1679706206,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1155611,
+      "num": 1155611,
+      "word": "哈尔滨清理编外人员释放什么信号",
+      "onboard_time": 1679735919,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1115573,
@@ -435,14 +475,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 707830,
-      "num": 707830,
-      "word": "张婧仪用的什么洗发水",
-      "onboard_time": 1679736599,
-      "rank": 44,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 686136,
       "num": 738621,
       "word": "周星驰林俊杰见面",
@@ -633,6 +665,14 @@
       "onboard_time": 1679673806,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 430056,
+      "num": 251936,
+      "word": "张凌赫湿发",
+      "onboard_time": 1679739121,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 426026,
@@ -859,6 +899,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 259577,
+      "num": 259577,
+      "word": "金博洋",
+      "onboard_time": 1679737079,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 255767,
       "num": 255767,
       "word": "光与夜之恋",
@@ -891,12 +939,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 240802,
+      "num": 240802,
+      "word": "复兴号往返京沪能省5000度电",
+      "onboard_time": 1679737200,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 240178,
       "num": 726968,
       "word": "猫咪的不服全写在脸上",
       "onboard_time": 1679724928,
       "rank": 33,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 237845,
+      "num": 724056,
+      "word": "这小狗的身体是拼接的吧",
+      "onboard_time": 1679736238,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 237295,
@@ -947,20 +1011,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 224266,
-      "num": 735856,
-      "word": "哈尔滨清理编外人员释放什么信号",
-      "onboard_time": 1679735919,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 221782,
       "num": 248377,
       "word": "雷霆vs湖人",
       "onboard_time": 1679713885,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 218835,
+      "num": 717032,
+      "word": "南京汉堡节",
+      "onboard_time": 1679735982,
+      "rank": 34,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 217499,
@@ -1027,6 +1091,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 204840,
+      "num": 204840,
+      "word": "XYG春季赛淘汰",
+      "onboard_time": 1679738878,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 202053,
       "num": 180149,
       "word": "钟汉良唐嫣唱跳晴雅集",
@@ -1057,6 +1129,14 @@
       "onboard_time": 1679708905,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193285,
+      "num": 720625,
+      "word": "大学生旅游主打一个效率",
+      "onboard_time": 1679736238,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 193134,
@@ -1105,6 +1185,22 @@
       "onboard_time": 1679721568,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 186043,
+      "num": 202057,
+      "word": "可是我不想去罗马",
+      "onboard_time": 1679737006,
+      "rank": 29,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 185728,
+      "num": 201874,
+      "word": "佩恩虞姬五杀",
+      "onboard_time": 1679738521,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 185708,
@@ -1243,6 +1339,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 158722,
+      "num": 201715,
+      "word": "WE战胜XYG",
+      "onboard_time": 1679739222,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 155990,
+      "num": 718629,
+      "word": "难怪浪漫都在下雨天",
+      "onboard_time": 1679735637,
+      "rank": 46,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 154781,
       "num": 154781,
       "word": "法国4比0荷兰",
@@ -1283,14 +1395,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 143149,
-      "num": 724056,
-      "word": "这小狗的身体是拼接的吧",
-      "onboard_time": 1679736238,
-      "rank": 27,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 139840,
       "num": 139840,
       "word": "华晨宇熬整晚等魏如萱起床对歌",
@@ -1321,6 +1425,14 @@
       "onboard_time": 1679723250,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 135905,
+      "num": 201296,
+      "word": "警方通报女子遭多名男子殴打",
+      "onboard_time": 1679738399,
+      "rank": 35,
+      "category": "社会负面"
     },
     {
       "raw_hot": 135411,
@@ -1499,12 +1611,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 109051,
-      "num": 720625,
-      "word": "大学生旅游主打一个效率",
-      "onboard_time": 1679736238,
-      "rank": 31,
-      "category": "幽默"
+      "raw_hot": 110539,
+      "num": 200708,
+      "word": "OMG战胜BLG",
+      "onboard_time": 1679737200,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 108877,
@@ -1555,20 +1667,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 98413,
+      "num": 199717,
+      "word": "大学最后悔学的专业是什么",
+      "onboard_time": 1679739174,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 97966,
       "num": 231024,
       "word": "灌篮高手4号赤木刚宪出场",
       "onboard_time": 1679728597,
       "rank": 38,
       "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 97808,
-      "num": 718629,
-      "word": "难怪浪漫都在下雨天",
-      "onboard_time": 1679735637,
-      "rank": 46,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 97366,
@@ -1611,6 +1723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 91312,
+      "num": 200841,
+      "word": "谷爱凌微博之夜造型",
+      "onboard_time": 1679739360,
+      "rank": 39,
+      "category": "体育,作品衍生"
+    },
+    {
       "raw_hot": 90850,
       "num": 90850,
       "word": "冰冻芒果有多好吃",
@@ -1619,12 +1739,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 86642,
-      "num": 717032,
-      "word": "南京汉堡节",
-      "onboard_time": 1679735982,
-      "rank": 34,
-      "category": "美食,社会新闻"
+      "raw_hot": 88641,
+      "num": 243558,
+      "word": "延时记录微博之夜舞台搭建",
+      "onboard_time": 1679737257,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 84206,
@@ -1657,6 +1777,14 @@
       "onboard_time": 1679725769,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 71945,
+      "num": 258827,
+      "word": "冬奥电竞两大天团同框",
+      "onboard_time": 1679737257,
+      "rank": 9,
+      "category": "社会新闻,作品衍生"
     },
     {
       "raw_hot": 67366,
