@@ -1,6 +1,6 @@
 {
   "startTime": 1679675078237,
-  "endTime": 1679728506099,
+  "endTime": 1679729596011,
   "band_list": [
     {
       "raw_hot": 27113842,
@@ -8,6 +8,14 @@
       "word": "微博之夜红毯直播",
       "onboard_time": 1679726791,
       "rank": 10,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 23160566,
+      "num": 242180,
+      "word": "微博之夜 红毯",
+      "onboard_time": 1679726791,
+      "rank": 15,
       "category": "作品衍生"
     },
     {
@@ -51,20 +59,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 2459331,
+      "num": 408283,
+      "word": "虞书欣真的瘦好多",
+      "onboard_time": 1679723969,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 2144676,
       "num": 426769,
       "word": "明星微博之夜出图",
       "onboard_time": 1679715267,
       "rank": 13,
       "category": "作品衍生,幽默"
-    },
-    {
-      "raw_hot": 1772783,
-      "num": 249149,
-      "word": "虞书欣真的瘦好多",
-      "onboard_time": 1679723969,
-      "rank": 36,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1770181,
@@ -283,8 +291,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 672588,
-      "num": 672588,
+      "raw_hot": 683493,
+      "num": 683493,
       "word": "师兄求导师收留的方式",
       "onboard_time": 1679725527,
       "rank": 34,
@@ -459,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 456757,
+      "num": 456757,
+      "word": "铃芽之旅",
+      "onboard_time": 1679728418,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 446149,
       "num": 361807,
       "word": "张艺兴翅膀特效",
@@ -547,14 +563,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 348137,
-      "num": 348137,
-      "word": "铃芽之旅",
-      "onboard_time": 1679728418,
-      "rank": 8,
-      "category": "影视"
-    },
-    {
       "raw_hot": 346786,
       "num": 346786,
       "word": "张雨绮微博之夜礼服",
@@ -585,6 +593,14 @@
       "onboard_time": 1679718929,
       "rank": 15,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 326222,
+      "num": 326222,
+      "word": "吴磊说周雨彤全世界最适合梁友安",
+      "onboard_time": 1679728538,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 318266,
@@ -753,6 +769,14 @@
       "onboard_time": 1679708905,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 232733,
+      "num": 232733,
+      "word": "铃芽之旅票房破2亿",
+      "onboard_time": 1679729201,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 229582,
@@ -996,7 +1020,7 @@
     },
     {
       "raw_hot": 163405,
-      "num": 229476,
+      "num": 231065,
       "word": "心想事成大结局",
       "onboard_time": 1679728301,
       "rank": 25,
@@ -1268,7 +1292,7 @@
     },
     {
       "raw_hot": 108877,
-      "num": 182173,
+      "num": 230940,
       "word": "为了纪念青春买了EXO的正规二辑",
       "onboard_time": 1679716347,
       "rank": 45,
@@ -1313,6 +1337,14 @@
       "onboard_time": 1679714248,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 97966,
+      "num": 231024,
+      "word": "灌篮高手4号赤木刚宪出场",
+      "onboard_time": 1679728597,
+      "rank": 38,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 97366,
@@ -1363,7 +1395,7 @@
       "category": "美食"
     },
     {
-      "raw_hot": 83553,
+      "raw_hot": 84185,
       "num": 248486,
       "word": "看见好吃的连哈欠都不打了",
       "onboard_time": 1679726011,
