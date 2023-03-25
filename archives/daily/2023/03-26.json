@@ -1,6 +1,6 @@
 {
   "startTime": 1679761328845,
-  "endTime": 1679771580564,
+  "endTime": 1679772816713,
   "band_list": [
     {
       "raw_hot": 5965286,
@@ -387,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 62279,
+      "num": 62279,
+      "word": "仙剑一仙剑三剧粉都圆满了",
+      "onboard_time": 1679747446,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 61724,
       "num": 312175,
       "word": "放在整个广告界也是相当炸裂",
@@ -417,14 +425,6 @@
       "onboard_time": 1679766741,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 53935,
-      "num": 53935,
-      "word": "仙剑一仙剑三剧粉都圆满了",
-      "onboard_time": 1679747446,
-      "rank": 36,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 52911,
@@ -521,6 +521,14 @@
       "onboard_time": 1679746732,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 13036,
+      "num": 41535,
+      "word": "公司女更衣室装监控近十年",
+      "onboard_time": 1679772433,
+      "rank": 29,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
