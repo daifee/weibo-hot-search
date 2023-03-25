@@ -1,10 +1,18 @@
 {
   "startTime": 1679675078237,
-  "endTime": 1679712167706,
+  "endTime": 1679714287927,
   "band_list": [
     {
-      "raw_hot": 1842758,
-      "num": 383739,
+      "raw_hot": 2247693,
+      "num": 584527,
+      "word": "孔乙己",
+      "onboard_time": 1679711606,
+      "rank": 7,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 1888461,
+      "num": 520920,
       "word": "微博之夜彩排",
       "onboard_time": 1679708965,
       "rank": 12,
@@ -19,8 +27,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1340812,
+      "num": 219563,
+      "word": "金晨微博之夜自带盒饭",
+      "onboard_time": 1679712747,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1288598,
-      "num": 392185,
+      "num": 497005,
       "word": "肉泥",
       "onboard_time": 1679706206,
       "rank": 10,
@@ -49,6 +65,14 @@
       "onboard_time": 1679701641,
       "rank": 1,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 875394,
+      "num": 257231,
+      "word": "张大大不敢穿这套走红毯",
+      "onboard_time": 1679711365,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 844636,
@@ -99,7 +123,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 655133,
+      "raw_hot": 663422,
       "num": 655133,
       "word": "乘客地铁脱鞋男子将鞋踢出车厢",
       "onboard_time": 1679709445,
@@ -108,7 +132,7 @@
     },
     {
       "raw_hot": 627404,
-      "num": 373390,
+      "num": 452358,
       "word": "纪委回应前交通局长孙女炫富",
       "onboard_time": 1679675543,
       "rank": 30,
@@ -137,6 +161,22 @@
       "onboard_time": 1679667151,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 591299,
+      "num": 208211,
+      "word": "坐等微博之夜开始",
+      "onboard_time": 1679713524,
+      "rank": 26,
+      "category": "作品衍生,幽默"
+    },
+    {
+      "raw_hot": 573617,
+      "num": 573617,
+      "word": "拜登称为中国鼓掌后改口",
+      "onboard_time": 1679713286,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 560431,
@@ -195,14 +235,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 477388,
-      "num": 257231,
-      "word": "张大大不敢穿这套走红毯",
-      "onboard_time": 1679711365,
-      "rank": 26,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 462016,
       "num": 462016,
       "word": "90后情侣3年攒100万裸辞飞荷兰",
@@ -217,14 +249,6 @@
       "onboard_time": 1679659529,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 437509,
-      "num": 437509,
-      "word": "孔乙己",
-      "onboard_time": 1679711606,
-      "rank": 7,
-      "category": "情感"
     },
     {
       "raw_hot": 433570,
@@ -315,12 +339,28 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 305435,
+      "num": 229105,
+      "word": "为救女儿父亲毫不犹豫跳入井中",
+      "onboard_time": 1679709986,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 291277,
       "num": 291277,
       "word": "丫丫叼着竹子爬高高",
       "onboard_time": 1679657428,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 288997,
+      "num": 288997,
+      "word": "丁禹兮彭小苒床榻私语海报",
+      "onboard_time": 1679712747,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 284819,
@@ -364,7 +404,7 @@
     },
     {
       "raw_hot": 237295,
-      "num": 237295,
+      "num": 590232,
       "word": "2023考研复试调剂全攻略",
       "onboard_time": 1679703803,
       "rank": 19,
@@ -403,12 +443,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 229105,
-      "num": 229105,
-      "word": "为救女儿父亲毫不犹豫跳入井中",
-      "onboard_time": 1679709986,
+      "raw_hot": 217499,
+      "num": 217499,
+      "word": "黄旭喊话节目组",
+      "onboard_time": 1679712987,
       "rank": 22,
-      "category": "社会新闻"
+      "category": "综艺"
     },
     {
       "raw_hot": 214351,
@@ -416,6 +456,22 @@
       "word": "王勉在小孩洗澡盆找到自己位置",
       "onboard_time": 1679708126,
       "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 213961,
+      "num": 213961,
+      "word": "老师用一张白纸讲述语言暴力",
+      "onboard_time": 1679711006,
+      "rank": 41,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 212451,
+      "num": 212451,
+      "word": "檀健次丁程鑫跳大貔貅",
+      "onboard_time": 1679714127,
+      "rank": 25,
       "category": "综艺"
     },
     {
@@ -443,12 +499,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193922,
+      "num": 190790,
+      "word": "沙溢在张杰眼皮底下作弊",
+      "onboard_time": 1679708905,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193134,
       "num": 193134,
       "word": "警方通报宁波一车撞人后倒回碾压",
       "onboard_time": 1679685912,
       "rank": 48,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 192291,
+      "num": 192291,
+      "word": "易感人群竟是我自己",
+      "onboard_time": 1679713045,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 190047,
@@ -483,6 +555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 181626,
+      "num": 181626,
+      "word": "这才是工作的意义",
+      "onboard_time": 1679713349,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 180158,
       "num": 180158,
       "word": "大学的猫对大学生有多信任",
@@ -507,20 +587,28 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 175902,
-      "num": 175902,
-      "word": "沙溢在张杰眼皮底下作弊",
-      "onboard_time": 1679708905,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 175503,
       "num": 175503,
       "word": "娱乐圈过年了",
       "onboard_time": 1679658751,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 172038,
+      "num": 172038,
+      "word": "李帝努香港演唱会饭拍",
+      "onboard_time": 1679713463,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 170661,
+      "num": 170661,
+      "word": "老师疑让学生对墙坐半年",
+      "onboard_time": 1679713524,
+      "rank": 35,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 168653,
@@ -561,14 +649,6 @@
       "onboard_time": 1679650226,
       "rank": 32,
       "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 144089,
-      "num": 144089,
-      "word": "老师用一张白纸讲述语言暴力",
-      "onboard_time": 1679711006,
-      "rank": 41,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 139840,
@@ -691,6 +771,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 116730,
+      "num": 580770,
+      "word": "任子威微博之夜为全民运动点赞",
+      "onboard_time": 1679712026,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 114857,
       "num": 114857,
       "word": "胡歌现场演示换尿布",
@@ -705,6 +793,14 @@
       "onboard_time": 1679665529,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 113221,
+      "num": 113221,
+      "word": "雷霆vs湖人",
+      "onboard_time": 1679713885,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 105908,
@@ -763,20 +859,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 92653,
+      "num": 667245,
+      "word": "中国冬奥天团齐聚微博之夜",
+      "onboard_time": 1679711126,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 91293,
+      "num": 91293,
+      "word": "WTT新乡冠军赛2023",
+      "onboard_time": 1679714187,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 90850,
       "num": 90850,
       "word": "冰冻芒果有多好吃",
       "onboard_time": 1679668770,
       "rank": 48,
       "category": "美食"
-    },
-    {
-      "raw_hot": 74431,
-      "num": 667245,
-      "word": "中国冬奥天团齐聚微博之夜",
-      "onboard_time": 1679711126,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 67366,
@@ -899,12 +1003,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 18686,
-      "num": 388420,
-      "word": "任子威微博之夜为全民运动点赞",
-      "onboard_time": 1679712026,
+      "raw_hot": 6061,
+      "num": 521370,
+      "word": "凡人英雄相聚微博之夜",
+      "onboard_time": 1679714248,
       "rank": 9,
-      "category": "体育"
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -916,6 +1020,9 @@
     },
     {
       "word": "#每天认识一件文物#"
+    },
+    {
+      "word": "#世界瞩目的握手时刻#"
     }
   ]
 }
