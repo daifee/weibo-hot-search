@@ -1,6 +1,6 @@
 {
   "startTime": 1679761328845,
-  "endTime": 1679762307428,
+  "endTime": 1679764478682,
   "band_list": [
     {
       "raw_hot": 5965286,
@@ -35,19 +35,19 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 2245297,
+      "num": 2245297,
+      "word": "微博之夜合照",
+      "onboard_time": 1679757055,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1950641,
       "num": 1950641,
       "word": "杨幂刘诗诗牵手上台",
       "onboard_time": 1679755921,
       "rank": 5,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1822720,
-      "num": 1822720,
-      "word": "微博之夜合照",
-      "onboard_time": 1679757055,
-      "rank": 12,
       "category": "作品衍生"
     },
     {
@@ -179,6 +179,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 345085,
+      "num": 319136,
+      "word": "邓超激动得像是买票进场的",
+      "onboard_time": 1679745347,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 336368,
       "num": 306338,
       "word": "微博之夜世纪同框",
@@ -195,20 +203,20 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 319136,
-      "num": 319136,
-      "word": "邓超激动得像是买票进场的",
-      "onboard_time": 1679745347,
-      "rank": 41,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 306563,
       "num": 306563,
       "word": "痛仰 深圳",
       "onboard_time": 1679752613,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 295425,
+      "num": 283919,
+      "word": "蔡徐坤扔墨镜",
+      "onboard_time": 1679749550,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 294898,
@@ -225,14 +233,6 @@
       "onboard_time": 1679739174,
       "rank": 13,
       "category": "情感"
-    },
-    {
-      "raw_hot": 266473,
-      "num": 253919,
-      "word": "蔡徐坤扔墨镜",
-      "onboard_time": 1679749550,
-      "rank": 43,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 216045,
@@ -363,6 +363,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 60321,
+      "num": 206094,
+      "word": "张凌赫怎么不过来坐",
+      "onboard_time": 1679745587,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 59759,
       "num": 307345,
       "word": "可是我不想去罗马",
@@ -417,11 +425,22 @@
       "onboard_time": 1679746732,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29699,
+      "num": 203808,
+      "word": "WE战胜XYG",
+      "onboard_time": 1679739222,
+      "rank": 48,
+      "category": "游戏"
     }
   ],
   "hotgov_list": [
     {
       "word": "#共建美好世界的最大公约数#"
+    },
+    {
+      "word": "#世界瞩目的握手时刻#"
     }
   ]
 }
