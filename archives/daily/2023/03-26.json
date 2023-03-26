@@ -1,6 +1,6 @@
 {
   "startTime": 1679761328845,
-  "endTime": 1679823202446,
+  "endTime": 1679825849871,
   "band_list": [
     {
       "raw_hot": 5965286,
@@ -57,6 +57,14 @@
       "onboard_time": 1679760274,
       "rank": 4,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 2332822,
+      "num": 2332822,
+      "word": "胖东来",
+      "onboard_time": 1679822608,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2245297,
@@ -132,7 +140,7 @@
     },
     {
       "raw_hot": 1381349,
-      "num": 547431,
+      "num": 1064134,
       "word": "易烊千玺我可要坐直啦",
       "onboard_time": 1679818286,
       "rank": 15,
@@ -203,11 +211,27 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1127152,
+      "num": 1127152,
+      "word": "网传长月烬明将接档他是谁",
+      "onboard_time": 1679824948,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1058355,
       "num": 1058355,
       "word": "台外事部门紧急发出临时记者会通知",
       "onboard_time": 1679798066,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1054068,
+      "num": 198548,
+      "word": "夫妻备孕多年终于怀孕宝宝先天无耳廓",
+      "onboard_time": 1679824227,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -299,6 +323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 820713,
+      "num": 542353,
+      "word": "潘粤明看宋佳亲马丽的反应",
+      "onboard_time": 1679825789,
+      "rank": 6,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 818952,
       "num": 300930,
       "word": "明星微博之夜下班随拍",
@@ -379,6 +411,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 641597,
+      "num": 210864,
+      "word": "粉丝给王一博P的小丑海报",
+      "onboard_time": 1679823748,
+      "rank": 12,
+      "category": "作品衍生,幽默"
+    },
+    {
       "raw_hot": 639845,
       "num": 639845,
       "word": "他让日本人爱上麻婆豆腐",
@@ -419,6 +459,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 590601,
+      "num": 590601,
+      "word": "江西省考",
+      "onboard_time": 1679825129,
+      "rank": 5,
+      "category": "教育"
+    },
+    {
       "raw_hot": 545058,
       "num": 272843,
       "word": "迪丽热巴复古美学花絮",
@@ -441,14 +489,6 @@
       "onboard_time": 1679800709,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 514525,
-      "num": 514525,
-      "word": "胖东来",
-      "onboard_time": 1679822608,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 503981,
@@ -496,6 +536,14 @@
       "word": "陈伟霆说很想在林芝享受一下solo",
       "onboard_time": 1679807189,
       "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 497013,
+      "num": 238199,
+      "word": "向往的生活",
+      "onboard_time": 1679824948,
+      "rank": 10,
       "category": "综艺"
     },
     {
@@ -601,6 +649,14 @@
       "onboard_time": 1679750328,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 361493,
+      "num": 189983,
+      "word": "微博之夜高定礼服大总结",
+      "onboard_time": 1679824648,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 351661,
@@ -747,6 +803,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 270705,
+      "num": 202696,
+      "word": "NewJeans的OMG人歌一位",
+      "onboard_time": 1679824106,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 264623,
       "num": 263200,
       "word": "LadyGaga小丑2红衣路透",
@@ -819,6 +883,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 208273,
+      "num": 208273,
+      "word": "热烈的不是青春是大学生",
+      "onboard_time": 1679821707,
+      "rank": 27,
+      "category": "情感,教育"
+    },
+    {
       "raw_hot": 207363,
       "num": 237848,
       "word": "西湖湖心上演60分钟千年华服秀",
@@ -835,6 +907,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 206014,
+      "num": 185508,
+      "word": "啜妮是能抓住观众的",
+      "onboard_time": 1679825789,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 204595,
       "num": 306109,
       "word": "杨颖黑天鹅",
@@ -849,6 +929,22 @@
       "onboard_time": 1679821946,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 203755,
+      "num": 203755,
+      "word": "这就是无畏的坦野",
+      "onboard_time": 1679825610,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 202236,
+      "num": 202236,
+      "word": "RW侠",
+      "onboard_time": 1679824106,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 200015,
@@ -931,6 +1027,14 @@
       "category": "作品衍生,音乐"
     },
     {
+      "raw_hot": 190466,
+      "num": 190466,
+      "word": "吉克隽逸雷公电母头造型",
+      "onboard_time": 1679825728,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 190381,
       "num": 190381,
       "word": "KPL",
@@ -971,6 +1075,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 185081,
+      "num": 185081,
+      "word": "铃芽之旅成2023引进片票房冠军",
+      "onboard_time": 1679825129,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 184297,
       "num": 125046,
       "word": "朴志晟香港演唱会舞台",
@@ -995,12 +1107,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 174650,
+      "num": 187919,
+      "word": "GEN对战HLE",
+      "onboard_time": 1679825067,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 171953,
       "num": 236725,
       "word": "谷爱凌好可爱",
       "onboard_time": 1679745954,
       "rank": 8,
       "category": "体育,作品衍生"
+    },
+    {
+      "raw_hot": 171830,
+      "num": 116658,
+      "word": "宋亚轩微博之夜舞台直拍",
+      "onboard_time": 1679823388,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 171745,
@@ -1043,14 +1171,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 161841,
-      "num": 190238,
-      "word": "热烈的不是青春是大学生",
-      "onboard_time": 1679821707,
-      "rank": 27,
-      "category": "情感,教育"
-    },
-    {
       "raw_hot": 161310,
       "num": 300958,
       "word": "苏州医生在湖南培训顺手救人",
@@ -1067,12 +1187,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 158983,
+      "num": 83156,
+      "word": "张婧仪回应用什么洗发水",
+      "onboard_time": 1679825668,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 158933,
       "num": 272122,
       "word": "老人病危床前叮嘱家人照顾老伴",
       "onboard_time": 1679799209,
       "rank": 20,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 156212,
+      "num": 156212,
+      "word": "怎么混进了个假布娃娃",
+      "onboard_time": 1679825067,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 153735,
@@ -1092,7 +1228,7 @@
     },
     {
       "raw_hot": 148075,
-      "num": 548038,
+      "num": 1089828,
       "word": "一句话安利大家到你家乡旅游",
       "onboard_time": 1679817567,
       "rank": 2,
@@ -1115,8 +1251,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 125086,
-      "num": 125086,
+      "raw_hot": 125395,
+      "num": 125395,
       "word": "妈妈为宝宝种植盆栽果树",
       "onboard_time": 1679822187,
       "rank": 29,
@@ -1275,6 +1411,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 75147,
+      "num": 75147,
+      "word": "还好小动物不会说话",
+      "onboard_time": 1679823508,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 74828,
       "num": 1058470,
       "word": "强科技端牢中国饭碗",
@@ -1289,6 +1433,14 @@
       "onboard_time": 1679740720,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 69932,
+      "num": 69932,
+      "word": "散光眼中的世界原来是这样",
+      "onboard_time": 1679823268,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 65362,

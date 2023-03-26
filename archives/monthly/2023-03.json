@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679823202446,
+  "endTime": 1679825849871,
   "band_list": [
     {
       "raw_hot": 27113842,
@@ -1089,6 +1089,14 @@
       "onboard_time": 1679060550,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2332822,
+      "num": 2332822,
+      "word": "胖东来",
+      "onboard_time": 1679822608,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2327198,
@@ -3516,7 +3524,7 @@
     },
     {
       "raw_hot": 1381349,
-      "num": 547431,
+      "num": 1064134,
       "word": "易烊千玺我可要坐直啦",
       "onboard_time": 1679818286,
       "rank": 15,
@@ -5035,6 +5043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1127152,
+      "num": 1127152,
+      "word": "网传长月烬明将接档他是谁",
+      "onboard_time": 1679824948,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1126953,
       "num": 1126953,
       "word": "宋慧乔韩素希合作自白的代价",
@@ -5697,6 +5713,14 @@
       "onboard_time": 1677720806,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1054068,
+      "num": 198548,
+      "word": "夫妻备孕多年终于怀孕宝宝先天无耳廓",
+      "onboard_time": 1679824227,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1053352,
@@ -8601,6 +8625,14 @@
       "onboard_time": 1678250371,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 820713,
+      "num": 542353,
+      "word": "潘粤明看宋佳亲马丽的反应",
+      "onboard_time": 1679825789,
+      "rank": 6,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 820527,
@@ -12123,6 +12155,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 641597,
+      "num": 210864,
+      "word": "粉丝给王一博P的小丑海报",
+      "onboard_time": 1679823748,
+      "rank": 12,
+      "category": "作品衍生,幽默"
+    },
+    {
       "raw_hot": 641506,
       "num": 587425,
       "word": "刘诗诗 微博之夜",
@@ -13481,6 +13521,14 @@
       "onboard_time": 1678605746,
       "rank": 31,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 590601,
+      "num": 590601,
+      "word": "江西省考",
+      "onboard_time": 1679825129,
+      "rank": 5,
+      "category": "教育"
     },
     {
       "raw_hot": 590121,
@@ -15939,14 +15987,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 514525,
-      "num": 514525,
-      "word": "胖东来",
-      "onboard_time": 1679822608,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 514422,
       "num": 355454,
       "word": "为什么孕期一定要认真对待",
@@ -16649,6 +16689,14 @@
       "onboard_time": 1678147947,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 497013,
+      "num": 238199,
+      "word": "向往的生活",
+      "onboard_time": 1679824948,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 496773,
@@ -22651,6 +22699,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 361493,
+      "num": 189983,
+      "word": "微博之夜高定礼服大总结",
+      "onboard_time": 1679824648,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 361386,
       "num": 874766,
       "word": "龚俊刘宇宁合唱霓虹甜心",
@@ -28595,6 +28651,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 270705,
+      "num": 202696,
+      "word": "NewJeans的OMG人歌一位",
+      "onboard_time": 1679824106,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 270590,
       "num": 270590,
       "word": "柠萌影视2023片单",
@@ -34427,6 +34491,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 208273,
+      "num": 208273,
+      "word": "热烈的不是青春是大学生",
+      "onboard_time": 1679821707,
+      "rank": 27,
+      "category": "情感,教育"
+    },
+    {
       "raw_hot": 208235,
       "num": 223806,
       "word": "像极了考教资前的我",
@@ -34897,6 +34969,14 @@
       "onboard_time": 1677625759,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 206014,
+      "num": 185508,
+      "word": "啜妮是能抓住观众的",
+      "onboard_time": 1679825789,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 205917,
@@ -35451,6 +35531,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 203755,
+      "num": 203755,
+      "word": "这就是无畏的坦野",
+      "onboard_time": 1679825610,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 203684,
       "num": 887406,
       "word": "内蒙古省考",
@@ -35768,6 +35856,14 @@
       "word": "WE战胜XYG",
       "onboard_time": 1679739222,
       "rank": 32,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 202236,
+      "num": 202236,
+      "word": "RW侠",
+      "onboard_time": 1679824106,
+      "rank": 19,
       "category": "游戏"
     },
     {
@@ -38435,6 +38531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190466,
+      "num": 190466,
+      "word": "吉克隽逸雷公电母头造型",
+      "onboard_time": 1679825728,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 190418,
       "num": 190418,
       "word": "音乐节对年轻人有什么意义",
@@ -39361,6 +39465,14 @@
       "onboard_time": 1679286573,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 185081,
+      "num": 185081,
+      "word": "铃芽之旅成2023引进片票房冠军",
+      "onboard_time": 1679825129,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 185062,
@@ -40603,6 +40715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 174650,
+      "num": 187919,
+      "word": "GEN对战HLE",
+      "onboard_time": 1679825067,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 174302,
       "num": 174302,
       "word": "王楚然想和彭冠英演古偶",
@@ -40977,6 +41097,14 @@
       "onboard_time": 1677755907,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 171830,
+      "num": 116658,
+      "word": "宋亚轩微博之夜舞台直拍",
+      "onboard_time": 1679823388,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 171763,
@@ -42211,14 +42339,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 161841,
-      "num": 190238,
-      "word": "热烈的不是青春是大学生",
-      "onboard_time": 1679821707,
-      "rank": 27,
-      "category": "情感,教育"
-    },
-    {
       "raw_hot": 161796,
       "num": 161796,
       "word": "井柏然穿的防爆服重80斤",
@@ -42585,6 +42705,14 @@
       "onboard_time": 1678084466,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 158983,
+      "num": 83156,
+      "word": "张婧仪回应用什么洗发水",
+      "onboard_time": 1679825668,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 158979,
@@ -42960,6 +43088,14 @@
       "word": "另类的吸猫方式",
       "onboard_time": 1679382209,
       "rank": 32,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 156212,
+      "num": 156212,
+      "word": "怎么混进了个假布娃娃",
+      "onboard_time": 1679825067,
+      "rank": 29,
       "category": "幽默"
     },
     {
@@ -43996,7 +44132,7 @@
     },
     {
       "raw_hot": 148075,
-      "num": 548038,
+      "num": 1089828,
       "word": "一句话安利大家到你家乡旅游",
       "onboard_time": 1679817567,
       "rank": 2,
@@ -47115,6 +47251,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 125395,
+      "num": 125395,
+      "word": "妈妈为宝宝种植盆栽果树",
+      "onboard_time": 1679822187,
+      "rank": 29,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 125346,
       "num": 125346,
       "word": "再进化就要上班了",
@@ -47153,14 +47297,6 @@
       "onboard_time": 1679705785,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 125086,
-      "num": 125086,
-      "word": "妈妈为宝宝种植盆栽果树",
-      "onboard_time": 1679822187,
-      "rank": 29,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 125009,
@@ -51267,6 +51403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 75147,
+      "num": 75147,
+      "word": "还好小动物不会说话",
+      "onboard_time": 1679823508,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 75018,
       "num": 75018,
       "word": "陈卓璇唱支山歌给党听",
@@ -51497,6 +51641,14 @@
       "onboard_time": 1678406426,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 69932,
+      "num": 69932,
+      "word": "散光眼中的世界原来是这样",
+      "onboard_time": 1679823268,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 69922,
