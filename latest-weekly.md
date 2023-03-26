@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/03/27 00:22:11 ~ 2023/03/27 03:33:17
+本榜单时间：2023/03/27 00:22:11 ~ 2023/03/27 04:17:56
 </p>
 </blockquote>
 <p>
@@ -369,14 +369,14 @@ IVE先行曲MV预告视频（热度：105674）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%93%83%E8%8A%BD%E4%B9%8B%E6%97%85%E4%B8%BA%E4%BD%95%E8%83%BD%E8%B5%A2%E8%BF%87%E8%B6%85%E8%8B%B1%E5%A4%A7%E7%89%87%23" target="weibo">
-铃芽之旅为何能赢过超英大片（热度：14070）
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E7%A5%9E%23" target="weibo">
+原神（热度：23626）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E7%A5%9E%23" target="weibo">
-原神（热度：12378）
+<a href="https://s.weibo.com/weibo?q=%23%E9%93%83%E8%8A%BD%E4%B9%8B%E6%97%85%E4%B8%BA%E4%BD%95%E8%83%BD%E8%B5%A2%E8%BF%87%E8%B6%85%E8%8B%B1%E5%A4%A7%E7%89%87%23" target="weibo">
+铃芽之旅为何能赢过超英大片（热度：17093）
 </a>
 </li>
 
