@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679815997513,
+  "endTime": 1679818843420,
   "band_list": [
     {
       "raw_hot": 27113842,
@@ -1595,6 +1595,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 1256606,
+      "num": 344249,
+      "word": "檀健次去洗手间错过颁奖",
+      "onboard_time": 1679815105,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1254969,
       "num": 564658,
       "word": "张译LOFTER账号",
@@ -1681,6 +1689,14 @@
       "onboard_time": 1679394808,
       "rank": 41,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 1205681,
+      "num": 252854,
+      "word": "王鹤棣虞书欣微博之夜错位图",
+      "onboard_time": 1679815586,
+      "rank": 9,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1198242,
@@ -2073,14 +2089,6 @@
       "onboard_time": 1679646927,
       "rank": 1,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 1022304,
-      "num": 252854,
-      "word": "王鹤棣虞书欣微博之夜错位图",
-      "onboard_time": 1679815586,
-      "rank": 9,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1019633,
@@ -2979,6 +2987,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 815986,
+      "num": 211272,
+      "word": "宋佳亲马丽",
+      "onboard_time": 1679816604,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 810901,
       "num": 810901,
       "word": "杭州直达香港高铁太火了",
@@ -3192,6 +3208,14 @@
       "word": "调查称韩国人幸福感排名全球垫底",
       "onboard_time": 1679278407,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 765581,
+      "num": 765581,
+      "word": "不方便打电话可给12110发短信报警",
+      "onboard_time": 1679812345,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -3611,14 +3635,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 672086,
-      "num": 672086,
-      "word": "不方便打电话可给12110发短信报警",
-      "onboard_time": 1679812345,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 671517,
       "num": 671517,
       "word": "金智秀solo预告引起争议",
@@ -3921,6 +3937,14 @@
       "onboard_time": 1679668950,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 628090,
+      "num": 196138,
+      "word": "易烊千玺我可要坐直啦",
+      "onboard_time": 1679818286,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 627404,
@@ -5763,6 +5787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 422513,
+      "num": 422513,
+      "word": "张予曦上海时装周走秀",
+      "onboard_time": 1679813728,
+      "rank": 18,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 422443,
       "num": 422443,
       "word": "俄方在机场举行迎宾仪式",
@@ -6651,6 +6683,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 346527,
+      "num": 183731,
+      "word": "田曦薇香槟色抹胸长裙",
+      "onboard_time": 1679818286,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 345425,
       "num": 345425,
       "word": "那英说和马嘉祺是儿子和妈组合",
@@ -7139,6 +7179,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 313981,
+      "num": 150381,
+      "word": "傅菁把粉丝签名穿在身上",
+      "onboard_time": 1679818465,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 312835,
       "num": 312835,
       "word": "边伯贤将出演音乐节",
@@ -7344,14 +7392,6 @@
       "word": "微博之夜你最期待的女星红毯",
       "onboard_time": 1679627309,
       "rank": 27,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 302558,
-      "num": 174776,
-      "word": "檀健次去洗手间错过颁奖",
-      "onboard_time": 1679815105,
-      "rank": 24,
       "category": "作品衍生"
     },
     {
@@ -7787,6 +7827,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 281218,
+      "num": 190242,
+      "word": "我求求你把这个班给我上",
+      "onboard_time": 1679813066,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 280706,
       "num": 280706,
       "word": "Wayward首发",
@@ -7961,14 +8009,6 @@
       "onboard_time": 1679480549,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 269092,
-      "num": 190242,
-      "word": "我求求你把这个班给我上",
-      "onboard_time": 1679813066,
-      "rank": 21,
-      "category": "幽默"
     },
     {
       "raw_hot": 269061,
@@ -8441,14 +8481,6 @@
       "onboard_time": 1679738878,
       "rank": 23,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 246794,
-      "num": 205865,
-      "word": "张予曦上海时装周走秀",
-      "onboard_time": 1679813728,
-      "rank": 18,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 246525,
@@ -9129,6 +9161,14 @@
       "onboard_time": 1679482947,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 224148,
+      "num": 193175,
+      "word": "爱情而已预约量破150万",
+      "onboard_time": 1679818706,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 224120,
@@ -10603,6 +10643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192033,
+      "num": 192033,
+      "word": "马拉松",
+      "onboard_time": 1679818766,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191993,
       "num": 191993,
       "word": "阴阳师",
@@ -11009,6 +11057,14 @@
       "onboard_time": 1679284950,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 184297,
+      "num": 125046,
+      "word": "朴志晟香港演唱会舞台",
+      "onboard_time": 1679817626,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 184223,
@@ -13411,6 +13467,14 @@
       "category": "作品衍生,音乐"
     },
     {
+      "raw_hot": 121094,
+      "num": 372870,
+      "word": "一句话安利大家到你家乡旅游",
+      "onboard_time": 1679817567,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120959,
       "num": 322684,
       "word": "微博之夜最全的明星生图",
@@ -13809,6 +13873,14 @@
       "onboard_time": 1679354963,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 104763,
+      "num": 124542,
+      "word": "Hero对战RW",
+      "onboard_time": 1679816665,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 104762,
@@ -14339,6 +14411,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 68191,
+      "num": 122227,
+      "word": "一种很新的哈利波特",
+      "onboard_time": 1679818527,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 66327,
       "num": 247839,
       "word": "地球关爱计划",
@@ -14481,6 +14561,14 @@
       "onboard_time": 1679717607,
       "rank": 9,
       "category": "社会正能量,作品衍生"
+    },
+    {
+      "raw_hot": 42320,
+      "num": 196400,
+      "word": "反复敏感退退退",
+      "onboard_time": 1679817626,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 42135,
