@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679840084277,
+  "endTime": 1679841209425,
   "band_list": [
     {
       "raw_hot": 27113842,
@@ -1804,7 +1804,7 @@
     },
     {
       "raw_hot": 1170483,
-      "num": 330685,
+      "num": 352182,
       "word": "夫妻备孕多年终于怀孕宝宝先天无耳廓",
       "onboard_time": 1679824227,
       "rank": 20,
@@ -3483,12 +3483,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 725609,
+      "num": 725609,
+      "word": "林智妍再报天气预报",
+      "onboard_time": 1679838870,
+      "rank": 9,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 724881,
       "num": 724881,
       "word": "早午餐不要合成一顿",
       "onboard_time": 1679533289,
       "rank": 12,
       "category": "美食"
+    },
+    {
+      "raw_hot": 723220,
+      "num": 656381,
+      "word": "蒋依依黑长直",
+      "onboard_time": 1679839769,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 722393,
@@ -3545,14 +3561,6 @@
       "onboard_time": 1679493991,
       "rank": 1,
       "category": "教育"
-    },
-    {
-      "raw_hot": 710586,
-      "num": 710586,
-      "word": "林智妍再报天气预报",
-      "onboard_time": 1679838870,
-      "rank": 9,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 709868,
@@ -4763,14 +4771,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 552127,
-      "num": 552127,
-      "word": "蒋依依黑长直",
-      "onboard_time": 1679839769,
-      "rank": 11,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 551359,
       "num": 551359,
       "word": "李湘辟谣主持乘风破浪",
@@ -4953,6 +4953,14 @@
       "onboard_time": 1679616145,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 527772,
+      "num": 527772,
+      "word": "丫丫晚上加班吃竹子",
+      "onboard_time": 1679837129,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 527579,
@@ -5491,6 +5499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 472595,
+      "num": 350820,
+      "word": "为什么和最好的朋友互删了",
+      "onboard_time": 1679837788,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 471675,
       "num": 471675,
       "word": "舒淇 松弛明媚",
@@ -5867,14 +5883,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 436697,
-      "num": 436697,
-      "word": "丫丫晚上加班吃竹子",
-      "onboard_time": 1679837129,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 436498,
       "num": 436498,
       "word": "周柯宇官宣加盟青春环游记",
@@ -6121,6 +6129,14 @@
       "onboard_time": 1679238093,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 417877,
+      "num": 417877,
+      "word": "杨幂微博之夜下班与刘诗诗热聊",
+      "onboard_time": 1679839290,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 417188,
@@ -6547,14 +6563,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 377456,
-      "num": 321250,
-      "word": "为什么和最好的朋友互删了",
-      "onboard_time": 1679837788,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 377218,
       "num": 598389,
       "word": "不要等缺水了才想起节水",
@@ -6819,6 +6827,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 358587,
+      "num": 358587,
+      "word": "贵州村BA总决赛",
+      "onboard_time": 1679839890,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 358537,
       "num": 358537,
       "word": "网友深圳偶遇萧敬腾打篮球",
@@ -6841,6 +6857,14 @@
       "onboard_time": 1679588483,
       "rank": 46,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 355839,
+      "num": 355839,
+      "word": "IVE先行曲MV预告视频",
+      "onboard_time": 1679840790,
+      "rank": 19,
+      "category": "音乐"
     },
     {
       "raw_hot": 355687,
@@ -7185,6 +7209,14 @@
       "onboard_time": 1679315130,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 329822,
+      "num": 329822,
+      "word": "上海冲入河中公交车司机被救出",
+      "onboard_time": 1679839471,
+      "rank": 38,
+      "category": "社会负面"
     },
     {
       "raw_hot": 329450,
@@ -8235,20 +8267,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 277054,
-      "num": 277054,
-      "word": "杨幂微博之夜下班与刘诗诗热聊",
-      "onboard_time": 1679839290,
-      "rank": 25,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 277014,
       "num": 277014,
       "word": "蔡徐坤官宣加盟微博之夜",
       "onboard_time": 1679545170,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 276744,
+      "num": 276744,
+      "word": "郭艾伦整活单臂暴扣",
+      "onboard_time": 1679837788,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 276304,
@@ -10059,14 +10091,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 211415,
-      "num": 211415,
-      "word": "郭艾伦整活单臂暴扣",
-      "onboard_time": 1679837788,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 210882,
       "num": 210882,
       "word": "5种行为构成校园欺凌",
@@ -10523,14 +10547,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 203292,
-      "num": 203292,
-      "word": "上海冲入河中公交车司机被救出",
-      "onboard_time": 1679839471,
-      "rank": 38,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 203005,
       "num": 203005,
       "word": "刘诗诗加盟微博之夜",
@@ -10891,6 +10907,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 196902,
+      "num": 196902,
+      "word": "当事人回应摆摊日入9000质疑",
+      "onboard_time": 1679840431,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196896,
       "num": 196896,
       "word": "保你平安英文名含义",
@@ -10985,14 +11009,6 @@
       "onboard_time": 1679585550,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 194707,
-      "num": 194707,
-      "word": "贵州村BA总决赛",
-      "onboard_time": 1679839890,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 194632,
@@ -11617,6 +11633,14 @@
       "onboard_time": 1679635349,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 184593,
+      "num": 152251,
+      "word": "龚俊微博之夜拍摄花絮",
+      "onboard_time": 1679840190,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 184400,
@@ -15344,6 +15368,14 @@
       "word": "撒贝宁在做一种很新的菜",
       "onboard_time": 1679569227,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 39111,
+      "num": 1803050,
+      "word": "穿越花海赴一场春天的约会",
+      "onboard_time": 1679840731,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
