@@ -1,6 +1,6 @@
 {
   "startTime": 1679761328845,
-  "endTime": 1679833923501,
+  "endTime": 1679834919911,
   "band_list": [
     {
       "raw_hot": 5965286,
@@ -59,6 +59,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 2625192,
+      "num": 2625192,
+      "word": "截图癖",
+      "onboard_time": 1679832448,
+      "rank": 1,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 2427833,
       "num": 2427833,
       "word": "胖东来",
@@ -97,14 +105,6 @@
       "onboard_time": 1679798008,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1613455,
-      "num": 1613455,
-      "word": "截图癖",
-      "onboard_time": 1679832448,
-      "rank": 1,
-      "category": "幽默"
     },
     {
       "raw_hot": 1498333,
@@ -515,6 +515,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 600892,
+      "num": 352258,
+      "word": "Angelababy微博之夜幕后花絮",
+      "onboard_time": 1679833168,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 599807,
+      "num": 599807,
+      "word": "丫丫爬树了",
+      "onboard_time": 1679833528,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 595643,
       "num": 305470,
       "word": "惠英红问宋佳你怎么不亲我",
@@ -529,6 +545,14 @@
       "onboard_time": 1679825129,
       "rank": 5,
       "category": "教育"
+    },
+    {
+      "raw_hot": 589886,
+      "num": 589886,
+      "word": "胖东来回应设委屈奖",
+      "onboard_time": 1679832747,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 545058,
@@ -643,19 +667,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 461218,
-      "num": 461218,
-      "word": "胖东来回应设委屈奖",
-      "onboard_time": 1679832747,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 458040,
       "num": 417774,
       "word": "王一博钻石胸针",
       "onboard_time": 1679741922,
       "rank": 31,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 454613,
+      "num": 251268,
+      "word": "吴宣仪也在热搜上看美女",
+      "onboard_time": 1679833948,
+      "rank": 13,
       "category": "作品衍生"
     },
     {
@@ -795,14 +819,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 303201,
-      "num": 242884,
-      "word": "Angelababy微博之夜幕后花絮",
-      "onboard_time": 1679833168,
-      "rank": 16,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 301009,
       "num": 301009,
       "word": "公司女更衣室装监控近十年",
@@ -939,6 +955,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 254929,
+      "num": 254929,
+      "word": "星期天晚上我下定决心",
+      "onboard_time": 1679831606,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 250916,
       "num": 280327,
       "word": "热烈的不是青春是大学生",
@@ -963,14 +987,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 245841,
-      "num": 245841,
-      "word": "星期天晚上我下定决心",
-      "onboard_time": 1679831606,
-      "rank": 14,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 242901,
       "num": 242901,
       "word": "世乒赛选拔比分",
@@ -980,7 +996,7 @@
     },
     {
       "raw_hot": 242130,
-      "num": 164777,
+      "num": 174421,
       "word": "内娱神仙音色",
       "onboard_time": 1679832866,
       "rank": 26,
@@ -1001,6 +1017,14 @@
       "onboard_time": 1679826027,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 229342,
+      "num": 197808,
+      "word": "这狐狸什么家庭条件",
+      "onboard_time": 1679833585,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 228144,
@@ -1057,14 +1081,6 @@
       "onboard_time": 1679790083,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 208960,
-      "num": 208960,
-      "word": "丫丫爬树了",
-      "onboard_time": 1679833528,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 207363,
@@ -1219,6 +1235,14 @@
       "category": "作品衍生,音乐"
     },
     {
+      "raw_hot": 191082,
+      "num": 191082,
+      "word": "高铁上太吵的解决办法",
+      "onboard_time": 1679833650,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 190381,
       "num": 190381,
       "word": "KPL",
@@ -1260,7 +1284,7 @@
     },
     {
       "raw_hot": 186743,
-      "num": 133059,
+      "num": 142644,
       "word": "TES战胜MTG",
       "onboard_time": 1679833227,
       "rank": 32,
@@ -1411,6 +1435,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 153698,
+      "num": 182028,
+      "word": "这大体格真不像猫",
+      "onboard_time": 1679833768,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 151518,
       "num": 176396,
       "word": "丁程鑫微博之夜舞台直拍",
@@ -1443,16 +1475,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 137380,
-      "num": 137380,
-      "word": "这狐狸什么家庭条件",
-      "onboard_time": 1679833585,
-      "rank": 29,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 133894,
-      "num": 110560,
+      "num": 121356,
       "word": "陈晓一人分饰老中青三代许慎",
       "onboard_time": 1679832148,
       "rank": 43,
@@ -1467,20 +1491,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 127266,
+      "num": 127266,
+      "word": "喜欢收集购物袋的朋友",
+      "onboard_time": 1679832506,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 125395,
       "num": 226714,
       "word": "妈妈为宝宝种植盆栽果树",
       "onboard_time": 1679822187,
       "rank": 29,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 124443,
-      "num": 124443,
-      "word": "这大体格真不像猫",
-      "onboard_time": 1679833768,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 124002,
@@ -1531,14 +1555,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 119081,
-      "num": 119081,
-      "word": "喜欢收集购物袋的朋友",
-      "onboard_time": 1679832506,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 117944,
       "num": 273163,
       "word": "朱辰杰乌龙",
@@ -1571,20 +1587,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 104060,
+      "num": 115403,
+      "word": "被男孩跳伦巴这个画面刺激了",
+      "onboard_time": 1679834188,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 103816,
       "num": 188385,
       "word": "卢拉因健康原因推迟访华",
       "onboard_time": 1679829206,
       "rank": 49,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 102642,
-      "num": 102642,
-      "word": "高铁上太吵的解决办法",
-      "onboard_time": 1679833650,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 101632,
@@ -1657,6 +1673,14 @@
       "onboard_time": 1679823508,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 79341,
+      "num": 114705,
+      "word": "HR为啥问父母工作",
+      "onboard_time": 1679834850,
+      "rank": 46,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 78101,

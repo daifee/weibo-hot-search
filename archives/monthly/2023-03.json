@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679833923501,
+  "endTime": 1679834919911,
   "band_list": [
     {
       "raw_hot": 27113842,
@@ -761,6 +761,14 @@
       "onboard_time": 1679760274,
       "rank": 4,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 2625192,
+      "num": 2625192,
+      "word": "截图癖",
+      "onboard_time": 1679832448,
+      "rank": 1,
+      "category": "幽默"
     },
     {
       "raw_hot": 2621739,
@@ -2529,14 +2537,6 @@
       "onboard_time": 1679280628,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1613455,
-      "num": 1613455,
-      "word": "截图癖",
-      "onboard_time": 1679832448,
-      "rank": 1,
-      "category": "幽默"
     },
     {
       "raw_hot": 1609758,
@@ -13299,6 +13299,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 600892,
+      "num": 352258,
+      "word": "Angelababy微博之夜幕后花絮",
+      "onboard_time": 1679833168,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 600876,
       "num": 600876,
       "word": "小学生第一次听周杰伦的歌",
@@ -13361,6 +13369,14 @@
       "onboard_time": 1679368348,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 599807,
+      "num": 599807,
+      "word": "丫丫爬树了",
+      "onboard_time": 1679833528,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 599780,
@@ -13601,6 +13617,14 @@
       "onboard_time": 1677887544,
       "rank": 4,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 589886,
+      "num": 589886,
+      "word": "胖东来回应设委屈奖",
+      "onboard_time": 1679832747,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 589088,
@@ -18227,14 +18251,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 461218,
-      "num": 461218,
-      "word": "胖东来回应设委屈奖",
-      "onboard_time": 1679832747,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 460861,
       "num": 390442,
       "word": "戴口罩喘不上气剪开发现塑料胶布",
@@ -18473,6 +18489,14 @@
       "onboard_time": 1678931965,
       "rank": 11,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 454613,
+      "num": 251268,
+      "word": "吴宣仪也在热搜上看美女",
+      "onboard_time": 1679833948,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 454305,
@@ -26467,14 +26491,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 303201,
-      "num": 242884,
-      "word": "Angelababy微博之夜幕后花絮",
-      "onboard_time": 1679833168,
-      "rank": 16,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 303176,
       "num": 303176,
       "word": "孙怡秦霄贤身高对比",
@@ -29891,6 +29907,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 254929,
+      "num": 254929,
+      "word": "星期天晚上我下定决心",
+      "onboard_time": 1679831606,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 254927,
       "num": 232112,
       "word": "美国硅谷银行请求员工一起想办法",
@@ -30595,14 +30619,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 245841,
-      "num": 245841,
-      "word": "星期天晚上我下定决心",
-      "onboard_time": 1679831606,
-      "rank": 14,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 245830,
       "num": 171872,
       "word": "国务院总理任命现场视频",
@@ -31028,7 +31044,7 @@
     },
     {
       "raw_hot": 242130,
-      "num": 164777,
+      "num": 174421,
       "word": "内娱神仙音色",
       "onboard_time": 1679832866,
       "rank": 26,
@@ -32209,6 +32225,14 @@
       "onboard_time": 1679181678,
       "rank": 31,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 229342,
+      "num": 197808,
+      "word": "这狐狸什么家庭条件",
+      "onboard_time": 1679833585,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 229044,
@@ -34585,14 +34609,6 @@
       "onboard_time": 1678102286,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 208960,
-      "num": 208960,
-      "word": "丫丫爬树了",
-      "onboard_time": 1679833528,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 208959,
@@ -38555,6 +38571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 191082,
+      "num": 191082,
+      "word": "高铁上太吵的解决办法",
+      "onboard_time": 1679833650,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 191079,
       "num": 191079,
       "word": "保你平安票房破3亿",
@@ -39340,7 +39364,7 @@
     },
     {
       "raw_hot": 186743,
-      "num": 133059,
+      "num": 142644,
       "word": "TES战胜MTG",
       "onboard_time": 1679833227,
       "rank": 32,
@@ -43499,6 +43523,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 153698,
+      "num": 182028,
+      "word": "这大体格真不像猫",
+      "onboard_time": 1679833768,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 153697,
       "num": 153697,
       "word": "玄商美强惨",
@@ -45779,14 +45811,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 137380,
-      "num": 137380,
-      "word": "这狐狸什么家庭条件",
-      "onboard_time": 1679833585,
-      "rank": 29,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 137325,
       "num": 261864,
       "word": "明日中国先导片",
@@ -46356,7 +46380,7 @@
     },
     {
       "raw_hot": 133894,
-      "num": 110560,
+      "num": 121356,
       "word": "陈晓一人分饰老中青三代许慎",
       "onboard_time": 1679832148,
       "rank": 43,
@@ -47211,6 +47235,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 127266,
+      "num": 127266,
+      "word": "喜欢收集购物袋的朋友",
+      "onboard_time": 1679832506,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 127252,
       "num": 127252,
       "word": "村医52年为村民免除40万医药费",
@@ -47545,14 +47577,6 @@
       "onboard_time": 1679210248,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 124443,
-      "num": 124443,
-      "word": "这大体格真不像猫",
-      "onboard_time": 1679833768,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 124343,
@@ -48153,14 +48177,6 @@
       "onboard_time": 1679394388,
       "rank": 49,
       "category": "幽默,时尚"
-    },
-    {
-      "raw_hot": 119081,
-      "num": 119081,
-      "word": "喜欢收集购物袋的朋友",
-      "onboard_time": 1679832506,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 118949,
@@ -49827,6 +49843,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 104060,
+      "num": 115403,
+      "word": "被男孩跳伦巴这个画面刺激了",
+      "onboard_time": 1679834188,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 103924,
       "num": 103924,
       "word": "外交部长秦刚谈乌克兰危机",
@@ -49961,14 +49985,6 @@
       "onboard_time": 1678447466,
       "rank": 48,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 102642,
-      "num": 102642,
-      "word": "高铁上太吵的解决办法",
-      "onboard_time": 1679833650,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 102586,
@@ -51569,6 +51585,14 @@
       "onboard_time": 1678978290,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 79341,
+      "num": 114705,
+      "word": "HR为啥问父母工作",
+      "onboard_time": 1679834850,
+      "rank": 46,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 78758,
