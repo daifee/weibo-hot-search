@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1679850886030,
+  "endTime": 1679852017000,
   "band_list": [
     {
       "raw_hot": 1254355,
@@ -179,20 +179,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 215512,
+      "num": 215512,
+      "word": "张若昀今年有旧剧播续集",
+      "onboard_time": 1679848940,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 211106,
       "num": 211106,
       "word": "上海一公交公司回应公交车坠河",
       "onboard_time": 1679837429,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 208674,
-      "num": 144698,
-      "word": "张若昀今年有旧剧播续集",
-      "onboard_time": 1679848940,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 205414,
@@ -449,6 +449,14 @@
       "onboard_time": 1679827586,
       "rank": 29,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 36689,
+      "num": 36689,
+      "word": "哇唧唧哇新人首次线下公演",
+      "onboard_time": 1679836587,
+      "rank": 47,
+      "category": "音乐"
     }
   ],
   "hotgov_list": [
