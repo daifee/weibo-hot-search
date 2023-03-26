@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679868964241,
+  "endTime": 1679870013946,
   "band_list": [
     {
       "raw_hot": 27113842,
@@ -53203,6 +53203,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 39396,
+      "num": 39396,
+      "word": "晨晓夫妇蹭鼻尖是现场改的",
+      "onboard_time": 1679868552,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 38982,
       "num": 38982,
       "word": "赵一博竟然会3D建模",
@@ -53619,6 +53627,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 24654,
+      "num": 24654,
+      "word": "铃芽之旅为何能赢过超英大片",
+      "onboard_time": 1679858652,
+      "rank": 48,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 24354,
       "num": 161830,
       "word": "FPX战胜RA",
@@ -53683,20 +53699,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 19157,
+      "num": 22403,
+      "word": "民法",
+      "onboard_time": 1679869634,
+      "rank": 49,
+      "category": "教育"
+    },
+    {
       "raw_hot": 18463,
       "num": 160517,
       "word": "饿了么注册放心点商标",
       "onboard_time": 1679637629,
       "rank": 39,
       "category": "科技,财经"
-    },
-    {
-      "raw_hot": 18231,
-      "num": 18231,
-      "word": "晨晓夫妇蹭鼻尖是现场改的",
-      "onboard_time": 1679868552,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 18134,
@@ -53729,14 +53745,6 @@
       "onboard_time": 1678645632,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 17371,
-      "num": 18228,
-      "word": "铃芽之旅为何能赢过超英大片",
-      "onboard_time": 1679858652,
-      "rank": 48,
-      "category": "影视,动漫"
     },
     {
       "raw_hot": 16984,
