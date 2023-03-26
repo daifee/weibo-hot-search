@@ -1,6 +1,6 @@
 {
   "startTime": 1679761328845,
-  "endTime": 1679837599353,
+  "endTime": 1679840084277,
   "band_list": [
     {
       "raw_hot": 5965286,
@@ -88,6 +88,14 @@
       "word": "杨幂刘诗诗牵手上台",
       "onboard_time": 1679755921,
       "rank": 5,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1890135,
+      "num": 1890135,
+      "word": "微博之夜红毯视频",
+      "onboard_time": 1679839290,
+      "rank": 3,
       "category": "作品衍生"
     },
     {
@@ -203,6 +211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1274742,
+      "num": 1274742,
+      "word": "上海一公交公司回应公交车坠河",
+      "onboard_time": 1679837429,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1274106,
       "num": 1106377,
       "word": "王鹤棣虞书欣白鹿修罗场",
@@ -244,7 +260,7 @@
     },
     {
       "raw_hot": 1170483,
-      "num": 326479,
+      "num": 330685,
       "word": "夫妻备孕多年终于怀孕宝宝先天无耳廓",
       "onboard_time": 1679824227,
       "rank": 20,
@@ -297,6 +313,14 @@
       "onboard_time": 1679801067,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 971676,
+      "num": 971676,
+      "word": "71路",
+      "onboard_time": 1679837429,
+      "rank": 39,
+      "category": "社会负面"
     },
     {
       "raw_hot": 943533,
@@ -353,6 +377,14 @@
       "onboard_time": 1679791647,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 871331,
+      "num": 871331,
+      "word": "何同学中文打字机",
+      "onboard_time": 1679835387,
+      "rank": 11,
+      "category": "科技"
     },
     {
       "raw_hot": 870865,
@@ -451,12 +483,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 732809,
-      "num": 732809,
-      "word": "何同学中文打字机",
-      "onboard_time": 1679835387,
-      "rank": 11,
-      "category": "科技"
+      "raw_hot": 710586,
+      "num": 710586,
+      "word": "林智妍再报天气预报",
+      "onboard_time": 1679838870,
+      "rank": 9,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 703549,
@@ -579,12 +611,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 552127,
+      "num": 552127,
+      "word": "蒋依依黑长直",
+      "onboard_time": 1679839769,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 545058,
       "num": 272843,
       "word": "迪丽热巴复古美学花絮",
       "onboard_time": 1679801728,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 536957,
+      "num": 536957,
+      "word": "HR为啥问父母工作",
+      "onboard_time": 1679834850,
+      "rank": 46,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 536933,
@@ -601,14 +649,6 @@
       "onboard_time": 1679800709,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 508762,
-      "num": 508762,
-      "word": "HR为啥问父母工作",
-      "onboard_time": 1679834850,
-      "rank": 46,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 503981,
@@ -731,6 +771,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 436697,
+      "num": 436697,
+      "word": "丫丫晚上加班吃竹子",
+      "onboard_time": 1679837129,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 428532,
       "num": 1646133,
       "word": "离职最后一天还被安排工作",
@@ -795,6 +843,14 @@
       "category": "幽默,教育"
     },
     {
+      "raw_hot": 377456,
+      "num": 321250,
+      "word": "为什么和最好的朋友互删了",
+      "onboard_time": 1679837788,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 361784,
       "num": 361784,
       "word": "郑容和当林俊杰演唱会嘉宾",
@@ -849,6 +905,14 @@
       "onboard_time": 1679759741,
       "rank": 14,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 308462,
+      "num": 308462,
+      "word": "李现微博之夜红毯视频",
+      "onboard_time": 1679838209,
+      "rank": 22,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 306563,
@@ -931,6 +995,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 281770,
+      "num": 281770,
+      "word": "FreenBecky 三搭",
+      "onboard_time": 1679839711,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 281218,
       "num": 275263,
       "word": "我求求你把这个班给我上",
@@ -963,6 +1035,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 277054,
+      "num": 277054,
+      "word": "杨幂微博之夜下班与刘诗诗热聊",
+      "onboard_time": 1679839290,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 274077,
       "num": 261619,
       "word": "林俊杰雨中唱江南",
@@ -976,6 +1056,14 @@
       "word": "铃芽之旅成2023引进片票房冠军",
       "onboard_time": 1679825129,
       "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 272607,
+      "num": 272607,
+      "word": "爱情而已",
+      "onboard_time": 1679838989,
+      "rank": 26,
       "category": "影视"
     },
     {
@@ -1040,6 +1128,14 @@
       "word": "TF家族和你一起去做的第十九件事",
       "onboard_time": 1679765479,
       "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 245455,
+      "num": 245455,
+      "word": "张大大演哑剧",
+      "onboard_time": 1679839290,
+      "rank": 32,
       "category": "艺人"
     },
     {
@@ -1139,6 +1235,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 211415,
+      "num": 211415,
+      "word": "郭艾伦整活单臂暴扣",
+      "onboard_time": 1679837788,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 207363,
       "num": 237848,
       "word": "西湖湖心上演60分钟千年华服秀",
@@ -1179,6 +1283,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 204615,
+      "num": 185703,
+      "word": "岳云鹏杨九郎没认出郭德纲的嘴",
+      "onboard_time": 1679838328,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 204610,
       "num": 278680,
       "word": "这就是无畏的坦野",
@@ -1201,6 +1313,14 @@
       "onboard_time": 1679821946,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 203292,
+      "num": 203292,
+      "word": "上海冲入河中公交车司机被救出",
+      "onboard_time": 1679839471,
+      "rank": 38,
+      "category": "社会负面"
     },
     {
       "raw_hot": 202443,
@@ -1264,6 +1384,14 @@
       "word": "不同的赛场中国队都在拼",
       "onboard_time": 1679795007,
       "rank": 20,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 194707,
+      "num": 194707,
+      "word": "贵州村BA总决赛",
+      "onboard_time": 1679839890,
+      "rank": 39,
       "category": "体育"
     },
     {
@@ -1345,14 +1473,6 @@
       "onboard_time": 1679789364,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 188367,
-      "num": 188367,
-      "word": "上海一公交公司回应公交车坠河",
-      "onboard_time": 1679837429,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 187764,
@@ -1539,16 +1659,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 150097,
-      "num": 150097,
-      "word": "71路",
-      "onboard_time": 1679837429,
-      "rank": 39,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 148075,
-      "num": 1435238,
+      "num": 1895696,
       "word": "一句话安利大家到你家乡旅游",
       "onboard_time": 1679817567,
       "rank": 2,
@@ -1577,6 +1689,14 @@
       "onboard_time": 1679835507,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 129373,
+      "num": 129373,
+      "word": "香味嗷一下子就上来了",
+      "onboard_time": 1679839769,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 128981,
@@ -1753,14 +1873,6 @@
       "onboard_time": 1679827826,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 84516,
-      "num": 116972,
-      "word": "丫丫晚上加班吃竹子",
-      "onboard_time": 1679837129,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 83885,
