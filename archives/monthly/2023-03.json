@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679872632540,
+  "endTime": 1679873622068,
   "band_list": [
     {
       "raw_hot": 27113842,
@@ -7155,6 +7155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 927202,
+      "num": 927202,
+      "word": "96年父亲暴瘦40斤割肝救女",
+      "onboard_time": 1679844627,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 927171,
       "num": 1068042,
       "word": "冉莹颖称轩轩韧带断裂",
@@ -7321,14 +7329,6 @@
       "onboard_time": 1679378848,
       "rank": 7,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 914582,
-      "num": 914582,
-      "word": "96年父亲暴瘦40斤割肝救女",
-      "onboard_time": 1679844627,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 914379,
@@ -28195,6 +28195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 281222,
+      "num": 281222,
+      "word": "詹姆斯复出",
+      "onboard_time": 1679872159,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 281218,
       "num": 275263,
       "word": "我求求你把这个班给我上",
@@ -33619,6 +33627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 220241,
+      "num": 215512,
+      "word": "张若昀今年有旧剧播续集",
+      "onboard_time": 1679848940,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 220232,
       "num": 220232,
       "word": "杨坤一直对那英说马嘉祺",
@@ -34161,14 +34177,6 @@
       "onboard_time": 1679362948,
       "rank": 47,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 215512,
-      "num": 215512,
-      "word": "张若昀今年有旧剧播续集",
-      "onboard_time": 1679848940,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 215431,
@@ -36521,6 +36529,14 @@
       "onboard_time": 1678596625,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 201597,
+      "num": 201597,
+      "word": "民法",
+      "onboard_time": 1679869634,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 201431,
@@ -44043,14 +44059,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 152484,
-      "num": 152484,
-      "word": "民法",
-      "onboard_time": 1679869634,
-      "rank": 49,
-      "category": "教育"
-    },
-    {
       "raw_hot": 152408,
       "num": 152408,
       "word": "LOFTER平台AI绘画功能遭用户质疑",
@@ -45905,6 +45913,14 @@
       "onboard_time": 1679632774,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 139744,
+      "num": 127210,
+      "word": "女子在宠物诊所被烈犬撕咬胳膊",
+      "onboard_time": 1679848761,
+      "rank": 25,
+      "category": "社会负面"
     },
     {
       "raw_hot": 139628,
@@ -47771,6 +47787,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 126376,
+      "num": 126376,
+      "word": "千万不要在夜里醒来看时间",
+      "onboard_time": 1679872941,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 126372,
       "num": 126372,
       "word": "张译带着悬疑刑侦硬菜剧来了",
@@ -48025,14 +48049,6 @@
       "onboard_time": 1678151725,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 123996,
-      "num": 123996,
-      "word": "詹姆斯复出",
-      "onboard_time": 1679872159,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 123887,
@@ -48633,14 +48649,6 @@
       "onboard_time": 1679541445,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 118681,
-      "num": 116588,
-      "word": "女子在宠物诊所被烈犬撕咬胳膊",
-      "onboard_time": 1679848761,
-      "rank": 25,
-      "category": "社会负面"
     },
     {
       "raw_hot": 118676,
@@ -51027,6 +51035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 95681,
+      "num": 95681,
+      "word": "铃芽之旅为何能赢过超英大片",
+      "onboard_time": 1679858652,
+      "rank": 48,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 95622,
       "num": 95622,
       "word": "中国发展惠及世界中国发展离不开世界",
@@ -51265,6 +51281,14 @@
       "onboard_time": 1677764432,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 91660,
+      "num": 91660,
+      "word": "山茶花和红玫瑰",
+      "onboard_time": 1679873301,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 91519,
@@ -52339,14 +52363,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 70397,
-      "num": 70397,
-      "word": "铃芽之旅为何能赢过超英大片",
-      "onboard_time": 1679858652,
-      "rank": 48,
-      "category": "影视,动漫"
-    },
-    {
       "raw_hot": 70232,
       "num": 122359,
       "word": "做自己不止今天",
@@ -52849,6 +52865,14 @@
       "onboard_time": 1677834028,
       "rank": 39,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 54236,
+      "num": 54236,
+      "word": "刘若英演唱会三站全部售罄",
+      "onboard_time": 1679873601,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 54195,
