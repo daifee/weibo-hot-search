@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679841209425,
+  "endTime": 1679843818139,
   "band_list": [
     {
       "raw_hot": 27113842,
@@ -3163,6 +3163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 799003,
+      "num": 656381,
+      "word": "蒋依依黑长直",
+      "onboard_time": 1679839769,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 797457,
       "num": 2937108,
       "word": "坠落",
@@ -3499,14 +3507,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 723220,
-      "num": 656381,
-      "word": "蒋依依黑长直",
-      "onboard_time": 1679839769,
-      "rank": 11,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 722393,
       "num": 722393,
       "word": "不建议在室内养郁金香",
@@ -3609,6 +3609,14 @@
       "onboard_time": 1679478928,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 703988,
+      "num": 703988,
+      "word": "林俊杰蔡卓妍合唱我很想爱他",
+      "onboard_time": 1679841751,
+      "rank": 5,
+      "category": "音乐"
     },
     {
       "raw_hot": 703141,
@@ -4379,6 +4387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 593210,
+      "num": 593210,
+      "word": "白桃星座",
+      "onboard_time": 1679236589,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 591299,
       "num": 208211,
       "word": "坐等微博之夜开始",
@@ -5001,6 +5017,14 @@
       "onboard_time": 1679312794,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 524398,
+      "num": 497028,
+      "word": "杨幂微博之夜下班与刘诗诗热聊",
+      "onboard_time": 1679839290,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 522328,
@@ -5667,6 +5691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 459275,
+      "num": 459275,
+      "word": "王鹤棣直播",
+      "onboard_time": 1679842169,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 458388,
       "num": 458388,
       "word": "王栎鑫是懂代餐的",
@@ -6129,14 +6161,6 @@
       "onboard_time": 1679238093,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 417877,
-      "num": 417877,
-      "word": "杨幂微博之夜下班与刘诗诗热聊",
-      "onboard_time": 1679839290,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 417188,
@@ -7251,14 +7275,6 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 328904,
-      "num": 328904,
-      "word": "白桃星座",
-      "onboard_time": 1679236589,
-      "rank": 14,
-      "category": "情感"
-    },
-    {
       "raw_hot": 328793,
       "num": 328793,
       "word": "RNG翻盘RA",
@@ -7859,6 +7875,14 @@
       "category": "社会正能量,作品衍生"
     },
     {
+      "raw_hot": 296243,
+      "num": 296243,
+      "word": "范丞丞收到粉丝送的大白鹅",
+      "onboard_time": 1679842532,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 296057,
       "num": 296057,
       "word": "孙颖莎获微博年度喜爱人物",
@@ -8363,6 +8387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 272745,
+      "num": 272745,
+      "word": "莫文蔚声生不息宝岛季路透",
+      "onboard_time": 1679842891,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 272607,
       "num": 272607,
       "word": "爱情而已",
@@ -8536,6 +8568,14 @@
       "word": "沈月田曦薇对视笑",
       "onboard_time": 1679810425,
       "rank": 39,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 263704,
+      "num": 263704,
+      "word": "宋亚轩跟雷佳音马丽打招呼",
+      "onboard_time": 1679842049,
+      "rank": 26,
       "category": "作品衍生"
     },
     {
@@ -9283,6 +9323,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 236938,
+      "num": 236938,
+      "word": "当事人回应摆摊日入9000质疑",
+      "onboard_time": 1679840431,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 236399,
       "num": 236399,
       "word": "大学的猫对大学生有多信任",
@@ -9385,6 +9433,22 @@
       "onboard_time": 1679643867,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 232969,
+      "num": 232969,
+      "word": "电影保你平安票房破5亿",
+      "onboard_time": 1679842948,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 231608,
+      "num": 231608,
+      "word": "胡明轩扣篮",
+      "onboard_time": 1679841270,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 231596,
@@ -9569,6 +9633,14 @@
       "onboard_time": 1679825067,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 227107,
+      "num": 227107,
+      "word": "LPL季后赛",
+      "onboard_time": 1679842649,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 227048,
@@ -9881,6 +9953,14 @@
       "onboard_time": 1679458710,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 215599,
+      "num": 215599,
+      "word": "张大大直播",
+      "onboard_time": 1679841509,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 215557,
@@ -10755,6 +10835,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 199539,
+      "num": 199539,
+      "word": "全明星",
+      "onboard_time": 1679843069,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199447,
       "num": 199447,
       "word": "宋亚轩挑战与春天合拍视频",
@@ -10867,6 +10955,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 197401,
+      "num": 197401,
+      "word": "月亮图标",
+      "onboard_time": 1679843069,
+      "rank": 40,
+      "category": "科技"
+    },
+    {
       "raw_hot": 197234,
       "num": 238299,
       "word": "谁知道这螃蟹在干啥",
@@ -10905,14 +11001,6 @@
       "onboard_time": 1679751050,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 196902,
-      "num": 196902,
-      "word": "当事人回应摆摊日入9000质疑",
-      "onboard_time": 1679840431,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 196896,
@@ -11064,6 +11152,14 @@
       "word": "iG中野",
       "onboard_time": 1679487208,
       "rank": 29,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 194014,
+      "num": 194014,
+      "word": "WBG战胜RA",
+      "onboard_time": 1679843008,
+      "rank": 44,
       "category": "游戏"
     },
     {
@@ -11705,6 +11801,14 @@
       "onboard_time": 1679408855,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 183625,
+      "num": 196674,
+      "word": "张真源随机记录vlog",
+      "onboard_time": 1679843069,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 183341,
@@ -12531,6 +12635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 163002,
+      "num": 163002,
+      "word": "阿不都全明星MVP",
+      "onboard_time": 1679841751,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162692,
       "num": 162692,
       "word": "厄齐尔退役",
@@ -13073,6 +13185,14 @@
       "onboard_time": 1679324970,
       "rank": 44,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 147575,
+      "num": 1803050,
+      "word": "穿越花海赴一场春天的约会",
+      "onboard_time": 1679840731,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 147563,
@@ -15368,14 +15488,6 @@
       "word": "撒贝宁在做一种很新的菜",
       "onboard_time": 1679569227,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 39111,
-      "num": 1803050,
-      "word": "穿越花海赴一场春天的约会",
-      "onboard_time": 1679840731,
-      "rank": 2,
       "category": "社会新闻"
     },
     {

@@ -1,6 +1,6 @@
 {
   "startTime": 1679761328845,
-  "endTime": 1679841209425,
+  "endTime": 1679843818139,
   "band_list": [
     {
       "raw_hot": 5965286,
@@ -443,6 +443,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 799003,
+      "num": 656381,
+      "word": "蒋依依黑长直",
+      "onboard_time": 1679839769,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 786386,
       "num": 786386,
       "word": "孙俪看五哈泼水",
@@ -491,12 +499,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 723220,
-      "num": 656381,
-      "word": "蒋依依黑长直",
-      "onboard_time": 1679839769,
-      "rank": 11,
-      "category": "作品衍生"
+      "raw_hot": 703988,
+      "num": 703988,
+      "word": "林俊杰蔡卓妍合唱我很想爱他",
+      "onboard_time": 1679841751,
+      "rank": 5,
+      "category": "音乐"
     },
     {
       "raw_hot": 703549,
@@ -595,6 +603,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 593210,
+      "num": 593210,
+      "word": "白桃星座",
+      "onboard_time": 1679841094,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 590601,
       "num": 590601,
       "word": "江西省考",
@@ -657,6 +673,14 @@
       "onboard_time": 1679837129,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 524398,
+      "num": 497028,
+      "word": "杨幂微博之夜下班与刘诗诗热聊",
+      "onboard_time": 1679839290,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 503981,
@@ -755,6 +779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 459275,
+      "num": 459275,
+      "word": "王鹤棣直播",
+      "onboard_time": 1679842169,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 458040,
       "num": 417774,
       "word": "王一博钻石胸针",
@@ -801,14 +833,6 @@
       "onboard_time": 1679813728,
       "rank": 18,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 417877,
-      "num": 417877,
-      "word": "杨幂微博之夜下班与刘诗诗热聊",
-      "onboard_time": 1679839290,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 417309,
@@ -971,6 +995,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 296243,
+      "num": 296243,
+      "word": "范丞丞收到粉丝送的大白鹅",
+      "onboard_time": 1679842532,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 295425,
       "num": 283919,
       "word": "蔡徐坤扔墨镜",
@@ -1091,6 +1123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 272745,
+      "num": 272745,
+      "word": "莫文蔚声生不息宝岛季路透",
+      "onboard_time": 1679842891,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 272607,
       "num": 272607,
       "word": "爱情而已",
@@ -1128,6 +1168,14 @@
       "word": "沈月田曦薇对视笑",
       "onboard_time": 1679810425,
       "rank": 39,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 263704,
+      "num": 263704,
+      "word": "宋亚轩跟雷佳音马丽打招呼",
+      "onboard_time": 1679842049,
+      "rank": 26,
       "category": "作品衍生"
     },
     {
@@ -1187,12 +1235,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 236938,
+      "num": 236938,
+      "word": "当事人回应摆摊日入9000质疑",
+      "onboard_time": 1679840431,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 235055,
       "num": 227206,
       "word": "吉克隽逸雷公电母头造型",
       "onboard_time": 1679825728,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 232969,
+      "num": 232969,
+      "word": "电影保你平安票房破5亿",
+      "onboard_time": 1679842948,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 231608,
+      "num": 231608,
+      "word": "胡明轩扣篮",
+      "onboard_time": 1679841270,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 229948,
@@ -1227,6 +1299,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 227107,
+      "num": 227107,
+      "word": "LPL季后赛",
+      "onboard_time": 1679842649,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 223388,
       "num": 150823,
       "word": "黄景瑜极限挑战路透",
@@ -1249,6 +1329,14 @@
       "onboard_time": 1679755254,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 215599,
+      "num": 215599,
+      "word": "张大大直播",
+      "onboard_time": 1679841509,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 215037,
@@ -1363,12 +1451,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 199539,
+      "num": 199539,
+      "word": "全明星",
+      "onboard_time": 1679843069,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199101,
       "num": 150825,
       "word": "宋亚轩推眼镜",
       "onboard_time": 1679812286,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 197401,
+      "num": 197401,
+      "word": "月亮图标",
+      "onboard_time": 1679843069,
+      "rank": 40,
+      "category": "科技"
     },
     {
       "raw_hot": 197234,
@@ -1395,14 +1499,6 @@
       "category": "影视,音乐"
     },
     {
-      "raw_hot": 196902,
-      "num": 196902,
-      "word": "当事人回应摆摊日入9000质疑",
-      "onboard_time": 1679840431,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 196403,
       "num": 300939,
       "word": "不同的赛场中国队都在拼",
@@ -1417,6 +1513,14 @@
       "onboard_time": 1679827167,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 194014,
+      "num": 194014,
+      "word": "WBG战胜RA",
+      "onboard_time": 1679843008,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 193691,
@@ -1531,6 +1635,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 183625,
+      "num": 196674,
+      "word": "张真源随机记录vlog",
+      "onboard_time": 1679843069,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 179116,
       "num": 300892,
       "word": "只有妈妈会解读你的表情包",
@@ -1609,6 +1721,14 @@
       "onboard_time": 1679805625,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 163002,
+      "num": 163002,
+      "word": "阿不都全明星MVP",
+      "onboard_time": 1679841751,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 162183,
@@ -1691,12 +1811,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 145752,
-      "num": 145752,
-      "word": "白桃星座",
-      "onboard_time": 1679841094,
-      "rank": 47,
-      "category": "情感"
+      "raw_hot": 147575,
+      "num": 1803050,
+      "word": "穿越花海赴一场春天的约会",
+      "onboard_time": 1679840731,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 141588,
@@ -2089,14 +2209,6 @@
       "onboard_time": 1679809465,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 39111,
-      "num": 1803050,
-      "word": "穿越花海赴一场春天的约会",
-      "onboard_time": 1679840731,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 38726,
