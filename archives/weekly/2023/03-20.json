@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679800851557,
+  "endTime": 1679801602781,
   "band_list": [
     {
       "raw_hot": 27113842,
@@ -332,7 +332,7 @@
     },
     {
       "raw_hot": 2693887,
-      "num": 945901,
+      "num": 1045665,
       "word": "微博之夜神图",
       "onboard_time": 1679798008,
       "rank": 3,
@@ -787,6 +787,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 1718376,
+      "num": 753180,
+      "word": "高叶听到棣欣引力时的反应",
+      "onboard_time": 1679798008,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1716996,
       "num": 1205141,
       "word": "迪丽热巴微博之夜正式官宣",
@@ -881,14 +889,6 @@
       "onboard_time": 1679468967,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1638605,
-      "num": 753180,
-      "word": "高叶听到棣欣引力时的反应",
-      "onboard_time": 1679798008,
-      "rank": 30,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1628996,
@@ -1147,6 +1147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1444941,
+      "num": 481745,
+      "word": "李冰冰跟黄晓明说了什么",
+      "onboard_time": 1679797587,
+      "rank": 21,
+      "category": "作品衍生,幽默"
+    },
+    {
       "raw_hot": 1439090,
       "num": 563576,
       "word": "宋慧乔ins 争宠",
@@ -1313,14 +1321,6 @@
       "onboard_time": 1679644290,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1350458,
-      "num": 481745,
-      "word": "李冰冰跟黄晓明说了什么",
-      "onboard_time": 1679797587,
-      "rank": 21,
-      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 1344800,
@@ -1987,6 +1987,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 1028914,
+      "num": 1028914,
+      "word": "台外事部门紧急发出临时记者会通知",
+      "onboard_time": 1679798066,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1027037,
       "num": 937933,
       "word": "女子受邀赴泰国旅游失联21天",
@@ -2497,14 +2505,6 @@
       "onboard_time": 1679662890,
       "rank": 7,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 899356,
-      "num": 899356,
-      "word": "台外事部门紧急发出临时记者会通知",
-      "onboard_time": 1679798066,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 897671,
@@ -4515,6 +4515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 530073,
+      "num": 220028,
+      "word": "王一博大鹏杜华合影",
+      "onboard_time": 1679800709,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 530066,
       "num": 530066,
       "word": "女子被骚扰搜集证据后领导当面道歉",
@@ -4747,6 +4755,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 503571,
+      "num": 221245,
+      "word": "杨幂说感恩认可未来一起加油",
+      "onboard_time": 1679800826,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 502966,
       "num": 502966,
       "word": "大学生之间莫名其妙的信任",
@@ -4932,7 +4948,7 @@
     },
     {
       "raw_hot": 484379,
-      "num": 253904,
+      "num": 428471,
       "word": "张俪说不要妥协婚姻",
       "onboard_time": 1679798848,
       "rank": 16,
@@ -5617,14 +5633,6 @@
       "onboard_time": 1679624485,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 418279,
-      "num": 221245,
-      "word": "杨幂说感恩认可未来一起加油",
-      "onboard_time": 1679800826,
-      "rank": 33,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 417892,
@@ -6395,6 +6403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 351528,
+      "num": 351528,
+      "word": "考研复试的我belike",
+      "onboard_time": 1679799448,
+      "rank": 13,
+      "category": "幽默,教育"
+    },
+    {
       "raw_hot": 351134,
       "num": 351134,
       "word": "Xiaohu喊话极端粉丝",
@@ -6969,14 +6985,6 @@
       "onboard_time": 1679305828,
       "rank": 21,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 311736,
-      "num": 220028,
-      "word": "王一博大鹏杜华合影",
-      "onboard_time": 1679800709,
-      "rank": 36,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 311651,
@@ -7659,6 +7667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 274077,
+      "num": 222251,
+      "word": "林俊杰雨中唱江南",
+      "onboard_time": 1679800468,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 273390,
       "num": 273390,
       "word": "李现官宣加盟微博之夜",
@@ -7705,14 +7721,6 @@
       "onboard_time": 1679713349,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 269611,
-      "num": 222251,
-      "word": "林俊杰雨中唱江南",
-      "onboard_time": 1679800468,
-      "rank": 31,
-      "category": "音乐"
     },
     {
       "raw_hot": 269347,
@@ -7809,6 +7817,14 @@
       "onboard_time": 1679537188,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 264623,
+      "num": 218569,
+      "word": "LadyGaga小丑2红衣路透",
+      "onboard_time": 1679799089,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 264548,
@@ -8249,14 +8265,6 @@
       "onboard_time": 1679480187,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 244812,
-      "num": 244812,
-      "word": "考研复试的我belike",
-      "onboard_time": 1679799448,
-      "rank": 13,
-      "category": "幽默,教育"
     },
     {
       "raw_hot": 244400,
@@ -9019,14 +9027,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 218569,
-      "num": 218569,
-      "word": "LadyGaga小丑2红衣路透",
-      "onboard_time": 1679799089,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 218339,
       "num": 217190,
       "word": "华晨宇声生不息舞娘预告",
@@ -9249,6 +9249,14 @@
       "onboard_time": 1679741079,
       "rank": 18,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 212582,
+      "num": 225478,
+      "word": "大熊猫的DNA里只有努力",
+      "onboard_time": 1679799689,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 212240,
@@ -11643,6 +11651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158933,
+      "num": 226782,
+      "word": "老人病危床前叮嘱家人照顾老伴",
+      "onboard_time": 1679799209,
+      "rank": 20,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 158645,
       "num": 158645,
       "word": "深海",
@@ -11680,14 +11696,6 @@
       "word": "鼻子眼睛皮肤过敏都该怎么办",
       "onboard_time": 1679552725,
       "rank": 36,
-      "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 157344,
-      "num": 226782,
-      "word": "老人病危床前叮嘱家人照顾老伴",
-      "onboard_time": 1679799209,
-      "rank": 20,
       "category": "社会新闻,情感"
     },
     {
@@ -12587,14 +12595,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 132039,
-      "num": 225478,
-      "word": "大熊猫的DNA里只有努力",
-      "onboard_time": 1679799689,
-      "rank": 23,
-      "category": "情感"
-    },
-    {
       "raw_hot": 132017,
       "num": 132017,
       "word": "熬夜就一定会影响睡眠质量吗",
@@ -13137,6 +13137,14 @@
       "onboard_time": 1679394388,
       "rank": 49,
       "category": "幽默,时尚"
+    },
+    {
+      "raw_hot": 119344,
+      "num": 222908,
+      "word": "妈妈用魔法打败魔法",
+      "onboard_time": 1679799929,
+      "rank": 29,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 118716,
@@ -13747,14 +13755,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 92302,
-      "num": 222908,
-      "word": "妈妈用魔法打败魔法",
-      "onboard_time": 1679799929,
-      "rank": 29,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 91249,
       "num": 184923,
       "word": "肖战说以锐志拓步前行逐光追梦",
@@ -14019,6 +14019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 60969,
+      "num": 1058470,
+      "word": "强科技端牢中国饭碗",
+      "onboard_time": 1679799929,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60380,
       "num": 60380,
       "word": "想要长高的人有福了",
@@ -14067,14 +14075,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 50881,
-      "num": 957011,
-      "word": "强科技端牢中国饭碗",
-      "onboard_time": 1679799929,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 50800,
       "num": 1257937,
       "word": "看祖国大地春景如画",
@@ -14113,6 +14113,14 @@
       "onboard_time": 1679787199,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 44042,
+      "num": 200902,
+      "word": "女生靠摆地摊还清百万负债",
+      "onboard_time": 1679801067,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 42351,
