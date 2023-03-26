@@ -1,6 +1,6 @@
 {
   "startTime": 1679761328845,
-  "endTime": 1679795671199,
+  "endTime": 1679798342210,
   "band_list": [
     {
       "raw_hot": 5965286,
@@ -40,6 +40,14 @@
       "word": "杨紫肖战同框",
       "onboard_time": 1679760274,
       "rank": 4,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 2449979,
+      "num": 724611,
+      "word": "微博之夜神图",
+      "onboard_time": 1679798008,
+      "rank": 3,
       "category": "作品衍生"
     },
     {
@@ -107,6 +115,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 913239,
+      "num": 719036,
+      "word": "杨丞琳去了李荣浩演唱会",
+      "onboard_time": 1679790324,
+      "rank": 5,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 895370,
+      "num": 895370,
+      "word": "极限挑战",
+      "onboard_time": 1679797826,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 887313,
       "num": 887313,
       "word": "中华小当家原型去世",
@@ -123,7 +147,7 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 841052,
+      "raw_hot": 870083,
       "num": 588597,
       "word": "李现扶完迪丽热巴扶杨紫",
       "onboard_time": 1679759501,
@@ -137,6 +161,14 @@
       "onboard_time": 1679790805,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 803732,
+      "num": 221777,
+      "word": "李冰冰跟黄晓明说了什么",
+      "onboard_time": 1679797587,
+      "rank": 21,
+      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 776619,
@@ -155,14 +187,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 704413,
-      "num": 704413,
-      "word": "杨丞琳去了李荣浩演唱会",
-      "onboard_time": 1679790324,
-      "rank": 5,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 703549,
       "num": 687481,
       "word": "微博之夜座位",
@@ -175,6 +199,14 @@
       "num": 300882,
       "word": "微博之夜荣誉名单",
       "onboard_time": 1679792727,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 655328,
+      "num": 214091,
+      "word": "高叶听到棣欣引力时的反应",
+      "onboard_time": 1679798008,
       "rank": 30,
       "category": "作品衍生"
     },
@@ -331,6 +363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 232121,
+      "num": 232121,
+      "word": "中国亚运队遭绝杀",
+      "onboard_time": 1679797826,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 216045,
       "num": 463139,
       "word": "wink状态",
@@ -451,6 +491,14 @@
       "category": "体育,作品衍生"
     },
     {
+      "raw_hot": 168732,
+      "num": 300943,
+      "word": "陆虎反正都是我巡演",
+      "onboard_time": 1679788703,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 164790,
       "num": 100888,
       "word": "微博之夜我圆满了",
@@ -489,14 +537,6 @@
       "onboard_time": 1679747446,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 128616,
-      "num": 300943,
-      "word": "陆虎反正都是我巡演",
-      "onboard_time": 1679788703,
-      "rank": 17,
-      "category": "音乐"
     },
     {
       "raw_hot": 124002,
@@ -563,6 +603,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 78101,
+      "num": 300806,
+      "word": "笑容逐渐消失的狗子",
+      "onboard_time": 1679775312,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 77131,
       "num": 250605,
       "word": "龚俊你好闪",
@@ -599,14 +647,6 @@
       "num": 312175,
       "word": "放在整个广告界也是相当炸裂",
       "onboard_time": 1679741079,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 60749,
-      "num": 300806,
-      "word": "笑容逐渐消失的狗子",
-      "onboard_time": 1679775312,
       "rank": 38,
       "category": "幽默"
     },
@@ -665,6 +705,14 @@
       "onboard_time": 1679787199,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 44800,
+      "num": 209461,
+      "word": "台外事部门紧急发出临时记者会通知",
+      "onboard_time": 1679798066,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 44708,
