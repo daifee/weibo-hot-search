@@ -1,0 +1,410 @@
+{
+  "runTime": 1679826797483,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2427833,
+        "num": 2427833,
+        "word": "胖东来",
+        "onboard_time": 1679822608,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1284053,
+        "num": 1284053,
+        "word": "向往的生活",
+        "onboard_time": 1679824948,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103002,
+        "num": 1095760,
+        "word": "一句话安利大家到你家乡旅游",
+        "onboard_time": 1679817567,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1046419,
+        "num": 1046419,
+        "word": "网传长月烬明将接档他是谁",
+        "onboard_time": 1679824948,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 977128,
+        "num": 977128,
+        "word": "易烊千玺我可要坐直啦",
+        "onboard_time": 1679818286,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 545876,
+        "num": 545876,
+        "word": "江西省考",
+        "onboard_time": 1679825129,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 382162,
+        "num": 382162,
+        "word": "海南临高13岁被霸凌女孩曾被打多次",
+        "onboard_time": 1679809947,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 749873,
+        "num": 376128,
+        "word": "潘粤明看宋佳亲马丽的反应",
+        "onboard_time": 1679825789,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 250916,
+        "num": 250916,
+        "word": "热烈的不是青春是大学生",
+        "onboard_time": 1679821707,
+        "rank": 8,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 207363,
+        "num": 249933,
+        "word": "不方便打电话可给12110发短信报警",
+        "onboard_time": 1679812345,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 738190,
+        "num": 249050,
+        "word": "张大大镜头下的杨幂",
+        "onboard_time": 1679814685,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 684725,
+        "num": 248480,
+        "word": "何炅黄磊 杭州",
+        "onboard_time": 1679826091,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 581578,
+        "num": 246729,
+        "word": "铃芽之旅",
+        "onboard_time": 1679821287,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 635992,
+        "num": 245223,
+        "word": "微博之夜高定礼服大总结",
+        "onboard_time": 1679824648,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 204610,
+        "num": 244130,
+        "word": "这就是无畏的坦野",
+        "onboard_time": 1679825610,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 178832,
+        "num": 243327,
+        "word": "法考",
+        "onboard_time": 1679807787,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 574972,
+        "num": 242031,
+        "word": "粉丝给王一博P的小丑海报",
+        "onboard_time": 1679823748,
+        "rank": 16,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 159859,
+        "num": 240460,
+        "word": "RW侠",
+        "onboard_time": 1679824106,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 127318,
+        "num": 239140,
+        "word": "女生靠摆地摊还清百万负债",
+        "onboard_time": 1679801067,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 471064,
+        "num": 238225,
+        "word": "檀健次去洗手间错过颁奖",
+        "onboard_time": 1679815105,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 427326,
+        "num": 237829,
+        "word": "时代少年团演唱会 海口",
+        "onboard_time": 1679826268,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1170483,
+        "num": 235756,
+        "word": "夫妻备孕多年终于怀孕宝宝先天无耳廓",
+        "onboard_time": 1679824227,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310757,
+        "num": 234390,
+        "word": "李现还扶了王俊凯",
+        "onboard_time": 1679820325,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 234328,
+        "num": 234328,
+        "word": "我求求你把这个班给我上",
+        "onboard_time": 1679813066,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 227429,
+        "num": 227429,
+        "word": "怎么混进了个假布娃娃",
+        "onboard_time": 1679825067,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 290913,
+        "num": 227412,
+        "word": "王鹤棣虞书欣微博之夜错位图",
+        "onboard_time": 1679815586,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 235055,
+        "num": 227206,
+        "word": "吉克隽逸雷公电母头造型",
+        "onboard_time": 1679825728,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 117731,
+        "num": 227081,
+        "word": "GEN对战HLE",
+        "onboard_time": 1679825067,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 289017,
+        "num": 226819,
+        "word": "张婧仪回应用什么洗发水",
+        "onboard_time": 1679825668,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 110796,
+        "num": 226714,
+        "word": "妈妈为宝宝种植盆栽果树",
+        "onboard_time": 1679822187,
+        "rank": 29,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 229948,
+        "num": 226648,
+        "word": "张颜齐音乐节丢戒指",
+        "onboard_time": 1679826027,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 226510,
+        "num": 226510,
+        "word": "铃芽之旅成2023引进片票房冠军",
+        "onboard_time": 1679825129,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 206145,
+        "num": 206145,
+        "word": "NewJeans的OMG人歌一位",
+        "onboard_time": 1679824106,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205530,
+        "num": 205530,
+        "word": "深海",
+        "onboard_time": 1679821465,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 108720,
+        "num": 205109,
+        "word": "这才是正宗的躲猫猫",
+        "onboard_time": 1679821046,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 204816,
+        "num": 204816,
+        "word": "TXT演唱会",
+        "onboard_time": 1679825909,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 91345,
+        "num": 202268,
+        "word": "Hero战胜RW",
+        "onboard_time": 1679822966,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 84071,
+        "num": 198438,
+        "word": "当发现同事想辞职时",
+        "onboard_time": 1679801666,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 77086,
+        "num": 197251,
+        "word": "中国和洪都拉斯建交",
+        "onboard_time": 1679802811,
+        "rank": 38,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 76009,
+        "num": 192627,
+        "word": "还好小动物不会说话",
+        "onboard_time": 1679823508,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 191596,
+        "num": 191596,
+        "word": "啜妮是能抓住观众的",
+        "onboard_time": 1679825789,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187296,
+        "num": 187296,
+        "word": "侯鸿亮跟肖战打招呼",
+        "onboard_time": 1679807010,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 151548,
+        "num": 187292,
+        "word": "苏醒晒与堂妹合照",
+        "onboard_time": 1679819727,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69354,
+        "num": 187290,
+        "word": "他让日本人爱上麻婆豆腐",
+        "onboard_time": 1679808868,
+        "rank": 43,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 138527,
+        "num": 187281,
+        "word": "宋亚轩微博之夜舞台直拍",
+        "onboard_time": 1679823388,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 68264,
+        "num": 187277,
+        "word": "散光眼中的世界原来是这样",
+        "onboard_time": 1679823268,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 67509,
+        "num": 187269,
+        "word": "上着课老师突然劈了个叉",
+        "onboard_time": 1679803528,
+        "rank": 46,
+        "category": "教育,幽默"
+      },
+      {
+        "raw_hot": 125024,
+        "num": 187263,
+        "word": "赵灵儿李逍遥的十年之约",
+        "onboard_time": 1679755628,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 62723,
+        "num": 187259,
+        "word": "你猜我为啥在这里录像",
+        "onboard_time": 1679822726,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 61480,
+        "num": 187253,
+        "word": "KPL",
+        "onboard_time": 1679822845,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#共建美好世界的最大公约数#"
+    }
+  }
+}
