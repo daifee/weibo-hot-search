@@ -1,0 +1,410 @@
+{
+  "runTime": 1679798929326,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1774297,
+        "num": 1774297,
+        "word": "洪都拉斯宣布与台湾断绝外交关系",
+        "onboard_time": 1679793025,
+        "rank": 0,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1330301,
+        "num": 1330301,
+        "word": "极限挑战",
+        "onboard_time": 1679797826,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 8475,
+        "num": 969693,
+        "word": "读懂中国式现代化",
+        "onboard_time": 1679748111,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2693887,
+        "num": 906396,
+        "word": "微博之夜神图",
+        "onboard_time": 1679798008,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 769287,
+        "num": 769287,
+        "word": "杨丞琳去了李荣浩演唱会",
+        "onboard_time": 1679790324,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 694267,
+        "num": 694267,
+        "word": "中华小当家原型去世",
+        "onboard_time": 1679787980,
+        "rank": 5,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 1542882,
+        "num": 622394,
+        "word": "微博之夜合照",
+        "onboard_time": 1679757055,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 507337,
+        "num": 507337,
+        "word": "因航班延误缺考复试考研生崩溃大哭",
+        "onboard_time": 1679743424,
+        "rank": 7,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 410737,
+        "num": 410737,
+        "word": "中国亚运队遭绝杀",
+        "onboard_time": 1679797826,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1308533,
+        "num": 389900,
+        "word": "赵灵儿李逍遥的十年之约",
+        "onboard_time": 1679755628,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1175234,
+        "num": 380267,
+        "word": "吴卓羲爆料黄宗泽正在恋爱",
+        "onboard_time": 1679798485,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256554,
+        "num": 256554,
+        "word": "公司女更衣室装监控近十年",
+        "onboard_time": 1679772433,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1244872,
+        "num": 255592,
+        "word": "高叶听到棣欣引力时的反应",
+        "onboard_time": 1679798008,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 254532,
+        "num": 254532,
+        "word": "当事人回应因航班延误缺考研究生复试",
+        "onboard_time": 1679758783,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206845,
+        "num": 254498,
+        "word": "离职最后一天还被安排工作",
+        "onboard_time": 1679746318,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1237411,
+        "num": 254200,
+        "word": "刘亦菲微博Queen",
+        "onboard_time": 1679755019,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 310745,
+        "num": 253904,
+        "word": "张俪说不要妥协婚姻",
+        "onboard_time": 1679798848,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193251,
+        "num": 253764,
+        "word": "云南省考",
+        "onboard_time": 1679795066,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1046314,
+        "num": 253409,
+        "word": "李冰冰跟黄晓明说了什么",
+        "onboard_time": 1679797587,
+        "rank": 18,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 132157,
+        "num": 253203,
+        "word": "哈尔滨一居民小区内发生爆炸",
+        "onboard_time": 1679759741,
+        "rank": 19,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 162120,
+        "num": 252998,
+        "word": "只有妈妈会解读你的表情包",
+        "onboard_time": 1679788762,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 830273,
+        "num": 252844,
+        "word": "李现扶完迪丽热巴扶杨紫",
+        "onboard_time": 1679759501,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 133683,
+        "num": 252658,
+        "word": "2岁萌娃给民警指路全靠默契",
+        "onboard_time": 1679788824,
+        "rank": 22,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 120981,
+        "num": 252349,
+        "word": "原来真的有猫会后空翻",
+        "onboard_time": 1679789364,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 763591,
+        "num": 252145,
+        "word": "肖战跑着下班",
+        "onboard_time": 1679791647,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 150864,
+        "num": 251836,
+        "word": "陆虎反正都是我巡演",
+        "onboard_time": 1679788703,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 90857,
+        "num": 251578,
+        "word": "苏州医生在湖南培训顺手救人",
+        "onboard_time": 1679780592,
+        "rank": 26,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 660303,
+        "num": 251354,
+        "word": "胡歌微博King",
+        "onboard_time": 1679755019,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 77543,
+        "num": 251223,
+        "word": "不同的赛场中国队都在拼",
+        "onboard_time": 1679795007,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76985,
+        "num": 250908,
+        "word": "笑容逐渐消失的狗子",
+        "onboard_time": 1679775312,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 616631,
+        "num": 250793,
+        "word": "周深真的很想逃",
+        "onboard_time": 1679790385,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 250657,
+        "num": 250657,
+        "word": "台外事部门紧急发出临时记者会通知",
+        "onboard_time": 1679798066,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69278,
+        "num": 250654,
+        "word": "这在传单界都是难以拒绝的",
+        "onboard_time": 1679758247,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 487056,
+        "num": 249205,
+        "word": "杨幂刘诗诗牵手上台",
+        "onboard_time": 1679755921,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 59718,
+        "num": 248309,
+        "word": "住杭州豪宅的人每天多工作38分钟",
+        "onboard_time": 1679741262,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49301,
+        "num": 247709,
+        "word": "wink状态",
+        "onboard_time": 1679755254,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 355884,
+        "num": 247165,
+        "word": "明星微博之夜下班随拍",
+        "onboard_time": 1679790805,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 43274,
+        "num": 245845,
+        "word": "黄蜂战胜独行侠",
+        "onboard_time": 1679780532,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 41664,
+        "num": 245671,
+        "word": "大学最后悔学的专业是什么",
+        "onboard_time": 1679739174,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 301013,
+        "num": 244216,
+        "word": "关晓彤 下班跑得快已到机场",
+        "onboard_time": 1679756278,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 38685,
+        "num": 243451,
+        "word": "一张照片留住春天",
+        "onboard_time": 1679788824,
+        "rank": 40,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 36295,
+        "num": 243287,
+        "word": "郑钦文晋级",
+        "onboard_time": 1679787199,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 263500,
+        "num": 241782,
+        "word": "微博之夜荣誉名单",
+        "onboard_time": 1679792727,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 33885,
+        "num": 241150,
+        "word": "女子取钱后账户却莫名进账",
+        "onboard_time": 1679739060,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26110,
+        "num": 240153,
+        "word": "青岛AR灯光秀之夜",
+        "onboard_time": 1679787380,
+        "rank": 44,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 256933,
+        "num": 239581,
+        "word": "微博之夜百花齐放",
+        "onboard_time": 1679739121,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 22095,
+        "num": 239164,
+        "word": "随手拍春天",
+        "onboard_time": 1679753216,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 19248,
+        "num": 237735,
+        "word": "内蒙古省考",
+        "onboard_time": 1679746794,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 237614,
+        "num": 237614,
+        "word": "微博之夜",
+        "onboard_time": 1679739222,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 51730,
+        "num": 236725,
+        "word": "谷爱凌好可爱",
+        "onboard_time": 1679745954,
+        "rank": 49,
+        "category": "体育,作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#世界瞩目的握手时刻#"
+    }
+  }
+}

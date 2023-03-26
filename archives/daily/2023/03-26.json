@@ -1,6 +1,6 @@
 {
   "startTime": 1679761328845,
-  "endTime": 1679798342210,
+  "endTime": 1679798929326,
   "band_list": [
     {
       "raw_hot": 5965286,
@@ -35,19 +35,19 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 2693887,
+      "num": 906396,
+      "word": "微博之夜神图",
+      "onboard_time": 1679798008,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 2641711,
       "num": 2641711,
       "word": "杨紫肖战同框",
       "onboard_time": 1679760274,
       "rank": 4,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 2449979,
-      "num": 724611,
-      "word": "微博之夜神图",
-      "onboard_time": 1679798008,
-      "rank": 3,
       "category": "作品衍生"
     },
     {
@@ -83,6 +83,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1330301,
+      "num": 1330301,
+      "word": "极限挑战",
+      "onboard_time": 1679797826,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1300208,
       "num": 1118592,
       "word": "微博之夜百花齐放",
@@ -97,6 +105,30 @@
       "onboard_time": 1679745647,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1244872,
+      "num": 255592,
+      "word": "高叶听到棣欣引力时的反应",
+      "onboard_time": 1679798008,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1175234,
+      "num": 380267,
+      "word": "吴卓羲爆料黄宗泽正在恋爱",
+      "onboard_time": 1679798485,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1046314,
+      "num": 253409,
+      "word": "李冰冰跟黄晓明说了什么",
+      "onboard_time": 1679797587,
+      "rank": 21,
+      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 943533,
@@ -116,19 +148,11 @@
     },
     {
       "raw_hot": 913239,
-      "num": 719036,
+      "num": 769287,
       "word": "杨丞琳去了李荣浩演唱会",
       "onboard_time": 1679790324,
       "rank": 5,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 895370,
-      "num": 895370,
-      "word": "极限挑战",
-      "onboard_time": 1679797826,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 887313,
@@ -163,14 +187,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 803732,
-      "num": 221777,
-      "word": "李冰冰跟黄晓明说了什么",
-      "onboard_time": 1679797587,
-      "rank": 21,
-      "category": "作品衍生,幽默"
-    },
-    {
       "raw_hot": 776619,
       "num": 771609,
       "word": "迪丽热巴wink",
@@ -199,14 +215,6 @@
       "num": 300882,
       "word": "微博之夜荣誉名单",
       "onboard_time": 1679792727,
-      "rank": 30,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 655328,
-      "num": 214091,
-      "word": "高叶听到棣欣引力时的反应",
-      "onboard_time": 1679798008,
       "rank": 30,
       "category": "作品衍生"
     },
@@ -267,6 +275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 410737,
+      "num": 410737,
+      "word": "中国亚运队遭绝杀",
+      "onboard_time": 1679797826,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 399100,
       "num": 399100,
       "word": "云南省考",
@@ -315,6 +331,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 310745,
+      "num": 253904,
+      "word": "张俪说不要妥协婚姻",
+      "onboard_time": 1679798848,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 306563,
       "num": 306563,
       "word": "痛仰 深圳",
@@ -355,20 +379,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 250657,
+      "num": 250657,
+      "word": "台外事部门紧急发出临时记者会通知",
+      "onboard_time": 1679798066,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 247565,
       "num": 247565,
       "word": "TF家族和你一起去做的第十九件事",
       "onboard_time": 1679765479,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 232121,
-      "num": 232121,
-      "word": "中国亚运队遭绝杀",
-      "onboard_time": 1679797826,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 216045,
@@ -484,7 +508,7 @@
     },
     {
       "raw_hot": 171953,
-      "num": 171953,
+      "num": 236725,
       "word": "谷爱凌好可爱",
       "onboard_time": 1679745954,
       "rank": 8,
@@ -700,19 +724,11 @@
     },
     {
       "raw_hot": 44980,
-      "num": 232780,
+      "num": 243287,
       "word": "郑钦文晋级",
       "onboard_time": 1679787199,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 44800,
-      "num": 209461,
-      "word": "台外事部门紧急发出临时记者会通知",
-      "onboard_time": 1679798066,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 44708,
@@ -748,7 +764,7 @@
     },
     {
       "raw_hot": 35666,
-      "num": 185119,
+      "num": 240153,
       "word": "青岛AR灯光秀之夜",
       "onboard_time": 1679787380,
       "rank": 47,
