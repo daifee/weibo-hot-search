@@ -1,6 +1,6 @@
 {
   "startTime": 1679761328845,
-  "endTime": 1679843818139,
+  "endTime": 1679844810211,
   "band_list": [
     {
       "raw_hot": 5965286,
@@ -883,6 +883,14 @@
       "category": "幽默,教育"
     },
     {
+      "raw_hot": 383344,
+      "num": 383344,
+      "word": "莫文蔚声生不息宝岛季路透",
+      "onboard_time": 1679842891,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 361784,
       "num": 361784,
       "word": "郑容和当林俊杰演唱会嘉宾",
@@ -1123,14 +1131,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 272745,
-      "num": 272745,
-      "word": "莫文蔚声生不息宝岛季路透",
-      "onboard_time": 1679842891,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 272607,
       "num": 272607,
       "word": "爱情而已",
@@ -1307,6 +1307,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 226503,
+      "num": 226503,
+      "word": "月亮图标",
+      "onboard_time": 1679843069,
+      "rank": 40,
+      "category": "科技"
+    },
+    {
       "raw_hot": 223388,
       "num": 150823,
       "word": "黄景瑜极限挑战路透",
@@ -1337,6 +1345,14 @@
       "onboard_time": 1679841509,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 215197,
+      "num": 215197,
+      "word": "李现目前在泉州拍一部戏",
+      "onboard_time": 1679844027,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 215037,
@@ -1465,14 +1481,6 @@
       "onboard_time": 1679812286,
       "rank": 42,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 197401,
-      "num": 197401,
-      "word": "月亮图标",
-      "onboard_time": 1679843069,
-      "rank": 40,
-      "category": "科技"
     },
     {
       "raw_hot": 197234,
@@ -1641,6 +1649,14 @@
       "onboard_time": 1679843069,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 183277,
+      "num": 183277,
+      "word": "看得出来他真的很困",
+      "onboard_time": 1679842948,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 179116,
@@ -1891,6 +1907,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 121936,
+      "num": 121936,
+      "word": "96年父亲暴瘦40斤割肝救女",
+      "onboard_time": 1679844627,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121141,
       "num": 186888,
       "word": "李宇春说今年会开演唱会",
@@ -1937,6 +1961,14 @@
       "onboard_time": 1679807908,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 108750,
+      "num": 108750,
+      "word": "不照镜子还以为自己是白狗",
+      "onboard_time": 1679844746,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 106941,
