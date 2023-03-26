@@ -1,6 +1,6 @@
 {
   "startTime": 1679761328845,
-  "endTime": 1679805308589,
+  "endTime": 1679807761989,
   "band_list": [
     {
       "raw_hot": 5965286,
@@ -139,6 +139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1230575,
+      "num": 601044,
+      "word": "白鹿内场看张凌赫的眼神",
+      "onboard_time": 1679803288,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1058355,
       "num": 1058355,
       "word": "台外事部门紧急发出临时记者会通知",
@@ -147,12 +155,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 963914,
-      "num": 427769,
-      "word": "白鹿内场看张凌赫的眼神",
-      "onboard_time": 1679803288,
-      "rank": 21,
-      "category": "作品衍生"
+      "raw_hot": 991724,
+      "num": 991724,
+      "word": "女生靠摆地摊还清百万负债",
+      "onboard_time": 1679801067,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 943533,
@@ -161,6 +169,14 @@
       "onboard_time": 1679743424,
       "rank": 6,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 923831,
+      "num": 345811,
+      "word": "庞博有种不顾王勉何广智死活的帅",
+      "onboard_time": 1679805687,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 920726,
@@ -195,6 +211,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 870865,
+      "num": 870865,
+      "word": "蚁人3男演员乔纳森梅杰斯被捕",
+      "onboard_time": 1679805865,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 870083,
       "num": 588597,
       "word": "李现扶完迪丽热巴扶杨紫",
@@ -225,14 +249,6 @@
       "onboard_time": 1679801607,
       "rank": 18,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 801029,
-      "num": 801029,
-      "word": "女生靠摆地摊还清百万负债",
-      "onboard_time": 1679801067,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 776619,
@@ -275,11 +291,19 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 600474,
+      "raw_hot": 622077,
       "num": 274429,
       "word": "杨紫蔷薇花裙",
       "onboard_time": 1679801847,
       "rank": 30,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 576765,
+      "num": 206150,
+      "word": "侯鸿亮跟肖战打招呼",
+      "onboard_time": 1679807010,
+      "rank": 26,
       "category": "作品衍生"
     },
     {
@@ -339,20 +363,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 500553,
+      "num": 270704,
+      "word": "李宇春微博之夜如坐珍毡",
+      "onboard_time": 1679804128,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 498406,
+      "num": 498406,
+      "word": "陈伟霆说很想在林芝享受一下solo",
+      "onboard_time": 1679807189,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 484379,
       "num": 428471,
       "word": "张俪说不要妥协婚姻",
       "onboard_time": 1679798848,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 480324,
-      "num": 270704,
-      "word": "李宇春微博之夜如坐珍毡",
-      "onboard_time": 1679804128,
-      "rank": 48,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 458040,
@@ -371,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 446274,
+      "num": 446274,
+      "word": "当发现同事想辞职时",
+      "onboard_time": 1679801666,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 428532,
       "num": 1646133,
       "word": "离职最后一天还被安排工作",
@@ -379,20 +419,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 427915,
-      "num": 427915,
-      "word": "当发现同事想辞职时",
-      "onboard_time": 1679801666,
-      "rank": 13,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 417309,
       "num": 417309,
       "word": "张译包场张颂文的新电影",
       "onboard_time": 1679749188,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 399139,
+      "num": 205716,
+      "word": "杀我别用大臣刀",
+      "onboard_time": 1679806948,
+      "rank": 30,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 399100,
@@ -507,6 +547,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 271758,
+      "num": 277564,
+      "word": "上着课老师突然劈了个叉",
+      "onboard_time": 1679803528,
+      "rank": 22,
+      "category": "教育,幽默"
+    },
+    {
       "raw_hot": 264623,
       "num": 263200,
       "word": "LadyGaga小丑2红衣路透",
@@ -545,14 +593,6 @@
       "onboard_time": 1679740661,
       "rank": 17,
       "category": "情感"
-    },
-    {
-      "raw_hot": 214873,
-      "num": 277564,
-      "word": "上着课老师突然劈了个叉",
-      "onboard_time": 1679803528,
-      "rank": 22,
-      "category": "教育,幽默"
     },
     {
       "raw_hot": 211687,
@@ -675,6 +715,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 163987,
+      "num": 206349,
+      "word": "在大城市里约朋友见面真的好难",
+      "onboard_time": 1679805625,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 161310,
       "num": 300958,
       "word": "苏州医生在湖南培训顺手救人",
@@ -707,12 +755,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 144876,
+      "num": 206257,
+      "word": "谁知道这螃蟹在干啥",
+      "onboard_time": 1679807308,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 141588,
       "num": 88059,
       "word": "仙剑一仙剑三剧粉都圆满了",
       "onboard_time": 1679747446,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 137843,
+      "num": 205950,
+      "word": "这逗猫棒是不是开了防沉迷",
+      "onboard_time": 1679807308,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 124002,
@@ -747,20 +811,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117944,
+      "num": 273163,
+      "word": "朱辰杰乌龙",
+      "onboard_time": 1679804665,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 105517,
       "num": 271090,
       "word": "这就是看热闹的后果",
       "onboard_time": 1679802567,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 103796,
-      "num": 273163,
-      "word": "朱辰杰乌龙",
-      "onboard_time": 1679804665,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 101632,
@@ -841,6 +905,14 @@
       "onboard_time": 1679799929,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 71244,
+      "num": 322684,
+      "word": "微博之夜最全的明星生图",
+      "onboard_time": 1679806828,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 70112,
