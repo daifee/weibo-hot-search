@@ -1,6 +1,6 @@
 {
   "startTime": 1679761328845,
-  "endTime": 1679819623070,
+  "endTime": 1679822160143,
   "band_list": [
     {
       "raw_hot": 5965286,
@@ -131,6 +131,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1381349,
+      "num": 465009,
+      "word": "易烊千玺我可要坐直啦",
+      "onboard_time": 1679818286,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1330301,
       "num": 1330301,
       "word": "极限挑战",
@@ -177,14 +185,6 @@
       "onboard_time": 1679798485,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1237975,
-      "num": 243422,
-      "word": "易烊千玺我可要坐直啦",
-      "onboard_time": 1679818286,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1230575,
@@ -299,6 +299,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 817427,
+      "num": 817427,
+      "word": "铃芽之旅",
+      "onboard_time": 1679728418,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 815986,
       "num": 211272,
       "word": "宋佳亲马丽",
@@ -384,6 +392,14 @@
       "word": "杨紫蔷薇花裙",
       "onboard_time": 1679801847,
       "rank": 30,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 596599,
+      "num": 143243,
+      "word": "李现还扶了王俊凯",
+      "onboard_time": 1679820325,
+      "rank": 15,
       "category": "作品衍生"
     },
     {
@@ -481,6 +497,14 @@
       "onboard_time": 1679741922,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 457197,
+      "num": 457197,
+      "word": "深海",
+      "onboard_time": 1679821465,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 453309,
@@ -699,6 +723,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 268684,
+      "num": 142160,
+      "word": "苏醒晒与堂妹合照",
+      "onboard_time": 1679819727,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 264623,
       "num": 263200,
       "word": "LadyGaga小丑2红衣路透",
@@ -899,14 +931,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 179553,
-      "num": 306171,
-      "word": "铃芽之旅",
-      "onboard_time": 1679728418,
-      "rank": 43,
-      "category": "影视"
-    },
-    {
       "raw_hot": 179116,
       "num": 300892,
       "word": "只有妈妈会解读你的表情包",
@@ -1003,8 +1027,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 147944,
+      "num": 126305,
+      "word": "张真源上班VS下班",
+      "onboard_time": 1679821946,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 146290,
-      "num": 384381,
+      "num": 465453,
       "word": "一句话安利大家到你家乡旅游",
       "onboard_time": 1679817567,
       "rank": 2,
@@ -1017,6 +1049,30 @@
       "onboard_time": 1679747446,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 137294,
+      "num": 137294,
+      "word": "这才是正宗的躲猫猫",
+      "onboard_time": 1679821046,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 134747,
+      "num": 134747,
+      "word": "热烈的不是青春是大学生",
+      "onboard_time": 1679821707,
+      "rank": 27,
+      "category": "情感,教育"
+    },
+    {
+      "raw_hot": 128981,
+      "num": 128981,
+      "word": "Hero对战RW",
+      "onboard_time": 1679816665,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 124002,
@@ -1083,14 +1139,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 104763,
-      "num": 124542,
-      "word": "Hero对战RW",
-      "onboard_time": 1679816665,
-      "rank": 35,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 101632,
       "num": 185592,
       "word": "古巨基加盟剧好听的歌",
@@ -1139,8 +1187,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 80424,
-      "num": 122227,
+      "raw_hot": 83509,
+      "num": 126633,
       "word": "一种很新的哈利波特",
       "onboard_time": 1679818527,
       "rank": 48,
@@ -1195,20 +1243,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 62562,
+      "num": 196425,
+      "word": "反复敏感退退退",
+      "onboard_time": 1679817626,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 61724,
       "num": 312175,
       "word": "放在整个广告界也是相当炸裂",
       "onboard_time": 1679741079,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 60394,
-      "num": 196425,
-      "word": "反复敏感退退退",
-      "onboard_time": 1679817626,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 60321,
@@ -1372,6 +1420,9 @@
     },
     {
       "word": "#习主席对俄罗斯进行国事访问纪实#"
+    },
+    {
+      "word": "#2023网络名人四川行#"
     }
   ]
 }
