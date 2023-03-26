@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679830396934,
+  "endTime": 1679833923501,
   "band_list": [
     {
       "raw_hot": 27113842,
@@ -929,6 +929,14 @@
       "onboard_time": 1679280628,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1613455,
+      "num": 1613455,
+      "word": "截图癖",
+      "onboard_time": 1679832448,
+      "rank": 1,
+      "category": "幽默"
     },
     {
       "raw_hot": 1609758,
@@ -1932,7 +1940,7 @@
     },
     {
       "raw_hot": 1092637,
-      "num": 315064,
+      "num": 390399,
       "word": "何炅黄磊 杭州",
       "onboard_time": 1679826091,
       "rank": 11,
@@ -2091,6 +2099,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 1040037,
+      "num": 1040037,
+      "word": "微博之夜高定礼服大总结",
+      "onboard_time": 1679824648,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1039645,
       "num": 1039645,
       "word": "家长称4名失联男孩已在缅甸",
@@ -2233,14 +2249,6 @@
       "onboard_time": 1679666731,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 992588,
-      "num": 992588,
-      "word": "微博之夜高定礼服大总结",
-      "onboard_time": 1679824648,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 992480,
@@ -3145,6 +3153,14 @@
       "onboard_time": 1679284950,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 786386,
+      "num": 786386,
+      "word": "孙俪看五哈泼水",
+      "onboard_time": 1679831546,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 784224,
@@ -5403,6 +5419,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 469010,
+      "num": 422087,
+      "word": "肖战差点绊倒自己",
+      "onboard_time": 1679831070,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 468885,
       "num": 468885,
       "word": "杨颖八个字介绍跑男11季主题",
@@ -5505,6 +5529,14 @@
       "onboard_time": 1679627490,
       "rank": 45,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 461218,
+      "num": 461218,
+      "word": "胖东来回应设委屈奖",
+      "onboard_time": 1679832747,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 460812,
@@ -7539,6 +7571,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 303201,
+      "num": 242884,
+      "word": "Angelababy微博之夜幕后花絮",
+      "onboard_time": 1679833168,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 301526,
       "num": 301526,
       "word": "HLE战胜DK",
@@ -8699,6 +8739,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 245841,
+      "num": 245841,
+      "word": "星期天晚上我下定决心",
+      "onboard_time": 1679831606,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 245780,
       "num": 245780,
       "word": "鞠婧祎抹胸小黑裙拍摄路透",
@@ -8841,6 +8889,14 @@
       "onboard_time": 1679393549,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 242130,
+      "num": 164777,
+      "word": "内娱神仙音色",
+      "onboard_time": 1679832866,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 242022,
@@ -9267,6 +9323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 228144,
+      "num": 228144,
+      "word": "WBG对战RA",
+      "onboard_time": 1679833827,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 228037,
       "num": 228037,
       "word": "官方回应母女住民宿遭男房东强闯",
@@ -9465,6 +9529,14 @@
       "onboard_time": 1679373333,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 220743,
+      "num": 159015,
+      "word": "上海街头偶遇董洁",
+      "onboard_time": 1679833468,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 220592,
@@ -9905,6 +9977,14 @@
       "onboard_time": 1679566467,
       "rank": 30,
       "category": "其它"
+    },
+    {
+      "raw_hot": 208960,
+      "num": 208960,
+      "word": "丫丫爬树了",
+      "onboard_time": 1679833528,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 208959,
@@ -11163,6 +11243,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 186743,
+      "num": 133059,
+      "word": "TES战胜MTG",
+      "onboard_time": 1679833227,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 186503,
+      "num": 186503,
+      "word": "王楚钦3比2周恺",
+      "onboard_time": 1679831129,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 186396,
       "num": 186396,
       "word": "那英马嘉祺组合名",
@@ -11923,6 +12019,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 169096,
+      "num": 114092,
+      "word": "陈伟霆直播",
+      "onboard_time": 1679832625,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 168840,
       "num": 168840,
       "word": "感受到了打工人的怨气",
@@ -12379,6 +12483,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 156542,
+      "num": 129489,
+      "word": "巴黎人的人生态度",
+      "onboard_time": 1679832567,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 156410,
       "num": 156410,
       "word": "王鹤棣时宴杀青plog",
@@ -12684,7 +12796,7 @@
     },
     {
       "raw_hot": 148075,
-      "num": 1229741,
+      "num": 1435238,
       "word": "一句话安利大家到你家乡旅游",
       "onboard_time": 1679817567,
       "rank": 2,
@@ -13099,6 +13211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 137380,
+      "num": 137380,
+      "word": "这狐狸什么家庭条件",
+      "onboard_time": 1679833585,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 136929,
       "num": 136929,
       "word": "4K视频看春日大美中国",
@@ -13233,6 +13353,14 @@
       "onboard_time": 1679537727,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 133894,
+      "num": 110560,
+      "word": "陈晓一人分饰老中青三代许慎",
+      "onboard_time": 1679832148,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 133612,
@@ -13651,6 +13779,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 124443,
+      "num": 124443,
+      "word": "这大体格真不像猫",
+      "onboard_time": 1679833768,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 124239,
       "num": 124239,
       "word": "樊振东卫冕男单冠军",
@@ -13865,6 +14001,14 @@
       "onboard_time": 1679394388,
       "rank": 49,
       "category": "幽默,时尚"
+    },
+    {
+      "raw_hot": 119081,
+      "num": 119081,
+      "word": "喜欢收集购物袋的朋友",
+      "onboard_time": 1679832506,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 118716,
@@ -14139,6 +14283,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 106941,
+      "num": 117941,
+      "word": "第五人格COA6抽签",
+      "onboard_time": 1679832266,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 106507,
       "num": 106507,
       "word": "比人还像人的宠物",
@@ -14249,6 +14401,14 @@
       "onboard_time": 1679220148,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 102642,
+      "num": 102642,
+      "word": "高铁上太吵的解决办法",
+      "onboard_time": 1679833650,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 102566,

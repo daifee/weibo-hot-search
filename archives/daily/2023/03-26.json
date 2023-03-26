@@ -1,6 +1,6 @@
 {
   "startTime": 1679761328845,
-  "endTime": 1679830396934,
+  "endTime": 1679833923501,
   "band_list": [
     {
       "raw_hot": 5965286,
@@ -97,6 +97,14 @@
       "onboard_time": 1679798008,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1613455,
+      "num": 1613455,
+      "word": "截图癖",
+      "onboard_time": 1679832448,
+      "rank": 1,
+      "category": "幽默"
     },
     {
       "raw_hot": 1498333,
@@ -244,7 +252,7 @@
     },
     {
       "raw_hot": 1092637,
-      "num": 315064,
+      "num": 390399,
       "word": "何炅黄磊 杭州",
       "onboard_time": 1679826091,
       "rank": 11,
@@ -259,20 +267,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1040037,
+      "num": 1040037,
+      "word": "微博之夜高定礼服大总结",
+      "onboard_time": 1679824648,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1007186,
       "num": 1007186,
       "word": "铃芽之旅",
       "onboard_time": 1679728418,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 992588,
-      "num": 992588,
-      "word": "微博之夜高定礼服大总结",
-      "onboard_time": 1679824648,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 991724,
@@ -385,6 +393,14 @@
       "onboard_time": 1679801607,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 786386,
+      "num": 786386,
+      "word": "孙俪看五哈泼水",
+      "onboard_time": 1679831546,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 776619,
@@ -611,12 +627,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 469010,
+      "num": 422087,
+      "word": "肖战差点绊倒自己",
+      "onboard_time": 1679831070,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 465248,
       "num": 186389,
       "word": "田曦薇香槟色抹胸长裙",
       "onboard_time": 1679818286,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 461218,
+      "num": 461218,
+      "word": "胖东来回应设委屈奖",
+      "onboard_time": 1679832747,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 458040,
@@ -761,6 +793,14 @@
       "onboard_time": 1679752613,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 303201,
+      "num": 242884,
+      "word": "Angelababy微博之夜幕后花絮",
+      "onboard_time": 1679833168,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 301009,
@@ -923,12 +963,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 245841,
+      "num": 245841,
+      "word": "星期天晚上我下定决心",
+      "onboard_time": 1679831606,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 242901,
       "num": 242901,
       "word": "世乒赛选拔比分",
       "onboard_time": 1679810545,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 242130,
+      "num": 164777,
+      "word": "内娱神仙音色",
+      "onboard_time": 1679832866,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 235055,
@@ -947,6 +1003,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 228144,
+      "num": 228144,
+      "word": "WBG对战RA",
+      "onboard_time": 1679833827,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 227429,
       "num": 274464,
       "word": "怎么混进了个假布娃娃",
@@ -961,6 +1025,14 @@
       "onboard_time": 1679811025,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 220743,
+      "num": 159015,
+      "word": "上海街头偶遇董洁",
+      "onboard_time": 1679833468,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 216045,
@@ -985,6 +1057,14 @@
       "onboard_time": 1679790083,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 208960,
+      "num": 208960,
+      "word": "丫丫爬树了",
+      "onboard_time": 1679833528,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 207363,
@@ -1179,6 +1259,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 186743,
+      "num": 133059,
+      "word": "TES战胜MTG",
+      "onboard_time": 1679833227,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 186503,
+      "num": 186503,
+      "word": "王楚钦3比2周恺",
+      "onboard_time": 1679831129,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 184297,
       "num": 125046,
       "word": "朴志晟香港演唱会舞台",
@@ -1233,6 +1329,14 @@
       "onboard_time": 1679812764,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 169096,
+      "num": 114092,
+      "word": "陈伟霆直播",
+      "onboard_time": 1679832625,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 168732,
@@ -1291,6 +1395,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 156542,
+      "num": 129489,
+      "word": "巴黎人的人生态度",
+      "onboard_time": 1679832567,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 153735,
       "num": 459451,
       "word": "警方通报女子遭多名男子殴打",
@@ -1316,7 +1428,7 @@
     },
     {
       "raw_hot": 148075,
-      "num": 1229741,
+      "num": 1435238,
       "word": "一句话安利大家到你家乡旅游",
       "onboard_time": 1679817567,
       "rank": 2,
@@ -1329,6 +1441,22 @@
       "onboard_time": 1679747446,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 137380,
+      "num": 137380,
+      "word": "这狐狸什么家庭条件",
+      "onboard_time": 1679833585,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 133894,
+      "num": 110560,
+      "word": "陈晓一人分饰老中青三代许慎",
+      "onboard_time": 1679832148,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 128981,
@@ -1345,6 +1473,14 @@
       "onboard_time": 1679822187,
       "rank": 29,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 124443,
+      "num": 124443,
+      "word": "这大体格真不像猫",
+      "onboard_time": 1679833768,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 124002,
@@ -1395,6 +1531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119081,
+      "num": 119081,
+      "word": "喜欢收集购物袋的朋友",
+      "onboard_time": 1679832506,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 117944,
       "num": 273163,
       "word": "朱辰杰乌龙",
@@ -1411,6 +1555,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 106941,
+      "num": 117941,
+      "word": "第五人格COA6抽签",
+      "onboard_time": 1679832266,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 105517,
       "num": 271090,
       "word": "这就是看热闹的后果",
@@ -1425,6 +1577,14 @@
       "onboard_time": 1679829206,
       "rank": 49,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 102642,
+      "num": 102642,
+      "word": "高铁上太吵的解决办法",
+      "onboard_time": 1679833650,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 101632,
