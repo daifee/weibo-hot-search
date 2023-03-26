@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679822160143,
+  "endTime": 1679823202446,
   "band_list": [
     {
       "raw_hot": 27113842,
@@ -1276,7 +1276,7 @@
     },
     {
       "raw_hot": 1381349,
-      "num": 465009,
+      "num": 547431,
       "word": "易烊千玺我可要坐直啦",
       "onboard_time": 1679818286,
       "rank": 15,
@@ -3899,12 +3899,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 631763,
+      "num": 205704,
+      "word": "李现还扶了王俊凯",
+      "onboard_time": 1679820325,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 631562,
       "num": 498358,
       "word": "李彦宏称中国基本不会再出OpenAI",
       "onboard_time": 1679543306,
       "rank": 15,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 631213,
+      "num": 631213,
+      "word": "深海",
+      "onboard_time": 1679648609,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 631064,
@@ -4171,10 +4187,10 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 596599,
-      "num": 143243,
-      "word": "李现还扶了王俊凯",
-      "onboard_time": 1679820325,
+      "raw_hot": 595643,
+      "num": 189877,
+      "word": "惠英红问宋佳你怎么不亲我",
+      "onboard_time": 1679822726,
       "rank": 15,
       "category": "作品衍生"
     },
@@ -4827,6 +4843,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 514525,
+      "num": 514525,
+      "word": "胖东来",
+      "onboard_time": 1679822608,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 514422,
       "num": 355454,
       "word": "为什么孕期一定要认真对待",
@@ -5417,14 +5441,6 @@
       "onboard_time": 1679553566,
       "rank": 16,
       "category": "科技"
-    },
-    {
-      "raw_hot": 457197,
-      "num": 457197,
-      "word": "深海",
-      "onboard_time": 1679648609,
-      "rank": 29,
-      "category": "影视"
     },
     {
       "raw_hot": 456820,
@@ -7867,6 +7883,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 280194,
+      "num": 189510,
+      "word": "苏醒晒与堂妹合照",
+      "onboard_time": 1679819727,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 279520,
       "num": 285576,
       "word": "张远官宣加盟毛雪汪",
@@ -8041,14 +8065,6 @@
       "onboard_time": 1679224887,
       "rank": 16,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 268684,
-      "num": 142160,
-      "word": "苏醒晒与堂妹合照",
-      "onboard_time": 1679819727,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 267263,
@@ -9811,6 +9827,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 206727,
+      "num": 206727,
+      "word": "Hero战胜RW",
+      "onboard_time": 1679822966,
+      "rank": 11,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 206562,
       "num": 100331,
       "word": "周笔畅露背西装",
@@ -10009,6 +10033,14 @@
       "onboard_time": 1679483607,
       "rank": 36,
       "category": "美食"
+    },
+    {
+      "raw_hot": 203790,
+      "num": 126305,
+      "word": "张真源上班VS下班",
+      "onboard_time": 1679821946,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 203684,
@@ -10771,6 +10803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 190381,
+      "num": 190381,
+      "word": "KPL",
+      "onboard_time": 1679670450,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 190307,
       "num": 300968,
       "word": "宣璐簪花妆",
@@ -10859,12 +10899,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 187855,
-      "num": 187855,
-      "word": "KPL",
-      "onboard_time": 1679670450,
-      "rank": 32,
-      "category": "游戏"
+      "raw_hot": 187764,
+      "num": 187764,
+      "word": "了不起的夜晚",
+      "onboard_time": 1679822365,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 187497,
@@ -11939,6 +11979,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 162183,
+      "num": 162183,
+      "word": "这才是正宗的躲猫猫",
+      "onboard_time": 1679821046,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 162113,
       "num": 162113,
       "word": "大学生的椅子都在忍辱负重",
@@ -11961,6 +12009,14 @@
       "onboard_time": 1679668770,
       "rank": 44,
       "category": "美食"
+    },
+    {
+      "raw_hot": 161841,
+      "num": 190238,
+      "word": "热烈的不是青春是大学生",
+      "onboard_time": 1679821707,
+      "rank": 27,
+      "category": "情感,教育"
     },
     {
       "raw_hot": 161754,
@@ -12403,20 +12459,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 148075,
+      "num": 548038,
+      "word": "一句话安利大家到你家乡旅游",
+      "onboard_time": 1679817567,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147963,
       "num": 147963,
       "word": "放在全国毕业季都相当炸裂",
       "onboard_time": 1679290649,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 147944,
-      "num": 126305,
-      "word": "张真源上班VS下班",
-      "onboard_time": 1679821946,
-      "rank": 43,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 147896,
@@ -12497,14 +12553,6 @@
       "onboard_time": 1679613439,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 146290,
-      "num": 465453,
-      "word": "一句话安利大家到你家乡旅游",
-      "onboard_time": 1679817567,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 146152,
@@ -12827,14 +12875,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 137294,
-      "num": 137294,
-      "word": "这才是正宗的躲猫猫",
-      "onboard_time": 1679821046,
-      "rank": 24,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 136929,
       "num": 136929,
       "word": "4K视频看春日大美中国",
@@ -12929,14 +12969,6 @@
       "onboard_time": 1679380709,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 134747,
-      "num": 134747,
-      "word": "热烈的不是青春是大学生",
-      "onboard_time": 1679821707,
-      "rank": 27,
-      "category": "情感,教育"
     },
     {
       "raw_hot": 134626,
@@ -13371,6 +13403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125086,
+      "num": 125086,
+      "word": "妈妈为宝宝种植盆栽果树",
+      "onboard_time": 1679822187,
+      "rank": 29,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 124839,
       "num": 247931,
       "word": "76人vs勇士",
@@ -13576,6 +13616,14 @@
       "word": "把我家当成月子中心的猫咪",
       "onboard_time": 1679647167,
       "rank": 36,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 120035,
+      "num": 120035,
+      "word": "你猜我为啥在这里录像",
+      "onboard_time": 1679822726,
+      "rank": 30,
       "category": "幽默"
     },
     {
@@ -14887,6 +14935,9 @@
     },
     {
       "word": "#2023网络名人四川行#"
+    },
+    {
+      "word": "#中国和洪都拉斯建交#"
     }
   ]
 }
