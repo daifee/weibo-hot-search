@@ -1,6 +1,6 @@
 {
   "startTime": 1679761328845,
-  "endTime": 1679801602781,
+  "endTime": 1679804462177,
   "band_list": [
     {
       "raw_hot": 5965286,
@@ -33,6 +33,14 @@
       "onboard_time": 1679755019,
       "rank": 3,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 2726859,
+      "num": 2726859,
+      "word": "中国和洪都拉斯建交",
+      "onboard_time": 1679802811,
+      "rank": 0,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 2693887,
@@ -124,15 +132,15 @@
     },
     {
       "raw_hot": 1248574,
-      "num": 460327,
+      "num": 466930,
       "word": "吴卓羲爆料黄宗泽正在恋爱",
       "onboard_time": 1679798485,
       "rank": 10,
       "category": "综艺"
     },
     {
-      "raw_hot": 1028914,
-      "num": 1028914,
+      "raw_hot": 1058355,
+      "num": 1058355,
       "word": "台外事部门紧急发出临时记者会通知",
       "onboard_time": 1679798066,
       "rank": 35,
@@ -195,6 +203,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 810168,
+      "num": 348990,
+      "word": "张婧仪把粉丝签名的旗拿回去了",
+      "onboard_time": 1679801607,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 778386,
+      "num": 241752,
+      "word": "白鹿内场看张凌赫的眼神",
+      "onboard_time": 1679803288,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 776619,
       "num": 771609,
       "word": "迪丽热巴wink",
@@ -235,6 +259,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 625490,
+      "num": 625490,
+      "word": "女生靠摆地摊还清百万负债",
+      "onboard_time": 1679801067,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 536933,
       "num": 459194,
       "word": "85花同台",
@@ -243,11 +275,27 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 533391,
+      "num": 228762,
+      "word": "迪丽热巴复古美学花絮",
+      "onboard_time": 1679801728,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 530073,
       "num": 220028,
       "word": "王一博大鹏杜华合影",
       "onboard_time": 1679800709,
       "rank": 36,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 521821,
+      "num": 223000,
+      "word": "杨紫蔷薇花裙",
+      "onboard_time": 1679801847,
+      "rank": 30,
       "category": "作品衍生"
     },
     {
@@ -275,6 +323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 491302,
+      "num": 388667,
+      "word": "万茜说上班姐姐下班辣妹",
+      "onboard_time": 1679804065,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 484379,
       "num": 428471,
       "word": "张俪说不要妥协婚姻",
@@ -297,6 +353,14 @@
       "onboard_time": 1679758783,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 441021,
+      "num": 441021,
+      "word": "洪都拉斯声明台湾是中国的一部分",
+      "onboard_time": 1679802086,
+      "rank": 11,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 428532,
@@ -323,20 +387,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 396857,
+      "num": 396857,
+      "word": "当发现同事想辞职时",
+      "onboard_time": 1679801666,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 391988,
+      "num": 391988,
+      "word": "考研复试的我belike",
+      "onboard_time": 1679799448,
+      "rank": 13,
+      "category": "幽默,教育"
+    },
+    {
       "raw_hot": 361784,
       "num": 361784,
       "word": "郑容和当林俊杰演唱会嘉宾",
       "onboard_time": 1679750328,
       "rank": 33,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 351528,
-      "num": 351528,
-      "word": "考研复试的我belike",
-      "onboard_time": 1679799448,
-      "rank": 13,
-      "category": "幽默,教育"
     },
     {
       "raw_hot": 348358,
@@ -360,6 +432,14 @@
       "word": "微博之夜世纪同框",
       "onboard_time": 1679746251,
       "rank": 40,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 330651,
+      "num": 195494,
+      "word": "李宇春微博之夜如坐珍毡",
+      "onboard_time": 1679804128,
+      "rank": 48,
       "category": "作品衍生"
     },
     {
@@ -401,6 +481,14 @@
       "onboard_time": 1679741262,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 288173,
+      "num": 288173,
+      "word": "大熊猫的DNA里只有努力",
+      "onboard_time": 1679799689,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 279980,
@@ -456,14 +544,6 @@
       "word": "突然收到高中同学的一封邮件",
       "onboard_time": 1679740661,
       "rank": 17,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 212582,
-      "num": 225478,
-      "word": "大熊猫的DNA里只有努力",
-      "onboard_time": 1679799689,
-      "rank": 23,
       "category": "情感"
     },
     {
@@ -596,7 +676,7 @@
     },
     {
       "raw_hot": 158933,
-      "num": 226782,
+      "num": 230357,
       "word": "老人病危床前叮嘱家人照顾老伴",
       "onboard_time": 1679799209,
       "rank": 20,
@@ -627,12 +707,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 126126,
+      "num": 238534,
+      "word": "上着课老师突然劈了个叉",
+      "onboard_time": 1679803528,
+      "rank": 22,
+      "category": "教育,幽默"
+    },
+    {
       "raw_hot": 124002,
       "num": 334709,
       "word": "这在传单界都是难以拒绝的",
       "onboard_time": 1679758247,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 122170,
+      "num": 237126,
+      "word": "妈妈用魔法打败魔法",
+      "onboard_time": 1679799929,
+      "rank": 29,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 121141,
@@ -643,12 +739,20 @@
       "category": "作品衍生,音乐"
     },
     {
-      "raw_hot": 119344,
-      "num": 222908,
-      "word": "妈妈用魔法打败魔法",
-      "onboard_time": 1679799929,
-      "rank": 29,
-      "category": "情感,幽默"
+      "raw_hot": 119712,
+      "num": 232689,
+      "word": "国足vs新西兰",
+      "onboard_time": 1679801728,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 105517,
+      "num": 227467,
+      "word": "这就是看热闹的后果",
+      "onboard_time": 1679802567,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 101632,
@@ -723,6 +827,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 74828,
+      "num": 1058470,
+      "word": "强科技端牢中国饭碗",
+      "onboard_time": 1679799929,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 70112,
       "num": 316197,
       "word": "369奶奶现场观赛",
@@ -745,14 +857,6 @@
       "onboard_time": 1679741079,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 60969,
-      "num": 1058470,
-      "word": "强科技端牢中国饭碗",
-      "onboard_time": 1679799929,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 60321,
@@ -817,14 +921,6 @@
       "onboard_time": 1679751656,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 44042,
-      "num": 200902,
-      "word": "女生靠摆地摊还清百万负债",
-      "onboard_time": 1679801067,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 38726,
