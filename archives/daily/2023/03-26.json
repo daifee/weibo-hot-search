@@ -1,6 +1,6 @@
 {
   "startTime": 1679761328845,
-  "endTime": 1679804462177,
+  "endTime": 1679805308589,
   "band_list": [
     {
       "raw_hot": 5965286,
@@ -147,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 963914,
+      "num": 427769,
+      "word": "白鹿内场看张凌赫的眼神",
+      "onboard_time": 1679803288,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 943533,
       "num": 1774968,
       "word": "因航班延误缺考复试考研生崩溃大哭",
@@ -195,6 +203,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 846910,
+      "num": 431872,
+      "word": "万茜说上班姐姐下班辣妹",
+      "onboard_time": 1679804065,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 818952,
       "num": 300930,
       "word": "明星微博之夜下班随拍",
@@ -211,12 +227,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 778386,
-      "num": 241752,
-      "word": "白鹿内场看张凌赫的眼神",
-      "onboard_time": 1679803288,
-      "rank": 21,
-      "category": "作品衍生"
+      "raw_hot": 801029,
+      "num": 801029,
+      "word": "女生靠摆地摊还清百万负债",
+      "onboard_time": 1679801067,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 776619,
@@ -259,12 +275,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 625490,
-      "num": 625490,
-      "word": "女生靠摆地摊还清百万负债",
-      "onboard_time": 1679801067,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 600474,
+      "num": 274429,
+      "word": "杨紫蔷薇花裙",
+      "onboard_time": 1679801847,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 545058,
+      "num": 272843,
+      "word": "迪丽热巴复古美学花絮",
+      "onboard_time": 1679801728,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 536933,
@@ -275,28 +299,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 533391,
-      "num": 228762,
-      "word": "迪丽热巴复古美学花絮",
-      "onboard_time": 1679801728,
-      "rank": 27,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 530073,
-      "num": 220028,
+      "num": 266314,
       "word": "王一博大鹏杜华合影",
       "onboard_time": 1679800709,
       "rank": 36,
       "category": "作品衍生"
     },
     {
-      "raw_hot": 521821,
-      "num": 223000,
-      "word": "杨紫蔷薇花裙",
-      "onboard_time": 1679801847,
-      "rank": 30,
-      "category": "作品衍生"
+      "raw_hot": 503981,
+      "num": 503981,
+      "word": "洪都拉斯声明台湾是中国的一部分",
+      "onboard_time": 1679802086,
+      "rank": 11,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 503718,
@@ -308,7 +324,7 @@
     },
     {
       "raw_hot": 503571,
-      "num": 221245,
+      "num": 264891,
       "word": "杨幂说感恩认可未来一起加油",
       "onboard_time": 1679800826,
       "rank": 33,
@@ -323,20 +339,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 491302,
-      "num": 388667,
-      "word": "万茜说上班姐姐下班辣妹",
-      "onboard_time": 1679804065,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 484379,
       "num": 428471,
       "word": "张俪说不要妥协婚姻",
       "onboard_time": 1679798848,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 480324,
+      "num": 270704,
+      "word": "李宇春微博之夜如坐珍毡",
+      "onboard_time": 1679804128,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 458040,
@@ -355,20 +371,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 441021,
-      "num": 441021,
-      "word": "洪都拉斯声明台湾是中国的一部分",
-      "onboard_time": 1679802086,
-      "rank": 11,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 428532,
       "num": 1646133,
       "word": "离职最后一天还被安排工作",
       "onboard_time": 1679746318,
       "rank": 8,
       "category": "情感"
+    },
+    {
+      "raw_hot": 427915,
+      "num": 427915,
+      "word": "当发现同事想辞职时",
+      "onboard_time": 1679801666,
+      "rank": 13,
+      "category": "幽默"
     },
     {
       "raw_hot": 417309,
@@ -385,14 +401,6 @@
       "onboard_time": 1679795066,
       "rank": 7,
       "category": "教育"
-    },
-    {
-      "raw_hot": 396857,
-      "num": 396857,
-      "word": "当发现同事想辞职时",
-      "onboard_time": 1679801666,
-      "rank": 13,
-      "category": "幽默"
     },
     {
       "raw_hot": 391988,
@@ -432,14 +440,6 @@
       "word": "微博之夜世纪同框",
       "onboard_time": 1679746251,
       "rank": 40,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 330651,
-      "num": 195494,
-      "word": "李宇春微博之夜如坐珍毡",
-      "onboard_time": 1679804128,
-      "rank": 48,
       "category": "作品衍生"
     },
     {
@@ -500,7 +500,7 @@
     },
     {
       "raw_hot": 274077,
-      "num": 222251,
+      "num": 261619,
       "word": "林俊杰雨中唱江南",
       "onboard_time": 1679800468,
       "rank": 31,
@@ -508,7 +508,7 @@
     },
     {
       "raw_hot": 264623,
-      "num": 218569,
+      "num": 263200,
       "word": "LadyGaga小丑2红衣路透",
       "onboard_time": 1679799089,
       "rank": 40,
@@ -516,7 +516,7 @@
     },
     {
       "raw_hot": 250806,
-      "num": 221874,
+      "num": 260976,
       "word": "嘘嘘出席陆虎演唱会",
       "onboard_time": 1679799388,
       "rank": 32,
@@ -545,6 +545,14 @@
       "onboard_time": 1679740661,
       "rank": 17,
       "category": "情感"
+    },
+    {
+      "raw_hot": 214873,
+      "num": 277564,
+      "word": "上着课老师突然劈了个叉",
+      "onboard_time": 1679803528,
+      "rank": 22,
+      "category": "教育,幽默"
     },
     {
       "raw_hot": 211687,
@@ -676,7 +684,7 @@
     },
     {
       "raw_hot": 158933,
-      "num": 230357,
+      "num": 272122,
       "word": "老人病危床前叮嘱家人照顾老伴",
       "onboard_time": 1679799209,
       "rank": 20,
@@ -707,14 +715,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 126126,
-      "num": 238534,
-      "word": "上着课老师突然劈了个叉",
-      "onboard_time": 1679803528,
-      "rank": 22,
-      "category": "教育,幽默"
-    },
-    {
       "raw_hot": 124002,
       "num": 334709,
       "word": "这在传单界都是难以拒绝的",
@@ -724,7 +724,7 @@
     },
     {
       "raw_hot": 122170,
-      "num": 237126,
+      "num": 274336,
       "word": "妈妈用魔法打败魔法",
       "onboard_time": 1679799929,
       "rank": 29,
@@ -740,7 +740,7 @@
     },
     {
       "raw_hot": 119712,
-      "num": 232689,
+      "num": 275270,
       "word": "国足vs新西兰",
       "onboard_time": 1679801728,
       "rank": 25,
@@ -748,11 +748,19 @@
     },
     {
       "raw_hot": 105517,
-      "num": 227467,
+      "num": 271090,
       "word": "这就是看热闹的后果",
       "onboard_time": 1679802567,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 103796,
+      "num": 273163,
+      "word": "朱辰杰乌龙",
+      "onboard_time": 1679804665,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 101632,
