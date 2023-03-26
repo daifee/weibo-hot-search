@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679847731504,
+  "endTime": 1679848707023,
   "band_list": [
     {
       "raw_hot": 27113842,
@@ -14249,6 +14249,14 @@
       "onboard_time": 1678881267,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 571693,
+      "num": 571693,
+      "word": "河道英不离开妍珍的理由",
+      "onboard_time": 1679847924,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 571688,
@@ -37459,6 +37467,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 197525,
+      "num": 197525,
+      "word": "林俊杰给场外观众发荧光棒",
+      "onboard_time": 1679848642,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 197507,
       "num": 197507,
       "word": "白鹿以爱为营杀青plog",
@@ -39137,6 +39153,14 @@
       "onboard_time": 1679228967,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 189898,
+      "num": 166733,
+      "word": "乘客定位错怒吼辱骂网约车司机",
+      "onboard_time": 1679846424,
+      "rank": 35,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 189894,
@@ -40969,6 +40993,14 @@
       "onboard_time": 1679570486,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 177053,
+      "num": 177053,
+      "word": "祝绪丹穿公主裙走秀",
+      "onboard_time": 1679848280,
+      "rank": 18,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 177018,
@@ -46929,14 +46961,6 @@
       "onboard_time": 1678553780,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 132409,
-      "num": 132409,
-      "word": "乘客定位错怒吼辱骂网约车司机",
-      "onboard_time": 1679846424,
-      "rank": 35,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 132148,
