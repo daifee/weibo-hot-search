@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679852017000,
+  "endTime": 1679854828951,
   "band_list": [
     {
       "raw_hot": 27113842,
@@ -53633,6 +53633,14 @@
       "onboard_time": 1677612252,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22538,
+      "num": 25253,
+      "word": "阿奶给刘亦菲颁奖",
+      "onboard_time": 1679854754,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 22436,
