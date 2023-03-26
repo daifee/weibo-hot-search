@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679787237794,
+  "endTime": 1679794611397,
   "band_list": [
     {
       "raw_hot": 27113842,
@@ -225,6 +225,14 @@
       "onboard_time": 1679574088,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 3514863,
+      "num": 3529727,
+      "word": "洪都拉斯宣布与台湾断绝外交关系",
+      "onboard_time": 1679793025,
+      "rank": 0,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 3489312,
@@ -2363,6 +2371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 920726,
+      "num": 235226,
+      "word": "周深真的很想逃",
+      "onboard_time": 1679790385,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 917738,
       "num": 634227,
       "word": "花三三道歉",
@@ -2473,6 +2489,14 @@
       "onboard_time": 1679741262,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 887313,
+      "num": 887313,
+      "word": "中华小当家原型去世",
+      "onboard_time": 1679787980,
+      "rank": 1,
+      "category": "动漫,影视"
     },
     {
       "raw_hot": 884764,
@@ -2675,6 +2699,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 841052,
+      "num": 588597,
+      "word": "李现扶完迪丽热巴扶杨紫",
+      "onboard_time": 1679759501,
+      "rank": 5,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 840129,
       "num": 840129,
       "word": "凉拌菜是减脂餐的天花板吧",
@@ -2723,6 +2755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 829393,
+      "num": 197790,
+      "word": "肖战跑着下班",
+      "onboard_time": 1679791647,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 829208,
       "num": 247621,
       "word": "小红书崩了",
@@ -2761,6 +2801,14 @@
       "onboard_time": 1679468067,
       "rank": 0,
       "category": "教育"
+    },
+    {
+      "raw_hot": 818952,
+      "num": 189977,
+      "word": "明星微博之夜下班随拍",
+      "onboard_time": 1679790805,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 818656,
@@ -3523,6 +3571,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 645773,
+      "num": 187662,
+      "word": "微博之夜荣誉名单",
+      "onboard_time": 1679792727,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 645746,
       "num": 645746,
       "word": "EXO三大主唱经典高音现场",
@@ -3569,6 +3625,14 @@
       "onboard_time": 1679658751,
       "rank": 9,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 639970,
+      "num": 639970,
+      "word": "杨丞琳去了李荣浩演唱会",
+      "onboard_time": 1679790324,
+      "rank": 5,
+      "category": "音乐"
     },
     {
       "raw_hot": 639785,
@@ -3937,14 +4001,6 @@
       "onboard_time": 1679448090,
       "rank": 44,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 588597,
-      "num": 588597,
-      "word": "李现扶完迪丽热巴扶杨紫",
-      "onboard_time": 1679759501,
-      "rank": 5,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 587818,
@@ -6427,6 +6483,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 337069,
+      "num": 186749,
+      "word": "邓超分口香糖",
+      "onboard_time": 1679790143,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 336300,
       "num": 336300,
       "word": "熊猫妈妈示范怎么吸熊猫",
@@ -7216,6 +7280,14 @@
       "word": "任正非称不能垄断人才",
       "onboard_time": 1679281767,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 289529,
+      "num": 289529,
+      "word": "公司女更衣室装监控近十年",
+      "onboard_time": 1679772433,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -9075,6 +9147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 211687,
+      "num": 185392,
+      "word": "长空之王恭喜王一博获奖",
+      "onboard_time": 1679790083,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 211547,
       "num": 211547,
       "word": "庞博发长文告别最强大脑",
@@ -10179,6 +10259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 190174,
+      "num": 190174,
+      "word": "2岁萌娃给民警指路全靠默契",
+      "onboard_time": 1679788824,
+      "rank": 20,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 189860,
       "num": 189860,
       "word": "汇丰银行开门7天应对通关后开户需求",
@@ -10209,6 +10297,14 @@
       "onboard_time": 1679483007,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 188700,
+      "num": 188700,
+      "word": "原来真的有猫会后空翻",
+      "onboard_time": 1679789364,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 188566,
@@ -10635,6 +10731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 179116,
+      "num": 188578,
+      "word": "只有妈妈会解读你的表情包",
+      "onboard_time": 1679788762,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 179047,
       "num": 179047,
       "word": "这俩熊猫是复制粘贴吧",
@@ -10913,6 +11017,14 @@
       "onboard_time": 1679387489,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 172220,
+      "num": 209731,
+      "word": "宣璐簪花妆",
+      "onboard_time": 1679791647,
+      "rank": 16,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 172062,
@@ -11340,7 +11452,7 @@
     },
     {
       "raw_hot": 161310,
-      "num": 161310,
+      "num": 224195,
       "word": "苏州医生在湖南培训顺手救人",
       "onboard_time": 1679780592,
       "rank": 19,
@@ -11441,14 +11553,6 @@
       "onboard_time": 1679389770,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 157137,
-      "num": 157137,
-      "word": "公司女更衣室装监控近十年",
-      "onboard_time": 1679772433,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 156410,
@@ -12507,6 +12611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 128616,
+      "num": 205175,
+      "word": "陆虎反正都是我巡演",
+      "onboard_time": 1679788703,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 128590,
       "num": 128590,
       "word": "律师谈男生造黄谣被开除学籍",
@@ -12809,6 +12921,14 @@
       "onboard_time": 1679479290,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 121141,
+      "num": 186888,
+      "word": "李宇春说今年会开演唱会",
+      "onboard_time": 1679794588,
+      "rank": 35,
+      "category": "作品衍生,音乐"
     },
     {
       "raw_hot": 120884,
@@ -13259,6 +13379,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 101632,
+      "num": 185592,
+      "word": "古巨基加盟剧好听的歌",
+      "onboard_time": 1679789185,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 101093,
       "num": 101093,
       "word": "最强大脑国际赛中国队名单",
@@ -13403,6 +13531,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 96160,
+      "num": 188247,
+      "word": "一张照片留住春天",
+      "onboard_time": 1679788824,
+      "rank": 26,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 95767,
       "num": 95767,
       "word": "井汲大翔晋级",
@@ -13467,12 +13603,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 91249,
+      "num": 184923,
+      "word": "肖战说以锐志拓步前行逐光追梦",
+      "onboard_time": 1679790504,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 91184,
       "num": 198167,
       "word": "买豪车的人在买啥",
       "onboard_time": 1679301987,
       "rank": 29,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 89654,
+      "num": 185199,
+      "word": "章昊三公舞台",
+      "onboard_time": 1679787800,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 89541,
@@ -13715,6 +13867,22 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 58916,
+      "num": 187319,
+      "word": "笑容逐渐消失的狗子",
+      "onboard_time": 1679775312,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 58437,
+      "num": 187001,
+      "word": "黄蜂战胜独行侠",
+      "onboard_time": 1679780532,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 55012,
       "num": 87496,
       "word": "崔杋圭舞台点燃玫瑰",
@@ -13777,6 +13945,14 @@
       "onboard_time": 1679677998,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 44980,
+      "num": 186379,
+      "word": "郑钦文晋级",
+      "onboard_time": 1679787199,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 42351,
@@ -13859,6 +14035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 35666,
+      "num": 185119,
+      "word": "青岛AR灯光秀之夜",
+      "onboard_time": 1679787380,
+      "rank": 47,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 35017,
       "num": 378765,
       "word": "罗永浩许愿成为行业明灯",
@@ -13875,28 +14059,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 34190,
-      "num": 83434,
-      "word": "黄蜂战胜独行侠",
-      "onboard_time": 1679780532,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 33531,
       "num": 1141730,
       "word": "落实重大发展战略开创事业新局",
       "onboard_time": 1679486968,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 33466,
-      "num": 83051,
-      "word": "笑容逐渐消失的狗子",
-      "onboard_time": 1679775312,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 32072,
@@ -13945,14 +14113,6 @@
       "onboard_time": 1679500289,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 29039,
-      "num": 77519,
-      "word": "郑钦文晋级",
-      "onboard_time": 1679787199,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 27779,
