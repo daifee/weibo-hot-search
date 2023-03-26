@@ -1,0 +1,410 @@
+{
+  "runTime": 1679830396934,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1922973,
+        "num": 1922973,
+        "word": "胖东来",
+        "onboard_time": 1679822608,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1469483,
+        "num": 1469483,
+        "word": "夫妻摆摊日入9千网友质疑让查税",
+        "onboard_time": 1679827826,
+        "rank": 1,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 90159,
+        "num": 1229741,
+        "word": "一句话安利大家到你家乡旅游",
+        "onboard_time": 1679817567,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 992588,
+        "num": 992588,
+        "word": "微博之夜高定礼服大总结",
+        "onboard_time": 1679824648,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 959495,
+        "num": 959495,
+        "word": "向往的生活",
+        "onboard_time": 1679824948,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 645676,
+        "num": 645676,
+        "word": "美术生又多了一个就业方向",
+        "onboard_time": 1679827047,
+        "rank": 5,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 732950,
+        "num": 615315,
+        "word": "易烊千玺我可要坐直啦",
+        "onboard_time": 1679818286,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 569347,
+        "num": 569347,
+        "word": "网传长月烬明将接档他是谁",
+        "onboard_time": 1679824948,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 518574,
+        "num": 518574,
+        "word": "他是谁",
+        "onboard_time": 1679827707,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 323588,
+        "num": 323588,
+        "word": "外交部回应卢拉因病推迟访华",
+        "onboard_time": 1679827586,
+        "rank": 9,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 973059,
+        "num": 315064,
+        "word": "何炅黄磊 杭州",
+        "onboard_time": 1679826091,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 485392,
+        "num": 306395,
+        "word": "张大大镜头下的杨幂",
+        "onboard_time": 1679814685,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 280635,
+        "num": 280635,
+        "word": "江西省考",
+        "onboard_time": 1679825129,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 165894,
+        "num": 280327,
+        "word": "热烈的不是青春是大学生",
+        "onboard_time": 1679821707,
+        "rank": 13,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 481597,
+        "num": 279692,
+        "word": "张婧仪回应用什么洗发水",
+        "onboard_time": 1679825668,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 427537,
+        "num": 279527,
+        "word": "时代少年团演唱会 海口",
+        "onboard_time": 1679826268,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 130944,
+        "num": 278680,
+        "word": "这就是无畏的坦野",
+        "onboard_time": 1679825610,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 475304,
+        "num": 278079,
+        "word": "惠英红问宋佳你怎么不亲我",
+        "onboard_time": 1679822726,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 124538,
+        "num": 277788,
+        "word": "法考",
+        "onboard_time": 1679807787,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 189714,
+        "num": 277165,
+        "word": "海南临高13岁被霸凌女孩曾被打多次",
+        "onboard_time": 1679809947,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 918174,
+        "num": 276492,
+        "word": "夫妻备孕多年终于怀孕宝宝先天无耳廓",
+        "onboard_time": 1679824227,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327434,
+        "num": 275900,
+        "word": "粉丝给王一博P的小丑海报",
+        "onboard_time": 1679823748,
+        "rank": 21,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 322329,
+        "num": 275339,
+        "word": "铃芽之旅",
+        "onboard_time": 1679821287,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 246494,
+        "num": 275263,
+        "word": "我求求你把这个班给我上",
+        "onboard_time": 1679813066,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 208242,
+        "num": 274464,
+        "word": "怎么混进了个假布娃娃",
+        "onboard_time": 1679825067,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 289829,
+        "num": 274154,
+        "word": "图书馆对一座小镇来说意味着什么",
+        "onboard_time": 1679828968,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273711,
+        "num": 273711,
+        "word": "铃芽之旅成2023引进片票房冠军",
+        "onboard_time": 1679825129,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 270630,
+        "num": 270630,
+        "word": "檀健次去洗手间错过颁奖",
+        "onboard_time": 1679815105,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 103204,
+        "num": 241534,
+        "word": "不方便打电话可给12110发短信报警",
+        "onboard_time": 1679812345,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102814,
+        "num": 238223,
+        "word": "GEN对战HLE",
+        "onboard_time": 1679825067,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 236843,
+        "num": 236843,
+        "word": "王鹤棣虞书欣微博之夜错位图",
+        "onboard_time": 1679815586,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 197746,
+        "num": 197746,
+        "word": "吉克隽逸雷公电母头造型",
+        "onboard_time": 1679825728,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 103816,
+        "num": 188385,
+        "word": "卢拉因健康原因推迟访华",
+        "onboard_time": 1679829206,
+        "rank": 32,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 188224,
+        "num": 188224,
+        "word": "李现还扶了王俊凯",
+        "onboard_time": 1679820325,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 92706,
+        "num": 181379,
+        "word": "这才是正宗的躲猫猫",
+        "onboard_time": 1679821046,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 176513,
+        "num": 176513,
+        "word": "风吹半夏总制片人赞赵丽颖演技",
+        "onboard_time": 1679827167,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 151518,
+        "num": 176396,
+        "word": "丁程鑫微博之夜舞台直拍",
+        "onboard_time": 1679829327,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 84287,
+        "num": 176326,
+        "word": "无法超越的司机对话名场面",
+        "onboard_time": 1679827826,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 82404,
+        "num": 176182,
+        "word": "还好小动物不会说话",
+        "onboard_time": 1679823508,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 75639,
+        "num": 176132,
+        "word": "RW侠",
+        "onboard_time": 1679824106,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 130932,
+        "num": 176015,
+        "word": "赵灵儿李逍遥的十年之约",
+        "onboard_time": 1679755628,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 128900,
+        "num": 175792,
+        "word": "张颜齐音乐节丢戒指",
+        "onboard_time": 1679826027,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 117520,
+        "num": 175714,
+        "word": "TXT演唱会",
+        "onboard_time": 1679825909,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 122370,
+        "num": 175618,
+        "word": "刘亦菲微博Queen",
+        "onboard_time": 1679755019,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 112385,
+        "num": 175450,
+        "word": "NewJeans的OMG人歌一位",
+        "onboard_time": 1679824106,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72875,
+        "num": 175410,
+        "word": "女生靠摆地摊还清百万负债",
+        "onboard_time": 1679801067,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96798,
+        "num": 175268,
+        "word": "胡歌微博King",
+        "onboard_time": 1679755019,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 62542,
+        "num": 175161,
+        "word": "散光眼中的世界原来是这样",
+        "onboard_time": 1679823268,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 60755,
+        "num": 174999,
+        "word": "妈妈为宝宝种植盆栽果树",
+        "onboard_time": 1679822187,
+        "rank": 48,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 57296,
+        "num": 174920,
+        "word": "你猜我为啥在这里录像",
+        "onboard_time": 1679822726,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#共建美好世界的最大公约数#"
+    }
+  }
+}
