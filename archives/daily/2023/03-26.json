@@ -1,6 +1,6 @@
 {
   "startTime": 1679761328845,
-  "endTime": 1679834919911,
+  "endTime": 1679836793219,
   "band_list": [
     {
       "raw_hot": 5965286,
@@ -35,6 +35,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 2728870,
+      "num": 2728870,
+      "word": "截图癖",
+      "onboard_time": 1679832448,
+      "rank": 1,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 2726859,
       "num": 2726859,
       "word": "中国和洪都拉斯建交",
@@ -57,14 +65,6 @@
       "onboard_time": 1679760274,
       "rank": 4,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 2625192,
-      "num": 2625192,
-      "word": "截图癖",
-      "onboard_time": 1679832448,
-      "rank": 1,
-      "category": "幽默"
     },
     {
       "raw_hot": 2427833,
@@ -236,10 +236,18 @@
     },
     {
       "raw_hot": 1170483,
-      "num": 276492,
+      "num": 326479,
       "word": "夫妻备孕多年终于怀孕宝宝先天无耳廓",
       "onboard_time": 1679824227,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1150631,
+      "num": 1150631,
+      "word": "丫丫爬树了",
+      "onboard_time": 1679833528,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -361,6 +369,14 @@
       "onboard_time": 1679804065,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 832756,
+      "num": 597897,
+      "word": "Angelababy微博之夜幕后花絮",
+      "onboard_time": 1679833168,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 820713,
@@ -499,6 +515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 627887,
+      "num": 627887,
+      "word": "王曼昱退出选拔赛",
+      "onboard_time": 1679835148,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 622077,
       "num": 274429,
       "word": "杨紫蔷薇花裙",
@@ -513,22 +537,6 @@
       "onboard_time": 1679827707,
       "rank": 5,
       "category": "影视"
-    },
-    {
-      "raw_hot": 600892,
-      "num": 352258,
-      "word": "Angelababy微博之夜幕后花絮",
-      "onboard_time": 1679833168,
-      "rank": 16,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 599807,
-      "num": 599807,
-      "word": "丫丫爬树了",
-      "onboard_time": 1679833528,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 595643,
@@ -577,6 +585,14 @@
       "onboard_time": 1679800709,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 514301,
+      "num": 514301,
+      "word": "何同学中文打字机",
+      "onboard_time": 1679835387,
+      "rank": 11,
+      "category": "科技"
     },
     {
       "raw_hot": 503981,
@@ -676,7 +692,7 @@
     },
     {
       "raw_hot": 454613,
-      "num": 251268,
+      "num": 412256,
       "word": "吴宣仪也在热搜上看美女",
       "onboard_time": 1679833948,
       "rank": 13,
@@ -715,6 +731,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 421387,
+      "num": 421387,
+      "word": "HR为啥问父母工作",
+      "onboard_time": 1679834850,
+      "rank": 46,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 417309,
       "num": 417309,
       "word": "张译包场张颂文的新电影",
@@ -745,6 +769,14 @@
       "onboard_time": 1679795066,
       "rank": 7,
       "category": "教育"
+    },
+    {
+      "raw_hot": 399034,
+      "num": 399034,
+      "word": "哇唧唧哇新人首次线下公演",
+      "onboard_time": 1679836587,
+      "rank": 15,
+      "category": "音乐"
     },
     {
       "raw_hot": 391988,
@@ -785,6 +817,14 @@
       "onboard_time": 1679745347,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 343293,
+      "num": 343293,
+      "word": "高铁上太吵的解决办法",
+      "onboard_time": 1679833650,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 336368,
@@ -915,6 +955,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 277896,
+      "num": 277896,
+      "word": "丫丫",
+      "onboard_time": 1679835748,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 274077,
       "num": 261619,
       "word": "林俊杰雨中唱江南",
@@ -1020,7 +1068,7 @@
     },
     {
       "raw_hot": 229342,
-      "num": 197808,
+      "num": 214157,
       "word": "这狐狸什么家庭条件",
       "onboard_time": 1679833585,
       "rank": 29,
@@ -1075,6 +1123,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 212236,
+      "num": 212236,
+      "word": "毕雯珺李一桐陈星旭微博头像",
+      "onboard_time": 1679836108,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 211687,
       "num": 185392,
       "word": "长空之王恭喜王一博获奖",
@@ -1105,6 +1161,14 @@
       "onboard_time": 1679825789,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 205346,
+      "num": 205346,
+      "word": "五哈",
+      "onboard_time": 1679836049,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 204816,
@@ -1203,6 +1267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 193691,
+      "num": 193691,
+      "word": "陈伟霆直播卡成油画",
+      "onboard_time": 1679836049,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193401,
       "num": 193401,
       "word": "直通德班",
@@ -1233,14 +1305,6 @@
       "onboard_time": 1679765059,
       "rank": 35,
       "category": "作品衍生,音乐"
-    },
-    {
-      "raw_hot": 191082,
-      "num": 191082,
-      "word": "高铁上太吵的解决办法",
-      "onboard_time": 1679833650,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 190381,
@@ -1483,6 +1547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129768,
+      "num": 144466,
+      "word": "第五人格",
+      "onboard_time": 1679835507,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 128981,
       "num": 128981,
       "word": "Hero对战RW",
@@ -1492,7 +1564,7 @@
     },
     {
       "raw_hot": 127266,
-      "num": 127266,
+      "num": 127273,
       "word": "喜欢收集购物袋的朋友",
       "onboard_time": 1679832506,
       "rank": 38,
@@ -1603,6 +1675,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 102335,
+      "num": 128389,
+      "word": "高校食堂现美食选择器",
+      "onboard_time": 1679835868,
+      "rank": 45,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 101632,
       "num": 185592,
       "word": "古巨基加盟剧好听的歌",
@@ -1675,14 +1755,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 79341,
-      "num": 114705,
-      "word": "HR为啥问父母工作",
-      "onboard_time": 1679834850,
-      "rank": 46,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 78101,
       "num": 300806,
       "word": "笑容逐渐消失的狗子",
@@ -1697,6 +1769,14 @@
       "onboard_time": 1679737619,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 76437,
+      "num": 127029,
+      "word": "硬是把手推车玩成扭扭车",
+      "onboard_time": 1679836468,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 76200,
@@ -1889,6 +1969,14 @@
       "onboard_time": 1679739222,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 27845,
+      "num": 400858,
+      "word": "女明星微博之夜光耀时刻",
+      "onboard_time": 1679835628,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 26662,
