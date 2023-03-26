@@ -1,6 +1,6 @@
 {
   "startTime": 1679761328845,
-  "endTime": 1679826797483,
+  "endTime": 1679829233573,
   "band_list": [
     {
       "raw_hot": 5965286,
@@ -220,11 +220,19 @@
     },
     {
       "raw_hot": 1170483,
-      "num": 235756,
+      "num": 260326,
       "word": "夫妻备孕多年终于怀孕宝宝先天无耳廓",
       "onboard_time": 1679824227,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1148502,
+      "num": 1148502,
+      "word": "夫妻摆摊日入9千网友质疑让查税",
+      "onboard_time": 1679827826,
+      "rank": 1,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 1127152,
@@ -233,6 +241,14 @@
       "onboard_time": 1679824948,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1092637,
+      "num": 310652,
+      "word": "何炅黄磊 杭州",
+      "onboard_time": 1679826091,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1058355,
@@ -289,6 +305,14 @@
       "onboard_time": 1679790324,
       "rank": 5,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 900861,
+      "num": 900861,
+      "word": "微博之夜高定礼服大总结",
+      "onboard_time": 1679824648,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 887313,
@@ -419,16 +443,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 684725,
-      "num": 248480,
-      "word": "何炅黄磊 杭州",
-      "onboard_time": 1679826091,
-      "rank": 11,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 641597,
-      "num": 242031,
+      "num": 258320,
       "word": "粉丝给王一博P的小丑海报",
       "onboard_time": 1679823748,
       "rank": 12,
@@ -441,14 +457,6 @@
       "onboard_time": 1679808868,
       "rank": 4,
       "category": "美食,社会新闻"
-    },
-    {
-      "raw_hot": 635992,
-      "num": 245223,
-      "word": "微博之夜高定礼服大总结",
-      "onboard_time": 1679824648,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 631763,
@@ -475,8 +483,16 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 614862,
+      "num": 614862,
+      "word": "他是谁",
+      "onboard_time": 1679827707,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 595643,
-      "num": 189877,
+      "num": 305470,
       "word": "惠英红问宋佳你怎么不亲我",
       "onboard_time": 1679822726,
       "rank": 15,
@@ -489,6 +505,14 @@
       "onboard_time": 1679825129,
       "rank": 5,
       "category": "教育"
+    },
+    {
+      "raw_hot": 570472,
+      "num": 570472,
+      "word": "美术生又多了一个就业方向",
+      "onboard_time": 1679827047,
+      "rank": 8,
+      "category": "幽默,教育"
     },
     {
       "raw_hot": 545058,
@@ -563,12 +587,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 487210,
+      "num": 267815,
+      "word": "时代少年团演唱会 海口",
+      "onboard_time": 1679826268,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 484379,
       "num": 428471,
       "word": "张俪说不要妥协婚姻",
       "onboard_time": 1679798848,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 482782,
+      "num": 265377,
+      "word": "张婧仪回应用什么洗发水",
+      "onboard_time": 1679825668,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 465248,
@@ -609,14 +649,6 @@
       "onboard_time": 1679746318,
       "rank": 8,
       "category": "情感"
-    },
-    {
-      "raw_hot": 427326,
-      "num": 237829,
-      "word": "时代少年团演唱会 海口",
-      "onboard_time": 1679826268,
-      "rank": 20,
-      "category": "音乐"
     },
     {
       "raw_hot": 422513,
@@ -755,14 +787,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 289017,
-      "num": 226819,
-      "word": "张婧仪回应用什么洗发水",
-      "onboard_time": 1679825668,
-      "rank": 38,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 288173,
       "num": 288173,
       "word": "大熊猫的DNA里只有努力",
@@ -788,7 +812,7 @@
     },
     {
       "raw_hot": 281218,
-      "num": 234328,
+      "num": 255875,
       "word": "我求求你把这个班给我上",
       "onboard_time": 1679813066,
       "rank": 21,
@@ -827,6 +851,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 272100,
+      "num": 272100,
+      "word": "外交部回应卢拉因病推迟访华",
+      "onboard_time": 1679827586,
+      "rank": 12,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 270705,
       "num": 206145,
       "word": "NewJeans的OMG人歌一位",
@@ -851,8 +883,16 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 251140,
+      "num": 251140,
+      "word": "图书馆对一座小镇来说意味着什么",
+      "onboard_time": 1679828968,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 250916,
-      "num": 250916,
+      "num": 270566,
       "word": "热烈的不是青春是大学生",
       "onboard_time": 1679821707,
       "rank": 27,
@@ -865,6 +905,14 @@
       "onboard_time": 1679799388,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 247711,
+      "num": 247711,
+      "word": "铃芽之旅成2023引进片票房冠军",
+      "onboard_time": 1679825129,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 247565,
@@ -900,19 +948,11 @@
     },
     {
       "raw_hot": 227429,
-      "num": 227429,
+      "num": 254157,
       "word": "怎么混进了个假布娃娃",
       "onboard_time": 1679825067,
       "rank": 29,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 226510,
-      "num": 226510,
-      "word": "铃芽之旅成2023引进片票房冠军",
-      "onboard_time": 1679825129,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 223388,
@@ -980,7 +1020,7 @@
     },
     {
       "raw_hot": 204610,
-      "num": 244130,
+      "num": 265909,
       "word": "这就是无畏的坦野",
       "onboard_time": 1679825610,
       "rank": 14,
@@ -1057,6 +1097,14 @@
       "onboard_time": 1679795007,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 194500,
+      "num": 194500,
+      "word": "风吹半夏总制片人赞赵丽颖演技",
+      "onboard_time": 1679827167,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 193401,
@@ -1156,7 +1204,7 @@
     },
     {
       "raw_hot": 174650,
-      "num": 227081,
+      "num": 241362,
       "word": "GEN对战HLE",
       "onboard_time": 1679825067,
       "rank": 24,
@@ -1260,7 +1308,7 @@
     },
     {
       "raw_hot": 148075,
-      "num": 1095760,
+      "num": 1143006,
       "word": "一句话安利大家到你家乡旅游",
       "onboard_time": 1679817567,
       "rank": 2,
@@ -1403,6 +1451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 89107,
+      "num": 149239,
+      "word": "无法超越的司机对话名场面",
+      "onboard_time": 1679827826,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 83885,
       "num": 324887,
       "word": "狼队对战eStar",
@@ -1416,6 +1472,14 @@
       "word": "一种很新的哈利波特",
       "onboard_time": 1679818527,
       "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 78886,
+      "num": 192627,
+      "word": "还好小动物不会说话",
+      "onboard_time": 1679823508,
+      "rank": 45,
       "category": "幽默"
     },
     {
@@ -1443,14 +1507,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 76009,
-      "num": 192627,
-      "word": "还好小动物不会说话",
-      "onboard_time": 1679823508,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 74828,
       "num": 1058470,
       "word": "强科技端牢中国饭碗",
@@ -1473,6 +1529,14 @@
       "onboard_time": 1679823268,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 65377,
+      "num": 119459,
+      "word": "少儿街舞",
+      "onboard_time": 1679828847,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 65362,
@@ -1537,6 +1601,14 @@
       "onboard_time": 1679736238,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 52702,
+      "num": 119432,
+      "word": "卢拉因健康原因推迟访华",
+      "onboard_time": 1679829206,
+      "rank": 49,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 49750,
