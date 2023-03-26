@@ -1,6 +1,6 @@
 {
   "startTime": 1679761328845,
-  "endTime": 1679818843420,
+  "endTime": 1679819623070,
   "band_list": [
     {
       "raw_hot": 5965286,
@@ -139,6 +139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1318330,
+      "num": 344249,
+      "word": "檀健次去洗手间错过颁奖",
+      "onboard_time": 1679815105,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1300208,
       "num": 1118592,
       "word": "微博之夜百花齐放",
@@ -163,20 +171,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1256606,
-      "num": 344249,
-      "word": "檀健次去洗手间错过颁奖",
-      "onboard_time": 1679815105,
-      "rank": 24,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 1248574,
       "num": 466930,
       "word": "吴卓羲爆料黄宗泽正在恋爱",
       "onboard_time": 1679798485,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1237975,
+      "num": 243422,
+      "word": "易烊千玺我可要坐直啦",
+      "onboard_time": 1679818286,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1230575,
@@ -324,7 +332,7 @@
     },
     {
       "raw_hot": 765581,
-      "num": 765581,
+      "num": 815757,
       "word": "不方便打电话可给12110发短信报警",
       "onboard_time": 1679812345,
       "rank": 49,
@@ -369,14 +377,6 @@
       "onboard_time": 1679808868,
       "rank": 4,
       "category": "美食,社会新闻"
-    },
-    {
-      "raw_hot": 628090,
-      "num": 196138,
-      "word": "易烊千玺我可要坐直啦",
-      "onboard_time": 1679818286,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 622077,
@@ -467,6 +467,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 465248,
+      "num": 186389,
+      "word": "田曦薇香槟色抹胸长裙",
+      "onboard_time": 1679818286,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 458040,
       "num": 417774,
       "word": "王一博钻石胸针",
@@ -513,6 +521,14 @@
       "onboard_time": 1679749188,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 399874,
+      "num": 180868,
+      "word": "傅菁把粉丝签名穿在身上",
+      "onboard_time": 1679818465,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 399139,
@@ -563,14 +579,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 346527,
-      "num": 183731,
-      "word": "田曦薇香槟色抹胸长裙",
-      "onboard_time": 1679818286,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 345085,
       "num": 319136,
       "word": "邓超激动得像是买票进场的",
@@ -593,14 +601,6 @@
       "onboard_time": 1679759741,
       "rank": 14,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 313981,
-      "num": 150381,
-      "word": "傅菁把粉丝签名穿在身上",
-      "onboard_time": 1679818465,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 306563,
@@ -657,6 +657,14 @@
       "onboard_time": 1679803528,
       "rank": 22,
       "category": "教育,幽默"
+    },
+    {
+      "raw_hot": 287668,
+      "num": 195026,
+      "word": "爱情而已预约量破150万",
+      "onboard_time": 1679818706,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 281218,
@@ -731,14 +739,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 224148,
-      "num": 193175,
-      "word": "爱情而已预约量破150万",
-      "onboard_time": 1679818706,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
       "raw_hot": 223388,
       "num": 150823,
       "word": "黄景瑜极限挑战路透",
@@ -811,6 +811,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 196992,
+      "num": 196992,
+      "word": "马拉松",
+      "onboard_time": 1679818766,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 196963,
       "num": 150825,
       "word": "那些让你DNA狂飙的OST",
@@ -849,14 +857,6 @@
       "onboard_time": 1679743066,
       "rank": 18,
       "category": "其它"
-    },
-    {
-      "raw_hot": 192033,
-      "num": 192033,
-      "word": "马拉松",
-      "onboard_time": 1679818766,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 191470,
@@ -1003,6 +1003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 146290,
+      "num": 384381,
+      "word": "一句话安利大家到你家乡旅游",
+      "onboard_time": 1679817567,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141588,
       "num": 88059,
       "word": "仙剑一仙剑三剧粉都圆满了",
@@ -1033,14 +1041,6 @@
       "onboard_time": 1679794588,
       "rank": 35,
       "category": "作品衍生,音乐"
-    },
-    {
-      "raw_hot": 121094,
-      "num": 372870,
-      "word": "一句话安利大家到你家乡旅游",
-      "onboard_time": 1679817567,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 120959,
@@ -1139,6 +1139,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 80424,
+      "num": 122227,
+      "word": "一种很新的哈利波特",
+      "onboard_time": 1679818527,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 78101,
       "num": 300806,
       "word": "笑容逐渐消失的狗子",
@@ -1179,14 +1187,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 68191,
-      "num": 122227,
-      "word": "一种很新的哈利波特",
-      "onboard_time": 1679818527,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 65362,
       "num": 3553497,
       "word": "读懂中国式现代化",
@@ -1201,6 +1201,14 @@
       "onboard_time": 1679741079,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 60394,
+      "num": 196425,
+      "word": "反复敏感退退退",
+      "onboard_time": 1679817626,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 60321,
@@ -1265,14 +1273,6 @@
       "onboard_time": 1679751656,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 42320,
-      "num": 196400,
-      "word": "反复敏感退退退",
-      "onboard_time": 1679817626,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 41735,
