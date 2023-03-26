@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1679870013946,
+  "endTime": 1679872632540,
   "band_list": [
     {
       "raw_hot": 1254355,
@@ -147,6 +147,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 231810,
+      "num": 231810,
+      "word": "HR为啥问父母工作",
+      "onboard_time": 1679834850,
+      "rank": 17,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 226689,
       "num": 226689,
       "word": "丫丫爬树了",
@@ -161,14 +169,6 @@
       "onboard_time": 1679842948,
       "rank": 15,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 223421,
-      "num": 223421,
-      "word": "HR为啥问父母工作",
-      "onboard_time": 1679834850,
-      "rank": 17,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 221916,
@@ -209,6 +209,14 @@
       "onboard_time": 1679833168,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 198470,
+      "num": 198470,
+      "word": "上海冲入河中公交车司机被救出",
+      "onboard_time": 1679839471,
+      "rank": 46,
+      "category": "社会负面"
     },
     {
       "raw_hot": 197525,
@@ -257,6 +265,14 @@
       "onboard_time": 1679821287,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 152484,
+      "num": 152484,
+      "word": "民法",
+      "onboard_time": 1679869634,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 143694,
@@ -323,6 +339,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 123996,
+      "num": 123996,
+      "word": "詹姆斯复出",
+      "onboard_time": 1679872159,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 118681,
+      "num": 116588,
+      "word": "女子在宠物诊所被烈犬撕咬胳膊",
+      "onboard_time": 1679848761,
+      "rank": 25,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 111781,
       "num": 91031,
       "word": "吴宣仪也在热搜上看美女",
@@ -355,14 +387,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 105591,
-      "num": 105591,
-      "word": "女子在宠物诊所被烈犬撕咬胳膊",
-      "onboard_time": 1679848761,
-      "rank": 25,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 103363,
       "num": 92065,
       "word": "电影保你平安票房破5亿",
@@ -387,6 +411,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 93902,
+      "num": 93902,
+      "word": "不照镜子还以为自己是白狗",
+      "onboard_time": 1679844746,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 93544,
       "num": 93544,
       "word": "胡明轩扣篮",
@@ -395,20 +427,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 88727,
-      "num": 88727,
-      "word": "上海冲入河中公交车司机被救出",
-      "onboard_time": 1679839471,
-      "rank": 46,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 85662,
       "num": 85662,
       "word": "铃芽之旅成2023引进片票房冠军",
       "onboard_time": 1679825129,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 84506,
+      "num": 84506,
+      "word": "当事人回应摆摊日入9000质疑",
+      "onboard_time": 1679840431,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 82894,
@@ -427,12 +459,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 71996,
-      "num": 71996,
-      "word": "不照镜子还以为自己是白狗",
-      "onboard_time": 1679844746,
+      "raw_hot": 70644,
+      "num": 70644,
+      "word": "哇唧唧哇新人首次线下公演",
+      "onboard_time": 1679836587,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 70397,
+      "num": 70397,
+      "word": "铃芽之旅为何能赢过超英大片",
+      "onboard_time": 1679858652,
       "rank": 48,
-      "category": "幽默"
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 61852,
@@ -443,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 59144,
+      "num": 59144,
+      "word": "晨晓夫妇蹭鼻尖是现场改的",
+      "onboard_time": 1679868552,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 54414,
       "num": 145266,
       "word": "外交部回应卢拉因病推迟访华",
@@ -451,44 +499,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 46555,
-      "num": 46555,
-      "word": "当事人回应摆摊日入9000质疑",
-      "onboard_time": 1679840431,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 39396,
-      "num": 39396,
-      "word": "晨晓夫妇蹭鼻尖是现场改的",
-      "onboard_time": 1679868552,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 36689,
-      "num": 36689,
-      "word": "哇唧唧哇新人首次线下公演",
-      "onboard_time": 1679836587,
-      "rank": 47,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 32493,
-      "num": 32493,
+      "raw_hot": 39572,
+      "num": 39572,
       "word": "阿奶给刘亦菲颁奖",
       "onboard_time": 1679854754,
       "rank": 49,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 24654,
-      "num": 24654,
-      "word": "铃芽之旅为何能赢过超英大片",
-      "onboard_time": 1679858652,
-      "rank": 48,
-      "category": "影视,动漫"
     },
     {
       "raw_hot": 23626,
@@ -497,14 +513,6 @@
       "onboard_time": 1679858832,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 19157,
-      "num": 22403,
-      "word": "民法",
-      "onboard_time": 1679869634,
-      "rank": 49,
-      "category": "教育"
     }
   ],
   "hotgov_list": [

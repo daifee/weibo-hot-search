@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679870013946,
+  "endTime": 1679872632540,
   "band_list": [
     {
       "raw_hot": 27113842,
@@ -44043,6 +44043,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 152484,
+      "num": 152484,
+      "word": "民法",
+      "onboard_time": 1679869634,
+      "rank": 49,
+      "category": "教育"
+    },
+    {
       "raw_hot": 152408,
       "num": 152408,
       "word": "LOFTER平台AI绘画功能遭用户质疑",
@@ -48019,6 +48027,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 123996,
+      "num": 123996,
+      "word": "詹姆斯复出",
+      "onboard_time": 1679872159,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 123887,
       "num": 123887,
       "word": "不敢晚上看他是谁",
@@ -48617,6 +48633,14 @@
       "onboard_time": 1679541445,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118681,
+      "num": 116588,
+      "word": "女子在宠物诊所被烈犬撕咬胳膊",
+      "onboard_time": 1679848761,
+      "rank": 25,
+      "category": "社会负面"
     },
     {
       "raw_hot": 118676,
@@ -50057,14 +50081,6 @@
       "onboard_time": 1679478208,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 105591,
-      "num": 105591,
-      "word": "女子在宠物诊所被烈犬撕咬胳膊",
-      "onboard_time": 1679848761,
-      "rank": 25,
-      "category": "社会负面"
     },
     {
       "raw_hot": 105566,
@@ -52323,6 +52339,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 70397,
+      "num": 70397,
+      "word": "铃芽之旅为何能赢过超英大片",
+      "onboard_time": 1679858652,
+      "rank": 48,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 70232,
       "num": 122359,
       "word": "做自己不止今天",
@@ -52657,6 +52681,14 @@
       "onboard_time": 1678232005,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 59144,
+      "num": 59144,
+      "word": "晨晓夫妇蹭鼻尖是现场改的",
+      "onboard_time": 1679868552,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 58947,
@@ -53203,12 +53235,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 39396,
-      "num": 39396,
-      "word": "晨晓夫妇蹭鼻尖是现场改的",
-      "onboard_time": 1679868552,
-      "rank": 46,
-      "category": "影视"
+      "raw_hot": 39572,
+      "num": 39572,
+      "word": "阿奶给刘亦菲颁奖",
+      "onboard_time": 1679854754,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 38982,
@@ -53385,14 +53417,6 @@
       "onboard_time": 1678553540,
       "rank": 4,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 32493,
-      "num": 32493,
-      "word": "阿奶给刘亦菲颁奖",
-      "onboard_time": 1679854754,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 32072,
@@ -53627,14 +53651,6 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 24654,
-      "num": 24654,
-      "word": "铃芽之旅为何能赢过超英大片",
-      "onboard_time": 1679858652,
-      "rank": 48,
-      "category": "影视,动漫"
-    },
-    {
       "raw_hot": 24354,
       "num": 161830,
       "word": "FPX战胜RA",
@@ -53697,14 +53713,6 @@
       "onboard_time": 1678266028,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 19157,
-      "num": 22403,
-      "word": "民法",
-      "onboard_time": 1679869634,
-      "rank": 49,
-      "category": "教育"
     },
     {
       "raw_hot": 18463,
