@@ -1,0 +1,410 @@
+{
+  "runTime": 1679850886030,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 497633,
+        "num": 497633,
+        "word": "96年父亲暴瘦40斤割肝救女",
+        "onboard_time": 1679844627,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 466780,
+        "num": 466780,
+        "word": "河道英不离开妍珍的理由",
+        "onboard_time": 1679847924,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 26237,
+        "num": 435969,
+        "word": "穿越花海赴一场春天的约会",
+        "onboard_time": 1679840731,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 707127,
+        "num": 431629,
+        "word": "截图癖",
+        "onboard_time": 1679832448,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 411631,
+        "num": 411631,
+        "word": "胖东来",
+        "onboard_time": 1679822608,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287468,
+        "num": 287468,
+        "word": "何同学中文打字机",
+        "onboard_time": 1679835387,
+        "rank": 5,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 267267,
+        "num": 267267,
+        "word": "夫妻摆摊日入9千网友质疑让查税",
+        "onboard_time": 1679827826,
+        "rank": 6,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 239665,
+        "num": 239665,
+        "word": "微博之夜红毯视频",
+        "onboard_time": 1679839290,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 151113,
+        "num": 151113,
+        "word": "HR为啥问父母工作",
+        "onboard_time": 1679834850,
+        "rank": 8,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 148843,
+        "num": 148843,
+        "word": "丫丫晚上加班吃竹子",
+        "onboard_time": 1679837129,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208674,
+        "num": 144698,
+        "word": "张若昀今年有旧剧播续集",
+        "onboard_time": 1679848940,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 173934,
+        "num": 142373,
+        "word": "林俊杰给场外观众发荧光棒",
+        "onboard_time": 1679848642,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 128887,
+        "num": 128887,
+        "word": "唐艺昕白裙",
+        "onboard_time": 1679847143,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138499,
+        "num": 124617,
+        "word": "杨幂微博之夜下班与刘诗诗热聊",
+        "onboard_time": 1679839290,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 119285,
+        "num": 119285,
+        "word": "丫丫爬树了",
+        "onboard_time": 1679833528,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120731,
+        "num": 119123,
+        "word": "向往的生活",
+        "onboard_time": 1679824948,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136051,
+        "num": 119043,
+        "word": "Angelababy微博之夜幕后花絮",
+        "onboard_time": 1679833168,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 117518,
+        "num": 117518,
+        "word": "祝绪丹穿公主裙走秀",
+        "onboard_time": 1679848280,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 111472,
+        "num": 111472,
+        "word": "白桃星座",
+        "onboard_time": 1679841094,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128540,
+        "num": 111445,
+        "word": "微博之夜高定礼服大总结",
+        "onboard_time": 1679824648,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 176312,
+        "num": 110321,
+        "word": "夫妻备孕多年终于怀孕宝宝先天无耳廓",
+        "onboard_time": 1679824227,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168407,
+        "num": 109522,
+        "word": "为什么和最好的朋友互删了",
+        "onboard_time": 1679837788,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 336976,
+        "num": 108631,
+        "word": "田曦薇的手臂线条",
+        "onboard_time": 1679844986,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 153788,
+        "num": 107741,
+        "word": "乘客定位错怒吼辱骂网约车司机",
+        "onboard_time": 1679846424,
+        "rank": 23,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 46464,
+        "num": 107509,
+        "word": "KSG对战TTG",
+        "onboard_time": 1679836827,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 105591,
+        "num": 105591,
+        "word": "女子在宠物诊所被烈犬撕咬胳膊",
+        "onboard_time": 1679848761,
+        "rank": 25,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 95271,
+        "num": 95271,
+        "word": "蒋依依黑长直",
+        "onboard_time": 1679839769,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 95202,
+        "num": 95202,
+        "word": "看得出来他真的很困",
+        "onboard_time": 1679842948,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 94652,
+        "num": 94652,
+        "word": "美术生又多了一个就业方向",
+        "onboard_time": 1679827047,
+        "rank": 28,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 34464,
+        "num": 90025,
+        "word": "外交部回应卢拉因病推迟访华",
+        "onboard_time": 1679827586,
+        "rank": 29,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 87954,
+        "num": 87954,
+        "word": "上海一公交公司回应公交车坠河",
+        "onboard_time": 1679837429,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84864,
+        "num": 84864,
+        "word": "林智妍再报天气预报",
+        "onboard_time": 1679838870,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 84764,
+        "num": 84764,
+        "word": "李现目前在泉州拍一部戏",
+        "onboard_time": 1679844027,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 82095,
+        "num": 82095,
+        "word": "孙俪看五哈泼水",
+        "onboard_time": 1679831546,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79001,
+        "num": 79001,
+        "word": "铃芽之旅",
+        "onboard_time": 1679821287,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 69470,
+        "num": 69470,
+        "word": "莫文蔚声生不息宝岛季路透",
+        "onboard_time": 1679842891,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 65275,
+        "num": 65275,
+        "word": "王鹤棣直播",
+        "onboard_time": 1679842169,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64204,
+        "num": 64204,
+        "word": "何炅黄磊 杭州",
+        "onboard_time": 1679826091,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 63573,
+        "num": 63573,
+        "word": "易烊千玺我可要坐直啦",
+        "onboard_time": 1679818286,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 63312,
+        "num": 63312,
+        "word": "贵州村BA总决赛",
+        "onboard_time": 1679839890,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62276,
+        "num": 62276,
+        "word": "LPL季后赛",
+        "onboard_time": 1679842649,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 62500,
+        "num": 61309,
+        "word": "肖战差点绊倒自己",
+        "onboard_time": 1679831070,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 57606,
+        "num": 57606,
+        "word": "不照镜子还以为自己是白狗",
+        "onboard_time": 1679844746,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 52468,
+        "num": 52468,
+        "word": "胡明轩扣篮",
+        "onboard_time": 1679841270,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 54260,
+        "num": 52055,
+        "word": "吴宣仪也在热搜上看美女",
+        "onboard_time": 1679833948,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 50621,
+        "num": 50621,
+        "word": "IVE先行曲MV预告视频",
+        "onboard_time": 1679840790,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 48329,
+        "num": 48329,
+        "word": "张大大直播",
+        "onboard_time": 1679841509,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52753,
+        "num": 47943,
+        "word": "赵灵儿李逍遥的十年之约",
+        "onboard_time": 1679755628,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 43985,
+        "num": 43985,
+        "word": "上海冲入河中公交车司机被救出",
+        "onboard_time": 1679839471,
+        "rank": 48,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 41613,
+        "num": 41613,
+        "word": "月亮图标",
+        "onboard_time": 1679843069,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席对俄罗斯进行国事访问纪实#"
+    }
+  }
+}

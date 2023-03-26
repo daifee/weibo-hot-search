@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1679848707023,
+  "endTime": 1679850886030,
   "band_list": [
     {
       "raw_hot": 1254355,
@@ -187,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 208674,
+      "num": 144698,
+      "word": "张若昀今年有旧剧播续集",
+      "onboard_time": 1679848940,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 205414,
       "num": 205414,
       "word": "林智妍再报天气预报",
@@ -345,6 +353,14 @@
       "onboard_time": 1679840790,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 105591,
+      "num": 105591,
+      "word": "女子在宠物诊所被烈犬撕咬胳膊",
+      "onboard_time": 1679848761,
+      "rank": 25,
+      "category": "社会负面"
     },
     {
       "raw_hot": 103363,
