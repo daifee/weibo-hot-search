@@ -1,6 +1,6 @@
 {
   "startTime": 1679243021291,
-  "endTime": 1679836793219,
+  "endTime": 1679837599353,
   "band_list": [
     {
       "raw_hot": 27113842,
@@ -1651,6 +1651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1253397,
+      "num": 1253397,
+      "word": "丫丫爬树了",
+      "onboard_time": 1679833528,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1248574,
       "num": 466930,
       "word": "吴卓羲爆料黄宗泽正在恋爱",
@@ -1793,14 +1801,6 @@
       "onboard_time": 1679324312,
       "rank": 19,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1150631,
-      "num": 1150631,
-      "word": "丫丫爬树了",
-      "onboard_time": 1679833528,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1148088,
@@ -2579,6 +2579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 922332,
+      "num": 684270,
+      "word": "Angelababy微博之夜幕后花絮",
+      "onboard_time": 1679833168,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 920726,
       "num": 300980,
       "word": "周深真的很想逃",
@@ -2993,14 +3001,6 @@
       "onboard_time": 1679374472,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 832756,
-      "num": 597897,
-      "word": "Angelababy微博之夜幕后花絮",
-      "onboard_time": 1679833168,
-      "rank": 16,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 829208,
@@ -3433,6 +3433,14 @@
       "onboard_time": 1679456668,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 732809,
+      "num": 732809,
+      "word": "何同学中文打字机",
+      "onboard_time": 1679835387,
+      "rank": 11,
+      "category": "科技"
     },
     {
       "raw_hot": 730242,
@@ -4627,6 +4635,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 564529,
+      "num": 564529,
+      "word": "哇唧唧哇新人首次线下公演",
+      "onboard_time": 1679836587,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 562260,
       "num": 562260,
       "word": "网剧回响",
@@ -4995,14 +5011,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 514301,
-      "num": 514301,
-      "word": "何同学中文打字机",
-      "onboard_time": 1679835387,
-      "rank": 11,
-      "category": "科技"
-    },
-    {
       "raw_hot": 513844,
       "num": 513844,
       "word": "杜华向朋友借钱签韩庚",
@@ -5049,6 +5057,14 @@
       "onboard_time": 1679534906,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 508762,
+      "num": 508762,
+      "word": "HR为啥问父母工作",
+      "onboard_time": 1679834850,
+      "rank": 46,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 507573,
@@ -6027,14 +6043,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 421387,
-      "num": 421387,
-      "word": "HR为啥问父母工作",
-      "onboard_time": 1679834850,
-      "rank": 46,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 419826,
       "num": 419826,
       "word": "Miss工作室官宣加盟新公司",
@@ -6259,12 +6267,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 399034,
-      "num": 399034,
-      "word": "哇唧唧哇新人首次线下公演",
-      "onboard_time": 1679836587,
-      "rank": 15,
-      "category": "音乐"
+      "raw_hot": 398886,
+      "num": 398886,
+      "word": "高铁上太吵的解决办法",
+      "onboard_time": 1679833650,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 398599,
@@ -6945,14 +6953,6 @@
       "onboard_time": 1679663729,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 343293,
-      "num": 343293,
-      "word": "高铁上太吵的解决办法",
-      "onboard_time": 1679833650,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 343263,
@@ -7803,6 +7803,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 294159,
+      "num": 294159,
+      "word": "丫丫",
+      "onboard_time": 1679321972,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 294022,
       "num": 294022,
       "word": "女子寺庙游玩遇到新式鬼屋",
@@ -8139,14 +8147,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 277896,
-      "num": 277896,
-      "word": "丫丫",
-      "onboard_time": 1679321972,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 277810,
       "num": 277810,
       "word": "T1全员入选LCK一阵",
@@ -8305,6 +8305,14 @@
       "onboard_time": 1679224887,
       "rank": 16,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 268117,
+      "num": 268117,
+      "word": "毕雯珺李一桐陈星旭微博头像",
+      "onboard_time": 1679836108,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 267263,
@@ -9316,7 +9324,7 @@
     },
     {
       "raw_hot": 229342,
-      "num": 214157,
+      "num": 218475,
       "word": "这狐狸什么家庭条件",
       "onboard_time": 1679833585,
       "rank": 29,
@@ -9907,14 +9915,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 212236,
-      "num": 212236,
-      "word": "毕雯珺李一桐陈星旭微博头像",
-      "onboard_time": 1679836108,
-      "rank": 30,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 211779,
       "num": 211779,
       "word": "唐嫣武汉vlog",
@@ -10441,6 +10441,14 @@
       "onboard_time": 1679544209,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 202443,
+      "num": 202443,
+      "word": "KSG对战TTG",
+      "onboard_time": 1679836827,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 202315,
@@ -11257,6 +11265,14 @@
       "onboard_time": 1679600052,
       "rank": 14,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 188367,
+      "num": 188367,
+      "word": "上海一公交公司回应公交车坠河",
+      "onboard_time": 1679837429,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 187982,
@@ -12667,7 +12683,7 @@
       "category": "情感,教育"
     },
     {
-      "raw_hot": 153698,
+      "raw_hot": 153872,
       "num": 182028,
       "word": "这大体格真不像猫",
       "onboard_time": 1679833768,
@@ -12817,6 +12833,14 @@
       "onboard_time": 1679275946,
       "rank": 43,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 150097,
+      "num": 150097,
+      "word": "71路",
+      "onboard_time": 1679837429,
+      "rank": 39,
+      "category": "社会负面"
     },
     {
       "raw_hot": 149704,
@@ -14500,7 +14524,7 @@
     },
     {
       "raw_hot": 102335,
-      "num": 128389,
+      "num": 129302,
       "word": "高校食堂现美食选择器",
       "onboard_time": 1679835868,
       "rank": 45,
@@ -14817,6 +14841,14 @@
       "onboard_time": 1679235691,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 84516,
+      "num": 116972,
+      "word": "丫丫晚上加班吃竹子",
+      "onboard_time": 1679837129,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 84206,
@@ -15259,6 +15291,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 35104,
+      "num": 410781,
+      "word": "女明星微博之夜光耀时刻",
+      "onboard_time": 1679835628,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 35017,
       "num": 378765,
       "word": "罗永浩许愿成为行业明灯",
@@ -15329,14 +15369,6 @@
       "onboard_time": 1679500289,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 27845,
-      "num": 400858,
-      "word": "女明星微博之夜光耀时刻",
-      "onboard_time": 1679835628,
-      "rank": 14,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 27779,
