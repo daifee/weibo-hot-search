@@ -1,14 +1,22 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1679885070645,
+  "endTime": 1679887120787,
   "band_list": [
     {
-      "raw_hot": 2163692,
-      "num": 2163692,
+      "raw_hot": 2689270,
+      "num": 2689270,
       "word": "周一",
       "onboard_time": 1679875406,
       "rank": 4,
       "category": "情感"
+    },
+    {
+      "raw_hot": 2613485,
+      "num": 390861,
+      "word": "黄多多染金发",
+      "onboard_time": 1679883989,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2146409,
@@ -25,14 +33,6 @@
       "onboard_time": 1679872941,
       "rank": 25,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1898372,
-      "num": 390861,
-      "word": "黄多多染金发",
-      "onboard_time": 1679883989,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1849000,
@@ -80,6 +80,30 @@
       "word": "胖东来",
       "onboard_time": 1679822608,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 833605,
+      "num": 403886,
+      "word": "肖战说自己是社恐",
+      "onboard_time": 1679884709,
+      "rank": 9,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 770287,
+      "num": 270675,
+      "word": "以色列爆发大规模抗议",
+      "onboard_time": 1679884471,
+      "rank": 29,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 677203,
+      "num": 677203,
+      "word": "男子被人冒用身份欠下8000万巨债",
+      "onboard_time": 1679883208,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -147,14 +171,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 468134,
-      "num": 468134,
-      "word": "男子被人冒用身份欠下8000万巨债",
-      "onboard_time": 1679883208,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 465178,
       "num": 380031,
       "word": "田曦薇撞脸史迪仔",
@@ -163,12 +179,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 403886,
-      "num": 403886,
-      "word": "肖战说自己是社恐",
-      "onboard_time": 1679884709,
-      "rank": 9,
-      "category": "作品衍生"
+      "raw_hot": 451377,
+      "num": 451377,
+      "word": "甘肃将为兰州牛肉拉面立法",
+      "onboard_time": 1679884409,
+      "rank": 48,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 398039,
@@ -193,6 +209,14 @@
       "onboard_time": 1679847143,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 345489,
+      "num": 345489,
+      "word": "景区回应女子给猴子喂食被掌掴",
+      "onboard_time": 1679882728,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 330621,
@@ -240,14 +264,6 @@
       "word": "京剧的哇呀呀喂呀呀哇哈哈哈都啥意思",
       "onboard_time": 1679875765,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 302508,
-      "num": 302508,
-      "word": "景区回应女子给猴子喂食被掌掴",
-      "onboard_time": 1679882728,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -353,6 +369,14 @@
       "onboard_time": 1679844027,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 229012,
+      "num": 229012,
+      "word": "剑网3",
+      "onboard_time": 1679884828,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 227701,
@@ -475,6 +499,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 191744,
+      "num": 191744,
+      "word": "苹果自动驾驶2个月16起车祸",
+      "onboard_time": 1679886690,
+      "rank": 20,
+      "category": "科技"
+    },
+    {
       "raw_hot": 191615,
       "num": 191615,
       "word": "王鹤棣直播",
@@ -491,6 +523,22 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 187150,
+      "num": 187150,
+      "word": "王铮亮苏醒张远了不起的我们MV",
+      "onboard_time": 1679883750,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 185577,
+      "num": 185577,
+      "word": "久别重逢后突然就释怀了",
+      "onboard_time": 1679884770,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 183825,
       "num": 183825,
       "word": "苹果向高管进行MR头显里程碑展示",
@@ -499,12 +547,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 183523,
-      "num": 183523,
-      "word": "王铮亮苏醒张远了不起的我们MV",
-      "onboard_time": 1679883750,
+      "raw_hot": 182265,
+      "num": 182265,
+      "word": "留学生外国街头放汉服秀惊艳路人",
+      "onboard_time": 1679885851,
       "rank": 25,
-      "category": "音乐"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 178545,
@@ -529,14 +577,6 @@
       "onboard_time": 1679880026,
       "rank": 39,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 178035,
-      "num": 178035,
-      "word": "以色列爆发大规模抗议",
-      "onboard_time": 1679884471,
-      "rank": 29,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 177053,
@@ -571,28 +611,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 155541,
-      "num": 155541,
-      "word": "甘肃将为兰州牛肉拉面立法",
-      "onboard_time": 1679884409,
-      "rank": 48,
-      "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 154550,
-      "num": 154550,
-      "word": "剑网3",
-      "onboard_time": 1679884828,
-      "rank": 29,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 152819,
       "num": 152819,
       "word": "铃芽之旅",
       "onboard_time": 1679821287,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 152421,
+      "num": 152421,
+      "word": "乡村入殓师16年为近百位逝者理发",
+      "onboard_time": 1679883269,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 151375,
@@ -603,12 +635,12 @@
       "category": "影视,动漫"
     },
     {
-      "raw_hot": 147053,
-      "num": 147053,
-      "word": "乡村入殓师16年为近百位逝者理发",
-      "onboard_time": 1679883269,
-      "rank": 34,
-      "category": "社会新闻"
+      "raw_hot": 147846,
+      "num": 147846,
+      "word": "林智妍模仿文东恩为妍珍鼓掌",
+      "onboard_time": 1679883568,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 143694,
@@ -625,14 +657,6 @@
       "onboard_time": 1679874382,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 142761,
-      "num": 142761,
-      "word": "林智妍模仿文东恩为妍珍鼓掌",
-      "onboard_time": 1679883568,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 141969,
@@ -731,6 +755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 117016,
+      "num": 117016,
+      "word": "我的自然卷比天气预报还准",
+      "onboard_time": 1679886389,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 111781,
       "num": 91031,
       "word": "吴宣仪也在热搜上看美女",
@@ -811,6 +843,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 98884,
+      "num": 98884,
+      "word": "女生终点定错辱骂网约车司机",
+      "onboard_time": 1679886932,
+      "rank": 39,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 98729,
       "num": 89725,
       "word": "何炅黄磊 杭州",
@@ -827,12 +867,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 93653,
-      "num": 93653,
-      "word": "久别重逢后突然就释怀了",
-      "onboard_time": 1679884770,
-      "rank": 45,
-      "category": "情感"
+      "raw_hot": 94970,
+      "num": 94970,
+      "word": "会射击的人玩打气球",
+      "onboard_time": 1679886867,
+      "rank": 40,
+      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 93544,
@@ -881,6 +921,14 @@
       "onboard_time": 1679755628,
       "rank": 48,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 81053,
+      "num": 81053,
+      "word": "儿童眼球被戳伤交警狂飙护送就医",
+      "onboard_time": 1679886452,
+      "rank": 47,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 78356,
@@ -945,6 +993,9 @@
     },
     {
       "word": "#习主席对俄罗斯进行国事访问纪实#"
+    },
+    {
+      "word": "#命运与共里的总书记用典#"
     }
   ]
 }
