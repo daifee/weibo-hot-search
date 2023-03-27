@@ -1,7 +1,15 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1679912410949,
+  "endTime": 1679913344525,
   "band_list": [
+    {
+      "raw_hot": 3633720,
+      "num": 1009624,
+      "word": "黄磊孙莉回应多多争议",
+      "onboard_time": 1679912791,
+      "rank": 3,
+      "category": "艺人"
+    },
     {
       "raw_hot": 3264983,
       "num": 433460,
@@ -179,6 +187,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1061313,
+      "num": 1061313,
+      "word": "王者荣耀",
+      "onboard_time": 1679912489,
+      "rank": 1,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1018035,
       "num": 1018035,
       "word": "好丽友漏税22万被罚12万",
@@ -203,6 +219,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 992658,
+      "num": 992658,
+      "word": "男子合成迪丽热巴视频是否属于性骚扰",
+      "onboard_time": 1679910267,
+      "rank": 3,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 927202,
       "num": 927202,
       "word": "96年父亲暴瘦40斤割肝救女",
@@ -219,12 +243,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 908842,
-      "num": 908842,
-      "word": "男子合成迪丽热巴视频是否属于性骚扰",
-      "onboard_time": 1679910267,
-      "rank": 3,
-      "category": "社会新闻,艺人"
+      "raw_hot": 893122,
+      "num": 373765,
+      "word": "张元英高马尾",
+      "onboard_time": 1679911350,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 892536,
@@ -329,14 +353,6 @@
       "onboard_time": 1679904751,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 623622,
-      "num": 373765,
-      "word": "张元英高马尾",
-      "onboard_time": 1679911350,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 613068,
@@ -481,6 +497,14 @@
       "onboard_time": 1679886690,
       "rank": 20,
       "category": "科技"
+    },
+    {
+      "raw_hot": 448670,
+      "num": 448670,
+      "word": "王心凌最受不了别人叫她不要熬夜",
+      "onboard_time": 1679913211,
+      "rank": 7,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 447772,
@@ -755,6 +779,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 268531,
+      "num": 268531,
+      "word": "千万别让这个医学生毕业",
+      "onboard_time": 1679909069,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 267602,
       "num": 267602,
       "word": "原来还能这么买免费高铁票",
@@ -811,6 +843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 251483,
+      "num": 251483,
+      "word": "鸡让广东人吃明白了",
+      "onboard_time": 1679908769,
+      "rank": 30,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 244188,
       "num": 244188,
       "word": "蔡徐坤舞台挂帆布包为了装墨镜",
@@ -843,14 +883,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 234822,
-      "num": 234822,
-      "word": "千万别让这个医学生毕业",
-      "onboard_time": 1679909069,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 229012,
       "num": 229012,
       "word": "剑网3",
@@ -872,6 +904,14 @@
       "word": "杨洋浅绿色西装",
       "onboard_time": 1679909789,
       "rank": 27,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 224143,
+      "num": 224143,
+      "word": "肖战跟杨紫周深打招呼",
+      "onboard_time": 1679912909,
+      "rank": 26,
       "category": "作品衍生"
     },
     {
@@ -905,14 +945,6 @@
       "onboard_time": 1679886389,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 216558,
-      "num": 216558,
-      "word": "鸡让广东人吃明白了",
-      "onboard_time": 1679908769,
-      "rank": 30,
-      "category": "美食,幽默"
     },
     {
       "raw_hot": 214913,
@@ -953,6 +985,14 @@
       "onboard_time": 1679884169,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 208419,
+      "num": 208419,
+      "word": "谷爱凌说只和自己卷",
+      "onboard_time": 1679912189,
+      "rank": 44,
+      "category": "体育,作品衍生"
     },
     {
       "raw_hot": 207125,
@@ -1475,14 +1515,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 124381,
-      "num": 124381,
-      "word": "谷爱凌说只和自己卷",
-      "onboard_time": 1679912189,
-      "rank": 44,
-      "category": "体育,作品衍生"
-    },
-    {
       "raw_hot": 124348,
       "num": 124348,
       "word": "你抗拒上班到什么地步",
@@ -1721,6 +1753,14 @@
       "onboard_time": 1679889152,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 91934,
+      "num": 91934,
+      "word": "晨晓夫妇的十年",
+      "onboard_time": 1679913094,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 90383,

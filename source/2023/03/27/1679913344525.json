@@ -1,0 +1,410 @@
+{
+  "runTime": 1679913344525,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1617006,
+        "num": 1617006,
+        "word": "淮安未满14岁怀孕医院将强制报告",
+        "onboard_time": 1679907029,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1061313,
+        "num": 1061313,
+        "word": "王者荣耀",
+        "onboard_time": 1679912489,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 11604,
+        "num": 1013250,
+        "word": "春日里的凡人微光",
+        "onboard_time": 1679879306,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3633720,
+        "num": 1009624,
+        "word": "黄磊孙莉回应多多争议",
+        "onboard_time": 1679912791,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 992658,
+        "num": 992658,
+        "word": "男子合成迪丽热巴视频是否属于性骚扰",
+        "onboard_time": 1679910267,
+        "rank": 4,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 781047,
+        "num": 781047,
+        "word": "女子吃自助餐将店内甲鱼煮食",
+        "onboard_time": 1679910150,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 464109,
+        "num": 464109,
+        "word": "长公主影视化",
+        "onboard_time": 1679905051,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 448670,
+        "num": 448670,
+        "word": "王心凌最受不了别人叫她不要熬夜",
+        "onboard_time": 1679913211,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 441658,
+        "num": 441658,
+        "word": "教育局称徐汇中学无男浴室",
+        "onboard_time": 1679903191,
+        "rank": 8,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 359109,
+        "num": 359109,
+        "word": "Rookie看饭堂开团仁川人",
+        "onboard_time": 1679909909,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 2477846,
+        "num": 356062,
+        "word": "马英九抵达大陆",
+        "onboard_time": 1679910569,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 893122,
+        "num": 351738,
+        "word": "张元英高马尾",
+        "onboard_time": 1679911350,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 539910,
+        "num": 348663,
+        "word": "刘亦菲胡歌拿错对方奖杯",
+        "onboard_time": 1679896533,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 468564,
+        "num": 342372,
+        "word": "教育局回应网传徐汇中学事件",
+        "onboard_time": 1679900669,
+        "rank": 13,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 430316,
+        "num": 338287,
+        "word": "林永健儿子12岁近照",
+        "onboard_time": 1679902411,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 336327,
+        "num": 336327,
+        "word": "网传2023星光大赏名单",
+        "onboard_time": 1679909729,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 327796,
+        "num": 327796,
+        "word": "IVE先行曲MV上线",
+        "onboard_time": 1679908294,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 325910,
+        "num": 325910,
+        "word": "孙坚晒约唐嫣喝咖啡vlog",
+        "onboard_time": 1679903790,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 295629,
+        "num": 295629,
+        "word": "檀健次莫文蔚16年后再同框",
+        "onboard_time": 1679911530,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272086,
+        "num": 272086,
+        "word": "黑马情侣",
+        "onboard_time": 1679899712,
+        "rank": 19,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 964386,
+        "num": 270843,
+        "word": "马云已回国",
+        "onboard_time": 1679896593,
+        "rank": 20,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 268531,
+        "num": 268531,
+        "word": "千万别让这个医学生毕业",
+        "onboard_time": 1679909069,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 251483,
+        "num": 251483,
+        "word": "鸡让广东人吃明白了",
+        "onboard_time": 1679908769,
+        "rank": 22,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 244652,
+        "num": 244652,
+        "word": "张一山最近营业照",
+        "onboard_time": 1679904751,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238030,
+        "num": 238030,
+        "word": "不止瘦女孩能外穿瑜伽裤",
+        "onboard_time": 1679900553,
+        "rank": 24,
+        "category": "体育,情感"
+      },
+      {
+        "raw_hot": 225886,
+        "num": 225886,
+        "word": "坐飞机千万不要穿鲜艳的衣服",
+        "onboard_time": 1679887772,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 224143,
+        "num": 224143,
+        "word": "肖战跟杨紫周深打招呼",
+        "onboard_time": 1679912909,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 216864,
+        "num": 216864,
+        "word": "杨洋浅绿色西装",
+        "onboard_time": 1679909789,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 208419,
+        "num": 208419,
+        "word": "谷爱凌说只和自己卷",
+        "onboard_time": 1679912189,
+        "rank": 28,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 205681,
+        "num": 205681,
+        "word": "男子凌晨发现一女孩赤脚睡在楼梯间",
+        "onboard_time": 1679894256,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194037,
+        "num": 194037,
+        "word": "原来还能这么买免费高铁票",
+        "onboard_time": 1679905051,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 193569,
+        "num": 193569,
+        "word": "原来这才是减脂天花板",
+        "onboard_time": 1679909250,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190679,
+        "num": 190679,
+        "word": "这个求婚我真的能记一辈子",
+        "onboard_time": 1679907391,
+        "rank": 32,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 188997,
+        "num": 188997,
+        "word": "虞书欣说小兰花让观众更爱她了",
+        "onboard_time": 1679903912,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 179555,
+        "num": 179555,
+        "word": "柯南贝克街的亡灵破艺联预售纪录",
+        "onboard_time": 1679912249,
+        "rank": 34,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 164549,
+        "num": 164549,
+        "word": "Kitsch",
+        "onboard_time": 1679911649,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 161979,
+        "num": 161979,
+        "word": "花花登上纽约时代广场大屏",
+        "onboard_time": 1679899830,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148772,
+        "num": 148772,
+        "word": "苏醒加好友备注主打写实",
+        "onboard_time": 1679896412,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145030,
+        "num": 145030,
+        "word": "村BA总冠军诞生",
+        "onboard_time": 1679905293,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140108,
+        "num": 140108,
+        "word": "日媒曝在北京被捕日本男子身份",
+        "onboard_time": 1679892700,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132773,
+        "num": 132773,
+        "word": "白鹿录完奔跑吧就进组",
+        "onboard_time": 1679902830,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 130325,
+        "num": 130325,
+        "word": "恋爱中最伤人的举动是什么",
+        "onboard_time": 1679906371,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117294,
+        "num": 117294,
+        "word": "长沙起火",
+        "onboard_time": 1679902651,
+        "rank": 42,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 112423,
+        "num": 112423,
+        "word": "张雨绮古装额饰妆造",
+        "onboard_time": 1679910267,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107227,
+        "num": 107227,
+        "word": "保安已经当得不想离职了",
+        "onboard_time": 1679891199,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 99043,
+        "num": 99043,
+        "word": "一个真想买一个真想卖",
+        "onboard_time": 1679906970,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 98980,
+        "num": 98980,
+        "word": "关晓彤追狂飙被全网剧透",
+        "onboard_time": 1679895991,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 98543,
+        "num": 98543,
+        "word": "外交部回应日本男子在京被捕",
+        "onboard_time": 1679906611,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93156,
+        "num": 93156,
+        "word": "邓超陈赫吃辣椒假动作神同步",
+        "onboard_time": 1679908351,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91934,
+        "num": 91934,
+        "word": "晨晓夫妇的十年",
+        "onboard_time": 1679913094,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国新发展要为世界经济增春色#"
+    }
+  }
+}
