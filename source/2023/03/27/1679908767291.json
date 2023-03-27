@@ -1,0 +1,410 @@
+{
+  "runTime": 1679908767291,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1138651,
+        "num": 1138651,
+        "word": "长公主影视化",
+        "onboard_time": 1679905051,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1092280,
+        "num": 1092280,
+        "word": "淮安未满14岁怀孕医院将强制报告",
+        "onboard_time": 1679907029,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20019,
+        "num": 1077716,
+        "word": "春日里的凡人微光",
+        "onboard_time": 1679879306,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1071094,
+        "num": 1071094,
+        "word": "IVE先行曲MV上线",
+        "onboard_time": 1679908294,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1038141,
+        "num": 1038141,
+        "word": "教育局回应网传徐汇中学事件",
+        "onboard_time": 1679900669,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 724385,
+        "num": 724385,
+        "word": "教育局称徐汇中学无男浴室",
+        "onboard_time": 1679903191,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 536954,
+        "num": 536954,
+        "word": "黑马情侣",
+        "onboard_time": 1679899712,
+        "rank": 6,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 437518,
+        "num": 437518,
+        "word": "坐飞机千万不要穿鲜艳的衣服",
+        "onboard_time": 1679887772,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 413157,
+        "num": 413157,
+        "word": "不止瘦女孩能外穿瑜伽裤",
+        "onboard_time": 1679900553,
+        "rank": 8,
+        "category": "体育,情感"
+      },
+      {
+        "raw_hot": 383479,
+        "num": 383479,
+        "word": "虞书欣说小兰花让观众更爱她了",
+        "onboard_time": 1679903912,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1103959,
+        "num": 383384,
+        "word": "林永健儿子12岁近照",
+        "onboard_time": 1679902411,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 580742,
+        "num": 383343,
+        "word": "孙坚晒约唐嫣喝咖啡vlog",
+        "onboard_time": 1679903790,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 752344,
+        "num": 383120,
+        "word": "刘亦菲胡歌拿错对方奖杯",
+        "onboard_time": 1679896533,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 438536,
+        "num": 382997,
+        "word": "张一山最近营业照",
+        "onboard_time": 1679904751,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 382951,
+        "num": 382951,
+        "word": "苏醒加好友备注主打写实",
+        "onboard_time": 1679896412,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 371447,
+        "num": 371447,
+        "word": "长沙起火",
+        "onboard_time": 1679902651,
+        "rank": 15,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 353816,
+        "num": 353816,
+        "word": "日媒曝在北京被捕日本男子身份",
+        "onboard_time": 1679892700,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340059,
+        "num": 340059,
+        "word": "黄多多染金发",
+        "onboard_time": 1679883989,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 336012,
+        "num": 336012,
+        "word": "男子凌晨发现一女孩赤脚睡在楼梯间",
+        "onboard_time": 1679894256,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324516,
+        "num": 324516,
+        "word": "村BA总冠军诞生",
+        "onboard_time": 1679905293,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1185384,
+        "num": 318458,
+        "word": "马云已回国",
+        "onboard_time": 1679896593,
+        "rank": 20,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 284872,
+        "num": 284872,
+        "word": "白鹿录完奔跑吧就进组",
+        "onboard_time": 1679902830,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 262190,
+        "num": 262190,
+        "word": "花花登上纽约时代广场大屏",
+        "onboard_time": 1679899830,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225543,
+        "num": 225543,
+        "word": "原来还能这么买免费高铁票",
+        "onboard_time": 1679905051,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 265403,
+        "num": 223490,
+        "word": "肖战杨紫互相谦让",
+        "onboard_time": 1679902411,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 206657,
+        "num": 206657,
+        "word": "外交部回应日本男子在京被捕",
+        "onboard_time": 1679906611,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201111,
+        "num": 201111,
+        "word": "孙颖莎说要和王楚钦争取好成绩",
+        "onboard_time": 1679902951,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196926,
+        "num": 196926,
+        "word": "杜华不敢删好友怕被截图",
+        "onboard_time": 1679895574,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190047,
+        "num": 190047,
+        "word": "邓超陈赫吃辣椒假动作神同步",
+        "onboard_time": 1679908351,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187555,
+        "num": 187555,
+        "word": "这个求婚我真的能记一辈子",
+        "onboard_time": 1679907391,
+        "rank": 29,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 238270,
+        "num": 186959,
+        "word": "男网红合成迪丽热巴视频被打",
+        "onboard_time": 1679887712,
+        "rank": 30,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 186020,
+        "num": 186020,
+        "word": "高校校花的美藏不住了",
+        "onboard_time": 1679905649,
+        "rank": 31,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 175113,
+        "num": 175113,
+        "word": "保安已经当得不想离职了",
+        "onboard_time": 1679891199,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 174406,
+        "num": 174406,
+        "word": "井柏然说吻戏再拍一条是另外的价钱",
+        "onboard_time": 1679905231,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 172681,
+        "num": 172681,
+        "word": "一个真想买一个真想卖",
+        "onboard_time": 1679906970,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 157479,
+        "num": 157479,
+        "word": "关晓彤追狂飙被全网剧透",
+        "onboard_time": 1679895991,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 149451,
+        "num": 149451,
+        "word": "林俊杰演唱会带着玲娜贝儿唱江南",
+        "onboard_time": 1679907569,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 147974,
+        "num": 147974,
+        "word": "恋爱中最伤人的举动是什么",
+        "onboard_time": 1679906371,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141588,
+        "num": 141588,
+        "word": "果然看帅哥真的会变漂亮",
+        "onboard_time": 1679895272,
+        "rank": 38,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 137095,
+        "num": 137095,
+        "word": "普京称全球北约类似二战时建立的轴心国",
+        "onboard_time": 1679897252,
+        "rank": 39,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 117080,
+        "num": 117080,
+        "word": "这应该是个单身的NPC",
+        "onboard_time": 1679908531,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 116422,
+        "num": 116422,
+        "word": "男子放巨型风筝反被带上天",
+        "onboard_time": 1679896472,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108848,
+        "num": 108848,
+        "word": "小狗嘴里有好多小手套",
+        "onboard_time": 1679895215,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 99353,
+        "num": 99353,
+        "word": "长沙一大楼起火多人翻窗爬绳索逃生",
+        "onboard_time": 1679904575,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99126,
+        "num": 99126,
+        "word": "吴磊爱情而已素颜出镜",
+        "onboard_time": 1679893836,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 97292,
+        "num": 97292,
+        "word": "连狗子都知道要远离前任",
+        "onboard_time": 1679901390,
+        "rank": 45,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 94256,
+        "num": 94256,
+        "word": "张凌赫说为了剧好还是别找他唱OST",
+        "onboard_time": 1679903790,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 92718,
+        "num": 92718,
+        "word": "口腔溃疡6种情况需就医",
+        "onboard_time": 1679905470,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90383,
+        "num": 90383,
+        "word": "看得出来小猫真的很不服",
+        "onboard_time": 1679905830,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 89584,
+        "num": 89584,
+        "word": "猫猫是懂减功德的",
+        "onboard_time": 1679897192,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#命运与共里的总书记用典#"
+    }
+  }
+}
