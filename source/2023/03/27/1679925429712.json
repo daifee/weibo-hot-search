@@ -1,0 +1,410 @@
+{
+  "runTime": 1679925429712,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2318606,
+        "num": 2318606,
+        "word": "知名浙商去世儿子继母百亿夺权大战",
+        "onboard_time": 1679923350,
+        "rank": 0,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1854825,
+        "num": 1854825,
+        "word": "吴磊兑换了杨紫的广告位",
+        "onboard_time": 1679924192,
+        "rank": 1,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 17856,
+        "num": 1561289,
+        "word": "春日里的凡人微光",
+        "onboard_time": 1679879306,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1417890,
+        "num": 1417890,
+        "word": "孩子给离世父亲发短信被回复",
+        "onboard_time": 1679918612,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 868936,
+        "num": 868936,
+        "word": "男子2天喝4顿后死亡起诉店家获赔",
+        "onboard_time": 1679923411,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 662812,
+        "num": 662812,
+        "word": "刘亦菲的社交圈",
+        "onboard_time": 1679914652,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 613148,
+        "num": 613148,
+        "word": "这居然是阿衰和大脸妹",
+        "onboard_time": 1679920707,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 535370,
+        "num": 535370,
+        "word": "黑暗荣耀编剧谈第三季",
+        "onboard_time": 1679921670,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 551332,
+        "num": 522442,
+        "word": "张凌赫对白鹿挑眉",
+        "onboard_time": 1679922510,
+        "rank": 8,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 499064,
+        "num": 499064,
+        "word": "迪丽热巴素色西服",
+        "onboard_time": 1679917829,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 2466901,
+        "num": 491603,
+        "word": "黄磊孙莉回应多多争议",
+        "onboard_time": 1679912791,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 518449,
+        "num": 485193,
+        "word": "结婚要车要房要彩礼有错吗",
+        "onboard_time": 1679913931,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 470966,
+        "num": 470966,
+        "word": "鹿晗王勉逛街",
+        "onboard_time": 1679919690,
+        "rank": 12,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 468640,
+        "num": 468640,
+        "word": "深圳暴雨致航班取消旅客跪求起飞",
+        "onboard_time": 1679924071,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 435537,
+        "num": 435537,
+        "word": "乘风破浪4",
+        "onboard_time": 1679915313,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 434531,
+        "num": 434531,
+        "word": "谢娜或将以选手身份参加乘风破浪4",
+        "onboard_time": 1679916571,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 408859,
+        "num": 408859,
+        "word": "特效换脸与女星演吻戏侵犯名誉权",
+        "onboard_time": 1679923531,
+        "rank": 16,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 353220,
+        "num": 353220,
+        "word": "林高远",
+        "onboard_time": 1679922270,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 333364,
+        "num": 333364,
+        "word": "秋瓷炫出发录制浪姐4",
+        "onboard_time": 1679916271,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 332731,
+        "num": 332731,
+        "word": "女子吃自助餐将店内甲鱼煮食",
+        "onboard_time": 1679910150,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345373,
+        "num": 328946,
+        "word": "梁友安体检查出巧克力囊肿",
+        "onboard_time": 1679924250,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 319376,
+        "num": 319376,
+        "word": "杨颖给邓超拍了什么照片",
+        "onboard_time": 1679915729,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 292903,
+        "num": 292903,
+        "word": "淮安未满14岁怀孕医院将强制报告",
+        "onboard_time": 1679907029,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283545,
+        "num": 283545,
+        "word": "马云已回国",
+        "onboard_time": 1679896593,
+        "rank": 23,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 233518,
+        "num": 266742,
+        "word": "教育局回应网传徐汇中学事件",
+        "onboard_time": 1679900669,
+        "rank": 24,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 291994,
+        "num": 265434,
+        "word": "李现一诺Cat微博之夜合照",
+        "onboard_time": 1679923050,
+        "rank": 25,
+        "category": "作品衍生,游戏"
+      },
+      {
+        "raw_hot": 262054,
+        "num": 262054,
+        "word": "阿里概念股大涨",
+        "onboard_time": 1679920829,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 250974,
+        "num": 250974,
+        "word": "张元英高马尾",
+        "onboard_time": 1679911350,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 221489,
+        "num": 221489,
+        "word": "他是谁18集全是眼泪",
+        "onboard_time": 1679919571,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 218345,
+        "num": 218345,
+        "word": "湖北省考成绩",
+        "onboard_time": 1679919028,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 210191,
+        "num": 210191,
+        "word": "杉杉股份回应郑永刚遗孀主张权利",
+        "onboard_time": 1679924312,
+        "rank": 30,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 181958,
+        "num": 181958,
+        "word": "陈梦0比3输给蒯曼",
+        "onboard_time": 1679915789,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181554,
+        "num": 181554,
+        "word": "爱情而已符合你的预期吗",
+        "onboard_time": 1679921429,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176110,
+        "num": 176110,
+        "word": "二十届中央第一轮巡视对象公布",
+        "onboard_time": 1679917589,
+        "rank": 33,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 157217,
+        "num": 157217,
+        "word": "肖指导是有些表情在身上的",
+        "onboard_time": 1679920707,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153014,
+        "num": 153014,
+        "word": "周雨彤追剧随拍",
+        "onboard_time": 1679924071,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152634,
+        "num": 152634,
+        "word": "腊么肠戒指",
+        "onboard_time": 1679922270,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141907,
+        "num": 141907,
+        "word": "微博之夜战报",
+        "onboard_time": 1679925332,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 138334,
+        "num": 138334,
+        "word": "王心凌最受不了别人叫她不要熬夜",
+        "onboard_time": 1679913211,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 137256,
+        "num": 137256,
+        "word": "王者荣耀",
+        "onboard_time": 1679912489,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 131965,
+        "num": 131965,
+        "word": "孙坚晒约唐嫣喝咖啡vlog",
+        "onboard_time": 1679903790,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120899,
+        "num": 120899,
+        "word": "张杰官宣演唱会周六见面",
+        "onboard_time": 1679914951,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 118430,
+        "num": 118430,
+        "word": "长公主影视化",
+        "onboard_time": 1679905051,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 114025,
+        "num": 114025,
+        "word": "林永健儿子12岁近照",
+        "onboard_time": 1679902411,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111826,
+        "num": 111826,
+        "word": "他是谁",
+        "onboard_time": 1679914590,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 111393,
+        "num": 111393,
+        "word": "IVE先行曲MV上线",
+        "onboard_time": 1679908294,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 110928,
+        "num": 110928,
+        "word": "教育局称徐汇中学无男浴室",
+        "onboard_time": 1679903191,
+        "rank": 46,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 110132,
+        "num": 110132,
+        "word": "千万别让这个医学生毕业",
+        "onboard_time": 1679909069,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 93971,
+        "num": 93971,
+        "word": "这HR是个卧底吧",
+        "onboard_time": 1679925031,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 92762,
+        "num": 92762,
+        "word": "为什么删掉了你喜欢的人",
+        "onboard_time": 1679925393,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#命运与共里的总书记用典#"
+    }
+  }
+}
