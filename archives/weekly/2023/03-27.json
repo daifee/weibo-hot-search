@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1679928121719,
+  "endTime": 1679930420315,
   "band_list": [
     {
       "raw_hot": 4718675,
@@ -187,6 +187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1309442,
+      "num": 1309442,
+      "word": "中方愿全部接收洪都拉斯在台留学生",
+      "onboard_time": 1679927194,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1254355,
       "num": 588678,
       "word": "截图癖",
@@ -201,6 +209,14 @@
       "onboard_time": 1679923411,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1172548,
+      "num": 1172548,
+      "word": "为什么删掉了你喜欢的人",
+      "onboard_time": 1679925393,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 1155496,
@@ -291,14 +307,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 984855,
-      "num": 984855,
-      "word": "为什么删掉了你喜欢的人",
-      "onboard_time": 1679925393,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 927202,
       "num": 927202,
       "word": "96年父亲暴瘦40斤割肝救女",
@@ -313,6 +321,14 @@
       "onboard_time": 1679896412,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 898086,
+      "num": 898086,
+      "word": "徐汇中学女生进入男浴室不属实",
+      "onboard_time": 1679929053,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 893122,
@@ -489,6 +505,14 @@
       "onboard_time": 1679913211,
       "rank": 7,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 595396,
+      "num": 595396,
+      "word": "白敬亭持股公司经营异常",
+      "onboard_time": 1679928153,
+      "rank": 9,
+      "category": "艺人,财经"
     },
     {
       "raw_hot": 594041,
@@ -755,6 +779,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 401843,
+      "num": 401843,
+      "word": "吴宣仪说虞书欣特别暖心",
+      "onboard_time": 1679928034,
+      "rank": 34,
+      "category": "作品衍生,艺人"
+    },
+    {
       "raw_hot": 398808,
       "num": 398808,
       "word": "肖战杨紫互相谦让",
@@ -785,6 +817,14 @@
       "onboard_time": 1679916271,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 380740,
+      "num": 380740,
+      "word": "刑侦剧前五三部张译主演",
+      "onboard_time": 1679929595,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 374581,
@@ -867,6 +907,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 328561,
+      "num": 328561,
+      "word": "新加坡总理李显龙访华",
+      "onboard_time": 1679927432,
+      "rank": 35,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 326230,
       "num": 282602,
       "word": "微博之夜高定礼服大总结",
@@ -947,6 +995,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 295732,
+      "num": 202631,
+      "word": "Chinese空腹",
+      "onboard_time": 1679929653,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 295125,
+      "num": 201177,
+      "word": "长相思",
+      "onboard_time": 1679928994,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 292864,
       "num": 292864,
       "word": "白桃星座",
@@ -977,14 +1041,6 @@
       "onboard_time": 1679890540,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 284918,
-      "num": 284918,
-      "word": "中方愿全部接收洪都拉斯在台留学生",
-      "onboard_time": 1679927194,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 283582,
@@ -1073,6 +1129,14 @@
       "onboard_time": 1679883330,
       "rank": 21,
       "category": "科技"
+    },
+    {
+      "raw_hot": 257955,
+      "num": 169050,
+      "word": "刘嘉玲 为我的眼光干杯",
+      "onboard_time": 1679928454,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 257036,
@@ -1168,6 +1232,14 @@
       "word": "李现目前在泉州拍一部戏",
       "onboard_time": 1679844027,
       "rank": 16,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 235379,
+      "num": 168493,
+      "word": "郑秀妍紫色拖尾裙",
+      "onboard_time": 1679930252,
+      "rank": 32,
       "category": "作品衍生"
     },
     {
@@ -1307,6 +1379,14 @@
       "category": "体育,作品衍生"
     },
     {
+      "raw_hot": 207462,
+      "num": 207462,
+      "word": "CSGO服务器",
+      "onboard_time": 1679929232,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 207125,
       "num": 207125,
       "word": "爱情而已开播",
@@ -1337,6 +1417,14 @@
       "onboard_time": 1679920707,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 203002,
+      "num": 203002,
+      "word": "洪都拉斯总统要求美国解除60多年封锁",
+      "onboard_time": 1679928755,
+      "rank": 24,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 201597,
@@ -1643,12 +1731,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 163368,
-      "num": 150500,
-      "word": "吴宣仪说虞书欣特别暖心",
-      "onboard_time": 1679928034,
-      "rank": 34,
-      "category": "作品衍生,艺人"
+      "raw_hot": 167893,
+      "num": 116216,
+      "word": "刘亚仁被麦克风扎脸",
+      "onboard_time": 1679930013,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 167677,
+      "num": 167677,
+      "word": "狗狗太热情也不太好",
+      "onboard_time": 1679927254,
+      "rank": 39,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 161537,
@@ -1657,6 +1753,14 @@
       "onboard_time": 1679880986,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161368,
+      "num": 161368,
+      "word": "这就是你的恋爱脑闺蜜吧",
+      "onboard_time": 1679929173,
+      "rank": 34,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 160684,
@@ -1721,14 +1825,6 @@
       "onboard_time": 1679907569,
       "rank": 36,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 149217,
-      "num": 149217,
-      "word": "新加坡总理李显龙访华",
-      "onboard_time": 1679927432,
-      "rank": 35,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 148153,
@@ -1817,14 +1913,6 @@
       "onboard_time": 1679875346,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 137799,
-      "num": 137799,
-      "word": "狗狗太热情也不太好",
-      "onboard_time": 1679927254,
-      "rank": 39,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 137583,
