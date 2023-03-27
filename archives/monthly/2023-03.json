@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679891798201,
+  "endTime": 1679894225481,
   "band_list": [
     {
       "raw_hot": 27113842,
@@ -529,6 +529,14 @@
       "onboard_time": 1679186124,
       "rank": 10,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 3019687,
+      "num": 433460,
+      "word": "上海徐汇中学",
+      "onboard_time": 1679891142,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3016905,
@@ -4267,6 +4275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1271775,
+      "num": 1271775,
+      "word": "坐飞机千万不要穿鲜艳的衣服",
+      "onboard_time": 1679887772,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1271411,
       "num": 1087358,
       "word": "重庆大学回应男生偷拍女生",
@@ -7179,14 +7195,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 934293,
-      "num": 934293,
-      "word": "坐飞机千万不要穿鲜艳的衣服",
-      "onboard_time": 1679887772,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 932644,
       "num": 932644,
       "word": "赛琳娜现身霉霉演唱会",
@@ -7201,14 +7209,6 @@
       "onboard_time": 1679106267,
       "rank": 27,
       "category": "财经"
-    },
-    {
-      "raw_hot": 931653,
-      "num": 433460,
-      "word": "上海徐汇中学",
-      "onboard_time": 1679891142,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 930412,
@@ -9129,6 +9129,14 @@
       "onboard_time": 1678717948,
       "rank": 43,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 802508,
+      "num": 323919,
+      "word": "日媒曝在北京被捕日本男子身份",
+      "onboard_time": 1679892700,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 802463,
@@ -11913,6 +11921,14 @@
       "onboard_time": 1678111048,
       "rank": 14,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 659408,
+      "num": 659408,
+      "word": "保安已经当得不想离职了",
+      "onboard_time": 1679891199,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 659400,
@@ -24107,6 +24123,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 346893,
+      "num": 318944,
+      "word": "芬兰人的不幸福",
+      "onboard_time": 1679892521,
+      "rank": 15,
+      "category": "情感"
+    },
+    {
       "raw_hot": 346747,
       "num": 346747,
       "word": "姚琛送ITZY专辑",
@@ -26139,6 +26163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 315330,
+      "num": 315330,
+      "word": "新海诚说谢谢你中国",
+      "onboard_time": 1679893060,
+      "rank": 17,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 315164,
       "num": 315164,
       "word": "任嘉伦给宋祖儿撑伞路透视频",
@@ -27929,6 +27961,14 @@
       "onboard_time": 1678536988,
       "rank": 21,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 288182,
+      "num": 288182,
+      "word": "当导师收到我的论文初稿",
+      "onboard_time": 1679890540,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 288173,
@@ -30235,6 +30275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 257956,
+      "num": 257956,
+      "word": "现代人的成年礼不是18岁",
+      "onboard_time": 1679893060,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 257778,
       "num": 257778,
       "word": "丁程鑫杨迪加盟你好星期六",
@@ -30353,14 +30401,6 @@
       "onboard_time": 1678803572,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 255815,
-      "num": 255815,
-      "word": "当导师收到我的论文初稿",
-      "onboard_time": 1679890540,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 255785,
@@ -35035,14 +35075,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 210522,
-      "num": 210522,
-      "word": "保安已经当得不想离职了",
-      "onboard_time": 1679891199,
-      "rank": 26,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 210503,
       "num": 210503,
       "word": "当情书被公开复诵",
@@ -35617,6 +35649,14 @@
       "onboard_time": 1677639868,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 206778,
+      "num": 206778,
+      "word": "吴磊爱情而已素颜出镜",
+      "onboard_time": 1679893836,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 206777,
@@ -39987,6 +40027,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 187304,
+      "num": 187304,
+      "word": "日媒称一日本男子在北京被捕",
+      "onboard_time": 1679893777,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187244,
       "num": 187244,
       "word": "自行车怕被偷与警车锁在一起",
@@ -40417,6 +40465,14 @@
       "onboard_time": 1677922405,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 185176,
+      "num": 185176,
+      "word": "广州报名骨灰撒海市民逐年增多",
+      "onboard_time": 1679893418,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 185145,
@@ -42657,6 +42713,14 @@
       "onboard_time": 1679474366,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 167981,
+      "num": 167981,
+      "word": "特朗普举行首场大规模竞选集会",
+      "onboard_time": 1679892763,
+      "rank": 31,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 167938,
@@ -48587,6 +48651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 123736,
+      "num": 123736,
+      "word": "未定事件簿",
+      "onboard_time": 1679891504,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 123733,
       "num": 123733,
       "word": "龙与地下城彩墨风怪物海报",
@@ -48995,6 +49067,14 @@
       "category": "体育,作品衍生"
     },
     {
+      "raw_hot": 120573,
+      "num": 120573,
+      "word": "广州电竞酒店登记管理混乱",
+      "onboard_time": 1679892040,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120548,
       "num": 120548,
       "word": "WTT新乡冠军赛2023",
@@ -49145,6 +49225,14 @@
       "onboard_time": 1679568507,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 118707,
+      "num": 118707,
+      "word": "你用过哪些白色手机",
+      "onboard_time": 1679891322,
+      "rank": 47,
+      "category": "科技,情感"
     },
     {
       "raw_hot": 118683,
@@ -51547,6 +51635,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 96423,
+      "num": 96423,
+      "word": "宋三川扮鬼替梁友安报仇",
+      "onboard_time": 1679892102,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 96415,
       "num": 96415,
       "word": "第一次见这么华丽的天鹅",
@@ -51689,14 +51785,6 @@
       "onboard_time": 1678107208,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 94296,
-      "num": 94296,
-      "word": "未定事件簿",
-      "onboard_time": 1679891504,
-      "rank": 43,
-      "category": "游戏"
     },
     {
       "raw_hot": 94084,
@@ -52161,14 +52249,6 @@
       "onboard_time": 1679159720,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 86354,
-      "num": 86354,
-      "word": "你用过哪些白色手机",
-      "onboard_time": 1679891322,
-      "rank": 47,
-      "category": "科技,情感"
     },
     {
       "raw_hot": 86140,
@@ -54033,6 +54113,14 @@
       "onboard_time": 1678553540,
       "rank": 4,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 32597,
+      "num": 319813,
+      "word": "汤唯海边大片",
+      "onboard_time": 1679893238,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 32072,

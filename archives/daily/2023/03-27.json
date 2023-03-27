@@ -1,7 +1,15 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1679891798201,
+  "endTime": 1679894225481,
   "band_list": [
+    {
+      "raw_hot": 3019687,
+      "num": 433460,
+      "word": "上海徐汇中学",
+      "onboard_time": 1679891142,
+      "rank": 11,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2689270,
       "num": 2689270,
@@ -59,6 +67,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1271775,
+      "num": 1271775,
+      "word": "坐飞机千万不要穿鲜艳的衣服",
+      "onboard_time": 1679887772,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1254355,
       "num": 588678,
       "word": "截图癖",
@@ -89,22 +105,6 @@
       "onboard_time": 1679888431,
       "rank": 4,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 934293,
-      "num": 934293,
-      "word": "坐飞机千万不要穿鲜艳的衣服",
-      "onboard_time": 1679887772,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 931653,
-      "num": 433460,
-      "word": "上海徐汇中学",
-      "onboard_time": 1679891142,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 927202,
@@ -147,12 +147,28 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 802508,
+      "num": 323919,
+      "word": "日媒曝在北京被捕日本男子身份",
+      "onboard_time": 1679892700,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 677203,
       "num": 677203,
       "word": "男子被人冒用身份欠下8000万巨债",
       "onboard_time": 1679883208,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 659408,
+      "num": 659408,
+      "word": "保安已经当得不想离职了",
+      "onboard_time": 1679891199,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 605109,
@@ -299,6 +315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 346893,
+      "num": 318944,
+      "word": "芬兰人的不幸福",
+      "onboard_time": 1679892521,
+      "rank": 15,
+      "category": "情感"
+    },
+    {
       "raw_hot": 330621,
       "num": 208018,
       "word": "夫妻备孕多年终于怀孕宝宝先天无耳廓",
@@ -339,6 +363,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 315330,
+      "num": 315330,
+      "word": "新海诚说谢谢你中国",
+      "onboard_time": 1679893060,
+      "rank": 17,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 309549,
       "num": 277704,
       "word": "蒋依依黑长直",
@@ -377,6 +409,14 @@
       "onboard_time": 1679875646,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 288182,
+      "num": 288182,
+      "word": "当导师收到我的论文初稿",
+      "onboard_time": 1679890540,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 283582,
@@ -427,20 +467,20 @@
       "category": "科技"
     },
     {
+      "raw_hot": 257956,
+      "num": 257956,
+      "word": "现代人的成年礼不是18岁",
+      "onboard_time": 1679893060,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 257036,
       "num": 257036,
       "word": "杨幂微博之夜下班与刘诗诗热聊",
       "onboard_time": 1679839290,
       "rank": 13,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 255815,
-      "num": 255815,
-      "word": "当导师收到我的论文初稿",
-      "onboard_time": 1679890540,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 244188,
@@ -539,20 +579,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 210522,
-      "num": 210522,
-      "word": "保安已经当得不想离职了",
-      "onboard_time": 1679891199,
-      "rank": 26,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 209859,
       "num": 209859,
       "word": "刘亦菲肖战张若昀微博品质演员",
       "onboard_time": 1679884169,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 206778,
+      "num": 206778,
+      "word": "吴磊爱情而已素颜出镜",
+      "onboard_time": 1679893836,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 205790,
@@ -635,12 +675,28 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 187304,
+      "num": 187304,
+      "word": "日媒称一日本男子在北京被捕",
+      "onboard_time": 1679893777,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187150,
       "num": 187150,
       "word": "王铮亮苏醒张远了不起的我们MV",
       "onboard_time": 1679883750,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 185176,
+      "num": 185176,
+      "word": "广州报名骨灰撒海市民逐年增多",
+      "onboard_time": 1679893418,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 183825,
@@ -723,6 +779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 167981,
+      "num": 167981,
+      "word": "特朗普举行首场大规模竞选集会",
+      "onboard_time": 1679892763,
+      "rank": 31,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 161537,
       "num": 161537,
       "word": "学生合唱一开口就是青春的模样",
@@ -753,6 +817,14 @@
       "onboard_time": 1679858652,
       "rank": 48,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 147529,
+      "num": 147529,
+      "word": "明日方舟",
+      "onboard_time": 1679893477,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 143694,
@@ -867,12 +939,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 123736,
+      "num": 123736,
+      "word": "未定事件簿",
+      "onboard_time": 1679891504,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 121433,
       "num": 121433,
       "word": "济南现猪鲤plus版",
       "onboard_time": 1679879789,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 120573,
+      "num": 120573,
+      "word": "广州电竞酒店登记管理混乱",
+      "onboard_time": 1679892040,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118707,
+      "num": 118707,
+      "word": "你用过哪些白色手机",
+      "onboard_time": 1679891322,
+      "rank": 47,
+      "category": "科技,情感"
     },
     {
       "raw_hot": 111781,
@@ -1003,12 +1099,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 94296,
-      "num": 94296,
-      "word": "未定事件簿",
-      "onboard_time": 1679891504,
-      "rank": 43,
-      "category": "游戏"
+      "raw_hot": 96423,
+      "num": 96423,
+      "word": "宋三川扮鬼替梁友安报仇",
+      "onboard_time": 1679892102,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 93544,
@@ -1041,14 +1137,6 @@
       "onboard_time": 1679873842,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 86354,
-      "num": 86354,
-      "word": "你用过哪些白色手机",
-      "onboard_time": 1679891322,
-      "rank": 47,
-      "category": "科技,情感"
     },
     {
       "raw_hot": 85662,
@@ -1128,6 +1216,14 @@
       "word": "阿奶给刘亦菲颁奖",
       "onboard_time": 1679854754,
       "rank": 49,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 32597,
+      "num": 319813,
+      "word": "汤唯海边大片",
+      "onboard_time": 1679893238,
+      "rank": 14,
       "category": "作品衍生"
     },
     {
