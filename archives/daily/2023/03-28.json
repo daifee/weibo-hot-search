@@ -1,6 +1,6 @@
 {
   "startTime": 1679934149836,
-  "endTime": 1679937407676,
+  "endTime": 1679938430067,
   "band_list": [
     {
       "raw_hot": 1281772,
@@ -323,6 +323,14 @@
       "category": "作品衍生,游戏"
     },
     {
+      "raw_hot": 109280,
+      "num": 109280,
+      "word": "这个论文真的非写不可吗",
+      "onboard_time": 1679936058,
+      "rank": 29,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 108676,
       "num": 112826,
       "word": "狗狗太热情也不太好",
@@ -395,12 +403,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 72393,
-      "num": 72393,
-      "word": "这个论文真的非写不可吗",
-      "onboard_time": 1679936058,
-      "rank": 29,
-      "category": "幽默,情感"
+      "raw_hot": 34308,
+      "num": 35709,
+      "word": "首个国产新冠药停产",
+      "onboard_time": 1679938395,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 6774,
