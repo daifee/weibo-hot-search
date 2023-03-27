@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1679905441250,
+  "endTime": 1679906254961,
   "band_list": [
     {
       "raw_hot": 3264983,
@@ -91,6 +91,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1454591,
+      "num": 493211,
+      "word": "林永健儿子12岁近照",
+      "onboard_time": 1679902411,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1445342,
       "num": 1445342,
       "word": "坐飞机千万不要穿鲜艳的衣服",
@@ -105,14 +113,6 @@
       "onboard_time": 1679880865,
       "rank": 5,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1336705,
-      "num": 493211,
-      "word": "林永健儿子12岁近照",
-      "onboard_time": 1679902411,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1254355,
@@ -219,20 +219,20 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 758059,
+      "num": 489154,
+      "word": "孙坚晒约唐嫣喝咖啡vlog",
+      "onboard_time": 1679903790,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 720045,
       "num": 720045,
       "word": "男子凌晨发现一女孩赤脚睡在楼梯间",
       "onboard_time": 1679894256,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 711464,
-      "num": 489154,
-      "word": "孙坚晒约唐嫣喝咖啡vlog",
-      "onboard_time": 1679903790,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 689674,
@@ -259,7 +259,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 638049,
+      "raw_hot": 654578,
       "num": 485951,
       "word": "张一山最近营业照",
       "onboard_time": 1679904751,
@@ -363,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 493219,
+      "num": 493219,
+      "word": "长沙起火",
+      "onboard_time": 1679902651,
+      "rank": 15,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 486652,
       "num": 486652,
       "word": "iOS17将添加新功能",
@@ -379,12 +387,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 478982,
-      "num": 478982,
-      "word": "长沙起火",
-      "onboard_time": 1679902651,
-      "rank": 15,
-      "category": "社会负面"
+      "raw_hot": 473818,
+      "num": 473818,
+      "word": "教育局称徐汇中学无男浴室",
+      "onboard_time": 1679903191,
+      "rank": 17,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 469921,
@@ -417,14 +425,6 @@
       "onboard_time": 1679902830,
       "rank": 16,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 446861,
-      "num": 446861,
-      "word": "教育局称徐汇中学无男浴室",
-      "onboard_time": 1679903191,
-      "rank": 17,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 430941,
@@ -473,6 +473,14 @@
       "onboard_time": 1679892521,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 394874,
+      "num": 394874,
+      "word": "长公主影视化",
+      "onboard_time": 1679905051,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 374415,
@@ -819,6 +827,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 201840,
+      "num": 201840,
+      "word": "村BA总冠军诞生",
+      "onboard_time": 1679905293,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 201597,
       "num": 201597,
       "word": "民法",
@@ -848,14 +864,6 @@
       "word": "90年代刑警办案有多难",
       "onboard_time": 1679894256,
       "rank": 28,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 197544,
-      "num": 197544,
-      "word": "长公主影视化",
-      "onboard_time": 1679905051,
-      "rank": 24,
       "category": "影视"
     },
     {
@@ -1043,20 +1051,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 170923,
+      "num": 170923,
+      "word": "果然看帅哥真的会变漂亮",
+      "onboard_time": 1679895272,
+      "rank": 49,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 169508,
       "num": 1458603,
       "word": "春日里的凡人微光",
       "onboard_time": 1679879306,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 161680,
-      "num": 161680,
-      "word": "果然看帅哥真的会变漂亮",
-      "onboard_time": 1679895272,
-      "rank": 49,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 161537,
@@ -1083,6 +1091,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 155380,
+      "num": 155380,
+      "word": "连狗子都知道要远离前任",
+      "onboard_time": 1679901390,
+      "rank": 48,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 154860,
+      "num": 154860,
+      "word": "井柏然说吻戏再拍一条是另外的价钱",
+      "onboard_time": 1679905231,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 152879,
       "num": 152879,
       "word": "Scout获得周MVP",
@@ -1105,14 +1129,6 @@
       "onboard_time": 1679858652,
       "rank": 48,
       "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 149304,
-      "num": 149304,
-      "word": "连狗子都知道要远离前任",
-      "onboard_time": 1679901390,
-      "rank": 48,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 148153,
@@ -1203,12 +1219,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 137339,
+      "num": 137339,
+      "word": "原来还能这么买免费高铁票",
+      "onboard_time": 1679905051,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 134788,
       "num": 134788,
       "word": "月亮图标",
       "onboard_time": 1679843069,
       "rank": 34,
       "category": "科技"
+    },
+    {
+      "raw_hot": 134038,
+      "num": 134038,
+      "word": "高校校花的美藏不住了",
+      "onboard_time": 1679905649,
+      "rank": 34,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 133798,
@@ -1281,6 +1313,14 @@
       "onboard_time": 1679891504,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 123283,
+      "num": 123283,
+      "word": "口腔溃疡6种情况需就医",
+      "onboard_time": 1679905470,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121433,
@@ -1419,22 +1459,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 98324,
-      "num": 98324,
-      "word": "村BA总冠军诞生",
-      "onboard_time": 1679905293,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 97969,
-      "num": 97969,
-      "word": "井柏然说吻戏再拍一条是另外的价钱",
-      "onboard_time": 1679905231,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
       "raw_hot": 96794,
       "num": 96794,
       "word": "车祸起火附近军人飞奔而来",
@@ -1491,11 +1515,11 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 92466,
-      "num": 92466,
-      "word": "原来还能这么买免费高铁票",
-      "onboard_time": 1679905051,
-      "rank": 46,
+      "raw_hot": 90171,
+      "num": 90171,
+      "word": "看得出来小猫真的很不服",
+      "onboard_time": 1679905830,
+      "rank": 48,
       "category": "幽默"
     },
     {
