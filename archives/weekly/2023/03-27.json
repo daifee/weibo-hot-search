@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1679887120787,
+  "endTime": 1679888017297,
   "band_list": [
     {
       "raw_hot": 2689270,
@@ -33,6 +33,14 @@
       "onboard_time": 1679872941,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1912299,
+      "num": 849607,
+      "word": "男网红合成迪丽热巴视频被打",
+      "onboard_time": 1679887712,
+      "rank": 3,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1849000,
@@ -91,8 +99,16 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 770287,
-      "num": 270675,
+      "raw_hot": 828009,
+      "num": 828009,
+      "word": "刘诗诗回应天选古代人",
+      "onboard_time": 1679887411,
+      "rank": 4,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 817501,
+      "num": 353131,
       "word": "以色列爆发大规模抗议",
       "onboard_time": 1679884471,
       "rank": 29,
@@ -171,20 +187,20 @@
       "category": "科技"
     },
     {
+      "raw_hot": 469921,
+      "num": 469921,
+      "word": "甘肃将为兰州牛肉拉面立法",
+      "onboard_time": 1679884409,
+      "rank": 48,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 465178,
       "num": 380031,
       "word": "田曦薇撞脸史迪仔",
       "onboard_time": 1679882668,
       "rank": 11,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 451377,
-      "num": 451377,
-      "word": "甘肃将为兰州牛肉拉面立法",
-      "onboard_time": 1679884409,
-      "rank": 48,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 398039,
@@ -203,20 +219,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 368343,
+      "num": 368343,
+      "word": "景区回应女子给猴子喂食被掌掴",
+      "onboard_time": 1679882728,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 368257,
+      "num": 368257,
+      "word": "苹果自动驾驶2个月16起车祸",
+      "onboard_time": 1679886690,
+      "rank": 20,
+      "category": "科技"
+    },
+    {
       "raw_hot": 360022,
       "num": 277804,
       "word": "唐艺昕白裙",
       "onboard_time": 1679847143,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 345489,
-      "num": 345489,
-      "word": "景区回应女子给猴子喂食被掌掴",
-      "onboard_time": 1679882728,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 330621,
@@ -297,6 +321,14 @@
       "onboard_time": 1679837129,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 282262,
+      "num": 236275,
+      "word": "虞书欣王鹤棣聊天口型",
+      "onboard_time": 1679887531,
+      "rank": 16,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 281222,
@@ -499,12 +531,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 191744,
-      "num": 191744,
-      "word": "苹果自动驾驶2个月16起车祸",
-      "onboard_time": 1679886690,
-      "rank": 20,
-      "category": "科技"
+      "raw_hot": 192689,
+      "num": 192689,
+      "word": "女生终点定错辱骂网约车司机",
+      "onboard_time": 1679886932,
+      "rank": 39,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 191615,
@@ -523,20 +555,20 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 189484,
+      "num": 189484,
+      "word": "久别重逢后突然就释怀了",
+      "onboard_time": 1679884770,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 187150,
       "num": 187150,
       "word": "王铮亮苏醒张远了不起的我们MV",
       "onboard_time": 1679883750,
       "rank": 25,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 185577,
-      "num": 185577,
-      "word": "久别重逢后突然就释怀了",
-      "onboard_time": 1679884770,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 183825,
@@ -552,6 +584,14 @@
       "word": "留学生外国街头放汉服秀惊艳路人",
       "onboard_time": 1679885851,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179450,
+      "num": 179450,
+      "word": "乡村入殓师16年为近百位逝者理发",
+      "onboard_time": 1679883269,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -603,12 +643,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 163398,
+      "num": 163398,
+      "word": "警方通报男子酒后殴打强奸前女友",
+      "onboard_time": 1679887471,
+      "rank": 30,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 161537,
       "num": 161537,
       "word": "学生合唱一开口就是青春的模样",
       "onboard_time": 1679880986,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 159882,
+      "num": 159882,
+      "word": "林智妍模仿文东恩为妍珍鼓掌",
+      "onboard_time": 1679883568,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 152819,
@@ -619,28 +675,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 152421,
-      "num": 152421,
-      "word": "乡村入殓师16年为近百位逝者理发",
-      "onboard_time": 1679883269,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 151375,
       "num": 151375,
       "word": "铃芽之旅为何能赢过超英大片",
       "onboard_time": 1679858652,
       "rank": 48,
       "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 147846,
-      "num": 147846,
-      "word": "林智妍模仿文东恩为妍珍鼓掌",
-      "onboard_time": 1679883568,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 143694,
@@ -723,6 +763,14 @@
       "category": "社会新闻,影视"
     },
     {
+      "raw_hot": 133581,
+      "num": 133581,
+      "word": "我的自然卷比天气预报还准",
+      "onboard_time": 1679886389,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 130666,
       "num": 130666,
       "word": "宋亚轩跟雷佳音马丽打招呼",
@@ -747,6 +795,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 124548,
+      "num": 124548,
+      "word": "坐飞机千万不要穿鲜艳的衣服",
+      "onboard_time": 1679887772,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 121433,
       "num": 121433,
       "word": "济南现猪鲤plus版",
@@ -755,20 +811,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 117016,
-      "num": 117016,
-      "word": "我的自然卷比天气预报还准",
-      "onboard_time": 1679886389,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 111781,
       "num": 91031,
       "word": "吴宣仪也在热搜上看美女",
       "onboard_time": 1679833948,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 110872,
+      "num": 110872,
+      "word": "会射击的人玩打气球",
+      "onboard_time": 1679886867,
+      "rank": 40,
+      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 108921,
@@ -787,8 +843,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 108229,
-      "num": 108229,
+      "raw_hot": 108529,
+      "num": 108529,
       "word": "蓝盈莹说主持新人报道",
       "onboard_time": 1679882968,
       "rank": 40,
@@ -809,6 +865,14 @@
       "onboard_time": 1679840790,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 104109,
+      "num": 104109,
+      "word": "儿童眼球被戳伤交警狂飙护送就医",
+      "onboard_time": 1679886452,
+      "rank": 47,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 103363,
@@ -843,14 +907,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 98884,
-      "num": 98884,
-      "word": "女生终点定错辱骂网约车司机",
-      "onboard_time": 1679886932,
-      "rank": 39,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 98729,
       "num": 89725,
       "word": "何炅黄磊 杭州",
@@ -865,14 +921,6 @@
       "onboard_time": 1679877626,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 94970,
-      "num": 94970,
-      "word": "会射击的人玩打气球",
-      "onboard_time": 1679886867,
-      "rank": 40,
-      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 93544,
@@ -921,14 +969,6 @@
       "onboard_time": 1679755628,
       "rank": 48,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 81053,
-      "num": 81053,
-      "word": "儿童眼球被戳伤交警狂飙护送就医",
-      "onboard_time": 1679886452,
-      "rank": 47,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 78356,
