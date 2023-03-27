@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1679925429712,
+  "endTime": 1679927243639,
   "band_list": [
     {
       "raw_hot": 4718675,
@@ -27,6 +27,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2701974,
+      "num": 2318606,
+      "word": "知名浙商去世儿子继母百亿夺权大战",
+      "onboard_time": 1679923350,
+      "rank": 1,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 2689270,
       "num": 2689270,
       "word": "周一",
@@ -51,14 +59,6 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 2318606,
-      "num": 2318606,
-      "word": "知名浙商去世儿子继母百亿夺权大战",
-      "onboard_time": 1679923350,
-      "rank": 1,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 2186717,
       "num": 849607,
       "word": "男网红合成迪丽热巴视频被打",
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1947401,
+      "num": 1947401,
+      "word": "吴磊兑换了杨紫的广告位",
+      "onboard_time": 1679924192,
+      "rank": 3,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 1943497,
       "num": 1943497,
       "word": "千万不要在夜里醒来看时间",
@@ -89,14 +97,6 @@
       "onboard_time": 1679900669,
       "rank": 6,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1854825,
-      "num": 1854825,
-      "word": "吴磊兑换了杨紫的广告位",
-      "onboard_time": 1679924192,
-      "rank": 3,
-      "category": "影视,幽默"
     },
     {
       "raw_hot": 1849000,
@@ -211,6 +211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1099160,
+      "num": 1099160,
+      "word": "男子2天喝4顿后死亡起诉店家获赔",
+      "onboard_time": 1679923411,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1095991,
       "num": 417394,
       "word": "王者荣耀进不去",
@@ -307,11 +315,11 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 868936,
-      "num": 868936,
-      "word": "男子2天喝4顿后死亡起诉店家获赔",
-      "onboard_time": 1679923411,
-      "rank": 14,
+      "raw_hot": 868199,
+      "num": 868199,
+      "word": "深圳暴雨致航班取消旅客跪求起飞",
+      "onboard_time": 1679924071,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -379,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 713060,
+      "num": 713060,
+      "word": "为什么删掉了你喜欢的人",
+      "onboard_time": 1679925393,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 689674,
       "num": 689674,
       "word": "保安已经当得不想离职了",
@@ -419,8 +435,16 @@
       "category": "情感"
     },
     {
-      "raw_hot": 613148,
-      "num": 613148,
+      "raw_hot": 635168,
+      "num": 550703,
+      "word": "王俊凯喜欢日落的原因",
+      "onboard_time": 1679925512,
+      "rank": 11,
+      "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 630333,
+      "num": 630333,
       "word": "这居然是阿衰和大脸妹",
       "onboard_time": 1679920707,
       "rank": 8,
@@ -447,6 +471,14 @@
       "num": 605109,
       "word": "山茶花和红玫瑰",
       "onboard_time": 1679873301,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 598949,
+      "num": 598949,
+      "word": "微博之夜战报",
+      "onboard_time": 1679925332,
       "rank": 37,
       "category": "作品衍生"
     },
@@ -625,14 +657,6 @@
       "onboard_time": 1679884409,
       "rank": 48,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 468640,
-      "num": 468640,
-      "word": "深圳暴雨致航班取消旅客跪求起飞",
-      "onboard_time": 1679924071,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 465178,
@@ -1387,6 +1411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193567,
+      "num": 172374,
+      "word": "人生之路",
+      "onboard_time": 1679927134,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 192864,
       "num": 192864,
       "word": "周深帮谭维维提裙摆",
@@ -1715,14 +1747,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 141907,
-      "num": 141907,
-      "word": "微博之夜战报",
-      "onboard_time": 1679925332,
-      "rank": 37,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 141022,
       "num": 141022,
       "word": "贵州村BA总决赛",
@@ -1803,6 +1827,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 131760,
+      "num": 131760,
+      "word": "梁友安辞职",
+      "onboard_time": 1679927194,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 131682,
       "num": 131682,
       "word": "张凌赫说为了剧好还是别找他唱OST",
@@ -1875,6 +1907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122312,
+      "num": 120756,
+      "word": "杨紫琼奥斯卡庆功派对",
+      "onboard_time": 1679925693,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 121433,
       "num": 121433,
       "word": "济南现猪鲤plus版",
@@ -1897,6 +1937,14 @@
       "onboard_time": 1679910267,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 119016,
+      "num": 119016,
+      "word": "归路",
+      "onboard_time": 1679925813,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 117080,
@@ -1955,6 +2003,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 110169,
+      "num": 110169,
+      "word": "这HR是个卧底吧",
+      "onboard_time": 1679925031,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 108921,
       "num": 108921,
       "word": "森林狼vs勇士",
@@ -1969,6 +2025,14 @@
       "onboard_time": 1679841509,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 108627,
+      "num": 108627,
+      "word": "人在麻醉的时候能说多少胡话",
+      "onboard_time": 1679926114,
+      "rank": 48,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 108529,
@@ -2115,28 +2179,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 93971,
-      "num": 93971,
-      "word": "这HR是个卧底吧",
-      "onboard_time": 1679925031,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 93544,
       "num": 93544,
       "word": "胡明轩扣篮",
       "onboard_time": 1679841270,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 92762,
-      "num": 92762,
-      "word": "为什么删掉了你喜欢的人",
-      "onboard_time": 1679925393,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 92652,
@@ -2161,6 +2209,14 @@
       "onboard_time": 1679905830,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 90373,
+      "num": 90373,
+      "word": "中方愿全部接收洪都拉斯在台留学生",
+      "onboard_time": 1679927194,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 89226,
