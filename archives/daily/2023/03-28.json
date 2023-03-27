@@ -1,6 +1,6 @@
 {
   "startTime": 1679934149836,
-  "endTime": 1679945604239,
+  "endTime": 1679948452540,
   "band_list": [
     {
       "raw_hot": 1281772,
@@ -363,6 +363,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 96893,
+      "num": 96893,
+      "word": "东南亚国家是否真的不能去了",
+      "onboard_time": 1679943613,
+      "rank": 26,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 93978,
       "num": 93978,
       "word": "梁友安体检查出巧克力囊肿",
@@ -419,20 +427,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 55780,
-      "num": 55780,
-      "word": "东南亚国家是否真的不能去了",
-      "onboard_time": 1679943613,
-      "rank": 26,
-      "category": "社会新闻,旅游"
-    },
-    {
       "raw_hot": 22491,
       "num": 22491,
       "word": "爱情而已符合你的预期吗",
       "onboard_time": 1679921429,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 15345,
+      "num": 15345,
+      "word": "周笔畅回应转型",
+      "onboard_time": 1679947032,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 12578,
