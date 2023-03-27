@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1679935224627,
+  "endTime": 1679937407676,
   "band_list": [
     {
       "raw_hot": 4718675,
@@ -387,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 778014,
+      "num": 778014,
+      "word": "千万不要用这个姿势睡觉",
+      "onboard_time": 1679932529,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 758059,
       "num": 489154,
       "word": "孙坚晒约唐嫣喝咖啡vlog",
@@ -409,14 +417,6 @@
       "onboard_time": 1679894256,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 696508,
-      "num": 696508,
-      "word": "千万不要用这个姿势睡觉",
-      "onboard_time": 1679932529,
-      "rank": 13,
-      "category": "情感"
     },
     {
       "raw_hot": 689674,
@@ -1067,6 +1067,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 286094,
+      "num": 286094,
+      "word": "直男并不直男癌",
+      "onboard_time": 1679934084,
+      "rank": 22,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 283582,
       "num": 283582,
       "word": "丫丫晚上加班吃竹子",
@@ -1145,14 +1153,6 @@
       "onboard_time": 1679905051,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 266951,
-      "num": 266951,
-      "word": "直男并不直男癌",
-      "onboard_time": 1679934084,
-      "rank": 22,
-      "category": "情感,网红"
     },
     {
       "raw_hot": 265641,
@@ -1955,6 +1955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137586,
+      "num": 118234,
+      "word": "裸辞之后会变得更好吗",
+      "onboard_time": 1679931930,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 137583,
       "num": 137583,
       "word": "不照镜子还以为自己是白狗",
@@ -2145,14 +2153,6 @@
       "onboard_time": 1679833948,
       "rank": 42,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 111089,
-      "num": 118234,
-      "word": "裸辞之后会变得更好吗",
-      "onboard_time": 1679931930,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 110872,
@@ -2473,6 +2473,14 @@
       "onboard_time": 1679836587,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 72393,
+      "num": 72393,
+      "word": "这个论文真的非写不可吗",
+      "onboard_time": 1679936058,
+      "rank": 29,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 59144,

@@ -1,6 +1,6 @@
 {
   "startTime": 1679934149836,
-  "endTime": 1679935224627,
+  "endTime": 1679937407676,
   "band_list": [
     {
       "raw_hot": 1281772,
@@ -19,6 +19,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 778014,
+      "num": 778014,
+      "word": "千万不要用这个姿势睡觉",
+      "onboard_time": 1679932529,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 765804,
       "num": 765804,
       "word": "中方愿全部接收洪都拉斯在台留学生",
@@ -33,14 +41,6 @@
       "onboard_time": 1679929053,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 696508,
-      "num": 696508,
-      "word": "千万不要用这个姿势睡觉",
-      "onboard_time": 1679932529,
-      "rank": 13,
-      "category": "情感"
     },
     {
       "raw_hot": 579243,
@@ -123,6 +123,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 286094,
+      "num": 286094,
+      "word": "直男并不直男癌",
+      "onboard_time": 1679934084,
+      "rank": 22,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 279259,
       "num": 279259,
       "word": "白敬亭持股公司经营异常",
@@ -153,14 +161,6 @@
       "onboard_time": 1679928034,
       "rank": 18,
       "category": "作品衍生,艺人"
-    },
-    {
-      "raw_hot": 266951,
-      "num": 266951,
-      "word": "直男并不直男癌",
-      "onboard_time": 1679934084,
-      "rank": 22,
-      "category": "情感,网红"
     },
     {
       "raw_hot": 253310,
@@ -267,6 +267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137586,
+      "num": 118234,
+      "word": "裸辞之后会变得更好吗",
+      "onboard_time": 1679931930,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 133476,
       "num": 133476,
       "word": "CSGO服务器",
@@ -313,14 +321,6 @@
       "onboard_time": 1679923050,
       "rank": 41,
       "category": "作品衍生,游戏"
-    },
-    {
-      "raw_hot": 111089,
-      "num": 118234,
-      "word": "裸辞之后会变得更好吗",
-      "onboard_time": 1679931930,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 108676,
@@ -393,6 +393,14 @@
       "onboard_time": 1679907029,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 72393,
+      "num": 72393,
+      "word": "这个论文真的非写不可吗",
+      "onboard_time": 1679936058,
+      "rank": 29,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 6774,
