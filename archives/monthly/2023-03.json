@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679934149836,
+  "endTime": 1679935224627,
   "band_list": [
     {
       "raw_hot": 27113842,
@@ -11337,6 +11337,14 @@
       "onboard_time": 1678671085,
       "rank": 43,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 696508,
+      "num": 696508,
+      "word": "千万不要用这个姿势睡觉",
+      "onboard_time": 1679932529,
+      "rank": 13,
+      "category": "情感"
     },
     {
       "raw_hot": 696476,
@@ -24659,14 +24667,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 347829,
-      "num": 347829,
-      "word": "千万不要用这个姿势睡觉",
-      "onboard_time": 1679932529,
-      "rank": 13,
-      "category": "情感"
-    },
-    {
       "raw_hot": 347776,
       "num": 347776,
       "word": "FPX战胜EDG",
@@ -29307,6 +29307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 278512,
+      "num": 278512,
+      "word": "男生抑郁风险略高于女生",
+      "onboard_time": 1679931151,
+      "rank": 48,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 278455,
       "num": 278455,
       "word": "DRG 对S组过敏",
@@ -30265,6 +30273,14 @@
       "onboard_time": 1678941153,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 266951,
+      "num": 266951,
+      "word": "直男并不直男癌",
+      "onboard_time": 1679934084,
+      "rank": 22,
+      "category": "情感,网红"
     },
     {
       "raw_hot": 266778,
@@ -32921,14 +32937,6 @@
       "onboard_time": 1679397807,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 236114,
-      "num": 236114,
-      "word": "男生抑郁风险略高于女生",
-      "onboard_time": 1679931151,
-      "rank": 48,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 235925,
@@ -36529,14 +36537,6 @@
       "onboard_time": 1678001427,
       "rank": 13,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 206577,
-      "num": 206577,
-      "word": "直男并不直男癌",
-      "onboard_time": 1679934084,
-      "rank": 22,
-      "category": "情感,网红"
     },
     {
       "raw_hot": 206562,
@@ -51171,6 +51171,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 111089,
+      "num": 118234,
+      "word": "裸辞之后会变得更好吗",
+      "onboard_time": 1679931930,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 110961,
       "num": 114205,
       "word": "梅西俱乐部生涯制造1000球",
@@ -53969,14 +53977,6 @@
       "onboard_time": 1677594512,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 78112,
-      "num": 78112,
-      "word": "裸辞之后会变得更好吗",
-      "onboard_time": 1679931930,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 78101,
