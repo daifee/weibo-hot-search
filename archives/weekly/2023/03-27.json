@@ -1,14 +1,38 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1679873622068,
+  "endTime": 1679880213244,
   "band_list": [
     {
+      "raw_hot": 1943497,
+      "num": 1943497,
+      "word": "千万不要在夜里醒来看时间",
+      "onboard_time": 1679872941,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 1699522,
+      "num": 1699522,
+      "word": "空姐注射玻尿酸打进血管险丧命",
+      "onboard_time": 1679878647,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1254355,
-      "num": 571533,
+      "num": 588678,
       "word": "截图癖",
       "onboard_time": 1679832448,
       "rank": 3,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1019607,
+      "num": 1019607,
+      "word": "迪丽热巴对邓超说好久不见",
+      "onboard_time": 1679878824,
+      "rank": 3,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 927202,
@@ -25,6 +49,22 @@
       "onboard_time": 1679822608,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 795699,
+      "num": 795699,
+      "word": "周一",
+      "onboard_time": 1679875406,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 605109,
+      "num": 605109,
+      "word": "山茶花和红玫瑰",
+      "onboard_time": 1679873301,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 594041,
@@ -83,12 +123,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 328562,
+      "num": 328562,
+      "word": "李现和张若昀说悄悄话",
+      "onboard_time": 1679877446,
+      "rank": 8,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 326230,
       "num": 282602,
       "word": "微博之夜高定礼服大总结",
       "onboard_time": 1679824648,
       "rank": 8,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 322037,
+      "num": 322037,
+      "word": "HR为啥问父母工作",
+      "onboard_time": 1679834850,
+      "rank": 17,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 309549,
@@ -99,12 +155,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 304561,
-      "num": 304561,
-      "word": "HR为啥问父母工作",
-      "onboard_time": 1679834850,
-      "rank": 17,
-      "category": "幽默,情感"
+      "raw_hot": 303488,
+      "num": 303488,
+      "word": "京剧的哇呀呀喂呀呀哇哈哈哈都啥意思",
+      "onboard_time": 1679875765,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 292864,
@@ -113,6 +169,22 @@
       "onboard_time": 1679841094,
       "rank": 6,
       "category": "情感"
+    },
+    {
+      "raw_hot": 291220,
+      "num": 291220,
+      "word": "村BA冠军争夺战因降雨推迟",
+      "onboard_time": 1679876846,
+      "rank": 12,
+      "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 289759,
+      "num": 289759,
+      "word": "高圆圆骑车",
+      "onboard_time": 1679875646,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 283582,
@@ -147,6 +219,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 265641,
+      "num": 265641,
+      "word": "村BA奖品太接地气了",
+      "onboard_time": 1679877987,
+      "rank": 15,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 257036,
       "num": 257036,
       "word": "杨幂微博之夜下班与刘诗诗热聊",
@@ -163,8 +243,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 226689,
-      "num": 226689,
+      "raw_hot": 227701,
+      "num": 227701,
       "word": "丫丫爬树了",
       "onboard_time": 1679833528,
       "rank": 14,
@@ -209,6 +289,22 @@
       "onboard_time": 1679837429,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206300,
+      "num": 206300,
+      "word": "范丞丞说为戏增重30斤的选择没错",
+      "onboard_time": 1679876246,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 205790,
+      "num": 205790,
+      "word": "罗布泊现水上雅丹奇景",
+      "onboard_time": 1679874503,
+      "rank": 21,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 205414,
@@ -260,11 +356,19 @@
     },
     {
       "raw_hot": 189898,
-      "num": 166733,
+      "num": 179815,
       "word": "乘客定位错怒吼辱骂网约车司机",
       "onboard_time": 1679846424,
       "rank": 35,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 178545,
+      "num": 178545,
+      "word": "女子在宠物诊所被烈犬撕咬胳膊",
+      "onboard_time": 1679848761,
+      "rank": 25,
+      "category": "社会负面"
     },
     {
       "raw_hot": 177053,
@@ -275,6 +379,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 169508,
+      "num": 169508,
+      "word": "春日里的凡人微光",
+      "onboard_time": 1679879306,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152819,
       "num": 152819,
       "word": "铃芽之旅",
@@ -283,12 +395,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 151375,
+      "num": 151375,
+      "word": "铃芽之旅为何能赢过超英大片",
+      "onboard_time": 1679858652,
+      "rank": 48,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 143694,
       "num": 143694,
       "word": "美术生又多了一个就业方向",
       "onboard_time": 1679827047,
       "rank": 30,
       "category": "幽默,教育"
+    },
+    {
+      "raw_hot": 142984,
+      "num": 142984,
+      "word": "论山东人说话有多省",
+      "onboard_time": 1679874382,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 141969,
@@ -307,14 +435,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 139744,
-      "num": 127210,
-      "word": "女子在宠物诊所被烈犬撕咬胳膊",
-      "onboard_time": 1679848761,
-      "rank": 25,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 138400,
       "num": 138400,
       "word": "孙俪看五哈泼水",
@@ -323,12 +443,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 138121,
+      "num": 138121,
+      "word": "C罗连场双响",
+      "onboard_time": 1679875346,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 137583,
+      "num": 137583,
+      "word": "不照镜子还以为自己是白狗",
+      "onboard_time": 1679844746,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 134788,
       "num": 134788,
       "word": "月亮图标",
       "onboard_time": 1679843069,
       "rank": 34,
       "category": "科技"
+    },
+    {
+      "raw_hot": 133798,
+      "num": 133798,
+      "word": "世界戏剧日",
+      "onboard_time": 1679880147,
+      "rank": 35,
+      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 130666,
@@ -355,20 +499,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 126376,
-      "num": 126376,
-      "word": "千万不要在夜里醒来看时间",
-      "onboard_time": 1679872941,
-      "rank": 25,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 111781,
       "num": 91031,
       "word": "吴宣仪也在热搜上看美女",
       "onboard_time": 1679833948,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 111484,
+      "num": 111484,
+      "word": "济南现猪鲤plus版",
+      "onboard_time": 1679879789,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 108649,
@@ -387,6 +531,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 106544,
+      "num": 106544,
+      "word": "微博之夜表情包",
+      "onboard_time": 1679880026,
+      "rank": 39,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 105674,
       "num": 92827,
       "word": "IVE先行曲MV预告视频",
@@ -403,12 +555,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 102751,
-      "num": 102751,
-      "word": "不照镜子还以为自己是白狗",
-      "onboard_time": 1679844746,
-      "rank": 48,
-      "category": "幽默"
+      "raw_hot": 103032,
+      "num": 1355899,
+      "word": "穿越花海赴一场春天的约会",
+      "onboard_time": 1679840731,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 102700,
+      "num": 102700,
+      "word": "卢森堡0比6葡萄牙",
+      "onboard_time": 1679873722,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 100994,
@@ -427,12 +587,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 95681,
-      "num": 95681,
-      "word": "铃芽之旅为何能赢过超英大片",
-      "onboard_time": 1679858652,
-      "rank": 48,
-      "category": "影视,动漫"
+      "raw_hot": 96729,
+      "num": 96729,
+      "word": "NCT道在廷出道预告",
+      "onboard_time": 1679877626,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 93544,
@@ -443,20 +603,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 91660,
-      "num": 91660,
-      "word": "山茶花和红玫瑰",
-      "onboard_time": 1679873301,
-      "rank": 37,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 89226,
       "num": 89226,
       "word": "当事人回应摆摊日入9000质疑",
       "onboard_time": 1679840431,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 88563,
+      "num": 88563,
+      "word": "湖人不敌公牛",
+      "onboard_time": 1679873842,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 85662,
@@ -489,14 +649,6 @@
       "onboard_time": 1679836587,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 70416,
-      "num": 572015,
-      "word": "穿越花海赴一场春天的约会",
-      "onboard_time": 1679840731,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 59144,
