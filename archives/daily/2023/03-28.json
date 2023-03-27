@@ -1,6 +1,6 @@
 {
   "startTime": 1679934149836,
-  "endTime": 1679949206568,
+  "endTime": 1679951758228,
   "band_list": [
     {
       "raw_hot": 1281772,
@@ -427,20 +427,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27242,
+      "num": 27242,
+      "word": "周笔畅回应转型",
+      "onboard_time": 1679947032,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 22491,
       "num": 22491,
       "word": "爱情而已符合你的预期吗",
       "onboard_time": 1679921429,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 17866,
-      "num": 17866,
-      "word": "周笔畅回应转型",
-      "onboard_time": 1679947032,
-      "rank": 33,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 12578,

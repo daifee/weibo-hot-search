@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679949206568,
+  "endTime": 1679951758228,
   "band_list": [
     {
       "raw_hot": 27113842,
@@ -55603,6 +55603,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 27242,
+      "num": 27242,
+      "word": "周笔畅回应转型",
+      "onboard_time": 1679947032,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 27042,
       "num": 42320,
       "word": "黑暗荣耀导演 校园暴力",
@@ -55713,14 +55721,6 @@
       "onboard_time": 1678213033,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 17866,
-      "num": 17866,
-      "word": "周笔畅回应转型",
-      "onboard_time": 1679947032,
-      "rank": 33,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 17767,
