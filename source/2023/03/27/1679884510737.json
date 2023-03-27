@@ -1,0 +1,410 @@
+{
+  "runTime": 1679884510737,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2074879,
+        "num": 2074879,
+        "word": "周一",
+        "onboard_time": 1679875406,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1573969,
+        "num": 1573969,
+        "word": "空姐注射玻尿酸打进血管险丧命",
+        "onboard_time": 1679878647,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26778,
+        "num": 1458603,
+        "word": "春日里的凡人微光",
+        "onboard_time": 1679879306,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1849000,
+        "num": 1436551,
+        "word": "尼格买提叫的是迪丽热巴全名",
+        "onboard_time": 1679883387,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1370262,
+        "num": 1370262,
+        "word": "韦神的数学题初二生给出标准答案",
+        "onboard_time": 1679880865,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 558647,
+        "num": 558647,
+        "word": "千万不要在夜里醒来看时间",
+        "onboard_time": 1679872941,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 513524,
+        "num": 513524,
+        "word": "女子高铁霸座骂乘务员臭打工的",
+        "onboard_time": 1679880747,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 529235,
+        "num": 509631,
+        "word": "刘亚仁前往警察厅接受调查",
+        "onboard_time": 1679881826,
+        "rank": 7,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 482370,
+        "num": 482370,
+        "word": "iOS17将添加新功能",
+        "onboard_time": 1679880986,
+        "rank": 8,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 378725,
+        "num": 378725,
+        "word": "男子被人冒用身份欠下8000万巨债",
+        "onboard_time": 1679883208,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 807491,
+        "num": 378114,
+        "word": "黄多多染金发",
+        "onboard_time": 1679883989,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 465178,
+        "num": 376866,
+        "word": "田曦薇撞脸史迪仔",
+        "onboard_time": 1679882668,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 374415,
+        "num": 374415,
+        "word": "四川省考",
+        "onboard_time": 1679883627,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325881,
+        "num": 325881,
+        "word": "山茶花和红玫瑰",
+        "onboard_time": 1679873301,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 256985,
+        "num": 256985,
+        "word": "微博之夜红毯视频",
+        "onboard_time": 1679839290,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 251030,
+        "num": 251030,
+        "word": "景区回应女子给猴子喂食被掌掴",
+        "onboard_time": 1679882728,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240765,
+        "num": 240765,
+        "word": "这件玉器3000年前就是古董了",
+        "onboard_time": 1679882308,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231403,
+        "num": 231403,
+        "word": "截图癖",
+        "onboard_time": 1679832448,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 230374,
+        "num": 230374,
+        "word": "蔡徐坤舞台挂帆布包为了装墨镜",
+        "onboard_time": 1679883690,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 220826,
+        "num": 220826,
+        "word": "96年父亲暴瘦40斤割肝救女",
+        "onboard_time": 1679844627,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209859,
+        "num": 209859,
+        "word": "刘亦菲肖战张若昀微博品质演员",
+        "onboard_time": 1679884169,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 208841,
+        "num": 208841,
+        "word": "苹果手表无创血糖监测最晚7年后推出",
+        "onboard_time": 1679883330,
+        "rank": 21,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 192864,
+        "num": 192864,
+        "word": "周深帮谭维维提裙摆",
+        "onboard_time": 1679881466,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 183825,
+        "num": 183825,
+        "word": "苹果向高管进行MR头显里程碑展示",
+        "onboard_time": 1679883269,
+        "rank": 23,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 172392,
+        "num": 172392,
+        "word": "小学生统领KPOP组合",
+        "onboard_time": 1679882128,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149937,
+        "num": 149937,
+        "word": "王铮亮苏醒张远了不起的我们MV",
+        "onboard_time": 1679883750,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 149295,
+        "num": 149295,
+        "word": "京剧的哇呀呀喂呀呀哇哈哈哈都啥意思",
+        "onboard_time": 1679875765,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142761,
+        "num": 142761,
+        "word": "林智妍模仿文东恩为妍珍鼓掌",
+        "onboard_time": 1679883568,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 140721,
+        "num": 140721,
+        "word": "韩红基金会十年前救助的小女孩长大了",
+        "onboard_time": 1679883627,
+        "rank": 28,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 134433,
+        "num": 134433,
+        "word": "以色列爆发大规模抗议",
+        "onboard_time": 1679884471,
+        "rank": 29,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 130959,
+        "num": 130959,
+        "word": "最强大脑闪电心算",
+        "onboard_time": 1679883690,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128744,
+        "num": 128744,
+        "word": "村BA冠军争夺战因降雨推迟",
+        "onboard_time": 1679876846,
+        "rank": 31,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 128465,
+        "num": 128465,
+        "word": "微博之夜表情包",
+        "onboard_time": 1679880026,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 127466,
+        "num": 127466,
+        "word": "为什么和最好的朋友互删了",
+        "onboard_time": 1679837788,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126244,
+        "num": 126244,
+        "word": "乡村入殓师16年为近百位逝者理发",
+        "onboard_time": 1679883269,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124993,
+        "num": 124993,
+        "word": "高圆圆骑车",
+        "onboard_time": 1679875646,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118746,
+        "num": 118746,
+        "word": "范丞丞说为戏增重30斤的选择没错",
+        "onboard_time": 1679876246,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 116886,
+        "num": 116886,
+        "word": "村BA奖品太接地气了",
+        "onboard_time": 1679877987,
+        "rank": 37,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 59359,
+        "num": 111351,
+        "word": "穿越花海赴一场春天的约会",
+        "onboard_time": 1679840731,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109087,
+        "num": 109087,
+        "word": "河道英不离开妍珍的理由",
+        "onboard_time": 1679847924,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 108229,
+        "num": 108229,
+        "word": "蓝盈莹说主持新人报道",
+        "onboard_time": 1679882968,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105420,
+        "num": 105420,
+        "word": "HR为啥问父母工作",
+        "onboard_time": 1679834850,
+        "rank": 41,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 103309,
+        "num": 103309,
+        "word": "丫丫爬树了",
+        "onboard_time": 1679833528,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93871,
+        "num": 93871,
+        "word": "夫妻摆摊日入9千网友质疑让查税",
+        "onboard_time": 1679827826,
+        "rank": 43,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 91257,
+        "num": 91257,
+        "word": "女子在宠物诊所被烈犬撕咬胳膊",
+        "onboard_time": 1679848761,
+        "rank": 44,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 83760,
+        "num": 83760,
+        "word": "C罗连场双响",
+        "onboard_time": 1679875346,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82942,
+        "num": 82942,
+        "word": "给大熊猫当铲屎官究竟有多难",
+        "onboard_time": 1679881588,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79883,
+        "num": 79883,
+        "word": "森林狼vs勇士",
+        "onboard_time": 1679880747,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79275,
+        "num": 79275,
+        "word": "甘肃将为兰州牛肉拉面立法",
+        "onboard_time": 1679884409,
+        "rank": 48,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 77124,
+        "num": 77124,
+        "word": "詹姆斯复出",
+        "onboard_time": 1679872159,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国和洪都拉斯建交#"
+    }
+  }
+}
