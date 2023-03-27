@@ -1,0 +1,410 @@
+{
+  "runTime": 1679890930770,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1929102,
+        "num": 1929102,
+        "word": "周一",
+        "onboard_time": 1679875406,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1057085,
+        "num": 1057085,
+        "word": "韦神的数学题初二生给出标准答案",
+        "onboard_time": 1679880865,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 45349,
+        "num": 931330,
+        "word": "春日里的凡人微光",
+        "onboard_time": 1679879306,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1142551,
+        "num": 923697,
+        "word": "虞书欣王鹤棣聊天口型",
+        "onboard_time": 1679887531,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 898223,
+        "num": 898223,
+        "word": "好丽友漏税22万被罚12万",
+        "onboard_time": 1679888431,
+        "rank": 4,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 763592,
+        "num": 763592,
+        "word": "坐飞机千万不要穿鲜艳的衣服",
+        "onboard_time": 1679887772,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 731209,
+        "num": 731209,
+        "word": "刘诗诗回应天选古代人",
+        "onboard_time": 1679887411,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 496956,
+        "num": 496956,
+        "word": "空姐注射玻尿酸打进血管险丧命",
+        "onboard_time": 1679878647,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 496881,
+        "num": 496881,
+        "word": "男子被人冒用身份欠下8000万巨债",
+        "onboard_time": 1679883208,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 568299,
+        "num": 494930,
+        "word": "刘宇宁想和毛不易合作一首大悲大喜",
+        "onboard_time": 1679889152,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 2131082,
+        "num": 485307,
+        "word": "黄多多染金发",
+        "onboard_time": 1679883989,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 553713,
+        "num": 471071,
+        "word": "以色列爆发大规模抗议",
+        "onboard_time": 1679884471,
+        "rank": 11,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 540493,
+        "num": 459357,
+        "word": "王嘉尔鸳鸯发色",
+        "onboard_time": 1679889212,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 455365,
+        "num": 455365,
+        "word": "苹果自动驾驶2个月16起车祸",
+        "onboard_time": 1679886690,
+        "rank": 13,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 411440,
+        "num": 411440,
+        "word": "警方通报男子酒后殴打强奸前女友",
+        "onboard_time": 1679887471,
+        "rank": 14,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 336104,
+        "num": 336104,
+        "word": "甘肃将为兰州牛肉拉面立法",
+        "onboard_time": 1679884409,
+        "rank": 15,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 323916,
+        "num": 323916,
+        "word": "田曦薇撞脸史迪仔",
+        "onboard_time": 1679882668,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 310350,
+        "num": 310350,
+        "word": "女生终点定错辱骂网约车司机",
+        "onboard_time": 1679886932,
+        "rank": 17,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 2186717,
+        "num": 293935,
+        "word": "男网红合成迪丽热巴视频被打",
+        "onboard_time": 1679887712,
+        "rank": 18,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 238967,
+        "num": 238967,
+        "word": "景区回应女子给猴子喂食被掌掴",
+        "onboard_time": 1679882728,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228994,
+        "num": 228994,
+        "word": "千万不要在夜里醒来看时间",
+        "onboard_time": 1679872941,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 225619,
+        "num": 225619,
+        "word": "iOS17将添加新功能",
+        "onboard_time": 1679880986,
+        "rank": 21,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 219652,
+        "num": 219652,
+        "word": "山茶花和红玫瑰",
+        "onboard_time": 1679873301,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 201748,
+        "num": 201748,
+        "word": "我的自然卷比天气预报还准",
+        "onboard_time": 1679886389,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 201588,
+        "num": 201588,
+        "word": "女子高铁霸座骂乘务员臭打工的",
+        "onboard_time": 1679880747,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195987,
+        "num": 195987,
+        "word": "久别重逢后突然就释怀了",
+        "onboard_time": 1679884770,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157953,
+        "num": 157953,
+        "word": "剑网3",
+        "onboard_time": 1679884828,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 157085,
+        "num": 157085,
+        "word": "这件玉器3000年前就是古董了",
+        "onboard_time": 1679882308,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148360,
+        "num": 148360,
+        "word": "留学生外国街头放汉服秀惊艳路人",
+        "onboard_time": 1679885851,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147414,
+        "num": 147414,
+        "word": "百度文心一言相关新品发布会取消",
+        "onboard_time": 1679889759,
+        "rank": 29,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 143573,
+        "num": 143573,
+        "word": "当导师收到我的论文初稿",
+        "onboard_time": 1679890540,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127659,
+        "num": 127659,
+        "word": "周深唱出铃芽之旅宿命感",
+        "onboard_time": 1679889273,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 126264,
+        "num": 126264,
+        "word": "微博之夜红毯视频",
+        "onboard_time": 1679839290,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 121213,
+        "num": 121213,
+        "word": "林智妍模仿文东恩为妍珍鼓掌",
+        "onboard_time": 1679883568,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 120872,
+        "num": 120872,
+        "word": "四川省考",
+        "onboard_time": 1679883627,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114282,
+        "num": 114282,
+        "word": "村BA冠军争夺战因降雨推迟",
+        "onboard_time": 1679876846,
+        "rank": 35,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 112852,
+        "num": 112852,
+        "word": "蔡徐坤舞台挂帆布包为了装墨镜",
+        "onboard_time": 1679883690,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 104778,
+        "num": 104778,
+        "word": "勇士不敌森林狼",
+        "onboard_time": 1679889876,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104103,
+        "num": 104103,
+        "word": "蓝盈莹说主持新人报道",
+        "onboard_time": 1679882968,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103658,
+        "num": 103658,
+        "word": "儿童眼球被戳伤交警狂飙护送就医",
+        "onboard_time": 1679886452,
+        "rank": 39,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 102792,
+        "num": 102792,
+        "word": "刘亚仁前往警察厅接受调查",
+        "onboard_time": 1679881826,
+        "rank": 40,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 102728,
+        "num": 102728,
+        "word": "最强大脑闪电心算",
+        "onboard_time": 1679883690,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101021,
+        "num": 101021,
+        "word": "96年父亲暴瘦40斤割肝救女",
+        "onboard_time": 1679844627,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96375,
+        "num": 96375,
+        "word": "车祸起火附近军人飞奔而来",
+        "onboard_time": 1679890177,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92981,
+        "num": 92981,
+        "word": "会射击的人玩打气球",
+        "onboard_time": 1679886867,
+        "rank": 44,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 92652,
+        "num": 92652,
+        "word": "刘若英杭州演唱会官宣",
+        "onboard_time": 1679889152,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 91850,
+        "num": 91850,
+        "word": "王铮亮苏醒张远了不起的我们MV",
+        "onboard_time": 1679883750,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 85192,
+        "num": 85192,
+        "word": "乡村入殓师16年为近百位逝者理发",
+        "onboard_time": 1679883269,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84271,
+        "num": 84271,
+        "word": "苹果手表无创血糖监测最晚7年后推出",
+        "onboard_time": 1679883330,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 81466,
+        "num": 81466,
+        "word": "用老鼠的视角沉浸式看猫",
+        "onboard_time": 1679890780,
+        "rank": 49,
+        "category": "幽默,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国新发展要为世界经济增春色#"
+    }
+  }
+}
