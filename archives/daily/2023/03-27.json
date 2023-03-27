@@ -1,9 +1,9 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1679913344525,
+  "endTime": 1679915742494,
   "band_list": [
     {
-      "raw_hot": 3633720,
+      "raw_hot": 4718675,
       "num": 1009624,
       "word": "黄磊孙莉回应多多争议",
       "onboard_time": 1679912791,
@@ -115,6 +115,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1634908,
+      "num": 603737,
+      "word": "刘亦菲的社交圈",
+      "onboard_time": 1679914652,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1454591,
       "num": 493211,
       "word": "林永健儿子12岁近照",
@@ -169,6 +177,14 @@
       "onboard_time": 1679905051,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1095991,
+      "num": 351430,
+      "word": "王者荣耀进不去",
+      "onboard_time": 1679913628,
+      "rank": 10,
+      "category": "游戏"
     },
     {
       "raw_hot": 1073849,
@@ -291,12 +307,20 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 794007,
+      "raw_hot": 803715,
       "num": 794007,
       "word": "女子吃自助餐将店内甲鱼煮食",
       "onboard_time": 1679910150,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 776632,
+      "num": 776632,
+      "word": "浪姐",
+      "onboard_time": 1679915313,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 758059,
@@ -368,6 +392,14 @@
       "word": "山茶花和红玫瑰",
       "onboard_time": 1679873301,
       "rank": 37,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 598451,
+      "num": 598451,
+      "word": "王心凌最受不了别人叫她不要熬夜",
+      "onboard_time": 1679913211,
+      "rank": 7,
       "category": "作品衍生"
     },
     {
@@ -475,6 +507,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 482743,
+      "num": 482743,
+      "word": "张杰官宣演唱会周六见面",
+      "onboard_time": 1679914951,
+      "rank": 6,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 469921,
       "num": 469921,
       "word": "甘肃将为兰州牛肉拉面立法",
@@ -491,20 +531,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 462494,
+      "num": 349595,
+      "word": "肖战跟杨紫周深打招呼",
+      "onboard_time": 1679912909,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 455365,
       "num": 455365,
       "word": "苹果自动驾驶2个月16起车祸",
       "onboard_time": 1679886690,
       "rank": 20,
       "category": "科技"
-    },
-    {
-      "raw_hot": 448670,
-      "num": 448670,
-      "word": "王心凌最受不了别人叫她不要熬夜",
-      "onboard_time": 1679913211,
-      "rank": 7,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 447772,
@@ -603,6 +643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 353178,
+      "num": 353178,
+      "word": "结婚要车要房要彩礼有错吗",
+      "onboard_time": 1679913931,
+      "rank": 7,
+      "category": "情感"
+    },
+    {
       "raw_hot": 343287,
       "num": 343287,
       "word": "电视剧品质盛典官宣",
@@ -691,6 +739,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 303921,
+      "num": 303921,
+      "word": "梁朝伟获威尼斯电影节终身成就奖",
+      "onboard_time": 1679914531,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 303488,
       "num": 303488,
       "word": "京剧的哇呀呀喂呀呀哇哈哈哈都啥意思",
@@ -753,6 +809,14 @@
       "onboard_time": 1679837788,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 279577,
+      "num": 279577,
+      "word": "曾可妮浪姐出发路透",
+      "onboard_time": 1679914531,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 279111,
@@ -907,14 +971,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 224143,
-      "num": 224143,
-      "word": "肖战跟杨紫周深打招呼",
-      "onboard_time": 1679912909,
-      "rank": 26,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 223742,
       "num": 223742,
       "word": "看得出来他真的很困",
@@ -1003,6 +1059,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 206185,
+      "num": 206185,
+      "word": "蔡徐坤出发欧洲",
+      "onboard_time": 1679915729,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 205790,
       "num": 205790,
       "word": "罗布泊现水上雅丹奇景",
@@ -1041,6 +1105,14 @@
       "onboard_time": 1679833168,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 199856,
+      "num": 199856,
+      "word": "他是谁",
+      "onboard_time": 1679914590,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 198472,
@@ -1379,6 +1451,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 145674,
+      "num": 145674,
+      "word": "杨颖给邓超拍了什么照片",
+      "onboard_time": 1679915729,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 143694,
       "num": 143694,
       "word": "美术生又多了一个就业方向",
@@ -1465,6 +1545,14 @@
       "onboard_time": 1679880147,
       "rank": 35,
       "category": "社会新闻,影视"
+    },
+    {
+      "raw_hot": 131998,
+      "num": 131998,
+      "word": "不用上班的笑容是藏不住的",
+      "onboard_time": 1679914108,
+      "rank": 41,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 131682,
@@ -1625,6 +1713,14 @@
       "onboard_time": 1679818286,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 106273,
+      "num": 106273,
+      "word": "大熊猫视角没边界感的你",
+      "onboard_time": 1679915189,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 105674,
