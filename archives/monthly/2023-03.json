@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679880213244,
+  "endTime": 1679881640920,
   "band_list": [
     {
       "raw_hot": 27113842,
@@ -1315,6 +1315,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 2146409,
+      "num": 2146409,
+      "word": "空姐注射玻尿酸打进血管险丧命",
+      "onboard_time": 1679878647,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2143333,
       "num": 2143333,
       "word": "这才是吸毒前后真实的面容变化",
@@ -2257,14 +2265,6 @@
       "onboard_time": 1678612527,
       "rank": 28,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1699522,
-      "num": 1699522,
-      "word": "空姐注射玻尿酸打进血管险丧命",
-      "onboard_time": 1679878647,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1699156,
@@ -5235,6 +5235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1115099,
+      "num": 1115099,
+      "word": "周一",
+      "onboard_time": 1679275047,
+      "rank": 7,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1114393,
       "num": 1114393,
       "word": "9岁男孩感染甲流后住进ICU",
@@ -5497,6 +5505,14 @@
       "onboard_time": 1678765106,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1073849,
+      "num": 1073849,
+      "word": "迪丽热巴对邓超说好久不见",
+      "onboard_time": 1679878824,
+      "rank": 3,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1073134,
@@ -6145,14 +6161,6 @@
       "onboard_time": 1679638768,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1019607,
-      "num": 1019607,
-      "word": "迪丽热巴对邓超说好久不见",
-      "onboard_time": 1679878824,
-      "rank": 3,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1019526,
@@ -9145,14 +9153,6 @@
       "onboard_time": 1678592067,
       "rank": 1,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 795699,
-      "num": 795699,
-      "word": "周一",
-      "onboard_time": 1679275047,
-      "rank": 7,
-      "category": "情感"
     },
     {
       "raw_hot": 795138,
@@ -13513,6 +13513,14 @@
       "onboard_time": 1678425931,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 598856,
+      "num": 598856,
+      "word": "韦神的数学题初二生给出标准答案",
+      "onboard_time": 1679880865,
+      "rank": 5,
+      "category": "教育"
     },
     {
       "raw_hot": 598789,
@@ -24907,6 +24915,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 330356,
+      "num": 330356,
+      "word": "李现和张若昀说悄悄话",
+      "onboard_time": 1679877446,
+      "rank": 8,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 330261,
       "num": 330261,
       "word": "第一次见这么细节的演技",
@@ -25041,14 +25057,6 @@
       "onboard_time": 1678414948,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 328562,
-      "num": 328562,
-      "word": "李现和张若昀说悄悄话",
-      "onboard_time": 1679877446,
-      "rank": 8,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 328204,
@@ -28593,6 +28601,14 @@
       "onboard_time": 1677761009,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 276533,
+      "num": 276533,
+      "word": "女子高铁霸座骂乘务员臭打工的",
+      "onboard_time": 1679880747,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 276493,
@@ -34723,6 +34739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 210834,
+      "num": 210834,
+      "word": "范丞丞说为戏增重30斤的选择没错",
+      "onboard_time": 1679876246,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 210833,
       "num": 210833,
       "word": "BoysPlanet二公竞演",
@@ -34833,6 +34857,14 @@
       "onboard_time": 1678860568,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 210077,
+      "num": 210077,
+      "word": "iOS17将添加新功能",
+      "onboard_time": 1679880986,
+      "rank": 19,
+      "category": "科技"
     },
     {
       "raw_hot": 209981,
@@ -35449,14 +35481,6 @@
       "onboard_time": 1678935203,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 206300,
-      "num": 206300,
-      "word": "范丞丞说为戏增重30斤的选择没错",
-      "onboard_time": 1679876246,
-      "rank": 19,
-      "category": "影视"
     },
     {
       "raw_hot": 206244,
@@ -40963,6 +40987,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 178041,
+      "num": 163667,
+      "word": "微博之夜表情包",
+      "onboard_time": 1679880026,
+      "rank": 39,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 177984,
       "num": 177984,
       "word": "陈都灵云之羽蓝衣",
@@ -43128,6 +43160,14 @@
       "word": "奇瑞汽车涉近30起劳动纠纷案件",
       "onboard_time": 1678180287,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161537,
+      "num": 161537,
+      "word": "学生合唱一开口就是青春的模样",
+      "onboard_time": 1679880986,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -48531,6 +48571,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 121433,
+      "num": 121433,
+      "word": "济南现猪鲤plus版",
+      "onboard_time": 1679879789,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121379,
       "num": 121379,
       "word": "KPL春季赛第四周最佳阵容",
@@ -49547,14 +49595,6 @@
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 111484,
-      "num": 111484,
-      "word": "济南现猪鲤plus版",
-      "onboard_time": 1679879789,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 111437,
       "num": 111437,
       "word": "不要随便夸重庆司机",
@@ -49825,6 +49865,14 @@
       "onboard_time": 1678068986,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 108921,
+      "num": 108921,
+      "word": "森林狼vs勇士",
+      "onboard_time": 1679880747,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 108877,
@@ -50145,14 +50193,6 @@
       "onboard_time": 1677933206,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 106544,
-      "num": 106544,
-      "word": "微博之夜表情包",
-      "onboard_time": 1679880026,
-      "rank": 39,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 106511,
@@ -51115,20 +51155,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96791,
+      "num": 96791,
+      "word": "NCT道在廷出道预告",
+      "onboard_time": 1679877626,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 96767,
       "num": 96767,
       "word": "星糖主打一个全糖",
       "onboard_time": 1678190249,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 96729,
-      "num": 96729,
-      "word": "NCT道在廷出道预告",
-      "onboard_time": 1679877626,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 96683,
@@ -51385,6 +51425,14 @@
       "onboard_time": 1679711126,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 92364,
+      "num": 92364,
+      "word": "周深帮谭维维提裙摆",
+      "onboard_time": 1679881466,
+      "rank": 44,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 92328,
@@ -52137,6 +52185,14 @@
       "onboard_time": 1677900746,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 79970,
+      "num": 79970,
+      "word": "给大熊猫当铲屎官究竟有多难",
+      "onboard_time": 1679881588,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 79928,

@@ -1,7 +1,15 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1679880213244,
+  "endTime": 1679881640920,
   "band_list": [
+    {
+      "raw_hot": 2146409,
+      "num": 2146409,
+      "word": "空姐注射玻尿酸打进血管险丧命",
+      "onboard_time": 1679878647,
+      "rank": 1,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1943497,
       "num": 1943497,
@@ -9,14 +17,6 @@
       "onboard_time": 1679872941,
       "rank": 25,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1699522,
-      "num": 1699522,
-      "word": "空姐注射玻尿酸打进血管险丧命",
-      "onboard_time": 1679878647,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1254355,
@@ -27,8 +27,16 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1019607,
-      "num": 1019607,
+      "raw_hot": 1115099,
+      "num": 1115099,
+      "word": "周一",
+      "onboard_time": 1679875406,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 1073849,
+      "num": 1073849,
       "word": "迪丽热巴对邓超说好久不见",
       "onboard_time": 1679878824,
       "rank": 3,
@@ -51,20 +59,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 795699,
-      "num": 795699,
-      "word": "周一",
-      "onboard_time": 1679875406,
-      "rank": 4,
-      "category": "情感"
-    },
-    {
       "raw_hot": 605109,
       "num": 605109,
       "word": "山茶花和红玫瑰",
       "onboard_time": 1679873301,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 598856,
+      "num": 598856,
+      "word": "韦神的数学题初二生给出标准答案",
+      "onboard_time": 1679880865,
+      "rank": 5,
+      "category": "教育"
     },
     {
       "raw_hot": 594041,
@@ -123,8 +131,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 328562,
-      "num": 328562,
+      "raw_hot": 330356,
+      "num": 330356,
       "word": "李现和张若昀说悄悄话",
       "onboard_time": 1679877446,
       "rank": 8,
@@ -211,6 +219,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 276533,
+      "num": 276533,
+      "word": "女子高铁霸座骂乘务员臭打工的",
+      "onboard_time": 1679880747,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 271732,
       "num": 271732,
       "word": "林俊杰蔡卓妍合唱我很想爱他",
@@ -291,12 +307,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 206300,
-      "num": 206300,
+      "raw_hot": 210834,
+      "num": 210834,
       "word": "范丞丞说为戏增重30斤的选择没错",
       "onboard_time": 1679876246,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 210077,
+      "num": 210077,
+      "word": "iOS17将添加新功能",
+      "onboard_time": 1679880986,
+      "rank": 19,
+      "category": "科技"
     },
     {
       "raw_hot": 205790,
@@ -371,6 +395,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 178041,
+      "num": 163667,
+      "word": "微博之夜表情包",
+      "onboard_time": 1679880026,
+      "rank": 39,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 177053,
       "num": 177053,
       "word": "祝绪丹穿公主裙走秀",
@@ -383,6 +415,14 @@
       "num": 169508,
       "word": "春日里的凡人微光",
       "onboard_time": 1679879306,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161537,
+      "num": 161537,
+      "word": "学生合唱一开口就是青春的模样",
+      "onboard_time": 1679880986,
       "rank": 26,
       "category": "社会新闻"
     },
@@ -499,6 +539,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 121433,
+      "num": 121433,
+      "word": "济南现猪鲤plus版",
+      "onboard_time": 1679879789,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 111781,
       "num": 91031,
       "word": "吴宣仪也在热搜上看美女",
@@ -507,12 +555,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 111484,
-      "num": 111484,
-      "word": "济南现猪鲤plus版",
-      "onboard_time": 1679879789,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 108921,
+      "num": 108921,
+      "word": "森林狼vs勇士",
+      "onboard_time": 1679880747,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 108649,
@@ -529,14 +577,6 @@
       "onboard_time": 1679818286,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 106544,
-      "num": 106544,
-      "word": "微博之夜表情包",
-      "onboard_time": 1679880026,
-      "rank": 39,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 105674,
@@ -587,8 +627,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 96729,
-      "num": 96729,
+      "raw_hot": 96791,
+      "num": 96791,
       "word": "NCT道在廷出道预告",
       "onboard_time": 1679877626,
       "rank": 46,
@@ -601,6 +641,14 @@
       "onboard_time": 1679841270,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 92364,
+      "num": 92364,
+      "word": "周深帮谭维维提裙摆",
+      "onboard_time": 1679881466,
+      "rank": 44,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 89226,
@@ -633,6 +681,14 @@
       "onboard_time": 1679755628,
       "rank": 48,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 79970,
+      "num": 79970,
+      "word": "给大熊猫当铲屎官究竟有多难",
+      "onboard_time": 1679881588,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 78356,
