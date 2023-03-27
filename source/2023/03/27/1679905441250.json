@@ -1,0 +1,410 @@
+{
+  "runTime": 1679905441250,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1904271,
+        "num": 1904271,
+        "word": "教育局回应网传徐汇中学事件",
+        "onboard_time": 1679900669,
+        "rank": 0,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 680531,
+        "num": 680531,
+        "word": "苏醒加好友备注主打写实",
+        "onboard_time": 1679896412,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26311,
+        "num": 619643,
+        "word": "春日里的凡人微光",
+        "onboard_time": 1679879306,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1201353,
+        "num": 617061,
+        "word": "刘亦菲胡歌拿错对方奖杯",
+        "onboard_time": 1679896533,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 997043,
+        "num": 616022,
+        "word": "黑马情侣",
+        "onboard_time": 1679899712,
+        "rank": 4,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 613068,
+        "num": 613068,
+        "word": "不止瘦女孩能外穿瑜伽裤",
+        "onboard_time": 1679900553,
+        "rank": 5,
+        "category": "体育,情感"
+      },
+      {
+        "raw_hot": 590731,
+        "num": 590731,
+        "word": "虞书欣说小兰花让观众更爱她了",
+        "onboard_time": 1679903912,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 559275,
+        "num": 559275,
+        "word": "日媒曝在北京被捕日本男子身份",
+        "onboard_time": 1679892700,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 493845,
+        "num": 493845,
+        "word": "坐飞机千万不要穿鲜艳的衣服",
+        "onboard_time": 1679887772,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 493501,
+        "num": 493501,
+        "word": "花花登上纽约时代广场大屏",
+        "onboard_time": 1679899830,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1336705,
+        "num": 493211,
+        "word": "林永健儿子12岁近照",
+        "onboard_time": 1679902411,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 711464,
+        "num": 489154,
+        "word": "孙坚晒约唐嫣喝咖啡vlog",
+        "onboard_time": 1679903790,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 638049,
+        "num": 485951,
+        "word": "张一山最近营业照",
+        "onboard_time": 1679904751,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1586977,
+        "num": 483250,
+        "word": "马云已回国",
+        "onboard_time": 1679896593,
+        "rank": 13,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 538056,
+        "num": 480685,
+        "word": "黄多多染金发",
+        "onboard_time": 1679883989,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 478982,
+        "num": 478982,
+        "word": "长沙起火",
+        "onboard_time": 1679902651,
+        "rank": 15,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 447772,
+        "num": 447772,
+        "word": "白鹿录完奔跑吧就进组",
+        "onboard_time": 1679902830,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 446861,
+        "num": 446861,
+        "word": "教育局称徐汇中学无男浴室",
+        "onboard_time": 1679903191,
+        "rank": 17,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 417844,
+        "num": 417844,
+        "word": "杜华不敢删好友怕被截图",
+        "onboard_time": 1679895574,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 398808,
+        "num": 398808,
+        "word": "肖战杨紫互相谦让",
+        "onboard_time": 1679902411,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 330943,
+        "num": 330943,
+        "word": "男子凌晨发现一女孩赤脚睡在楼梯间",
+        "onboard_time": 1679894256,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254012,
+        "num": 254012,
+        "word": "保安已经当得不想离职了",
+        "onboard_time": 1679891199,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 272111,
+        "num": 253526,
+        "word": "关晓彤追狂飙被全网剧透",
+        "onboard_time": 1679895991,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 252700,
+        "num": 252700,
+        "word": "孙颖莎说要和王楚钦争取好成绩",
+        "onboard_time": 1679902951,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197544,
+        "num": 197544,
+        "word": "长公主影视化",
+        "onboard_time": 1679905051,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 190362,
+        "num": 190362,
+        "word": "长沙一大楼起火多人翻窗爬绳索逃生",
+        "onboard_time": 1679904575,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185303,
+        "num": 185303,
+        "word": "男子放巨型风筝反被带上天",
+        "onboard_time": 1679896472,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176752,
+        "num": 176752,
+        "word": "普京称全球北约类似二战时建立的轴心国",
+        "onboard_time": 1679897252,
+        "rank": 27,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 161680,
+        "num": 161680,
+        "word": "果然看帅哥真的会变漂亮",
+        "onboard_time": 1679895272,
+        "rank": 28,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 152879,
+        "num": 152879,
+        "word": "Scout获得周MVP",
+        "onboard_time": 1679904751,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 266766,
+        "num": 152640,
+        "word": "男网红合成迪丽热巴视频被打",
+        "onboard_time": 1679887712,
+        "rank": 30,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 149304,
+        "num": 149304,
+        "word": "连狗子都知道要远离前任",
+        "onboard_time": 1679901390,
+        "rank": 31,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 146360,
+        "num": 146360,
+        "word": "小狗嘴里有好多小手套",
+        "onboard_time": 1679895215,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131682,
+        "num": 131682,
+        "word": "张凌赫说为了剧好还是别找他唱OST",
+        "onboard_time": 1679903790,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 124348,
+        "num": 124348,
+        "word": "你抗拒上班到什么地步",
+        "onboard_time": 1679899349,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122079,
+        "num": 122079,
+        "word": "广州报名骨灰撒海市民逐年增多",
+        "onboard_time": 1679893418,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121664,
+        "num": 121664,
+        "word": "猫猫是懂减功德的",
+        "onboard_time": 1679897192,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121324,
+        "num": 121324,
+        "word": "吴磊爱情而已素颜出镜",
+        "onboard_time": 1679893836,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 118103,
+        "num": 118103,
+        "word": "张颂文种的榆叶梅",
+        "onboard_time": 1679901871,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116578,
+        "num": 116578,
+        "word": "好丽友漏税22万被罚12万",
+        "onboard_time": 1679888431,
+        "rank": 39,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 115519,
+        "num": 115519,
+        "word": "王嘉尔鸳鸯发色",
+        "onboard_time": 1679889212,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 110299,
+        "num": 110299,
+        "word": "芬兰人的不幸福",
+        "onboard_time": 1679892521,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 108825,
+        "num": 108825,
+        "word": "电视剧品质盛典官宣",
+        "onboard_time": 1679896653,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 98324,
+        "num": 98324,
+        "word": "村BA总冠军诞生",
+        "onboard_time": 1679905293,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97969,
+        "num": 97969,
+        "word": "井柏然说吻戏再拍一条是另外的价钱",
+        "onboard_time": 1679905231,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 97175,
+        "num": 97175,
+        "word": "搭子是一种新型的社交关系",
+        "onboard_time": 1679900069,
+        "rank": 45,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 92466,
+        "num": 92466,
+        "word": "原来还能这么买免费高铁票",
+        "onboard_time": 1679905051,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 82040,
+        "num": 82040,
+        "word": "警方通报男子酒后殴打强奸前女友",
+        "onboard_time": 1679887471,
+        "rank": 47,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 81301,
+        "num": 81301,
+        "word": "男子被人冒用身份欠下8000万巨债",
+        "onboard_time": 1679883208,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76677,
+        "num": 76677,
+        "word": "花朵的6种画法",
+        "onboard_time": 1679905411,
+        "rank": 49,
+        "category": "社会新闻,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国新发展要为世界经济增春色#"
+    }
+  }
+}
