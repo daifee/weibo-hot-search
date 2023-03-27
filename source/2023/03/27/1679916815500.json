@@ -1,0 +1,410 @@
+{
+  "runTime": 1679916815500,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1310380,
+        "num": 1310380,
+        "word": "浪姐",
+        "onboard_time": 1679915313,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1117490,
+        "num": 1117490,
+        "word": "淮安未满14岁怀孕医院将强制报告",
+        "onboard_time": 1679907029,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 9320,
+        "num": 779006,
+        "word": "春日里的凡人微光",
+        "onboard_time": 1679879306,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1586638,
+        "num": 755652,
+        "word": "刘亦菲的社交圈",
+        "onboard_time": 1679914652,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 711595,
+        "num": 711595,
+        "word": "女子吃自助餐将店内甲鱼煮食",
+        "onboard_time": 1679910150,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 623610,
+        "num": 623610,
+        "word": "结婚要车要房要彩礼有错吗",
+        "onboard_time": 1679913931,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 610901,
+        "num": 610901,
+        "word": "陈梦0比3输给蒯曼",
+        "onboard_time": 1679915789,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 481536,
+        "num": 481536,
+        "word": "张杰官宣演唱会周六见面",
+        "onboard_time": 1679914951,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 470686,
+        "num": 470686,
+        "word": "肖战跟杨紫周深打招呼",
+        "onboard_time": 1679912909,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 435933,
+        "num": 435933,
+        "word": "王心凌最受不了别人叫她不要熬夜",
+        "onboard_time": 1679913211,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 3793358,
+        "num": 433953,
+        "word": "黄磊孙莉回应多多争议",
+        "onboard_time": 1679912791,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 764217,
+        "num": 424915,
+        "word": "男子合成迪丽热巴视频是否属于性骚扰",
+        "onboard_time": 1679910267,
+        "rank": 11,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 536824,
+        "num": 422587,
+        "word": "张元英高马尾",
+        "onboard_time": 1679911350,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 507863,
+        "num": 417394,
+        "word": "王者荣耀进不去",
+        "onboard_time": 1679913628,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 485993,
+        "num": 408591,
+        "word": "王者荣耀",
+        "onboard_time": 1679912489,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 456437,
+        "num": 404427,
+        "word": "教育局回应网传徐汇中学事件",
+        "onboard_time": 1679900669,
+        "rank": 15,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 402825,
+        "num": 402825,
+        "word": "杨颖给邓超拍了什么照片",
+        "onboard_time": 1679915729,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 355955,
+        "num": 355955,
+        "word": "秋瓷炫出发录制浪姐4",
+        "onboard_time": 1679916271,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 337109,
+        "num": 337109,
+        "word": "林永健儿子12岁近照",
+        "onboard_time": 1679902411,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 328287,
+        "num": 328287,
+        "word": "教育局称徐汇中学无男浴室",
+        "onboard_time": 1679903191,
+        "rank": 19,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 605791,
+        "num": 298094,
+        "word": "马云已回国",
+        "onboard_time": 1679896593,
+        "rank": 20,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 333085,
+        "num": 295153,
+        "word": "梁朝伟获威尼斯电影节终身成就奖",
+        "onboard_time": 1679914531,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 265313,
+        "num": 265313,
+        "word": "长公主影视化",
+        "onboard_time": 1679905051,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 265091,
+        "num": 265091,
+        "word": "黑马情侣",
+        "onboard_time": 1679899712,
+        "rank": 23,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 254917,
+        "num": 254917,
+        "word": "蔡徐坤出发欧洲",
+        "onboard_time": 1679915729,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 246286,
+        "num": 246286,
+        "word": "真实的缅北到底什么样子",
+        "onboard_time": 1679915850,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228972,
+        "num": 228972,
+        "word": "孙坚晒约唐嫣喝咖啡vlog",
+        "onboard_time": 1679903790,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226238,
+        "num": 226238,
+        "word": "曾可妮浪姐出发路透",
+        "onboard_time": 1679914531,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199143,
+        "num": 199143,
+        "word": "千万别让这个医学生毕业",
+        "onboard_time": 1679909069,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 195777,
+        "num": 195777,
+        "word": "Rookie看饭堂开团仁川人",
+        "onboard_time": 1679909909,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 218042,
+        "num": 189926,
+        "word": "谢娜或将以选手身份参加浪姐",
+        "onboard_time": 1679916571,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183911,
+        "num": 183911,
+        "word": "他是谁",
+        "onboard_time": 1679914590,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176344,
+        "num": 176344,
+        "word": "IVE先行曲MV上线",
+        "onboard_time": 1679908294,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 169855,
+        "num": 169855,
+        "word": "不止瘦女孩能外穿瑜伽裤",
+        "onboard_time": 1679900553,
+        "rank": 33,
+        "category": "体育,情感"
+      },
+      {
+        "raw_hot": 162493,
+        "num": 162493,
+        "word": "谷爱凌说只和自己卷",
+        "onboard_time": 1679912189,
+        "rank": 34,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 154440,
+        "num": 154440,
+        "word": "檀健次莫文蔚16年后再同框",
+        "onboard_time": 1679911530,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151263,
+        "num": 151263,
+        "word": "原来这才是减脂天花板",
+        "onboard_time": 1679909250,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144927,
+        "num": 144927,
+        "word": "网传2023星光大赏名单",
+        "onboard_time": 1679909729,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 137970,
+        "num": 137970,
+        "word": "花花登上纽约时代广场大屏",
+        "onboard_time": 1679899830,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135302,
+        "num": 135302,
+        "word": "原来还能这么买免费高铁票",
+        "onboard_time": 1679905051,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 140529,
+        "num": 135075,
+        "word": "杨洋浅绿色西装",
+        "onboard_time": 1679909789,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 134493,
+        "num": 134493,
+        "word": "男子凌晨发现一女孩赤脚睡在楼梯间",
+        "onboard_time": 1679894256,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132683,
+        "num": 132683,
+        "word": "杨超越cos玉兔",
+        "onboard_time": 1679915971,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127466,
+        "num": 127466,
+        "word": "虞书欣说小兰花让观众更爱她了",
+        "onboard_time": 1679903912,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 120038,
+        "num": 120038,
+        "word": "不用上班的笑容是藏不住的",
+        "onboard_time": 1679914108,
+        "rank": 44,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 119469,
+        "num": 119469,
+        "word": "张一山最近营业照",
+        "onboard_time": 1679904751,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117738,
+        "num": 117738,
+        "word": "这个求婚我真的能记一辈子",
+        "onboard_time": 1679907391,
+        "rank": 46,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 114217,
+        "num": 114217,
+        "word": "喜欢小狗的有福了",
+        "onboard_time": 1679916210,
+        "rank": 47,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 104718,
+        "num": 104718,
+        "word": "鸡让广东人吃明白了",
+        "onboard_time": 1679908769,
+        "rank": 48,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 100506,
+        "num": 100506,
+        "word": "恋爱的神惩罚每个嘴硬的人",
+        "onboard_time": 1679916751,
+        "rank": 49,
+        "category": "情感,幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#命运与共里的总书记用典#"
+    }
+  }
+}

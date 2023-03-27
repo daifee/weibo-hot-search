@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1679915742494,
+  "endTime": 1679916815500,
   "band_list": [
     {
       "raw_hot": 4718675,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 1634908,
-      "num": 603737,
+      "num": 755652,
       "word": "刘亦菲的社交圈",
       "onboard_time": 1679914652,
       "rank": 3,
@@ -155,6 +155,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1310380,
+      "num": 1310380,
+      "word": "浪姐",
+      "onboard_time": 1679915313,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1254355,
       "num": 588678,
       "word": "截图癖",
@@ -180,7 +188,7 @@
     },
     {
       "raw_hot": 1095991,
-      "num": 351430,
+      "num": 417394,
       "word": "王者荣耀进不去",
       "onboard_time": 1679913628,
       "rank": 10,
@@ -260,7 +268,7 @@
     },
     {
       "raw_hot": 893122,
-      "num": 373765,
+      "num": 422587,
       "word": "张元英高马尾",
       "onboard_time": 1679911350,
       "rank": 10,
@@ -313,14 +321,6 @@
       "onboard_time": 1679910150,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 776632,
-      "num": 776632,
-      "word": "浪姐",
-      "onboard_time": 1679915313,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 758059,
@@ -379,12 +379,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 623610,
+      "num": 623610,
+      "word": "结婚要车要房要彩礼有错吗",
+      "onboard_time": 1679913931,
+      "rank": 7,
+      "category": "情感"
+    },
+    {
       "raw_hot": 613068,
       "num": 613068,
       "word": "不止瘦女孩能外穿瑜伽裤",
       "onboard_time": 1679900553,
       "rank": 19,
       "category": "体育,情感"
+    },
+    {
+      "raw_hot": 610901,
+      "num": 610901,
+      "word": "陈梦0比3输给蒯曼",
+      "onboard_time": 1679915789,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 605109,
@@ -515,6 +531,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 470686,
+      "num": 470686,
+      "word": "肖战跟杨紫周深打招呼",
+      "onboard_time": 1679912909,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 469921,
       "num": 469921,
       "word": "甘肃将为兰州牛肉拉面立法",
@@ -529,14 +553,6 @@
       "onboard_time": 1679882668,
       "rank": 11,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 462494,
-      "num": 349595,
-      "word": "肖战跟杨紫周深打招呼",
-      "onboard_time": 1679912909,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 455365,
@@ -585,6 +601,14 @@
       "onboard_time": 1679893418,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 402825,
+      "num": 402825,
+      "word": "杨颖给邓超拍了什么照片",
+      "onboard_time": 1679915729,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 398808,
@@ -643,12 +667,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 353178,
-      "num": 353178,
-      "word": "结婚要车要房要彩礼有错吗",
-      "onboard_time": 1679913931,
-      "rank": 7,
-      "category": "情感"
+      "raw_hot": 355955,
+      "num": 355955,
+      "word": "秋瓷炫出发录制浪姐4",
+      "onboard_time": 1679916271,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 343287,
@@ -657,6 +681,14 @@
       "onboard_time": 1679896653,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 333085,
+      "num": 303921,
+      "word": "梁朝伟获威尼斯电影节终身成就奖",
+      "onboard_time": 1679914531,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 330621,
@@ -737,14 +769,6 @@
       "onboard_time": 1679839769,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 303921,
-      "num": 303921,
-      "word": "梁朝伟获威尼斯电影节终身成就奖",
-      "onboard_time": 1679914531,
-      "rank": 19,
-      "category": "影视"
     },
     {
       "raw_hot": 303488,
@@ -891,6 +915,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 254917,
+      "num": 254917,
+      "word": "蔡徐坤出发欧洲",
+      "onboard_time": 1679915729,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 254671,
       "num": 254671,
       "word": "这个求婚我真的能记一辈子",
@@ -913,6 +945,14 @@
       "onboard_time": 1679908769,
       "rank": 30,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 246286,
+      "num": 246286,
+      "word": "真实的缅北到底什么样子",
+      "onboard_time": 1679915850,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 244188,
@@ -995,6 +1035,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 218042,
+      "num": 189926,
+      "word": "谢娜或将以选手身份参加浪姐",
+      "onboard_time": 1679916571,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 217207,
       "num": 217207,
       "word": "我的自然卷比天气预报还准",
@@ -1057,14 +1105,6 @@
       "onboard_time": 1679894256,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 206185,
-      "num": 206185,
-      "word": "蔡徐坤出发欧洲",
-      "onboard_time": 1679915729,
-      "rank": 27,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 205790,
@@ -1451,14 +1491,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 145674,
-      "num": 145674,
-      "word": "杨颖给邓超拍了什么照片",
-      "onboard_time": 1679915729,
-      "rank": 38,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 143694,
       "num": 143694,
       "word": "美术生又多了一个就业方向",
@@ -1545,6 +1577,14 @@
       "onboard_time": 1679880147,
       "rank": 35,
       "category": "社会新闻,影视"
+    },
+    {
+      "raw_hot": 132683,
+      "num": 132683,
+      "word": "杨超越cos玉兔",
+      "onboard_time": 1679915971,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 131998,
@@ -1657,6 +1697,14 @@
       "onboard_time": 1679908531,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 114217,
+      "num": 114217,
+      "word": "喜欢小狗的有福了",
+      "onboard_time": 1679916210,
+      "rank": 47,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 111781,
@@ -1777,6 +1825,14 @@
       "onboard_time": 1679842532,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 100506,
+      "num": 100506,
+      "word": "恋爱的神惩罚每个嘴硬的人",
+      "onboard_time": 1679916751,
+      "rank": 49,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 99191,
