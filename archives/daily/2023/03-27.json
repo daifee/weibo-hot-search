@@ -1,9 +1,9 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1679894225481,
+  "endTime": 1679895212832,
   "band_list": [
     {
-      "raw_hot": 3019687,
+      "raw_hot": 3264983,
       "num": 433460,
       "word": "上海徐汇中学",
       "onboard_time": 1679891142,
@@ -59,20 +59,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1445342,
+      "num": 1445342,
+      "word": "坐飞机千万不要穿鲜艳的衣服",
+      "onboard_time": 1679887772,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1370262,
       "num": 1370262,
       "word": "韦神的数学题初二生给出标准答案",
       "onboard_time": 1679880865,
       "rank": 5,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1271775,
-      "num": 1271775,
-      "word": "坐飞机千万不要穿鲜艳的衣服",
-      "onboard_time": 1679887772,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 1254355,
@@ -89,6 +89,14 @@
       "onboard_time": 1679887531,
       "rank": 16,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1095213,
+      "num": 1095213,
+      "word": "日媒曝在北京被捕日本男子身份",
+      "onboard_time": 1679892700,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1073849,
@@ -147,12 +155,12 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 802508,
-      "num": 323919,
-      "word": "日媒曝在北京被捕日本男子身份",
-      "onboard_time": 1679892700,
-      "rank": 12,
-      "category": "社会新闻"
+      "raw_hot": 689674,
+      "num": 689674,
+      "word": "保安已经当得不想离职了",
+      "onboard_time": 1679891199,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 677203,
@@ -161,14 +169,6 @@
       "onboard_time": 1679883208,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 659408,
-      "num": 659408,
-      "word": "保安已经当得不想离职了",
-      "onboard_time": 1679891199,
-      "rank": 26,
-      "category": "幽默"
     },
     {
       "raw_hot": 605109,
@@ -251,6 +251,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 486628,
+      "num": 486628,
+      "word": "吴磊爱情而已素颜出镜",
+      "onboard_time": 1679893836,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 469921,
       "num": 469921,
       "word": "甘肃将为兰州牛肉拉面立法",
@@ -291,6 +299,22 @@
       "category": "科技"
     },
     {
+      "raw_hot": 396450,
+      "num": 396450,
+      "word": "芬兰人的不幸福",
+      "onboard_time": 1679892521,
+      "rank": 15,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 379673,
+      "num": 379673,
+      "word": "广州报名骨灰撒海市民逐年增多",
+      "onboard_time": 1679893418,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 374415,
       "num": 374415,
       "word": "四川省考",
@@ -313,14 +337,6 @@
       "onboard_time": 1679847143,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 346893,
-      "num": 318944,
-      "word": "芬兰人的不幸福",
-      "onboard_time": 1679892521,
-      "rank": 15,
-      "category": "情感"
     },
     {
       "raw_hot": 330621,
@@ -443,6 +459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 279111,
+      "num": 279111,
+      "word": "现代人的成年礼不是18岁",
+      "onboard_time": 1679893060,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 271732,
       "num": 271732,
       "word": "林俊杰蔡卓妍合唱我很想爱他",
@@ -465,14 +489,6 @@
       "onboard_time": 1679883330,
       "rank": 21,
       "category": "科技"
-    },
-    {
-      "raw_hot": 257956,
-      "num": 257956,
-      "word": "现代人的成年礼不是18岁",
-      "onboard_time": 1679893060,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 257036,
@@ -505,6 +521,14 @@
       "onboard_time": 1679844027,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 230764,
+      "num": 230764,
+      "word": "男子凌晨发现一女孩赤脚睡在楼梯间",
+      "onboard_time": 1679894256,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 229012,
@@ -587,11 +611,11 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 206778,
-      "num": 206778,
-      "word": "吴磊爱情而已素颜出镜",
-      "onboard_time": 1679893836,
-      "rank": 24,
+      "raw_hot": 207125,
+      "num": 207125,
+      "word": "爱情而已开播",
+      "onboard_time": 1679894256,
+      "rank": 25,
       "category": "影视"
     },
     {
@@ -625,6 +649,14 @@
       "onboard_time": 1679833168,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 198472,
+      "num": 198472,
+      "word": "90年代刑警办案有多难",
+      "onboard_time": 1679894256,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 197525,
@@ -691,14 +723,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 185176,
-      "num": 185176,
-      "word": "广州报名骨灰撒海市民逐年增多",
-      "onboard_time": 1679893418,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 183825,
       "num": 183825,
       "word": "苹果向高管进行MR头显里程碑展示",
@@ -713,6 +737,14 @@
       "onboard_time": 1679885851,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181658,
+      "num": 181658,
+      "word": "特朗普举行首场大规模竞选集会",
+      "onboard_time": 1679892763,
+      "rank": 31,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 179450,
@@ -779,14 +811,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 167981,
-      "num": 167981,
-      "word": "特朗普举行首场大规模竞选集会",
-      "onboard_time": 1679892763,
-      "rank": 31,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 161537,
       "num": 161537,
       "word": "学生合唱一开口就是青春的模样",
@@ -800,6 +824,14 @@
       "word": "林智妍模仿文东恩为妍珍鼓掌",
       "onboard_time": 1679883568,
       "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 155788,
+      "num": 155788,
+      "word": "归路豆瓣6分",
+      "onboard_time": 1679894497,
+      "rank": 33,
       "category": "影视"
     },
     {
@@ -817,6 +849,14 @@
       "onboard_time": 1679858652,
       "rank": 48,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 148153,
+      "num": 148153,
+      "word": "你用过哪些白色手机",
+      "onboard_time": 1679891322,
+      "rank": 47,
+      "category": "科技,情感"
     },
     {
       "raw_hot": 147529,
@@ -915,6 +955,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 129484,
+      "num": 129484,
+      "word": "贺峻霖为中传社团晚会送祝福",
+      "onboard_time": 1679894854,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 128218,
       "num": 106694,
       "word": "肖战差点绊倒自己",
@@ -963,12 +1011,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 118707,
-      "num": 118707,
-      "word": "你用过哪些白色手机",
-      "onboard_time": 1679891322,
-      "rank": 47,
-      "category": "科技,情感"
+      "raw_hot": 119773,
+      "num": 119773,
+      "word": "父亲背小女儿送外卖救患癌大女儿",
+      "onboard_time": 1679894673,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 111781,
@@ -1211,19 +1259,19 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 46843,
+      "num": 339916,
+      "word": "汤唯海边大片",
+      "onboard_time": 1679893238,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 39572,
       "num": 39572,
       "word": "阿奶给刘亦菲颁奖",
       "onboard_time": 1679854754,
       "rank": 49,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 32597,
-      "num": 319813,
-      "word": "汤唯海边大片",
-      "onboard_time": 1679893238,
-      "rank": 14,
       "category": "作品衍生"
     },
     {
