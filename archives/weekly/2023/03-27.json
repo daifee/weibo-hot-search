@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1679938430067,
+  "endTime": 1679941467936,
   "band_list": [
     {
       "raw_hot": 4718675,
@@ -2059,6 +2059,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 124673,
+      "num": 124673,
+      "word": "首个国产新冠药停产",
+      "onboard_time": 1679938395,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124348,
       "num": 124348,
       "word": "你抗拒上班到什么地步",
@@ -2451,6 +2459,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 81445,
+      "num": 81445,
+      "word": "张嘉倪悼念导演麦大杰",
+      "onboard_time": 1679940795,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 78356,
       "num": 78356,
       "word": "阿不都全明星MVP",
@@ -2521,14 +2537,6 @@
       "onboard_time": 1679854754,
       "rank": 49,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 34308,
-      "num": 35709,
-      "word": "首个国产新冠药停产",
-      "onboard_time": 1679938395,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 23626,
