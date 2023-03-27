@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1679916815500,
+  "endTime": 1679924479998,
   "band_list": [
     {
       "raw_hot": 4718675,
@@ -104,6 +104,14 @@
       "word": "日媒曝在北京被捕日本男子身份",
       "onboard_time": 1679892700,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1691802,
+      "num": 1691802,
+      "word": "孩子给离世父亲发短信被回复",
+      "onboard_time": 1679918612,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -211,6 +219,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1065367,
+      "num": 1065367,
+      "word": "知名浙商去世儿子继母百亿夺权大战",
+      "onboard_time": 1679923350,
+      "rank": 1,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 1061313,
       "num": 1061313,
       "word": "王者荣耀",
@@ -249,6 +265,14 @@
       "onboard_time": 1679910267,
       "rank": 3,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 965867,
+      "num": 965867,
+      "word": "吴磊兑换了杨紫的广告位",
+      "onboard_time": 1679924192,
+      "rank": 3,
+      "category": "影视,幽默"
     },
     {
       "raw_hot": 927202,
@@ -379,8 +403,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 623610,
-      "num": 623610,
+      "raw_hot": 651004,
+      "num": 651004,
       "word": "结婚要车要房要彩礼有错吗",
       "onboard_time": 1679913931,
       "rank": 7,
@@ -427,6 +451,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 590995,
+      "num": 590995,
+      "word": "迪丽热巴素色西服",
+      "onboard_time": 1679917829,
+      "rank": 6,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 590731,
       "num": 590731,
       "word": "虞书欣说小兰花让观众更爱她了",
@@ -443,12 +475,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 582169,
+      "num": 582169,
+      "word": "张凌赫对白鹿挑眉",
+      "onboard_time": 1679922510,
+      "rank": 7,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 577615,
+      "num": 553836,
+      "word": "鹿晗王勉逛街",
+      "onboard_time": 1679919690,
+      "rank": 11,
+      "category": "艺人,综艺"
+    },
+    {
       "raw_hot": 571693,
       "num": 571693,
       "word": "河道英不离开妍珍的理由",
       "onboard_time": 1679847924,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 570470,
+      "num": 570470,
+      "word": "这居然是阿衰和大脸妹",
+      "onboard_time": 1679920707,
+      "rank": 8,
+      "category": "幽默"
     },
     {
       "raw_hot": 568825,
@@ -465,6 +521,22 @@
       "onboard_time": 1679889152,
       "rank": 9,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 557856,
+      "num": 557856,
+      "word": "黑暗荣耀编剧谈第三季",
+      "onboard_time": 1679921670,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 547805,
+      "num": 547805,
+      "word": "谢娜或将以选手身份参加乘风破浪4",
+      "onboard_time": 1679916571,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 529235,
@@ -571,6 +643,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 444019,
+      "num": 246286,
+      "word": "真实的缅北到底什么样子",
+      "onboard_time": 1679915850,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 430941,
       "num": 430941,
       "word": "警方通报男子酒后殴打强奸前女友",
@@ -585,6 +665,22 @@
       "onboard_time": 1679897252,
       "rank": 29,
       "category": "国外要闻,军事"
+    },
+    {
+      "raw_hot": 419101,
+      "num": 396869,
+      "word": "乘风破浪4",
+      "onboard_time": 1679915313,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 414925,
+      "num": 414925,
+      "word": "林高远",
+      "onboard_time": 1679922270,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 405398,
@@ -627,12 +723,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 396879,
+      "num": 396879,
+      "word": "男子2天喝4顿后死亡起诉店家获赔",
+      "onboard_time": 1679923411,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 396450,
       "num": 396450,
       "word": "芬兰人的不幸福",
       "onboard_time": 1679892521,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 396137,
+      "num": 396137,
+      "word": "秋瓷炫出发录制浪姐4",
+      "onboard_time": 1679916271,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 374581,
@@ -651,6 +763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 371443,
+      "num": 371443,
+      "word": "特效换脸与女星演吻戏侵犯名誉权",
+      "onboard_time": 1679923531,
+      "rank": 17,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 368343,
       "num": 368343,
       "word": "景区回应女子给猴子喂食被掌掴",
@@ -667,12 +787,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 355955,
-      "num": 355955,
-      "word": "秋瓷炫出发录制浪姐4",
-      "onboard_time": 1679916271,
-      "rank": 17,
-      "category": "综艺"
+      "raw_hot": 352902,
+      "num": 336232,
+      "word": "李现一诺Cat微博之夜合照",
+      "onboard_time": 1679923050,
+      "rank": 20,
+      "category": "作品衍生,游戏"
     },
     {
       "raw_hot": 343287,
@@ -731,6 +851,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 322647,
+      "num": 322647,
+      "word": "梁友安体检查出巧克力囊肿",
+      "onboard_time": 1679924250,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 322247,
       "num": 322247,
       "word": "男子放巨型风筝反被带上天",
@@ -769,6 +897,14 @@
       "onboard_time": 1679839769,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 305326,
+      "num": 254472,
+      "word": "阿里概念股大涨",
+      "onboard_time": 1679920829,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 303488,
@@ -923,6 +1059,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 254696,
+      "num": 254696,
+      "word": "湖北省考成绩",
+      "onboard_time": 1679919028,
+      "rank": 23,
+      "category": "教育"
+    },
+    {
       "raw_hot": 254671,
       "num": 254671,
       "word": "这个求婚我真的能记一辈子",
@@ -947,12 +1091,12 @@
       "category": "美食,幽默"
     },
     {
-      "raw_hot": 246286,
-      "num": 246286,
-      "word": "真实的缅北到底什么样子",
-      "onboard_time": 1679915850,
-      "rank": 25,
-      "category": "社会新闻"
+      "raw_hot": 247589,
+      "num": 247589,
+      "word": "他是谁18集全是眼泪",
+      "onboard_time": 1679919571,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 244188,
@@ -985,6 +1129,14 @@
       "onboard_time": 1679844027,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 230206,
+      "num": 230206,
+      "word": "二十届中央第一轮巡视对象公布",
+      "onboard_time": 1679917589,
+      "rank": 29,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 229012,
@@ -1123,6 +1275,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 203281,
+      "num": 203281,
+      "word": "肖指导是有些表情在身上的",
+      "onboard_time": 1679920707,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 201597,
       "num": 201597,
       "word": "民法",
@@ -1153,6 +1313,14 @@
       "onboard_time": 1679914590,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 199773,
+      "num": 199773,
+      "word": "周雨彤追剧随拍",
+      "onboard_time": 1679924071,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 198472,
@@ -1363,6 +1531,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 174443,
+      "num": 174443,
+      "word": "爱情而已符合你的预期吗",
+      "onboard_time": 1679921429,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 174264,
+      "num": 174264,
+      "word": "腊么肠戒指",
+      "onboard_time": 1679922270,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 172681,
       "num": 172681,
       "word": "一个真想买一个真想卖",
@@ -1459,6 +1643,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 151411,
+      "num": 151411,
+      "word": "深圳暴雨致航班取消旅客跪求起飞",
+      "onboard_time": 1679924071,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 151375,
       "num": 151375,
       "word": "铃芽之旅为何能赢过超英大片",
@@ -1489,6 +1681,14 @@
       "onboard_time": 1679893477,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 145252,
+      "num": 145252,
+      "word": "杉杉股份回应郑永刚遗孀主张权利",
+      "onboard_time": 1679924312,
+      "rank": 36,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 143694,
@@ -1699,12 +1899,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 115901,
+      "num": 115901,
+      "word": "速度与激情10确认引进",
+      "onboard_time": 1679918251,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 114217,
       "num": 114217,
       "word": "喜欢小狗的有福了",
       "onboard_time": 1679916210,
       "rank": 47,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 112371,
+      "num": 112371,
+      "word": "无畏直播",
+      "onboard_time": 1679919451,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 111781,
