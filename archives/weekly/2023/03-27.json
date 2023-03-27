@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1679948452540,
+  "endTime": 1679949206568,
   "band_list": [
     {
       "raw_hot": 4718675,
@@ -2323,20 +2323,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 99079,
+      "num": 99079,
+      "word": "东南亚国家是否真的不能去了",
+      "onboard_time": 1679943613,
+      "rank": 26,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 98729,
       "num": 89725,
       "word": "何炅黄磊 杭州",
       "onboard_time": 1679826091,
       "rank": 44,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 96893,
-      "num": 96893,
-      "word": "东南亚国家是否真的不能去了",
-      "onboard_time": 1679943613,
-      "rank": 26,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 96794,
@@ -2555,8 +2555,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 15345,
-      "num": 15345,
+      "raw_hot": 17866,
+      "num": 17866,
       "word": "周笔畅回应转型",
       "onboard_time": 1679947032,
       "rank": 33,

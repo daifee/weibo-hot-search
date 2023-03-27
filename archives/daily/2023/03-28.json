@@ -1,6 +1,6 @@
 {
   "startTime": 1679934149836,
-  "endTime": 1679948452540,
+  "endTime": 1679949206568,
   "band_list": [
     {
       "raw_hot": 1281772,
@@ -363,8 +363,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 96893,
-      "num": 96893,
+      "raw_hot": 99079,
+      "num": 99079,
       "word": "东南亚国家是否真的不能去了",
       "onboard_time": 1679943613,
       "rank": 26,
@@ -435,8 +435,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 15345,
-      "num": 15345,
+      "raw_hot": 17866,
+      "num": 17866,
       "word": "周笔畅回应转型",
       "onboard_time": 1679947032,
       "rank": 33,

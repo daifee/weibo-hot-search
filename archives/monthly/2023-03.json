@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679948452540,
+  "endTime": 1679949206568,
   "band_list": [
     {
       "raw_hot": 27113842,
@@ -52587,6 +52587,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 99079,
+      "num": 99079,
+      "word": "东南亚国家是否真的不能去了",
+      "onboard_time": 1679943613,
+      "rank": 26,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 99051,
       "num": 99051,
       "word": "曼联3比1富勒姆",
@@ -52793,14 +52801,6 @@
       "onboard_time": 1678725558,
       "rank": 37,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 96893,
-      "num": 96893,
-      "word": "东南亚国家是否真的不能去了",
-      "onboard_time": 1679943613,
-      "rank": 26,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 96813,
@@ -55715,6 +55715,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 17866,
+      "num": 17866,
+      "word": "周笔畅回应转型",
+      "onboard_time": 1679947032,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 17767,
       "num": 17767,
       "word": "利马major淘汰赛",
@@ -55753,14 +55761,6 @@
       "onboard_time": 1678390451,
       "rank": 34,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 15345,
-      "num": 15345,
-      "word": "周笔畅回应转型",
-      "onboard_time": 1679947032,
-      "rank": 33,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 13727,
