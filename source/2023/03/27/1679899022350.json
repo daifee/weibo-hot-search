@@ -1,0 +1,410 @@
+{
+  "runTime": 1679899022350,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1710318,
+        "num": 1710318,
+        "word": "日媒曝在北京被捕日本男子身份",
+        "onboard_time": 1679892700,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 910400,
+        "num": 910400,
+        "word": "杜华不敢删好友怕被截图",
+        "onboard_time": 1679895574,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33514,
+        "num": 852902,
+        "word": "春日里的凡人微光",
+        "onboard_time": 1679879306,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1278609,
+        "num": 851127,
+        "word": "刘亦菲胡歌拿错对方奖杯",
+        "onboard_time": 1679896533,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 832104,
+        "num": 832104,
+        "word": "苏醒加好友备注主打写实",
+        "onboard_time": 1679896412,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2510051,
+        "num": 828802,
+        "word": "马云已回国",
+        "onboard_time": 1679896593,
+        "rank": 5,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 892536,
+        "num": 806451,
+        "word": "杨紫说自己现在状态很好",
+        "onboard_time": 1679897850,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 705587,
+        "num": 705587,
+        "word": "坐飞机千万不要穿鲜艳的衣服",
+        "onboard_time": 1679887772,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 671613,
+        "num": 671613,
+        "word": "男子凌晨发现一女孩赤脚睡在楼梯间",
+        "onboard_time": 1679894256,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 682208,
+        "num": 575604,
+        "word": "关晓彤追狂飙被全网剧透",
+        "onboard_time": 1679895991,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1135304,
+        "num": 491540,
+        "word": "黄多多染金发",
+        "onboard_time": 1679883989,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 396469,
+        "num": 396469,
+        "word": "保安已经当得不想离职了",
+        "onboard_time": 1679891199,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 351720,
+        "num": 351720,
+        "word": "广州报名骨灰撒海市民逐年增多",
+        "onboard_time": 1679893418,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345998,
+        "num": 345998,
+        "word": "虞书欣王鹤棣聊天口型",
+        "onboard_time": 1679887531,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 331974,
+        "num": 331974,
+        "word": "吴磊爱情而已素颜出镜",
+        "onboard_time": 1679893836,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 296962,
+        "num": 296962,
+        "word": "电视剧品质盛典官宣",
+        "onboard_time": 1679896653,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 273782,
+        "num": 273782,
+        "word": "男子放巨型风筝反被带上天",
+        "onboard_time": 1679896472,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256856,
+        "num": 256856,
+        "word": "普京称全球北约类似二战时建立的轴心国",
+        "onboard_time": 1679897252,
+        "rank": 17,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 255461,
+        "num": 255461,
+        "word": "芬兰人的不幸福",
+        "onboard_time": 1679892521,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 210431,
+        "num": 210431,
+        "word": "空姐注射玻尿酸打进血管险丧命",
+        "onboard_time": 1679878647,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239517,
+        "num": 206977,
+        "word": "小狗嘴里有好多小手套",
+        "onboard_time": 1679895215,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 197852,
+        "num": 197852,
+        "word": "韦神的数学题初二生给出标准答案",
+        "onboard_time": 1679880865,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 188639,
+        "num": 188639,
+        "word": "王嘉尔鸳鸯发色",
+        "onboard_time": 1679889212,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 183075,
+        "num": 183075,
+        "word": "好丽友漏税22万被罚12万",
+        "onboard_time": 1679888431,
+        "rank": 23,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 177844,
+        "num": 177844,
+        "word": "张婧仪谈理想型",
+        "onboard_time": 1679896412,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 160119,
+        "num": 160119,
+        "word": "父亲背小女儿送外卖救患癌大女儿",
+        "onboard_time": 1679894673,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156371,
+        "num": 156371,
+        "word": "现代人的成年礼不是18岁",
+        "onboard_time": 1679893060,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155458,
+        "num": 155458,
+        "word": "刘诗诗回应天选古代人",
+        "onboard_time": 1679887411,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 139652,
+        "num": 139652,
+        "word": "男子被人冒用身份欠下8000万巨债",
+        "onboard_time": 1679883208,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134126,
+        "num": 134126,
+        "word": "村BA总决赛",
+        "onboard_time": 1679897492,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 713475,
+        "num": 130360,
+        "word": "男网红合成迪丽热巴视频被打",
+        "onboard_time": 1679887712,
+        "rank": 30,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 140909,
+        "num": 127218,
+        "word": "警方通报男子酒后殴打强奸前女友",
+        "onboard_time": 1679887471,
+        "rank": 31,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 122109,
+        "num": 122109,
+        "word": "特朗普举行首场大规模竞选集会",
+        "onboard_time": 1679892763,
+        "rank": 32,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 120519,
+        "num": 120519,
+        "word": "苹果自动驾驶2个月16起车祸",
+        "onboard_time": 1679886690,
+        "rank": 33,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 119707,
+        "num": 119707,
+        "word": "当导师收到我的论文初稿",
+        "onboard_time": 1679890540,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119587,
+        "num": 119587,
+        "word": "以色列爆发大规模抗议",
+        "onboard_time": 1679884471,
+        "rank": 35,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 119343,
+        "num": 119343,
+        "word": "爱情而已开播",
+        "onboard_time": 1679894256,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 119217,
+        "num": 119217,
+        "word": "归路豆瓣6分",
+        "onboard_time": 1679894497,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 116967,
+        "num": 116967,
+        "word": "新海诚说谢谢你中国",
+        "onboard_time": 1679893060,
+        "rank": 38,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 103367,
+        "num": 103367,
+        "word": "第一公民银行接手硅谷银行",
+        "onboard_time": 1679897674,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 98660,
+        "num": 98660,
+        "word": "你用过哪些白色手机",
+        "onboard_time": 1679891322,
+        "rank": 40,
+        "category": "科技,情感"
+      },
+      {
+        "raw_hot": 97761,
+        "num": 97761,
+        "word": "果然看帅哥真的会变漂亮",
+        "onboard_time": 1679895272,
+        "rank": 41,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 95955,
+        "num": 95955,
+        "word": "宋雨琦回国机场饭拍",
+        "onboard_time": 1679895335,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 95088,
+        "num": 95088,
+        "word": "女生终点定错辱骂网约车司机",
+        "onboard_time": 1679886932,
+        "rank": 43,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 91532,
+        "num": 91532,
+        "word": "iOS17将添加新功能",
+        "onboard_time": 1679880986,
+        "rank": 44,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 85441,
+        "num": 85441,
+        "word": "田曦薇撞脸史迪仔",
+        "onboard_time": 1679882668,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 78803,
+        "num": 78803,
+        "word": "未定事件簿",
+        "onboard_time": 1679891504,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 78121,
+        "num": 78121,
+        "word": "刘宇宁想和毛不易合作一首大悲大喜",
+        "onboard_time": 1679889152,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 75025,
+        "num": 75025,
+        "word": "80秒回顾南京被花花承包的三月",
+        "onboard_time": 1679898932,
+        "rank": 48,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 74216,
+        "num": 74216,
+        "word": "周一",
+        "onboard_time": 1679875406,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#命运与共里的总书记用典#"
+    }
+  }
+}

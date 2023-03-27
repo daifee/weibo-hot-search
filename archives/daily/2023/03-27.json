@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1679898208920,
+  "endTime": 1679899022350,
   "band_list": [
     {
       "raw_hot": 3264983,
@@ -20,11 +20,19 @@
     },
     {
       "raw_hot": 2613485,
-      "num": 485307,
+      "num": 491540,
       "word": "黄多多染金发",
       "onboard_time": 1679883989,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2510051,
+      "num": 828802,
+      "word": "马云已回国",
+      "onboard_time": 1679896593,
+      "rank": 5,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 2186717,
@@ -41,14 +49,6 @@
       "onboard_time": 1679878647,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2092377,
-      "num": 737621,
-      "word": "马云已回国",
-      "onboard_time": 1679896593,
-      "rank": 5,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 1943497,
@@ -91,6 +91,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1278609,
+      "num": 851127,
+      "word": "刘亦菲胡歌拿错对方奖杯",
+      "onboard_time": 1679896533,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1254355,
       "num": 588678,
       "word": "截图癖",
@@ -131,11 +139,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 895618,
-      "num": 760662,
-      "word": "刘亦菲胡歌拿错对方奖杯",
-      "onboard_time": 1679896533,
-      "rank": 3,
+      "raw_hot": 910400,
+      "num": 910400,
+      "word": "杜华不敢删好友怕被截图",
+      "onboard_time": 1679895574,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 892536,
+      "num": 806451,
+      "word": "杨紫说自己现在状态很好",
+      "onboard_time": 1679897850,
+      "rank": 7,
       "category": "作品衍生"
     },
     {
@@ -155,6 +171,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 832104,
+      "num": 832104,
+      "word": "苏醒加好友备注主打写实",
+      "onboard_time": 1679896412,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 828009,
       "num": 828009,
       "word": "刘诗诗回应天选古代人",
@@ -171,28 +195,12 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 747623,
-      "num": 747623,
-      "word": "杜华不敢删好友怕被截图",
-      "onboard_time": 1679895574,
-      "rank": 4,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 720045,
       "num": 720045,
       "word": "男子凌晨发现一女孩赤脚睡在楼梯间",
       "onboard_time": 1679894256,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 702472,
-      "num": 702472,
-      "word": "杨紫说自己现在状态很好",
-      "onboard_time": 1679897850,
-      "rank": 7,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 689674,
@@ -203,28 +211,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 682208,
+      "num": 575604,
+      "word": "关晓彤追狂飙被全网剧透",
+      "onboard_time": 1679895991,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 677203,
       "num": 677203,
       "word": "男子被人冒用身份欠下8000万巨债",
       "onboard_time": 1679883208,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 665383,
-      "num": 665383,
-      "word": "苏醒加好友备注主打写实",
-      "onboard_time": 1679896412,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 649548,
-      "num": 393225,
-      "word": "关晓彤追狂飙被全网剧透",
-      "onboard_time": 1679895991,
-      "rank": 11,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 605109,
@@ -531,6 +531,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 273782,
+      "num": 273782,
+      "word": "男子放巨型风筝反被带上天",
+      "onboard_time": 1679896472,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 271732,
       "num": 271732,
       "word": "林俊杰蔡卓妍合唱我很想爱他",
@@ -563,6 +571,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 256856,
+      "num": 256856,
+      "word": "普京称全球北约类似二战时建立的轴心国",
+      "onboard_time": 1679897252,
+      "rank": 29,
+      "category": "国外要闻,军事"
+    },
+    {
       "raw_hot": 244188,
       "num": 244188,
       "word": "蔡徐坤舞台挂帆布包为了装墨镜",
@@ -579,12 +595,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 239299,
-      "num": 239299,
-      "word": "男子放巨型风筝反被带上天",
-      "onboard_time": 1679896472,
-      "rank": 17,
-      "category": "社会新闻"
+      "raw_hot": 239517,
+      "num": 207236,
+      "word": "小狗嘴里有好多小手套",
+      "onboard_time": 1679895215,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 238286,
@@ -625,14 +641,6 @@
       "onboard_time": 1679842891,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 221769,
-      "num": 207236,
-      "word": "小狗嘴里有好多小手套",
-      "onboard_time": 1679895215,
-      "rank": 20,
-      "category": "幽默"
     },
     {
       "raw_hot": 220241,
@@ -939,14 +947,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 152744,
-      "num": 152744,
-      "word": "普京称全球北约类似二战时建立的轴心国",
-      "onboard_time": 1679897252,
-      "rank": 29,
-      "category": "国外要闻,军事"
-    },
-    {
       "raw_hot": 151375,
       "num": 151375,
       "word": "铃芽之旅为何能赢过超英大片",
@@ -1187,6 +1187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103367,
+      "num": 103367,
+      "word": "第一公民银行接手硅谷银行",
+      "onboard_time": 1679897674,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 103363,
       "num": 92065,
       "word": "电影保你平安票房破5亿",
@@ -1227,6 +1235,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 97761,
+      "num": 97761,
+      "word": "果然看帅哥真的会变漂亮",
+      "onboard_time": 1679895272,
+      "rank": 49,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 96794,
       "num": 96794,
       "word": "车祸起火附近军人飞奔而来",
@@ -1251,6 +1267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 95955,
+      "num": 95955,
+      "word": "宋雨琦回国机场饭拍",
+      "onboard_time": 1679895335,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 93544,
       "num": 93544,
       "word": "胡明轩扣篮",
@@ -1273,22 +1297,6 @@
       "onboard_time": 1679840431,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 89164,
-      "num": 89164,
-      "word": "第一公民银行接手硅谷银行",
-      "onboard_time": 1679897674,
-      "rank": 43,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 88931,
-      "num": 88931,
-      "word": "宋雨琦回国机场饭拍",
-      "onboard_time": 1679895335,
-      "rank": 45,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 88563,
@@ -1339,12 +1347,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 75373,
-      "num": 75373,
-      "word": "果然看帅哥真的会变漂亮",
-      "onboard_time": 1679895272,
-      "rank": 49,
-      "category": "幽默,情感"
+      "raw_hot": 75025,
+      "num": 75025,
+      "word": "80秒回顾南京被花花承包的三月",
+      "onboard_time": 1679898932,
+      "rank": 48,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 74340,

@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679898208920,
+  "endTime": 1679899022350,
   "band_list": [
     {
       "raw_hot": 27113842,
@@ -796,7 +796,7 @@
     },
     {
       "raw_hot": 2613485,
-      "num": 485307,
+      "num": 491540,
       "word": "黄多多染金发",
       "onboard_time": 1679883989,
       "rank": 10,
@@ -873,6 +873,14 @@
       "onboard_time": 1679745347,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 2510051,
+      "num": 828802,
+      "word": "马云已回国",
+      "onboard_time": 1679896593,
+      "rank": 5,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 2496764,
@@ -1425,14 +1433,6 @@
       "onboard_time": 1679745954,
       "rank": 8,
       "category": "体育,作品衍生"
-    },
-    {
-      "raw_hot": 2092377,
-      "num": 737621,
-      "word": "马云已回国",
-      "onboard_time": 1679896593,
-      "rank": 5,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 2083170,
@@ -4249,6 +4249,14 @@
       "onboard_time": 1679444369,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1278609,
+      "num": 851127,
+      "word": "刘亦菲胡歌拿错对方奖杯",
+      "onboard_time": 1679896533,
+      "rank": 3,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1277699,
@@ -7491,6 +7499,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 910400,
+      "num": 910400,
+      "word": "杜华不敢删好友怕被截图",
+      "onboard_time": 1679895574,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 909826,
       "num": 909826,
       "word": "半天妖垃圾桶捞回餐食又端给顾客",
@@ -7715,14 +7731,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 895618,
-      "num": 760662,
-      "word": "刘亦菲胡歌拿错对方奖杯",
-      "onboard_time": 1679896533,
-      "rank": 3,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 894582,
       "num": 894582,
       "word": "关于国务院机构改革方案的说明",
@@ -7761,6 +7769,14 @@
       "onboard_time": 1679741262,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 892536,
+      "num": 806451,
+      "word": "杨紫说自己现在状态很好",
+      "onboard_time": 1679897850,
+      "rank": 7,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 892387,
@@ -8705,6 +8721,14 @@
       "onboard_time": 1678359205,
       "rank": 8,
       "category": "国外要闻,军事"
+    },
+    {
+      "raw_hot": 832104,
+      "num": 832104,
+      "word": "苏醒加好友备注主打写实",
+      "onboard_time": 1679896412,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 832101,
@@ -10083,14 +10107,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 747623,
-      "num": 747623,
-      "word": "杜华不敢删好友怕被截图",
-      "onboard_time": 1679895574,
-      "rank": 4,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 747619,
       "num": 747619,
       "word": "网易LOFTER致歉",
@@ -11043,14 +11059,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 702472,
-      "num": 702472,
-      "word": "杨紫说自己现在状态很好",
-      "onboard_time": 1679897850,
-      "rank": 7,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 702096,
       "num": 641517,
       "word": "宝新",
@@ -11451,6 +11459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 682208,
+      "num": 575604,
+      "word": "关晓彤追狂飙被全网剧透",
+      "onboard_time": 1679895991,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 681867,
       "num": 681867,
       "word": "王子文说谈恋爱就是要全力以赴",
@@ -11817,14 +11833,6 @@
       "onboard_time": 1679074218,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 665383,
-      "num": 665383,
-      "word": "苏醒加好友备注主打写实",
-      "onboard_time": 1679896412,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 665254,
@@ -12225,14 +12233,6 @@
       "onboard_time": 1678153525,
       "rank": 30,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 649548,
-      "num": 393225,
-      "word": "关晓彤追狂飙被全网剧透",
-      "onboard_time": 1679895991,
-      "rank": 11,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 649486,
@@ -29179,6 +29179,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 273782,
+      "num": 273782,
+      "word": "男子放巨型风筝反被带上天",
+      "onboard_time": 1679896472,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 273711,
       "num": 273711,
       "word": "铃芽之旅成2023引进片票房冠军",
@@ -30425,6 +30433,14 @@
       "onboard_time": 1677834688,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 256856,
+      "num": 256856,
+      "word": "普京称全球北约类似二战时建立的轴心国",
+      "onboard_time": 1679897252,
+      "rank": 29,
+      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 256814,
@@ -31963,20 +31979,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 239517,
+      "num": 207236,
+      "word": "小狗嘴里有好多小手套",
+      "onboard_time": 1679895215,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 239415,
       "num": 239415,
       "word": "宋佳头顶一包花封面",
       "onboard_time": 1679542467,
       "rank": 28,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 239299,
-      "num": 239299,
-      "word": "男子放巨型风筝反被带上天",
-      "onboard_time": 1679896472,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 239167,
@@ -33905,14 +33921,6 @@
       "onboard_time": 1679713885,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 221769,
-      "num": 207236,
-      "word": "小狗嘴里有好多小手套",
-      "onboard_time": 1679895215,
-      "rank": 20,
-      "category": "幽默"
     },
     {
       "raw_hot": 221574,
@@ -44707,14 +44715,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 152744,
-      "num": 152744,
-      "word": "普京称全球北约类似二战时建立的轴心国",
-      "onboard_time": 1679897252,
-      "rank": 29,
-      "category": "国外要闻,军事"
-    },
-    {
       "raw_hot": 152408,
       "num": 152408,
       "word": "LOFTER平台AI绘画功能遭用户质疑",
@@ -51155,6 +51155,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 103367,
+      "num": 103367,
+      "word": "第一公民银行接手硅谷银行",
+      "onboard_time": 1679897674,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 103270,
       "num": 103270,
       "word": "我的春日ootd",
@@ -51619,6 +51627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 97761,
+      "num": 97761,
+      "word": "果然看帅哥真的会变漂亮",
+      "onboard_time": 1679895272,
+      "rank": 49,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 97755,
       "num": 97755,
       "word": "十四届全国人大一次会议第二次全体会议",
@@ -51801,6 +51817,14 @@
       "onboard_time": 1678188446,
       "rank": 44,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 95955,
+      "num": 95955,
+      "word": "宋雨琦回国机场饭拍",
+      "onboard_time": 1679895335,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 95914,
@@ -52211,14 +52235,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 89164,
-      "num": 89164,
-      "word": "第一公民银行接手硅谷银行",
-      "onboard_time": 1679897674,
-      "rank": 43,
-      "category": "财经"
-    },
-    {
       "raw_hot": 89156,
       "num": 89156,
       "word": "政协闭幕会",
@@ -52241,14 +52257,6 @@
       "onboard_time": 1678753347,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 88931,
-      "num": 88931,
-      "word": "宋雨琦回国机场饭拍",
-      "onboard_time": 1679895335,
-      "rank": 45,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 88847,
@@ -52979,20 +52987,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 75373,
-      "num": 75373,
-      "word": "果然看帅哥真的会变漂亮",
-      "onboard_time": 1679895272,
-      "rank": 49,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 75184,
       "num": 172143,
       "word": "住院花多少钱保险能赔",
       "onboard_time": 1679458169,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 75025,
+      "num": 75025,
+      "word": "80秒回顾南京被花花承包的三月",
+      "onboard_time": 1679898932,
+      "rank": 48,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 75018,
