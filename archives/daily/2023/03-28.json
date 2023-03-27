@@ -1,6 +1,6 @@
 {
   "startTime": 1679934149836,
-  "endTime": 1679942282062,
+  "endTime": 1679944465285,
   "band_list": [
     {
       "raw_hot": 1281772,
@@ -417,6 +417,14 @@
       "onboard_time": 1679907029,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25874,
+      "num": 25874,
+      "word": "东南亚国家是否真的不能去了",
+      "onboard_time": 1679943613,
+      "rank": 26,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 22491,
