@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1679927243639,
+  "endTime": 1679928121719,
   "band_list": [
     {
       "raw_hot": 4718675,
@@ -195,6 +195,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1244168,
+      "num": 1244168,
+      "word": "男子2天喝4顿后死亡起诉店家获赔",
+      "onboard_time": 1679923411,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1155496,
       "num": 1031115,
       "word": "虞书欣王鹤棣聊天口型",
@@ -211,20 +219,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1099160,
-      "num": 1099160,
-      "word": "男子2天喝4顿后死亡起诉店家获赔",
-      "onboard_time": 1679923411,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1095991,
       "num": 417394,
       "word": "王者荣耀进不去",
       "onboard_time": 1679913628,
       "rank": 10,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1086494,
+      "num": 1086494,
+      "word": "深圳暴雨致航班取消旅客跪求起飞",
+      "onboard_time": 1679924071,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1073849,
@@ -283,6 +291,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 984855,
+      "num": 984855,
+      "word": "为什么删掉了你喜欢的人",
+      "onboard_time": 1679925393,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 927202,
       "num": 927202,
       "word": "96年父亲暴瘦40斤割肝救女",
@@ -313,14 +329,6 @@
       "onboard_time": 1679897850,
       "rank": 7,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 868199,
-      "num": 868199,
-      "word": "深圳暴雨致航班取消旅客跪求起飞",
-      "onboard_time": 1679924071,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 841190,
@@ -385,14 +393,6 @@
       "onboard_time": 1679894256,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 713060,
-      "num": 713060,
-      "word": "为什么删掉了你喜欢的人",
-      "onboard_time": 1679925393,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 689674,
@@ -467,18 +467,18 @@
       "category": "体育"
     },
     {
-      "raw_hot": 605109,
-      "num": 605109,
-      "word": "山茶花和红玫瑰",
-      "onboard_time": 1679873301,
+      "raw_hot": 608690,
+      "num": 608690,
+      "word": "微博之夜战报",
+      "onboard_time": 1679925332,
       "rank": 37,
       "category": "作品衍生"
     },
     {
-      "raw_hot": 598949,
-      "num": 598949,
-      "word": "微博之夜战报",
-      "onboard_time": 1679925332,
+      "raw_hot": 605109,
+      "num": 605109,
+      "word": "山茶花和红玫瑰",
+      "onboard_time": 1679873301,
       "rank": 37,
       "category": "作品衍生"
     },
@@ -500,7 +500,7 @@
     },
     {
       "raw_hot": 590995,
-      "num": 590995,
+      "num": 609234,
       "word": "迪丽热巴素色西服",
       "onboard_time": 1679917829,
       "rank": 6,
@@ -979,6 +979,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 284918,
+      "num": 284918,
+      "word": "中方愿全部接收洪都拉斯在台留学生",
+      "onboard_time": 1679927194,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 283582,
       "num": 283582,
       "word": "丫丫晚上加班吃竹子",
@@ -1179,6 +1187,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 228941,
+      "num": 172374,
+      "word": "人生之路",
+      "onboard_time": 1679927134,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 227701,
       "num": 227701,
       "word": "丫丫爬树了",
@@ -1251,6 +1267,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 213326,
+      "num": 213326,
+      "word": "杉杉股份回应郑永刚遗孀主张权利",
+      "onboard_time": 1679924312,
+      "rank": 36,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 211106,
       "num": 211106,
       "word": "上海一公交公司回应公交车坠河",
@@ -1265,14 +1289,6 @@
       "onboard_time": 1679876246,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 210191,
-      "num": 210191,
-      "word": "杉杉股份回应郑永刚遗孀主张权利",
-      "onboard_time": 1679924312,
-      "rank": 36,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 209859,
@@ -1409,14 +1425,6 @@
       "onboard_time": 1679824948,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 193567,
-      "num": 172374,
-      "word": "人生之路",
-      "onboard_time": 1679927134,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 192864,
@@ -1635,6 +1643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 163368,
+      "num": 150500,
+      "word": "吴宣仪说虞书欣特别暖心",
+      "onboard_time": 1679928034,
+      "rank": 34,
+      "category": "作品衍生,艺人"
+    },
+    {
       "raw_hot": 161537,
       "num": 161537,
       "word": "学生合唱一开口就是青春的模样",
@@ -1707,6 +1723,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 149217,
+      "num": 149217,
+      "word": "新加坡总理李显龙访华",
+      "onboard_time": 1679927432,
+      "rank": 35,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 148153,
       "num": 148153,
       "word": "你用过哪些白色手机",
@@ -1721,6 +1745,14 @@
       "onboard_time": 1679893477,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 147352,
+      "num": 147352,
+      "word": "杨紫琼奥斯卡庆功派对",
+      "onboard_time": 1679925693,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 143694,
@@ -1785,6 +1817,14 @@
       "onboard_time": 1679875346,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 137799,
+      "num": 137799,
+      "word": "狗狗太热情也不太好",
+      "onboard_time": 1679927254,
+      "rank": 39,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 137583,
@@ -1905,14 +1945,6 @@
       "onboard_time": 1679905470,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 122312,
-      "num": 120756,
-      "word": "杨紫琼奥斯卡庆功派对",
-      "onboard_time": 1679925693,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 121433,
@@ -2209,14 +2241,6 @@
       "onboard_time": 1679905830,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 90373,
-      "num": 90373,
-      "word": "中方愿全部接收洪都拉斯在台留学生",
-      "onboard_time": 1679927194,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 89226,
