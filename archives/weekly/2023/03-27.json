@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1679944465285,
+  "endTime": 1679945604239,
   "band_list": [
     {
       "raw_hot": 4718675,
@@ -2515,6 +2515,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 55780,
+      "num": 55780,
+      "word": "东南亚国家是否真的不能去了",
+      "onboard_time": 1679943613,
+      "rank": 26,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 54236,
       "num": 54236,
       "word": "刘若英演唱会三站全部售罄",
@@ -2539,20 +2547,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 25874,
-      "num": 25874,
-      "word": "东南亚国家是否真的不能去了",
-      "onboard_time": 1679943613,
-      "rank": 26,
-      "category": "社会新闻,旅游"
-    },
-    {
       "raw_hot": 23626,
       "num": 23626,
       "word": "原神",
       "onboard_time": 1679858832,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 12578,
+      "num": 14468,
+      "word": "狗子心里能有多委屈",
+      "onboard_time": 1679945592,
+      "rank": 48,
+      "category": "幽默"
     }
   ],
   "hotgov_list": [
