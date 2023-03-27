@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1679895212832,
+  "endTime": 1679898208920,
   "band_list": [
     {
       "raw_hot": 3264983,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2092377,
+      "num": 737621,
+      "word": "马云已回国",
+      "onboard_time": 1679896593,
+      "rank": 5,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 1943497,
       "num": 1943497,
       "word": "千万不要在夜里醒来看时间",
@@ -57,6 +65,14 @@
       "onboard_time": 1679883387,
       "rank": 3,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1712010,
+      "num": 1712010,
+      "word": "日媒曝在北京被捕日本男子身份",
+      "onboard_time": 1679892700,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1445342,
@@ -91,14 +107,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 1095213,
-      "num": 1095213,
-      "word": "日媒曝在北京被捕日本男子身份",
-      "onboard_time": 1679892700,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1073849,
       "num": 1073849,
       "word": "迪丽热巴对邓超说好久不见",
@@ -121,6 +129,14 @@
       "onboard_time": 1679844627,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 895618,
+      "num": 760662,
+      "word": "刘亦菲胡歌拿错对方奖杯",
+      "onboard_time": 1679896533,
+      "rank": 3,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 841190,
@@ -155,6 +171,30 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 747623,
+      "num": 747623,
+      "word": "杜华不敢删好友怕被截图",
+      "onboard_time": 1679895574,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 720045,
+      "num": 720045,
+      "word": "男子凌晨发现一女孩赤脚睡在楼梯间",
+      "onboard_time": 1679894256,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 702472,
+      "num": 702472,
+      "word": "杨紫说自己现在状态很好",
+      "onboard_time": 1679897850,
+      "rank": 7,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 689674,
       "num": 689674,
       "word": "保安已经当得不想离职了",
@@ -169,6 +209,22 @@
       "onboard_time": 1679883208,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 665383,
+      "num": 665383,
+      "word": "苏醒加好友备注主打写实",
+      "onboard_time": 1679896412,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 649548,
+      "num": 393225,
+      "word": "关晓彤追狂飙被全网剧透",
+      "onboard_time": 1679895991,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 605109,
@@ -291,6 +347,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 402871,
+      "num": 402871,
+      "word": "广州报名骨灰撒海市民逐年增多",
+      "onboard_time": 1679893418,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 398039,
       "num": 398039,
       "word": "何同学中文打字机",
@@ -305,14 +369,6 @@
       "onboard_time": 1679892521,
       "rank": 15,
       "category": "情感"
-    },
-    {
-      "raw_hot": 379673,
-      "num": 379673,
-      "word": "广州报名骨灰撒海市民逐年增多",
-      "onboard_time": 1679893418,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 374415,
@@ -337,6 +393,14 @@
       "onboard_time": 1679847143,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 343287,
+      "num": 343287,
+      "word": "电视剧品质盛典官宣",
+      "onboard_time": 1679896653,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 330621,
@@ -515,20 +579,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 239299,
+      "num": 239299,
+      "word": "男子放巨型风筝反被带上天",
+      "onboard_time": 1679896472,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 238286,
       "num": 223688,
       "word": "李现目前在泉州拍一部戏",
       "onboard_time": 1679844027,
       "rank": 16,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 230764,
-      "num": 230764,
-      "word": "男子凌晨发现一女孩赤脚睡在楼梯间",
-      "onboard_time": 1679894256,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 229012,
@@ -561,6 +625,14 @@
       "onboard_time": 1679842891,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 221769,
+      "num": 207236,
+      "word": "小狗嘴里有好多小手套",
+      "onboard_time": 1679895215,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 220241,
@@ -643,6 +715,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 200227,
+      "num": 200227,
+      "word": "张婧仪谈理想型",
+      "onboard_time": 1679896412,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 199904,
       "num": 199904,
       "word": "Angelababy微博之夜幕后花絮",
@@ -707,6 +787,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 189268,
+      "num": 189268,
+      "word": "村BA总决赛",
+      "onboard_time": 1679897492,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 187304,
       "num": 187304,
       "word": "日媒称一日本男子在北京被捕",
@@ -745,6 +833,14 @@
       "onboard_time": 1679892763,
       "rank": 31,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 181186,
+      "num": 181186,
+      "word": "父亲背小女儿送外卖救患癌大女儿",
+      "onboard_time": 1679894673,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 179450,
@@ -841,6 +937,14 @@
       "onboard_time": 1679821287,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 152744,
+      "num": 152744,
+      "word": "普京称全球北约类似二战时建立的轴心国",
+      "onboard_time": 1679897252,
+      "rank": 29,
+      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 151375,
@@ -1011,14 +1115,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 119773,
-      "num": 119773,
-      "word": "父亲背小女儿送外卖救患癌大女儿",
-      "onboard_time": 1679894673,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 111781,
       "num": 91031,
       "word": "吴宣仪也在热搜上看美女",
@@ -1179,6 +1275,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 89164,
+      "num": 89164,
+      "word": "第一公民银行接手硅谷银行",
+      "onboard_time": 1679897674,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 88931,
+      "num": 88931,
+      "word": "宋雨琦回国机场饭拍",
+      "onboard_time": 1679895335,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 88563,
       "num": 88563,
       "word": "湖人不敌公牛",
@@ -1225,6 +1337,14 @@
       "onboard_time": 1679841751,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 75373,
+      "num": 75373,
+      "word": "果然看帅哥真的会变漂亮",
+      "onboard_time": 1679895272,
+      "rank": 49,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 74340,
