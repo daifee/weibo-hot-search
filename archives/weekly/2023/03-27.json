@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1679951758228,
+  "endTime": 1679952820853,
   "band_list": [
     {
       "raw_hot": 4718675,
@@ -2547,8 +2547,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 27242,
-      "num": 27242,
+      "raw_hot": 29430,
+      "num": 29430,
       "word": "周笔畅回应转型",
       "onboard_time": 1679947032,
       "rank": 33,
@@ -2569,6 +2569,14 @@
       "onboard_time": 1679945592,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 11677,
+      "num": 12230,
+      "word": "他是谁聂宝华反杀",
+      "onboard_time": 1679952431,
+      "rank": 46,
+      "category": "影视"
     }
   ],
   "hotgov_list": [

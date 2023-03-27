@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679951758228,
+  "endTime": 1679952820853,
   "band_list": [
     {
       "raw_hot": 27113842,
@@ -55531,6 +55531,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 29430,
+      "num": 29430,
+      "word": "周笔畅回应转型",
+      "onboard_time": 1679947032,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 29395,
       "num": 37451,
       "word": "严浩翔七宫格连拍",
@@ -55601,14 +55609,6 @@
       "onboard_time": 1678727716,
       "rank": 9,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 27242,
-      "num": 27242,
-      "word": "周笔畅回应转型",
-      "onboard_time": 1679947032,
-      "rank": 33,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 27042,
@@ -55785,6 +55785,14 @@
       "onboard_time": 1677779295,
       "rank": 49,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 11677,
+      "num": 12230,
+      "word": "他是谁聂宝华反杀",
+      "onboard_time": 1679952431,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 10931,
