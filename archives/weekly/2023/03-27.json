@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1679955436055,
+  "endTime": 1679956406787,
   "band_list": [
     {
       "raw_hot": 4718675,
@@ -1931,6 +1931,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 138422,
+      "num": 138422,
+      "word": "东南亚国家是否真的不能去了",
+      "onboard_time": 1679943613,
+      "rank": 26,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 138400,
       "num": 138400,
       "word": "孙俪看五哈泼水",
@@ -2019,6 +2027,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 131206,
+      "num": 131206,
+      "word": "首个国产新冠药停产",
+      "onboard_time": 1679938395,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130666,
       "num": 130666,
       "word": "宋亚轩跟雷佳音马丽打招呼",
@@ -2057,14 +2073,6 @@
       "onboard_time": 1679836827,
       "rank": 27,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 124673,
-      "num": 124673,
-      "word": "首个国产新冠药停产",
-      "onboard_time": 1679938395,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 124348,
@@ -2249,14 +2257,6 @@
       "onboard_time": 1679840790,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 104877,
-      "num": 104877,
-      "word": "东南亚国家是否真的不能去了",
-      "onboard_time": 1679943613,
-      "rank": 26,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 104778,
@@ -2539,12 +2539,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 46039,
+      "num": 46039,
+      "word": "徐志胜头太大把项链卡住了",
+      "onboard_time": 1679954773,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 39572,
       "num": 39572,
       "word": "阿奶给刘亦菲颁奖",
       "onboard_time": 1679854754,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 39110,
+      "num": 39110,
+      "word": "他是谁聂宝华反杀",
+      "onboard_time": 1679952431,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 34475,
@@ -2555,28 +2571,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 27155,
-      "num": 27155,
-      "word": "他是谁聂宝华反杀",
-      "onboard_time": 1679952431,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
       "raw_hot": 23626,
       "num": 23626,
       "word": "原神",
       "onboard_time": 1679858832,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 23614,
-      "num": 23614,
-      "word": "徐志胜头太大把项链卡住了",
-      "onboard_time": 1679954773,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 12578,

@@ -1,6 +1,6 @@
 {
   "startTime": 1679934149836,
-  "endTime": 1679955436055,
+  "endTime": 1679956406787,
   "band_list": [
     {
       "raw_hot": 1281772,
@@ -267,6 +267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 138422,
+      "num": 138422,
+      "word": "东南亚国家是否真的不能去了",
+      "onboard_time": 1679943613,
+      "rank": 26,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 137586,
       "num": 118234,
       "word": "裸辞之后会变得更好吗",
@@ -283,20 +291,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 131206,
+      "num": 131206,
+      "word": "首个国产新冠药停产",
+      "onboard_time": 1679938395,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 128918,
       "num": 116681,
       "word": "张凌赫对白鹿挑眉",
       "onboard_time": 1679922510,
       "rank": 36,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 124673,
-      "num": 124673,
-      "word": "首个国产新冠药停产",
-      "onboard_time": 1679938395,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 118641,
@@ -345,14 +353,6 @@
       "onboard_time": 1679927254,
       "rank": 38,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 104877,
-      "num": 104877,
-      "word": "东南亚国家是否真的不能去了",
-      "onboard_time": 1679943613,
-      "rank": 26,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 102154,
@@ -427,28 +427,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 34475,
-      "num": 34475,
-      "word": "周笔畅回应转型",
-      "onboard_time": 1679947032,
-      "rank": 33,
-      "category": "作品衍生"
+      "raw_hot": 46039,
+      "num": 46039,
+      "word": "徐志胜头太大把项链卡住了",
+      "onboard_time": 1679954773,
+      "rank": 41,
+      "category": "综艺"
     },
     {
-      "raw_hot": 27155,
-      "num": 27155,
+      "raw_hot": 39110,
+      "num": 39110,
       "word": "他是谁聂宝华反杀",
       "onboard_time": 1679952431,
       "rank": 46,
       "category": "影视"
     },
     {
-      "raw_hot": 23614,
-      "num": 23614,
-      "word": "徐志胜头太大把项链卡住了",
-      "onboard_time": 1679954773,
-      "rank": 41,
-      "category": "综艺"
+      "raw_hot": 34475,
+      "num": 34475,
+      "word": "周笔畅回应转型",
+      "onboard_time": 1679947032,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 22491,

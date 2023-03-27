@@ -1,0 +1,410 @@
+{
+  "runTime": 1679956406787,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 352682,
+        "num": 352682,
+        "word": "千万不要用这个姿势睡觉",
+        "onboard_time": 1679932529,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 229959,
+        "num": 229959,
+        "word": "男子2天喝4顿后死亡起诉店家获赔",
+        "onboard_time": 1679923411,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3137,
+        "num": 193320,
+        "word": "春日里的凡人微光",
+        "onboard_time": 1679879306,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184308,
+        "num": 184308,
+        "word": "中学浴室偷拍事件知情学生发声",
+        "onboard_time": 1679930553,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143100,
+        "num": 143100,
+        "word": "中方愿全部接收洪都拉斯在台留学生",
+        "onboard_time": 1679927194,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138422,
+        "num": 138422,
+        "word": "东南亚国家是否真的不能去了",
+        "onboard_time": 1679943613,
+        "rank": 5,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 137949,
+        "num": 137949,
+        "word": "刘亚仁被麦克风扎脸",
+        "onboard_time": 1679930013,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131206,
+        "num": 131206,
+        "word": "首个国产新冠药停产",
+        "onboard_time": 1679938395,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103414,
+        "num": 103414,
+        "word": "吴磊兑换了杨紫的广告位",
+        "onboard_time": 1679924192,
+        "rank": 8,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 93622,
+        "num": 93622,
+        "word": "深圳暴雨致航班取消旅客跪求起飞",
+        "onboard_time": 1679924071,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400513,
+        "num": 93438,
+        "word": "知名浙商去世儿子继母百亿夺权大战",
+        "onboard_time": 1679923350,
+        "rank": 10,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 277855,
+        "num": 93339,
+        "word": "黄磊孙莉回应多多争议",
+        "onboard_time": 1679912791,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93230,
+        "num": 93230,
+        "word": "洪都拉斯总统要求美国解除60多年封锁",
+        "onboard_time": 1679928755,
+        "rank": 12,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 75541,
+        "num": 75541,
+        "word": "孩子给离世父亲发短信被回复",
+        "onboard_time": 1679918612,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70221,
+        "num": 70221,
+        "word": "微博之夜战报",
+        "onboard_time": 1679925332,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 58319,
+        "num": 58319,
+        "word": "为什么删掉了你喜欢的人",
+        "onboard_time": 1679925393,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 57754,
+        "num": 57754,
+        "word": "女子吃自助餐将店内甲鱼煮食",
+        "onboard_time": 1679910150,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54090,
+        "num": 54090,
+        "word": "刘亦菲的社交圈",
+        "onboard_time": 1679914652,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 53225,
+        "num": 53225,
+        "word": "这居然是阿衰和大脸妹",
+        "onboard_time": 1679920707,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 53150,
+        "num": 53150,
+        "word": "谢娜或将以选手身份参加乘风破浪4",
+        "onboard_time": 1679916571,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51615,
+        "num": 51615,
+        "word": "白敬亭持股公司经营异常",
+        "onboard_time": 1679928153,
+        "rank": 20,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 51365,
+        "num": 51365,
+        "word": "直男并不直男癌",
+        "onboard_time": 1679934084,
+        "rank": 21,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 49857,
+        "num": 49857,
+        "word": "徐汇中学女生进入男浴室不属实",
+        "onboard_time": 1679929053,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46039,
+        "num": 46039,
+        "word": "徐志胜头太大把项链卡住了",
+        "onboard_time": 1679954773,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45683,
+        "num": 45683,
+        "word": "杨颖给邓超拍了什么照片",
+        "onboard_time": 1679915729,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 43177,
+        "num": 43177,
+        "word": "特效换脸与女星演吻戏侵犯名誉权",
+        "onboard_time": 1679923531,
+        "rank": 25,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 42740,
+        "num": 42740,
+        "word": "鹿晗王勉逛街",
+        "onboard_time": 1679919690,
+        "rank": 26,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 42540,
+        "num": 42540,
+        "word": "潘粤明回应白夜追凶2四月开拍",
+        "onboard_time": 1679931390,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 41693,
+        "num": 41693,
+        "word": "淮安未满14岁怀孕医院将强制报告",
+        "onboard_time": 1679907029,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39110,
+        "num": 39110,
+        "word": "他是谁聂宝华反杀",
+        "onboard_time": 1679952431,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 36738,
+        "num": 36738,
+        "word": "黑暗荣耀编剧谈第三季",
+        "onboard_time": 1679921670,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 36273,
+        "num": 36273,
+        "word": "迪丽热巴素色西服",
+        "onboard_time": 1679917829,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 35757,
+        "num": 35757,
+        "word": "裸辞之后会变得更好吗",
+        "onboard_time": 1679931930,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 33732,
+        "num": 33732,
+        "word": "刑侦剧前五三部张译主演",
+        "onboard_time": 1679929595,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 33429,
+        "num": 33429,
+        "word": "乘风破浪4",
+        "onboard_time": 1679915313,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33183,
+        "num": 33183,
+        "word": "Chinese空腹",
+        "onboard_time": 1679929653,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 32788,
+        "num": 32788,
+        "word": "男生抑郁风险略高于女生",
+        "onboard_time": 1679931151,
+        "rank": 36,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 32565,
+        "num": 32565,
+        "word": "新加坡总理李显龙访华",
+        "onboard_time": 1679927432,
+        "rank": 37,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 30307,
+        "num": 30307,
+        "word": "周笔畅回应转型",
+        "onboard_time": 1679947032,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 29580,
+        "num": 29580,
+        "word": "张嘉倪悼念导演麦大杰",
+        "onboard_time": 1679940795,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29438,
+        "num": 29438,
+        "word": "狗狗太热情也不太好",
+        "onboard_time": 1679927254,
+        "rank": 40,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 27735,
+        "num": 27735,
+        "word": "张凌赫对白鹿挑眉",
+        "onboard_time": 1679922510,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 26889,
+        "num": 26889,
+        "word": "刘嘉玲 为我的眼光干杯",
+        "onboard_time": 1679928454,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26117,
+        "num": 26117,
+        "word": "梁友安体检查出巧克力囊肿",
+        "onboard_time": 1679924250,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 26258,
+        "num": 26053,
+        "word": "李现一诺Cat微博之夜合照",
+        "onboard_time": 1679923050,
+        "rank": 44,
+        "category": "作品衍生,游戏"
+      },
+      {
+        "raw_hot": 25942,
+        "num": 25942,
+        "word": "秋瓷炫出发录制浪姐4",
+        "onboard_time": 1679916271,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25465,
+        "num": 25465,
+        "word": "马云已回国",
+        "onboard_time": 1679896593,
+        "rank": 46,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 24948,
+        "num": 24948,
+        "word": "王俊凯喜欢日落的原因",
+        "onboard_time": 1679925512,
+        "rank": 47,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 23336,
+        "num": 23336,
+        "word": "CSGO服务器",
+        "onboard_time": 1679929232,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 23334,
+        "num": 23334,
+        "word": "这个论文真的非写不可吗",
+        "onboard_time": 1679936058,
+        "rank": 49,
+        "category": "幽默,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#命运与共里的总书记用典#"
+    }
+  }
+}
