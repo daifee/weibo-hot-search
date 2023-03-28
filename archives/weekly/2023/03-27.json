@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1679971612147,
+  "endTime": 1679973535966,
   "band_list": [
     {
       "raw_hot": 4718675,
@@ -27,6 +27,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2747528,
+      "num": 2747528,
+      "word": "免费坐高铁",
+      "onboard_time": 1679966129,
+      "rank": 9,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 2701974,
       "num": 2318606,
       "word": "知名浙商去世儿子继母百亿夺权大战",
@@ -49,14 +57,6 @@
       "onboard_time": 1679883989,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2606324,
-      "num": 2606324,
-      "word": "免费坐高铁",
-      "onboard_time": 1679966129,
-      "rank": 9,
-      "category": "旅游"
     },
     {
       "raw_hot": 2510051,
@@ -97,6 +97,14 @@
       "onboard_time": 1679872941,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1937266,
+      "num": 1937266,
+      "word": "瑞幸被吐槽咖啡3口喝完剩下全是冰",
+      "onboard_time": 1679970146,
+      "rank": 5,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 1904271,
@@ -227,14 +235,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 1244303,
-      "num": 1244303,
-      "word": "瑞幸被吐槽咖啡3口喝完剩下全是冰",
-      "onboard_time": 1679970146,
-      "rank": 5,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 1244168,
       "num": 1244168,
       "word": "男子2天喝4顿后死亡起诉店家获赔",
@@ -305,6 +305,14 @@
       "onboard_time": 1679912489,
       "rank": 1,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1020950,
+      "num": 1020950,
+      "word": "青山刚昌",
+      "onboard_time": 1679972429,
+      "rank": 3,
+      "category": "动漫"
     },
     {
       "raw_hot": 1018035,
@@ -579,6 +587,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 605128,
+      "num": 605128,
+      "word": "杨紫长相思落泪22次",
+      "onboard_time": 1679971467,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 605109,
       "num": 605109,
       "word": "山茶花和红玫瑰",
@@ -707,6 +723,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 553237,
+      "num": 553237,
+      "word": "长月烬明",
+      "onboard_time": 1679972607,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 547805,
       "num": 547805,
       "word": "谢娜或将以选手身份参加乘风破浪4",
@@ -795,6 +819,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 484659,
+      "num": 484659,
+      "word": "70.8%上海人只希望有一个孩子",
+      "onboard_time": 1679971887,
+      "rank": 7,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 482743,
       "num": 482743,
       "word": "张杰官宣演唱会周六见面",
@@ -833,14 +865,6 @@
       "onboard_time": 1679882668,
       "rank": 11,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 461968,
-      "num": 461968,
-      "word": "杨紫长相思落泪22次",
-      "onboard_time": 1679971467,
-      "rank": 8,
-      "category": "影视"
     },
     {
       "raw_hot": 455365,
@@ -905,6 +929,14 @@
       "onboard_time": 1679887471,
       "rank": 30,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 423180,
+      "num": 273885,
+      "word": "新裤子",
+      "onboard_time": 1679972238,
+      "rank": 20,
+      "category": "音乐"
     },
     {
       "raw_hot": 421385,
@@ -993,6 +1025,14 @@
       "onboard_time": 1679916271,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 390866,
+      "num": 390866,
+      "word": "EXO见面会完整体海报",
+      "onboard_time": 1679972127,
+      "rank": 9,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 385158,
@@ -1387,6 +1427,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 267762,
+      "num": 1245204,
+      "word": "国家网信办介绍2023年清朗行动有关情况",
+      "onboard_time": 1679971288,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 267602,
       "num": 267602,
       "word": "原来还能这么买免费高铁票",
@@ -1507,6 +1555,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 242670,
+      "num": 242670,
+      "word": "相思令杨颖宋威龙回眸杀",
+      "onboard_time": 1679973330,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 240765,
       "num": 240765,
       "word": "这件玉器3000年前就是古董了",
@@ -1521,6 +1577,14 @@
       "onboard_time": 1679895215,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 239230,
+      "num": 239230,
+      "word": "吴磊水下戏拍到流鼻血",
+      "onboard_time": 1679970627,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 238286,
@@ -1707,20 +1771,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 209478,
-      "num": 209478,
-      "word": "吴磊水下戏拍到流鼻血",
-      "onboard_time": 1679970627,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 208419,
       "num": 208419,
       "word": "谷爱凌说只和自己卷",
       "onboard_time": 1679912189,
       "rank": 44,
       "category": "体育,作品衍生"
+    },
+    {
+      "raw_hot": 208114,
+      "num": 208114,
+      "word": "迪士尼真人版小美人鱼确认引进",
+      "onboard_time": 1679972968,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 207462,
@@ -1881,6 +1945,14 @@
       "onboard_time": 1679824948,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193012,
+      "num": 193012,
+      "word": "德塔文认证彭小苒市场认可度",
+      "onboard_time": 1679972488,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 192864,
@@ -2099,6 +2171,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 173017,
+      "num": 173017,
+      "word": "孙述涛被查",
+      "onboard_time": 1679968949,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172681,
       "num": 172681,
       "word": "一个真想买一个真想卖",
@@ -2131,6 +2211,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 170604,
+      "num": 170604,
+      "word": "大侦探",
+      "onboard_time": 1679973149,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169508,
       "num": 1561289,
       "word": "春日里的凡人微光",
@@ -2152,14 +2240,6 @@
       "word": "学生合唱一开口就是青春的模样",
       "onboard_time": 1679880986,
       "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 161436,
-      "num": 161436,
-      "word": "孙述涛被查",
-      "onboard_time": 1679968949,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -2321,6 +2401,14 @@
       "onboard_time": 1679900069,
       "rank": 36,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 138933,
+      "num": 138933,
+      "word": "4岁男童患罕见病体重仅有8.8斤",
+      "onboard_time": 1679972907,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 138400,
@@ -2571,6 +2659,14 @@
       "category": "幽默,社会新闻"
     },
     {
+      "raw_hot": 110599,
+      "num": 110599,
+      "word": "山河之影今日开播",
+      "onboard_time": 1679973508,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 110280,
       "num": 110280,
       "word": "儿童眼球被戳伤交警狂飙护送就医",
@@ -2583,6 +2679,14 @@
       "num": 110169,
       "word": "这HR是个卧底吧",
       "onboard_time": 1679925031,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 109419,
+      "num": 109419,
+      "word": "笑点低的人连结婚都在笑场",
+      "onboard_time": 1679972066,
       "rank": 48,
       "category": "幽默"
     },
@@ -2913,14 +3017,6 @@
       "onboard_time": 1679836587,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 69019,
-      "num": 1245204,
-      "word": "国家网信办介绍2023年清朗行动有关情况",
-      "onboard_time": 1679971288,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 68212,

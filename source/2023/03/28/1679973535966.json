@@ -1,0 +1,410 @@
+{
+  "runTime": 1679973535966,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2747528,
+        "num": 2747528,
+        "word": "免费坐高铁",
+        "onboard_time": 1679966129,
+        "rank": 0,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 1937266,
+        "num": 1937266,
+        "word": "瑞幸被吐槽咖啡3口喝完剩下全是冰",
+        "onboard_time": 1679970146,
+        "rank": 1,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 267762,
+        "num": 1226605,
+        "word": "国家网信办介绍2023年清朗行动有关情况",
+        "onboard_time": 1679971288,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1020950,
+        "num": 1020950,
+        "word": "青山刚昌",
+        "onboard_time": 1679972429,
+        "rank": 3,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 747409,
+        "num": 747409,
+        "word": "iPhone折旧率仅为安卓一半",
+        "onboard_time": 1679968046,
+        "rank": 4,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 605128,
+        "num": 605128,
+        "word": "杨紫长相思落泪22次",
+        "onboard_time": 1679971467,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 553237,
+        "num": 553237,
+        "word": "长月烬明",
+        "onboard_time": 1679972607,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 484659,
+        "num": 484659,
+        "word": "70.8%上海人只希望有一个孩子",
+        "onboard_time": 1679971887,
+        "rank": 7,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 439752,
+        "num": 439752,
+        "word": "四六级",
+        "onboard_time": 1679967087,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 390866,
+        "num": 390866,
+        "word": "EXO见面会完整体海报",
+        "onboard_time": 1679972127,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1209799,
+        "num": 378257,
+        "word": "拼多多 卡巴斯基",
+        "onboard_time": 1679967027,
+        "rank": 10,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 603376,
+        "num": 376372,
+        "word": "BLACKPINK或将出席白宫晚宴",
+        "onboard_time": 1679970086,
+        "rank": 11,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 365438,
+        "num": 365438,
+        "word": "知名浙商去世儿子继母百亿夺权大战",
+        "onboard_time": 1679923350,
+        "rank": 12,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 319568,
+        "num": 319568,
+        "word": "千万不要用这个姿势睡觉",
+        "onboard_time": 1679932529,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 316200,
+        "num": 316200,
+        "word": "樊振东连续三年世界排名第一",
+        "onboard_time": 1679968768,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 315307,
+        "num": 315307,
+        "word": "谷爱凌被熊猫花花可爱到",
+        "onboard_time": 1679959943,
+        "rank": 15,
+        "category": "作品衍生,体育"
+      },
+      {
+        "raw_hot": 307830,
+        "num": 307830,
+        "word": "黄磊孙莉回应多多争议",
+        "onboard_time": 1679912791,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279236,
+        "num": 279236,
+        "word": "李栋旭九尾狐传1938海报",
+        "onboard_time": 1679969728,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 276754,
+        "num": 276754,
+        "word": "情感漠视 冷暴力",
+        "onboard_time": 1679966307,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 274747,
+        "num": 274747,
+        "word": "中国专家查看丫丫情况",
+        "onboard_time": 1679964992,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423180,
+        "num": 273885,
+        "word": "新裤子",
+        "onboard_time": 1679972238,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 247321,
+        "num": 247321,
+        "word": "龚俊严浩翔聊天",
+        "onboard_time": 1679969487,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242670,
+        "num": 242670,
+        "word": "相思令杨颖宋威龙回眸杀",
+        "onboard_time": 1679973330,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 239230,
+        "num": 239230,
+        "word": "吴磊水下戏拍到流鼻血",
+        "onboard_time": 1679970627,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 208114,
+        "num": 208114,
+        "word": "迪士尼真人版小美人鱼确认引进",
+        "onboard_time": 1679972968,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204363,
+        "num": 204363,
+        "word": "上海每5人中有两个念过大学",
+        "onboard_time": 1679962048,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193012,
+        "num": 193012,
+        "word": "德塔文认证彭小苒市场认可度",
+        "onboard_time": 1679972488,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187940,
+        "num": 187940,
+        "word": "美国一小学发生枪击事件致7人死亡",
+        "onboard_time": 1679962949,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187253,
+        "num": 187253,
+        "word": "中学浴室偷拍事件知情学生发声",
+        "onboard_time": 1679930553,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185813,
+        "num": 185813,
+        "word": "没想到栏杆是用来防明星的",
+        "onboard_time": 1679971226,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 173017,
+        "num": 173017,
+        "word": "孙述涛被查",
+        "onboard_time": 1679968949,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170604,
+        "num": 170604,
+        "word": "大侦探",
+        "onboard_time": 1679973149,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169406,
+        "num": 169406,
+        "word": "小心二次元",
+        "onboard_time": 1679966848,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 167105,
+        "num": 167105,
+        "word": "被室友孤立是什么感受",
+        "onboard_time": 1679964449,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 166267,
+        "num": 166267,
+        "word": "iPhone15将在更多国家销售eSIM版",
+        "onboard_time": 1679964089,
+        "rank": 34,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 154676,
+        "num": 154676,
+        "word": "直男并不直男癌",
+        "onboard_time": 1679934084,
+        "rank": 35,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 148086,
+        "num": 148086,
+        "word": "陈晓谈和李沁张嘉倪合作",
+        "onboard_time": 1679964510,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 145278,
+        "num": 145278,
+        "word": "去有风的地方将上线网飞",
+        "onboard_time": 1679967567,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 142403,
+        "num": 142403,
+        "word": "男子2天喝4顿后死亡起诉店家获赔",
+        "onboard_time": 1679923411,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138933,
+        "num": 138933,
+        "word": "4岁男童患罕见病体重仅有8.8斤",
+        "onboard_time": 1679972907,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138587,
+        "num": 138587,
+        "word": "黄牛的操作能有多离谱",
+        "onboard_time": 1679969907,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137216,
+        "num": 137216,
+        "word": "重庆省考",
+        "onboard_time": 1679966129,
+        "rank": 41,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 123206,
+        "num": 123206,
+        "word": "建议适时修订职工带薪年休假条例",
+        "onboard_time": 1679966070,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121040,
+        "num": 121040,
+        "word": "不要做那个揉纸团的人",
+        "onboard_time": 1679962349,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119875,
+        "num": 119875,
+        "word": "iOS16.4正式版来了",
+        "onboard_time": 1679960785,
+        "rank": 44,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 112311,
+        "num": 112311,
+        "word": "动物派对美国评级信息公布",
+        "onboard_time": 1679970509,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 111573,
+        "num": 111573,
+        "word": "台湾清明节后鸭蛋将大缺",
+        "onboard_time": 1679963970,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110599,
+        "num": 110599,
+        "word": "山河之影今日开播",
+        "onboard_time": 1679973508,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 109419,
+        "num": 109419,
+        "word": "笑点低的人连结婚都在笑场",
+        "onboard_time": 1679972066,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108560,
+        "num": 108560,
+        "word": "杭州地铁现打工人专线",
+        "onboard_time": 1679965230,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#看中国经济活力与机遇#"
+    }
+  }
+}
