@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1680022234432,
+  "endTime": 1680023835986,
   "band_list": [
     {
       "raw_hot": 4718675,
@@ -1035,6 +1035,14 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 575147,
+      "num": 575147,
+      "word": "王子文说不能接受伴侣看自己手机",
+      "onboard_time": 1680021681,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 571693,
       "num": 571693,
       "word": "河道英不离开妍珍的理由",
@@ -1689,14 +1697,6 @@
       "onboard_time": 1679968768,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 369365,
-      "num": 369365,
-      "word": "王子文说不能接受伴侣看自己手机",
-      "onboard_time": 1680021681,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 368343,
@@ -2747,6 +2747,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 207122,
+      "num": 207122,
+      "word": "铃芽是恋爱脑吗",
+      "onboard_time": 1680021741,
+      "rank": 13,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 206548,
       "num": 206548,
       "word": "一文速览2023清朗行动发布会要点",
@@ -3297,14 +3305,6 @@
       "onboard_time": 1679984365,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 176098,
-      "num": 176098,
-      "word": "铃芽是恋爱脑吗",
-      "onboard_time": 1680021741,
-      "rank": 13,
-      "category": "影视,动漫"
     },
     {
       "raw_hot": 175702,
@@ -4563,20 +4563,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 74193,
+      "num": 74193,
+      "word": "金泰亨男友风造型",
+      "onboard_time": 1680019525,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 71822,
       "num": 71822,
       "word": "原来植物人是会动的",
       "onboard_time": 1680014131,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 71477,
-      "num": 71477,
-      "word": "金泰亨男友风造型",
-      "onboard_time": 1680019525,
-      "rank": 37,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 68212,
@@ -4641,6 +4641,14 @@
       "onboard_time": 1679873601,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 51454,
+      "num": 51454,
+      "word": "徐璐魔法女巫造型",
+      "onboard_time": 1680019406,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 50135,

@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1680022234432,
+  "endTime": 1680023835986,
   "band_list": [
     {
       "raw_hot": 27113842,
@@ -15115,6 +15115,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 575147,
+      "num": 575147,
+      "word": "王子文说不能接受伴侣看自己手机",
+      "onboard_time": 1680021681,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 574814,
       "num": 426986,
       "word": "肖战托腮",
@@ -24113,14 +24121,6 @@
       "onboard_time": 1678359688,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 369365,
-      "num": 369365,
-      "word": "王子文说不能接受伴侣看自己手机",
-      "onboard_time": 1680021681,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 369300,
@@ -37683,6 +37683,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 207122,
+      "num": 207122,
+      "word": "铃芽是恋爱脑吗",
+      "onboard_time": 1680021741,
+      "rank": 13,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 207009,
       "num": 743047,
       "word": "直播宪法宣誓",
@@ -44097,14 +44105,6 @@
       "onboard_time": 1679114310,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 176098,
-      "num": 176098,
-      "word": "铃芽是恋爱脑吗",
-      "onboard_time": 1680021741,
-      "rank": 13,
-      "category": "影视,动漫"
     },
     {
       "raw_hot": 176034,
@@ -56219,6 +56219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 74193,
+      "num": 74193,
+      "word": "金泰亨男友风造型",
+      "onboard_time": 1680019525,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 73916,
       "num": 73916,
       "word": "小朋友用纸片做了个海洋馆",
@@ -56305,14 +56313,6 @@
       "onboard_time": 1680014131,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 71477,
-      "num": 71477,
-      "word": "金泰亨男友风造型",
-      "onboard_time": 1680019525,
-      "rank": 37,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 71417,
@@ -56961,6 +56961,14 @@
       "onboard_time": 1679181978,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 51454,
+      "num": 51454,
+      "word": "徐璐魔法女巫造型",
+      "onboard_time": 1680019406,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 51445,
