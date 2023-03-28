@@ -1,0 +1,410 @@
+{
+  "runTime": 1679998809632,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1949079,
+        "num": 1949079,
+        "word": "现在的你敢失业吗",
+        "onboard_time": 1679994028,
+        "rank": 0,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 1220615,
+        "num": 1220615,
+        "word": "葛优打葛优躺官司获赔759万",
+        "onboard_time": 1679993668,
+        "rank": 1,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 30291,
+        "num": 936696,
+        "word": "国家网信办介绍2023年清朗行动有关情况",
+        "onboard_time": 1679971288,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 832165,
+        "num": 832165,
+        "word": "韩流演唱会或于下半年重返内地",
+        "onboard_time": 1679994147,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 700592,
+        "num": 700592,
+        "word": "重庆姐弟坠亡案二审暂定4月3日开庭",
+        "onboard_time": 1679990968,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 581533,
+        "num": 581533,
+        "word": "适合30岁以上的工作找到了",
+        "onboard_time": 1679986107,
+        "rank": 5,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 504965,
+        "num": 504965,
+        "word": "唐嫣说大家还记得何以笙箫默非常感激",
+        "onboard_time": 1679989228,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 481606,
+        "num": 481606,
+        "word": "白羊容易上头但下头更快",
+        "onboard_time": 1679992468,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 418044,
+        "num": 418044,
+        "word": "张颖颖主演新剧海报",
+        "onboard_time": 1679998168,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 401320,
+        "num": 401320,
+        "word": "中国科学家发现月球水库",
+        "onboard_time": 1679993848,
+        "rank": 9,
+        "category": "科技,国内要闻"
+      },
+      {
+        "raw_hot": 1271603,
+        "num": 401078,
+        "word": "张颂文 海澜之家官宣图",
+        "onboard_time": 1679996426,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 895607,
+        "num": 400303,
+        "word": "女子地铁照被AI一键脱衣传播",
+        "onboard_time": 1679987007,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 883466,
+        "num": 399509,
+        "word": "刘浩存工作室发文没整容",
+        "onboard_time": 1679997990,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 642777,
+        "num": 398905,
+        "word": "内娱仪态教科书",
+        "onboard_time": 1679993428,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 44513,
+        "num": 397654,
+        "word": "油敏皮别再作了",
+        "onboard_time": 1679997627,
+        "rank": 14,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 477682,
+        "num": 396977,
+        "word": "周觅还在司马",
+        "onboard_time": 1679994207,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 396638,
+        "num": 396638,
+        "word": "章鱼拿铁",
+        "onboard_time": 1679995349,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 395557,
+        "num": 395557,
+        "word": "ChatGPT替代不了水瓶射手双子",
+        "onboard_time": 1679985088,
+        "rank": 17,
+        "category": "幽默,科技"
+      },
+      {
+        "raw_hot": 391927,
+        "num": 391927,
+        "word": "长月烬明播出时间",
+        "onboard_time": 1679990309,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 359447,
+        "num": 359447,
+        "word": "北京环球影城威震天摔倒",
+        "onboard_time": 1679997149,
+        "rank": 19,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 326944,
+        "num": 326944,
+        "word": "乌合麒麟 丛林之隙",
+        "onboard_time": 1679984788,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320540,
+        "num": 320540,
+        "word": "顾客疑因不满发型被理发师杀害",
+        "onboard_time": 1679986286,
+        "rank": 21,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 301848,
+        "num": 301848,
+        "word": "阿里设立六大业务集团",
+        "onboard_time": 1679998168,
+        "rank": 22,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 260538,
+        "num": 260538,
+        "word": "练胸的和练腿的都沉默了",
+        "onboard_time": 1679993366,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 248428,
+        "num": 248428,
+        "word": "你懒 就没有作品",
+        "onboard_time": 1679977413,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 247814,
+        "num": 247814,
+        "word": "中国哪个小县城名字最好听",
+        "onboard_time": 1679982808,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 241415,
+        "num": 241415,
+        "word": "向中国泼脏水我们绝不接受",
+        "onboard_time": 1679996367,
+        "rank": 26,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 240322,
+        "num": 240322,
+        "word": "限定团告别演唱会的最后一首歌",
+        "onboard_time": 1679996129,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 224010,
+        "num": 224010,
+        "word": "葡萄牛乳茶",
+        "onboard_time": 1679993792,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 209684,
+        "num": 209684,
+        "word": "于正说张云龙孙怡长在他审美上",
+        "onboard_time": 1679993366,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199429,
+        "num": 199429,
+        "word": "连官方都看不下去了",
+        "onboard_time": 1679996665,
+        "rank": 30,
+        "category": "幽默,科技"
+      },
+      {
+        "raw_hot": 191419,
+        "num": 191419,
+        "word": "什么是巧克力囊肿",
+        "onboard_time": 1679986886,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 84488,
+        "num": 188694,
+        "word": "哪些幸福是有车以后才懂",
+        "onboard_time": 1679997867,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 187668,
+        "num": 187668,
+        "word": "范丞丞被叫丞丞哥哥的反应",
+        "onboard_time": 1679993127,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 158644,
+        "num": 158644,
+        "word": "社会的边角料 妈妈的小骄傲",
+        "onboard_time": 1679986527,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157666,
+        "num": 157666,
+        "word": "白鹿黑色挂脖长裙随拍",
+        "onboard_time": 1679993248,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150136,
+        "num": 150136,
+        "word": "揭开上海杀妻藏尸案背后不为人知的事",
+        "onboard_time": 1679980828,
+        "rank": 36,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 149833,
+        "num": 149833,
+        "word": "女生同情老人买5西瓜切开发现全坏",
+        "onboard_time": 1679982088,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137220,
+        "num": 137220,
+        "word": "宋三川为梁友安羽转网",
+        "onboard_time": 1679997928,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 135973,
+        "num": 135973,
+        "word": "爱思爱梦",
+        "onboard_time": 1679989407,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129302,
+        "num": 129302,
+        "word": "iPhone13成2022年中国最畅销手机",
+        "onboard_time": 1679978372,
+        "rank": 40,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 125795,
+        "num": 125795,
+        "word": "苏醒加盟跑男",
+        "onboard_time": 1679977529,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125289,
+        "num": 125289,
+        "word": "AI男友女友生成器",
+        "onboard_time": 1679993550,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122878,
+        "num": 122878,
+        "word": "警方回应理发师持刀杀害顾客",
+        "onboard_time": 1679992468,
+        "rank": 43,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 118061,
+        "num": 118061,
+        "word": "王者曜的调整方案",
+        "onboard_time": 1679993848,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 117482,
+        "num": 117482,
+        "word": "男子求职被要求在杭州本地买房",
+        "onboard_time": 1679995107,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109461,
+        "num": 109461,
+        "word": "金赫拉晒李莎拉崔惠廷合照",
+        "onboard_time": 1679994326,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 103852,
+        "num": 103852,
+        "word": "杨天真爱情而已观后感",
+        "onboard_time": 1679996307,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 101671,
+        "num": 101671,
+        "word": "TVB艺人为直播集体苦练普通话",
+        "onboard_time": 1679983229,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97730,
+        "num": 97730,
+        "word": "阿黛尔无限期中止职业生涯",
+        "onboard_time": 1679983349,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#2023年清朗专项行动#"
+    }
+  }
+}

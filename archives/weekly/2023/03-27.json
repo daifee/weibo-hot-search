@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1679996037319,
+  "endTime": 1679998809632,
   "band_list": [
     {
       "raw_hot": 4718675,
@@ -105,6 +105,14 @@
       "onboard_time": 1679970146,
       "rank": 5,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 1949079,
+      "num": 1949079,
+      "word": "现在的你敢失业吗",
+      "onboard_time": 1679994028,
+      "rank": 18,
+      "category": "社会议题"
     },
     {
       "raw_hot": 1947401,
@@ -267,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1271603,
+      "num": 401078,
+      "word": "张颂文 海澜之家官宣图",
+      "onboard_time": 1679996426,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1254355,
       "num": 588678,
       "word": "截图癖",
@@ -289,6 +305,14 @@
       "onboard_time": 1679923411,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1220615,
+      "num": 1220615,
+      "word": "葛优打葛优躺官司获赔759万",
+      "onboard_time": 1679993668,
+      "rank": 6,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1172548,
@@ -459,14 +483,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 949147,
-      "num": 949147,
-      "word": "葛优打葛优躺官司获赔759万",
-      "onboard_time": 1679993668,
-      "rank": 6,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 942427,
       "num": 942427,
       "word": "iPhone折旧率仅为安卓一半",
@@ -529,6 +545,14 @@
       "onboard_time": 1679897850,
       "rank": 7,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 883466,
+      "num": 399509,
+      "word": "刘浩存工作室发文没整容",
+      "onboard_time": 1679997990,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 881746,
@@ -787,14 +811,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 600447,
-      "num": 600447,
-      "word": "现在的你敢失业吗",
-      "onboard_time": 1679994028,
-      "rank": 18,
-      "category": "社会议题"
-    },
-    {
       "raw_hot": 598451,
       "num": 598451,
       "word": "王心凌最受不了别人叫她不要熬夜",
@@ -924,7 +940,7 @@
     },
     {
       "raw_hot": 557768,
-      "num": 396374,
+      "num": 396977,
       "word": "周觅还在司马",
       "onboard_time": 1679994207,
       "rank": 14,
@@ -948,7 +964,7 @@
     },
     {
       "raw_hot": 540171,
-      "num": 236994,
+      "num": 247814,
       "word": "中国哪个小县城名字最好听",
       "onboard_time": 1679982808,
       "rank": 22,
@@ -1057,6 +1073,14 @@
       "onboard_time": 1679914951,
       "rank": 6,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 481606,
+      "num": 481606,
+      "word": "白羊容易上头但下头更快",
+      "onboard_time": 1679992468,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 477823,
@@ -1211,14 +1235,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 424216,
-      "num": 424216,
-      "word": "白羊容易上头但下头更快",
-      "onboard_time": 1679992468,
-      "rank": 25,
-      "category": "情感"
-    },
-    {
       "raw_hot": 421385,
       "num": 421385,
       "word": "普京称全球北约类似二战时建立的轴心国",
@@ -1233,6 +1249,14 @@
       "onboard_time": 1679973928,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 418044,
+      "num": 418044,
+      "word": "张颖颖主演新剧海报",
+      "onboard_time": 1679998168,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 414925,
@@ -1299,6 +1323,14 @@
       "category": "作品衍生,艺人"
     },
     {
+      "raw_hot": 401320,
+      "num": 401320,
+      "word": "中国科学家发现月球水库",
+      "onboard_time": 1679993848,
+      "rank": 36,
+      "category": "科技,国内要闻"
+    },
+    {
       "raw_hot": 398808,
       "num": 398808,
       "word": "肖战杨紫互相谦让",
@@ -1321,6 +1353,14 @@
       "onboard_time": 1679835387,
       "rank": 9,
       "category": "科技"
+    },
+    {
+      "raw_hot": 396638,
+      "num": 396638,
+      "word": "章鱼拿铁",
+      "onboard_time": 1679995349,
+      "rank": 37,
+      "category": "美食"
     },
     {
       "raw_hot": 396450,
@@ -1433,6 +1473,14 @@
       "onboard_time": 1679847143,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 359447,
+      "num": 359447,
+      "word": "北京环球影城威震天摔倒",
+      "onboard_time": 1679997149,
+      "rank": 19,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 353202,
@@ -1667,6 +1715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 301848,
+      "num": 301848,
+      "word": "阿里设立六大业务集团",
+      "onboard_time": 1679998168,
+      "rank": 22,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 299629,
       "num": 299629,
       "word": "徐汇中学通报网传事件",
@@ -1796,7 +1852,7 @@
     },
     {
       "raw_hot": 279274,
-      "num": 236340,
+      "num": 260538,
       "word": "练胸的和练腿的都沉默了",
       "onboard_time": 1679993366,
       "rank": 23,
@@ -2027,12 +2083,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 241415,
+      "num": 241415,
+      "word": "向中国泼脏水我们绝不接受",
+      "onboard_time": 1679996367,
+      "rank": 26,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 240765,
       "num": 240765,
       "word": "这件玉器3000年前就是古董了",
       "onboard_time": 1679882308,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 240322,
+      "num": 240322,
+      "word": "限定团告别演唱会的最后一首歌",
+      "onboard_time": 1679996129,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 239517,
@@ -2065,14 +2137,6 @@
       "onboard_time": 1679977109,
       "rank": 27,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 237563,
-      "num": 237563,
-      "word": "中国科学家发现月球水库",
-      "onboard_time": 1679993848,
-      "rank": 36,
-      "category": "科技,国内要闻"
     },
     {
       "raw_hot": 235379,
@@ -2409,6 +2473,14 @@
       "onboard_time": 1679924071,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 199429,
+      "num": 199429,
+      "word": "连官方都看不下去了",
+      "onboard_time": 1679996665,
+      "rank": 30,
+      "category": "幽默,科技"
     },
     {
       "raw_hot": 198472,
@@ -2995,14 +3067,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 152966,
-      "num": 152966,
-      "word": "章鱼拿铁",
-      "onboard_time": 1679995349,
-      "rank": 37,
-      "category": "美食"
-    },
-    {
       "raw_hot": 152879,
       "num": 152879,
       "word": "Scout获得周MVP",
@@ -3193,6 +3257,14 @@
       "onboard_time": 1679967208,
       "rank": 41,
       "category": "教育"
+    },
+    {
+      "raw_hot": 137220,
+      "num": 137220,
+      "word": "宋三川为梁友安羽转网",
+      "onboard_time": 1679997928,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 134788,
@@ -3531,6 +3603,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 103852,
+      "num": 103852,
+      "word": "杨天真爱情而已观后感",
+      "onboard_time": 1679996307,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 103363,
       "num": 92065,
       "word": "电影保你平安票房破5亿",
@@ -3723,6 +3803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 84488,
+      "num": 188694,
+      "word": "哪些幸福是有车以后才懂",
+      "onboard_time": 1679997867,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 83614,
       "num": 83614,
       "word": "西湖摇橹船的意境感绝了",
@@ -3873,6 +3961,14 @@
       "onboard_time": 1679893238,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 44513,
+      "num": 397654,
+      "word": "油敏皮别再作了",
+      "onboard_time": 1679997627,
+      "rank": 14,
+      "category": "美妆"
     },
     {
       "raw_hot": 39572,
