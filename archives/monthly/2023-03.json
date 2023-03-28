@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1680007018140,
+  "endTime": 1680008071147,
   "band_list": [
     {
       "raw_hot": 27113842,
@@ -8147,6 +8147,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 895673,
+      "num": 895673,
+      "word": "红米",
+      "onboard_time": 1680005307,
+      "rank": 4,
+      "category": "科技"
+    },
+    {
       "raw_hot": 894582,
       "num": 894582,
       "word": "关于国务院机构改革方案的说明",
@@ -9219,6 +9227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 830050,
+      "num": 830050,
+      "word": "和黄晓明玩滑板的是路人",
+      "onboard_time": 1680002548,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 829208,
       "num": 247621,
       "word": "小红书崩了",
@@ -10251,14 +10267,6 @@
       "category": "科技,财经"
     },
     {
-      "raw_hot": 768799,
-      "num": 768799,
-      "word": "和黄晓明玩滑板的是路人",
-      "onboard_time": 1680002548,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 768414,
       "num": 205693,
       "word": "台军因蛋荒将改喝豆奶",
@@ -10377,14 +10385,6 @@
       "onboard_time": 1678866388,
       "rank": 7,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 761650,
-      "num": 761650,
-      "word": "红米",
-      "onboard_time": 1680005307,
-      "rank": 4,
-      "category": "科技"
     },
     {
       "raw_hot": 761281,
@@ -11652,7 +11652,7 @@
     },
     {
       "raw_hot": 699191,
-      "num": 349873,
+      "num": 398884,
       "word": "肖战坐姿仪态",
       "onboard_time": 1680000871,
       "rank": 13,
@@ -19251,6 +19251,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 468153,
+      "num": 468153,
+      "word": "跑男成都",
+      "onboard_time": 1680003148,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 467116,
       "num": 467116,
       "word": "莲花坐垫",
@@ -20449,14 +20457,6 @@
       "onboard_time": 1677739405,
       "rank": 16,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 438959,
-      "num": 438959,
-      "word": "跑男成都",
-      "onboard_time": 1680003148,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 438824,
@@ -24721,6 +24721,14 @@
       "onboard_time": 1678258705,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 356619,
+      "num": 356619,
+      "word": "白敬亭拼接毛衣造型",
+      "onboard_time": 1680006027,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 356408,
@@ -29259,6 +29267,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 290171,
+      "num": 290171,
+      "word": "李雪琴送徐志胜色盲眼镜",
+      "onboard_time": 1680006027,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 290165,
       "num": 678384,
       "word": "归路",
@@ -32651,6 +32667,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 248788,
+      "num": 248788,
+      "word": "肠胃瞬间通畅了",
+      "onboard_time": 1680005728,
+      "rank": 23,
+      "category": "其它"
+    },
+    {
       "raw_hot": 248715,
       "num": 248715,
       "word": "你好星期六cp大乱炖",
@@ -33233,6 +33257,14 @@
       "onboard_time": 1677935846,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 242792,
+      "num": 242792,
+      "word": "这是腰腹赘肉杀手吧",
+      "onboard_time": 1680006446,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 242755,
@@ -34171,14 +34203,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 232689,
-      "num": 232689,
-      "word": "李雪琴送徐志胜色盲眼镜",
-      "onboard_time": 1680006027,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 232626,
       "num": 232626,
       "word": "毒舌律师最后一个镜头后劲好大",
@@ -34483,14 +34507,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 229891,
-      "num": 229891,
-      "word": "白敬亭拼接毛衣造型",
-      "onboard_time": 1680006027,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 229851,
       "num": 229851,
       "word": "杨英豪淘汰",
@@ -34593,6 +34609,14 @@
       "onboard_time": 1679965350,
       "rank": 26,
       "category": "科技"
+    },
+    {
+      "raw_hot": 229052,
+      "num": 229052,
+      "word": "孟子义白玫瑰造型路透",
+      "onboard_time": 1680003388,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 229044,
@@ -36625,14 +36649,6 @@
       "onboard_time": 1678950808,
       "rank": 44,
       "category": "财经"
-    },
-    {
-      "raw_hot": 212811,
-      "num": 212811,
-      "word": "肠胃瞬间通畅了",
-      "onboard_time": 1680005728,
-      "rank": 23,
-      "category": "其它"
     },
     {
       "raw_hot": 212759,
@@ -41995,6 +42011,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 187941,
+      "num": 187941,
+      "word": "律师称逆权侵占属于小概率事件",
+      "onboard_time": 1680007407,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187928,
       "num": 187928,
       "word": "宋亚轩首支个人单曲上线战报",
@@ -42763,14 +42787,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 183819,
-      "num": 183819,
-      "word": "孟子义白玫瑰造型路透",
-      "onboard_time": 1680003388,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 183784,
       "num": 183784,
       "word": "刷到这条的会计人有福了",
@@ -42849,6 +42865,14 @@
       "onboard_time": 1679562025,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 182624,
+      "num": 182624,
+      "word": "半熟恋人2",
+      "onboard_time": 1680007887,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 182550,
@@ -48307,6 +48331,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 143866,
+      "num": 143866,
+      "word": "藏药令",
+      "onboard_time": 1680003506,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 143799,
       "num": 143799,
       "word": "手把手教你办铁路临时乘车身份证明",
@@ -48425,14 +48457,6 @@
       "onboard_time": 1679215468,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 142876,
-      "num": 142876,
-      "word": "藏药令",
-      "onboard_time": 1680003506,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 142855,
@@ -51139,14 +51163,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 124779,
-      "num": 124779,
-      "word": "这是腰腹赘肉杀手吧",
-      "onboard_time": 1680006446,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 124774,
       "num": 124774,
       "word": "男子求职被要求在杭州本地买房",
@@ -51745,6 +51761,14 @@
       "onboard_time": 1679822726,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 120030,
+      "num": 120030,
+      "word": "五星伴月",
+      "onboard_time": 1680006686,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 119947,
@@ -53977,14 +54001,6 @@
       "onboard_time": 1679639850,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 101084,
-      "num": 105020,
-      "word": "五星伴月",
-      "onboard_time": 1680006686,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 100998,

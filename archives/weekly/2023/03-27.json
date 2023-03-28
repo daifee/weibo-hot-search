@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1680007018140,
+  "endTime": 1680008071147,
   "band_list": [
     {
       "raw_hot": 4718675,
@@ -563,6 +563,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 895673,
+      "num": 895673,
+      "word": "红米",
+      "onboard_time": 1680005307,
+      "rank": 4,
+      "category": "科技"
+    },
+    {
       "raw_hot": 893122,
       "num": 422587,
       "word": "张元英高马尾",
@@ -635,6 +643,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 830050,
+      "num": 830050,
+      "word": "和黄晓明玩滑板的是路人",
+      "onboard_time": 1680002548,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 828009,
       "num": 828009,
       "word": "刘诗诗回应天选古代人",
@@ -665,22 +681,6 @@
       "onboard_time": 1679910150,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 768799,
-      "num": 768799,
-      "word": "和黄晓明玩滑板的是路人",
-      "onboard_time": 1680002548,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 761650,
-      "num": 761650,
-      "word": "红米",
-      "onboard_time": 1680005307,
-      "rank": 4,
-      "category": "科技"
     },
     {
       "raw_hot": 758059,
@@ -748,7 +748,7 @@
     },
     {
       "raw_hot": 699191,
-      "num": 349873,
+      "num": 398884,
       "word": "肖战坐姿仪态",
       "onboard_time": 1680000871,
       "rank": 13,
@@ -1203,6 +1203,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 468153,
+      "num": 468153,
+      "word": "跑男成都",
+      "onboard_time": 1680003148,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 465178,
       "num": 380031,
       "word": "田曦薇撞脸史迪仔",
@@ -1297,14 +1305,6 @@
       "onboard_time": 1679915850,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 438959,
-      "num": 438959,
-      "word": "跑男成都",
-      "onboard_time": 1680003148,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 435537,
@@ -1576,6 +1576,14 @@
       "word": "唐艺昕白裙",
       "onboard_time": 1679847143,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 356619,
+      "num": 356619,
+      "word": "白敬亭拼接毛衣造型",
+      "onboard_time": 1680006027,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -1875,6 +1883,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 290171,
+      "num": 290171,
+      "word": "李雪琴送徐志胜色盲眼镜",
+      "onboard_time": 1680006027,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 289759,
       "num": 289759,
       "word": "高圆圆骑车",
@@ -2163,6 +2179,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 248788,
+      "num": 248788,
+      "word": "肠胃瞬间通畅了",
+      "onboard_time": 1680005728,
+      "rank": 23,
+      "category": "其它"
+    },
+    {
       "raw_hot": 247589,
       "num": 247589,
       "word": "他是谁18集全是眼泪",
@@ -2193,6 +2217,14 @@
       "onboard_time": 1679883690,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 242792,
+      "num": 242792,
+      "word": "这是腰腹赘肉杀手吧",
+      "onboard_time": 1680006446,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 240765,
@@ -2251,14 +2283,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 232689,
-      "num": 232689,
-      "word": "李雪琴送徐志胜色盲眼镜",
-      "onboard_time": 1680006027,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 230664,
       "num": 230664,
       "word": "这婚礼算是相当炸裂了",
@@ -2275,20 +2299,20 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 229891,
-      "num": 229891,
-      "word": "白敬亭拼接毛衣造型",
-      "onboard_time": 1680006027,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 229327,
       "num": 229327,
       "word": "库克",
       "onboard_time": 1679965350,
       "rank": 26,
       "category": "科技"
+    },
+    {
+      "raw_hot": 229052,
+      "num": 229052,
+      "word": "孟子义白玫瑰造型路透",
+      "onboard_time": 1680003388,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 229012,
@@ -2417,14 +2441,6 @@
       "onboard_time": 1679924312,
       "rank": 36,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 212811,
-      "num": 212811,
-      "word": "肠胃瞬间通畅了",
-      "onboard_time": 1680005728,
-      "rank": 23,
-      "category": "其它"
     },
     {
       "raw_hot": 211176,
@@ -2795,6 +2811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187941,
+      "num": 187941,
+      "word": "律师称逆权侵占属于小概率事件",
+      "onboard_time": 1680007407,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187304,
       "num": 187304,
       "word": "日媒称一日本男子在北京被捕",
@@ -2851,11 +2875,11 @@
       "category": "科技"
     },
     {
-      "raw_hot": 183819,
-      "num": 183819,
-      "word": "孟子义白玫瑰造型路透",
-      "onboard_time": 1680003388,
-      "rank": 30,
+      "raw_hot": 182624,
+      "num": 182624,
+      "word": "半熟恋人2",
+      "onboard_time": 1680007887,
+      "rank": 32,
       "category": "综艺"
     },
     {
@@ -3323,6 +3347,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 143866,
+      "num": 143866,
+      "word": "藏药令",
+      "onboard_time": 1680003506,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 143694,
       "num": 143694,
       "word": "美术生又多了一个就业方向",
@@ -3337,14 +3369,6 @@
       "onboard_time": 1679874382,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 142876,
-      "num": 142876,
-      "word": "藏药令",
-      "onboard_time": 1680003506,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 141998,
@@ -3579,14 +3603,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 124779,
-      "num": 124779,
-      "word": "这是腰腹赘肉杀手吧",
-      "onboard_time": 1680006446,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 124774,
       "num": 124774,
       "word": "男子求职被要求在杭州本地买房",
@@ -3649,6 +3665,14 @@
       "onboard_time": 1680002669,
       "rank": 44,
       "category": "其它"
+    },
+    {
+      "raw_hot": 120030,
+      "num": 120030,
+      "word": "五星伴月",
+      "onboard_time": 1680006686,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 119517,
@@ -3897,14 +3921,6 @@
       "onboard_time": 1679873722,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 101084,
-      "num": 105020,
-      "word": "五星伴月",
-      "onboard_time": 1680006686,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 100994,
