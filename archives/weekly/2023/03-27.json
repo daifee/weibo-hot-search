@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1680042798799,
+  "endTime": 1680045444082,
   "band_list": [
     {
       "raw_hot": 4718675,
@@ -731,6 +731,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 767011,
+      "num": 767011,
+      "word": "王子文说不能接受伴侣看自己手机",
+      "onboard_time": 1680021681,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 758059,
       "num": 489154,
       "word": "孙坚晒约唐嫣喝咖啡vlog",
@@ -1033,14 +1041,6 @@
       "onboard_time": 1679919690,
       "rank": 11,
       "category": "艺人,综艺"
-    },
-    {
-      "raw_hot": 575147,
-      "num": 575147,
-      "word": "王子文说不能接受伴侣看自己手机",
-      "onboard_time": 1680021681,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 571693,
@@ -2371,6 +2371,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 250848,
+      "num": 250848,
+      "word": "万亩树木被煤矿断水面临枯死",
+      "onboard_time": 1680016109,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 248788,
       "num": 248788,
       "word": "肠胃瞬间通畅了",
@@ -2947,14 +2955,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 195791,
-      "num": 195791,
-      "word": "万亩树木被煤矿断水面临枯死",
-      "onboard_time": 1680016109,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 195153,
       "num": 170088,
       "word": "警方回应理发师持刀杀害顾客",
@@ -3233,6 +3233,14 @@
       "onboard_time": 1679981129,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178143,
+      "num": 178143,
+      "word": "卫国平找到赵世杰犯案证据",
+      "onboard_time": 1680044477,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 178064,
@@ -4155,6 +4163,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 110031,
+      "num": 110031,
+      "word": "原来植物人是会动的",
+      "onboard_time": 1680014131,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 109280,
       "num": 109280,
       "word": "这个论文真的非写不可吗",
@@ -4443,6 +4459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 87518,
+      "num": 87518,
+      "word": "谁家大熊猫这么粘人啊",
+      "onboard_time": 1680036311,
+      "rank": 29,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 85662,
       "num": 85662,
       "word": "铃芽之旅成2023引进片票房冠军",
@@ -4531,6 +4555,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 75192,
+      "num": 75192,
+      "word": "不同薪资员工对工作的态度",
+      "onboard_time": 1680018026,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 75157,
       "num": 294009,
       "word": "Note12 Turbo性能狂飙",
@@ -4569,14 +4601,6 @@
       "onboard_time": 1680019525,
       "rank": 37,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 71822,
-      "num": 71822,
-      "word": "原来植物人是会动的",
-      "onboard_time": 1680014131,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 68212,
@@ -4651,14 +4675,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 50443,
-      "num": 42095,
-      "word": "谁家大熊猫这么粘人啊",
-      "onboard_time": 1680036311,
-      "rank": 29,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 50135,
       "num": 311164,
       "word": "车型销量能够说明什么",
@@ -4673,14 +4689,6 @@
       "onboard_time": 1679893238,
       "rank": 14,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 44405,
-      "num": 58087,
-      "word": "不同薪资员工对工作的态度",
-      "onboard_time": 1680018026,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 40580,
@@ -4707,16 +4715,16 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 29380,
-      "num": 29380,
+      "raw_hot": 38173,
+      "num": 38173,
       "word": "苦难是不应该被拿来比较的",
       "onboard_time": 1680033912,
       "rank": 48,
       "category": "情感"
     },
     {
-      "raw_hot": 24633,
-      "num": 24633,
+      "raw_hot": 30726,
+      "num": 34222,
       "word": "微博之夜百花齐放",
       "onboard_time": 1679739121,
       "rank": 41,

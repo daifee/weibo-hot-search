@@ -1,6 +1,6 @@
 {
   "startTime": 1680022234432,
-  "endTime": 1680042798799,
+  "endTime": 1680045444082,
   "band_list": [
     {
       "raw_hot": 1437681,
@@ -11,12 +11,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1379663,
-      "num": 1379663,
+      "raw_hot": 1397759,
+      "num": 1397759,
       "word": "酒店不允许成年子女和父母住一个标间",
       "onboard_time": 1680014548,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 767011,
+      "num": 767011,
+      "word": "王子文说不能接受伴侣看自己手机",
+      "onboard_time": 1680021681,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 757785,
@@ -35,14 +43,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 575147,
-      "num": 575147,
-      "word": "王子文说不能接受伴侣看自己手机",
-      "onboard_time": 1680021681,
-      "rank": 5,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 448399,
       "num": 144148,
       "word": "黑马情侣 两人权力的转移",
@@ -51,20 +51,28 @@
       "category": "网红,情感"
     },
     {
-      "raw_hot": 348593,
-      "num": 348593,
+      "raw_hot": 377798,
+      "num": 377798,
       "word": "突然胸痛的原因找到了",
       "onboard_time": 1680012750,
       "rank": 6,
       "category": "幽默"
     },
     {
-      "raw_hot": 268849,
-      "num": 268849,
+      "raw_hot": 284737,
+      "num": 284737,
       "word": "被穷养长大的孩子是怎样的",
       "onboard_time": 1680001468,
       "rank": 7,
       "category": "情感"
+    },
+    {
+      "raw_hot": 250848,
+      "num": 250848,
+      "word": "万亩树木被煤矿断水面临枯死",
+      "onboard_time": 1680016109,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 211144,
@@ -99,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 195396,
+      "num": 195396,
+      "word": "和黄晓明玩滑板的是路人",
+      "onboard_time": 1680002548,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 190041,
       "num": 190041,
       "word": "张兰被曝拖欠前运营90万元工资",
@@ -107,12 +123,12 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 187182,
-      "num": 187182,
-      "word": "和黄晓明玩滑板的是路人",
-      "onboard_time": 1680002548,
-      "rank": 12,
-      "category": "综艺"
+      "raw_hot": 178143,
+      "num": 178143,
+      "word": "卫国平找到赵世杰犯案证据",
+      "onboard_time": 1680044477,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 177432,
@@ -171,6 +187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 163558,
+      "num": 163558,
+      "word": "北京环球影城威震天摔倒",
+      "onboard_time": 1679997149,
+      "rank": 35,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 155029,
       "num": 155029,
       "word": "舒淇说南方屋里真的冷",
@@ -187,20 +211,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 147885,
-      "num": 147885,
-      "word": "万亩树木被煤矿断水面临枯死",
-      "onboard_time": 1680016109,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 131837,
+      "raw_hot": 151255,
       "num": 131837,
       "word": "这是腰腹赘肉杀手吧",
       "onboard_time": 1680006446,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 148971,
+      "num": 148971,
+      "word": "葛优打葛优躺官司获赔759万",
+      "onboard_time": 1679993668,
+      "rank": 27,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 116428,
@@ -211,12 +235,28 @@
       "category": "情感"
     },
     {
-      "raw_hot": 109026,
-      "num": 109026,
-      "word": "葛优打葛优躺官司获赔759万",
-      "onboard_time": 1679993668,
-      "rank": 27,
-      "category": "社会新闻,艺人"
+      "raw_hot": 115724,
+      "num": 115724,
+      "word": "宁夏万亩林场主回应跪地求供水",
+      "onboard_time": 1680016589,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110411,
+      "num": 90619,
+      "word": "肠胃瞬间通畅了",
+      "onboard_time": 1680005728,
+      "rank": 48,
+      "category": "其它"
+    },
+    {
+      "raw_hot": 110031,
+      "num": 110031,
+      "word": "原来植物人是会动的",
+      "onboard_time": 1680014131,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 107658,
@@ -243,12 +283,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 83133,
-      "num": 83133,
-      "word": "宁夏万亩林场主回应跪地求供水",
-      "onboard_time": 1680016589,
-      "rank": 31,
-      "category": "社会新闻"
+      "raw_hot": 87518,
+      "num": 87518,
+      "word": "谁家大熊猫这么粘人啊",
+      "onboard_time": 1680036311,
+      "rank": 29,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 78714,
@@ -275,28 +315,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 75192,
+      "num": 75192,
+      "word": "不同薪资员工对工作的态度",
+      "onboard_time": 1680018026,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 74193,
       "num": 74193,
       "word": "金泰亨男友风造型",
       "onboard_time": 1680019525,
       "rank": 37,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 74168,
-      "num": 74168,
-      "word": "北京环球影城威震天摔倒",
-      "onboard_time": 1679997149,
-      "rank": 35,
-      "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 71822,
-      "num": 71822,
-      "word": "原来植物人是会动的",
-      "onboard_time": 1680014131,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 69323,
@@ -347,6 +379,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 63834,
+      "num": 63834,
+      "word": "阿里设立六大业务集团",
+      "onboard_time": 1679998168,
+      "rank": 46,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 62538,
       "num": 62538,
       "word": "有生之年让一只猫帅到",
@@ -363,14 +403,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 59233,
-      "num": 59233,
-      "word": "阿里设立六大业务集团",
-      "onboard_time": 1679998168,
-      "rank": 46,
-      "category": "科技,财经"
-    },
-    {
       "raw_hot": 59187,
       "num": 59187,
       "word": "第41届金像奖提名者海报",
@@ -379,12 +411,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 52778,
-      "num": 58992,
-      "word": "肠胃瞬间通畅了",
-      "onboard_time": 1680005728,
-      "rank": 48,
-      "category": "其它"
+      "raw_hot": 57183,
+      "num": 57183,
+      "word": "半熟恋人2",
+      "onboard_time": 1680007887,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 51454,
@@ -395,44 +427,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 50443,
-      "num": 42095,
-      "word": "谁家大熊猫这么粘人啊",
-      "onboard_time": 1680036311,
-      "rank": 29,
-      "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 46506,
-      "num": 46506,
-      "word": "半熟恋人2",
-      "onboard_time": 1680007887,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 44405,
-      "num": 58087,
-      "word": "不同薪资员工对工作的态度",
-      "onboard_time": 1680018026,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 29380,
-      "num": 29380,
+      "raw_hot": 38173,
+      "num": 38173,
       "word": "苦难是不应该被拿来比较的",
       "onboard_time": 1680033912,
       "rank": 48,
       "category": "情感"
     },
     {
-      "raw_hot": 24633,
-      "num": 24633,
+      "raw_hot": 30726,
+      "num": 34222,
       "word": "微博之夜百花齐放",
       "onboard_time": 1679739121,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 22121,
+      "num": 919447,
+      "word": "守好中国式现代化的本和源",
+      "onboard_time": 1680011548,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 20254,
@@ -441,14 +457,6 @@
       "onboard_time": 1680003030,
       "rank": 48,
       "category": "科技,影视"
-    },
-    {
-      "raw_hot": 18171,
-      "num": 919447,
-      "word": "守好中国式现代化的本和源",
-      "onboard_time": 1680011548,
-      "rank": 2,
-      "category": "国内要闻"
     }
   ],
   "hotgov_list": [
