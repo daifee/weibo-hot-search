@@ -1,6 +1,6 @@
 {
   "startTime": 1680022234432,
-  "endTime": 1680041804212,
+  "endTime": 1680042798799,
   "band_list": [
     {
       "raw_hot": 1437681,
@@ -395,6 +395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 50443,
+      "num": 42095,
+      "word": "谁家大熊猫这么粘人啊",
+      "onboard_time": 1680036311,
+      "rank": 29,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 46506,
       "num": 46506,
       "word": "半熟恋人2",
@@ -411,16 +419,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 36262,
-      "num": 30400,
-      "word": "谁家大熊猫这么粘人啊",
-      "onboard_time": 1680036311,
-      "rank": 29,
-      "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 27711,
-      "num": 27711,
+      "raw_hot": 29380,
+      "num": 29380,
       "word": "苦难是不应该被拿来比较的",
       "onboard_time": 1680033912,
       "rank": 48,
@@ -435,8 +435,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 19774,
-      "num": 19897,
+      "raw_hot": 20254,
+      "num": 21397,
       "word": "哈利波特的魔法惊喜",
       "onboard_time": 1680003030,
       "rank": 48,
