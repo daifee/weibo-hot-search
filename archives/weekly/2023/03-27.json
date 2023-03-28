@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1679981609022,
+  "endTime": 1679984616553,
   "band_list": [
     {
       "raw_hot": 4718675,
@@ -65,6 +65,14 @@
       "onboard_time": 1679896593,
       "rank": 5,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 2327071,
+      "num": 2327071,
+      "word": "你懒 就没有作品",
+      "onboard_time": 1679977413,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 2186717,
@@ -137,14 +145,6 @@
       "onboard_time": 1679907029,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1729649,
-      "num": 1729649,
-      "word": "你懒 就没有作品",
-      "onboard_time": 1679977413,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 1712010,
@@ -299,6 +299,14 @@
       "category": "作品衍生,幽默"
     },
     {
+      "raw_hot": 1097670,
+      "num": 1097670,
+      "word": "揭开上海杀妻藏尸案背后不为人知的事",
+      "onboard_time": 1679980828,
+      "rank": 28,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1095991,
       "num": 417394,
       "word": "王者荣耀进不去",
@@ -403,6 +411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 923874,
+      "num": 923874,
+      "word": "北京语言大学发声明",
+      "onboard_time": 1679981488,
+      "rank": 25,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 914633,
       "num": 914633,
       "word": "长月烬明",
@@ -449,6 +465,14 @@
       "onboard_time": 1679971887,
       "rank": 7,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 880009,
+      "num": 880009,
+      "word": "阿黛尔无限期中止职业生涯",
+      "onboard_time": 1679983349,
+      "rank": 5,
+      "category": "音乐"
     },
     {
       "raw_hot": 841190,
@@ -729,6 +753,14 @@
       "onboard_time": 1679919690,
       "rank": 11,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 573352,
+      "num": 573352,
+      "word": "权志龙将3个月内回归",
+      "onboard_time": 1679984365,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 571693,
@@ -1043,6 +1075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 412463,
+      "num": 255853,
+      "word": "唐嫣回应孙坚我也没洗脸",
+      "onboard_time": 1679979512,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 408859,
       "num": 408859,
       "word": "特效换脸与女星演吻戏侵犯名誉权",
@@ -1203,6 +1243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 369266,
+      "num": 202401,
+      "word": "女生同情老人买5西瓜切开发现全坏",
+      "onboard_time": 1679982088,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 368343,
       "num": 368343,
       "word": "景区回应女子给猴子喂食被掌掴",
@@ -1217,6 +1265,14 @@
       "onboard_time": 1679847143,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 354073,
+      "num": 354073,
+      "word": "全面清理虚构摆拍导向不良的短视频",
+      "onboard_time": 1679983527,
+      "rank": 10,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 352902,
@@ -1243,12 +1299,36 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 348083,
+      "num": 198915,
+      "word": "中国哪个小县城名字最好听",
+      "onboard_time": 1679982808,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 345373,
       "num": 328946,
       "word": "梁友安体检查出巧克力囊肿",
       "onboard_time": 1679924250,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 344975,
+      "num": 344975,
+      "word": "TVB艺人为直播集体苦练普通话",
+      "onboard_time": 1679983229,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 344733,
+      "num": 197247,
+      "word": "杨颖数字高定",
+      "onboard_time": 1679982507,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 343287,
@@ -1329,14 +1409,6 @@
       "onboard_time": 1679886932,
       "rank": 39,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 322553,
-      "num": 255853,
-      "word": "唐嫣回应孙坚我也没洗脸",
-      "onboard_time": 1679979512,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 322247,
@@ -2019,6 +2091,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 206548,
+      "num": 206548,
+      "word": "一文速览2023清朗行动发布会要点",
+      "onboard_time": 1679983707,
+      "rank": 19,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 205790,
       "num": 205790,
       "word": "罗布泊现水上雅丹奇景",
@@ -2065,14 +2145,6 @@
       "onboard_time": 1679896412,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 199987,
-      "num": 199987,
-      "word": "北京语言大学发声明",
-      "onboard_time": 1679981488,
-      "rank": 25,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 199904,
@@ -2145,6 +2217,14 @@
       "onboard_time": 1679901871,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 194756,
+      "num": 194756,
+      "word": "网传乘风破浪4初舞台歌单",
+      "onboard_time": 1679980408,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 194407,
@@ -2241,14 +2321,6 @@
       "onboard_time": 1679970146,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 187394,
-      "num": 187394,
-      "word": "揭开上海杀妻藏尸案背后不为人知的事",
-      "onboard_time": 1679980828,
-      "rank": 28,
-      "category": "社会负面"
     },
     {
       "raw_hot": 187304,
@@ -2363,6 +2435,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 178191,
+      "num": 178191,
+      "word": "防止泄露未成年人隐私的欺凌视频传播",
+      "onboard_time": 1679981129,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 178064,
       "num": 178064,
       "word": "猫猫是懂减功德的",
@@ -2393,6 +2473,14 @@
       "onboard_time": 1679848280,
       "rank": 18,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 176511,
+      "num": 176511,
+      "word": "流浪地球2将在韩国上映",
+      "onboard_time": 1679984365,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 175702,
@@ -2433,14 +2521,6 @@
       "onboard_time": 1679968949,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 172874,
-      "num": 172874,
-      "word": "网传乘风破浪4初舞台歌单",
-      "onboard_time": 1679980408,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 172681,
@@ -2563,6 +2643,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 153715,
+      "num": 153715,
+      "word": "真正不想上班的原因是什么",
+      "onboard_time": 1679981010,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 152879,
       "num": 152879,
       "word": "Scout获得周MVP",
@@ -2609,14 +2697,6 @@
       "onboard_time": 1679891322,
       "rank": 47,
       "category": "科技,情感"
-    },
-    {
-      "raw_hot": 147760,
-      "num": 147760,
-      "word": "防止泄露未成年人隐私的欺凌视频传播",
-      "onboard_time": 1679981129,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 147529,
@@ -2819,6 +2899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 129405,
+      "num": 129405,
+      "word": "马丽晒张婧仪周微雨海报",
+      "onboard_time": 1679981909,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 128218,
       "num": 106694,
       "word": "肖战差点绊倒自己",
@@ -3011,12 +3099,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 108285,
+      "num": 108285,
+      "word": "孙俪种菜vlog",
+      "onboard_time": 1679982928,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 107615,
       "num": 88776,
       "word": "易烊千玺我可要坐直啦",
       "onboard_time": 1679818286,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 106936,
+      "num": 106936,
+      "word": "全面清理网络水军违法违规信息",
+      "onboard_time": 1679983648,
+      "rank": 41,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 106273,
@@ -3340,7 +3444,7 @@
     },
     {
       "raw_hot": 50135,
-      "num": 125297,
+      "num": 271652,
       "word": "车型销量能够说明什么",
       "onboard_time": 1679974949,
       "rank": 46,

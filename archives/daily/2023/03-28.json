@@ -1,6 +1,6 @@
 {
   "startTime": 1679934149836,
-  "endTime": 1679981609022,
+  "endTime": 1679984616553,
   "band_list": [
     {
       "raw_hot": 2747528,
@@ -9,6 +9,14 @@
       "onboard_time": 1679966129,
       "rank": 9,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 2327071,
+      "num": 2327071,
+      "word": "你懒 就没有作品",
+      "onboard_time": 1679977413,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 2053659,
@@ -25,14 +33,6 @@
       "onboard_time": 1679972429,
       "rank": 3,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 1729649,
-      "num": 1729649,
-      "word": "你懒 就没有作品",
-      "onboard_time": 1679977413,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 1519246,
@@ -83,6 +83,14 @@
       "category": "作品衍生,幽默"
     },
     {
+      "raw_hot": 1097670,
+      "num": 1097670,
+      "word": "揭开上海杀妻藏尸案背后不为人知的事",
+      "onboard_time": 1679980828,
+      "rank": 28,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1018340,
       "num": 425509,
       "word": "张静初被美国电影学院导演系录取",
@@ -97,6 +105,14 @@
       "onboard_time": 1679968046,
       "rank": 25,
       "category": "科技"
+    },
+    {
+      "raw_hot": 923874,
+      "num": 923874,
+      "word": "北京语言大学发声明",
+      "onboard_time": 1679981488,
+      "rank": 25,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 914633,
@@ -121,6 +137,14 @@
       "onboard_time": 1679971887,
       "rank": 7,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 880009,
+      "num": 880009,
+      "word": "阿黛尔无限期中止职业生涯",
+      "onboard_time": 1679983349,
+      "rank": 5,
+      "category": "音乐"
     },
     {
       "raw_hot": 823088,
@@ -217,6 +241,14 @@
       "onboard_time": 1679925393,
       "rank": 3,
       "category": "情感"
+    },
+    {
+      "raw_hot": 573352,
+      "num": 573352,
+      "word": "权志龙将3个月内回归",
+      "onboard_time": 1679984365,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 567624,
@@ -355,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 412463,
+      "num": 255853,
+      "word": "唐嫣回应孙坚我也没洗脸",
+      "onboard_time": 1679979512,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 405544,
       "num": 405544,
       "word": "深圳暴雨致航班取消旅客跪求起飞",
@@ -435,6 +475,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 369266,
+      "num": 202401,
+      "word": "女生同情老人买5西瓜切开发现全坏",
+      "onboard_time": 1679982088,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 354073,
+      "num": 354073,
+      "word": "全面清理虚构摆拍导向不良的短视频",
+      "onboard_time": 1679983527,
+      "rank": 10,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 349122,
       "num": 349122,
       "word": "文东恩河道英策划全在俊的死",
@@ -451,6 +507,30 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 348083,
+      "num": 198915,
+      "word": "中国哪个小县城名字最好听",
+      "onboard_time": 1679982808,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 344975,
+      "num": 344975,
+      "word": "TVB艺人为直播集体苦练普通话",
+      "onboard_time": 1679983229,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 344733,
+      "num": 197247,
+      "word": "杨颖数字高定",
+      "onboard_time": 1679982507,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 339084,
       "num": 339084,
       "word": "东南亚国家是否真的不能去了",
@@ -465,14 +545,6 @@
       "onboard_time": 1679971226,
       "rank": 26,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 322553,
-      "num": 255853,
-      "word": "唐嫣回应孙坚我也没洗脸",
-      "onboard_time": 1679979512,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 306721,
@@ -755,6 +827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 206548,
+      "num": 206548,
+      "word": "一文速览2023清朗行动发布会要点",
+      "onboard_time": 1679983707,
+      "rank": 19,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 201840,
       "num": 201840,
       "word": "鹿晗王勉逛街",
@@ -771,14 +851,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 199987,
-      "num": 199987,
-      "word": "北京语言大学发声明",
-      "onboard_time": 1679981488,
-      "rank": 25,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 196822,
       "num": 155818,
       "word": "张艺兴出发怼脸自拍照",
@@ -793,6 +865,14 @@
       "onboard_time": 1679959341,
       "rank": 15,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 194756,
+      "num": 194756,
+      "word": "网传乘风破浪4初舞台歌单",
+      "onboard_time": 1679980408,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 193814,
@@ -827,14 +907,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 187394,
-      "num": 187394,
-      "word": "揭开上海杀妻藏尸案背后不为人知的事",
-      "onboard_time": 1679980828,
-      "rank": 28,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 186559,
       "num": 186559,
       "word": "2022全国十大考古新发现揭晓",
@@ -859,12 +931,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 178191,
+      "num": 178191,
+      "word": "防止泄露未成年人隐私的欺凌视频传播",
+      "onboard_time": 1679981129,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 177190,
       "num": 196494,
       "word": "郑永刚家族争产背后财富版图",
       "onboard_time": 1679975730,
       "rank": 37,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 176511,
+      "num": 176511,
+      "word": "流浪地球2将在韩国上映",
+      "onboard_time": 1679984365,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 175702,
@@ -889,14 +977,6 @@
       "onboard_time": 1679968949,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 172874,
-      "num": 172874,
-      "word": "网传乘风破浪4初舞台歌单",
-      "onboard_time": 1679980408,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 172400,
@@ -979,6 +1059,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 153715,
+      "num": 153715,
+      "word": "真正不想上班的原因是什么",
+      "onboard_time": 1679981010,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 152475,
       "num": 152475,
       "word": "刑侦剧前五三部张译主演",
@@ -1009,14 +1097,6 @@
       "onboard_time": 1679973508,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 147760,
-      "num": 147760,
-      "word": "防止泄露未成年人隐私的欺凌视频传播",
-      "onboard_time": 1679981129,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 145287,
@@ -1073,6 +1153,14 @@
       "onboard_time": 1679929232,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 129405,
+      "num": 129405,
+      "word": "马丽晒张婧仪周微雨海报",
+      "onboard_time": 1679981909,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 129038,
@@ -1137,6 +1225,22 @@
       "onboard_time": 1679927254,
       "rank": 38,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 108285,
+      "num": 108285,
+      "word": "孙俪种菜vlog",
+      "onboard_time": 1679982928,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 106936,
+      "num": 106936,
+      "word": "全面清理网络水军违法违规信息",
+      "onboard_time": 1679983648,
+      "rank": 41,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 102154,
@@ -1236,7 +1340,7 @@
     },
     {
       "raw_hot": 50135,
-      "num": 125297,
+      "num": 271652,
       "word": "车型销量能够说明什么",
       "onboard_time": 1679974949,
       "rank": 46,
