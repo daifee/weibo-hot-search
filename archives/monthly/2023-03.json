@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1680016795477,
+  "endTime": 1680017762551,
   "band_list": [
     {
       "raw_hot": 27113842,
@@ -659,6 +659,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 2878051,
+      "num": 2878051,
+      "word": "酒店不允许成年子女和父母住一个标间",
+      "onboard_time": 1680014548,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2855217,
       "num": 368029,
       "word": "庆余年2 范思辙",
@@ -735,14 +743,6 @@
       "num": 2698699,
       "word": "广东河源4.5级地震",
       "onboard_time": 1678230501,
-      "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2696912,
-      "num": 2696912,
-      "word": "酒店不允许成年子女和父母住一个标间",
-      "onboard_time": 1680014548,
       "rank": 0,
       "category": "社会新闻"
     },
@@ -13465,6 +13465,14 @@
       "onboard_time": 1679561967,
       "rank": 8,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 630367,
+      "num": 630367,
+      "word": "广东中山报告1例H3N8病例",
+      "onboard_time": 1680016709,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 630333,
@@ -27419,6 +27427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 317680,
+      "num": 317680,
+      "word": "王国之泪",
+      "onboard_time": 1680016109,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 317585,
       "num": 199272,
       "word": "NewJeans新歌MV花絮视频",
@@ -28771,6 +28787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 299051,
+      "num": 299051,
+      "word": "淄博专门开通了烧烤公交专线",
+      "onboard_time": 1680013587,
+      "rank": 29,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 299040,
       "num": 270081,
       "word": "半熟恋人",
@@ -29161,14 +29185,6 @@
       "onboard_time": 1679042427,
       "rank": 27,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 293764,
-      "num": 293764,
-      "word": "淄博专门开通了烧烤公交专线",
-      "onboard_time": 1680013587,
-      "rank": 29,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 293695,
@@ -32451,6 +32467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 252770,
+      "num": 252770,
+      "word": "舒淇说南方屋里真的冷",
+      "onboard_time": 1680017728,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 252700,
       "num": 252700,
       "word": "孙颖莎说要和王楚钦争取好成绩",
@@ -33513,14 +33537,6 @@
       "onboard_time": 1677679470,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 241778,
-      "num": 241778,
-      "word": "王国之泪",
-      "onboard_time": 1680016109,
-      "rank": 23,
-      "category": "游戏"
     },
     {
       "raw_hot": 241765,
@@ -36281,6 +36297,14 @@
       "onboard_time": 1679886389,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 217091,
+      "num": 217091,
+      "word": "张智霖袁咏仪窦骁何超莲同框",
+      "onboard_time": 1680017486,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 217050,
@@ -40475,6 +40499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 195791,
+      "num": 195791,
+      "word": "万亩树木被煤矿断水面临枯死",
+      "onboard_time": 1680016109,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 195781,
       "num": 195781,
       "word": "宋亚轩粤语说车仔面",
@@ -40723,6 +40755,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 194776,
+      "num": 194776,
+      "word": "路晨抢救",
+      "onboard_time": 1680015988,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 194756,
       "num": 194756,
       "word": "网传乘风破浪4初舞台歌单",
@@ -40945,14 +40985,6 @@
       "onboard_time": 1678625006,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 193884,
-      "num": 193884,
-      "word": "万亩树木被煤矿断水面临枯死",
-      "onboard_time": 1680016109,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 193814,
@@ -43971,6 +44003,14 @@
       "category": "幽默,社会新闻"
     },
     {
+      "raw_hot": 176575,
+      "num": 176575,
+      "word": "那些三观超正的恋爱观",
+      "onboard_time": 1680015027,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 176552,
       "num": 206139,
       "word": "柯南剧场版人物关系图",
@@ -44361,14 +44401,6 @@
       "onboard_time": 1679066190,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 173359,
-      "num": 173359,
-      "word": "那些三观超正的恋爱观",
-      "onboard_time": 1680015027,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 173209,
@@ -47881,14 +47913,6 @@
       "onboard_time": 1678167324,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 148762,
-      "num": 148762,
-      "word": "路晨抢救",
-      "onboard_time": 1680015988,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 148749,
@@ -52435,6 +52459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 116278,
+      "num": 116278,
+      "word": "杨紫跳舞视频",
+      "onboard_time": 1680017609,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 116261,
       "num": 116261,
       "word": "国务院机构改革要点双语版",
@@ -54689,14 +54721,6 @@
       "onboard_time": 1678725558,
       "rank": 37,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 96877,
-      "num": 96877,
-      "word": "广东中山报告1例H3N8病例",
-      "onboard_time": 1680016709,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 96813,
