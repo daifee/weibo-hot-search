@@ -1,6 +1,6 @@
 {
   "startTime": 1679934149836,
-  "endTime": 1679999755350,
+  "endTime": 1680002127195,
   "band_list": [
     {
       "raw_hot": 2747528,
@@ -49,6 +49,14 @@
       "onboard_time": 1679972429,
       "rank": 3,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 1849440,
+      "num": 1849440,
+      "word": "林小宅 藏药令",
+      "onboard_time": 1679999788,
+      "rank": 0,
+      "category": "影视"
     },
     {
       "raw_hot": 1519246,
@@ -161,6 +169,14 @@
       "onboard_time": 1679980828,
       "rank": 28,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 1074870,
+      "num": 1074870,
+      "word": "张兰被曝拖欠前运营90万元工资",
+      "onboard_time": 1679999850,
+      "rank": 1,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1053717,
@@ -291,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 754069,
+      "num": 754069,
+      "word": "北京环球影城威震天摔倒",
+      "onboard_time": 1679997149,
+      "rank": 19,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 711856,
       "num": 711856,
       "word": "谷爱凌被熊猫花花可爱到",
@@ -321,6 +345,14 @@
       "onboard_time": 1679923411,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 699191,
+      "num": 299564,
+      "word": "肖战坐姿仪态",
+      "onboard_time": 1680000871,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 652640,
@@ -475,14 +507,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 488002,
-      "num": 488002,
-      "word": "北京环球影城威震天摔倒",
-      "onboard_time": 1679997149,
-      "rank": 19,
-      "category": "社会新闻,旅游"
-    },
-    {
       "raw_hot": 481606,
       "num": 481606,
       "word": "白羊容易上头但下头更快",
@@ -561,6 +585,14 @@
       "onboard_time": 1679966307,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 452162,
+      "num": 297713,
+      "word": "刘亦菲自拍四宫格",
+      "onboard_time": 1679999489,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 447411,
@@ -689,6 +721,14 @@
       "onboard_time": 1679961146,
       "rank": 15,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 376021,
+      "num": 282935,
+      "word": "这衣服很贵你确定要试吗",
+      "onboard_time": 1679999668,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 375943,
@@ -931,6 +971,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 274778,
+      "num": 274778,
+      "word": "河北沧州一废弃冷库发生火灾致11死",
+      "onboard_time": 1679998890,
+      "rank": 34,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 268324,
       "num": 268324,
       "word": "重庆省考",
@@ -971,6 +1019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 260036,
+      "num": 260036,
+      "word": "向中国泼脏水我们绝不接受",
+      "onboard_time": 1679996367,
+      "rank": 26,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 258417,
       "num": 258417,
       "word": "大侦探",
@@ -985,14 +1041,6 @@
       "onboard_time": 1679966307,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 252739,
-      "num": 252739,
-      "word": "向中国泼脏水我们绝不接受",
-      "onboard_time": 1679996367,
-      "rank": 26,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 246398,
@@ -1017,6 +1065,14 @@
       "onboard_time": 1679996129,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 239900,
+      "num": 239900,
+      "word": "姐弟坠亡案母亲回应二审开庭",
+      "onboard_time": 1679999668,
+      "rank": 36,
+      "category": "社会负面"
     },
     {
       "raw_hot": 239230,
@@ -1105,14 +1161,6 @@
       "onboard_time": 1679964510,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 207916,
-      "num": 207916,
-      "word": "刘亦菲自拍四宫格",
-      "onboard_time": 1679999489,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 207598,
@@ -1251,6 +1299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 188114,
+      "num": 188114,
+      "word": "张杰西安vlog",
+      "onboard_time": 1680001948,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186559,
       "num": 186559,
       "word": "2022全国十大考古新发现揭晓",
@@ -1355,6 +1411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 173449,
+      "num": 173449,
+      "word": "被穷养长大的孩子是怎样的",
+      "onboard_time": 1680001468,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 173017,
       "num": 173017,
       "word": "孙述涛被查",
@@ -1369,6 +1433,14 @@
       "onboard_time": 1679915729,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 170624,
+      "num": 170624,
+      "word": "西班牙 占房",
+      "onboard_time": 1680001050,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170184,
@@ -1451,14 +1523,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 159510,
-      "num": 159510,
-      "word": "河北沧州一废弃冷库发生火灾致11死",
-      "onboard_time": 1679998890,
-      "rank": 34,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 158754,
       "num": 158754,
       "word": "真正不想上班的原因是什么",
@@ -1481,14 +1545,6 @@
       "onboard_time": 1679965230,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 156637,
-      "num": 156637,
-      "word": "姐弟坠亡案母亲回应二审开庭",
-      "onboard_time": 1679999668,
-      "rank": 36,
-      "category": "社会负面"
     },
     {
       "raw_hot": 155701,
@@ -1531,6 +1587,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 152382,
+      "num": 152382,
+      "word": "铃芽之旅隐藏细节",
+      "onboard_time": 1679999788,
+      "rank": 38,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 151792,
       "num": 151792,
       "word": "王俊凯喜欢日落的原因",
@@ -1569,6 +1633,14 @@
       "onboard_time": 1679931930,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 141998,
+      "num": 141998,
+      "word": "品质盛典第二波官宣阵容",
+      "onboard_time": 1680000508,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 140545,
@@ -1619,6 +1691,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 136481,
+      "num": 136481,
+      "word": "漂亮的战斗",
+      "onboard_time": 1680001109,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 135810,
+      "num": 135810,
+      "word": "爱不爱喝茶的看完都沉默了",
+      "onboard_time": 1680001589,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 133476,
       "num": 133476,
       "word": "CSGO服务器",
@@ -1632,6 +1720,14 @@
       "word": "马丽晒张婧仪周微雨海报",
       "onboard_time": 1679981909,
       "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 129157,
+      "num": 129157,
+      "word": "宋三川送梁友安回家",
+      "onboard_time": 1680001410,
+      "rank": 45,
       "category": "影视"
     },
     {
@@ -1691,6 +1787,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 114019,
+      "num": 114019,
+      "word": "严浩翔鞠躬视频",
+      "onboard_time": 1680000329,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 112661,
       "num": 112661,
       "word": "郑秀妍紫色拖尾裙",
@@ -1705,14 +1809,6 @@
       "onboard_time": 1679923050,
       "rank": 41,
       "category": "作品衍生,游戏"
-    },
-    {
-      "raw_hot": 109501,
-      "num": 109501,
-      "word": "这衣服很贵你确定要试吗",
-      "onboard_time": 1679999668,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 109280,
@@ -1819,7 +1915,7 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 84488,
+      "raw_hot": 87706,
       "num": 348615,
       "word": "哪些幸福是有车以后才懂",
       "onboard_time": 1679997867,

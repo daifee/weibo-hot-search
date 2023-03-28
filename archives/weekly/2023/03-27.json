@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1679999755350,
+  "endTime": 1680002127195,
   "band_list": [
     {
       "raw_hot": 4718675,
@@ -145,6 +145,14 @@
       "onboard_time": 1679972429,
       "rank": 3,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 1849440,
+      "num": 1849440,
+      "word": "林小宅 藏药令",
+      "onboard_time": 1679999788,
+      "rank": 0,
+      "category": "影视"
     },
     {
       "raw_hot": 1849000,
@@ -393,6 +401,14 @@
       "onboard_time": 1679924071,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1074870,
+      "num": 1074870,
+      "word": "张兰被曝拖欠前运营90万元工资",
+      "onboard_time": 1679999850,
+      "rank": 1,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1073849,
@@ -651,6 +667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 754069,
+      "num": 754069,
+      "word": "北京环球影城威震天摔倒",
+      "onboard_time": 1679997149,
+      "rank": 19,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 724385,
       "num": 724385,
       "word": "教育局称徐汇中学无男浴室",
@@ -689,6 +713,14 @@
       "onboard_time": 1679970086,
       "rank": 10,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 699191,
+      "num": 299564,
+      "word": "肖战坐姿仪态",
+      "onboard_time": 1680000871,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 689674,
@@ -1067,14 +1099,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 488002,
-      "num": 488002,
-      "word": "北京环球影城威震天摔倒",
-      "onboard_time": 1679997149,
-      "rank": 19,
-      "category": "社会新闻,旅游"
-    },
-    {
       "raw_hot": 486652,
       "num": 486652,
       "word": "iOS17将添加新功能",
@@ -1209,6 +1233,14 @@
       "onboard_time": 1679966307,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 452162,
+      "num": 297713,
+      "word": "刘亦菲自拍四宫格",
+      "onboard_time": 1679999489,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 447772,
@@ -1441,6 +1473,14 @@
       "onboard_time": 1679961146,
       "rank": 15,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 376021,
+      "num": 282935,
+      "word": "这衣服很贵你确定要试吗",
+      "onboard_time": 1679999668,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 375943,
@@ -1899,6 +1939,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 274778,
+      "num": 274778,
+      "word": "河北沧州一废弃冷库发生火灾致11死",
+      "onboard_time": 1679998890,
+      "rank": 34,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 271732,
       "num": 271732,
       "word": "林俊杰蔡卓妍合唱我很想爱他",
@@ -1969,6 +2017,14 @@
       "onboard_time": 1679978670,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 260036,
+      "num": 260036,
+      "word": "向中国泼脏水我们绝不接受",
+      "onboard_time": 1679996367,
+      "rank": 26,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 258417,
@@ -2043,14 +2099,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 252739,
-      "num": 252739,
-      "word": "向中国泼脏水我们绝不接受",
-      "onboard_time": 1679996367,
-      "rank": 26,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 252700,
       "num": 252700,
       "word": "孙颖莎说要和王楚钦争取好成绩",
@@ -2113,6 +2161,14 @@
       "onboard_time": 1679996129,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 239900,
+      "num": 239900,
+      "word": "姐弟坠亡案母亲回应二审开庭",
+      "onboard_time": 1679999668,
+      "rank": 36,
+      "category": "社会负面"
     },
     {
       "raw_hot": 239517,
@@ -2353,14 +2409,6 @@
       "onboard_time": 1679912189,
       "rank": 44,
       "category": "体育,作品衍生"
-    },
-    {
-      "raw_hot": 207916,
-      "num": 207916,
-      "word": "刘亦菲自拍四宫格",
-      "onboard_time": 1679999489,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 207598,
@@ -2667,6 +2715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 188114,
+      "num": 188114,
+      "word": "张杰西安vlog",
+      "onboard_time": 1680001948,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 187304,
       "num": 187304,
       "word": "日媒称一日本男子在北京被捕",
@@ -2891,6 +2947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 173449,
+      "num": 173449,
+      "word": "被穷养长大的孩子是怎样的",
+      "onboard_time": 1680001468,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 173399,
       "num": 226444,
       "word": "狗狗太热情也不太好",
@@ -2937,6 +3001,14 @@
       "onboard_time": 1679895272,
       "rank": 49,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 170624,
+      "num": 170624,
+      "word": "西班牙 占房",
+      "onboard_time": 1680001050,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170184,
@@ -3027,14 +3099,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 159510,
-      "num": 159510,
-      "word": "河北沧州一废弃冷库发生火灾致11死",
-      "onboard_time": 1679998890,
-      "rank": 34,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 158754,
       "num": 158754,
       "word": "真正不想上班的原因是什么",
@@ -3057,14 +3121,6 @@
       "onboard_time": 1679965230,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 156637,
-      "num": 156637,
-      "word": "姐弟坠亡案母亲回应二审开庭",
-      "onboard_time": 1679999668,
-      "rank": 36,
-      "category": "社会负面"
     },
     {
       "raw_hot": 155788,
@@ -3121,6 +3177,14 @@
       "onboard_time": 1679821287,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 152382,
+      "num": 152382,
+      "word": "铃芽之旅隐藏细节",
+      "onboard_time": 1679999788,
+      "rank": 38,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 151375,
@@ -3201,6 +3265,14 @@
       "onboard_time": 1679874382,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 141998,
+      "num": 141998,
+      "word": "品质盛典第二波官宣阵容",
+      "onboard_time": 1680000508,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 141969,
@@ -3307,6 +3379,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 136481,
+      "num": 136481,
+      "word": "漂亮的战斗",
+      "onboard_time": 1680001109,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 135810,
+      "num": 135810,
+      "word": "爱不爱喝茶的看完都沉默了",
+      "onboard_time": 1680001589,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 134788,
       "num": 134788,
       "word": "月亮图标",
@@ -3376,6 +3464,14 @@
       "word": "马丽晒张婧仪周微雨海报",
       "onboard_time": 1679981909,
       "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 129157,
+      "num": 129157,
+      "word": "宋三川送梁友安回家",
+      "onboard_time": 1680001410,
+      "rank": 45,
       "category": "影视"
     },
     {
@@ -3515,6 +3611,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 114019,
+      "num": 114019,
+      "word": "严浩翔鞠躬视频",
+      "onboard_time": 1680000329,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 112371,
       "num": 112371,
       "word": "无畏直播",
@@ -3551,14 +3655,6 @@
       "num": 110169,
       "word": "这HR是个卧底吧",
       "onboard_time": 1679925031,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 109501,
-      "num": 109501,
-      "word": "这衣服很贵你确定要试吗",
-      "onboard_time": 1679999668,
       "rank": 48,
       "category": "幽默"
     },
@@ -3835,6 +3931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87706,
+      "num": 348615,
+      "word": "哪些幸福是有车以后才懂",
+      "onboard_time": 1679997867,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 85662,
       "num": 85662,
       "word": "铃芽之旅成2023引进片票房冠军",
@@ -3857,14 +3961,6 @@
       "onboard_time": 1679881588,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 84488,
-      "num": 348615,
-      "word": "哪些幸福是有车以后才懂",
-      "onboard_time": 1679997867,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 83614,
