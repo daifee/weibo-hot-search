@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1680009907214,
+  "endTime": 1680010566309,
   "band_list": [
     {
       "raw_hot": 4718675,
@@ -475,6 +475,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 1017839,
+      "num": 1017839,
+      "word": "向往的生活",
+      "onboard_time": 1679824948,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1015854,
       "num": 1015854,
       "word": "杜华不敢删好友怕被截图",
@@ -769,14 +777,6 @@
       "onboard_time": 1679891199,
       "rank": 26,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 686856,
-      "num": 686856,
-      "word": "向往的生活",
-      "onboard_time": 1679824948,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 682208,
@@ -1539,6 +1539,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 377284,
+      "num": 377284,
+      "word": "小说里的少年感",
+      "onboard_time": 1680008365,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 377114,
       "num": 377114,
       "word": "龚俊严浩翔聊天",
@@ -1585,14 +1593,6 @@
       "onboard_time": 1679883627,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 373428,
-      "num": 373428,
-      "word": "小说里的少年感",
-      "onboard_time": 1680008365,
-      "rank": 12,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 371179,
@@ -1683,6 +1683,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 342739,
+      "num": 330045,
+      "word": "张艺兴粉西装",
+      "onboard_time": 1680009146,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 339084,
       "num": 339084,
       "word": "东南亚国家是否真的不能去了",
@@ -1713,6 +1721,14 @@
       "onboard_time": 1679971226,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 331875,
+      "num": 242792,
+      "word": "这是腰腹赘肉杀手吧",
+      "onboard_time": 1680006446,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 330621,
@@ -1801,14 +1817,6 @@
       "onboard_time": 1679893060,
       "rank": 17,
       "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 313646,
-      "num": 242792,
-      "word": "这是腰腹赘肉杀手吧",
-      "onboard_time": 1680006446,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 309549,
@@ -2259,6 +2267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 245822,
+      "num": 230868,
+      "word": "半熟恋人2",
+      "onboard_time": 1680007887,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 244188,
       "num": 244188,
       "word": "蔡徐坤舞台挂帆布包为了装墨镜",
@@ -2323,14 +2339,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 230868,
-      "num": 230868,
-      "word": "半熟恋人2",
-      "onboard_time": 1680007887,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 230664,
       "num": 230664,
       "word": "这婚礼算是相当炸裂了",
@@ -2345,14 +2353,6 @@
       "onboard_time": 1679917589,
       "rank": 29,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 229813,
-      "num": 229813,
-      "word": "张艺兴粉西装",
-      "onboard_time": 1680009146,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 229327,
@@ -3267,6 +3267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155834,
+      "num": 155834,
+      "word": "酷云收视率",
+      "onboard_time": 1680009747,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 155788,
       "num": 155788,
       "word": "归路豆瓣6分",
@@ -3331,6 +3339,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 151652,
+      "num": 151652,
+      "word": "鲜虾豆腐煲",
+      "onboard_time": 1680008907,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 151375,
       "num": 151375,
       "word": "铃芽之旅为何能赢过超英大片",
@@ -3361,6 +3377,14 @@
       "onboard_time": 1680008548,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 148777,
+      "num": 148777,
+      "word": "归路27集预告",
+      "onboard_time": 1680010048,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 148153,
@@ -3467,6 +3491,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 140191,
+      "num": 140191,
+      "word": "中国团队率先突破量子纠错盈亏平衡点",
+      "onboard_time": 1680009929,
+      "rank": 38,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 139920,
       "num": 139920,
       "word": "搭子是一种新型的社交关系",
@@ -3547,6 +3579,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 136907,
+      "num": 136907,
+      "word": "路初阳的胎心",
+      "onboard_time": 1680009627,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 136481,
       "num": 136481,
       "word": "漂亮的战斗",
@@ -3603,14 +3643,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 130877,
-      "num": 130877,
-      "word": "鲜虾豆腐煲",
-      "onboard_time": 1680008907,
-      "rank": 39,
-      "category": "美食"
-    },
-    {
       "raw_hot": 130666,
       "num": 130666,
       "word": "宋亚轩跟雷佳音马丽打招呼",
@@ -3649,6 +3681,14 @@
       "onboard_time": 1679831070,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 127838,
+      "num": 127838,
+      "word": "有生之年让一只猫帅到",
+      "onboard_time": 1680009209,
+      "rank": 48,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 127659,
@@ -3739,6 +3779,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 120146,
+      "num": 120146,
+      "word": "爱情而已预告",
+      "onboard_time": 1680010407,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 119517,
       "num": 119517,
       "word": "张雨绮古装额饰妆造",
@@ -3803,14 +3851,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 115169,
-      "num": 115169,
-      "word": "酷云收视率",
-      "onboard_time": 1680009747,
-      "rank": 43,
-      "category": "影视"
-    },
-    {
       "raw_hot": 114217,
       "num": 114217,
       "word": "喜欢小狗的有福了",
@@ -3825,14 +3865,6 @@
       "onboard_time": 1680000329,
       "rank": 47,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 112585,
-      "num": 112585,
-      "word": "路初阳的胎心",
-      "onboard_time": 1680009627,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 112371,
@@ -3969,14 +4001,6 @@
       "onboard_time": 1679897674,
       "rank": 43,
       "category": "财经"
-    },
-    {
-      "raw_hot": 104384,
-      "num": 104384,
-      "word": "有生之年让一只猫帅到",
-      "onboard_time": 1680009209,
-      "rank": 48,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 103852,

@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1680009907214,
+  "endTime": 1680010566309,
   "band_list": [
     {
       "raw_hot": 27113842,
@@ -23475,6 +23475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 377284,
+      "num": 377284,
+      "word": "小说里的少年感",
+      "onboard_time": 1680008365,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 377218,
       "num": 598389,
       "word": "不要等缺水了才想起节水",
@@ -23753,14 +23761,6 @@
       "onboard_time": 1678935686,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 373428,
-      "num": 373428,
-      "word": "小说里的少年感",
-      "onboard_time": 1680008365,
-      "rank": 12,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 373076,
@@ -25771,6 +25771,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 342739,
+      "num": 330045,
+      "word": "张艺兴粉西装",
+      "onboard_time": 1680009146,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 342667,
       "num": 342667,
       "word": "原来尺子还能当剪子用",
@@ -26393,6 +26401,14 @@
       "onboard_time": 1678939288,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 331875,
+      "num": 242792,
+      "word": "这是腰腹赘肉杀手吧",
+      "onboard_time": 1680006446,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 331664,
@@ -27657,14 +27673,6 @@
       "onboard_time": 1677764911,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 313646,
-      "num": 242792,
-      "word": "这是腰腹赘肉杀手吧",
-      "onboard_time": 1680006446,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 313552,
@@ -32923,6 +32931,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 245822,
+      "num": 230868,
+      "word": "半熟恋人2",
+      "onboard_time": 1680007887,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 245780,
       "num": 245780,
       "word": "鞠婧祎抹胸小黑裙拍摄路透",
@@ -34427,14 +34443,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 230868,
-      "num": 230868,
-      "word": "半熟恋人2",
-      "onboard_time": 1680007887,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 230828,
       "num": 230828,
       "word": "向太说前路并非坦途一起加油",
@@ -34561,14 +34569,6 @@
       "onboard_time": 1678854031,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 229813,
-      "num": 229813,
-      "word": "张艺兴粉西装",
-      "onboard_time": 1680009146,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 229691,
@@ -46659,6 +46659,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 155834,
+      "num": 155834,
+      "word": "酷云收视率",
+      "onboard_time": 1680009747,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 155788,
       "num": 155788,
       "word": "归路豆瓣6分",
@@ -47179,6 +47187,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 151652,
+      "num": 151652,
+      "word": "鲜虾豆腐煲",
+      "onboard_time": 1680008907,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 151636,
       "num": 206587,
       "word": "800多岁玉兰古树花开似雪",
@@ -47681,6 +47697,14 @@
       "onboard_time": 1679369908,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 148777,
+      "num": 148777,
+      "word": "归路27集预告",
+      "onboard_time": 1680010048,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 148768,
@@ -48907,6 +48931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 140191,
+      "num": 140191,
+      "word": "中国团队率先突破量子纠错盈亏平衡点",
+      "onboard_time": 1680009929,
+      "rank": 38,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 140160,
       "num": 140160,
       "word": "奥斯卡最佳影片提名艺术海报",
@@ -49409,6 +49441,14 @@
       "onboard_time": 1679365947,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136907,
+      "num": 136907,
+      "word": "路初阳的胎心",
+      "onboard_time": 1680009627,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 136904,
@@ -50355,14 +50395,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 130877,
-      "num": 130877,
-      "word": "鲜虾豆腐煲",
-      "onboard_time": 1680008907,
-      "rank": 39,
-      "category": "美食"
-    },
-    {
       "raw_hot": 130812,
       "num": 130812,
       "word": "金智秀主打曲海报",
@@ -50785,6 +50817,14 @@
       "onboard_time": 1677842668,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 127838,
+      "num": 127838,
+      "word": "有生之年让一只猫帅到",
+      "onboard_time": 1680009209,
+      "rank": 48,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 127825,
@@ -51827,6 +51867,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 120146,
+      "num": 120146,
+      "word": "爱情而已预告",
+      "onboard_time": 1680010407,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 120035,
       "num": 187259,
       "word": "你猜我为啥在这里录像",
@@ -52411,14 +52459,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 115169,
-      "num": 115169,
-      "word": "酷云收视率",
-      "onboard_time": 1680009747,
-      "rank": 43,
-      "category": "影视"
-    },
-    {
       "raw_hot": 115118,
       "num": 115118,
       "word": "推特广告收入下降50%",
@@ -52713,14 +52753,6 @@
       "onboard_time": 1678707446,
       "rank": 46,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 112585,
-      "num": 112585,
-      "word": "路初阳的胎心",
-      "onboard_time": 1680009627,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 112446,
@@ -53729,14 +53761,6 @@
       "onboard_time": 1679447369,
       "rank": 47,
       "category": "财经"
-    },
-    {
-      "raw_hot": 104384,
-      "num": 104384,
-      "word": "有生之年让一只猫帅到",
-      "onboard_time": 1680009209,
-      "rank": 48,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 104350,
