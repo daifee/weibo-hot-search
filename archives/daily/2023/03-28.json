@@ -1,10 +1,18 @@
 {
   "startTime": 1679934149836,
-  "endTime": 1679966843831,
+  "endTime": 1679968265480,
   "band_list": [
     {
+      "raw_hot": 2278036,
+      "num": 2278036,
+      "word": "免费坐高铁",
+      "onboard_time": 1679966129,
+      "rank": 9,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 1281772,
-      "num": 429036,
+      "num": 458061,
       "word": "黄磊孙莉回应多多争议",
       "onboard_time": 1679912791,
       "rank": 10,
@@ -20,7 +28,7 @@
     },
     {
       "raw_hot": 1157986,
-      "num": 439036,
+      "num": 459107,
       "word": "知名浙商去世儿子继母百亿夺权大战",
       "onboard_time": 1679923350,
       "rank": 11,
@@ -73,6 +81,14 @@
       "onboard_time": 1679962949,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 646718,
+      "num": 646718,
+      "word": "四六级",
+      "onboard_time": 1679967087,
+      "rank": 3,
+      "category": "教育"
     },
     {
       "raw_hot": 608748,
@@ -139,6 +155,14 @@
       "category": "影视,幽默"
     },
     {
+      "raw_hot": 447411,
+      "num": 447411,
+      "word": "中国专家查看丫丫情况",
+      "onboard_time": 1679964992,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 446684,
       "num": 446684,
       "word": "刘亦菲的社交圈",
@@ -147,12 +171,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 446304,
-      "num": 446304,
-      "word": "免费坐高铁",
-      "onboard_time": 1679966129,
-      "rank": 9,
-      "category": "旅游"
+      "raw_hot": 441844,
+      "num": 441844,
+      "word": "情感漠视 冷暴力",
+      "onboard_time": 1679966307,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 436177,
+      "num": 436177,
+      "word": "拼多多 卡巴斯基",
+      "onboard_time": 1679967027,
+      "rank": 14,
+      "category": "科技"
     },
     {
       "raw_hot": 405544,
@@ -168,14 +200,6 @@
       "word": "首个国产新冠药停产",
       "onboard_time": 1679938395,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 381935,
-      "num": 381935,
-      "word": "中国专家查看丫丫情况",
-      "onboard_time": 1679964992,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -323,6 +347,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 251900,
+      "num": 251900,
+      "word": "小心二次元",
+      "onboard_time": 1679966848,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 229327,
       "num": 229327,
       "word": "库克",
@@ -331,12 +363,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 224284,
+      "num": 224284,
+      "word": "去有风的地方将上线网飞",
+      "onboard_time": 1679967567,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 220394,
       "num": 220394,
       "word": "迪丽热巴素色西服",
       "onboard_time": 1679917829,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 218905,
+      "num": 218905,
+      "word": "iPhone折旧率仅为安卓一半",
+      "onboard_time": 1679968046,
+      "rank": 25,
+      "category": "科技"
     },
     {
       "raw_hot": 211176,
@@ -353,14 +401,6 @@
       "onboard_time": 1679919690,
       "rank": 23,
       "category": "艺人,综艺"
-    },
-    {
-      "raw_hot": 201067,
-      "num": 201067,
-      "word": "情感漠视 冷暴力",
-      "onboard_time": 1679966307,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 196822,
@@ -387,12 +427,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187453,
+      "num": 187453,
+      "word": "陈晓谈和李沁张嘉倪合作",
+      "onboard_time": 1679964510,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 184567,
+      "num": 184567,
+      "word": "被室友孤立是什么感受",
+      "onboard_time": 1679964449,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 181202,
       "num": 181202,
       "word": "黑暗荣耀编剧谈第三季",
       "onboard_time": 1679921670,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 179396,
+      "num": 179396,
+      "word": "建议适时修订职工带薪年休假条例",
+      "onboard_time": 1679966070,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 175702,
@@ -425,14 +489,6 @@
       "onboard_time": 1679966666,
       "rank": 36,
       "category": "财经"
-    },
-    {
-      "raw_hot": 162457,
-      "num": 162457,
-      "word": "陈晓谈和李沁张嘉倪合作",
-      "onboard_time": 1679964510,
-      "rank": 38,
-      "category": "影视"
     },
     {
       "raw_hot": 160540,
@@ -515,12 +571,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 136462,
-      "num": 136462,
-      "word": "建议适时修订职工带薪年休假条例",
-      "onboard_time": 1679966070,
-      "rank": 43,
-      "category": "社会新闻"
+      "raw_hot": 137481,
+      "num": 137481,
+      "word": "公安联考",
+      "onboard_time": 1679967208,
+      "rank": 41,
+      "category": "教育"
     },
     {
       "raw_hot": 133476,
@@ -529,14 +585,6 @@
       "onboard_time": 1679929232,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 131692,
-      "num": 131692,
-      "word": "被室友孤立是什么感受",
-      "onboard_time": 1679964449,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 129038,
@@ -707,7 +755,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 19695,
+      "raw_hot": 20316,
       "num": 776289,
       "word": "春日里的凡人微光",
       "onboard_time": 1679879306,
