@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1680017762551,
+  "endTime": 1680022234432,
   "band_list": [
     {
       "raw_hot": 4718675,
@@ -241,6 +241,14 @@
       "onboard_time": 1679887772,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1437681,
+      "num": 1437681,
+      "word": "孙毓敏去世",
+      "onboard_time": 1680018506,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1431880,
@@ -731,6 +739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 757785,
+      "num": 757785,
+      "word": "广东中山报告1例H3N8病例",
+      "onboard_time": 1680016709,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 754069,
       "num": 754069,
       "word": "北京环球影城威震天摔倒",
@@ -859,20 +875,20 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 642891,
+      "num": 642891,
+      "word": "乐华的法务总监是微博私信投简历的",
+      "onboard_time": 1680019525,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 635168,
       "num": 550703,
       "word": "王俊凯喜欢日落的原因",
       "onboard_time": 1679925512,
       "rank": 11,
       "category": "艺人,幽默"
-    },
-    {
-      "raw_hot": 630367,
-      "num": 630367,
-      "word": "广东中山报告1例H3N8病例",
-      "onboard_time": 1680016709,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 630333,
@@ -1673,6 +1689,14 @@
       "onboard_time": 1679968768,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 369365,
+      "num": 369365,
+      "word": "王子文说不能接受伴侣看自己手机",
+      "onboard_time": 1680021681,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 368343,
@@ -3275,6 +3299,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 176098,
+      "num": 176098,
+      "word": "铃芽是恋爱脑吗",
+      "onboard_time": 1680021741,
+      "rank": 13,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 175702,
       "num": 175702,
       "word": "潘粤明回应白夜追凶2四月开拍",
@@ -3369,6 +3401,14 @@
       "onboard_time": 1679995529,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 170100,
+      "num": 134143,
+      "word": "杨紫跳舞视频",
+      "onboard_time": 1680017609,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 169855,
@@ -3553,6 +3593,14 @@
       "onboard_time": 1679999788,
       "rank": 38,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 151471,
+      "num": 151471,
+      "word": "黄旭直播吐槽说唱巅峰红毯图",
+      "onboard_time": 1680018686,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 151375,
@@ -4025,14 +4073,6 @@
       "onboard_time": 1679908531,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 116278,
-      "num": 116278,
-      "word": "杨紫跳舞视频",
-      "onboard_time": 1680017609,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 115917,
@@ -4523,12 +4563,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 71822,
+      "num": 71822,
+      "word": "原来植物人是会动的",
+      "onboard_time": 1680014131,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 71477,
+      "num": 71477,
+      "word": "金泰亨男友风造型",
+      "onboard_time": 1680019525,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 68212,
       "num": 68212,
       "word": "他是谁聂宝华反杀",
       "onboard_time": 1679952431,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 67402,
+      "num": 67402,
+      "word": "KCL颁奖典礼",
+      "onboard_time": 1680019286,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 66172,
@@ -4595,8 +4659,16 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 44405,
+      "num": 58087,
+      "word": "不同薪资员工对工作的态度",
+      "onboard_time": 1680018026,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 40580,
-      "num": 907121,
+      "num": 919447,
       "word": "守好中国式现代化的本和源",
       "onboard_time": 1680011548,
       "rank": 2,
