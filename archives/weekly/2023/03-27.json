@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1679985414515,
+  "endTime": 1679987803018,
   "band_list": [
     {
       "raw_hot": 4718675,
@@ -235,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1301701,
+      "num": 1301701,
+      "word": "乌合麒麟 丛林之隙",
+      "onboard_time": 1679984788,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1278211,
       "num": 1278211,
       "word": "上海每5人中有两个念过大学",
@@ -321,6 +329,14 @@
       "onboard_time": 1679924071,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1074328,
+      "num": 1074328,
+      "word": "适合30岁以上的工作找到了",
+      "onboard_time": 1679986107,
+      "rank": 3,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 1073849,
@@ -473,6 +489,14 @@
       "onboard_time": 1679971887,
       "rank": 7,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 878294,
+      "num": 733377,
+      "word": "ChatGPT替代不了水瓶射手双子",
+      "onboard_time": 1679985088,
+      "rank": 18,
+      "category": "幽默,科技"
     },
     {
       "raw_hot": 841190,
@@ -827,6 +851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 540171,
+      "num": 232900,
+      "word": "中国哪个小县城名字最好听",
+      "onboard_time": 1679982808,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 529235,
       "num": 509631,
       "word": "刘亚仁前往警察厅接受调查",
@@ -1051,12 +1083,12 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 425402,
-      "num": 198915,
-      "word": "中国哪个小县城名字最好听",
-      "onboard_time": 1679982808,
-      "rank": 22,
-      "category": "情感"
+      "raw_hot": 424928,
+      "num": 232588,
+      "word": "女生同情老人买5西瓜切开发现全坏",
+      "onboard_time": 1679982088,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 424293,
@@ -1113,14 +1145,6 @@
       "onboard_time": 1679909729,
       "rank": 7,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 405232,
-      "num": 202401,
-      "word": "女生同情老人买5西瓜切开发现全坏",
-      "onboard_time": 1679982088,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 402871,
@@ -1193,6 +1217,14 @@
       "onboard_time": 1679972127,
       "rank": 9,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 389613,
+      "num": 389613,
+      "word": "什么是巧克力囊肿",
+      "onboard_time": 1679986886,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 385158,
@@ -1283,6 +1315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 353202,
+      "num": 231962,
+      "word": "杨颖数字高定",
+      "onboard_time": 1679982507,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 352902,
       "num": 336232,
       "word": "李现一诺Cat微博之夜合照",
@@ -1297,14 +1337,6 @@
       "onboard_time": 1679960785,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 348561,
-      "num": 348561,
-      "word": "乌合麒麟 丛林之隙",
-      "onboard_time": 1679984788,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 348316,
@@ -1329,14 +1361,6 @@
       "onboard_time": 1679983229,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 344733,
-      "num": 197247,
-      "word": "杨颖数字高定",
-      "onboard_time": 1679982507,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 343287,
@@ -1483,6 +1507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 304273,
+      "num": 304273,
+      "word": "顾客疑因不满发型被理发师杀害",
+      "onboard_time": 1679986286,
+      "rank": 15,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 303488,
       "num": 303488,
       "word": "京剧的哇呀呀喂呀呀哇哈哈哈都啥意思",
@@ -1512,6 +1544,14 @@
       "word": "4岁男童患罕见病体重仅有8.8斤",
       "onboard_time": 1679972907,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 297440,
+      "num": 297440,
+      "word": "中国便秘日",
+      "onboard_time": 1679985207,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -1939,6 +1979,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 225330,
+      "num": 225330,
+      "word": "女子地铁照被AI一键脱衣传播",
+      "onboard_time": 1679987007,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 224284,
       "num": 224284,
       "word": "去有风的地方将上线网飞",
@@ -2067,6 +2115,14 @@
       "category": "体育,作品衍生"
     },
     {
+      "raw_hot": 207919,
+      "num": 207919,
+      "word": "社会的边角料 妈妈的小骄傲",
+      "onboard_time": 1679986527,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 207598,
       "num": 207598,
       "word": "未来巴中145分钟飙拢成都",
@@ -2105,6 +2161,14 @@
       "onboard_time": 1679983707,
       "rank": 19,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 205981,
+      "num": 205981,
+      "word": "被杜华杨天真通讯录人数吓到",
+      "onboard_time": 1679984670,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 205790,
@@ -2185,14 +2249,6 @@
       "onboard_time": 1679894256,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 197870,
-      "num": 197870,
-      "word": "ChatGPT替代不了水瓶射手双子",
-      "onboard_time": 1679985088,
-      "rank": 18,
-      "category": "幽默,科技"
     },
     {
       "raw_hot": 197525,
@@ -2531,14 +2587,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 173205,
-      "num": 173205,
-      "word": "被杜华杨天真通讯录人数吓到",
-      "onboard_time": 1679984670,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 173017,
       "num": 173017,
       "word": "孙述涛被查",
@@ -2577,6 +2625,14 @@
       "onboard_time": 1679895272,
       "rank": 49,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 170184,
+      "num": 170184,
+      "word": "吴磊的肱二头肌",
+      "onboard_time": 1679986047,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 169855,
@@ -2673,6 +2729,14 @@
       "onboard_time": 1679901390,
       "rank": 48,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 154291,
+      "num": 154291,
+      "word": "狗狗的想法",
+      "onboard_time": 1679985687,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 152879,
@@ -3315,14 +3379,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 89924,
-      "num": 89924,
-      "word": "中国便秘日",
-      "onboard_time": 1679985207,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 89226,
       "num": 89226,
       "word": "当事人回应摆摊日入9000质疑",
@@ -3361,6 +3417,14 @@
       "onboard_time": 1679881588,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 83614,
+      "num": 83614,
+      "word": "西湖摇橹船的意境感绝了",
+      "onboard_time": 1679987189,
+      "rank": 44,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 82894,
@@ -3451,6 +3515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 65959,
+      "num": 65959,
+      "word": "厦门人到底有多爱芋泥",
+      "onboard_time": 1679987427,
+      "rank": 49,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 59144,
       "num": 59144,
       "word": "晨晓夫妇蹭鼻尖是现场改的",
@@ -3496,6 +3568,14 @@
       "word": "阿奶给刘亦菲颁奖",
       "onboard_time": 1679854754,
       "rank": 49,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 34749,
+      "num": 304562,
+      "word": "微博之夜女星妆造揭秘",
+      "onboard_time": 1679986886,
+      "rank": 14,
       "category": "作品衍生"
     },
     {
