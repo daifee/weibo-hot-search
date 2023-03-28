@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1679988831665,
+  "endTime": 1679991860848,
   "band_list": [
     {
       "raw_hot": 4718675,
@@ -73,6 +73,14 @@
       "onboard_time": 1679977413,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 2235754,
+      "num": 2235754,
+      "word": "女子地铁照被AI一键脱衣传播",
+      "onboard_time": 1679987007,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2186717,
@@ -331,6 +339,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1090598,
+      "num": 1090598,
+      "word": "唐嫣说大家还记得何以笙箫默非常感激",
+      "onboard_time": 1679989228,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1086494,
       "num": 1086494,
       "word": "深圳暴雨致航班取消旅客跪求起飞",
@@ -361,6 +377,14 @@
       "onboard_time": 1679912489,
       "rank": 1,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1019961,
+      "num": 1019961,
+      "word": "顾客疑因不满发型被理发师杀害",
+      "onboard_time": 1679986286,
+      "rank": 15,
+      "category": "社会负面"
     },
     {
       "raw_hot": 1018340,
@@ -491,12 +515,28 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 881084,
+      "num": 881084,
+      "word": "长月烬明播出时间",
+      "onboard_time": 1679990309,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 878294,
       "num": 733377,
       "word": "ChatGPT替代不了水瓶射手双子",
       "onboard_time": 1679985088,
       "rank": 18,
       "category": "幽默,科技"
+    },
+    {
+      "raw_hot": 843062,
+      "num": 386058,
+      "word": "吉林四平",
+      "onboard_time": 1679989589,
+      "rank": 10,
+      "category": "社会负面"
     },
     {
       "raw_hot": 841190,
@@ -553,14 +593,6 @@
       "onboard_time": 1679903790,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 753752,
-      "num": 753752,
-      "word": "女子地铁照被AI一键脱衣传播",
-      "onboard_time": 1679987007,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 724385,
@@ -771,6 +803,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 589843,
+      "num": 589843,
+      "word": "社会的边角料 妈妈的小骄傲",
+      "onboard_time": 1679986527,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 588649,
       "num": 459357,
       "word": "王嘉尔鸳鸯发色",
@@ -825,14 +865,6 @@
       "onboard_time": 1679930013,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 560183,
-      "num": 560183,
-      "word": "顾客疑因不满发型被理发师杀害",
-      "onboard_time": 1679986286,
-      "rank": 15,
-      "category": "社会负面"
     },
     {
       "raw_hot": 557953,
@@ -1171,6 +1203,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 403770,
+      "num": 403770,
+      "word": "爱思爱梦",
+      "onboard_time": 1679989407,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 402871,
       "num": 402871,
       "word": "广州报名骨灰撒海市民逐年增多",
@@ -1377,14 +1417,6 @@
       "onboard_time": 1679983229,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 343502,
-      "num": 343502,
-      "word": "社会的边角料 妈妈的小骄傲",
-      "onboard_time": 1679986527,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 343287,
@@ -1769,6 +1801,14 @@
       "onboard_time": 1679978670,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 260367,
+      "num": 260367,
+      "word": "重庆姐弟坠亡案二审暂定4月3日开庭",
+      "onboard_time": 1679990968,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 258417,
@@ -2235,6 +2275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 199784,
+      "num": 199784,
+      "word": "无畏契约国服预约开启",
+      "onboard_time": 1679988509,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 199773,
       "num": 199773,
       "word": "周雨彤追剧随拍",
@@ -2427,6 +2475,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 184099,
+      "num": 184099,
+      "word": "王楚钦孙颖莎三连胜",
+      "onboard_time": 1679990488,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 183975,
       "num": 286387,
       "word": "这就是你的恋爱脑闺蜜吧",
@@ -2507,6 +2563,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 178217,
+      "num": 178217,
+      "word": "男童横穿国道被退伍军人一把抱回",
+      "onboard_time": 1679988267,
+      "rank": 45,
+      "category": "社会新闻,军事"
+    },
+    {
       "raw_hot": 178191,
       "num": 178191,
       "word": "防止泄露未成年人隐私的欺凌视频传播",
@@ -2529,6 +2593,14 @@
       "onboard_time": 1679880026,
       "rank": 39,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 177509,
+      "num": 177509,
+      "word": "蔡卓妍是香港站巡回演唱会嘉宾",
+      "onboard_time": 1679991448,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 177430,
@@ -2585,6 +2657,14 @@
       "onboard_time": 1679922270,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 173928,
+      "num": 173928,
+      "word": "谭松韵墨镜随拍",
+      "onboard_time": 1679991568,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 173399,
@@ -2665,14 +2745,6 @@
       "onboard_time": 1679966666,
       "rank": 36,
       "category": "财经"
-    },
-    {
-      "raw_hot": 168119,
-      "num": 168119,
-      "word": "无畏契约国服预约开启",
-      "onboard_time": 1679988509,
-      "rank": 29,
-      "category": "游戏"
     },
     {
       "raw_hot": 167782,
@@ -3075,6 +3147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 119927,
+      "num": 119927,
+      "word": "不为一口奶折腰的宝宝",
+      "onboard_time": 1679990548,
+      "rank": 39,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 119517,
       "num": 119517,
       "word": "张雨绮古装额饰妆造",
@@ -3379,6 +3459,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 93562,
+      "num": 93562,
+      "word": "头一回见在学校食堂办婚礼",
+      "onboard_time": 1679990728,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 93544,
       "num": 93544,
       "word": "胡明轩扣篮",
@@ -3425,14 +3513,6 @@
       "onboard_time": 1679873842,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 86396,
-      "num": 86396,
-      "word": "男童横穿国道被退伍军人一把抱回",
-      "onboard_time": 1679988267,
-      "rank": 45,
-      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 85662,
@@ -3513,6 +3593,14 @@
       "onboard_time": 1679958920,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 76140,
+      "num": 76140,
+      "word": "练块儿的猫",
+      "onboard_time": 1679991267,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 75025,
@@ -3654,6 +3742,9 @@
     },
     {
       "word": "#2023年清朗专项行动#"
+    },
+    {
+      "word": "#中方愿继续支持沙伊对话后续进程#"
     }
   ]
 }

@@ -1,0 +1,410 @@
+{
+  "runTime": 1679991860848,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2235754,
+        "num": 2235754,
+        "word": "女子地铁照被AI一键脱衣传播",
+        "onboard_time": 1679987007,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1369283,
+        "num": 1369283,
+        "word": "适合30岁以上的工作找到了",
+        "onboard_time": 1679986107,
+        "rank": 1,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 74424,
+        "num": 1219527,
+        "word": "国家网信办介绍2023年清朗行动有关情况",
+        "onboard_time": 1679971288,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1090598,
+        "num": 1090598,
+        "word": "唐嫣说大家还记得何以笙箫默非常感激",
+        "onboard_time": 1679989228,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1019961,
+        "num": 1019961,
+        "word": "顾客疑因不满发型被理发师杀害",
+        "onboard_time": 1679986286,
+        "rank": 4,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 881084,
+        "num": 881084,
+        "word": "长月烬明播出时间",
+        "onboard_time": 1679990309,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 848583,
+        "num": 848583,
+        "word": "你懒 就没有作品",
+        "onboard_time": 1679977413,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 589843,
+        "num": 589843,
+        "word": "社会的边角料 妈妈的小骄傲",
+        "onboard_time": 1679986527,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 466096,
+        "num": 466096,
+        "word": "什么是巧克力囊肿",
+        "onboard_time": 1679986886,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 403770,
+        "num": 403770,
+        "word": "爱思爱梦",
+        "onboard_time": 1679989407,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 843062,
+        "num": 386058,
+        "word": "吉林四平",
+        "onboard_time": 1679989589,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 696844,
+        "num": 358117,
+        "word": "乌合麒麟 丛林之隙",
+        "onboard_time": 1679984788,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 557416,
+        "num": 341025,
+        "word": "ChatGPT替代不了水瓶射手双子",
+        "onboard_time": 1679985088,
+        "rank": 12,
+        "category": "幽默,科技"
+      },
+      {
+        "raw_hot": 445549,
+        "num": 315231,
+        "word": "揭开上海杀妻藏尸案背后不为人知的事",
+        "onboard_time": 1679980828,
+        "rank": 13,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 303268,
+        "num": 303268,
+        "word": "阿黛尔无限期中止职业生涯",
+        "onboard_time": 1679983349,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 295355,
+        "num": 295355,
+        "word": "苏醒加盟跑男",
+        "onboard_time": 1679977529,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 270255,
+        "num": 270255,
+        "word": "免费坐高铁",
+        "onboard_time": 1679966129,
+        "rank": 16,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 260367,
+        "num": 260367,
+        "word": "重庆姐弟坠亡案二审暂定4月3日开庭",
+        "onboard_time": 1679990968,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252577,
+        "num": 252577,
+        "word": "iPhone13成2022年中国最畅销手机",
+        "onboard_time": 1679978372,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 222485,
+        "num": 222485,
+        "word": "瑞幸被吐槽咖啡3口喝完剩下全是冰",
+        "onboard_time": 1679970146,
+        "rank": 19,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 325333,
+        "num": 222229,
+        "word": "中国哪个小县城名字最好听",
+        "onboard_time": 1679982808,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 268777,
+        "num": 221689,
+        "word": "女生同情老人买5西瓜切开发现全坏",
+        "onboard_time": 1679982088,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220748,
+        "num": 220748,
+        "word": "张静初被美国电影学院导演系录取",
+        "onboard_time": 1679976329,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199784,
+        "num": 199784,
+        "word": "无畏契约国服预约开启",
+        "onboard_time": 1679988509,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 190147,
+        "num": 190147,
+        "word": "杨颖数字高定",
+        "onboard_time": 1679982507,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 187982,
+        "num": 187982,
+        "word": "中国便秘日",
+        "onboard_time": 1679985207,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184099,
+        "num": 184099,
+        "word": "王楚钦孙颖莎三连胜",
+        "onboard_time": 1679990488,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178521,
+        "num": 178521,
+        "word": "刘亦菲拍照好喜欢叉腰",
+        "onboard_time": 1679975189,
+        "rank": 27,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 178217,
+        "num": 178217,
+        "word": "男童横穿国道被退伍军人一把抱回",
+        "onboard_time": 1679988267,
+        "rank": 28,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 177509,
+        "num": 177509,
+        "word": "蔡卓妍是香港站巡回演唱会嘉宾",
+        "onboard_time": 1679991448,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 173928,
+        "num": 173928,
+        "word": "谭松韵墨镜随拍",
+        "onboard_time": 1679991568,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169644,
+        "num": 169644,
+        "word": "权志龙将3个月内回归",
+        "onboard_time": 1679984365,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161699,
+        "num": 161699,
+        "word": "TVB艺人为直播集体苦练普通话",
+        "onboard_time": 1679983229,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157671,
+        "num": 157671,
+        "word": "庄达菲冷脸千金",
+        "onboard_time": 1679988806,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 141651,
+        "num": 141651,
+        "word": "杨紫的社交圈好广",
+        "onboard_time": 1679980291,
+        "rank": 34,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 136257,
+        "num": 136257,
+        "word": "被杜华杨天真通讯录人数吓到",
+        "onboard_time": 1679984670,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125859,
+        "num": 125859,
+        "word": "长月烬明",
+        "onboard_time": 1679972607,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 122268,
+        "num": 122268,
+        "word": "真正不想上班的原因是什么",
+        "onboard_time": 1679981010,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120503,
+        "num": 120503,
+        "word": "网传乘风破浪4初舞台歌单",
+        "onboard_time": 1679980408,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119927,
+        "num": 119927,
+        "word": "不为一口奶折腰的宝宝",
+        "onboard_time": 1679990548,
+        "rank": 39,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 117591,
+        "num": 117591,
+        "word": "这婚礼算是相当炸裂了",
+        "onboard_time": 1679978732,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 96083,
+        "num": 96083,
+        "word": "狗狗的想法",
+        "onboard_time": 1679985687,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 95082,
+        "num": 95082,
+        "word": "爱情而已",
+        "onboard_time": 1679976571,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 93562,
+        "num": 93562,
+        "word": "头一回见在学校食堂办婚礼",
+        "onboard_time": 1679990728,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 93085,
+        "num": 93085,
+        "word": "论注意力可以有多不集中",
+        "onboard_time": 1679988631,
+        "rank": 44,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 92248,
+        "num": 92248,
+        "word": "吴磊的肱二头肌",
+        "onboard_time": 1679986047,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 89765,
+        "num": 89765,
+        "word": "70.8%上海人只希望有一个孩子",
+        "onboard_time": 1679971887,
+        "rank": 46,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 87487,
+        "num": 87487,
+        "word": "iPhone折旧率仅为安卓一半",
+        "onboard_time": 1679968046,
+        "rank": 47,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 84591,
+        "num": 84591,
+        "word": "四六级",
+        "onboard_time": 1679967087,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 76140,
+        "num": 76140,
+        "word": "练块儿的猫",
+        "onboard_time": 1679991267,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#中方愿继续支持沙伊对话后续进程#"
+    }
+  }
+}
