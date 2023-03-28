@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679960024698,
+  "endTime": 1679966843831,
   "band_list": [
     {
       "raw_hot": 27113842,
@@ -4352,6 +4352,14 @@
       "word": "北京地铁10号线",
       "onboard_time": 1679444369,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1278211,
+      "num": 1278211,
+      "word": "上海每5人中有两个念过大学",
+      "onboard_time": 1679962048,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -11067,6 +11075,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 711856,
+      "num": 711856,
+      "word": "谷爱凌被熊猫花花可爱到",
+      "onboard_time": 1679959943,
+      "rank": 34,
+      "category": "作品衍生,体育"
+    },
+    {
       "raw_hot": 711371,
       "num": 711371,
       "word": "李到晛和IU演过德鲁纳酒店",
@@ -12344,6 +12360,14 @@
       "word": "四只大熊猫凑一桌像在打麻将",
       "onboard_time": 1678608084,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 652640,
+      "num": 652640,
+      "word": "美国一小学发生枪击事件致7人死亡",
+      "onboard_time": 1679962949,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -13659,6 +13683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 608748,
+      "num": 574320,
+      "word": "刘诗诗给杨紫飞吻",
+      "onboard_time": 1679963848,
+      "rank": 6,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 608690,
       "num": 608690,
       "word": "微博之夜战报",
@@ -14113,6 +14145,14 @@
       "onboard_time": 1678283007,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 591748,
+      "num": 591748,
+      "word": "iPhone15将在更多国家销售eSIM版",
+      "onboard_time": 1679964089,
+      "rank": 5,
+      "category": "科技"
     },
     {
       "raw_hot": 591299,
@@ -16763,6 +16803,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 515055,
+      "num": 515055,
+      "word": "不要做那个揉纸团的人",
+      "onboard_time": 1679962349,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 514422,
       "num": 355454,
       "word": "为什么孕期一定要认真对待",
@@ -18339,6 +18387,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 477726,
+      "num": 477726,
+      "word": "台湾清明节后鸭蛋将大缺",
+      "onboard_time": 1679963970,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 477705,
       "num": 477705,
       "word": "中伊俄等国将举行海上联合军演",
@@ -19577,6 +19633,14 @@
       "onboard_time": 1677748892,
       "rank": 19,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 446304,
+      "num": 446304,
+      "word": "免费坐高铁",
+      "onboard_time": 1679966129,
+      "rank": 9,
+      "category": "旅游"
     },
     {
       "raw_hot": 446274,
@@ -22531,6 +22595,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 381935,
+      "num": 381935,
+      "word": "中国专家查看丫丫情况",
+      "onboard_time": 1679964992,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 381905,
       "num": 381905,
       "word": "把猫猫一把拖进被窝",
@@ -22921,6 +22993,14 @@
       "onboard_time": 1679527100,
       "rank": 10,
       "category": "财经"
+    },
+    {
+      "raw_hot": 376097,
+      "num": 376097,
+      "word": "张大大是去要签名照了吧",
+      "onboard_time": 1679961146,
+      "rank": 15,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 376002,
@@ -24545,6 +24625,14 @@
       "onboard_time": 1679210186,
       "rank": 15,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 349122,
+      "num": 349122,
+      "word": "文东恩河道英策划全在俊的死",
+      "onboard_time": 1679960785,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 349087,
@@ -27531,6 +27619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 304864,
+      "num": 304864,
+      "word": "严浩翔主动伸手牵女嘉宾",
+      "onboard_time": 1679960422,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 304833,
       "num": 304833,
       "word": "黑暗荣耀花絮",
@@ -27649,6 +27745,14 @@
       "onboard_time": 1678580363,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 302094,
+      "num": 302094,
+      "word": "杭州地铁现打工人专线",
+      "onboard_time": 1679965230,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 302047,
@@ -29395,6 +29499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 278350,
+      "num": 278350,
+      "word": "iOS16.4正式版来了",
+      "onboard_time": 1679960785,
+      "rank": 20,
+      "category": "科技"
+    },
+    {
       "raw_hot": 278346,
       "num": 278346,
       "word": "DRG战胜AG",
@@ -30209,6 +30321,14 @@
       "onboard_time": 1678625488,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 268324,
+      "num": 268324,
+      "word": "重庆省考",
+      "onboard_time": 1679966129,
+      "rank": 21,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 268117,
@@ -31089,6 +31209,14 @@
       "onboard_time": 1679447009,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 256626,
+      "num": 256626,
+      "word": "全智贤姜栋元将合作新剧北极星",
+      "onboard_time": 1679966307,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 256592,
@@ -33651,6 +33779,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 229327,
+      "num": 229327,
+      "word": "库克",
+      "onboard_time": 1679965350,
+      "rank": 26,
+      "category": "科技"
+    },
+    {
       "raw_hot": 229044,
       "num": 229044,
       "word": "原来蚕娘这个职业一直默默存在",
@@ -35803,6 +35939,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 211176,
+      "num": 211176,
+      "word": "行行出状元真不是传说",
+      "onboard_time": 1679964150,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211015,
       "num": 211015,
       "word": "双休日对打工人有多重要",
@@ -37881,6 +38025,14 @@
       "onboard_time": 1678626446,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 201067,
+      "num": 201067,
+      "word": "情感漠视 冷暴力",
+      "onboard_time": 1679966307,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 200994,
@@ -42795,6 +42947,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 174472,
+      "num": 174472,
+      "word": "放在整个公园界都相当炸裂",
+      "onboard_time": 1679960545,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 174302,
       "num": 174302,
       "word": "王楚然想和彭冠英演古偶",
@@ -43553,6 +43713,14 @@
       "onboard_time": 1679019089,
       "rank": 37,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 169237,
+      "num": 169237,
+      "word": "腾盛博药股价已跌去90%",
+      "onboard_time": 1679966666,
+      "rank": 36,
+      "category": "财经"
     },
     {
       "raw_hot": 169173,
@@ -44395,6 +44563,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 162457,
+      "num": 162457,
+      "word": "陈晓谈和李沁张嘉倪合作",
+      "onboard_time": 1679964510,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 162407,
       "num": 162407,
       "word": "小福贵看了都得叫你声姐",
@@ -45017,6 +45193,14 @@
       "onboard_time": 1678767991,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 157766,
+      "num": 157766,
+      "word": "上海60岁以上常住人口占比25%",
+      "onboard_time": 1679965230,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 157743,
@@ -46731,6 +46915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145287,
+      "num": 145287,
+      "word": "裸辞之后会变得更好吗",
+      "onboard_time": 1679931930,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 145240,
       "num": 1355706,
       "word": "这段跨越千年的对话令人骄傲又感动",
@@ -47347,6 +47539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 140545,
+      "num": 140545,
+      "word": "最伟大的作品2022IFPI全球实销专辑榜冠军",
+      "onboard_time": 1679960303,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 140539,
       "num": 96073,
       "word": "NCTDREAMgo发行五周年",
@@ -47835,14 +48035,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 137586,
-      "num": 118234,
-      "word": "裸辞之后会变得更好吗",
-      "onboard_time": 1679931930,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 137583,
       "num": 137583,
       "word": "不照镜子还以为自己是白狗",
@@ -47977,6 +48169,14 @@
       "onboard_time": 1677719490,
       "rank": 36,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 136462,
+      "num": 136462,
+      "word": "建议适时修订职工带薪年休假条例",
+      "onboard_time": 1679966070,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136399,
@@ -48721,6 +48921,14 @@
       "onboard_time": 1678246468,
       "rank": 38,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 131692,
+      "num": 131692,
+      "word": "被室友孤立是什么感受",
+      "onboard_time": 1679964449,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 131682,
@@ -50697,6 +50905,14 @@
       "onboard_time": 1678193308,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 115917,
+      "num": 115917,
+      "word": "蔡徐坤微博之夜饭拍视频",
+      "onboard_time": 1679962169,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 115901,
@@ -53505,14 +53721,6 @@
       "onboard_time": 1677973400,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 86437,
-      "num": 86437,
-      "word": "谷爱凌被熊猫花花可爱到",
-      "onboard_time": 1679959943,
-      "rank": 34,
-      "category": "作品衍生,体育"
     },
     {
       "raw_hot": 86432,

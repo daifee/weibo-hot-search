@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/03/01 00:27:31 ~ 2023/03/28 07:33:44
+本榜单时间：2023/03/01 00:27:31 ~ 2023/03/28 09:27:23
 </p>
 </blockquote>
 <p>
@@ -3279,6 +3279,12 @@ B站去年给UP主分了91亿（热度：1297168）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%AF%8F5%E4%BA%BA%E4%B8%AD%E6%9C%89%E4%B8%A4%E4%B8%AA%E5%BF%B5%E8%BF%87%E5%A4%A7%E5%AD%A6%23" target="weibo">
+上海每5人中有两个念过大学（热度：1278211）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2330%E5%B2%81%E6%9E%81%E5%85%B6%E6%8E%A5%E8%BF%91%E7%90%86%E6%83%B3%E4%B8%AD%E7%9A%8418%E5%B2%81%23" target="weibo">
 30岁极其接近理想中的18岁（热度：1277699）
 </a>
@@ -6005,12 +6011,6 @@ HM回应女子试衣用新衣垫脚（热度：906418）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%87%E6%97%85%E5%B1%80%E5%89%AF%E5%B1%80%E9%95%BF%E5%90%90%E6%A7%BD%E8%A2%AB%E8%AF%B1%E5%AF%BC%E5%8A%9E%E8%AF%9D%E8%B4%B9%E5%A5%97%E9%A4%90%23" target="weibo">
 文旅局副局长吐槽被诱导办话费套餐（热度：890958）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%81%87%E6%B3%B0%E5%9B%BD%E9%A6%99%E7%B1%B3%E9%97%AE%E9%A2%98%23" target="weibo">
-官方通报假泰国香米问题（热度：890311）
 </a>
 </li>
 

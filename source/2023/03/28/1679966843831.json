@@ -1,0 +1,410 @@
+{
+  "runTime": 1679966843831,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1278211,
+        "num": 1278211,
+        "word": "上海每5人中有两个念过大学",
+        "onboard_time": 1679962048,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 867300,
+        "num": 867300,
+        "word": "千万不要用这个姿势睡觉",
+        "onboard_time": 1679932529,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 19695,
+        "num": 776289,
+        "word": "春日里的凡人微光",
+        "onboard_time": 1679879306,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 711856,
+        "num": 711856,
+        "word": "谷爱凌被熊猫花花可爱到",
+        "onboard_time": 1679959943,
+        "rank": 3,
+        "category": "作品衍生,体育"
+      },
+      {
+        "raw_hot": 652640,
+        "num": 652640,
+        "word": "美国一小学发生枪击事件致7人死亡",
+        "onboard_time": 1679962949,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 591748,
+        "num": 591748,
+        "word": "iPhone15将在更多国家销售eSIM版",
+        "onboard_time": 1679964089,
+        "rank": 5,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 608748,
+        "num": 574320,
+        "word": "刘诗诗给杨紫飞吻",
+        "onboard_time": 1679963848,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 515055,
+        "num": 515055,
+        "word": "不要做那个揉纸团的人",
+        "onboard_time": 1679962349,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 477726,
+        "num": 477726,
+        "word": "台湾清明节后鸭蛋将大缺",
+        "onboard_time": 1679963970,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 446304,
+        "num": 446304,
+        "word": "免费坐高铁",
+        "onboard_time": 1679966129,
+        "rank": 9,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 1064554,
+        "num": 439036,
+        "word": "知名浙商去世儿子继母百亿夺权大战",
+        "onboard_time": 1679923350,
+        "rank": 10,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 730625,
+        "num": 429036,
+        "word": "黄磊孙莉回应多多争议",
+        "onboard_time": 1679912791,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 520581,
+        "num": 406366,
+        "word": "男子2天喝4顿后死亡起诉店家获赔",
+        "onboard_time": 1679923411,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 457482,
+        "num": 383937,
+        "word": "中学浴室偷拍事件知情学生发声",
+        "onboard_time": 1679930553,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381935,
+        "num": 381935,
+        "word": "中国专家查看丫丫情况",
+        "onboard_time": 1679964992,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376097,
+        "num": 376097,
+        "word": "张大大是去要签名照了吧",
+        "onboard_time": 1679961146,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 372755,
+        "num": 372755,
+        "word": "深圳暴雨致航班取消旅客跪求起飞",
+        "onboard_time": 1679924071,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349122,
+        "num": 349122,
+        "word": "文东恩河道英策划全在俊的死",
+        "onboard_time": 1679960785,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 304864,
+        "num": 304864,
+        "word": "严浩翔主动伸手牵女嘉宾",
+        "onboard_time": 1679960422,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 302094,
+        "num": 302094,
+        "word": "杭州地铁现打工人专线",
+        "onboard_time": 1679965230,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278350,
+        "num": 278350,
+        "word": "iOS16.4正式版来了",
+        "onboard_time": 1679960785,
+        "rank": 20,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 268324,
+        "num": 268324,
+        "word": "重庆省考",
+        "onboard_time": 1679966129,
+        "rank": 21,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 256626,
+        "num": 256626,
+        "word": "全智贤姜栋元将合作新剧北极星",
+        "onboard_time": 1679966307,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 256388,
+        "num": 256388,
+        "word": "首个国产新冠药停产",
+        "onboard_time": 1679938395,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240381,
+        "num": 240381,
+        "word": "东南亚国家是否真的不能去了",
+        "onboard_time": 1679943613,
+        "rank": 24,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 234138,
+        "num": 234138,
+        "word": "直男并不直男癌",
+        "onboard_time": 1679934084,
+        "rank": 25,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 229327,
+        "num": 229327,
+        "word": "库克",
+        "onboard_time": 1679965350,
+        "rank": 26,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 213601,
+        "num": 213601,
+        "word": "刘亚仁被麦克风扎脸",
+        "onboard_time": 1679930013,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211176,
+        "num": 211176,
+        "word": "行行出状元真不是传说",
+        "onboard_time": 1679964150,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201067,
+        "num": 201067,
+        "word": "情感漠视 冷暴力",
+        "onboard_time": 1679966307,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 193851,
+        "num": 193851,
+        "word": "中方愿全部接收洪都拉斯在台留学生",
+        "onboard_time": 1679927194,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185793,
+        "num": 185793,
+        "word": "为什么删掉了你喜欢的人",
+        "onboard_time": 1679925393,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 179181,
+        "num": 179181,
+        "word": "徐汇中学通报网传事件",
+        "onboard_time": 1679958681,
+        "rank": 32,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 178090,
+        "num": 178090,
+        "word": "微博之夜战报",
+        "onboard_time": 1679925332,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 174472,
+        "num": 174472,
+        "word": "放在整个公园界都相当炸裂",
+        "onboard_time": 1679960545,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 173801,
+        "num": 173801,
+        "word": "这居然是阿衰和大脸妹",
+        "onboard_time": 1679920707,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 169237,
+        "num": 169237,
+        "word": "腾盛博药股价已跌去90%",
+        "onboard_time": 1679966666,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 164914,
+        "num": 164914,
+        "word": "外交部回应是否允许洪留学生转至大陆求学",
+        "onboard_time": 1679959341,
+        "rank": 37,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 162457,
+        "num": 162457,
+        "word": "陈晓谈和李沁张嘉倪合作",
+        "onboard_time": 1679964510,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159347,
+        "num": 159347,
+        "word": "洪都拉斯总统要求美国解除60多年封锁",
+        "onboard_time": 1679928755,
+        "rank": 39,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 157766,
+        "num": 157766,
+        "word": "上海60岁以上常住人口占比25%",
+        "onboard_time": 1679965230,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145287,
+        "num": 145287,
+        "word": "裸辞之后会变得更好吗",
+        "onboard_time": 1679931930,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140545,
+        "num": 140545,
+        "word": "最伟大的作品2022IFPI全球实销专辑榜冠军",
+        "onboard_time": 1679960303,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 136462,
+        "num": 136462,
+        "word": "建议适时修订职工带薪年休假条例",
+        "onboard_time": 1679966070,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133773,
+        "num": 133773,
+        "word": "孩子给离世父亲发短信被回复",
+        "onboard_time": 1679918612,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132648,
+        "num": 132648,
+        "word": "Chinese空腹",
+        "onboard_time": 1679929653,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 131692,
+        "num": 131692,
+        "word": "被室友孤立是什么感受",
+        "onboard_time": 1679964449,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 121286,
+        "num": 121286,
+        "word": "张艺兴出发怼脸自拍照",
+        "onboard_time": 1679959402,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115917,
+        "num": 115917,
+        "word": "蔡徐坤微博之夜饭拍视频",
+        "onboard_time": 1679962169,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 108611,
+        "num": 108611,
+        "word": "白敬亭持股公司经营异常",
+        "onboard_time": 1679928153,
+        "rank": 49,
+        "category": "艺人,财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#命运与共里的总书记用典#"
+    }
+  }
+}
