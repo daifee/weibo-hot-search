@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1679995117056,
+  "endTime": 1679996037319,
   "band_list": [
     {
       "raw_hot": 4718675,
@@ -387,6 +387,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1053717,
+      "num": 1053717,
+      "word": "韩流演唱会或于下半年重返内地",
+      "onboard_time": 1679994147,
+      "rank": 4,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1019961,
       "num": 1019961,
       "word": "顾客疑因不满发型被理发师杀害",
@@ -449,6 +457,14 @@
       "onboard_time": 1679983349,
       "rank": 5,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 949147,
+      "num": 949147,
+      "word": "葛优打葛优躺官司获赔759万",
+      "onboard_time": 1679993668,
+      "rank": 6,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 942427,
@@ -540,7 +556,7 @@
     },
     {
       "raw_hot": 866068,
-      "num": 346231,
+      "num": 409189,
       "word": "内娱仪态教科书",
       "onboard_time": 1679993428,
       "rank": 11,
@@ -611,14 +627,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 746052,
-      "num": 746052,
-      "word": "韩流演唱会或于下半年重返内地",
-      "onboard_time": 1679994147,
-      "rank": 4,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 724385,
       "num": 724385,
       "word": "教育局称徐汇中学无男浴室",
@@ -681,14 +689,6 @@
       "onboard_time": 1679883208,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 670929,
-      "num": 670929,
-      "word": "葛优打葛优躺官司获赔759万",
-      "onboard_time": 1679993668,
-      "rank": 6,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 654578,
@@ -785,6 +785,14 @@
       "onboard_time": 1679873301,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 600447,
+      "num": 600447,
+      "word": "现在的你敢失业吗",
+      "onboard_time": 1679994028,
+      "rank": 18,
+      "category": "社会议题"
     },
     {
       "raw_hot": 598451,
@@ -913,6 +921,14 @@
       "onboard_time": 1679921670,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 557768,
+      "num": 396374,
+      "word": "周觅还在司马",
+      "onboard_time": 1679994207,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 557508,
@@ -1187,20 +1203,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 424683,
-      "num": 330156,
-      "word": "周觅还在司马",
-      "onboard_time": 1679994207,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 424293,
       "num": 424293,
       "word": "全面清理虚构摆拍导向不良的短视频",
       "onboard_time": 1679983527,
       "rank": 10,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 424216,
+      "num": 424216,
+      "word": "白羊容易上头但下头更快",
+      "onboard_time": 1679992468,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 421385,
@@ -1435,14 +1451,6 @@
       "category": "作品衍生,游戏"
     },
     {
-      "raw_hot": 351898,
-      "num": 351898,
-      "word": "白羊容易上头但下头更快",
-      "onboard_time": 1679992468,
-      "rank": 25,
-      "category": "情感"
-    },
-    {
       "raw_hot": 349122,
       "num": 349122,
       "word": "文东恩河道英策划全在俊的死",
@@ -1489,6 +1497,14 @@
       "onboard_time": 1679943613,
       "rank": 26,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 334413,
+      "num": 234581,
+      "word": "孙亦航晒与薛之谦合照",
+      "onboard_time": 1679995708,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 333085,
@@ -1683,6 +1699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 293961,
+      "num": 293961,
+      "word": "葡萄牛乳茶",
+      "onboard_time": 1679993792,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 292864,
       "num": 292864,
       "word": "白桃星座",
@@ -1875,14 +1899,6 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 263623,
-      "num": 263623,
-      "word": "现在的你敢失业吗",
-      "onboard_time": 1679994028,
-      "rank": 18,
-      "category": "社会议题"
-    },
-    {
       "raw_hot": 260788,
       "num": 260788,
       "word": "蔡徐坤走路好男模",
@@ -2051,6 +2067,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 237563,
+      "num": 237563,
+      "word": "中国科学家发现月球水库",
+      "onboard_time": 1679993848,
+      "rank": 36,
+      "category": "科技,国内要闻"
+    },
+    {
       "raw_hot": 235379,
       "num": 213240,
       "word": "郑秀妍紫色拖尾裙",
@@ -2115,6 +2139,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 226056,
+      "num": 226056,
+      "word": "白鹿黑色挂脖长裙随拍",
+      "onboard_time": 1679993248,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 224284,
       "num": 224284,
       "word": "去有风的地方将上线网飞",
@@ -2137,14 +2169,6 @@
       "onboard_time": 1679994326,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 223136,
-      "num": 223136,
-      "word": "白鹿黑色挂脖长裙随拍",
-      "onboard_time": 1679993248,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 221916,
@@ -2297,14 +2321,6 @@
       "onboard_time": 1679983707,
       "rank": 19,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 206541,
-      "num": 206541,
-      "word": "葡萄牛乳茶",
-      "onboard_time": 1679993792,
-      "rank": 30,
-      "category": "美食"
     },
     {
       "raw_hot": 205981,
@@ -2835,6 +2851,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 170116,
+      "num": 170116,
+      "word": "赞多手冲咖啡vlog",
+      "onboard_time": 1679995529,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 169855,
       "num": 169855,
       "word": "黄牛的操作能有多离谱",
@@ -2872,6 +2896,14 @@
       "word": "每天按时出门假装去上班",
       "onboard_time": 1679977952,
       "rank": 49,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 163712,
+      "num": 163712,
+      "word": "AI男友女友生成器",
+      "onboard_time": 1679993550,
+      "rank": 34,
       "category": "幽默"
     },
     {
@@ -2931,6 +2963,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 155701,
+      "num": 155701,
+      "word": "王者曜的调整方案",
+      "onboard_time": 1679993848,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 155380,
       "num": 155380,
       "word": "连狗子都知道要远离前任",
@@ -2955,12 +2995,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 153219,
-      "num": 153219,
-      "word": "王者曜的调整方案",
-      "onboard_time": 1679993848,
-      "rank": 33,
-      "category": "游戏"
+      "raw_hot": 152966,
+      "num": 152966,
+      "word": "章鱼拿铁",
+      "onboard_time": 1679995349,
+      "rank": 37,
+      "category": "美食"
     },
     {
       "raw_hot": 152879,
@@ -2977,14 +3017,6 @@
       "onboard_time": 1679821287,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 152098,
-      "num": 152098,
-      "word": "AI男友女友生成器",
-      "onboard_time": 1679993550,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 151375,
@@ -3105,14 +3137,6 @@
       "onboard_time": 1679900069,
       "rank": 36,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 139798,
-      "num": 139798,
-      "word": "中国科学家发现月球水库",
-      "onboard_time": 1679993848,
-      "rank": 36,
-      "category": "科技,国内要闻"
     },
     {
       "raw_hot": 138400,
@@ -3265,6 +3289,14 @@
       "onboard_time": 1679836827,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 124774,
+      "num": 124774,
+      "word": "男子求职被要求在杭州本地买房",
+      "onboard_time": 1679995107,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 124348,
@@ -3641,14 +3673,6 @@
       "onboard_time": 1679913094,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 90726,
-      "num": 90726,
-      "word": "男子求职被要求在杭州本地买房",
-      "onboard_time": 1679995107,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 90383,
