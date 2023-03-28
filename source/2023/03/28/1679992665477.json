@@ -1,0 +1,410 @@
+{
+  "runTime": 1679992665477,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1265200,
+        "num": 1265200,
+        "word": "适合30岁以上的工作找到了",
+        "onboard_time": 1679986107,
+        "rank": 0,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 1140049,
+        "num": 1140049,
+        "word": "唐嫣说大家还记得何以笙箫默非常感激",
+        "onboard_time": 1679989228,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 71547,
+        "num": 887166,
+        "word": "国家网信办介绍2023年清朗行动有关情况",
+        "onboard_time": 1679971288,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 880188,
+        "num": 880188,
+        "word": "长月烬明播出时间",
+        "onboard_time": 1679990309,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 721470,
+        "num": 721470,
+        "word": "重庆姐弟坠亡案二审暂定4月3日开庭",
+        "onboard_time": 1679990968,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 718383,
+        "num": 718383,
+        "word": "你懒 就没有作品",
+        "onboard_time": 1679977413,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 457363,
+        "num": 457363,
+        "word": "社会的边角料 妈妈的小骄傲",
+        "onboard_time": 1679986527,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 452709,
+        "num": 452709,
+        "word": "什么是巧克力囊肿",
+        "onboard_time": 1679986886,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 375857,
+        "num": 375857,
+        "word": "爱思爱梦",
+        "onboard_time": 1679989407,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248347,
+        "num": 371268,
+        "word": "iPhone13成2022年中国最畅销手机",
+        "onboard_time": 1679978372,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 2050038,
+        "num": 346040,
+        "word": "女子地铁照被AI一键脱衣传播",
+        "onboard_time": 1679987007,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 778965,
+        "num": 320545,
+        "word": "顾客疑因不满发型被理发师杀害",
+        "onboard_time": 1679986286,
+        "rank": 11,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 833927,
+        "num": 295698,
+        "word": "吉林四平",
+        "onboard_time": 1679989589,
+        "rank": 12,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 288683,
+        "num": 288683,
+        "word": "苏醒加盟跑男",
+        "onboard_time": 1679977529,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 606316,
+        "num": 285284,
+        "word": "乌合麒麟 丛林之隙",
+        "onboard_time": 1679984788,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 486421,
+        "num": 278891,
+        "word": "ChatGPT替代不了水瓶射手双子",
+        "onboard_time": 1679985088,
+        "rank": 15,
+        "category": "幽默,科技"
+      },
+      {
+        "raw_hot": 444690,
+        "num": 274914,
+        "word": "张颂文接代言前会先试用",
+        "onboard_time": 1679992647,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 382374,
+        "num": 267605,
+        "word": "揭开上海杀妻藏尸案背后不为人知的事",
+        "onboard_time": 1679980828,
+        "rank": 17,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 267289,
+        "num": 267289,
+        "word": "阿黛尔无限期中止职业生涯",
+        "onboard_time": 1679983349,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 227260,
+        "num": 227260,
+        "word": "免费坐高铁",
+        "onboard_time": 1679966129,
+        "rank": 19,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 311757,
+        "num": 221906,
+        "word": "中国哪个小县城名字最好听",
+        "onboard_time": 1679982808,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 309505,
+        "num": 219778,
+        "word": "女生同情老人买5西瓜切开发现全坏",
+        "onboard_time": 1679982088,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216402,
+        "num": 216402,
+        "word": "瑞幸被吐槽咖啡3口喝完剩下全是冰",
+        "onboard_time": 1679970146,
+        "rank": 22,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 190401,
+        "num": 190401,
+        "word": "张静初被美国电影学院导演系录取",
+        "onboard_time": 1679976329,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186572,
+        "num": 186572,
+        "word": "无畏契约国服预约开启",
+        "onboard_time": 1679988509,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 183428,
+        "num": 183428,
+        "word": "白羊容易上头但下头更快",
+        "onboard_time": 1679992468,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 181769,
+        "num": 181769,
+        "word": "杨颖数字高定",
+        "onboard_time": 1679982507,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 173966,
+        "num": 173966,
+        "word": "谭松韵墨镜随拍",
+        "onboard_time": 1679991568,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169991,
+        "num": 169991,
+        "word": "王楚钦孙颖莎三连胜",
+        "onboard_time": 1679990488,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167444,
+        "num": 167444,
+        "word": "男童横穿国道被退伍军人一把抱回",
+        "onboard_time": 1679988267,
+        "rank": 29,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 195153,
+        "num": 166371,
+        "word": "警方回应理发师持刀杀害顾客",
+        "onboard_time": 1679992468,
+        "rank": 30,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 161562,
+        "num": 161562,
+        "word": "刘亦菲拍照好喜欢叉腰",
+        "onboard_time": 1679975189,
+        "rank": 31,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 158733,
+        "num": 158733,
+        "word": "中国便秘日",
+        "onboard_time": 1679985207,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158647,
+        "num": 158647,
+        "word": "不为一口奶折腰的宝宝",
+        "onboard_time": 1679990548,
+        "rank": 33,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 155257,
+        "num": 155257,
+        "word": "众星为陈若轩新剧打call",
+        "onboard_time": 1679992527,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 153251,
+        "num": 153251,
+        "word": "TVB艺人为直播集体苦练普通话",
+        "onboard_time": 1679983229,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144116,
+        "num": 144116,
+        "word": "庄达菲冷脸千金",
+        "onboard_time": 1679988806,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 135549,
+        "num": 135549,
+        "word": "杨紫的社交圈好广",
+        "onboard_time": 1679980291,
+        "rank": 37,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 133540,
+        "num": 133540,
+        "word": "暖阳戴戒指",
+        "onboard_time": 1679992527,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 129390,
+        "num": 129390,
+        "word": "蔡卓妍是香港站巡回演唱会嘉宾",
+        "onboard_time": 1679991448,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 128414,
+        "num": 128414,
+        "word": "真正不想上班的原因是什么",
+        "onboard_time": 1679981010,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 125580,
+        "num": 125580,
+        "word": "权志龙将3个月内回归",
+        "onboard_time": 1679984365,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118970,
+        "num": 118970,
+        "word": "网传乘风破浪4初舞台歌单",
+        "onboard_time": 1679980408,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115855,
+        "num": 115855,
+        "word": "头一回见在学校食堂办婚礼",
+        "onboard_time": 1679990728,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109565,
+        "num": 109565,
+        "word": "被杜华杨天真通讯录人数吓到",
+        "onboard_time": 1679984670,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109218,
+        "num": 109218,
+        "word": "长月烬明",
+        "onboard_time": 1679972607,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 103794,
+        "num": 103794,
+        "word": "这婚礼算是相当炸裂了",
+        "onboard_time": 1679978732,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 92074,
+        "num": 103793,
+        "word": "70.8%上海人只希望有一个孩子",
+        "onboard_time": 1679971887,
+        "rank": 47,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 87124,
+        "num": 103783,
+        "word": "爱情而已",
+        "onboard_time": 1679976571,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 87045,
+        "num": 103770,
+        "word": "狗狗的想法",
+        "onboard_time": 1679985687,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#2023年清朗专项行动#"
+    }
+  }
+}

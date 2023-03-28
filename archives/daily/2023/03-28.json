@@ -1,6 +1,6 @@
 {
   "startTime": 1679934149836,
-  "endTime": 1679991860848,
+  "endTime": 1679992665477,
   "band_list": [
     {
       "raw_hot": 2747528,
@@ -99,6 +99,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 1140049,
+      "num": 1140049,
+      "word": "唐嫣说大家还记得何以笙箫默非常感激",
+      "onboard_time": 1679989228,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1129146,
       "num": 442487,
       "word": "刘亦菲拍照好喜欢叉腰",
@@ -113,14 +121,6 @@
       "onboard_time": 1679980828,
       "rank": 28,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 1090598,
-      "num": 1090598,
-      "word": "唐嫣说大家还记得何以笙箫默非常感激",
-      "onboard_time": 1679989228,
-      "rank": 3,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1019961,
@@ -232,6 +232,14 @@
       "word": "徐汇中学女生进入男浴室不属实",
       "onboard_time": 1679929053,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 721470,
+      "num": 721470,
+      "word": "重庆姐弟坠亡案二审暂定4月3日开庭",
+      "onboard_time": 1679990968,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -457,6 +465,14 @@
       "onboard_time": 1679914652,
       "rank": 7,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 444690,
+      "num": 274914,
+      "word": "张颂文接代言前会先试用",
+      "onboard_time": 1679992647,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 432204,
@@ -803,14 +819,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 260367,
-      "num": 260367,
-      "word": "重庆姐弟坠亡案二审暂定4月3日开庭",
-      "onboard_time": 1679990968,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 258417,
       "num": 258417,
       "word": "大侦探",
@@ -987,6 +995,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 195153,
+      "num": 166371,
+      "word": "警方回应理发师持刀杀害顾客",
+      "onboard_time": 1679992468,
+      "rank": 30,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 194756,
       "num": 194756,
       "word": "网传乘风破浪4初舞台歌单",
@@ -1041,6 +1057,14 @@
       "onboard_time": 1679990488,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 183428,
+      "num": 183428,
+      "word": "白羊容易上头但下头更快",
+      "onboard_time": 1679992468,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 181202,
@@ -1123,8 +1147,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 173928,
-      "num": 173928,
+      "raw_hot": 173966,
+      "num": 173966,
       "word": "谭松韵墨镜随拍",
       "onboard_time": 1679991568,
       "rank": 30,
@@ -1219,12 +1243,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 158647,
+      "num": 158647,
+      "word": "不为一口奶折腰的宝宝",
+      "onboard_time": 1679990548,
+      "rank": 39,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 157766,
       "num": 157766,
       "word": "上海60岁以上常住人口占比25%",
       "onboard_time": 1679965230,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155257,
+      "num": 155257,
+      "word": "众星为陈若轩新剧打call",
+      "onboard_time": 1679992527,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 155020,
@@ -1323,6 +1363,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 133540,
+      "num": 133540,
+      "word": "暖阳戴戒指",
+      "onboard_time": 1679992527,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 133476,
       "num": 133476,
       "word": "CSGO服务器",
@@ -1355,14 +1403,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 119927,
-      "num": 119927,
-      "word": "不为一口奶折腰的宝宝",
-      "onboard_time": 1679990548,
-      "rank": 39,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 118641,
       "num": 118641,
       "word": "这就是你的恋爱脑闺蜜吧",
@@ -1377,6 +1417,14 @@
       "onboard_time": 1679962169,
       "rank": 48,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 115855,
+      "num": 115855,
+      "word": "头一回见在学校食堂办婚礼",
+      "onboard_time": 1679990728,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 112661,
@@ -1473,14 +1521,6 @@
       "onboard_time": 1679988631,
       "rank": 43,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 93562,
-      "num": 93562,
-      "word": "头一回见在学校食堂办婚礼",
-      "onboard_time": 1679990728,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 93493,
