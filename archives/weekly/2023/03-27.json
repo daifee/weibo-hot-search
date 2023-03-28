@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1679980622498,
+  "endTime": 1679981609022,
   "band_list": [
     {
       "raw_hot": 4718675,
@@ -139,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1729649,
+      "num": 1729649,
+      "word": "你懒 就没有作品",
+      "onboard_time": 1679977413,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1712010,
       "num": 1712010,
       "word": "日媒曝在北京被捕日本男子身份",
@@ -177,14 +185,6 @@
       "onboard_time": 1679977529,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1480272,
-      "num": 1480272,
-      "word": "你懒 就没有作品",
-      "onboard_time": 1679977413,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 1454591,
@@ -531,6 +531,14 @@
       "category": "作品衍生,体育"
     },
     {
+      "raw_hot": 706714,
+      "num": 706714,
+      "word": "iPhone13成2022年中国最畅销手机",
+      "onboard_time": 1679978372,
+      "rank": 5,
+      "category": "科技"
+    },
+    {
       "raw_hot": 701817,
       "num": 422260,
       "word": "BLACKPINK或将出席白宫晚宴",
@@ -673,14 +681,6 @@
       "onboard_time": 1679844986,
       "rank": 20,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 593844,
-      "num": 593844,
-      "word": "iPhone13成2022年中国最畅销手机",
-      "onboard_time": 1679978372,
-      "rank": 5,
-      "category": "科技"
     },
     {
       "raw_hot": 591748,
@@ -1091,6 +1091,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 398758,
+      "num": 398758,
+      "word": "杨紫的社交圈好广",
+      "onboard_time": 1679980291,
+      "rank": 14,
+      "category": "作品衍生,幽默"
+    },
+    {
       "raw_hot": 398039,
       "num": 398039,
       "word": "何同学中文打字机",
@@ -1323,6 +1331,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 322553,
+      "num": 255853,
+      "word": "唐嫣回应孙坚我也没洗脸",
+      "onboard_time": 1679979512,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 322247,
       "num": 322247,
       "word": "男子放巨型风筝反被带上天",
@@ -1353,14 +1369,6 @@
       "onboard_time": 1679893060,
       "rank": 17,
       "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 313797,
-      "num": 313797,
-      "word": "杨紫的社交圈好广",
-      "onboard_time": 1679980291,
-      "rank": 14,
-      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 309549,
@@ -1665,14 +1673,6 @@
       "onboard_time": 1679966307,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 255853,
-      "num": 255853,
-      "word": "唐嫣回应孙坚我也没洗脸",
-      "onboard_time": 1679979512,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 255036,
@@ -2067,6 +2067,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 199987,
+      "num": 199987,
+      "word": "北京语言大学发声明",
+      "onboard_time": 1679981488,
+      "rank": 25,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 199904,
       "num": 199904,
       "word": "Angelababy微博之夜幕后花絮",
@@ -2155,6 +2163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193814,
+      "num": 193814,
+      "word": "严厉打击网上恶意损害企业和企业家形象声誉",
+      "onboard_time": 1679979871,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 193012,
       "num": 193012,
       "word": "德塔文认证彭小苒市场认可度",
@@ -2227,6 +2243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187394,
+      "num": 187394,
+      "word": "揭开上海杀妻藏尸案背后不为人知的事",
+      "onboard_time": 1679980828,
+      "rank": 28,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 187304,
       "num": 187304,
       "word": "日媒称一日本男子在北京被捕",
@@ -2257,14 +2281,6 @@
       "onboard_time": 1679905649,
       "rank": 34,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 184527,
-      "num": 184527,
-      "word": "严厉打击网上恶意损害企业和企业家形象声誉",
-      "onboard_time": 1679979871,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 183975,
@@ -2313,6 +2329,14 @@
       "onboard_time": 1679894673,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181107,
+      "num": 181107,
+      "word": "去学生宿舍上厕所的猫咪",
+      "onboard_time": 1679979211,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 179450,
@@ -2411,6 +2435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 172874,
+      "num": 172874,
+      "word": "网传乘风破浪4初舞台歌单",
+      "onboard_time": 1679980408,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 172681,
       "num": 172681,
       "word": "一个真想买一个真想卖",
@@ -2475,11 +2507,11 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 166263,
-      "num": 166263,
-      "word": "去学生宿舍上厕所的猫咪",
-      "onboard_time": 1679979211,
-      "rank": 38,
+      "raw_hot": 164149,
+      "num": 164149,
+      "word": "每天按时出门假装去上班",
+      "onboard_time": 1679977952,
+      "rank": 49,
       "category": "幽默"
     },
     {
@@ -2577,6 +2609,14 @@
       "onboard_time": 1679891322,
       "rank": 47,
       "category": "科技,情感"
+    },
+    {
+      "raw_hot": 147760,
+      "num": 147760,
+      "word": "防止泄露未成年人隐私的欺凌视频传播",
+      "onboard_time": 1679981129,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 147529,
@@ -2737,14 +2777,6 @@
       "onboard_time": 1679915971,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 132204,
-      "num": 161995,
-      "word": "每天按时出门假装去上班",
-      "onboard_time": 1679977952,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 131998,

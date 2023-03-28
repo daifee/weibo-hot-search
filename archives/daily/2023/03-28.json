@@ -1,6 +1,6 @@
 {
   "startTime": 1679934149836,
-  "endTime": 1679980622498,
+  "endTime": 1679981609022,
   "band_list": [
     {
       "raw_hot": 2747528,
@@ -27,20 +27,20 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 1729649,
+      "num": 1729649,
+      "word": "你懒 就没有作品",
+      "onboard_time": 1679977413,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1519246,
       "num": 1519246,
       "word": "苏醒加盟跑男",
       "onboard_time": 1679977529,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1480272,
-      "num": 1480272,
-      "word": "你懒 就没有作品",
-      "onboard_time": 1679977413,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 1281772,
@@ -155,6 +155,14 @@
       "category": "作品衍生,体育"
     },
     {
+      "raw_hot": 706714,
+      "num": 706714,
+      "word": "iPhone13成2022年中国最畅销手机",
+      "onboard_time": 1679978372,
+      "rank": 5,
+      "category": "科技"
+    },
+    {
       "raw_hot": 701817,
       "num": 422260,
       "word": "BLACKPINK或将出席白宫晚宴",
@@ -193,14 +201,6 @@
       "onboard_time": 1679971467,
       "rank": 8,
       "category": "影视"
-    },
-    {
-      "raw_hot": 593844,
-      "num": 593844,
-      "word": "iPhone13成2022年中国最畅销手机",
-      "onboard_time": 1679978372,
-      "rank": 5,
-      "category": "科技"
     },
     {
       "raw_hot": 591748,
@@ -363,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 398758,
+      "num": 398758,
+      "word": "杨紫的社交圈好广",
+      "onboard_time": 1679980291,
+      "rank": 14,
+      "category": "作品衍生,幽默"
+    },
+    {
       "raw_hot": 390866,
       "num": 390866,
       "word": "EXO见面会完整体海报",
@@ -459,12 +467,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 313797,
-      "num": 313797,
-      "word": "杨紫的社交圈好广",
-      "onboard_time": 1679980291,
-      "rank": 14,
-      "category": "作品衍生,幽默"
+      "raw_hot": 322553,
+      "num": 255853,
+      "word": "唐嫣回应孙坚我也没洗脸",
+      "onboard_time": 1679979512,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 306721,
@@ -643,14 +651,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 255853,
-      "num": 255853,
-      "word": "唐嫣回应孙坚我也没洗脸",
-      "onboard_time": 1679979512,
-      "rank": 22,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 246398,
       "num": 246398,
       "word": "爱情而已",
@@ -771,6 +771,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 199987,
+      "num": 199987,
+      "word": "北京语言大学发声明",
+      "onboard_time": 1679981488,
+      "rank": 25,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 196822,
       "num": 155818,
       "word": "张艺兴出发怼脸自拍照",
@@ -785,6 +793,14 @@
       "onboard_time": 1679959341,
       "rank": 15,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 193814,
+      "num": 193814,
+      "word": "严厉打击网上恶意损害企业和企业家形象声誉",
+      "onboard_time": 1679979871,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 193012,
@@ -811,19 +827,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187394,
+      "num": 187394,
+      "word": "揭开上海杀妻藏尸案背后不为人知的事",
+      "onboard_time": 1679980828,
+      "rank": 28,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 186559,
       "num": 186559,
       "word": "2022全国十大考古新发现揭晓",
       "onboard_time": 1679973928,
       "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 184527,
-      "num": 184527,
-      "word": "严厉打击网上恶意损害企业和企业家形象声誉",
-      "onboard_time": 1679979871,
-      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -833,6 +849,14 @@
       "onboard_time": 1679921670,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 181107,
+      "num": 181107,
+      "word": "去学生宿舍上厕所的猫咪",
+      "onboard_time": 1679979211,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 177190,
@@ -867,6 +891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 172874,
+      "num": 172874,
+      "word": "网传乘风破浪4初舞台歌单",
+      "onboard_time": 1679980408,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 172400,
       "num": 172400,
       "word": "杨颖给邓超拍了什么照片",
@@ -899,11 +931,11 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 166263,
-      "num": 166263,
-      "word": "去学生宿舍上厕所的猫咪",
-      "onboard_time": 1679979211,
-      "rank": 38,
+      "raw_hot": 164149,
+      "num": 164149,
+      "word": "每天按时出门假装去上班",
+      "onboard_time": 1679977952,
+      "rank": 49,
       "category": "幽默"
     },
     {
@@ -979,6 +1011,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 147760,
+      "num": 147760,
+      "word": "防止泄露未成年人隐私的欺凌视频传播",
+      "onboard_time": 1679981129,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145287,
       "num": 145287,
       "word": "裸辞之后会变得更好吗",
@@ -1033,14 +1073,6 @@
       "onboard_time": 1679929232,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 132204,
-      "num": 161995,
-      "word": "每天按时出门假装去上班",
-      "onboard_time": 1679977952,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 129038,
