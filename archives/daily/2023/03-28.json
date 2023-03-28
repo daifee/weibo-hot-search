@@ -1,6 +1,6 @@
 {
   "startTime": 1679934149836,
-  "endTime": 1680008071147,
+  "endTime": 1680009907214,
   "band_list": [
     {
       "raw_hot": 2747528,
@@ -315,6 +315,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 793363,
+      "num": 793363,
+      "word": "2023腾讯剧集片单",
+      "onboard_time": 1680009028,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 765804,
       "num": 765804,
       "word": "中方愿全部接收洪都拉斯在台留学生",
@@ -387,6 +395,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 686856,
+      "num": 686856,
+      "word": "向往的生活",
+      "onboard_time": 1680008548,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 652640,
       "num": 652640,
       "word": "美国一小学发生枪击事件致7人死亡",
@@ -457,6 +473,14 @@
       "onboard_time": 1679930013,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 561263,
+      "num": 244913,
+      "word": "刘亦菲微博之夜下楼梯直拍",
+      "onboard_time": 1680008608,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 557953,
@@ -659,6 +683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 429249,
+      "num": 429249,
+      "word": "阿凡达水之道今日网播",
+      "onboard_time": 1680008728,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 429146,
       "num": 282935,
       "word": "这衣服很贵你确定要试吗",
@@ -787,6 +819,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 373428,
+      "num": 373428,
+      "word": "小说里的少年感",
+      "onboard_time": 1680008365,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 371179,
       "num": 371179,
       "word": "樊振东连续三年世界排名第一",
@@ -865,6 +905,14 @@
       "onboard_time": 1679993366,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 313646,
+      "num": 242792,
+      "word": "这是腰腹赘肉杀手吧",
+      "onboard_time": 1680006446,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 306721,
@@ -1131,14 +1179,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 242792,
-      "num": 242792,
-      "word": "这是腰腹赘肉杀手吧",
-      "onboard_time": 1680006446,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 240322,
       "num": 240322,
       "word": "限定团告别演唱会的最后一首歌",
@@ -1163,12 +1203,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 230868,
+      "num": 230868,
+      "word": "半熟恋人2",
+      "onboard_time": 1680007887,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 230664,
       "num": 230664,
       "word": "这婚礼算是相当炸裂了",
       "onboard_time": 1679978732,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 229813,
+      "num": 229813,
+      "word": "张艺兴粉西装",
+      "onboard_time": 1680009146,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 229327,
@@ -1355,6 +1411,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 195075,
+      "num": 195075,
+      "word": "红米Note12Turbo评测",
+      "onboard_time": 1680008968,
+      "rank": 30,
+      "category": "科技"
+    },
+    {
       "raw_hot": 194756,
       "num": 194756,
       "word": "网传乘风破浪4初舞台歌单",
@@ -1417,14 +1481,6 @@
       "onboard_time": 1679990488,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 182624,
-      "num": 182624,
-      "word": "半熟恋人2",
-      "onboard_time": 1680007887,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 181202,
@@ -1715,6 +1771,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 149232,
+      "num": 149232,
+      "word": "陈梦3比0刘炜珊",
+      "onboard_time": 1680008548,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 147072,
       "num": 147072,
       "word": "暖阳戴戒指",
@@ -1819,6 +1883,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 130877,
+      "num": 130877,
+      "word": "鲜虾豆腐煲",
+      "onboard_time": 1680008907,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 129405,
       "num": 129405,
       "word": "马丽晒张婧仪周微雨海报",
@@ -1867,20 +1939,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 120765,
+      "num": 120765,
+      "word": "五星伴月",
+      "onboard_time": 1680006686,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120552,
       "num": 120552,
       "word": "快速入睡法子",
       "onboard_time": 1680002669,
       "rank": 44,
       "category": "其它"
-    },
-    {
-      "raw_hot": 120030,
-      "num": 120030,
-      "word": "五星伴月",
-      "onboard_time": 1680006686,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 118641,
@@ -1923,6 +1995,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 115169,
+      "num": 115169,
+      "word": "酷云收视率",
+      "onboard_time": 1680009747,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 114019,
       "num": 114019,
       "word": "严浩翔鞠躬视频",
@@ -1937,6 +2017,14 @@
       "onboard_time": 1679930252,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 112585,
+      "num": 112585,
+      "word": "路初阳的胎心",
+      "onboard_time": 1680009627,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 111476,
@@ -1977,6 +2065,14 @@
       "onboard_time": 1679983648,
       "rank": 41,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 104384,
+      "num": 104384,
+      "word": "有生之年让一只猫帅到",
+      "onboard_time": 1680009209,
+      "rank": 48,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 103852,

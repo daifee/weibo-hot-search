@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1680008071147,
+  "endTime": 1680009907214,
   "band_list": [
     {
       "raw_hot": 4718675,
@@ -683,6 +683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 793363,
+      "num": 793363,
+      "word": "2023腾讯剧集片单",
+      "onboard_time": 1680009028,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 758059,
       "num": 489154,
       "word": "孙坚晒约唐嫣喝咖啡vlog",
@@ -761,6 +769,14 @@
       "onboard_time": 1679891199,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 686856,
+      "num": 686856,
+      "word": "向往的生活",
+      "onboard_time": 1679824948,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 682208,
@@ -993,6 +1009,14 @@
       "onboard_time": 1679930013,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 561263,
+      "num": 244913,
+      "word": "刘亦菲微博之夜下楼梯直拍",
+      "onboard_time": 1680008608,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 557953,
@@ -1331,6 +1355,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 429249,
+      "num": 429249,
+      "word": "阿凡达水之道今日网播",
+      "onboard_time": 1680008728,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 429146,
       "num": 282935,
       "word": "这衣服很贵你确定要试吗",
@@ -1555,6 +1587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 373428,
+      "num": 373428,
+      "word": "小说里的少年感",
+      "onboard_time": 1680008365,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 371179,
       "num": 371179,
       "word": "樊振东连续三年世界排名第一",
@@ -1761,6 +1801,14 @@
       "onboard_time": 1679893060,
       "rank": 17,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 313646,
+      "num": 242792,
+      "word": "这是腰腹赘肉杀手吧",
+      "onboard_time": 1680006446,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 309549,
@@ -2219,14 +2267,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 242792,
-      "num": 242792,
-      "word": "这是腰腹赘肉杀手吧",
-      "onboard_time": 1680006446,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 240765,
       "num": 240765,
       "word": "这件玉器3000年前就是古董了",
@@ -2283,6 +2323,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 230868,
+      "num": 230868,
+      "word": "半熟恋人2",
+      "onboard_time": 1680007887,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 230664,
       "num": 230664,
       "word": "这婚礼算是相当炸裂了",
@@ -2297,6 +2345,14 @@
       "onboard_time": 1679917589,
       "rank": 29,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 229813,
+      "num": 229813,
+      "word": "张艺兴粉西装",
+      "onboard_time": 1680009146,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 229327,
@@ -2707,6 +2763,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 195075,
+      "num": 195075,
+      "word": "红米Note12Turbo评测",
+      "onboard_time": 1680008968,
+      "rank": 30,
+      "category": "科技"
+    },
+    {
       "raw_hot": 194756,
       "num": 194756,
       "word": "网传乘风破浪4初舞台歌单",
@@ -2721,14 +2785,6 @@
       "onboard_time": 1679909250,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 193909,
-      "num": 193909,
-      "word": "向往的生活",
-      "onboard_time": 1679824948,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 193814,
@@ -2873,14 +2929,6 @@
       "onboard_time": 1679883269,
       "rank": 23,
       "category": "科技"
-    },
-    {
-      "raw_hot": 182624,
-      "num": 182624,
-      "word": "半熟恋人2",
-      "onboard_time": 1680007887,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 182265,
@@ -3307,6 +3355,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 149232,
+      "num": 149232,
+      "word": "陈梦3比0刘炜珊",
+      "onboard_time": 1680008548,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 148153,
       "num": 148153,
       "word": "你用过哪些白色手机",
@@ -3547,6 +3603,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 130877,
+      "num": 130877,
+      "word": "鲜虾豆腐煲",
+      "onboard_time": 1680008907,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 130666,
       "num": 130666,
       "word": "宋亚轩跟雷佳音马丽打招呼",
@@ -3651,6 +3715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120765,
+      "num": 120765,
+      "word": "五星伴月",
+      "onboard_time": 1680006686,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120573,
       "num": 120573,
       "word": "广州电竞酒店登记管理混乱",
@@ -3665,14 +3737,6 @@
       "onboard_time": 1680002669,
       "rank": 44,
       "category": "其它"
-    },
-    {
-      "raw_hot": 120030,
-      "num": 120030,
-      "word": "五星伴月",
-      "onboard_time": 1680006686,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 119517,
@@ -3739,6 +3803,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 115169,
+      "num": 115169,
+      "word": "酷云收视率",
+      "onboard_time": 1680009747,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 114217,
       "num": 114217,
       "word": "喜欢小狗的有福了",
@@ -3753,6 +3825,14 @@
       "onboard_time": 1680000329,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 112585,
+      "num": 112585,
+      "word": "路初阳的胎心",
+      "onboard_time": 1680009627,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 112371,
@@ -3889,6 +3969,14 @@
       "onboard_time": 1679897674,
       "rank": 43,
       "category": "财经"
+    },
+    {
+      "raw_hot": 104384,
+      "num": 104384,
+      "word": "有生之年让一只猫帅到",
+      "onboard_time": 1680009209,
+      "rank": 48,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 103852,

@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1680008071147,
+  "endTime": 1680009907214,
   "band_list": [
     {
       "raw_hot": 27113842,
@@ -9819,6 +9819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 793363,
+      "num": 793363,
+      "word": "2023腾讯剧集片单",
+      "onboard_time": 1680009028,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 793330,
       "num": 435456,
       "word": "李强总理谈新一届政府的施政目标",
@@ -15507,6 +15515,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 561263,
+      "num": 244913,
+      "word": "刘亦菲微博之夜下楼梯直拍",
+      "onboard_time": 1680008608,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 561170,
       "num": 561170,
       "word": "重紫和魔尊成亲",
@@ -20907,6 +20923,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 429249,
+      "num": 429249,
+      "word": "阿凡达水之道今日网播",
+      "onboard_time": 1680008728,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 429146,
       "num": 282935,
       "word": "这衣服很贵你确定要试吗",
@@ -23729,6 +23753,14 @@
       "onboard_time": 1678935686,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 373428,
+      "num": 373428,
+      "word": "小说里的少年感",
+      "onboard_time": 1680008365,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 373076,
@@ -27625,6 +27657,14 @@
       "onboard_time": 1677764911,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 313646,
+      "num": 242792,
+      "word": "这是腰腹赘肉杀手吧",
+      "onboard_time": 1680006446,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 313552,
@@ -33259,14 +33299,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 242792,
-      "num": 242792,
-      "word": "这是腰腹赘肉杀手吧",
-      "onboard_time": 1680006446,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 242755,
       "num": 242755,
       "word": "吴刚扇韩童生巴掌是真打",
@@ -34395,6 +34427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 230868,
+      "num": 230868,
+      "word": "半熟恋人2",
+      "onboard_time": 1680007887,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 230828,
       "num": 230828,
       "word": "向太说前路并非坦途一起加油",
@@ -34521,6 +34561,14 @@
       "onboard_time": 1678854031,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 229813,
+      "num": 229813,
+      "word": "张艺兴粉西装",
+      "onboard_time": 1680009146,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 229691,
@@ -40451,6 +40499,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 195075,
+      "num": 195075,
+      "word": "红米Note12Turbo评测",
+      "onboard_time": 1680008968,
+      "rank": 30,
+      "category": "科技"
+    },
+    {
       "raw_hot": 195072,
       "num": 195072,
       "word": "宋茜泰国vlog",
@@ -42865,14 +42921,6 @@
       "onboard_time": 1679562025,
       "rank": 39,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 182624,
-      "num": 182624,
-      "word": "半熟恋人2",
-      "onboard_time": 1680007887,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 182550,
@@ -47539,6 +47587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 149232,
+      "num": 149232,
+      "word": "陈梦3比0刘炜珊",
+      "onboard_time": 1680008548,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 149200,
       "num": 149200,
       "word": "国乒锁定大满贯女双冠军",
@@ -50299,6 +50355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 130877,
+      "num": 130877,
+      "word": "鲜虾豆腐煲",
+      "onboard_time": 1680008907,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 130812,
       "num": 130812,
       "word": "金智秀主打曲海报",
@@ -51683,6 +51747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 120765,
+      "num": 120765,
+      "word": "五星伴月",
+      "onboard_time": 1680006686,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120755,
       "num": 120755,
       "word": "李宇春微博之夜官宣",
@@ -51761,14 +51833,6 @@
       "onboard_time": 1679822726,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 120030,
-      "num": 120030,
-      "word": "五星伴月",
-      "onboard_time": 1680006686,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 119947,
@@ -52347,6 +52411,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 115169,
+      "num": 115169,
+      "word": "酷云收视率",
+      "onboard_time": 1680009747,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 115118,
       "num": 115118,
       "word": "推特广告收入下降50%",
@@ -52641,6 +52713,14 @@
       "onboard_time": 1678707446,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 112585,
+      "num": 112585,
+      "word": "路初阳的胎心",
+      "onboard_time": 1680009627,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 112446,
@@ -53649,6 +53729,14 @@
       "onboard_time": 1679447369,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 104384,
+      "num": 104384,
+      "word": "有生之年让一只猫帅到",
+      "onboard_time": 1680009209,
+      "rank": 48,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 104350,
