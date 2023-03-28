@@ -1,0 +1,410 @@
+{
+  "runTime": 1680013083826,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1300434,
+        "num": 1300434,
+        "word": "向往的生活",
+        "onboard_time": 1680008548,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 809985,
+        "num": 809985,
+        "word": "被穷养长大的孩子是怎样的",
+        "onboard_time": 1680001468,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 38023,
+        "num": 777242,
+        "word": "守好中国式现代化的本和源",
+        "onboard_time": 1680011548,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 776257,
+        "num": 776257,
+        "word": "林小宅 藏药令",
+        "onboard_time": 1679999788,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 604361,
+        "num": 604361,
+        "word": "胡明轩朝裁判竖大拇指",
+        "onboard_time": 1680011968,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 593673,
+        "num": 593673,
+        "word": "2023腾讯剧集片单",
+        "onboard_time": 1680009028,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 531296,
+        "num": 531296,
+        "word": "杨超越的侧颜",
+        "onboard_time": 1680011728,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 523573,
+        "num": 523573,
+        "word": "张兰被曝拖欠前运营90万元工资",
+        "onboard_time": 1679999850,
+        "rank": 7,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 516150,
+        "num": 516150,
+        "word": "葛优打葛优躺官司获赔759万",
+        "onboard_time": 1679993668,
+        "rank": 8,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 501067,
+        "num": 501067,
+        "word": "和黄晓明玩滑板的是路人",
+        "onboard_time": 1680002548,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 449110,
+        "num": 449110,
+        "word": "红米",
+        "onboard_time": 1680005307,
+        "rank": 10,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 443005,
+        "num": 443005,
+        "word": "黑马情侣 两人权力的转移",
+        "onboard_time": 1680011909,
+        "rank": 11,
+        "category": "网红,情感"
+      },
+      {
+        "raw_hot": 425622,
+        "num": 425622,
+        "word": "小说里的少年感",
+        "onboard_time": 1680008365,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 399004,
+        "num": 399004,
+        "word": "长相思直播",
+        "onboard_time": 1680011129,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 321625,
+        "num": 321625,
+        "word": "北京环球影城威震天摔倒",
+        "onboard_time": 1679997149,
+        "rank": 14,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 369343,
+        "num": 313634,
+        "word": "肖战坐姿仪态",
+        "onboard_time": 1680000871,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 338474,
+        "num": 308621,
+        "word": "刘浩存工作室发文没整容",
+        "onboard_time": 1679997990,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285965,
+        "num": 285965,
+        "word": "重庆姐弟坠亡案二审暂定4月3日开庭",
+        "onboard_time": 1679990968,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268260,
+        "num": 268260,
+        "word": "ChatGPT替代不了水瓶射手双子",
+        "onboard_time": 1679985088,
+        "rank": 18,
+        "category": "幽默,科技"
+      },
+      {
+        "raw_hot": 241968,
+        "num": 241968,
+        "word": "鲜虾豆腐煲",
+        "onboard_time": 1680008907,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 482849,
+        "num": 237364,
+        "word": "刘亦菲微博之夜下楼梯直拍",
+        "onboard_time": 1680008608,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 393709,
+        "num": 234615,
+        "word": "这衣服很贵你确定要试吗",
+        "onboard_time": 1679999668,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 285228,
+        "num": 225897,
+        "word": "张艺兴粉西装",
+        "onboard_time": 1680009146,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 262254,
+        "num": 216886,
+        "word": "这是腰腹赘肉杀手吧",
+        "onboard_time": 1680006446,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214929,
+        "num": 214929,
+        "word": "阿里设立六大业务集团",
+        "onboard_time": 1679998168,
+        "rank": 24,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 228676,
+        "num": 214813,
+        "word": "人生之路收视率",
+        "onboard_time": 1680012389,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 214653,
+        "num": 214653,
+        "word": "中国团队率先突破量子纠错盈亏平衡点",
+        "onboard_time": 1680009929,
+        "rank": 26,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 210512,
+        "num": 210512,
+        "word": "祝绪丹彩色吊带上衣",
+        "onboard_time": 1680010947,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205121,
+        "num": 205121,
+        "word": "广厦男篮vs辽宁男篮",
+        "onboard_time": 1680012089,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103685,
+        "num": 200141,
+        "word": "向中国泼脏水我们绝不接受",
+        "onboard_time": 1679996367,
+        "rank": 29,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 198818,
+        "num": 198818,
+        "word": "肠胃瞬间通畅了",
+        "onboard_time": 1680005728,
+        "rank": 30,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 198400,
+        "num": 198400,
+        "word": "跑男成都",
+        "onboard_time": 1680003148,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190097,
+        "num": 190097,
+        "word": "适合30岁以上的工作找到了",
+        "onboard_time": 1679986107,
+        "rank": 32,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 177754,
+        "num": 177754,
+        "word": "王国之泪限定机公开",
+        "onboard_time": 1680012869,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 177243,
+        "num": 177243,
+        "word": "归路27集预告",
+        "onboard_time": 1680010048,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176126,
+        "num": 176126,
+        "word": "白敬亭拼接毛衣造型",
+        "onboard_time": 1680006027,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169135,
+        "num": 169135,
+        "word": "白羊容易上头但下头更快",
+        "onboard_time": 1679992468,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 168534,
+        "num": 168534,
+        "word": "有生之年让一只猫帅到",
+        "onboard_time": 1680009209,
+        "rank": 37,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 167281,
+        "num": 167281,
+        "word": "阿凡达水之道今日网播",
+        "onboard_time": 1680008728,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 157979,
+        "num": 157979,
+        "word": "西班牙 占房",
+        "onboard_time": 1680001050,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148025,
+        "num": 148025,
+        "word": "突然胸痛的原因找到了",
+        "onboard_time": 1680012750,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 147981,
+        "num": 147981,
+        "word": "河北沧州一废弃冷库发生火灾致11死",
+        "onboard_time": 1679998890,
+        "rank": 41,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 142094,
+        "num": 142094,
+        "word": "韩流演唱会或于下半年重返内地",
+        "onboard_time": 1679994147,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 141263,
+        "num": 141263,
+        "word": "上海男篮vs广东男篮",
+        "onboard_time": 1680010647,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138682,
+        "num": 138682,
+        "word": "长月烬明播出时间",
+        "onboard_time": 1679990309,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 134632,
+        "num": 134632,
+        "word": "姐弟坠亡案母亲回应二审开庭",
+        "onboard_time": 1679999668,
+        "rank": 45,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 133524,
+        "num": 133524,
+        "word": "半熟恋人2",
+        "onboard_time": 1680007887,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130145,
+        "num": 130145,
+        "word": "酷云收视率",
+        "onboard_time": 1680009747,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 128464,
+        "num": 128464,
+        "word": "内娱仪态教科书",
+        "onboard_time": 1679993428,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 122596,
+        "num": 122596,
+        "word": "李雪琴送徐志胜色盲眼镜",
+        "onboard_time": 1680006027,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#2023年清朗专项行动#"
+    }
+  }
+}

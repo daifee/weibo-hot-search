@@ -1,6 +1,6 @@
 {
   "startTime": 1679934149836,
-  "endTime": 1680010566309,
+  "endTime": 1680013083826,
   "band_list": [
     {
       "raw_hot": 2747528,
@@ -89,6 +89,14 @@
       "onboard_time": 1679984788,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1300434,
+      "num": 1300434,
+      "word": "向往的生活",
+      "onboard_time": 1680008548,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 1281772,
@@ -209,14 +217,6 @@
       "onboard_time": 1679976329,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1017839,
-      "num": 1017839,
-      "word": "向往的生活",
-      "onboard_time": 1680008548,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 958600,
@@ -443,6 +443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 604361,
+      "num": 604361,
+      "word": "胡明轩朝裁判竖大拇指",
+      "onboard_time": 1680011968,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 591748,
       "num": 591748,
       "word": "iPhone15将在更多国家销售eSIM版",
@@ -513,6 +521,14 @@
       "onboard_time": 1679982808,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 531296,
+      "num": 531296,
+      "word": "杨超越的侧颜",
+      "onboard_time": 1680011728,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 524478,
@@ -675,6 +691,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 443005,
+      "num": 443005,
+      "word": "黑马情侣 两人权力的转移",
+      "onboard_time": 1680011909,
+      "rank": 11,
+      "category": "网红,情感"
+    },
+    {
       "raw_hot": 432204,
       "num": 432204,
       "word": "杨颖宋雨琦奔跑吧路透",
@@ -697,6 +721,14 @@
       "onboard_time": 1679999668,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 425622,
+      "num": 425622,
+      "word": "小说里的少年感",
+      "onboard_time": 1680008365,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 424928,
@@ -755,6 +787,14 @@
       "category": "科技,国内要闻"
     },
     {
+      "raw_hot": 399004,
+      "num": 399004,
+      "word": "长相思直播",
+      "onboard_time": 1680011129,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 398758,
       "num": 398758,
       "word": "杨紫的社交圈好广",
@@ -777,14 +817,6 @@
       "onboard_time": 1679938395,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 377284,
-      "num": 377284,
-      "word": "小说里的少年感",
-      "onboard_time": 1680008365,
-      "rank": 12,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 377114,
@@ -1195,6 +1227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 241968,
+      "num": 241968,
+      "word": "鲜虾豆腐煲",
+      "onboard_time": 1680008907,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 240322,
       "num": 240322,
       "word": "限定团告别演唱会的最后一首歌",
@@ -1243,6 +1283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 228676,
+      "num": 214813,
+      "word": "人生之路收视率",
+      "onboard_time": 1680012389,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 226056,
       "num": 226056,
       "word": "白鹿黑色挂脖长裙随拍",
@@ -1283,6 +1331,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 214653,
+      "num": 214653,
+      "word": "中国团队率先突破量子纠错盈亏平衡点",
+      "onboard_time": 1680009929,
+      "rank": 38,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 211176,
       "num": 211176,
       "word": "行行出状元真不是传说",
@@ -1297,6 +1353,14 @@
       "onboard_time": 1679964510,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 210512,
+      "num": 210512,
+      "word": "祝绪丹彩色吊带上衣",
+      "onboard_time": 1680010947,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 207598,
@@ -1329,6 +1393,14 @@
       "onboard_time": 1679984670,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 205121,
+      "num": 205121,
+      "word": "广厦男篮vs辽宁男篮",
+      "onboard_time": 1680012089,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 202856,
@@ -1515,6 +1587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177754,
+      "num": 177754,
+      "word": "王国之泪限定机公开",
+      "onboard_time": 1680012869,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 177509,
       "num": 177509,
       "word": "蔡卓妍是香港站巡回演唱会嘉宾",
@@ -1529,6 +1609,14 @@
       "onboard_time": 1679988806,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 177243,
+      "num": 177243,
+      "word": "归路27集预告",
+      "onboard_time": 1680010048,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 177190,
@@ -1617,6 +1705,14 @@
       "onboard_time": 1679966666,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 168534,
+      "num": 168534,
+      "word": "有生之年让一只猫帅到",
+      "onboard_time": 1680009209,
+      "rank": 48,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 167782,
@@ -1763,14 +1859,6 @@
       "category": "艺人,幽默"
     },
     {
-      "raw_hot": 151652,
-      "num": 151652,
-      "word": "鲜虾豆腐煲",
-      "onboard_time": 1680008907,
-      "rank": 39,
-      "category": "美食"
-    },
-    {
       "raw_hot": 150616,
       "num": 150616,
       "word": "女子吃自助餐将店内甲鱼煮食",
@@ -1795,12 +1883,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 148777,
-      "num": 148777,
-      "word": "归路27集预告",
-      "onboard_time": 1680010048,
-      "rank": 37,
-      "category": "影视"
+      "raw_hot": 148025,
+      "num": 148025,
+      "word": "突然胸痛的原因找到了",
+      "onboard_time": 1680012750,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 147072,
@@ -1835,6 +1923,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 141263,
+      "num": 141263,
+      "word": "上海男篮vs广东男篮",
+      "onboard_time": 1680010647,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140545,
       "num": 140545,
       "word": "最伟大的作品2022IFPI全球实销专辑榜冠军",
@@ -1849,14 +1945,6 @@
       "onboard_time": 1679979089,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 140191,
-      "num": 140191,
-      "word": "中国团队率先突破量子纠错盈亏平衡点",
-      "onboard_time": 1680009929,
-      "rank": 38,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 138107,
@@ -1953,14 +2041,6 @@
       "onboard_time": 1679922510,
       "rank": 36,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 127838,
-      "num": 127838,
-      "word": "有生之年让一只猫帅到",
-      "onboard_time": 1680009209,
-      "rank": 48,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 124774,
@@ -2289,6 +2369,14 @@
       "onboard_time": 1679986886,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 38023,
+      "num": 777242,
+      "word": "守好中国式现代化的本和源",
+      "onboard_time": 1680011548,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 22491,

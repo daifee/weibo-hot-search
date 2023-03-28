@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1680010566309,
+  "endTime": 1680013083826,
   "band_list": [
     {
       "raw_hot": 4718675,
@@ -283,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1300434,
+      "num": 1300434,
+      "word": "向往的生活",
+      "onboard_time": 1679824948,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1278211,
       "num": 1278211,
       "word": "上海每5人中有两个念过大学",
@@ -473,14 +481,6 @@
       "onboard_time": 1679888431,
       "rank": 4,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 1017839,
-      "num": 1017839,
-      "word": "向往的生活",
-      "onboard_time": 1679824948,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 1015854,
@@ -899,6 +899,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 604361,
+      "num": 604361,
+      "word": "胡明轩朝裁判竖大拇指",
+      "onboard_time": 1680011968,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 598451,
       "num": 598451,
       "word": "王心凌最受不了别人叫她不要熬夜",
@@ -1065,6 +1073,14 @@
       "onboard_time": 1679982808,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 531296,
+      "num": 531296,
+      "word": "杨超越的侧颜",
+      "onboard_time": 1680011728,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 529235,
@@ -1331,6 +1347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 443005,
+      "num": 443005,
+      "word": "黑马情侣 两人权力的转移",
+      "onboard_time": 1680011909,
+      "rank": 11,
+      "category": "网红,情感"
+    },
+    {
       "raw_hot": 435537,
       "num": 435537,
       "word": "乘风破浪4",
@@ -1369,6 +1393,14 @@
       "onboard_time": 1679999668,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 425622,
+      "num": 425622,
+      "word": "小说里的少年感",
+      "onboard_time": 1680008365,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 424928,
@@ -1475,6 +1507,14 @@
       "category": "科技,国内要闻"
     },
     {
+      "raw_hot": 399004,
+      "num": 399004,
+      "word": "长相思直播",
+      "onboard_time": 1680011129,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 398808,
       "num": 398808,
       "word": "肖战杨紫互相谦让",
@@ -1537,14 +1577,6 @@
       "onboard_time": 1679929595,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 377284,
-      "num": 377284,
-      "word": "小说里的少年感",
-      "onboard_time": 1680008365,
-      "rank": 12,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 377114,
@@ -2283,6 +2315,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 241968,
+      "num": 241968,
+      "word": "鲜虾豆腐煲",
+      "onboard_time": 1680008907,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 240765,
       "num": 240765,
       "word": "这件玉器3000年前就是古董了",
@@ -2384,6 +2424,14 @@
       "word": "人生之路",
       "onboard_time": 1679927134,
       "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 228676,
+      "num": 214813,
+      "word": "人生之路收视率",
+      "onboard_time": 1680012389,
+      "rank": 25,
       "category": "影视"
     },
     {
@@ -2491,6 +2539,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 214653,
+      "num": 214653,
+      "word": "中国团队率先突破量子纠错盈亏平衡点",
+      "onboard_time": 1680009929,
+      "rank": 38,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 213326,
       "num": 213326,
       "word": "杉杉股份回应郑永刚遗孀主张权利",
@@ -2529,6 +2585,14 @@
       "onboard_time": 1679876246,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 210512,
+      "num": 210512,
+      "word": "祝绪丹彩色吊带上衣",
+      "onboard_time": 1680010947,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 209859,
@@ -2609,6 +2673,14 @@
       "onboard_time": 1679838870,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 205121,
+      "num": 205121,
+      "word": "广厦男篮vs辽宁男篮",
+      "onboard_time": 1680012089,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 203281,
@@ -3027,6 +3099,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 177754,
+      "num": 177754,
+      "word": "王国之泪限定机公开",
+      "onboard_time": 1680012869,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 177509,
       "num": 177509,
       "word": "蔡卓妍是香港站巡回演唱会嘉宾",
@@ -3041,6 +3121,14 @@
       "onboard_time": 1679988806,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 177243,
+      "num": 177243,
+      "word": "归路27集预告",
+      "onboard_time": 1680010048,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 177190,
@@ -3185,6 +3273,14 @@
       "onboard_time": 1679966666,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 168534,
+      "num": 168534,
+      "word": "有生之年让一只猫帅到",
+      "onboard_time": 1680009209,
+      "rank": 48,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 167782,
@@ -3339,14 +3435,6 @@
       "category": "影视,动漫"
     },
     {
-      "raw_hot": 151652,
-      "num": 151652,
-      "word": "鲜虾豆腐煲",
-      "onboard_time": 1680008907,
-      "rank": 39,
-      "category": "美食"
-    },
-    {
       "raw_hot": 151375,
       "num": 151375,
       "word": "铃芽之旅为何能赢过超英大片",
@@ -3379,20 +3467,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 148777,
-      "num": 148777,
-      "word": "归路27集预告",
-      "onboard_time": 1680010048,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 148153,
       "num": 148153,
       "word": "你用过哪些白色手机",
       "onboard_time": 1679891322,
       "rank": 47,
       "category": "科技,情感"
+    },
+    {
+      "raw_hot": 148025,
+      "num": 148025,
+      "word": "突然胸痛的原因找到了",
+      "onboard_time": 1680012750,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 147529,
@@ -3467,6 +3555,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 141263,
+      "num": 141263,
+      "word": "上海男篮vs广东男篮",
+      "onboard_time": 1680010647,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141022,
       "num": 141022,
       "word": "贵州村BA总决赛",
@@ -3489,14 +3585,6 @@
       "onboard_time": 1679979089,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 140191,
-      "num": 140191,
-      "word": "中国团队率先突破量子纠错盈亏平衡点",
-      "onboard_time": 1680009929,
-      "rank": 38,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 139920,
@@ -3681,14 +3769,6 @@
       "onboard_time": 1679831070,
       "rank": 39,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 127838,
-      "num": 127838,
-      "word": "有生之年让一只猫帅到",
-      "onboard_time": 1680009209,
-      "rank": 48,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 127659,
@@ -4401,6 +4481,14 @@
       "onboard_time": 1679986886,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 38023,
+      "num": 777242,
+      "word": "守好中国式现代化的本和源",
+      "onboard_time": 1680011548,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 23626,

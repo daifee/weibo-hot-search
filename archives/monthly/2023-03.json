@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1680010566309,
+  "endTime": 1680013083826,
   "band_list": [
     {
       "raw_hot": 27113842,
@@ -4283,6 +4283,14 @@
       "category": "美妆,艺人"
     },
     {
+      "raw_hot": 1300434,
+      "num": 1300434,
+      "word": "向往的生活",
+      "onboard_time": 1679824948,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1299790,
       "num": 393361,
       "word": "心理医生分析女孩将男童扔井中一事",
@@ -4417,14 +4425,6 @@
       "onboard_time": 1679553865,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1284053,
-      "num": 1284053,
-      "word": "向往的生活",
-      "onboard_time": 1679824948,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 1284022,
@@ -14155,6 +14155,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 604361,
+      "num": 604361,
+      "word": "胡明轩朝裁判竖大拇指",
+      "onboard_time": 1680011968,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 604261,
       "num": 604261,
       "word": "重庆农行",
@@ -16505,6 +16513,14 @@
       "onboard_time": 1677811646,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 531296,
+      "num": 531296,
+      "word": "杨超越的侧颜",
+      "onboard_time": 1680011728,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 531228,
@@ -20267,6 +20283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 443005,
+      "num": 443005,
+      "word": "黑马情侣 两人权力的转移",
+      "onboard_time": 1680011909,
+      "rank": 11,
+      "category": "网红,情感"
+    },
+    {
       "raw_hot": 442908,
       "num": 442908,
       "word": "镜新皮肤爆料",
@@ -21161,6 +21185,14 @@
       "onboard_time": 1679018006,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 425622,
+      "num": 425622,
+      "word": "小说里的少年感",
+      "onboard_time": 1680008365,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 425604,
@@ -22323,6 +22355,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 399004,
+      "num": 399004,
+      "word": "长相思直播",
+      "onboard_time": 1680011129,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 398886,
       "num": 398886,
       "word": "高铁上太吵的解决办法",
@@ -23473,14 +23513,6 @@
       "onboard_time": 1678928069,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 377284,
-      "num": 377284,
-      "word": "小说里的少年感",
-      "onboard_time": 1680008365,
-      "rank": 12,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 377218,
@@ -33403,6 +33435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 241968,
+      "num": 241968,
+      "word": "鲜虾豆腐煲",
+      "onboard_time": 1680008907,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 241923,
       "num": 241923,
       "word": "彭十六辟谣",
@@ -34769,6 +34809,14 @@
       "onboard_time": 1679296828,
       "rank": 37,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 228676,
+      "num": 214813,
+      "word": "人生之路收视率",
+      "onboard_time": 1680012389,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 228665,
@@ -36467,6 +36515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 214653,
+      "num": 214653,
+      "word": "中国团队率先突破量子纠错盈亏平衡点",
+      "onboard_time": 1680009929,
+      "rank": 38,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 214647,
       "num": 214647,
       "word": "不止不休真实的力量",
@@ -36977,6 +37033,14 @@
       "onboard_time": 1678423474,
       "rank": 34,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 210512,
+      "num": 210512,
+      "word": "祝绪丹彩色吊带上衣",
+      "onboard_time": 1680010947,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 210503,
@@ -37985,6 +38049,14 @@
       "onboard_time": 1677987325,
       "rank": 30,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 205121,
+      "num": 205121,
+      "word": "广厦男篮vs辽宁男篮",
+      "onboard_time": 1680012089,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 205113,
@@ -43587,6 +43659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 177754,
+      "num": 177754,
+      "word": "王国之泪限定机公开",
+      "onboard_time": 1680012869,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 177750,
       "num": 177750,
       "word": "曼联将战塞维利亚",
@@ -43697,6 +43777,14 @@
       "onboard_time": 1677910224,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 177243,
+      "num": 177243,
+      "word": "归路27集预告",
+      "onboard_time": 1680010048,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 177242,
@@ -45001,6 +45089,14 @@
       "onboard_time": 1678333950,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168534,
+      "num": 168534,
+      "word": "有生之年让一只猫帅到",
+      "onboard_time": 1680009209,
+      "rank": 48,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 168516,
@@ -47187,14 +47283,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 151652,
-      "num": 151652,
-      "word": "鲜虾豆腐煲",
-      "onboard_time": 1680008907,
-      "rank": 39,
-      "category": "美食"
-    },
-    {
       "raw_hot": 151636,
       "num": 206587,
       "word": "800多岁玉兰古树花开似雪",
@@ -47699,14 +47787,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 148777,
-      "num": 148777,
-      "word": "归路27集预告",
-      "onboard_time": 1680010048,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 148768,
       "num": 148768,
       "word": "宋亚轩绑小揪揪插兜",
@@ -47809,6 +47889,14 @@
       "onboard_time": 1679817567,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148025,
+      "num": 148025,
+      "word": "突然胸痛的原因找到了",
+      "onboard_time": 1680012750,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 147972,
@@ -48763,6 +48851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 141263,
+      "num": 141263,
+      "word": "上海男篮vs广东男篮",
+      "onboard_time": 1680010647,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141217,
       "num": 141217,
       "word": "传说阵容",
@@ -48929,14 +49025,6 @@
       "onboard_time": 1678171287,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 140191,
-      "num": 140191,
-      "word": "中国团队率先突破量子纠错盈亏平衡点",
-      "onboard_time": 1680009929,
-      "rank": 38,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 140160,
@@ -50817,14 +50905,6 @@
       "onboard_time": 1677842668,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 127838,
-      "num": 127838,
-      "word": "有生之年让一只猫帅到",
-      "onboard_time": 1680009209,
-      "rank": 48,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 127825,
@@ -57089,6 +57169,14 @@
       "onboard_time": 1679344574,
       "rank": 35,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 38023,
+      "num": 777242,
+      "word": "守好中国式现代化的本和源",
+      "onboard_time": 1680011548,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 37974,
