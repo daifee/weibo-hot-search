@@ -1,6 +1,6 @@
 {
   "startTime": 1679934149836,
-  "endTime": 1680002127195,
+  "endTime": 1680003203428,
   "band_list": [
     {
       "raw_hot": 2747528,
@@ -163,20 +163,20 @@
       "category": "作品衍生,幽默"
     },
     {
+      "raw_hot": 1121641,
+      "num": 1121641,
+      "word": "张兰被曝拖欠前运营90万元工资",
+      "onboard_time": 1679999850,
+      "rank": 1,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1097670,
       "num": 1097670,
       "word": "揭开上海杀妻藏尸案背后不为人知的事",
       "onboard_time": 1679980828,
       "rank": 28,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 1074870,
-      "num": 1074870,
-      "word": "张兰被曝拖欠前运营90万元工资",
-      "onboard_time": 1679999850,
-      "rank": 1,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1053717,
@@ -348,7 +348,7 @@
     },
     {
       "raw_hot": 699191,
-      "num": 299564,
+      "num": 339537,
       "word": "肖战坐姿仪态",
       "onboard_time": 1680000871,
       "rank": 13,
@@ -571,6 +571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 454634,
+      "num": 312497,
+      "word": "西班牙 占房",
+      "onboard_time": 1680001050,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 453140,
       "num": 453140,
       "word": "TangoZ权志龙人形立牌红毯同框",
@@ -588,7 +596,7 @@
     },
     {
       "raw_hot": 452162,
-      "num": 297713,
+      "num": 307030,
       "word": "刘亦菲自拍四宫格",
       "onboard_time": 1679999489,
       "rank": 29,
@@ -617,6 +625,14 @@
       "onboard_time": 1679975730,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 427703,
+      "num": 282935,
+      "word": "这衣服很贵你确定要试吗",
+      "onboard_time": 1679999668,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 424928,
@@ -649,6 +665,14 @@
       "onboard_time": 1679979512,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 409082,
+      "num": 409082,
+      "word": "被穷养长大的孩子是怎样的",
+      "onboard_time": 1680001468,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 405544,
@@ -721,14 +745,6 @@
       "onboard_time": 1679961146,
       "rank": 15,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 376021,
-      "num": 282935,
-      "word": "这衣服很贵你确定要试吗",
-      "onboard_time": 1679999668,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 375943,
@@ -851,6 +867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 303001,
+      "num": 303001,
+      "word": "河北沧州一废弃冷库发生火灾致11死",
+      "onboard_time": 1679998890,
+      "rank": 34,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 302094,
       "num": 302094,
       "word": "杭州地铁现打工人专线",
@@ -971,14 +995,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 274778,
-      "num": 274778,
-      "word": "河北沧州一废弃冷库发生火灾致11死",
-      "onboard_time": 1679998890,
-      "rank": 34,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 268324,
       "num": 268324,
       "word": "重庆省考",
@@ -1043,6 +1059,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 254434,
+      "num": 254434,
+      "word": "姐弟坠亡案母亲回应二审开庭",
+      "onboard_time": 1679999668,
+      "rank": 36,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 246398,
       "num": 246398,
       "word": "爱情而已",
@@ -1065,14 +1089,6 @@
       "onboard_time": 1679996129,
       "rank": 27,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 239900,
-      "num": 239900,
-      "word": "姐弟坠亡案母亲回应二审开庭",
-      "onboard_time": 1679999668,
-      "rank": 36,
-      "category": "社会负面"
     },
     {
       "raw_hot": 239230,
@@ -1235,6 +1251,14 @@
       "category": "幽默,科技"
     },
     {
+      "raw_hot": 197077,
+      "num": 197077,
+      "word": "张杰西安vlog",
+      "onboard_time": 1680001948,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196822,
       "num": 155818,
       "word": "张艺兴出发怼脸自拍照",
@@ -1299,14 +1323,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 188114,
-      "num": 188114,
-      "word": "张杰西安vlog",
-      "onboard_time": 1680001948,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 186559,
       "num": 186559,
       "word": "2022全国十大考古新发现揭晓",
@@ -1337,6 +1353,14 @@
       "onboard_time": 1679979211,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 179850,
+      "num": 179850,
+      "word": "和黄晓明玩滑板的是路人",
+      "onboard_time": 1680002548,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 178217,
@@ -1411,14 +1435,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 173449,
-      "num": 173449,
-      "word": "被穷养长大的孩子是怎样的",
-      "onboard_time": 1680001468,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
       "raw_hot": 173017,
       "num": 173017,
       "word": "孙述涛被查",
@@ -1433,14 +1449,6 @@
       "onboard_time": 1679915729,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 170624,
-      "num": 170624,
-      "word": "西班牙 占房",
-      "onboard_time": 1680001050,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 170184,
@@ -1497,6 +1505,14 @@
       "onboard_time": 1679993550,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 162410,
+      "num": 162410,
+      "word": "王楚钦小组第1出线",
+      "onboard_time": 1680003030,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 160540,
@@ -1691,20 +1707,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 137005,
+      "num": 137005,
+      "word": "爱不爱喝茶的看完都沉默了",
+      "onboard_time": 1680001589,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 136481,
       "num": 136481,
       "word": "漂亮的战斗",
       "onboard_time": 1680001109,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 135810,
-      "num": 135810,
-      "word": "爱不爱喝茶的看完都沉默了",
-      "onboard_time": 1680001589,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 133476,
@@ -1755,6 +1771,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 124308,
+      "num": 124308,
+      "word": "BLACKPINK或将与LadyGaga同台演出",
+      "onboard_time": 1680002190,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 120552,
+      "num": 120552,
+      "word": "快速入睡法子",
+      "onboard_time": 1680002669,
+      "rank": 44,
+      "category": "其它"
+    },
+    {
       "raw_hot": 118641,
       "num": 118641,
       "word": "这就是你的恋爱脑闺蜜吧",
@@ -1769,6 +1801,14 @@
       "onboard_time": 1679999190,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 117164,
+      "num": 117164,
+      "word": "哈利波特的魔法惊喜",
+      "onboard_time": 1680003030,
+      "rank": 45,
+      "category": "科技,影视"
     },
     {
       "raw_hot": 115917,
@@ -1809,6 +1849,14 @@
       "onboard_time": 1679923050,
       "rank": 41,
       "category": "作品衍生,游戏"
+    },
+    {
+      "raw_hot": 109345,
+      "num": 109345,
+      "word": "跑男成都",
+      "onboard_time": 1680003148,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 109280,
