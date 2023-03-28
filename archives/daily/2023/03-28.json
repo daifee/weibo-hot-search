@@ -1,6 +1,6 @@
 {
   "startTime": 1679934149836,
-  "endTime": 1680014089995,
+  "endTime": 1680016795477,
   "band_list": [
     {
       "raw_hot": 2747528,
@@ -9,6 +9,14 @@
       "onboard_time": 1679966129,
       "rank": 9,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 2696912,
+      "num": 2696912,
+      "word": "酒店不允许成年子女和父母住一个标间",
+      "onboard_time": 1680014548,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2327071,
@@ -73,6 +81,22 @@
       "onboard_time": 1679986107,
       "rank": 3,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 1431880,
+      "num": 973512,
+      "word": "黑马情侣 两人权力的转移",
+      "onboard_time": 1680011909,
+      "rank": 11,
+      "category": "网红,情感"
+    },
+    {
+      "raw_hot": 1384998,
+      "num": 1384998,
+      "word": "突然胸痛的原因找到了",
+      "onboard_time": 1680012750,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 1322639,
@@ -217,14 +241,6 @@
       "onboard_time": 1679976329,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 973512,
-      "num": 973512,
-      "word": "黑马情侣 两人权力的转移",
-      "onboard_time": 1680011909,
-      "rank": 11,
-      "category": "网红,情感"
     },
     {
       "raw_hot": 958600,
@@ -377,14 +393,6 @@
       "onboard_time": 1680011968,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 717543,
-      "num": 717543,
-      "word": "突然胸痛的原因找到了",
-      "onboard_time": 1680012750,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 711856,
@@ -835,6 +843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 380730,
+      "num": 252627,
+      "word": "终于知道炸串摊的秘密了",
+      "onboard_time": 1680014788,
+      "rank": 20,
+      "category": "美食"
+    },
+    {
       "raw_hot": 377114,
       "num": 377114,
       "word": "龚俊严浩翔聊天",
@@ -929,6 +945,14 @@
       "onboard_time": 1680009146,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 342703,
+      "num": 342703,
+      "word": "第41届金像奖提名者海报",
+      "onboard_time": 1680014188,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 339084,
@@ -1059,6 +1083,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 293764,
+      "num": 293764,
+      "word": "淄博专门开通了烧烤公交专线",
+      "onboard_time": 1680013587,
+      "rank": 29,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 290171,
       "num": 290171,
       "word": "李雪琴送徐志胜色盲眼镜",
@@ -1081,6 +1113,14 @@
       "onboard_time": 1679934084,
       "rank": 22,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 284327,
+      "num": 284327,
+      "word": "祝绪丹彩色吊带上衣",
+      "onboard_time": 1680010947,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 280992,
@@ -1251,20 +1291,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 241778,
+      "num": 241778,
+      "word": "王国之泪",
+      "onboard_time": 1680016109,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 240322,
       "num": 240322,
       "word": "限定团告别演唱会的最后一首歌",
       "onboard_time": 1679996129,
       "rank": 27,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 240279,
-      "num": 210674,
-      "word": "祝绪丹彩色吊带上衣",
-      "onboard_time": 1680010947,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 239230,
@@ -1419,6 +1459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 203395,
+      "num": 203395,
+      "word": "宁夏万亩林场主回应跪地求供水",
+      "onboard_time": 1680016589,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202856,
       "num": 202856,
       "word": "北京草莓音乐节",
@@ -1515,6 +1563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193884,
+      "num": 193884,
+      "word": "万亩树木被煤矿断水面临枯死",
+      "onboard_time": 1680016109,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 193814,
       "num": 193814,
       "word": "严厉打击网上恶意损害企业和企业家形象声誉",
@@ -1537,6 +1593,14 @@
       "onboard_time": 1679915313,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 188752,
+      "num": 188752,
+      "word": "宇宙探索编辑部",
+      "onboard_time": 1680016290,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 188415,
@@ -1673,6 +1737,14 @@
       "onboard_time": 1679991568,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 173359,
+      "num": 173359,
+      "word": "那些三观超正的恋爱观",
+      "onboard_time": 1680015027,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 173017,
@@ -1899,20 +1971,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 148762,
+      "num": 148762,
+      "word": "路晨抢救",
+      "onboard_time": 1680015988,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 147072,
       "num": 147072,
       "word": "暖阳戴戒指",
       "onboard_time": 1679992527,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 146685,
-      "num": 191338,
-      "word": "淄博专门开通了烧烤公交专线",
-      "onboard_time": 1680013587,
-      "rank": 29,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 145287,
@@ -2243,6 +2315,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 96877,
+      "num": 96877,
+      "word": "广东中山报告1例H3N8病例",
+      "onboard_time": 1680016709,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 93978,
       "num": 93978,
       "word": "梁友安体检查出巧克力囊肿",
@@ -2387,7 +2467,7 @@
       "category": "财经"
     },
     {
-      "raw_hot": 40040,
+      "raw_hot": 40580,
       "num": 907121,
       "word": "守好中国式现代化的本和源",
       "onboard_time": 1680011548,
