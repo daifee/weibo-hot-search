@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1680034773170,
+  "endTime": 1680035625644,
   "band_list": [
     {
       "raw_hot": 4718675,
@@ -4721,6 +4721,14 @@
       "onboard_time": 1679945592,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 10231,
+      "num": 10231,
+      "word": "苦难是不应该被拿来比较的",
+      "onboard_time": 1680033912,
+      "rank": 48,
+      "category": "情感"
     }
   ],
   "hotgov_list": [
