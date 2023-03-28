@@ -1,6 +1,6 @@
 {
   "startTime": 1680022234432,
-  "endTime": 1680027769809,
+  "endTime": 1680028620453,
   "band_list": [
     {
       "raw_hot": 1437681,
@@ -417,6 +417,14 @@
       "onboard_time": 1679739121,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 19774,
+      "num": 19897,
+      "word": "哈利波特的魔法惊喜",
+      "onboard_time": 1680003030,
+      "rank": 48,
+      "category": "科技,影视"
     },
     {
       "raw_hot": 18171,
