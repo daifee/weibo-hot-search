@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1679968265480,
+  "endTime": 1679971010414,
   "band_list": [
     {
       "raw_hot": 4718675,
@@ -51,20 +51,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2606324,
+      "num": 2606324,
+      "word": "免费坐高铁",
+      "onboard_time": 1679966129,
+      "rank": 9,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 2510051,
       "num": 955849,
       "word": "马云已回国",
       "onboard_time": 1679896593,
       "rank": 5,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 2278036,
-      "num": 2278036,
-      "word": "免费坐高铁",
-      "onboard_time": 1679966129,
-      "rank": 9,
-      "category": "旅游"
     },
     {
       "raw_hot": 2186717,
@@ -227,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1224715,
+      "num": 1224715,
+      "word": "拼多多 卡巴斯基",
+      "onboard_time": 1679967027,
+      "rank": 14,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1172548,
       "num": 1172548,
       "word": "为什么删掉了你喜欢的人",
@@ -323,6 +331,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 942427,
+      "num": 942427,
+      "word": "iPhone折旧率仅为安卓一半",
+      "onboard_time": 1679968046,
+      "rank": 25,
+      "category": "科技"
+    },
+    {
       "raw_hot": 927202,
       "num": 927202,
       "word": "96年父亲暴瘦40斤割肝救女",
@@ -393,6 +409,14 @@
       "onboard_time": 1679887411,
       "rank": 4,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 823088,
+      "num": 823088,
+      "word": "四六级",
+      "onboard_time": 1679967087,
+      "rank": 3,
+      "category": "教育"
     },
     {
       "raw_hot": 817501,
@@ -467,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 673049,
+      "num": 422260,
+      "word": "BLACKPINK或将出席白宫晚宴",
+      "onboard_time": 1679970086,
+      "rank": 10,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 654578,
       "num": 485951,
       "word": "张一山最近营业照",
@@ -489,14 +521,6 @@
       "onboard_time": 1679913931,
       "rank": 7,
       "category": "情感"
-    },
-    {
-      "raw_hot": 646718,
-      "num": 646718,
-      "word": "四六级",
-      "onboard_time": 1679967087,
-      "rank": 3,
-      "category": "教育"
     },
     {
       "raw_hot": 635168,
@@ -627,6 +651,14 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 574397,
+      "num": 574397,
+      "word": "瑞幸被吐槽咖啡3口喝完剩下全是冰",
+      "onboard_time": 1679970146,
+      "rank": 5,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 571693,
       "num": 571693,
       "word": "河道英不离开妍珍的理由",
@@ -675,6 +707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 546731,
+      "num": 546731,
+      "word": "微博之夜关晓彤生图",
+      "onboard_time": 1679968527,
+      "rank": 6,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 529235,
       "num": 509631,
       "word": "刘亚仁前往警察厅接受调查",
@@ -713,6 +753,14 @@
       "onboard_time": 1679930553,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 496872,
+      "num": 496872,
+      "word": "李栋旭九尾狐传1938海报",
+      "onboard_time": 1679969728,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 496859,
@@ -803,6 +851,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 452219,
+      "num": 452219,
+      "word": "情感漠视 冷暴力",
+      "onboard_time": 1679966307,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 447772,
       "num": 447772,
       "word": "白鹿录完奔跑吧就进组",
@@ -825,22 +881,6 @@
       "onboard_time": 1679915850,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 441844,
-      "num": 441844,
-      "word": "情感漠视 冷暴力",
-      "onboard_time": 1679966307,
-      "rank": 29,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 436177,
-      "num": 436177,
-      "word": "拼多多 卡巴斯基",
-      "onboard_time": 1679967027,
-      "rank": 14,
-      "category": "科技"
     },
     {
       "raw_hot": 435537,
@@ -963,6 +1003,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 377114,
+      "num": 377114,
+      "word": "龚俊严浩翔聊天",
+      "onboard_time": 1679969487,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 376097,
       "num": 376097,
       "word": "张大大是去要签名照了吧",
@@ -1017,6 +1065,14 @@
       "onboard_time": 1679960785,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 348429,
+      "num": 348429,
+      "word": "樊振东连续三年世界排名第一",
+      "onboard_time": 1679968768,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 348316,
@@ -1331,6 +1387,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 267299,
+      "num": 267299,
+      "word": "小心二次元",
+      "onboard_time": 1679966848,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 265641,
       "num": 265641,
       "word": "村BA奖品太接地气了",
@@ -1409,14 +1473,6 @@
       "onboard_time": 1679902951,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 251900,
-      "num": 251900,
-      "word": "小心二次元",
-      "onboard_time": 1679966848,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 251483,
@@ -1555,14 +1611,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 218905,
-      "num": 218905,
-      "word": "iPhone折旧率仅为安卓一半",
-      "onboard_time": 1679968046,
-      "rank": 25,
-      "category": "科技"
-    },
-    {
       "raw_hot": 218042,
       "num": 189926,
       "word": "谢娜或将以选手身份参加浪姐",
@@ -1577,6 +1625,14 @@
       "onboard_time": 1679886389,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 216326,
+      "num": 216326,
+      "word": "被室友孤立是什么感受",
+      "onboard_time": 1679964449,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 214913,
@@ -1651,6 +1707,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 207168,
+      "num": 207168,
+      "word": "建议适时修订职工带薪年休假条例",
+      "onboard_time": 1679966070,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 207125,
       "num": 207125,
       "word": "爱情而已开播",
@@ -1721,6 +1785,14 @@
       "onboard_time": 1679924071,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 199429,
+      "num": 199429,
+      "word": "陈晓谈和李沁张嘉倪合作",
+      "onboard_time": 1679964510,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 198472,
@@ -1843,12 +1915,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 187453,
-      "num": 187453,
-      "word": "陈晓谈和李沁张嘉倪合作",
-      "onboard_time": 1679964510,
-      "rank": 38,
-      "category": "影视"
+      "raw_hot": 188415,
+      "num": 188415,
+      "word": "2023年清朗专项行动",
+      "onboard_time": 1679970146,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 187304,
@@ -1873,14 +1945,6 @@
       "onboard_time": 1679905649,
       "rank": 34,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 184567,
-      "num": 184567,
-      "word": "被室友孤立是什么感受",
-      "onboard_time": 1679964449,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 183975,
@@ -1936,14 +2000,6 @@
       "word": "乡村入殓师16年为近百位逝者理发",
       "onboard_time": 1679883269,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 179396,
-      "num": 179396,
-      "word": "建议适时修订职工带薪年休假条例",
-      "onboard_time": 1679966070,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -2067,11 +2123,27 @@
       "category": "财经"
     },
     {
+      "raw_hot": 163385,
+      "num": 163385,
+      "word": "吴磊水下戏拍到流鼻血",
+      "onboard_time": 1679970627,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 161537,
       "num": 161537,
       "word": "学生合唱一开口就是青春的模样",
       "onboard_time": 1679880986,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161436,
+      "num": 161436,
+      "word": "孙述涛被查",
+      "onboard_time": 1679968949,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -2081,6 +2153,14 @@
       "onboard_time": 1679906371,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 160164,
+      "num": 160164,
+      "word": "黄牛的操作能有多离谱",
+      "onboard_time": 1679969907,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 159882,
@@ -2289,6 +2369,14 @@
       "onboard_time": 1679915971,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 132540,
+      "num": 132540,
+      "word": "动物派对美国评级信息公布",
+      "onboard_time": 1679970509,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 131998,
@@ -2895,6 +2983,7 @@
     },
     {
       "word": "#中国新发展要为世界经济增春色#"
-    }
+    },
+    {}
   ]
 }

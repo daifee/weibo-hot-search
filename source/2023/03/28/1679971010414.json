@@ -1,0 +1,408 @@
+{
+  "runTime": 1679971010414,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2606324,
+        "num": 2606324,
+        "word": "免费坐高铁",
+        "onboard_time": 1679966129,
+        "rank": 0,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 1224715,
+        "num": 1224715,
+        "word": "拼多多 卡巴斯基",
+        "onboard_time": 1679967027,
+        "rank": 1,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 17545,
+        "num": 1052472,
+        "word": "春日里的凡人微光",
+        "onboard_time": 1679879306,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 942427,
+        "num": 942427,
+        "word": "iPhone折旧率仅为安卓一半",
+        "onboard_time": 1679968046,
+        "rank": 3,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 823088,
+        "num": 823088,
+        "word": "四六级",
+        "onboard_time": 1679967087,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 574397,
+        "num": 574397,
+        "word": "瑞幸被吐槽咖啡3口喝完剩下全是冰",
+        "onboard_time": 1679970146,
+        "rank": 5,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 546731,
+        "num": 546731,
+        "word": "微博之夜关晓彤生图",
+        "onboard_time": 1679968527,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 496872,
+        "num": 496872,
+        "word": "李栋旭九尾狐传1938海报",
+        "onboard_time": 1679969728,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 452219,
+        "num": 452219,
+        "word": "情感漠视 冷暴力",
+        "onboard_time": 1679966307,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 423994,
+        "num": 423994,
+        "word": "中国专家查看丫丫情况",
+        "onboard_time": 1679964992,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 673049,
+        "num": 422260,
+        "word": "BLACKPINK或将出席白宫晚宴",
+        "onboard_time": 1679970086,
+        "rank": 10,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 499262,
+        "num": 420179,
+        "word": "知名浙商去世儿子继母百亿夺权大战",
+        "onboard_time": 1679923350,
+        "rank": 11,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 416328,
+        "num": 416328,
+        "word": "黄磊孙莉回应多多争议",
+        "onboard_time": 1679912791,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 406996,
+        "num": 406996,
+        "word": "谷爱凌被熊猫花花可爱到",
+        "onboard_time": 1679959943,
+        "rank": 13,
+        "category": "作品衍生,体育"
+      },
+      {
+        "raw_hot": 377114,
+        "num": 377114,
+        "word": "龚俊严浩翔聊天",
+        "onboard_time": 1679969487,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 369373,
+        "num": 369373,
+        "word": "千万不要用这个姿势睡觉",
+        "onboard_time": 1679932529,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 348429,
+        "num": 348429,
+        "word": "樊振东连续三年世界排名第一",
+        "onboard_time": 1679968768,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 336710,
+        "num": 336710,
+        "word": "上海每5人中有两个念过大学",
+        "onboard_time": 1679962048,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296580,
+        "num": 296580,
+        "word": "iPhone15将在更多国家销售eSIM版",
+        "onboard_time": 1679964089,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 290684,
+        "num": 290684,
+        "word": "刘诗诗给杨紫飞吻",
+        "onboard_time": 1679963848,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 285086,
+        "num": 285086,
+        "word": "中学浴室偷拍事件知情学生发声",
+        "onboard_time": 1679930553,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278084,
+        "num": 278084,
+        "word": "美国一小学发生枪击事件致7人死亡",
+        "onboard_time": 1679962949,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267299,
+        "num": 267299,
+        "word": "小心二次元",
+        "onboard_time": 1679966848,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 216326,
+        "num": 216326,
+        "word": "被室友孤立是什么感受",
+        "onboard_time": 1679964449,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 210578,
+        "num": 210578,
+        "word": "男子2天喝4顿后死亡起诉店家获赔",
+        "onboard_time": 1679923411,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207168,
+        "num": 207168,
+        "word": "建议适时修订职工带薪年休假条例",
+        "onboard_time": 1679966070,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199429,
+        "num": 199429,
+        "word": "陈晓谈和李沁张嘉倪合作",
+        "onboard_time": 1679964510,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 191394,
+        "num": 191394,
+        "word": "杭州地铁现打工人专线",
+        "onboard_time": 1679965230,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188415,
+        "num": 188415,
+        "word": "2023年清朗专项行动",
+        "onboard_time": 1679970146,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181120,
+        "num": 181120,
+        "word": "去有风的地方将上线网飞",
+        "onboard_time": 1679967567,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 179789,
+        "num": 179789,
+        "word": "直男并不直男癌",
+        "onboard_time": 1679934084,
+        "rank": 30,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 178474,
+        "num": 178474,
+        "word": "台湾清明节后鸭蛋将大缺",
+        "onboard_time": 1679963970,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171116,
+        "num": 171116,
+        "word": "不要做那个揉纸团的人",
+        "onboard_time": 1679962349,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167888,
+        "num": 167888,
+        "word": "重庆省考",
+        "onboard_time": 1679966129,
+        "rank": 33,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 164478,
+        "num": 164478,
+        "word": "文东恩河道英策划全在俊的死",
+        "onboard_time": 1679960785,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163385,
+        "num": 163385,
+        "word": "吴磊水下戏拍到流鼻血",
+        "onboard_time": 1679970627,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 161436,
+        "num": 161436,
+        "word": "孙述涛被查",
+        "onboard_time": 1679968949,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160164,
+        "num": 160164,
+        "word": "黄牛的操作能有多离谱",
+        "onboard_time": 1679969907,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 135708,
+        "num": 135708,
+        "word": "Chinese空腹",
+        "onboard_time": 1679929653,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 133793,
+        "num": 133793,
+        "word": "刘亚仁被麦克风扎脸",
+        "onboard_time": 1679930013,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132540,
+        "num": 132540,
+        "word": "动物派对美国评级信息公布",
+        "onboard_time": 1679970509,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 130138,
+        "num": 130138,
+        "word": "iOS16.4正式版来了",
+        "onboard_time": 1679960785,
+        "rank": 41,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 126198,
+        "num": 126198,
+        "word": "上海60岁以上常住人口占比25%",
+        "onboard_time": 1679965230,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124112,
+        "num": 124112,
+        "word": "深圳暴雨致航班取消旅客跪求起飞",
+        "onboard_time": 1679924071,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120265,
+        "num": 120265,
+        "word": "张大大是去要签名照了吧",
+        "onboard_time": 1679961146,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 118963,
+        "num": 118963,
+        "word": "公安联考",
+        "onboard_time": 1679967208,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 118779,
+        "num": 118779,
+        "word": "库克",
+        "onboard_time": 1679965350,
+        "rank": 46,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 114249,
+        "num": 114249,
+        "word": "全智贤姜栋元将合作新剧北极星",
+        "onboard_time": 1679966307,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 110012,
+        "num": 110012,
+        "word": "为什么删掉了你喜欢的人",
+        "onboard_time": 1679925393,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 102774,
+        "num": 102774,
+        "word": "首个国产新冠药停产",
+        "onboard_time": 1679938395,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {}
+  }
+}
