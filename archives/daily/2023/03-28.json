@@ -1,6 +1,6 @@
 {
   "startTime": 1679934149836,
-  "endTime": 1679973535966,
+  "endTime": 1679974412591,
   "band_list": [
     {
       "raw_hot": 2747528,
@@ -11,12 +11,20 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 1937266,
-      "num": 1937266,
+      "raw_hot": 2053659,
+      "num": 2053659,
       "word": "瑞幸被吐槽咖啡3口喝完剩下全是冰",
       "onboard_time": 1679970146,
       "rank": 5,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 1872254,
+      "num": 1872254,
+      "word": "青山刚昌",
+      "onboard_time": 1679972429,
+      "rank": 3,
+      "category": "动漫"
     },
     {
       "raw_hot": 1281772,
@@ -51,20 +59,20 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 1020950,
-      "num": 1020950,
-      "word": "青山刚昌",
-      "onboard_time": 1679972429,
-      "rank": 3,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 942427,
       "num": 942427,
       "word": "iPhone折旧率仅为安卓一半",
       "onboard_time": 1679968046,
       "rank": 25,
       "category": "科技"
+    },
+    {
+      "raw_hot": 914633,
+      "num": 914633,
+      "word": "长月烬明",
+      "onboard_time": 1679972607,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 901326,
@@ -131,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 638883,
+      "num": 638883,
+      "word": "70.8%上海人只希望有一个孩子",
+      "onboard_time": 1679971887,
+      "rank": 7,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 608748,
       "num": 574320,
       "word": "刘诗诗给杨紫飞吻",
@@ -179,14 +195,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 553237,
-      "num": 553237,
-      "word": "长月烬明",
-      "onboard_time": 1679972607,
-      "rank": 6,
-      "category": "影视"
-    },
-    {
       "raw_hot": 515055,
       "num": 515055,
       "word": "不要做那个揉纸团的人",
@@ -211,20 +219,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 484659,
-      "num": 484659,
-      "word": "70.8%上海人只希望有一个孩子",
-      "onboard_time": 1679971887,
-      "rank": 7,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 477726,
       "num": 477726,
       "word": "台湾清明节后鸭蛋将大缺",
       "onboard_time": 1679963970,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 476097,
+      "num": 273885,
+      "word": "新裤子",
+      "onboard_time": 1679972238,
+      "rank": 20,
+      "category": "音乐"
     },
     {
       "raw_hot": 463780,
@@ -257,14 +265,6 @@
       "onboard_time": 1679914652,
       "rank": 7,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 423180,
-      "num": 273885,
-      "word": "新裤子",
-      "onboard_time": 1679972238,
-      "rank": 20,
-      "category": "音乐"
     },
     {
       "raw_hot": 405544,
@@ -321,6 +321,14 @@
       "onboard_time": 1679968768,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 352138,
+      "num": 352138,
+      "word": "迪士尼真人版小美人鱼确认引进",
+      "onboard_time": 1679972968,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 349122,
@@ -395,6 +403,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 280992,
+      "num": 1898263,
+      "word": "国家网信办介绍2023年清朗行动有关情况",
+      "onboard_time": 1679971288,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 279259,
       "num": 279259,
       "word": "白敬亭持股公司经营异常",
@@ -435,14 +451,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 267762,
-      "num": 1245204,
-      "word": "国家网信办介绍2023年清朗行动有关情况",
-      "onboard_time": 1679971288,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 267518,
       "num": 267518,
       "word": "吴宣仪说虞书欣特别暖心",
@@ -459,6 +467,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 258417,
+      "num": 258417,
+      "word": "大侦探",
+      "onboard_time": 1679973149,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 256626,
       "num": 256626,
       "word": "全智贤姜栋元将合作新剧北极星",
@@ -467,8 +483,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 242670,
-      "num": 242670,
+      "raw_hot": 246239,
+      "num": 246239,
       "word": "相思令杨颖宋威龙回眸杀",
       "onboard_time": 1679973330,
       "rank": 22,
@@ -497,6 +513,14 @@
       "onboard_time": 1679967567,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 222064,
+      "num": 222064,
+      "word": "4岁男童患罕见病体重仅有8.8斤",
+      "onboard_time": 1679972907,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 220394,
@@ -531,12 +555,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 208114,
-      "num": 208114,
-      "word": "迪士尼真人版小美人鱼确认引进",
-      "onboard_time": 1679972968,
-      "rank": 24,
-      "category": "影视"
+      "raw_hot": 208925,
+      "num": 208925,
+      "word": "没想到栏杆是用来防明星的",
+      "onboard_time": 1679971226,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 207168,
@@ -555,12 +579,12 @@
       "category": "艺人,综艺"
     },
     {
-      "raw_hot": 197184,
-      "num": 197184,
-      "word": "没想到栏杆是用来防明星的",
-      "onboard_time": 1679971226,
-      "rank": 26,
-      "category": "音乐"
+      "raw_hot": 200836,
+      "num": 200836,
+      "word": "网友用华为和库克合照",
+      "onboard_time": 1679974229,
+      "rank": 28,
+      "category": "科技"
     },
     {
       "raw_hot": 196822,
@@ -600,6 +624,14 @@
       "word": "2023年清朗专项行动",
       "onboard_time": 1679970146,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 186559,
+      "num": 186559,
+      "word": "2022全国十大考古新发现揭晓",
+      "onboard_time": 1679973928,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -643,12 +675,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 170604,
-      "num": 170604,
-      "word": "大侦探",
-      "onboard_time": 1679973149,
-      "rank": 31,
-      "category": "综艺"
+      "raw_hot": 169855,
+      "num": 169855,
+      "word": "黄牛的操作能有多离谱",
+      "onboard_time": 1679969907,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 169237,
@@ -665,14 +697,6 @@
       "onboard_time": 1679928994,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 160164,
-      "num": 160164,
-      "word": "黄牛的操作能有多离谱",
-      "onboard_time": 1679969907,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 159935,
@@ -739,6 +763,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 145207,
+      "num": 145207,
+      "word": "笑点低的人连结婚都在笑场",
+      "onboard_time": 1679972066,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 140545,
       "num": 140545,
       "word": "最伟大的作品2022IFPI全球实销专辑榜冠军",
@@ -747,12 +779,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 138933,
-      "num": 138933,
-      "word": "4岁男童患罕见病体重仅有8.8斤",
-      "onboard_time": 1679972907,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 139161,
+      "num": 139161,
+      "word": "山河之影今日开播",
+      "onboard_time": 1679973508,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 138107,
@@ -777,6 +809,14 @@
       "onboard_time": 1679929232,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 131878,
+      "num": 131878,
+      "word": "杭州地铁回应被调侃成打工人专线",
+      "onboard_time": 1679973928,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129038,
@@ -825,22 +865,6 @@
       "onboard_time": 1679923050,
       "rank": 41,
       "category": "作品衍生,游戏"
-    },
-    {
-      "raw_hot": 110599,
-      "num": 110599,
-      "word": "山河之影今日开播",
-      "onboard_time": 1679973508,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 109419,
-      "num": 109419,
-      "word": "笑点低的人连结婚都在笑场",
-      "onboard_time": 1679972066,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 109280,
@@ -989,6 +1013,9 @@
     {},
     {
       "word": "#看中国经济活力与机遇#"
+    },
+    {
+      "word": "#2023年清朗专项行动#"
     }
   ]
 }
