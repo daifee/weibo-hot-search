@@ -1,0 +1,410 @@
+{
+  "runTime": 1679985414515,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2293345,
+        "num": 2293345,
+        "word": "你懒 就没有作品",
+        "onboard_time": 1679977413,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1114787,
+        "num": 1114787,
+        "word": "免费坐高铁",
+        "onboard_time": 1679966129,
+        "rank": 1,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 118551,
+        "num": 963254,
+        "word": "国家网信办介绍2023年清朗行动有关情况",
+        "onboard_time": 1679971288,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 958600,
+        "num": 958600,
+        "word": "北京语言大学发声明",
+        "onboard_time": 1679981488,
+        "rank": 3,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 955250,
+        "num": 955250,
+        "word": "阿黛尔无限期中止职业生涯",
+        "onboard_time": 1679983349,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1070767,
+        "num": 808429,
+        "word": "揭开上海杀妻藏尸案背后不为人知的事",
+        "onboard_time": 1679980828,
+        "rank": 5,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 610483,
+        "num": 610483,
+        "word": "权志龙将3个月内回归",
+        "onboard_time": 1679984365,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 590656,
+        "num": 590656,
+        "word": "苏醒加盟跑男",
+        "onboard_time": 1679977529,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 435484,
+        "num": 435484,
+        "word": "iPhone13成2022年中国最畅销手机",
+        "onboard_time": 1679978372,
+        "rank": 8,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 424293,
+        "num": 424293,
+        "word": "全面清理虚构摆拍导向不良的短视频",
+        "onboard_time": 1679983527,
+        "rank": 9,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 363045,
+        "num": 363045,
+        "word": "瑞幸被吐槽咖啡3口喝完剩下全是冰",
+        "onboard_time": 1679970146,
+        "rank": 10,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 348561,
+        "num": 348561,
+        "word": "乌合麒麟 丛林之隙",
+        "onboard_time": 1679984788,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321639,
+        "num": 321639,
+        "word": "TVB艺人为直播集体苦练普通话",
+        "onboard_time": 1679983229,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311207,
+        "num": 311207,
+        "word": "杨紫的社交圈好广",
+        "onboard_time": 1679980291,
+        "rank": 13,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 40268,
+        "num": 311164,
+        "word": "车型销量能够说明什么",
+        "onboard_time": 1679974949,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 311160,
+        "num": 311160,
+        "word": "张静初被美国电影学院导演系录取",
+        "onboard_time": 1679976329,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 282475,
+        "num": 282475,
+        "word": "刘亦菲拍照好喜欢叉腰",
+        "onboard_time": 1679975189,
+        "rank": 16,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 234789,
+        "num": 234789,
+        "word": "长月烬明",
+        "onboard_time": 1679972607,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 197870,
+        "num": 197870,
+        "word": "ChatGPT替代不了水瓶射手双子",
+        "onboard_time": 1679985088,
+        "rank": 18,
+        "category": "幽默,科技"
+      },
+      {
+        "raw_hot": 194666,
+        "num": 194666,
+        "word": "一文速览2023清朗行动发布会要点",
+        "onboard_time": 1679983707,
+        "rank": 19,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 425402,
+        "num": 193730,
+        "word": "中国哪个小县城名字最好听",
+        "onboard_time": 1679982808,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 405232,
+        "num": 193395,
+        "word": "女生同情老人买5西瓜切开发现全坏",
+        "onboard_time": 1679982088,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339760,
+        "num": 192024,
+        "word": "唐嫣回应孙坚我也没洗脸",
+        "onboard_time": 1679979512,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 319589,
+        "num": 190044,
+        "word": "杨颖数字高定",
+        "onboard_time": 1679982507,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 188276,
+        "num": 189746,
+        "word": "网传乘风破浪4初舞台歌单",
+        "onboard_time": 1679980408,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188858,
+        "num": 188858,
+        "word": "70.8%上海人只希望有一个孩子",
+        "onboard_time": 1679971887,
+        "rank": 25,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 173205,
+        "num": 173205,
+        "word": "被杜华杨天真通讯录人数吓到",
+        "onboard_time": 1679984670,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163877,
+        "num": 163877,
+        "word": "iPhone折旧率仅为安卓一半",
+        "onboard_time": 1679968046,
+        "rank": 27,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 160626,
+        "num": 160626,
+        "word": "没想到栏杆是用来防明星的",
+        "onboard_time": 1679971226,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 158754,
+        "num": 158754,
+        "word": "真正不想上班的原因是什么",
+        "onboard_time": 1679981010,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 151048,
+        "num": 151048,
+        "word": "流浪地球2将在韩国上映",
+        "onboard_time": 1679984365,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 144918,
+        "num": 144918,
+        "word": "防止泄露未成年人隐私的欺凌视频传播",
+        "onboard_time": 1679981129,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134204,
+        "num": 134204,
+        "word": "这婚礼算是相当炸裂了",
+        "onboard_time": 1679978732,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127650,
+        "num": 127650,
+        "word": "四六级",
+        "onboard_time": 1679967087,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 123798,
+        "num": 123798,
+        "word": "大侦探蓝色大海的传说剧照",
+        "onboard_time": 1679979632,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 118210,
+        "num": 118210,
+        "word": "4岁男童患罕见病体重仅有8.8斤",
+        "onboard_time": 1679972907,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117117,
+        "num": 117117,
+        "word": "BLACKPINK或将出席白宫晚宴",
+        "onboard_time": 1679970086,
+        "rank": 36,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 116778,
+        "num": 116778,
+        "word": "蔡徐坤走路好男模",
+        "onboard_time": 1679978670,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113175,
+        "num": 113175,
+        "word": "马丽晒张婧仪周微雨海报",
+        "onboard_time": 1679981909,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 102053,
+        "num": 102053,
+        "word": "去学生宿舍上厕所的猫咪",
+        "onboard_time": 1679979211,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95622,
+        "num": 95622,
+        "word": "迪士尼真人版小美人鱼确认引进",
+        "onboard_time": 1679972968,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 92532,
+        "num": 92532,
+        "word": "迪丽热巴工作花絮",
+        "onboard_time": 1679977109,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 89924,
+        "num": 89924,
+        "word": "中国便秘日",
+        "onboard_time": 1679985207,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88944,
+        "num": 88944,
+        "word": "阴阳师",
+        "onboard_time": 1679978791,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 86542,
+        "num": 86542,
+        "word": "网友用华为和库克合照",
+        "onboard_time": 1679974229,
+        "rank": 44,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 86176,
+        "num": 86176,
+        "word": "爱情而已",
+        "onboard_time": 1679976571,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 86064,
+        "num": 86064,
+        "word": "中国专家查看丫丫情况",
+        "onboard_time": 1679964992,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80874,
+        "num": 80874,
+        "word": "严厉打击网上恶意损害企业和企业家形象声誉",
+        "onboard_time": 1679979871,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80698,
+        "num": 80698,
+        "word": "孙俪种菜vlog",
+        "onboard_time": 1679982928,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76330,
+        "num": 76330,
+        "word": "新裤子",
+        "onboard_time": 1679972238,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#2023年清朗专项行动#"
+    }
+  }
+}

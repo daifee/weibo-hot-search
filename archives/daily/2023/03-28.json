@@ -1,6 +1,6 @@
 {
   "startTime": 1679934149836,
-  "endTime": 1679984616553,
+  "endTime": 1679985414515,
   "band_list": [
     {
       "raw_hot": 2747528,
@@ -99,20 +99,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 958600,
+      "num": 958600,
+      "word": "北京语言大学发声明",
+      "onboard_time": 1679981488,
+      "rank": 25,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 955250,
+      "num": 955250,
+      "word": "阿黛尔无限期中止职业生涯",
+      "onboard_time": 1679983349,
+      "rank": 5,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 942427,
       "num": 942427,
       "word": "iPhone折旧率仅为安卓一半",
       "onboard_time": 1679968046,
       "rank": 25,
       "category": "科技"
-    },
-    {
-      "raw_hot": 923874,
-      "num": 923874,
-      "word": "北京语言大学发声明",
-      "onboard_time": 1679981488,
-      "rank": 25,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 914633,
@@ -137,14 +145,6 @@
       "onboard_time": 1679971887,
       "rank": 7,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 880009,
-      "num": 880009,
-      "word": "阿黛尔无限期中止职业生涯",
-      "onboard_time": 1679983349,
-      "rank": 5,
-      "category": "音乐"
     },
     {
       "raw_hot": 823088,
@@ -211,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 610483,
+      "num": 610483,
+      "word": "权志龙将3个月内回归",
+      "onboard_time": 1679984365,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 608748,
       "num": 574320,
       "word": "刘诗诗给杨紫飞吻",
@@ -241,14 +249,6 @@
       "onboard_time": 1679925393,
       "rank": 3,
       "category": "情感"
-    },
-    {
-      "raw_hot": 573352,
-      "num": 573352,
-      "word": "权志龙将3个月内回归",
-      "onboard_time": 1679984365,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 567624,
@@ -379,6 +379,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 425402,
+      "num": 198915,
+      "word": "中国哪个小县城名字最好听",
+      "onboard_time": 1679982808,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 424293,
+      "num": 424293,
+      "word": "全面清理虚构摆拍导向不良的短视频",
+      "onboard_time": 1679983527,
+      "rank": 10,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 421067,
       "num": 421067,
       "word": "杭州地铁回应被调侃成打工人专线",
@@ -400,6 +416,14 @@
       "word": "深圳暴雨致航班取消旅客跪求起飞",
       "onboard_time": 1679924071,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 405232,
+      "num": 202401,
+      "word": "女生同情老人买5西瓜切开发现全坏",
+      "onboard_time": 1679982088,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -475,22 +499,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 369266,
-      "num": 202401,
-      "word": "女生同情老人买5西瓜切开发现全坏",
-      "onboard_time": 1679982088,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 354073,
-      "num": 354073,
-      "word": "全面清理虚构摆拍导向不良的短视频",
-      "onboard_time": 1679983527,
-      "rank": 10,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 349122,
       "num": 349122,
       "word": "文东恩河道英策划全在俊的死",
@@ -499,20 +507,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 348561,
+      "num": 348561,
+      "word": "乌合麒麟 丛林之隙",
+      "onboard_time": 1679984788,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 348316,
       "num": 348316,
       "word": "洪都拉斯总统要求美国解除60多年封锁",
       "onboard_time": 1679928755,
       "rank": 12,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 348083,
-      "num": 198915,
-      "word": "中国哪个小县城名字最好听",
-      "onboard_time": 1679982808,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 344975,
@@ -851,6 +859,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 197870,
+      "num": 197870,
+      "word": "ChatGPT替代不了水瓶射手双子",
+      "onboard_time": 1679985088,
+      "rank": 18,
+      "category": "幽默,科技"
+    },
+    {
       "raw_hot": 196822,
       "num": 155818,
       "word": "张艺兴出发怼脸自拍照",
@@ -971,6 +987,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 173205,
+      "num": 173205,
+      "word": "被杜华杨天真通讯录人数吓到",
+      "onboard_time": 1679984670,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 173017,
       "num": 173017,
       "word": "孙述涛被查",
@@ -1043,6 +1067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158754,
+      "num": 158754,
+      "word": "真正不想上班的原因是什么",
+      "onboard_time": 1679981010,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 157766,
       "num": 157766,
       "word": "上海60岁以上常住人口占比25%",
@@ -1057,14 +1089,6 @@
       "onboard_time": 1679927432,
       "rank": 29,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 153715,
-      "num": 153715,
-      "word": "真正不想上班的原因是什么",
-      "onboard_time": 1679981010,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 152475,
@@ -1283,6 +1307,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 89924,
+      "num": 89924,
+      "word": "中国便秘日",
+      "onboard_time": 1679985207,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 88842,
       "num": 88842,
       "word": "马云已回国",
@@ -1340,7 +1372,7 @@
     },
     {
       "raw_hot": 50135,
-      "num": 271652,
+      "num": 311164,
       "word": "车型销量能够说明什么",
       "onboard_time": 1679974949,
       "rank": 46,
