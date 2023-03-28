@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1679978180522,
+  "endTime": 1679980622498,
   "band_list": [
     {
       "raw_hot": 27113842,
@@ -3193,6 +3193,14 @@
       "onboard_time": 1679736599,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1480272,
+      "num": 1480272,
+      "word": "你懒 就没有作品",
+      "onboard_time": 1679977413,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 1479858,
@@ -14201,6 +14209,14 @@
       "onboard_time": 1679844986,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 593844,
+      "num": 593844,
+      "word": "iPhone13成2022年中国最畅销手机",
+      "onboard_time": 1679978372,
+      "rank": 5,
+      "category": "科技"
     },
     {
       "raw_hot": 593323,
@@ -25875,6 +25891,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 332992,
+      "num": 332992,
+      "word": "没想到栏杆是用来防明星的",
+      "onboard_time": 1679971226,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 332700,
       "num": 332700,
       "word": "杨紫199爱哭戏",
@@ -27177,6 +27201,14 @@
       "onboard_time": 1677725368,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 313797,
+      "num": 313797,
+      "word": "杨紫的社交圈好广",
+      "onboard_time": 1679980291,
+      "rank": 14,
+      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 313719,
@@ -28875,6 +28907,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 289088,
+      "num": 289088,
+      "word": "冷暴力的伤害有多大",
+      "onboard_time": 1679977051,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 289079,
       "num": 289079,
       "word": "南京邮政回应243万存款被挪用",
@@ -29585,14 +29625,6 @@
       "onboard_time": 1677750989,
       "rank": 25,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 279860,
-      "num": 276548,
-      "word": "没想到栏杆是用来防明星的",
-      "onboard_time": 1679971226,
-      "rank": 26,
-      "category": "音乐"
     },
     {
       "raw_hot": 279858,
@@ -30675,6 +30707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 267110,
+      "num": 267110,
+      "word": "大侦探蓝色大海的传说剧照",
+      "onboard_time": 1679979632,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 266959,
       "num": 266959,
       "word": "林更新生图状态",
@@ -30737,14 +30777,6 @@
       "onboard_time": 1678686687,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 266209,
-      "num": 266209,
-      "word": "你懒 就没有作品",
-      "onboard_time": 1679977413,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 265931,
@@ -31227,6 +31259,14 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 260788,
+      "num": 260788,
+      "word": "蔡徐坤走路好男模",
+      "onboard_time": 1679978670,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 260718,
       "num": 509714,
       "word": "TTG 上野",
@@ -31513,6 +31553,14 @@
       "onboard_time": 1678803572,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 255853,
+      "num": 255853,
+      "word": "唐嫣回应孙坚我也没洗脸",
+      "onboard_time": 1679979512,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 255785,
@@ -33187,6 +33235,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 237852,
+      "num": 237852,
+      "word": "迪丽热巴工作花絮",
+      "onboard_time": 1679977109,
+      "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 237843,
       "num": 237843,
       "word": "刘耀文没想到会去无限超越班",
@@ -33883,12 +33939,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 230554,
-      "num": 230554,
-      "word": "冷暴力的伤害有多大",
-      "onboard_time": 1679977051,
-      "rank": 32,
-      "category": "情感"
+      "raw_hot": 230664,
+      "num": 230664,
+      "word": "这婚礼算是相当炸裂了",
+      "onboard_time": 1679978732,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 230506,
@@ -36243,14 +36299,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 211185,
-      "num": 211185,
-      "word": "迪丽热巴工作花絮",
-      "onboard_time": 1679977109,
-      "rank": 27,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 211176,
       "num": 211176,
       "word": "行行出状元真不是传说",
@@ -36801,6 +36849,14 @@
       "onboard_time": 1677810086,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 207598,
+      "num": 207598,
+      "word": "未来巴中145分钟飙拢成都",
+      "onboard_time": 1679980171,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 207561,
@@ -41995,6 +42051,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 184527,
+      "num": 184527,
+      "word": "严厉打击网上恶意损害企业和企业家形象声誉",
+      "onboard_time": 1679979871,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184400,
       "num": 184400,
       "word": "程潇白色露腰短上衣造型",
@@ -44521,6 +44585,14 @@
       "onboard_time": 1678946786,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 166263,
+      "num": 166263,
+      "word": "去学生宿舍上厕所的猫咪",
+      "onboard_time": 1679979211,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 166236,
@@ -47971,6 +48043,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 140363,
+      "num": 140363,
+      "word": "和艾莉一起幸存",
+      "onboard_time": 1679979089,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 140352,
       "num": 140352,
       "word": "王鹤棣告别白马帅",
@@ -48393,6 +48473,14 @@
       "onboard_time": 1679715208,
       "rank": 43,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 137760,
+      "num": 137760,
+      "word": "网传浪姐4初舞台歌单",
+      "onboard_time": 1679980408,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 137759,
@@ -49233,6 +49321,14 @@
       "onboard_time": 1678553780,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 132204,
+      "num": 161995,
+      "word": "每天按时出门假装去上班",
+      "onboard_time": 1679977952,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 132148,
@@ -51696,14 +51792,6 @@
       "word": "像极了被领导训话时的你",
       "onboard_time": 1677726447,
       "rank": 44,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 112422,
-      "num": 161995,
-      "word": "每天按时出门假装去上班",
-      "onboard_time": 1679977952,
-      "rank": 49,
       "category": "幽默"
     },
     {
