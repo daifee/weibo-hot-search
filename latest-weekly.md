@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/03/27 00:22:11 ~ 2023/03/29 03:14:18
+本榜单时间：2023/03/27 00:22:11 ~ 2023/03/29 03:33:39
 </p>
 </blockquote>
 <p>
@@ -3605,6 +3605,12 @@ KCL颁奖典礼（热度：67402）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B8%AD%E6%96%B9%E6%84%BF%E7%BB%A7%E7%BB%AD%E6%94%AF%E6%8C%81%E6%B2%99%E4%BC%8A%E5%AF%B9%E8%AF%9D%E5%90%8E%E7%BB%AD%E8%BF%9B%E7%A8%8B%23%23" target="weibo">
 #中方愿继续支持沙伊对话后续进程#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E6%A0%91%E7%AB%8B%E6%AD%A3%E7%A1%AE%E7%9A%84%E7%90%86%E6%83%B3%E4%BF%A1%E5%BF%B5%E5%AD%A6%E4%BC%9A%E6%AD%A3%E7%A1%AE%E7%9A%84%E6%80%9D%E7%BB%B4%E6%96%B9%E6%B3%95%23%23" target="weibo">
+#树立正确的理想信念学会正确的思维方法#
 </a>
 </li>
 
