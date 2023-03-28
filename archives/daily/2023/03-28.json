@@ -1,6 +1,6 @@
 {
   "startTime": 1679934149836,
-  "endTime": 1679974412591,
+  "endTime": 1679977321135,
   "band_list": [
     {
       "raw_hot": 2747528,
@@ -59,6 +59,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 1129146,
+      "num": 442487,
+      "word": "刘亦菲拍照好喜欢叉腰",
+      "onboard_time": 1679975189,
+      "rank": 10,
+      "category": "作品衍生,幽默"
+    },
+    {
       "raw_hot": 942427,
       "num": 942427,
       "word": "iPhone折旧率仅为安卓一半",
@@ -83,6 +91,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 881746,
+      "num": 881746,
+      "word": "70.8%上海人只希望有一个孩子",
+      "onboard_time": 1679971887,
+      "rank": 7,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 823088,
       "num": 823088,
       "word": "四六级",
@@ -105,6 +121,14 @@
       "onboard_time": 1679929053,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 758178,
+      "num": 425509,
+      "word": "张静初被美国电影学院导演系录取",
+      "onboard_time": 1679976329,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 711856,
@@ -137,14 +161,6 @@
       "onboard_time": 1679962949,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 638883,
-      "num": 638883,
-      "word": "70.8%上海人只希望有一个孩子",
-      "onboard_time": 1679971887,
-      "rank": 7,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 608748,
@@ -219,6 +235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 477823,
+      "num": 477823,
+      "word": "网传Ailee将出演浪姐4",
+      "onboard_time": 1679975607,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 477726,
       "num": 477726,
       "word": "台湾清明节后鸭蛋将大缺",
@@ -241,6 +265,30 @@
       "onboard_time": 1679924192,
       "rank": 5,
       "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 461605,
+      "num": 461605,
+      "word": "网友用华为和库克合照",
+      "onboard_time": 1679974229,
+      "rank": 28,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 461080,
+      "num": 461080,
+      "word": "迪士尼真人版小美人鱼确认引进",
+      "onboard_time": 1679972968,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 457965,
+      "num": 457965,
+      "word": "奔跑吧",
+      "onboard_time": 1679974590,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 452219,
@@ -267,11 +315,27 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 407444,
+      "num": 407444,
+      "word": "杨颖宋雨琦奔跑吧路透",
+      "onboard_time": 1679975730,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 405544,
       "num": 405544,
       "word": "深圳暴雨致航班取消旅客跪求起飞",
       "onboard_time": 1679924071,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 398747,
+      "num": 398747,
+      "word": "杭州地铁回应被调侃成打工人专线",
+      "onboard_time": 1679973928,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -315,20 +379,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 375943,
+      "num": 375943,
+      "word": "太阳将4月25日回归",
+      "onboard_time": 1679975909,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 371179,
       "num": 371179,
       "word": "樊振东连续三年世界排名第一",
       "onboard_time": 1679968768,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 352138,
-      "num": 352138,
-      "word": "迪士尼真人版小美人鱼确认引进",
-      "onboard_time": 1679972968,
-      "rank": 24,
-      "category": "影视"
     },
     {
       "raw_hot": 349122,
@@ -377,6 +441,14 @@
       "onboard_time": 1679965230,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 302078,
+      "num": 258611,
+      "word": "笑点低的人连结婚都在笑场",
+      "onboard_time": 1679972066,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 299629,
@@ -467,6 +539,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 261538,
+      "num": 261538,
+      "word": "4岁男童患罕见病体重仅有8.8斤",
+      "onboard_time": 1679972907,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 258417,
       "num": 258417,
       "word": "大侦探",
@@ -481,6 +561,22 @@
       "onboard_time": 1679966307,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 255718,
+      "num": 255718,
+      "word": "突然想换个大学专业",
+      "onboard_time": 1679974768,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 246808,
+      "num": 246808,
+      "word": "没想到栏杆是用来防明星的",
+      "onboard_time": 1679971226,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 246239,
@@ -507,20 +603,20 @@
       "category": "科技"
     },
     {
+      "raw_hot": 225333,
+      "num": 225333,
+      "word": "爱情而已",
+      "onboard_time": 1679976571,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 224284,
       "num": 224284,
       "word": "去有风的地方将上线网飞",
       "onboard_time": 1679967567,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 222064,
-      "num": 222064,
-      "word": "4岁男童患罕见病体重仅有8.8斤",
-      "onboard_time": 1679972907,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 220394,
@@ -539,6 +635,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 211185,
+      "num": 211185,
+      "word": "迪丽热巴工作花絮",
+      "onboard_time": 1679977109,
+      "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 211176,
       "num": 211176,
       "word": "行行出状元真不是传说",
@@ -555,14 +659,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 208925,
-      "num": 208925,
-      "word": "没想到栏杆是用来防明星的",
-      "onboard_time": 1679971226,
-      "rank": 26,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 207168,
       "num": 207168,
       "word": "建议适时修订职工带薪年休假条例",
@@ -577,14 +673,6 @@
       "onboard_time": 1679919690,
       "rank": 23,
       "category": "艺人,综艺"
-    },
-    {
-      "raw_hot": 200836,
-      "num": 200836,
-      "word": "网友用华为和库克合照",
-      "onboard_time": 1679974229,
-      "rank": 28,
-      "category": "科技"
     },
     {
       "raw_hot": 196822,
@@ -611,12 +699,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 192008,
+      "num": 192008,
+      "word": "冷暴力的伤害有多大",
+      "onboard_time": 1679977051,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 190740,
       "num": 190740,
       "word": "乘风破浪4",
       "onboard_time": 1679915313,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189163,
+      "num": 189163,
+      "word": "柯哀",
+      "onboard_time": 1679977229,
+      "rank": 33,
+      "category": "动漫"
     },
     {
       "raw_hot": 188415,
@@ -633,6 +737,14 @@
       "onboard_time": 1679973928,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181584,
+      "num": 181584,
+      "word": "内娱live现场天花板",
+      "onboard_time": 1679975909,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 181202,
@@ -689,6 +801,14 @@
       "onboard_time": 1679966666,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 161546,
+      "num": 161546,
+      "word": "郑永刚家族争产背后财富版图",
+      "onboard_time": 1679975730,
+      "rank": 37,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 160540,
@@ -755,6 +875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 150402,
+      "num": 150402,
+      "word": "山河之影今日开播",
+      "onboard_time": 1679973508,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 145287,
       "num": 145287,
       "word": "裸辞之后会变得更好吗",
@@ -763,28 +891,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 145207,
-      "num": 145207,
-      "word": "笑点低的人连结婚都在笑场",
-      "onboard_time": 1679972066,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 140545,
       "num": 140545,
       "word": "最伟大的作品2022IFPI全球实销专辑榜冠军",
       "onboard_time": 1679960303,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 139161,
-      "num": 139161,
-      "word": "山河之影今日开播",
-      "onboard_time": 1679973508,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 138107,
@@ -809,14 +921,6 @@
       "onboard_time": 1679929232,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 131878,
-      "num": 131878,
-      "word": "杭州地铁回应被调侃成打工人专线",
-      "onboard_time": 1679973928,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 129038,
@@ -977,6 +1081,14 @@
       "onboard_time": 1679954773,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 50135,
+      "num": 125297,
+      "word": "车型销量能够说明什么",
+      "onboard_time": 1679974949,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 22491,
