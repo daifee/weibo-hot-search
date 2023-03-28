@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1680003203428,
+  "endTime": 1680007018140,
   "band_list": [
     {
       "raw_hot": 27113842,
@@ -4137,6 +4137,14 @@
       "onboard_time": 1678282647,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1322639,
+      "num": 1322639,
+      "word": "被穷养长大的孩子是怎样的",
+      "onboard_time": 1680001468,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 1322109,
@@ -10243,6 +10251,14 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 768799,
+      "num": 768799,
+      "word": "和黄晓明玩滑板的是路人",
+      "onboard_time": 1680002548,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 768414,
       "num": 205693,
       "word": "台军因蛋荒将改喝豆奶",
@@ -10361,6 +10377,14 @@
       "onboard_time": 1678866388,
       "rank": 7,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 761650,
+      "num": 761650,
+      "word": "红米",
+      "onboard_time": 1680005307,
+      "rank": 4,
+      "category": "科技"
     },
     {
       "raw_hot": 761281,
@@ -10905,6 +10929,14 @@
       "onboard_time": 1678807110,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 733832,
+      "num": 733832,
+      "word": "西班牙 占房",
+      "onboard_time": 1680001050,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 733688,
@@ -11620,7 +11652,7 @@
     },
     {
       "raw_hot": 699191,
-      "num": 339537,
+      "num": 349873,
       "word": "肖战坐姿仪态",
       "onboard_time": 1680000871,
       "rank": 13,
@@ -19763,14 +19795,6 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 454634,
-      "num": 312497,
-      "word": "西班牙 占房",
-      "onboard_time": 1680001050,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 454613,
       "num": 412256,
       "word": "吴宣仪也在热搜上看美女",
@@ -20427,6 +20451,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 438959,
+      "num": 438959,
+      "word": "跑男成都",
+      "onboard_time": 1680003148,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 438824,
       "num": 402428,
       "word": "舒淇摇曳生姿的白玫瑰",
@@ -20875,6 +20907,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 429146,
+      "num": 282935,
+      "word": "这衣服很贵你确定要试吗",
+      "onboard_time": 1679999668,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 429083,
       "num": 429083,
       "word": "OPPO",
@@ -20961,14 +21001,6 @@
       "onboard_time": 1678758083,
       "rank": 33,
       "category": "财经"
-    },
-    {
-      "raw_hot": 427703,
-      "num": 282935,
-      "word": "这衣服很贵你确定要试吗",
-      "onboard_time": 1679999668,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 427602,
@@ -21777,14 +21809,6 @@
       "onboard_time": 1678844665,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 409082,
-      "num": 409082,
-      "word": "被穷养长大的孩子是怎样的",
-      "onboard_time": 1680001468,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 409065,
@@ -34147,6 +34171,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 232689,
+      "num": 232689,
+      "word": "李雪琴送徐志胜色盲眼镜",
+      "onboard_time": 1680006027,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 232626,
       "num": 232626,
       "word": "毒舌律师最后一个镜头后劲好大",
@@ -34449,6 +34481,14 @@
       "onboard_time": 1679826027,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 229891,
+      "num": 229891,
+      "word": "白敬亭拼接毛衣造型",
+      "onboard_time": 1680006027,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 229851,
@@ -36587,6 +36627,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 212811,
+      "num": 212811,
+      "word": "肠胃瞬间通畅了",
+      "onboard_time": 1680005728,
+      "rank": 23,
+      "category": "其它"
+    },
+    {
       "raw_hot": 212759,
       "num": 212759,
       "word": "特朗普谈2024年大选",
@@ -38681,6 +38729,14 @@
       "onboard_time": 1677626061,
       "rank": 21,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 202001,
+      "num": 202001,
+      "word": "山河之影",
+      "onboard_time": 1680006747,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 201946,
@@ -42707,6 +42763,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 183819,
+      "num": 183819,
+      "word": "孟子义白玫瑰造型路透",
+      "onboard_time": 1680003388,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183784,
       "num": 183784,
       "word": "刷到这条的会计人有福了",
@@ -43153,14 +43217,6 @@
       "onboard_time": 1678082966,
       "rank": 28,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 179850,
-      "num": 179850,
-      "word": "和黄晓明玩滑板的是路人",
-      "onboard_time": 1680002548,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 179826,
@@ -48371,6 +48427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142876,
+      "num": 142876,
+      "word": "藏药令",
+      "onboard_time": 1680003506,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 142855,
       "num": 142855,
       "word": "铃芽之旅终极预告",
@@ -51075,6 +51139,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 124779,
+      "num": 124779,
+      "word": "这是腰腹赘肉杀手吧",
+      "onboard_time": 1680006446,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124774,
       "num": 124774,
       "word": "男子求职被要求在杭州本地买房",
@@ -52883,14 +52955,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 109345,
-      "num": 109345,
-      "word": "跑男成都",
-      "onboard_time": 1680003148,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 109290,
       "num": 109290,
       "word": "网信办处置8511个涉网暴问题账号",
@@ -53915,6 +53979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 101084,
+      "num": 105020,
+      "word": "五星伴月",
+      "onboard_time": 1680006686,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 100998,
       "num": 100998,
       "word": "这一次爱神再嘲笑死神的无能",
@@ -54843,6 +54915,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 89118,
+      "num": 104014,
+      "word": "早期古装剧神仙选角",
+      "onboard_time": 1680006328,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 89107,
       "num": 176326,
       "word": "无法超越的司机对话名场面",
@@ -55649,6 +55729,14 @@
       "onboard_time": 1679458169,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 75157,
+      "num": 294009,
+      "word": "Note12 Turbo性能狂飙",
+      "onboard_time": 1680004827,
+      "rank": 14,
+      "category": "科技"
     },
     {
       "raw_hot": 75025,
