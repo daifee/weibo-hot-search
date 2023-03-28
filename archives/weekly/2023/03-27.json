@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1679977321135,
+  "endTime": 1679978180522,
   "band_list": [
     {
       "raw_hot": 4718675,
@@ -171,6 +171,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1519246,
+      "num": 1519246,
+      "word": "苏醒加盟跑男",
+      "onboard_time": 1679977529,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1454591,
       "num": 493211,
       "word": "林永健儿子12岁近照",
@@ -323,6 +331,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1018340,
+      "num": 425509,
+      "word": "张静初被美国电影学院导演系录取",
+      "onboard_time": 1679976329,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1018035,
       "num": 1018035,
       "word": "好丽友漏税22万被罚12万",
@@ -473,14 +489,6 @@
       "onboard_time": 1679910150,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 758178,
-      "num": 425509,
-      "word": "张静初被美国电影学院导演系录取",
-      "onboard_time": 1679976329,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 758059,
@@ -739,6 +747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 557953,
+      "num": 557953,
+      "word": "网友用华为和库克合照",
+      "onboard_time": 1679974229,
+      "rank": 28,
+      "category": "科技"
+    },
+    {
       "raw_hot": 557856,
       "num": 557856,
       "word": "黑暗荣耀编剧谈第三季",
@@ -868,7 +884,7 @@
     },
     {
       "raw_hot": 476097,
-      "num": 273885,
+      "num": 306835,
       "word": "新裤子",
       "onboard_time": 1679972238,
       "rank": 20,
@@ -897,14 +913,6 @@
       "onboard_time": 1679882668,
       "rank": 11,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 461605,
-      "num": 461605,
-      "word": "网友用华为和库克合照",
-      "onboard_time": 1679974229,
-      "rank": 28,
-      "category": "科技"
     },
     {
       "raw_hot": 461080,
@@ -979,6 +987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 432204,
+      "num": 432204,
+      "word": "杨颖宋雨琦奔跑吧路透",
+      "onboard_time": 1679975730,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 430941,
       "num": 430941,
       "word": "警方通报男子酒后殴打强奸前女友",
@@ -995,6 +1011,14 @@
       "category": "国外要闻,军事"
     },
     {
+      "raw_hot": 421067,
+      "num": 421067,
+      "word": "杭州地铁回应被调侃成打工人专线",
+      "onboard_time": 1679973928,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 414925,
       "num": 414925,
       "word": "林高远",
@@ -1009,14 +1033,6 @@
       "onboard_time": 1679923531,
       "rank": 17,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 407444,
-      "num": 407444,
-      "word": "杨颖宋雨琦奔跑吧路透",
-      "onboard_time": 1679975730,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 405398,
@@ -1057,14 +1073,6 @@
       "onboard_time": 1679902411,
       "rank": 19,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 398747,
-      "num": 398747,
-      "word": "杭州地铁回应被调侃成打工人专线",
-      "onboard_time": 1679973928,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 398039,
@@ -1137,6 +1145,14 @@
       "onboard_time": 1679975909,
       "rank": 14,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 375550,
+      "num": 375550,
+      "word": "柯哀",
+      "onboard_time": 1679977229,
+      "rank": 33,
+      "category": "动漫"
     },
     {
       "raw_hot": 374581,
@@ -1323,6 +1339,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 306721,
+      "num": 306721,
+      "word": "笑点低的人连结婚都在笑场",
+      "onboard_time": 1679972066,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 305326,
       "num": 262054,
       "word": "阿里概念股大涨",
@@ -1355,20 +1379,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 302078,
-      "num": 258611,
-      "word": "笑点低的人连结婚都在笑场",
-      "onboard_time": 1679972066,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 299629,
       "num": 299629,
       "word": "徐汇中学通报网传事件",
       "onboard_time": 1679958681,
       "rank": 23,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 297768,
+      "num": 307363,
+      "word": "4岁男童患罕见病体重仅有8.8斤",
+      "onboard_time": 1679972907,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 295125,
@@ -1451,6 +1475,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 279860,
+      "num": 276548,
+      "word": "没想到栏杆是用来防明星的",
+      "onboard_time": 1679971226,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 279577,
       "num": 279577,
       "word": "曾可妮浪姐出发路透",
@@ -1481,6 +1513,14 @@
       "onboard_time": 1679960785,
       "rank": 20,
       "category": "科技"
+    },
+    {
+      "raw_hot": 278193,
+      "num": 278193,
+      "word": "突然想换个大学专业",
+      "onboard_time": 1679974768,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 271732,
@@ -1531,20 +1571,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 266209,
+      "num": 266209,
+      "word": "你懒 就没有作品",
+      "onboard_time": 1679977413,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 265641,
       "num": 265641,
       "word": "村BA奖品太接地气了",
       "onboard_time": 1679877987,
       "rank": 15,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 261538,
-      "num": 261538,
-      "word": "4岁男童患罕见病体重仅有8.8斤",
-      "onboard_time": 1679972907,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 258417,
@@ -1585,14 +1625,6 @@
       "onboard_time": 1679966307,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 255718,
-      "num": 255718,
-      "word": "突然想换个大学专业",
-      "onboard_time": 1679974768,
-      "rank": 22,
-      "category": "幽默"
     },
     {
       "raw_hot": 255036,
@@ -1651,12 +1683,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 246808,
-      "num": 246808,
-      "word": "没想到栏杆是用来防明星的",
-      "onboard_time": 1679971226,
-      "rank": 26,
-      "category": "音乐"
+      "raw_hot": 246398,
+      "num": 246398,
+      "word": "爱情而已",
+      "onboard_time": 1679976571,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 246239,
@@ -1715,6 +1747,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 230554,
+      "num": 230554,
+      "word": "冷暴力的伤害有多大",
+      "onboard_time": 1679977051,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 230206,
       "num": 230206,
       "word": "二十届中央第一轮巡视对象公布",
@@ -1761,14 +1801,6 @@
       "onboard_time": 1679909789,
       "rank": 27,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 225333,
-      "num": 225333,
-      "word": "爱情而已",
-      "onboard_time": 1679976571,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 224284,
@@ -1963,6 +1995,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 201030,
+      "num": 201030,
+      "word": "内娱live现场天花板",
+      "onboard_time": 1679975909,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 200227,
       "num": 200227,
       "word": "张婧仪谈理想型",
@@ -2075,14 +2115,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 192008,
-      "num": 192008,
-      "word": "冷暴力的伤害有多大",
-      "onboard_time": 1679977051,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 191615,
       "num": 191615,
       "word": "王鹤棣直播",
@@ -2129,14 +2161,6 @@
       "onboard_time": 1679897492,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 189163,
-      "num": 189163,
-      "word": "柯哀",
-      "onboard_time": 1679977229,
-      "rank": 33,
-      "category": "动漫"
     },
     {
       "raw_hot": 188415,
@@ -2211,14 +2235,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 181584,
-      "num": 181584,
-      "word": "内娱live现场天花板",
-      "onboard_time": 1679975909,
-      "rank": 35,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 181554,
       "num": 181554,
       "word": "爱情而已符合你的预期吗",
@@ -2273,6 +2289,14 @@
       "onboard_time": 1679880026,
       "rank": 39,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 177190,
+      "num": 196494,
+      "word": "郑永刚家族争产背后财富版图",
+      "onboard_time": 1679975730,
+      "rank": 37,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 177053,
@@ -2379,14 +2403,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 161546,
-      "num": 161546,
-      "word": "郑永刚家族争产背后财富版图",
-      "onboard_time": 1679975730,
-      "rank": 37,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 161537,
       "num": 161537,
       "word": "学生合唱一开口就是青春的模样",
@@ -2460,7 +2476,7 @@
     },
     {
       "raw_hot": 150402,
-      "num": 150402,
+      "num": 183900,
       "word": "山河之影今日开播",
       "onboard_time": 1679973508,
       "rank": 47,
@@ -2777,6 +2793,14 @@
       "onboard_time": 1679916210,
       "rank": 47,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 112422,
+      "num": 161995,
+      "word": "每天按时出门假装去上班",
+      "onboard_time": 1679977952,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 112371,

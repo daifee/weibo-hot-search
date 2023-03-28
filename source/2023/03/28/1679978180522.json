@@ -1,0 +1,410 @@
+{
+  "runTime": 1679978180522,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2664122,
+        "num": 2664122,
+        "word": "免费坐高铁",
+        "onboard_time": 1679966129,
+        "rank": 0,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 1804332,
+        "num": 1804332,
+        "word": "瑞幸被吐槽咖啡3口喝完剩下全是冰",
+        "onboard_time": 1679970146,
+        "rank": 1,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 174749,
+        "num": 1525771,
+        "word": "国家网信办介绍2023年清朗行动有关情况",
+        "onboard_time": 1679971288,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1519246,
+        "num": 1519246,
+        "word": "苏醒加盟跑男",
+        "onboard_time": 1679977529,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 803913,
+        "num": 803913,
+        "word": "长月烬明",
+        "onboard_time": 1679972607,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 738783,
+        "num": 738783,
+        "word": "70.8%上海人只希望有一个孩子",
+        "onboard_time": 1679971887,
+        "rank": 5,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 559895,
+        "num": 559895,
+        "word": "iPhone折旧率仅为安卓一半",
+        "onboard_time": 1679968046,
+        "rank": 6,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 557953,
+        "num": 557953,
+        "word": "网友用华为和库克合照",
+        "onboard_time": 1679974229,
+        "rank": 7,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 432204,
+        "num": 432204,
+        "word": "杨颖宋雨琦奔跑吧路透",
+        "onboard_time": 1679975730,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 423322,
+        "num": 423322,
+        "word": "迪士尼真人版小美人鱼确认引进",
+        "onboard_time": 1679972968,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1018340,
+        "num": 422851,
+        "word": "张静初被美国电影学院导演系录取",
+        "onboard_time": 1679976329,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 985096,
+        "num": 422477,
+        "word": "刘亦菲拍照好喜欢叉腰",
+        "onboard_time": 1679975189,
+        "rank": 11,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 421067,
+        "num": 421067,
+        "word": "杭州地铁回应被调侃成打工人专线",
+        "onboard_time": 1679973928,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376554,
+        "num": 376554,
+        "word": "BLACKPINK或将出席白宫晚宴",
+        "onboard_time": 1679970086,
+        "rank": 13,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 375550,
+        "num": 375550,
+        "word": "柯哀",
+        "onboard_time": 1679977229,
+        "rank": 14,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 368476,
+        "num": 368476,
+        "word": "网传Ailee将出演浪姐4",
+        "onboard_time": 1679975607,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 340388,
+        "num": 340388,
+        "word": "太阳将4月25日回归",
+        "onboard_time": 1679975909,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 334497,
+        "num": 334497,
+        "word": "奔跑吧",
+        "onboard_time": 1679974590,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 311269,
+        "num": 311269,
+        "word": "杨紫长相思落泪22次",
+        "onboard_time": 1679971467,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 297768,
+        "num": 307363,
+        "word": "4岁男童患罕见病体重仅有8.8斤",
+        "onboard_time": 1679972907,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306835,
+        "num": 306835,
+        "word": "新裤子",
+        "onboard_time": 1679972238,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 306721,
+        "num": 306721,
+        "word": "笑点低的人连结婚都在笑场",
+        "onboard_time": 1679972066,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 287609,
+        "num": 287609,
+        "word": "知名浙商去世儿子继母百亿夺权大战",
+        "onboard_time": 1679923350,
+        "rank": 22,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 280188,
+        "num": 280188,
+        "word": "黄磊孙莉回应多多争议",
+        "onboard_time": 1679912791,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278193,
+        "num": 278193,
+        "word": "突然想换个大学专业",
+        "onboard_time": 1679974768,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 279860,
+        "num": 276548,
+        "word": "没想到栏杆是用来防明星的",
+        "onboard_time": 1679971226,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 266209,
+        "num": 266209,
+        "word": "你懒 就没有作品",
+        "onboard_time": 1679977413,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 257510,
+        "num": 257510,
+        "word": "中国专家查看丫丫情况",
+        "onboard_time": 1679964992,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246398,
+        "num": 246398,
+        "word": "爱情而已",
+        "onboard_time": 1679976571,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 201698,
+        "num": 236348,
+        "word": "美国一小学发生枪击事件致7人死亡",
+        "onboard_time": 1679962949,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230554,
+        "num": 230554,
+        "word": "冷暴力的伤害有多大",
+        "onboard_time": 1679977051,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 208019,
+        "num": 208019,
+        "word": "四六级",
+        "onboard_time": 1679967087,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 205724,
+        "num": 205724,
+        "word": "情感漠视 冷暴力",
+        "onboard_time": 1679966307,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 201212,
+        "num": 201212,
+        "word": "迪丽热巴工作花絮",
+        "onboard_time": 1679977109,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 201030,
+        "num": 201030,
+        "word": "内娱live现场天花板",
+        "onboard_time": 1679975909,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 184881,
+        "num": 201019,
+        "word": "谷爱凌被熊猫花花可爱到",
+        "onboard_time": 1679959943,
+        "rank": 35,
+        "category": "作品衍生,体育"
+      },
+      {
+        "raw_hot": 177190,
+        "num": 196494,
+        "word": "郑永刚家族争产背后财富版图",
+        "onboard_time": 1679975730,
+        "rank": 36,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 176298,
+        "num": 193322,
+        "word": "千万不要用这个姿势睡觉",
+        "onboard_time": 1679932529,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 153862,
+        "num": 191289,
+        "word": "EXO见面会完整体海报",
+        "onboard_time": 1679972127,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 153351,
+        "num": 189461,
+        "word": "iPhone15将在更多国家销售eSIM版",
+        "onboard_time": 1679964089,
+        "rank": 39,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 149460,
+        "num": 187395,
+        "word": "樊振东连续三年世界排名第一",
+        "onboard_time": 1679968768,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142459,
+        "num": 183900,
+        "word": "山河之影今日开播",
+        "onboard_time": 1679973508,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 135936,
+        "num": 179688,
+        "word": "中学浴室偷拍事件知情学生发声",
+        "onboard_time": 1679930553,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135288,
+        "num": 176888,
+        "word": "上海每5人中有两个念过大学",
+        "onboard_time": 1679962048,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133478,
+        "num": 175922,
+        "word": "大侦探",
+        "onboard_time": 1679973149,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129591,
+        "num": 171653,
+        "word": "李栋旭九尾狐传1938海报",
+        "onboard_time": 1679969728,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 128077,
+        "num": 169173,
+        "word": "小心二次元",
+        "onboard_time": 1679966848,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 125430,
+        "num": 168512,
+        "word": "吴磊水下戏拍到流鼻血",
+        "onboard_time": 1679970627,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 116620,
+        "num": 163752,
+        "word": "龚俊严浩翔聊天",
+        "onboard_time": 1679969487,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112422,
+        "num": 161995,
+        "word": "每天按时出门假装去上班",
+        "onboard_time": 1679977952,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#看中国经济活力与机遇#"
+    }
+  }
+}

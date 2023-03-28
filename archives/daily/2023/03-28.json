@@ -1,6 +1,6 @@
 {
   "startTime": 1679934149836,
-  "endTime": 1679977321135,
+  "endTime": 1679978180522,
   "band_list": [
     {
       "raw_hot": 2747528,
@@ -25,6 +25,14 @@
       "onboard_time": 1679972429,
       "rank": 3,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 1519246,
+      "num": 1519246,
+      "word": "苏醒加盟跑男",
+      "onboard_time": 1679977529,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1281772,
@@ -65,6 +73,14 @@
       "onboard_time": 1679975189,
       "rank": 10,
       "category": "作品衍生,幽默"
+    },
+    {
+      "raw_hot": 1018340,
+      "num": 425509,
+      "word": "张静初被美国电影学院导演系录取",
+      "onboard_time": 1679976329,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 942427,
@@ -121,14 +137,6 @@
       "onboard_time": 1679929053,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 758178,
-      "num": 425509,
-      "word": "张静初被美国电影学院导演系录取",
-      "onboard_time": 1679976329,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 711856,
@@ -203,6 +211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 557953,
+      "num": 557953,
+      "word": "网友用华为和库克合照",
+      "onboard_time": 1679974229,
+      "rank": 28,
+      "category": "科技"
+    },
+    {
       "raw_hot": 557508,
       "num": 557508,
       "word": "微博之夜关晓彤生图",
@@ -252,7 +268,7 @@
     },
     {
       "raw_hot": 476097,
-      "num": 273885,
+      "num": 306835,
       "word": "新裤子",
       "onboard_time": 1679972238,
       "rank": 20,
@@ -265,14 +281,6 @@
       "onboard_time": 1679924192,
       "rank": 5,
       "category": "影视,幽默"
-    },
-    {
-      "raw_hot": 461605,
-      "num": 461605,
-      "word": "网友用华为和库克合照",
-      "onboard_time": 1679974229,
-      "rank": 28,
-      "category": "科技"
     },
     {
       "raw_hot": 461080,
@@ -315,12 +323,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 407444,
-      "num": 407444,
+      "raw_hot": 432204,
+      "num": 432204,
       "word": "杨颖宋雨琦奔跑吧路透",
       "onboard_time": 1679975730,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 421067,
+      "num": 421067,
+      "word": "杭州地铁回应被调侃成打工人专线",
+      "onboard_time": 1679973928,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 405544,
@@ -328,14 +344,6 @@
       "word": "深圳暴雨致航班取消旅客跪求起飞",
       "onboard_time": 1679924071,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 398747,
-      "num": 398747,
-      "word": "杭州地铁回应被调侃成打工人专线",
-      "onboard_time": 1679973928,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -387,6 +395,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 375550,
+      "num": 375550,
+      "word": "柯哀",
+      "onboard_time": 1679977229,
+      "rank": 33,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 371179,
       "num": 371179,
       "word": "樊振东连续三年世界排名第一",
@@ -419,6 +435,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 306721,
+      "num": 306721,
+      "word": "笑点低的人连结婚都在笑场",
+      "onboard_time": 1679972066,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 305522,
       "num": 305522,
       "word": "孩子给离世父亲发短信被回复",
@@ -443,20 +467,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 302078,
-      "num": 258611,
-      "word": "笑点低的人连结婚都在笑场",
-      "onboard_time": 1679972066,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 299629,
       "num": 299629,
       "word": "徐汇中学通报网传事件",
       "onboard_time": 1679958681,
       "rank": 23,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 297768,
+      "num": 307363,
+      "word": "4岁男童患罕见病体重仅有8.8斤",
+      "onboard_time": 1679972907,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 294194,
@@ -483,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 279860,
+      "num": 276548,
+      "word": "没想到栏杆是用来防明星的",
+      "onboard_time": 1679971226,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 279259,
       "num": 279259,
       "word": "白敬亭持股公司经营异常",
@@ -505,6 +537,14 @@
       "onboard_time": 1679960785,
       "rank": 20,
       "category": "科技"
+    },
+    {
+      "raw_hot": 278193,
+      "num": 278193,
+      "word": "突然想换个大学专业",
+      "onboard_time": 1679974768,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 275446,
@@ -539,12 +579,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 261538,
-      "num": 261538,
-      "word": "4岁男童患罕见病体重仅有8.8斤",
-      "onboard_time": 1679972907,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 266209,
+      "num": 266209,
+      "word": "你懒 就没有作品",
+      "onboard_time": 1679977413,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 258417,
@@ -563,20 +603,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 255718,
-      "num": 255718,
-      "word": "突然想换个大学专业",
-      "onboard_time": 1679974768,
-      "rank": 22,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 246808,
-      "num": 246808,
-      "word": "没想到栏杆是用来防明星的",
-      "onboard_time": 1679971226,
-      "rank": 26,
-      "category": "音乐"
+      "raw_hot": 246398,
+      "num": 246398,
+      "word": "爱情而已",
+      "onboard_time": 1679976571,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 246239,
@@ -595,20 +627,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 230554,
+      "num": 230554,
+      "word": "冷暴力的伤害有多大",
+      "onboard_time": 1679977051,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 229327,
       "num": 229327,
       "word": "库克",
       "onboard_time": 1679965350,
       "rank": 26,
       "category": "科技"
-    },
-    {
-      "raw_hot": 225333,
-      "num": 225333,
-      "word": "爱情而已",
-      "onboard_time": 1679976571,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 224284,
@@ -675,6 +707,14 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 201030,
+      "num": 201030,
+      "word": "内娱live现场天花板",
+      "onboard_time": 1679975909,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 196822,
       "num": 155818,
       "word": "张艺兴出发怼脸自拍照",
@@ -699,28 +739,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 192008,
-      "num": 192008,
-      "word": "冷暴力的伤害有多大",
-      "onboard_time": 1679977051,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 190740,
       "num": 190740,
       "word": "乘风破浪4",
       "onboard_time": 1679915313,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 189163,
-      "num": 189163,
-      "word": "柯哀",
-      "onboard_time": 1679977229,
-      "rank": 33,
-      "category": "动漫"
     },
     {
       "raw_hot": 188415,
@@ -739,20 +763,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 181584,
-      "num": 181584,
-      "word": "内娱live现场天花板",
-      "onboard_time": 1679975909,
-      "rank": 35,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 181202,
       "num": 181202,
       "word": "黑暗荣耀编剧谈第三季",
       "onboard_time": 1679921670,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 177190,
+      "num": 196494,
+      "word": "郑永刚家族争产背后财富版图",
+      "onboard_time": 1679975730,
+      "rank": 37,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 175702,
@@ -801,14 +825,6 @@
       "onboard_time": 1679966666,
       "rank": 36,
       "category": "财经"
-    },
-    {
-      "raw_hot": 161546,
-      "num": 161546,
-      "word": "郑永刚家族争产背后财富版图",
-      "onboard_time": 1679975730,
-      "rank": 37,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 160540,
@@ -876,7 +892,7 @@
     },
     {
       "raw_hot": 150402,
-      "num": 150402,
+      "num": 183900,
       "word": "山河之影今日开播",
       "onboard_time": 1679973508,
       "rank": 47,
@@ -961,6 +977,14 @@
       "onboard_time": 1679930252,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 112422,
+      "num": 161995,
+      "word": "每天按时出门假装去上班",
+      "onboard_time": 1679977952,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 111476,
