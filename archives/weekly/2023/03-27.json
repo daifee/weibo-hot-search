@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1680102475214,
+  "endTime": 1680110195849,
   "band_list": [
     {
       "raw_hot": 12970403,
@@ -1251,6 +1251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 661459,
+      "num": 661459,
+      "word": "成都火灾",
+      "onboard_time": 1680106403,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 654578,
       "num": 485951,
       "word": "张一山最近营业照",
@@ -1721,6 +1729,14 @@
       "onboard_time": 1679986886,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 522780,
+      "num": 522780,
+      "word": "张大大问关晓彤到底听到了什么",
+      "onboard_time": 1680102749,
+      "rank": 3,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 515167,
@@ -2648,6 +2664,14 @@
       "word": "男子刚进厨房下一秒高压锅爆炸",
       "onboard_time": 1680062608,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 349707,
+      "num": 349707,
+      "word": "央广网评万亩治沙林被煤矿断水",
+      "onboard_time": 1680103048,
+      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -3795,6 +3819,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 234838,
+      "num": 234838,
+      "word": "秋瓷炫初舞台或将唱无法原谅",
+      "onboard_time": 1680102510,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 230897,
       "num": 230897,
       "word": "于正说张静初的分享很正能量",
@@ -4065,6 +4097,14 @@
       "onboard_time": 1679964449,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 216003,
+      "num": 216003,
+      "word": "坦克500试驾翻车",
+      "onboard_time": 1680103826,
+      "rank": 8,
+      "category": "科技"
     },
     {
       "raw_hot": 214913,
@@ -5387,6 +5427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 155193,
+      "num": 155193,
+      "word": "WBG教练",
+      "onboard_time": 1680106344,
+      "rank": 12,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 154291,
       "num": 154291,
       "word": "狗狗的想法",
@@ -5755,6 +5803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 134950,
+      "num": 134950,
+      "word": "周深到底听到了什么啊",
+      "onboard_time": 1680109877,
+      "rank": 14,
+      "category": "作品衍生,幽默"
+    },
+    {
       "raw_hot": 134788,
       "num": 134788,
       "word": "月亮图标",
@@ -5913,6 +5969,22 @@
       "onboard_time": 1679836827,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 126544,
+      "num": 126544,
+      "word": "光与夜之恋",
+      "onboard_time": 1680104545,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 126338,
+      "num": 126338,
+      "word": "吴磊周雨彤吻戏费牙",
+      "onboard_time": 1680103587,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 125261,
@@ -6155,6 +6227,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 113446,
+      "num": 113446,
+      "word": "孟贺回应麻六记欠款事项",
+      "onboard_time": 1680103528,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112371,
       "num": 112371,
       "word": "无畏直播",
@@ -6259,6 +6339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 108210,
+      "num": 108210,
+      "word": "gidle鸟叔合作舞台",
+      "onboard_time": 1680104247,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 107615,
       "num": 88776,
       "word": "易烊千玺我可要坐直啦",
@@ -6329,6 +6417,14 @@
       "onboard_time": 1679996307,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 103593,
+      "num": 103593,
+      "word": "一个吵架一定赢的技巧",
+      "onboard_time": 1680105624,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 103363,
@@ -6539,6 +6635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88339,
+      "num": 88339,
+      "word": "王嘉尔被何展成亲脸颊",
+      "onboard_time": 1680106882,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 87706,
       "num": 348615,
       "word": "哪些幸福是有车以后才懂",
@@ -6739,6 +6843,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 63585,
+      "num": 63585,
+      "word": "研究表明母语塑造了大脑通路",
+      "onboard_time": 1680103948,
+      "rank": 35,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 63147,
       "num": 126072,
       "word": "F1冠军开什么车",
@@ -6817,6 +6929,14 @@
       "onboard_time": 1680033912,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 41913,
+      "num": 41913,
+      "word": "蔡徐坤吃披萨随拍",
+      "onboard_time": 1680102690,
+      "rank": 48,
+      "category": "艺人,美食"
     },
     {
       "raw_hot": 39572,
