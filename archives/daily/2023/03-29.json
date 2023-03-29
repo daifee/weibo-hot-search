@@ -1,6 +1,6 @@
 {
   "startTime": 1680022234432,
-  "endTime": 1680060820133,
+  "endTime": 1680063739136,
   "band_list": [
     {
       "raw_hot": 2998077,
@@ -17,6 +17,14 @@
       "onboard_time": 1680046523,
       "rank": 0,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1977032,
+      "num": 1105639,
+      "word": "胡一天新签约罗晋经纪人",
+      "onboard_time": 1680061947,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1890826,
@@ -73,6 +81,30 @@
       "onboard_time": 1680054925,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1211650,
+      "num": 1211650,
+      "word": "神华集团",
+      "onboard_time": 1680060985,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1201807,
+      "num": 466276,
+      "word": "迪丽热巴异域公主风视频",
+      "onboard_time": 1680061048,
+      "rank": 11,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1102066,
+      "num": 1102066,
+      "word": "霍建华或将参演玫瑰的故事",
+      "onboard_time": 1680060446,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 823509,
@@ -139,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 631201,
+      "num": 631201,
+      "word": "天气预报员王俊凯",
+      "onboard_time": 1680062248,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 627647,
       "num": 341716,
       "word": "28岁女子当七年全职女友惹争议",
@@ -161,6 +201,14 @@
       "onboard_time": 1680055465,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 595326,
+      "num": 595326,
+      "word": "微信问一问",
+      "onboard_time": 1680061887,
+      "rank": 8,
+      "category": "科技"
     },
     {
       "raw_hot": 581935,
@@ -193,6 +241,14 @@
       "onboard_time": 1680053487,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 467724,
+      "num": 467724,
+      "word": "一个演员拼到最后拼的是文化",
+      "onboard_time": 1680061048,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 448642,
@@ -291,14 +347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 349735,
-      "num": 349735,
-      "word": "霍建华或将参演玫瑰的故事",
-      "onboard_time": 1680060446,
-      "rank": 18,
-      "category": "影视"
-    },
-    {
       "raw_hot": 346918,
       "num": 346918,
       "word": "张杰说喜欢和陈粒对唱的哭砂",
@@ -371,6 +419,14 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 271990,
+      "num": 271990,
+      "word": "男子刚进厨房下一秒高压锅爆炸",
+      "onboard_time": 1680062608,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 267136,
       "num": 267136,
       "word": "魏如萱拉马嘉祺衣角",
@@ -387,6 +443,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 254327,
+      "num": 254327,
+      "word": "蒋雯丽明道海尔兄弟",
+      "onboard_time": 1680063328,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 242925,
       "num": 242925,
       "word": "专家回应大熊猫银柯身体情况",
@@ -395,20 +459,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 228595,
+      "num": 228595,
+      "word": "足协",
+      "onboard_time": 1680059785,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 222260,
+      "num": 222260,
+      "word": "中超公司原总经理董铮被查",
+      "onboard_time": 1680059425,
+      "rank": 35,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 218318,
       "num": 218318,
       "word": "战机突发故障他凭感觉成功降落山东舰",
       "onboard_time": 1680052349,
       "rank": 27,
       "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 218269,
-      "num": 218269,
-      "word": "中超公司原总经理董铮被查",
-      "onboard_time": 1680059425,
-      "rank": 35,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 217961,
@@ -459,6 +531,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 206603,
+      "num": 206603,
+      "word": "男童走路跛脚竟被查出患白血病",
+      "onboard_time": 1680060147,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 204862,
       "num": 204862,
       "word": "微信异常会影响你的生活吗",
@@ -467,20 +547,20 @@
       "category": "科技"
     },
     {
+      "raw_hot": 204684,
+      "num": 204684,
+      "word": "全职女友要分手补偿是否合理",
+      "onboard_time": 1680063510,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200796,
       "num": 200796,
       "word": "腾讯客服",
       "onboard_time": 1680049288,
       "rank": 28,
       "category": "科技"
-    },
-    {
-      "raw_hot": 200524,
-      "num": 200524,
-      "word": "足协",
-      "onboard_time": 1680059785,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 200521,
@@ -505,6 +585,14 @@
       "onboard_time": 1680017486,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 194452,
+      "num": 194452,
+      "word": "孙国友此前727万判决书曝光",
+      "onboard_time": 1680063569,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 194322,
@@ -643,14 +731,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 157800,
-      "num": 157800,
-      "word": "男童走路跛脚竟被查出患白血病",
-      "onboard_time": 1680060147,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 156359,
       "num": 156359,
       "word": "杨紫广告拍摄路透",
@@ -715,6 +795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 142295,
+      "num": 142295,
+      "word": "九尾红人节官宣",
+      "onboard_time": 1680062128,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 137713,
       "num": 137713,
       "word": "熊猫发情会有哪些刻板行为",
@@ -745,6 +833,22 @@
       "onboard_time": 1680016589,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125261,
+      "num": 125261,
+      "word": "周传雄演唱会",
+      "onboard_time": 1680061648,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 123859,
+      "num": 123859,
+      "word": "打工人早上挤地铁有多难",
+      "onboard_time": 1680063510,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 123514,
@@ -939,6 +1043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 67586,
+      "num": 1106822,
+      "word": "充分发挥市场在资源配置中的决定性作用",
+      "onboard_time": 1680059666,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67402,
       "num": 67402,
       "word": "KCL颁奖典礼",
@@ -1001,14 +1113,6 @@
       "onboard_time": 1680019406,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 45460,
-      "num": 834290,
-      "word": "充分发挥市场在资源配置中的决定性作用",
-      "onboard_time": 1680059666,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 44025,

@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1680060820133,
+  "endTime": 1680063739136,
   "band_list": [
     {
       "raw_hot": 27113842,
@@ -1673,6 +1673,14 @@
       "onboard_time": 1678156765,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1977032,
+      "num": 1105639,
+      "word": "胡一天新签约罗晋经纪人",
+      "onboard_time": 1680061947,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1973327,
@@ -5019,6 +5027,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1211650,
+      "num": 1211650,
+      "word": "神华集团",
+      "onboard_time": 1680060985,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1211286,
       "num": 1211286,
       "word": "韩总统称日本已从侵略者转变为伙伴",
@@ -5073,6 +5089,14 @@
       "onboard_time": 1678936886,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1201807,
+      "num": 466276,
+      "word": "迪丽热巴异域公主风视频",
+      "onboard_time": 1680061048,
+      "rank": 11,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1201618,
@@ -5744,6 +5768,14 @@
       "word": "夜昙青葵没化为人形",
       "onboard_time": 1678538069,
       "rank": 3,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1102066,
+      "num": 1102066,
+      "word": "霍建华或将参演玫瑰的故事",
+      "onboard_time": 1680060446,
+      "rank": 18,
       "category": "影视"
     },
     {
@@ -13563,6 +13595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 631201,
+      "num": 631201,
+      "word": "天气预报员王俊凯",
+      "onboard_time": 1680062248,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 631180,
       "num": 399937,
       "word": "陆虎 门票",
@@ -14593,6 +14633,14 @@
       "onboard_time": 1679928153,
       "rank": 9,
       "category": "艺人,财经"
+    },
+    {
+      "raw_hot": 595326,
+      "num": 595326,
+      "word": "微信问一问",
+      "onboard_time": 1680061887,
+      "rank": 8,
+      "category": "科技"
     },
     {
       "raw_hot": 595302,
@@ -19497,6 +19545,14 @@
       "onboard_time": 1680003148,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 467724,
+      "num": 467724,
+      "word": "一个演员拼到最后拼的是文化",
+      "onboard_time": 1680061048,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 467116,
@@ -25563,14 +25619,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 349735,
-      "num": 349735,
-      "word": "霍建华或将参演玫瑰的故事",
-      "onboard_time": 1680060446,
-      "rank": 18,
-      "category": "影视"
-    },
-    {
       "raw_hot": 349725,
       "num": 593419,
       "word": "为什么越来越多人选择折叠屏",
@@ -31227,6 +31275,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 271990,
+      "num": 271990,
+      "word": "男子刚进厨房下一秒高压锅爆炸",
+      "onboard_time": 1680062608,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 271882,
       "num": 261357,
       "word": "王俊凯小时候打篮球旧照",
@@ -32673,6 +32729,14 @@
       "onboard_time": 1677638728,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 254327,
+      "num": 254327,
+      "word": "蒋雯丽明道海尔兄弟",
+      "onboard_time": 1680063328,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 254263,
@@ -35283,6 +35347,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 228595,
+      "num": 228595,
+      "word": "足协",
+      "onboard_time": 1680059785,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 228580,
       "num": 228580,
       "word": "易烊千玺夜景随拍",
@@ -36075,6 +36147,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 222260,
+      "num": 222260,
+      "word": "中超公司原总经理董铮被查",
+      "onboard_time": 1680059425,
+      "rank": 35,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 222153,
       "num": 222153,
       "word": "范丞丞直播",
@@ -36537,14 +36617,6 @@
       "onboard_time": 1678941212,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 218269,
-      "num": 218269,
-      "word": "中超公司原总经理董铮被查",
-      "onboard_time": 1680059425,
-      "rank": 35,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 218256,
@@ -38179,6 +38251,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 206603,
+      "num": 206603,
+      "word": "男童走路跛脚竟被查出患白血病",
+      "onboard_time": 1680060147,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206562,
       "num": 100331,
       "word": "周笔畅露背西装",
@@ -38673,6 +38753,14 @@
       "onboard_time": 1679666252,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 204684,
+      "num": 204684,
+      "word": "全职女友要分手补偿是否合理",
+      "onboard_time": 1680063510,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 204654,
@@ -39705,14 +39793,6 @@
       "onboard_time": 1677656667,
       "rank": 24,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 200524,
-      "num": 200524,
-      "word": "足协",
-      "onboard_time": 1680059785,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 200521,
@@ -41257,6 +41337,14 @@
       "onboard_time": 1677652587,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 194452,
+      "num": 194452,
+      "word": "孙国友此前727万判决书曝光",
+      "onboard_time": 1680063569,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 194407,
@@ -47075,14 +47163,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 157800,
-      "num": 157800,
-      "word": "男童走路跛脚竟被查出患白血病",
-      "onboard_time": 1680060147,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 157774,
       "num": 157774,
       "word": "最后生还者 长颈鹿",
@@ -49361,6 +49441,14 @@
       "onboard_time": 1679149171,
       "rank": 49,
       "category": "科技"
+    },
+    {
+      "raw_hot": 142295,
+      "num": 142295,
+      "word": "九尾红人节官宣",
+      "onboard_time": 1680062128,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 142281,
@@ -51971,6 +52059,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 125261,
+      "num": 125261,
+      "word": "周传雄演唱会",
+      "onboard_time": 1680061648,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 125178,
       "num": 125178,
       "word": "建议强化我国适老服务体系",
@@ -52105,6 +52201,14 @@
       "onboard_time": 1679104048,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 123859,
+      "num": 123859,
+      "word": "打工人早上挤地铁有多难",
+      "onboard_time": 1680063510,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 123855,
@@ -57043,6 +57147,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 67586,
+      "num": 1106822,
+      "word": "充分发挥市场在资源配置中的决定性作用",
+      "onboard_time": 1680059666,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67402,
       "num": 67402,
       "word": "KCL颁奖典礼",
@@ -57745,14 +57857,6 @@
       "onboard_time": 1677854249,
       "rank": 43,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 45460,
-      "num": 834290,
-      "word": "充分发挥市场在资源配置中的决定性作用",
-      "onboard_time": 1680059666,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 45406,
