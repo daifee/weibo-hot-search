@@ -1,6 +1,6 @@
 {
   "startTime": 1680022234432,
-  "endTime": 1680096340568,
+  "endTime": 1680096972142,
   "band_list": [
     {
       "raw_hot": 12970403,
@@ -219,6 +219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1147023,
+      "num": 1147023,
+      "word": "市领导回应林场主跪地求供水",
+      "onboard_time": 1680084508,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1102066,
       "num": 1102066,
       "word": "霍建华或将参演玫瑰的故事",
@@ -235,20 +243,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 885277,
+      "num": 885277,
+      "word": "小猪先生 兜儿",
+      "onboard_time": 1680095608,
+      "rank": 10,
+      "category": "网红"
+    },
+    {
       "raw_hot": 872413,
       "num": 872413,
       "word": "徐艺洋说不会为了爱情放弃事业",
       "onboard_time": 1680074793,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 865057,
-      "num": 865057,
-      "word": "市领导回应林场主跪地求供水",
-      "onboard_time": 1680084508,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 847701,
@@ -563,14 +571,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 513740,
-      "num": 513740,
-      "word": "小猪先生 兜儿",
-      "onboard_time": 1680095608,
-      "rank": 10,
-      "category": "网红"
-    },
-    {
       "raw_hot": 511098,
       "num": 511098,
       "word": "汽车雷达在无人陵园内显示全是人影",
@@ -625,6 +625,14 @@
       "onboard_time": 1680072986,
       "rank": 12,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 469873,
+      "num": 469873,
+      "word": "8成投票网友支持孙国友女儿继承父业",
+      "onboard_time": 1680095367,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 467042,
@@ -705,6 +713,14 @@
       "onboard_time": 1680012750,
       "rank": 6,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 421678,
+      "num": 421678,
+      "word": "吴磊也需要别人演他小时候了",
+      "onboard_time": 1680094888,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 421330,
@@ -803,6 +819,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 377633,
+      "num": 377633,
+      "word": "王楚钦孙颖莎直通德班",
+      "onboard_time": 1680095608,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 376281,
       "num": 376281,
       "word": "艺率不知道黑暗荣耀具体剧情",
@@ -835,14 +859,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 374329,
-      "num": 374329,
-      "word": "王楚钦孙颖莎直通德班",
-      "onboard_time": 1680095608,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 368959,
       "num": 368959,
       "word": "萌探3",
@@ -867,16 +883,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 358365,
-      "num": 358365,
-      "word": "吴磊也需要别人演他小时候了",
-      "onboard_time": 1680094888,
-      "rank": 15,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 354766,
-      "num": 354766,
+      "raw_hot": 361261,
+      "num": 361261,
       "word": "小S模仿二女儿讲英语",
       "onboard_time": 1680091768,
       "rank": 16,
@@ -961,6 +969,14 @@
       "onboard_time": 1680016109,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 326382,
+      "num": 197310,
+      "word": "歌唱家程志去世",
+      "onboard_time": 1680096809,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 322555,
@@ -1251,14 +1267,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 241119,
-      "num": 241119,
-      "word": "8成投票网友支持孙国友女儿继承父业",
-      "onboard_time": 1680095367,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 237855,
       "num": 187510,
       "word": "宁静请萌探3工作人员喝奶茶",
@@ -1521,6 +1529,14 @@
       "onboard_time": 1680070706,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 197838,
+      "num": 139686,
+      "word": "刘宇宁回眸视频",
+      "onboard_time": 1680096389,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 197689,
@@ -2033,6 +2049,14 @@
       "onboard_time": 1680015027,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 116289,
+      "num": 116289,
+      "word": "我想这样已经很久了",
+      "onboard_time": 1680096809,
+      "rank": 39,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 114959,
