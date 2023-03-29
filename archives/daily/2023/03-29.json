@@ -1,6 +1,6 @@
 {
   "startTime": 1680022234432,
-  "endTime": 1680101741245,
+  "endTime": 1680102475214,
   "band_list": [
     {
       "raw_hot": 12970403,
@@ -43,8 +43,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 2497986,
-      "num": 2497986,
+      "raw_hot": 2513752,
+      "num": 2513752,
       "word": "西安被坠楼者砸中男童不治身亡",
       "onboard_time": 1680099867,
       "rank": 0,
@@ -299,6 +299,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 810898,
+      "num": 810898,
+      "word": "周冬雨马思纯同框",
+      "onboard_time": 1680101190,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 809878,
       "num": 809878,
       "word": "王子文说不能接受伴侣看自己手机",
@@ -321,6 +329,14 @@
       "onboard_time": 1680086008,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 786526,
+      "num": 450510,
+      "word": "吴镇宇想见到费曼的办法",
+      "onboard_time": 1680100769,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 769070,
@@ -371,14 +387,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 717330,
-      "num": 717330,
-      "word": "周冬雨马思纯同框",
-      "onboard_time": 1680101190,
-      "rank": 4,
-      "category": "影视"
-    },
-    {
       "raw_hot": 716189,
       "num": 716189,
       "word": "胡歌唐嫣新剧同框",
@@ -393,6 +401,14 @@
       "onboard_time": 1680069509,
       "rank": 5,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 681702,
+      "num": 681702,
+      "word": "杨幂微博之夜七年造型",
+      "onboard_time": 1680101790,
+      "rank": 5,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 670644,
@@ -595,14 +611,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 517948,
-      "num": 439249,
-      "word": "吴镇宇想见到费曼的办法",
-      "onboard_time": 1680100769,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 515167,
       "num": 515167,
       "word": "王鹤棣或将要拍电影",
@@ -649,6 +657,14 @@
       "onboard_time": 1680091588,
       "rank": 11,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 488127,
+      "num": 447768,
+      "word": "为什么洗澡时总想小便",
+      "onboard_time": 1680100889,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 480546,
@@ -1075,6 +1091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 304454,
+      "num": 284005,
+      "word": "真的有人一点社交都没有吗",
+      "onboard_time": 1680098130,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 304287,
       "num": 304287,
       "word": "刘宇宁爱情而已人物主题曲",
@@ -1163,6 +1187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 282502,
+      "num": 282502,
+      "word": "忠犬八公",
+      "onboard_time": 1680101669,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 282438,
       "num": 282438,
       "word": "宋小宝挽宁静手上班",
@@ -1243,14 +1275,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 267264,
-      "num": 267264,
-      "word": "真的有人一点社交都没有吗",
-      "onboard_time": 1680098130,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
       "raw_hot": 267136,
       "num": 267136,
       "word": "魏如萱拉马嘉祺衣角",
@@ -1289,14 +1313,6 @@
       "onboard_time": 1680074375,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 261071,
-      "num": 261071,
-      "word": "为什么洗澡时总想小便",
-      "onboard_time": 1680100889,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 260597,
@@ -1611,12 +1627,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 201251,
-      "num": 198435,
-      "word": "忠犬八公",
-      "onboard_time": 1680101669,
-      "rank": 30,
-      "category": "影视"
+      "raw_hot": 202138,
+      "num": 202138,
+      "word": "跪地求水林场主称三成树木因缺水死亡",
+      "onboard_time": 1680101311,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 200796,
@@ -1649,14 +1665,6 @@
       "onboard_time": 1680070706,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 199562,
-      "num": 199562,
-      "word": "跪地求水林场主称三成树木因缺水死亡",
-      "onboard_time": 1680101311,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 197838,
@@ -1769,6 +1777,14 @@
       "onboard_time": 1680060207,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 192124,
+      "num": 192124,
+      "word": "文豪野犬第5季制作决定",
+      "onboard_time": 1680102088,
+      "rank": 29,
+      "category": "动漫"
     },
     {
       "raw_hot": 191862,
@@ -1995,6 +2011,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 160687,
+      "num": 160687,
+      "word": "上海和武汉有多像",
+      "onboard_time": 1680099211,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 160453,
       "num": 160453,
       "word": "李兰迪放学后便利店随拍",
@@ -2107,12 +2131,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 139479,
-      "num": 139479,
-      "word": "上海和武汉有多像",
-      "onboard_time": 1680099211,
-      "rank": 48,
-      "category": "情感"
+      "raw_hot": 145199,
+      "num": 145199,
+      "word": "EDG瓦电",
+      "onboard_time": 1680102030,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 144068,
+      "num": 144068,
+      "word": "幸亏扎的是假手",
+      "onboard_time": 1680101909,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 137713,
@@ -2177,6 +2209,14 @@
       "onboard_time": 1680018026,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 128115,
+      "num": 128115,
+      "word": "宁夏人怎么看林场主跪地求供水",
+      "onboard_time": 1680102088,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 126529,

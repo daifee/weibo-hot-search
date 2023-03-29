@@ -1,0 +1,410 @@
+{
+  "runTime": 1680102475214,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2513752,
+        "num": 2513752,
+        "word": "西安被坠楼者砸中男童不治身亡",
+        "onboard_time": 1680099867,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1531313,
+        "num": 1531313,
+        "word": "千万不要侧躺玩手机",
+        "onboard_time": 1680087326,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 37258,
+        "num": 1041373,
+        "word": "天宫放心飞天地保障永相随",
+        "onboard_time": 1680092487,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 900745,
+        "num": 900745,
+        "word": "谢娜瘦二十斤综艺回归首秀",
+        "onboard_time": 1680084387,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 810898,
+        "num": 810898,
+        "word": "周冬雨马思纯同框",
+        "onboard_time": 1680101190,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 681702,
+        "num": 681702,
+        "word": "杨幂微博之夜七年造型",
+        "onboard_time": 1680101790,
+        "rank": 5,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 581997,
+        "num": 581997,
+        "word": "上班暂停一下 我去读幼儿园",
+        "onboard_time": 1680086247,
+        "rank": 6,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 496024,
+        "num": 496024,
+        "word": "市领导回应林场主跪地求供水",
+        "onboard_time": 1680084508,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 492205,
+        "num": 492205,
+        "word": "吴磊也需要别人演他小时候了",
+        "onboard_time": 1680094888,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 468031,
+        "num": 468031,
+        "word": "王者荣耀",
+        "onboard_time": 1680097769,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 916715,
+        "num": 455845,
+        "word": "8成投票网友支持孙国友女儿继承父业",
+        "onboard_time": 1680095367,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 786526,
+        "num": 450510,
+        "word": "吴镇宇想见到费曼的办法",
+        "onboard_time": 1680100769,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 488127,
+        "num": 447768,
+        "word": "为什么洗澡时总想小便",
+        "onboard_time": 1680100889,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 428137,
+        "num": 428137,
+        "word": "男子求复合在女生公司外跪一夜",
+        "onboard_time": 1680083609,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344281,
+        "num": 344281,
+        "word": "你觉得毕业生起薪多少合适",
+        "onboard_time": 1680098790,
+        "rank": 14,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 336659,
+        "num": 336659,
+        "word": "跪求供水事件协商暂无进展",
+        "onboard_time": 1680097228,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326097,
+        "num": 326097,
+        "word": "秦岚白裙",
+        "onboard_time": 1680098369,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 321841,
+        "num": 321841,
+        "word": "肖战欧洲街头vlog",
+        "onboard_time": 1680090929,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293278,
+        "num": 293278,
+        "word": "关晓彤是听到了什么",
+        "onboard_time": 1680082767,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 286314,
+        "num": 286314,
+        "word": "聂小雨好惨",
+        "onboard_time": 1680086008,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 400065,
+        "num": 284818,
+        "word": "刘宪华 南京",
+        "onboard_time": 1680091888,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 304454,
+        "num": 284005,
+        "word": "真的有人一点社交都没有吗",
+        "onboard_time": 1680098130,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 282502,
+        "num": 282502,
+        "word": "忠犬八公",
+        "onboard_time": 1680101669,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 268836,
+        "num": 268836,
+        "word": "宋小宝挽宁静手上班",
+        "onboard_time": 1680100107,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 244977,
+        "num": 244977,
+        "word": "看中医时千万不要化妆",
+        "onboard_time": 1680087689,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 238010,
+        "num": 238010,
+        "word": "路晨归晓大婚",
+        "onboard_time": 1680099327,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 237818,
+        "num": 237818,
+        "word": "胡歌唐嫣新剧同框",
+        "onboard_time": 1680085588,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 215139,
+        "num": 215139,
+        "word": "他是谁割喉案凶手锁定",
+        "onboard_time": 1680091466,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 202138,
+        "num": 202138,
+        "word": "跪地求水林场主称三成树木因缺水死亡",
+        "onboard_time": 1680101311,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192124,
+        "num": 192124,
+        "word": "文豪野犬第5季制作决定",
+        "onboard_time": 1680102088,
+        "rank": 29,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 186360,
+        "num": 186360,
+        "word": "蔡徐坤日内瓦开工随拍",
+        "onboard_time": 1680100529,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185018,
+        "num": 185018,
+        "word": "林俊杰郑容和演唱会舞台",
+        "onboard_time": 1680098369,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 176303,
+        "num": 176303,
+        "word": "治沙英雄孙国友",
+        "onboard_time": 1680101190,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174049,
+        "num": 174049,
+        "word": "发工资前后的你",
+        "onboard_time": 1680096389,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 160688,
+        "num": 160688,
+        "word": "宁夏到底有多缺水",
+        "onboard_time": 1680101190,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160687,
+        "num": 160687,
+        "word": "上海和武汉有多像",
+        "onboard_time": 1680099211,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 158129,
+        "num": 158129,
+        "word": "王昭君乞巧织春",
+        "onboard_time": 1680101190,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 154085,
+        "num": 154085,
+        "word": "孙国友女儿晒供水协议",
+        "onboard_time": 1680084627,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152818,
+        "num": 152818,
+        "word": "张真源严浩翔树枝击剑",
+        "onboard_time": 1680099689,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 151028,
+        "num": 151028,
+        "word": "小S模仿二女儿讲英语",
+        "onboard_time": 1680091768,
+        "rank": 39,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 146341,
+        "num": 146341,
+        "word": "王鹤棣或将要拍电影",
+        "onboard_time": 1680094466,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 145199,
+        "num": 145199,
+        "word": "EDG瓦电",
+        "onboard_time": 1680102030,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 144068,
+        "num": 144068,
+        "word": "幸亏扎的是假手",
+        "onboard_time": 1680101909,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130849,
+        "num": 130849,
+        "word": "李沁说陈晓处理角色很自然有层次",
+        "onboard_time": 1680099268,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 130396,
+        "num": 130396,
+        "word": "李兰迪放学后便利店随拍",
+        "onboard_time": 1680096988,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128115,
+        "num": 128115,
+        "word": "宁夏人怎么看林场主跪地求供水",
+        "onboard_time": 1680102088,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127424,
+        "num": 127424,
+        "word": "黑马情侣 剧本",
+        "onboard_time": 1680075812,
+        "rank": 46,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 127088,
+        "num": 127088,
+        "word": "内娱男菩萨图鉴",
+        "onboard_time": 1680083247,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 123167,
+        "num": 123167,
+        "word": "王子文说疗愈对方不是伴侣要做的事",
+        "onboard_time": 1680101551,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119155,
+        "num": 119155,
+        "word": "裸辞真的是很幼稚的行为吗",
+        "onboard_time": 1680078148,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#两翼齐飞看发展#"
+    }
+  }
+}

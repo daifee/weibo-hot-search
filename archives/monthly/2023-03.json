@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1680101741245,
+  "endTime": 1680102475214,
   "band_list": [
     {
       "raw_hot": 27113842,
@@ -947,6 +947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2513752,
+      "num": 2513752,
+      "word": "西安被坠楼者砸中男童不治身亡",
+      "onboard_time": 1680099867,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2512086,
       "num": 1398351,
       "word": "邓超激动得像是买票进场的",
@@ -961,14 +969,6 @@
       "onboard_time": 1679896593,
       "rank": 5,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 2497986,
-      "num": 2497986,
-      "word": "西安被坠楼者砸中男童不治身亡",
-      "onboard_time": 1680099867,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2496764,
@@ -9859,6 +9859,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 810898,
+      "num": 810898,
+      "word": "周冬雨马思纯同框",
+      "onboard_time": 1680101190,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 810168,
       "num": 348990,
       "word": "张婧仪把粉丝签名的旗拿回去了",
@@ -10265,6 +10273,14 @@
       "onboard_time": 1678243528,
       "rank": 22,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 786526,
+      "num": 450510,
+      "word": "吴镇宇想见到费曼的办法",
+      "onboard_time": 1680100769,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 786386,
@@ -11667,14 +11683,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 717330,
-      "num": 717330,
-      "word": "周冬雨马思纯同框",
-      "onboard_time": 1680101190,
-      "rank": 4,
-      "category": "影视"
-    },
-    {
       "raw_hot": 716843,
       "num": 293184,
       "word": "大爷充29万做美容反悔起诉退钱",
@@ -12457,6 +12465,14 @@
       "onboard_time": 1679226688,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 681702,
+      "num": 681702,
+      "word": "杨幂微博之夜七年造型",
+      "onboard_time": 1680101790,
+      "rank": 5,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 681671,
@@ -17747,14 +17763,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 517948,
-      "num": 439249,
-      "word": "吴镇宇想见到费曼的办法",
-      "onboard_time": 1680100769,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 517605,
       "num": 517605,
       "word": "美军公布俄美黑海撞机画面",
@@ -18945,6 +18953,14 @@
       "onboard_time": 1679456369,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 488127,
+      "num": 447768,
+      "word": "为什么洗澡时总想小便",
+      "onboard_time": 1680100889,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 488066,
@@ -29451,6 +29467,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 304454,
+      "num": 284005,
+      "word": "真的有人一点社交都没有吗",
+      "onboard_time": 1680098130,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 304287,
       "num": 304287,
       "word": "刘宇宁爱情而已人物主题曲",
@@ -31075,6 +31099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 282502,
+      "num": 282502,
+      "word": "忠犬八公",
+      "onboard_time": 1680101669,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 282438,
       "num": 282438,
       "word": "宋小宝挽宁静手上班",
@@ -32451,14 +32483,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 267264,
-      "num": 267264,
-      "word": "真的有人一点社交都没有吗",
-      "onboard_time": 1680098130,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
       "raw_hot": 267263,
       "num": 267263,
       "word": "孙怡问花粉是什么意思",
@@ -33065,14 +33089,6 @@
       "onboard_time": 1678172847,
       "rank": 24,
       "category": "游戏,体育"
-    },
-    {
-      "raw_hot": 261071,
-      "num": 261071,
-      "word": "为什么洗澡时总想小便",
-      "onboard_time": 1680100889,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 260788,
@@ -40411,6 +40427,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 202138,
+      "num": 202138,
+      "word": "跪地求水林场主称三成树木因缺水死亡",
+      "onboard_time": 1680101311,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202128,
       "num": 202128,
       "word": "FindX6暗光长焦有何优势",
@@ -40609,14 +40633,6 @@
       "onboard_time": 1677747153,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 201251,
-      "num": 198435,
-      "word": "忠犬八公",
-      "onboard_time": 1680101669,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 201220,
@@ -41105,14 +41121,6 @@
       "onboard_time": 1677766111,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 199562,
-      "num": 199562,
-      "word": "跪地求水林场主称三成树木因缺水死亡",
-      "onboard_time": 1680101311,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 199558,
@@ -43065,6 +43073,14 @@
       "onboard_time": 1678772189,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 192124,
+      "num": 192124,
+      "word": "文豪野犬第5季制作决定",
+      "onboard_time": 1680102088,
+      "rank": 29,
+      "category": "动漫"
     },
     {
       "raw_hot": 192065,
@@ -48043,6 +48059,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 160687,
+      "num": 160687,
+      "word": "上海和武汉有多像",
+      "onboard_time": 1680099211,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 160685,
       "num": 160685,
       "word": "Hero对战狼队",
@@ -50283,6 +50307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 145199,
+      "num": 145199,
+      "word": "EDG瓦电",
+      "onboard_time": 1680102030,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 145177,
       "num": 145177,
       "word": "张若昀活动生图",
@@ -50457,6 +50489,14 @@
       "onboard_time": 1678332028,
       "rank": 37,
       "category": "财经,科技"
+    },
+    {
+      "raw_hot": 144068,
+      "num": 144068,
+      "word": "幸亏扎的是假手",
+      "onboard_time": 1680101909,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 144056,
@@ -51129,14 +51169,6 @@
       "onboard_time": 1679138908,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 139479,
-      "num": 139479,
-      "word": "上海和武汉有多像",
-      "onboard_time": 1680099211,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 139422,
@@ -52945,6 +52977,14 @@
       "onboard_time": 1678444709,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 128115,
+      "num": 128115,
+      "word": "宁夏人怎么看林场主跪地求供水",
+      "onboard_time": 1680102088,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 128076,
