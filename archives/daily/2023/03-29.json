@@ -1,6 +1,6 @@
 {
   "startTime": 1680022234432,
-  "endTime": 1680088524005,
+  "endTime": 1680089621233,
   "band_list": [
     {
       "raw_hot": 12970403,
@@ -243,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 821821,
+      "num": 821821,
+      "word": "上班暂停一下 我去读幼儿园",
+      "onboard_time": 1680086247,
+      "rank": 10,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 809878,
       "num": 809878,
       "word": "王子文说不能接受伴侣看自己手机",
@@ -273,6 +281,14 @@
       "onboard_time": 1680049109,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 767383,
+      "num": 767383,
+      "word": "千万不要侧躺玩手机",
+      "onboard_time": 1680087326,
+      "rank": 14,
+      "category": "幽默"
     },
     {
       "raw_hot": 757785,
@@ -329,6 +345,14 @@
       "onboard_time": 1680069509,
       "rank": 5,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 692305,
+      "num": 692305,
+      "word": "市领导回应林场主跪地求供水",
+      "onboard_time": 1680084508,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 670644,
@@ -395,20 +419,20 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 625176,
-      "num": 428657,
-      "word": "上班暂停一下 我去读幼儿园",
-      "onboard_time": 1680086247,
-      "rank": 10,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 616867,
       "num": 484615,
       "word": "肖战黑色大衣看展随拍",
       "onboard_time": 1680065131,
       "rank": 12,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 612446,
+      "num": 612446,
+      "word": "孙国友女儿晒供水协议",
+      "onboard_time": 1680084627,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 606236,
@@ -481,14 +505,6 @@
       "onboard_time": 1680052767,
       "rank": 10,
       "category": "科技"
-    },
-    {
-      "raw_hot": 540176,
-      "num": 540176,
-      "word": "市领导回应林场主跪地求供水",
-      "onboard_time": 1680084508,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 533036,
@@ -673,14 +689,6 @@
       "onboard_time": 1680054087,
       "rank": 23,
       "category": "科技"
-    },
-    {
-      "raw_hot": 405795,
-      "num": 405795,
-      "word": "千万不要侧躺玩手机",
-      "onboard_time": 1680087326,
-      "rank": 14,
-      "category": "幽默"
     },
     {
       "raw_hot": 399369,
@@ -1035,6 +1043,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 264203,
+      "num": 264203,
+      "word": "陈妍希对异地恋的极限是一个月",
+      "onboard_time": 1680088949,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 261978,
+      "num": 261978,
+      "word": "红叶蛋糕",
+      "onboard_time": 1680086847,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
       "raw_hot": 261401,
       "num": 261401,
       "word": "周冬雨王栎鑫二搭长沙夜生活",
@@ -1147,14 +1171,6 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 224808,
-      "num": 224808,
-      "word": "孙国友女儿晒供水协议",
-      "onboard_time": 1680084627,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 223707,
       "num": 223707,
       "word": "17岁南京功勋犬小虎去世",
@@ -1235,14 +1251,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 214565,
-      "num": 214565,
-      "word": "红叶蛋糕",
-      "onboard_time": 1680086847,
-      "rank": 24,
-      "category": "美食"
-    },
-    {
       "raw_hot": 214531,
       "num": 214531,
       "word": "官方回应林场主崩溃跪地求水",
@@ -1313,6 +1321,14 @@
       "onboard_time": 1680054566,
       "rank": 29,
       "category": "科技"
+    },
+    {
+      "raw_hot": 203645,
+      "num": 203645,
+      "word": "广州城俱乐部宣布暂停运营",
+      "onboard_time": 1680088467,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 203581,
@@ -1435,6 +1451,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191862,
+      "num": 206094,
+      "word": "今夜的上海是什么颜色",
+      "onboard_time": 1680088106,
+      "rank": 27,
+      "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 191777,
+      "num": 191777,
+      "word": "看中医时千万不要化妆",
+      "onboard_time": 1680087689,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 191070,
+      "num": 191070,
+      "word": "宋三川开启网球事业",
+      "onboard_time": 1680089248,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 190531,
       "num": 190531,
       "word": "宋三川耳朵红了",
@@ -1489,14 +1529,6 @@
       "onboard_time": 1680055047,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 182133,
-      "num": 182133,
-      "word": "看中医时千万不要化妆",
-      "onboard_time": 1680087689,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 181026,
@@ -1595,14 +1627,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 165208,
-      "num": 165208,
-      "word": "广州城俱乐部宣布暂停运营",
-      "onboard_time": 1680088467,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 163616,
       "num": 163616,
       "word": "林小宅 藏药令",
@@ -1633,14 +1657,6 @@
       "onboard_time": 1680071427,
       "rank": 36,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 161091,
-      "num": 206094,
-      "word": "今夜的上海是什么颜色",
-      "onboard_time": 1680088106,
-      "rank": 27,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 156817,
@@ -2049,6 +2065,14 @@
       "onboard_time": 1680012869,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 63147,
+      "num": 126072,
+      "word": "F1冠军开什么车",
+      "onboard_time": 1680089067,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 62227,
