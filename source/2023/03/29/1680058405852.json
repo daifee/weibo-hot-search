@@ -1,0 +1,410 @@
+{
+  "runTime": 1680058405852,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1457364,
+        "num": 1457364,
+        "word": "武汉一高校回应老人82元只买到俩素菜",
+        "onboard_time": 1680055107,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1150661,
+        "num": 1150661,
+        "word": "家属回应老人跪地求水",
+        "onboard_time": 1680054925,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22909,
+        "num": 1130211,
+        "word": "守好中国式现代化的本和源",
+        "onboard_time": 1680011548,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1122675,
+        "num": 1122675,
+        "word": "微信QQ出现功能异常",
+        "onboard_time": 1680046523,
+        "rank": 3,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 992549,
+        "num": 992549,
+        "word": "美国众议院要让中国当发达国家",
+        "onboard_time": 1680051750,
+        "rank": 4,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 856474,
+        "num": 856474,
+        "word": "胡一天与华策合约到期不续约",
+        "onboard_time": 1680057684,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 510902,
+        "num": 510902,
+        "word": "水务公司回应万亩林场主跪地求供水",
+        "onboard_time": 1680054984,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 416557,
+        "num": 416557,
+        "word": "苏醒录跑男把膝盖扭了",
+        "onboard_time": 1680049109,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 406677,
+        "num": 406677,
+        "word": "还以为蒋雯丽要对明道说你是我的神",
+        "onboard_time": 1680053487,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 390414,
+        "num": 390414,
+        "word": "塞尔达传说王国之泪已开发完成",
+        "onboard_time": 1680055826,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 2142594,
+        "num": 389774,
+        "word": "微信朋友圈",
+        "onboard_time": 1680050309,
+        "rank": 10,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 898737,
+        "num": 388546,
+        "word": "酒店不允许成年子女和父母住一个标间",
+        "onboard_time": 1680014548,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 762781,
+        "num": 388089,
+        "word": "麻六记",
+        "onboard_time": 1680047966,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 583763,
+        "num": 387282,
+        "word": "蒲熠星解开了我小学的困惑",
+        "onboard_time": 1680052947,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 510844,
+        "num": 385855,
+        "word": "于洪臣被查",
+        "onboard_time": 1680056965,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385414,
+        "num": 385414,
+        "word": "唐嫣说我们的客栈嘉宾都很和谐",
+        "onboard_time": 1680056965,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 378246,
+        "num": 378246,
+        "word": "孙毓敏去世",
+        "onboard_time": 1680018506,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351978,
+        "num": 351978,
+        "word": "腾讯客服删除回应",
+        "onboard_time": 1680054087,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 320713,
+        "num": 320713,
+        "word": "张艺兴喝香槟视频",
+        "onboard_time": 1680057565,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 296363,
+        "num": 296363,
+        "word": "莲花楼",
+        "onboard_time": 1680058047,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 567057,
+        "num": 282831,
+        "word": "女子离婚遭婆婆索要10万带孙费",
+        "onboard_time": 1680055465,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343188,
+        "num": 279559,
+        "word": "28岁女子当七年全职女友惹争议",
+        "onboard_time": 1680049167,
+        "rank": 21,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 304707,
+        "num": 277626,
+        "word": "长黑斑的香蕉才能缓解便秘",
+        "onboard_time": 1680054144,
+        "rank": 22,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 261824,
+        "num": 261824,
+        "word": "王子文说不能接受伴侣看自己手机",
+        "onboard_time": 1680021681,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245247,
+        "num": 245247,
+        "word": "不小心把狗的碗踢翻后",
+        "onboard_time": 1680056065,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 243391,
+        "num": 243391,
+        "word": "汽车雷达在无人陵园内显示全是人影",
+        "onboard_time": 1680045741,
+        "rank": 25,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 234960,
+        "num": 234960,
+        "word": "高中生用甘油自制护肤品养出大菌种",
+        "onboard_time": 1680048690,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233756,
+        "num": 233756,
+        "word": "央媒评去有风的地方同款线路热卖",
+        "onboard_time": 1680050669,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 229609,
+        "num": 229609,
+        "word": "黑马情侣 两人权力的转移",
+        "onboard_time": 1680011909,
+        "rank": 28,
+        "category": "网红,情感"
+      },
+      {
+        "raw_hot": 200445,
+        "num": 200445,
+        "word": "官方回应林场主崩溃跪地求水",
+        "onboard_time": 1680056126,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240779,
+        "num": 200148,
+        "word": "唯品会崩了",
+        "onboard_time": 1680054446,
+        "rank": 30,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 240576,
+        "num": 199638,
+        "word": "国台办回应蔡英文拟过境窜访美国",
+        "onboard_time": 1680057987,
+        "rank": 31,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 198989,
+        "num": 198989,
+        "word": "阿根廷进攻火力太猛了",
+        "onboard_time": 1680052050,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188300,
+        "num": 188300,
+        "word": "男子伙同女友贩卖104部不雅视频",
+        "onboard_time": 1680048808,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187594,
+        "num": 187594,
+        "word": "婆婆给儿媳做花样月子餐42天不重样",
+        "onboard_time": 1680054865,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185141,
+        "num": 185141,
+        "word": "梅西帽子戏法",
+        "onboard_time": 1680052050,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175632,
+        "num": 175632,
+        "word": "五月天26岁了",
+        "onboard_time": 1680048867,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154876,
+        "num": 154876,
+        "word": "金珉奎笑容消失术",
+        "onboard_time": 1680054805,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 154422,
+        "num": 154422,
+        "word": "陈妍希绿色格纹小香风",
+        "onboard_time": 1680053129,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142170,
+        "num": 142170,
+        "word": "张杰说喜欢和陈粒对唱的哭砂",
+        "onboard_time": 1680048867,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137775,
+        "num": 137775,
+        "word": "战机突发故障他凭感觉成功降落山东舰",
+        "onboard_time": 1680052349,
+        "rank": 40,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 136789,
+        "num": 136789,
+        "word": "微信异常会影响你的生活吗",
+        "onboard_time": 1680054566,
+        "rank": 41,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 123009,
+        "num": 123009,
+        "word": "王鹤棣闪光灯变装视频",
+        "onboard_time": 1680056126,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 122967,
+        "num": 122967,
+        "word": "马嘉祺声生不息最新repo",
+        "onboard_time": 1680055406,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122067,
+        "num": 122067,
+        "word": "高加林为前途抛弃巧珍",
+        "onboard_time": 1680058285,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 111835,
+        "num": 111835,
+        "word": "老朋友是用来说废话的",
+        "onboard_time": 1680055646,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 111620,
+        "num": 111620,
+        "word": "乐华的法务总监是微博私信投简历的",
+        "onboard_time": 1680019525,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111521,
+        "num": 111521,
+        "word": "殷美根被查",
+        "onboard_time": 1680055706,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108337,
+        "num": 108337,
+        "word": "专家回应大熊猫银柯身体情况",
+        "onboard_time": 1680050067,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106977,
+        "num": 106977,
+        "word": "金智秀solo曲预告视频",
+        "onboard_time": 1680047004,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#2023年清朗专项行动#"
+    }
+  }
+}

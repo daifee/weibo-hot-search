@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1680057853836,
+  "endTime": 1680058405852,
   "band_list": [
     {
       "raw_hot": 4718675,
@@ -259,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1457364,
+      "num": 1457364,
+      "word": "武汉一高校回应老人82元只买到俩素菜",
+      "onboard_time": 1680055107,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1454591,
       "num": 493211,
       "word": "林永健儿子12岁近照",
@@ -395,14 +403,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1233371,
-      "num": 1233371,
-      "word": "武汉一高校回应老人82元只买到俩素菜",
-      "onboard_time": 1680055107,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1220615,
       "num": 1220615,
       "word": "葛优打葛优躺官司获赔759万",
@@ -433,6 +433,14 @@
       "onboard_time": 1679887531,
       "rank": 16,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1150661,
+      "num": 1150661,
+      "word": "家属回应老人跪地求水",
+      "onboard_time": 1680054925,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1140519,
@@ -699,12 +707,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 851503,
-      "num": 851503,
-      "word": "家属回应老人跪地求水",
-      "onboard_time": 1680054925,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 856474,
+      "num": 856474,
+      "word": "胡一天与华策合约到期不续约",
+      "onboard_time": 1680057684,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 843062,
@@ -972,7 +980,7 @@
     },
     {
       "raw_hot": 627647,
-      "num": 277779,
+      "num": 279559,
       "word": "28岁女子当七年全职女友惹争议",
       "onboard_time": 1680049167,
       "rank": 20,
@@ -1020,7 +1028,7 @@
     },
     {
       "raw_hot": 606236,
-      "num": 364499,
+      "num": 387282,
       "word": "蒲熠星解开了我小学的困惑",
       "onboard_time": 1680052947,
       "rank": 15,
@@ -1163,6 +1171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 567057,
+      "num": 282831,
+      "word": "女子离婚遭婆婆索要10万带孙费",
+      "onboard_time": 1680055465,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 566436,
       "num": 566436,
       "word": "水务公司回应万亩林场主跪地求供水",
@@ -1251,14 +1267,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 519422,
-      "num": 278081,
-      "word": "女子离婚遭婆婆索要10万带孙费",
-      "onboard_time": 1680055465,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 515055,
       "num": 515055,
       "word": "不要做那个揉纸团的人",
@@ -1297,6 +1305,14 @@
       "onboard_time": 1680045741,
       "rank": 12,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 510844,
+      "num": 385855,
+      "word": "于洪臣被查",
+      "onboard_time": 1680056965,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 509624,
@@ -1628,7 +1644,7 @@
     },
     {
       "raw_hot": 413059,
-      "num": 331779,
+      "num": 351978,
       "word": "腾讯客服删除回应",
       "onboard_time": 1680054087,
       "rank": 23,
@@ -1753,6 +1769,22 @@
       "onboard_time": 1679972127,
       "rank": 9,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 390414,
+      "num": 390414,
+      "word": "塞尔达传说王国之泪已开发完成",
+      "onboard_time": 1680055826,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 385414,
+      "num": 385414,
+      "word": "唐嫣说我们的客栈嘉宾都很和谐",
+      "onboard_time": 1680056965,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 385158,
@@ -1963,14 +1995,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 340019,
-      "num": 340019,
-      "word": "塞尔达传说王国之泪已开发完成",
-      "onboard_time": 1680055826,
-      "rank": 9,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 339084,
       "num": 339084,
       "word": "东南亚国家是否真的不能去了",
@@ -2009,14 +2033,6 @@
       "onboard_time": 1680006446,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 330943,
-      "num": 330943,
-      "word": "唐嫣说我们的客栈嘉宾都很和谐",
-      "onboard_time": 1680056965,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 330621,
@@ -2107,6 +2123,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 320713,
+      "num": 320713,
+      "word": "张艺兴喝香槟视频",
+      "onboard_time": 1680057565,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 319595,
       "num": 319595,
       "word": "檀健次莫文蔚16年后再同框",
@@ -2171,6 +2195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 304707,
+      "num": 277626,
+      "word": "长黑斑的香蕉才能缓解便秘",
+      "onboard_time": 1680054144,
+      "rank": 24,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 303488,
       "num": 303488,
       "word": "京剧的哇呀呀喂呀呀哇哈哈哈都啥意思",
@@ -2227,6 +2259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 296363,
+      "num": 296363,
+      "word": "莲花楼",
+      "onboard_time": 1680058047,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 295125,
       "num": 286286,
       "word": "长相思",
@@ -2251,28 +2291,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 292131,
-      "num": 292131,
-      "word": "胡一天与华策合约到期不续约",
-      "onboard_time": 1680057684,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 291220,
       "num": 291220,
       "word": "村BA冠军争夺战因降雨推迟",
       "onboard_time": 1679876846,
       "rank": 12,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 290424,
-      "num": 290424,
-      "word": "于洪臣被查",
-      "onboard_time": 1680056965,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 290171,
@@ -2337,14 +2361,6 @@
       "onboard_time": 1679837129,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 282400,
-      "num": 268660,
-      "word": "长黑斑的香蕉才能缓解便秘",
-      "onboard_time": 1680054144,
-      "rank": 24,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 281222,
@@ -2697,6 +2713,14 @@
       "onboard_time": 1679882308,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 240576,
+      "num": 199638,
+      "word": "国台办回应蔡英文拟过境窜访美国",
+      "onboard_time": 1680057987,
+      "rank": 31,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 240322,
@@ -3153,14 +3177,6 @@
       "onboard_time": 1679896412,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 200118,
-      "num": 200118,
-      "word": "张艺兴喝香槟视频",
-      "onboard_time": 1680057565,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 199904,
@@ -4403,12 +4419,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 123009,
+      "num": 123009,
+      "word": "王鹤棣闪光灯变装视频",
+      "onboard_time": 1680056126,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 122967,
+      "num": 122967,
+      "word": "马嘉祺声生不息最新repo",
+      "onboard_time": 1680055406,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 122921,
       "num": 122921,
       "word": "当学校里出现跳格子",
       "onboard_time": 1680012691,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 122067,
+      "num": 122067,
+      "word": "高加林为前途抛弃巧珍",
+      "onboard_time": 1680058285,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 121433,
@@ -4481,14 +4521,6 @@
       "onboard_time": 1679925813,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 118935,
-      "num": 118935,
-      "word": "马嘉祺声生不息最新repo",
-      "onboard_time": 1680055406,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 118378,
@@ -4569,6 +4601,14 @@
       "onboard_time": 1679833948,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 111521,
+      "num": 111521,
+      "word": "殷美根被查",
+      "onboard_time": 1680055706,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110872,
@@ -4659,14 +4699,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 106863,
-      "num": 106863,
-      "word": "王鹤棣闪光灯变装视频",
-      "onboard_time": 1680056126,
-      "rank": 48,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 106348,
       "num": 106348,
       "word": "孙国友",
@@ -4737,14 +4769,6 @@
       "onboard_time": 1679873722,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 101178,
-      "num": 101178,
-      "word": "殷美根被查",
-      "onboard_time": 1680055706,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 100994,
