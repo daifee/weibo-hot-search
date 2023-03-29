@@ -1,6 +1,6 @@
 {
   "startTime": 1680022234432,
-  "endTime": 1680086158392,
+  "endTime": 1680088524005,
   "band_list": [
     {
       "raw_hot": 12970403,
@@ -147,20 +147,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1389900,
+      "num": 1295239,
+      "word": "男子求复合在女生公司外跪一夜",
+      "onboard_time": 1680083609,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1315741,
       "num": 1096752,
       "word": "ZIFEIWANG 都美竹",
       "onboard_time": 1680068488,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1295239,
-      "num": 1295239,
-      "word": "男子求复合在女生公司外跪一夜",
-      "onboard_time": 1680083609,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1285147,
@@ -259,6 +259,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 797218,
+      "num": 797218,
+      "word": "聂小雨好惨",
+      "onboard_time": 1680086008,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 769070,
       "num": 769070,
       "word": "苏醒录跑男把膝盖扭了",
@@ -305,6 +313,14 @@
       "onboard_time": 1680061887,
       "rank": 8,
       "category": "科技"
+    },
+    {
+      "raw_hot": 716189,
+      "num": 716189,
+      "word": "胡歌唐嫣新剧同框",
+      "onboard_time": 1680085588,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 703859,
@@ -377,6 +393,14 @@
       "onboard_time": 1680049167,
       "rank": 20,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 625176,
+      "num": 428657,
+      "word": "上班暂停一下 我去读幼儿园",
+      "onboard_time": 1680086247,
+      "rank": 10,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 616867,
@@ -459,12 +483,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 545353,
-      "num": 545353,
-      "word": "聂小雨好惨",
-      "onboard_time": 1680086008,
-      "rank": 8,
-      "category": "影视"
+      "raw_hot": 540176,
+      "num": 540176,
+      "word": "市领导回应林场主跪地求供水",
+      "onboard_time": 1680084508,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 533036,
@@ -627,6 +651,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 418584,
+      "num": 418584,
+      "word": "黄礼志给中国游客当导购",
+      "onboard_time": 1680086668,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 415356,
       "num": 415356,
       "word": "吴优浪姐上班",
@@ -643,12 +675,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 403733,
-      "num": 403733,
-      "word": "市领导回应林场主跪地求供水",
-      "onboard_time": 1680084508,
-      "rank": 28,
-      "category": "社会新闻"
+      "raw_hot": 405795,
+      "num": 405795,
+      "word": "千万不要侧躺玩手机",
+      "onboard_time": 1680087326,
+      "rank": 14,
+      "category": "幽默"
     },
     {
       "raw_hot": 399369,
@@ -657,14 +689,6 @@
       "onboard_time": 1680057565,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 398020,
-      "num": 398020,
-      "word": "胡歌唐嫣新剧同框",
-      "onboard_time": 1680085588,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 396213,
@@ -739,6 +763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 368959,
+      "num": 368959,
+      "word": "萌探3",
+      "onboard_time": 1680086609,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 367030,
       "num": 367030,
       "word": "黄景瑜黄明昊严浩翔录制路透",
@@ -753,6 +785,14 @@
       "onboard_time": 1680065669,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 354032,
+      "num": 354032,
+      "word": "NMIXX初一位",
+      "onboard_time": 1680085709,
+      "rank": 20,
+      "category": "音乐"
     },
     {
       "raw_hot": 352210,
@@ -825,14 +865,6 @@
       "onboard_time": 1680016109,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 325179,
-      "num": 325179,
-      "word": "NMIXX初一位",
-      "onboard_time": 1680085709,
-      "rank": 20,
-      "category": "音乐"
     },
     {
       "raw_hot": 322555,
@@ -1203,6 +1235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 214565,
+      "num": 214565,
+      "word": "红叶蛋糕",
+      "onboard_time": 1680086847,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
       "raw_hot": 214531,
       "num": 214531,
       "word": "官方回应林场主崩溃跪地求水",
@@ -1275,6 +1315,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 203581,
+      "num": 203581,
+      "word": "大熊猫避雨顾头不顾尾",
+      "onboard_time": 1680082646,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 202438,
       "num": 202438,
       "word": "心盲症",
@@ -1313,6 +1361,14 @@
       "onboard_time": 1680070706,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 197689,
+      "num": 197689,
+      "word": "他是谁",
+      "onboard_time": 1680088106,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 197477,
@@ -1369,14 +1425,6 @@
       "onboard_time": 1680067527,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 195437,
-      "num": 195437,
-      "word": "大熊猫避雨顾头不顾尾",
-      "onboard_time": 1680082646,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 194322,
@@ -1441,6 +1489,14 @@
       "onboard_time": 1680055047,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 182133,
+      "num": 182133,
+      "word": "看中医时千万不要化妆",
+      "onboard_time": 1680087689,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 181026,
@@ -1539,6 +1595,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 165208,
+      "num": 165208,
+      "word": "广州城俱乐部宣布暂停运营",
+      "onboard_time": 1680088467,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 163616,
       "num": 163616,
       "word": "林小宅 藏药令",
@@ -1569,6 +1633,14 @@
       "onboard_time": 1680071427,
       "rank": 36,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 161091,
+      "num": 206094,
+      "word": "今夜的上海是什么颜色",
+      "onboard_time": 1680088106,
+      "rank": 27,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 156817,

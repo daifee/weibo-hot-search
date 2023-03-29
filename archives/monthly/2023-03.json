@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1680086158392,
+  "endTime": 1680088524005,
   "band_list": [
     {
       "raw_hot": 27113842,
@@ -3859,6 +3859,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1389900,
+      "num": 1295239,
+      "word": "男子求复合在女生公司外跪一夜",
+      "onboard_time": 1680083609,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1387761,
       "num": 138394,
       "word": "孙莉 请不要乱用陌生人的照片移花接木",
@@ -4496,14 +4504,6 @@
       "word": "熊猫七七",
       "onboard_time": 1677662849,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1295239,
-      "num": 1295239,
-      "word": "男子求复合在女生公司外跪一夜",
-      "onboard_time": 1680083609,
-      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -10027,6 +10027,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 797218,
+      "num": 797218,
+      "word": "聂小雨好惨",
+      "onboard_time": 1680086008,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 796902,
       "num": 202231,
       "word": "于冬说无名9亿票房很满意",
@@ -11625,6 +11633,14 @@
       "onboard_time": 1678340189,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 716189,
+      "num": 716189,
+      "word": "胡歌唐嫣新剧同框",
+      "onboard_time": 1680085588,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 715562,
@@ -13945,6 +13961,14 @@
       "onboard_time": 1678339408,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 625176,
+      "num": 428657,
+      "word": "上班暂停一下 我去读幼儿园",
+      "onboard_time": 1680086247,
+      "rank": 10,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 624734,
@@ -16651,14 +16675,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 545353,
-      "num": 545353,
-      "word": "聂小雨好惨",
-      "onboard_time": 1680086008,
-      "rank": 8,
-      "category": "影视"
-    },
-    {
       "raw_hot": 545233,
       "num": 242663,
       "word": "关晓彤荧光绿短裙",
@@ -16817,6 +16833,14 @@
       "onboard_time": 1678362989,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 540176,
+      "num": 540176,
+      "word": "市领导回应林场主跪地求供水",
+      "onboard_time": 1680084508,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 540171,
@@ -22131,6 +22155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 418584,
+      "num": 418584,
+      "word": "黄礼志给中国游客当导购",
+      "onboard_time": 1680086668,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 418427,
       "num": 418427,
       "word": "阿雅微博文案好细节",
@@ -22635,6 +22667,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 405795,
+      "num": 405795,
+      "word": "千万不要侧躺玩手机",
+      "onboard_time": 1680087326,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 405702,
       "num": 405702,
       "word": "白鹿赵露思同款镂空背心",
@@ -22729,14 +22769,6 @@
       "onboard_time": 1679989407,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 403733,
-      "num": 403733,
-      "word": "市领导回应林场主跪地求供水",
-      "onboard_time": 1680084508,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 403688,
@@ -23057,14 +23089,6 @@
       "onboard_time": 1678505129,
       "rank": 16,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 398020,
-      "num": 398020,
-      "word": "胡歌唐嫣新剧同框",
-      "onboard_time": 1680085588,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 397966,
@@ -24827,6 +24851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 368959,
+      "num": 368959,
+      "word": "萌探3",
+      "onboard_time": 1680086609,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 368583,
       "num": 368583,
       "word": "瑞银提出收购瑞信",
@@ -25664,6 +25696,14 @@
       "word": "申留真WANNABE直拍",
       "onboard_time": 1678014808,
       "rank": 15,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 354032,
+      "num": 354032,
+      "word": "NMIXX初一位",
+      "onboard_time": 1680085709,
+      "rank": 20,
       "category": "音乐"
     },
     {
@@ -27689,14 +27729,6 @@
       "onboard_time": 1679459072,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 325179,
-      "num": 325179,
-      "word": "NMIXX初一位",
-      "onboard_time": 1680085709,
-      "rank": 20,
-      "category": "音乐"
     },
     {
       "raw_hot": 325016,
@@ -37755,6 +37787,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 214565,
+      "num": 214565,
+      "word": "红叶蛋糕",
+      "onboard_time": 1680086847,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
       "raw_hot": 214536,
       "num": 209549,
       "word": "李兰迪陈星旭你好星期六合体",
@@ -39777,6 +39817,14 @@
       "onboard_time": 1678627887,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 203581,
+      "num": 203581,
+      "word": "大熊猫避雨顾头不顾尾",
+      "onboard_time": 1680082646,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 203560,
@@ -41857,14 +41905,6 @@
       "onboard_time": 1678804533,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 195437,
-      "num": 195437,
-      "word": "大熊猫避雨顾头不顾尾",
-      "onboard_time": 1680082646,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 195387,
@@ -44507,6 +44547,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 182133,
+      "num": 182133,
+      "word": "看中医时千万不要化妆",
+      "onboard_time": 1680087689,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 182110,
       "num": 182110,
       "word": "一代人终将老去 但总有人正年轻",
@@ -46947,6 +46995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 165208,
+      "num": 165208,
+      "word": "广州城俱乐部宣布暂停运营",
+      "onboard_time": 1680088467,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 165061,
       "num": 165061,
       "word": "雷军建议强化智能汽车数据安全",
@@ -47569,6 +47625,14 @@
       "onboard_time": 1679320952,
       "rank": 41,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 161091,
+      "num": 206094,
+      "word": "今夜的上海是什么颜色",
+      "onboard_time": 1680088106,
+      "rank": 27,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 161070,
