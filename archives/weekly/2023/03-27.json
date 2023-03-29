@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1680094598651,
+  "endTime": 1680096340568,
   "band_list": [
     {
       "raw_hot": 12970403,
@@ -883,6 +883,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 865057,
+      "num": 865057,
+      "word": "市领导回应林场主跪地求供水",
+      "onboard_time": 1680084508,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 847701,
       "num": 847701,
       "word": "忘崽牛奶",
@@ -1145,14 +1153,6 @@
       "onboard_time": 1680000871,
       "rank": 13,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 692305,
-      "num": 692305,
-      "word": "市领导回应林场主跪地求供水",
-      "onboard_time": 1680084508,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 689674,
@@ -1667,12 +1667,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 515167,
+      "num": 515167,
+      "word": "王鹤棣或将要拍电影",
+      "onboard_time": 1680094466,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 515055,
       "num": 515055,
       "word": "不要做那个揉纸团的人",
       "onboard_time": 1679962349,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 513740,
+      "num": 513740,
+      "word": "小猪先生 兜儿",
+      "onboard_time": 1680095608,
+      "rank": 10,
+      "category": "网红"
     },
     {
       "raw_hot": 513524,
@@ -2443,6 +2459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 374329,
+      "num": 374329,
+      "word": "王楚钦孙颖莎直通德班",
+      "onboard_time": 1680095608,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 371179,
       "num": 371179,
       "word": "樊振东连续三年世界排名第一",
@@ -2491,12 +2515,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 358365,
+      "num": 358365,
+      "word": "吴磊也需要别人演他小时候了",
+      "onboard_time": 1680094888,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 356619,
       "num": 356619,
       "word": "白敬亭拼接毛衣造型",
       "onboard_time": 1680006027,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 354766,
+      "num": 354766,
+      "word": "小S模仿二女儿讲英语",
+      "onboard_time": 1680091768,
+      "rank": 16,
+      "category": "艺人,综艺"
     },
     {
       "raw_hot": 354032,
@@ -2707,14 +2747,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 326494,
-      "num": 326494,
-      "word": "小S模仿二女儿讲英语",
-      "onboard_time": 1680091768,
-      "rank": 16,
-      "category": "艺人,综艺"
-    },
-    {
       "raw_hot": 326394,
       "num": 326394,
       "word": "万亩树木被煤矿断水面临枯死",
@@ -2825,6 +2857,14 @@
       "onboard_time": 1679839769,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 307547,
+      "num": 279393,
+      "word": "李沁卷毛",
+      "onboard_time": 1680090448,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 306721,
@@ -2995,6 +3035,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 292556,
+      "num": 208959,
+      "word": "爱情而已和二十不惑梦幻联动",
+      "onboard_time": 1680093748,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 291220,
       "num": 291220,
       "word": "村BA冠军争夺战因降雨推迟",
@@ -3041,14 +3089,6 @@
       "onboard_time": 1679890540,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 287842,
-      "num": 279393,
-      "word": "李沁卷毛",
-      "onboard_time": 1680090448,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 287713,
@@ -3307,14 +3347,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 264682,
-      "num": 208959,
-      "word": "爱情而已和二十不惑梦幻联动",
-      "onboard_time": 1680093748,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 264203,
       "num": 264203,
       "word": "陈妍希对异地恋的极限是一个月",
@@ -3531,14 +3563,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 246103,
-      "num": 186553,
-      "word": "王鹤棣或将要拍电影",
-      "onboard_time": 1680094466,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 245822,
       "num": 230868,
       "word": "半熟恋人2",
@@ -3577,6 +3601,14 @@
       "onboard_time": 1680008907,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 241119,
+      "num": 241119,
+      "word": "8成投票网友支持孙国友女儿继承父业",
+      "onboard_time": 1680095367,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 240765,
@@ -5451,6 +5483,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 137200,
+      "num": 124091,
+      "word": "巧珍错付高加林",
+      "onboard_time": 1680094888,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 137005,
       "num": 137005,
       "word": "爱不爱喝茶的看完都沉默了",
@@ -5721,6 +5761,14 @@
       "onboard_time": 1680055646,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 120907,
+      "num": 120907,
+      "word": "小时候最爱看的广告找到了",
+      "onboard_time": 1680094285,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 120765,
@@ -6483,20 +6531,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 49942,
+      "num": 1205311,
+      "word": "天宫放心飞天地保障永相随",
+      "onboard_time": 1680092487,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 46843,
       "num": 339916,
       "word": "汤唯海边大片",
       "onboard_time": 1679893238,
       "rank": 14,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 44083,
-      "num": 1205311,
-      "word": "天宫放心飞天地保障永相随",
-      "onboard_time": 1680092487,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 44025,
