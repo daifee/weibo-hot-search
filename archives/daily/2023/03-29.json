@@ -1,7 +1,23 @@
 {
   "startTime": 1680022234432,
-  "endTime": 1680071807803,
+  "endTime": 1680074210935,
   "band_list": [
+    {
+      "raw_hot": 12970403,
+      "num": 14220403,
+      "word": "佛山地震",
+      "onboard_time": 1680073771,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6923201,
+      "num": 6923201,
+      "word": "广州震感",
+      "onboard_time": 1680073890,
+      "rank": 1,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2998077,
       "num": 613711,
@@ -83,6 +99,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1473345,
+      "num": 1473345,
+      "word": "欧阳震华",
+      "onboard_time": 1680069088,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1437681,
       "num": 1437681,
       "word": "孙毓敏去世",
@@ -91,11 +115,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1417460,
-      "num": 1417460,
-      "word": "欧阳震华",
-      "onboard_time": 1680069088,
-      "rank": 3,
+      "raw_hot": 1315741,
+      "num": 1096752,
+      "word": "ZIFEIWANG 都美竹",
+      "onboard_time": 1680068488,
+      "rank": 4,
       "category": "艺人"
     },
     {
@@ -129,14 +153,6 @@
       "onboard_time": 1680060446,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1096752,
-      "num": 1096752,
-      "word": "ZIFEIWANG 都美竹",
-      "onboard_time": 1680068488,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 823509,
@@ -177,6 +193,22 @@
       "onboard_time": 1680016709,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 745600,
+      "num": 745600,
+      "word": "已灭绝猛犸象DNA被培育制成肉丸",
+      "onboard_time": 1680071188,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 744213,
+      "num": 744213,
+      "word": "高叶林雨申吻戏",
+      "onboard_time": 1680071667,
+      "rank": 32,
+      "category": "影视,艺人"
     },
     {
       "raw_hot": 736783,
@@ -307,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 524980,
+      "num": 524980,
+      "word": "乘风破浪4",
+      "onboard_time": 1680072387,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 511098,
       "num": 511098,
       "word": "汽车雷达在无人陵园内显示全是人影",
@@ -329,6 +369,22 @@
       "onboard_time": 1680053487,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 476408,
+      "num": 476408,
+      "word": "赵露思雨中撑伞视频",
+      "onboard_time": 1680073592,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 472497,
+      "num": 472497,
+      "word": "鞠婧祎祝绪丹同款吊带",
+      "onboard_time": 1680072986,
+      "rank": 12,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 458842,
@@ -427,6 +483,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 388454,
+      "num": 388454,
+      "word": "咖啡越做越离谱",
+      "onboard_time": 1680068067,
+      "rank": 17,
+      "category": "美食"
+    },
+    {
       "raw_hot": 385414,
       "num": 385414,
       "word": "唐嫣说我们的客栈嘉宾都很和谐",
@@ -499,12 +563,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 330219,
-      "num": 330219,
-      "word": "咖啡越做越离谱",
-      "onboard_time": 1680068067,
-      "rank": 17,
-      "category": "美食"
+      "raw_hot": 339527,
+      "num": 339527,
+      "word": "上海迪士尼疯狂动物城园区亮灯",
+      "onboard_time": 1680071128,
+      "rank": 42,
+      "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 335610,
+      "num": 307378,
+      "word": "大鹏称王一博热烈很燃很炸",
+      "onboard_time": 1680073829,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 326535,
@@ -707,6 +779,22 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 220797,
+      "num": 220797,
+      "word": "BoysPlanet新闻发布会",
+      "onboard_time": 1680073771,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 220374,
+      "num": 220374,
+      "word": "极目评林场主因煤矿断水下跪磕头",
+      "onboard_time": 1680074134,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 218318,
       "num": 218318,
       "word": "战机突发故障他凭感觉成功降落山东舰",
@@ -739,6 +827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 211853,
+      "num": 211853,
+      "word": "狗狗读懂了环卫工人的手势",
+      "onboard_time": 1680071968,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 211144,
       "num": 189727,
       "word": "刘浩存工作室发文没整容",
@@ -747,12 +843,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 209239,
-      "num": 173220,
-      "word": "已灭绝猛犸象DNA被培育制成肉丸",
-      "onboard_time": 1680071188,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 210486,
+      "num": 210486,
+      "word": "呼吁暂停训练比GPT4更强大的AI系统",
+      "onboard_time": 1680069689,
+      "rank": 34,
+      "category": "科技"
     },
     {
       "raw_hot": 208179,
@@ -795,12 +891,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 199871,
+      "num": 199871,
+      "word": "吴优乘风破浪4上班",
+      "onboard_time": 1680070706,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197477,
       "num": 197477,
       "word": "Faker传奇卡揭晓",
       "onboard_time": 1680069088,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 197285,
+      "num": 197285,
+      "word": "杨玏镜头下的江门",
+      "onboard_time": 1680073529,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 196814,
@@ -907,6 +1019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 181026,
+      "num": 181026,
+      "word": "微信尝试刷掌支付",
+      "onboard_time": 1680070650,
+      "rank": 47,
+      "category": "科技"
+    },
+    {
       "raw_hot": 176901,
       "num": 164588,
       "word": "终于知道炸串摊的秘密了",
@@ -931,36 +1051,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 171112,
-      "num": 171112,
-      "word": "高叶林雨申吻戏",
-      "onboard_time": 1680071667,
-      "rank": 32,
-      "category": "影视,艺人"
-    },
-    {
-      "raw_hot": 170414,
-      "num": 171659,
-      "word": "呼吁暂停训练比GPT4更强大的AI系统",
-      "onboard_time": 1680069689,
-      "rank": 34,
-      "category": "科技"
-    },
-    {
       "raw_hot": 170100,
       "num": 134143,
       "word": "杨紫跳舞视频",
       "onboard_time": 1680017609,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 168689,
-      "num": 168689,
-      "word": "微信尝试刷掌支付",
-      "onboard_time": 1680070650,
-      "rank": 47,
-      "category": "科技"
     },
     {
       "raw_hot": 168586,
@@ -1067,6 +1163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 153922,
+      "num": 153922,
+      "word": "减小肚子试试这个动作",
+      "onboard_time": 1680073106,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 151471,
       "num": 151471,
       "word": "黄旭直播吐槽说唱巅峰红毯图",
@@ -1171,14 +1275,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 124425,
-      "num": 124425,
-      "word": "上海迪士尼疯狂动物城园区亮灯",
-      "onboard_time": 1680071128,
-      "rank": 42,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 123514,
       "num": 123514,
       "word": "肠胃瞬间通畅了",
@@ -1201,6 +1297,14 @@
       "onboard_time": 1680055406,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121327,
+      "num": 121327,
+      "word": "微软推出SecurityCopilot",
+      "onboard_time": 1680073529,
+      "rank": 47,
+      "category": "科技"
     },
     {
       "raw_hot": 120932,
@@ -1372,7 +1476,7 @@
     },
     {
       "raw_hot": 67586,
-      "num": 1529402,
+      "num": 4217068,
       "word": "充分发挥市场在资源配置中的决定性作用",
       "onboard_time": 1680059666,
       "rank": 2,
@@ -1473,6 +1577,14 @@
       "onboard_time": 1680003030,
       "rank": 48,
       "category": "科技,影视"
+    },
+    {
+      "raw_hot": 7948,
+      "num": 144369,
+      "word": "哥哥纪念演唱会淘宝独播",
+      "onboard_time": 1680073227,
+      "rank": 39,
+      "category": "音乐"
     }
   ],
   "hotgov_list": [
