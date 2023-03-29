@@ -1,6 +1,6 @@
 {
   "startTime": 1680022234432,
-  "endTime": 1680071002622,
+  "endTime": 1680071807803,
   "band_list": [
     {
       "raw_hot": 2998077,
@@ -19,8 +19,8 @@
       "category": "科技"
     },
     {
-      "raw_hot": 2283523,
-      "num": 2283523,
+      "raw_hot": 2317587,
+      "num": 2317587,
       "word": "钟薛高推出3.5元雪糕",
       "onboard_time": 1680067229,
       "rank": 8,
@@ -131,8 +131,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 981046,
-      "num": 981046,
+      "raw_hot": 1096752,
+      "num": 1096752,
       "word": "ZIFEIWANG 都美竹",
       "onboard_time": 1680068488,
       "rank": 4,
@@ -193,6 +193,14 @@
       "onboard_time": 1680061887,
       "rank": 8,
       "category": "科技"
+    },
+    {
+      "raw_hot": 703859,
+      "num": 703859,
+      "word": "美反华势力为遏制中国发展不惜毁灭台湾",
+      "onboard_time": 1680069509,
+      "rank": 5,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 668623,
@@ -259,20 +267,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 605160,
+      "num": 605160,
+      "word": "双马一矿回应林地供水问题",
+      "onboard_time": 1680070227,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 604802,
       "num": 391284,
       "word": "女子离婚遭婆婆索要10万带孙费",
       "onboard_time": 1680055465,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 592195,
-      "num": 592195,
-      "word": "美反华势力为遏制中国发展不惜毁灭台湾",
-      "onboard_time": 1680069509,
-      "rank": 5,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 581935,
@@ -324,7 +332,7 @@
     },
     {
       "raw_hot": 458842,
-      "num": 346453,
+      "num": 390485,
       "word": "湖南暂停与渤海银行资金监管合作",
       "onboard_time": 1680068845,
       "rank": 11,
@@ -377,6 +385,14 @@
       "onboard_time": 1680050669,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 415356,
+      "num": 415356,
+      "word": "吴优浪姐上班",
+      "onboard_time": 1680070706,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 413059,
@@ -467,14 +483,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 349393,
-      "num": 349393,
-      "word": "吴优浪姐上班",
-      "onboard_time": 1680070706,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 346918,
       "num": 346918,
       "word": "张杰说喜欢和陈粒对唱的哭砂",
@@ -483,20 +491,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 344901,
-      "num": 344901,
-      "word": "双马一矿回应林地供水问题",
-      "onboard_time": 1680070227,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 344445,
       "num": 344445,
       "word": "徐艺洋戴玲娜贝儿帽子",
       "onboard_time": 1680058886,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 330219,
+      "num": 330219,
+      "word": "咖啡越做越离谱",
+      "onboard_time": 1680068067,
+      "rank": 17,
+      "category": "美食"
     },
     {
       "raw_hot": 326535,
@@ -577,14 +585,6 @@
       "onboard_time": 1680059607,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 281668,
-      "num": 281668,
-      "word": "咖啡越做越离谱",
-      "onboard_time": 1680068067,
-      "rank": 17,
-      "category": "美食"
     },
     {
       "raw_hot": 281089,
@@ -691,6 +691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 226490,
+      "num": 226490,
+      "word": "INTO1出发泰国演唱会机场路透",
+      "onboard_time": 1680070886,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 222260,
       "num": 222260,
       "word": "中超公司原总经理董铮被查",
@@ -739,12 +747,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 208979,
-      "num": 208979,
-      "word": "INTO1出发泰国演唱会机场路透",
-      "onboard_time": 1680070886,
-      "rank": 27,
-      "category": "作品衍生"
+      "raw_hot": 209239,
+      "num": 173220,
+      "word": "已灭绝猛犸象DNA被培育制成肉丸",
+      "onboard_time": 1680071188,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 208179,
@@ -809,6 +817,14 @@
       "onboard_time": 1680017486,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 196264,
+      "num": 196264,
+      "word": "德班世乒赛选拔赛",
+      "onboard_time": 1680071607,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 195934,
@@ -915,12 +931,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 171112,
+      "num": 171112,
+      "word": "高叶林雨申吻戏",
+      "onboard_time": 1680071667,
+      "rank": 32,
+      "category": "影视,艺人"
+    },
+    {
+      "raw_hot": 170414,
+      "num": 171659,
+      "word": "呼吁暂停训练比GPT4更强大的AI系统",
+      "onboard_time": 1680069689,
+      "rank": 34,
+      "category": "科技"
+    },
+    {
       "raw_hot": 170100,
       "num": 134143,
       "word": "杨紫跳舞视频",
       "onboard_time": 1680017609,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 168689,
+      "num": 168689,
+      "word": "微信尝试刷掌支付",
+      "onboard_time": 1680070650,
+      "rank": 47,
+      "category": "科技"
     },
     {
       "raw_hot": 168586,
@@ -937,14 +977,6 @@
       "onboard_time": 1679997149,
       "rank": 35,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 166932,
-      "num": 166932,
-      "word": "呼吁暂停训练比GPT4更强大的AI系统",
-      "onboard_time": 1680069689,
-      "rank": 34,
-      "category": "科技"
     },
     {
       "raw_hot": 166723,
@@ -1001,6 +1033,14 @@
       "onboard_time": 1679993668,
       "rank": 27,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 161910,
+      "num": 161910,
+      "word": "渤海银行回应与湖南暂停资金监管合作",
+      "onboard_time": 1680071427,
+      "rank": 36,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 156817,
@@ -1131,6 +1171,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 124425,
+      "num": 124425,
+      "word": "上海迪士尼疯狂动物城园区亮灯",
+      "onboard_time": 1680071128,
+      "rank": 42,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 123514,
       "num": 123514,
       "word": "肠胃瞬间通畅了",
@@ -1193,14 +1241,6 @@
       "onboard_time": 1680000871,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 112064,
-      "num": 112064,
-      "word": "微信尝试刷掌支付",
-      "onboard_time": 1680070650,
-      "rank": 47,
-      "category": "科技"
     },
     {
       "raw_hot": 111521,

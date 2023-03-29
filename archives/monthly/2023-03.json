@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1680071002622,
+  "endTime": 1680071807803,
   "band_list": [
     {
       "raw_hot": 27113842,
@@ -1227,8 +1227,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2283523,
-      "num": 2283523,
+      "raw_hot": 2317587,
+      "num": 2317587,
       "word": "钟薛高推出3.5元雪糕",
       "onboard_time": 1680067229,
       "rank": 8,
@@ -5843,6 +5843,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1096752,
+      "num": 1096752,
+      "word": "ZIFEIWANG 都美竹",
+      "onboard_time": 1680068488,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1095991,
       "num": 417394,
       "word": "王者荣耀进不去",
@@ -7232,14 +7240,6 @@
       "word": "杨超越把宠物送养了",
       "onboard_time": 1679217626,
       "rank": 12,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 981046,
-      "num": 981046,
-      "word": "ZIFEIWANG 都美竹",
-      "onboard_time": 1680068488,
-      "rank": 4,
       "category": "艺人"
     },
     {
@@ -11779,6 +11779,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 703859,
+      "num": 703859,
+      "word": "美反华势力为遏制中国发展不惜毁灭台湾",
+      "onboard_time": 1680069509,
+      "rank": 5,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 703742,
       "num": 464337,
       "word": "泫雅林允合影",
@@ -14403,6 +14411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 605160,
+      "num": 605160,
+      "word": "双马一矿回应林地供水问题",
+      "onboard_time": 1680070227,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 605128,
       "num": 605128,
       "word": "杨紫长相思落泪22次",
@@ -14785,14 +14801,6 @@
       "onboard_time": 1678283007,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 592195,
-      "num": 592195,
-      "word": "美反华势力为遏制中国发展不惜毁灭台湾",
-      "onboard_time": 1680069509,
-      "rank": 5,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 591748,
@@ -19996,7 +20004,7 @@
     },
     {
       "raw_hot": 458842,
-      "num": 346453,
+      "num": 390485,
       "word": "湖南暂停与渤海银行资金监管合作",
       "onboard_time": 1680068845,
       "rank": 11,
@@ -22001,6 +22009,14 @@
       "onboard_time": 1679043872,
       "rank": 19,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 415356,
+      "num": 415356,
+      "word": "吴优浪姐上班",
+      "onboard_time": 1680070706,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 415222,
@@ -25771,14 +25787,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 349393,
-      "num": 349393,
-      "word": "吴优浪姐上班",
-      "onboard_time": 1680070706,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 349122,
       "num": 349122,
       "word": "文东恩河道英策划全在俊的死",
@@ -26089,14 +26097,6 @@
       "onboard_time": 1679983229,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 344901,
-      "num": 344901,
-      "word": "双马一矿回应林地供水问题",
-      "onboard_time": 1680070227,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 344656,
@@ -27049,6 +27049,14 @@
       "onboard_time": 1678870105,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 330219,
+      "num": 330219,
+      "word": "咖啡越做越离谱",
+      "onboard_time": 1680068067,
+      "rank": 17,
+      "category": "美食"
     },
     {
       "raw_hot": 330194,
@@ -30601,14 +30609,6 @@
       "onboard_time": 1677932605,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 281668,
-      "num": 281668,
-      "word": "咖啡越做越离谱",
-      "onboard_time": 1680068067,
-      "rank": 17,
-      "category": "美食"
     },
     {
       "raw_hot": 281647,
@@ -35843,6 +35843,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 226490,
+      "num": 226490,
+      "word": "INTO1出发泰国演唱会机场路透",
+      "onboard_time": 1680070886,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 226471,
       "num": 2843138,
       "word": "全国两会时光",
@@ -37979,6 +37987,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 209239,
+      "num": 173220,
+      "word": "已灭绝猛犸象DNA被培育制成肉丸",
+      "onboard_time": 1680071188,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 209232,
       "num": 209232,
       "word": "傅韵哲参加北电三试",
@@ -38009,14 +38025,6 @@
       "onboard_time": 1678102286,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 208979,
-      "num": 208979,
-      "word": "INTO1出发泰国演唱会机场路透",
-      "onboard_time": 1680070886,
-      "rank": 27,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 208959,
@@ -41073,6 +41081,14 @@
       "onboard_time": 1679147972,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 196264,
+      "num": 196264,
+      "word": "德班世乒赛选拔赛",
+      "onboard_time": 1680071607,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 196162,
@@ -45571,6 +45587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171112,
+      "num": 171112,
+      "word": "高叶林雨申吻戏",
+      "onboard_time": 1680071667,
+      "rank": 32,
+      "category": "影视,艺人"
+    },
+    {
       "raw_hot": 171103,
       "num": 171103,
       "word": "BLACKPINK演唱会彩排退场方式",
@@ -45649,6 +45673,14 @@
       "onboard_time": 1678276831,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 170414,
+      "num": 171659,
+      "word": "呼吁暂停训练比GPT4更强大的AI系统",
+      "onboard_time": 1680069689,
+      "rank": 34,
+      "category": "科技"
     },
     {
       "raw_hot": 170371,
@@ -45995,6 +46027,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 168689,
+      "num": 168689,
+      "word": "微信尝试刷掌支付",
+      "onboard_time": 1680070650,
+      "rank": 47,
+      "category": "科技"
+    },
+    {
       "raw_hot": 168667,
       "num": 168667,
       "word": "刘诗诗米兰时装周采访视频",
@@ -46257,14 +46297,6 @@
       "onboard_time": 1679400507,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 166932,
-      "num": 166932,
-      "word": "呼吁暂停训练比GPT4更强大的AI系统",
-      "onboard_time": 1680069689,
-      "rank": 34,
-      "category": "科技"
     },
     {
       "raw_hot": 166870,
@@ -46857,6 +46889,14 @@
       "onboard_time": 1679320651,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 161910,
+      "num": 161910,
+      "word": "渤海银行回应与湖南暂停资金监管合作",
+      "onboard_time": 1680071427,
+      "rank": 36,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 161907,
@@ -52427,6 +52467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124425,
+      "num": 124425,
+      "word": "上海迪士尼疯狂动物城园区亮灯",
+      "onboard_time": 1680071128,
+      "rank": 42,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 124348,
       "num": 124348,
       "word": "你抗拒上班到什么地步",
@@ -53961,14 +54009,6 @@
       "onboard_time": 1677988946,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 112064,
-      "num": 112064,
-      "word": "微信尝试刷掌支付",
-      "onboard_time": 1680070650,
-      "rank": 47,
-      "category": "科技"
     },
     {
       "raw_hot": 111876,
