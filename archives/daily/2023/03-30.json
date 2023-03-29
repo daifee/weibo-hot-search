@@ -1,6 +1,6 @@
 {
   "startTime": 1680110195849,
-  "endTime": 1680114420837,
+  "endTime": 1680115215334,
   "band_list": [
     {
       "raw_hot": 755665,
@@ -441,6 +441,14 @@
       "onboard_time": 1680099689,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 21474,
+      "num": 21474,
+      "word": "跪求供水事件协商暂无进展",
+      "onboard_time": 1680097228,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 12180,
