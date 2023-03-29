@@ -1,0 +1,410 @@
+{
+  "runTime": 1680094598651,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2340683,
+        "num": 2340683,
+        "word": "千万不要侧躺玩手机",
+        "onboard_time": 1680087326,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1339744,
+        "num": 1339744,
+        "word": "谢娜瘦二十斤综艺回归首秀",
+        "onboard_time": 1680084387,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44083,
+        "num": 1156368,
+        "word": "天宫放心飞天地保障永相随",
+        "onboard_time": 1680092487,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1150287,
+        "num": 1150287,
+        "word": "刘宪华 南京",
+        "onboard_time": 1680091888,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 847349,
+        "num": 847349,
+        "word": "男子求复合在女生公司外跪一夜",
+        "onboard_time": 1680083609,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 682043,
+        "num": 682043,
+        "word": "关晓彤是听到了什么",
+        "onboard_time": 1680082767,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 606465,
+        "num": 606465,
+        "word": "上班暂停一下 我去读幼儿园",
+        "onboard_time": 1680086247,
+        "rank": 6,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 592006,
+        "num": 592006,
+        "word": "他是谁割喉案凶手锁定",
+        "onboard_time": 1680091466,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 565026,
+        "num": 565026,
+        "word": "市领导回应林场主跪地求供水",
+        "onboard_time": 1680084508,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 492331,
+        "num": 492331,
+        "word": "江西中医药大学回应女厕有人偷拍",
+        "onboard_time": 1680091588,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 437697,
+        "num": 437697,
+        "word": "肖战欧洲街头vlog",
+        "onboard_time": 1680090929,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 400998,
+        "num": 400998,
+        "word": "时代少年团微博之夜走秀彩排视频",
+        "onboard_time": 1680093930,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 362728,
+        "num": 362728,
+        "word": "胡歌唐嫣新剧同框",
+        "onboard_time": 1680085588,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 350123,
+        "num": 350123,
+        "word": "裸辞真的是很幼稚的行为吗",
+        "onboard_time": 1680078148,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 329274,
+        "num": 329274,
+        "word": "毛晓彤说原生家庭只是底色",
+        "onboard_time": 1680089787,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 328430,
+        "num": 328430,
+        "word": "聂小雨好惨",
+        "onboard_time": 1680086008,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 326494,
+        "num": 326494,
+        "word": "小S模仿二女儿讲英语",
+        "onboard_time": 1680091768,
+        "rank": 16,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 322912,
+        "num": 322912,
+        "word": "中国神华回应",
+        "onboard_time": 1680084689,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243751,
+        "num": 243751,
+        "word": "孙国友女儿晒供水协议",
+        "onboard_time": 1680084627,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225206,
+        "num": 225206,
+        "word": "广州城俱乐部宣布暂停运营",
+        "onboard_time": 1680088467,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 287842,
+        "num": 217337,
+        "word": "李沁卷毛",
+        "onboard_time": 1680090448,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276516,
+        "num": 212411,
+        "word": "看中医时千万不要化妆",
+        "onboard_time": 1680087689,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 264682,
+        "num": 208959,
+        "word": "爱情而已和二十不惑梦幻联动",
+        "onboard_time": 1680093748,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 196929,
+        "num": 196929,
+        "word": "五菱缤果售价59800元起",
+        "onboard_time": 1680093508,
+        "rank": 23,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 190747,
+        "num": 190747,
+        "word": "广州地铁不强制要求佩戴口罩",
+        "onboard_time": 1680081688,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255089,
+        "num": 189510,
+        "word": "黑马情侣 剧本",
+        "onboard_time": 1680075812,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 249212,
+        "num": 188436,
+        "word": "吴磊吃四层巨型汉堡",
+        "onboard_time": 1680091108,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 246103,
+        "num": 186553,
+        "word": "王鹤棣或将要拍电影",
+        "onboard_time": 1680094466,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 182769,
+        "num": 182769,
+        "word": "双马煤矿曾违法占用孙国友林地",
+        "onboard_time": 1680092667,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154033,
+        "num": 154033,
+        "word": "佛山地震",
+        "onboard_time": 1680073771,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237855,
+        "num": 153096,
+        "word": "宁静请萌探3工作人员喝奶茶",
+        "onboard_time": 1680093328,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217503,
+        "num": 152837,
+        "word": "内娱男菩萨图鉴",
+        "onboard_time": 1680083247,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 174969,
+        "num": 152444,
+        "word": "张雨绮录恋综哭了",
+        "onboard_time": 1680092426,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151334,
+        "num": 151334,
+        "word": "忘崽牛奶",
+        "onboard_time": 1680082107,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141378,
+        "num": 141378,
+        "word": "大熊猫避雨顾头不顾尾",
+        "onboard_time": 1680082646,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 170076,
+        "num": 141338,
+        "word": "黄礼志给中国游客当导购",
+        "onboard_time": 1680086668,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142209,
+        "num": 141331,
+        "word": "陈妍希对异地恋的极限是一个月",
+        "onboard_time": 1680088949,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141289,
+        "num": 141289,
+        "word": "钟薛高推出3.5元雪糕",
+        "onboard_time": 1680067229,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139345,
+        "num": 139345,
+        "word": "NMIXX初一位",
+        "onboard_time": 1680085709,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35100,
+        "num": 138365,
+        "word": "TVB艺人组团上淘宝直播带货",
+        "onboard_time": 1680091225,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138107,
+        "num": 138107,
+        "word": "理想回应雷达在无人陵园显示全是人",
+        "onboard_time": 1680075691,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134302,
+        "num": 134302,
+        "word": "欧阳震华",
+        "onboard_time": 1680069088,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125127,
+        "num": 125127,
+        "word": "RNG Tabe都争取不回来",
+        "onboard_time": 1680076410,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 117183,
+        "num": 117183,
+        "word": "萌探3",
+        "onboard_time": 1680086609,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114167,
+        "num": 114167,
+        "word": "伊能静方媛同框",
+        "onboard_time": 1680083367,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109555,
+        "num": 109555,
+        "word": "对室友好感就是这样消失的",
+        "onboard_time": 1680078449,
+        "rank": 45,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 107427,
+        "num": 107427,
+        "word": "红叶蛋糕",
+        "onboard_time": 1680086847,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 103467,
+        "num": 103467,
+        "word": "广州震感",
+        "onboard_time": 1680073890,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102250,
+        "num": 102250,
+        "word": "程志",
+        "onboard_time": 1680094348,
+        "rank": 48,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 96943,
+        "num": 96943,
+        "word": "谁家熊猫这样吃竹子",
+        "onboard_time": 1680079528,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#树立正确的理想信念学会正确的思维方法#"
+    }
+  }
+}
