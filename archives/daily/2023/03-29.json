@@ -1,6 +1,6 @@
 {
   "startTime": 1680022234432,
-  "endTime": 1680075230040,
+  "endTime": 1680078208347,
   "band_list": [
     {
       "raw_hot": 12970403,
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1582017,
+      "num": 1582017,
+      "word": "黑马情侣 剧本",
+      "onboard_time": 1680075812,
+      "rank": 1,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1548702,
       "num": 1548702,
       "word": "武汉一高校回应老人82元只买到俩素菜",
@@ -147,6 +155,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1151126,
+      "num": 1151126,
+      "word": "南航",
+      "onboard_time": 1680074972,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1102066,
       "num": 1102066,
       "word": "霍建华或将参演玫瑰的故事",
@@ -155,12 +171,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 927888,
+      "num": 927888,
+      "word": "肖战黑粉写道歉信",
+      "onboard_time": 1680077309,
+      "rank": 5,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 886726,
       "num": 886726,
       "word": "已灭绝猛犸象DNA被培育制成肉丸",
       "onboard_time": 1680071188,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 872413,
+      "num": 872413,
+      "word": "徐艺洋说不会为了爱情放弃事业",
+      "onboard_time": 1680074793,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 823509,
@@ -241,14 +273,6 @@
       "onboard_time": 1680069509,
       "rank": 5,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 694932,
-      "num": 694932,
-      "word": "徐艺洋说不会为了爱情放弃事业",
-      "onboard_time": 1680074793,
-      "rank": 9,
-      "category": "综艺"
     },
     {
       "raw_hot": 668623,
@@ -347,8 +371,16 @@
       "category": "科技"
     },
     {
+      "raw_hot": 533036,
+      "num": 533036,
+      "word": "RNG Tabe都争取不回来",
+      "onboard_time": 1680076410,
+      "rank": 11,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 532012,
-      "num": 224241,
+      "num": 423480,
       "word": "贴吧崩了",
       "onboard_time": 1680074733,
       "rank": 30,
@@ -395,6 +427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 479698,
+      "num": 479698,
+      "word": "刘惜君录制乘风破浪4出发路透",
+      "onboard_time": 1680077907,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 476408,
       "num": 476408,
       "word": "赵露思雨中撑伞视频",
@@ -417,6 +457,14 @@
       "onboard_time": 1680068845,
       "rank": 11,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 457862,
+      "num": 457862,
+      "word": "理想回应雷达在无人陵园显示全是人",
+      "onboard_time": 1680075691,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 455416,
@@ -691,12 +739,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 284556,
+      "num": 284556,
+      "word": "美校长展示大卫雕像遭家长投诉色情",
+      "onboard_time": 1680074856,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 281089,
       "num": 210626,
       "word": "唯品会崩了",
       "onboard_time": 1680054446,
       "rank": 30,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 279955,
+      "num": 279955,
+      "word": "别想在我身上学到半点中文",
+      "onboard_time": 1680074913,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 274726,
@@ -713,6 +777,14 @@
       "onboard_time": 1680063569,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 272884,
+      "num": 272884,
+      "word": "吴磊女装再加一",
+      "onboard_time": 1680076112,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 267567,
@@ -819,6 +891,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 223707,
+      "num": 223707,
+      "word": "17岁南京功勋犬小虎去世",
+      "onboard_time": 1680075454,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 222260,
       "num": 222260,
       "word": "中超公司原总经理董铮被查",
@@ -843,12 +923,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 219211,
-      "num": 219211,
-      "word": "南航",
-      "onboard_time": 1680074972,
-      "rank": 31,
-      "category": "社会新闻"
+      "raw_hot": 219991,
+      "num": 219991,
+      "word": "彭小苒捂脸哭戏",
+      "onboard_time": 1680076710,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 218318,
@@ -883,12 +963,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 214220,
-      "num": 214220,
-      "word": "美校长展示大卫雕像遭家长投诉色情",
-      "onboard_time": 1680074856,
-      "rank": 32,
-      "category": "社会新闻"
+      "raw_hot": 212035,
+      "num": 212035,
+      "word": "减小肚子试试这个动作",
+      "onboard_time": 1680073106,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 211144,
@@ -905,6 +985,14 @@
       "onboard_time": 1680069689,
       "rank": 34,
       "category": "科技"
+    },
+    {
+      "raw_hot": 209727,
+      "num": 209727,
+      "word": "谢铜去世",
+      "onboard_time": 1680074496,
+      "rank": 34,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 208179,
@@ -987,14 +1075,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 196740,
-      "num": 196740,
-      "word": "谢铜去世",
-      "onboard_time": 1680074496,
-      "rank": 34,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 196555,
       "num": 188519,
       "word": "张智霖袁咏仪窦骁何超莲同框",
@@ -1024,14 +1104,6 @@
       "word": "勇士战胜鹈鹕",
       "onboard_time": 1680067527,
       "rank": 33,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 194725,
-      "num": 194725,
-      "word": "减小肚子试试这个动作",
-      "onboard_time": 1680073106,
-      "rank": 37,
       "category": "体育"
     },
     {
@@ -1153,14 +1225,6 @@
       "onboard_time": 1679997149,
       "rank": 35,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 166789,
-      "num": 166789,
-      "word": "别想在我身上学到半点中文",
-      "onboard_time": 1680074913,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 166723,
@@ -1323,6 +1387,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 132005,
+      "num": 132005,
+      "word": "aespa演唱苹果原创电影OST",
+      "onboard_time": 1680076053,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 128678,
       "num": 128678,
       "word": "双马煤矿曾无证取水被罚8万",
@@ -1419,6 +1491,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 113586,
+      "num": 113586,
+      "word": "抠门和会过日子是两码事",
+      "onboard_time": 1680077491,
+      "rank": 47,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 112337,
       "num": 112337,
       "word": "肖战坐姿仪态",
@@ -1443,12 +1523,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 107484,
+      "num": 107484,
+      "word": "裸辞真的是很幼稚的行为吗",
+      "onboard_time": 1680078148,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 106348,
       "num": 106348,
       "word": "孙国友",
       "onboard_time": 1680049049,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105212,
+      "num": 105212,
+      "word": "无畏的八字眉压制",
+      "onboard_time": 1680076172,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 97493,
