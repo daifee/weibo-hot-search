@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1680081505647,
+  "endTime": 1680082438296,
   "band_list": [
     {
       "raw_hot": 12970403,
@@ -155,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2139795,
+      "num": 2139795,
+      "word": "裸辞真的是很幼稚的行为吗",
+      "onboard_time": 1680078148,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 2053659,
       "num": 2053659,
       "word": "瑞幸被吐槽咖啡3口喝完剩下全是冰",
@@ -249,14 +257,6 @@
       "onboard_time": 1679892700,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1704092,
-      "num": 1704092,
-      "word": "裸辞真的是很幼稚的行为吗",
-      "onboard_time": 1680078148,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 1691802,
@@ -1283,6 +1283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 599194,
+      "num": 599194,
+      "word": "对室友好感就是这样消失的",
+      "onboard_time": 1680078449,
+      "rank": 39,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 598451,
       "num": 598451,
       "word": "王心凌最受不了别人叫她不要熬夜",
@@ -1361,6 +1369,14 @@
       "onboard_time": 1680057987,
       "rank": 31,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 579300,
+      "num": 579300,
+      "word": "薛之谦巡演武汉站双场同步开售",
+      "onboard_time": 1680080428,
+      "rank": 18,
+      "category": "音乐"
     },
     {
       "raw_hot": 579002,
@@ -1609,14 +1625,6 @@
       "onboard_time": 1679899830,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 495960,
-      "num": 495960,
-      "word": "对室友好感就是这样消失的",
-      "onboard_time": 1680078449,
-      "rank": 39,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 493219,
@@ -2187,6 +2195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 376281,
+      "num": 376281,
+      "word": "艺率不知道黑暗荣耀具体剧情",
+      "onboard_time": 1680080788,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 376097,
       "num": 376097,
       "word": "张大大是去要签名照了吧",
@@ -2499,14 +2515,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 325272,
-      "num": 325272,
-      "word": "艺率不知道黑暗荣耀具体剧情",
-      "onboard_time": 1680080788,
-      "rank": 15,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 324516,
       "num": 324516,
       "word": "村BA总冠军诞生",
@@ -2529,6 +2537,14 @@
       "onboard_time": 1679993366,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 322555,
+      "num": 270507,
+      "word": "谁家熊猫这样吃竹子",
+      "onboard_time": 1680079528,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 322247,
@@ -2595,14 +2611,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 307765,
-      "num": 267517,
-      "word": "谁家熊猫这样吃竹子",
-      "onboard_time": 1680079528,
-      "rank": 20,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 306721,
       "num": 306721,
       "word": "笑点低的人连结婚都在笑场",
@@ -2633,6 +2641,14 @@
       "onboard_time": 1679960422,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 304767,
+      "num": 304767,
+      "word": "马英九凭吊南京大屠杀遇难同胞",
+      "onboard_time": 1680081869,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 304287,
@@ -2937,14 +2953,6 @@
       "onboard_time": 1680076112,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 272538,
-      "num": 272538,
-      "word": "薛之谦巡演武汉站双场同步开售",
-      "onboard_time": 1680080428,
-      "rank": 18,
-      "category": "音乐"
     },
     {
       "raw_hot": 271732,
@@ -3331,6 +3339,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 237115,
+      "num": 237115,
+      "word": "广州地铁不强制要求佩戴口罩",
+      "onboard_time": 1680081688,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 237009,
+      "num": 237009,
+      "word": "黄景瑜黄明昊严浩翔录制路透",
+      "onboard_time": 1680082407,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 235379,
       "num": 213240,
       "word": "郑秀妍紫色拖尾裙",
@@ -3449,6 +3473,14 @@
       "onboard_time": 1679993248,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 225905,
+      "num": 225905,
+      "word": "钟薛高已申请SASAA商标",
+      "onboard_time": 1680079105,
+      "rank": 29,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 224284,
@@ -3873,6 +3905,14 @@
       "onboard_time": 1679896412,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 200041,
+      "num": 200041,
+      "word": "超300亿倍太阳质量的黑洞现身",
+      "onboard_time": 1680081508,
+      "rank": 27,
+      "category": "科技"
     },
     {
       "raw_hot": 199904,
@@ -4379,14 +4419,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 178004,
-      "num": 178004,
-      "word": "钟薛高已申请SASAA商标",
-      "onboard_time": 1680079105,
-      "rank": 29,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 177509,
       "num": 177509,
       "word": "蔡卓妍是香港站巡回演唱会嘉宾",
@@ -4665,6 +4697,14 @@
       "onboard_time": 1679906371,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 160317,
+      "num": 160317,
+      "word": "忘崽牛奶",
+      "onboard_time": 1680082107,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 159882,
@@ -5163,6 +5203,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 129913,
+      "num": 129913,
+      "word": "电视节目欺骗狗狗的感情",
+      "onboard_time": 1680081026,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 129484,
       "num": 129484,
       "word": "贺峻霖为中传社团晚会送祝福",
@@ -5395,14 +5443,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 117474,
-      "num": 117474,
-      "word": "电视节目欺骗狗狗的感情",
-      "onboard_time": 1680081026,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 117164,
       "num": 117164,
       "word": "哈利波特的魔法惊喜",
@@ -5465,6 +5505,14 @@
       "onboard_time": 1680000329,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 112980,
+      "num": 112980,
+      "word": "心盲症",
+      "onboard_time": 1680082287,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 112371,

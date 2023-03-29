@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1680081505647,
+  "endTime": 1680082438296,
   "band_list": [
     {
       "raw_hot": 27113842,
@@ -1475,6 +1475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2139795,
+      "num": 2139795,
+      "word": "裸辞真的是很幼稚的行为吗",
+      "onboard_time": 1680078148,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 2139075,
       "num": 2139075,
       "word": "苏州机场",
@@ -2481,14 +2489,6 @@
       "onboard_time": 1678846765,
       "rank": 15,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 1704092,
-      "num": 1704092,
-      "word": "裸辞真的是很幼稚的行为吗",
-      "onboard_time": 1680078148,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 1702895,
@@ -14707,6 +14707,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 599194,
+      "num": 599194,
+      "word": "对室友好感就是这样消失的",
+      "onboard_time": 1680078449,
+      "rank": 39,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 599180,
       "num": 606195,
       "word": "流浪地球两部连映",
@@ -15273,6 +15281,14 @@
       "onboard_time": 1677766353,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 579300,
+      "num": 579300,
+      "word": "薛之谦巡演武汉站双场同步开售",
+      "onboard_time": 1680080428,
+      "rank": 18,
+      "category": "音乐"
     },
     {
       "raw_hot": 579136,
@@ -18449,14 +18465,6 @@
       "onboard_time": 1678416927,
       "rank": 25,
       "category": "游戏,影视"
-    },
-    {
-      "raw_hot": 495960,
-      "num": 495960,
-      "word": "对室友好感就是这样消失的",
-      "onboard_time": 1680078449,
-      "rank": 39,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 495956,
@@ -24195,6 +24203,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 376281,
+      "num": 376281,
+      "word": "艺率不知道黑暗荣耀具体剧情",
+      "onboard_time": 1680080788,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 376204,
       "num": 376204,
       "word": "TT战胜TES",
@@ -27555,14 +27571,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 325272,
-      "num": 325272,
-      "word": "艺率不知道黑暗荣耀具体剧情",
-      "onboard_time": 1680080788,
-      "rank": 15,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 325217,
       "num": 325217,
       "word": "急诊科唯一可以信的话",
@@ -27753,6 +27761,14 @@
       "onboard_time": 1677739225,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 322555,
+      "num": 270507,
+      "word": "谁家熊猫这样吃竹子",
+      "onboard_time": 1680079528,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 322444,
@@ -28827,14 +28843,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 307765,
-      "num": 267517,
-      "word": "谁家熊猫这样吃竹子",
-      "onboard_time": 1680079528,
-      "rank": 20,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 307733,
       "num": 307733,
       "word": "黑暗荣耀河艺率画报",
@@ -29104,6 +29112,14 @@
       "word": "巴奴下架富硒土豆",
       "onboard_time": 1678871066,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 304767,
+      "num": 304767,
+      "word": "马英九凭吊南京大屠杀遇难同胞",
+      "onboard_time": 1680081869,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -31609,14 +31625,6 @@
       "onboard_time": 1678849288,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 272538,
-      "num": 272538,
-      "word": "薛之谦巡演武汉站双场同步开售",
-      "onboard_time": 1680080428,
-      "rank": 18,
-      "category": "音乐"
     },
     {
       "raw_hot": 272467,
@@ -34811,12 +34819,28 @@
       "category": "影视,时尚"
     },
     {
+      "raw_hot": 237115,
+      "num": 237115,
+      "word": "广州地铁不强制要求佩戴口罩",
+      "onboard_time": 1680081688,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 237066,
       "num": 736995,
       "word": "AG菲菲",
       "onboard_time": 1679734012,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 237009,
+      "num": 237009,
+      "word": "黄景瑜黄明昊严浩翔录制路透",
+      "onboard_time": 1680082407,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 237002,
@@ -36177,6 +36201,14 @@
       "onboard_time": 1679393008,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 225905,
+      "num": 225905,
+      "word": "钟薛高已申请SASAA商标",
+      "onboard_time": 1680079105,
+      "rank": 29,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 225813,
@@ -40473,6 +40505,14 @@
       "onboard_time": 1678246169,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 200041,
+      "num": 200041,
+      "word": "超300亿倍太阳质量的黑洞现身",
+      "onboard_time": 1680081508,
+      "rank": 27,
+      "category": "科技"
     },
     {
       "raw_hot": 200015,
@@ -44891,14 +44931,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 178004,
-      "num": 178004,
-      "word": "钟薛高已申请SASAA商标",
-      "onboard_time": 1680079105,
-      "rank": 29,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 177984,
       "num": 177984,
       "word": "陈都灵云之羽蓝衣",
@@ -47505,6 +47537,14 @@
       "onboard_time": 1678364307,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 160317,
+      "num": 160317,
+      "word": "忘崽牛奶",
+      "onboard_time": 1680082107,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 160204,
@@ -52027,6 +52067,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 129913,
+      "num": 129913,
+      "word": "电视节目欺骗狗狗的感情",
+      "onboard_time": 1680081026,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 129832,
       "num": 129832,
       "word": "瞬息全宇宙奥斯卡最佳影片",
@@ -53683,14 +53731,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 117474,
-      "num": 117474,
-      "word": "电视节目欺骗狗狗的感情",
-      "onboard_time": 1680081026,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 117431,
       "num": 117431,
       "word": "澜星元皮肤",
@@ -54313,6 +54353,14 @@
       "onboard_time": 1678096106,
       "rank": 44,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 112980,
+      "num": 112980,
+      "word": "心盲症",
+      "onboard_time": 1680082287,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 112847,
