@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1680110860284,
+  "endTime": 1680113126452,
   "band_list": [
     {
       "raw_hot": 27113842,
@@ -59289,6 +59289,14 @@
       "onboard_time": 1677596564,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 47999,
+      "num": 47999,
+      "word": "半夜陪主人上厕所的狗狗",
+      "onboard_time": 1680107959,
+      "rank": 30,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 47896,

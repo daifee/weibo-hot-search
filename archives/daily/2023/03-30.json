@@ -1,6 +1,6 @@
 {
   "startTime": 1680110195849,
-  "endTime": 1680110860284,
+  "endTime": 1680113126452,
   "band_list": [
     {
       "raw_hot": 755665,
@@ -363,6 +363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 47999,
+      "num": 47999,
+      "word": "半夜陪主人上厕所的狗狗",
+      "onboard_time": 1680107959,
+      "rank": 30,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 47442,
       "num": 47442,
       "word": "黑马情侣 剧本",
@@ -409,6 +417,14 @@
       "onboard_time": 1680108319,
       "rank": 47,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 27183,
+      "num": 27183,
+      "word": "小S模仿二女儿讲英语",
+      "onboard_time": 1680091768,
+      "rank": 48,
+      "category": "艺人,综艺"
     },
     {
       "raw_hot": 12180,
