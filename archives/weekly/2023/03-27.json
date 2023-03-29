@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1680046453917,
+  "endTime": 1680053985024,
   "band_list": [
     {
       "raw_hot": 4718675,
@@ -17,6 +17,22 @@
       "onboard_time": 1679891142,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2998077,
+      "num": 613711,
+      "word": "微信朋友圈",
+      "onboard_time": 1680050309,
+      "rank": 5,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 2988685,
+      "num": 2988685,
+      "word": "微信QQ出现功能异常",
+      "onboard_time": 1680046523,
+      "rank": 0,
+      "category": "科技"
     },
     {
       "raw_hot": 2878051,
@@ -227,6 +243,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 1479602,
+      "num": 506832,
+      "word": "麻六记",
+      "onboard_time": 1680047966,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1454591,
       "num": 493211,
       "word": "林永健儿子12岁近照",
@@ -241,6 +265,14 @@
       "onboard_time": 1679887772,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1441976,
+      "num": 1441976,
+      "word": "美国众议院要让中国当发达国家",
+      "onboard_time": 1680051750,
+      "rank": 1,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 1437681,
@@ -739,6 +771,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 769070,
+      "num": 769070,
+      "word": "苏醒录跑男把膝盖扭了",
+      "onboard_time": 1680049109,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 758059,
       "num": 489154,
       "word": "孙坚晒约唐嫣喝咖啡vlog",
@@ -891,6 +931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 641037,
+      "num": 641037,
+      "word": "高中生用甘油自制护肤品养出大菌种",
+      "onboard_time": 1680048690,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 635168,
       "num": 550703,
       "word": "王俊凯喜欢日落的原因",
@@ -905,6 +953,14 @@
       "onboard_time": 1679920707,
       "rank": 8,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 627647,
+      "num": 255741,
+      "word": "28岁女子当七年全职女友惹争议",
+      "onboard_time": 1680049167,
+      "rank": 20,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 613068,
@@ -1051,6 +1107,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 570371,
+      "num": 418928,
+      "word": "腾讯回应微信异常",
+      "onboard_time": 1680052767,
+      "rank": 10,
+      "category": "科技"
+    },
+    {
       "raw_hot": 568825,
       "num": 568825,
       "word": "夫妻摆摊日入9千网友质疑让查税",
@@ -1185,6 +1249,14 @@
       "onboard_time": 1679992647,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 511098,
+      "num": 511098,
+      "word": "汽车雷达在无人陵园内显示全是人影",
+      "onboard_time": 1680045741,
+      "rank": 12,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 509624,
@@ -1491,6 +1563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 420670,
+      "num": 420670,
+      "word": "央媒评去有风的地方同款线路热卖",
+      "onboard_time": 1680050669,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 414925,
       "num": 414925,
       "word": "林高远",
@@ -1667,6 +1747,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 375749,
+      "num": 375749,
+      "word": "五月天26岁了",
+      "onboard_time": 1680048867,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 375550,
       "num": 375550,
       "word": "柯哀",
@@ -1681,6 +1769,14 @@
       "onboard_time": 1679909909,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 374535,
+      "num": 374535,
+      "word": "梅西帽子戏法",
+      "onboard_time": 1680052050,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 374415,
@@ -1705,6 +1801,14 @@
       "onboard_time": 1679882728,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 364499,
+      "num": 364499,
+      "word": "蒲熠星解开了我小学的困惑",
+      "onboard_time": 1680052947,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 360022,
@@ -1739,6 +1843,14 @@
       "category": "作品衍生,游戏"
     },
     {
+      "raw_hot": 352210,
+      "num": 247391,
+      "word": "男子伙同女友贩卖104部不雅视频",
+      "onboard_time": 1680048808,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 349122,
       "num": 349122,
       "word": "文东恩河道英策划全在俊的死",
@@ -1753,6 +1865,14 @@
       "onboard_time": 1679928755,
       "rank": 24,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 346918,
+      "num": 346918,
+      "word": "张杰说喜欢和陈粒对唱的哭砂",
+      "onboard_time": 1680048867,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 345373,
@@ -2291,6 +2411,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 259840,
+      "num": 259840,
+      "word": "阿根廷进攻火力太猛了",
+      "onboard_time": 1680052050,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 258417,
       "num": 258417,
       "word": "大侦探",
@@ -2443,12 +2571,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 243503,
+      "num": 243503,
+      "word": "还以为蒋雯丽要对明道说你是我的神",
+      "onboard_time": 1680053487,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 241968,
       "num": 241968,
       "word": "鲜虾豆腐煲",
       "onboard_time": 1680008907,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 241612,
+      "num": 241612,
+      "word": "专家回应大熊猫银柯身体情况",
+      "onboard_time": 1680050067,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 240765,
@@ -2867,6 +3011,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 200992,
+      "num": 200992,
+      "word": "战机突发故障他凭感觉成功降落山东舰",
+      "onboard_time": 1680052349,
+      "rank": 27,
+      "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 200796,
+      "num": 200796,
+      "word": "腾讯客服",
+      "onboard_time": 1680049288,
+      "rank": 28,
+      "category": "科技"
+    },
+    {
       "raw_hot": 200227,
       "num": 200227,
       "word": "张婧仪谈理想型",
@@ -3089,6 +3249,14 @@
       "onboard_time": 1680016290,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 188587,
+      "num": 188587,
+      "word": "陈妍希绿色格纹小香风",
+      "onboard_time": 1680053129,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 188415,
@@ -3331,14 +3499,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 174855,
-      "num": 174855,
-      "word": "汽车雷达在无人陵园内显示全是人影",
-      "onboard_time": 1680045741,
-      "rank": 12,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 174472,
       "num": 174472,
       "word": "放在整个公园界都相当炸裂",
@@ -3401,6 +3561,14 @@
       "onboard_time": 1679882128,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 171591,
+      "num": 171591,
+      "word": "酒店回应一家三口订一个标间被拒",
+      "onboard_time": 1680045921,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170923,
@@ -3475,6 +3643,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 166723,
+      "num": 166723,
+      "word": "孟贺",
+      "onboard_time": 1680048388,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 164149,
       "num": 164149,
       "word": "每天按时出门假装去上班",
@@ -3489,6 +3665,14 @@
       "onboard_time": 1679993550,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 163428,
+      "num": 163428,
+      "word": "金智秀solo曲预告视频",
+      "onboard_time": 1680047004,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 162410,
@@ -3545,6 +3729,14 @@
       "onboard_time": 1679965230,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156359,
+      "num": 156359,
+      "word": "杨紫广告拍摄路透",
+      "onboard_time": 1680052168,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 155834,
@@ -3635,6 +3827,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 150557,
+      "num": 150557,
+      "word": "十大选手造型",
+      "onboard_time": 1680047065,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 150402,
       "num": 183900,
       "word": "山河之影今日开播",
@@ -3649,6 +3849,14 @@
       "onboard_time": 1679907569,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 149969,
+      "num": 149969,
+      "word": "谁家大熊猫这么粘人啊",
+      "onboard_time": 1680036311,
+      "rank": 29,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 149232,
@@ -3689,6 +3897,14 @@
       "onboard_time": 1679992527,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 146283,
+      "num": 146283,
+      "word": "春天到了小鸟换了新发型",
+      "onboard_time": 1680046462,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 145287,
@@ -3963,6 +4179,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 128200,
+      "num": 128200,
+      "word": "不同薪资员工对工作的态度",
+      "onboard_time": 1680018026,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 127659,
       "num": 127659,
       "word": "周深唱出铃芽之旅宿命感",
@@ -4131,6 +4355,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 115356,
+      "num": 115356,
+      "word": "手账版毕业论文答辩攻略",
+      "onboard_time": 1680049588,
+      "rank": 43,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 114217,
       "num": 114217,
       "word": "喜欢小狗的有福了",
@@ -4147,14 +4379,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 113182,
-      "num": 113182,
-      "word": "酒店回应一家三口订一个标间被拒",
-      "onboard_time": 1680045921,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 112371,
       "num": 112371,
       "word": "无畏直播",
@@ -4169,14 +4393,6 @@
       "onboard_time": 1679833948,
       "rank": 42,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 111181,
-      "num": 111181,
-      "word": "不同薪资员工对工作的态度",
-      "onboard_time": 1680018026,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 110872,
@@ -4267,6 +4483,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 106348,
+      "num": 106348,
+      "word": "孙国友",
+      "onboard_time": 1680049049,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 106273,
       "num": 106273,
       "word": "大熊猫视角没边界感的你",
@@ -4305,14 +4529,6 @@
       "onboard_time": 1679996307,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 103472,
-      "num": 103472,
-      "word": "谁家大熊猫这么粘人啊",
-      "onboard_time": 1680036311,
-      "rank": 29,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 103363,
@@ -4387,6 +4603,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 97493,
+      "num": 97493,
+      "word": "全职亲人",
+      "onboard_time": 1680053726,
+      "rank": 47,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 96794,
       "num": 96794,
       "word": "车祸起火附近军人飞奔而来",
@@ -4459,6 +4683,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 90908,
+      "num": 90908,
+      "word": "梅西国家队100球",
+      "onboard_time": 1680049830,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 90383,
       "num": 90383,
       "word": "看得出来小猫真的很不服",
@@ -4497,6 +4729,14 @@
       "onboard_time": 1679997867,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 87441,
+      "num": 87441,
+      "word": "神十四乘组讲述183天在轨经历",
+      "onboard_time": 1680053368,
+      "rank": 49,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 85662,
@@ -4715,20 +4955,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 44025,
+      "num": 1074174,
+      "word": "守好中国式现代化的本和源",
+      "onboard_time": 1680011548,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 42755,
       "num": 42755,
       "word": "苦难是不应该被拿来比较的",
       "onboard_time": 1680033912,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 40580,
-      "num": 919447,
-      "word": "守好中国式现代化的本和源",
-      "onboard_time": 1680011548,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 39572,
