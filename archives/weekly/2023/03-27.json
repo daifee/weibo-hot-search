@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1680068026380,
+  "endTime": 1680071002622,
   "band_list": [
     {
       "raw_hot": 4718675,
@@ -97,6 +97,14 @@
       "onboard_time": 1679977413,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 2283523,
+      "num": 2283523,
+      "word": "钟薛高推出3.5元雪糕",
+      "onboard_time": 1680067229,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2235754,
@@ -321,6 +329,14 @@
       "onboard_time": 1680011909,
       "rank": 11,
       "category": "网红,情感"
+    },
+    {
+      "raw_hot": 1417460,
+      "num": 1417460,
+      "word": "欧阳震华",
+      "onboard_time": 1680069088,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1387761,
@@ -633,6 +649,14 @@
       "onboard_time": 1679910267,
       "rank": 3,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 981046,
+      "num": 981046,
+      "word": "ZIFEIWANG 都美竹",
+      "onboard_time": 1680068488,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 958600,
@@ -1187,6 +1211,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 592195,
+      "num": 592195,
+      "word": "美反华势力为遏制中国发展不惜毁灭台湾",
+      "onboard_time": 1680069509,
+      "rank": 5,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 591748,
       "num": 591748,
       "word": "iPhone15将在更多国家销售eSIM版",
@@ -1289,14 +1321,6 @@
       "onboard_time": 1679930013,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 562379,
-      "num": 562379,
-      "word": "钟薛高推出3.5元雪糕",
-      "onboard_time": 1680067229,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 561263,
@@ -1585,6 +1609,14 @@
       "onboard_time": 1679972968,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 458842,
+      "num": 346453,
+      "word": "湖南暂停与渤海银行资金监管合作",
+      "onboard_time": 1680068845,
+      "rank": 11,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 457965,
@@ -2115,6 +2147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 349393,
+      "num": 349393,
+      "word": "吴优浪姐上班",
+      "onboard_time": 1680070706,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 349122,
       "num": 349122,
       "word": "文东恩河道英策划全在俊的死",
@@ -2153,6 +2193,14 @@
       "onboard_time": 1679983229,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 344901,
+      "num": 344901,
+      "word": "双马一矿回应林地供水问题",
+      "onboard_time": 1680070227,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 344445,
@@ -2419,6 +2467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 299912,
+      "num": 299912,
+      "word": "陈晓说李沁张嘉倪是颜值担当",
+      "onboard_time": 1680070049,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 299629,
       "num": 299629,
       "word": "徐汇中学通报网传事件",
@@ -2571,6 +2627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 281668,
+      "num": 281668,
+      "word": "咖啡越做越离谱",
+      "onboard_time": 1680068067,
+      "rank": 17,
+      "category": "美食"
+    },
+    {
       "raw_hot": 281222,
       "num": 281222,
       "word": "詹姆斯复出",
@@ -2649,6 +2713,14 @@
       "onboard_time": 1679974768,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 274726,
+      "num": 274726,
+      "word": "长月烬明招商PPT",
+      "onboard_time": 1680068188,
+      "rank": 19,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 273094,
@@ -2937,6 +3009,14 @@
       "onboard_time": 1680050067,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 242132,
+      "num": 242132,
+      "word": "代号鸢",
+      "onboard_time": 1680066869,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 241968,
@@ -3283,6 +3363,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 208979,
+      "num": 208979,
+      "word": "INTO1出发泰国演唱会机场路透",
+      "onboard_time": 1680070886,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 208419,
       "num": 208419,
       "word": "谷爱凌说只和自己卷",
@@ -3507,6 +3595,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 197477,
+      "num": 197477,
+      "word": "Faker传奇卡揭晓",
+      "onboard_time": 1680069088,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 197077,
       "num": 197077,
       "word": "张杰西安vlog",
@@ -3537,6 +3633,14 @@
       "onboard_time": 1679884770,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 195934,
+      "num": 195934,
+      "word": "电影龙与地下城艺术插画海报",
+      "onboard_time": 1680070348,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 195882,
@@ -3713,6 +3817,14 @@
       "onboard_time": 1679970146,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188310,
+      "num": 188310,
+      "word": "杨洋加盟电视剧品质盛典",
+      "onboard_time": 1680068488,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 187941,
@@ -3963,14 +4075,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 175634,
-      "num": 175634,
-      "word": "代号鸢",
-      "onboard_time": 1680066869,
-      "rank": 49,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 174472,
       "num": 174472,
       "word": "放在整个公园界都相当炸裂",
@@ -4113,6 +4217,14 @@
       "onboard_time": 1679978791,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 166932,
+      "num": 166932,
+      "word": "呼吁暂停训练比GPT4更强大的AI系统",
+      "onboard_time": 1680069689,
+      "rank": 34,
+      "category": "科技"
     },
     {
       "raw_hot": 166723,
@@ -4403,6 +4515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 146820,
+      "num": 146820,
+      "word": "宋三川被举报",
+      "onboard_time": 1680070227,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 146283,
       "num": 146283,
       "word": "春天到了小鸟换了新发型",
@@ -4683,6 +4803,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 128678,
+      "num": 128678,
+      "word": "双马煤矿曾无证取水被罚8万",
+      "onboard_time": 1680060985,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 128218,
       "num": 106694,
       "word": "肖战差点绊倒自己",
@@ -4937,6 +5065,14 @@
       "onboard_time": 1679919451,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 112064,
+      "num": 112064,
+      "word": "微信尝试刷掌支付",
+      "onboard_time": 1680070650,
+      "rank": 47,
+      "category": "科技"
     },
     {
       "raw_hot": 111781,
@@ -5436,7 +5572,7 @@
     },
     {
       "raw_hot": 67586,
-      "num": 1115167,
+      "num": 1529402,
       "word": "充分发挥市场在资源配置中的决定性作用",
       "onboard_time": 1680059666,
       "rank": 2,
