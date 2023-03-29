@@ -1,6 +1,6 @@
 {
   "startTime": 1680022234432,
-  "endTime": 1680089621233,
+  "endTime": 1680093541373,
   "band_list": [
     {
       "raw_hot": 12970403,
@@ -41,6 +41,14 @@
       "onboard_time": 1680084387,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2410756,
+      "num": 2410756,
+      "word": "千万不要侧躺玩手机",
+      "onboard_time": 1680087326,
+      "rank": 14,
+      "category": "幽默"
     },
     {
       "raw_hot": 2317587,
@@ -203,6 +211,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1188033,
+      "num": 1188033,
+      "word": "刘宪华 南京",
+      "onboard_time": 1680091888,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1102066,
       "num": 1102066,
       "word": "霍建华或将参演玫瑰的故事",
@@ -281,14 +297,6 @@
       "onboard_time": 1680049109,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 767383,
-      "num": 767383,
-      "word": "千万不要侧躺玩手机",
-      "onboard_time": 1680087326,
-      "rank": 14,
-      "category": "幽默"
     },
     {
       "raw_hot": 757785,
@@ -507,6 +515,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 569566,
+      "num": 569566,
+      "word": "他是谁割喉案凶手锁定",
+      "onboard_time": 1680091466,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 533036,
       "num": 533036,
       "word": "RNG Tabe都争取不回来",
@@ -587,12 +603,28 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 467042,
+      "num": 467042,
+      "word": "肖战欧洲街头vlog",
+      "onboard_time": 1680090929,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 461637,
       "num": 461637,
       "word": "中国神华回应",
       "onboard_time": 1680084689,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 459924,
+      "num": 459924,
+      "word": "江西中医药大学回应女厕有人偷拍",
+      "onboard_time": 1680091588,
+      "rank": 11,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 458842,
@@ -697,6 +729,14 @@
       "onboard_time": 1680057565,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 396328,
+      "num": 396328,
+      "word": "毛晓彤说原生家庭只是底色",
+      "onboard_time": 1680089787,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 396213,
@@ -883,6 +923,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 317753,
+      "num": 317753,
+      "word": "小S模仿二女儿讲英语",
+      "onboard_time": 1680091768,
+      "rank": 16,
+      "category": "艺人,综艺"
+    },
+    {
       "raw_hot": 315760,
       "num": 315760,
       "word": "长黑斑的香蕉才能缓解便秘",
@@ -923,6 +971,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 299514,
+      "num": 269325,
+      "word": "看中医时千万不要化妆",
+      "onboard_time": 1680087689,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 299183,
       "num": 299183,
       "word": "原神",
@@ -945,6 +1001,14 @@
       "onboard_time": 1680001468,
       "rank": 7,
       "category": "情感"
+    },
+    {
+      "raw_hot": 293744,
+      "num": 293744,
+      "word": "广州城俱乐部宣布暂停运营",
+      "onboard_time": 1680088467,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 291110,
@@ -979,12 +1043,28 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 280410,
+      "num": 266630,
+      "word": "吴磊吃四层巨型汉堡",
+      "onboard_time": 1680091108,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 279955,
       "num": 279955,
       "word": "别想在我身上学到半点中文",
       "onboard_time": 1680074913,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 279393,
+      "num": 279393,
+      "word": "李沁卷毛",
+      "onboard_time": 1680090448,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 274726,
@@ -1131,6 +1211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 234252,
+      "num": 187510,
+      "word": "宁静请萌探3工作人员喝奶茶",
+      "onboard_time": 1680093328,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 230897,
       "num": 230897,
       "word": "于正说张静初的分享很正能量",
@@ -1259,6 +1347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 214099,
+      "num": 167808,
+      "word": "张雨绮录恋综哭了",
+      "onboard_time": 1680092426,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 212035,
       "num": 212035,
       "word": "减小肚子试试这个动作",
@@ -1323,14 +1419,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 203645,
-      "num": 203645,
-      "word": "广州城俱乐部宣布暂停运营",
-      "onboard_time": 1680088467,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 203581,
       "num": 203581,
       "word": "大熊猫避雨顾头不顾尾",
@@ -1385,6 +1473,14 @@
       "onboard_time": 1680088106,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 197560,
+      "num": 197560,
+      "word": "双马煤矿曾违法占用孙国友林地",
+      "onboard_time": 1680092667,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 197477,
@@ -1457,14 +1553,6 @@
       "onboard_time": 1680088106,
       "rank": 27,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 191777,
-      "num": 191777,
-      "word": "看中医时千万不要化妆",
-      "onboard_time": 1680087689,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 191070,
@@ -1859,6 +1947,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 118435,
+      "num": 118435,
+      "word": "五菱缤果售价59800元起",
+      "onboard_time": 1680093508,
+      "rank": 42,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 116428,
       "num": 116428,
       "word": "那些三观超正的恋爱观",
@@ -1920,6 +2016,14 @@
       "word": "无畏的八字眉压制",
       "onboard_time": 1680076172,
       "rank": 49,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 98400,
+      "num": 98400,
+      "word": "XYG对战RNGM",
+      "onboard_time": 1680092910,
+      "rank": 47,
       "category": "游戏"
     },
     {
@@ -2131,6 +2235,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 27715,
+      "num": 126856,
+      "word": "TVB艺人组团上淘宝直播带货",
+      "onboard_time": 1680091225,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 26881,
+      "num": 1205311,
+      "word": "天宫放心飞天地保障永相随",
+      "onboard_time": 1680092487,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 20254,
       "num": 21397,
       "word": "哈利波特的魔法惊喜",
@@ -2162,6 +2282,9 @@
     },
     {
       "word": "#习近平主席五次博鳌演讲金句#"
+    },
+    {
+      "word": "#在博鳌论坛感受中国经济脉动#"
     }
   ]
 }
