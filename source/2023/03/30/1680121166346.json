@@ -1,0 +1,410 @@
+{
+  "runTime": 1680121166346,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 119823,
+        "num": 119823,
+        "word": "千万不要侧躺玩手机",
+        "onboard_time": 1680087326,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 72977,
+        "num": 72977,
+        "word": "成都火灾",
+        "onboard_time": 1680106403,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6874,
+        "num": 65294,
+        "word": "天宫放心飞天地保障永相随",
+        "onboard_time": 1680092487,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90225,
+        "num": 64908,
+        "word": "西安被坠楼者砸中男童不治身亡",
+        "onboard_time": 1680099867,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87846,
+        "num": 64513,
+        "word": "张大大问关晓彤到底听到了什么",
+        "onboard_time": 1680102749,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 58531,
+        "num": 58531,
+        "word": "央广网评万亩治沙林被煤矿断水",
+        "onboard_time": 1680103048,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45852,
+        "num": 45852,
+        "word": "谢娜瘦二十斤综艺回归首秀",
+        "onboard_time": 1680084387,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38439,
+        "num": 38439,
+        "word": "坦克500试驾翻车",
+        "onboard_time": 1680103826,
+        "rank": 7,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 33927,
+        "num": 33927,
+        "word": "市领导回应林场主跪地求供水",
+        "onboard_time": 1680084508,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32338,
+        "num": 32338,
+        "word": "吴磊也需要别人演他小时候了",
+        "onboard_time": 1680094888,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 33789,
+        "num": 32321,
+        "word": "吴镇宇想见到费曼的办法",
+        "onboard_time": 1680100769,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31405,
+        "num": 31405,
+        "word": "偷偷藏不住在制作后期音效",
+        "onboard_time": 1680117252,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 30412,
+        "num": 30412,
+        "word": "秋瓷炫初舞台或将唱无法原谅",
+        "onboard_time": 1680102510,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29602,
+        "num": 29602,
+        "word": "杨幂微博之夜七年造型",
+        "onboard_time": 1680101790,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 28713,
+        "num": 28713,
+        "word": "男子求复合在女生公司外跪一夜",
+        "onboard_time": 1680083609,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26848,
+        "num": 26848,
+        "word": "为什么洗澡时总想小便",
+        "onboard_time": 1680100889,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 25580,
+        "num": 25580,
+        "word": "孟贺回应麻六记欠款事项",
+        "onboard_time": 1680103528,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25525,
+        "num": 25525,
+        "word": "孙国友女儿晒供水协议",
+        "onboard_time": 1680084627,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24715,
+        "num": 24715,
+        "word": "周冬雨马思纯同框",
+        "onboard_time": 1680101190,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 22982,
+        "num": 22982,
+        "word": "WBG教练",
+        "onboard_time": 1680106344,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 22749,
+        "num": 22749,
+        "word": "聂小雨好惨",
+        "onboard_time": 1680086008,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 22644,
+        "num": 22644,
+        "word": "宁夏人怎么看林场主跪地求供水",
+        "onboard_time": 1680102088,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22499,
+        "num": 22499,
+        "word": "真的有人一点社交都没有吗",
+        "onboard_time": 1680098130,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 22435,
+        "num": 22435,
+        "word": "蔡徐坤吃披萨随拍",
+        "onboard_time": 1680102690,
+        "rank": 23,
+        "category": "艺人,美食"
+      },
+      {
+        "raw_hot": 21450,
+        "num": 21450,
+        "word": "肖战欧洲街头vlog",
+        "onboard_time": 1680090929,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21107,
+        "num": 21107,
+        "word": "周深到底听到了什么啊",
+        "onboard_time": 1680109877,
+        "rank": 25,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 20749,
+        "num": 20749,
+        "word": "治沙英雄孙国友",
+        "onboard_time": 1680101190,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19047,
+        "num": 19047,
+        "word": "半夜陪主人上厕所的狗狗",
+        "onboard_time": 1680107959,
+        "rank": 27,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 18706,
+        "num": 18706,
+        "word": "王者荣耀",
+        "onboard_time": 1680097769,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 17682,
+        "num": 17682,
+        "word": "直男并不直男癌",
+        "onboard_time": 1680105744,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 17487,
+        "num": 17487,
+        "word": "跪求供水事件协商暂无进展",
+        "onboard_time": 1680097228,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17318,
+        "num": 17318,
+        "word": "你觉得毕业生起薪多少合适",
+        "onboard_time": 1680098790,
+        "rank": 31,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 17291,
+        "num": 17291,
+        "word": "刘宪华 南京",
+        "onboard_time": 1680091888,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 17092,
+        "num": 17092,
+        "word": "库克",
+        "onboard_time": 1680102629,
+        "rank": 33,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 15655,
+        "num": 15655,
+        "word": "毛晓彤说原生家庭只是底色",
+        "onboard_time": 1680089787,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15509,
+        "num": 15509,
+        "word": "看中医时千万不要化妆",
+        "onboard_time": 1680087689,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 14700,
+        "num": 14700,
+        "word": "胡歌唐嫣新剧同框",
+        "onboard_time": 1680085588,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 14672,
+        "num": 14672,
+        "word": "他是谁割喉案凶手锁定",
+        "onboard_time": 1680091466,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 14383,
+        "num": 14383,
+        "word": "上海和武汉有多像",
+        "onboard_time": 1680099211,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 14335,
+        "num": 14335,
+        "word": "EDG瓦电",
+        "onboard_time": 1680102030,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 14227,
+        "num": 14227,
+        "word": "上班暂停一下 我去读幼儿园",
+        "onboard_time": 1680086247,
+        "rank": 40,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 14049,
+        "num": 14049,
+        "word": "跪地求水林场主称三成树木因缺水死亡",
+        "onboard_time": 1680101311,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13815,
+        "num": 13815,
+        "word": "一个吵架一定赢的技巧",
+        "onboard_time": 1680105624,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 13614,
+        "num": 13614,
+        "word": "秦岚白裙",
+        "onboard_time": 1680098369,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13298,
+        "num": 13298,
+        "word": "王子文说疗愈对方不是伴侣要做的事",
+        "onboard_time": 1680101551,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13110,
+        "num": 13110,
+        "word": "忠犬八公",
+        "onboard_time": 1680101669,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 12783,
+        "num": 12783,
+        "word": "光与夜之恋",
+        "onboard_time": 1680104545,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 12242,
+        "num": 12242,
+        "word": "王嘉尔被何展成亲脸颊",
+        "onboard_time": 1680106882,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12146,
+        "num": 12146,
+        "word": "gidle鸟叔合作舞台",
+        "onboard_time": 1680104247,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 11569,
+        "num": 11569,
+        "word": "内娱男菩萨图鉴",
+        "onboard_time": 1680083247,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#第十届中国网络视听大会#"
+    }
+  }
+}
