@@ -1,6 +1,6 @@
 {
   "startTime": 1680022234432,
-  "endTime": 1680064612403,
+  "endTime": 1680067029449,
   "band_list": [
     {
       "raw_hot": 2998077,
@@ -41,6 +41,14 @@
       "onboard_time": 1680060985,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1793184,
+      "num": 1793184,
+      "word": "国家统一将给台湾带来哪些好处",
+      "onboard_time": 1680064169,
+      "rank": 34,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 1548702,
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 1201807,
-      "num": 466276,
+      "num": 496781,
       "word": "迪丽热巴异域公主风视频",
       "onboard_time": 1680061048,
       "rank": 11,
@@ -155,6 +163,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 705530,
+      "num": 705530,
+      "word": "品牌方否认邀请都美竹",
+      "onboard_time": 1680065370,
+      "rank": 6,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 668623,
       "num": 668623,
       "word": "莲花楼",
@@ -195,6 +211,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 616867,
+      "num": 484615,
+      "word": "肖战黑色大衣看展随拍",
+      "onboard_time": 1680065131,
+      "rank": 12,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 606236,
       "num": 433644,
       "word": "蒲熠星解开了我小学的困惑",
@@ -204,7 +228,7 @@
     },
     {
       "raw_hot": 604802,
-      "num": 343947,
+      "num": 391284,
       "word": "女子离婚遭婆婆索要10万带孙费",
       "onboard_time": 1680055465,
       "rank": 20,
@@ -251,6 +275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 455757,
+      "num": 455757,
+      "word": "全职女友要分手补偿是否合理",
+      "onboard_time": 1680063510,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 448642,
       "num": 448642,
       "word": "HYBE今年将推出两组新男团",
@@ -267,12 +299,36 @@
       "category": "网红,情感"
     },
     {
+      "raw_hot": 432127,
+      "num": 395886,
+      "word": "专家说年轻人找工作不看工资看什么",
+      "onboard_time": 1680064350,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 427632,
+      "num": 427632,
+      "word": "艺率在河道英和全在俊中选择",
+      "onboard_time": 1680066270,
+      "rank": 16,
+      "category": "影视,艺人"
+    },
+    {
       "raw_hot": 427069,
       "num": 427069,
       "word": "突然胸痛的原因找到了",
       "onboard_time": 1680012750,
       "rank": 6,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 423423,
+      "num": 423423,
+      "word": "喜欢你我也是",
+      "onboard_time": 1680066569,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 421330,
@@ -297,6 +353,14 @@
       "onboard_time": 1680057565,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 396213,
+      "num": 396213,
+      "word": "蒋雯丽明道海尔兄弟",
+      "onboard_time": 1680063328,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 390414,
@@ -339,20 +403,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 363312,
+      "num": 363312,
+      "word": "华晨宇教马嘉祺唱歌",
+      "onboard_time": 1680065669,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 352210,
       "num": 256943,
       "word": "男子伙同女友贩卖104部不雅视频",
       "onboard_time": 1680048808,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 351493,
-      "num": 351493,
-      "word": "蒋雯丽明道海尔兄弟",
-      "onboard_time": 1680063328,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 350575,
@@ -403,6 +467,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 299183,
+      "num": 299183,
+      "word": "原神",
+      "onboard_time": 1680065430,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 294098,
       "num": 294098,
       "word": "被穷养长大的孩子是怎样的",
@@ -435,6 +507,22 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 273094,
+      "num": 273094,
+      "word": "孙国友此前727万判决书曝光",
+      "onboard_time": 1680063569,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 267567,
+      "num": 267567,
+      "word": "爱情而已的口碑",
+      "onboard_time": 1680064770,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 267136,
       "num": 267136,
       "word": "魏如萱拉马嘉祺衣角",
@@ -465,6 +553,14 @@
       "onboard_time": 1680050067,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 234948,
+      "num": 209402,
+      "word": "武汉涉事高校食堂已停业整顿",
+      "onboard_time": 1680065971,
+      "rank": 30,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 230897,
@@ -539,14 +635,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 209356,
-      "num": 209356,
-      "word": "全职女友要分手补偿是否合理",
-      "onboard_time": 1680063510,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 208179,
       "num": 208179,
       "word": "红米",
@@ -571,28 +659,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 203241,
-      "num": 203241,
-      "word": "国家统一将给台湾带来哪些好处",
-      "onboard_time": 1680064169,
-      "rank": 34,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 200796,
       "num": 200796,
       "word": "腾讯客服",
       "onboard_time": 1680049288,
       "rank": 28,
       "category": "科技"
-    },
-    {
-      "raw_hot": 200526,
-      "num": 200526,
-      "word": "孙国友此前727万判决书曝光",
-      "onboard_time": 1680063569,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 200521,
@@ -627,6 +699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190531,
+      "num": 190531,
+      "word": "宋三川耳朵红了",
+      "onboard_time": 1680066512,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 190041,
       "num": 190041,
       "word": "张兰被曝拖欠前运营90万元工资",
@@ -657,6 +737,14 @@
       "onboard_time": 1680055047,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 181197,
+      "num": 181197,
+      "word": "打工人早上挤地铁有多难",
+      "onboard_time": 1680063510,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 176901,
@@ -779,28 +867,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 156156,
-      "num": 156156,
-      "word": "打工人早上挤地铁有多难",
-      "onboard_time": 1680063510,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 155029,
       "num": 155029,
       "word": "舒淇说南方屋里真的冷",
       "onboard_time": 1680017728,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 153625,
-      "num": 153625,
-      "word": "专家说年轻人找工作不看工资看什么",
-      "onboard_time": 1680064350,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 151471,
@@ -929,6 +1001,14 @@
       "onboard_time": 1680049588,
       "rank": 43,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 116557,
+      "num": 116557,
+      "word": "代号鸢",
+      "onboard_time": 1680066869,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 116428,
