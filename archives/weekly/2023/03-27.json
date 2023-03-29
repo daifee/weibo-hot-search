@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1680058405852,
+  "endTime": 1680059926246,
   "band_list": [
     {
       "raw_hot": 4718675,
@@ -227,6 +227,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1548702,
+      "num": 1548702,
+      "word": "武汉一高校回应老人82元只买到俩素菜",
+      "onboard_time": 1680055107,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1524417,
       "num": 1524417,
       "word": "美国众议院要让中国当发达国家",
@@ -257,14 +265,6 @@
       "onboard_time": 1680047966,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1457364,
-      "num": 1457364,
-      "word": "武汉一高校回应老人82元只买到俩素菜",
-      "onboard_time": 1680055107,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1454591,
@@ -363,6 +363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1285147,
+      "num": 856474,
+      "word": "胡一天与华策合约到期不续约",
+      "onboard_time": 1680057684,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1278211,
       "num": 1278211,
       "word": "上海每5人中有两个念过大学",
@@ -411,6 +419,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1195816,
+      "num": 1150661,
+      "word": "家属回应老人跪地求水",
+      "onboard_time": 1680054925,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1191695,
       "num": 462509,
       "word": "刘浩存工作室发文没整容",
@@ -433,14 +449,6 @@
       "onboard_time": 1679887531,
       "rank": 16,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 1150661,
-      "num": 1150661,
-      "word": "家属回应老人跪地求水",
-      "onboard_time": 1680054925,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1140519,
@@ -707,14 +715,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 856474,
-      "num": 856474,
-      "word": "胡一天与华策合约到期不续约",
-      "onboard_time": 1680057684,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 843062,
       "num": 386058,
       "word": "吉林四平",
@@ -753,6 +753,14 @@
       "onboard_time": 1679887411,
       "rank": 4,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 823509,
+      "num": 823509,
+      "word": "水务公司回应万亩林场主跪地求供水",
+      "onboard_time": 1680054984,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 823088,
@@ -825,6 +833,14 @@
       "onboard_time": 1679997149,
       "rank": 19,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 736783,
+      "num": 736783,
+      "word": "于洪臣被查",
+      "onboard_time": 1680056965,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 733832,
@@ -939,6 +955,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 645356,
+      "num": 645356,
+      "word": "莲花楼",
+      "onboard_time": 1680058047,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 643856,
       "num": 643856,
       "word": "阿里设立六大业务集团",
@@ -980,7 +1004,7 @@
     },
     {
       "raw_hot": 627647,
-      "num": 279559,
+      "num": 319622,
       "word": "28岁女子当七年全职女友惹争议",
       "onboard_time": 1680049167,
       "rank": 20,
@@ -1028,7 +1052,7 @@
     },
     {
       "raw_hot": 606236,
-      "num": 387282,
+      "num": 433644,
       "word": "蒲熠星解开了我小学的困惑",
       "onboard_time": 1680052947,
       "rank": 15,
@@ -1049,6 +1073,14 @@
       "onboard_time": 1679873301,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 604802,
+      "num": 323154,
+      "word": "女子离婚遭婆婆索要10万带孙费",
+      "onboard_time": 1680055465,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 598451,
@@ -1171,28 +1203,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 567057,
-      "num": 282831,
-      "word": "女子离婚遭婆婆索要10万带孙费",
-      "onboard_time": 1680055465,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 566436,
-      "num": 566436,
-      "word": "水务公司回应万亩林场主跪地求供水",
-      "onboard_time": 1680054984,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 561263,
       "num": 282498,
       "word": "刘亦菲微博之夜下楼梯直拍",
       "onboard_time": 1680008608,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 559212,
+      "num": 559212,
+      "word": "国台办回应蔡英文拟过境窜访美国",
+      "onboard_time": 1680057987,
+      "rank": 31,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 557953,
@@ -1305,14 +1329,6 @@
       "onboard_time": 1680045741,
       "rank": 12,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 510844,
-      "num": 385855,
-      "word": "于洪臣被查",
-      "onboard_time": 1680056965,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 509624,
@@ -1515,6 +1531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 448642,
+      "num": 448642,
+      "word": "HYBE今年将推出两组新男团",
+      "onboard_time": 1680059366,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 447772,
       "num": 447772,
       "word": "白鹿录完奔跑吧就进组",
@@ -1713,6 +1737,14 @@
       "onboard_time": 1679993848,
       "rank": 36,
       "category": "科技,国内要闻"
+    },
+    {
+      "raw_hot": 399369,
+      "num": 399369,
+      "word": "张艺兴喝香槟视频",
+      "onboard_time": 1680057565,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 399004,
@@ -2123,14 +2155,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 320713,
-      "num": 320713,
-      "word": "张艺兴喝香槟视频",
-      "onboard_time": 1680057565,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 319595,
       "num": 319595,
       "word": "檀健次莫文蔚16年后再同框",
@@ -2145,6 +2169,14 @@
       "onboard_time": 1680016109,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 315760,
+      "num": 315760,
+      "word": "长黑斑的香蕉才能缓解便秘",
+      "onboard_time": 1680054144,
+      "rank": 24,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 315330,
@@ -2195,14 +2227,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 304707,
-      "num": 277626,
-      "word": "长黑斑的香蕉才能缓解便秘",
-      "onboard_time": 1680054144,
-      "rank": 24,
-      "category": "美食,社会新闻"
-    },
-    {
       "raw_hot": 303488,
       "num": 303488,
       "word": "京剧的哇呀呀喂呀呀哇哈哈哈都啥意思",
@@ -2251,20 +2275,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 297505,
+      "num": 297505,
+      "word": "徐艺洋戴玲娜贝儿帽子",
+      "onboard_time": 1680058886,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 297440,
       "num": 297440,
       "word": "中国便秘日",
       "onboard_time": 1679985207,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 296363,
-      "num": 296363,
-      "word": "莲花楼",
-      "onboard_time": 1680058047,
-      "rank": 19,
-      "category": "影视"
     },
     {
       "raw_hot": 295125,
@@ -2715,14 +2739,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 240576,
-      "num": 199638,
-      "word": "国台办回应蔡英文拟过境窜访美国",
-      "onboard_time": 1680057987,
-      "rank": 31,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 240322,
       "num": 240322,
       "word": "限定团告别演唱会的最后一首歌",
@@ -2824,6 +2840,14 @@
       "word": "人生之路收视率",
       "onboard_time": 1680012389,
       "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 228235,
+      "num": 228235,
+      "word": "周雨彤演我辞职后的精神状态",
+      "onboard_time": 1680059607,
+      "rank": 29,
       "category": "影视"
     },
     {
@@ -3171,6 +3195,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 200521,
+      "num": 200521,
+      "word": "爱情而已片头的标题和照片",
+      "onboard_time": 1680058886,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 200227,
       "num": 200227,
       "word": "张婧仪谈理想型",
@@ -3345,6 +3377,14 @@
       "onboard_time": 1679842169,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 190556,
+      "num": 190556,
+      "word": "中超公司原总经理董铮被查",
+      "onboard_time": 1680059425,
+      "rank": 35,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 190362,
@@ -3723,6 +3763,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 172283,
+      "num": 172283,
+      "word": "足协",
+      "onboard_time": 1680059785,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 171591,
       "num": 171591,
       "word": "酒店回应一家三口订一个标间被拒",
@@ -4065,6 +4113,14 @@
       "onboard_time": 1679992527,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 146883,
+      "num": 146883,
+      "word": "高加林为前途抛弃巧珍",
+      "onboard_time": 1680058285,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 146283,
@@ -4441,14 +4497,6 @@
       "onboard_time": 1680012691,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 122067,
-      "num": 122067,
-      "word": "高加林为前途抛弃巧珍",
-      "onboard_time": 1680058285,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 121433,
@@ -5163,6 +5211,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 49583,
+      "num": 436393,
+      "word": "Billboard原创音乐大赛",
+      "onboard_time": 1680058828,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 46843,
       "num": 339916,
       "word": "汤唯海边大片",
@@ -5225,6 +5281,14 @@
       "onboard_time": 1679945592,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 12472,
+      "num": 834290,
+      "word": "充分发挥市场在资源配置中的决定性作用",
+      "onboard_time": 1680059666,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

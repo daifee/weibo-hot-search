@@ -1,6 +1,6 @@
 {
   "startTime": 1680022234432,
-  "endTime": 1680058405852,
+  "endTime": 1680059926246,
   "band_list": [
     {
       "raw_hot": 2998077,
@@ -27,6 +27,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1548702,
+      "num": 1548702,
+      "word": "武汉一高校回应老人82元只买到俩素菜",
+      "onboard_time": 1680055107,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1524417,
       "num": 1524417,
       "word": "美国众议院要让中国当发达国家",
@@ -43,14 +51,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1457364,
-      "num": 1457364,
-      "word": "武汉一高校回应老人82元只买到俩素菜",
-      "onboard_time": 1680055107,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1437681,
       "num": 1437681,
       "word": "孙毓敏去世",
@@ -59,7 +59,15 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1150661,
+      "raw_hot": 1285147,
+      "num": 856474,
+      "word": "胡一天与华策合约到期不续约",
+      "onboard_time": 1680057684,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1195816,
       "num": 1150661,
       "word": "家属回应老人跪地求水",
       "onboard_time": 1680054925,
@@ -67,12 +75,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 856474,
-      "num": 856474,
-      "word": "胡一天与华策合约到期不续约",
-      "onboard_time": 1680057684,
-      "rank": 17,
-      "category": "艺人"
+      "raw_hot": 823509,
+      "num": 823509,
+      "word": "水务公司回应万亩林场主跪地求供水",
+      "onboard_time": 1680054984,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 809878,
@@ -99,6 +107,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 736783,
+      "num": 736783,
+      "word": "于洪臣被查",
+      "onboard_time": 1680056965,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 645356,
+      "num": 645356,
+      "word": "莲花楼",
+      "onboard_time": 1680058047,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 642891,
       "num": 642891,
       "word": "乐华的法务总监是微博私信投简历的",
@@ -116,7 +140,7 @@
     },
     {
       "raw_hot": 627647,
-      "num": 279559,
+      "num": 319622,
       "word": "28岁女子当七年全职女友惹争议",
       "onboard_time": 1680049167,
       "rank": 20,
@@ -124,11 +148,19 @@
     },
     {
       "raw_hot": 606236,
-      "num": 387282,
+      "num": 433644,
       "word": "蒲熠星解开了我小学的困惑",
       "onboard_time": 1680052947,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 604802,
+      "num": 323154,
+      "word": "女子离婚遭婆婆索要10万带孙费",
+      "onboard_time": 1680055465,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 570371,
@@ -139,20 +171,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 567057,
-      "num": 282831,
-      "word": "女子离婚遭婆婆索要10万带孙费",
-      "onboard_time": 1680055465,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 566436,
-      "num": 566436,
-      "word": "水务公司回应万亩林场主跪地求供水",
-      "onboard_time": 1680054984,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 559212,
+      "num": 559212,
+      "word": "国台办回应蔡英文拟过境窜访美国",
+      "onboard_time": 1680057987,
+      "rank": 31,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 511098,
@@ -163,20 +187,20 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 510844,
-      "num": 385855,
-      "word": "于洪臣被查",
-      "onboard_time": 1680056965,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 480546,
       "num": 480546,
       "word": "还以为蒋雯丽要对明道说你是我的神",
       "onboard_time": 1680053487,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 448642,
+      "num": 448642,
+      "word": "HYBE今年将推出两组新男团",
+      "onboard_time": 1680059366,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 448399,
@@ -209,6 +233,14 @@
       "onboard_time": 1680054087,
       "rank": 23,
       "category": "科技"
+    },
+    {
+      "raw_hot": 399369,
+      "num": 399369,
+      "word": "张艺兴喝香槟视频",
+      "onboard_time": 1680057565,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 390414,
@@ -275,28 +307,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 320713,
-      "num": 320713,
-      "word": "张艺兴喝香槟视频",
-      "onboard_time": 1680057565,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 304707,
-      "num": 277626,
+      "raw_hot": 315760,
+      "num": 315760,
       "word": "长黑斑的香蕉才能缓解便秘",
       "onboard_time": 1680054144,
       "rank": 24,
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 296363,
-      "num": 296363,
-      "word": "莲花楼",
-      "onboard_time": 1680058047,
-      "rank": 19,
-      "category": "影视"
+      "raw_hot": 297505,
+      "num": 297505,
+      "word": "徐艺洋戴玲娜贝儿帽子",
+      "onboard_time": 1680058886,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 294098,
@@ -347,12 +371,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 240576,
-      "num": 199638,
-      "word": "国台办回应蔡英文拟过境窜访美国",
-      "onboard_time": 1680057987,
-      "rank": 31,
-      "category": "国内要闻"
+      "raw_hot": 228235,
+      "num": 228235,
+      "word": "周雨彤演我辞职后的精神状态",
+      "onboard_time": 1680059607,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 218318,
@@ -427,6 +451,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 200521,
+      "num": 200521,
+      "word": "爱情而已片头的标题和照片",
+      "onboard_time": 1680058886,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 196814,
       "num": 140451,
       "word": "这衣服很贵你确定要试吗",
@@ -441,6 +473,14 @@
       "onboard_time": 1680017486,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 190556,
+      "num": 190556,
+      "word": "中超公司原总经理董铮被查",
+      "onboard_time": 1680059425,
+      "rank": 35,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 190041,
@@ -488,6 +528,14 @@
       "word": "这是腰腹赘肉杀手吧",
       "onboard_time": 1680006446,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 172283,
+      "num": 172283,
+      "word": "足协",
+      "onboard_time": 1680059785,
+      "rank": 37,
       "category": "体育"
     },
     {
@@ -619,6 +667,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 146883,
+      "num": 146883,
+      "word": "高加林为前途抛弃巧珍",
+      "onboard_time": 1680058285,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 146283,
       "num": 146283,
       "word": "春天到了小鸟换了新发型",
@@ -681,14 +737,6 @@
       "onboard_time": 1680055406,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 122067,
-      "num": 122067,
-      "word": "高加林为前途抛弃巧珍",
-      "onboard_time": 1680058285,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 120932,
@@ -907,6 +955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 49583,
+      "num": 436393,
+      "word": "Billboard原创音乐大赛",
+      "onboard_time": 1680058828,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 44025,
       "num": 1178905,
       "word": "守好中国式现代化的本和源",
@@ -937,6 +993,14 @@
       "onboard_time": 1680003030,
       "rank": 48,
       "category": "科技,影视"
+    },
+    {
+      "raw_hot": 12472,
+      "num": 834290,
+      "word": "充分发挥市场在资源配置中的决定性作用",
+      "onboard_time": 1680059666,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
