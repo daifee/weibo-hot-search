@@ -1,0 +1,410 @@
+{
+  "runTime": 1680075230040,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 10731316,
+        "num": 11981316,
+        "word": "佛山地震",
+        "onboard_time": 1680073771,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3679036,
+        "num": 3679036,
+        "word": "广州震感",
+        "onboard_time": 1680073890,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43189,
+        "num": 2193452,
+        "word": "充分发挥市场在资源配置中的决定性作用",
+        "onboard_time": 1680059666,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1701934,
+        "num": 1701934,
+        "word": "钟薛高推出3.5元雪糕",
+        "onboard_time": 1680067229,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1339319,
+        "num": 1339319,
+        "word": "欧阳震华",
+        "onboard_time": 1680069088,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 886726,
+        "num": 886726,
+        "word": "已灭绝猛犸象DNA被培育制成肉丸",
+        "onboard_time": 1680071188,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 742799,
+        "num": 742799,
+        "word": "高叶林雨申吻戏",
+        "onboard_time": 1680071667,
+        "rank": 6,
+        "category": "影视,艺人"
+      },
+      {
+        "raw_hot": 741500,
+        "num": 741500,
+        "word": "国家统一将给台湾带来哪些好处",
+        "onboard_time": 1680064169,
+        "rank": 7,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 733442,
+        "num": 733442,
+        "word": "深圳震感",
+        "onboard_time": 1680074496,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 694932,
+        "num": 694932,
+        "word": "徐艺洋说不会为了爱情放弃事业",
+        "onboard_time": 1680074793,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 905919,
+        "num": 646652,
+        "word": "微信朋友圈",
+        "onboard_time": 1680050309,
+        "rank": 10,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 535363,
+        "num": 535363,
+        "word": "美反华势力为遏制中国发展不惜毁灭台湾",
+        "onboard_time": 1680069509,
+        "rank": 11,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 478562,
+        "num": 478562,
+        "word": "乘风破浪4",
+        "onboard_time": 1680072387,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 455416,
+        "num": 455416,
+        "word": "BLG官宣Tabe加入",
+        "onboard_time": 1680074255,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 450490,
+        "num": 450490,
+        "word": "鞠婧祎祝绪丹同款吊带",
+        "onboard_time": 1680072986,
+        "rank": 14,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 1045022,
+        "num": 438226,
+        "word": "ZIFEIWANG 都美竹",
+        "onboard_time": 1680068488,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 383359,
+        "num": 383359,
+        "word": "上海迪士尼疯狂动物城园区亮灯",
+        "onboard_time": 1680071128,
+        "rank": 16,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 352797,
+        "num": 352797,
+        "word": "赵露思雨中撑伞视频",
+        "onboard_time": 1680073592,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 344623,
+        "num": 344623,
+        "word": "迪丽热巴异域公主风视频",
+        "onboard_time": 1680061048,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 314646,
+        "num": 314646,
+        "word": "武汉一高校回应老人82元只买到俩素菜",
+        "onboard_time": 1680055107,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313141,
+        "num": 313141,
+        "word": "陈晓说李沁张嘉倪是颜值担当",
+        "onboard_time": 1680070049,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 297368,
+        "num": 297368,
+        "word": "专家说年轻人找工作不看工资看什么",
+        "onboard_time": 1680064350,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288295,
+        "num": 288295,
+        "word": "咖啡越做越离谱",
+        "onboard_time": 1680068067,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 261401,
+        "num": 261401,
+        "word": "周冬雨王栎鑫二搭长沙夜生活",
+        "onboard_time": 1680074375,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 260330,
+        "num": 260330,
+        "word": "胡一天新签约罗晋经纪人",
+        "onboard_time": 1680061947,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255696,
+        "num": 255696,
+        "word": "湖南暂停与渤海银行资金监管合作",
+        "onboard_time": 1680068845,
+        "rank": 25,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 248984,
+        "num": 248984,
+        "word": "狗狗读懂了环卫工人的手势",
+        "onboard_time": 1680071968,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 247866,
+        "num": 247866,
+        "word": "大鹏称王一博热烈很燃很炸",
+        "onboard_time": 1680073829,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 235302,
+        "num": 235302,
+        "word": "双马一矿回应林地供水问题",
+        "onboard_time": 1680070227,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225094,
+        "num": 225094,
+        "word": "女子离婚遭婆婆索要10万带孙费",
+        "onboard_time": 1680055465,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 532012,
+        "num": 224241,
+        "word": "贴吧崩了",
+        "onboard_time": 1680074733,
+        "rank": 30,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 219211,
+        "num": 219211,
+        "word": "南航",
+        "onboard_time": 1680074972,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214220,
+        "num": 214220,
+        "word": "美校长展示大卫雕像遭家长投诉色情",
+        "onboard_time": 1680074856,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205972,
+        "num": 205972,
+        "word": "你接受什么价位的雪糕",
+        "onboard_time": 1680074672,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 196740,
+        "num": 196740,
+        "word": "谢铜去世",
+        "onboard_time": 1680074496,
+        "rank": 34,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 194725,
+        "num": 194725,
+        "word": "减小肚子试试这个动作",
+        "onboard_time": 1680073106,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181521,
+        "num": 181521,
+        "word": "肖战黑色大衣看展随拍",
+        "onboard_time": 1680065131,
+        "rank": 36,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 175553,
+        "num": 175553,
+        "word": "呼吁暂停训练比GPT4更强大的AI系统",
+        "onboard_time": 1680069689,
+        "rank": 37,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 167433,
+        "num": 167433,
+        "word": "BoysPlanet新闻发布会",
+        "onboard_time": 1680073771,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 4883,
+        "num": 166911,
+        "word": "哥哥纪念演唱会淘宝独播",
+        "onboard_time": 1680073227,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 166789,
+        "num": 166789,
+        "word": "别想在我身上学到半点中文",
+        "onboard_time": 1680074913,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162572,
+        "num": 162572,
+        "word": "微信尝试刷掌支付",
+        "onboard_time": 1680070650,
+        "rank": 41,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 161125,
+        "num": 161125,
+        "word": "吴优乘风破浪4上班",
+        "onboard_time": 1680070706,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149347,
+        "num": 149347,
+        "word": "美国众议院要让中国当发达国家",
+        "onboard_time": 1680051750,
+        "rank": 43,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 149191,
+        "num": 149191,
+        "word": "喜欢你我也是",
+        "onboard_time": 1680066569,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141008,
+        "num": 141008,
+        "word": "长月烬明招商PPT",
+        "onboard_time": 1680068188,
+        "rank": 45,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 139973,
+        "num": 139973,
+        "word": "极目评林场主因煤矿断水下跪磕头",
+        "onboard_time": 1680074134,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137580,
+        "num": 137580,
+        "word": "杨玏镜头下的江门",
+        "onboard_time": 1680073529,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137478,
+        "num": 137478,
+        "word": "霍建华或将参演玫瑰的故事",
+        "onboard_time": 1680060446,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 135549,
+        "num": 135549,
+        "word": "男子刚进厨房下一秒高压锅爆炸",
+        "onboard_time": 1680062608,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#树立正确的理想信念学会正确的思维方法#"
+    }
+  }
+}
