@@ -1,6 +1,6 @@
 {
   "startTime": 1680022234432,
-  "endTime": 1680053985024,
+  "endTime": 1680055120535,
   "band_list": [
     {
       "raw_hot": 2998077,
@@ -27,20 +27,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1524417,
+      "num": 1524417,
+      "word": "美国众议院要让中国当发达国家",
+      "onboard_time": 1680051750,
+      "rank": 1,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1479602,
       "num": 506832,
       "word": "麻六记",
       "onboard_time": 1680047966,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1441976,
-      "num": 1441976,
-      "word": "美国众议院要让中国当发达国家",
-      "onboard_time": 1680051750,
-      "rank": 1,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 1437681,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 627647,
-      "num": 255741,
+      "num": 257222,
       "word": "28岁女子当七年全职女友惹争议",
       "onboard_time": 1680049167,
       "rank": 20,
@@ -107,6 +107,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 543168,
+      "num": 364499,
+      "word": "蒲熠星解开了我小学的困惑",
+      "onboard_time": 1680052947,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 511098,
       "num": 511098,
       "word": "汽车雷达在无人陵园内显示全是人影",
@@ -116,7 +124,7 @@
     },
     {
       "raw_hot": 448399,
-      "num": 249679,
+      "num": 257124,
       "word": "黑马情侣 两人权力的转移",
       "onboard_time": 1680011909,
       "rank": 20,
@@ -131,11 +139,19 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 420670,
-      "num": 420670,
+      "raw_hot": 421330,
+      "num": 421330,
       "word": "央媒评去有风的地方同款线路热卖",
       "onboard_time": 1680050669,
       "rank": 9,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 410095,
+      "num": 410095,
+      "word": "还以为蒋雯丽要对明道说你是我的神",
+      "onboard_time": 1680053487,
+      "rank": 23,
       "category": "影视"
     },
     {
@@ -155,16 +171,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 364499,
-      "num": 364499,
-      "word": "蒲熠星解开了我小学的困惑",
-      "onboard_time": 1680052947,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 352210,
-      "num": 247391,
+      "num": 256943,
       "word": "男子伙同女友贩卖104部不雅视频",
       "onboard_time": 1680048808,
       "rank": 22,
@@ -177,6 +185,14 @@
       "onboard_time": 1680048867,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 326535,
+      "num": 326535,
+      "word": "阿根廷进攻火力太猛了",
+      "onboard_time": 1680052050,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 326394,
@@ -203,6 +219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 281089,
+      "num": 204329,
+      "word": "唯品会崩了",
+      "onboard_time": 1680054446,
+      "rank": 30,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 267136,
       "num": 267136,
       "word": "魏如萱拉马嘉祺衣角",
@@ -211,28 +235,44 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 259840,
-      "num": 259840,
-      "word": "阿根廷进攻火力太猛了",
-      "onboard_time": 1680052050,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 243503,
-      "num": 243503,
-      "word": "还以为蒋雯丽要对明道说你是我的神",
-      "onboard_time": 1680053487,
+      "raw_hot": 256538,
+      "num": 256538,
+      "word": "腾讯客服删除回应",
+      "onboard_time": 1680054087,
       "rank": 23,
-      "category": "影视"
+      "category": "科技"
     },
     {
-      "raw_hot": 241612,
-      "num": 241612,
+      "raw_hot": 242925,
+      "num": 242925,
       "word": "专家回应大熊猫银柯身体情况",
       "onboard_time": 1680050067,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 219232,
+      "num": 219232,
+      "word": "武汉一高校回应老人82元只买到俩素菜",
+      "onboard_time": 1680055107,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 218318,
+      "num": 218318,
+      "word": "战机突发故障他凭感觉成功降落山东舰",
+      "onboard_time": 1680052349,
+      "rank": 27,
+      "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 217961,
+      "num": 217961,
+      "word": "金珉奎笑容消失术",
+      "onboard_time": 1680054805,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 215771,
@@ -267,12 +307,12 @@
       "category": "影视,动漫"
     },
     {
-      "raw_hot": 200992,
-      "num": 200992,
-      "word": "战机突发故障他凭感觉成功降落山东舰",
-      "onboard_time": 1680052349,
-      "rank": 27,
-      "category": "军事,社会新闻"
+      "raw_hot": 204862,
+      "num": 204862,
+      "word": "微信异常会影响你的生活吗",
+      "onboard_time": 1680054566,
+      "rank": 29,
+      "category": "科技"
     },
     {
       "raw_hot": 200796,
@@ -313,6 +353,14 @@
       "onboard_time": 1680053129,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 184950,
+      "num": 184950,
+      "word": "阿根廷7比0库拉索",
+      "onboard_time": 1680055047,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 176901,
@@ -451,11 +499,35 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 149121,
+      "num": 149121,
+      "word": "三生友幸疯狂上分",
+      "onboard_time": 1680054865,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 146283,
       "num": 146283,
       "word": "春天到了小鸟换了新发型",
       "onboard_time": 1680046462,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 137713,
+      "num": 137713,
+      "word": "熊猫发情会有哪些刻板行为",
+      "onboard_time": 1680055107,
+      "rank": 37,
+      "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 135066,
+      "num": 135066,
+      "word": "家属回应老人跪地求水",
+      "onboard_time": 1680054925,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -465,6 +537,22 @@
       "onboard_time": 1680014131,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 132987,
+      "num": 132987,
+      "word": "水务公司回应万亩林场主跪地求供水",
+      "onboard_time": 1680054984,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131525,
+      "num": 131525,
+      "word": "婆婆给儿媳做花样月子餐42天不重样",
+      "onboard_time": 1680054865,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 128200,
@@ -491,20 +579,20 @@
       "category": "其它"
     },
     {
+      "raw_hot": 120099,
+      "num": 120099,
+      "word": "手账版毕业论文答辩攻略",
+      "onboard_time": 1680049588,
+      "rank": 43,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 116428,
       "num": 116428,
       "word": "那些三观超正的恋爱观",
       "onboard_time": 1680015027,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 115356,
-      "num": 115356,
-      "word": "手账版毕业论文答辩攻略",
-      "onboard_time": 1680049588,
-      "rank": 43,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 112337,
