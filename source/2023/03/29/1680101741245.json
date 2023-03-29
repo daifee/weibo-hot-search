@@ -1,0 +1,410 @@
+{
+  "runTime": 1680101741245,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2497986,
+        "num": 2497986,
+        "word": "西安被坠楼者砸中男童不治身亡",
+        "onboard_time": 1680099867,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1625208,
+        "num": 1625208,
+        "word": "千万不要侧躺玩手机",
+        "onboard_time": 1680087326,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 38865,
+        "num": 1193259,
+        "word": "天宫放心飞天地保障永相随",
+        "onboard_time": 1680092487,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 958987,
+        "num": 958987,
+        "word": "谢娜瘦二十斤综艺回归首秀",
+        "onboard_time": 1680084387,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 717330,
+        "num": 717330,
+        "word": "周冬雨马思纯同框",
+        "onboard_time": 1680101190,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 617035,
+        "num": 617035,
+        "word": "上班暂停一下 我去读幼儿园",
+        "onboard_time": 1680086247,
+        "rank": 5,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 571142,
+        "num": 571142,
+        "word": "吴磊也需要别人演他小时候了",
+        "onboard_time": 1680094888,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 523482,
+        "num": 523482,
+        "word": "男子求复合在女生公司外跪一夜",
+        "onboard_time": 1680083609,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 517950,
+        "num": 517950,
+        "word": "市领导回应林场主跪地求供水",
+        "onboard_time": 1680084508,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 493931,
+        "num": 493931,
+        "word": "王者荣耀",
+        "onboard_time": 1680097769,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1070071,
+        "num": 462681,
+        "word": "8成投票网友支持孙国友女儿继承父业",
+        "onboard_time": 1680095367,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 517948,
+        "num": 439249,
+        "word": "吴镇宇想见到费曼的办法",
+        "onboard_time": 1680100769,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 404192,
+        "num": 404192,
+        "word": "跪求供水事件协商暂无进展",
+        "onboard_time": 1680097228,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 377736,
+        "num": 377736,
+        "word": "秦岚白裙",
+        "onboard_time": 1680098369,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 355619,
+        "num": 355619,
+        "word": "你觉得毕业生起薪多少合适",
+        "onboard_time": 1680098790,
+        "rank": 14,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 329135,
+        "num": 329135,
+        "word": "肖战欧洲街头vlog",
+        "onboard_time": 1680090929,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311038,
+        "num": 311038,
+        "word": "聂小雨好惨",
+        "onboard_time": 1680086008,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 302196,
+        "num": 302196,
+        "word": "关晓彤是听到了什么",
+        "onboard_time": 1680082767,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 282438,
+        "num": 282438,
+        "word": "宋小宝挽宁静手上班",
+        "onboard_time": 1680100107,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 269240,
+        "num": 269240,
+        "word": "路晨归晓大婚",
+        "onboard_time": 1680099327,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 470569,
+        "num": 269038,
+        "word": "刘宪华 南京",
+        "onboard_time": 1680091888,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 273873,
+        "num": 268713,
+        "word": "看中医时千万不要化妆",
+        "onboard_time": 1680087689,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 267264,
+        "num": 267264,
+        "word": "真的有人一点社交都没有吗",
+        "onboard_time": 1680098130,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 261071,
+        "num": 261071,
+        "word": "为什么洗澡时总想小便",
+        "onboard_time": 1680100889,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 251334,
+        "num": 251334,
+        "word": "蔡徐坤日内瓦开工随拍",
+        "onboard_time": 1680100529,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243539,
+        "num": 243539,
+        "word": "他是谁割喉案凶手锁定",
+        "onboard_time": 1680091466,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223844,
+        "num": 223844,
+        "word": "林俊杰郑容和演唱会舞台",
+        "onboard_time": 1680098369,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 212604,
+        "num": 212604,
+        "word": "发工资前后的你",
+        "onboard_time": 1680096389,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 208691,
+        "num": 208691,
+        "word": "胡歌唐嫣新剧同框",
+        "onboard_time": 1680085588,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199562,
+        "num": 199562,
+        "word": "跪地求水林场主称三成树木因缺水死亡",
+        "onboard_time": 1680101311,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201251,
+        "num": 198435,
+        "word": "忠犬八公",
+        "onboard_time": 1680101669,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 196924,
+        "num": 196924,
+        "word": "治沙英雄孙国友",
+        "onboard_time": 1680101190,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194340,
+        "num": 194340,
+        "word": "XYG战胜RNGM",
+        "onboard_time": 1680100589,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 185347,
+        "num": 185347,
+        "word": "张真源严浩翔树枝击剑",
+        "onboard_time": 1680099689,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 176236,
+        "num": 176236,
+        "word": "小S模仿二女儿讲英语",
+        "onboard_time": 1680091768,
+        "rank": 34,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 168453,
+        "num": 168453,
+        "word": "宁夏到底有多缺水",
+        "onboard_time": 1680101190,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167600,
+        "num": 167600,
+        "word": "王鹤棣或将要拍电影",
+        "onboard_time": 1680094466,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 162712,
+        "num": 162712,
+        "word": "王昭君乞巧织春",
+        "onboard_time": 1680101190,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 160453,
+        "num": 160453,
+        "word": "李兰迪放学后便利店随拍",
+        "onboard_time": 1680096988,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155895,
+        "num": 155895,
+        "word": "孙国友女儿晒供水协议",
+        "onboard_time": 1680084627,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155825,
+        "num": 155825,
+        "word": "王子文说疗愈对方不是伴侣要做的事",
+        "onboard_time": 1680101551,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152494,
+        "num": 152494,
+        "word": "李沁说陈晓处理角色很自然有层次",
+        "onboard_time": 1680099268,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 148253,
+        "num": 148253,
+        "word": "毛晓彤说原生家庭只是底色",
+        "onboard_time": 1680089787,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146560,
+        "num": 146560,
+        "word": "王楚钦孙颖莎直通德班",
+        "onboard_time": 1680095608,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145470,
+        "num": 145470,
+        "word": "明日方舟",
+        "onboard_time": 1680101190,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 142793,
+        "num": 142793,
+        "word": "内娱男菩萨图鉴",
+        "onboard_time": 1680083247,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 141852,
+        "num": 141852,
+        "word": "黑马情侣 剧本",
+        "onboard_time": 1680075812,
+        "rank": 46,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 139977,
+        "num": 139977,
+        "word": "裸辞真的是很幼稚的行为吗",
+        "onboard_time": 1680078148,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139479,
+        "num": 139479,
+        "word": "上海和武汉有多像",
+        "onboard_time": 1680099211,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132773,
+        "num": 138964,
+        "word": "我想这样已经很久了",
+        "onboard_time": 1680096809,
+        "rank": 49,
+        "category": "情感,幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#两翼齐飞看发展#"
+    }
+  }
+}

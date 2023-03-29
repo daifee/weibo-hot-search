@@ -1,6 +1,6 @@
 {
   "startTime": 1680022234432,
-  "endTime": 1680096972142,
+  "endTime": 1680101741245,
   "band_list": [
     {
       "raw_hot": 12970403,
@@ -41,6 +41,14 @@
       "onboard_time": 1680084387,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2497986,
+      "num": 2497986,
+      "word": "西安被坠楼者砸中男童不治身亡",
+      "onboard_time": 1680099867,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2410756,
@@ -235,6 +243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1070071,
+      "num": 469873,
+      "word": "8成投票网友支持孙国友女儿继承父业",
+      "onboard_time": 1680095367,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 886726,
       "num": 886726,
       "word": "已灭绝猛犸象DNA被培育制成肉丸",
@@ -353,6 +369,14 @@
       "onboard_time": 1680061887,
       "rank": 8,
       "category": "科技"
+    },
+    {
+      "raw_hot": 717330,
+      "num": 717330,
+      "word": "周冬雨马思纯同框",
+      "onboard_time": 1680101190,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 716189,
@@ -515,6 +539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 571142,
+      "num": 571142,
+      "word": "吴磊也需要别人演他小时候了",
+      "onboard_time": 1680094888,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 571114,
       "num": 571114,
       "word": "南航随心飞",
@@ -563,6 +595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 517948,
+      "num": 439249,
+      "word": "吴镇宇想见到费曼的办法",
+      "onboard_time": 1680100769,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 515167,
       "num": 515167,
       "word": "王鹤棣或将要拍电影",
@@ -595,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 493931,
+      "num": 493931,
+      "word": "王者荣耀",
+      "onboard_time": 1680097769,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 492331,
       "num": 492331,
       "word": "江西中医药大学回应女厕有人偷拍",
@@ -625,14 +673,6 @@
       "onboard_time": 1680072986,
       "rank": 12,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 469873,
-      "num": 469873,
-      "word": "8成投票网友支持孙国友女儿继承父业",
-      "onboard_time": 1680095367,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 467042,
@@ -715,14 +755,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 421678,
-      "num": 421678,
-      "word": "吴磊也需要别人演他小时候了",
-      "onboard_time": 1680094888,
-      "rank": 15,
-      "category": "影视"
-    },
-    {
       "raw_hot": 421330,
       "num": 421330,
       "word": "央媒评去有风的地方同款线路热卖",
@@ -753,6 +785,14 @@
       "onboard_time": 1680054087,
       "rank": 23,
       "category": "科技"
+    },
+    {
+      "raw_hot": 404192,
+      "num": 404192,
+      "word": "跪求供水事件协商暂无进展",
+      "onboard_time": 1680097228,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 400998,
@@ -817,6 +857,14 @@
       "onboard_time": 1680071128,
       "rank": 42,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 377736,
+      "num": 377736,
+      "word": "秦岚白裙",
+      "onboard_time": 1680098369,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 377633,
@@ -889,6 +937,14 @@
       "onboard_time": 1680091768,
       "rank": 16,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 355619,
+      "num": 355619,
+      "word": "你觉得毕业生起薪多少合适",
+      "onboard_time": 1680098790,
+      "rank": 14,
+      "category": "情感,教育"
     },
     {
       "raw_hot": 354032,
@@ -1107,6 +1163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 282438,
+      "num": 282438,
+      "word": "宋小宝挽宁静手上班",
+      "onboard_time": 1680100107,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 281089,
       "num": 210626,
       "word": "唯品会崩了",
@@ -1163,12 +1227,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 269240,
+      "num": 269240,
+      "word": "路晨归晓大婚",
+      "onboard_time": 1680099327,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 267567,
       "num": 267567,
       "word": "爱情而已的口碑",
       "onboard_time": 1680064770,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 267264,
+      "num": 267264,
+      "word": "真的有人一点社交都没有吗",
+      "onboard_time": 1680098130,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 267136,
@@ -1211,6 +1291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 261071,
+      "num": 261071,
+      "word": "为什么洗澡时总想小便",
+      "onboard_time": 1680100889,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 260597,
       "num": 260597,
       "word": "不小心把狗的碗踢翻后",
@@ -1241,6 +1329,14 @@
       "onboard_time": 1680077491,
       "rank": 47,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 251334,
+      "num": 251334,
+      "word": "蔡徐坤日内瓦开工随拍",
+      "onboard_time": 1680100529,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 248984,
@@ -1321,6 +1417,14 @@
       "onboard_time": 1680079105,
       "rank": 29,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 223844,
+      "num": 223844,
+      "word": "林俊杰郑容和演唱会舞台",
+      "onboard_time": 1680098369,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 223707,
@@ -1419,6 +1523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 212604,
+      "num": 212604,
+      "word": "发工资前后的你",
+      "onboard_time": 1680096389,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 212035,
       "num": 212035,
       "word": "减小肚子试试这个动作",
@@ -1499,6 +1611,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 201251,
+      "num": 198435,
+      "word": "忠犬八公",
+      "onboard_time": 1680101669,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 200796,
       "num": 200796,
       "word": "腾讯客服",
@@ -1529,6 +1649,14 @@
       "onboard_time": 1680070706,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199562,
+      "num": 199562,
+      "word": "跪地求水林场主称三成树木因缺水死亡",
+      "onboard_time": 1680101311,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 197838,
@@ -1579,6 +1707,14 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 196924,
+      "num": 196924,
+      "word": "治沙英雄孙国友",
+      "onboard_time": 1680101190,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196814,
       "num": 140451,
       "word": "这衣服很贵你确定要试吗",
@@ -1617,6 +1753,14 @@
       "onboard_time": 1680067527,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 194340,
+      "num": 194340,
+      "word": "XYG战胜RNGM",
+      "onboard_time": 1680100589,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 194322,
@@ -1691,6 +1835,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 185347,
+      "num": 185347,
+      "word": "张真源严浩翔树枝击剑",
+      "onboard_time": 1680099689,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 184950,
       "num": 184950,
       "word": "阿根廷7比0库拉索",
@@ -1745,6 +1897,14 @@
       "onboard_time": 1680008608,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 168453,
+      "num": 168453,
+      "word": "宁夏到底有多缺水",
+      "onboard_time": 1680101190,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 167250,
@@ -1811,6 +1971,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 162712,
+      "num": 162712,
+      "word": "王昭君乞巧织春",
+      "onboard_time": 1680101190,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 162200,
       "num": 162200,
       "word": "葛优打葛优躺官司获赔759万",
@@ -1825,6 +1993,14 @@
       "onboard_time": 1680071427,
       "rank": 36,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 160453,
+      "num": 160453,
+      "word": "李兰迪放学后便利店随拍",
+      "onboard_time": 1680096988,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 156817,
@@ -1843,12 +2019,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 155825,
+      "num": 155825,
+      "word": "王子文说疗愈对方不是伴侣要做的事",
+      "onboard_time": 1680101551,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 155029,
       "num": 155029,
       "word": "舒淇说南方屋里真的冷",
       "onboard_time": 1680017728,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 152494,
+      "num": 152494,
+      "word": "李沁说陈晓处理角色很自然有层次",
+      "onboard_time": 1680099268,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 151471,
@@ -1907,6 +2099,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 145470,
+      "num": 145470,
+      "word": "明日方舟",
+      "onboard_time": 1680101190,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 139479,
+      "num": 139479,
+      "word": "上海和武汉有多像",
+      "onboard_time": 1680099211,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 137713,
       "num": 137713,
       "word": "熊猫发情会有哪些刻板行为",
@@ -1929,6 +2137,14 @@
       "onboard_time": 1680014131,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 132773,
+      "num": 138964,
+      "word": "我想这样已经很久了",
+      "onboard_time": 1680096809,
+      "rank": 39,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 132005,
@@ -2049,14 +2265,6 @@
       "onboard_time": 1680015027,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 116289,
-      "num": 116289,
-      "word": "我想这样已经很久了",
-      "onboard_time": 1680096809,
-      "rank": 39,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 114959,
