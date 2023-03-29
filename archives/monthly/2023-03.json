@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1680128281538,
+  "endTime": 1680129212914,
   "band_list": [
     {
       "raw_hot": 27113842,
@@ -50243,6 +50243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 146218,
+      "num": 146218,
+      "word": "沙特内阁批准加入上海合作组织的决定",
+      "onboard_time": 1680124030,
+      "rank": 35,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 146152,
       "num": 192692,
       "word": "海关查获玳瑁拼接的装饰画",
@@ -55635,14 +55643,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 108202,
-      "num": 108202,
-      "word": "沙特内阁批准加入上海合作组织的决定",
-      "onboard_time": 1680124030,
-      "rank": 35,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 108126,
       "num": 1333854,
       "word": "第一视角感受南海海上直升机救援",
@@ -59147,6 +59147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 53585,
+      "num": 53585,
+      "word": "半夜陪主人上厕所的狗狗",
+      "onboard_time": 1680107959,
+      "rank": 30,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 53204,
       "num": 53204,
       "word": "祝绪丹蝴蝶结编发",
@@ -59275,14 +59283,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 48986,
-      "num": 48915,
-      "word": "半夜陪主人上厕所的狗狗",
-      "onboard_time": 1680107959,
-      "rank": 30,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 48682,
       "num": 839062,
       "word": "青春主场",
@@ -59305,6 +59305,14 @@
       "onboard_time": 1678791631,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 48414,
+      "num": 48414,
+      "word": "高加林报复性消费",
+      "onboard_time": 1680122350,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 48070,
@@ -59561,14 +59569,6 @@
       "onboard_time": 1679569227,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 41478,
-      "num": 41478,
-      "word": "高加林报复性消费",
-      "onboard_time": 1680122350,
-      "rank": 18,
-      "category": "影视"
     },
     {
       "raw_hot": 40325,
@@ -60003,6 +60003,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 26824,
+      "num": 26824,
+      "word": "王嘉尔和小宝宝贴贴",
+      "onboard_time": 1680121872,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 26334,
+      "num": 26334,
+      "word": "人间昆虫记",
+      "onboard_time": 1680121332,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25802,
       "num": 471613,
       "word": "开局之年的新机遇新挑战",
@@ -60025,14 +60041,6 @@
       "onboard_time": 1677841229,
       "rank": 39,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 24886,
-      "num": 24886,
-      "word": "王嘉尔和小宝宝贴贴",
-      "onboard_time": 1680121872,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 24354,
@@ -60097,14 +60105,6 @@
       "onboard_time": 1678266028,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 19484,
-      "num": 19691,
-      "word": "人间昆虫记",
-      "onboard_time": 1680121332,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 18463,

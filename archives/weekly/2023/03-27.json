@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1680128281538,
+  "endTime": 1680129212914,
   "band_list": [
     {
       "raw_hot": 12970403,
@@ -5595,6 +5595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 146218,
+      "num": 146218,
+      "word": "沙特内阁批准加入上海合作组织的决定",
+      "onboard_time": 1680124030,
+      "rank": 35,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 145287,
       "num": 145287,
       "word": "裸辞之后会变得更好吗",
@@ -6347,14 +6355,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 108202,
-      "num": 108202,
-      "word": "沙特内阁批准加入上海合作组织的决定",
-      "onboard_time": 1680124030,
-      "rank": 35,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 107615,
       "num": 88776,
       "word": "易烊千玺我可要坐直啦",
@@ -6891,6 +6891,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 53585,
+      "num": 53585,
+      "word": "半夜陪主人上厕所的狗狗",
+      "onboard_time": 1680107959,
+      "rank": 30,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 51454,
       "num": 51454,
       "word": "徐璐魔法女巫造型",
@@ -6923,12 +6931,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 48986,
-      "num": 48915,
-      "word": "半夜陪主人上厕所的狗狗",
-      "onboard_time": 1680107959,
-      "rank": 30,
-      "category": "幽默,情感"
+      "raw_hot": 48414,
+      "num": 48414,
+      "word": "高加林报复性消费",
+      "onboard_time": 1680122350,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 46843,
@@ -6961,14 +6969,6 @@
       "onboard_time": 1680102690,
       "rank": 48,
       "category": "艺人,美食"
-    },
-    {
-      "raw_hot": 41478,
-      "num": 41478,
-      "word": "高加林报复性消费",
-      "onboard_time": 1680122350,
-      "rank": 18,
-      "category": "影视"
     },
     {
       "raw_hot": 40325,
@@ -7011,16 +7011,16 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 24886,
-      "num": 24886,
+      "raw_hot": 26824,
+      "num": 26824,
       "word": "王嘉尔和小宝宝贴贴",
       "onboard_time": 1680121872,
       "rank": 44,
       "category": "艺人"
     },
     {
-      "raw_hot": 19484,
-      "num": 19691,
+      "raw_hot": 26334,
+      "num": 26334,
       "word": "人间昆虫记",
       "onboard_time": 1680121332,
       "rank": 48,
