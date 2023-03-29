@@ -1,0 +1,410 @@
+{
+  "runTime": 1680079034449,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2607937,
+        "num": 2607937,
+        "word": "佛山地震",
+        "onboard_time": 1680073771,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1444758,
+        "num": 1444758,
+        "word": "南航",
+        "onboard_time": 1680074972,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39226,
+        "num": 1320050,
+        "word": "充分发挥市场在资源配置中的决定性作用",
+        "onboard_time": 1680059666,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1605628,
+        "num": 1295307,
+        "word": "黑马情侣 剧本",
+        "onboard_time": 1680075812,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1223191,
+        "num": 1223191,
+        "word": "肖战黑粉写道歉信",
+        "onboard_time": 1680077309,
+        "rank": 4,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 908216,
+        "num": 908216,
+        "word": "钟薛高推出3.5元雪糕",
+        "onboard_time": 1680067229,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 849276,
+        "num": 849276,
+        "word": "徐艺洋说不会为了爱情放弃事业",
+        "onboard_time": 1680074793,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 715658,
+        "num": 715658,
+        "word": "欧阳震华",
+        "onboard_time": 1680069088,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 647943,
+        "num": 647943,
+        "word": "国家统一将给台湾带来哪些好处",
+        "onboard_time": 1680064169,
+        "rank": 8,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 579002,
+        "num": 579002,
+        "word": "刘惜君录制乘风破浪4出发路透",
+        "onboard_time": 1680077907,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 513145,
+        "num": 513145,
+        "word": "已灭绝猛犸象DNA被培育制成肉丸",
+        "onboard_time": 1680071188,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 509540,
+        "num": 509540,
+        "word": "微信朋友圈",
+        "onboard_time": 1680050309,
+        "rank": 11,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 483370,
+        "num": 483370,
+        "word": "理想回应雷达在无人陵园显示全是人",
+        "onboard_time": 1680075691,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 477547,
+        "num": 477547,
+        "word": "RNG Tabe都争取不回来",
+        "onboard_time": 1680076410,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 402286,
+        "num": 402286,
+        "word": "高叶林雨申吻戏",
+        "onboard_time": 1680071667,
+        "rank": 14,
+        "category": "影视,艺人"
+      },
+      {
+        "raw_hot": 322487,
+        "num": 322487,
+        "word": "美反华势力为遏制中国发展不惜毁灭台湾",
+        "onboard_time": 1680069509,
+        "rank": 15,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 291110,
+        "num": 291110,
+        "word": "美校长展示大卫雕像遭家长投诉色情",
+        "onboard_time": 1680074856,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283615,
+        "num": 283615,
+        "word": "贴吧崩了",
+        "onboard_time": 1680074733,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 275348,
+        "num": 275348,
+        "word": "BLG官宣Tabe加入",
+        "onboard_time": 1680074255,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 272334,
+        "num": 272334,
+        "word": "裸辞真的是很幼稚的行为吗",
+        "onboard_time": 1680078148,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 276626,
+        "num": 271276,
+        "word": "别想在我身上学到半点中文",
+        "onboard_time": 1680074913,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 265068,
+        "num": 265068,
+        "word": "陈哲远奔跑吧王子造型路透",
+        "onboard_time": 1680078267,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252216,
+        "num": 252216,
+        "word": "乘风破浪4",
+        "onboard_time": 1680072387,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247818,
+        "num": 247818,
+        "word": "吴磊女装再加一",
+        "onboard_time": 1680076112,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 236086,
+        "num": 236086,
+        "word": "专家说年轻人找工作不看工资看什么",
+        "onboard_time": 1680064350,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228159,
+        "num": 228159,
+        "word": "广州震感",
+        "onboard_time": 1680073890,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226654,
+        "num": 226654,
+        "word": "迪丽热巴异域公主风视频",
+        "onboard_time": 1680061048,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 223690,
+        "num": 223690,
+        "word": "鞠婧祎祝绪丹同款吊带",
+        "onboard_time": 1680072986,
+        "rank": 27,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 222679,
+        "num": 222679,
+        "word": "彭小苒捂脸哭戏",
+        "onboard_time": 1680076710,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 220804,
+        "num": 220804,
+        "word": "榴莲螺蛳粉双拼披萨",
+        "onboard_time": 1680078327,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 217536,
+        "num": 217536,
+        "word": "上海迪士尼疯狂动物城园区亮灯",
+        "onboard_time": 1680071128,
+        "rank": 30,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 209984,
+        "num": 209984,
+        "word": "抠门和会过日子是两码事",
+        "onboard_time": 1680077491,
+        "rank": 31,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 207582,
+        "num": 207582,
+        "word": "17岁南京功勋犬小虎去世",
+        "onboard_time": 1680075454,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191446,
+        "num": 191446,
+        "word": "减小肚子试试这个动作",
+        "onboard_time": 1680073106,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181029,
+        "num": 181029,
+        "word": "赵露思雨中撑伞视频",
+        "onboard_time": 1680073592,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178496,
+        "num": 178496,
+        "word": "陈晓说李沁张嘉倪是颜值担当",
+        "onboard_time": 1680070049,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 173093,
+        "num": 173093,
+        "word": "谢铜去世",
+        "onboard_time": 1680074496,
+        "rank": 36,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 165719,
+        "num": 165719,
+        "word": "女子离婚遭婆婆索要10万带孙费",
+        "onboard_time": 1680055465,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164579,
+        "num": 164579,
+        "word": "大鹏称王一博热烈很燃很炸",
+        "onboard_time": 1680073829,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 152118,
+        "num": 152118,
+        "word": "对室友好感就是这样消失的",
+        "onboard_time": 1680078449,
+        "rank": 39,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 149876,
+        "num": 149876,
+        "word": "狗狗读懂了环卫工人的手势",
+        "onboard_time": 1680071968,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 146812,
+        "num": 146812,
+        "word": "武汉一高校回应老人82元只买到俩素菜",
+        "onboard_time": 1680055107,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139962,
+        "num": 139962,
+        "word": "胡一天新签约罗晋经纪人",
+        "onboard_time": 1680061947,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127268,
+        "num": 127268,
+        "word": "aespa演唱苹果原创电影OST",
+        "onboard_time": 1680076053,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 126309,
+        "num": 126309,
+        "word": "湖南暂停与渤海银行资金监管合作",
+        "onboard_time": 1680068845,
+        "rank": 44,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 120361,
+        "num": 120361,
+        "word": "咖啡越做越离谱",
+        "onboard_time": 1680068067,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 114819,
+        "num": 114819,
+        "word": "霍建华或将参演玫瑰的故事",
+        "onboard_time": 1680060446,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 113174,
+        "num": 113174,
+        "word": "BoysPlanet新闻发布会",
+        "onboard_time": 1680073771,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100826,
+        "num": 100826,
+        "word": "呼吁暂停训练比GPT4更强大的AI系统",
+        "onboard_time": 1680069689,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 98008,
+        "num": 98008,
+        "word": "深圳震感",
+        "onboard_time": 1680074496,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#两翼齐飞看发展#"
+    }
+  }
+}

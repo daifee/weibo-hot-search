@@ -1,6 +1,6 @@
 {
   "startTime": 1680022234432,
-  "endTime": 1680078208347,
+  "endTime": 1680079034449,
   "band_list": [
     {
       "raw_hot": 12970403,
@@ -75,7 +75,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1582017,
+      "raw_hot": 1605628,
       "num": 1582017,
       "word": "黑马情侣 剧本",
       "onboard_time": 1680075812,
@@ -115,6 +115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1444758,
+      "num": 1444758,
+      "word": "南航",
+      "onboard_time": 1680074972,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1437681,
       "num": 1437681,
       "word": "孙毓敏去世",
@@ -139,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1223191,
+      "num": 1223191,
+      "word": "肖战黑粉写道歉信",
+      "onboard_time": 1680077309,
+      "rank": 5,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1217985,
       "num": 1150661,
       "word": "家属回应老人跪地求水",
@@ -155,28 +171,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 1151126,
-      "num": 1151126,
-      "word": "南航",
-      "onboard_time": 1680074972,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1102066,
       "num": 1102066,
       "word": "霍建华或将参演玫瑰的故事",
       "onboard_time": 1680060446,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 927888,
-      "num": 927888,
-      "word": "肖战黑粉写道歉信",
-      "onboard_time": 1680077309,
-      "rank": 5,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 886726,
@@ -363,6 +363,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 579002,
+      "num": 579002,
+      "word": "刘惜君录制乘风破浪4出发路透",
+      "onboard_time": 1680077907,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 570371,
       "num": 418928,
       "word": "腾讯回应微信异常",
@@ -419,20 +427,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 483370,
+      "num": 483370,
+      "word": "理想回应雷达在无人陵园显示全是人",
+      "onboard_time": 1680075691,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 480546,
       "num": 480546,
       "word": "还以为蒋雯丽要对明道说你是我的神",
       "onboard_time": 1680053487,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 479698,
-      "num": 479698,
-      "word": "刘惜君录制乘风破浪4出发路透",
-      "onboard_time": 1680077907,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 476408,
@@ -457,14 +465,6 @@
       "onboard_time": 1680068845,
       "rank": 11,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 457862,
-      "num": 457862,
-      "word": "理想回应雷达在无人陵园显示全是人",
-      "onboard_time": 1680075691,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 455416,
@@ -723,6 +723,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 291110,
+      "num": 291110,
+      "word": "美校长展示大卫雕像遭家长投诉色情",
+      "onboard_time": 1680074856,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 287713,
       "num": 287713,
       "word": "卫国平找到赵世杰犯案证据",
@@ -737,14 +745,6 @@
       "onboard_time": 1680059607,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 284556,
-      "num": 284556,
-      "word": "美校长展示大卫雕像遭家长投诉色情",
-      "onboard_time": 1680074856,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 281089,
@@ -787,6 +787,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 272334,
+      "num": 272334,
+      "word": "裸辞真的是很幼稚的行为吗",
+      "onboard_time": 1680078148,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 267567,
       "num": 267567,
       "word": "爱情而已的口碑",
@@ -800,6 +808,14 @@
       "word": "魏如萱拉马嘉祺衣角",
       "onboard_time": 1680045921,
       "rank": 10,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 265068,
+      "num": 265068,
+      "word": "陈哲远奔跑吧王子造型路透",
+      "onboard_time": 1680078267,
+      "rank": 21,
       "category": "综艺"
     },
     {
@@ -899,12 +915,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 222679,
+      "num": 222679,
+      "word": "彭小苒捂脸哭戏",
+      "onboard_time": 1680076710,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 222260,
       "num": 222260,
       "word": "中超公司原总经理董铮被查",
       "onboard_time": 1680059425,
       "rank": 35,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 220804,
+      "num": 220804,
+      "word": "榴莲螺蛳粉双拼披萨",
+      "onboard_time": 1680078327,
+      "rank": 29,
+      "category": "美食"
     },
     {
       "raw_hot": 220797,
@@ -921,14 +953,6 @@
       "onboard_time": 1680074134,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 219991,
-      "num": 219991,
-      "word": "彭小苒捂脸哭戏",
-      "onboard_time": 1680076710,
-      "rank": 28,
-      "category": "影视"
     },
     {
       "raw_hot": 218318,
@@ -985,6 +1009,14 @@
       "onboard_time": 1680069689,
       "rank": 34,
       "category": "科技"
+    },
+    {
+      "raw_hot": 209984,
+      "num": 209984,
+      "word": "抠门和会过日子是两码事",
+      "onboard_time": 1680077491,
+      "rank": 47,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 209727,
@@ -1315,6 +1347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 152118,
+      "num": 152118,
+      "word": "对室友好感就是这样消失的",
+      "onboard_time": 1680078449,
+      "rank": 39,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 151471,
       "num": 151471,
       "word": "黄旭直播吐槽说唱巅峰红毯图",
@@ -1491,14 +1531,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 113586,
-      "num": 113586,
-      "word": "抠门和会过日子是两码事",
-      "onboard_time": 1680077491,
-      "rank": 47,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 112337,
       "num": 112337,
       "word": "肖战坐姿仪态",
@@ -1521,14 +1553,6 @@
       "onboard_time": 1680015988,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 107484,
-      "num": 107484,
-      "word": "裸辞真的是很幼稚的行为吗",
-      "onboard_time": 1680078148,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 106348,
