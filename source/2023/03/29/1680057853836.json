@@ -1,0 +1,410 @@
+{
+  "runTime": 1680057853836,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1314371,
+        "num": 1314371,
+        "word": "微信QQ出现功能异常",
+        "onboard_time": 1680046523,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1233371,
+        "num": 1233371,
+        "word": "武汉一高校回应老人82元只买到俩素菜",
+        "onboard_time": 1680055107,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26664,
+        "num": 1178905,
+        "word": "守好中国式现代化的本和源",
+        "onboard_time": 1680011548,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1169549,
+        "num": 1169549,
+        "word": "美国众议院要让中国当发达国家",
+        "onboard_time": 1680051750,
+        "rank": 3,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 851503,
+        "num": 851503,
+        "word": "家属回应老人跪地求水",
+        "onboard_time": 1680054925,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 566436,
+        "num": 566436,
+        "word": "水务公司回应万亩林场主跪地求供水",
+        "onboard_time": 1680054984,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 480793,
+        "num": 480793,
+        "word": "苏醒录跑男把膝盖扭了",
+        "onboard_time": 1680049109,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 480546,
+        "num": 480546,
+        "word": "还以为蒋雯丽要对明道说你是我的神",
+        "onboard_time": 1680053487,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 365727,
+        "num": 365727,
+        "word": "孙毓敏去世",
+        "onboard_time": 1680018506,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340019,
+        "num": 340019,
+        "word": "塞尔达传说王国之泪已开发完成",
+        "onboard_time": 1680055826,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 2288530,
+        "num": 339287,
+        "word": "微信朋友圈",
+        "onboard_time": 1680050309,
+        "rank": 10,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 954747,
+        "num": 336740,
+        "word": "酒店不允许成年子女和父母住一个标间",
+        "onboard_time": 1680014548,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 810515,
+        "num": 336173,
+        "word": "麻六记",
+        "onboard_time": 1680047966,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 606236,
+        "num": 333965,
+        "word": "蒲熠星解开了我小学的困惑",
+        "onboard_time": 1680052947,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 413059,
+        "num": 331779,
+        "word": "腾讯客服删除回应",
+        "onboard_time": 1680054087,
+        "rank": 14,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 330943,
+        "num": 330943,
+        "word": "唐嫣说我们的客栈嘉宾都很和谐",
+        "onboard_time": 1680056965,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 303961,
+        "num": 303961,
+        "word": "高中生用甘油自制护肤品养出大菌种",
+        "onboard_time": 1680048690,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292131,
+        "num": 292131,
+        "word": "胡一天与华策合约到期不续约",
+        "onboard_time": 1680057684,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290424,
+        "num": 290424,
+        "word": "于洪臣被查",
+        "onboard_time": 1680056965,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278101,
+        "num": 278101,
+        "word": "王子文说不能接受伴侣看自己手机",
+        "onboard_time": 1680021681,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 519422,
+        "num": 278081,
+        "word": "女子离婚遭婆婆索要10万带孙费",
+        "onboard_time": 1680055465,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278050,
+        "num": 278050,
+        "word": "汽车雷达在无人陵园内显示全是人影",
+        "onboard_time": 1680045741,
+        "rank": 21,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 368015,
+        "num": 277779,
+        "word": "28岁女子当七年全职女友惹争议",
+        "onboard_time": 1680049167,
+        "rank": 22,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 271883,
+        "num": 271883,
+        "word": "央媒评去有风的地方同款线路热卖",
+        "onboard_time": 1680050669,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 282400,
+        "num": 268660,
+        "word": "长黑斑的香蕉才能缓解便秘",
+        "onboard_time": 1680054144,
+        "rank": 24,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 260597,
+        "num": 260597,
+        "word": "不小心把狗的碗踢翻后",
+        "onboard_time": 1680056065,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 260379,
+        "num": 260379,
+        "word": "黑马情侣 两人权力的转移",
+        "onboard_time": 1680011909,
+        "rank": 26,
+        "category": "网红,情感"
+      },
+      {
+        "raw_hot": 237438,
+        "num": 237438,
+        "word": "阿根廷进攻火力太猛了",
+        "onboard_time": 1680052050,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 231185,
+        "num": 231185,
+        "word": "梅西帽子戏法",
+        "onboard_time": 1680052050,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214531,
+        "num": 214531,
+        "word": "官方回应林场主崩溃跪地求水",
+        "onboard_time": 1680056126,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270717,
+        "num": 210626,
+        "word": "唯品会崩了",
+        "onboard_time": 1680054446,
+        "rank": 30,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 204715,
+        "num": 204715,
+        "word": "男子伙同女友贩卖104部不雅视频",
+        "onboard_time": 1680048808,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200118,
+        "num": 200118,
+        "word": "张艺兴喝香槟视频",
+        "onboard_time": 1680057565,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199968,
+        "num": 199968,
+        "word": "五月天26岁了",
+        "onboard_time": 1680048867,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189166,
+        "num": 189166,
+        "word": "婆婆给儿媳做花样月子餐42天不重样",
+        "onboard_time": 1680054865,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171630,
+        "num": 171630,
+        "word": "金珉奎笑容消失术",
+        "onboard_time": 1680054805,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 171239,
+        "num": 171239,
+        "word": "陈妍希绿色格纹小香风",
+        "onboard_time": 1680053129,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159685,
+        "num": 159685,
+        "word": "张杰说喜欢和陈粒对唱的哭砂",
+        "onboard_time": 1680048867,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150360,
+        "num": 150360,
+        "word": "战机突发故障他凭感觉成功降落山东舰",
+        "onboard_time": 1680052349,
+        "rank": 38,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 136899,
+        "num": 136899,
+        "word": "微信异常会影响你的生活吗",
+        "onboard_time": 1680054566,
+        "rank": 39,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 132700,
+        "num": 132700,
+        "word": "乐华的法务总监是微博私信投简历的",
+        "onboard_time": 1680019525,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127236,
+        "num": 127236,
+        "word": "广东中山报告1例H3N8病例",
+        "onboard_time": 1680016709,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123665,
+        "num": 123665,
+        "word": "专家回应大熊猫银柯身体情况",
+        "onboard_time": 1680050067,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120932,
+        "num": 120932,
+        "word": "老朋友是用来说废话的",
+        "onboard_time": 1680055646,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 118935,
+        "num": 118935,
+        "word": "马嘉祺声生不息最新repo",
+        "onboard_time": 1680055406,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116635,
+        "num": 116635,
+        "word": "金智秀solo曲预告视频",
+        "onboard_time": 1680047004,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 116531,
+        "num": 116531,
+        "word": "腾讯回应微信异常",
+        "onboard_time": 1680052767,
+        "rank": 46,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 107292,
+        "num": 107292,
+        "word": "突然胸痛的原因找到了",
+        "onboard_time": 1680012750,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 106863,
+        "num": 106863,
+        "word": "王鹤棣闪光灯变装视频",
+        "onboard_time": 1680056126,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 101178,
+        "num": 101178,
+        "word": "殷美根被查",
+        "onboard_time": 1680055706,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#两翼齐飞看发展#"
+    }
+  }
+}
