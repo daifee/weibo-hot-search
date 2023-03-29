@@ -1,0 +1,410 @@
+{
+  "runTime": 1680068026380,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1929100,
+        "num": 1929100,
+        "word": "国家统一将给台湾带来哪些好处",
+        "onboard_time": 1680064169,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 815359,
+        "num": 815359,
+        "word": "武汉一高校回应老人82元只买到俩素菜",
+        "onboard_time": 1680055107,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36611,
+        "num": 806435,
+        "word": "充分发挥市场在资源配置中的决定性作用",
+        "onboard_time": 1680059666,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 953096,
+        "num": 806393,
+        "word": "胡一天新签约罗晋经纪人",
+        "onboard_time": 1680061947,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 806343,
+        "num": 806343,
+        "word": "品牌方否认邀请都美竹",
+        "onboard_time": 1680065370,
+        "rank": 4,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 694132,
+        "num": 694132,
+        "word": "水务公司回应万亩林场主跪地求供水",
+        "onboard_time": 1680054984,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 662943,
+        "num": 662943,
+        "word": "喜欢你我也是",
+        "onboard_time": 1680066569,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 630093,
+        "num": 630093,
+        "word": "美国众议院要让中国当发达国家",
+        "onboard_time": 1680051750,
+        "rank": 7,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 562379,
+        "num": 562379,
+        "word": "钟薛高推出3.5元雪糕",
+        "onboard_time": 1680067229,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 508262,
+        "num": 508262,
+        "word": "全职女友要分手补偿是否合理",
+        "onboard_time": 1680063510,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1233856,
+        "num": 486871,
+        "word": "微信朋友圈",
+        "onboard_time": 1680050309,
+        "rank": 10,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 893355,
+        "num": 477512,
+        "word": "神华集团",
+        "onboard_time": 1680060985,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 582264,
+        "num": 470711,
+        "word": "迪丽热巴异域公主风视频",
+        "onboard_time": 1680061048,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 456198,
+        "num": 456198,
+        "word": "肖战黑色大衣看展随拍",
+        "onboard_time": 1680065131,
+        "rank": 13,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 442221,
+        "num": 442221,
+        "word": "霍建华或将参演玫瑰的故事",
+        "onboard_time": 1680060446,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 402047,
+        "num": 402047,
+        "word": "艺率在河道英和全在俊中选择",
+        "onboard_time": 1680066270,
+        "rank": 15,
+        "category": "影视,艺人"
+      },
+      {
+        "raw_hot": 390908,
+        "num": 390908,
+        "word": "微信问一问",
+        "onboard_time": 1680061887,
+        "rank": 16,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 380090,
+        "num": 380090,
+        "word": "家属回应老人跪地求水",
+        "onboard_time": 1680054925,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365867,
+        "num": 365867,
+        "word": "蒋雯丽明道海尔兄弟",
+        "onboard_time": 1680063328,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 337737,
+        "num": 337737,
+        "word": "麻六记",
+        "onboard_time": 1680047966,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 450629,
+        "num": 321130,
+        "word": "专家说年轻人找工作不看工资看什么",
+        "onboard_time": 1680064350,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349832,
+        "num": 318996,
+        "word": "女子离婚遭婆婆索要10万带孙费",
+        "onboard_time": 1680055465,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304287,
+        "num": 304287,
+        "word": "刘宇宁爱情而已人物主题曲",
+        "onboard_time": 1680067649,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 296888,
+        "num": 296888,
+        "word": "一个演员拼到最后拼的是文化",
+        "onboard_time": 1680061048,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294974,
+        "num": 294974,
+        "word": "武汉涉事高校食堂已停业整顿",
+        "onboard_time": 1680065971,
+        "rank": 24,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 264414,
+        "num": 264414,
+        "word": "华晨宇教马嘉祺唱歌",
+        "onboard_time": 1680065669,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 262146,
+        "num": 262146,
+        "word": "原神",
+        "onboard_time": 1680065430,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 257147,
+        "num": 257147,
+        "word": "蔡徐坤的胸针",
+        "onboard_time": 1680067349,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 254534,
+        "num": 254534,
+        "word": "孙国友此前727万判决书曝光",
+        "onboard_time": 1680063569,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228950,
+        "num": 228950,
+        "word": "爱情而已的口碑",
+        "onboard_time": 1680064770,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 307532,
+        "num": 227449,
+        "word": "天气预报员王俊凯",
+        "onboard_time": 1680062248,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205993,
+        "num": 205993,
+        "word": "男子刚进厨房下一秒高压锅爆炸",
+        "onboard_time": 1680062608,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204308,
+        "num": 204308,
+        "word": "28岁女子当七年全职女友惹争议",
+        "onboard_time": 1680049167,
+        "rank": 32,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 195665,
+        "num": 195665,
+        "word": "勇士战胜鹈鹕",
+        "onboard_time": 1680067527,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185505,
+        "num": 185505,
+        "word": "打工人早上挤地铁有多难",
+        "onboard_time": 1680063510,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 175634,
+        "num": 175634,
+        "word": "代号鸢",
+        "onboard_time": 1680066869,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 171905,
+        "num": 171905,
+        "word": "男童走路跛脚竟被查出患白血病",
+        "onboard_time": 1680060147,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167323,
+        "num": 167323,
+        "word": "苏醒录跑男把膝盖扭了",
+        "onboard_time": 1680049109,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161473,
+        "num": 161473,
+        "word": "微信QQ出现功能异常",
+        "onboard_time": 1680046523,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 155597,
+        "num": 155597,
+        "word": "风月不相关",
+        "onboard_time": 1680064533,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 142032,
+        "num": 142032,
+        "word": "蒲熠星解开了我小学的困惑",
+        "onboard_time": 1680052947,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141635,
+        "num": 141635,
+        "word": "萌探3节目组发声明",
+        "onboard_time": 1680059968,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140166,
+        "num": 140166,
+        "word": "不小心把狗的碗踢翻后",
+        "onboard_time": 1680056065,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138934,
+        "num": 138934,
+        "word": "酒店不允许成年子女和父母住一个标间",
+        "onboard_time": 1680014548,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138648,
+        "num": 138648,
+        "word": "长黑斑的香蕉才能缓解便秘",
+        "onboard_time": 1680054144,
+        "rank": 44,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 132931,
+        "num": 132931,
+        "word": "国台办回应蔡英文拟过境窜访美国",
+        "onboard_time": 1680057987,
+        "rank": 45,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 119307,
+        "num": 119307,
+        "word": "HYBE今年将推出两组新男团",
+        "onboard_time": 1680059366,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118336,
+        "num": 118336,
+        "word": "于正说张静初的分享很正能量",
+        "onboard_time": 1680064590,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116243,
+        "num": 116243,
+        "word": "秦岚邓家佳新剧对手戏",
+        "onboard_time": 1680063868,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 115235,
+        "num": 115235,
+        "word": "宋三川耳朵红了",
+        "onboard_time": 1680066512,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席五次博鳌演讲金句#"
+    }
+  }
+}

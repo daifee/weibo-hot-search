@@ -1,6 +1,6 @@
 {
   "startTime": 1680022234432,
-  "endTime": 1680067029449,
+  "endTime": 1680068026380,
   "band_list": [
     {
       "raw_hot": 2998077,
@@ -27,6 +27,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1929100,
+      "num": 1929100,
+      "word": "国家统一将给台湾带来哪些好处",
+      "onboard_time": 1680064169,
+      "rank": 34,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 1890826,
       "num": 1890826,
       "word": "酒店不允许成年子女和父母住一个标间",
@@ -41,14 +49,6 @@
       "onboard_time": 1680060985,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1793184,
-      "num": 1793184,
-      "word": "国家统一将给台湾带来哪些好处",
-      "onboard_time": 1680064169,
-      "rank": 34,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 1548702,
@@ -131,6 +131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 806343,
+      "num": 806343,
+      "word": "品牌方否认邀请都美竹",
+      "onboard_time": 1680065370,
+      "rank": 6,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 769070,
       "num": 769070,
       "word": "苏醒录跑男把膝盖扭了",
@@ -163,20 +171,20 @@
       "category": "科技"
     },
     {
-      "raw_hot": 705530,
-      "num": 705530,
-      "word": "品牌方否认邀请都美竹",
-      "onboard_time": 1680065370,
-      "rank": 6,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 668623,
       "num": 668623,
       "word": "莲花楼",
       "onboard_time": 1680058047,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 662943,
+      "num": 662943,
+      "word": "喜欢你我也是",
+      "onboard_time": 1680066569,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 642891,
@@ -251,6 +259,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 562379,
+      "num": 562379,
+      "word": "钟薛高推出3.5元雪糕",
+      "onboard_time": 1680067229,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 526679,
       "num": 526679,
       "word": "一个演员拼到最后拼的是文化",
@@ -267,6 +283,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 508262,
+      "num": 508262,
+      "word": "全职女友要分手补偿是否合理",
+      "onboard_time": 1680063510,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 480546,
       "num": 480546,
       "word": "还以为蒋雯丽要对明道说你是我的神",
@@ -275,11 +299,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 455757,
-      "num": 455757,
-      "word": "全职女友要分手补偿是否合理",
-      "onboard_time": 1680063510,
-      "rank": 33,
+      "raw_hot": 450629,
+      "num": 395886,
+      "word": "专家说年轻人找工作不看工资看什么",
+      "onboard_time": 1680064350,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -299,14 +323,6 @@
       "category": "网红,情感"
     },
     {
-      "raw_hot": 432127,
-      "num": 395886,
-      "word": "专家说年轻人找工作不看工资看什么",
-      "onboard_time": 1680064350,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 427632,
       "num": 427632,
       "word": "艺率在河道英和全在俊中选择",
@@ -321,14 +337,6 @@
       "onboard_time": 1680012750,
       "rank": 6,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 423423,
-      "num": 423423,
-      "word": "喜欢你我也是",
-      "onboard_time": 1680066569,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 421330,
@@ -467,12 +475,28 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 304287,
+      "num": 304287,
+      "word": "刘宇宁爱情而已人物主题曲",
+      "onboard_time": 1680067649,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 299183,
       "num": 299183,
       "word": "原神",
       "onboard_time": 1680065430,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 294974,
+      "num": 294974,
+      "word": "武汉涉事高校食堂已停业整顿",
+      "onboard_time": 1680065971,
+      "rank": 30,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 294098,
@@ -547,20 +571,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 257147,
+      "num": 257147,
+      "word": "蔡徐坤的胸针",
+      "onboard_time": 1680067349,
+      "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 242925,
       "num": 242925,
       "word": "专家回应大熊猫银柯身体情况",
       "onboard_time": 1680050067,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 234948,
-      "num": 209402,
-      "word": "武汉涉事高校食堂已停业整顿",
-      "onboard_time": 1680065971,
-      "rank": 30,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 230897,
@@ -691,6 +715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 195665,
+      "num": 195665,
+      "word": "勇士战胜鹈鹕",
+      "onboard_time": 1680067527,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 194322,
       "num": 194322,
       "word": "鹈鹕VS勇士",
@@ -731,6 +763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 185505,
+      "num": 185505,
+      "word": "打工人早上挤地铁有多难",
+      "onboard_time": 1680063510,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 184950,
       "num": 184950,
       "word": "阿根廷7比0库拉索",
@@ -739,20 +779,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 181197,
-      "num": 181197,
-      "word": "打工人早上挤地铁有多难",
-      "onboard_time": 1680063510,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 176901,
       "num": 164588,
       "word": "终于知道炸串摊的秘密了",
       "onboard_time": 1680014788,
       "rank": 22,
       "category": "美食"
+    },
+    {
+      "raw_hot": 175634,
+      "num": 175634,
+      "word": "代号鸢",
+      "onboard_time": 1680066869,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 172771,
@@ -1001,14 +1041,6 @@
       "onboard_time": 1680049588,
       "rank": 43,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 116557,
-      "num": 116557,
-      "word": "代号鸢",
-      "onboard_time": 1680066869,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 116428,
@@ -1279,6 +1311,9 @@
     },
     {
       "word": "#两翼齐飞看发展#"
+    },
+    {
+      "word": "#习近平主席五次博鳌演讲金句#"
     }
   ]
 }
