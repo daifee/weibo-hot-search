@@ -1,0 +1,410 @@
+{
+  "runTime": 1680086158392,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2526722,
+        "num": 2526722,
+        "word": "谢娜瘦二十斤综艺回归首秀",
+        "onboard_time": 1680084387,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1800808,
+        "num": 1800808,
+        "word": "裸辞真的是很幼稚的行为吗",
+        "onboard_time": 1680078148,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 11034,
+        "num": 1411487,
+        "word": "充分发挥市场在资源配置中的决定性作用",
+        "onboard_time": 1680059666,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1295239,
+        "num": 1295239,
+        "word": "男子求复合在女生公司外跪一夜",
+        "onboard_time": 1680083609,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 972734,
+        "num": 972734,
+        "word": "关晓彤是听到了什么",
+        "onboard_time": 1680082767,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 847701,
+        "num": 847701,
+        "word": "忘崽牛奶",
+        "onboard_time": 1680082107,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 779907,
+        "num": 779907,
+        "word": "黑马情侣 剧本",
+        "onboard_time": 1680075812,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 670644,
+        "num": 670644,
+        "word": "广州地铁不强制要求佩戴口罩",
+        "onboard_time": 1680081688,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 545353,
+        "num": 545353,
+        "word": "聂小雨好惨",
+        "onboard_time": 1680086008,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 490679,
+        "num": 490679,
+        "word": "钟薛高推出3.5元雪糕",
+        "onboard_time": 1680067229,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 574684,
+        "num": 478917,
+        "word": "内娱男菩萨图鉴",
+        "onboard_time": 1680083247,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 461637,
+        "num": 461637,
+        "word": "中国神华回应",
+        "onboard_time": 1680084689,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 403733,
+        "num": 403733,
+        "word": "市领导回应林场主跪地求供水",
+        "onboard_time": 1680084508,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 398020,
+        "num": 398020,
+        "word": "胡歌唐嫣新剧同框",
+        "onboard_time": 1680085588,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 394051,
+        "num": 394051,
+        "word": "徐艺洋说不会为了爱情放弃事业",
+        "onboard_time": 1680074793,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 383659,
+        "num": 383659,
+        "word": "伊能静方媛同框",
+        "onboard_time": 1680083367,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 383579,
+        "num": 383579,
+        "word": "欧阳震华",
+        "onboard_time": 1680069088,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 354013,
+        "num": 354013,
+        "word": "佛山地震",
+        "onboard_time": 1680073771,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343092,
+        "num": 343092,
+        "word": "南航随心飞",
+        "onboard_time": 1680074972,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340201,
+        "num": 340201,
+        "word": "对室友好感就是这样消失的",
+        "onboard_time": 1680078449,
+        "rank": 19,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 325179,
+        "num": 325179,
+        "word": "NMIXX初一位",
+        "onboard_time": 1680085709,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 324197,
+        "num": 324197,
+        "word": "姐狗cp天花板",
+        "onboard_time": 1680083668,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 301850,
+        "num": 301850,
+        "word": "茅台推出酒瓶装冰淇淋",
+        "onboard_time": 1680084147,
+        "rank": 22,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 289312,
+        "num": 289312,
+        "word": "黄景瑜黄明昊严浩翔录制路透",
+        "onboard_time": 1680082407,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283348,
+        "num": 283348,
+        "word": "国家统一将给台湾带来哪些好处",
+        "onboard_time": 1680064169,
+        "rank": 24,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 273872,
+        "num": 273872,
+        "word": "理想回应雷达在无人陵园显示全是人",
+        "onboard_time": 1680075691,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231760,
+        "num": 231760,
+        "word": "品质盛典全阵容",
+        "onboard_time": 1680083967,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 228629,
+        "num": 228629,
+        "word": "薛之谦巡演武汉站双场同步开售",
+        "onboard_time": 1680080428,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 224808,
+        "num": 224808,
+        "word": "孙国友女儿晒供水协议",
+        "onboard_time": 1680084627,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217846,
+        "num": 217846,
+        "word": "谁家熊猫这样吃竹子",
+        "onboard_time": 1680079528,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 217430,
+        "num": 217430,
+        "word": "艺率不知道黑暗荣耀具体剧情",
+        "onboard_time": 1680080788,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 205296,
+        "num": 205296,
+        "word": "已灭绝猛犸象DNA被培育制成肉丸",
+        "onboard_time": 1680071188,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202438,
+        "num": 202438,
+        "word": "心盲症",
+        "onboard_time": 1680082287,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 195437,
+        "num": 195437,
+        "word": "大熊猫避雨顾头不顾尾",
+        "onboard_time": 1680082646,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 183906,
+        "num": 183906,
+        "word": "RNG Tabe都争取不回来",
+        "onboard_time": 1680076410,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 176197,
+        "num": 176197,
+        "word": "广州震感",
+        "onboard_time": 1680073890,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165680,
+        "num": 165680,
+        "word": "小猫印章",
+        "onboard_time": 1680083008,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 156159,
+        "num": 156159,
+        "word": "美反华势力为遏制中国发展不惜毁灭台湾",
+        "onboard_time": 1680069509,
+        "rank": 37,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 151350,
+        "num": 151350,
+        "word": "超300亿倍太阳质量的黑洞现身",
+        "onboard_time": 1680081508,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 150847,
+        "num": 150847,
+        "word": "乘风破浪4",
+        "onboard_time": 1680072387,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145365,
+        "num": 145365,
+        "word": "微信朋友圈",
+        "onboard_time": 1680050309,
+        "rank": 40,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 137352,
+        "num": 137352,
+        "word": "高叶林雨申吻戏",
+        "onboard_time": 1680071667,
+        "rank": 41,
+        "category": "影视,艺人"
+      },
+      {
+        "raw_hot": 126846,
+        "num": 126846,
+        "word": "王建国竟然比庞博高",
+        "onboard_time": 1680079649,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117950,
+        "num": 117950,
+        "word": "别想在我身上学到半点中文",
+        "onboard_time": 1680074913,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112161,
+        "num": 112161,
+        "word": "金赫拉晒孙明悟葬礼拍摄花絮",
+        "onboard_time": 1680085948,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 109435,
+        "num": 109435,
+        "word": "刘惜君录制乘风破浪4出发路透",
+        "onboard_time": 1680077907,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102431,
+        "num": 102431,
+        "word": "鞠婧祎祝绪丹同款吊带",
+        "onboard_time": 1680072986,
+        "rank": 46,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 100874,
+        "num": 100874,
+        "word": "专家说年轻人找工作不看工资看什么",
+        "onboard_time": 1680064350,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98646,
+        "num": 98646,
+        "word": "抠门和会过日子是两码事",
+        "onboard_time": 1680077491,
+        "rank": 48,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 89435,
+        "num": 89435,
+        "word": "BLG官宣Tabe加入",
+        "onboard_time": 1680074255,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席五次博鳌演讲金句#"
+    }
+  }
+}

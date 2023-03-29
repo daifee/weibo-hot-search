@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1680085191220,
+  "endTime": 1680086158392,
   "band_list": [
     {
       "raw_hot": 12970403,
@@ -99,6 +99,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2526722,
+      "num": 2526722,
+      "word": "谢娜瘦二十斤综艺回归首秀",
+      "onboard_time": 1680084387,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2510051,
       "num": 955849,
       "word": "马云已回国",
@@ -145,14 +153,6 @@
       "onboard_time": 1679887712,
       "rank": 3,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 2185309,
-      "num": 2185309,
-      "word": "谢娜瘦二十斤综艺回归首秀",
-      "onboard_time": 1680084387,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 2146409,
@@ -457,6 +457,14 @@
       "onboard_time": 1679824948,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1295239,
+      "num": 1295239,
+      "word": "男子求复合在女生公司外跪一夜",
+      "onboard_time": 1680083609,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1285147,
@@ -859,12 +867,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 862752,
-      "num": 862752,
-      "word": "男子求复合在女生公司外跪一夜",
-      "onboard_time": 1680083609,
-      "rank": 5,
-      "category": "社会新闻"
+      "raw_hot": 847701,
+      "num": 847701,
+      "word": "忘崽牛奶",
+      "onboard_time": 1680082107,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 843062,
@@ -881,14 +889,6 @@
       "onboard_time": 1679822608,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 837134,
-      "num": 837134,
-      "word": "忘崽牛奶",
-      "onboard_time": 1680082107,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 833605,
@@ -1131,20 +1131,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 670644,
+      "num": 670644,
+      "word": "广州地铁不强制要求佩戴口罩",
+      "onboard_time": 1680081688,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 668623,
       "num": 668623,
       "word": "莲花楼",
       "onboard_time": 1680058047,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 663119,
-      "num": 663119,
-      "word": "广州地铁不强制要求佩戴口罩",
-      "onboard_time": 1680081688,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 662943,
@@ -1539,6 +1539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 545353,
+      "num": 545353,
+      "word": "聂小雨好惨",
+      "onboard_time": 1680086008,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 540171,
       "num": 247828,
       "word": "中国哪个小县城名字最好听",
@@ -1819,6 +1827,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 461637,
+      "num": 461637,
+      "word": "中国神华回应",
+      "onboard_time": 1680084689,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 461080,
       "num": 461080,
       "word": "迪士尼真人版小美人鱼确认引进",
@@ -2091,6 +2107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 403733,
+      "num": 403733,
+      "word": "市领导回应林场主跪地求供水",
+      "onboard_time": 1680084508,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 402871,
       "num": 402871,
       "word": "广州报名骨灰撒海市民逐年增多",
@@ -2161,6 +2185,14 @@
       "onboard_time": 1679835387,
       "rank": 9,
       "category": "科技"
+    },
+    {
+      "raw_hot": 398020,
+      "num": 398020,
+      "word": "胡歌唐嫣新剧同框",
+      "onboard_time": 1680085588,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 396450,
@@ -2595,6 +2627,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 325179,
+      "num": 325179,
+      "word": "NMIXX初一位",
+      "onboard_time": 1680085709,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 324516,
       "num": 324516,
       "word": "村BA总冠军诞生",
@@ -2761,6 +2801,14 @@
       "onboard_time": 1679965230,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 301850,
+      "num": 301850,
+      "word": "茅台推出酒瓶装冰淇淋",
+      "onboard_time": 1680084147,
+      "rank": 26,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 299629,
@@ -3315,14 +3363,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 246753,
-      "num": 246753,
-      "word": "中国神华回应",
-      "onboard_time": 1680084689,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 246398,
       "num": 246398,
       "word": "爱情而已",
@@ -3563,6 +3603,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 224808,
+      "num": 224808,
+      "word": "孙国友女儿晒供水协议",
+      "onboard_time": 1680084627,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 224284,
       "num": 224284,
       "word": "去有风的地方将上线网飞",
@@ -3641,14 +3689,6 @@
       "onboard_time": 1679848940,
       "rank": 10,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 219530,
-      "num": 219530,
-      "word": "茅台推出酒瓶装冰淇淋",
-      "onboard_time": 1680084147,
-      "rank": 26,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 218611,
@@ -3947,6 +3987,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 202438,
+      "num": 202438,
+      "word": "心盲症",
+      "onboard_time": 1680082287,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 202001,
       "num": 202001,
       "word": "山河之影",
@@ -4059,14 +4107,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 197723,
-      "num": 197723,
-      "word": "市领导回应林场主跪地求供水",
-      "onboard_time": 1680084508,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 197525,
       "num": 197525,
       "word": "林俊杰给场外观众发荧光棒",
@@ -4153,6 +4193,14 @@
       "onboard_time": 1680067527,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 195437,
+      "num": 195437,
+      "word": "大熊猫避雨顾头不顾尾",
+      "onboard_time": 1680082646,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 195153,
@@ -4379,14 +4427,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 184916,
-      "num": 184916,
-      "word": "大熊猫避雨顾头不顾尾",
-      "onboard_time": 1680082646,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 184099,
       "num": 184099,
       "word": "王楚钦孙颖莎三连胜",
@@ -4595,14 +4635,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 174273,
-      "num": 174273,
-      "word": "孙国友女儿晒供水协议",
-      "onboard_time": 1680084627,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 174264,
       "num": 174264,
       "word": "腊么肠戒指",
@@ -4633,14 +4665,6 @@
       "onboard_time": 1679968949,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 172908,
-      "num": 172908,
-      "word": "心盲症",
-      "onboard_time": 1680082287,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 172681,
@@ -4763,6 +4787,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 165680,
+      "num": 165680,
+      "word": "小猫印章",
+      "onboard_time": 1680083008,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 164149,
       "num": 164149,
       "word": "每天按时出门假装去上班",
@@ -4817,14 +4849,6 @@
       "onboard_time": 1679906371,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 159983,
-      "num": 159983,
-      "word": "小猫印章",
-      "onboard_time": 1680083008,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 159882,
@@ -5633,6 +5657,14 @@
       "onboard_time": 1679919451,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 112161,
+      "num": 112161,
+      "word": "金赫拉晒孙明悟葬礼拍摄花絮",
+      "onboard_time": 1680085948,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 111781,

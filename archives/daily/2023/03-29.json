@@ -1,6 +1,6 @@
 {
   "startTime": 1680022234432,
-  "endTime": 1680085191220,
+  "endTime": 1680086158392,
   "band_list": [
     {
       "raw_hot": 12970403,
@@ -35,20 +35,20 @@
       "category": "科技"
     },
     {
+      "raw_hot": 2526722,
+      "num": 2526722,
+      "word": "谢娜瘦二十斤综艺回归首秀",
+      "onboard_time": 1680084387,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2317587,
       "num": 2317587,
       "word": "钟薛高推出3.5元雪糕",
       "onboard_time": 1680067229,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2185309,
-      "num": 2185309,
-      "word": "谢娜瘦二十斤综艺回归首秀",
-      "onboard_time": 1680084387,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 2139795,
@@ -155,6 +155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1295239,
+      "num": 1295239,
+      "word": "男子求复合在女生公司外跪一夜",
+      "onboard_time": 1680083609,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1285147,
       "num": 856474,
       "word": "胡一天与华策合约到期不续约",
@@ -219,16 +227,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 862752,
-      "num": 862752,
-      "word": "男子求复合在女生公司外跪一夜",
-      "onboard_time": 1680083609,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 837134,
-      "num": 837134,
+      "raw_hot": 847701,
+      "num": 847701,
       "word": "忘崽牛奶",
       "onboard_time": 1680082107,
       "rank": 35,
@@ -315,20 +315,20 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 670644,
+      "num": 670644,
+      "word": "广州地铁不强制要求佩戴口罩",
+      "onboard_time": 1680081688,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 668623,
       "num": 668623,
       "word": "莲花楼",
       "onboard_time": 1680058047,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 663119,
-      "num": 663119,
-      "word": "广州地铁不强制要求佩戴口罩",
-      "onboard_time": 1680081688,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 662943,
@@ -459,6 +459,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 545353,
+      "num": 545353,
+      "word": "聂小雨好惨",
+      "onboard_time": 1680086008,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 533036,
       "num": 533036,
       "word": "RNG Tabe都争取不回来",
@@ -537,6 +545,14 @@
       "onboard_time": 1680072986,
       "rank": 12,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 461637,
+      "num": 461637,
+      "word": "中国神华回应",
+      "onboard_time": 1680084689,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 458842,
@@ -627,12 +643,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 403733,
+      "num": 403733,
+      "word": "市领导回应林场主跪地求供水",
+      "onboard_time": 1680084508,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 399369,
       "num": 399369,
       "word": "张艺兴喝香槟视频",
       "onboard_time": 1680057565,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 398020,
+      "num": 398020,
+      "word": "胡歌唐嫣新剧同框",
+      "onboard_time": 1680085588,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 396213,
@@ -795,6 +827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 325179,
+      "num": 325179,
+      "word": "NMIXX初一位",
+      "onboard_time": 1680085709,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 322555,
       "num": 270507,
       "word": "谁家熊猫这样吃竹子",
@@ -833,6 +873,14 @@
       "onboard_time": 1680067649,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 301850,
+      "num": 301850,
+      "word": "茅台推出酒瓶装冰淇淋",
+      "onboard_time": 1680084147,
+      "rank": 26,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 299183,
@@ -1003,14 +1051,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 246753,
-      "num": 246753,
-      "word": "中国神华回应",
-      "onboard_time": 1680084689,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 242925,
       "num": 242925,
       "word": "专家回应大熊猫银柯身体情况",
@@ -1075,6 +1115,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 224808,
+      "num": 224808,
+      "word": "孙国友女儿晒供水协议",
+      "onboard_time": 1680084627,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 223707,
       "num": 223707,
       "word": "17岁南京功勋犬小虎去世",
@@ -1113,14 +1161,6 @@
       "onboard_time": 1680074134,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 219530,
-      "num": 219530,
-      "word": "茅台推出酒瓶装冰淇淋",
-      "onboard_time": 1680084147,
-      "rank": 26,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 218611,
@@ -1235,6 +1275,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 202438,
+      "num": 202438,
+      "word": "心盲症",
+      "onboard_time": 1680082287,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 200796,
       "num": 200796,
       "word": "腾讯客服",
@@ -1265,14 +1313,6 @@
       "onboard_time": 1680070706,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 197723,
-      "num": 197723,
-      "word": "市领导回应林场主跪地求供水",
-      "onboard_time": 1680084508,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 197477,
@@ -1329,6 +1369,14 @@
       "onboard_time": 1680067527,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 195437,
+      "num": 195437,
+      "word": "大熊猫避雨顾头不顾尾",
+      "onboard_time": 1680082646,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 194322,
@@ -1395,14 +1443,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 184916,
-      "num": 184916,
-      "word": "大熊猫避雨顾头不顾尾",
-      "onboard_time": 1680082646,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 181026,
       "num": 181026,
       "word": "微信尝试刷掌支付",
@@ -1417,22 +1457,6 @@
       "onboard_time": 1680014788,
       "rank": 22,
       "category": "美食"
-    },
-    {
-      "raw_hot": 174273,
-      "num": 174273,
-      "word": "孙国友女儿晒供水协议",
-      "onboard_time": 1680084627,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 172908,
-      "num": 172908,
-      "word": "心盲症",
-      "onboard_time": 1680082287,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 172771,
@@ -1491,6 +1515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 165680,
+      "num": 165680,
+      "word": "小猫印章",
+      "onboard_time": 1680083008,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 165578,
       "num": 165578,
       "word": "向往的生活",
@@ -1537,14 +1569,6 @@
       "onboard_time": 1680071427,
       "rank": 36,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 159983,
-      "num": 159983,
-      "word": "小猫印章",
-      "onboard_time": 1680083008,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 156817,
@@ -1769,6 +1793,14 @@
       "onboard_time": 1680000871,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 112161,
+      "num": 112161,
+      "word": "金赫拉晒孙明悟葬礼拍摄花絮",
+      "onboard_time": 1680085948,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 111521,
