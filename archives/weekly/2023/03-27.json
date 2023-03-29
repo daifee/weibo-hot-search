@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1680079034449,
+  "endTime": 1680081505647,
   "band_list": [
     {
       "raw_hot": 12970403,
@@ -251,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1704092,
+      "num": 1704092,
+      "word": "裸辞真的是很幼稚的行为吗",
+      "onboard_time": 1680078148,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1691802,
       "num": 1691802,
       "word": "孩子给离世父亲发短信被回复",
@@ -273,6 +281,14 @@
       "onboard_time": 1679914652,
       "rank": 3,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1625993,
+      "num": 1625993,
+      "word": "南航",
+      "onboard_time": 1680074972,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1605628,
@@ -345,14 +361,6 @@
       "onboard_time": 1679887772,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1444758,
-      "num": 1444758,
-      "word": "南航",
-      "onboard_time": 1680074972,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1437681,
@@ -1579,6 +1587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 502867,
+      "num": 502867,
+      "word": "理想回应雷达在无人陵园显示全是人",
+      "onboard_time": 1680075691,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 496872,
       "num": 496872,
       "word": "李栋旭九尾狐传1938海报",
@@ -1593,6 +1609,14 @@
       "onboard_time": 1679899830,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 495960,
+      "num": 495960,
+      "word": "对室友好感就是这样消失的",
+      "onboard_time": 1680078449,
+      "rank": 39,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 493219,
@@ -1625,14 +1649,6 @@
       "onboard_time": 1679893836,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 483370,
-      "num": 483370,
-      "word": "理想回应雷达在无人陵园显示全是人",
-      "onboard_time": 1680075691,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 482743,
@@ -2331,6 +2347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 345581,
+      "num": 345581,
+      "word": "王建国竟然比庞博高",
+      "onboard_time": 1680079649,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 345373,
       "num": 328946,
       "word": "梁友安体检查出巧克力囊肿",
@@ -2475,6 +2499,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 325272,
+      "num": 325272,
+      "word": "艺率不知道黑暗荣耀具体剧情",
+      "onboard_time": 1680080788,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 324516,
       "num": 324516,
       "word": "村BA总冠军诞生",
@@ -2561,6 +2593,14 @@
       "onboard_time": 1679839769,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 307765,
+      "num": 267517,
+      "word": "谁家熊猫这样吃竹子",
+      "onboard_time": 1680079528,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 306721,
@@ -2899,12 +2939,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 272334,
-      "num": 272334,
-      "word": "裸辞真的是很幼稚的行为吗",
-      "onboard_time": 1680078148,
-      "rank": 48,
-      "category": "情感"
+      "raw_hot": 272538,
+      "num": 272538,
+      "word": "薛之谦巡演武汉站双场同步开售",
+      "onboard_time": 1680080428,
+      "rank": 18,
+      "category": "音乐"
     },
     {
       "raw_hot": 271732,
@@ -2913,6 +2953,14 @@
       "onboard_time": 1679841751,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 269764,
+      "num": 269764,
+      "word": "榴莲螺蛳粉双拼披萨",
+      "onboard_time": 1680078327,
+      "rank": 29,
+      "category": "美食"
     },
     {
       "raw_hot": 269039,
@@ -3097,6 +3145,14 @@
       "onboard_time": 1679915729,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 254821,
+      "num": 254821,
+      "word": "抠门和会过日子是两码事",
+      "onboard_time": 1680077491,
+      "rank": 47,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 254696,
@@ -3451,14 +3507,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 220804,
-      "num": 220804,
-      "word": "榴莲螺蛳粉双拼披萨",
-      "onboard_time": 1680078327,
-      "rank": 29,
-      "category": "美食"
-    },
-    {
       "raw_hot": 220797,
       "num": 220797,
       "word": "BoysPlanet新闻发布会",
@@ -3480,6 +3528,14 @@
       "word": "张若昀今年有旧剧播续集",
       "onboard_time": 1679848940,
       "rank": 10,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 218611,
+      "num": 218611,
+      "word": "王俊凯白西服造型路透",
+      "onboard_time": 1680081207,
+      "rank": 23,
       "category": "作品衍生"
     },
     {
@@ -3521,6 +3577,14 @@
       "onboard_time": 1680017486,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 216397,
+      "num": 216397,
+      "word": "孙红雷雨中撑伞氛围感",
+      "onboard_time": 1680081447,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 216326,
@@ -3617,14 +3681,6 @@
       "onboard_time": 1680069689,
       "rank": 34,
       "category": "科技"
-    },
-    {
-      "raw_hot": 209984,
-      "num": 209984,
-      "word": "抠门和会过日子是两码事",
-      "onboard_time": 1680077491,
-      "rank": 47,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 209859,
@@ -4323,6 +4379,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 178004,
+      "num": 178004,
+      "word": "钟薛高已申请SASAA商标",
+      "onboard_time": 1680079105,
+      "rank": 29,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 177509,
       "num": 177509,
       "word": "蔡卓妍是香港站巡回演唱会嘉宾",
@@ -4721,14 +4785,6 @@
       "onboard_time": 1679999788,
       "rank": 38,
       "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 152118,
-      "num": 152118,
-      "word": "对室友好感就是这样消失的",
-      "onboard_time": 1680078449,
-      "rank": 39,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 151471,
@@ -5203,6 +5259,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 123926,
+      "num": 123926,
+      "word": "对话宁夏跪地求供水老人女儿",
+      "onboard_time": 1680079949,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123736,
       "num": 123736,
       "word": "未定事件簿",
@@ -5329,6 +5393,14 @@
       "onboard_time": 1679999190,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 117474,
+      "num": 117474,
+      "word": "电视节目欺骗狗狗的感情",
+      "onboard_time": 1680081026,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 117164,

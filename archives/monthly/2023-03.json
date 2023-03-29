@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1680079034449,
+  "endTime": 1680081505647,
   "band_list": [
     {
       "raw_hot": 27113842,
@@ -2483,6 +2483,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 1704092,
+      "num": 1704092,
+      "word": "裸辞真的是很幼稚的行为吗",
+      "onboard_time": 1680078148,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1702895,
       "num": 473399,
       "word": "于和伟确诊甲流",
@@ -2809,6 +2817,14 @@
       "onboard_time": 1679285792,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1625993,
+      "num": 1625993,
+      "word": "南航",
+      "onboard_time": 1680074972,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1621382,
@@ -3561,14 +3577,6 @@
       "onboard_time": 1679797587,
       "rank": 21,
       "category": "作品衍生,幽默"
-    },
-    {
-      "raw_hot": 1444758,
-      "num": 1444758,
-      "word": "南航",
-      "onboard_time": 1680074972,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1443840,
@@ -18155,6 +18163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 502867,
+      "num": 502867,
+      "word": "理想回应雷达在无人陵园显示全是人",
+      "onboard_time": 1680075691,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 502611,
       "num": 502611,
       "word": "不良人",
@@ -18433,6 +18449,14 @@
       "onboard_time": 1678416927,
       "rank": 25,
       "category": "游戏,影视"
+    },
+    {
+      "raw_hot": 495960,
+      "num": 495960,
+      "word": "对室友好感就是这样消失的",
+      "onboard_time": 1680078449,
+      "rank": 39,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 495956,
@@ -18993,14 +19017,6 @@
       "onboard_time": 1678883550,
       "rank": 34,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 483370,
-      "num": 483370,
-      "word": "理想回应雷达在无人陵园显示全是人",
-      "onboard_time": 1680075691,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 483291,
@@ -26163,6 +26179,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 345581,
+      "num": 345581,
+      "word": "王建国竟然比庞博高",
+      "onboard_time": 1680079649,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 345428,
       "num": 325423,
       "word": "董明珠称她工作就是生活也幸福",
@@ -27531,6 +27555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 325272,
+      "num": 325272,
+      "word": "艺率不知道黑暗荣耀具体剧情",
+      "onboard_time": 1680080788,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 325217,
       "num": 325217,
       "word": "急诊科唯一可以信的话",
@@ -28793,6 +28825,14 @@
       "onboard_time": 1677643589,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 307765,
+      "num": 267517,
+      "word": "谁家熊猫这样吃竹子",
+      "onboard_time": 1680079528,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 307733,
@@ -31571,6 +31611,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 272538,
+      "num": 272538,
+      "word": "薛之谦巡演武汉站双场同步开售",
+      "onboard_time": 1680080428,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 272467,
       "num": 256732,
       "word": "白宇鹏卫冕脑王",
@@ -31585,14 +31633,6 @@
       "onboard_time": 1677902005,
       "rank": 19,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 272334,
-      "num": 272334,
-      "word": "裸辞真的是很幼稚的行为吗",
-      "onboard_time": 1680078148,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 272259,
@@ -31769,6 +31809,14 @@
       "onboard_time": 1678115307,
       "rank": 23,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 269764,
+      "num": 269764,
+      "word": "榴莲螺蛳粉双拼披萨",
+      "onboard_time": 1680078327,
+      "rank": 29,
+      "category": "美食"
     },
     {
       "raw_hot": 269593,
@@ -33057,6 +33105,14 @@
       "onboard_time": 1677993026,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 254821,
+      "num": 254821,
+      "word": "抠门和会过日子是两码事",
+      "onboard_time": 1680077491,
+      "rank": 47,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 254696,
@@ -36739,14 +36795,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 220804,
-      "num": 220804,
-      "word": "榴莲螺蛳粉双拼披萨",
-      "onboard_time": 1680078327,
-      "rank": 29,
-      "category": "美食"
-    },
-    {
       "raw_hot": 220797,
       "num": 220797,
       "word": "BoysPlanet新闻发布会",
@@ -37027,6 +37075,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 218611,
+      "num": 218611,
+      "word": "王俊凯白西服造型路透",
+      "onboard_time": 1680081207,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 218406,
       "num": 495097,
       "word": "今年第二场部长通道直播",
@@ -37305,6 +37361,14 @@
       "onboard_time": 1678976790,
       "rank": 48,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 216397,
+      "num": 216397,
+      "word": "孙红雷雨中撑伞氛围感",
+      "onboard_time": 1680081447,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 216353,
@@ -38089,14 +38153,6 @@
       "onboard_time": 1678860568,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 209984,
-      "num": 209984,
-      "word": "抠门和会过日子是两码事",
-      "onboard_time": 1680077491,
-      "rank": 47,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 209981,
@@ -44835,6 +44891,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 178004,
+      "num": 178004,
+      "word": "钟薛高已申请SASAA商标",
+      "onboard_time": 1680079105,
+      "rank": 29,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 177984,
       "num": 177984,
       "word": "陈都灵云之羽蓝衣",
@@ -48449,14 +48513,6 @@
       "onboard_time": 1678334249,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 152118,
-      "num": 152118,
-      "word": "对室友好感就是这样消失的",
-      "onboard_time": 1680078449,
-      "rank": 39,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 152100,
@@ -52787,6 +52843,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 123926,
+      "num": 123926,
+      "word": "对话宁夏跪地求供水老人女儿",
+      "onboard_time": 1680079949,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123887,
       "num": 123887,
       "word": "不敢晚上看他是谁",
@@ -53617,6 +53681,14 @@
       "onboard_time": 1678107627,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 117474,
+      "num": 117474,
+      "word": "电视节目欺骗狗狗的感情",
+      "onboard_time": 1680081026,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 117431,
