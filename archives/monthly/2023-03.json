@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1680063739136,
+  "endTime": 1680064612403,
   "band_list": [
     {
       "raw_hot": 27113842,
@@ -2073,6 +2073,14 @@
       "onboard_time": 1677934646,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1825433,
+      "num": 1825433,
+      "word": "神华集团",
+      "onboard_time": 1680060985,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1825028,
@@ -5025,14 +5033,6 @@
       "onboard_time": 1679408011,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1211650,
-      "num": 1211650,
-      "word": "神华集团",
-      "onboard_time": 1680060985,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1211286,
@@ -11435,6 +11435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 718617,
+      "num": 718617,
+      "word": "微信问一问",
+      "onboard_time": 1680061887,
+      "rank": 8,
+      "category": "科技"
+    },
+    {
       "raw_hot": 718449,
       "num": 564198,
       "word": "赵英俊为大鹏选定了保你平安剧本",
@@ -14635,14 +14643,6 @@
       "category": "艺人,财经"
     },
     {
-      "raw_hot": 595326,
-      "num": 595326,
-      "word": "微信问一问",
-      "onboard_time": 1680061887,
-      "rank": 8,
-      "category": "科技"
-    },
-    {
       "raw_hot": 595302,
       "num": 595302,
       "word": "内娱女星白色婚纱造型",
@@ -16977,6 +16977,14 @@
       "onboard_time": 1678776748,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 526679,
+      "num": 526679,
+      "word": "一个演员拼到最后拼的是文化",
+      "onboard_time": 1680061048,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 526670,
@@ -19545,14 +19553,6 @@
       "onboard_time": 1680003148,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 467724,
-      "num": 467724,
-      "word": "一个演员拼到最后拼的是文化",
-      "onboard_time": 1680061048,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 467116,
@@ -25523,6 +25523,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 351493,
+      "num": 351493,
+      "word": "蒋雯丽明道海尔兄弟",
+      "onboard_time": 1680063328,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 351412,
       "num": 351412,
       "word": "建议他是谁专家不要建议",
@@ -25577,6 +25585,14 @@
       "onboard_time": 1678868006,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 350575,
+      "num": 271990,
+      "word": "男子刚进厨房下一秒高压锅爆炸",
+      "onboard_time": 1680062608,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 350548,
@@ -31275,14 +31291,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 271990,
-      "num": 271990,
-      "word": "男子刚进厨房下一秒高压锅爆炸",
-      "onboard_time": 1680062608,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 271882,
       "num": 261357,
       "word": "王俊凯小时候打篮球旧照",
@@ -32355,6 +32363,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 259668,
+      "num": 259668,
+      "word": "风月不相关",
+      "onboard_time": 1680064533,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 259243,
       "num": 92082,
       "word": "孙怡演技状态",
@@ -32729,14 +32745,6 @@
       "onboard_time": 1677638728,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 254327,
-      "num": 254327,
-      "word": "蒋雯丽明道海尔兄弟",
-      "onboard_time": 1680063328,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 254263,
@@ -34979,6 +34987,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 230897,
+      "num": 230897,
+      "word": "于正说张静初的分享很正能量",
+      "onboard_time": 1680064590,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 230828,
       "num": 230828,
       "word": "向太说前路并非坦途一起加油",
@@ -35145,6 +35161,14 @@
       "onboard_time": 1679226508,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 229474,
+      "num": 229474,
+      "word": "男童走路跛脚竟被查出患白血病",
+      "onboard_time": 1680060147,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 229447,
@@ -37723,6 +37747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 209356,
+      "num": 209356,
+      "word": "全职女友要分手补偿是否合理",
+      "onboard_time": 1680063510,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 209345,
       "num": 209345,
       "word": "追星星的人提档",
@@ -38251,14 +38283,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 206603,
-      "num": 206603,
-      "word": "男童走路跛脚竟被查出患白血病",
-      "onboard_time": 1680060147,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 206562,
       "num": 100331,
       "word": "周笔畅露背西装",
@@ -38755,14 +38779,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 204684,
-      "num": 204684,
-      "word": "全职女友要分手补偿是否合理",
-      "onboard_time": 1680063510,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 204654,
       "num": 204654,
       "word": "大鹏乔杉保你平安片场弹唱都选C",
@@ -39177,6 +39193,14 @@
       "onboard_time": 1679920707,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 203241,
+      "num": 203241,
+      "word": "国家统一将给台湾带来哪些好处",
+      "onboard_time": 1680064169,
+      "rank": 34,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 203179,
@@ -39793,6 +39817,14 @@
       "onboard_time": 1677656667,
       "rank": 24,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 200526,
+      "num": 200526,
+      "word": "孙国友此前727万判决书曝光",
+      "onboard_time": 1680063569,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 200521,
@@ -41337,14 +41369,6 @@
       "onboard_time": 1677652587,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 194452,
-      "num": 194452,
-      "word": "孙国友此前727万判决书曝光",
-      "onboard_time": 1680063569,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 194407,
@@ -46091,6 +46115,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 166166,
+      "num": 166166,
+      "word": "秦岚邓家佳新剧对手戏",
+      "onboard_time": 1680063868,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 166124,
       "num": 166124,
       "word": "tangoz演我看黑暗荣耀",
@@ -47339,6 +47371,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 156817,
+      "num": 156817,
+      "word": "九尾红人节官宣",
+      "onboard_time": 1680062128,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 156799,
       "num": 156799,
       "word": "lofter回应AI绘画功能遭质疑",
@@ -47424,6 +47464,14 @@
       "word": "另类的吸猫方式",
       "onboard_time": 1679382209,
       "rank": 32,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 156156,
+      "num": 156156,
+      "word": "打工人早上挤地铁有多难",
+      "onboard_time": 1680063510,
+      "rank": 49,
       "category": "幽默"
     },
     {
@@ -47721,6 +47769,14 @@
       "onboard_time": 1678328725,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 153625,
+      "num": 153625,
+      "word": "专家说年轻人找工作不看工资看什么",
+      "onboard_time": 1680064350,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 153591,
@@ -49441,14 +49497,6 @@
       "onboard_time": 1679149171,
       "rank": 49,
       "category": "科技"
-    },
-    {
-      "raw_hot": 142295,
-      "num": 142295,
-      "word": "九尾红人节官宣",
-      "onboard_time": 1680062128,
-      "rank": 43,
-      "category": "游戏"
     },
     {
       "raw_hot": 142281,
@@ -52201,14 +52249,6 @@
       "onboard_time": 1679104048,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 123859,
-      "num": 123859,
-      "word": "打工人早上挤地铁有多难",
-      "onboard_time": 1680063510,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 123855,
@@ -57148,7 +57188,7 @@
     },
     {
       "raw_hot": 67586,
-      "num": 1106822,
+      "num": 1115167,
       "word": "充分发挥市场在资源配置中的决定性作用",
       "onboard_time": 1680059666,
       "rank": 2,

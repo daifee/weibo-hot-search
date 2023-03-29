@@ -1,0 +1,410 @@
+{
+  "runTime": 1680064612403,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1825433,
+        "num": 1825433,
+        "word": "神华集团",
+        "onboard_time": 1680060985,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1283988,
+        "num": 1283988,
+        "word": "武汉一高校回应老人82元只买到俩素菜",
+        "onboard_time": 1680055107,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62547,
+        "num": 1115167,
+        "word": "充分发挥市场在资源配置中的决定性作用",
+        "onboard_time": 1680059666,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1759587,
+        "num": 1073819,
+        "word": "胡一天新签约罗晋经纪人",
+        "onboard_time": 1680061947,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 998911,
+        "num": 998911,
+        "word": "霍建华或将参演玫瑰的故事",
+        "onboard_time": 1680060446,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 790922,
+        "num": 790922,
+        "word": "水务公司回应万亩林场主跪地求供水",
+        "onboard_time": 1680054984,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 718617,
+        "num": 718617,
+        "word": "微信问一问",
+        "onboard_time": 1680061887,
+        "rank": 6,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 709985,
+        "num": 709985,
+        "word": "美国众议院要让中国当发达国家",
+        "onboard_time": 1680051750,
+        "rank": 7,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 553007,
+        "num": 553007,
+        "word": "天气预报员王俊凯",
+        "onboard_time": 1680062248,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 526679,
+        "num": 526679,
+        "word": "一个演员拼到最后拼的是文化",
+        "onboard_time": 1680061048,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1762134,
+        "num": 501505,
+        "word": "微信朋友圈",
+        "onboard_time": 1680050309,
+        "rank": 10,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1068801,
+        "num": 489553,
+        "word": "家属回应老人跪地求水",
+        "onboard_time": 1680054925,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1053193,
+        "num": 430339,
+        "word": "迪丽热巴异域公主风视频",
+        "onboard_time": 1680061048,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 620387,
+        "num": 420098,
+        "word": "麻六记",
+        "onboard_time": 1680047966,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 387899,
+        "num": 387899,
+        "word": "酒店不允许成年子女和父母住一个标间",
+        "onboard_time": 1680014548,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351493,
+        "num": 351493,
+        "word": "蒋雯丽明道海尔兄弟",
+        "onboard_time": 1680063328,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 347477,
+        "num": 347477,
+        "word": "微信QQ出现功能异常",
+        "onboard_time": 1680046523,
+        "rank": 16,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 313531,
+        "num": 313531,
+        "word": "萌探3节目组发声明",
+        "onboard_time": 1680059968,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 311578,
+        "num": 311578,
+        "word": "苏醒录跑男把膝盖扭了",
+        "onboard_time": 1680049109,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 259668,
+        "num": 259668,
+        "word": "风月不相关",
+        "onboard_time": 1680064533,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 571077,
+        "num": 256227,
+        "word": "女子离婚遭婆婆索要10万带孙费",
+        "onboard_time": 1680055465,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371419,
+        "num": 252739,
+        "word": "28岁女子当七年全职女友惹争议",
+        "onboard_time": 1680049167,
+        "rank": 21,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 350575,
+        "num": 252065,
+        "word": "男子刚进厨房下一秒高压锅爆炸",
+        "onboard_time": 1680062608,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248603,
+        "num": 248603,
+        "word": "蒲熠星解开了我小学的困惑",
+        "onboard_time": 1680052947,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244457,
+        "num": 244457,
+        "word": "HYBE今年将推出两组新男团",
+        "onboard_time": 1680059366,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235414,
+        "num": 235414,
+        "word": "国台办回应蔡英文拟过境窜访美国",
+        "onboard_time": 1680057987,
+        "rank": 25,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 230897,
+        "num": 230897,
+        "word": "于正说张静初的分享很正能量",
+        "onboard_time": 1680064590,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229474,
+        "num": 229474,
+        "word": "男童走路跛脚竟被查出患白血病",
+        "onboard_time": 1680060147,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228686,
+        "num": 228686,
+        "word": "不小心把狗的碗踢翻后",
+        "onboard_time": 1680056065,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 222684,
+        "num": 222684,
+        "word": "足协",
+        "onboard_time": 1680059785,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 215163,
+        "num": 215163,
+        "word": "中超公司原总经理董铮被查",
+        "onboard_time": 1680059425,
+        "rank": 30,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 210287,
+        "num": 210287,
+        "word": "莲花楼",
+        "onboard_time": 1680058047,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 209356,
+        "num": 209356,
+        "word": "全职女友要分手补偿是否合理",
+        "onboard_time": 1680063510,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206128,
+        "num": 206128,
+        "word": "张艺兴喝香槟视频",
+        "onboard_time": 1680057565,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203241,
+        "num": 203241,
+        "word": "国家统一将给台湾带来哪些好处",
+        "onboard_time": 1680064169,
+        "rank": 34,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 200526,
+        "num": 200526,
+        "word": "孙国友此前727万判决书曝光",
+        "onboard_time": 1680063569,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190898,
+        "num": 190898,
+        "word": "长黑斑的香蕉才能缓解便秘",
+        "onboard_time": 1680054144,
+        "rank": 36,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 189900,
+        "num": 189900,
+        "word": "于洪臣被查",
+        "onboard_time": 1680056965,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188300,
+        "num": 188300,
+        "word": "周雨彤演我辞职后的精神状态",
+        "onboard_time": 1680059607,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 174928,
+        "num": 174928,
+        "word": "鹈鹕VS勇士",
+        "onboard_time": 1680060207,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172951,
+        "num": 172951,
+        "word": "塞尔达传说王国之泪已开发完成",
+        "onboard_time": 1680055826,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 166166,
+        "num": 166166,
+        "word": "秦岚邓家佳新剧对手戏",
+        "onboard_time": 1680063868,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 156817,
+        "num": 156817,
+        "word": "九尾红人节官宣",
+        "onboard_time": 1680062128,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 156156,
+        "num": 156156,
+        "word": "打工人早上挤地铁有多难",
+        "onboard_time": 1680063510,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 155422,
+        "num": 155422,
+        "word": "徐艺洋戴玲娜贝儿帽子",
+        "onboard_time": 1680058886,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153625,
+        "num": 153625,
+        "word": "专家说年轻人找工作不看工资看什么",
+        "onboard_time": 1680064350,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152519,
+        "num": 152519,
+        "word": "王子文说不能接受伴侣看自己手机",
+        "onboard_time": 1680021681,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142183,
+        "num": 142183,
+        "word": "梅西帽子戏法",
+        "onboard_time": 1680052050,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139422,
+        "num": 139422,
+        "word": "五月天26岁了",
+        "onboard_time": 1680048867,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128854,
+        "num": 128854,
+        "word": "黑马情侣 两人权力的转移",
+        "onboard_time": 1680011909,
+        "rank": 49,
+        "category": "网红,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#中方愿继续支持沙伊对话后续进程#"
+    }
+  }
+}

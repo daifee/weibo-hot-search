@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1680063739136,
+  "endTime": 1680064612403,
   "band_list": [
     {
       "raw_hot": 4718675,
@@ -199,6 +199,14 @@
       "num": 1838258,
       "word": "淮安未满14岁怀孕医院将强制报告",
       "onboard_time": 1679907029,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1825433,
+      "num": 1825433,
+      "word": "神华集团",
+      "onboard_time": 1680060985,
       "rank": 1,
       "category": "社会新闻"
     },
@@ -432,14 +440,6 @@
       "word": "家属回应老人跪地求水",
       "onboard_time": 1680054925,
       "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1211650,
-      "num": 1211650,
-      "word": "神华集团",
-      "onboard_time": 1680060985,
-      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -907,6 +907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 718617,
+      "num": 718617,
+      "word": "微信问一问",
+      "onboard_time": 1680061887,
+      "rank": 8,
+      "category": "科技"
+    },
+    {
       "raw_hot": 711856,
       "num": 711856,
       "word": "谷爱凌被熊猫花花可爱到",
@@ -1139,14 +1147,6 @@
       "category": "艺人,财经"
     },
     {
-      "raw_hot": 595326,
-      "num": 595326,
-      "word": "微信问一问",
-      "onboard_time": 1680061887,
-      "rank": 8,
-      "category": "科技"
-    },
-    {
       "raw_hot": 594041,
       "num": 208308,
       "word": "田曦薇的手臂线条",
@@ -1331,6 +1331,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 526679,
+      "num": 526679,
+      "word": "一个演员拼到最后拼的是文化",
+      "onboard_time": 1680061048,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 524478,
       "num": 524478,
       "word": "什么是巧克力囊肿",
@@ -1505,14 +1513,6 @@
       "onboard_time": 1680003148,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 467724,
-      "num": 467724,
-      "word": "一个演员拼到最后拼的是文化",
-      "onboard_time": 1680061048,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 465178,
@@ -2024,6 +2024,22 @@
       "word": "男子伙同女友贩卖104部不雅视频",
       "onboard_time": 1680048808,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 351493,
+      "num": 351493,
+      "word": "蒋雯丽明道海尔兄弟",
+      "onboard_time": 1680063328,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 350575,
+      "num": 271990,
+      "word": "男子刚进厨房下一秒高压锅爆炸",
+      "onboard_time": 1680062608,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -2539,14 +2555,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 271990,
-      "num": 271990,
-      "word": "男子刚进厨房下一秒高压锅爆炸",
-      "onboard_time": 1680062608,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 271732,
       "num": 271732,
       "word": "林俊杰蔡卓妍合唱我很想爱他",
@@ -2643,6 +2651,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 259668,
+      "num": 259668,
+      "word": "风月不相关",
+      "onboard_time": 1680064533,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 258417,
       "num": 258417,
       "word": "大侦探",
@@ -2721,14 +2737,6 @@
       "onboard_time": 1679999668,
       "rank": 36,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 254327,
-      "num": 254327,
-      "word": "蒋雯丽明道海尔兄弟",
-      "onboard_time": 1680063328,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 252770,
@@ -2875,6 +2883,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 230897,
+      "num": 230897,
+      "word": "于正说张静初的分享很正能量",
+      "onboard_time": 1680064590,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 230664,
       "num": 230664,
       "word": "这婚礼算是相当炸裂了",
@@ -2889,6 +2905,14 @@
       "onboard_time": 1679917589,
       "rank": 29,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 229474,
+      "num": 229474,
+      "word": "男童走路跛脚竟被查出患白血病",
+      "onboard_time": 1680060147,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 229327,
@@ -3139,6 +3163,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 209356,
+      "num": 209356,
+      "word": "全职女友要分手补偿是否合理",
+      "onboard_time": 1680063510,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 208419,
       "num": 208419,
       "word": "谷爱凌说只和自己卷",
@@ -3185,14 +3217,6 @@
       "onboard_time": 1680021741,
       "rank": 13,
       "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 206603,
-      "num": 206603,
-      "word": "男童走路跛脚竟被查出患白血病",
-      "onboard_time": 1680060147,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 206548,
@@ -3243,14 +3267,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 204684,
-      "num": 204684,
-      "word": "全职女友要分手补偿是否合理",
-      "onboard_time": 1680063510,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 203395,
       "num": 203395,
       "word": "宁夏万亩林场主回应跪地求供水",
@@ -3265,6 +3281,14 @@
       "onboard_time": 1679920707,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 203241,
+      "num": 203241,
+      "word": "国家统一将给台湾带来哪些好处",
+      "onboard_time": 1680064169,
+      "rank": 34,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 202856,
@@ -3305,6 +3329,14 @@
       "onboard_time": 1680049288,
       "rank": 28,
       "category": "科技"
+    },
+    {
+      "raw_hot": 200526,
+      "num": 200526,
+      "word": "孙国友此前727万判决书曝光",
+      "onboard_time": 1680063569,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 200521,
@@ -3449,14 +3481,6 @@
       "onboard_time": 1679980408,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 194452,
-      "num": 194452,
-      "word": "孙国友此前727万判决书曝光",
-      "onboard_time": 1680063569,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 194407,
@@ -3971,6 +3995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 166166,
+      "num": 166166,
+      "word": "秦岚邓家佳新剧对手戏",
+      "onboard_time": 1680063868,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 164149,
       "num": 164149,
       "word": "每天按时出门假装去上班",
@@ -4051,12 +4083,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 156817,
+      "num": 156817,
+      "word": "九尾红人节官宣",
+      "onboard_time": 1680062128,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 156359,
       "num": 156359,
       "word": "杨紫广告拍摄路透",
       "onboard_time": 1680052168,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 156156,
+      "num": 156156,
+      "word": "打工人早上挤地铁有多难",
+      "onboard_time": 1680063510,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 155834,
@@ -4105,6 +4153,14 @@
       "onboard_time": 1679985687,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 153625,
+      "num": 153625,
+      "word": "专家说年轻人找工作不看工资看什么",
+      "onboard_time": 1680064350,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 152879,
@@ -4273,14 +4329,6 @@
       "onboard_time": 1679874382,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 142295,
-      "num": 142295,
-      "word": "九尾红人节官宣",
-      "onboard_time": 1680062128,
-      "rank": 43,
-      "category": "游戏"
     },
     {
       "raw_hot": 141998,
@@ -4585,14 +4633,6 @@
       "onboard_time": 1680002190,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 123859,
-      "num": 123859,
-      "word": "打工人早上挤地铁有多难",
-      "onboard_time": 1680063510,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 123736,
@@ -5284,7 +5324,7 @@
     },
     {
       "raw_hot": 67586,
-      "num": 1106822,
+      "num": 1115167,
       "word": "充分发挥市场在资源配置中的决定性作用",
       "onboard_time": 1680059666,
       "rank": 2,
