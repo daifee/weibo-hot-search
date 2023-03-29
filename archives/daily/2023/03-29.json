@@ -1,6 +1,6 @@
 {
   "startTime": 1680022234432,
-  "endTime": 1680059926246,
+  "endTime": 1680060820133,
   "band_list": [
     {
       "raw_hot": 2998077,
@@ -67,7 +67,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1195816,
+      "raw_hot": 1217985,
       "num": 1150661,
       "word": "家属回应老人跪地求水",
       "onboard_time": 1680054925,
@@ -115,8 +115,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 645356,
-      "num": 645356,
+      "raw_hot": 668623,
+      "num": 668623,
       "word": "莲花楼",
       "onboard_time": 1680058047,
       "rank": 19,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 627647,
-      "num": 319622,
+      "num": 341716,
       "word": "28岁女子当七年全职女友惹争议",
       "onboard_time": 1680049167,
       "rank": 20,
@@ -156,11 +156,19 @@
     },
     {
       "raw_hot": 604802,
-      "num": 323154,
+      "num": 343947,
       "word": "女子离婚遭婆婆索要10万带孙费",
       "onboard_time": 1680055465,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 581935,
+      "num": 581935,
+      "word": "国台办回应蔡英文拟过境窜访美国",
+      "onboard_time": 1680057987,
+      "rank": 31,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 570371,
@@ -169,14 +177,6 @@
       "onboard_time": 1680052767,
       "rank": 10,
       "category": "科技"
-    },
-    {
-      "raw_hot": 559212,
-      "num": 559212,
-      "word": "国台办回应蔡英文拟过境窜访美国",
-      "onboard_time": 1680057987,
-      "rank": 31,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 511098,
@@ -267,6 +267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 374737,
+      "num": 374737,
+      "word": "萌探3节目组发声明",
+      "onboard_time": 1680059968,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 374535,
       "num": 374535,
       "word": "梅西帽子戏法",
@@ -283,12 +291,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 349735,
+      "num": 349735,
+      "word": "霍建华或将参演玫瑰的故事",
+      "onboard_time": 1680060446,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 346918,
       "num": 346918,
       "word": "张杰说喜欢和陈粒对唱的哭砂",
       "onboard_time": 1680048867,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 344445,
+      "num": 344445,
+      "word": "徐艺洋戴玲娜贝儿帽子",
+      "onboard_time": 1680058886,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 326535,
@@ -315,14 +339,6 @@
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 297505,
-      "num": 297505,
-      "word": "徐艺洋戴玲娜贝儿帽子",
-      "onboard_time": 1680058886,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 294098,
       "num": 294098,
       "word": "被穷养长大的孩子是怎样的",
@@ -336,6 +352,14 @@
       "word": "卫国平找到赵世杰犯案证据",
       "onboard_time": 1680044477,
       "rank": 10,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 285938,
+      "num": 285938,
+      "word": "周雨彤演我辞职后的精神状态",
+      "onboard_time": 1680059607,
+      "rank": 29,
       "category": "影视"
     },
     {
@@ -371,20 +395,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 228235,
-      "num": 228235,
-      "word": "周雨彤演我辞职后的精神状态",
-      "onboard_time": 1680059607,
-      "rank": 29,
-      "category": "影视"
-    },
-    {
       "raw_hot": 218318,
       "num": 218318,
       "word": "战机突发故障他凭感觉成功降落山东舰",
       "onboard_time": 1680052349,
       "rank": 27,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 218269,
+      "num": 218269,
+      "word": "中超公司原总经理董铮被查",
+      "onboard_time": 1680059425,
+      "rank": 35,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 217961,
@@ -451,6 +475,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 200524,
+      "num": 200524,
+      "word": "足协",
+      "onboard_time": 1680059785,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 200521,
       "num": 200521,
       "word": "爱情而已片头的标题和照片",
@@ -475,12 +507,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 190556,
-      "num": 190556,
-      "word": "中超公司原总经理董铮被查",
-      "onboard_time": 1680059425,
-      "rank": 35,
-      "category": "体育,社会新闻"
+      "raw_hot": 194322,
+      "num": 194322,
+      "word": "鹈鹕VS勇士",
+      "onboard_time": 1680060207,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 190041,
@@ -528,14 +560,6 @@
       "word": "这是腰腹赘肉杀手吧",
       "onboard_time": 1680006446,
       "rank": 24,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 172283,
-      "num": 172283,
-      "word": "足协",
-      "onboard_time": 1680059785,
-      "rank": 37,
       "category": "体育"
     },
     {
@@ -617,6 +641,14 @@
       "onboard_time": 1679993668,
       "rank": 27,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 157800,
+      "num": 157800,
+      "word": "男童走路跛脚竟被查出患白血病",
+      "onboard_time": 1680060147,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156359,
@@ -761,6 +793,14 @@
       "onboard_time": 1680015027,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 114959,
+      "num": 114959,
+      "word": "微信相关功能已恢复",
+      "onboard_time": 1680060505,
+      "rank": 48,
+      "category": "科技"
     },
     {
       "raw_hot": 112337,
@@ -915,6 +955,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 64994,
+      "num": 436393,
+      "word": "Billboard原创音乐大赛",
+      "onboard_time": 1680058828,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 64179,
       "num": 64179,
       "word": "王国之泪限定机公开",
@@ -955,12 +1003,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 49583,
-      "num": 436393,
-      "word": "Billboard原创音乐大赛",
-      "onboard_time": 1680058828,
-      "rank": 14,
-      "category": "音乐"
+      "raw_hot": 45460,
+      "num": 834290,
+      "word": "充分发挥市场在资源配置中的决定性作用",
+      "onboard_time": 1680059666,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 44025,
@@ -993,14 +1041,6 @@
       "onboard_time": 1680003030,
       "rank": 48,
       "category": "科技,影视"
-    },
-    {
-      "raw_hot": 12472,
-      "num": 834290,
-      "word": "充分发挥市场在资源配置中的决定性作用",
-      "onboard_time": 1680059666,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
