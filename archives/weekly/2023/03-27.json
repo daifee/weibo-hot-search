@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1680214611825,
+  "endTime": 1680215621721,
   "band_list": [
     {
       "raw_hot": 12970403,
@@ -3931,6 +3931,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 319679,
+      "num": 123384,
+      "word": "丫丫",
+      "onboard_time": 1680136290,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 319595,
       "num": 319595,
       "word": "檀健次莫文蔚16年后再同框",
@@ -4921,14 +4929,6 @@
       "onboard_time": 1679976571,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 246251,
-      "num": 123384,
-      "word": "丫丫",
-      "onboard_time": 1680136290,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 246239,

@@ -1,6 +1,6 @@
 {
   "startTime": 1680193469065,
-  "endTime": 1680214611825,
+  "endTime": 1680215621721,
   "band_list": [
     {
       "raw_hot": 2107691,
@@ -83,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 319679,
+      "num": 77824,
+      "word": "丫丫",
+      "onboard_time": 1680209771,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 308117,
       "num": 308117,
       "word": "这熊猫介绍真是没瞎写",
@@ -129,14 +137,6 @@
       "onboard_time": 1680182068,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 246251,
-      "num": 52942,
-      "word": "丫丫",
-      "onboard_time": 1680209771,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 244901,
@@ -459,7 +459,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 33187,
+      "raw_hot": 34465,
       "num": 44779,
       "word": "请给跪地求水林场主一个公证结果",
       "onboard_time": 1680189988,
