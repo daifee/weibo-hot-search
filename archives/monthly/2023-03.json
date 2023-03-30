@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1680175999940,
+  "endTime": 1680179757645,
   "band_list": [
     {
       "raw_hot": 27113842,
@@ -3081,6 +3081,14 @@
       "onboard_time": 1679027249,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1553665,
+      "num": 1553665,
+      "word": "吴磊吻戏从脸红到耳朵",
+      "onboard_time": 1680175947,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 1553573,
@@ -15355,6 +15363,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 594930,
+      "num": 594930,
+      "word": "金洋道歉",
+      "onboard_time": 1680178346,
+      "rank": 3,
+      "category": "网红"
+    },
+    {
       "raw_hot": 594659,
       "num": 251899,
       "word": "青你选手徐炳超卖包子",
@@ -15552,6 +15568,14 @@
       "word": "社会的边角料 妈妈的小骄傲",
       "onboard_time": 1679986527,
       "rank": 26,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 589272,
+      "num": 589272,
+      "word": "存多少钱才算有安全感",
+      "onboard_time": 1680178167,
+      "rank": 4,
       "category": "情感"
     },
     {
@@ -22059,6 +22083,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 434251,
+      "num": 217012,
+      "word": "男子生前借亲戚534万去世后被赖账",
+      "onboard_time": 1680176966,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 434203,
       "num": 344340,
       "word": "郑秀妍Fly舞台",
@@ -23233,6 +23265,14 @@
       "onboard_time": 1677806547,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 410418,
+      "num": 410418,
+      "word": "声生不息",
+      "onboard_time": 1677595113,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 409947,
@@ -25537,6 +25577,14 @@
       "onboard_time": 1677811046,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 371183,
+      "num": 371183,
+      "word": "李小冉红毯生图",
+      "onboard_time": 1680177268,
+      "rank": 8,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 371179,
@@ -27987,6 +28035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 335042,
+      "num": 335042,
+      "word": "马嘉祺两首歌都入选最佳金曲",
+      "onboard_time": 1680179668,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 335032,
       "num": 335032,
       "word": "TES三连败",
@@ -28585,14 +28641,6 @@
       "onboard_time": 1679202688,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 326457,
-      "num": 326457,
-      "word": "声生不息",
-      "onboard_time": 1677595113,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 326394,
@@ -39563,14 +39611,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 211125,
-      "num": 211125,
-      "word": "吴磊吻戏从脸红到耳朵",
-      "onboard_time": 1680175947,
-      "rank": 23,
-      "category": "影视"
-    },
-    {
       "raw_hot": 211026,
       "num": 211026,
       "word": "陈晓谈和李沁张嘉倪合作",
@@ -39705,6 +39745,14 @@
       "onboard_time": 1680069689,
       "rank": 34,
       "category": "科技"
+    },
+    {
+      "raw_hot": 210454,
+      "num": 210454,
+      "word": "金洋",
+      "onboard_time": 1680176065,
+      "rank": 27,
+      "category": "网红"
     },
     {
       "raw_hot": 210417,
@@ -40627,6 +40675,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 205790,
+      "num": 205790,
+      "word": "爱情而已进度",
+      "onboard_time": 1680179489,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 205695,
       "num": 205695,
       "word": "花琉璃轶闻",
@@ -41233,6 +41289,14 @@
       "onboard_time": 1679116826,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 203631,
+      "num": 203631,
+      "word": "张杰抵达广州vlog",
+      "onboard_time": 1680178529,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 203620,
@@ -43675,6 +43739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 194402,
+      "num": 194402,
+      "word": "宋三川的主线任务",
+      "onboard_time": 1680179728,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 194340,
       "num": 194340,
       "word": "XYG战胜RNGM",
@@ -43921,6 +43993,14 @@
       "onboard_time": 1679815348,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 193353,
+      "num": 193353,
+      "word": "蔡徐坤看展生图",
+      "onboard_time": 1680179369,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 193347,
@@ -44537,6 +44617,14 @@
       "onboard_time": 1678587566,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190910,
+      "num": 190910,
+      "word": "梁友安醉倒在宋三川怀里",
+      "onboard_time": 1680178887,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 190876,
@@ -45241,6 +45329,14 @@
       "onboard_time": 1679231490,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 187668,
+      "num": 187668,
+      "word": "宋亚轩黄色短袖车内视频",
+      "onboard_time": 1680179728,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 187651,
@@ -47265,6 +47361,14 @@
       "onboard_time": 1679208087,
       "rank": 34,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 174846,
+      "num": 174846,
+      "word": "爱情而已成年人的爱情",
+      "onboard_time": 1680176489,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 174825,
@@ -51051,6 +51155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 149659,
+      "num": 149659,
+      "word": "谭松韵说今天是最美的归晓",
+      "onboard_time": 1680177507,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 149652,
       "num": 149652,
       "word": "花海娜可露露杀疯了",
@@ -51097,6 +51209,14 @@
       "onboard_time": 1679288135,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 149435,
+      "num": 149435,
+      "word": "梁友安打工生活好快乐",
+      "onboard_time": 1680178409,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 149340,
@@ -52548,7 +52668,7 @@
     },
     {
       "raw_hot": 140296,
-      "num": 140296,
+      "num": 152151,
       "word": "LPL女团cos花仙子",
       "onboard_time": 1680173848,
       "rank": 39,
@@ -55619,6 +55739,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 120949,
+      "num": 151465,
+      "word": "是谁在上班倒贴钱",
+      "onboard_time": 1680177568,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 120932,
       "num": 120932,
       "word": "老朋友是用来说废话的",
@@ -56475,6 +56603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 114124,
+      "num": 114124,
+      "word": "VG对战EDGM",
+      "onboard_time": 1680179009,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 114100,
       "num": 114100,
       "word": "甲流抗原有必要用吗",
@@ -56577,6 +56713,14 @@
       "onboard_time": 1678147707,
       "rank": 44,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 113410,
+      "num": 113410,
+      "word": "领克",
+      "onboard_time": 1680179668,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 113408,

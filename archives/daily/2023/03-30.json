@@ -1,6 +1,6 @@
 {
   "startTime": 1680110195849,
-  "endTime": 1680175999940,
+  "endTime": 1680179757645,
   "band_list": [
     {
       "raw_hot": 2662463,
@@ -65,6 +65,14 @@
       "onboard_time": 1680151111,
       "rank": 1,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 1553665,
+      "num": 1553665,
+      "word": "吴磊吻戏从脸红到耳朵",
+      "onboard_time": 1680175947,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 1517477,
@@ -411,6 +419,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 594930,
+      "num": 594930,
+      "word": "金洋道歉",
+      "onboard_time": 1680178346,
+      "rank": 3,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 589272,
+      "num": 589272,
+      "word": "存多少钱才算有安全感",
+      "onboard_time": 1680178167,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
       "raw_hot": 588556,
       "num": 588556,
       "word": "客服回应张小泉斩骨刀斩不了骨",
@@ -619,6 +643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 434251,
+      "num": 217012,
+      "word": "男子生前借亲戚534万去世后被赖账",
+      "onboard_time": 1680176966,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 430261,
       "num": 430261,
       "word": "长月烬明",
@@ -665,6 +697,14 @@
       "onboard_time": 1680156147,
       "rank": 15,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 410418,
+      "num": 410418,
+      "word": "声生不息",
+      "onboard_time": 1680177387,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 409947,
@@ -747,6 +787,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 371183,
+      "num": 371183,
+      "word": "李小冉红毯生图",
+      "onboard_time": 1680177268,
+      "rank": 8,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 359239,
       "num": 359239,
       "word": "威少",
@@ -801,6 +849,14 @@
       "onboard_time": 1680165507,
       "rank": 18,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 335042,
+      "num": 335042,
+      "word": "马嘉祺两首歌都入选最佳金曲",
+      "onboard_time": 1680179668,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 334394,
@@ -1163,12 +1219,12 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 211125,
-      "num": 211125,
-      "word": "吴磊吻戏从脸红到耳朵",
-      "onboard_time": 1680175947,
-      "rank": 23,
-      "category": "影视"
+      "raw_hot": 210454,
+      "num": 210454,
+      "word": "金洋",
+      "onboard_time": 1680176065,
+      "rank": 27,
+      "category": "网红"
     },
     {
       "raw_hot": 209119,
@@ -1219,6 +1275,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 205790,
+      "num": 205790,
+      "word": "爱情而已进度",
+      "onboard_time": 1680179489,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 204429,
       "num": 204429,
       "word": "青岛凤凰音乐节",
@@ -1241,6 +1305,14 @@
       "onboard_time": 1680157887,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 203631,
+      "num": 203631,
+      "word": "张杰抵达广州vlog",
+      "onboard_time": 1680178529,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 203279,
@@ -1291,12 +1363,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 194402,
+      "num": 194402,
+      "word": "宋三川的主线任务",
+      "onboard_time": 1680179728,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 194159,
       "num": 194159,
       "word": "东盟国家欲弃美元转用本币结算",
       "onboard_time": 1680169106,
       "rank": 30,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 193353,
+      "num": 193353,
+      "word": "蔡徐坤看展生图",
+      "onboard_time": 1680179369,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 192053,
@@ -1323,6 +1411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 190910,
+      "num": 190910,
+      "word": "梁友安醉倒在宋三川怀里",
+      "onboard_time": 1680178887,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 190705,
       "num": 190705,
       "word": "当你以为自己对某人很特殊",
@@ -1345,6 +1441,14 @@
       "onboard_time": 1680163887,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 187668,
+      "num": 187668,
+      "word": "宋亚轩黄色短袖车内视频",
+      "onboard_time": 1680179728,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 187255,
@@ -1433,6 +1537,14 @@
       "onboard_time": 1680086247,
       "rank": 32,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 174846,
+      "num": 174846,
+      "word": "爱情而已成年人的爱情",
+      "onboard_time": 1680176489,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 170943,
@@ -1587,6 +1699,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 149659,
+      "num": 149659,
+      "word": "谭松韵说今天是最美的归晓",
+      "onboard_time": 1680177507,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 149435,
+      "num": 149435,
+      "word": "梁友安打工生活好快乐",
+      "onboard_time": 1680178409,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 148927,
       "num": 148927,
       "word": "为什么一到换季就鼻炎",
@@ -1652,7 +1780,7 @@
     },
     {
       "raw_hot": 140296,
-      "num": 140296,
+      "num": 152151,
       "word": "LPL女团cos花仙子",
       "onboard_time": 1680173848,
       "rank": 39,
@@ -1851,6 +1979,14 @@
       "category": "情感,教育"
     },
     {
+      "raw_hot": 120949,
+      "num": 151465,
+      "word": "是谁在上班倒贴钱",
+      "onboard_time": 1680177568,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 120207,
       "num": 109660,
       "word": "刘宪华 南京",
@@ -1873,6 +2009,22 @@
       "onboard_time": 1680158606,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 114124,
+      "num": 114124,
+      "word": "VG对战EDGM",
+      "onboard_time": 1680179009,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 113410,
+      "num": 113410,
+      "word": "领克",
+      "onboard_time": 1680179668,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 113370,
