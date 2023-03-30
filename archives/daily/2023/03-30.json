@@ -1,6 +1,6 @@
 {
   "startTime": 1680110195849,
-  "endTime": 1680158211270,
+  "endTime": 1680160599083,
   "band_list": [
     {
       "raw_hot": 1923557,
@@ -81,6 +81,14 @@
       "onboard_time": 1680155606,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1297714,
+      "num": 680084,
+      "word": "衡阳师范学院女生实习遭性侵",
+      "onboard_time": 1680156207,
+      "rank": 9,
+      "category": "社会负面,教育"
     },
     {
       "raw_hot": 1282658,
@@ -171,6 +179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 774557,
+      "num": 280156,
+      "word": "高叶被夸头骨",
+      "onboard_time": 1680159445,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 755403,
       "num": 452874,
       "word": "张兰希望85岁之前披上婚纱",
@@ -219,14 +235,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 680084,
-      "num": 680084,
-      "word": "衡阳师范学院女生实习遭性侵",
-      "onboard_time": 1680156207,
-      "rank": 9,
-      "category": "社会负面,教育"
-    },
-    {
       "raw_hot": 661459,
       "num": 661459,
       "word": "成都火灾",
@@ -241,6 +249,14 @@
       "onboard_time": 1680103048,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 648255,
+      "num": 278094,
+      "word": "为什么浙江的寺庙比较灵",
+      "onboard_time": 1680156928,
+      "rank": 45,
+      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 642953,
@@ -273,6 +289,14 @@
       "onboard_time": 1680149309,
       "rank": 32,
       "category": "社会新闻,美妆"
+    },
+    {
+      "raw_hot": 611146,
+      "num": 611146,
+      "word": "白鹿王鹤棣以爱为营下班视频",
+      "onboard_time": 1680158426,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 588556,
@@ -443,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 375629,
+      "num": 375629,
+      "word": "今天好多演出官宣",
+      "onboard_time": 1680158485,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 373093,
       "num": 373093,
       "word": "网剧招惹",
@@ -595,6 +627,30 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 274012,
+      "num": 274012,
+      "word": "喜欢你4男二全票",
+      "onboard_time": 1680158247,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 273321,
+      "num": 273321,
+      "word": "程潇说自己公司门都不太进",
+      "onboard_time": 1680159987,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 270786,
+      "num": 270786,
+      "word": "吴磊年下是侵略年上是克制",
+      "onboard_time": 1680155250,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 259172,
       "num": 259172,
       "word": "沙特内阁批准加入上海合作组织的决定",
@@ -641,14 +697,6 @@
       "onboard_time": 1680143786,
       "rank": 21,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 236461,
-      "num": 236461,
-      "word": "吴磊年下是侵略年上是克制",
-      "onboard_time": 1680155250,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 235673,
@@ -739,6 +787,22 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 219002,
+      "num": 219002,
+      "word": "公益林 商业林",
+      "onboard_time": 1680158667,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 214015,
+      "num": 214015,
+      "word": "娜扎浓颜素妆大片",
+      "onboard_time": 1680158546,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 211250,
       "num": 211250,
       "word": "文俊辉的复仇计划",
@@ -819,6 +883,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 197571,
+      "num": 197571,
+      "word": "王楚钦3比2梁靖崑",
+      "onboard_time": 1680159688,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 194406,
       "num": 194406,
       "word": "中新网评林场主跪地求水事件",
@@ -841,6 +913,14 @@
       "onboard_time": 1680154765,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 189719,
+      "num": 189719,
+      "word": "成都市监局回应摊贩缺斤少两",
+      "onboard_time": 1680160046,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 187255,
@@ -881,14 +961,6 @@
       "onboard_time": 1680155967,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 183016,
-      "num": 183016,
-      "word": "为什么浙江的寺庙比较灵",
-      "onboard_time": 1680156928,
-      "rank": 45,
-      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 182387,
@@ -1067,6 +1139,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 147069,
+      "num": 147069,
+      "word": "女生校企实习被性侵已立案",
+      "onboard_time": 1680159328,
+      "rank": 33,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 141873,
       "num": 141873,
       "word": "边牧的智商未免也太高了",
@@ -1137,6 +1217,14 @@
       "onboard_time": 1680154891,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 127481,
+      "num": 127481,
+      "word": "巧珍原型谈剧中造型",
+      "onboard_time": 1680159328,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 126544,
@@ -1227,6 +1315,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 118053,
+      "num": 118053,
+      "word": "连淮伟帮李俊濠介绍工作",
+      "onboard_time": 1680160105,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 116445,
+      "num": 116445,
+      "word": "唐艺昕黑白抹胸裙",
+      "onboard_time": 1680158606,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 113049,
       "num": 113049,
       "word": "乘风破浪",
@@ -1257,6 +1361,14 @@
       "onboard_time": 1680086008,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 106776,
+      "num": 106776,
+      "word": "为什么癌症一发现就是晚期",
+      "onboard_time": 1680160467,
+      "rank": 48,
+      "category": "社会议题"
     },
     {
       "raw_hot": 106322,
@@ -1305,6 +1417,14 @@
       "onboard_time": 1680091466,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 97091,
+      "num": 143073,
+      "word": "影像旗舰为什么卷暗光长焦",
+      "onboard_time": 1680159807,
+      "rank": 34,
+      "category": "科技"
     },
     {
       "raw_hot": 96317,
@@ -1489,6 +1609,14 @@
       "onboard_time": 1680075812,
       "rank": 45,
       "category": "网红"
+    },
+    {
+      "raw_hot": 46914,
+      "num": 132989,
+      "word": "我们为什么重上蓝天",
+      "onboard_time": 1680159628,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 42448,
