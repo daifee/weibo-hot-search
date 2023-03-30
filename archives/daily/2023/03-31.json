@@ -1,6 +1,6 @@
 {
   "startTime": 1680193469065,
-  "endTime": 1680193469065,
+  "endTime": 1680194476569,
   "band_list": [
     {
       "raw_hot": 2107691,
@@ -17,6 +17,14 @@
       "onboard_time": 1680180390,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 883276,
+      "num": 883276,
+      "word": "林更新说和赵丽颖二搭更默契了",
+      "onboard_time": 1680193762,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 825523,
@@ -75,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 308117,
+      "num": 308117,
+      "word": "这熊猫介绍真是没瞎写",
+      "onboard_time": 1680190886,
+      "rank": 9,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 290379,
       "num": 290379,
       "word": "内娱小白花天花板",
@@ -97,14 +113,6 @@
       "onboard_time": 1680185188,
       "rank": 8,
       "category": "幽默,旅游"
-    },
-    {
-      "raw_hot": 268426,
-      "num": 268426,
-      "word": "这熊猫介绍真是没瞎写",
-      "onboard_time": 1680190886,
-      "rank": 9,
-      "category": "幽默"
     },
     {
       "raw_hot": 265925,
@@ -259,20 +267,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130326,
+      "num": 130326,
+      "word": "带着行李箱办离职",
+      "onboard_time": 1680192563,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 128755,
+      "num": 128755,
+      "word": "招惹",
+      "onboard_time": 1680180567,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 124517,
       "num": 124517,
       "word": "上海月薪一万算高吗",
       "onboard_time": 1680169589,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 120969,
-      "num": 120969,
-      "word": "招惹",
-      "onboard_time": 1680180567,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 120705,
@@ -363,14 +379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 80957,
-      "num": 80957,
-      "word": "带着行李箱办离职",
-      "onboard_time": 1680192563,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 75981,
       "num": 75981,
       "word": "林场主跪地求水最新进展",
@@ -387,12 +395,28 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 74539,
+      "num": 74539,
+      "word": "肖战张艺兴王源陈伟霆MV视频",
+      "onboard_time": 1680164548,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 73742,
       "num": 73742,
       "word": "AI",
       "onboard_time": 1680185668,
       "rank": 49,
       "category": "科技"
+    },
+    {
+      "raw_hot": 61712,
+      "num": 61712,
+      "word": "大黑皮鞋睁眼了",
+      "onboard_time": 1680188130,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 42059,
@@ -406,6 +430,9 @@
   "hotgov_list": [
     {
       "word": "#有能力有条件的民营企业要加强自主创新#"
+    },
+    {
+      "word": "#30秒飞阅雄安新区看新颜#"
     }
   ]
 }
