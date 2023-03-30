@@ -1,0 +1,410 @@
+{
+  "runTime": 1680164569101,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2662463,
+        "num": 2662463,
+        "word": "为什么癌症一发现就是晚期",
+        "onboard_time": 1680160467,
+        "rank": 0,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 799795,
+        "num": 799795,
+        "word": "肖战张艺兴王源陈伟霆MV视频",
+        "onboard_time": 1680164548,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 31519,
+        "num": 774510,
+        "word": "开局之年看中国县域新发展",
+        "onboard_time": 1680148649,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 819467,
+        "num": 772592,
+        "word": "以色列",
+        "onboard_time": 1680161427,
+        "rank": 3,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 767666,
+        "num": 767666,
+        "word": "张若昀长发像唐艺昕",
+        "onboard_time": 1680161128,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 602553,
+        "num": 602553,
+        "word": "江西20岁女大学生确认自杀",
+        "onboard_time": 1680164007,
+        "rank": 5,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 553124,
+        "num": 553124,
+        "word": "巴西与中国不再使用美元作为中间货币",
+        "onboard_time": 1680151111,
+        "rank": 6,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 459573,
+        "num": 459573,
+        "word": "易烊千玺黑背心",
+        "onboard_time": 1680164548,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 456883,
+        "num": 456883,
+        "word": "程潇说自己公司门都不太进",
+        "onboard_time": 1680159987,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 415269,
+        "num": 415269,
+        "word": "今天好多演出官宣",
+        "onboard_time": 1680158485,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 724250,
+        "num": 409345,
+        "word": "衡阳师范学院女生实习遭性侵",
+        "onboard_time": 1680156207,
+        "rank": 10,
+        "category": "社会负面,教育"
+      },
+      {
+        "raw_hot": 618563,
+        "num": 405688,
+        "word": "嗯哼做电摇动作",
+        "onboard_time": 1680162387,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350624,
+        "num": 395674,
+        "word": "成都夜市 缺斤少两",
+        "onboard_time": 1680154227,
+        "rank": 12,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 329115,
+        "num": 385895,
+        "word": "成都市监局回应摊贩缺斤少两",
+        "onboard_time": 1680160046,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 448191,
+        "num": 380602,
+        "word": "宋佳朴彩英同框自拍",
+        "onboard_time": 1680163227,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 434712,
+        "num": 376626,
+        "word": "高叶被夸头骨",
+        "onboard_time": 1680159445,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 370289,
+        "num": 370289,
+        "word": "原著里的巧珍",
+        "onboard_time": 1680162626,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 367897,
+        "num": 367897,
+        "word": "为什么浙江的寺庙比较灵",
+        "onboard_time": 1680156928,
+        "rank": 17,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 339835,
+        "num": 339835,
+        "word": "孙继海",
+        "onboard_time": 1680162146,
+        "rank": 18,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 302812,
+        "num": 302812,
+        "word": "范志毅",
+        "onboard_time": 1680163767,
+        "rank": 19,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 293806,
+        "num": 293806,
+        "word": "孙国友治沙公司已被吊销",
+        "onboard_time": 1680151950,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260086,
+        "num": 260086,
+        "word": "庆余年2将回归的角色",
+        "onboard_time": 1680147987,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 259534,
+        "num": 259534,
+        "word": "十种不可忽视的癌症征兆",
+        "onboard_time": 1680163467,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234505,
+        "num": 234505,
+        "word": "白鹿王鹤棣以爱为营下班视频",
+        "onboard_time": 1680158426,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 247800,
+        "num": 230331,
+        "word": "女生爬完泰山发现裤子变成偏大码",
+        "onboard_time": 1680144986,
+        "rank": 24,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 222723,
+        "num": 222723,
+        "word": "IU中短发造型",
+        "onboard_time": 1680148770,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 219809,
+        "num": 219809,
+        "word": "以色列突袭邻国首都",
+        "onboard_time": 1680164127,
+        "rank": 26,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 213748,
+        "num": 213748,
+        "word": "浙大学霸情侣获10万冠军奖金",
+        "onboard_time": 1680151950,
+        "rank": 27,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 196694,
+        "num": 196694,
+        "word": "被男朋友拍成了丧尸",
+        "onboard_time": 1680146248,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 189863,
+        "num": 189863,
+        "word": "公益林 商业林",
+        "onboard_time": 1680158667,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187798,
+        "num": 187798,
+        "word": "人生之路",
+        "onboard_time": 1680163887,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189721,
+        "num": 186918,
+        "word": "联合国教科文组织推荐肖战同款风景",
+        "onboard_time": 1680163585,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181779,
+        "num": 181779,
+        "word": "迪丽热巴街边旧照",
+        "onboard_time": 1680156147,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 176707,
+        "num": 176707,
+        "word": "丫丫晒太阳努力干饭等回家",
+        "onboard_time": 1680147807,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172337,
+        "num": 172337,
+        "word": "杨幂说现在对谈恋爱没兴趣",
+        "onboard_time": 1680164486,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 168742,
+        "num": 168742,
+        "word": "学校回应网传女生校企实习被领导性侵",
+        "onboard_time": 1680142645,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162206,
+        "num": 162206,
+        "word": "林生斌",
+        "onboard_time": 1680135147,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145290,
+        "num": 145290,
+        "word": "吴磊年下是侵略年上是克制",
+        "onboard_time": 1680155250,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 142388,
+        "num": 142388,
+        "word": "一等战功团授装仪式过于震撼",
+        "onboard_time": 1680160828,
+        "rank": 38,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 135723,
+        "num": 135723,
+        "word": "熊猫生气有多可爱",
+        "onboard_time": 1680150689,
+        "rank": 39,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 133390,
+        "num": 133390,
+        "word": "娜扎浓颜素妆大片",
+        "onboard_time": 1680158546,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 130390,
+        "num": 130390,
+        "word": "长月烬明",
+        "onboard_time": 1680164366,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 125458,
+        "num": 125458,
+        "word": "大力女子姜南顺",
+        "onboard_time": 1680149248,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 124629,
+        "num": 124629,
+        "word": "看来狗狗也不想打工",
+        "onboard_time": 1680161006,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 106851,
+        "num": 106851,
+        "word": "张兰称现在再带三个世界五百强没问题",
+        "onboard_time": 1680153509,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103664,
+        "num": 103664,
+        "word": "当你以为自己对某人很特殊",
+        "onboard_time": 1680154765,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 102154,
+        "num": 102154,
+        "word": "狐妖小红娘剧版vs原版",
+        "onboard_time": 1680151534,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 95232,
+        "num": 95232,
+        "word": "千万不要带婴儿车去重庆旅游",
+        "onboard_time": 1680138207,
+        "rank": 47,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 90883,
+        "num": 90883,
+        "word": "连淮伟帮李俊濠介绍工作",
+        "onboard_time": 1680160105,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90012,
+        "num": 90012,
+        "word": "时代峰峻辟谣演唱会义工招募",
+        "onboard_time": 1680157467,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#有能力有条件的民营企业要加强自主创新#"
+    }
+  }
+}

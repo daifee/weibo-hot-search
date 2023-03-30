@@ -1,7 +1,15 @@
 {
   "startTime": 1680110195849,
-  "endTime": 1680161620496,
+  "endTime": 1680164569101,
   "band_list": [
+    {
+      "raw_hot": 2662463,
+      "num": 2662463,
+      "word": "为什么癌症一发现就是晚期",
+      "onboard_time": 1680160467,
+      "rank": 48,
+      "category": "社会议题"
+    },
     {
       "raw_hot": 1923557,
       "num": 1923557,
@@ -115,14 +123,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1061488,
-      "num": 1061488,
-      "word": "为什么癌症一发现就是晚期",
-      "onboard_time": 1680160467,
-      "rank": 48,
-      "category": "社会议题"
-    },
-    {
       "raw_hot": 1058968,
       "num": 1058968,
       "word": "千万不要带婴儿车去重庆旅游",
@@ -179,6 +179,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 819467,
+      "num": 772592,
+      "word": "以色列",
+      "onboard_time": 1680161427,
+      "rank": 45,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 799795,
+      "num": 799795,
+      "word": "肖战张艺兴王源陈伟霆MV视频",
+      "onboard_time": 1680164548,
+      "rank": 1,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 799617,
       "num": 799617,
       "word": "秦岚保剑锋时隔十一年再合作",
@@ -188,11 +204,19 @@
     },
     {
       "raw_hot": 774557,
-      "num": 345947,
+      "num": 376626,
       "word": "高叶被夸头骨",
       "onboard_time": 1680159445,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 767666,
+      "num": 767666,
+      "word": "张若昀长发像唐艺昕",
+      "onboard_time": 1680161128,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 755403,
@@ -212,7 +236,7 @@
     },
     {
       "raw_hot": 753231,
-      "num": 347239,
+      "num": 367897,
       "word": "为什么浙江的寺庙比较灵",
       "onboard_time": 1680156928,
       "rank": 45,
@@ -299,12 +323,28 @@
       "category": "社会新闻,美妆"
     },
     {
+      "raw_hot": 618563,
+      "num": 405688,
+      "word": "嗯哼做电摇动作",
+      "onboard_time": 1680162387,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 611146,
       "num": 611146,
       "word": "白鹿王鹤棣以爱为营下班视频",
       "onboard_time": 1680158426,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 602553,
+      "num": 602553,
+      "word": "江西20岁女大学生确认自杀",
+      "onboard_time": 1680164007,
+      "rank": 5,
+      "category": "社会负面"
     },
     {
       "raw_hot": 588556,
@@ -419,6 +459,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 459573,
+      "num": 459573,
+      "word": "易烊千玺黑背心",
+      "onboard_time": 1680164548,
+      "rank": 7,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 456883,
+      "num": 456883,
+      "word": "程潇说自己公司门都不太进",
+      "onboard_time": 1680159987,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 448191,
+      "num": 380602,
+      "word": "宋佳朴彩英同框自拍",
+      "onboard_time": 1680163227,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 443242,
       "num": 443242,
       "word": "雪豹照镜子被自己颜值惊呆了",
@@ -491,12 +555,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 362267,
-      "num": 349669,
-      "word": "程潇说自己公司门都不太进",
-      "onboard_time": 1680159987,
-      "rank": 17,
-      "category": "综艺"
+      "raw_hot": 370289,
+      "num": 370289,
+      "word": "原著里的巧珍",
+      "onboard_time": 1680162626,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 359239,
@@ -513,6 +577,14 @@
       "onboard_time": 1680140065,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 339835,
+      "num": 339835,
+      "word": "孙继海",
+      "onboard_time": 1680162146,
+      "rank": 18,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 336824,
@@ -539,6 +611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 329115,
+      "num": 385895,
+      "word": "成都市监局回应摊贩缺斤少两",
+      "onboard_time": 1680160046,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 321663,
       "num": 315468,
       "word": "吴镇宇想见到费曼的办法",
@@ -561,6 +641,14 @@
       "onboard_time": 1680144747,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 302812,
+      "num": 302812,
+      "word": "范志毅",
+      "onboard_time": 1680163767,
+      "rank": 19,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 297858,
@@ -659,12 +747,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 259486,
-      "num": 259486,
-      "word": "张若昀长发像唐艺昕",
-      "onboard_time": 1680161128,
-      "rank": 18,
-      "category": "综艺"
+      "raw_hot": 259534,
+      "num": 259534,
+      "word": "十种不可忽视的癌症征兆",
+      "onboard_time": 1680163467,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 259172,
@@ -803,6 +891,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 219809,
+      "num": 219809,
+      "word": "以色列突袭邻国首都",
+      "onboard_time": 1680164127,
+      "rank": 26,
+      "category": "军事,国外要闻"
+    },
+    {
       "raw_hot": 219002,
       "num": 219002,
       "word": "公益林 商业林",
@@ -931,12 +1027,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 189719,
-      "num": 189719,
-      "word": "成都市监局回应摊贩缺斤少两",
-      "onboard_time": 1680160046,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 189721,
+      "num": 186918,
+      "word": "联合国教科文组织推荐肖战同款风景",
+      "onboard_time": 1680163585,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 187798,
+      "num": 187798,
+      "word": "人生之路",
+      "onboard_time": 1680163887,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 187255,
@@ -1017,6 +1121,14 @@
       "onboard_time": 1680086247,
       "rank": 32,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 172337,
+      "num": 172337,
+      "word": "杨幂说现在对谈恋爱没兴趣",
+      "onboard_time": 1680164486,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 170723,
@@ -1163,6 +1275,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 142388,
+      "num": 142388,
+      "word": "一等战功团授装仪式过于震撼",
+      "onboard_time": 1680160828,
+      "rank": 40,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 141873,
       "num": 141873,
       "word": "边牧的智商未免也太高了",
@@ -1208,6 +1328,14 @@
       "word": "周冬雨马思纯同框",
       "onboard_time": 1680101190,
       "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 130390,
+      "num": 130390,
+      "word": "长月烬明",
+      "onboard_time": 1680164366,
+      "rank": 41,
       "category": "影视"
     },
     {
@@ -1331,14 +1459,6 @@
       "category": "情感,教育"
     },
     {
-      "raw_hot": 120656,
-      "num": 120656,
-      "word": "一等战功团授装仪式过于震撼",
-      "onboard_time": 1680160828,
-      "rank": 40,
-      "category": "军事,社会新闻"
-    },
-    {
       "raw_hot": 120207,
       "num": 109660,
       "word": "刘宪华 南京",
@@ -1409,14 +1529,6 @@
       "onboard_time": 1680142946,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 105828,
-      "num": 105828,
-      "word": "以色列",
-      "onboard_time": 1680161427,
-      "rank": 45,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 105709,
