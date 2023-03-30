@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1680207524740,
+  "endTime": 1680208413852,
   "band_list": [
     {
       "raw_hot": 12970403,
@@ -9481,6 +9481,14 @@
       "onboard_time": 1680121332,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14426,
+      "num": 14426,
+      "word": "中国说唱巅峰对决",
+      "onboard_time": 1680208031,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 12578,

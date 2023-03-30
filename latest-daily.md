@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/03/31 00:24:29 ~ 2023/03/31 04:18:44
+本榜单时间：2023/03/31 00:24:29 ~ 2023/03/31 04:33:33
 </p>
 </blockquote>
 <p>
@@ -359,6 +359,12 @@ AI（热度：73742）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%A3%E8%8B%B1%E5%9D%8F%E7%89%B9Melody%23" target="weibo">
 那英坏特Melody（热度：26666）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%AF%B4%E5%94%B1%E5%B7%85%E5%B3%B0%E5%AF%B9%E5%86%B3%23" target="weibo">
+中国说唱巅峰对决（热度：14426）
 </a>
 </li>
 

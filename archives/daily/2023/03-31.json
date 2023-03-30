@@ -1,6 +1,6 @@
 {
   "startTime": 1680193469065,
-  "endTime": 1680207524740,
+  "endTime": 1680208413852,
   "band_list": [
     {
       "raw_hot": 2107691,
@@ -464,6 +464,14 @@
       "word": "那英坏特Melody",
       "onboard_time": 1680188848,
       "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 14426,
+      "num": 14426,
+      "word": "中国说唱巅峰对决",
+      "onboard_time": 1680208031,
+      "rank": 39,
       "category": "综艺"
     }
   ],
