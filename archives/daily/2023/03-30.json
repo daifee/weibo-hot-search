@@ -1,6 +1,6 @@
 {
   "startTime": 1680110195849,
-  "endTime": 1680168838706,
+  "endTime": 1680171561299,
   "band_list": [
     {
       "raw_hot": 2662463,
@@ -9,6 +9,14 @@
       "onboard_time": 1680160467,
       "rank": 48,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 2343304,
+      "num": 414068,
+      "word": "袁冰妍",
+      "onboard_time": 1680169347,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1923557,
@@ -129,6 +137,14 @@
       "onboard_time": 1680155366,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1214247,
+      "num": 1214247,
+      "word": "海南启动全岛封关运作准备",
+      "onboard_time": 1680170189,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1124572,
@@ -291,6 +307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 705434,
+      "num": 705434,
+      "word": "张译录制清华大学问候视频",
+      "onboard_time": 1680170969,
+      "rank": 5,
+      "category": "影视,教育"
+    },
+    {
       "raw_hot": 704501,
       "num": 385562,
       "word": "女生爬完泰山发现裤子变成偏大码",
@@ -377,6 +401,14 @@
       "onboard_time": 1680137847,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 586524,
+      "num": 586524,
+      "word": "爱情而已3分钟",
+      "onboard_time": 1680168267,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 580892,
@@ -507,6 +539,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 467765,
+      "num": 294610,
+      "word": "上海月薪一万算高吗",
+      "onboard_time": 1680169589,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 467512,
       "num": 467512,
       "word": "小学生盘手串",
@@ -569,6 +609,14 @@
       "onboard_time": 1680145466,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 416637,
+      "num": 416637,
+      "word": "RNG TT",
+      "onboard_time": 1680171087,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 415772,
@@ -651,6 +699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 364589,
+      "num": 364589,
+      "word": "荣梓杉下巴痣",
+      "onboard_time": 1680168089,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 359239,
       "num": 359239,
       "word": "威少",
@@ -707,6 +763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 327859,
+      "num": 327859,
+      "word": "女生穿10公分高跟鞋爬泰山",
+      "onboard_time": 1680168867,
+      "rank": 18,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 321663,
       "num": 315468,
       "word": "吴镇宇想见到费曼的办法",
@@ -729,6 +793,14 @@
       "onboard_time": 1680144747,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 299307,
+      "num": 299307,
+      "word": "张新成深V露背西装",
+      "onboard_time": 1680167968,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 297858,
@@ -963,6 +1035,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 223826,
+      "num": 223826,
+      "word": "李沁村花妆是刻板印象吗",
+      "onboard_time": 1680171207,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 223237,
       "num": 223237,
       "word": "联合国教科文组织推荐肖战同款风景",
@@ -977,6 +1057,14 @@
       "onboard_time": 1680165988,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 221522,
+      "num": 221522,
+      "word": "林炜翔Doinb搭档解说",
+      "onboard_time": 1680170127,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 220371,
@@ -1051,14 +1139,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 205151,
-      "num": 205151,
-      "word": "荣梓杉下巴痣",
-      "onboard_time": 1680168089,
-      "rank": 22,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 204429,
       "num": 204429,
       "word": "青岛凤凰音乐节",
@@ -1075,28 +1155,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 204032,
-      "num": 204032,
-      "word": "张新成深V露背西装",
-      "onboard_time": 1680167968,
-      "rank": 23,
-      "category": "影视"
-    },
-    {
       "raw_hot": 203743,
       "num": 203743,
       "word": "毛不易演唱会",
       "onboard_time": 1680157887,
       "rank": 26,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 201731,
-      "num": 199420,
-      "word": "爱情而已3分钟",
-      "onboard_time": 1680168267,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 199365,
@@ -1195,6 +1259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 184175,
+      "num": 184175,
+      "word": "东盟国家欲弃美元转用本币结算",
+      "onboard_time": 1680169106,
+      "rank": 30,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 183162,
       "num": 183162,
       "word": "大张伟蒲熠星表演踢门秀",
@@ -1291,6 +1363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165183,
+      "num": 165183,
+      "word": "别让火了的泰山垃圾遍地",
+      "onboard_time": 1680165866,
+      "rank": 40,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 164445,
       "num": 164445,
       "word": "西藏林芝桃花有多惊艳",
@@ -1379,20 +1459,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 152293,
-      "num": 152293,
-      "word": "别让火了的泰山垃圾遍地",
-      "onboard_time": 1680165866,
-      "rank": 40,
-      "category": "社会新闻,旅游"
-    },
-    {
       "raw_hot": 148927,
       "num": 148927,
       "word": "为什么一到换季就鼻炎",
       "onboard_time": 1680138510,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148527,
+      "num": 148527,
+      "word": "没有它劈不开的竹子",
+      "onboard_time": 1680168209,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 148482,
@@ -1547,6 +1627,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 124287,
+      "num": 124287,
+      "word": "没有特长的人要怎么写特长",
+      "onboard_time": 1680170549,
+      "rank": 39,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 123384,
       "num": 123384,
       "word": "丫丫",
@@ -1619,14 +1707,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 115620,
-      "num": 115620,
-      "word": "没有它劈不开的竹子",
-      "onboard_time": 1680168209,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 113049,
       "num": 113049,
       "word": "乘风破浪",
@@ -1649,6 +1729,14 @@
       "onboard_time": 1680104247,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 107947,
+      "num": 107947,
+      "word": "大熊猫萌兰反向投喂饲养员",
+      "onboard_time": 1680170249,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 107745,
@@ -1715,6 +1803,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 98332,
+      "num": 98332,
+      "word": "TT先下一城",
+      "onboard_time": 1680171447,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 97091,
       "num": 236867,
       "word": "影像旗舰为什么卷暗光长焦",
@@ -1764,7 +1860,7 @@
     },
     {
       "raw_hot": 76381,
-      "num": 1121583,
+      "num": 1134899,
       "word": "春日里的中国处处都是绝美的浪漫",
       "onboard_time": 1680165929,
       "rank": 2,
