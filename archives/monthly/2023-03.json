@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1680172494136,
+  "endTime": 1680174894861,
   "band_list": [
     {
       "raw_hot": 27113842,
@@ -3825,6 +3825,14 @@
       "onboard_time": 1680164007,
       "rank": 5,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 1413557,
+      "num": 1413557,
+      "word": "网红自称确诊肝癌内容纯属虚构",
+      "onboard_time": 1680172708,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1411431,
@@ -12192,6 +12200,14 @@
       "word": "iPhone13成2022年中国最畅销手机",
       "onboard_time": 1679978372,
       "rank": 5,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 706320,
+      "num": 706320,
+      "word": "斗鱼官方推送软色情表演",
+      "onboard_time": 1680172467,
+      "rank": 47,
       "category": "科技"
     },
     {
@@ -20875,6 +20891,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 459518,
+      "num": 459518,
+      "word": "女生穿10公分高跟鞋爬泰山",
+      "onboard_time": 1680168867,
+      "rank": 18,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 459291,
       "num": 459291,
       "word": "2023暑期档已官宣3部电影",
@@ -23843,14 +23867,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 398352,
-      "num": 398352,
-      "word": "女生穿10公分高跟鞋爬泰山",
-      "onboard_time": 1680168867,
-      "rank": 18,
-      "category": "社会新闻,旅游"
-    },
-    {
       "raw_hot": 398181,
       "num": 398181,
       "word": "张军当选为最高人民法院院长",
@@ -25369,6 +25385,14 @@
       "onboard_time": 1678935686,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 373434,
+      "num": 373434,
+      "word": "杨洋插兜",
+      "onboard_time": 1680171748,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 373093,
@@ -27336,6 +27360,14 @@
       "word": "谭松韵问井柏然收视有保障吗",
       "onboard_time": 1679052448,
       "rank": 18,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 343891,
+      "num": 343891,
+      "word": "李沁村花妆是刻板印象吗",
+      "onboard_time": 1680171207,
+      "rank": 24,
       "category": "影视"
     },
     {
@@ -29995,14 +30027,6 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 306930,
-      "num": 306930,
-      "word": "李沁村花妆是刻板印象吗",
-      "onboard_time": 1680171207,
-      "rank": 24,
-      "category": "影视"
-    },
-    {
       "raw_hot": 306882,
       "num": 602307,
       "word": "成都一商场提供躺平区",
@@ -31475,6 +31499,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 288405,
+      "num": 288405,
+      "word": "开放世界乙女游戏",
+      "onboard_time": 1680173008,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 288182,
       "num": 288182,
       "word": "当导师收到我的论文初稿",
@@ -32569,6 +32601,14 @@
       "onboard_time": 1678116446,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 275818,
+      "num": 275818,
+      "word": "大熊猫萌兰反向投喂饲养员",
+      "onboard_time": 1680170249,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 275729,
@@ -34729,6 +34769,14 @@
       "onboard_time": 1679908769,
       "rank": 30,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 251395,
+      "num": 251395,
+      "word": "杨超越粉色花朵纱裙",
+      "onboard_time": 1680173489,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 251391,
@@ -41299,6 +41347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 203279,
+      "num": 203279,
+      "word": "明星品质盛典造型图",
+      "onboard_time": 1680173967,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 203179,
       "num": 203179,
       "word": "刘金国当选为国家监察委员会主任",
@@ -44403,14 +44459,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 191334,
-      "num": 191334,
-      "word": "杨洋插兜",
-      "onboard_time": 1680171748,
-      "rank": 30,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 191222,
       "num": 191222,
       "word": "张栋梁再唱自己8年前的歌",
@@ -44457,6 +44505,14 @@
       "onboard_time": 1678587566,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190932,
+      "num": 168050,
+      "word": "三分钟在第几集",
+      "onboard_time": 1680172768,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 190876,
@@ -44993,6 +45049,14 @@
       "onboard_time": 1679541808,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 188421,
+      "num": 161400,
+      "word": "蒋雯丽长发旧照",
+      "onboard_time": 1680172647,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 188415,
@@ -47345,14 +47409,6 @@
       "onboard_time": 1677833547,
       "rank": 32,
       "category": "科技"
-    },
-    {
-      "raw_hot": 173475,
-      "num": 173475,
-      "word": "大熊猫萌兰反向投喂饲养员",
-      "onboard_time": 1680170249,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 173399,
@@ -50155,6 +50211,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 155193,
+      "num": 155193,
+      "word": "品质盛典直播",
+      "onboard_time": 1680173248,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 155140,
       "num": 155140,
       "word": "库里35岁生日",
@@ -52465,6 +52529,14 @@
       "onboard_time": 1678171287,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 140296,
+      "num": 140296,
+      "word": "LPL女团cos花仙子",
+      "onboard_time": 1680173848,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 140160,
@@ -56483,6 +56555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 113370,
+      "num": 113370,
+      "word": "童瑶背后红花造型",
+      "onboard_time": 1680173187,
+      "rank": 42,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 113291,
       "num": 113291,
       "word": "建议春节放假9天",
@@ -56656,6 +56736,14 @@
       "word": "不要随便夸重庆司机",
       "onboard_time": 1678179808,
       "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 111418,
+      "num": 111418,
+      "word": "这猫怎么穿高跟鞋了",
+      "onboard_time": 1680174029,
+      "rank": 46,
       "category": "幽默"
     },
     {
@@ -57201,6 +57289,14 @@
       "onboard_time": 1679015190,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 107736,
+      "num": 108829,
+      "word": "2023PEL春季赛季后赛",
+      "onboard_time": 1680174386,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 107658,
@@ -58489,14 +58585,6 @@
       "onboard_time": 1679390550,
       "rank": 48,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 96070,
-      "num": 96070,
-      "word": "斗鱼官方推送软色情表演",
-      "onboard_time": 1680172467,
-      "rank": 47,
-      "category": "科技"
     },
     {
       "raw_hot": 96032,

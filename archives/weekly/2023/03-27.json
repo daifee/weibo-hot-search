@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1680172494136,
+  "endTime": 1680174894861,
   "band_list": [
     {
       "raw_hot": 12970403,
@@ -505,6 +505,14 @@
       "onboard_time": 1680164007,
       "rank": 5,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 1413557,
+      "num": 1413557,
+      "word": "网红自称确诊肝癌内容纯属虚构",
+      "onboard_time": 1680172708,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1389900,
@@ -1456,6 +1464,14 @@
       "word": "iPhone13成2022年中国最畅销手机",
       "onboard_time": 1679978372,
       "rank": 5,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 706320,
+      "num": 706320,
+      "word": "斗鱼官方推送软色情表演",
+      "onboard_time": 1680172467,
+      "rank": 47,
       "category": "科技"
     },
     {
@@ -2531,6 +2547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 459518,
+      "num": 459518,
+      "word": "女生穿10公分高跟鞋爬泰山",
+      "onboard_time": 1680168867,
+      "rank": 18,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 458842,
       "num": 390485,
       "word": "湖南暂停与渤海银行资金监管合作",
@@ -2971,14 +2995,6 @@
       "category": "作品衍生,幽默"
     },
     {
-      "raw_hot": 398352,
-      "num": 398352,
-      "word": "女生穿10公分高跟鞋爬泰山",
-      "onboard_time": 1680168867,
-      "rank": 18,
-      "category": "社会新闻,旅游"
-    },
-    {
       "raw_hot": 398039,
       "num": 398039,
       "word": "何同学中文打字机",
@@ -3211,6 +3227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 373434,
+      "num": 373434,
+      "word": "杨洋插兜",
+      "onboard_time": 1680171748,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 373093,
       "num": 373093,
       "word": "网剧招惹",
@@ -3401,6 +3425,14 @@
       "onboard_time": 1680058886,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 343891,
+      "num": 343891,
+      "word": "李沁村花妆是刻板印象吗",
+      "onboard_time": 1680171207,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 343287,
@@ -3699,14 +3731,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 306930,
-      "num": 306930,
-      "word": "李沁村花妆是刻板印象吗",
-      "onboard_time": 1680171207,
-      "rank": 24,
-      "category": "影视"
-    },
-    {
       "raw_hot": 306721,
       "num": 306721,
       "word": "笑点低的人连结婚都在笑场",
@@ -3979,6 +4003,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 288405,
+      "num": 288405,
+      "word": "开放世界乙女游戏",
+      "onboard_time": 1680173008,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 288182,
       "num": 288182,
       "word": "当导师收到我的论文初稿",
@@ -4176,6 +4208,14 @@
       "word": "孙国友女儿称事情没有解决",
       "onboard_time": 1680134545,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 275818,
+      "num": 275818,
+      "word": "大熊猫萌兰反向投喂饲养员",
+      "onboard_time": 1680170249,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -4537,6 +4577,14 @@
       "onboard_time": 1679908769,
       "rank": 30,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 251395,
+      "num": 251395,
+      "word": "杨超越粉色花朵纱裙",
+      "onboard_time": 1680173489,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 251334,
@@ -5427,6 +5475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 203279,
+      "num": 203279,
+      "word": "明星品质盛典造型图",
+      "onboard_time": 1680173967,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 202856,
       "num": 202856,
       "word": "北京草莓音乐节",
@@ -5843,19 +5899,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 191334,
-      "num": 191334,
-      "word": "杨洋插兜",
-      "onboard_time": 1680171748,
-      "rank": 30,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 191070,
       "num": 191070,
       "word": "宋三川开启网球事业",
       "onboard_time": 1680089248,
       "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 190932,
+      "num": 168050,
+      "word": "三分钟在第几集",
+      "onboard_time": 1680172768,
+      "rank": 26,
       "category": "影视"
     },
     {
@@ -5937,6 +5993,14 @@
       "onboard_time": 1680053129,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 188421,
+      "num": 161400,
+      "word": "蒋雯丽长发旧照",
+      "onboard_time": 1680172647,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 188415,
@@ -6313,14 +6377,6 @@
       "onboard_time": 1679991568,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 173475,
-      "num": 173475,
-      "word": "大熊猫萌兰反向投喂饲养员",
-      "onboard_time": 1680170249,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 173399,
@@ -6763,6 +6819,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 155193,
+      "num": 155193,
+      "word": "品质盛典直播",
+      "onboard_time": 1680173248,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 154291,
       "num": 154291,
       "word": "狗狗的想法",
@@ -7003,6 +7067,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 142478,
+      "num": 142478,
+      "word": "归路",
+      "onboard_time": 1679925813,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 142388,
       "num": 142388,
       "word": "一等战功团授装仪式过于震撼",
@@ -7072,6 +7144,14 @@
       "word": "和艾莉一起幸存",
       "onboard_time": 1679979089,
       "rank": 42,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 140296,
+      "num": 140296,
+      "word": "LPL女团cos花仙子",
+      "onboard_time": 1680173848,
+      "rank": 39,
       "category": "游戏"
     },
     {
@@ -7643,14 +7723,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 119016,
-      "num": 119016,
-      "word": "归路",
-      "onboard_time": 1679925813,
-      "rank": 43,
-      "category": "影视"
-    },
-    {
       "raw_hot": 118378,
       "num": 118378,
       "word": "电影不躺平俱乐部开机",
@@ -7739,6 +7811,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 113370,
+      "num": 113370,
+      "word": "童瑶背后红花造型",
+      "onboard_time": 1680173187,
+      "rank": 42,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 113049,
       "num": 113049,
       "word": "乘风破浪",
@@ -7777,6 +7857,14 @@
       "onboard_time": 1680055706,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 111418,
+      "num": 111418,
+      "word": "这猫怎么穿高跟鞋了",
+      "onboard_time": 1680174029,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 110872,
@@ -7857,6 +7945,14 @@
       "onboard_time": 1680104247,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 107736,
+      "num": 108829,
+      "word": "2023PEL春季赛季后赛",
+      "onboard_time": 1680174386,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 107615,
@@ -8105,14 +8201,6 @@
       "onboard_time": 1679892102,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 96070,
-      "num": 96070,
-      "word": "斗鱼官方推送软色情表演",
-      "onboard_time": 1680172467,
-      "rank": 47,
-      "category": "科技"
     },
     {
       "raw_hot": 95955,

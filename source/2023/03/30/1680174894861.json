@@ -1,0 +1,410 @@
+{
+  "runTime": 1680174894861,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1586110,
+        "num": 1586110,
+        "word": "海南启动全岛封关运作准备",
+        "onboard_time": 1680170189,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1413557,
+        "num": 1413557,
+        "word": "网红自称确诊肝癌内容纯属虚构",
+        "onboard_time": 1680172708,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57666,
+        "num": 724096,
+        "word": "春日里的中国处处都是绝美的浪漫",
+        "onboard_time": 1680165929,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 706320,
+        "num": 706320,
+        "word": "斗鱼官方推送软色情表演",
+        "onboard_time": 1680172467,
+        "rank": 3,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 676198,
+        "num": 676198,
+        "word": "为什么癌症一发现就是晚期",
+        "onboard_time": 1680160467,
+        "rank": 4,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 574518,
+        "num": 574518,
+        "word": "印度男子把刚分娩6个月的妻子打死",
+        "onboard_time": 1680165749,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 547090,
+        "num": 547090,
+        "word": "张译录制清华大学问候视频",
+        "onboard_time": 1680170969,
+        "rank": 6,
+        "category": "影视,教育"
+      },
+      {
+        "raw_hot": 459518,
+        "num": 459518,
+        "word": "女生穿10公分高跟鞋爬泰山",
+        "onboard_time": 1680168867,
+        "rank": 7,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 409986,
+        "num": 409986,
+        "word": "肖战张艺兴王源陈伟霆MV视频",
+        "onboard_time": 1680164548,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 389114,
+        "num": 389114,
+        "word": "爱情而已3分钟",
+        "onboard_time": 1680168267,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1614633,
+        "num": 384358,
+        "word": "袁冰妍",
+        "onboard_time": 1680169347,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 915596,
+        "num": 383975,
+        "word": "江西20岁女大学生确认自杀",
+        "onboard_time": 1680164007,
+        "rank": 11,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 510965,
+        "num": 381179,
+        "word": "衡阳师范学院女生实习遭性侵",
+        "onboard_time": 1680156207,
+        "rank": 12,
+        "category": "社会负面,教育"
+      },
+      {
+        "raw_hot": 373434,
+        "num": 373434,
+        "word": "杨洋插兜",
+        "onboard_time": 1680171748,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 347441,
+        "num": 347441,
+        "word": "养鸟已经满足不了三太子了",
+        "onboard_time": 1680165507,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 628424,
+        "num": 346025,
+        "word": "杨幂说现在对谈恋爱没兴趣",
+        "onboard_time": 1680164486,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 343891,
+        "num": 343891,
+        "word": "李沁村花妆是刻板印象吗",
+        "onboard_time": 1680171207,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 297974,
+        "num": 297974,
+        "word": "张若昀长发像唐艺昕",
+        "onboard_time": 1680161128,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 288405,
+        "num": 288405,
+        "word": "开放世界乙女游戏",
+        "onboard_time": 1680173008,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 275818,
+        "num": 275818,
+        "word": "大熊猫萌兰反向投喂饲养员",
+        "onboard_time": 1680170249,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 488610,
+        "num": 264370,
+        "word": "上海月薪一万算高吗",
+        "onboard_time": 1680169589,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 251395,
+        "num": 251395,
+        "word": "杨超越粉色花朵纱裙",
+        "onboard_time": 1680173489,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 212669,
+        "num": 212669,
+        "word": "荣梓杉下巴痣",
+        "onboard_time": 1680168089,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 203279,
+        "num": 203279,
+        "word": "明星品质盛典造型图",
+        "onboard_time": 1680173967,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171781,
+        "num": 171781,
+        "word": "RNG TT",
+        "onboard_time": 1680171087,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 202267,
+        "num": 171328,
+        "word": "张新成深V露背西装",
+        "onboard_time": 1680167968,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 190932,
+        "num": 168050,
+        "word": "三分钟在第几集",
+        "onboard_time": 1680172768,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 191006,
+        "num": 164014,
+        "word": "李一桐说太想挑战反派了",
+        "onboard_time": 1680171986,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 188421,
+        "num": 161400,
+        "word": "蒋雯丽长发旧照",
+        "onboard_time": 1680172647,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160957,
+        "num": 160957,
+        "word": "爱与不爱原来这么明显",
+        "onboard_time": 1680165507,
+        "rank": 29,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 185679,
+        "num": 158477,
+        "word": "宋佳 送家",
+        "onboard_time": 1680168567,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164686,
+        "num": 157968,
+        "word": "易烊千玺黑背心",
+        "onboard_time": 1680164548,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 155379,
+        "num": 155379,
+        "word": "十种不可忽视的癌症征兆",
+        "onboard_time": 1680163467,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155263,
+        "num": 155263,
+        "word": "女生爬完泰山发现裤子变成偏大码",
+        "onboard_time": 1680144986,
+        "rank": 33,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 155193,
+        "num": 155193,
+        "word": "品质盛典直播",
+        "onboard_time": 1680173248,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 154717,
+        "num": 154717,
+        "word": "万茜露背裙",
+        "onboard_time": 1680172289,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 152218,
+        "num": 152218,
+        "word": "范志毅",
+        "onboard_time": 1680163767,
+        "rank": 36,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 151145,
+        "num": 151145,
+        "word": "林炜翔Doinb搭档解说",
+        "onboard_time": 1680170127,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 142478,
+        "num": 142478,
+        "word": "归路",
+        "onboard_time": 1680173369,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 140296,
+        "num": 140296,
+        "word": "LPL女团cos花仙子",
+        "onboard_time": 1680173848,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 134943,
+        "num": 134943,
+        "word": "东盟国家欲弃美元转用本币结算",
+        "onboard_time": 1680169106,
+        "rank": 40,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 128946,
+        "num": 128946,
+        "word": "张杰演唱会",
+        "onboard_time": 1680166526,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 113370,
+        "num": 113370,
+        "word": "童瑶背后红花造型",
+        "onboard_time": 1680173187,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 113136,
+        "num": 113136,
+        "word": "联合国教科文组织推荐肖战同款风景",
+        "onboard_time": 1680163585,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112865,
+        "num": 112865,
+        "word": "爱情而已",
+        "onboard_time": 1680172170,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 112570,
+        "num": 112570,
+        "word": "没有它劈不开的竹子",
+        "onboard_time": 1680168209,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 111418,
+        "num": 111418,
+        "word": "这猫怎么穿高跟鞋了",
+        "onboard_time": 1680174029,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108835,
+        "num": 108835,
+        "word": "程潇说自己公司门都不太进",
+        "onboard_time": 1680159987,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107736,
+        "num": 108829,
+        "word": "2023PEL春季赛季后赛",
+        "onboard_time": 1680174386,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 97764,
+        "num": 108826,
+        "word": "巴西与中国不再使用美元作为中间货币",
+        "onboard_time": 1680151111,
+        "rank": 49,
+        "category": "财经,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#有能力有条件的民营企业要加强自主创新#"
+    }
+  }
+}
