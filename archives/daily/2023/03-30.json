@@ -1,6 +1,6 @@
 {
   "startTime": 1680110195849,
-  "endTime": 1680174894861,
+  "endTime": 1680175999940,
   "band_list": [
     {
       "raw_hot": 2662463,
@@ -67,6 +67,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 1517477,
+      "num": 1517477,
+      "word": "网红自称确诊肝癌内容纯属虚构",
+      "onboard_time": 1680172708,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1510757,
       "num": 802065,
       "word": "学校回应网传女生校企实习被领导性侵",
@@ -105,14 +113,6 @@
       "onboard_time": 1680164007,
       "rank": 5,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 1413557,
-      "num": 1413557,
-      "word": "网红自称确诊肝癌内容纯属虚构",
-      "onboard_time": 1680172708,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1363371,
@@ -315,8 +315,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 706320,
-      "num": 706320,
+      "raw_hot": 743090,
+      "num": 743090,
       "word": "斗鱼官方推送软色情表演",
       "onboard_time": 1680172467,
       "rank": 47,
@@ -563,6 +563,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 469884,
+      "num": 469884,
+      "word": "宋茜白宇 保你平安前传",
+      "onboard_time": 1680175048,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 467512,
       "num": 467512,
       "word": "小学生盘手串",
@@ -632,6 +640,14 @@
       "word": "程耳说大家对我亲昵多半是因为王一博",
       "onboard_time": 1680145466,
       "rank": 17,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 419565,
+      "num": 419565,
+      "word": "杨洋插兜",
+      "onboard_time": 1680171748,
+      "rank": 30,
       "category": "作品衍生"
     },
     {
@@ -723,14 +739,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 373434,
-      "num": 373434,
-      "word": "杨洋插兜",
-      "onboard_time": 1680171748,
-      "rank": 30,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 373093,
       "num": 373093,
       "word": "网剧招惹",
@@ -753,6 +761,14 @@
       "onboard_time": 1680140065,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 344141,
+      "num": 344141,
+      "word": "开放世界乙女游戏",
+      "onboard_time": 1680173008,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 343891,
@@ -875,14 +891,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 288405,
-      "num": 288405,
-      "word": "开放世界乙女游戏",
-      "onboard_time": 1680173008,
-      "rank": 18,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 285232,
       "num": 285232,
       "word": "张杰演唱会",
@@ -897,6 +905,14 @@
       "onboard_time": 1680153866,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 283128,
+      "num": 283128,
+      "word": "大熊猫萌兰反向投喂饲养员",
+      "onboard_time": 1680170249,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 281154,
@@ -920,14 +936,6 @@
       "word": "孙国友女儿称事情没有解决",
       "onboard_time": 1680134545,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 275818,
-      "num": 275818,
-      "word": "大熊猫萌兰反向投喂饲养员",
-      "onboard_time": 1680170249,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -1155,6 +1163,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 211125,
+      "num": 211125,
+      "word": "吴磊吻戏从脸红到耳朵",
+      "onboard_time": 1680175947,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 209119,
       "num": 209119,
       "word": "李一桐说太想挑战反派了",
@@ -1235,6 +1251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 202802,
+      "num": 202802,
+      "word": "蒋雯丽长发旧照",
+      "onboard_time": 1680172647,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199365,
       "num": 199365,
       "word": "不良人",
@@ -1283,20 +1307,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191994,
+      "num": 191994,
+      "word": "三分钟在第几集",
+      "onboard_time": 1680172768,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 191819,
       "num": 191819,
       "word": "23种因素易诱发癌症",
       "onboard_time": 1680164608,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 190932,
-      "num": 168050,
-      "word": "三分钟在第几集",
-      "onboard_time": 1680172768,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 190705,
@@ -1313,14 +1337,6 @@
       "onboard_time": 1680172170,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 188421,
-      "num": 161400,
-      "word": "蒋雯丽长发旧照",
-      "onboard_time": 1680172647,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 187798,
@@ -1651,6 +1667,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 139842,
+      "num": 139842,
+      "word": "周柯宇在树上和白鹿王鹤棣合照",
+      "onboard_time": 1680175048,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 137884,
+      "num": 137884,
+      "word": "这猫怎么穿高跟鞋了",
+      "onboard_time": 1680174029,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 134950,
       "num": 134950,
       "word": "周深到底听到了什么啊",
@@ -1859,12 +1891,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 111418,
-      "num": 111418,
-      "word": "这猫怎么穿高跟鞋了",
-      "onboard_time": 1680174029,
+      "raw_hot": 110546,
+      "num": 110546,
+      "word": "EDGM锁定卡位赛",
+      "onboard_time": 1680175287,
       "rank": 46,
-      "category": "幽默"
+      "category": "游戏"
     },
     {
       "raw_hot": 109983,
@@ -2009,6 +2041,14 @@
       "onboard_time": 1680106882,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 84609,
+      "num": 84609,
+      "word": "工作中的摸鱼小技巧",
+      "onboard_time": 1680175947,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 76381,

@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1680174894861,
+  "endTime": 1680175999940,
   "band_list": [
     {
       "raw_hot": 12970403,
@@ -411,6 +411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1517477,
+      "num": 1517477,
+      "word": "网红自称确诊肝癌内容纯属虚构",
+      "onboard_time": 1680172708,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1510757,
       "num": 802065,
       "word": "学校回应网传女生校企实习被领导性侵",
@@ -505,14 +513,6 @@
       "onboard_time": 1680164007,
       "rank": 5,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 1413557,
-      "num": 1413557,
-      "word": "网红自称确诊肝癌内容纯属虚构",
-      "onboard_time": 1680172708,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1389900,
@@ -1387,6 +1387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 743090,
+      "num": 743090,
+      "word": "斗鱼官方推送软色情表演",
+      "onboard_time": 1680172467,
+      "rank": 47,
+      "category": "科技"
+    },
+    {
       "raw_hot": 736783,
       "num": 736783,
       "word": "于洪臣被查",
@@ -1464,14 +1472,6 @@
       "word": "iPhone13成2022年中国最畅销手机",
       "onboard_time": 1679978372,
       "rank": 5,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 706320,
-      "num": 706320,
-      "word": "斗鱼官方推送软色情表演",
-      "onboard_time": 1680172467,
-      "rank": 47,
       "category": "科技"
     },
     {
@@ -2483,6 +2483,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 469884,
+      "num": 469884,
+      "word": "宋茜白宇 保你平安前传",
+      "onboard_time": 1680175048,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 468153,
       "num": 468153,
       "word": "跑男成都",
@@ -2801,6 +2809,14 @@
       "onboard_time": 1679973928,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 419565,
+      "num": 419565,
+      "word": "杨洋插兜",
+      "onboard_time": 1680171748,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 418584,
@@ -3227,14 +3243,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 373434,
-      "num": 373434,
-      "word": "杨洋插兜",
-      "onboard_time": 1680171748,
-      "rank": 30,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 373093,
       "num": 373093,
       "word": "网剧招惹",
@@ -3425,6 +3433,14 @@
       "onboard_time": 1680058886,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 344141,
+      "num": 344141,
+      "word": "开放世界乙女游戏",
+      "onboard_time": 1680173008,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 343891,
@@ -4003,14 +4019,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 288405,
-      "num": 288405,
-      "word": "开放世界乙女游戏",
-      "onboard_time": 1680173008,
-      "rank": 18,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 288182,
       "num": 288182,
       "word": "当导师收到我的论文初稿",
@@ -4072,6 +4080,14 @@
       "word": "丫丫晚上加班吃竹子",
       "onboard_time": 1679837129,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 283128,
+      "num": 283128,
+      "word": "大熊猫萌兰反向投喂饲养员",
+      "onboard_time": 1680170249,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -4208,14 +4224,6 @@
       "word": "孙国友女儿称事情没有解决",
       "onboard_time": 1680134545,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 275818,
-      "num": 275818,
-      "word": "大熊猫萌兰反向投喂饲养员",
-      "onboard_time": 1680170249,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -5235,6 +5243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 211125,
+      "num": 211125,
+      "word": "吴磊吻戏从脸红到耳朵",
+      "onboard_time": 1680175947,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 211106,
       "num": 211106,
       "word": "上海一公交公司回应公交车坠河",
@@ -5489,6 +5505,14 @@
       "onboard_time": 1679999009,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 202802,
+      "num": 202802,
+      "word": "蒋雯丽长发旧照",
+      "onboard_time": 1680172647,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 202438,
@@ -5875,6 +5899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191994,
+      "num": 191994,
+      "word": "三分钟在第几集",
+      "onboard_time": 1680172768,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 191862,
       "num": 206094,
       "word": "今夜的上海是什么颜色",
@@ -5904,14 +5936,6 @@
       "word": "宋三川开启网球事业",
       "onboard_time": 1680089248,
       "rank": 32,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 190932,
-      "num": 168050,
-      "word": "三分钟在第几集",
-      "onboard_time": 1680172768,
-      "rank": 26,
       "category": "影视"
     },
     {
@@ -5993,14 +6017,6 @@
       "onboard_time": 1680053129,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 188421,
-      "num": 161400,
-      "word": "蒋雯丽长发旧照",
-      "onboard_time": 1680172647,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 188415,
@@ -7171,6 +7187,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 139842,
+      "num": 139842,
+      "word": "周柯宇在树上和白鹿王鹤棣合照",
+      "onboard_time": 1680175048,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 138400,
       "num": 138400,
       "word": "孙俪看五哈泼水",
@@ -7201,6 +7225,14 @@
       "onboard_time": 1679970509,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 137884,
+      "num": 137884,
+      "word": "这猫怎么穿高跟鞋了",
+      "onboard_time": 1680174029,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 137760,
@@ -7859,20 +7891,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 111418,
-      "num": 111418,
-      "word": "这猫怎么穿高跟鞋了",
-      "onboard_time": 1680174029,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 110872,
       "num": 110872,
       "word": "会射击的人玩打气球",
       "onboard_time": 1679886867,
       "rank": 40,
       "category": "幽默,社会新闻"
+    },
+    {
+      "raw_hot": 110546,
+      "num": 110546,
+      "word": "EDGM锁定卡位赛",
+      "onboard_time": 1680175287,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 110280,
@@ -8353,6 +8385,14 @@
       "onboard_time": 1679881588,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 84609,
+      "num": 84609,
+      "word": "工作中的摸鱼小技巧",
+      "onboard_time": 1680175947,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 83614,
