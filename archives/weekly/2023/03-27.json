@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1680215621721,
+  "endTime": 1680218298593,
   "band_list": [
     {
       "raw_hot": 12970403,
@@ -3932,7 +3932,7 @@
     },
     {
       "raw_hot": 319679,
-      "num": 123384,
+      "num": 161380,
       "word": "丫丫",
       "onboard_time": 1680136290,
       "rank": 45,
@@ -7387,6 +7387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 155818,
+      "num": 155818,
+      "word": "专家38年写400万字田间日记",
+      "onboard_time": 1680217579,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155788,
       "num": 155788,
       "word": "归路豆瓣6分",
@@ -7440,6 +7448,14 @@
       "word": "狗狗的想法",
       "onboard_time": 1679985687,
       "rank": 29,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 154087,
+      "num": 154087,
+      "word": "3月最后一天",
+      "onboard_time": 1680218059,
+      "rank": 16,
       "category": "情感"
     },
     {
@@ -9163,6 +9179,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 76090,
+      "num": 76090,
+      "word": "张艺兴看展生图",
+      "onboard_time": 1680197775,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 75157,
       "num": 294009,
       "word": "Note12 Turbo性能狂飙",
@@ -9283,14 +9307,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 64097,
-      "num": 55106,
-      "word": "张艺兴看展生图",
-      "onboard_time": 1680197775,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 63585,
       "num": 63585,
       "word": "研究表明母语塑造了大脑通路",
@@ -9361,6 +9377,14 @@
       "onboard_time": 1680019406,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 51126,
+      "num": 51126,
+      "word": "中国说唱巅峰对决",
+      "onboard_time": 1680208031,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 50135,
@@ -9465,14 +9489,6 @@
       "onboard_time": 1679739121,
       "rank": 41,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 29872,
-      "num": 29872,
-      "word": "中国说唱巅峰对决",
-      "onboard_time": 1680208031,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 26824,
