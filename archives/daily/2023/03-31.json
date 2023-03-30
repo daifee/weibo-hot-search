@@ -1,6 +1,6 @@
 {
   "startTime": 1680193469065,
-  "endTime": 1680218298593,
+  "endTime": 1680219232908,
   "band_list": [
     {
       "raw_hot": 2107691,
@@ -27,7 +27,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 825523,
+      "raw_hot": 840021,
       "num": 205643,
       "word": "村民不认可孙国友被称为治沙英雄",
       "onboard_time": 1680186150,
@@ -35,12 +35,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 809419,
+      "raw_hot": 825676,
       "num": 809419,
       "word": "上海海事大学被举报弄虚作假",
       "onboard_time": 1680187289,
       "rank": 3,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 758015,
+      "num": 267573,
+      "word": "上海大爷挤地铁骂女子是乡下猪",
+      "onboard_time": 1680188310,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 753761,
@@ -59,14 +67,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 608103,
-      "num": 267573,
-      "word": "上海大爷挤地铁骂女子是乡下猪",
-      "onboard_time": 1680188310,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 457248,
       "num": 457248,
       "word": "SEVENTEEN将4月24日回归",
@@ -83,8 +83,24 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 382097,
+      "num": 382097,
+      "word": "专家38年写400万字田间日记",
+      "onboard_time": 1680217579,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 321791,
+      "num": 321791,
+      "word": "千万不要在泰山顶上这样拍照",
+      "onboard_time": 1680185188,
+      "rank": 8,
+      "category": "幽默,旅游"
+    },
+    {
       "raw_hot": 319679,
-      "num": 161380,
+      "num": 205315,
       "word": "丫丫",
       "onboard_time": 1680209771,
       "rank": 11,
@@ -105,14 +121,6 @@
       "onboard_time": 1680183090,
       "rank": 6,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 287374,
-      "num": 287374,
-      "word": "千万不要在泰山顶上这样拍照",
-      "onboard_time": 1680185188,
-      "rank": 8,
-      "category": "幽默,旅游"
     },
     {
       "raw_hot": 286781,
@@ -179,6 +187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 208871,
+      "num": 208871,
+      "word": "3月最后一天",
+      "onboard_time": 1680218059,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 199122,
       "num": 199122,
       "word": "华晨宇演唱会舞台",
@@ -187,20 +203,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 179738,
+      "num": 179738,
+      "word": "中国切阳什姐递补获伦敦奥运金牌",
+      "onboard_time": 1680189510,
+      "rank": 27,
+      "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 179026,
+      "num": 179026,
+      "word": "代号鸢",
+      "onboard_time": 1680218240,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 176573,
+      "num": 174346,
+      "word": "男子生前借亲戚534万去世后被赖账",
+      "onboard_time": 1680176966,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175592,
       "num": 175592,
       "word": "怪异君",
       "onboard_time": 1680182011,
       "rank": 21,
       "category": "网红"
-    },
-    {
-      "raw_hot": 174346,
-      "num": 174346,
-      "word": "男子生前借亲戚534万去世后被赖账",
-      "onboard_time": 1680176966,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 171404,
@@ -219,6 +251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 170394,
+      "num": 170394,
+      "word": "导演李玉刚首部电影开机",
+      "onboard_time": 1680182068,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 168075,
       "num": 168075,
       "word": "aespa新歌HoldOnTight",
@@ -235,36 +275,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 165178,
-      "num": 165178,
-      "word": "中国切阳什姐递补获伦敦奥运金牌",
-      "onboard_time": 1680189510,
-      "rank": 27,
-      "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 155818,
-      "num": 155818,
-      "word": "专家38年写400万字田间日记",
-      "onboard_time": 1680217579,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 154087,
-      "num": 154087,
-      "word": "3月最后一天",
-      "onboard_time": 1680218059,
-      "rank": 16,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 152688,
-      "num": 152688,
-      "word": "导演李玉刚首部电影开机",
-      "onboard_time": 1680182068,
-      "rank": 35,
-      "category": "影视"
+      "raw_hot": 166254,
+      "num": 166254,
+      "word": "带着行李箱办离职",
+      "onboard_time": 1680192563,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 148168,
@@ -299,20 +315,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 135088,
+      "num": 135088,
+      "word": "李沁村花妆是刻板印象吗",
+      "onboard_time": 1680171207,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 131577,
       "num": 131577,
       "word": "声生不息后来全场大合唱",
       "onboard_time": 1680186750,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 130967,
-      "num": 130967,
-      "word": "带着行李箱办离职",
-      "onboard_time": 1680192563,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 128755,
@@ -323,28 +339,36 @@
       "category": "影视"
     },
     {
-      "raw_hot": 124517,
-      "num": 124517,
-      "word": "上海月薪一万算高吗",
-      "onboard_time": 1680169589,
-      "rank": 33,
-      "category": "情感"
+      "raw_hot": 127232,
+      "num": 127232,
+      "word": "彭小苒47秒念台词",
+      "onboard_time": 1680181468,
+      "rank": 40,
+      "category": "影视"
     },
     {
-      "raw_hot": 121707,
-      "num": 121707,
+      "raw_hot": 126806,
+      "num": 126806,
+      "word": "青岛人拍的5照片绍兴老汉收到了",
+      "onboard_time": 1680218359,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125368,
+      "num": 125368,
       "word": "猫夺走了新郎的风头",
       "onboard_time": 1680182729,
       "rank": 44,
       "category": "幽默"
     },
     {
-      "raw_hot": 119083,
-      "num": 119083,
-      "word": "李沁村花妆是刻板印象吗",
-      "onboard_time": 1680171207,
-      "rank": 23,
-      "category": "影视"
+      "raw_hot": 124517,
+      "num": 124517,
+      "word": "上海月薪一万算高吗",
+      "onboard_time": 1680169589,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 118810,
@@ -363,12 +387,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 109419,
-      "num": 109419,
-      "word": "彭小苒47秒念台词",
-      "onboard_time": 1680181468,
-      "rank": 40,
-      "category": "影视"
+      "raw_hot": 111276,
+      "num": 111276,
+      "word": "孙千粉色旗袍",
+      "onboard_time": 1680219082,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 106279,
@@ -395,6 +419,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98425,
+      "num": 98425,
+      "word": "如何看待当代青年社恐现状",
+      "onboard_time": 1680219082,
+      "rank": 36,
+      "category": "社会议题"
+    },
+    {
+      "raw_hot": 96567,
+      "num": 96567,
+      "word": "蛋仔派对",
+      "onboard_time": 1680218539,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 95276,
       "num": 95276,
       "word": "马嘉祺两首歌都入选最佳金曲",
@@ -411,6 +451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 84846,
+      "num": 84846,
+      "word": "张艺兴看展生图",
+      "onboard_time": 1680197775,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 84565,
       "num": 84565,
       "word": "科学家是如何治理荒漠化的",
@@ -419,12 +467,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 76090,
-      "num": 76090,
-      "word": "张艺兴看展生图",
-      "onboard_time": 1680197775,
-      "rank": 14,
-      "category": "艺人"
+      "raw_hot": 76949,
+      "num": 76949,
+      "word": "请给跪地求水林场主一个公证结果",
+      "onboard_time": 1680189988,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 75981,
@@ -459,14 +507,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 65097,
-      "num": 65097,
-      "word": "请给跪地求水林场主一个公证结果",
-      "onboard_time": 1680189988,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 61712,
       "num": 61712,
       "word": "大黑皮鞋睁眼了",
@@ -475,7 +515,15 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 56808,
+      "raw_hot": 59384,
+      "num": 59384,
+      "word": "和导师沟通像跟渣男谈恋爱",
+      "onboard_time": 1680219202,
+      "rank": 47,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 58969,
       "num": 718877,
       "word": "这里的春景每一帧都是画报",
       "onboard_time": 1680184829,
@@ -489,14 +537,6 @@
       "onboard_time": 1680208031,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 42881,
-      "num": 42881,
-      "word": "代号鸢",
-      "onboard_time": 1680218240,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 38179,

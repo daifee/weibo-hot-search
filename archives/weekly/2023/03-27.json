@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1680218298593,
+  "endTime": 1680219232908,
   "band_list": [
     {
       "raw_hot": 12970403,
@@ -1435,6 +1435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 758015,
+      "num": 318819,
+      "word": "上海大爷挤地铁骂女子是乡下猪",
+      "onboard_time": 1680188310,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 757785,
       "num": 757785,
       "word": "广东中山报告1例H3N8病例",
@@ -1929,14 +1937,6 @@
       "onboard_time": 1679925332,
       "rank": 37,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 608103,
-      "num": 318819,
-      "word": "上海大爷挤地铁骂女子是乡下猪",
-      "onboard_time": 1680188310,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 606236,
@@ -3339,6 +3339,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 382097,
+      "num": 382097,
+      "word": "专家38年写400万字田间日记",
+      "onboard_time": 1680217579,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 380740,
       "num": 380740,
       "word": "刑侦剧前五三部张译主演",
@@ -3932,7 +3940,7 @@
     },
     {
       "raw_hot": 319679,
-      "num": 161380,
+      "num": 205315,
       "word": "丫丫",
       "onboard_time": 1680136290,
       "rank": 45,
@@ -5683,6 +5691,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 208871,
+      "num": 208871,
+      "word": "3月最后一天",
+      "onboard_time": 1680218059,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 208419,
       "num": 208419,
       "word": "谷爱凌说只和自己卷",
@@ -7147,6 +7163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 166254,
+      "num": 166254,
+      "word": "带着行李箱办离职",
+      "onboard_time": 1680192563,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 166166,
       "num": 166166,
       "word": "秦岚邓家佳新剧对手戏",
@@ -7387,14 +7411,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 155818,
-      "num": 155818,
-      "word": "专家38年写400万字田间日记",
-      "onboard_time": 1680217579,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 155788,
       "num": 155788,
       "word": "归路豆瓣6分",
@@ -7448,14 +7464,6 @@
       "word": "狗狗的想法",
       "onboard_time": 1679985687,
       "rank": 29,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 154087,
-      "num": 154087,
-      "word": "3月最后一天",
-      "onboard_time": 1680218059,
-      "rank": 16,
       "category": "情感"
     },
     {
@@ -8051,14 +8059,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 130967,
-      "num": 130967,
-      "word": "带着行李箱办离职",
-      "onboard_time": 1680192563,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 130666,
       "num": 130666,
       "word": "宋亚轩跟雷佳音马丽打招呼",
@@ -8185,6 +8185,14 @@
       "onboard_time": 1679836827,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 126806,
+      "num": 126806,
+      "word": "青岛人拍的5照片绍兴老汉收到了",
+      "onboard_time": 1680218359,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 126661,
@@ -8579,6 +8587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 111276,
+      "num": 111276,
+      "word": "孙千粉色旗袍",
+      "onboard_time": 1680219082,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 110872,
       "num": 110872,
       "word": "会射击的人玩打气球",
@@ -8867,6 +8883,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 98425,
+      "num": 98425,
+      "word": "如何看待当代青年社恐现状",
+      "onboard_time": 1680219082,
+      "rank": 36,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 98400,
       "num": 98400,
       "word": "XYG对战RNGM",
@@ -8913,6 +8937,14 @@
       "onboard_time": 1679877626,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 96567,
+      "num": 96567,
+      "word": "蛋仔派对",
+      "onboard_time": 1680218539,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 96423,
@@ -9075,6 +9107,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 84846,
+      "num": 84846,
+      "word": "张艺兴看展生图",
+      "onboard_time": 1680197775,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 84688,
       "num": 84688,
       "word": "给大熊猫当铲屎官究竟有多难",
@@ -9177,14 +9217,6 @@
       "onboard_time": 1679991267,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 76090,
-      "num": 76090,
-      "word": "张艺兴看展生图",
-      "onboard_time": 1680197775,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 75157,
@@ -9329,6 +9361,14 @@
       "onboard_time": 1680188130,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 59384,
+      "num": 59384,
+      "word": "和导师沟通像跟渣男谈恋爱",
+      "onboard_time": 1680219202,
+      "rank": 47,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 59144,

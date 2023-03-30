@@ -1,0 +1,410 @@
+{
+  "runTime": 1680219232908,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 612527,
+        "num": 612527,
+        "word": "官方通报林场主求水事件",
+        "onboard_time": 1680189268,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 539924,
+        "num": 539924,
+        "word": "林更新说和赵丽颖二搭更默契了",
+        "onboard_time": 1680193762,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 58969,
+        "num": 480252,
+        "word": "这里的春景每一帧都是画报",
+        "onboard_time": 1680184829,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 825676,
+        "num": 463037,
+        "word": "上海海事大学被举报弄虚作假",
+        "onboard_time": 1680187289,
+        "rank": 3,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 437520,
+        "num": 437520,
+        "word": "吴磊吻戏从脸红到耳朵",
+        "onboard_time": 1680175947,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 382097,
+        "num": 382097,
+        "word": "专家38年写400万字田间日记",
+        "onboard_time": 1680217579,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321791,
+        "num": 321791,
+        "word": "千万不要在泰山顶上这样拍照",
+        "onboard_time": 1680185188,
+        "rank": 6,
+        "category": "幽默,旅游"
+      },
+      {
+        "raw_hot": 263450,
+        "num": 263450,
+        "word": "这熊猫介绍真是没瞎写",
+        "onboard_time": 1680190886,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 215298,
+        "num": 215298,
+        "word": "全球男性精子量告急",
+        "onboard_time": 1680182550,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208871,
+        "num": 208871,
+        "word": "3月最后一天",
+        "onboard_time": 1680218059,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 354712,
+        "num": 205489,
+        "word": "包贝尔女儿近照",
+        "onboard_time": 1680181410,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266991,
+        "num": 205315,
+        "word": "丫丫",
+        "onboard_time": 1680209771,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221987,
+        "num": 204166,
+        "word": "网红自称确诊肝癌内容纯属虚构",
+        "onboard_time": 1680172708,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199645,
+        "num": 199645,
+        "word": "谢娜问粉丝我生图很厉害吧",
+        "onboard_time": 1680182068,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191241,
+        "num": 191241,
+        "word": "海南启动全岛封关运作准备",
+        "onboard_time": 1680170189,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179738,
+        "num": 179738,
+        "word": "中国切阳什姐递补获伦敦奥运金牌",
+        "onboard_time": 1680189510,
+        "rank": 15,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 179026,
+        "num": 179026,
+        "word": "代号鸢",
+        "onboard_time": 1680218240,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 170394,
+        "num": 170394,
+        "word": "导演李玉刚首部电影开机",
+        "onboard_time": 1680182068,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 167136,
+        "num": 167136,
+        "word": "巧珍哭着跟高加林分手",
+        "onboard_time": 1680185850,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 166254,
+        "num": 166254,
+        "word": "带着行李箱办离职",
+        "onboard_time": 1680192563,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 758015,
+        "num": 166165,
+        "word": "上海大爷挤地铁骂女子是乡下猪",
+        "onboard_time": 1680188310,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176573,
+        "num": 165971,
+        "word": "男子生前借亲戚534万去世后被赖账",
+        "onboard_time": 1680176966,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165679,
+        "num": 165679,
+        "word": "存多少钱才算有安全感",
+        "onboard_time": 1680178167,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135088,
+        "num": 135088,
+        "word": "李沁村花妆是刻板印象吗",
+        "onboard_time": 1680171207,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 132039,
+        "num": 132039,
+        "word": "那我长大了还管谁叫爷爷",
+        "onboard_time": 1680180447,
+        "rank": 24,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 127232,
+        "num": 127232,
+        "word": "彭小苒47秒念台词",
+        "onboard_time": 1680181468,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 126806,
+        "num": 126806,
+        "word": "青岛人拍的5照片绍兴老汉收到了",
+        "onboard_time": 1680218359,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125368,
+        "num": 125368,
+        "word": "猫夺走了新郎的风头",
+        "onboard_time": 1680182729,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117160,
+        "num": 117160,
+        "word": "SEVENTEEN将4月24日回归",
+        "onboard_time": 1680189870,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 840021,
+        "num": 116978,
+        "word": "村民不认可孙国友被称为治沙英雄",
+        "onboard_time": 1680186150,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116507,
+        "num": 116507,
+        "word": "内娱小白花天花板",
+        "onboard_time": 1680183090,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 111276,
+        "num": 111276,
+        "word": "孙千粉色旗袍",
+        "onboard_time": 1680219082,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 101474,
+        "num": 101474,
+        "word": "声生不息后来全场大合唱",
+        "onboard_time": 1680186750,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100244,
+        "num": 100244,
+        "word": "上海月薪一万算高吗",
+        "onboard_time": 1680169589,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 99903,
+        "num": 99903,
+        "word": "袁冰妍",
+        "onboard_time": 1680169347,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98958,
+        "num": 98958,
+        "word": "魅族20",
+        "onboard_time": 1680180689,
+        "rank": 35,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 98425,
+        "num": 98425,
+        "word": "如何看待当代青年社恐现状",
+        "onboard_time": 1680219082,
+        "rank": 36,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 96567,
+        "num": 96567,
+        "word": "蛋仔派对",
+        "onboard_time": 1680218539,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 93512,
+        "num": 93512,
+        "word": "王皓说这个家没海东不行",
+        "onboard_time": 1680186210,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 84846,
+        "num": 84846,
+        "word": "张艺兴看展生图",
+        "onboard_time": 1680197775,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76949,
+        "num": 76949,
+        "word": "请给跪地求水林场主一个公证结果",
+        "onboard_time": 1680189988,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74796,
+        "num": 74796,
+        "word": "怪异君",
+        "onboard_time": 1680182011,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 70010,
+        "num": 70010,
+        "word": "王嘉尔油管订阅数华人歌手第一",
+        "onboard_time": 1680186750,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65425,
+        "num": 65425,
+        "word": "张学友演唱会",
+        "onboard_time": 1680186329,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 65180,
+        "num": 65180,
+        "word": "江西20岁女大学生确认自杀",
+        "onboard_time": 1680164007,
+        "rank": 44,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 65090,
+        "num": 65090,
+        "word": "宋涛在武汉会见马英九一行",
+        "onboard_time": 1680184829,
+        "rank": 45,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 60132,
+        "num": 60132,
+        "word": "杨丞琳晒与姐妹们聚会合照",
+        "onboard_time": 1680190648,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59384,
+        "num": 59384,
+        "word": "和导师沟通像跟渣男谈恋爱",
+        "onboard_time": 1680219202,
+        "rank": 47,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 59286,
+        "num": 59286,
+        "word": "声生不息宝岛季下期有于文文",
+        "onboard_time": 1680182908,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 58934,
+        "num": 58934,
+        "word": "宋茜白宇 保你平安前传",
+        "onboard_time": 1680175048,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#有能力有条件的民营企业要加强自主创新#"
+    }
+  }
+}
