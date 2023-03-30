@@ -1,6 +1,6 @@
 {
   "startTime": 1680193469065,
-  "endTime": 1680212003918,
+  "endTime": 1680214611825,
   "band_list": [
     {
       "raw_hot": 2107691,
@@ -129,6 +129,14 @@
       "onboard_time": 1680182068,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 246251,
+      "num": 52942,
+      "word": "丫丫",
+      "onboard_time": 1680209771,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 244901,
@@ -323,14 +331,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 109997,
-      "num": 26547,
-      "word": "丫丫",
-      "onboard_time": 1680209771,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 109419,
       "num": 109419,
       "word": "彭小苒47秒念台词",
@@ -467,19 +467,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29872,
+      "num": 29872,
+      "word": "中国说唱巅峰对决",
+      "onboard_time": 1680208031,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 26666,
       "num": 26666,
       "word": "那英坏特Melody",
       "onboard_time": 1680188848,
       "rank": 46,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 26433,
-      "num": 26433,
-      "word": "中国说唱巅峰对决",
-      "onboard_time": 1680208031,
-      "rank": 39,
       "category": "综艺"
     }
   ],

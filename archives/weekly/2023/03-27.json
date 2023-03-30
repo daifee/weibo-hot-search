@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1680212003918,
+  "endTime": 1680214611825,
   "band_list": [
     {
       "raw_hot": 12970403,
@@ -4923,6 +4923,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 246251,
+      "num": 123384,
+      "word": "丫丫",
+      "onboard_time": 1680136290,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 246239,
       "num": 246239,
       "word": "相思令杨颖宋威龙回眸杀",
@@ -8267,14 +8275,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 123384,
-      "num": 123384,
-      "word": "丫丫",
-      "onboard_time": 1680136290,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 123283,
       "num": 123283,
       "word": "口腔溃疡6种情况需就医",
@@ -9467,20 +9467,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 29872,
+      "num": 29872,
+      "word": "中国说唱巅峰对决",
+      "onboard_time": 1680208031,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 26824,
       "num": 26824,
       "word": "王嘉尔和小宝宝贴贴",
       "onboard_time": 1680121872,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 26433,
-      "num": 26433,
-      "word": "中国说唱巅峰对决",
-      "onboard_time": 1680208031,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 26334,
