@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1680150962418,
+  "endTime": 1680153442505,
   "band_list": [
     {
       "raw_hot": 12970403,
@@ -315,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1668708,
+      "num": 375851,
+      "word": "孙国友治沙公司已被吊销",
+      "onboard_time": 1680151950,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1645144,
       "num": 1161410,
       "word": "刘亦菲胡歌拿错对方奖杯",
@@ -457,6 +465,14 @@
       "onboard_time": 1680011909,
       "rank": 11,
       "category": "网红,情感"
+    },
+    {
+      "raw_hot": 1390413,
+      "num": 1390413,
+      "word": "巴西与中国不再使用美元作为中间货币",
+      "onboard_time": 1680151111,
+      "rank": 1,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 1389900,
@@ -761,6 +777,14 @@
       "onboard_time": 1680095367,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1061516,
+      "num": 1061516,
+      "word": "大力女子姜南顺",
+      "onboard_time": 1680149248,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 1061313,
@@ -1163,14 +1187,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 761701,
-      "num": 761701,
-      "word": "大力女子姜南顺",
-      "onboard_time": 1680149248,
-      "rank": 19,
-      "category": "影视"
-    },
-    {
       "raw_hot": 758059,
       "num": 489154,
       "word": "孙坚晒约唐嫣喝咖啡vlog",
@@ -1209,6 +1225,14 @@
       "onboard_time": 1680145767,
       "rank": 11,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 749197,
+      "num": 749197,
+      "word": "丫丫晒太阳努力干饭等回家",
+      "onboard_time": 1680147807,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 744213,
@@ -1337,14 +1361,6 @@
       "onboard_time": 1680000871,
       "rank": 13,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 697878,
-      "num": 697878,
-      "word": "丫丫晒太阳努力干饭等回家",
-      "onboard_time": 1680147807,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 694405,
@@ -1529,6 +1545,14 @@
       "onboard_time": 1680049167,
       "rank": 20,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 624038,
+      "num": 624038,
+      "word": "千万不要用发卡烫睫毛",
+      "onboard_time": 1680149309,
+      "rank": 32,
+      "category": "社会新闻,美妆"
     },
     {
       "raw_hot": 616867,
@@ -1944,6 +1968,22 @@
       "word": "什么是巧克力囊肿",
       "onboard_time": 1679986886,
       "rank": 8,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 523363,
+      "num": 430954,
+      "word": "朴彩英黑色吊带裙造型",
+      "onboard_time": 1680152430,
+      "rank": 13,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 515350,
+      "num": 515350,
+      "word": "狐妖小红娘剧版vs原版",
+      "onboard_time": 1680151534,
+      "rank": 7,
       "category": "影视"
     },
     {
@@ -2387,6 +2427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 439648,
+      "num": 439648,
+      "word": "浙大学霸情侣获10万冠军奖金",
+      "onboard_time": 1680151950,
+      "rank": 9,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 432204,
       "num": 432204,
       "word": "杨颖宋雨琦奔跑吧路透",
@@ -2401,6 +2449,14 @@
       "onboard_time": 1679887471,
       "rank": 30,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 430134,
+      "num": 430134,
+      "word": "王宝钏看了都得送巧珍两筐野菜",
+      "onboard_time": 1680149010,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 429249,
@@ -2771,14 +2827,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 376286,
-      "num": 376286,
-      "word": "千万不要用发卡烫睫毛",
-      "onboard_time": 1680149309,
-      "rank": 32,
-      "category": "社会新闻,美妆"
-    },
-    {
       "raw_hot": 376281,
       "num": 376281,
       "word": "艺率不知道黑暗荣耀具体剧情",
@@ -2873,14 +2921,6 @@
       "onboard_time": 1679882728,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 367599,
-      "num": 367599,
-      "word": "王宝钏看了都得送巧珍两筐野菜",
-      "onboard_time": 1680149010,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 367030,
@@ -3955,6 +3995,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 258954,
+      "num": 258954,
+      "word": "熊猫生气有多可爱",
+      "onboard_time": 1680150689,
+      "rank": 38,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 258417,
       "num": 258417,
       "word": "大侦探",
@@ -4377,6 +4425,14 @@
       "onboard_time": 1680059785,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 228477,
+      "num": 228477,
+      "word": "高加林变心了",
+      "onboard_time": 1680148226,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 228096,
@@ -4931,14 +4987,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 201131,
-      "num": 201131,
-      "word": "高加林变心了",
-      "onboard_time": 1680148226,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 201030,
       "num": 201030,
       "word": "内娱live现场天花板",
@@ -5203,6 +5251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194406,
+      "num": 194406,
+      "word": "中新网评林场主跪地求水事件",
+      "onboard_time": 1680152311,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194340,
       "num": 194340,
       "word": "XYG战胜RNGM",
@@ -5243,14 +5299,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 192150,
-      "num": 192150,
-      "word": "熊猫生气有多可爱",
-      "onboard_time": 1680150689,
-      "rank": 38,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 192124,
       "num": 192124,
       "word": "文豪野犬第5季制作决定",
@@ -5273,6 +5321,14 @@
       "onboard_time": 1679842169,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 191427,
+      "num": 191427,
+      "word": "何瑞贤明制汉服写真",
+      "onboard_time": 1680153330,
+      "rank": 34,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 191070,
@@ -5552,6 +5608,14 @@
       "word": "乡村入殓师16年为近百位逝者理发",
       "onboard_time": 1679883269,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179279,
+      "num": 179279,
+      "word": "一条plog告别三月",
+      "onboard_time": 1680152612,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -5921,6 +5985,14 @@
       "onboard_time": 1680101190,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 162508,
+      "num": 162508,
+      "word": "一时分不清谁才是妈妈",
+      "onboard_time": 1680152369,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 162410,
@@ -7699,8 +7771,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 47778,
-      "num": 1027350,
+      "raw_hot": 48132,
+      "num": 1195351,
       "word": "开局之年看中国县域新发展",
       "onboard_time": 1680148649,
       "rank": 2,
@@ -7840,6 +7912,9 @@
     },
     {
       "word": "#第十届中国网络视听大会#"
+    },
+    {
+      "word": "#有能力有条件的民营企业要加强自主创新#"
     }
   ]
 }

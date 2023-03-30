@@ -1,6 +1,6 @@
 {
   "startTime": 1680110195849,
-  "endTime": 1680150962418,
+  "endTime": 1680153442505,
   "band_list": [
     {
       "raw_hot": 1923557,
@@ -24,6 +24,14 @@
       "word": "林生斌",
       "onboard_time": 1680135147,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1668708,
+      "num": 375851,
+      "word": "孙国友治沙公司已被吊销",
+      "onboard_time": 1680151950,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -59,12 +67,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1390413,
+      "num": 1390413,
+      "word": "巴西与中国不再使用美元作为中间货币",
+      "onboard_time": 1680151111,
+      "rank": 1,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 1102651,
       "num": 1102651,
       "word": "千万不要侧躺玩手机",
       "onboard_time": 1680087326,
       "rank": 0,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1061516,
+      "num": 1061516,
+      "word": "大力女子姜南顺",
+      "onboard_time": 1680149248,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 1058968,
@@ -123,14 +147,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 761701,
-      "num": 761701,
-      "word": "大力女子姜南顺",
-      "onboard_time": 1680149248,
-      "rank": 19,
-      "category": "影视"
-    },
-    {
       "raw_hot": 755403,
       "num": 452874,
       "word": "张兰希望85岁之前披上婚纱",
@@ -147,6 +163,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 749197,
+      "num": 749197,
+      "word": "丫丫晒太阳努力干饭等回家",
+      "onboard_time": 1680147807,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 743758,
       "num": 743758,
       "word": "朴炯植朴宝英将特别出演新剧",
@@ -161,14 +185,6 @@
       "onboard_time": 1680144986,
       "rank": 20,
       "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 697878,
-      "num": 697878,
-      "word": "丫丫晒太阳努力干饭等回家",
-      "onboard_time": 1680147807,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 694405,
@@ -211,6 +227,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 624038,
+      "num": 624038,
+      "word": "千万不要用发卡烫睫毛",
+      "onboard_time": 1680149309,
+      "rank": 32,
+      "category": "社会新闻,美妆"
+    },
+    {
       "raw_hot": 588556,
       "num": 588556,
       "word": "客服回应张小泉斩骨刀斩不了骨",
@@ -240,6 +264,22 @@
       "word": "杨幂龚俊狐妖小红娘对视海报",
       "onboard_time": 1680146308,
       "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 523363,
+      "num": 430954,
+      "word": "朴彩英黑色吊带裙造型",
+      "onboard_time": 1680152430,
+      "rank": 13,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 515350,
+      "num": 515350,
+      "word": "狐妖小红娘剧版vs原版",
+      "onboard_time": 1680151534,
+      "rank": 7,
       "category": "影视"
     },
     {
@@ -299,6 +339,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 439648,
+      "num": 439648,
+      "word": "浙大学霸情侣获10万冠军奖金",
+      "onboard_time": 1680151950,
+      "rank": 9,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 430134,
+      "num": 430134,
+      "word": "王宝钏看了都得送巧珍两筐野菜",
+      "onboard_time": 1680149010,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 424262,
       "num": 424262,
       "word": "程耳说大家对我亲昵多半是因为王一博",
@@ -329,22 +385,6 @@
       "onboard_time": 1680084387,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 376286,
-      "num": 376286,
-      "word": "千万不要用发卡烫睫毛",
-      "onboard_time": 1680149309,
-      "rank": 32,
-      "category": "社会新闻,美妆"
-    },
-    {
-      "raw_hot": 367599,
-      "num": 367599,
-      "word": "王宝钏看了都得送巧珍两筐野菜",
-      "onboard_time": 1680149010,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 359239,
@@ -475,6 +515,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 258954,
+      "num": 258954,
+      "word": "熊猫生气有多可爱",
+      "onboard_time": 1680150689,
+      "rank": 38,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 255966,
       "num": 255966,
       "word": "眼镜上的白点 干眼症",
@@ -537,6 +585,14 @@
       "onboard_time": 1680137847,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 228477,
+      "num": 228477,
+      "word": "高加林变心了",
+      "onboard_time": 1680148226,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 228096,
@@ -635,14 +691,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 201131,
-      "num": 201131,
-      "word": "高加林变心了",
-      "onboard_time": 1680148226,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 199365,
       "num": 199365,
       "word": "不良人",
@@ -651,12 +699,20 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 192150,
-      "num": 192150,
-      "word": "熊猫生气有多可爱",
-      "onboard_time": 1680150689,
-      "rank": 38,
-      "category": "幽默,情感"
+      "raw_hot": 194406,
+      "num": 194406,
+      "word": "中新网评林场主跪地求水事件",
+      "onboard_time": 1680152311,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191427,
+      "num": 191427,
+      "word": "何瑞贤明制汉服写真",
+      "onboard_time": 1680153330,
+      "rank": 34,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 187255,
@@ -689,6 +745,14 @@
       "onboard_time": 1680144566,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 179279,
+      "num": 179279,
+      "word": "一条plog告别三月",
+      "onboard_time": 1680152612,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 178086,
@@ -769,6 +833,14 @@
       "onboard_time": 1680144446,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 162508,
+      "num": 162508,
+      "word": "一时分不清谁才是妈妈",
+      "onboard_time": 1680152369,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 161865,
@@ -1187,8 +1259,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 47778,
-      "num": 1027350,
+      "raw_hot": 48132,
+      "num": 1195351,
       "word": "开局之年看中国县域新发展",
       "onboard_time": 1680148649,
       "rank": 2,
@@ -1268,6 +1340,9 @@
     },
     {
       "word": "#两翼齐飞看发展#"
+    },
+    {
+      "word": "#有能力有条件的民营企业要加强自主创新#"
     }
   ]
 }
