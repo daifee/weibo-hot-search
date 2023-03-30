@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1680197622418,
+  "endTime": 1680200456939,
   "band_list": [
     {
       "raw_hot": 12970403,
@@ -9281,6 +9281,14 @@
       "onboard_time": 1680117252,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 64097,
+      "num": 55106,
+      "word": "张艺兴看展生图",
+      "onboard_time": 1680197775,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 63585,
