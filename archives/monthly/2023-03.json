@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1680180809666,
+  "endTime": 1680182863344,
   "band_list": [
     {
       "raw_hot": 27113842,
@@ -673,6 +673,14 @@
       "onboard_time": 1678782450,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2898452,
+      "num": 373633,
+      "word": "赵丽颖剪短发了",
+      "onboard_time": 1680180390,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 2887979,
@@ -7035,6 +7043,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1019205,
+      "num": 1019205,
+      "word": "魅族20",
+      "onboard_time": 1678082188,
+      "rank": 31,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1018340,
       "num": 425509,
       "word": "张静初被美国电影学院导演系录取",
@@ -9827,6 +9843,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 825375,
+      "num": 365002,
+      "word": "包贝尔女儿近照",
+      "onboard_time": 1680181410,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 825267,
       "num": 825267,
       "word": "好多演唱会",
@@ -10955,6 +10979,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 765654,
+      "num": 765654,
+      "word": "存多少钱才算有安全感",
+      "onboard_time": 1680178167,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
       "raw_hot": 765581,
       "num": 815757,
       "word": "不方便打电话可给12110发短信报警",
@@ -11841,14 +11873,6 @@
       "onboard_time": 1679040988,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 723799,
-      "num": 723799,
-      "word": "存多少钱才算有安全感",
-      "onboard_time": 1680178167,
-      "rank": 4,
-      "category": "情感"
     },
     {
       "raw_hot": 723768,
@@ -13835,14 +13859,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 644926,
-      "num": 368351,
-      "word": "赵丽颖剪短发了",
-      "onboard_time": 1680180390,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 644787,
       "num": 644787,
       "word": "秒回是很喜欢一个人的表现吗",
@@ -14513,6 +14529,14 @@
       "onboard_time": 1679025509,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 623580,
+      "num": 623580,
+      "word": "怪异君",
+      "onboard_time": 1680182011,
+      "rank": 5,
+      "category": "网红"
     },
     {
       "raw_hot": 623376,
@@ -15593,6 +15617,14 @@
       "onboard_time": 1678268369,
       "rank": 13,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 589083,
+      "num": 589083,
+      "word": "陈幸同 王艺迪",
+      "onboard_time": 1680179847,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 589031,
@@ -16945,14 +16977,6 @@
       "onboard_time": 1677758970,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 552418,
-      "num": 552418,
-      "word": "陈幸同 王艺迪",
-      "onboard_time": 1680179847,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 552158,
@@ -19331,6 +19355,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 492929,
+      "num": 492929,
+      "word": "张杰天天想你获奖",
+      "onboard_time": 1680182370,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 492851,
       "num": 492851,
       "word": "张颖颖主演新剧海报",
@@ -21204,7 +21236,7 @@
     },
     {
       "raw_hot": 454575,
-      "num": 234022,
+      "num": 294945,
       "word": "男子生前借亲戚534万去世后被赖账",
       "onboard_time": 1680176966,
       "rank": 22,
@@ -26259,6 +26291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 360492,
+      "num": 360492,
+      "word": "那我长大了还管谁叫爷爷",
+      "onboard_time": 1680180447,
+      "rank": 14,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 360479,
       "num": 360479,
       "word": "64岁男子为打工谎报年龄办假证被抓",
@@ -26489,6 +26529,14 @@
       "onboard_time": 1678127173,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 357038,
+      "num": 357038,
+      "word": "谢娜问粉丝我生图很厉害吧",
+      "onboard_time": 1680182068,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 357002,
@@ -27699,6 +27747,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 340965,
+      "num": 340965,
+      "word": "林高远比赛",
+      "onboard_time": 1680181109,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 340751,
       "num": 340751,
       "word": "代表建议延长春节法定假期",
@@ -28817,14 +28873,6 @@
       "onboard_time": 1679905293,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 324162,
-      "num": 203166,
-      "word": "魅族20",
-      "onboard_time": 1678082188,
-      "rank": 31,
-      "category": "科技"
     },
     {
       "raw_hot": 323776,
@@ -39731,6 +39779,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 210746,
+      "num": 210746,
+      "word": "导演李玉刚首部电影开机",
+      "onboard_time": 1680182068,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 210713,
       "num": 210713,
       "word": "洛音凡被重紫杀死",
@@ -40987,6 +41043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 204832,
+      "num": 204832,
+      "word": "RNG晋级下一轮",
+      "onboard_time": 1680181468,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 204816,
       "num": 204816,
       "word": "TXT演唱会",
@@ -42073,6 +42137,14 @@
       "onboard_time": 1680049288,
       "rank": 28,
       "category": "科技"
+    },
+    {
+      "raw_hot": 200788,
+      "num": 200788,
+      "word": "陈幸同女单夺冠",
+      "onboard_time": 1680182190,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 200755,
@@ -43584,6 +43656,14 @@
       "word": "他叫王德发",
       "onboard_time": 1679188707,
       "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 195172,
+      "num": 195172,
+      "word": "彭小苒47秒念台词",
+      "onboard_time": 1680181468,
+      "rank": 34,
       "category": "影视"
     },
     {
@@ -46435,6 +46515,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 181524,
+      "num": 181524,
+      "word": "羽生结弦冰演",
+      "onboard_time": 1678495706,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 181509,
       "num": 181509,
       "word": "加索尔球衣退役仪式",
@@ -47537,6 +47625,14 @@
       "onboard_time": 1678791389,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 173758,
+      "num": 173758,
+      "word": "招惹",
+      "onboard_time": 1680180567,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 173752,
@@ -50979,6 +51075,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 150972,
+      "num": 151465,
+      "word": "是谁在上班倒贴钱",
+      "onboard_time": 1680177568,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 150864,
       "num": 147253,
       "word": "肖战片场摸狗",
@@ -51883,14 +51987,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 145684,
-      "num": 151465,
-      "word": "是谁在上班倒贴钱",
-      "onboard_time": 1680177568,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 145636,
       "num": 145636,
       "word": "狼队对战KSG",
@@ -52193,14 +52289,6 @@
       "onboard_time": 1678145361,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 143673,
-      "num": 143673,
-      "word": "羽生结弦冰演",
-      "onboard_time": 1678495706,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 143490,
@@ -52859,6 +52947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139382,
+      "num": 139382,
+      "word": "归路大结局预告",
+      "onboard_time": 1680181589,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 139189,
       "num": 139189,
       "word": "许凯娜扎新剧下证",
@@ -53184,14 +53280,6 @@
       "word": "奥本海默时长约三个小时",
       "onboard_time": 1679723250,
       "rank": 38,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 137492,
-      "num": 137492,
-      "word": "招惹",
-      "onboard_time": 1680180567,
-      "rank": 42,
       "category": "影视"
     },
     {
@@ -54977,6 +55065,14 @@
       "onboard_time": 1679554287,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 126515,
+      "num": 126515,
+      "word": "全球男性精子量告急",
+      "onboard_time": 1680182550,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 126393,
@@ -57745,6 +57841,14 @@
       "onboard_time": 1680142946,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105957,
+      "num": 105957,
+      "word": "猫夺走了新郎的风头",
+      "onboard_time": 1680182729,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 105661,

@@ -1,7 +1,15 @@
 {
   "startTime": 1680110195849,
-  "endTime": 1680180809666,
+  "endTime": 1680182863344,
   "band_list": [
+    {
+      "raw_hot": 2898452,
+      "num": 373633,
+      "word": "赵丽颖剪短发了",
+      "onboard_time": 1680180390,
+      "rank": 12,
+      "category": "艺人"
+    },
     {
       "raw_hot": 2662463,
       "num": 2662463,
@@ -195,6 +203,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 1019205,
+      "num": 1019205,
+      "word": "魅族20",
+      "onboard_time": 1680180689,
+      "rank": 30,
+      "category": "科技"
+    },
+    {
       "raw_hot": 956644,
       "num": 527305,
       "word": "IU中短发造型",
@@ -259,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 825375,
+      "num": 365002,
+      "word": "包贝尔女儿近照",
+      "onboard_time": 1680181410,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 819467,
       "num": 772592,
       "word": "以色列",
@@ -289,6 +313,14 @@
       "onboard_time": 1680159445,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 765654,
+      "num": 765654,
+      "word": "存多少钱才算有安全感",
+      "onboard_time": 1680178167,
+      "rank": 4,
+      "category": "情感"
     },
     {
       "raw_hot": 755403,
@@ -339,14 +371,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 723799,
-      "num": 723799,
-      "word": "存多少钱才算有安全感",
-      "onboard_time": 1680178167,
-      "rank": 4,
-      "category": "情感"
-    },
-    {
       "raw_hot": 705434,
       "num": 705434,
       "word": "张译录制清华大学问候视频",
@@ -395,14 +419,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 644926,
-      "num": 368351,
-      "word": "赵丽颖剪短发了",
-      "onboard_time": 1680180390,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 642953,
       "num": 642953,
       "word": "狐妖小红娘",
@@ -435,12 +451,28 @@
       "category": "社会新闻,美妆"
     },
     {
+      "raw_hot": 623580,
+      "num": 623580,
+      "word": "怪异君",
+      "onboard_time": 1680182011,
+      "rank": 5,
+      "category": "网红"
+    },
+    {
       "raw_hot": 611146,
       "num": 611146,
       "word": "白鹿王鹤棣以爱为营下班视频",
       "onboard_time": 1680158426,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 589083,
+      "num": 589083,
+      "word": "陈幸同 王艺迪",
+      "onboard_time": 1680179847,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 588556,
@@ -481,14 +513,6 @@
       "onboard_time": 1680165507,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 552418,
-      "num": 552418,
-      "word": "陈幸同 王艺迪",
-      "onboard_time": 1680179847,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 546377,
@@ -579,6 +603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 492929,
+      "num": 492929,
+      "word": "张杰天天想你获奖",
+      "onboard_time": 1680182370,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 483900,
       "num": 483900,
       "word": "这个姿势玩手机伤害小",
@@ -652,7 +684,7 @@
     },
     {
       "raw_hot": 454575,
-      "num": 234022,
+      "num": 294945,
       "word": "男子生前借亲戚534万去世后被赖账",
       "onboard_time": 1680176966,
       "rank": 22,
@@ -819,12 +851,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 360492,
+      "num": 360492,
+      "word": "那我长大了还管谁叫爷爷",
+      "onboard_time": 1680180447,
+      "rank": 14,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 359239,
       "num": 359239,
       "word": "威少",
       "onboard_time": 1680139346,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 357038,
+      "num": 357038,
+      "word": "谢娜问粉丝我生图很厉害吧",
+      "onboard_time": 1680182068,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 350365,
@@ -849,6 +897,14 @@
       "onboard_time": 1680171207,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 340965,
+      "num": 340965,
+      "word": "林高远比赛",
+      "onboard_time": 1680181109,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 336824,
@@ -889,14 +945,6 @@
       "onboard_time": 1680160046,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 324162,
-      "num": 203166,
-      "word": "魅族20",
-      "onboard_time": 1680180689,
-      "rank": 30,
-      "category": "科技"
     },
     {
       "raw_hot": 321663,
@@ -1267,6 +1315,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 210746,
+      "num": 210746,
+      "word": "导演李玉刚首部电影开机",
+      "onboard_time": 1680182068,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 210454,
       "num": 210454,
       "word": "金洋",
@@ -1331,6 +1387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 204832,
+      "num": 204832,
+      "word": "RNG晋级下一轮",
+      "onboard_time": 1680181468,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 204429,
       "num": 204429,
       "word": "青岛凤凰音乐节",
@@ -1379,6 +1443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 200788,
+      "num": 200788,
+      "word": "陈幸同女单夺冠",
+      "onboard_time": 1680182190,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 200755,
       "num": 200755,
       "word": "宋亚轩黄色短袖车内视频",
@@ -1409,6 +1481,14 @@
       "onboard_time": 1680159688,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 195172,
+      "num": 195172,
+      "word": "彭小苒47秒念台词",
+      "onboard_time": 1680181468,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 194406,
@@ -1547,6 +1627,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 181524,
+      "num": 181524,
+      "word": "羽生结弦冰演",
+      "onboard_time": 1680180809,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 179279,
       "num": 179279,
       "word": "一条plog告别三月",
@@ -1592,6 +1680,14 @@
       "word": "爱情而已成年人的爱情",
       "onboard_time": 1680176489,
       "rank": 37,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 173758,
+      "num": 173758,
+      "word": "招惹",
+      "onboard_time": 1680180567,
+      "rank": 42,
       "category": "影视"
     },
     {
@@ -1755,6 +1851,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 150972,
+      "num": 151465,
+      "word": "是谁在上班倒贴钱",
+      "onboard_time": 1680177568,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 149659,
       "num": 149659,
       "word": "谭松韵说今天是最美的归晓",
@@ -1801,14 +1905,6 @@
       "onboard_time": 1680159328,
       "rank": 33,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 145684,
-      "num": 151465,
-      "word": "是谁在上班倒贴钱",
-      "onboard_time": 1680177568,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 142478,
@@ -1867,20 +1963,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 139382,
+      "num": 139382,
+      "word": "归路大结局预告",
+      "onboard_time": 1680181589,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 137884,
       "num": 137884,
       "word": "这猫怎么穿高跟鞋了",
       "onboard_time": 1680174029,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 137492,
-      "num": 137492,
-      "word": "招惹",
-      "onboard_time": 1680180567,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 134950,
@@ -1977,6 +2073,14 @@
       "onboard_time": 1680104545,
       "rank": 15,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 126515,
+      "num": 126515,
+      "word": "全球男性精子量告急",
+      "onboard_time": 1680182550,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 126479,
@@ -2169,6 +2273,14 @@
       "onboard_time": 1680142946,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105957,
+      "num": 105957,
+      "word": "猫夺走了新郎的风头",
+      "onboard_time": 1680182729,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 105709,

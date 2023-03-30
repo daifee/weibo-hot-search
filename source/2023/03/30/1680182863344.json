@@ -1,0 +1,410 @@
+{
+  "runTime": 1680182863344,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1294012,
+        "num": 1294012,
+        "word": "吴磊吻戏从脸红到耳朵",
+        "onboard_time": 1680175947,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1019205,
+        "num": 1019205,
+        "word": "魅族20",
+        "onboard_time": 1680180689,
+        "rank": 1,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 49254,
+        "num": 948538,
+        "word": "春日里的中国处处都是绝美的浪漫",
+        "onboard_time": 1680165929,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 943711,
+        "num": 943711,
+        "word": "海南启动全岛封关运作准备",
+        "onboard_time": 1680170189,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 765654,
+        "num": 765654,
+        "word": "存多少钱才算有安全感",
+        "onboard_time": 1680178167,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 623580,
+        "num": 623580,
+        "word": "怪异君",
+        "onboard_time": 1680182011,
+        "rank": 5,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 589083,
+        "num": 589083,
+        "word": "陈幸同 王艺迪",
+        "onboard_time": 1680179847,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 494167,
+        "num": 494167,
+        "word": "金洋道歉",
+        "onboard_time": 1680178346,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 492929,
+        "num": 492929,
+        "word": "张杰天天想你获奖",
+        "onboard_time": 1680182370,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 375440,
+        "num": 375440,
+        "word": "为什么癌症一发现就是晚期",
+        "onboard_time": 1680160467,
+        "rank": 9,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 2898452,
+        "num": 373633,
+        "word": "赵丽颖剪短发了",
+        "onboard_time": 1680180390,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 935270,
+        "num": 369537,
+        "word": "网红自称确诊肝癌内容纯属虚构",
+        "onboard_time": 1680172708,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 825375,
+        "num": 365002,
+        "word": "包贝尔女儿近照",
+        "onboard_time": 1680181410,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 523407,
+        "num": 361730,
+        "word": "袁冰妍",
+        "onboard_time": 1680169347,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 360492,
+        "num": 360492,
+        "word": "那我长大了还管谁叫爷爷",
+        "onboard_time": 1680180447,
+        "rank": 14,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 535381,
+        "num": 359064,
+        "word": "江西20岁女大学生确认自杀",
+        "onboard_time": 1680164007,
+        "rank": 15,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 357038,
+        "num": 357038,
+        "word": "谢娜问粉丝我生图很厉害吧",
+        "onboard_time": 1680182068,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 340965,
+        "num": 340965,
+        "word": "林高远比赛",
+        "onboard_time": 1680181109,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 337883,
+        "num": 337883,
+        "word": "马嘉祺两首歌都入选最佳金曲",
+        "onboard_time": 1680179668,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 303022,
+        "num": 303022,
+        "word": "肖战张艺兴王源陈伟霆MV视频",
+        "onboard_time": 1680164548,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 609805,
+        "num": 299283,
+        "word": "印度男子把刚分娩6个月的妻子打死",
+        "onboard_time": 1680165749,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 405515,
+        "num": 296422,
+        "word": "斗鱼官方推送软色情表演",
+        "onboard_time": 1680172467,
+        "rank": 21,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 381467,
+        "num": 294945,
+        "word": "男子生前借亲戚534万去世后被赖账",
+        "onboard_time": 1680176966,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286139,
+        "num": 286139,
+        "word": "李小冉红毯生图",
+        "onboard_time": 1680177268,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 276065,
+        "num": 276065,
+        "word": "杨幂说现在对谈恋爱没兴趣",
+        "onboard_time": 1680164486,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 270021,
+        "num": 270021,
+        "word": "养鸟已经满足不了三太子了",
+        "onboard_time": 1680165507,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257342,
+        "num": 257342,
+        "word": "上海月薪一万算高吗",
+        "onboard_time": 1680169589,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 225460,
+        "num": 225460,
+        "word": "RNG TT",
+        "onboard_time": 1680171087,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 218036,
+        "num": 218036,
+        "word": "声生不息",
+        "onboard_time": 1680177387,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210746,
+        "num": 210746,
+        "word": "导演李玉刚首部电影开机",
+        "onboard_time": 1680182068,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 208935,
+        "num": 208935,
+        "word": "宋茜白宇 保你平安前传",
+        "onboard_time": 1680175048,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 208498,
+        "num": 208498,
+        "word": "女生穿10公分高跟鞋爬泰山",
+        "onboard_time": 1680168867,
+        "rank": 31,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 204832,
+        "num": 204832,
+        "word": "RNG晋级下一轮",
+        "onboard_time": 1680181468,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 200788,
+        "num": 200788,
+        "word": "陈幸同女单夺冠",
+        "onboard_time": 1680182190,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195172,
+        "num": 195172,
+        "word": "彭小苒47秒念台词",
+        "onboard_time": 1680181468,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189416,
+        "num": 189416,
+        "word": "周雨彤郑希怡对手戏",
+        "onboard_time": 1680180147,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 181524,
+        "num": 181524,
+        "word": "羽生结弦冰演",
+        "onboard_time": 1680180809,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179063,
+        "num": 179063,
+        "word": "李沁村花妆是刻板印象吗",
+        "onboard_time": 1680171207,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 173758,
+        "num": 173758,
+        "word": "招惹",
+        "onboard_time": 1680180567,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 168702,
+        "num": 168702,
+        "word": "爱情而已3分钟",
+        "onboard_time": 1680168267,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 160677,
+        "num": 160677,
+        "word": "大熊猫萌兰反向投喂饲养员",
+        "onboard_time": 1680170249,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150972,
+        "num": 150972,
+        "word": "是谁在上班倒贴钱",
+        "onboard_time": 1680177568,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149244,
+        "num": 149244,
+        "word": "蔡徐坤看展生图",
+        "onboard_time": 1680179369,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147589,
+        "num": 147589,
+        "word": "金泰妍丸子头造型",
+        "onboard_time": 1680180689,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 139382,
+        "num": 139382,
+        "word": "归路大结局预告",
+        "onboard_time": 1680181589,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 135228,
+        "num": 135228,
+        "word": "开放世界乙女游戏",
+        "onboard_time": 1680173008,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 134208,
+        "num": 134208,
+        "word": "宋亚轩黄色短袖车内视频",
+        "onboard_time": 1680179728,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126515,
+        "num": 126515,
+        "word": "全球男性精子量告急",
+        "onboard_time": 1680182550,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106171,
+        "num": 106171,
+        "word": "爱情而已成年人的爱情",
+        "onboard_time": 1680176489,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 105957,
+        "num": 105957,
+        "word": "猫夺走了新郎的风头",
+        "onboard_time": 1680182729,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#高质量共建一带一路#"
+    }
+  }
+}
