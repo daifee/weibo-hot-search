@@ -1,7 +1,15 @@
 {
   "startTime": 1680110195849,
-  "endTime": 1680147219071,
+  "endTime": 1680150096201,
   "band_list": [
+    {
+      "raw_hot": 1923557,
+      "num": 1923557,
+      "word": "庆余年2将回归的角色",
+      "onboard_time": 1680147987,
+      "rank": 0,
+      "category": "影视"
+    },
     {
       "raw_hot": 1794447,
       "num": 1105903,
@@ -12,7 +20,7 @@
     },
     {
       "raw_hot": 1670927,
-      "num": 500992,
+      "num": 509510,
       "word": "林生斌",
       "onboard_time": 1680135147,
       "rank": 10,
@@ -65,6 +73,14 @@
       "onboard_time": 1680138207,
       "rank": 28,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 944971,
+      "num": 513127,
+      "word": "IU中短发造型",
+      "onboard_time": 1680148770,
+      "rank": 11,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 939270,
@@ -124,7 +140,7 @@
     },
     {
       "raw_hot": 704501,
-      "num": 314559,
+      "num": 351890,
       "word": "女生爬完泰山发现裤子变成偏大码",
       "onboard_time": 1680144986,
       "rank": 20,
@@ -163,6 +179,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 605044,
+      "num": 348556,
+      "word": "被男朋友拍成了丧尸",
+      "onboard_time": 1680146248,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 588556,
       "num": 588556,
       "word": "客服回应张小泉斩骨刀斩不了骨",
@@ -179,12 +203,36 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 512591,
-      "num": 512591,
+      "raw_hot": 541362,
+      "num": 541362,
       "word": "杨幂龚俊狐妖小红娘对视海报",
       "onboard_time": 1680146308,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 535057,
+      "num": 535057,
+      "word": "丫丫晒太阳努力干饭等回家",
+      "onboard_time": 1680147807,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 518098,
+      "num": 518098,
+      "word": "秦岚保剑锋时隔十一年再合作",
+      "onboard_time": 1680150029,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 515318,
+      "num": 515318,
+      "word": "王源巡回演唱会官宣海报",
+      "onboard_time": 1680147927,
+      "rank": 9,
+      "category": "音乐"
     },
     {
       "raw_hot": 507191,
@@ -227,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 440824,
+      "num": 440824,
+      "word": "曹德旺说把资源还给社会也是一种负责",
+      "onboard_time": 1680147327,
+      "rank": 16,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 424262,
       "num": 424262,
       "word": "程耳说大家对我亲昵多半是因为王一博",
@@ -257,6 +313,14 @@
       "onboard_time": 1680084387,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 364290,
+      "num": 364290,
+      "word": "大力女子姜南顺",
+      "onboard_time": 1680149248,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 359239,
@@ -323,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 292145,
+      "num": 292145,
+      "word": "文君成",
+      "onboard_time": 1680145407,
+      "rank": 26,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 291862,
       "num": 291862,
       "word": "路人看见张译的表情",
@@ -339,14 +411,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 286531,
-      "num": 286531,
-      "word": "文君成",
-      "onboard_time": 1680145407,
-      "rank": 26,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 277343,
       "num": 277343,
       "word": "孙国友女儿称事情没有解决",
@@ -361,6 +425,22 @@
       "onboard_time": 1680124030,
       "rank": 35,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 259142,
+      "num": 259142,
+      "word": "灵梦",
+      "onboard_time": 1680148587,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 257572,
+      "num": 257572,
+      "word": "首批国产商用卫星上架淘宝",
+      "onboard_time": 1680146847,
+      "rank": 35,
+      "category": "科技"
     },
     {
       "raw_hot": 255966,
@@ -403,6 +483,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 235673,
+      "num": 235673,
+      "word": "铁路客服回应工人带电钻上火车被拦",
+      "onboard_time": 1680144446,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 232153,
       "num": 232153,
       "word": "张兰称爱情是女人一生中最重要的事",
@@ -417,6 +505,14 @@
       "onboard_time": 1680137847,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 228476,
+      "num": 228476,
+      "word": "王宝钏看了都得送巧珍两筐野菜",
+      "onboard_time": 1680149010,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 228096,
@@ -451,12 +547,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 224446,
-      "num": 224446,
-      "word": "铁路客服回应工人带电钻上火车被拦",
-      "onboard_time": 1680144446,
+      "raw_hot": 224159,
+      "num": 224159,
+      "word": "千万不要用发卡烫睫毛",
+      "onboard_time": 1680149309,
       "rank": 32,
-      "category": "社会新闻"
+      "category": "社会新闻,美妆"
     },
     {
       "raw_hot": 223928,
@@ -468,19 +564,19 @@
     },
     {
       "raw_hot": 220371,
-      "num": 220371,
+      "num": 484259,
       "word": "奶茶螺蛳粉是什么梗",
       "onboard_time": 1680144326,
       "rank": 26,
       "category": "美食,幽默"
     },
     {
-      "raw_hot": 219753,
-      "num": 219753,
-      "word": "被男朋友拍成了丧尸",
-      "onboard_time": 1680146248,
-      "rank": 47,
-      "category": "幽默"
+      "raw_hot": 217838,
+      "num": 217838,
+      "word": "时代少年团海口演唱会义工招募",
+      "onboard_time": 1680149248,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 208920,
@@ -499,6 +595,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 204429,
+      "num": 204429,
+      "word": "青岛凤凰音乐节",
+      "onboard_time": 1680149848,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 204136,
       "num": 204136,
       "word": "沙溢他超爱",
@@ -513,6 +617,14 @@
       "onboard_time": 1680145107,
       "rank": 33,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 193597,
+      "num": 193597,
+      "word": "高加林变心了",
+      "onboard_time": 1680148226,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 187255,
@@ -545,6 +657,14 @@
       "onboard_time": 1680144566,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 178086,
+      "num": 178086,
+      "word": "德塔文认证孟子义新剧Q1古装黑马",
+      "onboard_time": 1680148950,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 178062,
@@ -643,6 +763,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 157190,
+      "num": 157190,
+      "word": "宋三川表白被拒",
+      "onboard_time": 1680149128,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 155193,
       "num": 155193,
       "word": "WBG教练",
@@ -659,12 +787,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 145877,
-      "num": 145877,
-      "word": "首批国产商用卫星上架淘宝",
-      "onboard_time": 1680146847,
-      "rank": 35,
-      "category": "科技"
+      "raw_hot": 148482,
+      "num": 148482,
+      "word": "电摇",
+      "onboard_time": 1680147026,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 141873,
@@ -697,6 +825,14 @@
       "onboard_time": 1680089787,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 133397,
+      "num": 133397,
+      "word": "荒漠应不应该植树造林",
+      "onboard_time": 1680147387,
+      "rank": 49,
+      "category": "社会新闻,自然"
     },
     {
       "raw_hot": 130710,
@@ -793,14 +929,6 @@
       "onboard_time": 1680091888,
       "rank": 21,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 117313,
-      "num": 117313,
-      "word": "电摇",
-      "onboard_time": 1680147026,
-      "rank": 43,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 113049,
@@ -1049,6 +1177,14 @@
       "onboard_time": 1680108319,
       "rank": 47,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 35071,
+      "num": 1027350,
+      "word": "开局之年看中国县域新发展",
+      "onboard_time": 1680148649,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 33797,

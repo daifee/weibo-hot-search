@@ -1,0 +1,410 @@
+{
+  "runTime": 1680150096201,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1923557,
+        "num": 1923557,
+        "word": "庆余年2将回归的角色",
+        "onboard_time": 1680147987,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1355043,
+        "num": 1355043,
+        "word": "追星号被男朋友看到",
+        "onboard_time": 1680144446,
+        "rank": 1,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 35071,
+        "num": 1027350,
+        "word": "开局之年看中国县域新发展",
+        "onboard_time": 1680148649,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 784357,
+        "num": 784357,
+        "word": "库克现身米哈游总部",
+        "onboard_time": 1680144866,
+        "rank": 3,
+        "category": "游戏,科技"
+      },
+      {
+        "raw_hot": 636655,
+        "num": 636655,
+        "word": "张兰称汪小菲超越她了",
+        "onboard_time": 1680145767,
+        "rank": 4,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 629288,
+        "num": 629288,
+        "word": "丫丫的状态越来越好了",
+        "onboard_time": 1680134907,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 541362,
+        "num": 541362,
+        "word": "杨幂龚俊狐妖小红娘对视海报",
+        "onboard_time": 1680146308,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 535057,
+        "num": 535057,
+        "word": "丫丫晒太阳努力干饭等回家",
+        "onboard_time": 1680147807,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 518098,
+        "num": 518098,
+        "word": "秦岚保剑锋时隔十一年再合作",
+        "onboard_time": 1680150029,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 515318,
+        "num": 515318,
+        "word": "王源巡回演唱会官宣海报",
+        "onboard_time": 1680147927,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1096373,
+        "num": 514563,
+        "word": "学校回应网传女生校企实习被领导性侵",
+        "onboard_time": 1680142645,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 944971,
+        "num": 513127,
+        "word": "IU中短发造型",
+        "onboard_time": 1680148770,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 940535,
+        "num": 509510,
+        "word": "林生斌",
+        "onboard_time": 1680135147,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 499016,
+        "num": 499016,
+        "word": "千万不要带婴儿车去重庆旅游",
+        "onboard_time": 1680138207,
+        "rank": 13,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 110182,
+        "num": 484259,
+        "word": "奶茶螺蛳粉是什么梗",
+        "onboard_time": 1680148830,
+        "rank": 14,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 484051,
+        "num": 484051,
+        "word": "西安被坠楼者砸中男童不治身亡",
+        "onboard_time": 1680099867,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 440824,
+        "num": 440824,
+        "word": "曹德旺说把资源还给社会也是一种负责",
+        "onboard_time": 1680147327,
+        "rank": 16,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 424548,
+        "num": 424548,
+        "word": "大半个姐圈都在湖南",
+        "onboard_time": 1680134726,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 367886,
+        "num": 367886,
+        "word": "程耳说大家对我亲昵多半是因为王一博",
+        "onboard_time": 1680145466,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 364290,
+        "num": 364290,
+        "word": "大力女子姜南顺",
+        "onboard_time": 1680149248,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 663313,
+        "num": 351890,
+        "word": "女生爬完泰山发现裤子变成偏大码",
+        "onboard_time": 1680144986,
+        "rank": 20,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 605044,
+        "num": 348556,
+        "word": "被男朋友拍成了丧尸",
+        "onboard_time": 1680146248,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 329322,
+        "num": 329322,
+        "word": "央广网评万亩治沙林被煤矿断水",
+        "onboard_time": 1680103048,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308412,
+        "num": 308412,
+        "word": "以前的村花vs现在的村花",
+        "onboard_time": 1680133884,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 302957,
+        "num": 302957,
+        "word": "狐妖小红娘",
+        "onboard_time": 1680145046,
+        "rank": 24,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 292145,
+        "num": 292145,
+        "word": "文君成",
+        "onboard_time": 1680145407,
+        "rank": 25,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 259142,
+        "num": 259142,
+        "word": "灵梦",
+        "onboard_time": 1680148587,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 257572,
+        "num": 257572,
+        "word": "首批国产商用卫星上架淘宝",
+        "onboard_time": 1680146847,
+        "rank": 27,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 244085,
+        "num": 244085,
+        "word": "张大大辅导嗯哼做作业",
+        "onboard_time": 1680136828,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 235673,
+        "num": 235673,
+        "word": "铁路客服回应工人带电钻上火车被拦",
+        "onboard_time": 1680144446,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230509,
+        "num": 230509,
+        "word": "威少36分10助攻",
+        "onboard_time": 1680144747,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 228476,
+        "num": 228476,
+        "word": "王宝钏看了都得送巧珍两筐野菜",
+        "onboard_time": 1680149010,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 224159,
+        "num": 224159,
+        "word": "千万不要用发卡烫睫毛",
+        "onboard_time": 1680149309,
+        "rank": 32,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 219297,
+        "num": 219297,
+        "word": "EXOCallMeBaby发行8周年",
+        "onboard_time": 1680145889,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 217838,
+        "num": 217838,
+        "word": "时代少年团海口演唱会义工招募",
+        "onboard_time": 1680149248,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 214820,
+        "num": 214820,
+        "word": "朴炯植朴宝英将特别出演新剧",
+        "onboard_time": 1680141746,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204429,
+        "num": 204429,
+        "word": "青岛凤凰音乐节",
+        "onboard_time": 1680149848,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 193597,
+        "num": 193597,
+        "word": "高加林变心了",
+        "onboard_time": 1680148226,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 178086,
+        "num": 178086,
+        "word": "德塔文认证孟子义新剧Q1古装黑马",
+        "onboard_time": 1680148950,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 169662,
+        "num": 169662,
+        "word": "小学生盘手串",
+        "onboard_time": 1680142584,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164041,
+        "num": 164041,
+        "word": "不良人",
+        "onboard_time": 1680145107,
+        "rank": 40,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 162175,
+        "num": 162175,
+        "word": "福建某公司副经理林生斌被查",
+        "onboard_time": 1680136648,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161137,
+        "num": 161137,
+        "word": "客服回应张小泉斩骨刀斩不了骨",
+        "onboard_time": 1680137847,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160759,
+        "num": 160759,
+        "word": "这个姿势玩手机伤害小",
+        "onboard_time": 1680140065,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157190,
+        "num": 157190,
+        "word": "宋三川表白被拒",
+        "onboard_time": 1680149128,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 148482,
+        "num": 148482,
+        "word": "电摇",
+        "onboard_time": 1680147026,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 144627,
+        "num": 144627,
+        "word": "吴磊赵今麦吻戏路透视频",
+        "onboard_time": 1680135510,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 143870,
+        "num": 143870,
+        "word": "雪豹照镜子被自己颜值惊呆了",
+        "onboard_time": 1680136169,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143353,
+        "num": 143353,
+        "word": "张兰希望85岁之前披上婚纱",
+        "onboard_time": 1680137611,
+        "rank": 48,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 133397,
+        "num": 133397,
+        "word": "荒漠应不应该植树造林",
+        "onboard_time": 1680147387,
+        "rank": 49,
+        "category": "社会新闻,自然"
+      }
+    ],
+    "hotgov": {
+      "word": "#第十届中国网络视听大会#"
+    }
+  }
+}
