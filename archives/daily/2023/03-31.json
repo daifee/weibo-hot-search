@@ -1,6 +1,6 @@
 {
   "startTime": 1680193469065,
-  "endTime": 1680208413852,
+  "endTime": 1680210879136,
   "band_list": [
     {
       "raw_hot": 2107691,
@@ -435,6 +435,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 43945,
+      "num": 25788,
+      "word": "丫丫",
+      "onboard_time": 1680209771,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42059,
       "num": 718877,
       "word": "这里的春景每一帧都是画报",
@@ -467,8 +475,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 14426,
-      "num": 14426,
+      "raw_hot": 26124,
+      "num": 26124,
       "word": "中国说唱巅峰对决",
       "onboard_time": 1680208031,
       "rank": 39,
