@@ -1,6 +1,6 @@
 {
   "startTime": 1680110195849,
-  "endTime": 1680141090365,
+  "endTime": 1680143848787,
   "band_list": [
     {
       "raw_hot": 1794447,
@@ -43,6 +43,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1058968,
+      "num": 1058968,
+      "word": "千万不要带婴儿车去重庆旅游",
+      "onboard_time": 1680138207,
+      "rank": 28,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 939270,
       "num": 522780,
       "word": "张大大问关晓彤到底听到了什么",
@@ -75,6 +83,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 743758,
+      "num": 743758,
+      "word": "朴炯植朴宝英将特别出演新剧",
+      "onboard_time": 1680141746,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 694405,
       "num": 694405,
       "word": "大半个姐圈都在湖南",
@@ -99,14 +115,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 594850,
-      "num": 594850,
-      "word": "千万不要带婴儿车去重庆旅游",
-      "onboard_time": 1680138207,
-      "rank": 28,
-      "category": "社会新闻,幽默"
-    },
-    {
       "raw_hot": 588556,
       "num": 588556,
       "word": "客服回应张小泉斩骨刀斩不了骨",
@@ -129,6 +137,22 @@
       "onboard_time": 1680135510,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 483900,
+      "num": 483900,
+      "word": "这个姿势玩手机伤害小",
+      "onboard_time": 1680140065,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 448649,
+      "num": 448649,
+      "word": "学校回应网传女生校企实习被领导性侵",
+      "onboard_time": 1680142645,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 443242,
@@ -161,6 +185,14 @@
       "onboard_time": 1680084387,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 350365,
+      "num": 350365,
+      "word": "乙类乙管后的第一个国际医师节",
+      "onboard_time": 1680140065,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 334394,
@@ -203,6 +235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 293002,
+      "num": 293002,
+      "word": "小学生盘手串",
+      "onboard_time": 1680142584,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 291862,
       "num": 291862,
       "word": "路人看见张译的表情",
@@ -227,20 +267,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 263238,
-      "num": 263238,
+      "raw_hot": 271059,
+      "num": 271059,
       "word": "威少",
       "onboard_time": 1680139346,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 263190,
-      "num": 263190,
-      "word": "这个姿势玩手机伤害小",
-      "onboard_time": 1680140065,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 259172,
@@ -273,6 +305,22 @@
       "onboard_time": 1680136709,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 240918,
+      "num": 240918,
+      "word": "嘘嘘旭MV导演是陆虎",
+      "onboard_time": 1680143786,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 232153,
+      "num": 232153,
+      "word": "张兰称爱情是女人一生中最重要的事",
+      "onboard_time": 1680140545,
+      "rank": 28,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 229974,
@@ -315,14 +363,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 213260,
-      "num": 213260,
-      "word": "张兰称爱情是女人一生中最重要的事",
-      "onboard_time": 1680140545,
-      "rank": 28,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 208920,
       "num": 208920,
       "word": "吴磊也需要别人演他小时候了",
@@ -345,6 +385,14 @@
       "onboard_time": 1680132922,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 195350,
+      "num": 195350,
+      "word": "谭松韵归晓从校服到婚纱视频",
+      "onboard_time": 1680142766,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 187255,
@@ -379,12 +427,20 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 172352,
-      "num": 172352,
-      "word": "乙类乙管后的第一个国际医师节",
-      "onboard_time": 1680140065,
-      "rank": 31,
-      "category": "社会新闻"
+      "raw_hot": 172466,
+      "num": 172466,
+      "word": "伊能静说喜欢自己的55岁",
+      "onboard_time": 1680142463,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 169452,
+      "num": 169452,
+      "word": "FF91直播生产",
+      "onboard_time": 1680139946,
+      "rank": 34,
+      "category": "科技"
     },
     {
       "raw_hot": 169080,
@@ -403,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 164001,
+      "num": 164001,
+      "word": "西藏林芝桃花有多惊艳",
+      "onboard_time": 1680141805,
+      "rank": 31,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 163520,
       "num": 163520,
       "word": "孟贺回应麻六记欠款事项",
@@ -411,12 +475,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 162410,
-      "num": 162410,
-      "word": "FF91直播生产",
-      "onboard_time": 1680139946,
+      "raw_hot": 161865,
+      "num": 161865,
+      "word": "湖人vs公牛",
+      "onboard_time": 1680141326,
       "rank": 34,
-      "category": "科技"
+      "category": "体育"
     },
     {
       "raw_hot": 161545,
@@ -547,6 +611,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 120190,
+      "num": 120190,
+      "word": "落雨灯",
+      "onboard_time": 1680142705,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 113049,
       "num": 113049,
       "word": "乘风破浪",
@@ -587,6 +659,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 105973,
+      "num": 105973,
+      "word": "工人师傅带电钻上火车被拦",
+      "onboard_time": 1680142946,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 105709,
       "num": 105709,
       "word": "王者荣耀",
@@ -625,6 +705,14 @@
       "onboard_time": 1680085588,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 90185,
+      "num": 90185,
+      "word": "边牧的智商未免也太高了",
+      "onboard_time": 1680143484,
+      "rank": 47,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 88339,
@@ -788,7 +876,7 @@
     },
     {
       "raw_hot": 33797,
-      "num": 800672,
+      "num": 854761,
       "word": "天宫放心飞天地保障永相随",
       "onboard_time": 1680092487,
       "rank": 2,
