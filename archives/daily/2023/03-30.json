@@ -1,6 +1,6 @@
 {
   "startTime": 1680110195849,
-  "endTime": 1680189559208,
+  "endTime": 1680190431587,
   "band_list": [
     {
       "raw_hot": 2898452,
@@ -83,6 +83,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 1575300,
+      "num": 1575300,
+      "word": "官方通报林场主求水事件",
+      "onboard_time": 1680189268,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1553665,
       "num": 1553665,
       "word": "吴磊吻戏从脸红到耳朵",
@@ -116,7 +124,7 @@
     },
     {
       "raw_hot": 1490862,
-      "num": 289285,
+      "num": 319983,
       "word": "村民不认可孙国友被称为治沙英雄",
       "onboard_time": 1680186150,
       "rank": 36,
@@ -211,6 +219,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1091132,
+      "num": 1091132,
+      "word": "上海海事大学被举报弄虚作假",
+      "onboard_time": 1680187289,
+      "rank": 3,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1061516,
       "num": 1061516,
       "word": "大力女子姜南顺",
@@ -233,14 +249,6 @@
       "onboard_time": 1680180689,
       "rank": 30,
       "category": "科技"
-    },
-    {
-      "raw_hot": 1003691,
-      "num": 1003691,
-      "word": "上海海事大学被举报弄虚作假",
-      "onboard_time": 1680187289,
-      "rank": 3,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 956644,
@@ -337,6 +345,14 @@
       "onboard_time": 1680150029,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 793110,
+      "num": 793110,
+      "word": "SEVENTEEN将4月24日回归",
+      "onboard_time": 1680189870,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 787354,
@@ -659,6 +675,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 510328,
+      "num": 510328,
+      "word": "小义",
+      "onboard_time": 1680188550,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 507635,
       "num": 507635,
       "word": "马嘉祺两首歌都入选最佳金曲",
@@ -955,14 +979,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 345700,
-      "num": 345700,
-      "word": "小义",
-      "onboard_time": 1680188550,
-      "rank": 16,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 344141,
       "num": 344141,
       "word": "开放世界乙女游戏",
@@ -985,6 +1001,14 @@
       "onboard_time": 1680181109,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 338904,
+      "num": 338904,
+      "word": "金奎彬16位",
+      "onboard_time": 1680190049,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 336824,
@@ -1020,7 +1044,7 @@
     },
     {
       "raw_hot": 333841,
-      "num": 292688,
+      "num": 322220,
       "word": "巧珍哭着跟高加林分手",
       "onboard_time": 1680185850,
       "rank": 21,
@@ -1049,6 +1073,14 @@
       "onboard_time": 1680103826,
       "rank": 8,
       "category": "科技"
+    },
+    {
+      "raw_hot": 318819,
+      "num": 318819,
+      "word": "上海大爷挤地铁骂女子是乡下猪",
+      "onboard_time": 1680188310,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 315339,
@@ -1451,6 +1483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 216389,
+      "num": 216389,
+      "word": "中国切阳什姐递补获伦敦奥运金牌",
+      "onboard_time": 1680189510,
+      "rank": 35,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 214015,
       "num": 214015,
       "word": "娜扎浓颜素妆大片",
@@ -1515,12 +1555,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 207264,
-      "num": 207264,
-      "word": "官方通报林场主求水事件",
-      "onboard_time": 1680189268,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 206732,
+      "num": 206732,
+      "word": "王嘉尔油管订阅数华人歌手第一",
+      "onboard_time": 1680186750,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 206421,
@@ -1611,14 +1651,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 201400,
-      "num": 201400,
-      "word": "王嘉尔油管订阅数华人歌手第一",
-      "onboard_time": 1680186750,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 200755,
       "num": 200755,
       "word": "宋亚轩黄色短袖车内视频",
@@ -1627,20 +1659,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 200062,
+      "num": 200062,
+      "word": "声生不息后来全场大合唱",
+      "onboard_time": 1680186750,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199365,
       "num": 199365,
       "word": "不良人",
       "onboard_time": 1680145107,
       "rank": 33,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 199102,
-      "num": 199102,
-      "word": "声生不息后来全场大合唱",
-      "onboard_time": 1680186750,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 197850,
@@ -1705,14 +1737,6 @@
       "onboard_time": 1680169106,
       "rank": 30,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 193530,
-      "num": 193530,
-      "word": "中国切阳什姐递补获伦敦奥运金牌",
-      "onboard_time": 1680189510,
-      "rank": 35,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 193353,
@@ -1801,14 +1825,6 @@
       "onboard_time": 1680163887,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 187606,
-      "num": 187606,
-      "word": "上海大爷挤地铁骂女子是乡下猪",
-      "onboard_time": 1680188310,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 187255,
@@ -2209,6 +2225,14 @@
       "onboard_time": 1680165209,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 141444,
+      "num": 141444,
+      "word": "请给跪地求水林场主一个公证结果",
+      "onboard_time": 1680189988,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140296,
@@ -2636,7 +2660,7 @@
     },
     {
       "raw_hot": 91437,
-      "num": 1136853,
+      "num": 1240341,
       "word": "这里的春景每一帧都是画报",
       "onboard_time": 1680184829,
       "rank": 2,
