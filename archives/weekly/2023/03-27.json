@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1680144428555,
+  "endTime": 1680146341357,
   "band_list": [
     {
       "raw_hot": 12970403,
@@ -424,6 +424,14 @@
       "word": "孙毓敏去世",
       "onboard_time": 1680018506,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1437121,
+      "num": 799896,
+      "word": "学校回应网传女生校企实习被领导性侵",
+      "onboard_time": 1680142645,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -1083,14 +1091,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 799896,
-      "num": 799896,
-      "word": "学校回应网传女生校企实习被领导性侵",
-      "onboard_time": 1680142645,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 797218,
       "num": 797218,
       "word": "聂小雨好惨",
@@ -1177,6 +1177,14 @@
       "onboard_time": 1680056965,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 734520,
+      "num": 462726,
+      "word": "张兰称汪小菲超越她了",
+      "onboard_time": 1680145767,
+      "rank": 11,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 733832,
@@ -1275,6 +1283,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 695463,
+      "num": 695463,
+      "word": "追星号被男朋友看到",
+      "onboard_time": 1680144446,
+      "rank": 1,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 694405,
       "num": 694405,
       "word": "大半个姐圈都在湖南",
@@ -1339,6 +1355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 661576,
+      "num": 314559,
+      "word": "女生爬完泰山发现裤子变成偏大码",
+      "onboard_time": 1680144986,
+      "rank": 20,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 661459,
       "num": 661459,
       "word": "成都火灾",
@@ -1377,6 +1401,14 @@
       "onboard_time": 1680103048,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 646309,
+      "num": 646309,
+      "word": "库克现身米哈游总部",
+      "onboard_time": 1680144866,
+      "rank": 4,
+      "category": "游戏,科技"
     },
     {
       "raw_hot": 643856,
@@ -1907,6 +1939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 507191,
+      "num": 507191,
+      "word": "EXOCallMeBaby发行8周年",
+      "onboard_time": 1680145889,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 502867,
       "num": 502867,
       "word": "理想回应雷达在无人陵园显示全是人",
@@ -2083,6 +2123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 467512,
+      "num": 467512,
+      "word": "小学生盘手串",
+      "onboard_time": 1680142584,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 467042,
       "num": 467042,
       "word": "肖战欧洲街头vlog",
@@ -2137,6 +2185,14 @@
       "onboard_time": 1679974590,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 456257,
+      "num": 456257,
+      "word": "狐妖小红娘",
+      "onboard_time": 1680145046,
+      "rank": 14,
+      "category": "动漫"
     },
     {
       "raw_hot": 456023,
@@ -2561,14 +2617,6 @@
       "onboard_time": 1680068067,
       "rank": 17,
       "category": "美食"
-    },
-    {
-      "raw_hot": 386396,
-      "num": 386396,
-      "word": "小学生盘手串",
-      "onboard_time": 1680142584,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 385414,
@@ -3099,6 +3147,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 318673,
+      "num": 318673,
+      "word": "程耳说大家对我亲昵多半是因为王一博",
+      "onboard_time": 1680145466,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 317680,
       "num": 317680,
       "word": "王国之泪",
@@ -3115,12 +3171,28 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 315339,
+      "num": 315339,
+      "word": "威少36分10助攻",
+      "onboard_time": 1680144747,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 315330,
       "num": 315330,
       "word": "新海诚说谢谢你中国",
       "onboard_time": 1679893060,
       "rank": 17,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 314258,
+      "num": 314258,
+      "word": "杨幂龚俊狐妖小红娘对视海报",
+      "onboard_time": 1680146308,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 313141,
@@ -4323,6 +4395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 220371,
+      "num": 220371,
+      "word": "奶茶螺蛳粉是什么梗",
+      "onboard_time": 1680144326,
+      "rank": 26,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 220241,
       "num": 215512,
       "word": "张若昀今年有旧剧播续集",
@@ -4337,6 +4417,14 @@
       "onboard_time": 1680081207,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 218456,
+      "num": 218456,
+      "word": "文君成",
+      "onboard_time": 1680145407,
+      "rank": 26,
+      "category": "社会负面"
     },
     {
       "raw_hot": 218318,
@@ -4723,6 +4811,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 200464,
+      "num": 200464,
+      "word": "铁路客服回应工人带电钻上火车被拦",
+      "onboard_time": 1680144446,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200227,
       "num": 200227,
       "word": "张婧仪谈理想型",
@@ -4785,6 +4881,14 @@
       "onboard_time": 1679996665,
       "rank": 30,
       "category": "幽默,科技"
+    },
+    {
+      "raw_hot": 199365,
+      "num": 199365,
+      "word": "不良人",
+      "onboard_time": 1680145107,
+      "rank": 33,
+      "category": "动漫"
     },
     {
       "raw_hot": 198472,
@@ -5059,14 +5163,6 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 189841,
-      "num": 189841,
-      "word": "奶茶螺蛳粉是什么梗",
-      "onboard_time": 1680144326,
-      "rank": 26,
-      "category": "美食,幽默"
-    },
-    {
       "raw_hot": 189662,
       "num": 189662,
       "word": "井柏然说吻戏再拍一条是另外的价钱",
@@ -5233,6 +5329,14 @@
       "onboard_time": 1679883269,
       "rank": 23,
       "category": "科技"
+    },
+    {
+      "raw_hot": 182387,
+      "num": 182387,
+      "word": "李马克将4月7日发行solo曲",
+      "onboard_time": 1680144566,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 182265,
@@ -5491,6 +5595,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 170723,
+      "num": 314640,
+      "word": "你城市的夜景有多美",
+      "onboard_time": 1680143906,
+      "rank": 28,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 170184,
       "num": 170184,
       "word": "吴磊的肱二头肌",
@@ -5635,6 +5747,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 163083,
+      "num": 163083,
+      "word": "浓眉38分10篮板",
+      "onboard_time": 1680144446,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162712,
       "num": 162712,
       "word": "王昭君乞巧织春",
@@ -5729,14 +5849,6 @@
       "onboard_time": 1679965230,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 157279,
-      "num": 183638,
-      "word": "你城市的夜景有多美",
-      "onboard_time": 1680143906,
-      "rank": 28,
-      "category": "旅游"
     },
     {
       "raw_hot": 156817,
@@ -6041,6 +6153,14 @@
       "onboard_time": 1679842649,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 141873,
+      "num": 141873,
+      "word": "边牧的智商未免也太高了",
+      "onboard_time": 1680143484,
+      "rank": 47,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 141263,
@@ -6595,20 +6715,20 @@
       "category": "科技,影视"
     },
     {
+      "raw_hot": 117153,
+      "num": 117153,
+      "word": "被男朋友拍成了丧尸",
+      "onboard_time": 1680146248,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 117080,
       "num": 117080,
       "word": "这应该是个单身的NPC",
       "onboard_time": 1679908531,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 116783,
-      "num": 116783,
-      "word": "边牧的智商未免也太高了",
-      "onboard_time": 1680143484,
-      "rank": 47,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 115917,
