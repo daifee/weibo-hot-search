@@ -1,0 +1,410 @@
+{
+  "runTime": 1680144428555,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 970452,
+        "num": 970452,
+        "word": "千万不要带婴儿车去重庆旅游",
+        "onboard_time": 1680138207,
+        "rank": 0,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 903907,
+        "num": 903907,
+        "word": "以前的村花vs现在的村花",
+        "onboard_time": 1680133884,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 13239,
+        "num": 811252,
+        "word": "天宫放心飞天地保障永相随",
+        "onboard_time": 1680092487,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 799896,
+        "num": 799896,
+        "word": "学校回应网传女生校企实习被领导性侵",
+        "onboard_time": 1680142645,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 643671,
+        "num": 643671,
+        "word": "朴炯植朴宝英将特别出演新剧",
+        "onboard_time": 1680141746,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1227988,
+        "num": 599864,
+        "word": "丫丫的状态越来越好了",
+        "onboard_time": 1680134907,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 486478,
+        "num": 486478,
+        "word": "客服回应张小泉斩骨刀斩不了骨",
+        "onboard_time": 1680137847,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 468951,
+        "num": 468951,
+        "word": "这个姿势玩手机伤害小",
+        "onboard_time": 1680140065,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 386396,
+        "num": 386396,
+        "word": "小学生盘手串",
+        "onboard_time": 1680142584,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359239,
+        "num": 359239,
+        "word": "威少",
+        "onboard_time": 1680139346,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1260048,
+        "num": 358262,
+        "word": "林生斌",
+        "onboard_time": 1680135147,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 747438,
+        "num": 357462,
+        "word": "张大大辅导嗯哼做作业",
+        "onboard_time": 1680136828,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 511169,
+        "num": 356480,
+        "word": "西安被坠楼者砸中男童不治身亡",
+        "onboard_time": 1680099867,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 435802,
+        "num": 354820,
+        "word": "福建某公司副经理林生斌被查",
+        "onboard_time": 1680136648,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354237,
+        "num": 354237,
+        "word": "张兰希望85岁之前披上婚纱",
+        "onboard_time": 1680137611,
+        "rank": 14,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 351343,
+        "num": 351343,
+        "word": "大半个姐圈都在湖南",
+        "onboard_time": 1680134726,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 312759,
+        "num": 312759,
+        "word": "乙类乙管后的第一个国际医师节",
+        "onboard_time": 1680140065,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260176,
+        "num": 260176,
+        "word": "雪豹照镜子被自己颜值惊呆了",
+        "onboard_time": 1680136169,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255068,
+        "num": 255068,
+        "word": "刘宇宁重游的是哪个故地",
+        "onboard_time": 1680143906,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248587,
+        "num": 248587,
+        "word": "秋瓷炫初舞台或将唱无法原谅",
+        "onboard_time": 1680102510,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248197,
+        "num": 248197,
+        "word": "吴磊赵今麦吻戏路透视频",
+        "onboard_time": 1680135510,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 236126,
+        "num": 236126,
+        "word": "央广网评万亩治沙林被煤矿断水",
+        "onboard_time": 1680103048,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231639,
+        "num": 231639,
+        "word": "嘘嘘旭MV导演是陆虎",
+        "onboard_time": 1680143786,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 228096,
+        "num": 228096,
+        "word": "谭松韵归晓从校服到婚纱视频",
+        "onboard_time": 1680142766,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 220310,
+        "num": 220310,
+        "word": "张兰称爱情是女人一生中最重要的事",
+        "onboard_time": 1680140545,
+        "rank": 24,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 193463,
+        "num": 193463,
+        "word": "上海平均招聘月薪跃居全国榜首",
+        "onboard_time": 1680135147,
+        "rank": 25,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 189841,
+        "num": 189841,
+        "word": "奶茶螺蛳粉是什么梗",
+        "onboard_time": 1680144326,
+        "rank": 26,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 184421,
+        "num": 184421,
+        "word": "伊能静说喜欢自己的55岁",
+        "onboard_time": 1680142463,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157279,
+        "num": 183638,
+        "word": "你城市的夜景有多美",
+        "onboard_time": 1680143906,
+        "rank": 28,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 183624,
+        "num": 183624,
+        "word": "吴镇宇问吴费曼抢到肉吃了么",
+        "onboard_time": 1680138268,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171488,
+        "num": 171488,
+        "word": "朴妍珍李莎拉情头",
+        "onboard_time": 1680139225,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165903,
+        "num": 165903,
+        "word": "一季度全国平均招聘月薪10101元",
+        "onboard_time": 1680133763,
+        "rank": 31,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 164445,
+        "num": 164445,
+        "word": "西藏林芝桃花有多惊艳",
+        "onboard_time": 1680141805,
+        "rank": 32,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 163829,
+        "num": 163829,
+        "word": "眼镜上的白点 干眼症",
+        "onboard_time": 1680137488,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 159468,
+        "num": 159468,
+        "word": "FF91直播生产",
+        "onboard_time": 1680139946,
+        "rank": 34,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 158093,
+        "num": 158093,
+        "word": "湖人vs公牛",
+        "onboard_time": 1680141326,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146687,
+        "num": 146687,
+        "word": "一次复制粘贴一行兵哥哥是什么体验",
+        "onboard_time": 1680137847,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145133,
+        "num": 145133,
+        "word": "谁在阻止孙国友种树",
+        "onboard_time": 1680136709,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143534,
+        "num": 143534,
+        "word": "千万不要侧躺玩手机",
+        "onboard_time": 1680087326,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 139858,
+        "num": 139858,
+        "word": "落雨灯",
+        "onboard_time": 1680142705,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133833,
+        "num": 133833,
+        "word": "路人看见张译的表情",
+        "onboard_time": 1680136648,
+        "rank": 40,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 132385,
+        "num": 132385,
+        "word": "周深白鹿自带音量",
+        "onboard_time": 1680138567,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129094,
+        "num": 129094,
+        "word": "王俊凯下车神图",
+        "onboard_time": 1680135328,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 125942,
+        "num": 125942,
+        "word": "郑晓龙点赞人世间风吹半夏狂飙",
+        "onboard_time": 1680138866,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 125500,
+        "num": 125500,
+        "word": "坦克500试驾翻车",
+        "onboard_time": 1680103826,
+        "rank": 44,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 122721,
+        "num": 122721,
+        "word": "快船vs灰熊",
+        "onboard_time": 1680143845,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116783,
+        "num": 116783,
+        "word": "边牧的智商未免也太高了",
+        "onboard_time": 1680143484,
+        "rank": 46,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 115820,
+        "num": 115820,
+        "word": "谢娜瘦二十斤综艺回归首秀",
+        "onboard_time": 1680084387,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105547,
+        "num": 105547,
+        "word": "成都火灾",
+        "onboard_time": 1680106403,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102134,
+        "num": 102134,
+        "word": "WBG教练",
+        "onboard_time": 1680106344,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#在博鳌论坛感受中国经济脉动#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1680143848787,
+  "endTime": 1680144428555,
   "band_list": [
     {
       "raw_hot": 27113842,
@@ -10088,6 +10088,14 @@
       "word": "北京沙尘暴",
       "onboard_time": 1678792170,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 799896,
+      "num": 799896,
+      "word": "学校回应网传女生校企实习被领导性侵",
+      "onboard_time": 1680142645,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -20907,14 +20915,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 448649,
-      "num": 448649,
-      "word": "学校回应网传女生校企实习被领导性侵",
-      "onboard_time": 1680142645,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 448642,
       "num": 448642,
       "word": "HYBE今年将推出两组新男团",
@@ -23971,6 +23971,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 386396,
+      "num": 386396,
+      "word": "小学生盘手串",
+      "onboard_time": 1680142584,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 386232,
       "num": 386232,
       "word": "欧豪李一桐新剧开机",
@@ -25729,6 +25737,14 @@
       "onboard_time": 1679293286,
       "rank": 30,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 359239,
+      "num": 359239,
+      "word": "威少",
+      "onboard_time": 1680139346,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 358817,
@@ -30483,14 +30499,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 293002,
-      "num": 293002,
-      "word": "小学生盘手串",
-      "onboard_time": 1680142584,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 292904,
       "num": 242401,
       "word": "原来车是这么进商场的",
@@ -32363,14 +32371,6 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 271059,
-      "num": 271059,
-      "word": "威少",
-      "onboard_time": 1680139346,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 271035,
       "num": 88111,
       "word": "蓝柚 AG",
@@ -33745,6 +33745,14 @@
       "onboard_time": 1678595666,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 255068,
+      "num": 255068,
+      "word": "刘宇宁重游的是哪个故地",
+      "onboard_time": 1680143906,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 255036,
@@ -36625,6 +36633,14 @@
       "onboard_time": 1677673767,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 228096,
+      "num": 228096,
+      "word": "谭松韵归晓从校服到婚纱视频",
+      "onboard_time": 1680142766,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 228037,
@@ -42571,14 +42587,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 195350,
-      "num": 195350,
-      "word": "谭松韵归晓从校服到婚纱视频",
-      "onboard_time": 1680142766,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 195266,
       "num": 195266,
       "word": "湖人升至西部第九",
@@ -43907,6 +43915,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 189841,
+      "num": 189841,
+      "word": "奶茶螺蛳粉是什么梗",
+      "onboard_time": 1680144326,
+      "rank": 26,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 189796,
       "num": 189796,
       "word": "如何看待诺而不捐",
@@ -44953,6 +44969,14 @@
       "onboard_time": 1679226927,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 184421,
+      "num": 184421,
+      "word": "伊能静说喜欢自己的55岁",
+      "onboard_time": 1680142463,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 184400,
@@ -46635,14 +46659,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 172466,
-      "num": 172466,
-      "word": "伊能静说喜欢自己的55岁",
-      "onboard_time": 1680142463,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 172429,
       "num": 172429,
       "word": "路晨归晓十年前分手的原因",
@@ -47827,6 +47843,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 164445,
+      "num": 164445,
+      "word": "西藏林芝桃花有多惊艳",
+      "onboard_time": 1680141805,
+      "rank": 31,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 164395,
       "num": 164395,
       "word": "范丞丞新歌手绘草图",
@@ -47889,14 +47913,6 @@
       "onboard_time": 1678783469,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 164001,
-      "num": 164001,
-      "word": "西藏林芝桃花有多惊艳",
-      "onboard_time": 1680141805,
-      "rank": 31,
-      "category": "旅游"
     },
     {
       "raw_hot": 163987,
@@ -48929,6 +48945,14 @@
       "onboard_time": 1677991947,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157279,
+      "num": 183638,
+      "word": "你城市的夜景有多美",
+      "onboard_time": 1680143906,
+      "rank": 28,
+      "category": "旅游"
     },
     {
       "raw_hot": 157200,
@@ -51521,6 +51545,14 @@
       "onboard_time": 1678671565,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 139858,
+      "num": 139858,
+      "word": "落雨灯",
+      "onboard_time": 1680142705,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 139840,
@@ -54219,6 +54251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122721,
+      "num": 122721,
+      "word": "快船vs灰熊",
+      "onboard_time": 1680143845,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 122688,
       "num": 122688,
       "word": "永远会被文字所震撼",
@@ -54545,14 +54585,6 @@
       "onboard_time": 1678178068,
       "rank": 41,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 120190,
-      "num": 120190,
-      "word": "落雨灯",
-      "onboard_time": 1680142705,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 120146,
@@ -54913,6 +54945,14 @@
       "onboard_time": 1678434866,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 116783,
+      "num": 116783,
+      "word": "边牧的智商未免也太高了",
+      "onboard_time": 1680143484,
+      "rank": 47,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 116769,
@@ -57777,14 +57817,6 @@
       "onboard_time": 1679905830,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 90185,
-      "num": 90185,
-      "word": "边牧的智商未免也太高了",
-      "onboard_time": 1680143484,
-      "rank": 47,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 90001,

@@ -1,6 +1,6 @@
 {
   "startTime": 1680110195849,
-  "endTime": 1680143848787,
+  "endTime": 1680144428555,
   "band_list": [
     {
       "raw_hot": 1794447,
@@ -72,6 +72,14 @@
       "word": "福建某公司副经理林生斌被查",
       "onboard_time": 1680136648,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 799896,
+      "num": 799896,
+      "word": "学校回应网传女生校企实习被领导性侵",
+      "onboard_time": 1680142645,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -147,14 +155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 448649,
-      "num": 448649,
-      "word": "学校回应网传女生校企实习被领导性侵",
-      "onboard_time": 1680142645,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 443242,
       "num": 443242,
       "word": "雪豹照镜子被自己颜值惊呆了",
@@ -185,6 +185,22 @@
       "onboard_time": 1680084387,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 386396,
+      "num": 386396,
+      "word": "小学生盘手串",
+      "onboard_time": 1680142584,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 359239,
+      "num": 359239,
+      "word": "威少",
+      "onboard_time": 1680139346,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 350365,
@@ -235,14 +251,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 293002,
-      "num": 293002,
-      "word": "小学生盘手串",
-      "onboard_time": 1680142584,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 291862,
       "num": 291862,
       "word": "路人看见张译的表情",
@@ -267,14 +275,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 271059,
-      "num": 271059,
-      "word": "威少",
-      "onboard_time": 1680139346,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 259172,
       "num": 259172,
       "word": "沙特内阁批准加入上海合作组织的决定",
@@ -297,6 +297,14 @@
       "onboard_time": 1680134245,
       "rank": 25,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 255068,
+      "num": 255068,
+      "word": "刘宇宁重游的是哪个故地",
+      "onboard_time": 1680143906,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 242712,
@@ -329,6 +337,14 @@
       "onboard_time": 1680137847,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 228096,
+      "num": 228096,
+      "word": "谭松韵归晓从校服到婚纱视频",
+      "onboard_time": 1680142766,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 226753,
@@ -387,12 +403,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 195350,
-      "num": 195350,
-      "word": "谭松韵归晓从校服到婚纱视频",
-      "onboard_time": 1680142766,
-      "rank": 25,
-      "category": "影视"
+      "raw_hot": 189841,
+      "num": 189841,
+      "word": "奶茶螺蛳粉是什么梗",
+      "onboard_time": 1680144326,
+      "rank": 26,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 187255,
@@ -411,6 +427,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 184421,
+      "num": 184421,
+      "word": "伊能静说喜欢自己的55岁",
+      "onboard_time": 1680142463,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 178062,
       "num": 152655,
       "word": "真的有人一点社交都没有吗",
@@ -425,14 +449,6 @@
       "onboard_time": 1680086247,
       "rank": 32,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 172466,
-      "num": 172466,
-      "word": "伊能静说喜欢自己的55岁",
-      "onboard_time": 1680142463,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 169452,
@@ -459,8 +475,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 164001,
-      "num": 164001,
+      "raw_hot": 164445,
+      "num": 164445,
       "word": "西藏林芝桃花有多惊艳",
       "onboard_time": 1680141805,
       "rank": 31,
@@ -499,6 +515,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 157279,
+      "num": 183638,
+      "word": "你城市的夜景有多美",
+      "onboard_time": 1680143906,
+      "rank": 28,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 155193,
       "num": 155193,
       "word": "WBG教练",
@@ -513,6 +537,14 @@
       "onboard_time": 1680138510,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139858,
+      "num": 139858,
+      "word": "落雨灯",
+      "onboard_time": 1680142705,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 134950,
@@ -579,6 +611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122721,
+      "num": 122721,
+      "word": "快船vs灰熊",
+      "onboard_time": 1680143845,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 122291,
       "num": 122291,
       "word": "看中医时千万不要化妆",
@@ -611,12 +651,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 120190,
-      "num": 120190,
-      "word": "落雨灯",
-      "onboard_time": 1680142705,
-      "rank": 42,
-      "category": "情感"
+      "raw_hot": 116783,
+      "num": 116783,
+      "word": "边牧的智商未免也太高了",
+      "onboard_time": 1680143484,
+      "rank": 47,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 113049,
@@ -705,14 +745,6 @@
       "onboard_time": 1680085588,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 90185,
-      "num": 90185,
-      "word": "边牧的智商未免也太高了",
-      "onboard_time": 1680143484,
-      "rank": 47,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 88339,
