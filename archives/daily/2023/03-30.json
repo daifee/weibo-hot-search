@@ -1,6 +1,6 @@
 {
   "startTime": 1680110195849,
-  "endTime": 1680153442505,
+  "endTime": 1680154424546,
   "band_list": [
     {
       "raw_hot": 1923557,
@@ -9,6 +9,14 @@
       "onboard_time": 1680147987,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1874538,
+      "num": 375851,
+      "word": "孙国友治沙公司已被吊销",
+      "onboard_time": 1680151950,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1794447,
@@ -27,12 +35,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1668708,
-      "num": 375851,
-      "word": "孙国友治沙公司已被吊销",
-      "onboard_time": 1680151950,
-      "rank": 20,
-      "category": "社会新闻"
+      "raw_hot": 1611156,
+      "num": 1611156,
+      "word": "巴西与中国不再使用美元作为中间货币",
+      "onboard_time": 1680151111,
+      "rank": 1,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 1510757,
@@ -65,14 +73,6 @@
       "onboard_time": 1680133884,
       "rank": 0,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1390413,
-      "num": 1390413,
-      "word": "巴西与中国不再使用美元作为中间货币",
-      "onboard_time": 1680151111,
-      "rank": 1,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 1102651,
@@ -177,6 +177,14 @@
       "onboard_time": 1680141746,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 734406,
+      "num": 734406,
+      "word": "浙大学霸情侣获10万冠军奖金",
+      "onboard_time": 1680151950,
+      "rank": 9,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 704501,
@@ -315,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 477858,
+      "num": 477858,
+      "word": "杨幂进组没有我的城",
+      "onboard_time": 1680153866,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 474586,
       "num": 474586,
       "word": "曹德旺说把资源还给社会也是一种负责",
@@ -337,14 +353,6 @@
       "onboard_time": 1680136169,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 439648,
-      "num": 439648,
-      "word": "浙大学霸情侣获10万冠军奖金",
-      "onboard_time": 1680151950,
-      "rank": 9,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 430134,
@@ -483,6 +491,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 284547,
+      "num": 284547,
+      "word": "高加林被举报",
+      "onboard_time": 1680153866,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 281154,
       "num": 281154,
       "word": "灵梦",
@@ -507,20 +523,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 275718,
+      "num": 275718,
+      "word": "熊猫生气有多可爱",
+      "onboard_time": 1680150689,
+      "rank": 38,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 259172,
       "num": 259172,
       "word": "沙特内阁批准加入上海合作组织的决定",
       "onboard_time": 1680124030,
       "rank": 35,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 258954,
-      "num": 258954,
-      "word": "熊猫生气有多可爱",
-      "onboard_time": 1680150689,
-      "rank": 38,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 255966,
@@ -569,6 +585,14 @@
       "onboard_time": 1680144446,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 234025,
+      "num": 234025,
+      "word": "钱天一3比1陈梦",
+      "onboard_time": 1680153448,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 232153,
@@ -667,6 +691,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 207386,
+      "num": 207386,
+      "word": "何瑞贤明制汉服写真",
+      "onboard_time": 1680153330,
+      "rank": 34,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 205800,
       "num": 205800,
       "word": "长佩",
@@ -699,20 +731,20 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 199289,
+      "num": 199289,
+      "word": "张兰称现在再带三个世界五百强没问题",
+      "onboard_time": 1680153509,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194406,
       "num": 194406,
       "word": "中新网评林场主跪地求水事件",
       "onboard_time": 1680152311,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 191427,
-      "num": 191427,
-      "word": "何瑞贤明制汉服写真",
-      "onboard_time": 1680153330,
-      "rank": 34,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 187255,
@@ -835,6 +867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 162581,
+      "num": 162581,
+      "word": "如何在荒漠有效治沙",
+      "onboard_time": 1680154168,
+      "rank": 36,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 162508,
       "num": 162508,
       "word": "一时分不清谁才是妈妈",
@@ -881,6 +921,14 @@
       "onboard_time": 1680106344,
       "rank": 12,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 152715,
+      "num": 152715,
+      "word": "成都夜市 缺斤少两",
+      "onboard_time": 1680154227,
+      "rank": 37,
+      "category": "美食"
     },
     {
       "raw_hot": 148927,
@@ -987,6 +1035,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 125896,
+      "num": 125896,
+      "word": "李沁谈与陈晓合作",
+      "onboard_time": 1680153627,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 123384,
       "num": 123384,
       "word": "丫丫",
@@ -1017,6 +1073,14 @@
       "onboard_time": 1680107959,
       "rank": 30,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 121561,
+      "num": 121561,
+      "word": "沙漠种树有多难",
+      "onboard_time": 1680153748,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121237,
@@ -1089,6 +1153,14 @@
       "onboard_time": 1680097769,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 104538,
+      "num": 104538,
+      "word": "如何看待工人带电钻上火车被拦",
+      "onboard_time": 1680154406,
+      "rank": 49,
+      "category": "社会议题,情感"
     },
     {
       "raw_hot": 102526,

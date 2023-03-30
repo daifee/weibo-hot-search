@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1680153442505,
+  "endTime": 1680154424546,
   "band_list": [
     {
       "raw_hot": 12970403,
@@ -243,6 +243,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1874538,
+      "num": 375851,
+      "word": "孙国友治沙公司已被吊销",
+      "onboard_time": 1680151950,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1872254,
       "num": 1872254,
       "word": "青山刚昌",
@@ -315,14 +323,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1668708,
-      "num": 375851,
-      "word": "孙国友治沙公司已被吊销",
-      "onboard_time": 1680151950,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1645144,
       "num": 1161410,
       "word": "刘亦菲胡歌拿错对方奖杯",
@@ -345,6 +345,14 @@
       "onboard_time": 1680074972,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1611156,
+      "num": 1611156,
+      "word": "巴西与中国不再使用美元作为中间货币",
+      "onboard_time": 1680151111,
+      "rank": 1,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 1605628,
@@ -465,14 +473,6 @@
       "onboard_time": 1680011909,
       "rank": 11,
       "category": "网红,情感"
-    },
-    {
-      "raw_hot": 1390413,
-      "num": 1390413,
-      "word": "巴西与中国不再使用美元作为中间货币",
-      "onboard_time": 1680151111,
-      "rank": 1,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 1389900,
@@ -1257,6 +1257,14 @@
       "onboard_time": 1680056965,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 734406,
+      "num": 734406,
+      "word": "浙大学霸情侣获10万冠军奖金",
+      "onboard_time": 1680151950,
+      "rank": 9,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 733832,
@@ -2179,6 +2187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 477858,
+      "num": 477858,
+      "word": "杨幂进组没有我的城",
+      "onboard_time": 1680153866,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 477823,
       "num": 477823,
       "word": "网传Ailee将出演浪姐4",
@@ -2425,14 +2441,6 @@
       "onboard_time": 1680136169,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 439648,
-      "num": 439648,
-      "word": "浙大学霸情侣获10万冠军奖金",
-      "onboard_time": 1680151950,
-      "rank": 9,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 432204,
@@ -3651,6 +3659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 284547,
+      "num": 284547,
+      "word": "高加林被举报",
+      "onboard_time": 1680153866,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 284327,
       "num": 284327,
       "word": "祝绪丹彩色吊带上衣",
@@ -3801,6 +3817,14 @@
       "onboard_time": 1680134545,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 275718,
+      "num": 275718,
+      "word": "熊猫生气有多可爱",
+      "onboard_time": 1680150689,
+      "rank": 38,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 274726,
@@ -3993,14 +4017,6 @@
       "onboard_time": 1680124030,
       "rank": 35,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 258954,
-      "num": 258954,
-      "word": "熊猫生气有多可爱",
-      "onboard_time": 1680150689,
-      "rank": 38,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 258417,
@@ -4329,6 +4345,14 @@
       "onboard_time": 1679930252,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 234025,
+      "num": 234025,
+      "word": "钱天一3比1陈梦",
+      "onboard_time": 1680153448,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 232153,
@@ -4819,6 +4843,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 207386,
+      "num": 207386,
+      "word": "何瑞贤明制汉服写真",
+      "onboard_time": 1680153330,
+      "rank": 34,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 207168,
       "num": 207168,
       "word": "建议适时修订职工带薪年休假条例",
@@ -5083,6 +5115,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 199289,
+      "num": 199289,
+      "word": "张兰称现在再带三个世界五百强没问题",
+      "onboard_time": 1680153509,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198472,
       "num": 198472,
       "word": "90年代刑警办案有多难",
@@ -5321,14 +5361,6 @@
       "onboard_time": 1679842169,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 191427,
-      "num": 191427,
-      "word": "何瑞贤明制汉服写真",
-      "onboard_time": 1680153330,
-      "rank": 34,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 191070,
@@ -5987,6 +6019,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 162581,
+      "num": 162581,
+      "word": "如何在荒漠有效治沙",
+      "onboard_time": 1680154168,
+      "rank": 36,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 162508,
       "num": 162508,
       "word": "一时分不清谁才是妈妈",
@@ -6185,6 +6225,14 @@
       "onboard_time": 1679821287,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 152715,
+      "num": 152715,
+      "word": "成都夜市 缺斤少两",
+      "onboard_time": 1680154227,
+      "rank": 37,
+      "category": "美食"
     },
     {
       "raw_hot": 152494,
@@ -6771,6 +6819,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 125896,
+      "num": 125896,
+      "word": "李沁谈与陈晓合作",
+      "onboard_time": 1680153627,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 125261,
       "num": 125261,
       "word": "周传雄演唱会",
@@ -6873,6 +6929,14 @@
       "onboard_time": 1680107959,
       "rank": 30,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 121561,
+      "num": 121561,
+      "word": "沙漠种树有多难",
+      "onboard_time": 1680153748,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121433,
@@ -7233,6 +7297,14 @@
       "onboard_time": 1679897674,
       "rank": 43,
       "category": "财经"
+    },
+    {
+      "raw_hot": 104538,
+      "num": 104538,
+      "word": "如何看待工人带电钻上火车被拦",
+      "onboard_time": 1680154406,
+      "rank": 49,
+      "category": "社会议题,情感"
     },
     {
       "raw_hot": 103852,
