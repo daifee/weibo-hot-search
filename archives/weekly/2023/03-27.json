@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1680171561299,
+  "endTime": 1680172494136,
   "band_list": [
     {
       "raw_hot": 12970403,
@@ -336,6 +336,14 @@
       "word": "林生斌",
       "onboard_time": 1680135147,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1661695,
+      "num": 1661695,
+      "word": "海南启动全岛封关运作准备",
+      "onboard_time": 1680170189,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -688,14 +696,6 @@
       "word": "家属回应老人跪地求水",
       "onboard_time": 1680054925,
       "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1214247,
-      "num": 1214247,
-      "word": "海南启动全岛封关运作准备",
-      "onboard_time": 1680170189,
-      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -2179,6 +2179,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 517735,
+      "num": 294610,
+      "word": "上海月薪一万算高吗",
+      "onboard_time": 1680169589,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 515350,
       "num": 515350,
       "word": "狐妖小红娘剧版vs原版",
@@ -2465,14 +2473,6 @@
       "onboard_time": 1680003148,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 467765,
-      "num": 294610,
-      "word": "上海月薪一万算高吗",
-      "onboard_time": 1680169589,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 467512,
@@ -2971,6 +2971,14 @@
       "category": "作品衍生,幽默"
     },
     {
+      "raw_hot": 398352,
+      "num": 398352,
+      "word": "女生穿10公分高跟鞋爬泰山",
+      "onboard_time": 1680168867,
+      "rank": 18,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 398039,
       "num": 398039,
       "word": "何同学中文打字机",
@@ -3041,6 +3049,14 @@
       "onboard_time": 1680168567,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 386026,
+      "num": 386026,
+      "word": "荣梓杉下巴痣",
+      "onboard_time": 1680168089,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 385414,
@@ -3233,14 +3249,6 @@
       "onboard_time": 1680082407,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 364589,
-      "num": 364589,
-      "word": "荣梓杉下巴痣",
-      "onboard_time": 1680168089,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 363312,
@@ -3539,14 +3547,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 327859,
-      "num": 327859,
-      "word": "女生穿10公分高跟鞋爬泰山",
-      "onboard_time": 1680168867,
-      "rank": 18,
-      "category": "社会新闻,旅游"
-    },
-    {
       "raw_hot": 326535,
       "num": 326535,
       "word": "阿根廷进攻火力太猛了",
@@ -3697,6 +3697,14 @@
       "onboard_time": 1680090448,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 306930,
+      "num": 306930,
+      "word": "李沁村花妆是刻板印象吗",
+      "onboard_time": 1680171207,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 306721,
@@ -4907,14 +4915,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 223826,
-      "num": 223826,
-      "word": "李沁村花妆是刻板印象吗",
-      "onboard_time": 1680171207,
-      "rank": 24,
-      "category": "影视"
-    },
-    {
       "raw_hot": 223742,
       "num": 223742,
       "word": "看得出来他真的很困",
@@ -5235,6 +5235,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 209119,
+      "num": 209119,
+      "word": "李一桐说太想挑战反派了",
+      "onboard_time": 1680171986,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 208419,
       "num": 208419,
       "word": "谷爱凌说只和自己卷",
@@ -5305,6 +5313,14 @@
       "onboard_time": 1679983707,
       "rank": 19,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 206421,
+      "num": 206421,
+      "word": "孙怡菜品发明家",
+      "onboard_time": 1680171567,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 205981,
@@ -5755,6 +5771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194159,
+      "num": 194159,
+      "word": "东盟国家欲弃美元转用本币结算",
+      "onboard_time": 1680169106,
+      "rank": 30,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 193814,
       "num": 193814,
       "word": "严厉打击网上恶意损害企业和企业家形象声誉",
@@ -5817,6 +5841,14 @@
       "onboard_time": 1679842169,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 191334,
+      "num": 191334,
+      "word": "杨洋插兜",
+      "onboard_time": 1680171748,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 191070,
@@ -6019,14 +6051,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 184175,
-      "num": 184175,
-      "word": "东盟国家欲弃美元转用本币结算",
-      "onboard_time": 1680169106,
-      "rank": 30,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 184099,
       "num": 184099,
       "word": "王楚钦孙颖莎三连胜",
@@ -6137,6 +6161,14 @@
       "onboard_time": 1680152612,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178668,
+      "num": 178668,
+      "word": "万茜露背裙",
+      "onboard_time": 1680172289,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 178545,
@@ -6281,6 +6313,14 @@
       "onboard_time": 1679991568,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 173475,
+      "num": 173475,
+      "word": "大熊猫萌兰反向投喂饲养员",
+      "onboard_time": 1680170249,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 173399,
@@ -7291,6 +7331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 129080,
+      "num": 129080,
+      "word": "荒漠应该种什么树",
+      "onboard_time": 1680171687,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 128995,
       "num": 128995,
       "word": "周雨彤 职场女性",
@@ -7403,6 +7451,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 124969,
+      "num": 124969,
+      "word": "没有特长的人要怎么写特长",
+      "onboard_time": 1680170549,
+      "rank": 39,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 124774,
       "num": 124774,
       "word": "男子求职被要求在杭州本地买房",
@@ -7425,14 +7481,6 @@
       "onboard_time": 1680002190,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 124287,
-      "num": 124287,
-      "word": "没有特长的人要怎么写特长",
-      "onboard_time": 1680170549,
-      "rank": 39,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 123926,
@@ -7811,14 +7859,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 107947,
-      "num": 107947,
-      "word": "大熊猫萌兰反向投喂饲养员",
-      "onboard_time": 1680170249,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 107615,
       "num": 88776,
       "word": "易烊千玺我可要坐直啦",
@@ -8065,6 +8105,14 @@
       "onboard_time": 1679892102,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 96070,
+      "num": 96070,
+      "word": "斗鱼官方推送软色情表演",
+      "onboard_time": 1680172467,
+      "rank": 47,
+      "category": "科技"
     },
     {
       "raw_hot": 95955,
