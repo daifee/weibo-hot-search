@@ -1,7 +1,39 @@
 {
   "startTime": 1680110195849,
-  "endTime": 1680132834120,
+  "endTime": 1680139618310,
   "band_list": [
+    {
+      "raw_hot": 1794447,
+      "num": 1105903,
+      "word": "丫丫的状态越来越好了",
+      "onboard_time": 1680134907,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1670927,
+      "num": 475351,
+      "word": "林生斌",
+      "onboard_time": 1680135147,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1498748,
+      "num": 471234,
+      "word": "张大大辅导嗯哼做作业",
+      "onboard_time": 1680136828,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1449396,
+      "num": 1449396,
+      "word": "以前的村花vs现在的村花",
+      "onboard_time": 1680133884,
+      "rank": 0,
+      "category": "影视"
+    },
     {
       "raw_hot": 1102651,
       "num": 1102651,
@@ -19,12 +51,28 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 879166,
+      "raw_hot": 916430,
       "num": 473017,
       "word": "西安被坠楼者砸中男童不治身亡",
       "onboard_time": 1680099867,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 755403,
+      "num": 452874,
+      "word": "张兰希望85岁之前披上婚纱",
+      "onboard_time": 1680137611,
+      "rank": 13,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 694405,
+      "num": 694405,
+      "word": "大半个姐圈都在湖南",
+      "onboard_time": 1680134726,
+      "rank": 3,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 661459,
@@ -35,11 +83,51 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 657296,
+      "num": 657296,
+      "word": "福建某公司副经理林生斌被查",
+      "onboard_time": 1680136648,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 650896,
       "num": 650896,
       "word": "央广网评万亩治沙林被煤矿断水",
       "onboard_time": 1680103048,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 580892,
+      "num": 580892,
+      "word": "一季度全国平均招聘月薪10101元",
+      "onboard_time": 1680133763,
+      "rank": 5,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 507558,
+      "num": 507558,
+      "word": "客服回应张小泉斩骨刀斩不了骨",
+      "onboard_time": 1680137847,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 496766,
+      "num": 496766,
+      "word": "吴磊赵今麦吻戏路透视频",
+      "onboard_time": 1680135510,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 443242,
+      "num": 443242,
+      "word": "雪豹照镜子被自己颜值惊呆了",
+      "onboard_time": 1680136169,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -59,8 +147,16 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 323518,
-      "num": 323518,
+      "raw_hot": 390115,
+      "num": 390115,
+      "word": "上海平均招聘月薪跃居全国榜首",
+      "onboard_time": 1680135147,
+      "rank": 15,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 334394,
+      "num": 334394,
       "word": "秋瓷炫初舞台或将唱无法原谅",
       "onboard_time": 1680102510,
       "rank": 7,
@@ -83,12 +179,92 @@
       "category": "科技"
     },
     {
+      "raw_hot": 297858,
+      "num": 297858,
+      "word": "张艺兴说今年会举办巡演",
+      "onboard_time": 1680134665,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 296808,
+      "num": 296808,
+      "word": "吴镇宇问吴费曼抢到肉吃了么",
+      "onboard_time": 1680138268,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 291862,
+      "num": 291862,
+      "word": "路人看见张译的表情",
+      "onboard_time": 1680136648,
+      "rank": 20,
+      "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 290346,
+      "num": 290346,
+      "word": "王俊凯下车神图",
+      "onboard_time": 1680135328,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 277343,
+      "num": 277343,
+      "word": "孙国友女儿称事情没有解决",
+      "onboard_time": 1680134545,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 259172,
       "num": 259172,
       "word": "沙特内阁批准加入上海合作组织的决定",
       "onboard_time": 1680124030,
       "rank": 35,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 255966,
+      "num": 255966,
+      "word": "眼镜上的白点 干眼症",
+      "onboard_time": 1680137488,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 255934,
+      "num": 255934,
+      "word": "张兰谈俏江南被资本血洗",
+      "onboard_time": 1680134245,
+      "rank": 25,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 242712,
+      "num": 242712,
+      "word": "谁在阻止孙国友种树",
+      "onboard_time": 1680136709,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 229974,
+      "num": 229974,
+      "word": "一次复制粘贴一行兵哥哥是什么体验",
+      "onboard_time": 1680137847,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 229661,
+      "num": 229661,
+      "word": "千万不要带婴儿车去重庆旅游",
+      "onboard_time": 1680138207,
+      "rank": 28,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 226753,
@@ -107,6 +283,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 225891,
+      "num": 225891,
+      "word": "周深白鹿自带音量",
+      "onboard_time": 1680138567,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 223928,
+      "num": 223928,
+      "word": "朴妍珍李莎拉情头",
+      "onboard_time": 1680139225,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 208920,
       "num": 208920,
       "word": "吴磊也需要别人演他小时候了",
@@ -115,12 +307,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 205800,
+      "num": 205800,
+      "word": "长佩",
+      "onboard_time": 1680135988,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 204136,
+      "num": 204136,
+      "word": "沙溢他超爱",
+      "onboard_time": 1680132922,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 187255,
       "num": 187255,
       "word": "宁夏人怎么看林场主跪地求供水",
       "onboard_time": 1680102088,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 187085,
+      "num": 187085,
+      "word": "郑晓龙点赞人世间风吹半夏狂飙",
+      "onboard_time": 1680138866,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 178062,
@@ -137,6 +353,14 @@
       "onboard_time": 1680086247,
       "rank": 32,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 169080,
+      "num": 169080,
+      "word": "杨幂微博之夜七年造型",
+      "onboard_time": 1680101790,
+      "rank": 13,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 165606,
@@ -179,12 +403,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 146042,
-      "num": 146042,
-      "word": "杨幂微博之夜七年造型",
-      "onboard_time": 1680101790,
-      "rank": 13,
-      "category": "作品衍生,时尚"
+      "raw_hot": 148927,
+      "num": 148927,
+      "word": "为什么一到换季就鼻炎",
+      "onboard_time": 1680138510,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145011,
+      "num": 145011,
+      "word": "威少",
+      "onboard_time": 1680139346,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 134950,
@@ -211,6 +443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 128995,
+      "num": 128995,
+      "word": "周雨彤 职场女性",
+      "onboard_time": 1680135447,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 126544,
       "num": 126544,
       "word": "光与夜之恋",
@@ -225,6 +465,22 @@
       "onboard_time": 1680103587,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 126022,
+      "num": 126022,
+      "word": "第五人格",
+      "onboard_time": 1680139407,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 123384,
+      "num": 123384,
+      "word": "丫丫",
+      "onboard_time": 1680136290,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 122291,
@@ -243,12 +499,28 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 121237,
+      "num": 121237,
+      "word": "你觉得毕业生起薪多少合适",
+      "onboard_time": 1680098790,
+      "rank": 27,
+      "category": "情感,教育"
+    },
+    {
       "raw_hot": 120207,
       "num": 109660,
       "word": "刘宪华 南京",
       "onboard_time": 1680091888,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 113049,
+      "num": 113049,
+      "word": "乘风破浪",
+      "onboard_time": 1680135807,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 109983,
@@ -283,6 +555,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 105709,
+      "num": 105709,
+      "word": "王者荣耀",
+      "onboard_time": 1680097769,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 102526,
       "num": 102526,
       "word": "张颂文教演员和狗狗演戏",
@@ -307,28 +587,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 95609,
-      "num": 95609,
-      "word": "你觉得毕业生起薪多少合适",
-      "onboard_time": 1680098790,
-      "rank": 27,
-      "category": "情感,教育"
-    },
-    {
       "raw_hot": 93619,
       "num": 93619,
       "word": "胡歌唐嫣新剧同框",
       "onboard_time": 1680085588,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 89619,
-      "num": 89619,
-      "word": "王者荣耀",
-      "onboard_time": 1680097769,
-      "rank": 28,
-      "category": "游戏"
     },
     {
       "raw_hot": 88339,
@@ -491,20 +755,20 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 33797,
+      "num": 800672,
+      "word": "天宫放心飞天地保障永相随",
+      "onboard_time": 1680092487,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27183,
       "num": 27183,
       "word": "小S模仿二女儿讲英语",
       "onboard_time": 1680091768,
       "rank": 48,
       "category": "艺人,综艺"
-    },
-    {
-      "raw_hot": 27072,
-      "num": 551423,
-      "word": "天宫放心飞天地保障永相随",
-      "onboard_time": 1680092487,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 26824,
