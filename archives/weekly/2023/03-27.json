@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1680185809614,
+  "endTime": 1680186812325,
   "band_list": [
     {
       "raw_hot": 12970403,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 2898452,
-      "num": 422370,
+      "num": 447477,
       "word": "赵丽颖剪短发了",
       "onboard_time": 1680180390,
       "rank": 12,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 2343304,
-      "num": 415675,
+      "num": 418067,
       "word": "袁冰妍",
       "onboard_time": 1680169347,
       "rank": 10,
@@ -344,6 +344,14 @@
       "word": "林生斌",
       "onboard_time": 1680135147,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1666987,
+      "num": 1666987,
+      "word": "全球男性精子量告急",
+      "onboard_time": 1680182550,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -572,7 +580,7 @@
     },
     {
       "raw_hot": 1344665,
-      "num": 422062,
+      "num": 440588,
       "word": "包贝尔女儿近照",
       "onboard_time": 1680181410,
       "rank": 12,
@@ -624,14 +632,6 @@
       "word": "中方愿全部接收洪都拉斯在台留学生",
       "onboard_time": 1679927194,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1306389,
-      "num": 1306389,
-      "word": "全球男性精子量告急",
-      "onboard_time": 1680182550,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -1091,6 +1091,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 899812,
+      "num": 435737,
+      "word": "谢娜问粉丝我生图很厉害吧",
+      "onboard_time": 1680182068,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 898369,
       "num": 898369,
       "word": "库克现身米哈游总部",
@@ -1187,8 +1195,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 862665,
-      "num": 862665,
+      "raw_hot": 864578,
+      "num": 864578,
       "word": "导演李玉刚首部电影开机",
       "onboard_time": 1680182068,
       "rank": 29,
@@ -1241,14 +1249,6 @@
       "onboard_time": 1679887411,
       "rank": 4,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 827780,
-      "num": 419499,
-      "word": "谢娜问粉丝我生图很厉害吧",
-      "onboard_time": 1680182068,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 823509,
@@ -1859,6 +1859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 610398,
+      "num": 610398,
+      "word": "aespa新歌HoldOnTight",
+      "onboard_time": 1680186329,
+      "rank": 6,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 608748,
       "num": 574320,
       "word": "刘诗诗给杨紫飞吻",
@@ -2283,6 +2291,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 520651,
+      "num": 520651,
+      "word": "内娱小白花天花板",
+      "onboard_time": 1680183090,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 520315,
       "num": 520315,
       "word": "今天好多演出官宣",
@@ -2563,6 +2579,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 473421,
+      "num": 229269,
+      "word": "宋涛在武汉会见马英九一行",
+      "onboard_time": 1680184829,
+      "rank": 30,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 472497,
       "num": 472497,
       "word": "鞠婧祎祝绪丹同款吊带",
@@ -2835,14 +2859,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 431689,
-      "num": 202486,
-      "word": "宋涛在武汉会见马英九一行",
-      "onboard_time": 1680184829,
-      "rank": 30,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 430941,
       "num": 430941,
       "word": "警方通报男子酒后殴打强奸前女友",
@@ -2912,14 +2928,6 @@
       "word": "程耳说大家对我亲昵多半是因为王一博",
       "onboard_time": 1680145466,
       "rank": 17,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 423733,
-      "num": 423733,
-      "word": "内娱小白花天花板",
-      "onboard_time": 1680183090,
-      "rank": 24,
       "category": "作品衍生"
     },
     {
@@ -3483,6 +3491,14 @@
       "category": "情感,教育"
     },
     {
+      "raw_hot": 354310,
+      "num": 339192,
+      "word": "声生不息宝岛季下期有于文文",
+      "onboard_time": 1680182908,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 354032,
       "num": 354032,
       "word": "NMIXX初一位",
@@ -3635,14 +3651,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 339192,
-      "num": 339192,
-      "word": "声生不息宝岛季下期有于文文",
-      "onboard_time": 1680182908,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 339084,
       "num": 339084,
       "word": "东南亚国家是否真的不能去了",
@@ -3705,6 +3713,14 @@
       "onboard_time": 1680102510,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 333841,
+      "num": 267693,
+      "word": "巧珍哭着跟高加林分手",
+      "onboard_time": 1680185850,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 333085,
@@ -3897,6 +3913,14 @@
       "onboard_time": 1680070049,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 312984,
+      "num": 312984,
+      "word": "千万不要在泰山顶上这样拍照",
+      "onboard_time": 1680185188,
+      "rank": 40,
+      "category": "幽默,旅游"
     },
     {
       "raw_hot": 309549,
@@ -4563,6 +4587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 262184,
+      "num": 262184,
+      "word": "王子浩三公",
+      "onboard_time": 1680184829,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 261978,
       "num": 261978,
       "word": "红叶蛋糕",
@@ -4963,6 +4995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 234008,
+      "num": 234008,
+      "word": "王楚钦男单夺冠",
+      "onboard_time": 1680186150,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 232153,
       "num": 232153,
       "word": "张兰称爱情是女人一生中最重要的事",
@@ -5059,6 +5099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 228497,
+      "num": 228497,
+      "word": "彭小苒47秒念台词",
+      "onboard_time": 1680181468,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 228477,
       "num": 228477,
       "word": "高加林变心了",
@@ -5129,14 +5177,6 @@
       "onboard_time": 1680138567,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 225688,
-      "num": 225688,
-      "word": "彭小苒47秒念台词",
-      "onboard_time": 1680181468,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 224284,
@@ -5355,6 +5395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 216803,
+      "num": 216803,
+      "word": "马嘉祺唱后来",
+      "onboard_time": 1680185788,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 216397,
       "num": 216397,
       "word": "孙红雷雨中撑伞氛围感",
@@ -5369,14 +5417,6 @@
       "onboard_time": 1679964449,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 215563,
-      "num": 215563,
-      "word": "马嘉祺唱后来",
-      "onboard_time": 1680185788,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 214913,
@@ -5747,6 +5787,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 203107,
+      "num": 203107,
+      "word": "猫夺走了新郎的风头",
+      "onboard_time": 1680182729,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 202856,
       "num": 202856,
       "word": "北京草莓音乐节",
@@ -5793,14 +5841,6 @@
       "onboard_time": 1679869634,
       "rank": 49,
       "category": "教育"
-    },
-    {
-      "raw_hot": 201407,
-      "num": 201407,
-      "word": "王子浩三公",
-      "onboard_time": 1680184829,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 201030,
@@ -5913,6 +5953,14 @@
       "onboard_time": 1679894256,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 197905,
+      "num": 197905,
+      "word": "王嘉尔油管订阅数华人歌手第一",
+      "onboard_time": 1680186750,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 197850,
@@ -6059,14 +6107,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 195289,
-      "num": 195289,
-      "word": "猫夺走了新郎的风头",
-      "onboard_time": 1680182729,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 195153,
       "num": 170088,
       "word": "警方回应理发师持刀杀害顾客",
@@ -6187,6 +6227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 192450,
+      "num": 192450,
+      "word": "村民不认可孙国友被称为治沙英雄",
+      "onboard_time": 1680186150,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192124,
       "num": 192124,
       "word": "文豪野犬第5季制作决定",
@@ -6281,6 +6329,14 @@
       "onboard_time": 1679904575,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190288,
+      "num": 190288,
+      "word": "王皓说这个家没海东不行",
+      "onboard_time": 1680186210,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 190047,
@@ -6443,6 +6499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 184436,
+      "num": 184436,
+      "word": "田海蓉透露正在筹备新电影",
+      "onboard_time": 1680184409,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 184421,
       "num": 184421,
       "word": "伊能静说喜欢自己的55岁",
@@ -6475,6 +6539,22 @@
       "category": "科技"
     },
     {
+      "raw_hot": 183660,
+      "num": 183660,
+      "word": "招惹",
+      "onboard_time": 1680180567,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 183438,
+      "num": 183438,
+      "word": "声生不息后来全场大合唱",
+      "onboard_time": 1680186750,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183162,
       "num": 183162,
       "word": "大张伟蒲熠星表演踢门秀",
@@ -6488,6 +6568,14 @@
       "word": "李马克将4月7日发行solo曲",
       "onboard_time": 1680144566,
       "rank": 35,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 182295,
+      "num": 182295,
+      "word": "张学友演唱会",
+      "onboard_time": 1680186329,
+      "rank": 43,
       "category": "音乐"
     },
     {
@@ -6635,6 +6723,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 177536,
+      "num": 184351,
+      "word": "AI",
+      "onboard_time": 1680185668,
+      "rank": 49,
+      "category": "科技"
+    },
+    {
       "raw_hot": 177509,
       "num": 177509,
       "word": "蔡卓妍是香港站巡回演唱会嘉宾",
@@ -6673,14 +6769,6 @@
       "onboard_time": 1679848280,
       "rank": 18,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 176602,
-      "num": 176602,
-      "word": "田海蓉透露正在筹备新电影",
-      "onboard_time": 1680184409,
-      "rank": 37,
-      "category": "影视"
     },
     {
       "raw_hot": 176575,
@@ -6739,12 +6827,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 173758,
-      "num": 173758,
-      "word": "招惹",
-      "onboard_time": 1680180567,
-      "rank": 42,
-      "category": "影视"
+      "raw_hot": 173864,
+      "num": 173864,
+      "word": "荒漠种乔木是不是抽水机",
+      "onboard_time": 1680183689,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 173399,
@@ -6891,14 +6979,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 169071,
-      "num": 169071,
-      "word": "荒漠种乔木是不是抽水机",
-      "onboard_time": 1680183689,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 169050,
       "num": 169050,
       "word": "宋三川沙漠里晒的滚烫的金沙",
@@ -6937,14 +7017,6 @@
       "onboard_time": 1680048388,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 166168,
-      "num": 166168,
-      "word": "千万不要在泰山顶上这样拍照",
-      "onboard_time": 1680185188,
-      "rank": 40,
-      "category": "幽默,旅游"
     },
     {
       "raw_hot": 166166,
@@ -7116,7 +7188,7 @@
     },
     {
       "raw_hot": 159225,
-      "num": 417325,
+      "num": 423835,
       "word": "王鹤棣沉浸式出游短片",
       "onboard_time": 1680184829,
       "rank": 14,
@@ -7744,14 +7816,6 @@
       "word": "月亮图标",
       "onboard_time": 1679843069,
       "rank": 34,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 134160,
-      "num": 134160,
-      "word": "AI",
-      "onboard_time": 1680185668,
-      "rank": 49,
       "category": "科技"
     },
     {
@@ -9067,6 +9131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 62982,
+      "num": 1073844,
+      "word": "这里的春景每一帧都是画报",
+      "onboard_time": 1680184829,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 59144,
       "num": 59144,
       "word": "晨晓夫妇蹭鼻尖是现场改的",
@@ -9169,14 +9241,6 @@
       "onboard_time": 1680033912,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 40960,
-      "num": 1073844,
-      "word": "这里的春景每一帧都是画报",
-      "onboard_time": 1680184829,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 40325,
