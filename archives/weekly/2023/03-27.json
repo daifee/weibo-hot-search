@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1680157389265,
+  "endTime": 1680158211270,
   "band_list": [
     {
       "raw_hot": 12970403,
@@ -507,6 +507,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1335492,
+      "num": 1200850,
+      "word": "庞博用ChatGPT背调杨迪",
+      "onboard_time": 1680155606,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1322639,
       "num": 1322639,
       "word": "被穷养长大的孩子是怎样的",
@@ -649,14 +657,6 @@
       "onboard_time": 1680061048,
       "rank": 11,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 1200850,
-      "num": 1200850,
-      "word": "庞博用ChatGPT背调杨迪",
-      "onboard_time": 1680155606,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 1191695,
@@ -1417,6 +1417,14 @@
       "onboard_time": 1680101790,
       "rank": 5,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 680084,
+      "num": 680084,
+      "word": "衡阳师范学院女生实习遭性侵",
+      "onboard_time": 1680156207,
+      "rank": 9,
+      "category": "社会负面,教育"
     },
     {
       "raw_hot": 677203,
@@ -2579,6 +2587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 415772,
+      "num": 346356,
+      "word": "迪丽热巴街边旧照",
+      "onboard_time": 1680156147,
+      "rank": 15,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 415356,
       "num": 415356,
       "word": "吴优浪姐上班",
@@ -2835,6 +2851,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 379346,
+      "num": 379346,
+      "word": "时代峰峻辟谣演唱会义工招募",
+      "onboard_time": 1680157467,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 377736,
       "num": 377736,
       "word": "秦岚白裙",
@@ -2881,14 +2905,6 @@
       "onboard_time": 1679975909,
       "rank": 14,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 375923,
-      "num": 375923,
-      "word": "衡阳师范学院女生实习遭性侵",
-      "onboard_time": 1680156207,
-      "rank": 9,
-      "category": "社会负面,教育"
     },
     {
       "raw_hot": 375749,
@@ -3121,14 +3137,6 @@
       "onboard_time": 1679983229,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 344649,
-      "num": 344649,
-      "word": "迪丽热巴街边旧照",
-      "onboard_time": 1680156147,
-      "rank": 15,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 344445,
@@ -4379,6 +4387,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 236461,
+      "num": 236461,
+      "word": "吴磊年下是侵略年上是克制",
+      "onboard_time": 1680155250,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 236042,
       "num": 236042,
       "word": "品质盛典全阵容",
@@ -4699,14 +4715,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 217977,
-      "num": 217977,
-      "word": "吴磊年下是侵略年上是克制",
-      "onboard_time": 1680155250,
-      "rank": 26,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 217961,
       "num": 217961,
       "word": "金珉奎笑容消失术",
@@ -5019,6 +5027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203743,
+      "num": 203743,
+      "word": "毛不易演唱会",
+      "onboard_time": 1680157887,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 203581,
       "num": 203581,
       "word": "大熊猫避雨顾头不顾尾",
@@ -5187,6 +5203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 197850,
+      "num": 197850,
+      "word": "毛晓彤暗黑系恶女造型",
+      "onboard_time": 1680157105,
+      "rank": 28,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 197838,
       "num": 139686,
       "word": "刘宇宁回眸视频",
@@ -5297,14 +5321,6 @@
       "onboard_time": 1679901871,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 195800,
-      "num": 195800,
-      "word": "毛晓彤暗黑系恶女造型",
-      "onboard_time": 1680157105,
-      "rank": 28,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 195665,
@@ -5665,6 +5681,14 @@
       "onboard_time": 1680155967,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 183016,
+      "num": 183016,
+      "word": "为什么浙江的寺庙比较灵",
+      "onboard_time": 1680156928,
+      "rank": 45,
+      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 182387,
@@ -7491,14 +7515,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 99855,
-      "num": 99855,
-      "word": "为什么浙江的寺庙比较灵",
-      "onboard_time": 1680156928,
-      "rank": 45,
-      "category": "幽默,社会新闻"
-    },
-    {
       "raw_hot": 99191,
       "num": 99191,
       "word": "网购零食盲盒开箱",
@@ -7745,6 +7761,14 @@
       "onboard_time": 1679905411,
       "rank": 49,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 76219,
+      "num": 76219,
+      "word": "对象跟我爸半夜去深山钓鱼",
+      "onboard_time": 1680158186,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 76161,
