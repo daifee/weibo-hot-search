@@ -1,6 +1,6 @@
 {
   "startTime": 1680110195849,
-  "endTime": 1680146341357,
+  "endTime": 1680147219071,
   "band_list": [
     {
       "raw_hot": 1794447,
@@ -12,10 +12,18 @@
     },
     {
       "raw_hot": 1670927,
-      "num": 475351,
+      "num": 500992,
       "word": "林生斌",
       "onboard_time": 1680135147,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1510757,
+      "num": 802065,
+      "word": "学校回应网传女生校企实习被领导性侵",
+      "onboard_time": 1680142645,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -27,20 +35,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1460745,
+      "num": 1460745,
+      "word": "追星号被男朋友看到",
+      "onboard_time": 1680144446,
+      "rank": 1,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 1449396,
       "num": 1449396,
       "word": "以前的村花vs现在的村花",
       "onboard_time": 1680133884,
       "rank": 0,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1437121,
-      "num": 799896,
-      "word": "学校回应网传女生校企实习被领导性侵",
-      "onboard_time": 1680142645,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1102651,
@@ -68,11 +76,19 @@
     },
     {
       "raw_hot": 916430,
-      "num": 473017,
+      "num": 496184,
       "word": "西安被坠楼者砸中男童不治身亡",
       "onboard_time": 1680099867,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 898369,
+      "num": 898369,
+      "word": "库克现身米哈游总部",
+      "onboard_time": 1680144866,
+      "rank": 4,
+      "category": "游戏,科技"
     },
     {
       "raw_hot": 881167,
@@ -91,6 +107,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 753308,
+      "num": 753308,
+      "word": "张兰称汪小菲超越她了",
+      "onboard_time": 1680145767,
+      "rank": 11,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 743758,
       "num": 743758,
       "word": "朴炯植朴宝英将特别出演新剧",
@@ -99,20 +123,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 734520,
-      "num": 462726,
-      "word": "张兰称汪小菲超越她了",
-      "onboard_time": 1680145767,
-      "rank": 11,
-      "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 695463,
-      "num": 695463,
-      "word": "追星号被男朋友看到",
-      "onboard_time": 1680144446,
-      "rank": 1,
-      "category": "幽默,情感"
+      "raw_hot": 704501,
+      "num": 314559,
+      "word": "女生爬完泰山发现裤子变成偏大码",
+      "onboard_time": 1680144986,
+      "rank": 20,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 694405,
@@ -121,14 +137,6 @@
       "onboard_time": 1680134726,
       "rank": 3,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 661576,
-      "num": 314559,
-      "word": "女生爬完泰山发现裤子变成偏大码",
-      "onboard_time": 1680144986,
-      "rank": 20,
-      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 661459,
@@ -147,12 +155,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 646309,
-      "num": 646309,
-      "word": "库克现身米哈游总部",
-      "onboard_time": 1680144866,
-      "rank": 4,
-      "category": "游戏,科技"
+      "raw_hot": 642953,
+      "num": 642953,
+      "word": "狐妖小红娘",
+      "onboard_time": 1680145046,
+      "rank": 14,
+      "category": "动漫"
     },
     {
       "raw_hot": 588556,
@@ -169,6 +177,14 @@
       "onboard_time": 1680133763,
       "rank": 5,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 512591,
+      "num": 512591,
+      "word": "杨幂龚俊狐妖小红娘对视海报",
+      "onboard_time": 1680146308,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 507191,
@@ -203,20 +219,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 456257,
-      "num": 456257,
-      "word": "狐妖小红娘",
-      "onboard_time": 1680145046,
-      "rank": 14,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 443242,
       "num": 443242,
       "word": "雪豹照镜子被自己颜值惊呆了",
       "onboard_time": 1680136169,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 424262,
+      "num": 424262,
+      "word": "程耳说大家对我亲昵多半是因为王一博",
+      "onboard_time": 1680145466,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 409947,
@@ -283,28 +299,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 318673,
-      "num": 318673,
-      "word": "程耳说大家对我亲昵多半是因为王一博",
-      "onboard_time": 1680145466,
-      "rank": 17,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 315339,
       "num": 315339,
       "word": "威少36分10助攻",
       "onboard_time": 1680144747,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 314258,
-      "num": 314258,
-      "word": "杨幂龚俊狐妖小红娘对视海报",
-      "onboard_time": 1680146308,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 297858,
@@ -337,6 +337,14 @@
       "onboard_time": 1680135328,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 286531,
+      "num": 286531,
+      "word": "文君成",
+      "onboard_time": 1680145407,
+      "rank": 26,
+      "category": "社会负面"
     },
     {
       "raw_hot": 277343,
@@ -443,6 +451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 224446,
+      "num": 224446,
+      "word": "铁路客服回应工人带电钻上火车被拦",
+      "onboard_time": 1680144446,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 223928,
       "num": 223928,
       "word": "朴妍珍李莎拉情头",
@@ -459,12 +475,12 @@
       "category": "美食,幽默"
     },
     {
-      "raw_hot": 218456,
-      "num": 218456,
-      "word": "文君成",
-      "onboard_time": 1680145407,
-      "rank": 26,
-      "category": "社会负面"
+      "raw_hot": 219753,
+      "num": 219753,
+      "word": "被男朋友拍成了丧尸",
+      "onboard_time": 1680146248,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 208920,
@@ -489,14 +505,6 @@
       "onboard_time": 1680132922,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 200464,
-      "num": 200464,
-      "word": "铁路客服回应工人带电钻上火车被拦",
-      "onboard_time": 1680144446,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 199365,
@@ -651,6 +659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 145877,
+      "num": 145877,
+      "word": "首批国产商用卫星上架淘宝",
+      "onboard_time": 1680146847,
+      "rank": 35,
+      "category": "科技"
+    },
+    {
       "raw_hot": 141873,
       "num": 141873,
       "word": "边牧的智商未免也太高了",
@@ -689,6 +705,14 @@
       "onboard_time": 1680101190,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 129562,
+      "num": 129562,
+      "word": "时空中的绘旅人",
+      "onboard_time": 1680146726,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 128995,
@@ -771,12 +795,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 117153,
-      "num": 117153,
-      "word": "被男朋友拍成了丧尸",
-      "onboard_time": 1680146248,
-      "rank": 47,
-      "category": "幽默"
+      "raw_hot": 117313,
+      "num": 117313,
+      "word": "电摇",
+      "onboard_time": 1680147026,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 113049,
