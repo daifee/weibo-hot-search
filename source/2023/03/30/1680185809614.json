@@ -1,0 +1,410 @@
+{
+  "runTime": 1680185809614,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1306389,
+        "num": 1306389,
+        "word": "全球男性精子量告急",
+        "onboard_time": 1680182550,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1244415,
+        "num": 1244415,
+        "word": "海南启动全岛封关运作准备",
+        "onboard_time": 1680170189,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40960,
+        "num": 1073844,
+        "word": "这里的春景每一帧都是画报",
+        "onboard_time": 1680184829,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 987973,
+        "num": 987973,
+        "word": "吴磊吻戏从脸红到耳朵",
+        "onboard_time": 1680175947,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 862665,
+        "num": 862665,
+        "word": "导演李玉刚首部电影开机",
+        "onboard_time": 1680182068,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 744144,
+        "num": 744144,
+        "word": "魅族20",
+        "onboard_time": 1680180689,
+        "rank": 5,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 611396,
+        "num": 611396,
+        "word": "那我长大了还管谁叫爷爷",
+        "onboard_time": 1680180447,
+        "rank": 6,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 464588,
+        "num": 464588,
+        "word": "存多少钱才算有安全感",
+        "onboard_time": 1680178167,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 463468,
+        "num": 463468,
+        "word": "怪异君",
+        "onboard_time": 1680182011,
+        "rank": 8,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 423733,
+        "num": 423733,
+        "word": "内娱小白花天花板",
+        "onboard_time": 1680183090,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 2403554,
+        "num": 422370,
+        "word": "赵丽颖剪短发了",
+        "onboard_time": 1680180390,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1344665,
+        "num": 422062,
+        "word": "包贝尔女儿近照",
+        "onboard_time": 1680181410,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 827780,
+        "num": 419499,
+        "word": "谢娜问粉丝我生图很厉害吧",
+        "onboard_time": 1680182068,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 618435,
+        "num": 417996,
+        "word": "网红自称确诊肝癌内容纯属虚构",
+        "onboard_time": 1680172708,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159225,
+        "num": 417325,
+        "word": "王鹤棣沉浸式出游短片",
+        "onboard_time": 1680184829,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 426314,
+        "num": 415675,
+        "word": "袁冰妍",
+        "onboard_time": 1680169347,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 415122,
+        "num": 415122,
+        "word": "江西20岁女大学生确认自杀",
+        "onboard_time": 1680164007,
+        "rank": 16,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 375464,
+        "num": 375464,
+        "word": "陈幸同 王艺迪",
+        "onboard_time": 1680179847,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 339192,
+        "num": 339192,
+        "word": "声生不息宝岛季下期有于文文",
+        "onboard_time": 1680182908,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 304248,
+        "num": 304248,
+        "word": "王楚钦4比1林高远",
+        "onboard_time": 1680185010,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 367286,
+        "num": 300435,
+        "word": "印度男子把刚分娩6个月的妻子打死",
+        "onboard_time": 1680165749,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304926,
+        "num": 298277,
+        "word": "男子生前借亲戚534万去世后被赖账",
+        "onboard_time": 1680176966,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295081,
+        "num": 295081,
+        "word": "肖战张艺兴王源陈伟霆MV视频",
+        "onboard_time": 1680164548,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 293045,
+        "num": 293045,
+        "word": "张杰天天想你获奖",
+        "onboard_time": 1680182370,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 257783,
+        "num": 257783,
+        "word": "上海月薪一万算高吗",
+        "onboard_time": 1680169589,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 256950,
+        "num": 256950,
+        "word": "为什么癌症一发现就是晚期",
+        "onboard_time": 1680160467,
+        "rank": 25,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 225688,
+        "num": 225688,
+        "word": "彭小苒47秒念台词",
+        "onboard_time": 1680181468,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 215563,
+        "num": 215563,
+        "word": "马嘉祺唱后来",
+        "onboard_time": 1680185788,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214352,
+        "num": 214352,
+        "word": "杨幂说现在对谈恋爱没兴趣",
+        "onboard_time": 1680164486,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 202644,
+        "num": 202644,
+        "word": "林高远比赛",
+        "onboard_time": 1680181109,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 431689,
+        "num": 202486,
+        "word": "宋涛在武汉会见马英九一行",
+        "onboard_time": 1680184829,
+        "rank": 30,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 201407,
+        "num": 201407,
+        "word": "王子浩三公",
+        "onboard_time": 1680184829,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194428,
+        "num": 197733,
+        "word": "2023KPL春季赛",
+        "onboard_time": 1680184769,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 195473,
+        "num": 195473,
+        "word": "辛芷蕾话剧初步举证",
+        "onboard_time": 1680185250,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 195289,
+        "num": 195289,
+        "word": "猫夺走了新郎的风头",
+        "onboard_time": 1680182729,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 191326,
+        "num": 191326,
+        "word": "WE对战DYG",
+        "onboard_time": 1680181109,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 180072,
+        "num": 180072,
+        "word": "周雨彤郑希怡对手戏",
+        "onboard_time": 1680180147,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176602,
+        "num": 176602,
+        "word": "田海蓉透露正在筹备新电影",
+        "onboard_time": 1680184409,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 169071,
+        "num": 169071,
+        "word": "荒漠种乔木是不是抽水机",
+        "onboard_time": 1680183689,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169050,
+        "num": 169050,
+        "word": "宋三川沙漠里晒的滚烫的金沙",
+        "onboard_time": 1680185310,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 166168,
+        "num": 166168,
+        "word": "千万不要在泰山顶上这样拍照",
+        "onboard_time": 1680185188,
+        "rank": 40,
+        "category": "幽默,旅游"
+      },
+      {
+        "raw_hot": 163182,
+        "num": 163182,
+        "word": "RNG晋级下一轮",
+        "onboard_time": 1680181468,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 160282,
+        "num": 160282,
+        "word": "招惹",
+        "onboard_time": 1680180567,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 160095,
+        "num": 160095,
+        "word": "金洋道歉",
+        "onboard_time": 1680178346,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 157739,
+        "num": 157739,
+        "word": "宋茜白宇 保你平安前传",
+        "onboard_time": 1680175048,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 153953,
+        "num": 153953,
+        "word": "陈幸同女单夺冠",
+        "onboard_time": 1680182190,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151452,
+        "num": 151452,
+        "word": "养鸟已经满足不了三太子了",
+        "onboard_time": 1680165507,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145652,
+        "num": 145652,
+        "word": "女生穿10公分高跟鞋爬泰山",
+        "onboard_time": 1680168867,
+        "rank": 47,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 138797,
+        "num": 138797,
+        "word": "李沁村花妆是刻板印象吗",
+        "onboard_time": 1680171207,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 134160,
+        "num": 134160,
+        "word": "AI",
+        "onboard_time": 1680185668,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#高质量共建一带一路#"
+    }
+  }
+}

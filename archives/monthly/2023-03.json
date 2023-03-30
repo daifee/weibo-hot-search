@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1680183499739,
+  "endTime": 1680185809614,
   "band_list": [
     {
       "raw_hot": 27113842,
@@ -676,7 +676,7 @@
     },
     {
       "raw_hot": 2898452,
-      "num": 416083,
+      "num": 422370,
       "word": "赵丽颖剪短发了",
       "onboard_time": 1680180390,
       "rank": 12,
@@ -1244,7 +1244,7 @@
     },
     {
       "raw_hot": 2343304,
-      "num": 414068,
+      "num": 415675,
       "word": "袁冰妍",
       "onboard_time": 1680169347,
       "rank": 10,
@@ -4331,6 +4331,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1344665,
+      "num": 422062,
+      "word": "包贝尔女儿近照",
+      "onboard_time": 1680181410,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1344663,
       "num": 1344663,
       "word": "椰树推出猛男直播销售额不到1千",
@@ -4585,6 +4593,14 @@
       "onboard_time": 1678458089,
       "rank": 28,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 1306389,
+      "num": 1306389,
+      "word": "全球男性精子量告急",
+      "onboard_time": 1680182550,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1305311,
@@ -7667,14 +7683,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 972618,
-      "num": 415985,
-      "word": "包贝尔女儿近照",
-      "onboard_time": 1680181410,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 972514,
       "num": 972514,
       "word": "全国高中C9联盟成立",
@@ -9235,6 +9243,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 862665,
+      "num": 862665,
+      "word": "导演李玉刚首部电影开机",
+      "onboard_time": 1680182068,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 861661,
       "num": 231006,
       "word": "爱奇艺考虑拍狂飙电影版",
@@ -9833,6 +9849,14 @@
       "onboard_time": 1679887411,
       "rank": 4,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 827780,
+      "num": 419499,
+      "word": "谢娜问粉丝我生图很厉害吧",
+      "onboard_time": 1680182068,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 826183,
@@ -14873,6 +14897,14 @@
       "onboard_time": 1678964609,
       "rank": 13,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 611396,
+      "num": 611396,
+      "word": "那我长大了还管谁叫爷爷",
+      "onboard_time": 1680180447,
+      "rank": 14,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 611293,
@@ -21236,7 +21268,7 @@
     },
     {
       "raw_hot": 454575,
-      "num": 294945,
+      "num": 298277,
       "word": "男子生前借亲戚534万去世后被赖账",
       "onboard_time": 1680176966,
       "rank": 22,
@@ -22227,6 +22259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 431689,
+      "num": 202486,
+      "word": "宋涛在武汉会见马英九一行",
+      "onboard_time": 1680184829,
+      "rank": 30,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 431683,
       "num": 431683,
       "word": "洪恩採哭了",
@@ -22643,14 +22683,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 425581,
-      "num": 425581,
-      "word": "导演李玉刚首部电影开机",
-      "onboard_time": 1680182068,
-      "rank": 29,
-      "category": "影视"
-    },
-    {
       "raw_hot": 424996,
       "num": 401117,
       "word": "老人7万养老钱埋树下找不着报警",
@@ -22721,6 +22753,14 @@
       "onboard_time": 1678544849,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 423733,
+      "num": 423733,
+      "word": "内娱小白花天花板",
+      "onboard_time": 1680183090,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 423624,
@@ -23113,14 +23153,6 @@
       "onboard_time": 1680171087,
       "rank": 9,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 416095,
-      "num": 416095,
-      "word": "那我长大了还管谁叫爷爷",
-      "onboard_time": 1680180447,
-      "rank": 14,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 415879,
@@ -24489,14 +24521,6 @@
       "onboard_time": 1678505013,
       "rank": 17,
       "category": "军事,国内要闻"
-    },
-    {
-      "raw_hot": 389088,
-      "num": 389088,
-      "word": "谢娜问粉丝我生图很厉害吧",
-      "onboard_time": 1680182068,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 388826,
@@ -27841,6 +27865,14 @@
       "onboard_time": 1678606285,
       "rank": 44,
       "category": "教育"
+    },
+    {
+      "raw_hot": 339192,
+      "num": 339192,
+      "word": "声生不息宝岛季下期有于文文",
+      "onboard_time": 1680182908,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 339086,
@@ -34347,14 +34379,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 257310,
-      "num": 257310,
-      "word": "内娱小白花天花板",
-      "onboard_time": 1680183090,
-      "rank": 24,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 257298,
       "num": 257298,
       "word": "给猫做绝育要会演戏",
@@ -35665,14 +35689,6 @@
       "onboard_time": 1678799849,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 243797,
-      "num": 243797,
-      "word": "全球男性精子量告急",
-      "onboard_time": 1680182550,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 243778,
@@ -37827,6 +37843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 225688,
+      "num": 225688,
+      "word": "彭小苒47秒念台词",
+      "onboard_time": 1680181468,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 225658,
       "num": 225658,
       "word": "原来印度飞饼真的会飞",
@@ -39217,6 +39241,14 @@
       "onboard_time": 1677905125,
       "rank": 33,
       "category": "综艺,美妆"
+    },
+    {
+      "raw_hot": 215563,
+      "num": 215563,
+      "word": "马嘉祺唱后来",
+      "onboard_time": 1680185788,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 215557,
@@ -41979,6 +42011,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 201407,
+      "num": 201407,
+      "word": "王子浩三公",
+      "onboard_time": 1680184829,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201403,
       "num": 201403,
       "word": "故宫玉兰花开了",
@@ -42417,14 +42457,6 @@
       "onboard_time": 1678444648,
       "rank": 49,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 199914,
-      "num": 199914,
-      "word": "声生不息宝岛季下期有于文文",
-      "onboard_time": 1680182908,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 199908,
@@ -43635,6 +43667,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 195473,
+      "num": 195473,
+      "word": "辛芷蕾话剧初步举证",
+      "onboard_time": 1680185250,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 195465,
       "num": 195465,
       "word": "归路破镜重圆文学",
@@ -43649,6 +43689,14 @@
       "onboard_time": 1679501663,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 195289,
+      "num": 195289,
+      "word": "猫夺走了新郎的风头",
+      "onboard_time": 1680182729,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 195266,
@@ -43680,14 +43728,6 @@
       "word": "他叫王德发",
       "onboard_time": 1679188707,
       "rank": 31,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 195172,
-      "num": 195172,
-      "word": "彭小苒47秒念台词",
-      "onboard_time": 1680181468,
-      "rank": 34,
       "category": "影视"
     },
     {
@@ -44729,6 +44769,14 @@
       "onboard_time": 1679632055,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 191326,
+      "num": 191326,
+      "word": "WE对战DYG",
+      "onboard_time": 1680181109,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 191222,
@@ -47283,6 +47331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176602,
+      "num": 176602,
+      "word": "田海蓉透露正在筹备新电影",
+      "onboard_time": 1680184409,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 176599,
       "num": 176599,
       "word": "归路第18集预告",
@@ -48499,6 +48555,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 169071,
+      "num": 169071,
+      "word": "荒漠种乔木是不是抽水机",
+      "onboard_time": 1680183689,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 169050,
+      "num": 169050,
+      "word": "宋三川沙漠里晒的滚烫的金沙",
+      "onboard_time": 1680185310,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 168986,
       "num": 168986,
       "word": "王鹤棣费加罗三色流光封面",
@@ -48897,6 +48969,14 @@
       "onboard_time": 1679111969,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 166168,
+      "num": 166168,
+      "word": "千万不要在泰山顶上这样拍照",
+      "onboard_time": 1680185188,
+      "rank": 40,
+      "category": "幽默,旅游"
     },
     {
       "raw_hot": 166166,
@@ -49905,6 +49985,14 @@
       "onboard_time": 1677911245,
       "rank": 43,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 159225,
+      "num": 417325,
+      "word": "王鹤棣沉浸式出游短片",
+      "onboard_time": 1680184829,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 159189,
@@ -53907,6 +53995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134160,
+      "num": 134160,
+      "word": "AI",
+      "onboard_time": 1680185668,
+      "rank": 49,
+      "category": "科技"
+    },
+    {
       "raw_hot": 134138,
       "num": 134138,
       "word": "DYG对阵KSG",
@@ -55665,14 +55761,6 @@
       "onboard_time": 1678780829,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 122844,
-      "num": 122844,
-      "word": "猫夺走了新郎的风头",
-      "onboard_time": 1680182729,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 122787,
@@ -61576,6 +61664,14 @@
       "word": "撒贝宁在做一种很新的菜",
       "onboard_time": 1679569227,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 40960,
+      "num": 1073844,
+      "word": "这里的春景每一帧都是画报",
+      "onboard_time": 1680184829,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
