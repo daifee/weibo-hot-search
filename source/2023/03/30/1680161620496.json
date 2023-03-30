@@ -1,0 +1,410 @@
+{
+  "runTime": 1680161620496,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1155281,
+        "num": 1155281,
+        "word": "巴西与中国不再使用美元作为中间货币",
+        "onboard_time": 1680151111,
+        "rank": 0,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 1061488,
+        "num": 1061488,
+        "word": "为什么癌症一发现就是晚期",
+        "onboard_time": 1680160467,
+        "rank": 1,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 34557,
+        "num": 743597,
+        "word": "开局之年看中国县域新发展",
+        "onboard_time": 1680148649,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 720967,
+        "num": 720967,
+        "word": "宋佳在纽约介绍自己是中国演员",
+        "onboard_time": 1680155366,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 520315,
+        "num": 520315,
+        "word": "今天好多演出官宣",
+        "onboard_time": 1680158485,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 468830,
+        "num": 468830,
+        "word": "白鹿王鹤棣以爱为营下班视频",
+        "onboard_time": 1680158426,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 369274,
+        "num": 369274,
+        "word": "庆余年2将回归的角色",
+        "onboard_time": 1680147987,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 726521,
+        "num": 367638,
+        "word": "庞博用ChatGPT背调杨迪",
+        "onboard_time": 1680155606,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 350857,
+        "num": 350857,
+        "word": "成都夜市 缺斤少两",
+        "onboard_time": 1680154227,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 362267,
+        "num": 349669,
+        "word": "程潇说自己公司门都不太进",
+        "onboard_time": 1680159987,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1097334,
+        "num": 348115,
+        "word": "衡阳师范学院女生实习遭性侵",
+        "onboard_time": 1680156207,
+        "rank": 10,
+        "category": "社会负面,教育"
+      },
+      {
+        "raw_hot": 753231,
+        "num": 347239,
+        "word": "为什么浙江的寺庙比较灵",
+        "onboard_time": 1680156928,
+        "rank": 11,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 721832,
+        "num": 345947,
+        "word": "高叶被夸头骨",
+        "onboard_time": 1680159445,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 345038,
+        "num": 345038,
+        "word": "迪丽热巴街边旧照",
+        "onboard_time": 1680156147,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 315367,
+        "num": 315367,
+        "word": "浙大学霸情侣获10万冠军奖金",
+        "onboard_time": 1680151950,
+        "rank": 14,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 312798,
+        "num": 312798,
+        "word": "学校回应网传女生校企实习被领导性侵",
+        "onboard_time": 1680142645,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277149,
+        "num": 277149,
+        "word": "林生斌",
+        "onboard_time": 1680135147,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264487,
+        "num": 264487,
+        "word": "喜欢你4男二全票",
+        "onboard_time": 1680158247,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 259486,
+        "num": 259486,
+        "word": "张若昀长发像唐艺昕",
+        "onboard_time": 1680161128,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96455,
+        "num": 236867,
+        "word": "影像旗舰为什么卷暗光长焦",
+        "onboard_time": 1680159807,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 363374,
+        "num": 232132,
+        "word": "孙国友治沙公司已被吊销",
+        "onboard_time": 1680151950,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272367,
+        "num": 228987,
+        "word": "女生爬完泰山发现裤子变成偏大码",
+        "onboard_time": 1680144986,
+        "rank": 21,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 223799,
+        "num": 223799,
+        "word": "千万不要带婴儿车去重庆旅游",
+        "onboard_time": 1680138207,
+        "rank": 22,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 212790,
+        "num": 212790,
+        "word": "被男朋友拍成了丧尸",
+        "onboard_time": 1680146248,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 208396,
+        "num": 208396,
+        "word": "吴磊年下是侵略年上是克制",
+        "onboard_time": 1680155250,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 207732,
+        "num": 207732,
+        "word": "公益林 商业林",
+        "onboard_time": 1680158667,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192345,
+        "num": 192345,
+        "word": "丫丫晒太阳努力干饭等回家",
+        "onboard_time": 1680147807,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186489,
+        "num": 186489,
+        "word": "时代峰峻辟谣演唱会义工招募",
+        "onboard_time": 1680157467,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179534,
+        "num": 179534,
+        "word": "娜扎浓颜素妆大片",
+        "onboard_time": 1680158546,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 178489,
+        "num": 178489,
+        "word": "IU中短发造型",
+        "onboard_time": 1680148770,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 178118,
+        "num": 178118,
+        "word": "张兰称现在再带三个世界五百强没问题",
+        "onboard_time": 1680153509,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173849,
+        "num": 173849,
+        "word": "王楚钦3比2梁靖崑",
+        "onboard_time": 1680159688,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160014,
+        "num": 160014,
+        "word": "成都市监局回应摊贩缺斤少两",
+        "onboard_time": 1680160046,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154480,
+        "num": 154480,
+        "word": "网剧招惹",
+        "onboard_time": 1680156625,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 147521,
+        "num": 147521,
+        "word": "杨幂进组没有我的城",
+        "onboard_time": 1680153866,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 145233,
+        "num": 145233,
+        "word": "大力女子姜南顺",
+        "onboard_time": 1680149248,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 143041,
+        "num": 143041,
+        "word": "狐妖小红娘剧版vs原版",
+        "onboard_time": 1680151534,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 129695,
+        "num": 129695,
+        "word": "熊猫生气有多可爱",
+        "onboard_time": 1680150689,
+        "rank": 37,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 127634,
+        "num": 127634,
+        "word": "看来狗狗也不想打工",
+        "onboard_time": 1680161006,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 40583,
+        "num": 122663,
+        "word": "我们为什么重上蓝天",
+        "onboard_time": 1680159628,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120656,
+        "num": 120656,
+        "word": "一等战功团授装仪式过于震撼",
+        "onboard_time": 1680160828,
+        "rank": 40,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 117133,
+        "num": 117133,
+        "word": "库克现身米哈游总部",
+        "onboard_time": 1680144866,
+        "rank": 41,
+        "category": "游戏,科技"
+      },
+      {
+        "raw_hot": 113251,
+        "num": 113251,
+        "word": "王宝钏看了都得送巧珍两筐野菜",
+        "onboard_time": 1680149010,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 109003,
+        "num": 109003,
+        "word": "尹净汉是seventeen战地记者吧",
+        "onboard_time": 1680156265,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 108596,
+        "num": 108596,
+        "word": "当你以为自己对某人很特殊",
+        "onboard_time": 1680154765,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 105828,
+        "num": 105828,
+        "word": "以色列",
+        "onboard_time": 1680161427,
+        "rank": 45,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 104063,
+        "num": 104063,
+        "word": "毛不易演唱会",
+        "onboard_time": 1680157887,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 98982,
+        "num": 98982,
+        "word": "连淮伟帮李俊濠介绍工作",
+        "onboard_time": 1680160105,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98865,
+        "num": 98865,
+        "word": "女生校企实习被性侵已立案",
+        "onboard_time": 1680159328,
+        "rank": 48,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 88239,
+        "num": 88239,
+        "word": "易烊千玺智族GQ四字封面",
+        "onboard_time": 1680150511,
+        "rank": 49,
+        "category": "作品衍生,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#第十届中国网络视听大会#"
+    }
+  }
+}
