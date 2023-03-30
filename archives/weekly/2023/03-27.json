@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1680182863344,
+  "endTime": 1680183499739,
   "band_list": [
     {
       "raw_hot": 12970403,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 2898452,
-      "num": 373633,
+      "num": 416083,
       "word": "赵丽颖剪短发了",
       "onboard_time": 1680180390,
       "rank": 12,
@@ -971,6 +971,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 972618,
+      "num": 415985,
+      "word": "包贝尔女儿近照",
+      "onboard_time": 1680181410,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 958600,
       "num": 958600,
       "word": "北京语言大学发声明",
@@ -1217,14 +1225,6 @@
       "onboard_time": 1679887411,
       "rank": 4,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 825375,
-      "num": 365002,
-      "word": "包贝尔女儿近照",
-      "onboard_time": 1680181410,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 823509,
@@ -1675,6 +1675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 644889,
+      "num": 644889,
+      "word": "怪异君",
+      "onboard_time": 1680182011,
+      "rank": 5,
+      "category": "网红"
+    },
+    {
       "raw_hot": 643856,
       "num": 643856,
       "word": "阿里设立六大业务集团",
@@ -1769,14 +1777,6 @@
       "onboard_time": 1680149309,
       "rank": 32,
       "category": "社会新闻,美妆"
-    },
-    {
-      "raw_hot": 623580,
-      "num": 623580,
-      "word": "怪异君",
-      "onboard_time": 1680182011,
-      "rank": 5,
-      "category": "网红"
     },
     {
       "raw_hot": 616867,
@@ -2323,6 +2323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 512186,
+      "num": 512186,
+      "word": "张杰天天想你获奖",
+      "onboard_time": 1680182370,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 511098,
       "num": 511098,
       "word": "汽车雷达在无人陵园内显示全是人影",
@@ -2401,14 +2409,6 @@
       "onboard_time": 1679902651,
       "rank": 15,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 492929,
-      "num": 492929,
-      "word": "张杰天天想你获奖",
-      "onboard_time": 1680182370,
-      "rank": 8,
-      "category": "音乐"
     },
     {
       "raw_hot": 492851,
@@ -2851,6 +2851,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 425581,
+      "num": 425581,
+      "word": "导演李玉刚首部电影开机",
+      "onboard_time": 1680182068,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 424928,
       "num": 236293,
       "word": "女生同情老人买5西瓜切开发现全坏",
@@ -2929,6 +2937,14 @@
       "onboard_time": 1680171087,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 416095,
+      "num": 416095,
+      "word": "那我长大了还管谁叫爷爷",
+      "onboard_time": 1680180447,
+      "rank": 14,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 415772,
@@ -3171,6 +3187,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 389088,
+      "num": 389088,
+      "word": "谢娜问粉丝我生图很厉害吧",
+      "onboard_time": 1680182068,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 388454,
       "num": 388454,
       "word": "咖啡越做越离谱",
@@ -3403,14 +3427,6 @@
       "category": "艺人,综艺"
     },
     {
-      "raw_hot": 360492,
-      "num": 360492,
-      "word": "那我长大了还管谁叫爷爷",
-      "onboard_time": 1680180447,
-      "rank": 14,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 360022,
       "num": 277804,
       "word": "唐艺昕白裙",
@@ -3425,14 +3441,6 @@
       "onboard_time": 1680139346,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 357038,
-      "num": 357038,
-      "word": "谢娜问粉丝我生图很厉害吧",
-      "onboard_time": 1680182068,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 356619,
@@ -4595,6 +4603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 257310,
+      "num": 257310,
+      "word": "内娱小白花天花板",
+      "onboard_time": 1680183090,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 257147,
       "num": 257147,
       "word": "蔡徐坤的胸针",
@@ -4785,6 +4801,14 @@
       "onboard_time": 1679883690,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 243797,
+      "num": 243797,
+      "word": "全球男性精子量告急",
+      "onboard_time": 1680182550,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 242925,
@@ -5043,6 +5067,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 226905,
+      "num": 226905,
+      "word": "陈幸同女单夺冠",
+      "onboard_time": 1680182190,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 226490,
       "num": 226490,
       "word": "INTO1出发泰国演唱会机场路透",
@@ -5113,6 +5145,14 @@
       "onboard_time": 1680075454,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223680,
+      "num": 223680,
+      "word": "RNG晋级下一轮",
+      "onboard_time": 1680181468,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 223313,
@@ -5419,14 +5459,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 210746,
-      "num": 210746,
-      "word": "导演李玉刚首部电影开机",
-      "onboard_time": 1680182068,
-      "rank": 29,
-      "category": "影视"
-    },
-    {
       "raw_hot": 210486,
       "num": 210486,
       "word": "呼吁暂停训练比GPT4更强大的AI系统",
@@ -5611,14 +5643,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 204832,
-      "num": 204832,
-      "word": "RNG晋级下一轮",
-      "onboard_time": 1680181468,
-      "rank": 32,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 204429,
       "num": 204429,
       "word": "青岛凤凰音乐节",
@@ -5747,14 +5771,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 200788,
-      "num": 200788,
-      "word": "陈幸同女单夺冠",
-      "onboard_time": 1680182190,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 200755,
       "num": 200755,
       "word": "宋亚轩黄色短袖车内视频",
@@ -5785,6 +5801,14 @@
       "onboard_time": 1680081508,
       "rank": 27,
       "category": "科技"
+    },
+    {
+      "raw_hot": 199914,
+      "num": 199914,
+      "word": "声生不息宝岛季下期有于文文",
+      "onboard_time": 1680182908,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 199904,
@@ -7835,14 +7859,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 126515,
-      "num": 126515,
-      "word": "全球男性精子量告急",
-      "onboard_time": 1680182550,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 126479,
       "num": 126479,
       "word": "第五人格",
@@ -7960,6 +7976,14 @@
       "word": "当学校里出现跳格子",
       "onboard_time": 1680012691,
       "rank": 42,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 122844,
+      "num": 122844,
+      "word": "猫夺走了新郎的风头",
+      "onboard_time": 1680182729,
+      "rank": 49,
       "category": "幽默"
     },
     {
@@ -8361,14 +8385,6 @@
       "onboard_time": 1680142946,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 105957,
-      "num": 105957,
-      "word": "猫夺走了新郎的风头",
-      "onboard_time": 1680182729,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 105674,
