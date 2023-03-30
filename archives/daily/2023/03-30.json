@@ -1,6 +1,6 @@
 {
   "startTime": 1680110195849,
-  "endTime": 1680179757645,
+  "endTime": 1680180809666,
   "band_list": [
     {
       "raw_hot": 2662463,
@@ -275,6 +275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 787354,
+      "num": 787354,
+      "word": "金洋道歉",
+      "onboard_time": 1680178346,
+      "rank": 3,
+      "category": "网红"
+    },
+    {
       "raw_hot": 774557,
       "num": 376626,
       "word": "高叶被夸头骨",
@@ -331,6 +339,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 723799,
+      "num": 723799,
+      "word": "存多少钱才算有安全感",
+      "onboard_time": 1680178167,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
       "raw_hot": 705434,
       "num": 705434,
       "word": "张译录制清华大学问候视频",
@@ -379,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 644926,
+      "num": 368351,
+      "word": "赵丽颖剪短发了",
+      "onboard_time": 1680180390,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 642953,
       "num": 642953,
       "word": "狐妖小红娘",
@@ -419,22 +443,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 594930,
-      "num": 594930,
-      "word": "金洋道歉",
-      "onboard_time": 1680178346,
-      "rank": 3,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 589272,
-      "num": 589272,
-      "word": "存多少钱才算有安全感",
-      "onboard_time": 1680178167,
-      "rank": 4,
-      "category": "情感"
-    },
-    {
       "raw_hot": 588556,
       "num": 588556,
       "word": "客服回应张小泉斩骨刀斩不了骨",
@@ -473,6 +481,14 @@
       "onboard_time": 1680165507,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 552418,
+      "num": 552418,
+      "word": "陈幸同 王艺迪",
+      "onboard_time": 1680179847,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 546377,
@@ -537,6 +553,14 @@
       "onboard_time": 1680147927,
       "rank": 9,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 507635,
+      "num": 507635,
+      "word": "马嘉祺两首歌都入选最佳金曲",
+      "onboard_time": 1680179668,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 507191,
@@ -627,6 +651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 454575,
+      "num": 234022,
+      "word": "男子生前借亲戚534万去世后被赖账",
+      "onboard_time": 1680176966,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 448191,
       "num": 380602,
       "word": "宋佳朴彩英同框自拍",
@@ -640,14 +672,6 @@
       "word": "雪豹照镜子被自己颜值惊呆了",
       "onboard_time": 1680136169,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 434251,
-      "num": 217012,
-      "word": "男子生前借亲戚534万去世后被赖账",
-      "onboard_time": 1680176966,
-      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -673,6 +697,14 @@
       "onboard_time": 1680145466,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 421432,
+      "num": 421432,
+      "word": "李小冉红毯生图",
+      "onboard_time": 1680177268,
+      "rank": 8,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 419565,
@@ -787,14 +819,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 371183,
-      "num": 371183,
-      "word": "李小冉红毯生图",
-      "onboard_time": 1680177268,
-      "rank": 8,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 359239,
       "num": 359239,
       "word": "威少",
@@ -851,14 +875,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 335042,
-      "num": 335042,
-      "word": "马嘉祺两首歌都入选最佳金曲",
-      "onboard_time": 1680179668,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 334394,
       "num": 334394,
       "word": "秋瓷炫初舞台或将唱无法原谅",
@@ -873,6 +889,14 @@
       "onboard_time": 1680160046,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 324162,
+      "num": 203166,
+      "word": "魅族20",
+      "onboard_time": 1680180689,
+      "rank": 30,
+      "category": "科技"
     },
     {
       "raw_hot": 321663,
@@ -1187,6 +1211,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 220010,
+      "num": 220010,
+      "word": "金泰妍丸子头造型",
+      "onboard_time": 1680180689,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 219002,
       "num": 219002,
       "word": "公益林 商业林",
@@ -1203,12 +1235,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 217449,
+      "num": 217449,
+      "word": "领克",
+      "onboard_time": 1680179668,
+      "rank": 49,
+      "category": "科技"
+    },
+    {
       "raw_hot": 214015,
       "num": 214015,
       "word": "娜扎浓颜素妆大片",
       "onboard_time": 1680158546,
       "rank": 25,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 211254,
+      "num": 202971,
+      "word": "宋三川的主线任务",
+      "onboard_time": 1680179728,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 211250,
@@ -1331,6 +1379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 200755,
+      "num": 200755,
+      "word": "宋亚轩黄色短袖车内视频",
+      "onboard_time": 1680179728,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199365,
       "num": 199365,
       "word": "不良人",
@@ -1363,14 +1419,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 194402,
-      "num": 194402,
-      "word": "宋三川的主线任务",
-      "onboard_time": 1680179728,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 194159,
       "num": 194159,
       "word": "东盟国家欲弃美元转用本币结算",
@@ -1385,6 +1433,14 @@
       "onboard_time": 1680179369,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 192812,
+      "num": 192812,
+      "word": "周雨彤郑希怡对手戏",
+      "onboard_time": 1680180147,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 192053,
@@ -1441,14 +1497,6 @@
       "onboard_time": 1680163887,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 187668,
-      "num": 187668,
-      "word": "宋亚轩黄色短袖车内视频",
-      "onboard_time": 1680179728,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 187255,
@@ -1561,6 +1609,14 @@
       "onboard_time": 1680143906,
       "rank": 28,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 169958,
+      "num": 169958,
+      "word": "了不起的夜晚",
+      "onboard_time": 1680179847,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 169452,
@@ -1747,6 +1803,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 145684,
+      "num": 151465,
+      "word": "是谁在上班倒贴钱",
+      "onboard_time": 1680177568,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 142478,
       "num": 142478,
       "word": "归路",
@@ -1809,6 +1873,14 @@
       "onboard_time": 1680174029,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 137492,
+      "num": 137492,
+      "word": "招惹",
+      "onboard_time": 1680180567,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 134950,
@@ -1889,6 +1961,14 @@
       "onboard_time": 1680159328,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 126661,
+      "num": 126661,
+      "word": "朴智旻新歌LikeCrazy获MCD一位",
+      "onboard_time": 1680180328,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 126544,
@@ -1979,14 +2059,6 @@
       "category": "情感,教育"
     },
     {
-      "raw_hot": 120949,
-      "num": 151465,
-      "word": "是谁在上班倒贴钱",
-      "onboard_time": 1680177568,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 120207,
       "num": 109660,
       "word": "刘宪华 南京",
@@ -2019,14 +2091,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 113410,
-      "num": 113410,
-      "word": "领克",
-      "onboard_time": 1680179668,
-      "rank": 49,
-      "category": "科技"
-    },
-    {
       "raw_hot": 113370,
       "num": 113370,
       "word": "童瑶背后红花造型",
@@ -2041,6 +2105,14 @@
       "onboard_time": 1680135807,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 111673,
+      "num": 111673,
+      "word": "爱能止痛",
+      "onboard_time": 1680180147,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 110546,

@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1680179757645,
+  "endTime": 1680180809666,
   "band_list": [
     {
       "raw_hot": 27113842,
@@ -10515,6 +10515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 787354,
+      "num": 787354,
+      "word": "金洋道歉",
+      "onboard_time": 1680178346,
+      "rank": 3,
+      "category": "网红"
+    },
+    {
       "raw_hot": 786941,
       "num": 408687,
       "word": "金智秀 solo出道",
@@ -11833,6 +11841,14 @@
       "onboard_time": 1679040988,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 723799,
+      "num": 723799,
+      "word": "存多少钱才算有安全感",
+      "onboard_time": 1680178167,
+      "rank": 4,
+      "category": "情感"
     },
     {
       "raw_hot": 723768,
@@ -13819,6 +13835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 644926,
+      "num": 368351,
+      "word": "赵丽颖剪短发了",
+      "onboard_time": 1680180390,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 644787,
       "num": 644787,
       "word": "秒回是很喜欢一个人的表现吗",
@@ -15363,14 +15387,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 594930,
-      "num": 594930,
-      "word": "金洋道歉",
-      "onboard_time": 1680178346,
-      "rank": 3,
-      "category": "网红"
-    },
-    {
       "raw_hot": 594659,
       "num": 251899,
       "word": "青你选手徐炳超卖包子",
@@ -15568,14 +15584,6 @@
       "word": "社会的边角料 妈妈的小骄傲",
       "onboard_time": 1679986527,
       "rank": 26,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 589272,
-      "num": 589272,
-      "word": "存多少钱才算有安全感",
-      "onboard_time": 1680178167,
-      "rank": 4,
       "category": "情感"
     },
     {
@@ -16937,6 +16945,14 @@
       "onboard_time": 1677758970,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 552418,
+      "num": 552418,
+      "word": "陈幸同 王艺迪",
+      "onboard_time": 1680179847,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 552158,
@@ -18721,6 +18737,14 @@
       "onboard_time": 1678196908,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 507635,
+      "num": 507635,
+      "word": "马嘉祺两首歌都入选最佳金曲",
+      "onboard_time": 1680179668,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 507573,
@@ -21179,6 +21203,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 454575,
+      "num": 234022,
+      "word": "男子生前借亲戚534万去世后被赖账",
+      "onboard_time": 1680176966,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 454305,
       "num": 391046,
       "word": "郑州一大学老师撞脸高启盛",
@@ -22083,14 +22115,6 @@
       "category": "情感,网红"
     },
     {
-      "raw_hot": 434251,
-      "num": 217012,
-      "word": "男子生前借亲戚534万去世后被赖账",
-      "onboard_time": 1680176966,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 434203,
       "num": 344340,
       "word": "郑秀妍Fly舞台",
@@ -22769,6 +22793,14 @@
       "onboard_time": 1679568568,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 421432,
+      "num": 421432,
+      "word": "李小冉红毯生图",
+      "onboard_time": 1680177268,
+      "rank": 8,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 421385,
@@ -25579,14 +25611,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 371183,
-      "num": 371183,
-      "word": "李小冉红毯生图",
-      "onboard_time": 1680177268,
-      "rank": 8,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 371179,
       "num": 371179,
       "word": "樊振东连续三年世界排名第一",
@@ -28035,14 +28059,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 335042,
-      "num": 335042,
-      "word": "马嘉祺两首歌都入选最佳金曲",
-      "onboard_time": 1680179668,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 335032,
       "num": 335032,
       "word": "TES三连败",
@@ -28801,6 +28817,14 @@
       "onboard_time": 1679905293,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 324162,
+      "num": 203166,
+      "word": "魅族20",
+      "onboard_time": 1678082188,
+      "rank": 31,
+      "category": "科技"
     },
     {
       "raw_hot": 323776,
@@ -38515,6 +38539,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 220010,
+      "num": 220010,
+      "word": "金泰妍丸子头造型",
+      "onboard_time": 1680180689,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 219816,
       "num": 219816,
       "word": "檀健次模仿疯驴子",
@@ -38825,6 +38857,14 @@
       "onboard_time": 1679712987,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 217449,
+      "num": 217449,
+      "word": "领克",
+      "onboard_time": 1680179668,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 217343,
@@ -39585,6 +39625,14 @@
       "onboard_time": 1678451367,
       "rank": 30,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 211254,
+      "num": 202971,
+      "word": "宋三川的主线任务",
+      "onboard_time": 1680179728,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 211250,
@@ -42027,6 +42075,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 200755,
+      "num": 200755,
+      "word": "宋亚轩黄色短袖车内视频",
+      "onboard_time": 1680179728,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200742,
       "num": 200742,
       "word": "Fly登场KPL六周年",
@@ -43739,14 +43795,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 194402,
-      "num": 194402,
-      "word": "宋三川的主线任务",
-      "onboard_time": 1680179728,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 194340,
       "num": 194340,
       "word": "XYG战胜RNGM",
@@ -44200,6 +44248,14 @@
       "word": "星落养花结局好应景",
       "onboard_time": 1678538608,
       "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 192812,
+      "num": 192812,
+      "word": "周雨彤郑希怡对手戏",
+      "onboard_time": 1680180147,
+      "rank": 33,
       "category": "影视"
     },
     {
@@ -45329,14 +45385,6 @@
       "onboard_time": 1679231490,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 187668,
-      "num": 187668,
-      "word": "宋亚轩黄色短袖车内视频",
-      "onboard_time": 1680179728,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 187651,
@@ -48497,14 +48545,6 @@
       "onboard_time": 1678017268,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 167814,
-      "num": 167814,
-      "word": "魅族20",
-      "onboard_time": 1678082188,
-      "rank": 31,
-      "category": "科技"
     },
     {
       "raw_hot": 167787,
@@ -51843,6 +51883,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 145684,
+      "num": 151465,
+      "word": "是谁在上班倒贴钱",
+      "onboard_time": 1680177568,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 145636,
       "num": 145636,
       "word": "狼队对战KSG",
@@ -53136,6 +53184,14 @@
       "word": "奥本海默时长约三个小时",
       "onboard_time": 1679723250,
       "rank": 38,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 137492,
+      "num": 137492,
+      "word": "招惹",
+      "onboard_time": 1680180567,
+      "rank": 42,
       "category": "影视"
     },
     {
@@ -54899,6 +54955,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 126661,
+      "num": 126661,
+      "word": "朴智旻新歌LikeCrazy获MCD一位",
+      "onboard_time": 1680180328,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 126652,
       "num": 126652,
       "word": "央视妇女节系列行动",
@@ -55737,14 +55801,6 @@
       "onboard_time": 1679184803,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 120949,
-      "num": 151465,
-      "word": "是谁在上班倒贴钱",
-      "onboard_time": 1680177568,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 120932,
@@ -56715,14 +56771,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 113410,
-      "num": 113410,
-      "word": "领克",
-      "onboard_time": 1680179668,
-      "rank": 49,
-      "category": "科技"
-    },
-    {
       "raw_hot": 113408,
       "num": 217991,
       "word": "苏玖儿吐血",
@@ -56873,6 +56921,14 @@
       "onboard_time": 1678091064,
       "rank": 43,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 111673,
+      "num": 111673,
+      "word": "爱能止痛",
+      "onboard_time": 1680180147,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 111665,

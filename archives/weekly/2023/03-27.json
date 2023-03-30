@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1680179757645,
+  "endTime": 1680180809666,
   "band_list": [
     {
       "raw_hot": 12970403,
@@ -1299,6 +1299,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 787354,
+      "num": 787354,
+      "word": "金洋道歉",
+      "onboard_time": 1680178346,
+      "rank": 3,
+      "category": "网红"
+    },
+    {
       "raw_hot": 786526,
       "num": 450510,
       "word": "吴镇宇想见到费曼的办法",
@@ -1433,6 +1441,14 @@
       "onboard_time": 1679903191,
       "rank": 17,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 723799,
+      "num": 723799,
+      "word": "存多少钱才算有安全感",
+      "onboard_time": 1680178167,
+      "rank": 4,
+      "category": "情感"
     },
     {
       "raw_hot": 723768,
@@ -1633,6 +1649,14 @@
       "onboard_time": 1680103048,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 644926,
+      "num": 368351,
+      "word": "赵丽颖剪短发了",
+      "onboard_time": 1680180390,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 643856,
@@ -1859,14 +1883,6 @@
       "category": "艺人,财经"
     },
     {
-      "raw_hot": 594930,
-      "num": 594930,
-      "word": "金洋道歉",
-      "onboard_time": 1680178346,
-      "rank": 3,
-      "category": "网红"
-    },
-    {
       "raw_hot": 594041,
       "num": 208308,
       "word": "田曦薇的手臂线条",
@@ -1912,14 +1928,6 @@
       "word": "社会的边角料 妈妈的小骄傲",
       "onboard_time": 1679986527,
       "rank": 26,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 589272,
-      "num": 589272,
-      "word": "存多少钱才算有安全感",
-      "onboard_time": 1680178167,
-      "rank": 4,
       "category": "情感"
     },
     {
@@ -2105,6 +2113,14 @@
       "onboard_time": 1680165507,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 552418,
+      "num": 552418,
+      "word": "陈幸同 王艺迪",
+      "onboard_time": 1680179847,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 547805,
@@ -2305,6 +2321,14 @@
       "onboard_time": 1680063510,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 507635,
+      "num": 507635,
+      "word": "马嘉祺两首歌都入选最佳金曲",
+      "onboard_time": 1680179668,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 507191,
@@ -2643,6 +2667,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 454575,
+      "num": 234022,
+      "word": "男子生前借亲戚534万去世后被赖账",
+      "onboard_time": 1680176966,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 453140,
       "num": 453140,
       "word": "TangoZ权志龙人形立牌红毯同框",
@@ -2731,14 +2763,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 434251,
-      "num": 217012,
-      "word": "男子生前借亲戚534万去世后被赖账",
-      "onboard_time": 1680176966,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 432204,
       "num": 432204,
       "word": "杨颖宋雨琦奔跑吧路透",
@@ -2817,6 +2841,14 @@
       "onboard_time": 1680145466,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 421432,
+      "num": 421432,
+      "word": "李小冉红毯生图",
+      "onboard_time": 1680177268,
+      "rank": 8,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 421385,
@@ -3291,14 +3323,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 371183,
-      "num": 371183,
-      "word": "李小冉红毯生图",
-      "onboard_time": 1680177268,
-      "rank": 8,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 371179,
       "num": 371179,
       "word": "樊振东连续三年世界排名第一",
@@ -3571,14 +3595,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 335042,
-      "num": 335042,
-      "word": "马嘉祺两首歌都入选最佳金曲",
-      "onboard_time": 1680179668,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 334413,
       "num": 234581,
       "word": "孙亦航晒与薛之谦合照",
@@ -3689,6 +3705,14 @@
       "onboard_time": 1679905293,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 324162,
+      "num": 203166,
+      "word": "魅族20",
+      "onboard_time": 1680180689,
+      "rank": 30,
+      "category": "科技"
     },
     {
       "raw_hot": 323776,
@@ -5131,6 +5155,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 220010,
+      "num": 220010,
+      "word": "金泰妍丸子头造型",
+      "onboard_time": 1680180689,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 219002,
       "num": 219002,
       "word": "公益林 商业林",
@@ -5177,6 +5209,14 @@
       "onboard_time": 1680054805,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 217449,
+      "num": 217449,
+      "word": "领克",
+      "onboard_time": 1680179668,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 217207,
@@ -5281,6 +5321,14 @@
       "onboard_time": 1680073106,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 211254,
+      "num": 202971,
+      "word": "宋三川的主线任务",
+      "onboard_time": 1680179728,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 211250,
@@ -5635,6 +5683,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 200755,
+      "num": 200755,
+      "word": "宋亚轩黄色短袖车内视频",
+      "onboard_time": 1680179728,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200521,
       "num": 200521,
       "word": "爱情而已片头的标题和照片",
@@ -5907,14 +5963,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 194402,
-      "num": 194402,
-      "word": "宋三川的主线任务",
-      "onboard_time": 1680179728,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 194340,
       "num": 194340,
       "word": "XYG战胜RNGM",
@@ -5969,6 +6017,14 @@
       "onboard_time": 1679881466,
       "rank": 44,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 192812,
+      "num": 192812,
+      "word": "周雨彤郑希怡对手戏",
+      "onboard_time": 1680180147,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 192124,
@@ -6137,14 +6193,6 @@
       "onboard_time": 1680007407,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 187668,
-      "num": 187668,
-      "word": "宋亚轩黄色短袖车内视频",
-      "onboard_time": 1680179728,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 187304,
@@ -6601,6 +6649,14 @@
       "onboard_time": 1680017609,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 169958,
+      "num": 169958,
+      "word": "了不起的夜晚",
+      "onboard_time": 1680179847,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 169855,
@@ -7163,6 +7219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 145684,
+      "num": 151465,
+      "word": "是谁在上班倒贴钱",
+      "onboard_time": 1680177568,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 145287,
       "num": 145287,
       "word": "裸辞之后会变得更好吗",
@@ -7385,6 +7449,14 @@
       "onboard_time": 1679844746,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 137492,
+      "num": 137492,
+      "word": "招惹",
+      "onboard_time": 1680180567,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 137481,
@@ -7651,6 +7723,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 126661,
+      "num": 126661,
+      "word": "朴智旻新歌LikeCrazy获MCD一位",
+      "onboard_time": 1680180328,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 126544,
       "num": 126544,
       "word": "光与夜之恋",
@@ -7819,14 +7899,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 120949,
-      "num": 151465,
-      "word": "是谁在上班倒贴钱",
-      "onboard_time": 1680177568,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 120932,
       "num": 120932,
       "word": "老朋友是用来说废话的",
@@ -7987,14 +8059,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 113410,
-      "num": 113410,
-      "word": "领克",
-      "onboard_time": 1680179668,
-      "rank": 49,
-      "category": "科技"
-    },
-    {
       "raw_hot": 113370,
       "num": 113370,
       "word": "童瑶背后红花造型",
@@ -8033,6 +8097,14 @@
       "onboard_time": 1679833948,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 111673,
+      "num": 111673,
+      "word": "爱能止痛",
+      "onboard_time": 1680180147,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 111521,
