@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1680210879136,
+  "endTime": 1680212003918,
   "band_list": [
     {
       "raw_hot": 12970403,
@@ -9475,20 +9475,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 26433,
+      "num": 26433,
+      "word": "中国说唱巅峰对决",
+      "onboard_time": 1680208031,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 26334,
       "num": 26334,
       "word": "人间昆虫记",
       "onboard_time": 1680121332,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 26124,
-      "num": 26124,
-      "word": "中国说唱巅峰对决",
-      "onboard_time": 1680208031,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 12578,
