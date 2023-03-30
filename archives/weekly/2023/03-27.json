@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1680194476569,
+  "endTime": 1680196548780,
   "band_list": [
     {
       "raw_hot": 12970403,
@@ -6067,6 +6067,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 199122,
+      "num": 199122,
+      "word": "华晨宇演唱会舞台",
+      "onboard_time": 1680195499,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 198472,
       "num": 198472,
       "word": "90年代刑警办案有多难",
@@ -8019,20 +8027,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 130967,
+      "num": 130967,
+      "word": "带着行李箱办离职",
+      "onboard_time": 1680192563,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 130666,
       "num": 130666,
       "word": "宋亚轩跟雷佳音马丽打招呼",
       "onboard_time": 1679842049,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 130326,
-      "num": 130326,
-      "word": "带着行李箱办离职",
-      "onboard_time": 1680192563,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 129913,
@@ -9425,6 +9433,14 @@
       "onboard_time": 1679986886,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 38179,
+      "num": 44805,
+      "word": "治沙",
+      "onboard_time": 1680097109,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 35100,
