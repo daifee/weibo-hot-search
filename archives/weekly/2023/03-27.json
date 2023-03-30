@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1680164569101,
+  "endTime": 1680165389893,
   "band_list": [
     {
       "raw_hot": 12970403,
@@ -515,6 +515,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1363371,
+      "num": 1363371,
+      "word": "肖战张艺兴王源陈伟霆MV视频",
+      "onboard_time": 1680164548,
+      "rank": 1,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1335492,
       "num": 1200850,
       "word": "庞博用ChatGPT背调杨迪",
@@ -529,6 +537,14 @@
       "onboard_time": 1680001468,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1321156,
+      "num": 1321156,
+      "word": "江西20岁女大学生确认自杀",
+      "onboard_time": 1680164007,
+      "rank": 5,
+      "category": "社会负面"
     },
     {
       "raw_hot": 1315741,
@@ -947,6 +963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 925250,
+      "num": 925250,
+      "word": "张若昀长发像唐艺昕",
+      "onboard_time": 1680161128,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 914633,
       "num": 914633,
       "word": "长月烬明",
@@ -1195,14 +1219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 799795,
-      "num": 799795,
-      "word": "肖战张艺兴王源陈伟霆MV视频",
-      "onboard_time": 1680164548,
-      "rank": 1,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 799617,
       "num": 799617,
       "word": "秦岚保剑锋时隔十一年再合作",
@@ -1248,14 +1264,6 @@
       "word": "苏醒录跑男把膝盖扭了",
       "onboard_time": 1680049109,
       "rank": 3,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 767666,
-      "num": 767666,
-      "word": "张若昀长发像唐艺昕",
-      "onboard_time": 1680161128,
-      "rank": 18,
       "category": "综艺"
     },
     {
@@ -1451,12 +1459,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 692423,
+      "num": 692423,
+      "word": "范志毅",
+      "onboard_time": 1680163767,
+      "rank": 19,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 689674,
       "num": 689674,
       "word": "保安已经当得不想离职了",
       "onboard_time": 1679891199,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 686789,
+      "num": 407602,
+      "word": "嗯哼做电摇动作",
+      "onboard_time": 1680162387,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 682208,
@@ -1643,14 +1667,6 @@
       "category": "社会新闻,美妆"
     },
     {
-      "raw_hot": 618563,
-      "num": 405688,
-      "word": "嗯哼做电摇动作",
-      "onboard_time": 1680162387,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 616867,
       "num": 484615,
       "word": "肖战黑色大衣看展随拍",
@@ -1753,14 +1769,6 @@
       "onboard_time": 1680055465,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 602553,
-      "num": 602553,
-      "word": "江西20岁女大学生确认自杀",
-      "onboard_time": 1680164007,
-      "rank": 5,
-      "category": "社会负面"
     },
     {
       "raw_hot": 599194,
@@ -2009,6 +2017,14 @@
       "onboard_time": 1679916571,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 546377,
+      "num": 546377,
+      "word": "易烊千玺黑背心",
+      "onboard_time": 1680164548,
+      "rank": 7,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 541362,
@@ -2323,6 +2339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 476764,
+      "num": 407290,
+      "word": "杨幂说现在对谈恋爱没兴趣",
+      "onboard_time": 1680164486,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 476408,
       "num": 476408,
       "word": "赵露思雨中撑伞视频",
@@ -2427,12 +2451,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 459573,
-      "num": 459573,
-      "word": "易烊千玺黑背心",
-      "onboard_time": 1680164548,
-      "rank": 7,
-      "category": "作品衍生,时尚"
+      "raw_hot": 459715,
+      "num": 275265,
+      "word": "十种不可忽视的癌症征兆",
+      "onboard_time": 1680163467,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 458842,
@@ -2755,6 +2779,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 404328,
+      "num": 404328,
+      "word": "孙继海",
+      "onboard_time": 1680162146,
+      "rank": 18,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 404192,
       "num": 404192,
       "word": "跪求供水事件协商暂无进展",
@@ -3059,6 +3091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 373859,
+      "num": 373859,
+      "word": "原著里的巧珍",
+      "onboard_time": 1680162626,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 373093,
       "num": 373093,
       "word": "网剧招惹",
@@ -3073,14 +3113,6 @@
       "onboard_time": 1679968768,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 370289,
-      "num": 370289,
-      "word": "原著里的巧珍",
-      "onboard_time": 1680162626,
-      "rank": 16,
-      "category": "影视"
     },
     {
       "raw_hot": 368959,
@@ -3281,14 +3313,6 @@
       "onboard_time": 1680014188,
       "rank": 8,
       "category": "影视"
-    },
-    {
-      "raw_hot": 339835,
-      "num": 339835,
-      "word": "孙继海",
-      "onboard_time": 1680162146,
-      "rank": 18,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 339084,
@@ -3625,14 +3649,6 @@
       "onboard_time": 1679998890,
       "rank": 34,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 302812,
-      "num": 302812,
-      "word": "范志毅",
-      "onboard_time": 1680163767,
-      "rank": 19,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 302094,
@@ -4019,6 +4035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 276748,
+      "num": 276748,
+      "word": "以色列突袭邻国首都",
+      "onboard_time": 1680164127,
+      "rank": 26,
+      "category": "军事,国外要闻"
+    },
+    {
       "raw_hot": 275718,
       "num": 275718,
       "word": "熊猫生气有多可爱",
@@ -4225,14 +4249,6 @@
       "onboard_time": 1680064533,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 259534,
-      "num": 259534,
-      "word": "十种不可忽视的癌症征兆",
-      "onboard_time": 1680163467,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 259172,
@@ -4787,6 +4803,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 223237,
+      "num": 223237,
+      "word": "联合国教科文组织推荐肖战同款风景",
+      "onboard_time": 1680163585,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 222679,
       "num": 222679,
       "word": "彭小苒捂脸哭戏",
@@ -4841,14 +4865,6 @@
       "onboard_time": 1679848940,
       "rank": 10,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 219809,
-      "num": 219809,
-      "word": "以色列突袭邻国首都",
-      "onboard_time": 1680164127,
-      "rank": 26,
-      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 219002,
@@ -5627,6 +5643,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 191819,
+      "num": 191819,
+      "word": "23种因素易诱发癌症",
+      "onboard_time": 1680164608,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191615,
       "num": 191615,
       "word": "王鹤棣直播",
@@ -5681,14 +5705,6 @@
       "onboard_time": 1679846424,
       "rank": 35,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 189721,
-      "num": 186918,
-      "word": "联合国教科文组织推荐肖战同款风景",
-      "onboard_time": 1680163585,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 189662,
@@ -6137,14 +6153,6 @@
       "onboard_time": 1679882128,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 172337,
-      "num": 172337,
-      "word": "杨幂说现在对谈恋爱没兴趣",
-      "onboard_time": 1680164486,
-      "rank": 34,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 171591,
@@ -6785,6 +6793,14 @@
       "onboard_time": 1680143484,
       "rank": 47,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 141621,
+      "num": 141621,
+      "word": "鹭卓卓沅吵架",
+      "onboard_time": 1680165209,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 141263,
@@ -8236,7 +8252,7 @@
     },
     {
       "raw_hot": 48132,
-      "num": 1217042,
+      "num": 1332127,
       "word": "开局之年看中国县域新发展",
       "onboard_time": 1680148649,
       "rank": 2,

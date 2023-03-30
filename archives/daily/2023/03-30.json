@@ -1,6 +1,6 @@
 {
   "startTime": 1680110195849,
-  "endTime": 1680164569101,
+  "endTime": 1680165389893,
   "band_list": [
     {
       "raw_hot": 2662463,
@@ -83,12 +83,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1363371,
+      "num": 1363371,
+      "word": "肖战张艺兴王源陈伟霆MV视频",
+      "onboard_time": 1680164548,
+      "rank": 1,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1335492,
       "num": 1200850,
       "word": "庞博用ChatGPT背调杨迪",
       "onboard_time": 1680155606,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1321156,
+      "num": 1321156,
+      "word": "江西20岁女大学生确认自杀",
+      "onboard_time": 1680164007,
+      "rank": 5,
+      "category": "社会负面"
     },
     {
       "raw_hot": 1297714,
@@ -147,6 +163,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 925250,
+      "num": 925250,
+      "word": "张若昀长发像唐艺昕",
+      "onboard_time": 1680161128,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 916430,
       "num": 496184,
       "word": "西安被坠楼者砸中男童不治身亡",
@@ -187,14 +211,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 799795,
-      "num": 799795,
-      "word": "肖战张艺兴王源陈伟霆MV视频",
-      "onboard_time": 1680164548,
-      "rank": 1,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 799617,
       "num": 799617,
       "word": "秦岚保剑锋时隔十一年再合作",
@@ -209,14 +225,6 @@
       "onboard_time": 1680159445,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 767666,
-      "num": 767666,
-      "word": "张若昀长发像唐艺昕",
-      "onboard_time": 1680161128,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 755403,
@@ -275,6 +283,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 692423,
+      "num": 692423,
+      "word": "范志毅",
+      "onboard_time": 1680163767,
+      "rank": 19,
+      "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 686789,
+      "num": 407602,
+      "word": "嗯哼做电摇动作",
+      "onboard_time": 1680162387,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 661459,
       "num": 661459,
       "word": "成都火灾",
@@ -323,28 +347,12 @@
       "category": "社会新闻,美妆"
     },
     {
-      "raw_hot": 618563,
-      "num": 405688,
-      "word": "嗯哼做电摇动作",
-      "onboard_time": 1680162387,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 611146,
       "num": 611146,
       "word": "白鹿王鹤棣以爱为营下班视频",
       "onboard_time": 1680158426,
       "rank": 3,
       "category": "影视"
-    },
-    {
-      "raw_hot": 602553,
-      "num": 602553,
-      "word": "江西20岁女大学生确认自杀",
-      "onboard_time": 1680164007,
-      "rank": 5,
-      "category": "社会负面"
     },
     {
       "raw_hot": 588556,
@@ -368,6 +376,14 @@
       "word": "易烊千玺智族GQ四字封面",
       "onboard_time": 1680150511,
       "rank": 9,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 546377,
+      "num": 546377,
+      "word": "易烊千玺黑背心",
+      "onboard_time": 1680164548,
+      "rank": 7,
       "category": "作品衍生,时尚"
     },
     {
@@ -443,6 +459,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 476764,
+      "num": 407290,
+      "word": "杨幂说现在对谈恋爱没兴趣",
+      "onboard_time": 1680164486,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 474586,
       "num": 474586,
       "word": "曹德旺说把资源还给社会也是一种负责",
@@ -459,12 +483,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 459573,
-      "num": 459573,
-      "word": "易烊千玺黑背心",
-      "onboard_time": 1680164548,
-      "rank": 7,
-      "category": "作品衍生,时尚"
+      "raw_hot": 459715,
+      "num": 275265,
+      "word": "十种不可忽视的癌症征兆",
+      "onboard_time": 1680163467,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 456883,
@@ -523,6 +547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 404328,
+      "num": 404328,
+      "word": "孙继海",
+      "onboard_time": 1680162146,
+      "rank": 18,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 400076,
       "num": 400076,
       "word": "上海平均招聘月薪跃居全国榜首",
@@ -547,19 +579,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 373859,
+      "num": 373859,
+      "word": "原著里的巧珍",
+      "onboard_time": 1680162626,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 373093,
       "num": 373093,
       "word": "网剧招惹",
       "onboard_time": 1680156625,
       "rank": 11,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 370289,
-      "num": 370289,
-      "word": "原著里的巧珍",
-      "onboard_time": 1680162626,
-      "rank": 16,
       "category": "影视"
     },
     {
@@ -577,14 +609,6 @@
       "onboard_time": 1680140065,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 339835,
-      "num": 339835,
-      "word": "孙继海",
-      "onboard_time": 1680162146,
-      "rank": 18,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 336824,
@@ -641,14 +665,6 @@
       "onboard_time": 1680144747,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 302812,
-      "num": 302812,
-      "word": "范志毅",
-      "onboard_time": 1680163767,
-      "rank": 19,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 297858,
@@ -723,6 +739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 276748,
+      "num": 276748,
+      "word": "以色列突袭邻国首都",
+      "onboard_time": 1680164127,
+      "rank": 26,
+      "category": "军事,国外要闻"
+    },
+    {
       "raw_hot": 275718,
       "num": 275718,
       "word": "熊猫生气有多可爱",
@@ -745,14 +769,6 @@
       "onboard_time": 1680155250,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 259534,
-      "num": 259534,
-      "word": "十种不可忽视的癌症征兆",
-      "onboard_time": 1680163467,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 259172,
@@ -785,6 +801,14 @@
       "onboard_time": 1680143906,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 253068,
+      "num": 253068,
+      "word": "长月烬明",
+      "onboard_time": 1680164366,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 242712,
@@ -883,20 +907,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 223237,
+      "num": 223237,
+      "word": "联合国教科文组织推荐肖战同款风景",
+      "onboard_time": 1680163585,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 220371,
       "num": 484259,
       "word": "奶茶螺蛳粉是什么梗",
       "onboard_time": 1680144326,
       "rank": 26,
       "category": "美食,幽默"
-    },
-    {
-      "raw_hot": 219809,
-      "num": 219809,
-      "word": "以色列突袭邻国首都",
-      "onboard_time": 1680164127,
-      "rank": 26,
-      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 219002,
@@ -1019,20 +1043,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191819,
+      "num": 191819,
+      "word": "23种因素易诱发癌症",
+      "onboard_time": 1680164608,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190705,
       "num": 190705,
       "word": "当你以为自己对某人很特殊",
       "onboard_time": 1680154765,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 189721,
-      "num": 186918,
-      "word": "联合国教科文组织推荐肖战同款风景",
-      "onboard_time": 1680163585,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 187798,
@@ -1121,14 +1145,6 @@
       "onboard_time": 1680086247,
       "rank": 32,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 172337,
-      "num": 172337,
-      "word": "杨幂说现在对谈恋爱没兴趣",
-      "onboard_time": 1680164486,
-      "rank": 34,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 170723,
@@ -1291,6 +1307,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 141621,
+      "num": 141621,
+      "word": "鹭卓卓沅吵架",
+      "onboard_time": 1680165209,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 139858,
       "num": 139858,
       "word": "落雨灯",
@@ -1328,14 +1352,6 @@
       "word": "周冬雨马思纯同框",
       "onboard_time": 1680101190,
       "rank": 30,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 130390,
-      "num": 130390,
-      "word": "长月烬明",
-      "onboard_time": 1680164366,
-      "rank": 41,
       "category": "影视"
     },
     {
@@ -1740,7 +1756,7 @@
     },
     {
       "raw_hot": 48132,
-      "num": 1217042,
+      "num": 1332127,
       "word": "开局之年看中国县域新发展",
       "onboard_time": 1680148649,
       "rank": 2,
