@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1680240810871,
+  "endTime": 1680243772903,
   "band_list": [
     {
       "raw_hot": 12970403,
@@ -667,6 +667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1313752,
+      "num": 1313752,
+      "word": "all eyes on me",
+      "onboard_time": 1680238767,
+      "rank": 11,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1310964,
       "num": 429307,
       "word": "杨幂说现在对谈恋爱没兴趣",
@@ -969,14 +977,6 @@
       "onboard_time": 1679924071,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1075286,
-      "num": 1075286,
-      "word": "all eyes on me",
-      "onboard_time": 1680238767,
-      "rank": 11,
-      "category": "音乐"
     },
     {
       "raw_hot": 1073849,
@@ -2403,6 +2403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 564483,
+      "num": 564483,
+      "word": "任正非发文重申华为不造车",
+      "onboard_time": 1680242306,
+      "rank": 6,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 563721,
       "num": 563721,
       "word": "朱洁静上海迪士尼现场热舞",
@@ -2857,6 +2865,14 @@
       "onboard_time": 1680231805,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 478182,
+      "num": 478182,
+      "word": "到底谁占了华人的房子",
+      "onboard_time": 1680241946,
+      "rank": 12,
+      "category": "其它"
     },
     {
       "raw_hot": 477858,
@@ -3411,6 +3427,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 412366,
+      "num": 412366,
+      "word": "井柏然的鞋",
+      "onboard_time": 1680241527,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 410418,
       "num": 410418,
       "word": "声生不息",
@@ -3891,6 +3915,14 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 360766,
+      "num": 360766,
+      "word": "易烊千玺杜莎夫人蜡像馆预告",
+      "onboard_time": 1680242185,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 360022,
       "num": 277804,
       "word": "唐艺昕白裙",
@@ -3984,6 +4016,14 @@
       "word": "乙类乙管后的第一个国际医师节",
       "onboard_time": 1680140065,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 349234,
+      "num": 349234,
+      "word": "旅客自带盒饭用高铁微波炉被拒",
+      "onboard_time": 1680239786,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -4651,6 +4691,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 292767,
+      "num": 292767,
+      "word": "范丞丞为戏增肥30斤是自己提的",
+      "onboard_time": 1680241226,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 292556,
       "num": 208959,
       "word": "爱情而已和二十不惑梦幻联动",
@@ -4825,6 +4873,14 @@
       "onboard_time": 1679872159,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 281201,
+      "num": 244432,
+      "word": "田曦薇代言",
+      "onboard_time": 1680243324,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 281166,
@@ -5171,6 +5227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 263040,
+      "num": 263040,
+      "word": "萌兰",
+      "onboard_time": 1680241826,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 262184,
       "num": 262184,
       "word": "王子浩三公",
@@ -5411,6 +5475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 250212,
+      "num": 243751,
+      "word": "王鹤棣录制桃花坞3",
+      "onboard_time": 1680240866,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 248984,
       "num": 248984,
       "word": "狗狗读懂了环卫工人的手势",
@@ -5489,6 +5561,14 @@
       "onboard_time": 1680136709,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 242037,
+      "num": 242037,
+      "word": "丧尸来了都得喊大哥",
+      "onboard_time": 1680240506,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 241968,
@@ -5697,14 +5777,6 @@
       "onboard_time": 1680012389,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 228627,
-      "num": 295812,
-      "word": "旅客自带盒饭用高铁微波炉被拒",
-      "onboard_time": 1680239786,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 228600,
@@ -7083,6 +7155,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 190597,
+      "num": 190597,
+      "word": "压价",
+      "onboard_time": 1680242905,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 190531,
       "num": 190531,
       "word": "宋三川耳朵红了",
@@ -7721,6 +7801,14 @@
       "onboard_time": 1679889759,
       "rank": 29,
       "category": "科技"
+    },
+    {
+      "raw_hot": 172427,
+      "num": 172427,
+      "word": "不婚族晚年生活是什么样子",
+      "onboard_time": 1680243025,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 172392,
@@ -8409,6 +8497,14 @@
       "onboard_time": 1679891322,
       "rank": 47,
       "category": "科技,情感"
+    },
+    {
+      "raw_hot": 147678,
+      "num": 147678,
+      "word": "魏大勋多重身份蝶影收官",
+      "onboard_time": 1680241704,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 147529,
@@ -9115,6 +9211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 126034,
+      "num": 112141,
+      "word": "长歌行播出两周年了",
+      "onboard_time": 1680243563,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 125931,
       "num": 125931,
       "word": "4AM单局15淘汰",
@@ -9145,6 +9249,14 @@
       "onboard_time": 1680170549,
       "rank": 39,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 124777,
+      "num": 111865,
+      "word": "张杰未live巡回演唱会",
+      "onboard_time": 1680240808,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 124774,
@@ -9489,6 +9601,14 @@
       "onboard_time": 1680055706,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 111238,
+      "num": 111238,
+      "word": "伴侣之间应如何沟通交流",
+      "onboard_time": 1680241764,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 110872,
@@ -10017,6 +10137,14 @@
       "onboard_time": 1680053368,
       "rank": 49,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 87250,
+      "num": 94465,
+      "word": "离职的快乐是藏不住的",
+      "onboard_time": 1680242785,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 85662,
