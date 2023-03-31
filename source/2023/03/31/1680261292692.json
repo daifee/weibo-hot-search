@@ -1,0 +1,410 @@
+{
+  "runTime": 1680261292692,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1108411,
+        "num": 1108411,
+        "word": "钟南山称条件允许可不戴口罩",
+        "onboard_time": 1680257544,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1057903,
+        "num": 1057903,
+        "word": "重庆被杀害母亲怀有6个月身孕",
+        "onboard_time": 1680259408,
+        "rank": 1,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 52676,
+        "num": 984487,
+        "word": "带你共享花开烂漫时",
+        "onboard_time": 1680248546,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1407623,
+        "num": 983773,
+        "word": "短指症",
+        "onboard_time": 1680252745,
+        "rank": 3,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 1250829,
+        "num": 983520,
+        "word": "叶一茜说森碟觉得弟弟是最有心机的人",
+        "onboard_time": 1680251306,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 982825,
+        "num": 982825,
+        "word": "孟晚舟称华为向死而生怎么能不成仁",
+        "onboard_time": 1680257246,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 578381,
+        "num": 578381,
+        "word": "不婚族晚年生活是什么样子",
+        "onboard_time": 1680243025,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 498706,
+        "num": 498706,
+        "word": "中国银行原董事长刘连舸被查",
+        "onboard_time": 1680257544,
+        "rank": 7,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 460435,
+        "num": 460435,
+        "word": "警方通报重庆一律师家人被袭身亡",
+        "onboard_time": 1680258987,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 452078,
+        "num": 452078,
+        "word": "任泉王京花企业涉非吸案",
+        "onboard_time": 1680246565,
+        "rank": 9,
+        "category": "财经,艺人"
+      },
+      {
+        "raw_hot": 436168,
+        "num": 436168,
+        "word": "乘风破浪4",
+        "onboard_time": 1680257485,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 377754,
+        "num": 377754,
+        "word": "假性不婚族8个特征",
+        "onboard_time": 1680252986,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354841,
+        "num": 354841,
+        "word": "易烊千玺给网站续约",
+        "onboard_time": 1680249206,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 320808,
+        "num": 320808,
+        "word": "华为2022年净利润356亿",
+        "onboard_time": 1680254124,
+        "rank": 13,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 303240,
+        "num": 303240,
+        "word": "刘浩存新片首映礼哭了",
+        "onboard_time": 1680246446,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 276204,
+        "num": 276204,
+        "word": "周雨彤吴磊VS周雨彤侯明昊",
+        "onboard_time": 1680255085,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 269278,
+        "num": 269278,
+        "word": "成龙建议演员好好在国内发展",
+        "onboard_time": 1680258926,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 242938,
+        "num": 242938,
+        "word": "萌兰 发箍奶爸",
+        "onboard_time": 1680252564,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 204486,
+        "num": 204486,
+        "word": "近九成学生认为毕业论文有难度",
+        "onboard_time": 1680250043,
+        "rank": 18,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 203041,
+        "num": 203041,
+        "word": "泡泡玛特 阴阳师",
+        "onboard_time": 1680252208,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 527456,
+        "num": 202980,
+        "word": "徐冬冬椰树新姿势",
+        "onboard_time": 1680255324,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275738,
+        "num": 200445,
+        "word": "每天凌晨4点都要给狗一巴掌",
+        "onboard_time": 1680256765,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 267453,
+        "num": 200329,
+        "word": "杨紫皮衣披发造型",
+        "onboard_time": 1680256045,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197337,
+        "num": 197337,
+        "word": "BLACKPINK成员solo单曲",
+        "onboard_time": 1680243806,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 191577,
+        "num": 191577,
+        "word": "跑男团为范丞丞新片打call",
+        "onboard_time": 1680258806,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189697,
+        "num": 189697,
+        "word": "王登峰被双开",
+        "onboard_time": 1680255686,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184788,
+        "num": 184788,
+        "word": "刘耀文米色短袖衬衫造型",
+        "onboard_time": 1680260067,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 177206,
+        "num": 177206,
+        "word": "国产电视剧编剧的脑袋里在想什么",
+        "onboard_time": 1680253824,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 173000,
+        "num": 173000,
+        "word": "他是谁",
+        "onboard_time": 1680260726,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 119178,
+        "num": 171351,
+        "word": "三月的最后一天",
+        "onboard_time": 1680259766,
+        "rank": 29,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 215866,
+        "num": 171182,
+        "word": "张继科方将对侵权用户提起诉讼",
+        "onboard_time": 1680260966,
+        "rank": 30,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 170763,
+        "num": 170763,
+        "word": "郭麒麟拍完龙马精神才告诉郭德纲",
+        "onboard_time": 1680260547,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 170376,
+        "num": 170376,
+        "word": "玉骨遥梦中的那片海暂定Q2播出",
+        "onboard_time": 1680247345,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 162511,
+        "num": 162511,
+        "word": "金智秀solo单曲",
+        "onboard_time": 1680236367,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 161409,
+        "num": 161409,
+        "word": "你介意另一半跟前任同居过吗",
+        "onboard_time": 1680260906,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 154740,
+        "num": 154740,
+        "word": "严浩翔黑色棒球服",
+        "onboard_time": 1680259887,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 151028,
+        "num": 151028,
+        "word": "TES翻盘WE",
+        "onboard_time": 1680257544,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 144465,
+        "num": 144465,
+        "word": "奔跑吧全员欧式宫廷风",
+        "onboard_time": 1680252208,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138455,
+        "num": 138455,
+        "word": "华为称6G何时到来还不清晰",
+        "onboard_time": 1680259287,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 137982,
+        "num": 137982,
+        "word": "田曦薇代言",
+        "onboard_time": 1680243324,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136912,
+        "num": 136912,
+        "word": "虎头局辟谣破产清算",
+        "onboard_time": 1680260186,
+        "rank": 40,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 132020,
+        "num": 132020,
+        "word": "广东的雨是不是不打算收手了",
+        "onboard_time": 1680256407,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126188,
+        "num": 126188,
+        "word": "小猫每天都在忙什么",
+        "onboard_time": 1680258026,
+        "rank": 42,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 116600,
+        "num": 116600,
+        "word": "TES对战WE",
+        "onboard_time": 1680256587,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 113995,
+        "num": 113995,
+        "word": "12306官方详解免费坐高铁",
+        "onboard_time": 1680254006,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113892,
+        "num": 113892,
+        "word": "奔跑吧",
+        "onboard_time": 1680258026,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109566,
+        "num": 109566,
+        "word": "杜江胸肌",
+        "onboard_time": 1680252266,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 105883,
+        "num": 105883,
+        "word": "陈卓璇说华晨宇把高光部分都给了他们",
+        "onboard_time": 1680252085,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97993,
+        "num": 97993,
+        "word": "WB对战DRG",
+        "onboard_time": 1680257184,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 96898,
+        "num": 96898,
+        "word": "这小猫怎么还掉色",
+        "onboard_time": 1680255445,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#30秒飞阅雄安新区看新颜#"
+    }
+  }
+}

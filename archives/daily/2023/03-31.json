@@ -1,6 +1,6 @@
 {
   "startTime": 1680193469065,
-  "endTime": 1680258871555,
+  "endTime": 1680261292692,
   "band_list": [
     {
       "raw_hot": 2726093,
@@ -147,6 +147,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1108411,
+      "num": 1108411,
+      "word": "钟南山称条件允许可不戴口罩",
+      "onboard_time": 1680257544,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1057903,
+      "num": 1057903,
+      "word": "重庆被杀害母亲怀有6个月身孕",
+      "onboard_time": 1680259408,
+      "rank": 1,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1049773,
       "num": 1036733,
       "word": "吴磊在首页亲了一天",
@@ -163,11 +179,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1007409,
-      "num": 1007409,
-      "word": "钟南山称条件允许可不戴口罩",
-      "onboard_time": 1680257544,
-      "rank": 7,
+      "raw_hot": 982825,
+      "num": 982825,
+      "word": "孟晚舟称华为向死而生怎么能不成仁",
+      "onboard_time": 1680257246,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -371,14 +387,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 680526,
-      "num": 680526,
-      "word": "孟晚舟称华为向死而生怎么能不成仁",
-      "onboard_time": 1680257246,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 666959,
       "num": 666959,
       "word": "浙江每年抽检本科毕业论文",
@@ -571,6 +579,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 460435,
+      "num": 460435,
+      "word": "警方通报重庆一律师家人被袭身亡",
+      "onboard_time": 1680258987,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 457248,
       "num": 457248,
       "word": "SEVENTEEN将4月24日回归",
@@ -641,6 +657,14 @@
       "onboard_time": 1680220884,
       "rank": 11,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 436168,
+      "num": 436168,
+      "word": "乘风破浪4",
+      "onboard_time": 1680257485,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 432801,
@@ -753,14 +777,6 @@
       "onboard_time": 1680230065,
       "rank": 47,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 360849,
-      "num": 360849,
-      "word": "乘风破浪4",
-      "onboard_time": 1680257485,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 355699,
@@ -963,6 +979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 275738,
+      "num": 217883,
+      "word": "每天凌晨4点都要给狗一巴掌",
+      "onboard_time": 1680256765,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 272813,
       "num": 272813,
       "word": "特斯拉啤酒售价89欧元",
@@ -1001,6 +1025,14 @@
       "onboard_time": 1680249866,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 269278,
+      "num": 269278,
+      "word": "成龙建议演员好好在国内发展",
+      "onboard_time": 1680258926,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 267684,
@@ -1163,12 +1195,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 217883,
-      "num": 217883,
-      "word": "每天凌晨4点都要给狗一巴掌",
-      "onboard_time": 1680256765,
-      "rank": 32,
-      "category": "幽默"
+      "raw_hot": 215866,
+      "num": 171182,
+      "word": "张继科方将对侵权用户提起诉讼",
+      "onboard_time": 1680260966,
+      "rank": 30,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 214500,
@@ -1443,6 +1475,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 184788,
+      "num": 184788,
+      "word": "刘耀文米色短袖衬衫造型",
+      "onboard_time": 1680260067,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 182703,
       "num": 182703,
       "word": "苏醒说Beyond就是经典",
@@ -1571,6 +1611,14 @@
       "category": "综艺,情感"
     },
     {
+      "raw_hot": 173000,
+      "num": 173000,
+      "word": "他是谁",
+      "onboard_time": 1680260726,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 171404,
       "num": 171404,
       "word": "巧珍哭着跟高加林分手",
@@ -1593,6 +1641,14 @@
       "onboard_time": 1680258386,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 170763,
+      "num": 170763,
+      "word": "郭麒麟拍完龙马精神才告诉郭德纲",
+      "onboard_time": 1680260547,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 170534,
@@ -1659,6 +1715,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 161409,
+      "num": 161409,
+      "word": "你介意另一半跟前任同居过吗",
+      "onboard_time": 1680260906,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 160984,
       "num": 1355238,
       "word": "4月起这些新规将影响你我生活",
@@ -1697,6 +1761,14 @@
       "onboard_time": 1680231325,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 154740,
+      "num": 154740,
+      "word": "严浩翔黑色棒球服",
+      "onboard_time": 1680259887,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 151723,
@@ -1819,12 +1891,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 138455,
+      "num": 138455,
+      "word": "华为称6G何时到来还不清晰",
+      "onboard_time": 1680259287,
+      "rank": 38,
+      "category": "科技"
+    },
+    {
       "raw_hot": 137635,
       "num": 137635,
       "word": "王嘉尔油管订阅数华人歌手第一",
       "onboard_time": 1680186750,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 136912,
+      "num": 136912,
+      "word": "虎头局辟谣破产清算",
+      "onboard_time": 1680260186,
+      "rank": 40,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 136807,
@@ -2001,6 +2089,14 @@
       "onboard_time": 1680231146,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 119178,
+      "num": 171351,
+      "word": "三月的最后一天",
+      "onboard_time": 1680259766,
+      "rank": 29,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 118810,
