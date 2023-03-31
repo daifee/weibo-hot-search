@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1680266053169,
+  "endTime": 1680267091512,
   "band_list": [
     {
       "raw_hot": 12970403,
@@ -404,7 +404,7 @@
     },
     {
       "raw_hot": 1714178,
-      "num": 305345,
+      "num": 339240,
       "word": "叶一茜 森碟和亮仔都是我的宝贝",
       "onboard_time": 1680263307,
       "rank": 10,
@@ -1124,7 +1124,7 @@
     },
     {
       "raw_hot": 1046090,
-      "num": 304569,
+      "num": 331979,
       "word": "贝儿和妹妹",
       "onboard_time": 1680262648,
       "rank": 12,
@@ -1475,6 +1475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 857580,
+      "num": 463580,
+      "word": "Ella一家三口抵达长沙",
+      "onboard_time": 1680264147,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 847701,
       "num": 847701,
       "word": "忘崽牛奶",
@@ -1520,14 +1528,6 @@
       "word": "和黄晓明玩滑板的是路人",
       "onboard_time": 1680002548,
       "rank": 32,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 829544,
-      "num": 463580,
-      "word": "Ella一家三口抵达长沙",
-      "onboard_time": 1680264147,
-      "rank": 3,
       "category": "综艺"
     },
     {
@@ -2828,7 +2828,7 @@
     },
     {
       "raw_hot": 522443,
-      "num": 249660,
+      "num": 270148,
       "word": "你介意另一半跟前任同居过吗",
       "onboard_time": 1680260906,
       "rank": 34,
@@ -4099,6 +4099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 378015,
+      "num": 378015,
+      "word": "原神卡维",
+      "onboard_time": 1680265527,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 377736,
       "num": 377736,
       "word": "秦岚白裙",
@@ -4771,6 +4779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 318117,
+      "num": 318117,
+      "word": "刘三木",
+      "onboard_time": 1680265826,
+      "rank": 47,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 317680,
       "num": 317680,
       "word": "王国之泪",
@@ -4841,6 +4857,14 @@
       "onboard_time": 1679839769,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 308176,
+      "num": 308176,
+      "word": "4月份有望播出的电视剧",
+      "onboard_time": 1680262407,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 308117,
@@ -5284,7 +5308,7 @@
     },
     {
       "raw_hot": 281599,
-      "num": 246520,
+      "num": 263226,
       "word": "他是谁赵公子背景",
       "onboard_time": 1680264387,
       "rank": 21,
@@ -5603,6 +5627,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 267719,
+      "num": 267719,
+      "word": "为什么很节俭还是存不到钱",
+      "onboard_time": 1680261565,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 267684,
       "num": 267684,
       "word": "走路时不要只顾玩手机",
@@ -5827,14 +5859,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 256355,
-      "num": 256355,
-      "word": "4月份有望播出的电视剧",
-      "onboard_time": 1680262407,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
       "raw_hot": 255966,
       "num": 255966,
       "word": "眼镜上的白点 干眼症",
@@ -6041,6 +6065,14 @@
       "onboard_time": 1680244944,
       "rank": 24,
       "category": "情感,科技"
+    },
+    {
+      "raw_hot": 242997,
+      "num": 242997,
+      "word": "杨紫和工作室互动",
+      "onboard_time": 1680266787,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 242925,
@@ -6385,14 +6417,6 @@
       "onboard_time": 1679967567,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 224220,
-      "num": 224220,
-      "word": "为什么很节俭还是存不到钱",
-      "onboard_time": 1680261565,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 223928,
@@ -6747,6 +6771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 211769,
+      "num": 211769,
+      "word": "原神前瞻",
+      "onboard_time": 1680266427,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 211684,
       "num": 211684,
       "word": "WB对战DRG",
@@ -6913,6 +6945,14 @@
       "onboard_time": 1679929232,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 207432,
+      "num": 207432,
+      "word": "佟丽娅分享迪士尼游玩库存照",
+      "onboard_time": 1680266666,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 207386,
@@ -7403,14 +7443,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 197660,
-      "num": 197660,
-      "word": "原神卡维",
-      "onboard_time": 1680265527,
-      "rank": 31,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 197571,
       "num": 197571,
       "word": "王楚钦3比2梁靖崑",
@@ -7681,6 +7713,14 @@
       "onboard_time": 1680179369,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 193221,
+      "num": 193221,
+      "word": "宋亚轩清唱情歌两三首视频",
+      "onboard_time": 1680265947,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 193012,
@@ -8027,6 +8067,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 186185,
+      "num": 186185,
+      "word": "白鹿古堡公主",
+      "onboard_time": 1680265527,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186177,
       "num": 180007,
       "word": "马嘉祺学热身操",
@@ -8041,6 +8089,14 @@
       "onboard_time": 1679905649,
       "rank": 34,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 185929,
+      "num": 318461,
+      "word": "原神3.6版本直播",
+      "onboard_time": 1680264028,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 185505,
@@ -8273,6 +8329,14 @@
       "onboard_time": 1679883269,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179387,
+      "num": 179387,
+      "word": "双开门电梯",
+      "onboard_time": 1680261684,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 179279,
@@ -8587,28 +8651,20 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 170889,
-      "num": 170889,
-      "word": "白鹿古堡公主",
-      "onboard_time": 1680265527,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 170771,
-      "num": 170771,
-      "word": "双开门电梯",
-      "onboard_time": 1680261684,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 170723,
       "num": 314640,
       "word": "你城市的夜景有多美",
       "onboard_time": 1680143906,
       "rank": 28,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 170718,
+      "num": 170718,
+      "word": "原神兑换码",
+      "onboard_time": 1680266247,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 170534,
@@ -8979,6 +9035,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 158462,
+      "num": 158462,
+      "word": "五哈3高手在民间",
+      "onboard_time": 1680266606,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 157766,
       "num": 157766,
       "word": "上海60岁以上常住人口占比25%",
@@ -9017,6 +9081,14 @@
       "onboard_time": 1680052168,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 156239,
+      "num": 156239,
+      "word": "WB战胜DRG",
+      "onboard_time": 1680263789,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 155834,
@@ -9273,14 +9345,6 @@
       "onboard_time": 1680147026,
       "rank": 43,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 148297,
-      "num": 303088,
-      "word": "原神3.6版本直播",
-      "onboard_time": 1680264028,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 148153,
@@ -9787,6 +9851,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 133471,
+      "num": 133471,
+      "word": "靳东打戏",
+      "onboard_time": 1680267026,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 133451,
       "num": 133451,
       "word": "原来植物人是会动的",
@@ -9891,6 +9963,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 130467,
+      "num": 130467,
+      "word": "龚俊推荐家乡图书馆",
+      "onboard_time": 1680266967,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 129913,
       "num": 129913,
       "word": "电视节目欺骗狗狗的感情",
@@ -9955,14 +10035,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 128478,
-      "num": 128478,
-      "word": "宋亚轩清唱情歌两三首视频",
-      "onboard_time": 1680265947,
-      "rank": 43,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 128474,
       "num": 128474,
       "word": "凤凰音乐节",
@@ -10025,14 +10097,6 @@
       "onboard_time": 1680159328,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 127268,
-      "num": 121715,
-      "word": "刘三木",
-      "onboard_time": 1680265826,
-      "rank": 47,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 127246,
