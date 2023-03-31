@@ -1,7 +1,15 @@
 {
   "startTime": 1680193469065,
-  "endTime": 1680227383860,
+  "endTime": 1680230237827,
   "band_list": [
+    {
+      "raw_hot": 2726093,
+      "num": 1851495,
+      "word": "特朗普预计下周自首",
+      "onboard_time": 1680225324,
+      "rank": 22,
+      "category": "国外要闻"
+    },
     {
       "raw_hot": 2107691,
       "num": 2107691,
@@ -11,20 +19,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1851495,
-      "num": 1851495,
-      "word": "特朗普预计下周自首",
-      "onboard_time": 1680225324,
-      "rank": 22,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 1836886,
       "num": 1836886,
       "word": "和导师沟通像跟渣男谈恋爱",
       "onboard_time": 1680219202,
       "rank": 47,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 979275,
+      "num": 979275,
+      "word": "爱情而已这是可以播的吗",
+      "onboard_time": 1680227605,
+      "rank": 0,
+      "category": "影视"
     },
     {
       "raw_hot": 974166,
@@ -107,6 +115,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 682547,
+      "num": 682547,
+      "word": "油价",
+      "onboard_time": 1680225807,
+      "rank": 45,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 666959,
       "num": 666959,
       "word": "浙江每年抽检本科毕业论文",
@@ -163,12 +179,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 509124,
-      "num": 509124,
-      "word": "油价",
-      "onboard_time": 1680225807,
-      "rank": 45,
-      "category": "社会新闻,财经"
+      "raw_hot": 514373,
+      "num": 514373,
+      "word": "云南巧家县禁止脏车入城",
+      "onboard_time": 1680226164,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 457248,
@@ -203,6 +219,22 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 433083,
+      "num": 433083,
+      "word": "父亲牺牲11年后儿子继承警号",
+      "onboard_time": 1680226886,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 406036,
+      "num": 406036,
+      "word": "吴磊火烈鸟没有白亲",
+      "onboard_time": 1680228985,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 392647,
       "num": 266927,
       "word": "包贝尔女儿近照",
@@ -217,6 +249,14 @@
       "onboard_time": 1680223046,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 382617,
+      "num": 382617,
+      "word": "五月天武汉",
+      "onboard_time": 1680229585,
+      "rank": 11,
+      "category": "音乐"
     },
     {
       "raw_hot": 382097,
@@ -299,12 +339,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 280326,
+      "num": 280326,
+      "word": "奶爸默默记录丫丫日常",
+      "onboard_time": 1680228565,
+      "rank": 16,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 265925,
       "num": 265925,
       "word": "魅族20",
       "onboard_time": 1680180689,
       "rank": 13,
       "category": "科技"
+    },
+    {
+      "raw_hot": 259558,
+      "num": 259558,
+      "word": "叶诗文人生能有几个七年",
+      "onboard_time": 1680228624,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 257153,
@@ -315,12 +371,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 249642,
-      "num": 249642,
-      "word": "云南巧家县禁止脏车入城",
-      "onboard_time": 1680226164,
-      "rank": 21,
-      "category": "社会新闻"
+      "raw_hot": 248876,
+      "num": 248876,
+      "word": "短道速滑冠军赛今日开战",
+      "onboard_time": 1680228204,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 244901,
@@ -347,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 230233,
+      "num": 230233,
+      "word": "路人福建偶遇毛晓彤",
+      "onboard_time": 1680226704,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 229193,
       "num": 229193,
       "word": "那我长大了还管谁叫爷爷",
@@ -363,12 +427,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 226188,
+      "num": 226188,
+      "word": "大熊猫怎么也会这么八卦",
+      "onboard_time": 1680229166,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 223301,
+      "num": 223301,
+      "word": "斗罗大陆泰国播出预告",
+      "onboard_time": 1680228805,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 210416,
       "num": 210416,
       "word": "袁冰妍",
       "onboard_time": 1680169347,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 209543,
+      "num": 209543,
+      "word": "德云社节目单",
+      "onboard_time": 1680227004,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 208871,
@@ -416,6 +504,14 @@
       "word": "新版出生医学证明4月起启用",
       "onboard_time": 1680225385,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181950,
+      "num": 181950,
+      "word": "战士牺牲在我家就得当自家人对待",
+      "onboard_time": 1680227066,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -507,20 +603,12 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 154212,
-      "num": 154212,
-      "word": "路人福建偶遇毛晓彤",
-      "onboard_time": 1680226704,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 149298,
-      "num": 149298,
-      "word": "德云社节目单",
-      "onboard_time": 1680227004,
-      "rank": 35,
-      "category": "综艺"
+      "raw_hot": 157056,
+      "num": 157056,
+      "word": "这歌是沈腾唱的吗",
+      "onboard_time": 1680227665,
+      "rank": 33,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 148168,
@@ -579,14 +667,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 136645,
-      "num": 136645,
-      "word": "父亲牺牲11年后儿子继承警号",
-      "onboard_time": 1680226886,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 135088,
       "num": 135088,
       "word": "李沁村花妆是刻板印象吗",
@@ -601,6 +681,14 @@
       "onboard_time": 1680224307,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 131820,
+      "num": 131820,
+      "word": "蛋仔派对皮蛋节",
+      "onboard_time": 1680228925,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 131577,
@@ -667,11 +755,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 117573,
-      "num": 117573,
-      "word": "战士牺牲在我家就得当自家人对待",
-      "onboard_time": 1680227066,
-      "rank": 41,
+      "raw_hot": 115772,
+      "num": 115772,
+      "word": "百岁扫地僧去了天堂图书馆",
+      "onboard_time": 1680229884,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -715,6 +803,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 102256,
+      "num": 102256,
+      "word": "宋三川假笑",
+      "onboard_time": 1680229524,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 99889,
       "num": 113237,
       "word": "王楚钦男单夺冠",
@@ -729,6 +825,14 @@
       "onboard_time": 1680219082,
       "rank": 36,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 97309,
+      "num": 97309,
+      "word": "减脂餐狗都不吃",
+      "onboard_time": 1680230065,
+      "rank": 47,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 95276,
