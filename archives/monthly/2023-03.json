@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1680269594537,
+  "endTime": 1680272176329,
   "band_list": [
     {
       "raw_hot": 27113842,
@@ -4507,6 +4507,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1338210,
+      "num": 1134991,
+      "word": "意大利宣布禁止使用ChatGPT",
+      "onboard_time": 1680267447,
+      "rank": 1,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 1337983,
       "num": 650466,
       "word": "曝大量华人资产从瑞士美国撤离",
@@ -6025,14 +6033,6 @@
       "onboard_time": 1679145268,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1134991,
-      "num": 1134991,
-      "word": "意大利宣布禁止使用ChatGPT",
-      "onboard_time": 1680267447,
-      "rank": 1,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 1134239,
@@ -8449,6 +8449,14 @@
       "onboard_time": 1679460691,
       "rank": 20,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 925937,
+      "num": 925937,
+      "word": "林彦俊左肋骨骨折",
+      "onboard_time": 1680270570,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 925883,
@@ -18660,7 +18668,7 @@
     },
     {
       "raw_hot": 522443,
-      "num": 279193,
+      "num": 297399,
       "word": "你介意另一半跟前任同居过吗",
       "onboard_time": 1680260906,
       "rank": 34,
@@ -25947,6 +25955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 379390,
+      "num": 379390,
+      "word": "年轻人为什么爱逛寺庙",
+      "onboard_time": 1680270149,
+      "rank": 7,
+      "category": "情感"
+    },
+    {
       "raw_hot": 379346,
       "num": 379346,
       "word": "时代峰峻辟谣演唱会义工招募",
@@ -26753,6 +26769,14 @@
       "onboard_time": 1679272107,
       "rank": 13,
       "category": "财经"
+    },
+    {
+      "raw_hot": 368510,
+      "num": 338916,
+      "word": "男子饭店内持刀伤人致1死2伤",
+      "onboard_time": 1680271529,
+      "rank": 16,
+      "category": "社会负面"
     },
     {
       "raw_hot": 368343,
@@ -28891,6 +28915,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 338372,
+      "num": 338372,
+      "word": "李沁黑长直上班路透",
+      "onboard_time": 1680267867,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 338243,
       "num": 323663,
       "word": "EXO最新节目预告",
@@ -28953,14 +28985,6 @@
       "onboard_time": 1678858647,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 336907,
-      "num": 336907,
-      "word": "李沁黑长直上班路透",
-      "onboard_time": 1680267867,
-      "rank": 21,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 336824,
@@ -31155,6 +31179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 307604,
+      "num": 307604,
+      "word": "宋祖儿折腰新造型",
+      "onboard_time": 1680269608,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 307547,
       "num": 279393,
       "word": "李沁卷毛",
@@ -31465,6 +31497,14 @@
       "onboard_time": 1680067649,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 304261,
+      "num": 304261,
+      "word": "纪念币",
+      "onboard_time": 1680271890,
+      "rank": 19,
+      "category": "财经"
     },
     {
       "raw_hot": 304156,
@@ -32577,6 +32617,14 @@
       "onboard_time": 1679229089,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 289990,
+      "num": 289990,
+      "word": "张新成以前不喜欢录综艺",
+      "onboard_time": 1680270870,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 289841,
@@ -39707,6 +39755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 222125,
+      "num": 222125,
+      "word": "回顾张国荣生前最后一次亮相",
+      "onboard_time": 1680271050,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 222063,
       "num": 222063,
       "word": "莫兰德的爱情保卫战",
@@ -43585,6 +43641,14 @@
       "onboard_time": 1679490689,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 201131,
+      "num": 201131,
+      "word": "深圳男篮VS广东男篮",
+      "onboard_time": 1680270870,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 201089,
@@ -47675,6 +47739,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 185946,
+      "num": 185946,
+      "word": "杨洋包场范丞丞蒋龙新电影",
+      "onboard_time": 1680271288,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 185929,
       "num": 318461,
       "word": "原神3.6版本直播",
@@ -48763,6 +48835,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 178920,
+      "num": 178920,
+      "word": "张远鸟窝头",
+      "onboard_time": 1680271830,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 178852,
       "num": 178852,
       "word": "张杰唱的天天想你",
@@ -49497,6 +49577,14 @@
       "onboard_time": 1678805192,
       "rank": 40,
       "category": "教育"
+    },
+    {
+      "raw_hot": 174698,
+      "num": 174698,
+      "word": "陈晓哭戏",
+      "onboard_time": 1680271770,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 174692,
@@ -52371,6 +52459,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 156953,
+      "num": 156953,
+      "word": "三生友幸不心动挑战",
+      "onboard_time": 1680272069,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 156945,
       "num": 156945,
       "word": "甄子丹将担任第95届奥斯卡颁奖嘉宾",
@@ -52865,6 +52961,14 @@
       "onboard_time": 1678960889,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 153068,
+      "num": 153068,
+      "word": "女爱豆对镜反自拍",
+      "onboard_time": 1680270389,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 153034,
