@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1680236501766,
+  "endTime": 1680237377561,
   "band_list": [
     {
       "raw_hot": 12970403,
@@ -177,6 +177,14 @@
       "onboard_time": 1679977413,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 2319965,
+      "num": 2319965,
+      "word": "金智秀solo单曲",
+      "onboard_time": 1680236367,
+      "rank": 1,
+      "category": "音乐"
     },
     {
       "raw_hot": 2317587,
@@ -433,14 +441,6 @@
       "onboard_time": 1680075812,
       "rank": 1,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1558247,
-      "num": 1558247,
-      "word": "金智秀solo单曲",
-      "onboard_time": 1680236367,
-      "rank": 1,
-      "category": "音乐"
     },
     {
       "raw_hot": 1553665,
@@ -1339,6 +1339,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 841937,
+      "num": 841937,
+      "word": "竹筒奶茶原来是回收筒吗",
+      "onboard_time": 1680234267,
+      "rank": 7,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 841190,
       "num": 841190,
       "word": "胖东来",
@@ -1577,14 +1585,6 @@
       "onboard_time": 1680156928,
       "rank": 45,
       "category": "幽默,社会新闻"
-    },
-    {
-      "raw_hot": 750847,
-      "num": 750847,
-      "word": "竹筒奶茶原来是回收筒吗",
-      "onboard_time": 1680234267,
-      "rank": 7,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 749197,
@@ -2171,6 +2171,14 @@
       "category": "艺人,财经"
     },
     {
+      "raw_hot": 595256,
+      "num": 595256,
+      "word": "上海海事大学",
+      "onboard_time": 1680236128,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 594041,
       "num": 208308,
       "word": "田曦薇的手臂线条",
@@ -2297,6 +2305,14 @@
       "onboard_time": 1679919690,
       "rank": 11,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 572175,
+      "num": 572175,
+      "word": "假如秋瓷炫乘风4淘汰",
+      "onboard_time": 1680235227,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 571693,
@@ -3225,14 +3241,6 @@
       "onboard_time": 1680008365,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 425538,
-      "num": 425538,
-      "word": "假如秋瓷炫乘风4淘汰",
-      "onboard_time": 1680235227,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 424928,
@@ -4315,12 +4323,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 313137,
+      "num": 313137,
+      "word": "豫章书院前学员发声",
+      "onboard_time": 1680233246,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 309549,
       "num": 277704,
       "word": "蒋依依黑长直",
       "onboard_time": 1679839769,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 308385,
+      "num": 308385,
+      "word": "牙医口罩下的表情是怎样的",
+      "onboard_time": 1680235349,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 308117,
@@ -4384,14 +4408,6 @@
       "word": "马英九凭吊南京大屠杀遇难同胞",
       "onboard_time": 1680081869,
       "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 304597,
-      "num": 304597,
-      "word": "豫章书院前学员发声",
-      "onboard_time": 1680233246,
-      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -4796,7 +4812,7 @@
     },
     {
       "raw_hot": 280594,
-      "num": 273637,
+      "num": 279775,
       "word": "孙悦长沙街头随拍",
       "onboard_time": 1680234626,
       "rank": 20,
@@ -5155,6 +5171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 259175,
+      "num": 259175,
+      "word": "陈星旭27岁实绩图",
+      "onboard_time": 1680232407,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 259172,
       "num": 259172,
       "word": "沙特内阁批准加入上海合作组织的决定",
@@ -5209,14 +5233,6 @@
       "onboard_time": 1679966307,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 256518,
-      "num": 256518,
-      "word": "陈星旭27岁实绩图",
-      "onboard_time": 1680232407,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 256375,
@@ -5523,6 +5539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 233906,
+      "num": 233906,
+      "word": "豫章书院揭发人现身庭审现场",
+      "onboard_time": 1680236309,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 232153,
       "num": 232153,
       "word": "张兰称爱情是女人一生中最重要的事",
@@ -5803,6 +5827,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 222660,
+      "num": 222660,
+      "word": "我的告白沉默了俩个寝室",
+      "onboard_time": 1680236008,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 222260,
       "num": 222260,
       "word": "中超公司原总经理董铮被查",
@@ -5817,14 +5849,6 @@
       "onboard_time": 1679842891,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 221781,
-      "num": 221781,
-      "word": "上海海事大学",
-      "onboard_time": 1680236128,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 221651,
@@ -6241,14 +6265,6 @@
       "onboard_time": 1680186750,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 206715,
-      "num": 206715,
-      "word": "牙医口罩下的表情是怎样的",
-      "onboard_time": 1680235349,
-      "rank": 28,
-      "category": "幽默"
     },
     {
       "raw_hot": 206686,
@@ -7899,6 +7915,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 160984,
+      "num": 1355238,
+      "word": "4月起这些新规将影响你我生活",
+      "onboard_time": 1680233425,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160687,
       "num": 160687,
       "word": "上海和武汉有多像",
@@ -7929,14 +7953,6 @@
       "onboard_time": 1679883568,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 159685,
-      "num": 1355238,
-      "word": "4月起这些新规将影响你我生活",
-      "onboard_time": 1680233425,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 159371,
@@ -8307,6 +8323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 146814,
+      "num": 146814,
+      "word": "大熊猫叫声",
+      "onboard_time": 1680233665,
+      "rank": 45,
+      "category": "幽默,社会新闻"
+    },
+    {
       "raw_hot": 146283,
       "num": 146283,
       "word": "春天到了小鸟换了新发型",
@@ -8393,14 +8417,6 @@
       "onboard_time": 1680219561,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 142157,
-      "num": 142157,
-      "word": "豫章书院揭发人现身庭审现场",
-      "onboard_time": 1680236309,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 141998,
@@ -8643,14 +8659,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 135530,
-      "num": 135530,
-      "word": "大熊猫叫声",
-      "onboard_time": 1680233665,
-      "rank": 45,
-      "category": "幽默,社会新闻"
-    },
-    {
       "raw_hot": 134950,
       "num": 134950,
       "word": "周深到底听到了什么啊",
@@ -8761,6 +8769,14 @@
       "onboard_time": 1679903790,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 131560,
+      "num": 131560,
+      "word": "当你工作累了准备午休时",
+      "onboard_time": 1680236070,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 131459,
@@ -8945,14 +8961,6 @@
       "onboard_time": 1680103587,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 125951,
-      "num": 125951,
-      "word": "我的告白沉默了俩个寝室",
-      "onboard_time": 1680236008,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 125931,
@@ -9721,6 +9729,14 @@
       "onboard_time": 1679900909,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 94789,
+      "num": 94789,
+      "word": "虎头局",
+      "onboard_time": 1680237331,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 93726,

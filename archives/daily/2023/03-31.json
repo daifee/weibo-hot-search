@@ -1,6 +1,6 @@
 {
   "startTime": 1680193469065,
-  "endTime": 1680236501766,
+  "endTime": 1680237377561,
   "band_list": [
     {
       "raw_hot": 2726093,
@@ -19,6 +19,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2319965,
+      "num": 2319965,
+      "word": "金智秀solo单曲",
+      "onboard_time": 1680236367,
+      "rank": 1,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 2107691,
       "num": 2107691,
       "word": "官方通报林场主求水事件",
@@ -33,14 +41,6 @@
       "onboard_time": 1680219202,
       "rank": 47,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 1558247,
-      "num": 1558247,
-      "word": "金智秀solo单曲",
-      "onboard_time": 1680236367,
-      "rank": 1,
-      "category": "音乐"
     },
     {
       "raw_hot": 1275965,
@@ -115,6 +115,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 841937,
+      "num": 841937,
+      "word": "竹筒奶茶原来是回收筒吗",
+      "onboard_time": 1680234267,
+      "rank": 7,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 840021,
       "num": 205643,
       "word": "村民不认可孙国友被称为治沙英雄",
@@ -153,14 +161,6 @@
       "onboard_time": 1680182550,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 750847,
-      "num": 750847,
-      "word": "竹筒奶茶原来是回收筒吗",
-      "onboard_time": 1680234267,
-      "rank": 7,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 732540,
@@ -233,6 +233,22 @@
       "onboard_time": 1680219322,
       "rank": 10,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 595256,
+      "num": 595256,
+      "word": "上海海事大学",
+      "onboard_time": 1680236128,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 572175,
+      "num": 572175,
+      "word": "假如秋瓷炫乘风4淘汰",
+      "onboard_time": 1680235227,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 563721,
@@ -331,14 +347,6 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 425538,
-      "num": 425538,
-      "word": "假如秋瓷炫乘风4淘汰",
-      "onboard_time": 1680235227,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 392647,
       "num": 266927,
       "word": "包贝尔女儿近照",
@@ -419,6 +427,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 313137,
+      "num": 313137,
+      "word": "豫章书院前学员发声",
+      "onboard_time": 1680233246,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 308385,
+      "num": 308385,
+      "word": "牙医口罩下的表情是怎样的",
+      "onboard_time": 1680235349,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 308117,
       "num": 308117,
       "word": "这熊猫介绍真是没瞎写",
@@ -433,14 +457,6 @@
       "onboard_time": 1680219082,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 304597,
-      "num": 304597,
-      "word": "豫章书院前学员发声",
-      "onboard_time": 1680233246,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 297224,
@@ -492,7 +508,7 @@
     },
     {
       "raw_hot": 280594,
-      "num": 273637,
+      "num": 279775,
       "word": "孙悦长沙街头随拍",
       "onboard_time": 1680234626,
       "rank": 20,
@@ -563,19 +579,19 @@
       "category": "科技"
     },
     {
+      "raw_hot": 259175,
+      "num": 259175,
+      "word": "陈星旭27岁实绩图",
+      "onboard_time": 1680232407,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 257153,
       "num": 257153,
       "word": "谢娜问粉丝我生图很厉害吧",
       "onboard_time": 1680182068,
       "rank": 14,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 256518,
-      "num": 256518,
-      "word": "陈星旭27岁实绩图",
-      "onboard_time": 1680232407,
-      "rank": 30,
       "category": "艺人"
     },
     {
@@ -600,6 +616,14 @@
       "word": "海南启动全岛封关运作准备",
       "onboard_time": 1680170189,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 233906,
+      "num": 233906,
+      "word": "豫章书院揭发人现身庭审现场",
+      "onboard_time": 1680236309,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -635,12 +659,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 221781,
-      "num": 221781,
-      "word": "上海海事大学",
-      "onboard_time": 1680236128,
-      "rank": 27,
-      "category": "社会新闻"
+      "raw_hot": 222660,
+      "num": 222660,
+      "word": "我的告白沉默了俩个寝室",
+      "onboard_time": 1680236008,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 210416,
@@ -673,14 +697,6 @@
       "onboard_time": 1680218059,
       "rank": 16,
       "category": "情感"
-    },
-    {
-      "raw_hot": 206715,
-      "num": 206715,
-      "word": "牙医口罩下的表情是怎样的",
-      "onboard_time": 1680235349,
-      "rank": 28,
-      "category": "幽默"
     },
     {
       "raw_hot": 206686,
@@ -875,7 +891,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 159685,
+      "raw_hot": 160984,
       "num": 1355238,
       "word": "4月起这些新规将影响你我生活",
       "onboard_time": 1680233425,
@@ -931,6 +947,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 146814,
+      "num": 146814,
+      "word": "大熊猫叫声",
+      "onboard_time": 1680233665,
+      "rank": 45,
+      "category": "幽默,社会新闻"
+    },
+    {
       "raw_hot": 145378,
       "num": 145378,
       "word": "宋茜白宇 保你平安前传",
@@ -955,14 +979,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 142157,
-      "num": 142157,
-      "word": "豫章书院揭发人现身庭审现场",
-      "onboard_time": 1680236309,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 140170,
       "num": 140170,
       "word": "以爱为营服化道",
@@ -985,14 +1001,6 @@
       "onboard_time": 1680222986,
       "rank": 37,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 135530,
-      "num": 135530,
-      "word": "大熊猫叫声",
-      "onboard_time": 1680233665,
-      "rank": 45,
-      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 135088,
@@ -1035,6 +1043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131560,
+      "num": 131560,
+      "word": "当你工作累了准备午休时",
+      "onboard_time": 1680236070,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 131459,
       "num": 131459,
       "word": "保你平安密室又吓人又好笑",
@@ -1073,14 +1089,6 @@
       "onboard_time": 1680218359,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 125951,
-      "num": 125951,
-      "word": "我的告白沉默了俩个寝室",
-      "onboard_time": 1680236008,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 125368,
@@ -1193,6 +1201,14 @@
       "onboard_time": 1680179668,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 94789,
+      "num": 94789,
+      "word": "虎头局",
+      "onboard_time": 1680237331,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 93522,
