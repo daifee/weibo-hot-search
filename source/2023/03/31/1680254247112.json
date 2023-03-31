@@ -1,0 +1,410 @@
+{
+  "runTime": 1680254247112,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1863608,
+        "num": 1863608,
+        "word": "叶一茜说森蝶觉得弟弟是最有心机的人",
+        "onboard_time": 1680251306,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1682723,
+        "num": 1682723,
+        "word": "任泉王京花企业涉非吸案",
+        "onboard_time": 1680246565,
+        "rank": 1,
+        "category": "财经,艺人"
+      },
+      {
+        "raw_hot": 56119,
+        "num": 835413,
+        "word": "带你共享花开烂漫时",
+        "onboard_time": 1680248546,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 775683,
+        "num": 775683,
+        "word": "近九成学生认为毕业论文有难度",
+        "onboard_time": 1680250043,
+        "rank": 3,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 695459,
+        "num": 695459,
+        "word": "不婚族晚年生活是什么样子",
+        "onboard_time": 1680243025,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 657401,
+        "num": 657401,
+        "word": "短指症",
+        "onboard_time": 1680252745,
+        "rank": 5,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 521106,
+        "num": 521106,
+        "word": "刘浩存新片首映礼哭了",
+        "onboard_time": 1680246446,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 462074,
+        "num": 462074,
+        "word": "泡泡玛特 阴阳师",
+        "onboard_time": 1680252208,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 409587,
+        "num": 409587,
+        "word": "考上编制的熊猫",
+        "onboard_time": 1680248664,
+        "rank": 8,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 372678,
+        "num": 372678,
+        "word": "吴磊周雨彤扫楼",
+        "onboard_time": 1680250824,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 982225,
+        "num": 371325,
+        "word": "易烊千玺给网站续约",
+        "onboard_time": 1680249206,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 426045,
+        "num": 370073,
+        "word": "豫章书院",
+        "onboard_time": 1680232466,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393484,
+        "num": 366003,
+        "word": "杜江胸肌",
+        "onboard_time": 1680252266,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 358932,
+        "num": 358932,
+        "word": "马斯克或将来中国",
+        "onboard_time": 1680247945,
+        "rank": 13,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 354311,
+        "num": 354311,
+        "word": "陈卓璇说华晨宇把高光部分都给了他们",
+        "onboard_time": 1680252085,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 341994,
+        "num": 341994,
+        "word": "萌兰 发箍奶爸",
+        "onboard_time": 1680252564,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 337038,
+        "num": 337038,
+        "word": "网友称妹妹被母亲强行送去戒网学校",
+        "onboard_time": 1680245606,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334901,
+        "num": 334901,
+        "word": "BLACKPINK成员solo单曲",
+        "onboard_time": 1680243806,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 303050,
+        "num": 303050,
+        "word": "玉骨遥梦中的那片海暂定Q2播出",
+        "onboard_time": 1680247345,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 294666,
+        "num": 294666,
+        "word": "任正非发文重申华为不造车",
+        "onboard_time": 1680242306,
+        "rank": 19,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 444017,
+        "num": 287422,
+        "word": "奔跑吧全员欧式宫廷风",
+        "onboard_time": 1680252208,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 351715,
+        "num": 282133,
+        "word": "邓超请100位朋友看范丞丞新电影",
+        "onboard_time": 1680251545,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 271914,
+        "num": 271914,
+        "word": "孙茜牵儿子走秀",
+        "onboard_time": 1680246565,
+        "rank": 22,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 264733,
+        "num": 264733,
+        "word": "Scout获常规赛MVP",
+        "onboard_time": 1680251724,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 258083,
+        "num": 258083,
+        "word": "模仿犯",
+        "onboard_time": 1680247227,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 254266,
+        "num": 254266,
+        "word": "all eyes on me",
+        "onboard_time": 1680238767,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 241078,
+        "num": 241078,
+        "word": "不婚族的6个心理事实",
+        "onboard_time": 1680249866,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 231426,
+        "num": 231426,
+        "word": "田曦薇代言",
+        "onboard_time": 1680243324,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231279,
+        "num": 231279,
+        "word": "金智秀solo单曲",
+        "onboard_time": 1680236367,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 198073,
+        "num": 222204,
+        "word": "日本外相将访华",
+        "onboard_time": 1680248363,
+        "rank": 29,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 220836,
+        "num": 220836,
+        "word": "假性不婚族8个特征",
+        "onboard_time": 1680252986,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215999,
+        "num": 215999,
+        "word": "本科毕业论文抽检都查什么",
+        "onboard_time": 1680232104,
+        "rank": 31,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 183334,
+        "num": 183334,
+        "word": "肖战欧洲游随拍",
+        "onboard_time": 1680251358,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182703,
+        "num": 182703,
+        "word": "苏醒说Beyond就是经典",
+        "onboard_time": 1680252025,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181166,
+        "num": 181166,
+        "word": "你不能说狮子座不行",
+        "onboard_time": 1680246565,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 180148,
+        "num": 180148,
+        "word": "无名",
+        "onboard_time": 1680252686,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 173214,
+        "num": 173214,
+        "word": "华为2022年净利润356亿",
+        "onboard_time": 1680254124,
+        "rank": 36,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 158394,
+        "num": 158394,
+        "word": "国产电视剧编剧的脑袋里在想什么",
+        "onboard_time": 1680253824,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 147183,
+        "num": 147183,
+        "word": "张大大没有站姐",
+        "onboard_time": 1680250704,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146030,
+        "num": 146030,
+        "word": "师父出山教做鲁菜百万网友追更",
+        "onboard_time": 1680247105,
+        "rank": 39,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 137191,
+        "num": 137191,
+        "word": "竹筒奶茶原来是回收筒吗",
+        "onboard_time": 1680234267,
+        "rank": 40,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 136038,
+        "num": 136038,
+        "word": "白鹿四月进组",
+        "onboard_time": 1680249625,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135836,
+        "num": 135836,
+        "word": "吉克隽逸洛丽塔造型录跑男",
+        "onboard_time": 1680251485,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123037,
+        "num": 123037,
+        "word": "蔡卓妍打卡林俊杰演唱会vlog",
+        "onboard_time": 1680252505,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 122868,
+        "num": 122868,
+        "word": "萌兰",
+        "onboard_time": 1680241826,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121467,
+        "num": 121467,
+        "word": "12306官方详解免费坐高铁",
+        "onboard_time": 1680254006,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117470,
+        "num": 117470,
+        "word": "爱情而已的台词立意",
+        "onboard_time": 1680254006,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 116034,
+        "num": 116034,
+        "word": "假如秋瓷炫乘风4淘汰",
+        "onboard_time": 1680235227,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115380,
+        "num": 115380,
+        "word": "假装自己是一条狗和ChatGPT聊天",
+        "onboard_time": 1680244944,
+        "rank": 48,
+        "category": "情感,科技"
+      },
+      {
+        "raw_hot": 112874,
+        "num": 112874,
+        "word": "猫咪坠入爱河是什么样的",
+        "onboard_time": 1680252686,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#好评中国#"
+    }
+  }
+}

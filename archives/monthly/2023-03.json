@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1680251777924,
+  "endTime": 1680254247112,
   "band_list": [
     {
       "raw_hot": 27113842,
@@ -2073,6 +2073,14 @@
       "onboard_time": 1678442132,
       "rank": 10,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 1863608,
+      "num": 1863608,
+      "word": "叶一茜说森蝶觉得弟弟是最有心机的人",
+      "onboard_time": 1680251306,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1862826,
@@ -11067,6 +11075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 775683,
+      "num": 775683,
+      "word": "近九成学生认为毕业论文有难度",
+      "onboard_time": 1680250043,
+      "rank": 33,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 774949,
       "num": 774949,
       "word": "三亚榴莲6月将大规模上市",
@@ -13753,6 +13769,14 @@
       "onboard_time": 1678977692,
       "rank": 3,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 657401,
+      "num": 657401,
+      "word": "短指症",
+      "onboard_time": 1680252745,
+      "rank": 5,
+      "category": "其它"
     },
     {
       "raw_hot": 656877,
@@ -21347,6 +21371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 462074,
+      "num": 462074,
+      "word": "泡泡玛特 阴阳师",
+      "onboard_time": 1680252208,
+      "rank": 7,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 461888,
       "num": 461888,
       "word": "鹿晗第一次来到东北澡堂的反应",
@@ -22225,6 +22257,14 @@
       "onboard_time": 1679915850,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 444017,
+      "num": 287422,
+      "word": "奔跑吧全员欧式宫廷风",
+      "onboard_time": 1680252208,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 443991,
@@ -23947,6 +23987,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 409587,
+      "num": 409587,
+      "word": "考上编制的熊猫",
+      "onboard_time": 1680248664,
+      "rank": 18,
+      "category": "幽默,社会新闻"
+    },
+    {
       "raw_hot": 409540,
       "num": 409540,
       "word": "00后高中老师停课带学生赏花",
@@ -24835,6 +24883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 393484,
+      "num": 366003,
+      "word": "杜江胸肌",
+      "onboard_time": 1680252266,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 393296,
       "num": 393296,
       "word": "小学办公室的主要用途",
@@ -25377,14 +25433,6 @@
       "onboard_time": 1678786349,
       "rank": 9,
       "category": "影视"
-    },
-    {
-      "raw_hot": 383662,
-      "num": 383662,
-      "word": "考上编制的熊猫",
-      "onboard_time": 1680248664,
-      "rank": 18,
-      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 383516,
@@ -27331,6 +27379,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 354311,
+      "num": 354311,
+      "word": "陈卓璇说华晨宇把高光部分都给了他们",
+      "onboard_time": 1680252085,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 354310,
       "num": 339192,
       "word": "声生不息宝岛季下期有于文文",
@@ -27585,6 +27641,14 @@
       "onboard_time": 1677840211,
       "rank": 8,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 351715,
+      "num": 282133,
+      "word": "邓超请100位朋友看范丞丞新电影",
+      "onboard_time": 1680251545,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 351661,
@@ -28353,6 +28417,14 @@
       "onboard_time": 1677937947,
       "rank": 21,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 341994,
+      "num": 341994,
+      "word": "萌兰 发箍奶爸",
+      "onboard_time": 1680252564,
+      "rank": 15,
+      "category": "幽默"
     },
     {
       "raw_hot": 341778,
@@ -31667,14 +31739,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 297439,
-      "num": 297439,
-      "word": "叶一茜说森蝶觉得弟弟是最有心机的人",
-      "onboard_time": 1680251306,
-      "rank": 19,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 297330,
       "num": 297330,
       "word": "什么土豆要等三年才吃",
@@ -34611,6 +34675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 264733,
+      "num": 264733,
+      "word": "Scout获常规赛MVP",
+      "onboard_time": 1680251724,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 264719,
       "num": 264719,
       "word": "刘涛讲粤语",
@@ -36273,14 +36345,6 @@
       "onboard_time": 1679973330,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 246121,
-      "num": 246121,
-      "word": "近九成学生认为毕业论文有难度",
-      "onboard_time": 1680250043,
-      "rank": 33,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 245830,
@@ -39419,6 +39483,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 220836,
+      "num": 220836,
+      "word": "假性不婚族8个特征",
+      "onboard_time": 1680252986,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 220797,
       "num": 220797,
       "word": "BoysPlanet新闻发布会",
@@ -39641,14 +39713,6 @@
       "onboard_time": 1678244249,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 219289,
-      "num": 219289,
-      "word": "邓超请100位朋友看范丞丞新电影",
-      "onboard_time": 1680251545,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 219276,
@@ -47571,6 +47635,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 182703,
+      "num": 182703,
+      "word": "苏醒说Beyond就是经典",
+      "onboard_time": 1680252025,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 182665,
       "num": 182665,
       "word": "本泽马说德尚是小丑",
@@ -47968,6 +48040,14 @@
       "word": "归路定档",
       "onboard_time": 1678505910,
       "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 180148,
+      "num": 180148,
+      "word": "无名",
+      "onboard_time": 1680252686,
+      "rank": 35,
       "category": "影视"
     },
     {
@@ -49025,6 +49105,14 @@
       "onboard_time": 1679066190,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 173214,
+      "num": 173214,
+      "word": "华为2022年净利润356亿",
+      "onboard_time": 1680254124,
+      "rank": 36,
+      "category": "科技"
     },
     {
       "raw_hot": 173209,
@@ -51235,14 +51323,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 159595,
-      "num": 159595,
-      "word": "Scout获常规赛MVP",
-      "onboard_time": 1680251724,
-      "rank": 37,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 159536,
       "num": 159536,
       "word": "黄奕分享产后焦虑经历",
@@ -51417,6 +51497,14 @@
       "onboard_time": 1677804089,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 158394,
+      "num": 158394,
+      "word": "国产电视剧编剧的脑袋里在想什么",
+      "onboard_time": 1680253824,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 158367,
@@ -57195,6 +57283,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 123037,
+      "num": 123037,
+      "word": "蔡卓妍打卡林俊杰演唱会vlog",
+      "onboard_time": 1680252505,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 123028,
       "num": 123028,
       "word": "范丞丞白衬衫花絮照",
@@ -57432,6 +57528,14 @@
       "word": "沙漠种树有多难",
       "onboard_time": 1680153748,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 121467,
+      "num": 121467,
+      "word": "12306官方详解免费坐高铁",
+      "onboard_time": 1680254006,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -57904,6 +58008,14 @@
       "word": "夏花画室花絮",
       "onboard_time": 1678107627,
       "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 117470,
+      "num": 117470,
+      "word": "爱情而已的台词立意",
+      "onboard_time": 1680254006,
+      "rank": 46,
       "category": "影视"
     },
     {
@@ -58561,6 +58673,14 @@
       "onboard_time": 1680135807,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 112874,
+      "num": 112874,
+      "word": "猫咪坠入爱河是什么样的",
+      "onboard_time": 1680252686,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 112847,
@@ -62236,7 +62356,7 @@
     },
     {
       "raw_hot": 70823,
-      "num": 779836,
+      "num": 835413,
       "word": "带你共享花开烂漫时",
       "onboard_time": 1680248546,
       "rank": 2,
