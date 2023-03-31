@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/04/01 00:21:42 ~ 2023/04/01 07:16:07
+本榜单时间：2023/04/01 00:21:42 ~ 2023/04/01 07:33:28
 </p>
 </blockquote>
 <p>
@@ -21,14 +21,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E4%BA%BA%E6%88%90%E4%B8%BA%E5%85%A8%E5%9B%BD%E6%9C%80%E6%BD%AE%E7%9A%84%E4%BB%94%23" target="weibo">
-广东人成为全国最潮的仔（热度：596758）
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%BC%E5%8F%AB81192%23" target="weibo">
+呼叫81192（热度：611165）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%91%BC%E5%8F%AB81192%23" target="weibo">
-呼叫81192（热度：577548）
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E4%BA%BA%E6%88%90%E4%B8%BA%E5%85%A8%E5%9B%BD%E6%9C%80%E6%BD%AE%E7%9A%84%E4%BB%94%23" target="weibo">
+广东人成为全国最潮的仔（热度：596758）
 </a>
 </li>
 
@@ -99,6 +99,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E5%A4%96%E7%9B%B8%E5%B0%86%E8%AE%BF%E5%8D%8E%23" target="weibo">
+外交部回应日本外相将访华（热度：328858）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%81%82%E5%B0%8F%E9%9B%A8%E8%8E%B7%E6%95%91%23" target="weibo">
 聂小雨获救（热度：298574）
 </a>
@@ -129,6 +135,18 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E6%9C%88%23" target="weibo">
+四月（热度：215583）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%84%9A%E4%BA%BA%E8%8A%82%23" target="weibo">
+愚人节（热度：215228）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AB%A3%E8%AF%B4%E4%B8%8D%E8%99%9A%E6%AD%A4%E8%A1%8C%E5%90%8E%E4%BC%9A%E6%9C%89%E6%9C%9F%23" target="weibo">
 唐嫣说不虚此行后会有期（热度：215069）
 </a>
@@ -136,7 +154,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%92%9F%E5%8D%97%E5%B1%B1%E7%A7%B0%E6%9D%A1%E4%BB%B6%E5%85%81%E8%AE%B8%E5%8F%AF%E4%B8%8D%E6%88%B4%E5%8F%A3%E7%BD%A9%23" target="weibo">
-钟南山称条件允许可不戴口罩（热度：212992）
+钟南山称条件允许可不戴口罩（热度：214055）
 </a>
 </li>
 
@@ -153,6 +171,18 @@ Ella一家三口抵达长沙（热度：207176）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%84%9A%E4%BA%BA%E8%8A%82%E5%BF%AB%E4%B9%90%23" target="weibo">
+愚人节快乐（热度：198293）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BC%9F%E7%89%BA%E7%89%B222%E5%B9%B4%E4%BA%86%23" target="weibo">
+王伟牺牲22年了（热度：192069）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%80%E5%A5%BD%E5%97%91%E7%9A%84%E5%A7%90%E5%BC%9F%E6%81%8B%23" target="weibo">
 最好嗑的姐弟恋（热度：189261）
 </a>
@@ -165,20 +195,26 @@ Ella一家三口抵达长沙（热度：207176）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%8C%E7%AD%89%E5%88%86%E9%87%8F%E9%9D%A2%E9%A3%9F%E6%98%AF%E7%B1%B3%E9%A5%AD%E7%83%AD%E9%87%8F%E7%9A%842%E5%88%B03%E5%80%8D%23" target="weibo">
+同等分量面食是米饭热量的2到3倍（热度：166007）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E7%A3%8A%E8%A2%AB%E9%80%81%E7%81%AB%E7%83%88%E9%B8%9F%23" target="weibo">
 吴磊被送火烈鸟（热度：159313）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E7%A5%9E3.6%23" target="weibo">
-原神3.6（热度：154024）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%9C%80%E5%A4%A7%E9%9C%B2%E5%A4%A9%E5%A4%9C%E5%B8%82%E9%87%8D%E5%BC%80%23" target="weibo">
+上海最大露天夜市重开（热度：159210）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%9C%80%E5%A4%A7%E9%9C%B2%E5%A4%A9%E5%A4%9C%E5%B8%82%E9%87%8D%E5%BC%80%23" target="weibo">
-上海最大露天夜市重开（热度：153150）
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E7%A5%9E3.6%23" target="weibo">
+原神3.6（热度：154024）
 </a>
 </li>
 
@@ -201,6 +237,12 @@ Ella一家三口抵达长沙（热度：207176）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%9F%E4%B8%BD%E5%A8%85%E5%88%86%E4%BA%AB%E8%BF%AA%E5%A3%AB%E5%B0%BC%E6%B8%B8%E7%8E%A9%E5%BA%93%E5%AD%98%E7%85%A7%23" target="weibo">
+佟丽娅分享迪士尼游玩库存照（热度：141397）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E7%A5%96%E5%84%BF%E6%8A%98%E8%85%B0%E6%96%B0%E9%80%A0%E5%9E%8B%23" target="weibo">
 宋祖儿折腰新造型（热度：140379）
 </a>
@@ -219,14 +261,14 @@ Ella一家三口抵达长沙（热度：207176）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%9F%E4%B8%BD%E5%A8%85%E5%88%86%E4%BA%AB%E8%BF%AA%E5%A3%AB%E5%B0%BC%E6%B8%B8%E7%8E%A9%E5%BA%93%E5%AD%98%E7%85%A7%23" target="weibo">
-佟丽娅分享迪士尼游玩库存照（热度：132225）
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%96%E6%98%AF%E8%B0%81%E8%B5%B5%E5%85%AC%E5%AD%90%E8%83%8C%E6%99%AF%23" target="weibo">
+他是谁赵公子背景（热度：125644）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%96%E6%98%AF%E8%B0%81%E8%B5%B5%E5%85%AC%E5%AD%90%E8%83%8C%E6%99%AF%23" target="weibo">
-他是谁赵公子背景（热度：125644）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E7%A6%81%E6%AD%A2%E8%84%8F%E8%BD%A6%E5%85%A5%E5%9F%8E%E8%A7%84%E5%AE%9A%23" target="weibo">
+如何看待禁止脏车入城规定（热度：120016）
 </a>
 </li>
 
@@ -239,12 +281,6 @@ Ella一家三口抵达长沙（热度：207176）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%86%8A%E7%8C%AB%E4%B9%9F%E6%9C%89%E5%92%AC%E4%B8%8D%E5%8A%A8%E7%9A%84%E7%AB%B9%E5%AD%90%23" target="weibo">
 熊猫也有咬不动的竹子（热度：108812）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E7%A6%81%E6%AD%A2%E8%84%8F%E8%BD%A6%E5%85%A5%E5%9F%8E%E8%A7%84%E5%AE%9A%23" target="weibo">
-如何看待禁止脏车入城规定（热度：108645）
 </a>
 </li>
 
@@ -279,12 +315,6 @@ Ella一家三口抵达长沙（热度：207176）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E5%A4%96%E7%9B%B8%E5%B0%86%E8%AE%BF%E5%8D%8E%23" target="weibo">
-外交部回应日本外相将访华（热度：99388）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23SMTOWN%E6%96%B0CEO%E5%BC%A0%E5%93%B2%E8%B5%AB%23" target="weibo">
 SMTOWN新CEO张哲赫（热度：99278）
 </a>
@@ -293,12 +323,6 @@ SMTOWN新CEO张哲赫（热度：99278）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%9C%AF%23" target="weibo">
 白术（热度：95002）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%8C%E7%AD%89%E5%88%86%E9%87%8F%E9%9D%A2%E9%A3%9F%E6%98%AF%E7%B1%B3%E9%A5%AD%E7%83%AD%E9%87%8F%E7%9A%842%E5%88%B03%E5%80%8D%23" target="weibo">
-同等分量面食是米饭热量的2到3倍（热度：91732）
 </a>
 </li>
 
@@ -321,8 +345,20 @@ SMTOWN新CEO张哲赫（热度：99278）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E8%AF%B4%E4%BB%8A%E5%B9%B4%E9%87%8D%E7%82%B9%E6%98%AF%E5%B7%A1%E6%BC%94%23" target="weibo">
+蔡徐坤说今年重点是巡演（热度：83095）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%92%8C%E5%B7%A5%E4%BD%9C%E5%AE%A4%E4%BA%92%E5%8A%A8%23" target="weibo">
 杨紫和工作室互动（热度：81998）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85S31%E8%B5%9B%E5%AD%A3%E5%8D%B3%E5%B0%86%E5%BC%80%E5%90%AF%23" target="weibo">
+王者S31赛季即将开启（热度：81583）
 </a>
 </li>
 
@@ -369,26 +405,32 @@ SMTOWN新CEO张哲赫（热度：99278）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85S31%E8%B5%9B%E5%AD%A3%E5%8D%B3%E5%B0%86%E5%BC%80%E5%90%AF%23" target="weibo">
-王者S31赛季即将开启（热度：64096）
+<a href="https://s.weibo.com/weibo?q=%23%E6%84%9A%E4%BA%BA%E8%8A%82%E6%96%87%E6%A1%88%23" target="weibo">
+愚人节文案（热度：61968）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%B5%B7%E5%86%9B74%E5%91%A8%E5%B2%81%23" target="weibo">
+人民海军74周岁（热度：61025）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E8%80%81%E8%88%85%E7%8E%8B%E5%8B%89%E5%81%9A%E5%90%8E%E5%8B%A4%E6%BC%94%E5%8D%91%E5%BE%AE%E6%89%93%E5%B7%A5%E4%BA%BA%23" target="weibo">
-鹿晗老舅王勉做后勤演卑微打工人（热度：55066）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%BC%A0%E4%BC%9F%E8%AF%B4%E6%88%91%E7%94%9A%E8%87%B3%E8%A7%89%E5%BE%97%E6%88%91%E6%98%AF%E5%87%B6%E6%89%8B%23" target="weibo">
-大张伟说我甚至觉得我是凶手（热度：50122）
+鹿晗老舅王勉做后勤演卑微打工人（热度：59121）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%A5%B6%E5%A5%B6%E8%A2%AB%E4%BA%BA%E9%97%AE%E8%B5%B7%E7%BD%91%E5%90%8D%23" target="weibo">
-当奶奶被人问起网名（热度：47196）
+当奶奶被人问起网名（热度：56815）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%BC%A0%E4%BC%9F%E8%AF%B4%E6%88%91%E7%94%9A%E8%87%B3%E8%A7%89%E5%BE%97%E6%88%91%E6%98%AF%E5%87%B6%E6%89%8B%23" target="weibo">
+大张伟说我甚至觉得我是凶手（热度：53685）
 </a>
 </li>
 
