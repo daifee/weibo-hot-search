@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1680280702697,
+  "endTime": 1680282942267,
   "band_list": [
     {
       "raw_hot": 12970403,
@@ -2515,6 +2515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 596758,
+      "num": 596758,
+      "word": "广东人成为全国最潮的仔",
+      "onboard_time": 1680277826,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 595396,
       "num": 595396,
       "word": "白敬亭持股公司经营异常",
@@ -2649,6 +2657,14 @@
       "onboard_time": 1679919690,
       "rank": 11,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 577548,
+      "num": 577548,
+      "word": "呼叫81192",
+      "onboard_time": 1680279149,
+      "rank": 29,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 576544,
@@ -3681,14 +3697,6 @@
       "onboard_time": 1680252208,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 443923,
-      "num": 443923,
-      "word": "广东人成为全国最潮的仔",
-      "onboard_time": 1680277826,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 443783,
@@ -6329,14 +6337,6 @@
       "onboard_time": 1679883690,
       "rank": 18,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 244149,
-      "num": 244149,
-      "word": "呼叫81192",
-      "onboard_time": 1680279149,
-      "rank": 29,
-      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 243858,
@@ -11667,6 +11667,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 86000,
+      "num": 86000,
+      "word": "熊猫也有咬不动的竹子",
+      "onboard_time": 1680279865,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 85662,
       "num": 85662,
       "word": "铃芽之旅成2023引进片票房冠军",
@@ -11737,6 +11745,14 @@
       "onboard_time": 1679755628,
       "rank": 48,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 82604,
+      "num": 82604,
+      "word": "如何看待禁止脏车入城规定",
+      "onboard_time": 1680275189,
+      "rank": 48,
+      "category": "社会议题,情感"
     },
     {
       "raw_hot": 81466,
@@ -11867,6 +11883,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 69135,
+      "num": 70755,
+      "word": "爆浆榴莲肠粉",
+      "onboard_time": 1680279807,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 68232,
       "num": 68232,
       "word": "孙国友称种树以来没有任何经济收入",
@@ -11915,14 +11939,6 @@
       "category": "美食,幽默"
     },
     {
-      "raw_hot": 65889,
-      "num": 70755,
-      "word": "爆浆榴莲肠粉",
-      "onboard_time": 1680279807,
-      "rank": 47,
-      "category": "美食"
-    },
-    {
       "raw_hot": 65540,
       "num": 453523,
       "word": "油敏皮别再作了",
@@ -11961,14 +11977,6 @@
       "onboard_time": 1680089067,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 61851,
-      "num": 70737,
-      "word": "如何看待禁止脏车入城规定",
-      "onboard_time": 1680275189,
-      "rank": 48,
-      "category": "社会议题,情感"
     },
     {
       "raw_hot": 61712,
