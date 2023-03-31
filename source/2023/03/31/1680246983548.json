@@ -1,0 +1,410 @@
+{
+  "runTime": 1680246983548,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1267544,
+        "num": 1267544,
+        "word": "任正非发文重申华为不造车",
+        "onboard_time": 1680242306,
+        "rank": 0,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 966498,
+        "num": 966498,
+        "word": "不婚族晚年生活是什么样子",
+        "onboard_time": 1680243025,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 112676,
+        "num": 911087,
+        "word": "4月起这些新规将影响你我生活",
+        "onboard_time": 1680233425,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 876814,
+        "num": 876814,
+        "word": "到底谁占了华人的房子",
+        "onboard_time": 1680241946,
+        "rank": 3,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 663689,
+        "num": 663689,
+        "word": "BLACKPINK成员solo单曲",
+        "onboard_time": 1680243806,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 640281,
+        "num": 640281,
+        "word": "萌兰",
+        "onboard_time": 1680241826,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 617685,
+        "num": 617685,
+        "word": "all eyes on me",
+        "onboard_time": 1680238767,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 615055,
+        "num": 615055,
+        "word": "难听",
+        "onboard_time": 1680237509,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 484152,
+        "num": 484152,
+        "word": "本科毕业论文抽检都查什么",
+        "onboard_time": 1680232104,
+        "rank": 8,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 469398,
+        "num": 469398,
+        "word": "压价",
+        "onboard_time": 1680242905,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1131860,
+        "num": 462067,
+        "word": "田曦薇代言",
+        "onboard_time": 1680243324,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 767947,
+        "num": 457267,
+        "word": "豫章书院",
+        "onboard_time": 1680232466,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 625181,
+        "num": 457167,
+        "word": "吴磊在首页亲了一天",
+        "onboard_time": 1680231384,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 434270,
+        "num": 434270,
+        "word": "易烊千玺杜莎夫人蜡像馆预告",
+        "onboard_time": 1680242185,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 390497,
+        "num": 390497,
+        "word": "井柏然的鞋",
+        "onboard_time": 1680241527,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 318383,
+        "num": 318383,
+        "word": "任泉王京花企业涉非吸案",
+        "onboard_time": 1680246565,
+        "rank": 15,
+        "category": "财经,艺人"
+      },
+      {
+        "raw_hot": 317117,
+        "num": 317117,
+        "word": "竹筒奶茶原来是回收筒吗",
+        "onboard_time": 1680234267,
+        "rank": 16,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 314550,
+        "num": 314550,
+        "word": "秦岚说感情中要有些小作",
+        "onboard_time": 1680244406,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 304945,
+        "num": 304945,
+        "word": "网友称妹妹被母亲强行送去戒网学校",
+        "onboard_time": 1680245606,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299813,
+        "num": 299813,
+        "word": "迪丽热巴新剧公诉精英改名",
+        "onboard_time": 1680239849,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 280564,
+        "num": 280564,
+        "word": "金智秀solo单曲",
+        "onboard_time": 1680236367,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 268270,
+        "num": 268270,
+        "word": "上海海事大学",
+        "onboard_time": 1680236128,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252824,
+        "num": 252824,
+        "word": "假如秋瓷炫乘风4淘汰",
+        "onboard_time": 1680235227,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249508,
+        "num": 249508,
+        "word": "专家称楼市若不启动经济很难启动",
+        "onboard_time": 1680244645,
+        "rank": 23,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 243858,
+        "num": 243858,
+        "word": "假装自己是一条狗和ChatGPT聊天",
+        "onboard_time": 1680244944,
+        "rank": 24,
+        "category": "情感,科技"
+      },
+      {
+        "raw_hot": 240954,
+        "num": 240954,
+        "word": "特朗普预计下周自首",
+        "onboard_time": 1680225324,
+        "rank": 25,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 232460,
+        "num": 232460,
+        "word": "黄子韬瘦了好多",
+        "onboard_time": 1680230905,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220743,
+        "num": 220743,
+        "word": "旅客自带盒饭用高铁微波炉被拒",
+        "onboard_time": 1680239786,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215372,
+        "num": 215372,
+        "word": "广东人快要发霉了",
+        "onboard_time": 1680231447,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 213512,
+        "num": 213512,
+        "word": "范丞丞为戏增肥30斤是自己提的",
+        "onboard_time": 1680241226,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212643,
+        "num": 212643,
+        "word": "胡歌说没想到会和刘亦菲同台",
+        "onboard_time": 1680231447,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 212157,
+        "num": 212157,
+        "word": "刘浩存新片首映礼哭了",
+        "onboard_time": 1680246446,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 200599,
+        "num": 200599,
+        "word": "孙茜牵儿子走秀",
+        "onboard_time": 1680246565,
+        "rank": 32,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 195764,
+        "num": 195764,
+        "word": "华晨宇演唱会的宣传片",
+        "onboard_time": 1680246565,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 166751,
+        "num": 166751,
+        "word": "离职的快乐是藏不住的",
+        "onboard_time": 1680242785,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 157629,
+        "num": 157629,
+        "word": "王鹤棣录制桃花坞3",
+        "onboard_time": 1680240866,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140944,
+        "num": 140944,
+        "word": "丧尸来了都得喊大哥",
+        "onboard_time": 1680240506,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138925,
+        "num": 138925,
+        "word": "我的告白沉默了俩个寝室",
+        "onboard_time": 1680236008,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 135178,
+        "num": 135178,
+        "word": "大侦探",
+        "onboard_time": 1680246446,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123871,
+        "num": 123871,
+        "word": "豫章书院揭发人现身庭审现场",
+        "onboard_time": 1680236309,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119677,
+        "num": 119677,
+        "word": "每个月都会收到男友送的玩偶",
+        "onboard_time": 1680239128,
+        "rank": 40,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 116182,
+        "num": 116182,
+        "word": "你不能说狮子座不行",
+        "onboard_time": 1680246565,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 114770,
+        "num": 114770,
+        "word": "牙医口罩下的表情是怎样的",
+        "onboard_time": 1680235349,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 111770,
+        "num": 111770,
+        "word": "YG",
+        "onboard_time": 1680238348,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 99166,
+        "num": 99166,
+        "word": "五月天武汉",
+        "onboard_time": 1680229585,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 97873,
+        "num": 97873,
+        "word": "喻恩泰还原吕秀才经典桥段",
+        "onboard_time": 1680237509,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97407,
+        "num": 97407,
+        "word": "宁艺卓Giselle吐槽ae形象",
+        "onboard_time": 1680231805,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89848,
+        "num": 89848,
+        "word": "带押过户",
+        "onboard_time": 1680246686,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 88998,
+        "num": 88998,
+        "word": "张杰未live巡回演唱会",
+        "onboard_time": 1680240808,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 83504,
+        "num": 83504,
+        "word": "豫章书院曾经的学生怎么样了",
+        "onboard_time": 1680240566,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#30秒飞阅雄安新区看新颜#"
+    }
+  }
+}

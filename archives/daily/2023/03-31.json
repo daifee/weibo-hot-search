@@ -1,6 +1,6 @@
 {
   "startTime": 1680193469065,
-  "endTime": 1680244594609,
+  "endTime": 1680246983548,
   "band_list": [
     {
       "raw_hot": 2726093,
@@ -67,6 +67,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1267544,
+      "num": 1267544,
+      "word": "任正非发文重申华为不造车",
+      "onboard_time": 1680242306,
+      "rank": 6,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 1251672,
       "num": 1251672,
       "word": "爱情而已这是可以播的吗",
@@ -81,6 +89,14 @@
       "onboard_time": 1680234267,
       "rank": 7,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 1131860,
+      "num": 462067,
+      "word": "田曦薇代言",
+      "onboard_time": 1680243324,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 1131647,
@@ -107,20 +123,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 966498,
+      "num": 966498,
+      "word": "不婚族晚年生活是什么样子",
+      "onboard_time": 1680243025,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 937343,
       "num": 937343,
       "word": "本科毕业论文抽检都查什么",
       "onboard_time": 1680232104,
       "rank": 39,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 933433,
-      "num": 933433,
-      "word": "任正非发文重申华为不造车",
-      "onboard_time": 1680242306,
-      "rank": 6,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 910171,
@@ -153,6 +169,14 @@
       "onboard_time": 1680193762,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 876814,
+      "num": 876814,
+      "word": "到底谁占了华人的房子",
+      "onboard_time": 1680241946,
+      "rank": 12,
+      "category": "其它"
     },
     {
       "raw_hot": 847250,
@@ -219,14 +243,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 705711,
-      "num": 478182,
-      "word": "到底谁占了华人的房子",
-      "onboard_time": 1680241946,
-      "rank": 12,
-      "category": "其它"
-    },
-    {
       "raw_hot": 693074,
       "num": 693074,
       "word": "部分省考年龄放宽至40岁",
@@ -267,6 +283,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 663689,
+      "num": 663689,
+      "word": "BLACKPINK成员solo单曲",
+      "onboard_time": 1680243806,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 658260,
       "num": 658260,
       "word": "吴磊吻戏从脸红到耳朵",
@@ -283,12 +307,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 646548,
-      "num": 432548,
-      "word": "田曦薇代言",
-      "onboard_time": 1680243324,
-      "rank": 25,
-      "category": "艺人"
+      "raw_hot": 640281,
+      "num": 640281,
+      "word": "萌兰",
+      "onboard_time": 1680241826,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 620225,
@@ -364,11 +388,19 @@
     },
     {
       "raw_hot": 469812,
-      "num": 432486,
+      "num": 434270,
       "word": "易烊千玺杜莎夫人蜡像馆预告",
       "onboard_time": 1680242185,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 469398,
+      "num": 469398,
+      "word": "压价",
+      "onboard_time": 1680242905,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 457248,
@@ -427,14 +459,6 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 432483,
-      "num": 432483,
-      "word": "压价",
-      "onboard_time": 1680242905,
-      "rank": 30,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 417129,
       "num": 417129,
       "word": "牙医口罩下的表情是怎样的",
@@ -491,14 +515,6 @@
       "category": "社会新闻,幽默"
     },
     {
-      "raw_hot": 370841,
-      "num": 370841,
-      "word": "萌兰",
-      "onboard_time": 1680241826,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 364795,
       "num": 364795,
       "word": "减脂餐狗都不吃",
@@ -523,28 +539,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 345699,
-      "num": 345699,
-      "word": "不婚族晚年生活是什么样子",
-      "onboard_time": 1680243025,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 336116,
       "num": 336116,
       "word": "宁艺卓Giselle吐槽ae形象",
       "onboard_time": 1680231805,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 332791,
-      "num": 332791,
-      "word": "BLACKPINK成员solo单曲",
-      "onboard_time": 1680243806,
-      "rank": 21,
-      "category": "音乐"
     },
     {
       "raw_hot": 321791,
@@ -561,6 +561,22 @@
       "onboard_time": 1680209771,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 318383,
+      "num": 318383,
+      "word": "任泉王京花企业涉非吸案",
+      "onboard_time": 1680246565,
+      "rank": 15,
+      "category": "财经,艺人"
+    },
+    {
+      "raw_hot": 314550,
+      "num": 314550,
+      "word": "秦岚说感情中要有些小作",
+      "onboard_time": 1680244406,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 313137,
@@ -593,6 +609,14 @@
       "onboard_time": 1680219082,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 304945,
+      "num": 304945,
+      "word": "网友称妹妹被母亲强行送去戒网学校",
+      "onboard_time": 1680245606,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 297224,
@@ -747,6 +771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 249508,
+      "num": 249508,
+      "word": "专家称楼市若不启动经济很难启动",
+      "onboard_time": 1680244645,
+      "rank": 23,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 247039,
       "num": 268873,
       "word": "每个月都会收到男友送的玩偶",
@@ -761,6 +793,14 @@
       "onboard_time": 1680190049,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 243858,
+      "num": 243858,
+      "word": "假装自己是一条狗和ChatGPT聊天",
+      "onboard_time": 1680244944,
+      "rank": 24,
+      "category": "情感,科技"
     },
     {
       "raw_hot": 243020,
@@ -819,6 +859,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 212157,
+      "num": 212157,
+      "word": "刘浩存新片首映礼哭了",
+      "onboard_time": 1680246446,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 210416,
       "num": 210416,
       "word": "袁冰妍",
@@ -857,6 +905,14 @@
       "onboard_time": 1680219503,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200599,
+      "num": 200599,
+      "word": "孙茜牵儿子走秀",
+      "onboard_time": 1680246565,
+      "rank": 32,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 200234,
@@ -905,6 +961,14 @@
       "onboard_time": 1680232707,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 195764,
+      "num": 195764,
+      "word": "华晨宇演唱会的宣传片",
+      "onboard_time": 1680246565,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 195257,
@@ -1107,6 +1171,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 166751,
+      "num": 166751,
+      "word": "离职的快乐是藏不住的",
+      "onboard_time": 1680242785,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 165060,
       "num": 165060,
       "word": "黑暗荣耀柯南画风版",
@@ -1267,20 +1339,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 137255,
-      "num": 137255,
-      "word": "秦岚说感情中要有些小作",
-      "onboard_time": 1680244406,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 136807,
       "num": 136807,
       "word": "YG新女团最新翻唱舞台",
       "onboard_time": 1680222986,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 135178,
+      "num": 135178,
+      "word": "大侦探",
+      "onboard_time": 1680246446,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 135088,
@@ -1419,6 +1491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 116182,
+      "num": 116182,
+      "word": "你不能说狮子座不行",
+      "onboard_time": 1680246565,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 112685,
       "num": 112685,
       "word": "归晓婚纱照",
@@ -1531,12 +1611,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 93495,
-      "num": 104398,
-      "word": "离职的快乐是藏不住的",
-      "onboard_time": 1680242785,
-      "rank": 49,
-      "category": "幽默"
+      "raw_hot": 89848,
+      "num": 89848,
+      "word": "带押过户",
+      "onboard_time": 1680246686,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 84846,

@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1680244594609,
+  "endTime": 1680246983548,
   "band_list": [
     {
       "raw_hot": 12970403,
@@ -763,6 +763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1267544,
+      "num": 1267544,
+      "word": "任正非发文重申华为不造车",
+      "onboard_time": 1680242306,
+      "rank": 6,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 1254355,
       "num": 588678,
       "word": "截图癖",
@@ -905,6 +913,14 @@
       "onboard_time": 1679905051,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1131860,
+      "num": 462067,
+      "word": "田曦薇代言",
+      "onboard_time": 1680243324,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 1131647,
@@ -1099,6 +1115,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 966498,
+      "num": 966498,
+      "word": "不婚族晚年生活是什么样子",
+      "onboard_time": 1680243025,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 958600,
       "num": 958600,
       "word": "北京语言大学发声明",
@@ -1153,14 +1177,6 @@
       "onboard_time": 1680232104,
       "rank": 39,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 933433,
-      "num": 933433,
-      "word": "任正非发文重申华为不造车",
-      "onboard_time": 1680242306,
-      "rank": 6,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 927202,
@@ -1337,6 +1353,14 @@
       "onboard_time": 1679985088,
       "rank": 18,
       "category": "幽默,科技"
+    },
+    {
+      "raw_hot": 876814,
+      "num": 876814,
+      "word": "到底谁占了华人的房子",
+      "onboard_time": 1680241946,
+      "rank": 12,
+      "category": "其它"
     },
     {
       "raw_hot": 872413,
@@ -1755,14 +1779,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 705711,
-      "num": 478182,
-      "word": "到底谁占了华人的房子",
-      "onboard_time": 1680241946,
-      "rank": 12,
-      "category": "其它"
-    },
-    {
       "raw_hot": 705434,
       "num": 705434,
       "word": "张译录制清华大学问候视频",
@@ -1915,6 +1931,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 663689,
+      "num": 663689,
+      "word": "BLACKPINK成员solo单曲",
+      "onboard_time": 1680243806,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 662943,
       "num": 662943,
       "word": "喜欢你我也是",
@@ -1971,14 +1995,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 646548,
-      "num": 432548,
-      "word": "田曦薇代言",
-      "onboard_time": 1680243324,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 644889,
       "num": 644889,
       "word": "怪异君",
@@ -2016,6 +2032,14 @@
       "word": "高中生用甘油自制护肤品养出大菌种",
       "onboard_time": 1680048690,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 640281,
+      "num": 640281,
+      "word": "萌兰",
+      "onboard_time": 1680241826,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -2988,11 +3012,19 @@
     },
     {
       "raw_hot": 469812,
-      "num": 432486,
+      "num": 434270,
       "word": "易烊千玺杜莎夫人蜡像馆预告",
       "onboard_time": 1680242185,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 469398,
+      "num": 469398,
+      "word": "压价",
+      "onboard_time": 1680242905,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 468153,
@@ -3265,14 +3297,6 @@
       "onboard_time": 1680136169,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 432483,
-      "num": 432483,
-      "word": "压价",
-      "onboard_time": 1680242905,
-      "rank": 30,
-      "category": "音乐"
     },
     {
       "raw_hot": 432204,
@@ -3891,14 +3915,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 370841,
-      "num": 370841,
-      "word": "萌兰",
-      "onboard_time": 1680241826,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 368959,
       "num": 368959,
       "word": "萌探3",
@@ -4073,14 +4089,6 @@
       "onboard_time": 1680048867,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 345699,
-      "num": 345699,
-      "word": "不婚族晚年生活是什么样子",
-      "onboard_time": 1680243025,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 345581,
@@ -4267,14 +4275,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 332791,
-      "num": 332791,
-      "word": "BLACKPINK成员solo单曲",
-      "onboard_time": 1680243806,
-      "rank": 21,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 331875,
       "num": 253279,
       "word": "这是腰腹赘肉杀手吧",
@@ -4419,6 +4419,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 318383,
+      "num": 318383,
+      "word": "任泉王京花企业涉非吸案",
+      "onboard_time": 1680246565,
+      "rank": 15,
+      "category": "财经,艺人"
+    },
+    {
       "raw_hot": 317680,
       "num": 317680,
       "word": "王国之泪",
@@ -4449,6 +4457,14 @@
       "onboard_time": 1679893060,
       "rank": 17,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 314550,
+      "num": 314550,
+      "word": "秦岚说感情中要有些小作",
+      "onboard_time": 1680244406,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 313141,
@@ -4529,6 +4545,14 @@
       "onboard_time": 1680219082,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 304945,
+      "num": 304945,
+      "word": "网友称妹妹被母亲强行送去戒网学校",
+      "onboard_time": 1680245606,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 304864,
@@ -5507,6 +5531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 249508,
+      "num": 249508,
+      "word": "专家称楼市若不启动经济很难启动",
+      "onboard_time": 1680244645,
+      "rank": 23,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 248984,
       "num": 248984,
       "word": "狗狗读懂了环卫工人的手势",
@@ -5569,6 +5601,14 @@
       "onboard_time": 1679883690,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 243858,
+      "num": 243858,
+      "word": "假装自己是一条狗和ChatGPT聊天",
+      "onboard_time": 1680244944,
+      "rank": 24,
+      "category": "情感,科技"
     },
     {
       "raw_hot": 242925,
@@ -6227,6 +6267,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 212157,
+      "num": 212157,
+      "word": "刘浩存新片首映礼哭了",
+      "onboard_time": 1680246446,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 212035,
       "num": 212035,
       "word": "减小肚子试试这个动作",
@@ -6659,6 +6707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 200599,
+      "num": 200599,
+      "word": "孙茜牵儿子走秀",
+      "onboard_time": 1680246565,
+      "rank": 32,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 200521,
       "num": 200521,
       "word": "爱情而已片头的标题和照片",
@@ -6937,6 +6993,14 @@
       "onboard_time": 1679901871,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 195764,
+      "num": 195764,
+      "word": "华晨宇演唱会的宣传片",
+      "onboard_time": 1680246565,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 195665,
@@ -7987,6 +8051,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 166751,
+      "num": 166751,
+      "word": "离职的快乐是藏不住的",
+      "onboard_time": 1680242785,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 166723,
       "num": 166723,
       "word": "孟贺",
@@ -8883,14 +8955,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 137255,
-      "num": 137255,
-      "word": "秦岚说感情中要有些小作",
-      "onboard_time": 1680244406,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 137220,
       "num": 137220,
       "word": "宋三川为梁友安羽转网",
@@ -9507,6 +9571,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 116182,
+      "num": 116182,
+      "word": "你不能说狮子座不行",
+      "onboard_time": 1680246565,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 115917,
       "num": 115917,
       "word": "蔡徐坤微博之夜饭拍视频",
@@ -10067,14 +10139,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 93495,
-      "num": 104398,
-      "word": "离职的快乐是藏不住的",
-      "onboard_time": 1680242785,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 92801,
       "num": 92801,
       "word": "在成都看见了日照金山",
@@ -10121,6 +10185,14 @@
       "onboard_time": 1679905830,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 89848,
+      "num": 89848,
+      "word": "带押过户",
+      "onboard_time": 1680246686,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 89690,
