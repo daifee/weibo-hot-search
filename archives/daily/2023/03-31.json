@@ -1,6 +1,6 @@
 {
   "startTime": 1680193469065,
-  "endTime": 1680255227729,
+  "endTime": 1680257947843,
   "band_list": [
     {
       "raw_hot": 2726093,
@@ -17,6 +17,14 @@
       "onboard_time": 1680232466,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2493250,
+      "num": 2493250,
+      "word": "短指症",
+      "onboard_time": 1680252745,
+      "rank": 5,
+      "category": "其它"
     },
     {
       "raw_hot": 2319965,
@@ -67,12 +75,12 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 1344622,
-      "num": 1344622,
-      "word": "短指症",
-      "onboard_time": 1680252745,
-      "rank": 5,
-      "category": "其它"
+      "raw_hot": 1667566,
+      "num": 1667566,
+      "word": "叶一茜说森碟觉得弟弟是最有心机的人",
+      "onboard_time": 1680251306,
+      "rank": 1,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1315302,
@@ -299,6 +307,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 701826,
+      "num": 701826,
+      "word": "华为2022年净利润356亿",
+      "onboard_time": 1680254124,
+      "rank": 36,
+      "category": "科技"
+    },
+    {
       "raw_hot": 693074,
       "num": 693074,
       "word": "部分省考年龄放宽至40岁",
@@ -323,12 +339,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 682626,
+      "num": 682626,
+      "word": "假性不婚族8个特征",
+      "onboard_time": 1680252986,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 682547,
       "num": 682547,
       "word": "油价",
       "onboard_time": 1680225807,
       "rank": 45,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 678138,
+      "num": 678138,
+      "word": "钟南山称条件允许可不戴口罩",
+      "onboard_time": 1680257544,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 666959,
@@ -371,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 628244,
+      "num": 592218,
+      "word": "徐冬冬椰树新姿势",
+      "onboard_time": 1680255324,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 620225,
       "num": 620225,
       "word": "女子当场抓住猥琐怪癖男并霸气训斥",
@@ -385,6 +425,22 @@
       "onboard_time": 1680219322,
       "rank": 10,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 597733,
+      "num": 597733,
+      "word": "周雨彤吴磊VS周雨彤侯明昊",
+      "onboard_time": 1680255085,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 597665,
+      "num": 597665,
+      "word": "王登峰被双开",
+      "onboard_time": 1680255686,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 563721,
@@ -523,14 +579,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 456362,
-      "num": 456362,
-      "word": "周雨彤吴磊VS周雨彤侯明昊",
-      "onboard_time": 1680255085,
-      "rank": 11,
-      "category": "影视"
-    },
-    {
       "raw_hot": 452383,
       "num": 452383,
       "word": "特朗普发声明回应被起诉",
@@ -564,7 +612,7 @@
     },
     {
       "raw_hot": 444017,
-      "num": 287422,
+      "num": 324649,
       "word": "奔跑吧全员欧式宫廷风",
       "onboard_time": 1680252208,
       "rank": 20,
@@ -585,14 +633,6 @@
       "onboard_time": 1680246565,
       "rank": 32,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 418129,
-      "num": 418129,
-      "word": "华为2022年净利润356亿",
-      "onboard_time": 1680254124,
-      "rank": 36,
-      "category": "科技"
     },
     {
       "raw_hot": 417129,
@@ -617,6 +657,14 @@
       "onboard_time": 1680247227,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 400914,
+      "num": 400914,
+      "word": "中国银行原董事长刘连舸被查",
+      "onboard_time": 1680257544,
+      "rank": 14,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 393484,
@@ -699,14 +747,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 361353,
-      "num": 361353,
-      "word": "假性不婚族8个特征",
-      "onboard_time": 1680252986,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 351352,
       "num": 351352,
       "word": "旅客自带盒饭用高铁微波炉被拒",
@@ -723,12 +763,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 346200,
+      "num": 346200,
+      "word": "TES对战WE",
+      "onboard_time": 1680256587,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 336116,
       "num": 336116,
       "word": "宁艺卓Giselle吐槽ae形象",
       "onboard_time": 1680231805,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 333392,
+      "num": 333392,
+      "word": "国产电视剧编剧的脑袋里在想什么",
+      "onboard_time": 1680253824,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 327658,
@@ -755,11 +811,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 319248,
+      "num": 319248,
+      "word": "杨紫皮衣披发造型",
+      "onboard_time": 1680256045,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 313137,
       "num": 313137,
       "word": "豫章书院前学员发声",
       "onboard_time": 1680233246,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 311887,
+      "num": 311887,
+      "word": "12306官方详解免费坐高铁",
+      "onboard_time": 1680254006,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -923,6 +995,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 266507,
+      "num": 208528,
+      "word": "TES翻盘WE",
+      "onboard_time": 1680257544,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 265925,
       "num": 265925,
       "word": "魅族20",
@@ -945,14 +1025,6 @@
       "onboard_time": 1680251724,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 260856,
-      "num": 260856,
-      "word": "12306官方详解免费坐高铁",
-      "onboard_time": 1680254006,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 259175,
@@ -1035,6 +1107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 235476,
+      "num": 235476,
+      "word": "孟晚舟称华为向死而生怎么能不成仁",
+      "onboard_time": 1680257246,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 230233,
       "num": 230233,
       "word": "路人福建偶遇毛晓彤",
@@ -1075,20 +1155,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 218164,
-      "num": 218164,
-      "word": "国产电视剧编剧的脑袋里在想什么",
-      "onboard_time": 1680253824,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 214500,
       "num": 214500,
       "word": "张大大没有站姐",
       "onboard_time": 1680250704,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 211684,
+      "num": 211684,
+      "word": "WB对战DRG",
+      "onboard_time": 1680257184,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 210416,
@@ -1195,6 +1275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 197966,
+      "num": 197966,
+      "word": "乘风破浪4",
+      "onboard_time": 1680257485,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197858,
       "num": 197858,
       "word": "任嘉伦呼吁守护孤独症孩子",
@@ -1227,6 +1315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 191977,
+      "num": 191977,
+      "word": "每天凌晨4点都要给狗一巴掌",
+      "onboard_time": 1680256765,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 191799,
       "num": 191799,
       "word": "苍兰诀将在日本播出",
@@ -1257,6 +1353,14 @@
       "onboard_time": 1680225385,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189039,
+      "num": 189039,
+      "word": "蔡徐坤日内瓦出发巴黎",
+      "onboard_time": 1680257606,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 188698,
@@ -1459,6 +1563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 168168,
+      "num": 168168,
+      "word": "广东的雨是不是不打算收手了",
+      "onboard_time": 1680256407,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 168075,
       "num": 168075,
       "word": "aespa新歌HoldOnTight",
@@ -1625,6 +1737,14 @@
       "onboard_time": 1680190648,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 143554,
+      "num": 143554,
+      "word": "这小猫怎么还掉色",
+      "onboard_time": 1680255445,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 142295,
@@ -1809,6 +1929,14 @@
       "onboard_time": 1680169589,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 123519,
+      "num": 123519,
+      "word": "陈瑶昆曲造型",
+      "onboard_time": 1680257906,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 122525,
