@@ -1,10 +1,10 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680279702846,
+  "endTime": 1680280702697,
   "band_list": [
     {
-      "raw_hot": 5340159,
-      "num": 5340159,
+      "raw_hot": 7084987,
+      "num": 7084987,
       "word": "邯郸车祸",
       "onboard_time": 1680278126,
       "rank": 0,
@@ -27,8 +27,16 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 540332,
+      "num": 540332,
+      "word": "回顾张国荣生前最后一次亮相",
+      "onboard_time": 1680271050,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 490175,
-      "num": 236274,
+      "num": 250411,
       "word": "叶一茜 森碟和亮仔都是我的宝贝",
       "onboard_time": 1680263307,
       "rank": 10,
@@ -51,16 +59,16 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 449422,
-      "num": 449422,
-      "word": "回顾张国荣生前最后一次亮相",
-      "onboard_time": 1680271050,
-      "rank": 4,
-      "category": "艺人"
+      "raw_hot": 443923,
+      "num": 443923,
+      "word": "广东人成为全国最潮的仔",
+      "onboard_time": 1680277826,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 429908,
-      "num": 229003,
+      "num": 248553,
       "word": "网友丽江偶遇王鹤棣",
       "onboard_time": 1680274590,
       "rank": 11,
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 386276,
-      "num": 225790,
+      "num": 244698,
       "word": "贝儿和妹妹",
       "onboard_time": 1680262648,
       "rank": 12,
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 334266,
-      "num": 220847,
+      "num": 247250,
       "word": "陈伟霆刘雯李沁同框",
       "onboard_time": 1680277885,
       "rank": 13,
@@ -97,6 +105,14 @@
       "onboard_time": 1680261748,
       "rank": 5,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 298574,
+      "num": 298574,
+      "word": "聂小雨获救",
+      "onboard_time": 1680277467,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 291649,
@@ -131,20 +147,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 239007,
-      "num": 216551,
-      "word": "聂小雨获救",
-      "onboard_time": 1680277467,
-      "rank": 14,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 236952,
-      "num": 236952,
-      "word": "广东人成为全国最潮的仔",
-      "onboard_time": 1680277826,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 244149,
+      "num": 244149,
+      "word": "呼叫81192",
+      "onboard_time": 1680279149,
+      "rank": 29,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 215069,
@@ -171,8 +179,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 178680,
-      "num": 178680,
+      "raw_hot": 187686,
+      "num": 187686,
       "word": "钟南山称条件允许可不戴口罩",
       "onboard_time": 1680257544,
       "rank": 18,
@@ -211,6 +219,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 146037,
+      "num": 146037,
+      "word": "鞠婧祎蓝系穿搭",
+      "onboard_time": 1680277885,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 144535,
       "num": 144535,
       "word": "孟晚舟称华为向死而生怎么能不成仁",
@@ -227,14 +243,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 136913,
-      "num": 136913,
-      "word": "鞠婧祎蓝系穿搭",
-      "onboard_time": 1680277885,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 136456,
       "num": 136456,
       "word": "苏醒与经纪人聚餐随拍",
@@ -243,8 +251,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 132402,
-      "num": 132402,
+      "raw_hot": 133120,
+      "num": 133120,
       "word": "猫猫是怎么告状的",
       "onboard_time": 1680275189,
       "rank": 32,
@@ -257,14 +265,6 @@
       "onboard_time": 1680264387,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 111423,
-      "num": 137067,
-      "word": "呼叫81192",
-      "onboard_time": 1680279149,
-      "rank": 29,
-      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 111016,
@@ -331,6 +331,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 90149,
+      "num": 90149,
+      "word": "每天凌晨4点都要给狗一巴掌",
+      "onboard_time": 1680256765,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 83509,
       "num": 83509,
       "word": "拥有可移动的家有多自由",
@@ -371,6 +379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 75366,
+      "num": 75366,
+      "word": "乘风破浪4",
+      "onboard_time": 1680257485,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 73066,
       "num": 73066,
       "word": "黄明昊演唱会花絮视频",
@@ -379,20 +395,28 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 72344,
-      "num": 72344,
-      "word": "乘风破浪4",
-      "onboard_time": 1680257485,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 68390,
       "num": 68390,
       "word": "对美光在华销售产品启动网络安全审查",
       "onboard_time": 1680268470,
       "rank": 49,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 65889,
+      "num": 70755,
+      "word": "爆浆榴莲肠粉",
+      "onboard_time": 1680279807,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 61851,
+      "num": 70737,
+      "word": "如何看待禁止脏车入城规定",
+      "onboard_time": 1680275189,
+      "rank": 48,
+      "category": "社会议题,情感"
     },
     {
       "raw_hot": 16940,

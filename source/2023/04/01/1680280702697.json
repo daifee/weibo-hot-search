@@ -1,0 +1,410 @@
+{
+  "runTime": 1680280702697,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7084987,
+        "num": 7084987,
+        "word": "邯郸车祸",
+        "onboard_time": 1680278126,
+        "rank": 0,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 540332,
+        "num": 540332,
+        "word": "回顾张国荣生前最后一次亮相",
+        "onboard_time": 1680271050,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13195,
+        "num": 448663,
+        "word": "带你共享花开烂漫时",
+        "onboard_time": 1680248546,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 443923,
+        "num": 443923,
+        "word": "广东人成为全国最潮的仔",
+        "onboard_time": 1680277826,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392784,
+        "num": 392784,
+        "word": "张继科方将对侵权用户提起诉讼",
+        "onboard_time": 1680260966,
+        "rank": 4,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 301453,
+        "num": 301453,
+        "word": "迪丽热巴微博之夜发型拆解",
+        "onboard_time": 1680261748,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 298574,
+        "num": 298574,
+        "word": "聂小雨获救",
+        "onboard_time": 1680277467,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 282674,
+        "num": 282674,
+        "word": "学会拒绝不属于自己的评价",
+        "onboard_time": 1680273869,
+        "rank": 7,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 263585,
+        "num": 263585,
+        "word": "打团 暂停",
+        "onboard_time": 1680267087,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 250668,
+        "num": 250668,
+        "word": "华为回应什么时候可以再造5G手机",
+        "onboard_time": 1680271830,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 451027,
+        "num": 250411,
+        "word": "叶一茜 森碟和亮仔都是我的宝贝",
+        "onboard_time": 1680263307,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313398,
+        "num": 248553,
+        "word": "网友丽江偶遇王鹤棣",
+        "onboard_time": 1680274590,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308837,
+        "num": 247250,
+        "word": "陈伟霆刘雯李沁同框",
+        "onboard_time": 1680277885,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292356,
+        "num": 244698,
+        "word": "贝儿和妹妹",
+        "onboard_time": 1680262648,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244149,
+        "num": 244149,
+        "word": "呼叫81192",
+        "onboard_time": 1680279149,
+        "rank": 14,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 192436,
+        "num": 192436,
+        "word": "陈赫打乒乓全靠场外支援",
+        "onboard_time": 1680276207,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187686,
+        "num": 187686,
+        "word": "钟南山称条件允许可不戴口罩",
+        "onboard_time": 1680257544,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187491,
+        "num": 187491,
+        "word": "年轻人为什么爱逛寺庙",
+        "onboard_time": 1680270149,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 185420,
+        "num": 185420,
+        "word": "Ella一家三口抵达长沙",
+        "onboard_time": 1680264147,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153278,
+        "num": 153278,
+        "word": "唐嫣说不虚此行后会有期",
+        "onboard_time": 1680274111,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 542702,
+        "num": 152613,
+        "word": "意大利宣布禁止使用ChatGPT",
+        "onboard_time": 1680267447,
+        "rank": 20,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 523797,
+        "num": 151065,
+        "word": "不要再盲掏耳朵了",
+        "onboard_time": 1680275608,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 374101,
+        "num": 147949,
+        "word": "你介意另一半跟前任同居过吗",
+        "onboard_time": 1680260906,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 213933,
+        "num": 146520,
+        "word": "肖战微博之夜后脑勺直拍视频",
+        "onboard_time": 1680273810,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 146037,
+        "num": 146037,
+        "word": "鞠婧祎蓝系穿搭",
+        "onboard_time": 1680277885,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140547,
+        "num": 140547,
+        "word": "孟晚舟称华为向死而生怎么能不成仁",
+        "onboard_time": 1680257246,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139076,
+        "num": 139076,
+        "word": "男子饭店内持刀伤人致1死2伤",
+        "onboard_time": 1680271529,
+        "rank": 26,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 138176,
+        "num": 138176,
+        "word": "吴磊被送火烈鸟",
+        "onboard_time": 1680276327,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 133890,
+        "num": 133890,
+        "word": "原神3.6",
+        "onboard_time": 1680268168,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 133120,
+        "num": 133120,
+        "word": "猫猫是怎么告状的",
+        "onboard_time": 1680275189,
+        "rank": 29,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 118304,
+        "num": 118304,
+        "word": "宋祖儿折腰新造型",
+        "onboard_time": 1680269608,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 111136,
+        "num": 111136,
+        "word": "张艺兴公司新增体育竞赛组织业务",
+        "onboard_time": 1680272670,
+        "rank": 31,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 109169,
+        "num": 109169,
+        "word": "为什么很节俭还是存不到钱",
+        "onboard_time": 1680261565,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 104559,
+        "num": 104559,
+        "word": "他是谁赵公子背景",
+        "onboard_time": 1680264387,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 95661,
+        "num": 95661,
+        "word": "苏醒与经纪人聚餐随拍",
+        "onboard_time": 1680273630,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92806,
+        "num": 92806,
+        "word": "白术",
+        "onboard_time": 1680267386,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 90459,
+        "num": 90459,
+        "word": "SMTOWN新CEO张哲赫",
+        "onboard_time": 1680261627,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90149,
+        "num": 90149,
+        "word": "每天凌晨4点都要给狗一巴掌",
+        "onboard_time": 1680256765,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 86179,
+        "num": 86179,
+        "word": "短指症",
+        "onboard_time": 1680252745,
+        "rank": 38,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 85927,
+        "num": 85927,
+        "word": "阿娇甜酷Girl造型",
+        "onboard_time": 1680275308,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85488,
+        "num": 85488,
+        "word": "忠犬八公",
+        "onboard_time": 1680272187,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 83668,
+        "num": 83668,
+        "word": "易烊千玺给网站续约",
+        "onboard_time": 1680249206,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75366,
+        "num": 75366,
+        "word": "乘风破浪4",
+        "onboard_time": 1680257485,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72605,
+        "num": 72605,
+        "word": "纪念币",
+        "onboard_time": 1680271890,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 70892,
+        "num": 70892,
+        "word": "黄明昊演唱会花絮视频",
+        "onboard_time": 1680279507,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 70769,
+        "num": 70769,
+        "word": "北汽原董事长徐和谊被查",
+        "onboard_time": 1680275010,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68548,
+        "num": 70766,
+        "word": "杨紫和工作室互动",
+        "onboard_time": 1680266787,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65889,
+        "num": 70755,
+        "word": "爆浆榴莲肠粉",
+        "onboard_time": 1680279807,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 61851,
+        "num": 70737,
+        "word": "如何看待禁止脏车入城规定",
+        "onboard_time": 1680275189,
+        "rank": 48,
+        "category": "社会议题,情感"
+      },
+      {
+        "raw_hot": 60971,
+        "num": 70729,
+        "word": "张嘉倪为角色把舞鞋跳破",
+        "onboard_time": 1680268650,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#为不确定的世界注入中国信心与力量#"
+    }
+  }
+}
