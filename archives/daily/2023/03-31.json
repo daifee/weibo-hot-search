@@ -1,6 +1,6 @@
 {
   "startTime": 1680193469065,
-  "endTime": 1680272176329,
+  "endTime": 1680273211059,
   "band_list": [
     {
       "raw_hot": 2726093,
@@ -115,6 +115,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 1332863,
+      "num": 1332863,
+      "word": "林彦俊左肋骨骨折",
+      "onboard_time": 1680270570,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1315302,
       "num": 1315302,
       "word": "不婚族晚年生活是什么样子",
@@ -196,7 +204,7 @@
     },
     {
       "raw_hot": 1046090,
-      "num": 405001,
+      "num": 406908,
       "word": "贝儿和妹妹",
       "onboard_time": 1680262648,
       "rank": 12,
@@ -241,14 +249,6 @@
       "onboard_time": 1680250043,
       "rank": 33,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 925937,
-      "num": 925937,
-      "word": "林彦俊左肋骨骨折",
-      "onboard_time": 1680270570,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 910171,
@@ -395,6 +395,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 704457,
+      "num": 704457,
+      "word": "男子饭店内持刀伤人致1死2伤",
+      "onboard_time": 1680271529,
+      "rank": 16,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 701826,
       "num": 701826,
       "word": "华为2022年净利润356亿",
@@ -516,7 +524,7 @@
     },
     {
       "raw_hot": 603331,
-      "num": 403182,
+      "num": 406093,
       "word": "王鹤棣晒和王传君合照",
       "onboard_time": 1680267087,
       "rank": 12,
@@ -545,6 +553,22 @@
       "onboard_time": 1680255686,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 595792,
+      "num": 595792,
+      "word": "年轻人为什么爱逛寺庙",
+      "onboard_time": 1680270149,
+      "rank": 7,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 576544,
+      "num": 576544,
+      "word": "纪念币",
+      "onboard_time": 1680271890,
+      "rank": 19,
+      "category": "财经"
     },
     {
       "raw_hot": 571312,
@@ -795,6 +819,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 425090,
+      "num": 425090,
+      "word": "张新成以前不喜欢录综艺",
+      "onboard_time": 1680270870,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 424690,
       "num": 424690,
       "word": "暖阳裤子",
@@ -891,14 +923,6 @@
       "category": "社会新闻,幽默"
     },
     {
-      "raw_hot": 379390,
-      "num": 379390,
-      "word": "年轻人为什么爱逛寺庙",
-      "onboard_time": 1680270149,
-      "rank": 7,
-      "category": "情感"
-    },
-    {
       "raw_hot": 378015,
       "num": 378015,
       "word": "原神卡维",
@@ -913,14 +937,6 @@
       "onboard_time": 1680247945,
       "rank": 48,
       "category": "科技"
-    },
-    {
-      "raw_hot": 368510,
-      "num": 338916,
-      "word": "男子饭店内持刀伤人致1死2伤",
-      "onboard_time": 1680271529,
-      "rank": 16,
-      "category": "社会负面"
     },
     {
       "raw_hot": 365229,
@@ -1083,14 +1099,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 304261,
-      "num": 304261,
-      "word": "纪念币",
-      "onboard_time": 1680271890,
-      "rank": 19,
-      "category": "财经"
-    },
-    {
       "raw_hot": 297224,
       "num": 297224,
       "word": "周杰伦2023海口演唱会加场",
@@ -1123,12 +1131,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 289990,
-      "num": 289990,
-      "word": "张新成以前不喜欢录综艺",
-      "onboard_time": 1680270870,
-      "rank": 23,
-      "category": "综艺"
+      "raw_hot": 289713,
+      "num": 289713,
+      "word": "陈晓哭戏",
+      "onboard_time": 1680271770,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 286781,
@@ -1273,6 +1281,14 @@
       "onboard_time": 1680258926,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 269142,
+      "num": 269142,
+      "word": "ChatGPT",
+      "onboard_time": 1680272187,
+      "rank": 25,
+      "category": "科技"
     },
     {
       "raw_hot": 267719,
@@ -1435,6 +1451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 235684,
+      "num": 235684,
+      "word": "回顾张国荣生前最后一次亮相",
+      "onboard_time": 1680271050,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 230233,
       "num": 230233,
       "word": "路人福建偶遇毛晓彤",
@@ -1467,6 +1491,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 225531,
+      "num": 225531,
+      "word": "忠犬八公",
+      "onboard_time": 1680272187,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 224623,
       "num": 224623,
       "word": "宋雨琦宫廷风造型",
@@ -1483,12 +1515,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 222125,
-      "num": 222125,
-      "word": "回顾张国荣生前最后一次亮相",
-      "onboard_time": 1680271050,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 221873,
+      "num": 221873,
+      "word": "张艺兴公司新增体育竞赛组织业务",
+      "onboard_time": 1680272670,
+      "rank": 31,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 218068,
@@ -1595,6 +1627,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 207398,
+      "num": 207398,
+      "word": "杨洋包场范丞丞蒋龙新电影",
+      "onboard_time": 1680271288,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 207240,
       "num": 207240,
       "word": "吉克隽逸洛丽塔造型录跑男",
@@ -1625,6 +1665,14 @@
       "onboard_time": 1680267988,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 201977,
+      "num": 201977,
+      "word": "宋亚轩看足球赛",
+      "onboard_time": 1680272971,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 201239,
@@ -1819,6 +1867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 188886,
+      "num": 152072,
+      "word": "吴磊演我吃生煎包",
+      "onboard_time": 1680267148,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 188698,
       "num": 188698,
       "word": "被父母爱情感动",
@@ -1881,14 +1937,6 @@
       "onboard_time": 1680240626,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 185946,
-      "num": 185946,
-      "word": "杨洋包场范丞丞蒋龙新电影",
-      "onboard_time": 1680271288,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 185929,
@@ -2043,14 +2091,6 @@
       "category": "动漫,影视"
     },
     {
-      "raw_hot": 174698,
-      "num": 174698,
-      "word": "陈晓哭戏",
-      "onboard_time": 1680271770,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 174290,
       "num": 174290,
       "word": "大唐不夜城 盛唐密盒",
@@ -2073,6 +2113,14 @@
       "onboard_time": 1680243925,
       "rank": 33,
       "category": "综艺,情感"
+    },
+    {
+      "raw_hot": 171687,
+      "num": 142988,
+      "word": "姚晨做福建肉燕",
+      "onboard_time": 1680272551,
+      "rank": 43,
+      "category": "综艺,幽默"
     },
     {
       "raw_hot": 171404,
@@ -2281,6 +2329,14 @@
       "onboard_time": 1680270389,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 153016,
+      "num": 153016,
+      "word": "RW侠",
+      "onboard_time": 1680272069,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 151723,
@@ -2531,6 +2587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129565,
+      "num": 129565,
+      "word": "矿大未落实捐款校友正在筹备新基金",
+      "onboard_time": 1680273092,
+      "rank": 46,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 128755,
       "num": 128755,
       "word": "招惹",
@@ -2633,14 +2697,6 @@
       "onboard_time": 1680247465,
       "rank": 43,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 121900,
-      "num": 121900,
-      "word": "RW侠",
-      "onboard_time": 1680272069,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 120373,

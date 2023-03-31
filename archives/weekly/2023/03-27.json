@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1680272176329,
+  "endTime": 1680273211059,
   "band_list": [
     {
       "raw_hot": 12970403,
@@ -715,6 +715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1332863,
+      "num": 1332863,
+      "word": "林彦俊左肋骨骨折",
+      "onboard_time": 1680270570,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1322639,
       "num": 1322639,
       "word": "被穷养长大的孩子是怎样的",
@@ -1140,7 +1148,7 @@
     },
     {
       "raw_hot": 1046090,
-      "num": 405001,
+      "num": 406908,
       "word": "贝儿和妹妹",
       "onboard_time": 1680262648,
       "rank": 12,
@@ -1297,14 +1305,6 @@
       "onboard_time": 1679896412,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 925937,
-      "num": 925937,
-      "word": "林彦俊左肋骨骨折",
-      "onboard_time": 1680270570,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 925250,
@@ -1947,6 +1947,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 704457,
+      "num": 704457,
+      "word": "男子饭店内持刀伤人致1死2伤",
+      "onboard_time": 1680271529,
+      "rank": 16,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 703859,
       "num": 703859,
       "word": "美反华势力为遏制中国发展不惜毁灭台湾",
@@ -2428,7 +2436,7 @@
     },
     {
       "raw_hot": 603331,
-      "num": 403182,
+      "num": 406093,
       "word": "王鹤棣晒和王传君合照",
       "onboard_time": 1680267087,
       "rank": 12,
@@ -2473,6 +2481,14 @@
       "onboard_time": 1680255686,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 595792,
+      "num": 595792,
+      "word": "年轻人为什么爱逛寺庙",
+      "onboard_time": 1680270149,
+      "rank": 7,
+      "category": "情感"
     },
     {
       "raw_hot": 595396,
@@ -2609,6 +2625,14 @@
       "onboard_time": 1679919690,
       "rank": 11,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 576544,
+      "num": 576544,
+      "word": "纪念币",
+      "onboard_time": 1680271890,
+      "rank": 19,
+      "category": "财经"
     },
     {
       "raw_hot": 571693,
@@ -3683,6 +3707,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 425090,
+      "num": 425090,
+      "word": "张新成以前不喜欢录综艺",
+      "onboard_time": 1680270870,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 424928,
       "num": 236293,
       "word": "女生同情老人买5西瓜切开发现全坏",
@@ -4155,14 +4187,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 379390,
-      "num": 379390,
-      "word": "年轻人为什么爱逛寺庙",
-      "onboard_time": 1680270149,
-      "rank": 7,
-      "category": "情感"
-    },
-    {
       "raw_hot": 379346,
       "num": 379346,
       "word": "时代峰峻辟谣演唱会义工招募",
@@ -4313,14 +4337,6 @@
       "onboard_time": 1680086609,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 368510,
-      "num": 338916,
-      "word": "男子饭店内持刀伤人致1死2伤",
-      "onboard_time": 1680271529,
-      "rank": 16,
-      "category": "社会负面"
     },
     {
       "raw_hot": 368343,
@@ -5043,14 +5059,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 304261,
-      "num": 304261,
-      "word": "纪念币",
-      "onboard_time": 1680271890,
-      "rank": 19,
-      "category": "财经"
-    },
-    {
       "raw_hot": 304248,
       "num": 304248,
       "word": "王楚钦4比1林高远",
@@ -5283,20 +5291,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 289990,
-      "num": 289990,
-      "word": "张新成以前不喜欢录综艺",
-      "onboard_time": 1680270870,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 289759,
       "num": 289759,
       "word": "高圆圆骑车",
       "onboard_time": 1679875646,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 289713,
+      "num": 289713,
+      "word": "陈晓哭戏",
+      "onboard_time": 1680271770,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 289088,
@@ -5721,6 +5729,14 @@
       "onboard_time": 1680099327,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 269142,
+      "num": 269142,
+      "word": "ChatGPT",
+      "onboard_time": 1680272187,
+      "rank": 25,
+      "category": "科技"
     },
     {
       "raw_hot": 269039,
@@ -6315,6 +6331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 235684,
+      "num": 235684,
+      "word": "回顾张国荣生前最后一次亮相",
+      "onboard_time": 1680271050,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 235673,
       "num": 235673,
       "word": "铁路客服回应工人带电钻上火车被拦",
@@ -6651,20 +6675,20 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 222125,
-      "num": 222125,
-      "word": "回顾张国荣生前最后一次亮相",
-      "onboard_time": 1680271050,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 221916,
       "num": 221916,
       "word": "莫文蔚声生不息宝岛季路透",
       "onboard_time": 1679842891,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 221873,
+      "num": 221873,
+      "word": "张艺兴公司新增体育竞赛组织业务",
+      "onboard_time": 1680272670,
+      "rank": 31,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 221651,
@@ -7115,6 +7139,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 207398,
+      "num": 207398,
+      "word": "杨洋包场范丞丞蒋龙新电影",
+      "onboard_time": 1680271288,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 207386,
       "num": 207386,
       "word": "何瑞贤明制汉服写真",
@@ -7385,6 +7417,14 @@
       "onboard_time": 1680006747,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 201977,
+      "num": 201977,
+      "word": "宋亚轩看足球赛",
+      "onboard_time": 1680272971,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 201597,
@@ -8123,6 +8163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 188886,
+      "num": 152072,
+      "word": "吴磊演我吃生煎包",
+      "onboard_time": 1680267148,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 188752,
       "num": 188752,
       "word": "宇宙探索编辑部",
@@ -8281,14 +8329,6 @@
       "onboard_time": 1679905649,
       "rank": 34,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 185946,
-      "num": 185946,
-      "word": "杨洋包场范丞丞蒋龙新电影",
-      "onboard_time": 1680271288,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 185929,
@@ -8723,14 +8763,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 174698,
-      "num": 174698,
-      "word": "陈晓哭戏",
-      "onboard_time": 1680271770,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 174472,
       "num": 174472,
       "word": "放在整个公园界都相当炸裂",
@@ -8825,6 +8857,14 @@
       "onboard_time": 1679882128,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 171687,
+      "num": 142988,
+      "word": "姚晨做福建肉燕",
+      "onboard_time": 1680272551,
+      "rank": 43,
+      "category": "综艺,幽默"
     },
     {
       "raw_hot": 171591,
@@ -9433,6 +9473,14 @@
       "onboard_time": 1680270389,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 153016,
+      "num": 153016,
+      "word": "RW侠",
+      "onboard_time": 1680272069,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 152879,
@@ -10243,6 +10291,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 129565,
+      "num": 129565,
+      "word": "矿大未落实捐款校友正在筹备新基金",
+      "onboard_time": 1680273092,
+      "rank": 46,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 129562,
       "num": 129562,
       "word": "时空中的绘旅人",
@@ -10569,14 +10625,6 @@
       "onboard_time": 1680247465,
       "rank": 43,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 121900,
-      "num": 121900,
-      "word": "RW侠",
-      "onboard_time": 1680272069,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 121837,
