@@ -1,6 +1,6 @@
 {
   "startTime": 1680193469065,
-  "endTime": 1680225940815,
+  "endTime": 1680227383860,
   "band_list": [
     {
       "raw_hot": 2107691,
@@ -9,6 +9,14 @@
       "onboard_time": 1680189268,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1851495,
+      "num": 1851495,
+      "word": "特朗普预计下周自首",
+      "onboard_time": 1680225324,
+      "rank": 22,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 1836886,
@@ -25,6 +33,14 @@
       "onboard_time": 1680180390,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 910171,
+      "num": 910171,
+      "word": "电视剧薄冰定档",
+      "onboard_time": 1680226645,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 891058,
@@ -91,6 +107,22 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 666959,
+      "num": 666959,
+      "word": "浙江每年抽检本科毕业论文",
+      "onboard_time": 1680224785,
+      "rank": 12,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 663891,
+      "num": 663891,
+      "word": "哭可以治病",
+      "onboard_time": 1680223587,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
       "raw_hot": 658260,
       "num": 658260,
       "word": "吴磊吻戏从脸红到耳朵",
@@ -99,8 +131,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 616343,
-      "num": 616343,
+      "raw_hot": 620225,
+      "num": 620225,
       "word": "女子当场抓住猥琐怪癖男并霸气训斥",
       "onboard_time": 1680223527,
       "rank": 5,
@@ -131,12 +163,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 508899,
-      "num": 508899,
-      "word": "哭可以治病",
-      "onboard_time": 1680223587,
-      "rank": 8,
-      "category": "情感"
+      "raw_hot": 509124,
+      "num": 509124,
+      "word": "油价",
+      "onboard_time": 1680225807,
+      "rank": 45,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 457248,
@@ -147,20 +179,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 452383,
+      "num": 452383,
+      "word": "特朗普发声明回应被起诉",
+      "onboard_time": 1680226225,
+      "rank": 10,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 445394,
+      "num": 445394,
+      "word": "两只社恐熊猫恋爱太费劲了",
+      "onboard_time": 1680223285,
+      "rank": 17,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 443783,
       "num": 443783,
       "word": "当代年轻人特种兵式旅游",
       "onboard_time": 1680220884,
       "rank": 11,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 424055,
-      "num": 424055,
-      "word": "浙江每年抽检本科毕业论文",
-      "onboard_time": 1680224785,
-      "rank": 12,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 392647,
@@ -251,12 +291,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 271823,
-      "num": 271823,
-      "word": "两只社恐熊猫恋爱太费劲了",
-      "onboard_time": 1680223285,
-      "rank": 17,
-      "category": "社会新闻,情感"
+      "raw_hot": 283076,
+      "num": 283076,
+      "word": "杨超越白色花苞裙",
+      "onboard_time": 1680225567,
+      "rank": 27,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 265925,
@@ -275,12 +315,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 256734,
-      "num": 256734,
-      "word": "特朗普预计下周自首",
-      "onboard_time": 1680225324,
-      "rank": 22,
-      "category": "国外要闻"
+      "raw_hot": 249642,
+      "num": 249642,
+      "word": "云南巧家县禁止脏车入城",
+      "onboard_time": 1680226164,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 244901,
@@ -347,12 +387,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 204611,
-      "num": 204611,
-      "word": "杨超越白色花苞裙",
+      "raw_hot": 199154,
+      "num": 199154,
+      "word": "李一桐挂脖黑裙",
       "onboard_time": 1680225567,
-      "rank": 27,
-      "category": "作品衍生,时尚"
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 199122,
@@ -369,6 +409,14 @@
       "onboard_time": 1680225385,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189143,
+      "num": 189143,
+      "word": "新版出生医学证明4月起启用",
+      "onboard_time": 1680225385,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 181312,
@@ -459,12 +507,20 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 150952,
-      "num": 150952,
-      "word": "新版出生医学证明4月起启用",
-      "onboard_time": 1680225385,
-      "rank": 33,
-      "category": "社会新闻"
+      "raw_hot": 154212,
+      "num": 154212,
+      "word": "路人福建偶遇毛晓彤",
+      "onboard_time": 1680226704,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 149298,
+      "num": 149298,
+      "word": "德云社节目单",
+      "onboard_time": 1680227004,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 148168,
@@ -481,14 +537,6 @@
       "onboard_time": 1680175048,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 144985,
-      "num": 144985,
-      "word": "李一桐挂脖黑裙",
-      "onboard_time": 1680225567,
-      "rank": 34,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 143960,
@@ -529,6 +577,14 @@
       "onboard_time": 1680222986,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 136645,
+      "num": 136645,
+      "word": "父亲牺牲11年后儿子继承警号",
+      "onboard_time": 1680226886,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 135088,
@@ -611,12 +667,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 112389,
-      "num": 112389,
-      "word": "油价",
-      "onboard_time": 1680225807,
-      "rank": 45,
-      "category": "社会新闻,财经"
+      "raw_hot": 117573,
+      "num": 117573,
+      "word": "战士牺牲在我家就得当自家人对待",
+      "onboard_time": 1680227066,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110735,
+      "num": 110735,
+      "word": "INTO1泰国演唱会排练记录",
+      "onboard_time": 1680226645,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 106279,
@@ -641,6 +705,14 @@
       "onboard_time": 1680164007,
       "rank": 37,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 102579,
+      "num": 102579,
+      "word": "油价有望两连跌",
+      "onboard_time": 1680227366,
+      "rank": 48,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 99889,
@@ -740,7 +812,7 @@
     },
     {
       "raw_hot": 60622,
-      "num": 831303,
+      "num": 930925,
       "word": "这里的春景每一帧都是画报",
       "onboard_time": 1680184829,
       "rank": 2,
@@ -780,6 +852,9 @@
     },
     {
       "word": "#高质量共建一带一路#"
+    },
+    {
+      "word": "#好评中国#"
     }
   ]
 }

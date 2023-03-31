@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1680225940815,
+  "endTime": 1680227383860,
   "band_list": [
     {
       "raw_hot": 12970403,
@@ -297,6 +297,14 @@
       "onboard_time": 1679972429,
       "rank": 3,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 1851495,
+      "num": 1851495,
+      "word": "特朗普预计下周自首",
+      "onboard_time": 1680225324,
+      "rank": 22,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 1849440,
@@ -1099,6 +1107,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 910171,
+      "num": 910171,
+      "word": "电视剧薄冰定档",
+      "onboard_time": 1680226645,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 905529,
       "num": 905529,
       "word": "浙大学霸情侣获10万冠军奖金",
@@ -1739,6 +1755,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 666959,
+      "num": 666959,
+      "word": "浙江每年抽检本科毕业论文",
+      "onboard_time": 1680224785,
+      "rank": 12,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 663891,
+      "num": 663891,
+      "word": "哭可以治病",
+      "onboard_time": 1680223587,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
       "raw_hot": 662943,
       "num": 662943,
       "word": "喜欢你我也是",
@@ -1891,20 +1923,20 @@
       "category": "社会新闻,美妆"
     },
     {
+      "raw_hot": 620225,
+      "num": 620225,
+      "word": "女子当场抓住猥琐怪癖男并霸气训斥",
+      "onboard_time": 1680223527,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 616867,
       "num": 484615,
       "word": "肖战黑色大衣看展随拍",
       "onboard_time": 1680065131,
       "rank": 12,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 616343,
-      "num": 616343,
-      "word": "女子当场抓住猥琐怪癖男并霸气训斥",
-      "onboard_time": 1680223527,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 613068,
@@ -2523,12 +2555,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 508899,
-      "num": 508899,
-      "word": "哭可以治病",
-      "onboard_time": 1680223587,
-      "rank": 8,
-      "category": "情感"
+      "raw_hot": 509124,
+      "num": 509124,
+      "word": "油价",
+      "onboard_time": 1680225807,
+      "rank": 45,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 508262,
@@ -2907,6 +2939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 452383,
+      "num": 452383,
+      "word": "特朗普发声明回应被起诉",
+      "onboard_time": 1680226225,
+      "rank": 10,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 452219,
       "num": 452219,
       "word": "情感漠视 冷暴力",
@@ -2969,6 +3009,14 @@
       "onboard_time": 1680012869,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 445394,
+      "num": 445394,
+      "word": "两只社恐熊猫恋爱太费劲了",
+      "onboard_time": 1680223285,
+      "rank": 17,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 444019,
@@ -3073,14 +3121,6 @@
       "onboard_time": 1680145466,
       "rank": 17,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 424055,
-      "num": 424055,
-      "word": "浙江每年抽检本科毕业论文",
-      "onboard_time": 1680224785,
-      "rank": 12,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 421432,
@@ -4499,6 +4539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 283076,
+      "num": 283076,
+      "word": "杨超越白色花苞裙",
+      "onboard_time": 1680225567,
+      "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 282502,
       "num": 282502,
       "word": "忠犬八公",
@@ -4673,14 +4721,6 @@
       "onboard_time": 1680076112,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 271823,
-      "num": 271823,
-      "word": "两只社恐熊猫恋爱太费劲了",
-      "onboard_time": 1680223285,
-      "rank": 17,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 271732,
@@ -4907,14 +4947,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 256734,
-      "num": 256734,
-      "word": "特朗普预计下周自首",
-      "onboard_time": 1680225324,
-      "rank": 22,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 256626,
       "num": 256626,
       "word": "全智贤姜栋元将合作新剧北极星",
@@ -5041,6 +5073,14 @@
       "onboard_time": 1680100529,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 249642,
+      "num": 249642,
+      "word": "云南巧家县禁止脏车入城",
+      "onboard_time": 1680226164,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 248984,
@@ -6003,14 +6043,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 204611,
-      "num": 204611,
-      "word": "杨超越白色花苞裙",
-      "onboard_time": 1680225567,
-      "rank": 27,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 204429,
       "num": 204429,
       "word": "青岛凤凰音乐节",
@@ -6241,6 +6273,14 @@
       "onboard_time": 1680145107,
       "rank": 33,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 199154,
+      "num": 199154,
+      "word": "李一桐挂脖黑裙",
+      "onboard_time": 1680225567,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 199122,
@@ -6688,6 +6728,14 @@
       "word": "婆婆给儿媳做花样月子餐42天不重样",
       "onboard_time": 1680054865,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189143,
+      "num": 189143,
+      "word": "新版出生医学证明4月起启用",
+      "onboard_time": 1680225385,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -7643,6 +7691,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 154212,
+      "num": 154212,
+      "word": "路人福建偶遇毛晓彤",
+      "onboard_time": 1680226704,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 152879,
       "num": 152879,
       "word": "Scout获得周MVP",
@@ -7699,14 +7755,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 150952,
-      "num": 150952,
-      "word": "新版出生医学证明4月起启用",
-      "onboard_time": 1680225385,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 150557,
       "num": 150557,
       "word": "十大选手造型",
@@ -7753,6 +7801,14 @@
       "onboard_time": 1680178409,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 149298,
+      "num": 149298,
+      "word": "德云社节目单",
+      "onboard_time": 1680227004,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 149232,
@@ -7873,14 +7929,6 @@
       "onboard_time": 1680102030,
       "rank": 41,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 144985,
-      "num": 144985,
-      "word": "李一桐挂脖黑裙",
-      "onboard_time": 1680225567,
-      "rank": 34,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 144068,
@@ -8177,6 +8225,14 @@
       "onboard_time": 1680222986,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 136645,
+      "num": 136645,
+      "word": "父亲牺牲11年后儿子继承警号",
+      "onboard_time": 1680226886,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136481,
@@ -8675,6 +8731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 117573,
+      "num": 117573,
+      "word": "战士牺牲在我家就得当自家人对待",
+      "onboard_time": 1680227066,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117164,
       "num": 117164,
       "word": "哈利波特的魔法惊喜",
@@ -8771,14 +8835,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 112389,
-      "num": 112389,
-      "word": "油价",
-      "onboard_time": 1680225807,
-      "rank": 45,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 112371,
       "num": 112371,
       "word": "无畏直播",
@@ -8825,6 +8881,14 @@
       "onboard_time": 1679886867,
       "rank": 40,
       "category": "幽默,社会新闻"
+    },
+    {
+      "raw_hot": 110735,
+      "num": 110735,
+      "word": "INTO1泰国演唱会排练记录",
+      "onboard_time": 1680226645,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 110546,
@@ -9049,6 +9113,14 @@
       "onboard_time": 1679873722,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 102579,
+      "num": 102579,
+      "word": "油价有望两连跌",
+      "onboard_time": 1680227366,
+      "rank": 48,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 102526,
@@ -9825,6 +9897,9 @@
     },
     {
       "word": "#30秒飞阅雄安新区看新颜#"
+    },
+    {
+      "word": "#好评中国#"
     }
   ]
 }
