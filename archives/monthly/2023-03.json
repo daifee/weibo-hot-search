@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1680257947843,
+  "endTime": 1680258871555,
   "band_list": [
     {
       "raw_hot": 27113842,
@@ -7363,6 +7363,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1007409,
+      "num": 1007409,
+      "word": "钟南山称条件允许可不戴口罩",
+      "onboard_time": 1680257544,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1006115,
       "num": 304931,
       "word": "小水会来吗",
@@ -11859,6 +11867,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 737755,
+      "num": 603141,
+      "word": "徐冬冬椰树新姿势",
+      "onboard_time": 1680255324,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 737590,
       "num": 737590,
       "word": "林智妍ins更新妍珍入狱照",
@@ -13259,6 +13275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 680526,
+      "num": 680526,
+      "word": "孟晚舟称华为向死而生怎么能不成仁",
+      "onboard_time": 1680257246,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 680400,
       "num": 680400,
       "word": "聂小雨假死",
@@ -13305,14 +13329,6 @@
       "onboard_time": 1678547070,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 678138,
-      "num": 678138,
-      "word": "钟南山称条件允许可不戴口罩",
-      "onboard_time": 1680257544,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 678061,
@@ -13809,6 +13825,14 @@
       "onboard_time": 1678977692,
       "rank": 3,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 657809,
+      "num": 657809,
+      "word": "中国银行原董事长刘连舸被查",
+      "onboard_time": 1680257544,
+      "rank": 14,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 656877,
@@ -14817,14 +14841,6 @@
       "onboard_time": 1680154227,
       "rank": 37,
       "category": "美食"
-    },
-    {
-      "raw_hot": 628244,
-      "num": 592218,
-      "word": "徐冬冬椰树新姿势",
-      "onboard_time": 1680255324,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 627917,
@@ -24523,14 +24539,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 400914,
-      "num": 400914,
-      "word": "中国银行原董事长刘连舸被查",
-      "onboard_time": 1680257544,
-      "rank": 14,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 400672,
       "num": 400672,
       "word": "赣南师范大学",
@@ -27363,6 +27371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 355699,
+      "num": 355699,
+      "word": "国产电视剧编剧的脑袋里在想什么",
+      "onboard_time": 1680253824,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 355687,
       "num": 355687,
       "word": "郑渊洁希望张颂文不要写作",
@@ -29065,14 +29081,6 @@
       "onboard_time": 1678713327,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 333392,
-      "num": 333392,
-      "word": "国产电视剧编剧的脑袋里在想什么",
-      "onboard_time": 1680253824,
-      "rank": 37,
-      "category": "影视"
     },
     {
       "raw_hot": 333091,
@@ -33059,6 +33067,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 281851,
+      "num": 281851,
+      "word": "TES翻盘WE",
+      "onboard_time": 1680257544,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 281770,
       "num": 281770,
       "word": "FreenBecky 三搭",
@@ -34577,14 +34593,6 @@
       "onboard_time": 1677888145,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 266507,
-      "num": 208528,
-      "word": "TES翻盘WE",
-      "onboard_time": 1680257544,
-      "rank": 30,
-      "category": "游戏"
     },
     {
       "raw_hot": 266364,
@@ -37587,14 +37595,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 235476,
-      "num": 235476,
-      "word": "孟晚舟称华为向死而生怎么能不成仁",
-      "onboard_time": 1680257246,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 235405,
       "num": 235405,
       "word": "柯南小黑当主角了",
@@ -40003,6 +40003,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 217883,
+      "num": 217883,
+      "word": "每天凌晨4点都要给狗一巴掌",
+      "onboard_time": 1680256765,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 217882,
       "num": 217882,
       "word": "陈晓新剧演民办教师",
@@ -42035,6 +42043,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 205546,
+      "num": 205546,
+      "word": "跑男团为范丞丞新片打call",
+      "onboard_time": 1680258806,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 205516,
       "num": 205516,
       "word": "唐嫣鸭舌帽随拍",
@@ -43217,6 +43233,14 @@
       "onboard_time": 1677747153,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201239,
+      "num": 201239,
+      "word": "蔡徐坤日内瓦出发巴黎",
+      "onboard_time": 1680257606,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 201220,
@@ -44473,6 +44497,14 @@
       "onboard_time": 1679811565,
       "rank": 40,
       "category": "影视,音乐"
+    },
+    {
+      "raw_hot": 196955,
+      "num": 196955,
+      "word": "星穹铁道预约破两千万",
+      "onboard_time": 1680258206,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 196929,
@@ -45875,14 +45907,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 191977,
-      "num": 191977,
-      "word": "每天凌晨4点都要给狗一巴掌",
-      "onboard_time": 1680256765,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 191949,
       "num": 191949,
       "word": "刘敏涛片场篆香练习花絮",
@@ -46403,6 +46427,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 189863,
+      "num": 189863,
+      "word": "时代少年团乌托邦纪录片预告",
+      "onboard_time": 1680258326,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 189860,
       "num": 189860,
       "word": "汇丰银行开门7天应对通关后开户需求",
@@ -46513,14 +46545,6 @@
       "onboard_time": 1680225385,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 189039,
-      "num": 189039,
-      "word": "蔡徐坤日内瓦出发巴黎",
-      "onboard_time": 1680257606,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 189015,
@@ -49643,12 +49667,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 171092,
+      "num": 171092,
+      "word": "广东的雨是不是不打算收手了",
+      "onboard_time": 1680256407,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171054,
       "num": 171054,
       "word": "SEVENTEEN旧专销量破104万",
       "onboard_time": 1679564066,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 171052,
+      "num": 171052,
+      "word": "宋亚轩微博之夜饭拍",
+      "onboard_time": 1680258386,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 170970,
@@ -50176,14 +50216,6 @@
       "word": "教好孩子的方法不只有布置作业",
       "onboard_time": 1677831867,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 168168,
-      "num": 168168,
-      "word": "广东的雨是不是不打算收手了",
-      "onboard_time": 1680256407,
-      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -53755,6 +53787,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 145167,
+      "num": 145167,
+      "word": "这小猫怎么还掉色",
+      "onboard_time": 1680255445,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 145158,
       "num": 145158,
       "word": "张艺兴变装教程视频",
@@ -54009,14 +54049,6 @@
       "onboard_time": 1678145361,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 143554,
-      "num": 143554,
-      "word": "这小猫怎么还掉色",
-      "onboard_time": 1680255445,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 143490,
@@ -55947,6 +55979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132235,
+      "num": 132235,
+      "word": "陈瑶昆曲造型",
+      "onboard_time": 1680257906,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 132148,
       "num": 132148,
       "word": "忘记火烈鸟来看宋三川",
@@ -56907,6 +56947,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 126443,
+      "num": 126443,
+      "word": "小猫每天都在忙什么",
+      "onboard_time": 1680258026,
+      "rank": 49,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 126393,
       "num": 219373,
       "word": "李一桐毕雯珺吻戏偷笑",
@@ -57353,14 +57401,6 @@
       "onboard_time": 1677751409,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 123519,
-      "num": 123519,
-      "word": "陈瑶昆曲造型",
-      "onboard_time": 1680257906,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 123484,

@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1680257947843,
+  "endTime": 1680258871555,
   "band_list": [
     {
       "raw_hot": 12970403,
@@ -1147,6 +1147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1007409,
+      "num": 1007409,
+      "word": "钟南山称条件允许可不戴口罩",
+      "onboard_time": 1680257544,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 997043,
       "num": 738630,
       "word": "黑马情侣",
@@ -1747,6 +1755,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 737755,
+      "num": 603141,
+      "word": "徐冬冬椰树新姿势",
+      "onboard_time": 1680255324,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 736783,
       "num": 736783,
       "word": "于洪臣被查",
@@ -1979,11 +1995,11 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 678138,
-      "num": 678138,
-      "word": "钟南山称条件允许可不戴口罩",
-      "onboard_time": 1680257544,
-      "rank": 7,
+      "raw_hot": 680526,
+      "num": 680526,
+      "word": "孟晚舟称华为向死而生怎么能不成仁",
+      "onboard_time": 1680257246,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -2041,6 +2057,14 @@
       "onboard_time": 1680106403,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 657809,
+      "num": 657809,
+      "word": "中国银行原董事长刘连舸被查",
+      "onboard_time": 1680257544,
+      "rank": 14,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 654578,
@@ -2177,14 +2201,6 @@
       "onboard_time": 1680154227,
       "rank": 37,
       "category": "美食"
-    },
-    {
-      "raw_hot": 628244,
-      "num": 592218,
-      "word": "徐冬冬椰树新姿势",
-      "onboard_time": 1680255324,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 627647,
@@ -3771,14 +3787,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 400914,
-      "num": 400914,
-      "word": "中国银行原董事长刘连舸被查",
-      "onboard_time": 1680257544,
-      "rank": 14,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 400672,
       "num": 400672,
       "word": "赣南师范大学",
@@ -4211,6 +4219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 355699,
+      "num": 355699,
+      "word": "国产电视剧编剧的脑袋里在想什么",
+      "onboard_time": 1680253824,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 355619,
       "num": 355619,
       "word": "你觉得毕业生起薪多少合适",
@@ -4488,14 +4504,6 @@
       "word": "巧珍哭着跟高加林分手",
       "onboard_time": 1680185850,
       "rank": 21,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 333392,
-      "num": 333392,
-      "word": "国产电视剧编剧的脑袋里在想什么",
-      "onboard_time": 1680253824,
-      "rank": 37,
       "category": "影视"
     },
     {
@@ -5171,6 +5179,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 281851,
+      "num": 281851,
+      "word": "TES翻盘WE",
+      "onboard_time": 1680257544,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 281222,
       "num": 281222,
       "word": "詹姆斯复出",
@@ -5513,14 +5529,6 @@
       "onboard_time": 1679979632,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 266507,
-      "num": 208528,
-      "word": "TES翻盘WE",
-      "onboard_time": 1680257544,
-      "rank": 30,
-      "category": "游戏"
     },
     {
       "raw_hot": 265641,
@@ -6003,14 +6011,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 235476,
-      "num": 235476,
-      "word": "孟晚舟称华为向死而生怎么能不成仁",
-      "onboard_time": 1680257246,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 235379,
       "num": 213240,
       "word": "郑秀妍紫色拖尾裙",
@@ -6443,6 +6443,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 217883,
+      "num": 217883,
+      "word": "每天凌晨4点都要给狗一巴掌",
+      "onboard_time": 1680256765,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 217449,
       "num": 217449,
       "word": "领克",
@@ -6851,6 +6859,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 205546,
+      "num": 205546,
+      "word": "跑男团为范丞丞新片打call",
+      "onboard_time": 1680258806,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 205414,
       "num": 205414,
       "word": "林智妍再报天气预报",
@@ -7001,6 +7017,14 @@
       "onboard_time": 1679869634,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 201239,
+      "num": 201239,
+      "word": "蔡徐坤日内瓦出发巴黎",
+      "onboard_time": 1680257606,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 201030,
@@ -7241,6 +7265,14 @@
       "onboard_time": 1680001948,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 196955,
+      "num": 196955,
+      "word": "星穹铁道预约破两千万",
+      "onboard_time": 1680258206,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 196929,
@@ -7507,14 +7539,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 191977,
-      "num": 191977,
-      "word": "每天凌晨4点都要给狗一巴掌",
-      "onboard_time": 1680256765,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 191862,
       "num": 206094,
       "word": "今夜的上海是什么颜色",
@@ -7635,6 +7659,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 189863,
+      "num": 189863,
+      "word": "时代少年团乌托邦纪录片预告",
+      "onboard_time": 1680258326,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 189662,
       "num": 189662,
       "word": "井柏然说吻戏再拍一条是另外的价钱",
@@ -7665,14 +7697,6 @@
       "onboard_time": 1680225385,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 189039,
-      "num": 189039,
-      "word": "蔡徐坤日内瓦出发巴黎",
-      "onboard_time": 1680257606,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 188752,
@@ -8315,6 +8339,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 171092,
+      "num": 171092,
+      "word": "广东的雨是不是不打算收手了",
+      "onboard_time": 1680256407,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171052,
+      "num": 171052,
+      "word": "宋亚轩微博之夜饭拍",
+      "onboard_time": 1680258386,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 170943,
       "num": 170943,
       "word": "关晓彤巴黎吃喝vlog",
@@ -8432,14 +8472,6 @@
       "word": "宁夏到底有多缺水",
       "onboard_time": 1680101190,
       "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 168168,
-      "num": 168168,
-      "word": "广东的雨是不是不打算收手了",
-      "onboard_time": 1680256407,
-      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -9099,6 +9131,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 145167,
+      "num": 145167,
+      "word": "这小猫怎么还掉色",
+      "onboard_time": 1680255445,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 144616,
       "num": 144616,
       "word": "颁奖典礼冷场就找EXO",
@@ -9137,14 +9177,6 @@
       "onboard_time": 1679827047,
       "rank": 30,
       "category": "幽默,教育"
-    },
-    {
-      "raw_hot": 143554,
-      "num": 143554,
-      "word": "这小猫怎么还掉色",
-      "onboard_time": 1680255445,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 142984,
@@ -9507,6 +9539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132235,
+      "num": 132235,
+      "word": "陈瑶昆曲造型",
+      "onboard_time": 1680257906,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 132005,
       "num": 132005,
       "word": "aespa演唱苹果原创电影OST",
@@ -9739,6 +9779,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 126443,
+      "num": 126443,
+      "word": "小猫每天都在忙什么",
+      "onboard_time": 1680258026,
+      "rank": 49,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 126338,
       "num": 126338,
       "word": "吴磊周雨彤吻戏费牙",
@@ -9841,14 +9889,6 @@
       "onboard_time": 1679891504,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 123519,
-      "num": 123519,
-      "word": "陈瑶昆曲造型",
-      "onboard_time": 1680257906,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 123283,

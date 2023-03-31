@@ -1,6 +1,6 @@
 {
   "startTime": 1680193469065,
-  "endTime": 1680257947843,
+  "endTime": 1680258871555,
   "band_list": [
     {
       "raw_hot": 2726093,
@@ -163,6 +163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1007409,
+      "num": 1007409,
+      "word": "钟南山称条件允许可不戴口罩",
+      "onboard_time": 1680257544,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 974166,
       "num": 267755,
       "word": "赵丽颖剪短发了",
@@ -291,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 737755,
+      "num": 603141,
+      "word": "徐冬冬椰树新姿势",
+      "onboard_time": 1680255324,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 733233,
       "num": 733233,
       "word": "网友称妹妹被母亲强行送去戒网学校",
@@ -355,11 +371,11 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 678138,
-      "num": 678138,
-      "word": "钟南山称条件允许可不戴口罩",
-      "onboard_time": 1680257544,
-      "rank": 7,
+      "raw_hot": 680526,
+      "num": 680526,
+      "word": "孟晚舟称华为向死而生怎么能不成仁",
+      "onboard_time": 1680257246,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -387,6 +403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 657809,
+      "num": 657809,
+      "word": "中国银行原董事长刘连舸被查",
+      "onboard_time": 1680257544,
+      "rank": 14,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 650546,
       "num": 650546,
       "word": "车保罗参演杨紫新剧",
@@ -401,14 +425,6 @@
       "onboard_time": 1680241826,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 628244,
-      "num": 592218,
-      "word": "徐冬冬椰树新姿势",
-      "onboard_time": 1680255324,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 620225,
@@ -659,14 +675,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 400914,
-      "num": 400914,
-      "word": "中国银行原董事长刘连舸被查",
-      "onboard_time": 1680257544,
-      "rank": 14,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 393484,
       "num": 366003,
       "word": "杜江胸肌",
@@ -747,6 +755,22 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 360849,
+      "num": 360849,
+      "word": "乘风破浪4",
+      "onboard_time": 1680257485,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 355699,
+      "num": 355699,
+      "word": "国产电视剧编剧的脑袋里在想什么",
+      "onboard_time": 1680253824,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 351352,
       "num": 351352,
       "word": "旅客自带盒饭用高铁微波炉被拒",
@@ -777,14 +801,6 @@
       "onboard_time": 1680231805,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 333392,
-      "num": 333392,
-      "word": "国产电视剧编剧的脑袋里在想什么",
-      "onboard_time": 1680253824,
-      "rank": 37,
-      "category": "影视"
     },
     {
       "raw_hot": 327658,
@@ -907,6 +923,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 281851,
+      "num": 281851,
+      "word": "TES翻盘WE",
+      "onboard_time": 1680257544,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 281166,
       "num": 281166,
       "word": "来自中国战机的压迫感",
@@ -993,14 +1017,6 @@
       "onboard_time": 1680229166,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 266507,
-      "num": 208528,
-      "word": "TES翻盘WE",
-      "onboard_time": 1680257544,
-      "rank": 30,
-      "category": "游戏"
     },
     {
       "raw_hot": 265925,
@@ -1107,14 +1123,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 235476,
-      "num": 235476,
-      "word": "孟晚舟称华为向死而生怎么能不成仁",
-      "onboard_time": 1680257246,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 230233,
       "num": 230233,
       "word": "路人福建偶遇毛晓彤",
@@ -1153,6 +1161,14 @@
       "onboard_time": 1680228805,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 217883,
+      "num": 217883,
+      "word": "每天凌晨4点都要给狗一巴掌",
+      "onboard_time": 1680256765,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 214500,
@@ -1227,6 +1243,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 205546,
+      "num": 205546,
+      "word": "跑男团为范丞丞新片打call",
+      "onboard_time": 1680258806,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 201239,
+      "num": 201239,
+      "word": "蔡徐坤日内瓦出发巴黎",
+      "onboard_time": 1680257606,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200234,
       "num": 199258,
       "word": "佟大为晒早餐关悦给6.9分",
@@ -1275,20 +1307,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 197966,
-      "num": 197966,
-      "word": "乘风破浪4",
-      "onboard_time": 1680257485,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 197858,
       "num": 197858,
       "word": "任嘉伦呼吁守护孤独症孩子",
       "onboard_time": 1680232707,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 196955,
+      "num": 196955,
+      "word": "星穹铁道预约破两千万",
+      "onboard_time": 1680258206,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 195764,
@@ -1315,14 +1347,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 191977,
-      "num": 191977,
-      "word": "每天凌晨4点都要给狗一巴掌",
-      "onboard_time": 1680256765,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 191799,
       "num": 191799,
       "word": "苍兰诀将在日本播出",
@@ -1347,20 +1371,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 189863,
+      "num": 189863,
+      "word": "时代少年团乌托邦纪录片预告",
+      "onboard_time": 1680258326,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 189143,
       "num": 189143,
       "word": "新版出生医学证明4月起启用",
       "onboard_time": 1680225385,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 189039,
-      "num": 189039,
-      "word": "蔡徐坤日内瓦出发巴黎",
-      "onboard_time": 1680257606,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 188698,
@@ -1475,6 +1499,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 178699,
+      "num": 178699,
+      "word": "奔跑吧",
+      "onboard_time": 1680258026,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 176573,
       "num": 174346,
       "word": "男子生前借亲戚534万去世后被赖账",
@@ -1547,6 +1579,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 171092,
+      "num": 171092,
+      "word": "广东的雨是不是不打算收手了",
+      "onboard_time": 1680256407,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171052,
+      "num": 171052,
+      "word": "宋亚轩微博之夜饭拍",
+      "onboard_time": 1680258386,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 170534,
       "num": 170534,
       "word": "BoysPlanet三公竞演",
@@ -1561,14 +1609,6 @@
       "onboard_time": 1680182068,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 168168,
-      "num": 168168,
-      "word": "广东的雨是不是不打算收手了",
-      "onboard_time": 1680256407,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 168075,
@@ -1723,6 +1763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 145167,
+      "num": 145167,
+      "word": "这小猫怎么还掉色",
+      "onboard_time": 1680255445,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 144616,
       "num": 144616,
       "word": "颁奖典礼冷场就找EXO",
@@ -1737,14 +1785,6 @@
       "onboard_time": 1680190648,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 143554,
-      "num": 143554,
-      "word": "这小猫怎么还掉色",
-      "onboard_time": 1680255445,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 142295,
@@ -1819,6 +1859,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 132235,
+      "num": 132235,
+      "word": "陈瑶昆曲造型",
+      "onboard_time": 1680257906,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 131820,
       "num": 131820,
       "word": "蛋仔派对皮蛋节",
@@ -1891,6 +1939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 126443,
+      "num": 126443,
+      "word": "小猫每天都在忙什么",
+      "onboard_time": 1680258026,
+      "rank": 49,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 125568,
       "num": 125568,
       "word": "蔡卓妍打卡林俊杰演唱会vlog",
@@ -1929,14 +1985,6 @@
       "onboard_time": 1680169589,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 123519,
-      "num": 123519,
-      "word": "陈瑶昆曲造型",
-      "onboard_time": 1680257906,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 122525,
