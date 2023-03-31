@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680282942267,
+  "endTime": 1680284019256,
   "band_list": [
     {
       "raw_hot": 7084987,
@@ -275,6 +275,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 108812,
+      "num": 108812,
+      "word": "熊猫也有咬不动的竹子",
+      "onboard_time": 1680279865,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 103404,
       "num": 103404,
       "word": "短指症",
@@ -336,14 +344,6 @@
       "word": "每天凌晨4点都要给狗一巴掌",
       "onboard_time": 1680256765,
       "rank": 37,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 86000,
-      "num": 86000,
-      "word": "熊猫也有咬不动的竹子",
-      "onboard_time": 1680279865,
-      "rank": 31,
       "category": "幽默"
     },
     {
@@ -433,6 +433,14 @@
       "onboard_time": 1680271288,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 35850,
+      "num": 44978,
+      "word": "马嘉祺唱后来",
+      "onboard_time": 1680185788,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 16940,

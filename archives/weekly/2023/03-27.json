@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1680282942267,
+  "endTime": 1680284019256,
   "band_list": [
     {
       "raw_hot": 12970403,
@@ -11155,6 +11155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108812,
+      "num": 108812,
+      "word": "熊猫也有咬不动的竹子",
+      "onboard_time": 1680279865,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 108649,
       "num": 108649,
       "word": "张大大直播",
@@ -11665,14 +11673,6 @@
       "onboard_time": 1680053368,
       "rank": 49,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 86000,
-      "num": 86000,
-      "word": "熊猫也有咬不动的竹子",
-      "onboard_time": 1680279865,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 85662,
