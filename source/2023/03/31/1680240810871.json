@@ -1,0 +1,410 @@
+{
+  "runTime": 1680240810871,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1075286,
+        "num": 1075286,
+        "word": "all eyes on me",
+        "onboard_time": 1680238767,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 980362,
+        "num": 980362,
+        "word": "竹筒奶茶原来是回收筒吗",
+        "onboard_time": 1680234267,
+        "rank": 1,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 109036,
+        "num": 950009,
+        "word": "4月起这些新规将影响你我生活",
+        "onboard_time": 1680233425,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1859187,
+        "num": 946655,
+        "word": "难听",
+        "onboard_time": 1680237509,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 939820,
+        "num": 939820,
+        "word": "金智秀solo单曲",
+        "onboard_time": 1680236367,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1024882,
+        "num": 910740,
+        "word": "特朗普预计下周自首",
+        "onboard_time": 1680225324,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1604796,
+        "num": 901429,
+        "word": "豫章书院",
+        "onboard_time": 1680232466,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 847250,
+        "num": 847250,
+        "word": "上海海事大学",
+        "onboard_time": 1680236128,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 741658,
+        "num": 741658,
+        "word": "假如秋瓷炫乘风4淘汰",
+        "onboard_time": 1680235227,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 732626,
+        "num": 732626,
+        "word": "胡歌说没想到会和刘亦菲同台",
+        "onboard_time": 1680231447,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 695679,
+        "num": 695679,
+        "word": "YG",
+        "onboard_time": 1680238348,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 690045,
+        "num": 690045,
+        "word": "吴磊在首页亲了一天",
+        "onboard_time": 1680231384,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 682891,
+        "num": 682891,
+        "word": "迪丽热巴新剧公诉精英改名",
+        "onboard_time": 1680239849,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 529629,
+        "num": 529629,
+        "word": "本科毕业论文抽检都查什么",
+        "onboard_time": 1680232104,
+        "rank": 13,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 439578,
+        "num": 439578,
+        "word": "广东人快要发霉了",
+        "onboard_time": 1680231447,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 518219,
+        "num": 436361,
+        "word": "喻恩泰还原吕秀才经典桥段",
+        "onboard_time": 1680237509,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 400643,
+        "num": 400643,
+        "word": "牙医口罩下的表情是怎样的",
+        "onboard_time": 1680235349,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 347840,
+        "num": 347840,
+        "word": "豫章书院揭发人现身庭审现场",
+        "onboard_time": 1680236309,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334432,
+        "num": 334432,
+        "word": "黄子韬瘦了好多",
+        "onboard_time": 1680230905,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228627,
+        "num": 295812,
+        "word": "旅客自带盒饭用高铁微波炉被拒",
+        "onboard_time": 1680239786,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293898,
+        "num": 293898,
+        "word": "我的告白沉默了俩个寝室",
+        "onboard_time": 1680236008,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 247039,
+        "num": 247039,
+        "word": "每个月都会收到男友送的玩偶",
+        "onboard_time": 1680239128,
+        "rank": 21,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 245181,
+        "num": 245181,
+        "word": "爱情而已这是可以播的吗",
+        "onboard_time": 1680227605,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 217150,
+        "num": 217150,
+        "word": "五月天武汉",
+        "onboard_time": 1680229585,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 190530,
+        "num": 203243,
+        "word": "当你工作累了准备午休时",
+        "onboard_time": 1680236070,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 199360,
+        "num": 199360,
+        "word": "最食人间烟火色",
+        "onboard_time": 1680240265,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199225,
+        "num": 199225,
+        "word": "公诉",
+        "onboard_time": 1680240026,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 195147,
+        "num": 195147,
+        "word": "陈星旭27岁实绩图",
+        "onboard_time": 1680232407,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185877,
+        "num": 185877,
+        "word": "林孝埈观战短道冠军赛",
+        "onboard_time": 1680234148,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182099,
+        "num": 182099,
+        "word": "减脂餐狗都不吃",
+        "onboard_time": 1680230065,
+        "rank": 29,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 192209,
+        "num": 180652,
+        "word": "车保罗参演杨紫新剧",
+        "onboard_time": 1680230724,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 186177,
+        "num": 180007,
+        "word": "马嘉祺学热身操",
+        "onboard_time": 1680240626,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186158,
+        "num": 179491,
+        "word": "宁艺卓Giselle吐槽ae形象",
+        "onboard_time": 1680231805,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178774,
+        "num": 178774,
+        "word": "奶爸默默记录丫丫日常",
+        "onboard_time": 1680228565,
+        "rank": 33,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 177904,
+        "num": 177904,
+        "word": "孙悦长沙街头随拍",
+        "onboard_time": 1680234626,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174290,
+        "num": 174290,
+        "word": "大唐不夜城 盛唐密盒",
+        "onboard_time": 1680239608,
+        "rank": 35,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 169141,
+        "num": 169141,
+        "word": "肖战视频BGM被原唱夸",
+        "onboard_time": 1680223046,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 158360,
+        "num": 158360,
+        "word": "父亲牺牲11年后儿子继承警号",
+        "onboard_time": 1680226886,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152751,
+        "num": 152751,
+        "word": "大熊猫怎么也会这么八卦",
+        "onboard_time": 1680229166,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141020,
+        "num": 150617,
+        "word": "豫章书院曾经的学生怎么样了",
+        "onboard_time": 1680240566,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160486,
+        "num": 150337,
+        "word": "薄冰隐秘潜伏版预告",
+        "onboard_time": 1680240265,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 158649,
+        "num": 150335,
+        "word": "柯南贝克街的亡灵台词",
+        "onboard_time": 1680231805,
+        "rank": 41,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 149951,
+        "num": 149951,
+        "word": "长沙草莓音乐节定档",
+        "onboard_time": 1680238229,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 149922,
+        "num": 149922,
+        "word": "庆怜原创新歌tonight",
+        "onboard_time": 1680239427,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 145524,
+        "num": 145524,
+        "word": "李秀满的新梦想是旷野",
+        "onboard_time": 1680240205,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137533,
+        "num": 137533,
+        "word": "豫章书院前学员发声",
+        "onboard_time": 1680233246,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127850,
+        "num": 127850,
+        "word": "百岁扫地僧去了天堂图书馆",
+        "onboard_time": 1680229884,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117350,
+        "num": 117350,
+        "word": "特斯拉啤酒售价89欧元",
+        "onboard_time": 1680231384,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 117303,
+        "num": 117303,
+        "word": "走路时不要只顾玩手机",
+        "onboard_time": 1680234387,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 110839,
+        "num": 110839,
+        "word": "女子当场抓住猥琐怪癖男并霸气训斥",
+        "onboard_time": 1680223527,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#30秒飞阅雄安新区看新颜#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1680239787647,
+  "endTime": 1680240810871,
   "band_list": [
     {
       "raw_hot": 12970403,
@@ -236,7 +236,7 @@
     },
     {
       "raw_hot": 2131342,
-      "num": 909910,
+      "num": 946655,
       "word": "难听",
       "onboard_time": 1680237509,
       "rank": 3,
@@ -971,6 +971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1075286,
+      "num": 1075286,
+      "word": "all eyes on me",
+      "onboard_time": 1680238767,
+      "rank": 11,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1073849,
       "num": 1073849,
       "word": "迪丽热巴对邓超说好久不见",
@@ -1355,6 +1363,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 847250,
+      "num": 847250,
+      "word": "上海海事大学",
+      "onboard_time": 1680236128,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 843062,
       "num": 386058,
       "word": "吉林四平",
@@ -1465,14 +1481,6 @@
       "onboard_time": 1680065370,
       "rank": 6,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 806105,
-      "num": 806105,
-      "word": "上海海事大学",
-      "onboard_time": 1680236128,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 803715,
@@ -1819,12 +1827,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 684743,
-      "num": 684743,
-      "word": "all eyes on me",
-      "onboard_time": 1680238767,
-      "rank": 11,
-      "category": "音乐"
+      "raw_hot": 682891,
+      "num": 682891,
+      "word": "迪丽热巴新剧公诉精英改名",
+      "onboard_time": 1680239849,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 682547,
@@ -2595,6 +2603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 518219,
+      "num": 436361,
+      "word": "喻恩泰还原吕秀才经典桥段",
+      "onboard_time": 1680237509,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 517735,
       "num": 294610,
       "word": "上海月薪一万算高吗",
@@ -3209,14 +3225,6 @@
       "onboard_time": 1680136169,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 434959,
-      "num": 434959,
-      "word": "喻恩泰还原吕秀才经典桥段",
-      "onboard_time": 1680237509,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 432204,
@@ -4380,7 +4388,7 @@
     },
     {
       "raw_hot": 310730,
-      "num": 271658,
+      "num": 293898,
       "word": "我的告白沉默了俩个寝室",
       "onboard_time": 1680236008,
       "rank": 48,
@@ -5427,6 +5435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 247039,
+      "num": 247039,
+      "word": "每个月都会收到男友送的玩偶",
+      "onboard_time": 1680239128,
+      "rank": 33,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 246398,
       "num": 246398,
       "word": "爱情而已",
@@ -5681,6 +5697,14 @@
       "onboard_time": 1680012389,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 228627,
+      "num": 295812,
+      "word": "旅客自带盒饭用高铁微波炉被拒",
+      "onboard_time": 1680239786,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 228600,
@@ -6635,6 +6659,22 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 199360,
+      "num": 199360,
+      "word": "最食人间烟火色",
+      "onboard_time": 1680240265,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 199225,
+      "num": 199225,
+      "word": "公诉",
+      "onboard_time": 1680240026,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 199154,
       "num": 199154,
       "word": "李一桐挂脖黑裙",
@@ -7051,6 +7091,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 190530,
+      "num": 203243,
+      "word": "当你工作累了准备午休时",
+      "onboard_time": 1680236070,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 190362,
       "num": 190362,
       "word": "长沙一大楼起火多人翻窗爬绳索逃生",
@@ -7219,6 +7267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 186177,
+      "num": 180007,
+      "word": "马嘉祺学热身操",
+      "onboard_time": 1680240626,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186020,
       "num": 186020,
       "word": "高校校花的美藏不住了",
@@ -7297,14 +7353,6 @@
       "onboard_time": 1680180567,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 183327,
-      "num": 183327,
-      "word": "当你工作累了准备午休时",
-      "onboard_time": 1680236070,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 183162,
@@ -7579,14 +7627,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 175785,
-      "num": 175785,
-      "word": "每个月都会收到男友送的玩偶",
-      "onboard_time": 1680239128,
-      "rank": 33,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 175702,
       "num": 175702,
       "word": "潘粤明回应白夜追凶2四月开拍",
@@ -7617,6 +7657,14 @@
       "onboard_time": 1679960545,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 174290,
+      "num": 174290,
+      "word": "大唐不夜城 盛唐密盒",
+      "onboard_time": 1680239608,
+      "rank": 45,
+      "category": "旅游"
     },
     {
       "raw_hot": 174264,
@@ -8011,6 +8059,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 160486,
+      "num": 150337,
+      "word": "薄冰隐秘潜伏版预告",
+      "onboard_time": 1680240265,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 160453,
       "num": 160453,
       "word": "李兰迪放学后便利店随拍",
@@ -8283,6 +8339,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 149922,
+      "num": 149922,
+      "word": "庆怜原创新歌tonight",
+      "onboard_time": 1680239427,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 149659,
       "num": 149659,
       "word": "谭松韵说今天是最美的归晓",
@@ -8411,6 +8475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 145524,
+      "num": 145524,
+      "word": "李秀满的新梦想是旷野",
+      "onboard_time": 1680240205,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 145287,
       "num": 145287,
       "word": "裸辞之后会变得更好吗",
@@ -8425,14 +8497,6 @@
       "onboard_time": 1680102030,
       "rank": 41,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 144333,
-      "num": 144333,
-      "word": "庆怜原创新歌tonight",
-      "onboard_time": 1680239427,
-      "rank": 39,
-      "category": "音乐"
     },
     {
       "raw_hot": 144068,
@@ -8553,6 +8617,14 @@
       "onboard_time": 1679839890,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 141020,
+      "num": 150617,
+      "word": "豫章书院曾经的学生怎么样了",
+      "onboard_time": 1680240566,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140545,
@@ -9097,14 +9169,6 @@
       "onboard_time": 1680002190,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 124302,
-      "num": 124302,
-      "word": "大唐不夜城 盛唐密盒",
-      "onboard_time": 1680239608,
-      "rank": 45,
-      "category": "旅游"
     },
     {
       "raw_hot": 123926,

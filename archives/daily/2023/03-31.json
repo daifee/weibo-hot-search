@@ -1,6 +1,6 @@
 {
   "startTime": 1680193469065,
-  "endTime": 1680239787647,
+  "endTime": 1680240810871,
   "band_list": [
     {
       "raw_hot": 2726093,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 2131342,
-      "num": 909910,
+      "num": 946655,
       "word": "难听",
       "onboard_time": 1680237509,
       "rank": 3,
@@ -81,6 +81,14 @@
       "onboard_time": 1680230905,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1075286,
+      "num": 1075286,
+      "word": "all eyes on me",
+      "onboard_time": 1680238767,
+      "rank": 11,
+      "category": "音乐"
     },
     {
       "raw_hot": 1049773,
@@ -139,6 +147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 847250,
+      "num": 847250,
+      "word": "上海海事大学",
+      "onboard_time": 1680236128,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 840021,
       "num": 205643,
       "word": "村民不认可孙国友被称为治沙英雄",
@@ -160,14 +176,6 @@
       "word": "7旬老人超市伸手牵走2岁女童",
       "onboard_time": 1680220765,
       "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 806105,
-      "num": 806105,
-      "word": "上海海事大学",
-      "onboard_time": 1680236128,
-      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -211,12 +219,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 684743,
-      "num": 684743,
-      "word": "all eyes on me",
-      "onboard_time": 1680238767,
-      "rank": 11,
-      "category": "音乐"
+      "raw_hot": 682891,
+      "num": 682891,
+      "word": "迪丽热巴新剧公诉精英改名",
+      "onboard_time": 1680239849,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 682547,
@@ -299,6 +307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 518219,
+      "num": 436361,
+      "word": "喻恩泰还原吕秀才经典桥段",
+      "onboard_time": 1680237509,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 514373,
       "num": 514373,
       "word": "云南巧家县禁止脏车入城",
@@ -369,14 +385,6 @@
       "onboard_time": 1680220884,
       "rank": 11,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 434959,
-      "num": 434959,
-      "word": "喻恩泰还原吕秀才经典桥段",
-      "onboard_time": 1680237509,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 417129,
@@ -484,7 +492,7 @@
     },
     {
       "raw_hot": 310730,
-      "num": 271658,
+      "num": 293898,
       "word": "我的告白沉默了俩个寝室",
       "onboard_time": 1680236008,
       "rank": 48,
@@ -643,6 +651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 247039,
+      "num": 247039,
+      "word": "每个月都会收到男友送的玩偶",
+      "onboard_time": 1680239128,
+      "rank": 33,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 244901,
       "num": 244901,
       "word": "金奎彬16位",
@@ -681,6 +697,14 @@
       "onboard_time": 1680180447,
       "rank": 18,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 228627,
+      "num": 295812,
+      "word": "旅客自带盒饭用高铁微波炉被拒",
+      "onboard_time": 1680239786,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 228600,
@@ -747,6 +771,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 199360,
+      "num": 199360,
+      "word": "最食人间烟火色",
+      "onboard_time": 1680240265,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 199225,
+      "num": 199225,
+      "word": "公诉",
+      "onboard_time": 1680240026,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 199154,
       "num": 199154,
       "word": "李一桐挂脖黑裙",
@@ -787,6 +827,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 190530,
+      "num": 203243,
+      "word": "当你工作累了准备午休时",
+      "onboard_time": 1680236070,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 189143,
       "num": 189143,
       "word": "新版出生医学证明4月起启用",
@@ -811,12 +859,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 183327,
-      "num": 183327,
-      "word": "当你工作累了准备午休时",
-      "onboard_time": 1680236070,
-      "rank": 44,
-      "category": "幽默"
+      "raw_hot": 186177,
+      "num": 180007,
+      "word": "马嘉祺学热身操",
+      "onboard_time": 1680240626,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 182618,
@@ -883,14 +931,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 175785,
-      "num": 175785,
-      "word": "每个月都会收到男友送的玩偶",
-      "onboard_time": 1680239128,
-      "rank": 33,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 175592,
       "num": 175592,
       "word": "怪异君",
@@ -905,6 +945,14 @@
       "onboard_time": 1680234866,
       "rank": 35,
       "category": "动漫,影视"
+    },
+    {
+      "raw_hot": 174290,
+      "num": 174290,
+      "word": "大唐不夜城 盛唐密盒",
+      "onboard_time": 1680239608,
+      "rank": 45,
+      "category": "旅游"
     },
     {
       "raw_hot": 171404,
@@ -971,6 +1019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 160486,
+      "num": 150337,
+      "word": "薄冰隐秘潜伏版预告",
+      "onboard_time": 1680240265,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 159371,
       "num": 159371,
       "word": "检察官将要求特朗普出庭",
@@ -1011,6 +1067,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 149922,
+      "num": 149922,
+      "word": "庆怜原创新歌tonight",
+      "onboard_time": 1680239427,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 148168,
       "num": 148168,
       "word": "张学友演唱会",
@@ -1027,20 +1091,20 @@
       "category": "幽默,社会新闻"
     },
     {
+      "raw_hot": 145524,
+      "num": 145524,
+      "word": "李秀满的新梦想是旷野",
+      "onboard_time": 1680240205,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 145378,
       "num": 145378,
       "word": "宋茜白宇 保你平安前传",
       "onboard_time": 1680175048,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 144333,
-      "num": 144333,
-      "word": "庆怜原创新歌tonight",
-      "onboard_time": 1680239427,
-      "rank": 39,
-      "category": "音乐"
     },
     {
       "raw_hot": 143960,
@@ -1057,6 +1121,14 @@
       "onboard_time": 1680219561,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 141020,
+      "num": 150617,
+      "word": "豫章书院曾经的学生怎么样了",
+      "onboard_time": 1680240566,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140170,
@@ -1185,14 +1257,6 @@
       "onboard_time": 1680169589,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 124302,
-      "num": 124302,
-      "word": "大唐不夜城 盛唐密盒",
-      "onboard_time": 1680239608,
-      "rank": 45,
-      "category": "旅游"
     },
     {
       "raw_hot": 120373,
