@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680293849526,
+  "endTime": 1680294841754,
   "band_list": [
     {
       "raw_hot": 7084987,
@@ -491,20 +491,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 32197,
+      "num": 32197,
+      "word": "王者S31赛季即将开启",
+      "onboard_time": 1680292872,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 31853,
       "num": 31853,
       "word": "鹿晗老舅王勉做后勤演卑微打工人",
       "onboard_time": 1680276207,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 21045,
-      "num": 21045,
-      "word": "王者S31赛季即将开启",
-      "onboard_time": 1680292872,
-      "rank": 29,
-      "category": "游戏"
     },
     {
       "raw_hot": 16940,

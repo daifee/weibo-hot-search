@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1680293849526,
+  "endTime": 1680294841754,
   "band_list": [
     {
       "raw_hot": 12970403,
@@ -12171,6 +12171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 32197,
+      "num": 32197,
+      "word": "王者S31赛季即将开启",
+      "onboard_time": 1680292872,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 30778,
       "num": 395727,
       "word": "原神 原梦冒险团",
@@ -12201,14 +12209,6 @@
       "onboard_time": 1680121332,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 21045,
-      "num": 21045,
-      "word": "王者S31赛季即将开启",
-      "onboard_time": 1680292872,
-      "rank": 29,
-      "category": "游戏"
     },
     {
       "raw_hot": 12578,
