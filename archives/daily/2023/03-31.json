@@ -1,6 +1,6 @@
 {
   "startTime": 1680193469065,
-  "endTime": 1680230786128,
+  "endTime": 1680232722284,
   "band_list": [
     {
       "raw_hot": 2726093,
@@ -27,11 +27,27 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 1163373,
-      "num": 1163373,
+      "raw_hot": 1251672,
+      "num": 1251672,
       "word": "爱情而已这是可以播的吗",
       "onboard_time": 1680227605,
       "rank": 0,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1131647,
+      "num": 639801,
+      "word": "黄子韬瘦了好多",
+      "onboard_time": 1680230905,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1049773,
+      "num": 631426,
+      "word": "吴磊在首页亲了一天",
+      "onboard_time": 1680231384,
+      "rank": 4,
       "category": "影视"
     },
     {
@@ -147,12 +163,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 650546,
+      "num": 650546,
+      "word": "车保罗参演杨紫新剧",
+      "onboard_time": 1680230724,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 620225,
       "num": 620225,
       "word": "女子当场抓住猥琐怪癖男并霸气训斥",
       "onboard_time": 1680223527,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 619883,
+      "num": 619883,
+      "word": "胡歌说没想到会和刘亦菲同台",
+      "onboard_time": 1680231447,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 604013,
@@ -171,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 539970,
+      "num": 462588,
+      "word": "五月天武汉",
+      "onboard_time": 1680229585,
+      "rank": 11,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 518773,
       "num": 518773,
       "word": "陈卓璇告别声生不息",
@@ -187,12 +227,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 462588,
-      "num": 462588,
-      "word": "五月天武汉",
-      "onboard_time": 1680229585,
-      "rank": 11,
-      "category": "音乐"
+      "raw_hot": 457320,
+      "num": 386413,
+      "word": "宁艺卓Giselle吐嘈ae形象",
+      "onboard_time": 1680231805,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 457248,
@@ -267,6 +307,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 377376,
+      "num": 377376,
+      "word": "奶爸默默记录丫丫日常",
+      "onboard_time": 1680228565,
+      "rank": 16,
+      "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 350888,
+      "num": 350888,
+      "word": "百岁扫地僧去了天堂图书馆",
+      "onboard_time": 1680229884,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 337747,
+      "num": 337747,
+      "word": "减脂餐狗都不吃",
+      "onboard_time": 1680230065,
+      "rank": 47,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 321791,
       "num": 321791,
       "word": "千万不要在泰山顶上这样拍照",
@@ -283,14 +347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 317679,
-      "num": 317679,
-      "word": "奶爸默默记录丫丫日常",
-      "onboard_time": 1680228565,
-      "rank": 16,
-      "category": "社会新闻,幽默"
-    },
-    {
       "raw_hot": 308117,
       "num": 308117,
       "word": "这熊猫介绍真是没瞎写",
@@ -305,6 +361,14 @@
       "onboard_time": 1680219082,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 303923,
+      "num": 303923,
+      "word": "广东人快要发霉了",
+      "onboard_time": 1680231447,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 297224,
@@ -347,12 +411,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 280025,
+      "num": 280025,
+      "word": "短道速滑冠军赛今日开战",
+      "onboard_time": 1680228204,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 278715,
       "num": 278715,
       "word": "叶诗文人生能有几个七年",
       "onboard_time": 1680228624,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 269682,
+      "num": 269682,
+      "word": "豫章书院案开庭重审",
+      "onboard_time": 1680231384,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 267218,
@@ -371,6 +451,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 264754,
+      "num": 264754,
+      "word": "来自中国战机的压迫感",
+      "onboard_time": 1680230843,
+      "rank": 21,
+      "category": "军事"
+    },
+    {
       "raw_hot": 257153,
       "num": 257153,
       "word": "谢娜问粉丝我生图很厉害吧",
@@ -379,20 +467,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 248876,
-      "num": 248876,
-      "word": "短道速滑冠军赛今日开战",
-      "onboard_time": 1680228204,
-      "rank": 20,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 245219,
-      "num": 245219,
-      "word": "车保罗参演杨紫新剧",
-      "onboard_time": 1680230724,
-      "rank": 19,
-      "category": "影视"
+      "raw_hot": 245790,
+      "num": 245790,
+      "word": "柯南贝克街的亡灵台词",
+      "onboard_time": 1680231805,
+      "rank": 22,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 244901,
@@ -451,6 +531,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 214993,
+      "num": 214993,
+      "word": "张新成孙千这么多年侧脸海报",
+      "onboard_time": 1680232286,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 210416,
       "num": 210416,
       "word": "袁冰妍",
@@ -475,12 +563,36 @@
       "category": "情感"
     },
     {
+      "raw_hot": 207948,
+      "num": 207948,
+      "word": "豫章书院",
+      "onboard_time": 1680232466,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206686,
       "num": 206686,
       "word": "丝棉木",
       "onboard_time": 1680219503,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200234,
+      "num": 199258,
+      "word": "佟大为晒早餐关悦给6.9分",
+      "onboard_time": 1680231805,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 199468,
+      "num": 199468,
+      "word": "陈星旭27岁实绩图",
+      "onboard_time": 1680232407,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 199154,
@@ -499,14 +611,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 198706,
-      "num": 198706,
-      "word": "百岁扫地僧去了天堂图书馆",
-      "onboard_time": 1680229884,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 195257,
       "num": 195257,
       "word": "原来全圆佑剧透过seventeen回归",
@@ -515,12 +619,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190747,
+      "num": 190747,
+      "word": "特斯拉啤酒售价89欧元",
+      "onboard_time": 1680231384,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 189143,
       "num": 189143,
       "word": "新版出生医学证明4月起启用",
       "onboard_time": 1680225385,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 187145,
+      "num": 192766,
+      "word": "电影暴风秘密行动版预告",
+      "onboard_time": 1680231805,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 181950,
@@ -555,14 +675,6 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 178313,
-      "num": 178313,
-      "word": "减脂餐狗都不吃",
-      "onboard_time": 1680230065,
-      "rank": 47,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 176573,
       "num": 174346,
       "word": "男子生前借亲戚534万去世后被赖账",
@@ -577,6 +689,14 @@
       "onboard_time": 1680182011,
       "rank": 21,
       "category": "网红"
+    },
+    {
+      "raw_hot": 173960,
+      "num": 173960,
+      "word": "任嘉伦呼吁守护孤独症孩子",
+      "onboard_time": 1680232707,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 171404,
@@ -619,12 +739,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 165060,
+      "num": 165060,
+      "word": "黑暗荣耀柯南画风版",
+      "onboard_time": 1680231805,
+      "rank": 36,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 159371,
       "num": 159371,
       "word": "检察官将要求特朗普出庭",
       "onboard_time": 1680222571,
       "rank": 32,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 159226,
+      "num": 159226,
+      "word": "本科毕业论文抽检都查什么",
+      "onboard_time": 1680232104,
+      "rank": 39,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 157056,
@@ -635,12 +771,28 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 154928,
+      "num": 154928,
+      "word": "众星为范丞丞新片打call",
+      "onboard_time": 1680231325,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 148168,
       "num": 148168,
       "word": "张学友演唱会",
       "onboard_time": 1680186329,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 145712,
+      "num": 145712,
+      "word": "苍兰诀将在日本播出",
+      "onboard_time": 1680232526,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 145378,
@@ -761,6 +913,14 @@
       "onboard_time": 1680169589,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 120373,
+      "num": 120373,
+      "word": "模仿犯今天下午全集播出",
+      "onboard_time": 1680231146,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 118810,

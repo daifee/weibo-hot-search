@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1680230786128,
+  "endTime": 1680232722284,
   "band_list": [
     {
       "raw_hot": 12970403,
@@ -731,6 +731,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1251672,
+      "num": 1251672,
+      "word": "爱情而已这是可以播的吗",
+      "onboard_time": 1680227605,
+      "rank": 0,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1247305,
       "num": 1247305,
       "word": "拼多多 卡巴斯基",
@@ -811,14 +819,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1163373,
-      "num": 1163373,
-      "word": "爱情而已这是可以播的吗",
-      "onboard_time": 1680227605,
-      "rank": 0,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1155496,
       "num": 1031115,
       "word": "虞书欣王鹤棣聊天口型",
@@ -857,6 +857,14 @@
       "onboard_time": 1679905051,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1131647,
+      "num": 639801,
+      "word": "黄子韬瘦了好多",
+      "onboard_time": 1680230905,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1129146,
@@ -977,6 +985,14 @@
       "onboard_time": 1679994147,
       "rank": 4,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1049773,
+      "num": 631426,
+      "word": "吴磊在首页亲了一天",
+      "onboard_time": 1680231384,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 1019961,
@@ -1835,6 +1851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 650546,
+      "num": 650546,
+      "word": "车保罗参演杨紫新剧",
+      "onboard_time": 1680230724,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 644889,
       "num": 644889,
       "word": "怪异君",
@@ -1945,6 +1969,14 @@
       "onboard_time": 1680223527,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 619883,
+      "num": 619883,
+      "word": "胡歌说没想到会和刘亦菲同台",
+      "onboard_time": 1680231447,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 616867,
@@ -2385,6 +2417,14 @@
       "onboard_time": 1679982808,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 539970,
+      "num": 462588,
+      "word": "五月天武汉",
+      "onboard_time": 1680229585,
+      "rank": 11,
+      "category": "音乐"
     },
     {
       "raw_hot": 533036,
@@ -2851,14 +2891,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 462588,
-      "num": 462588,
-      "word": "五月天武汉",
-      "onboard_time": 1680229585,
-      "rank": 11,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 461637,
       "num": 461637,
       "word": "中国神华回应",
@@ -2905,6 +2937,14 @@
       "onboard_time": 1679974590,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 457320,
+      "num": 386413,
+      "word": "宁艺卓Giselle吐嘈ae形象",
+      "onboard_time": 1680231805,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 456883,
@@ -3563,6 +3603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 377376,
+      "num": 377376,
+      "word": "奶爸默默记录丫丫日常",
+      "onboard_time": 1680228565,
+      "rank": 16,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 377114,
       "num": 377114,
       "word": "龚俊严浩翔聊天",
@@ -3779,6 +3827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 350888,
+      "num": 350888,
+      "word": "百岁扫地僧去了天堂图书馆",
+      "onboard_time": 1680229884,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 350575,
       "num": 271990,
       "word": "男子刚进厨房下一秒高压锅爆炸",
@@ -3913,6 +3969,14 @@
       "onboard_time": 1680190049,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 337747,
+      "num": 337747,
+      "word": "减脂餐狗都不吃",
+      "onboard_time": 1680230065,
+      "rank": 47,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 336824,
@@ -4147,14 +4211,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 317679,
-      "num": 317679,
-      "word": "奶爸默默记录丫丫日常",
-      "onboard_time": 1680228565,
-      "rank": 16,
-      "category": "社会新闻,幽默"
-    },
-    {
       "raw_hot": 315760,
       "num": 315760,
       "word": "长黑斑的香蕉才能缓解便秘",
@@ -4281,6 +4337,14 @@
       "onboard_time": 1680185010,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 303923,
+      "num": 303923,
+      "word": "广东人快要发霉了",
+      "onboard_time": 1680231447,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 303488,
@@ -4659,6 +4723,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 280025,
+      "num": 280025,
+      "word": "短道速滑冠军赛今日开战",
+      "onboard_time": 1680228204,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 279955,
       "num": 279955,
       "word": "别想在我身上学到半点中文",
@@ -4803,6 +4875,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 269682,
+      "num": 269682,
+      "word": "豫章书院案开庭重审",
+      "onboard_time": 1680231384,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 269240,
       "num": 269240,
       "word": "路晨归晓大婚",
@@ -4897,6 +4977,14 @@
       "onboard_time": 1680078267,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 264754,
+      "num": 264754,
+      "word": "来自中国战机的压迫感",
+      "onboard_time": 1680230843,
+      "rank": 21,
+      "category": "军事"
     },
     {
       "raw_hot": 264203,
@@ -5147,14 +5235,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 248876,
-      "num": 248876,
-      "word": "短道速滑冠军赛今日开战",
-      "onboard_time": 1680228204,
-      "rank": 20,
-      "category": "体育"
-    },
-    {
       "raw_hot": 248788,
       "num": 248788,
       "word": "肠胃瞬间通畅了",
@@ -5195,12 +5275,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 245219,
-      "num": 245219,
-      "word": "车保罗参演杨紫新剧",
-      "onboard_time": 1680230724,
-      "rank": 19,
-      "category": "影视"
+      "raw_hot": 245790,
+      "num": 245790,
+      "word": "柯南贝克街的亡灵台词",
+      "onboard_time": 1680231805,
+      "rank": 22,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 244188,
@@ -5795,6 +5875,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 214993,
+      "num": 214993,
+      "word": "张新成孙千这么多年侧脸海报",
+      "onboard_time": 1680232286,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 214913,
       "num": 214913,
       "word": "外交部回应日本男子在京被捕",
@@ -5985,6 +6073,14 @@
       "onboard_time": 1680150689,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 207948,
+      "num": 207948,
+      "word": "豫章书院",
+      "onboard_time": 1680232466,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 207598,
@@ -6291,6 +6387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 200234,
+      "num": 199258,
+      "word": "佟大为晒早餐关悦给6.9分",
+      "onboard_time": 1680231805,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200227,
       "num": 200227,
       "word": "张婧仪谈理想型",
@@ -6355,6 +6459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 199468,
+      "num": 199468,
+      "word": "陈星旭27岁实绩图",
+      "onboard_time": 1680232407,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199429,
       "num": 199429,
       "word": "连官方都看不下去了",
@@ -6385,14 +6497,6 @@
       "onboard_time": 1680195499,
       "rank": 7,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 198706,
-      "num": 198706,
-      "word": "百岁扫地僧去了天堂图书馆",
-      "onboard_time": 1680229884,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 198472,
@@ -6763,6 +6867,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 190747,
+      "num": 190747,
+      "word": "特斯拉啤酒售价89欧元",
+      "onboard_time": 1680231384,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 190705,
       "num": 190705,
       "word": "当你以为自己对某人很特殊",
@@ -6905,6 +7017,14 @@
       "onboard_time": 1679883750,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 187145,
+      "num": 192766,
+      "word": "电影暴风秘密行动版预告",
+      "onboard_time": 1680231805,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 187085,
@@ -7155,14 +7275,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 178313,
-      "num": 178313,
-      "word": "减脂餐狗都不吃",
-      "onboard_time": 1680230065,
-      "rank": 47,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 178217,
       "num": 178217,
       "word": "男童横穿国道被退伍军人一把抱回",
@@ -7304,6 +7416,14 @@
       "word": "谭松韵墨镜随拍",
       "onboard_time": 1679991568,
       "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 173960,
+      "num": 173960,
+      "word": "任嘉伦呼吁守护孤独症孩子",
+      "onboard_time": 1680232707,
+      "rank": 35,
       "category": "艺人"
     },
     {
@@ -7531,6 +7651,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 165060,
+      "num": 165060,
+      "word": "黑暗荣耀柯南画风版",
+      "onboard_time": 1680231805,
+      "rank": 36,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 164445,
       "num": 164445,
       "word": "西藏林芝桃花有多惊艳",
@@ -7683,6 +7811,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 159226,
+      "num": 159226,
+      "word": "本科毕业论文抽检都查什么",
+      "onboard_time": 1680232104,
+      "rank": 39,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 159225,
       "num": 423835,
       "word": "王鹤棣沉浸式出游短片",
@@ -7808,6 +7944,14 @@
       "word": "品质盛典直播",
       "onboard_time": 1680173248,
       "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 154928,
+      "num": 154928,
+      "word": "众星为范丞丞新片打call",
+      "onboard_time": 1680231325,
+      "rank": 41,
       "category": "影视"
     },
     {
@@ -8025,6 +8169,14 @@
       "onboard_time": 1680046462,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145712,
+      "num": 145712,
+      "word": "苍兰诀将在日本播出",
+      "onboard_time": 1680232526,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 145287,
@@ -8801,6 +8953,14 @@
       "onboard_time": 1680002669,
       "rank": 44,
       "category": "其它"
+    },
+    {
+      "raw_hot": 120373,
+      "num": 120373,
+      "word": "模仿犯今天下午全集播出",
+      "onboard_time": 1680231146,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 120146,

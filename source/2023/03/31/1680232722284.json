@@ -1,0 +1,410 @@
+{
+  "runTime": 1680232722284,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1251672,
+        "num": 1251672,
+        "word": "爱情而已这是可以播的吗",
+        "onboard_time": 1680227605,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 650546,
+        "num": 650546,
+        "word": "车保罗参演杨紫新剧",
+        "onboard_time": 1680230724,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 26012,
+        "num": 645216,
+        "word": "这里的春景每一帧都是画报",
+        "onboard_time": 1680184829,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1131647,
+        "num": 639801,
+        "word": "黄子韬瘦了好多",
+        "onboard_time": 1680230905,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1049773,
+        "num": 631426,
+        "word": "吴磊在首页亲了一天",
+        "onboard_time": 1680231384,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1952156,
+        "num": 624013,
+        "word": "特朗普预计下周自首",
+        "onboard_time": 1680225324,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 619883,
+        "num": 619883,
+        "word": "胡歌说没想到会和刘亦菲同台",
+        "onboard_time": 1680231447,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 445268,
+        "num": 445268,
+        "word": "云南巧家县禁止脏车入城",
+        "onboard_time": 1680226164,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 437279,
+        "num": 437279,
+        "word": "油价",
+        "onboard_time": 1680225807,
+        "rank": 8,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 410888,
+        "num": 410888,
+        "word": "和导师沟通像跟渣男谈恋爱",
+        "onboard_time": 1680219202,
+        "rank": 9,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 539970,
+        "num": 394465,
+        "word": "五月天武汉",
+        "onboard_time": 1680229585,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 470605,
+        "num": 388613,
+        "word": "金智秀solo出道",
+        "onboard_time": 1680221066,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 457320,
+        "num": 386413,
+        "word": "宁艺卓Giselle吐嘈ae形象",
+        "onboard_time": 1680231805,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 377376,
+        "num": 377376,
+        "word": "奶爸默默记录丫丫日常",
+        "onboard_time": 1680228565,
+        "rank": 13,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 360642,
+        "num": 360642,
+        "word": "浙江每年抽检本科毕业论文",
+        "onboard_time": 1680224785,
+        "rank": 14,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 350888,
+        "num": 350888,
+        "word": "百岁扫地僧去了天堂图书馆",
+        "onboard_time": 1680229884,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337747,
+        "num": 337747,
+        "word": "减脂餐狗都不吃",
+        "onboard_time": 1680230065,
+        "rank": 16,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 331634,
+        "num": 331634,
+        "word": "父亲牺牲11年后儿子继承警号",
+        "onboard_time": 1680226886,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303923,
+        "num": 303923,
+        "word": "广东人快要发霉了",
+        "onboard_time": 1680231447,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 280025,
+        "num": 280025,
+        "word": "短道速滑冠军赛今日开战",
+        "onboard_time": 1680228204,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 269682,
+        "num": 269682,
+        "word": "豫章书院案开庭重审",
+        "onboard_time": 1680231384,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264754,
+        "num": 264754,
+        "word": "来自中国战机的压迫感",
+        "onboard_time": 1680230843,
+        "rank": 21,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 245790,
+        "num": 245790,
+        "word": "柯南贝克街的亡灵台词",
+        "onboard_time": 1680231805,
+        "rank": 22,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 239511,
+        "num": 239511,
+        "word": "电视剧薄冰定档",
+        "onboard_time": 1680226645,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 235120,
+        "num": 235120,
+        "word": "大熊猫怎么也会这么八卦",
+        "onboard_time": 1680229166,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 229614,
+        "num": 229614,
+        "word": "女子当场抓住猥琐怪癖男并霸气训斥",
+        "onboard_time": 1680223527,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214993,
+        "num": 214993,
+        "word": "张新成孙千这么多年侧脸海报",
+        "onboard_time": 1680232286,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 209048,
+        "num": 209048,
+        "word": "叶诗文人生能有几个七年",
+        "onboard_time": 1680228624,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207948,
+        "num": 207948,
+        "word": "豫章书院",
+        "onboard_time": 1680232466,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201072,
+        "num": 201072,
+        "word": "7旬老人超市伸手牵走2岁女童",
+        "onboard_time": 1680220765,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199468,
+        "num": 199468,
+        "word": "陈星旭27岁实绩图",
+        "onboard_time": 1680232407,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200234,
+        "num": 199258,
+        "word": "佟大为晒早餐关悦给6.9分",
+        "onboard_time": 1680231805,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197044,
+        "num": 197044,
+        "word": "肖战视频BGM被原唱夸",
+        "onboard_time": 1680223046,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 187145,
+        "num": 192766,
+        "word": "电影暴风秘密行动版预告",
+        "onboard_time": 1680231805,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 190747,
+        "num": 190747,
+        "word": "特斯拉啤酒售价89欧元",
+        "onboard_time": 1680231384,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 173960,
+        "num": 173960,
+        "word": "任嘉伦呼吁守护孤独症孩子",
+        "onboard_time": 1680232707,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165060,
+        "num": 165060,
+        "word": "黑暗荣耀柯南画风版",
+        "onboard_time": 1680231805,
+        "rank": 36,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 159708,
+        "num": 159708,
+        "word": "杨超越白色花苞裙",
+        "onboard_time": 1680225567,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 159271,
+        "num": 159271,
+        "word": "两只社恐熊猫恋爱太费劲了",
+        "onboard_time": 1680223285,
+        "rank": 38,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 159226,
+        "num": 159226,
+        "word": "本科毕业论文抽检都查什么",
+        "onboard_time": 1680232104,
+        "rank": 39,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 158768,
+        "num": 158768,
+        "word": "斗罗大陆泰国播出预告",
+        "onboard_time": 1680228805,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 154928,
+        "num": 154928,
+        "word": "众星为范丞丞新片打call",
+        "onboard_time": 1680231325,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 155106,
+        "num": 154156,
+        "word": "陈卓璇告别声生不息",
+        "onboard_time": 1680225204,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152361,
+        "num": 152361,
+        "word": "代号鸢",
+        "onboard_time": 1680218240,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 152196,
+        "num": 152196,
+        "word": "路人福建偶遇毛晓彤",
+        "onboard_time": 1680226704,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148481,
+        "num": 148481,
+        "word": "哭可以治病",
+        "onboard_time": 1680223587,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145712,
+        "num": 145712,
+        "word": "苍兰诀将在日本播出",
+        "onboard_time": 1680232526,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 144902,
+        "num": 144902,
+        "word": "部分省考年龄放宽至40岁",
+        "onboard_time": 1680220282,
+        "rank": 47,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 123455,
+        "num": 123455,
+        "word": "林更新说和赵丽颖二搭更默契了",
+        "onboard_time": 1680193762,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 120373,
+        "num": 120373,
+        "word": "模仿犯今天下午全集播出",
+        "onboard_time": 1680231146,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#好评中国#"
+    }
+  }
+}
