@@ -1,6 +1,6 @@
 {
   "startTime": 1680193469065,
-  "endTime": 1680261292692,
+  "endTime": 1680262414462,
   "band_list": [
     {
       "raw_hot": 2726093,
@@ -83,6 +83,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1626404,
+      "num": 1626404,
+      "word": "重庆被杀害母亲怀有6个月身孕",
+      "onboard_time": 1680259408,
+      "rank": 1,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1315302,
       "num": 1315302,
       "word": "不婚族晚年生活是什么样子",
@@ -153,14 +161,6 @@
       "onboard_time": 1680257544,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1057903,
-      "num": 1057903,
-      "word": "重庆被杀害母亲怀有6个月身孕",
-      "onboard_time": 1680259408,
-      "rank": 1,
-      "category": "社会负面"
     },
     {
       "raw_hot": 1049773,
@@ -571,6 +571,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 463639,
+      "num": 463639,
+      "word": "迪丽热巴微博之夜发型拆解",
+      "onboard_time": 1680261748,
+      "rank": 6,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 462943,
       "num": 462943,
       "word": "泡泡玛特 阴阳师",
@@ -675,6 +683,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 428055,
+      "num": 428055,
+      "word": "警方通报重庆一母女被袭身亡",
+      "onboard_time": 1680258987,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 417129,
       "num": 417129,
       "word": "牙医口罩下的表情是怎样的",
@@ -737,6 +753,14 @@
       "onboard_time": 1680234148,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 385635,
+      "num": 228432,
+      "word": "你介意另一半跟前任同居过吗",
+      "onboard_time": 1680260906,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 382097,
@@ -980,11 +1004,19 @@
     },
     {
       "raw_hot": 275738,
-      "num": 217883,
+      "num": 226960,
       "word": "每天凌晨4点都要给狗一巴掌",
       "onboard_time": 1680256765,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 275299,
+      "num": 275299,
+      "word": "SMTOWN新CEO张哲赫",
+      "onboard_time": 1680261627,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 272813,
@@ -1081,6 +1113,14 @@
       "onboard_time": 1680232407,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 258368,
+      "num": 258368,
+      "word": "张继科方将对侵权用户提起诉讼",
+      "onboard_time": 1680260966,
+      "rank": 30,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 257153,
@@ -1195,14 +1235,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 215866,
-      "num": 171182,
-      "word": "张继科方将对侵权用户提起诉讼",
-      "onboard_time": 1680260966,
-      "rank": 30,
-      "category": "社会新闻,体育"
-    },
-    {
       "raw_hot": 214500,
       "num": 214500,
       "word": "张大大没有站姐",
@@ -1291,6 +1323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 200587,
+      "num": 231006,
+      "word": "曾舜晞新剧杀青路透",
+      "onboard_time": 1680262047,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 200234,
       "num": 199258,
       "word": "佟大为晒早餐关悦给6.9分",
@@ -1339,6 +1379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 198775,
+      "num": 198775,
+      "word": "徐怀钰到达长沙",
+      "onboard_time": 1680262107,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197858,
       "num": 197858,
       "word": "任嘉伦呼吁守护孤独症孩子",
@@ -1385,6 +1433,14 @@
       "onboard_time": 1680232526,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 191260,
+      "num": 191260,
+      "word": "孟晚舟回应轮值董事长",
+      "onboard_time": 1680261326,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 191052,
@@ -1481,6 +1537,22 @@
       "onboard_time": 1680260067,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 183980,
+      "num": 183980,
+      "word": "郭麒麟拍完龙马精神才告诉郭德纲",
+      "onboard_time": 1680260547,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 183783,
+      "num": 183783,
+      "word": "他是谁",
+      "onboard_time": 1680260726,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 182703,
@@ -1611,14 +1683,6 @@
       "category": "综艺,情感"
     },
     {
-      "raw_hot": 173000,
-      "num": 173000,
-      "word": "他是谁",
-      "onboard_time": 1680260726,
-      "rank": 28,
-      "category": "影视"
-    },
-    {
       "raw_hot": 171404,
       "num": 171404,
       "word": "巧珍哭着跟高加林分手",
@@ -1641,14 +1705,6 @@
       "onboard_time": 1680258386,
       "rank": 37,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 170763,
-      "num": 170763,
-      "word": "郭麒麟拍完龙马精神才告诉郭德纲",
-      "onboard_time": 1680260547,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 170534,
@@ -1715,14 +1771,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 161409,
-      "num": 161409,
-      "word": "你介意另一半跟前任同居过吗",
-      "onboard_time": 1680260906,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 160984,
       "num": 1355238,
       "word": "4月起这些新规将影响你我生活",
@@ -1771,6 +1819,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 154578,
+      "num": 154578,
+      "word": "喻言翻唱flowers",
+      "onboard_time": 1680262047,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 151723,
       "num": 151723,
       "word": "惊天救援全城沦陷版预告",
@@ -1793,6 +1849,14 @@
       "onboard_time": 1680239427,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 149523,
+      "num": 149523,
+      "word": "为什么很节俭还是存不到钱",
+      "onboard_time": 1680261565,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 148168,
@@ -2123,6 +2187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 115323,
+      "num": 115323,
+      "word": "大侦探全员含泪海报",
+      "onboard_time": 1680262228,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 112685,
       "num": 112685,
       "word": "归晓婚纱照",
@@ -2153,6 +2225,14 @@
       "onboard_time": 1680247766,
       "rank": 44,
       "category": "幽默,美食"
+    },
+    {
+      "raw_hot": 107584,
+      "num": 107584,
+      "word": "4月份有望播出的电视剧",
+      "onboard_time": 1680262407,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 107557,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1680262414462,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1626404,
+        "num": 1626404,
+        "word": "重庆被杀害母亲怀有6个月身孕",
+        "onboard_time": 1680259408,
+        "rank": 0,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 856813,
+        "num": 856813,
+        "word": "钟南山称条件允许可不戴口罩",
+        "onboard_time": 1680257544,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54614,
+        "num": 813644,
+        "word": "带你共享花开烂漫时",
+        "onboard_time": 1680248546,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1075517,
+        "num": 811260,
+        "word": "叶一茜说森碟觉得弟弟是最有心机的人",
+        "onboard_time": 1680251306,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 915799,
+        "num": 808204,
+        "word": "短指症",
+        "onboard_time": 1680252745,
+        "rank": 4,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 804997,
+        "num": 804997,
+        "word": "孟晚舟称华为向死而生怎么能不成仁",
+        "onboard_time": 1680257246,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 463639,
+        "num": 463639,
+        "word": "迪丽热巴微博之夜发型拆解",
+        "onboard_time": 1680261748,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 428055,
+        "num": 428055,
+        "word": "警方通报重庆一母女被袭身亡",
+        "onboard_time": 1680258987,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 424815,
+        "num": 424815,
+        "word": "乘风破浪4",
+        "onboard_time": 1680257485,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 385229,
+        "num": 385229,
+        "word": "任泉王京花企业涉非吸案",
+        "onboard_time": 1680246565,
+        "rank": 9,
+        "category": "财经,艺人"
+      },
+      {
+        "raw_hot": 335733,
+        "num": 335733,
+        "word": "中国银行原董事长刘连舸被查",
+        "onboard_time": 1680257544,
+        "rank": 10,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 325639,
+        "num": 325639,
+        "word": "刘浩存新片首映礼哭了",
+        "onboard_time": 1680246446,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 314691,
+        "num": 314691,
+        "word": "易烊千玺给网站续约",
+        "onboard_time": 1680249206,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275299,
+        "num": 275299,
+        "word": "SMTOWN新CEO张哲赫",
+        "onboard_time": 1680261627,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273221,
+        "num": 273221,
+        "word": "华为2022年净利润356亿",
+        "onboard_time": 1680254124,
+        "rank": 14,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 261271,
+        "num": 261271,
+        "word": "成龙建议演员好好在国内发展",
+        "onboard_time": 1680258926,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 258368,
+        "num": 258368,
+        "word": "张继科方将对侵权用户提起诉讼",
+        "onboard_time": 1680260966,
+        "rank": 16,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 231666,
+        "num": 231666,
+        "word": "周雨彤吴磊VS周雨彤侯明昊",
+        "onboard_time": 1680255085,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 231612,
+        "num": 231612,
+        "word": "萌兰 发箍奶爸",
+        "onboard_time": 1680252564,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 200587,
+        "num": 231006,
+        "word": "曾舜晞新剧杀青路透",
+        "onboard_time": 1680262047,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 423975,
+        "num": 229918,
+        "word": "不婚族晚年生活是什么样子",
+        "onboard_time": 1680243025,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 385635,
+        "num": 228432,
+        "word": "你介意另一半跟前任同居过吗",
+        "onboard_time": 1680260906,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 263316,
+        "num": 228045,
+        "word": "假性不婚族8个特征",
+        "onboard_time": 1680252986,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226960,
+        "num": 226960,
+        "word": "每天凌晨4点都要给狗一巴掌",
+        "onboard_time": 1680256765,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 219719,
+        "num": 219719,
+        "word": "杨紫皮衣披发造型",
+        "onboard_time": 1680256045,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198775,
+        "num": 198775,
+        "word": "徐怀钰到达长沙",
+        "onboard_time": 1680262107,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191260,
+        "num": 191260,
+        "word": "孟晚舟回应轮值董事长",
+        "onboard_time": 1680261326,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183980,
+        "num": 183980,
+        "word": "郭麒麟拍完龙马精神才告诉郭德纲",
+        "onboard_time": 1680260547,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 183783,
+        "num": 183783,
+        "word": "他是谁",
+        "onboard_time": 1680260726,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 94721,
+        "num": 178282,
+        "word": "12306官方详解免费坐高铁",
+        "onboard_time": 1680254006,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177199,
+        "num": 177199,
+        "word": "泡泡玛特 阴阳师",
+        "onboard_time": 1680252208,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 175896,
+        "num": 175896,
+        "word": "BLACKPINK成员solo单曲",
+        "onboard_time": 1680243806,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 170539,
+        "num": 170539,
+        "word": "跑男团为范丞丞新片打call",
+        "onboard_time": 1680258806,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 156774,
+        "num": 156774,
+        "word": "玉骨遥梦中的那片海暂定Q2播出",
+        "onboard_time": 1680247345,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 154578,
+        "num": 154578,
+        "word": "喻言翻唱flowers",
+        "onboard_time": 1680262047,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 153719,
+        "num": 153719,
+        "word": "金智秀solo单曲",
+        "onboard_time": 1680236367,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 150452,
+        "num": 150452,
+        "word": "近九成学生认为毕业论文有难度",
+        "onboard_time": 1680250043,
+        "rank": 36,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 149523,
+        "num": 149523,
+        "word": "为什么很节俭还是存不到钱",
+        "onboard_time": 1680261565,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 127905,
+        "num": 127905,
+        "word": "华为称6G何时到来还不清晰",
+        "onboard_time": 1680259287,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 121841,
+        "num": 121841,
+        "word": "奔跑吧",
+        "onboard_time": 1680258026,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121811,
+        "num": 121811,
+        "word": "小猫每天都在忙什么",
+        "onboard_time": 1680258026,
+        "rank": 40,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 121043,
+        "num": 121043,
+        "word": "广东的雨是不是不打算收手了",
+        "onboard_time": 1680256407,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118461,
+        "num": 118461,
+        "word": "国产电视剧编剧的脑袋里在想什么",
+        "onboard_time": 1680253824,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 115323,
+        "num": 115323,
+        "word": "大侦探全员含泪海报",
+        "onboard_time": 1680262228,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114944,
+        "num": 114944,
+        "word": "奔跑吧全员欧式宫廷风",
+        "onboard_time": 1680252208,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114371,
+        "num": 114371,
+        "word": "田曦薇代言",
+        "onboard_time": 1680243324,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113289,
+        "num": 113289,
+        "word": "TES翻盘WE",
+        "onboard_time": 1680257544,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 107584,
+        "num": 107584,
+        "word": "4月份有望播出的电视剧",
+        "onboard_time": 1680262407,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 366392,
+        "num": 107450,
+        "word": "徐冬冬椰树新姿势",
+        "onboard_time": 1680255324,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107082,
+        "num": 107082,
+        "word": "王登峰被双开",
+        "onboard_time": 1680255686,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#30秒飞阅雄安新区看新颜#"
+    }
+  }
+}

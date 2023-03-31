@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1680261292692,
+  "endTime": 1680262414462,
   "band_list": [
     {
       "raw_hot": 12970403,
@@ -457,6 +457,14 @@
       "onboard_time": 1679914652,
       "rank": 3,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1626404,
+      "num": 1626404,
+      "word": "重庆被杀害母亲怀有6个月身孕",
+      "onboard_time": 1680259408,
+      "rank": 1,
+      "category": "社会负面"
     },
     {
       "raw_hot": 1625993,
@@ -1089,14 +1097,6 @@
       "onboard_time": 1680138207,
       "rank": 28,
       "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 1057903,
-      "num": 1057903,
-      "word": "重庆被杀害母亲怀有6个月身孕",
-      "onboard_time": 1680259408,
-      "rank": 1,
-      "category": "社会负面"
     },
     {
       "raw_hot": 1053717,
@@ -3227,6 +3227,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 463639,
+      "num": 463639,
+      "word": "迪丽热巴微博之夜发型拆解",
+      "onboard_time": 1680261748,
+      "rank": 6,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 463316,
       "num": 463316,
       "word": "章鱼拿铁",
@@ -3545,6 +3553,14 @@
       "onboard_time": 1679999668,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 428055,
+      "num": 428055,
+      "word": "警方通报重庆一母女被袭身亡",
+      "onboard_time": 1680258987,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 427632,
@@ -3961,6 +3977,14 @@
       "onboard_time": 1680234148,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 385635,
+      "num": 228432,
+      "word": "你介意另一半跟前任同居过吗",
+      "onboard_time": 1680260906,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 385414,
@@ -5356,7 +5380,7 @@
     },
     {
       "raw_hot": 275738,
-      "num": 217883,
+      "num": 226960,
       "word": "每天凌晨4点都要给狗一巴掌",
       "onboard_time": 1680256765,
       "rank": 32,
@@ -5369,6 +5393,14 @@
       "onboard_time": 1680150689,
       "rank": 38,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 275299,
+      "num": 275299,
+      "word": "SMTOWN新CEO张哲赫",
+      "onboard_time": 1680261627,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 274726,
@@ -5681,6 +5713,14 @@
       "onboard_time": 1679973149,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 258368,
+      "num": 258368,
+      "word": "张继科方将对侵权用户提起诉讼",
+      "onboard_time": 1680260966,
+      "rank": 30,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 258272,
@@ -6531,14 +6571,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 215866,
-      "num": 171182,
-      "word": "张继科方将对侵权用户提起诉讼",
-      "onboard_time": 1680260966,
-      "rank": 30,
-      "category": "社会新闻,体育"
-    },
-    {
       "raw_hot": 214913,
       "num": 214913,
       "word": "外交部回应日本男子在京被捕",
@@ -7083,6 +7115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 200587,
+      "num": 231006,
+      "word": "曾舜晞新剧杀青路透",
+      "onboard_time": 1680262047,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 200521,
       "num": 200521,
       "word": "爱情而已片头的标题和照片",
@@ -7217,6 +7257,14 @@
       "onboard_time": 1680251358,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 198775,
+      "num": 198775,
+      "word": "徐怀钰到达长沙",
+      "onboard_time": 1680262107,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 198472,
@@ -7611,6 +7659,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 191260,
+      "num": 191260,
+      "word": "孟晚舟回应轮值董事长",
+      "onboard_time": 1680261326,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191070,
       "num": 191070,
       "word": "宋三川开启网球事业",
@@ -7937,6 +7993,14 @@
       "onboard_time": 1679990488,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 183980,
+      "num": 183980,
+      "word": "郭麒麟拍完龙马精神才告诉郭德纲",
+      "onboard_time": 1680260547,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 183975,
@@ -8411,14 +8475,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 170763,
-      "num": 170763,
-      "word": "郭麒麟拍完龙马精神才告诉郭德纲",
-      "onboard_time": 1680260547,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 170723,
       "num": 314640,
       "word": "你城市的夜景有多美",
@@ -8707,14 +8763,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 161409,
-      "num": 161409,
-      "word": "你介意另一半跟前任同居过吗",
-      "onboard_time": 1680260906,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 160984,
       "num": 1355238,
       "word": "4月起这些新规将影响你我生活",
@@ -8915,6 +8963,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 154578,
+      "num": 154578,
+      "word": "喻言翻唱flowers",
+      "onboard_time": 1680262047,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 154291,
       "num": 154291,
       "word": "狗狗的想法",
@@ -9041,6 +9097,14 @@
       "onboard_time": 1680177507,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 149523,
+      "num": 149523,
+      "word": "为什么很节俭还是存不到钱",
+      "onboard_time": 1680261565,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 149435,
@@ -10203,6 +10267,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 115323,
+      "num": 115323,
+      "word": "大侦探全员含泪海报",
+      "onboard_time": 1680262228,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 114959,
       "num": 114959,
       "word": "微信相关功能已恢复",
@@ -10425,6 +10497,14 @@
       "onboard_time": 1679818286,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 107584,
+      "num": 107584,
+      "word": "4月份有望播出的电视剧",
+      "onboard_time": 1680262407,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 107557,
