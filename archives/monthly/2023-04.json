@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680291210091,
+  "endTime": 1680293849526,
   "band_list": [
     {
       "raw_hot": 7084987,
@@ -435,8 +435,8 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 45980,
-      "num": 45980,
+      "raw_hot": 48906,
+      "num": 48906,
       "word": "上海最大露天夜市重开",
       "onboard_time": 1680288013,
       "rank": 25,
@@ -497,6 +497,14 @@
       "onboard_time": 1680276207,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 21045,
+      "num": 21045,
+      "word": "王者S31赛季即将开启",
+      "onboard_time": 1680292872,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 16940,

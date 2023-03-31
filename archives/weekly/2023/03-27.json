@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1680291210091,
+  "endTime": 1680293849526,
   "band_list": [
     {
       "raw_hot": 12970403,
@@ -12067,6 +12067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 48906,
+      "num": 48906,
+      "word": "上海最大露天夜市重开",
+      "onboard_time": 1680288013,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 48132,
       "num": 1332127,
       "word": "开局之年看中国县域新发展",
@@ -12089,14 +12097,6 @@
       "onboard_time": 1679893238,
       "rank": 14,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 45980,
-      "num": 45980,
-      "word": "上海最大露天夜市重开",
-      "onboard_time": 1680288013,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 44025,
@@ -12201,6 +12201,14 @@
       "onboard_time": 1680121332,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21045,
+      "num": 21045,
+      "word": "王者S31赛季即将开启",
+      "onboard_time": 1680292872,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 12578,
