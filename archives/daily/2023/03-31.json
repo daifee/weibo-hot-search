@@ -1,6 +1,6 @@
 {
   "startTime": 1680193469065,
-  "endTime": 1680262414462,
+  "endTime": 1680266053169,
   "band_list": [
     {
       "raw_hot": 2726093,
@@ -73,6 +73,14 @@
       "onboard_time": 1680219202,
       "rank": 47,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 1714178,
+      "num": 305345,
+      "word": "叶一茜 森碟和亮仔都是我的宝贝",
+      "onboard_time": 1680263307,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1667566,
@@ -171,6 +179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1046090,
+      "num": 304569,
+      "word": "贝儿和妹妹",
+      "onboard_time": 1680262648,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1038738,
       "num": 456581,
       "word": "易烊千玺给网站续约",
@@ -267,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 829544,
+      "num": 463580,
+      "word": "Ella一家三口抵达长沙",
+      "onboard_time": 1680264147,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 825676,
       "num": 809419,
       "word": "上海海事大学被举报弄虚作假",
@@ -297,6 +321,14 @@
       "onboard_time": 1680235227,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 765037,
+      "num": 463639,
+      "word": "迪丽热巴微博之夜发型拆解",
+      "onboard_time": 1680261748,
+      "rank": 6,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 758015,
@@ -419,6 +451,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 657329,
+      "num": 657329,
+      "word": "张继科方将对侵权用户提起诉讼",
+      "onboard_time": 1680260966,
+      "rank": 30,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 650546,
       "num": 650546,
       "word": "车保罗参演杨紫新剧",
@@ -507,6 +547,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 522443,
+      "num": 249660,
+      "word": "你介意另一半跟前任同居过吗",
+      "onboard_time": 1680260906,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 520213,
       "num": 520213,
       "word": "玉骨遥梦中的那片海暂定Q2播出",
@@ -536,6 +584,14 @@
       "word": "云南巧家县禁止脏车入城",
       "onboard_time": 1680226164,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 489169,
+      "num": 428055,
+      "word": "警方通报重庆一母女被袭身亡",
+      "onboard_time": 1680258987,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -569,14 +625,6 @@
       "onboard_time": 1680242905,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 463639,
-      "num": 463639,
-      "word": "迪丽热巴微博之夜发型拆解",
-      "onboard_time": 1680261748,
-      "rank": 6,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 462943,
@@ -683,12 +731,12 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 428055,
-      "num": 428055,
-      "word": "警方通报重庆一母女被袭身亡",
-      "onboard_time": 1680258987,
-      "rank": 7,
-      "category": "社会新闻"
+      "raw_hot": 424690,
+      "num": 424690,
+      "word": "暖阳裤子",
+      "onboard_time": 1680263189,
+      "rank": 5,
+      "category": "游戏"
     },
     {
       "raw_hot": 417129,
@@ -731,6 +779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 391559,
+      "num": 391559,
+      "word": "SMTOWN新CEO张哲赫",
+      "onboard_time": 1680261627,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 389439,
       "num": 389439,
       "word": "豫章书院揭发人现身庭审现场",
@@ -753,14 +809,6 @@
       "onboard_time": 1680234148,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 385635,
-      "num": 228432,
-      "word": "你介意另一半跟前任同居过吗",
-      "onboard_time": 1680260906,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 382097,
@@ -907,6 +955,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 305577,
+      "num": 305577,
+      "word": "大侦探全员含泪海报",
+      "onboard_time": 1680262228,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 305216,
       "num": 258882,
       "word": "孙千粉色旗袍",
@@ -971,6 +1027,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 281599,
+      "num": 246520,
+      "word": "他是谁赵公子背景",
+      "onboard_time": 1680264387,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 281166,
       "num": 281166,
       "word": "来自中国战机的压迫感",
@@ -1011,20 +1075,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 275299,
-      "num": 275299,
-      "word": "SMTOWN新CEO张哲赫",
-      "onboard_time": 1680261627,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 272813,
       "num": 272813,
       "word": "特斯拉啤酒售价89欧元",
       "onboard_time": 1680231384,
       "rank": 34,
       "category": "财经"
+    },
+    {
+      "raw_hot": 271681,
+      "num": 271681,
+      "word": "喻言翻唱flowers",
+      "onboard_time": 1680262047,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 271486,
@@ -1115,20 +1179,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 258368,
-      "num": 258368,
-      "word": "张继科方将对侵权用户提起诉讼",
-      "onboard_time": 1680260966,
-      "rank": 30,
-      "category": "社会新闻,体育"
-    },
-    {
       "raw_hot": 257153,
       "num": 257153,
       "word": "谢娜问粉丝我生图很厉害吧",
       "onboard_time": 1680182068,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 256355,
+      "num": 256355,
+      "word": "4月份有望播出的电视剧",
+      "onboard_time": 1680262407,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 255806,
+      "num": 235640,
+      "word": "曹禺女儿被许魏洲版周萍触动",
+      "onboard_time": 1680262948,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 254963,
@@ -1227,11 +1299,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 224220,
+      "num": 224220,
+      "word": "为什么很节俭还是存不到钱",
+      "onboard_time": 1680261565,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 223301,
       "num": 223301,
       "word": "斗罗大陆泰国播出预告",
       "onboard_time": 1680228805,
       "rank": 24,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 218068,
+      "num": 218068,
+      "word": "粉丝把成龙唱哭了",
+      "onboard_time": 1680265167,
+      "rank": 25,
       "category": "影视"
     },
     {
@@ -1243,11 +1331,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 212237,
+      "num": 212237,
+      "word": "他是谁",
+      "onboard_time": 1680260726,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 211684,
       "num": 211684,
       "word": "WB对战DRG",
       "onboard_time": 1680257184,
       "rank": 28,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 211359,
+      "num": 211359,
+      "word": "暖阳知道自己裤子穿反了",
+      "onboard_time": 1680265527,
+      "rank": 27,
       "category": "游戏"
     },
     {
@@ -1393,6 +1497,22 @@
       "onboard_time": 1680232707,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 197663,
+      "num": 197663,
+      "word": "张栋梁跳着唱人生没有如果",
+      "onboard_time": 1680265105,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 197660,
+      "num": 197660,
+      "word": "原神卡维",
+      "onboard_time": 1680265527,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 196955,
@@ -1544,14 +1664,6 @@
       "word": "郭麒麟拍完龙马精神才告诉郭德纲",
       "onboard_time": 1680260547,
       "rank": 31,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 183783,
-      "num": 183783,
-      "word": "他是谁",
-      "onboard_time": 1680260726,
-      "rank": 28,
       "category": "影视"
     },
     {
@@ -1707,6 +1819,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 170889,
+      "num": 170889,
+      "word": "白鹿古堡公主",
+      "onboard_time": 1680265527,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 170771,
+      "num": 170771,
+      "word": "双开门电梯",
+      "onboard_time": 1680261684,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 170534,
       "num": 170534,
       "word": "BoysPlanet三公竞演",
@@ -1720,6 +1848,14 @@
       "word": "导演李玉刚首部电影开机",
       "onboard_time": 1680182068,
       "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 168243,
+      "num": 168243,
+      "word": "梁友安加班陪宋三川加练",
+      "onboard_time": 1680265826,
+      "rank": 38,
       "category": "影视"
     },
     {
@@ -1819,14 +1955,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 154578,
-      "num": 154578,
-      "word": "喻言翻唱flowers",
-      "onboard_time": 1680262047,
-      "rank": 34,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 151723,
       "num": 151723,
       "word": "惊天救援全城沦陷版预告",
@@ -1851,12 +1979,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 149523,
-      "num": 149523,
-      "word": "为什么很节俭还是存不到钱",
-      "onboard_time": 1680261565,
-      "rank": 37,
-      "category": "情感"
+      "raw_hot": 148297,
+      "num": 303088,
+      "word": "原神3.6版本直播",
+      "onboard_time": 1680264028,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 148168,
@@ -1987,6 +2115,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 135584,
+      "num": 135584,
+      "word": "看见缘分的少女开播",
+      "onboard_time": 1680265706,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 135088,
       "num": 135088,
       "word": "李沁村花妆是刻板印象吗",
@@ -2059,6 +2195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 128478,
+      "num": 128478,
+      "word": "宋亚轩清唱情歌两三首视频",
+      "onboard_time": 1680265947,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 128474,
       "num": 128474,
       "word": "凤凰音乐节",
@@ -2073,6 +2217,14 @@
       "onboard_time": 1680251545,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 127268,
+      "num": 121715,
+      "word": "刘三木",
+      "onboard_time": 1680265826,
+      "rank": 47,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 127232,
@@ -2128,6 +2280,14 @@
       "word": "张杰未live巡回演唱会",
       "onboard_time": 1680240808,
       "rank": 41,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 124687,
+      "num": 124687,
+      "word": "尤长靖爱的放映厅",
+      "onboard_time": 1680264507,
+      "rank": 46,
       "category": "音乐"
     },
     {
@@ -2187,14 +2347,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 115323,
-      "num": 115323,
-      "word": "大侦探全员含泪海报",
-      "onboard_time": 1680262228,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 112685,
       "num": 112685,
       "word": "归晓婚纱照",
@@ -2225,14 +2377,6 @@
       "onboard_time": 1680247766,
       "rank": 44,
       "category": "幽默,美食"
-    },
-    {
-      "raw_hot": 107584,
-      "num": 107584,
-      "word": "4月份有望播出的电视剧",
-      "onboard_time": 1680262407,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 107557,
