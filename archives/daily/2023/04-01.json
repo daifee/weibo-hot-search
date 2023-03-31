@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680302006284,
+  "endTime": 1680304567445,
   "band_list": [
     {
       "raw_hot": 7084987,
@@ -163,6 +163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 212992,
+      "num": 212992,
+      "word": "钟南山称条件允许可不戴口罩",
+      "onboard_time": 1680257544,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 207176,
       "num": 207176,
       "word": "Ella一家三口抵达长沙",
@@ -187,14 +195,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 187686,
-      "num": 187686,
-      "word": "钟南山称条件允许可不戴口罩",
-      "onboard_time": 1680257544,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 166236,
       "num": 152627,
       "word": "男子饭店内持刀伤人致1死2伤",
@@ -217,6 +217,14 @@
       "onboard_time": 1680268168,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 153150,
+      "num": 153150,
+      "word": "上海最大露天夜市重开",
+      "onboard_time": 1680288013,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 152280,
@@ -267,6 +275,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 132225,
+      "num": 76678,
+      "word": "佟丽娅分享迪士尼游玩库存照",
+      "onboard_time": 1680266666,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125644,
       "num": 125644,
       "word": "他是谁赵公子背景",
@@ -289,6 +305,14 @@
       "onboard_time": 1680279865,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 108645,
+      "num": 90321,
+      "word": "如何看待禁止脏车入城规定",
+      "onboard_time": 1680275189,
+      "rank": 48,
+      "category": "社会议题,情感"
     },
     {
       "raw_hot": 103404,
@@ -331,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 99388,
+      "num": 75941,
+      "word": "外交部回应日本外相将访华",
+      "onboard_time": 1680303797,
+      "rank": 31,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 99278,
       "num": 99278,
       "word": "SMTOWN新CEO张哲赫",
@@ -347,6 +379,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 91732,
+      "num": 90300,
+      "word": "同等分量面食是米饭热量的2到3倍",
+      "onboard_time": 1680303797,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 90149,
       "num": 90149,
       "word": "每天凌晨4点都要给狗一巴掌",
@@ -355,20 +395,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 85605,
+      "num": 90378,
+      "word": "邓超杠上卷腹变猴子捞月",
+      "onboard_time": 1680296771,
+      "rank": 32,
+      "category": "综艺,幽默"
+    },
+    {
       "raw_hot": 83509,
       "num": 83509,
       "word": "拥有可移动的家有多自由",
       "onboard_time": 1680273510,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 82604,
-      "num": 82604,
-      "word": "如何看待禁止脏车入城规定",
-      "onboard_time": 1680275189,
-      "rank": 48,
-      "category": "社会议题,情感"
     },
     {
       "raw_hot": 81998,
@@ -384,14 +424,6 @@
       "word": "北汽原董事长徐和谊被查",
       "onboard_time": 1680275010,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 79120,
-      "num": 79120,
-      "word": "上海最大露天夜市重开",
-      "onboard_time": 1680288013,
-      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -443,24 +475,32 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 60522,
-      "num": 36337,
-      "word": "佟丽娅分享迪士尼游玩库存照",
-      "onboard_time": 1680266666,
-      "rank": 46,
-      "category": "艺人"
+      "raw_hot": 64096,
+      "num": 64096,
+      "word": "王者S31赛季即将开启",
+      "onboard_time": 1680292872,
+      "rank": 29,
+      "category": "游戏"
     },
     {
-      "raw_hot": 40858,
-      "num": 40858,
+      "raw_hot": 55066,
+      "num": 55066,
+      "word": "鹿晗老舅王勉做后勤演卑微打工人",
+      "onboard_time": 1680276207,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 50122,
+      "num": 50122,
       "word": "大张伟说我甚至觉得我是凶手",
       "onboard_time": 1680285077,
       "rank": 31,
       "category": "综艺"
     },
     {
-      "raw_hot": 38755,
-      "num": 38755,
+      "raw_hot": 47196,
+      "num": 47196,
       "word": "当奶奶被人问起网名",
       "onboard_time": 1680281065,
       "rank": 32,
@@ -475,28 +515,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 37284,
-      "num": 37284,
-      "word": "邓超杠上卷腹变猴子捞月",
-      "onboard_time": 1680296771,
-      "rank": 32,
-      "category": "综艺,幽默"
-    },
-    {
       "raw_hot": 35850,
       "num": 44978,
       "word": "马嘉祺唱后来",
       "onboard_time": 1680185788,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 35703,
-      "num": 47422,
-      "word": "王者S31赛季即将开启",
-      "onboard_time": 1680292872,
-      "rank": 29,
-      "category": "游戏"
     },
     {
       "raw_hot": 34267,
@@ -507,12 +531,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 32749,
-      "num": 32749,
-      "word": "鹿晗老舅王勉做后勤演卑微打工人",
-      "onboard_time": 1680276207,
-      "rank": 39,
-      "category": "综艺"
+      "raw_hot": 31274,
+      "num": 39713,
+      "word": "华为2022年净利润356亿",
+      "onboard_time": 1680254124,
+      "rank": 48,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 29779,
+      "num": 39709,
+      "word": "孟晚舟回应轮值董事长",
+      "onboard_time": 1680261326,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 16940,
