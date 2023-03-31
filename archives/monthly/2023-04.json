@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680298410825,
+  "endTime": 1680300960899,
   "band_list": [
     {
       "raw_hot": 7084987,
@@ -435,12 +435,20 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 48906,
-      "num": 48906,
+      "raw_hot": 55442,
+      "num": 55442,
       "word": "上海最大露天夜市重开",
       "onboard_time": 1680288013,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 47029,
+      "num": 29512,
+      "word": "佟丽娅分享迪士尼游玩库存照",
+      "onboard_time": 1680266666,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 40858,
@@ -467,20 +475,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 37284,
+      "num": 37284,
+      "word": "邓超杠上卷腹变猴子捞月",
+      "onboard_time": 1680296771,
+      "rank": 32,
+      "category": "综艺,幽默"
+    },
+    {
       "raw_hot": 35850,
       "num": 44978,
       "word": "马嘉祺唱后来",
       "onboard_time": 1680185788,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 35244,
-      "num": 29512,
-      "word": "佟丽娅分享迪士尼游玩库存照",
-      "onboard_time": 1680266666,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 34858,
@@ -505,14 +513,6 @@
       "onboard_time": 1680276207,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 19907,
-      "num": 19907,
-      "word": "邓超杠上卷腹变猴子捞月",
-      "onboard_time": 1680296771,
-      "rank": 32,
-      "category": "综艺,幽默"
     },
     {
       "raw_hot": 16940,
