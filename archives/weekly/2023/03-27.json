@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1680267091512,
+  "endTime": 1680268905091,
   "band_list": [
     {
       "raw_hot": 12970403,
@@ -404,7 +404,7 @@
     },
     {
       "raw_hot": 1714178,
-      "num": 339240,
+      "num": 408284,
       "word": "叶一茜 森碟和亮仔都是我的宝贝",
       "onboard_time": 1680263307,
       "rank": 10,
@@ -665,6 +665,14 @@
       "onboard_time": 1680012750,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1373938,
+      "num": 1373938,
+      "word": "打团 暂停",
+      "onboard_time": 1680267087,
+      "rank": 0,
+      "category": "游戏"
     },
     {
       "raw_hot": 1370262,
@@ -1124,7 +1132,7 @@
     },
     {
       "raw_hot": 1046090,
-      "num": 331979,
+      "num": 405001,
       "word": "贝儿和妹妹",
       "onboard_time": 1680262648,
       "rank": 12,
@@ -1476,7 +1484,7 @@
     },
     {
       "raw_hot": 857580,
-      "num": 463580,
+      "num": 620070,
       "word": "Ella一家三口抵达长沙",
       "onboard_time": 1680264147,
       "rank": 3,
@@ -1708,7 +1716,7 @@
     },
     {
       "raw_hot": 765037,
-      "num": 463639,
+      "num": 518256,
       "word": "迪丽热巴微博之夜发型拆解",
       "onboard_time": 1680261748,
       "rank": 6,
@@ -1777,6 +1785,14 @@
       "onboard_time": 1680147807,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 744558,
+      "num": 744558,
+      "word": "意大利宣布禁止使用ChatGPT",
+      "onboard_time": 1680267447,
+      "rank": 1,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 744213,
@@ -2403,6 +2419,22 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 603331,
+      "num": 403182,
+      "word": "王鹤棣晒和王传君合照",
+      "onboard_time": 1680267087,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 599698,
+      "num": 400244,
+      "word": "佟丽娅分享迪士尼游玩库存照",
+      "onboard_time": 1680266666,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 599194,
       "num": 599194,
       "word": "对室友好感就是这样消失的",
@@ -2577,6 +2609,14 @@
       "onboard_time": 1679847924,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 571312,
+      "num": 571312,
+      "word": "原神3.6",
+      "onboard_time": 1680268168,
+      "rank": 4,
+      "category": "游戏"
     },
     {
       "raw_hot": 571142,
@@ -2828,7 +2868,7 @@
     },
     {
       "raw_hot": 522443,
-      "num": 270148,
+      "num": 279193,
       "word": "你介意另一半跟前任同居过吗",
       "onboard_time": 1680260906,
       "rank": 34,
@@ -3555,6 +3595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 434001,
+      "num": 434001,
+      "word": "刘三木",
+      "onboard_time": 1680265826,
+      "rank": 47,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 432801,
       "num": 401782,
       "word": "孙茜牵儿子走秀",
@@ -3753,6 +3801,14 @@
       "onboard_time": 1679979512,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 411168,
+      "num": 411168,
+      "word": "陈赫鹿晗在邓超床头蹦迪",
+      "onboard_time": 1680267148,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 410418,
@@ -4779,14 +4835,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 318117,
-      "num": 318117,
-      "word": "刘三木",
-      "onboard_time": 1680265826,
-      "rank": 47,
-      "category": "游戏,网红"
-    },
-    {
       "raw_hot": 317680,
       "num": 317680,
       "word": "王国之泪",
@@ -5371,6 +5419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 280411,
+      "num": 280411,
+      "word": "杨紫和工作室互动",
+      "onboard_time": 1680266787,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 280410,
       "num": 266630,
       "word": "吴磊吃四层巨型汉堡",
@@ -5465,6 +5521,14 @@
       "onboard_time": 1680134545,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 277282,
+      "num": 277282,
+      "word": "李沁黑长直上班路透",
+      "onboard_time": 1680267867,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 275738,
@@ -5947,6 +6011,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 253617,
+      "num": 253617,
+      "word": "TES战胜WE",
+      "onboard_time": 1680268470,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 252770,
       "num": 252770,
       "word": "舒淇说南方屋里真的冷",
@@ -6067,14 +6139,6 @@
       "category": "情感,科技"
     },
     {
-      "raw_hot": 242997,
-      "num": 242997,
-      "word": "杨紫和工作室互动",
-      "onboard_time": 1680266787,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 242925,
       "num": 242925,
       "word": "专家回应大熊猫银柯身体情况",
@@ -6121,6 +6185,14 @@
       "onboard_time": 1679882308,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 240442,
+      "num": 240442,
+      "word": "白术",
+      "onboard_time": 1680267386,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 240322,
@@ -6297,6 +6369,14 @@
       "onboard_time": 1679927134,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 228848,
+      "num": 228848,
+      "word": "对美光在华销售产品启动网络安全审查",
+      "onboard_time": 1680268470,
+      "rank": 28,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 228676,
@@ -6859,6 +6939,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 210390,
+      "num": 210390,
+      "word": "朱一龙三月总结plog",
+      "onboard_time": 1680268409,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 209859,
       "num": 209859,
       "word": "刘亦菲肖战张若昀微博品质演员",
@@ -6931,6 +7019,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 207891,
+      "num": 207891,
+      "word": "沙溢周深牵手",
+      "onboard_time": 1680268228,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207598,
       "num": 207598,
       "word": "未来巴中145分钟飙拢成都",
@@ -6945,14 +7041,6 @@
       "onboard_time": 1679929232,
       "rank": 22,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 207432,
-      "num": 207432,
-      "word": "佟丽娅分享迪士尼游玩库存照",
-      "onboard_time": 1680266666,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 207386,
@@ -7105,6 +7193,14 @@
       "onboard_time": 1680054566,
       "rank": 29,
       "category": "科技"
+    },
+    {
+      "raw_hot": 204803,
+      "num": 204803,
+      "word": "暖阳 没事的我脸皮厚",
+      "onboard_time": 1680267988,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 204429,
@@ -7995,6 +8091,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 188063,
+      "num": 188063,
+      "word": "许魏洲打乒乓被小学生认可",
+      "onboard_time": 1680268349,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187941,
       "num": 187941,
       "word": "律师称逆权侵占属于小概率事件",
@@ -8099,6 +8203,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 185508,
+      "num": 185508,
+      "word": "张杰和村民合唱最美的太阳",
+      "onboard_time": 1680268769,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 185505,
       "num": 185505,
       "word": "打工人早上挤地铁有多难",
@@ -8201,6 +8313,14 @@
       "onboard_time": 1680155967,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 183015,
+      "num": 183015,
+      "word": "张嘉倪为角色把舞鞋跳破",
+      "onboard_time": 1680268650,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 182703,
@@ -8995,6 +9115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 160079,
+      "num": 160079,
+      "word": "苏醒为王铮亮新歌打歌",
+      "onboard_time": 1680268769,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 159882,
       "num": 159882,
       "word": "林智妍模仿文东恩为妍珍鼓掌",
@@ -9041,6 +9169,14 @@
       "onboard_time": 1680266606,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 158455,
+      "num": 169300,
+      "word": "电影了不起的夜晚影评",
+      "onboard_time": 1680267507,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 157766,
@@ -11617,6 +11753,14 @@
       "onboard_time": 1680121332,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25643,
+      "num": 395727,
+      "word": "原神 原梦冒险团",
+      "onboard_time": 1680267628,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 12578,
