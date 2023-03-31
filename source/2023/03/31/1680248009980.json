@@ -1,0 +1,410 @@
+{
+  "runTime": 1680248009980,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1315302,
+        "num": 1315302,
+        "word": "不婚族晚年生活是什么样子",
+        "onboard_time": 1680243025,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1120020,
+        "num": 1120020,
+        "word": "任正非发文重申华为不造车",
+        "onboard_time": 1680242306,
+        "rank": 1,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 99247,
+        "num": 1115814,
+        "word": "4月起这些新规将影响你我生活",
+        "onboard_time": 1680233425,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1113339,
+        "num": 1113339,
+        "word": "任泉王京花企业涉非吸案",
+        "onboard_time": 1680246565,
+        "rank": 3,
+        "category": "财经,艺人"
+      },
+      {
+        "raw_hot": 806649,
+        "num": 806649,
+        "word": "BLACKPINK成员solo单曲",
+        "onboard_time": 1680243806,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 631003,
+        "num": 631003,
+        "word": "到底谁占了华人的房子",
+        "onboard_time": 1680241946,
+        "rank": 5,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 574709,
+        "num": 574709,
+        "word": "all eyes on me",
+        "onboard_time": 1680238767,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 544170,
+        "num": 544170,
+        "word": "萌兰",
+        "onboard_time": 1680241826,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 527489,
+        "num": 527489,
+        "word": "刘浩存新片首映礼哭了",
+        "onboard_time": 1680246446,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 525523,
+        "num": 525523,
+        "word": "本科毕业论文抽检都查什么",
+        "onboard_time": 1680232104,
+        "rank": 9,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1141115,
+        "num": 523476,
+        "word": "田曦薇代言",
+        "onboard_time": 1680243324,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 712512,
+        "num": 518842,
+        "word": "豫章书院",
+        "onboard_time": 1680232466,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 499285,
+        "num": 499285,
+        "word": "吴磊在首页亲了一天",
+        "onboard_time": 1680231384,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 493219,
+        "num": 493219,
+        "word": "网友称妹妹被母亲强行送去戒网学校",
+        "onboard_time": 1680245606,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 431762,
+        "num": 431762,
+        "word": "压价",
+        "onboard_time": 1680242905,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 401410,
+        "num": 401410,
+        "word": "井柏然的鞋",
+        "onboard_time": 1680241527,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 393837,
+        "num": 393837,
+        "word": "难听",
+        "onboard_time": 1680237509,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 375639,
+        "num": 375639,
+        "word": "易烊千玺杜莎夫人蜡像馆预告",
+        "onboard_time": 1680242185,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 346174,
+        "num": 346174,
+        "word": "孙茜牵儿子走秀",
+        "onboard_time": 1680246565,
+        "rank": 18,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 271486,
+        "num": 271486,
+        "word": "专家称楼市若不启动经济很难启动",
+        "onboard_time": 1680244645,
+        "rank": 19,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 327658,
+        "num": 266775,
+        "word": "秦岚说感情中要有些小作",
+        "onboard_time": 1680244406,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 259951,
+        "num": 259951,
+        "word": "金智秀solo单曲",
+        "onboard_time": 1680236367,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 244764,
+        "num": 244764,
+        "word": "竹筒奶茶原来是回收筒吗",
+        "onboard_time": 1680234267,
+        "rank": 22,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 232277,
+        "num": 232277,
+        "word": "上海海事大学",
+        "onboard_time": 1680236128,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225869,
+        "num": 225869,
+        "word": "假装自己是一条狗和ChatGPT聊天",
+        "onboard_time": 1680244944,
+        "rank": 24,
+        "category": "情感,科技"
+      },
+      {
+        "raw_hot": 253157,
+        "num": 218100,
+        "word": "玉骨遥梦中的那片海暂定Q2播出",
+        "onboard_time": 1680247345,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 228177,
+        "num": 213690,
+        "word": "迪丽热巴新剧公诉精英改名",
+        "onboard_time": 1680239849,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 208601,
+        "num": 208601,
+        "word": "假如秋瓷炫乘风4淘汰",
+        "onboard_time": 1680235227,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186959,
+        "num": 186959,
+        "word": "旅客自带盒饭用高铁微波炉被拒",
+        "onboard_time": 1680239786,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173432,
+        "num": 181524,
+        "word": "特朗普预计下周自首",
+        "onboard_time": 1680225324,
+        "rank": 29,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 204802,
+        "num": 181343,
+        "word": "黄子韬瘦了好多",
+        "onboard_time": 1680230905,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180447,
+        "num": 180447,
+        "word": "模仿犯",
+        "onboard_time": 1680247227,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 178453,
+        "num": 178453,
+        "word": "广东人快要发霉了",
+        "onboard_time": 1680231447,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 176321,
+        "num": 176321,
+        "word": "胡歌说没想到会和刘亦菲同台",
+        "onboard_time": 1680231447,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 173951,
+        "num": 173951,
+        "word": "离职的快乐是藏不住的",
+        "onboard_time": 1680242785,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 166235,
+        "num": 166235,
+        "word": "大侦探",
+        "onboard_time": 1680246446,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159388,
+        "num": 159388,
+        "word": "范丞丞为戏增肥30斤是自己提的",
+        "onboard_time": 1680241226,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150964,
+        "num": 150964,
+        "word": "师父出山教做鲁菜百万网友追更",
+        "onboard_time": 1680247105,
+        "rank": 37,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 143133,
+        "num": 143133,
+        "word": "你不能说狮子座不行",
+        "onboard_time": 1680246565,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141463,
+        "num": 141463,
+        "word": "带押过户",
+        "onboard_time": 1680246686,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 136989,
+        "num": 136989,
+        "word": "王鹤棣录制桃花坞3",
+        "onboard_time": 1680240866,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135854,
+        "num": 135854,
+        "word": "华晨宇演唱会的宣传片",
+        "onboard_time": 1680246565,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 124324,
+        "num": 124324,
+        "word": "我的告白沉默了俩个寝室",
+        "onboard_time": 1680236008,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122525,
+        "num": 122525,
+        "word": "遥感三十四号04星成功发射",
+        "onboard_time": 1680247465,
+        "rank": 43,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 109073,
+        "num": 109073,
+        "word": "煎饼师傅多少有点强迫症",
+        "onboard_time": 1680247766,
+        "rank": 44,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 104276,
+        "num": 104276,
+        "word": "丧尸来了都得喊大哥",
+        "onboard_time": 1680240506,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 104239,
+        "num": 104239,
+        "word": "牙医口罩下的表情是怎样的",
+        "onboard_time": 1680235349,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 98157,
+        "num": 98157,
+        "word": "张国荣纪念音乐会直播嘉宾公布",
+        "onboard_time": 1680247646,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 97148,
+        "num": 97148,
+        "word": "马斯克或将来中国",
+        "onboard_time": 1680247945,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 96906,
+        "num": 96906,
+        "word": "晨晓夫妇床咚吻花絮",
+        "onboard_time": 1680247945,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#30秒飞阅雄安新区看新颜#"
+    }
+  }
+}
