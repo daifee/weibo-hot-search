@@ -1,6 +1,6 @@
 {
   "startTime": 1680193469065,
-  "endTime": 1680230237827,
+  "endTime": 1680230786128,
   "band_list": [
     {
       "raw_hot": 2726093,
@@ -27,8 +27,8 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 979275,
-      "num": 979275,
+      "raw_hot": 1163373,
+      "num": 1163373,
       "word": "爱情而已这是可以播的吗",
       "onboard_time": 1680227605,
       "rank": 0,
@@ -187,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 462588,
+      "num": 462588,
+      "word": "五月天武汉",
+      "onboard_time": 1680229585,
+      "rank": 11,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 457248,
       "num": 457248,
       "word": "SEVENTEEN将4月24日回归",
@@ -201,6 +209,22 @@
       "onboard_time": 1680226225,
       "rank": 10,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 448367,
+      "num": 448367,
+      "word": "父亲牺牲11年后儿子继承警号",
+      "onboard_time": 1680226886,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 446456,
+      "num": 446456,
+      "word": "吴磊火烈鸟没有白亲",
+      "onboard_time": 1680228985,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 445394,
@@ -219,22 +243,6 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 433083,
-      "num": 433083,
-      "word": "父亲牺牲11年后儿子继承警号",
-      "onboard_time": 1680226886,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 406036,
-      "num": 406036,
-      "word": "吴磊火烈鸟没有白亲",
-      "onboard_time": 1680228985,
-      "rank": 10,
-      "category": "影视"
-    },
-    {
       "raw_hot": 392647,
       "num": 266927,
       "word": "包贝尔女儿近照",
@@ -249,14 +257,6 @@
       "onboard_time": 1680223046,
       "rank": 20,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 382617,
-      "num": 382617,
-      "word": "五月天武汉",
-      "onboard_time": 1680229585,
-      "rank": 11,
-      "category": "音乐"
     },
     {
       "raw_hot": 382097,
@@ -281,6 +281,14 @@
       "onboard_time": 1680209771,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 317679,
+      "num": 317679,
+      "word": "奶爸默默记录丫丫日常",
+      "onboard_time": 1680228565,
+      "rank": 16,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 308117,
@@ -339,12 +347,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 280326,
-      "num": 280326,
-      "word": "奶爸默默记录丫丫日常",
-      "onboard_time": 1680228565,
-      "rank": 16,
-      "category": "社会新闻,幽默"
+      "raw_hot": 278715,
+      "num": 278715,
+      "word": "叶诗文人生能有几个七年",
+      "onboard_time": 1680228624,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 267218,
+      "num": 267218,
+      "word": "大熊猫怎么也会这么八卦",
+      "onboard_time": 1680229166,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 265925,
@@ -353,14 +369,6 @@
       "onboard_time": 1680180689,
       "rank": 13,
       "category": "科技"
-    },
-    {
-      "raw_hot": 259558,
-      "num": 259558,
-      "word": "叶诗文人生能有几个七年",
-      "onboard_time": 1680228624,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 257153,
@@ -377,6 +385,14 @@
       "onboard_time": 1680228204,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 245219,
+      "num": 245219,
+      "word": "车保罗参演杨紫新剧",
+      "onboard_time": 1680230724,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 244901,
@@ -424,14 +440,6 @@
       "word": "带着行李箱办离职",
       "onboard_time": 1680192563,
       "rank": 46,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 226188,
-      "num": 226188,
-      "word": "大熊猫怎么也会这么八卦",
-      "onboard_time": 1680229166,
-      "rank": 23,
       "category": "幽默"
     },
     {
@@ -491,6 +499,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 198706,
+      "num": 198706,
+      "word": "百岁扫地僧去了天堂图书馆",
+      "onboard_time": 1680229884,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 195257,
       "num": 195257,
       "word": "原来全圆佑剧透过seventeen回归",
@@ -537,6 +553,14 @@
       "onboard_time": 1680189510,
       "rank": 27,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 178313,
+      "num": 178313,
+      "word": "减脂餐狗都不吃",
+      "onboard_time": 1680230065,
+      "rank": 47,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 176573,
@@ -755,14 +779,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 115772,
-      "num": 115772,
-      "word": "百岁扫地僧去了天堂图书馆",
-      "onboard_time": 1680229884,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 110735,
       "num": 110735,
       "word": "INTO1泰国演唱会排练记录",
@@ -825,14 +841,6 @@
       "onboard_time": 1680219082,
       "rank": 36,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 97309,
-      "num": 97309,
-      "word": "减脂餐狗都不吃",
-      "onboard_time": 1680230065,
-      "rank": 47,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 95276,

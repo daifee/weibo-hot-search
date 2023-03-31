@@ -1,0 +1,410 @@
+{
+  "runTime": 1680230786128,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1163373,
+        "num": 1163373,
+        "word": "爱情而已这是可以播的吗",
+        "onboard_time": 1680227605,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 658690,
+        "num": 658690,
+        "word": "和导师沟通像跟渣男谈恋爱",
+        "onboard_time": 1680219202,
+        "rank": 1,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 30571,
+        "num": 646473,
+        "word": "这里的春景每一帧都是画报",
+        "onboard_time": 1680184829,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 638466,
+        "num": 638466,
+        "word": "油价",
+        "onboard_time": 1680225807,
+        "rank": 3,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 526918,
+        "num": 526918,
+        "word": "浙江每年抽检本科毕业论文",
+        "onboard_time": 1680224785,
+        "rank": 4,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 2406405,
+        "num": 519526,
+        "word": "特朗普预计下周自首",
+        "onboard_time": 1680225324,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 496585,
+        "num": 496585,
+        "word": "云南巧家县禁止脏车入城",
+        "onboard_time": 1680226164,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 488146,
+        "num": 488146,
+        "word": "金智秀solo出道",
+        "onboard_time": 1680221066,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 462588,
+        "num": 462588,
+        "word": "五月天武汉",
+        "onboard_time": 1680229585,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 448367,
+        "num": 448367,
+        "word": "父亲牺牲11年后儿子继承警号",
+        "onboard_time": 1680226886,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 446456,
+        "num": 446456,
+        "word": "吴磊火烈鸟没有白亲",
+        "onboard_time": 1680228985,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 441402,
+        "num": 441402,
+        "word": "电视剧薄冰定档",
+        "onboard_time": 1680226645,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 333252,
+        "num": 333252,
+        "word": "女子当场抓住猥琐怪癖男并霸气训斥",
+        "onboard_time": 1680223527,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317679,
+        "num": 317679,
+        "word": "奶爸默默记录丫丫日常",
+        "onboard_time": 1680228565,
+        "rank": 13,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 308405,
+        "num": 308405,
+        "word": "哭可以治病",
+        "onboard_time": 1680223587,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 291273,
+        "num": 291273,
+        "word": "两只社恐熊猫恋爱太费劲了",
+        "onboard_time": 1680223285,
+        "rank": 15,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 279286,
+        "num": 279286,
+        "word": "7旬老人超市伸手牵走2岁女童",
+        "onboard_time": 1680220765,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278715,
+        "num": 278715,
+        "word": "叶诗文人生能有几个七年",
+        "onboard_time": 1680228624,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 267218,
+        "num": 267218,
+        "word": "大熊猫怎么也会这么八卦",
+        "onboard_time": 1680229166,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 245219,
+        "num": 245219,
+        "word": "车保罗参演杨紫新剧",
+        "onboard_time": 1680230724,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 244807,
+        "num": 244807,
+        "word": "陈卓璇告别声生不息",
+        "onboard_time": 1680225204,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240613,
+        "num": 240613,
+        "word": "杨超越白色花苞裙",
+        "onboard_time": 1680225567,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 234437,
+        "num": 234437,
+        "word": "肖战视频BGM被原唱夸",
+        "onboard_time": 1680223046,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 227785,
+        "num": 227785,
+        "word": "短道速滑冠军赛今日开战",
+        "onboard_time": 1680228204,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209674,
+        "num": 209674,
+        "word": "斗罗大陆泰国播出预告",
+        "onboard_time": 1680228805,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 198706,
+        "num": 198706,
+        "word": "百岁扫地僧去了天堂图书馆",
+        "onboard_time": 1680229884,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192719,
+        "num": 192719,
+        "word": "路人福建偶遇毛晓彤",
+        "onboard_time": 1680226704,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188238,
+        "num": 188238,
+        "word": "代号鸢",
+        "onboard_time": 1680218240,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 185066,
+        "num": 185066,
+        "word": "部分省考年龄放宽至40岁",
+        "onboard_time": 1680220282,
+        "rank": 28,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 184207,
+        "num": 184207,
+        "word": "德云社节目单",
+        "onboard_time": 1680227004,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178749,
+        "num": 178749,
+        "word": "林更新说和赵丽颖二搭更默契了",
+        "onboard_time": 1680193762,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 178313,
+        "num": 178313,
+        "word": "减脂餐狗都不吃",
+        "onboard_time": 1680230065,
+        "rank": 31,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 165674,
+        "num": 165674,
+        "word": "朱洁静上海迪士尼现场热舞",
+        "onboard_time": 1680221488,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164840,
+        "num": 164840,
+        "word": "孙千粉色旗袍",
+        "onboard_time": 1680219082,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 161663,
+        "num": 161663,
+        "word": "战士牺牲在我家就得当自家人对待",
+        "onboard_time": 1680227066,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147080,
+        "num": 147080,
+        "word": "新版出生医学证明4月起启用",
+        "onboard_time": 1680225385,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367552,
+        "num": 146938,
+        "word": "特朗普发声明回应被起诉",
+        "onboard_time": 1680226225,
+        "rank": 36,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 145998,
+        "num": 145998,
+        "word": "这歌是沈腾唱的吗",
+        "onboard_time": 1680227665,
+        "rank": 37,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 141402,
+        "num": 141402,
+        "word": "官方通报林场主求水事件",
+        "onboard_time": 1680189268,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137297,
+        "num": 137297,
+        "word": "李一桐挂脖黑裙",
+        "onboard_time": 1680225567,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 104814,
+        "num": 104814,
+        "word": "原来全圆佑剧透过seventeen回归",
+        "onboard_time": 1680225385,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103381,
+        "num": 103381,
+        "word": "当代年轻人特种兵式旅游",
+        "onboard_time": 1680220884,
+        "rank": 41,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 101473,
+        "num": 101473,
+        "word": "这熊猫介绍真是没瞎写",
+        "onboard_time": 1680190886,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 101429,
+        "num": 101429,
+        "word": "带着行李箱办离职",
+        "onboard_time": 1680192563,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95533,
+        "num": 95533,
+        "word": "宋三川假笑",
+        "onboard_time": 1680229524,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 93040,
+        "num": 93040,
+        "word": "周杰伦2023海口演唱会加场",
+        "onboard_time": 1680219561,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 92502,
+        "num": 92502,
+        "word": "谢娜问粉丝我生图很厉害吧",
+        "onboard_time": 1680182068,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 87783,
+        "num": 87783,
+        "word": "蛋仔派对",
+        "onboard_time": 1680218539,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 80143,
+        "num": 80143,
+        "word": "蛋仔派对皮蛋节",
+        "onboard_time": 1680228925,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 79518,
+        "num": 79518,
+        "word": "千万不要在泰山顶上这样拍照",
+        "onboard_time": 1680185188,
+        "rank": 49,
+        "category": "幽默,旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#有能力有条件的民营企业要加强自主创新#"
+    }
+  }
+}
