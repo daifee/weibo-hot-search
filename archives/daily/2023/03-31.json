@@ -1,6 +1,6 @@
 {
   "startTime": 1680193469065,
-  "endTime": 1680254247112,
+  "endTime": 1680255227729,
   "band_list": [
     {
       "raw_hot": 2726093,
@@ -35,6 +35,14 @@
       "category": "财经,艺人"
     },
     {
+      "raw_hot": 2136700,
+      "num": 2136700,
+      "word": "叶一茜说森蝶觉得弟弟是最有心机的人",
+      "onboard_time": 1680251306,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 2131342,
       "num": 946655,
       "word": "难听",
@@ -51,20 +59,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1863608,
-      "num": 1863608,
-      "word": "叶一茜说森蝶觉得弟弟是最有心机的人",
-      "onboard_time": 1680251306,
-      "rank": 19,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 1836886,
       "num": 1836886,
       "word": "和导师沟通像跟渣男谈恋爱",
       "onboard_time": 1680219202,
       "rank": 47,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 1344622,
+      "num": 1344622,
+      "word": "短指症",
+      "onboard_time": 1680252745,
+      "rank": 5,
+      "category": "其它"
     },
     {
       "raw_hot": 1315302,
@@ -140,7 +148,7 @@
     },
     {
       "raw_hot": 1038738,
-      "num": 449657,
+      "num": 456581,
       "word": "易烊千玺给网站续约",
       "onboard_time": 1680249206,
       "rank": 10,
@@ -160,6 +168,14 @@
       "word": "本科毕业论文抽检都查什么",
       "onboard_time": 1680232104,
       "rank": 39,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 927077,
+      "num": 927077,
+      "word": "近九成学生认为毕业论文有难度",
+      "onboard_time": 1680250043,
+      "rank": 33,
       "category": "教育,社会新闻"
     },
     {
@@ -251,14 +267,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 775683,
-      "num": 775683,
-      "word": "近九成学生认为毕业论文有难度",
-      "onboard_time": 1680250043,
-      "rank": 33,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 758015,
       "num": 267573,
       "word": "上海大爷挤地铁骂女子是乡下猪",
@@ -347,14 +355,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 657401,
-      "num": 657401,
-      "word": "短指症",
-      "onboard_time": 1680252745,
-      "rank": 5,
-      "category": "其它"
-    },
-    {
       "raw_hot": 650546,
       "num": 650546,
       "word": "车保罗参演杨紫新剧",
@@ -401,6 +401,14 @@
       "onboard_time": 1680248363,
       "rank": 5,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 545971,
+      "num": 545971,
+      "word": "陈卓璇说华晨宇把高光部分都给了他们",
+      "onboard_time": 1680252085,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 542027,
@@ -483,8 +491,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 462074,
-      "num": 462074,
+      "raw_hot": 462943,
+      "num": 462943,
       "word": "泡泡玛特 阴阳师",
       "onboard_time": 1680252208,
       "rank": 7,
@@ -505,6 +513,22 @@
       "onboard_time": 1680231805,
       "rank": 22,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 456772,
+      "num": 456772,
+      "word": "萌兰 发箍奶爸",
+      "onboard_time": 1680252564,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 456362,
+      "num": 456362,
+      "word": "周雨彤吴磊VS周雨彤侯明昊",
+      "onboard_time": 1680255085,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 452383,
@@ -561,6 +585,14 @@
       "onboard_time": 1680246565,
       "rank": 32,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 418129,
+      "num": 418129,
+      "word": "华为2022年净利润356亿",
+      "onboard_time": 1680254124,
+      "rank": 36,
+      "category": "科技"
     },
     {
       "raw_hot": 417129,
@@ -651,6 +683,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 365229,
+      "num": 282133,
+      "word": "邓超请100位朋友看范丞丞新电影",
+      "onboard_time": 1680251545,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 364795,
       "num": 364795,
       "word": "减脂餐狗都不吃",
@@ -659,20 +699,12 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 354311,
-      "num": 354311,
-      "word": "陈卓璇说华晨宇把高光部分都给了他们",
-      "onboard_time": 1680252085,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 351715,
-      "num": 282133,
-      "word": "邓超请100位朋友看范丞丞新电影",
-      "onboard_time": 1680251545,
-      "rank": 26,
-      "category": "影视"
+      "raw_hot": 361353,
+      "num": 361353,
+      "word": "假性不婚族8个特征",
+      "onboard_time": 1680252986,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 351352,
@@ -689,14 +721,6 @@
       "onboard_time": 1680229884,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 341994,
-      "num": 341994,
-      "word": "萌兰 发箍奶爸",
-      "onboard_time": 1680252564,
-      "rank": 15,
-      "category": "幽默"
     },
     {
       "raw_hot": 336116,
@@ -923,6 +947,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 260856,
+      "num": 260856,
+      "word": "12306官方详解免费坐高铁",
+      "onboard_time": 1680254006,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 259175,
       "num": 259175,
       "word": "陈星旭27岁实绩图",
@@ -1043,12 +1075,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 220836,
-      "num": 220836,
-      "word": "假性不婚族8个特征",
-      "onboard_time": 1680252986,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 218164,
+      "num": 218164,
+      "word": "国产电视剧编剧的脑袋里在想什么",
+      "onboard_time": 1680253824,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 214500,
@@ -1203,6 +1235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 191052,
+      "num": 191052,
+      "word": "无名",
+      "onboard_time": 1680252686,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 190530,
       "num": 203243,
       "word": "当你工作累了准备午休时",
@@ -1267,6 +1307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184869,
+      "num": 184869,
+      "word": "从头看她",
+      "onboard_time": 1680255025,
+      "rank": 33,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 182703,
       "num": 182703,
       "word": "苏醒说Beyond就是经典",
@@ -1305,14 +1353,6 @@
       "onboard_time": 1680233788,
       "rank": 33,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 180148,
-      "num": 180148,
-      "word": "无名",
-      "onboard_time": 1680252686,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 180022,
@@ -1385,14 +1425,6 @@
       "onboard_time": 1680242785,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 173214,
-      "num": 173214,
-      "word": "华为2022年净利润356亿",
-      "onboard_time": 1680254124,
-      "rank": 36,
-      "category": "科技"
     },
     {
       "raw_hot": 173123,
@@ -1497,14 +1529,6 @@
       "onboard_time": 1680222571,
       "rank": 32,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 158394,
-      "num": 158394,
-      "word": "国产电视剧编剧的脑袋里在想什么",
-      "onboard_time": 1680253824,
-      "rank": 37,
-      "category": "影视"
     },
     {
       "raw_hot": 157056,
@@ -1747,11 +1771,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 125568,
+      "num": 125568,
+      "word": "蔡卓妍打卡林俊杰演唱会vlog",
+      "onboard_time": 1680252505,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 125368,
       "num": 125368,
       "word": "猫夺走了新郎的风头",
       "onboard_time": 1680182729,
       "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 125295,
+      "num": 125295,
+      "word": "猫咪坠入爱河是什么样的",
+      "onboard_time": 1680252686,
+      "rank": 49,
       "category": "幽默"
     },
     {
@@ -1771,28 +1811,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 123037,
-      "num": 123037,
-      "word": "蔡卓妍打卡林俊杰演唱会vlog",
-      "onboard_time": 1680252505,
-      "rank": 43,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 122525,
       "num": 122525,
       "word": "遥感三十四号04星成功发射",
       "onboard_time": 1680247465,
       "rank": 43,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 121467,
-      "num": 121467,
-      "word": "12306官方详解免费坐高铁",
-      "onboard_time": 1680254006,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 120373,
@@ -1825,14 +1849,6 @@
       "onboard_time": 1680254006,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 112874,
-      "num": 112874,
-      "word": "猫咪坠入爱河是什么样的",
-      "onboard_time": 1680252686,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 112685,
@@ -2036,7 +2052,7 @@
     },
     {
       "raw_hot": 70823,
-      "num": 835413,
+      "num": 1345686,
       "word": "带你共享花开烂漫时",
       "onboard_time": 1680248546,
       "rank": 2,

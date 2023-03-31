@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1680254247112,
+  "endTime": 1680255227729,
   "band_list": [
     {
       "raw_hot": 27113842,
@@ -1571,6 +1571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2136700,
+      "num": 2136700,
+      "word": "叶一茜说森蝶觉得弟弟是最有心机的人",
+      "onboard_time": 1680251306,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 2131342,
       "num": 1242396,
       "word": "难听",
@@ -2073,14 +2081,6 @@
       "onboard_time": 1678442132,
       "rank": 10,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 1863608,
-      "num": 1863608,
-      "word": "叶一茜说森蝶觉得弟弟是最有心机的人",
-      "onboard_time": 1680251306,
-      "rank": 19,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1862826,
@@ -4425,6 +4425,14 @@
       "onboard_time": 1678332087,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1344622,
+      "num": 1344622,
+      "word": "短指症",
+      "onboard_time": 1680252745,
+      "rank": 5,
+      "category": "其它"
     },
     {
       "raw_hot": 1340812,
@@ -6980,7 +6988,7 @@
     },
     {
       "raw_hot": 1038738,
-      "num": 449657,
+      "num": 456581,
       "word": "易烊千玺给网站续约",
       "onboard_time": 1680249206,
       "rank": 10,
@@ -8345,6 +8353,14 @@
       "onboard_time": 1679374712,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 927077,
+      "num": 927077,
+      "word": "近九成学生认为毕业论文有难度",
+      "onboard_time": 1680250043,
+      "rank": 33,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 926912,
@@ -11075,14 +11091,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 775683,
-      "num": 775683,
-      "word": "近九成学生认为毕业论文有难度",
-      "onboard_time": 1680250043,
-      "rank": 33,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 774949,
       "num": 774949,
       "word": "三亚榴莲6月将大规模上市",
@@ -13769,14 +13777,6 @@
       "onboard_time": 1678977692,
       "rank": 3,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 657401,
-      "num": 657401,
-      "word": "短指症",
-      "onboard_time": 1680252745,
-      "rank": 5,
-      "category": "其它"
     },
     {
       "raw_hot": 656877,
@@ -17683,6 +17683,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 545971,
+      "num": 545971,
+      "word": "陈卓璇说华晨宇把高光部分都给了他们",
+      "onboard_time": 1680252085,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 545797,
       "num": 203899,
       "word": "毛晓彤王子异居家风剧照",
@@ -21339,6 +21347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 462943,
+      "num": 462943,
+      "word": "泡泡玛特 阴阳师",
+      "onboard_time": 1680252208,
+      "rank": 7,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 462479,
       "num": 247912,
       "word": "南京地铁回应乘客因手机外放收罚单",
@@ -21369,14 +21385,6 @@
       "onboard_time": 1678613244,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 462074,
-      "num": 462074,
-      "word": "泡泡玛特 阴阳师",
-      "onboard_time": 1680252208,
-      "rank": 7,
-      "category": "游戏"
     },
     {
       "raw_hot": 461888,
@@ -21667,6 +21675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 456772,
+      "num": 456772,
+      "word": "萌兰 发箍奶爸",
+      "onboard_time": 1680252564,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 456743,
       "num": 456743,
       "word": "浙江女子追到广州找到被偷的爱猫",
@@ -21697,6 +21713,14 @@
       "onboard_time": 1678719568,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 456362,
+      "num": 456362,
+      "word": "周雨彤吴磊VS周雨彤侯明昊",
+      "onboard_time": 1680255085,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 456355,
@@ -23609,6 +23633,14 @@
       "onboard_time": 1679624485,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 418129,
+      "num": 418129,
+      "word": "华为2022年净利润356亿",
+      "onboard_time": 1680254124,
+      "rank": 36,
+      "category": "科技"
     },
     {
       "raw_hot": 417983,
@@ -26635,6 +26667,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 365229,
+      "num": 282133,
+      "word": "邓超请100位朋友看范丞丞新电影",
+      "onboard_time": 1680251545,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 364844,
       "num": 164702,
       "word": "薛凯琪周柯宇吻戏",
@@ -26921,6 +26961,14 @@
       "onboard_time": 1679753642,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 361353,
+      "num": 361353,
+      "word": "假性不婚族8个特征",
+      "onboard_time": 1680252986,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 361261,
@@ -27379,14 +27427,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 354311,
-      "num": 354311,
-      "word": "陈卓璇说华晨宇把高光部分都给了他们",
-      "onboard_time": 1680252085,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 354310,
       "num": 339192,
       "word": "声生不息宝岛季下期有于文文",
@@ -27641,14 +27681,6 @@
       "onboard_time": 1677840211,
       "rank": 8,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 351715,
-      "num": 282133,
-      "word": "邓超请100位朋友看范丞丞新电影",
-      "onboard_time": 1680251545,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 351661,
@@ -28417,14 +28449,6 @@
       "onboard_time": 1677937947,
       "rank": 21,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 341994,
-      "num": 341994,
-      "word": "萌兰 发箍奶爸",
-      "onboard_time": 1680252564,
-      "rank": 15,
-      "category": "幽默"
     },
     {
       "raw_hot": 341778,
@@ -35043,6 +35067,14 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 260856,
+      "num": 260856,
+      "word": "12306官方详解免费坐高铁",
+      "onboard_time": 1680254006,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 260788,
       "num": 260788,
       "word": "蔡徐坤走路好男模",
@@ -39483,14 +39515,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 220836,
-      "num": 220836,
-      "word": "假性不婚族8个特征",
-      "onboard_time": 1680252986,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 220797,
       "num": 220797,
       "word": "BoysPlanet新闻发布会",
@@ -39865,6 +39889,14 @@
       "onboard_time": 1680167246,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 218164,
+      "num": 218164,
+      "word": "国产电视剧编剧的脑袋里在想什么",
+      "onboard_time": 1680253824,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 218054,
@@ -45971,6 +46003,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 191052,
+      "num": 191052,
+      "word": "无名",
+      "onboard_time": 1680252686,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 190998,
       "num": 190998,
       "word": "九尾KPL登场四周年",
@@ -47347,6 +47387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 184869,
+      "num": 184869,
+      "word": "从头看她",
+      "onboard_time": 1680255025,
+      "rank": 33,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 184810,
       "num": 172357,
       "word": "今天春分送花花",
@@ -48040,14 +48088,6 @@
       "word": "归路定档",
       "onboard_time": 1678505910,
       "rank": 27,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 180148,
-      "num": 180148,
-      "word": "无名",
-      "onboard_time": 1680252686,
-      "rank": 35,
       "category": "影视"
     },
     {
@@ -49105,14 +49145,6 @@
       "onboard_time": 1679066190,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 173214,
-      "num": 173214,
-      "word": "华为2022年净利润356亿",
-      "onboard_time": 1680254124,
-      "rank": 36,
-      "category": "科技"
     },
     {
       "raw_hot": 173209,
@@ -51497,14 +51529,6 @@
       "onboard_time": 1677804089,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 158394,
-      "num": 158394,
-      "word": "国产电视剧编剧的脑袋里在想什么",
-      "onboard_time": 1680253824,
-      "rank": 37,
-      "category": "影视"
     },
     {
       "raw_hot": 158367,
@@ -56931,6 +56955,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 125568,
+      "num": 125568,
+      "word": "蔡卓妍打卡林俊杰演唱会vlog",
+      "onboard_time": 1680252505,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 125493,
       "num": 125493,
       "word": "白敬亭卡点视频",
@@ -56953,6 +56985,14 @@
       "onboard_time": 1679399787,
       "rank": 46,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 125295,
+      "num": 125295,
+      "word": "猫咪坠入爱河是什么样的",
+      "onboard_time": 1680252686,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 125261,
@@ -57283,14 +57323,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 123037,
-      "num": 123037,
-      "word": "蔡卓妍打卡林俊杰演唱会vlog",
-      "onboard_time": 1680252505,
-      "rank": 43,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 123028,
       "num": 123028,
       "word": "范丞丞白衬衫花絮照",
@@ -57528,14 +57560,6 @@
       "word": "沙漠种树有多难",
       "onboard_time": 1680153748,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 121467,
-      "num": 121467,
-      "word": "12306官方详解免费坐高铁",
-      "onboard_time": 1680254006,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -58673,14 +58697,6 @@
       "onboard_time": 1680135807,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 112874,
-      "num": 112874,
-      "word": "猫咪坠入爱河是什么样的",
-      "onboard_time": 1680252686,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 112847,
@@ -62356,7 +62372,7 @@
     },
     {
       "raw_hot": 70823,
-      "num": 835413,
+      "num": 1345686,
       "word": "带你共享花开烂漫时",
       "onboard_time": 1680248546,
       "rank": 2,
