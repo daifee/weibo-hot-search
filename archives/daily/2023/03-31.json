@@ -1,6 +1,6 @@
 {
   "startTime": 1680193469065,
-  "endTime": 1680232722284,
+  "endTime": 1680233613940,
   "band_list": [
     {
       "raw_hot": 2726093,
@@ -27,6 +27,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 1325558,
+      "num": 1325558,
+      "word": "豫章书院",
+      "onboard_time": 1680232466,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1251672,
       "num": 1251672,
       "word": "爱情而已这是可以播的吗",
@@ -36,7 +44,7 @@
     },
     {
       "raw_hot": 1131647,
-      "num": 639801,
+      "num": 1016899,
       "word": "黄子韬瘦了好多",
       "onboard_time": 1680230905,
       "rank": 3,
@@ -44,10 +52,18 @@
     },
     {
       "raw_hot": 1049773,
-      "num": 631426,
+      "num": 1036733,
       "word": "吴磊在首页亲了一天",
       "onboard_time": 1680231384,
       "rank": 4,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 980137,
+      "num": 980137,
+      "word": "胡歌说没想到会和刘亦菲同台",
+      "onboard_time": 1680231447,
+      "rank": 6,
       "category": "影视"
     },
     {
@@ -179,14 +195,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 619883,
-      "num": 619883,
-      "word": "胡歌说没想到会和刘亦菲同台",
-      "onboard_time": 1680231447,
-      "rank": 6,
-      "category": "影视"
-    },
-    {
       "raw_hot": 604013,
       "num": 482884,
       "word": "特朗普确认被起诉",
@@ -227,7 +235,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 457320,
+      "raw_hot": 479797,
       "num": 386413,
       "word": "宁艺卓Giselle吐嘈ae形象",
       "onboard_time": 1680231805,
@@ -241,6 +249,14 @@
       "onboard_time": 1680189870,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 457105,
+      "num": 363521,
+      "word": "柯南贝克街的亡灵台词",
+      "onboard_time": 1680231805,
+      "rank": 22,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 452383,
@@ -283,6 +299,22 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 440800,
+      "num": 440800,
+      "word": "广东人快要发霉了",
+      "onboard_time": 1680231447,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 439844,
+      "num": 347436,
+      "word": "本科毕业论文抽检都查什么",
+      "onboard_time": 1680232104,
+      "rank": 39,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 392647,
       "num": 266927,
       "word": "包贝尔女儿近照",
@@ -307,8 +339,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 377376,
-      "num": 377376,
+      "raw_hot": 381496,
+      "num": 381496,
       "word": "奶爸默默记录丫丫日常",
       "onboard_time": 1680228565,
       "rank": 16,
@@ -323,8 +355,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 337747,
-      "num": 337747,
+      "raw_hot": 345676,
+      "num": 345676,
       "word": "减脂餐狗都不吃",
       "onboard_time": 1680230065,
       "rank": 47,
@@ -361,14 +393,6 @@
       "onboard_time": 1680219082,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 303923,
-      "num": 303923,
-      "word": "广东人快要发霉了",
-      "onboard_time": 1680231447,
-      "rank": 18,
-      "category": "幽默"
     },
     {
       "raw_hot": 297224,
@@ -411,6 +435,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 281166,
+      "num": 281166,
+      "word": "来自中国战机的压迫感",
+      "onboard_time": 1680230843,
+      "rank": 21,
+      "category": "军事"
+    },
+    {
       "raw_hot": 280025,
       "num": 280025,
       "word": "短道速滑冠军赛今日开战",
@@ -435,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 269513,
+      "num": 269513,
+      "word": "张新成孙千这么多年侧脸海报",
+      "onboard_time": 1680232286,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 267218,
       "num": 267218,
       "word": "大熊猫怎么也会这么八卦",
@@ -451,28 +491,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 264754,
-      "num": 264754,
-      "word": "来自中国战机的压迫感",
-      "onboard_time": 1680230843,
-      "rank": 21,
-      "category": "军事"
-    },
-    {
       "raw_hot": 257153,
       "num": 257153,
       "word": "谢娜问粉丝我生图很厉害吧",
       "onboard_time": 1680182068,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 245790,
-      "num": 245790,
-      "word": "柯南贝克街的亡灵台词",
-      "onboard_time": 1680231805,
-      "rank": 22,
-      "category": "影视,动漫"
     },
     {
       "raw_hot": 244901,
@@ -497,6 +521,14 @@
       "onboard_time": 1680170189,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 237126,
+      "num": 237126,
+      "word": "特斯拉啤酒售价89欧元",
+      "onboard_time": 1680231384,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 230233,
@@ -531,14 +563,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 214993,
-      "num": 214993,
-      "word": "张新成孙千这么多年侧脸海报",
-      "onboard_time": 1680232286,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 210416,
       "num": 210416,
       "word": "袁冰妍",
@@ -555,20 +579,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 208998,
+      "num": 208998,
+      "word": "蔚蓝档案",
+      "onboard_time": 1680232850,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 208871,
       "num": 208871,
       "word": "3月最后一天",
       "onboard_time": 1680218059,
       "rank": 16,
       "category": "情感"
-    },
-    {
-      "raw_hot": 207948,
-      "num": 207948,
-      "word": "豫章书院",
-      "onboard_time": 1680232466,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 206686,
@@ -579,19 +603,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 206528,
+      "num": 206528,
+      "word": "陈星旭27岁实绩图",
+      "onboard_time": 1680232407,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200234,
       "num": 199258,
       "word": "佟大为晒早餐关悦给6.9分",
       "onboard_time": 1680231805,
       "rank": 31,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 199468,
-      "num": 199468,
-      "word": "陈星旭27岁实绩图",
-      "onboard_time": 1680232407,
-      "rank": 30,
       "category": "艺人"
     },
     {
@@ -611,6 +635,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 197858,
+      "num": 197858,
+      "word": "任嘉伦呼吁守护孤独症孩子",
+      "onboard_time": 1680232707,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195257,
       "num": 195257,
       "word": "原来全圆佑剧透过seventeen回归",
@@ -619,12 +651,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 190747,
-      "num": 190747,
-      "word": "特斯拉啤酒售价89欧元",
-      "onboard_time": 1680231384,
-      "rank": 34,
-      "category": "财经"
+      "raw_hot": 191799,
+      "num": 191799,
+      "word": "苍兰诀将在日本播出",
+      "onboard_time": 1680232526,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 189143,
@@ -691,14 +723,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 173960,
-      "num": 173960,
-      "word": "任嘉伦呼吁守护孤独症孩子",
-      "onboard_time": 1680232707,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 171404,
       "num": 171404,
       "word": "巧珍哭着跟高加林分手",
@@ -747,20 +771,28 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 161419,
+      "num": 161419,
+      "word": "陈伟霆火中打戏好燃",
+      "onboard_time": 1680233127,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 160158,
+      "num": 160158,
+      "word": "豫章书院前学员发声",
+      "onboard_time": 1680233246,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159371,
       "num": 159371,
       "word": "检察官将要求特朗普出庭",
       "onboard_time": 1680222571,
       "rank": 32,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 159226,
-      "num": 159226,
-      "word": "本科毕业论文抽检都查什么",
-      "onboard_time": 1680232104,
-      "rank": 39,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 157056,
@@ -779,20 +811,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 149986,
+      "num": 149986,
+      "word": "梁友安和顾佳在平行世界是好朋友",
+      "onboard_time": 1680232850,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 148168,
       "num": 148168,
       "word": "张学友演唱会",
       "onboard_time": 1680186329,
       "rank": 28,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 145712,
-      "num": 145712,
-      "word": "苍兰诀将在日本播出",
-      "onboard_time": 1680232526,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 145378,
@@ -873,6 +905,14 @@
       "onboard_time": 1680186750,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 131459,
+      "num": 131459,
+      "word": "保你平安密室又吓人又好笑",
+      "onboard_time": 1680232407,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 128755,
@@ -1081,6 +1121,14 @@
       "onboard_time": 1680188130,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 60818,
+      "num": 1042154,
+      "word": "4月起这些新规将影响你我生活",
+      "onboard_time": 1680233425,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 60622,
