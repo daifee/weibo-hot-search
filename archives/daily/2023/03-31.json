@@ -1,6 +1,6 @@
 {
   "startTime": 1680193469065,
-  "endTime": 1680243772903,
+  "endTime": 1680244594609,
   "band_list": [
     {
       "raw_hot": 2726093,
@@ -115,6 +115,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 933433,
+      "num": 933433,
+      "word": "任正非发文重申华为不造车",
+      "onboard_time": 1680242306,
+      "rank": 6,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 910171,
       "num": 910171,
       "word": "电视剧薄冰定档",
@@ -211,6 +219,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 705711,
+      "num": 478182,
+      "word": "到底谁占了华人的房子",
+      "onboard_time": 1680241946,
+      "rank": 12,
+      "category": "其它"
+    },
+    {
       "raw_hot": 693074,
       "num": 693074,
       "word": "部分省考年龄放宽至40岁",
@@ -267,6 +283,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 646548,
+      "num": 432548,
+      "word": "田曦薇代言",
+      "onboard_time": 1680243324,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 620225,
       "num": 620225,
       "word": "女子当场抓住猥琐怪癖男并霸气训斥",
@@ -281,14 +305,6 @@
       "onboard_time": 1680219322,
       "rank": 10,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 564483,
-      "num": 564483,
-      "word": "任正非发文重申华为不造车",
-      "onboard_time": 1680242306,
-      "rank": 6,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 563721,
@@ -339,12 +355,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 478182,
-      "num": 478182,
-      "word": "到底谁占了华人的房子",
-      "onboard_time": 1680241946,
-      "rank": 12,
-      "category": "其它"
+      "raw_hot": 477919,
+      "num": 432539,
+      "word": "井柏然的鞋",
+      "onboard_time": 1680241527,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 469812,
+      "num": 432486,
+      "word": "易烊千玺杜莎夫人蜡像馆预告",
+      "onboard_time": 1680242185,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 457248,
@@ -403,20 +427,20 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 432483,
+      "num": 432483,
+      "word": "压价",
+      "onboard_time": 1680242905,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 417129,
       "num": 417129,
       "word": "牙医口罩下的表情是怎样的",
       "onboard_time": 1680235349,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 412366,
-      "num": 412366,
-      "word": "井柏然的鞋",
-      "onboard_time": 1680241527,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 392647,
@@ -467,6 +491,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 370841,
+      "num": 370841,
+      "word": "萌兰",
+      "onboard_time": 1680241826,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 364795,
       "num": 364795,
       "word": "减脂餐狗都不吃",
@@ -475,12 +507,12 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 360766,
-      "num": 360766,
-      "word": "易烊千玺杜莎夫人蜡像馆预告",
-      "onboard_time": 1680242185,
-      "rank": 15,
-      "category": "艺人"
+      "raw_hot": 351352,
+      "num": 351352,
+      "word": "旅客自带盒饭用高铁微波炉被拒",
+      "onboard_time": 1680239786,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 350888,
@@ -491,12 +523,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 349234,
-      "num": 349234,
-      "word": "旅客自带盒饭用高铁微波炉被拒",
-      "onboard_time": 1680239786,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 345699,
+      "num": 345699,
+      "word": "不婚族晚年生活是什么样子",
+      "onboard_time": 1680243025,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 336116,
@@ -505,6 +537,14 @@
       "onboard_time": 1680231805,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 332791,
+      "num": 332791,
+      "word": "BLACKPINK成员solo单曲",
+      "onboard_time": 1680243806,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 321791,
@@ -603,14 +643,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 281201,
-      "num": 244432,
-      "word": "田曦薇代言",
-      "onboard_time": 1680243324,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 281166,
       "num": 281166,
       "word": "来自中国战机的压迫感",
@@ -691,14 +723,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 263040,
-      "num": 263040,
-      "word": "萌兰",
-      "onboard_time": 1680241826,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 259175,
       "num": 259175,
       "word": "陈星旭27岁实绩图",
@@ -724,7 +748,7 @@
     },
     {
       "raw_hot": 247039,
-      "num": 247039,
+      "num": 268873,
       "word": "每个月都会收到男友送的玩偶",
       "onboard_time": 1680239128,
       "rank": 33,
@@ -899,14 +923,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 190597,
-      "num": 190597,
-      "word": "压价",
-      "onboard_time": 1680242905,
-      "rank": 30,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 190530,
       "num": 203243,
       "word": "当你工作累了准备午休时",
@@ -1003,6 +1019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176176,
+      "num": 176176,
+      "word": "长歌行播出两周年了",
+      "onboard_time": 1680243563,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 175840,
       "num": 170131,
       "word": "长沙草莓音乐节定档",
@@ -1035,12 +1059,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 172427,
-      "num": 172427,
-      "word": "不婚族晚年生活是什么样子",
-      "onboard_time": 1680243025,
-      "rank": 32,
-      "category": "情感"
+      "raw_hot": 173123,
+      "num": 173123,
+      "word": "情侣间令人窒息的控制欲",
+      "onboard_time": 1680243925,
+      "rank": 33,
+      "category": "综艺,情感"
     },
     {
       "raw_hot": 171404,
@@ -1243,6 +1267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 137255,
+      "num": 137255,
+      "word": "秦岚说感情中要有些小作",
+      "onboard_time": 1680244406,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 136807,
       "num": 136807,
       "word": "YG新女团最新翻唱舞台",
@@ -1339,14 +1371,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 126034,
-      "num": 112141,
-      "word": "长歌行播出两周年了",
-      "onboard_time": 1680243563,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 125368,
       "num": 125368,
       "word": "猫夺走了新郎的风头",
@@ -1356,7 +1380,7 @@
     },
     {
       "raw_hot": 124777,
-      "num": 111865,
+      "num": 123455,
       "word": "张杰未live巡回演唱会",
       "onboard_time": 1680240808,
       "rank": 41,
@@ -1404,7 +1428,7 @@
     },
     {
       "raw_hot": 111238,
-      "num": 111238,
+      "num": 113574,
       "word": "伴侣之间应如何沟通交流",
       "onboard_time": 1680241764,
       "rank": 43,
@@ -1417,6 +1441,14 @@
       "onboard_time": 1680226645,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 107557,
+      "num": 107557,
+      "word": "了不起舞社第二季官宣",
+      "onboard_time": 1680244586,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 106279,
@@ -1499,8 +1531,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 87250,
-      "num": 94465,
+      "raw_hot": 93495,
+      "num": 104398,
       "word": "离职的快乐是藏不住的",
       "onboard_time": 1680242785,
       "rank": 49,

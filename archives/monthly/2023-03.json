@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1680243772903,
+  "endTime": 1680244594609,
   "band_list": [
     {
       "raw_hot": 27113842,
@@ -8227,6 +8227,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 933433,
+      "num": 933433,
+      "word": "任正非发文重申华为不造车",
+      "onboard_time": 1680242306,
+      "rank": 6,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 932644,
       "num": 932644,
       "word": "赛琳娜现身霉霉演唱会",
@@ -12523,6 +12531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 705711,
+      "num": 478182,
+      "word": "到底谁占了华人的房子",
+      "onboard_time": 1680241946,
+      "rank": 12,
+      "category": "其它"
+    },
+    {
       "raw_hot": 705434,
       "num": 705434,
       "word": "张译录制清华大学问候视频",
@@ -14057,6 +14073,14 @@
       "onboard_time": 1677680551,
       "rank": 8,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 646548,
+      "num": 432548,
+      "word": "田曦薇代言",
+      "onboard_time": 1680243324,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 646211,
@@ -16793,14 +16817,6 @@
       "onboard_time": 1679836587,
       "rank": 15,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 564483,
-      "num": 564483,
-      "word": "任正非发文重申华为不造车",
-      "onboard_time": 1680242306,
-      "rank": 6,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 563823,
@@ -20475,20 +20491,20 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 478182,
-      "num": 478182,
-      "word": "到底谁占了华人的房子",
-      "onboard_time": 1680241946,
-      "rank": 12,
-      "category": "其它"
-    },
-    {
       "raw_hot": 478041,
       "num": 478041,
       "word": "霸王别姬韩国再次重映",
       "onboard_time": 1678981529,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 477919,
+      "num": 432539,
+      "word": "井柏然的鞋",
+      "onboard_time": 1680241527,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 477858,
@@ -20937,6 +20953,14 @@
       "onboard_time": 1680175048,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 469812,
+      "num": 432486,
+      "word": "易烊千玺杜莎夫人蜡像馆预告",
+      "onboard_time": 1680242185,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 469811,
@@ -22643,6 +22667,14 @@
       "category": "财经,科技"
     },
     {
+      "raw_hot": 432483,
+      "num": 432483,
+      "word": "压价",
+      "onboard_time": 1680242905,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 432462,
       "num": 201911,
       "word": "刘亦菲巴黎到达路透",
@@ -23689,14 +23721,6 @@
       "onboard_time": 1679979512,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 412366,
-      "num": 412366,
-      "word": "井柏然的鞋",
-      "onboard_time": 1680241527,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 412339,
@@ -26171,6 +26195,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 370841,
+      "num": 370841,
+      "word": "萌兰",
+      "onboard_time": 1678281868,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 370785,
       "num": 370785,
       "word": "蒋胜男发声反对加班泛滥",
@@ -26785,14 +26817,6 @@
       "onboard_time": 1677940889,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 360766,
-      "num": 360766,
-      "word": "易烊千玺杜莎夫人蜡像馆预告",
-      "onboard_time": 1680242185,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 360641,
@@ -27475,6 +27499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 351352,
+      "num": 351352,
+      "word": "旅客自带盒饭用高铁微波炉被拒",
+      "onboard_time": 1680239786,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 351326,
       "num": 351326,
       "word": "他是谁开播",
@@ -27617,14 +27649,6 @@
       "onboard_time": 1679210186,
       "rank": 15,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 349234,
-      "num": 349234,
-      "word": "旅客自带盒饭用高铁微波炉被拒",
-      "onboard_time": 1680239786,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 349122,
@@ -27873,6 +27897,14 @@
       "onboard_time": 1678844730,
       "rank": 20,
       "category": "教育"
+    },
+    {
+      "raw_hot": 345699,
+      "num": 345699,
+      "word": "不婚族晚年生活是什么样子",
+      "onboard_time": 1680243025,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 345581,
@@ -28824,6 +28856,14 @@
       "word": "没想到栏杆是用来防明星的",
       "onboard_time": 1679971226,
       "rank": 26,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 332791,
+      "num": 332791,
+      "word": "BLACKPINK成员solo单曲",
+      "onboard_time": 1680243806,
+      "rank": 21,
       "category": "音乐"
     },
     {
@@ -32347,14 +32387,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 287092,
-      "num": 263040,
-      "word": "萌兰",
-      "onboard_time": 1678281868,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 286848,
       "num": 286848,
       "word": "小朋友真的把姐姐写进作文了",
@@ -32849,14 +32881,6 @@
       "onboard_time": 1679813066,
       "rank": 21,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 281201,
-      "num": 244432,
-      "word": "田曦薇代言",
-      "onboard_time": 1680243324,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 281166,
@@ -36052,7 +36076,7 @@
     },
     {
       "raw_hot": 247039,
-      "num": 247039,
+      "num": 268873,
       "word": "每个月都会收到男友送的玩偶",
       "onboard_time": 1680239128,
       "rank": 33,
@@ -45779,14 +45803,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 190597,
-      "num": 190597,
-      "word": "压价",
-      "onboard_time": 1680242905,
-      "rank": 30,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 190596,
       "num": 385258,
       "word": "如何引领折叠屏使用新体验",
@@ -48371,6 +48387,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 176176,
+      "num": 176176,
+      "word": "长歌行播出两周年了",
+      "onboard_time": 1680243563,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 176163,
       "num": 176163,
       "word": "坐着大巴边吃火锅边赏景",
@@ -48779,6 +48803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173123,
+      "num": 173123,
+      "word": "情侣间令人窒息的控制欲",
+      "onboard_time": 1680243925,
+      "rank": 33,
+      "category": "综艺,情感"
+    },
+    {
       "raw_hot": 173121,
       "num": 173121,
       "word": "不小心把猫脚剪伤后",
@@ -48913,14 +48945,6 @@
       "onboard_time": 1678932564,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 172427,
-      "num": 172427,
-      "word": "不婚族晚年生活是什么样子",
-      "onboard_time": 1680243025,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 172392,
@@ -54555,6 +54579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 137255,
+      "num": 137255,
+      "word": "秦岚说感情中要有些小作",
+      "onboard_time": 1680244406,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 137220,
       "num": 137220,
       "word": "宋三川为梁友安羽转网",
@@ -56433,14 +56465,6 @@
       "onboard_time": 1678159766,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 126034,
-      "num": 112141,
-      "word": "长歌行播出两周年了",
-      "onboard_time": 1680243563,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 126003,
@@ -58404,7 +58428,7 @@
     },
     {
       "raw_hot": 111238,
-      "num": 111238,
+      "num": 113574,
       "word": "伴侣之间应如何沟通交流",
       "onboard_time": 1680241764,
       "rank": 43,
@@ -58985,6 +59009,14 @@
       "onboard_time": 1679404468,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 107557,
+      "num": 107557,
+      "word": "了不起舞社第二季官宣",
+      "onboard_time": 1680244586,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 107518,
@@ -60499,6 +60531,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 93495,
+      "num": 104398,
+      "word": "离职的快乐是藏不住的",
+      "onboard_time": 1680242785,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 93288,
       "num": 93288,
       "word": "献给爱喝可乐的潇洒哥",
@@ -60953,14 +60993,6 @@
       "onboard_time": 1678032803,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 87250,
-      "num": 94465,
-      "word": "离职的快乐是藏不住的",
-      "onboard_time": 1680242785,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 87204,
