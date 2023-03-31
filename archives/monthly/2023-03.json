@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1680233613940,
+  "endTime": 1680236501766,
   "band_list": [
     {
       "raw_hot": 27113842,
@@ -873,6 +873,14 @@
       "onboard_time": 1677885859,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2642109,
+      "num": 2642109,
+      "word": "豫章书院",
+      "onboard_time": 1680232466,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2641711,
@@ -3123,6 +3131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1558247,
+      "num": 1558247,
+      "word": "金智秀solo单曲",
+      "onboard_time": 1680236367,
+      "rank": 1,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1553665,
       "num": 1553665,
       "word": "吴磊吻戏从脸红到耳朵",
@@ -4515,14 +4531,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1325558,
-      "num": 1325558,
-      "word": "豫章书院",
-      "onboard_time": 1680232466,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1322639,
       "num": 1322639,
       "word": "被穷养长大的孩子是怎样的",
@@ -4881,6 +4889,14 @@
       "onboard_time": 1679218710,
       "rank": 5,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 1275965,
+      "num": 1275965,
+      "word": "胡歌说没想到会和刘亦菲同台",
+      "onboard_time": 1680231447,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 1275681,
@@ -7643,14 +7659,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 980137,
-      "num": 980137,
-      "word": "胡歌说没想到会和刘亦菲同台",
-      "onboard_time": 1680231447,
-      "rank": 6,
-      "category": "影视"
-    },
-    {
       "raw_hot": 979898,
       "num": 610047,
       "word": "凡人修仙传 杨洋",
@@ -8193,6 +8201,14 @@
       "onboard_time": 1678606584,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 937343,
+      "num": 937343,
+      "word": "本科毕业论文抽检都查什么",
+      "onboard_time": 1680232104,
+      "rank": 39,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 932644,
@@ -11411,6 +11427,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 750847,
+      "num": 750847,
+      "word": "竹筒奶茶原来是回收筒吗",
+      "onboard_time": 1680234267,
+      "rank": 7,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 750572,
       "num": 552072,
       "word": "青春有你2播出三周年",
@@ -11849,6 +11873,14 @@
       "onboard_time": 1679047352,
       "rank": 7,
       "category": "动漫,艺人"
+    },
+    {
+      "raw_hot": 732540,
+      "num": 732540,
+      "word": "广东人快要发霉了",
+      "onboard_time": 1680231447,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 730838,
@@ -22187,14 +22219,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 440800,
-      "num": 440800,
-      "word": "广东人快要发霉了",
-      "onboard_time": 1680231447,
-      "rank": 18,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 440522,
       "num": 1215532,
       "word": "历史学考研",
@@ -22233,14 +22257,6 @@
       "onboard_time": 1679507414,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 439844,
-      "num": 347436,
-      "word": "本科毕业论文抽检都查什么",
-      "onboard_time": 1680232104,
-      "rank": 39,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 439818,
@@ -23001,6 +23017,14 @@
       "onboard_time": 1677984145,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 425538,
+      "num": 425538,
+      "word": "假如秋瓷炫乘风4淘汰",
+      "onboard_time": 1680235227,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 424996,
@@ -24995,6 +25019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 385662,
+      "num": 385662,
+      "word": "林孝埈观战短道冠军赛",
+      "onboard_time": 1680234148,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 385535,
       "num": 385535,
       "word": "微博之夜嘉宾",
@@ -26345,6 +26377,14 @@
       "onboard_time": 1677972980,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 364795,
+      "num": 364795,
+      "word": "减脂餐狗都不吃",
+      "onboard_time": 1680230065,
+      "rank": 47,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 364782,
@@ -27739,14 +27779,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 345676,
-      "num": 345676,
-      "word": "减脂餐狗都不吃",
-      "onboard_time": 1680230065,
-      "rank": 47,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 345581,
       "num": 345581,
       "word": "王建国竟然比庞博高",
@@ -28417,6 +28449,14 @@
       "onboard_time": 1678949847,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 336116,
+      "num": 336116,
+      "word": "宁艺卓Giselle吐槽ae形象",
+      "onboard_time": 1680231805,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 336072,
@@ -30803,6 +30843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 304597,
+      "num": 304597,
+      "word": "豫章书院前学员发声",
+      "onboard_time": 1680233246,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 304576,
       "num": 304576,
       "word": "TES战胜FPX",
@@ -32747,6 +32795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 280594,
+      "num": 273637,
+      "word": "孙悦长沙街头随拍",
+      "onboard_time": 1680234626,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 280543,
       "num": 507302,
       "word": "小镇青年应该怎么扩大交友圈",
@@ -33507,6 +33563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 272813,
+      "num": 272813,
+      "word": "特斯拉啤酒售价89欧元",
+      "onboard_time": 1680231384,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 272704,
       "num": 272704,
       "word": "外国小朋友鼓励熊猫丫丫",
@@ -33961,6 +34025,14 @@
       "onboard_time": 1677934466,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 267684,
+      "num": 267684,
+      "word": "走路时不要只顾玩手机",
+      "onboard_time": 1680234387,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 267602,
@@ -34937,6 +35009,14 @@
       "onboard_time": 1678537048,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 256518,
+      "num": 256518,
+      "word": "陈星旭27岁实绩图",
+      "onboard_time": 1680232407,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 256375,
@@ -36849,14 +36929,6 @@
       "onboard_time": 1677729328,
       "rank": 35,
       "category": "影视,时尚"
-    },
-    {
-      "raw_hot": 237126,
-      "num": 237126,
-      "word": "特斯拉啤酒售价89欧元",
-      "onboard_time": 1680231384,
-      "rank": 34,
-      "category": "财经"
     },
     {
       "raw_hot": 237066,
@@ -38921,6 +38993,14 @@
       "onboard_time": 1679713885,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 221781,
+      "num": 221781,
+      "word": "上海海事大学",
+      "onboard_time": 1680236128,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 221651,
@@ -41139,6 +41219,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 206715,
+      "num": 206715,
+      "word": "牙医口罩下的表情是怎样的",
+      "onboard_time": 1680235349,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 206708,
       "num": 206708,
       "word": "VG对战eStar",
@@ -41193,14 +41281,6 @@
       "onboard_time": 1679275767,
       "rank": 27,
       "category": "社会新闻,军事"
-    },
-    {
-      "raw_hot": 206528,
-      "num": 206528,
-      "word": "陈星旭27岁实绩图",
-      "onboard_time": 1680232407,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 206502,
@@ -47435,6 +47515,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 180825,
+      "num": 180825,
+      "word": "NewJeans将发行新歌",
+      "onboard_time": 1680233788,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 180382,
       "num": 180382,
       "word": "归路定档",
@@ -48233,6 +48321,14 @@
       "onboard_time": 1678323928,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175067,
+      "num": 175067,
+      "word": "心疼铃芽之旅大臣猫",
+      "onboard_time": 1680234866,
+      "rank": 35,
+      "category": "动漫,影视"
     },
     {
       "raw_hot": 175066,
@@ -50595,14 +50691,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 160158,
-      "num": 160158,
-      "word": "豫章书院前学员发声",
-      "onboard_time": 1680233246,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 160031,
       "num": 160031,
       "word": "谭松韵单曲预告",
@@ -50632,6 +50720,14 @@
       "word": "男子斜坡停车忘挂档险溜进海里",
       "onboard_time": 1678344686,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 159685,
+      "num": 1355238,
+      "word": "4月起这些新规将影响你我生活",
+      "onboard_time": 1680233425,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -51745,6 +51841,14 @@
       "onboard_time": 1678177645,
       "rank": 39,
       "category": "幽默,社会新闻"
+    },
+    {
+      "raw_hot": 151723,
+      "num": 151723,
+      "word": "惊天救援全城沦陷版预告",
+      "onboard_time": 1680235888,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 151700,
@@ -53347,6 +53451,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 142157,
+      "num": 142157,
+      "word": "豫章书院揭发人现身庭审现场",
+      "onboard_time": 1680236309,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141998,
       "num": 141998,
       "word": "品质盛典第二波官宣阵容",
@@ -54483,6 +54595,14 @@
       "category": "影视,社会新闻"
     },
     {
+      "raw_hot": 135530,
+      "num": 135530,
+      "word": "大熊猫叫声",
+      "onboard_time": 1680233665,
+      "rank": 45,
+      "category": "幽默,社会新闻"
+    },
+    {
       "raw_hot": 135490,
       "num": 135490,
       "word": "建议学前教育纳入义务教育",
@@ -54873,6 +54993,14 @@
       "onboard_time": 1680224307,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 133539,
+      "num": 133539,
+      "word": "4月5日零时起机建燃油费下调",
+      "onboard_time": 1680233665,
+      "rank": 46,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 133451,
@@ -55627,6 +55755,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 128474,
+      "num": 128474,
+      "word": "凤凰音乐节",
+      "onboard_time": 1680234748,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 128448,
       "num": 128448,
       "word": "成韩彬的旧照",
@@ -56057,6 +56193,14 @@
       "onboard_time": 1679061092,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 125951,
+      "num": 125951,
+      "word": "我的告白沉默了俩个寝室",
+      "onboard_time": 1680236008,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 125945,
@@ -61873,14 +62017,6 @@
       "onboard_time": 1677698173,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 60818,
-      "num": 1042154,
-      "word": "4月起这些新规将影响你我生活",
-      "onboard_time": 1680233425,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 60679,

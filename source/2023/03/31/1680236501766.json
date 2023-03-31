@@ -1,0 +1,410 @@
+{
+  "runTime": 1680236501766,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2642109,
+        "num": 2642109,
+        "word": "豫章书院",
+        "onboard_time": 1680232466,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1558247,
+        "num": 1558247,
+        "word": "金智秀solo单曲",
+        "onboard_time": 1680236367,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 159685,
+        "num": 1355238,
+        "word": "4月起这些新规将影响你我生活",
+        "onboard_time": 1680233425,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1275965,
+        "num": 1275965,
+        "word": "胡歌说没想到会和刘亦菲同台",
+        "onboard_time": 1680231447,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 937343,
+        "num": 937343,
+        "word": "本科毕业论文抽检都查什么",
+        "onboard_time": 1680232104,
+        "rank": 4,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1354801,
+        "num": 935880,
+        "word": "特朗普预计下周自首",
+        "onboard_time": 1680225324,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 927407,
+        "num": 927407,
+        "word": "吴磊在首页亲了一天",
+        "onboard_time": 1680231384,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 750847,
+        "num": 750847,
+        "word": "竹筒奶茶原来是回收筒吗",
+        "onboard_time": 1680234267,
+        "rank": 7,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 732540,
+        "num": 732540,
+        "word": "广东人快要发霉了",
+        "onboard_time": 1680231447,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 650864,
+        "num": 650864,
+        "word": "黄子韬瘦了好多",
+        "onboard_time": 1680230905,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 438282,
+        "num": 438282,
+        "word": "爱情而已这是可以播的吗",
+        "onboard_time": 1680227605,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 425538,
+        "num": 425538,
+        "word": "假如秋瓷炫乘风4淘汰",
+        "onboard_time": 1680235227,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 385662,
+        "num": 385662,
+        "word": "林孝埈观战短道冠军赛",
+        "onboard_time": 1680234148,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 372410,
+        "num": 372410,
+        "word": "车保罗参演杨紫新剧",
+        "onboard_time": 1680230724,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 364795,
+        "num": 364795,
+        "word": "减脂餐狗都不吃",
+        "onboard_time": 1680230065,
+        "rank": 14,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 340539,
+        "num": 340539,
+        "word": "柯南贝克街的亡灵台词",
+        "onboard_time": 1680231805,
+        "rank": 15,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 336116,
+        "num": 336116,
+        "word": "宁艺卓Giselle吐槽ae形象",
+        "onboard_time": 1680231805,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 324677,
+        "num": 324677,
+        "word": "五月天武汉",
+        "onboard_time": 1680229585,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 304597,
+        "num": 304597,
+        "word": "豫章书院前学员发声",
+        "onboard_time": 1680233246,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273823,
+        "num": 273823,
+        "word": "百岁扫地僧去了天堂图书馆",
+        "onboard_time": 1680229884,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280594,
+        "num": 273637,
+        "word": "孙悦长沙街头随拍",
+        "onboard_time": 1680234626,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272813,
+        "num": 272813,
+        "word": "特斯拉啤酒售价89欧元",
+        "onboard_time": 1680231384,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 267684,
+        "num": 267684,
+        "word": "走路时不要只顾玩手机",
+        "onboard_time": 1680234387,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 256518,
+        "num": 256518,
+        "word": "陈星旭27岁实绩图",
+        "onboard_time": 1680232407,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231450,
+        "num": 231450,
+        "word": "来自中国战机的压迫感",
+        "onboard_time": 1680230843,
+        "rank": 24,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 228973,
+        "num": 228973,
+        "word": "奶爸默默记录丫丫日常",
+        "onboard_time": 1680228565,
+        "rank": 25,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 227259,
+        "num": 227259,
+        "word": "肖战视频BGM被原唱夸",
+        "onboard_time": 1680223046,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 221781,
+        "num": 221781,
+        "word": "上海海事大学",
+        "onboard_time": 1680236128,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206715,
+        "num": 206715,
+        "word": "牙医口罩下的表情是怎样的",
+        "onboard_time": 1680235349,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 206026,
+        "num": 206026,
+        "word": "大熊猫怎么也会这么八卦",
+        "onboard_time": 1680229166,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 197493,
+        "num": 197493,
+        "word": "张新成孙千这么多年侧脸海报",
+        "onboard_time": 1680232286,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189881,
+        "num": 189881,
+        "word": "油价",
+        "onboard_time": 1680225807,
+        "rank": 31,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 180926,
+        "num": 180926,
+        "word": "和导师沟通像跟渣男谈恋爱",
+        "onboard_time": 1680219202,
+        "rank": 32,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 180825,
+        "num": 180825,
+        "word": "NewJeans将发行新歌",
+        "onboard_time": 1680233788,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 175751,
+        "num": 175751,
+        "word": "父亲牺牲11年后儿子继承警号",
+        "onboard_time": 1680226886,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175067,
+        "num": 175067,
+        "word": "心疼铃芽之旅大臣猫",
+        "onboard_time": 1680234866,
+        "rank": 35,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 173579,
+        "num": 173579,
+        "word": "苍兰诀将在日本播出",
+        "onboard_time": 1680232526,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 155547,
+        "num": 155547,
+        "word": "佟大为晒早餐关悦给6.9分",
+        "onboard_time": 1680231805,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154816,
+        "num": 154816,
+        "word": "女子当场抓住猥琐怪癖男并霸气训斥",
+        "onboard_time": 1680223527,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151723,
+        "num": 151723,
+        "word": "惊天救援全城沦陷版预告",
+        "onboard_time": 1680235888,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 142846,
+        "num": 142846,
+        "word": "云南巧家县禁止脏车入城",
+        "onboard_time": 1680226164,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142157,
+        "num": 142157,
+        "word": "豫章书院揭发人现身庭审现场",
+        "onboard_time": 1680236309,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141694,
+        "num": 141694,
+        "word": "电视剧薄冰定档",
+        "onboard_time": 1680226645,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 140864,
+        "num": 140864,
+        "word": "7旬老人超市伸手牵走2岁女童",
+        "onboard_time": 1680220765,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139609,
+        "num": 139609,
+        "word": "浙江每年抽检本科毕业论文",
+        "onboard_time": 1680224785,
+        "rank": 44,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 135530,
+        "num": 135530,
+        "word": "大熊猫叫声",
+        "onboard_time": 1680233665,
+        "rank": 45,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 133539,
+        "num": 133539,
+        "word": "4月5日零时起机建燃油费下调",
+        "onboard_time": 1680233665,
+        "rank": 46,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 128474,
+        "num": 128474,
+        "word": "凤凰音乐节",
+        "onboard_time": 1680234748,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 125951,
+        "num": 125951,
+        "word": "我的告白沉默了俩个寝室",
+        "onboard_time": 1680236008,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118141,
+        "num": 118141,
+        "word": "代号鸢",
+        "onboard_time": 1680218240,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#好评中国#"
+    }
+  }
+}
