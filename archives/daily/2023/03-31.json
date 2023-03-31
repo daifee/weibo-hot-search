@@ -1,6 +1,6 @@
 {
   "startTime": 1680193469065,
-  "endTime": 1680237377561,
+  "endTime": 1680239787647,
   "band_list": [
     {
       "raw_hot": 2726093,
@@ -24,6 +24,14 @@
       "word": "金智秀solo单曲",
       "onboard_time": 1680236367,
       "rank": 1,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 2131342,
+      "num": 909910,
+      "word": "难听",
+      "onboard_time": 1680237509,
+      "rank": 3,
       "category": "音乐"
     },
     {
@@ -57,6 +65,14 @@
       "onboard_time": 1680227605,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1156204,
+      "num": 1156204,
+      "word": "竹筒奶茶原来是回收筒吗",
+      "onboard_time": 1680234267,
+      "rank": 7,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 1131647,
@@ -107,20 +123,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 886149,
+      "num": 886149,
+      "word": "YG",
+      "onboard_time": 1680238348,
+      "rank": 4,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 883276,
       "num": 883276,
       "word": "林更新说和赵丽颖二搭更默契了",
       "onboard_time": 1680193762,
       "rank": 1,
       "category": "影视"
-    },
-    {
-      "raw_hot": 841937,
-      "num": 841937,
-      "word": "竹筒奶茶原来是回收筒吗",
-      "onboard_time": 1680234267,
-      "rank": 7,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 840021,
@@ -145,6 +161,22 @@
       "onboard_time": 1680220765,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 806105,
+      "num": 806105,
+      "word": "上海海事大学",
+      "onboard_time": 1680236128,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 789462,
+      "num": 789462,
+      "word": "假如秋瓷炫乘风4淘汰",
+      "onboard_time": 1680235227,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 758015,
@@ -177,6 +209,14 @@
       "onboard_time": 1680220282,
       "rank": 4,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 684743,
+      "num": 684743,
+      "word": "all eyes on me",
+      "onboard_time": 1680238767,
+      "rank": 11,
+      "category": "音乐"
     },
     {
       "raw_hot": 682547,
@@ -233,22 +273,6 @@
       "onboard_time": 1680219322,
       "rank": 10,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 595256,
-      "num": 595256,
-      "word": "上海海事大学",
-      "onboard_time": 1680236128,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 572175,
-      "num": 572175,
-      "word": "假如秋瓷炫乘风4淘汰",
-      "onboard_time": 1680235227,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 563721,
@@ -347,12 +371,36 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 434959,
+      "num": 434959,
+      "word": "喻恩泰还原吕秀才经典桥段",
+      "onboard_time": 1680237509,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 417129,
+      "num": 417129,
+      "word": "牙医口罩下的表情是怎样的",
+      "onboard_time": 1680235349,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 392647,
       "num": 266927,
       "word": "包贝尔女儿近照",
       "onboard_time": 1680181410,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 389439,
+      "num": 389439,
+      "word": "豫章书院揭发人现身庭审现场",
+      "onboard_time": 1680236309,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 387653,
@@ -435,11 +483,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 308385,
-      "num": 308385,
-      "word": "牙医口罩下的表情是怎样的",
-      "onboard_time": 1680235349,
-      "rank": 28,
+      "raw_hot": 310730,
+      "num": 271658,
+      "word": "我的告白沉默了俩个寝室",
+      "onboard_time": 1680236008,
+      "rank": 48,
       "category": "幽默"
     },
     {
@@ -619,14 +667,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 233906,
-      "num": 233906,
-      "word": "豫章书院揭发人现身庭审现场",
-      "onboard_time": 1680236309,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 230233,
       "num": 230233,
       "word": "路人福建偶遇毛晓彤",
@@ -657,14 +697,6 @@
       "onboard_time": 1680228805,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 222660,
-      "num": 222660,
-      "word": "我的告白沉默了俩个寝室",
-      "onboard_time": 1680236008,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 210416,
@@ -763,12 +795,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 188297,
+      "num": 183120,
+      "word": "INTO1毕业采访",
+      "onboard_time": 1680238468,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 187145,
       "num": 192766,
       "word": "电影暴风秘密行动版预告",
       "onboard_time": 1680231805,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 183327,
+      "num": 183327,
+      "word": "当你工作累了准备午休时",
+      "onboard_time": 1680236070,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 182618,
+      "num": 170560,
+      "word": "张颜齐Stephanie合作单曲",
+      "onboard_time": 1680238767,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 181950,
@@ -817,6 +873,22 @@
       "onboard_time": 1680176966,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175840,
+      "num": 170131,
+      "word": "长沙草莓音乐节定档",
+      "onboard_time": 1680238229,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 175785,
+      "num": 175785,
+      "word": "每个月都会收到男友送的玩偶",
+      "onboard_time": 1680239128,
+      "rank": 33,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 175592,
@@ -963,6 +1035,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 144333,
+      "num": 144333,
+      "word": "庆怜原创新歌tonight",
+      "onboard_time": 1680239427,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 143960,
       "num": 143960,
       "word": "杨丞琳晒与姐妹们聚会合照",
@@ -1043,19 +1123,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 131560,
-      "num": 131560,
-      "word": "当你工作累了准备午休时",
-      "onboard_time": 1680236070,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 131459,
       "num": 131459,
       "word": "保你平安密室又吓人又好笑",
       "onboard_time": 1680232407,
       "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 130895,
+      "num": 130895,
+      "word": "忠犬八公今日上映",
+      "onboard_time": 1680237928,
+      "rank": 43,
       "category": "影视"
     },
     {
@@ -1107,6 +1187,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 124302,
+      "num": 124302,
+      "word": "大唐不夜城 盛唐密盒",
+      "onboard_time": 1680239608,
+      "rank": 45,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 120373,
       "num": 120373,
       "word": "模仿犯今天下午全集播出",
@@ -1129,6 +1217,14 @@
       "onboard_time": 1680182908,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 112685,
+      "num": 112685,
+      "word": "归晓婚纱照",
+      "onboard_time": 1680239726,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 110735,
