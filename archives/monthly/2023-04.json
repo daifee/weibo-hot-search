@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680286844969,
+  "endTime": 1680287619967,
   "band_list": [
     {
       "raw_hot": 7084987,
@@ -472,6 +472,14 @@
       "word": "张新成以前不喜欢录综艺",
       "onboard_time": 1680270870,
       "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 31630,
+      "num": 31630,
+      "word": "鹿晗老舅王勉做后勤演卑微打工人",
+      "onboard_time": 1680276207,
+      "rank": 39,
       "category": "综艺"
     },
     {
