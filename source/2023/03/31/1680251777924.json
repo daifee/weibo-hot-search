@@ -1,0 +1,410 @@
+{
+  "runTime": 1680251777924,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2287242,
+        "num": 2287242,
+        "word": "任泉王京花企业涉非吸案",
+        "onboard_time": 1680246565,
+        "rank": 0,
+        "category": "财经,艺人"
+      },
+      {
+        "raw_hot": 1071520,
+        "num": 1071520,
+        "word": "不婚族晚年生活是什么样子",
+        "onboard_time": 1680243025,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 67934,
+        "num": 779836,
+        "word": "带你共享花开烂漫时",
+        "onboard_time": 1680248546,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 691586,
+        "num": 691586,
+        "word": "刘浩存新片首映礼哭了",
+        "onboard_time": 1680246446,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 605717,
+        "num": 605717,
+        "word": "网友称妹妹被母亲强行送去戒网学校",
+        "onboard_time": 1680245606,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 542027,
+        "num": 542027,
+        "word": "吴磊周雨彤扫楼",
+        "onboard_time": 1680250824,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 513678,
+        "num": 513678,
+        "word": "all eyes on me",
+        "onboard_time": 1680238767,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 473006,
+        "num": 473006,
+        "word": "日本外相将访华",
+        "onboard_time": 1680248363,
+        "rank": 7,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 453505,
+        "num": 453505,
+        "word": "玉骨遥梦中的那片海暂定Q2播出",
+        "onboard_time": 1680247345,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 405309,
+        "num": 405309,
+        "word": "BLACKPINK成员solo单曲",
+        "onboard_time": 1680243806,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1038738,
+        "num": 404956,
+        "word": "易烊千玺给网站续约",
+        "onboard_time": 1680249206,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 592905,
+        "num": 404055,
+        "word": "豫章书院",
+        "onboard_time": 1680232466,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 445411,
+        "num": 402105,
+        "word": "田曦薇代言",
+        "onboard_time": 1680243324,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 432801,
+        "num": 401782,
+        "word": "孙茜牵儿子走秀",
+        "onboard_time": 1680246565,
+        "rank": 13,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 400849,
+        "num": 400849,
+        "word": "任正非发文重申华为不造车",
+        "onboard_time": 1680242306,
+        "rank": 14,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 397912,
+        "num": 397912,
+        "word": "模仿犯",
+        "onboard_time": 1680247227,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 383662,
+        "num": 383662,
+        "word": "考上编制的熊猫",
+        "onboard_time": 1680248664,
+        "rank": 16,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 372893,
+        "num": 372893,
+        "word": "马斯克或将来中国",
+        "onboard_time": 1680247945,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 339776,
+        "num": 339776,
+        "word": "本科毕业论文抽检都查什么",
+        "onboard_time": 1680232104,
+        "rank": 18,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 297439,
+        "num": 297439,
+        "word": "叶一茜说森蝶觉得弟弟是最有心机的人",
+        "onboard_time": 1680251306,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 269338,
+        "num": 269338,
+        "word": "不婚族的6个心理事实",
+        "onboard_time": 1680249866,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 264971,
+        "num": 264971,
+        "word": "你不能说狮子座不行",
+        "onboard_time": 1680246565,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 246121,
+        "num": 246121,
+        "word": "近九成学生认为毕业论文有难度",
+        "onboard_time": 1680250043,
+        "rank": 22,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 231110,
+        "num": 231110,
+        "word": "金智秀solo单曲",
+        "onboard_time": 1680236367,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 225943,
+        "num": 225943,
+        "word": "师父出山教做鲁菜百万网友追更",
+        "onboard_time": 1680247105,
+        "rank": 24,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 224623,
+        "num": 224623,
+        "word": "宋雨琦宫廷风造型",
+        "onboard_time": 1680251724,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219289,
+        "num": 219289,
+        "word": "邓超请100位朋友看范丞丞新电影",
+        "onboard_time": 1680251545,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 214500,
+        "num": 214500,
+        "word": "张大大没有站姐",
+        "onboard_time": 1680250704,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207240,
+        "num": 207240,
+        "word": "吉克隽逸洛丽塔造型录跑男",
+        "onboard_time": 1680251485,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204633,
+        "num": 204633,
+        "word": "萌兰",
+        "onboard_time": 1680241826,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198897,
+        "num": 198897,
+        "word": "肖战欧洲游随拍",
+        "onboard_time": 1680251358,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194284,
+        "num": 194284,
+        "word": "白鹿四月进组",
+        "onboard_time": 1680249625,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188698,
+        "num": 188698,
+        "word": "被父母爱情感动",
+        "onboard_time": 1680251066,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 188384,
+        "num": 188384,
+        "word": "三生友幸双向治愈",
+        "onboard_time": 1680251125,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 168204,
+        "num": 168204,
+        "word": "专家称楼市若不启动经济很难启动",
+        "onboard_time": 1680244645,
+        "rank": 34,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 170404,
+        "num": 165774,
+        "word": "李龙馥LikeCrazy舞蹈挑战",
+        "onboard_time": 1680250465,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 160036,
+        "num": 160036,
+        "word": "假装自己是一条狗和ChatGPT聊天",
+        "onboard_time": 1680244944,
+        "rank": 36,
+        "category": "情感,科技"
+      },
+      {
+        "raw_hot": 159595,
+        "num": 159595,
+        "word": "Scout获常规赛MVP",
+        "onboard_time": 1680251724,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 155101,
+        "num": 155101,
+        "word": "压价",
+        "onboard_time": 1680242905,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 154140,
+        "num": 154140,
+        "word": "竹筒奶茶原来是回收筒吗",
+        "onboard_time": 1680234267,
+        "rank": 39,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 144881,
+        "num": 144881,
+        "word": "成龙郭麒麟首映现场扎马步",
+        "onboard_time": 1680249027,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 142643,
+        "num": 142643,
+        "word": "到底谁占了华人的房子",
+        "onboard_time": 1680241946,
+        "rank": 41,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 138835,
+        "num": 138835,
+        "word": "假如秋瓷炫乘风4淘汰",
+        "onboard_time": 1680235227,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134099,
+        "num": 134099,
+        "word": "王子文闲庭竹影封面",
+        "onboard_time": 1680250226,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 133374,
+        "num": 133374,
+        "word": "秦岚说感情中要有些小作",
+        "onboard_time": 1680244406,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133209,
+        "num": 133209,
+        "word": "井柏然的鞋",
+        "onboard_time": 1680241527,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129843,
+        "num": 129843,
+        "word": "上海海事大学",
+        "onboard_time": 1680236128,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127752,
+        "num": 127752,
+        "word": "KPL学长发来的心动邀约",
+        "onboard_time": 1680251545,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 124359,
+        "num": 124359,
+        "word": "旅客自带盒饭用高铁微波炉被拒",
+        "onboard_time": 1680239786,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111533,
+        "num": 111533,
+        "word": "带押过户",
+        "onboard_time": 1680246686,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#好评中国#"
+    }
+  }
+}

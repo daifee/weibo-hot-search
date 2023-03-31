@@ -1,6 +1,6 @@
 {
   "startTime": 1680193469065,
-  "endTime": 1680250958554,
+  "endTime": 1680251777924,
   "band_list": [
     {
       "raw_hot": 2726093,
@@ -131,18 +131,18 @@
       "category": "影视"
     },
     {
-      "raw_hot": 974166,
-      "num": 267755,
-      "word": "赵丽颖剪短发了",
-      "onboard_time": 1680180390,
+      "raw_hot": 1038738,
+      "num": 449657,
+      "word": "易烊千玺给网站续约",
+      "onboard_time": 1680249206,
       "rank": 10,
       "category": "艺人"
     },
     {
-      "raw_hot": 972996,
-      "num": 449657,
-      "word": "易烊千玺给网站续约",
-      "onboard_time": 1680249206,
+      "raw_hot": 974166,
+      "num": 267755,
+      "word": "赵丽颖剪短发了",
+      "onboard_time": 1680180390,
       "rank": 10,
       "category": "艺人"
     },
@@ -283,8 +283,8 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 683532,
-      "num": 683532,
+      "raw_hot": 691586,
+      "num": 691586,
       "word": "刘浩存新片首映礼哭了",
       "onboard_time": 1680246446,
       "rank": 31,
@@ -377,6 +377,14 @@
       "onboard_time": 1680248363,
       "rank": 5,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 542027,
+      "num": 542027,
+      "word": "吴磊周雨彤扫楼",
+      "onboard_time": 1680250824,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 539970,
@@ -507,6 +515,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 432801,
+      "num": 401782,
+      "word": "孙茜牵儿子走秀",
+      "onboard_time": 1680246565,
+      "rank": 32,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 417129,
       "num": 417129,
       "word": "牙医口罩下的表情是怎样的",
@@ -520,14 +536,6 @@
       "word": "模仿犯",
       "onboard_time": 1680247227,
       "rank": 31,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 397510,
-      "num": 397510,
-      "word": "吴磊周雨彤扫楼",
-      "onboard_time": 1680250824,
-      "rank": 14,
       "category": "影视"
     },
     {
@@ -563,6 +571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 383662,
+      "num": 383662,
+      "word": "考上编制的熊猫",
+      "onboard_time": 1680248664,
+      "rank": 18,
+      "category": "幽默,社会新闻"
+    },
+    {
       "raw_hot": 382097,
       "num": 382097,
       "word": "专家38年写400万字田间日记",
@@ -579,16 +595,8 @@
       "category": "社会新闻,幽默"
     },
     {
-      "raw_hot": 377261,
-      "num": 377261,
-      "word": "孙茜牵儿子走秀",
-      "onboard_time": 1680246565,
-      "rank": 32,
-      "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 365319,
-      "num": 365319,
+      "raw_hot": 372893,
+      "num": 372893,
       "word": "马斯克或将来中国",
       "onboard_time": 1680247945,
       "rank": 48,
@@ -601,14 +609,6 @@
       "onboard_time": 1680230065,
       "rank": 47,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 360506,
-      "num": 360506,
-      "word": "考上编制的熊猫",
-      "onboard_time": 1680248664,
-      "rank": 18,
-      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 351352,
@@ -688,6 +688,14 @@
       "word": "孙千粉色旗袍",
       "onboard_time": 1680219082,
       "rank": 31,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 297439,
+      "num": 297439,
+      "word": "叶一茜说森蝶觉得弟弟是最有心机的人",
+      "onboard_time": 1680251306,
+      "rank": 19,
       "category": "作品衍生"
     },
     {
@@ -803,6 +811,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 269338,
+      "num": 269338,
+      "word": "不婚族的6个心理事实",
+      "onboard_time": 1680249866,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 267684,
       "num": 267684,
       "word": "走路时不要只顾玩手机",
@@ -825,6 +841,14 @@
       "onboard_time": 1680180689,
       "rank": 13,
       "category": "科技"
+    },
+    {
+      "raw_hot": 264971,
+      "num": 264971,
+      "word": "你不能说狮子座不行",
+      "onboard_time": 1680246565,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 259175,
@@ -867,6 +891,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 246121,
+      "num": 246121,
+      "word": "近九成学生认为毕业论文有难度",
+      "onboard_time": 1680250043,
+      "rank": 33,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 244901,
       "num": 244901,
       "word": "金奎彬16位",
@@ -897,14 +929,6 @@
       "onboard_time": 1680240506,
       "rank": 27,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 240490,
-      "num": 240490,
-      "word": "你不能说狮子座不行",
-      "onboard_time": 1680246565,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 240330,
@@ -939,12 +963,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 224623,
+      "num": 224623,
+      "word": "宋雨琦宫廷风造型",
+      "onboard_time": 1680251724,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 223301,
       "num": 223301,
       "word": "斗罗大陆泰国播出预告",
       "onboard_time": 1680228805,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 219289,
+      "num": 219289,
+      "word": "邓超请100位朋友看范丞丞新电影",
+      "onboard_time": 1680251545,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 214500,
+      "num": 214500,
+      "word": "张大大没有站姐",
+      "onboard_time": 1680250704,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 210416,
@@ -987,20 +1035,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 207240,
+      "num": 207240,
+      "word": "吉克隽逸洛丽塔造型录跑男",
+      "onboard_time": 1680251485,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 206686,
       "num": 206686,
       "word": "丝棉木",
       "onboard_time": 1680219503,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 203939,
-      "num": 203939,
-      "word": "不婚族的6个心理事实",
-      "onboard_time": 1680249866,
-      "rank": 25,
-      "category": "情感"
     },
     {
       "raw_hot": 200234,
@@ -1043,6 +1091,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 198897,
+      "num": 198897,
+      "word": "肖战欧洲游随拍",
+      "onboard_time": 1680251358,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 197858,
       "num": 197858,
       "word": "任嘉伦呼吁守护孤独症孩子",
@@ -1065,6 +1121,14 @@
       "onboard_time": 1680225385,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 194284,
+      "num": 194284,
+      "word": "白鹿四月进组",
+      "onboard_time": 1680249625,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 191799,
@@ -1091,12 +1155,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 188425,
-      "num": 188425,
-      "word": "白鹿四月进组",
-      "onboard_time": 1680249625,
-      "rank": 26,
-      "category": "艺人"
+      "raw_hot": 188698,
+      "num": 188698,
+      "word": "被父母爱情感动",
+      "onboard_time": 1680251066,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 188384,
+      "num": 188384,
+      "word": "三生友幸双向治愈",
+      "onboard_time": 1680251125,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 188297,
@@ -1283,14 +1355,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 167330,
-      "num": 167330,
-      "word": "近九成学生认为毕业论文有难度",
-      "onboard_time": 1680250043,
-      "rank": 33,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 167001,
       "num": 167001,
       "word": "存多少钱才算有安全感",
@@ -1339,6 +1403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 159595,
+      "num": 159595,
+      "word": "Scout获常规赛MVP",
+      "onboard_time": 1680251724,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 159371,
       "num": 159371,
       "word": "检察官将要求特朗普出庭",
@@ -1361,14 +1433,6 @@
       "onboard_time": 1680231325,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 153572,
-      "num": 153572,
-      "word": "张大大没有站姐",
-      "onboard_time": 1680250704,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 151723,
@@ -1569,6 +1633,14 @@
       "onboard_time": 1680234748,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 127752,
+      "num": 127752,
+      "word": "KPL学长发来的心动邀约",
+      "onboard_time": 1680251545,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 127232,
@@ -1844,7 +1916,7 @@
     },
     {
       "raw_hot": 70823,
-      "num": 767518,
+      "num": 779836,
       "word": "带你共享花开烂漫时",
       "onboard_time": 1680248546,
       "rank": 2,
