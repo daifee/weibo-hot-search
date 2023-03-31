@@ -1,6 +1,6 @@
 {
   "startTime": 1680193469065,
-  "endTime": 1680219232908,
+  "endTime": 1680225940815,
   "band_list": [
     {
       "raw_hot": 2107691,
@@ -11,11 +11,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1836886,
+      "num": 1836886,
+      "word": "和导师沟通像跟渣男谈恋爱",
+      "onboard_time": 1680219202,
+      "rank": 47,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 974166,
       "num": 267755,
       "word": "赵丽颖剪短发了",
       "onboard_time": 1680180390,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 891058,
+      "num": 891058,
+      "word": "金智秀solo出道",
+      "onboard_time": 1680221066,
+      "rank": 1,
       "category": "艺人"
     },
     {
@@ -43,6 +59,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 813052,
+      "num": 813052,
+      "word": "7旬老人超市伸手牵走2岁女童",
+      "onboard_time": 1680220765,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 758015,
       "num": 267573,
       "word": "上海大爷挤地铁骂女子是乡下猪",
@@ -59,12 +83,60 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 693074,
+      "num": 693074,
+      "word": "部分省考年龄放宽至40岁",
+      "onboard_time": 1680220282,
+      "rank": 4,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 658260,
       "num": 658260,
       "word": "吴磊吻戏从脸红到耳朵",
       "onboard_time": 1680175947,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 616343,
+      "num": 616343,
+      "word": "女子当场抓住猥琐怪癖男并霸气训斥",
+      "onboard_time": 1680223527,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 604013,
+      "num": 482884,
+      "word": "特朗普确认被起诉",
+      "onboard_time": 1680219322,
+      "rank": 10,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 563721,
+      "num": 563721,
+      "word": "朱洁静上海迪士尼现场热舞",
+      "onboard_time": 1680221488,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 518773,
+      "num": 518773,
+      "word": "陈卓璇告别声生不息",
+      "onboard_time": 1680225204,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 508899,
+      "num": 508899,
+      "word": "哭可以治病",
+      "onboard_time": 1680223587,
+      "rank": 8,
+      "category": "情感"
     },
     {
       "raw_hot": 457248,
@@ -75,12 +147,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 443783,
+      "num": 443783,
+      "word": "当代年轻人特种兵式旅游",
+      "onboard_time": 1680220884,
+      "rank": 11,
+      "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 424055,
+      "num": 424055,
+      "word": "浙江每年抽检本科毕业论文",
+      "onboard_time": 1680224785,
+      "rank": 12,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 392647,
       "num": 266927,
       "word": "包贝尔女儿近照",
       "onboard_time": 1680181410,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 387653,
+      "num": 260590,
+      "word": "肖战视频BGM被原唱夸",
+      "onboard_time": 1680223046,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 382097,
@@ -115,6 +211,30 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 305216,
+      "num": 258882,
+      "word": "孙千粉色旗袍",
+      "onboard_time": 1680219082,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 297224,
+      "num": 297224,
+      "word": "周杰伦2023海口演唱会加场",
+      "onboard_time": 1680219561,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 296806,
+      "num": 296806,
+      "word": "代号鸢",
+      "onboard_time": 1680218240,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 290379,
       "num": 290379,
       "word": "内娱小白花天花板",
@@ -131,6 +251,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 271823,
+      "num": 271823,
+      "word": "两只社恐熊猫恋爱太费劲了",
+      "onboard_time": 1680223285,
+      "rank": 17,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 265925,
       "num": 265925,
       "word": "魅族20",
@@ -145,6 +273,14 @@
       "onboard_time": 1680182068,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 256734,
+      "num": 256734,
+      "word": "特朗普预计下周自首",
+      "onboard_time": 1680225324,
+      "rank": 22,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 244901,
@@ -179,6 +315,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 228600,
+      "num": 228600,
+      "word": "带着行李箱办离职",
+      "onboard_time": 1680192563,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 210416,
       "num": 210416,
       "word": "袁冰妍",
@@ -195,6 +339,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 206686,
+      "num": 206686,
+      "word": "丝棉木",
+      "onboard_time": 1680219503,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204611,
+      "num": 204611,
+      "word": "杨超越白色花苞裙",
+      "onboard_time": 1680225567,
+      "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 199122,
       "num": 199122,
       "word": "华晨宇演唱会舞台",
@@ -203,20 +363,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 195257,
+      "num": 195257,
+      "word": "原来全圆佑剧透过seventeen回归",
+      "onboard_time": 1680225385,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 181312,
+      "num": 181312,
+      "word": "E3游戏展宣布取消",
+      "onboard_time": 1680224366,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 180022,
+      "num": 180022,
+      "word": "蛋仔派对",
+      "onboard_time": 1680218539,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 179738,
       "num": 179738,
       "word": "中国切阳什姐递补获伦敦奥运金牌",
       "onboard_time": 1680189510,
       "rank": 27,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 179026,
-      "num": 179026,
-      "word": "代号鸢",
-      "onboard_time": 1680218240,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 176573,
@@ -275,12 +451,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 166254,
-      "num": 166254,
-      "word": "带着行李箱办离职",
-      "onboard_time": 1680192563,
-      "rank": 46,
-      "category": "幽默"
+      "raw_hot": 159371,
+      "num": 159371,
+      "word": "检察官将要求特朗普出庭",
+      "onboard_time": 1680222571,
+      "rank": 32,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 150952,
+      "num": 150952,
+      "word": "新版出生医学证明4月起启用",
+      "onboard_time": 1680225385,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 148168,
@@ -299,12 +483,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 144985,
+      "num": 144985,
+      "word": "李一桐挂脖黑裙",
+      "onboard_time": 1680225567,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 143960,
       "num": 143960,
       "word": "杨丞琳晒与姐妹们聚会合照",
       "onboard_time": 1680190648,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 142295,
+      "num": 142295,
+      "word": "星汉灿烂韩国定档",
+      "onboard_time": 1680219561,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 140170,
+      "num": 140170,
+      "word": "以爱为营服化道",
+      "onboard_time": 1680222024,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 137635,
@@ -315,11 +523,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 136807,
+      "num": 136807,
+      "word": "YG新女团最新翻唱舞台",
+      "onboard_time": 1680222986,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 135088,
       "num": 135088,
       "word": "李沁村花妆是刻板印象吗",
       "onboard_time": 1680171207,
       "rank": 23,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 133579,
+      "num": 133579,
+      "word": "品质盛典荣誉名单",
+      "onboard_time": 1680224307,
+      "rank": 40,
       "category": "影视"
     },
     {
@@ -387,12 +611,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 111276,
-      "num": 111276,
-      "word": "孙千粉色旗袍",
-      "onboard_time": 1680219082,
-      "rank": 31,
-      "category": "作品衍生"
+      "raw_hot": 112389,
+      "num": 112389,
+      "word": "油价",
+      "onboard_time": 1680225807,
+      "rank": 45,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 106279,
@@ -401,6 +625,14 @@
       "onboard_time": 1680172170,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 105285,
+      "num": 105285,
+      "word": "哪些人群要注意倒春寒",
+      "onboard_time": 1680224127,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 105179,
@@ -425,14 +657,6 @@
       "onboard_time": 1680219082,
       "rank": 36,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 96567,
-      "num": 96567,
-      "word": "蛋仔派对",
-      "onboard_time": 1680218539,
-      "rank": 37,
-      "category": "游戏"
     },
     {
       "raw_hot": 95276,
@@ -515,16 +739,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 59384,
-      "num": 59384,
-      "word": "和导师沟通像跟渣男谈恋爱",
-      "onboard_time": 1680219202,
-      "rank": 47,
-      "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 58969,
-      "num": 718877,
+      "raw_hot": 60622,
+      "num": 831303,
       "word": "这里的春景每一帧都是画报",
       "onboard_time": 1680184829,
       "rank": 2,

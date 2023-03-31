@@ -1,0 +1,410 @@
+{
+  "runTime": 1680225940815,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1836886,
+        "num": 1836886,
+        "word": "和导师沟通像跟渣男谈恋爱",
+        "onboard_time": 1680219202,
+        "rank": 0,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 891058,
+        "num": 891058,
+        "word": "金智秀solo出道",
+        "onboard_time": 1680221066,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60622,
+        "num": 831303,
+        "word": "这里的春景每一帧都是画报",
+        "onboard_time": 1680184829,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 813052,
+        "num": 813052,
+        "word": "7旬老人超市伸手牵走2岁女童",
+        "onboard_time": 1680220765,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 693074,
+        "num": 693074,
+        "word": "部分省考年龄放宽至40岁",
+        "onboard_time": 1680220282,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 616343,
+        "num": 616343,
+        "word": "女子当场抓住猥琐怪癖男并霸气训斥",
+        "onboard_time": 1680223527,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 563721,
+        "num": 563721,
+        "word": "朱洁静上海迪士尼现场热舞",
+        "onboard_time": 1680221488,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 518773,
+        "num": 518773,
+        "word": "陈卓璇告别声生不息",
+        "onboard_time": 1680225204,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 508899,
+        "num": 508899,
+        "word": "哭可以治病",
+        "onboard_time": 1680223587,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 496195,
+        "num": 496195,
+        "word": "官方通报林场主求水事件",
+        "onboard_time": 1680189268,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 604013,
+        "num": 482884,
+        "word": "特朗普确认被起诉",
+        "onboard_time": 1680219322,
+        "rank": 10,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 443783,
+        "num": 443783,
+        "word": "当代年轻人特种兵式旅游",
+        "onboard_time": 1680220884,
+        "rank": 11,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 424055,
+        "num": 424055,
+        "word": "浙江每年抽检本科毕业论文",
+        "onboard_time": 1680224785,
+        "rank": 12,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 365412,
+        "num": 365412,
+        "word": "林更新说和赵丽颖二搭更默契了",
+        "onboard_time": 1680193762,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 300342,
+        "num": 300342,
+        "word": "吴磊吻戏从脸红到耳朵",
+        "onboard_time": 1680175947,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 297224,
+        "num": 297224,
+        "word": "周杰伦2023海口演唱会加场",
+        "onboard_time": 1680219561,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 296806,
+        "num": 296806,
+        "word": "代号鸢",
+        "onboard_time": 1680218240,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 271823,
+        "num": 271823,
+        "word": "两只社恐熊猫恋爱太费劲了",
+        "onboard_time": 1680223285,
+        "rank": 17,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 264017,
+        "num": 264017,
+        "word": "包贝尔女儿近照",
+        "onboard_time": 1680181410,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262163,
+        "num": 262163,
+        "word": "这熊猫介绍真是没瞎写",
+        "onboard_time": 1680190886,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 387653,
+        "num": 260590,
+        "word": "肖战视频BGM被原唱夸",
+        "onboard_time": 1680223046,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 305216,
+        "num": 258882,
+        "word": "孙千粉色旗袍",
+        "onboard_time": 1680219082,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 256734,
+        "num": 256734,
+        "word": "特朗普预计下周自首",
+        "onboard_time": 1680225324,
+        "rank": 22,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 251055,
+        "num": 251055,
+        "word": "谢娜问粉丝我生图很厉害吧",
+        "onboard_time": 1680182068,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 228600,
+        "num": 228600,
+        "word": "带着行李箱办离职",
+        "onboard_time": 1680192563,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 207143,
+        "num": 207143,
+        "word": "全球男性精子量告急",
+        "onboard_time": 1680182550,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206686,
+        "num": 206686,
+        "word": "丝棉木",
+        "onboard_time": 1680219503,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204611,
+        "num": 204611,
+        "word": "杨超越白色花苞裙",
+        "onboard_time": 1680225567,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 201665,
+        "num": 201665,
+        "word": "千万不要在泰山顶上这样拍照",
+        "onboard_time": 1680185188,
+        "rank": 28,
+        "category": "幽默,旅游"
+      },
+      {
+        "raw_hot": 195257,
+        "num": 195257,
+        "word": "原来全圆佑剧透过seventeen回归",
+        "onboard_time": 1680225385,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181312,
+        "num": 181312,
+        "word": "E3游戏展宣布取消",
+        "onboard_time": 1680224366,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 180022,
+        "num": 180022,
+        "word": "蛋仔派对",
+        "onboard_time": 1680218539,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 159371,
+        "num": 159371,
+        "word": "检察官将要求特朗普出庭",
+        "onboard_time": 1680222571,
+        "rank": 32,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 150952,
+        "num": 150952,
+        "word": "新版出生医学证明4月起启用",
+        "onboard_time": 1680225385,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144985,
+        "num": 144985,
+        "word": "李一桐挂脖黑裙",
+        "onboard_time": 1680225567,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 142295,
+        "num": 142295,
+        "word": "星汉灿烂韩国定档",
+        "onboard_time": 1680219561,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 140170,
+        "num": 140170,
+        "word": "以爱为营服化道",
+        "onboard_time": 1680222024,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 136807,
+        "num": 136807,
+        "word": "YG新女团最新翻唱舞台",
+        "onboard_time": 1680222986,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 362958,
+        "num": 136534,
+        "word": "上海海事大学被举报弄虚作假",
+        "onboard_time": 1680187289,
+        "rank": 38,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 135376,
+        "num": 135376,
+        "word": "存多少钱才算有安全感",
+        "onboard_time": 1680178167,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133579,
+        "num": 133579,
+        "word": "品质盛典荣誉名单",
+        "onboard_time": 1680224307,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 133555,
+        "num": 133555,
+        "word": "专家38年写400万字田间日记",
+        "onboard_time": 1680217579,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133155,
+        "num": 133155,
+        "word": "男子生前借亲戚534万去世后被赖账",
+        "onboard_time": 1680176966,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122636,
+        "num": 122636,
+        "word": "猫夺走了新郎的风头",
+        "onboard_time": 1680182729,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119297,
+        "num": 119297,
+        "word": "中国切阳什姐递补获伦敦奥运金牌",
+        "onboard_time": 1680189510,
+        "rank": 44,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 112389,
+        "num": 112389,
+        "word": "油价",
+        "onboard_time": 1680225807,
+        "rank": 45,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 109903,
+        "num": 109903,
+        "word": "巧珍哭着跟高加林分手",
+        "onboard_time": 1680185850,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 107140,
+        "num": 107140,
+        "word": "青岛人拍的5照片绍兴老汉收到了",
+        "onboard_time": 1680218359,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106996,
+        "num": 106996,
+        "word": "那我长大了还管谁叫爷爷",
+        "onboard_time": 1680180447,
+        "rank": 48,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 105285,
+        "num": 105285,
+        "word": "哪些人群要注意倒春寒",
+        "onboard_time": 1680224127,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#高质量共建一带一路#"
+    }
+  }
+}
