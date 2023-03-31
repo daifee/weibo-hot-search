@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1680248009980,
+  "endTime": 1680250958554,
   "band_list": [
     {
       "raw_hot": 12970403,
@@ -193,6 +193,14 @@
       "onboard_time": 1680067229,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2311287,
+      "num": 2311287,
+      "word": "任泉王京花企业涉非吸案",
+      "onboard_time": 1680246565,
+      "rank": 15,
+      "category": "财经,艺人"
     },
     {
       "raw_hot": 2235754,
@@ -963,14 +971,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 1113339,
-      "num": 1113339,
-      "word": "任泉王京花企业涉非吸案",
-      "onboard_time": 1680246565,
-      "rank": 15,
-      "category": "财经,艺人"
-    },
-    {
       "raw_hot": 1102066,
       "num": 1102066,
       "word": "霍建华或将参演玫瑰的故事",
@@ -1129,6 +1129,14 @@
       "onboard_time": 1679910267,
       "rank": 3,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 972996,
+      "num": 449657,
+      "word": "易烊千玺给网站续约",
+      "onboard_time": 1680249206,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 958600,
@@ -1731,6 +1739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 733233,
+      "num": 733233,
+      "word": "网友称妹妹被母亲强行送去戒网学校",
+      "onboard_time": 1680245606,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 732540,
       "num": 732540,
       "word": "广东人快要发霉了",
@@ -1873,6 +1889,14 @@
       "onboard_time": 1680162387,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 683532,
+      "num": 683532,
+      "word": "刘浩存新片首映礼哭了",
+      "onboard_time": 1680246446,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 682891,
@@ -2523,6 +2547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 547924,
+      "num": 547924,
+      "word": "日本外相将访华",
+      "onboard_time": 1680248363,
+      "rank": 5,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 547805,
       "num": 547805,
       "word": "谢娜或将以选手身份参加乘风破浪4",
@@ -2603,14 +2635,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 527489,
-      "num": 527489,
-      "word": "刘浩存新片首映礼哭了",
-      "onboard_time": 1680246446,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 526679,
       "num": 526679,
       "word": "一个演员拼到最后拼的是文化",
@@ -2657,6 +2681,14 @@
       "onboard_time": 1680158485,
       "rank": 7,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 520213,
+      "num": 520213,
+      "word": "玉骨遥梦中的那片海暂定Q2播出",
+      "onboard_time": 1680247345,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 518773,
@@ -2841,14 +2873,6 @@
       "onboard_time": 1679902651,
       "rank": 15,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 493219,
-      "num": 493219,
-      "word": "网友称妹妹被母亲强行送去戒网学校",
-      "onboard_time": 1680245606,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 492851,
@@ -3531,6 +3555,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 406936,
+      "num": 406936,
+      "word": "模仿犯",
+      "onboard_time": 1680247227,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 405398,
       "num": 405398,
       "word": "网传2023星光大赏名单",
@@ -3657,6 +3689,14 @@
       "onboard_time": 1679835387,
       "rank": 9,
       "category": "科技"
+    },
+    {
+      "raw_hot": 397510,
+      "num": 397510,
+      "word": "吴磊周雨彤扫楼",
+      "onboard_time": 1680250824,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 396450,
@@ -3835,6 +3875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 377261,
+      "num": 377261,
+      "word": "孙茜牵儿子走秀",
+      "onboard_time": 1680246565,
+      "rank": 32,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 377114,
       "num": 377114,
       "word": "龚俊严浩翔聊天",
@@ -3963,6 +4011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 365319,
+      "num": 365319,
+      "word": "马斯克或将来中国",
+      "onboard_time": 1680247945,
+      "rank": 48,
+      "category": "科技"
+    },
+    {
       "raw_hot": 364795,
       "num": 364795,
       "word": "减脂餐狗都不吃",
@@ -3985,6 +4041,14 @@
       "onboard_time": 1680091768,
       "rank": 16,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 360506,
+      "num": 360506,
+      "word": "考上编制的熊猫",
+      "onboard_time": 1680248664,
+      "rank": 18,
+      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 360022,
@@ -4113,14 +4177,6 @@
       "onboard_time": 1680048867,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 346174,
-      "num": 346174,
-      "word": "孙茜牵儿子走秀",
-      "onboard_time": 1680246565,
-      "rank": 32,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 345581,
@@ -5467,6 +5523,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 254963,
+      "num": 254963,
+      "word": "师父出山教做鲁菜百万网友追更",
+      "onboard_time": 1680247105,
+      "rank": 37,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 254917,
       "num": 254917,
       "word": "蔡徐坤出发欧洲",
@@ -5505,14 +5569,6 @@
       "onboard_time": 1679999668,
       "rank": 36,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 253157,
-      "num": 218100,
-      "word": "玉骨遥梦中的那片海暂定Q2播出",
-      "onboard_time": 1680247345,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 252770,
@@ -5681,6 +5737,14 @@
       "onboard_time": 1679882308,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 240490,
+      "num": 240490,
+      "word": "你不能说狮子座不行",
+      "onboard_time": 1680246565,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 240322,
@@ -6427,6 +6491,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 208206,
+      "num": 208206,
+      "word": "李龙馥LikeCrazy舞蹈挑战",
+      "onboard_time": 1680250465,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 207598,
       "num": 207598,
       "word": "未来巴中145分钟飙拢成都",
@@ -6593,6 +6665,14 @@
       "onboard_time": 1680132922,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 203939,
+      "num": 203939,
+      "word": "不婚族的6个心理事实",
+      "onboard_time": 1680249866,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 203743,
@@ -7347,6 +7427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188425,
+      "num": 188425,
+      "word": "白鹿四月进组",
+      "onboard_time": 1680249625,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 188415,
       "num": 188415,
       "word": "2023年清朗专项行动",
@@ -7433,6 +7521,14 @@
       "onboard_time": 1679973928,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 186407,
+      "num": 186407,
+      "word": "王子文闲庭竹影封面",
+      "onboard_time": 1680250226,
+      "rank": 27,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 186177,
@@ -7633,14 +7729,6 @@
       "onboard_time": 1680233788,
       "rank": 33,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 180447,
-      "num": 180447,
-      "word": "模仿犯",
-      "onboard_time": 1680247227,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 180022,
@@ -8075,6 +8163,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 167656,
+      "num": 167656,
+      "word": "成龙郭麒麟首映现场扎马步",
+      "onboard_time": 1680249027,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 167330,
+      "num": 167330,
+      "word": "近九成学生认为毕业论文有难度",
+      "onboard_time": 1680250043,
+      "rank": 33,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 166723,
       "num": 166723,
       "word": "孟贺",
@@ -8435,6 +8539,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 153572,
+      "num": 153572,
+      "word": "张大大没有站姐",
+      "onboard_time": 1680250704,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 152879,
       "num": 152879,
       "word": "Scout获得周MVP",
@@ -8497,14 +8609,6 @@
       "onboard_time": 1680177568,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 150964,
-      "num": 150964,
-      "word": "师父出山教做鲁菜百万网友追更",
-      "onboard_time": 1680247105,
-      "rank": 37,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 150557,
@@ -8715,6 +8819,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 144616,
+      "num": 144616,
+      "word": "颁奖典礼冷场就找EXO",
+      "onboard_time": 1680248184,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 144068,
       "num": 144068,
       "word": "幸亏扎的是假手",
@@ -8745,14 +8857,6 @@
       "onboard_time": 1679827047,
       "rank": 30,
       "category": "幽默,教育"
-    },
-    {
-      "raw_hot": 143133,
-      "num": 143133,
-      "word": "你不能说狮子座不行",
-      "onboard_time": 1680246565,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 142984,
@@ -10123,14 +10227,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 97148,
-      "num": 97148,
-      "word": "马斯克或将来中国",
-      "onboard_time": 1680247945,
-      "rank": 48,
-      "category": "科技"
-    },
-    {
       "raw_hot": 97091,
       "num": 236867,
       "word": "影像旗舰为什么卷暗光长焦",
@@ -10225,6 +10321,14 @@
       "onboard_time": 1679889152,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 91963,
+      "num": 121499,
+      "word": "为什么恋爱越久包容度越低",
+      "onboard_time": 1680250945,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 91934,
@@ -10481,6 +10585,14 @@
       "onboard_time": 1680019525,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 70823,
+      "num": 767518,
+      "word": "带你共享花开烂漫时",
+      "onboard_time": 1680248546,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 70571,
@@ -10828,6 +10940,9 @@
     },
     {
       "word": "#好评中国#"
+    },
+    {
+      "word": "#为不确定的世界注入中国信心与力量#"
     }
   ]
 }
