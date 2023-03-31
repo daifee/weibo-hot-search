@@ -1,0 +1,410 @@
+{
+  "runTime": 1680302006284,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 256618,
+        "num": 256618,
+        "word": "呼叫81192",
+        "onboard_time": 1680279149,
+        "rank": 0,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 143737,
+        "num": 143737,
+        "word": "聂小雨获救",
+        "onboard_time": 1680277467,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 7411,
+        "num": 129460,
+        "word": "带你共享花开烂漫时",
+        "onboard_time": 1680248546,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122608,
+        "num": 122608,
+        "word": "张继科方将对侵权用户提起诉讼",
+        "onboard_time": 1680260966,
+        "rank": 3,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 111899,
+        "num": 111899,
+        "word": "钟南山称条件允许可不戴口罩",
+        "onboard_time": 1680257544,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104449,
+        "num": 104449,
+        "word": "华为回应什么时候可以再造5G手机",
+        "onboard_time": 1680271830,
+        "rank": 5,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 99524,
+        "num": 99524,
+        "word": "回顾张国荣生前最后一次亮相",
+        "onboard_time": 1680271050,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79120,
+        "num": 79120,
+        "word": "上海最大露天夜市重开",
+        "onboard_time": 1680288013,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75537,
+        "num": 75537,
+        "word": "Ella一家三口抵达长沙",
+        "onboard_time": 1680264147,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 66872,
+        "num": 66872,
+        "word": "年轻人为什么爱逛寺庙",
+        "onboard_time": 1680270149,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 110795,
+        "num": 66863,
+        "word": "叶一茜 森碟和亮仔都是我的宝贝",
+        "onboard_time": 1680263307,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67761,
+        "num": 66024,
+        "word": "贝儿和妹妹",
+        "onboard_time": 1680262648,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65179,
+        "num": 65179,
+        "word": "迪丽热巴微博之夜发型拆解",
+        "onboard_time": 1680261748,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 57541,
+        "num": 57541,
+        "word": "打团 暂停",
+        "onboard_time": 1680267087,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 56415,
+        "num": 56415,
+        "word": "广东人成为全国最潮的仔",
+        "onboard_time": 1680277826,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55094,
+        "num": 55094,
+        "word": "最好嗑的姐弟恋",
+        "onboard_time": 1680284176,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 52711,
+        "num": 52711,
+        "word": "熊猫也有咬不动的竹子",
+        "onboard_time": 1680279865,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 47821,
+        "num": 47821,
+        "word": "陈伟霆刘雯李沁同框",
+        "onboard_time": 1680277885,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36975,
+        "num": 47812,
+        "word": "张嘉倪为角色把舞鞋跳破",
+        "onboard_time": 1680268650,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 36010,
+        "num": 47731,
+        "word": "孟晚舟称华为向死而生怎么能不成仁",
+        "onboard_time": 1680257246,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153405,
+        "num": 47702,
+        "word": "意大利宣布禁止使用ChatGPT",
+        "onboard_time": 1680267447,
+        "rank": 20,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 122725,
+        "num": 47659,
+        "word": "你介意另一半跟前任同居过吗",
+        "onboard_time": 1680260906,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 99132,
+        "num": 47604,
+        "word": "不要再盲掏耳朵了",
+        "onboard_time": 1680275608,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 83873,
+        "num": 47548,
+        "word": "肖战微博之夜后脑勺直拍视频",
+        "onboard_time": 1680273810,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 56455,
+        "num": 47493,
+        "word": "如何看待禁止脏车入城规定",
+        "onboard_time": 1680275189,
+        "rank": 24,
+        "category": "社会议题,情感"
+      },
+      {
+        "raw_hot": 35703,
+        "num": 47422,
+        "word": "王者S31赛季即将开启",
+        "onboard_time": 1680292872,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 47404,
+        "num": 47404,
+        "word": "每天凌晨4点都要给狗一巴掌",
+        "onboard_time": 1680256765,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 44731,
+        "num": 44731,
+        "word": "男子饭店内持刀伤人致1死2伤",
+        "onboard_time": 1680271529,
+        "rank": 27,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 39180,
+        "num": 39180,
+        "word": "为什么很节俭还是存不到钱",
+        "onboard_time": 1680261565,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 36649,
+        "num": 36649,
+        "word": "他是谁赵公子背景",
+        "onboard_time": 1680264387,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 60522,
+        "num": 36337,
+        "word": "佟丽娅分享迪士尼游玩库存照",
+        "onboard_time": 1680266666,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35527,
+        "num": 35527,
+        "word": "邓超杠上卷腹变猴子捞月",
+        "onboard_time": 1680296771,
+        "rank": 31,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 34894,
+        "num": 34894,
+        "word": "网友丽江偶遇王鹤棣",
+        "onboard_time": 1680274590,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33756,
+        "num": 33756,
+        "word": "猫猫是怎么告状的",
+        "onboard_time": 1680275189,
+        "rank": 33,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 32749,
+        "num": 32749,
+        "word": "鹿晗老舅王勉做后勤演卑微打工人",
+        "onboard_time": 1680276207,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31001,
+        "num": 31001,
+        "word": "学会拒绝不属于自己的评价",
+        "onboard_time": 1680273869,
+        "rank": 35,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 30432,
+        "num": 30432,
+        "word": "唐嫣说不虚此行后会有期",
+        "onboard_time": 1680274111,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29580,
+        "num": 29580,
+        "word": "宋祖儿折腰新造型",
+        "onboard_time": 1680269608,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 29580,
+        "num": 29580,
+        "word": "鞠婧祎蓝系穿搭",
+        "onboard_time": 1680277885,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28093,
+        "num": 28093,
+        "word": "乘风破浪4",
+        "onboard_time": 1680257485,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26087,
+        "num": 26087,
+        "word": "大张伟说我甚至觉得我是凶手",
+        "onboard_time": 1680285077,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25294,
+        "num": 25294,
+        "word": "陈赫打乒乓全靠场外支援",
+        "onboard_time": 1680276207,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25137,
+        "num": 25137,
+        "word": "对美光在华销售产品启动网络安全审查",
+        "onboard_time": 1680268470,
+        "rank": 42,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 24815,
+        "num": 24815,
+        "word": "张新成以前不喜欢录综艺",
+        "onboard_time": 1680270870,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24727,
+        "num": 24727,
+        "word": "当奶奶被人问起网名",
+        "onboard_time": 1680281065,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 23496,
+        "num": 23496,
+        "word": "原神3.6",
+        "onboard_time": 1680268168,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 23158,
+        "num": 23490,
+        "word": "马嘉祺唱后来",
+        "onboard_time": 1680185788,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22465,
+        "num": 23487,
+        "word": "张艺兴公司新增体育竞赛组织业务",
+        "onboard_time": 1680272670,
+        "rank": 47,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 18538,
+        "num": 23480,
+        "word": "白术",
+        "onboard_time": 1680267386,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 14973,
+        "num": 23477,
+        "word": "忠犬八公",
+        "onboard_time": 1680272187,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#雄安新区设立6周年#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1680300960899,
+  "endTime": 1680302006284,
   "band_list": [
     {
       "raw_hot": 12970403,
@@ -11779,6 +11779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 79120,
+      "num": 79120,
+      "word": "上海最大露天夜市重开",
+      "onboard_time": 1680288013,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 78356,
       "num": 78356,
       "word": "阿不都全明星MVP",
@@ -12019,14 +12027,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 55442,
-      "num": 55442,
-      "word": "上海最大露天夜市重开",
-      "onboard_time": 1680288013,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 54236,
       "num": 54236,
       "word": "刘若英演唱会三站全部售罄",
@@ -12171,20 +12171,20 @@
       "category": "综艺,幽默"
     },
     {
+      "raw_hot": 35703,
+      "num": 47422,
+      "word": "王者S31赛季即将开启",
+      "onboard_time": 1680292872,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 35100,
       "num": 138365,
       "word": "TVB艺人组团上淘宝直播带货",
       "onboard_time": 1680091225,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 34858,
-      "num": 34858,
-      "word": "王者S31赛季即将开启",
-      "onboard_time": 1680292872,
-      "rank": 29,
-      "category": "游戏"
     },
     {
       "raw_hot": 30778,
