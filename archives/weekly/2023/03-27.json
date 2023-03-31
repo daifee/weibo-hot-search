@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1680276816385,
+  "endTime": 1680279702846,
   "band_list": [
     {
       "raw_hot": 12970403,
@@ -17,6 +17,14 @@
       "onboard_time": 1680073890,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5340159,
+      "num": 5340159,
+      "word": "邯郸车祸",
+      "onboard_time": 1680278126,
+      "rank": 0,
+      "category": "社会负面"
     },
     {
       "raw_hot": 4718675,
@@ -2723,6 +2731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 561886,
+      "num": 217422,
+      "word": "不要再盲掏耳朵了",
+      "onboard_time": 1680275608,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 561263,
       "num": 282498,
       "word": "刘亦菲微博之夜下楼梯直拍",
@@ -3563,12 +3579,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 451567,
+      "num": 451567,
+      "word": "学会拒绝不属于自己的评价",
+      "onboard_time": 1680273869,
+      "rank": 13,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 450629,
       "num": 395886,
       "word": "专家说年轻人找工作不看工资看什么",
       "onboard_time": 1680064350,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 449422,
+      "num": 449422,
+      "word": "回顾张国荣生前最后一次亮相",
+      "onboard_time": 1680271050,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 448642,
@@ -3657,14 +3689,6 @@
       "onboard_time": 1680220884,
       "rank": 11,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 443748,
-      "num": 443748,
-      "word": "学会拒绝不属于自己的评价",
-      "onboard_time": 1680273869,
-      "rank": 13,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 443242,
@@ -4747,6 +4771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 334266,
+      "num": 220847,
+      "word": "陈伟霆刘雯李沁同框",
+      "onboard_time": 1680277885,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 333841,
       "num": 322220,
       "word": "巧珍哭着跟高加林分手",
@@ -5129,14 +5161,6 @@
       "onboard_time": 1679875765,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 303193,
-      "num": 303193,
-      "word": "回顾张国荣生前最后一次亮相",
-      "onboard_time": 1680271050,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 303001,
@@ -6091,14 +6115,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 255346,
-      "num": 217422,
-      "word": "不要再盲掏耳朵了",
-      "onboard_time": 1680275608,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 255068,
       "num": 255068,
       "word": "刘宇宁重游的是哪个故地",
@@ -6379,6 +6395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 239007,
+      "num": 216551,
+      "word": "聂小雨获救",
+      "onboard_time": 1680277467,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 238449,
       "num": 238449,
       "word": "成龙透露与吴京有新片合作计划",
@@ -6409,6 +6433,14 @@
       "onboard_time": 1679977109,
       "rank": 27,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 236952,
+      "num": 236952,
+      "word": "广东人成为全国最潮的仔",
+      "onboard_time": 1680277826,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 236042,
@@ -9387,6 +9419,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 159313,
+      "num": 153728,
+      "word": "吴磊被送火烈鸟",
+      "onboard_time": 1680276327,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 159225,
       "num": 423835,
       "word": "王鹤棣沉浸式出游短片",
@@ -9577,14 +9617,6 @@
       "onboard_time": 1679985687,
       "rank": 29,
       "category": "情感"
-    },
-    {
-      "raw_hot": 153728,
-      "num": 153728,
-      "word": "吴磊被送火烈鸟",
-      "onboard_time": 1680276327,
-      "rank": 36,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 153068,
@@ -10195,6 +10227,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 136913,
+      "num": 136913,
+      "word": "鞠婧祎蓝系穿搭",
+      "onboard_time": 1680277885,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 136912,
       "num": 136912,
       "word": "虎头局辟谣破产清算",
@@ -10321,6 +10361,14 @@
       "onboard_time": 1679915971,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 132402,
+      "num": 132402,
+      "word": "猫猫是怎么告状的",
+      "onboard_time": 1680275189,
+      "rank": 46,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 132235,
@@ -10561,14 +10609,6 @@
       "onboard_time": 1680180328,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 126591,
-      "num": 126591,
-      "word": "猫猫是怎么告状的",
-      "onboard_time": 1680275189,
-      "rank": 46,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 126544,
@@ -11033,6 +11073,14 @@
       "onboard_time": 1680055706,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 111423,
+      "num": 137067,
+      "word": "呼叫81192",
+      "onboard_time": 1680279149,
+      "rank": 29,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 111238,
@@ -11675,6 +11723,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 83509,
+      "num": 83509,
+      "word": "拥有可移动的家有多自由",
+      "onboard_time": 1680273510,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 82894,
       "num": 82894,
       "word": "赵灵儿李逍遥的十年之约",
@@ -11785,6 +11841,14 @@
       "onboard_time": 1680019525,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 73066,
+      "num": 73066,
+      "word": "黄明昊演唱会花絮视频",
+      "onboard_time": 1680279507,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 70823,
