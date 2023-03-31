@@ -1,6 +1,6 @@
 {
   "startTime": 1680193469065,
-  "endTime": 1680273211059,
+  "endTime": 1680275915444,
   "band_list": [
     {
       "raw_hot": 2726093,
@@ -395,6 +395,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 730606,
+      "num": 374487,
+      "word": "网友丽江偶遇王鹤棣",
+      "onboard_time": 1680274590,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 704457,
       "num": 704457,
       "word": "男子饭店内持刀伤人致1死2伤",
@@ -409,6 +417,14 @@
       "onboard_time": 1680254124,
       "rank": 36,
       "category": "科技"
+    },
+    {
+      "raw_hot": 700068,
+      "num": 700068,
+      "word": "年轻人为什么爱逛寺庙",
+      "onboard_time": 1680270149,
+      "rank": 7,
+      "category": "情感"
     },
     {
       "raw_hot": 693074,
@@ -555,14 +571,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 595792,
-      "num": 595792,
-      "word": "年轻人为什么爱逛寺庙",
-      "onboard_time": 1680270149,
-      "rank": 7,
-      "category": "情感"
-    },
-    {
       "raw_hot": 576544,
       "num": 576544,
       "word": "纪念币",
@@ -667,12 +675,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 490347,
+      "num": 490347,
+      "word": "邯郸二中回应校园霸凌事件",
+      "onboard_time": 1680274771,
+      "rank": 3,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 489169,
       "num": 428055,
       "word": "警方通报重庆一母女被袭身亡",
       "onboard_time": 1680258987,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 485203,
+      "num": 485203,
+      "word": "唐嫣说不虚此行后会有期",
+      "onboard_time": 1680274111,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 479797,
@@ -705,6 +729,14 @@
       "onboard_time": 1680242905,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 467650,
+      "num": 467650,
+      "word": "张新成以前不喜欢录综艺",
+      "onboard_time": 1680270870,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 462943,
@@ -819,14 +851,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 425090,
-      "num": 425090,
-      "word": "张新成以前不喜欢录综艺",
-      "onboard_time": 1680270870,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 424690,
       "num": 424690,
       "word": "暖阳裤子",
@@ -899,12 +923,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 387321,
+      "num": 238914,
+      "word": "肖战微博之夜后脑勺直拍视频",
+      "onboard_time": 1680273810,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 385662,
       "num": 385662,
       "word": "林孝埈观战短道冠军赛",
       "onboard_time": 1680234148,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 382893,
+      "num": 351875,
+      "word": "学会拒绝不属于自己的评价",
+      "onboard_time": 1680273869,
+      "rank": 13,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 382097,
@@ -1099,6 +1139,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 299230,
+      "num": 299230,
+      "word": "回顾张国荣生前最后一次亮相",
+      "onboard_time": 1680271050,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 298163,
+      "num": 298163,
+      "word": "张艺兴公司新增体育竞赛组织业务",
+      "onboard_time": 1680272670,
+      "rank": 31,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 297224,
       "num": 297224,
       "word": "周杰伦2023海口演唱会加场",
@@ -1233,6 +1289,14 @@
       "onboard_time": 1680231384,
       "rank": 34,
       "category": "财经"
+    },
+    {
+      "raw_hot": 272165,
+      "num": 238066,
+      "word": "苏醒与经纪人聚餐随拍",
+      "onboard_time": 1680273630,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 271681,
@@ -1395,6 +1459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 247889,
+      "num": 247889,
+      "word": "华为回应什么时候可以再造5G手机",
+      "onboard_time": 1680271830,
+      "rank": 19,
+      "category": "科技"
+    },
+    {
       "raw_hot": 247039,
       "num": 268873,
       "word": "每个月都会收到男友送的玩偶",
@@ -1449,14 +1521,6 @@
       "onboard_time": 1680268949,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 235684,
-      "num": 235684,
-      "word": "回顾张国荣生前最后一次亮相",
-      "onboard_time": 1680271050,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 230233,
@@ -1515,12 +1579,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 221873,
-      "num": 221873,
-      "word": "张艺兴公司新增体育竞赛组织业务",
-      "onboard_time": 1680272670,
-      "rank": 31,
-      "category": "艺人,体育"
+      "raw_hot": 218070,
+      "num": 218070,
+      "word": "阿娇甜酷Girl造型",
+      "onboard_time": 1680275308,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 218068,
@@ -2115,6 +2179,22 @@
       "category": "综艺,情感"
     },
     {
+      "raw_hot": 172326,
+      "num": 172326,
+      "word": "北汽原董事长徐和谊被查",
+      "onboard_time": 1680275010,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 172111,
+      "num": 172111,
+      "word": "金晨瑞士游随拍",
+      "onboard_time": 1680274530,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 171687,
       "num": 142988,
       "word": "姚晨做福建肉燕",
@@ -2707,6 +2787,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 119550,
+      "num": 119550,
+      "word": "不要再盲掏耳朵了",
+      "onboard_time": 1680275608,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 119178,
       "num": 171351,
       "word": "三月的最后一天",
@@ -2737,6 +2825,14 @@
       "onboard_time": 1680254006,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 116658,
+      "num": 116658,
+      "word": "猫猫是怎么告状的",
+      "onboard_time": 1680275189,
+      "rank": 46,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 112685,
@@ -2849,6 +2945,14 @@
       "onboard_time": 1680247945,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 95472,
+      "num": 102264,
+      "word": "邯郸二中",
+      "onboard_time": 1680275853,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 95276,
@@ -3010,6 +3114,9 @@
     },
     {
       "word": "#为不确定的世界注入中国信心与力量#"
+    },
+    {
+      "word": "#雄安新区设立6周年#"
     }
   ]
 }
