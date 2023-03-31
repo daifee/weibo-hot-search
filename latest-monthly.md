@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/03/01 00:27:31 ~ 2023/03/31 21:21:45
+本榜单时间：2023/03/01 00:27:31 ~ 2023/03/31 21:33:14
 </p>
 </blockquote>
 <p>
@@ -4533,6 +4533,12 @@ SNH48退团成员违约金名单（热度：1161135）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%84%8F%E5%A4%A7%E5%88%A9%E5%AE%A3%E5%B8%83%E7%A6%81%E6%AD%A2%E4%BD%BF%E7%94%A8ChatGPT%23" target="weibo">
+意大利宣布禁止使用ChatGPT（热度：1134991）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%89%E7%A6%8F%E8%B7%AF%E5%B0%8F%E5%85%AC%E4%B8%BB%23" target="weibo">
 安福路小公主（热度：1134239）
 </a>
@@ -6005,12 +6011,6 @@ gemini直播（热度：975327）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%95%E5%A4%B4%E5%86%8D%E7%8E%B0%E5%B7%A5%E4%BA%BA%E8%B5%A4%E8%84%9A%E8%B8%A9%E8%85%8C%E8%8F%9C%23" target="weibo">
 汕头再现工人赤脚踩腌菜（热度：963594）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%96%97%E9%B1%BC%E5%9B%9E%E5%BA%9436%E5%B2%81%E5%A5%B3%E5%AD%90%E8%AF%B7%E5%81%87%E4%BF%9D%E8%83%8E%E9%81%AD%E8%BE%9E%E9%80%80%23" target="weibo">
-斗鱼回应36岁女子请假保胎遭辞退（热度：963083）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1680193469065,
-  "endTime": 1680268905091,
+  "endTime": 1680269594537,
   "band_list": [
     {
       "raw_hot": 2726093,
@@ -163,6 +163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1134991,
+      "num": 1134991,
+      "word": "意大利宣布禁止使用ChatGPT",
+      "onboard_time": 1680267447,
+      "rank": 1,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 1131647,
       "num": 1016899,
       "word": "黄子韬瘦了好多",
@@ -276,7 +284,7 @@
     },
     {
       "raw_hot": 857580,
-      "num": 620070,
+      "num": 724606,
       "word": "Ella一家三口抵达长沙",
       "onboard_time": 1680264147,
       "rank": 3,
@@ -353,14 +361,6 @@
       "onboard_time": 1680182550,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 744558,
-      "num": 744558,
-      "word": "意大利宣布禁止使用ChatGPT",
-      "onboard_time": 1680267447,
-      "rank": 1,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 737755,
@@ -627,6 +627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 505103,
+      "num": 505103,
+      "word": "陈赫鹿晗在邓超床头蹦迪",
+      "onboard_time": 1680267148,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 489169,
       "num": 428055,
       "word": "警方通报重庆一母女被袭身亡",
@@ -795,14 +803,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 411168,
-      "num": 411168,
-      "word": "陈赫鹿晗在邓超床头蹦迪",
-      "onboard_time": 1680267148,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 409587,
       "num": 409587,
       "word": "考上编制的熊猫",
@@ -945,6 +945,14 @@
       "onboard_time": 1680256587,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 336907,
+      "num": 336907,
+      "word": "李沁黑长直上班路透",
+      "onboard_time": 1680267867,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 336116,
@@ -1147,20 +1155,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 277282,
-      "num": 277282,
-      "word": "李沁黑长直上班路透",
-      "onboard_time": 1680267867,
-      "rank": 21,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 275738,
       "num": 226960,
       "word": "每天凌晨4点都要给狗一巴掌",
       "onboard_time": 1680256765,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 274896,
+      "num": 256873,
+      "word": "白术",
+      "onboard_time": 1680267386,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 272813,
@@ -1299,6 +1307,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 254751,
+      "num": 254751,
+      "word": "沙溢周深牵手",
+      "onboard_time": 1680268228,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 253617,
       "num": 253617,
       "word": "TES战胜WE",
@@ -1355,20 +1371,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 240442,
-      "num": 240442,
-      "word": "白术",
-      "onboard_time": 1680267386,
-      "rank": 25,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 240330,
       "num": 240330,
       "word": "海南启动全岛封关运作准备",
       "onboard_time": 1680170189,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 238449,
+      "num": 238449,
+      "word": "成龙透露与吴京有新片合作计划",
+      "onboard_time": 1680268949,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 230233,
@@ -1424,6 +1440,14 @@
       "word": "粉丝把成龙唱哭了",
       "onboard_time": 1680265167,
       "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 218032,
+      "num": 218032,
+      "word": "张嘉倪为角色把舞鞋跳破",
+      "onboard_time": 1680268650,
+      "rank": 40,
       "category": "影视"
     },
     {
@@ -1513,14 +1537,6 @@
       "onboard_time": 1680250465,
       "rank": 24,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 207891,
-      "num": 207891,
-      "word": "沙溢周深牵手",
-      "onboard_time": 1680268228,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 207240,
@@ -1657,6 +1673,14 @@
       "onboard_time": 1680246565,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 195758,
+      "num": 195758,
+      "word": "张杰和村民合唱最美的太阳",
+      "onboard_time": 1680268769,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 195257,
@@ -1803,14 +1827,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 185508,
-      "num": 185508,
-      "word": "张杰和村民合唱最美的太阳",
-      "onboard_time": 1680268769,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 184869,
       "num": 184869,
       "word": "从头看她",
@@ -1832,14 +1848,6 @@
       "word": "郭麒麟拍完龙马精神才告诉郭德纲",
       "onboard_time": 1680260547,
       "rank": 31,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 183015,
-      "num": 183015,
-      "word": "张嘉倪为角色把舞鞋跳破",
-      "onboard_time": 1680268650,
-      "rank": 40,
       "category": "影视"
     },
     {
@@ -2131,6 +2139,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 158079,
+      "num": 158079,
+      "word": "归晓的十年成长",
+      "onboard_time": 1680269550,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 157056,
       "num": 157056,
       "word": "这歌是沈腾唱的吗",
@@ -2313,6 +2329,14 @@
       "onboard_time": 1680222986,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 136047,
+      "num": 136047,
+      "word": "井柏然直播",
+      "onboard_time": 1680264805,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 135584,
@@ -2787,20 +2811,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30778,
+      "num": 395727,
+      "word": "原神 原梦冒险团",
+      "onboard_time": 1680267628,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 26666,
       "num": 26666,
       "word": "那英坏特Melody",
       "onboard_time": 1680188848,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 25643,
-      "num": 395727,
-      "word": "原神 原梦冒险团",
-      "onboard_time": 1680267628,
-      "rank": 14,
-      "category": "游戏"
     }
   ],
   "hotgov_list": [

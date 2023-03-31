@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1680268905091,
+  "endTime": 1680269594537,
   "band_list": [
     {
       "raw_hot": 12970403,
@@ -987,6 +987,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1134991,
+      "num": 1134991,
+      "word": "意大利宣布禁止使用ChatGPT",
+      "onboard_time": 1680267447,
+      "rank": 1,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 1131647,
       "num": 1016899,
       "word": "黄子韬瘦了好多",
@@ -1484,7 +1492,7 @@
     },
     {
       "raw_hot": 857580,
-      "num": 620070,
+      "num": 724606,
       "word": "Ella一家三口抵达长沙",
       "onboard_time": 1680264147,
       "rank": 3,
@@ -1785,14 +1793,6 @@
       "onboard_time": 1680147807,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 744558,
-      "num": 744558,
-      "word": "意大利宣布禁止使用ChatGPT",
-      "onboard_time": 1680267447,
-      "rank": 1,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 744213,
@@ -3043,6 +3043,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 505103,
+      "num": 505103,
+      "word": "陈赫鹿晗在邓超床头蹦迪",
+      "onboard_time": 1680267148,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 502867,
       "num": 502867,
       "word": "理想回应雷达在无人陵园显示全是人",
@@ -3801,14 +3809,6 @@
       "onboard_time": 1679979512,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 411168,
-      "num": 411168,
-      "word": "陈赫鹿晗在邓超床头蹦迪",
-      "onboard_time": 1680267148,
-      "rank": 9,
-      "category": "综艺"
     },
     {
       "raw_hot": 410418,
@@ -4585,6 +4585,14 @@
       "onboard_time": 1680190049,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 336907,
+      "num": 336907,
+      "word": "李沁黑长直上班路透",
+      "onboard_time": 1680267867,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 336824,
@@ -5523,14 +5531,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 277282,
-      "num": 277282,
-      "word": "李沁黑长直上班路透",
-      "onboard_time": 1680267867,
-      "rank": 21,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 275738,
       "num": 226960,
       "word": "每天凌晨4点都要给狗一巴掌",
@@ -5545,6 +5545,14 @@
       "onboard_time": 1680150689,
       "rank": 38,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 274896,
+      "num": 256873,
+      "word": "白术",
+      "onboard_time": 1680267386,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 274726,
@@ -5987,6 +5995,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 254751,
+      "num": 254751,
+      "word": "沙溢周深牵手",
+      "onboard_time": 1680268228,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 254696,
       "num": 254696,
       "word": "湖北省考成绩",
@@ -6187,14 +6203,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 240442,
-      "num": 240442,
-      "word": "白术",
-      "onboard_time": 1680267386,
-      "rank": 25,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 240322,
       "num": 240322,
       "word": "限定团告别演唱会的最后一首歌",
@@ -6216,6 +6224,14 @@
       "word": "吴磊水下戏拍到流鼻血",
       "onboard_time": 1679970627,
       "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 238449,
+      "num": 238449,
+      "word": "成龙透露与吴京有新片合作计划",
+      "onboard_time": 1680268949,
+      "rank": 25,
       "category": "影视"
     },
     {
@@ -6699,6 +6715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 218032,
+      "num": 218032,
+      "word": "张嘉倪为角色把舞鞋跳破",
+      "onboard_time": 1680268650,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 217961,
       "num": 217961,
       "word": "金珉奎笑容消失术",
@@ -7017,14 +7041,6 @@
       "onboard_time": 1680250465,
       "rank": 24,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 207891,
-      "num": 207891,
-      "word": "沙溢周深牵手",
-      "onboard_time": 1680268228,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 207598,
@@ -7675,6 +7691,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 195758,
+      "num": 195758,
+      "word": "张杰和村民合唱最美的太阳",
+      "onboard_time": 1680268769,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 195665,
       "num": 195665,
       "word": "勇士战胜鹈鹕",
@@ -8203,14 +8227,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 185508,
-      "num": 185508,
-      "word": "张杰和村民合唱最美的太阳",
-      "onboard_time": 1680268769,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 185505,
       "num": 185505,
       "word": "打工人早上挤地铁有多难",
@@ -8313,14 +8329,6 @@
       "onboard_time": 1680155967,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 183015,
-      "num": 183015,
-      "word": "张嘉倪为角色把舞鞋跳破",
-      "onboard_time": 1680268650,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 182703,
@@ -9179,6 +9187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 158079,
+      "num": 158079,
+      "word": "归晓的十年成长",
+      "onboard_time": 1680269550,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 157766,
       "num": 157766,
       "word": "上海60岁以上常住人口占比25%",
@@ -9937,6 +9953,14 @@
       "onboard_time": 1680001109,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 136047,
+      "num": 136047,
+      "word": "井柏然直播",
+      "onboard_time": 1680264805,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 135584,
@@ -11731,6 +11755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 30778,
+      "num": 395727,
+      "word": "原神 原梦冒险团",
+      "onboard_time": 1680267628,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 30726,
       "num": 34222,
       "word": "微博之夜百花齐放",
@@ -11753,14 +11785,6 @@
       "onboard_time": 1680121332,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 25643,
-      "num": 395727,
-      "word": "原神 原梦冒险团",
-      "onboard_time": 1680267628,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 12578,

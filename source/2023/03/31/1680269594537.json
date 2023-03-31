@@ -1,0 +1,410 @@
+{
+  "runTime": 1680269594537,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1315380,
+        "num": 1315380,
+        "word": "打团 暂停",
+        "onboard_time": 1680267087,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1134991,
+        "num": 1134991,
+        "word": "意大利宣布禁止使用ChatGPT",
+        "onboard_time": 1680267447,
+        "rank": 1,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 46224,
+        "num": 858517,
+        "word": "带你共享花开烂漫时",
+        "onboard_time": 1680248546,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 724606,
+        "num": 724606,
+        "word": "Ella一家三口抵达长沙",
+        "onboard_time": 1680264147,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 505103,
+        "num": 505103,
+        "word": "陈赫鹿晗在邓超床头蹦迪",
+        "onboard_time": 1680267148,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 501961,
+        "num": 501961,
+        "word": "迪丽热巴微博之夜发型拆解",
+        "onboard_time": 1680261748,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 500536,
+        "num": 500536,
+        "word": "原神3.6",
+        "onboard_time": 1680268168,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 427771,
+        "num": 427771,
+        "word": "张继科方将对侵权用户提起诉讼",
+        "onboard_time": 1680260966,
+        "rank": 7,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 385201,
+        "num": 385201,
+        "word": "刘三木",
+        "onboard_time": 1680265826,
+        "rank": 8,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 384068,
+        "num": 384068,
+        "word": "钟南山称条件允许可不戴口罩",
+        "onboard_time": 1680257544,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1335905,
+        "num": 380082,
+        "word": "叶一茜 森碟和亮仔都是我的宝贝",
+        "onboard_time": 1680263307,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 785334,
+        "num": 376165,
+        "word": "贝儿和妹妹",
+        "onboard_time": 1680262648,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 592467,
+        "num": 370530,
+        "word": "王鹤棣晒和王传君合照",
+        "onboard_time": 1680267087,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 579139,
+        "num": 367179,
+        "word": "佟丽娅分享迪士尼游玩库存照",
+        "onboard_time": 1680266666,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30778,
+        "num": 363305,
+        "word": "原神 原梦冒险团",
+        "onboard_time": 1680267628,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1002530,
+        "num": 356727,
+        "word": "重庆被杀害母亲怀有6个月身孕",
+        "onboard_time": 1680259408,
+        "rank": 15,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 404764,
+        "num": 352922,
+        "word": "警方通报重庆一母女被袭身亡",
+        "onboard_time": 1680258987,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348501,
+        "num": 348501,
+        "word": "短指症",
+        "onboard_time": 1680252745,
+        "rank": 17,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 336907,
+        "num": 336907,
+        "word": "李沁黑长直上班路透",
+        "onboard_time": 1680267867,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 257676,
+        "num": 257676,
+        "word": "孟晚舟称华为向死而生怎么能不成仁",
+        "onboard_time": 1680257246,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 442181,
+        "num": 256875,
+        "word": "你介意另一半跟前任同居过吗",
+        "onboard_time": 1680260906,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 274896,
+        "num": 256873,
+        "word": "白术",
+        "onboard_time": 1680267386,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 254751,
+        "num": 254751,
+        "word": "沙溢周深牵手",
+        "onboard_time": 1680268228,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 254654,
+        "num": 254654,
+        "word": "杨紫和工作室互动",
+        "onboard_time": 1680266787,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245609,
+        "num": 245609,
+        "word": "SMTOWN新CEO张哲赫",
+        "onboard_time": 1680261627,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238449,
+        "num": 238449,
+        "word": "成龙透露与吴京有新片合作计划",
+        "onboard_time": 1680268949,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 236559,
+        "num": 236559,
+        "word": "乘风破浪4",
+        "onboard_time": 1680257485,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221146,
+        "num": 221146,
+        "word": "他是谁赵公子背景",
+        "onboard_time": 1680264387,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 218032,
+        "num": 218032,
+        "word": "张嘉倪为角色把舞鞋跳破",
+        "onboard_time": 1680268650,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 202257,
+        "num": 217602,
+        "word": "对美光在华销售产品启动网络安全审查",
+        "onboard_time": 1680268470,
+        "rank": 29,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 217507,
+        "num": 217507,
+        "word": "TES战胜WE",
+        "onboard_time": 1680268470,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 206512,
+        "num": 206512,
+        "word": "朱一龙三月总结plog",
+        "onboard_time": 1680268409,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203965,
+        "num": 203965,
+        "word": "为什么很节俭还是存不到钱",
+        "onboard_time": 1680261565,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 197992,
+        "num": 202397,
+        "word": "任泉王京花企业涉非吸案",
+        "onboard_time": 1680246565,
+        "rank": 33,
+        "category": "财经,艺人"
+      },
+      {
+        "raw_hot": 201891,
+        "num": 201891,
+        "word": "暖阳 没事的我脸皮厚",
+        "onboard_time": 1680267988,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 201034,
+        "num": 201034,
+        "word": "易烊千玺给网站续约",
+        "onboard_time": 1680249206,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195758,
+        "num": 195758,
+        "word": "张杰和村民合唱最美的太阳",
+        "onboard_time": 1680268769,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195295,
+        "num": 195295,
+        "word": "4月份有望播出的电视剧",
+        "onboard_time": 1680262407,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 182338,
+        "num": 182338,
+        "word": "大侦探全员含泪海报",
+        "onboard_time": 1680262228,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177924,
+        "num": 177924,
+        "word": "原神卡维",
+        "onboard_time": 1680265527,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 174280,
+        "num": 174280,
+        "word": "每天凌晨4点都要给狗一巴掌",
+        "onboard_time": 1680256765,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 173550,
+        "num": 173550,
+        "word": "暖阳裤子",
+        "onboard_time": 1680263189,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 159278,
+        "num": 159278,
+        "word": "喻言翻唱flowers",
+        "onboard_time": 1680262047,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 158259,
+        "num": 158259,
+        "word": "华为2022年净利润356亿",
+        "onboard_time": 1680254124,
+        "rank": 43,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 158079,
+        "num": 158079,
+        "word": "归晓的十年成长",
+        "onboard_time": 1680269550,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 152785,
+        "num": 152785,
+        "word": "萌兰 发箍奶爸",
+        "onboard_time": 1680252564,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 150455,
+        "num": 150455,
+        "word": "白鹿古堡公主",
+        "onboard_time": 1680265527,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138593,
+        "num": 138593,
+        "word": "中国银行原董事长刘连舸被查",
+        "onboard_time": 1680257544,
+        "rank": 47,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 136047,
+        "num": 136047,
+        "word": "井柏然直播",
+        "onboard_time": 1680264805,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 134242,
+        "num": 134242,
+        "word": "TES对战WE",
+        "onboard_time": 1680256587,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#30秒飞阅雄安新区看新颜#"
+    }
+  }
+}
