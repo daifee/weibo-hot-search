@@ -1,0 +1,410 @@
+{
+  "runTime": 1680352213906,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1131881,
+        "num": 1131881,
+        "word": "品如艾莉都参加乘风破浪4了",
+        "onboard_time": 1680346350,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 665347,
+        "num": 665347,
+        "word": "张杰广州演唱会",
+        "onboard_time": 1680347130,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 60415,
+        "num": 592664,
+        "word": "黄河保护法今起施行",
+        "onboard_time": 1680337412,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 846131,
+        "num": 590649,
+        "word": "父母抹酒精退烧致4岁女儿住进ICU",
+        "onboard_time": 1680339813,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 587678,
+        "num": 587678,
+        "word": "上海地铁内男子嬉皮笑脸耍刀玩",
+        "onboard_time": 1680345567,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 563746,
+        "num": 563746,
+        "word": "电影营销 狗都看哭了",
+        "onboard_time": 1680350668,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 532861,
+        "num": 532861,
+        "word": "魔卡少女樱续作",
+        "onboard_time": 1680350069,
+        "rank": 6,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 455151,
+        "num": 455151,
+        "word": "华为余承东内网回应不造车决议",
+        "onboard_time": 1680347011,
+        "rank": 7,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 435973,
+        "num": 435973,
+        "word": "生理性抑郁症",
+        "onboard_time": 1680332552,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 321005,
+        "num": 321005,
+        "word": "你平时午睡吗",
+        "onboard_time": 1680350428,
+        "rank": 9,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 3583388,
+        "num": 319262,
+        "word": "张继科回应因欠债传播女演员隐私视频",
+        "onboard_time": 1680332610,
+        "rank": 10,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1106704,
+        "num": 316014,
+        "word": "景甜曾说司藤救赎了灰色世界的自己",
+        "onboard_time": 1680337293,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 659346,
+        "num": 310946,
+        "word": "迪丽热巴落肩鱼尾长裙",
+        "onboard_time": 1680346531,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 411735,
+        "num": 308784,
+        "word": "小伙偷女友近4万供女友消费",
+        "onboard_time": 1680329550,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305881,
+        "num": 305881,
+        "word": "熊猫在树上蹦迪",
+        "onboard_time": 1680348990,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 286456,
+        "num": 286456,
+        "word": "RedVelvet演唱会",
+        "onboard_time": 1680349170,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 254294,
+        "num": 254294,
+        "word": "INTO1告别演唱会泰国场",
+        "onboard_time": 1680346350,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 248950,
+        "num": 248950,
+        "word": "孙国友林场原本就有固沙植被",
+        "onboard_time": 1680345269,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226517,
+        "num": 226517,
+        "word": "张继科方将对侵权用户提起诉讼",
+        "onboard_time": 1680260966,
+        "rank": 18,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 213531,
+        "num": 225406,
+        "word": "花琉璃轶闻",
+        "onboard_time": 1680348209,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1624900,
+        "num": 225145,
+        "word": "李微敖 张继科",
+        "onboard_time": 1680326491,
+        "rank": 20,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 375309,
+        "num": 223517,
+        "word": "杨幂说一不小心回到小时候",
+        "onboard_time": 1680341551,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247572,
+        "num": 222589,
+        "word": "Irene红色缎带造型",
+        "onboard_time": 1680345748,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 227630,
+        "num": 220972,
+        "word": "最不想收到的一笔退款",
+        "onboard_time": 1680345990,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 220685,
+        "num": 220685,
+        "word": "徐冬冬自曝120斤",
+        "onboard_time": 1680335069,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215605,
+        "num": 215605,
+        "word": "顾客买小龙虾99元4斤称重仅2斤多",
+        "onboard_time": 1680343170,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205159,
+        "num": 205159,
+        "word": "赵丽颖与海鸥随拍",
+        "onboard_time": 1680346952,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204482,
+        "num": 204482,
+        "word": "时代少年团娃娃",
+        "onboard_time": 1680351750,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 201056,
+        "num": 201056,
+        "word": "乘风破浪4",
+        "onboard_time": 1680351867,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180301,
+        "num": 180301,
+        "word": "TES掉入卡位赛",
+        "onboard_time": 1680348451,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 181190,
+        "num": 179249,
+        "word": "你好星期六",
+        "onboard_time": 1680350668,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176059,
+        "num": 176059,
+        "word": "洪世贤来帮唱吗",
+        "onboard_time": 1680348209,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173078,
+        "num": 173078,
+        "word": "张国荣此间永远是少年",
+        "onboard_time": 1680351567,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172260,
+        "num": 172260,
+        "word": "张继科",
+        "onboard_time": 1680308484,
+        "rank": 33,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 159930,
+        "num": 171159,
+        "word": "这就是中国人骨子里的温良吧",
+        "onboard_time": 1680350550,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170489,
+        "num": 170489,
+        "word": "鹿晗广州",
+        "onboard_time": 1680340651,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165487,
+        "num": 165487,
+        "word": "李荣浩武汉演唱会",
+        "onboard_time": 1680348209,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 149114,
+        "num": 149114,
+        "word": "铃芽之旅 依恋关系的创伤与修复",
+        "onboard_time": 1680345210,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 143713,
+        "num": 143713,
+        "word": "谁也别想占我内存了",
+        "onboard_time": 1680348571,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 28903,
+        "num": 137679,
+        "word": "淘宝奇怪帽子上头了",
+        "onboard_time": 1680350428,
+        "rank": 39,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 145524,
+        "num": 137079,
+        "word": "王鹤棣檀健次比耶合照",
+        "onboard_time": 1680348990,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136111,
+        "num": 136111,
+        "word": "成龙说现在没有真正的功夫明星了",
+        "onboard_time": 1680339990,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 134794,
+        "num": 134794,
+        "word": "毛不易深圳演唱会",
+        "onboard_time": 1680347370,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 123249,
+        "num": 123249,
+        "word": "BLG为啥视野能这么差",
+        "onboard_time": 1680344372,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 133865,
+        "num": 122956,
+        "word": "沉舟",
+        "onboard_time": 1680351689,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 121410,
+        "num": 121410,
+        "word": "马东锡头像",
+        "onboard_time": 1680332251,
+        "rank": 45,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 109178,
+        "num": 109178,
+        "word": "成都锦城学院",
+        "onboard_time": 1680336331,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93318,
+        "num": 93318,
+        "word": "菠菜和豆腐能不能同吃",
+        "onboard_time": 1680330988,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 91164,
+        "num": 91164,
+        "word": "阿尔瓦雷斯破门",
+        "onboard_time": 1680352109,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87477,
+        "num": 87477,
+        "word": "马保国直播带货",
+        "onboard_time": 1680334828,
+        "rank": 49,
+        "category": "社会新闻,网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#雄安新区6周年#"
+    }
+  }
+}

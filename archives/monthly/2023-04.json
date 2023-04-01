@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680348805218,
+  "endTime": 1680352213906,
   "band_list": [
     {
       "raw_hot": 10740151,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 846221,
-      "num": 195711,
+      "num": 223517,
       "word": "杨幂说一不小心回到小时候",
       "onboard_time": 1680341551,
       "rank": 19,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 715134,
-      "num": 559016,
+      "num": 587678,
       "word": "上海地铁内男子嬉皮笑脸耍刀玩",
       "onboard_time": 1680345567,
       "rank": 5,
@@ -185,6 +185,14 @@
       "onboard_time": 1680312146,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 665347,
+      "num": 665347,
+      "word": "张杰广州演唱会",
+      "onboard_time": 1680347130,
+      "rank": 8,
+      "category": "音乐"
     },
     {
       "raw_hot": 646659,
@@ -259,6 +267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 563746,
+      "num": 563746,
+      "word": "电影营销 狗都看哭了",
+      "onboard_time": 1680350668,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 561886,
       "num": 172886,
       "word": "不要再盲掏耳朵了",
@@ -307,16 +323,16 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 533593,
-      "num": 533593,
-      "word": "张杰广州演唱会",
-      "onboard_time": 1680347130,
-      "rank": 8,
-      "category": "音乐"
+      "raw_hot": 532861,
+      "num": 532861,
+      "word": "魔卡少女樱续作",
+      "onboard_time": 1680350069,
+      "rank": 6,
+      "category": "动漫"
     },
     {
       "raw_hot": 525508,
-      "num": 196486,
+      "num": 220685,
       "word": "徐冬冬自曝120斤",
       "onboard_time": 1680335069,
       "rank": 22,
@@ -395,6 +411,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 455151,
+      "num": 455151,
+      "word": "华为余承东内网回应不造车决议",
+      "onboard_time": 1680347011,
+      "rank": 16,
+      "category": "科技"
+    },
+    {
       "raw_hot": 454263,
       "num": 454263,
       "word": "四月是你的谎言",
@@ -417,14 +441,6 @@
       "onboard_time": 1680340651,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 443420,
-      "num": 443420,
-      "word": "华为余承东内网回应不造车决议",
-      "onboard_time": 1680347011,
-      "rank": 16,
-      "category": "科技"
     },
     {
       "raw_hot": 443246,
@@ -524,7 +540,7 @@
     },
     {
       "raw_hot": 346174,
-      "num": 192442,
+      "num": 222589,
       "word": "Irene红色缎带造型",
       "onboard_time": 1680345748,
       "rank": 23,
@@ -603,6 +619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 321005,
+      "num": 321005,
+      "word": "你平时午睡吗",
+      "onboard_time": 1680350428,
+      "rank": 9,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 319102,
       "num": 319102,
       "word": "马保国直播带货",
@@ -617,6 +641,14 @@
       "onboard_time": 1680327689,
       "rank": 11,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 305881,
+      "num": 305881,
+      "word": "熊猫在树上蹦迪",
+      "onboard_time": 1680348990,
+      "rank": 14,
+      "category": "幽默"
     },
     {
       "raw_hot": 301943,
@@ -636,7 +668,7 @@
     },
     {
       "raw_hot": 294134,
-      "num": 187305,
+      "num": 220972,
       "word": "最不想收到的一笔退款",
       "onboard_time": 1680345990,
       "rank": 28,
@@ -644,7 +676,7 @@
     },
     {
       "raw_hot": 292973,
-      "num": 191114,
+      "num": 215605,
       "word": "顾客买小龙虾99元4斤称重仅2斤多",
       "onboard_time": 1680343170,
       "rank": 28,
@@ -665,6 +697,14 @@
       "onboard_time": 1680326491,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 286456,
+      "num": 286456,
+      "word": "RedVelvet演唱会",
+      "onboard_time": 1680349170,
+      "rank": 15,
+      "category": "音乐"
     },
     {
       "raw_hot": 285832,
@@ -787,6 +827,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 248950,
+      "num": 248950,
+      "word": "孙国友林场原本就有固沙植被",
+      "onboard_time": 1680345269,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 248015,
       "num": 194636,
       "word": "真的还是假的",
@@ -867,14 +915,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 218857,
-      "num": 218857,
-      "word": "孙国友林场原本就有固沙植被",
-      "onboard_time": 1680345269,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 218265,
       "num": 218265,
       "word": "杨幂读剧本随拍",
@@ -931,6 +971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 213531,
+      "num": 225406,
+      "word": "花琉璃轶闻",
+      "onboard_time": 1680348209,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 211936,
       "num": 211936,
       "word": "铃芽之旅",
@@ -961,6 +1009,22 @@
       "onboard_time": 1680264147,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 205159,
+      "num": 205159,
+      "word": "赵丽颖与海鸥随拍",
+      "onboard_time": 1680346952,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 204482,
+      "num": 204482,
+      "word": "时代少年团娃娃",
+      "onboard_time": 1680351750,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 203573,
@@ -1008,6 +1072,14 @@
       "word": "张新成说期待再次相见",
       "onboard_time": 1680326011,
       "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 201056,
+      "num": 201056,
+      "word": "乘风破浪4",
+      "onboard_time": 1680257485,
+      "rank": 48,
       "category": "综艺"
     },
     {
@@ -1155,14 +1227,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 187165,
-      "num": 173829,
-      "word": "赵丽颖与海鸥随拍",
-      "onboard_time": 1680346952,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 185449,
       "num": 185449,
       "word": "朱一龙四月海报",
@@ -1201,6 +1265,22 @@
       "onboard_time": 1680346350,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 181190,
+      "num": 179249,
+      "word": "你好星期六",
+      "onboard_time": 1680350668,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 180301,
+      "num": 180301,
+      "word": "TES掉入卡位赛",
+      "onboard_time": 1680348451,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 178650,
@@ -1251,6 +1331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 173078,
+      "num": 173078,
+      "word": "张国荣此间永远是少年",
+      "onboard_time": 1680351567,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170111,
       "num": 170111,
       "word": "哪些食材烹饪前必须焯水",
@@ -1273,14 +1361,6 @@
       "onboard_time": 1680328711,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 167328,
-      "num": 167328,
-      "word": "花琉璃轶闻",
-      "onboard_time": 1680348209,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 167101,
@@ -1307,6 +1387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165487,
+      "num": 165487,
+      "word": "李荣浩武汉演唱会",
+      "onboard_time": 1680348209,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 165365,
       "num": 165365,
       "word": "孔雪儿MeToo舞",
@@ -1331,20 +1419,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 164605,
-      "num": 164605,
-      "word": "李荣浩武汉演唱会",
-      "onboard_time": 1680348209,
-      "rank": 35,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 162968,
       "num": 162968,
       "word": "邓家佳演的安宁",
       "onboard_time": 1680344611,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 159930,
+      "num": 171159,
+      "word": "这就是中国人骨子里的温良吧",
+      "onboard_time": 1680350550,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 159901,
@@ -1459,12 +1547,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 145524,
+      "num": 137079,
+      "word": "王鹤棣檀健次比耶合照",
+      "onboard_time": 1680348990,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 144535,
       "num": 144535,
       "word": "孟晚舟称华为向死而生怎么能不成仁",
       "onboard_time": 1680257246,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143713,
+      "num": 143713,
+      "word": "谁也别想占我内存了",
+      "onboard_time": 1680348571,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 142448,
@@ -1579,6 +1683,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 133865,
+      "num": 122956,
+      "word": "沉舟",
+      "onboard_time": 1680351689,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 133120,
       "num": 133120,
       "word": "猫猫是怎么告状的",
@@ -1657,14 +1769,6 @@
       "onboard_time": 1680320729,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 128309,
-      "num": 128309,
-      "word": "TES掉入卡位赛",
-      "onboard_time": 1680348451,
-      "rank": 42,
-      "category": "游戏"
     },
     {
       "raw_hot": 127546,
@@ -1841,14 +1945,6 @@
       "onboard_time": 1680340171,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 108291,
-      "num": 108291,
-      "word": "谁也别想占我内存了",
-      "onboard_time": 1680348571,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 107973,
@@ -2043,6 +2139,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 91164,
+      "num": 91164,
+      "word": "阿尔瓦雷斯破门",
+      "onboard_time": 1680352109,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 90930,
       "num": 90930,
       "word": "唐嫣说迎宾小糖要先和大家说再见啦",
@@ -2121,14 +2225,6 @@
       "onboard_time": 1680268650,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 75366,
-      "num": 75366,
-      "word": "乘风破浪4",
-      "onboard_time": 1680257485,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 73066,
@@ -2257,6 +2353,14 @@
       "onboard_time": 1680261326,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28903,
+      "num": 137679,
+      "word": "淘宝奇怪帽子上头了",
+      "onboard_time": 1680350428,
+      "rank": 39,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 23161,
