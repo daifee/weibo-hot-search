@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1680355994037,
+  "endTime": 1680358438127,
   "band_list": [
     {
       "raw_hot": 12970403,
@@ -220,7 +220,7 @@
     },
     {
       "raw_hot": 2369704,
-      "num": 497227,
+      "num": 502482,
       "word": "景甜曾说司藤救赎了灰色世界的自己",
       "onboard_time": 1680337293,
       "rank": 8,
@@ -1339,6 +1339,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 984593,
+      "num": 984593,
+      "word": "招惹",
+      "onboard_time": 1680180567,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 982825,
       "num": 982825,
       "word": "孟晚舟称华为向死而生怎么能不成仁",
@@ -1795,6 +1803,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 803736,
+      "num": 803736,
+      "word": "魏无羡千杀",
+      "onboard_time": 1680356191,
+      "rank": 1,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 803715,
       "num": 794007,
       "word": "女子吃自助餐将店内甲鱼煮食",
@@ -2195,6 +2211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 696733,
+      "num": 696733,
+      "word": "今晚好多演唱会",
+      "onboard_time": 1680357569,
+      "rank": 4,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 696676,
       "num": 696676,
       "word": "千万不要在泰山顶上这样拍照",
@@ -2555,6 +2579,14 @@
       "category": "社会新闻,美妆"
     },
     {
+      "raw_hot": 623610,
+      "num": 546582,
+      "word": "生理性抑郁症",
+      "onboard_time": 1680332552,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 621038,
       "num": 621038,
       "word": "电影营销 狗都看哭了",
@@ -2585,14 +2617,6 @@
       "onboard_time": 1680065131,
       "rank": 12,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 613347,
-      "num": 613347,
-      "word": "招惹",
-      "onboard_time": 1680180567,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 613068,
@@ -3099,6 +3123,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 548420,
+      "num": 548420,
+      "word": "低欲望生活 低预算生活",
+      "onboard_time": 1680357029,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
       "raw_hot": 547924,
       "num": 547924,
       "word": "日本外相将访华",
@@ -3113,14 +3145,6 @@
       "onboard_time": 1679916571,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 546582,
-      "num": 546582,
-      "word": "生理性抑郁症",
-      "onboard_time": 1680332552,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 546377,
@@ -3827,6 +3851,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 463056,
+      "num": 463056,
+      "word": "秋穗",
+      "onboard_time": 1680354328,
+      "rank": 45,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 462943,
       "num": 462943,
       "word": "泡泡玛特 阴阳师",
@@ -4331,8 +4363,16 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 416482,
+      "num": 346308,
+      "word": "丁程鑫看张新成抱孙千的反应",
+      "onboard_time": 1680355651,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 415954,
-      "num": 339748,
+      "num": 352430,
       "word": "aespa将在东京巨蛋举办演唱会",
       "onboard_time": 1680354207,
       "rank": 30,
@@ -6099,6 +6139,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 286472,
+      "num": 231636,
+      "word": "北京电影节嘉宾",
+      "onboard_time": 1680357210,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 286456,
       "num": 286456,
       "word": "RedVelvet演唱会",
@@ -6569,14 +6617,6 @@
       "onboard_time": 1680099327,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 269205,
-      "num": 269205,
-      "word": "秋穗",
-      "onboard_time": 1680354328,
-      "rank": 45,
-      "category": "动漫"
     },
     {
       "raw_hot": 269142,
@@ -7739,6 +7779,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 218378,
+      "num": 218378,
+      "word": "王鹤棣好六再唱告白气球",
+      "onboard_time": 1680357930,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 218318,
       "num": 218318,
       "word": "战机突发故障他凭感觉成功降落山东舰",
@@ -8379,12 +8427,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 204815,
+      "num": 204815,
+      "word": "陈立农说期待再相会",
+      "onboard_time": 1680358352,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204803,
       "num": 204803,
       "word": "暖阳 没事的我脸皮厚",
       "onboard_time": 1680267988,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 204671,
+      "num": 204671,
+      "word": "秦岚张峻宁对手戏花絮",
+      "onboard_time": 1680357988,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 204482,
@@ -8923,14 +8987,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 197265,
-      "num": 197265,
-      "word": "丁程鑫看张新成抱孙千的反应",
-      "onboard_time": 1680355651,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 197151,
       "num": 197151,
       "word": "卫视报道长空之王点映活动",
@@ -9081,6 +9137,14 @@
       "onboard_time": 1680185250,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 195264,
+      "num": 195264,
+      "word": "英超联赛",
+      "onboard_time": 1680357629,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 195257,
@@ -9377,6 +9441,14 @@
       "onboard_time": 1680154765,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 190664,
+      "num": 190664,
+      "word": "徐明浩愚人节贺图",
+      "onboard_time": 1680357930,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 190531,
@@ -9707,6 +9779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 184945,
+      "num": 184945,
+      "word": "AG战胜KSG",
+      "onboard_time": 1680356728,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 184869,
       "num": 184869,
       "word": "从头看她",
@@ -9721,6 +9801,14 @@
       "onboard_time": 1680324988,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 184812,
+      "num": 184812,
+      "word": "曼城4比1利物浦",
+      "onboard_time": 1680356610,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 184788,
@@ -10531,6 +10619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 167218,
+      "num": 167218,
+      "word": "林峯在华山索道上恐高",
+      "onboard_time": 1680356129,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 167101,
       "num": 167101,
       "word": "光与夜之恋",
@@ -11216,6 +11312,14 @@
       "word": "谭松韵说今天是最美的归晓",
       "onboard_time": 1680177507,
       "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 149500,
+      "num": 149500,
+      "word": "杀死福顺",
+      "onboard_time": 1680358411,
+      "rank": 47,
       "category": "影视"
     },
     {
@@ -13049,6 +13153,14 @@
       "onboard_time": 1680142946,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105855,
+      "num": 420730,
+      "word": "罗永浩再现智能马桶名场面",
+      "onboard_time": 1680357629,
+      "rank": 14,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 105674,
