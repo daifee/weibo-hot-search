@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1680337225001,
+  "endTime": 1680338023652,
   "band_list": [
     {
       "raw_hot": 12970403,
@@ -217,6 +217,14 @@
       "onboard_time": 1680087326,
       "rank": 14,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 2369704,
+      "num": 317727,
+      "word": "景甜曾说司藤救赎了灰色世界的自己",
+      "onboard_time": 1680337293,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 2343304,
@@ -3116,7 +3124,7 @@
     },
     {
       "raw_hot": 525508,
-      "num": 184634,
+      "num": 196486,
       "word": "徐冬冬自曝120斤",
       "onboard_time": 1680335069,
       "rank": 22,
@@ -3745,6 +3753,14 @@
       "onboard_time": 1679974590,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 457893,
+      "num": 304934,
+      "word": "成都锦城学院",
+      "onboard_time": 1680336331,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 457105,
@@ -6083,6 +6099,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 277957,
+      "num": 194952,
+      "word": "孟子义泼丁程鑫裤子",
+      "onboard_time": 1680337111,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 277343,
       "num": 277343,
       "word": "孙国友女儿称事情没有解决",
@@ -6137,6 +6161,14 @@
       "onboard_time": 1680158247,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 273545,
+      "num": 273545,
+      "word": "马保国直播带货",
+      "onboard_time": 1680334828,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 273359,
@@ -6668,7 +6700,7 @@
     },
     {
       "raw_hot": 252125,
-      "num": 183600,
+      "num": 193193,
       "word": "赵丽颖愚人节视频",
       "onboard_time": 1680334470,
       "rank": 23,
@@ -6939,6 +6971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 235600,
+      "num": 235600,
+      "word": "导演说范丞丞给的惊喜太多了",
+      "onboard_time": 1680336273,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 235379,
       "num": 213240,
       "word": "郑秀妍紫色拖尾裙",
@@ -6969,14 +7009,6 @@
       "onboard_time": 1680186150,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 232256,
-      "num": 232256,
-      "word": "马保国直播带货",
-      "onboard_time": 1680334828,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 232153,
@@ -7369,14 +7401,6 @@
       "onboard_time": 1679848940,
       "rank": 10,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 220161,
-      "num": 220161,
-      "word": "成都锦城学院",
-      "onboard_time": 1680336331,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 220010,
@@ -8859,14 +8883,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 191466,
-      "num": 183035,
-      "word": "孟子义泼丁程鑫裤子",
-      "onboard_time": 1680337111,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 191326,
       "num": 191326,
       "word": "WE对战DYG",
@@ -9256,6 +9272,14 @@
       "word": "刘耀文米色短袖衬衫造型",
       "onboard_time": 1680260067,
       "rank": 26,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 184731,
+      "num": 102319,
+      "word": "杨幂红玫瑰花絮",
+      "onboard_time": 1680337653,
+      "rank": 40,
       "category": "作品衍生"
     },
     {
@@ -10209,14 +10233,6 @@
       "onboard_time": 1679906371,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 160633,
-      "num": 160633,
-      "word": "导演说范丞丞给的惊喜太多了",
-      "onboard_time": 1680336273,
-      "rank": 29,
-      "category": "影视"
     },
     {
       "raw_hot": 160486,
@@ -12163,6 +12179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 111246,
+      "num": 111246,
+      "word": "深圳DYG",
+      "onboard_time": 1680336752,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 111238,
       "num": 113574,
       "word": "伴侣之间应如何沟通交流",
@@ -12281,6 +12305,14 @@
       "onboard_time": 1680104247,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 107973,
+      "num": 107973,
+      "word": "看完铃芽之旅的后遗症",
+      "onboard_time": 1680336209,
+      "rank": 45,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 107736,
@@ -12859,14 +12891,6 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 87242,
-      "num": 87242,
-      "word": "看完铃芽之旅的后遗症",
-      "onboard_time": 1680336209,
-      "rank": 45,
-      "category": "影视,动漫"
-    },
-    {
       "raw_hot": 85804,
       "num": 85804,
       "word": "人生路不熟愚人节好好说话海报",
@@ -13027,14 +13051,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 75952,
-      "num": 75952,
-      "word": "深圳DYG",
-      "onboard_time": 1680336752,
-      "rank": 47,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 75157,
       "num": 294009,
       "word": "Note12 Turbo性能狂飙",
@@ -13097,6 +13113,22 @@
       "onboard_time": 1680122350,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 70325,
+      "num": 75944,
+      "word": "钎城的第11个国服",
+      "onboard_time": 1680337172,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 69500,
+      "num": 69500,
+      "word": "有多少真心话被当成玩笑",
+      "onboard_time": 1680337950,
+      "rank": 48,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 69135,
@@ -13177,14 +13209,6 @@
       "onboard_time": 1680117252,
       "rank": 9,
       "category": "影视"
-    },
-    {
-      "raw_hot": 64199,
-      "num": 75944,
-      "word": "钎城的第11个国服",
-      "onboard_time": 1680337172,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 63876,
@@ -13361,6 +13385,14 @@
       "onboard_time": 1680108319,
       "rank": 47,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 40057,
+      "num": 1966460,
+      "word": "黄河保护法今起施行",
+      "onboard_time": 1680337412,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 39572,

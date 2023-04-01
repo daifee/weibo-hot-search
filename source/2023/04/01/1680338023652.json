@@ -1,0 +1,410 @@
+{
+  "runTime": 1680338023652,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6778771,
+        "num": 6778771,
+        "word": "李微敖 张继科",
+        "onboard_time": 1680326491,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 4709231,
+        "num": 4709231,
+        "word": "张继科回应因欠债传播女演员隐私视频",
+        "onboard_time": 1680332610,
+        "rank": 1,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 40057,
+        "num": 1966460,
+        "word": "黄河保护法今起施行",
+        "onboard_time": 1680337412,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 780150,
+        "num": 780150,
+        "word": "生理性郁抑症",
+        "onboard_time": 1680332552,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 685544,
+        "num": 685544,
+        "word": "小伙偷女友近4万供女友消费",
+        "onboard_time": 1680329550,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 372719,
+        "num": 372719,
+        "word": "如果他还在今天28岁了",
+        "onboard_time": 1680323611,
+        "rank": 5,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 366619,
+        "num": 366619,
+        "word": "4月1至5日将出现大范围强雨雪",
+        "onboard_time": 1680318147,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321596,
+        "num": 321596,
+        "word": "菠菜和豆腐能不能同吃",
+        "onboard_time": 1680330988,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 2369704,
+        "num": 317727,
+        "word": "景甜曾说司藤救赎了灰色世界的自己",
+        "onboard_time": 1680337293,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 309165,
+        "num": 309165,
+        "word": "灿吧直播",
+        "onboard_time": 1680333329,
+        "rank": 9,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 457893,
+        "num": 304934,
+        "word": "成都锦城学院",
+        "onboard_time": 1680336331,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393958,
+        "num": 302424,
+        "word": "陈坤 白宇是真的好演员",
+        "onboard_time": 1680331411,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 299735,
+        "num": 299735,
+        "word": "张继科方将对侵权用户提起诉讼",
+        "onboard_time": 1680260966,
+        "rank": 12,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 292656,
+        "num": 292656,
+        "word": "马东锡头像",
+        "onboard_time": 1680332251,
+        "rank": 13,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 273545,
+        "num": 273545,
+        "word": "马保国直播带货",
+        "onboard_time": 1680334828,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240839,
+        "num": 240839,
+        "word": "孙龙男子1500米夺冠",
+        "onboard_time": 1680332185,
+        "rank": 15,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 235600,
+        "num": 235600,
+        "word": "导演说范丞丞给的惊喜太多了",
+        "onboard_time": 1680336273,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 216690,
+        "num": 216690,
+        "word": "水瓶座很爱切断社交",
+        "onboard_time": 1680322048,
+        "rank": 17,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 203301,
+        "num": 203301,
+        "word": "电影消失的她",
+        "onboard_time": 1680336812,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203047,
+        "num": 203047,
+        "word": "吴彤说我也想好好沉淀一下",
+        "onboard_time": 1680329492,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 695240,
+        "num": 201352,
+        "word": "雅思作文 绝望的文盲",
+        "onboard_time": 1680325828,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 561101,
+        "num": 198783,
+        "word": "张继科",
+        "onboard_time": 1680308484,
+        "rank": 21,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 480258,
+        "num": 196486,
+        "word": "徐冬冬自曝120斤",
+        "onboard_time": 1680335069,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277957,
+        "num": 194952,
+        "word": "孟子义泼丁程鑫裤子",
+        "onboard_time": 1680337111,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247394,
+        "num": 193193,
+        "word": "赵丽颖愚人节视频",
+        "onboard_time": 1680334470,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191888,
+        "num": 191888,
+        "word": "湖人罚球数",
+        "onboard_time": 1680335371,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158676,
+        "num": 158676,
+        "word": "泰国45天免签和30天落地签临时政策已截止",
+        "onboard_time": 1680319292,
+        "rank": 26,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 154100,
+        "num": 154100,
+        "word": "肖战玉骨遥侧颜路透",
+        "onboard_time": 1680328351,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 151843,
+        "num": 151843,
+        "word": "魔卡少女樱",
+        "onboard_time": 1680314666,
+        "rank": 28,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 146048,
+        "num": 146048,
+        "word": "宁静想念张国荣",
+        "onboard_time": 1680333568,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135069,
+        "num": 135069,
+        "word": "原神愚人节整活",
+        "onboard_time": 1680327689,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 130858,
+        "num": 130858,
+        "word": "消失的她剧照消失",
+        "onboard_time": 1680331470,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 125291,
+        "num": 125291,
+        "word": "延禧攻略剧组集体等秦岚新剧开播",
+        "onboard_time": 1680330452,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 115494,
+        "num": 115494,
+        "word": "KPL选手们的国服有多卷",
+        "onboard_time": 1680333030,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 113446,
+        "num": 113446,
+        "word": "T1对战GEN",
+        "onboard_time": 1680333030,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 111246,
+        "num": 111246,
+        "word": "深圳DYG",
+        "onboard_time": 1680336752,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 110328,
+        "num": 110328,
+        "word": "宫胁咲良刘海",
+        "onboard_time": 1680326491,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107973,
+        "num": 107973,
+        "word": "看完铃芽之旅的后遗症",
+        "onboard_time": 1680336209,
+        "rank": 37,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 106947,
+        "num": 106947,
+        "word": "李亚玲道歉声明",
+        "onboard_time": 1680323190,
+        "rank": 38,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 102331,
+        "num": 102331,
+        "word": "江苏事业单位",
+        "onboard_time": 1680322471,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 184731,
+        "num": 102319,
+        "word": "杨幂红玫瑰花絮",
+        "onboard_time": 1680337653,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 102286,
+        "num": 102286,
+        "word": "猫咪调摄像头向主人告状",
+        "onboard_time": 1680321331,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 98447,
+        "num": 98447,
+        "word": "九年前的郑秀晶",
+        "onboard_time": 1680319350,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90047,
+        "num": 90047,
+        "word": "桃花坞3开录全员丽江打卡",
+        "onboard_time": 1680320429,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90031,
+        "num": 90031,
+        "word": "张国荣",
+        "onboard_time": 1680305961,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88003,
+        "num": 88003,
+        "word": "2023LCK",
+        "onboard_time": 1680336932,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 84506,
+        "num": 84506,
+        "word": "福建漳州老人",
+        "onboard_time": 1680322471,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70325,
+        "num": 70325,
+        "word": "钎城的第11个国服",
+        "onboard_time": 1680337172,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 69500,
+        "num": 69500,
+        "word": "有多少真心话被当成玩笑",
+        "onboard_time": 1680337950,
+        "rank": 48,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 66003,
+        "num": 66003,
+        "word": "华晨宇武汉演唱会门票秒售罄",
+        "onboard_time": 1680335549,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#雄安新区6周年#"
+    }
+  }
+}
