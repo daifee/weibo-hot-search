@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1680345195007,
+  "endTime": 1680347609263,
   "band_list": [
     {
       "raw_hot": 12970403,
@@ -1164,7 +1164,7 @@
     },
     {
       "raw_hot": 1090171,
-      "num": 730603,
+      "num": 807336,
       "word": "父母抹酒精退烧致4岁女儿住进ICU",
       "onboard_time": 1680339813,
       "rank": 6,
@@ -1185,6 +1185,14 @@
       "onboard_time": 1679878824,
       "rank": 3,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1071951,
+      "num": 1071951,
+      "word": "品如艾莉都参加乘风破浪4了",
+      "onboard_time": 1680346350,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 1071094,
@@ -1644,7 +1652,7 @@
     },
     {
       "raw_hot": 846221,
-      "num": 177437,
+      "num": 195711,
       "word": "杨幂说一不小心回到小时候",
       "onboard_time": 1680341551,
       "rank": 19,
@@ -2979,6 +2987,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 559016,
+      "num": 559016,
+      "word": "上海地铁内男子嬉皮笑脸耍刀玩",
+      "onboard_time": 1680345567,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 557953,
       "num": 557953,
       "word": "网友用华为和库克合照",
@@ -3956,7 +3972,7 @@
     },
     {
       "raw_hot": 447729,
-      "num": 177281,
+      "num": 188698,
       "word": "鹿晗广州",
       "onboard_time": 1680340651,
       "rank": 25,
@@ -4017,6 +4033,14 @@
       "onboard_time": 1680220884,
       "rank": 11,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 443246,
+      "num": 443246,
+      "word": "INTO1告别演唱会泰国场",
+      "onboard_time": 1680346350,
+      "rank": 7,
+      "category": "音乐"
     },
     {
       "raw_hot": 443242,
@@ -4104,6 +4128,14 @@
       "word": "小说里的少年感",
       "onboard_time": 1680008365,
       "rank": 12,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 424942,
+      "num": 269891,
+      "word": "迪丽热巴落肩鱼尾长裙",
+      "onboard_time": 1680346531,
+      "rank": 11,
       "category": "作品衍生"
     },
     {
@@ -5179,6 +5211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 334380,
+      "num": 269719,
+      "word": "时代少年团的愚人节vlog",
+      "onboard_time": 1680345390,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 334266,
       "num": 247250,
       "word": "陈伟霆刘雯李沁同框",
@@ -5371,6 +5411,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 320665,
+      "num": 192442,
+      "word": "Irene红色缎带造型",
+      "onboard_time": 1680345748,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 319679,
       "num": 205315,
       "word": "丫丫",
@@ -5441,6 +5489,14 @@
       "onboard_time": 1679893060,
       "rank": 17,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 313679,
+      "num": 313679,
+      "word": "张杰广州演唱会",
+      "onboard_time": 1680347130,
+      "rank": 8,
+      "category": "音乐"
     },
     {
       "raw_hot": 313141,
@@ -5777,6 +5833,14 @@
       "onboard_time": 1680088467,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 292973,
+      "num": 191114,
+      "word": "顾客买小龙虾99元4斤称重仅2斤多",
+      "onboard_time": 1680343170,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 292864,
@@ -6177,14 +6241,6 @@
       "onboard_time": 1680320609,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 275808,
-      "num": 176975,
-      "word": "顾客买小龙虾99元4斤称重仅2斤多",
-      "onboard_time": 1680343170,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 275738,
@@ -6763,6 +6819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 251746,
+      "num": 233702,
+      "word": "铃芽之旅 依恋关系的创伤与修复",
+      "onboard_time": 1680345210,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 251483,
       "num": 251483,
       "word": "鸡让广东人吃明白了",
@@ -6913,6 +6977,14 @@
       "onboard_time": 1680244944,
       "rank": 24,
       "category": "情感,科技"
+    },
+    {
+      "raw_hot": 242964,
+      "num": 185414,
+      "word": "最不想收到的一笔退款",
+      "onboard_time": 1680345990,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 242925,
@@ -7097,6 +7169,14 @@
       "onboard_time": 1679978732,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 230289,
+      "num": 183063,
+      "word": "BLG为啥视野能这么差",
+      "onboard_time": 1680344372,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 230233,
@@ -7307,6 +7387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 225204,
+      "num": 225204,
+      "word": "华为余承东内网回应不造车决议",
+      "onboard_time": 1680347011,
+      "rank": 16,
+      "category": "科技"
+    },
+    {
       "raw_hot": 224623,
       "num": 224623,
       "word": "宋雨琦宫廷风造型",
@@ -7473,6 +7561,14 @@
       "onboard_time": 1680180689,
       "rank": 25,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 219723,
+      "num": 219723,
+      "word": "发烧擦酒精",
+      "onboard_time": 1680343649,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 219002,
@@ -7707,14 +7803,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 212964,
-      "num": 176583,
-      "word": "BLG为啥视野能这么差",
-      "onboard_time": 1680344372,
-      "rank": 30,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 212604,
       "num": 212604,
       "word": "发工资前后的你",
@@ -7843,6 +7931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 210349,
+      "num": 184585,
+      "word": "罗云熙宋轶新剧已在横店置景",
+      "onboard_time": 1680344372,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 209859,
       "num": 209859,
       "word": "刘亦菲肖战张若昀微博品质演员",
@@ -7889,14 +7985,6 @@
       "onboard_time": 1680218059,
       "rank": 16,
       "category": "情感"
-    },
-    {
-      "raw_hot": 208585,
-      "num": 208585,
-      "word": "发烧擦酒精",
-      "onboard_time": 1680343649,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 208419,
@@ -8611,6 +8699,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 197309,
+      "num": 197309,
+      "word": "T1晋级MSI",
+      "onboard_time": 1680344372,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 197285,
       "num": 197285,
       "word": "杨玏镜头下的江门",
@@ -8993,14 +9089,6 @@
       "onboard_time": 1679842169,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 191399,
-      "num": 191399,
-      "word": "T1晋级MSI",
-      "onboard_time": 1680344372,
-      "rank": 13,
-      "category": "游戏"
     },
     {
       "raw_hot": 191326,
@@ -9499,6 +9587,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 182346,
+      "num": 182346,
+      "word": "白敬亭春日海边随拍",
+      "onboard_time": 1680346350,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 182265,
       "num": 182265,
       "word": "留学生外国街头放汉服秀惊艳路人",
@@ -9577,14 +9673,6 @@
       "onboard_time": 1680070650,
       "rank": 47,
       "category": "科技"
-    },
-    {
-      "raw_hot": 180953,
-      "num": 176692,
-      "word": "罗云熙宋轶新剧已在横店置景",
-      "onboard_time": 1680344372,
-      "rank": 29,
-      "category": "影视"
     },
     {
       "raw_hot": 180825,
@@ -10659,6 +10747,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 154555,
+      "num": 154555,
+      "word": "孙国友林场原本就有固沙植被",
+      "onboard_time": 1680345269,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154291,
       "num": 154291,
       "word": "狗狗的想法",
@@ -11081,6 +11177,14 @@
       "onboard_time": 1680219561,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 142054,
+      "num": 142054,
+      "word": "赵丽颖与海鸥随拍",
+      "onboard_time": 1680346952,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 141998,
@@ -11667,6 +11771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129708,
+      "num": 129708,
+      "word": "毛不易深圳演唱会",
+      "onboard_time": 1680347370,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 129565,
       "num": 129565,
       "word": "矿大未落实捐款校友正在筹备新基金",
@@ -11696,6 +11808,14 @@
       "word": "马丽晒张婧仪周微雨海报",
       "onboard_time": 1679981909,
       "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 129159,
+      "num": 129159,
+      "word": "让郭帆付钱的电影",
+      "onboard_time": 1680347070,
+      "rank": 42,
       "category": "影视"
     },
     {
@@ -11777,6 +11897,14 @@
       "onboard_time": 1680018026,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 128081,
+      "num": 128081,
+      "word": "KPL",
+      "onboard_time": 1680347429,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 127752,
@@ -12169,6 +12297,14 @@
       "onboard_time": 1680049588,
       "rank": 43,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 120069,
+      "num": 120069,
+      "word": "曼城vs利物浦",
+      "onboard_time": 1680346228,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 120016,
