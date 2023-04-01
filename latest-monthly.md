@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/04/01 00:21:42 ~ 2023/04/02 02:33:26
+本榜单时间：2023/04/01 00:21:42 ~ 2023/04/02 03:12:37
 </p>
 </blockquote>
 <p>
@@ -2129,6 +2129,12 @@ BLG对战RNG（热度：92885）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B7%98%E5%AE%9D%E7%8B%AC%E6%92%AD%E5%93%A5%E5%93%A5%E7%BA%AA%E5%BF%B5%E9%9F%B3%E4%B9%90%E4%BC%9A%23" target="weibo">
 淘宝独播哥哥纪念音乐会（热度：50149）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%8B%E5%B8%88%E7%A7%B0%E4%BC%A0%E6%92%AD%E4%BB%96%E4%BA%BA%E7%A7%81%E5%AF%86%E8%A7%86%E9%A2%91%E6%88%96%E6%8B%85%E5%88%91%E8%B4%A3%23" target="weibo">
+律师称传播他人私密视频或担刑责（热度：42719）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680374006413,
+  "endTime": 1680376357515,
   "band_list": [
     {
       "raw_hot": 10740151,
@@ -2825,6 +2825,14 @@
       "onboard_time": 1680343229,
       "rank": 39,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 42719,
+      "num": 42719,
+      "word": "律师称传播他人私密视频或担刑责",
+      "onboard_time": 1680375134,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 37796,

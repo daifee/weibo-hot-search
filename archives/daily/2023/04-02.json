@@ -1,6 +1,6 @@
 {
   "startTime": 1680366074129,
-  "endTime": 1680374006413,
+  "endTime": 1680376357515,
   "band_list": [
     {
       "raw_hot": 1696151,
@@ -424,6 +424,14 @@
       "word": "桃花映日出迎接四月",
       "onboard_time": 1680360451,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 42719,
+      "num": 42719,
+      "word": "律师称传播他人私密视频或担刑责",
+      "onboard_time": 1680375134,
+      "rank": 24,
       "category": "社会新闻"
     }
   ],
