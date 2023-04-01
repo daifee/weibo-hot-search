@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1680316357382,
+  "endTime": 1680316911592,
   "band_list": [
     {
       "raw_hot": 12970403,
@@ -1827,6 +1827,14 @@
       "category": "幽默,社会新闻"
     },
     {
+      "raw_hot": 752064,
+      "num": 502742,
+      "word": "景甜",
+      "onboard_time": 1680316646,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 751490,
       "num": 751490,
       "word": "邯郸二中回应校园霸凌事件",
@@ -2603,6 +2611,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 593416,
+      "num": 172051,
+      "word": "魔卡少女樱",
+      "onboard_time": 1680314666,
+      "rank": 20,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 592006,
       "num": 592006,
       "word": "他是谁割喉案凶手锁定",
@@ -2793,14 +2809,6 @@
       "onboard_time": 1679930013,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 567269,
-      "num": 172051,
-      "word": "魔卡少女樱",
-      "onboard_time": 1680314666,
-      "rank": 20,
-      "category": "动漫"
     },
     {
       "raw_hot": 563721,
@@ -3611,6 +3619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 455702,
+      "num": 455702,
+      "word": "不是所有人都适合午睡",
+      "onboard_time": 1680310765,
+      "rank": 8,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 455416,
       "num": 455416,
       "word": "BLG官宣Tabe加入",
@@ -3641,14 +3657,6 @@
       "onboard_time": 1680176966,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 454387,
-      "num": 454387,
-      "word": "不是所有人都适合午睡",
-      "onboard_time": 1680310765,
-      "rank": 8,
-      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 454263,
@@ -4507,6 +4515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 368482,
+      "num": 172027,
+      "word": "王鹤棣站姐发了meiko",
+      "onboard_time": 1680313647,
+      "rank": 21,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 368343,
       "num": 368343,
       "word": "景区回应女子给猴子喂食被掌掴",
@@ -4553,14 +4569,6 @@
       "onboard_time": 1680091768,
       "rank": 16,
       "category": "艺人,综艺"
-    },
-    {
-      "raw_hot": 360561,
-      "num": 172027,
-      "word": "王鹤棣站姐发了meiko",
-      "onboard_time": 1680313647,
-      "rank": 21,
-      "category": "艺人,游戏"
     },
     {
       "raw_hot": 360022,
@@ -5043,6 +5051,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 322412,
+      "num": 322412,
+      "word": "浓眉崴脚",
+      "onboard_time": 1680314486,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 322247,
       "num": 322247,
       "word": "男子放巨型风筝反被带上天",
@@ -5385,14 +5401,6 @@
       "onboard_time": 1679985207,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 297245,
-      "num": 222480,
-      "word": "浓眉崴脚",
-      "onboard_time": 1680314486,
-      "rank": 11,
-      "category": "体育"
     },
     {
       "raw_hot": 297224,
@@ -6123,6 +6131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 263260,
+      "num": 171979,
+      "word": "12岁男生要跟张三丰学太极背剑出走",
+      "onboard_time": 1680314426,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 262184,
       "num": 262184,
       "word": "王子浩三公",
@@ -6345,14 +6361,6 @@
       "onboard_time": 1679999668,
       "rank": 36,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 254064,
-      "num": 171979,
-      "word": "12岁男生要跟张三丰学太极背剑出走",
-      "onboard_time": 1680314426,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 253617,
@@ -6824,6 +6832,22 @@
       "word": "白鹿黑色挂脖长裙随拍",
       "onboard_time": 1679993248,
       "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 226025,
+      "num": 226025,
+      "word": "朱洁静星黛露跳芭蕾",
+      "onboard_time": 1680315267,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 225977,
+      "num": 170830,
+      "word": "舒淇念张国荣",
+      "onboard_time": 1680315267,
+      "rank": 29,
       "category": "艺人"
     },
     {
@@ -7491,14 +7515,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 206707,
-      "num": 206707,
-      "word": "朱洁静星黛露跳芭蕾",
-      "onboard_time": 1680315267,
-      "rank": 12,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 206686,
       "num": 206686,
       "word": "丝棉木",
@@ -7977,14 +7993,6 @@
       "onboard_time": 1680096389,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 197749,
-      "num": 152526,
-      "word": "舒淇念张国荣",
-      "onboard_time": 1680315267,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 197663,
@@ -9363,6 +9371,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 170097,
+      "num": 170097,
+      "word": "保姆推搡8旬老人还让其吃排泄物",
+      "onboard_time": 1680316347,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169958,
       "num": 169958,
       "word": "了不起的夜晚",
@@ -10355,6 +10371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141044,
+      "num": 141044,
+      "word": "湖人vs森林狼",
+      "onboard_time": 1680313349,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141022,
       "num": 141022,
       "word": "贵州村BA总决赛",
@@ -11075,14 +11099,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 123323,
-      "num": 123323,
-      "word": "湖人vs森林狼",
-      "onboard_time": 1680313349,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 123283,
       "num": 123283,
       "word": "口腔溃疡6种情况需就医",
@@ -11347,6 +11363,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 114168,
+      "num": 114168,
+      "word": "周冬雨南瓜妆",
+      "onboard_time": 1680316709,
+      "rank": 41,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 114124,
       "num": 114124,
       "word": "VG对战EDGM",
@@ -11369,14 +11393,6 @@
       "onboard_time": 1680292872,
       "rank": 29,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 113477,
-      "num": 113477,
-      "word": "保姆推搡8旬老人还让其吃排泄物",
-      "onboard_time": 1680316347,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 113370,
@@ -11673,6 +11689,14 @@
       "onboard_time": 1680154406,
       "rank": 49,
       "category": "社会议题,情感"
+    },
+    {
+      "raw_hot": 104534,
+      "num": 104534,
+      "word": "范丞丞白鹿周深撕名牌路透",
+      "onboard_time": 1680316469,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 103852,

@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680316357382,
+  "endTime": 1680316911592,
   "band_list": [
     {
       "raw_hot": 7084987,
@@ -32,6 +32,14 @@
       "word": "唐鹤德 夜阑静有谁共鸣",
       "onboard_time": 1680309506,
       "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 752064,
+      "num": 502742,
+      "word": "景甜",
+      "onboard_time": 1680316646,
+      "rank": 4,
       "category": "艺人"
     },
     {
@@ -83,7 +91,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 567269,
+      "raw_hot": 593416,
       "num": 172051,
       "word": "魔卡少女樱",
       "onboard_time": 1680314666,
@@ -139,8 +147,8 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 454387,
-      "num": 454387,
+      "raw_hot": 455702,
+      "num": 455702,
       "word": "不是所有人都适合午睡",
       "onboard_time": 1680310765,
       "rank": 8,
@@ -187,7 +195,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 360561,
+      "raw_hot": 368482,
       "num": 172027,
       "word": "王鹤棣站姐发了meiko",
       "onboard_time": 1680313647,
@@ -227,20 +235,20 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 322412,
+      "num": 322412,
+      "word": "浓眉崴脚",
+      "onboard_time": 1680314486,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 298574,
       "num": 298574,
       "word": "聂小雨获救",
       "onboard_time": 1680277467,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 297245,
-      "num": 222480,
-      "word": "浓眉崴脚",
-      "onboard_time": 1680314486,
-      "rank": 11,
-      "category": "体育"
     },
     {
       "raw_hot": 291649,
@@ -283,6 +291,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 263260,
+      "num": 171979,
+      "word": "12岁男生要跟张三丰学太极背剑出走",
+      "onboard_time": 1680314426,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 259213,
       "num": 171195,
       "word": "肖战微博之夜后脑勺直拍视频",
@@ -291,20 +307,28 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 254064,
-      "num": 171979,
-      "word": "12岁男生要跟张三丰学太极背剑出走",
-      "onboard_time": 1680314426,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 250318,
       "num": 250318,
       "word": "愚人节贺图",
       "onboard_time": 1680306319,
       "rank": 13,
       "category": "情感"
+    },
+    {
+      "raw_hot": 226025,
+      "num": 226025,
+      "word": "朱洁静星黛露跳芭蕾",
+      "onboard_time": 1680315267,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 225977,
+      "num": 170830,
+      "word": "舒淇念张国荣",
+      "onboard_time": 1680315267,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 217215,
@@ -355,14 +379,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 206707,
-      "num": 206707,
-      "word": "朱洁静星黛露跳芭蕾",
-      "onboard_time": 1680315267,
-      "rank": 12,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 202004,
       "num": 202004,
       "word": "陈赫打乒乓全靠场外支援",
@@ -385,14 +401,6 @@
       "onboard_time": 1680304638,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 197749,
-      "num": 152526,
-      "word": "舒淇念张国荣",
-      "onboard_time": 1680315267,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 196905,
@@ -441,6 +449,14 @@
       "onboard_time": 1680310286,
       "rank": 26,
       "category": "美食"
+    },
+    {
+      "raw_hot": 170097,
+      "num": 170097,
+      "word": "保姆推搡8旬老人还让其吃排泄物",
+      "onboard_time": 1680316347,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 168846,
@@ -539,6 +555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141044,
+      "num": 141044,
+      "word": "湖人vs森林狼",
+      "onboard_time": 1680313349,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140379,
       "num": 140379,
       "word": "宋祖儿折腰新造型",
@@ -603,14 +627,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 123323,
-      "num": 123323,
-      "word": "湖人vs森林狼",
-      "onboard_time": 1680313349,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 121149,
       "num": 121149,
       "word": "阿尔德里奇正式退役",
@@ -627,6 +643,14 @@
       "category": "社会议题,情感"
     },
     {
+      "raw_hot": 114168,
+      "num": 114168,
+      "word": "周冬雨南瓜妆",
+      "onboard_time": 1680316709,
+      "rank": 41,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 113783,
       "num": 113783,
       "word": "王者S31赛季即将开启",
@@ -635,20 +659,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 113477,
-      "num": 113477,
-      "word": "保姆推搡8旬老人还让其吃排泄物",
-      "onboard_time": 1680316347,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 111016,
       "num": 111016,
       "word": "为什么很节俭还是存不到钱",
       "onboard_time": 1680261565,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 104534,
+      "num": 104534,
+      "word": "范丞丞白鹿周深撕名牌路透",
+      "onboard_time": 1680316469,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 103404,
