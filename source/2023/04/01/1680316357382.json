@@ -1,0 +1,410 @@
+{
+  "runTime": 1680316357382,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1939871,
+        "num": 1939871,
+        "word": "张国荣",
+        "onboard_time": 1680305961,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 611755,
+        "num": 611755,
+        "word": "教育局回应女孩自述曾遭校园霸凌",
+        "onboard_time": 1680310466,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18391,
+        "num": 529488,
+        "word": "带你共享花开烂漫时",
+        "onboard_time": 1680248546,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1801693,
+        "num": 528150,
+        "word": "张继科",
+        "onboard_time": 1680308484,
+        "rank": 3,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 522837,
+        "num": 522837,
+        "word": "唐鹤德 夜阑静有谁共鸣",
+        "onboard_time": 1680309506,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 454387,
+        "num": 454387,
+        "word": "不是所有人都适合午睡",
+        "onboard_time": 1680310765,
+        "rank": 5,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 434728,
+        "num": 434728,
+        "word": "杜兆才被查",
+        "onboard_time": 1680312146,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322690,
+        "num": 322690,
+        "word": "外卖不够起送价你会凑单吗",
+        "onboard_time": 1680307642,
+        "rank": 7,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 273359,
+        "num": 273359,
+        "word": "春天该很好 你若尚在场",
+        "onboard_time": 1680313227,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245793,
+        "num": 245793,
+        "word": "四月是你的谎言",
+        "onboard_time": 1680307101,
+        "rank": 9,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 371795,
+        "num": 229337,
+        "word": "韩素希说想成为宋慧乔的小狗",
+        "onboard_time": 1680307823,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 297245,
+        "num": 222480,
+        "word": "浓眉崴脚",
+        "onboard_time": 1680314486,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206707,
+        "num": 206707,
+        "word": "朱洁静星黛露跳芭蕾",
+        "onboard_time": 1680315267,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 196905,
+        "num": 196905,
+        "word": "灿烂的转身今日开播",
+        "onboard_time": 1680316167,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193831,
+        "num": 193831,
+        "word": "药神案当事人回应一审判决",
+        "onboard_time": 1680307583,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198741,
+        "num": 193573,
+        "word": "孟子义你好星期六剧照",
+        "onboard_time": 1680316225,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193280,
+        "num": 193280,
+        "word": "王伟牺牲22年了",
+        "onboard_time": 1680305299,
+        "rank": 16,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 189573,
+        "num": 189573,
+        "word": "孙国友首次回应种树破坏生态质疑",
+        "onboard_time": 1680307944,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185652,
+        "num": 185652,
+        "word": "张继科方将对侵权用户提起诉讼",
+        "onboard_time": 1680260966,
+        "rank": 18,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 172057,
+        "num": 172057,
+        "word": "愚人节",
+        "onboard_time": 1680305119,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 567269,
+        "num": 172051,
+        "word": "魔卡少女樱",
+        "onboard_time": 1680314666,
+        "rank": 20,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 360561,
+        "num": 172027,
+        "word": "王鹤棣站姐发了meiko",
+        "onboard_time": 1680313647,
+        "rank": 21,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 280268,
+        "num": 172008,
+        "word": "耳屎是怎样保护耳朵的",
+        "onboard_time": 1680314307,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 254064,
+        "num": 171979,
+        "word": "12岁男生要跟张三丰学太极背剑出走",
+        "onboard_time": 1680314426,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171974,
+        "num": 171974,
+        "word": "广东人成为全国最潮的仔",
+        "onboard_time": 1680277826,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166439,
+        "num": 166439,
+        "word": "光与夜之恋",
+        "onboard_time": 1680312927,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 241521,
+        "num": 164509,
+        "word": "意大利宣布禁止使用ChatGPT",
+        "onboard_time": 1680267447,
+        "rank": 26,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 205495,
+        "num": 162084,
+        "word": "不要再盲掏耳朵了",
+        "onboard_time": 1680275608,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 204155,
+        "num": 155126,
+        "word": "你介意另一半跟前任同居过吗",
+        "onboard_time": 1680260906,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 197749,
+        "num": 152526,
+        "word": "舒淇念张国荣",
+        "onboard_time": 1680315267,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151030,
+        "num": 151030,
+        "word": "哪些食材烹饪前必须焯水",
+        "onboard_time": 1680310286,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 150474,
+        "num": 150474,
+        "word": "忠犬八公后劲好大",
+        "onboard_time": 1680314666,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 150216,
+        "num": 150216,
+        "word": "愚人节文案",
+        "onboard_time": 1680305360,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147073,
+        "num": 147073,
+        "word": "肖战微博之夜后脑勺直拍视频",
+        "onboard_time": 1680273810,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 138857,
+        "num": 138857,
+        "word": "华为回应什么时候可以再造5G手机",
+        "onboard_time": 1680271830,
+        "rank": 34,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 137981,
+        "num": 137981,
+        "word": "宋雨琦喊李晨晨叔叔",
+        "onboard_time": 1680307944,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125945,
+        "num": 125945,
+        "word": "用古诗词解读刘亦菲",
+        "onboard_time": 1680312749,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123323,
+        "num": 123323,
+        "word": "湖人vs森林狼",
+        "onboard_time": 1680313349,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122722,
+        "num": 122722,
+        "word": "回顾张国荣生前最后一次亮相",
+        "onboard_time": 1680271050,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 116000,
+        "num": 116000,
+        "word": "同等分量面食是米饭热量的2到3倍",
+        "onboard_time": 1680303797,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113477,
+        "num": 113477,
+        "word": "保姆推搡8旬老人还让其吃排泄物",
+        "onboard_time": 1680316347,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109678,
+        "num": 109678,
+        "word": "薛之谦南宁演唱会",
+        "onboard_time": 1680312087,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 103496,
+        "num": 103496,
+        "word": "外交部回应日本外相将访华",
+        "onboard_time": 1680303797,
+        "rank": 42,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 96320,
+        "num": 96320,
+        "word": "聂小雨获救",
+        "onboard_time": 1680277467,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 92569,
+        "num": 92569,
+        "word": "王者S31赛季即将开启",
+        "onboard_time": 1680292872,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 92163,
+        "num": 92163,
+        "word": "熊猫也有咬不动的竹子",
+        "onboard_time": 1680279865,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 89864,
+        "num": 89864,
+        "word": "猫猫是怎么告状的",
+        "onboard_time": 1680275189,
+        "rank": 46,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 89028,
+        "num": 89028,
+        "word": "四月",
+        "onboard_time": 1680305119,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 73055,
+        "num": 73055,
+        "word": "巧珍马栓好甜",
+        "onboard_time": 1680307041,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 71769,
+        "num": 71769,
+        "word": "阿尔德里奇正式退役",
+        "onboard_time": 1680305660,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#雄安新区设立6周年#"
+    }
+  }
+}

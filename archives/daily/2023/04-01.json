@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680313623823,
+  "endTime": 1680316357382,
   "band_list": [
     {
       "raw_hot": 7084987,
@@ -59,6 +59,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 611755,
+      "num": 611755,
+      "word": "教育局回应女孩自述曾遭校园霸凌",
+      "onboard_time": 1680310466,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 611165,
       "num": 611165,
       "word": "呼叫81192",
@@ -75,20 +83,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 567269,
+      "num": 172051,
+      "word": "魔卡少女樱",
+      "onboard_time": 1680314666,
+      "rank": 20,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 561886,
       "num": 172886,
       "word": "不要再盲掏耳朵了",
       "onboard_time": 1680275608,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 557499,
-      "num": 557499,
-      "word": "教育局回应女孩自述曾遭校园霸凌",
-      "onboard_time": 1680310466,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 543449,
@@ -131,6 +139,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 454387,
+      "num": 454387,
+      "word": "不是所有人都适合午睡",
+      "onboard_time": 1680310765,
+      "rank": 8,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 454263,
       "num": 454263,
       "word": "四月是你的谎言",
@@ -155,14 +171,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 410567,
-      "num": 410567,
-      "word": "不是所有人都适合午睡",
-      "onboard_time": 1680310765,
-      "rank": 8,
-      "category": "情感,社会新闻"
-    },
-    {
       "raw_hot": 403446,
       "num": 173876,
       "word": "你介意另一半跟前任同居过吗",
@@ -177,6 +185,14 @@
       "onboard_time": 1680262648,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 360561,
+      "num": 172027,
+      "word": "王鹤棣站姐发了meiko",
+      "onboard_time": 1680313647,
+      "rank": 21,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 334266,
@@ -219,6 +235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 297245,
+      "num": 222480,
+      "word": "浓眉崴脚",
+      "onboard_time": 1680314486,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 291649,
       "num": 291649,
       "word": "打团 暂停",
@@ -235,6 +259,22 @@
       "category": "科技"
     },
     {
+      "raw_hot": 280268,
+      "num": 172008,
+      "word": "耳屎是怎样保护耳朵的",
+      "onboard_time": 1680314307,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 273359,
+      "num": 273359,
+      "word": "春天该很好 你若尚在场",
+      "onboard_time": 1680313227,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 271742,
       "num": 271742,
       "word": "年轻人为什么爱逛寺庙",
@@ -249,6 +289,14 @@
       "onboard_time": 1680273810,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 254064,
+      "num": 171979,
+      "word": "12岁男生要跟张三丰学太极背剑出走",
+      "onboard_time": 1680314426,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 250318,
@@ -307,11 +355,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 206707,
+      "num": 206707,
+      "word": "朱洁静星黛露跳芭蕾",
+      "onboard_time": 1680315267,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 202004,
       "num": 202004,
       "word": "陈赫打乒乓全靠场外支援",
       "onboard_time": 1680276207,
       "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 198741,
+      "num": 193573,
+      "word": "孟子义你好星期六剧照",
+      "onboard_time": 1680316225,
+      "rank": 15,
       "category": "综艺"
     },
     {
@@ -321,6 +385,22 @@
       "onboard_time": 1680304638,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197749,
+      "num": 152526,
+      "word": "舒淇念张国荣",
+      "onboard_time": 1680315267,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 196905,
+      "num": 196905,
+      "word": "灿烂的转身今日开播",
+      "onboard_time": 1680316167,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 193786,
@@ -337,14 +417,6 @@
       "onboard_time": 1680284176,
       "rank": 3,
       "category": "影视"
-    },
-    {
-      "raw_hot": 186208,
-      "num": 186208,
-      "word": "春天该很好 你若尚在场",
-      "onboard_time": 1680313227,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 182531,
@@ -435,6 +507,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 150474,
+      "num": 150474,
+      "word": "忠犬八公后劲好大",
+      "onboard_time": 1680314666,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 146037,
       "num": 146037,
       "word": "鞠婧祎蓝系穿搭",
@@ -499,6 +579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 125945,
+      "num": 125945,
+      "word": "用古诗词解读刘亦菲",
+      "onboard_time": 1680312749,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125644,
       "num": 125644,
       "word": "他是谁赵公子背景",
@@ -513,6 +601,14 @@
       "onboard_time": 1680279865,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 123323,
+      "num": 123323,
+      "word": "湖人vs森林狼",
+      "onboard_time": 1680313349,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 121149,
@@ -531,20 +627,20 @@
       "category": "社会议题,情感"
     },
     {
-      "raw_hot": 115159,
-      "num": 115159,
-      "word": "用古诗词解读刘亦菲",
-      "onboard_time": 1680312749,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 113783,
       "num": 113783,
       "word": "王者S31赛季即将开启",
       "onboard_time": 1680292872,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 113477,
+      "num": 113477,
+      "word": "保姆推搡8旬老人还让其吃排泄物",
+      "onboard_time": 1680316347,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 111016,
@@ -625,14 +721,6 @@
       "onboard_time": 1680267386,
       "rank": 41,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 93792,
-      "num": 93792,
-      "word": "湖人vs森林狼",
-      "onboard_time": 1680313349,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 92804,

@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1680313623823,
+  "endTime": 1680316357382,
   "band_list": [
     {
       "raw_hot": 12970403,
@@ -2411,6 +2411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 611755,
+      "num": 611755,
+      "word": "教育局回应女孩自述曾遭校园霸凌",
+      "onboard_time": 1680310466,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 611396,
       "num": 611396,
       "word": "那我长大了还管谁叫爷爷",
@@ -2787,6 +2795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 567269,
+      "num": 172051,
+      "word": "魔卡少女樱",
+      "onboard_time": 1680314666,
+      "rank": 20,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 563721,
       "num": 563721,
       "word": "朱洁静上海迪士尼现场热舞",
@@ -2849,14 +2865,6 @@
       "onboard_time": 1679968527,
       "rank": 6,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 557499,
-      "num": 557499,
-      "word": "教育局回应女孩自述曾遭校园霸凌",
-      "onboard_time": 1680310466,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 554742,
@@ -3635,6 +3643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 454387,
+      "num": 454387,
+      "word": "不是所有人都适合午睡",
+      "onboard_time": 1680310765,
+      "rank": 8,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 454263,
       "num": 454263,
       "word": "四月是你的谎言",
@@ -3993,14 +4009,6 @@
       "onboard_time": 1679979512,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 410567,
-      "num": 410567,
-      "word": "不是所有人都适合午睡",
-      "onboard_time": 1680310765,
-      "rank": 8,
-      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 410418,
@@ -4545,6 +4553,14 @@
       "onboard_time": 1680091768,
       "rank": 16,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 360561,
+      "num": 172027,
+      "word": "王鹤棣站姐发了meiko",
+      "onboard_time": 1680313647,
+      "rank": 21,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 360022,
@@ -5371,6 +5387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 297245,
+      "num": 222480,
+      "word": "浓眉崴脚",
+      "onboard_time": 1680314486,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 297224,
       "num": 297224,
       "word": "周杰伦2023海口演唱会加场",
@@ -5707,6 +5731,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 280268,
+      "num": 172008,
+      "word": "耳屎是怎样保护耳朵的",
+      "onboard_time": 1680314307,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 280025,
       "num": 280025,
       "word": "短道速滑冠军赛今日开战",
@@ -5833,6 +5865,14 @@
       "onboard_time": 1680158247,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 273359,
+      "num": 273359,
+      "word": "春天该很好 你若尚在场",
+      "onboard_time": 1680313227,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 273094,
@@ -6305,6 +6345,14 @@
       "onboard_time": 1679999668,
       "rank": 36,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 254064,
+      "num": 171979,
+      "word": "12岁男生要跟张三丰学太极背剑出走",
+      "onboard_time": 1680314426,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 253617,
@@ -7443,6 +7491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 206707,
+      "num": 206707,
+      "word": "朱洁静星黛露跳芭蕾",
+      "onboard_time": 1680315267,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 206686,
       "num": 206686,
       "word": "丝棉木",
@@ -7875,6 +7931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198741,
+      "num": 193573,
+      "word": "孟子义你好星期六剧照",
+      "onboard_time": 1680316225,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198472,
       "num": 198472,
       "word": "90年代刑警办案有多难",
@@ -7913,6 +7977,14 @@
       "onboard_time": 1680096389,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 197749,
+      "num": 152526,
+      "word": "舒淇念张国荣",
+      "onboard_time": 1680315267,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 197663,
@@ -7993,6 +8065,14 @@
       "onboard_time": 1680101190,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196905,
+      "num": 196905,
+      "word": "灿烂的转身今日开播",
+      "onboard_time": 1680316167,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 196822,
@@ -8593,14 +8673,6 @@
       "onboard_time": 1680250226,
       "rank": 27,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 186208,
-      "num": 186208,
-      "word": "春天该很好 你若尚在场",
-      "onboard_time": 1680313227,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 186185,
@@ -9931,6 +10003,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 150474,
+      "num": 150474,
+      "word": "忠犬八公后劲好大",
+      "onboard_time": 1680314666,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 150402,
       "num": 183900,
       "word": "山河之影今日开播",
@@ -10875,6 +10955,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 125945,
+      "num": 125945,
+      "word": "用古诗词解读刘亦菲",
+      "onboard_time": 1680312749,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125931,
       "num": 125931,
       "word": "4AM单局15淘汰",
@@ -10985,6 +11073,14 @@
       "onboard_time": 1679891504,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 123323,
+      "num": 123323,
+      "word": "湖人vs森林狼",
+      "onboard_time": 1680313349,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 123283,
@@ -11235,14 +11331,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 115159,
-      "num": 115159,
-      "word": "用古诗词解读刘亦菲",
-      "onboard_time": 1680312749,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 114959,
       "num": 114959,
       "word": "微信相关功能已恢复",
@@ -11281,6 +11369,14 @@
       "onboard_time": 1680292872,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 113477,
+      "num": 113477,
+      "word": "保姆推搡8旬老人还让其吃排泄物",
+      "onboard_time": 1680316347,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 113370,
@@ -11817,14 +11913,6 @@
       "onboard_time": 1680237331,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 93792,
-      "num": 93792,
-      "word": "湖人vs森林狼",
-      "onboard_time": 1680313349,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 93726,
