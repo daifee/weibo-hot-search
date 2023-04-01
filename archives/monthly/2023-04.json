@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680383639624,
+  "endTime": 1680384799461,
   "band_list": [
     {
       "raw_hot": 10740151,
@@ -2835,6 +2835,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 40421,
+      "num": 22845,
+      "word": "当你周末半夜突然醒来",
+      "onboard_time": 1680375016,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 37796,
       "num": 53729,
       "word": "杨洋包场范丞丞蒋龙新电影",
@@ -2889,14 +2897,6 @@
       "onboard_time": 1680261326,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 26969,
-      "num": 22845,
-      "word": "当你周末半夜突然醒来",
-      "onboard_time": 1680375016,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 23161,
