@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1680322827070,
+  "endTime": 1680323653684,
   "band_list": [
     {
       "raw_hot": 12970403,
@@ -35,8 +35,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 3833424,
-      "num": 727143,
+      "raw_hot": 4299913,
+      "num": 836746,
       "word": "景甜",
       "onboard_time": 1680316646,
       "rank": 4,
@@ -1371,6 +1371,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 910963,
+      "num": 910963,
+      "word": "泰国45天免签和30天落地签临时政策已截止",
+      "onboard_time": 1680319292,
+      "rank": 13,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 910171,
       "num": 910171,
       "word": "电视剧薄冰定档",
@@ -1529,14 +1537,6 @@
       "onboard_time": 1680074793,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 867390,
-      "num": 867390,
-      "word": "泰国45天免签和30天落地签临时政策已截止",
-      "onboard_time": 1680319292,
-      "rank": 13,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 866068,
@@ -2283,6 +2283,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 646659,
+      "num": 646659,
+      "word": "江苏事业单位",
+      "onboard_time": 1680322471,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 645184,
       "num": 645184,
       "word": "欢乐颂4出现新人物",
@@ -2987,20 +2995,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 538630,
+      "num": 538630,
+      "word": "桃花坞3开录全员丽江打卡",
+      "onboard_time": 1680320429,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 533036,
       "num": 533036,
       "word": "RNG Tabe都争取不回来",
       "onboard_time": 1680076410,
       "rank": 11,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 532027,
-      "num": 532027,
-      "word": "桃花坞3开录全员丽江打卡",
-      "onboard_time": 1680320429,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 532012,
@@ -3404,7 +3412,7 @@
     },
     {
       "raw_hot": 478943,
-      "num": 340521,
+      "num": 389999,
       "word": "黑暗荣耀",
       "onboard_time": 1680320789,
       "rank": 11,
@@ -3899,6 +3907,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 430276,
+      "num": 430276,
+      "word": "水瓶座很爱切断社交",
+      "onboard_time": 1680322048,
+      "rank": 19,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 430134,
       "num": 430134,
       "word": "王宝钏看了都得送巧珍两筐野菜",
@@ -4004,7 +4020,7 @@
     },
     {
       "raw_hot": 419670,
-      "num": 308595,
+      "num": 365236,
       "word": "张大大希望内娱百花齐放",
       "onboard_time": 1680318989,
       "rank": 43,
@@ -4292,7 +4308,7 @@
     },
     {
       "raw_hot": 392752,
-      "num": 196573,
+      "num": 198319,
       "word": "九年前的郑秀晶",
       "onboard_time": 1680319350,
       "rank": 27,
@@ -4667,6 +4683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 356596,
+      "num": 356596,
+      "word": "福建漳州老人",
+      "onboard_time": 1680322471,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 355699,
       "num": 355699,
       "word": "国产电视剧编剧的脑袋里在想什么",
@@ -4977,6 +5001,14 @@
       "onboard_time": 1680185850,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 333623,
+      "num": 333623,
+      "word": "费曼发歌名怀念张国荣",
+      "onboard_time": 1680321091,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 333085,
@@ -5523,14 +5555,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 294141,
-      "num": 294141,
-      "word": "费曼发歌名怀念张国荣",
-      "onboard_time": 1680321091,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 293961,
       "num": 293961,
       "word": "葡萄牛乳茶",
@@ -5913,14 +5937,6 @@
       "onboard_time": 1680146847,
       "rank": 35,
       "category": "科技"
-    },
-    {
-      "raw_hot": 277884,
-      "num": 368879,
-      "word": "江苏事业单位",
-      "onboard_time": 1680322471,
-      "rank": 9,
-      "category": "教育"
     },
     {
       "raw_hot": 277343,
@@ -6779,6 +6795,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 230327,
+      "num": 195238,
+      "word": "猫咪调摄像头向主人告状",
+      "onboard_time": 1680321331,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 230233,
       "num": 230233,
       "word": "路人福建偶遇毛晓彤",
@@ -6985,14 +7009,6 @@
       "onboard_time": 1680138567,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 225805,
-      "num": 195238,
-      "word": "猫咪调摄像头向主人告状",
-      "onboard_time": 1680321331,
-      "rank": 23,
-      "category": "幽默"
     },
     {
       "raw_hot": 224623,
@@ -7843,6 +7859,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 202968,
+      "num": 189788,
+      "word": "杨幂读剧本随拍",
+      "onboard_time": 1680323493,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202856,
       "num": 202856,
       "word": "北京草莓音乐节",
@@ -8153,14 +8177,6 @@
       "onboard_time": 1680265105,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 197580,
-      "num": 197580,
-      "word": "水瓶座很爱切断社交",
-      "onboard_time": 1680322048,
-      "rank": 19,
-      "category": "情感,网红"
     },
     {
       "raw_hot": 197571,
@@ -8545,6 +8561,14 @@
       "onboard_time": 1680232526,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 191727,
+      "num": 841405,
+      "word": "你好4月",
+      "onboard_time": 1680322711,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 191615,
@@ -9841,6 +9865,14 @@
       "onboard_time": 1680233425,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160954,
+      "num": 153721,
+      "word": "李亚玲道歉声明",
+      "onboard_time": 1680323190,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 160687,
@@ -11371,14 +11403,6 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 122291,
-      "num": 122291,
-      "word": "福建漳州老人",
-      "onboard_time": 1680322471,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 121837,
       "num": 121837,
       "word": "半夜陪主人上厕所的狗狗",
@@ -11683,6 +11707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 111519,
+      "num": 111519,
+      "word": "编剧李亚玲因国航监督员案被判赔5万",
+      "onboard_time": 1680323493,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 111238,
       "num": 113574,
       "word": "伴侣之间应如何沟通交流",
@@ -11913,6 +11945,14 @@
       "onboard_time": 1679889876,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 104693,
+      "num": 104693,
+      "word": "铃芽之旅里的自我救赎",
+      "onboard_time": 1680323190,
+      "rank": 47,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 104574,
@@ -12161,6 +12201,14 @@
       "onboard_time": 1679895335,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 95029,
+      "num": 95029,
+      "word": "如果他还在今天28岁了",
+      "onboard_time": 1680323611,
+      "rank": 48,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 94947,
@@ -12857,14 +12905,6 @@
       "onboard_time": 1680073227,
       "rank": 39,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 5583,
-      "num": 811739,
-      "word": "你好4月",
-      "onboard_time": 1680322711,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

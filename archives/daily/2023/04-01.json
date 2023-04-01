@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680322827070,
+  "endTime": 1680323653684,
   "band_list": [
     {
       "raw_hot": 7084987,
@@ -11,8 +11,8 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 3833424,
-      "num": 727143,
+      "raw_hot": 4299913,
+      "num": 836746,
       "word": "景甜",
       "onboard_time": 1680316646,
       "rank": 4,
@@ -51,8 +51,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 867390,
-      "num": 867390,
+      "raw_hot": 910963,
+      "num": 910963,
       "word": "泰国45天免签和30天落地签临时政策已截止",
       "onboard_time": 1680319292,
       "rank": 13,
@@ -73,6 +73,14 @@
       "onboard_time": 1680312146,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 646659,
+      "num": 646659,
+      "word": "江苏事业单位",
+      "onboard_time": 1680322471,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 645184,
@@ -147,8 +155,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 532027,
-      "num": 532027,
+      "raw_hot": 538630,
+      "num": 538630,
       "word": "桃花坞3开录全员丽江打卡",
       "onboard_time": 1680320429,
       "rank": 6,
@@ -188,7 +196,7 @@
     },
     {
       "raw_hot": 478943,
-      "num": 340521,
+      "num": 389999,
       "word": "黑暗荣耀",
       "onboard_time": 1680320789,
       "rank": 11,
@@ -227,6 +235,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 430276,
+      "num": 430276,
+      "word": "水瓶座很爱切断社交",
+      "onboard_time": 1680322048,
+      "rank": 19,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 429908,
       "num": 248553,
       "word": "网友丽江偶遇王鹤棣",
@@ -236,7 +252,7 @@
     },
     {
       "raw_hot": 419670,
-      "num": 308595,
+      "num": 365236,
       "word": "张大大希望内娱百花齐放",
       "onboard_time": 1680318989,
       "rank": 43,
@@ -252,7 +268,7 @@
     },
     {
       "raw_hot": 392752,
-      "num": 196573,
+      "num": 198319,
       "word": "九年前的郑秀晶",
       "onboard_time": 1680319350,
       "rank": 27,
@@ -275,6 +291,14 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 356596,
+      "num": 356596,
+      "word": "福建漳州老人",
+      "onboard_time": 1680322471,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 334266,
       "num": 247250,
       "word": "陈伟霆刘雯李沁同框",
@@ -289,6 +313,14 @@
       "onboard_time": 1680261748,
       "rank": 5,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 333623,
+      "num": 333623,
+      "word": "费曼发歌名怀念张国荣",
+      "onboard_time": 1680321091,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 330763,
@@ -331,14 +363,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 294141,
-      "num": 294141,
-      "word": "费曼发歌名怀念张国荣",
-      "onboard_time": 1680321091,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 291649,
       "num": 291649,
       "word": "打团 暂停",
@@ -361,14 +385,6 @@
       "onboard_time": 1680314307,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 277884,
-      "num": 368879,
-      "word": "江苏事业单位",
-      "onboard_time": 1680322471,
-      "rank": 9,
-      "category": "教育"
     },
     {
       "raw_hot": 277170,
@@ -419,6 +435,14 @@
       "category": "艺人,美妆"
     },
     {
+      "raw_hot": 230327,
+      "num": 195238,
+      "word": "猫咪调摄像头向主人告状",
+      "onboard_time": 1680321331,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 229476,
       "num": 193009,
       "word": "彭小苒说愚人节就是情人节",
@@ -449,14 +473,6 @@
       "onboard_time": 1680315267,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 225805,
-      "num": 195238,
-      "word": "猫咪调摄像头向主人告状",
-      "onboard_time": 1680321331,
-      "rank": 23,
-      "category": "幽默"
     },
     {
       "raw_hot": 217215,
@@ -515,6 +531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 202968,
+      "num": 189788,
+      "word": "杨幂读剧本随拍",
+      "onboard_time": 1680323493,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202004,
       "num": 202004,
       "word": "陈赫打乒乓全靠场外支援",
@@ -555,14 +579,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 197580,
-      "num": 197580,
-      "word": "水瓶座很爱切断社交",
-      "onboard_time": 1680322048,
-      "rank": 19,
-      "category": "情感,网红"
-    },
-    {
       "raw_hot": 196905,
       "num": 196905,
       "word": "灿烂的转身今日开播",
@@ -577,6 +593,14 @@
       "onboard_time": 1680305299,
       "rank": 13,
       "category": "军事"
+    },
+    {
+      "raw_hot": 191727,
+      "num": 841405,
+      "word": "你好4月",
+      "onboard_time": 1680322711,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 189261,
@@ -664,6 +688,14 @@
       "word": "蔡文静紫霞仙子造型",
       "onboard_time": 1680317668,
       "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 160954,
+      "num": 153721,
+      "word": "李亚玲道歉声明",
+      "onboard_time": 1680323190,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -859,14 +891,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 122291,
-      "num": 122291,
-      "word": "福建漳州老人",
-      "onboard_time": 1680322471,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 121149,
       "num": 121149,
       "word": "阿尔德里奇正式退役",
@@ -891,6 +915,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 111519,
+      "num": 111519,
+      "word": "编剧李亚玲因国航监督员案被判赔5万",
+      "onboard_time": 1680323493,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 111016,
       "num": 111016,
       "word": "为什么很节俭还是存不到钱",
@@ -913,6 +945,14 @@
       "onboard_time": 1680317728,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 104693,
+      "num": 104693,
+      "word": "铃芽之旅里的自我救赎",
+      "onboard_time": 1680323190,
+      "rank": 47,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 103404,
@@ -985,6 +1025,14 @@
       "onboard_time": 1680312807,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 95029,
+      "num": 95029,
+      "word": "如果他还在今天28岁了",
+      "onboard_time": 1680323611,
+      "rank": 48,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 95002,
@@ -1175,14 +1223,6 @@
       "num": 1246932,
       "word": "带你共享花开烂漫时",
       "onboard_time": 1680248546,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 5583,
-      "num": 811739,
-      "word": "你好4月",
-      "onboard_time": 1680322711,
       "rank": 2,
       "category": "社会新闻"
     }
