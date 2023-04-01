@@ -1,6 +1,6 @@
 {
   "startTime": 1680366074129,
-  "endTime": 1680388401309,
+  "endTime": 1680390961441,
   "band_list": [
     {
       "raw_hot": 1696151,
@@ -267,6 +267,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 167254,
+      "num": 167254,
+      "word": "律师称传播他人私密视频或担刑责",
+      "onboard_time": 1680375134,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157920,
       "num": 157920,
       "word": "张国荣此间永远是少年",
@@ -379,6 +387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 107893,
+      "num": 107893,
+      "word": "百位电影人将齐聚湖北荆州",
+      "onboard_time": 1680386773,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 106210,
       "num": 106210,
       "word": "RNG Angel",
@@ -403,11 +419,11 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 92355,
-      "num": 92355,
-      "word": "律师称传播他人私密视频或担刑责",
-      "onboard_time": 1680375134,
-      "rank": 24,
+      "raw_hot": 88144,
+      "num": 88144,
+      "word": "凉山4.0级地震",
+      "onboard_time": 1680390619,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -427,6 +443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 67216,
+      "num": 67216,
+      "word": "当你周末半夜突然醒来",
+      "onboard_time": 1680375016,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 54863,
       "num": 1092830,
       "word": "桃花映日出迎接四月",
@@ -435,28 +459,36 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 48765,
-      "num": 36488,
-      "word": "当你周末半夜突然醒来",
-      "onboard_time": 1680375016,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 35048,
-      "num": 35048,
+      "raw_hot": 52836,
+      "num": 52836,
       "word": "4月开机的电视剧",
       "onboard_time": 1680386112,
       "rank": 34,
       "category": "影视"
     },
     {
-      "raw_hot": 34659,
-      "num": 34659,
-      "word": "百位电影人将齐聚湖北荆州",
-      "onboard_time": 1680386773,
-      "rank": 48,
-      "category": "影视"
+      "raw_hot": 50967,
+      "num": 50967,
+      "word": "金晨追星星的人古装造型",
+      "onboard_time": 1680389355,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 38147,
+      "num": 38147,
+      "word": "四月",
+      "onboard_time": 1680305119,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 32364,
+      "num": 32364,
+      "word": "切尔西0比2阿斯顿维拉",
+      "onboard_time": 1680390918,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 21657,
