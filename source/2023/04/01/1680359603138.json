@@ -1,0 +1,410 @@
+{
+  "runTime": 1680359603138,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2565778,
+        "num": 2565778,
+        "word": "今晚好多演唱会",
+        "onboard_time": 1680357569,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 885728,
+        "num": 885728,
+        "word": "低欲望生活 低预算生活",
+        "onboard_time": 1680357029,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 36867,
+        "num": 866002,
+        "word": "黄河保护法今起施行",
+        "onboard_time": 1680337412,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 848497,
+        "num": 848497,
+        "word": "魏无羡千杀",
+        "onboard_time": 1680356191,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 767420,
+        "num": 767420,
+        "word": "招惹",
+        "onboard_time": 1680353609,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2686510,
+        "num": 705301,
+        "word": "司藤",
+        "onboard_time": 1680353668,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 612035,
+        "num": 612035,
+        "word": "品如艾莉都参加乘风破浪4了",
+        "onboard_time": 1680346350,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 520565,
+        "num": 520565,
+        "word": "父母抹酒精退烧致4岁女儿住进ICU",
+        "onboard_time": 1680339813,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 485642,
+        "num": 485642,
+        "word": "张国荣纪念音乐会",
+        "onboard_time": 1680359431,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 424638,
+        "num": 424638,
+        "word": "上海地铁内男子嬉皮笑脸耍刀玩",
+        "onboard_time": 1680345567,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2882499,
+        "num": 422718,
+        "word": "张继科回应因欠债传播女演员隐私视频",
+        "onboard_time": 1680332610,
+        "rank": 10,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 610907,
+        "num": 420905,
+        "word": "景甜曾说司藤救赎了灰色世界的自己",
+        "onboard_time": 1680337293,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 576101,
+        "num": 417341,
+        "word": "生理性抑郁症",
+        "onboard_time": 1680332552,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 472122,
+        "num": 412592,
+        "word": "迪丽热巴落肩鱼尾长裙",
+        "onboard_time": 1680346531,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 119421,
+        "num": 412016,
+        "word": "罗永浩再现智能马桶名场面",
+        "onboard_time": 1680357629,
+        "rank": 14,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 409262,
+        "num": 409262,
+        "word": "RNG提前进入夏季赛",
+        "onboard_time": 1680353009,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 349335,
+        "num": 349335,
+        "word": "张杰广州演唱会",
+        "onboard_time": 1680347130,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 346111,
+        "num": 346111,
+        "word": "痛仰 上海",
+        "onboard_time": 1680358890,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 332632,
+        "num": 332632,
+        "word": "秋穗",
+        "onboard_time": 1680354328,
+        "rank": 18,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 310661,
+        "num": 310661,
+        "word": "AG换打野等于换队",
+        "onboard_time": 1680354569,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1310705,
+        "num": 306214,
+        "word": "李微敖 张继科",
+        "onboard_time": 1680326491,
+        "rank": 20,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 362925,
+        "num": 293647,
+        "word": "丁程鑫看张新成抱孙千的反应",
+        "onboard_time": 1680355651,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 314330,
+        "num": 287756,
+        "word": "杨幂说一不小心回到小时候",
+        "onboard_time": 1680341551,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248296,
+        "num": 248296,
+        "word": "张继科方将对侵权用户提起诉讼",
+        "onboard_time": 1680260966,
+        "rank": 23,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 236151,
+        "num": 236151,
+        "word": "魔卡少女樱续作",
+        "onboard_time": 1680350069,
+        "rank": 24,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 309266,
+        "num": 235921,
+        "word": "张国荣此间永远是少年",
+        "onboard_time": 1680351567,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 305286,
+        "num": 235852,
+        "word": "北京电影节嘉宾",
+        "onboard_time": 1680357210,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 294360,
+        "num": 235472,
+        "word": "aespa将在东京巨蛋举办演唱会",
+        "onboard_time": 1680354207,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 187716,
+        "num": 235077,
+        "word": "你平时午睡吗",
+        "onboard_time": 1680350428,
+        "rank": 28,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 182764,
+        "num": 234966,
+        "word": "最不想收到的一笔退款",
+        "onboard_time": 1680345990,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 286700,
+        "num": 234566,
+        "word": "薛之谦演唱会",
+        "onboard_time": 1680353730,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 248968,
+        "num": 234470,
+        "word": "杀死福顺",
+        "onboard_time": 1680358411,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 241399,
+        "num": 234164,
+        "word": "梁朝伟刘嘉玲深情怀念哥哥",
+        "onboard_time": 1680359191,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233966,
+        "num": 233966,
+        "word": "电影营销 狗都看哭了",
+        "onboard_time": 1680350668,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 170255,
+        "num": 227541,
+        "word": "张继科",
+        "onboard_time": 1680308484,
+        "rank": 34,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 226908,
+        "num": 226908,
+        "word": "乘风破浪4",
+        "onboard_time": 1680351867,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169059,
+        "num": 224926,
+        "word": "华为余承东内网回应不造车决议",
+        "onboard_time": 1680347011,
+        "rank": 36,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 165762,
+        "num": 223073,
+        "word": "RNG Angel",
+        "onboard_time": 1680353609,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 162274,
+        "num": 220573,
+        "word": "这就是中国人骨子里的温良吧",
+        "onboard_time": 1680350550,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145775,
+        "num": 219645,
+        "word": "Tabe清算成功",
+        "onboard_time": 1680355289,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 217698,
+        "num": 217698,
+        "word": "王鹤棣好六再唱告白气球",
+        "onboard_time": 1680357930,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189405,
+        "num": 216620,
+        "word": "陈立农说期待再相会",
+        "onboard_time": 1680358352,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165638,
+        "num": 213211,
+        "word": "徐明浩愚人节贺图",
+        "onboard_time": 1680357930,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161521,
+        "num": 208684,
+        "word": "矢吹奈子毕业演唱会",
+        "onboard_time": 1680359251,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 160512,
+        "num": 201725,
+        "word": "Irene红色缎带造型",
+        "onboard_time": 1680345748,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 140919,
+        "num": 199549,
+        "word": "曼城4比1利物浦",
+        "onboard_time": 1680356610,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196467,
+        "num": 196467,
+        "word": "张国荣纪念音乐会直播点赞变玫瑰",
+        "onboard_time": 1680359431,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134815,
+        "num": 186469,
+        "word": "AG战胜KSG",
+        "onboard_time": 1680356728,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 127531,
+        "num": 183050,
+        "word": "顾客买小龙虾99元4斤称重仅2斤多",
+        "onboard_time": 1680343170,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116027,
+        "num": 183000,
+        "word": "阿森纳vs利兹联",
+        "onboard_time": 1680358831,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#90秒沉浸式感受雄安新貌#"
+    }
+  }
+}

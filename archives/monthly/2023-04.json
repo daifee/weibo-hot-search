@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680358438127,
+  "endTime": 1680359603138,
   "band_list": [
     {
       "raw_hot": 10740151,
@@ -51,19 +51,27 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 2686510,
+      "num": 792243,
+      "word": "司藤",
+      "onboard_time": 1680353668,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 2565778,
+      "num": 2565778,
+      "word": "今晚好多演唱会",
+      "onboard_time": 1680357569,
+      "rank": 4,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 2369704,
       "num": 502482,
       "word": "景甜曾说司藤救赎了灰色世界的自己",
       "onboard_time": 1680337293,
       "rank": 8,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 2161143,
-      "num": 792243,
-      "word": "司藤",
-      "onboard_time": 1680353668,
-      "rank": 4,
       "category": "影视"
     },
     {
@@ -155,20 +163,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 885728,
+      "num": 885728,
+      "word": "低欲望生活 低预算生活",
+      "onboard_time": 1680357029,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 848497,
+      "num": 848497,
+      "word": "魏无羡千杀",
+      "onboard_time": 1680356191,
+      "rank": 1,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 846221,
       "num": 288444,
       "word": "杨幂说一不小心回到小时候",
       "onboard_time": 1680341551,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 803736,
-      "num": 803736,
-      "word": "魏无羡千杀",
-      "onboard_time": 1680356191,
-      "rank": 1,
-      "category": "游戏"
     },
     {
       "raw_hot": 766991,
@@ -201,14 +217,6 @@
       "onboard_time": 1680307823,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 696733,
-      "num": 696733,
-      "word": "今晚好多演唱会",
-      "onboard_time": 1680357569,
-      "rank": 4,
-      "category": "音乐"
     },
     {
       "raw_hot": 688377,
@@ -347,14 +355,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 548420,
-      "num": 548420,
-      "word": "低欲望生活 低预算生活",
-      "onboard_time": 1680357029,
-      "rank": 8,
-      "category": "情感"
-    },
-    {
       "raw_hot": 543449,
       "num": 172317,
       "word": "意大利宣布禁止使用ChatGPT",
@@ -449,6 +449,14 @@
       "onboard_time": 1680323611,
       "rank": 48,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 485642,
+      "num": 485642,
+      "word": "张国荣纪念音乐会",
+      "onboard_time": 1680359431,
+      "rank": 8,
+      "category": "音乐"
     },
     {
       "raw_hot": 478943,
@@ -683,6 +691,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 346111,
+      "num": 346111,
+      "word": "痛仰 上海",
+      "onboard_time": 1680358890,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 343023,
       "num": 343023,
       "word": "你好星期六今晚好友组队局",
@@ -779,6 +795,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 305286,
+      "num": 235852,
+      "word": "北京电影节嘉宾",
+      "onboard_time": 1680357210,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 301943,
       "num": 199931,
       "word": "12岁男生要跟张三丰学太极背剑出走",
@@ -804,7 +828,7 @@
     },
     {
       "raw_hot": 294134,
-      "num": 220972,
+      "num": 234966,
       "word": "最不想收到的一笔退款",
       "onboard_time": 1680345990,
       "rank": 28,
@@ -833,14 +857,6 @@
       "onboard_time": 1680326491,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 286472,
-      "num": 231636,
-      "word": "北京电影节嘉宾",
-      "onboard_time": 1680357210,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 286456,
@@ -979,6 +995,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 248968,
+      "num": 234470,
+      "word": "杀死福顺",
+      "onboard_time": 1680358411,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 248950,
       "num": 248950,
       "word": "孙国友林场原本就有固沙植被",
@@ -1001,6 +1025,14 @@
       "onboard_time": 1680328351,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 241399,
+      "num": 234164,
+      "word": "梁朝伟刘嘉玲深情怀念哥哥",
+      "onboard_time": 1680359191,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 238096,
@@ -1188,7 +1220,7 @@
     },
     {
       "raw_hot": 204815,
-      "num": 204815,
+      "num": 216620,
       "word": "陈立农说期待再相会",
       "onboard_time": 1680358352,
       "rank": 34,
@@ -1371,6 +1403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 196467,
+      "num": 196467,
+      "word": "张国荣纪念音乐会直播点赞变玫瑰",
+      "onboard_time": 1680359431,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196237,
       "num": 196237,
       "word": "何洁陈楚生合唱",
@@ -1380,7 +1420,7 @@
     },
     {
       "raw_hot": 195926,
-      "num": 195926,
+      "num": 219645,
       "word": "Tabe清算成功",
       "onboard_time": 1680355289,
       "rank": 35,
@@ -1428,7 +1468,7 @@
     },
     {
       "raw_hot": 190664,
-      "num": 190664,
+      "num": 213211,
       "word": "徐明浩愚人节贺图",
       "onboard_time": 1680357930,
       "rank": 37,
@@ -1476,7 +1516,7 @@
     },
     {
       "raw_hot": 184945,
-      "num": 184945,
+      "num": 186469,
       "word": "AG战胜KSG",
       "onboard_time": 1680356728,
       "rank": 38,
@@ -1492,7 +1532,7 @@
     },
     {
       "raw_hot": 184812,
-      "num": 184812,
+      "num": 199549,
       "word": "曼城4比1利物浦",
       "onboard_time": 1680356610,
       "rank": 40,
@@ -1707,6 +1747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161521,
+      "num": 208684,
+      "word": "矢吹奈子毕业演唱会",
+      "onboard_time": 1680359251,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 159901,
       "num": 159901,
       "word": "宁静想念张国荣",
@@ -1808,14 +1856,6 @@
       "word": "孙茜谈主角和配角",
       "onboard_time": 1680317668,
       "rank": 34,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 149500,
-      "num": 149500,
-      "word": "杀死福顺",
-      "onboard_time": 1680358411,
-      "rank": 47,
       "category": "影视"
     },
     {
@@ -2139,12 +2179,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 119421,
+      "num": 420730,
+      "word": "罗永浩再现智能马桶名场面",
+      "onboard_time": 1680357629,
+      "rank": 14,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 117461,
       "num": 117461,
       "word": "看过赵小童宋木子表演的人都沉默了",
       "onboard_time": 1680333751,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 116027,
+      "num": 183000,
+      "word": "阿森纳vs利兹联",
+      "onboard_time": 1680358831,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 116015,
@@ -2241,14 +2297,6 @@
       "onboard_time": 1680338672,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 105855,
-      "num": 420730,
-      "word": "罗永浩再现智能马桶名场面",
-      "onboard_time": 1680357629,
-      "rank": 14,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 105412,
