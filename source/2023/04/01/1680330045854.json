@@ -1,0 +1,410 @@
+{
+  "runTime": 1680330045854,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 10212580,
+        "num": 10212580,
+        "word": "李微敖 张继科",
+        "onboard_time": 1680326491,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1523923,
+        "num": 1523923,
+        "word": "雅思作文 绝望的文盲",
+        "onboard_time": 1680325828,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 74237,
+        "num": 953415,
+        "word": "你好4月",
+        "onboard_time": 1680322711,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3770931,
+        "num": 943335,
+        "word": "景甜",
+        "onboard_time": 1680316646,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 663679,
+        "num": 663679,
+        "word": "李亚玲道歉声明",
+        "onboard_time": 1680323190,
+        "rank": 4,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 441799,
+        "num": 441799,
+        "word": "4月1至5日将出现大范围强雨雪",
+        "onboard_time": 1680318147,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 434059,
+        "num": 434059,
+        "word": "如果他还在今天28岁了",
+        "onboard_time": 1680323611,
+        "rank": 6,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 388354,
+        "num": 388354,
+        "word": "张继科方将对侵权用户提起诉讼",
+        "onboard_time": 1680260966,
+        "rank": 7,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 360623,
+        "num": 360623,
+        "word": "张国荣",
+        "onboard_time": 1680305961,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 356550,
+        "num": 356550,
+        "word": "水瓶座很爱切断社交",
+        "onboard_time": 1680322048,
+        "rank": 9,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 311515,
+        "num": 311515,
+        "word": "华晨宇是那英队的隐形制作人",
+        "onboard_time": 1680328891,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 278042,
+        "num": 278042,
+        "word": "原神愚人节整活",
+        "onboard_time": 1680327689,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 267366,
+        "num": 267366,
+        "word": "福建漳州老人",
+        "onboard_time": 1680322471,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263334,
+        "num": 263334,
+        "word": "你好星期六今晚好友组队局",
+        "onboard_time": 1680325772,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235826,
+        "num": 235826,
+        "word": "泰国45天免签和30天落地签临时政策已截止",
+        "onboard_time": 1680319292,
+        "rank": 14,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 219816,
+        "num": 219816,
+        "word": "桃花坞3开录全员丽江打卡",
+        "onboard_time": 1680320429,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204193,
+        "num": 204193,
+        "word": "江苏事业单位",
+        "onboard_time": 1680322471,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 197162,
+        "num": 197162,
+        "word": "吴彤说我也想好好沉淀一下",
+        "onboard_time": 1680329492,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196237,
+        "num": 196237,
+        "word": "何洁陈楚生合唱",
+        "onboard_time": 1680329492,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196209,
+        "num": 196209,
+        "word": "不是所有人都适合午睡",
+        "onboard_time": 1680310765,
+        "rank": 19,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 1295202,
+        "num": 195924,
+        "word": "张继科",
+        "onboard_time": 1680308484,
+        "rank": 20,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 288694,
+        "num": 195665,
+        "word": "宫胁咲良刘海",
+        "onboard_time": 1680326491,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278962,
+        "num": 194901,
+        "word": "魔卡少女樱",
+        "onboard_time": 1680314666,
+        "rank": 22,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 248015,
+        "num": 194636,
+        "word": "真的还是假的",
+        "onboard_time": 1680327689,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 223797,
+        "num": 194357,
+        "word": "肖战玉骨遥侧颜路透",
+        "onboard_time": 1680328351,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207306,
+        "num": 193821,
+        "word": "九年前的郑秀晶",
+        "onboard_time": 1680319350,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198180,
+        "num": 193460,
+        "word": "蒋敦豪赵一博吃羊时决心养羊",
+        "onboard_time": 1680328952,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193113,
+        "num": 193113,
+        "word": "侯明昊骑士大片",
+        "onboard_time": 1680329429,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 192730,
+        "num": 192730,
+        "word": "保姆推搡8旬老人还让其吃排泄物",
+        "onboard_time": 1680316347,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187976,
+        "num": 187976,
+        "word": "宋威龙托腮照",
+        "onboard_time": 1680330031,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168736,
+        "num": 168736,
+        "word": "杨幂读剧本随拍",
+        "onboard_time": 1680323493,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167379,
+        "num": 167379,
+        "word": "短道速滑冠军赛",
+        "onboard_time": 1680328711,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167863,
+        "num": 167323,
+        "word": "小伙偷女友近4万供女友消费",
+        "onboard_time": 1680329550,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164947,
+        "num": 164947,
+        "word": "猫咪调摄像头向主人告状",
+        "onboard_time": 1680321331,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154548,
+        "num": 154548,
+        "word": "黑暗荣耀",
+        "onboard_time": 1680320789,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 152174,
+        "num": 152174,
+        "word": "王鹤棣站姐发了meiko",
+        "onboard_time": 1680313647,
+        "rank": 35,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 144846,
+        "num": 144846,
+        "word": "电竞人是会整活的",
+        "onboard_time": 1680324988,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 134524,
+        "num": 134524,
+        "word": "爱情而已为什么好看",
+        "onboard_time": 1680325652,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 132926,
+        "num": 132926,
+        "word": "唐鹤德 夜阑静有谁共鸣",
+        "onboard_time": 1680309506,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130534,
+        "num": 130534,
+        "word": "小兔子在家干什么",
+        "onboard_time": 1680326669,
+        "rank": 39,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 124269,
+        "num": 124269,
+        "word": "7年7万荣迷替张国荣公益募捐",
+        "onboard_time": 1680329191,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111583,
+        "num": 111583,
+        "word": "待播影视剧愚人节海报",
+        "onboard_time": 1680327869,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 119500,
+        "num": 110867,
+        "word": "费曼发歌名怀念张国荣",
+        "onboard_time": 1680321091,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106845,
+        "num": 106845,
+        "word": "编剧李亚玲因国航监督员案被判赔5万",
+        "onboard_time": 1680323493,
+        "rank": 43,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 105693,
+        "num": 105693,
+        "word": "欢乐颂4出现新人物",
+        "onboard_time": 1680317368,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 105290,
+        "num": 105290,
+        "word": "韩素希说想成为宋慧乔的小狗",
+        "onboard_time": 1680307823,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104067,
+        "num": 104067,
+        "word": "2023F1澳大利亚大奖赛排位赛",
+        "onboard_time": 1680327989,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90269,
+        "num": 90269,
+        "word": "孔雪儿MeToo舞",
+        "onboard_time": 1680326370,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 85672,
+        "num": 85672,
+        "word": "陈少熙昆曲表演玉簪记",
+        "onboard_time": 1680328831,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83046,
+        "num": 83046,
+        "word": "一生都在要链接的女人",
+        "onboard_time": 1680321331,
+        "rank": 49,
+        "category": "幽默,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#雄安新区6周年#"
+    }
+  }
+}

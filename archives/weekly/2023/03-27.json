@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1680327217669,
+  "endTime": 1680330045854,
   "band_list": [
     {
       "raw_hot": 12970403,
@@ -9,6 +9,14 @@
       "onboard_time": 1680073771,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10212580,
+      "num": 10212580,
+      "word": "李微敖 张继科",
+      "onboard_time": 1680326491,
+      "rank": 0,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 7084987,
@@ -36,7 +44,7 @@
     },
     {
       "raw_hot": 4421635,
-      "num": 927606,
+      "num": 943335,
       "word": "景甜",
       "onboard_time": 1680316646,
       "rank": 4,
@@ -419,14 +427,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 1836273,
-      "num": 1836273,
-      "word": "李微敖 张继科",
-      "onboard_time": 1680326491,
-      "rank": 0,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 1825433,
       "num": 1825433,
       "word": "神华集团",
@@ -561,6 +561,14 @@
       "onboard_time": 1680051750,
       "rank": 1,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 1523923,
+      "num": 1523923,
+      "word": "雅思作文 绝望的文盲",
+      "onboard_time": 1680325828,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 1519246,
@@ -2201,14 +2209,6 @@
       "onboard_time": 1680312146,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 675737,
-      "num": 675737,
-      "word": "雅思作文 绝望的文盲",
-      "onboard_time": 1680325828,
-      "rank": 29,
-      "category": "教育"
     },
     {
       "raw_hot": 670644,
@@ -5315,6 +5315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 311515,
+      "num": 311515,
+      "word": "华晨宇是那英队的隐形制作人",
+      "onboard_time": 1680328891,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 310730,
       "num": 293898,
       "word": "我的告白沉默了俩个寝室",
@@ -5707,6 +5715,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 288694,
+      "num": 202618,
+      "word": "宫胁咲良刘海",
+      "onboard_time": 1680326491,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 288182,
       "num": 288182,
       "word": "当导师收到我的论文初稿",
@@ -5977,6 +5993,14 @@
       "onboard_time": 1680146847,
       "rank": 35,
       "category": "科技"
+    },
+    {
+      "raw_hot": 278042,
+      "num": 278042,
+      "word": "原神愚人节整活",
+      "onboard_time": 1680327689,
+      "rank": 11,
+      "category": "游戏"
     },
     {
       "raw_hot": 277343,
@@ -6611,6 +6635,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 248015,
+      "num": 194636,
+      "word": "真的还是假的",
+      "onboard_time": 1680327689,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 247589,
       "num": 247589,
       "word": "他是谁18集全是眼泪",
@@ -7081,6 +7113,14 @@
       "onboard_time": 1680098369,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 223797,
+      "num": 194357,
+      "word": "肖战玉骨遥侧颜路透",
+      "onboard_time": 1680328351,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 223742,
@@ -7931,14 +7971,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 202618,
-      "num": 202618,
-      "word": "宫胁咲良刘海",
-      "onboard_time": 1680326491,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 202438,
       "num": 202438,
       "word": "心盲症",
@@ -8211,6 +8243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 198180,
+      "num": 193460,
+      "word": "蒋敦豪赵一博吃羊时决心养羊",
+      "onboard_time": 1680328952,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197858,
       "num": 197858,
       "word": "任嘉伦呼吁守护孤独症孩子",
@@ -8283,6 +8323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 197162,
+      "num": 197162,
+      "word": "吴彤说我也想好好沉淀一下",
+      "onboard_time": 1680329492,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197077,
       "num": 197077,
       "word": "张杰西安vlog",
@@ -8337,6 +8385,14 @@
       "onboard_time": 1680071607,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 196237,
+      "num": 196237,
+      "word": "何洁陈楚生合唱",
+      "onboard_time": 1680329492,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 196180,
@@ -8553,6 +8609,14 @@
       "onboard_time": 1680265947,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 193113,
+      "num": 193113,
+      "word": "侯明昊骑士大片",
+      "onboard_time": 1680329429,
+      "rank": 27,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 193012,
@@ -8857,6 +8921,14 @@
       "onboard_time": 1680268349,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 187976,
+      "num": 187976,
+      "word": "宋威龙托腮照",
+      "onboard_time": 1680330031,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 187941,
@@ -9731,6 +9803,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 167863,
+      "num": 167323,
+      "word": "小伙偷女友近4万供女友消费",
+      "onboard_time": 1680329550,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167782,
       "num": 167782,
       "word": "阴阳师",
@@ -9745,6 +9825,14 @@
       "onboard_time": 1680249027,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 167379,
+      "num": 167379,
+      "word": "短道速滑冠军赛",
+      "onboard_time": 1680328711,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 167101,
@@ -11107,6 +11195,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 130534,
+      "num": 130534,
+      "word": "小兔子在家干什么",
+      "onboard_time": 1680326669,
+      "rank": 38,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 130467,
       "num": 130467,
       "word": "龚俊推荐家乡图书馆",
@@ -11433,6 +11529,14 @@
       "onboard_time": 1680002190,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 124269,
+      "num": 124269,
+      "word": "7年7万荣迷替张国荣公益募捐",
+      "onboard_time": 1680329191,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 123926,
@@ -11811,6 +11915,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 111583,
+      "num": 111583,
+      "word": "待播影视剧愚人节海报",
+      "onboard_time": 1680327869,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 111521,
       "num": 111521,
       "word": "殷美根被查",
@@ -12011,14 +12123,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 105577,
-      "num": 105577,
-      "word": "小兔子在家干什么",
-      "onboard_time": 1680326669,
-      "rank": 38,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 105412,
       "num": 105412,
       "word": "中戏宣传片里的宋亚轩",
@@ -12081,6 +12185,14 @@
       "onboard_time": 1680154406,
       "rank": 49,
       "category": "社会议题,情感"
+    },
+    {
+      "raw_hot": 104067,
+      "num": 104067,
+      "word": "2023F1澳大利亚大奖赛排位赛",
+      "onboard_time": 1680327989,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 103852,
@@ -12481,6 +12593,14 @@
       "onboard_time": 1680326788,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 85672,
+      "num": 85672,
+      "word": "陈少熙昆曲表演玉簪记",
+      "onboard_time": 1680328831,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 85662,
