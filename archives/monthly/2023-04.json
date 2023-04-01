@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680359603138,
+  "endTime": 1680362160974,
   "band_list": [
     {
       "raw_hot": 10740151,
@@ -155,20 +155,20 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 897039,
+      "num": 897039,
+      "word": "低欲望生活 低预算生活",
+      "onboard_time": 1680357029,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
       "raw_hot": 887570,
       "num": 887570,
       "word": "生理性郁抑症",
       "onboard_time": 1680332552,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 885728,
-      "num": 885728,
-      "word": "低欲望生活 低预算生活",
-      "onboard_time": 1680357029,
-      "rank": 8,
-      "category": "情感"
     },
     {
       "raw_hot": 848497,
@@ -187,12 +187,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 825055,
+      "num": 825055,
+      "word": "麻六记因未给孕妇优待被打差评",
+      "onboard_time": 1680360811,
+      "rank": 3,
+      "category": "社会新闻,社会正能量"
+    },
+    {
       "raw_hot": 766991,
       "num": 362626,
       "word": "陈坤 白宇是真的好演员",
       "onboard_time": 1680331411,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 715671,
+      "num": 715671,
+      "word": "张国荣纪念音乐会",
+      "onboard_time": 1680359431,
+      "rank": 8,
+      "category": "音乐"
     },
     {
       "raw_hot": 715134,
@@ -225,6 +241,14 @@
       "onboard_time": 1680322471,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 678671,
+      "num": 678671,
+      "word": "梁朝伟刘嘉玲深情怀念哥哥",
+      "onboard_time": 1680359191,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 677080,
@@ -451,14 +475,6 @@
       "category": "情感,社会新闻"
     },
     {
-      "raw_hot": 485642,
-      "num": 485642,
-      "word": "张国荣纪念音乐会",
-      "onboard_time": 1680359431,
-      "rank": 8,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 478943,
       "num": 389999,
       "word": "黑暗荣耀",
@@ -523,6 +539,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 454484,
+      "num": 356356,
+      "word": "八年前愚人节的TFBOYS",
+      "onboard_time": 1680361230,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 454263,
       "num": 454263,
       "word": "四月是你的谎言",
@@ -545,6 +569,14 @@
       "onboard_time": 1680340651,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 445320,
+      "num": 445320,
+      "word": "痛仰 上海",
+      "onboard_time": 1680358890,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 443246,
@@ -691,14 +723,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 346111,
-      "num": 346111,
-      "word": "痛仰 上海",
-      "onboard_time": 1680358890,
-      "rank": 17,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 343023,
       "num": 343023,
       "word": "你好星期六今晚好友组队局",
@@ -827,6 +851,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 298381,
+      "num": 298381,
+      "word": "武汉地铁",
+      "onboard_time": 1680361350,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 294134,
       "num": 234966,
       "word": "最不想收到的一笔退款",
@@ -897,6 +929,14 @@
       "onboard_time": 1680320609,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 275061,
+      "num": 233827,
+      "word": "林彦俊回应受伤",
+      "onboard_time": 1680359912,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 274632,
@@ -1027,14 +1067,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 241399,
-      "num": 234164,
-      "word": "梁朝伟刘嘉玲深情怀念哥哥",
-      "onboard_time": 1680359191,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 238096,
       "num": 238096,
       "word": "薛之谦巡演南宁站彩排",
@@ -1088,6 +1120,14 @@
       "word": "舒淇念张国荣",
       "onboard_time": 1680315267,
       "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 220079,
+      "num": 148975,
+      "word": "上海逛街偶遇白敬亭",
+      "onboard_time": 1680361170,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -1467,6 +1507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 191083,
+      "num": 145887,
+      "word": "南京大学新校长到底是哪里人",
+      "onboard_time": 1680361657,
+      "rank": 33,
+      "category": "幽默,教育"
+    },
+    {
       "raw_hot": 190664,
       "num": 213211,
       "word": "徐明浩愚人节贺图",
@@ -1643,6 +1691,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 169904,
+      "num": 125180,
+      "word": "深海",
+      "onboard_time": 1680361532,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 169418,
       "num": 169418,
       "word": "容祖儿澳门演唱会首场",
@@ -1729,6 +1785,14 @@
       "onboard_time": 1680347370,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 164267,
+      "num": 123098,
+      "word": "周慧敏发文追忆张国荣",
+      "onboard_time": 1680359672,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 162968,
@@ -1897,6 +1961,14 @@
       "onboard_time": 1680316469,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 141834,
+      "num": 141834,
+      "word": "上海5平方米的loft长啥样",
+      "onboard_time": 1680361291,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 141397,
@@ -2235,12 +2307,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 112184,
+      "num": 112184,
+      "word": "你手机换过电池吗",
+      "onboard_time": 1680361891,
+      "rank": 46,
+      "category": "科技"
+    },
+    {
       "raw_hot": 111583,
       "num": 111583,
       "word": "待播影视剧愚人节海报",
       "onboard_time": 1680327869,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 111345,
+      "num": 111345,
+      "word": "哈兰德督战",
+      "onboard_time": 1680360090,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 111016,
@@ -2424,6 +2512,14 @@
       "word": "国际爱鸟日",
       "onboard_time": 1680312807,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 95194,
+      "num": 95194,
+      "word": "小学生继盘串后又流行起盘头",
+      "onboard_time": 1680362132,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -2641,6 +2737,14 @@
       "onboard_time": 1680343229,
       "rank": 39,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 46377,
+      "num": 825762,
+      "word": "桃花映日出迎接四月",
+      "onboard_time": 1680360451,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 37796,
