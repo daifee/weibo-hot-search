@@ -1,6 +1,6 @@
 {
   "startTime": 1680366074129,
-  "endTime": 1680367008254,
+  "endTime": 1680369237692,
   "band_list": [
     {
       "raw_hot": 1696151,
@@ -195,6 +195,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 214329,
+      "num": 214329,
+      "word": "还没答辩的有福了",
+      "onboard_time": 1680366206,
+      "rank": 7,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 213622,
       "num": 213622,
       "word": "张杰广州演唱会",
@@ -387,20 +395,20 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 99145,
+      "num": 99145,
+      "word": "情绪控制力",
+      "onboard_time": 1680364890,
+      "rank": 49,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 83771,
       "num": 99996,
       "word": "周慧敏发文追忆张国荣",
       "onboard_time": 1680359672,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 83088,
-      "num": 90807,
-      "word": "情绪控制力",
-      "onboard_time": 1680364890,
-      "rank": 49,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 54863,
