@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680330833893,
+  "endTime": 1680333290072,
   "band_list": [
     {
       "raw_hot": 10740151,
@@ -27,6 +27,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2985463,
+      "num": 2985463,
+      "word": "张继科回应因欠债传播女演员隐私视频",
+      "onboard_time": 1680332610,
+      "rank": 1,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 2888969,
       "num": 2888969,
       "word": "张国荣",
@@ -49,6 +57,14 @@
       "onboard_time": 1680325828,
       "rank": 29,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1239189,
+      "num": 1239189,
+      "word": "小伙偷女友近4万供女友消费",
+      "onboard_time": 1680329550,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1220945,
@@ -81,6 +97,14 @@
       "onboard_time": 1680319292,
       "rank": 13,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 708715,
+      "num": 312157,
+      "word": "陈坤 白宇是真的好演员",
+      "onboard_time": 1680331411,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 698141,
@@ -156,7 +180,7 @@
     },
     {
       "raw_hot": 593416,
-      "num": 223399,
+      "num": 233984,
       "word": "魔卡少女樱",
       "onboard_time": 1680314666,
       "rank": 20,
@@ -251,6 +275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 472984,
+      "num": 472984,
+      "word": "吴彤说我也想好好沉淀一下",
+      "onboard_time": 1680329492,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 456547,
       "num": 456547,
       "word": "张继科方将对侵权用户提起诉讼",
@@ -307,14 +339,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 401202,
-      "num": 401202,
-      "word": "小伙偷女友近4万供女友消费",
-      "onboard_time": 1680329550,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 392752,
       "num": 222246,
       "word": "九年前的郑秀晶",
@@ -329,6 +353,14 @@
       "onboard_time": 1680328891,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 389573,
+      "num": 162935,
+      "word": "生理性郁抑症",
+      "onboard_time": 1680332552,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 386276,
@@ -427,12 +459,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 293041,
-      "num": 293041,
-      "word": "吴彤说我也想好好沉淀一下",
-      "onboard_time": 1680329492,
-      "rank": 17,
-      "category": "综艺"
+      "raw_hot": 294753,
+      "num": 294753,
+      "word": "孙龙男子1500米夺冠",
+      "onboard_time": 1680332185,
+      "rank": 12,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 291649,
@@ -491,6 +523,30 @@
       "category": "情感"
     },
     {
+      "raw_hot": 271301,
+      "num": 271301,
+      "word": "消失的她剧照消失",
+      "onboard_time": 1680331470,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 262586,
+      "num": 262586,
+      "word": "菠菜和豆腐能不能同吃",
+      "onboard_time": 1680330988,
+      "rank": 17,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 261841,
+      "num": 261841,
+      "word": "马东锡头像",
+      "onboard_time": 1680332251,
+      "rank": 18,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 259213,
       "num": 171195,
       "word": "肖战微博之夜后脑勺直拍视频",
@@ -505,6 +561,14 @@
       "onboard_time": 1680321331,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 250866,
+      "num": 238306,
+      "word": "他是谁剧组到底做了多少盒饭",
+      "onboard_time": 1680330570,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 250318,
@@ -524,7 +588,7 @@
     },
     {
       "raw_hot": 244865,
-      "num": 194357,
+      "num": 222994,
       "word": "肖战玉骨遥侧颜路透",
       "onboard_time": 1680328351,
       "rank": 24,
@@ -619,6 +683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 214066,
+      "num": 214066,
+      "word": "延禧攻略剧组集体等秦岚新剧开播",
+      "onboard_time": 1680330452,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 214055,
       "num": 214055,
       "word": "钟南山称条件允许可不戴口罩",
@@ -643,6 +715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203208,
+      "num": 203208,
+      "word": "好多镜头在拍杨幂",
+      "onboard_time": 1680333089,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202004,
       "num": 202004,
       "word": "陈赫打乒乓全靠场外支援",
@@ -656,6 +736,14 @@
       "word": "张新成说期待再次相见",
       "onboard_time": 1680326011,
       "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 200564,
+      "num": 200564,
+      "word": "丁程鑫胡一天粉扑游戏",
+      "onboard_time": 1680333269,
+      "rank": 26,
       "category": "综艺"
     },
     {
@@ -732,7 +820,7 @@
     },
     {
       "raw_hot": 191727,
-      "num": 1000909,
+      "num": 1612592,
       "word": "你好4月",
       "onboard_time": 1680322711,
       "rank": 2,
@@ -883,6 +971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158474,
+      "num": 158474,
+      "word": "庄达菲真对牛弹琴",
+      "onboard_time": 1680330750,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 155687,
       "num": 155687,
       "word": "毕业前后的差距能有多大",
@@ -913,14 +1009,6 @@
       "onboard_time": 1680272670,
       "rank": 26,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 151091,
-      "num": 151091,
-      "word": "庄达菲真对牛弹琴",
-      "onboard_time": 1680330750,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 150474,
@@ -1027,6 +1115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 130995,
+      "num": 130995,
+      "word": "蔡徐坤黑夹克日内瓦随拍",
+      "onboard_time": 1680332431,
+      "rank": 37,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 130959,
       "num": 130959,
       "word": "詹姆斯18分10篮板",
@@ -1099,12 +1195,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 124377,
+      "num": 124377,
+      "word": "KPL选手们的国服有多卷",
+      "onboard_time": 1680333030,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 124269,
       "num": 124269,
       "word": "7年7万荣迷替张国荣公益募捐",
       "onboard_time": 1680329191,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 122249,
+      "num": 122249,
+      "word": "LCK",
+      "onboard_time": 1680332732,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 121149,
@@ -1129,14 +1241,6 @@
       "onboard_time": 1680275189,
       "rank": 48,
       "category": "社会议题,情感"
-    },
-    {
-      "raw_hot": 119938,
-      "num": 119938,
-      "word": "他是谁剧组到底做了多少盒饭",
-      "onboard_time": 1680330570,
-      "rank": 39,
-      "category": "影视"
     },
     {
       "raw_hot": 116015,
@@ -1288,6 +1392,14 @@
       "word": "白术",
       "onboard_time": 1680267386,
       "rank": 41,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 94070,
+      "num": 94070,
+      "word": "T1对战GEN",
+      "onboard_time": 1680333030,
+      "rank": 45,
       "category": "游戏"
     },
     {
