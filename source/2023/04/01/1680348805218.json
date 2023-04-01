@@ -1,0 +1,410 @@
+{
+  "runTime": 1680348805218,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1391775,
+        "num": 1391775,
+        "word": "品如艾莉都参加乘风破浪4了",
+        "onboard_time": 1680346350,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 658658,
+        "num": 658658,
+        "word": "小伙偷女友近4万供女友消费",
+        "onboard_time": 1680329550,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60613,
+        "num": 635184,
+        "word": "黄河保护法今起施行",
+        "onboard_time": 1680337412,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3965161,
+        "num": 607233,
+        "word": "张继科回应因欠债传播女演员隐私视频",
+        "onboard_time": 1680332610,
+        "rank": 3,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 830584,
+        "num": 592144,
+        "word": "父母抹酒精退烧致4岁女儿住进ICU",
+        "onboard_time": 1680339813,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 715134,
+        "num": 546223,
+        "word": "上海地铁内男子嬉皮笑脸耍刀玩",
+        "onboard_time": 1680345567,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 533593,
+        "num": 533593,
+        "word": "张杰广州演唱会",
+        "onboard_time": 1680347130,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 457723,
+        "num": 457723,
+        "word": "生理性抑郁症",
+        "onboard_time": 1680332552,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 443420,
+        "num": 443420,
+        "word": "华为余承东内网回应不造车决议",
+        "onboard_time": 1680347011,
+        "rank": 8,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 384237,
+        "num": 384237,
+        "word": "INTO1告别演唱会泰国场",
+        "onboard_time": 1680346350,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1159827,
+        "num": 340055,
+        "word": "景甜曾说司藤救赎了灰色世界的自己",
+        "onboard_time": 1680337293,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 707190,
+        "num": 326771,
+        "word": "迪丽热巴落肩鱼尾长裙",
+        "onboard_time": 1680346531,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 292978,
+        "num": 292978,
+        "word": "时代少年团的愚人节vlog",
+        "onboard_time": 1680345390,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242554,
+        "num": 242554,
+        "word": "张继科方将对侵权用户提起诉讼",
+        "onboard_time": 1680260966,
+        "rank": 13,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 239279,
+        "num": 239279,
+        "word": "铃芽之旅 依恋关系的创伤与修复",
+        "onboard_time": 1680345210,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 218857,
+        "num": 218857,
+        "word": "孙国友林场原本就有固沙植被",
+        "onboard_time": 1680345269,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205194,
+        "num": 205194,
+        "word": "成龙说现在没有真正的功夫明星了",
+        "onboard_time": 1680339990,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203642,
+        "num": 203642,
+        "word": "成都锦城学院",
+        "onboard_time": 1680336331,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203573,
+        "num": 203573,
+        "word": "洪世贤来帮唱吗",
+        "onboard_time": 1680348209,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194285,
+        "num": 194285,
+        "word": "菠菜和豆腐能不能同吃",
+        "onboard_time": 1680330988,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1780447,
+        "num": 193612,
+        "word": "李微敖 张继科",
+        "onboard_time": 1680326491,
+        "rank": 20,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 461590,
+        "num": 191597,
+        "word": "杨幂说一不小心回到小时候",
+        "onboard_time": 1680341551,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 346174,
+        "num": 190479,
+        "word": "Irene红色缎带造型",
+        "onboard_time": 1680345748,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 294134,
+        "num": 187305,
+        "word": "最不想收到的一笔退款",
+        "onboard_time": 1680345990,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 280688,
+        "num": 186088,
+        "word": "张继科",
+        "onboard_time": 1680308484,
+        "rank": 24,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 272673,
+        "num": 184262,
+        "word": "顾客买小龙虾99元4斤称重仅2斤多",
+        "onboard_time": 1680343170,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255489,
+        "num": 182846,
+        "word": "鹿晗广州",
+        "onboard_time": 1680340651,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236730,
+        "num": 180423,
+        "word": "徐冬冬自曝120斤",
+        "onboard_time": 1680335069,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194860,
+        "num": 178848,
+        "word": "罗云熙宋轶新剧已在横店置景",
+        "onboard_time": 1680344372,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 178341,
+        "num": 178341,
+        "word": "KPL",
+        "onboard_time": 1680347429,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 187165,
+        "num": 173829,
+        "word": "赵丽颖与海鸥随拍",
+        "onboard_time": 1680346952,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169259,
+        "num": 169259,
+        "word": "BLG为啥视野能这么差",
+        "onboard_time": 1680344372,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 167639,
+        "num": 167639,
+        "word": "发烧擦酒精",
+        "onboard_time": 1680343649,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167328,
+        "num": 167328,
+        "word": "花琉璃轶闻",
+        "onboard_time": 1680348209,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165345,
+        "num": 165345,
+        "word": "毛不易深圳演唱会",
+        "onboard_time": 1680347370,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 164605,
+        "num": 164605,
+        "word": "李荣浩武汉演唱会",
+        "onboard_time": 1680348209,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 162671,
+        "num": 162671,
+        "word": "铃芽之旅",
+        "onboard_time": 1680341611,
+        "rank": 36,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 150002,
+        "num": 150002,
+        "word": "T1晋级MSI",
+        "onboard_time": 1680344372,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 143979,
+        "num": 143979,
+        "word": "马东锡头像",
+        "onboard_time": 1680332251,
+        "rank": 38,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 131905,
+        "num": 131905,
+        "word": "马保国直播带货",
+        "onboard_time": 1680334828,
+        "rank": 39,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 152727,
+        "num": 131896,
+        "word": "邓家佳演的安宁",
+        "onboard_time": 1680344611,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 131839,
+        "num": 131839,
+        "word": "人类幼崽还挺幽默",
+        "onboard_time": 1680344491,
+        "rank": 41,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 128309,
+        "num": 128309,
+        "word": "TES掉入卡位赛",
+        "onboard_time": 1680348451,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 122577,
+        "num": 122577,
+        "word": "女歌手遭男子泼酒后霸气回泼",
+        "onboard_time": 1680338491,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121683,
+        "num": 121683,
+        "word": "孟子义泼丁程鑫裤子",
+        "onboard_time": 1680337111,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117256,
+        "num": 117256,
+        "word": "为什么不建议自己掏耳朵",
+        "onboard_time": 1680339511,
+        "rank": 45,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 114349,
+        "num": 114349,
+        "word": "金智秀签售饭拍生图",
+        "onboard_time": 1680344911,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 113888,
+        "num": 113888,
+        "word": "网友给品如艾莉安排的剧本",
+        "onboard_time": 1680347968,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108291,
+        "num": 108291,
+        "word": "谁也别想占我内存了",
+        "onboard_time": 1680348571,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 107463,
+        "num": 107463,
+        "word": "陈坤 白宇是真的好演员",
+        "onboard_time": 1680331411,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#雄安新区6周年#"
+    }
+  }
+}

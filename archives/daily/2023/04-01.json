@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680347609263,
+  "endTime": 1680348805218,
   "band_list": [
     {
       "raw_hot": 10740151,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 2369704,
-      "num": 317727,
+      "num": 340055,
       "word": "景甜曾说司藤救赎了灰色世界的自己",
       "onboard_time": 1680337293,
       "rank": 8,
@@ -65,6 +65,14 @@
       "onboard_time": 1680325828,
       "rank": 29,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1391775,
+      "num": 1391775,
+      "word": "品如艾莉都参加乘风破浪4了",
+      "onboard_time": 1680346350,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 1239189,
@@ -97,14 +105,6 @@
       "onboard_time": 1680339813,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1071951,
-      "num": 1071951,
-      "word": "品如艾莉都参加乘风破浪4了",
-      "onboard_time": 1680346350,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 915160,
@@ -145,6 +145,22 @@
       "onboard_time": 1680331411,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 715134,
+      "num": 559016,
+      "word": "上海地铁内男子嬉皮笑脸耍刀玩",
+      "onboard_time": 1680345567,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 707190,
+      "num": 326771,
+      "word": "迪丽热巴落肩鱼尾长裙",
+      "onboard_time": 1680346531,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 698141,
@@ -251,14 +267,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 559016,
-      "num": 559016,
-      "word": "上海地铁内男子嬉皮笑脸耍刀玩",
-      "onboard_time": 1680345567,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 546582,
       "num": 546582,
       "word": "生理性抑郁症",
@@ -297,6 +305,14 @@
       "onboard_time": 1680320429,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 533593,
+      "num": 533593,
+      "word": "张杰广州演唱会",
+      "onboard_time": 1680347130,
+      "rank": 8,
+      "category": "音乐"
     },
     {
       "raw_hot": 525508,
@@ -403,6 +419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 443420,
+      "num": 443420,
+      "word": "华为余承东内网回应不造车决议",
+      "onboard_time": 1680347011,
+      "rank": 16,
+      "category": "科技"
+    },
+    {
       "raw_hot": 443246,
       "num": 443246,
       "word": "INTO1告别演唱会泰国场",
@@ -425,14 +449,6 @@
       "onboard_time": 1680274590,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 424942,
-      "num": 269891,
-      "word": "迪丽热巴落肩鱼尾长裙",
-      "onboard_time": 1680346531,
-      "rank": 11,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 419670,
@@ -507,6 +523,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 346174,
+      "num": 192442,
+      "word": "Irene红色缎带造型",
+      "onboard_time": 1680345748,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 343023,
       "num": 343023,
       "word": "你好星期六今晚好友组队局",
@@ -524,7 +548,7 @@
     },
     {
       "raw_hot": 334380,
-      "num": 269719,
+      "num": 292978,
       "word": "时代少年团的愚人节vlog",
       "onboard_time": 1680345390,
       "rank": 12,
@@ -579,28 +603,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 320665,
-      "num": 192442,
-      "word": "Irene红色缎带造型",
-      "onboard_time": 1680345748,
-      "rank": 23,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 319102,
       "num": 319102,
       "word": "马保国直播带货",
       "onboard_time": 1680334828,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 313679,
-      "num": 313679,
-      "word": "张杰广州演唱会",
-      "onboard_time": 1680347130,
-      "rank": 8,
-      "category": "音乐"
     },
     {
       "raw_hot": 312991,
@@ -625,6 +633,14 @@
       "onboard_time": 1680277467,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 294134,
+      "num": 187305,
+      "word": "最不想收到的一笔退款",
+      "onboard_time": 1680345990,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 292973,
@@ -740,7 +756,7 @@
     },
     {
       "raw_hot": 251746,
-      "num": 233702,
+      "num": 239279,
       "word": "铃芽之旅 依恋关系的创伤与修复",
       "onboard_time": 1680345210,
       "rank": 15,
@@ -785,14 +801,6 @@
       "onboard_time": 1680328351,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 242964,
-      "num": 185414,
-      "word": "最不想收到的一笔退款",
-      "onboard_time": 1680345990,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 238096,
@@ -851,19 +859,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 225204,
-      "num": 225204,
-      "word": "华为余承东内网回应不造车决议",
-      "onboard_time": 1680347011,
-      "rank": 16,
-      "category": "科技"
-    },
-    {
       "raw_hot": 219723,
       "num": 219723,
       "word": "发烧擦酒精",
       "onboard_time": 1680343649,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 218857,
+      "num": 218857,
+      "word": "孙国友林场原本就有固沙植被",
+      "onboard_time": 1680345269,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -952,6 +960,14 @@
       "word": "Ella一家三口抵达长沙",
       "onboard_time": 1680264147,
       "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 203573,
+      "num": 203573,
+      "word": "洪世贤来帮唱吗",
+      "onboard_time": 1680348209,
+      "rank": 18,
       "category": "综艺"
     },
     {
@@ -1139,6 +1155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187165,
+      "num": 173829,
+      "word": "赵丽颖与海鸥随拍",
+      "onboard_time": 1680346952,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 185449,
       "num": 185449,
       "word": "朱一龙四月海报",
@@ -1185,6 +1209,14 @@
       "onboard_time": 1680305360,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 178341,
+      "num": 178341,
+      "word": "KPL",
+      "onboard_time": 1680347429,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 178298,
@@ -1243,6 +1275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 167328,
+      "num": 167328,
+      "word": "花琉璃轶闻",
+      "onboard_time": 1680348209,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 167101,
       "num": 167101,
       "word": "光与夜之恋",
@@ -1281,6 +1321,22 @@
       "onboard_time": 1680317668,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 165345,
+      "num": 165345,
+      "word": "毛不易深圳演唱会",
+      "onboard_time": 1680347370,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 164605,
+      "num": 164605,
+      "word": "李荣浩武汉演唱会",
+      "onboard_time": 1680348209,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 162968,
@@ -1337,14 +1393,6 @@
       "onboard_time": 1680318868,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 154555,
-      "num": 154555,
-      "word": "孙国友林场原本就有固沙植被",
-      "onboard_time": 1680345269,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 154024,
@@ -1425,14 +1473,6 @@
       "onboard_time": 1680316469,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 142054,
-      "num": 142054,
-      "word": "赵丽颖与海鸥随拍",
-      "onboard_time": 1680346952,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 141397,
@@ -1595,14 +1635,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 129708,
-      "num": 129708,
-      "word": "毛不易深圳演唱会",
-      "onboard_time": 1680347370,
-      "rank": 41,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 129159,
       "num": 129159,
       "word": "让郭帆付钱的电影",
@@ -1627,11 +1659,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 128081,
-      "num": 128081,
-      "word": "KPL",
-      "onboard_time": 1680347429,
-      "rank": 43,
+      "raw_hot": 128309,
+      "num": 128309,
+      "word": "TES掉入卡位赛",
+      "onboard_time": 1680348451,
+      "rank": 42,
       "category": "游戏"
     },
     {
@@ -1755,6 +1787,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 113888,
+      "num": 113888,
+      "word": "网友给品如艾莉安排的剧本",
+      "onboard_time": 1680347968,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 113783,
       "num": 113783,
       "word": "王者S31赛季即将开启",
@@ -1801,6 +1841,14 @@
       "onboard_time": 1680340171,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 108291,
+      "num": 108291,
+      "word": "谁也别想占我内存了",
+      "onboard_time": 1680348571,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 107973,
