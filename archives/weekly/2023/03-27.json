@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1680340516500,
+  "endTime": 1680341594842,
   "band_list": [
     {
       "raw_hot": 12970403,
@@ -1161,6 +1161,14 @@
       "onboard_time": 1680187289,
       "rank": 3,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1090171,
+      "num": 586433,
+      "word": "父母抹酒精退烧致4岁女儿住进ICU",
+      "onboard_time": 1680339813,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1086494,
@@ -3307,6 +3315,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 511416,
+      "num": 511416,
+      "word": "成龙说现在没有真正的功夫明星了",
+      "onboard_time": 1680339990,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 511098,
       "num": 511098,
       "word": "汽车雷达在无人陵园内显示全是人影",
@@ -4923,14 +4939,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 349438,
-      "num": 349438,
-      "word": "父母抹酒精退烧致4岁女儿住进ICU",
-      "onboard_time": 1680339813,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 349122,
       "num": 349122,
       "word": "文东恩河道英策划全在俊的死",
@@ -5067,20 +5075,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 338455,
+      "num": 186572,
+      "word": "女歌手遭男子泼酒后霸气回泼",
+      "onboard_time": 1680338491,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 338372,
       "num": 338372,
       "word": "李沁黑长直上班路透",
       "onboard_time": 1680267867,
       "rank": 21,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 336854,
-      "num": 186572,
-      "word": "女歌手遭男子泼酒后霸气回泼",
-      "onboard_time": 1680338491,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 336824,
@@ -5289,6 +5297,14 @@
       "onboard_time": 1679905293,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 323883,
+      "num": 146215,
+      "word": "鹿晗广州",
+      "onboard_time": 1680340651,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 323776,
@@ -6779,6 +6795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 249018,
+      "num": 249018,
+      "word": "导演说范丞丞给的惊喜太多了",
+      "onboard_time": 1680336273,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 248984,
       "num": 248984,
       "word": "狗狗读懂了环卫工人的手势",
@@ -6993,14 +7017,6 @@
       "onboard_time": 1680144446,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 235600,
-      "num": 235600,
-      "word": "导演说范丞丞给的惊喜太多了",
-      "onboard_time": 1680336273,
-      "rank": 29,
-      "category": "影视"
     },
     {
       "raw_hot": 235379,
@@ -8019,14 +8035,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 205428,
-      "num": 205428,
-      "word": "成龙说现在没有真正的功夫明星了",
-      "onboard_time": 1680339990,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
       "raw_hot": 205414,
       "num": 205414,
       "word": "林智妍再报天气预报",
@@ -8385,6 +8393,14 @@
       "onboard_time": 1680240265,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 199248,
+      "num": 199248,
+      "word": "孙龙双冠",
+      "onboard_time": 1680339813,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 199225,
@@ -9161,14 +9177,6 @@
       "onboard_time": 1680007407,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 187317,
-      "num": 187317,
-      "word": "孙龙双冠",
-      "onboard_time": 1680339813,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 187304,
@@ -10088,6 +10096,14 @@
       "word": "孟贺",
       "onboard_time": 1680048388,
       "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 166511,
+      "num": 166511,
+      "word": "杨幂说一不小心回到小时候",
+      "onboard_time": 1680341551,
+      "rank": 19,
       "category": "艺人"
     },
     {
@@ -11131,6 +11147,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 139797,
+      "num": 139797,
+      "word": "为何酒精能控制某些人的大脑",
+      "onboard_time": 1680341011,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139382,
       "num": 139382,
       "word": "归路大结局预告",
@@ -11587,6 +11611,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 128704,
+      "num": 128704,
+      "word": "TES对战TTG",
+      "onboard_time": 1680341429,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 128678,
       "num": 128678,
       "word": "双马煤矿曾无证取水被罚8万",
@@ -12025,6 +12057,14 @@
       "onboard_time": 1680275189,
       "rank": 48,
       "category": "社会议题,情感"
+    },
+    {
+      "raw_hot": 119837,
+      "num": 119837,
+      "word": "文俊辉愚人节贺图",
+      "onboard_time": 1680340710,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 119762,

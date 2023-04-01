@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680340516500,
+  "endTime": 1680341594842,
   "band_list": [
     {
       "raw_hot": 10740151,
@@ -87,6 +87,14 @@
       "num": 1109691,
       "word": "4月1至5日将出现大范围强雨雪",
       "onboard_time": 1680318147,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1090171,
+      "num": 586433,
+      "word": "父母抹酒精退烧致4岁女儿住进ICU",
+      "onboard_time": 1680339813,
       "rank": 6,
       "category": "社会新闻"
     },
@@ -275,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 511416,
+      "num": 511416,
+      "word": "成龙说现在没有真正的功夫明星了",
+      "onboard_time": 1680339990,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 504143,
       "num": 332891,
       "word": "保姆推搡8旬老人还让其吃排泄物",
@@ -435,14 +451,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 349438,
-      "num": 349438,
-      "word": "父母抹酒精退烧致4岁女儿住进ICU",
-      "onboard_time": 1680339813,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 343023,
       "num": 343023,
       "word": "你好星期六今晚好友组队局",
@@ -451,7 +459,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 336854,
+      "raw_hot": 338455,
       "num": 186572,
       "word": "女歌手遭男子泼酒后霸气回泼",
       "onboard_time": 1680338491,
@@ -497,6 +505,14 @@
       "onboard_time": 1680303797,
       "rank": 31,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 323883,
+      "num": 146215,
+      "word": "鹿晗广州",
+      "onboard_time": 1680340651,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 322251,
@@ -659,6 +675,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 249018,
+      "num": 249018,
+      "word": "导演说范丞丞给的惊喜太多了",
+      "onboard_time": 1680336273,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 248015,
       "num": 194636,
       "word": "真的还是假的",
@@ -681,14 +705,6 @@
       "onboard_time": 1680339750,
       "rank": 13,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 235600,
-      "num": 235600,
-      "word": "导演说范丞丞给的惊喜太多了",
-      "onboard_time": 1680336273,
-      "rank": 29,
-      "category": "影视"
     },
     {
       "raw_hot": 234532,
@@ -803,14 +819,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 205428,
-      "num": 205428,
-      "word": "成龙说现在没有真正的功夫明星了",
-      "onboard_time": 1680339990,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
       "raw_hot": 203562,
       "num": 203562,
       "word": "电影消失的她",
@@ -865,6 +873,14 @@
       "onboard_time": 1680318029,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 199248,
+      "num": 199248,
+      "word": "孙龙双冠",
+      "onboard_time": 1680339813,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 199066,
@@ -971,14 +987,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 187317,
-      "num": 187317,
-      "word": "孙龙双冠",
-      "onboard_time": 1680339813,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 185449,
       "num": 185449,
       "word": "朱一龙四月海报",
@@ -1073,6 +1081,14 @@
       "onboard_time": 1680312927,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 166511,
+      "num": 166511,
+      "word": "杨幂说一不小心回到小时候",
+      "onboard_time": 1680341551,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 166236,
@@ -1259,6 +1275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 139797,
+      "num": 139797,
+      "word": "为何酒精能控制某些人的大脑",
+      "onboard_time": 1680341011,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139333,
       "num": 139333,
       "word": "深圳DYG",
@@ -1347,6 +1371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128704,
+      "num": 128704,
+      "word": "TES对战TTG",
+      "onboard_time": 1680341429,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 128538,
       "num": 128538,
       "word": "张杰告别我们的客栈",
@@ -1425,6 +1457,14 @@
       "onboard_time": 1680275189,
       "rank": 48,
       "category": "社会议题,情感"
+    },
+    {
+      "raw_hot": 119837,
+      "num": 119837,
+      "word": "文俊辉愚人节贺图",
+      "onboard_time": 1680340710,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 119762,
