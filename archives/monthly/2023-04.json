@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680305608570,
+  "endTime": 1680312300161,
   "band_list": [
     {
       "raw_hot": 7084987,
@@ -9,6 +9,46 @@
       "onboard_time": 1680278126,
       "rank": 0,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 2585774,
+      "num": 2585774,
+      "word": "张继科",
+      "onboard_time": 1680308484,
+      "rank": 0,
+      "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 2547395,
+      "num": 2547395,
+      "word": "张国荣",
+      "onboard_time": 1680305961,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 915160,
+      "num": 915160,
+      "word": "唐鹤德 夜阑静有谁共鸣",
+      "onboard_time": 1680309506,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 698141,
+      "num": 321125,
+      "word": "韩素希说想成为宋慧乔的小狗",
+      "onboard_time": 1680307823,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 635026,
+      "num": 635026,
+      "word": "外卖不够起送价你会凑单吗",
+      "onboard_time": 1680307642,
+      "rank": 4,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 611165,
@@ -28,7 +68,7 @@
     },
     {
       "raw_hot": 561886,
-      "num": 153853,
+      "num": 172886,
       "word": "不要再盲掏耳朵了",
       "onboard_time": 1680275608,
       "rank": 20,
@@ -36,7 +76,7 @@
     },
     {
       "raw_hot": 543449,
-      "num": 153451,
+      "num": 172317,
       "word": "意大利宣布禁止使用ChatGPT",
       "onboard_time": 1680267447,
       "rank": 21,
@@ -51,6 +91,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 512815,
+      "num": 512815,
+      "word": "药神案当事人回应一审判决",
+      "onboard_time": 1680307583,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 490175,
       "num": 250411,
       "word": "叶一茜 森碟和亮仔都是我的宝贝",
@@ -59,12 +107,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 483860,
+      "num": 483860,
+      "word": "教育局回应女孩自述曾遭校园霸凌",
+      "onboard_time": 1680310466,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 456547,
       "num": 456547,
       "word": "张继科方将对侵权用户提起诉讼",
       "onboard_time": 1680260966,
       "rank": 1,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 454263,
+      "num": 454263,
+      "word": "四月是你的谎言",
+      "onboard_time": 1680307101,
+      "rank": 7,
+      "category": "动漫"
     },
     {
       "raw_hot": 451567,
@@ -84,7 +148,7 @@
     },
     {
       "raw_hot": 403446,
-      "num": 153230,
+      "num": 173876,
       "word": "你介意另一半跟前任同居过吗",
       "onboard_time": 1680260906,
       "rank": 22,
@@ -97,6 +161,14 @@
       "onboard_time": 1680262648,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 350544,
+      "num": 350544,
+      "word": "不是所有人都适合午睡",
+      "onboard_time": 1680310765,
+      "rank": 8,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 334266,
@@ -113,6 +185,14 @@
       "onboard_time": 1680261748,
       "rank": 5,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 330763,
+      "num": 330763,
+      "word": "孙国友首次回应种树破坏生态质疑",
+      "onboard_time": 1680307944,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 328858,
@@ -139,6 +219,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 289915,
+      "num": 289915,
+      "word": "杜兆才被查",
+      "onboard_time": 1680312146,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 285832,
       "num": 285832,
       "word": "华为回应什么时候可以再造5G手机",
@@ -156,11 +244,27 @@
     },
     {
       "raw_hot": 259213,
-      "num": 153003,
+      "num": 171195,
       "word": "肖战微博之夜后脑勺直拍视频",
       "onboard_time": 1680273810,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 250318,
+      "num": 250318,
+      "word": "愚人节贺图",
+      "onboard_time": 1680306319,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 217215,
+      "num": 171514,
+      "word": "宋雨琦喊李晨晨叔叔",
+      "onboard_time": 1680307944,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 215583,
@@ -235,6 +339,38 @@
       "category": "影视"
     },
     {
+      "raw_hot": 182531,
+      "num": 182531,
+      "word": "张国荣逝世20周年",
+      "onboard_time": 1680311007,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 178650,
+      "num": 170728,
+      "word": "愚人节文案",
+      "onboard_time": 1680305360,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 170111,
+      "num": 170111,
+      "word": "哪些食材烹饪前必须焯水",
+      "onboard_time": 1680310286,
+      "rank": 26,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 168846,
+      "num": 168846,
+      "word": "巧珍马栓好甜",
+      "onboard_time": 1680307041,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 166236,
       "num": 152627,
       "word": "男子饭店内持刀伤人致1死2伤",
@@ -244,7 +380,7 @@
     },
     {
       "raw_hot": 166007,
-      "num": 128347,
+      "num": 150672,
       "word": "同等分量面食是米饭热量的2到3倍",
       "onboard_time": 1680303797,
       "rank": 25,
@@ -331,12 +467,36 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 132726,
+      "num": 132726,
+      "word": "二十周年继续宠爱张国荣",
+      "onboard_time": 1680310886,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125644,
       "num": 125644,
       "word": "他是谁赵公子背景",
       "onboard_time": 1680264387,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 125046,
+      "num": 125046,
+      "word": "熊猫也有咬不动的竹子",
+      "onboard_time": 1680279865,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 121149,
+      "num": 121149,
+      "word": "阿尔德里奇正式退役",
+      "onboard_time": 1680305660,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 120016,
@@ -347,6 +507,14 @@
       "category": "社会议题,情感"
     },
     {
+      "raw_hot": 113783,
+      "num": 113783,
+      "word": "王者S31赛季即将开启",
+      "onboard_time": 1680292872,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 111016,
       "num": 111016,
       "word": "为什么很节俭还是存不到钱",
@@ -355,12 +523,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 108812,
-      "num": 108812,
-      "word": "熊猫也有咬不动的竹子",
-      "onboard_time": 1680279865,
-      "rank": 31,
-      "category": "幽默"
+      "raw_hot": 108029,
+      "num": 108029,
+      "word": "薛之谦南宁演唱会",
+      "onboard_time": 1680312087,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 103404,
@@ -411,12 +579,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 97431,
+      "num": 97431,
+      "word": "蔡徐坤说今年重点是巡演",
+      "onboard_time": 1680305061,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 95002,
       "num": 95002,
       "word": "白术",
       "onboard_time": 1680267386,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 92804,
+      "num": 92804,
+      "word": "春天里的心愿清单",
+      "onboard_time": 1680312025,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 90149,
@@ -443,28 +627,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 83095,
-      "num": 83095,
-      "word": "蔡徐坤说今年重点是巡演",
-      "onboard_time": 1680305061,
-      "rank": 33,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 81998,
       "num": 81998,
       "word": "杨紫和工作室互动",
       "onboard_time": 1680266787,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 81583,
-      "num": 81583,
-      "word": "王者S31赛季即将开启",
-      "onboard_time": 1680292872,
-      "rank": 29,
-      "category": "游戏"
     },
     {
       "raw_hot": 79862,
@@ -521,14 +689,6 @@
       "onboard_time": 1680268470,
       "rank": 49,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 61968,
-      "num": 61968,
-      "word": "愚人节文案",
-      "onboard_time": 1680305360,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 61025,
@@ -603,8 +763,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 16940,
-      "num": 452336,
+      "raw_hot": 21426,
+      "num": 1151100,
       "word": "带你共享花开烂漫时",
       "onboard_time": 1680248546,
       "rank": 2,
