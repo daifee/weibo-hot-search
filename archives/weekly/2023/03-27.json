@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1680316911592,
+  "endTime": 1680319066084,
   "band_list": [
     {
       "raw_hot": 12970403,
@@ -32,6 +32,14 @@
       "word": "黄磊孙莉回应多多争议",
       "onboard_time": 1679912791,
       "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 3373813,
+      "num": 527660,
+      "word": "景甜",
+      "onboard_time": 1680316646,
+      "rank": 4,
       "category": "艺人"
     },
     {
@@ -1827,14 +1835,6 @@
       "category": "幽默,社会新闻"
     },
     {
-      "raw_hot": 752064,
-      "num": 502742,
-      "word": "景甜",
-      "onboard_time": 1680316646,
-      "rank": 4,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 751490,
       "num": 751490,
       "word": "邯郸二中回应校园霸凌事件",
@@ -2267,6 +2267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 645184,
+      "num": 645184,
+      "word": "欢乐颂4出现新人物",
+      "onboard_time": 1680317368,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 644889,
       "num": 644889,
       "word": "怪异君",
@@ -2612,7 +2620,7 @@
     },
     {
       "raw_hot": 593416,
-      "num": 172051,
+      "num": 200115,
       "word": "魔卡少女樱",
       "onboard_time": 1680314666,
       "rank": 20,
@@ -3107,6 +3115,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 515133,
+      "num": 515133,
+      "word": "浓眉崴脚",
+      "onboard_time": 1680314486,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 515055,
       "num": 515055,
       "word": "不要做那个揉纸团的人",
@@ -3217,6 +3233,14 @@
       "onboard_time": 1680267148,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 504143,
+      "num": 332891,
+      "word": "保姆推搡8旬老人还让其吃排泄物",
+      "onboard_time": 1680316347,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 502867,
@@ -4235,6 +4259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 391168,
+      "num": 391168,
+      "word": "4月1至5日将出现大范围强雨雪",
+      "onboard_time": 1680318147,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 390866,
       "num": 390866,
       "word": "EXO见面会完整体海报",
@@ -4516,7 +4548,7 @@
     },
     {
       "raw_hot": 368482,
-      "num": 172027,
+      "num": 200042,
       "word": "王鹤棣站姐发了meiko",
       "onboard_time": 1680313647,
       "rank": 21,
@@ -5051,12 +5083,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 322412,
-      "num": 322412,
-      "word": "浓眉崴脚",
-      "onboard_time": 1680314486,
+      "raw_hot": 322251,
+      "num": 322251,
+      "word": "光渊",
+      "onboard_time": 1680317608,
       "rank": 11,
-      "category": "体育"
+      "category": "影视"
     },
     {
       "raw_hot": 322247,
@@ -5320,6 +5352,14 @@
       "word": "杭州地铁现打工人专线",
       "onboard_time": 1679965230,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 301943,
+      "num": 199931,
+      "word": "12岁男生要跟张三丰学太极背剑出走",
+      "onboard_time": 1680314426,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -5740,7 +5780,7 @@
     },
     {
       "raw_hot": 280268,
-      "num": 172008,
+      "num": 199850,
       "word": "耳屎是怎样保护耳朵的",
       "onboard_time": 1680314307,
       "rank": 22,
@@ -6129,14 +6169,6 @@
       "onboard_time": 1680088949,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 263260,
-      "num": 171979,
-      "word": "12岁男生要跟张三丰学太极背剑出走",
-      "onboard_time": 1680314426,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 262184,
@@ -6633,6 +6665,14 @@
       "onboard_time": 1679930252,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 234532,
+      "num": 199811,
+      "word": "周冬雨南瓜妆",
+      "onboard_time": 1680316709,
+      "rank": 41,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 234025,
@@ -7547,6 +7587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 206232,
+      "num": 206232,
+      "word": "张俪短发骑摩托",
+      "onboard_time": 1680317909,
+      "rank": 15,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 205981,
       "num": 205981,
       "word": "被杜华杨天真通讯录人数吓到",
@@ -7883,6 +7931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 199725,
+      "num": 199725,
+      "word": "长空之王怀念王伟",
+      "onboard_time": 1680318029,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 199429,
       "num": 199429,
       "word": "连官方都看不下去了",
@@ -7929,6 +7985,14 @@
       "onboard_time": 1680195499,
       "rank": 7,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 199066,
+      "num": 199066,
+      "word": "吴磊片场套圈",
+      "onboard_time": 1680318689,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 198897,
@@ -8292,7 +8356,7 @@
     },
     {
       "raw_hot": 193786,
-      "num": 193786,
+      "num": 200278,
       "word": "王伟牺牲22年了",
       "onboard_time": 1680305299,
       "rank": 13,
@@ -8457,6 +8521,14 @@
       "onboard_time": 1680236070,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 190365,
+      "num": 190365,
+      "word": "彭小苒说愚人节就是情人节",
+      "onboard_time": 1680318209,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 190362,
@@ -8721,6 +8793,14 @@
       "onboard_time": 1680063510,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 185449,
+      "num": 185449,
+      "word": "朱一龙四月海报",
+      "onboard_time": 1680318029,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 185347,
@@ -9267,6 +9347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 172041,
+      "num": 172041,
+      "word": "令人心动的人叫小张",
+      "onboard_time": 1680317486,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 171687,
       "num": 142988,
       "word": "姚晨做福建肉燕",
@@ -9369,14 +9457,6 @@
       "onboard_time": 1680017609,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 170097,
-      "num": 170097,
-      "word": "保姆推搡8旬老人还让其吃排泄物",
-      "onboard_time": 1680316347,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 169958,
@@ -9715,6 +9795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 159825,
+      "num": 159825,
+      "word": "蔡文静紫霞仙子造型",
+      "onboard_time": 1680317668,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 159371,
       "num": 159371,
       "word": "检察官将要求特朗普出庭",
@@ -10024,6 +10112,14 @@
       "word": "忠犬八公后劲好大",
       "onboard_time": 1680314666,
       "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 150419,
+      "num": 150419,
+      "word": "孙茜谈主角和配角",
+      "onboard_time": 1680317668,
+      "rank": 34,
       "category": "影视"
     },
     {
@@ -10891,6 +10987,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 128212,
+      "num": 128212,
+      "word": "范丞丞白鹿周深撕名牌路透",
+      "onboard_time": 1680316469,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 128200,
       "num": 128200,
       "word": "不同薪资员工对工作的态度",
@@ -11363,14 +11467,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 114168,
-      "num": 114168,
-      "word": "周冬雨南瓜妆",
-      "onboard_time": 1680316709,
-      "rank": 41,
-      "category": "艺人,美妆"
-    },
-    {
       "raw_hot": 114124,
       "num": 114124,
       "word": "VG对战EDGM",
@@ -11443,6 +11539,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 111726,
+      "num": 111726,
+      "word": "张大大希望内娱百花齐放",
+      "onboard_time": 1680318989,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 111673,
       "num": 111673,
       "word": "爱能止痛",
@@ -11504,6 +11608,14 @@
       "word": "这HR是个卧底吧",
       "onboard_time": 1679925031,
       "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 110083,
+      "num": 110083,
+      "word": "毕业前后的差距能有多大",
+      "onboard_time": 1680318868,
+      "rank": 45,
       "category": "幽默"
     },
     {
@@ -11643,6 +11755,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 105412,
+      "num": 105412,
+      "word": "中戏宣传片里的宋亚轩",
+      "onboard_time": 1680317728,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 105285,
       "num": 105285,
       "word": "哪些人群要注意倒春寒",
@@ -11689,14 +11809,6 @@
       "onboard_time": 1680154406,
       "rank": 49,
       "category": "社会议题,情感"
-    },
-    {
-      "raw_hot": 104534,
-      "num": 104534,
-      "word": "范丞丞白鹿周深撕名牌路透",
-      "onboard_time": 1680316469,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 103852,
@@ -11921,6 +12033,14 @@
       "onboard_time": 1679895335,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 95514,
+      "num": 95514,
+      "word": "詹姆斯18分10篮板",
+      "onboard_time": 1680319049,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 94947,

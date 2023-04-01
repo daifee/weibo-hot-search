@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680316911592,
+  "endTime": 1680319066084,
   "band_list": [
     {
       "raw_hot": 7084987,
@@ -9,6 +9,14 @@
       "onboard_time": 1680278126,
       "rank": 0,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 3373813,
+      "num": 527660,
+      "word": "景甜",
+      "onboard_time": 1680316646,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 2888969,
@@ -35,14 +43,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 752064,
-      "num": 502742,
-      "word": "景甜",
-      "onboard_time": 1680316646,
-      "rank": 4,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 698141,
       "num": 356276,
       "word": "韩素希说想成为宋慧乔的小狗",
@@ -57,6 +57,14 @@
       "onboard_time": 1680312146,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 645184,
+      "num": 645184,
+      "word": "欢乐颂4出现新人物",
+      "onboard_time": 1680317368,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 635026,
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 593416,
-      "num": 172051,
+      "num": 200115,
       "word": "魔卡少女樱",
       "onboard_time": 1680314666,
       "rank": 20,
@@ -123,11 +131,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 515133,
+      "num": 515133,
+      "word": "浓眉崴脚",
+      "onboard_time": 1680314486,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 512815,
       "num": 512815,
       "word": "药神案当事人回应一审判决",
       "onboard_time": 1680307583,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 504143,
+      "num": 332891,
+      "word": "保姆推搡8旬老人还让其吃排泄物",
+      "onboard_time": 1680316347,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -187,6 +211,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 391168,
+      "num": 391168,
+      "word": "4月1至5日将出现大范围强雨雪",
+      "onboard_time": 1680318147,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 386276,
       "num": 244698,
       "word": "贝儿和妹妹",
@@ -196,7 +228,7 @@
     },
     {
       "raw_hot": 368482,
-      "num": 172027,
+      "num": 200042,
       "word": "王鹤棣站姐发了meiko",
       "onboard_time": 1680313647,
       "rank": 21,
@@ -235,12 +267,20 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 322412,
-      "num": 322412,
-      "word": "浓眉崴脚",
-      "onboard_time": 1680314486,
+      "raw_hot": 322251,
+      "num": 322251,
+      "word": "光渊",
+      "onboard_time": 1680317608,
       "rank": 11,
-      "category": "体育"
+      "category": "影视"
+    },
+    {
+      "raw_hot": 301943,
+      "num": 199931,
+      "word": "12岁男生要跟张三丰学太极背剑出走",
+      "onboard_time": 1680314426,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 298574,
@@ -268,7 +308,7 @@
     },
     {
       "raw_hot": 280268,
-      "num": 172008,
+      "num": 199850,
       "word": "耳屎是怎样保护耳朵的",
       "onboard_time": 1680314307,
       "rank": 22,
@@ -291,14 +331,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 263260,
-      "num": 171979,
-      "word": "12岁男生要跟张三丰学太极背剑出走",
-      "onboard_time": 1680314426,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 259213,
       "num": 171195,
       "word": "肖战微博之夜后脑勺直拍视频",
@@ -313,6 +345,14 @@
       "onboard_time": 1680306319,
       "rank": 13,
       "category": "情感"
+    },
+    {
+      "raw_hot": 234532,
+      "num": 199811,
+      "word": "周冬雨南瓜妆",
+      "onboard_time": 1680316709,
+      "rank": 41,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 226025,
@@ -379,12 +419,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 206232,
+      "num": 206232,
+      "word": "张俪短发骑摩托",
+      "onboard_time": 1680317909,
+      "rank": 15,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 202004,
       "num": 202004,
       "word": "陈赫打乒乓全靠场外支援",
       "onboard_time": 1680276207,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199725,
+      "num": 199725,
+      "word": "长空之王怀念王伟",
+      "onboard_time": 1680318029,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 199066,
+      "num": 199066,
+      "word": "吴磊片场套圈",
+      "onboard_time": 1680318689,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 198741,
@@ -412,11 +476,19 @@
     },
     {
       "raw_hot": 193786,
-      "num": 193786,
+      "num": 200278,
       "word": "王伟牺牲22年了",
       "onboard_time": 1680305299,
       "rank": 13,
       "category": "军事"
+    },
+    {
+      "raw_hot": 190365,
+      "num": 190365,
+      "word": "彭小苒说愚人节就是情人节",
+      "onboard_time": 1680318209,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 189261,
@@ -425,6 +497,14 @@
       "onboard_time": 1680284176,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 185449,
+      "num": 185449,
+      "word": "朱一龙四月海报",
+      "onboard_time": 1680318029,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 182531,
@@ -443,20 +523,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 172041,
+      "num": 172041,
+      "word": "令人心动的人叫小张",
+      "onboard_time": 1680317486,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170111,
       "num": 170111,
       "word": "哪些食材烹饪前必须焯水",
       "onboard_time": 1680310286,
       "rank": 26,
       "category": "美食"
-    },
-    {
-      "raw_hot": 170097,
-      "num": 170097,
-      "word": "保姆推搡8旬老人还让其吃排泄物",
-      "onboard_time": 1680316347,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 168846,
@@ -489,6 +569,14 @@
       "onboard_time": 1680303797,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 159825,
+      "num": 159825,
+      "word": "蔡文静紫霞仙子造型",
+      "onboard_time": 1680317668,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 159313,
@@ -528,6 +616,14 @@
       "word": "忠犬八公后劲好大",
       "onboard_time": 1680314666,
       "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 150419,
+      "num": 150419,
+      "word": "孙茜谈主角和配角",
+      "onboard_time": 1680317668,
+      "rank": 34,
       "category": "影视"
     },
     {
@@ -603,6 +699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 128212,
+      "num": 128212,
+      "word": "范丞丞白鹿周深撕名牌路透",
+      "onboard_time": 1680316469,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125945,
       "num": 125945,
       "word": "用古诗词解读刘亦菲",
@@ -643,20 +747,20 @@
       "category": "社会议题,情感"
     },
     {
-      "raw_hot": 114168,
-      "num": 114168,
-      "word": "周冬雨南瓜妆",
-      "onboard_time": 1680316709,
-      "rank": 41,
-      "category": "艺人,美妆"
-    },
-    {
       "raw_hot": 113783,
       "num": 113783,
       "word": "王者S31赛季即将开启",
       "onboard_time": 1680292872,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 111726,
+      "num": 111726,
+      "word": "张大大希望内娱百花齐放",
+      "onboard_time": 1680318989,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 111016,
@@ -667,12 +771,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 104534,
-      "num": 104534,
-      "word": "范丞丞白鹿周深撕名牌路透",
-      "onboard_time": 1680316469,
-      "rank": 44,
-      "category": "综艺"
+      "raw_hot": 110083,
+      "num": 110083,
+      "word": "毕业前后的差距能有多大",
+      "onboard_time": 1680318868,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 105412,
+      "num": 105412,
+      "word": "中戏宣传片里的宋亚轩",
+      "onboard_time": 1680317728,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 103404,
@@ -737,6 +849,14 @@
       "onboard_time": 1680312807,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 95514,
+      "num": 95514,
+      "word": "詹姆斯18分10篮板",
+      "onboard_time": 1680319049,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 95002,
