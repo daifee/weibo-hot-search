@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680381223244,
+  "endTime": 1680383639624,
   "band_list": [
     {
       "raw_hot": 10740151,
@@ -2891,6 +2891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 26969,
+      "num": 22845,
+      "word": "当你周末半夜突然醒来",
+      "onboard_time": 1680375016,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 23161,
       "num": 1246932,
       "word": "带你共享花开烂漫时",
@@ -2907,12 +2915,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 11787,
-      "num": 15062,
-      "word": "当你周末半夜突然醒来",
-      "onboard_time": 1680375016,
+      "raw_hot": 12137,
+      "num": 14932,
+      "word": "热爱生活的人不会无聊",
+      "onboard_time": 1680383591,
       "rank": 49,
-      "category": "情感"
+      "category": "情感,幽默"
     }
   ],
   "hotgov_list": [

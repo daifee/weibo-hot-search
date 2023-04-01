@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/04/01 00:21:42 ~ 2023/04/02 04:33:43
+本榜单时间：2023/04/01 00:21:42 ~ 2023/04/02 05:13:59
 </p>
 </blockquote>
 <p>
@@ -2181,6 +2181,12 @@ BLG对战RNG（热度：92885）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%BD%A0%E5%91%A8%E6%9C%AB%E5%8D%8A%E5%A4%9C%E7%AA%81%E7%84%B6%E9%86%92%E6%9D%A5%23" target="weibo">
+当你周末半夜突然醒来（热度：26969）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B8%A6%E4%BD%A0%E5%85%B1%E4%BA%AB%E8%8A%B1%E5%BC%80%E7%83%82%E6%BC%AB%E6%97%B6%23" target="weibo">
 带你共享花开烂漫时（热度：23161）
 </a>
@@ -2193,8 +2199,8 @@ BLG对战RNG（热度：92885）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%BD%A0%E5%91%A8%E6%9C%AB%E5%8D%8A%E5%A4%9C%E7%AA%81%E7%84%B6%E9%86%92%E6%9D%A5%23" target="weibo">
-当你周末半夜突然醒来（热度：11787）
+<a href="https://s.weibo.com/weibo?q=%23%E7%83%AD%E7%88%B1%E7%94%9F%E6%B4%BB%E7%9A%84%E4%BA%BA%E4%B8%8D%E4%BC%9A%E6%97%A0%E8%81%8A%23" target="weibo">
+热爱生活的人不会无聊（热度：12137）
 </a>
 </li>
 
