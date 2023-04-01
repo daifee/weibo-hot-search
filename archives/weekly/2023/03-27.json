@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1680366074129,
+  "endTime": 1680367008254,
   "band_list": [
     {
       "raw_hot": 12970403,
@@ -5011,6 +5011,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 370206,
+      "num": 370206,
+      "word": "张国荣母校利兹大学长椅上摆满鲜花",
+      "onboard_time": 1680364349,
+      "rank": 14,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 368959,
       "num": 368959,
       "word": "萌探3",
@@ -6003,14 +6011,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 298153,
-      "num": 298153,
-      "word": "张国荣母校利兹大学长椅上摆满鲜花",
-      "onboard_time": 1680364349,
-      "rank": 14,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 297858,
       "num": 297858,
       "word": "张艺兴说今年会举办巡演",
@@ -6577,6 +6577,14 @@
       "onboard_time": 1680313227,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 273332,
+      "num": 273332,
+      "word": "宰相公子要入赘",
+      "onboard_time": 1680365010,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 273094,
@@ -7396,7 +7404,7 @@
     },
     {
       "raw_hot": 236735,
-      "num": 215184,
+      "num": 220161,
       "word": "小学生继盘串后又流行起盘头",
       "onboard_time": 1680362132,
       "rank": 49,
@@ -7627,6 +7635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 227355,
+      "num": 227355,
+      "word": "罗晋晒照怀念张国荣",
+      "onboard_time": 1680364649,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 226930,
       "num": 226930,
       "word": "杨洋浅绿色西装",
@@ -7777,6 +7793,14 @@
       "onboard_time": 1680163585,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 222730,
+      "num": 222730,
+      "word": "山东一采煤塌陷地养出大珍珠",
+      "onboard_time": 1680365010,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 222679,
@@ -8049,22 +8073,6 @@
       "onboard_time": 1680305119,
       "rank": 6,
       "category": "情感"
-    },
-    {
-      "raw_hot": 215209,
-      "num": 215209,
-      "word": "宰相公子要入赘",
-      "onboard_time": 1680365010,
-      "rank": 19,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 215173,
-      "num": 215173,
-      "word": "罗晋晒照怀念张国荣",
-      "onboard_time": 1680364649,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 214913,
@@ -10609,14 +10617,6 @@
       "onboard_time": 1680192384,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 170243,
-      "num": 170243,
-      "word": "山东一采煤塌陷地养出大珍珠",
-      "onboard_time": 1680365010,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 170184,
@@ -13985,6 +13985,14 @@
       "onboard_time": 1680273510,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 83088,
+      "num": 90807,
+      "word": "情绪控制力",
+      "onboard_time": 1680364890,
+      "rank": 49,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 82894,
