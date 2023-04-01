@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680380229164,
+  "endTime": 1680381223244,
   "band_list": [
     {
       "raw_hot": 10740151,
@@ -2905,6 +2905,14 @@
       "onboard_time": 1680376993,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 11787,
+      "num": 15062,
+      "word": "当你周末半夜突然醒来",
+      "onboard_time": 1680375016,
+      "rank": 49,
+      "category": "情感"
     }
   ],
   "hotgov_list": [
