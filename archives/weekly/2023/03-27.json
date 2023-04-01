@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1680341594842,
+  "endTime": 1680344208286,
   "band_list": [
     {
       "raw_hot": 12970403,
@@ -1164,7 +1164,7 @@
     },
     {
       "raw_hot": 1090171,
-      "num": 586433,
+      "num": 730603,
       "word": "父母抹酒精退烧致4岁女儿住进ICU",
       "onboard_time": 1680339813,
       "rank": 6,
@@ -1641,6 +1641,14 @@
       "onboard_time": 1680236128,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 846221,
+      "num": 166511,
+      "word": "杨幂说一不小心回到小时候",
+      "onboard_time": 1680341551,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 843062,
@@ -2811,6 +2819,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 582995,
+      "num": 582995,
+      "word": "成龙说现在没有真正的功夫明星了",
+      "onboard_time": 1680339990,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 582169,
       "num": 582169,
       "word": "张凌赫对白鹿挑眉",
@@ -3017,6 +3033,14 @@
       "onboard_time": 1679916571,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 546582,
+      "num": 546582,
+      "word": "生理性抑郁症",
+      "onboard_time": 1680332552,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 546377,
@@ -3313,14 +3337,6 @@
       "onboard_time": 1680182370,
       "rank": 8,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 511416,
-      "num": 511416,
-      "word": "成龙说现在没有真正的功夫明星了",
-      "onboard_time": 1680339990,
-      "rank": 17,
-      "category": "影视"
     },
     {
       "raw_hot": 511098,
@@ -3937,6 +3953,14 @@
       "onboard_time": 1679902830,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 447729,
+      "num": 146215,
+      "word": "鹿晗广州",
+      "onboard_time": 1680340651,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 447411,
@@ -5297,14 +5321,6 @@
       "onboard_time": 1679905293,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 323883,
-      "num": 146215,
-      "word": "鹿晗广州",
-      "onboard_time": 1680340651,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 323776,
@@ -7707,6 +7723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 211936,
+      "num": 211936,
+      "word": "铃芽之旅",
+      "onboard_time": 1679821287,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 211769,
       "num": 211769,
       "word": "原神前瞻",
@@ -7801,6 +7825,14 @@
       "onboard_time": 1680268409,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 210033,
+      "num": 135851,
+      "word": "顾客买小龙虾99元4斤称重仅2斤多",
+      "onboard_time": 1680343170,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 209859,
@@ -10099,14 +10131,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 166511,
-      "num": 166511,
-      "word": "杨幂说一不小心回到小时候",
-      "onboard_time": 1680341551,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 166166,
       "num": 166166,
       "word": "秦岚邓家佳新剧对手戏",
@@ -10619,14 +10643,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 152819,
-      "num": 152819,
-      "word": "铃芽之旅",
-      "onboard_time": 1679821287,
-      "rank": 28,
-      "category": "影视"
-    },
-    {
       "raw_hot": 152494,
       "num": 152494,
       "word": "李沁说陈晓处理角色很自然有层次",
@@ -10641,6 +10657,14 @@
       "onboard_time": 1679999788,
       "rank": 38,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 152174,
+      "num": 152174,
+      "word": "发烧擦酒精",
+      "onboard_time": 1680343649,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 151723,
@@ -11155,6 +11179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 139666,
+      "num": 139666,
+      "word": "T1对战GEN",
+      "onboard_time": 1680333030,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 139382,
       "num": 139382,
       "word": "归路大结局预告",
@@ -11299,6 +11331,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 136718,
+      "num": 136718,
+      "word": "清清关羽无敌马腿",
+      "onboard_time": 1680343351,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 136481,
       "num": 136481,
       "word": "漂亮的战斗",
@@ -11329,6 +11369,14 @@
       "onboard_time": 1680265706,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 135237,
+      "num": 135237,
+      "word": "连书法老师都羡慕的手感",
+      "onboard_time": 1680342509,
+      "rank": 31,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 134950,
@@ -12067,20 +12115,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 119762,
-      "num": 119762,
-      "word": "T1对战GEN",
-      "onboard_time": 1680333030,
-      "rank": 45,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 119517,
       "num": 119517,
       "word": "张雨绮古装额饰妆造",
       "onboard_time": 1679910267,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 119416,
+      "num": 119416,
+      "word": "小学生好像真的读懂了史铁生",
+      "onboard_time": 1680334891,
+      "rank": 36,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 119178,
@@ -12339,6 +12387,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 109844,
+      "num": 109844,
+      "word": "为什么不建议自己掏耳朵",
+      "onboard_time": 1680339511,
+      "rank": 37,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 109280,
       "num": 109280,
       "word": "这个论文真的非写不可吗",
@@ -12369,6 +12425,14 @@
       "onboard_time": 1679880747,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 108867,
+      "num": 108867,
+      "word": "山东一废矿坑变充电宝日发电6万度",
+      "onboard_time": 1680342809,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 108696,
@@ -12889,6 +12953,14 @@
       "onboard_time": 1680319828,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 92885,
+      "num": 92885,
+      "word": "BLG对战RNG",
+      "onboard_time": 1680342270,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 92804,
@@ -13505,6 +13577,14 @@
       "onboard_time": 1680011548,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 43107,
+      "num": 105827,
+      "word": "淘宝独播哥哥纪念音乐会",
+      "onboard_time": 1680343229,
+      "rank": 39,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 42755,
