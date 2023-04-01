@@ -1,6 +1,6 @@
 {
   "startTime": 1680366074129,
-  "endTime": 1680376357515,
+  "endTime": 1680377600311,
   "band_list": [
     {
       "raw_hot": 1696151,
@@ -403,6 +403,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 92355,
+      "num": 92355,
+      "word": "律师称传播他人私密视频或担刑责",
+      "onboard_time": 1680375134,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 83771,
       "num": 99996,
       "word": "周慧敏发文追忆张国荣",
@@ -427,12 +435,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 42719,
-      "num": 42719,
-      "word": "律师称传播他人私密视频或担刑责",
-      "onboard_time": 1680375134,
-      "rank": 24,
-      "category": "社会新闻"
+      "raw_hot": 20448,
+      "num": 21759,
+      "word": "金硕珍素颜照",
+      "onboard_time": 1680376993,
+      "rank": 46,
+      "category": "作品衍生"
     }
   ],
   "hotgov_list": [
