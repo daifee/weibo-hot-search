@@ -1,0 +1,410 @@
+{
+  "runTime": 1680327217669,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1836273,
+        "num": 1836273,
+        "word": "李微敖 张继科",
+        "onboard_time": 1680326491,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1220945,
+        "num": 1220945,
+        "word": "李亚玲道歉声明",
+        "onboard_time": 1680323190,
+        "rank": 1,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 100718,
+        "num": 1000909,
+        "word": "你好4月",
+        "onboard_time": 1680322711,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4421635,
+        "num": 927606,
+        "word": "景甜",
+        "onboard_time": 1680316646,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2883262,
+        "num": 863292,
+        "word": "张继科",
+        "onboard_time": 1680308484,
+        "rank": 4,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 790266,
+        "num": 790266,
+        "word": "张国荣",
+        "onboard_time": 1680305961,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 675737,
+        "num": 675737,
+        "word": "雅思作文 绝望的文盲",
+        "onboard_time": 1680325828,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 634902,
+        "num": 634902,
+        "word": "福建漳州老人",
+        "onboard_time": 1680322471,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 551699,
+        "num": 551699,
+        "word": "4月1至5日将出现大范围强雨雪",
+        "onboard_time": 1680318147,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 500636,
+        "num": 500636,
+        "word": "水瓶座很爱切断社交",
+        "onboard_time": 1680322048,
+        "rank": 9,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 486736,
+        "num": 486736,
+        "word": "如果他还在今天28岁了",
+        "onboard_time": 1680323611,
+        "rank": 10,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 460761,
+        "num": 460761,
+        "word": "江苏事业单位",
+        "onboard_time": 1680322471,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 388967,
+        "num": 388967,
+        "word": "泰国45天免签和30天落地签临时政策已截止",
+        "onboard_time": 1680319292,
+        "rank": 12,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 343023,
+        "num": 343023,
+        "word": "你好星期六今晚好友组队局",
+        "onboard_time": 1680325772,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 322616,
+        "num": 322616,
+        "word": "桃花坞3开录全员丽江打卡",
+        "onboard_time": 1680320429,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272637,
+        "num": 272637,
+        "word": "不是所有人都适合午睡",
+        "onboard_time": 1680310765,
+        "rank": 15,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 253237,
+        "num": 253237,
+        "word": "黑暗荣耀",
+        "onboard_time": 1680320789,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 242061,
+        "num": 242061,
+        "word": "费曼发歌名怀念张国荣",
+        "onboard_time": 1680321091,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191174,
+        "num": 230696,
+        "word": "编剧李亚玲因国航监督员案被判赔5万",
+        "onboard_time": 1680323493,
+        "rank": 18,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 223974,
+        "num": 223974,
+        "word": "保姆推搡8旬老人还让其吃排泄物",
+        "onboard_time": 1680316347,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343935,
+        "num": 223399,
+        "word": "魔卡少女樱",
+        "onboard_time": 1680314666,
+        "rank": 20,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 297214,
+        "num": 222246,
+        "word": "九年前的郑秀晶",
+        "onboard_time": 1680319350,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218706,
+        "num": 218706,
+        "word": "猫咪调摄像头向主人告状",
+        "onboard_time": 1680321331,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 218265,
+        "num": 218265,
+        "word": "杨幂读剧本随拍",
+        "onboard_time": 1680323493,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202618,
+        "num": 202618,
+        "word": "宫胁咲良刘海",
+        "onboard_time": 1680326491,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185397,
+        "num": 185397,
+        "word": "王鹤棣站姐发了meiko",
+        "onboard_time": 1680313647,
+        "rank": 25,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 184850,
+        "num": 184850,
+        "word": "电竞人是会整活的",
+        "onboard_time": 1680324988,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 184207,
+        "num": 184207,
+        "word": "张继科方将对侵权用户提起诉讼",
+        "onboard_time": 1680260966,
+        "rank": 27,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 167586,
+        "num": 167586,
+        "word": "唐鹤德 夜阑静有谁共鸣",
+        "onboard_time": 1680309506,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165365,
+        "num": 165365,
+        "word": "孔雪儿MeToo舞",
+        "onboard_time": 1680326370,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 154102,
+        "num": 154102,
+        "word": "韩素希说想成为宋慧乔的小狗",
+        "onboard_time": 1680307823,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153432,
+        "num": 153432,
+        "word": "爱情而已为什么好看",
+        "onboard_time": 1680325652,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 147424,
+        "num": 147424,
+        "word": "欢乐颂4出现新人物",
+        "onboard_time": 1680317368,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 120388,
+        "num": 120388,
+        "word": "三线轮洄水下戏好刺激",
+        "onboard_time": 1680326788,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 117465,
+        "num": 117465,
+        "word": "彭小苒说愚人节就是情人节",
+        "onboard_time": 1680318209,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116015,
+        "num": 116015,
+        "word": "四月娱人节",
+        "onboard_time": 1680327091,
+        "rank": 35,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 111191,
+        "num": 111191,
+        "word": "宇宙探索编辑部",
+        "onboard_time": 1680324870,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 109560,
+        "num": 109560,
+        "word": "张大大希望内娱百花齐放",
+        "onboard_time": 1680318989,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105577,
+        "num": 105577,
+        "word": "小兔子在家干什么",
+        "onboard_time": 1680326669,
+        "rank": 38,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 103143,
+        "num": 103143,
+        "word": "四月是你的谎言",
+        "onboard_time": 1680307101,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 97557,
+        "num": 97557,
+        "word": "教育局回应女孩自述曾遭校园霸凌",
+        "onboard_time": 1680310466,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96121,
+        "num": 96121,
+        "word": "12岁男生要跟张三丰学太极背剑出走",
+        "onboard_time": 1680314426,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93409,
+        "num": 93409,
+        "word": "一生都在要链接的女人",
+        "onboard_time": 1680321331,
+        "rank": 42,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 92293,
+        "num": 92293,
+        "word": "愚人节",
+        "onboard_time": 1680305119,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 90025,
+        "num": 90025,
+        "word": "张远再唱鸭梨大",
+        "onboard_time": 1680324328,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86953,
+        "num": 86953,
+        "word": "灌篮高手湘北篮球队全员出场",
+        "onboard_time": 1680319947,
+        "rank": 45,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 86331,
+        "num": 86331,
+        "word": "桃花坞",
+        "onboard_time": 1680320609,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86283,
+        "num": 86283,
+        "word": "铃芽之旅里的自我救赎",
+        "onboard_time": 1680323190,
+        "rank": 47,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 86147,
+        "num": 86147,
+        "word": "耳屎是怎样保护耳朵的",
+        "onboard_time": 1680314307,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 85804,
+        "num": 85804,
+        "word": "人生路不熟愚人节好好说话海报",
+        "onboard_time": 1680326788,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#为不确定的世界注入中国信心与力量#"
+    }
+  }
+}

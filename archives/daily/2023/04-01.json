@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680326139269,
+  "endTime": 1680327217669,
   "band_list": [
     {
       "raw_hot": 7084987,
@@ -11,8 +11,8 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 4299913,
-      "num": 836746,
+      "raw_hot": 4421635,
+      "num": 927606,
       "word": "景甜",
       "onboard_time": 1680316646,
       "rank": 4,
@@ -27,12 +27,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2825813,
+      "raw_hot": 2883262,
       "num": 2585774,
       "word": "张继科",
       "onboard_time": 1680308484,
       "rank": 0,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 1836273,
+      "num": 1836273,
+      "word": "李微敖 张继科",
+      "onboard_time": 1680326491,
+      "rank": 0,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1220945,
+      "num": 1220945,
+      "word": "李亚玲道歉声明",
+      "onboard_time": 1680323190,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 1109691,
@@ -59,14 +75,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 861935,
-      "num": 861935,
-      "word": "李亚玲道歉声明",
-      "onboard_time": 1680323190,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 698141,
       "num": 356276,
       "word": "韩素希说想成为宋慧乔的小狗",
@@ -89,6 +97,14 @@
       "onboard_time": 1680312146,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 675737,
+      "num": 675737,
+      "word": "雅思作文 绝望的文盲",
+      "onboard_time": 1680325828,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 646659,
@@ -140,7 +156,7 @@
     },
     {
       "raw_hot": 593416,
-      "num": 206410,
+      "num": 223399,
       "word": "魔卡少女樱",
       "onboard_time": 1680314666,
       "rank": 20,
@@ -219,6 +235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 486736,
+      "num": 486736,
+      "word": "如果他还在今天28岁了",
+      "onboard_time": 1680323611,
+      "rank": 48,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 478943,
       "num": 389999,
       "word": "黑暗荣耀",
@@ -259,14 +283,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 430501,
-      "num": 430501,
-      "word": "如果他还在今天28岁了",
-      "onboard_time": 1680323611,
-      "rank": 48,
-      "category": "情感,社会新闻"
-    },
-    {
       "raw_hot": 429908,
       "num": 248553,
       "word": "网友丽江偶遇王鹤棣",
@@ -292,7 +308,7 @@
     },
     {
       "raw_hot": 392752,
-      "num": 200882,
+      "num": 222246,
       "word": "九年前的郑秀晶",
       "onboard_time": 1680319350,
       "rank": 27,
@@ -313,6 +329,14 @@
       "onboard_time": 1680313647,
       "rank": 21,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 343023,
+      "num": 343023,
+      "word": "你好星期六今晚好友组队局",
+      "onboard_time": 1680325772,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 334266,
@@ -436,7 +460,7 @@
     },
     {
       "raw_hot": 253090,
-      "num": 200687,
+      "num": 218706,
       "word": "猫咪调摄像头向主人告状",
       "onboard_time": 1680321331,
       "rank": 23,
@@ -491,6 +515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 218265,
+      "num": 218265,
+      "word": "杨幂读剧本随拍",
+      "onboard_time": 1680323493,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 217215,
       "num": 171514,
       "word": "宋雨琦喊李晨晨叔叔",
@@ -505,14 +537,6 @@
       "onboard_time": 1680317909,
       "rank": 15,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 215653,
-      "num": 197382,
-      "word": "杨幂读剧本随拍",
-      "onboard_time": 1680323493,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 215583,
@@ -548,7 +572,7 @@
     },
     {
       "raw_hot": 207901,
-      "num": 207901,
+      "num": 230696,
       "word": "编剧李亚玲因国航监督员案被判赔5万",
       "onboard_time": 1680323493,
       "rank": 44,
@@ -561,6 +585,14 @@
       "onboard_time": 1680264147,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 202618,
+      "num": 202618,
+      "word": "宫胁咲良刘海",
+      "onboard_time": 1680326491,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 202004,
@@ -576,14 +608,6 @@
       "word": "张新成说期待再次相见",
       "onboard_time": 1680326011,
       "rank": 18,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 201081,
-      "num": 201081,
-      "word": "你好星期六今晚好友组队局",
-      "onboard_time": 1680325772,
-      "rank": 19,
       "category": "综艺"
     },
     {
@@ -636,7 +660,7 @@
     },
     {
       "raw_hot": 191727,
-      "num": 841405,
+      "num": 1000909,
       "word": "你好4月",
       "onboard_time": 1680322711,
       "rank": 2,
@@ -657,6 +681,14 @@
       "onboard_time": 1680318029,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 184850,
+      "num": 184850,
+      "word": "电竞人是会整活的",
+      "onboard_time": 1680324988,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 182531,
@@ -689,14 +721,6 @@
       "onboard_time": 1680317486,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 173167,
-      "num": 173167,
-      "word": "雅思作文 绝望的文盲",
-      "onboard_time": 1680325828,
-      "rank": 29,
-      "category": "教育"
     },
     {
       "raw_hot": 170111,
@@ -739,6 +763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165365,
+      "num": 165365,
+      "word": "孔雪儿MeToo舞",
+      "onboard_time": 1680326370,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 165358,
       "num": 165358,
       "word": "蔡文静紫霞仙子造型",
@@ -779,20 +811,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 153432,
+      "num": 153432,
+      "word": "爱情而已为什么好看",
+      "onboard_time": 1680325652,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 152280,
       "num": 152280,
       "word": "张艺兴公司新增体育竞赛组织业务",
       "onboard_time": 1680272670,
       "rank": 26,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 150772,
-      "num": 150772,
-      "word": "电竞人是会整活的",
-      "onboard_time": 1680324988,
-      "rank": 33,
-      "category": "游戏"
     },
     {
       "raw_hot": 150474,
@@ -891,14 +923,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 133033,
-      "num": 133033,
-      "word": "爱情而已为什么好看",
-      "onboard_time": 1680325652,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 132726,
       "num": 132726,
       "word": "二十周年继续宠爱张国荣",
@@ -979,12 +1003,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 120388,
+      "num": 120388,
+      "word": "三线轮洄水下戏好刺激",
+      "onboard_time": 1680326788,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 120016,
       "num": 120016,
       "word": "如何看待禁止脏车入城规定",
       "onboard_time": 1680275189,
       "rank": 48,
       "category": "社会议题,情感"
+    },
+    {
+      "raw_hot": 116015,
+      "num": 116015,
+      "word": "四月娱人节",
+      "onboard_time": 1680327091,
+      "rank": 35,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 113783,
@@ -1009,6 +1049,14 @@
       "onboard_time": 1680319947,
       "rank": 47,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 105577,
+      "num": 105577,
+      "word": "小兔子在家干什么",
+      "onboard_time": 1680326669,
+      "rank": 38,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 105412,
@@ -1129,6 +1177,14 @@
       "onboard_time": 1680256765,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 85804,
+      "num": 85804,
+      "word": "人生路不熟愚人节好好说话海报",
+      "onboard_time": 1680326788,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 85605,
