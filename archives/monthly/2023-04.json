@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680323653684,
+  "endTime": 1680326139269,
   "band_list": [
     {
       "raw_hot": 7084987,
@@ -27,7 +27,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2585774,
+      "raw_hot": 2825813,
       "num": 2585774,
       "word": "张继科",
       "onboard_time": 1680308484,
@@ -59,12 +59,28 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 861935,
+      "num": 861935,
+      "word": "李亚玲道歉声明",
+      "onboard_time": 1680323190,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 698141,
       "num": 356276,
       "word": "韩素希说想成为宋慧乔的小狗",
       "onboard_time": 1680307823,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 688377,
+      "num": 688377,
+      "word": "福建漳州老人",
+      "onboard_time": 1680322471,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 677080,
@@ -155,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 538811,
+      "num": 538811,
+      "word": "水瓶座很爱切断社交",
+      "onboard_time": 1680322048,
+      "rank": 19,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 538630,
       "num": 538630,
       "word": "桃花坞3开录全员丽江打卡",
@@ -235,12 +259,12 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 430276,
-      "num": 430276,
-      "word": "水瓶座很爱切断社交",
-      "onboard_time": 1680322048,
-      "rank": 19,
-      "category": "情感,网红"
+      "raw_hot": 430501,
+      "num": 430501,
+      "word": "如果他还在今天28岁了",
+      "onboard_time": 1680323611,
+      "rank": 48,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 429908,
@@ -268,7 +292,7 @@
     },
     {
       "raw_hot": 392752,
-      "num": 198319,
+      "num": 200882,
       "word": "九年前的郑秀晶",
       "onboard_time": 1680319350,
       "rank": 27,
@@ -289,14 +313,6 @@
       "onboard_time": 1680313647,
       "rank": 21,
       "category": "艺人,游戏"
-    },
-    {
-      "raw_hot": 356596,
-      "num": 356596,
-      "word": "福建漳州老人",
-      "onboard_time": 1680322471,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 334266,
@@ -419,6 +435,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 253090,
+      "num": 200687,
+      "word": "猫咪调摄像头向主人告状",
+      "onboard_time": 1680321331,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 250318,
       "num": 250318,
       "word": "愚人节贺图",
@@ -433,14 +457,6 @@
       "onboard_time": 1680316709,
       "rank": 41,
       "category": "艺人,美妆"
-    },
-    {
-      "raw_hot": 230327,
-      "num": 195238,
-      "word": "猫咪调摄像头向主人告状",
-      "onboard_time": 1680321331,
-      "rank": 23,
-      "category": "幽默"
     },
     {
       "raw_hot": 229476,
@@ -491,6 +507,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 215653,
+      "num": 197382,
+      "word": "杨幂读剧本随拍",
+      "onboard_time": 1680323493,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 215583,
       "num": 215583,
       "word": "四月",
@@ -523,6 +547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 207901,
+      "num": 207901,
+      "word": "编剧李亚玲因国航监督员案被判赔5万",
+      "onboard_time": 1680323493,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 207176,
       "num": 207176,
       "word": "Ella一家三口抵达长沙",
@@ -531,19 +563,27 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 202968,
-      "num": 189788,
-      "word": "杨幂读剧本随拍",
-      "onboard_time": 1680323493,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 202004,
       "num": 202004,
       "word": "陈赫打乒乓全靠场外支援",
       "onboard_time": 1680276207,
       "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 201474,
+      "num": 201474,
+      "word": "张新成说期待再次相见",
+      "onboard_time": 1680326011,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 201081,
+      "num": 201081,
+      "word": "你好星期六今晚好友组队局",
+      "onboard_time": 1680325772,
+      "rank": 19,
       "category": "综艺"
     },
     {
@@ -635,12 +675,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 178298,
+      "num": 178298,
+      "word": "宇宙探索编辑部",
+      "onboard_time": 1680324870,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 175274,
       "num": 175274,
       "word": "令人心动的人叫小张",
       "onboard_time": 1680317486,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 173167,
+      "num": 173167,
+      "word": "雅思作文 绝望的文盲",
+      "onboard_time": 1680325828,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 170111,
@@ -691,14 +747,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 160954,
-      "num": 153721,
-      "word": "李亚玲道歉声明",
-      "onboard_time": 1680323190,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 159313,
       "num": 152342,
       "word": "吴磊被送火烈鸟",
@@ -737,6 +785,14 @@
       "onboard_time": 1680272670,
       "rank": 26,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 150772,
+      "num": 150772,
+      "word": "电竞人是会整活的",
+      "onboard_time": 1680324988,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 150474,
@@ -835,6 +891,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 133033,
+      "num": 133033,
+      "word": "爱情而已为什么好看",
+      "onboard_time": 1680325652,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 132726,
       "num": 132726,
       "word": "二十周年继续宠爱张国荣",
@@ -851,6 +915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130227,
+      "num": 130227,
+      "word": "张远再唱鸭梨大",
+      "onboard_time": 1680324328,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 129828,
       "num": 129828,
       "word": "马刺vs勇士",
@@ -865,6 +937,14 @@
       "onboard_time": 1680320729,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 127546,
+      "num": 109073,
+      "word": "宇宙探索编辑部上映",
+      "onboard_time": 1680325169,
+      "rank": 40,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 125945,
@@ -913,14 +993,6 @@
       "onboard_time": 1680292872,
       "rank": 29,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 111519,
-      "num": 111519,
-      "word": "编剧李亚玲因国航监督员案被判赔5万",
-      "onboard_time": 1680323493,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 111016,
@@ -1025,14 +1097,6 @@
       "onboard_time": 1680312807,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 95029,
-      "num": 95029,
-      "word": "如果他还在今天28岁了",
-      "onboard_time": 1680323611,
-      "rank": 48,
-      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 95002,
