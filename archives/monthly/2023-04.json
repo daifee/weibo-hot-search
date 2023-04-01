@@ -1,10 +1,10 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680330045854,
+  "endTime": 1680330833893,
   "band_list": [
     {
-      "raw_hot": 10212580,
-      "num": 10212580,
+      "raw_hot": 10740151,
+      "num": 10740151,
       "word": "李微敖 张继科",
       "onboard_time": 1680326491,
       "rank": 0,
@@ -307,12 +307,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 401202,
+      "num": 401202,
+      "word": "小伙偷女友近4万供女友消费",
+      "onboard_time": 1680329550,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 392752,
       "num": 222246,
       "word": "九年前的郑秀晶",
       "onboard_time": 1680319350,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 392068,
+      "num": 392068,
+      "word": "华晨宇是那英队的隐形制作人",
+      "onboard_time": 1680328891,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 386276,
@@ -387,12 +403,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 311515,
-      "num": 311515,
-      "word": "华晨宇是那英队的隐形制作人",
-      "onboard_time": 1680328891,
-      "rank": 10,
-      "category": "综艺"
+      "raw_hot": 312991,
+      "num": 312991,
+      "word": "原神愚人节整活",
+      "onboard_time": 1680327689,
+      "rank": 11,
+      "category": "游戏"
     },
     {
       "raw_hot": 301943,
@@ -409,6 +425,14 @@
       "onboard_time": 1680277467,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 293041,
+      "num": 293041,
+      "word": "吴彤说我也想好好沉淀一下",
+      "onboard_time": 1680329492,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 291649,
@@ -441,14 +465,6 @@
       "onboard_time": 1680314307,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 278042,
-      "num": 278042,
-      "word": "原神愚人节整活",
-      "onboard_time": 1680327689,
-      "rank": 11,
-      "category": "游戏"
     },
     {
       "raw_hot": 277170,
@@ -507,6 +523,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 244865,
+      "num": 194357,
+      "word": "肖战玉骨遥侧颜路透",
+      "onboard_time": 1680328351,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 234532,
       "num": 199811,
       "word": "周冬雨南瓜妆",
@@ -545,14 +569,6 @@
       "onboard_time": 1680315267,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 223797,
-      "num": 194357,
-      "word": "肖战玉骨遥侧颜路透",
-      "onboard_time": 1680328351,
-      "rank": 24,
-      "category": "影视"
     },
     {
       "raw_hot": 218265,
@@ -683,14 +699,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 197162,
-      "num": 197162,
-      "word": "吴彤说我也想好好沉淀一下",
-      "onboard_time": 1680329492,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 196905,
       "num": 196905,
       "word": "灿烂的转身今日开播",
@@ -811,14 +819,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 167863,
-      "num": 167323,
-      "word": "小伙偷女友近4万供女友消费",
-      "onboard_time": 1680329550,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 167379,
       "num": 167379,
       "word": "短道速滑冠军赛",
@@ -913,6 +913,14 @@
       "onboard_time": 1680272670,
       "rank": 26,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 151091,
+      "num": 151091,
+      "word": "庄达菲真对牛弹琴",
+      "onboard_time": 1680330750,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 150474,
@@ -1123,6 +1131,14 @@
       "category": "社会议题,情感"
     },
     {
+      "raw_hot": 119938,
+      "num": 119938,
+      "word": "他是谁剧组到底做了多少盒饭",
+      "onboard_time": 1680330570,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 116015,
       "num": 116015,
       "word": "四月娱人节",
@@ -1153,6 +1169,14 @@
       "onboard_time": 1680261565,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 109104,
+      "num": 109104,
+      "word": "大锁用斧子给蒋敦豪宋木子修牛蹄",
+      "onboard_time": 1680329191,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 106410,
