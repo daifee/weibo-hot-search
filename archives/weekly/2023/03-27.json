@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1680333290072,
+  "endTime": 1680334400240,
   "band_list": [
     {
       "raw_hot": 12970403,
@@ -51,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 4402426,
+      "num": 4402426,
+      "word": "张继科回应因欠债传播女演员隐私视频",
+      "onboard_time": 1680332610,
+      "rank": 1,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 3264983,
       "num": 433460,
       "word": "上海徐汇中学",
@@ -73,14 +81,6 @@
       "onboard_time": 1680046523,
       "rank": 0,
       "category": "科技"
-    },
-    {
-      "raw_hot": 2985463,
-      "num": 2985463,
-      "word": "张继科回应因欠债传播女演员隐私视频",
-      "onboard_time": 1680332610,
-      "rank": 1,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 2898452,
@@ -1499,6 +1499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 887570,
+      "num": 887570,
+      "word": "生理性郁抑症",
+      "onboard_time": 1680332552,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 886726,
       "num": 886726,
       "word": "已灭绝猛犸象DNA被培育制成肉丸",
@@ -1819,6 +1827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 766991,
+      "num": 362626,
+      "word": "陈坤 白宇是真的好演员",
+      "onboard_time": 1680331411,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 765654,
       "num": 765654,
       "word": "存多少钱才算有安全感",
@@ -2033,14 +2049,6 @@
       "onboard_time": 1679959943,
       "rank": 34,
       "category": "作品衍生,体育"
-    },
-    {
-      "raw_hot": 708715,
-      "num": 312157,
-      "word": "陈坤 白宇是真的好演员",
-      "onboard_time": 1680331411,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 706714,
@@ -3987,6 +3995,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 430788,
+      "num": 430788,
+      "word": "孙龙男子1500米夺冠",
+      "onboard_time": 1680332185,
+      "rank": 12,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 430134,
       "num": 430134,
       "word": "王宝钏看了都得送巧珍两筐野菜",
@@ -4419,14 +4435,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 389573,
-      "num": 162935,
-      "word": "生理性郁抑症",
-      "onboard_time": 1680332552,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 389439,
       "num": 389439,
       "word": "豫章书院揭发人现身庭审现场",
@@ -4715,6 +4723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 366958,
+      "num": 366958,
+      "word": "菠菜和豆腐能不能同吃",
+      "onboard_time": 1680330988,
+      "rank": 17,
+      "category": "美食"
+    },
+    {
       "raw_hot": 365229,
       "num": 282133,
       "word": "邓超请100位朋友看范丞丞新电影",
@@ -4761,6 +4777,14 @@
       "onboard_time": 1680139346,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 356727,
+      "num": 356727,
+      "word": "马东锡头像",
+      "onboard_time": 1680332251,
+      "rank": 18,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 356619,
@@ -5651,14 +5675,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 294753,
-      "num": 294753,
-      "word": "孙龙男子1500米夺冠",
-      "onboard_time": 1680332185,
-      "rank": 12,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 293961,
       "num": 293961,
       "word": "葡萄牛乳茶",
@@ -6179,6 +6195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 270843,
+      "num": 218292,
+      "word": "延禧攻略剧组集体等秦岚新剧开播",
+      "onboard_time": 1680330452,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 270786,
       "num": 270786,
       "word": "吴磊年下是侵略年上是克制",
@@ -6371,14 +6395,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 262586,
-      "num": 262586,
-      "word": "菠菜和豆腐能不能同吃",
-      "onboard_time": 1680330988,
-      "rank": 17,
-      "category": "美食"
-    },
-    {
       "raw_hot": 262184,
       "num": 262184,
       "word": "王子浩三公",
@@ -6393,14 +6409,6 @@
       "onboard_time": 1680086847,
       "rank": 24,
       "category": "美食"
-    },
-    {
-      "raw_hot": 261841,
-      "num": 261841,
-      "word": "马东锡头像",
-      "onboard_time": 1680332251,
-      "rank": 18,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 261401,
@@ -6817,6 +6825,14 @@
       "onboard_time": 1680008907,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 241334,
+      "num": 241334,
+      "word": "灿吧直播",
+      "onboard_time": 1680333329,
+      "rank": 17,
+      "category": "网红"
     },
     {
       "raw_hot": 240918,
@@ -7553,14 +7569,6 @@
       "onboard_time": 1680092426,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 214066,
-      "num": 214066,
-      "word": "延禧攻略剧组集体等秦岚新剧开播",
-      "onboard_time": 1680330452,
-      "rank": 24,
-      "category": "影视"
     },
     {
       "raw_hot": 214015,
@@ -8788,7 +8796,7 @@
     },
     {
       "raw_hot": 191727,
-      "num": 1612592,
+      "num": 2114385,
       "word": "你好4月",
       "onboard_time": 1680322711,
       "rank": 2,
@@ -10491,6 +10499,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 150605,
+      "num": 150605,
+      "word": "KPL选手们的国服有多卷",
+      "onboard_time": 1680333030,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 150557,
       "num": 150557,
       "word": "十大选手造型",
@@ -10697,6 +10713,14 @@
       "onboard_time": 1680277885,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 145747,
+      "num": 145747,
+      "word": "无间剧情节奏",
+      "onboard_time": 1680333751,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 145524,
@@ -11339,6 +11363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129685,
+      "num": 128889,
+      "word": "宁静想念张国荣",
+      "onboard_time": 1680333568,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 129565,
       "num": 129565,
       "word": "矿大未落实捐款校友正在筹备新基金",
@@ -11619,14 +11651,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 124377,
-      "num": 124377,
-      "word": "KPL选手们的国服有多卷",
-      "onboard_time": 1680333030,
-      "rank": 38,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 124348,
       "num": 124348,
       "word": "你抗拒上班到什么地步",
@@ -11881,6 +11905,14 @@
       "onboard_time": 1680254006,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 117461,
+      "num": 117461,
+      "word": "看过赵小童宋木子表演的人都沉默了",
+      "onboard_time": 1680333751,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 117164,
@@ -12555,6 +12587,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 95630,
+      "num": 95630,
+      "word": "T1对战GEN",
+      "onboard_time": 1680333030,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 94947,
       "num": 94947,
       "word": "这特效谁看了不迷糊",
@@ -12571,20 +12611,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 94070,
-      "num": 94070,
-      "word": "T1对战GEN",
-      "onboard_time": 1680333030,
-      "rank": 45,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 93726,
       "num": 93726,
       "word": "论注意力可以有多不集中",
       "onboard_time": 1679988631,
       "rank": 43,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 93711,
+      "num": 93711,
+      "word": "童年花式回忆杀",
+      "onboard_time": 1680333990,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 93544,
@@ -12649,6 +12689,14 @@
       "onboard_time": 1680184829,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 90930,
+      "num": 90930,
+      "word": "唐嫣说迎宾小糖要先和大家说再见啦",
+      "onboard_time": 1680334170,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 90908,

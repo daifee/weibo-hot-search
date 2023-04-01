@@ -1,0 +1,410 @@
+{
+  "runTime": 1680334400240,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8256871,
+        "num": 8256871,
+        "word": "李微敖 张继科",
+        "onboard_time": 1680326491,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 4402426,
+        "num": 4402426,
+        "word": "张继科回应因欠债传播女演员隐私视频",
+        "onboard_time": 1680332610,
+        "rank": 1,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 69142,
+        "num": 2114385,
+        "word": "你好4月",
+        "onboard_time": 1680322711,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1172031,
+        "num": 1172031,
+        "word": "小伙偷女友近4万供女友消费",
+        "onboard_time": 1680329550,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 887570,
+        "num": 887570,
+        "word": "生理性郁抑症",
+        "onboard_time": 1680332552,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 661366,
+        "num": 661366,
+        "word": "雅思作文 绝望的文盲",
+        "onboard_time": 1680325828,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 434569,
+        "num": 434569,
+        "word": "吴彤说我也想好好沉淀一下",
+        "onboard_time": 1680329492,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 430788,
+        "num": 430788,
+        "word": "孙龙男子1500米夺冠",
+        "onboard_time": 1680332185,
+        "rank": 7,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 373912,
+        "num": 373912,
+        "word": "4月1至5日将出现大范围强雨雪",
+        "onboard_time": 1680318147,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366958,
+        "num": 366958,
+        "word": "菠菜和豆腐能不能同吃",
+        "onboard_time": 1680330988,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 766991,
+        "num": 362626,
+        "word": "陈坤 白宇是真的好演员",
+        "onboard_time": 1680331411,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 356727,
+        "num": 356727,
+        "word": "马东锡头像",
+        "onboard_time": 1680332251,
+        "rank": 11,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 347291,
+        "num": 347291,
+        "word": "如果他还在今天28岁了",
+        "onboard_time": 1680323611,
+        "rank": 12,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 299048,
+        "num": 299048,
+        "word": "张继科方将对侵权用户提起诉讼",
+        "onboard_time": 1680260966,
+        "rank": 13,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 260598,
+        "num": 260598,
+        "word": "水瓶座很爱切断社交",
+        "onboard_time": 1680322048,
+        "rank": 14,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 253939,
+        "num": 253939,
+        "word": "华晨宇是那英队的隐形制作人",
+        "onboard_time": 1680328891,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250755,
+        "num": 250755,
+        "word": "泰国45天免签和30天落地签临时政策已截止",
+        "onboard_time": 1680319292,
+        "rank": 16,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 241334,
+        "num": 241334,
+        "word": "灿吧直播",
+        "onboard_time": 1680333329,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 225029,
+        "num": 225029,
+        "word": "消失的她剧照消失",
+        "onboard_time": 1680331470,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 220274,
+        "num": 220274,
+        "word": "李亚玲道歉声明",
+        "onboard_time": 1680323190,
+        "rank": 19,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 620620,
+        "num": 219883,
+        "word": "张继科",
+        "onboard_time": 1680308484,
+        "rank": 20,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 2734129,
+        "num": 218713,
+        "word": "景甜",
+        "onboard_time": 1680316646,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270843,
+        "num": 218292,
+        "word": "延禧攻略剧组集体等秦岚新剧开播",
+        "onboard_time": 1680330452,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 215241,
+        "num": 215241,
+        "word": "魔卡少女樱",
+        "onboard_time": 1680314666,
+        "rank": 23,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 204733,
+        "num": 204733,
+        "word": "原神愚人节整活",
+        "onboard_time": 1680327689,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 199779,
+        "num": 199779,
+        "word": "肖战玉骨遥侧颜路透",
+        "onboard_time": 1680328351,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 192638,
+        "num": 192638,
+        "word": "他是谁剧组到底做了多少盒饭",
+        "onboard_time": 1680330570,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 192635,
+        "num": 192635,
+        "word": "丁程鑫胡一天粉扑游戏",
+        "onboard_time": 1680333269,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157606,
+        "num": 157606,
+        "word": "福建漳州老人",
+        "onboard_time": 1680322471,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152307,
+        "num": 152307,
+        "word": "桃花坞3开录全员丽江打卡",
+        "onboard_time": 1680320429,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150605,
+        "num": 150605,
+        "word": "KPL选手们的国服有多卷",
+        "onboard_time": 1680333030,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 149061,
+        "num": 149061,
+        "word": "宫胁咲良刘海",
+        "onboard_time": 1680326491,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145747,
+        "num": 145747,
+        "word": "无间剧情节奏",
+        "onboard_time": 1680333751,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 142333,
+        "num": 142333,
+        "word": "猫咪调摄像头向主人告状",
+        "onboard_time": 1680321331,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 139610,
+        "num": 139610,
+        "word": "九年前的郑秀晶",
+        "onboard_time": 1680319350,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130033,
+        "num": 130033,
+        "word": "张国荣",
+        "onboard_time": 1680305961,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129521,
+        "num": 129521,
+        "word": "江苏事业单位",
+        "onboard_time": 1680322471,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 129685,
+        "num": 128889,
+        "word": "宁静想念张国荣",
+        "onboard_time": 1680333568,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118631,
+        "num": 118631,
+        "word": "庄达菲真对牛弹琴",
+        "onboard_time": 1680330750,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117461,
+        "num": 117461,
+        "word": "看过赵小童宋木子表演的人都沉默了",
+        "onboard_time": 1680333751,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108251,
+        "num": 108251,
+        "word": "真的还是假的",
+        "onboard_time": 1680327689,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 105634,
+        "num": 105634,
+        "word": "7年7万荣迷替张国荣公益募捐",
+        "onboard_time": 1680329191,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102311,
+        "num": 102311,
+        "word": "LCK",
+        "onboard_time": 1680332732,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 100215,
+        "num": 100215,
+        "word": "保姆推搡8旬老人还让其吃排泄物",
+        "onboard_time": 1680316347,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95630,
+        "num": 95630,
+        "word": "T1对战GEN",
+        "onboard_time": 1680333030,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 93711,
+        "num": 93711,
+        "word": "童年花式回忆杀",
+        "onboard_time": 1680333990,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 90930,
+        "num": 90930,
+        "word": "唐嫣说迎宾小糖要先和大家说再见啦",
+        "onboard_time": 1680334170,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87658,
+        "num": 87658,
+        "word": "不是所有人都适合午睡",
+        "onboard_time": 1680310765,
+        "rank": 47,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 79287,
+        "num": 79287,
+        "word": "短道速滑冠军赛",
+        "onboard_time": 1680328711,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75618,
+        "num": 75618,
+        "word": "王鹤棣站姐发了meiko",
+        "onboard_time": 1680313647,
+        "rank": 49,
+        "category": "艺人,游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#为不确定的世界注入中国信心与力量#"
+    }
+  }
+}

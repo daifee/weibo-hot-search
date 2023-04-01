@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680333290072,
+  "endTime": 1680334400240,
   "band_list": [
     {
       "raw_hot": 10740151,
@@ -27,8 +27,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2985463,
-      "num": 2985463,
+      "raw_hot": 4402426,
+      "num": 4402426,
       "word": "张继科回应因欠债传播女演员隐私视频",
       "onboard_time": 1680332610,
       "rank": 1,
@@ -99,8 +99,16 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 708715,
-      "num": 312157,
+      "raw_hot": 887570,
+      "num": 887570,
+      "word": "生理性郁抑症",
+      "onboard_time": 1680332552,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 766991,
+      "num": 362626,
       "word": "陈坤 白宇是真的好演员",
       "onboard_time": 1680331411,
       "rank": 10,
@@ -315,6 +323,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 430788,
+      "num": 430788,
+      "word": "孙龙男子1500米夺冠",
+      "onboard_time": 1680332185,
+      "rank": 12,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 429908,
       "num": 248553,
       "word": "网友丽江偶遇王鹤棣",
@@ -355,14 +371,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 389573,
-      "num": 162935,
-      "word": "生理性郁抑症",
-      "onboard_time": 1680332552,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 386276,
       "num": 244698,
       "word": "贝儿和妹妹",
@@ -377,6 +385,22 @@
       "onboard_time": 1680313647,
       "rank": 21,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 366958,
+      "num": 366958,
+      "word": "菠菜和豆腐能不能同吃",
+      "onboard_time": 1680330988,
+      "rank": 17,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 356727,
+      "num": 356727,
+      "word": "马东锡头像",
+      "onboard_time": 1680332251,
+      "rank": 18,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 343023,
@@ -459,14 +483,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 294753,
-      "num": 294753,
-      "word": "孙龙男子1500米夺冠",
-      "onboard_time": 1680332185,
-      "rank": 12,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 291649,
       "num": 291649,
       "word": "打团 暂停",
@@ -531,20 +547,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 262586,
-      "num": 262586,
-      "word": "菠菜和豆腐能不能同吃",
-      "onboard_time": 1680330988,
-      "rank": 17,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 261841,
-      "num": 261841,
-      "word": "马东锡头像",
-      "onboard_time": 1680332251,
-      "rank": 18,
-      "category": "幽默,情感"
+      "raw_hot": 270843,
+      "num": 218292,
+      "word": "延禧攻略剧组集体等秦岚新剧开播",
+      "onboard_time": 1680330452,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 259213,
@@ -593,6 +601,14 @@
       "onboard_time": 1680328351,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 241334,
+      "num": 241334,
+      "word": "灿吧直播",
+      "onboard_time": 1680333329,
+      "rank": 17,
+      "category": "网红"
     },
     {
       "raw_hot": 234532,
@@ -681,14 +697,6 @@
       "onboard_time": 1680274111,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 214066,
-      "num": 214066,
-      "word": "延禧攻略剧组集体等秦岚新剧开播",
-      "onboard_time": 1680330452,
-      "rank": 24,
-      "category": "影视"
     },
     {
       "raw_hot": 214055,
@@ -820,7 +828,7 @@
     },
     {
       "raw_hot": 191727,
-      "num": 1612592,
+      "num": 2114385,
       "word": "你好4月",
       "onboard_time": 1680322711,
       "rank": 2,
@@ -1011,6 +1019,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 150605,
+      "num": 150605,
+      "word": "KPL选手们的国服有多卷",
+      "onboard_time": 1680333030,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 150474,
       "num": 150474,
       "word": "忠犬八公后劲好大",
@@ -1033,6 +1049,14 @@
       "onboard_time": 1680277885,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 145747,
+      "num": 145747,
+      "word": "无间剧情节奏",
+      "onboard_time": 1680333751,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 144535,
@@ -1155,6 +1179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129685,
+      "num": 128889,
+      "word": "宁静想念张国荣",
+      "onboard_time": 1680333568,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 128538,
       "num": 128538,
       "word": "张杰告别我们的客栈",
@@ -1195,14 +1227,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 124377,
-      "num": 124377,
-      "word": "KPL选手们的国服有多卷",
-      "onboard_time": 1680333030,
-      "rank": 38,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 124269,
       "num": 124269,
       "word": "7年7万荣迷替张国荣公益募捐",
@@ -1241,6 +1265,14 @@
       "onboard_time": 1680275189,
       "rank": 48,
       "category": "社会议题,情感"
+    },
+    {
+      "raw_hot": 117461,
+      "num": 117461,
+      "word": "看过赵小童宋木子表演的人都沉默了",
+      "onboard_time": 1680333751,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 116015,
@@ -1387,6 +1419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 95630,
+      "num": 95630,
+      "word": "T1对战GEN",
+      "onboard_time": 1680333030,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 95002,
       "num": 95002,
       "word": "白术",
@@ -1395,12 +1435,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 94070,
-      "num": 94070,
-      "word": "T1对战GEN",
-      "onboard_time": 1680333030,
+      "raw_hot": 93711,
+      "num": 93711,
+      "word": "童年花式回忆杀",
+      "onboard_time": 1680333990,
       "rank": 45,
-      "category": "游戏"
+      "category": "美食"
     },
     {
       "raw_hot": 92990,
@@ -1417,6 +1457,14 @@
       "onboard_time": 1680312025,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 90930,
+      "num": 90930,
+      "word": "唐嫣说迎宾小糖要先和大家说再见啦",
+      "onboard_time": 1680334170,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 90149,
