@@ -1,6 +1,6 @@
 {
   "startTime": 1680366074129,
-  "endTime": 1680390961441,
+  "endTime": 1680392010863,
   "band_list": [
     {
       "raw_hot": 1696151,
@@ -227,6 +227,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 202364,
+      "num": 202364,
+      "word": "律师称传播他人私密视频或担刑责",
+      "onboard_time": 1680375134,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196139,
       "num": 196139,
       "word": "RNG提前进入夏季赛",
@@ -267,11 +275,11 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 167254,
-      "num": 167254,
-      "word": "律师称传播他人私密视频或担刑责",
-      "onboard_time": 1680375134,
-      "rank": 24,
+      "raw_hot": 160859,
+      "num": 160859,
+      "word": "凉山4.0级地震",
+      "onboard_time": 1680390619,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -297,6 +305,14 @@
       "onboard_time": 1680362372,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 142069,
+      "num": 142069,
+      "word": "高铁乘客突发疾病幸好遇到医生天团",
+      "onboard_time": 1680391098,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140814,
@@ -331,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 132271,
+      "num": 132271,
+      "word": "上课最害怕的事还是发生了",
+      "onboard_time": 1680359912,
+      "rank": 48,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 131041,
       "num": 131041,
       "word": "深海",
@@ -353,6 +377,14 @@
       "onboard_time": 1680345748,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 126113,
+      "num": 126113,
+      "word": "百位电影人将齐聚湖北荆州",
+      "onboard_time": 1680386773,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 117706,
@@ -387,14 +419,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 107893,
-      "num": 107893,
-      "word": "百位电影人将齐聚湖北荆州",
-      "onboard_time": 1680386773,
-      "rank": 48,
-      "category": "影视"
-    },
-    {
       "raw_hot": 106210,
       "num": 106210,
       "word": "RNG Angel",
@@ -403,12 +427,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 100761,
-      "num": 100761,
-      "word": "上课最害怕的事还是发生了",
-      "onboard_time": 1680359912,
-      "rank": 48,
-      "category": "幽默,情感"
+      "raw_hot": 100562,
+      "num": 91229,
+      "word": "张大大直播分享与杨幂合照",
+      "onboard_time": 1680390978,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 99145,
@@ -419,12 +443,12 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 88144,
-      "num": 88144,
-      "word": "凉山4.0级地震",
-      "onboard_time": 1680390619,
-      "rank": 17,
-      "category": "社会新闻"
+      "raw_hot": 95515,
+      "num": 95515,
+      "word": "SEVENTEEN出道初VS后期的颜值变化",
+      "onboard_time": 1680391639,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 83771,
@@ -435,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 76745,
+      "num": 76745,
+      "word": "当你周末半夜突然醒来",
+      "onboard_time": 1680375016,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 76435,
       "num": 76435,
       "word": "张智霖发视频悼念张国荣",
@@ -443,12 +475,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 67216,
-      "num": 67216,
-      "word": "当你周末半夜突然醒来",
-      "onboard_time": 1680375016,
+      "raw_hot": 67204,
+      "num": 67204,
+      "word": "切尔西0比2阿斯顿维拉",
+      "onboard_time": 1680390918,
       "rank": 49,
-      "category": "情感"
+      "category": "体育"
+    },
+    {
+      "raw_hot": 63920,
+      "num": 63920,
+      "word": "4月开机的电视剧",
+      "onboard_time": 1680386112,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 61854,
+      "num": 61854,
+      "word": "金晨追星星的人古装造型",
+      "onboard_time": 1680389355,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 54863,
@@ -459,20 +507,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 52836,
-      "num": 52836,
-      "word": "4月开机的电视剧",
-      "onboard_time": 1680386112,
-      "rank": 34,
-      "category": "影视"
+      "raw_hot": 51201,
+      "num": 51201,
+      "word": "阿娇孔雪儿蒋梦婕同框",
+      "onboard_time": 1680391880,
+      "rank": 43,
+      "category": "艺人"
     },
     {
-      "raw_hot": 50967,
-      "num": 50967,
-      "word": "金晨追星星的人古装造型",
-      "onboard_time": 1680389355,
-      "rank": 32,
-      "category": "综艺"
+      "raw_hot": 44613,
+      "num": 44613,
+      "word": "这居然是个香皂",
+      "onboard_time": 1680392001,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 38147,
@@ -481,14 +529,6 @@
       "onboard_time": 1680305119,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 32364,
-      "num": 32364,
-      "word": "切尔西0比2阿斯顿维拉",
-      "onboard_time": 1680390918,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 21657,
