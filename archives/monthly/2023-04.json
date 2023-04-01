@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680312300161,
+  "endTime": 1680313623823,
   "band_list": [
     {
       "raw_hot": 7084987,
@@ -11,20 +11,20 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 2888969,
+      "num": 2888969,
+      "word": "张国荣",
+      "onboard_time": 1680305961,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2585774,
       "num": 2585774,
       "word": "张继科",
       "onboard_time": 1680308484,
       "rank": 0,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 2547395,
-      "num": 2547395,
-      "word": "张国荣",
-      "onboard_time": 1680305961,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 915160,
@@ -36,11 +36,19 @@
     },
     {
       "raw_hot": 698141,
-      "num": 321125,
+      "num": 356276,
       "word": "韩素希说想成为宋慧乔的小狗",
       "onboard_time": 1680307823,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 677080,
+      "num": 677080,
+      "word": "杜兆才被查",
+      "onboard_time": 1680312146,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 635026,
@@ -75,6 +83,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 557499,
+      "num": 557499,
+      "word": "教育局回应女孩自述曾遭校园霸凌",
+      "onboard_time": 1680310466,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 543449,
       "num": 172317,
       "word": "意大利宣布禁止使用ChatGPT",
@@ -105,14 +121,6 @@
       "onboard_time": 1680263307,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 483860,
-      "num": 483860,
-      "word": "教育局回应女孩自述曾遭校园霸凌",
-      "onboard_time": 1680310466,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 456547,
@@ -147,6 +155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 410567,
+      "num": 410567,
+      "word": "不是所有人都适合午睡",
+      "onboard_time": 1680310765,
+      "rank": 8,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 403446,
       "num": 173876,
       "word": "你介意另一半跟前任同居过吗",
@@ -161,14 +177,6 @@
       "onboard_time": 1680262648,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 350544,
-      "num": 350544,
-      "word": "不是所有人都适合午睡",
-      "onboard_time": 1680310765,
-      "rank": 8,
-      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 334266,
@@ -217,14 +225,6 @@
       "onboard_time": 1680267087,
       "rank": 6,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 289915,
-      "num": 289915,
-      "word": "杜兆才被查",
-      "onboard_time": 1680312146,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 285832,
@@ -323,8 +323,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 192069,
-      "num": 192069,
+      "raw_hot": 193786,
+      "num": 193786,
       "word": "王伟牺牲22年了",
       "onboard_time": 1680305299,
       "rank": 13,
@@ -337,6 +337,14 @@
       "onboard_time": 1680284176,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 186208,
+      "num": 186208,
+      "word": "春天该很好 你若尚在场",
+      "onboard_time": 1680313227,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 182531,
@@ -369,6 +377,14 @@
       "onboard_time": 1680307041,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 167101,
+      "num": 167101,
+      "word": "光与夜之恋",
+      "onboard_time": 1680312927,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 166236,
@@ -459,6 +475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 136122,
+      "num": 136122,
+      "word": "薛之谦南宁演唱会",
+      "onboard_time": 1680312087,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 133120,
       "num": 133120,
       "word": "猫猫是怎么告状的",
@@ -507,6 +531,14 @@
       "category": "社会议题,情感"
     },
     {
+      "raw_hot": 115159,
+      "num": 115159,
+      "word": "用古诗词解读刘亦菲",
+      "onboard_time": 1680312749,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 113783,
       "num": 113783,
       "word": "王者S31赛季即将开启",
@@ -521,14 +553,6 @@
       "onboard_time": 1680261565,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 108029,
-      "num": 108029,
-      "word": "薛之谦南宁演唱会",
-      "onboard_time": 1680312087,
-      "rank": 44,
-      "category": "音乐"
     },
     {
       "raw_hot": 103404,
@@ -587,12 +611,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 97119,
+      "num": 97119,
+      "word": "国际爱鸟日",
+      "onboard_time": 1680312807,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 95002,
       "num": 95002,
       "word": "白术",
       "onboard_time": 1680267386,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 93792,
+      "num": 93792,
+      "word": "湖人vs森林狼",
+      "onboard_time": 1680313349,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 92804,
@@ -763,8 +803,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 21426,
-      "num": 1151100,
+      "raw_hot": 23161,
+      "num": 1246932,
       "word": "带你共享花开烂漫时",
       "onboard_time": 1680248546,
       "rank": 2,
