@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680355083080,
+  "endTime": 1680355994037,
   "band_list": [
     {
       "raw_hot": 10740151,
@@ -52,14 +52,14 @@
     },
     {
       "raw_hot": 2369704,
-      "num": 481001,
+      "num": 497227,
       "word": "景甜曾说司藤救赎了灰色世界的自己",
       "onboard_time": 1680337293,
       "rank": 8,
       "category": "影视"
     },
     {
-      "raw_hot": 2027278,
+      "raw_hot": 2161143,
       "num": 792243,
       "word": "司藤",
       "onboard_time": 1680353668,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 846221,
-      "num": 263800,
+      "num": 288444,
       "word": "杨幂说一不小心回到小时候",
       "onboard_time": 1680341551,
       "rank": 19,
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 707190,
-      "num": 478654,
+      "num": 491242,
       "word": "迪丽热巴落肩鱼尾长裙",
       "onboard_time": 1680346531,
       "rank": 11,
@@ -235,8 +235,8 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 618240,
-      "num": 618240,
+      "raw_hot": 621038,
+      "num": 621038,
       "word": "电影营销 狗都看哭了",
       "onboard_time": 1680350668,
       "rank": 5,
@@ -249,6 +249,14 @@
       "onboard_time": 1680336331,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 613347,
+      "num": 613347,
+      "word": "招惹",
+      "onboard_time": 1680353609,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 611755,
@@ -363,12 +371,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 519040,
-      "num": 519040,
-      "word": "招惹",
-      "onboard_time": 1680353609,
-      "rank": 7,
-      "category": "影视"
+      "raw_hot": 516596,
+      "num": 516596,
+      "word": "AG换打野等于换队",
+      "onboard_time": 1680354569,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 515133,
@@ -435,6 +443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 459623,
+      "num": 459623,
+      "word": "乘风破浪4",
+      "onboard_time": 1680257485,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 458101,
       "num": 458101,
       "word": "BLG战胜RNG",
@@ -491,14 +507,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 445851,
-      "num": 445851,
-      "word": "乘风破浪4",
-      "onboard_time": 1680257485,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 443246,
       "num": 443246,
       "word": "INTO1告别演唱会泰国场",
@@ -528,6 +536,14 @@
       "word": "张大大希望内娱百花齐放",
       "onboard_time": 1680318989,
       "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 415954,
+      "num": 339748,
+      "word": "aespa将在东京巨蛋举办演唱会",
+      "onboard_time": 1680354207,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -563,6 +579,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 371415,
+      "num": 345171,
+      "word": "张国荣此间永远是少年",
+      "onboard_time": 1680351567,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 371030,
+      "num": 371030,
+      "word": "这就是中国人骨子里的温良吧",
+      "onboard_time": 1680350550,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 368482,
       "num": 201395,
       "word": "王鹤棣站姐发了meiko",
@@ -587,14 +619,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 354969,
-      "num": 354969,
-      "word": "这就是中国人骨子里的温良吧",
-      "onboard_time": 1680350550,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 350461,
       "num": 350461,
       "word": "灿吧直播",
@@ -617,14 +641,6 @@
       "onboard_time": 1680345748,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 345171,
-      "num": 345171,
-      "word": "张国荣此间永远是少年",
-      "onboard_time": 1680351567,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 343023,
@@ -731,6 +747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 300608,
+      "num": 300608,
+      "word": "AG对战KSG",
+      "onboard_time": 1680352288,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 298574,
       "num": 298574,
       "word": "聂小雨获救",
@@ -811,6 +835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 274632,
+      "num": 274632,
+      "word": "曼城领先利物浦",
+      "onboard_time": 1680354028,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 273359,
       "num": 273359,
       "word": "春天该很好 你若尚在场",
@@ -843,6 +875,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 269205,
+      "num": 269205,
+      "word": "秋穗",
+      "onboard_time": 1680354328,
+      "rank": 45,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 259213,
       "num": 171195,
       "word": "肖战微博之夜后脑勺直拍视频",
@@ -857,14 +897,6 @@
       "onboard_time": 1680321331,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 252819,
-      "num": 252819,
-      "word": "曼城领先利物浦",
-      "onboard_time": 1680354028,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 252125,
@@ -1075,14 +1107,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 209705,
-      "num": 209705,
-      "word": "AG换打野等于换队",
-      "onboard_time": 1680354569,
-      "rank": 29,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 207901,
       "num": 230696,
       "word": "编剧李亚玲因国航监督员案被判赔5万",
@@ -1097,14 +1121,6 @@
       "onboard_time": 1680264147,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 207159,
-      "num": 207159,
-      "word": "aespa将在东京巨蛋举办演唱会",
-      "onboard_time": 1680354207,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 205594,
@@ -1153,14 +1169,6 @@
       "onboard_time": 1680333089,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 202656,
-      "num": 202656,
-      "word": "AG对战KSG",
-      "onboard_time": 1680352288,
-      "rank": 30,
-      "category": "游戏"
     },
     {
       "raw_hot": 202004,
@@ -1283,6 +1291,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 197265,
+      "num": 197265,
+      "word": "丁程鑫看张新成抱孙千的反应",
+      "onboard_time": 1680355651,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197151,
       "num": 197151,
       "word": "卫视报道长空之王点映活动",
@@ -1305,6 +1321,14 @@
       "onboard_time": 1680329492,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 195926,
+      "num": 195926,
+      "word": "Tabe清算成功",
+      "onboard_time": 1680355289,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 194107,
@@ -1361,6 +1385,14 @@
       "onboard_time": 1680330031,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 187064,
+      "num": 187064,
+      "word": "花琉璃HE",
+      "onboard_time": 1680354868,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 185449,
@@ -1483,6 +1515,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 169418,
+      "num": 169418,
+      "word": "容祖儿澳门演唱会首场",
+      "onboard_time": 1680355351,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 168846,
       "num": 168846,
       "word": "巧珍马栓好甜",
@@ -1555,14 +1595,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 164779,
-      "num": 164779,
-      "word": "花琉璃HE",
-      "onboard_time": 1680354868,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 162968,
       "num": 162968,
       "word": "邓家佳演的安宁",
@@ -1625,14 +1657,6 @@
       "onboard_time": 1680318868,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 154187,
-      "num": 154187,
-      "word": "秋穗",
-      "onboard_time": 1680354328,
-      "rank": 45,
-      "category": "动漫"
     },
     {
       "raw_hot": 154024,
@@ -2491,20 +2515,20 @@
       "category": "科技"
     },
     {
+      "raw_hot": 30725,
+      "num": 468969,
+      "word": "李诞还想跟罗永浩PK",
+      "onboard_time": 1680354028,
+      "rank": 14,
+      "category": "艺人,科技"
+    },
+    {
       "raw_hot": 29779,
       "num": 39709,
       "word": "孟晚舟回应轮值董事长",
       "onboard_time": 1680261326,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 24856,
-      "num": 452804,
-      "word": "李诞还想跟罗永浩PK",
-      "onboard_time": 1680354028,
-      "rank": 14,
-      "category": "艺人,科技"
     },
     {
       "raw_hot": 23161,
