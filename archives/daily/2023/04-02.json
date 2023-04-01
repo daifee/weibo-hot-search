@@ -1,6 +1,6 @@
 {
   "startTime": 1680366074129,
-  "endTime": 1680384799461,
+  "endTime": 1680387308880,
   "band_list": [
     {
       "raw_hot": 1696151,
@@ -435,12 +435,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 40421,
-      "num": 22845,
+      "raw_hot": 48765,
+      "num": 27700,
       "word": "当你周末半夜突然醒来",
       "onboard_time": 1680375016,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 21986,
+      "num": 21986,
+      "word": "4月开机的电视剧",
+      "onboard_time": 1680386112,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 20448,
@@ -449,6 +457,22 @@
       "onboard_time": 1680376993,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 17390,
+      "num": 17390,
+      "word": "朴智旻宫胁咲良中村一叶舞蹈挑战",
+      "onboard_time": 1680384373,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 16999,
+      "num": 16999,
+      "word": "百位电影人将齐聚湖北荆州",
+      "onboard_time": 1680386773,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 12137,
