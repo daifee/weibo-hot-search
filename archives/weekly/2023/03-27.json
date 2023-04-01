@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1680334400240,
+  "endTime": 1680337225001,
   "band_list": [
     {
       "raw_hot": 12970403,
@@ -35,6 +35,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 5135977,
+      "num": 5135977,
+      "word": "张继科回应因欠债传播女演员隐私视频",
+      "onboard_time": 1680332610,
+      "rank": 1,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 4718675,
       "num": 1009624,
       "word": "黄磊孙莉回应多多争议",
@@ -49,14 +57,6 @@
       "onboard_time": 1680316646,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 4402426,
-      "num": 4402426,
-      "word": "张继科回应因欠债传播女演员隐私视频",
-      "onboard_time": 1680332610,
-      "rank": 1,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 3264983,
@@ -3115,6 +3115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 525508,
+      "num": 184634,
+      "word": "徐冬冬自曝120斤",
+      "onboard_time": 1680335069,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 524980,
       "num": 524980,
       "word": "乘风破浪4",
@@ -4881,6 +4889,14 @@
       "onboard_time": 1680062608,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 350461,
+      "num": 350461,
+      "word": "灿吧直播",
+      "onboard_time": 1680333329,
+      "rank": 17,
+      "category": "网红"
     },
     {
       "raw_hot": 350365,
@@ -6651,6 +6667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 252125,
+      "num": 183600,
+      "word": "赵丽颖愚人节视频",
+      "onboard_time": 1680334470,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 251483,
       "num": 251483,
       "word": "鸡让广东人吃明白了",
@@ -6827,14 +6851,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 241334,
-      "num": 241334,
-      "word": "灿吧直播",
-      "onboard_time": 1680333329,
-      "rank": 17,
-      "category": "网红"
-    },
-    {
       "raw_hot": 240918,
       "num": 240918,
       "word": "嘘嘘旭MV导演是陆虎",
@@ -6953,6 +6969,14 @@
       "onboard_time": 1680186150,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 232256,
+      "num": 232256,
+      "word": "马保国直播带货",
+      "onboard_time": 1680334828,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 232153,
@@ -7345,6 +7369,14 @@
       "onboard_time": 1679848940,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 220161,
+      "num": 220161,
+      "word": "成都锦城学院",
+      "onboard_time": 1680336331,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 220010,
@@ -8019,6 +8051,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 203562,
+      "num": 203562,
+      "word": "电影消失的她",
+      "onboard_time": 1680336812,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 203395,
       "num": 203395,
       "word": "宁夏万亩林场主回应跪地求供水",
@@ -8337,6 +8377,14 @@
       "onboard_time": 1680316225,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 198642,
+      "num": 198642,
+      "word": "湖人罚球数",
+      "onboard_time": 1680335371,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 198472,
@@ -8796,7 +8844,7 @@
     },
     {
       "raw_hot": 191727,
-      "num": 2114385,
+      "num": 2765115,
       "word": "你好4月",
       "onboard_time": 1680322711,
       "rank": 2,
@@ -8809,6 +8857,14 @@
       "onboard_time": 1679842169,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 191466,
+      "num": 183035,
+      "word": "孟子义泼丁程鑫裤子",
+      "onboard_time": 1680337111,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 191326,
@@ -8873,6 +8929,14 @@
       "onboard_time": 1680236070,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 190451,
+      "num": 143023,
+      "word": "王俊凯为宇宙探索编辑部做宣传",
+      "onboard_time": 1680336812,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 190362,
@@ -10147,6 +10211,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 160633,
+      "num": 160633,
+      "word": "导演说范丞丞给的惊喜太多了",
+      "onboard_time": 1680336273,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 160486,
       "num": 150337,
       "word": "薄冰隐秘潜伏版预告",
@@ -10169,6 +10241,14 @@
       "onboard_time": 1680268769,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 159901,
+      "num": 159901,
+      "word": "宁静想念张国荣",
+      "onboard_time": 1680333568,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 159882,
@@ -11363,14 +11443,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 129685,
-      "num": 128889,
-      "word": "宁静想念张国荣",
-      "onboard_time": 1680333568,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 129565,
       "num": 129565,
       "word": "矿大未落实捐款校友正在筹备新基金",
@@ -11865,6 +11937,14 @@
       "onboard_time": 1680275189,
       "rank": 48,
       "category": "社会议题,情感"
+    },
+    {
+      "raw_hot": 119762,
+      "num": 119762,
+      "word": "T1对战GEN",
+      "onboard_time": 1680333030,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 119517,
@@ -12507,6 +12587,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 98298,
+      "num": 98298,
+      "word": "华晨宇武汉演唱会门票秒售罄",
+      "onboard_time": 1680335549,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 98265,
+      "num": 98265,
+      "word": "2023LCK",
+      "onboard_time": 1680336932,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 98157,
       "num": 98157,
       "word": "张国荣纪念音乐会直播嘉宾公布",
@@ -12585,14 +12681,6 @@
       "onboard_time": 1679895335,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 95630,
-      "num": 95630,
-      "word": "T1对战GEN",
-      "onboard_time": 1680333030,
-      "rank": 45,
-      "category": "游戏"
     },
     {
       "raw_hot": 94947,
@@ -12771,6 +12859,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 87242,
+      "num": 87242,
+      "word": "看完铃芽之旅的后遗症",
+      "onboard_time": 1680336209,
+      "rank": 45,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 85804,
       "num": 85804,
       "word": "人生路不熟愚人节好好说话海报",
@@ -12931,6 +13027,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 75952,
+      "num": 75952,
+      "word": "深圳DYG",
+      "onboard_time": 1680336752,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 75157,
       "num": 294009,
       "word": "Note12 Turbo性能狂飙",
@@ -13073,6 +13177,22 @@
       "onboard_time": 1680117252,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 64199,
+      "num": 75944,
+      "word": "钎城的第11个国服",
+      "onboard_time": 1680337172,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 63876,
+      "num": 75931,
+      "word": "8组动作练腹燃脂",
+      "onboard_time": 1680336515,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 63585,
@@ -13381,6 +13501,9 @@
     },
     {
       "word": "#雄安新区6周年#"
+    },
+    {
+      "word": "#90秒沉浸式感受雄安新貌#"
     }
   ]
 }
