@@ -1,6 +1,6 @@
 {
   "startTime": 1680366074129,
-  "endTime": 1680405432330,
+  "endTime": 1680406407417,
   "band_list": [
     {
       "raw_hot": 2815449,
@@ -115,8 +115,24 @@
       "category": "影视"
     },
     {
+      "raw_hot": 660013,
+      "num": 660013,
+      "word": "中国专家检查丫丫食物和水源",
+      "onboard_time": 1680404126,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 648915,
+      "num": 648915,
+      "word": "长月烬明",
+      "onboard_time": 1680405328,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 622841,
-      "num": 227409,
+      "num": 241247,
       "word": "女子逛夜市被1克0.099元整蒙圈",
       "onboard_time": 1680396386,
       "rank": 20,
@@ -147,14 +163,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 473698,
-      "num": 473698,
-      "word": "中国专家检查丫丫食物和水源",
-      "onboard_time": 1680404126,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 453959,
       "num": 453959,
       "word": "上海5平方米的loft长啥样",
@@ -164,11 +172,19 @@
     },
     {
       "raw_hot": 420708,
-      "num": 220022,
+      "num": 239514,
       "word": "女子吃螺蛳粉把狗熏吐被爸爸没收",
       "onboard_time": 1680397167,
       "rank": 22,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 418537,
+      "num": 418537,
+      "word": "上海的垃圾桶在哪里",
+      "onboard_time": 1680405086,
+      "rank": 35,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 398208,
@@ -211,6 +227,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 353977,
+      "num": 353977,
+      "word": "杨幂发了六条微博",
+      "onboard_time": 1680406106,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 351822,
       "num": 291132,
       "word": "肖战vlog致敬电影罗马假日",
@@ -243,6 +267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 336842,
+      "num": 239899,
+      "word": "第一次见这么干净的猪",
+      "onboard_time": 1680405149,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 315169,
       "num": 315169,
       "word": "还没答辩的有福了",
@@ -273,14 +305,6 @@
       "onboard_time": 1680359191,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 285782,
-      "num": 285782,
-      "word": "长月烬明",
-      "onboard_time": 1680405328,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 280919,
@@ -337,6 +361,14 @@
       "onboard_time": 1680396447,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 247783,
+      "num": 247783,
+      "word": "B站UP主发起停更潮",
+      "onboard_time": 1680406047,
+      "rank": 17,
+      "category": "科技"
     },
     {
       "raw_hot": 236735,
@@ -475,6 +507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 189062,
+      "num": 169588,
+      "word": "免签就能去的最梦幻之地",
+      "onboard_time": 1680403706,
+      "rank": 30,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 186738,
       "num": 186738,
       "word": "父母抹酒精退烧致4岁女儿住进ICU",
@@ -491,6 +531,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 173459,
+      "num": 173459,
+      "word": "薛之谦天外来物巡回演唱会",
+      "onboard_time": 1680405869,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 171288,
       "num": 171288,
       "word": "周雨彤reaction帮三生友幸补糖",
@@ -505,14 +553,6 @@
       "onboard_time": 1680400226,
       "rank": 29,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 169588,
-      "num": 169588,
-      "word": "免签就能去的最梦幻之地",
-      "onboard_time": 1680403706,
-      "rank": 30,
-      "category": "旅游"
     },
     {
       "raw_hot": 168426,
@@ -667,14 +707,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 140748,
-      "num": 140748,
-      "word": "上海的垃圾桶在哪里",
-      "onboard_time": 1680405086,
-      "rank": 35,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 138631,
       "num": 138631,
       "word": "张继科",
@@ -707,6 +739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 134532,
+      "num": 134532,
+      "word": "孤独症日音乐公益企划官宣",
+      "onboard_time": 1680406288,
+      "rank": 35,
+      "category": "艺人,音乐"
+    },
+    {
       "raw_hot": 132271,
       "num": 132271,
       "word": "上课最害怕的事还是发生了",
@@ -723,6 +763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 130875,
+      "num": 130875,
+      "word": "NCTDREAM舞蹈挑战",
+      "onboard_time": 1680405928,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 128885,
       "num": 190583,
       "word": "你平时午睡吗",
@@ -737,14 +785,6 @@
       "onboard_time": 1680345748,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 126669,
-      "num": 126669,
-      "word": "第一次见这么干净的猪",
-      "onboard_time": 1680405149,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 126113,
@@ -811,6 +851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107089,
+      "num": 107089,
+      "word": "想看看你手机里的春天",
+      "onboard_time": 1680406106,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 106210,
       "num": 106210,
       "word": "RNG Angel",
@@ -848,6 +896,14 @@
       "word": "搜救犬飞檐走壁快到重影",
       "onboard_time": 1680399507,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 84188,
+      "num": 690642,
+      "word": "为孤独症的孩子点亮一盏灯",
+      "onboard_time": 1680404847,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -905,14 +961,6 @@
       "onboard_time": 1680389355,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 49261,
-      "num": 659702,
-      "word": "为孤独症的孩子点亮一盏灯",
-      "onboard_time": 1680404847,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 38147,
