@@ -1,0 +1,410 @@
+{
+  "runTime": 1680470024553,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 121706,
+        "num": 121706,
+        "word": "真实地活下去 不要忘记每天看月亮",
+        "onboard_time": 1680441936,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 76218,
+        "num": 76218,
+        "word": "坂本龙一去世",
+        "onboard_time": 1680438989,
+        "rank": 1,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 10819,
+        "num": 65330,
+        "word": "英雄之光",
+        "onboard_time": 1680447168,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61039,
+        "num": 61039,
+        "word": "重庆警方通报男子持刀行凶",
+        "onboard_time": 1680450753,
+        "rank": 3,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 46176,
+        "num": 46176,
+        "word": "把垃圾桶拍成买不起的感觉",
+        "onboard_time": 1680450273,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 30612,
+        "num": 30612,
+        "word": "坂本龙一微博告别",
+        "onboard_time": 1680444166,
+        "rank": 5,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 30314,
+        "num": 30314,
+        "word": "学校回应2000学生徒步54公里祭英烈",
+        "onboard_time": 1680438148,
+        "rank": 6,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 29313,
+        "num": 29313,
+        "word": "粉丝真的给种地吧拉来了赞助",
+        "onboard_time": 1680443800,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27800,
+        "num": 27800,
+        "word": "秋瓷炫跳的gee",
+        "onboard_time": 1680450336,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26103,
+        "num": 26103,
+        "word": "昆明的绿化带",
+        "onboard_time": 1680451052,
+        "rank": 9,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 26375,
+        "num": 25586,
+        "word": "王岳伦陪王诗龄理发",
+        "onboard_time": 1680435806,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24190,
+        "num": 24190,
+        "word": "这一段路马英九走了73年",
+        "onboard_time": 1680436828,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23426,
+        "num": 23426,
+        "word": "4AM夺冠",
+        "onboard_time": 1680447042,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 23170,
+        "num": 23170,
+        "word": "武汉暴雨",
+        "onboard_time": 1680445424,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20969,
+        "num": 20969,
+        "word": "SEVENTEEN歌单",
+        "onboard_time": 1680449499,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 20186,
+        "num": 20186,
+        "word": "忠犬八公",
+        "onboard_time": 1680445120,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 19441,
+        "num": 19441,
+        "word": "纽卡斯尔联vs曼联",
+        "onboard_time": 1680449975,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18584,
+        "num": 18584,
+        "word": "Rookie",
+        "onboard_time": 1680445663,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 17680,
+        "num": 18584,
+        "word": "本泽马7分钟帽子戏法",
+        "onboard_time": 1680449915,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16954,
+        "num": 18539,
+        "word": "白桃星座",
+        "onboard_time": 1680446323,
+        "rank": 19,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 311380,
+        "num": 18516,
+        "word": "张继科借条",
+        "onboard_time": 1680442296,
+        "rank": 20,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 169805,
+        "num": 18497,
+        "word": "景甜",
+        "onboard_time": 1680444521,
+        "rank": 21,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 165147,
+        "num": 18444,
+        "word": "张继科联合创立的茶饮品牌已成老赖",
+        "onboard_time": 1680448179,
+        "rank": 22,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 108060,
+        "num": 18418,
+        "word": "张继科方准备起诉",
+        "onboard_time": 1680411988,
+        "rank": 23,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 39419,
+        "num": 18414,
+        "word": "夫妻结婚6年因3岁儿子转学想离婚",
+        "onboard_time": 1680438688,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32727,
+        "num": 18372,
+        "word": "小区1天内20只流浪猫集体死亡",
+        "onboard_time": 1680448003,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31404,
+        "num": 18353,
+        "word": "张继科回应因欠债传播女演员隐私视频",
+        "onboard_time": 1680332610,
+        "rank": 26,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 27275,
+        "num": 18332,
+        "word": "秦岚张峻宁吻戏",
+        "onboard_time": 1680452071,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 26607,
+        "num": 18290,
+        "word": "这不只是娱乐事件还涉及法律问题",
+        "onboard_time": 1680417569,
+        "rank": 28,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 25051,
+        "num": 18260,
+        "word": "李微敖 张继科",
+        "onboard_time": 1680326491,
+        "rank": 29,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 24977,
+        "num": 18231,
+        "word": "王一博白色小香风造型花絮",
+        "onboard_time": 1680451114,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 19065,
+        "num": 18192,
+        "word": "吃麻辣烫最省钱的操作",
+        "onboard_time": 1680449558,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 18192,
+        "num": 18191,
+        "word": "大学生你别太离谱",
+        "onboard_time": 1680451769,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 17798,
+        "num": 17798,
+        "word": "treasure成员演唱会被烧伤",
+        "onboard_time": 1680448179,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17721,
+        "num": 17721,
+        "word": "赵丽颖又瘦了",
+        "onboard_time": 1680433288,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17409,
+        "num": 17409,
+        "word": "第一次见有发型的鸭子",
+        "onboard_time": 1680449318,
+        "rank": 35,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 15977,
+        "num": 15977,
+        "word": "坂本龙一与癌症抗争9年",
+        "onboard_time": 1680443922,
+        "rank": 36,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 15315,
+        "num": 15315,
+        "word": "岳云鹏第一次相亲没相上",
+        "onboard_time": 1680457097,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14176,
+        "num": 14176,
+        "word": "李健音乐节",
+        "onboard_time": 1680441754,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 14163,
+        "num": 14163,
+        "word": "OMG战胜TES",
+        "onboard_time": 1680442535,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 14011,
+        "num": 14011,
+        "word": "太古里偶遇吉克隽逸",
+        "onboard_time": 1680443981,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13694,
+        "num": 13694,
+        "word": "张馨予晒夜骑随拍",
+        "onboard_time": 1680468310,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13664,
+        "num": 13664,
+        "word": "忠犬八公豆瓣评分涨至8.2",
+        "onboard_time": 1680445545,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 13646,
+        "num": 13646,
+        "word": "马嘉祺只有51公斤",
+        "onboard_time": 1680434426,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12523,
+        "num": 13646,
+        "word": "张杰演唱会",
+        "onboard_time": 1680435568,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 10699,
+        "num": 13641,
+        "word": "白鹿说长月烬明是绝世大甜剧",
+        "onboard_time": 1680437187,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 10350,
+        "num": 13634,
+        "word": "你遇到过哪些不当倡议",
+        "onboard_time": 1680459195,
+        "rank": 46,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 10329,
+        "num": 13629,
+        "word": "五月天energy放手",
+        "onboard_time": 1680448787,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 9704,
+        "num": 13622,
+        "word": "铃芽之旅连续10天票房日冠",
+        "onboard_time": 1680447766,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 9593,
+        "num": 13619,
+        "word": "狼队战胜WB",
+        "onboard_time": 1680447343,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#8487人获颁戍守边疆纪念章#"
+    }
+  }
+}
