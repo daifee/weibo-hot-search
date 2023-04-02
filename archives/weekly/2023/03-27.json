@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1680441492809,
+  "endTime": 1680442403741,
   "band_list": [
     {
       "raw_hot": 12970403,
@@ -11,20 +11,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 10767828,
+      "num": 10767828,
+      "word": "坂本龙一去世",
+      "onboard_time": 1680438989,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 10740151,
       "num": 10740151,
       "word": "李微敖 张继科",
       "onboard_time": 1680326491,
       "rank": 0,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 10494568,
-      "num": 10494568,
-      "word": "坂本龙一去世",
-      "onboard_time": 1680438989,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 7084987,
@@ -627,6 +627,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 1610039,
+      "num": 707764,
+      "word": "律师解读张继科景甜视频风波",
+      "onboard_time": 1680437067,
+      "rank": 13,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1605628,
       "num": 1582017,
       "word": "黑马情侣 剧本",
@@ -745,6 +753,14 @@
       "onboard_time": 1680069088,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1472627,
+      "num": 1472627,
+      "word": "OMG对战TES",
+      "onboard_time": 1680429150,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 1460745,
@@ -1163,14 +1179,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1157847,
-      "num": 707764,
-      "word": "律师解读张继科景甜视频风波",
-      "onboard_time": 1680437067,
-      "rank": 13,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 1156204,
       "num": 1156204,
       "word": "竹筒奶茶原来是回收筒吗",
@@ -1465,6 +1473,14 @@
       "onboard_time": 1679895574,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1007224,
+      "num": 1007224,
+      "word": "学校回应2000学生徒步54公里祭英烈",
+      "onboard_time": 1680438148,
+      "rank": 36,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1000798,
@@ -2131,6 +2147,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 785780,
+      "num": 276380,
+      "word": "夫妻结婚6年因3岁儿子转学想离婚",
+      "onboard_time": 1680438688,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 779318,
+      "num": 779318,
+      "word": "坂本龙一曾举办最后的音乐会",
+      "onboard_time": 1680440736,
+      "rank": 6,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 774557,
       "num": 376626,
       "word": "高叶被夸头骨",
@@ -2265,6 +2297,14 @@
       "onboard_time": 1680172467,
       "rank": 47,
       "category": "科技"
+    },
+    {
+      "raw_hot": 740560,
+      "num": 740560,
+      "word": "张继科借条",
+      "onboard_time": 1680442296,
+      "rank": 5,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 737755,
@@ -2595,14 +2635,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 679732,
-      "num": 257220,
-      "word": "夫妻结婚6年因3岁儿子转学想离婚",
-      "onboard_time": 1680438688,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 678671,
       "num": 678671,
       "word": "梁朝伟刘嘉玲深情怀念哥哥",
@@ -2657,14 +2689,6 @@
       "onboard_time": 1680347130,
       "rank": 8,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 664365,
-      "num": 664365,
-      "word": "学校回应2000学生徒步54公里祭英烈",
-      "onboard_time": 1680438148,
-      "rank": 36,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 663891,
@@ -3123,6 +3147,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 599073,
+      "num": 599073,
+      "word": "这一段路马英九走了73年",
+      "onboard_time": 1680436828,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 598451,
       "num": 598451,
       "word": "王心凌最受不了别人叫她不要熬夜",
@@ -3177,14 +3209,6 @@
       "onboard_time": 1680314666,
       "rank": 20,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 592571,
-      "num": 592571,
-      "word": "这一段路马英九走了73年",
-      "onboard_time": 1680436828,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 592006,
@@ -3620,7 +3644,7 @@
     },
     {
       "raw_hot": 532116,
-      "num": 258165,
+      "num": 266256,
       "word": "赵丽颖又瘦了",
       "onboard_time": 1680433288,
       "rank": 23,
@@ -3697,6 +3721,14 @@
       "onboard_time": 1680260906,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 521368,
+      "num": 521368,
+      "word": "圣诞快乐劳伦斯先生",
+      "onboard_time": 1680440433,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 520651,
@@ -4275,14 +4307,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 465631,
-      "num": 465631,
-      "word": "坂本龙一曾举办最后的音乐会",
-      "onboard_time": 1680440736,
-      "rank": 6,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 465178,
       "num": 380031,
       "word": "田曦薇撞脸史迪仔",
@@ -4668,7 +4692,7 @@
     },
     {
       "raw_hot": 431058,
-      "num": 257557,
+      "num": 267961,
       "word": "黄明昊跳了姐姐真漂亮",
       "onboard_time": 1680436948,
       "rank": 23,
@@ -5545,14 +5569,6 @@
       "onboard_time": 1680330988,
       "rank": 17,
       "category": "美食"
-    },
-    {
-      "raw_hot": 366822,
-      "num": 366822,
-      "word": "圣诞快乐劳伦斯先生",
-      "onboard_time": 1680440433,
-      "rank": 9,
-      "category": "艺人"
     },
     {
       "raw_hot": 365229,
@@ -6691,14 +6707,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 293994,
-      "num": 293994,
-      "word": "OMG对战TES",
-      "onboard_time": 1680429150,
-      "rank": 43,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 293961,
       "num": 293961,
       "word": "葡萄牛乳茶",
@@ -6852,7 +6860,7 @@
     },
     {
       "raw_hot": 286923,
-      "num": 256846,
+      "num": 257113,
       "word": "白鹿说长月烬明是绝世大甜剧",
       "onboard_time": 1680437187,
       "rank": 25,
@@ -7017,6 +7025,14 @@
       "onboard_time": 1680234626,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 280485,
+      "num": 280485,
+      "word": "李健音乐节",
+      "onboard_time": 1680441754,
+      "rank": 19,
+      "category": "音乐"
     },
     {
       "raw_hot": 280411,
@@ -8219,6 +8235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 236456,
+      "num": 236456,
+      "word": "卡位赛",
+      "onboard_time": 1680440136,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 236042,
       "num": 236042,
       "word": "品质盛典全阵容",
@@ -8537,14 +8561,6 @@
       "onboard_time": 1680138567,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 225643,
-      "num": 225643,
-      "word": "卡位赛",
-      "onboard_time": 1680440136,
-      "rank": 30,
-      "category": "游戏"
     },
     {
       "raw_hot": 224623,
@@ -9987,6 +10003,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 199023,
+      "num": 199023,
+      "word": "INTO1泰国演唱会第二场",
+      "onboard_time": 1680441632,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 199002,
       "num": 199002,
       "word": "陈立农声生不息宝岛季彩排vlog",
@@ -10033,6 +10057,14 @@
       "onboard_time": 1680335371,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 198619,
+      "num": 198619,
+      "word": "真实的活下去 不要忘记每天看月亮",
+      "onboard_time": 1680441936,
+      "rank": 36,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 198472,
@@ -10249,6 +10281,14 @@
       "onboard_time": 1680188667,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 196084,
+      "num": 196084,
+      "word": "王子璇演丽妃对镜子练习吓人",
+      "onboard_time": 1680441515,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 196033,
@@ -10715,6 +10755,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 190125,
+      "num": 190125,
+      "word": "最后的乐章至此落幕",
+      "onboard_time": 1680441815,
+      "rank": 38,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 190078,
       "num": 190078,
       "word": "钟辰乐直播",
@@ -11000,6 +11048,14 @@
       "word": "原神3.6版本直播",
       "onboard_time": 1680264028,
       "rank": 14,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 185519,
+      "num": 185519,
+      "word": "WB对战狼队",
+      "onboard_time": 1680441453,
+      "rank": 49,
       "category": "游戏"
     },
     {
@@ -11665,6 +11721,14 @@
       "onboard_time": 1680183689,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173694,
+      "num": 173694,
+      "word": "杨紫ins关注程潇",
+      "onboard_time": 1680441874,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 173399,
@@ -13148,7 +13212,7 @@
     },
     {
       "raw_hot": 143385,
-      "num": 896183,
+      "num": 1175031,
       "word": "春天的花花美到挪不开眼",
       "onboard_time": 1680424352,
       "rank": 2,
@@ -14747,6 +14811,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 113240,
+      "num": 113240,
+      "word": "李沁眼神戏",
+      "onboard_time": 1680441215,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 113171,
       "num": 113171,
       "word": "张杰分享未live巡演十八宫格",
@@ -15153,14 +15225,6 @@
       "onboard_time": 1680327989,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 103895,
-      "num": 103895,
-      "word": "李沁眼神戏",
-      "onboard_time": 1680441215,
-      "rank": 45,
-      "category": "影视"
     },
     {
       "raw_hot": 103852,
@@ -15601,14 +15665,6 @@
       "onboard_time": 1680184829,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 91160,
-      "num": 91160,
-      "word": "WB对战狼队",
-      "onboard_time": 1680441453,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 90930,
