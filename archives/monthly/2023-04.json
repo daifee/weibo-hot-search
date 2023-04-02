@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680438645676,
+  "endTime": 1680439608633,
   "band_list": [
     {
       "raw_hot": 10740151,
@@ -17,6 +17,14 @@
       "onboard_time": 1680278126,
       "rank": 0,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 5798207,
+      "num": 5798207,
+      "word": "坂本龙一去世",
+      "onboard_time": 1680438989,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 5135977,
@@ -355,8 +363,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 876483,
-      "num": 264398,
+      "raw_hot": 876639,
+      "num": 331457,
       "word": "马嘉祺只有51公斤",
       "onboard_time": 1680434426,
       "rank": 13,
@@ -376,6 +384,14 @@
       "word": "杨幂说一不小心回到小时候",
       "onboard_time": 1680341551,
       "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 843604,
+      "num": 329495,
+      "word": "王岳伦陪王诗龄理发",
+      "onboard_time": 1680435806,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -408,14 +424,6 @@
       "word": "陈坤 白宇是真的好演员",
       "onboard_time": 1680331411,
       "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 746356,
-      "num": 230155,
-      "word": "王岳伦陪王诗龄理发",
-      "onboard_time": 1680435806,
-      "rank": 11,
       "category": "艺人"
     },
     {
@@ -457,6 +465,14 @@
       "onboard_time": 1680412229,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 707764,
+      "num": 707764,
+      "word": "律师解读张继科景甜视频风波",
+      "onboard_time": 1680437067,
+      "rank": 13,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 707190,
@@ -643,6 +659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 564040,
+      "num": 564040,
+      "word": "面包脑袋",
+      "onboard_time": 1680436347,
+      "rank": 1,
+      "category": "美食"
+    },
+    {
       "raw_hot": 561886,
       "num": 172886,
       "word": "不要再盲掏耳朵了",
@@ -732,7 +756,7 @@
     },
     {
       "raw_hot": 532116,
-      "num": 213219,
+      "num": 258165,
       "word": "赵丽颖又瘦了",
       "onboard_time": 1680433288,
       "rank": 23,
@@ -755,6 +779,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 515516,
+      "num": 515516,
+      "word": "这一段路马英九走了73年",
+      "onboard_time": 1680436828,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 515282,
       "num": 515282,
       "word": "为什么越来越多的人涌向猪厂",
@@ -769,14 +801,6 @@
       "onboard_time": 1680314486,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 513995,
-      "num": 513995,
-      "word": "面包脑袋",
-      "onboard_time": 1680436347,
-      "rank": 1,
-      "category": "美食"
     },
     {
       "raw_hot": 512815,
@@ -1107,14 +1131,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 383081,
-      "num": 226722,
-      "word": "律师解读张继科景甜视频风波",
-      "onboard_time": 1680437067,
-      "rank": 13,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 379944,
       "num": 379944,
       "word": "孙海洋称人贩子吴飞龙案将开庭",
@@ -1129,6 +1145,14 @@
       "onboard_time": 1680394527,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 373611,
+      "num": 257557,
+      "word": "黄明昊跳了姐姐真漂亮",
+      "onboard_time": 1680436948,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 371415,
@@ -1169,6 +1193,14 @@
       "onboard_time": 1680330988,
       "rank": 17,
       "category": "美食"
+    },
+    {
+      "raw_hot": 362055,
+      "num": 362055,
+      "word": "学校回应2000学生徒步54公里祭英烈",
+      "onboard_time": 1680438148,
+      "rank": 36,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 356727,
@@ -1323,14 +1355,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 330260,
-      "num": 212768,
-      "word": "黄明昊跳了姐姐真漂亮",
-      "onboard_time": 1680436948,
-      "rank": 23,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 328858,
       "num": 197305,
       "word": "外交部回应日本外相将访华",
@@ -1403,11 +1427,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 311788,
-      "num": 216714,
-      "word": "这一段路马英九走了73年",
-      "onboard_time": 1680436828,
-      "rank": 18,
+      "raw_hot": 312495,
+      "num": 257220,
+      "word": "夫妻结婚6年因3岁儿子转学想离婚",
+      "onboard_time": 1680438688,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -1452,7 +1476,7 @@
     },
     {
       "raw_hot": 298188,
-      "num": 211601,
+      "num": 239346,
       "word": "是谁偷了我的退休人生",
       "onboard_time": 1680433527,
       "rank": 26,
@@ -1537,6 +1561,14 @@
       "onboard_time": 1680314307,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 280056,
+      "num": 280056,
+      "word": "OMG对战TES",
+      "onboard_time": 1680429150,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 277957,
@@ -1660,7 +1692,7 @@
     },
     {
       "raw_hot": 264740,
-      "num": 210362,
+      "num": 256846,
       "word": "白鹿说长月烬明是绝世大甜剧",
       "onboard_time": 1680437187,
       "rank": 25,
@@ -1673,6 +1705,14 @@
       "onboard_time": 1680391098,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 259618,
+      "num": 259618,
+      "word": "他是谁",
+      "onboard_time": 1680435207,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 259213,
@@ -1716,7 +1756,7 @@
     },
     {
       "raw_hot": 252141,
-      "num": 209433,
+      "num": 245238,
       "word": "怀疑夫子庙的猫认识字",
       "onboard_time": 1680436588,
       "rank": 26,
@@ -1891,14 +1931,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 236224,
-      "num": 236224,
-      "word": "他是谁",
-      "onboard_time": 1680435207,
-      "rank": 8,
-      "category": "影视"
-    },
-    {
       "raw_hot": 234532,
       "num": 199811,
       "word": "周冬雨南瓜妆",
@@ -2011,6 +2043,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 219101,
+      "num": 219101,
+      "word": "宋亚轩给鼠标穿裙子",
+      "onboard_time": 1680435868,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 218378,
       "num": 218378,
       "word": "王鹤棣好六再唱告白气球",
@@ -2107,14 +2147,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 209271,
-      "num": 209271,
-      "word": "宋亚轩给鼠标穿裙子",
-      "onboard_time": 1680435868,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 208885,
       "num": 208885,
       "word": "高双星见陈秀礼妈妈",
@@ -2193,6 +2225,14 @@
       "onboard_time": 1680351689,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 205337,
+      "num": 259485,
+      "word": "我的耳朵被咬了",
+      "onboard_time": 1680437847,
+      "rank": 35,
+      "category": "时尚"
     },
     {
       "raw_hot": 205210,
@@ -2595,6 +2635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 191330,
+      "num": 191330,
+      "word": "姚琛重庆巡演",
+      "onboard_time": 1680438748,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 190696,
       "num": 190696,
       "word": "赛琳娜为霉霉应援",
@@ -2625,6 +2673,14 @@
       "onboard_time": 1680415527,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 190078,
+      "num": 190078,
+      "word": "钟辰乐直播",
+      "onboard_time": 1680437307,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 189261,
@@ -2851,14 +2907,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 176337,
-      "num": 176337,
-      "word": "钟辰乐直播",
-      "onboard_time": 1680437307,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 175492,
       "num": 175492,
       "word": "王冰冰古装随拍",
@@ -2905,6 +2953,14 @@
       "onboard_time": 1680404244,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 170228,
+      "num": 170228,
+      "word": "大妈咖啡店里开茶话会并择菜",
+      "onboard_time": 1680436227,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170111,
@@ -3179,14 +3235,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 156649,
-      "num": 156649,
-      "word": "大妈咖啡店里开茶话会并择菜",
-      "onboard_time": 1680436227,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 156286,
       "num": 156286,
       "word": "洛阳街头牡丹花开正艳",
@@ -3217,14 +3265,6 @@
       "onboard_time": 1680394043,
       "rank": 29,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 155166,
-      "num": 155166,
-      "word": "我的耳朵被咬了",
-      "onboard_time": 1680437847,
-      "rank": 35,
-      "category": "时尚"
     },
     {
       "raw_hot": 154281,
@@ -3355,14 +3395,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 148290,
-      "num": 148290,
-      "word": "OMG对战TES",
-      "onboard_time": 1680429150,
-      "rank": 43,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 147345,
       "num": 150229,
       "word": "舞社2主理人阵容官宣",
@@ -3441,6 +3473,14 @@
       "onboard_time": 1680407189,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 142832,
+      "num": 142832,
+      "word": "OMG和TES决胜局",
+      "onboard_time": 1680439530,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 142448,
@@ -3651,14 +3691,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 133067,
-      "num": 133067,
-      "word": "学校回应2000学生徒步54公里祭英烈",
-      "onboard_time": 1680438148,
-      "rank": 36,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 132726,
       "num": 132726,
       "word": "二十周年继续宠爱张国荣",
@@ -3713,6 +3745,14 @@
       "onboard_time": 1680405928,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 130836,
+      "num": 130836,
+      "word": "黄子韬旦角",
+      "onboard_time": 1680437968,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 130534,
@@ -3939,6 +3979,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 119430,
+      "num": 119430,
+      "word": "TXT演唱会裤子",
+      "onboard_time": 1680439471,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 119421,
       "num": 420730,
       "word": "罗永浩再现智能马桶名场面",
@@ -4000,14 +4048,6 @@
       "word": "爱情而已",
       "onboard_time": 1680344011,
       "rank": 49,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 114980,
-      "num": 114980,
-      "word": "黄子韬旦角",
-      "onboard_time": 1680437968,
-      "rank": 43,
       "category": "影视"
     },
     {
