@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680431604978,
+  "endTime": 1680433995471,
   "band_list": [
     {
       "raw_hot": 10740151,
@@ -283,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 955249,
+      "num": 955249,
+      "word": "有点担心秋瓷炫的初舞台了",
+      "onboard_time": 1680427647,
+      "rank": 27,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 953500,
       "num": 953500,
       "word": "Viper",
@@ -345,14 +353,6 @@
       "onboard_time": 1680423508,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 857413,
-      "num": 857413,
-      "word": "有点担心秋瓷炫的初舞台了",
-      "onboard_time": 1680427647,
-      "rank": 27,
-      "category": "艺人,幽默"
     },
     {
       "raw_hot": 848497,
@@ -571,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 612281,
+      "num": 348137,
+      "word": "Jennie一人分饰两角",
+      "onboard_time": 1680431486,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 611755,
       "num": 611755,
       "word": "教育局回应女孩自述曾遭校园霸凌",
@@ -651,6 +659,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 545627,
+      "num": 545627,
+      "word": "陈睿曾称哔哩哔哩像社区物业",
+      "onboard_time": 1680431189,
+      "rank": 27,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 543449,
       "num": 172317,
       "word": "意大利宣布禁止使用ChatGPT",
@@ -713,6 +729,14 @@
       "onboard_time": 1680354569,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 515282,
+      "num": 515282,
+      "word": "为什么越来越多的人涌向猪厂",
+      "onboard_time": 1680428127,
+      "rank": 8,
+      "category": "情感"
     },
     {
       "raw_hot": 515133,
@@ -907,14 +931,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 435977,
-      "num": 435977,
-      "word": "为什么越来越多的人涌向猪厂",
-      "onboard_time": 1680428127,
-      "rank": 8,
-      "category": "情感"
-    },
-    {
       "raw_hot": 430788,
       "num": 430788,
       "word": "孙龙男子1500米夺冠",
@@ -1043,6 +1059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 391955,
+      "num": 209349,
+      "word": "赵丽颖又瘦了",
+      "onboard_time": 1680433288,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 386276,
       "num": 244698,
       "word": "贝儿和妹妹",
@@ -1065,6 +1089,14 @@
       "onboard_time": 1680394527,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 377079,
+      "num": 377079,
+      "word": "青蛙人偶",
+      "onboard_time": 1680431608,
+      "rank": 8,
+      "category": "幽默"
     },
     {
       "raw_hot": 371415,
@@ -1116,7 +1148,7 @@
     },
     {
       "raw_hot": 353715,
-      "num": 353715,
+      "num": 371345,
       "word": "辽宁山火",
       "onboard_time": 1680427228,
       "rank": 41,
@@ -1451,6 +1483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 277293,
+      "num": 277293,
+      "word": "无畏强我投降",
+      "onboard_time": 1680432329,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 277170,
       "num": 277170,
       "word": "桃花坞",
@@ -1715,6 +1755,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 243407,
+      "num": 225696,
+      "word": "不做饭的人冰箱都放什么",
+      "onboard_time": 1680429090,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 241175,
       "num": 241175,
       "word": "不要反复回味不愉快的事",
@@ -1771,6 +1819,14 @@
       "category": "艺人,美妆"
     },
     {
+      "raw_hot": 230596,
+      "num": 230596,
+      "word": "代号鸢孙策",
+      "onboard_time": 1680430227,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 230289,
       "num": 221527,
       "word": "BLG为啥视野能这么差",
@@ -1825,14 +1881,6 @@
       "onboard_time": 1680315267,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 225696,
-      "num": 225696,
-      "word": "不做饭的人冰箱都放什么",
-      "onboard_time": 1680429090,
-      "rank": 26,
-      "category": "幽默"
     },
     {
       "raw_hot": 222730,
@@ -1921,14 +1969,6 @@
       "onboard_time": 1680305119,
       "rank": 6,
       "category": "情感"
-    },
-    {
-      "raw_hot": 215154,
-      "num": 215154,
-      "word": "代号鸢孙策",
-      "onboard_time": 1680430227,
-      "rank": 28,
-      "category": "游戏"
     },
     {
       "raw_hot": 215069,
@@ -2099,14 +2139,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 203926,
-      "num": 203926,
-      "word": "陈睿曾称哔哩哔哩像社区物业",
-      "onboard_time": 1680431189,
-      "rank": 27,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 203573,
       "num": 203573,
       "word": "洪世贤来帮唱吗",
@@ -2201,6 +2233,14 @@
       "onboard_time": 1680326011,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 200926,
+      "num": 200926,
+      "word": "华晨宇演唱会舞美城市科幻感",
+      "onboard_time": 1680433107,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 200564,
@@ -2625,6 +2665,14 @@
       "onboard_time": 1680350668,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 180684,
+      "num": 180684,
+      "word": "金玟庭荧光粉帽造型",
+      "onboard_time": 1680432747,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 180301,
@@ -3107,20 +3155,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 152518,
+      "num": 152518,
+      "word": "放学后等家长最安全的地方",
+      "onboard_time": 1680431126,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 152280,
       "num": 152280,
       "word": "张艺兴公司新增体育竞赛组织业务",
       "onboard_time": 1680272670,
       "rank": 26,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 152261,
-      "num": 152261,
-      "word": "Jennie一人分饰两角",
-      "onboard_time": 1680431486,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 150605,
@@ -3491,14 +3539,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 131888,
-      "num": 131888,
-      "word": "放学后等家长最安全的地方",
-      "onboard_time": 1680431126,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 131470,
       "num": 131470,
       "word": "一身反骨的狗狗",
@@ -3825,6 +3865,14 @@
       "onboard_time": 1680408450,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 112619,
+      "num": 112619,
+      "word": "陈都灵粉裙",
+      "onboard_time": 1680433888,
+      "rank": 46,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 111583,

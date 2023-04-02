@@ -1,0 +1,410 @@
+{
+  "runTime": 1680433995471,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 955249,
+        "num": 955249,
+        "word": "有点担心秋瓷炫的初舞台了",
+        "onboard_time": 1680427647,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 795700,
+        "num": 795700,
+        "word": "陈晓缺了两颗牙",
+        "onboard_time": 1680424649,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 120111,
+        "num": 610282,
+        "word": "春天的花花美到挪不开眼",
+        "onboard_time": 1680424352,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 545627,
+        "num": 545627,
+        "word": "陈睿曾称哔哩哔哩像社区物业",
+        "onboard_time": 1680431189,
+        "rank": 3,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 515282,
+        "num": 515282,
+        "word": "为什么越来越多的人涌向猪厂",
+        "onboard_time": 1680428127,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 474841,
+        "num": 474841,
+        "word": "Viper",
+        "onboard_time": 1680428668,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 401696,
+        "num": 401696,
+        "word": "张嘉元误伤周柯宇",
+        "onboard_time": 1680429510,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 379854,
+        "num": 379854,
+        "word": "上海杜莎易烊千玺双蜡像",
+        "onboard_time": 1680425909,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 377079,
+        "num": 377079,
+        "word": "青蛙人偶",
+        "onboard_time": 1680431608,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 247775,
+        "num": 371345,
+        "word": "辽宁山火",
+        "onboard_time": 1680427228,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 612281,
+        "num": 348137,
+        "word": "Jennie一人分饰两角",
+        "onboard_time": 1680431486,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 602610,
+        "num": 329134,
+        "word": "汪峰女儿小苹果17岁近照",
+        "onboard_time": 1680422670,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 434565,
+        "num": 313602,
+        "word": "男生给富婆塞纸条被其丈夫找上门",
+        "onboard_time": 1680413789,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307825,
+        "num": 307825,
+        "word": "白鹿找镜头",
+        "onboard_time": 1680428848,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 277293,
+        "num": 277293,
+        "word": "无畏强我投降",
+        "onboard_time": 1680432329,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 246545,
+        "num": 246545,
+        "word": "白敬亭小号点赞",
+        "onboard_time": 1680414148,
+        "rank": 15,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 231673,
+        "num": 231673,
+        "word": "这个摊没有小狗得散",
+        "onboard_time": 1680427290,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 230596,
+        "num": 230596,
+        "word": "代号鸢孙策",
+        "onboard_time": 1680430227,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 219269,
+        "num": 219269,
+        "word": "B站UP主发起停更潮",
+        "onboard_time": 1680406047,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 218364,
+        "num": 218364,
+        "word": "长月烬明",
+        "onboard_time": 1680405328,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1238712,
+        "num": 216062,
+        "word": "22岁女生在泰国遭绑架虐杀",
+        "onboard_time": 1680422129,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1057948,
+        "num": 214619,
+        "word": "张继科方准备起诉",
+        "onboard_time": 1680411988,
+        "rank": 21,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 585756,
+        "num": 211215,
+        "word": "这不只是娱乐事件还涉及法律问题",
+        "onboard_time": 1680417569,
+        "rank": 22,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 391955,
+        "num": 209349,
+        "word": "赵丽颖又瘦了",
+        "onboard_time": 1680433288,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243407,
+        "num": 208581,
+        "word": "不做饭的人冰箱都放什么",
+        "onboard_time": 1680429090,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 206260,
+        "num": 206260,
+        "word": "近四百万粉丝UP主回应B站停更潮",
+        "onboard_time": 1680407369,
+        "rank": 25,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 200926,
+        "num": 200926,
+        "word": "华晨宇演唱会舞美城市科幻感",
+        "onboard_time": 1680433107,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 186882,
+        "num": 186882,
+        "word": "男子贪吃春笋后呕血又昏厥",
+        "onboard_time": 1680418165,
+        "rank": 27,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 180684,
+        "num": 180684,
+        "word": "金玟庭荧光粉帽造型",
+        "onboard_time": 1680432747,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 174120,
+        "num": 174120,
+        "word": "Hero战胜eStar",
+        "onboard_time": 1680429688,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 167959,
+        "num": 167959,
+        "word": "2000多名学生徒步54公里祭英烈",
+        "onboard_time": 1680425668,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162230,
+        "num": 162230,
+        "word": "武大靖给陈德全颁奖",
+        "onboard_time": 1680429929,
+        "rank": 31,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 152518,
+        "num": 152518,
+        "word": "放学后等家长最安全的地方",
+        "onboard_time": 1680431126,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 146776,
+        "num": 146776,
+        "word": "爱情而已表演式婚姻太窒息",
+        "onboard_time": 1680428547,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 145556,
+        "num": 145556,
+        "word": "杨紫ins开通新账号",
+        "onboard_time": 1680419426,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142500,
+        "num": 142500,
+        "word": "王冰冰古装随拍",
+        "onboard_time": 1680428967,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141703,
+        "num": 141703,
+        "word": "李微敖 张继科",
+        "onboard_time": 1680326491,
+        "rank": 36,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 140251,
+        "num": 140251,
+        "word": "孙海洋不认同检方5年刑期建议",
+        "onboard_time": 1680411209,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137418,
+        "num": 137418,
+        "word": "邓为生图",
+        "onboard_time": 1680426990,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 135456,
+        "num": 135456,
+        "word": "唐嫣植入闹乌龙",
+        "onboard_time": 1680423508,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132533,
+        "num": 132533,
+        "word": "刘少昂入籍首金",
+        "onboard_time": 1680423749,
+        "rank": 40,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 123258,
+        "num": 123258,
+        "word": "狂飙高启盛现场观战短道冠军赛",
+        "onboard_time": 1680426269,
+        "rank": 41,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 118404,
+        "num": 118404,
+        "word": "KT战胜HLE",
+        "onboard_time": 1680430047,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 118341,
+        "num": 118341,
+        "word": "95后养猪两年半存款20万",
+        "onboard_time": 1680414989,
+        "rank": 43,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 118007,
+        "num": 118007,
+        "word": "张继科回应因欠债传播女演员隐私视频",
+        "onboard_time": 1680332610,
+        "rank": 44,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 115379,
+        "num": 115379,
+        "word": "星星的孩子",
+        "onboard_time": 1680429150,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112619,
+        "num": 112619,
+        "word": "陈都灵粉裙",
+        "onboard_time": 1680433888,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 111720,
+        "num": 111720,
+        "word": "柳智敏中短发造型",
+        "onboard_time": 1680425309,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 111573,
+        "num": 111573,
+        "word": "鹿晗五哈3广州路透",
+        "onboard_time": 1680419367,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109460,
+        "num": 109460,
+        "word": "任嘉伦说武庚纪还有一个月杀青",
+        "onboard_time": 1680430047,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#这次全党主题教育总书记提出明确要求#"
+    }
+  }
+}
