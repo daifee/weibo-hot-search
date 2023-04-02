@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680417213318,
+  "endTime": 1680419665077,
   "band_list": [
     {
       "raw_hot": 10740151,
@@ -99,6 +99,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 2174661,
+      "num": 339651,
+      "word": "男生给富婆塞纸条被其丈夫找上门",
+      "onboard_time": 1680413789,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1988084,
       "num": 1988084,
       "word": "金晨情绪管理",
@@ -115,12 +123,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1708552,
-      "num": 312506,
-      "word": "男生给富婆塞纸条被其丈夫找上门",
-      "onboard_time": 1680413789,
-      "rank": 11,
-      "category": "社会新闻"
+      "raw_hot": 1568428,
+      "num": 1568428,
+      "word": "这不只是娱乐事件还涉及法律问题",
+      "onboard_time": 1680417569,
+      "rank": 0,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1523923,
@@ -132,7 +140,7 @@
     },
     {
       "raw_hot": 1487073,
-      "num": 312753,
+      "num": 333480,
       "word": "白敬亭小号点赞",
       "onboard_time": 1680414148,
       "rank": 10,
@@ -819,12 +827,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 423067,
+      "num": 423067,
+      "word": "王俊凯或将出演贾樟柯新电影",
+      "onboard_time": 1680416788,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 420708,
       "num": 239514,
       "word": "女子吃螺蛳粉把狗熏吐被爸爸没收",
       "onboard_time": 1680397167,
       "rank": 22,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 420353,
+      "num": 420353,
+      "word": "刘少林破全国纪录",
+      "onboard_time": 1680418767,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 419670,
@@ -873,6 +897,14 @@
       "onboard_time": 1680396146,
       "rank": 30,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 397540,
+      "num": 225787,
+      "word": "因为近视重新爱上前男友",
+      "onboard_time": 1680415825,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 392752,
@@ -992,6 +1024,14 @@
       "word": "篮球架被13级风吹倒又自己站起来",
       "onboard_time": 1680401728,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 346781,
+      "num": 346781,
+      "word": "孙海洋已提起580万元民事赔偿诉讼",
+      "onboard_time": 1680416609,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -1307,6 +1347,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 270215,
+      "num": 241957,
+      "word": "95后养猪两年半存款20万",
+      "onboard_time": 1680414989,
+      "rank": 21,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 268372,
       "num": 204355,
       "word": "专家建议房产税按家庭套数征收",
@@ -1321,14 +1369,6 @@
       "onboard_time": 1680403349,
       "rank": 16,
       "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 265649,
-      "num": 241957,
-      "word": "95后养猪两年半存款20万",
-      "onboard_time": 1680414989,
-      "rank": 21,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 262475,
@@ -1475,6 +1515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 234560,
+      "num": 234560,
+      "word": "男子贪吃春笋后呕血又昏厥",
+      "onboard_time": 1680418165,
+      "rank": 17,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 234532,
       "num": 199811,
       "word": "周冬雨南瓜妆",
@@ -1531,14 +1579,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 225787,
-      "num": 225787,
-      "word": "因为近视重新爱上前男友",
-      "onboard_time": 1680415825,
-      "rank": 27,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 222730,
       "num": 222730,
       "word": "山东一采煤塌陷地养出大珍珠",
@@ -1584,6 +1624,14 @@
       "word": "杨幂读剧本随拍",
       "onboard_time": 1680323493,
       "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 217307,
+      "num": 217307,
+      "word": "杨紫ins开通新账号",
+      "onboard_time": 1680419426,
+      "rank": 24,
       "category": "艺人"
     },
     {
@@ -1656,6 +1704,14 @@
       "word": "罗云熙宋轶新剧已在横店置景",
       "onboard_time": 1680344372,
       "rank": 29,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 208885,
+      "num": 208885,
+      "word": "高双星见陈秀礼妈妈",
+      "onboard_time": 1680419426,
+      "rank": 25,
       "category": "影视"
     },
     {
@@ -1891,6 +1947,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 199002,
+      "num": 199002,
+      "word": "陈立农声生不息宝岛季彩排vlog",
+      "onboard_time": 1680419488,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198741,
       "num": 193573,
       "word": "孟子义你好星期六剧照",
@@ -1993,6 +2057,14 @@
       "onboard_time": 1680352649,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 193953,
+      "num": 193953,
+      "word": "孙千李沁双人大片",
+      "onboard_time": 1680416246,
+      "rank": 44,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 193786,
@@ -2171,20 +2243,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 180740,
+      "num": 180740,
+      "word": "赛琳娜为霉霉应援",
+      "onboard_time": 1680418709,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 180301,
       "num": 180301,
       "word": "TES掉入卡位赛",
       "onboard_time": 1680348451,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 179394,
-      "num": 179394,
-      "word": "孙海洋已提起580万元民事赔偿诉讼",
-      "onboard_time": 1680416609,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 178650,
@@ -2321,14 +2393,6 @@
       "onboard_time": 1680392001,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 168196,
-      "num": 168196,
-      "word": "王俊凯或将出演贾樟柯新电影",
-      "onboard_time": 1680416788,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 167416,
@@ -2473,14 +2537,6 @@
       "onboard_time": 1680333568,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 159612,
-      "num": 159612,
-      "word": "孙千李沁双人大片",
-      "onboard_time": 1680416246,
-      "rank": 44,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 159313,
@@ -2745,6 +2801,14 @@
       "onboard_time": 1680316469,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 141738,
+      "num": 141738,
+      "word": "崔珉豪李硕珉棒球开球",
+      "onboard_time": 1680417808,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 141397,
@@ -3147,6 +3211,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 118382,
+      "num": 118382,
+      "word": "一身反骨的狗狗",
+      "onboard_time": 1680417208,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 118204,
       "num": 118204,
       "word": "河南专升本",
@@ -3211,12 +3283,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 113394,
+      "num": 113394,
+      "word": "鹿晗五哈3广州路透",
+      "onboard_time": 1680419367,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 113171,
       "num": 113171,
       "word": "张杰分享未live巡演十八宫格",
       "onboard_time": 1680408450,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 112963,
+      "num": 112963,
+      "word": "大学生重新定义交换生",
+      "onboard_time": 1680419488,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 111583,
@@ -3241,6 +3329,14 @@
       "onboard_time": 1680261565,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 109609,
+      "num": 109609,
+      "word": "KT对战HLE",
+      "onboard_time": 1680419126,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 109104,
@@ -3313,6 +3409,14 @@
       "onboard_time": 1680317728,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 105176,
+      "num": 105176,
+      "word": "阿娇怼脸生图状态",
+      "onboard_time": 1680419248,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 104693,
@@ -3465,14 +3569,6 @@
       "onboard_time": 1680312807,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 96449,
-      "num": 96449,
-      "word": "一身反骨的狗狗",
-      "onboard_time": 1680417208,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 95149,
