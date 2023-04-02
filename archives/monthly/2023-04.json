@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680460412938,
+  "endTime": 1680462761616,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -5209,6 +5209,14 @@
       "onboard_time": 1680376993,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 15601,
+      "num": 15601,
+      "word": "德塔文认证徐正溪花琉璃有效播剧",
+      "onboard_time": 1680457816,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 12137,
