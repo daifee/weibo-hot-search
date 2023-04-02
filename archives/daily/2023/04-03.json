@@ -1,6 +1,6 @@
 {
   "startTime": 1680452464197,
-  "endTime": 1680471205727,
+  "endTime": 1680473713459,
   "band_list": [
     {
       "raw_hot": 8591138,
@@ -435,28 +435,28 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 15601,
-      "num": 15601,
-      "word": "德塔文认证徐正溪花琉璃有效播剧",
-      "onboard_time": 1680457816,
-      "rank": 49,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 15308,
-      "num": 15308,
+      "raw_hot": 25260,
+      "num": 25260,
       "word": "张馨予晒夜骑随拍",
       "onboard_time": 1680468310,
       "rank": 41,
       "category": "艺人"
     },
     {
-      "raw_hot": 11973,
-      "num": 14164,
+      "raw_hot": 17107,
+      "num": 18499,
       "word": "你遇到过哪些不当倡议",
       "onboard_time": 1680459195,
       "rank": 47,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 15601,
+      "num": 15601,
+      "word": "德塔文认证徐正溪花琉璃有效播剧",
+      "onboard_time": 1680457816,
+      "rank": 49,
+      "category": "影视"
     }
   ],
   "hotgov_list": [
