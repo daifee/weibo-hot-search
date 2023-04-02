@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1680419665077,
+  "endTime": 1680420796241,
   "band_list": [
     {
       "raw_hot": 12970403,
@@ -1569,6 +1569,14 @@
       "onboard_time": 1679896412,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 925437,
+      "num": 925437,
+      "word": "刘少林破全国纪录",
+      "onboard_time": 1680418767,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 925250,
@@ -3891,6 +3899,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 479811,
+      "num": 281310,
+      "word": "杨紫ins开通新账号",
+      "onboard_time": 1680419426,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 479797,
       "num": 386413,
       "word": "宁艺卓Giselle吐嘈ae形象",
@@ -4595,14 +4611,6 @@
       "category": "社会新闻,幽默"
     },
     {
-      "raw_hot": 420353,
-      "num": 420353,
-      "word": "刘少林破全国纪录",
-      "onboard_time": 1680418767,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 419670,
       "num": 365236,
       "word": "张大大希望内娱百花齐放",
@@ -5041,6 +5049,14 @@
       "onboard_time": 1679938395,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 383473,
+      "num": 383473,
+      "word": "男子贪吃春笋后呕血又昏厥",
+      "onboard_time": 1680418165,
+      "rank": 17,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 383359,
@@ -6627,6 +6643,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 281652,
+      "num": 281652,
+      "word": "鹿晗五哈3广州路透",
+      "onboard_time": 1680419367,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 281599,
       "num": 263226,
       "word": "他是谁赵公子背景",
@@ -7811,14 +7835,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 234560,
-      "num": 234560,
-      "word": "男子贪吃春笋后呕血又昏厥",
-      "onboard_time": 1680418165,
-      "rank": 17,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 234532,
       "num": 199811,
       "word": "周冬雨南瓜妆",
@@ -8385,14 +8401,6 @@
       "onboard_time": 1680179668,
       "rank": 49,
       "category": "科技"
-    },
-    {
-      "raw_hot": 217307,
-      "num": 217307,
-      "word": "杨紫ins开通新账号",
-      "onboard_time": 1680419426,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 217215,
@@ -9179,6 +9187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 202194,
+      "num": 178524,
+      "word": "大学生重新定义交换生",
+      "onboard_time": 1680419488,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 202138,
       "num": 202138,
       "word": "跪地求水林场主称三成树木因缺水死亡",
@@ -9617,6 +9633,14 @@
       "onboard_time": 1680073529,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 197181,
+      "num": 175937,
+      "word": "华晨宇武汉站门票双场售罄",
+      "onboard_time": 1680420208,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 197151,
@@ -10091,6 +10115,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 190696,
+      "num": 190696,
+      "word": "赛琳娜为霉霉应援",
+      "onboard_time": 1680418709,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 190664,
       "num": 213211,
       "word": "徐明浩愚人节贺图",
@@ -10361,6 +10393,14 @@
       "onboard_time": 1680156265,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 186783,
+      "num": 186783,
+      "word": "Hero对战eStar",
+      "onboard_time": 1680420027,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 186559,
@@ -10696,14 +10736,6 @@
       "word": "NewJeans将发行新歌",
       "onboard_time": 1680233788,
       "rank": 33,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 180740,
-      "num": 180740,
-      "word": "赛琳娜为霉霉应援",
-      "onboard_time": 1680418709,
-      "rank": 30,
       "category": "音乐"
     },
     {
@@ -13067,6 +13099,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 131470,
+      "num": 131470,
+      "word": "一身反骨的狗狗",
+      "onboard_time": 1680417208,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 131459,
       "num": 131459,
       "word": "保你平安密室又吓人又好笑",
@@ -13209,6 +13249,14 @@
       "onboard_time": 1680171687,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128997,
+      "num": 128997,
+      "word": "阿娇怼脸生图状态",
+      "onboard_time": 1680419248,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 128995,
@@ -13763,14 +13811,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 118382,
-      "num": 118382,
-      "word": "一身反骨的狗狗",
-      "onboard_time": 1680417208,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 118378,
       "num": 118378,
       "word": "电影不躺平俱乐部开机",
@@ -13931,14 +13971,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 113394,
-      "num": 113394,
-      "word": "鹿晗五哈3广州路透",
-      "onboard_time": 1680419367,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 113370,
       "num": 113370,
       "word": "童瑶背后红花造型",
@@ -13961,14 +13993,6 @@
       "onboard_time": 1680135807,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 112963,
-      "num": 112963,
-      "word": "大学生重新定义交换生",
-      "onboard_time": 1680419488,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 112685,
@@ -14315,14 +14339,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 105176,
-      "num": 105176,
-      "word": "阿娇怼脸生图状态",
-      "onboard_time": 1680419248,
-      "rank": 49,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 104991,
       "num": 104991,
       "word": "刘巧珍原型人物专访",
@@ -14657,6 +14673,14 @@
       "onboard_time": 1679892102,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 96099,
+      "num": 96099,
+      "word": "孟子义能常驻你好星期六吗",
+      "onboard_time": 1680420753,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 95955,

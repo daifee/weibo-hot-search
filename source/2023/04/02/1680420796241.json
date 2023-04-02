@@ -1,0 +1,410 @@
+{
+  "runTime": 1680420796241,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 925437,
+        "num": 925437,
+        "word": "刘少林破全国纪录",
+        "onboard_time": 1680418767,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 917571,
+        "num": 917571,
+        "word": "B站UP主发起停更潮",
+        "onboard_time": 1680406047,
+        "rank": 1,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 61795,
+        "num": 679517,
+        "word": "为孤独症的孩子点亮一盏灯",
+        "onboard_time": 1680404847,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 555563,
+        "num": 555563,
+        "word": "焉栩嘉光头",
+        "onboard_time": 1680409409,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 422112,
+        "num": 422112,
+        "word": "孙海洋不认同检方5年刑期建议",
+        "onboard_time": 1680411209,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 420173,
+        "num": 420173,
+        "word": "长月烬明",
+        "onboard_time": 1680405328,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 383473,
+        "num": 383473,
+        "word": "男子贪吃春笋后呕血又昏厥",
+        "onboard_time": 1680418165,
+        "rank": 6,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 341157,
+        "num": 341157,
+        "word": "王俊凯或将出演贾樟柯新电影",
+        "onboard_time": 1680416788,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 295423,
+        "num": 295423,
+        "word": "孙海洋已提起580万元民事赔偿诉讼",
+        "onboard_time": 1680416609,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281652,
+        "num": 281652,
+        "word": "鹿晗五哈3广州路透",
+        "onboard_time": 1680419367,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2051726,
+        "num": 281463,
+        "word": "男生给富婆塞纸条被其丈夫找上门",
+        "onboard_time": 1680413789,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1081672,
+        "num": 281434,
+        "word": "白敬亭小号点赞",
+        "onboard_time": 1680414148,
+        "rank": 11,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 479811,
+        "num": 281310,
+        "word": "杨紫ins开通新账号",
+        "onboard_time": 1680419426,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280738,
+        "num": 280738,
+        "word": "上海的垃圾桶在哪里",
+        "onboard_time": 1680405086,
+        "rank": 13,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 247799,
+        "num": 247799,
+        "word": "王栎鑫陆虎去了张杰演唱会",
+        "onboard_time": 1680409950,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 238837,
+        "num": 238837,
+        "word": "金晨情绪管理",
+        "onboard_time": 1680393623,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232548,
+        "num": 232548,
+        "word": "近四百万粉丝UP主回应B站停更潮",
+        "onboard_time": 1680407369,
+        "rank": 16,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 211193,
+        "num": 211193,
+        "word": "湖北事业单位",
+        "onboard_time": 1680414387,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190696,
+        "num": 190696,
+        "word": "赛琳娜为霉霉应援",
+        "onboard_time": 1680418709,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 186783,
+        "num": 186783,
+        "word": "Hero对战eStar",
+        "onboard_time": 1680420027,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1965457,
+        "num": 185870,
+        "word": "张继科方准备起诉",
+        "onboard_time": 1680411988,
+        "rank": 20,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 1405616,
+        "num": 185084,
+        "word": "这不只是娱乐事件还涉及法律问题",
+        "onboard_time": 1680417569,
+        "rank": 21,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 497862,
+        "num": 184674,
+        "word": "盘点张继科商业版图",
+        "onboard_time": 1680403287,
+        "rank": 22,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 311248,
+        "num": 183298,
+        "word": "因为近视重新爱上前男友",
+        "onboard_time": 1680415825,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 182941,
+        "num": 182941,
+        "word": "陈立农声生不息宝岛季彩排vlog",
+        "onboard_time": 1680419488,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234083,
+        "num": 181609,
+        "word": "张继科曾陷猴子的救兵加盟纠纷",
+        "onboard_time": 1680396084,
+        "rank": 25,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 228844,
+        "num": 179300,
+        "word": "95后养猪两年半存款20万",
+        "onboard_time": 1680414989,
+        "rank": 26,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 202194,
+        "num": 178524,
+        "word": "大学生重新定义交换生",
+        "onboard_time": 1680419488,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 197181,
+        "num": 175937,
+        "word": "华晨宇武汉站门票双场售罄",
+        "onboard_time": 1680420208,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 174583,
+        "num": 174583,
+        "word": "张继科方将对侵权用户提起诉讼",
+        "onboard_time": 1680260966,
+        "rank": 29,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 172823,
+        "num": 172823,
+        "word": "张继科回应因欠债传播女演员隐私视频",
+        "onboard_time": 1680332610,
+        "rank": 30,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 172296,
+        "num": 172296,
+        "word": "F1",
+        "onboard_time": 1680413428,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159973,
+        "num": 159973,
+        "word": "第一次见这么干净的猪",
+        "onboard_time": 1680405149,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158790,
+        "num": 158790,
+        "word": "长月烬明见面会路透",
+        "onboard_time": 1680414207,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 156447,
+        "num": 156447,
+        "word": "李微敖 张继科",
+        "onboard_time": 1680326491,
+        "rank": 34,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 155824,
+        "num": 155824,
+        "word": "最食人间烟火色",
+        "onboard_time": 1680415527,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 154323,
+        "num": 154323,
+        "word": "孙千李沁双人大片",
+        "onboard_time": 1680416246,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 150752,
+        "num": 150752,
+        "word": "中国专家检查丫丫食物和水源",
+        "onboard_time": 1680404126,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149965,
+        "num": 150334,
+        "word": "高双星见陈秀礼妈妈",
+        "onboard_time": 1680419426,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 150127,
+        "num": 150127,
+        "word": "代号鸢",
+        "onboard_time": 1680408267,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 131470,
+        "num": 131470,
+        "word": "一身反骨的狗狗",
+        "onboard_time": 1680417208,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 129577,
+        "num": 129577,
+        "word": "朴宝剑胖了",
+        "onboard_time": 1680398369,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128997,
+        "num": 128997,
+        "word": "阿娇怼脸生图状态",
+        "onboard_time": 1680419248,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 126976,
+        "num": 126976,
+        "word": "崔珉豪李硕珉棒球开球",
+        "onboard_time": 1680417808,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118464,
+        "num": 118464,
+        "word": "内蒙古多地精简部分编外人员",
+        "onboard_time": 1680417208,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116987,
+        "num": 116987,
+        "word": "女子逛夜市被1克0.099元整蒙圈",
+        "onboard_time": 1680396386,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112906,
+        "num": 112906,
+        "word": "官方通报禁止村民栽种蔬菜瓜果",
+        "onboard_time": 1680400706,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110502,
+        "num": 110502,
+        "word": "由趣",
+        "onboard_time": 1680413910,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106734,
+        "num": 106734,
+        "word": "狼队王者荣耀",
+        "onboard_time": 1680413488,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 96099,
+        "num": 96099,
+        "word": "孟子义能常驻你好星期六吗",
+        "onboard_time": 1680420753,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#镜头见证雄安拔节生长#"
+    }
+  }
+}

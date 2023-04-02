@@ -1,6 +1,6 @@
 {
   "startTime": 1680366074129,
-  "endTime": 1680419665077,
+  "endTime": 1680420796241,
   "band_list": [
     {
       "raw_hot": 4265606,
@@ -147,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 925437,
+      "num": 925437,
+      "word": "刘少林破全国纪录",
+      "onboard_time": 1680418767,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 886135,
       "num": 886135,
       "word": "孙海洋不认同检方5年刑期建议",
@@ -259,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 479811,
+      "num": 281310,
+      "word": "杨紫ins开通新账号",
+      "onboard_time": 1680419426,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 469991,
       "num": 469991,
       "word": "代号鸢",
@@ -291,14 +307,6 @@
       "category": "社会新闻,幽默"
     },
     {
-      "raw_hot": 420353,
-      "num": 420353,
-      "word": "刘少林破全国纪录",
-      "onboard_time": 1680418767,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 403926,
       "num": 239899,
       "word": "第一次见这么干净的猪",
@@ -321,6 +329,14 @@
       "onboard_time": 1680415825,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 383473,
+      "num": 383473,
+      "word": "男子贪吃春笋后呕血又昏厥",
+      "onboard_time": 1680418165,
+      "rank": 17,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 379944,
@@ -451,6 +467,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 281652,
+      "num": 281652,
+      "word": "鹿晗五哈3广州路透",
+      "onboard_time": 1680419367,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 280919,
       "num": 280919,
       "word": "谭松韵叫秦岚大狗子",
@@ -555,14 +579,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 234560,
-      "num": 234560,
-      "word": "男子贪吃春笋后呕血又昏厥",
-      "onboard_time": 1680418165,
-      "rank": 17,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 227355,
       "num": 227355,
       "word": "罗晋晒照怀念张国荣",
@@ -593,14 +609,6 @@
       "onboard_time": 1680405869,
       "rank": 28,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 217307,
-      "num": 217307,
-      "word": "杨紫ins开通新账号",
-      "onboard_time": 1680419426,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 216149,
@@ -699,6 +707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 202194,
+      "num": 178524,
+      "word": "大学生重新定义交换生",
+      "onboard_time": 1680419488,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 201746,
       "num": 201746,
       "word": "星星挑战",
@@ -729,6 +745,14 @@
       "onboard_time": 1680419488,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 197181,
+      "num": 175937,
+      "word": "华晨宇武汉站门票双场售罄",
+      "onboard_time": 1680420208,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 196139,
@@ -763,6 +787,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 190696,
+      "num": 190696,
+      "word": "赛琳娜为霉霉应援",
+      "onboard_time": 1680418709,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 190445,
       "num": 190445,
       "word": "生理性抑郁症",
@@ -795,6 +827,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 186783,
+      "num": 186783,
+      "word": "Hero对战eStar",
+      "onboard_time": 1680420027,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 186738,
       "num": 186738,
       "word": "父母抹酒精退烧致4岁女儿住进ICU",
@@ -816,14 +856,6 @@
       "word": "stayc无伴奏唱跳teddybear",
       "onboard_time": 1680417208,
       "rank": 29,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 180740,
-      "num": 180740,
-      "word": "赛琳娜为霉霉应援",
-      "onboard_time": 1680418709,
-      "rank": 30,
       "category": "音乐"
     },
     {
@@ -1147,6 +1179,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 131470,
+      "num": 131470,
+      "word": "一身反骨的狗狗",
+      "onboard_time": 1680417208,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 131041,
       "num": 131041,
       "word": "深海",
@@ -1160,6 +1200,14 @@
       "word": "NCTDREAM舞蹈挑战",
       "onboard_time": 1680405928,
       "rank": 37,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 128997,
+      "num": 128997,
+      "word": "阿娇怼脸生图状态",
+      "onboard_time": 1680419248,
+      "rank": 49,
       "category": "作品衍生"
     },
     {
@@ -1227,14 +1275,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 118382,
-      "num": 118382,
-      "word": "一身反骨的狗狗",
-      "onboard_time": 1680417208,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 118204,
       "num": 118204,
       "word": "河南专升本",
@@ -1267,14 +1307,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 113394,
-      "num": 113394,
-      "word": "鹿晗五哈3广州路透",
-      "onboard_time": 1680419367,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 113171,
       "num": 113171,
       "word": "张杰分享未live巡演十八宫格",
@@ -1289,14 +1321,6 @@
       "onboard_time": 1680359912,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 112963,
-      "num": 112963,
-      "word": "大学生重新定义交换生",
-      "onboard_time": 1680419488,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 112367,
@@ -1339,14 +1363,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 105176,
-      "num": 105176,
-      "word": "阿娇怼脸生图状态",
-      "onboard_time": 1680419248,
-      "rank": 49,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 102188,
       "num": 102188,
       "word": "国门卫士获表彰却只能背影示人",
@@ -1377,6 +1393,14 @@
       "onboard_time": 1680364890,
       "rank": 49,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 96099,
+      "num": 96099,
+      "word": "孟子义能常驻你好星期六吗",
+      "onboard_time": 1680420753,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 95149,
