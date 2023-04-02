@@ -1,6 +1,6 @@
 {
   "startTime": 1680366074129,
-  "endTime": 1680426912901,
+  "endTime": 1680428005786,
   "band_list": [
     {
       "raw_hot": 4265606,
@@ -163,6 +163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 909631,
+      "num": 909631,
+      "word": "陈晓缺了两颗牙",
+      "onboard_time": 1680424649,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 886135,
       "num": 886135,
       "word": "孙海洋不认同检方5年刑期建议",
@@ -267,14 +275,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 608697,
-      "num": 608697,
-      "word": "陈晓缺了两颗牙",
-      "onboard_time": 1680424649,
-      "rank": 1,
-      "category": "影视"
-    },
-    {
       "raw_hot": 590204,
       "num": 304593,
       "word": "八年前愚人节的TFBOYS",
@@ -305,6 +305,14 @@
       "onboard_time": 1680396986,
       "rank": 7,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 483232,
+      "num": 483232,
+      "word": "上海杜莎易烊千玺双蜡像",
+      "onboard_time": 1680425909,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 483107,
@@ -539,14 +547,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 289588,
-      "num": 289588,
-      "word": "上海杜莎易烊千玺双蜡像",
-      "onboard_time": 1680425909,
-      "rank": 9,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 280919,
       "num": 280919,
       "word": "谭松韵叫秦岚大狗子",
@@ -611,6 +611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 261437,
+      "num": 261437,
+      "word": "2000多名学生徒步54公里祭英烈",
+      "onboard_time": 1680425668,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 257052,
       "num": 257052,
       "word": "长月烬明见面会路透",
@@ -635,6 +643,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 250598,
+      "num": 250598,
+      "word": "狂飙高启盛现场观战短道冠军赛",
+      "onboard_time": 1680426269,
+      "rank": 30,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 247559,
       "num": 247559,
       "word": "博主吐槽云南旅游遇路边摊刺客",
@@ -651,12 +667,28 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 240622,
+      "raw_hot": 244721,
+      "num": 244721,
+      "word": "园方回应与虎同住1小时奖10万",
+      "onboard_time": 1680423629,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 244012,
       "num": 228076,
       "word": "柳智敏中短发造型",
       "onboard_time": 1680425309,
       "rank": 23,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 241175,
+      "num": 241175,
+      "word": "不要反复回味不愉快的事",
+      "onboard_time": 1680426150,
+      "rank": 28,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 240507,
@@ -689,14 +721,6 @@
       "onboard_time": 1680346350,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 235994,
-      "num": 235994,
-      "word": "园方回应与虎同住1小时奖10万",
-      "onboard_time": 1680423629,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 227355,
@@ -737,6 +761,14 @@
       "onboard_time": 1680405869,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 219248,
+      "num": 210863,
+      "word": "邓为生图",
+      "onboard_time": 1680426990,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 216149,
@@ -891,6 +923,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 196377,
+      "num": 196377,
+      "word": "有点担心秋瓷炫的初舞台了",
+      "onboard_time": 1680427647,
+      "rank": 27,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 196139,
       "num": 196139,
       "word": "RNG提前进入夏季赛",
@@ -995,14 +1035,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 186371,
-      "num": 186371,
-      "word": "不要反复回味不愉快的事",
-      "onboard_time": 1680426150,
-      "rank": 28,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 184746,
       "num": 199243,
       "word": "全国短道速滑冠军赛",
@@ -1035,14 +1067,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 176624,
-      "num": 176624,
-      "word": "狂飙高启盛现场观战短道冠军赛",
-      "onboard_time": 1680426269,
-      "rank": 30,
-      "category": "体育,艺人"
-    },
-    {
       "raw_hot": 176178,
       "num": 176178,
       "word": "魔卡少女樱续作",
@@ -1073,6 +1097,14 @@
       "onboard_time": 1680404244,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 171218,
+      "num": 171218,
+      "word": "这个摊没有小狗得散",
+      "onboard_time": 1680427290,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 169786,
@@ -1121,14 +1153,6 @@
       "onboard_time": 1680407007,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 162436,
-      "num": 162436,
-      "word": "2000多名学生徒步54公里祭英烈",
-      "onboard_time": 1680425668,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 160859,
@@ -1363,6 +1387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 139046,
+      "num": 576847,
+      "word": "春天的花花美到挪不开眼",
+      "onboard_time": 1680424352,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138631,
       "num": 138631,
       "word": "张继科",
@@ -1417,6 +1449,14 @@
       "onboard_time": 1680422608,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 132635,
+      "num": 132635,
+      "word": "辽宁山火",
+      "onboard_time": 1680427228,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132271,
@@ -1497,14 +1537,6 @@
       "onboard_time": 1680424290,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 123144,
-      "num": 576847,
-      "word": "春天的花花美到挪不开眼",
-      "onboard_time": 1680424352,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 122835,
