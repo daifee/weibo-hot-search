@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680477357817,
+  "endTime": 1680478424404,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -57,6 +57,14 @@
       "onboard_time": 1680411988,
       "rank": 5,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 4202923,
+      "num": 4202923,
+      "word": "张继科借款利率是银行商贷的4倍",
+      "onboard_time": 1680476960,
+      "rank": 10,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 3054432,
@@ -409,14 +417,6 @@
       "onboard_time": 1680411209,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 880617,
-      "num": 144051,
-      "word": "张继科借款利率是银行商贷的4倍",
-      "onboard_time": 1680476960,
-      "rank": 10,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 879886,
@@ -1403,6 +1403,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 355150,
+      "num": 355150,
+      "word": "把垃圾桶拍成买不起的感觉",
+      "onboard_time": 1680450273,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 353715,
       "num": 371345,
       "word": "辽宁山火",
@@ -1441,14 +1449,6 @@
       "onboard_time": 1680401728,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 347570,
-      "num": 347570,
-      "word": "把垃圾桶拍成买不起的感觉",
-      "onboard_time": 1680450273,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 346781,
@@ -1553,6 +1553,14 @@
       "onboard_time": 1680307944,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 328950,
+      "num": 114339,
+      "word": "李微敖晒出张继科500万借款欠条",
+      "onboard_time": 1680477141,
+      "rank": 30,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 328858,
@@ -1961,6 +1969,14 @@
       "onboard_time": 1680435207,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 259438,
+      "num": 259438,
+      "word": "张继科持股公司曾推销厚礼冠军酒",
+      "onboard_time": 1680477742,
+      "rank": 7,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 259213,
@@ -2683,6 +2699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201454,
+      "num": 201454,
+      "word": "切尔西主帅波特下课",
+      "onboard_time": 1680477501,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 200926,
       "num": 200926,
       "word": "华晨宇演唱会舞美城市科幻感",
@@ -3225,14 +3249,6 @@
       "onboard_time": 1680348451,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 179697,
-      "num": 77242,
-      "word": "李微敖晒出张继科500万借款欠条",
-      "onboard_time": 1680477141,
-      "rank": 30,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 178650,
@@ -3891,6 +3907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143408,
+      "num": 115585,
+      "word": "赵露思黄衣遮阳帽视频",
+      "onboard_time": 1680477622,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 143385,
       "num": 5295131,
       "word": "春天的花花美到挪不开眼",
@@ -4033,6 +4057,14 @@
       "onboard_time": 1680339511,
       "rank": 37,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 136722,
+      "num": 113723,
+      "word": "怪云 摄魂怪",
+      "onboard_time": 1680477262,
+      "rank": 48,
+      "category": "自然"
     },
     {
       "raw_hot": 136718,
@@ -4289,6 +4321,14 @@
       "onboard_time": 1680264387,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 125423,
+      "num": 113217,
+      "word": "邻居私设围栏将公区变1梯1户",
+      "onboard_time": 1680477381,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 125046,
@@ -4611,6 +4651,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 108566,
+      "num": 118850,
+      "word": "王栎鑫蓝发",
+      "onboard_time": 1680478404,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 107973,
       "num": 107973,
       "word": "看完铃芽之旅的后遗症",
@@ -4723,6 +4771,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 101675,
+      "num": 101675,
+      "word": "岳云鹏第一次相亲没相上",
+      "onboard_time": 1680457097,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 101350,
       "num": 116282,
       "word": "画手用镜子作画与古迹完美重合",
@@ -4817,6 +4873,22 @@
       "onboard_time": 1680312807,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 95671,
+      "num": 116965,
+      "word": "巴黎圣日耳曼0比1里昂",
+      "onboard_time": 1680478043,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 95634,
+      "num": 95634,
+      "word": "泰国偶遇林更新",
+      "onboard_time": 1680478223,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 95149,
@@ -4955,12 +5027,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 83424,
-      "num": 75974,
-      "word": "岳云鹏第一次相亲没相上",
-      "onboard_time": 1680457097,
-      "rank": 37,
-      "category": "综艺"
+      "raw_hot": 82186,
+      "num": 82186,
+      "word": "朋友借钱你会给吗",
+      "onboard_time": 1680477141,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 81998,
@@ -5049,6 +5121,14 @@
       "onboard_time": 1680337950,
       "rank": 48,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 69325,
+      "num": 69325,
+      "word": "纽卡斯尔联2比0曼联",
+      "onboard_time": 1680477201,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 69135,
@@ -5147,36 +5227,12 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 47493,
-      "num": 47493,
-      "word": "朋友借钱你会给吗",
-      "onboard_time": 1680477141,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 46509,
       "num": 46509,
       "word": "张馨予晒夜骑随拍",
       "onboard_time": 1680468310,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 44891,
-      "num": 44891,
-      "word": "纽卡斯尔联2比0曼联",
-      "onboard_time": 1680477201,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 43553,
-      "num": 43553,
-      "word": "怪云 摄魂怪",
-      "onboard_time": 1680477262,
-      "rank": 48,
-      "category": "自然"
     },
     {
       "raw_hot": 37796,
