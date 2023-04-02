@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680410040429,
+  "endTime": 1680412515388,
   "band_list": [
     {
       "raw_hot": 10740151,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 1833746,
-      "num": 452604,
+      "num": 487247,
       "word": "杨幂发了六条微博",
       "onboard_time": 1680406106,
       "rank": 12,
@@ -137,6 +137,14 @@
       "onboard_time": 1680346350,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1278579,
+      "num": 829817,
+      "word": "焉栩嘉光头",
+      "onboard_time": 1680409409,
+      "rank": 5,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1239189,
@@ -323,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 711713,
+      "num": 711713,
+      "word": "张继科方准备起诉",
+      "onboard_time": 1680411988,
+      "rank": 5,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 707190,
       "num": 491242,
       "word": "迪丽热巴落肩鱼尾长裙",
@@ -467,6 +483,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 597395,
+      "num": 597395,
+      "word": "孙海洋不认同检方5年刑期建议",
+      "onboard_time": 1680411209,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 596758,
       "num": 596758,
       "word": "广东人成为全国最潮的仔",
@@ -497,14 +521,6 @@
       "onboard_time": 1680275608,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 558129,
-      "num": 558129,
-      "word": "焉栩嘉光头",
-      "onboard_time": 1680409409,
-      "rank": 5,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 556793,
@@ -545,6 +561,14 @@
       "onboard_time": 1680271050,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 539565,
+      "num": 539565,
+      "word": "王栎鑫陆虎去了张杰演唱会",
+      "onboard_time": 1680409950,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 538811,
@@ -1099,12 +1123,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 294821,
+      "num": 294821,
+      "word": "王子璇演的丽妃诡笑",
+      "onboard_time": 1680408627,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 294134,
       "num": 234966,
       "word": "最不想收到的一笔退款",
       "onboard_time": 1680345990,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 293785,
+      "num": 210145,
+      "word": "肖战杂志怼脸镜头",
+      "onboard_time": 1680408929,
+      "rank": 27,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 292973,
@@ -1259,14 +1299,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 261940,
-      "num": 210145,
-      "word": "肖战杂志怼脸镜头",
-      "onboard_time": 1680408929,
-      "rank": 27,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 259213,
       "num": 171195,
       "word": "肖战微博之夜后脑勺直拍视频",
@@ -1368,14 +1400,6 @@
       "word": "肖战玉骨遥侧颜路透",
       "onboard_time": 1680328351,
       "rank": 24,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 242545,
-      "num": 242545,
-      "word": "王子璇演的丽妃诡笑",
-      "onboard_time": 1680408627,
-      "rank": 19,
       "category": "影视"
     },
     {
@@ -1939,6 +1963,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 189132,
+      "num": 189132,
+      "word": "王鹤棣扭屁股",
+      "onboard_time": 1680409770,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189062,
       "num": 181714,
       "word": "免签就能去的最梦幻之地",
@@ -1961,6 +1993,14 @@
       "onboard_time": 1680354868,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 186631,
+      "num": 186631,
+      "word": "范丞丞找张大大要豹哥签名",
+      "onboard_time": 1680410729,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 185449,
@@ -2097,14 +2137,6 @@
       "onboard_time": 1680348571,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 173205,
-      "num": 173205,
-      "word": "王栎鑫陆虎去了张杰演唱会",
-      "onboard_time": 1680409950,
-      "rank": 29,
-      "category": "音乐"
     },
     {
       "raw_hot": 171288,
@@ -2699,14 +2731,6 @@
       "category": "情感,社会新闻"
     },
     {
-      "raw_hot": 133864,
-      "num": 133864,
-      "word": "王鹤棣扭屁股",
-      "onboard_time": 1680409770,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 133120,
       "num": 133120,
       "word": "猫猫是怎么告状的",
@@ -2843,6 +2867,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 125063,
+      "num": 125063,
+      "word": "事业单位",
+      "onboard_time": 1680412229,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 125046,
       "num": 125046,
       "word": "熊猫也有咬不动的竹子",
@@ -2865,6 +2897,14 @@
       "onboard_time": 1680344911,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 122835,
+      "num": 122835,
+      "word": "当狗狗和好朋友开视频时",
+      "onboard_time": 1680411390,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 122249,
@@ -2947,6 +2987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117198,
+      "num": 117198,
+      "word": "周雨彤片场读如何征服英俊少男",
+      "onboard_time": 1680411630,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 116027,
       "num": 183000,
       "word": "阿森纳vs利兹联",
@@ -3017,6 +3065,14 @@
       "onboard_time": 1680261565,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 110089,
+      "num": 110089,
+      "word": "洛阳街头牡丹花开正艳",
+      "onboard_time": 1680411748,
+      "rank": 41,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 109104,
