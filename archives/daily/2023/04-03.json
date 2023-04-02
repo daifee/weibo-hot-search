@@ -1,6 +1,6 @@
 {
   "startTime": 1680452464197,
-  "endTime": 1680474799377,
+  "endTime": 1680477357817,
   "band_list": [
     {
       "raw_hot": 8591138,
@@ -47,6 +47,14 @@
       "num": 333141,
       "word": "张继科联合创立的茶饮品牌已成老赖",
       "onboard_time": 1680448179,
+      "rank": 10,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 880617,
+      "num": 144051,
+      "word": "张继科借款利率是银行商贷的4倍",
+      "onboard_time": 1680476960,
       "rank": 10,
       "category": "社会新闻,艺人"
     },
@@ -123,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 347570,
+      "num": 347570,
+      "word": "把垃圾桶拍成买不起的感觉",
+      "onboard_time": 1680450273,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 292603,
       "num": 193517,
       "word": "小区1天内20只流浪猫集体死亡",
@@ -187,6 +203,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 216118,
+      "num": 216118,
+      "word": "学校回应2000学生徒步54公里祭英烈",
+      "onboard_time": 1680438148,
+      "rank": 29,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 214043,
       "num": 214043,
       "word": "王岳伦陪王诗龄理发",
@@ -235,12 +259,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 183263,
-      "num": 183263,
-      "word": "学校回应2000学生徒步54公里祭英烈",
-      "onboard_time": 1680438148,
-      "rank": 29,
-      "category": "社会新闻,教育"
+      "raw_hot": 179697,
+      "num": 77242,
+      "word": "李微敖晒出张继科500万借款欠条",
+      "onboard_time": 1680477141,
+      "rank": 30,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 174433,
@@ -281,14 +305,6 @@
       "onboard_time": 1680436828,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 158827,
-      "num": 158827,
-      "word": "把垃圾桶拍成买不起的感觉",
-      "onboard_time": 1680450273,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 150309,
@@ -411,28 +427,52 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 49463,
-      "num": 49463,
-      "word": "本泽马7分钟帽子戏法",
-      "onboard_time": 1680449915,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 37604,
-      "num": 37604,
+      "raw_hot": 83424,
+      "num": 75974,
       "word": "岳云鹏第一次相亲没相上",
       "onboard_time": 1680457097,
       "rank": 37,
       "category": "综艺"
     },
     {
-      "raw_hot": 33671,
-      "num": 33671,
+      "raw_hot": 80904,
+      "num": 80904,
+      "word": "本泽马7分钟帽子戏法",
+      "onboard_time": 1680449915,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 47493,
+      "num": 47493,
+      "word": "朋友借钱你会给吗",
+      "onboard_time": 1680477141,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 46509,
+      "num": 46509,
       "word": "张馨予晒夜骑随拍",
       "onboard_time": 1680468310,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 44891,
+      "num": 44891,
+      "word": "纽卡斯尔联2比0曼联",
+      "onboard_time": 1680477201,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 43553,
+      "num": 43553,
+      "word": "怪云 摄魂怪",
+      "onboard_time": 1680477262,
+      "rank": 48,
+      "category": "自然"
     },
     {
       "raw_hot": 27133,
