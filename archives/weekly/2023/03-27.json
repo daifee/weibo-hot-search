@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1680406407417,
+  "endTime": 1680409211593,
   "band_list": [
     {
       "raw_hot": 12970403,
@@ -80,6 +80,14 @@
       "word": "微信QQ出现功能异常",
       "onboard_time": 1680046523,
       "rank": 0,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 2941663,
+      "num": 2941663,
+      "word": "B站UP主发起停更潮",
+      "onboard_time": 1680406047,
+      "rank": 17,
       "category": "科技"
     },
     {
@@ -585,6 +593,14 @@
       "onboard_time": 1680075812,
       "rank": 1,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1573679,
+      "num": 353977,
+      "word": "杨幂发了六条微博",
+      "onboard_time": 1680406106,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 1553665,
@@ -1539,6 +1555,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 910531,
+      "num": 910531,
+      "word": "近四百万粉丝UP主回应B站停更潮",
+      "onboard_time": 1680407369,
+      "rank": 3,
+      "category": "科技"
+    },
+    {
       "raw_hot": 910171,
       "num": 910171,
       "word": "电视剧薄冰定档",
@@ -2369,6 +2393,14 @@
       "onboard_time": 1680162387,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 683129,
+      "num": 683129,
+      "word": "上海的垃圾桶在哪里",
+      "onboard_time": 1680405086,
+      "rank": 35,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 682891,
@@ -4507,14 +4539,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 418537,
-      "num": 418537,
-      "word": "上海的垃圾桶在哪里",
-      "onboard_time": 1680405086,
-      "rank": 35,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 417129,
       "num": 417129,
       "word": "牙医口罩下的表情是怎样的",
@@ -4801,6 +4825,14 @@
       "onboard_time": 1680252266,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 393395,
+      "num": 239899,
+      "word": "第一次见这么干净的猪",
+      "onboard_time": 1680405149,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 392752,
@@ -5283,14 +5315,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 353977,
-      "num": 353977,
-      "word": "杨幂发了六条微博",
-      "onboard_time": 1680406106,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 353202,
       "num": 231962,
       "word": "杨颖数字高定",
@@ -5545,14 +5569,6 @@
       "onboard_time": 1680267867,
       "rank": 21,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 336842,
-      "num": 239899,
-      "word": "第一次见这么干净的猪",
-      "onboard_time": 1680405149,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 336824,
@@ -7435,14 +7451,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 247783,
-      "num": 247783,
-      "word": "B站UP主发起停更潮",
-      "onboard_time": 1680406047,
-      "rank": 17,
-      "category": "科技"
-    },
-    {
       "raw_hot": 247589,
       "num": 247589,
       "word": "他是谁18集全是眼泪",
@@ -8025,6 +8033,14 @@
       "onboard_time": 1680076710,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 222409,
+      "num": 222409,
+      "word": "薛之谦天外来物巡回演唱会",
+      "onboard_time": 1680405869,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 222260,
@@ -8643,6 +8659,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 206917,
+      "num": 206917,
+      "word": "王子璇演的丽妃诡笑",
+      "onboard_time": 1680408627,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 206751,
       "num": 206751,
       "word": "春天真是美好 然而没有钱",
@@ -8835,6 +8859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 204071,
+      "num": 204071,
+      "word": "如果音乐有形状公益挑战",
+      "onboard_time": 1680408389,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 203743,
       "num": 203743,
       "word": "毛不易演唱会",
@@ -8915,6 +8947,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 202917,
+      "num": 202917,
+      "word": "赵小棠古风写真",
+      "onboard_time": 1680407369,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 202856,
       "num": 202856,
       "word": "北京草莓音乐节",
@@ -8977,6 +9017,14 @@
       "onboard_time": 1680272971,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 201746,
+      "num": 201746,
+      "word": "星星挑战",
+      "onboard_time": 1680408869,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 201737,
@@ -9835,6 +9883,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 190667,
+      "num": 190667,
+      "word": "肖战杂志怼脸镜头",
+      "onboard_time": 1680408929,
+      "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 190664,
       "num": 213211,
       "word": "徐明浩愚人节贺图",
@@ -9948,7 +10004,7 @@
     },
     {
       "raw_hot": 189062,
-      "num": 169588,
+      "num": 181714,
       "word": "免签就能去的最梦幻之地",
       "onboard_time": 1680403706,
       "rank": 30,
@@ -10041,6 +10097,14 @@
       "onboard_time": 1680007407,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 187872,
+      "num": 187872,
+      "word": "千名汉服小姐姐共行叉手礼",
+      "onboard_time": 1680408450,
+      "rank": 28,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 187304,
@@ -10739,14 +10803,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 173459,
-      "num": 173459,
-      "word": "薛之谦天外来物巡回演唱会",
-      "onboard_time": 1680405869,
-      "rank": 28,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 173399,
       "num": 226444,
       "word": "狗狗太热情也不太好",
@@ -11179,6 +11235,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 165135,
+      "num": 165135,
+      "word": "王一博雷宇平安落地视频",
+      "onboard_time": 1680407007,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 165060,
       "num": 165060,
       "word": "黑暗荣耀柯南画风版",
@@ -11497,6 +11561,14 @@
       "onboard_time": 1680267507,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 158255,
+      "num": 158255,
+      "word": "两个孤独症孩子母亲的自述",
+      "onboard_time": 1680406468,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 158096,
@@ -11867,6 +11939,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 149390,
+      "num": 149390,
+      "word": "贾乃亮呼吁关注孤独症群体",
+      "onboard_time": 1680408089,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 149232,
       "num": 149232,
       "word": "陈梦3比0刘炜珊",
@@ -12105,6 +12185,14 @@
       "onboard_time": 1679827047,
       "rank": 30,
       "category": "幽默,教育"
+    },
+    {
+      "raw_hot": 143117,
+      "num": 143117,
+      "word": "IVE回归先行曲达成CAK",
+      "onboard_time": 1680407189,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 142984,
@@ -12995,6 +13083,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 126087,
+      "num": 126087,
+      "word": "鹈鹕战胜快船",
+      "onboard_time": 1680407849,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125945,
       "num": 125945,
       "word": "用古诗词解读刘亦菲",
@@ -13513,6 +13609,14 @@
       "onboard_time": 1680173187,
       "rank": 42,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 113171,
+      "num": 113171,
+      "word": "张杰分享未live巡演十八宫格",
+      "onboard_time": 1680408450,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 113049,
@@ -14371,6 +14475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 88202,
+      "num": 88202,
+      "word": "梁友安内涵宋三川",
+      "onboard_time": 1680406468,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 87706,
       "num": 348615,
       "word": "哪些幸福是有车以后才懂",
@@ -14385,6 +14497,14 @@
       "onboard_time": 1680053368,
       "rank": 49,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 87404,
+      "num": 910850,
+      "word": "为孤独症的孩子点亮一盏灯",
+      "onboard_time": 1680404847,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 86947,
@@ -14464,14 +14584,6 @@
       "word": "科学家是如何治理荒漠化的",
       "onboard_time": 1680191846,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 84188,
-      "num": 690642,
-      "word": "为孤独症的孩子点亮一盏灯",
-      "onboard_time": 1680404847,
-      "rank": 2,
       "category": "社会新闻"
     },
     {

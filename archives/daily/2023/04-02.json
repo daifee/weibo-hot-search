@@ -1,7 +1,15 @@
 {
   "startTime": 1680366074129,
-  "endTime": 1680406407417,
+  "endTime": 1680409211593,
   "band_list": [
+    {
+      "raw_hot": 2941663,
+      "num": 2941663,
+      "word": "B站UP主发起停更潮",
+      "onboard_time": 1680406047,
+      "rank": 17,
+      "category": "科技"
+    },
     {
       "raw_hot": 2815449,
       "num": 2815449,
@@ -33,6 +41,14 @@
       "onboard_time": 1680332610,
       "rank": 10,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1573679,
+      "num": 353977,
+      "word": "杨幂发了六条微博",
+      "onboard_time": 1680406106,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 1437150,
@@ -83,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 910531,
+      "num": 910531,
+      "word": "近四百万粉丝UP主回应B站停更潮",
+      "onboard_time": 1680407369,
+      "rank": 3,
+      "category": "科技"
+    },
+    {
       "raw_hot": 862548,
       "num": 224085,
       "word": "李微敖 张继科",
@@ -113,6 +137,14 @@
       "onboard_time": 1680353668,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 683129,
+      "num": 683129,
+      "word": "上海的垃圾桶在哪里",
+      "onboard_time": 1680405086,
+      "rank": 35,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 660013,
@@ -179,20 +211,20 @@
       "category": "社会新闻,幽默"
     },
     {
-      "raw_hot": 418537,
-      "num": 418537,
-      "word": "上海的垃圾桶在哪里",
-      "onboard_time": 1680405086,
-      "rank": 35,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 398208,
       "num": 398208,
       "word": "空心菜 ong菜",
       "onboard_time": 1680396146,
       "rank": 30,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 393395,
+      "num": 239899,
+      "word": "第一次见这么干净的猪",
+      "onboard_time": 1680405149,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 379944,
@@ -227,14 +259,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 353977,
-      "num": 353977,
-      "word": "杨幂发了六条微博",
-      "onboard_time": 1680406106,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 351822,
       "num": 291132,
       "word": "肖战vlog致敬电影罗马假日",
@@ -265,14 +289,6 @@
       "onboard_time": 1680399149,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 336842,
-      "num": 239899,
-      "word": "第一次见这么干净的猪",
-      "onboard_time": 1680405149,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 315169,
@@ -323,6 +339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 274026,
+      "num": 274026,
+      "word": "代号鸢",
+      "onboard_time": 1680408267,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 273332,
       "num": 273332,
       "word": "宰相公子要入赘",
@@ -361,14 +385,6 @@
       "onboard_time": 1680396447,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 247783,
-      "num": 247783,
-      "word": "B站UP主发起停更潮",
-      "onboard_time": 1680406047,
-      "rank": 17,
-      "category": "科技"
     },
     {
       "raw_hot": 236735,
@@ -411,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 222409,
+      "num": 222409,
+      "word": "薛之谦天外来物巡回演唱会",
+      "onboard_time": 1680405869,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 216149,
       "num": 216149,
       "word": "痛仰 上海",
@@ -435,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 206917,
+      "num": 206917,
+      "word": "王子璇演的丽妃诡笑",
+      "onboard_time": 1680408627,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 206751,
       "num": 206751,
       "word": "春天真是美好 然而没有钱",
@@ -451,6 +483,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 204071,
+      "num": 204071,
+      "word": "如果音乐有形状公益挑战",
+      "onboard_time": 1680408389,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 202917,
+      "num": 202917,
+      "word": "赵小棠古风写真",
+      "onboard_time": 1680407369,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 202459,
       "num": 202459,
       "word": "任嘉伦活动现场人气",
@@ -464,6 +512,14 @@
       "word": "律师称传播他人私密视频或担刑责",
       "onboard_time": 1680375134,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201746,
+      "num": 201746,
+      "word": "星星挑战",
+      "onboard_time": 1680408869,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -499,6 +555,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 190667,
+      "num": 190667,
+      "word": "肖战杂志怼脸镜头",
+      "onboard_time": 1680408929,
+      "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 190445,
       "num": 190445,
       "word": "生理性抑郁症",
@@ -508,11 +572,19 @@
     },
     {
       "raw_hot": 189062,
-      "num": 169588,
+      "num": 181714,
       "word": "免签就能去的最梦幻之地",
       "onboard_time": 1680403706,
       "rank": 30,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 187872,
+      "num": 187872,
+      "word": "千名汉服小姐姐共行叉手礼",
+      "onboard_time": 1680408450,
+      "rank": 28,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 186738,
@@ -529,14 +601,6 @@
       "onboard_time": 1680350069,
       "rank": 32,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 173459,
-      "num": 173459,
-      "word": "薛之谦天外来物巡回演唱会",
-      "onboard_time": 1680405869,
-      "rank": 28,
-      "category": "音乐"
     },
     {
       "raw_hot": 171288,
@@ -579,6 +643,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 165135,
+      "num": 165135,
+      "word": "王一博雷宇平安落地视频",
+      "onboard_time": 1680407007,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 160859,
       "num": 160859,
       "word": "凉山4.0级地震",
@@ -601,6 +673,14 @@
       "onboard_time": 1680396447,
       "rank": 32,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 158255,
+      "num": 158255,
+      "word": "两个孤独症孩子母亲的自述",
+      "onboard_time": 1680406468,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 158096,
@@ -667,6 +747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 149390,
+      "num": 149390,
+      "word": "贾乃亮呼吁关注孤独症群体",
+      "onboard_time": 1680408089,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 148866,
       "num": 148866,
       "word": "神隐剧组聚餐",
@@ -689,6 +777,14 @@
       "onboard_time": 1680404546,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 143117,
+      "num": 143117,
+      "word": "IVE回归先行曲达成CAK",
+      "onboard_time": 1680407189,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 141044,
@@ -795,6 +891,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 126087,
+      "num": 126087,
+      "word": "鹈鹕战胜快船",
+      "onboard_time": 1680407849,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119763,
       "num": 119763,
       "word": "周迅黄磊回忆张国荣",
@@ -825,6 +929,14 @@
       "onboard_time": 1680351867,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 113171,
+      "num": 113171,
+      "word": "张杰分享未live巡演十八宫格",
+      "onboard_time": 1680408450,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 113016,
@@ -891,19 +1003,27 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 88202,
+      "num": 88202,
+      "word": "梁友安内涵宋三川",
+      "onboard_time": 1680406468,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 87404,
+      "num": 910850,
+      "word": "为孤独症的孩子点亮一盏灯",
+      "onboard_time": 1680404847,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 86947,
       "num": 86947,
       "word": "搜救犬飞檐走壁快到重影",
       "onboard_time": 1680399507,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 84188,
-      "num": 690642,
-      "word": "为孤独症的孩子点亮一盏灯",
-      "onboard_time": 1680404847,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
