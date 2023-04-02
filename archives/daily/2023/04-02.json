@@ -1,6 +1,6 @@
 {
   "startTime": 1680366074129,
-  "endTime": 1680430601554,
+  "endTime": 1680431604978,
   "band_list": [
     {
       "raw_hot": 4265606,
@@ -163,8 +163,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 951232,
-      "num": 951232,
+      "raw_hot": 953500,
+      "num": 953500,
       "word": "Viper",
       "onboard_time": 1680428668,
       "rank": 1,
@@ -201,6 +201,14 @@
       "onboard_time": 1680326491,
       "rank": 20,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 857413,
+      "num": 857413,
+      "word": "有点担心秋瓷炫的初舞台了",
+      "onboard_time": 1680427647,
+      "rank": 27,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 840632,
@@ -241,14 +249,6 @@
       "onboard_time": 1680422670,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 721889,
-      "num": 721889,
-      "word": "有点担心秋瓷炫的初舞台了",
-      "onboard_time": 1680427647,
-      "rank": 27,
-      "category": "艺人,幽默"
     },
     {
       "raw_hot": 715530,
@@ -371,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 435977,
+      "num": 435977,
+      "word": "为什么越来越多的人涌向猪厂",
+      "onboard_time": 1680428127,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
       "raw_hot": 423067,
       "num": 423067,
       "word": "王俊凯或将出演贾樟柯新电影",
@@ -385,6 +393,14 @@
       "onboard_time": 1680397167,
       "rank": 22,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 415234,
+      "num": 415234,
+      "word": "张嘉元误伤周柯宇",
+      "onboard_time": 1680429510,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 408094,
@@ -459,6 +475,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 353715,
+      "num": 353715,
+      "word": "辽宁山火",
+      "onboard_time": 1680427228,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 351822,
       "num": 291132,
       "word": "肖战vlog致敬电影罗马假日",
@@ -499,8 +523,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 337934,
-      "num": 337934,
+      "raw_hot": 341658,
+      "num": 341658,
       "word": "白鹿找镜头",
       "onboard_time": 1680428848,
       "rank": 6,
@@ -513,14 +537,6 @@
       "onboard_time": 1680419367,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 322845,
-      "num": 322845,
-      "word": "为什么越来越多的人涌向猪厂",
-      "onboard_time": 1680428127,
-      "rank": 8,
-      "category": "情感"
     },
     {
       "raw_hot": 322790,
@@ -548,18 +564,10 @@
     },
     {
       "raw_hot": 312648,
-      "num": 322832,
+      "num": 324103,
       "word": "2000多名学生徒步54公里祭英烈",
       "onboard_time": 1680425668,
       "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 306392,
-      "num": 306392,
-      "word": "辽宁山火",
-      "onboard_time": 1680427228,
-      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -585,14 +593,6 @@
       "onboard_time": 1680346531,
       "rank": 13,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 300227,
-      "num": 300227,
-      "word": "张嘉元误伤周柯宇",
-      "onboard_time": 1680429510,
-      "rank": 17,
-      "category": "音乐"
     },
     {
       "raw_hot": 296503,
@@ -891,6 +891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 211525,
+      "num": 211525,
+      "word": "武大靖给陈德全颁奖",
+      "onboard_time": 1680429929,
+      "rank": 36,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 208885,
       "num": 208885,
       "word": "高双星见陈秀礼妈妈",
@@ -961,6 +969,14 @@
       "onboard_time": 1680408389,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 203926,
+      "num": 203926,
+      "word": "陈睿曾称哔哩哔哩像社区物业",
+      "onboard_time": 1680431189,
+      "rank": 27,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 202917,
@@ -1083,12 +1099,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 192088,
-      "num": 192088,
-      "word": "武大靖给陈德全颁奖",
-      "onboard_time": 1680429929,
-      "rank": 36,
-      "category": "体育,社会新闻"
+      "raw_hot": 191530,
+      "num": 191530,
+      "word": "爱情而已另类姐狗剧",
+      "onboard_time": 1680431006,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 191319,
@@ -1395,6 +1411,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 153253,
+      "num": 153253,
+      "word": "Rookie3000杀",
+      "onboard_time": 1680430648,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 152828,
       "num": 152828,
       "word": "朴彩英为金智秀新歌打歌",
@@ -1408,6 +1432,14 @@
       "word": "SEVENTEEN出道初VS后期的颜值变化",
       "onboard_time": 1680391639,
       "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 152261,
+      "num": 152261,
+      "word": "Jennie一人分饰两角",
+      "onboard_time": 1680431486,
+      "rank": 39,
       "category": "艺人"
     },
     {
@@ -1483,6 +1515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 143385,
+      "num": 896183,
+      "word": "春天的花花美到挪不开眼",
+      "onboard_time": 1680424352,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143117,
       "num": 143117,
       "word": "IVE回归先行曲达成CAK",
@@ -1537,14 +1577,6 @@
       "onboard_time": 1680409469,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 139046,
-      "num": 731947,
-      "word": "春天的花花美到挪不开眼",
-      "onboard_time": 1680424352,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 138631,
@@ -1617,6 +1649,14 @@
       "onboard_time": 1680359912,
       "rank": 48,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 131888,
+      "num": 131888,
+      "word": "放学后等家长最安全的地方",
+      "onboard_time": 1680431126,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 131470,

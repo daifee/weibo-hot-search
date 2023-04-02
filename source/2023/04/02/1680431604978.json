@@ -1,0 +1,410 @@
+{
+  "runTime": 1680431604978,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1091448,
+        "num": 1091448,
+        "word": "陈晓缺了两颗牙",
+        "onboard_time": 1680424649,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 953500,
+        "num": 953500,
+        "word": "Viper",
+        "onboard_time": 1680428668,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 143385,
+        "num": 896183,
+        "word": "春天的花花美到挪不开眼",
+        "onboard_time": 1680424352,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 857413,
+        "num": 857413,
+        "word": "有点担心秋瓷炫的初舞台了",
+        "onboard_time": 1680427647,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 491033,
+        "num": 491033,
+        "word": "上海杜莎易烊千玺双蜡像",
+        "onboard_time": 1680425909,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 435977,
+        "num": 435977,
+        "word": "为什么越来越多的人涌向猪厂",
+        "onboard_time": 1680428127,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 415234,
+        "num": 415234,
+        "word": "张嘉元误伤周柯宇",
+        "onboard_time": 1680429510,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 353715,
+        "num": 353715,
+        "word": "辽宁山火",
+        "onboard_time": 1680427228,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341658,
+        "num": 341658,
+        "word": "白鹿找镜头",
+        "onboard_time": 1680428848,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 270400,
+        "num": 324103,
+        "word": "2000多名学生徒步54公里祭英烈",
+        "onboard_time": 1680425668,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 565773,
+        "num": 324086,
+        "word": "汪峰女儿小苹果17岁近照",
+        "onboard_time": 1680422670,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 493095,
+        "num": 324028,
+        "word": "男生给富婆塞纸条被其丈夫找上门",
+        "onboard_time": 1680413789,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323753,
+        "num": 323753,
+        "word": "B站UP主发起停更潮",
+        "onboard_time": 1680406047,
+        "rank": 12,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 315676,
+        "num": 315676,
+        "word": "这个摊没有小狗得散",
+        "onboard_time": 1680427290,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 313438,
+        "num": 313438,
+        "word": "Hero战胜eStar",
+        "onboard_time": 1680429688,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 269166,
+        "num": 269166,
+        "word": "白敬亭小号点赞",
+        "onboard_time": 1680414148,
+        "rank": 15,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 243153,
+        "num": 243153,
+        "word": "长月烬明",
+        "onboard_time": 1680405328,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 241415,
+        "num": 241415,
+        "word": "刘少昂入籍首金",
+        "onboard_time": 1680423749,
+        "rank": 17,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 237825,
+        "num": 237825,
+        "word": "近四百万粉丝UP主回应B站停更潮",
+        "onboard_time": 1680407369,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 229868,
+        "num": 229868,
+        "word": "孙海洋不认同检方5年刑期建议",
+        "onboard_time": 1680411209,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1440707,
+        "num": 228840,
+        "word": "22岁女生在泰国遭绑架虐杀",
+        "onboard_time": 1680422129,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1166440,
+        "num": 223625,
+        "word": "张继科方准备起诉",
+        "onboard_time": 1680411988,
+        "rank": 21,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 396791,
+        "num": 220703,
+        "word": "这不只是娱乐事件还涉及法律问题",
+        "onboard_time": 1680417569,
+        "rank": 22,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 250493,
+        "num": 219386,
+        "word": "爱情而已表演式婚姻太窒息",
+        "onboard_time": 1680428547,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 216714,
+        "num": 216714,
+        "word": "不做饭的人冰箱都放什么",
+        "onboard_time": 1680429090,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 211525,
+        "num": 211525,
+        "word": "武大靖给陈德全颁奖",
+        "onboard_time": 1680429929,
+        "rank": 25,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 207100,
+        "num": 207100,
+        "word": "狂飙高启盛现场观战短道冠军赛",
+        "onboard_time": 1680426269,
+        "rank": 26,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 203926,
+        "num": 203926,
+        "word": "陈睿曾称哔哩哔哩像社区物业",
+        "onboard_time": 1680431189,
+        "rank": 27,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 197549,
+        "num": 197549,
+        "word": "Hero全员高光",
+        "onboard_time": 1680430406,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 197486,
+        "num": 197486,
+        "word": "代号鸢孙策",
+        "onboard_time": 1680430227,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 197316,
+        "num": 197316,
+        "word": "男子贪吃春笋后呕血又昏厥",
+        "onboard_time": 1680418165,
+        "rank": 30,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 191530,
+        "num": 191530,
+        "word": "爱情而已另类姐狗剧",
+        "onboard_time": 1680431006,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 185443,
+        "num": 185443,
+        "word": "不要反复回味不愉快的事",
+        "onboard_time": 1680426150,
+        "rank": 32,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 181470,
+        "num": 181470,
+        "word": "邓为生图",
+        "onboard_time": 1680426990,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 179829,
+        "num": 179829,
+        "word": "杨紫ins开通新账号",
+        "onboard_time": 1680419426,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177407,
+        "num": 177407,
+        "word": "星星的孩子",
+        "onboard_time": 1680429150,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165494,
+        "num": 165494,
+        "word": "王冰冰古装随拍",
+        "onboard_time": 1680428967,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163354,
+        "num": 163354,
+        "word": "唐嫣植入闹乌龙",
+        "onboard_time": 1680423508,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153253,
+        "num": 153253,
+        "word": "Rookie3000杀",
+        "onboard_time": 1680430648,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 152261,
+        "num": 152261,
+        "word": "Jennie一人分饰两角",
+        "onboard_time": 1680431486,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150623,
+        "num": 150623,
+        "word": "柳智敏中短发造型",
+        "onboard_time": 1680425309,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 148240,
+        "num": 148240,
+        "word": "陆柯燃三月vlog",
+        "onboard_time": 1680430108,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148236,
+        "num": 148236,
+        "word": "张碧晨出席东方风云榜三十周年发布会",
+        "onboard_time": 1680430406,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 146646,
+        "num": 146646,
+        "word": "KT战胜HLE",
+        "onboard_time": 1680430047,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 143764,
+        "num": 143764,
+        "word": "李微敖 张继科",
+        "onboard_time": 1680326491,
+        "rank": 44,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 139604,
+        "num": 139604,
+        "word": "盘点张继科商业版图",
+        "onboard_time": 1680403287,
+        "rank": 45,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 139450,
+        "num": 139450,
+        "word": "丁禹兮录大自然的声音",
+        "onboard_time": 1680430348,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135099,
+        "num": 135099,
+        "word": "95后养猪两年半存款20万",
+        "onboard_time": 1680414989,
+        "rank": 47,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 134023,
+        "num": 134023,
+        "word": "任嘉伦说武庚纪还有一个月杀青",
+        "onboard_time": 1680430047,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 131888,
+        "num": 131888,
+        "word": "放学后等家长最安全的地方",
+        "onboard_time": 1680431126,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#8487人获颁戍守边疆纪念章#"
+    }
+  }
+}

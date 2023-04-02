@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1680430601554,
+  "endTime": 1680431604978,
   "band_list": [
     {
       "raw_hot": 12970403,
@@ -1539,8 +1539,8 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 951232,
-      "num": 951232,
+      "raw_hot": 953500,
+      "num": 953500,
       "word": "Viper",
       "onboard_time": 1680428668,
       "rank": 1,
@@ -1849,6 +1849,14 @@
       "onboard_time": 1680264147,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 857413,
+      "num": 857413,
+      "word": "有点担心秋瓷炫的初舞台了",
+      "onboard_time": 1680427647,
+      "rank": 27,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 848497,
@@ -2305,14 +2313,6 @@
       "onboard_time": 1680422670,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 721889,
-      "num": 721889,
-      "word": "有点担心秋瓷炫的初舞台了",
-      "onboard_time": 1680427647,
-      "rank": 27,
-      "category": "艺人,幽默"
     },
     {
       "raw_hot": 720045,
@@ -4531,6 +4531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 435977,
+      "num": 435977,
+      "word": "为什么越来越多的人涌向猪厂",
+      "onboard_time": 1680428127,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
       "raw_hot": 434001,
       "num": 434001,
       "word": "刘三木",
@@ -4761,6 +4769,14 @@
       "onboard_time": 1680070706,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 415234,
+      "num": 415234,
+      "word": "张嘉元误伤周柯宇",
+      "onboard_time": 1680429510,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 414925,
@@ -5515,6 +5531,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 353715,
+      "num": 353715,
+      "word": "辽宁山火",
+      "onboard_time": 1680427228,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 353202,
       "num": 231962,
       "word": "杨颖数字高定",
@@ -5739,6 +5763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 341658,
+      "num": 341658,
+      "word": "白鹿找镜头",
+      "onboard_time": 1680428848,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 340965,
       "num": 340965,
       "word": "林高远比赛",
@@ -5777,14 +5809,6 @@
       "onboard_time": 1680267867,
       "rank": 21,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 337934,
-      "num": 337934,
-      "word": "白鹿找镜头",
-      "onboard_time": 1680428848,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 336824,
@@ -6027,14 +6051,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 322845,
-      "num": 322845,
-      "word": "为什么越来越多的人涌向猪厂",
-      "onboard_time": 1680428127,
-      "rank": 8,
-      "category": "情感"
-    },
-    {
       "raw_hot": 322790,
       "num": 322790,
       "word": "这个摊没有小狗得散",
@@ -6196,7 +6212,7 @@
     },
     {
       "raw_hot": 312648,
-      "num": 322832,
+      "num": 324103,
       "word": "2000多名学生徒步54公里祭英烈",
       "onboard_time": 1680425668,
       "rank": 33,
@@ -6273,14 +6289,6 @@
       "onboard_time": 1679972066,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 306392,
-      "num": 306392,
-      "word": "辽宁山火",
-      "onboard_time": 1680427228,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 305780,
@@ -6417,14 +6425,6 @@
       "onboard_time": 1680352288,
       "rank": 30,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 300227,
-      "num": 300227,
-      "word": "张嘉元误伤周柯宇",
-      "onboard_time": 1680429510,
-      "rank": 17,
-      "category": "音乐"
     },
     {
       "raw_hot": 299629,
@@ -8859,6 +8859,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 211525,
+      "num": 211525,
+      "word": "武大靖给陈德全颁奖",
+      "onboard_time": 1680429929,
+      "rank": 36,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 211359,
       "num": 211359,
       "word": "暖阳知道自己裤子穿反了",
@@ -9337,6 +9345,14 @@
       "onboard_time": 1680408389,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 203926,
+      "num": 203926,
+      "word": "陈睿曾称哔哩哔哩像社区物业",
+      "onboard_time": 1680431189,
+      "rank": 27,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 203743,
@@ -10315,14 +10331,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 192088,
-      "num": 192088,
-      "word": "武大靖给陈德全颁奖",
-      "onboard_time": 1680429929,
-      "rank": 36,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 192053,
       "num": 192053,
       "word": "王濛官宣加盟漂亮的战斗",
@@ -10377,6 +10385,14 @@
       "onboard_time": 1679842169,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 191530,
+      "num": 191530,
+      "word": "爱情而已另类姐狗剧",
+      "onboard_time": 1680431006,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 191326,
@@ -12419,6 +12435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 153253,
+      "num": 153253,
+      "word": "Rookie3000杀",
+      "onboard_time": 1680430648,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 153068,
       "num": 153068,
       "word": "女爱豆对镜反自拍",
@@ -12473,6 +12497,14 @@
       "onboard_time": 1679999788,
       "rank": 38,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 152261,
+      "num": 152261,
+      "word": "Jennie一人分饰两角",
+      "onboard_time": 1680431486,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 151723,
@@ -12883,6 +12915,14 @@
       "category": "幽默,教育"
     },
     {
+      "raw_hot": 143385,
+      "num": 896183,
+      "word": "春天的花花美到挪不开眼",
+      "onboard_time": 1680424352,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143117,
       "num": 143117,
       "word": "IVE回归先行曲达成CAK",
@@ -13137,14 +13177,6 @@
       "onboard_time": 1680336752,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 139046,
-      "num": 731947,
-      "word": "春天的花花美到挪不开眼",
-      "onboard_time": 1680424352,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 138455,
@@ -13513,6 +13545,14 @@
       "onboard_time": 1679914108,
       "rank": 41,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 131888,
+      "num": 131888,
+      "word": "放学后等家长最安全的地方",
+      "onboard_time": 1680431126,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 131820,
