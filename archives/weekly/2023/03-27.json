@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1680413596695,
+  "endTime": 1680416431036,
   "band_list": [
     {
       "raw_hot": 12970403,
@@ -688,6 +688,22 @@
       "word": "村民不认可孙国友被称为治沙英雄",
       "onboard_time": 1680186150,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1487073,
+      "num": 312753,
+      "word": "白敬亭小号点赞",
+      "onboard_time": 1680414148,
+      "rank": 10,
+      "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 1480085,
+      "num": 312506,
+      "word": "男生给富婆塞纸条被其丈夫找上门",
+      "onboard_time": 1680413789,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -2283,6 +2299,14 @@
       "category": "作品衍生,体育"
     },
     {
+      "raw_hot": 709344,
+      "num": 709344,
+      "word": "事业单位",
+      "onboard_time": 1680412229,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 707190,
       "num": 491242,
       "word": "迪丽热巴落肩鱼尾长裙",
@@ -3720,14 +3744,6 @@
       "word": "保姆推搡8旬老人还让其吃排泄物",
       "onboard_time": 1680316347,
       "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 503549,
-      "num": 503549,
-      "word": "事业单位",
-      "onboard_time": 1680412229,
-      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -5947,6 +5963,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 315573,
+      "num": 315573,
+      "word": "湖北事业单位",
+      "onboard_time": 1680414387,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 315339,
       "num": 315339,
       "word": "威少36分10助攻",
@@ -7075,6 +7099,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 265649,
+      "num": 241957,
+      "word": "95后养猪两年半存款20万",
+      "onboard_time": 1680414989,
+      "rank": 21,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 265641,
       "num": 265641,
       "word": "村BA奖品太接地气了",
@@ -7225,6 +7257,14 @@
       "onboard_time": 1680067349,
       "rank": 27,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 257052,
+      "num": 257052,
+      "word": "长月烬明见面会路透",
+      "onboard_time": 1680414207,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 257036,
@@ -7625,6 +7665,14 @@
       "onboard_time": 1679882308,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 240507,
+      "num": 240507,
+      "word": "狼队王者荣耀",
+      "onboard_time": 1680413488,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 240322,
@@ -8625,6 +8673,14 @@
       "onboard_time": 1680218059,
       "rank": 16,
       "category": "情感"
+    },
+    {
+      "raw_hot": 208792,
+      "num": 208792,
+      "word": "由趣",
+      "onboard_time": 1680413910,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 208419,
@@ -9809,6 +9865,14 @@
       "onboard_time": 1680329429,
       "rank": 27,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 193099,
+      "num": 193099,
+      "word": "因为近视重新爱上前男友",
+      "onboard_time": 1680415825,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 193012,
@@ -12067,6 +12131,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 148611,
+      "num": 148611,
+      "word": "虞书欣的抓娃娃vlog",
+      "onboard_time": 1680415467,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 148527,
       "num": 148527,
       "word": "没有它劈不开的竹子",
@@ -12217,14 +12289,6 @@
       "onboard_time": 1679931930,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 145217,
-      "num": 145217,
-      "word": "狼队王者荣耀",
-      "onboard_time": 1680413488,
-      "rank": 34,
-      "category": "游戏"
     },
     {
       "raw_hot": 145199,
@@ -12680,6 +12744,14 @@
       "word": "漂亮的战斗",
       "onboard_time": 1680001109,
       "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 136267,
+      "num": 136267,
+      "word": "李斯丹妮想要高启强的出场方式",
+      "onboard_time": 1680415467,
+      "rank": 33,
       "category": "综艺"
     },
     {
@@ -13579,6 +13651,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 118204,
+      "num": 118204,
+      "word": "河南专升本",
+      "onboard_time": 1680414148,
+      "rank": 39,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 118053,
       "num": 118053,
       "word": "连淮伟帮李俊濠介绍工作",
@@ -14203,6 +14283,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 102188,
+      "num": 102188,
+      "word": "国门卫士获表彰却只能背影示人",
+      "onboard_time": 1680415287,
+      "rank": 43,
+      "category": "社会新闻,军事"
+    },
+    {
       "raw_hot": 101350,
       "num": 116282,
       "word": "画手用镜子作画与古迹完美重合",
@@ -14409,6 +14497,22 @@
       "onboard_time": 1679895335,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 95231,
+      "num": 95231,
+      "word": "孙千李沁双人大片",
+      "onboard_time": 1680416246,
+      "rank": 44,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 95149,
+      "num": 95149,
+      "word": "游戏战歌",
+      "onboard_time": 1680416068,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 94947,

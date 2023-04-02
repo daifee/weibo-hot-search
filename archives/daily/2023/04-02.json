@@ -1,6 +1,6 @@
 {
   "startTime": 1680366074129,
-  "endTime": 1680413596695,
+  "endTime": 1680416431036,
   "band_list": [
     {
       "raw_hot": 4265606,
@@ -57,6 +57,22 @@
       "onboard_time": 1680332610,
       "rank": 10,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1487073,
+      "num": 312753,
+      "word": "白敬亭小号点赞",
+      "onboard_time": 1680414148,
+      "rank": 10,
+      "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 1480085,
+      "num": 312506,
+      "word": "男生给富婆塞纸条被其丈夫找上门",
+      "onboard_time": 1680413789,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1437150,
@@ -171,6 +187,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 709344,
+      "num": 709344,
+      "word": "事业单位",
+      "onboard_time": 1680412229,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 660013,
       "num": 660013,
       "word": "中国专家检查丫丫食物和水源",
@@ -217,14 +241,6 @@
       "onboard_time": 1680396986,
       "rank": 7,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 503549,
-      "num": 503549,
-      "word": "事业单位",
-      "onboard_time": 1680412229,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 483107,
@@ -339,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 315573,
+      "num": 315573,
+      "word": "湖北事业单位",
+      "onboard_time": 1680414387,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 315169,
       "num": 315169,
       "word": "还没答辩的有福了",
@@ -427,12 +451,28 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 265649,
+      "num": 241957,
+      "word": "95后养猪两年半存款20万",
+      "onboard_time": 1680414989,
+      "rank": 21,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 262475,
       "num": 262475,
       "word": "高铁乘客突发疾病幸好遇到医生天团",
       "onboard_time": 1680391098,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 257052,
+      "num": 257052,
+      "word": "长月烬明见面会路透",
+      "onboard_time": 1680414207,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 256854,
@@ -449,6 +489,14 @@
       "onboard_time": 1680396447,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 240507,
+      "num": 240507,
+      "word": "狼队王者荣耀",
+      "onboard_time": 1680413488,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 236735,
@@ -521,6 +569,14 @@
       "onboard_time": 1680361170,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 208792,
+      "num": 208792,
+      "word": "由趣",
+      "onboard_time": 1680413910,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 206751,
@@ -611,6 +667,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 193099,
+      "num": 193099,
+      "word": "因为近视重新爱上前男友",
+      "onboard_time": 1680415825,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 191319,
       "num": 191319,
       "word": "张继科方将对侵权用户提起诉讼",
@@ -625,6 +689,14 @@
       "onboard_time": 1680332552,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 190112,
+      "num": 190112,
+      "word": "最食人间烟火色",
+      "onboard_time": 1680415527,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 189132,
@@ -851,6 +923,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 148611,
+      "num": 148611,
+      "word": "虞书欣的抓娃娃vlog",
+      "onboard_time": 1680415467,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 147345,
       "num": 150229,
       "word": "舞社2主理人阵容官宣",
@@ -865,14 +945,6 @@
       "onboard_time": 1680404546,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 145217,
-      "num": 145217,
-      "word": "狼队王者荣耀",
-      "onboard_time": 1680413488,
-      "rank": 34,
-      "category": "游戏"
     },
     {
       "raw_hot": 143117,
@@ -929,6 +1001,14 @@
       "onboard_time": 1680361891,
       "rank": 39,
       "category": "科技"
+    },
+    {
+      "raw_hot": 136267,
+      "num": 136267,
+      "word": "李斯丹妮想要高启强的出场方式",
+      "onboard_time": 1680415467,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 135385,
@@ -1027,6 +1107,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 118204,
+      "num": 118204,
+      "word": "河南专升本",
+      "onboard_time": 1680414148,
+      "rank": 39,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 117706,
       "num": 117706,
       "word": "杨幂说一不小心回到小时候",
@@ -1099,6 +1187,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 102188,
+      "num": 102188,
+      "word": "国门卫士获表彰却只能背影示人",
+      "onboard_time": 1680415287,
+      "rank": 43,
+      "category": "社会新闻,军事"
+    },
+    {
       "raw_hot": 100562,
       "num": 91229,
       "word": "张大大直播分享与杨幂合照",
@@ -1113,6 +1209,22 @@
       "onboard_time": 1680364890,
       "rank": 49,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 95231,
+      "num": 95231,
+      "word": "孙千李沁双人大片",
+      "onboard_time": 1680416246,
+      "rank": 44,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 95149,
+      "num": 95149,
+      "word": "游戏战歌",
+      "onboard_time": 1680416068,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 93953,
