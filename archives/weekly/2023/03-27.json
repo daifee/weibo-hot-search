@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1680428005786,
+  "endTime": 1680430601554,
   "band_list": [
     {
       "raw_hot": 12970403,
@@ -1171,6 +1171,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1151356,
+      "num": 1151356,
+      "word": "陈晓缺了两颗牙",
+      "onboard_time": 1680424649,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1147023,
       "num": 1147023,
       "word": "市领导回应林场主跪地求供水",
@@ -1531,6 +1539,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 951232,
+      "num": 951232,
+      "word": "Viper",
+      "onboard_time": 1680428668,
+      "rank": 1,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 942427,
       "num": 942427,
       "word": "iPhone折旧率仅为安卓一半",
@@ -1624,14 +1640,6 @@
       "word": "电视剧薄冰定档",
       "onboard_time": 1680226645,
       "rank": 3,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 909631,
-      "num": 909631,
-      "word": "陈晓缺了两颗牙",
-      "onboard_time": 1680424649,
-      "rank": 1,
       "category": "影视"
     },
     {
@@ -2297,6 +2305,14 @@
       "onboard_time": 1680422670,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 721889,
+      "num": 721889,
+      "word": "有点担心秋瓷炫的初舞台了",
+      "onboard_time": 1680427647,
+      "rank": 27,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 720045,
@@ -3443,6 +3459,14 @@
       "category": "军事,国外要闻"
     },
     {
+      "raw_hot": 542150,
+      "num": 542150,
+      "word": "上海杜莎易烊千玺双蜡像",
+      "onboard_time": 1680425909,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 542027,
       "num": 542027,
       "word": "吴磊周雨彤扫楼",
@@ -3921,14 +3945,6 @@
       "onboard_time": 1680140065,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 483232,
-      "num": 483232,
-      "word": "上海杜莎易烊千玺双蜡像",
-      "onboard_time": 1680425909,
-      "rank": 9,
-      "category": "艺人"
     },
     {
       "raw_hot": 482743,
@@ -4947,6 +4963,14 @@
       "category": "作品衍生,幽默"
     },
     {
+      "raw_hot": 398253,
+      "num": 398253,
+      "word": "Hero战胜eStar",
+      "onboard_time": 1680429688,
+      "rank": 5,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 398208,
       "num": 398208,
       "word": "空心菜 ong菜",
@@ -5755,6 +5779,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 337934,
+      "num": 337934,
+      "word": "白鹿找镜头",
+      "onboard_time": 1680428848,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 336824,
       "num": 336824,
       "word": "时代少年团海口演唱会义工招募",
@@ -5995,6 +6027,22 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 322845,
+      "num": 322845,
+      "word": "为什么越来越多的人涌向猪厂",
+      "onboard_time": 1680428127,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 322790,
+      "num": 322790,
+      "word": "这个摊没有小狗得散",
+      "onboard_time": 1680427290,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 322587,
       "num": 238388,
       "word": "于正说张云龙孙怡长在他审美上",
@@ -6147,6 +6195,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 312648,
+      "num": 322832,
+      "word": "2000多名学生徒步54公里祭英烈",
+      "onboard_time": 1680425668,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 311989,
       "num": 311989,
       "word": "张艺兴公司新增体育竞赛组织业务",
@@ -6217,6 +6273,14 @@
       "onboard_time": 1679972066,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 306392,
+      "num": 306392,
+      "word": "辽宁山火",
+      "onboard_time": 1680427228,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 305780,
@@ -6353,6 +6417,14 @@
       "onboard_time": 1680352288,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 300227,
+      "num": 300227,
+      "word": "张嘉元误伤周柯宇",
+      "onboard_time": 1680429510,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 299629,
@@ -7083,6 +7155,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 270587,
+      "num": 244799,
+      "word": "爱情而已表演式婚姻太窒息",
+      "onboard_time": 1680428547,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 270215,
       "num": 241957,
       "word": "95后养猪两年半存款20万",
@@ -7313,14 +7393,6 @@
       "onboard_time": 1680086847,
       "rank": 24,
       "category": "美食"
-    },
-    {
-      "raw_hot": 261437,
-      "num": 261437,
-      "word": "2000多名学生徒步54公里祭英烈",
-      "onboard_time": 1680425668,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 261401,
@@ -7867,6 +7939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 240661,
+      "num": 240661,
+      "word": "Hero对战eStar",
+      "onboard_time": 1680420027,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 240507,
       "num": 240507,
       "word": "狼队王者荣耀",
@@ -8259,6 +8339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 225696,
+      "num": 225696,
+      "word": "不做饭的人冰箱都放什么",
+      "onboard_time": 1680429090,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 224623,
       "num": 224623,
       "word": "宋雨琦宫廷风造型",
@@ -8643,6 +8731,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 215154,
+      "num": 215154,
+      "word": "代号鸢孙策",
+      "onboard_time": 1680430227,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 214913,
       "num": 214913,
       "word": "外交部回应日本男子在京被捕",
@@ -8947,6 +9043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 207861,
+      "num": 207861,
+      "word": "任嘉伦说武庚纪还有一个月杀青",
+      "onboard_time": 1680430047,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 207598,
       "num": 207598,
       "word": "未来巴中145分钟飙拢成都",
@@ -9035,6 +9139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 206622,
+      "num": 206622,
+      "word": "Hero全员高光",
+      "onboard_time": 1680430406,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 206564,
       "num": 206564,
       "word": "邯郸二中",
@@ -9081,6 +9193,14 @@
       "onboard_time": 1680074672,
       "rank": 33,
       "category": "美食"
+    },
+    {
+      "raw_hot": 205885,
+      "num": 205885,
+      "word": "陆柯燃三月vlog",
+      "onboard_time": 1680430108,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 205800,
@@ -9329,6 +9449,14 @@
       "onboard_time": 1680410729,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 202491,
+      "num": 202491,
+      "word": "KT战胜HLE",
+      "onboard_time": 1680430047,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 202459,
@@ -9875,14 +10003,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 196377,
-      "num": 196377,
-      "word": "有点担心秋瓷炫的初舞台了",
-      "onboard_time": 1680427647,
-      "rank": 27,
-      "category": "艺人,幽默"
-    },
-    {
       "raw_hot": 196264,
       "num": 196264,
       "word": "德班世乒赛选拔赛",
@@ -10193,6 +10313,14 @@
       "onboard_time": 1680102088,
       "rank": 29,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 192088,
+      "num": 192088,
+      "word": "武大靖给陈德全颁奖",
+      "onboard_time": 1680429929,
+      "rank": 36,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 192053,
@@ -10587,14 +10715,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 186783,
-      "num": 186783,
-      "word": "Hero对战eStar",
-      "onboard_time": 1680420027,
-      "rank": 19,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 186559,
       "num": 186559,
       "word": "2022全国十大考古新发现揭晓",
@@ -10785,6 +10905,14 @@
       "onboard_time": 1680155967,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 183009,
+      "num": 183009,
+      "word": "星星的孩子",
+      "onboard_time": 1680429150,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 182856,
@@ -11187,6 +11315,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 175492,
+      "num": 175492,
+      "word": "王冰冰古装随拍",
+      "onboard_time": 1680428967,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 175274,
       "num": 175274,
       "word": "令人心动的人叫小张",
@@ -11369,14 +11505,6 @@
       "onboard_time": 1680404244,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 171218,
-      "num": 171218,
-      "word": "这个摊没有小狗得散",
-      "onboard_time": 1680427290,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 171092,
@@ -12155,6 +12283,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 156013,
+      "num": 156013,
+      "word": "张碧晨出席东方风云榜三十周年发布会",
+      "onboard_time": 1680430406,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 155834,
       "num": 155834,
       "word": "酷云收视率",
@@ -12531,6 +12667,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 148290,
+      "num": 148290,
+      "word": "OMG对战TES",
+      "onboard_time": 1680429150,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 148153,
       "num": 148153,
       "word": "你用过哪些白色手机",
@@ -12787,6 +12931,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 142259,
+      "num": 142259,
+      "word": "丁禹兮录大自然的声音",
+      "onboard_time": 1680430348,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141998,
       "num": 141998,
       "word": "品质盛典第二波官宣阵容",
@@ -12988,7 +13140,7 @@
     },
     {
       "raw_hot": 139046,
-      "num": 576847,
+      "num": 731947,
       "word": "春天的花花美到挪不开眼",
       "onboard_time": 1680424352,
       "rank": 2,
@@ -13153,6 +13305,14 @@
       "onboard_time": 1680361891,
       "rank": 46,
       "category": "科技"
+    },
+    {
+      "raw_hot": 136577,
+      "num": 136577,
+      "word": "爱情而已里的爱情观",
+      "onboard_time": 1680429510,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 136481,
@@ -13321,14 +13481,6 @@
       "onboard_time": 1679915971,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 132635,
-      "num": 132635,
-      "word": "辽宁山火",
-      "onboard_time": 1680427228,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 132271,
@@ -15966,6 +16118,9 @@
     },
     {
       "word": "#这次全党主题教育总书记提出明确要求#"
+    },
+    {
+      "word": "#8487人获颁戍守边疆纪念章#"
     }
   ]
 }

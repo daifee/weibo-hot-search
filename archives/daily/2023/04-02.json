@@ -1,6 +1,6 @@
 {
   "startTime": 1680366074129,
-  "endTime": 1680428005786,
+  "endTime": 1680430601554,
   "band_list": [
     {
       "raw_hot": 4265606,
@@ -123,6 +123,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1151356,
+      "num": 1151356,
+      "word": "陈晓缺了两颗牙",
+      "onboard_time": 1680424649,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1055081,
       "num": 482812,
       "word": "朴宝剑胖了",
@@ -155,20 +163,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 951232,
+      "num": 951232,
+      "word": "Viper",
+      "onboard_time": 1680428668,
+      "rank": 1,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 925437,
       "num": 925437,
       "word": "刘少林破全国纪录",
       "onboard_time": 1680418767,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 909631,
-      "num": 909631,
-      "word": "陈晓缺了两颗牙",
-      "onboard_time": 1680424649,
-      "rank": 1,
-      "category": "影视"
     },
     {
       "raw_hot": 886135,
@@ -235,6 +243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 721889,
+      "num": 721889,
+      "word": "有点担心秋瓷炫的初舞台了",
+      "onboard_time": 1680427647,
+      "rank": 27,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 715530,
       "num": 715530,
       "word": "上海的垃圾桶在哪里",
@@ -291,6 +307,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 542150,
+      "num": 542150,
+      "word": "上海杜莎易烊千玺双蜡像",
+      "onboard_time": 1680425909,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 540082,
       "num": 540082,
       "word": "王栎鑫陆虎去了张杰演唱会",
@@ -305,14 +329,6 @@
       "onboard_time": 1680396986,
       "rank": 7,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 483232,
-      "num": 483232,
-      "word": "上海杜莎易烊千玺双蜡像",
-      "onboard_time": 1680425909,
-      "rank": 9,
-      "category": "艺人"
     },
     {
       "raw_hot": 483107,
@@ -385,6 +401,14 @@
       "onboard_time": 1680405149,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 398253,
+      "num": 398253,
+      "word": "Hero战胜eStar",
+      "onboard_time": 1680429688,
+      "rank": 5,
+      "category": "游戏"
     },
     {
       "raw_hot": 398208,
@@ -475,12 +499,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 337934,
+      "num": 337934,
+      "word": "白鹿找镜头",
+      "onboard_time": 1680428848,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 324672,
       "num": 324672,
       "word": "鹿晗五哈3广州路透",
       "onboard_time": 1680419367,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 322845,
+      "num": 322845,
+      "word": "为什么越来越多的人涌向猪厂",
+      "onboard_time": 1680428127,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 322790,
+      "num": 322790,
+      "word": "这个摊没有小狗得散",
+      "onboard_time": 1680427290,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 315573,
@@ -497,6 +545,22 @@
       "onboard_time": 1680366206,
       "rank": 7,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 312648,
+      "num": 322832,
+      "word": "2000多名学生徒步54公里祭英烈",
+      "onboard_time": 1680425668,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 306392,
+      "num": 306392,
+      "word": "辽宁山火",
+      "onboard_time": 1680427228,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 306356,
@@ -521,6 +585,14 @@
       "onboard_time": 1680346531,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 300227,
+      "num": 300227,
+      "word": "张嘉元误伤周柯宇",
+      "onboard_time": 1680429510,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 296503,
@@ -579,6 +651,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 270587,
+      "num": 244799,
+      "word": "爱情而已表演式婚姻太窒息",
+      "onboard_time": 1680428547,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 270215,
       "num": 241957,
       "word": "95后养猪两年半存款20万",
@@ -608,14 +688,6 @@
       "word": "高铁乘客突发疾病幸好遇到医生天团",
       "onboard_time": 1680391098,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 261437,
-      "num": 261437,
-      "word": "2000多名学生徒步54公里祭英烈",
-      "onboard_time": 1680425668,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -691,6 +763,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 240661,
+      "num": 240661,
+      "word": "Hero对战eStar",
+      "onboard_time": 1680420027,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 240507,
       "num": 240507,
       "word": "狼队王者荣耀",
@@ -747,6 +827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 225696,
+      "num": 225696,
+      "word": "不做饭的人冰箱都放什么",
+      "onboard_time": 1680429090,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 222730,
       "num": 222730,
       "word": "山东一采煤塌陷地养出大珍珠",
@@ -777,6 +865,14 @@
       "onboard_time": 1680358890,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 215154,
+      "num": 215154,
+      "word": "代号鸢孙策",
+      "onboard_time": 1680430227,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 213622,
@@ -811,6 +907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 207861,
+      "num": 207861,
+      "word": "任嘉伦说武庚纪还有一个月杀青",
+      "onboard_time": 1680430047,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 206751,
       "num": 206751,
       "word": "春天真是美好 然而没有钱",
@@ -819,12 +923,28 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 206622,
+      "num": 206622,
+      "word": "Hero全员高光",
+      "onboard_time": 1680430406,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 206065,
       "num": 206065,
       "word": "四个人抬不动薛之谦",
       "onboard_time": 1680423150,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 205885,
+      "num": 205885,
+      "word": "陆柯燃三月vlog",
+      "onboard_time": 1680430108,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 205288,
@@ -857,6 +977,14 @@
       "onboard_time": 1680410729,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 202491,
+      "num": 202491,
+      "word": "KT战胜HLE",
+      "onboard_time": 1680430047,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 202459,
@@ -923,14 +1051,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 196377,
-      "num": 196377,
-      "word": "有点担心秋瓷炫的初舞台了",
-      "onboard_time": 1680427647,
-      "rank": 27,
-      "category": "艺人,幽默"
-    },
-    {
       "raw_hot": 196139,
       "num": 196139,
       "word": "RNG提前进入夏季赛",
@@ -961,6 +1081,14 @@
       "onboard_time": 1680401488,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 192088,
+      "num": 192088,
+      "word": "武大靖给陈德全颁奖",
+      "onboard_time": 1680429929,
+      "rank": 36,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 191319,
@@ -1019,14 +1147,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 186783,
-      "num": 186783,
-      "word": "Hero对战eStar",
-      "onboard_time": 1680420027,
-      "rank": 19,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 186738,
       "num": 186738,
       "word": "父母抹酒精退烧致4岁女儿住进ICU",
@@ -1041,6 +1161,14 @@
       "onboard_time": 1680422850,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 183009,
+      "num": 183009,
+      "word": "星星的孩子",
+      "onboard_time": 1680429150,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 182856,
@@ -1075,6 +1203,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 175492,
+      "num": 175492,
+      "word": "王冰冰古装随拍",
+      "onboard_time": 1680428967,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 174932,
       "num": 174932,
       "word": "阿娇怼脸生图状态",
@@ -1097,14 +1233,6 @@
       "onboard_time": 1680404244,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 171218,
-      "num": 171218,
-      "word": "这个摊没有小狗得散",
-      "onboard_time": 1680427290,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 169786,
@@ -1219,6 +1347,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 156013,
+      "num": 156013,
+      "word": "张碧晨出席东方风云榜三十周年发布会",
+      "onboard_time": 1680430406,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 155267,
       "num": 155267,
       "word": "毛不易演唱会纸飞机起飞失败",
@@ -1307,6 +1443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 148290,
+      "num": 148290,
+      "word": "OMG对战TES",
+      "onboard_time": 1680429150,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 147345,
       "num": 150229,
       "word": "舞社2主理人阵容官宣",
@@ -1345,6 +1489,14 @@
       "onboard_time": 1680407189,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 142259,
+      "num": 142259,
+      "word": "丁禹兮录大自然的声音",
+      "onboard_time": 1680430348,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 141738,
@@ -1388,7 +1540,7 @@
     },
     {
       "raw_hot": 139046,
-      "num": 576847,
+      "num": 731947,
       "word": "春天的花花美到挪不开眼",
       "onboard_time": 1680424352,
       "rank": 2,
@@ -1417,6 +1569,14 @@
       "onboard_time": 1680361891,
       "rank": 39,
       "category": "科技"
+    },
+    {
+      "raw_hot": 136577,
+      "num": 136577,
+      "word": "爱情而已里的爱情观",
+      "onboard_time": 1680429510,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 136267,
@@ -1449,14 +1609,6 @@
       "onboard_time": 1680422608,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 132635,
-      "num": 132635,
-      "word": "辽宁山火",
-      "onboard_time": 1680427228,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 132271,
@@ -1847,6 +1999,9 @@
     },
     {
       "word": "#这次全党主题教育总书记提出明确要求#"
+    },
+    {
+      "word": "#8487人获颁戍守边疆纪念章#"
     }
   ]
 }
