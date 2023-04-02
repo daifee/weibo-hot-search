@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1680412515388,
+  "endTime": 1680413596695,
   "band_list": [
     {
       "raw_hot": 12970403,
@@ -57,6 +57,14 @@
       "onboard_time": 1680316646,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 4265606,
+      "num": 4265606,
+      "word": "张继科方准备起诉",
+      "onboard_time": 1680411988,
+      "rank": 5,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 3264983,
@@ -484,7 +492,7 @@
     },
     {
       "raw_hot": 1833746,
-      "num": 487247,
+      "num": 494340,
       "word": "杨幂发了六条微博",
       "onboard_time": 1680406106,
       "rank": 12,
@@ -956,7 +964,7 @@
     },
     {
       "raw_hot": 1278579,
-      "num": 829817,
+      "num": 1130459,
       "word": "焉栩嘉光头",
       "onboard_time": 1680409409,
       "rank": 5,
@@ -1324,7 +1332,7 @@
     },
     {
       "raw_hot": 1055081,
-      "num": 448828,
+      "num": 482812,
       "word": "朴宝剑胖了",
       "onboard_time": 1680398369,
       "rank": 13,
@@ -1681,6 +1689,14 @@
       "onboard_time": 1680238348,
       "rank": 4,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 886135,
+      "num": 886135,
+      "word": "孙海洋不认同检方5年刑期建议",
+      "onboard_time": 1680411209,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 885277,
@@ -2265,14 +2281,6 @@
       "onboard_time": 1679959943,
       "rank": 34,
       "category": "作品衍生,体育"
-    },
-    {
-      "raw_hot": 711713,
-      "num": 711713,
-      "word": "张继科方准备起诉",
-      "onboard_time": 1680411988,
-      "rank": 5,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 707190,
@@ -2979,14 +2987,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 597395,
-      "num": 597395,
-      "word": "孙海洋不认同检方5年刑期建议",
-      "onboard_time": 1680411209,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 596758,
       "num": 596758,
       "word": "广东人成为全国最潮的仔",
@@ -3387,19 +3387,19 @@
       "category": "情感"
     },
     {
+      "raw_hot": 540082,
+      "num": 540082,
+      "word": "王栎鑫陆虎去了张杰演唱会",
+      "onboard_time": 1680409950,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 539970,
       "num": 462588,
       "word": "五月天武汉",
       "onboard_time": 1680229585,
       "rank": 11,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 539565,
-      "num": 539565,
-      "word": "王栎鑫陆虎去了张杰演唱会",
-      "onboard_time": 1680409950,
-      "rank": 29,
       "category": "音乐"
     },
     {
@@ -3720,6 +3720,14 @@
       "word": "保姆推搡8旬老人还让其吃排泄物",
       "onboard_time": 1680316347,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 503549,
+      "num": 503549,
+      "word": "事业单位",
+      "onboard_time": 1680412229,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -9019,6 +9027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202768,
+      "num": 202768,
+      "word": "范丞丞找张大大要豹哥签名",
+      "onboard_time": 1680410729,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202459,
       "num": 202459,
       "word": "任嘉伦活动现场人气",
@@ -10203,14 +10219,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 186631,
-      "num": 186631,
-      "word": "范丞丞找张大大要豹哥签名",
-      "onboard_time": 1680410729,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 186559,
       "num": 186559,
       "word": "2022全国十大考古新发现揭晓",
@@ -10657,6 +10665,14 @@
       "onboard_time": 1679880026,
       "rank": 39,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 177733,
+      "num": 177733,
+      "word": "F1",
+      "onboard_time": 1680413428,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 177536,
@@ -11683,6 +11699,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 156286,
+      "num": 156286,
+      "word": "洛阳街头牡丹花开正艳",
+      "onboard_time": 1680411748,
+      "rank": 41,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 156239,
       "num": 156239,
       "word": "WB战胜DRG",
@@ -11921,6 +11945,14 @@
       "onboard_time": 1680047065,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 150526,
+      "num": 150526,
+      "word": "傅菁bubbleland练习室版MV",
+      "onboard_time": 1680413368,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 150474,
@@ -12185,6 +12217,14 @@
       "onboard_time": 1679931930,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 145217,
+      "num": 145217,
+      "word": "狼队王者荣耀",
+      "onboard_time": 1680413488,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 145199,
@@ -13203,14 +13243,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 125063,
-      "num": 125063,
-      "word": "事业单位",
-      "onboard_time": 1680412229,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 125046,
       "num": 125046,
       "word": "熊猫也有咬不动的竹子",
@@ -13825,14 +13857,6 @@
       "onboard_time": 1679925031,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 110089,
-      "num": 110089,
-      "word": "洛阳街头牡丹花开正艳",
-      "onboard_time": 1680411748,
-      "rank": 41,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 109280,
@@ -14468,7 +14492,7 @@
     },
     {
       "raw_hot": 92681,
-      "num": 910850,
+      "num": 1302452,
       "word": "为孤独症的孩子点亮一盏灯",
       "onboard_time": 1680404847,
       "rank": 2,
