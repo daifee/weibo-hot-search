@@ -1,6 +1,6 @@
 {
   "startTime": 1680366074129,
-  "endTime": 1680402760417,
+  "endTime": 1680403322786,
   "band_list": [
     {
       "raw_hot": 2815449,
@@ -43,20 +43,20 @@
       "category": "社会新闻,社会正能量"
     },
     {
+      "raw_hot": 1245598,
+      "num": 1245598,
+      "word": "官方通报禁止村民栽种蔬菜瓜果",
+      "onboard_time": 1680400706,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1055081,
       "num": 360485,
       "word": "朴宝剑胖了",
       "onboard_time": 1680398369,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 974259,
-      "num": 974259,
-      "word": "官方通报禁止村民栽种蔬菜瓜果",
-      "onboard_time": 1680400706,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 965951,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 622841,
-      "num": 190710,
+      "num": 197286,
       "word": "女子逛夜市被1克0.099元整蒙圈",
       "onboard_time": 1680396386,
       "rank": 20,
@@ -139,12 +139,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 441232,
+      "num": 310744,
+      "word": "都美竹自拍",
+      "onboard_time": 1680402627,
+      "rank": 38,
+      "category": "网红"
+    },
+    {
       "raw_hot": 420708,
-      "num": 187277,
+      "num": 197124,
       "word": "女子吃螺蛳粉把狗熏吐被爸爸没收",
       "onboard_time": 1680397167,
       "rank": 22,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 398208,
+      "num": 398208,
+      "word": "空心菜 ong菜",
+      "onboard_time": 1680396146,
+      "rank": 30,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 379944,
@@ -161,14 +177,6 @@
       "onboard_time": 1680394527,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 377852,
-      "num": 377852,
-      "word": "空心菜 ong菜",
-      "onboard_time": 1680396146,
-      "rank": 30,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 370206,
@@ -203,7 +211,7 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 326718,
+      "raw_hot": 345281,
       "num": 326718,
       "word": "秋瓷炫吃播视频",
       "onboard_time": 1680399149,
@@ -260,7 +268,7 @@
     },
     {
       "raw_hot": 268372,
-      "num": 181972,
+      "num": 194678,
       "word": "专家建议房产税按家庭套数征收",
       "onboard_time": 1680398008,
       "rank": 31,
@@ -273,6 +281,22 @@
       "onboard_time": 1680391098,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 255373,
+      "num": 255373,
+      "word": "篮球架被13级风吹倒又自己站起来",
+      "onboard_time": 1680401728,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 253735,
+      "num": 253735,
+      "word": "郭柯宇 爱情而已",
+      "onboard_time": 1680396447,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 236735,
@@ -323,14 +347,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 215609,
-      "num": 215609,
-      "word": "郭柯宇 爱情而已",
-      "onboard_time": 1680396447,
-      "rank": 18,
-      "category": "影视"
-    },
-    {
       "raw_hot": 213622,
       "num": 213622,
       "word": "张杰广州演唱会",
@@ -345,6 +361,14 @@
       "onboard_time": 1680361170,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 208448,
+      "num": 208448,
+      "word": "谭松韵叫秦岚大狗子",
+      "onboard_time": 1680402568,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 206751,
@@ -419,14 +443,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 169474,
-      "num": 169474,
-      "word": "篮球架被13级风吹倒又自己站起来",
-      "onboard_time": 1680401728,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 168426,
       "num": 168426,
       "word": "这居然是个香皂",
@@ -489,6 +505,14 @@
       "onboard_time": 1680345990,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 153600,
+      "num": 153600,
+      "word": "点名到王伟全场学生齐答三声到",
+      "onboard_time": 1680401606,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 153463,
@@ -579,14 +603,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 131497,
-      "num": 131497,
-      "word": "点名到王伟全场学生齐答三声到",
-      "onboard_time": 1680401606,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 131041,
       "num": 131041,
       "word": "深海",
@@ -619,14 +635,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 120744,
-      "num": 120744,
-      "word": "都美竹自拍",
-      "onboard_time": 1680402627,
-      "rank": 38,
-      "category": "网红"
-    },
-    {
       "raw_hot": 118414,
       "num": 118414,
       "word": "张杰把听带到了演唱会现场",
@@ -641,14 +649,6 @@
       "onboard_time": 1680341551,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 117525,
-      "num": 117525,
-      "word": "谭松韵叫秦岚大狗子",
-      "onboard_time": 1680402568,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 113536,
@@ -705,6 +705,22 @@
       "onboard_time": 1680364890,
       "rank": 49,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 93953,
+      "num": 93953,
+      "word": "INTO1演唱会再唱我们一起闯",
+      "onboard_time": 1680403048,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 92935,
+      "num": 92935,
+      "word": "盘点张继科商业版图",
+      "onboard_time": 1680403287,
+      "rank": 47,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 86947,

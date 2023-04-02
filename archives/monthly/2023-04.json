@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680402760417,
+  "endTime": 1680403322786,
   "band_list": [
     {
       "raw_hot": 10740151,
@@ -115,6 +115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1245598,
+      "num": 1245598,
+      "word": "官方通报禁止村民栽种蔬菜瓜果",
+      "onboard_time": 1680400706,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1239189,
       "num": 1239189,
       "word": "小伙偷女友近4万供女友消费",
@@ -169,14 +177,6 @@
       "onboard_time": 1680353609,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 974259,
-      "num": 974259,
-      "word": "官方通报禁止村民栽种蔬菜瓜果",
-      "onboard_time": 1680400706,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 965951,
@@ -364,7 +364,7 @@
     },
     {
       "raw_hot": 622841,
-      "num": 190710,
+      "num": 197286,
       "word": "女子逛夜市被1克0.099元整蒙圈",
       "onboard_time": 1680396386,
       "rank": 20,
@@ -675,6 +675,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 441232,
+      "num": 310744,
+      "word": "都美竹自拍",
+      "onboard_time": 1680402627,
+      "rank": 38,
+      "category": "网红"
+    },
+    {
       "raw_hot": 430788,
       "num": 430788,
       "word": "孙龙男子1500米夺冠",
@@ -692,7 +700,7 @@
     },
     {
       "raw_hot": 420708,
-      "num": 187277,
+      "num": 197124,
       "word": "女子吃螺蛳粉把狗熏吐被爸爸没收",
       "onboard_time": 1680397167,
       "rank": 22,
@@ -729,6 +737,14 @@
       "onboard_time": 1680260906,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 398208,
+      "num": 398208,
+      "word": "空心菜 ong菜",
+      "onboard_time": 1680396146,
+      "rank": 30,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 392752,
@@ -769,14 +785,6 @@
       "onboard_time": 1680394527,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 377852,
-      "num": 377852,
-      "word": "空心菜 ong菜",
-      "onboard_time": 1680396146,
-      "rank": 30,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 371415,
@@ -859,6 +867,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 345281,
+      "num": 326718,
+      "word": "秋瓷炫吃播视频",
+      "onboard_time": 1680399149,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 343023,
       "num": 343023,
       "word": "你好星期六今晚好友组队局",
@@ -929,14 +945,6 @@
       "onboard_time": 1680303797,
       "rank": 31,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 326718,
-      "num": 326718,
-      "word": "秋瓷炫吃播视频",
-      "onboard_time": 1680399149,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 322251,
@@ -1132,7 +1140,7 @@
     },
     {
       "raw_hot": 268372,
-      "num": 181972,
+      "num": 194678,
       "word": "专家建议房产税按家庭套数征收",
       "onboard_time": 1680398008,
       "rank": 31,
@@ -1153,6 +1161,22 @@
       "onboard_time": 1680273810,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 255373,
+      "num": 255373,
+      "word": "篮球架被13级风吹倒又自己站起来",
+      "onboard_time": 1680401728,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 253735,
+      "num": 253735,
+      "word": "郭柯宇 爱情而已",
+      "onboard_time": 1680396447,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 253090,
@@ -1363,14 +1387,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 215609,
-      "num": 215609,
-      "word": "郭柯宇 爱情而已",
-      "onboard_time": 1680396447,
-      "rank": 18,
-      "category": "影视"
-    },
-    {
       "raw_hot": 215583,
       "num": 215583,
       "word": "四月",
@@ -1424,6 +1440,14 @@
       "word": "罗云熙宋轶新剧已在横店置景",
       "onboard_time": 1680344372,
       "rank": 29,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 208448,
+      "num": 208448,
+      "word": "谭松韵叫秦岚大狗子",
+      "onboard_time": 1680402568,
+      "rank": 40,
       "category": "影视"
     },
     {
@@ -1923,14 +1947,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 169474,
-      "num": 169474,
-      "word": "篮球架被13级风吹倒又自己站起来",
-      "onboard_time": 1680401728,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 169418,
       "num": 169418,
       "word": "容祖儿澳门演唱会首场",
@@ -2153,6 +2169,14 @@
       "onboard_time": 1680268168,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 153600,
+      "num": 153600,
+      "word": "点名到王伟全场学生齐答三声到",
+      "onboard_time": 1680401606,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 153575,
@@ -2419,14 +2443,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 131497,
-      "num": 131497,
-      "word": "点名到王伟全场学生齐答三声到",
-      "onboard_time": 1680401606,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 130995,
       "num": 130995,
       "word": "蔡徐坤黑夹克日内瓦随拍",
@@ -2563,14 +2579,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 120744,
-      "num": 120744,
-      "word": "都美竹自拍",
-      "onboard_time": 1680402627,
-      "rank": 38,
-      "category": "网红"
-    },
-    {
       "raw_hot": 120388,
       "num": 120388,
       "word": "三线轮洄水下戏好刺激",
@@ -2617,14 +2625,6 @@
       "onboard_time": 1680393803,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 117525,
-      "num": 117525,
-      "word": "谭松韵叫秦岚大狗子",
-      "onboard_time": 1680402568,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 117461,
@@ -2907,6 +2907,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 93953,
+      "num": 93953,
+      "word": "INTO1演唱会再唱我们一起闯",
+      "onboard_time": 1680403048,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 93711,
       "num": 93711,
       "word": "童年花式回忆杀",
@@ -2921,6 +2929,14 @@
       "onboard_time": 1680319828,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 92935,
+      "num": 92935,
+      "word": "盘点张继科商业版图",
+      "onboard_time": 1680403287,
+      "rank": 47,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 92885,
