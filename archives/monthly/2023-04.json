@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680400066600,
+  "endTime": 1680402760417,
   "band_list": [
     {
       "raw_hot": 10740151,
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 1055081,
-      "num": 268673,
+      "num": 360485,
       "word": "朴宝剑胖了",
       "onboard_time": 1680398369,
       "rank": 13,
@@ -169,6 +169,14 @@
       "onboard_time": 1680353609,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 974259,
+      "num": 974259,
+      "word": "官方通报禁止村民栽种蔬菜瓜果",
+      "onboard_time": 1680400706,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 965951,
@@ -683,6 +691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 420708,
+      "num": 187277,
+      "word": "女子吃螺蛳粉把狗熏吐被爸爸没收",
+      "onboard_time": 1680397167,
+      "rank": 22,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 419670,
       "num": 365236,
       "word": "张大大希望内娱百花齐放",
@@ -713,14 +729,6 @@
       "onboard_time": 1680260906,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 396309,
-      "num": 187277,
-      "word": "女子吃螺蛳粉把狗熏吐被爸爸没收",
-      "onboard_time": 1680397167,
-      "rank": 22,
-      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 392752,
@@ -763,6 +771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 377852,
+      "num": 377852,
+      "word": "空心菜 ong菜",
+      "onboard_time": 1680396146,
+      "rank": 30,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 371415,
       "num": 345171,
       "word": "张国荣此间永远是少年",
@@ -801,14 +817,6 @@
       "onboard_time": 1680330988,
       "rank": 17,
       "category": "美食"
-    },
-    {
-      "raw_hot": 363610,
-      "num": 208739,
-      "word": "空心菜 ong菜",
-      "onboard_time": 1680396146,
-      "rank": 30,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 356727,
@@ -921,6 +929,14 @@
       "onboard_time": 1680303797,
       "rank": 31,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 326718,
+      "num": 326718,
+      "word": "秋瓷炫吃播视频",
+      "onboard_time": 1680399149,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 322251,
@@ -1347,20 +1363,20 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 215609,
+      "num": 215609,
+      "word": "郭柯宇 爱情而已",
+      "onboard_time": 1680396447,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 215583,
       "num": 215583,
       "word": "四月",
       "onboard_time": 1680305119,
       "rank": 5,
       "category": "情感"
-    },
-    {
-      "raw_hot": 215424,
-      "num": 215424,
-      "word": "郭柯宇 爱情而已",
-      "onboard_time": 1680396447,
-      "rank": 18,
-      "category": "影视"
     },
     {
       "raw_hot": 215228,
@@ -1425,6 +1441,14 @@
       "onboard_time": 1680264147,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 206751,
+      "num": 206751,
+      "word": "春天真是美好 然而没有钱",
+      "onboard_time": 1680397046,
+      "rank": 26,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 205594,
@@ -1683,6 +1707,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 193704,
+      "num": 193704,
+      "word": "张杰演唱会",
+      "onboard_time": 1680401488,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 193113,
       "num": 193113,
       "word": "侯明昊骑士大片",
@@ -1697,14 +1729,6 @@
       "onboard_time": 1680322711,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 190829,
-      "num": 190829,
-      "word": "秋瓷炫吃播视频",
-      "onboard_time": 1680399149,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 190664,
@@ -1883,14 +1907,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 171792,
-      "num": 171792,
-      "word": "春天真是美好 然而没有钱",
-      "onboard_time": 1680397046,
-      "rank": 26,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 170111,
       "num": 170111,
       "word": "哪些食材烹饪前必须焯水",
@@ -1905,6 +1921,14 @@
       "onboard_time": 1680361532,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 169474,
+      "num": 169474,
+      "word": "篮球架被13级风吹倒又自己站起来",
+      "onboard_time": 1680401728,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 169418,
@@ -2147,6 +2171,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 152828,
+      "num": 152828,
+      "word": "朴彩英为金智秀新歌打歌",
+      "onboard_time": 1680397349,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 152724,
+      "num": 152724,
+      "word": "SEVENTEEN出道初VS后期的颜值变化",
+      "onboard_time": 1680391639,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 152280,
       "num": 152280,
       "word": "张艺兴公司新增体育竞赛组织业务",
@@ -2177,6 +2217,22 @@
       "onboard_time": 1680317668,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 148866,
+      "num": 148866,
+      "word": "神隐剧组聚餐",
+      "onboard_time": 1680399507,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 147345,
+      "num": 150229,
+      "word": "舞社2主理人阵容官宣",
+      "onboard_time": 1680401367,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 146037,
@@ -2217,22 +2273,6 @@
       "onboard_time": 1680316469,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 141793,
-      "num": 141793,
-      "word": "SEVENTEEN出道初VS后期的颜值变化",
-      "onboard_time": 1680391639,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 141792,
-      "num": 141792,
-      "word": "神隐剧组聚餐",
-      "onboard_time": 1680399507,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 141397,
@@ -2379,6 +2419,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 131497,
+      "num": 131497,
+      "word": "点名到王伟全场学生齐答三声到",
+      "onboard_time": 1680401606,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130995,
       "num": 130995,
       "word": "蔡徐坤黑夹克日内瓦随拍",
@@ -2417,14 +2465,6 @@
       "onboard_time": 1680319350,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 129193,
-      "num": 129193,
-      "word": "朴彩英为金智秀新歌打歌",
-      "onboard_time": 1680397349,
-      "rank": 36,
-      "category": "音乐"
     },
     {
       "raw_hot": 129159,
@@ -2523,6 +2563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 120744,
+      "num": 120744,
+      "word": "都美竹自拍",
+      "onboard_time": 1680402627,
+      "rank": 38,
+      "category": "网红"
+    },
+    {
       "raw_hot": 120388,
       "num": 120388,
       "word": "三线轮洄水下戏好刺激",
@@ -2569,6 +2617,14 @@
       "onboard_time": 1680393803,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 117525,
+      "num": 117525,
+      "word": "谭松韵叫秦岚大狗子",
+      "onboard_time": 1680402568,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 117461,

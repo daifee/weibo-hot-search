@@ -1,6 +1,6 @@
 {
   "startTime": 1680366074129,
-  "endTime": 1680400066600,
+  "endTime": 1680402760417,
   "band_list": [
     {
       "raw_hot": 2815449,
@@ -44,11 +44,19 @@
     },
     {
       "raw_hot": 1055081,
-      "num": 268673,
+      "num": 360485,
       "word": "朴宝剑胖了",
       "onboard_time": 1680398369,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 974259,
+      "num": 974259,
+      "word": "官方通报禁止村民栽种蔬菜瓜果",
+      "onboard_time": 1680400706,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 965951,
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 764152,
-      "num": 304774,
+      "num": 357222,
       "word": "司藤",
       "onboard_time": 1680353668,
       "rank": 11,
@@ -131,7 +139,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 396309,
+      "raw_hot": 420708,
       "num": 187277,
       "word": "女子吃螺蛳粉把狗熏吐被爸爸没收",
       "onboard_time": 1680397167,
@@ -155,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 377852,
+      "num": 377852,
+      "word": "空心菜 ong菜",
+      "onboard_time": 1680396146,
+      "rank": 30,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 370206,
       "num": 370206,
       "word": "张国荣母校利兹大学长椅上摆满鲜花",
@@ -171,14 +187,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 363610,
-      "num": 208739,
-      "word": "空心菜 ong菜",
-      "onboard_time": 1680396146,
-      "rank": 30,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 351822,
       "num": 291132,
       "word": "肖战vlog致敬电影罗马假日",
@@ -193,6 +201,14 @@
       "onboard_time": 1680359431,
       "rank": 8,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 326718,
+      "num": 326718,
+      "word": "秋瓷炫吃播视频",
+      "onboard_time": 1680399149,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 315169,
@@ -307,8 +323,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 215424,
-      "num": 215424,
+      "raw_hot": 215609,
+      "num": 215609,
       "word": "郭柯宇 爱情而已",
       "onboard_time": 1680396447,
       "rank": 18,
@@ -329,6 +345,14 @@
       "onboard_time": 1680361170,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 206751,
+      "num": 206751,
+      "word": "春天真是美好 然而没有钱",
+      "onboard_time": 1680397046,
+      "rank": 26,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 205288,
@@ -355,20 +379,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 193704,
+      "num": 193704,
+      "word": "张杰演唱会",
+      "onboard_time": 1680401488,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 191319,
       "num": 191319,
       "word": "张继科方将对侵权用户提起诉讼",
       "onboard_time": 1680260966,
       "rank": 28,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 190829,
-      "num": 190829,
-      "word": "秋瓷炫吃播视频",
-      "onboard_time": 1680399149,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 190445,
@@ -395,12 +419,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 171792,
-      "num": 171792,
-      "word": "春天真是美好 然而没有钱",
-      "onboard_time": 1680397046,
-      "rank": 26,
-      "category": "幽默,情感"
+      "raw_hot": 169474,
+      "num": 169474,
+      "word": "篮球架被13级风吹倒又自己站起来",
+      "onboard_time": 1680401728,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 168426,
@@ -475,20 +499,36 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 141793,
-      "num": 141793,
+      "raw_hot": 152828,
+      "num": 152828,
+      "word": "朴彩英为金智秀新歌打歌",
+      "onboard_time": 1680397349,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 152724,
+      "num": 152724,
       "word": "SEVENTEEN出道初VS后期的颜值变化",
       "onboard_time": 1680391639,
       "rank": 19,
       "category": "艺人"
     },
     {
-      "raw_hot": 141792,
-      "num": 141792,
+      "raw_hot": 148866,
+      "num": 148866,
       "word": "神隐剧组聚餐",
       "onboard_time": 1680399507,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 147345,
+      "num": 150229,
+      "word": "舞社2主理人阵容官宣",
+      "onboard_time": 1680401367,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 141044,
@@ -539,20 +579,20 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 131497,
+      "num": 131497,
+      "word": "点名到王伟全场学生齐答三声到",
+      "onboard_time": 1680401606,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131041,
       "num": 131041,
       "word": "深海",
       "onboard_time": 1680361532,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 129193,
-      "num": 129193,
-      "word": "朴彩英为金智秀新歌打歌",
-      "onboard_time": 1680397349,
-      "rank": 36,
-      "category": "音乐"
     },
     {
       "raw_hot": 128885,
@@ -579,6 +619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 120744,
+      "num": 120744,
+      "word": "都美竹自拍",
+      "onboard_time": 1680402627,
+      "rank": 38,
+      "category": "网红"
+    },
+    {
       "raw_hot": 118414,
       "num": 118414,
       "word": "张杰把听带到了演唱会现场",
@@ -593,6 +641,14 @@
       "onboard_time": 1680341551,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 117525,
+      "num": 117525,
+      "word": "谭松韵叫秦岚大狗子",
+      "onboard_time": 1680402568,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 113536,
