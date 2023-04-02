@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680449608564,
+  "endTime": 1680452464197,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -243,6 +243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1192024,
+      "num": 976342,
+      "word": "张继科联合创立的茶饮品牌已成老赖",
+      "onboard_time": 1680448179,
+      "rank": 32,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1177319,
       "num": 1177319,
       "word": "近四百万粉丝UP主回应B站停更潮",
@@ -321,14 +329,6 @@
       "onboard_time": 1680353609,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 976342,
-      "num": 976342,
-      "word": "张继科联合创立的茶饮品牌已成老赖",
-      "onboard_time": 1680448179,
-      "rank": 32,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 965951,
@@ -499,6 +499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 749696,
+      "num": 749696,
+      "word": "重庆群众挺身而出制服行凶男子",
+      "onboard_time": 1680450753,
+      "rank": 3,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 731250,
       "num": 370145,
       "word": "汪峰女儿小苹果17岁近照",
@@ -553,6 +561,14 @@
       "onboard_time": 1680444166,
       "rank": 30,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 700869,
+      "num": 700869,
+      "word": "重庆警方通报男子持刀行凶",
+      "onboard_time": 1680450753,
+      "rank": 4,
+      "category": "社会负面"
     },
     {
       "raw_hot": 698141,
@@ -1267,6 +1283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 390344,
+      "num": 390344,
+      "word": "SEVENTEEN歌单",
+      "onboard_time": 1680449499,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 387306,
       "num": 387306,
       "word": "众星悼念坂本龙一",
@@ -1361,6 +1385,14 @@
       "onboard_time": 1680332251,
       "rank": 18,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 354262,
+      "num": 354262,
+      "word": "秋瓷炫跳的gee",
+      "onboard_time": 1680450336,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 353715,
@@ -2619,6 +2651,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 201686,
+      "num": 201686,
+      "word": "昆明的绿化带",
+      "onboard_time": 1680451052,
+      "rank": 19,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 201474,
       "num": 201474,
       "word": "张新成说期待再次相见",
@@ -2801,6 +2841,14 @@
       "onboard_time": 1680354510,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 197002,
+      "num": 186002,
+      "word": "吃麻辣烫最省钱的操作",
+      "onboard_time": 1680449558,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 196905,
@@ -3075,14 +3123,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 184448,
-      "num": 184448,
-      "word": "SEVENTEEN歌单",
-      "onboard_time": 1680449499,
-      "rank": 37,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 183834,
       "num": 183834,
       "word": "放学后等家长最安全的地方",
@@ -3161,6 +3201,14 @@
       "onboard_time": 1680348451,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 180159,
+      "num": 180159,
+      "word": "王一博白色小香风造型花絮",
+      "onboard_time": 1680451114,
+      "rank": 30,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 178650,
@@ -3747,6 +3795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 147254,
+      "num": 147254,
+      "word": "第一次见有发型的鸭子",
+      "onboard_time": 1680449318,
+      "rank": 45,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 147026,
       "num": 147026,
       "word": "五月天energy放手",
@@ -3939,12 +3995,12 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 137124,
-      "num": 137124,
-      "word": "第一次见有发型的鸭子",
-      "onboard_time": 1680449318,
-      "rank": 45,
-      "category": "幽默,情感"
+      "raw_hot": 137549,
+      "num": 137549,
+      "word": "把垃圾桶拍成买不起的感觉",
+      "onboard_time": 1680450273,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 137028,
@@ -4259,14 +4315,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 122489,
-      "num": 122489,
-      "word": "吃麻辣烫最省钱的操作",
-      "onboard_time": 1680449558,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 122439,
       "num": 122439,
       "word": "内蒙古多地精简部分编外人员",
@@ -4409,6 +4457,14 @@
       "onboard_time": 1680411630,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 117010,
+      "num": 117010,
+      "word": "纽卡斯尔联vs曼联",
+      "onboard_time": 1680449975,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 116027,
@@ -4633,6 +4689,14 @@
       "onboard_time": 1680415287,
       "rank": 43,
       "category": "社会新闻,军事"
+    },
+    {
+      "raw_hot": 102014,
+      "num": 102014,
+      "word": "秦岚张峻宁吻戏",
+      "onboard_time": 1680452071,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 101350,
