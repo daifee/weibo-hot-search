@@ -1,0 +1,410 @@
+{
+  "runTime": 1680459556215,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 459965,
+        "num": 459965,
+        "word": "真实地活下去 不要忘记每天看月亮",
+        "onboard_time": 1680441936,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 260139,
+        "num": 260139,
+        "word": "坂本龙一去世",
+        "onboard_time": 1680438989,
+        "rank": 1,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 23366,
+        "num": 228854,
+        "word": "英雄之光",
+        "onboard_time": 1680447168,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211932,
+        "num": 211932,
+        "word": "重庆警方通报男子持刀行凶",
+        "onboard_time": 1680450753,
+        "rank": 3,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 110751,
+        "num": 110751,
+        "word": "把垃圾桶拍成买不起的感觉",
+        "onboard_time": 1680450273,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 99991,
+        "num": 99991,
+        "word": "坂本龙一微博告别",
+        "onboard_time": 1680444166,
+        "rank": 5,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 79044,
+        "num": 79044,
+        "word": "秋瓷炫跳的gee",
+        "onboard_time": 1680450336,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77298,
+        "num": 77298,
+        "word": "粉丝真的给种地吧拉来了赞助",
+        "onboard_time": 1680443800,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73530,
+        "num": 73530,
+        "word": "张杰演唱会",
+        "onboard_time": 1680435568,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 69949,
+        "num": 69949,
+        "word": "Rookie",
+        "onboard_time": 1680445663,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 71111,
+        "num": 69864,
+        "word": "王岳伦陪王诗龄理发",
+        "onboard_time": 1680435806,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69750,
+        "num": 69750,
+        "word": "学校回应2000学生徒步54公里祭英烈",
+        "onboard_time": 1680438148,
+        "rank": 11,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 64259,
+        "num": 64259,
+        "word": "昆明的绿化带",
+        "onboard_time": 1680451052,
+        "rank": 12,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 59981,
+        "num": 59981,
+        "word": "这一段路马英九走了73年",
+        "onboard_time": 1680436828,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58437,
+        "num": 58437,
+        "word": "白桃星座",
+        "onboard_time": 1680446323,
+        "rank": 14,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 57231,
+        "num": 57231,
+        "word": "SEVENTEEN歌单",
+        "onboard_time": 1680449499,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 55246,
+        "num": 55246,
+        "word": "马嘉祺只有51公斤",
+        "onboard_time": 1680434426,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49329,
+        "num": 49329,
+        "word": "本泽马7分钟帽子戏法",
+        "onboard_time": 1680449915,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 48895,
+        "num": 48895,
+        "word": "纽卡斯尔联vs曼联",
+        "onboard_time": 1680449975,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 48700,
+        "num": 48700,
+        "word": "忠犬八公",
+        "onboard_time": 1680445120,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1309330,
+        "num": 48699,
+        "word": "张继科借条",
+        "onboard_time": 1680442296,
+        "rank": 20,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 714136,
+        "num": 48563,
+        "word": "景甜",
+        "onboard_time": 1680444521,
+        "rank": 21,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 435905,
+        "num": 48476,
+        "word": "张继科方准备起诉",
+        "onboard_time": 1680411988,
+        "rank": 22,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 420032,
+        "num": 48313,
+        "word": "张继科联合创立的茶饮品牌已成老赖",
+        "onboard_time": 1680448179,
+        "rank": 23,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 151415,
+        "num": 48255,
+        "word": "张继科回应因欠债传播女演员隐私视频",
+        "onboard_time": 1680332610,
+        "rank": 24,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 101619,
+        "num": 48170,
+        "word": "李微敖 张继科",
+        "onboard_time": 1680326491,
+        "rank": 25,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 98162,
+        "num": 48025,
+        "word": "这不只是娱乐事件还涉及法律问题",
+        "onboard_time": 1680417569,
+        "rank": 26,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 88281,
+        "num": 47994,
+        "word": "夫妻结婚6年因3岁儿子转学想离婚",
+        "onboard_time": 1680438688,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87459,
+        "num": 47886,
+        "word": "小区1天内20只流浪猫集体死亡",
+        "onboard_time": 1680448003,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70931,
+        "num": 47818,
+        "word": "大学生你别太离谱",
+        "onboard_time": 1680451769,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 57386,
+        "num": 47686,
+        "word": "treasure成员演唱会被烧伤",
+        "onboard_time": 1680448179,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51195,
+        "num": 47530,
+        "word": "吃麻辣烫最省钱的操作",
+        "onboard_time": 1680449558,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 49345,
+        "num": 47517,
+        "word": "王一博白色小香风造型花絮",
+        "onboard_time": 1680451114,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 47433,
+        "num": 47433,
+        "word": "4AM夺冠",
+        "onboard_time": 1680447042,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 46714,
+        "num": 46714,
+        "word": "OMG战胜TES",
+        "onboard_time": 1680442535,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 41583,
+        "num": 41583,
+        "word": "赵丽颖又瘦了",
+        "onboard_time": 1680433288,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38165,
+        "num": 38165,
+        "word": "坂本龙一与癌症抗争9年",
+        "onboard_time": 1680443922,
+        "rank": 36,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 37604,
+        "num": 37604,
+        "word": "岳云鹏第一次相亲没相上",
+        "onboard_time": 1680457097,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35974,
+        "num": 35974,
+        "word": "武汉暴雨",
+        "onboard_time": 1680445424,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33033,
+        "num": 33033,
+        "word": "第一次见有发型的鸭子",
+        "onboard_time": 1680449318,
+        "rank": 39,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 31859,
+        "num": 31859,
+        "word": "铃芽之旅连续10天票房日冠",
+        "onboard_time": 1680447766,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 31752,
+        "num": 31752,
+        "word": "太古里偶遇吉克隽逸",
+        "onboard_time": 1680443981,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31299,
+        "num": 31299,
+        "word": "五月天energy放手",
+        "onboard_time": 1680448787,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 30739,
+        "num": 30739,
+        "word": "忠犬八公豆瓣评分涨至8.2",
+        "onboard_time": 1680445545,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 30007,
+        "num": 30007,
+        "word": "Jennie一人分饰两角",
+        "onboard_time": 1680431486,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29645,
+        "num": 29645,
+        "word": "李健音乐节",
+        "onboard_time": 1680441754,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 28965,
+        "num": 28965,
+        "word": "白鹿说长月烬明是绝世大甜剧",
+        "onboard_time": 1680437187,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 28564,
+        "num": 28564,
+        "word": "秦岚张峻宁吻戏",
+        "onboard_time": 1680452071,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 27133,
+        "num": 27133,
+        "word": "INTO1告别演唱会泰国场",
+        "onboard_time": 1680346350,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 26259,
+        "num": 27131,
+        "word": "为什么越来越多的人涌向猪厂",
+        "onboard_time": 1680428127,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#天龙二号遥一运载火箭成功发射#"
+    }
+  }
+}
