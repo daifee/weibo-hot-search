@@ -1,6 +1,6 @@
 {
   "startTime": 1680452464197,
-  "endTime": 1680452464197,
+  "endTime": 1680453394341,
   "band_list": [
     {
       "raw_hot": 8591138,
@@ -51,8 +51,8 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 749696,
-      "num": 749696,
+      "raw_hot": 777495,
+      "num": 777495,
       "word": "重庆群众挺身而出制服行凶男子",
       "onboard_time": 1680450753,
       "rank": 3,
@@ -107,8 +107,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 354262,
-      "num": 354262,
+      "raw_hot": 383911,
+      "num": 383911,
       "word": "秋瓷炫跳的gee",
       "onboard_time": 1680450336,
       "rank": 9,
@@ -171,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 219003,
+      "num": 219003,
+      "word": "昆明的绿化带",
+      "onboard_time": 1680451052,
+      "rank": 19,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 218283,
       "num": 218283,
       "word": "Rookie",
@@ -203,14 +211,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 201686,
-      "num": 201686,
-      "word": "昆明的绿化带",
-      "onboard_time": 1680451052,
-      "rank": 19,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 197002,
       "num": 186002,
       "word": "吃麻辣烫最省钱的操作",
@@ -227,20 +227,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 196614,
+      "num": 180159,
+      "word": "王一博白色小香风造型花絮",
+      "onboard_time": 1680451114,
+      "rank": 30,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 183263,
       "num": 183263,
       "word": "学校回应2000学生徒步54公里祭英烈",
       "onboard_time": 1680438148,
       "rank": 29,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 180159,
-      "num": 180159,
-      "word": "王一博白色小香风造型花絮",
-      "onboard_time": 1680451114,
-      "rank": 30,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 174433,
@@ -291,6 +291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 147491,
+      "num": 147491,
+      "word": "把垃圾桶拍成买不起的感觉",
+      "onboard_time": 1680450273,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 147254,
       "num": 147254,
       "word": "第一次见有发型的鸭子",
@@ -305,14 +313,6 @@
       "onboard_time": 1680447042,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 137549,
-      "num": 137549,
-      "word": "把垃圾桶拍成买不起的感觉",
-      "onboard_time": 1680450273,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 131219,
@@ -345,6 +345,14 @@
       "onboard_time": 1680428127,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 122769,
+      "num": 122769,
+      "word": "大学生你别太离谱",
+      "onboard_time": 1680451769,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 117010,
@@ -406,6 +414,9 @@
   "hotgov_list": [
     {
       "word": "#8487人获颁戍守边疆纪念章#"
+    },
+    {
+      "word": "#致敬国门卫士#"
     }
   ]
 }
