@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1680392010863,
+  "endTime": 1680398764109,
   "band_list": [
     {
       "raw_hot": 12970403,
@@ -227,6 +227,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 2433039,
+      "num": 2433039,
+      "word": "张继科曾陷猴子的救兵加盟纠纷",
+      "onboard_time": 1680396084,
+      "rank": 0,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 2410756,
       "num": 2410756,
       "word": "千万不要侧躺玩手机",
@@ -409,6 +417,14 @@
       "onboard_time": 1679900669,
       "rank": 6,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1878004,
+      "num": 1878004,
+      "word": "金晨情绪管理",
+      "onboard_time": 1680393623,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 1874538,
@@ -1369,6 +1385,14 @@
       "onboard_time": 1680257246,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 965951,
+      "num": 965951,
+      "word": "洪欣张丹峰直播",
+      "onboard_time": 1680395245,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 964911,
@@ -3123,6 +3147,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 559074,
+      "num": 181289,
+      "word": "女子逛夜市被1克0.099元整蒙圈",
+      "onboard_time": 1680396386,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 557953,
       "num": 557953,
       "word": "网友用华为和库克合照",
@@ -4611,6 +4643,14 @@
       "category": "社会负面,教育"
     },
     {
+      "raw_hot": 400442,
+      "num": 400442,
+      "word": "3岁还不主动喊爸爸妈妈要警惕孤独症",
+      "onboard_time": 1680396986,
+      "rank": 7,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 400076,
       "num": 400076,
       "word": "上海平均招聘月薪跃居全国榜首",
@@ -4857,6 +4897,14 @@
       "onboard_time": 1680157467,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 378584,
+      "num": 378584,
+      "word": "双马一矿通报与孙国友协商进展",
+      "onboard_time": 1680394527,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 378015,
@@ -5185,6 +5233,14 @@
       "onboard_time": 1680048808,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 351822,
+      "num": 291132,
+      "word": "肖战vlog致敬电影罗马假日",
+      "onboard_time": 1680394945,
+      "rank": 12,
+      "category": "艺人,影视"
     },
     {
       "raw_hot": 351352,
@@ -5545,6 +5601,14 @@
       "onboard_time": 1679877446,
       "rank": 8,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 329130,
+      "num": 329130,
+      "word": "孙海洋称人贩子吴飞龙案将开庭",
+      "onboard_time": 1680396986,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 329115,
@@ -6008,6 +6072,14 @@
       "word": "淄博专门开通了烧烤公交专线",
       "onboard_time": 1680013587,
       "rank": 29,
+      "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 298999,
+      "num": 155081,
+      "word": "空心菜 ong菜",
+      "onboard_time": 1680396146,
+      "rank": 30,
       "category": "社会新闻,美食"
     },
     {
@@ -6739,6 +6811,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 268673,
+      "num": 268673,
+      "word": "朴宝剑胖了",
+      "onboard_time": 1680398369,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 268531,
       "num": 268531,
       "word": "千万别让这个医学生毕业",
@@ -6857,6 +6937,14 @@
       "onboard_time": 1680088949,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 262475,
+      "num": 262475,
+      "word": "高铁乘客突发疾病幸好遇到医生天团",
+      "onboard_time": 1680391098,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 262184,
@@ -7249,6 +7337,14 @@
       "onboard_time": 1680239128,
       "rank": 33,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 246647,
+      "num": 175345,
+      "word": "女子吃螺蛳粉把狗熏吐被爸爸没收",
+      "onboard_time": 1680397167,
+      "rank": 22,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 246398,
@@ -8073,6 +8169,14 @@
       "onboard_time": 1680305119,
       "rank": 5,
       "category": "情感"
+    },
+    {
+      "raw_hot": 215424,
+      "num": 215424,
+      "word": "郭柯宇 爱情而已",
+      "onboard_time": 1680396447,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 215228,
@@ -10763,6 +10867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168426,
+      "num": 168426,
+      "word": "这居然是个香皂",
+      "onboard_time": 1680392001,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 168243,
       "num": 168243,
       "word": "梁友安加班陪宋三川加练",
@@ -10793,6 +10905,14 @@
       "onboard_time": 1680249027,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 167416,
+      "num": 167416,
+      "word": "阿娇孔雪儿蒋梦婕同框",
+      "onboard_time": 1680391880,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 167379,
@@ -10913,6 +11033,14 @@
       "onboard_time": 1679977952,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 164026,
+      "num": 164026,
+      "word": "春天真是美好 然而没有钱",
+      "onboard_time": 1680397046,
+      "rank": 26,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 163712,
@@ -11089,6 +11217,14 @@
       "onboard_time": 1680096988,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 160271,
+      "num": 160271,
+      "word": "女子走独木桥男子用脚猛踹",
+      "onboard_time": 1680395425,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 160079,
@@ -11305,6 +11441,14 @@
       "onboard_time": 1679901390,
       "rank": 48,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 155267,
+      "num": 155267,
+      "word": "毛不易演唱会纸飞机起飞失败",
+      "onboard_time": 1680394043,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 155257,
@@ -11571,6 +11715,14 @@
       "category": "科技,情感"
     },
     {
+      "raw_hot": 147917,
+      "num": 147917,
+      "word": "专家建议房产税按家庭套数征收",
+      "onboard_time": 1680398008,
+      "rank": 31,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 147678,
       "num": 147678,
       "word": "魏大勋多重身份蝶影收官",
@@ -11715,6 +11867,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 143966,
+      "num": 143966,
+      "word": "清明假期免票优惠盘点",
+      "onboard_time": 1680396447,
+      "rank": 32,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 143960,
       "num": 143960,
       "word": "杨丞琳晒与姐妹们聚会合照",
@@ -11779,14 +11939,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 142069,
-      "num": 142069,
-      "word": "高铁乘客突发疾病幸好遇到医生天团",
-      "onboard_time": 1680391098,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 141998,
       "num": 141998,
       "word": "品质盛典第二波官宣阵容",
@@ -11849,6 +12001,14 @@
       "onboard_time": 1680313349,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 141044,
+      "num": 141044,
+      "word": "模范出租车",
+      "onboard_time": 1680392299,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 141022,
@@ -12185,6 +12345,14 @@
       "onboard_time": 1680224307,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 133579,
+      "num": 133579,
+      "word": "SEVENTEEN出道初VS后期的颜值变化",
+      "onboard_time": 1680391639,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 133539,
@@ -12955,6 +13123,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 119096,
+      "num": 119096,
+      "word": "朴彩英为金智秀新歌打歌",
+      "onboard_time": 1680397349,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 118378,
       "num": 118378,
       "word": "电影不躺平俱乐部开机",
@@ -13707,6 +13883,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 97219,
+      "num": 97219,
+      "word": "张杰把听带到了演唱会现场",
+      "onboard_time": 1680393803,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 97119,
       "num": 97119,
       "word": "国际爱鸟日",
@@ -13761,14 +13945,6 @@
       "onboard_time": 1679895335,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 95515,
-      "num": 95515,
-      "word": "SEVENTEEN出道初VS后期的颜值变化",
-      "onboard_time": 1680391639,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 94947,
@@ -14283,6 +14459,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 65799,
+      "num": 1226555,
+      "word": "桃花映日出迎接四月",
+      "onboard_time": 1680360451,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 65540,
       "num": 453523,
       "word": "油敏皮别再作了",
@@ -14353,14 +14537,6 @@
       "onboard_time": 1680188130,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 61567,
-      "num": 1092830,
-      "word": "桃花映日出迎接四月",
-      "onboard_time": 1680360451,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 61025,
@@ -14435,14 +14611,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 51201,
-      "num": 51201,
-      "word": "阿娇孔雪儿蒋梦婕同框",
-      "onboard_time": 1680391880,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 51126,
       "num": 51126,
       "word": "中国说唱巅峰对决",
@@ -14497,14 +14665,6 @@
       "onboard_time": 1679893238,
       "rank": 14,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 44613,
-      "num": 44613,
-      "word": "这居然是个香皂",
-      "onboard_time": 1680392001,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 44025,

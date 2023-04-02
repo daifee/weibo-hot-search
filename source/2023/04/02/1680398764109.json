@@ -1,0 +1,410 @@
+{
+  "runTime": 1680398764109,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2433039,
+        "num": 2433039,
+        "word": "张继科曾陷猴子的救兵加盟纠纷",
+        "onboard_time": 1680396084,
+        "rank": 0,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 1878004,
+        "num": 1878004,
+        "word": "金晨情绪管理",
+        "onboard_time": 1680393623,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 65799,
+        "num": 1226555,
+        "word": "桃花映日出迎接四月",
+        "onboard_time": 1680360451,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 965951,
+        "num": 965951,
+        "word": "洪欣张丹峰直播",
+        "onboard_time": 1680395245,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 675237,
+        "num": 675237,
+        "word": "泰国坠崖孕妇3年后站起来了",
+        "onboard_time": 1680362430,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 528383,
+        "num": 528383,
+        "word": "南京大学新校长到底是哪里人",
+        "onboard_time": 1680361657,
+        "rank": 5,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 502662,
+        "num": 502662,
+        "word": "麻六记因未给孕妇优待被打差评",
+        "onboard_time": 1680360811,
+        "rank": 6,
+        "category": "社会新闻,社会正能量"
+      },
+      {
+        "raw_hot": 400442,
+        "num": 400442,
+        "word": "3岁还不主动喊爸爸妈妈要警惕孤独症",
+        "onboard_time": 1680396986,
+        "rank": 7,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 378584,
+        "num": 378584,
+        "word": "双马一矿通报与孙国友协商进展",
+        "onboard_time": 1680394527,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329130,
+        "num": 329130,
+        "word": "孙海洋称人贩子吴飞龙案将开庭",
+        "onboard_time": 1680396986,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 924587,
+        "num": 311796,
+        "word": "张继科回应因欠债传播女演员隐私视频",
+        "onboard_time": 1680332610,
+        "rank": 10,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 542928,
+        "num": 297190,
+        "word": "司藤",
+        "onboard_time": 1680353668,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 351822,
+        "num": 291132,
+        "word": "肖战vlog致敬电影罗马假日",
+        "onboard_time": 1680394945,
+        "rank": 12,
+        "category": "艺人,影视"
+      },
+      {
+        "raw_hot": 268673,
+        "num": 268673,
+        "word": "朴宝剑胖了",
+        "onboard_time": 1680398369,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262475,
+        "num": 262475,
+        "word": "高铁乘客突发疾病幸好遇到医生天团",
+        "onboard_time": 1680391098,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257021,
+        "num": 257021,
+        "word": "张国荣母校利兹大学长椅上摆满鲜花",
+        "onboard_time": 1680364349,
+        "rank": 15,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 220441,
+        "num": 220441,
+        "word": "八年前愚人节的TFBOYS",
+        "onboard_time": 1680361230,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218970,
+        "num": 218970,
+        "word": "上海5平方米的loft长啥样",
+        "onboard_time": 1680361291,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215424,
+        "num": 215424,
+        "word": "郭柯宇 爱情而已",
+        "onboard_time": 1680396447,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 182834,
+        "num": 182834,
+        "word": "低欲望生活 低预算生活",
+        "onboard_time": 1680357029,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 559074,
+        "num": 181289,
+        "word": "女子逛夜市被1克0.099元整蒙圈",
+        "onboard_time": 1680396386,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254625,
+        "num": 177719,
+        "word": "李微敖 张继科",
+        "onboard_time": 1680326491,
+        "rank": 21,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 246647,
+        "num": 175345,
+        "word": "女子吃螺蛳粉把狗熏吐被爸爸没收",
+        "onboard_time": 1680397167,
+        "rank": 22,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 190544,
+        "num": 168636,
+        "word": "小学生继盘串后又流行起盘头",
+        "onboard_time": 1680362132,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168426,
+        "num": 168426,
+        "word": "这居然是个香皂",
+        "onboard_time": 1680392001,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 167416,
+        "num": 167416,
+        "word": "阿娇孔雪儿蒋梦婕同框",
+        "onboard_time": 1680391880,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164026,
+        "num": 164026,
+        "word": "春天真是美好 然而没有钱",
+        "onboard_time": 1680397046,
+        "rank": 26,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 162088,
+        "num": 162088,
+        "word": "山东一采煤塌陷地养出大珍珠",
+        "onboard_time": 1680365010,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160271,
+        "num": 160271,
+        "word": "女子走独木桥男子用脚猛踹",
+        "onboard_time": 1680395425,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155267,
+        "num": 155267,
+        "word": "毛不易演唱会纸飞机起飞失败",
+        "onboard_time": 1680394043,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 298999,
+        "num": 155081,
+        "word": "空心菜 ong菜",
+        "onboard_time": 1680396146,
+        "rank": 30,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 147917,
+        "num": 147917,
+        "word": "专家建议房产税按家庭套数征收",
+        "onboard_time": 1680398008,
+        "rank": 31,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 143966,
+        "num": 143966,
+        "word": "清明假期免票优惠盘点",
+        "onboard_time": 1680396447,
+        "rank": 32,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 142616,
+        "num": 142616,
+        "word": "张继科方将对侵权用户提起诉讼",
+        "onboard_time": 1680260966,
+        "rank": 33,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 141044,
+        "num": 141044,
+        "word": "模范出租车",
+        "onboard_time": 1680392299,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 133579,
+        "num": 133579,
+        "word": "SEVENTEEN出道初VS后期的颜值变化",
+        "onboard_time": 1680391639,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119096,
+        "num": 119096,
+        "word": "朴彩英为金智秀新歌打歌",
+        "onboard_time": 1680397349,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 113635,
+        "num": 113635,
+        "word": "上课最害怕的事还是发生了",
+        "onboard_time": 1680359912,
+        "rank": 37,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 111061,
+        "num": 111061,
+        "word": "还没答辩的有福了",
+        "onboard_time": 1680366206,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 103596,
+        "num": 103596,
+        "word": "丁程鑫看张新成抱孙千的反应",
+        "onboard_time": 1680355651,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102476,
+        "num": 102476,
+        "word": "魏无羡千杀",
+        "onboard_time": 1680356191,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 99866,
+        "num": 99866,
+        "word": "律师称传播他人私密视频或担刑责",
+        "onboard_time": 1680375134,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97855,
+        "num": 97855,
+        "word": "张继科",
+        "onboard_time": 1680308484,
+        "rank": 42,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 97219,
+        "num": 97219,
+        "word": "张杰把听带到了演唱会现场",
+        "onboard_time": 1680393803,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 92452,
+        "num": 92452,
+        "word": "宰相公子要入赘",
+        "onboard_time": 1680365010,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 90193,
+        "num": 90193,
+        "word": "凉山4.0级地震",
+        "onboard_time": 1680390619,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86298,
+        "num": 86298,
+        "word": "武汉地铁",
+        "onboard_time": 1680361350,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80160,
+        "num": 80160,
+        "word": "上海逛街偶遇白敬亭",
+        "onboard_time": 1680361170,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75881,
+        "num": 75881,
+        "word": "张大大直播分享与杨幂合照",
+        "onboard_time": 1680390978,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53480,
+        "num": 74341,
+        "word": "魔卡少女樱续作",
+        "onboard_time": 1680350069,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#雄安新区6周年#"
+    }
+  }
+}
