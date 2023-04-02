@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680435200193,
+  "endTime": 1680438645676,
   "band_list": [
     {
       "raw_hot": 10740151,
@@ -355,6 +355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 876483,
+      "num": 264398,
+      "word": "马嘉祺只有51公斤",
+      "onboard_time": 1680434426,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 848497,
       "num": 848497,
       "word": "魏无羡千杀",
@@ -400,6 +408,14 @@
       "word": "陈坤 白宇是真的好演员",
       "onboard_time": 1680331411,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 746356,
+      "num": 230155,
+      "word": "王岳伦陪王诗龄理发",
+      "onboard_time": 1680435806,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -716,7 +732,7 @@
     },
     {
       "raw_hot": 532116,
-      "num": 209349,
+      "num": 213219,
       "word": "赵丽颖又瘦了",
       "onboard_time": 1680433288,
       "rank": 23,
@@ -753,6 +769,14 @@
       "onboard_time": 1680314486,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 513995,
+      "num": 513995,
+      "word": "面包脑袋",
+      "onboard_time": 1680436347,
+      "rank": 1,
+      "category": "美食"
     },
     {
       "raw_hot": 512815,
@@ -987,14 +1011,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 417371,
-      "num": 264398,
-      "word": "马嘉祺只有51公斤",
-      "onboard_time": 1680434426,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 416482,
       "num": 346308,
       "word": "丁程鑫看张新成抱孙千的反应",
@@ -1089,6 +1105,14 @@
       "onboard_time": 1680262648,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 383081,
+      "num": 226722,
+      "word": "律师解读张继科景甜视频风波",
+      "onboard_time": 1680437067,
+      "rank": 13,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 379944,
@@ -1283,12 +1307,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 331851,
+      "num": 331851,
+      "word": "张杰演唱会",
+      "onboard_time": 1680401488,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 330763,
       "num": 330763,
       "word": "孙国友首次回应种树破坏生态质疑",
       "onboard_time": 1680307944,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 330260,
+      "num": 212768,
+      "word": "黄明昊跳了姐姐真漂亮",
+      "onboard_time": 1680436948,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 328858,
@@ -1363,6 +1403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 311788,
+      "num": 216714,
+      "word": "这一段路马英九走了73年",
+      "onboard_time": 1680436828,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 305286,
       "num": 235852,
       "word": "北京电影节嘉宾",
@@ -1401,6 +1449,14 @@
       "onboard_time": 1680277467,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 298188,
+      "num": 211601,
+      "word": "是谁偷了我的退休人生",
+      "onboard_time": 1680433527,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 294821,
@@ -1603,6 +1659,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 264740,
+      "num": 210362,
+      "word": "白鹿说长月烬明是绝世大甜剧",
+      "onboard_time": 1680437187,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 262475,
       "num": 262475,
       "word": "高铁乘客突发疾病幸好遇到医生天团",
@@ -1648,6 +1712,14 @@
       "word": "猫咪调摄像头向主人告状",
       "onboard_time": 1680321331,
       "rank": 23,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 252141,
+      "num": 209433,
+      "word": "怀疑夫子庙的猫认识字",
+      "onboard_time": 1680436588,
+      "rank": 26,
       "category": "幽默"
     },
     {
@@ -1817,6 +1889,14 @@
       "onboard_time": 1680362132,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 236224,
+      "num": 236224,
+      "word": "他是谁",
+      "onboard_time": 1680435207,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 234532,
@@ -2027,6 +2107,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 209271,
+      "num": 209271,
+      "word": "宋亚轩给鼠标穿裙子",
+      "onboard_time": 1680435868,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 208885,
       "num": 208885,
       "word": "高双星见陈秀礼妈妈",
@@ -2105,6 +2193,14 @@
       "onboard_time": 1680351689,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 205210,
+      "num": 205210,
+      "word": "陈都灵粉裙",
+      "onboard_time": 1680433888,
+      "rank": 46,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 205159,
@@ -2475,28 +2571,12 @@
       "category": "军事"
     },
     {
-      "raw_hot": 193704,
-      "num": 193704,
-      "word": "张杰演唱会",
-      "onboard_time": 1680401488,
-      "rank": 18,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 193113,
       "num": 193113,
       "word": "侯明昊骑士大片",
       "onboard_time": 1680329429,
       "rank": 27,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 192270,
-      "num": 192270,
-      "word": "是谁偷了我的退休人生",
-      "onboard_time": 1680433527,
-      "rank": 26,
-      "category": "幽默"
     },
     {
       "raw_hot": 191727,
@@ -2771,6 +2851,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 176337,
+      "num": 176337,
+      "word": "钟辰乐直播",
+      "onboard_time": 1680437307,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 175492,
       "num": 175492,
       "word": "王冰冰古装随拍",
@@ -2801,14 +2889,6 @@
       "onboard_time": 1680419248,
       "rank": 49,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 173224,
-      "num": 173224,
-      "word": "陈都灵粉裙",
-      "onboard_time": 1680433888,
-      "rank": 46,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 172005,
@@ -3099,6 +3179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 156649,
+      "num": 156649,
+      "word": "大妈咖啡店里开茶话会并择菜",
+      "onboard_time": 1680436227,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156286,
       "num": 156286,
       "word": "洛阳街头牡丹花开正艳",
@@ -3129,6 +3217,14 @@
       "onboard_time": 1680394043,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 155166,
+      "num": 155166,
+      "word": "我的耳朵被咬了",
+      "onboard_time": 1680437847,
+      "rank": 35,
+      "category": "时尚"
     },
     {
       "raw_hot": 154281,
@@ -3555,6 +3651,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 133067,
+      "num": 133067,
+      "word": "学校回应2000学生徒步54公里祭英烈",
+      "onboard_time": 1680438148,
+      "rank": 36,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 132726,
       "num": 132726,
       "word": "二十周年继续宠爱张国荣",
@@ -3787,6 +3891,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 120360,
+      "num": 120360,
+      "word": "带着手机去旅游",
+      "onboard_time": 1680435748,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 120069,
       "num": 120069,
       "word": "曼城vs利物浦",
@@ -3888,6 +4000,14 @@
       "word": "爱情而已",
       "onboard_time": 1680344011,
       "rank": 49,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 114980,
+      "num": 114980,
+      "word": "黄子韬旦角",
+      "onboard_time": 1680437968,
+      "rank": 43,
       "category": "影视"
     },
     {
@@ -4041,6 +4161,14 @@
       "onboard_time": 1680327989,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 103658,
+      "num": 103658,
+      "word": "灿烂的转身爱情线",
+      "onboard_time": 1680438329,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 103404,

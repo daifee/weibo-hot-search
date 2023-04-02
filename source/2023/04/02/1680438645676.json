@@ -1,0 +1,410 @@
+{
+  "runTime": 1680438645676,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 832501,
+        "num": 832501,
+        "word": "有点担心秋瓷炫的初舞台了",
+        "onboard_time": 1680427647,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 513995,
+        "num": 513995,
+        "word": "面包脑袋",
+        "onboard_time": 1680436347,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 119163,
+        "num": 420933,
+        "word": "春天的花花美到挪不开眼",
+        "onboard_time": 1680424352,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 405185,
+        "num": 405185,
+        "word": "为什么越来越多的人涌向猪厂",
+        "onboard_time": 1680428127,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 409612,
+        "num": 404759,
+        "word": "陈晓缺了两颗牙",
+        "onboard_time": 1680424649,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 331851,
+        "num": 331851,
+        "word": "张杰演唱会",
+        "onboard_time": 1680435568,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 293821,
+        "num": 293821,
+        "word": "上海杜莎易烊千玺双蜡像",
+        "onboard_time": 1680425909,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264341,
+        "num": 264341,
+        "word": "青蛙人偶",
+        "onboard_time": 1680431608,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 236224,
+        "num": 236224,
+        "word": "他是谁",
+        "onboard_time": 1680435207,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204451,
+        "num": 235919,
+        "word": "男子贪吃春笋后呕血又昏厥",
+        "onboard_time": 1680418165,
+        "rank": 9,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 876483,
+        "num": 232280,
+        "word": "马嘉祺只有51公斤",
+        "onboard_time": 1680434426,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 746356,
+        "num": 230155,
+        "word": "王岳伦陪王诗龄理发",
+        "onboard_time": 1680435806,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 444684,
+        "num": 228772,
+        "word": "汪峰女儿小苹果17岁近照",
+        "onboard_time": 1680422670,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 383081,
+        "num": 226722,
+        "word": "律师解读张继科景甜视频风波",
+        "onboard_time": 1680437067,
+        "rank": 13,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 127029,
+        "num": 225209,
+        "word": "李微敖 张继科",
+        "onboard_time": 1680326491,
+        "rank": 14,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 364076,
+        "num": 223785,
+        "word": "男生给富婆塞纸条被其丈夫找上门",
+        "onboard_time": 1680413789,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358905,
+        "num": 221775,
+        "word": "陈睿曾称哔哩哔哩像社区物业",
+        "onboard_time": 1680431189,
+        "rank": 16,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 323337,
+        "num": 218534,
+        "word": "Jennie一人分饰两角",
+        "onboard_time": 1680431486,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311788,
+        "num": 216714,
+        "word": "这一段路马英九走了73年",
+        "onboard_time": 1680436828,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215791,
+        "num": 215791,
+        "word": "无畏强我投降",
+        "onboard_time": 1680432329,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 815523,
+        "num": 215235,
+        "word": "张继科方准备起诉",
+        "onboard_time": 1680411988,
+        "rank": 20,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 733449,
+        "num": 214534,
+        "word": "这不只是娱乐事件还涉及法律问题",
+        "onboard_time": 1680417569,
+        "rank": 21,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 458886,
+        "num": 213219,
+        "word": "赵丽颖又瘦了",
+        "onboard_time": 1680433288,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330260,
+        "num": 212768,
+        "word": "黄明昊跳了姐姐真漂亮",
+        "onboard_time": 1680436948,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 298188,
+        "num": 211601,
+        "word": "是谁偷了我的退休人生",
+        "onboard_time": 1680433527,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 264740,
+        "num": 210362,
+        "word": "白鹿说长月烬明是绝世大甜剧",
+        "onboard_time": 1680437187,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 252141,
+        "num": 209433,
+        "word": "怀疑夫子庙的猫认识字",
+        "onboard_time": 1680436588,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 209271,
+        "num": 209271,
+        "word": "宋亚轩给鼠标穿裙子",
+        "onboard_time": 1680435868,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205210,
+        "num": 205210,
+        "word": "陈都灵粉裙",
+        "onboard_time": 1680433888,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 121298,
+        "num": 194512,
+        "word": "辽宁山火",
+        "onboard_time": 1680427228,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187821,
+        "num": 187821,
+        "word": "Viper",
+        "onboard_time": 1680428668,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 176337,
+        "num": 176337,
+        "word": "钟辰乐直播",
+        "onboard_time": 1680437307,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157482,
+        "num": 157482,
+        "word": "张嘉元误伤周柯宇",
+        "onboard_time": 1680429510,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 156649,
+        "num": 156649,
+        "word": "大妈咖啡店里开茶话会并择菜",
+        "onboard_time": 1680436227,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155205,
+        "num": 155205,
+        "word": "这个摊没有小狗得散",
+        "onboard_time": 1680427290,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 155166,
+        "num": 155166,
+        "word": "我的耳朵被咬了",
+        "onboard_time": 1680437847,
+        "rank": 35,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 133067,
+        "num": 133067,
+        "word": "学校回应2000学生徒步54公里祭英烈",
+        "onboard_time": 1680438148,
+        "rank": 36,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 127150,
+        "num": 127150,
+        "word": "B站UP主发起停更潮",
+        "onboard_time": 1680406047,
+        "rank": 37,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 120360,
+        "num": 120360,
+        "word": "带着手机去旅游",
+        "onboard_time": 1680435748,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 116705,
+        "num": 116705,
+        "word": "罗云熙收到一筐馍",
+        "onboard_time": 1680434426,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 116471,
+        "num": 116471,
+        "word": "白敬亭小号点赞",
+        "onboard_time": 1680414148,
+        "rank": 40,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 116312,
+        "num": 116312,
+        "word": "OMG对战TES",
+        "onboard_time": 1680429150,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 115742,
+        "num": 115742,
+        "word": "代号鸢孙策",
+        "onboard_time": 1680430227,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 114980,
+        "num": 114980,
+        "word": "黄子韬旦角",
+        "onboard_time": 1680437968,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 114683,
+        "num": 114683,
+        "word": "张继科回应因欠债传播女演员隐私视频",
+        "onboard_time": 1680332610,
+        "rank": 44,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 114171,
+        "num": 114171,
+        "word": "不做饭的人冰箱都放什么",
+        "onboard_time": 1680429090,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 113547,
+        "num": 113547,
+        "word": "长月烬明",
+        "onboard_time": 1680405328,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 107129,
+        "num": 107129,
+        "word": "华晨宇演唱会舞美城市科幻感",
+        "onboard_time": 1680433107,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 103658,
+        "num": 103658,
+        "word": "灿烂的转身爱情线",
+        "onboard_time": 1680438329,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 99840,
+        "num": 99840,
+        "word": "孙海洋不认同检方5年刑期建议",
+        "onboard_time": 1680411209,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#8487人获颁戍守边疆纪念章#"
+    }
+  }
+}

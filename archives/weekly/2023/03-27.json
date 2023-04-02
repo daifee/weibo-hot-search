@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1680435200193,
+  "endTime": 1680438645676,
   "band_list": [
     {
       "raw_hot": 12970403,
@@ -1827,6 +1827,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 876483,
+      "num": 264398,
+      "word": "马嘉祺只有51公斤",
+      "onboard_time": 1680434426,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 872413,
       "num": 872413,
       "word": "徐艺洋说不会为了爱情放弃事业",
@@ -2209,6 +2217,14 @@
       "onboard_time": 1680147807,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 746356,
+      "num": 230155,
+      "word": "王岳伦陪王诗龄理发",
+      "onboard_time": 1680435806,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 744213,
@@ -3556,7 +3572,7 @@
     },
     {
       "raw_hot": 532116,
-      "num": 209349,
+      "num": 213219,
       "word": "赵丽颖又瘦了",
       "onboard_time": 1680433288,
       "rank": 23,
@@ -3745,6 +3761,14 @@
       "onboard_time": 1680226164,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 513995,
+      "num": 513995,
+      "word": "面包脑袋",
+      "onboard_time": 1680436347,
+      "rank": 1,
+      "category": "美食"
     },
     {
       "raw_hot": 513524,
@@ -4755,14 +4779,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 417371,
-      "num": 264398,
-      "word": "马嘉祺只有51公斤",
-      "onboard_time": 1680434426,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 417129,
       "num": 417129,
       "word": "牙医口罩下的表情是怎样的",
@@ -5209,6 +5225,14 @@
       "onboard_time": 1680071128,
       "rank": 42,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 383081,
+      "num": 226722,
+      "word": "律师解读张继科景甜视频风波",
+      "onboard_time": 1680437067,
+      "rank": 13,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 382097,
@@ -5979,6 +6003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 331851,
+      "num": 331851,
+      "word": "张杰演唱会",
+      "onboard_time": 1680166526,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 330763,
       "num": 330763,
       "word": "孙国友首次回应种树破坏生态质疑",
@@ -6001,6 +6033,14 @@
       "onboard_time": 1679877446,
       "rank": 8,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 330260,
+      "num": 212768,
+      "word": "黄明昊跳了姐姐真漂亮",
+      "onboard_time": 1680436948,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 329115,
@@ -6275,6 +6315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 311788,
+      "num": 216714,
+      "word": "这一段路马英九走了73年",
+      "onboard_time": 1680436828,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 310730,
       "num": 293898,
       "word": "我的告白沉默了俩个寝室",
@@ -6513,6 +6561,14 @@
       "onboard_time": 1680277467,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 298188,
+      "num": 211601,
+      "word": "是谁偷了我的退休人生",
+      "onboard_time": 1680433527,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 297858,
@@ -6761,14 +6817,6 @@
       "onboard_time": 1680059607,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 285232,
-      "num": 285232,
-      "word": "张杰演唱会",
-      "onboard_time": 1680166526,
-      "rank": 22,
-      "category": "音乐"
     },
     {
       "raw_hot": 284547,
@@ -7403,6 +7451,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 264740,
+      "num": 210362,
+      "word": "白鹿说长月烬明是绝世大甜剧",
+      "onboard_time": 1680437187,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 264733,
       "num": 264733,
       "word": "Scout获常规赛MVP",
@@ -7705,6 +7761,14 @@
       "onboard_time": 1679902951,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 252141,
+      "num": 209433,
+      "word": "怀疑夫子庙的猫认识字",
+      "onboard_time": 1680436588,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 252125,
@@ -8089,6 +8153,14 @@
       "onboard_time": 1680362132,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 236224,
+      "num": 236224,
+      "word": "他是谁",
+      "onboard_time": 1679914590,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 236042,
@@ -8867,14 +8939,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 212237,
-      "num": 212237,
-      "word": "他是谁",
-      "onboard_time": 1679914590,
-      "rank": 29,
-      "category": "影视"
-    },
-    {
       "raw_hot": 212035,
       "num": 212035,
       "word": "减小肚子试试这个动作",
@@ -9025,6 +9089,14 @@
       "onboard_time": 1680227004,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 209271,
+      "num": 209271,
+      "word": "宋亚轩给鼠标穿裙子",
+      "onboard_time": 1680435868,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 209119,
@@ -9313,6 +9385,14 @@
       "onboard_time": 1680188667,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205210,
+      "num": 205210,
+      "word": "陈都灵粉裙",
+      "onboard_time": 1680433888,
+      "rank": 46,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 205159,
@@ -10379,14 +10459,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 192270,
-      "num": 192270,
-      "word": "是谁偷了我的退休人生",
-      "onboard_time": 1680433527,
-      "rank": 26,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 192124,
       "num": 192124,
       "word": "文豪野犬第5季制作决定",
@@ -11387,6 +11459,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 176337,
+      "num": 176337,
+      "word": "钟辰乐直播",
+      "onboard_time": 1680437307,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 176176,
       "num": 176176,
       "word": "长歌行播出两周年了",
@@ -11513,14 +11593,6 @@
       "onboard_time": 1679927254,
       "rank": 39,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 173224,
-      "num": 173224,
-      "word": "陈都灵粉裙",
-      "onboard_time": 1680433888,
-      "rank": 46,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 173123,
@@ -12363,6 +12435,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 156649,
+      "num": 156649,
+      "word": "大妈咖啡店里开茶话会并择菜",
+      "onboard_time": 1680436227,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156359,
       "num": 156359,
       "word": "杨紫广告拍摄路透",
@@ -12473,6 +12553,14 @@
       "onboard_time": 1680173248,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 155166,
+      "num": 155166,
+      "word": "我的耳朵被咬了",
+      "onboard_time": 1680437847,
+      "rank": 35,
+      "category": "时尚"
     },
     {
       "raw_hot": 154928,
@@ -13571,6 +13659,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 133067,
+      "num": 133067,
+      "word": "学校回应2000学生徒步54公里祭英烈",
+      "onboard_time": 1680438148,
+      "rank": 36,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 132773,
       "num": 138964,
       "word": "我想这样已经很久了",
@@ -14307,6 +14403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 120360,
+      "num": 120360,
+      "word": "带着手机去旅游",
+      "onboard_time": 1680435748,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 120146,
       "num": 120146,
       "word": "爱情而已预告",
@@ -14505,6 +14609,14 @@
       "onboard_time": 1679990728,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 114980,
+      "num": 114980,
+      "word": "黄子韬旦角",
+      "onboard_time": 1680437968,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 114959,
@@ -14984,6 +15096,14 @@
       "word": "杨天真爱情而已观后感",
       "onboard_time": 1679996307,
       "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 103658,
+      "num": 103658,
+      "word": "灿烂的转身爱情线",
+      "onboard_time": 1680438329,
+      "rank": 48,
       "category": "影视"
     },
     {
