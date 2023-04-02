@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1680448565780,
+  "endTime": 1680449608564,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -267,6 +267,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 2437384,
+      "num": 2437384,
+      "word": "观音桥",
+      "onboard_time": 1680446925,
+      "rank": 3,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 2410756,
       "num": 2410756,
       "word": "千万不要侧躺玩手机",
@@ -393,14 +401,6 @@
       "onboard_time": 1680237509,
       "rank": 3,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 2115200,
-      "num": 2115200,
-      "word": "观音桥",
-      "onboard_time": 1680446925,
-      "rank": 3,
-      "category": "社会负面"
     },
     {
       "raw_hot": 2107691,
@@ -1547,6 +1547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 976342,
+      "num": 976342,
+      "word": "张继科联合创立的茶饮品牌已成老赖",
+      "onboard_time": 1680448179,
+      "rank": 32,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 965951,
       "num": 965951,
       "word": "洪欣张丹峰直播",
@@ -1884,7 +1892,7 @@
     },
     {
       "raw_hot": 876639,
-      "num": 439459,
+      "num": 462117,
       "word": "马嘉祺只有51公斤",
       "onboard_time": 1680434426,
       "rank": 13,
@@ -2516,7 +2524,7 @@
     },
     {
       "raw_hot": 702478,
-      "num": 447739,
+      "num": 675679,
       "word": "坂本龙一微博告别",
       "onboard_time": 1680444166,
       "rank": 30,
@@ -6451,6 +6459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 314811,
+      "num": 264032,
+      "word": "treasure成员演唱会被烧伤",
+      "onboard_time": 1680448179,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 313141,
       "num": 313141,
       "word": "陈晓说李沁张嘉倪是颜值担当",
@@ -6697,6 +6713,14 @@
       "onboard_time": 1680352288,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 299942,
+      "num": 263847,
+      "word": "小区1天内20只流浪猫集体死亡",
+      "onboard_time": 1680448003,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 299629,
@@ -8611,14 +8635,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 227449,
-      "num": 227449,
-      "word": "张继科联合创立的茶饮品牌已成老赖",
-      "onboard_time": 1680448179,
-      "rank": 32,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 227355,
       "num": 227355,
       "word": "罗晋晒照怀念张国荣",
@@ -8713,14 +8729,6 @@
       "onboard_time": 1679967567,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 224275,
-      "num": 224275,
-      "word": "treasure成员演唱会被烧伤",
-      "onboard_time": 1680448179,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 223928,
@@ -9185,6 +9193,14 @@
       "onboard_time": 1679924312,
       "rank": 36,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 213053,
+      "num": 213053,
+      "word": "PAI积分第一晋级春决",
+      "onboard_time": 1680449318,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 212604,
@@ -10419,14 +10435,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 196750,
-      "num": 196750,
-      "word": "小区1天内20只流浪猫集体死亡",
-      "onboard_time": 1680448003,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 196467,
       "num": 196467,
       "word": "张国荣纪念音乐会直播点赞变玫瑰",
@@ -10923,6 +10931,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 190186,
+      "num": 190186,
+      "word": "铃芽之旅连续10天票房日冠",
+      "onboard_time": 1680447766,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 190125,
       "num": 190125,
       "word": "最后的乐章至此落幕",
@@ -11321,6 +11337,14 @@
       "onboard_time": 1680337653,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 184448,
+      "num": 184448,
+      "word": "SEVENTEEN歌单",
+      "onboard_time": 1680449499,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 184436,
@@ -11913,14 +11937,6 @@
       "onboard_time": 1680183689,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 173777,
-      "num": 173777,
-      "word": "铃芽之旅连续10天票房日冠",
-      "onboard_time": 1680447766,
-      "rank": 39,
-      "category": "影视"
     },
     {
       "raw_hot": 173399,
@@ -13275,6 +13291,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 147026,
+      "num": 147026,
+      "word": "五月天energy放手",
+      "onboard_time": 1680448787,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 146883,
       "num": 146883,
       "word": "高加林为前途抛弃巧珍",
@@ -13803,6 +13827,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 137124,
+      "num": 137124,
+      "word": "第一次见有发型的鸭子",
+      "onboard_time": 1680449318,
+      "rank": 45,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 137028,
       "num": 137028,
       "word": "贺三唱最食人间烟火色主题曲",
@@ -13921,6 +13953,14 @@
       "onboard_time": 1680342509,
       "rank": 31,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 135055,
+      "num": 135055,
+      "word": "皇马vs巴拉多利德",
+      "onboard_time": 1680448365,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 134950,
@@ -14241,14 +14281,6 @@
       "onboard_time": 1679981909,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 129175,
-      "num": 129175,
-      "word": "皇马vs巴拉多利德",
-      "onboard_time": 1680448365,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 129159,
@@ -14641,6 +14673,14 @@
       "onboard_time": 1680247465,
       "rank": 43,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 122489,
+      "num": 122489,
+      "word": "吃麻辣烫最省钱的操作",
+      "onboard_time": 1680449558,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 122439,
