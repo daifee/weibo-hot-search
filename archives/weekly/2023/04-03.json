@@ -1,6 +1,6 @@
 {
   "startTime": 1680452464197,
-  "endTime": 1680453394341,
+  "endTime": 1680455623274,
   "band_list": [
     {
       "raw_hot": 8591138,
@@ -283,20 +283,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 150984,
+      "num": 150984,
+      "word": "把垃圾桶拍成买不起的感觉",
+      "onboard_time": 1680450273,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 150309,
       "num": 150309,
       "word": "忠犬八公豆瓣评分涨至8.2",
       "onboard_time": 1680445545,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 147491,
-      "num": 147491,
-      "word": "把垃圾桶拍成买不起的感觉",
-      "onboard_time": 1680450273,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 147254,
@@ -347,8 +347,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 122769,
-      "num": 122769,
+      "raw_hot": 122820,
+      "num": 122820,
       "word": "大学生你别太离谱",
       "onboard_time": 1680451769,
       "rank": 38,
@@ -356,7 +356,7 @@
     },
     {
       "raw_hot": 117010,
-      "num": 117010,
+      "num": 123220,
       "word": "纽卡斯尔联vs曼联",
       "onboard_time": 1680449975,
       "rank": 44,
