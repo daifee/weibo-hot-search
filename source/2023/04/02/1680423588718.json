@@ -1,0 +1,410 @@
+{
+  "runTime": 1680423588718,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1741903,
+        "num": 1741903,
+        "word": "22岁女生在泰国遭绑架虐杀",
+        "onboard_time": 1680422129,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 765812,
+        "num": 765812,
+        "word": "刘少林破全国纪录",
+        "onboard_time": 1680418767,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 54544,
+        "num": 677120,
+        "word": "为孤独症的孩子点亮一盏灯",
+        "onboard_time": 1680404847,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 607601,
+        "num": 607601,
+        "word": "B站UP主发起停更潮",
+        "onboard_time": 1680406047,
+        "rank": 3,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 516125,
+        "num": 516125,
+        "word": "长月烬明",
+        "onboard_time": 1680405328,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 470050,
+        "num": 470050,
+        "word": "男子贪吃春笋后呕血又昏厥",
+        "onboard_time": 1680418165,
+        "rank": 5,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 426672,
+        "num": 426672,
+        "word": "焉栩嘉光头",
+        "onboard_time": 1680409409,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 379621,
+        "num": 379621,
+        "word": "孙海洋不认同检方5年刑期建议",
+        "onboard_time": 1680411209,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 364298,
+        "num": 364298,
+        "word": "哇唧唧哇",
+        "onboard_time": 1680421888,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 363383,
+        "num": 363383,
+        "word": "罗志祥以朱碧石身份上泰国节目",
+        "onboard_time": 1680422850,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1587651,
+        "num": 363356,
+        "word": "男生给富婆塞纸条被其丈夫找上门",
+        "onboard_time": 1680413789,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 493300,
+        "num": 362836,
+        "word": "白敬亭小号点赞",
+        "onboard_time": 1680414148,
+        "rank": 11,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 375920,
+        "num": 362517,
+        "word": "汪峰女儿小苹果17岁近照",
+        "onboard_time": 1680422670,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 361952,
+        "num": 361952,
+        "word": "杨紫ins开通新账号",
+        "onboard_time": 1680419426,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 324672,
+        "num": 324672,
+        "word": "鹿晗五哈3广州路透",
+        "onboard_time": 1680419367,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 312287,
+        "num": 312287,
+        "word": "近四百万粉丝UP主回应B站停更潮",
+        "onboard_time": 1680407369,
+        "rank": 15,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 304766,
+        "num": 304766,
+        "word": "周冠宇",
+        "onboard_time": 1680421048,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 212063,
+        "num": 212063,
+        "word": "博主吐槽云南旅游遇路边摊刺客",
+        "onboard_time": 1680421349,
+        "rank": 17,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 208450,
+        "num": 208450,
+        "word": "王栎鑫陆虎去了张杰演唱会",
+        "onboard_time": 1680409950,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 200104,
+        "num": 200104,
+        "word": "上海的垃圾桶在哪里",
+        "onboard_time": 1680405086,
+        "rank": 19,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 1322535,
+        "num": 200007,
+        "word": "张继科方准备起诉",
+        "onboard_time": 1680411988,
+        "rank": 20,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 784894,
+        "num": 199739,
+        "word": "这不只是娱乐事件还涉及法律问题",
+        "onboard_time": 1680417569,
+        "rank": 21,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 425495,
+        "num": 199686,
+        "word": "盘点张继科商业版图",
+        "onboard_time": 1680403287,
+        "rank": 22,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 273498,
+        "num": 199450,
+        "word": "孟子义能常驻你好星期六吗",
+        "onboard_time": 1680420753,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184746,
+        "num": 199243,
+        "word": "全国短道速滑冠军赛",
+        "onboard_time": 1680422850,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 246183,
+        "num": 199061,
+        "word": "大学生重新定义交换生",
+        "onboard_time": 1680419488,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 224135,
+        "num": 198827,
+        "word": "95后养猪两年半存款20万",
+        "onboard_time": 1680414989,
+        "rank": 26,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 198711,
+        "num": 198711,
+        "word": "周冠宇2023F1新赛季首分",
+        "onboard_time": 1680422489,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186730,
+        "num": 186730,
+        "word": "Hero对战eStar",
+        "onboard_time": 1680420027,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 183031,
+        "num": 183031,
+        "word": "Newjeans的HypeBoy获人歌一位",
+        "onboard_time": 1680423449,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178125,
+        "num": 178125,
+        "word": "四个人抬不动薛之谦",
+        "onboard_time": 1680423150,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 175398,
+        "num": 175398,
+        "word": "赛琳娜为霉霉应援",
+        "onboard_time": 1680418709,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 174932,
+        "num": 174932,
+        "word": "阿娇怼脸生图状态",
+        "onboard_time": 1680419248,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 174593,
+        "num": 174593,
+        "word": "唐嫣植入闹乌龙",
+        "onboard_time": 1680423508,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172005,
+        "num": 172005,
+        "word": "张译这句分手台词好耳熟",
+        "onboard_time": 1680421468,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 166172,
+        "num": 166172,
+        "word": "因为近视重新爱上前男友",
+        "onboard_time": 1680415825,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 161742,
+        "num": 161742,
+        "word": "贝儿和妹妹盘手串",
+        "onboard_time": 1680421950,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157633,
+        "num": 157633,
+        "word": "代号鸢",
+        "onboard_time": 1680408267,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 157039,
+        "num": 157039,
+        "word": "郑秀妍舞社2宣传片",
+        "onboard_time": 1680422009,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151492,
+        "num": 151492,
+        "word": "张嘉倪红色棒球帽",
+        "onboard_time": 1680423270,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145264,
+        "num": 145264,
+        "word": "罗云熙还原澹台烬台词",
+        "onboard_time": 1680421828,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 143439,
+        "num": 143439,
+        "word": "王俊凯或将出演贾樟柯新电影",
+        "onboard_time": 1680416788,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 140725,
+        "num": 140725,
+        "word": "岳云鹏唱哭了",
+        "onboard_time": 1680423331,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139554,
+        "num": 139554,
+        "word": "张继科回应因欠债传播女演员隐私视频",
+        "onboard_time": 1680332610,
+        "rank": 43,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 137337,
+        "num": 137337,
+        "word": "张继科方将对侵权用户提起诉讼",
+        "onboard_time": 1680260966,
+        "rank": 44,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 133455,
+        "num": 133455,
+        "word": "孙海洋已提起580万元民事赔偿诉讼",
+        "onboard_time": 1680416609,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133266,
+        "num": 133266,
+        "word": "这个家没有丁程鑫就得散",
+        "onboard_time": 1680422608,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131017,
+        "num": 131017,
+        "word": "李微敖 张继科",
+        "onboard_time": 1680326491,
+        "rank": 47,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 126775,
+        "num": 126775,
+        "word": "金晨情绪管理",
+        "onboard_time": 1680393623,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92529,
+        "num": 124556,
+        "word": "狼队王者荣耀",
+        "onboard_time": 1680413488,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#镜头见证雄安拔节生长#"
+    }
+  }
+}
