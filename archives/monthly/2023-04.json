@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680433995471,
+  "endTime": 1680435200193,
   "band_list": [
     {
       "raw_hot": 10740151,
@@ -403,7 +403,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 722941,
+      "raw_hot": 731250,
       "num": 370145,
       "word": "汪峰女儿小苹果17岁近照",
       "onboard_time": 1680422670,
@@ -571,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 614223,
+      "num": 614223,
+      "word": "陈睿曾称哔哩哔哩像社区物业",
+      "onboard_time": 1680431189,
+      "rank": 27,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 612281,
       "num": 348137,
       "word": "Jennie一人分饰两角",
@@ -659,14 +667,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 545627,
-      "num": 545627,
-      "word": "陈睿曾称哔哩哔哩像社区物业",
-      "onboard_time": 1680431189,
-      "rank": 27,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 543449,
       "num": 172317,
       "word": "意大利宣布禁止使用ChatGPT",
@@ -713,6 +713,14 @@
       "onboard_time": 1680320429,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 532116,
+      "num": 209349,
+      "word": "赵丽颖又瘦了",
+      "onboard_time": 1680433288,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 525508,
@@ -817,6 +825,14 @@
       "onboard_time": 1680329492,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 471890,
+      "num": 471890,
+      "word": "青蛙人偶",
+      "onboard_time": 1680431608,
+      "rank": 8,
+      "category": "幽默"
     },
     {
       "raw_hot": 470050,
@@ -971,6 +987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 417371,
+      "num": 264398,
+      "word": "马嘉祺只有51公斤",
+      "onboard_time": 1680434426,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 416482,
       "num": 346308,
       "word": "丁程鑫看张新成抱孙千的反应",
@@ -1059,14 +1083,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 391955,
-      "num": 209349,
-      "word": "赵丽颖又瘦了",
-      "onboard_time": 1680433288,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 386276,
       "num": 244698,
       "word": "贝儿和妹妹",
@@ -1089,14 +1105,6 @@
       "onboard_time": 1680394527,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 377079,
-      "num": 377079,
-      "word": "青蛙人偶",
-      "onboard_time": 1680431608,
-      "rank": 8,
-      "category": "幽默"
     },
     {
       "raw_hot": 371415,
@@ -2347,6 +2355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 198232,
+      "num": 198232,
+      "word": "罗云熙收到一筐馍",
+      "onboard_time": 1680434426,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 198180,
       "num": 193460,
       "word": "蒋敦豪赵一博吃羊时决心养羊",
@@ -2473,6 +2489,14 @@
       "onboard_time": 1680329429,
       "rank": 27,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 192270,
+      "num": 192270,
+      "word": "是谁偷了我的退休人生",
+      "onboard_time": 1680433527,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 191727,
@@ -2617,6 +2641,14 @@
       "onboard_time": 1680337653,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 183834,
+      "num": 183834,
+      "word": "放学后等家长最安全的地方",
+      "onboard_time": 1680431126,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 183009,
@@ -2769,6 +2801,14 @@
       "onboard_time": 1680419248,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 173224,
+      "num": 173224,
+      "word": "陈都灵粉裙",
+      "onboard_time": 1680433888,
+      "rank": 46,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 172005,
@@ -3153,14 +3193,6 @@
       "onboard_time": 1680391639,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 152518,
-      "num": 152518,
-      "word": "放学后等家长最安全的地方",
-      "onboard_time": 1680431126,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 152280,
@@ -3731,6 +3763,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121110,
+      "num": 121110,
+      "word": "陈若轩山河之影手把手教张云龙写字",
+      "onboard_time": 1680435147,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 121013,
+      "num": 121013,
+      "word": "赛车原来要开这么快啊",
+      "onboard_time": 1680435087,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 120388,
       "num": 120388,
       "word": "三线轮洄水下戏好刺激",
@@ -3859,20 +3907,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 113428,
+      "num": 113428,
+      "word": "吴磊戏里戏外的绅士风度",
+      "onboard_time": 1680434548,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 113171,
       "num": 113171,
       "word": "张杰分享未live巡演十八宫格",
       "onboard_time": 1680408450,
       "rank": 44,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 112619,
-      "num": 112619,
-      "word": "陈都灵粉裙",
-      "onboard_time": 1680433888,
-      "rank": 46,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 111583,
