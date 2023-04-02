@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680446017584,
+  "endTime": 1680448565780,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -129,6 +129,14 @@
       "onboard_time": 1680413789,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2115200,
+      "num": 2115200,
+      "word": "观音桥",
+      "onboard_time": 1680446925,
+      "rank": 3,
+      "category": "社会负面"
     },
     {
       "raw_hot": 1988084,
@@ -404,7 +412,7 @@
     },
     {
       "raw_hot": 876639,
-      "num": 413134,
+      "num": 439459,
       "word": "马嘉祺只有51公斤",
       "onboard_time": 1680434426,
       "rank": 13,
@@ -428,7 +436,7 @@
     },
     {
       "raw_hot": 843604,
-      "num": 413535,
+      "num": 429209,
       "word": "王岳伦陪王诗龄理发",
       "onboard_time": 1680435806,
       "rank": 11,
@@ -460,7 +468,7 @@
     },
     {
       "raw_hot": 785780,
-      "num": 276380,
+      "num": 314476,
       "word": "夫妻结婚6年因3岁儿子转学想离婚",
       "onboard_time": 1680438688,
       "rank": 25,
@@ -529,6 +537,14 @@
       "onboard_time": 1680346531,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 702478,
+      "num": 447739,
+      "word": "坂本龙一微博告别",
+      "onboard_time": 1680444166,
+      "rank": 30,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 698141,
@@ -820,7 +836,7 @@
     },
     {
       "raw_hot": 532116,
-      "num": 266256,
+      "num": 312797,
       "word": "赵丽颖又瘦了",
       "onboard_time": 1680433288,
       "rank": 23,
@@ -835,20 +851,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 522430,
-      "num": 233494,
-      "word": "坂本龙一微博告别",
-      "onboard_time": 1680444166,
-      "rank": 30,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 521368,
       "num": 521368,
       "word": "圣诞快乐劳伦斯先生",
       "onboard_time": 1680440433,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 519455,
+      "num": 519455,
+      "word": "白桃星座",
+      "onboard_time": 1680446323,
+      "rank": 6,
+      "category": "情感,网红"
     },
     {
       "raw_hot": 516596,
@@ -899,6 +915,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 504267,
+      "num": 504267,
+      "word": "粉丝真的给种地吧拉来了赞助",
+      "onboard_time": 1680443800,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 504143,
       "num": 332891,
       "word": "保姆推搡8旬老人还让其吃排泄物",
@@ -937,6 +961,14 @@
       "onboard_time": 1680320789,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 474709,
+      "num": 474709,
+      "word": "武汉暴雨",
+      "onboard_time": 1680445424,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 472984,
@@ -1051,6 +1083,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 448752,
+      "num": 448752,
+      "word": "忠犬八公",
+      "onboard_time": 1680272187,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 447729,
       "num": 188698,
       "word": "鹿晗广州",
@@ -1147,6 +1187,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 412877,
+      "num": 412877,
+      "word": "Rookie",
+      "onboard_time": 1680445663,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 408094,
       "num": 408094,
       "word": "哇唧唧哇",
@@ -1193,14 +1241,6 @@
       "onboard_time": 1680415825,
       "rank": 27,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 393700,
-      "num": 393700,
-      "word": "粉丝真的给种地吧拉来了赞助",
-      "onboard_time": 1680443800,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 392752,
@@ -1467,12 +1507,28 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 326994,
+      "num": 326994,
+      "word": "太古里偶遇吉克隽逸",
+      "onboard_time": 1680443981,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 324672,
       "num": 324672,
       "word": "鹿晗五哈3广州路透",
       "onboard_time": 1680419367,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 323829,
+      "num": 323829,
+      "word": "4AM夺冠",
+      "onboard_time": 1680447042,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 322790,
@@ -1707,6 +1763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 275805,
+      "num": 275805,
+      "word": "忠犬八公豆瓣评分涨至8.2",
+      "onboard_time": 1680445545,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 275061,
       "num": 233827,
       "word": "林彦俊回应受伤",
@@ -1801,14 +1865,6 @@
       "onboard_time": 1680403349,
       "rank": 16,
       "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 265857,
-      "num": 265857,
-      "word": "太古里偶遇吉克隽逸",
-      "onboard_time": 1680443981,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 262475,
@@ -1921,6 +1977,14 @@
       "onboard_time": 1680306319,
       "rank": 13,
       "category": "情感"
+    },
+    {
+      "raw_hot": 250199,
+      "num": 250199,
+      "word": "狼队战胜WB",
+      "onboard_time": 1680447343,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 249018,
@@ -2067,14 +2131,6 @@
       "category": "艺人,美妆"
     },
     {
-      "raw_hot": 233094,
-      "num": 233094,
-      "word": "忠犬八公",
-      "onboard_time": 1680272187,
-      "rank": 38,
-      "category": "影视"
-    },
-    {
       "raw_hot": 230596,
       "num": 230596,
       "word": "代号鸢孙策",
@@ -2115,6 +2171,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 227449,
+      "num": 227449,
+      "word": "张继科联合创立的茶饮品牌已成老赖",
+      "onboard_time": 1680448179,
+      "rank": 32,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 227355,
       "num": 227355,
       "word": "罗晋晒照怀念张国荣",
@@ -2144,6 +2208,14 @@
       "word": "舒淇念张国荣",
       "onboard_time": 1680315267,
       "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 224275,
+      "num": 224275,
+      "word": "treasure成员演唱会被烧伤",
+      "onboard_time": 1680448179,
+      "rank": 33,
       "category": "艺人"
     },
     {
@@ -2305,6 +2377,14 @@
       "onboard_time": 1680344372,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 209978,
+      "num": 2766166,
+      "word": "英雄之光",
+      "onboard_time": 1680447168,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 208885,
@@ -2547,6 +2627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200194,
+      "num": 200194,
+      "word": "小狼也很猛",
+      "onboard_time": 1680446083,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 199782,
       "num": 199782,
       "word": "龚俊愚人节plog",
@@ -2707,20 +2795,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 196750,
+      "num": 196750,
+      "word": "小区1天内20只流浪猫集体死亡",
+      "onboard_time": 1680448003,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196467,
       "num": 196467,
       "word": "张国荣纪念音乐会直播点赞变玫瑰",
       "onboard_time": 1680359431,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 196274,
-      "num": 196274,
-      "word": "武汉暴雨",
-      "onboard_time": 1680445424,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 196237,
@@ -2979,6 +3067,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 183179,
+      "num": 183179,
+      "word": "一个招财猫一个要饭猫",
+      "onboard_time": 1680445968,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 183009,
       "num": 183009,
       "word": "星星的孩子",
@@ -3137,6 +3233,14 @@
       "onboard_time": 1680419248,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 173777,
+      "num": 173777,
+      "word": "铃芽之旅连续10天票房日冠",
+      "onboard_time": 1680447766,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 172005,
@@ -3363,14 +3467,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 161372,
-      "num": 161372,
-      "word": "Rookie",
-      "onboard_time": 1680445663,
-      "rank": 42,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 160859,
       "num": 160859,
       "word": "凉山4.0级地震",
@@ -3441,6 +3537,14 @@
       "onboard_time": 1680406468,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158195,
+      "num": 158195,
+      "word": "IVE正规专辑歌单",
+      "onboard_time": 1680446146,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 158096,
@@ -3811,14 +3915,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 138413,
-      "num": 138413,
-      "word": "忠犬八公豆瓣评分涨至8.2",
-      "onboard_time": 1680445545,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
       "raw_hot": 137028,
       "num": 137028,
       "word": "贺三唱最食人间烟火色主题曲",
@@ -4019,6 +4115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129175,
+      "num": 129175,
+      "word": "皇马vs巴拉多利德",
+      "onboard_time": 1680448365,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129159,
       "num": 129159,
       "word": "让郭帆付钱的电影",
@@ -4177,14 +4281,6 @@
       "onboard_time": 1680435748,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 120114,
-      "num": 120114,
-      "word": "一个招财猫一个要饭猫",
-      "onboard_time": 1680445968,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 120069,
@@ -5016,6 +5112,9 @@
     },
     {
       "word": "#8487人获颁戍守边疆纪念章#"
+    },
+    {
+      "word": "#致敬国门卫士#"
     }
   ]
 }

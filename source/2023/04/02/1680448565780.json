@@ -1,0 +1,410 @@
+{
+  "runTime": 1680448565780,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 14135793,
+        "num": 14135793,
+        "word": "张继科借条",
+        "onboard_time": 1680442296,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 4735055,
+        "num": 4735055,
+        "word": "坂本龙一去世",
+        "onboard_time": 1680438989,
+        "rank": 1,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 209978,
+        "num": 2766166,
+        "word": "英雄之光",
+        "onboard_time": 1680447168,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2115200,
+        "num": 2115200,
+        "word": "观音桥",
+        "onboard_time": 1680446925,
+        "rank": 3,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 820809,
+        "num": 820809,
+        "word": "李微敖 张继科",
+        "onboard_time": 1680326491,
+        "rank": 4,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 567033,
+        "num": 567033,
+        "word": "真实地活下去 不要忘记每天看月亮",
+        "onboard_time": 1680441936,
+        "rank": 5,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 519455,
+        "num": 519455,
+        "word": "白桃星座",
+        "onboard_time": 1680446323,
+        "rank": 6,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 504267,
+        "num": 504267,
+        "word": "粉丝真的给种地吧拉来了赞助",
+        "onboard_time": 1680443800,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 474709,
+        "num": 474709,
+        "word": "武汉暴雨",
+        "onboard_time": 1680445424,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 448752,
+        "num": 448752,
+        "word": "忠犬八公",
+        "onboard_time": 1680445120,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 702478,
+        "num": 447739,
+        "word": "坂本龙一微博告别",
+        "onboard_time": 1680444166,
+        "rank": 10,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 492993,
+        "num": 439459,
+        "word": "马嘉祺只有51公斤",
+        "onboard_time": 1680434426,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 429209,
+        "num": 429209,
+        "word": "王岳伦陪王诗龄理发",
+        "onboard_time": 1680435806,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 412877,
+        "num": 412877,
+        "word": "Rookie",
+        "onboard_time": 1680445663,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 387757,
+        "num": 387757,
+        "word": "有点担心秋瓷炫的初舞台了",
+        "onboard_time": 1680427647,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 385794,
+        "num": 385794,
+        "word": "坂本龙一与癌症抗争9年",
+        "onboard_time": 1680443922,
+        "rank": 15,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 326994,
+        "num": 326994,
+        "word": "太古里偶遇吉克隽逸",
+        "onboard_time": 1680443981,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 324153,
+        "num": 324153,
+        "word": "这一段路马英九走了73年",
+        "onboard_time": 1680436828,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323829,
+        "num": 323829,
+        "word": "4AM夺冠",
+        "onboard_time": 1680447042,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 323283,
+        "num": 323283,
+        "word": "学校回应2000学生徒步54公里祭英烈",
+        "onboard_time": 1680438148,
+        "rank": 19,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 9572330,
+        "num": 322028,
+        "word": "景甜",
+        "onboard_time": 1680444521,
+        "rank": 20,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 2749910,
+        "num": 320105,
+        "word": "张继科方准备起诉",
+        "onboard_time": 1680411988,
+        "rank": 21,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 899092,
+        "num": 318885,
+        "word": "这不只是娱乐事件还涉及法律问题",
+        "onboard_time": 1680417569,
+        "rank": 22,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 826460,
+        "num": 317137,
+        "word": "张继科回应因欠债传播女演员隐私视频",
+        "onboard_time": 1680332610,
+        "rank": 23,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 514798,
+        "num": 314476,
+        "word": "夫妻结婚6年因3岁儿子转学想离婚",
+        "onboard_time": 1680438688,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417153,
+        "num": 312797,
+        "word": "赵丽颖又瘦了",
+        "onboard_time": 1680433288,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312348,
+        "num": 312348,
+        "word": "OMG战胜TES",
+        "onboard_time": 1680442535,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 298375,
+        "num": 298375,
+        "word": "为什么越来越多的人涌向猪厂",
+        "onboard_time": 1680428127,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 289195,
+        "num": 289195,
+        "word": "张杰演唱会",
+        "onboard_time": 1680435568,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 275805,
+        "num": 275805,
+        "word": "忠犬八公豆瓣评分涨至8.2",
+        "onboard_time": 1680445545,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 267671,
+        "num": 267671,
+        "word": "李健音乐节",
+        "onboard_time": 1680441754,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 250199,
+        "num": 250199,
+        "word": "狼队战胜WB",
+        "onboard_time": 1680447343,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 227449,
+        "num": 227449,
+        "word": "张继科联合创立的茶饮品牌已成老赖",
+        "onboard_time": 1680448179,
+        "rank": 32,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 224275,
+        "num": 224275,
+        "word": "treasure成员演唱会被烧伤",
+        "onboard_time": 1680448179,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200194,
+        "num": 200194,
+        "word": "小狼也很猛",
+        "onboard_time": 1680446083,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 196750,
+        "num": 196750,
+        "word": "小区1天内20只流浪猫集体死亡",
+        "onboard_time": 1680448003,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196402,
+        "num": 196402,
+        "word": "黄明昊跳了姐姐真漂亮",
+        "onboard_time": 1680436948,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 183179,
+        "num": 183179,
+        "word": "一个招财猫一个要饭猫",
+        "onboard_time": 1680445968,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 182336,
+        "num": 182336,
+        "word": "杨紫ins关注程潇",
+        "onboard_time": 1680441874,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173777,
+        "num": 173777,
+        "word": "铃芽之旅连续10天票房日冠",
+        "onboard_time": 1680447766,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165565,
+        "num": 165565,
+        "word": "白鹿说长月烬明是绝世大甜剧",
+        "onboard_time": 1680437187,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163459,
+        "num": 163459,
+        "word": "坂本龙一曾举办最后的音乐会",
+        "onboard_time": 1680440736,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 158888,
+        "num": 158888,
+        "word": "Jennie一人分饰两角",
+        "onboard_time": 1680431486,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158346,
+        "num": 158346,
+        "word": "TES止步季后赛第二轮",
+        "onboard_time": 1680442960,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 158195,
+        "num": 158195,
+        "word": "IVE正规专辑歌单",
+        "onboard_time": 1680446146,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 144115,
+        "num": 144115,
+        "word": "是谁偷了我的退休人生",
+        "onboard_time": 1680433527,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133241,
+        "num": 133241,
+        "word": "汪峰女儿小苹果17岁近照",
+        "onboard_time": 1680422670,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132585,
+        "num": 132585,
+        "word": "陈晓缺了两颗牙",
+        "onboard_time": 1680424649,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 129175,
+        "num": 129175,
+        "word": "皇马vs巴拉多利德",
+        "onboard_time": 1680448365,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120233,
+        "num": 120233,
+        "word": "shanji三连MVP",
+        "onboard_time": 1680443139,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#致敬国门卫士#"
+    }
+  }
+}
