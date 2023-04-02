@@ -1,10 +1,10 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1680444841881,
+  "endTime": 1680446017584,
   "band_list": [
     {
-      "raw_hot": 15032681,
-      "num": 15032681,
+      "raw_hot": 16876763,
+      "num": 16876763,
       "word": "张继科借条",
       "onboard_time": 1680442296,
       "rank": 5,
@@ -17,6 +17,14 @@
       "onboard_time": 1680073771,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11734703,
+      "num": 4400975,
+      "word": "景甜",
+      "onboard_time": 1680316646,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 10767828,
@@ -64,14 +72,6 @@
       "word": "黄磊孙莉回应多多争议",
       "onboard_time": 1679912791,
       "rank": 3,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 4421635,
-      "num": 4400975,
-      "word": "景甜",
-      "onboard_time": 1680316646,
-      "rank": 4,
       "category": "艺人"
     },
     {
@@ -2987,6 +2987,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 614134,
+      "num": 614134,
+      "word": "真实地活下去 不要忘记每天看月亮",
+      "onboard_time": 1680441936,
+      "rank": 7,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 613068,
       "num": 613068,
       "word": "不止瘦女孩能外穿瑜伽裤",
@@ -3731,6 +3739,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 522430,
+      "num": 233494,
+      "word": "坂本龙一微博告别",
+      "onboard_time": 1680444166,
+      "rank": 30,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 521368,
       "num": 521368,
       "word": "圣诞快乐劳伦斯先生",
@@ -4041,14 +4057,6 @@
       "onboard_time": 1680100889,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 488017,
-      "num": 488017,
-      "word": "真实地活下去 不要忘记每天看月亮",
-      "onboard_time": 1680441936,
-      "rank": 7,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 486736,
@@ -4369,6 +4377,14 @@
       "onboard_time": 1679972968,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 460665,
+      "num": 399699,
+      "word": "坂本龙一与癌症抗争9年",
+      "onboard_time": 1680443922,
+      "rank": 27,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 460435,
@@ -5195,6 +5211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 393700,
+      "num": 393700,
+      "word": "粉丝真的给种地吧拉来了赞助",
+      "onboard_time": 1680443800,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 393484,
       "num": 366003,
       "word": "杜江胸肌",
@@ -5273,6 +5297,14 @@
       "onboard_time": 1680273810,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 387306,
+      "num": 387306,
+      "word": "众星悼念坂本龙一",
+      "onboard_time": 1680443981,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 386469,
@@ -6419,14 +6451,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 310562,
-      "num": 310562,
-      "word": "众星悼念坂本龙一",
-      "onboard_time": 1680443981,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 309549,
       "num": 277704,
       "word": "蒋依依黑长直",
@@ -6564,7 +6588,7 @@
     },
     {
       "raw_hot": 303949,
-      "num": 247821,
+      "num": 249731,
       "word": "杨紫ins关注程潇",
       "onboard_time": 1680441874,
       "rank": 43,
@@ -7547,6 +7571,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 265857,
+      "num": 265857,
+      "word": "太古里偶遇吉克隽逸",
+      "onboard_time": 1680443981,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 265641,
       "num": 265641,
       "word": "村BA奖品太接地气了",
@@ -7584,14 +7616,6 @@
       "word": "陈妍希对异地恋的极限是一个月",
       "onboard_time": 1680088949,
       "rank": 22,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 264166,
-      "num": 264166,
-      "word": "粉丝真的给种地吧拉来了赞助",
-      "onboard_time": 1680443800,
-      "rank": 18,
       "category": "综艺"
     },
     {
@@ -7713,14 +7737,6 @@
       "onboard_time": 1679928454,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 257686,
-      "num": 231647,
-      "word": "坂本龙一微博告别",
-      "onboard_time": 1680444166,
-      "rank": 30,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 257147,
@@ -8097,14 +8113,6 @@
       "onboard_time": 1680007887,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 245150,
-      "num": 245150,
-      "word": "坂本龙一与癌症抗争9年",
-      "onboard_time": 1680443922,
-      "rank": 27,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 244865,
@@ -9275,14 +9283,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 209394,
-      "num": 209394,
-      "word": "太古里偶遇吉克隽逸",
-      "onboard_time": 1680443981,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 209119,
       "num": 209119,
       "word": "李一桐说太想挑战反派了",
@@ -10345,6 +10345,14 @@
       "onboard_time": 1680359431,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 196274,
+      "num": 196274,
+      "word": "武汉暴雨",
+      "onboard_time": 1680445424,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196264,
@@ -11931,6 +11939,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 170973,
+      "num": 233593,
+      "word": "2022年308名民警因公牺牲",
+      "onboard_time": 1680445363,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170943,
       "num": 170943,
       "word": "关晓彤巴黎吃喝vlog",
@@ -12441,6 +12457,14 @@
       "onboard_time": 1680233127,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 161372,
+      "num": 161372,
+      "word": "Rookie",
+      "onboard_time": 1680445663,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 160984,
@@ -13595,6 +13619,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 138413,
+      "num": 138413,
+      "word": "忠犬八公豆瓣评分涨至8.2",
+      "onboard_time": 1680445545,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 138400,
       "num": 138400,
       "word": "孙俪看五哈泼水",
@@ -14657,6 +14689,14 @@
       "onboard_time": 1680010407,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 120114,
+      "num": 120114,
+      "word": "一个招财猫一个要饭猫",
+      "onboard_time": 1680445968,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 120099,

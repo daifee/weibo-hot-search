@@ -1,14 +1,22 @@
 {
   "startTime": 1680366074129,
-  "endTime": 1680444841881,
+  "endTime": 1680446017584,
   "band_list": [
     {
-      "raw_hot": 15032681,
-      "num": 15032681,
+      "raw_hot": 16876763,
+      "num": 16876763,
       "word": "张继科借条",
       "onboard_time": 1680442296,
       "rank": 5,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 11734703,
+      "num": 4400975,
+      "word": "景甜",
+      "onboard_time": 1680444521,
+      "rank": 3,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 10767828,
@@ -17,14 +25,6 @@
       "onboard_time": 1680438989,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 4400975,
-      "num": 4400975,
-      "word": "景甜",
-      "onboard_time": 1680444521,
-      "rank": 3,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 4265606,
@@ -267,8 +267,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 862548,
-      "num": 744735,
+      "raw_hot": 871223,
+      "num": 871223,
       "word": "李微敖 张继科",
       "onboard_time": 1680326491,
       "rank": 20,
@@ -387,6 +387,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 614134,
+      "num": 614134,
+      "word": "真实地活下去 不要忘记每天看月亮",
+      "onboard_time": 1680441936,
+      "rank": 7,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 612281,
       "num": 348137,
       "word": "Jennie一人分饰两角",
@@ -451,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 522430,
+      "num": 233494,
+      "word": "坂本龙一微博告别",
+      "onboard_time": 1680444166,
+      "rank": 30,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 521368,
       "num": 521368,
       "word": "圣诞快乐劳伦斯先生",
@@ -473,14 +489,6 @@
       "onboard_time": 1680396986,
       "rank": 7,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 488017,
-      "num": 488017,
-      "word": "真实地活下去 不要忘记每天看月亮",
-      "onboard_time": 1680441936,
-      "rank": 7,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 483107,
@@ -521,6 +529,14 @@
       "onboard_time": 1680408267,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 460665,
+      "num": 399699,
+      "word": "坂本龙一与癌症抗争9年",
+      "onboard_time": 1680443922,
+      "rank": 27,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 453959,
@@ -601,6 +617,22 @@
       "onboard_time": 1680415825,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 393700,
+      "num": 393700,
+      "word": "粉丝真的给种地吧拉来了赞助",
+      "onboard_time": 1680443800,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 387306,
+      "num": 387306,
+      "word": "众星悼念坂本龙一",
+      "onboard_time": 1680443981,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 380827,
@@ -755,14 +787,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 310562,
-      "num": 310562,
-      "word": "众星悼念坂本龙一",
-      "onboard_time": 1680443981,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 306356,
       "num": 306356,
       "word": "低欲望生活 低预算生活",
@@ -780,7 +804,7 @@
     },
     {
       "raw_hot": 303949,
-      "num": 247821,
+      "num": 249731,
       "word": "杨紫ins关注程潇",
       "onboard_time": 1680441874,
       "rank": 43,
@@ -915,12 +939,12 @@
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 264166,
-      "num": 264166,
-      "word": "粉丝真的给种地吧拉来了赞助",
-      "onboard_time": 1680443800,
-      "rank": 18,
-      "category": "综艺"
+      "raw_hot": 265857,
+      "num": 265857,
+      "word": "太古里偶遇吉克隽逸",
+      "onboard_time": 1680443981,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 262475,
@@ -945,14 +969,6 @@
       "onboard_time": 1680435207,
       "rank": 8,
       "category": "影视"
-    },
-    {
-      "raw_hot": 257686,
-      "num": 231647,
-      "word": "坂本龙一微博告别",
-      "onboard_time": 1680444166,
-      "rank": 30,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 257052,
@@ -1009,14 +1025,6 @@
       "onboard_time": 1680419488,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 245150,
-      "num": 245150,
-      "word": "坂本龙一与癌症抗争9年",
-      "onboard_time": 1680443922,
-      "rank": 27,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 244721,
@@ -1097,6 +1105,14 @@
       "onboard_time": 1680346350,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 233094,
+      "num": 233094,
+      "word": "忠犬八公",
+      "onboard_time": 1680445120,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 230596,
@@ -1217,14 +1233,6 @@
       "onboard_time": 1680429929,
       "rank": 36,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 209394,
-      "num": 209394,
-      "word": "太古里偶遇吉克隽逸",
-      "onboard_time": 1680443981,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 208885,
@@ -1417,6 +1425,14 @@
       "onboard_time": 1680420208,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 196274,
+      "num": 196274,
+      "word": "武汉暴雨",
+      "onboard_time": 1680445424,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196139,
@@ -1659,6 +1675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 170973,
+      "num": 233593,
+      "word": "2022年308名民警因公牺牲",
+      "onboard_time": 1680445363,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170228,
       "num": 170228,
       "word": "大妈咖啡店里开茶话会并择菜",
@@ -1721,6 +1745,14 @@
       "onboard_time": 1680443564,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161372,
+      "num": 161372,
+      "word": "Rookie",
+      "onboard_time": 1680445663,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 160859,
@@ -2011,6 +2043,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 138413,
+      "num": 138413,
+      "word": "忠犬八公豆瓣评分涨至8.2",
+      "onboard_time": 1680445545,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 137028,
       "num": 137028,
       "word": "贺三唱最食人间烟火色主题曲",
@@ -2193,6 +2233,14 @@
       "onboard_time": 1680435748,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 120114,
+      "num": 120114,
+      "word": "一个招财猫一个要饭猫",
+      "onboard_time": 1680445968,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 119763,
