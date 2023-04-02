@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1680409211593,
+  "endTime": 1680410040429,
   "band_list": [
     {
       "raw_hot": 12970403,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3054432,
+      "num": 3054432,
+      "word": "B站UP主发起停更潮",
+      "onboard_time": 1680406047,
+      "rank": 17,
+      "category": "科技"
+    },
+    {
       "raw_hot": 2998077,
       "num": 646652,
       "word": "微信朋友圈",
@@ -80,14 +88,6 @@
       "word": "微信QQ出现功能异常",
       "onboard_time": 1680046523,
       "rank": 0,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 2941663,
-      "num": 2941663,
-      "word": "B站UP主发起停更潮",
-      "onboard_time": 1680406047,
-      "rank": 17,
       "category": "科技"
     },
     {
@@ -483,6 +483,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 1833746,
+      "num": 452604,
+      "word": "杨幂发了六条微博",
+      "onboard_time": 1680406106,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1825433,
       "num": 1825433,
       "word": "神华集团",
@@ -593,14 +601,6 @@
       "onboard_time": 1680075812,
       "rank": 1,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1573679,
-      "num": 353977,
-      "word": "杨幂发了六条微博",
-      "onboard_time": 1680406106,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 1553665,
@@ -1091,6 +1091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1177319,
+      "num": 1177319,
+      "word": "近四百万粉丝UP主回应B站停更潮",
+      "onboard_time": 1680407369,
+      "rank": 3,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1172548,
       "num": 1172548,
       "word": "为什么删掉了你喜欢的人",
@@ -1308,7 +1316,7 @@
     },
     {
       "raw_hot": 1055081,
-      "num": 360485,
+      "num": 448828,
       "word": "朴宝剑胖了",
       "onboard_time": 1680398369,
       "rank": 13,
@@ -1553,14 +1561,6 @@
       "onboard_time": 1680319292,
       "rank": 13,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 910531,
-      "num": 910531,
-      "word": "近四百万粉丝UP主回应B站停更潮",
-      "onboard_time": 1680407369,
-      "rank": 3,
-      "category": "科技"
     },
     {
       "raw_hot": 910171,
@@ -2235,6 +2235,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 715530,
+      "num": 715530,
+      "word": "上海的垃圾桶在哪里",
+      "onboard_time": 1680405086,
+      "rank": 35,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 715134,
       "num": 587678,
       "word": "上海地铁内男子嬉皮笑脸耍刀玩",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1680162387,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 683129,
-      "num": 683129,
-      "word": "上海的垃圾桶在哪里",
-      "onboard_time": 1680405086,
-      "rank": 35,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 682891,
@@ -3227,6 +3227,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 558129,
+      "num": 558129,
+      "word": "焉栩嘉光头",
+      "onboard_time": 1680409409,
+      "rank": 5,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 557953,
       "num": 557953,
       "word": "网友用华为和库克合照",
@@ -3937,6 +3945,14 @@
       "onboard_time": 1679912909,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 469991,
+      "num": 469991,
+      "word": "代号鸢",
+      "onboard_time": 1680066869,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 469921,
@@ -4675,6 +4691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 403926,
+      "num": 239899,
+      "word": "第一次见这么干净的猪",
+      "onboard_time": 1680405149,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 403770,
       "num": 403770,
       "word": "爱思爱梦",
@@ -4825,14 +4849,6 @@
       "onboard_time": 1680252266,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 393395,
-      "num": 239899,
-      "word": "第一次见这么干净的猪",
-      "onboard_time": 1680405149,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 392752,
@@ -6235,14 +6251,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 296806,
-      "num": 296806,
-      "word": "代号鸢",
-      "onboard_time": 1680066869,
-      "rank": 49,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 295125,
       "num": 286286,
       "word": "长相思",
@@ -7083,6 +7091,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 261940,
+      "num": 210145,
+      "word": "肖战杂志怼脸镜头",
+      "onboard_time": 1680408929,
+      "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 261401,
       "num": 261401,
       "word": "周冬雨王栎鑫二搭长沙夜生活",
@@ -7177,6 +7193,14 @@
       "onboard_time": 1679839290,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 256854,
+      "num": 256854,
+      "word": "千名汉服小姐姐共行叉手礼",
+      "onboard_time": 1680408450,
+      "rank": 28,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 256626,
@@ -7529,6 +7553,14 @@
       "onboard_time": 1680136709,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 242545,
+      "num": 242545,
+      "word": "王子璇演的丽妃诡笑",
+      "onboard_time": 1680408627,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 242037,
@@ -8657,14 +8689,6 @@
       "onboard_time": 1680021741,
       "rank": 13,
       "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 206917,
-      "num": 206917,
-      "word": "王子璇演的丽妃诡笑",
-      "onboard_time": 1680408627,
-      "rank": 19,
-      "category": "影视"
     },
     {
       "raw_hot": 206751,
@@ -9883,14 +9907,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 190667,
-      "num": 190667,
-      "word": "肖战杂志怼脸镜头",
-      "onboard_time": 1680408929,
-      "rank": 27,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 190664,
       "num": 213211,
       "word": "徐明浩愚人节贺图",
@@ -10097,14 +10113,6 @@
       "onboard_time": 1680007407,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 187872,
-      "num": 187872,
-      "word": "千名汉服小姐姐共行叉手礼",
-      "onboard_time": 1680408450,
-      "rank": 28,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 187304,
@@ -10809,6 +10817,14 @@
       "onboard_time": 1679927254,
       "rank": 39,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 173205,
+      "num": 173205,
+      "word": "王栎鑫陆虎去了张杰演唱会",
+      "onboard_time": 1680409950,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 173123,
@@ -11747,6 +11763,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 154281,
+      "num": 154281,
+      "word": "五哈",
+      "onboard_time": 1680409589,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 153600,
       "num": 153600,
       "word": "点名到王伟全场学生齐答三声到",
@@ -12355,6 +12379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 140025,
+      "num": 140025,
+      "word": "爱情而已全员助攻",
+      "onboard_time": 1680409469,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 139920,
       "num": 139920,
       "word": "搭子是一种新型的社交关系",
@@ -12641,6 +12673,14 @@
       "onboard_time": 1680334891,
       "rank": 36,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 133864,
+      "num": 133864,
+      "word": "王鹤棣扭屁股",
+      "onboard_time": 1680409770,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 133798,
@@ -14371,6 +14411,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 92681,
+      "num": 910850,
+      "word": "为孤独症的孩子点亮一盏灯",
+      "onboard_time": 1680404847,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 92652,
       "num": 92652,
       "word": "刘若英杭州演唱会官宣",
@@ -14497,14 +14545,6 @@
       "onboard_time": 1680053368,
       "rank": 49,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 87404,
-      "num": 910850,
-      "word": "为孤独症的孩子点亮一盏灯",
-      "onboard_time": 1680404847,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 86947,
