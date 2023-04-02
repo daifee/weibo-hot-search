@@ -1,0 +1,410 @@
+{
+  "runTime": 1680417213318,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3120594,
+        "num": 3120594,
+        "word": "张继科方准备起诉",
+        "onboard_time": 1680411988,
+        "rank": 0,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 1071127,
+        "num": 1071127,
+        "word": "B站UP主发起停更潮",
+        "onboard_time": 1680406047,
+        "rank": 1,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 65889,
+        "num": 847812,
+        "word": "为孤独症的孩子点亮一盏灯",
+        "onboard_time": 1680404847,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 743153,
+        "num": 743153,
+        "word": "焉栩嘉光头",
+        "onboard_time": 1680409409,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 634688,
+        "num": 634688,
+        "word": "孙海洋不认同检方5年刑期建议",
+        "onboard_time": 1680411209,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414410,
+        "num": 414410,
+        "word": "金晨情绪管理",
+        "onboard_time": 1680393623,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 369472,
+        "num": 369472,
+        "word": "长月烬明",
+        "onboard_time": 1680405328,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 352476,
+        "num": 352476,
+        "word": "王栎鑫陆虎去了张杰演唱会",
+        "onboard_time": 1680409950,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 312824,
+        "num": 312824,
+        "word": "湖北事业单位",
+        "onboard_time": 1680414387,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283437,
+        "num": 283437,
+        "word": "上海的垃圾桶在哪里",
+        "onboard_time": 1680405086,
+        "rank": 9,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 1708552,
+        "num": 275038,
+        "word": "男生给富婆塞纸条被其丈夫找上门",
+        "onboard_time": 1680413789,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1385233,
+        "num": 270886,
+        "word": "白敬亭小号点赞",
+        "onboard_time": 1680414148,
+        "rank": 11,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 749057,
+        "num": 267475,
+        "word": "杨幂发了六条微博",
+        "onboard_time": 1680406106,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263307,
+        "num": 263307,
+        "word": "官方通报禁止村民栽种蔬菜瓜果",
+        "onboard_time": 1680400706,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251587,
+        "num": 251587,
+        "word": "长月烬明见面会路透",
+        "onboard_time": 1680414207,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 249890,
+        "num": 249890,
+        "word": "近四百万粉丝UP主回应B站停更潮",
+        "onboard_time": 1680407369,
+        "rank": 15,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 240230,
+        "num": 240230,
+        "word": "朴宝剑胖了",
+        "onboard_time": 1680398369,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228942,
+        "num": 228942,
+        "word": "中国专家检查丫丫食物和水源",
+        "onboard_time": 1680404126,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225787,
+        "num": 225787,
+        "word": "因为近视重新爱上前男友",
+        "onboard_time": 1680415825,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 218992,
+        "num": 218992,
+        "word": "狼队王者荣耀",
+        "onboard_time": 1680413488,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 454485,
+        "num": 213549,
+        "word": "盘点张继科商业版图",
+        "onboard_time": 1680403287,
+        "rank": 20,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 329943,
+        "num": 207280,
+        "word": "张继科曾陷猴子的救兵加盟纠纷",
+        "onboard_time": 1680396084,
+        "rank": 21,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 260557,
+        "num": 207065,
+        "word": "95后养猪两年半存款20万",
+        "onboard_time": 1680414989,
+        "rank": 22,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 199687,
+        "num": 199687,
+        "word": "任嘉伦成都随拍",
+        "onboard_time": 1680416969,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198238,
+        "num": 198238,
+        "word": "第一次见这么干净的猪",
+        "onboard_time": 1680405149,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 197029,
+        "num": 197029,
+        "word": "女子逛夜市被1克0.099元整蒙圈",
+        "onboard_time": 1680396386,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196311,
+        "num": 196311,
+        "word": "由趣",
+        "onboard_time": 1680413910,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184090,
+        "num": 184090,
+        "word": "张继科回应因欠债传播女演员隐私视频",
+        "onboard_time": 1680332610,
+        "rank": 27,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 182856,
+        "num": 182856,
+        "word": "容祖儿演我KTV状态",
+        "onboard_time": 1680417147,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 181622,
+        "num": 181622,
+        "word": "stayc无伴奏唱跳teddybear",
+        "onboard_time": 1680417208,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 179394,
+        "num": 179394,
+        "word": "孙海洋已提起580万元民事赔偿诉讼",
+        "onboard_time": 1680416609,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176599,
+        "num": 176599,
+        "word": "最食人间烟火色",
+        "onboard_time": 1680415527,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 168196,
+        "num": 168196,
+        "word": "王俊凯或将出演贾樟柯新电影",
+        "onboard_time": 1680416788,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 166533,
+        "num": 166533,
+        "word": "代号鸢",
+        "onboard_time": 1680408267,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 159612,
+        "num": 159612,
+        "word": "孙千李沁双人大片",
+        "onboard_time": 1680416246,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 156574,
+        "num": 156574,
+        "word": "张继科方将对侵权用户提起诉讼",
+        "onboard_time": 1680260966,
+        "rank": 35,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 139133,
+        "num": 139133,
+        "word": "李微敖 张继科",
+        "onboard_time": 1680326491,
+        "rank": 36,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 122439,
+        "num": 122439,
+        "word": "内蒙古多地精简部分编外人员",
+        "onboard_time": 1680417208,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121687,
+        "num": 121687,
+        "word": "范丞丞找张大大要豹哥签名",
+        "onboard_time": 1680410729,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120590,
+        "num": 120590,
+        "word": "李斯丹妮想要高启强的出场方式",
+        "onboard_time": 1680415467,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112869,
+        "num": 112869,
+        "word": "F1",
+        "onboard_time": 1680413428,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112430,
+        "num": 112430,
+        "word": "虞书欣的抓娃娃vlog",
+        "onboard_time": 1680415467,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106597,
+        "num": 106597,
+        "word": "洪欣张丹峰直播",
+        "onboard_time": 1680395245,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73754,
+        "num": 105735,
+        "word": "手把手教你练八段锦",
+        "onboard_time": 1680416969,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105397,
+        "num": 105397,
+        "word": "洛阳街头牡丹花开正艳",
+        "onboard_time": 1680411748,
+        "rank": 44,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 103463,
+        "num": 103463,
+        "word": "张继科",
+        "onboard_time": 1680308484,
+        "rank": 45,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 99815,
+        "num": 99815,
+        "word": "妖刀是队霸吧",
+        "onboard_time": 1680416788,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 97082,
+        "num": 97082,
+        "word": "王鹤棣扭屁股",
+        "onboard_time": 1680409770,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96449,
+        "num": 96449,
+        "word": "一身反骨的狗狗",
+        "onboard_time": 1680417208,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 89817,
+        "num": 89817,
+        "word": "女子吃螺蛳粉把狗熏吐被爸爸没收",
+        "onboard_time": 1680397167,
+        "rank": 49,
+        "category": "社会新闻,幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#镜头见证雄安拔节生长#"
+    }
+  }
+}

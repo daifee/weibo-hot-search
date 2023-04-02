@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680416431036,
+  "endTime": 1680417213318,
   "band_list": [
     {
       "raw_hot": 10740151,
@@ -115,6 +115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1708552,
+      "num": 312506,
+      "word": "男生给富婆塞纸条被其丈夫找上门",
+      "onboard_time": 1680413789,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1523923,
       "num": 1523923,
       "word": "雅思作文 绝望的文盲",
@@ -129,14 +137,6 @@
       "onboard_time": 1680414148,
       "rank": 10,
       "category": "艺人,幽默"
-    },
-    {
-      "raw_hot": 1480085,
-      "num": 312506,
-      "word": "男生给富婆塞纸条被其丈夫找上门",
-      "onboard_time": 1680413789,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1437150,
@@ -1531,6 +1531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 225787,
+      "num": 225787,
+      "word": "因为近视重新爱上前男友",
+      "onboard_time": 1680415825,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 222730,
       "num": 222730,
       "word": "山东一采煤塌陷地养出大珍珠",
@@ -1843,6 +1851,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 199687,
+      "num": 199687,
+      "word": "任嘉伦成都随拍",
+      "onboard_time": 1680416969,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199387,
       "num": 199387,
       "word": "杨幂呼吁守护孤独症孩子",
@@ -2003,14 +2019,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 193099,
-      "num": 193099,
-      "word": "因为近视重新爱上前男友",
-      "onboard_time": 1680415825,
-      "rank": 27,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 191727,
       "num": 2765115,
       "word": "你好4月",
@@ -2123,6 +2131,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 182856,
+      "num": 182856,
+      "word": "容祖儿演我KTV状态",
+      "onboard_time": 1680417147,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 182531,
       "num": 182531,
       "word": "张国荣逝世20周年",
@@ -2139,6 +2155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181622,
+      "num": 181622,
+      "word": "stayc无伴奏唱跳teddybear",
+      "onboard_time": 1680417208,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 181190,
       "num": 179249,
       "word": "你好星期六",
@@ -2153,6 +2177,14 @@
       "onboard_time": 1680348451,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 179394,
+      "num": 179394,
+      "word": "孙海洋已提起580万元民事赔偿诉讼",
+      "onboard_time": 1680416609,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 178650,
@@ -2289,6 +2321,14 @@
       "onboard_time": 1680392001,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 168196,
+      "num": 168196,
+      "word": "王俊凯或将出演贾樟柯新电影",
+      "onboard_time": 1680416788,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 167416,
@@ -2433,6 +2473,14 @@
       "onboard_time": 1680333568,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 159612,
+      "num": 159612,
+      "word": "孙千李沁双人大片",
+      "onboard_time": 1680416246,
+      "rank": 44,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 159313,
@@ -3019,6 +3067,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 122439,
+      "num": 122439,
+      "word": "内蒙古多地精简部分编外人员",
+      "onboard_time": 1680417208,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 122249,
       "num": 122249,
       "word": "LCK",
@@ -3347,6 +3403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 99815,
+      "num": 99815,
+      "word": "妖刀是队霸吧",
+      "onboard_time": 1680416788,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 99693,
       "num": 1966460,
       "word": "黄河保护法今起施行",
@@ -3403,12 +3467,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 95231,
-      "num": 95231,
-      "word": "孙千李沁双人大片",
-      "onboard_time": 1680416246,
-      "rank": 44,
-      "category": "作品衍生,时尚"
+      "raw_hot": 96449,
+      "num": 96449,
+      "word": "一身反骨的狗狗",
+      "onboard_time": 1680417208,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 95149,
@@ -3593,6 +3657,14 @@
       "onboard_time": 1680268650,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 73754,
+      "num": 105735,
+      "word": "手把手教你练八段锦",
+      "onboard_time": 1680416969,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 73066,
