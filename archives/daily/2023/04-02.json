@@ -1,7 +1,15 @@
 {
   "startTime": 1680366074129,
-  "endTime": 1680442403741,
+  "endTime": 1680444841881,
   "band_list": [
+    {
+      "raw_hot": 15032681,
+      "num": 15032681,
+      "word": "张继科借条",
+      "onboard_time": 1680442296,
+      "rank": 5,
+      "category": "体育,社会新闻"
+    },
     {
       "raw_hot": 10767828,
       "num": 10767828,
@@ -9,6 +17,14 @@
       "onboard_time": 1680438989,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 4400975,
+      "num": 4400975,
+      "word": "景甜",
+      "onboard_time": 1680444521,
+      "rank": 3,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 4265606,
@@ -163,6 +179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1007605,
+      "num": 1007605,
+      "word": "OMG战胜TES",
+      "onboard_time": 1680442535,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1007224,
       "num": 1007224,
       "word": "学校回应2000学生徒步54公里祭英烈",
@@ -236,7 +260,7 @@
     },
     {
       "raw_hot": 876639,
-      "num": 355857,
+      "num": 413134,
       "word": "马嘉祺只有51公斤",
       "onboard_time": 1680434426,
       "rank": 13,
@@ -244,7 +268,7 @@
     },
     {
       "raw_hot": 862548,
-      "num": 310292,
+      "num": 744735,
       "word": "李微敖 张继科",
       "onboard_time": 1680326491,
       "rank": 20,
@@ -252,7 +276,7 @@
     },
     {
       "raw_hot": 843604,
-      "num": 359051,
+      "num": 413535,
       "word": "王岳伦陪王诗龄理发",
       "onboard_time": 1680435806,
       "rank": 11,
@@ -305,14 +329,6 @@
       "onboard_time": 1680353668,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 740560,
-      "num": 740560,
-      "word": "张继科借条",
-      "onboard_time": 1680442296,
-      "rank": 5,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 731250,
@@ -459,6 +475,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 488017,
+      "num": 488017,
+      "word": "真实地活下去 不要忘记每天看月亮",
+      "onboard_time": 1680441936,
+      "rank": 7,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 483107,
       "num": 483107,
       "word": "武汉地铁",
@@ -577,6 +601,14 @@
       "onboard_time": 1680415825,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 380827,
+      "num": 380827,
+      "word": "李健音乐节",
+      "onboard_time": 1680441754,
+      "rank": 19,
+      "category": "音乐"
     },
     {
       "raw_hot": 379944,
@@ -723,6 +755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 310562,
+      "num": 310562,
+      "word": "众星悼念坂本龙一",
+      "onboard_time": 1680443981,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 306356,
       "num": 306356,
       "word": "低欲望生活 低预算生活",
@@ -737,6 +777,14 @@
       "onboard_time": 1680421048,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 303949,
+      "num": 247821,
+      "word": "杨紫ins关注程潇",
+      "onboard_time": 1680441874,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 303204,
@@ -761,6 +809,14 @@
       "onboard_time": 1680359191,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 294980,
+      "num": 294980,
+      "word": "TES止步季后赛第二轮",
+      "onboard_time": 1680442960,
+      "rank": 16,
+      "category": "游戏"
     },
     {
       "raw_hot": 294821,
@@ -793,14 +849,6 @@
       "onboard_time": 1680402568,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 280485,
-      "num": 280485,
-      "word": "李健音乐节",
-      "onboard_time": 1680441754,
-      "rank": 19,
-      "category": "音乐"
     },
     {
       "raw_hot": 279797,
@@ -867,6 +915,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 264166,
+      "num": 264166,
+      "word": "粉丝真的给种地吧拉来了赞助",
+      "onboard_time": 1680443800,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 262475,
       "num": 262475,
       "word": "高铁乘客突发疾病幸好遇到医生天团",
@@ -875,12 +931,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 261040,
+      "num": 261040,
+      "word": "王子璇演丽妃对镜子练习吓人",
+      "onboard_time": 1680441515,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 259618,
       "num": 259618,
       "word": "他是谁",
       "onboard_time": 1680435207,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 257686,
+      "num": 231647,
+      "word": "坂本龙一微博告别",
+      "onboard_time": 1680444166,
+      "rank": 30,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 257052,
@@ -937,6 +1009,14 @@
       "onboard_time": 1680419488,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 245150,
+      "num": 245150,
+      "word": "坂本龙一与癌症抗争9年",
+      "onboard_time": 1680443922,
+      "rank": 27,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 244721,
@@ -1091,12 +1171,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 216349,
+      "num": 216349,
+      "word": "INTO1泰国演唱会第二场",
+      "onboard_time": 1680441632,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 216149,
       "num": 216149,
       "word": "痛仰 上海",
       "onboard_time": 1680358890,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 214129,
+      "num": 214129,
+      "word": "shanji三连MVP",
+      "onboard_time": 1680443139,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 213622,
@@ -1121,6 +1217,14 @@
       "onboard_time": 1680429929,
       "rank": 36,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 209394,
+      "num": 209394,
+      "word": "太古里偶遇吉克隽逸",
+      "onboard_time": 1680443981,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 208885,
@@ -1275,14 +1379,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 199023,
-      "num": 199023,
-      "word": "INTO1泰国演唱会第二场",
-      "onboard_time": 1680441632,
-      "rank": 35,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 199002,
       "num": 199002,
       "word": "陈立农声生不息宝岛季彩排vlog",
@@ -1329,14 +1425,6 @@
       "onboard_time": 1680353009,
       "rank": 27,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 196084,
-      "num": 196084,
-      "word": "王子璇演丽妃对镜子练习吓人",
-      "onboard_time": 1680441515,
-      "rank": 37,
-      "category": "影视"
     },
     {
       "raw_hot": 194808,
@@ -1443,6 +1531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 188118,
+      "num": 188118,
+      "word": "刘宇泰国演唱会饭拍",
+      "onboard_time": 1680444760,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 186738,
       "num": 186738,
       "word": "父母抹酒精退烧致4岁女儿住进ICU",
@@ -1515,6 +1611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 176948,
+      "num": 176948,
+      "word": "陈楚生苏州巡演",
+      "onboard_time": 1680443502,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 176178,
       "num": 176178,
       "word": "魔卡少女樱续作",
@@ -1537,14 +1641,6 @@
       "onboard_time": 1680419248,
       "rank": 49,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 173694,
-      "num": 173694,
-      "word": "杨紫ins关注程潇",
-      "onboard_time": 1680441874,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 172005,
@@ -1617,6 +1713,14 @@
       "onboard_time": 1680407007,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 165067,
+      "num": 231755,
+      "word": "千年前的高分作文秘籍有多绝",
+      "onboard_time": 1680443564,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 160859,
@@ -1820,7 +1924,7 @@
     },
     {
       "raw_hot": 143385,
-      "num": 1175031,
+      "num": 5295131,
       "word": "春天的花花美到挪不开眼",
       "onboard_time": 1680424352,
       "rank": 2,
@@ -1889,6 +1993,14 @@
       "onboard_time": 1680409469,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 138858,
+      "num": 138858,
+      "word": "真的羡慕猫咪的睡眠质量",
+      "onboard_time": 1680442473,
+      "rank": 45,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 138631,
@@ -2113,6 +2225,14 @@
       "onboard_time": 1680414148,
       "rank": 39,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 117709,
+      "num": 117709,
+      "word": "LPL",
+      "onboard_time": 1680442898,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 117706,
