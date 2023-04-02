@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680464007813,
+  "endTime": 1680466614554,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -5225,6 +5225,14 @@
       "onboard_time": 1680383591,
       "rank": 49,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 11973,
+      "num": 11973,
+      "word": "你遇到过哪些不当倡议",
+      "onboard_time": 1680459195,
+      "rank": 47,
+      "category": "社会议题"
     }
   ],
   "hotgov_list": [
