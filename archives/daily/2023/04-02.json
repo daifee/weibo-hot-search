@@ -1,18 +1,18 @@
 {
   "startTime": 1680366074129,
-  "endTime": 1680398764109,
+  "endTime": 1680400066600,
   "band_list": [
     {
-      "raw_hot": 2433039,
-      "num": 2433039,
+      "raw_hot": 2815449,
+      "num": 2815449,
       "word": "张继科曾陷猴子的救兵加盟纠纷",
       "onboard_time": 1680396084,
       "rank": 0,
       "category": "社会新闻,体育"
     },
     {
-      "raw_hot": 1878004,
-      "num": 1878004,
+      "raw_hot": 1988084,
+      "num": 1988084,
       "word": "金晨情绪管理",
       "onboard_time": 1680393623,
       "rank": 1,
@@ -41,6 +41,14 @@
       "onboard_time": 1680360811,
       "rank": 1,
       "category": "社会新闻,社会正能量"
+    },
+    {
+      "raw_hot": 1055081,
+      "num": 268673,
+      "word": "朴宝剑胖了",
+      "onboard_time": 1680398369,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 965951,
@@ -83,6 +91,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 622841,
+      "num": 190710,
+      "word": "女子逛夜市被1克0.099元整蒙圈",
+      "onboard_time": 1680396386,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 590204,
       "num": 304593,
       "word": "八年前愚人节的TFBOYS",
@@ -91,12 +107,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 559074,
-      "num": 181289,
-      "word": "女子逛夜市被1克0.099元整蒙圈",
-      "onboard_time": 1680396386,
-      "rank": 20,
-      "category": "社会新闻"
+      "raw_hot": 508652,
+      "num": 508652,
+      "word": "3岁还不主动喊爸爸妈妈要警惕孤独症",
+      "onboard_time": 1680396986,
+      "rank": 7,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 483107,
@@ -115,12 +131,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 400442,
-      "num": 400442,
-      "word": "3岁还不主动喊爸爸妈妈要警惕孤独症",
+      "raw_hot": 396309,
+      "num": 187277,
+      "word": "女子吃螺蛳粉把狗熏吐被爸爸没收",
+      "onboard_time": 1680397167,
+      "rank": 22,
+      "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 379944,
+      "num": 379944,
+      "word": "孙海洋称人贩子吴飞龙案将开庭",
       "onboard_time": 1680396986,
-      "rank": 7,
-      "category": "社会新闻,情感"
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 378584,
@@ -147,6 +171,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 363610,
+      "num": 208739,
+      "word": "空心菜 ong菜",
+      "onboard_time": 1680396146,
+      "rank": 30,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 351822,
       "num": 291132,
       "word": "肖战vlog致敬电影罗马假日",
@@ -161,14 +193,6 @@
       "onboard_time": 1680359431,
       "rank": 8,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 329130,
-      "num": 329130,
-      "word": "孙海洋称人贩子吴飞龙案将开庭",
-      "onboard_time": 1680396986,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 315169,
@@ -195,14 +219,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 298999,
-      "num": 155081,
-      "word": "空心菜 ong菜",
-      "onboard_time": 1680396146,
-      "rank": 30,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 296503,
       "num": 296503,
       "word": "梁朝伟刘嘉玲深情怀念哥哥",
@@ -227,12 +243,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 268673,
-      "num": 268673,
-      "word": "朴宝剑胖了",
-      "onboard_time": 1680398369,
-      "rank": 13,
-      "category": "艺人"
+      "raw_hot": 268372,
+      "num": 181972,
+      "word": "专家建议房产税按家庭套数征收",
+      "onboard_time": 1680398008,
+      "rank": 31,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 262475,
@@ -241,14 +257,6 @@
       "onboard_time": 1680391098,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 246647,
-      "num": 175345,
-      "word": "女子吃螺蛳粉把狗熏吐被爸爸没收",
-      "onboard_time": 1680397167,
-      "rank": 22,
-      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 236735,
@@ -355,6 +363,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 190829,
+      "num": 190829,
+      "word": "秋瓷炫吃播视频",
+      "onboard_time": 1680399149,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 190445,
       "num": 190445,
       "word": "生理性抑郁症",
@@ -379,6 +395,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 171792,
+      "num": 171792,
+      "word": "春天真是美好 然而没有钱",
+      "onboard_time": 1680397046,
+      "rank": 26,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 168426,
       "num": 168426,
       "word": "这居然是个香皂",
@@ -395,14 +419,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 164026,
-      "num": 164026,
-      "word": "春天真是美好 然而没有钱",
-      "onboard_time": 1680397046,
-      "rank": 26,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 160859,
       "num": 160859,
       "word": "凉山4.0级地震",
@@ -417,6 +433,14 @@
       "onboard_time": 1680395425,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 159185,
+      "num": 159185,
+      "word": "清明假期免票优惠盘点",
+      "onboard_time": 1680396447,
+      "rank": 32,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 157920,
@@ -451,20 +475,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 147917,
-      "num": 147917,
-      "word": "专家建议房产税按家庭套数征收",
-      "onboard_time": 1680398008,
-      "rank": 31,
-      "category": "财经,社会新闻"
+      "raw_hot": 141793,
+      "num": 141793,
+      "word": "SEVENTEEN出道初VS后期的颜值变化",
+      "onboard_time": 1680391639,
+      "rank": 19,
+      "category": "艺人"
     },
     {
-      "raw_hot": 143966,
-      "num": 143966,
-      "word": "清明假期免票优惠盘点",
-      "onboard_time": 1680396447,
-      "rank": 32,
-      "category": "旅游,社会新闻"
+      "raw_hot": 141792,
+      "num": 141792,
+      "word": "神隐剧组聚餐",
+      "onboard_time": 1680399507,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 141044,
@@ -507,14 +531,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 133579,
-      "num": 133579,
-      "word": "SEVENTEEN出道初VS后期的颜值变化",
-      "onboard_time": 1680391639,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 132271,
       "num": 132271,
       "word": "上课最害怕的事还是发生了",
@@ -529,6 +545,14 @@
       "onboard_time": 1680361532,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 129193,
+      "num": 129193,
+      "word": "朴彩英为金智秀新歌打歌",
+      "onboard_time": 1680397349,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 128885,
@@ -555,11 +579,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 119096,
-      "num": 119096,
-      "word": "朴彩英为金智秀新歌打歌",
-      "onboard_time": 1680397349,
-      "rank": 36,
+      "raw_hot": 118414,
+      "num": 118414,
+      "word": "张杰把听带到了演唱会现场",
+      "onboard_time": 1680393803,
+      "rank": 43,
       "category": "音乐"
     },
     {
@@ -595,6 +619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 107296,
+      "num": 107296,
+      "word": "石家庄马拉松",
+      "onboard_time": 1680398787,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106210,
       "num": 106210,
       "word": "RNG Angel",
@@ -619,12 +651,12 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 97219,
-      "num": 97219,
-      "word": "张杰把听带到了演唱会现场",
-      "onboard_time": 1680393803,
-      "rank": 43,
-      "category": "音乐"
+      "raw_hot": 86947,
+      "num": 86947,
+      "word": "搜救犬飞檐走壁快到重影",
+      "onboard_time": 1680399507,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 83771,
@@ -660,7 +692,7 @@
     },
     {
       "raw_hot": 65799,
-      "num": 1226555,
+      "num": 1258864,
       "word": "桃花映日出迎接四月",
       "onboard_time": 1680360451,
       "rank": 2,

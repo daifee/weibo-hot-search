@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680398764109,
+  "endTime": 1680400066600,
   "band_list": [
     {
       "raw_hot": 10740151,
@@ -51,6 +51,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 2815449,
+      "num": 2815449,
+      "word": "张继科曾陷猴子的救兵加盟纠纷",
+      "onboard_time": 1680396084,
+      "rank": 0,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 2686510,
       "num": 792243,
       "word": "司藤",
@@ -67,14 +75,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 2433039,
-      "num": 2433039,
-      "word": "张继科曾陷猴子的救兵加盟纠纷",
-      "onboard_time": 1680396084,
-      "rank": 0,
-      "category": "社会新闻,体育"
-    },
-    {
       "raw_hot": 2369704,
       "num": 502482,
       "word": "景甜曾说司藤救赎了灰色世界的自己",
@@ -83,8 +83,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1878004,
-      "num": 1878004,
+      "raw_hot": 1988084,
+      "num": 1988084,
       "word": "金晨情绪管理",
       "onboard_time": 1680393623,
       "rank": 1,
@@ -153,6 +153,14 @@
       "onboard_time": 1680339813,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1055081,
+      "num": 268673,
+      "word": "朴宝剑胖了",
+      "onboard_time": 1680398369,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 984593,
@@ -347,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 622841,
+      "num": 190710,
+      "word": "女子逛夜市被1克0.099元整蒙圈",
+      "onboard_time": 1680396386,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 621038,
       "num": 621038,
       "word": "电影营销 狗都看哭了",
@@ -409,14 +425,6 @@
       "onboard_time": 1680275608,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 559074,
-      "num": 181289,
-      "word": "女子逛夜市被1克0.099元整蒙圈",
-      "onboard_time": 1680396386,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 556793,
@@ -512,6 +520,14 @@
       "word": "你平时午睡吗",
       "onboard_time": 1680350428,
       "rank": 9,
+      "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 508652,
+      "num": 508652,
+      "word": "3岁还不主动喊爸爸妈妈要警惕孤独症",
+      "onboard_time": 1680396986,
+      "rank": 7,
       "category": "社会新闻,情感"
     },
     {
@@ -699,12 +715,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 400442,
-      "num": 400442,
-      "word": "3岁还不主动喊爸爸妈妈要警惕孤独症",
-      "onboard_time": 1680396986,
-      "rank": 7,
-      "category": "社会新闻,情感"
+      "raw_hot": 396309,
+      "num": 187277,
+      "word": "女子吃螺蛳粉把狗熏吐被爸爸没收",
+      "onboard_time": 1680397167,
+      "rank": 22,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 392752,
@@ -729,6 +745,14 @@
       "onboard_time": 1680262648,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 379944,
+      "num": 379944,
+      "word": "孙海洋称人贩子吴飞龙案将开庭",
+      "onboard_time": 1680396986,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 378584,
@@ -777,6 +801,14 @@
       "onboard_time": 1680330988,
       "rank": 17,
       "category": "美食"
+    },
+    {
+      "raw_hot": 363610,
+      "num": 208739,
+      "word": "空心菜 ong菜",
+      "onboard_time": 1680396146,
+      "rank": 30,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 356727,
@@ -883,14 +915,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 329130,
-      "num": 329130,
-      "word": "孙海洋称人贩子吴飞龙案将开庭",
-      "onboard_time": 1680396986,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 328858,
       "num": 197305,
       "word": "外交部回应日本外相将访华",
@@ -953,14 +977,6 @@
       "onboard_time": 1680352288,
       "rank": 30,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 298999,
-      "num": 155081,
-      "word": "空心菜 ong菜",
-      "onboard_time": 1680396146,
-      "rank": 30,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 298574,
@@ -1099,12 +1115,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 268673,
-      "num": 268673,
-      "word": "朴宝剑胖了",
-      "onboard_time": 1680398369,
-      "rank": 13,
-      "category": "艺人"
+      "raw_hot": 268372,
+      "num": 181972,
+      "word": "专家建议房产税按家庭套数征收",
+      "onboard_time": 1680398008,
+      "rank": 31,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 262475,
@@ -1193,14 +1209,6 @@
       "onboard_time": 1680327689,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 246647,
-      "num": 175345,
-      "word": "女子吃螺蛳粉把狗熏吐被爸爸没收",
-      "onboard_time": 1680397167,
-      "rank": 22,
-      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 244865,
@@ -1691,6 +1699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 190829,
+      "num": 190829,
+      "word": "秋瓷炫吃播视频",
+      "onboard_time": 1680399149,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 190664,
       "num": 213211,
       "word": "徐明浩愚人节贺图",
@@ -1867,6 +1883,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 171792,
+      "num": 171792,
+      "word": "春天真是美好 然而没有钱",
+      "onboard_time": 1680397046,
+      "rank": 26,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 170111,
       "num": 170111,
       "word": "哪些食材烹饪前必须焯水",
@@ -1995,14 +2019,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 164026,
-      "num": 164026,
-      "word": "春天真是美好 然而没有钱",
-      "onboard_time": 1680397046,
-      "rank": 26,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 162968,
       "num": 162968,
       "word": "邓家佳演的安宁",
@@ -2065,6 +2081,14 @@
       "onboard_time": 1680288013,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 159185,
+      "num": 159185,
+      "word": "清明假期免票优惠盘点",
+      "onboard_time": 1680396447,
+      "rank": 32,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 158542,
@@ -2155,14 +2179,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 147917,
-      "num": 147917,
-      "word": "专家建议房产税按家庭套数征收",
-      "onboard_time": 1680398008,
-      "rank": 31,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 146037,
       "num": 146037,
       "word": "鞠婧祎蓝系穿搭",
@@ -2195,20 +2211,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 143966,
-      "num": 143966,
-      "word": "清明假期免票优惠盘点",
-      "onboard_time": 1680396447,
-      "rank": 32,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 142448,
       "num": 142448,
       "word": "范丞丞白鹿周深撕名牌路透",
       "onboard_time": 1680316469,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 141793,
+      "num": 141793,
+      "word": "SEVENTEEN出道初VS后期的颜值变化",
+      "onboard_time": 1680391639,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 141792,
+      "num": 141792,
+      "word": "神隐剧组聚餐",
+      "onboard_time": 1680399507,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 141397,
@@ -2331,14 +2355,6 @@
       "category": "情感,社会新闻"
     },
     {
-      "raw_hot": 133579,
-      "num": 133579,
-      "word": "SEVENTEEN出道初VS后期的颜值变化",
-      "onboard_time": 1680391639,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 133120,
       "num": 133120,
       "word": "猫猫是怎么告状的",
@@ -2401,6 +2417,14 @@
       "onboard_time": 1680319350,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129193,
+      "num": 129193,
+      "word": "朴彩英为金智秀新歌打歌",
+      "onboard_time": 1680397349,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 129159,
@@ -2539,11 +2563,11 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 119096,
-      "num": 119096,
-      "word": "朴彩英为金智秀新歌打歌",
-      "onboard_time": 1680397349,
-      "rank": 36,
+      "raw_hot": 118414,
+      "num": 118414,
+      "word": "张杰把听带到了演唱会现场",
+      "onboard_time": 1680393803,
+      "rank": 43,
       "category": "音乐"
     },
     {
@@ -2649,6 +2673,14 @@
       "onboard_time": 1680336209,
       "rank": 45,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 107296,
+      "num": 107296,
+      "word": "石家庄马拉松",
+      "onboard_time": 1680398787,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 106410,
@@ -2803,14 +2835,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 97219,
-      "num": 97219,
-      "word": "张杰把听带到了演唱会现场",
-      "onboard_time": 1680393803,
-      "rank": 43,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 97119,
       "num": 97119,
       "word": "国际爱鸟日",
@@ -2881,6 +2905,14 @@
       "onboard_time": 1680256765,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 86947,
+      "num": 86947,
+      "word": "搜救犬飞檐走壁快到重影",
+      "onboard_time": 1680399507,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 85804,
@@ -3012,7 +3044,7 @@
     },
     {
       "raw_hot": 65799,
-      "num": 1226555,
+      "num": 1258864,
       "word": "桃花映日出迎接四月",
       "onboard_time": 1680360451,
       "rank": 2,
