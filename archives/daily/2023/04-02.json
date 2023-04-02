@@ -1,6 +1,6 @@
 {
   "startTime": 1680366074129,
-  "endTime": 1680424403508,
+  "endTime": 1680426912901,
   "band_list": [
     {
       "raw_hot": 4265606,
@@ -27,6 +27,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 2296658,
+      "num": 1741903,
+      "word": "22岁女生在泰国遭绑架虐杀",
+      "onboard_time": 1680422129,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2174661,
       "num": 370500,
       "word": "男生给富婆塞纸条被其丈夫找上门",
@@ -41,14 +49,6 @@
       "onboard_time": 1680393623,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1966682,
-      "num": 1741903,
-      "word": "22岁女生在泰国遭绑架虐杀",
-      "onboard_time": 1680422129,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1833746,
@@ -171,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 879886,
+      "num": 879886,
+      "word": "唐嫣植入闹乌龙",
+      "onboard_time": 1680423508,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 862548,
       "num": 224085,
       "word": "李微敖 张继科",
@@ -179,7 +187,7 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 808993,
+      "raw_hot": 840632,
       "num": 517068,
       "word": "罗志祥以朱碧石身份上泰国节目",
       "onboard_time": 1680422850,
@@ -209,6 +217,14 @@
       "onboard_time": 1680353668,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 722941,
+      "num": 370145,
+      "word": "汪峰女儿小苹果17岁近照",
+      "onboard_time": 1680422670,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 715530,
@@ -251,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 608697,
+      "num": 608697,
+      "word": "陈晓缺了两颗牙",
+      "onboard_time": 1680424649,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 590204,
       "num": 304593,
       "word": "八年前愚人节的TFBOYS",
@@ -259,12 +283,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 545865,
-      "num": 370145,
-      "word": "汪峰女儿小苹果17岁近照",
-      "onboard_time": 1680422670,
-      "rank": 12,
-      "category": "艺人"
+      "raw_hot": 554379,
+      "num": 554379,
+      "word": "刘少昂入籍首金",
+      "onboard_time": 1680423749,
+      "rank": 15,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 540082,
@@ -323,14 +347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 446425,
-      "num": 446425,
-      "word": "唐嫣植入闹乌龙",
-      "onboard_time": 1680423508,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 423067,
       "num": 423067,
       "word": "王俊凯或将出演贾樟柯新电影",
@@ -345,6 +361,14 @@
       "onboard_time": 1680397167,
       "rank": 22,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 408094,
+      "num": 408094,
+      "word": "哇唧唧哇",
+      "onboard_time": 1680421888,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 403926,
@@ -385,14 +409,6 @@
       "onboard_time": 1680394527,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 371825,
-      "num": 371825,
-      "word": "哇唧唧哇",
-      "onboard_time": 1680421888,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 370206,
@@ -483,14 +499,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 306058,
-      "num": 306058,
-      "word": "刘少昂入籍首金",
-      "onboard_time": 1680423749,
-      "rank": 15,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 304766,
       "num": 304766,
       "word": "周冠宇",
@@ -529,6 +537,14 @@
       "onboard_time": 1680408929,
       "rank": 27,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 289588,
+      "num": 289588,
+      "word": "上海杜莎易烊千玺双蜡像",
+      "onboard_time": 1680425909,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 280919,
@@ -619,12 +635,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 247559,
+      "num": 247559,
+      "word": "博主吐槽云南旅游遇路边摊刺客",
+      "onboard_time": 1680421349,
+      "rank": 17,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 246183,
       "num": 205898,
       "word": "大学生重新定义交换生",
       "onboard_time": 1680419488,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 240622,
+      "num": 228076,
+      "word": "柳智敏中短发造型",
+      "onboard_time": 1680425309,
+      "rank": 23,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 240507,
@@ -635,12 +667,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 239926,
-      "num": 239926,
-      "word": "博主吐槽云南旅游遇路边摊刺客",
-      "onboard_time": 1680421349,
+      "raw_hot": 238544,
+      "num": 238544,
+      "word": "恋与制作人",
+      "onboard_time": 1680425309,
       "rank": 17,
-      "category": "社会新闻,旅游"
+      "category": "游戏"
     },
     {
       "raw_hot": 236735,
@@ -659,12 +691,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 235994,
+      "num": 235994,
+      "word": "园方回应与虎同住1小时奖10万",
+      "onboard_time": 1680423629,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 227355,
       "num": 227355,
       "word": "罗晋晒照怀念张国荣",
       "onboard_time": 1680364649,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 227007,
+      "num": 227007,
+      "word": "Newjeans的HypeBoy获人歌一位",
+      "onboard_time": 1680423449,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 226390,
@@ -689,14 +737,6 @@
       "onboard_time": 1680405869,
       "rank": 28,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 217120,
-      "num": 217120,
-      "word": "Newjeans的HypeBoy获人歌一位",
-      "onboard_time": 1680423449,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 216149,
@@ -955,6 +995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 186371,
+      "num": 186371,
+      "word": "不要反复回味不愉快的事",
+      "onboard_time": 1680426150,
+      "rank": 28,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 184746,
       "num": 199243,
       "word": "全国短道速滑冠军赛",
@@ -985,6 +1033,14 @@
       "onboard_time": 1680413428,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 176624,
+      "num": 176624,
+      "word": "狂飙高启盛现场观战短道冠军赛",
+      "onboard_time": 1680426269,
+      "rank": 30,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 176178,
@@ -1065,6 +1121,14 @@
       "onboard_time": 1680407007,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 162436,
+      "num": 162436,
+      "word": "2000多名学生徒步54公里祭英烈",
+      "onboard_time": 1680425668,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 160859,
@@ -1155,14 +1219,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 154020,
-      "num": 154020,
-      "word": "园方回应与虎同住1小时奖10万",
-      "onboard_time": 1680423629,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 153600,
       "num": 153600,
       "word": "点名到王伟全场学生齐答三声到",
@@ -1240,6 +1296,14 @@
       "word": "白敬亭青岛上海转场视频",
       "onboard_time": 1680404546,
       "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 145336,
+      "num": 145336,
+      "word": "赵露思胶卷风随拍",
+      "onboard_time": 1680424590,
+      "rank": 39,
       "category": "艺人"
     },
     {
@@ -1371,6 +1435,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 131244,
+      "num": 131244,
+      "word": "水果星球live现场播爱情而已",
+      "onboard_time": 1680425969,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 131041,
       "num": 131041,
       "word": "深海",
@@ -1427,6 +1499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 123144,
+      "num": 576847,
+      "word": "春天的花花美到挪不开眼",
+      "onboard_time": 1680424352,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 122835,
       "num": 122835,
       "word": "当狗狗和好朋友开视频时",
@@ -1449,6 +1529,14 @@
       "onboard_time": 1680403647,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 119649,
+      "num": 119649,
+      "word": "白鹿还原黎苏苏台词",
+      "onboard_time": 1680426091,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 118414,
@@ -1713,14 +1801,6 @@
       "onboard_time": 1680383591,
       "rank": 49,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 6077,
-      "num": 534376,
-      "word": "春天的花花美到挪不开眼",
-      "onboard_time": 1680424352,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

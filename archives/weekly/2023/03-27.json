@@ -1,6 +1,6 @@
 {
   "startTime": 1679847731504,
-  "endTime": 1680424403508,
+  "endTime": 1680426912901,
   "band_list": [
     {
       "raw_hot": 12970403,
@@ -307,6 +307,14 @@
       "category": "财经,艺人"
     },
     {
+      "raw_hot": 2296658,
+      "num": 1741903,
+      "word": "22岁女生在泰国遭绑架虐杀",
+      "onboard_time": 1680422129,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2235754,
       "num": 2235754,
       "word": "女子地铁照被AI一键脱衣传播",
@@ -401,14 +409,6 @@
       "onboard_time": 1680061947,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1966682,
-      "num": 1741903,
-      "word": "22岁女生在泰国遭绑架虐杀",
-      "onboard_time": 1680422129,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1947401,
@@ -1779,6 +1779,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 879886,
+      "num": 879886,
+      "word": "唐嫣植入闹乌龙",
+      "onboard_time": 1680423508,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 878294,
       "num": 733377,
       "word": "ChatGPT替代不了水瓶射手双子",
@@ -1875,6 +1883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 840632,
+      "num": 517068,
+      "word": "罗志祥以朱碧石身份上泰国节目",
+      "onboard_time": 1680422850,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 833605,
       "num": 403886,
       "word": "肖战说自己是社恐",
@@ -1961,14 +1977,6 @@
       "onboard_time": 1680021681,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 808993,
-      "num": 517068,
-      "word": "罗志祥以朱碧石身份上泰国节目",
-      "onboard_time": 1680422850,
-      "rank": 9,
-      "category": "艺人"
     },
     {
       "raw_hot": 806649,
@@ -2273,6 +2281,14 @@
       "onboard_time": 1680011968,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 722941,
+      "num": 370145,
+      "word": "汪峰女儿小苹果17岁近照",
+      "onboard_time": 1680422670,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 720045,
@@ -2939,6 +2955,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 608697,
+      "num": 608697,
+      "word": "陈晓缺了两颗牙",
+      "onboard_time": 1680424649,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 608690,
       "num": 608690,
       "word": "微博之夜战报",
@@ -3363,6 +3387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 554379,
+      "num": 554379,
+      "word": "刘少昂入籍首金",
+      "onboard_time": 1680423749,
+      "rank": 15,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 551118,
       "num": 551118,
       "word": "魔卡少女樱续作",
@@ -3401,14 +3433,6 @@
       "onboard_time": 1680252085,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 545865,
-      "num": 370145,
-      "word": "汪峰女儿小苹果17岁近照",
-      "onboard_time": 1680422670,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 543719,
@@ -4419,14 +4443,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 446425,
-      "num": 446425,
-      "word": "唐嫣植入闹乌龙",
-      "onboard_time": 1680423508,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 446179,
       "num": 446179,
       "word": "王国之泪限定机公开",
@@ -4777,6 +4793,14 @@
       "onboard_time": 1679923531,
       "rank": 17,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 408094,
+      "num": 408094,
+      "word": "哇唧唧哇",
+      "onboard_time": 1680421888,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 406936,
@@ -5281,14 +5305,6 @@
       "onboard_time": 1680247945,
       "rank": 48,
       "category": "科技"
-    },
-    {
-      "raw_hot": 371825,
-      "num": 371825,
-      "word": "哇唧唧哇",
-      "onboard_time": 1680421888,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 371415,
@@ -6195,14 +6211,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 306058,
-      "num": 306058,
-      "word": "刘少昂入籍首金",
-      "onboard_time": 1680423749,
-      "rank": 15,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 305780,
       "num": 237490,
       "word": "范丞丞被叫丞丞哥哥的反应",
@@ -6577,6 +6585,14 @@
       "onboard_time": 1680271770,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 289588,
+      "num": 289588,
+      "word": "上海杜莎易烊千玺双蜡像",
+      "onboard_time": 1680425909,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 289088,
@@ -7691,6 +7707,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 247559,
+      "num": 247559,
+      "word": "博主吐槽云南旅游遇路边摊刺客",
+      "onboard_time": 1680421349,
+      "rank": 17,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 247039,
       "num": 268873,
       "word": "每个月都会收到男友送的玩偶",
@@ -7803,6 +7827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 240622,
+      "num": 228076,
+      "word": "柳智敏中短发造型",
+      "onboard_time": 1680425309,
+      "rank": 23,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 240507,
       "num": 240507,
       "word": "狼队王者荣耀",
@@ -7819,14 +7851,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 239926,
-      "num": 239926,
-      "word": "博主吐槽云南旅游遇路边摊刺客",
-      "onboard_time": 1680421349,
-      "rank": 17,
-      "category": "社会新闻,旅游"
-    },
-    {
       "raw_hot": 239517,
       "num": 215909,
       "word": "小狗嘴里有好多小手套",
@@ -7841,6 +7865,14 @@
       "onboard_time": 1679970627,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 238544,
+      "num": 238544,
+      "word": "恋与制作人",
+      "onboard_time": 1680425309,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 238449,
@@ -7897,6 +7929,14 @@
       "onboard_time": 1680083967,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 235994,
+      "num": 235994,
+      "word": "园方回应与虎同住1小时奖10万",
+      "onboard_time": 1680423629,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 235673,
@@ -8121,6 +8161,14 @@
       "onboard_time": 1680364649,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 227007,
+      "num": 227007,
+      "word": "Newjeans的HypeBoy获人歌一位",
+      "onboard_time": 1680423449,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 226930,
@@ -8497,14 +8545,6 @@
       "onboard_time": 1679886389,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 217120,
-      "num": 217120,
-      "word": "Newjeans的HypeBoy获人歌一位",
-      "onboard_time": 1680423449,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 217091,
@@ -10531,6 +10571,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 186371,
+      "num": 186371,
+      "word": "不要反复回味不愉快的事",
+      "onboard_time": 1680426150,
+      "rank": 28,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 186185,
       "num": 186185,
       "word": "白鹿古堡公主",
@@ -11049,6 +11097,14 @@
       "onboard_time": 1679848280,
       "rank": 18,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 176624,
+      "num": 176624,
+      "word": "狂飙高启盛现场观战短道冠军赛",
+      "onboard_time": 1680426269,
+      "rank": 30,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 176575,
@@ -11755,6 +11811,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 162436,
+      "num": 162436,
+      "word": "2000多名学生徒步54公里祭英烈",
+      "onboard_time": 1680425668,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162410,
       "num": 162410,
       "word": "王楚钦小组第1出线",
@@ -12179,14 +12243,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 154020,
-      "num": 154020,
-      "word": "园方回应与虎同住1小时奖10万",
-      "onboard_time": 1680423629,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 153600,
       "num": 153600,
       "word": "点名到王伟全场学生齐答三声到",
@@ -12576,6 +12632,14 @@
       "word": "白敬亭青岛上海转场视频",
       "onboard_time": 1680404546,
       "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 145336,
+      "num": 145336,
+      "word": "赵露思胶卷风随拍",
+      "onboard_time": 1680424590,
+      "rank": 39,
       "category": "艺人"
     },
     {
@@ -13299,6 +13363,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 131244,
+      "num": 131244,
+      "word": "水果星球live现场播爱情而已",
+      "onboard_time": 1680425969,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 130995,
       "num": 130995,
       "word": "蔡徐坤黑夹克日内瓦随拍",
@@ -13755,6 +13827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 123144,
+      "num": 576847,
+      "word": "春天的花花美到挪不开眼",
+      "onboard_time": 1680424352,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123009,
       "num": 123009,
       "word": "王鹤棣闪光灯变装视频",
@@ -13961,6 +14041,14 @@
       "onboard_time": 1680403647,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 119649,
+      "num": 119649,
+      "word": "白鹿还原黎苏苏台词",
+      "onboard_time": 1680426091,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 119517,
@@ -15777,14 +15865,6 @@
       "onboard_time": 1680073227,
       "rank": 39,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 6077,
-      "num": 534376,
-      "word": "春天的花花美到挪不开眼",
-      "onboard_time": 1680424352,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
