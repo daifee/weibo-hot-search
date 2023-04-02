@@ -1,10 +1,10 @@
 {
   "startTime": 1680366074129,
-  "endTime": 1680439608633,
+  "endTime": 1680441492809,
   "band_list": [
     {
-      "raw_hot": 5798207,
-      "num": 5798207,
+      "raw_hot": 10494568,
+      "num": 10494568,
       "word": "坂本龙一去世",
       "onboard_time": 1680438989,
       "rank": 0,
@@ -131,6 +131,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1157847,
+      "num": 707764,
+      "word": "律师解读张继科景甜视频风波",
+      "onboard_time": 1680437067,
+      "rank": 13,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1151356,
       "num": 1151356,
       "word": "陈晓缺了两颗牙",
@@ -212,7 +220,7 @@
     },
     {
       "raw_hot": 876639,
-      "num": 331457,
+      "num": 355857,
       "word": "马嘉祺只有51公斤",
       "onboard_time": 1680434426,
       "rank": 13,
@@ -220,7 +228,7 @@
     },
     {
       "raw_hot": 862548,
-      "num": 225209,
+      "num": 230521,
       "word": "李微敖 张继科",
       "onboard_time": 1680326491,
       "rank": 20,
@@ -228,7 +236,7 @@
     },
     {
       "raw_hot": 843604,
-      "num": 329495,
+      "num": 359051,
       "word": "王岳伦陪王诗龄理发",
       "onboard_time": 1680435806,
       "rank": 11,
@@ -291,12 +299,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 707764,
-      "num": 707764,
-      "word": "律师解读张继科景甜视频风波",
-      "onboard_time": 1680437067,
-      "rank": 13,
-      "category": "社会新闻,艺人"
+      "raw_hot": 679732,
+      "num": 257220,
+      "word": "夫妻结婚6年因3岁儿子转学想离婚",
+      "onboard_time": 1680438688,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 664365,
+      "num": 664365,
+      "word": "学校回应2000学生徒步54公里祭英烈",
+      "onboard_time": 1680438148,
+      "rank": 36,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 660013,
@@ -337,6 +353,14 @@
       "onboard_time": 1680431486,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 592571,
+      "num": 592571,
+      "word": "这一段路马英九走了73年",
+      "onboard_time": 1680436828,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 590204,
@@ -385,14 +409,6 @@
       "onboard_time": 1680433288,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 515516,
-      "num": 515516,
-      "word": "这一段路马英九走了73年",
-      "onboard_time": 1680436828,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 515282,
@@ -451,12 +467,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 465631,
+      "num": 465631,
+      "word": "坂本龙一曾举办最后的音乐会",
+      "onboard_time": 1680440736,
+      "rank": 6,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 453959,
       "num": 453959,
       "word": "上海5平方米的loft长啥样",
       "onboard_time": 1680361291,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 431058,
+      "num": 257557,
+      "word": "黄明昊跳了姐姐真漂亮",
+      "onboard_time": 1680436948,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 423067,
@@ -531,20 +563,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 379841,
+      "num": 379841,
+      "word": "张杰演唱会",
+      "onboard_time": 1680401488,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 378584,
       "num": 378584,
       "word": "双马一矿通报与孙国友协商进展",
       "onboard_time": 1680394527,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 373611,
-      "num": 257557,
-      "word": "黄明昊跳了姐姐真漂亮",
-      "onboard_time": 1680436948,
-      "rank": 23,
-      "category": "音乐"
     },
     {
       "raw_hot": 370206,
@@ -563,12 +595,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 362055,
-      "num": 362055,
-      "word": "学校回应2000学生徒步54公里祭英烈",
-      "onboard_time": 1680438148,
-      "rank": 36,
-      "category": "社会新闻,教育"
+      "raw_hot": 366822,
+      "num": 366822,
+      "word": "圣诞快乐劳伦斯先生",
+      "onboard_time": 1680440433,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 353715,
@@ -619,20 +651,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 344550,
+      "num": 344550,
+      "word": "TXT演唱会裤子",
+      "onboard_time": 1680439471,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 341658,
       "num": 341658,
       "word": "白鹿找镜头",
       "onboard_time": 1680428848,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 331851,
-      "num": 331851,
-      "word": "张杰演唱会",
-      "onboard_time": 1680401488,
-      "rank": 18,
-      "category": "音乐"
     },
     {
       "raw_hot": 324672,
@@ -672,14 +704,6 @@
       "word": "2000多名学生徒步54公里祭英烈",
       "onboard_time": 1680425668,
       "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 312495,
-      "num": 257220,
-      "word": "夫妻结婚6年因3岁儿子转学想离婚",
-      "onboard_time": 1680438688,
-      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -731,6 +755,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 293994,
+      "num": 293994,
+      "word": "OMG对战TES",
+      "onboard_time": 1680429150,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 293785,
       "num": 210145,
       "word": "肖战杂志怼脸镜头",
@@ -739,20 +771,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 286923,
+      "num": 256846,
+      "word": "白鹿说长月烬明是绝世大甜剧",
+      "onboard_time": 1680437187,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 280919,
       "num": 280919,
       "word": "谭松韵叫秦岚大狗子",
       "onboard_time": 1680402568,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 280056,
-      "num": 280056,
-      "word": "OMG对战TES",
-      "onboard_time": 1680429150,
-      "rank": 43,
-      "category": "游戏"
     },
     {
       "raw_hot": 279797,
@@ -819,14 +851,6 @@
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 264740,
-      "num": 256846,
-      "word": "白鹿说长月烬明是绝世大甜剧",
-      "onboard_time": 1680437187,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 262475,
       "num": 262475,
       "word": "高铁乘客突发疾病幸好遇到医生天团",
@@ -859,20 +883,20 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 254068,
+      "num": 245238,
+      "word": "怀疑夫子庙的猫认识字",
+      "onboard_time": 1680436588,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 253735,
       "num": 253735,
       "word": "郭柯宇 爱情而已",
       "onboard_time": 1680396447,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 252141,
-      "num": 245238,
-      "word": "怀疑夫子庙的猫认识字",
-      "onboard_time": 1680436588,
-      "rank": 26,
-      "category": "幽默"
     },
     {
       "raw_hot": 250598,
@@ -979,6 +1003,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 229702,
+      "num": 229702,
+      "word": "宋亚轩给鼠标穿裙子",
+      "onboard_time": 1680435868,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 227355,
       "num": 227355,
       "word": "罗晋晒照怀念张国荣",
@@ -1003,6 +1035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 225643,
+      "num": 225643,
+      "word": "卡位赛",
+      "onboard_time": 1680440136,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 222730,
       "num": 222730,
       "word": "山东一采煤塌陷地养出大珍珠",
@@ -1019,20 +1059,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 219936,
+      "num": 259485,
+      "word": "我的耳朵被咬了",
+      "onboard_time": 1680437847,
+      "rank": 35,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 219248,
       "num": 210863,
       "word": "邓为生图",
       "onboard_time": 1680426990,
       "rank": 24,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 219101,
-      "num": 219101,
-      "word": "宋亚轩给鼠标穿裙子",
-      "onboard_time": 1680435868,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 216149,
@@ -1121,14 +1161,6 @@
       "onboard_time": 1680430108,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 205337,
-      "num": 259485,
-      "word": "我的耳朵被咬了",
-      "onboard_time": 1680437847,
-      "rank": 35,
-      "category": "时尚"
     },
     {
       "raw_hot": 205288,
@@ -2003,14 +2035,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 119430,
-      "num": 119430,
-      "word": "TXT演唱会裤子",
-      "onboard_time": 1680439471,
-      "rank": 45,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 118414,
       "num": 118414,
       "word": "张杰把听带到了演唱会现场",
@@ -2115,6 +2139,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 103895,
+      "num": 103895,
+      "word": "李沁眼神戏",
+      "onboard_time": 1680441215,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 103658,
       "num": 103658,
       "word": "灿烂的转身爱情线",
@@ -2177,6 +2209,14 @@
       "onboard_time": 1680404847,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 91160,
+      "num": 91160,
+      "word": "WB对战狼队",
+      "onboard_time": 1680441453,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 88202,
