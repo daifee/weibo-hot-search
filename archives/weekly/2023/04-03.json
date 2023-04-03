@@ -1,6 +1,6 @@
 {
   "startTime": 1680452464197,
-  "endTime": 1680518012260,
+  "endTime": 1680520456938,
   "band_list": [
     {
       "raw_hot": 9506486,
@@ -59,19 +59,19 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 4666686,
+      "num": 951847,
+      "word": "张继科不愿意处在风口浪尖上",
+      "onboard_time": 1680513754,
+      "rank": 16,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 4578265,
       "num": 4371193,
       "word": "张继科曾多次被曝涉赌",
       "onboard_time": 1680503971,
       "rank": 10,
-      "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 3976994,
-      "num": 421926,
-      "word": "张继科不愿意处在风口浪尖上",
-      "onboard_time": 1680513754,
-      "rank": 16,
       "category": "社会新闻,艺人"
     },
     {
@@ -81,6 +81,22 @@
       "onboard_time": 1680512909,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 3220924,
+      "num": 3220924,
+      "word": "韩国男爱豆猥亵队友被判刑",
+      "onboard_time": 1680517229,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2556209,
+      "num": 1018945,
+      "word": "BAP力灿承认猥亵队友",
+      "onboard_time": 1680518796,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 2349128,
@@ -140,7 +156,7 @@
     },
     {
       "raw_hot": 1704155,
-      "num": 369912,
+      "num": 410546,
       "word": "张继科方准备起诉",
       "onboard_time": 1680411988,
       "rank": 21,
@@ -196,7 +212,7 @@
     },
     {
       "raw_hot": 1310784,
-      "num": 305350,
+      "num": 331176,
       "word": "多家代言公司回应张继科事件",
       "onboard_time": 1680506070,
       "rank": 38,
@@ -227,14 +243,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1139933,
-      "num": 1139933,
-      "word": "韩国男爱豆猥亵队友被判刑",
-      "onboard_time": 1680517229,
-      "rank": 1,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1100322,
       "num": 1100322,
       "word": "真实地活下去 不要忘记每天看月亮",
@@ -244,7 +252,7 @@
     },
     {
       "raw_hot": 1098426,
-      "num": 316105,
+      "num": 386490,
       "word": "传播女友隐私是否构成犯罪",
       "onboard_time": 1680507570,
       "rank": 16,
@@ -291,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 928125,
+      "num": 928125,
+      "word": "鹭卓 抄袭",
+      "onboard_time": 1680517474,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 905565,
       "num": 848508,
       "word": "建议每天最少走7000步",
@@ -321,6 +337,22 @@
       "onboard_time": 1680499471,
       "rank": 42,
       "category": "科技"
+    },
+    {
+      "raw_hot": 853344,
+      "num": 853344,
+      "word": "人民文娱评李宇春的代言态度",
+      "onboard_time": 1680519334,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 841833,
+      "num": 841833,
+      "word": "上海医生杀妻案岳母带小孩连夜搬家",
+      "onboard_time": 1680518554,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 837448,
@@ -635,6 +667,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 441352,
+      "num": 441352,
+      "word": "WBG对战BLG",
+      "onboard_time": 1680515553,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 440036,
       "num": 440036,
       "word": "他是谁",
@@ -731,6 +771,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 392831,
+      "num": 392831,
+      "word": "医院手推床轮子脱落孕妇摔下床",
+      "onboard_time": 1680516814,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 390344,
       "num": 390344,
       "word": "SEVENTEEN歌单",
@@ -795,14 +843,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 350247,
-      "num": 350247,
-      "word": "鹭卓 抄袭",
-      "onboard_time": 1680517474,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 348410,
       "num": 248969,
       "word": "夫妻结婚6年因3岁儿子转学想离婚",
@@ -827,20 +867,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 343433,
+      "num": 343433,
+      "word": "金玟庭韩国VOGUE杂志大片",
+      "onboard_time": 1680517773,
+      "rank": 33,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 342684,
       "num": 342684,
       "word": "迪丽热巴拍公诉的理由",
       "onboard_time": 1680508531,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 333154,
-      "num": 333154,
-      "word": "WBG对战BLG",
-      "onboard_time": 1680515553,
-      "rank": 18,
-      "category": "游戏"
     },
     {
       "raw_hot": 328950,
@@ -897,6 +937,14 @@
       "onboard_time": 1680448003,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 291569,
+      "num": 291569,
+      "word": "张继科曾直播上厕所",
+      "onboard_time": 1680520114,
+      "rank": 26,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 291542,
@@ -971,6 +1019,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 271631,
+      "num": 271631,
+      "word": "为什么长月烬明是敦煌风",
+      "onboard_time": 1680518313,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 271098,
       "num": 271098,
       "word": "柯南贝克街亡灵数字生命版预告",
@@ -993,14 +1049,6 @@
       "onboard_time": 1680506912,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 266514,
-      "num": 266514,
-      "word": "医院手推床轮子脱落孕妇摔下床",
-      "onboard_time": 1680516814,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 262004,
@@ -1371,14 +1419,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 198016,
-      "num": 198016,
-      "word": "金玟庭韩国VOGUE杂志大片",
-      "onboard_time": 1680517773,
-      "rank": 33,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 197002,
       "num": 186002,
       "word": "吃麻辣烫最省钱的操作",
@@ -1475,12 +1515,28 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 188032,
+      "num": 188032,
+      "word": "宋三川学花泽类倒立",
+      "onboard_time": 1680519453,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 186454,
       "num": 186454,
       "word": "一起来看演唱会",
       "onboard_time": 1680504870,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 185966,
+      "num": 185966,
+      "word": "原来狗子上班也会变丑",
+      "onboard_time": 1680519513,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 181209,
@@ -1699,6 +1755,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 140298,
+      "num": 140298,
+      "word": "他是谁88案告破",
+      "onboard_time": 1680520414,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 139454,
       "num": 139454,
       "word": "4AM夺冠",
@@ -1713,6 +1777,14 @@
       "onboard_time": 1680489267,
       "rank": 46,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 135873,
+      "num": 135873,
+      "word": "童瑶造型RCFA全球最佳红毯",
+      "onboard_time": 1680518796,
+      "rank": 47,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 131219,
