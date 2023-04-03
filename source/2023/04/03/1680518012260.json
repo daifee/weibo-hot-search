@@ -1,0 +1,410 @@
+{
+  "runTime": 1680518012260,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1378878,
+        "num": 1378878,
+        "word": "家长为14岁娃办清华升学宴发现被骗",
+        "onboard_time": 1680512792,
+        "rank": 0,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1139933,
+        "num": 1139933,
+        "word": "韩国男爱豆猥亵队友被判刑",
+        "onboard_time": 1680517229,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 7962,
+        "num": 955474,
+        "word": "第六届数字中国建设峰会新闻发布会",
+        "onboard_time": 1680488489,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 4878592,
+        "num": 912328,
+        "word": "刘维 户口本上只有我自己了",
+        "onboard_time": 1680512730,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2925398,
+        "num": 905601,
+        "word": "刘国梁",
+        "onboard_time": 1680512909,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 860190,
+        "num": 860190,
+        "word": "还得是伊能静",
+        "onboard_time": 1680515675,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 694164,
+        "num": 694164,
+        "word": "长月烬明可以自己调滤镜",
+        "onboard_time": 1680516271,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 693251,
+        "num": 693251,
+        "word": "武汉大暴雨白天秒变黑夜",
+        "onboard_time": 1680507929,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 440036,
+        "num": 440036,
+        "word": "他是谁",
+        "onboard_time": 1680516153,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 428491,
+        "num": 428491,
+        "word": "不要在职场把自己当小孩",
+        "onboard_time": 1680509973,
+        "rank": 9,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 3976994,
+        "num": 421926,
+        "word": "张继科不愿意处在风口浪尖上",
+        "onboard_time": 1680513754,
+        "rank": 10,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 409080,
+        "num": 409080,
+        "word": "北京发布明星广告代言新规",
+        "onboard_time": 1680516093,
+        "rank": 11,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 374141,
+        "num": 374141,
+        "word": "NewJeans新曲Zero",
+        "onboard_time": 1680514112,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 2496792,
+        "num": 368462,
+        "word": "张继科曾多次被曝涉赌",
+        "onboard_time": 1680503971,
+        "rank": 13,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 361315,
+        "num": 361315,
+        "word": "建议每天最少走7000步",
+        "onboard_time": 1680507209,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350247,
+        "num": 350247,
+        "word": "鹭卓 抄袭",
+        "onboard_time": 1680517474,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1737205,
+        "num": 341870,
+        "word": "安踏删除张继科宣传物料",
+        "onboard_time": 1680497915,
+        "rank": 16,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 333154,
+        "num": 333154,
+        "word": "WBG对战BLG",
+        "onboard_time": 1680515553,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 303988,
+        "num": 303988,
+        "word": "主持人时期的彭小苒",
+        "onboard_time": 1680494855,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1154801,
+        "num": 303834,
+        "word": "张继科曾在直播间直言安踏鞋丑",
+        "onboard_time": 1680509012,
+        "rank": 19,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 473971,
+        "num": 302672,
+        "word": "姐弟坠亡案母亲称绝不放过叶诚尘",
+        "onboard_time": 1680502531,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359725,
+        "num": 300279,
+        "word": "肖战回应形象变化",
+        "onboard_time": 1680494072,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 439621,
+        "num": 300043,
+        "word": "多家代言公司回应张继科事件",
+        "onboard_time": 1680506070,
+        "rank": 22,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 298990,
+        "num": 298990,
+        "word": "网友给白鹿P的妆容",
+        "onboard_time": 1680512730,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 277229,
+        "num": 277229,
+        "word": "泰坦尼克号",
+        "onboard_time": 1680509674,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 343942,
+        "num": 275594,
+        "word": "张继科方准备起诉",
+        "onboard_time": 1680411988,
+        "rank": 25,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 291361,
+        "num": 271613,
+        "word": "长月烬明",
+        "onboard_time": 1680512551,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 266514,
+        "num": 266514,
+        "word": "医院手推床轮子脱落孕妇摔下床",
+        "onboard_time": 1680516814,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334665,
+        "num": 257507,
+        "word": "传播女友隐私是否构成犯罪",
+        "onboard_time": 1680507570,
+        "rank": 28,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 227806,
+        "num": 227806,
+        "word": "易烊千玺顺毛眼镜造型",
+        "onboard_time": 1680509012,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 207556,
+        "num": 207556,
+        "word": "张小斐的锁骨痣",
+        "onboard_time": 1680515616,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 245605,
+        "num": 206575,
+        "word": "你不需要把任何人神格化",
+        "onboard_time": 1680515012,
+        "rank": 31,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 203106,
+        "num": 203106,
+        "word": "神隐直播",
+        "onboard_time": 1680517773,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 198016,
+        "num": 198016,
+        "word": "金玟庭韩国VOGUE杂志大片",
+        "onboard_time": 1680517773,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 194997,
+        "num": 194997,
+        "word": "上班如上坟",
+        "onboard_time": 1680504209,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 193127,
+        "num": 193127,
+        "word": "浪漫医生金师傅剧照公开",
+        "onboard_time": 1680516570,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189979,
+        "num": 189979,
+        "word": "张继科借条",
+        "onboard_time": 1680442296,
+        "rank": 36,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 189446,
+        "num": 189446,
+        "word": "虞书欣韩国街边随拍",
+        "onboard_time": 1680498096,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186382,
+        "num": 186382,
+        "word": "外交部对坂本龙一去世表示哀悼",
+        "onboard_time": 1680510813,
+        "rank": 38,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 186941,
+        "num": 186379,
+        "word": "李微敖 张继科",
+        "onboard_time": 1680326491,
+        "rank": 39,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 186364,
+        "num": 186364,
+        "word": "警方通报上海一男子因纠纷杀害妻子",
+        "onboard_time": 1680499830,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166828,
+        "num": 166828,
+        "word": "在宇宙中写诗的科幻小片",
+        "onboard_time": 1680517654,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176818,
+        "num": 166349,
+        "word": "张继科年收入曾达6000万元",
+        "onboard_time": 1680490529,
+        "rank": 42,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 163823,
+        "num": 163823,
+        "word": "新海诚说铃芽和草太是战友情",
+        "onboard_time": 1680513391,
+        "rank": 43,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 152205,
+        "num": 152205,
+        "word": "UP主列举B站7大问题",
+        "onboard_time": 1680499471,
+        "rank": 44,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 144488,
+        "num": 144488,
+        "word": "迪丽热巴拍公诉的理由",
+        "onboard_time": 1680508531,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 143980,
+        "num": 143980,
+        "word": "没见过长这么大耳朵的狗",
+        "onboard_time": 1680511952,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141518,
+        "num": 141518,
+        "word": "他是谁全员告别",
+        "onboard_time": 1680514415,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 107174,
+        "num": 141226,
+        "word": "王者荣耀杨玉环",
+        "onboard_time": 1680496537,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 51019,
+        "num": 141082,
+        "word": "棉花糖拉丝蛋卷",
+        "onboard_time": 1680514112,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#英雄从未离去我们不会忘记#"
+    }
+  }
+}

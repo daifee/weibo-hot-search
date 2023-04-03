@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680517108428,
+  "endTime": 1680518012260,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -107,20 +107,20 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 3976994,
+      "num": 421926,
+      "word": "张继科不愿意处在风口浪尖上",
+      "onboard_time": 1680513754,
+      "rank": 16,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 3557600,
       "num": 3557600,
       "word": "刘国梁",
       "onboard_time": 1680512909,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 3215459,
-      "num": 350935,
-      "word": "张继科不愿意处在风口浪尖上",
-      "onboard_time": 1680513754,
-      "rank": 16,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 3054432,
@@ -347,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1378878,
+      "num": 1378878,
+      "word": "家长为14岁娃办清华升学宴发现被骗",
+      "onboard_time": 1680512792,
+      "rank": 17,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1350707,
       "num": 1350707,
       "word": "8日起丫丫起居全部移交中方人员",
@@ -435,6 +443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1139933,
+      "num": 1139933,
+      "word": "韩国男爱豆猥亵队友被判刑",
+      "onboard_time": 1680517229,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1136916,
       "num": 1136916,
       "word": "RNG提前进入夏季赛",
@@ -497,14 +513,6 @@
       "onboard_time": 1680398369,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1040394,
-      "num": 1040394,
-      "word": "家长为14岁娃办清华升学宴发现被骗",
-      "onboard_time": 1680512792,
-      "rank": 17,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1017908,
@@ -673,6 +681,14 @@
       "onboard_time": 1680489508,
       "rank": 39,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 860190,
+      "num": 860190,
+      "word": "还得是伊能静",
+      "onboard_time": 1680515675,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 857878,
@@ -915,6 +931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 694164,
+      "num": 694164,
+      "word": "长月烬明可以自己调滤镜",
+      "onboard_time": 1680516271,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 692007,
       "num": 692007,
       "word": "乘风破浪 翻红",
@@ -953,14 +977,6 @@
       "onboard_time": 1680312146,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 670076,
-      "num": 670076,
-      "word": "还得是伊能静",
-      "onboard_time": 1680515675,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 666592,
@@ -1667,6 +1683,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 440036,
+      "num": 440036,
+      "word": "他是谁",
+      "onboard_time": 1680435207,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 438162,
       "num": 438162,
       "word": "吴尊友谈戴口罩",
@@ -1793,6 +1817,14 @@
       "onboard_time": 1680445663,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 409080,
+      "num": 409080,
+      "word": "北京发布明星广告代言新规",
+      "onboard_time": 1680516093,
+      "rank": 15,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 408094,
@@ -2059,6 +2091,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 350247,
+      "num": 350247,
+      "word": "鹭卓 抄袭",
+      "onboard_time": 1680517474,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 349117,
       "num": 349117,
       "word": "RNG Angel",
@@ -2179,6 +2219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 333154,
+      "num": 333154,
+      "word": "WBG对战BLG",
+      "onboard_time": 1680515553,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 332805,
       "num": 332805,
       "word": "熊猫在树上蹦迪",
@@ -2193,14 +2241,6 @@
       "onboard_time": 1680307944,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 329104,
-      "num": 329104,
-      "word": "他是谁",
-      "onboard_time": 1680435207,
-      "rank": 8,
-      "category": "影视"
     },
     {
       "raw_hot": 328950,
@@ -2308,7 +2348,7 @@
     },
     {
       "raw_hot": 313850,
-      "num": 275242,
+      "num": 298990,
       "word": "网友给白鹿P的妆容",
       "onboard_time": 1680512730,
       "rank": 34,
@@ -2353,14 +2393,6 @@
       "onboard_time": 1680441874,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 302406,
-      "num": 302406,
-      "word": "长月烬明可以自己调滤镜",
-      "onboard_time": 1680516271,
-      "rank": 14,
-      "category": "影视"
     },
     {
       "raw_hot": 301943,
@@ -2449,14 +2481,6 @@
       "onboard_time": 1680408929,
       "rank": 27,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 293242,
-      "num": 293242,
-      "word": "北京发布明星广告代言新规",
-      "onboard_time": 1680516093,
-      "rank": 15,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 292973,
@@ -2603,14 +2627,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 274901,
-      "num": 274901,
-      "word": "WBG对战BLG",
-      "onboard_time": 1680515553,
-      "rank": 18,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 274632,
       "num": 274632,
       "word": "曼城领先利物浦",
@@ -2729,6 +2745,14 @@
       "onboard_time": 1680403349,
       "rank": 16,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 266514,
+      "num": 266514,
+      "word": "医院手推床轮子脱落孕妇摔下床",
+      "onboard_time": 1680516814,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 262475,
@@ -2956,7 +2980,7 @@
     },
     {
       "raw_hot": 246098,
-      "num": 201317,
+      "num": 206575,
       "word": "你不需要把任何人神格化",
       "onboard_time": 1680515012,
       "rank": 31,
@@ -3643,6 +3667,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 203106,
+      "num": 203106,
+      "word": "神隐直播",
+      "onboard_time": 1680517773,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 202974,
       "num": 202974,
       "word": "王俊凯学习滑雪vlog",
@@ -3923,6 +3955,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 198016,
+      "num": 198016,
+      "word": "金玟庭韩国VOGUE杂志大片",
+      "onboard_time": 1680517773,
+      "rank": 33,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 197309,
       "num": 197309,
       "word": "T1晋级MSI",
@@ -4057,6 +4097,14 @@
       "onboard_time": 1680305299,
       "rank": 13,
       "category": "军事"
+    },
+    {
+      "raw_hot": 193127,
+      "num": 193127,
+      "word": "浪漫医生金师傅剧照公开",
+      "onboard_time": 1680516570,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 193113,
@@ -4499,14 +4547,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 172330,
-      "num": 172330,
-      "word": "浪漫医生金师傅剧照公开",
-      "onboard_time": 1680516570,
-      "rank": 38,
-      "category": "影视"
-    },
-    {
       "raw_hot": 172005,
       "num": 172005,
       "word": "张译这句分手台词好耳熟",
@@ -4640,6 +4680,14 @@
       "word": "薄冰反派",
       "onboard_time": 1680405268,
       "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 166828,
+      "num": 166828,
+      "word": "在宇宙中写诗的科幻小片",
+      "onboard_time": 1680517654,
+      "rank": 41,
       "category": "影视"
     },
     {
@@ -4865,14 +4913,6 @@
       "onboard_time": 1680404487,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 157683,
-      "num": 157683,
-      "word": "医院手推床轮子脱落孕妇摔下床",
-      "onboard_time": 1680516814,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 157039,
