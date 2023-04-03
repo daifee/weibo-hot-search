@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680506159083,
+  "endTime": 1680507199642,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -443,6 +443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1017908,
+      "num": 1017908,
+      "word": "姐弟坠亡案母亲称绝不放过叶诚尘",
+      "onboard_time": 1680502531,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1007605,
       "num": 1007605,
       "word": "OMG战胜TES",
@@ -553,14 +561,6 @@
       "onboard_time": 1680357029,
       "rank": 8,
       "category": "情感"
-    },
-    {
-      "raw_hot": 894662,
-      "num": 894662,
-      "word": "姐弟坠亡案母亲称绝不放过叶诚尘",
-      "onboard_time": 1680502531,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 887570,
@@ -947,6 +947,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 627952,
+      "num": 305350,
+      "word": "多家代言公司回应张继科事件",
+      "onboard_time": 1680506070,
+      "rank": 38,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 626902,
       "num": 356356,
       "word": "八年前愚人节的TFBOYS",
@@ -1145,6 +1153,14 @@
       "onboard_time": 1680267447,
       "rank": 21,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 543403,
+      "num": 543403,
+      "word": "四六级",
+      "onboard_time": 1680503855,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 542277,
@@ -1563,12 +1579,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 437871,
-      "num": 437871,
-      "word": "四六级",
-      "onboard_time": 1680503855,
-      "rank": 9,
-      "category": "教育"
+      "raw_hot": 437380,
+      "num": 313289,
+      "word": "上班如上坟",
+      "onboard_time": 1680504209,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 435945,
@@ -1875,14 +1891,6 @@
       "category": "艺人,游戏"
     },
     {
-      "raw_hot": 368176,
-      "num": 313289,
-      "word": "上班如上坟",
-      "onboard_time": 1680504209,
-      "rank": 23,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 366958,
       "num": 366958,
       "word": "菠菜和豆腐能不能同吃",
@@ -1897,6 +1905,14 @@
       "onboard_time": 1680332251,
       "rank": 18,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 355957,
+      "num": 355957,
+      "word": "张杰打碟蹦迪",
+      "onboard_time": 1680504270,
+      "rank": 18,
+      "category": "音乐"
     },
     {
       "raw_hot": 355150,
@@ -2073,14 +2089,6 @@
       "onboard_time": 1680303797,
       "rank": 31,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 328223,
-      "num": 328223,
-      "word": "张杰打碟蹦迪",
-      "onboard_time": 1680504270,
-      "rank": 18,
-      "category": "音乐"
     },
     {
       "raw_hot": 326994,
@@ -2481,6 +2489,14 @@
       "onboard_time": 1680331470,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 271098,
+      "num": 271098,
+      "word": "柯南贝克街亡灵数字生命版预告",
+      "onboard_time": 1680505948,
+      "rank": 44,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 270843,
@@ -3115,6 +3131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 213929,
+      "num": 213929,
+      "word": "电竞少年踏春记",
+      "onboard_time": 1680506070,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 213531,
       "num": 225406,
       "word": "花琉璃轶闻",
@@ -3491,14 +3515,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 200659,
-      "num": 200659,
-      "word": "电竞少年踏春记",
-      "onboard_time": 1680506070,
-      "rank": 37,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 200564,
       "num": 200564,
       "word": "丁程鑫胡一天粉扑游戏",
@@ -3787,14 +3803,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 193745,
-      "num": 193745,
-      "word": "多家代言公司回应张继科事件",
-      "onboard_time": 1680506070,
-      "rank": 38,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 193113,
       "num": 193113,
       "word": "侯明昊骑士大片",
@@ -3897,6 +3905,14 @@
       "onboard_time": 1680437307,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 189495,
+      "num": 189495,
+      "word": "官方辟谣泰勒来成都开演唱会",
+      "onboard_time": 1680505828,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 189261,
@@ -4427,6 +4443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 163191,
+      "num": 163191,
+      "word": "李栋旭金素妍金汎九尾狐海报",
+      "onboard_time": 1680506912,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 162968,
       "num": 162968,
       "word": "邓家佳演的安宁",
@@ -4603,14 +4627,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 154936,
-      "num": 154936,
-      "word": "柯南贝克街亡灵数字生命版预告",
-      "onboard_time": 1680505948,
-      "rank": 44,
-      "category": "影视,动漫"
-    },
-    {
       "raw_hot": 154907,
       "num": 154907,
       "word": "第一次见有发型的鸭子",
@@ -4739,12 +4755,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 150185,
-      "num": 150185,
-      "word": "官方辟谣泰勒来成都开演唱会",
-      "onboard_time": 1680505828,
-      "rank": 45,
-      "category": "音乐"
+      "raw_hot": 150014,
+      "num": 150014,
+      "word": "策瑜",
+      "onboard_time": 1680506369,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 149871,
@@ -4761,6 +4777,14 @@
       "onboard_time": 1680408089,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 149341,
+      "num": 149341,
+      "word": "郑秀妍首次挑战甩手舞",
+      "onboard_time": 1680505052,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 148866,
@@ -4993,14 +5017,6 @@
       "onboard_time": 1680489267,
       "rank": 46,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 138090,
-      "num": 138090,
-      "word": "郑秀妍首次挑战甩手舞",
-      "onboard_time": 1680505052,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 137028,
@@ -5249,6 +5265,14 @@
       "onboard_time": 1680486149,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 126918,
+      "num": 126918,
+      "word": "当同事喜欢乱动你的东西",
+      "onboard_time": 1680506551,
+      "rank": 47,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 126113,
@@ -6172,7 +6196,7 @@
     },
     {
       "raw_hot": 55896,
-      "num": 2413404,
+      "num": 2676868,
       "word": "第六届数字中国建设峰会新闻发布会",
       "onboard_time": 1680488489,
       "rank": 2,

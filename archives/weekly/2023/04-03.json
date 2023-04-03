@@ -1,6 +1,6 @@
 {
   "startTime": 1680452464197,
-  "endTime": 1680506159083,
+  "endTime": 1680507199642,
   "band_list": [
     {
       "raw_hot": 9506486,
@@ -195,6 +195,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1017908,
+      "num": 1017908,
+      "word": "姐弟坠亡案母亲称绝不放过叶诚尘",
+      "onboard_time": 1680502531,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 959032,
       "num": 959032,
       "word": "村民上坟奥迪停墓地旁被烧成空壳",
@@ -208,14 +216,6 @@
       "word": "清明放假1天",
       "onboard_time": 1680487168,
       "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 894662,
-      "num": 894662,
-      "word": "姐弟坠亡案母亲称绝不放过叶诚尘",
-      "onboard_time": 1680502531,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -371,6 +371,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 627952,
+      "num": 305350,
+      "word": "多家代言公司回应张继科事件",
+      "onboard_time": 1680506070,
+      "rank": 38,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 624364,
       "num": 624364,
       "word": "警方通报上海一男子因纠纷杀害妻子",
@@ -409,6 +417,14 @@
       "onboard_time": 1680484530,
       "rank": 33,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 543403,
+      "num": 543403,
+      "word": "四六级",
+      "onboard_time": 1680503855,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 542277,
@@ -515,12 +531,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 437871,
-      "num": 437871,
-      "word": "四六级",
-      "onboard_time": 1680503855,
-      "rank": 9,
-      "category": "教育"
+      "raw_hot": 437380,
+      "num": 313289,
+      "word": "上班如上坟",
+      "onboard_time": 1680504209,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 435945,
@@ -611,12 +627,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 368176,
-      "num": 313289,
-      "word": "上班如上坟",
-      "onboard_time": 1680504209,
-      "rank": 23,
-      "category": "幽默"
+      "raw_hot": 355957,
+      "num": 355957,
+      "word": "张杰打碟蹦迪",
+      "onboard_time": 1680504270,
+      "rank": 18,
+      "category": "音乐"
     },
     {
       "raw_hot": 355150,
@@ -657,14 +673,6 @@
       "onboard_time": 1680477141,
       "rank": 30,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 328223,
-      "num": 328223,
-      "word": "张杰打碟蹦迪",
-      "onboard_time": 1680504270,
-      "rank": 18,
-      "category": "音乐"
     },
     {
       "raw_hot": 326847,
@@ -761,6 +769,14 @@
       "onboard_time": 1680481468,
       "rank": 17,
       "category": "情感"
+    },
+    {
+      "raw_hot": 271098,
+      "num": 271098,
+      "word": "柯南贝克街亡灵数字生命版预告",
+      "onboard_time": 1680505948,
+      "rank": 44,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 270374,
@@ -923,6 +939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 213929,
+      "num": 213929,
+      "word": "电竞少年踏春记",
+      "onboard_time": 1680506070,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 213173,
       "num": 213173,
       "word": "哇唧唧哇六周年怪6的",
@@ -1035,14 +1059,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 200659,
-      "num": 200659,
-      "word": "电竞少年踏春记",
-      "onboard_time": 1680506070,
-      "rank": 37,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 200033,
       "num": 200033,
       "word": "时代少年团已进入训练阶段",
@@ -1099,14 +1115,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 193745,
-      "num": 193745,
-      "word": "多家代言公司回应张继科事件",
-      "onboard_time": 1680506070,
-      "rank": 38,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 191752,
       "num": 191752,
       "word": "卫国平今晚意能平吗",
@@ -1121,6 +1129,14 @@
       "onboard_time": 1680498456,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189495,
+      "num": 189495,
+      "word": "官方辟谣泰勒来成都开演唱会",
+      "onboard_time": 1680505828,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 189252,
@@ -1203,6 +1219,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 163191,
+      "num": 163191,
+      "word": "李栋旭金素妍金汎九尾狐海报",
+      "onboard_time": 1680506912,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 160610,
       "num": 160610,
       "word": "这一段路马英九走了73年",
@@ -1233,14 +1257,6 @@
       "onboard_time": 1680482129,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 154936,
-      "num": 154936,
-      "word": "柯南贝克街亡灵数字生命版预告",
-      "onboard_time": 1680505948,
-      "rank": 44,
-      "category": "影视,动漫"
     },
     {
       "raw_hot": 154907,
@@ -1275,12 +1291,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 150185,
-      "num": 150185,
-      "word": "官方辟谣泰勒来成都开演唱会",
-      "onboard_time": 1680505828,
-      "rank": 45,
-      "category": "音乐"
+      "raw_hot": 150014,
+      "num": 150014,
+      "word": "策瑜",
+      "onboard_time": 1680506369,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 149871,
@@ -1289,6 +1305,14 @@
       "onboard_time": 1680479004,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149341,
+      "num": 149341,
+      "word": "郑秀妍首次挑战甩手舞",
+      "onboard_time": 1680505052,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 148641,
@@ -1315,14 +1339,6 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 138090,
-      "num": 138090,
-      "word": "郑秀妍首次挑战甩手舞",
-      "onboard_time": 1680505052,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 131219,
       "num": 131219,
       "word": "五月天energy放手",
@@ -1345,6 +1361,14 @@
       "onboard_time": 1680486149,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 126918,
+      "num": 126918,
+      "word": "当同事喜欢乱动你的东西",
+      "onboard_time": 1680506551,
+      "rank": 47,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 126310,
@@ -1492,7 +1516,7 @@
     },
     {
       "raw_hot": 55896,
-      "num": 2413404,
+      "num": 2676868,
       "word": "第六届数字中国建设峰会新闻发布会",
       "onboard_time": 1680488489,
       "rank": 2,
