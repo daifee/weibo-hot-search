@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680495650659,
+  "endTime": 1680496457497,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -35,8 +35,8 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 9172092,
-      "num": 9172092,
+      "raw_hot": 9506486,
+      "num": 9506486,
       "word": "张继科年收入曾达6000万元",
       "onboard_time": 1680490529,
       "rank": 0,
@@ -331,6 +331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1138226,
+      "num": 1138226,
+      "word": "吴倩乘风破浪4上班路透",
+      "onboard_time": 1680493230,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1136916,
       "num": 1136916,
       "word": "RNG提前进入夏季赛",
@@ -371,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1063073,
+      "num": 339430,
+      "word": "肖战回应形象变化",
+      "onboard_time": 1680494072,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1055081,
       "num": 482812,
       "word": "朴宝剑胖了",
@@ -379,12 +395,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1048767,
-      "num": 1048767,
-      "word": "吴倩乘风破浪4上班路透",
-      "onboard_time": 1680493230,
-      "rank": 5,
-      "category": "综艺"
+      "raw_hot": 1023478,
+      "num": 1023478,
+      "word": "主持人时期的彭小苒",
+      "onboard_time": 1680494855,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1007605,
@@ -417,14 +433,6 @@
       "onboard_time": 1680353609,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 971782,
-      "num": 330905,
-      "word": "肖战回应形象变化",
-      "onboard_time": 1680494072,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 965951,
@@ -580,7 +588,7 @@
     },
     {
       "raw_hot": 837448,
-      "num": 330957,
+      "num": 338440,
       "word": "女子坐飞机意外发现自己包机了",
       "onboard_time": 1680486387,
       "rank": 22,
@@ -593,6 +601,14 @@
       "onboard_time": 1680491608,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 812473,
+      "num": 812473,
+      "word": "周杰伦海口演唱会",
+      "onboard_time": 1680495155,
+      "rank": 12,
+      "category": "音乐"
     },
     {
       "raw_hot": 809404,
@@ -771,6 +787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 666592,
+      "num": 666592,
+      "word": "李彩桦唱无法原谅",
+      "onboard_time": 1680493713,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 665347,
       "num": 665347,
       "word": "张杰广州演唱会",
@@ -811,14 +835,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 639750,
-      "num": 639750,
-      "word": "李彩桦唱无法原谅",
-      "onboard_time": 1680493713,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 639539,
       "num": 546082,
       "word": "王一博ins新增高尔夫关注",
@@ -833,14 +849,6 @@
       "onboard_time": 1680307642,
       "rank": 4,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 630819,
-      "num": 630819,
-      "word": "周杰伦海口演唱会",
-      "onboard_time": 1680495155,
-      "rank": 12,
-      "category": "音乐"
     },
     {
       "raw_hot": 626902,
@@ -1115,6 +1123,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 517571,
+      "num": 517571,
+      "word": "张继科持股公司仅1人参保",
+      "onboard_time": 1680492570,
+      "rank": 40,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 516596,
       "num": 516596,
       "word": "AG换打野等于换队",
@@ -1193,14 +1209,6 @@
       "onboard_time": 1680478223,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 496585,
-      "num": 496585,
-      "word": "张继科持股公司仅1人参保",
-      "onboard_time": 1680492570,
-      "rank": 40,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 490175,
@@ -1531,14 +1539,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 404820,
-      "num": 404820,
-      "word": "主持人时期的彭小苒",
-      "onboard_time": 1680494855,
-      "rank": 15,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 403926,
       "num": 239899,
       "word": "第一次见这么干净的猪",
@@ -1835,6 +1835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 340375,
+      "num": 340375,
+      "word": "女儿继承父亲警号后听到呼叫泪崩",
+      "onboard_time": 1680494496,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 338455,
       "num": 186572,
       "word": "女歌手遭男子泼酒后霸气回泼",
@@ -1915,8 +1923,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 326009,
-      "num": 326009,
+      "raw_hot": 326847,
+      "num": 326847,
       "word": "考研淘汰率或超八成你还会考么",
       "onboard_time": 1680491790,
       "rank": 38,
@@ -2137,6 +2145,14 @@
       "onboard_time": 1680326491,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 287705,
+      "num": 287705,
+      "word": "娜扎环游世界芭莎大片",
+      "onboard_time": 1680494735,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 286923,
@@ -2491,28 +2507,12 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 247031,
-      "num": 247031,
-      "word": "娜扎环游世界芭莎大片",
-      "onboard_time": 1680494735,
-      "rank": 32,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 246183,
       "num": 205898,
       "word": "大学生重新定义交换生",
       "onboard_time": 1680419488,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 245186,
-      "num": 245186,
-      "word": "女儿继承父亲警号后听到呼叫泪崩",
-      "onboard_time": 1680494496,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 244865,
@@ -2651,6 +2651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 228683,
+      "num": 228683,
+      "word": "喜欢一个人第一反应是什么",
+      "onboard_time": 1680495817,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 227868,
       "num": 196270,
       "word": "一生都在要链接的女人",
@@ -2691,6 +2699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 225391,
+      "num": 225391,
+      "word": "汪峰女儿小苹果自弹自唱",
+      "onboard_time": 1680493773,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 223442,
       "num": 223442,
       "word": "10省区将出现大到暴雨",
@@ -2713,14 +2729,6 @@
       "onboard_time": 1680405869,
       "rank": 28,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 221964,
-      "num": 221964,
-      "word": "汪峰女儿小苹果自弹自唱",
-      "onboard_time": 1680493773,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 220746,
@@ -2787,11 +2795,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 217383,
+      "num": 217383,
+      "word": "爱奇艺4月好多新综艺",
+      "onboard_time": 1680496116,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 217215,
       "num": 171514,
       "word": "宋雨琦喊李晨晨叔叔",
       "onboard_time": 1680307944,
       "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 217007,
+      "num": 217007,
+      "word": "乘风破浪 翻红",
+      "onboard_time": 1680496416,
+      "rank": 39,
       "category": "综艺"
     },
     {
@@ -2843,6 +2867,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 214906,
+      "num": 214906,
+      "word": "孤舟",
+      "onboard_time": 1680496236,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 214129,
       "num": 214129,
       "word": "shanji三连MVP",
@@ -2867,11 +2899,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 213173,
+      "num": 213173,
+      "word": "哇唧唧哇六周年怪6的",
+      "onboard_time": 1680494976,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 213053,
       "num": 213053,
       "word": "PAI积分第一晋级春决",
       "onboard_time": 1680449318,
       "rank": 33,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 212950,
+      "num": 212950,
+      "word": "王者荣耀",
+      "onboard_time": 1680496236,
+      "rank": 42,
       "category": "游戏"
     },
     {
@@ -2915,6 +2963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 209107,
+      "num": 209107,
+      "word": "揭秘张继科MCN机构",
+      "onboard_time": 1680495935,
+      "rank": 44,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 208885,
       "num": 208885,
       "word": "高双星见陈秀礼妈妈",
@@ -2929,6 +2985,14 @@
       "onboard_time": 1680413910,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 208710,
+      "num": 208710,
+      "word": "飞猪机票盲盒活动翻车",
+      "onboard_time": 1680495457,
+      "rank": 48,
+      "category": "科技"
     },
     {
       "raw_hot": 207901,
@@ -3139,6 +3203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 202168,
+      "num": 202168,
+      "word": "杨丞琳郑秀妍舞社2抢人",
+      "onboard_time": 1680493956,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202004,
       "num": 202004,
       "word": "陈赫打乒乓全靠场外支援",
@@ -3209,14 +3281,6 @@
       "onboard_time": 1680487948,
       "rank": 35,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 199852,
-      "num": 199852,
-      "word": "杨丞琳郑秀妍舞社2抢人",
-      "onboard_time": 1680493956,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 199782,
@@ -3419,12 +3483,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 195449,
+      "num": 199124,
+      "word": "长月烬明破镜重圆文学",
+      "onboard_time": 1680495996,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 195264,
       "num": 195264,
       "word": "英超联赛",
       "onboard_time": 1680357629,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 194909,
+      "num": 194909,
+      "word": "吃过一次不想再吃的食物",
+      "onboard_time": 1680493472,
+      "rank": 44,
+      "category": "美食"
     },
     {
       "raw_hot": 194808,
@@ -3513,14 +3593,6 @@
       "onboard_time": 1680357930,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 190613,
-      "num": 190613,
-      "word": "哇唧唧哇六周年怪6的",
-      "onboard_time": 1680494976,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 190451,
@@ -3633,14 +3705,6 @@
       "onboard_time": 1680354868,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 186975,
-      "num": 186975,
-      "word": "吃过一次不想再吃的食物",
-      "onboard_time": 1680493472,
-      "rank": 44,
-      "category": "美食"
     },
     {
       "raw_hot": 185519,
@@ -4033,14 +4097,6 @@
       "onboard_time": 1680303797,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 165903,
-      "num": 165903,
-      "word": "飞猪机票盲盒活动翻车",
-      "onboard_time": 1680495457,
-      "rank": 48,
-      "category": "科技"
     },
     {
       "raw_hot": 165588,
