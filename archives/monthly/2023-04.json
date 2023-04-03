@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680538976202,
+  "endTime": 1680539936351,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -2139,6 +2139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 386090,
+      "num": 386090,
+      "word": "吃菠萝扎嘴的原因",
+      "onboard_time": 1680537627,
+      "rank": 14,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 385948,
       "num": 385948,
       "word": "泰坦尼克号",
@@ -2833,14 +2841,6 @@
       "onboard_time": 1680402568,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 280706,
-      "num": 210740,
-      "word": "吃菠萝扎嘴的原因",
-      "onboard_time": 1680537627,
-      "rank": 14,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 280268,
@@ -6059,6 +6059,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 132143,
+      "num": 132143,
+      "word": "HYBE新男团BOYNEXTDOOR主页公开",
+      "onboard_time": 1680538348,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 131470,
       "num": 131470,
       "word": "一身反骨的狗狗",
@@ -6241,14 +6249,6 @@
       "onboard_time": 1680424290,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 123260,
-      "num": 123260,
-      "word": "HYBE新男团BOYNEXTDOOR主页公开",
-      "onboard_time": 1680538348,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 122835,

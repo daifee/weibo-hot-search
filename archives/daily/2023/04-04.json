@@ -1,6 +1,6 @@
 {
   "startTime": 1680538976202,
-  "endTime": 1680538976202,
+  "endTime": 1680539936351,
   "band_list": [
     {
       "raw_hot": 3162601,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 955543,
-      "num": 335753,
+      "num": 407546,
       "word": "张继科没有正式宣布退役",
       "onboard_time": 1680524254,
       "rank": 3,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 774699,
-      "num": 241556,
+      "num": 259577,
       "word": "张继科不愿意处在风口浪尖上",
       "onboard_time": 1680513754,
       "rank": 6,
@@ -91,6 +91,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 386090,
+      "num": 386090,
+      "word": "吃菠萝扎嘴的原因",
+      "onboard_time": 1680537627,
+      "rank": 14,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 351215,
       "num": 211650,
       "word": "上海医生杀妻案岳母带小孩连夜搬家",
@@ -113,14 +121,6 @@
       "onboard_time": 1680517474,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 280706,
-      "num": 210740,
-      "word": "吃菠萝扎嘴的原因",
-      "onboard_time": 1680537627,
-      "rank": 14,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 254098,
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 221525,
-      "num": 344398,
+      "num": 407980,
       "word": "一图看懂海南全岛封关意味着什么",
       "onboard_time": 1680526413,
       "rank": 2,
@@ -275,6 +275,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 132143,
+      "num": 132143,
+      "word": "HYBE新男团BOYNEXTDOOR主页公开",
+      "onboard_time": 1680538348,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 131350,
       "num": 131350,
       "word": "李微敖 张继科",
@@ -305,14 +313,6 @@
       "onboard_time": 1680516271,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 123260,
-      "num": 123260,
-      "word": "HYBE新男团BOYNEXTDOOR主页公开",
-      "onboard_time": 1680538348,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 123018,
@@ -406,6 +406,9 @@
   "hotgov_list": [
     {
       "word": "#各地春耕生产开局良好#"
+    },
+    {
+      "word": "#向群众学习向实践学习#"
     }
   ]
 }

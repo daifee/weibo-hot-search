@@ -1,6 +1,6 @@
 {
   "startTime": 1680452464197,
-  "endTime": 1680538976202,
+  "endTime": 1680539936351,
   "band_list": [
     {
       "raw_hot": 9506486,
@@ -947,6 +947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 386090,
+      "num": 386090,
+      "word": "吃菠萝扎嘴的原因",
+      "onboard_time": 1680537627,
+      "rank": 14,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 385948,
       "num": 385948,
       "word": "泰坦尼克号",
@@ -1217,14 +1225,6 @@
       "onboard_time": 1680446323,
       "rank": 11,
       "category": "情感,网红"
-    },
-    {
-      "raw_hot": 280706,
-      "num": 210740,
-      "word": "吃菠萝扎嘴的原因",
-      "onboard_time": 1680537627,
-      "rank": 14,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 280083,
@@ -2267,6 +2267,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 132143,
+      "num": 132143,
+      "word": "HYBE新男团BOYNEXTDOOR主页公开",
+      "onboard_time": 1680538348,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 131219,
       "num": 131219,
       "word": "五月天energy放手",
@@ -2313,14 +2321,6 @@
       "onboard_time": 1680428127,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 123260,
-      "num": 123260,
-      "word": "HYBE新男团BOYNEXTDOOR主页公开",
-      "onboard_time": 1680538348,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 120997,

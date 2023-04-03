@@ -1,0 +1,410 @@
+{
+  "runTime": 1680539936351,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1201765,
+        "num": 1201765,
+        "word": "中央政法委长安剑评张继科事件",
+        "onboard_time": 1680525994,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 430264,
+        "num": 430264,
+        "word": "杭州悬赏100万出点子摆脱美食荒漠",
+        "onboard_time": 1680525394,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202745,
+        "num": 407980,
+        "word": "一图看懂海南全岛封关意味着什么",
+        "onboard_time": 1680526413,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 767522,
+        "num": 407546,
+        "word": "张继科没有正式宣布退役",
+        "onboard_time": 1680524254,
+        "rank": 3,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 386090,
+        "num": 386090,
+        "word": "吃菠萝扎嘴的原因",
+        "onboard_time": 1680537627,
+        "rank": 4,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 266398,
+        "num": 266398,
+        "word": "鹭卓 抄袭",
+        "onboard_time": 1680517474,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 635034,
+        "num": 259577,
+        "word": "张继科不愿意处在风口浪尖上",
+        "onboard_time": 1680513754,
+        "rank": 6,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 243450,
+        "num": 243450,
+        "word": "小李子凯特无关爱情的永恒cp",
+        "onboard_time": 1680534456,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 177487,
+        "num": 177487,
+        "word": "王者荣耀杨玉环皮肤",
+        "onboard_time": 1680527195,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 596210,
+        "num": 175457,
+        "word": "张继科曾多次被曝涉赌",
+        "onboard_time": 1680503971,
+        "rank": 9,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 404972,
+        "num": 171554,
+        "word": "刘维 户口本上只有我自己了",
+        "onboard_time": 1680512730,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 335336,
+        "num": 169421,
+        "word": "刘国梁",
+        "onboard_time": 1680512909,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2647557,
+        "num": 166168,
+        "word": "S先生是谁",
+        "onboard_time": 1680534816,
+        "rank": 12,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 301230,
+        "num": 164387,
+        "word": "上海医生杀妻案岳母带小孩连夜搬家",
+        "onboard_time": 1680518554,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161350,
+        "num": 161350,
+        "word": "刘青松",
+        "onboard_time": 1680522455,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 410709,
+        "num": 161162,
+        "word": "安踏删除张继科宣传物料",
+        "onboard_time": 1680497915,
+        "rank": 15,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 170438,
+        "num": 160710,
+        "word": "家长为14岁娃办清华升学宴发现被骗",
+        "onboard_time": 1680512792,
+        "rank": 16,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 126596,
+        "num": 160577,
+        "word": "长月烬明羽绒服",
+        "onboard_time": 1680530497,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 213585,
+        "num": 160307,
+        "word": "张继科方准备起诉",
+        "onboard_time": 1680411988,
+        "rank": 18,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 275681,
+        "num": 159911,
+        "word": "韩国男爱豆猥亵队友被判刑",
+        "onboard_time": 1680517229,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312141,
+        "num": 159551,
+        "word": "才知道八段锦这么有用",
+        "onboard_time": 1680532657,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 212418,
+        "num": 159202,
+        "word": "聂小雨拿出割喉案关键证据",
+        "onboard_time": 1680526654,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204347,
+        "num": 158837,
+        "word": "洗碗阿姨坐宾利上下班",
+        "onboard_time": 1680525873,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184047,
+        "num": 158637,
+        "word": "张含韵机场捡到李纯王菊假睫毛",
+        "onboard_time": 1680536974,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173069,
+        "num": 158149,
+        "word": "上班上出了结婚的感觉",
+        "onboard_time": 1680525273,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 904828,
+        "num": 157833,
+        "word": "张继科曾直播上厕所",
+        "onboard_time": 1680520114,
+        "rank": 25,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 166641,
+        "num": 157320,
+        "word": "陈哲是花琉璃里的裴少卿",
+        "onboard_time": 1680535895,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 157303,
+        "num": 157303,
+        "word": "柯南贝克街的亡灵预售破500万",
+        "onboard_time": 1680535474,
+        "rank": 27,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 153124,
+        "num": 153124,
+        "word": "每天一到晚上就想吃东西",
+        "onboard_time": 1680533917,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 63508,
+        "num": 149159,
+        "word": "建议每天最少走7000步",
+        "onboard_time": 1680507209,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145665,
+        "num": 145665,
+        "word": "中华田园犬登上纽约时代广场",
+        "onboard_time": 1680533618,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 144855,
+        "num": 144855,
+        "word": "毛不易不理解周雨彤的时尚",
+        "onboard_time": 1680531398,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138426,
+        "num": 138426,
+        "word": "黄子韬回应又演明星",
+        "onboard_time": 1680530373,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 132143,
+        "num": 132143,
+        "word": "HYBE新男团BOYNEXTDOOR主页公开",
+        "onboard_time": 1680538348,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124020,
+        "num": 124020,
+        "word": "为什么父母辈不理解双休",
+        "onboard_time": 1680520594,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 118930,
+        "num": 118930,
+        "word": "力灿承认曾性骚扰",
+        "onboard_time": 1680518796,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117124,
+        "num": 117124,
+        "word": "原来鲨鱼卵长这样",
+        "onboard_time": 1680523353,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 110013,
+        "num": 110013,
+        "word": "李微敖 张继科",
+        "onboard_time": 1680326491,
+        "rank": 37,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 105134,
+        "num": 105134,
+        "word": "长月烬明可以自己调滤镜",
+        "onboard_time": 1680516271,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 103853,
+        "num": 103853,
+        "word": "刘耀文预告新歌",
+        "onboard_time": 1680535296,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 101515,
+        "num": 101515,
+        "word": "BLG零封WBG",
+        "onboard_time": 1680521614,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 101496,
+        "num": 101496,
+        "word": "yskm",
+        "onboard_time": 1680526533,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 100398,
+        "num": 100398,
+        "word": "张继科借条",
+        "onboard_time": 1680442296,
+        "rank": 42,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 94808,
+        "num": 94808,
+        "word": "他是谁结局",
+        "onboard_time": 1680520774,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 93659,
+        "num": 93659,
+        "word": "招惹",
+        "onboard_time": 1680528995,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 90956,
+        "num": 90956,
+        "word": "赵露思王安宇直播状态",
+        "onboard_time": 1680523111,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 89249,
+        "num": 89249,
+        "word": "黄绮珊歌迷精神状态",
+        "onboard_time": 1680533198,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 86171,
+        "num": 86171,
+        "word": "IVE新歌预告照",
+        "onboard_time": 1680536974,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 77097,
+        "num": 77097,
+        "word": "蔡徐坤粉丝篮球场公益项目",
+        "onboard_time": 1680532778,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73645,
+        "num": 73645,
+        "word": "他是谁",
+        "onboard_time": 1680516153,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#向群众学习向实践学习#"
+    }
+  }
+}
