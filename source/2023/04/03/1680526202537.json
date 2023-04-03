@@ -1,0 +1,410 @@
+{
+  "runTime": 1680526202537,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1015764,
+        "num": 1411758,
+        "word": "刘青松",
+        "onboard_time": 1680522455,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1954536,
+        "num": 1405703,
+        "word": "张继科曾多次被曝涉赌",
+        "onboard_time": 1680503971,
+        "rank": 1,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 152713,
+        "num": 1381668,
+        "word": "这不是山水画这是中国山河",
+        "onboard_time": 1680522034,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1372526,
+        "num": 1372526,
+        "word": "韩国男爱豆猥亵队友被判刑",
+        "onboard_time": 1680517229,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1622899,
+        "num": 1117896,
+        "word": "张继科没有正式宣布退役",
+        "onboard_time": 1680524254,
+        "rank": 4,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 565123,
+        "num": 565123,
+        "word": "还得是伊能静",
+        "onboard_time": 1680515675,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 709495,
+        "num": 554358,
+        "word": "上海医生杀妻案岳母带小孩连夜搬家",
+        "onboard_time": 1680518554,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3305900,
+        "num": 552158,
+        "word": "张继科不愿意处在风口浪尖上",
+        "onboard_time": 1680513754,
+        "rank": 7,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 532049,
+        "num": 532049,
+        "word": "BLG零封WBG",
+        "onboard_time": 1680521614,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 533642,
+        "num": 527480,
+        "word": "鹭卓 抄袭",
+        "onboard_time": 1680517474,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1558575,
+        "num": 512358,
+        "word": "刘维 户口本上只有我自己了",
+        "onboard_time": 1680512730,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1286600,
+        "num": 502936,
+        "word": "安踏删除张继科宣传物料",
+        "onboard_time": 1680497915,
+        "rank": 11,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1183825,
+        "num": 489339,
+        "word": "刘国梁",
+        "onboard_time": 1680512909,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 841028,
+        "num": 479796,
+        "word": "家长为14岁娃办清华升学宴发现被骗",
+        "onboard_time": 1680512792,
+        "rank": 13,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 478103,
+        "num": 478103,
+        "word": "他是谁结局",
+        "onboard_time": 1680520774,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 442918,
+        "num": 442918,
+        "word": "长月烬明可以自己调滤镜",
+        "onboard_time": 1680516271,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 382805,
+        "num": 382805,
+        "word": "力灿承认曾性骚扰",
+        "onboard_time": 1680518796,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 360777,
+        "num": 360777,
+        "word": "建议每天最少走7000步",
+        "onboard_time": 1680507209,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348726,
+        "num": 348726,
+        "word": "张继科方准备起诉",
+        "onboard_time": 1680411988,
+        "rank": 18,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 346760,
+        "num": 346760,
+        "word": "传播女友隐私是否构成犯罪",
+        "onboard_time": 1680507570,
+        "rank": 19,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 2634938,
+        "num": 346303,
+        "word": "人民文娱评李宇春的代言态度",
+        "onboard_time": 1680519334,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2816605,
+        "num": 346093,
+        "word": "张继科曾直播上厕所",
+        "onboard_time": 1680520114,
+        "rank": 21,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 392952,
+        "num": 345949,
+        "word": "周雨彤见到舒淇像孔雀开屏",
+        "onboard_time": 1680521975,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 345670,
+        "num": 345670,
+        "word": "迷笛",
+        "onboard_time": 1680523353,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 338970,
+        "num": 338970,
+        "word": "为什么父母辈不理解双休",
+        "onboard_time": 1680520594,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 329882,
+        "num": 329882,
+        "word": "赵露思王安宇直播状态",
+        "onboard_time": 1680523111,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 301347,
+        "num": 301347,
+        "word": "武汉大暴雨白天秒变黑夜",
+        "onboard_time": 1680507929,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295182,
+        "num": 295182,
+        "word": "不要让女性成为话题焦点",
+        "onboard_time": 1680520774,
+        "rank": 27,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 290094,
+        "num": 290094,
+        "word": "原来鲨鱼卵长这样",
+        "onboard_time": 1680523353,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 273553,
+        "num": 273553,
+        "word": "上班上出了结婚的感觉",
+        "onboard_time": 1680525273,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 270981,
+        "num": 270981,
+        "word": "医院手推床轮子脱落孕妇摔下床",
+        "onboard_time": 1680516814,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253594,
+        "num": 253594,
+        "word": "IU的palette",
+        "onboard_time": 1680523591,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 239410,
+        "num": 239410,
+        "word": "孙国友女儿回应网友质疑不科学种树",
+        "onboard_time": 1680522573,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236839,
+        "num": 236839,
+        "word": "泰坦尼克号",
+        "onboard_time": 1680509674,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204417,
+        "num": 204417,
+        "word": "中央政法委长安剑评张继科事件",
+        "onboard_time": 1680525994,
+        "rank": 34,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 202668,
+        "num": 202668,
+        "word": "为什么长月烬明是敦煌风",
+        "onboard_time": 1680518313,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 200947,
+        "num": 200947,
+        "word": "敖瑞鹏首登时尚芭莎",
+        "onboard_time": 1680525811,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 196561,
+        "num": 196561,
+        "word": "长月烬明",
+        "onboard_time": 1680512551,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 192981,
+        "num": 192981,
+        "word": "王星越对话ChatGPT芭莎大片",
+        "onboard_time": 1680525754,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 186682,
+        "num": 186682,
+        "word": "他是谁",
+        "onboard_time": 1680516153,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 186128,
+        "num": 186128,
+        "word": "张继科借条",
+        "onboard_time": 1680442296,
+        "rank": 40,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 178665,
+        "num": 178665,
+        "word": "杭州悬赏100万出点子摆脱美食荒漠",
+        "onboard_time": 1680525394,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174138,
+        "num": 174138,
+        "word": "洗碗阿姨坐宾利上下班",
+        "onboard_time": 1680525873,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185728,
+        "num": 173882,
+        "word": "李微敖 张继科",
+        "onboard_time": 1680326491,
+        "rank": 43,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 169903,
+        "num": 169903,
+        "word": "爱情而已",
+        "onboard_time": 1680525573,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165769,
+        "num": 165769,
+        "word": "网友给白鹿P的妆容",
+        "onboard_time": 1680512730,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 169087,
+        "num": 163096,
+        "word": "宋三川梁友安海边漫步",
+        "onboard_time": 1680525153,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159456,
+        "num": 159456,
+        "word": "肖战中华力量音频",
+        "onboard_time": 1680524372,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 148944,
+        "num": 148944,
+        "word": "多家代言公司回应张继科事件",
+        "onboard_time": 1680506070,
+        "rank": 48,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 141485,
+        "num": 141485,
+        "word": "WBG对战BLG",
+        "onboard_time": 1680515553,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#英雄之光#"
+    }
+  }
+}
