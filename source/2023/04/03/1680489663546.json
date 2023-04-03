@@ -1,0 +1,410 @@
+{
+  "runTime": 1680489663546,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1738567,
+        "num": 1738567,
+        "word": "长月烬明定档",
+        "onboard_time": 1680488668,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2063460,
+        "num": 1504696,
+        "word": "今年考研录取率或不到两成",
+        "onboard_time": 1680483510,
+        "rank": 1,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 51153,
+        "num": 943141,
+        "word": "第六届数字中国建设峰会新闻发布会",
+        "onboard_time": 1680488489,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 759506,
+        "num": 759506,
+        "word": "村民上坟奥迪停墓地旁被烧成空壳",
+        "onboard_time": 1680483452,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 755701,
+        "num": 755701,
+        "word": "8日起丫丫起居全部移交中方人员",
+        "onboard_time": 1680484768,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 703654,
+        "num": 703654,
+        "word": "清明放假1天",
+        "onboard_time": 1680487168,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 701995,
+        "num": 701995,
+        "word": "体育总局7人工作组正式进驻足协",
+        "onboard_time": 1680485609,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 683480,
+        "num": 683480,
+        "word": "多国宣布自愿石油减产",
+        "onboard_time": 1680485309,
+        "rank": 7,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 657023,
+        "num": 657023,
+        "word": "肖战杂志",
+        "onboard_time": 1680488848,
+        "rank": 8,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 563401,
+        "num": 563401,
+        "word": "贾静雯浪姐路透",
+        "onboard_time": 1680486747,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1046170,
+        "num": 562617,
+        "word": "丫丫",
+        "onboard_time": 1680481647,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 546082,
+        "num": 546082,
+        "word": "王一博ins新增高尔夫关注",
+        "onboard_time": 1680485668,
+        "rank": 11,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 501572,
+        "num": 501572,
+        "word": "金钟仁你做到了",
+        "onboard_time": 1680484530,
+        "rank": 12,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 406759,
+        "num": 406759,
+        "word": "秋瓷炫李彩桦舞蹈视频对比",
+        "onboard_time": 1680488905,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 74537,
+        "num": 368976,
+        "word": "原神必胜客联动开启",
+        "onboard_time": 1680487227,
+        "rank": 14,
+        "category": "游戏,美食"
+      },
+      {
+        "raw_hot": 4283800,
+        "num": 365138,
+        "word": "张继科借款利率是银行商贷的4倍",
+        "onboard_time": 1680476960,
+        "rank": 15,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 360755,
+        "num": 360755,
+        "word": "黄晓明回归乘风4",
+        "onboard_time": 1680485012,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 358301,
+        "num": 358301,
+        "word": "一出站就被惊艳了的宝藏地铁口",
+        "onboard_time": 1680483269,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304800,
+        "num": 304800,
+        "word": "俄一战地记者在咖啡馆被炸身亡",
+        "onboard_time": 1680483452,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303008,
+        "num": 303008,
+        "word": "德班",
+        "onboard_time": 1680488727,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1845986,
+        "num": 299744,
+        "word": "景甜",
+        "onboard_time": 1680444521,
+        "rank": 20,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1507832,
+        "num": 294782,
+        "word": "张继科借条",
+        "onboard_time": 1680442296,
+        "rank": 21,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 837448,
+        "num": 288246,
+        "word": "女子坐飞机意外发现自己包机了",
+        "onboard_time": 1680486387,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 576647,
+        "num": 286528,
+        "word": "张继科持股公司曾推销厚礼冠军酒",
+        "onboard_time": 1680477742,
+        "rank": 23,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 349854,
+        "num": 278409,
+        "word": "研究发现早晨课越多成绩越差",
+        "onboard_time": 1680484889,
+        "rank": 24,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 306048,
+        "num": 276969,
+        "word": "张继科回应因欠债传播女演员隐私视频",
+        "onboard_time": 1680332610,
+        "rank": 25,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 303610,
+        "num": 269246,
+        "word": "张继科方准备起诉",
+        "onboard_time": 1680411988,
+        "rank": 26,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 266863,
+        "num": 266863,
+        "word": "张继科联合创立的茶饮品牌已成老赖",
+        "onboard_time": 1680448179,
+        "rank": 27,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 244472,
+        "num": 244472,
+        "word": "坂本龙一去世",
+        "onboard_time": 1680438989,
+        "rank": 28,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 223442,
+        "num": 223442,
+        "word": "10省区将出现大到暴雨",
+        "onboard_time": 1680485907,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211734,
+        "num": 211734,
+        "word": "金晨灰色毛绒大衣造型",
+        "onboard_time": 1680487587,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210641,
+        "num": 210641,
+        "word": "李微敖 张继科",
+        "onboard_time": 1680326491,
+        "rank": 31,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 206529,
+        "num": 206529,
+        "word": "真实地活下去 不要忘记每天看月亮",
+        "onboard_time": 1680441936,
+        "rank": 32,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 205925,
+        "num": 205925,
+        "word": "王栎鑫蓝发",
+        "onboard_time": 1680478404,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 200033,
+        "num": 200033,
+        "word": "时代少年团已进入训练阶段",
+        "onboard_time": 1680487948,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 194043,
+        "num": 194043,
+        "word": "把垃圾桶拍成买不起的感觉",
+        "onboard_time": 1680450273,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 190522,
+        "num": 190522,
+        "word": "北京动物园大熊猫馆人挤人",
+        "onboard_time": 1680484410,
+        "rank": 36,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 181209,
+        "num": 181209,
+        "word": "詹姆斯生涯三双数升至历史第4",
+        "onboard_time": 1680487767,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170715,
+        "num": 170715,
+        "word": "安俊英复职",
+        "onboard_time": 1680485369,
+        "rank": 38,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 165329,
+        "num": 165329,
+        "word": "乘风破浪4阵容",
+        "onboard_time": 1680489508,
+        "rank": 39,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 162741,
+        "num": 162741,
+        "word": "重庆警方通报男子持刀行凶",
+        "onboard_time": 1680450753,
+        "rank": 40,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 159915,
+        "num": 159915,
+        "word": "卫国平今晚意能平吗",
+        "onboard_time": 1680489508,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 155358,
+        "num": 155358,
+        "word": "苏醒说最后一攻为什么不给欧文呢",
+        "onboard_time": 1680484826,
+        "rank": 42,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 152704,
+        "num": 152704,
+        "word": "粉丝真的给种地吧拉来了赞助",
+        "onboard_time": 1680443800,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150543,
+        "num": 150543,
+        "word": "大学生你别太离谱",
+        "onboard_time": 1680451769,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144692,
+        "num": 144692,
+        "word": "夫妻结婚6年因3岁儿子转学想离婚",
+        "onboard_time": 1680438688,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138264,
+        "num": 138264,
+        "word": "静音车厢你爱了吗",
+        "onboard_time": 1680489267,
+        "rank": 46,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 133132,
+        "num": 133132,
+        "word": "白桃星座",
+        "onboard_time": 1680446323,
+        "rank": 47,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 129503,
+        "num": 129503,
+        "word": "浓眉40分",
+        "onboard_time": 1680486267,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120149,
+        "num": 120149,
+        "word": "湖南一家族20多人献了45万毫升血",
+        "onboard_time": 1680489627,
+        "rank": 49,
+        "category": "社会正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#8487人获颁戍守边疆纪念章#"
+    }
+  }
+}

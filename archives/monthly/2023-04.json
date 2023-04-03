@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680489048588,
+  "endTime": 1680489663546,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -179,6 +179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1738567,
+      "num": 1738567,
+      "word": "长月烬明定档",
+      "onboard_time": 1680488668,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1610039,
       "num": 707764,
       "word": "律师解读张继科景甜视频风波",
@@ -324,7 +332,7 @@
     },
     {
       "raw_hot": 1093278,
-      "num": 264255,
+      "num": 286528,
       "word": "张继科持股公司曾推销厚礼冠军酒",
       "onboard_time": 1680477742,
       "rank": 7,
@@ -515,6 +523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 837448,
+      "num": 288246,
+      "word": "女子坐飞机意外发现自己包机了",
+      "onboard_time": 1680486387,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 801125,
       "num": 801125,
       "word": "盘点张继科商业版图",
@@ -561,22 +577,6 @@
       "onboard_time": 1680331411,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 758732,
-      "num": 244034,
-      "word": "女子坐飞机意外发现自己包机了",
-      "onboard_time": 1680486387,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 751517,
-      "num": 751517,
-      "word": "长月烬明定档",
-      "onboard_time": 1680488668,
-      "rank": 4,
-      "category": "影视"
     },
     {
       "raw_hot": 744478,
@@ -635,6 +635,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 703654,
+      "num": 703654,
+      "word": "清明放假1天",
+      "onboard_time": 1680487168,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 702478,
       "num": 675679,
       "word": "坂本龙一微博告别",
@@ -667,20 +675,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 683480,
+      "num": 683480,
+      "word": "多国宣布自愿石油减产",
+      "onboard_time": 1680485309,
+      "rank": 16,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 678671,
       "num": 678671,
       "word": "梁朝伟刘嘉玲深情怀念哥哥",
       "onboard_time": 1680359191,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 677815,
-      "num": 677815,
-      "word": "多国宣布自愿石油减产",
-      "onboard_time": 1680485309,
-      "rank": 16,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 677080,
@@ -707,6 +715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 657023,
+      "num": 657023,
+      "word": "肖战杂志",
+      "onboard_time": 1680488848,
+      "rank": 29,
+      "category": "时尚,艺人"
+    },
+    {
       "raw_hot": 648915,
       "num": 648915,
       "word": "长月烬明",
@@ -731,16 +747,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 645038,
-      "num": 645038,
-      "word": "清明放假1天",
-      "onboard_time": 1680487168,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 639539,
-      "num": 483746,
+      "num": 546082,
       "word": "王一博ins新增高尔夫关注",
       "onboard_time": 1680485668,
       "rank": 14,
@@ -873,6 +881,14 @@
       "onboard_time": 1680436347,
       "rank": 1,
       "category": "美食"
+    },
+    {
+      "raw_hot": 563401,
+      "num": 563401,
+      "word": "贾静雯浪姐路透",
+      "onboard_time": 1680486747,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 561886,
@@ -1033,14 +1049,6 @@
       "onboard_time": 1680307583,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 512464,
-      "num": 512464,
-      "word": "贾静雯浪姐路透",
-      "onboard_time": 1680486747,
-      "rank": 9,
-      "category": "综艺"
     },
     {
       "raw_hot": 511775,
@@ -1387,6 +1395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 406759,
+      "num": 406759,
+      "word": "秋瓷炫李彩桦舞蹈视频对比",
+      "onboard_time": 1680488905,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 403926,
       "num": 239899,
       "word": "第一次见这么干净的猪",
@@ -1484,7 +1500,7 @@
     },
     {
       "raw_hot": 385270,
-      "num": 260690,
+      "num": 278409,
       "word": "研究发现早晨课越多成绩越差",
       "onboard_time": 1680484889,
       "rank": 24,
@@ -1859,6 +1875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 303008,
+      "num": 303008,
+      "word": "德班",
+      "onboard_time": 1680488727,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 301943,
       "num": 199931,
       "word": "12岁男生要跟张三丰学太极背剑出走",
@@ -2219,14 +2243,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 252700,
-      "num": 252700,
-      "word": "秋瓷炫李彩桦舞蹈视频对比",
-      "onboard_time": 1680488905,
-      "rank": 18,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 252125,
       "num": 193193,
       "word": "赵丽颖愚人节视频",
@@ -2419,14 +2435,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 235892,
-      "num": 235892,
-      "word": "肖战杂志",
-      "onboard_time": 1680488848,
-      "rank": 29,
-      "category": "时尚,艺人"
-    },
-    {
       "raw_hot": 234532,
       "num": 199811,
       "word": "周冬雨南瓜妆",
@@ -2505,6 +2513,14 @@
       "onboard_time": 1680315267,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 223442,
+      "num": 223442,
+      "word": "10省区将出现大到暴雨",
+      "onboard_time": 1680485907,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 222730,
@@ -2683,6 +2699,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 211734,
+      "num": 211734,
+      "word": "金晨灰色毛绒大衣造型",
+      "onboard_time": 1680487587,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 211525,
       "num": 211525,
       "word": "武大靖给陈德全颁奖",
@@ -2817,14 +2841,6 @@
       "onboard_time": 1680357988,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 204610,
-      "num": 204610,
-      "word": "10省区将出现大到暴雨",
-      "onboard_time": 1680485907,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 204482,
@@ -2971,12 +2987,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 200043,
-      "num": 200043,
-      "word": "德班",
-      "onboard_time": 1680488727,
-      "rank": 34,
-      "category": "体育"
+      "raw_hot": 200033,
+      "num": 200033,
+      "word": "时代少年团已进入训练阶段",
+      "onboard_time": 1680487948,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 199782,
@@ -3041,14 +3057,6 @@
       "onboard_time": 1680419488,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 198803,
-      "num": 198803,
-      "word": "时代少年团已进入训练阶段",
-      "onboard_time": 1680487948,
-      "rank": 35,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 198741,
@@ -3403,14 +3411,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 185201,
-      "num": 185201,
-      "word": "金晨灰色毛绒大衣造型",
-      "onboard_time": 1680487587,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 184945,
       "num": 186469,
       "word": "AG战胜KSG",
@@ -3505,6 +3505,14 @@
       "onboard_time": 1680417208,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 181209,
+      "num": 181209,
+      "word": "詹姆斯生涯三双数升至历史第4",
+      "onboard_time": 1680487767,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 181190,
@@ -3763,14 +3771,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 166275,
-      "num": 166275,
-      "word": "詹姆斯生涯三双数升至历史第4",
-      "onboard_time": 1680487767,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 166236,
       "num": 152627,
       "word": "男子饭店内持刀伤人致1死2伤",
@@ -3825,6 +3825,14 @@
       "onboard_time": 1680347370,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 165329,
+      "num": 165329,
+      "word": "乘风破浪4阵容",
+      "onboard_time": 1680489508,
+      "rank": 39,
+      "category": "艺人,综艺"
     },
     {
       "raw_hot": 165135,
@@ -3888,6 +3896,14 @@
       "word": "赵露思黄衣遮阳帽视频",
       "onboard_time": 1680477622,
       "rank": 28,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 159915,
+      "num": 159915,
+      "word": "卫国平今晚意能平吗",
+      "onboard_time": 1680489508,
+      "rank": 41,
       "category": "影视"
     },
     {
@@ -4379,6 +4395,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 138264,
+      "num": 138264,
+      "word": "静音车厢你爱了吗",
+      "onboard_time": 1680489267,
+      "rank": 46,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 137028,
       "num": 137028,
       "word": "贺三唱最食人间烟火色主题曲",
@@ -4761,6 +4785,14 @@
       "onboard_time": 1680435748,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 120149,
+      "num": 120149,
+      "word": "湖南一家族20多人献了45万毫升血",
+      "onboard_time": 1680489627,
+      "rank": 49,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 120069,
@@ -5403,6 +5435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 74537,
+      "num": 368976,
+      "word": "原神必胜客联动开启",
+      "onboard_time": 1680487227,
+      "rank": 14,
+      "category": "游戏,美食"
+    },
+    {
       "raw_hot": 73754,
       "num": 105735,
       "word": "手把手教你练八段锦",
@@ -5524,19 +5564,11 @@
     },
     {
       "raw_hot": 55896,
-      "num": 918119,
+      "num": 943141,
       "word": "第六届数字中国建设峰会新闻发布会",
       "onboard_time": 1680488489,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 55593,
-      "num": 368519,
-      "word": "原神必胜客联动开启",
-      "onboard_time": 1680487227,
-      "rank": 14,
-      "category": "游戏,美食"
     },
     {
       "raw_hot": 53685,
