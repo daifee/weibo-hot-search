@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680498967629,
+  "endTime": 1680500014769,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -75,6 +75,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 3644168,
+      "num": 3644168,
+      "word": "安踏删除张继科宣传物料",
+      "onboard_time": 1680497915,
+      "rank": 1,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 3054432,
       "num": 3054432,
       "word": "B站UP主发起停更潮",
@@ -113,14 +121,6 @@
       "onboard_time": 1680353668,
       "rank": 4,
       "category": "影视"
-    },
-    {
-      "raw_hot": 2594413,
-      "num": 2594413,
-      "word": "安踏删除张继科宣传物料",
-      "onboard_time": 1680497915,
-      "rank": 1,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 2565778,
@@ -217,6 +217,14 @@
       "onboard_time": 1680491850,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1726938,
+      "num": 1726938,
+      "word": "李铁",
+      "onboard_time": 1680497315,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 1610039,
@@ -371,14 +379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1104061,
-      "num": 1104061,
-      "word": "李铁",
-      "onboard_time": 1680497315,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1100322,
       "num": 1100322,
       "word": "真实地活下去 不要忘记每天看月亮",
@@ -404,7 +404,7 @@
     },
     {
       "raw_hot": 1063073,
-      "num": 377096,
+      "num": 377361,
       "word": "肖战回应形象变化",
       "onboard_time": 1680494072,
       "rank": 23,
@@ -691,6 +691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 756790,
+      "num": 756790,
+      "word": "揭秘张继科MCN机构",
+      "onboard_time": 1680495935,
+      "rank": 44,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 744478,
       "num": 744478,
       "word": "体育总局7人工作组正式进驻足协",
@@ -705,14 +713,6 @@
       "onboard_time": 1680422670,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 723413,
-      "num": 723413,
-      "word": "揭秘张继科MCN机构",
-      "onboard_time": 1680495935,
-      "rank": 44,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 715671,
@@ -929,6 +929,14 @@
       "onboard_time": 1680431189,
       "rank": 27,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 612458,
+      "num": 612458,
+      "word": "北野武说只剩下我一个人了",
+      "onboard_time": 1680499349,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 612281,
@@ -1251,6 +1259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 490283,
+      "num": 373508,
+      "word": "虞书欣韩国街边随拍",
+      "onboard_time": 1680498096,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 490175,
       "num": 250411,
       "word": "叶一茜 森碟和亮仔都是我的宝贝",
@@ -1337,14 +1353,6 @@
       "onboard_time": 1680408267,
       "rank": 14,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 468880,
-      "num": 373508,
-      "word": "虞书欣韩国街边随拍",
-      "onboard_time": 1680498096,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 463670,
@@ -1491,6 +1499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 435945,
+      "num": 435945,
+      "word": "杨紫车保罗199爱合影",
+      "onboard_time": 1680498096,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 431058,
       "num": 267961,
       "word": "黄明昊跳了姐姐真漂亮",
@@ -1585,6 +1601,14 @@
       "onboard_time": 1680445663,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 409093,
+      "num": 409093,
+      "word": "快递员实名举报老人被骗买高价药",
+      "onboard_time": 1680498035,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 408094,
@@ -1697,14 +1721,6 @@
       "onboard_time": 1680262648,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 385721,
-      "num": 385721,
-      "word": "杨紫车保罗199爱合影",
-      "onboard_time": 1680498096,
-      "rank": 19,
-      "category": "影视"
     },
     {
       "raw_hot": 385270,
@@ -2211,6 +2227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 288384,
+      "num": 288384,
+      "word": "为什么家长认为考编很容易",
+      "onboard_time": 1680498514,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 287705,
       "num": 287705,
       "word": "娜扎环游世界芭莎大片",
@@ -2267,6 +2291,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 280083,
+      "num": 280083,
+      "word": "女团univu5正式出道",
+      "onboard_time": 1680498992,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 277957,
       "num": 194952,
       "word": "孟子义泼丁程鑫裤子",
@@ -2297,14 +2329,6 @@
       "onboard_time": 1680445545,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 275094,
-      "num": 275094,
-      "word": "快递员实名举报老人被骗买高价药",
-      "onboard_time": 1680498035,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 275061,
@@ -3091,6 +3115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 206913,
+      "num": 206913,
+      "word": "洪世贤感觉又要被艾莉抢走",
+      "onboard_time": 1680498756,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 206849,
       "num": 206849,
       "word": "中国队德班世乒赛参赛名单",
@@ -3307,6 +3339,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 201656,
+      "num": 201656,
+      "word": "警方通报上海一男子因纠纷杀害妻子",
+      "onboard_time": 1680499830,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201474,
       "num": 201474,
       "word": "张新成说期待再次相见",
@@ -3377,22 +3417,6 @@
       "onboard_time": 1680416969,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 199652,
-      "num": 199652,
-      "word": "为什么家长认为考编很容易",
-      "onboard_time": 1680498514,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 199453,
-      "num": 199453,
-      "word": "洪世贤感觉又要被艾莉抢走",
-      "onboard_time": 1680498756,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 199387,
@@ -3595,6 +3619,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 194810,
+      "num": 194810,
+      "word": "光与夜之恋陆沉",
+      "onboard_time": 1680498456,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 194808,
       "num": 194808,
       "word": "卢正义徐范俊人歌MC视频",
@@ -3635,20 +3667,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 192381,
-      "num": 192381,
-      "word": "光与夜之恋陆沉",
-      "onboard_time": 1680498456,
-      "rank": 48,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 191752,
       "num": 191752,
       "word": "卫国平今晚意能平吗",
       "onboard_time": 1680489508,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 191738,
+      "num": 191738,
+      "word": "UP主列举B站7大问题",
+      "onboard_time": 1680499471,
+      "rank": 42,
+      "category": "科技"
     },
     {
       "raw_hot": 191727,
@@ -4257,6 +4289,14 @@
       "onboard_time": 1680443564,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163640,
+      "num": 163640,
+      "word": "张继科代言",
+      "onboard_time": 1680499952,
+      "rank": 49,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 162968,
@@ -5972,7 +6012,7 @@
     },
     {
       "raw_hot": 55896,
-      "num": 1963749,
+      "num": 2413404,
       "word": "第六届数字中国建设峰会新闻发布会",
       "onboard_time": 1680488489,
       "rank": 2,
