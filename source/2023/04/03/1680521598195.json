@@ -1,0 +1,410 @@
+{
+  "runTime": 1680521598195,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2819987,
+        "num": 2819987,
+        "word": "韩国男爱豆猥亵队友被判刑",
+        "onboard_time": 1680517229,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1273693,
+        "num": 1273693,
+        "word": "WBG对战BLG",
+        "onboard_time": 1680515553,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 6284,
+        "num": 1202145,
+        "word": "第六届数字中国建设峰会新闻发布会",
+        "onboard_time": 1680488489,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2823061,
+        "num": 1095961,
+        "word": "刘维 户口本上只有我自己了",
+        "onboard_time": 1680512730,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1551935,
+        "num": 955482,
+        "word": "BAP力灿承认猥亵队友",
+        "onboard_time": 1680518796,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 4627322,
+        "num": 906262,
+        "word": "张继科不愿意处在风口浪尖上",
+        "onboard_time": 1680513754,
+        "rank": 5,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 834725,
+        "num": 834725,
+        "word": "上海医生杀妻案岳母带小孩连夜搬家",
+        "onboard_time": 1680518554,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1143808,
+        "num": 661676,
+        "word": "家长为14岁娃办清华升学宴发现被骗",
+        "onboard_time": 1680512792,
+        "rank": 7,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 480624,
+        "num": 480624,
+        "word": "武汉大暴雨白天秒变黑夜",
+        "onboard_time": 1680507929,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2208680,
+        "num": 476592,
+        "word": "人民文娱评李宇春的代言态度",
+        "onboard_time": 1680519334,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2291056,
+        "num": 460218,
+        "word": "张继科曾多次被曝涉赌",
+        "onboard_time": 1680503971,
+        "rank": 10,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 933201,
+        "num": 451087,
+        "word": "鹭卓 抄袭",
+        "onboard_time": 1680517474,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1920180,
+        "num": 441345,
+        "word": "刘国梁",
+        "onboard_time": 1680512909,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1622867,
+        "num": 428571,
+        "word": "安踏删除张继科宣传物料",
+        "onboard_time": 1680497915,
+        "rank": 13,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 577657,
+        "num": 409966,
+        "word": "还得是伊能静",
+        "onboard_time": 1680515675,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 561394,
+        "num": 397425,
+        "word": "长月烬明可以自己调滤镜",
+        "onboard_time": 1680516271,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1558117,
+        "num": 385941,
+        "word": "张继科曾直播上厕所",
+        "onboard_time": 1680520114,
+        "rank": 16,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 380523,
+        "num": 380523,
+        "word": "医院手推床轮子脱落孕妇摔下床",
+        "onboard_time": 1680516814,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352931,
+        "num": 352931,
+        "word": "建议每天最少走7000步",
+        "onboard_time": 1680507209,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 362574,
+        "num": 351696,
+        "word": "传播女友隐私是否构成犯罪",
+        "onboard_time": 1680507570,
+        "rank": 19,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 349478,
+        "num": 349478,
+        "word": "他是谁",
+        "onboard_time": 1680516153,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 313096,
+        "num": 313096,
+        "word": "金玟庭韩国VOGUE杂志大片",
+        "onboard_time": 1680517773,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 358043,
+        "num": 307079,
+        "word": "张继科方准备起诉",
+        "onboard_time": 1680411988,
+        "rank": 22,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 297694,
+        "num": 297694,
+        "word": "泰坦尼克号",
+        "onboard_time": 1680509674,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 292490,
+        "num": 292490,
+        "word": "肖战回应形象变化",
+        "onboard_time": 1680494072,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 281642,
+        "num": 281642,
+        "word": "多家代言公司回应张继科事件",
+        "onboard_time": 1680506070,
+        "rank": 25,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 267673,
+        "num": 267673,
+        "word": "不要在职场把自己当小孩",
+        "onboard_time": 1680509973,
+        "rank": 26,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 265146,
+        "num": 265146,
+        "word": "为什么长月烬明是敦煌风",
+        "onboard_time": 1680518313,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 261295,
+        "num": 261295,
+        "word": "北京发布明星广告代言新规",
+        "onboard_time": 1680516093,
+        "rank": 28,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 239939,
+        "num": 239939,
+        "word": "他是谁结局",
+        "onboard_time": 1680520774,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 222061,
+        "num": 222061,
+        "word": "网友给白鹿P的妆容",
+        "onboard_time": 1680512730,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 233521,
+        "num": 220220,
+        "word": "他是谁88案告破",
+        "onboard_time": 1680520414,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 206541,
+        "num": 206541,
+        "word": "张继科借条",
+        "onboard_time": 1680442296,
+        "rank": 32,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 203863,
+        "num": 203863,
+        "word": "易烊千玺顺毛眼镜造型",
+        "onboard_time": 1680509012,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 202334,
+        "num": 202334,
+        "word": "原来狗子上班也会变丑",
+        "onboard_time": 1680519513,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 204547,
+        "num": 201716,
+        "word": "李微敖 张继科",
+        "onboard_time": 1680326491,
+        "rank": 35,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 196873,
+        "num": 196873,
+        "word": "为什么父母辈不理解双休",
+        "onboard_time": 1680520594,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 195599,
+        "num": 195599,
+        "word": "NewJeans新曲Zero",
+        "onboard_time": 1680514112,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 192606,
+        "num": 192606,
+        "word": "不要让女性成为话题焦点",
+        "onboard_time": 1680520774,
+        "rank": 38,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 194468,
+        "num": 192388,
+        "word": "长月烬明",
+        "onboard_time": 1680512551,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 185869,
+        "num": 185869,
+        "word": "你不需要把任何人神格化",
+        "onboard_time": 1680515012,
+        "rank": 40,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 168615,
+        "num": 168615,
+        "word": "神隐直播",
+        "onboard_time": 1680517773,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163486,
+        "num": 163486,
+        "word": "景甜",
+        "onboard_time": 1680444521,
+        "rank": 42,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 152401,
+        "num": 152401,
+        "word": "虞书欣韩国街边随拍",
+        "onboard_time": 1680498096,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146597,
+        "num": 146597,
+        "word": "聂宝华下线了",
+        "onboard_time": 1680521253,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 144656,
+        "num": 144656,
+        "word": "赵粤库存跳舞视频",
+        "onboard_time": 1680520894,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 143615,
+        "num": 143615,
+        "word": "浪漫医生金师傅剧照公开",
+        "onboard_time": 1680516570,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 112060,
+        "num": 143614,
+        "word": "上班如上坟",
+        "onboard_time": 1680504209,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 79712,
+        "num": 143613,
+        "word": "王者荣耀杨玉环",
+        "onboard_time": 1680496537,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 76512,
+        "num": 143613,
+        "word": "更适合中国宝宝体质的美食",
+        "onboard_time": 1680521496,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#凝心铸魂向复兴#"
+    }
+  }
+}
