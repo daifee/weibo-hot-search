@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680536024093,
+  "endTime": 1680538976202,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -139,6 +139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3162601,
+      "num": 291963,
+      "word": "S先生是谁",
+      "onboard_time": 1680534816,
+      "rank": 18,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 3054432,
       "num": 3054432,
       "word": "B站UP主发起停更潮",
@@ -273,14 +281,6 @@
       "onboard_time": 1680413789,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2046707,
-      "num": 291963,
-      "word": "S先生是谁",
-      "onboard_time": 1680534816,
-      "rank": 18,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1988084,
@@ -2835,6 +2835,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 280706,
+      "num": 210740,
+      "word": "吃菠萝扎嘴的原因",
+      "onboard_time": 1680537627,
+      "rank": 14,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 280268,
       "num": 199850,
       "word": "耳屎是怎样保护耳朵的",
@@ -4763,6 +4771,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 184531,
+      "num": 168516,
+      "word": "张含韵机场捡到李纯王菊假睫毛",
+      "onboard_time": 1680536974,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 183834,
       "num": 183834,
       "word": "放学后等家长最安全的地方",
@@ -6227,6 +6243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 123260,
+      "num": 123260,
+      "word": "HYBE新男团BOYNEXTDOOR主页公开",
+      "onboard_time": 1680538348,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 122835,
       "num": 122835,
       "word": "当狗狗和好朋友开视频时",
@@ -6681,6 +6705,14 @@
       "onboard_time": 1680275308,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 100116,
+      "num": 100116,
+      "word": "IVE新歌预告照",
+      "onboard_time": 1680536974,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 99815,
