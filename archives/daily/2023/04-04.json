@@ -1,6 +1,6 @@
 {
   "startTime": 1680538976202,
-  "endTime": 1680543223682,
+  "endTime": 1680546050565,
   "band_list": [
     {
       "raw_hot": 3162601,
@@ -259,6 +259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 149517,
+      "num": 149517,
+      "word": "代号鸢周瑜",
+      "onboard_time": 1680542778,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 140915,
       "num": 140915,
       "word": "力灿承认曾性骚扰",
@@ -379,6 +387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 102822,
+      "num": 102822,
+      "word": "他是谁大结局你满意吗",
+      "onboard_time": 1680542179,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 100116,
       "num": 100116,
       "word": "IVE新歌预告照",
@@ -403,14 +419,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 84107,
-      "num": 84107,
-      "word": "他是谁大结局你满意吗",
-      "onboard_time": 1680542179,
-      "rank": 14,
-      "category": "影视"
-    },
-    {
       "raw_hot": 79158,
       "num": 169579,
       "word": "建议每天最少走7000步",
@@ -427,20 +435,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 46204,
-      "num": 46204,
-      "word": "代号鸢周瑜",
-      "onboard_time": 1680542778,
-      "rank": 45,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 37585,
       "num": 37585,
       "word": "墨茉点心局杭州门店关闭",
       "onboard_time": 1680543196,
       "rank": 49,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 29743,
+      "num": 28833,
+      "word": "100秒梳理张继科事件",
+      "onboard_time": 1680522632,
+      "rank": 43,
+      "category": "社会新闻,艺人"
     }
   ],
   "hotgov_list": [

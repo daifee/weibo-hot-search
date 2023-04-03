@@ -1,6 +1,6 @@
 {
   "startTime": 1680452464197,
-  "endTime": 1680543223682,
+  "endTime": 1680546050565,
   "band_list": [
     {
       "raw_hot": 9506486,
@@ -2195,6 +2195,14 @@
       "category": "国内要闻,军事"
     },
     {
+      "raw_hot": 149517,
+      "num": 149517,
+      "word": "代号鸢周瑜",
+      "onboard_time": 1680542778,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 149341,
       "num": 149341,
       "word": "郑秀妍首次挑战甩手舞",
@@ -2371,6 +2379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 102822,
+      "num": 102822,
+      "word": "他是谁大结局你满意吗",
+      "onboard_time": 1680542179,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 102470,
       "num": 133131,
       "word": "黄山清明门票预约已满",
@@ -2433,14 +2449,6 @@
       "onboard_time": 1680431486,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 84107,
-      "num": 84107,
-      "word": "他是谁大结局你满意吗",
-      "onboard_time": 1680542179,
-      "rank": 14,
-      "category": "影视"
     },
     {
       "raw_hot": 82186,
@@ -2507,20 +2515,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 46204,
-      "num": 46204,
-      "word": "代号鸢周瑜",
-      "onboard_time": 1680542778,
-      "rank": 45,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 37585,
       "num": 37585,
       "word": "墨茉点心局杭州门店关闭",
       "onboard_time": 1680543196,
       "rank": 49,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 29743,
+      "num": 28833,
+      "word": "100秒梳理张继科事件",
+      "onboard_time": 1680522632,
+      "rank": 43,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 27133,
