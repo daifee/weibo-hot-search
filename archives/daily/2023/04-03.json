@@ -1,6 +1,6 @@
 {
   "startTime": 1680452464197,
-  "endTime": 1680491870069,
+  "endTime": 1680492829806,
   "band_list": [
     {
       "raw_hot": 8591138,
@@ -27,8 +27,8 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 2546930,
-      "num": 2546930,
+      "raw_hot": 4650108,
+      "num": 4650108,
       "word": "张继科年收入曾达6000万元",
       "onboard_time": 1680490529,
       "rank": 0,
@@ -49,6 +49,14 @@
       "onboard_time": 1680481647,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1920955,
+      "num": 1920955,
+      "word": "律师称若爆料属实张继科或涉多项违法",
+      "onboard_time": 1680489868,
+      "rank": 4,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1825439,
@@ -80,14 +88,6 @@
       "word": "坂本龙一去世",
       "onboard_time": 1680438989,
       "rank": 1,
-      "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 1387632,
-      "num": 1387632,
-      "word": "律师称若爆料属实张继科或涉多项违法",
-      "onboard_time": 1680489868,
-      "rank": 4,
       "category": "社会新闻,艺人"
     },
     {
@@ -123,6 +123,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1059065,
+      "num": 1059065,
+      "word": "曹格女儿说现在不喜欢被叫姐姐",
+      "onboard_time": 1680491850,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 959032,
       "num": 959032,
       "word": "村民上坟奥迪停墓地旁被烧成空壳",
@@ -153,6 +161,14 @@
       "onboard_time": 1680486387,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 809404,
+      "num": 809404,
+      "word": "A路人",
+      "onboard_time": 1680491427,
+      "rank": 17,
+      "category": "网红"
     },
     {
       "raw_hot": 777495,
@@ -251,6 +267,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 532442,
+      "num": 532442,
+      "word": "陈都灵一天官宣两部剧",
+      "onboard_time": 1680491608,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 509461,
       "num": 509461,
       "word": "一出站就被惊艳了的宝藏地铁口",
@@ -299,6 +323,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 450743,
+      "num": 450743,
+      "word": "湖南一家族20多人献了45万毫升血",
+      "onboard_time": 1680489627,
+      "rank": 49,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 438162,
       "num": 438162,
       "word": "吴尊友谈戴口罩",
@@ -313,6 +345,14 @@
       "onboard_time": 1680489807,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 422193,
+      "num": 422193,
+      "word": "易烊千玺GQ杂志",
+      "onboard_time": 1680490948,
+      "rank": 29,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 395742,
@@ -363,14 +403,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 371725,
-      "num": 371725,
-      "word": "A路人",
-      "onboard_time": 1680491427,
-      "rank": 17,
-      "category": "网红"
-    },
-    {
       "raw_hot": 355150,
       "num": 355150,
       "word": "把垃圾桶拍成买不起的感觉",
@@ -385,14 +417,6 @@
       "onboard_time": 1680438688,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 345099,
-      "num": 345099,
-      "word": "湖南一家族20多人献了45万毫升血",
-      "onboard_time": 1680489627,
-      "rank": 49,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 344516,
@@ -425,14 +449,6 @@
       "onboard_time": 1680479848,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 295981,
-      "num": 295981,
-      "word": "易烊千玺GQ杂志",
-      "onboard_time": 1680490948,
-      "rank": 29,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 292603,
@@ -475,12 +491,36 @@
       "category": "情感"
     },
     {
+      "raw_hot": 258927,
+      "num": 258927,
+      "word": "飞猪",
+      "onboard_time": 1680490407,
+      "rank": 42,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 255843,
+      "num": 255843,
+      "word": "罗云熙白鹿长月烬明妆造",
+      "onboard_time": 1680492268,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 253657,
       "num": 253657,
       "word": "怪云 摄魂怪",
       "onboard_time": 1680477262,
       "rank": 48,
       "category": "自然"
+    },
+    {
+      "raw_hot": 249290,
+      "num": 249290,
+      "word": "考研淘汰率或超八成你还会考么",
+      "onboard_time": 1680491790,
+      "rank": 38,
+      "category": "教育"
     },
     {
       "raw_hot": 238735,
@@ -579,12 +619,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 206849,
+      "num": 206849,
+      "word": "中国队德班世乒赛参赛名单",
+      "onboard_time": 1680492208,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 206563,
       "num": 206563,
       "word": "张杰演唱会",
       "onboard_time": 1680435568,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 203142,
+      "num": 203142,
+      "word": "第十三届北京国际电影节主海报",
+      "onboard_time": 1680492148,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 201454,
@@ -601,14 +657,6 @@
       "onboard_time": 1680487948,
       "rank": 35,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 198300,
-      "num": 198300,
-      "word": "考研淘汰率或超八成你还会考么",
-      "onboard_time": 1680491790,
-      "rank": 38,
-      "category": "教育"
     },
     {
       "raw_hot": 197002,
@@ -633,6 +681,14 @@
       "onboard_time": 1680451114,
       "rank": 30,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 192894,
+      "num": 192894,
+      "word": "张继科持股公司仅1人参保",
+      "onboard_time": 1680492570,
+      "rank": 40,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 191752,
@@ -673,14 +729,6 @@
       "onboard_time": 1680443981,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 172939,
-      "num": 172939,
-      "word": "飞猪",
-      "onboard_time": 1680490407,
-      "rank": 42,
-      "category": "旅游"
     },
     {
       "raw_hot": 171425,
@@ -737,14 +785,6 @@
       "onboard_time": 1680491188,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 157135,
-      "num": 157135,
-      "word": "曹格女儿说现在不喜欢被叫姐姐",
-      "onboard_time": 1680491850,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 155747,
@@ -899,6 +939,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 102470,
+      "num": 133131,
+      "word": "黄山清明门票预约已满",
+      "onboard_time": 1680492148,
+      "rank": 49,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 102014,
       "num": 102014,
       "word": "秦岚张峻宁吻戏",
@@ -1023,6 +1071,9 @@
     },
     {
       "word": "#凝心铸魂向复兴#"
+    },
+    {
+      "word": "#英雄从未离去我们不会忘记#"
     }
   ]
 }
