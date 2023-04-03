@@ -1,0 +1,410 @@
+{
+  "runTime": 1680486202468,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2026537,
+        "num": 2026537,
+        "word": "今年考研录取率或不到两成",
+        "onboard_time": 1680483510,
+        "rank": 0,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1350707,
+        "num": 1350707,
+        "word": "8日起丫丫起居全部移交中方人员",
+        "onboard_time": 1680484768,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87667,
+        "num": 1064277,
+        "word": "英雄之光",
+        "onboard_time": 1680447168,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 959032,
+        "num": 959032,
+        "word": "村民上坟奥迪停墓地旁被烧成空壳",
+        "onboard_time": 1680483452,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 642354,
+        "num": 642354,
+        "word": "真实地活下去 不要忘记每天看月亮",
+        "onboard_time": 1680441936,
+        "rank": 4,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 582760,
+        "num": 582760,
+        "word": "俄一战地记者在咖啡馆被炸身亡",
+        "onboard_time": 1680483452,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 509461,
+        "num": 509461,
+        "word": "一出站就被惊艳了的宝藏地铁口",
+        "onboard_time": 1680483269,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 503345,
+        "num": 503345,
+        "word": "坂本龙一去世",
+        "onboard_time": 1680438989,
+        "rank": 7,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 498006,
+        "num": 498006,
+        "word": "金钟仁你做到了",
+        "onboard_time": 1680484530,
+        "rank": 8,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 369050,
+        "num": 369050,
+        "word": "特朗普计划今天飞纽约接受传讯",
+        "onboard_time": 1680482371,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 5202489,
+        "num": 368765,
+        "word": "张继科借款利率是银行商贷的4倍",
+        "onboard_time": 1680476960,
+        "rank": 10,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1930154,
+        "num": 368025,
+        "word": "丫丫",
+        "onboard_time": 1680481647,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371219,
+        "num": 364070,
+        "word": "泰国偶遇林更新",
+        "onboard_time": 1680478223,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 353438,
+        "num": 353438,
+        "word": "把垃圾桶拍成买不起的感觉",
+        "onboard_time": 1680450273,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 339352,
+        "num": 339352,
+        "word": "王一博ins新增高尔夫关注",
+        "onboard_time": 1680485668,
+        "rank": 14,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 320433,
+        "num": 320433,
+        "word": "情头",
+        "onboard_time": 1680479308,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 295988,
+        "num": 295988,
+        "word": "多国宣布自愿石油减产",
+        "onboard_time": 1680485309,
+        "rank": 16,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 273289,
+        "num": 273289,
+        "word": "吴尊友谈戴口罩",
+        "onboard_time": 1680480750,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271103,
+        "num": 271103,
+        "word": "粉丝真的给种地吧拉来了赞助",
+        "onboard_time": 1680443800,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 270405,
+        "num": 270405,
+        "word": "秋瓷炫跳的gee",
+        "onboard_time": 1680450336,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2578605,
+        "num": 270092,
+        "word": "景甜",
+        "onboard_time": 1680444521,
+        "rank": 20,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1727952,
+        "num": 266800,
+        "word": "张继科借条",
+        "onboard_time": 1680442296,
+        "rank": 21,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1032817,
+        "num": 264255,
+        "word": "张继科持股公司曾推销厚礼冠军酒",
+        "onboard_time": 1680477742,
+        "rank": 22,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 591212,
+        "num": 262372,
+        "word": "张继科联合创立的茶饮品牌已成老赖",
+        "onboard_time": 1680448179,
+        "rank": 23,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 385270,
+        "num": 260690,
+        "word": "研究发现早晨课越多成绩越差",
+        "onboard_time": 1680484889,
+        "rank": 24,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 367022,
+        "num": 258780,
+        "word": "张继科回应因欠债传播女演员隐私视频",
+        "onboard_time": 1680332610,
+        "rank": 25,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 334321,
+        "num": 257353,
+        "word": "张继科方准备起诉",
+        "onboard_time": 1680411988,
+        "rank": 26,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 291514,
+        "num": 255836,
+        "word": "王栎鑫蓝发",
+        "onboard_time": 1680478404,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 253895,
+        "num": 253895,
+        "word": "黄晓明回归乘风4",
+        "onboard_time": 1680485012,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241029,
+        "num": 241029,
+        "word": "夫妻结婚6年因3岁儿子转学想离婚",
+        "onboard_time": 1680438688,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235725,
+        "num": 235725,
+        "word": "重庆警方通报男子持刀行凶",
+        "onboard_time": 1680450753,
+        "rank": 30,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 233475,
+        "num": 233475,
+        "word": "李微敖 张继科",
+        "onboard_time": 1680326491,
+        "rank": 31,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 227224,
+        "num": 227224,
+        "word": "体育总局7人工作组正式进驻足协",
+        "onboard_time": 1680485609,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211890,
+        "num": 211890,
+        "word": "小区1天内20只流浪猫集体死亡",
+        "onboard_time": 1680448003,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207447,
+        "num": 207447,
+        "word": "大学生你别太离谱",
+        "onboard_time": 1680451769,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 199780,
+        "num": 199780,
+        "word": "怪云 摄魂怪",
+        "onboard_time": 1680477262,
+        "rank": 35,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 189252,
+        "num": 189252,
+        "word": "苏醒说最后一攻为什么不给欧文呢",
+        "onboard_time": 1680484826,
+        "rank": 36,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 188198,
+        "num": 188198,
+        "word": "安俊英复职",
+        "onboard_time": 1680485369,
+        "rank": 37,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 177164,
+        "num": 177164,
+        "word": "北京动物园大熊猫馆人挤人",
+        "onboard_time": 1680484410,
+        "rank": 38,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 173982,
+        "num": 173982,
+        "word": "陆虎反正都是我巡演",
+        "onboard_time": 1680482429,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 161959,
+        "num": 161959,
+        "word": "大河报",
+        "onboard_time": 1680479848,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159997,
+        "num": 159997,
+        "word": "赵露思黄衣遮阳帽视频",
+        "onboard_time": 1680477622,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 155747,
+        "num": 155747,
+        "word": "湖人VS火箭",
+        "onboard_time": 1680482129,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148880,
+        "num": 148880,
+        "word": "又是周一",
+        "onboard_time": 1680481468,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 136637,
+        "num": 136637,
+        "word": "10省区将出现大到暴雨",
+        "onboard_time": 1680485907,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135591,
+        "num": 135591,
+        "word": "SEVENTEEN新歌含义",
+        "onboard_time": 1680481710,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 133353,
+        "num": 133353,
+        "word": "白桃星座",
+        "onboard_time": 1680446323,
+        "rank": 46,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 127342,
+        "num": 127342,
+        "word": "拉塞尔左脚酸痛",
+        "onboard_time": 1680486149,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103035,
+        "num": 125694,
+        "word": "Rookie",
+        "onboard_time": 1680445663,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 97541,
+        "num": 125140,
+        "word": "英雄联盟墨之影皮肤",
+        "onboard_time": 1680482552,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#8487人获颁戍守边疆纪念章#"
+    }
+  }
+}
