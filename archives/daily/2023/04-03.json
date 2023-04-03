@@ -1,6 +1,6 @@
 {
   "startTime": 1680452464197,
-  "endTime": 1680503726033,
+  "endTime": 1680506159083,
   "band_list": [
     {
       "raw_hot": 9506486,
@@ -40,6 +40,22 @@
       "word": "景甜",
       "onboard_time": 1680444521,
       "rank": 20,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 5169585,
+      "num": 5169585,
+      "word": "安踏 双休",
+      "onboard_time": 1680503670,
+      "rank": 33,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 4578265,
+      "num": 421680,
+      "word": "张继科曾多次被曝涉赌",
+      "onboard_time": 1680503971,
+      "rank": 10,
       "category": "社会新闻,艺人"
     },
     {
@@ -192,6 +208,14 @@
       "word": "清明放假1天",
       "onboard_time": 1680487168,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 894662,
+      "num": 894662,
+      "word": "姐弟坠亡案母亲称绝不放过叶诚尘",
+      "onboard_time": 1680502531,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -491,6 +515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 437871,
+      "num": 437871,
+      "word": "四六级",
+      "onboard_time": 1680503855,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 435945,
       "num": 435945,
       "word": "杨紫车保罗199爱合影",
@@ -579,6 +611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 368176,
+      "num": 313289,
+      "word": "上班如上坟",
+      "onboard_time": 1680504209,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 355150,
       "num": 355150,
       "word": "把垃圾桶拍成买不起的感觉",
@@ -619,6 +659,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 328223,
+      "num": 328223,
+      "word": "张杰打碟蹦迪",
+      "onboard_time": 1680504270,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 326847,
       "num": 326847,
       "word": "考研淘汰率或超八成你还会考么",
@@ -635,14 +683,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 314245,
-      "num": 314245,
-      "word": "姐弟坠亡案母亲称绝不放过叶诚尘",
-      "onboard_time": 1680502531,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 299814,
       "num": 299814,
       "word": "大河报",
@@ -657,6 +697,14 @@
       "onboard_time": 1680448003,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 291542,
+      "num": 291542,
+      "word": "天秤座藏起来的一面",
+      "onboard_time": 1680501030,
+      "rank": 31,
+      "category": "情感,网红"
     },
     {
       "raw_hot": 287705,
@@ -688,14 +736,6 @@
       "word": "白桃星座",
       "onboard_time": 1680446323,
       "rank": 11,
-      "category": "情感,网红"
-    },
-    {
-      "raw_hot": 283266,
-      "num": 283266,
-      "word": "天秤座藏起来的一面",
-      "onboard_time": 1680501030,
-      "rank": 31,
       "category": "情感,网红"
     },
     {
@@ -795,14 +835,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 227840,
-      "num": 227840,
-      "word": "安踏 双休",
-      "onboard_time": 1680503670,
-      "rank": 33,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 225391,
       "num": 225391,
       "word": "汪峰女儿小苹果自弹自唱",
@@ -825,6 +857,14 @@
       "onboard_time": 1680485907,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 221257,
+      "num": 221257,
+      "word": "薄冰剧情版预告",
+      "onboard_time": 1680506130,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 219849,
@@ -947,6 +987,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 204288,
+      "num": 204288,
+      "word": "真我发布会",
+      "onboard_time": 1680505530,
+      "rank": 36,
+      "category": "科技"
+    },
+    {
       "raw_hot": 203142,
       "num": 203142,
       "word": "第十三届北京国际电影节主海报",
@@ -985,6 +1033,14 @@
       "onboard_time": 1680477501,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 200659,
+      "num": 200659,
+      "word": "电竞少年踏春记",
+      "onboard_time": 1680506070,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 200033,
@@ -1043,6 +1099,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 193745,
+      "num": 193745,
+      "word": "多家代言公司回应张继科事件",
+      "onboard_time": 1680506070,
+      "rank": 38,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 191752,
       "num": 191752,
       "word": "卫国平今晚意能平吗",
@@ -1073,6 +1137,14 @@
       "onboard_time": 1680485369,
       "rank": 37,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 186454,
+      "num": 186454,
+      "word": "一起来看演唱会",
+      "onboard_time": 1680504870,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 181209,
@@ -1163,6 +1235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 154936,
+      "num": 154936,
+      "word": "柯南贝克街亡灵数字生命版预告",
+      "onboard_time": 1680505948,
+      "rank": 44,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 154907,
       "num": 154907,
       "word": "第一次见有发型的鸭子",
@@ -1195,6 +1275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 150185,
+      "num": 150185,
+      "word": "官方辟谣泰勒来成都开演唱会",
+      "onboard_time": 1680505828,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 149871,
       "num": 149871,
       "word": "马英九唱月亮代表我的心",
@@ -1225,6 +1313,14 @@
       "onboard_time": 1680489267,
       "rank": 46,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 138090,
+      "num": 138090,
+      "word": "郑秀妍首次挑战甩手舞",
+      "onboard_time": 1680505052,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 131219,
