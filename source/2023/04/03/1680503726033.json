@@ -1,0 +1,410 @@
+{
+  "runTime": 1680503726033,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8591986,
+        "num": 8591986,
+        "word": "安踏删除张继科宣传物料",
+        "onboard_time": 1680497915,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 912514,
+        "num": 912514,
+        "word": "吴倩乘风破浪4上班路透",
+        "onboard_time": 1680493230,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29296,
+        "num": 860855,
+        "word": "第六届数字中国建设峰会新闻发布会",
+        "onboard_time": 1680488489,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2148496,
+        "num": 860658,
+        "word": "李铁",
+        "onboard_time": 1680497315,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 857878,
+        "num": 857878,
+        "word": "UP主列举B站7大问题",
+        "onboard_time": 1680499471,
+        "rank": 4,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 725902,
+        "num": 725902,
+        "word": "快递员实名举报老人被骗买高价药",
+        "onboard_time": 1680498035,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 678663,
+        "num": 678663,
+        "word": "曹格女儿说现在不喜欢被叫姐姐",
+        "onboard_time": 1680491850,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 634928,
+        "num": 634928,
+        "word": "北野武说只剩下我一个人了",
+        "onboard_time": 1680499349,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 624364,
+        "num": 624364,
+        "word": "警方通报上海一男子因纠纷杀害妻子",
+        "onboard_time": 1680499830,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 524840,
+        "num": 524840,
+        "word": "长月烬明定档",
+        "onboard_time": 1680488668,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1745905,
+        "num": 523811,
+        "word": "张继科年收入曾达6000万元",
+        "onboard_time": 1680490529,
+        "rank": 10,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 509788,
+        "num": 509788,
+        "word": "主持人时期的彭小苒",
+        "onboard_time": 1680494855,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 445412,
+        "num": 445412,
+        "word": "律师称若爆料属实张继科或涉多项违法",
+        "onboard_time": 1680489868,
+        "rank": 12,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1287499,
+        "num": 440893,
+        "word": "张继科代言",
+        "onboard_time": 1680499952,
+        "rank": 13,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 418179,
+        "num": 418179,
+        "word": "王者荣耀杨玉环",
+        "onboard_time": 1680496537,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 347758,
+        "num": 347758,
+        "word": "陈都灵一天官宣两部剧",
+        "onboard_time": 1680491608,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 729412,
+        "num": 346816,
+        "word": "安踏说已终止和张继科合作",
+        "onboard_time": 1680503011,
+        "rank": 16,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 345405,
+        "num": 345405,
+        "word": "乘风破浪 翻红",
+        "onboard_time": 1680496416,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 318414,
+        "num": 318414,
+        "word": "今年考研录取率或不到两成",
+        "onboard_time": 1680483510,
+        "rank": 18,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 519999,
+        "num": 318223,
+        "word": "揭秘张继科MCN机构",
+        "onboard_time": 1680495935,
+        "rank": 19,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 961887,
+        "num": 317542,
+        "word": "景甜",
+        "onboard_time": 1680444521,
+        "rank": 20,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 588249,
+        "num": 316961,
+        "word": "肖战回应形象变化",
+        "onboard_time": 1680494072,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1419737,
+        "num": 316695,
+        "word": "张继科借条",
+        "onboard_time": 1680442296,
+        "rank": 22,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 386769,
+        "num": 315839,
+        "word": "女子坐飞机意外发现自己包机了",
+        "onboard_time": 1680486387,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348989,
+        "num": 315319,
+        "word": "虞书欣韩国街边随拍",
+        "onboard_time": 1680498096,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 495030,
+        "num": 315181,
+        "word": "张继科方准备起诉",
+        "onboard_time": 1680411988,
+        "rank": 25,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 347062,
+        "num": 314381,
+        "word": "为什么家长认为考编很容易",
+        "onboard_time": 1680498514,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 314245,
+        "num": 314245,
+        "word": "姐弟坠亡案母亲称绝不放过叶诚尘",
+        "onboard_time": 1680502531,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363952,
+        "num": 300211,
+        "word": "李微敖 张继科",
+        "onboard_time": 1680326491,
+        "rank": 28,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 283266,
+        "num": 283266,
+        "word": "天秤座藏起来的一面",
+        "onboard_time": 1680501030,
+        "rank": 29,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 282718,
+        "num": 282718,
+        "word": "杨紫车保罗199爱合影",
+        "onboard_time": 1680498096,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 263320,
+        "num": 263320,
+        "word": "爱奇艺4月好多新综艺",
+        "onboard_time": 1680496116,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258125,
+        "num": 258125,
+        "word": "尘封十三载定档",
+        "onboard_time": 1680501932,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 227840,
+        "num": 227840,
+        "word": "安踏 双休",
+        "onboard_time": 1680503670,
+        "rank": 33,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 214221,
+        "num": 214221,
+        "word": "洪世贤感觉又要被艾莉抢走",
+        "onboard_time": 1680498756,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212447,
+        "num": 212447,
+        "word": "女团univu5正式出道",
+        "onboard_time": 1680498992,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203862,
+        "num": 203862,
+        "word": "村民上坟奥迪停墓地旁被烧成空壳",
+        "onboard_time": 1680483452,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196126,
+        "num": 196126,
+        "word": "你坐火车时最反感什么行为",
+        "onboard_time": 1680501091,
+        "rank": 37,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 170963,
+        "num": 170963,
+        "word": "盘点张继科商业版图",
+        "onboard_time": 1680403287,
+        "rank": 38,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 167636,
+        "num": 167636,
+        "word": "李彩桦唱无法原谅",
+        "onboard_time": 1680493713,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165226,
+        "num": 165226,
+        "word": "王俊凯学习滑雪vlog",
+        "onboard_time": 1680502290,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168669,
+        "num": 157109,
+        "word": "张继科借款利率是银行商贷的4倍",
+        "onboard_time": 1680476960,
+        "rank": 41,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 145065,
+        "num": 145065,
+        "word": "喜欢一个人第一反应是什么",
+        "onboard_time": 1680495817,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141100,
+        "num": 141100,
+        "word": "清明放假1天",
+        "onboard_time": 1680487168,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133040,
+        "num": 133040,
+        "word": "周杰伦海口演唱会",
+        "onboard_time": 1680495155,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 132153,
+        "num": 132153,
+        "word": "易烊千玺GQ杂志",
+        "onboard_time": 1680490948,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 128078,
+        "num": 128078,
+        "word": "张继科持股公司仅1人参保",
+        "onboard_time": 1680492570,
+        "rank": 46,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 119127,
+        "num": 119127,
+        "word": "妈妈支持自闭症儿子追求音乐梦",
+        "onboard_time": 1680503429,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 116062,
+        "num": 118881,
+        "word": "光与夜之恋陆沉",
+        "onboard_time": 1680498456,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 115220,
+        "num": 118444,
+        "word": "王者荣耀",
+        "onboard_time": 1680496236,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#英雄从未离去我们不会忘记#"
+    }
+  }
+}

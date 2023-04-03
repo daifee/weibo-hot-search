@@ -1,6 +1,6 @@
 {
   "startTime": 1680452464197,
-  "endTime": 1680502937275,
+  "endTime": 1680503726033,
   "band_list": [
     {
       "raw_hot": 9506486,
@@ -11,19 +11,19 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 8591986,
+      "num": 8591986,
+      "word": "安踏删除张继科宣传物料",
+      "onboard_time": 1680497915,
+      "rank": 1,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 8591138,
       "num": 8591138,
       "word": "张继科借条",
       "onboard_time": 1680442296,
       "rank": 0,
-      "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 8468050,
-      "num": 8468050,
-      "word": "安踏删除张继科宣传物料",
-      "onboard_time": 1680497915,
-      "rank": 1,
       "category": "社会新闻,艺人"
     },
     {
@@ -131,7 +131,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1203048,
+      "raw_hot": 1287499,
       "num": 495665,
       "word": "张继科代言",
       "onboard_time": 1680499952,
@@ -203,8 +203,8 @@
       "category": "艺人,综艺"
     },
     {
-      "raw_hot": 839507,
-      "num": 839507,
+      "raw_hot": 857878,
+      "num": 857878,
       "word": "UP主列举B站7大问题",
       "onboard_time": 1680499471,
       "rank": 42,
@@ -275,6 +275,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 729412,
+      "num": 346816,
+      "word": "安踏说已终止和张继科合作",
+      "onboard_time": 1680503011,
+      "rank": 16,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 725902,
+      "num": 725902,
+      "word": "快递员实名举报老人被骗买高价药",
+      "onboard_time": 1680498035,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 723604,
       "num": 723604,
       "word": "北野武说只剩下我一个人了",
@@ -307,14 +323,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 680517,
-      "num": 680517,
-      "word": "快递员实名举报老人被骗买高价药",
-      "onboard_time": 1680498035,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 666592,
       "num": 666592,
       "word": "李彩桦唱无法原谅",
@@ -339,8 +347,8 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 617022,
-      "num": 617022,
+      "raw_hot": 624364,
+      "num": 624364,
       "word": "警方通报上海一男子因纠纷杀害妻子",
       "onboard_time": 1680499830,
       "rank": 38,
@@ -587,20 +595,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 347062,
+      "num": 330702,
+      "word": "为什么家长认为考编很容易",
+      "onboard_time": 1680498514,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 344516,
       "num": 344516,
       "word": "粉丝真的给种地吧拉来了赞助",
       "onboard_time": 1680443800,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 330702,
-      "num": 330702,
-      "word": "为什么家长认为考编很容易",
-      "onboard_time": 1680498514,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 328950,
@@ -625,6 +633,14 @@
       "onboard_time": 1680488727,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 314245,
+      "num": 314245,
+      "word": "姐弟坠亡案母亲称绝不放过叶诚尘",
+      "onboard_time": 1680502531,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 299814,
@@ -675,6 +691,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 283266,
+      "num": 283266,
+      "word": "天秤座藏起来的一面",
+      "onboard_time": 1680501030,
+      "rank": 31,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 280083,
       "num": 280083,
       "word": "女团univu5正式出道",
@@ -707,19 +731,19 @@
       "category": "情感"
     },
     {
-      "raw_hot": 263036,
-      "num": 263036,
-      "word": "天秤座藏起来的一面",
-      "onboard_time": 1680501030,
-      "rank": 31,
-      "category": "情感,网红"
-    },
-    {
       "raw_hot": 262004,
       "num": 262004,
       "word": "陈晓连播两部剧",
       "onboard_time": 1680496777,
       "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 258125,
+      "num": 258125,
+      "word": "尘封十三载定档",
+      "onboard_time": 1680501932,
+      "rank": 33,
       "category": "影视"
     },
     {
@@ -771,12 +795,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 226740,
-      "num": 226740,
-      "word": "尘封十三载定档",
-      "onboard_time": 1680501932,
+      "raw_hot": 227840,
+      "num": 227840,
+      "word": "安踏 双休",
+      "onboard_time": 1680503670,
       "rank": 33,
-      "category": "影视"
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 225391,
@@ -843,6 +867,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 214221,
+      "num": 214221,
+      "word": "洪世贤感觉又要被艾莉抢走",
+      "onboard_time": 1680498756,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 214043,
       "num": 214043,
       "word": "王岳伦陪王诗龄理发",
@@ -889,14 +921,6 @@
       "onboard_time": 1680491790,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 206913,
-      "num": 206913,
-      "word": "洪世贤感觉又要被艾莉抢走",
-      "onboard_time": 1680498756,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 206849,
@@ -1075,28 +1099,20 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 169996,
-      "num": 169996,
-      "word": "这不只是娱乐事件还涉及法律问题",
-      "onboard_time": 1680417569,
-      "rank": 33,
-      "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 169597,
-      "num": 169597,
+      "raw_hot": 170963,
+      "num": 170963,
       "word": "盘点张继科商业版图",
       "onboard_time": 1680403287,
       "rank": 38,
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 166368,
-      "num": 166368,
-      "word": "姐弟坠亡案母亲称绝不放过叶诚尘",
-      "onboard_time": 1680502531,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 169996,
+      "num": 169996,
+      "word": "这不只是娱乐事件还涉及法律问题",
+      "onboard_time": 1680417569,
+      "rank": 33,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 165588,
@@ -1265,6 +1281,14 @@
       "onboard_time": 1680482552,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 119127,
+      "num": 119127,
+      "word": "妈妈支持自闭症儿子追求音乐梦",
+      "onboard_time": 1680503429,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 117010,
