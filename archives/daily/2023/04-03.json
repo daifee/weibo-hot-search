@@ -1,6 +1,6 @@
 {
   "startTime": 1680452464197,
-  "endTime": 1680510883175,
+  "endTime": 1680513443936,
   "band_list": [
     {
       "raw_hot": 9506486,
@@ -52,10 +52,18 @@
     },
     {
       "raw_hot": 4578265,
-      "num": 421680,
+      "num": 4371193,
       "word": "张继科曾多次被曝涉赌",
       "onboard_time": 1680503971,
       "rank": 10,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 2332624,
+      "num": 381279,
+      "word": "张继科曾在直播间直言安踏鞋丑",
+      "onboard_time": 1680509012,
+      "rank": 19,
       "category": "社会新闻,艺人"
     },
     {
@@ -115,12 +123,12 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 1538717,
-      "num": 315621,
-      "word": "张继科曾在直播间直言安踏鞋丑",
-      "onboard_time": 1680509012,
-      "rank": 19,
-      "category": "社会新闻,艺人"
+      "raw_hot": 1689535,
+      "num": 1689535,
+      "word": "刘维 户口本上只有我自己了",
+      "onboard_time": 1680512730,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 1399433,
@@ -204,7 +212,7 @@
     },
     {
       "raw_hot": 1098426,
-      "num": 271780,
+      "num": 316105,
       "word": "传播女友隐私是否构成犯罪",
       "onboard_time": 1680507570,
       "rank": 16,
@@ -427,6 +435,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 594470,
+      "num": 594470,
+      "word": "不要在职场把自己当小孩",
+      "onboard_time": 1680509973,
+      "rank": 46,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 582760,
       "num": 582760,
       "word": "俄一战地记者在咖啡馆被炸身亡",
@@ -515,6 +531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 487727,
+      "num": 298573,
+      "word": "张继科代理律师称现阶段不便发声",
+      "onboard_time": 1680510273,
+      "rank": 39,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 486924,
       "num": 486924,
       "word": "迪丽热巴ELLE封面视频预告",
@@ -531,8 +555,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 479383,
+      "num": 479383,
+      "word": "刘国梁",
+      "onboard_time": 1680512909,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 464862,
-      "num": 264060,
+      "num": 274751,
       "word": "易烊千玺顺毛眼镜造型",
       "onboard_time": 1680509012,
       "rank": 24,
@@ -643,6 +675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 385948,
+      "num": 385948,
+      "word": "泰坦尼克号",
+      "onboard_time": 1680509674,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 385270,
       "num": 283250,
       "word": "研究发现早晨课越多成绩越差",
@@ -665,6 +705,14 @@
       "onboard_time": 1680494496,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 368849,
+      "num": 368849,
+      "word": "长月烬明",
+      "onboard_time": 1680512551,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 355957,
@@ -731,14 +779,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 325552,
-      "num": 325552,
-      "word": "泰坦尼克号",
-      "onboard_time": 1680509674,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 323015,
       "num": 323015,
       "word": "德班",
@@ -747,12 +787,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 310236,
+      "num": 310236,
+      "word": "家长为14岁娃办清华升学宴发现被骗",
+      "onboard_time": 1680512792,
+      "rank": 17,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 299814,
       "num": 299814,
       "word": "大河报",
       "onboard_time": 1680479848,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 298089,
+      "num": 298089,
+      "word": "外交部对坂本龙一去世表示哀悼",
+      "onboard_time": 1680510813,
+      "rank": 48,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 292603,
@@ -809,14 +865,6 @@
       "onboard_time": 1680498992,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 273506,
-      "num": 273506,
-      "word": "不要在职场把自己当小孩",
-      "onboard_time": 1680509973,
-      "rank": 46,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 273493,
@@ -899,6 +947,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 251189,
+      "num": 251189,
+      "word": "来活了兄弟",
+      "onboard_time": 1680509912,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 250815,
       "num": 232393,
       "word": "龙马精神成了外国人团建电影",
@@ -929,14 +985,6 @@
       "onboard_time": 1680433288,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 229403,
-      "num": 229403,
-      "word": "来活了兄弟",
-      "onboard_time": 1680509912,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 225391,
@@ -1099,6 +1147,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 206429,
+      "num": 206429,
+      "word": "网友给白鹿P的妆容",
+      "onboard_time": 1680512730,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 206158,
       "num": 206158,
       "word": "折叠屏会取代直板机吗",
@@ -1129,14 +1185,6 @@
       "onboard_time": 1680492148,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 203047,
-      "num": 203047,
-      "word": "张继科代理律师称现阶段不便发声",
-      "onboard_time": 1680510273,
-      "rank": 39,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 202974,
@@ -1243,6 +1291,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 193701,
+      "num": 193701,
+      "word": "没见过长这么大耳朵的狗",
+      "onboard_time": 1680511952,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 191752,
       "num": 191752,
       "word": "卫国平今晚意能平吗",
@@ -1289,6 +1345,14 @@
       "onboard_time": 1680504870,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 183239,
+      "num": 183239,
+      "word": "长月烬明一生一念版预告",
+      "onboard_time": 1680513150,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 181209,
@@ -1387,12 +1451,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 159414,
-      "num": 159414,
-      "word": "外交部对坂本龙一去世表示哀悼",
-      "onboard_time": 1680510813,
-      "rank": 48,
-      "category": "社会新闻,艺人"
+      "raw_hot": 157039,
+      "num": 157039,
+      "word": "罗云熙单手抡三叉戟",
+      "onboard_time": 1680512012,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 156536,
+      "num": 156536,
+      "word": "新海诚说铃芽和草太是战友情",
+      "onboard_time": 1680513391,
+      "rank": 46,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 155747,
@@ -1465,6 +1537,14 @@
       "onboard_time": 1680486267,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 142941,
+      "num": 142941,
+      "word": "电竞人主打一个反差",
+      "onboard_time": 1680513092,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 139454,
