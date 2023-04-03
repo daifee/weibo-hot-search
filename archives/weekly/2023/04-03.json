@@ -1,6 +1,6 @@
 {
   "startTime": 1680452464197,
-  "endTime": 1680478424404,
+  "endTime": 1680484828684,
   "band_list": [
     {
       "raw_hot": 8591138,
@@ -11,15 +11,7 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 5771336,
-      "num": 200821,
-      "word": "景甜",
-      "onboard_time": 1680444521,
-      "rank": 20,
-      "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 4202923,
+      "raw_hot": 6131711,
       "num": 4202923,
       "word": "张继科借款利率是银行商贷的4倍",
       "onboard_time": 1680476960,
@@ -27,12 +19,36 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 5771336,
+      "num": 250796,
+      "word": "景甜",
+      "onboard_time": 1680444521,
+      "rank": 20,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1967488,
+      "num": 1967488,
+      "word": "丫丫",
+      "onboard_time": 1680481647,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1704155,
-      "num": 199412,
+      "num": 249186,
       "word": "张继科方准备起诉",
       "onboard_time": 1680411988,
       "rank": 21,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1409019,
+      "num": 1409019,
+      "word": "今年考研录取率或不到两成",
+      "onboard_time": 1680483510,
+      "rank": 1,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1399433,
@@ -59,6 +75,30 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1100322,
+      "num": 1100322,
+      "word": "真实地活下去 不要忘记每天看月亮",
+      "onboard_time": 1680441936,
+      "rank": 6,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1093278,
+      "num": 259438,
+      "word": "张继科持股公司曾推销厚礼冠军酒",
+      "onboard_time": 1680477742,
+      "rank": 7,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 783035,
+      "num": 783035,
+      "word": "村民上坟奥迪停墓地旁被烧成空壳",
+      "onboard_time": 1680483452,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 777495,
       "num": 777495,
       "word": "重庆群众挺身而出制服行凶男子",
@@ -76,11 +116,27 @@
     },
     {
       "raw_hot": 634654,
-      "num": 198824,
+      "num": 249607,
       "word": "张继科回应因欠债传播女演员隐私视频",
       "onboard_time": 1680332610,
       "rank": 22,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 550215,
+      "num": 550215,
+      "word": "俄一战地记者在咖啡馆被炸身亡",
+      "onboard_time": 1680483452,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 503929,
+      "num": 449388,
+      "word": "泰国偶遇林更新",
+      "onboard_time": 1680478223,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 491719,
@@ -91,12 +147,36 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 481015,
-      "num": 481015,
-      "word": "真实地活下去 不要忘记每天看月亮",
-      "onboard_time": 1680441936,
-      "rank": 6,
-      "category": "社会新闻,艺人"
+      "raw_hot": 479963,
+      "num": 479963,
+      "word": "特朗普计划今天飞纽约接受传讯",
+      "onboard_time": 1680482371,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 470548,
+      "num": 470548,
+      "word": "一出站就被惊艳了的宝藏地铁口",
+      "onboard_time": 1680483269,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 459190,
+      "num": 459190,
+      "word": "情头",
+      "onboard_time": 1680479308,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 438162,
+      "num": 438162,
+      "word": "吴尊友谈戴口罩",
+      "onboard_time": 1680480750,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 395742,
@@ -105,6 +185,14 @@
       "onboard_time": 1680444166,
       "rank": 7,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 394445,
+      "num": 249724,
+      "word": "王栎鑫蓝发",
+      "onboard_time": 1680478404,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 390344,
@@ -132,11 +220,19 @@
     },
     {
       "raw_hot": 348410,
-      "num": 196885,
+      "num": 248969,
       "word": "夫妻结婚6年因3岁儿子转学想离婚",
       "onboard_time": 1680438688,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 344516,
+      "num": 344516,
+      "word": "粉丝真的给种地吧拉来了赞助",
+      "onboard_time": 1680443800,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 328950,
@@ -147,8 +243,16 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 299814,
+      "num": 299814,
+      "word": "大河报",
+      "onboard_time": 1680479848,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 292603,
-      "num": 193517,
+      "num": 248792,
       "word": "小区1天内20只流浪猫集体死亡",
       "onboard_time": 1680448003,
       "rank": 25,
@@ -171,14 +275,6 @@
       "category": "情感,网红"
     },
     {
-      "raw_hot": 279434,
-      "num": 279434,
-      "word": "粉丝真的给种地吧拉来了赞助",
-      "onboard_time": 1680443800,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 273493,
       "num": 273493,
       "word": "马嘉祺只有51公斤",
@@ -187,12 +283,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 259438,
-      "num": 259438,
-      "word": "张继科持股公司曾推销厚礼冠军酒",
-      "onboard_time": 1680477742,
-      "rank": 7,
-      "category": "社会新闻,艺人"
+      "raw_hot": 272527,
+      "num": 272527,
+      "word": "又是周一",
+      "onboard_time": 1680481468,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 253657,
+      "num": 253657,
+      "word": "怪云 摄魂怪",
+      "onboard_time": 1680477262,
+      "rank": 48,
+      "category": "自然"
+    },
+    {
+      "raw_hot": 238735,
+      "num": 238735,
+      "word": "陆虎反正都是我巡演",
+      "onboard_time": 1680482429,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 236731,
@@ -209,6 +321,14 @@
       "onboard_time": 1680433288,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 219849,
+      "num": 219849,
+      "word": "大学生你别太离谱",
+      "onboard_time": 1680451769,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 219003,
@@ -259,6 +379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 199160,
+      "num": 199160,
+      "word": "北京动物园大熊猫馆人挤人",
+      "onboard_time": 1680484410,
+      "rank": 32,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 197002,
       "num": 186002,
       "word": "吃麻辣烫最省钱的操作",
@@ -281,6 +409,14 @@
       "onboard_time": 1680451114,
       "rank": 30,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 180344,
+      "num": 180344,
+      "word": "金钟仁你做到了",
+      "onboard_time": 1680484530,
+      "rank": 33,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 174433,
@@ -307,6 +443,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 165588,
+      "num": 165588,
+      "word": "巴黎圣日耳曼0比1里昂",
+      "onboard_time": 1680478043,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 164782,
       "num": 164782,
       "word": "OMG战胜TES",
@@ -323,6 +467,38 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158384,
+      "num": 158384,
+      "word": "赵露思黄衣遮阳帽视频",
+      "onboard_time": 1680477622,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 154907,
+      "num": 154907,
+      "word": "第一次见有发型的鸭子",
+      "onboard_time": 1680449318,
+      "rank": 37,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 151305,
+      "num": 151305,
+      "word": "SEVENTEEN新歌含义",
+      "onboard_time": 1680481710,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 150469,
+      "num": 150469,
+      "word": "邻居私设围栏将公区变1梯1户",
+      "onboard_time": 1680477381,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150309,
       "num": 150309,
       "word": "忠犬八公豆瓣评分涨至8.2",
@@ -331,20 +507,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 147254,
-      "num": 147254,
-      "word": "第一次见有发型的鸭子",
-      "onboard_time": 1680449318,
-      "rank": 37,
-      "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 143408,
-      "num": 115585,
-      "word": "赵露思黄衣遮阳帽视频",
-      "onboard_time": 1680477622,
-      "rank": 28,
-      "category": "影视"
+      "raw_hot": 149871,
+      "num": 149871,
+      "word": "马英九唱月亮代表我的心",
+      "onboard_time": 1680479004,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 139454,
@@ -353,14 +521,6 @@
       "onboard_time": 1680447042,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 136722,
-      "num": 113723,
-      "word": "怪云 摄魂怪",
-      "onboard_time": 1680477262,
-      "rank": 48,
-      "category": "自然"
     },
     {
       "raw_hot": 131219,
@@ -387,11 +547,11 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 125423,
-      "num": 113217,
-      "word": "邻居私设围栏将公区变1梯1户",
-      "onboard_time": 1680477381,
-      "rank": 35,
+      "raw_hot": 125444,
+      "num": 125444,
+      "word": "8日起丫丫起居全部移交中方人员",
+      "onboard_time": 1680484768,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -403,12 +563,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 122820,
-      "num": 122820,
-      "word": "大学生你别太离谱",
-      "onboard_time": 1680451769,
-      "rank": 38,
-      "category": "幽默"
+      "raw_hot": 120997,
+      "num": 120997,
+      "word": "张杰独家星海直拍",
+      "onboard_time": 1680481891,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 119877,
+      "num": 119877,
+      "word": "英雄联盟墨之影皮肤",
+      "onboard_time": 1680482552,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 117010,
@@ -419,12 +587,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 108566,
-      "num": 118850,
-      "word": "王栎鑫蓝发",
-      "onboard_time": 1680478404,
-      "rank": 18,
-      "category": "作品衍生"
+      "raw_hot": 114470,
+      "num": 1105667,
+      "word": "英雄之光",
+      "onboard_time": 1680447168,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 108456,
@@ -459,36 +627,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 95671,
-      "num": 116965,
-      "word": "巴黎圣日耳曼0比1里昂",
-      "onboard_time": 1680478043,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 95634,
-      "num": 95634,
-      "word": "泰国偶遇林更新",
-      "onboard_time": 1680478223,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 92821,
       "num": 92821,
       "word": "黄明昊跳了姐姐真漂亮",
       "onboard_time": 1680436948,
       "rank": 48,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 92761,
-      "num": 964304,
-      "word": "英雄之光",
-      "onboard_time": 1680447168,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 91270,
