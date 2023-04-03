@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680539936351,
+  "endTime": 1680542136810,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -6747,6 +6747,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 98616,
+      "num": 98616,
+      "word": "突然就想换个专业读了",
+      "onboard_time": 1680539125,
+      "rank": 26,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 98298,
       "num": 98298,
       "word": "华晨宇武汉演唱会门票秒售罄",
@@ -7105,6 +7113,14 @@
       "onboard_time": 1680276207,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 57242,
+      "num": 57242,
+      "word": "麻雀挠头",
+      "onboard_time": 1680536791,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 56815,

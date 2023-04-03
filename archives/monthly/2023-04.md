@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/04/01 00:21:42 ~ 2023/04/04 00:38:56
+本榜单时间：2023/04/01 00:21:42 ~ 2023/04/04 01:15:36
 </p>
 </blockquote>
 <p>
@@ -5073,6 +5073,12 @@ SMTOWN新CEO张哲赫（热度：99278）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AA%81%E7%84%B6%E5%B0%B1%E6%83%B3%E6%8D%A2%E4%B8%AA%E4%B8%93%E4%B8%9A%E8%AF%BB%E4%BA%86%23" target="weibo">
+突然就想换个专业读了（热度：98616）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E6%AD%A6%E6%B1%89%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%E7%A7%92%E5%94%AE%E7%BD%84%23" target="weibo">
 华晨宇武汉演唱会门票秒售罄（热度：98298）
 </a>
@@ -5339,6 +5345,12 @@ BLG对战RNG（热度：92885）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E8%80%81%E8%88%85%E7%8E%8B%E5%8B%89%E5%81%9A%E5%90%8E%E5%8B%A4%E6%BC%94%E5%8D%91%E5%BE%AE%E6%89%93%E5%B7%A5%E4%BA%BA%23" target="weibo">
 鹿晗老舅王勉做后勤演卑微打工人（热度：59121）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BA%BB%E9%9B%80%E6%8C%A0%E5%A4%B4%23" target="weibo">
+麻雀挠头（热度：57242）
 </a>
 </li>
 
