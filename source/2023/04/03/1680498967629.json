@@ -1,0 +1,410 @@
+{
+  "runTime": 1680498967629,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7970149,
+        "num": 7970149,
+        "word": "张继科年收入曾达6000万元",
+        "onboard_time": 1680490529,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 2594413,
+        "num": 2594413,
+        "word": "安踏删除张继科宣传物料",
+        "onboard_time": 1680497915,
+        "rank": 1,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 33297,
+        "num": 1963749,
+        "word": "第六届数字中国建设峰会新闻发布会",
+        "onboard_time": 1680488489,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1655986,
+        "num": 1655986,
+        "word": "律师称若爆料属实张继科或涉多项违法",
+        "onboard_time": 1680489868,
+        "rank": 3,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1316336,
+        "num": 1316336,
+        "word": "吴倩乘风破浪4上班路透",
+        "onboard_time": 1680493230,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1300506,
+        "num": 1300506,
+        "word": "曹格女儿说现在不喜欢被叫姐姐",
+        "onboard_time": 1680491850,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1175537,
+        "num": 1175537,
+        "word": "主持人时期的彭小苒",
+        "onboard_time": 1680494855,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1108186,
+        "num": 1108186,
+        "word": "长月烬明定档",
+        "onboard_time": 1680488668,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1104061,
+        "num": 1104061,
+        "word": "李铁",
+        "onboard_time": 1680497315,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 723413,
+        "num": 723413,
+        "word": "揭秘张继科MCN机构",
+        "onboard_time": 1680495935,
+        "rank": 9,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 692066,
+        "num": 692066,
+        "word": "今年考研录取率或不到两成",
+        "onboard_time": 1680483510,
+        "rank": 10,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 692007,
+        "num": 692007,
+        "word": "乘风破浪 翻红",
+        "onboard_time": 1680496416,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 663333,
+        "num": 663333,
+        "word": "村民上坟奥迪停墓地旁被烧成空壳",
+        "onboard_time": 1680483452,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 601265,
+        "num": 601265,
+        "word": "王者荣耀杨玉环",
+        "onboard_time": 1680496537,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 522357,
+        "num": 522357,
+        "word": "陈都灵一天官宣两部剧",
+        "onboard_time": 1680491608,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 470495,
+        "num": 470495,
+        "word": "李彩桦唱无法原谅",
+        "onboard_time": 1680493713,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 463670,
+        "num": 463670,
+        "word": "爱奇艺4月好多新综艺",
+        "onboard_time": 1680496116,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 456132,
+        "num": 456132,
+        "word": "张继科回应因欠债传播女演员隐私视频",
+        "onboard_time": 1680332610,
+        "rank": 17,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 428525,
+        "num": 428525,
+        "word": "周杰伦海口演唱会",
+        "onboard_time": 1680495155,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 385721,
+        "num": 385721,
+        "word": "杨紫车保罗199爱合影",
+        "onboard_time": 1680498096,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1207859,
+        "num": 382885,
+        "word": "景甜",
+        "onboard_time": 1680444521,
+        "rank": 20,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1147251,
+        "num": 381903,
+        "word": "张继科借条",
+        "onboard_time": 1680442296,
+        "rank": 21,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1056611,
+        "num": 377096,
+        "word": "肖战回应形象变化",
+        "onboard_time": 1680494072,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 571745,
+        "num": 375683,
+        "word": "女子坐飞机意外发现自己包机了",
+        "onboard_time": 1680486387,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 468880,
+        "num": 373508,
+        "word": "虞书欣韩国街边随拍",
+        "onboard_time": 1680498096,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 370545,
+        "num": 370545,
+        "word": "女儿继承父亲警号后听到呼叫泪崩",
+        "onboard_time": 1680494496,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 441456,
+        "num": 369912,
+        "word": "张继科方准备起诉",
+        "onboard_time": 1680411988,
+        "rank": 26,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 420556,
+        "num": 368460,
+        "word": "张继科借款利率是银行商贷的4倍",
+        "onboard_time": 1680476960,
+        "rank": 27,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 365534,
+        "num": 365534,
+        "word": "张继科持股公司仅1人参保",
+        "onboard_time": 1680492570,
+        "rank": 28,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 327215,
+        "num": 327215,
+        "word": "清明放假1天",
+        "onboard_time": 1680487168,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288436,
+        "num": 288436,
+        "word": "乘风破浪4阵容",
+        "onboard_time": 1680489508,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286516,
+        "num": 286516,
+        "word": "李微敖 张继科",
+        "onboard_time": 1680326491,
+        "rank": 31,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 284490,
+        "num": 284490,
+        "word": "王者荣耀",
+        "onboard_time": 1680496236,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 275094,
+        "num": 275094,
+        "word": "快递员实名举报老人被骗买高价药",
+        "onboard_time": 1680498035,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275028,
+        "num": 275028,
+        "word": "A路人",
+        "onboard_time": 1680491427,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 270374,
+        "num": 270374,
+        "word": "喜欢一个人第一反应是什么",
+        "onboard_time": 1680495817,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 262004,
+        "num": 262004,
+        "word": "陈晓连播两部剧",
+        "onboard_time": 1680496777,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 251234,
+        "num": 251234,
+        "word": "飞猪机票盲盒活动翻车",
+        "onboard_time": 1680495457,
+        "rank": 37,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 247429,
+        "num": 247429,
+        "word": "白鹿新剧一人分饰三角",
+        "onboard_time": 1680489807,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 235688,
+        "num": 235688,
+        "word": "丫丫",
+        "onboard_time": 1680481647,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226200,
+        "num": 226200,
+        "word": "易烊千玺GQ杂志",
+        "onboard_time": 1680490948,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 221807,
+        "num": 221807,
+        "word": "湖南一家族20多人献了45万毫升血",
+        "onboard_time": 1680489627,
+        "rank": 41,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 216599,
+        "num": 216599,
+        "word": "考研淘汰率或超八成你还会考么",
+        "onboard_time": 1680491790,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 213586,
+        "num": 213586,
+        "word": "8日起丫丫起居全部移交中方人员",
+        "onboard_time": 1680484768,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208484,
+        "num": 208484,
+        "word": "2023春推会参展剧目",
+        "onboard_time": 1680497734,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 206158,
+        "num": 206158,
+        "word": "折叠屏会取代直板机吗",
+        "onboard_time": 1680498756,
+        "rank": 45,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 199652,
+        "num": 199652,
+        "word": "为什么家长认为考编很容易",
+        "onboard_time": 1680498514,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 199453,
+        "num": 199453,
+        "word": "洪世贤感觉又要被艾莉抢走",
+        "onboard_time": 1680498756,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 192381,
+        "num": 192381,
+        "word": "光与夜之恋陆沉",
+        "onboard_time": 1680498456,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 190281,
+        "num": 190281,
+        "word": "网传星电音第二季嘉宾阵容",
+        "onboard_time": 1680498456,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#凝心铸魂向复兴#"
+    }
+  }
+}
