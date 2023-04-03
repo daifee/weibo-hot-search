@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680561219188,
+  "endTime": 1680563792418,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -5027,6 +5027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170731,
+      "num": 170731,
+      "word": "他是谁大结局你满意吗",
+      "onboard_time": 1680542179,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 170228,
       "num": 170228,
       "word": "大妈咖啡店里开茶话会并择菜",
@@ -5636,7 +5644,7 @@
     },
     {
       "raw_hot": 149517,
-      "num": 149517,
+      "num": 168584,
       "word": "代号鸢周瑜",
       "onboard_time": 1680542778,
       "rank": 45,
@@ -6643,14 +6651,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 102822,
-      "num": 102822,
-      "word": "他是谁大结局你满意吗",
-      "onboard_time": 1680542179,
-      "rank": 14,
-      "category": "影视"
-    },
-    {
       "raw_hot": 102470,
       "num": 133131,
       "word": "黄山清明门票预约已满",
@@ -6955,6 +6955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 81703,
+      "num": 81703,
+      "word": "高双星陈秀礼婚礼",
+      "onboard_time": 1680561557,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 80904,
       "num": 80904,
       "word": "本泽马7分钟帽子戏法",
@@ -7009,6 +7017,14 @@
       "onboard_time": 1680268650,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 75249,
+      "num": 75249,
+      "word": "Billboard冠单朴智旻Like Crazy",
+      "onboard_time": 1680563300,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 74537,
@@ -7147,6 +7163,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 56624,
+      "num": 56624,
+      "word": "100秒梳理张继科事件",
+      "onboard_time": 1680522632,
+      "rank": 43,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 55896,
       "num": 2898891,
       "word": "第六届数字中国建设峰会新闻发布会",
@@ -7211,6 +7235,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 34718,
+      "num": 36316,
+      "word": "华晨宇杭州演唱会彩排",
+      "onboard_time": 1680563722,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 34267,
       "num": 34267,
       "word": "张新成以前不喜欢录综艺",
@@ -7241,14 +7273,6 @@
       "onboard_time": 1680261326,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 29743,
-      "num": 28833,
-      "word": "100秒梳理张继科事件",
-      "onboard_time": 1680522632,
-      "rank": 43,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 23161,
