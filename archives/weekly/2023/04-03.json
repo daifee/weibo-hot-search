@@ -1,6 +1,6 @@
 {
   "startTime": 1680452464197,
-  "endTime": 1680513443936,
+  "endTime": 1680514428552,
   "band_list": [
     {
       "raw_hot": 9506486,
@@ -59,8 +59,24 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 2332624,
-      "num": 381279,
+      "raw_hot": 3269306,
+      "num": 3269306,
+      "word": "刘维 户口本上只有我自己了",
+      "onboard_time": 1680512730,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2844860,
+      "num": 2844860,
+      "word": "刘国梁",
+      "onboard_time": 1680512909,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2349128,
+      "num": 416425,
       "word": "张继科曾在直播间直言安踏鞋丑",
       "onboard_time": 1680509012,
       "rank": 19,
@@ -123,14 +139,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 1689535,
-      "num": 1689535,
-      "word": "刘维 户口本上只有我自己了",
-      "onboard_time": 1680512730,
-      "rank": 1,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1399433,
       "num": 216539,
       "word": "观音桥",
@@ -184,6 +192,14 @@
       "word": "张继科代言",
       "onboard_time": 1680499952,
       "rank": 49,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1265127,
+      "num": 315570,
+      "word": "张继科不愿意处在风口浪尖上",
+      "onboard_time": 1680513754,
+      "rank": 16,
       "category": "社会新闻,艺人"
     },
     {
@@ -241,6 +257,14 @@
       "onboard_time": 1680502531,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 992393,
+      "num": 992393,
+      "word": "家长为14岁娃办清华升学宴发现被骗",
+      "onboard_time": 1680512792,
+      "rank": 17,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 959032,
@@ -555,16 +579,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 479383,
-      "num": 479383,
-      "word": "刘国梁",
-      "onboard_time": 1680512909,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 464862,
-      "num": 274751,
+      "num": 284337,
       "word": "易烊千玺顺毛眼镜造型",
       "onboard_time": 1680509012,
       "rank": 24,
@@ -633,6 +649,14 @@
       "onboard_time": 1680490948,
       "rank": 29,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 400806,
+      "num": 400806,
+      "word": "长月烬明",
+      "onboard_time": 1680512551,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 395742,
@@ -707,14 +731,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 368849,
-      "num": 368849,
-      "word": "长月烬明",
-      "onboard_time": 1680512551,
-      "rank": 14,
-      "category": "影视"
-    },
-    {
       "raw_hot": 355957,
       "num": 355957,
       "word": "张杰打碟蹦迪",
@@ -787,12 +803,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 310236,
-      "num": 310236,
-      "word": "家长为14岁娃办清华升学宴发现被骗",
-      "onboard_time": 1680512792,
-      "rank": 17,
-      "category": "社会新闻,教育"
+      "raw_hot": 300539,
+      "num": 275242,
+      "word": "网友给白鹿P的妆容",
+      "onboard_time": 1680512730,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 299814,
@@ -963,6 +979,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 250583,
+      "num": 250583,
+      "word": "新海诚说铃芽和草太是战友情",
+      "onboard_time": 1680513391,
+      "rank": 46,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 238735,
       "num": 238735,
       "word": "陆虎反正都是我巡演",
@@ -1041,6 +1065,22 @@
       "onboard_time": 1680445663,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 218002,
+      "num": 218002,
+      "word": "没见过长这么大耳朵的狗",
+      "onboard_time": 1680511952,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 215027,
+      "num": 215027,
+      "word": "NewJeans新曲Zero",
+      "onboard_time": 1680514112,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 214938,
@@ -1147,20 +1187,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 206429,
-      "num": 206429,
-      "word": "网友给白鹿P的妆容",
-      "onboard_time": 1680512730,
-      "rank": 34,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 206158,
       "num": 206158,
       "word": "折叠屏会取代直板机吗",
       "onboard_time": 1680498756,
       "rank": 45,
       "category": "科技"
+    },
+    {
+      "raw_hot": 204856,
+      "num": 204856,
+      "word": "长月烬明一生一念版预告",
+      "onboard_time": 1680513150,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 204288,
@@ -1291,14 +1331,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 193701,
-      "num": 193701,
-      "word": "没见过长这么大耳朵的狗",
-      "onboard_time": 1680511952,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 191752,
       "num": 191752,
       "word": "卫国平今晚意能平吗",
@@ -1345,14 +1377,6 @@
       "onboard_time": 1680504870,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 183239,
-      "num": 183239,
-      "word": "长月烬明一生一念版预告",
-      "onboard_time": 1680513150,
-      "rank": 38,
-      "category": "影视"
     },
     {
       "raw_hot": 181209,
@@ -1419,6 +1443,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 160621,
+      "num": 160621,
+      "word": "棉花糖拉丝蛋卷",
+      "onboard_time": 1680514112,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
       "raw_hot": 160610,
       "num": 160610,
       "word": "这一段路马英九走了73年",
@@ -1457,14 +1489,6 @@
       "onboard_time": 1680512012,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 156536,
-      "num": 156536,
-      "word": "新海诚说铃芽和草太是战友情",
-      "onboard_time": 1680513391,
-      "rank": 46,
-      "category": "影视,动漫"
     },
     {
       "raw_hot": 155747,
@@ -1523,6 +1547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 149711,
+      "num": 149711,
+      "word": "英雄从未离去我们不会忘记",
+      "onboard_time": 1680514112,
+      "rank": 46,
+      "category": "国内要闻,军事"
+    },
+    {
       "raw_hot": 149341,
       "num": 149341,
       "word": "郑秀妍首次挑战甩手舞",
@@ -1545,6 +1577,14 @@
       "onboard_time": 1680513092,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 140418,
+      "num": 140418,
+      "word": "他是谁全员告别",
+      "onboard_time": 1680514415,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 139454,
@@ -1740,7 +1780,7 @@
     },
     {
       "raw_hot": 55896,
-      "num": 2676868,
+      "num": 2898891,
       "word": "第六届数字中国建设峰会新闻发布会",
       "onboard_time": 1680488489,
       "rank": 2,
