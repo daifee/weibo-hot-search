@@ -1,6 +1,6 @@
 {
   "startTime": 1680538976202,
-  "endTime": 1680563792418,
+  "endTime": 1680564821400,
   "band_list": [
     {
       "raw_hot": 3162601,
@@ -19,19 +19,19 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1089482,
+      "num": 407546,
+      "word": "张继科没有正式宣布退役",
+      "onboard_time": 1680524254,
+      "rank": 3,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1064588,
       "num": 203941,
       "word": "张继科曾直播上厕所",
       "onboard_time": 1680520114,
       "rank": 21,
-      "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 955543,
-      "num": 407546,
-      "word": "张继科没有正式宣布退役",
-      "onboard_time": 1680524254,
-      "rank": 3,
       "category": "社会新闻,艺人"
     },
     {
@@ -123,6 +123,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 280145,
+      "num": 407980,
+      "word": "一图看懂海南全岛封关意味着什么",
+      "onboard_time": 1680526413,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 260157,
+      "num": 201224,
+      "word": "洗碗阿姨坐宾利上下班",
+      "onboard_time": 1680525873,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 254098,
       "num": 254098,
       "word": "小李子凯特无关爱情的永恒cp",
@@ -147,20 +163,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 235012,
-      "num": 201224,
-      "word": "洗碗阿姨坐宾利上下班",
-      "onboard_time": 1680525873,
-      "rank": 23,
-      "category": "社会新闻"
+      "raw_hot": 218055,
+      "num": 200192,
+      "word": "上班上出了结婚的感觉",
+      "onboard_time": 1680525273,
+      "rank": 24,
+      "category": "幽默"
     },
     {
-      "raw_hot": 229524,
-      "num": 407980,
-      "word": "一图看懂海南全岛封关意味着什么",
-      "onboard_time": 1680526413,
-      "rank": 2,
-      "category": "社会新闻"
+      "raw_hot": 217602,
+      "num": 217602,
+      "word": "他是谁大结局你满意吗",
+      "onboard_time": 1680542179,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 215477,
@@ -177,14 +193,6 @@
       "onboard_time": 1680512792,
       "rank": 19,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 200192,
-      "num": 200192,
-      "word": "上班上出了结婚的感觉",
-      "onboard_time": 1680525273,
-      "rank": 24,
-      "category": "幽默"
     },
     {
       "raw_hot": 190430,
@@ -235,12 +243,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 170731,
-      "num": 170731,
-      "word": "他是谁大结局你满意吗",
-      "onboard_time": 1680542179,
-      "rank": 14,
-      "category": "影视"
+      "raw_hot": 174399,
+      "num": 133922,
+      "word": "为什么父母辈不理解双休",
+      "onboard_time": 1680520594,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 164333,
@@ -259,20 +267,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 160628,
+      "num": 168584,
+      "word": "代号鸢周瑜",
+      "onboard_time": 1680542778,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 157822,
       "num": 157822,
       "word": "黄子韬回应又演明星",
       "onboard_time": 1680530373,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 149517,
-      "num": 168584,
-      "word": "代号鸢周瑜",
-      "onboard_time": 1680542778,
-      "rank": 45,
-      "category": "游戏"
     },
     {
       "raw_hot": 140915,
@@ -283,20 +291,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 133922,
-      "num": 133922,
-      "word": "为什么父母辈不理解双休",
-      "onboard_time": 1680520594,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 132143,
       "num": 132143,
       "word": "HYBE新男团BOYNEXTDOOR主页公开",
       "onboard_time": 1680538348,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 131951,
+      "num": 131951,
+      "word": "Billboard冠单朴智旻Like Crazy",
+      "onboard_time": 1680563300,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 131350,
@@ -371,6 +379,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 105803,
+      "num": 105803,
+      "word": "高双星陈秀礼婚礼",
+      "onboard_time": 1680561557,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 105658,
+      "num": 136389,
+      "word": "华晨宇杭州演唱会彩排",
+      "onboard_time": 1680563722,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 105545,
       "num": 105545,
       "word": "蔡徐坤粉丝篮球场公益项目",
@@ -419,15 +443,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 81703,
-      "num": 81703,
-      "word": "高双星陈秀礼婚礼",
-      "onboard_time": 1680561557,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 79158,
+      "raw_hot": 88433,
       "num": 169579,
       "word": "建议每天最少走7000步",
       "onboard_time": 1680507209,
@@ -435,12 +451,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 75249,
-      "num": 75249,
-      "word": "Billboard冠单朴智旻Like Crazy",
-      "onboard_time": 1680563300,
-      "rank": 32,
-      "category": "音乐"
+      "raw_hot": 61832,
+      "num": 61832,
+      "word": "100秒梳理张继科事件",
+      "onboard_time": 1680522632,
+      "rank": 43,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 57242,
@@ -451,12 +467,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 56624,
-      "num": 56624,
-      "word": "100秒梳理张继科事件",
-      "onboard_time": 1680522632,
-      "rank": 43,
-      "category": "社会新闻,艺人"
+      "raw_hot": 39982,
+      "num": 43639,
+      "word": "当清明诗词遇上古人春日必做清单",
+      "onboard_time": 1680564563,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 37585,
@@ -465,14 +481,6 @@
       "onboard_time": 1680543196,
       "rank": 49,
       "category": "美食,社会新闻"
-    },
-    {
-      "raw_hot": 34718,
-      "num": 36316,
-      "word": "华晨宇杭州演唱会彩排",
-      "onboard_time": 1680563722,
-      "rank": 48,
-      "category": "音乐"
     },
     {
       "raw_hot": 16919,
