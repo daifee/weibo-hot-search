@@ -1,6 +1,6 @@
 {
   "startTime": 1680538976202,
-  "endTime": 1680546050565,
+  "endTime": 1680549212854,
   "band_list": [
     {
       "raw_hot": 3162601,
@@ -449,6 +449,14 @@
       "onboard_time": 1680522632,
       "rank": 43,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 16919,
+      "num": 16919,
+      "word": "大学生旅游主打的就是随性",
+      "onboard_time": 1680549192,
+      "rank": 49,
+      "category": "情感"
     }
   ],
   "hotgov_list": [
