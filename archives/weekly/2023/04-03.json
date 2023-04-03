@@ -1,6 +1,6 @@
 {
   "startTime": 1680452464197,
-  "endTime": 1680528045797,
+  "endTime": 1680528808982,
   "band_list": [
     {
       "raw_hot": 9506486,
@@ -99,6 +99,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 2845044,
+      "num": 1117896,
+      "word": "张继科没有正式宣布退役",
+      "onboard_time": 1680524254,
+      "rank": 13,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 2780005,
       "num": 853344,
       "word": "人民文娱评李宇春的代言态度",
@@ -115,11 +123,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2499648,
-      "num": 1117896,
-      "word": "张继科没有正式宣布退役",
-      "onboard_time": 1680524254,
-      "rank": 13,
+      "raw_hot": 2379232,
+      "num": 2379232,
+      "word": "中央政法委长安剑评张继科事件",
+      "onboard_time": 1680525994,
+      "rank": 34,
       "category": "社会新闻,艺人"
     },
     {
@@ -161,14 +169,6 @@
       "onboard_time": 1680481647,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1943408,
-      "num": 1943408,
-      "word": "中央政法委长安剑评张继科事件",
-      "onboard_time": 1680525994,
-      "rank": 34,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1825439,
@@ -323,6 +323,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1059055,
+      "num": 1059055,
+      "word": "杭州悬赏100万出点子摆脱美食荒漠",
+      "onboard_time": 1680525394,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1017908,
       "num": 1017908,
       "word": "姐弟坠亡案母亲称绝不放过叶诚尘",
@@ -441,14 +449,6 @@
       "onboard_time": 1680488848,
       "rank": 29,
       "category": "时尚,艺人"
-    },
-    {
-      "raw_hot": 767783,
-      "num": 767783,
-      "word": "杭州悬赏100万出点子摆脱美食荒漠",
-      "onboard_time": 1680525394,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 756790,
@@ -579,6 +579,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 583224,
+      "num": 321805,
+      "word": "上班上出了结婚的感觉",
+      "onboard_time": 1680525273,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 582760,
       "num": 582760,
       "word": "俄一战地记者在咖啡馆被炸身亡",
@@ -635,6 +643,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 530924,
+      "num": 530924,
+      "word": "yskm",
+      "onboard_time": 1680526533,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 517571,
       "num": 517571,
       "word": "张继科持股公司仅1人参保",
@@ -651,20 +667,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 504619,
-      "num": 321805,
-      "word": "上班上出了结婚的感觉",
-      "onboard_time": 1680525273,
-      "rank": 29,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 503929,
       "num": 449388,
       "word": "泰国偶遇林更新",
       "onboard_time": 1680478223,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 499015,
+      "num": 320449,
+      "word": "洗碗阿姨坐宾利上下班",
+      "onboard_time": 1680525873,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 491719,
@@ -707,12 +723,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 467768,
-      "num": 320449,
-      "word": "洗碗阿姨坐宾利上下班",
-      "onboard_time": 1680525873,
-      "rank": 42,
-      "category": "社会新闻"
+      "raw_hot": 472847,
+      "num": 319995,
+      "word": "聂小雨拿出割喉案关键证据",
+      "onboard_time": 1680526654,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 464862,
@@ -795,14 +811,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 416906,
-      "num": 319995,
-      "word": "聂小雨拿出割喉案关键证据",
-      "onboard_time": 1680526654,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 416697,
       "num": 382805,
       "word": "力灿承认曾性骚扰",
@@ -833,14 +841,6 @@
       "onboard_time": 1680523353,
       "rank": 18,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 404180,
-      "num": 404180,
-      "word": "yskm",
-      "onboard_time": 1680526533,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 400806,
@@ -963,7 +963,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 349717,
+      "raw_hot": 354334,
       "num": 318825,
       "word": "EXO开通B站官方账号",
       "onboard_time": 1680526956,
@@ -1051,6 +1051,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 311474,
+      "num": 875803,
+      "word": "一图看懂海南全岛封关意味着什么",
+      "onboard_time": 1680526413,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 309102,
       "num": 309102,
       "word": "原来鲨鱼卵长这样",
@@ -1073,6 +1081,14 @@
       "onboard_time": 1680510813,
       "rank": 48,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 295974,
+      "num": 295974,
+      "word": "王者荣耀杨玉环皮肤",
+      "onboard_time": 1680527195,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 295182,
@@ -1193,14 +1209,6 @@
       "onboard_time": 1680506912,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 265332,
-      "num": 778295,
-      "word": "一图看懂海南全岛封关意味着什么",
-      "onboard_time": 1680526413,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 264516,
@@ -1507,14 +1515,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 205784,
-      "num": 205784,
-      "word": "王者荣耀杨玉环皮肤",
-      "onboard_time": 1680527195,
-      "rank": 38,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 204856,
       "num": 204856,
       "word": "长月烬明一生一念版预告",
@@ -1609,6 +1609,14 @@
       "onboard_time": 1680525811,
       "rank": 36,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 200255,
+      "num": 200255,
+      "word": "吴谨言央视古风造型",
+      "onboard_time": 1680528033,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 200033,
@@ -1777,6 +1785,14 @@
       "onboard_time": 1680509431,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 175588,
+      "num": 175588,
+      "word": "李雪琴说敷衍都会遭报应",
+      "onboard_time": 1680528278,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 174433,
@@ -1953,14 +1969,6 @@
       "onboard_time": 1680449318,
       "rank": 37,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 151951,
-      "num": 151951,
-      "word": "吴谨言央视古风造型",
-      "onboard_time": 1680528033,
-      "rank": 48,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 151305,
