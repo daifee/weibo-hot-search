@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680486202468,
+  "endTime": 1680489048588,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -139,20 +139,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2234267,
+      "num": 2234267,
+      "word": "今年考研录取率或不到两成",
+      "onboard_time": 1680483510,
+      "rank": 1,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 2174661,
       "num": 370500,
       "word": "男生给富婆塞纸条被其丈夫找上门",
       "onboard_time": 1680413789,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2026537,
-      "num": 2026537,
-      "word": "今年考研录取率或不到两成",
-      "onboard_time": 1680483510,
-      "rank": 1,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1988084,
@@ -563,6 +563,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 758732,
+      "num": 244034,
+      "word": "女子坐飞机意外发现自己包机了",
+      "onboard_time": 1680486387,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 751517,
+      "num": 751517,
+      "word": "长月烬明定档",
+      "onboard_time": 1680488668,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 744478,
+      "num": 744478,
+      "word": "体育总局7人工作组正式进驻足协",
+      "onboard_time": 1680485609,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 731250,
       "num": 370145,
       "word": "汪峰女儿小苹果17岁近照",
@@ -651,6 +675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 677815,
+      "num": 677815,
+      "word": "多国宣布自愿石油减产",
+      "onboard_time": 1680485309,
+      "rank": 16,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 677080,
       "num": 677080,
       "word": "杜兆才被查",
@@ -697,6 +729,22 @@
       "onboard_time": 1680317368,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 645038,
+      "num": 645038,
+      "word": "清明放假1天",
+      "onboard_time": 1680487168,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 639539,
+      "num": 483746,
+      "word": "王一博ins新增高尔夫关注",
+      "onboard_time": 1680485668,
+      "rank": 14,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 635026,
@@ -867,6 +915,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 546383,
+      "num": 546383,
+      "word": "金钟仁你做到了",
+      "onboard_time": 1680484530,
+      "rank": 33,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 543449,
       "num": 172317,
       "word": "意大利宣布禁止使用ChatGPT",
@@ -979,6 +1035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 512464,
+      "num": 512464,
+      "word": "贾静雯浪姐路透",
+      "onboard_time": 1680486747,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 511775,
       "num": 511775,
       "word": "你平时午睡吗",
@@ -1025,14 +1089,6 @@
       "onboard_time": 1680478223,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 498006,
-      "num": 498006,
-      "word": "金钟仁你做到了",
-      "onboard_time": 1680484530,
-      "rank": 33,
-      "category": "艺人,幽默"
     },
     {
       "raw_hot": 490175,
@@ -1403,6 +1459,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 388294,
+      "num": 388294,
+      "word": "黄晓明回归乘风4",
+      "onboard_time": 1680485012,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 387306,
       "num": 387306,
       "word": "众星悼念坂本龙一",
@@ -1609,14 +1673,6 @@
       "onboard_time": 1680428848,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 339352,
-      "num": 339352,
-      "word": "王一博ins新增高尔夫关注",
-      "onboard_time": 1680485668,
-      "rank": 14,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 338455,
@@ -1849,14 +1905,6 @@
       "onboard_time": 1680433527,
       "rank": 26,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 295988,
-      "num": 295988,
-      "word": "多国宣布自愿石油减产",
-      "onboard_time": 1680485309,
-      "rank": 16,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 294980,
@@ -2147,14 +2195,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 253895,
-      "num": 253895,
-      "word": "黄晓明回归乘风4",
-      "onboard_time": 1680485012,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 253735,
       "num": 253735,
       "word": "郭柯宇 爱情而已",
@@ -2177,6 +2217,14 @@
       "onboard_time": 1680321331,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 252700,
+      "num": 252700,
+      "word": "秋瓷炫李彩桦舞蹈视频对比",
+      "onboard_time": 1680488905,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 252125,
@@ -2371,6 +2419,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 235892,
+      "num": 235892,
+      "word": "肖战杂志",
+      "onboard_time": 1680488848,
+      "rank": 29,
+      "category": "时尚,艺人"
+    },
+    {
       "raw_hot": 234532,
       "num": 199811,
       "word": "周冬雨南瓜妆",
@@ -2425,14 +2481,6 @@
       "onboard_time": 1680364649,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 227224,
-      "num": 227224,
-      "word": "体育总局7人工作组正式进驻足协",
-      "onboard_time": 1680485609,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 227007,
@@ -2585,6 +2633,14 @@
       "onboard_time": 1680274111,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 214938,
+      "num": 214938,
+      "word": "北京动物园大熊猫馆人挤人",
+      "onboard_time": 1680484410,
+      "rank": 32,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 214129,
@@ -2763,6 +2819,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 204610,
+      "num": 204610,
+      "word": "10省区将出现大到暴雨",
+      "onboard_time": 1680485907,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 204482,
       "num": 204482,
       "word": "时代少年团娃娃",
@@ -2907,6 +2971,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 200043,
+      "num": 200043,
+      "word": "德班",
+      "onboard_time": 1680488727,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199782,
       "num": 199782,
       "word": "龚俊愚人节plog",
@@ -2947,14 +3019,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 199160,
-      "num": 199160,
-      "word": "北京动物园大熊猫馆人挤人",
-      "onboard_time": 1680484410,
-      "rank": 32,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 199066,
       "num": 199066,
       "word": "吴磊片场套圈",
@@ -2977,6 +3041,14 @@
       "onboard_time": 1680419488,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 198803,
+      "num": 198803,
+      "word": "时代少年团已进入训练阶段",
+      "onboard_time": 1680487948,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 198741,
@@ -3331,6 +3403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185201,
+      "num": 185201,
+      "word": "金晨灰色毛绒大衣造型",
+      "onboard_time": 1680487587,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 184945,
       "num": 186469,
       "word": "AG战胜KSG",
@@ -3681,6 +3761,14 @@
       "onboard_time": 1680405268,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 166275,
+      "num": 166275,
+      "word": "詹姆斯生涯三双数升至历史第4",
+      "onboard_time": 1680487767,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 166236,
@@ -4075,6 +4163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 148641,
+      "num": 148641,
+      "word": "浓眉40分",
+      "onboard_time": 1680486267,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 148611,
       "num": 148611,
       "word": "虞书欣的抓娃娃vlog",
@@ -4305,14 +4401,6 @@
       "onboard_time": 1680343351,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 136637,
-      "num": 136637,
-      "word": "10省区将出现大到暴雨",
-      "onboard_time": 1680485907,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 136608,
@@ -5433,6 +5521,22 @@
       "onboard_time": 1680281065,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 55896,
+      "num": 918119,
+      "word": "第六届数字中国建设峰会新闻发布会",
+      "onboard_time": 1680488489,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 55593,
+      "num": 368519,
+      "word": "原神必胜客联动开启",
+      "onboard_time": 1680487227,
+      "rank": 14,
+      "category": "游戏,美食"
     },
     {
       "raw_hot": 53685,

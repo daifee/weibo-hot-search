@@ -1,6 +1,6 @@
 {
   "startTime": 1680452464197,
-  "endTime": 1680486202468,
+  "endTime": 1680489048588,
   "band_list": [
     {
       "raw_hot": 8591138,
@@ -27,8 +27,8 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 2026537,
-      "num": 2026537,
+      "raw_hot": 2234267,
+      "num": 2234267,
       "word": "今年考研录取率或不到两成",
       "onboard_time": 1680483510,
       "rank": 1,
@@ -115,12 +115,60 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 758732,
+      "num": 244034,
+      "word": "女子坐飞机意外发现自己包机了",
+      "onboard_time": 1680486387,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 751517,
+      "num": 751517,
+      "word": "长月烬明定档",
+      "onboard_time": 1680488668,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 744478,
+      "num": 744478,
+      "word": "体育总局7人工作组正式进驻足协",
+      "onboard_time": 1680485609,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 700869,
       "num": 700869,
       "word": "重庆警方通报男子持刀行凶",
       "onboard_time": 1680450753,
       "rank": 4,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 677815,
+      "num": 677815,
+      "word": "多国宣布自愿石油减产",
+      "onboard_time": 1680485309,
+      "rank": 16,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 645038,
+      "num": 645038,
+      "word": "清明放假1天",
+      "onboard_time": 1680487168,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 639539,
+      "num": 483746,
+      "word": "王一博ins新增高尔夫关注",
+      "onboard_time": 1680485668,
+      "rank": 14,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 634654,
@@ -139,6 +187,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 546383,
+      "num": 546383,
+      "word": "金钟仁你做到了",
+      "onboard_time": 1680484530,
+      "rank": 33,
+      "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 512464,
+      "num": 512464,
+      "word": "贾静雯浪姐路透",
+      "onboard_time": 1680486747,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 509461,
       "num": 509461,
       "word": "一出站就被惊艳了的宝藏地铁口",
@@ -153,14 +217,6 @@
       "onboard_time": 1680478223,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 498006,
-      "num": 498006,
-      "word": "金钟仁你做到了",
-      "onboard_time": 1680484530,
-      "rank": 33,
-      "category": "艺人,幽默"
     },
     {
       "raw_hot": 491719,
@@ -219,6 +275,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 388294,
+      "num": 388294,
+      "word": "黄晓明回归乘风4",
+      "onboard_time": 1680485012,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 385270,
       "num": 260690,
       "word": "研究发现早晨课越多成绩越差",
@@ -259,14 +323,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 339352,
-      "num": 339352,
-      "word": "王一博ins新增高尔夫关注",
-      "onboard_time": 1680485668,
-      "rank": 14,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 328950,
       "num": 114339,
       "word": "李微敖晒出张继科500万借款欠条",
@@ -281,14 +337,6 @@
       "onboard_time": 1680479848,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 295988,
-      "num": 295988,
-      "word": "多国宣布自愿石油减产",
-      "onboard_time": 1680485309,
-      "rank": 16,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 292603,
@@ -331,20 +379,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 253895,
-      "num": 253895,
-      "word": "黄晓明回归乘风4",
-      "onboard_time": 1680485012,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 253657,
       "num": 253657,
       "word": "怪云 摄魂怪",
       "onboard_time": 1680477262,
       "rank": 48,
       "category": "自然"
+    },
+    {
+      "raw_hot": 252700,
+      "num": 252700,
+      "word": "秋瓷炫李彩桦舞蹈视频对比",
+      "onboard_time": 1680488905,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 238735,
@@ -363,20 +411,20 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 235892,
+      "num": 235892,
+      "word": "肖战杂志",
+      "onboard_time": 1680488848,
+      "rank": 29,
+      "category": "时尚,艺人"
+    },
+    {
       "raw_hot": 234142,
       "num": 187443,
       "word": "赵丽颖又瘦了",
       "onboard_time": 1680433288,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 227224,
-      "num": 227224,
-      "word": "体育总局7人工作组正式进驻足协",
-      "onboard_time": 1680485609,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 219849,
@@ -403,6 +451,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 214938,
+      "num": 214938,
+      "word": "北京动物园大熊猫馆人挤人",
+      "onboard_time": 1680484410,
+      "rank": 32,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 214043,
       "num": 214043,
       "word": "王岳伦陪王诗龄理发",
@@ -427,6 +483,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 204610,
+      "num": 204610,
+      "word": "10省区将出现大到暴雨",
+      "onboard_time": 1680485907,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201454,
       "num": 201454,
       "word": "切尔西主帅波特下课",
@@ -435,12 +499,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 199160,
-      "num": 199160,
-      "word": "北京动物园大熊猫馆人挤人",
-      "onboard_time": 1680484410,
-      "rank": 32,
-      "category": "旅游,社会新闻"
+      "raw_hot": 200043,
+      "num": 200043,
+      "word": "德班",
+      "onboard_time": 1680488727,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 198803,
+      "num": 198803,
+      "word": "时代少年团已进入训练阶段",
+      "onboard_time": 1680487948,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 197002,
@@ -483,6 +555,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 185201,
+      "num": 185201,
+      "word": "金晨灰色毛绒大衣造型",
+      "onboard_time": 1680487587,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 174433,
       "num": 174433,
       "word": "太古里偶遇吉克隽逸",
@@ -505,6 +585,14 @@
       "onboard_time": 1680417569,
       "rank": 33,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 166275,
+      "num": 166275,
+      "word": "詹姆斯生涯三双数升至历史第4",
+      "onboard_time": 1680487767,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 165588,
@@ -587,20 +675,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 148641,
+      "num": 148641,
+      "word": "浓眉40分",
+      "onboard_time": 1680486267,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139454,
       "num": 139454,
       "word": "4AM夺冠",
       "onboard_time": 1680447042,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 136637,
-      "num": 136637,
-      "word": "10省区将出现大到暴雨",
-      "onboard_time": 1680485907,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 131219,
@@ -745,6 +833,22 @@
       "onboard_time": 1680477201,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 55896,
+      "num": 918119,
+      "word": "第六届数字中国建设峰会新闻发布会",
+      "onboard_time": 1680488489,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 55593,
+      "num": 368519,
+      "word": "原神必胜客联动开启",
+      "onboard_time": 1680487227,
+      "rank": 14,
+      "category": "游戏,美食"
     },
     {
       "raw_hot": 46509,
