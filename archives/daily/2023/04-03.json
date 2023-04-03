@@ -1,6 +1,6 @@
 {
   "startTime": 1680452464197,
-  "endTime": 1680535073024,
+  "endTime": 1680536024093,
   "band_list": [
     {
       "raw_hot": 9506486,
@@ -153,6 +153,14 @@
       "onboard_time": 1680497315,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2046707,
+      "num": 291963,
+      "word": "S先生是谁",
+      "onboard_time": 1680534816,
+      "rank": 18,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1979853,
@@ -579,6 +587,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 591156,
+      "num": 249497,
+      "word": "才知道八段锦这么有用",
+      "onboard_time": 1680532657,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 583224,
       "num": 321805,
       "word": "上班上出了结婚的感觉",
@@ -737,14 +753,6 @@
       "onboard_time": 1680489748,
       "rank": 14,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 480918,
-      "num": 249497,
-      "word": "才知道八段锦这么有用",
-      "onboard_time": 1680532657,
-      "rank": 22,
-      "category": "幽默"
     },
     {
       "raw_hot": 479963,
@@ -1115,6 +1123,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 300985,
+      "num": 227808,
+      "word": "刘耀文预告新歌",
+      "onboard_time": 1680535296,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 299814,
       "num": 299814,
       "word": "大河报",
@@ -1161,6 +1177,14 @@
       "onboard_time": 1680494735,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 286607,
+      "num": 286607,
+      "word": "小李子凯特无关爱情的永恒cp",
+      "onboard_time": 1680534456,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 285224,
@@ -1257,14 +1281,6 @@
       "onboard_time": 1680522573,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 264048,
-      "num": 264048,
-      "word": "S先生是谁",
-      "onboard_time": 1680534816,
-      "rank": 18,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 262004,
@@ -1371,14 +1387,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 240805,
-      "num": 240805,
-      "word": "小李子凯特无关爱情的永恒cp",
-      "onboard_time": 1680534456,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 238735,
       "num": 238735,
       "word": "陆虎反正都是我巡演",
@@ -1419,6 +1427,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 226362,
+      "num": 226362,
+      "word": "每天一到晚上就想吃东西",
+      "onboard_time": 1680533917,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 225391,
       "num": 225391,
       "word": "汪峰女儿小苹果自弹自唱",
@@ -1441,14 +1457,6 @@
       "onboard_time": 1680485907,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 221718,
-      "num": 221718,
-      "word": "每天一到晚上就想吃东西",
-      "onboard_time": 1680533917,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 221257,
@@ -1715,6 +1723,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 199844,
+      "num": 199844,
+      "word": "陈哲是花琉璃里的裴少卿",
+      "onboard_time": 1680535895,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 199826,
       "num": 199826,
       "word": "你会如何安排清明假期",
@@ -1889,6 +1905,14 @@
       "onboard_time": 1680524194,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 181886,
+      "num": 181886,
+      "word": "柯南贝克街的亡灵预售破500万",
+      "onboard_time": 1680535474,
+      "rank": 36,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 181209,
