@@ -1,6 +1,6 @@
 {
   "startTime": 1680452464197,
-  "endTime": 1680521598195,
+  "endTime": 1680525197777,
   "band_list": [
     {
       "raw_hot": 9506486,
@@ -91,6 +91,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2990102,
+      "num": 442055,
+      "word": "张继科曾直播上厕所",
+      "onboard_time": 1680520114,
+      "rank": 26,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 2780005,
+      "num": 853344,
+      "word": "人民文娱评李宇春的代言态度",
+      "onboard_time": 1680519334,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2556209,
       "num": 1018945,
       "word": "BAP力灿承认猥亵队友",
@@ -113,14 +129,6 @@
       "onboard_time": 1680483510,
       "rank": 1,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 2208680,
-      "num": 853344,
-      "word": "人民文娱评李宇春的代言态度",
-      "onboard_time": 1680519334,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 2202390,
@@ -168,14 +176,6 @@
       "word": "张继科方准备起诉",
       "onboard_time": 1680411988,
       "rank": 21,
-      "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 1558117,
-      "num": 385941,
-      "word": "张继科曾直播上厕所",
-      "onboard_time": 1680520114,
-      "rank": 26,
       "category": "社会新闻,艺人"
     },
     {
@@ -265,6 +265,14 @@
       "onboard_time": 1680494855,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1136793,
+      "num": 1136793,
+      "word": "刘青松",
+      "onboard_time": 1680522455,
+      "rank": 1,
+      "category": "游戏"
     },
     {
       "raw_hot": 1100322,
@@ -403,6 +411,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 785501,
+      "num": 560364,
+      "word": "张继科没有正式宣布退役",
+      "onboard_time": 1680524254,
+      "rank": 13,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 777495,
       "num": 777495,
       "word": "重庆群众挺身而出制服行凶男子",
@@ -433,6 +449,14 @@
       "onboard_time": 1680485609,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 737805,
+      "num": 737805,
+      "word": "BLG零封WBG",
+      "onboard_time": 1680521614,
+      "rank": 6,
+      "category": "游戏"
     },
     {
       "raw_hot": 729412,
@@ -545,6 +569,14 @@
       "onboard_time": 1680483452,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 573542,
+      "num": 573542,
+      "word": "他是谁结局",
+      "onboard_time": 1680520774,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 563401,
@@ -747,6 +779,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 405965,
+      "num": 405965,
+      "word": "迷笛",
+      "onboard_time": 1680523353,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 400806,
       "num": 400806,
       "word": "长月烬明",
@@ -769,6 +809,14 @@
       "onboard_time": 1680478404,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 394421,
+      "num": 374178,
+      "word": "周雨彤见到舒淇像孔雀开屏",
+      "onboard_time": 1680521975,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 394354,
@@ -833,6 +881,22 @@
       "onboard_time": 1680494496,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 367380,
+      "num": 367380,
+      "word": "为什么父母辈不理解双休",
+      "onboard_time": 1680520594,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 366033,
+      "num": 366033,
+      "word": "力灿承认曾性骚扰",
+      "onboard_time": 1680518796,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 355957,
@@ -923,6 +987,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 309102,
+      "num": 309102,
+      "word": "原来鲨鱼卵长这样",
+      "onboard_time": 1680523353,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 306489,
+      "num": 306489,
+      "word": "赵露思王安宇直播状态",
+      "onboard_time": 1680523111,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 299814,
       "num": 299814,
       "word": "大河报",
@@ -995,6 +1075,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 282233,
+      "num": 282233,
+      "word": "不要让女性成为话题焦点",
+      "onboard_time": 1680520774,
+      "rank": 38,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 280083,
       "num": 280083,
       "word": "女团univu5正式出道",
@@ -1051,6 +1139,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 264516,
+      "num": 264516,
+      "word": "孙国友女儿回应网友质疑不科学种树",
+      "onboard_time": 1680522573,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 262004,
       "num": 262004,
       "word": "陈晓连播两部剧",
@@ -1065,6 +1161,14 @@
       "onboard_time": 1680501932,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 256371,
+      "num": 256371,
+      "word": "IU的palette",
+      "onboard_time": 1680523591,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 255843,
@@ -1121,14 +1225,6 @@
       "onboard_time": 1680515012,
       "rank": 31,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 239939,
-      "num": 239939,
-      "word": "他是谁结局",
-      "onboard_time": 1680520774,
-      "rank": 29,
-      "category": "影视"
     },
     {
       "raw_hot": 238735,
@@ -1459,14 +1555,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 196873,
-      "num": 196873,
-      "word": "为什么父母辈不理解双休",
-      "onboard_time": 1680520594,
-      "rank": 36,
-      "category": "情感"
-    },
-    {
       "raw_hot": 196614,
       "num": 180159,
       "word": "王一博白色小香风造型花絮",
@@ -1499,20 +1587,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 194051,
+      "num": 194051,
+      "word": "肖战中华力量音频",
+      "onboard_time": 1680524372,
+      "rank": 37,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 193127,
       "num": 193127,
       "word": "浪漫医生金师傅剧照公开",
       "onboard_time": 1680516570,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 192606,
-      "num": 192606,
-      "word": "不要让女性成为话题焦点",
-      "onboard_time": 1680520774,
-      "rank": 38,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 191752,
@@ -1569,6 +1657,14 @@
       "onboard_time": 1680504870,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 183372,
+      "num": 183372,
+      "word": "了不起的夜晚好怕好笑又好哭",
+      "onboard_time": 1680524194,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 181209,
@@ -1651,6 +1747,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 162924,
+      "num": 162924,
+      "word": "电视剧人生之路",
+      "onboard_time": 1680524853,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 160621,
       "num": 160621,
       "word": "棉花糖拉丝蛋卷",
@@ -1689,6 +1793,14 @@
       "onboard_time": 1680510813,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 157513,
+      "num": 921372,
+      "word": "这不是山水画这是中国山河",
+      "onboard_time": 1680522034,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 157039,
@@ -1793,6 +1905,22 @@
       "onboard_time": 1680520894,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 144279,
+      "num": 144279,
+      "word": "易烊千玺智族GQ微电影",
+      "onboard_time": 1680522933,
+      "rank": 47,
+      "category": "影视,时尚"
+    },
+    {
+      "raw_hot": 143108,
+      "num": 143108,
+      "word": "宋三川梁友安海边漫步",
+      "onboard_time": 1680525153,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 142941,
@@ -2066,6 +2194,9 @@
     },
     {
       "word": "#英雄从未离去我们不会忘记#"
+    },
+    {
+      "word": "#各地春耕生产开局良好#"
     }
   ]
 }
