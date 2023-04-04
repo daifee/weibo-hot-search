@@ -1,0 +1,410 @@
+{
+  "runTime": 1680597292659,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4386600,
+        "num": 4386600,
+        "word": "苹果天气",
+        "onboard_time": 1680592951,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1432696,
+        "num": 1432696,
+        "word": "超级小桀",
+        "onboard_time": 1680593910,
+        "rank": 1,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 64504,
+        "num": 1397501,
+        "word": "前行就是最好的纪念",
+        "onboard_time": 1680570390,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1392875,
+        "num": 1392875,
+        "word": "五问张继科事件",
+        "onboard_time": 1680592049,
+        "rank": 3,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 857819,
+        "num": 857819,
+        "word": "曾可妮 排名",
+        "onboard_time": 1680592409,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 799786,
+        "num": 799786,
+        "word": "女子乐山大佛头顶盘膝打坐",
+        "onboard_time": 1680593429,
+        "rank": 5,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 769635,
+        "num": 769635,
+        "word": "长月烬明 让妆",
+        "onboard_time": 1680590729,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 706518,
+        "num": 706518,
+        "word": "张继科的声明若有违事实是否需担责",
+        "onboard_time": 1680567390,
+        "rank": 7,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 609798,
+        "num": 609798,
+        "word": "Amber 排名",
+        "onboard_time": 1680593311,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 598302,
+        "num": 598302,
+        "word": "唐伯虎 乘风4",
+        "onboard_time": 1680586531,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 579764,
+        "num": 579764,
+        "word": "男孩扫墓跪求奶奶保佑不写作业不挨打",
+        "onboard_time": 1680591988,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 568517,
+        "num": 568517,
+        "word": "特朗普一旦定罪或被判4年",
+        "onboard_time": 1680592888,
+        "rank": 11,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 510853,
+        "num": 510853,
+        "word": "崔始源肿么了",
+        "onboard_time": 1680584734,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 456946,
+        "num": 456946,
+        "word": "减脂可以吃任何东西",
+        "onboard_time": 1680589947,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 411534,
+        "num": 411534,
+        "word": "他是谁 烂尾",
+        "onboard_time": 1680582270,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 369689,
+        "num": 369689,
+        "word": "张继科事件能否掀起乒坛整风",
+        "onboard_time": 1680595771,
+        "rank": 15,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 338595,
+        "num": 338595,
+        "word": "如梦之梦",
+        "onboard_time": 1680594628,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 316519,
+        "num": 316519,
+        "word": "彩礼和嫁妆该不该对等",
+        "onboard_time": 1680584251,
+        "rank": 17,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 289489,
+        "num": 289489,
+        "word": "陈晓被叫叔叔在线崩溃",
+        "onboard_time": 1680593008,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 255424,
+        "num": 255424,
+        "word": "摩羯座真的还蛮会照顾人的",
+        "onboard_time": 1680596130,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 631269,
+        "num": 250634,
+        "word": "离职半个月长出头发了",
+        "onboard_time": 1680594449,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 300310,
+        "num": 246701,
+        "word": "旅行回来把朋友拉黑了",
+        "onboard_time": 1680595109,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 2777664,
+        "num": 245246,
+        "word": "华科大宿舍被雷劈了",
+        "onboard_time": 1680591207,
+        "rank": 22,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 240714,
+        "num": 240714,
+        "word": "韩国空气酵母",
+        "onboard_time": 1680589649,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227513,
+        "num": 239776,
+        "word": "求张继科事件视频当心触法",
+        "onboard_time": 1680596971,
+        "rank": 24,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 239222,
+        "num": 239222,
+        "word": "中国女留学生在泰被杀3名嫌犯被逮捕",
+        "onboard_time": 1680586770,
+        "rank": 25,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 236256,
+        "num": 236256,
+        "word": "长月烬明灭了吗订单",
+        "onboard_time": 1680592710,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 224397,
+        "num": 224397,
+        "word": "90后女入殓师穿上寿衣大方展示",
+        "onboard_time": 1680574049,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201570,
+        "num": 201570,
+        "word": "景区回应女子翻栏杆上大佛头顶",
+        "onboard_time": 1680596850,
+        "rank": 28,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 195593,
+        "num": 195593,
+        "word": "石原里美产后复出首作",
+        "onboard_time": 1680587608,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 190419,
+        "num": 190419,
+        "word": "乘风4初舞台排名",
+        "onboard_time": 1680576867,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184440,
+        "num": 184440,
+        "word": "信号2剧本",
+        "onboard_time": 1680590246,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 179186,
+        "num": 179186,
+        "word": "周也碎花绿裙",
+        "onboard_time": 1680596488,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178430,
+        "num": 178430,
+        "word": "没有一句粗口却把我伤得体无完肤",
+        "onboard_time": 1680585511,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171857,
+        "num": 171857,
+        "word": "张继科曾多次被曝涉赌",
+        "onboard_time": 1680503971,
+        "rank": 34,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 166694,
+        "num": 166694,
+        "word": "金晨的飞行日记vlog",
+        "onboard_time": 1680597091,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 163012,
+        "num": 163012,
+        "word": "王刚清空账号解散粉丝群",
+        "onboard_time": 1680576569,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166272,
+        "num": 162533,
+        "word": "安踏删除张继科宣传物料",
+        "onboard_time": 1680497915,
+        "rank": 37,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 158878,
+        "num": 158878,
+        "word": "王源演唱会",
+        "onboard_time": 1680587969,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 157813,
+        "num": 157813,
+        "word": "代号鸢 养卡",
+        "onboard_time": 1680581852,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 155217,
+        "num": 155217,
+        "word": "小兰救柯南最后一跳",
+        "onboard_time": 1680596791,
+        "rank": 40,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 151846,
+        "num": 151846,
+        "word": "特朗普被起诉激化美国两党对立情绪",
+        "onboard_time": 1680596791,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148557,
+        "num": 148557,
+        "word": "一张照片能有多怀念",
+        "onboard_time": 1680596910,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146359,
+        "num": 146359,
+        "word": "叶舒华愿意上小S节目的原因",
+        "onboard_time": 1680584854,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143459,
+        "num": 143459,
+        "word": "张钧甯阮经天合照",
+        "onboard_time": 1680592109,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141817,
+        "num": 141817,
+        "word": "蜘蛛侠纵横宇宙新预告",
+        "onboard_time": 1680595051,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 139875,
+        "num": 139875,
+        "word": "小美人鱼内地定档",
+        "onboard_time": 1680589227,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 139545,
+        "num": 139545,
+        "word": "特斯拉一夜暴跌2700亿",
+        "onboard_time": 1680578910,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 138890,
+        "num": 138890,
+        "word": "间歇性冷漠",
+        "onboard_time": 1680588449,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133875,
+        "num": 133875,
+        "word": "熊猫有多爱洗澡",
+        "onboard_time": 1680591507,
+        "rank": 49,
+        "category": "幽默,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#扎实抓好主题教育#"
+    }
+  }
+}

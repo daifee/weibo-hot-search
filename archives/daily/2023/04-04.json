@@ -1,7 +1,15 @@
 {
   "startTime": 1680538976202,
-  "endTime": 1680596522980,
+  "endTime": 1680597292659,
   "band_list": [
+    {
+      "raw_hot": 4386600,
+      "num": 4386600,
+      "word": "苹果天气",
+      "onboard_time": 1680592951,
+      "rank": 17,
+      "category": "科技"
+    },
     {
       "raw_hot": 3471973,
       "num": 3471973,
@@ -9,14 +17,6 @@
       "onboard_time": 1680576569,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 3462430,
-      "num": 3462430,
-      "word": "苹果天气",
-      "onboard_time": 1680592951,
-      "rank": 17,
-      "category": "科技"
     },
     {
       "raw_hot": 3212571,
@@ -91,6 +91,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1432696,
+      "num": 1432696,
+      "word": "超级小桀",
+      "onboard_time": 1680593910,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1430909,
       "num": 1430909,
       "word": "五问张继科事件",
@@ -155,14 +163,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 1037508,
-      "num": 1037508,
-      "word": "超级小桀",
-      "onboard_time": 1680593910,
-      "rank": 4,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 974892,
       "num": 974892,
       "word": "彩礼和嫁妆该不该对等",
@@ -193,6 +193,14 @@
       "onboard_time": 1680572849,
       "rank": 43,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 799786,
+      "num": 799786,
+      "word": "女子乐山大佛头顶盘膝打坐",
+      "onboard_time": 1680593429,
+      "rank": 49,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 774699,
@@ -251,14 +259,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 684790,
-      "num": 684790,
-      "word": "女子乐山大佛头顶盘膝打坐",
-      "onboard_time": 1680593429,
-      "rank": 49,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 682753,
       "num": 682753,
       "word": "BLACKPINK或将全员续约YG",
@@ -291,6 +291,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 631269,
+      "num": 276045,
+      "word": "离职半个月长出头发了",
+      "onboard_time": 1680594449,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 627766,
       "num": 587315,
       "word": "中国女留学生在泰被杀3名嫌犯被逮捕",
@@ -315,12 +323,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 619905,
-      "num": 276045,
-      "word": "离职半个月长出头发了",
-      "onboard_time": 1680594449,
-      "rank": 20,
-      "category": "幽默"
+      "raw_hot": 609798,
+      "num": 609798,
+      "word": "Amber 排名",
+      "onboard_time": 1680593311,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 586387,
@@ -331,20 +339,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 568182,
-      "num": 568182,
+      "raw_hot": 568517,
+      "num": 568517,
       "word": "特朗普一旦定罪或被判4年",
       "onboard_time": 1680592888,
       "rank": 34,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 558779,
-      "num": 558779,
-      "word": "Amber 排名",
-      "onboard_time": 1680593311,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 552389,
@@ -563,6 +563,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 369689,
+      "num": 369689,
+      "word": "张继科事件能否掀起乒坛整风",
+      "onboard_time": 1680595771,
+      "rank": 24,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 368209,
       "num": 328203,
       "word": "陈延年陈乔年墓旁的桃花开了",
@@ -619,6 +627,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 338595,
+      "num": 338595,
+      "word": "如梦之梦",
+      "onboard_time": 1680594628,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 331910,
       "num": 331910,
       "word": "毛晓彤簪花女造型",
@@ -632,14 +648,6 @@
       "word": "欢乐颂4全员晒胶带自拍",
       "onboard_time": 1680585810,
       "rank": 24,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 322243,
-      "num": 322243,
-      "word": "如梦之梦",
-      "onboard_time": 1680594628,
-      "rank": 16,
       "category": "影视"
     },
     {
@@ -673,6 +681,14 @@
       "onboard_time": 1680580229,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 300310,
+      "num": 253892,
+      "word": "旅行回来把朋友拉黑了",
+      "onboard_time": 1680595109,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 289322,
@@ -803,6 +819,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 255424,
+      "num": 255424,
+      "word": "摩羯座真的还蛮会照顾人的",
+      "onboard_time": 1680596130,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 254181,
       "num": 254181,
       "word": "传播他人私密视频最高可判无期",
@@ -819,28 +843,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 253892,
-      "num": 253892,
-      "word": "旅行回来把朋友拉黑了",
-      "onboard_time": 1680595109,
-      "rank": 23,
-      "category": "情感"
-    },
-    {
       "raw_hot": 251759,
       "num": 251759,
       "word": "张杰演唱会",
       "onboard_time": 1680586469,
       "rank": 23,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 247418,
-      "num": 247418,
-      "word": "张继科事件能否掀起乒坛整风",
-      "onboard_time": 1680595771,
-      "rank": 24,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 242066,
@@ -873,6 +881,14 @@
       "onboard_time": 1680585689,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 227513,
+      "num": 239776,
+      "word": "求张继科事件视频当心触法",
+      "onboard_time": 1680596971,
+      "rank": 24,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 220152,
@@ -995,6 +1011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 201570,
+      "num": 201570,
+      "word": "景区回应女子翻栏杆上大佛头顶",
+      "onboard_time": 1680596850,
+      "rank": 28,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 199383,
       "num": 199383,
       "word": "范丞丞脸颊比心",
@@ -1009,14 +1033,6 @@
       "onboard_time": 1680582633,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 197761,
-      "num": 197761,
-      "word": "摩羯座真的还蛮会照顾人的",
-      "onboard_time": 1680596130,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 197416,
@@ -1195,6 +1211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 179186,
+      "num": 179186,
+      "word": "周也碎花绿裙",
+      "onboard_time": 1680596488,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 179116,
       "num": 179116,
       "word": "许巍演唱会门票",
@@ -1267,6 +1291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166694,
+      "num": 166694,
+      "word": "金晨的飞行日记vlog",
+      "onboard_time": 1680597091,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 165013,
       "num": 165013,
       "word": "一图读懂张继科事件始末",
@@ -1323,6 +1355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 155217,
+      "num": 155217,
+      "word": "小兰救柯南最后一跳",
+      "onboard_time": 1680596791,
+      "rank": 40,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 155069,
       "num": 155069,
       "word": "千金贵气妆",
@@ -1355,6 +1395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 151846,
+      "num": 151846,
+      "word": "特朗普被起诉激化美国两党对立情绪",
+      "onboard_time": 1680596791,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150530,
       "num": 150530,
       "word": "电影无价之宝预告",
@@ -1369,6 +1417,14 @@
       "onboard_time": 1680595051,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 148557,
+      "num": 148557,
+      "word": "一张照片能有多怀念",
+      "onboard_time": 1680596910,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 146705,
@@ -1425,14 +1481,6 @@
       "onboard_time": 1680570212,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 133529,
-      "num": 133529,
-      "word": "周也碎花绿裙",
-      "onboard_time": 1680596488,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 133273,
