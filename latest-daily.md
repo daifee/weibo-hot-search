@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/04/05 00:23:08 ~ 2023/04/05 01:13:49
+本榜单时间：2023/04/05 00:23:08 ~ 2023/04/05 01:33:28
 </p>
 </blockquote>
 <p>
@@ -347,6 +347,12 @@ IVE正规专预告照（热度：90311）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E8%8B%B1%E9%9B%84%E4%B9%8B%E5%85%89%23%23" target="weibo">
 #英雄之光#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E5%BC%80%E5%B1%80%E4%B9%8B%E5%B9%B4%E5%85%B1%E5%A5%8B%E8%BF%9B%23%23" target="weibo">
+#开局之年共奋进#
 </a>
 </li>
 
