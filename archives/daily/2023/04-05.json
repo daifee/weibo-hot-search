@@ -1,6 +1,6 @@
 {
   "startTime": 1680625388129,
-  "endTime": 1680650202402,
+  "endTime": 1680651208235,
   "band_list": [
     {
       "raw_hot": 3423974,
@@ -75,20 +75,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 513863,
+      "num": 513863,
+      "word": "特朗普接受传讯现场",
+      "onboard_time": 1680616532,
+      "rank": 14,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 508114,
       "num": 508114,
       "word": "你想要双休还是凑小长假",
       "onboard_time": 1680613650,
       "rank": 6,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 464110,
-      "num": 464110,
-      "word": "特朗普接受传讯现场",
-      "onboard_time": 1680616532,
-      "rank": 14,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 423555,
@@ -99,12 +99,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 399956,
+      "num": 190142,
+      "word": "特朗普自曝被控33项罪名",
+      "onboard_time": 1680649581,
+      "rank": 30,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 376713,
+      "num": 376713,
+      "word": "特朗普最高刑期可能达136年",
+      "onboard_time": 1680650358,
+      "rank": 6,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 366568,
       "num": 366568,
       "word": "特朗普一旦定罪或被判4年",
       "onboard_time": 1680616410,
       "rank": 17,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 345083,
+      "num": 234658,
+      "word": "特朗普在法庭上做无罪辩护",
+      "onboard_time": 1680649757,
+      "rank": 19,
+      "category": "国内要闻,社会新闻"
     },
     {
       "raw_hot": 323046,
@@ -155,6 +179,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 267523,
+      "num": 267523,
+      "word": "清明节",
+      "onboard_time": 1680649937,
+      "rank": 7,
+      "category": "情感"
+    },
+    {
       "raw_hot": 261930,
       "num": 207124,
       "word": "女孩跳江获救3名救援小伙溺亡",
@@ -171,14 +203,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 259757,
-      "num": 58561,
-      "word": "特朗普自曝被控33项罪名",
-      "onboard_time": 1680649581,
-      "rank": 30,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 219195,
       "num": 140152,
       "word": "WBG的训练赛",
@@ -193,6 +217,14 @@
       "onboard_time": 1680613951,
       "rank": 18,
       "category": "其它"
+    },
+    {
+      "raw_hot": 210245,
+      "num": 189760,
+      "word": "清明既是节气又是传统节日",
+      "onboard_time": 1680650057,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 208538,
@@ -219,12 +251,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 187762,
-      "num": 187762,
-      "word": "清明节",
-      "onboard_time": 1680649937,
-      "rank": 7,
-      "category": "情感"
+      "raw_hot": 189668,
+      "num": 189668,
+      "word": "73岁独臂老兵为烈士守陵38年",
+      "onboard_time": 1680650420,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186549,
@@ -289,6 +321,14 @@
       "onboard_time": 1680619054,
       "rank": 28,
       "category": "科技"
+    },
+    {
+      "raw_hot": 138671,
+      "num": 138671,
+      "word": "建议谢娜买回家",
+      "onboard_time": 1680650780,
+      "rank": 18,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 131936,
@@ -395,6 +435,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 92019,
+      "num": 92019,
+      "word": "罗云熙白鹿新剧相拥吻戏",
+      "onboard_time": 1680650420,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 91528,
       "num": 91528,
       "word": "LPL春季赛四强确定",
@@ -435,19 +483,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 85650,
-      "num": 85650,
-      "word": "特朗普在法庭上做无罪辩护",
-      "onboard_time": 1680649757,
-      "rank": 19,
-      "category": "国内要闻,社会新闻"
-    },
-    {
-      "raw_hot": 80313,
-      "num": 58262,
-      "word": "清明既是节气又是传统节日",
-      "onboard_time": 1680650057,
-      "rank": 34,
+      "raw_hot": 78498,
+      "num": 78498,
+      "word": "社牛宝宝频繁搭讪小哥哥",
+      "onboard_time": 1680650658,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -459,11 +499,35 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 54564,
+      "num": 54564,
+      "word": "林俊杰新歌谢幕MV",
+      "onboard_time": 1680651140,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 53918,
+      "num": 53918,
+      "word": "最食人间烟火色",
+      "onboard_time": 1680602429,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 52015,
       "num": 52015,
       "word": "马英九向张自忠敬献花圈",
       "onboard_time": 1680605968,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 51906,
+      "num": 51906,
+      "word": "杨丽萍爱徒跳孔雀舞被批不雅",
+      "onboard_time": 1680651140,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -473,14 +537,6 @@
       "onboard_time": 1680611790,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 43599,
-      "num": 43599,
-      "word": "最食人间烟火色",
-      "onboard_time": 1680602429,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 42273,
@@ -497,6 +553,14 @@
       "onboard_time": 1680635834,
       "rank": 32,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 31785,
+      "num": 49456,
+      "word": "OMG团战",
+      "onboard_time": 1680606511,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 14938,
