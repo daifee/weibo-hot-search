@@ -1,6 +1,6 @@
 {
   "startTime": 1680452464197,
-  "endTime": 1680647605405,
+  "endTime": 1680650202402,
   "band_list": [
     {
       "raw_hot": 9506486,
@@ -1475,6 +1475,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 464110,
+      "num": 464110,
+      "word": "特朗普接受传讯现场",
+      "onboard_time": 1680616532,
+      "rank": 32,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 463670,
       "num": 463670,
       "word": "爱奇艺4月好多新综艺",
@@ -1649,14 +1657,6 @@
       "onboard_time": 1680609390,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 410538,
-      "num": 410538,
-      "word": "特朗普接受传讯现场",
-      "onboard_time": 1680616532,
-      "rank": 32,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 410090,
@@ -2385,6 +2385,14 @@
       "onboard_time": 1680592710,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 259757,
+      "num": 58561,
+      "word": "特朗普自曝被控33项罪名",
+      "onboard_time": 1680649581,
+      "rank": 30,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 259160,
@@ -3443,6 +3451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 187762,
+      "num": 187762,
+      "word": "清明节",
+      "onboard_time": 1680649937,
+      "rank": 7,
+      "category": "情感"
+    },
+    {
       "raw_hot": 187570,
       "num": 197625,
       "word": "徐明浩说社恐小八来报到",
@@ -4491,6 +4507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 112734,
+      "num": 112734,
+      "word": "你会忍着拥挤的烦恼出游吗",
+      "onboard_time": 1680641351,
+      "rank": 31,
+      "category": "社会议题,旅游"
+    },
+    {
       "raw_hot": 110740,
       "num": 396814,
       "word": "仅退款是维护消费者权益",
@@ -4537,14 +4561,6 @@
       "onboard_time": 1680563722,
       "rank": 48,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 105204,
-      "num": 105204,
-      "word": "你会忍着拥挤的烦恼出游吗",
-      "onboard_time": 1680641351,
-      "rank": 31,
-      "category": "社会议题,旅游"
     },
     {
       "raw_hot": 102470,
@@ -4643,6 +4659,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 85650,
+      "num": 85650,
+      "word": "特朗普在法庭上做无罪辩护",
+      "onboard_time": 1680649757,
+      "rank": 19,
+      "category": "国内要闻,社会新闻"
+    },
+    {
       "raw_hot": 82186,
       "num": 82186,
       "word": "朋友借钱你会给吗",
@@ -4657,6 +4681,14 @@
       "onboard_time": 1680449915,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 80313,
+      "num": 58262,
+      "word": "清明既是节气又是传统节日",
+      "onboard_time": 1680650057,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 77721,
@@ -4747,6 +4779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 42273,
+      "num": 42273,
+      "word": "大学生在打一种很新的卡",
+      "onboard_time": 1680627741,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 39982,
       "num": 43639,
       "word": "当清明诗词遇上古人春日必做清单",
@@ -4769,14 +4809,6 @@
       "onboard_time": 1680635834,
       "rank": 32,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 33409,
-      "num": 33409,
-      "word": "大学生在打一种很新的卡",
-      "onboard_time": 1680627741,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 27133,
