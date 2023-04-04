@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680615215869,
+  "endTime": 1680617834539,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -291,6 +291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 2357707,
+      "num": 1351993,
+      "word": "国家体育总局乒羽中心回应张继科事件",
+      "onboard_time": 1680613351,
+      "rank": 10,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 2357460,
       "num": 2357460,
       "word": "果然娱乐回应小鬼被抄袭",
@@ -419,6 +427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1714389,
+      "num": 472269,
+      "word": "张佳宁点痣了",
+      "onboard_time": 1680609390,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1643326,
       "num": 1638319,
       "word": "债主获刑张继科会是共犯吗",
@@ -441,6 +457,14 @@
       "onboard_time": 1680610229,
       "rank": 5,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1573959,
+      "num": 1573959,
+      "word": "你想要双休还是凑小长假",
+      "onboard_time": 1680613650,
+      "rank": 11,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 1568428,
@@ -553,14 +577,6 @@
       "onboard_time": 1680576867,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1351993,
-      "num": 1351993,
-      "word": "国家体育总局乒羽中心回应张继科事件",
-      "onboard_time": 1680613351,
-      "rank": 10,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1350707,
@@ -737,14 +753,6 @@
       "onboard_time": 1680318147,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1106477,
-      "num": 1106477,
-      "word": "你想要双休还是凑小长假",
-      "onboard_time": 1680613650,
-      "rank": 11,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 1100322,
@@ -1083,14 +1091,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 838525,
-      "num": 443138,
-      "word": "张佳宁点痣了",
-      "onboard_time": 1680609390,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 837448,
       "num": 375683,
       "word": "女子坐飞机意外发现自己包机了",
@@ -1265,6 +1265,14 @@
       "onboard_time": 1680499349,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 718591,
+      "num": 461769,
+      "word": "运动员退役必须要官宣吗",
+      "onboard_time": 1680615933,
+      "rank": 11,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 716821,
@@ -1939,6 +1947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 537848,
+      "num": 278624,
+      "word": "95后寿衣模特回应被说阴气重",
+      "onboard_time": 1680614552,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 536873,
       "num": 536873,
       "word": "秋瓷炫李彩桦舞蹈视频对比",
@@ -1969,6 +1985,14 @@
       "onboard_time": 1680526533,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 529237,
+      "num": 529237,
+      "word": "芬兰正式成为北约第31个成员国",
+      "onboard_time": 1680616652,
+      "rank": 6,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 525508,
@@ -2275,6 +2299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 474675,
+      "num": 474675,
+      "word": "为什么总被说湿气重",
+      "onboard_time": 1680613951,
+      "rank": 39,
+      "category": "其它"
+    },
+    {
       "raw_hot": 472984,
       "num": 472984,
       "word": "吴彤说我也想好好沉淀一下",
@@ -2441,6 +2473,14 @@
       "onboard_time": 1680489627,
       "rank": 49,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 449514,
+      "num": 449514,
+      "word": "名侦探柯南黑铁的鱼影",
+      "onboard_time": 1680617013,
+      "rank": 12,
+      "category": "动漫,影视"
     },
     {
       "raw_hot": 448752,
@@ -3907,6 +3947,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 267599,
+      "num": 267599,
+      "word": "柯哀亲了",
+      "onboard_time": 1680617614,
+      "rank": 24,
+      "category": "动漫,影视"
+    },
+    {
       "raw_hot": 267241,
       "num": 267241,
       "word": "时尚先生四月刊",
@@ -3985,6 +4033,14 @@
       "onboard_time": 1680566129,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 260290,
+      "num": 260290,
+      "word": "人生之路",
+      "onboard_time": 1680356610,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 259850,
@@ -4099,22 +4155,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 255021,
-      "num": 255021,
-      "word": "95后寿衣模特回应被说阴气重",
-      "onboard_time": 1680614552,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 254910,
-      "num": 235103,
-      "word": "为什么总被说湿气重",
-      "onboard_time": 1680613951,
-      "rank": 39,
-      "category": "其它"
-    },
-    {
       "raw_hot": 254181,
       "num": 254181,
       "word": "传播他人私密视频最高可判无期",
@@ -4161,6 +4201,14 @@
       "onboard_time": 1680334470,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 251926,
+      "num": 251926,
+      "word": "LPL春季赛四强确定",
+      "onboard_time": 1680614972,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 251746,
@@ -4241,6 +4289,14 @@
       "onboard_time": 1680336273,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 249004,
+      "num": 249004,
+      "word": "青山刚昌",
+      "onboard_time": 1680617553,
+      "rank": 27,
+      "category": "动漫,影视"
     },
     {
       "raw_hot": 248968,
@@ -4385,6 +4441,14 @@
       "onboard_time": 1680425309,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 238273,
+      "num": 238273,
+      "word": "特朗普接受传讯现场",
+      "onboard_time": 1680616532,
+      "rank": 32,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 238096,
@@ -4683,6 +4747,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 217702,
+      "num": 217702,
+      "word": "律师建议张继科不要逃避",
+      "onboard_time": 1680617313,
+      "rank": 35,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 217436,
       "num": 217436,
       "word": "半熟恋人2全员告白",
@@ -4713,6 +4785,14 @@
       "onboard_time": 1680441632,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 216169,
+      "num": 216169,
+      "word": "惠英红马思纯王锵voguefilm大片",
+      "onboard_time": 1680612817,
+      "rank": 36,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 215583,
@@ -5145,6 +5225,14 @@
       "onboard_time": 1680408389,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 204039,
+      "num": 204039,
+      "word": "把一群i人凑在一起",
+      "onboard_time": 1680617071,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 203573,
@@ -5859,6 +5947,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 191486,
+      "num": 191486,
+      "word": "爱情而已小狗开会",
+      "onboard_time": 1680614493,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 191330,
       "num": 191330,
       "word": "姚琛重庆巡演",
@@ -6563,14 +6659,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 169989,
-      "num": 169989,
-      "word": "爱情而已小狗开会",
-      "onboard_time": 1680614493,
-      "rank": 38,
-      "category": "影视"
-    },
-    {
       "raw_hot": 169937,
       "num": 169937,
       "word": "你拥有拒绝别人的勇气吗",
@@ -7161,14 +7249,6 @@
       "onboard_time": 1680401606,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 153575,
-      "num": 153575,
-      "word": "人生之路",
-      "onboard_time": 1680356610,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 153432,
@@ -7929,14 +8009,6 @@
       "onboard_time": 1680347070,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 129126,
-      "num": 129126,
-      "word": "LPL春季赛四强确定",
-      "onboard_time": 1680614972,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 128704,
