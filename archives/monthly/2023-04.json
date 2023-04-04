@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680626329730,
+  "endTime": 1680628429195,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -4796,7 +4796,7 @@
     },
     {
       "raw_hot": 219195,
-      "num": 127669,
+      "num": 140152,
       "word": "WBG的训练赛",
       "onboard_time": 1680623970,
       "rank": 32,
@@ -8267,6 +8267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 124003,
+      "num": 124003,
+      "word": "你想不到的小说作者主业",
+      "onboard_time": 1680625226,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 123908,
       "num": 123908,
       "word": "金智秀签售饭拍生图",
@@ -8953,14 +8961,6 @@
       "onboard_time": 1680333990,
       "rank": 45,
       "category": "美食"
-    },
-    {
-      "raw_hot": 93677,
-      "num": 93677,
-      "word": "你想不到的小说作者主业",
-      "onboard_time": 1680625226,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 92990,

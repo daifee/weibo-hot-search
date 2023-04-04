@@ -1,6 +1,6 @@
 {
   "startTime": 1680625388129,
-  "endTime": 1680626329730,
+  "endTime": 1680628429195,
   "band_list": [
     {
       "raw_hot": 3423974,
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 219195,
-      "num": 127669,
+      "num": 140152,
       "word": "WBG的训练赛",
       "onboard_time": 1680623970,
       "rank": 32,
@@ -299,6 +299,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 124003,
+      "num": 124003,
+      "word": "你想不到的小说作者主业",
+      "onboard_time": 1680625226,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 122661,
       "num": 122661,
       "word": "张杰演唱会",
@@ -363,14 +371,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 93677,
-      "num": 93677,
-      "word": "你想不到的小说作者主业",
-      "onboard_time": 1680625226,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 91528,
       "num": 91528,
       "word": "LPL春季赛四强确定",
@@ -409,6 +409,14 @@
       "onboard_time": 1680622050,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 52015,
+      "num": 52015,
+      "word": "马英九向张自忠敬献花圈",
+      "onboard_time": 1680605968,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 45302,
