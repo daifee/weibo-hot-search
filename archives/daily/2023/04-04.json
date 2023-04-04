@@ -1,6 +1,6 @@
 {
   "startTime": 1680538976202,
-  "endTime": 1680604396379,
+  "endTime": 1680606841049,
   "band_list": [
     {
       "raw_hot": 4386600,
@@ -131,6 +131,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1277776,
+      "num": 430273,
+      "word": "林依晨看了都得愣一下",
+      "onboard_time": 1680603030,
+      "rank": 24,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 1241786,
       "num": 638733,
       "word": "肖战电影",
@@ -179,12 +187,28 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 988266,
+      "num": 988266,
+      "word": "不要随便接陌生电话",
+      "onboard_time": 1680600631,
+      "rank": 43,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 974892,
       "num": 974892,
       "word": "彩礼和嫁妆该不该对等",
       "onboard_time": 1680584251,
       "rank": 8,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 964993,
+      "num": 390250,
+      "word": "债主获刑张继科会是共犯吗",
+      "onboard_time": 1680604291,
+      "rank": 49,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 925827,
@@ -219,14 +243,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 826984,
-      "num": 826984,
-      "word": "不要随便接陌生电话",
-      "onboard_time": 1680600631,
-      "rank": 43,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 799786,
       "num": 799786,
       "word": "女子乐山大佛头顶盘膝打坐",
@@ -249,14 +265,6 @@
       "onboard_time": 1680572250,
       "rank": 30,
       "category": "美食"
-    },
-    {
-      "raw_hot": 728168,
-      "num": 430273,
-      "word": "林依晨看了都得愣一下",
-      "onboard_time": 1680603030,
-      "rank": 24,
-      "category": "艺人,幽默"
     },
     {
       "raw_hot": 716821,
@@ -307,6 +315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 681894,
+      "num": 330739,
+      "word": "女孩跳江获救3名救援小伙溺亡",
+      "onboard_time": 1680602552,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 672319,
       "num": 417981,
       "word": "求张继科事件视频当心触法",
@@ -337,14 +353,6 @@
       "onboard_time": 1680580112,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 641145,
-      "num": 282424,
-      "word": "女孩跳江获救3名救援小伙溺亡",
-      "onboard_time": 1680602552,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 633250,
@@ -443,12 +451,28 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 536084,
+      "num": 389327,
+      "word": "泰坦尼克号Rose床头的照片",
+      "onboard_time": 1680605610,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 535841,
       "num": 535841,
       "word": "300一杯天价柠檬茶商家被罚20万",
       "onboard_time": 1680584074,
       "rank": 17,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 529525,
+      "num": 529525,
+      "word": "李雪琴吐槽报销流程",
+      "onboard_time": 1680605249,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 524927,
@@ -619,6 +643,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 390924,
+      "num": 390924,
+      "word": "LNG对战OMG",
+      "onboard_time": 1680600990,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 390628,
       "num": 390628,
       "word": "大侦探",
@@ -723,6 +755,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 333867,
+      "num": 333867,
+      "word": "Billlie初一位",
+      "onboard_time": 1680606030,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 331910,
       "num": 331910,
       "word": "毛晓彤簪花女造型",
@@ -739,12 +779,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 325962,
+      "num": 325962,
+      "word": "香芋肥肠鸡",
+      "onboard_time": 1680605368,
+      "rank": 22,
+      "category": "美食"
+    },
+    {
       "raw_hot": 325702,
       "num": 325702,
       "word": "旅行回来把朋友拉黑了",
       "onboard_time": 1680595109,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 324417,
+      "num": 324417,
+      "word": "马英九向张自忠敬献花圈",
+      "onboard_time": 1680605968,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 319808,
@@ -769,14 +825,6 @@
       "onboard_time": 1680526413,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 306520,
-      "num": 306520,
-      "word": "LNG对战OMG",
-      "onboard_time": 1680600990,
-      "rank": 17,
-      "category": "游戏"
     },
     {
       "raw_hot": 305906,
@@ -817,6 +865,14 @@
       "onboard_time": 1680517474,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 278833,
+      "num": 278833,
+      "word": "代号鸢",
+      "onboard_time": 1680603930,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 278096,
@@ -987,6 +1043,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 237956,
+      "num": 237956,
+      "word": "Amber小跑和黄晓明握手",
+      "onboard_time": 1680605551,
+      "rank": 27,
+      "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 234341,
+      "num": 234341,
+      "word": "爱情而已三分钟在今晚",
+      "onboard_time": 1680606452,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 230080,
       "num": 214880,
       "word": "云襄传",
@@ -1027,14 +1099,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 216125,
-      "num": 216125,
-      "word": "代号鸢",
-      "onboard_time": 1680603930,
-      "rank": 31,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 215477,
       "num": 215477,
       "word": "王者荣耀杨玉环皮肤",
@@ -1065,6 +1129,14 @@
       "onboard_time": 1680568110,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 210243,
+      "num": 210243,
+      "word": "余陶然孙沐雨牵手了",
+      "onboard_time": 1680605131,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 209349,
@@ -1179,6 +1251,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 200173,
+      "num": 200173,
+      "word": "OMG团战",
+      "onboard_time": 1680606511,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 199383,
       "num": 199383,
       "word": "范丞丞脸颊比心",
@@ -1209,6 +1289,14 @@
       "onboard_time": 1680590008,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 196703,
+      "num": 196703,
+      "word": "彭小苒晒季曼画像",
+      "onboard_time": 1680605730,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 196282,
@@ -1459,6 +1547,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 172134,
+      "num": 172134,
+      "word": "半熟恋人2全员告白",
+      "onboard_time": 1680606390,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 171182,
       "num": 169535,
       "word": "如何评价张继科事件中求视频乱象",
@@ -1539,12 +1635,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 163466,
+      "num": 167053,
+      "word": "我们的客栈云合数据登顶",
+      "onboard_time": 1680606151,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 162978,
       "num": 207989,
       "word": "长月烬明羽绒服",
       "onboard_time": 1680530497,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 162359,
+      "num": 162359,
+      "word": "小猫咪也有睡觉搭子了",
+      "onboard_time": 1680604229,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 160628,
@@ -1593,6 +1705,14 @@
       "onboard_time": 1680581254,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 154546,
+      "num": 163219,
+      "word": "KPL",
+      "onboard_time": 1680605730,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 153607,
@@ -1659,14 +1779,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 145730,
-      "num": 145730,
-      "word": "小猫咪也有睡觉搭子了",
-      "onboard_time": 1680604229,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 142089,
       "num": 142089,
       "word": "迪士尼成立100周年宣传片",
@@ -1689,14 +1801,6 @@
       "onboard_time": 1680518796,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 140896,
-      "num": 140896,
-      "word": "债主获刑张继科会是共犯吗",
-      "onboard_time": 1680604291,
-      "rank": 49,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 140627,
