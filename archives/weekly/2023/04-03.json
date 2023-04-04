@@ -1,6 +1,6 @@
 {
   "startTime": 1680452464197,
-  "endTime": 1680633207473,
+  "endTime": 1680635598320,
   "band_list": [
     {
       "raw_hot": 9506486,
@@ -1651,6 +1651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 410538,
+      "num": 410538,
+      "word": "特朗普接受传讯现场",
+      "onboard_time": 1680616532,
+      "rank": 32,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 410090,
       "num": 410090,
       "word": "Billlie初一位",
@@ -2337,14 +2345,6 @@
       "onboard_time": 1680601650,
       "rank": 27,
       "category": "情感"
-    },
-    {
-      "raw_hot": 262135,
-      "num": 262135,
-      "word": "特朗普接受传讯现场",
-      "onboard_time": 1680616532,
-      "rank": 32,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 262004,
@@ -4755,8 +4755,8 @@
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 28514,
-      "num": 28514,
+      "raw_hot": 33409,
+      "num": 33409,
       "word": "大学生在打一种很新的卡",
       "onboard_time": 1680627741,
       "rank": 49,

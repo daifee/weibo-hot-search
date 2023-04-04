@@ -1,6 +1,6 @@
 {
   "startTime": 1680625388129,
-  "endTime": 1680633207473,
+  "endTime": 1680635598320,
   "band_list": [
     {
       "raw_hot": 3423974,
@@ -91,6 +91,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 410538,
+      "num": 410538,
+      "word": "特朗普接受传讯现场",
+      "onboard_time": 1680616532,
+      "rank": 14,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 366568,
+      "num": 366568,
+      "word": "特朗普一旦定罪或被判4年",
+      "onboard_time": 1680616410,
+      "rank": 17,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 323046,
       "num": 323046,
       "word": "芬兰正式成为北约第31个成员国",
@@ -153,22 +169,6 @@
       "onboard_time": 1680620672,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 251235,
-      "num": 251235,
-      "word": "特朗普接受传讯现场",
-      "onboard_time": 1680616532,
-      "rank": 14,
-      "category": "国外要闻"
-    },
-    {
-      "raw_hot": 230637,
-      "num": 230637,
-      "word": "特朗普一旦定罪或被判4年",
-      "onboard_time": 1680616410,
-      "rank": 17,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 219195,
@@ -427,8 +427,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 28514,
-      "num": 28514,
+      "raw_hot": 33409,
+      "num": 33409,
       "word": "大学生在打一种很新的卡",
       "onboard_time": 1680627741,
       "rank": 49,
