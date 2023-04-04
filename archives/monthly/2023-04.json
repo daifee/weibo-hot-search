@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680625388129,
+  "endTime": 1680626329730,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -2659,6 +2659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 423555,
+      "num": 423555,
+      "word": "他是谁豆瓣降至6.6分",
+      "onboard_time": 1680622769,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 423067,
       "num": 423067,
       "word": "王俊凯或将出演贾樟柯新电影",
@@ -2825,14 +2833,6 @@
       "onboard_time": 1680260906,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 402370,
-      "num": 402370,
-      "word": "他是谁豆瓣降至6.6分",
-      "onboard_time": 1680622769,
-      "rank": 7,
-      "category": "影视"
     },
     {
       "raw_hot": 398253,
@@ -4099,6 +4099,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 261191,
+      "num": 204948,
+      "word": "养过一次狗后再也不想养了",
+      "onboard_time": 1680620672,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 261040,
       "num": 261040,
       "word": "王子璇演丽妃对镜子练习吓人",
@@ -4233,14 +4241,6 @@
       "onboard_time": 1680579931,
       "rank": 30,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 255845,
-      "num": 204948,
-      "word": "养过一次狗后再也不想养了",
-      "onboard_time": 1680620672,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 255843,
@@ -4793,6 +4793,14 @@
       "onboard_time": 1680426990,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 219195,
+      "num": 127669,
+      "word": "WBG的训练赛",
+      "onboard_time": 1680623970,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 219003,
@@ -5793,14 +5801,6 @@
       "onboard_time": 1680354510,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 197123,
-      "num": 127669,
-      "word": "WBG的训练赛",
-      "onboard_time": 1680623970,
-      "rank": 32,
-      "category": "游戏"
     },
     {
       "raw_hot": 197075,
@@ -8259,6 +8259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 124132,
+      "num": 124132,
+      "word": "刘巧珍眼里有光",
+      "onboard_time": 1680625705,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 123908,
       "num": 123908,
       "word": "金智秀签售饭拍生图",
@@ -8947,6 +8955,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 93677,
+      "num": 93677,
+      "word": "你想不到的小说作者主业",
+      "onboard_time": 1680625226,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 92990,
       "num": 92990,
       "word": "宋三川霸气保护梁友安",
@@ -9017,14 +9033,6 @@
       "onboard_time": 1680406468,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 86982,
-      "num": 86982,
-      "word": "你想不到的小说作者主业",
-      "onboard_time": 1680625226,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 86947,
@@ -9145,6 +9153,14 @@
       "onboard_time": 1680268650,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 75383,
+      "num": 75383,
+      "word": "张元英专辑预告照",
+      "onboard_time": 1680622050,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 74537,

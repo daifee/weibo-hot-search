@@ -1,6 +1,6 @@
 {
   "startTime": 1680625388129,
-  "endTime": 1680625388129,
+  "endTime": 1680626329730,
   "band_list": [
     {
       "raw_hot": 3423974,
@@ -19,19 +19,19 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 971665,
+      "num": 563154,
+      "word": "青山刚昌",
+      "onboard_time": 1680617553,
+      "rank": 5,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 950786,
       "num": 585395,
       "word": "兰哀亲了",
       "onboard_time": 1680620733,
       "rank": 3,
-      "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 945140,
-      "num": 563154,
-      "word": "青山刚昌",
-      "onboard_time": 1680617553,
-      "rank": 5,
       "category": "影视,动漫"
     },
     {
@@ -83,8 +83,8 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 402370,
-      "num": 402370,
+      "raw_hot": 423555,
+      "num": 423555,
       "word": "他是谁豆瓣降至6.6分",
       "onboard_time": 1680622769,
       "rank": 7,
@@ -139,7 +139,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 258839,
+      "raw_hot": 261930,
       "num": 207124,
       "word": "女孩跳江获救3名救援小伙溺亡",
       "onboard_time": 1680602552,
@@ -147,7 +147,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 255845,
+      "raw_hot": 261191,
       "num": 204948,
       "word": "养过一次狗后再也不想养了",
       "onboard_time": 1680620672,
@@ -161,6 +161,14 @@
       "onboard_time": 1680616532,
       "rank": 14,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 219195,
+      "num": 127669,
+      "word": "WBG的训练赛",
+      "onboard_time": 1680623970,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 214706,
@@ -195,12 +203,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 197123,
-      "num": 127669,
-      "word": "WBG的训练赛",
-      "onboard_time": 1680623970,
-      "rank": 32,
-      "category": "游戏"
+      "raw_hot": 196757,
+      "num": 196757,
+      "word": "苹果天气",
+      "onboard_time": 1680592951,
+      "rank": 24,
+      "category": "科技"
     },
     {
       "raw_hot": 186549,
@@ -243,14 +251,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 168589,
-      "num": 175204,
-      "word": "苹果天气",
-      "onboard_time": 1680592951,
-      "rank": 24,
-      "category": "科技"
-    },
-    {
       "raw_hot": 150872,
       "num": 126556,
       "word": "吴磊猛男娇羞",
@@ -275,8 +275,8 @@
       "category": "科技"
     },
     {
-      "raw_hot": 129826,
-      "num": 129826,
+      "raw_hot": 131936,
+      "num": 131936,
       "word": "代号鸢",
       "onboard_time": 1680603930,
       "rank": 29,
@@ -291,6 +291,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 124132,
+      "num": 124132,
+      "word": "刘巧珍眼里有光",
+      "onboard_time": 1680625705,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 122661,
       "num": 122661,
       "word": "张杰演唱会",
@@ -300,7 +308,7 @@
     },
     {
       "raw_hot": 115664,
-      "num": 115664,
+      "num": 131077,
       "word": "OMG战胜LNG",
       "onboard_time": 1680613171,
       "rank": 38,
@@ -324,7 +332,7 @@
     },
     {
       "raw_hot": 106284,
-      "num": 106284,
+      "num": 119744,
       "word": "儿化音别再为难广东人了",
       "onboard_time": 1680620733,
       "rank": 41,
@@ -355,6 +363,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 93677,
+      "num": 93677,
+      "word": "你想不到的小说作者主业",
+      "onboard_time": 1680625226,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 91528,
       "num": 91528,
       "word": "LPL春季赛四强确定",
@@ -379,20 +395,20 @@
       "category": "艺人,幽默"
     },
     {
-      "raw_hot": 86982,
-      "num": 86982,
-      "word": "你想不到的小说作者主业",
-      "onboard_time": 1680625226,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 85833,
       "num": 85833,
       "word": "你是哪种方式扶眼镜",
       "onboard_time": 1680619413,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 75383,
+      "num": 75383,
+      "word": "张元英专辑预告照",
+      "onboard_time": 1680622050,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 45302,
@@ -406,6 +422,9 @@
   "hotgov_list": [
     {
       "word": "#落实重大发展战略开创事业新局#"
+    },
+    {
+      "word": "#英雄之光#"
     }
   ]
 }
