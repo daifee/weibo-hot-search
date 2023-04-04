@@ -1,6 +1,6 @@
 {
   "startTime": 1680538976202,
-  "endTime": 1680589328091,
+  "endTime": 1680590111118,
   "band_list": [
     {
       "raw_hot": 3471973,
@@ -67,20 +67,20 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1417246,
+      "num": 605856,
+      "word": "北极鲶鱼",
+      "onboard_time": 1680586050,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1374355,
       "num": 1374355,
       "word": "乘风4初舞台排名",
       "onboard_time": 1680576867,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1352410,
-      "num": 605856,
-      "word": "北极鲶鱼",
-      "onboard_time": 1680586050,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1341091,
@@ -195,20 +195,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 686502,
+      "num": 686502,
+      "word": "石原里美产后复出首作",
+      "onboard_time": 1680587608,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 682753,
       "num": 682753,
       "word": "BLACKPINK或将全员续约YG",
       "onboard_time": 1680570390,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 661368,
-      "num": 661368,
-      "word": "石原里美产后复出首作",
-      "onboard_time": 1680587608,
-      "rank": 7,
-      "category": "影视"
     },
     {
       "raw_hot": 641320,
@@ -233,6 +233,14 @@
       "onboard_time": 1680567691,
       "rank": 8,
       "category": "情感"
+    },
+    {
+      "raw_hot": 587315,
+      "num": 587315,
+      "word": "中国女留学生在泰被杀3名嫌犯被逮捕",
+      "onboard_time": 1680586770,
+      "rank": 14,
+      "category": "社会负面"
     },
     {
       "raw_hot": 586387,
@@ -305,14 +313,6 @@
       "onboard_time": 1680577949,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 495416,
-      "num": 495416,
-      "word": "中国女留学生在泰被杀3名嫌犯被逮捕",
-      "onboard_time": 1680586770,
-      "rank": 14,
-      "category": "社会负面"
     },
     {
       "raw_hot": 483535,
@@ -395,6 +395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 429346,
+      "num": 429346,
+      "word": "王源演唱会",
+      "onboard_time": 1680587969,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 407934,
       "num": 407934,
       "word": "爱奇艺4月片单",
@@ -441,14 +449,6 @@
       "onboard_time": 1680581012,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 372725,
-      "num": 372725,
-      "word": "王源演唱会",
-      "onboard_time": 1680587969,
-      "rank": 16,
-      "category": "音乐"
     },
     {
       "raw_hot": 368209,
@@ -595,6 +595,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 266564,
+      "num": 266564,
+      "word": "间歇性冷漠",
+      "onboard_time": 1680588449,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 263492,
       "num": 263492,
       "word": "杜玥 退役",
@@ -723,6 +731,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 213704,
+      "num": 213704,
+      "word": "南韩酵母",
+      "onboard_time": 1680589649,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 211457,
       "num": 211457,
       "word": "纸飞机突然不唯美了",
@@ -819,6 +835,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 196349,
+      "num": 196349,
+      "word": "小美人鱼内地定档",
+      "onboard_time": 1680589227,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 193940,
       "num": 193940,
       "word": "张婧仪你好星期六上班路透",
@@ -833,6 +857,14 @@
       "onboard_time": 1680575848,
       "rank": 28,
       "category": "影视,军事"
+    },
+    {
+      "raw_hot": 192384,
+      "num": 192384,
+      "word": "陈都灵新剧杀青vlog",
+      "onboard_time": 1680589288,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 191805,
@@ -931,6 +963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 179116,
+      "num": 179116,
+      "word": "许巍演唱会门票",
+      "onboard_time": 1680589887,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 178766,
       "num": 178766,
       "word": "每天一到晚上就想吃东西",
@@ -979,6 +1019,14 @@
       "category": "社会议题,艺人"
     },
     {
+      "raw_hot": 168744,
+      "num": 168744,
+      "word": "忠犬八公狗狗主演是流浪狗",
+      "onboard_time": 1680586587,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 167309,
       "num": 167309,
       "word": "龚俊大美中国诗话预告海报",
@@ -1009,14 +1057,6 @@
       "onboard_time": 1680542778,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 158737,
-      "num": 158737,
-      "word": "忠犬八公狗狗主演是流浪狗",
-      "onboard_time": 1680586587,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 158176,
@@ -1075,12 +1115,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 149808,
-      "num": 149808,
-      "word": "间歇性冷漠",
-      "onboard_time": 1680588449,
-      "rank": 34,
-      "category": "情感"
+      "raw_hot": 146705,
+      "num": 145057,
+      "word": "他是谁评分",
+      "onboard_time": 1680588868,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 145841,
@@ -1088,6 +1128,14 @@
       "word": "长月烬明德塔文待播剧景气指数第一",
       "onboard_time": 1680572369,
       "rank": 37,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 144953,
+      "num": 144953,
+      "word": "IU朴宝剑新剧将在网飞播出",
+      "onboard_time": 1680589826,
+      "rank": 41,
       "category": "影视"
     },
     {
@@ -1219,6 +1267,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 120975,
+      "num": 120975,
+      "word": "减脂可以吃任何东西",
+      "onboard_time": 1680589947,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 116002,
       "num": 116002,
       "word": "SEVENTEEN新专回归日程表",
@@ -1235,14 +1291,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 114558,
-      "num": 114558,
-      "word": "他是谁评分",
-      "onboard_time": 1680588868,
-      "rank": 45,
-      "category": "影视"
-    },
-    {
       "raw_hot": 114503,
       "num": 114503,
       "word": "张继科借条",
@@ -1251,20 +1299,20 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 113973,
+      "num": 113973,
+      "word": "WE对战TES",
+      "onboard_time": 1680590008,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 112712,
       "num": 112712,
       "word": "黄绮珊歌迷精神状态",
       "onboard_time": 1680533198,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 110830,
-      "num": 110830,
-      "word": "小美人鱼内地定档",
-      "onboard_time": 1680589227,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 106609,
@@ -1289,14 +1337,6 @@
       "onboard_time": 1680563722,
       "rank": 48,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 105552,
-      "num": 105552,
-      "word": "陈都灵新剧杀青vlog",
-      "onboard_time": 1680589288,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 105545,

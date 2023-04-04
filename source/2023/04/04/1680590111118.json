@@ -1,0 +1,410 @@
+{
+  "runTime": 1680590111118,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1141983,
+        "num": 1141983,
+        "word": "唐伯虎 乘风4",
+        "onboard_time": 1680586531,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1036550,
+        "num": 1036550,
+        "word": "张继科的声明若有违事实是否需担责",
+        "onboard_time": 1680567390,
+        "rank": 1,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 92786,
+        "num": 793028,
+        "word": "前行就是最好的纪念",
+        "onboard_time": 1680570390,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1544633,
+        "num": 773362,
+        "word": "他是谁 烂尾",
+        "onboard_time": 1680582270,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 751269,
+        "num": 751269,
+        "word": "彩礼和嫁妆该不该对等",
+        "onboard_time": 1680584251,
+        "rank": 4,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 686502,
+        "num": 686502,
+        "word": "石原里美产后复出首作",
+        "onboard_time": 1680587608,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 678657,
+        "num": 678657,
+        "word": "王刚清空账号解散粉丝群",
+        "onboard_time": 1680576569,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 657045,
+        "num": 657045,
+        "word": "乘风4初舞台排名",
+        "onboard_time": 1680576867,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 618752,
+        "num": 618752,
+        "word": "90后女入殓师穿上寿衣大方展示",
+        "onboard_time": 1680574049,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 587315,
+        "num": 587315,
+        "word": "中国女留学生在泰被杀3名嫌犯被逮捕",
+        "onboard_time": 1680586770,
+        "rank": 9,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1523518,
+        "num": 579796,
+        "word": "崔始源肿么了",
+        "onboard_time": 1680584734,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1417246,
+        "num": 577937,
+        "word": "北极鲶鱼",
+        "onboard_time": 1680586050,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 571495,
+        "num": 571495,
+        "word": "特斯拉一夜暴跌2700亿",
+        "onboard_time": 1680578910,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 472262,
+        "num": 472262,
+        "word": "没有一句粗口却把我伤得体无完肤",
+        "onboard_time": 1680585511,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 451377,
+        "num": 451377,
+        "word": "张继科代理律师称还未起诉",
+        "onboard_time": 1680585391,
+        "rank": 14,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 438092,
+        "num": 438092,
+        "word": "300一杯天价柠檬茶商家被罚20万",
+        "onboard_time": 1680584074,
+        "rank": 15,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 429346,
+        "num": 429346,
+        "word": "王源演唱会",
+        "onboard_time": 1680587969,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 314968,
+        "num": 314968,
+        "word": "女子双腿绑14瓶茅台入境",
+        "onboard_time": 1680572849,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288268,
+        "num": 288268,
+        "word": "不上班的年轻人是怎么搞钱的",
+        "onboard_time": 1680572849,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 270772,
+        "num": 270772,
+        "word": "爱奇艺4月片单",
+        "onboard_time": 1680584854,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 346064,
+        "num": 270761,
+        "word": "叶舒华愿意上小S节目的原因",
+        "onboard_time": 1680584854,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 266564,
+        "num": 266564,
+        "word": "间歇性冷漠",
+        "onboard_time": 1680588449,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 240200,
+        "num": 240200,
+        "word": "11岁女孩遭邻居猥亵杀害案新进展",
+        "onboard_time": 1680571408,
+        "rank": 22,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 231286,
+        "num": 231286,
+        "word": "张杰演唱会",
+        "onboard_time": 1680586469,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 226535,
+        "num": 226535,
+        "word": "妇联回应女孩被带去卖头发大哭不止",
+        "onboard_time": 1680582754,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217836,
+        "num": 217836,
+        "word": "欢乐颂4全员晒胶带自拍",
+        "onboard_time": 1680585810,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 213704,
+        "num": 213704,
+        "word": "南韩酵母",
+        "onboard_time": 1680589649,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213034,
+        "num": 213034,
+        "word": "代号鸢 养卡",
+        "onboard_time": 1680581852,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 196349,
+        "num": 196349,
+        "word": "小美人鱼内地定档",
+        "onboard_time": 1680589227,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194589,
+        "num": 194589,
+        "word": "文韬泰国随拍",
+        "onboard_time": 1680585689,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192384,
+        "num": 192384,
+        "word": "陈都灵新剧杀青vlog",
+        "onboard_time": 1680589288,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 181786,
+        "num": 181786,
+        "word": "NewJeans将于夏天回归",
+        "onboard_time": 1680585689,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 179116,
+        "num": 179116,
+        "word": "许巍演唱会门票",
+        "onboard_time": 1680589887,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 176044,
+        "num": 176044,
+        "word": "肖战起诉侵权网店获赔3.5万",
+        "onboard_time": 1680578546,
+        "rank": 33,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 172505,
+        "num": 172505,
+        "word": "王刚回应清空社交账号",
+        "onboard_time": 1680582336,
+        "rank": 34,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 168744,
+        "num": 168744,
+        "word": "忠犬八公狗狗主演是流浪狗",
+        "onboard_time": 1680586587,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159185,
+        "num": 159185,
+        "word": "换了新耳机套被同事训斥",
+        "onboard_time": 1680580953,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154714,
+        "num": 154714,
+        "word": "青春环游记4定档",
+        "onboard_time": 1680580112,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146719,
+        "num": 146719,
+        "word": "安踏删除张继科宣传物料",
+        "onboard_time": 1680497915,
+        "rank": 38,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 145066,
+        "num": 145066,
+        "word": "成年人的体面是假发片给的",
+        "onboard_time": 1680584492,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 146705,
+        "num": 145057,
+        "word": "他是谁评分",
+        "onboard_time": 1680588868,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 144953,
+        "num": 144953,
+        "word": "IU朴宝剑新剧将在网飞播出",
+        "onboard_time": 1680589826,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 138573,
+        "num": 138573,
+        "word": "BLACKPINK或将全员续约YG",
+        "onboard_time": 1680570390,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131036,
+        "num": 131036,
+        "word": "铃芽之旅票房超你的名字",
+        "onboard_time": 1680581012,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 130285,
+        "num": 130285,
+        "word": "张继科曾多次被曝涉赌",
+        "onboard_time": 1680503971,
+        "rank": 44,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 120975,
+        "num": 120975,
+        "word": "减脂可以吃任何东西",
+        "onboard_time": 1680589947,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 116613,
+        "num": 116613,
+        "word": "马斯克将推特图标换成柴犬",
+        "onboard_time": 1680573027,
+        "rank": 46,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 115323,
+        "num": 115323,
+        "word": "刘雯秦岚同框",
+        "onboard_time": 1680579931,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 113973,
+        "num": 113973,
+        "word": "WE对战TES",
+        "onboard_time": 1680590008,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 69758,
+        "num": 111266,
+        "word": "香椿炒鸡蛋",
+        "onboard_time": 1680572250,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#我们这一代共产党人使命光荣责任重大#"
+    }
+  }
+}

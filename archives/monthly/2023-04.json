@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680589328091,
+  "endTime": 1680590111118,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -427,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1417246,
+      "num": 605856,
+      "word": "北极鲶鱼",
+      "onboard_time": 1680586050,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1411076,
       "num": 1411076,
       "word": "麻六记因未给孕妇优待被打差评",
@@ -465,14 +473,6 @@
       "onboard_time": 1680576867,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1352410,
-      "num": 605856,
-      "word": "北极鲶鱼",
-      "onboard_time": 1680586050,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1350707,
@@ -1195,6 +1195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 686502,
+      "num": 686502,
+      "word": "石原里美产后复出首作",
+      "onboard_time": 1680587608,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 683480,
       "num": 683480,
       "word": "多国宣布自愿石油减产",
@@ -1241,14 +1249,6 @@
       "onboard_time": 1680347130,
       "rank": 8,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 661368,
-      "num": 661368,
-      "word": "石原里美产后复出首作",
-      "onboard_time": 1680587608,
-      "rank": 7,
-      "category": "影视"
     },
     {
       "raw_hot": 660013,
@@ -1449,6 +1449,14 @@
       "onboard_time": 1680532657,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 587315,
+      "num": 587315,
+      "word": "中国女留学生在泰被杀3名嫌犯被逮捕",
+      "onboard_time": 1680586770,
+      "rank": 14,
+      "category": "社会负面"
     },
     {
       "raw_hot": 586387,
@@ -1835,14 +1843,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 495416,
-      "num": 495416,
-      "word": "中国女留学生在泰被杀3名嫌犯被逮捕",
-      "onboard_time": 1680586770,
-      "rank": 14,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 490283,
       "num": 373508,
       "word": "虞书欣韩国街边随拍",
@@ -2227,6 +2227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 429346,
+      "num": 429346,
+      "word": "王源演唱会",
+      "onboard_time": 1680587969,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 423067,
       "num": 423067,
       "word": "王俊凯或将出演贾樟柯新电影",
@@ -2545,14 +2553,6 @@
       "onboard_time": 1680394527,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 372725,
-      "num": 372725,
-      "word": "王源演唱会",
-      "onboard_time": 1680587969,
-      "rank": 16,
-      "category": "音乐"
     },
     {
       "raw_hot": 371415,
@@ -3483,6 +3483,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 266564,
+      "num": 266564,
+      "word": "间歇性冷漠",
+      "onboard_time": 1680588449,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 264516,
       "num": 264516,
       "word": "孙国友女儿回应网友质疑不科学种树",
@@ -4251,6 +4259,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 213704,
+      "num": 213704,
+      "word": "南韩酵母",
+      "onboard_time": 1680589649,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 213531,
       "num": 225406,
       "word": "花琉璃轶闻",
@@ -5011,6 +5027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196349,
+      "num": 196349,
+      "word": "小美人鱼内地定档",
+      "onboard_time": 1680589227,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 196237,
       "num": 196237,
       "word": "何洁陈楚生合唱",
@@ -5145,6 +5169,14 @@
       "onboard_time": 1680575848,
       "rank": 28,
       "category": "影视,军事"
+    },
+    {
+      "raw_hot": 192384,
+      "num": 192384,
+      "word": "陈都灵新剧杀青vlog",
+      "onboard_time": 1680589288,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 191805,
@@ -5587,6 +5619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 179116,
+      "num": 179116,
+      "word": "许巍演唱会门票",
+      "onboard_time": 1680589887,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 178650,
       "num": 170728,
       "word": "愚人节文案",
@@ -5825,6 +5865,14 @@
       "onboard_time": 1680359672,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 168744,
+      "num": 168744,
+      "word": "忠犬八公狗狗主演是流浪狗",
+      "onboard_time": 1680586587,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 168611,
@@ -6105,14 +6153,6 @@
       "onboard_time": 1680396447,
       "rank": 32,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 158737,
-      "num": 158737,
-      "word": "忠犬八公狗狗主演是流浪狗",
-      "onboard_time": 1680586587,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 158542,
@@ -6427,14 +6467,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 149808,
-      "num": 149808,
-      "word": "间歇性冷漠",
-      "onboard_time": 1680588449,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 149711,
       "num": 149711,
       "word": "英雄从未离去我们不会忘记",
@@ -6499,6 +6531,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 146705,
+      "num": 145057,
+      "word": "他是谁评分",
+      "onboard_time": 1680588868,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 146597,
       "num": 146597,
       "word": "聂宝华下线了",
@@ -6560,6 +6600,14 @@
       "word": "罗云熙还原澹台烬台词",
       "onboard_time": 1680421828,
       "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 144953,
+      "num": 144953,
+      "word": "IU朴宝剑新剧将在网飞播出",
+      "onboard_time": 1680589826,
+      "rank": 41,
       "category": "影视"
     },
     {
@@ -7195,6 +7243,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 120975,
+      "num": 120975,
+      "word": "减脂可以吃任何东西",
+      "onboard_time": 1680589947,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 120388,
       "num": 120388,
       "word": "三线轮洄水下戏好刺激",
@@ -7347,12 +7403,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 114558,
-      "num": 114558,
-      "word": "他是谁评分",
-      "onboard_time": 1680588868,
-      "rank": 45,
-      "category": "影视"
+      "raw_hot": 113973,
+      "num": 113973,
+      "word": "WE对战TES",
+      "onboard_time": 1680590008,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 113888,
@@ -7417,14 +7473,6 @@
       "onboard_time": 1680261565,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 110830,
-      "num": 110830,
-      "word": "小美人鱼内地定档",
-      "onboard_time": 1680589227,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 109609,
@@ -7513,14 +7561,6 @@
       "onboard_time": 1680563722,
       "rank": 48,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 105552,
-      "num": 105552,
-      "word": "陈都灵新剧杀青vlog",
-      "onboard_time": 1680589288,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 105412,
