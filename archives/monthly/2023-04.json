@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680629608671,
+  "endTime": 1680632372998,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -9425,6 +9425,14 @@
       "onboard_time": 1680261326,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28514,
+      "num": 28514,
+      "word": "大学生在打一种很新的卡",
+      "onboard_time": 1680627741,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 23161,

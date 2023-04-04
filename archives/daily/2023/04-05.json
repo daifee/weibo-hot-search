@@ -1,6 +1,6 @@
 {
   "startTime": 1680625388129,
-  "endTime": 1680629608671,
+  "endTime": 1680632372998,
   "band_list": [
     {
       "raw_hot": 3423974,
@@ -163,20 +163,20 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 223634,
+      "num": 223634,
+      "word": "特朗普一旦定罪或被判4年",
+      "onboard_time": 1680616410,
+      "rank": 17,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 219195,
       "num": 140152,
       "word": "WBG的训练赛",
       "onboard_time": 1680623970,
       "rank": 32,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 214706,
-      "num": 214706,
-      "word": "特朗普一旦定罪或被判4年",
-      "onboard_time": 1680616410,
-      "rank": 17,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 214496,
@@ -425,6 +425,14 @@
       "onboard_time": 1680611790,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28514,
+      "num": 28514,
+      "word": "大学生在打一种很新的卡",
+      "onboard_time": 1680627741,
+      "rank": 49,
+      "category": "情感"
     }
   ],
   "hotgov_list": [
