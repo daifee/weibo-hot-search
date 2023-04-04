@@ -1,6 +1,6 @@
 {
   "startTime": 1680452464197,
-  "endTime": 1680572911750,
+  "endTime": 1680575616911,
   "band_list": [
     {
       "raw_hot": 9506486,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 2972144,
-      "num": 899288,
+      "num": 2688597,
       "word": "张继科的声明若有违事实是否需担责",
       "onboard_time": 1680567390,
       "rank": 3,
@@ -187,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1872158,
+      "num": 1872158,
+      "word": "女子双腿绑14瓶茅台入境",
+      "onboard_time": 1680572849,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1825439,
       "num": 1825439,
       "word": "长月烬明定档",
@@ -249,6 +257,14 @@
       "onboard_time": 1680484768,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1341091,
+      "num": 830963,
+      "word": "11岁女孩遭邻居猥亵杀害案新进展",
+      "onboard_time": 1680571408,
+      "rank": 41,
+      "category": "社会负面"
     },
     {
       "raw_hot": 1317519,
@@ -443,14 +459,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 830963,
-      "num": 830963,
-      "word": "11岁女孩遭邻居猥亵杀害案新进展",
-      "onboard_time": 1680571408,
-      "rank": 41,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 812473,
       "num": 812473,
       "word": "周杰伦海口演唱会",
@@ -465,6 +473,14 @@
       "onboard_time": 1680491427,
       "rank": 17,
       "category": "网红"
+    },
+    {
+      "raw_hot": 778203,
+      "num": 778203,
+      "word": "不上班的年轻人是怎么搞钱的",
+      "onboard_time": 1680572849,
+      "rank": 43,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 777495,
@@ -529,6 +545,14 @@
       "onboard_time": 1680499349,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 722152,
+      "num": 722152,
+      "word": "香椿炒鸡蛋",
+      "onboard_time": 1680572250,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 716821,
@@ -715,6 +739,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 544279,
+      "num": 264622,
+      "word": "90后女入殓师穿上寿衣大方展示",
+      "onboard_time": 1680574049,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 543403,
       "num": 543403,
       "word": "四六级",
@@ -835,6 +867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 476503,
+      "num": 476503,
+      "word": "薛之谦官宣济南加场南昌开站",
+      "onboard_time": 1680575068,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 475715,
       "num": 475715,
       "word": "长月烬明羽绒服",
@@ -929,6 +969,14 @@
       "onboard_time": 1680490948,
       "rank": 29,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 419850,
+      "num": 419850,
+      "word": "马斯克将推特图标换成柴犬",
+      "onboard_time": 1680573027,
+      "rank": 9,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 416697,
@@ -1083,6 +1131,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 366812,
+      "num": 264231,
+      "word": "昕雯联播难说再见",
+      "onboard_time": 1680573089,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 357397,
       "num": 357397,
       "word": "王者荣耀杨玉环皮肤",
@@ -1164,11 +1220,19 @@
     },
     {
       "raw_hot": 342475,
-      "num": 875803,
+      "num": 1310634,
       "word": "一图看懂海南全岛封关意味着什么",
       "onboard_time": 1680526413,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 338492,
+      "num": 338492,
+      "word": "刘逸云浪姐4路透",
+      "onboard_time": 1680573330,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 329882,
@@ -1331,6 +1395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 275591,
+      "num": 275591,
+      "word": "特朗普抵达纽约曼哈顿",
+      "onboard_time": 1680572011,
+      "rank": 35,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 273493,
       "num": 273493,
       "word": "马嘉祺只有51公斤",
@@ -1385,6 +1457,14 @@
       "onboard_time": 1680522573,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 263596,
+      "num": 263596,
+      "word": "毛晓彤簪花女造型",
+      "onboard_time": 1680573988,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 263492,
@@ -1739,6 +1819,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 209349,
+      "num": 209349,
+      "word": "张艺兴长沙夜生活片头曲MV预告",
+      "onboard_time": 1680574469,
+      "rank": 25,
+      "category": "影视,音乐"
+    },
+    {
       "raw_hot": 208484,
       "num": 208484,
       "word": "2023春推会参展剧目",
@@ -1769,6 +1857,14 @@
       "onboard_time": 1680435568,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 206375,
+      "num": 206375,
+      "word": "税务师成绩",
+      "onboard_time": 1680573868,
+      "rank": 26,
+      "category": "教育"
     },
     {
       "raw_hot": 206158,
@@ -2067,14 +2163,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 185924,
-      "num": 185924,
-      "word": "香椿炒鸡蛋",
-      "onboard_time": 1680572250,
-      "rank": 30,
-      "category": "美食"
-    },
-    {
       "raw_hot": 185169,
       "num": 185169,
       "word": "张含韵机场捡到李纯王菊假睫毛",
@@ -2145,6 +2233,14 @@
       "onboard_time": 1680443981,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 173681,
+      "num": 173681,
+      "word": "狗狗币",
+      "onboard_time": 1680575427,
+      "rank": 30,
+      "category": "财经"
     },
     {
       "raw_hot": 173414,
@@ -2299,12 +2395,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 158392,
-      "num": 158392,
-      "word": "特朗普抵达纽约曼哈顿",
-      "onboard_time": 1680572011,
-      "rank": 35,
-      "category": "国外要闻"
+      "raw_hot": 158176,
+      "num": 158176,
+      "word": "清明祭扫哪些物品不能带上火车",
+      "onboard_time": 1680574767,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 157513,
@@ -2363,6 +2459,22 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 153798,
+      "num": 153798,
+      "word": "沈腾2015年小品台词",
+      "onboard_time": 1680575427,
+      "rank": 35,
+      "category": "作品衍生,社会新闻"
+    },
+    {
+      "raw_hot": 153607,
+      "num": 153607,
+      "word": "闯入千里江山图的小猫",
+      "onboard_time": 1680573567,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152475,
       "num": 152475,
       "word": "突然想起了爷爷奶奶对我的爱",
@@ -2377,6 +2489,14 @@
       "onboard_time": 1680481710,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 150798,
+      "num": 150798,
+      "word": "如何评价张继科事件中求视频乱象",
+      "onboard_time": 1680574649,
+      "rank": 38,
+      "category": "社会议题,艺人"
     },
     {
       "raw_hot": 150469,
@@ -2465,6 +2585,14 @@
       "onboard_time": 1680513092,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 142089,
+      "num": 142089,
+      "word": "迪士尼成立100周年宣传片",
+      "onboard_time": 1680572849,
+      "rank": 45,
+      "category": "影视,旅游"
     },
     {
       "raw_hot": 139454,
@@ -2611,6 +2739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116002,
+      "num": 116002,
+      "word": "SEVENTEEN新专回归日程表",
+      "onboard_time": 1680572970,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 114470,
       "num": 1105667,
       "word": "英雄之光",
@@ -2627,14 +2763,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 107814,
-      "num": 107814,
-      "word": "不上班的年轻人是怎么搞钱的",
-      "onboard_time": 1680572849,
-      "rank": 43,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 105803,
       "num": 105803,
       "word": "高双星陈秀礼婚礼",
@@ -2649,22 +2777,6 @@
       "onboard_time": 1680563722,
       "rank": 48,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 103542,
-      "num": 103542,
-      "word": "迪士尼成立100周年宣传片",
-      "onboard_time": 1680572849,
-      "rank": 45,
-      "category": "影视,旅游"
-    },
-    {
-      "raw_hot": 102764,
-      "num": 102764,
-      "word": "女子双腿绑14瓶茅台入境",
-      "onboard_time": 1680572849,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 102470,
