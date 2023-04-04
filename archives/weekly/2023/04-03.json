@@ -1,6 +1,6 @@
 {
   "startTime": 1680452464197,
-  "endTime": 1680618811485,
+  "endTime": 1680621484302,
   "band_list": [
     {
       "raw_hot": 9506486,
@@ -65,6 +65,14 @@
       "onboard_time": 1680503670,
       "rank": 33,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 4833498,
+      "num": 4833498,
+      "word": "柯哀亲了",
+      "onboard_time": 1680617614,
+      "rank": 24,
+      "category": "动漫,影视"
     },
     {
       "raw_hot": 4666686,
@@ -161,14 +169,6 @@
       "onboard_time": 1680598111,
       "rank": 3,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 2872630,
-      "num": 2872630,
-      "word": "柯哀亲了",
-      "onboard_time": 1680617614,
-      "rank": 24,
-      "category": "动漫,影视"
     },
     {
       "raw_hot": 2845044,
@@ -284,7 +284,7 @@
     },
     {
       "raw_hot": 1865561,
-      "num": 472269,
+      "num": 485451,
       "word": "张佳宁点痣了",
       "onboard_time": 1680609390,
       "rank": 20,
@@ -523,6 +523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1139639,
+      "num": 1139639,
+      "word": "青山刚昌",
+      "onboard_time": 1680617553,
+      "rank": 27,
+      "category": "动漫,影视"
+    },
+    {
       "raw_hot": 1136793,
       "num": 1411758,
       "word": "刘青松",
@@ -561,14 +569,6 @@
       "onboard_time": 1680575788,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1076657,
-      "num": 1076657,
-      "word": "青山刚昌",
-      "onboard_time": 1680617553,
-      "rank": 27,
-      "category": "动漫,影视"
     },
     {
       "raw_hot": 1063073,
@@ -721,6 +721,14 @@
       "onboard_time": 1680491608,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 828867,
+      "num": 396953,
+      "word": "律师建议张继科不要逃避",
+      "onboard_time": 1680617313,
+      "rank": 35,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 812473,
@@ -891,12 +899,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 688540,
+      "num": 688540,
+      "word": "兰哀亲了",
+      "onboard_time": 1680620733,
+      "rank": 7,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 686502,
       "num": 686502,
       "word": "石原里美产后复出首作",
       "onboard_time": 1680587608,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 683843,
+      "num": 333689,
+      "word": "海棠上不去",
+      "onboard_time": 1680619054,
+      "rank": 18,
+      "category": "科技"
     },
     {
       "raw_hot": 683480,
@@ -1148,7 +1172,7 @@
     },
     {
       "raw_hot": 563622,
-      "num": 279825,
+      "num": 498383,
       "word": "95后寿衣模特回应被说阴气重",
       "onboard_time": 1680614552,
       "rank": 26,
@@ -1233,6 +1257,14 @@
       "onboard_time": 1680526533,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 527615,
+      "num": 462034,
+      "word": "惠英红 你信不信我揍你",
+      "onboard_time": 1680620314,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 525045,
@@ -1547,6 +1579,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 429169,
+      "num": 429169,
+      "word": "张大大西安",
+      "onboard_time": 1680617912,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 422391,
       "num": 330396,
       "word": "白鹿新剧一人分饰三角",
@@ -1633,14 +1673,6 @@
       "onboard_time": 1680523353,
       "rank": 18,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 404214,
-      "num": 396953,
-      "word": "律师建议张继科不要逃避",
-      "onboard_time": 1680617313,
-      "rank": 35,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 400806,
@@ -1907,6 +1939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 340498,
+      "num": 340498,
+      "word": "把一群i人凑在一起",
+      "onboard_time": 1680617071,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 339668,
       "num": 339668,
       "word": "事实证明衣服真的不能混洗",
@@ -2147,14 +2187,6 @@
       "category": "情感,网红"
     },
     {
-      "raw_hot": 282644,
-      "num": 282644,
-      "word": "把一群i人凑在一起",
-      "onboard_time": 1680617071,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 280083,
       "num": 280083,
       "word": "女团univu5正式出道",
@@ -2289,6 +2321,14 @@
       "onboard_time": 1680601650,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 262135,
+      "num": 262135,
+      "word": "特朗普接受传讯现场",
+      "onboard_time": 1680616532,
+      "rank": 32,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 262004,
@@ -2435,14 +2475,6 @@
       "category": "自然"
     },
     {
-      "raw_hot": 252758,
-      "num": 252758,
-      "word": "特朗普接受传讯现场",
-      "onboard_time": 1680616532,
-      "rank": 32,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 251759,
       "num": 251759,
       "word": "张杰演唱会",
@@ -2587,14 +2619,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 227463,
-      "num": 227463,
-      "word": "张大大西安",
-      "onboard_time": 1680617912,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 226362,
       "num": 226362,
       "word": "每天一到晚上就想吃东西",
@@ -2728,6 +2752,14 @@
       "word": "孤舟",
       "onboard_time": 1680496236,
       "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 214609,
+      "num": 214609,
+      "word": "吴磊猛男娇羞",
+      "onboard_time": 1680620550,
+      "rank": 31,
       "category": "影视"
     },
     {
@@ -4243,6 +4275,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 129481,
+      "num": 129481,
+      "word": "儿化音别再为难广东人了",
+      "onboard_time": 1680620733,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 127895,
       "num": 127895,
       "word": "中国赛艇协会原主席刘爱杰被查",
@@ -4331,6 +4371,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 120359,
+      "num": 120359,
+      "word": "真人版芭比电影发布角色海报",
+      "onboard_time": 1680621271,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 119877,
       "num": 125140,
       "word": "英雄联盟墨之影皮肤",
@@ -4371,6 +4419,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 115847,
+      "num": 115847,
+      "word": "张含韵说我爱我的三十岁",
+      "onboard_time": 1680621452,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 114470,
       "num": 1105667,
       "word": "英雄之光",
@@ -4393,6 +4449,14 @@
       "onboard_time": 1680437187,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 107343,
+      "num": 107343,
+      "word": "AG战胜EDGM",
+      "onboard_time": 1680618872,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 107095,
