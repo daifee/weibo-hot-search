@@ -1,6 +1,6 @@
 {
   "startTime": 1680452464197,
-  "endTime": 1680608006027,
+  "endTime": 1680611606893,
   "band_list": [
     {
       "raw_hot": 9506486,
@@ -267,6 +267,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1638319,
+      "num": 1638319,
+      "word": "债主获刑张继科会是共犯吗",
+      "onboard_time": 1680604291,
+      "rank": 49,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1556798,
       "num": 641778,
       "word": "崔始源肿么了",
@@ -388,7 +396,7 @@
     },
     {
       "raw_hot": 1277776,
-      "num": 480081,
+      "num": 525131,
       "word": "林依晨看了都得愣一下",
       "onboard_time": 1680603030,
       "rank": 24,
@@ -433,14 +441,6 @@
       "onboard_time": 1680494855,
       "rank": 15,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1174586,
-      "num": 479200,
-      "word": "债主获刑张继科会是共犯吗",
-      "onboard_time": 1680604291,
-      "rank": 49,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1145139,
@@ -505,6 +505,14 @@
       "onboard_time": 1680502531,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1016719,
+      "num": 448204,
+      "word": "怎么看待李微敖公开景甜名字",
+      "onboard_time": 1680609992,
+      "rank": 13,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 988266,
@@ -659,6 +667,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 793685,
+      "num": 793685,
+      "word": "李雪琴吐槽报销流程",
+      "onboard_time": 1680605249,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 777495,
       "num": 777495,
       "word": "重庆群众挺身而出制服行凶男子",
@@ -715,6 +731,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 727599,
+      "num": 486300,
+      "word": "小妈文学拍成剧了",
+      "onboard_time": 1680606869,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 725902,
       "num": 725902,
       "word": "快递员实名举报老人被骗买高价药",
@@ -729,6 +753,14 @@
       "onboard_time": 1680499349,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 717168,
+      "num": 717168,
+      "word": "姜广涛配音的影视剧角色会下架吗",
+      "onboard_time": 1680610229,
+      "rank": 5,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 716821,
@@ -804,7 +836,7 @@
     },
     {
       "raw_hot": 681894,
-      "num": 330739,
+      "num": 349369,
       "word": "女孩跳江获救3名救援小伙溺亡",
       "onboard_time": 1680602552,
       "rank": 21,
@@ -812,7 +844,7 @@
     },
     {
       "raw_hot": 672319,
-      "num": 417981,
+      "num": 431342,
       "word": "求张继科事件视频当心触法",
       "onboard_time": 1680596971,
       "rank": 24,
@@ -825,6 +857,14 @@
       "onboard_time": 1680493713,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 653611,
+      "num": 653611,
+      "word": "泰坦尼克号Rose床头的照片",
+      "onboard_time": 1680605610,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 651344,
@@ -891,14 +931,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 624703,
-      "num": 478894,
-      "word": "泰坦尼克号Rose床头的照片",
-      "onboard_time": 1680605610,
-      "rank": 12,
-      "category": "影视"
-    },
-    {
       "raw_hot": 624364,
       "num": 624364,
       "word": "警方通报上海一男子因纠纷杀害妻子",
@@ -923,20 +955,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 618232,
-      "num": 618232,
-      "word": "李雪琴吐槽报销流程",
-      "onboard_time": 1680605249,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 609798,
       "num": 609798,
       "word": "Amber 排名",
       "onboard_time": 1680593311,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 609735,
+      "num": 355828,
+      "word": "张佳宁点痣了",
+      "onboard_time": 1680609390,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 601265,
@@ -977,6 +1009,14 @@
       "onboard_time": 1680575068,
       "rank": 8,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 585505,
+      "num": 585505,
+      "word": "贝克街的亡灵",
+      "onboard_time": 1680607353,
+      "rank": 23,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 583224,
@@ -1113,6 +1153,14 @@
       "onboard_time": 1680575427,
       "rank": 30,
       "category": "财经"
+    },
+    {
+      "raw_hot": 521704,
+      "num": 351874,
+      "word": "吴京问谢楠媳妇我错哪了",
+      "onboard_time": 1680608069,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 517571,
@@ -1323,14 +1371,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 457350,
-      "num": 216595,
-      "word": "小妈文学拍成剧了",
-      "onboard_time": 1680606869,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 450743,
       "num": 450743,
       "word": "湖南一家族20多人献了45万毫升血",
@@ -1353,6 +1393,14 @@
       "onboard_time": 1680516153,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 439505,
+      "num": 439505,
+      "word": "惠英红 想宋佳",
+      "onboard_time": 1680608191,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 438162,
@@ -1643,6 +1691,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 359607,
+      "num": 359607,
+      "word": "王鹤棣球掉河里了",
+      "onboard_time": 1680609390,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 357397,
       "num": 357397,
       "word": "王者荣耀杨玉环皮肤",
@@ -1835,6 +1891,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 314153,
+      "num": 314153,
+      "word": "学生趴睡手指压出淤血变紫",
+      "onboard_time": 1680608910,
+      "rank": 24,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 313850,
       "num": 298990,
       "word": "网友给白鹿P的妆容",
@@ -1915,6 +1979,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 287883,
+      "num": 287883,
+      "word": "叶舒华说公司不会管控体重",
+      "onboard_time": 1680606990,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 287705,
       "num": 287705,
       "word": "娜扎环游世界芭莎大片",
@@ -1971,28 +2043,12 @@
       "category": "情感,网红"
     },
     {
-      "raw_hot": 281918,
-      "num": 281918,
-      "word": "叶舒华说公司不会管控体重",
-      "onboard_time": 1680606990,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 280083,
       "num": 280083,
       "word": "女团univu5正式出道",
       "onboard_time": 1680498992,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 279101,
-      "num": 279101,
-      "word": "贝克街的亡灵",
-      "onboard_time": 1680607353,
-      "rank": 23,
-      "category": "影视,动漫"
     },
     {
       "raw_hot": 278833,
@@ -2179,6 +2235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 257891,
+      "num": 257891,
+      "word": "孔雪儿高颅顶发型教程",
+      "onboard_time": 1680608429,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 257196,
       "num": 257196,
       "word": "小美人鱼内地定档",
@@ -2361,6 +2425,14 @@
       "onboard_time": 1680585689,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 226937,
+      "num": 226937,
+      "word": "王子文说体面的告别很重要",
+      "onboard_time": 1680608429,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 226362,
@@ -3107,6 +3179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187470,
+      "num": 171237,
+      "word": "季曼想起意中人就是宁钰轩",
+      "onboard_time": 1680610289,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 186997,
       "num": 186997,
       "word": "张云龙顺着网线买单",
@@ -3321,6 +3401,14 @@
       "onboard_time": 1680584492,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 171543,
+      "num": 171543,
+      "word": "AG对战EDGM",
+      "onboard_time": 1680609627,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 171425,
@@ -3835,6 +3923,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 138525,
+      "num": 138525,
+      "word": "影院reaction已经假出境界了",
+      "onboard_time": 1680610951,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 138264,
       "num": 138264,
       "word": "静音车厢你爱了吗",
@@ -4099,12 +4195,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 100895,
+      "num": 100895,
+      "word": "今年第一场旅行你想去哪里",
+      "onboard_time": 1680609149,
+      "rank": 48,
+      "category": "情感,旅游"
+    },
+    {
       "raw_hot": 100116,
       "num": 100116,
       "word": "IVE新歌预告照",
       "onboard_time": 1680536974,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 100025,
+      "num": 100025,
+      "word": "夏令营理论",
+      "onboard_time": 1680607229,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 99466,

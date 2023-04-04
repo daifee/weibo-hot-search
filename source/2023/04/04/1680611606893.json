@@ -1,0 +1,410 @@
+{
+  "runTime": 1680611606893,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1638319,
+        "num": 1638319,
+        "word": "债主获刑张继科会是共犯吗",
+        "onboard_time": 1680604291,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1376013,
+        "num": 1376013,
+        "word": "苹果天气",
+        "onboard_time": 1680592951,
+        "rank": 1,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 90157,
+        "num": 1129371,
+        "word": "永远记住你",
+        "onboard_time": 1680597571,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 986866,
+        "num": 986866,
+        "word": "超级小桀",
+        "onboard_time": 1680593910,
+        "rank": 3,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 793685,
+        "num": 793685,
+        "word": "李雪琴吐槽报销流程",
+        "onboard_time": 1680605249,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 717168,
+        "num": 717168,
+        "word": "姜广涛配音的影视剧角色会下架吗",
+        "onboard_time": 1680610229,
+        "rank": 5,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 653611,
+        "num": 653611,
+        "word": "泰坦尼克号Rose床头的照片",
+        "onboard_time": 1680605610,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 611351,
+        "num": 611351,
+        "word": "不要随便接陌生电话",
+        "onboard_time": 1680600631,
+        "rank": 7,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 585614,
+        "num": 585614,
+        "word": "肖战电影",
+        "onboard_time": 1680601830,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 585505,
+        "num": 585505,
+        "word": "贝克街的亡灵",
+        "onboard_time": 1680607353,
+        "rank": 9,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 1388244,
+        "num": 556998,
+        "word": "中国乒协证实张继科已退役",
+        "onboard_time": 1680598111,
+        "rank": 10,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1043977,
+        "num": 525131,
+        "word": "林依晨看了都得愣一下",
+        "onboard_time": 1680603030,
+        "rank": 11,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 727599,
+        "num": 486300,
+        "word": "小妈文学拍成剧了",
+        "onboard_time": 1680606869,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1016719,
+        "num": 448204,
+        "word": "怎么看待李微敖公开景甜名字",
+        "onboard_time": 1680609992,
+        "rank": 13,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 439505,
+        "num": 439505,
+        "word": "惠英红 想宋佳",
+        "onboard_time": 1680608191,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 439143,
+        "num": 439143,
+        "word": "马英九向张自忠敬献花圈",
+        "onboard_time": 1680605968,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 468324,
+        "num": 431342,
+        "word": "求张继科事件视频当心触法",
+        "onboard_time": 1680596971,
+        "rank": 16,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 416488,
+        "num": 416488,
+        "word": "爱情而已三分钟在今晚",
+        "onboard_time": 1680606452,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 410773,
+        "num": 410773,
+        "word": "女子乐山大佛头顶盘膝打坐",
+        "onboard_time": 1680593429,
+        "rank": 18,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 359607,
+        "num": 359607,
+        "word": "王鹤棣球掉河里了",
+        "onboard_time": 1680609390,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 609735,
+        "num": 355828,
+        "word": "张佳宁点痣了",
+        "onboard_time": 1680609390,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 521704,
+        "num": 351874,
+        "word": "吴京问谢楠媳妇我错哪了",
+        "onboard_time": 1680608069,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 440530,
+        "num": 349369,
+        "word": "女孩跳江获救3名救援小伙溺亡",
+        "onboard_time": 1680602552,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343948,
+        "num": 343948,
+        "word": "离职半个月长出头发了",
+        "onboard_time": 1680594449,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 314153,
+        "num": 314153,
+        "word": "学生趴睡手指压出淤血变紫",
+        "onboard_time": 1680608910,
+        "rank": 24,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 311677,
+        "num": 311677,
+        "word": "五问张继科事件",
+        "onboard_time": 1680592049,
+        "rank": 25,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 287883,
+        "num": 287883,
+        "word": "叶舒华说公司不会管控体重",
+        "onboard_time": 1680606990,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 278938,
+        "num": 278938,
+        "word": "长月烬明 让妆",
+        "onboard_time": 1680590729,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 273790,
+        "num": 273790,
+        "word": "胡先煦说真的没有快乐减肥",
+        "onboard_time": 1680599310,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257891,
+        "num": 257891,
+        "word": "孔雪儿高颅顶发型教程",
+        "onboard_time": 1680608429,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 226937,
+        "num": 226937,
+        "word": "王子文说体面的告别很重要",
+        "onboard_time": 1680608429,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202392,
+        "num": 202392,
+        "word": "四肢发达的张杰周边",
+        "onboard_time": 1680606869,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 198719,
+        "num": 198719,
+        "word": "摩羯座真的还蛮会照顾人的",
+        "onboard_time": 1680596130,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 193210,
+        "num": 193210,
+        "word": "半熟恋人2全员告白",
+        "onboard_time": 1680606390,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171543,
+        "num": 171543,
+        "word": "AG对战EDGM",
+        "onboard_time": 1680609627,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 187470,
+        "num": 171237,
+        "word": "季曼想起意中人就是宁钰轩",
+        "onboard_time": 1680610289,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 186916,
+        "num": 170523,
+        "word": "Billlie初一位",
+        "onboard_time": 1680606030,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 167930,
+        "num": 167930,
+        "word": "曾可妮 排名",
+        "onboard_time": 1680592409,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164964,
+        "num": 164964,
+        "word": "代号鸢",
+        "onboard_time": 1680603930,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 159301,
+        "num": 159301,
+        "word": "小猫咪也有睡觉搭子了",
+        "onboard_time": 1680604229,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154870,
+        "num": 154870,
+        "word": "张继科的声明若有违事实是否需担责",
+        "onboard_time": 1680567390,
+        "rank": 40,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 150011,
+        "num": 150011,
+        "word": "LNG对战OMG",
+        "onboard_time": 1680600990,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 138525,
+        "num": 138525,
+        "word": "影院reaction已经假出境界了",
+        "onboard_time": 1680610951,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 132890,
+        "num": 132890,
+        "word": "旅行回来把朋友拉黑了",
+        "onboard_time": 1680595109,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130051,
+        "num": 130051,
+        "word": "特朗普一旦定罪或被判4年",
+        "onboard_time": 1680592888,
+        "rank": 44,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 120371,
+        "num": 120371,
+        "word": "安踏删除张继科宣传物料",
+        "onboard_time": 1680497915,
+        "rank": 45,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 113657,
+        "num": 113657,
+        "word": "你拥有拒绝别人的勇气吗",
+        "onboard_time": 1680606869,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113563,
+        "num": 113563,
+        "word": "Amber小跑和黄晓明握手",
+        "onboard_time": 1680605551,
+        "rank": 47,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 100895,
+        "num": 100895,
+        "word": "今年第一场旅行你想去哪里",
+        "onboard_time": 1680609149,
+        "rank": 48,
+        "category": "情感,旅游"
+      },
+      {
+        "raw_hot": 100025,
+        "num": 100025,
+        "word": "夏令营理论",
+        "onboard_time": 1680607229,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#我们这一代共产党人使命光荣责任重大#"
+    }
+  }
+}
