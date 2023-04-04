@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680590111118,
+  "endTime": 1680592535995,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -419,19 +419,19 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1449363,
+      "num": 605856,
+      "word": "北极鲶鱼",
+      "onboard_time": 1680586050,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1437150,
       "num": 1245598,
       "word": "官方通报禁止村民栽种蔬菜瓜果",
       "onboard_time": 1680400706,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1417246,
-      "num": 605856,
-      "word": "北极鲶鱼",
-      "onboard_time": 1680586050,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -555,12 +555,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1198498,
+      "num": 1198498,
+      "word": "华科大宿舍被雷劈了",
+      "onboard_time": 1680591207,
+      "rank": 0,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1192024,
       "num": 976342,
       "word": "张继科联合创立的茶饮品牌已成老赖",
       "onboard_time": 1680448179,
       "rank": 32,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1182866,
+      "num": 1182866,
+      "word": "长月烬明 让妆",
+      "onboard_time": 1680590729,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 1177319,
@@ -1315,6 +1331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 627766,
+      "num": 587315,
+      "word": "中国女留学生在泰被杀3名嫌犯被逮捕",
+      "onboard_time": 1680586770,
+      "rank": 14,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 626902,
       "num": 356356,
       "word": "八年前愚人节的TFBOYS",
@@ -1451,12 +1475,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 587315,
-      "num": 587315,
-      "word": "中国女留学生在泰被杀3名嫌犯被逮捕",
-      "onboard_time": 1680586770,
-      "rank": 14,
-      "category": "社会负面"
+      "raw_hot": 587837,
+      "num": 587837,
+      "word": "减脂可以吃任何东西",
+      "onboard_time": 1680589947,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 586387,
@@ -1529,6 +1553,14 @@
       "onboard_time": 1680275608,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 559696,
+      "num": 559696,
+      "word": "五问张继科事件",
+      "onboard_time": 1680592049,
+      "rank": 9,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 556793,
@@ -1969,6 +2001,14 @@
       "onboard_time": 1680329492,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 472047,
+      "num": 472047,
+      "word": "韩国空气酵母",
+      "onboard_time": 1680589649,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 471890,
@@ -2555,6 +2595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 372817,
+      "num": 372817,
+      "word": "间歇性冷漠",
+      "onboard_time": 1680588449,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 371415,
       "num": 345171,
       "word": "张国荣此间永远是少年",
@@ -2625,6 +2673,14 @@
       "onboard_time": 1680573089,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 362447,
+      "num": 362447,
+      "word": "信号2剧本",
+      "onboard_time": 1680590246,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 357397,
@@ -3483,14 +3539,6 @@
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 266564,
-      "num": 266564,
-      "word": "间歇性冷漠",
-      "onboard_time": 1680588449,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 264516,
       "num": 264516,
       "word": "孙国友女儿回应网友质疑不科学种树",
@@ -3584,6 +3632,14 @@
       "word": "尘封十三载定档",
       "onboard_time": 1680501932,
       "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 257196,
+      "num": 257196,
+      "word": "小美人鱼内地定档",
+      "onboard_time": 1680589227,
+      "rank": 46,
       "category": "影视"
     },
     {
@@ -4227,6 +4283,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 214880,
+      "num": 214880,
+      "word": "云襄传",
+      "onboard_time": 1680591446,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 214221,
       "num": 214221,
       "word": "洪世贤感觉又要被艾莉抢走",
@@ -4675,6 +4739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202398,
+      "num": 202398,
+      "word": "周雨彤怼脸四连拍",
+      "onboard_time": 1680591929,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202364,
       "num": 202364,
       "word": "律师称传播他人私密视频或担刑责",
@@ -4995,6 +5067,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 197075,
+      "num": 197075,
+      "word": "WE对战TES",
+      "onboard_time": 1680590008,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 197002,
       "num": 186002,
       "word": "吃麻辣烫最省钱的操作",
@@ -5027,11 +5107,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 196349,
-      "num": 196349,
-      "word": "小美人鱼内地定档",
-      "onboard_time": 1680589227,
-      "rank": 46,
+      "raw_hot": 196282,
+      "num": 196282,
+      "word": "赵弈钦新剧人设",
+      "onboard_time": 1680591391,
+      "rank": 31,
       "category": "影视"
     },
     {
@@ -5139,6 +5219,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 193251,
+      "num": 193251,
+      "word": "熊猫有多爱洗澡",
+      "onboard_time": 1680591507,
+      "rank": 32,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 193127,
       "num": 193127,
       "word": "浪漫医生金师傅剧照公开",
@@ -5217,6 +5305,14 @@
       "onboard_time": 1680438748,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 190967,
+      "num": 190967,
+      "word": "北影节官宣青年宣传推广大使吴磊",
+      "onboard_time": 1680591688,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 190696,
@@ -5387,6 +5483,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 186898,
+      "num": 186898,
+      "word": "易烊千玺沙漠花絮",
+      "onboard_time": 1680591868,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 186840,
       "num": 186840,
       "word": "张真源粉色格子衬衫",
@@ -5480,6 +5584,14 @@
       "word": "罗云熙冥夜倒计时视频",
       "onboard_time": 1680586230,
       "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 183917,
+      "num": 183917,
+      "word": "IU朴宝剑新剧将在网飞播出",
+      "onboard_time": 1680589826,
+      "rank": 41,
       "category": "影视"
     },
     {
@@ -5771,6 +5883,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 171726,
+      "num": 164280,
+      "word": "曾可妮 排名",
+      "onboard_time": 1680592409,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 171288,
       "num": 171288,
       "word": "周雨彤reaction帮三生友幸补糖",
@@ -5825,6 +5945,14 @@
       "onboard_time": 1680344011,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 169800,
+      "num": 164199,
+      "word": "张钧甯阮经天合照",
+      "onboard_time": 1680592109,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 169786,
@@ -6515,6 +6643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 148603,
+      "num": 148603,
+      "word": "男孩扫墓跪求奶奶保佑不写作业不挨打",
+      "onboard_time": 1680591988,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147345,
       "num": 150229,
       "word": "舞社2主理人阵容官宣",
@@ -6600,14 +6736,6 @@
       "word": "罗云熙还原澹台烬台词",
       "onboard_time": 1680421828,
       "rank": 40,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 144953,
-      "num": 144953,
-      "word": "IU朴宝剑新剧将在网飞播出",
-      "onboard_time": 1680589826,
-      "rank": 41,
       "category": "影视"
     },
     {
@@ -7243,14 +7371,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 120975,
-      "num": 120975,
-      "word": "减脂可以吃任何东西",
-      "onboard_time": 1680589947,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 120388,
       "num": 120388,
       "word": "三线轮洄水下戏好刺激",
@@ -7401,14 +7521,6 @@
       "onboard_time": 1680572970,
       "rank": 44,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 113973,
-      "num": 113973,
-      "word": "WE对战TES",
-      "onboard_time": 1680590008,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 113888,
@@ -8089,6 +8201,14 @@
       "onboard_time": 1680522632,
       "rank": 43,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 61613,
+      "num": 127372,
+      "word": "大学生主打一个经济实惠",
+      "onboard_time": 1680592529,
+      "rank": 49,
+      "category": "旅游,教育"
     },
     {
       "raw_hot": 61025,

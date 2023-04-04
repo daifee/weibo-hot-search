@@ -1,6 +1,6 @@
 {
   "startTime": 1680452464197,
-  "endTime": 1680590111118,
+  "endTime": 1680592535995,
   "band_list": [
     {
       "raw_hot": 9506486,
@@ -251,7 +251,7 @@
       "category": "财经"
     },
     {
-      "raw_hot": 1417246,
+      "raw_hot": 1449363,
       "num": 605856,
       "word": "北极鲶鱼",
       "onboard_time": 1680586050,
@@ -355,12 +355,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1198498,
+      "num": 1198498,
+      "word": "华科大宿舍被雷劈了",
+      "onboard_time": 1680591207,
+      "rank": 0,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1192024,
       "num": 333141,
       "word": "张继科联合创立的茶饮品牌已成老赖",
       "onboard_time": 1680448179,
       "rank": 10,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1182866,
+      "num": 1182866,
+      "word": "长月烬明 让妆",
+      "onboard_time": 1680590729,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 1175537,
@@ -739,6 +755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 627766,
+      "num": 587315,
+      "word": "中国女留学生在泰被杀3名嫌犯被逮捕",
+      "onboard_time": 1680586770,
+      "rank": 14,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 624364,
       "num": 624364,
       "word": "警方通报上海一男子因纠纷杀害妻子",
@@ -779,12 +803,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 587315,
-      "num": 587315,
-      "word": "中国女留学生在泰被杀3名嫌犯被逮捕",
-      "onboard_time": 1680586770,
-      "rank": 14,
-      "category": "社会负面"
+      "raw_hot": 587837,
+      "num": 587837,
+      "word": "减脂可以吃任何东西",
+      "onboard_time": 1680589947,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 586387,
@@ -833,6 +857,14 @@
       "onboard_time": 1680486747,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 559696,
+      "num": 559696,
+      "word": "五问张继科事件",
+      "onboard_time": 1680592049,
+      "rank": 9,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 552389,
@@ -1057,6 +1089,14 @@
       "onboard_time": 1680530497,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 472047,
+      "num": 472047,
+      "word": "韩国空气酵母",
+      "onboard_time": 1680589649,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 469579,
@@ -1339,6 +1379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 372817,
+      "num": 372817,
+      "word": "间歇性冷漠",
+      "onboard_time": 1680588449,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 370545,
       "num": 370545,
       "word": "女儿继承父亲警号后听到呼叫泪崩",
@@ -1369,6 +1417,14 @@
       "onboard_time": 1680573089,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 362447,
+      "num": 362447,
+      "word": "信号2剧本",
+      "onboard_time": 1680590246,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 357397,
@@ -1739,14 +1795,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 266564,
-      "num": 266564,
-      "word": "间歇性冷漠",
-      "onboard_time": 1680588449,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 264516,
       "num": 264516,
       "word": "孙国友女儿回应网友质疑不科学种树",
@@ -1816,6 +1864,14 @@
       "word": "尘封十三载定档",
       "onboard_time": 1680501932,
       "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 257196,
+      "num": 257196,
+      "word": "小美人鱼内地定档",
+      "onboard_time": 1680589227,
+      "rank": 46,
       "category": "影视"
     },
     {
@@ -2075,6 +2131,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 214880,
+      "num": 214880,
+      "word": "云襄传",
+      "onboard_time": 1680591446,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 214221,
       "num": 214221,
       "word": "洪世贤感觉又要被艾莉抢走",
@@ -2291,6 +2355,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 202398,
+      "num": 202398,
+      "word": "周雨彤怼脸四连拍",
+      "onboard_time": 1680591929,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202334,
       "num": 202334,
       "word": "原来狗子上班也会变丑",
@@ -2395,6 +2467,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 197075,
+      "num": 197075,
+      "word": "WE对战TES",
+      "onboard_time": 1680590008,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 197002,
       "num": 186002,
       "word": "吃麻辣烫最省钱的操作",
@@ -2419,11 +2499,11 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 196349,
-      "num": 196349,
-      "word": "小美人鱼内地定档",
-      "onboard_time": 1680589227,
-      "rank": 46,
+      "raw_hot": 196282,
+      "num": 196282,
+      "word": "赵弈钦新剧人设",
+      "onboard_time": 1680591391,
+      "rank": 31,
       "category": "影视"
     },
     {
@@ -2475,6 +2555,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 193251,
+      "num": 193251,
+      "word": "熊猫有多爱洗澡",
+      "onboard_time": 1680591507,
+      "rank": 32,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 193127,
       "num": 193127,
       "word": "浪漫医生金师傅剧照公开",
@@ -2520,6 +2608,14 @@
       "word": "卫国平今晚意能平吗",
       "onboard_time": 1680489508,
       "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 190967,
+      "num": 190967,
+      "word": "北影节官宣青年宣传推广大使吴磊",
+      "onboard_time": 1680591688,
+      "rank": 33,
       "category": "影视"
     },
     {
@@ -2579,6 +2675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 186898,
+      "num": 186898,
+      "word": "易烊千玺沙漠花絮",
+      "onboard_time": 1680591868,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 186840,
       "num": 186840,
       "word": "张真源粉色格子衬衫",
@@ -2616,6 +2720,14 @@
       "word": "罗云熙冥夜倒计时视频",
       "onboard_time": 1680586230,
       "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 183917,
+      "num": 183917,
+      "word": "IU朴宝剑新剧将在网飞播出",
+      "onboard_time": 1680589826,
+      "rank": 41,
       "category": "影视"
     },
     {
@@ -2731,6 +2843,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 171726,
+      "num": 164280,
+      "word": "曾可妮 排名",
+      "onboard_time": 1680592409,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 171425,
       "num": 171425,
       "word": "坂本龙一与癌症抗争9年",
@@ -2769,6 +2889,14 @@
       "onboard_time": 1680525573,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 169800,
+      "num": 164199,
+      "word": "张钧甯阮经天合照",
+      "onboard_time": 1680592109,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 169087,
@@ -3051,6 +3179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 148603,
+      "num": 148603,
+      "word": "男孩扫墓跪求奶奶保佑不写作业不挨打",
+      "onboard_time": 1680591988,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 146705,
       "num": 145057,
       "word": "他是谁评分",
@@ -3072,14 +3208,6 @@
       "word": "长月烬明德塔文待播剧景气指数第一",
       "onboard_time": 1680572369,
       "rank": 37,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 144953,
-      "num": 144953,
-      "word": "IU朴宝剑新剧将在网飞播出",
-      "onboard_time": 1680589826,
-      "rank": 41,
       "category": "影视"
     },
     {
@@ -3267,14 +3395,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 120975,
-      "num": 120975,
-      "word": "减脂可以吃任何东西",
-      "onboard_time": 1680589947,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 119877,
       "num": 125140,
       "word": "英雄联盟墨之影皮肤",
@@ -3313,14 +3433,6 @@
       "onboard_time": 1680447168,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 113973,
-      "num": 113973,
-      "word": "WE对战TES",
-      "onboard_time": 1680590008,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 108456,
@@ -3465,6 +3577,14 @@
       "onboard_time": 1680522632,
       "rank": 43,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 61613,
+      "num": 127372,
+      "word": "大学生主打一个经济实惠",
+      "onboard_time": 1680592529,
+      "rank": 49,
+      "category": "旅游,教育"
     },
     {
       "raw_hot": 57242,

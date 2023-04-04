@@ -1,0 +1,410 @@
+{
+  "runTime": 1680592535995,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1198498,
+        "num": 1198498,
+        "word": "华科大宿舍被雷劈了",
+        "onboard_time": 1680591207,
+        "rank": 0,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1182866,
+        "num": 1182866,
+        "word": "长月烬明 让妆",
+        "onboard_time": 1680590729,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 68871,
+        "num": 1061653,
+        "word": "前行就是最好的纪念",
+        "onboard_time": 1680570390,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 973212,
+        "num": 973212,
+        "word": "唐伯虎 乘风4",
+        "onboard_time": 1680586531,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 901128,
+        "num": 901128,
+        "word": "张继科的声明若有违事实是否需担责",
+        "onboard_time": 1680567390,
+        "rank": 4,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 860625,
+        "num": 860625,
+        "word": "他是谁 烂尾",
+        "onboard_time": 1680582270,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 603292,
+        "num": 603292,
+        "word": "石原里美产后复出首作",
+        "onboard_time": 1680587608,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 587837,
+        "num": 587837,
+        "word": "减脂可以吃任何东西",
+        "onboard_time": 1680589947,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 586905,
+        "num": 586905,
+        "word": "乘风4初舞台排名",
+        "onboard_time": 1680576867,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 559696,
+        "num": 559696,
+        "word": "五问张继科事件",
+        "onboard_time": 1680592049,
+        "rank": 9,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1114600,
+        "num": 532271,
+        "word": "崔始源肿么了",
+        "onboard_time": 1680584734,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 627766,
+        "num": 530681,
+        "word": "中国女留学生在泰被杀3名嫌犯被逮捕",
+        "onboard_time": 1680586770,
+        "rank": 11,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 498084,
+        "num": 498084,
+        "word": "90后女入殓师穿上寿衣大方展示",
+        "onboard_time": 1680574049,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 472047,
+        "num": 472047,
+        "word": "韩国空气酵母",
+        "onboard_time": 1680589649,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1449363,
+        "num": 457940,
+        "word": "北极鲶鱼",
+        "onboard_time": 1680586050,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390339,
+        "num": 390339,
+        "word": "彩礼和嫁妆该不该对等",
+        "onboard_time": 1680584251,
+        "rank": 15,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 372817,
+        "num": 372817,
+        "word": "间歇性冷漠",
+        "onboard_time": 1680588449,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 364549,
+        "num": 364549,
+        "word": "特斯拉一夜暴跌2700亿",
+        "onboard_time": 1680578910,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 362447,
+        "num": 362447,
+        "word": "信号2剧本",
+        "onboard_time": 1680590246,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 350333,
+        "num": 350333,
+        "word": "王刚清空账号解散粉丝群",
+        "onboard_time": 1680576569,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 343855,
+        "num": 343855,
+        "word": "不上班的年轻人是怎么搞钱的",
+        "onboard_time": 1680572849,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 302666,
+        "num": 302666,
+        "word": "王源演唱会",
+        "onboard_time": 1680587969,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 302078,
+        "num": 302078,
+        "word": "没有一句粗口却把我伤得体无完肤",
+        "onboard_time": 1680585511,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 275083,
+        "num": 275083,
+        "word": "张继科代理律师称还未起诉",
+        "onboard_time": 1680585391,
+        "rank": 23,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 257196,
+        "num": 257196,
+        "word": "小美人鱼内地定档",
+        "onboard_time": 1680589227,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 236649,
+        "num": 236649,
+        "word": "300一杯天价柠檬茶商家被罚20万",
+        "onboard_time": 1680584074,
+        "rank": 25,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 219657,
+        "num": 219657,
+        "word": "叶舒华愿意上小S节目的原因",
+        "onboard_time": 1680584854,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214880,
+        "num": 214880,
+        "word": "云襄传",
+        "onboard_time": 1680591446,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207336,
+        "num": 207336,
+        "word": "妇联回应女孩被带去卖头发大哭不止",
+        "onboard_time": 1680582754,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202398,
+        "num": 202398,
+        "word": "周雨彤怼脸四连拍",
+        "onboard_time": 1680591929,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197075,
+        "num": 197075,
+        "word": "WE对战TES",
+        "onboard_time": 1680590008,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 196282,
+        "num": 196282,
+        "word": "赵弈钦新剧人设",
+        "onboard_time": 1680591391,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193251,
+        "num": 193251,
+        "word": "熊猫有多爱洗澡",
+        "onboard_time": 1680591507,
+        "rank": 32,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 190967,
+        "num": 190967,
+        "word": "北影节官宣青年宣传推广大使吴磊",
+        "onboard_time": 1680591688,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189285,
+        "num": 189285,
+        "word": "女子双腿绑14瓶茅台入境",
+        "onboard_time": 1680572849,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186898,
+        "num": 186898,
+        "word": "易烊千玺沙漠花絮",
+        "onboard_time": 1680591868,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 183917,
+        "num": 183917,
+        "word": "IU朴宝剑新剧将在网飞播出",
+        "onboard_time": 1680589826,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 179821,
+        "num": 179821,
+        "word": "爱奇艺4月片单",
+        "onboard_time": 1680584854,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 178907,
+        "num": 178907,
+        "word": "11岁女孩遭邻居猥亵杀害案新进展",
+        "onboard_time": 1680571408,
+        "rank": 38,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 164444,
+        "num": 164444,
+        "word": "代号鸢 养卡",
+        "onboard_time": 1680581852,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 171726,
+        "num": 164280,
+        "word": "曾可妮 排名",
+        "onboard_time": 1680592409,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169800,
+        "num": 164199,
+        "word": "张钧甯阮经天合照",
+        "onboard_time": 1680592109,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164056,
+        "num": 164056,
+        "word": "张杰演唱会",
+        "onboard_time": 1680586469,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 148603,
+        "num": 148603,
+        "word": "男孩扫墓跪求奶奶保佑不写作业不挨打",
+        "onboard_time": 1680591988,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145887,
+        "num": 145887,
+        "word": "安踏删除张继科宣传物料",
+        "onboard_time": 1680497915,
+        "rank": 44,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 137457,
+        "num": 137457,
+        "word": "忠犬八公狗狗主演是流浪狗",
+        "onboard_time": 1680586587,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 137103,
+        "num": 137103,
+        "word": "肖战起诉侵权网店获赔3.5万",
+        "onboard_time": 1680578546,
+        "rank": 46,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 134593,
+        "num": 134593,
+        "word": "许巍演唱会门票",
+        "onboard_time": 1680589887,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 129050,
+        "num": 129050,
+        "word": "换了新耳机套被同事训斥",
+        "onboard_time": 1680580953,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 61613,
+        "num": 127372,
+        "word": "大学生主打一个经济实惠",
+        "onboard_time": 1680592529,
+        "rank": 49,
+        "category": "旅游,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#扎实抓好主题教育#"
+    }
+  }
+}
