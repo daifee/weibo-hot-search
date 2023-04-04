@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680636811917,
+  "endTime": 1680639481926,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -9379,6 +9379,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 36994,
+      "num": 36994,
+      "word": "世界的尽头",
+      "onboard_time": 1680635834,
+      "rank": 32,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 35850,
       "num": 44978,
       "word": "马嘉祺唱后来",
@@ -9433,14 +9441,6 @@
       "onboard_time": 1680261326,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 25270,
-      "num": 25270,
-      "word": "世界的尽头",
-      "onboard_time": 1680635834,
-      "rank": 32,
-      "category": "旅游"
     },
     {
       "raw_hot": 23161,

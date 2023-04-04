@@ -1,0 +1,410 @@
+{
+  "runTime": 1680639481926,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 292787,
+        "num": 292787,
+        "word": "柯哀亲了",
+        "onboard_time": 1680617614,
+        "rank": 0,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 174266,
+        "num": 174266,
+        "word": "特朗普接受传讯现场",
+        "onboard_time": 1680616532,
+        "rank": 1,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 10837,
+        "num": 162074,
+        "word": "清明给英烈写句话",
+        "onboard_time": 1680611790,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152063,
+        "num": 152063,
+        "word": "特朗普一旦定罪或被判4年",
+        "onboard_time": 1680616410,
+        "rank": 3,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 108621,
+        "num": 108621,
+        "word": "青山刚昌",
+        "onboard_time": 1680617553,
+        "rank": 4,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 65076,
+        "num": 65076,
+        "word": "95后寿衣模特回应被说阴气重",
+        "onboard_time": 1680614552,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57946,
+        "num": 57946,
+        "word": "你想要双休还是凑小长假",
+        "onboard_time": 1680613650,
+        "rank": 6,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 46238,
+        "num": 46238,
+        "word": "果然娱乐回应小鬼被抄袭",
+        "onboard_time": 1680612150,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43799,
+        "num": 43799,
+        "word": "芬兰正式成为北约第31个成员国",
+        "onboard_time": 1680616652,
+        "rank": 8,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 42593,
+        "num": 42593,
+        "word": "泰坦尼克号Rose床头的照片",
+        "onboard_time": 1680605610,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 72905,
+        "num": 40826,
+        "word": "张佳宁点痣了",
+        "onboard_time": 1680609390,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43350,
+        "num": 40142,
+        "word": "惠英红 你信不信我揍你",
+        "onboard_time": 1680620314,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38343,
+        "num": 38343,
+        "word": "兰哀亲了",
+        "onboard_time": 1680620733,
+        "rank": 12,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 36994,
+        "num": 36994,
+        "word": "世界的尽头",
+        "onboard_time": 1680635834,
+        "rank": 13,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 35559,
+        "num": 35559,
+        "word": "姜广涛配音的影视剧角色会下架吗",
+        "onboard_time": 1680610229,
+        "rank": 14,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 35284,
+        "num": 35284,
+        "word": "他是谁豆瓣降至6.6分",
+        "onboard_time": 1680622769,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 35084,
+        "num": 35084,
+        "word": "新兰",
+        "onboard_time": 1680621751,
+        "rank": 16,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 34885,
+        "num": 34885,
+        "word": "把一群i人凑在一起",
+        "onboard_time": 1680617071,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 31655,
+        "num": 31655,
+        "word": "为什么总被说湿气重",
+        "onboard_time": 1680613951,
+        "rank": 18,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 30270,
+        "num": 30270,
+        "word": "代号鸢",
+        "onboard_time": 1680603930,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 36053,
+        "num": 29186,
+        "word": "女孩跳江获救3名救援小伙溺亡",
+        "onboard_time": 1680602552,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31040,
+        "num": 28956,
+        "word": "WBG的训练赛",
+        "onboard_time": 1680623970,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 26737,
+        "num": 26737,
+        "word": "贝克街的亡灵",
+        "onboard_time": 1680607353,
+        "rank": 22,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 26628,
+        "num": 26628,
+        "word": "养过一次狗后再也不想养了",
+        "onboard_time": 1680620672,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 25796,
+        "num": 25796,
+        "word": "吴京问谢楠媳妇我错哪了",
+        "onboard_time": 1680608069,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23762,
+        "num": 23762,
+        "word": "求张继科事件视频当心触法",
+        "onboard_time": 1680596971,
+        "rank": 25,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 23132,
+        "num": 23132,
+        "word": "小妈文学拍成剧了",
+        "onboard_time": 1680606869,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 22436,
+        "num": 22436,
+        "word": "OMG战胜LNG",
+        "onboard_time": 1680613171,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 22214,
+        "num": 22214,
+        "word": "名侦探柯南黑铁的鱼影",
+        "onboard_time": 1680617013,
+        "rank": 28,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 21489,
+        "num": 21489,
+        "word": "学生趴睡手指压出淤血变紫",
+        "onboard_time": 1680608910,
+        "rank": 29,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 91679,
+        "num": 21327,
+        "word": "抖音崩了",
+        "onboard_time": 1680613830,
+        "rank": 30,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 30115,
+        "num": 21290,
+        "word": "中国乒协证实张继科已退役",
+        "onboard_time": 1680598111,
+        "rank": 31,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 21125,
+        "num": 21125,
+        "word": "真人版芭比电影发布角色海报",
+        "onboard_time": 1680621271,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 20296,
+        "num": 20296,
+        "word": "儿化音别再为难广东人了",
+        "onboard_time": 1680620733,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 19946,
+        "num": 19946,
+        "word": "马英九向张自忠敬献花圈",
+        "onboard_time": 1680605968,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19930,
+        "num": 19930,
+        "word": "张继科的声明若有违事实是否需担责",
+        "onboard_time": 1680567390,
+        "rank": 35,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 19815,
+        "num": 19815,
+        "word": "你想不到的小说作者主业",
+        "onboard_time": 1680625226,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 19392,
+        "num": 19392,
+        "word": "王子文说体面的告别很重要",
+        "onboard_time": 1680608429,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18625,
+        "num": 18625,
+        "word": "大学生在打一种很新的卡",
+        "onboard_time": 1680627741,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 17825,
+        "num": 17825,
+        "word": "林依晨看了都得愣一下",
+        "onboard_time": 1680603030,
+        "rank": 39,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 17272,
+        "num": 17272,
+        "word": "LPL春季赛四强确定",
+        "onboard_time": 1680614972,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 16694,
+        "num": 16694,
+        "word": "不要随便接陌生电话",
+        "onboard_time": 1680600631,
+        "rank": 41,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 15918,
+        "num": 15918,
+        "word": "肖战电影",
+        "onboard_time": 1680601830,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 15854,
+        "num": 15854,
+        "word": "张含韵说我爱我的三十岁",
+        "onboard_time": 1680621452,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 15361,
+        "num": 15361,
+        "word": "张大大西安",
+        "onboard_time": 1680617912,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13754,
+        "num": 15326,
+        "word": "人生之路",
+        "onboard_time": 1680616053,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 13389,
+        "num": 15300,
+        "word": "吴磊猛男娇羞",
+        "onboard_time": 1680620550,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 13456,
+        "num": 15262,
+        "word": "刘巧珍眼里有光",
+        "onboard_time": 1680625705,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 12006,
+        "num": 15229,
+        "word": "张杰演唱会",
+        "onboard_time": 1680617132,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 11905,
+        "num": 15195,
+        "word": "张元英专辑预告照",
+        "onboard_time": 1680622050,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#我没忘记你就还在#"
+    }
+  }
+}

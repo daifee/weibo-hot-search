@@ -1,6 +1,6 @@
 {
   "startTime": 1680625388129,
-  "endTime": 1680636811917,
+  "endTime": 1680639481926,
   "band_list": [
     {
       "raw_hot": 3423974,
@@ -427,20 +427,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 36994,
+      "num": 36994,
+      "word": "世界的尽头",
+      "onboard_time": 1680635834,
+      "rank": 32,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 33409,
       "num": 33409,
       "word": "大学生在打一种很新的卡",
       "onboard_time": 1680627741,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 25270,
-      "num": 25270,
-      "word": "世界的尽头",
-      "onboard_time": 1680635834,
-      "rank": 32,
-      "category": "旅游"
     },
     {
       "raw_hot": 14938,
