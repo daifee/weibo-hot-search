@@ -1,0 +1,410 @@
+{
+  "runTime": 1680585355537,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2270090,
+        "num": 2270090,
+        "word": "王刚清空账号解散粉丝群",
+        "onboard_time": 1680576569,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2127421,
+        "num": 2127421,
+        "word": "他是谁 烂尾",
+        "onboard_time": 1680582270,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 23493,
+        "num": 1718125,
+        "word": "前行就是最好的纪念",
+        "onboard_time": 1680570390,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1589556,
+        "num": 1589556,
+        "word": "张继科的声明若有违事实是否需担责",
+        "onboard_time": 1680567390,
+        "rank": 3,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1401719,
+        "num": 1401719,
+        "word": "特斯拉一夜暴跌2700亿",
+        "onboard_time": 1680578910,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1023636,
+        "num": 1023636,
+        "word": "乘风4初舞台排名",
+        "onboard_time": 1680576867,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 814387,
+        "num": 814387,
+        "word": "女子双腿绑14瓶茅台入境",
+        "onboard_time": 1680572849,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 662040,
+        "num": 662040,
+        "word": "不上班的年轻人是怎么搞钱的",
+        "onboard_time": 1680572849,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 604316,
+        "num": 604316,
+        "word": "彩礼和嫁妆该不该对等",
+        "onboard_time": 1680584251,
+        "rank": 8,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 573587,
+        "num": 573587,
+        "word": "90后女入殓师穿上寿衣大方展示",
+        "onboard_time": 1680574049,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 678966,
+        "num": 556575,
+        "word": "11岁女孩遭邻居猥亵杀害案新进展",
+        "onboard_time": 1680571408,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 676303,
+        "num": 538011,
+        "word": "崔始源肿么了",
+        "onboard_time": 1680584734,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 487343,
+        "num": 487343,
+        "word": "青春环游记4定档",
+        "onboard_time": 1680580112,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 481977,
+        "num": 481977,
+        "word": "代号鸢 养卡",
+        "onboard_time": 1680581852,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 480517,
+        "num": 480517,
+        "word": "妇联回应女孩被带去卖头发大哭不止",
+        "onboard_time": 1680582754,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 460892,
+        "num": 460892,
+        "word": "王刚回应清空社交账号",
+        "onboard_time": 1680582336,
+        "rank": 15,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 455605,
+        "num": 455605,
+        "word": "S先生是谁",
+        "onboard_time": 1680534816,
+        "rank": 16,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 369538,
+        "num": 369538,
+        "word": "300一杯天价柠檬茶商家被罚20万",
+        "onboard_time": 1680584074,
+        "rank": 17,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 362257,
+        "num": 362257,
+        "word": "电视剧199爱改名要久久爱",
+        "onboard_time": 1680575788,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 312792,
+        "num": 312792,
+        "word": "肖战起诉侵权网店获赔3.5万",
+        "onboard_time": 1680578546,
+        "rank": 19,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 339578,
+        "num": 312524,
+        "word": "换了新耳机套被同事训斥",
+        "onboard_time": 1680580953,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 337177,
+        "num": 312001,
+        "word": "铃芽之旅票房超你的名字",
+        "onboard_time": 1680581012,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 317979,
+        "num": 309612,
+        "word": "叶舒华愿意上小S节目的原因",
+        "onboard_time": 1680584854,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 306617,
+        "num": 306617,
+        "word": "BLACKPINK或将全员续约YG",
+        "onboard_time": 1680570390,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298761,
+        "num": 298761,
+        "word": "女子睡醒发现房顶被吹走",
+        "onboard_time": 1680577949,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291692,
+        "num": 291692,
+        "word": "难怪吃菠萝嘴巴疼",
+        "onboard_time": 1680566068,
+        "rank": 25,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 284472,
+        "num": 284472,
+        "word": "动物园称未经许可不得直播丫丫",
+        "onboard_time": 1680565527,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272594,
+        "num": 272594,
+        "word": "只给钱不给爱的婚姻该继续吗",
+        "onboard_time": 1680582213,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 260008,
+        "num": 260008,
+        "word": "马斯克将推特图标换成柴犬",
+        "onboard_time": 1680573027,
+        "rank": 28,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 259173,
+        "num": 259173,
+        "word": "张继科方准备起诉",
+        "onboard_time": 1680411988,
+        "rank": 29,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 256243,
+        "num": 256243,
+        "word": "爱奇艺4月片单",
+        "onboard_time": 1680584854,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 255997,
+        "num": 255997,
+        "word": "刘雯秦岚同框",
+        "onboard_time": 1680579931,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 254791,
+        "num": 254791,
+        "word": "陈延年陈乔年墓旁的桃花开了",
+        "onboard_time": 1680578428,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243579,
+        "num": 243579,
+        "word": "香椿炒鸡蛋",
+        "onboard_time": 1680572250,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 223597,
+        "num": 223597,
+        "word": "昕雯联播难说再见",
+        "onboard_time": 1680573089,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210784,
+        "num": 210784,
+        "word": "安踏删除张继科宣传物料",
+        "onboard_time": 1680497915,
+        "rank": 35,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 209395,
+        "num": 209395,
+        "word": "原来摸鱼也是有技巧的",
+        "onboard_time": 1680580229,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 195045,
+        "num": 195045,
+        "word": "沈腾2015年小品台词",
+        "onboard_time": 1680575427,
+        "rank": 37,
+        "category": "综艺,社会新闻"
+      },
+      {
+        "raw_hot": 49979,
+        "num": 194090,
+        "word": "一图看懂海南全岛封关意味着什么",
+        "onboard_time": 1680526413,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193940,
+        "num": 193940,
+        "word": "张婧仪你好星期六上班路透",
+        "onboard_time": 1680584012,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186516,
+        "num": 186516,
+        "word": "品如剧本",
+        "onboard_time": 1680582513,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178753,
+        "num": 178753,
+        "word": "张继科曾多次被曝涉赌",
+        "onboard_time": 1680503971,
+        "rank": 41,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 175525,
+        "num": 175525,
+        "word": "长月烬明一眼万年海报",
+        "onboard_time": 1680578609,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 172877,
+        "num": 172877,
+        "word": "薛之谦官宣济南加场南昌开站",
+        "onboard_time": 1680575068,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 161810,
+        "num": 161810,
+        "word": "成年人的体面是假发片给的",
+        "onboard_time": 1680584492,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152067,
+        "num": 152067,
+        "word": "青春环游记",
+        "onboard_time": 1680583234,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143176,
+        "num": 143176,
+        "word": "狗狗币",
+        "onboard_time": 1680575427,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 139910,
+        "num": 139910,
+        "word": "中央政法委长安剑评张继科事件",
+        "onboard_time": 1680525994,
+        "rank": 47,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 122658,
+        "num": 122658,
+        "word": "第25届上海国际电影节官宣",
+        "onboard_time": 1680585334,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 121078,
+        "num": 122602,
+        "word": "无畏入选KPL周最佳阵容",
+        "onboard_time": 1680583714,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#我们这一代共产党人使命光荣责任重大#"
+    }
+  }
+}

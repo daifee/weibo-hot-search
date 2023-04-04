@@ -1,6 +1,6 @@
 {
   "startTime": 1680452464197,
-  "endTime": 1680582866131,
+  "endTime": 1680585355537,
   "band_list": [
     {
       "raw_hot": 9506486,
@@ -185,6 +185,14 @@
       "onboard_time": 1680497315,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2127421,
+      "num": 2127421,
+      "word": "他是谁 烂尾",
+      "onboard_time": 1680582270,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 1979853,
@@ -643,6 +651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 676303,
+      "num": 538011,
+      "word": "崔始源肿么了",
+      "onboard_time": 1680584734,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 666592,
       "num": 666592,
       "word": "李彩桦唱无法原谅",
@@ -657,14 +673,6 @@
       "onboard_time": 1680574049,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 660637,
-      "num": 660637,
-      "word": "他是谁 烂尾",
-      "onboard_time": 1680582270,
-      "rank": 8,
-      "category": "影视"
     },
     {
       "raw_hot": 641320,
@@ -713,6 +721,14 @@
       "onboard_time": 1680567691,
       "rank": 8,
       "category": "情感"
+    },
+    {
+      "raw_hot": 604316,
+      "num": 604316,
+      "word": "彩礼和嫁妆该不该对等",
+      "onboard_time": 1680584251,
+      "rank": 8,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 601265,
@@ -947,6 +963,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 481977,
+      "num": 481977,
+      "word": "代号鸢 养卡",
+      "onboard_time": 1680581852,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 480517,
+      "num": 480517,
+      "word": "妇联回应女孩被带去卖头发大哭不止",
+      "onboard_time": 1680582754,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 479963,
       "num": 479963,
       "word": "特朗普计划今天飞纽约接受传讯",
@@ -992,6 +1024,14 @@
       "word": "肖战起诉侵权网店获赔3.5万",
       "onboard_time": 1680578546,
       "rank": 18,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 460892,
+      "num": 460892,
+      "word": "王刚回应清空社交账号",
+      "onboard_time": 1680582336,
+      "rank": 26,
       "category": "社会新闻,艺人"
     },
     {
@@ -1227,6 +1267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 369538,
+      "num": 369538,
+      "word": "300一杯天价柠檬茶商家被罚20万",
+      "onboard_time": 1680584074,
+      "rank": 17,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 368209,
       "num": 328203,
       "word": "陈延年陈乔年墓旁的桃花开了",
@@ -1347,6 +1395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 339578,
+      "num": 326435,
+      "word": "换了新耳机套被同事训斥",
+      "onboard_time": 1680580953,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 331910,
       "num": 331910,
       "word": "毛晓彤簪花女造型",
@@ -1379,14 +1435,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 326435,
-      "num": 326435,
-      "word": "换了新耳机套被同事训斥",
-      "onboard_time": 1680580953,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 323015,
       "num": 323015,
       "word": "德班",
@@ -1395,12 +1443,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 318533,
-      "num": 318533,
-      "word": "代号鸢 养卡",
-      "onboard_time": 1680581852,
-      "rank": 39,
-      "category": "游戏"
+      "raw_hot": 317979,
+      "num": 309612,
+      "word": "叶舒华愿意上小S节目的原因",
+      "onboard_time": 1680584854,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 313850,
@@ -1425,14 +1473,6 @@
       "onboard_time": 1680580229,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 303906,
-      "num": 303906,
-      "word": "王刚回应清空社交账号",
-      "onboard_time": 1680582336,
-      "rank": 26,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 300985,
@@ -1571,6 +1611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 272594,
+      "num": 272594,
+      "word": "只给钱不给爱的婚姻该继续吗",
+      "onboard_time": 1680582213,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 272527,
       "num": 272527,
       "word": "又是周一",
@@ -1697,6 +1745,22 @@
       "onboard_time": 1680523591,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 256243,
+      "num": 256243,
+      "word": "爱奇艺4月片单",
+      "onboard_time": 1680584854,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 255997,
+      "num": 255997,
+      "word": "刘雯秦岚同框",
+      "onboard_time": 1680579931,
+      "rank": 30,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 255843,
@@ -1849,14 +1913,6 @@
       "onboard_time": 1680485907,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 222720,
-      "num": 222720,
-      "word": "刘雯秦岚同框",
-      "onboard_time": 1680579931,
-      "rank": 30,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 221257,
@@ -2065,14 +2121,6 @@
       "onboard_time": 1680571170,
       "rank": 26,
       "category": "教育"
-    },
-    {
-      "raw_hot": 205178,
-      "num": 205178,
-      "word": "只给钱不给爱的婚姻该继续吗",
-      "onboard_time": 1680582213,
-      "rank": 37,
-      "category": "影视"
     },
     {
       "raw_hot": 204856,
@@ -2307,6 +2355,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 193940,
+      "num": 193940,
+      "word": "张婧仪你好星期六上班路透",
+      "onboard_time": 1680584012,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193313,
       "num": 193313,
       "word": "春日乐趣大会",
@@ -2419,6 +2475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186516,
+      "num": 186516,
+      "word": "品如剧本",
+      "onboard_time": 1680582513,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186454,
       "num": 186454,
       "word": "一起来看演唱会",
@@ -2427,28 +2491,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 185371,
-      "num": 185371,
-      "word": "品如剧本",
-      "onboard_time": 1680582513,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 185169,
       "num": 185169,
       "word": "张含韵机场捡到李纯王菊假睫毛",
       "onboard_time": 1680536974,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 183889,
-      "num": 189429,
-      "word": "妇联回应女孩被带去卖头发大哭不止",
-      "onboard_time": 1680582754,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 183372,
@@ -2476,7 +2524,7 @@
     },
     {
       "raw_hot": 181429,
-      "num": 181429,
+      "num": 1718125,
       "word": "前行就是最好的纪念",
       "onboard_time": 1680570390,
       "rank": 29,
@@ -2651,6 +2699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 161810,
+      "num": 161810,
+      "word": "成年人的体面是假发片给的",
+      "onboard_time": 1680584492,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 160628,
       "num": 168584,
       "word": "代号鸢周瑜",
@@ -2785,6 +2841,14 @@
       "onboard_time": 1680530797,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 152067,
+      "num": 152067,
+      "word": "青春环游记",
+      "onboard_time": 1680583234,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 151305,
@@ -3025,6 +3089,22 @@
       "onboard_time": 1680428127,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 122658,
+      "num": 122658,
+      "word": "第25届上海国际电影节官宣",
+      "onboard_time": 1680585334,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 121078,
+      "num": 122602,
+      "word": "无畏入选KPL周最佳阵容",
+      "onboard_time": 1680583714,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 120997,
@@ -3307,6 +3387,9 @@
     },
     {
       "word": "#向群众学习向实践学习#"
+    },
+    {
+      "word": "#我们这一代共产党人使命光荣责任重大#"
     }
   ]
 }
