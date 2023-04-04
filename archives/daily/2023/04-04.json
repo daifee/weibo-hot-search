@@ -1,6 +1,6 @@
 {
   "startTime": 1680538976202,
-  "endTime": 1680592535995,
+  "endTime": 1680593607372,
   "band_list": [
     {
       "raw_hot": 3471973,
@@ -25,6 +25,14 @@
       "onboard_time": 1680567390,
       "rank": 3,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 2541503,
+      "num": 2541503,
+      "word": "华科大宿舍被雷劈了",
+      "onboard_time": 1680591207,
+      "rank": 0,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 2318401,
@@ -91,16 +99,16 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 1198498,
-      "num": 1198498,
-      "word": "华科大宿舍被雷劈了",
-      "onboard_time": 1680591207,
-      "rank": 0,
-      "category": "社会新闻,教育"
+      "raw_hot": 1248643,
+      "num": 1248643,
+      "word": "五问张继科事件",
+      "onboard_time": 1680592049,
+      "rank": 9,
+      "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 1182866,
-      "num": 1182866,
+      "raw_hot": 1184693,
+      "num": 1184693,
       "word": "长月烬明 让妆",
       "onboard_time": 1680590729,
       "rank": 1,
@@ -243,6 +251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 633207,
+      "num": 633207,
+      "word": "减脂可以吃任何东西",
+      "onboard_time": 1680589947,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 627766,
       "num": 587315,
       "word": "中国女留学生在泰被杀3名嫌犯被逮捕",
@@ -259,12 +275,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 587837,
-      "num": 587837,
-      "word": "减脂可以吃任何东西",
-      "onboard_time": 1680589947,
-      "rank": 45,
-      "category": "情感"
+      "raw_hot": 609738,
+      "num": 609738,
+      "word": "曾可妮 排名",
+      "onboard_time": 1680592409,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 586387,
@@ -273,14 +289,6 @@
       "onboard_time": 1680575068,
       "rank": 8,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 559696,
-      "num": 559696,
-      "word": "五问张继科事件",
-      "onboard_time": 1680592049,
-      "rank": 9,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 552389,
@@ -379,20 +387,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 480393,
+      "num": 472047,
+      "word": "韩国空气酵母",
+      "onboard_time": 1680589649,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 478458,
       "num": 478458,
       "word": "没有一句粗口却把我伤得体无完肤",
       "onboard_time": 1680585511,
       "rank": 25,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 472047,
-      "num": 472047,
-      "word": "韩国空气酵母",
-      "onboard_time": 1680589649,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 469579,
@@ -571,6 +579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 326669,
+      "num": 326669,
+      "word": "苹果天气",
+      "onboard_time": 1680592951,
+      "rank": 17,
+      "category": "科技"
+    },
+    {
       "raw_hot": 317410,
       "num": 209078,
       "word": "韩国男爱豆猥亵队友被判刑",
@@ -579,11 +595,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 307655,
+      "num": 307655,
+      "word": "陈晓被叫叔叔在线崩溃",
+      "onboard_time": 1680593008,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 307643,
       "num": 2153777,
       "word": "一图看懂海南全岛封关意味着什么",
       "onboard_time": 1680526413,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 307243,
+      "num": 307243,
+      "word": "男孩扫墓跪求奶奶保佑不写作业不挨打",
+      "onboard_time": 1680591988,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -739,6 +771,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 250970,
+      "num": 250970,
+      "word": "长月烬明灭了吗订单",
+      "onboard_time": 1680592710,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 242066,
       "num": 213051,
       "word": "上班上出了结婚的感觉",
@@ -755,11 +795,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 230080,
+      "num": 214880,
+      "word": "云襄传",
+      "onboard_time": 1680591446,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 227590,
       "num": 227590,
       "word": "NewJeans将于夏天回归",
       "onboard_time": 1680585689,
       "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 220152,
+      "num": 213189,
+      "word": "张钧甯阮经天合照",
+      "onboard_time": 1680592109,
+      "rank": 41,
       "category": "艺人"
     },
     {
@@ -787,14 +843,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 214880,
-      "num": 214880,
-      "word": "云襄传",
-      "onboard_time": 1680591446,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 213704,
       "num": 213704,
       "word": "南韩酵母",
@@ -809,6 +857,14 @@
       "onboard_time": 1680568110,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 210055,
+      "num": 210055,
+      "word": "Amber 排名",
+      "onboard_time": 1680593311,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 209349,
@@ -897,6 +953,14 @@
       "onboard_time": 1680582633,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 197751,
+      "num": 197751,
+      "word": "特朗普一旦定罪或被判4年",
+      "onboard_time": 1680592888,
+      "rank": 34,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 197416,
@@ -1123,28 +1187,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 171726,
-      "num": 164280,
-      "word": "曾可妮 排名",
-      "onboard_time": 1680592409,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 171182,
       "num": 169535,
       "word": "如何评价张继科事件中求视频乱象",
       "onboard_time": 1680574649,
       "rank": 38,
       "category": "社会议题,艺人"
-    },
-    {
-      "raw_hot": 169800,
-      "num": 164199,
-      "word": "张钧甯阮经天合照",
-      "onboard_time": 1680592109,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 168744,
@@ -1243,14 +1291,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 148603,
-      "num": 148603,
-      "word": "男孩扫墓跪求奶奶保佑不写作业不挨打",
-      "onboard_time": 1680591988,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 146705,
       "num": 145057,
       "word": "他是谁评分",
@@ -1297,6 +1337,14 @@
       "onboard_time": 1680570212,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 133391,
+      "num": 133391,
+      "word": "女子乐山大佛头顶盘膝打坐",
+      "onboard_time": 1680593429,
+      "rank": 49,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 133273,
