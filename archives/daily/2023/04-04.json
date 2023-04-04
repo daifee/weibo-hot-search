@@ -1,6 +1,6 @@
 {
   "startTime": 1680538976202,
-  "endTime": 1680585355537,
+  "endTime": 1680586422067,
   "band_list": [
     {
       "raw_hot": 3471973,
@@ -51,6 +51,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1514846,
+      "num": 538011,
+      "word": "崔始源肿么了",
+      "onboard_time": 1680584734,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1446106,
       "num": 1446106,
       "word": "中央政法委长安剑评张继科事件",
@@ -97,6 +105,14 @@
       "onboard_time": 1680520114,
       "rank": 21,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 974892,
+      "num": 974892,
+      "word": "彩礼和嫁妆该不该对等",
+      "onboard_time": 1680584251,
+      "rank": 8,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 913030,
@@ -155,28 +171,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 694774,
+      "num": 694774,
+      "word": "90后女入殓师穿上寿衣大方展示",
+      "onboard_time": 1680574049,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 682753,
       "num": 682753,
       "word": "BLACKPINK或将全员续约YG",
       "onboard_time": 1680570390,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 676303,
-      "num": 538011,
-      "word": "崔始源肿么了",
-      "onboard_time": 1680584734,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 665939,
-      "num": 665939,
-      "word": "90后女入殓师穿上寿衣大方展示",
-      "onboard_time": 1680574049,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 641320,
@@ -201,14 +209,6 @@
       "onboard_time": 1680567691,
       "rank": 8,
       "category": "情感"
-    },
-    {
-      "raw_hot": 604316,
-      "num": 604316,
-      "word": "彩礼和嫁妆该不该对等",
-      "onboard_time": 1680584251,
-      "rank": 8,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 586387,
@@ -243,6 +243,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 527251,
+      "num": 527251,
+      "word": "300一杯天价柠檬茶商家被罚20万",
+      "onboard_time": 1680584074,
+      "rank": 17,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 524927,
       "num": 524927,
       "word": "狗狗币",
@@ -265,6 +273,14 @@
       "onboard_time": 1680577949,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 483535,
+      "num": 309612,
+      "word": "叶舒华愿意上小S节目的原因",
+      "onboard_time": 1680584854,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 481977,
@@ -323,12 +339,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 441409,
+      "num": 441409,
+      "word": "张继科代理律师称还未起诉",
+      "onboard_time": 1680585391,
+      "rank": 14,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 430971,
       "num": 430971,
       "word": "谢娜乘风破浪4路透",
       "onboard_time": 1680567993,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 407934,
+      "num": 407934,
+      "word": "爱奇艺4月片单",
+      "onboard_time": 1680584854,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 404977,
@@ -369,14 +401,6 @@
       "onboard_time": 1680581012,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 369538,
-      "num": 369538,
-      "word": "300一杯天价柠檬茶商家被罚20万",
-      "onboard_time": 1680584074,
-      "rank": 17,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 368209,
@@ -433,14 +457,6 @@
       "onboard_time": 1680573988,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 317979,
-      "num": 309612,
-      "word": "叶舒华愿意上小S节目的原因",
-      "onboard_time": 1680584854,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 317410,
@@ -539,6 +555,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 261361,
+      "num": 261361,
+      "word": "欢乐颂4全员晒胶带自拍",
+      "onboard_time": 1680585810,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 260709,
       "num": 213888,
       "word": "这熊猫的脑壳也太方了吧",
@@ -571,14 +595,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 256243,
-      "num": 256243,
-      "word": "爱奇艺4月片单",
-      "onboard_time": 1680584854,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 255997,
       "num": 255997,
       "word": "刘雯秦岚同框",
@@ -601,6 +617,14 @@
       "onboard_time": 1680534456,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 248549,
+      "num": 248549,
+      "word": "没有一句粗口却把我伤得体无完肤",
+      "onboard_time": 1680585511,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 242066,
@@ -731,6 +755,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 195264,
+      "num": 195264,
+      "word": "NewJeans将于夏天回归",
+      "onboard_time": 1680585689,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193940,
       "num": 193940,
       "word": "张婧仪你好星期六上班路透",
@@ -755,6 +787,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 190617,
+      "num": 190617,
+      "word": "文韬泰国随拍",
+      "onboard_time": 1680585689,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 190430,
       "num": 190430,
       "word": "中华田园犬登上纽约时代广场",
@@ -769,6 +809,14 @@
       "onboard_time": 1680522455,
       "rank": 8,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 188523,
+      "num": 188523,
+      "word": "北极鲶鱼",
+      "onboard_time": 1680586050,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 187570,
@@ -793,6 +841,14 @@
       "onboard_time": 1680536974,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 184605,
+      "num": 184605,
+      "word": "罗云熙冥夜倒计时视频",
+      "onboard_time": 1680586230,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 183482,
@@ -867,6 +923,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 172611,
+      "num": 172611,
+      "word": "成年人的体面是假发片给的",
+      "onboard_time": 1680584492,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 171182,
       "num": 169535,
       "word": "如何评价张继科事件中求视频乱象",
@@ -897,14 +961,6 @@
       "onboard_time": 1680530497,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 161810,
-      "num": 161810,
-      "word": "成年人的体面是假发片给的",
-      "onboard_time": 1680584492,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 160628,
@@ -1195,6 +1251,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 99466,
+      "num": 137581,
+      "word": "光遇复刻爬山",
+      "onboard_time": 1680585570,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 98616,
       "num": 98616,
       "word": "突然就想换个专业读了",
@@ -1271,6 +1335,9 @@
     },
     {
       "word": "#我们这一代共产党人使命光荣责任重大#"
+    },
+    {
+      "word": "#国际政要密集访华释放了什么信号#"
     }
   ]
 }
