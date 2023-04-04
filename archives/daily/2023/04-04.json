@@ -1,6 +1,6 @@
 {
   "startTime": 1680538976202,
-  "endTime": 1680603496666,
+  "endTime": 1680604396379,
   "band_list": [
     {
       "raw_hot": 4386600,
@@ -131,6 +131,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1241786,
+      "num": 638733,
+      "word": "肖战电影",
+      "onboard_time": 1680601830,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1184693,
       "num": 1184693,
       "word": "长月烬明 让妆",
@@ -153,14 +161,6 @@
       "onboard_time": 1680524254,
       "rank": 3,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 1089322,
-      "num": 611654,
-      "word": "肖战电影",
-      "onboard_time": 1680601830,
-      "rank": 6,
-      "category": "影视"
     },
     {
       "raw_hot": 1088439,
@@ -219,6 +219,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 826984,
+      "num": 826984,
+      "word": "不要随便接陌生电话",
+      "onboard_time": 1680600631,
+      "rank": 43,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 799786,
       "num": 799786,
       "word": "女子乐山大佛头顶盘膝打坐",
@@ -241,6 +249,14 @@
       "onboard_time": 1680572250,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 728168,
+      "num": 430273,
+      "word": "林依晨看了都得愣一下",
+      "onboard_time": 1680603030,
+      "rank": 24,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 716821,
@@ -323,6 +339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 641145,
+      "num": 282424,
+      "word": "女孩跳江获救3名救援小伙溺亡",
+      "onboard_time": 1680602552,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 633250,
       "num": 633250,
       "word": "林青霞获颁香港大学荣誉博士学位",
@@ -393,14 +417,6 @@
       "onboard_time": 1680592888,
       "rank": 34,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 556981,
-      "num": 556981,
-      "word": "不要随便接陌生电话",
-      "onboard_time": 1680600631,
-      "rank": 43,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 552389,
@@ -569,14 +585,6 @@
       "onboard_time": 1680587969,
       "rank": 16,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 423661,
-      "num": 281039,
-      "word": "女孩跳江获救3名救援小伙溺亡",
-      "onboard_time": 1680602552,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 417982,
@@ -835,14 +843,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 271839,
-      "num": 271839,
-      "word": "林依晨看了都得愣一下",
-      "onboard_time": 1680603030,
-      "rank": 24,
-      "category": "艺人,幽默"
-    },
-    {
       "raw_hot": 271466,
       "num": 271466,
       "word": "下雨天是真的不想上班",
@@ -873,6 +873,14 @@
       "onboard_time": 1680581493,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 262960,
+      "num": 262960,
+      "word": "为什么总感觉今天是周五",
+      "onboard_time": 1680601650,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 260709,
@@ -963,14 +971,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 250755,
-      "num": 250755,
-      "word": "为什么总感觉今天是周五",
-      "onboard_time": 1680601650,
-      "rank": 27,
-      "category": "情感"
-    },
-    {
       "raw_hot": 242066,
       "num": 213051,
       "word": "上班上出了结婚的感觉",
@@ -1003,6 +1003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 224784,
+      "num": 224784,
+      "word": "最食人间烟火色",
+      "onboard_time": 1680602429,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 220152,
       "num": 213189,
       "word": "张钧甯阮经天合照",
@@ -1017,6 +1025,14 @@
       "onboard_time": 1680542179,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 216125,
+      "num": 216125,
+      "word": "代号鸢",
+      "onboard_time": 1680603930,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 215477,
@@ -1073,14 +1089,6 @@
       "onboard_time": 1680602909,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 207603,
-      "num": 207603,
-      "word": "最食人间烟火色",
-      "onboard_time": 1680602429,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 207089,
@@ -1219,6 +1227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193347,
+      "num": 193347,
+      "word": "长月烬明预约破400万",
+      "onboard_time": 1680604111,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 193251,
       "num": 193251,
       "word": "熊猫有多爱洗澡",
@@ -1353,6 +1369,14 @@
       "onboard_time": 1680570390,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180980,
+      "num": 180980,
+      "word": "养猫后形成的肌肉记忆",
+      "onboard_time": 1680601351,
+      "rank": 42,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 180673,
@@ -1491,6 +1515,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 164810,
+      "num": 164810,
+      "word": "陈若轩社恐式扫楼",
+      "onboard_time": 1680603870,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 164333,
       "num": 164333,
       "word": "柯南贝克街的亡灵预售破500万",
@@ -1513,14 +1545,6 @@
       "onboard_time": 1680530497,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 160834,
-      "num": 160834,
-      "word": "养猫后形成的肌肉记忆",
-      "onboard_time": 1680601351,
-      "rank": 42,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 160628,
@@ -1635,6 +1659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 145730,
+      "num": 145730,
+      "word": "小猫咪也有睡觉搭子了",
+      "onboard_time": 1680604229,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 142089,
       "num": 142089,
       "word": "迪士尼成立100周年宣传片",
@@ -1657,6 +1689,14 @@
       "onboard_time": 1680518796,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 140896,
+      "num": 140896,
+      "word": "债主获刑张继科会是共犯吗",
+      "onboard_time": 1680604291,
+      "rank": 49,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 140627,
@@ -1835,6 +1875,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 110740,
+      "num": 396814,
+      "word": "仅退款是维护消费者权益",
+      "onboard_time": 1680602429,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 106609,
       "num": 106609,
       "word": "他是谁结局",
@@ -1927,14 +1975,6 @@
       "num": 437012,
       "word": "过敏性鼻炎犯了有多难受",
       "onboard_time": 1680598830,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 76930,
-      "num": 347957,
-      "word": "仅退款是维护消费者权益",
-      "onboard_time": 1680602429,
       "rank": 14,
       "category": "社会新闻"
     },

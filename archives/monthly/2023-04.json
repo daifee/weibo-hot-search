@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680603496666,
+  "endTime": 1680604396379,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -579,6 +579,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1241786,
+      "num": 638733,
+      "word": "肖战电影",
+      "onboard_time": 1680601830,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1239189,
       "num": 1239189,
       "word": "小伙偷女友近4万供女友消费",
@@ -697,14 +705,6 @@
       "onboard_time": 1680339813,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1089322,
-      "num": 611654,
-      "word": "肖战电影",
-      "onboard_time": 1680601830,
-      "rank": 6,
-      "category": "影视"
     },
     {
       "raw_hot": 1088439,
@@ -1019,6 +1019,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 826984,
+      "num": 826984,
+      "word": "不要随便接陌生电话",
+      "onboard_time": 1680600631,
+      "rank": 43,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 812473,
       "num": 812473,
       "word": "周杰伦海口演唱会",
@@ -1145,6 +1153,14 @@
       "onboard_time": 1680503011,
       "rank": 16,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 728168,
+      "num": 430273,
+      "word": "林依晨看了都得愣一下",
+      "onboard_time": 1680603030,
+      "rank": 24,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 725902,
@@ -1393,6 +1409,14 @@
       "onboard_time": 1680580112,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 641145,
+      "num": 282424,
+      "word": "女孩跳江获救3名救援小伙溺亡",
+      "onboard_time": 1680602552,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 639539,
@@ -1673,14 +1697,6 @@
       "onboard_time": 1680275608,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 556981,
-      "num": 556981,
-      "word": "不要随便接陌生电话",
-      "onboard_time": 1680600631,
-      "rank": 43,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 556793,
@@ -2401,14 +2417,6 @@
       "onboard_time": 1680587969,
       "rank": 16,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 423661,
-      "num": 281039,
-      "word": "女孩跳江获救3名救援小伙溺亡",
-      "onboard_time": 1680602552,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 423067,
@@ -3635,14 +3643,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 271839,
-      "num": 271839,
-      "word": "林依晨看了都得愣一下",
-      "onboard_time": 1680603030,
-      "rank": 24,
-      "category": "艺人,幽默"
-    },
-    {
       "raw_hot": 271742,
       "num": 271742,
       "word": "年轻人为什么爱逛寺庙",
@@ -3769,6 +3769,14 @@
       "onboard_time": 1680581493,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 262960,
+      "num": 262960,
+      "word": "为什么总感觉今天是周五",
+      "onboard_time": 1680601650,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 262475,
@@ -3985,14 +3993,6 @@
       "onboard_time": 1680508350,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 250755,
-      "num": 250755,
-      "word": "为什么总感觉今天是周五",
-      "onboard_time": 1680601650,
-      "rank": 27,
-      "category": "情感"
     },
     {
       "raw_hot": 250598,
@@ -4321,6 +4321,14 @@
       "onboard_time": 1680493773,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 224784,
+      "num": 224784,
+      "word": "最食人间烟火色",
+      "onboard_time": 1680415527,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 224006,
@@ -4712,14 +4720,6 @@
       "word": "任嘉伦说武庚纪还有一个月杀青",
       "onboard_time": 1680430047,
       "rank": 31,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 207603,
-      "num": 207603,
-      "word": "最食人间烟火色",
-      "onboard_time": 1680415527,
-      "rank": 29,
       "category": "影视"
     },
     {
@@ -5491,6 +5491,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 193347,
+      "num": 193347,
+      "word": "长月烬明预约破400万",
+      "onboard_time": 1680604111,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 193313,
       "num": 193313,
       "word": "春日乐趣大会",
@@ -5969,6 +5977,14 @@
       "onboard_time": 1680350668,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 180980,
+      "num": 180980,
+      "word": "养猫后形成的肌肉记忆",
+      "onboard_time": 1680601351,
+      "rank": 42,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 180684,
@@ -6475,6 +6491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 164810,
+      "num": 164810,
+      "word": "陈若轩社恐式扫楼",
+      "onboard_time": 1680603870,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 163833,
       "num": 163833,
       "word": "特朗普被起诉激化美国两党对立情绪",
@@ -6521,14 +6545,6 @@
       "onboard_time": 1680390619,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 160834,
-      "num": 160834,
-      "word": "养猫后形成的肌肉记忆",
-      "onboard_time": 1680601351,
-      "rank": 42,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 160628,
@@ -7059,6 +7075,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 145730,
+      "num": 145730,
+      "word": "小猫咪也有睡觉搭子了",
+      "onboard_time": 1680604229,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 145524,
       "num": 137079,
       "word": "王鹤棣檀健次比耶合照",
@@ -7217,6 +7241,14 @@
       "onboard_time": 1680392299,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 140896,
+      "num": 140896,
+      "word": "债主获刑张继科会是共犯吗",
+      "onboard_time": 1680604291,
+      "rank": 49,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 140627,
@@ -7979,6 +8011,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 110740,
+      "num": 396814,
+      "word": "仅退款是维护消费者权益",
+      "onboard_time": 1680602429,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 109609,
       "num": 109609,
       "word": "KT对战HLE",
@@ -8447,14 +8487,6 @@
       "num": 437012,
       "word": "过敏性鼻炎犯了有多难受",
       "onboard_time": 1680598830,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 76930,
-      "num": 347957,
-      "word": "仅退款是维护消费者权益",
-      "onboard_time": 1680602429,
       "rank": 14,
       "category": "社会新闻"
     },
