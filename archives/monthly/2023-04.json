@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680571570278,
+  "endTime": 1680572911750,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -160,6 +160,14 @@
       "word": "张继科曾直播上厕所",
       "onboard_time": 1680520114,
       "rank": 26,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 2972144,
+      "num": 899288,
+      "word": "张继科的声明若有违事实是否需担责",
+      "onboard_time": 1680567390,
+      "rank": 3,
       "category": "社会新闻,艺人"
     },
     {
@@ -329,14 +337,6 @@
       "onboard_time": 1680491850,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1716849,
-      "num": 736115,
-      "word": "张继科的声明若有违事实是否需担责",
-      "onboard_time": 1680567390,
-      "rank": 3,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1610039,
@@ -851,6 +851,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 830963,
+      "num": 830963,
+      "word": "11岁女孩遭邻居猥亵杀害案新进展",
+      "onboard_time": 1680571408,
+      "rank": 41,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 812473,
       "num": 812473,
       "word": "周杰伦海口演唱会",
@@ -979,6 +987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 716821,
+      "num": 716821,
+      "word": "王楚钦世界排名升至第2",
+      "onboard_time": 1680569250,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 715671,
       "num": 715671,
       "word": "张国荣纪念音乐会",
@@ -1083,6 +1099,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 682753,
+      "num": 682753,
+      "word": "BLACKPINK或将全员续约YG",
+      "onboard_time": 1680570390,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 678671,
       "num": 678671,
       "word": "梁朝伟刘嘉玲深情怀念哥哥",
@@ -1097,14 +1121,6 @@
       "onboard_time": 1680312146,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 675755,
-      "num": 675755,
-      "word": "王楚钦世界排名升至第2",
-      "onboard_time": 1680569250,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 666592,
@@ -1193,6 +1209,14 @@
       "onboard_time": 1680499830,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 623715,
+      "num": 623715,
+      "word": "为什么从来不和爸妈分享日常",
+      "onboard_time": 1680567691,
+      "rank": 8,
+      "category": "情感"
     },
     {
       "raw_hot": 623610,
@@ -1683,14 +1707,6 @@
       "category": "情感,社会新闻"
     },
     {
-      "raw_hot": 480288,
-      "num": 480288,
-      "word": "为什么从来不和爸妈分享日常",
-      "onboard_time": 1680567691,
-      "rank": 8,
-      "category": "情感"
-    },
-    {
       "raw_hot": 479963,
       "num": 479963,
       "word": "特朗普计划今天飞纽约接受传讯",
@@ -1761,14 +1777,6 @@
       "onboard_time": 1680408267,
       "rank": 14,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 469240,
-      "num": 469240,
-      "word": "BLACKPINK或将全员续约YG",
-      "onboard_time": 1680570390,
-      "rank": 9,
-      "category": "艺人"
     },
     {
       "raw_hot": 464862,
@@ -2443,6 +2451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 344599,
+      "num": 344599,
+      "word": "女子接诈骗电话把骗子吓懵",
+      "onboard_time": 1680571226,
+      "rank": 36,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 344550,
       "num": 344550,
       "word": "TXT演唱会裤子",
@@ -2859,6 +2875,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 286934,
+      "num": 286934,
+      "word": "吴世勋新剧预告公开",
+      "onboard_time": 1680571889,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 286923,
       "num": 257113,
       "word": "白鹿说长月烬明是绝世大甜剧",
@@ -3209,6 +3233,14 @@
       "onboard_time": 1680492268,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 254181,
+      "num": 254181,
+      "word": "传播他人私密视频最高可判无期",
+      "onboard_time": 1680570329,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 254068,
@@ -3755,6 +3787,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 215261,
+      "num": 206080,
+      "word": "时尚先生编辑说肖战有人情味",
+      "onboard_time": 1680571110,
+      "rank": 30,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 215228,
       "num": 216031,
       "word": "愚人节",
@@ -4019,6 +4059,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 205219,
+      "num": 205219,
+      "word": "福建省考",
+      "onboard_time": 1680571170,
+      "rank": 26,
+      "category": "教育"
+    },
+    {
       "raw_hot": 205210,
       "num": 205210,
       "word": "陈都灵粉裙",
@@ -4137,14 +4185,6 @@
       "onboard_time": 1680502290,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 202955,
-      "num": 202955,
-      "word": "福建省考",
-      "onboard_time": 1680571170,
-      "rank": 26,
-      "category": "教育"
     },
     {
       "raw_hot": 202917,
@@ -4835,6 +4875,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 185924,
+      "num": 185924,
+      "word": "香椿炒鸡蛋",
+      "onboard_time": 1680572250,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 185519,
       "num": 185519,
       "word": "WB对战狼队",
@@ -4848,6 +4896,14 @@
       "word": "朱一龙四月海报",
       "onboard_time": 1680318029,
       "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 185169,
+      "num": 185169,
+      "word": "张含韵机场捡到李纯王菊假睫毛",
+      "onboard_time": 1680536974,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -4889,14 +4945,6 @@
       "onboard_time": 1680337653,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 184531,
-      "num": 173748,
-      "word": "张含韵机场捡到李纯王菊假睫毛",
-      "onboard_time": 1680536974,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 183834,
@@ -5099,14 +5147,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 175328,
-      "num": 175328,
-      "word": "时尚先生编辑说肖战有人情味",
-      "onboard_time": 1680571110,
-      "rank": 30,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 175274,
       "num": 175274,
       "word": "令人心动的人叫小张",
@@ -5137,6 +5177,14 @@
       "onboard_time": 1680419248,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 173414,
+      "num": 173414,
+      "word": "薄冰光影眼神杀",
+      "onboard_time": 1680572068,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 172963,
@@ -5531,6 +5579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158392,
+      "num": 158392,
+      "word": "特朗普抵达纽约曼哈顿",
+      "onboard_time": 1680572011,
+      "rank": 35,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 158255,
       "num": 158255,
       "word": "两个孤独症孩子母亲的自述",
@@ -5553,14 +5609,6 @@
       "onboard_time": 1680404487,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 158026,
-      "num": 158026,
-      "word": "传播他人私密视频最高可判无期",
-      "onboard_time": 1680570329,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 157513,
@@ -5803,14 +5851,6 @@
       "category": "国内要闻,军事"
     },
     {
-      "raw_hot": 149397,
-      "num": 149397,
-      "word": "女子接诈骗电话把骗子吓懵",
-      "onboard_time": 1680571226,
-      "rank": 36,
-      "category": "社会新闻,幽默"
-    },
-    {
       "raw_hot": 149390,
       "num": 149390,
       "word": "贾乃亮呼吁关注孤独症群体",
@@ -5881,6 +5921,14 @@
       "onboard_time": 1680277885,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 145841,
+      "num": 145841,
+      "word": "长月烬明德塔文待播剧景气指数第一",
+      "onboard_time": 1680572369,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 145747,
@@ -6435,14 +6483,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 124658,
-      "num": 124658,
-      "word": "11岁女孩遭邻居猥亵杀害案新进展",
-      "onboard_time": 1680571408,
-      "rank": 41,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 124269,
       "num": 124269,
       "word": "7年7万荣迷替张国荣公益募捐",
@@ -6771,6 +6811,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 107814,
+      "num": 107814,
+      "word": "不上班的年轻人是怎么搞钱的",
+      "onboard_time": 1680572849,
+      "rank": 43,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 107296,
       "num": 107296,
       "word": "石家庄马拉松",
@@ -6851,6 +6899,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 103542,
+      "num": 103542,
+      "word": "迪士尼成立100周年宣传片",
+      "onboard_time": 1680572849,
+      "rank": 45,
+      "category": "影视,旅游"
+    },
+    {
       "raw_hot": 103404,
       "num": 103404,
       "word": "短指症",
@@ -6865,6 +6921,14 @@
       "onboard_time": 1680271890,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 102764,
+      "num": 102764,
+      "word": "女子双腿绑14瓶茅台入境",
+      "onboard_time": 1680572849,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 102470,

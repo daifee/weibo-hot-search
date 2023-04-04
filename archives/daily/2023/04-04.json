@@ -1,6 +1,6 @@
 {
   "startTime": 1680538976202,
-  "endTime": 1680571570278,
+  "endTime": 1680572911750,
   "band_list": [
     {
       "raw_hot": 3162601,
@@ -11,8 +11,8 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 1716849,
-      "num": 736115,
+      "raw_hot": 2972144,
+      "num": 899288,
       "word": "张继科的声明若有违事实是否需担责",
       "onboard_time": 1680567390,
       "rank": 3,
@@ -51,16 +51,32 @@
       "category": "其它"
     },
     {
+      "raw_hot": 830963,
+      "num": 830963,
+      "word": "11岁女孩遭邻居猥亵杀害案新进展",
+      "onboard_time": 1680571408,
+      "rank": 41,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 774699,
-      "num": 276835,
+      "num": 603176,
       "word": "张继科不愿意处在风口浪尖上",
       "onboard_time": 1680513754,
       "rank": 6,
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 716821,
+      "num": 716821,
+      "word": "王楚钦世界排名升至第2",
+      "onboard_time": 1680569250,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 713685,
-      "num": 262181,
+      "num": 343048,
       "word": "张继科曾多次被曝涉赌",
       "onboard_time": 1680503971,
       "rank": 9,
@@ -75,12 +91,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 675755,
-      "num": 675755,
-      "word": "王楚钦世界排名升至第2",
-      "onboard_time": 1680569250,
-      "rank": 5,
-      "category": "体育"
+      "raw_hot": 682753,
+      "num": 682753,
+      "word": "BLACKPINK或将全员续约YG",
+      "onboard_time": 1680570390,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 633250,
@@ -89,6 +105,14 @@
       "onboard_time": 1680568531,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 623715,
+      "num": 623715,
+      "word": "为什么从来不和爸妈分享日常",
+      "onboard_time": 1680567691,
+      "rank": 8,
+      "category": "情感"
     },
     {
       "raw_hot": 552389,
@@ -113,22 +137,6 @@
       "onboard_time": 1680497915,
       "rank": 15,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 480288,
-      "num": 480288,
-      "word": "为什么从来不和爸妈分享日常",
-      "onboard_time": 1680567691,
-      "rank": 8,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 469240,
-      "num": 469240,
-      "word": "BLACKPINK或将全员续约YG",
-      "onboard_time": 1680570390,
-      "rank": 9,
-      "category": "艺人"
     },
     {
       "raw_hot": 442113,
@@ -179,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 344599,
+      "num": 344599,
+      "word": "女子接诈骗电话把骗子吓懵",
+      "onboard_time": 1680571226,
+      "rank": 36,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 317410,
       "num": 209078,
       "word": "韩国男爱豆猥亵队友被判刑",
@@ -188,7 +204,7 @@
     },
     {
       "raw_hot": 307643,
-      "num": 739883,
+      "num": 850434,
       "word": "一图看懂海南全岛封关意味着什么",
       "onboard_time": 1680526413,
       "rank": 2,
@@ -201,6 +217,14 @@
       "onboard_time": 1680525873,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 286934,
+      "num": 286934,
+      "word": "吴世勋新剧预告公开",
+      "onboard_time": 1680571889,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 285803,
@@ -233,6 +257,14 @@
       "onboard_time": 1680568711,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 254181,
+      "num": 254181,
+      "word": "传播他人私密视频最高可判无期",
+      "onboard_time": 1680570329,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 254098,
@@ -283,6 +315,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 215261,
+      "num": 206080,
+      "word": "时尚先生编辑说肖战有人情味",
+      "onboard_time": 1680571110,
+      "rank": 30,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 211457,
       "num": 211457,
       "word": "纸飞机突然不唯美了",
@@ -299,8 +339,8 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 202955,
-      "num": 202955,
+      "raw_hot": 205219,
+      "num": 205219,
       "word": "福建省考",
       "onboard_time": 1680571170,
       "rank": 26,
@@ -323,8 +363,16 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 184531,
-      "num": 173748,
+      "raw_hot": 185924,
+      "num": 185924,
+      "word": "香椿炒鸡蛋",
+      "onboard_time": 1680572250,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 185169,
+      "num": 185169,
       "word": "张含韵机场捡到李纯王菊假睫毛",
       "onboard_time": 1680536974,
       "rank": 30,
@@ -371,20 +419,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 175328,
-      "num": 175328,
-      "word": "时尚先生编辑说肖战有人情味",
-      "onboard_time": 1680571110,
-      "rank": 30,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 174399,
       "num": 164801,
       "word": "为什么父母辈不理解双休",
       "onboard_time": 1680520594,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 173414,
+      "num": 173414,
+      "word": "薄冰光影眼神杀",
+      "onboard_time": 1680572068,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 164333,
@@ -411,12 +459,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 158026,
-      "num": 158026,
-      "word": "传播他人私密视频最高可判无期",
-      "onboard_time": 1680570329,
-      "rank": 33,
-      "category": "社会新闻"
+      "raw_hot": 158392,
+      "num": 158392,
+      "word": "特朗普抵达纽约曼哈顿",
+      "onboard_time": 1680572011,
+      "rank": 35,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 157822,
@@ -435,12 +483,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 149397,
-      "num": 149397,
-      "word": "女子接诈骗电话把骗子吓懵",
-      "onboard_time": 1680571226,
-      "rank": 36,
-      "category": "社会新闻,幽默"
+      "raw_hot": 145841,
+      "num": 145841,
+      "word": "长月烬明德塔文待播剧景气指数第一",
+      "onboard_time": 1680572369,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 140915,
@@ -523,14 +571,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 124658,
-      "num": 124658,
-      "word": "11岁女孩遭邻居猥亵杀害案新进展",
-      "onboard_time": 1680571408,
-      "rank": 41,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 123018,
       "num": 123018,
       "word": "刘耀文预告新歌",
@@ -561,6 +601,14 @@
       "onboard_time": 1680533198,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 107814,
+      "num": 107814,
+      "word": "不上班的年轻人是怎么搞钱的",
+      "onboard_time": 1680572849,
+      "rank": 43,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 106609,
@@ -609,6 +657,22 @@
       "onboard_time": 1680523111,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 103542,
+      "num": 103542,
+      "word": "迪士尼成立100周年宣传片",
+      "onboard_time": 1680572849,
+      "rank": 45,
+      "category": "影视,旅游"
+    },
+    {
+      "raw_hot": 102764,
+      "num": 102764,
+      "word": "女子双腿绑14瓶茅台入境",
+      "onboard_time": 1680572849,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 100116,
