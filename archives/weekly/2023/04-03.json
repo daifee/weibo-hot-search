@@ -1,6 +1,6 @@
 {
   "startTime": 1680452464197,
-  "endTime": 1680579231064,
+  "endTime": 1680582039761,
   "band_list": [
     {
       "raw_hot": 9506486,
@@ -91,8 +91,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 3256068,
-      "num": 3256068,
+      "raw_hot": 3471973,
+      "num": 3471973,
       "word": "王刚清空账号解散粉丝群",
       "onboard_time": 1680576569,
       "rank": 10,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 3162601,
-      "num": 536182,
+      "num": 538565,
       "word": "S先生是谁",
       "onboard_time": 1680534816,
       "rank": 18,
@@ -259,6 +259,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1374355,
+      "num": 1374355,
+      "word": "乘风4初舞台排名",
+      "onboard_time": 1680576867,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1350707,
       "num": 1350707,
       "word": "8日起丫丫起居全部移交中方人员",
@@ -273,6 +281,14 @@
       "onboard_time": 1680571408,
       "rank": 41,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 1321851,
+      "num": 1321851,
+      "word": "特斯拉一夜暴跌2700亿",
+      "onboard_time": 1680578910,
+      "rank": 28,
+      "category": "财经"
     },
     {
       "raw_hot": 1317519,
@@ -377,14 +393,6 @@
       "onboard_time": 1680494072,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1034263,
-      "num": 1034263,
-      "word": "乘风4初舞台排名",
-      "onboard_time": 1680576867,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 1017908,
@@ -643,6 +651,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 665939,
+      "num": 665939,
+      "word": "90后女入殓师穿上寿衣大方展示",
+      "onboard_time": 1680574049,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 641320,
+      "num": 641320,
+      "word": "青春环游记4定档",
+      "onboard_time": 1680580112,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 639539,
       "num": 546082,
       "word": "王一博ins新增高尔夫关注",
@@ -745,14 +769,6 @@
       "onboard_time": 1680520774,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 573149,
-      "num": 573149,
-      "word": "90后女入殓师穿上寿衣大方展示",
-      "onboard_time": 1680574049,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 563401,
@@ -875,6 +891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 496015,
+      "num": 299527,
+      "word": "女子睡醒发现房顶被吹走",
+      "onboard_time": 1680577949,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 491719,
       "num": 491719,
       "word": "李微敖 张继科",
@@ -953,6 +977,14 @@
       "onboard_time": 1680496116,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 462904,
+      "num": 462904,
+      "word": "肖战起诉侵权网店获赔3.5万",
+      "onboard_time": 1680578546,
+      "rank": 18,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 459190,
@@ -1171,19 +1203,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 376462,
-      "num": 299527,
-      "word": "女子睡醒发现房顶被吹走",
-      "onboard_time": 1680577949,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 370545,
       "num": 370545,
       "word": "女儿继承父亲警号后听到呼叫泪崩",
       "onboard_time": 1680494496,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 368209,
+      "num": 295669,
+      "word": "陈延年陈乔年墓旁的桃花开了",
+      "onboard_time": 1680578428,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -1307,14 +1339,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 330777,
-      "num": 330777,
-      "word": "肖战起诉侵权网店获赔3.5万",
-      "onboard_time": 1680578546,
-      "rank": 18,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 329882,
       "num": 329882,
       "word": "赵露思王安宇直播状态",
@@ -1411,6 +1435,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 289322,
+      "num": 289322,
+      "word": "长月烬明一眼万年海报",
+      "onboard_time": 1680578609,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 287705,
       "num": 287705,
       "word": "娜扎环游世界芭莎大片",
@@ -1467,6 +1499,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 283564,
+      "num": 283564,
+      "word": "原来摸鱼也是有技巧的",
+      "onboard_time": 1680580229,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 280083,
       "num": 280083,
       "word": "女团univu5正式出道",
@@ -1507,6 +1547,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 271466,
+      "num": 271466,
+      "word": "下雨天是真的不想上班",
+      "onboard_time": 1680576867,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 271098,
       "num": 271098,
       "word": "柯南贝克街亡灵数字生命版预告",
@@ -1545,6 +1593,14 @@
       "onboard_time": 1680566308,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 263456,
+      "num": 263456,
+      "word": "光遇",
+      "onboard_time": 1680581493,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 262004,
@@ -1675,14 +1731,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 242934,
-      "num": 242934,
-      "word": "下雨天是真的不想上班",
-      "onboard_time": 1680576867,
-      "rank": 27,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 242540,
       "num": 242540,
       "word": "李雪琴说敷衍都会遭报应",
@@ -1739,6 +1787,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 226119,
+      "num": 226119,
+      "word": "铃芽之旅票房超你的名字",
+      "onboard_time": 1680581012,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 225391,
       "num": 225391,
       "word": "汪峰女儿小苹果自弹自唱",
@@ -1763,20 +1819,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 223341,
-      "num": 223341,
-      "word": "特斯拉一夜暴跌2700亿",
-      "onboard_time": 1680578910,
-      "rank": 28,
-      "category": "财经"
-    },
-    {
       "raw_hot": 221257,
       "num": 221257,
       "word": "薄冰剧情版预告",
       "onboard_time": 1680506130,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 220810,
+      "num": 220810,
+      "word": "刘雯秦岚同框",
+      "onboard_time": 1680579931,
+      "rank": 30,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 219849,
@@ -1987,6 +2043,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 204786,
+      "num": 204786,
+      "word": "2023KPL春季赛",
+      "onboard_time": 1680581012,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 204288,
       "num": 204288,
       "word": "真我发布会",
@@ -2083,6 +2147,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 200715,
+      "num": 200715,
+      "word": "狼队Hero包揽周最佳",
+      "onboard_time": 1680581734,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 200033,
       "num": 200033,
       "word": "时代少年团已进入训练阶段",
@@ -2123,6 +2195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 199176,
+      "num": 199176,
+      "word": "换了新耳机套被同事训斥",
+      "onboard_time": 1680580953,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 197002,
       "num": 186002,
       "word": "吃麻辣烫最省钱的操作",
@@ -2145,14 +2225,6 @@
       "onboard_time": 1680451114,
       "rank": 30,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 195994,
-      "num": 195994,
-      "word": "长月烬明一眼万年海报",
-      "onboard_time": 1680578609,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 195449,
@@ -2179,12 +2251,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 194534,
+      "num": 194534,
+      "word": "KPL春季赛第八周最佳阵容",
+      "onboard_time": 1680581671,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 194051,
       "num": 194051,
       "word": "肖战中华力量音频",
       "onboard_time": 1680524372,
       "rank": 37,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 193560,
+      "num": 193560,
+      "word": "代号鸢 养卡",
+      "onboard_time": 1680581852,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 193313,
@@ -2217,6 +2305,14 @@
       "onboard_time": 1680575848,
       "rank": 28,
       "category": "影视,军事"
+    },
+    {
+      "raw_hot": 191805,
+      "num": 180742,
+      "word": "非法债务不受法律保护",
+      "onboard_time": 1680580531,
+      "rank": 43,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 191752,
@@ -2347,14 +2443,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 179565,
-      "num": 179565,
-      "word": "陈延年陈乔年墓旁的桃花开了",
-      "onboard_time": 1680578428,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 179530,
       "num": 179530,
       "word": "陈乔恩晒她的三只狗狗",
@@ -2412,7 +2500,7 @@
     },
     {
       "raw_hot": 171182,
-      "num": 168918,
+      "num": 169535,
       "word": "如何评价张继科事件中求视频乱象",
       "onboard_time": 1680574649,
       "rank": 38,
@@ -2609,6 +2697,14 @@
       "onboard_time": 1680508592,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 154953,
+      "num": 154953,
+      "word": "于文文声生不息舞台预告",
+      "onboard_time": 1680581254,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 154907,
