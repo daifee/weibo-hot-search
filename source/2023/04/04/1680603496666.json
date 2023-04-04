@@ -1,0 +1,410 @@
+{
+  "runTime": 1680603496666,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1694327,
+        "num": 1694327,
+        "word": "苹果天气",
+        "onboard_time": 1680592951,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 651344,
+        "num": 651344,
+        "word": "华科大回应宿舍被雷劈",
+        "onboard_time": 1680597751,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135961,
+        "num": 620225,
+        "word": "永远记住你",
+        "onboard_time": 1680597571,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3561338,
+        "num": 620170,
+        "word": "超级小桀",
+        "onboard_time": 1680593910,
+        "rank": 3,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 2899046,
+        "num": 619112,
+        "word": "中国乒协证实张继科已退役",
+        "onboard_time": 1680598111,
+        "rank": 4,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 617547,
+        "num": 617547,
+        "word": "长月烬明 让妆",
+        "onboard_time": 1680590729,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1089322,
+        "num": 611654,
+        "word": "肖战电影",
+        "onboard_time": 1680601830,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 585397,
+        "num": 585397,
+        "word": "曾可妮 排名",
+        "onboard_time": 1680592409,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 556981,
+        "num": 556981,
+        "word": "不要随便接陌生电话",
+        "onboard_time": 1680600631,
+        "rank": 8,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 554055,
+        "num": 554055,
+        "word": "女子乐山大佛头顶盘膝打坐",
+        "onboard_time": 1680593429,
+        "rank": 9,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 883134,
+        "num": 551049,
+        "word": "胡先煦说真的没有快乐减肥",
+        "onboard_time": 1680599310,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 804243,
+        "num": 463412,
+        "word": "五问张继科事件",
+        "onboard_time": 1680592049,
+        "rank": 11,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 375508,
+        "num": 375508,
+        "word": "张继科的声明若有违事实是否需担责",
+        "onboard_time": 1680567390,
+        "rank": 12,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 357847,
+        "num": 357847,
+        "word": "摩羯座真的还蛮会照顾人的",
+        "onboard_time": 1680596130,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 76930,
+        "num": 347957,
+        "word": "仅退款是维护消费者权益",
+        "onboard_time": 1680602429,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 672319,
+        "num": 347649,
+        "word": "求张继科事件视频当心触法",
+        "onboard_time": 1680596971,
+        "rank": 15,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 345324,
+        "num": 345324,
+        "word": "崔始源肿么了",
+        "onboard_time": 1680584734,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 306520,
+        "num": 306520,
+        "word": "LNG对战OMG",
+        "onboard_time": 1680600990,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 298076,
+        "num": 298076,
+        "word": "小兰救柯南最后一跳",
+        "onboard_time": 1680596791,
+        "rank": 18,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 289423,
+        "num": 289423,
+        "word": "Amber 排名",
+        "onboard_time": 1680593311,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 461497,
+        "num": 286928,
+        "word": "离职半个月长出头发了",
+        "onboard_time": 1680594449,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 423661,
+        "num": 281039,
+        "word": "女孩跳江获救3名救援小伙溺亡",
+        "onboard_time": 1680602552,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320167,
+        "num": 277915,
+        "word": "事实证明衣服真的不能混洗",
+        "onboard_time": 1680598471,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 273347,
+        "num": 273347,
+        "word": "唐伯虎 乘风4",
+        "onboard_time": 1680586531,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271839,
+        "num": 271839,
+        "word": "林依晨看了都得愣一下",
+        "onboard_time": 1680603030,
+        "rank": 24,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 265286,
+        "num": 265286,
+        "word": "特朗普一旦定罪或被判4年",
+        "onboard_time": 1680592888,
+        "rank": 25,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 264802,
+        "num": 264802,
+        "word": "他是谁 烂尾",
+        "onboard_time": 1680582270,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 250755,
+        "num": 250755,
+        "word": "为什么总感觉今天是周五",
+        "onboard_time": 1680601650,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 250320,
+        "num": 250320,
+        "word": "减脂可以吃任何东西",
+        "onboard_time": 1680589947,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 248265,
+        "num": 248265,
+        "word": "达尔文盒饭厂",
+        "onboard_time": 1680597930,
+        "rank": 29,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 233944,
+        "num": 233944,
+        "word": "旅行回来把朋友拉黑了",
+        "onboard_time": 1680595109,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 208847,
+        "num": 208847,
+        "word": "乘风2023",
+        "onboard_time": 1680602909,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207603,
+        "num": 207603,
+        "word": "最食人间烟火色",
+        "onboard_time": 1680602429,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203103,
+        "num": 203103,
+        "word": "揭秘张继科进军综艺背后经纪公司",
+        "onboard_time": 1680597690,
+        "rank": 33,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 181174,
+        "num": 181174,
+        "word": "韩国空气酵母",
+        "onboard_time": 1680589649,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179887,
+        "num": 179887,
+        "word": "彩礼和嫁妆该不该对等",
+        "onboard_time": 1680584251,
+        "rank": 35,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 202796,
+        "num": 179883,
+        "word": "张继科事件能否掀起乒坛整风",
+        "onboard_time": 1680595771,
+        "rank": 36,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 173301,
+        "num": 173301,
+        "word": "中国女留学生在泰被杀3名嫌犯被逮捕",
+        "onboard_time": 1680586770,
+        "rank": 37,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 173232,
+        "num": 173232,
+        "word": "最食人间烟火色双向救赎",
+        "onboard_time": 1680600511,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171070,
+        "num": 171070,
+        "word": "罗一舟登场了北京中轴线剧照",
+        "onboard_time": 1680602493,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164465,
+        "num": 164465,
+        "word": "男孩扫墓跪求奶奶保佑不写作业不挨打",
+        "onboard_time": 1680591988,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162741,
+        "num": 162741,
+        "word": "王源演唱会",
+        "onboard_time": 1680587969,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 160834,
+        "num": 160834,
+        "word": "养猫后形成的肌肉记忆",
+        "onboard_time": 1680601351,
+        "rank": 42,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 159057,
+        "num": 159057,
+        "word": "高圆圆摩天轮游玩随拍",
+        "onboard_time": 1680598652,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156971,
+        "num": 156971,
+        "word": "张继科曾多次被曝涉赌",
+        "onboard_time": 1680503971,
+        "rank": 44,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 155777,
+        "num": 155777,
+        "word": "如梦之梦",
+        "onboard_time": 1680594628,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 145991,
+        "num": 145991,
+        "word": "薛之谦演唱会",
+        "onboard_time": 1680597870,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 147979,
+        "num": 141598,
+        "word": "安踏删除张继科宣传物料",
+        "onboard_time": 1680497915,
+        "rank": 47,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 136248,
+        "num": 136248,
+        "word": "Scout获常规赛MVP",
+        "onboard_time": 1680601230,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 121346,
+        "num": 121346,
+        "word": "保你平安票房破6亿",
+        "onboard_time": 1680603271,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#国际政要密集访华释放了什么信号#"
+    }
+  }
+}

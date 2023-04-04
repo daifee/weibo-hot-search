@@ -1,6 +1,6 @@
 {
   "startTime": 1680538976202,
-  "endTime": 1680600829837,
+  "endTime": 1680603496666,
   "band_list": [
     {
       "raw_hot": 4386600,
@@ -9,6 +9,14 @@
       "onboard_time": 1680592951,
       "rank": 17,
       "category": "科技"
+    },
+    {
+      "raw_hot": 3561338,
+      "num": 2533973,
+      "word": "超级小桀",
+      "onboard_time": 1680593910,
+      "rank": 4,
+      "category": "游戏"
     },
     {
       "raw_hot": 3471973,
@@ -43,20 +51,12 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 2863663,
+      "raw_hot": 2899046,
       "num": 2863663,
       "word": "中国乒协证实张继科已退役",
       "onboard_time": 1680598111,
       "rank": 3,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 2533973,
-      "num": 2533973,
-      "word": "超级小桀",
-      "onboard_time": 1680593910,
-      "rank": 4,
-      "category": "游戏"
     },
     {
       "raw_hot": 2318401,
@@ -155,6 +155,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1089322,
+      "num": 611654,
+      "word": "肖战电影",
+      "onboard_time": 1680601830,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1088439,
       "num": 1088439,
       "word": "电视剧199爱改名要久久爱",
@@ -193,6 +201,14 @@
       "onboard_time": 1680566068,
       "rank": 1,
       "category": "其它"
+    },
+    {
+      "raw_hot": 883134,
+      "num": 551049,
+      "word": "胡先煦说真的没有快乐减肥",
+      "onboard_time": 1680599310,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 879225,
@@ -275,12 +291,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 642538,
-      "num": 460809,
-      "word": "胡先煦说真的没有快乐减肥",
-      "onboard_time": 1680599310,
-      "rank": 32,
-      "category": "艺人"
+      "raw_hot": 672319,
+      "num": 417981,
+      "word": "求张继科事件视频当心触法",
+      "onboard_time": 1680596971,
+      "rank": 24,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 651344,
+      "num": 651344,
+      "word": "华科大回应宿舍被雷劈",
+      "onboard_time": 1680597751,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 642197,
@@ -347,14 +371,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 593420,
-      "num": 593420,
-      "word": "华科大回应宿舍被雷劈",
-      "onboard_time": 1680597751,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 586713,
       "num": 586713,
       "word": "摩羯座真的还蛮会照顾人的",
@@ -379,12 +395,12 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 568294,
-      "num": 417981,
-      "word": "求张继科事件视频当心触法",
-      "onboard_time": 1680596971,
-      "rank": 24,
-      "category": "社会新闻,艺人"
+      "raw_hot": 556981,
+      "num": 556981,
+      "word": "不要随便接陌生电话",
+      "onboard_time": 1680600631,
+      "rank": 43,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 552389,
@@ -553,6 +569,14 @@
       "onboard_time": 1680587969,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 423661,
+      "num": 281039,
+      "word": "女孩跳江获救3名救援小伙溺亡",
+      "onboard_time": 1680602552,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 417982,
@@ -739,6 +763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 306520,
+      "num": 306520,
+      "word": "LNG对战OMG",
+      "onboard_time": 1680600990,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 305906,
       "num": 305906,
       "word": "原来摸鱼也是有技巧的",
@@ -801,6 +833,14 @@
       "onboard_time": 1680582213,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 271839,
+      "num": 271839,
+      "word": "林依晨看了都得愣一下",
+      "onboard_time": 1680603030,
+      "rank": 24,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 271466,
@@ -923,6 +963,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 250755,
+      "num": 250755,
+      "word": "为什么总感觉今天是周五",
+      "onboard_time": 1680601650,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 242066,
       "num": 213051,
       "word": "上班上出了结婚的感觉",
@@ -1019,6 +1067,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 208847,
+      "num": 208847,
+      "word": "乘风2023",
+      "onboard_time": 1680602909,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 207603,
+      "num": 207603,
+      "word": "最食人间烟火色",
+      "onboard_time": 1680602429,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 207089,
       "num": 207089,
       "word": "家长为14岁娃办清华升学宴发现被骗",
@@ -1073,6 +1137,14 @@
       "onboard_time": 1680578970,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 203103,
+      "num": 203103,
+      "word": "揭秘张继科进军综艺背后经纪公司",
+      "onboard_time": 1680597690,
+      "rank": 35,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 202762,
@@ -1259,14 +1331,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 183033,
-      "num": 183033,
-      "word": "揭秘张继科进军综艺背后经纪公司",
-      "onboard_time": 1680597690,
-      "rank": 35,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 182451,
       "num": 182451,
       "word": "K宝入驻微博",
@@ -1355,6 +1419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 173232,
+      "num": 173232,
+      "word": "最食人间烟火色双向救赎",
+      "onboard_time": 1680600511,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 172611,
       "num": 172611,
       "word": "成年人的体面是假发片给的",
@@ -1369,6 +1441,14 @@
       "onboard_time": 1680574649,
       "rank": 38,
       "category": "社会议题,艺人"
+    },
+    {
+      "raw_hot": 171070,
+      "num": 171070,
+      "word": "罗一舟登场了北京中轴线剧照",
+      "onboard_time": 1680602493,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 168744,
@@ -1435,6 +1515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 160834,
+      "num": 160834,
+      "word": "养猫后形成的肌肉记忆",
+      "onboard_time": 1680601351,
+      "rank": 42,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 160628,
       "num": 168584,
       "word": "代号鸢周瑜",
@@ -1489,14 +1577,6 @@
       "onboard_time": 1680573567,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 152462,
-      "num": 152462,
-      "word": "最食人间烟火色双向救赎",
-      "onboard_time": 1680600511,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 152150,
@@ -1587,12 +1667,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 139361,
-      "num": 139361,
-      "word": "不要随便接陌生电话",
-      "onboard_time": 1680600631,
-      "rank": 43,
-      "category": "情感,幽默"
+      "raw_hot": 136248,
+      "num": 136248,
+      "word": "Scout获常规赛MVP",
+      "onboard_time": 1680601230,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 134732,
@@ -1696,6 +1776,14 @@
       "word": "第25届上海国际电影节官宣",
       "onboard_time": 1680585334,
       "rank": 48,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 121346,
+      "num": 121346,
+      "word": "保你平安票房破6亿",
+      "onboard_time": 1680603271,
+      "rank": 49,
       "category": "影视"
     },
     {
@@ -1839,6 +1927,14 @@
       "num": 437012,
       "word": "过敏性鼻炎犯了有多难受",
       "onboard_time": 1680598830,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 76930,
+      "num": 347957,
+      "word": "仅退款是维护消费者权益",
+      "onboard_time": 1680602429,
       "rank": 14,
       "category": "社会新闻"
     },
