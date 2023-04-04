@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680621484302,
+  "endTime": 1680622445338,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -449,6 +449,14 @@
       "onboard_time": 1680604291,
       "rank": 49,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1623765,
+      "num": 928645,
+      "word": "兰哀亲了",
+      "onboard_time": 1680620733,
+      "rank": 7,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 1610039,
@@ -1259,6 +1267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 739333,
+      "num": 462034,
+      "word": "惠英红 你信不信我揍你",
+      "onboard_time": 1680620314,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 737805,
       "num": 737805,
       "word": "BLG零封WBG",
@@ -1409,14 +1425,6 @@
       "onboard_time": 1680496416,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 688540,
-      "num": 688540,
-      "word": "兰哀亲了",
-      "onboard_time": 1680620733,
-      "rank": 7,
-      "category": "影视,动漫"
     },
     {
       "raw_hot": 688377,
@@ -2041,14 +2049,6 @@
       "onboard_time": 1680526533,
       "rank": 14,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 527615,
-      "num": 462034,
-      "word": "惠英红 你信不信我揍你",
-      "onboard_time": 1680620314,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 525508,
@@ -3675,6 +3675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 294149,
+      "num": 245292,
+      "word": "新兰",
+      "onboard_time": 1680621751,
+      "rank": 23,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 294134,
       "num": 234966,
       "word": "最不想收到的一笔退款",
@@ -4515,6 +4523,14 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 237109,
+      "num": 237109,
+      "word": "吴磊猛男娇羞",
+      "onboard_time": 1680620550,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 236735,
       "num": 220161,
       "word": "小学生继盘串后又流行起盘头",
@@ -4888,14 +4904,6 @@
       "word": "孤舟",
       "onboard_time": 1680496236,
       "rank": 40,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 214609,
-      "num": 214609,
-      "word": "吴磊猛男娇羞",
-      "onboard_time": 1680620550,
-      "rank": 31,
       "category": "影视"
     },
     {
@@ -6579,6 +6587,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 175763,
+      "num": 175763,
+      "word": "张含韵说我爱我的三十岁",
+      "onboard_time": 1680621452,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 175492,
       "num": 175492,
       "word": "王冰冰古装随拍",
@@ -6768,6 +6784,14 @@
       "word": "宋三川梁友安海边漫步",
       "onboard_time": 1680525153,
       "rank": 49,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 169051,
+      "num": 169051,
+      "word": "真人版芭比电影发布角色海报",
+      "onboard_time": 1680621271,
+      "rank": 47,
       "category": "影视"
     },
     {
@@ -8163,6 +8187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126069,
+      "num": 126069,
+      "word": "你是哪种方式扶眼镜",
+      "onboard_time": 1680619413,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 125945,
       "num": 125945,
       "word": "用古诗词解读刘亦菲",
@@ -8315,14 +8347,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 120359,
-      "num": 120359,
-      "word": "真人版芭比电影发布角色海报",
-      "onboard_time": 1680621271,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
       "raw_hot": 120069,
       "num": 120069,
       "word": "曼城vs利物浦",
@@ -8465,14 +8489,6 @@
       "onboard_time": 1680572970,
       "rank": 44,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 115847,
-      "num": 115847,
-      "word": "张含韵说我爱我的三十岁",
-      "onboard_time": 1680621452,
-      "rank": 48,
-      "category": "影视"
     },
     {
       "raw_hot": 113888,
@@ -9476,6 +9492,9 @@
     },
     {
       "word": "#开局之年共奋进#"
+    },
+    {
+      "word": "#我没忘记你就还在#"
     }
   ]
 }

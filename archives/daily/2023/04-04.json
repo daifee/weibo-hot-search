@@ -1,6 +1,6 @@
 {
   "startTime": 1680538976202,
-  "endTime": 1680621484302,
+  "endTime": 1680622445338,
   "band_list": [
     {
       "raw_hot": 4833498,
@@ -129,6 +129,14 @@
       "onboard_time": 1680604291,
       "rank": 49,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1623765,
+      "num": 928645,
+      "word": "兰哀亲了",
+      "onboard_time": 1680620733,
+      "rank": 7,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 1581630,
@@ -379,6 +387,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 739333,
+      "num": 462034,
+      "word": "惠英红 你信不信我揍你",
+      "onboard_time": 1680620314,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 727599,
       "num": 486300,
       "word": "小妈文学拍成剧了",
@@ -417,14 +433,6 @@
       "onboard_time": 1680574049,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 688540,
-      "num": 688540,
-      "word": "兰哀亲了",
-      "onboard_time": 1680620733,
-      "rank": 7,
-      "category": "影视,动漫"
     },
     {
       "raw_hot": 686502,
@@ -633,14 +641,6 @@
       "onboard_time": 1680584074,
       "rank": 17,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 527615,
-      "num": 462034,
-      "word": "惠英红 你信不信我揍你",
-      "onboard_time": 1680620314,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 524927,
@@ -1067,6 +1067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 294149,
+      "num": 245292,
+      "word": "新兰",
+      "onboard_time": 1680621751,
+      "rank": 23,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 289322,
       "num": 289322,
       "word": "长月烬明一眼万年海报",
@@ -1331,6 +1339,14 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 237109,
+      "num": 237109,
+      "word": "吴磊猛男娇羞",
+      "onboard_time": 1680620550,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 230080,
       "num": 214880,
       "word": "云襄传",
@@ -1409,14 +1425,6 @@
       "onboard_time": 1680571110,
       "rank": 30,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 214609,
-      "num": 214609,
-      "word": "吴磊猛男娇羞",
-      "onboard_time": 1680620550,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 213704,
@@ -1891,6 +1899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 175763,
+      "num": 175763,
+      "word": "张含韵说我爱我的三十岁",
+      "onboard_time": 1680621452,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 175073,
       "num": 175073,
       "word": "文俊辉洪知秀将出演超回",
@@ -1961,6 +1977,14 @@
       "onboard_time": 1680606869,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 169051,
+      "num": 169051,
+      "word": "真人版芭比电影发布角色海报",
+      "onboard_time": 1680621271,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 168744,
@@ -2323,6 +2347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 126069,
+      "num": 126069,
+      "word": "你是哪种方式扶眼镜",
+      "onboard_time": 1680619413,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 125909,
       "num": 125909,
       "word": "明日清明",
@@ -2371,14 +2403,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 120359,
-      "num": 120359,
-      "word": "真人版芭比电影发布角色海报",
-      "onboard_time": 1680621271,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
       "raw_hot": 117155,
       "num": 117155,
       "word": "为什么很多人向往一个人旅行",
@@ -2393,14 +2417,6 @@
       "onboard_time": 1680572970,
       "rank": 44,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 115847,
-      "num": 115847,
-      "word": "张含韵说我爱我的三十岁",
-      "onboard_time": 1680621452,
-      "rank": 48,
-      "category": "影视"
     },
     {
       "raw_hot": 115727,
@@ -2651,6 +2667,9 @@
     },
     {
       "word": "#开局之年共奋进#"
+    },
+    {
+      "word": "#我没忘记你就还在#"
     }
   ]
 }
