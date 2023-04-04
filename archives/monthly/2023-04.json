@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680612608143,
+  "endTime": 1680614468790,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -307,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2313982,
+      "num": 2313982,
+      "word": "果然娱乐回应小鬼被抄袭",
+      "onboard_time": 1680612150,
+      "rank": 28,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 2296658,
       "num": 1741903,
       "word": "22岁女生在泰国遭绑架虐杀",
@@ -416,6 +424,14 @@
       "word": "律师解读张继科景甜视频风波",
       "onboard_time": 1680437067,
       "rank": 13,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1581630,
+      "num": 1581630,
+      "word": "姜广涛配音的影视剧角色会下架吗",
+      "onboard_time": 1680610229,
+      "rank": 5,
       "category": "社会新闻,艺人"
     },
     {
@@ -627,14 +643,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1196101,
-      "num": 1196101,
-      "word": "姜广涛配音的影视剧角色会下架吗",
-      "onboard_time": 1680610229,
-      "rank": 5,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 1192024,
       "num": 976342,
       "word": "张继科联合创立的茶饮品牌已成老赖",
@@ -665,6 +673,14 @@
       "onboard_time": 1680494855,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1153403,
+      "num": 1153403,
+      "word": "OMG战胜LNG",
+      "onboard_time": 1680613171,
+      "rank": 3,
+      "category": "游戏"
     },
     {
       "raw_hot": 1151356,
@@ -841,6 +857,14 @@
       "onboard_time": 1680483452,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 956078,
+      "num": 243181,
+      "word": "抖音崩了",
+      "onboard_time": 1680613830,
+      "rank": 30,
+      "category": "科技"
     },
     {
       "raw_hot": 955249,
@@ -1043,6 +1067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 838525,
+      "num": 355828,
+      "word": "张佳宁点痣了",
+      "onboard_time": 1680609390,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 837448,
       "num": 375683,
       "word": "女子坐飞机意外发现自己包机了",
@@ -1097,14 +1129,6 @@
       "onboard_time": 1680605249,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 788752,
-      "num": 355828,
-      "word": "张佳宁点痣了",
-      "onboard_time": 1680609390,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 786782,
@@ -1217,6 +1241,14 @@
       "onboard_time": 1680498035,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 725365,
+      "num": 454104,
+      "word": "国家体育总局乒羽中心回应张继科事件",
+      "onboard_time": 1680613351,
+      "rank": 10,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 723604,
@@ -1388,7 +1420,7 @@
     },
     {
       "raw_hot": 672319,
-      "num": 431342,
+      "num": 449413,
       "word": "求张继科事件视频当心触法",
       "onboard_time": 1680596971,
       "rank": 24,
@@ -1865,6 +1897,14 @@
       "onboard_time": 1680271050,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 540294,
+      "num": 452455,
+      "word": "你想要双休还是凑小长假",
+      "onboard_time": 1680613650,
+      "rank": 11,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 540082,
@@ -2571,6 +2611,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 417880,
+      "num": 314587,
+      "word": "学生趴睡手指压出淤血变紫",
+      "onboard_time": 1680608910,
+      "rank": 24,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 416697,
       "num": 382805,
       "word": "力灿承认曾性骚扰",
@@ -2921,14 +2969,6 @@
       "onboard_time": 1680578428,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 367733,
-      "num": 314587,
-      "word": "学生趴睡手指压出淤血变紫",
-      "onboard_time": 1680608910,
-      "rank": 24,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 367380,
@@ -3635,14 +3675,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 285345,
-      "num": 285345,
-      "word": "果然娱乐回应小鬼被抄袭",
-      "onboard_time": 1680612150,
-      "rank": 28,
-      "category": "艺人,幽默"
-    },
-    {
       "raw_hot": 285224,
       "num": 243670,
       "word": "张小斐的锁骨痣",
@@ -3969,6 +4001,14 @@
       "onboard_time": 1680273810,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 259160,
+      "num": 259160,
+      "word": "鹭卓否认抄袭",
+      "onboard_time": 1680613351,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 258886,
@@ -6091,6 +6131,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 184384,
+      "num": 184384,
+      "word": "影院reaction已经假出境界了",
+      "onboard_time": 1680610951,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 183917,
       "num": 183917,
       "word": "IU朴宝剑新剧将在网飞播出",
@@ -6323,6 +6371,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 176606,
+      "num": 176606,
+      "word": "网购沙发拆开发现是纸片做的",
+      "onboard_time": 1680612931,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 176544,
       "num": 176544,
       "word": "林俊杰晒电梯自拍",
@@ -6411,14 +6467,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 172883,
-      "num": 172883,
-      "word": "影院reaction已经假出境界了",
-      "onboard_time": 1680610951,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 172611,
       "num": 172611,
       "word": "成年人的体面是假发片给的",
@@ -6433,6 +6481,14 @@
       "onboard_time": 1680421468,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 171592,
+      "num": 171592,
+      "word": "为什么总被说湿气重",
+      "onboard_time": 1680613951,
+      "rank": 39,
+      "category": "其它"
     },
     {
       "raw_hot": 171543,
@@ -7419,6 +7475,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 143017,
+      "num": 143017,
+      "word": "种地吧",
+      "onboard_time": 1680612209,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 142941,
       "num": 142941,
       "word": "电竞人主打一个反差",
@@ -8017,14 +8081,6 @@
       "onboard_time": 1680435147,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 121096,
-      "num": 121096,
-      "word": "种地吧",
-      "onboard_time": 1680612209,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 121078,
@@ -8907,6 +8963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 65472,
+      "num": 1297716,
+      "word": "清明给英烈写句话",
+      "onboard_time": 1680611790,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 63920,
       "num": 63920,
       "word": "4月开机的电视剧",
@@ -9009,14 +9073,6 @@
       "onboard_time": 1680468310,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 43778,
-      "num": 647688,
-      "word": "清明给英烈写句话",
-      "onboard_time": 1680611790,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 39982,
