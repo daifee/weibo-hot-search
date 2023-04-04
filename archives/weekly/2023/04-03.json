@@ -1,6 +1,6 @@
 {
   "startTime": 1680452464197,
-  "endTime": 1680606841049,
+  "endTime": 1680608006027,
   "band_list": [
     {
       "raw_hot": 9506486,
@@ -388,7 +388,7 @@
     },
     {
       "raw_hot": 1277776,
-      "num": 430273,
+      "num": 480081,
       "word": "林依晨看了都得愣一下",
       "onboard_time": 1680603030,
       "rank": 24,
@@ -433,6 +433,14 @@
       "onboard_time": 1680494855,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1174586,
+      "num": 479200,
+      "word": "债主获刑张继科会是共犯吗",
+      "onboard_time": 1680604291,
+      "rank": 49,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1145139,
@@ -513,14 +521,6 @@
       "onboard_time": 1680584251,
       "rank": 8,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 964993,
-      "num": 390250,
-      "word": "债主获刑张继科会是共犯吗",
-      "onboard_time": 1680604291,
-      "rank": 49,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 959032,
@@ -891,6 +891,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 624703,
+      "num": 478894,
+      "word": "泰坦尼克号Rose床头的照片",
+      "onboard_time": 1680605610,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 624364,
       "num": 624364,
       "word": "警方通报上海一男子因纠纷杀害妻子",
@@ -913,6 +921,14 @@
       "onboard_time": 1680591988,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 618232,
+      "num": 618232,
+      "word": "李雪琴吐槽报销流程",
+      "onboard_time": 1680605249,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 609798,
@@ -1067,14 +1083,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 536084,
-      "num": 389327,
-      "word": "泰坦尼克号Rose床头的照片",
-      "onboard_time": 1680605610,
-      "rank": 12,
-      "category": "影视"
-    },
-    {
       "raw_hot": 535841,
       "num": 535841,
       "word": "300一杯天价柠檬茶商家被罚20万",
@@ -1089,14 +1097,6 @@
       "onboard_time": 1680526533,
       "rank": 14,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 529525,
-      "num": 529525,
-      "word": "李雪琴吐槽报销流程",
-      "onboard_time": 1680605249,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 525045,
@@ -1187,6 +1187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 488861,
+      "num": 488861,
+      "word": "马英九向张自忠敬献花圈",
+      "onboard_time": 1680605968,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 487727,
       "num": 298573,
       "word": "张继科代理律师称现阶段不便发声",
@@ -1251,6 +1259,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 477430,
+      "num": 477430,
+      "word": "爱情而已三分钟在今晚",
+      "onboard_time": 1680606452,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 475715,
       "num": 475715,
       "word": "长月烬明羽绒服",
@@ -1305,6 +1321,14 @@
       "onboard_time": 1680479308,
       "rank": 9,
       "category": "情感"
+    },
+    {
+      "raw_hot": 457350,
+      "num": 216595,
+      "word": "小妈文学拍成剧了",
+      "onboard_time": 1680606869,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 450743,
@@ -1408,6 +1432,14 @@
       "word": "NewJeans新曲Zero",
       "onboard_time": 1680514112,
       "rank": 30,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 410090,
+      "num": 410090,
+      "word": "Billlie初一位",
+      "onboard_time": 1680606030,
+      "rank": 19,
       "category": "音乐"
     },
     {
@@ -1731,14 +1763,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 333867,
-      "num": 333867,
-      "word": "Billlie初一位",
-      "onboard_time": 1680606030,
-      "rank": 19,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 331910,
       "num": 331910,
       "word": "毛晓彤簪花女造型",
@@ -1793,14 +1817,6 @@
       "onboard_time": 1680595109,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 324417,
-      "num": 324417,
-      "word": "马英九向张自忠敬献花圈",
-      "onboard_time": 1680605968,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 323015,
@@ -1955,12 +1971,28 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 281918,
+      "num": 281918,
+      "word": "叶舒华说公司不会管控体重",
+      "onboard_time": 1680606990,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 280083,
       "num": 280083,
       "word": "女团univu5正式出道",
       "onboard_time": 1680498992,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 279101,
+      "num": 279101,
+      "word": "贝克街的亡灵",
+      "onboard_time": 1680607353,
+      "rank": 23,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 278833,
@@ -2291,14 +2323,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 234341,
-      "num": 234341,
-      "word": "爱情而已三分钟在今晚",
-      "onboard_time": 1680606452,
-      "rank": 28,
-      "category": "影视"
-    },
-    {
       "raw_hot": 234142,
       "num": 187443,
       "word": "赵丽颖又瘦了",
@@ -2435,6 +2459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 217436,
+      "num": 217436,
+      "word": "半熟恋人2全员告白",
+      "onboard_time": 1680606390,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 215261,
       "num": 206080,
       "word": "时尚先生编辑说肖战有人情味",
@@ -2537,6 +2569,14 @@
       "onboard_time": 1680568110,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 211339,
+      "num": 211339,
+      "word": "四肢发达的张杰周边",
+      "onboard_time": 1680606869,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 210243,
@@ -3067,6 +3107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 186997,
+      "num": 186997,
+      "word": "张云龙顺着网线买单",
+      "onboard_time": 1680607471,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 186898,
       "num": 186898,
       "word": "易烊千玺沙漠花絮",
@@ -3171,6 +3219,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 180958,
+      "num": 180958,
+      "word": "小猫咪也有睡觉搭子了",
+      "onboard_time": 1680604229,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 180673,
       "num": 180673,
       "word": "NCAA总决赛",
@@ -3267,14 +3323,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 172134,
-      "num": 172134,
-      "word": "半熟恋人2全员告白",
-      "onboard_time": 1680606390,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 171425,
       "num": 171425,
       "word": "坂本龙一与癌症抗争9年",
@@ -3313,6 +3361,14 @@
       "onboard_time": 1680417569,
       "rank": 33,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 169937,
+      "num": 169937,
+      "word": "你拥有拒绝别人的勇气吗",
+      "onboard_time": 1680606869,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 169903,
@@ -3441,14 +3497,6 @@
       "onboard_time": 1680524853,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 162359,
-      "num": 162359,
-      "word": "小猫咪也有睡觉搭子了",
-      "onboard_time": 1680604229,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 160628,
@@ -3625,6 +3673,14 @@
       "onboard_time": 1680481710,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 151251,
+      "num": 151251,
+      "word": "邓家佳新剧表情戏",
+      "onboard_time": 1680607828,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 150530,
