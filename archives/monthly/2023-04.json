@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680622445338,
+  "endTime": 1680625388129,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -1851,6 +1851,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 569422,
+      "num": 569422,
+      "word": "95后寿衣模特回应被说阴气重",
+      "onboard_time": 1680614552,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 568517,
       "num": 568517,
       "word": "特朗普一旦定罪或被判4年",
@@ -1865,14 +1873,6 @@
       "onboard_time": 1680436347,
       "rank": 1,
       "category": "美食"
-    },
-    {
-      "raw_hot": 563622,
-      "num": 498383,
-      "word": "95后寿衣模特回应被说阴气重",
-      "onboard_time": 1680614552,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 563401,
@@ -2827,6 +2827,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 402370,
+      "num": 402370,
+      "word": "他是谁豆瓣降至6.6分",
+      "onboard_time": 1680622769,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 398253,
       "num": 398253,
       "word": "Hero战胜eStar",
@@ -3539,6 +3547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 311342,
+      "num": 245292,
+      "word": "新兰",
+      "onboard_time": 1680621751,
+      "rank": 23,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 309102,
       "num": 309102,
       "word": "原来鲨鱼卵长这样",
@@ -3673,14 +3689,6 @@
       "onboard_time": 1680408627,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 294149,
-      "num": 245292,
-      "word": "新兰",
-      "onboard_time": 1680621751,
-      "rank": 23,
-      "category": "影视,动漫"
     },
     {
       "raw_hot": 294134,
@@ -4225,6 +4233,14 @@
       "onboard_time": 1680579931,
       "rank": 30,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 255845,
+      "num": 204948,
+      "word": "养过一次狗后再也不想养了",
+      "onboard_time": 1680620672,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 255843,
@@ -5675,6 +5691,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 198871,
+      "num": 198871,
+      "word": "真人版芭比电影发布角色海报",
+      "onboard_time": 1680621271,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 198741,
       "num": 193573,
       "word": "孟子义你好星期六剧照",
@@ -5769,6 +5793,14 @@
       "onboard_time": 1680354510,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 197123,
+      "num": 127669,
+      "word": "WBG的训练赛",
+      "onboard_time": 1680623970,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 197075,
@@ -6784,14 +6816,6 @@
       "word": "宋三川梁友安海边漫步",
       "onboard_time": 1680525153,
       "rank": 49,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 169051,
-      "num": 169051,
-      "word": "真人版芭比电影发布角色海报",
-      "onboard_time": 1680621271,
-      "rank": 47,
       "category": "影视"
     },
     {
@@ -8993,6 +9017,14 @@
       "onboard_time": 1680406468,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 86982,
+      "num": 86982,
+      "word": "你想不到的小说作者主业",
+      "onboard_time": 1680625226,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 86947,
