@@ -1,6 +1,6 @@
 {
   "startTime": 1680625388129,
-  "endTime": 1680640420226,
+  "endTime": 1680642895778,
   "band_list": [
     {
       "raw_hot": 3423974,
@@ -441,6 +441,14 @@
       "onboard_time": 1680627741,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 29646,
+      "num": 18589,
+      "word": "你会忍着拥挤的烦恼出游吗",
+      "onboard_time": 1680641351,
+      "rank": 31,
+      "category": "社会议题,旅游"
     },
     {
       "raw_hot": 14938,
