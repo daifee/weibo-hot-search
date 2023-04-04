@@ -1,6 +1,6 @@
 {
   "startTime": 1680538976202,
-  "endTime": 1680617834539,
+  "endTime": 1680618811485,
   "band_list": [
     {
       "raw_hot": 4386600,
@@ -59,8 +59,16 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 2357707,
-      "num": 1351993,
+      "raw_hot": 2872630,
+      "num": 2872630,
+      "word": "柯哀亲了",
+      "onboard_time": 1680617614,
+      "rank": 24,
+      "category": "动漫,影视"
+    },
+    {
+      "raw_hot": 2601228,
+      "num": 1495467,
       "word": "国家体育总局乒羽中心回应张继科事件",
       "onboard_time": 1680613351,
       "rank": 10,
@@ -107,7 +115,7 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 1714389,
+      "raw_hot": 1865561,
       "num": 472269,
       "word": "张佳宁点痣了",
       "onboard_time": 1680609390,
@@ -251,6 +259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1076657,
+      "num": 1076657,
+      "word": "青山刚昌",
+      "onboard_time": 1680617553,
+      "rank": 27,
+      "category": "动漫,影视"
+    },
+    {
       "raw_hot": 1064588,
       "num": 203941,
       "word": "张继科曾直播上厕所",
@@ -307,12 +323,28 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 843954,
+      "num": 461769,
+      "word": "运动员退役必须要官宣吗",
+      "onboard_time": 1680615933,
+      "rank": 11,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 799786,
       "num": 799786,
       "word": "女子乐山大佛头顶盘膝打坐",
       "onboard_time": 1680593429,
       "rank": 49,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 795051,
+      "num": 795051,
+      "word": "芬兰正式成为北约第31个成员国",
+      "onboard_time": 1680616652,
+      "rank": 6,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 793685,
@@ -345,14 +377,6 @@
       "onboard_time": 1680606869,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 718591,
-      "num": 461769,
-      "word": "运动员退役必须要官宣吗",
-      "onboard_time": 1680615933,
-      "rank": 11,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 716821,
@@ -507,6 +531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 590896,
+      "num": 590896,
+      "word": "名侦探柯南黑铁的鱼影",
+      "onboard_time": 1680617013,
+      "rank": 12,
+      "category": "动漫,影视"
+    },
+    {
       "raw_hot": 586713,
       "num": 586713,
       "word": "摩羯座真的还蛮会照顾人的",
@@ -539,6 +571,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 563622,
+      "num": 279825,
+      "word": "95后寿衣模特回应被说阴气重",
+      "onboard_time": 1680614552,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 552389,
       "num": 552389,
       "word": "王一博出道前英文rap",
@@ -563,28 +603,12 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 537848,
-      "num": 278624,
-      "word": "95后寿衣模特回应被说阴气重",
-      "onboard_time": 1680614552,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 535841,
       "num": 535841,
       "word": "300一杯天价柠檬茶商家被罚20万",
       "onboard_time": 1680584074,
       "rank": 17,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 529237,
-      "num": 529237,
-      "word": "芬兰正式成为北约第31个成员国",
-      "onboard_time": 1680616652,
-      "rank": 6,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 524927,
@@ -723,14 +747,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 449514,
-      "num": 449514,
-      "word": "名侦探柯南黑铁的鱼影",
-      "onboard_time": 1680617013,
-      "rank": 12,
-      "category": "动漫,影视"
-    },
-    {
       "raw_hot": 442113,
       "num": 213257,
       "word": "刘维 户口本上只有我自己了",
@@ -817,6 +833,14 @@
       "onboard_time": 1680512909,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 404214,
+      "num": 396953,
+      "word": "律师建议张继科不要逃避",
+      "onboard_time": 1680617313,
+      "rank": 35,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 395501,
@@ -1035,6 +1059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 282644,
+      "num": 282644,
+      "word": "把一群i人凑在一起",
+      "onboard_time": 1680617071,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 278833,
       "num": 278833,
       "word": "代号鸢",
@@ -1073,14 +1105,6 @@
       "onboard_time": 1680576867,
       "rank": 27,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 267599,
-      "num": 267599,
-      "word": "柯哀亲了",
-      "onboard_time": 1680617614,
-      "rank": 24,
-      "category": "动漫,影视"
     },
     {
       "raw_hot": 263884,
@@ -1171,6 +1195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 257943,
+      "num": 257943,
+      "word": "LPL春季赛四强确定",
+      "onboard_time": 1680614972,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 257891,
       "num": 257891,
       "word": "孔雪儿高颅顶发型教程",
@@ -1219,12 +1251,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 251926,
-      "num": 251926,
-      "word": "LPL春季赛四强确定",
-      "onboard_time": 1680614972,
-      "rank": 49,
-      "category": "游戏"
+      "raw_hot": 252758,
+      "num": 252758,
+      "word": "特朗普接受传讯现场",
+      "onboard_time": 1680616532,
+      "rank": 32,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 251759,
@@ -1233,14 +1265,6 @@
       "onboard_time": 1680586469,
       "rank": 23,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 249004,
-      "num": 249004,
-      "word": "青山刚昌",
-      "onboard_time": 1680617553,
-      "rank": 27,
-      "category": "动漫,影视"
     },
     {
       "raw_hot": 242066,
@@ -1267,14 +1291,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 238273,
-      "num": 238273,
-      "word": "特朗普接受传讯现场",
-      "onboard_time": 1680616532,
-      "rank": 32,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 237956,
       "num": 237956,
       "word": "Amber小跑和黄晓明握手",
@@ -1291,11 +1307,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 228290,
+      "num": 228290,
+      "word": "IVE正规专预告照",
+      "onboard_time": 1680618575,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 227590,
       "num": 227590,
       "word": "NewJeans将于夏天回归",
       "onboard_time": 1680585689,
       "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 227463,
+      "num": 227463,
+      "word": "张大大西安",
+      "onboard_time": 1680617912,
+      "rank": 33,
       "category": "艺人"
     },
     {
@@ -1321,14 +1353,6 @@
       "onboard_time": 1680542179,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 217702,
-      "num": 217702,
-      "word": "律师建议张继科不要逃避",
-      "onboard_time": 1680617313,
-      "rank": 35,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 217436,
@@ -1467,20 +1491,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 204039,
-      "num": 204039,
-      "word": "把一群i人凑在一起",
-      "onboard_time": 1680617071,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 203426,
       "num": 203426,
       "word": "你会选择迂回式恋爱么",
       "onboard_time": 1680578970,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 203319,
+      "num": 203319,
+      "word": "一诺伽罗四连超凡",
+      "onboard_time": 1680618575,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 203103,
@@ -1497,6 +1521,14 @@
       "onboard_time": 1680581734,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 202663,
+      "num": 202663,
+      "word": "简单又好看的盘发教程",
+      "onboard_time": 1680618455,
+      "rank": 39,
+      "category": "美妆,时尚"
     },
     {
       "raw_hot": 202398,
@@ -1945,6 +1977,14 @@
       "onboard_time": 1680603870,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 164424,
+      "num": 164424,
+      "word": "五月天高雄vlog",
+      "onboard_time": 1680618334,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 164333,
@@ -2468,7 +2508,7 @@
     },
     {
       "raw_hot": 65472,
-      "num": 1352384,
+      "num": 1496102,
       "word": "清明给英烈写句话",
       "onboard_time": 1680611790,
       "rank": 2,
