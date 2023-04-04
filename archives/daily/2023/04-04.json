@@ -1,6 +1,6 @@
 {
   "startTime": 1680538976202,
-  "endTime": 1680593607372,
+  "endTime": 1680596522980,
   "band_list": [
     {
       "raw_hot": 3471973,
@@ -9,6 +9,22 @@
       "onboard_time": 1680576569,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3462430,
+      "num": 3462430,
+      "word": "苹果天气",
+      "onboard_time": 1680592951,
+      "rank": 17,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 3212571,
+      "num": 3212571,
+      "word": "华科大宿舍被雷劈了",
+      "onboard_time": 1680591207,
+      "rank": 0,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 3162601,
@@ -25,14 +41,6 @@
       "onboard_time": 1680567390,
       "rank": 3,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 2541503,
-      "num": 2541503,
-      "word": "华科大宿舍被雷劈了",
-      "onboard_time": 1680591207,
-      "rank": 0,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 2318401,
@@ -83,6 +91,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1430909,
+      "num": 1430909,
+      "word": "五问张继科事件",
+      "onboard_time": 1680592049,
+      "rank": 9,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1374355,
       "num": 1374355,
       "word": "乘风4初舞台排名",
@@ -97,14 +113,6 @@
       "onboard_time": 1680571408,
       "rank": 41,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 1248643,
-      "num": 1248643,
-      "word": "五问张继科事件",
-      "onboard_time": 1680592049,
-      "rank": 9,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1184693,
@@ -147,12 +155,28 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1037508,
+      "num": 1037508,
+      "word": "超级小桀",
+      "onboard_time": 1680593910,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 974892,
       "num": 974892,
       "word": "彩礼和嫁妆该不该对等",
       "onboard_time": 1680584251,
       "rank": 8,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 925827,
+      "num": 925827,
+      "word": "曾可妮 排名",
+      "onboard_time": 1680592409,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 913030,
@@ -227,6 +251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 684790,
+      "num": 684790,
+      "word": "女子乐山大佛头顶盘膝打坐",
+      "onboard_time": 1680593429,
+      "rank": 49,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 682753,
       "num": 682753,
       "word": "BLACKPINK或将全员续约YG",
@@ -275,12 +307,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 609738,
-      "num": 609738,
-      "word": "曾可妮 排名",
-      "onboard_time": 1680592409,
-      "rank": 40,
-      "category": "综艺"
+      "raw_hot": 619907,
+      "num": 619907,
+      "word": "男孩扫墓跪求奶奶保佑不写作业不挨打",
+      "onboard_time": 1680591988,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 619905,
+      "num": 276045,
+      "word": "离职半个月长出头发了",
+      "onboard_time": 1680594449,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 586387,
@@ -289,6 +329,22 @@
       "onboard_time": 1680575068,
       "rank": 8,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 568182,
+      "num": 568182,
+      "word": "特朗普一旦定罪或被判4年",
+      "onboard_time": 1680592888,
+      "rank": 34,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 558779,
+      "num": 558779,
+      "word": "Amber 排名",
+      "onboard_time": 1680593311,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 552389,
@@ -579,12 +635,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 326669,
-      "num": 326669,
-      "word": "苹果天气",
-      "onboard_time": 1680592951,
-      "rank": 17,
-      "category": "科技"
+      "raw_hot": 322243,
+      "num": 322243,
+      "word": "如梦之梦",
+      "onboard_time": 1680594628,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 319808,
+      "num": 319808,
+      "word": "陈晓被叫叔叔在线崩溃",
+      "onboard_time": 1680593008,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 317410,
@@ -595,27 +659,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 307655,
-      "num": 307655,
-      "word": "陈晓被叫叔叔在线崩溃",
-      "onboard_time": 1680593008,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 307643,
       "num": 2153777,
       "word": "一图看懂海南全岛封关意味着什么",
       "onboard_time": 1680526413,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 307243,
-      "num": 307243,
-      "word": "男孩扫墓跪求奶奶保佑不写作业不挨打",
-      "onboard_time": 1680591988,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -707,6 +755,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 259850,
+      "num": 259850,
+      "word": "长月烬明灭了吗订单",
+      "onboard_time": 1680592710,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 259173,
       "num": 259173,
       "word": "张继科方准备起诉",
@@ -763,6 +819,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 253892,
+      "num": 253892,
+      "word": "旅行回来把朋友拉黑了",
+      "onboard_time": 1680595109,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 251759,
       "num": 251759,
       "word": "张杰演唱会",
@@ -771,12 +835,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 250970,
-      "num": 250970,
-      "word": "长月烬明灭了吗订单",
-      "onboard_time": 1680592710,
-      "rank": 27,
-      "category": "影视"
+      "raw_hot": 247418,
+      "num": 247418,
+      "word": "张继科事件能否掀起乒坛整风",
+      "onboard_time": 1680595771,
+      "rank": 24,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 242066,
@@ -857,14 +921,6 @@
       "onboard_time": 1680568110,
       "rank": 25,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 210055,
-      "num": 210055,
-      "word": "Amber 排名",
-      "onboard_time": 1680593311,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 209349,
@@ -955,12 +1011,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 197751,
-      "num": 197751,
-      "word": "特朗普一旦定罪或被判4年",
-      "onboard_time": 1680592888,
-      "rank": 34,
-      "category": "国外要闻"
+      "raw_hot": 197761,
+      "num": 197761,
+      "word": "摩羯座真的还蛮会照顾人的",
+      "onboard_time": 1680596130,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 197416,
@@ -1124,7 +1180,7 @@
     },
     {
       "raw_hot": 181429,
-      "num": 1718125,
+      "num": 2201162,
       "word": "前行就是最好的纪念",
       "onboard_time": 1680570390,
       "rank": 29,
@@ -1211,6 +1267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165013,
+      "num": 165013,
+      "word": "一图读懂张继科事件始末",
+      "onboard_time": 1680595950,
+      "rank": 38,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 164333,
       "num": 164333,
       "word": "柯南贝克街的亡灵预售破500万",
@@ -1259,6 +1323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 155069,
+      "num": 155069,
+      "word": "千金贵气妆",
+      "onboard_time": 1680595472,
+      "rank": 41,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 154953,
       "num": 154953,
       "word": "于文文声生不息舞台预告",
@@ -1288,6 +1360,14 @@
       "word": "电影无价之宝预告",
       "onboard_time": 1680579209,
       "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 150018,
+      "num": 150018,
+      "word": "蜘蛛侠纵横宇宙新预告",
+      "onboard_time": 1680595051,
+      "rank": 44,
       "category": "影视"
     },
     {
@@ -1331,6 +1411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 140627,
+      "num": 140627,
+      "word": "见过最厉害的放风筝技术",
+      "onboard_time": 1680595168,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 134732,
       "num": 134732,
       "word": "致敬英烈",
@@ -1339,12 +1427,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 133391,
-      "num": 133391,
-      "word": "女子乐山大佛头顶盘膝打坐",
-      "onboard_time": 1680593429,
+      "raw_hot": 133529,
+      "num": 133529,
+      "word": "周也碎花绿裙",
+      "onboard_time": 1680596488,
       "rank": 49,
-      "category": "旅游,社会新闻"
+      "category": "艺人"
     },
     {
       "raw_hot": 133273,

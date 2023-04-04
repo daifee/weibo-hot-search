@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680593607372,
+  "endTime": 1680596522980,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -139,12 +139,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3462430,
+      "num": 3462430,
+      "word": "苹果天气",
+      "onboard_time": 1680592951,
+      "rank": 17,
+      "category": "科技"
+    },
+    {
       "raw_hot": 3220924,
       "num": 3220924,
       "word": "韩国男爱豆猥亵队友被判刑",
       "onboard_time": 1680517229,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3212571,
+      "num": 3212571,
+      "word": "华科大宿舍被雷劈了",
+      "onboard_time": 1680591207,
+      "rank": 0,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 3162601,
@@ -241,14 +257,6 @@
       "onboard_time": 1680518796,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2541503,
-      "num": 2541503,
-      "word": "华科大宿舍被雷劈了",
-      "onboard_time": 1680591207,
-      "rank": 0,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 2437384,
@@ -443,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1430909,
+      "num": 1430909,
+      "word": "五问张继科事件",
+      "onboard_time": 1680592049,
+      "rank": 9,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1411076,
       "num": 1411076,
       "word": "麻六记因未给孕妇优待被打差评",
@@ -545,14 +561,6 @@
       "onboard_time": 1680515553,
       "rank": 18,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 1248643,
-      "num": 1248643,
-      "word": "五问张继科事件",
-      "onboard_time": 1680592049,
-      "rank": 9,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1239189,
@@ -699,6 +707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1037508,
+      "num": 1037508,
+      "word": "超级小桀",
+      "onboard_time": 1680593910,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1017908,
       "num": 1017908,
       "word": "姐弟坠亡案母亲称绝不放过叶诚尘",
@@ -800,6 +816,14 @@
       "word": "鹭卓 抄袭",
       "onboard_time": 1680517474,
       "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 925827,
+      "num": 925827,
+      "word": "曾可妮 排名",
+      "onboard_time": 1680592409,
+      "rank": 40,
       "category": "综艺"
     },
     {
@@ -1227,6 +1251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 684790,
+      "num": 684790,
+      "word": "女子乐山大佛头顶盘膝打坐",
+      "onboard_time": 1680593429,
+      "rank": 49,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 683480,
       "num": 683480,
       "word": "多国宣布自愿石油减产",
@@ -1403,6 +1435,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 619907,
+      "num": 619907,
+      "word": "男孩扫墓跪求奶奶保佑不写作业不挨打",
+      "onboard_time": 1680591988,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 619905,
+      "num": 276045,
+      "word": "离职半个月长出头发了",
+      "onboard_time": 1680594449,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 617231,
       "num": 339569,
       "word": "成都锦城学院",
@@ -1441,14 +1489,6 @@
       "onboard_time": 1680279149,
       "rank": 29,
       "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 609738,
-      "num": 609738,
-      "word": "曾可妮 排名",
-      "onboard_time": 1680592409,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 601265,
@@ -1547,6 +1587,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 568182,
+      "num": 568182,
+      "word": "特朗普一旦定罪或被判4年",
+      "onboard_time": 1680592888,
+      "rank": 34,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 564040,
       "num": 564040,
       "word": "面包脑袋",
@@ -1569,6 +1617,14 @@
       "onboard_time": 1680275608,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 558779,
+      "num": 558779,
+      "word": "Amber 排名",
+      "onboard_time": 1680593311,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 556793,
@@ -2987,14 +3043,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 326669,
-      "num": 326669,
-      "word": "苹果天气",
-      "onboard_time": 1680592951,
-      "rank": 17,
-      "category": "科技"
-    },
-    {
       "raw_hot": 324672,
       "num": 324672,
       "word": "鹿晗五哈3广州路透",
@@ -3032,6 +3080,22 @@
       "word": "光渊",
       "onboard_time": 1680317608,
       "rank": 11,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 322243,
+      "num": 322243,
+      "word": "如梦之梦",
+      "onboard_time": 1680594628,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 319808,
+      "num": 319808,
+      "word": "陈晓被叫叔叔在线崩溃",
+      "onboard_time": 1680593008,
+      "rank": 21,
       "category": "影视"
     },
     {
@@ -3097,22 +3161,6 @@
       "onboard_time": 1680523353,
       "rank": 27,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 307655,
-      "num": 307655,
-      "word": "陈晓被叫叔叔在线崩溃",
-      "onboard_time": 1680593008,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 307243,
-      "num": 307243,
-      "word": "男孩扫墓跪求奶奶保佑不写作业不挨打",
-      "onboard_time": 1680591988,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 305906,
@@ -3627,6 +3675,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 259850,
+      "num": 259850,
+      "word": "长月烬明灭了吗订单",
+      "onboard_time": 1680592710,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 259213,
       "num": 171195,
       "word": "肖战微博之夜后脑勺直拍视频",
@@ -3731,6 +3787,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 253892,
+      "num": 253892,
+      "word": "旅行回来把朋友拉黑了",
+      "onboard_time": 1680595109,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 253735,
       "num": 253735,
       "word": "郭柯宇 爱情而已",
@@ -3785,14 +3849,6 @@
       "onboard_time": 1680509912,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 250970,
-      "num": 250970,
-      "word": "长月烬明灭了吗订单",
-      "onboard_time": 1680592710,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 250866,
@@ -3889,6 +3945,14 @@
       "onboard_time": 1680421349,
       "rank": 17,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 247418,
+      "num": 247418,
+      "word": "张继科事件能否掀起乒坛整风",
+      "onboard_time": 1680595771,
+      "rank": 24,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 246183,
@@ -4457,14 +4521,6 @@
       "onboard_time": 1680344372,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 210055,
-      "num": 210055,
-      "word": "Amber 排名",
-      "onboard_time": 1680593311,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 209978,
@@ -5091,12 +5147,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 197751,
-      "num": 197751,
-      "word": "特朗普一旦定罪或被判4年",
-      "onboard_time": 1680592888,
-      "rank": 34,
-      "category": "国外要闻"
+      "raw_hot": 197761,
+      "num": 197761,
+      "word": "摩羯座真的还蛮会照顾人的",
+      "onboard_time": 1680596130,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 197416,
@@ -5740,7 +5796,7 @@
     },
     {
       "raw_hot": 181429,
-      "num": 1718125,
+      "num": 2201162,
       "word": "前行就是最好的纪念",
       "onboard_time": 1680570390,
       "rank": 29,
@@ -6203,6 +6259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165013,
+      "num": 165013,
+      "word": "一图读懂张继科事件始末",
+      "onboard_time": 1680595950,
+      "rank": 38,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 164912,
       "num": 164912,
       "word": "他是谁全员告别",
@@ -6467,6 +6531,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 155069,
+      "num": 155069,
+      "word": "千金贵气妆",
+      "onboard_time": 1680595472,
+      "rank": 41,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 154953,
       "num": 154953,
       "word": "于文文声生不息舞台预告",
@@ -6632,6 +6704,14 @@
       "word": "孙茜谈主角和配角",
       "onboard_time": 1680317668,
       "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 150018,
+      "num": 150018,
+      "word": "蜘蛛侠纵横宇宙新预告",
+      "onboard_time": 1680595051,
+      "rank": 44,
       "category": "影视"
     },
     {
@@ -6907,6 +6987,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 140627,
+      "num": 140627,
+      "word": "见过最厉害的放风筝技术",
+      "onboard_time": 1680595168,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 140379,
       "num": 140379,
       "word": "宋祖儿折腰新造型",
@@ -7083,12 +7171,12 @@
       "category": "情感,社会新闻"
     },
     {
-      "raw_hot": 133391,
-      "num": 133391,
-      "word": "女子乐山大佛头顶盘膝打坐",
-      "onboard_time": 1680593429,
+      "raw_hot": 133529,
+      "num": 133529,
+      "word": "周也碎花绿裙",
+      "onboard_time": 1680596488,
       "rank": 49,
-      "category": "旅游,社会新闻"
+      "category": "艺人"
     },
     {
       "raw_hot": 133273,
