@@ -1,6 +1,6 @@
 {
   "startTime": 1680538976202,
-  "endTime": 1680582039761,
+  "endTime": 1680582866131,
   "band_list": [
     {
       "raw_hot": 3471973,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 3162601,
-      "num": 538565,
+      "num": 603796,
       "word": "S先生是谁",
       "onboard_time": 1680534816,
       "rank": 12,
@@ -33,6 +33,14 @@
       "onboard_time": 1680572849,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1547164,
+      "num": 1547164,
+      "word": "特斯拉一夜暴跌2700亿",
+      "onboard_time": 1680578910,
+      "rank": 28,
+      "category": "财经"
     },
     {
       "raw_hot": 1446106,
@@ -57,14 +65,6 @@
       "onboard_time": 1680571408,
       "rank": 41,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 1321851,
-      "num": 1321851,
-      "word": "特斯拉一夜暴跌2700亿",
-      "onboard_time": 1680578910,
-      "rank": 28,
-      "category": "财经"
     },
     {
       "raw_hot": 1089482,
@@ -163,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 660637,
+      "num": 660637,
+      "word": "他是谁 烂尾",
+      "onboard_time": 1680582270,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 641320,
       "num": 641320,
       "word": "青春环游记4定档",
@@ -236,7 +244,7 @@
     },
     {
       "raw_hot": 496015,
-      "num": 299527,
+      "num": 331593,
       "word": "女子睡醒发现房顶被吹走",
       "onboard_time": 1680577949,
       "rank": 45,
@@ -315,8 +323,16 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 382417,
+      "num": 329126,
+      "word": "铃芽之旅票房超你的名字",
+      "onboard_time": 1680581012,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 368209,
-      "num": 295669,
+      "num": 328203,
       "word": "陈延年陈乔年墓旁的桃花开了",
       "onboard_time": 1680578428,
       "rank": 37,
@@ -363,6 +379,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 326435,
+      "num": 326435,
+      "word": "换了新耳机套被同事训斥",
+      "onboard_time": 1680580953,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 318533,
+      "num": 318533,
+      "word": "代号鸢 养卡",
+      "onboard_time": 1680581852,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 317410,
       "num": 209078,
       "word": "韩国男爱豆猥亵队友被判刑",
@@ -377,6 +409,22 @@
       "onboard_time": 1680526413,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 305906,
+      "num": 305906,
+      "word": "原来摸鱼也是有技巧的",
+      "onboard_time": 1680580229,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 303906,
+      "num": 303906,
+      "word": "王刚回应清空社交账号",
+      "onboard_time": 1680582336,
+      "rank": 26,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 289322,
@@ -409,14 +457,6 @@
       "onboard_time": 1680517474,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 283564,
-      "num": 283564,
-      "word": "原来摸鱼也是有技巧的",
-      "onboard_time": 1680580229,
-      "rank": 24,
-      "category": "幽默"
     },
     {
       "raw_hot": 275591,
@@ -467,6 +507,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 258861,
+      "num": 258861,
+      "word": "张继科方准备起诉",
+      "onboard_time": 1680411988,
+      "rank": 18,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 258586,
       "num": 258586,
       "word": "2023国际乒联第14周排名",
@@ -491,14 +539,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 252534,
-      "num": 220563,
-      "word": "张继科方准备起诉",
-      "onboard_time": 1680411988,
-      "rank": 18,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 242066,
       "num": 213051,
       "word": "上班上出了结婚的感觉",
@@ -515,16 +555,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 226119,
-      "num": 226119,
-      "word": "铃芽之旅票房超你的名字",
-      "onboard_time": 1680581012,
-      "rank": 29,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 220810,
-      "num": 220810,
+      "raw_hot": 222720,
+      "num": 222720,
       "word": "刘雯秦岚同框",
       "onboard_time": 1680579931,
       "rank": 30,
@@ -595,6 +627,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 205178,
+      "num": 205178,
+      "word": "只给钱不给爱的婚姻该继续吗",
+      "onboard_time": 1680582213,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 204786,
       "num": 204786,
       "word": "2023KPL春季赛",
@@ -611,8 +651,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 200715,
-      "num": 200715,
+      "raw_hot": 202762,
+      "num": 202762,
       "word": "狼队Hero包揽周最佳",
       "onboard_time": 1680581734,
       "rank": 36,
@@ -627,27 +667,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 199176,
-      "num": 199176,
-      "word": "换了新耳机套被同事训斥",
-      "onboard_time": 1680580953,
-      "rank": 37,
-      "category": "幽默"
+      "raw_hot": 199199,
+      "num": 199199,
+      "word": "舒淇为张艺兴新片打call",
+      "onboard_time": 1680582633,
+      "rank": 40,
+      "category": "影视"
     },
     {
-      "raw_hot": 194534,
-      "num": 194534,
+      "raw_hot": 197416,
+      "num": 197416,
       "word": "KPL春季赛第八周最佳阵容",
       "onboard_time": 1680581671,
       "rank": 38,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 193560,
-      "num": 193560,
-      "word": "代号鸢 养卡",
-      "onboard_time": 1680581852,
-      "rank": 39,
       "category": "游戏"
     },
     {
@@ -660,7 +692,7 @@
     },
     {
       "raw_hot": 191805,
-      "num": 180742,
+      "num": 181560,
       "word": "非法债务不受法律保护",
       "onboard_time": 1680580531,
       "rank": 43,
@@ -683,12 +715,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 187570,
+      "num": 197625,
+      "word": "徐明浩说社恐小八来报到",
+      "onboard_time": 1680582754,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 185371,
+      "num": 185371,
+      "word": "品如剧本",
+      "onboard_time": 1680582513,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 185169,
       "num": 185169,
       "word": "张含韵机场捡到李纯王菊假睫毛",
       "onboard_time": 1680536974,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 183889,
+      "num": 189429,
+      "word": "妇联回应女孩被带去卖头发大哭不止",
+      "onboard_time": 1680582754,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 183482,

@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680582039761,
+  "endTime": 1680582866131,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 3162601,
-      "num": 538565,
+      "num": 603796,
       "word": "S先生是谁",
       "onboard_time": 1680534816,
       "rank": 18,
@@ -371,6 +371,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1547164,
+      "num": 1547164,
+      "word": "特斯拉一夜暴跌2700亿",
+      "onboard_time": 1680578910,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1523923,
       "num": 1523923,
       "word": "雅思作文 绝望的文盲",
@@ -457,14 +465,6 @@
       "onboard_time": 1680571408,
       "rank": 41,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 1321851,
-      "num": 1321851,
-      "word": "特斯拉一夜暴跌2700亿",
-      "onboard_time": 1680578910,
-      "rank": 28,
-      "category": "财经"
     },
     {
       "raw_hot": 1317519,
@@ -1203,6 +1203,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 660637,
+      "num": 660637,
+      "word": "他是谁 烂尾",
+      "onboard_time": 1680582270,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 660013,
       "num": 660013,
       "word": "中国专家检查丫丫食物和水源",
@@ -1764,7 +1772,7 @@
     },
     {
       "raw_hot": 496015,
-      "num": 299527,
+      "num": 331593,
       "word": "女子睡醒发现房顶被吹走",
       "onboard_time": 1680577949,
       "rank": 45,
@@ -2387,6 +2395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 382417,
+      "num": 329126,
+      "word": "铃芽之旅票房超你的名字",
+      "onboard_time": 1680581012,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 380827,
       "num": 380827,
       "word": "李健音乐节",
@@ -2460,7 +2476,7 @@
     },
     {
       "raw_hot": 368209,
-      "num": 295669,
+      "num": 328203,
       "word": "陈延年陈乔年墓旁的桃花开了",
       "onboard_time": 1680578428,
       "rank": 37,
@@ -2771,6 +2787,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 326435,
+      "num": 326435,
+      "word": "换了新耳机套被同事训斥",
+      "onboard_time": 1680580953,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 324672,
       "num": 324672,
       "word": "鹿晗五哈3广州路透",
@@ -2817,6 +2841,14 @@
       "onboard_time": 1680334828,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 318533,
+      "num": 318533,
+      "word": "代号鸢 养卡",
+      "onboard_time": 1680581852,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 315573,
@@ -2875,6 +2907,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 305906,
+      "num": 305906,
+      "word": "原来摸鱼也是有技巧的",
+      "onboard_time": 1680580229,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 305286,
       "num": 235852,
       "word": "北京电影节嘉宾",
@@ -2897,6 +2937,14 @@
       "onboard_time": 1680441874,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 303906,
+      "num": 303906,
+      "word": "王刚回应清空社交账号",
+      "onboard_time": 1680582336,
+      "rank": 26,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 301943,
@@ -3105,14 +3153,6 @@
       "onboard_time": 1680496236,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 283564,
-      "num": 283564,
-      "word": "原来摸鱼也是有技巧的",
-      "onboard_time": 1680580229,
-      "rank": 24,
-      "category": "幽默"
     },
     {
       "raw_hot": 280919,
@@ -3827,14 +3867,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 226119,
-      "num": 226119,
-      "word": "铃芽之旅票房超你的名字",
-      "onboard_time": 1680581012,
-      "rank": 29,
-      "category": "影视"
-    },
-    {
       "raw_hot": 226025,
       "num": 226025,
       "word": "朱洁静星黛露跳芭蕾",
@@ -3883,6 +3915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 222720,
+      "num": 222720,
+      "word": "刘雯秦岚同框",
+      "onboard_time": 1680579931,
+      "rank": 30,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 222409,
       "num": 222409,
       "word": "薛之谦天外来物巡回演唱会",
@@ -3897,14 +3937,6 @@
       "onboard_time": 1680506130,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 220810,
-      "num": 220810,
-      "word": "刘雯秦岚同框",
-      "onboard_time": 1680579931,
-      "rank": 30,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 220746,
@@ -4323,6 +4355,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 205178,
+      "num": 205178,
+      "word": "只给钱不给爱的婚姻该继续吗",
+      "onboard_time": 1680582213,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 205159,
       "num": 205159,
       "word": "赵丽颖与海鸥随拍",
@@ -4467,6 +4507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202762,
+      "num": 202762,
+      "word": "狼队Hero包揽周最佳",
+      "onboard_time": 1680581734,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 202491,
       "num": 202491,
       "word": "KT战胜HLE",
@@ -4579,14 +4627,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 200715,
-      "num": 200715,
-      "word": "狼队Hero包揽周最佳",
-      "onboard_time": 1680581734,
-      "rank": 36,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 200564,
       "num": 200564,
       "word": "丁程鑫胡一天粉扑游戏",
@@ -4683,12 +4723,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 199176,
-      "num": 199176,
-      "word": "换了新耳机套被同事训斥",
-      "onboard_time": 1680580953,
-      "rank": 37,
-      "category": "幽默"
+      "raw_hot": 199199,
+      "num": 199199,
+      "word": "舒淇为张艺兴新片打call",
+      "onboard_time": 1680582633,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 199066,
@@ -4776,6 +4816,14 @@
       "word": "未央三杀再拿一分",
       "onboard_time": 1680354389,
       "rank": 33,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 197416,
+      "num": 197416,
+      "word": "KPL春季赛第八周最佳阵容",
+      "onboard_time": 1680581671,
+      "rank": 38,
       "category": "游戏"
     },
     {
@@ -4891,14 +4939,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 194534,
-      "num": 194534,
-      "word": "KPL春季赛第八周最佳阵容",
-      "onboard_time": 1680581671,
-      "rank": 38,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 194107,
       "num": 194107,
       "word": "无间叔圈",
@@ -4929,14 +4969,6 @@
       "onboard_time": 1680305299,
       "rank": 13,
       "category": "军事"
-    },
-    {
-      "raw_hot": 193560,
-      "num": 193560,
-      "word": "代号鸢 养卡",
-      "onboard_time": 1680581852,
-      "rank": 39,
-      "category": "游戏"
     },
     {
       "raw_hot": 193313,
@@ -4980,7 +5012,7 @@
     },
     {
       "raw_hot": 191805,
-      "num": 180742,
+      "num": 181560,
       "word": "非法债务不受法律保护",
       "onboard_time": 1680580531,
       "rank": 43,
@@ -5171,6 +5203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187570,
+      "num": 197625,
+      "word": "徐明浩说社恐小八来报到",
+      "onboard_time": 1680582754,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187064,
       "num": 187064,
       "word": "花琉璃HE",
@@ -5209,6 +5249,14 @@
       "onboard_time": 1680318029,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 185371,
+      "num": 185371,
+      "word": "品如剧本",
+      "onboard_time": 1680582513,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 185169,
@@ -5257,6 +5305,14 @@
       "onboard_time": 1680337653,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 183889,
+      "num": 189429,
+      "word": "妇联回应女孩被带去卖头发大哭不止",
+      "onboard_time": 1680582754,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 183834,
