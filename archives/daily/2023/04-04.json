@@ -1,6 +1,6 @@
 {
   "startTime": 1680538976202,
-  "endTime": 1680597292659,
+  "endTime": 1680599832043,
   "band_list": [
     {
       "raw_hot": 4386600,
@@ -51,6 +51,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2311803,
+      "num": 2311803,
+      "word": "超级小桀",
+      "onboard_time": 1680593910,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 2173085,
+      "num": 2173085,
+      "word": "中国乒协证实张继科已退役",
+      "onboard_time": 1680598111,
+      "rank": 3,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 2127421,
       "num": 2127421,
       "word": "他是谁 烂尾",
@@ -89,14 +105,6 @@
       "onboard_time": 1680525994,
       "rank": 0,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 1432696,
-      "num": 1432696,
-      "word": "超级小桀",
-      "onboard_time": 1680593910,
-      "rank": 4,
-      "category": "游戏"
     },
     {
       "raw_hot": 1430909,
@@ -267,6 +275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 642197,
+      "num": 368182,
+      "word": "离职半个月长出头发了",
+      "onboard_time": 1680594449,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 641320,
       "num": 641320,
       "word": "青春环游记4定档",
@@ -289,14 +305,6 @@
       "onboard_time": 1680589947,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 631269,
-      "num": 276045,
-      "word": "离职半个月长出头发了",
-      "onboard_time": 1680594449,
-      "rank": 20,
-      "category": "幽默"
     },
     {
       "raw_hot": 627766,
@@ -345,6 +353,22 @@
       "onboard_time": 1680592888,
       "rank": 34,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 567367,
+      "num": 567367,
+      "word": "华科大回应宿舍被雷劈",
+      "onboard_time": 1680597751,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 565515,
+      "num": 565515,
+      "word": "摩羯座真的还蛮会照顾人的",
+      "onboard_time": 1680596130,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 552389,
@@ -491,6 +515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 440245,
+      "num": 440245,
+      "word": "张继科事件能否掀起乒坛整风",
+      "onboard_time": 1680595771,
+      "rank": 24,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 430971,
       "num": 430971,
       "word": "谢娜乘风破浪4路透",
@@ -539,6 +571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 390323,
+      "num": 390323,
+      "word": "求张继科事件视频当心触法",
+      "onboard_time": 1680596971,
+      "rank": 24,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 386090,
       "num": 386090,
       "word": "吃菠萝扎嘴的原因",
@@ -555,20 +595,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 380978,
+      "num": 380978,
+      "word": "小兰救柯南最后一跳",
+      "onboard_time": 1680596791,
+      "rank": 40,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 372817,
       "num": 372817,
       "word": "间歇性冷漠",
       "onboard_time": 1680588449,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 369689,
-      "num": 369689,
-      "word": "张继科事件能否掀起乒坛整风",
-      "onboard_time": 1680595771,
-      "rank": 24,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 368209,
@@ -651,6 +691,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 325702,
+      "num": 325702,
+      "word": "旅行回来把朋友拉黑了",
+      "onboard_time": 1680595109,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 319808,
       "num": 319808,
       "word": "陈晓被叫叔叔在线崩溃",
@@ -683,12 +731,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 300310,
-      "num": 253892,
-      "word": "旅行回来把朋友拉黑了",
-      "onboard_time": 1680595109,
+      "raw_hot": 291176,
+      "num": 291176,
+      "word": "事实证明衣服真的不能混洗",
+      "onboard_time": 1680598471,
       "rank": 23,
-      "category": "情感"
+      "category": "幽默"
     },
     {
       "raw_hot": 289322,
@@ -723,6 +771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 278096,
+      "num": 278096,
+      "word": "达尔文盒饭厂",
+      "onboard_time": 1680597930,
+      "rank": 24,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 275591,
       "num": 275591,
       "word": "特朗普抵达纽约曼哈顿",
@@ -745,6 +801,14 @@
       "onboard_time": 1680576867,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 263884,
+      "num": 263884,
+      "word": "WE春季赛淘汰",
+      "onboard_time": 1680598049,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 263492,
@@ -819,12 +883,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 255424,
-      "num": 255424,
-      "word": "摩羯座真的还蛮会照顾人的",
-      "onboard_time": 1680596130,
-      "rank": 32,
-      "category": "情感"
+      "raw_hot": 255804,
+      "num": 255804,
+      "word": "薛之谦演唱会",
+      "onboard_time": 1680597870,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 254181,
@@ -883,14 +947,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 227513,
-      "num": 239776,
-      "word": "求张继科事件视频当心触法",
-      "onboard_time": 1680596971,
-      "rank": 24,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 220152,
       "num": 213189,
       "word": "张钧甯阮经天合照",
@@ -905,6 +961,14 @@
       "onboard_time": 1680542179,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 217013,
+      "num": 217013,
+      "word": "胡先煦说真的没有快乐减肥",
+      "onboard_time": 1680599310,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 215477,
@@ -1195,6 +1259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 182284,
+      "num": 2209322,
+      "word": "永远记住你",
+      "onboard_time": 1680597571,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181429,
       "num": 2201162,
       "word": "前行就是最好的纪念",
@@ -1227,6 +1299,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 178855,
+      "num": 178855,
+      "word": "揭秘张继科进军综艺背后经纪公司",
+      "onboard_time": 1680597690,
+      "rank": 35,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 178766,
       "num": 178766,
       "word": "每天一到晚上就想吃东西",
@@ -1240,6 +1320,14 @@
       "word": "大侦探极昼边缘剧照",
       "onboard_time": 1680578010,
       "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 175073,
+      "num": 175073,
+      "word": "文俊辉洪知秀将出演超回",
+      "onboard_time": 1680598351,
+      "rank": 36,
       "category": "综艺"
     },
     {
@@ -1315,6 +1403,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 163833,
+      "num": 163833,
+      "word": "特朗普被起诉激化美国两党对立情绪",
+      "onboard_time": 1680596791,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162978,
       "num": 207989,
       "word": "长月烬明羽绒服",
@@ -1347,20 +1443,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 156005,
+      "num": 156005,
+      "word": "高圆圆摩天轮游玩随拍",
+      "onboard_time": 1680598652,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 155522,
       "num": 155522,
       "word": "维金斯计划对阵雷霆复出",
       "onboard_time": 1680565527,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 155217,
-      "num": 155217,
-      "word": "小兰救柯南最后一跳",
-      "onboard_time": 1680596791,
-      "rank": 40,
-      "category": "动漫"
     },
     {
       "raw_hot": 155069,
@@ -1387,20 +1483,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 152150,
+      "num": 152150,
+      "word": "如何看待明星频频维权",
+      "onboard_time": 1680599070,
+      "rank": 42,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 152067,
       "num": 152067,
       "word": "青春环游记",
       "onboard_time": 1680583234,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 151846,
-      "num": 151846,
-      "word": "特朗普被起诉激化美国两党对立情绪",
-      "onboard_time": 1680596791,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 150530,
@@ -1531,6 +1627,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 127895,
+      "num": 127895,
+      "word": "中国赛艇协会原主席刘爱杰被查",
+      "onboard_time": 1680598951,
+      "rank": 47,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 126434,
       "num": 126434,
       "word": "李泰民正式退伍",
@@ -1577,6 +1681,14 @@
       "onboard_time": 1680583714,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 117155,
+      "num": 117155,
+      "word": "为什么很多人向往一个人旅行",
+      "onboard_time": 1680594089,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 116002,
@@ -1721,6 +1833,14 @@
       "onboard_time": 1680536791,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 43718,
+      "num": 437012,
+      "word": "过敏性鼻炎犯了有多难受",
+      "onboard_time": 1680598830,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 39982,
