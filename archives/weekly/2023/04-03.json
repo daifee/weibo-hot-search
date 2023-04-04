@@ -1,6 +1,6 @@
 {
   "startTime": 1680452464197,
-  "endTime": 1680564821400,
+  "endTime": 1680571570278,
   "band_list": [
     {
       "raw_hot": 9506486,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 3162601,
-      "num": 291963,
+      "num": 451027,
       "word": "S先生是谁",
       "onboard_time": 1680534816,
       "rank": 18,
@@ -193,6 +193,14 @@
       "onboard_time": 1680491850,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1716849,
+      "num": 736115,
+      "word": "张继科的声明若有违事实是否需担责",
+      "onboard_time": 1680567390,
+      "rank": 3,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1704155,
@@ -371,6 +379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 913030,
+      "num": 913030,
+      "word": "难怪吃菠萝嘴巴疼",
+      "onboard_time": 1680566068,
+      "rank": 1,
+      "category": "其它"
+    },
+    {
       "raw_hot": 905565,
       "num": 848508,
       "word": "建议每天最少走7000步",
@@ -515,6 +531,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 694950,
+      "num": 694950,
+      "word": "动物园称未经许可不得直播丫丫",
+      "onboard_time": 1680565527,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 694164,
       "num": 694164,
       "word": "长月烬明可以自己调滤镜",
@@ -539,6 +563,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 675755,
+      "num": 675755,
+      "word": "王楚钦世界排名升至第2",
+      "onboard_time": 1680569250,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 666592,
       "num": 666592,
       "word": "李彩桦唱无法原谅",
@@ -561,6 +593,14 @@
       "onboard_time": 1680332610,
       "rank": 22,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 633250,
+      "num": 633250,
+      "word": "林青霞获颁香港大学荣誉博士学位",
+      "onboard_time": 1680568531,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 624364,
@@ -633,6 +673,14 @@
       "onboard_time": 1680486747,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 552389,
+      "num": 552389,
+      "word": "王一博出道前英文rap",
+      "onboard_time": 1680565886,
+      "rank": 7,
+      "category": "音乐"
     },
     {
       "raw_hot": 546383,
@@ -755,6 +803,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 480288,
+      "num": 480288,
+      "word": "为什么从来不和爸妈分享日常",
+      "onboard_time": 1680567691,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
       "raw_hot": 479963,
       "num": 479963,
       "word": "特朗普计划今天飞纽约接受传讯",
@@ -769,6 +825,14 @@
       "onboard_time": 1680530497,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 469240,
+      "num": 469240,
+      "word": "BLACKPINK或将全员续约YG",
+      "onboard_time": 1680570390,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 464862,
@@ -833,6 +897,14 @@
       "onboard_time": 1680498096,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 430971,
+      "num": 430971,
+      "word": "谢娜乘风破浪4路透",
+      "onboard_time": 1680567993,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 422391,
@@ -1291,12 +1363,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 263492,
+      "num": 263492,
+      "word": "杜玥 退役",
+      "onboard_time": 1680566308,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 262004,
       "num": 262004,
       "word": "陈晓连播两部剧",
       "onboard_time": 1680496777,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 260709,
+      "num": 213888,
+      "word": "这熊猫的脑壳也太方了吧",
+      "onboard_time": 1680566129,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 258586,
+      "num": 258586,
+      "word": "2023国际乒联第14周排名",
+      "onboard_time": 1680568711,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 258320,
@@ -1491,6 +1587,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 218340,
+      "num": 218340,
+      "word": "他是谁大结局你满意吗",
+      "onboard_time": 1680542179,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 218283,
       "num": 218283,
       "word": "Rookie",
@@ -1505,14 +1609,6 @@
       "onboard_time": 1680511952,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 217602,
-      "num": 217602,
-      "word": "他是谁大结局你满意吗",
-      "onboard_time": 1680542179,
-      "rank": 14,
-      "category": "影视"
     },
     {
       "raw_hot": 214938,
@@ -1593,6 +1689,14 @@
       "onboard_time": 1680487587,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 211457,
+      "num": 211457,
+      "word": "纸飞机突然不唯美了",
+      "onboard_time": 1680568110,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 208484,
@@ -1681,6 +1785,14 @@
       "onboard_time": 1680502290,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 202955,
+      "num": 202955,
+      "word": "福建省考",
+      "onboard_time": 1680571170,
+      "rank": 26,
+      "category": "教育"
     },
     {
       "raw_hot": 202334,
@@ -1916,7 +2028,7 @@
     },
     {
       "raw_hot": 184531,
-      "num": 168516,
+      "num": 173748,
       "word": "张含韵机场捡到李纯王菊假睫毛",
       "onboard_time": 1680536974,
       "rank": 30,
@@ -1931,12 +2043,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 182451,
+      "num": 182451,
+      "word": "K宝入驻微博",
+      "onboard_time": 1680564744,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 181886,
       "num": 181886,
       "word": "柯南贝克街的亡灵预售破500万",
       "onboard_time": 1680535474,
       "rank": 36,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 181429,
+      "num": 181429,
+      "word": "前行就是最好的纪念",
+      "onboard_time": 1680570390,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 181209,
@@ -1953,6 +2081,14 @@
       "onboard_time": 1680509431,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 175328,
+      "num": 175328,
+      "word": "时尚先生编辑说肖战有人情味",
+      "onboard_time": 1680571110,
+      "rank": 30,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 175182,
@@ -2115,6 +2251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158026,
+      "num": 158026,
+      "word": "传播他人私密视频最高可判无期",
+      "onboard_time": 1680570329,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157513,
       "num": 1381668,
       "word": "这不是山水画这是中国山河",
@@ -2144,6 +2288,14 @@
       "word": "湖人VS火箭",
       "onboard_time": 1680482129,
       "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 155522,
+      "num": 155522,
+      "word": "维金斯计划对阵雷霆复出",
+      "onboard_time": 1680565527,
+      "rank": 35,
       "category": "体育"
     },
     {
@@ -2209,6 +2361,14 @@
       "onboard_time": 1680514112,
       "rank": 46,
       "category": "国内要闻,军事"
+    },
+    {
+      "raw_hot": 149397,
+      "num": 149397,
+      "word": "女子接诈骗电话把骗子吓懵",
+      "onboard_time": 1680571226,
+      "rank": 36,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 149341,
@@ -2283,6 +2443,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 134732,
+      "num": 134732,
+      "word": "致敬英烈",
+      "onboard_time": 1680570212,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 133273,
+      "num": 133273,
+      "word": "关于清明的诗词你知道几首",
+      "onboard_time": 1680570990,
+      "rank": 38,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 132143,
       "num": 132143,
       "word": "HYBE新男团BOYNEXTDOOR主页公开",
@@ -2331,12 +2507,28 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 126434,
+      "num": 126434,
+      "word": "李泰民正式退伍",
+      "onboard_time": 1680565648,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 126310,
       "num": 126310,
       "word": "李健音乐节",
       "onboard_time": 1680441754,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 124658,
+      "num": 124658,
+      "word": "11岁女孩遭邻居猥亵杀害案新进展",
+      "onboard_time": 1680571408,
+      "rank": 41,
+      "category": "社会负面"
     },
     {
       "raw_hot": 123617,
