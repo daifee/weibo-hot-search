@@ -1,0 +1,410 @@
+{
+  "runTime": 1680612608143,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1273855,
+        "num": 1273855,
+        "word": "苹果天气",
+        "onboard_time": 1680592951,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1196101,
+        "num": 1196101,
+        "word": "姜广涛配音的影视剧角色会下架吗",
+        "onboard_time": 1680610229,
+        "rank": 1,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 43778,
+        "num": 647688,
+        "word": "清明给英烈写句话",
+        "onboard_time": 1680611790,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 639274,
+        "num": 639274,
+        "word": "不要随便接陌生电话",
+        "onboard_time": 1680600631,
+        "rank": 3,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 638780,
+        "num": 638780,
+        "word": "泰坦尼克号Rose床头的照片",
+        "onboard_time": 1680605610,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1019576,
+        "num": 637919,
+        "word": "超级小桀",
+        "onboard_time": 1680593910,
+        "rank": 5,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 633027,
+        "num": 633027,
+        "word": "贝克街的亡灵",
+        "onboard_time": 1680607353,
+        "rank": 6,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 573492,
+        "num": 573492,
+        "word": "LNG对战OMG",
+        "onboard_time": 1680600990,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 557837,
+        "num": 557837,
+        "word": "肖战电影",
+        "onboard_time": 1680601830,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 553654,
+        "num": 553654,
+        "word": "李雪琴吐槽报销流程",
+        "onboard_time": 1680605249,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1359970,
+        "num": 553515,
+        "word": "中国乒协证实张继科已退役",
+        "onboard_time": 1680598111,
+        "rank": 10,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 948915,
+        "num": 492406,
+        "word": "林依晨看了都得愣一下",
+        "onboard_time": 1680603030,
+        "rank": 11,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 1643326,
+        "num": 465968,
+        "word": "债主获刑张继科会是共犯吗",
+        "onboard_time": 1680604291,
+        "rank": 12,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 612643,
+        "num": 415146,
+        "word": "小妈文学拍成剧了",
+        "onboard_time": 1680606869,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 412860,
+        "num": 412860,
+        "word": "王鹤棣球掉河里了",
+        "onboard_time": 1680609390,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 533978,
+        "num": 407129,
+        "word": "求张继科事件视频当心触法",
+        "onboard_time": 1680596971,
+        "rank": 15,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 392368,
+        "num": 392368,
+        "word": "惠英红 想宋佳",
+        "onboard_time": 1680608191,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 368177,
+        "num": 368177,
+        "word": "爱情而已三分钟在今晚",
+        "onboard_time": 1680606452,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 349951,
+        "num": 349951,
+        "word": "女子乐山大佛头顶盘膝打坐",
+        "onboard_time": 1680593429,
+        "rank": 18,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 319175,
+        "num": 319175,
+        "word": "马英九向张自忠敬献花圈",
+        "onboard_time": 1680605968,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 788752,
+        "num": 318290,
+        "word": "张佳宁点痣了",
+        "onboard_time": 1680609390,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 503110,
+        "num": 317530,
+        "word": "吴京问谢楠媳妇我错哪了",
+        "onboard_time": 1680608069,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 413306,
+        "num": 315394,
+        "word": "女孩跳江获救3名救援小伙溺亡",
+        "onboard_time": 1680602552,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367733,
+        "num": 314587,
+        "word": "学生趴睡手指压出淤血变紫",
+        "onboard_time": 1680608910,
+        "rank": 23,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 333415,
+        "num": 312866,
+        "word": "离职半个月长出头发了",
+        "onboard_time": 1680594449,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 312193,
+        "num": 312193,
+        "word": "五问张继科事件",
+        "onboard_time": 1680592049,
+        "rank": 25,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 301098,
+        "num": 301098,
+        "word": "胡先煦说真的没有快乐减肥",
+        "onboard_time": 1680599310,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 295802,
+        "num": 295802,
+        "word": "叶舒华说公司不会管控体重",
+        "onboard_time": 1680606990,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 285345,
+        "num": 285345,
+        "word": "果然娱乐回应小鬼被抄袭",
+        "onboard_time": 1680612150,
+        "rank": 28,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 2010722,
+        "num": 266075,
+        "word": "怎么看待李微敖公开景甜名字",
+        "onboard_time": 1680609992,
+        "rank": 29,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 240018,
+        "num": 240018,
+        "word": "王子文说体面的告别很重要",
+        "onboard_time": 1680608429,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237854,
+        "num": 237854,
+        "word": "孔雪儿高颅顶发型教程",
+        "onboard_time": 1680608429,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 235975,
+        "num": 235975,
+        "word": "长月烬明 让妆",
+        "onboard_time": 1680590729,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 192637,
+        "num": 192637,
+        "word": "摩羯座真的还蛮会照顾人的",
+        "onboard_time": 1680596130,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 188734,
+        "num": 188734,
+        "word": "半熟恋人2全员告白",
+        "onboard_time": 1680606390,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178495,
+        "num": 178495,
+        "word": "张继科的声明若有违事实是否需担责",
+        "onboard_time": 1680567390,
+        "rank": 35,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 173824,
+        "num": 173824,
+        "word": "四肢发达的张杰周边",
+        "onboard_time": 1680606869,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 172883,
+        "num": 172883,
+        "word": "影院reaction已经假出境界了",
+        "onboard_time": 1680610951,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 162999,
+        "num": 162999,
+        "word": "代号鸢",
+        "onboard_time": 1680603930,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 127712,
+        "num": 150689,
+        "word": "小猫咪也有睡觉搭子了",
+        "onboard_time": 1680604229,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144247,
+        "num": 144247,
+        "word": "曾可妮 排名",
+        "onboard_time": 1680592409,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137604,
+        "num": 137604,
+        "word": "Billlie初一位",
+        "onboard_time": 1680606030,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 125910,
+        "num": 125910,
+        "word": "旅行回来把朋友拉黑了",
+        "onboard_time": 1680595109,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 124859,
+        "num": 124859,
+        "word": "铃芽之旅",
+        "onboard_time": 1680611971,
+        "rank": 43,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 122106,
+        "num": 122106,
+        "word": "AG对战EDGM",
+        "onboard_time": 1680609627,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 121096,
+        "num": 121096,
+        "word": "种地吧",
+        "onboard_time": 1680612209,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119889,
+        "num": 119889,
+        "word": "特朗普一旦定罪或被判4年",
+        "onboard_time": 1680592888,
+        "rank": 46,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 107095,
+        "num": 107095,
+        "word": "谁说未央露娜不行",
+        "onboard_time": 1680612510,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 97988,
+        "num": 97988,
+        "word": "Amber小跑和黄晓明握手",
+        "onboard_time": 1680605551,
+        "rank": 48,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 90702,
+        "num": 90702,
+        "word": "当孩子们把思念写成诗",
+        "onboard_time": 1680610770,
+        "rank": 49,
+        "category": "社会新闻,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#落实重大发展战略开创事业新局#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1680538976202,
-  "endTime": 1680611606893,
+  "endTime": 1680612608143,
   "band_list": [
     {
       "raw_hot": 4386600,
@@ -75,7 +75,15 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1638319,
+      "raw_hot": 2010722,
+      "num": 448204,
+      "word": "怎么看待李微敖公开景甜名字",
+      "onboard_time": 1680609992,
+      "rank": 13,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1643326,
       "num": 1638319,
       "word": "债主获刑张继科会是共犯吗",
       "onboard_time": 1680604291,
@@ -155,6 +163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1196101,
+      "num": 1196101,
+      "word": "姜广涛配音的影视剧角色会下架吗",
+      "onboard_time": 1680610229,
+      "rank": 5,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1184693,
       "num": 1184693,
       "word": "长月烬明 让妆",
@@ -192,14 +208,6 @@
       "word": "张继科曾直播上厕所",
       "onboard_time": 1680520114,
       "rank": 21,
-      "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 1016719,
-      "num": 448204,
-      "word": "怎么看待李微敖公开景甜名字",
-      "onboard_time": 1680609992,
-      "rank": 13,
       "category": "社会新闻,艺人"
     },
     {
@@ -267,6 +275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 788752,
+      "num": 355828,
+      "word": "张佳宁点痣了",
+      "onboard_time": 1680609390,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 774699,
       "num": 603176,
       "word": "张继科不愿意处在风口浪尖上",
@@ -289,14 +305,6 @@
       "onboard_time": 1680606869,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 717168,
-      "num": 717168,
-      "word": "姜广涛配音的影视剧角色会下架吗",
-      "onboard_time": 1680610229,
-      "rank": 5,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 716821,
@@ -411,6 +419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 633027,
+      "num": 633027,
+      "word": "贝克街的亡灵",
+      "onboard_time": 1680607353,
+      "rank": 23,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 627766,
       "num": 587315,
       "word": "中国女留学生在泰被杀3名嫌犯被逮捕",
@@ -443,14 +459,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 609735,
-      "num": 355828,
-      "word": "张佳宁点痣了",
-      "onboard_time": 1680609390,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 586713,
       "num": 586713,
       "word": "摩羯座真的还蛮会照顾人的",
@@ -467,12 +475,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 585505,
-      "num": 585505,
-      "word": "贝克街的亡灵",
-      "onboard_time": 1680607353,
-      "rank": 23,
-      "category": "影视,动漫"
+      "raw_hot": 573492,
+      "num": 573492,
+      "word": "LNG对战OMG",
+      "onboard_time": 1680600990,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 568517,
@@ -691,6 +699,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 412860,
+      "num": 412860,
+      "word": "王鹤棣球掉河里了",
+      "onboard_time": 1680609390,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 410090,
       "num": 410090,
       "word": "Billlie初一位",
@@ -721,14 +737,6 @@
       "onboard_time": 1680532657,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 390924,
-      "num": 390924,
-      "word": "LNG对战OMG",
-      "onboard_time": 1680600990,
-      "rank": 17,
-      "category": "游戏"
     },
     {
       "raw_hot": 390628,
@@ -771,6 +779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 367733,
+      "num": 314587,
+      "word": "学生趴睡手指压出淤血变紫",
+      "onboard_time": 1680608910,
+      "rank": 24,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 366812,
       "num": 276786,
       "word": "昕雯联播难说再见",
@@ -785,14 +801,6 @@
       "onboard_time": 1680590246,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 359607,
-      "num": 359607,
-      "word": "王鹤棣球掉河里了",
-      "onboard_time": 1680609390,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 351303,
@@ -891,14 +899,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 314153,
-      "num": 314153,
-      "word": "学生趴睡手指压出淤血变紫",
-      "onboard_time": 1680608910,
-      "rank": 24,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 307643,
       "num": 2153777,
       "word": "一图看懂海南全岛封关意味着什么",
@@ -915,20 +915,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 295802,
+      "num": 295802,
+      "word": "叶舒华说公司不会管控体重",
+      "onboard_time": 1680606990,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 289322,
       "num": 289322,
       "word": "长月烬明一眼万年海报",
       "onboard_time": 1680578609,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 287883,
-      "num": 287883,
-      "word": "叶舒华说公司不会管控体重",
-      "onboard_time": 1680606990,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 287623,
@@ -953,6 +953,14 @@
       "onboard_time": 1680517474,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 285345,
+      "num": 285345,
+      "word": "果然娱乐回应小鬼被抄袭",
+      "onboard_time": 1680612150,
+      "rank": 28,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 278833,
@@ -1139,6 +1147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 240018,
+      "num": 240018,
+      "word": "王子文说体面的告别很重要",
+      "onboard_time": 1680608429,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 237956,
       "num": 237956,
       "word": "Amber小跑和黄晓明握手",
@@ -1161,14 +1177,6 @@
       "onboard_time": 1680585689,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 226937,
-      "num": 226937,
-      "word": "王子文说体面的告别很重要",
-      "onboard_time": 1680608429,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 224784,
@@ -1675,6 +1683,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 172883,
+      "num": 172883,
+      "word": "影院reaction已经假出境界了",
+      "onboard_time": 1680610951,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 172611,
       "num": 172611,
       "word": "成年人的体面是假发片给的",
@@ -1955,14 +1971,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 138525,
-      "num": 138525,
-      "word": "影院reaction已经假出境界了",
-      "onboard_time": 1680610951,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 136248,
       "num": 136248,
       "word": "Scout获常规赛MVP",
@@ -2059,6 +2067,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 124859,
+      "num": 124859,
+      "word": "铃芽之旅",
+      "onboard_time": 1680611971,
+      "rank": 43,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 123018,
       "num": 123018,
       "word": "刘耀文预告新歌",
@@ -2081,6 +2097,14 @@
       "onboard_time": 1680603271,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 121096,
+      "num": 121096,
+      "word": "种地吧",
+      "onboard_time": 1680612209,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 121078,
@@ -2137,6 +2161,14 @@
       "onboard_time": 1680602429,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 107095,
+      "num": 107095,
+      "word": "谁说未央露娜不行",
+      "onboard_time": 1680612510,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 106609,
@@ -2235,6 +2267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 90702,
+      "num": 90702,
+      "word": "当孩子们把思念写成诗",
+      "onboard_time": 1680610770,
+      "rank": 49,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 88433,
       "num": 169579,
       "word": "建议每天最少走7000步",
@@ -2273,6 +2313,14 @@
       "onboard_time": 1680536791,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 43778,
+      "num": 647688,
+      "word": "清明给英烈写句话",
+      "onboard_time": 1680611790,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 39982,
@@ -2317,6 +2365,9 @@
     },
     {
       "word": "#扎实抓好主题教育#"
+    },
+    {
+      "word": "#落实重大发展战略开创事业新局#"
     }
   ]
 }
