@@ -1,0 +1,410 @@
+{
+  "runTime": 1680600829837,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3036551,
+        "num": 3036551,
+        "word": "苹果天气",
+        "onboard_time": 1680592951,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 2863663,
+        "num": 2863663,
+        "word": "中国乒协证实张继科已退役",
+        "onboard_time": 1680598111,
+        "rank": 1,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 205267,
+        "num": 2645986,
+        "word": "永远记住你",
+        "onboard_time": 1680597571,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2533973,
+        "num": 2533973,
+        "word": "超级小桀",
+        "onboard_time": 1680593910,
+        "rank": 3,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 720718,
+        "num": 720718,
+        "word": "女子乐山大佛头顶盘膝打坐",
+        "onboard_time": 1680593429,
+        "rank": 4,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 597611,
+        "num": 597611,
+        "word": "曾可妮 排名",
+        "onboard_time": 1680592409,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 593420,
+        "num": 593420,
+        "word": "华科大回应宿舍被雷劈",
+        "onboard_time": 1680597751,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 586713,
+        "num": 586713,
+        "word": "摩羯座真的还蛮会照顾人的",
+        "onboard_time": 1680596130,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 585651,
+        "num": 585651,
+        "word": "长月烬明 让妆",
+        "onboard_time": 1680590729,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 527375,
+        "num": 527375,
+        "word": "张继科的声明若有违事实是否需担责",
+        "onboard_time": 1680567390,
+        "rank": 9,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 983474,
+        "num": 473220,
+        "word": "五问张继科事件",
+        "onboard_time": 1680592049,
+        "rank": 10,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 642538,
+        "num": 460809,
+        "word": "胡先煦说真的没有快乐减肥",
+        "onboard_time": 1680599310,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 417982,
+        "num": 417982,
+        "word": "小兰救柯南最后一跳",
+        "onboard_time": 1680596791,
+        "rank": 12,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 568294,
+        "num": 417981,
+        "word": "求张继科事件视频当心触法",
+        "onboard_time": 1680596971,
+        "rank": 13,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 77721,
+        "num": 406568,
+        "word": "过敏性鼻炎犯了有多难受",
+        "onboard_time": 1680598830,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 406142,
+        "num": 406142,
+        "word": "唐伯虎 乘风4",
+        "onboard_time": 1680586531,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 414143,
+        "num": 404864,
+        "word": "张继科事件能否掀起乒坛整风",
+        "onboard_time": 1680595771,
+        "rank": 16,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 390243,
+        "num": 390243,
+        "word": "崔始源肿么了",
+        "onboard_time": 1680584734,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 385413,
+        "num": 385413,
+        "word": "Amber 排名",
+        "onboard_time": 1680593311,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 348200,
+        "num": 348200,
+        "word": "特朗普一旦定罪或被判4年",
+        "onboard_time": 1680592888,
+        "rank": 19,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 553533,
+        "num": 345434,
+        "word": "离职半个月长出头发了",
+        "onboard_time": 1680594449,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 339668,
+        "num": 339668,
+        "word": "事实证明衣服真的不能混洗",
+        "onboard_time": 1680598471,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 322077,
+        "num": 322077,
+        "word": "他是谁 烂尾",
+        "onboard_time": 1680582270,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 311038,
+        "num": 311038,
+        "word": "旅行回来把朋友拉黑了",
+        "onboard_time": 1680595109,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 307461,
+        "num": 307461,
+        "word": "减脂可以吃任何东西",
+        "onboard_time": 1680589947,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 272087,
+        "num": 272087,
+        "word": "达尔文盒饭厂",
+        "onboard_time": 1680597930,
+        "rank": 25,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 246384,
+        "num": 246384,
+        "word": "彩礼和嫁妆该不该对等",
+        "onboard_time": 1680584251,
+        "rank": 26,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 237798,
+        "num": 237798,
+        "word": "中国女留学生在泰被杀3名嫌犯被逮捕",
+        "onboard_time": 1680586770,
+        "rank": 27,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 221425,
+        "num": 221425,
+        "word": "薛之谦演唱会",
+        "onboard_time": 1680597870,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 221212,
+        "num": 221212,
+        "word": "WE春季赛淘汰",
+        "onboard_time": 1680598049,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 218373,
+        "num": 218373,
+        "word": "如梦之梦",
+        "onboard_time": 1680594628,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 214915,
+        "num": 214915,
+        "word": "男孩扫墓跪求奶奶保佑不写作业不挨打",
+        "onboard_time": 1680591988,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208917,
+        "num": 208917,
+        "word": "甜咸口青团大pk",
+        "onboard_time": 1680600631,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 190106,
+        "num": 190106,
+        "word": "韩国空气酵母",
+        "onboard_time": 1680589649,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184283,
+        "num": 184283,
+        "word": "王源演唱会",
+        "onboard_time": 1680587969,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 183033,
+        "num": 183033,
+        "word": "揭秘张继科进军综艺背后经纪公司",
+        "onboard_time": 1680597690,
+        "rank": 35,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 174644,
+        "num": 174644,
+        "word": "陈晓被叫叔叔在线崩溃",
+        "onboard_time": 1680593008,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165320,
+        "num": 165320,
+        "word": "高圆圆摩天轮游玩随拍",
+        "onboard_time": 1680598652,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172312,
+        "num": 164797,
+        "word": "张继科曾多次被曝涉赌",
+        "onboard_time": 1680503971,
+        "rank": 38,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 155775,
+        "num": 155775,
+        "word": "特朗普被起诉激化美国两党对立情绪",
+        "onboard_time": 1680596791,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153493,
+        "num": 153493,
+        "word": "文俊辉洪知秀将出演超回",
+        "onboard_time": 1680598351,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170546,
+        "num": 152994,
+        "word": "安踏删除张继科宣传物料",
+        "onboard_time": 1680497915,
+        "rank": 41,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 152462,
+        "num": 152462,
+        "word": "最食人间烟火色双向救赎",
+        "onboard_time": 1680600511,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 139361,
+        "num": 139361,
+        "word": "不要随便接陌生电话",
+        "onboard_time": 1680600631,
+        "rank": 43,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 137605,
+        "num": 137605,
+        "word": "长月烬明灭了吗订单",
+        "onboard_time": 1680592710,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 136099,
+        "num": 136099,
+        "word": "叶舒华愿意上小S节目的原因",
+        "onboard_time": 1680584854,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131738,
+        "num": 131738,
+        "word": "没有一句粗口却把我伤得体无完肤",
+        "onboard_time": 1680585511,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 128849,
+        "num": 128849,
+        "word": "代号鸢 养卡",
+        "onboard_time": 1680581852,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 126469,
+        "num": 126469,
+        "word": "乘风4初舞台排名",
+        "onboard_time": 1680576867,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126244,
+        "num": 126244,
+        "word": "石原里美产后复出首作",
+        "onboard_time": 1680587608,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#我们这一代共产党人使命光荣责任重大#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1680538976202,
-  "endTime": 1680599832043,
+  "endTime": 1680600829837,
   "band_list": [
     {
       "raw_hot": 4386600,
@@ -43,28 +43,28 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 2318401,
-      "num": 2318401,
-      "word": "女子双腿绑14瓶茅台入境",
-      "onboard_time": 1680572849,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 2863663,
+      "num": 2863663,
+      "word": "中国乒协证实张继科已退役",
+      "onboard_time": 1680598111,
+      "rank": 3,
+      "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 2311803,
-      "num": 2311803,
+      "raw_hot": 2533973,
+      "num": 2533973,
       "word": "超级小桀",
       "onboard_time": 1680593910,
       "rank": 4,
       "category": "游戏"
     },
     {
-      "raw_hot": 2173085,
-      "num": 2173085,
-      "word": "中国乒协证实张继科已退役",
-      "onboard_time": 1680598111,
-      "rank": 3,
-      "category": "社会新闻,艺人"
+      "raw_hot": 2318401,
+      "num": 2318401,
+      "word": "女子双腿绑14瓶茅台入境",
+      "onboard_time": 1680572849,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2127421,
@@ -275,6 +275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 642538,
+      "num": 460809,
+      "word": "胡先煦说真的没有快乐减肥",
+      "onboard_time": 1680599310,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 642197,
       "num": 368182,
       "word": "离职半个月长出头发了",
@@ -339,6 +347,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 593420,
+      "num": 593420,
+      "word": "华科大回应宿舍被雷劈",
+      "onboard_time": 1680597751,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 586713,
+      "num": 586713,
+      "word": "摩羯座真的还蛮会照顾人的",
+      "onboard_time": 1680596130,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 586387,
       "num": 586387,
       "word": "薛之谦官宣济南加场南昌开站",
@@ -355,20 +379,12 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 567367,
-      "num": 567367,
-      "word": "华科大回应宿舍被雷劈",
-      "onboard_time": 1680597751,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 565515,
-      "num": 565515,
-      "word": "摩羯座真的还蛮会照顾人的",
-      "onboard_time": 1680596130,
-      "rank": 32,
-      "category": "情感"
+      "raw_hot": 568294,
+      "num": 417981,
+      "word": "求张继科事件视频当心触法",
+      "onboard_time": 1680596971,
+      "rank": 24,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 552389,
@@ -539,6 +555,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 417982,
+      "num": 417982,
+      "word": "小兰救柯南最后一跳",
+      "onboard_time": 1680596791,
+      "rank": 40,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 407934,
       "num": 407934,
       "word": "爱奇艺4月片单",
@@ -571,14 +595,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 390323,
-      "num": 390323,
-      "word": "求张继科事件视频当心触法",
-      "onboard_time": 1680596971,
-      "rank": 24,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 386090,
       "num": 386090,
       "word": "吃菠萝扎嘴的原因",
@@ -593,14 +609,6 @@
       "onboard_time": 1680581012,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 380978,
-      "num": 380978,
-      "word": "小兰救柯南最后一跳",
-      "onboard_time": 1680596791,
-      "rank": 40,
-      "category": "动漫"
     },
     {
       "raw_hot": 372817,
@@ -657,6 +665,14 @@
       "onboard_time": 1680571226,
       "rank": 36,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 339668,
+      "num": 339668,
+      "word": "事实证明衣服真的不能混洗",
+      "onboard_time": 1680598471,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 339578,
@@ -728,14 +744,6 @@
       "word": "原来摸鱼也是有技巧的",
       "onboard_time": 1680580229,
       "rank": 24,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 291176,
-      "num": 291176,
-      "word": "事实证明衣服真的不能混洗",
-      "onboard_time": 1680598471,
-      "rank": 23,
       "category": "幽默"
     },
     {
@@ -963,14 +971,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 217013,
-      "num": 217013,
-      "word": "胡先煦说真的没有快乐减肥",
-      "onboard_time": 1680599310,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 215477,
       "num": 215477,
       "word": "王者荣耀杨玉环皮肤",
@@ -1011,6 +1011,14 @@
       "category": "影视,音乐"
     },
     {
+      "raw_hot": 208917,
+      "num": 208917,
+      "word": "甜咸口青团大pk",
+      "onboard_time": 1680600631,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 207089,
       "num": 207089,
       "word": "家长为14岁娃办清华升学宴发现被骗",
@@ -1025,6 +1033,14 @@
       "onboard_time": 1680573868,
       "rank": 26,
       "category": "教育"
+    },
+    {
+      "raw_hot": 205267,
+      "num": 2645986,
+      "word": "永远记住你",
+      "onboard_time": 1680597571,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 205219,
@@ -1243,6 +1259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 183033,
+      "num": 183033,
+      "word": "揭秘张继科进军综艺背后经纪公司",
+      "onboard_time": 1680597690,
+      "rank": 35,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 182451,
       "num": 182451,
       "word": "K宝入驻微博",
@@ -1257,14 +1281,6 @@
       "onboard_time": 1680531398,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 182284,
-      "num": 2209322,
-      "word": "永远记住你",
-      "onboard_time": 1680597571,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 181429,
@@ -1297,14 +1313,6 @@
       "onboard_time": 1680589887,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 178855,
-      "num": 178855,
-      "word": "揭秘张继科进军综艺背后经纪公司",
-      "onboard_time": 1680597690,
-      "rank": 35,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 178766,
@@ -1387,6 +1395,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 165320,
+      "num": 165320,
+      "word": "高圆圆摩天轮游玩随拍",
+      "onboard_time": 1680598652,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 165013,
       "num": 165013,
       "word": "一图读懂张继科事件始末",
@@ -1443,14 +1459,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 156005,
-      "num": 156005,
-      "word": "高圆圆摩天轮游玩随拍",
-      "onboard_time": 1680598652,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 155522,
       "num": 155522,
       "word": "维金斯计划对阵雷霆复出",
@@ -1481,6 +1489,14 @@
       "onboard_time": 1680573567,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152462,
+      "num": 152462,
+      "word": "最食人间烟火色双向救赎",
+      "onboard_time": 1680600511,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 152150,
@@ -1569,6 +1585,14 @@
       "onboard_time": 1680595168,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 139361,
+      "num": 139361,
+      "word": "不要随便接陌生电话",
+      "onboard_time": 1680600631,
+      "rank": 43,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 134732,
@@ -1811,6 +1835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 77721,
+      "num": 437012,
+      "word": "过敏性鼻炎犯了有多难受",
+      "onboard_time": 1680598830,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 61832,
       "num": 61832,
       "word": "100秒梳理张继科事件",
@@ -1833,14 +1865,6 @@
       "onboard_time": 1680536791,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 43718,
-      "num": 437012,
-      "word": "过敏性鼻炎犯了有多难受",
-      "onboard_time": 1680598830,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 39982,
