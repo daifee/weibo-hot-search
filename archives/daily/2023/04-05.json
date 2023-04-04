@@ -1,6 +1,6 @@
 {
   "startTime": 1680625388129,
-  "endTime": 1680644011556,
+  "endTime": 1680646543911,
   "band_list": [
     {
       "raw_hot": 3423974,
@@ -347,6 +347,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 105204,
+      "num": 105204,
+      "word": "你会忍着拥挤的烦恼出游吗",
+      "onboard_time": 1680641351,
+      "rank": 31,
+      "category": "社会议题,旅游"
+    },
+    {
       "raw_hot": 102545,
       "num": 102545,
       "word": "人生之路",
@@ -409,14 +417,6 @@
       "onboard_time": 1680622050,
       "rank": 49,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 52998,
-      "num": 34918,
-      "word": "你会忍着拥挤的烦恼出游吗",
-      "onboard_time": 1680641351,
-      "rank": 31,
-      "category": "社会议题,旅游"
     },
     {
       "raw_hot": 52015,
