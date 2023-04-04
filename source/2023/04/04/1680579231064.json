@@ -1,0 +1,410 @@
+{
+  "runTime": 1680579231064,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3256068,
+        "num": 3256068,
+        "word": "王刚清空账号解散粉丝群",
+        "onboard_time": 1680576569,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2188150,
+        "num": 2188150,
+        "word": "女子双腿绑14瓶茅台入境",
+        "onboard_time": 1680572849,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138798,
+        "num": 2153777,
+        "word": "一图看懂海南全岛封关意味着什么",
+        "onboard_time": 1680526413,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2141766,
+        "num": 2141766,
+        "word": "张继科的声明若有违事实是否需担责",
+        "onboard_time": 1680567390,
+        "rank": 3,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1034263,
+        "num": 1034263,
+        "word": "乘风4初舞台排名",
+        "onboard_time": 1680576867,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 934688,
+        "num": 934688,
+        "word": "电视剧199爱改名要久久爱",
+        "onboard_time": 1680575788,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 799190,
+        "num": 799190,
+        "word": "不上班的年轻人是怎么搞钱的",
+        "onboard_time": 1680572849,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 573149,
+        "num": 573149,
+        "word": "90后女入殓师穿上寿衣大方展示",
+        "onboard_time": 1680574049,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 537995,
+        "num": 537995,
+        "word": "香椿炒鸡蛋",
+        "onboard_time": 1680572250,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 521056,
+        "num": 521056,
+        "word": "沈腾2015年小品台词",
+        "onboard_time": 1680575427,
+        "rank": 9,
+        "category": "综艺,社会新闻"
+      },
+      {
+        "raw_hot": 903655,
+        "num": 517353,
+        "word": "11岁女孩遭邻居猥亵杀害案新进展",
+        "onboard_time": 1680571408,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 825004,
+        "num": 516861,
+        "word": "S先生是谁",
+        "onboard_time": 1680534816,
+        "rank": 11,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 511802,
+        "num": 511802,
+        "word": "薛之谦官宣济南加场南昌开站",
+        "onboard_time": 1680575068,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 490038,
+        "num": 490038,
+        "word": "狗狗币",
+        "onboard_time": 1680575427,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 451830,
+        "num": 451830,
+        "word": "哈利波特或将拍摄剧版",
+        "onboard_time": 1680576448,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 427456,
+        "num": 427456,
+        "word": "BLACKPINK或将全员续约YG",
+        "onboard_time": 1680570390,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 441149,
+        "num": 402280,
+        "word": "马斯克将推特图标换成柴犬",
+        "onboard_time": 1680573027,
+        "rank": 16,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 343603,
+        "num": 343603,
+        "word": "大侦探",
+        "onboard_time": 1680576691,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 330777,
+        "num": 330777,
+        "word": "肖战起诉侵权网店获赔3.5万",
+        "onboard_time": 1680578546,
+        "rank": 18,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 317165,
+        "num": 317165,
+        "word": "中央政法委长安剑评张继科事件",
+        "onboard_time": 1680525994,
+        "rank": 19,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 376462,
+        "num": 299527,
+        "word": "女子睡醒发现房顶被吹走",
+        "onboard_time": 1680577949,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279211,
+        "num": 279211,
+        "word": "毛晓彤簪花女造型",
+        "onboard_time": 1680573988,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 276074,
+        "num": 276074,
+        "word": "为什么从来不和爸妈分享日常",
+        "onboard_time": 1680567691,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 263237,
+        "num": 263237,
+        "word": "动物园称未经许可不得直播丫丫",
+        "onboard_time": 1680565527,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245425,
+        "num": 245425,
+        "word": "刘逸云浪姐4路透",
+        "onboard_time": 1680573330,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242934,
+        "num": 242934,
+        "word": "下雨天是真的不想上班",
+        "onboard_time": 1680576867,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 231582,
+        "num": 231582,
+        "word": "难怪吃菠萝嘴巴疼",
+        "onboard_time": 1680566068,
+        "rank": 26,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 231342,
+        "num": 231342,
+        "word": "昕雯联播难说再见",
+        "onboard_time": 1680573089,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 223341,
+        "num": 223341,
+        "word": "特斯拉一夜暴跌2700亿",
+        "onboard_time": 1680578910,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 217127,
+        "num": 217127,
+        "word": "刘耀文原创新歌耀眼的你",
+        "onboard_time": 1680576448,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 210268,
+        "num": 210268,
+        "word": "张继科方准备起诉",
+        "onboard_time": 1680411988,
+        "rank": 30,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 203426,
+        "num": 203426,
+        "word": "你会选择迂回式恋爱么",
+        "onboard_time": 1680578970,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 199383,
+        "num": 199383,
+        "word": "范丞丞脸颊比心",
+        "onboard_time": 1680578010,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 198716,
+        "num": 198716,
+        "word": "王楚钦世界排名升至第2",
+        "onboard_time": 1680569250,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195994,
+        "num": 195994,
+        "word": "长月烬明一眼万年海报",
+        "onboard_time": 1680578609,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 183132,
+        "num": 183132,
+        "word": "安踏删除张继科宣传物料",
+        "onboard_time": 1680497915,
+        "rank": 35,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 180673,
+        "num": 180673,
+        "word": "NCAA总决赛",
+        "onboard_time": 1680577830,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179565,
+        "num": 179565,
+        "word": "陈延年陈乔年墓旁的桃花开了",
+        "onboard_time": 1680578428,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177399,
+        "num": 177399,
+        "word": "大侦探极昼边缘剧照",
+        "onboard_time": 1680578010,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169455,
+        "num": 169455,
+        "word": "女子接诈骗电话把骗子吓懵",
+        "onboard_time": 1680571226,
+        "rank": 39,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 168918,
+        "num": 168918,
+        "word": "如何评价张继科事件中求视频乱象",
+        "onboard_time": 1680574649,
+        "rank": 40,
+        "category": "社会议题,艺人"
+      },
+      {
+        "raw_hot": 151979,
+        "num": 151979,
+        "word": "王一博出道前英文rap",
+        "onboard_time": 1680565886,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 150530,
+        "num": 150530,
+        "word": "电影无价之宝预告",
+        "onboard_time": 1680579209,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 168726,
+        "num": 146626,
+        "word": "张继科曾多次被曝涉赌",
+        "onboard_time": 1680503971,
+        "rank": 43,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 141596,
+        "num": 141596,
+        "word": "乃万心游MV",
+        "onboard_time": 1680578910,
+        "rank": 44,
+        "category": "影视,音乐"
+      },
+      {
+        "raw_hot": 140780,
+        "num": 140780,
+        "word": "特朗普抵达纽约曼哈顿",
+        "onboard_time": 1680572011,
+        "rank": 45,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 159018,
+        "num": 138791,
+        "word": "张继科不愿意处在风口浪尖上",
+        "onboard_time": 1680513754,
+        "rank": 46,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 127232,
+        "num": 127232,
+        "word": "谢娜乘风破浪4路透",
+        "onboard_time": 1680567993,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 66550,
+        "num": 119864,
+        "word": "代号鸢周瑜",
+        "onboard_time": 1680542778,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 61056,
+        "num": 119069,
+        "word": "王者荣耀杨玉环皮肤",
+        "onboard_time": 1680527195,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#各地春耕生产开局良好#"
+    }
+  }
+}

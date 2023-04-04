@@ -1,7 +1,15 @@
 {
   "startTime": 1680538976202,
-  "endTime": 1680578269272,
+  "endTime": 1680579231064,
   "band_list": [
+    {
+      "raw_hot": 3256068,
+      "num": 3256068,
+      "word": "王刚清空账号解散粉丝群",
+      "onboard_time": 1680576569,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 3162601,
       "num": 536182,
@@ -17,14 +25,6 @@
       "onboard_time": 1680567390,
       "rank": 3,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 2433349,
-      "num": 538062,
-      "word": "王刚清空账号解散粉丝群",
-      "onboard_time": 1680576569,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 2318401,
@@ -75,6 +75,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1034263,
+      "num": 1034263,
+      "word": "乘风4初舞台排名",
+      "onboard_time": 1680576867,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 913030,
       "num": 913030,
       "word": "难怪吃菠萝嘴巴疼",
@@ -105,14 +113,6 @@
       "onboard_time": 1680572250,
       "rank": 30,
       "category": "美食"
-    },
-    {
-      "raw_hot": 723113,
-      "num": 723113,
-      "word": "乘风4初舞台排名",
-      "onboard_time": 1680576867,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 716821,
@@ -171,6 +171,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 573149,
+      "num": 573149,
+      "word": "90后女入殓师穿上寿衣大方展示",
+      "onboard_time": 1680574049,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 552389,
       "num": 552389,
       "word": "王一博出道前英文rap",
@@ -185,14 +193,6 @@
       "onboard_time": 1680575427,
       "rank": 35,
       "category": "作品衍生,社会新闻"
-    },
-    {
-      "raw_hot": 544279,
-      "num": 286350,
-      "word": "90后女入殓师穿上寿衣大方展示",
-      "onboard_time": 1680574049,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 539032,
@@ -283,6 +283,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 376462,
+      "num": 299527,
+      "word": "女子睡醒发现房顶被吹走",
+      "onboard_time": 1680577949,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 366812,
       "num": 276786,
       "word": "昕雯联播难说再见",
@@ -323,6 +331,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 330777,
+      "num": 330777,
+      "word": "肖战起诉侵权网店获赔3.5万",
+      "onboard_time": 1680578546,
+      "rank": 18,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 317410,
       "num": 209078,
       "word": "韩国男爱豆猥亵队友被判刑",
@@ -332,7 +348,7 @@
     },
     {
       "raw_hot": 307643,
-      "num": 1653856,
+      "num": 2153777,
       "word": "一图看懂海南全岛封关意味着什么",
       "onboard_time": 1680526413,
       "rank": 2,
@@ -427,6 +443,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 242934,
+      "num": 242934,
+      "word": "下雨天是真的不想上班",
+      "onboard_time": 1680576867,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 242066,
       "num": 213051,
       "word": "上班上出了结婚的感觉",
@@ -441,6 +465,14 @@
       "onboard_time": 1680526654,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 223341,
+      "num": 223341,
+      "word": "特斯拉一夜暴跌2700亿",
+      "onboard_time": 1680578910,
+      "rank": 28,
+      "category": "财经"
     },
     {
       "raw_hot": 218340,
@@ -465,14 +497,6 @@
       "onboard_time": 1680571110,
       "rank": 30,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 213151,
-      "num": 213151,
-      "word": "下雨天是真的不想上班",
-      "onboard_time": 1680576867,
-      "rank": 27,
-      "category": "幽默"
     },
     {
       "raw_hot": 211457,
@@ -515,11 +539,27 @@
       "category": "教育"
     },
     {
-      "raw_hot": 197266,
-      "num": 197266,
+      "raw_hot": 203426,
+      "num": 203426,
+      "word": "你会选择迂回式恋爱么",
+      "onboard_time": 1680578970,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 199383,
+      "num": 199383,
       "word": "范丞丞脸颊比心",
       "onboard_time": 1680578010,
       "rank": 29,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 195994,
+      "num": 195994,
+      "word": "长月烬明一眼万年海报",
+      "onboard_time": 1680578609,
+      "rank": 34,
       "category": "影视"
     },
     {
@@ -587,12 +627,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 180673,
+      "num": 180673,
+      "word": "NCAA总决赛",
+      "onboard_time": 1680577830,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 179565,
+      "num": 179565,
+      "word": "陈延年陈乔年墓旁的桃花开了",
+      "onboard_time": 1680578428,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 178766,
       "num": 178766,
       "word": "每天一到晚上就想吃东西",
       "onboard_time": 1680533917,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 177399,
+      "num": 177399,
+      "word": "大侦探极昼边缘剧照",
+      "onboard_time": 1680578010,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 174399,
@@ -612,7 +676,7 @@
     },
     {
       "raw_hot": 171182,
-      "num": 150798,
+      "num": 168918,
       "word": "如何评价张继科事件中求视频乱象",
       "onboard_time": 1680574649,
       "rank": 38,
@@ -683,12 +747,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 149893,
-      "num": 149893,
-      "word": "大侦探极昼边缘剧照",
-      "onboard_time": 1680578010,
-      "rank": 34,
-      "category": "综艺"
+      "raw_hot": 150530,
+      "num": 150530,
+      "word": "电影无价之宝预告",
+      "onboard_time": 1680579209,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 145841,
@@ -705,6 +769,14 @@
       "onboard_time": 1680572849,
       "rank": 45,
       "category": "影视,旅游"
+    },
+    {
+      "raw_hot": 141596,
+      "num": 141596,
+      "word": "乃万心游MV",
+      "onboard_time": 1680578910,
+      "rank": 44,
+      "category": "影视,音乐"
     },
     {
       "raw_hot": 140915,
@@ -771,14 +843,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 129442,
-      "num": 129442,
-      "word": "NCAA总决赛",
-      "onboard_time": 1680577830,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 126434,
       "num": 126434,
       "word": "李泰民正式退伍",
@@ -809,14 +873,6 @@
       "onboard_time": 1680535296,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 117995,
-      "num": 117995,
-      "word": "女子睡醒发现房顶被吹走",
-      "onboard_time": 1680577949,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 116002,

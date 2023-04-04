@@ -1,6 +1,6 @@
 {
   "startTime": 1680452464197,
-  "endTime": 1680578269272,
+  "endTime": 1680579231064,
   "band_list": [
     {
       "raw_hot": 9506486,
@@ -91,6 +91,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 3256068,
+      "num": 3256068,
+      "word": "王刚清空账号解散粉丝群",
+      "onboard_time": 1680576569,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 3220924,
       "num": 3220924,
       "word": "韩国男爱豆猥亵队友被判刑",
@@ -144,14 +152,6 @@
       "word": "BAP力灿承认猥亵队友",
       "onboard_time": 1680518796,
       "rank": 4,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 2433349,
-      "num": 538062,
-      "word": "王刚清空账号解散粉丝群",
-      "onboard_time": 1680576569,
-      "rank": 10,
       "category": "艺人"
     },
     {
@@ -379,6 +379,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1034263,
+      "num": 1034263,
+      "word": "乘风4初舞台排名",
+      "onboard_time": 1680576867,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1017908,
       "num": 1017908,
       "word": "姐弟坠亡案母亲称绝不放过叶诚尘",
@@ -571,14 +579,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 723113,
-      "num": 723113,
-      "word": "乘风4初舞台排名",
-      "onboard_time": 1680576867,
-      "rank": 5,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 716821,
       "num": 716821,
       "word": "王楚钦世界排名升至第2",
@@ -747,6 +747,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 573149,
+      "num": 573149,
+      "word": "90后女入殓师穿上寿衣大方展示",
+      "onboard_time": 1680574049,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 563401,
       "num": 563401,
       "word": "贾静雯浪姐路透",
@@ -777,14 +785,6 @@
       "onboard_time": 1680484530,
       "rank": 33,
       "category": "艺人,幽默"
-    },
-    {
-      "raw_hot": 544279,
-      "num": 286350,
-      "word": "90后女入殓师穿上寿衣大方展示",
-      "onboard_time": 1680574049,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 543403,
@@ -1171,6 +1171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 376462,
+      "num": 299527,
+      "word": "女子睡醒发现房顶被吹走",
+      "onboard_time": 1680577949,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 370545,
       "num": 370545,
       "word": "女儿继承父亲警号后听到呼叫泪崩",
@@ -1284,7 +1292,7 @@
     },
     {
       "raw_hot": 342475,
-      "num": 1653856,
+      "num": 2153777,
       "word": "一图看懂海南全岛封关意味着什么",
       "onboard_time": 1680526413,
       "rank": 2,
@@ -1297,6 +1305,14 @@
       "onboard_time": 1680573988,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 330777,
+      "num": 330777,
+      "word": "肖战起诉侵权网店获赔3.5万",
+      "onboard_time": 1680578546,
+      "rank": 18,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 329882,
@@ -1659,6 +1675,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 242934,
+      "num": 242934,
+      "word": "下雨天是真的不想上班",
+      "onboard_time": 1680576867,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 242540,
       "num": 242540,
       "word": "李雪琴说敷衍都会遭报应",
@@ -1737,6 +1761,14 @@
       "onboard_time": 1680485907,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223341,
+      "num": 223341,
+      "word": "特斯拉一夜暴跌2700亿",
+      "onboard_time": 1680578910,
+      "rank": 28,
+      "category": "财经"
     },
     {
       "raw_hot": 221257,
@@ -1841,14 +1873,6 @@
       "onboard_time": 1680494976,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 213151,
-      "num": 213151,
-      "word": "下雨天是真的不想上班",
-      "onboard_time": 1680576867,
-      "rank": 27,
-      "category": "幽默"
     },
     {
       "raw_hot": 212890,
@@ -1971,6 +1995,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 203426,
+      "num": 203426,
+      "word": "你会选择迂回式恋爱么",
+      "onboard_time": 1680578970,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 203376,
       "num": 203376,
       "word": "策瑜",
@@ -2075,19 +2107,19 @@
       "category": "情感"
     },
     {
+      "raw_hot": 199383,
+      "num": 199383,
+      "word": "范丞丞脸颊比心",
+      "onboard_time": 1680578010,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 199340,
       "num": 199340,
       "word": "恩爱两不疑预告",
       "onboard_time": 1680510334,
       "rank": 42,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 197266,
-      "num": 197266,
-      "word": "范丞丞脸颊比心",
-      "onboard_time": 1680578010,
-      "rank": 29,
       "category": "影视"
     },
     {
@@ -2113,6 +2145,14 @@
       "onboard_time": 1680451114,
       "rank": 30,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 195994,
+      "num": 195994,
+      "word": "长月烬明一眼万年海报",
+      "onboard_time": 1680578609,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 195449,
@@ -2299,12 +2339,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 180673,
+      "num": 180673,
+      "word": "NCAA总决赛",
+      "onboard_time": 1680577830,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 179565,
+      "num": 179565,
+      "word": "陈延年陈乔年墓旁的桃花开了",
+      "onboard_time": 1680578428,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 179530,
       "num": 179530,
       "word": "陈乔恩晒她的三只狗狗",
       "onboard_time": 1680509431,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 177399,
+      "num": 177399,
+      "word": "大侦探极昼边缘剧照",
+      "onboard_time": 1680578010,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 175182,
@@ -2348,7 +2412,7 @@
     },
     {
       "raw_hot": 171182,
-      "num": 150798,
+      "num": 168918,
       "word": "如何评价张继科事件中求视频乱象",
       "onboard_time": 1680574649,
       "rank": 38,
@@ -2579,6 +2643,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 150530,
+      "num": 150530,
+      "word": "电影无价之宝预告",
+      "onboard_time": 1680579209,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 150469,
       "num": 150469,
       "word": "邻居私设围栏将公区变1梯1户",
@@ -2593,14 +2665,6 @@
       "onboard_time": 1680445545,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 149893,
-      "num": 149893,
-      "word": "大侦探极昼边缘剧照",
-      "onboard_time": 1680578010,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 149871,
@@ -2683,6 +2747,14 @@
       "category": "影视,旅游"
     },
     {
+      "raw_hot": 141596,
+      "num": 141596,
+      "word": "乃万心游MV",
+      "onboard_time": 1680578910,
+      "rank": 44,
+      "category": "影视,音乐"
+    },
+    {
       "raw_hot": 139454,
       "num": 139454,
       "word": "4AM夺冠",
@@ -2755,14 +2827,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 129442,
-      "num": 129442,
-      "word": "NCAA总决赛",
-      "onboard_time": 1680577830,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 127342,
       "num": 127342,
       "word": "拉塞尔左脚酸痛",
@@ -2833,14 +2897,6 @@
       "onboard_time": 1680503429,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 117995,
-      "num": 117995,
-      "word": "女子睡醒发现房顶被吹走",
-      "onboard_time": 1680577949,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 117010,
