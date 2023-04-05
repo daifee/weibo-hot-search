@@ -1,6 +1,6 @@
 {
   "startTime": 1680452464197,
-  "endTime": 1680679000963,
+  "endTime": 1680680029823,
   "band_list": [
     {
       "raw_hot": 9506486,
@@ -707,6 +707,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 959440,
+      "num": 377539,
+      "word": "长期被自愿加班必然导致积怨",
+      "onboard_time": 1680677848,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 959032,
       "num": 959032,
       "word": "村民上坟奥迪停墓地旁被烧成空壳",
@@ -1292,7 +1300,7 @@
     },
     {
       "raw_hot": 624697,
-      "num": 298321,
+      "num": 339145,
       "word": "以后能不能每个周三都放假",
       "onboard_time": 1680672631,
       "rank": 32,
@@ -1843,6 +1851,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 445044,
+      "num": 445044,
+      "word": "鹅鸭杀",
+      "onboard_time": 1680676108,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 440245,
       "num": 440245,
       "word": "张继科事件能否掀起乒坛整风",
@@ -1979,20 +1995,20 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 417204,
-      "num": 417204,
-      "word": "鹅鸭杀",
-      "onboard_time": 1680676108,
-      "rank": 28,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 416697,
       "num": 382805,
       "word": "力灿承认曾性骚扰",
       "onboard_time": 1680518796,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 415811,
+      "num": 290236,
+      "word": "公司早8晚11或涉嫌违法",
+      "onboard_time": 1680678568,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 414354,
@@ -2571,6 +2587,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 296063,
+      "num": 296063,
+      "word": "FPX",
+      "onboard_time": 1680676227,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 295802,
       "num": 295802,
       "word": "叶舒华说公司不会管控体重",
@@ -2811,6 +2835,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 270736,
+      "num": 270736,
+      "word": "放弃治疗而进行临终关怀是不孝吗",
+      "onboard_time": 1680678087,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 270374,
       "num": 270374,
       "word": "喜欢一个人第一反应是什么",
@@ -2881,14 +2913,6 @@
       "onboard_time": 1680601650,
       "rank": 27,
       "category": "情感"
-    },
-    {
-      "raw_hot": 262923,
-      "num": 262923,
-      "word": "长期被自愿加班必然导致积怨",
-      "onboard_time": 1680677848,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 262004,
@@ -3051,14 +3075,6 @@
       "category": "自然"
     },
     {
-      "raw_hot": 253368,
-      "num": 253368,
-      "word": "FPX",
-      "onboard_time": 1680676227,
-      "rank": 45,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 251759,
       "num": 251759,
       "word": "张杰演唱会",
@@ -3209,6 +3225,14 @@
       "onboard_time": 1680520414,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 231442,
+      "num": 231442,
+      "word": "马克龙",
+      "onboard_time": 1680679710,
+      "rank": 25,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 230993,
@@ -3595,6 +3619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 208549,
+      "num": 208549,
+      "word": "宇宙探索编辑部",
+      "onboard_time": 1680679408,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 208484,
       "num": 208484,
       "word": "2023春推会参展剧目",
@@ -3707,12 +3739,28 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 204565,
+      "num": 204565,
+      "word": "光与夜之恋查理苏",
+      "onboard_time": 1680679590,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 204288,
       "num": 204288,
       "word": "真我发布会",
       "onboard_time": 1680505530,
       "rank": 36,
       "category": "科技"
+    },
+    {
+      "raw_hot": 204151,
+      "num": 204151,
+      "word": "长月烬明美术特辑",
+      "onboard_time": 1680679228,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 203426,
@@ -4267,14 +4315,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 186883,
-      "num": 186883,
-      "word": "公司早8晚11或涉嫌违法",
-      "onboard_time": 1680678568,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 186840,
       "num": 186840,
       "word": "张真源粉色格子衬衫",
@@ -4787,6 +4827,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 160652,
+      "num": 160652,
+      "word": "徐翔应莹离婚案宣判",
+      "onboard_time": 1680679408,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160628,
       "num": 168584,
       "word": "代号鸢周瑜",
@@ -4827,6 +4875,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 159925,
+      "num": 159925,
+      "word": "安俊英或将再次退出mnet",
+      "onboard_time": 1680679827,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 159725,
       "num": 159725,
       "word": "勇士VS掘金",
@@ -4851,6 +4907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158043,
+      "num": 158043,
+      "word": "陈冲 再见了坂本龙一先生",
+      "onboard_time": 1680679650,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 157660,
       "num": 1638351,
       "word": "谢谢你们守护了祖国大好山河",
@@ -4873,14 +4937,6 @@
       "onboard_time": 1680512012,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 157012,
-      "num": 157012,
-      "word": "放弃治疗而进行临终关怀是不孝吗",
-      "onboard_time": 1680678087,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 155779,

@@ -1,6 +1,6 @@
 {
   "startTime": 1680625388129,
-  "endTime": 1680679000963,
+  "endTime": 1680680029823,
   "band_list": [
     {
       "raw_hot": 4692271,
@@ -120,6 +120,14 @@
       "word": "成都人社局回应疑中电科强制员工加班",
       "onboard_time": 1680671790,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 959440,
+      "num": 377539,
+      "word": "长期被自愿加班必然导致积怨",
+      "onboard_time": 1680677848,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -308,7 +316,7 @@
     },
     {
       "raw_hot": 624697,
-      "num": 298321,
+      "num": 339145,
       "word": "以后能不能每个周三都放假",
       "onboard_time": 1680672631,
       "rank": 32,
@@ -411,6 +419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 445044,
+      "num": 445044,
+      "word": "鹅鸭杀",
+      "onboard_time": 1680676108,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 435446,
       "num": 435446,
       "word": "光大集团原董事长李晓鹏被查",
@@ -443,12 +459,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 417204,
-      "num": 417204,
-      "word": "鹅鸭杀",
-      "onboard_time": 1680676108,
-      "rank": 28,
-      "category": "游戏"
+      "raw_hot": 415811,
+      "num": 290236,
+      "word": "公司早8晚11或涉嫌违法",
+      "onboard_time": 1680678568,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 406650,
@@ -595,6 +611,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 296063,
+      "num": 296063,
+      "word": "FPX",
+      "onboard_time": 1680676227,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 294756,
       "num": 232665,
       "word": "贝克街的亡灵",
@@ -675,6 +699,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 270736,
+      "num": 270736,
+      "word": "放弃治疗而进行临终关怀是不孝吗",
+      "onboard_time": 1680678087,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 269968,
       "num": 269968,
       "word": "西湖醋鱼到底难不难吃",
@@ -689,14 +721,6 @@
       "onboard_time": 1680661350,
       "rank": 47,
       "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 262923,
-      "num": 262923,
-      "word": "长期被自愿加班必然导致积怨",
-      "onboard_time": 1680677848,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 261930,
@@ -721,14 +745,6 @@
       "onboard_time": 1680657209,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 253368,
-      "num": 253368,
-      "word": "FPX",
-      "onboard_time": 1680676227,
-      "rank": 45,
-      "category": "游戏"
     },
     {
       "raw_hot": 246167,
@@ -761,6 +777,14 @@
       "onboard_time": 1680672091,
       "rank": 33,
       "category": "美食"
+    },
+    {
+      "raw_hot": 231442,
+      "num": 231442,
+      "word": "马克龙",
+      "onboard_time": 1680679710,
+      "rank": 25,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 230993,
@@ -867,6 +891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 208549,
+      "num": 208549,
+      "word": "宇宙探索编辑部",
+      "onboard_time": 1680679408,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 208538,
       "num": 208538,
       "word": "小妈文学拍成剧了",
@@ -905,6 +937,22 @@
       "onboard_time": 1680678508,
       "rank": 30,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 204565,
+      "num": 204565,
+      "word": "光与夜之恋查理苏",
+      "onboard_time": 1680679590,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 204151,
+      "num": 204151,
+      "word": "长月烬明美术特辑",
+      "onboard_time": 1680679228,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 203389,
@@ -1001,14 +1049,6 @@
       "onboard_time": 1680672752,
       "rank": 43,
       "category": "情感,社会新闻"
-    },
-    {
-      "raw_hot": 186883,
-      "num": 186883,
-      "word": "公司早8晚11或涉嫌违法",
-      "onboard_time": 1680678568,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 186549,
@@ -1147,6 +1187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 160652,
+      "num": 160652,
+      "word": "徐翔应莹离婚案宣判",
+      "onboard_time": 1680679408,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160121,
       "num": 160121,
       "word": "四月宋男友",
@@ -1155,19 +1203,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 159925,
+      "num": 159925,
+      "word": "安俊英或将再次退出mnet",
+      "onboard_time": 1680679827,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 158043,
+      "num": 158043,
+      "word": "陈冲 再见了坂本龙一先生",
+      "onboard_time": 1680679650,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 157660,
       "num": 1638351,
       "word": "谢谢你们守护了祖国大好山河",
       "onboard_time": 1680661952,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 157012,
-      "num": 157012,
-      "word": "放弃治疗而进行临终关怀是不孝吗",
-      "onboard_time": 1680678087,
-      "rank": 41,
       "category": "社会新闻"
     },
     {
