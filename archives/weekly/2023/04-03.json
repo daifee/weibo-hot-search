@@ -1,6 +1,6 @@
 {
   "startTime": 1680452464197,
-  "endTime": 1680716019969,
+  "endTime": 1680719067015,
   "band_list": [
     {
       "raw_hot": 9506486,
@@ -6809,6 +6809,14 @@
       "onboard_time": 1680585570,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 98728,
+      "num": 46808,
+      "word": "特朗普若定罪也不用被监禁",
+      "onboard_time": 1680716895,
+      "rank": 30,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 98616,

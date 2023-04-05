@@ -1,6 +1,6 @@
 {
   "startTime": 1680712017153,
-  "endTime": 1680716019969,
+  "endTime": 1680719067015,
   "band_list": [
     {
       "raw_hot": 1656680,
@@ -387,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 98728,
+      "num": 46808,
+      "word": "特朗普若定罪也不用被监禁",
+      "onboard_time": 1680716895,
+      "rank": 30,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 94114,
       "num": 94114,
       "word": "蝴蝶乒乓暂停销售有张继科肖像产品",
@@ -433,6 +441,22 @@
       "onboard_time": 1680715039,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 32248,
+      "num": 32248,
+      "word": "陈小纭发长文迎接薄冰",
+      "onboard_time": 1680691712,
+      "rank": 39,
+      "category": "影视,艺人"
+    },
+    {
+      "raw_hot": 31879,
+      "num": 31879,
+      "word": "代号鸢 养卡",
+      "onboard_time": 1680581852,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 17638,
