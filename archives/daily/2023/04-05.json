@@ -1,6 +1,6 @@
 {
   "startTime": 1680625388129,
-  "endTime": 1680662070458,
+  "endTime": 1680664713733,
   "band_list": [
     {
       "raw_hot": 4692271,
@@ -25,6 +25,14 @@
       "onboard_time": 1680650358,
       "rank": 6,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 2596962,
+      "num": 2596962,
+      "word": "疑CETC陈志龙回应",
+      "onboard_time": 1680662851,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1544808,
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 983583,
-      "num": 609084,
+      "num": 638701,
       "word": "建议谢娜买回家",
       "onboard_time": 1680650780,
       "rank": 18,
@@ -75,6 +83,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 834861,
+      "num": 834861,
+      "word": "河北烟草",
+      "onboard_time": 1680658889,
+      "rank": 8,
+      "category": "教育"
+    },
+    {
       "raw_hot": 822914,
       "num": 160498,
       "word": "抖音崩了",
@@ -83,20 +99,20 @@
       "category": "科技"
     },
     {
+      "raw_hot": 822431,
+      "num": 636625,
+      "word": "南柱赫寸头",
+      "onboard_time": 1680661828,
+      "rank": 40,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 778581,
       "num": 778581,
       "word": "女专家不畏生死带免费药进麻风村",
       "onboard_time": 1680651560,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 764763,
-      "num": 764763,
-      "word": "河北烟草",
-      "onboard_time": 1680658889,
-      "rank": 8,
-      "category": "教育"
     },
     {
       "raw_hot": 719911,
@@ -139,11 +155,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 661600,
-      "num": 661600,
+      "raw_hot": 665757,
+      "num": 665757,
       "word": "女子称使用化妆品后流产",
       "onboard_time": 1680659250,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 660247,
+      "num": 660247,
+      "word": "清明其实是三个节日",
+      "onboard_time": 1680660330,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -161,6 +185,14 @@
       "onboard_time": 1680612150,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 591943,
+      "num": 591943,
+      "word": "长月烬明OST阵容",
+      "onboard_time": 1680661051,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 552794,
@@ -187,6 +219,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 504176,
+      "num": 504176,
+      "word": "Lisa晒BLACKPINK科切拉彩排照",
+      "onboard_time": 1680663269,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 498728,
       "num": 498728,
       "word": "高校回应招聘会设KTV陪酒岗位",
@@ -209,14 +249,6 @@
       "onboard_time": 1680651862,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 478959,
-      "num": 478959,
-      "word": "长月烬明OST阵容",
-      "onboard_time": 1680661051,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 477060,
@@ -251,20 +283,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 418841,
+      "num": 418841,
+      "word": "朴珍荣确定将于5月8日入伍",
+      "onboard_time": 1680662191,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 399956,
       "num": 190142,
       "word": "特朗普自曝被控33项罪名",
       "onboard_time": 1680649581,
       "rank": 30,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 395883,
-      "num": 395883,
-      "word": "清明其实是三个节日",
-      "onboard_time": 1680660330,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 366568,
@@ -355,12 +387,36 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 280000,
+      "num": 280000,
+      "word": "张碧晨毛不易合唱黑月光",
+      "onboard_time": 1680663269,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 272501,
       "num": 272501,
       "word": "把一群i人凑在一起",
       "onboard_time": 1680617071,
       "rank": 13,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 266265,
+      "num": 266265,
+      "word": "尽快补上死亡教育这一课",
+      "onboard_time": 1680662911,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 265674,
+      "num": 265674,
+      "word": "青山刚昌 端水",
+      "onboard_time": 1680661350,
+      "rank": 47,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 261930,
@@ -387,6 +443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 251500,
+      "num": 251500,
+      "word": "西湖醋鱼到底难不难吃",
+      "onboard_time": 1680661650,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 246167,
       "num": 246167,
       "word": "潘玮柏带老婆买戒指",
@@ -411,12 +475,28 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 221773,
+      "num": 221773,
+      "word": "茉莉青柠多多",
+      "onboard_time": 1680661350,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 219195,
       "num": 140152,
       "word": "WBG的训练赛",
       "onboard_time": 1680623970,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 215582,
+      "num": 215582,
+      "word": "柯南电影的比喻图",
+      "onboard_time": 1680663392,
+      "rank": 32,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 214496,
@@ -443,14 +523,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 203759,
-      "num": 203759,
-      "word": "青山刚昌 端水",
-      "onboard_time": 1680661350,
-      "rank": 47,
-      "category": "影视,动漫"
-    },
-    {
       "raw_hot": 198871,
       "num": 198871,
       "word": "真人版芭比电影发布角色海报",
@@ -459,12 +531,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 198149,
-      "num": 198149,
-      "word": "茉莉青柠多多",
-      "onboard_time": 1680661350,
-      "rank": 35,
-      "category": "美食"
+      "raw_hot": 198384,
+      "num": 198384,
+      "word": "男子将遗产留给爷奶被改嫁母亲分走",
+      "onboard_time": 1680664051,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196757,
@@ -499,6 +571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 181273,
+      "num": 181273,
+      "word": "杭州人的早餐",
+      "onboard_time": 1680659970,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 179904,
       "num": 179904,
       "word": "特朗普面临34项重罪指控",
@@ -515,12 +595,28 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 177331,
+      "num": 177331,
+      "word": "恩比德52分",
+      "onboard_time": 1680663269,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 174647,
       "num": 174647,
       "word": "罗云熙白鹿新剧相拥吻戏",
       "onboard_time": 1680650420,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 174075,
+      "num": 174075,
+      "word": "51岁的陈慧琳",
+      "onboard_time": 1680664531,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 173923,
@@ -547,6 +643,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 170392,
+      "num": 170392,
+      "word": "马嘉祺宋亚轩黑白造型",
+      "onboard_time": 1680663929,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 170276,
       "num": 126751,
       "word": "张大大西安",
@@ -555,20 +659,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 169197,
-      "num": 169197,
-      "word": "杭州人的早餐",
-      "onboard_time": 1680659970,
-      "rank": 39,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 158345,
-      "num": 158345,
+      "raw_hot": 160121,
+      "num": 160121,
       "word": "四月宋男友",
       "onboard_time": 1680661170,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 157660,
+      "num": 1156167,
+      "word": "谢谢你们守护了祖国大好山河",
+      "onboard_time": 1680661952,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 154454,
@@ -627,6 +731,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 140926,
+      "num": 140926,
+      "word": "黄晓明秋瓷炫同框",
+      "onboard_time": 1680651920,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138098,
       "num": 138098,
       "word": "南北清明习俗差异有多大",
@@ -659,12 +771,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 132736,
-      "num": 132736,
-      "word": "南柱赫寸头",
-      "onboard_time": 1680661828,
-      "rank": 40,
-      "category": "艺人,时尚"
+      "raw_hot": 133207,
+      "num": 133207,
+      "word": "山河记得我们记得",
+      "onboard_time": 1680664531,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131936,
@@ -769,14 +881,6 @@
       "onboard_time": 1680596971,
       "rank": 39,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 111390,
-      "num": 111390,
-      "word": "西湖醋鱼到底难不难吃",
-      "onboard_time": 1680661650,
-      "rank": 47,
-      "category": "美食"
     },
     {
       "raw_hot": 109047,
@@ -961,14 +1065,6 @@
       "onboard_time": 1680636792,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 14605,
-      "num": 1156167,
-      "word": "谢谢你们守护了祖国大好山河",
-      "onboard_time": 1680661952,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
