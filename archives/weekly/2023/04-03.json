@@ -1,6 +1,6 @@
 {
   "startTime": 1680452464197,
-  "endTime": 1680698464732,
+  "endTime": 1680699603527,
   "band_list": [
     {
       "raw_hot": 9506486,
@@ -419,12 +419,28 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1630812,
+      "num": 1533704,
+      "word": "临时工",
+      "onboard_time": 1680695311,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1623765,
       "num": 928645,
       "word": "兰哀亲了",
       "onboard_time": 1680620733,
       "rank": 7,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 1609160,
+      "num": 1609160,
+      "word": "四川警方通报学生寝室内死亡",
+      "onboard_time": 1680696091,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1581630,
@@ -473,14 +489,6 @@
       "onboard_time": 1680651682,
       "rank": 3,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 1533704,
-      "num": 1533704,
-      "word": "临时工",
-      "onboard_time": 1680695311,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1449363,
@@ -587,14 +595,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 1295709,
-      "num": 1295709,
-      "word": "四川警方通报学生寝室内死亡",
-      "onboard_time": 1680696091,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1287499,
       "num": 495665,
       "word": "张继科代言",
@@ -617,6 +617,14 @@
       "onboard_time": 1680515553,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1250563,
+      "num": 1250563,
+      "word": "谁会记得第二名",
+      "onboard_time": 1680691652,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 1241786,
@@ -731,14 +739,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1051452,
-      "num": 1051452,
-      "word": "谁会记得第二名",
-      "onboard_time": 1680691652,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 1017908,
       "num": 1017908,
       "word": "姐弟坠亡案母亲称绝不放过叶诚尘",
@@ -803,20 +803,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 936446,
+      "num": 936446,
+      "word": "92岁默多克与未婚妻分手",
+      "onboard_time": 1680696271,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 933201,
       "num": 928125,
       "word": "鹭卓 抄袭",
       "onboard_time": 1680517474,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 930540,
-      "num": 930540,
-      "word": "92岁默多克与未婚妻分手",
-      "onboard_time": 1680696271,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 925827,
@@ -921,6 +921,14 @@
       "onboard_time": 1680499471,
       "rank": 42,
       "category": "科技"
+    },
+    {
+      "raw_hot": 853474,
+      "num": 490566,
+      "word": "郭德纲意外收到已故京剧老人的礼物",
+      "onboard_time": 1680697351,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 843954,
@@ -1484,7 +1492,7 @@
     },
     {
       "raw_hot": 599863,
-      "num": 229915,
+      "num": 285172,
       "word": "宫脇咲良和鞠婧祎专辑合照",
       "onboard_time": 1680696752,
       "rank": 20,
@@ -1843,6 +1851,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 498263,
+      "num": 287799,
+      "word": "请假了一天的工位",
+      "onboard_time": 1680697951,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 496562,
       "num": 253270,
       "word": "毛不易不理解周雨彤的时尚",
@@ -1867,20 +1883,20 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 493095,
+      "num": 493095,
+      "word": "翟欣欣案一审宣判",
+      "onboard_time": 1680697951,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 491719,
       "num": 491719,
       "word": "李微敖 张继科",
       "onboard_time": 1680326491,
       "rank": 5,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 490566,
-      "num": 490566,
-      "word": "郭德纲意外收到已故京剧老人的礼物",
-      "onboard_time": 1680697351,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 490283,
@@ -2459,6 +2475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 381093,
+      "num": 381093,
+      "word": "广州TTG 今天也想过节吗",
+      "onboard_time": 1680699213,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 378902,
       "num": 378902,
       "word": "招惹",
@@ -2524,7 +2548,7 @@
     },
     {
       "raw_hot": 365629,
-      "num": 228868,
+      "num": 284185,
       "word": "4岁女儿完美重现妈妈4岁时的脸",
       "onboard_time": 1680694711,
       "rank": 21,
@@ -2843,6 +2867,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 308701,
+      "num": 308701,
+      "word": "九尾 卡位赛",
+      "onboard_time": 1680698012,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 308167,
       "num": 308167,
       "word": "郭麒麟给准女婿上门提建议",
@@ -2873,6 +2905,14 @@
       "onboard_time": 1680535296,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 300057,
+      "num": 300057,
+      "word": "编剧吴迪",
+      "onboard_time": 1680699213,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 299814,
@@ -3059,6 +3099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 282068,
+      "num": 282068,
+      "word": "Elk真想去亚运会",
+      "onboard_time": 1680697053,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 280083,
       "num": 280083,
       "word": "女团univu5正式出道",
@@ -3073,6 +3121,14 @@
       "onboard_time": 1680663269,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 279881,
+      "num": 279881,
+      "word": "小鬼 余佳运",
+      "onboard_time": 1680699394,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 279196,
@@ -3515,6 +3571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 239489,
+      "num": 239489,
+      "word": "369酒桶",
+      "onboard_time": 1680697892,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 238735,
       "num": 238735,
       "word": "陆虎反正都是我巡演",
@@ -3553,14 +3617,6 @@
       "onboard_time": 1680438148,
       "rank": 29,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 235040,
-      "num": 225350,
-      "word": "请假了一天的工位",
-      "onboard_time": 1680697951,
-      "rank": 27,
-      "category": "幽默"
     },
     {
       "raw_hot": 234142,
@@ -3675,14 +3731,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 224715,
-      "num": 224715,
-      "word": "Elk真想去亚运会",
-      "onboard_time": 1680697053,
-      "rank": 28,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 224276,
       "num": 224276,
       "word": "青团",
@@ -3697,6 +3745,14 @@
       "onboard_time": 1680501091,
       "rank": 34,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 224006,
+      "num": 224006,
+      "word": "RW对战TTG",
+      "onboard_time": 1680694293,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 223442,
@@ -4099,14 +4155,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 206257,
-      "num": 206257,
-      "word": "369酒桶",
-      "onboard_time": 1680697892,
-      "rank": 31,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 206158,
       "num": 206158,
       "word": "折叠屏会取代直板机吗",
@@ -4121,14 +4169,6 @@
       "onboard_time": 1680672151,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 205993,
-      "num": 205993,
-      "word": "九尾 卡位赛",
-      "onboard_time": 1680698012,
-      "rank": 33,
-      "category": "游戏"
     },
     {
       "raw_hot": 205473,
@@ -4248,6 +4288,14 @@
       "word": "一诺伽罗四连超凡",
       "onboard_time": 1680618575,
       "rank": 38,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 203198,
+      "num": 203198,
+      "word": "JDG对战BLG",
+      "onboard_time": 1680687688,
+      "rank": 48,
       "category": "游戏"
     },
     {
@@ -4395,14 +4443,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 200580,
-      "num": 200580,
-      "word": "RW对战TTG",
-      "onboard_time": 1680694293,
-      "rank": 39,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 200173,
       "num": 200173,
       "word": "OMG团战",
@@ -4465,14 +4505,6 @@
       "onboard_time": 1680615094,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 198897,
-      "num": 198897,
-      "word": "翟欣欣案一审宣判",
-      "onboard_time": 1680697951,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 198871,
@@ -4728,6 +4760,14 @@
       "word": "北影节官宣青年宣传推广大使吴磊",
       "onboard_time": 1680591688,
       "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 190672,
+      "num": 190672,
+      "word": "电影龙马精神上海路演",
+      "onboard_time": 1680698614,
+      "rank": 38,
       "category": "影视"
     },
     {
@@ -5323,14 +5363,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 166305,
-      "num": 166305,
-      "word": "JDG对战BLG",
-      "onboard_time": 1680687688,
-      "rank": 48,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 165588,
       "num": 165588,
       "word": "巴黎圣日耳曼0比1里昂",
@@ -5425,6 +5457,14 @@
       "onboard_time": 1680524853,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 161522,
+      "num": 189713,
+      "word": "清明一天走过七座城",
+      "onboard_time": 1680697113,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 160628,
@@ -6419,14 +6459,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 95703,
-      "num": 189713,
-      "word": "清明一天走过七座城",
-      "onboard_time": 1680697113,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 94925,
       "num": 104760,
       "word": "可以放倒广东人的鸭头",
@@ -6625,6 +6657,14 @@
       "onboard_time": 1680459195,
       "rank": 47,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 19827,
+      "num": 1609652,
+      "word": "多希望你们看看山河无恙国泰民安",
+      "onboard_time": 1680665070,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 16919,
