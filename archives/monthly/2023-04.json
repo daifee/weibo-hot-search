@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680675738635,
+  "endTime": 1680676546764,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -963,6 +963,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 976361,
+      "num": 976361,
+      "word": "成都人社局回应疑中电科强制员工加班",
+      "onboard_time": 1680671790,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 974892,
       "num": 974892,
       "word": "彩礼和嫁妆该不该对等",
@@ -1059,14 +1067,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 913489,
-      "num": 913489,
-      "word": "成都人社局回应疑中电科强制员工加班",
-      "onboard_time": 1680671790,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 913030,
       "num": 913030,
       "word": "难怪吃菠萝嘴巴疼",
@@ -1161,6 +1161,14 @@
       "onboard_time": 1680671013,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 874665,
+      "num": 585153,
+      "word": "韩国店员说要和虞书欣结婚",
+      "onboard_time": 1680672452,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 861215,
@@ -1265,14 +1273,6 @@
       "onboard_time": 1680617313,
       "rank": 35,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 828044,
-      "num": 585153,
-      "word": "韩国店员说要和虞书欣结婚",
-      "onboard_time": 1680672452,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 822431,
@@ -1529,6 +1529,14 @@
       "onboard_time": 1680345567,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 714364,
+      "num": 714364,
+      "word": "明道直播回应与蒋雯丽演情侣",
+      "onboard_time": 1680673290,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 713445,
@@ -1851,6 +1859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 624697,
+      "num": 298321,
+      "word": "以后能不能每个周三都放假",
+      "onboard_time": 1680672631,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 624364,
       "num": 624364,
       "word": "警方通报上海一男子因纠纷杀害妻子",
@@ -2059,12 +2075,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 577599,
-      "num": 298321,
-      "word": "以后能不能每个周三都放假",
-      "onboard_time": 1680672631,
-      "rank": 32,
-      "category": "情感"
+      "raw_hot": 575769,
+      "num": 575769,
+      "word": "现在的衣服尺码",
+      "onboard_time": 1680673470,
+      "rank": 14,
+      "category": "幽默,时尚"
     },
     {
       "raw_hot": 573542,
@@ -2121,14 +2137,6 @@
       "onboard_time": 1680275608,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 559853,
-      "num": 559853,
-      "word": "明道直播回应与蒋雯丽演情侣",
-      "onboard_time": 1680673290,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 556793,
@@ -2329,14 +2337,6 @@
       "onboard_time": 1680575427,
       "rank": 30,
       "category": "财经"
-    },
-    {
-      "raw_hot": 523213,
-      "num": 523213,
-      "word": "现在的衣服尺码",
-      "onboard_time": 1680673470,
-      "rank": 14,
-      "category": "幽默,时尚"
     },
     {
       "raw_hot": 521704,
@@ -2801,6 +2801,14 @@
       "onboard_time": 1680260966,
       "rank": 1,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 455718,
+      "num": 190021,
+      "word": "工会介入员工痛批领导安排加班事件",
+      "onboard_time": 1680676348,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 455702,
@@ -4179,6 +4187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 289780,
+      "num": 289780,
+      "word": "爱情而已马小跳",
+      "onboard_time": 1680675030,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 289322,
       "num": 289322,
       "word": "长月烬明一眼万年海报",
@@ -5027,6 +5043,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 240128,
+      "num": 240128,
+      "word": "喜欢你4男一女一晨跑",
+      "onboard_time": 1680675269,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 240018,
       "num": 240018,
       "word": "王子文说体面的告别很重要",
@@ -5275,6 +5299,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 224399,
+      "num": 224399,
+      "word": "周雨彤素颜采访视频",
+      "onboard_time": 1680675628,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 224276,
       "num": 224276,
       "word": "青团",
@@ -5425,6 +5457,14 @@
       "onboard_time": 1680323493,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 218167,
+      "num": 218167,
+      "word": "苏菲参加前夫婚礼",
+      "onboard_time": 1680675990,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 218002,
@@ -5947,14 +5987,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 203765,
-      "num": 203765,
-      "word": "爱情而已马小跳",
-      "onboard_time": 1680675030,
-      "rank": 28,
-      "category": "影视"
-    },
-    {
       "raw_hot": 203573,
       "num": 203573,
       "word": "洪世贤来帮唱吗",
@@ -6033,6 +6065,14 @@
       "onboard_time": 1680597690,
       "rank": 35,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 203045,
+      "num": 188755,
+      "word": "StrayKids人气",
+      "onboard_time": 1680675929,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 202974,
@@ -6587,6 +6627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194776,
+      "num": 194776,
+      "word": "鹅鸭杀",
+      "onboard_time": 1680676108,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 194107,
       "num": 194107,
       "word": "无间叔圈",
@@ -6985,14 +7033,6 @@
       "onboard_time": 1680504870,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 186100,
-      "num": 186100,
-      "word": "周雨彤素颜采访视频",
-      "onboard_time": 1680675628,
-      "rank": 33,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 185519,
@@ -7625,14 +7665,6 @@
       "onboard_time": 1680421950,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 168550,
-      "num": 168550,
-      "word": "喜欢你4男一女一晨跑",
-      "onboard_time": 1680675269,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 168426,
@@ -9056,6 +9088,14 @@
       "word": "TES对战TTG",
       "onboard_time": 1680341429,
       "rank": 33,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 128564,
+      "num": 128564,
+      "word": "FPX",
+      "onboard_time": 1680676227,
+      "rank": 45,
       "category": "游戏"
     },
     {

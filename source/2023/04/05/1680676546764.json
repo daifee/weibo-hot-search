@@ -1,0 +1,410 @@
+{
+  "runTime": 1680676546764,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3586685,
+        "num": 3586685,
+        "word": "中电科回应员工疑痛批领导安排加班",
+        "onboard_time": 1680666389,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1030264,
+        "num": 1030264,
+        "word": "丫丫上海检疫后将被北动接走",
+        "onboard_time": 1680667171,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71435,
+        "num": 978046,
+        "word": "谢谢你们守护了祖国大好山河",
+        "onboard_time": 1680661952,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 976361,
+        "num": 976361,
+        "word": "成都人社局回应疑中电科强制员工加班",
+        "onboard_time": 1680671790,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 714364,
+        "num": 714364,
+        "word": "明道直播回应与蒋雯丽演情侣",
+        "onboard_time": 1680673290,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 703244,
+        "num": 703244,
+        "word": "李子柒油管广告收益",
+        "onboard_time": 1680664951,
+        "rank": 5,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 632380,
+        "num": 632380,
+        "word": "果然娱乐CEO让鹭卓法院见",
+        "onboard_time": 1680671790,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 630956,
+        "num": 630956,
+        "word": "普通人攒一百万有多难",
+        "onboard_time": 1680657030,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 575769,
+        "num": 575769,
+        "word": "现在的衣服尺码",
+        "onboard_time": 1680673470,
+        "rank": 8,
+        "category": "幽默,时尚"
+      },
+      {
+        "raw_hot": 568111,
+        "num": 568111,
+        "word": "彭小苒的字",
+        "onboard_time": 1680665911,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1505985,
+        "num": 564651,
+        "word": "疑CETC陈志龙回应",
+        "onboard_time": 1680662851,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 874665,
+        "num": 560874,
+        "word": "韩国店员说要和虞书欣结婚",
+        "onboard_time": 1680672452,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 706599,
+        "num": 555157,
+        "word": "中国电科",
+        "onboard_time": 1680651982,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 547474,
+        "num": 547474,
+        "word": "养父母抱养25年后起诉养子补偿",
+        "onboard_time": 1680669752,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 503315,
+        "num": 503315,
+        "word": "警方通报女留学生在泰国遇害",
+        "onboard_time": 1680671013,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 479997,
+        "num": 479997,
+        "word": "灰原哀人设",
+        "onboard_time": 1680667529,
+        "rank": 15,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 409795,
+        "num": 409795,
+        "word": "董俊",
+        "onboard_time": 1680665729,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392522,
+        "num": 392522,
+        "word": "特朗普最高刑期可能达136年",
+        "onboard_time": 1680650358,
+        "rank": 17,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 292289,
+        "num": 292289,
+        "word": "南柱赫寸头",
+        "onboard_time": 1680661828,
+        "rank": 18,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 289780,
+        "num": 289780,
+        "word": "爱情而已马小跳",
+        "onboard_time": 1680675030,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 624697,
+        "num": 287617,
+        "word": "以后能不能每个周三都放假",
+        "onboard_time": 1680672631,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 274253,
+        "num": 274253,
+        "word": "长月烬明还差一个周深",
+        "onboard_time": 1680670052,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 253819,
+        "num": 253819,
+        "word": "柯哀亲了",
+        "onboard_time": 1680617614,
+        "rank": 22,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 253574,
+        "num": 253574,
+        "word": "他是谁编剧说后面不是他写的",
+        "onboard_time": 1680669692,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 240128,
+        "num": 240128,
+        "word": "喜欢你4男一女一晨跑",
+        "onboard_time": 1680675269,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231726,
+        "num": 231726,
+        "word": "声生不息宝岛季",
+        "onboard_time": 1680673711,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224399,
+        "num": 224399,
+        "word": "周雨彤素颜采访视频",
+        "onboard_time": 1680675628,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 218167,
+        "num": 218167,
+        "word": "苏菲参加前夫婚礼",
+        "onboard_time": 1680675990,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194776,
+        "num": 194776,
+        "word": "鹅鸭杀",
+        "onboard_time": 1680676108,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 190898,
+        "num": 190898,
+        "word": "四成人投票不想加班时会拒绝",
+        "onboard_time": 1680672511,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 455718,
+        "num": 190021,
+        "word": "工会介入员工痛批领导安排加班事件",
+        "onboard_time": 1680676348,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213483,
+        "num": 189908,
+        "word": "秦岚说撒娇男人更好命",
+        "onboard_time": 1680672572,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203045,
+        "num": 188755,
+        "word": "StrayKids人气",
+        "onboard_time": 1680675929,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 186521,
+        "num": 186521,
+        "word": "51岁的陈慧琳",
+        "onboard_time": 1680664531,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185432,
+        "num": 185432,
+        "word": "玄彬李栋旭新电影杀青照",
+        "onboard_time": 1680672270,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 174530,
+        "num": 174530,
+        "word": "当脱口秀演员被小三",
+        "onboard_time": 1680651682,
+        "rank": 35,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 172451,
+        "num": 172451,
+        "word": "长月烬明什么时候开演唱会",
+        "onboard_time": 1680670052,
+        "rank": 36,
+        "category": "影视,音乐"
+      },
+      {
+        "raw_hot": 163741,
+        "num": 163741,
+        "word": "清明其实是三个节日",
+        "onboard_time": 1680660330,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158222,
+        "num": 158222,
+        "word": "爆浆青团蛋糕",
+        "onboard_time": 1680672091,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 149919,
+        "num": 149919,
+        "word": "00后是怎么看待死亡的",
+        "onboard_time": 1680665670,
+        "rank": 39,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 153907,
+        "num": 145368,
+        "word": "喜欢你4男四女四来了",
+        "onboard_time": 1680671373,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136532,
+        "num": 136532,
+        "word": "长月烬明买了寻常歌",
+        "onboard_time": 1680670771,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 136056,
+        "num": 136056,
+        "word": "迪士尼里最适合我扮演的角色",
+        "onboard_time": 1680672151,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130649,
+        "num": 130649,
+        "word": "沈小婷的仪态",
+        "onboard_time": 1680667051,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128586,
+        "num": 128586,
+        "word": "特朗普公开讲话",
+        "onboard_time": 1680656247,
+        "rank": 44,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 128564,
+        "num": 128564,
+        "word": "FPX",
+        "onboard_time": 1680676227,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 127725,
+        "num": 127725,
+        "word": "2023清明档票房破亿",
+        "onboard_time": 1680674011,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 127391,
+        "num": 127391,
+        "word": "只有毛利兰受伤的世界达成了",
+        "onboard_time": 1680658410,
+        "rank": 47,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 120957,
+        "num": 120957,
+        "word": "西湖醋鱼到底难不难吃",
+        "onboard_time": 1680661650,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 118024,
+        "num": 118024,
+        "word": "青团是用什么做青",
+        "onboard_time": 1680667771,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#英雄之光#"
+    }
+  }
+}

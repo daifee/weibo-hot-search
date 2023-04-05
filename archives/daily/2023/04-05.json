@@ -1,6 +1,6 @@
 {
   "startTime": 1680625388129,
-  "endTime": 1680675738635,
+  "endTime": 1680676546764,
   "band_list": [
     {
       "raw_hot": 4692271,
@@ -107,6 +107,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 976361,
+      "num": 976361,
+      "word": "成都人社局回应疑中电科强制员工加班",
+      "onboard_time": 1680671790,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 950786,
       "num": 585395,
       "word": "兰哀亲了",
@@ -121,14 +129,6 @@
       "onboard_time": 1680665911,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 913489,
-      "num": 913489,
-      "word": "成都人社局回应疑中电科强制员工加班",
-      "onboard_time": 1680671790,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 904651,
@@ -147,20 +147,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 874665,
+      "num": 585153,
+      "word": "韩国店员说要和虞书欣结婚",
+      "onboard_time": 1680672452,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 834861,
       "num": 834861,
       "word": "河北烟草",
       "onboard_time": 1680658889,
       "rank": 8,
       "category": "教育"
-    },
-    {
-      "raw_hot": 828044,
-      "num": 585153,
-      "word": "韩国店员说要和虞书欣结婚",
-      "onboard_time": 1680672452,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 822914,
@@ -217,6 +217,14 @@
       "onboard_time": 1680652223,
       "rank": 13,
       "category": "情感"
+    },
+    {
+      "raw_hot": 714364,
+      "num": 714364,
+      "word": "明道直播回应与蒋雯丽演情侣",
+      "onboard_time": 1680673290,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 713445,
@@ -283,6 +291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 624697,
+      "num": 298321,
+      "word": "以后能不能每个周三都放假",
+      "onboard_time": 1680672631,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 591943,
       "num": 591943,
       "word": "长月烬明OST阵容",
@@ -291,12 +307,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 577599,
-      "num": 298321,
-      "word": "以后能不能每个周三都放假",
-      "onboard_time": 1680672631,
-      "rank": 32,
-      "category": "情感"
+      "raw_hot": 575769,
+      "num": 575769,
+      "word": "现在的衣服尺码",
+      "onboard_time": 1680673470,
+      "rank": 14,
+      "category": "幽默,时尚"
     },
     {
       "raw_hot": 565832,
@@ -305,14 +321,6 @@
       "onboard_time": 1680663269,
       "rank": 14,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 559853,
-      "num": 559853,
-      "word": "明道直播回应与蒋雯丽演情侣",
-      "onboard_time": 1680673290,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 552794,
@@ -329,14 +337,6 @@
       "onboard_time": 1680664531,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 523213,
-      "num": 523213,
-      "word": "现在的衣服尺码",
-      "onboard_time": 1680673470,
-      "rank": 14,
-      "category": "幽默,时尚"
     },
     {
       "raw_hot": 520136,
@@ -401,6 +401,14 @@
       "onboard_time": 1680652584,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 455718,
+      "num": 190021,
+      "word": "工会介入员工痛批领导安排加班事件",
+      "onboard_time": 1680676348,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 435446,
@@ -587,6 +595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 289780,
+      "num": 289780,
+      "word": "爱情而已马小跳",
+      "onboard_time": 1680675030,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 287147,
       "num": 287147,
       "word": "沈小婷的仪态",
@@ -699,6 +715,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 240128,
+      "num": 240128,
+      "word": "喜欢你4男一女一晨跑",
+      "onboard_time": 1680675269,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 237360,
       "num": 237360,
       "word": "爆浆青团蛋糕",
@@ -739,6 +763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 224399,
+      "num": 224399,
+      "word": "周雨彤素颜采访视频",
+      "onboard_time": 1680675628,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 224276,
       "num": 224276,
       "word": "青团",
@@ -769,6 +801,14 @@
       "onboard_time": 1680623970,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 218167,
+      "num": 218167,
+      "word": "苏菲参加前夫婚礼",
+      "onboard_time": 1680675990,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 214496,
@@ -827,20 +867,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 203765,
-      "num": 203765,
-      "word": "爱情而已马小跳",
-      "onboard_time": 1680675030,
-      "rank": 28,
-      "category": "影视"
-    },
-    {
       "raw_hot": 203389,
       "num": 203389,
       "word": "玄彬李栋旭新电影杀青照",
       "onboard_time": 1680672270,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 203045,
+      "num": 188755,
+      "word": "StrayKids人气",
+      "onboard_time": 1680675929,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 202904,
@@ -883,6 +923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 194776,
+      "num": 194776,
+      "word": "鹅鸭杀",
+      "onboard_time": 1680676108,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 193985,
       "num": 193985,
       "word": "艾薇自带简历上声生不息宝岛季",
@@ -921,14 +969,6 @@
       "onboard_time": 1680608069,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 186100,
-      "num": 186100,
-      "word": "周雨彤素颜采访视频",
-      "onboard_time": 1680675628,
-      "rank": 33,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 183611,
@@ -1025,14 +1065,6 @@
       "onboard_time": 1680617912,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 168550,
-      "num": 168550,
-      "word": "喜欢你4男一女一晨跑",
-      "onboard_time": 1680675269,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 165254,
@@ -1209,6 +1241,14 @@
       "onboard_time": 1680598111,
       "rank": 36,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 128564,
+      "num": 128564,
+      "word": "FPX",
+      "onboard_time": 1680676227,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 126719,
