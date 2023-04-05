@@ -1,6 +1,6 @@
 {
   "startTime": 1680712017153,
-  "endTime": 1680732932829,
+  "endTime": 1680734016253,
   "band_list": [
     {
       "raw_hot": 1656680,
@@ -187,6 +187,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 223690,
+      "num": 223690,
+      "word": "姐弟坠亡案生母称忏悔信非生父所写",
+      "onboard_time": 1680727632,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 222150,
       "num": 222150,
       "word": "Xun导 不愧是你",
@@ -224,14 +232,6 @@
       "word": "重庆坠亡姐弟生母清明节祭奠孩子",
       "onboard_time": 1680702272,
       "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 177581,
-      "num": 177581,
-      "word": "姐弟坠亡案生母称忏悔信非生父所写",
-      "onboard_time": 1680727632,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -371,6 +371,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 107170,
+      "num": 83138,
+      "word": "特朗普若定罪也不用被监禁",
+      "onboard_time": 1680716895,
+      "rank": 30,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 105859,
       "num": 105859,
       "word": "Doinb把冠军奖杯放地上",
@@ -395,12 +403,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 102929,
-      "num": 50618,
-      "word": "特朗普若定罪也不用被监禁",
-      "onboard_time": 1680716895,
-      "rank": 30,
-      "category": "国外要闻"
+      "raw_hot": 96487,
+      "num": 96487,
+      "word": "江苏浙江的石楠花开了",
+      "onboard_time": 1680731052,
+      "rank": 18,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 94114,
@@ -443,6 +451,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 60983,
+      "num": 42159,
+      "word": "5个特征辨别你是否湿气重",
+      "onboard_time": 1680722473,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 48644,
       "num": 48644,
       "word": "小区不认识的狗送我上学",
@@ -451,20 +467,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 43218,
-      "num": 43218,
-      "word": "江苏浙江的石楠花开了",
-      "onboard_time": 1680731052,
-      "rank": 18,
-      "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 42693,
-      "num": 32652,
-      "word": "5个特征辨别你是否湿气重",
-      "onboard_time": 1680722473,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 37804,
+      "num": 37804,
+      "word": "BLACKPINK同名换装手游VCR",
+      "onboard_time": 1680728292,
+      "rank": 37,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 34009,
@@ -483,24 +491,16 @@
       "category": "影视,艺人"
     },
     {
-      "raw_hot": 29517,
-      "num": 29517,
-      "word": "BLACKPINK同名换装手游VCR",
-      "onboard_time": 1680728292,
-      "rank": 37,
-      "category": "艺人,游戏"
-    },
-    {
-      "raw_hot": 27023,
-      "num": 27023,
+      "raw_hot": 30489,
+      "num": 30489,
       "word": "RW对战TTG",
       "onboard_time": 1680694293,
       "rank": 33,
       "category": "游戏"
     },
     {
-      "raw_hot": 19336,
-      "num": 19336,
+      "raw_hot": 20401,
+      "num": 20401,
       "word": "aespa洛杉矶疑似拍摄MV",
       "onboard_time": 1680724511,
       "rank": 34,
