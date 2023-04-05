@@ -1,6 +1,6 @@
 {
   "startTime": 1680712017153,
-  "endTime": 1680730420164,
+  "endTime": 1680732932829,
   "band_list": [
     {
       "raw_hot": 1656680,
@@ -227,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177581,
+      "num": 177581,
+      "word": "姐弟坠亡案生母称忏悔信非生父所写",
+      "onboard_time": 1680727632,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174836,
       "num": 174836,
       "word": "金智秀solo初一位",
@@ -388,7 +396,7 @@
     },
     {
       "raw_hot": 102929,
-      "num": 46808,
+      "num": 50618,
       "word": "特朗普若定罪也不用被监禁",
       "onboard_time": 1680716895,
       "rank": 30,
@@ -435,20 +443,28 @@
       "category": "情感"
     },
     {
-      "raw_hot": 66913,
-      "num": 27768,
-      "word": "姐弟坠亡案生母称忏悔信非生父所写",
-      "onboard_time": 1680727632,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 48644,
       "num": 48644,
       "word": "小区不认识的狗送我上学",
       "onboard_time": 1680715039,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 43218,
+      "num": 43218,
+      "word": "江苏浙江的石楠花开了",
+      "onboard_time": 1680731052,
+      "rank": 18,
+      "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 42693,
+      "num": 32652,
+      "word": "5个特征辨别你是否湿气重",
+      "onboard_time": 1680722473,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 34009,
@@ -467,6 +483,14 @@
       "category": "影视,艺人"
     },
     {
+      "raw_hot": 29517,
+      "num": 29517,
+      "word": "BLACKPINK同名换装手游VCR",
+      "onboard_time": 1680728292,
+      "rank": 37,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 27023,
       "num": 27023,
       "word": "RW对战TTG",
@@ -475,28 +499,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 25920,
-      "num": 24852,
-      "word": "5个特征辨别你是否湿气重",
-      "onboard_time": 1680722473,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 19336,
       "num": 19336,
       "word": "aespa洛杉矶疑似拍摄MV",
       "onboard_time": 1680724511,
       "rank": 34,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 18503,
-      "num": 18503,
-      "word": "BLACKPINK同名换装手游VCR",
-      "onboard_time": 1680728292,
-      "rank": 37,
-      "category": "艺人,游戏"
     },
     {
       "raw_hot": 17638,
