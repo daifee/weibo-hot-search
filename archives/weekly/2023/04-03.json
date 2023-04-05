@@ -1,6 +1,6 @@
 {
   "startTime": 1680452464197,
-  "endTime": 1680736479210,
+  "endTime": 1680737607492,
   "band_list": [
     {
       "raw_hot": 9506486,
@@ -1571,6 +1571,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 622965,
+      "num": 622965,
+      "word": "NINEPERCENT成团出道五周年",
+      "onboard_time": 1680736101,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 619907,
       "num": 619907,
       "word": "男孩扫墓跪求奶奶保佑不写作业不挨打",
@@ -2219,6 +2227,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 452588,
+      "num": 452588,
+      "word": "姐弟坠亡案生母称忏悔信非生父所写",
+      "onboard_time": 1680727632,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 450743,
       "num": 450743,
       "word": "湖南一家族20多人献了45万毫升血",
@@ -2505,14 +2521,6 @@
       "onboard_time": 1680649581,
       "rank": 30,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 396539,
-      "num": 396539,
-      "word": "姐弟坠亡案生母称忏悔信非生父所写",
-      "onboard_time": 1680727632,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 395742,
@@ -2883,6 +2891,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 341223,
+      "num": 341223,
+      "word": "巴萨0比4皇马",
+      "onboard_time": 1680736101,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 340905,
       "num": 340905,
       "word": "喜欢你4男四女四来了",
@@ -3120,6 +3136,14 @@
       "word": "特朗普出庭画面曝光",
       "onboard_time": 1680686549,
       "rank": 44,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 303753,
+      "num": 303753,
+      "word": "特朗普若定罪也不用被监禁",
+      "onboard_time": 1680716895,
+      "rank": 30,
       "category": "国外要闻"
     },
     {
@@ -3795,14 +3819,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 245460,
-      "num": 205308,
-      "word": "特朗普若定罪也不用被监禁",
-      "onboard_time": 1680716895,
-      "rank": 30,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 242721,
       "num": 242721,
       "word": "陪最爱的人去拍遗照是什么体验",
@@ -3913,14 +3929,6 @@
       "onboard_time": 1680672572,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 230188,
-      "num": 230188,
-      "word": "NINEPERCENT成团出道五周年",
-      "onboard_time": 1680736101,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 230080,
@@ -5187,14 +5195,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 188198,
-      "num": 188198,
-      "word": "巴萨0比4皇马",
-      "onboard_time": 1680736101,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 188032,
       "num": 188032,
       "word": "宋三川学花泽类倒立",
@@ -5297,6 +5297,14 @@
       "onboard_time": 1680504870,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 185986,
+      "num": 149748,
+      "word": "5个特征辨别你是否湿气重",
+      "onboard_time": 1680722473,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 185169,
@@ -6291,14 +6299,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 142637,
-      "num": 130399,
-      "word": "5个特征辨别你是否湿气重",
-      "onboard_time": 1680722473,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 142089,
       "num": 142089,
       "word": "迪士尼成立100周年宣传片",
@@ -6393,6 +6393,14 @@
       "onboard_time": 1680650658,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136297,
+      "num": 136297,
+      "word": "国家德比",
+      "onboard_time": 1680736701,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 136248,
@@ -6795,6 +6803,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 105591,
+      "num": 105591,
+      "word": "马克龙远道而来这些细节值得关注",
+      "onboard_time": 1680737064,
+      "rank": 34,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 104131,
       "num": 104131,
       "word": "你若记得他便无悔",
@@ -6987,6 +7003,14 @@
       "category": "游戏,美食"
     },
     {
+      "raw_hot": 69558,
+      "num": 69558,
+      "word": "金智秀新歌表演视频",
+      "onboard_time": 1680737363,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 69325,
       "num": 69325,
       "word": "纽卡斯尔联2比0曼联",
@@ -7001,6 +7025,14 @@
       "onboard_time": 1680734656,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 67476,
+      "num": 67476,
+      "word": "曼联1比0布伦特福德",
+      "onboard_time": 1680736701,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 65472,
