@@ -1,6 +1,6 @@
 {
   "startTime": 1680625388129,
-  "endTime": 1680676546764,
+  "endTime": 1680679000963,
   "band_list": [
     {
       "raw_hot": 4692271,
@@ -48,6 +48,14 @@
       "word": "疑CETC陈志龙回应",
       "onboard_time": 1680662851,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2093688,
+      "num": 2093688,
+      "word": "工会介入员工痛批领导安排加班事件",
+      "onboard_time": 1680676348,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -139,20 +147,28 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 895949,
+      "num": 585153,
+      "word": "韩国店员说要和虞书欣结婚",
+      "onboard_time": 1680672452,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 891877,
+      "num": 891877,
+      "word": "现在的衣服尺码",
+      "onboard_time": 1680673470,
+      "rank": 14,
+      "category": "幽默,时尚"
+    },
+    {
       "raw_hot": 875270,
       "num": 875270,
       "word": "警方通报女留学生在泰国遇害",
       "onboard_time": 1680671013,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 874665,
-      "num": 585153,
-      "word": "韩国店员说要和虞书欣结婚",
-      "onboard_time": 1680672452,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 834861,
@@ -307,14 +323,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 575769,
-      "num": 575769,
-      "word": "现在的衣服尺码",
-      "onboard_time": 1680673470,
-      "rank": 14,
-      "category": "幽默,时尚"
-    },
-    {
       "raw_hot": 565832,
       "num": 565832,
       "word": "Lisa晒BLACKPINK科切拉彩排照",
@@ -403,20 +411,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 455718,
-      "num": 190021,
-      "word": "工会介入员工痛批领导安排加班事件",
-      "onboard_time": 1680676348,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 435446,
       "num": 435446,
       "word": "光大集团原董事长李晓鹏被查",
       "onboard_time": 1680659610,
       "rank": 13,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 430301,
+      "num": 430301,
+      "word": "周雨彤素颜采访视频",
+      "onboard_time": 1680675628,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 423555,
@@ -433,6 +441,14 @@
       "onboard_time": 1680662191,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 417204,
+      "num": 417204,
+      "word": "鹅鸭杀",
+      "onboard_time": 1680676108,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 406650,
@@ -464,6 +480,14 @@
       "word": "他是谁编剧说后面不是他写的",
       "onboard_time": 1680669692,
       "rank": 17,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 373383,
+      "num": 373383,
+      "word": "爱情而已马小跳",
+      "onboard_time": 1680675030,
+      "rank": 28,
       "category": "影视"
     },
     {
@@ -595,14 +619,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 289780,
-      "num": 289780,
-      "word": "爱情而已马小跳",
-      "onboard_time": 1680675030,
-      "rank": 28,
-      "category": "影视"
-    },
-    {
       "raw_hot": 287147,
       "num": 287147,
       "word": "沈小婷的仪态",
@@ -675,6 +691,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 262923,
+      "num": 262923,
+      "word": "长期被自愿加班必然导致积怨",
+      "onboard_time": 1680677848,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 261930,
       "num": 207124,
       "word": "女孩跳江获救3名救援小伙溺亡",
@@ -697,6 +721,14 @@
       "onboard_time": 1680657209,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 253368,
+      "num": 253368,
+      "word": "FPX",
+      "onboard_time": 1680676227,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 246167,
@@ -763,20 +795,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 224399,
-      "num": 224399,
-      "word": "周雨彤素颜采访视频",
-      "onboard_time": 1680675628,
-      "rank": 33,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 224276,
       "num": 224276,
       "word": "青团",
       "onboard_time": 1680657331,
       "rank": 28,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 223164,
+      "num": 223164,
+      "word": "罗云熙长月烬明施法手势",
+      "onboard_time": 1680677730,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 221773,
@@ -867,6 +899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 204625,
+      "num": 192344,
+      "word": "年轻人加班报告",
+      "onboard_time": 1680678508,
+      "rank": 30,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 203389,
       "num": 203389,
       "word": "玄彬李栋旭新电影杀青照",
@@ -923,14 +963,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 194776,
-      "num": 194776,
-      "word": "鹅鸭杀",
-      "onboard_time": 1680676108,
-      "rank": 28,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 193985,
       "num": 193985,
       "word": "艾薇自带简历上声生不息宝岛季",
@@ -955,12 +987,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 187975,
+      "num": 187975,
+      "word": "Hero对战LGD",
+      "onboard_time": 1680676709,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 187713,
       "num": 187713,
       "word": "清明节的思念",
       "onboard_time": 1680672752,
       "rank": 43,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 186883,
+      "num": 186883,
+      "word": "公司早8晚11或涉嫌违法",
+      "onboard_time": 1680678568,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186549,
@@ -1011,6 +1059,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 178951,
+      "num": 178951,
+      "word": "尘封十三载崩坏美学",
+      "onboard_time": 1680678449,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 177331,
       "num": 177331,
       "word": "恩比德52分",
@@ -1059,11 +1115,27 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 171309,
+      "num": 171309,
+      "word": "2023清明档票房破亿",
+      "onboard_time": 1680674011,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 170276,
       "num": 126751,
       "word": "张大大西安",
       "onboard_time": 1680617912,
       "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 169882,
+      "num": 169882,
+      "word": "谭松韵白衬衫",
+      "onboard_time": 1680677848,
+      "rank": 38,
       "category": "艺人"
     },
     {
@@ -1088,6 +1160,14 @@
       "word": "谢谢你们守护了祖国大好山河",
       "onboard_time": 1680661952,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157012,
+      "num": 157012,
+      "word": "放弃治疗而进行临终关怀是不孝吗",
+      "onboard_time": 1680678087,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -1131,20 +1211,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 150691,
+      "num": 150691,
+      "word": "喜欢你4女三零票",
+      "onboard_time": 1680676829,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 150463,
       "num": 150463,
       "word": "你更害怕死亡还是被忘记",
       "onboard_time": 1680665670,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 149204,
-      "num": 149204,
-      "word": "2023清明档票房破亿",
-      "onboard_time": 1680674011,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 146979,
@@ -1187,12 +1267,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 140968,
+      "num": 140968,
+      "word": "华晨宇看到奥特曼变身器的反应",
+      "onboard_time": 1680678449,
+      "rank": 45,
+      "category": "综艺,幽默"
+    },
+    {
       "raw_hot": 140926,
       "num": 140926,
       "word": "黄晓明秋瓷炫同框",
       "onboard_time": 1680651920,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138760,
+      "num": 138760,
+      "word": "男子30岁未婚回村后被大妈围着劝导",
+      "onboard_time": 1680673650,
+      "rank": 46,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 138098,
@@ -1241,14 +1337,6 @@
       "onboard_time": 1680598111,
       "rank": 36,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 128564,
-      "num": 128564,
-      "word": "FPX",
-      "onboard_time": 1680676227,
-      "rank": 45,
-      "category": "游戏"
     },
     {
       "raw_hot": 126719,

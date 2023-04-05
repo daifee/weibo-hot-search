@@ -1,0 +1,410 @@
+{
+  "runTime": 1680679000963,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3075081,
+        "num": 3075081,
+        "word": "中电科回应员工疑痛批领导安排加班",
+        "onboard_time": 1680666389,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2093688,
+        "num": 2093688,
+        "word": "工会介入员工痛批领导安排加班事件",
+        "onboard_time": 1680676348,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71330,
+        "num": 1236621,
+        "word": "谢谢你们守护了祖国大好山河",
+        "onboard_time": 1680661952,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 891877,
+        "num": 891877,
+        "word": "现在的衣服尺码",
+        "onboard_time": 1680673470,
+        "rank": 3,
+        "category": "幽默,时尚"
+      },
+      {
+        "raw_hot": 866373,
+        "num": 866373,
+        "word": "丫丫上海检疫后将被北动接走",
+        "onboard_time": 1680667171,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 632458,
+        "num": 632458,
+        "word": "李子柒油管广告收益",
+        "onboard_time": 1680664951,
+        "rank": 5,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 578427,
+        "num": 578427,
+        "word": "成都人社局回应疑中电科强制员工加班",
+        "onboard_time": 1680671790,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 554216,
+        "num": 554216,
+        "word": "普通人攒一百万有多难",
+        "onboard_time": 1680657030,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 515266,
+        "num": 515266,
+        "word": "彭小苒的字",
+        "onboard_time": 1680665911,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 461175,
+        "num": 461175,
+        "word": "果然娱乐CEO让鹭卓法院见",
+        "onboard_time": 1680671790,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1303951,
+        "num": 457584,
+        "word": "疑CETC陈志龙回应",
+        "onboard_time": 1680662851,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 895949,
+        "num": 449353,
+        "word": "韩国店员说要和虞书欣结婚",
+        "onboard_time": 1680672452,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 583679,
+        "num": 444166,
+        "word": "中国电科",
+        "onboard_time": 1680651982,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 430301,
+        "num": 430301,
+        "word": "周雨彤素颜采访视频",
+        "onboard_time": 1680675628,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 417204,
+        "num": 417204,
+        "word": "鹅鸭杀",
+        "onboard_time": 1680676108,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 401133,
+        "num": 401133,
+        "word": "灰原哀人设",
+        "onboard_time": 1680667529,
+        "rank": 15,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 392116,
+        "num": 392116,
+        "word": "养父母抱养25年后起诉养子补偿",
+        "onboard_time": 1680669752,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381192,
+        "num": 381192,
+        "word": "董俊",
+        "onboard_time": 1680665729,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373383,
+        "num": 373383,
+        "word": "爱情而已马小跳",
+        "onboard_time": 1680675030,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 291851,
+        "num": 291851,
+        "word": "警方通报女留学生在泰国遇害",
+        "onboard_time": 1680671013,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 553699,
+        "num": 289489,
+        "word": "以后能不能每个周三都放假",
+        "onboard_time": 1680672631,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 265247,
+        "num": 265247,
+        "word": "南柱赫寸头",
+        "onboard_time": 1680661828,
+        "rank": 21,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 262923,
+        "num": 262923,
+        "word": "长期被自愿加班必然导致积怨",
+        "onboard_time": 1680677848,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253368,
+        "num": 253368,
+        "word": "FPX",
+        "onboard_time": 1680676227,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 250294,
+        "num": 250294,
+        "word": "声生不息宝岛季",
+        "onboard_time": 1680673711,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234820,
+        "num": 234820,
+        "word": "特朗普最高刑期可能达136年",
+        "onboard_time": 1680650358,
+        "rank": 25,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 223164,
+        "num": 223164,
+        "word": "罗云熙长月烬明施法手势",
+        "onboard_time": 1680677730,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 217516,
+        "num": 217516,
+        "word": "秦岚说撒娇男人更好命",
+        "onboard_time": 1680672572,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207378,
+        "num": 207378,
+        "word": "苏菲参加前夫婚礼",
+        "onboard_time": 1680675990,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194979,
+        "num": 194979,
+        "word": "长月烬明还差一个周深",
+        "onboard_time": 1680670052,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204625,
+        "num": 192344,
+        "word": "年轻人加班报告",
+        "onboard_time": 1680678508,
+        "rank": 30,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 187975,
+        "num": 187975,
+        "word": "Hero对战LGD",
+        "onboard_time": 1680676709,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 186883,
+        "num": 186883,
+        "word": "公司早8晚11或涉嫌违法",
+        "onboard_time": 1680678568,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183620,
+        "num": 183620,
+        "word": "51岁的陈慧琳",
+        "onboard_time": 1680664531,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179142,
+        "num": 179142,
+        "word": "他是谁编剧说后面不是他写的",
+        "onboard_time": 1680669692,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 178951,
+        "num": 178951,
+        "word": "尘封十三载崩坏美学",
+        "onboard_time": 1680678449,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 175033,
+        "num": 175033,
+        "word": "柯哀亲了",
+        "onboard_time": 1680617614,
+        "rank": 36,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 171309,
+        "num": 171309,
+        "word": "2023清明档票房破亿",
+        "onboard_time": 1680674011,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 169882,
+        "num": 169882,
+        "word": "谭松韵白衬衫",
+        "onboard_time": 1680677848,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163218,
+        "num": 163218,
+        "word": "长月烬明什么时候开演唱会",
+        "onboard_time": 1680670052,
+        "rank": 39,
+        "category": "影视,音乐"
+      },
+      {
+        "raw_hot": 158037,
+        "num": 158037,
+        "word": "四成人投票不想加班时会拒绝",
+        "onboard_time": 1680672511,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157012,
+        "num": 157012,
+        "word": "放弃治疗而进行临终关怀是不孝吗",
+        "onboard_time": 1680678087,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154110,
+        "num": 154110,
+        "word": "StrayKids人气",
+        "onboard_time": 1680675929,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 150691,
+        "num": 150691,
+        "word": "喜欢你4女三零票",
+        "onboard_time": 1680676829,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 142052,
+        "num": 142052,
+        "word": "00后是怎么看待死亡的",
+        "onboard_time": 1680665670,
+        "rank": 44,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 140968,
+        "num": 140968,
+        "word": "华晨宇看到奥特曼变身器的反应",
+        "onboard_time": 1680678449,
+        "rank": 45,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 138760,
+        "num": 138760,
+        "word": "男子30岁未婚回村后被大妈围着劝导",
+        "onboard_time": 1680673650,
+        "rank": 46,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 134729,
+        "num": 134729,
+        "word": "玄彬李栋旭新电影杀青照",
+        "onboard_time": 1680672270,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 112826,
+        "num": 112826,
+        "word": "清明节的思念",
+        "onboard_time": 1680672752,
+        "rank": 48,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 109289,
+        "num": 109289,
+        "word": "迪士尼里最适合我扮演的角色",
+        "onboard_time": 1680672151,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#我没忘记你就还在#"
+    }
+  }
+}
