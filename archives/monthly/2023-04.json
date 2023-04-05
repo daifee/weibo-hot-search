@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680680029823,
+  "endTime": 1680683049089,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -331,6 +331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2509167,
+      "num": 2509167,
+      "word": "S先生疑为赌场叠码仔",
+      "onboard_time": 1680680070,
+      "rank": 1,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 2437384,
       "num": 2437384,
       "word": "观音桥",
@@ -433,6 +441,14 @@
       "onboard_time": 1680666751,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2025242,
+      "num": 447702,
+      "word": "长期被自愿加班必然导致积怨",
+      "onboard_time": 1680677848,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2010722,
@@ -1000,14 +1016,6 @@
       "word": "泰国坠崖孕妇3年后站起来了",
       "onboard_time": 1680362430,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 959440,
-      "num": 377539,
-      "word": "长期被自愿加班必然导致积怨",
-      "onboard_time": 1680677848,
-      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -1595,6 +1603,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 707089,
+      "num": 707089,
+      "word": "孙国友承包万亩沙地20年仅栽种600多亩",
+      "onboard_time": 1680680487,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 702478,
       "num": 675679,
       "word": "坂本龙一微博告别",
@@ -2027,6 +2043,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 592703,
+      "num": 329567,
+      "word": "公司早8晚11或涉嫌违法",
+      "onboard_time": 1680678568,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 591943,
       "num": 591943,
       "word": "长月烬明OST阵容",
@@ -2139,12 +2163,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 563983,
+      "num": 563983,
+      "word": "马克龙",
+      "onboard_time": 1680679710,
+      "rank": 25,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 563401,
       "num": 563401,
       "word": "贾静雯浪姐路透",
       "onboard_time": 1680486747,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 561908,
+      "num": 561908,
+      "word": "法国总统马克龙抵达北京",
+      "onboard_time": 1680680548,
+      "rank": 5,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 561886,
@@ -2179,6 +2219,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 553995,
+      "num": 441407,
+      "word": "蝴蝶乒乓暂停销售有张继科肖像产品",
+      "onboard_time": 1680680310,
+      "rank": 11,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 552794,
       "num": 552794,
       "word": "杨丽萍爱徒跳孔雀舞被批不雅",
@@ -2209,6 +2257,14 @@
       "onboard_time": 1680575427,
       "rank": 35,
       "category": "作品衍生,社会新闻"
+    },
+    {
+      "raw_hot": 546636,
+      "num": 435799,
+      "word": "艺人工作助理详细",
+      "onboard_time": 1680681570,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 546383,
@@ -2489,6 +2545,14 @@
       "onboard_time": 1680478223,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 501098,
+      "num": 501098,
+      "word": "FPX老板发博晒冠军奖杯",
+      "onboard_time": 1680681029,
+      "rank": 7,
+      "category": "游戏"
     },
     {
       "raw_hot": 498728,
@@ -3115,14 +3179,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 415811,
-      "num": 290236,
-      "word": "公司早8晚11或涉嫌违法",
-      "onboard_time": 1680678568,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 415234,
       "num": 415234,
       "word": "张嘉元误伤周柯宇",
@@ -3201,6 +3257,14 @@
       "onboard_time": 1680523353,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 404495,
+      "num": 404495,
+      "word": "林孝埈登长城",
+      "onboard_time": 1680681870,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 403926,
@@ -3947,6 +4011,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 322396,
+      "num": 322396,
+      "word": "1分钟了解长月烬明世界观",
+      "onboard_time": 1680681570,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 322251,
       "num": 322251,
       "word": "光渊",
@@ -4345,6 +4417,14 @@
       "onboard_time": 1680673711,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 282175,
+      "num": 282175,
+      "word": "柯南贝克街的亡灵名场面",
+      "onboard_time": 1680681090,
+      "rank": 26,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 280919,
@@ -4995,6 +5075,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 246954,
+      "num": 246954,
+      "word": "WBG老板澄清爆料",
+      "onboard_time": 1680681330,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 246183,
       "num": 205898,
       "word": "大学生重新定义交换生",
@@ -5187,14 +5275,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 231442,
-      "num": 231442,
-      "word": "马克龙",
-      "onboard_time": 1680679710,
-      "rank": 25,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 230993,
       "num": 230993,
       "word": "秦岚说撒娇男人更好命",
@@ -5313,6 +5393,14 @@
       "onboard_time": 1680423449,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 226590,
+      "num": 226590,
+      "word": "光与夜之恋查理苏",
+      "onboard_time": 1680679590,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 226362,
@@ -6035,14 +6123,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 204565,
-      "num": 204565,
-      "word": "光与夜之恋查理苏",
-      "onboard_time": 1680679590,
-      "rank": 29,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 204482,
       "num": 204482,
       "word": "时代少年团娃娃",
@@ -6057,6 +6137,14 @@
       "onboard_time": 1680505530,
       "rank": 36,
       "category": "科技"
+    },
+    {
+      "raw_hot": 204254,
+      "num": 204254,
+      "word": "徐翔应莹离婚案宣判",
+      "onboard_time": 1680679408,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 204151,
@@ -6537,6 +6625,14 @@
       "onboard_time": 1680304638,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198276,
+      "num": 198276,
+      "word": "Hero誓约首战首胜",
+      "onboard_time": 1680682171,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 198232,
@@ -7121,6 +7217,14 @@
       "onboard_time": 1680504870,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 186271,
+      "num": 186271,
+      "word": "原来外卖餐具还能这样用",
+      "onboard_time": 1680681268,
+      "rank": 36,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 185519,
@@ -7779,6 +7883,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 168364,
+      "num": 168364,
+      "word": "陈冲 再见了坂本龙一先生",
+      "onboard_time": 1680679650,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 167416,
       "num": 167416,
       "word": "阿娇孔雪儿蒋梦婕同框",
@@ -8027,14 +8139,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 160652,
-      "num": 160652,
-      "word": "徐翔应莹离婚案宣判",
-      "onboard_time": 1680679408,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 160628,
       "num": 168584,
       "word": "代号鸢周瑜",
@@ -8177,14 +8281,6 @@
       "onboard_time": 1680404487,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 158043,
-      "num": 158043,
-      "word": "陈冲 再见了坂本龙一先生",
-      "onboard_time": 1680679650,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 157660,
@@ -8579,6 +8675,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 147642,
+      "num": 147642,
+      "word": "中电科称痛批加班员工非集团公司员工",
+      "onboard_time": 1680683010,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147345,
       "num": 150229,
       "word": "舞社2主理人阵容官宣",
@@ -8753,6 +8857,14 @@
       "onboard_time": 1680316469,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 142383,
+      "num": 142383,
+      "word": "一诺观赛",
+      "onboard_time": 1680682650,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 142259,
@@ -9337,6 +9449,14 @@
       "onboard_time": 1680264387,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 125420,
+      "num": 125420,
+      "word": "张婧仪怼脸live自拍",
+      "onboard_time": 1680682771,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 125046,
@@ -10265,6 +10385,14 @@
       "onboard_time": 1680266787,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 81582,
+      "num": 868076,
+      "word": "让春风带去我们的思念",
+      "onboard_time": 1680680070,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 80904,
