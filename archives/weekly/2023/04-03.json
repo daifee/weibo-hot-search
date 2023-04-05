@@ -1,6 +1,6 @@
 {
   "startTime": 1680452464197,
-  "endTime": 1680683049089,
+  "endTime": 1680683848254,
   "band_list": [
     {
       "raw_hot": 9506486,
@@ -219,6 +219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2667347,
+      "num": 2667347,
+      "word": "S先生疑为赌场叠码仔",
+      "onboard_time": 1680680070,
+      "rank": 1,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 2601228,
       "num": 1495467,
       "word": "国家体育总局乒羽中心回应张继科事件",
@@ -243,14 +251,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2509167,
-      "num": 2509167,
-      "word": "S先生疑为赌场叠码仔",
-      "onboard_time": 1680680070,
-      "rank": 1,
-      "category": "体育,艺人"
-    },
-    {
       "raw_hot": 2357460,
       "num": 2357460,
       "word": "果然娱乐回应小鬼被抄袭",
@@ -272,6 +272,14 @@
       "word": "女子双腿绑14瓶茅台入境",
       "onboard_time": 1680572849,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2234743,
+      "num": 447702,
+      "word": "长期被自愿加班必然导致积怨",
+      "onboard_time": 1680677848,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -321,14 +329,6 @@
       "onboard_time": 1680666751,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 2025242,
-      "num": 447702,
-      "word": "长期被自愿加班必然导致积怨",
-      "onboard_time": 1680677848,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2010722,
@@ -385,6 +385,14 @@
       "onboard_time": 1680411988,
       "rank": 21,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1673815,
+      "num": 1673815,
+      "word": "中电科称痛批加班员工非集团公司员工",
+      "onboard_time": 1680683010,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1643326,
@@ -1083,6 +1091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 715125,
+      "num": 715125,
+      "word": "孙国友承包万亩沙地20年仅栽种600多亩",
+      "onboard_time": 1680680487,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 714364,
       "num": 714364,
       "word": "明道直播回应与蒋雯丽演情侣",
@@ -1105,14 +1121,6 @@
       "onboard_time": 1680658410,
       "rank": 7,
       "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 707089,
-      "num": 707089,
-      "word": "孙国友承包万亩沙地20年仅栽种600多亩",
-      "onboard_time": 1680680487,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 700869,
@@ -1251,6 +1259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 645987,
+      "num": 437043,
+      "word": "艺人工作助理详细",
+      "onboard_time": 1680681570,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 642197,
       "num": 368182,
       "word": "离职半个月长出头发了",
@@ -1305,6 +1321,14 @@
       "onboard_time": 1680607353,
       "rank": 23,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 629984,
+      "num": 629984,
+      "word": "法国总统马克龙抵达北京",
+      "onboard_time": 1680680548,
+      "rank": 5,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 627766,
@@ -1491,15 +1515,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 561908,
-      "num": 561908,
-      "word": "法国总统马克龙抵达北京",
-      "onboard_time": 1680680548,
-      "rank": 5,
-      "category": "国内要闻"
-    },
-    {
-      "raw_hot": 553995,
+      "raw_hot": 556789,
       "num": 441407,
       "word": "蝴蝶乒乓暂停销售有张继科肖像产品",
       "onboard_time": 1680680310,
@@ -1529,14 +1545,6 @@
       "onboard_time": 1680575427,
       "rank": 35,
       "category": "作品衍生,社会新闻"
-    },
-    {
-      "raw_hot": 546636,
-      "num": 435799,
-      "word": "艺人工作助理详细",
-      "onboard_time": 1680681570,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 546383,
@@ -1665,6 +1673,14 @@
       "onboard_time": 1680585391,
       "rank": 14,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 504899,
+      "num": 504899,
+      "word": "林孝埈登长城",
+      "onboard_time": 1680681870,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 503929,
@@ -2121,14 +2137,6 @@
       "onboard_time": 1680523353,
       "rank": 18,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 404495,
-      "num": 404495,
-      "word": "林孝埈登长城",
-      "onboard_time": 1680681870,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 400806,
@@ -2851,6 +2859,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 277877,
+      "num": 277877,
+      "word": "WBG老板澄清爆料",
+      "onboard_time": 1680681330,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 275591,
       "num": 275591,
       "word": "特朗普抵达纽约曼哈顿",
@@ -3201,14 +3217,6 @@
       "onboard_time": 1680533618,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 246954,
-      "num": 246954,
-      "word": "WBG老板澄清爆料",
-      "onboard_time": 1680681330,
-      "rank": 28,
-      "category": "游戏"
     },
     {
       "raw_hot": 246167,
@@ -3705,6 +3713,14 @@
       "onboard_time": 1680602909,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 208590,
+      "num": 208590,
+      "word": "原来外卖餐具还能这样用",
+      "onboard_time": 1680681268,
+      "rank": 36,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 208549,
@@ -4435,14 +4451,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 186271,
-      "num": 186271,
-      "word": "原来外卖餐具还能这样用",
-      "onboard_time": 1680681268,
-      "rank": 36,
-      "category": "美食,幽默"
-    },
-    {
       "raw_hot": 185169,
       "num": 185169,
       "word": "张含韵机场捡到李纯王菊假睫毛",
@@ -4497,6 +4505,14 @@
       "onboard_time": 1680564744,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 181920,
+      "num": 181920,
+      "word": "国产恐怖片还有未来吗",
+      "onboard_time": 1680683429,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 181886,
@@ -5243,6 +5259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148646,
+      "num": 148646,
+      "word": "一诺观赛",
+      "onboard_time": 1680682650,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 148641,
       "num": 148641,
       "word": "浓眉40分",
@@ -5257,14 +5281,6 @@
       "onboard_time": 1680596910,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 147642,
-      "num": 147642,
-      "word": "中电科称痛批加班员工非集团公司员工",
-      "onboard_time": 1680683010,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 146979,
@@ -5323,6 +5339,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 144642,
+      "num": 144642,
+      "word": "张杰声生不息彩排花絮",
+      "onboard_time": 1680683609,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 144279,
       "num": 144279,
       "word": "易烊千玺智族GQ微电影",
@@ -5344,14 +5368,6 @@
       "word": "电竞人主打一个反差",
       "onboard_time": 1680513092,
       "rank": 48,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 142383,
-      "num": 142383,
-      "word": "一诺观赛",
-      "onboard_time": 1680682650,
-      "rank": 45,
       "category": "游戏"
     },
     {
@@ -5409,6 +5425,14 @@
       "onboard_time": 1680447042,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 139308,
+      "num": 139308,
+      "word": "成都劳动监察部门称强制加班涉违法",
+      "onboard_time": 1680683551,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 138760,
@@ -5497,6 +5521,14 @@
       "onboard_time": 1680570990,
       "rank": 38,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 133248,
+      "num": 133248,
+      "word": "张婧仪怼脸live自拍",
+      "onboard_time": 1680682771,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 132143,
@@ -5601,14 +5633,6 @@
       "onboard_time": 1680576931,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 125420,
-      "num": 125420,
-      "word": "张婧仪怼脸live自拍",
-      "onboard_time": 1680682771,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 124132,
@@ -5939,19 +5963,19 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 84717,
+      "num": 1870534,
+      "word": "让春风带去我们的思念",
+      "onboard_time": 1680680070,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 82186,
       "num": 82186,
       "word": "朋友借钱你会给吗",
       "onboard_time": 1680477141,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 81582,
-      "num": 868076,
-      "word": "让春风带去我们的思念",
-      "onboard_time": 1680680070,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -6173,6 +6197,9 @@
     },
     {
       "word": "#我没忘记你就还在#"
+    },
+    {
+      "word": "#为什么和平年代同样需要英雄情怀#"
     }
   ]
 }

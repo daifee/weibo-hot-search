@@ -1,0 +1,410 @@
+{
+  "runTime": 1680683848254,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2667347,
+        "num": 2667347,
+        "word": "S先生疑为赌场叠码仔",
+        "onboard_time": 1680680070,
+        "rank": 0,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 2248315,
+        "num": 2248315,
+        "word": "中电科回应员工疑痛批领导安排加班",
+        "onboard_time": 1680666389,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84717,
+        "num": 1870534,
+        "word": "让春风带去我们的思念",
+        "onboard_time": 1680680070,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1673815,
+        "num": 1673815,
+        "word": "中电科称痛批加班员工非集团公司员工",
+        "onboard_time": 1680683010,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 715125,
+        "num": 715125,
+        "word": "孙国友承包万亩沙地20年仅栽种600多亩",
+        "onboard_time": 1680680487,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 629984,
+        "num": 629984,
+        "word": "法国总统马克龙抵达北京",
+        "onboard_time": 1680680548,
+        "rank": 5,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 560201,
+        "num": 560201,
+        "word": "丫丫上海检疫后将被北动接走",
+        "onboard_time": 1680667171,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 504899,
+        "num": 504899,
+        "word": "林孝埈登长城",
+        "onboard_time": 1680681870,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 455794,
+        "num": 455794,
+        "word": "FPX老板发博晒冠军奖杯",
+        "onboard_time": 1680681029,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 444080,
+        "num": 444080,
+        "word": "马克龙",
+        "onboard_time": 1680679710,
+        "rank": 9,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 2234743,
+        "num": 441689,
+        "word": "长期被自愿加班必然导致积怨",
+        "onboard_time": 1680677848,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 645987,
+        "num": 437043,
+        "word": "艺人工作助理详细",
+        "onboard_time": 1680681570,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 556789,
+        "num": 433328,
+        "word": "蝴蝶乒乓暂停销售有张继科肖像产品",
+        "onboard_time": 1680680310,
+        "rank": 12,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 947864,
+        "num": 428406,
+        "word": "工会介入员工痛批领导安排加班事件",
+        "onboard_time": 1680676348,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 428245,
+        "num": 428245,
+        "word": "中国电科",
+        "onboard_time": 1680651982,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 421017,
+        "num": 421017,
+        "word": "现在的衣服尺码",
+        "onboard_time": 1680673470,
+        "rank": 15,
+        "category": "幽默,时尚"
+      },
+      {
+        "raw_hot": 862361,
+        "num": 411393,
+        "word": "疑CETC陈志龙回应",
+        "onboard_time": 1680662851,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 377080,
+        "num": 377080,
+        "word": "李子柒油管广告收益",
+        "onboard_time": 1680664951,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 293032,
+        "num": 293032,
+        "word": "灰原哀人设",
+        "onboard_time": 1680667529,
+        "rank": 18,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 531822,
+        "num": 292128,
+        "word": "公司早8晚11或涉嫌违法",
+        "onboard_time": 1680678568,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 570927,
+        "num": 291661,
+        "word": "以后能不能每个周三都放假",
+        "onboard_time": 1680672631,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 362216,
+        "num": 290100,
+        "word": "韩国店员说要和虞书欣结婚",
+        "onboard_time": 1680672452,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293793,
+        "num": 290008,
+        "word": "成都人社局回应疑中电科强制员工加班",
+        "onboard_time": 1680671790,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289082,
+        "num": 289082,
+        "word": "养父母抱养25年后起诉养子补偿",
+        "onboard_time": 1680669752,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283956,
+        "num": 283956,
+        "word": "1分钟了解长月烬明世界观",
+        "onboard_time": 1680681570,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 283560,
+        "num": 283560,
+        "word": "普通人攒一百万有多难",
+        "onboard_time": 1680657030,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278025,
+        "num": 278025,
+        "word": "柯南贝克街的亡灵名场面",
+        "onboard_time": 1680681090,
+        "rank": 26,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 277877,
+        "num": 277877,
+        "word": "WBG老板澄清爆料",
+        "onboard_time": 1680681330,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 256000,
+        "num": 256000,
+        "word": "果然娱乐CEO让鹭卓法院见",
+        "onboard_time": 1680671790,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255300,
+        "num": 255300,
+        "word": "彭小苒的字",
+        "onboard_time": 1680665911,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249511,
+        "num": 249511,
+        "word": "泰坦尼克号",
+        "onboard_time": 1680681992,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 213016,
+        "num": 213016,
+        "word": "光与夜之恋查理苏",
+        "onboard_time": 1680679590,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 212551,
+        "num": 212551,
+        "word": "周雨彤素颜采访视频",
+        "onboard_time": 1680675628,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 211708,
+        "num": 211708,
+        "word": "董俊",
+        "onboard_time": 1680665729,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208590,
+        "num": 208590,
+        "word": "原来外卖餐具还能这样用",
+        "onboard_time": 1680681268,
+        "rank": 34,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 190508,
+        "num": 190508,
+        "word": "徐翔应莹离婚案宣判",
+        "onboard_time": 1680679408,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189956,
+        "num": 189956,
+        "word": "南柱赫寸头",
+        "onboard_time": 1680661828,
+        "rank": 36,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 181920,
+        "num": 181920,
+        "word": "国产恐怖片还有未来吗",
+        "onboard_time": 1680683429,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171390,
+        "num": 171390,
+        "word": "年轻人加班报告",
+        "onboard_time": 1680678508,
+        "rank": 38,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 162958,
+        "num": 162958,
+        "word": "陈冲 再见了坂本龙一先生",
+        "onboard_time": 1680679650,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161793,
+        "num": 161793,
+        "word": "长月烬明什么时候开演唱会",
+        "onboard_time": 1680670052,
+        "rank": 40,
+        "category": "影视,音乐"
+      },
+      {
+        "raw_hot": 157797,
+        "num": 157797,
+        "word": "爱情而已马小跳",
+        "onboard_time": 1680675030,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 154131,
+        "num": 154131,
+        "word": "警方通报女留学生在泰国遇害",
+        "onboard_time": 1680671013,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148646,
+        "num": 148646,
+        "word": "一诺观赛",
+        "onboard_time": 1680682650,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 144642,
+        "num": 144642,
+        "word": "张杰声生不息彩排花絮",
+        "onboard_time": 1680683609,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139308,
+        "num": 139308,
+        "word": "成都劳动监察部门称强制加班涉违法",
+        "onboard_time": 1680683551,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133248,
+        "num": 133248,
+        "word": "张婧仪怼脸live自拍",
+        "onboard_time": 1680682771,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132933,
+        "num": 132933,
+        "word": "放弃治疗而进行临终关怀是不孝吗",
+        "onboard_time": 1680678087,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132915,
+        "num": 132915,
+        "word": "Hero誓约首战首胜",
+        "onboard_time": 1680682171,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 132063,
+        "num": 132063,
+        "word": "铃芽之旅",
+        "onboard_time": 1680681389,
+        "rank": 49,
+        "category": "影视,动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#为什么和平年代同样需要英雄情怀#"
+    }
+  }
+}

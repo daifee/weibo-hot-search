@@ -1,6 +1,6 @@
 {
   "startTime": 1680625388129,
-  "endTime": 1680683049089,
+  "endTime": 1680683848254,
   "band_list": [
     {
       "raw_hot": 4692271,
@@ -43,6 +43,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 2667347,
+      "num": 2667347,
+      "word": "S先生疑为赌场叠码仔",
+      "onboard_time": 1680680070,
+      "rank": 1,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 2596962,
       "num": 2596962,
       "word": "疑CETC陈志龙回应",
@@ -51,12 +59,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2509167,
-      "num": 2509167,
-      "word": "S先生疑为赌场叠码仔",
-      "onboard_time": 1680680070,
-      "rank": 1,
-      "category": "体育,艺人"
+      "raw_hot": 2234743,
+      "num": 447702,
+      "word": "长期被自愿加班必然导致积怨",
+      "onboard_time": 1680677848,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2093688,
@@ -75,11 +83,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 2025242,
-      "num": 447702,
-      "word": "长期被自愿加班必然导致积怨",
-      "onboard_time": 1680677848,
-      "rank": 22,
+      "raw_hot": 1673815,
+      "num": 1673815,
+      "word": "中电科称痛批加班员工非集团公司员工",
+      "onboard_time": 1680683010,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -251,6 +259,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 715125,
+      "num": 715125,
+      "word": "孙国友承包万亩沙地20年仅栽种600多亩",
+      "onboard_time": 1680680487,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 714364,
       "num": 714364,
       "word": "明道直播回应与蒋雯丽演情侣",
@@ -273,14 +289,6 @@
       "onboard_time": 1680658410,
       "rank": 7,
       "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 707089,
-      "num": 707089,
-      "word": "孙国友承包万亩沙地20年仅栽种600多亩",
-      "onboard_time": 1680680487,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 704026,
@@ -315,6 +323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 645987,
+      "num": 437043,
+      "word": "艺人工作助理详细",
+      "onboard_time": 1680681570,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 637823,
       "num": 320371,
       "word": "惠英红 你信不信我揍你",
@@ -329,6 +345,14 @@
       "onboard_time": 1680612150,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 629984,
+      "num": 629984,
+      "word": "法国总统马克龙抵达北京",
+      "onboard_time": 1680680548,
+      "rank": 5,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 624697,
@@ -371,15 +395,7 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 561908,
-      "num": 561908,
-      "word": "法国总统马克龙抵达北京",
-      "onboard_time": 1680680548,
-      "rank": 5,
-      "category": "国内要闻"
-    },
-    {
-      "raw_hot": 553995,
+      "raw_hot": 556789,
       "num": 441407,
       "word": "蝴蝶乒乓暂停销售有张继科肖像产品",
       "onboard_time": 1680680310,
@@ -393,14 +409,6 @@
       "onboard_time": 1680651140,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 546636,
-      "num": 435799,
-      "word": "艺人工作助理详细",
-      "onboard_time": 1680681570,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 528331,
@@ -433,6 +441,14 @@
       "onboard_time": 1680613650,
       "rank": 6,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 504899,
+      "num": 504899,
+      "word": "林孝埈登长城",
+      "onboard_time": 1680681870,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 501098,
@@ -529,14 +545,6 @@
       "onboard_time": 1680670052,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 404495,
-      "num": 404495,
-      "word": "林孝埈登长城",
-      "onboard_time": 1680681870,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 399956,
@@ -763,6 +771,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 277877,
+      "num": 277877,
+      "word": "WBG老板澄清爆料",
+      "onboard_time": 1680681330,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 274335,
       "num": 274335,
       "word": "青团是用什么做青",
@@ -827,12 +843,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 246954,
-      "num": 246954,
-      "word": "WBG老板澄清爆料",
-      "onboard_time": 1680681330,
-      "rank": 28,
-      "category": "游戏"
+      "raw_hot": 249511,
+      "num": 249511,
+      "word": "泰坦尼克号",
+      "onboard_time": 1680681992,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 246167,
@@ -865,14 +881,6 @@
       "onboard_time": 1680672091,
       "rank": 33,
       "category": "美食"
-    },
-    {
-      "raw_hot": 235241,
-      "num": 235241,
-      "word": "泰坦尼克号",
-      "onboard_time": 1680681992,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 230993,
@@ -985,6 +993,14 @@
       "onboard_time": 1680672511,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 208590,
+      "num": 208590,
+      "word": "原来外卖餐具还能这样用",
+      "onboard_time": 1680681268,
+      "rank": 36,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 208549,
@@ -1163,20 +1179,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 186271,
-      "num": 186271,
-      "word": "原来外卖餐具还能这样用",
-      "onboard_time": 1680681268,
-      "rank": 36,
-      "category": "美食,幽默"
-    },
-    {
       "raw_hot": 183611,
       "num": 188992,
       "word": "迪士尼里最适合我扮演的角色",
       "onboard_time": 1680672151,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 181920,
+      "num": 181920,
+      "word": "国产恐怖片还有未来吗",
+      "onboard_time": 1680683429,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 181273,
@@ -1387,12 +1403,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 147642,
-      "num": 147642,
-      "word": "中电科称痛批加班员工非集团公司员工",
-      "onboard_time": 1680683010,
-      "rank": 43,
-      "category": "社会新闻"
+      "raw_hot": 148646,
+      "num": 148646,
+      "word": "一诺观赛",
+      "onboard_time": 1680682650,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 146979,
@@ -1427,12 +1443,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 142383,
-      "num": 142383,
-      "word": "一诺观赛",
-      "onboard_time": 1680682650,
-      "rank": 45,
-      "category": "游戏"
+      "raw_hot": 144642,
+      "num": 144642,
+      "word": "张杰声生不息彩排花絮",
+      "onboard_time": 1680683609,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 142196,
@@ -1465,6 +1481,14 @@
       "onboard_time": 1680651920,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 139308,
+      "num": 139308,
+      "word": "成都劳动监察部门称强制加班涉违法",
+      "onboard_time": 1680683551,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 138760,
@@ -1507,6 +1531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 133248,
+      "num": 133248,
+      "word": "张婧仪怼脸live自拍",
+      "onboard_time": 1680682771,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 131936,
       "num": 131936,
       "word": "代号鸢",
@@ -1528,14 +1560,6 @@
       "word": "肖蓉浩回应孔雀舞争议",
       "onboard_time": 1680659670,
       "rank": 41,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 125420,
-      "num": 125420,
-      "word": "张婧仪怼脸live自拍",
-      "onboard_time": 1680682771,
-      "rank": 48,
       "category": "艺人"
     },
     {
@@ -1739,8 +1763,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 81582,
-      "num": 868076,
+      "raw_hot": 84717,
+      "num": 1870534,
       "word": "让春风带去我们的思念",
       "onboard_time": 1680680070,
       "rank": 2,
@@ -1831,6 +1855,9 @@
     },
     {
       "word": "#我没忘记你就还在#"
+    },
+    {
+      "word": "#为什么和平年代同样需要英雄情怀#"
     }
   ]
 }
