@@ -1,6 +1,6 @@
 {
   "startTime": 1680452464197,
-  "endTime": 1680693361072,
+  "endTime": 1680694427366,
   "band_list": [
     {
       "raw_hot": 9506486,
@@ -435,6 +435,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 1566496,
+      "num": 452606,
+      "word": "鞠婧祎",
+      "onboard_time": 1680692852,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1556798,
       "num": 641778,
       "word": "崔始源肿么了",
@@ -609,6 +617,14 @@
       "onboard_time": 1680590729,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1180333,
+      "num": 1180333,
+      "word": "以后能不能每个周三都放假",
+      "onboard_time": 1680672631,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 1175537,
@@ -841,6 +857,14 @@
       "onboard_time": 1680671013,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 862416,
+      "num": 862416,
+      "word": "剪指甲最好剪成方形的",
+      "onboard_time": 1680691830,
+      "rank": 5,
+      "category": "情感"
     },
     {
       "raw_hot": 861215,
@@ -1379,14 +1403,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 624697,
-      "num": 339145,
-      "word": "以后能不能每个周三都放假",
-      "onboard_time": 1680672631,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 624364,
       "num": 624364,
       "word": "警方通报上海一男子因纠纷杀害妻子",
@@ -1409,14 +1425,6 @@
       "onboard_time": 1680591988,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 615967,
-      "num": 615967,
-      "word": "剪指甲最好剪成方形的",
-      "onboard_time": 1680691830,
-      "rank": 5,
-      "category": "情感"
     },
     {
       "raw_hot": 609798,
@@ -2019,14 +2027,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 456766,
-      "num": 452606,
-      "word": "鞠婧祎",
-      "onboard_time": 1680692852,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 450743,
       "num": 450743,
       "word": "湖南一家族20多人献了45万毫升血",
@@ -2139,6 +2139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 423824,
+      "num": 423824,
+      "word": "陈小纭发长文迎接薄冰",
+      "onboard_time": 1680691712,
+      "rank": 15,
+      "category": "影视,艺人"
+    },
+    {
       "raw_hot": 423555,
       "num": 423555,
       "word": "他是谁豆瓣降至6.6分",
@@ -2161,6 +2169,14 @@
       "onboard_time": 1680490948,
       "rank": 29,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 420456,
+      "num": 308197,
+      "word": "杨紫毛衣马甲随拍",
+      "onboard_time": 1680693092,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 418841,
@@ -2195,12 +2211,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 414775,
-      "num": 414775,
-      "word": "陈小纭发长文迎接薄冰",
-      "onboard_time": 1680691712,
-      "rank": 15,
-      "category": "影视,艺人"
+      "raw_hot": 415543,
+      "num": 415543,
+      "word": "谁会记得第二名",
+      "onboard_time": 1680691652,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 414354,
@@ -2739,14 +2755,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 318668,
-      "num": 308197,
-      "word": "杨紫毛衣马甲随拍",
-      "onboard_time": 1680693092,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 313850,
       "num": 298990,
       "word": "网友给白鹿P的妆容",
@@ -2817,6 +2825,14 @@
       "onboard_time": 1680479848,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 298921,
+      "num": 279863,
+      "word": "六公主连播张颂文张译主演电影",
+      "onboard_time": 1680693329,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 298089,
@@ -3000,6 +3016,14 @@
       "word": "张碧晨毛不易合唱黑月光",
       "onboard_time": 1680663269,
       "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 279196,
+      "num": 279196,
+      "word": "薄冰",
+      "onboard_time": 1680693272,
+      "rank": 34,
       "category": "影视"
     },
     {
@@ -3795,6 +3819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 213575,
+      "num": 213575,
+      "word": "雨村笔记",
+      "onboard_time": 1680693512,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 213173,
       "num": 213173,
       "word": "哇唧唧哇六周年怪6的",
@@ -4379,20 +4411,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 196371,
-      "num": 196371,
-      "word": "薄冰",
-      "onboard_time": 1680693272,
-      "rank": 34,
-      "category": "影视"
-    },
-    {
       "raw_hot": 196282,
       "num": 196282,
       "word": "赵弈钦新剧人设",
       "onboard_time": 1680591391,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 196159,
+      "num": 196159,
+      "word": "扁鹊奇幻香踪新皮肤",
+      "onboard_time": 1680692371,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 196154,
@@ -4513,14 +4545,6 @@
       "onboard_time": 1680525754,
       "rank": 38,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 192660,
-      "num": 192660,
-      "word": "扁鹊奇幻香踪新皮肤",
-      "onboard_time": 1680692371,
-      "rank": 35,
-      "category": "游戏"
     },
     {
       "raw_hot": 192438,
@@ -5115,6 +5139,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 168436,
+      "num": 168436,
+      "word": "RW对战TTG",
+      "onboard_time": 1680694293,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 168364,
       "num": 168364,
       "word": "陈冲 再见了坂本龙一先生",
@@ -5435,6 +5467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 153931,
+      "num": 153931,
+      "word": "员工有权利拒绝节假日加班",
+      "onboard_time": 1680693812,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153607,
       "num": 153607,
       "word": "闯入千里江山图的小猫",
@@ -5505,14 +5545,6 @@
       "onboard_time": 1680676829,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 150691,
-      "num": 150691,
-      "word": "谁会记得第二名",
-      "onboard_time": 1680691652,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 150530,
@@ -5689,14 +5721,6 @@
       "onboard_time": 1680513092,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 142218,
-      "num": 142218,
-      "word": "六公主连播张颂文张译主演电影",
-      "onboard_time": 1680693329,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 142089,
