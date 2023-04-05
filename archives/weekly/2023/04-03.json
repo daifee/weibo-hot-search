@@ -1,6 +1,6 @@
 {
   "startTime": 1680452464197,
-  "endTime": 1680694427366,
+  "endTime": 1680698464732,
   "band_list": [
     {
       "raw_hot": 9506486,
@@ -363,6 +363,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1967556,
+      "num": 1967556,
+      "word": "以后能不能每个周三都放假",
+      "onboard_time": 1680672631,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1967488,
       "num": 1967488,
       "word": "丫丫",
@@ -465,6 +473,14 @@
       "onboard_time": 1680651682,
       "rank": 3,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 1533704,
+      "num": 1533704,
+      "word": "临时工",
+      "onboard_time": 1680695311,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1449363,
@@ -571,6 +587,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1295709,
+      "num": 1295709,
+      "word": "四川警方通报学生寝室内死亡",
+      "onboard_time": 1680696091,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1287499,
       "num": 495665,
       "word": "张继科代言",
@@ -617,14 +641,6 @@
       "onboard_time": 1680590729,
       "rank": 1,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1180333,
-      "num": 1180333,
-      "word": "以后能不能每个周三都放假",
-      "onboard_time": 1680672631,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 1175537,
@@ -715,6 +731,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1051452,
+      "num": 1051452,
+      "word": "谁会记得第二名",
+      "onboard_time": 1680691652,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1017908,
       "num": 1017908,
       "word": "姐弟坠亡案母亲称绝不放过叶诚尘",
@@ -785,6 +809,14 @@
       "onboard_time": 1680517474,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 930540,
+      "num": 930540,
+      "word": "92岁默多克与未婚妻分手",
+      "onboard_time": 1680696271,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 925827,
@@ -1315,6 +1347,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 651346,
+      "num": 651346,
+      "word": "陈小纭发长文迎接薄冰",
+      "onboard_time": 1680691712,
+      "rank": 15,
+      "category": "影视,艺人"
+    },
+    {
       "raw_hot": 651344,
       "num": 651344,
       "word": "华科大回应宿舍被雷劈",
@@ -1441,6 +1481,14 @@
       "onboard_time": 1680496537,
       "rank": 13,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 599863,
+      "num": 229915,
+      "word": "宫脇咲良和鞠婧祎专辑合照",
+      "onboard_time": 1680696752,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 594470,
@@ -1827,6 +1875,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 490566,
+      "num": 490566,
+      "word": "郭德纲意外收到已故京剧老人的礼物",
+      "onboard_time": 1680697351,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 490283,
       "num": 373508,
       "word": "虞书欣韩国街边随拍",
@@ -2139,14 +2195,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 423824,
-      "num": 423824,
-      "word": "陈小纭发长文迎接薄冰",
-      "onboard_time": 1680691712,
-      "rank": 15,
-      "category": "影视,艺人"
-    },
-    {
       "raw_hot": 423555,
       "num": 423555,
       "word": "他是谁豆瓣降至6.6分",
@@ -2209,14 +2257,6 @@
       "onboard_time": 1680518796,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 415543,
-      "num": 415543,
-      "word": "谁会记得第二名",
-      "onboard_time": 1680691652,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 414354,
@@ -2321,6 +2361,14 @@
       "onboard_time": 1680490407,
       "rank": 42,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 393810,
+      "num": 393810,
+      "word": "员工有权利拒绝节假日加班",
+      "onboard_time": 1680693812,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 392831,
@@ -2473,6 +2521,14 @@
       "onboard_time": 1680573089,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 365629,
+      "num": 228868,
+      "word": "4岁女儿完美重现妈妈4岁时的脸",
+      "onboard_time": 1680694711,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 362447,
@@ -3499,6 +3555,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 235040,
+      "num": 225350,
+      "word": "请假了一天的工位",
+      "onboard_time": 1680697951,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 234142,
       "num": 187443,
       "word": "赵丽颖又瘦了",
@@ -3611,6 +3675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 224715,
+      "num": 224715,
+      "word": "Elk真想去亚运会",
+      "onboard_time": 1680697053,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 224276,
       "num": 224276,
       "word": "青团",
@@ -3633,6 +3705,14 @@
       "onboard_time": 1680485907,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223238,
+      "num": 223238,
+      "word": "和去世亲人说的最后一句话",
+      "onboard_time": 1680695252,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 223164,
@@ -3963,6 +4043,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 208300,
+      "num": 208300,
+      "word": "貂蝉流云霜糖星元",
+      "onboard_time": 1680695671,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 207220,
       "num": 207220,
       "word": "北影节天坛奖入围影片公布",
@@ -4011,6 +4099,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 206257,
+      "num": 206257,
+      "word": "369酒桶",
+      "onboard_time": 1680697892,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 206158,
       "num": 206158,
       "word": "折叠屏会取代直板机吗",
@@ -4025,6 +4121,14 @@
       "onboard_time": 1680672151,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 205993,
+      "num": 205993,
+      "word": "九尾 卡位赛",
+      "onboard_time": 1680698012,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 205473,
@@ -4163,6 +4267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 203105,
+      "num": 203105,
+      "word": "三生友幸爱情八卦局",
+      "onboard_time": 1680697412,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 203103,
       "num": 203103,
       "word": "揭秘张继科进军综艺背后经纪公司",
@@ -4283,6 +4395,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 200580,
+      "num": 200580,
+      "word": "RW对战TTG",
+      "onboard_time": 1680694293,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 200173,
       "num": 200173,
       "word": "OMG团战",
@@ -4345,6 +4465,14 @@
       "onboard_time": 1680615094,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 198897,
+      "num": 198897,
+      "word": "翟欣欣案一审宣判",
+      "onboard_time": 1680697951,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 198871,
@@ -4707,6 +4835,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 187282,
+      "num": 187282,
+      "word": "宇宙探索编辑部 晕镜头",
+      "onboard_time": 1680696811,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 187185,
       "num": 187185,
       "word": "铃芽之旅",
@@ -4777,6 +4913,14 @@
       "onboard_time": 1680610951,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 184329,
+      "num": 184329,
+      "word": "为什么深海鱼没有容貌焦虑",
+      "onboard_time": 1680696872,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 183917,
@@ -5139,14 +5283,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 168436,
-      "num": 168436,
-      "word": "RW对战TTG",
-      "onboard_time": 1680694293,
-      "rank": 39,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 168364,
       "num": 168364,
       "word": "陈冲 再见了坂本龙一先生",
@@ -5465,14 +5601,6 @@
       "onboard_time": 1680656851,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 153931,
-      "num": 153931,
-      "word": "员工有权利拒绝节假日加班",
-      "onboard_time": 1680693812,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 153607,
@@ -6289,6 +6417,14 @@
       "onboard_time": 1680655709,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 95703,
+      "num": 189713,
+      "word": "清明一天走过七座城",
+      "onboard_time": 1680697113,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 94925,
