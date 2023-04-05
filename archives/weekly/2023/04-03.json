@@ -1,6 +1,6 @@
 {
   "startTime": 1680452464197,
-  "endTime": 1680683848254,
+  "endTime": 1680686341912,
   "band_list": [
     {
       "raw_hot": 9506486,
@@ -169,6 +169,14 @@
       "onboard_time": 1680664951,
       "rank": 7,
       "category": "网红"
+    },
+    {
+      "raw_hot": 3059268,
+      "num": 3059268,
+      "word": "中电科称痛批加班员工非集团公司员工",
+      "onboard_time": 1680683010,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3045784,
@@ -385,14 +393,6 @@
       "onboard_time": 1680411988,
       "rank": 21,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 1673815,
-      "num": 1673815,
-      "word": "中电科称痛批加班员工非集团公司员工",
-      "onboard_time": 1680683010,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1643326,
@@ -923,6 +923,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 809515,
+      "num": 809515,
+      "word": "胖东来创始人称加班不道德",
+      "onboard_time": 1680684568,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 809404,
       "num": 809404,
       "word": "A路人",
@@ -1011,6 +1019,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 755026,
+      "num": 437043,
+      "word": "艺人工作助理详细",
+      "onboard_time": 1680681570,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 744478,
       "num": 744478,
       "word": "体育总局7人工作组正式进驻足协",
@@ -1041,6 +1057,14 @@
       "onboard_time": 1680660330,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 730185,
+      "num": 730185,
+      "word": "国产恐怖片还有未来吗",
+      "onboard_time": 1680683429,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 729412,
@@ -1257,14 +1281,6 @@
       "onboard_time": 1680597751,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 645987,
-      "num": 437043,
-      "word": "艺人工作助理详细",
-      "onboard_time": 1680681570,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 642197,
@@ -1579,6 +1595,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 537559,
+      "num": 278326,
+      "word": "迪丽热巴杨紫诗话清明原声视频",
+      "onboard_time": 1680683969,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 536873,
       "num": 536873,
       "word": "秋瓷炫李彩桦舞蹈视频对比",
@@ -1833,6 +1857,14 @@
       "onboard_time": 1680585511,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 478191,
+      "num": 478191,
+      "word": "长月烬明",
+      "onboard_time": 1680512551,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 477430,
@@ -2137,14 +2169,6 @@
       "onboard_time": 1680523353,
       "rank": 18,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 400806,
-      "num": 400806,
-      "word": "长月烬明",
-      "onboard_time": 1680512551,
-      "rank": 14,
-      "category": "影视"
     },
     {
       "raw_hot": 399956,
@@ -2803,6 +2827,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 283596,
+      "num": 283596,
+      "word": "柯南贝克街的亡灵名场面",
+      "onboard_time": 1680681090,
+      "rank": 26,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 283564,
       "num": 283564,
       "word": "白桃星座",
@@ -2817,14 +2849,6 @@
       "onboard_time": 1680673711,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 282175,
-      "num": 282175,
-      "word": "柯南贝克街的亡灵名场面",
-      "onboard_time": 1680681090,
-      "rank": 26,
-      "category": "影视,动漫"
     },
     {
       "raw_hot": 280083,
@@ -3267,6 +3291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 239622,
+      "num": 239622,
+      "word": "朱珠Amber搭肩同框",
+      "onboard_time": 1680685770,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 238735,
       "num": 238735,
       "word": "陆虎反正都是我巡演",
@@ -3305,6 +3337,14 @@
       "onboard_time": 1680438148,
       "rank": 29,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 236379,
+      "num": 236379,
+      "word": "LGD",
+      "onboard_time": 1680685107,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 234142,
@@ -3539,6 +3579,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 217646,
+      "num": 217646,
+      "word": "原来外卖餐具还能这样用",
+      "onboard_time": 1680681268,
+      "rank": 36,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 217436,
       "num": 217436,
       "word": "半熟恋人2全员告白",
@@ -3713,14 +3761,6 @@
       "onboard_time": 1680602909,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 208590,
-      "num": 208590,
-      "word": "原来外卖餐具还能这样用",
-      "onboard_time": 1680681268,
-      "rank": 36,
-      "category": "美食,幽默"
     },
     {
       "raw_hot": 208549,
@@ -4035,6 +4075,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 200645,
+      "num": 200645,
+      "word": "周雨彤郑希怡片场亲亲",
+      "onboard_time": 1680685171,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 200173,
       "num": 200173,
       "word": "OMG团战",
@@ -4123,6 +4171,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 197400,
+      "num": 197400,
+      "word": "长月烬明十二神群像海报",
+      "onboard_time": 1680685889,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 197075,
       "num": 197075,
       "word": "WE对战TES",
@@ -4145,6 +4201,14 @@
       "onboard_time": 1680445424,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196908,
+      "num": 196908,
+      "word": "酒酿青团双皮奶",
+      "onboard_time": 1680685529,
+      "rank": 36,
+      "category": "美食"
     },
     {
       "raw_hot": 196703,
@@ -4291,6 +4355,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 191789,
+      "num": 191789,
+      "word": "成都劳动监察部门称强制加班涉违法",
+      "onboard_time": 1680683551,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191752,
       "num": 191752,
       "word": "卫国平今晚意能平吗",
@@ -4329,6 +4401,14 @@
       "onboard_time": 1680530978,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 189972,
+      "num": 189972,
+      "word": "如何看待节假日被安排加班",
+      "onboard_time": 1680685471,
+      "rank": 38,
+      "category": "社会议题"
     },
     {
       "raw_hot": 189668,
@@ -4409,6 +4489,14 @@
       "onboard_time": 1680610289,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 187185,
+      "num": 187185,
+      "word": "铃芽之旅",
+      "onboard_time": 1680611971,
+      "rank": 43,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 186997,
@@ -4507,12 +4595,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 181920,
-      "num": 181920,
-      "word": "国产恐怖片还有未来吗",
-      "onboard_time": 1680683429,
-      "rank": 37,
-      "category": "影视"
+      "raw_hot": 181951,
+      "num": 181951,
+      "word": "小落的关羽",
+      "onboard_time": 1680686130,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 181886,
@@ -4752,6 +4840,14 @@
       "word": "2023清明档票房破亿",
       "onboard_time": 1680674011,
       "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 171262,
+      "num": 171262,
+      "word": "爱很美味",
+      "onboard_time": 1680684329,
+      "rank": 44,
       "category": "影视"
     },
     {
@@ -5323,14 +5419,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 145222,
-      "num": 145222,
-      "word": "铃芽之旅",
-      "onboard_time": 1680611971,
-      "rank": 43,
-      "category": "影视,动漫"
-    },
-    {
       "raw_hot": 144656,
       "num": 144656,
       "word": "赵粤库存跳舞视频",
@@ -5425,14 +5513,6 @@
       "onboard_time": 1680447042,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 139308,
-      "num": 139308,
-      "word": "成都劳动监察部门称强制加班涉违法",
-      "onboard_time": 1680683551,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 138760,
@@ -5587,6 +5667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127194,
+      "num": 127194,
+      "word": "宫胁咲良对拖延症患者的建议",
+      "onboard_time": 1680686309,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 126918,
       "num": 126918,
       "word": "当同事喜欢乱动你的东西",
@@ -5633,6 +5721,14 @@
       "onboard_time": 1680576931,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125444,
+      "num": 125444,
+      "word": "久酷鲁班大师MVP",
+      "onboard_time": 1680685409,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 124132,
@@ -6200,6 +6296,9 @@
     },
     {
       "word": "#为什么和平年代同样需要英雄情怀#"
+    },
+    {
+      "word": "#在广袤祖国大地上种下片片绿色#"
     }
   ]
 }
