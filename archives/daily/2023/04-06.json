@@ -1,6 +1,6 @@
 {
   "startTime": 1680712017153,
-  "endTime": 1680715051461,
+  "endTime": 1680716019969,
   "band_list": [
     {
       "raw_hot": 1656680,
@@ -307,6 +307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116881,
+      "num": 116881,
+      "word": "用海贼王的画风画狂飙",
+      "onboard_time": 1680714141,
+      "rank": 30,
+      "category": "作品衍生,动漫"
+    },
+    {
       "raw_hot": 116515,
       "num": 116515,
       "word": "招惹",
@@ -379,20 +387,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 95472,
-      "num": 95472,
-      "word": "用海贼王的画风画狂飙",
-      "onboard_time": 1680714141,
-      "rank": 30,
-      "category": "作品衍生,动漫"
-    },
-    {
       "raw_hot": 94114,
       "num": 94114,
       "word": "蝴蝶乒乓暂停销售有张继科肖像产品",
       "onboard_time": 1680680310,
       "rank": 47,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 94010,
+      "num": 94010,
+      "word": "AI翻唱",
+      "onboard_time": 1680714499,
+      "rank": 33,
+      "category": "科技,音乐"
     },
     {
       "raw_hot": 90960,
@@ -409,14 +417,6 @@
       "onboard_time": 1680708573,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 78724,
-      "num": 78724,
-      "word": "AI翻唱",
-      "onboard_time": 1680714499,
-      "rank": 33,
-      "category": "科技,音乐"
     },
     {
       "raw_hot": 73637,

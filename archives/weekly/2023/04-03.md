@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/04/03 00:21:04 ~ 2023/04/06 01:17:31
+本榜单时间：2023/04/03 00:21:04 ~ 2023/04/06 01:33:39
 </p>
 </blockquote>
 <p>
@@ -4995,6 +4995,12 @@ Billboard冠单朴智旻Like Crazy（热度：131951）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%A8%E6%B5%B7%E8%B4%BC%E7%8E%8B%E7%9A%84%E7%94%BB%E9%A3%8E%E7%94%BB%E7%8B%82%E9%A3%99%23" target="weibo">
+用海贼王的画风画狂飙（热度：116881）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23SEVENTEEN%E6%96%B0%E4%B8%93%E5%9B%9E%E5%BD%92%E6%97%A5%E7%A8%8B%E8%A1%A8%23" target="weibo">
 SEVENTEEN新专回归日程表（热度：116002）
 </a>
@@ -5133,14 +5139,14 @@ IVE新歌预告照（热度：100116）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%A8%E6%B5%B7%E8%B4%BC%E7%8E%8B%E7%9A%84%E7%94%BB%E9%A3%8E%E7%94%BB%E7%8B%82%E9%A3%99%23" target="weibo">
-用海贼王的画风画狂飙（热度：95472）
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%AF%E4%BB%A5%E6%94%BE%E5%80%92%E5%B9%BF%E4%B8%9C%E4%BA%BA%E7%9A%84%E9%B8%AD%E5%A4%B4%23" target="weibo">
+可以放倒广东人的鸭头（热度：94925）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%AF%E4%BB%A5%E6%94%BE%E5%80%92%E5%B9%BF%E4%B8%9C%E4%BA%BA%E7%9A%84%E9%B8%AD%E5%A4%B4%23" target="weibo">
-可以放倒广东人的鸭头（热度：94925）
+<a href="https://s.weibo.com/weibo?q=%23AI%E7%BF%BB%E5%94%B1%23" target="weibo">
+AI翻唱（热度：94010）
 </a>
 </li>
 
@@ -5183,12 +5189,6 @@ Jennie一人分饰两角（热度：91270）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%AC%E6%B3%BD%E9%A9%AC7%E5%88%86%E9%92%9F%E5%B8%BD%E5%AD%90%E6%88%8F%E6%B3%95%23" target="weibo">
 本泽马7分钟帽子戏法（热度：80904）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23AI%E7%BF%BB%E5%94%B1%23" target="weibo">
-AI翻唱（热度：78724）
 </a>
 </li>
 

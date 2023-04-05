@@ -1,6 +1,6 @@
 {
   "startTime": 1680452464197,
-  "endTime": 1680715051461,
+  "endTime": 1680716019969,
   "band_list": [
     {
       "raw_hot": 9506486,
@@ -6643,6 +6643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116881,
+      "num": 116881,
+      "word": "用海贼王的画风画狂飙",
+      "onboard_time": 1680714141,
+      "rank": 30,
+      "category": "作品衍生,动漫"
+    },
+    {
       "raw_hot": 116002,
       "num": 116002,
       "word": "SEVENTEEN新专回归日程表",
@@ -6827,20 +6835,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 95472,
-      "num": 95472,
-      "word": "用海贼王的画风画狂飙",
-      "onboard_time": 1680714141,
-      "rank": 30,
-      "category": "作品衍生,动漫"
-    },
-    {
       "raw_hot": 94925,
       "num": 104760,
       "word": "可以放倒广东人的鸭头",
       "onboard_time": 1680651560,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 94010,
+      "num": 94010,
+      "word": "AI翻唱",
+      "onboard_time": 1680714499,
+      "rank": 33,
+      "category": "科技,音乐"
     },
     {
       "raw_hot": 92821,
@@ -6897,14 +6905,6 @@
       "onboard_time": 1680449915,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 78724,
-      "num": 78724,
-      "word": "AI翻唱",
-      "onboard_time": 1680714499,
-      "rank": 33,
-      "category": "科技,音乐"
     },
     {
       "raw_hot": 77721,
