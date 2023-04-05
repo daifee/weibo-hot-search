@@ -1,6 +1,6 @@
 {
   "startTime": 1680625388129,
-  "endTime": 1680699603527,
+  "endTime": 1680701371483,
   "band_list": [
     {
       "raw_hot": 9100612,
@@ -51,6 +51,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 2672761,
+      "num": 295615,
+      "word": "小鬼 余佳运",
+      "onboard_time": 1680699394,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 2667347,
       "num": 2667347,
       "word": "S先生疑为赌场叠码仔",
@@ -99,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2026916,
+      "num": 2026916,
+      "word": "四川警方通报学生寝室内死亡",
+      "onboard_time": 1680696091,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1967556,
       "num": 1967556,
       "word": "以后能不能每个周三都放假",
@@ -115,12 +131,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1609160,
-      "num": 1609160,
-      "word": "四川警方通报学生寝室内死亡",
-      "onboard_time": 1680696091,
-      "rank": 4,
-      "category": "社会新闻"
+      "raw_hot": 1630485,
+      "num": 1630485,
+      "word": "豆瓣",
+      "onboard_time": 1680700830,
+      "rank": 3,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 1596433,
+      "num": 1596433,
+      "word": "谁会记得第二名",
+      "onboard_time": 1680691652,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 1566496,
@@ -153,14 +177,6 @@
       "onboard_time": 1680667171,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1250563,
-      "num": 1250563,
-      "word": "谁会记得第二名",
-      "onboard_time": 1680691652,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 1103201,
@@ -259,8 +275,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 853474,
-      "num": 490566,
+      "raw_hot": 856123,
+      "num": 638280,
       "word": "郭德纲意外收到已故京剧老人的礼物",
       "onboard_time": 1680697351,
       "rank": 11,
@@ -443,12 +459,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 638928,
+      "num": 638928,
+      "word": "请假了一天的工位",
+      "onboard_time": 1680697951,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 637823,
       "num": 320371,
       "word": "惠英红 你信不信我揍你",
       "onboard_time": 1680620314,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 637476,
+      "num": 637476,
+      "word": "翟欣欣案一审宣判",
+      "onboard_time": 1680697951,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 630552,
@@ -528,6 +560,22 @@
       "word": "杨丽萍爱徒跳孔雀舞被批不雅",
       "onboard_time": 1680651140,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 543385,
+      "num": 543385,
+      "word": "广州TTG 今天也想过节吗",
+      "onboard_time": 1680699213,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 538640,
+      "num": 538640,
+      "word": "巩俐夫妇",
+      "onboard_time": 1680700653,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -611,28 +659,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 498263,
-      "num": 287799,
-      "word": "请假了一天的工位",
-      "onboard_time": 1680697951,
-      "rank": 27,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 495319,
       "num": 495319,
       "word": "如果我变成蟑螂妈妈会怎么办",
       "onboard_time": 1680689374,
       "rank": 25,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 493095,
-      "num": 493095,
-      "word": "翟欣欣案一审宣判",
-      "onboard_time": 1680697951,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 483632,
@@ -672,6 +704,14 @@
       "word": "爱情而已3分钟变成30秒",
       "onboard_time": 1680652584,
       "rank": 9,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 470711,
+      "num": 470711,
+      "word": "编剧吴迪",
+      "onboard_time": 1680699213,
+      "rank": 18,
       "category": "影视"
     },
     {
@@ -777,14 +817,6 @@
       "onboard_time": 1680667951,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 381093,
-      "num": 381093,
-      "word": "广州TTG 今天也想过节吗",
-      "onboard_time": 1680699213,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 378540,
@@ -955,19 +987,19 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 300057,
-      "num": 300057,
-      "word": "编剧吴迪",
-      "onboard_time": 1680699213,
-      "rank": 18,
-      "category": "影视"
-    },
-    {
       "raw_hot": 298921,
       "num": 279863,
       "word": "六公主连播张颂文张译主演电影",
       "onboard_time": 1680693329,
       "rank": 43,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 296449,
+      "num": 296449,
+      "word": "陈鑫海演技",
+      "onboard_time": 1680700653,
+      "rank": 19,
       "category": "影视"
     },
     {
@@ -1059,14 +1091,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 279881,
-      "num": 279881,
-      "word": "小鬼 余佳运",
-      "onboard_time": 1680699394,
-      "rank": 24,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 279196,
       "num": 279196,
       "word": "薄冰",
@@ -1137,6 +1161,14 @@
       "onboard_time": 1680602552,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 261774,
+      "num": 261774,
+      "word": "马栓下线",
+      "onboard_time": 1680700830,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 261191,
@@ -1611,6 +1643,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 189978,
+      "num": 189978,
+      "word": "当外国人吃东北麻辣烫",
+      "onboard_time": 1680699631,
+      "rank": 34,
+      "category": "美食"
+    },
+    {
       "raw_hot": 189972,
       "num": 189972,
       "word": "如何看待节假日被安排加班",
@@ -1667,6 +1707,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 187085,
+      "num": 187085,
+      "word": "孙怡卸妆式擦脸",
+      "onboard_time": 1680699871,
+      "rank": 35,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 186549,
       "num": 175131,
       "word": "吴京问谢楠媳妇我错哪了",
@@ -1689,6 +1737,14 @@
       "onboard_time": 1680672151,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 183498,
+      "num": 183498,
+      "word": "薛凯琪新发色",
+      "onboard_time": 1680700534,
+      "rank": 36,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 181273,
@@ -1913,6 +1969,14 @@
       "onboard_time": 1680664531,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152706,
+      "num": 152706,
+      "word": "爱情而已",
+      "onboard_time": 1680700054,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 150872,
@@ -2379,8 +2443,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 19827,
-      "num": 1609652,
+      "raw_hot": 27257,
+      "num": 1824986,
       "word": "多希望你们看看山河无恙国泰民安",
       "onboard_time": 1680665070,
       "rank": 2,
