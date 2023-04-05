@@ -1,6 +1,6 @@
 {
   "startTime": 1680625388129,
-  "endTime": 1680669317262,
+  "endTime": 1680671775517,
   "band_list": [
     {
       "raw_hot": 4692271,
@@ -9,6 +9,14 @@
       "onboard_time": 1680651982,
       "rank": 4,
       "category": "情感"
+    },
+    {
+      "raw_hot": 3784633,
+      "num": 3784633,
+      "word": "中电科回应员工疑痛批领导安排加班",
+      "onboard_time": 1680666389,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3423974,
@@ -43,12 +51,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2330659,
-      "num": 2330659,
-      "word": "中电科回应员工疑痛批领导安排加班",
-      "onboard_time": 1680666389,
-      "rank": 1,
-      "category": "社会新闻"
+      "raw_hot": 2083978,
+      "num": 1403151,
+      "word": "国产剧能不能尊重一下产妇",
+      "onboard_time": 1680666751,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 1544808,
@@ -59,20 +67,20 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 1403151,
-      "num": 1403151,
-      "word": "国产剧能不能尊重一下产妇",
-      "onboard_time": 1680666751,
-      "rank": 7,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1338539,
       "num": 128274,
       "word": "国家体育总局乒羽中心回应张继科事件",
       "onboard_time": 1680613351,
       "rank": 31,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1310889,
+      "num": 1310889,
+      "word": "丫丫上海检疫后将被北动接走",
+      "onboard_time": 1680667171,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1103201,
@@ -89,14 +97,6 @@
       "onboard_time": 1680617553,
       "rank": 5,
       "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 1014512,
-      "num": 1014512,
-      "word": "丫丫上海检疫后将被北动接走",
-      "onboard_time": 1680667171,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 983583,
@@ -123,8 +123,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 860615,
-      "num": 860615,
+      "raw_hot": 904651,
+      "num": 904651,
       "word": "灰原哀人设",
       "onboard_time": 1680667529,
       "rank": 12,
@@ -227,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 650663,
+      "num": 650663,
+      "word": "养父母抱养25年后起诉养子补偿",
+      "onboard_time": 1680669752,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 637823,
       "num": 320371,
       "word": "惠英红 你信不信我揍你",
@@ -241,6 +249,14 @@
       "onboard_time": 1680612150,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 592968,
+      "num": 592968,
+      "word": "警方通报女留学生在泰国遇害",
+      "onboard_time": 1680671013,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 591943,
@@ -371,20 +387,28 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 385001,
+      "num": 385001,
+      "word": "果然娱乐律师声明",
+      "onboard_time": 1680667951,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 377033,
+      "num": 377033,
+      "word": "他是谁编剧说后面不是他写的",
+      "onboard_time": 1680669692,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 366568,
       "num": 366568,
       "word": "特朗普一旦定罪或被判4年",
       "onboard_time": 1680616410,
       "rank": 17,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 357747,
-      "num": 357747,
-      "word": "果然娱乐律师声明",
-      "onboard_time": 1680667951,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 347754,
@@ -401,6 +425,14 @@
       "onboard_time": 1680659491,
       "rank": 17,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 345485,
+      "num": 345485,
+      "word": "长月烬明还差一个周深",
+      "onboard_time": 1680670052,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 345083,
@@ -603,6 +635,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 228338,
+      "num": 228338,
+      "word": "喜欢你我也是",
+      "onboard_time": 1680671131,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 225482,
+      "num": 225482,
+      "word": "长月烬明什么时候开演唱会",
+      "onboard_time": 1680670052,
+      "rank": 31,
+      "category": "影视,音乐"
+    },
+    {
       "raw_hot": 224276,
       "num": 224276,
       "word": "青团",
@@ -625,6 +673,14 @@
       "onboard_time": 1680623970,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 216203,
+      "num": 209219,
+      "word": "长月烬明买了寻常歌",
+      "onboard_time": 1680670771,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 214496,
@@ -665,6 +721,14 @@
       "onboard_time": 1680668431,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 203931,
+      "num": 203931,
+      "word": "喜欢你4男四女四来了",
+      "onboard_time": 1680671373,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 202904,
@@ -731,6 +795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 183912,
+      "num": 183912,
+      "word": "青团是用什么做青",
+      "onboard_time": 1680667771,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 181273,
       "num": 181273,
       "word": "杭州人的早餐",
@@ -787,6 +859,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 172857,
+      "num": 172857,
+      "word": "石头赶路",
+      "onboard_time": 1680670172,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 172271,
       "num": 172271,
       "word": "石家庄2.9级地震",
@@ -811,20 +891,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 165254,
+      "num": 165254,
+      "word": "啜妮四部剧连播",
+      "onboard_time": 1680670351,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 160121,
       "num": 160121,
       "word": "四月宋男友",
       "onboard_time": 1680661170,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 159486,
-      "num": 159486,
-      "word": "青团是用什么做青",
-      "onboard_time": 1680667771,
-      "rank": 48,
-      "category": "美食"
     },
     {
       "raw_hot": 157660,
@@ -891,6 +971,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 146418,
+      "num": 146418,
+      "word": "献给所有为新中国付出鲜血和生命的人",
+      "onboard_time": 1680671492,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145195,
       "num": 125637,
       "word": "肖战电影",
@@ -929,6 +1017,14 @@
       "onboard_time": 1680657568,
       "rank": 37,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 136706,
+      "num": 136706,
+      "word": "艾薇自带简历上声生不息宝岛季",
+      "onboard_time": 1680671672,
+      "rank": 48,
+      "category": "综艺,幽默"
     },
     {
       "raw_hot": 136313,

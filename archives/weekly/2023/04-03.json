@@ -1,6 +1,6 @@
 {
   "startTime": 1680452464197,
-  "endTime": 1680669317262,
+  "endTime": 1680671775517,
   "band_list": [
     {
       "raw_hot": 9506486,
@@ -105,6 +105,14 @@
       "onboard_time": 1680592951,
       "rank": 17,
       "category": "科技"
+    },
+    {
+      "raw_hot": 3784633,
+      "num": 3784633,
+      "word": "中电科回应员工疑痛批领导安排加班",
+      "onboard_time": 1680666389,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3561338,
@@ -251,14 +259,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 2330659,
-      "num": 2330659,
-      "word": "中电科回应员工疑痛批领导安排加班",
-      "onboard_time": 1680666389,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 2318401,
       "num": 2318401,
       "word": "女子双腿绑14瓶茅台入境",
@@ -297,6 +297,14 @@
       "onboard_time": 1680613830,
       "rank": 30,
       "category": "科技"
+    },
+    {
+      "raw_hot": 2083978,
+      "num": 1403151,
+      "word": "国产剧能不能尊重一下产妇",
+      "onboard_time": 1680666751,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 2010722,
@@ -427,14 +435,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 1403151,
-      "num": 1403151,
-      "word": "国产剧能不能尊重一下产妇",
-      "onboard_time": 1680666751,
-      "rank": 7,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1399433,
       "num": 216539,
       "word": "观音桥",
@@ -505,6 +505,14 @@
       "onboard_time": 1680493230,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1310889,
+      "num": 1310889,
+      "word": "丫丫上海检疫后将被北动接走",
+      "onboard_time": 1680667171,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1310784,
@@ -659,14 +667,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1014512,
-      "num": 1014512,
-      "word": "丫丫上海检疫后将被北动接走",
-      "onboard_time": 1680667171,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 988266,
       "num": 988266,
       "word": "不要随便接陌生电话",
@@ -747,6 +747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 904651,
+      "num": 904651,
+      "word": "灰原哀人设",
+      "onboard_time": 1680667529,
+      "rank": 12,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 883134,
       "num": 551049,
       "word": "胡先煦说真的没有快乐减肥",
@@ -769,14 +777,6 @@
       "onboard_time": 1680489508,
       "rank": 39,
       "category": "艺人,综艺"
-    },
-    {
-      "raw_hot": 860615,
-      "num": 860615,
-      "word": "灰原哀人设",
-      "onboard_time": 1680667529,
-      "rank": 12,
-      "category": "影视,动漫"
     },
     {
       "raw_hot": 860190,
@@ -1163,6 +1163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 650663,
+      "num": 650663,
+      "word": "养父母抱养25年后起诉养子补偿",
+      "onboard_time": 1680669752,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 642197,
       "num": 368182,
       "word": "离职半个月长出头发了",
@@ -1273,6 +1281,14 @@
       "onboard_time": 1680509973,
       "rank": 46,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 592968,
+      "num": 592968,
+      "word": "警方通报女留学生在泰国遇害",
+      "onboard_time": 1680671013,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 591943,
@@ -2059,6 +2075,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 385001,
+      "num": 385001,
+      "word": "果然娱乐律师声明",
+      "onboard_time": 1680667951,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 383911,
       "num": 383911,
       "word": "秋瓷炫跳的gee",
@@ -2080,6 +2104,14 @@
       "word": "招惹",
       "onboard_time": 1680528995,
       "rank": 14,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 377033,
+      "num": 377033,
+      "word": "他是谁编剧说后面不是他写的",
+      "onboard_time": 1680669692,
+      "rank": 17,
       "category": "影视"
     },
     {
@@ -2129,14 +2161,6 @@
       "onboard_time": 1680590246,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 357747,
-      "num": 357747,
-      "word": "果然娱乐律师声明",
-      "onboard_time": 1680667951,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 357397,
@@ -2209,6 +2233,14 @@
       "onboard_time": 1680659491,
       "rank": 17,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 345485,
+      "num": 345485,
+      "word": "长月烬明还差一个周深",
+      "onboard_time": 1680670052,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 345083,
@@ -3067,6 +3099,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 228338,
+      "num": 228338,
+      "word": "喜欢你我也是",
+      "onboard_time": 1680671131,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 228290,
       "num": 228290,
       "word": "IVE正规专预告照",
@@ -3089,6 +3129,14 @@
       "onboard_time": 1680533917,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 225482,
+      "num": 225482,
+      "word": "长月烬明什么时候开演唱会",
+      "onboard_time": 1680670052,
+      "rank": 31,
+      "category": "影视,音乐"
     },
     {
       "raw_hot": 225391,
@@ -3209,6 +3257,14 @@
       "onboard_time": 1680606390,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 216203,
+      "num": 209219,
+      "word": "长月烬明买了寻常歌",
+      "onboard_time": 1680670771,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 216169,
@@ -3473,6 +3529,14 @@
       "onboard_time": 1680505530,
       "rank": 36,
       "category": "科技"
+    },
+    {
+      "raw_hot": 203931,
+      "num": 203931,
+      "word": "喜欢你4男四女四来了",
+      "onboard_time": 1680671373,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 203426,
@@ -4043,6 +4107,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 183912,
+      "num": 183912,
+      "word": "青团是用什么做青",
+      "onboard_time": 1680667771,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 183372,
       "num": 183372,
       "word": "了不起的夜晚好怕好笑又好哭",
@@ -4243,6 +4315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 172857,
+      "num": 172857,
+      "word": "石头赶路",
+      "onboard_time": 1680670172,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 172611,
       "num": 172611,
       "word": "成年人的体面是假发片给的",
@@ -4387,6 +4467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 165254,
+      "num": 165254,
+      "word": "啜妮四部剧连播",
+      "onboard_time": 1680670351,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 165013,
       "num": 165013,
       "word": "一图读懂张继科事件始末",
@@ -4505,14 +4593,6 @@
       "onboard_time": 1680510813,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 159486,
-      "num": 159486,
-      "word": "青团是用什么做青",
-      "onboard_time": 1680667771,
-      "rank": 48,
-      "category": "美食"
     },
     {
       "raw_hot": 158176,
@@ -4787,6 +4867,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 146418,
+      "num": 146418,
+      "word": "献给所有为新中国付出鲜血和生命的人",
+      "onboard_time": 1680671492,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145841,
       "num": 145841,
       "word": "长月烬明德塔文待播剧景气指数第一",
@@ -4889,6 +4977,14 @@
       "onboard_time": 1680657568,
       "rank": 37,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 136706,
+      "num": 136706,
+      "word": "艾薇自带简历上声生不息宝岛季",
+      "onboard_time": 1680671672,
+      "rank": 48,
+      "category": "综艺,幽默"
     },
     {
       "raw_hot": 136313,
