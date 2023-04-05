@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680713047429,
+  "endTime": 1680715051461,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -11139,6 +11139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 95472,
+      "num": 95472,
+      "word": "用海贼王的画风画狂飙",
+      "onboard_time": 1680714141,
+      "rank": 30,
+      "category": "作品衍生,动漫"
+    },
+    {
       "raw_hot": 95149,
       "num": 95149,
       "word": "游戏战歌",
@@ -11337,6 +11345,14 @@
       "onboard_time": 1680275010,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 78724,
+      "num": 78724,
+      "word": "AI翻唱",
+      "onboard_time": 1680714499,
+      "rank": 33,
+      "category": "科技,音乐"
     },
     {
       "raw_hot": 77721,
@@ -11585,6 +11601,14 @@
       "onboard_time": 1680343229,
       "rank": 39,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 48644,
+      "num": 48644,
+      "word": "小区不认识的狗送我上学",
+      "onboard_time": 1680715039,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 46509,
