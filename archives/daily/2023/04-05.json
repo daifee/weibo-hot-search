@@ -1,6 +1,6 @@
 {
   "startTime": 1680625388129,
-  "endTime": 1680671775517,
+  "endTime": 1680672817310,
   "band_list": [
     {
       "raw_hot": 4692271,
@@ -131,6 +131,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 875270,
+      "num": 875270,
+      "word": "警方通报女留学生在泰国遇害",
+      "onboard_time": 1680671013,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 834861,
       "num": 834861,
       "word": "河北烟草",
@@ -168,6 +176,14 @@
       "word": "女专家不畏生死带免费药进麻风村",
       "onboard_time": 1680651560,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 757773,
+      "num": 757773,
+      "word": "养父母抱养25年后起诉养子补偿",
+      "onboard_time": 1680669752,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -227,14 +243,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 650663,
-      "num": 650663,
-      "word": "养父母抱养25年后起诉养子补偿",
-      "onboard_time": 1680669752,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 637823,
       "num": 320371,
       "word": "惠英红 你信不信我揍你",
@@ -249,14 +257,6 @@
       "onboard_time": 1680612150,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 592968,
-      "num": 592968,
-      "word": "警方通报女留学生在泰国遇害",
-      "onboard_time": 1680671013,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 591943,
@@ -323,6 +323,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 496970,
+      "num": 496970,
+      "word": "成都人社局回应疑中电科强制员工加班",
+      "onboard_time": 1680671790,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 483632,
       "num": 483632,
       "word": "最适合应届生过渡的工作",
@@ -379,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 406650,
+      "num": 406650,
+      "word": "长月烬明还差一个周深",
+      "onboard_time": 1680670052,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 399956,
       "num": 190142,
       "word": "特朗普自曝被控33项罪名",
@@ -395,8 +411,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 377033,
-      "num": 377033,
+      "raw_hot": 378540,
+      "num": 378540,
       "word": "他是谁编剧说后面不是他写的",
       "onboard_time": 1680669692,
       "rank": 17,
@@ -427,14 +443,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 345485,
-      "num": 345485,
-      "word": "长月烬明还差一个周深",
-      "onboard_time": 1680670052,
-      "rank": 20,
-      "category": "影视"
-    },
-    {
       "raw_hot": 345083,
       "num": 234658,
       "word": "特朗普在法庭上做无罪辩护",
@@ -449,6 +457,14 @@
       "onboard_time": 1680665670,
       "rank": 21,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 340905,
+      "num": 340905,
+      "word": "喜欢你4男四女四来了",
+      "onboard_time": 1680671373,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 333597,
@@ -507,6 +523,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 302902,
+      "num": 302902,
+      "word": "韩国店员说要和虞书欣结婚",
+      "onboard_time": 1680672452,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 294756,
       "num": 232665,
       "word": "贝克街的亡灵",
@@ -531,12 +555,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 288568,
+      "num": 288568,
+      "word": "果然娱乐CEO让鹭卓法院见",
+      "onboard_time": 1680671790,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 287147,
       "num": 287147,
       "word": "沈小婷的仪态",
       "onboard_time": 1680667051,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 286834,
+      "num": 277381,
+      "word": "长月烬明什么时候开演唱会",
+      "onboard_time": 1680670052,
+      "rank": 31,
+      "category": "影视,音乐"
     },
     {
       "raw_hot": 283996,
@@ -553,6 +593,14 @@
       "onboard_time": 1680663269,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 274335,
+      "num": 274335,
+      "word": "青团是用什么做青",
+      "onboard_time": 1680667771,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 272501,
@@ -643,14 +691,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 225482,
-      "num": 225482,
-      "word": "长月烬明什么时候开演唱会",
-      "onboard_time": 1680670052,
-      "rank": 31,
-      "category": "影视,音乐"
-    },
-    {
       "raw_hot": 224276,
       "num": 224276,
       "word": "青团",
@@ -667,20 +707,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 219507,
+      "num": 219507,
+      "word": "长月烬明买了寻常歌",
+      "onboard_time": 1680670771,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 219195,
       "num": 140152,
       "word": "WBG的训练赛",
       "onboard_time": 1680623970,
       "rank": 32,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 216203,
-      "num": 209219,
-      "word": "长月烬明买了寻常歌",
-      "onboard_time": 1680670771,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 214496,
@@ -696,6 +736,30 @@
       "word": "清明既是节气又是传统节日",
       "onboard_time": 1680650057,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 209819,
+      "num": 209819,
+      "word": "以后能不能每个周三都放假",
+      "onboard_time": 1680672631,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 209508,
+      "num": 209508,
+      "word": "爆浆青团蛋糕",
+      "onboard_time": 1680672091,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 209468,
+      "num": 209468,
+      "word": "四成人投票不想加班时会拒绝",
+      "onboard_time": 1680672511,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -715,20 +779,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 206019,
+      "num": 209469,
+      "word": "你好星期六许愿池",
+      "onboard_time": 1680672151,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205473,
       "num": 205473,
       "word": "湖人爵士加时",
       "onboard_time": 1680668431,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 203931,
-      "num": 203931,
-      "word": "喜欢你4男四女四来了",
-      "onboard_time": 1680671373,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 202904,
@@ -771,6 +835,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 193985,
+      "num": 193985,
+      "word": "艾薇自带简历上声生不息宝岛季",
+      "onboard_time": 1680671672,
+      "rank": 48,
+      "category": "综艺,幽默"
+    },
+    {
+      "raw_hot": 191915,
+      "num": 201384,
+      "word": "玄彬李栋旭新电影杀青照",
+      "onboard_time": 1680672270,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 189668,
       "num": 189668,
       "word": "73岁独臂老兵为烈士守陵38年",
@@ -787,6 +867,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 187713,
+      "num": 187713,
+      "word": "清明节的思念",
+      "onboard_time": 1680672752,
+      "rank": 43,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 186549,
       "num": 175131,
       "word": "吴京问谢楠媳妇我错哪了",
@@ -795,12 +883,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 183912,
-      "num": 183912,
-      "word": "青团是用什么做青",
-      "onboard_time": 1680667771,
-      "rank": 48,
-      "category": "美食"
+      "raw_hot": 183611,
+      "num": 188992,
+      "word": "迪士尼里最适合我扮演的角色",
+      "onboard_time": 1680672151,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 181273,
@@ -857,6 +945,14 @@
       "onboard_time": 1680621452,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 173574,
+      "num": 173574,
+      "word": "秦岚说撒娇男人更好命",
+      "onboard_time": 1680672572,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 172857,
@@ -1017,14 +1113,6 @@
       "onboard_time": 1680657568,
       "rank": 37,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 136706,
-      "num": 136706,
-      "word": "艾薇自带简历上声生不息宝岛季",
-      "onboard_time": 1680671672,
-      "rank": 48,
-      "category": "综艺,幽默"
     },
     {
       "raw_hot": 136313,

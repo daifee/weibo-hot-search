@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680671775517,
+  "endTime": 1680672817310,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -1147,6 +1147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 875270,
+      "num": 875270,
+      "word": "警方通报女留学生在泰国遇害",
+      "onboard_time": 1680671013,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 861215,
       "num": 861215,
       "word": "乘风破浪4阵容",
@@ -1377,6 +1385,14 @@
       "onboard_time": 1680572250,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 757773,
+      "num": 757773,
+      "word": "养父母抱养25年后起诉养子补偿",
+      "onboard_time": 1680669752,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 756790,
@@ -1715,14 +1731,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 650663,
-      "num": 650663,
-      "word": "养父母抱养25年后起诉养子补偿",
-      "onboard_time": 1680669752,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 648915,
       "num": 648915,
       "word": "长月烬明",
@@ -1953,14 +1961,6 @@
       "onboard_time": 1680314666,
       "rank": 20,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 592968,
-      "num": 592968,
-      "word": "警方通报女留学生在泰国遇害",
-      "onboard_time": 1680671013,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 591943,
@@ -2433,6 +2433,14 @@
       "onboard_time": 1680653485,
       "rank": 12,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 496970,
+      "num": 496970,
+      "word": "成都人社局回应疑中电科强制员工加班",
+      "onboard_time": 1680671790,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 496562,
@@ -3099,6 +3107,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 406650,
+      "num": 406650,
+      "word": "长月烬明还差一个周深",
+      "onboard_time": 1680670052,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 405965,
       "num": 405965,
       "word": "迷笛",
@@ -3323,8 +3339,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 377033,
-      "num": 377033,
+      "raw_hot": 378540,
+      "num": 378540,
       "word": "他是谁编剧说后面不是他写的",
       "onboard_time": 1680669692,
       "rank": 17,
@@ -3547,14 +3563,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 345485,
-      "num": 345485,
-      "word": "长月烬明还差一个周深",
-      "onboard_time": 1680670052,
-      "rank": 20,
-      "category": "影视"
-    },
-    {
       "raw_hot": 345281,
       "num": 326718,
       "word": "秋瓷炫吃播视频",
@@ -3633,6 +3641,14 @@
       "onboard_time": 1680665670,
       "rank": 21,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 340905,
+      "num": 340905,
+      "word": "喜欢你4男四女四来了",
+      "onboard_time": 1680671373,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 340498,
@@ -3971,6 +3987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 302902,
+      "num": 302902,
+      "word": "韩国店员说要和虞书欣结婚",
+      "onboard_time": 1680672452,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 301943,
       "num": 199931,
       "word": "12岁男生要跟张三丰学太极背剑出走",
@@ -4139,6 +4163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 288568,
+      "num": 288568,
+      "word": "果然娱乐CEO让鹭卓法院见",
+      "onboard_time": 1680671790,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 287705,
       "num": 287705,
       "word": "娜扎环游世界芭莎大片",
@@ -4169,6 +4201,14 @@
       "onboard_time": 1680437187,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 286834,
+      "num": 277381,
+      "word": "长月烬明什么时候开演唱会",
+      "onboard_time": 1680670052,
+      "rank": 31,
+      "category": "影视,音乐"
     },
     {
       "raw_hot": 286607,
@@ -4313,6 +4353,14 @@
       "onboard_time": 1680354028,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 274335,
+      "num": 274335,
+      "word": "青团是用什么做青",
+      "onboard_time": 1680667771,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 273498,
@@ -5163,14 +5211,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 225482,
-      "num": 225482,
-      "word": "长月烬明什么时候开演唱会",
-      "onboard_time": 1680670052,
-      "rank": 31,
-      "category": "影视,音乐"
-    },
-    {
       "raw_hot": 225391,
       "num": 225391,
       "word": "汪峰女儿小苹果自弹自唱",
@@ -5283,6 +5323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 219507,
+      "num": 219507,
+      "word": "长月烬明买了寻常歌",
+      "onboard_time": 1680670771,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 219248,
       "num": 210863,
       "word": "邓为生图",
@@ -5369,14 +5417,6 @@
       "onboard_time": 1680441632,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 216203,
-      "num": 209219,
-      "word": "长月烬明买了寻常歌",
-      "onboard_time": 1680670771,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 216169,
@@ -5587,6 +5627,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 209819,
+      "num": 209819,
+      "word": "以后能不能每个周三都放假",
+      "onboard_time": 1680672631,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 209508,
+      "num": 209508,
+      "word": "爆浆青团蛋糕",
+      "onboard_time": 1680672091,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 209468,
+      "num": 209468,
+      "word": "四成人投票不想加班时会拒绝",
+      "onboard_time": 1680672511,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 209349,
       "num": 209349,
       "word": "张艺兴长沙夜生活片头曲MV预告",
@@ -5723,6 +5787,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 206019,
+      "num": 209469,
+      "word": "你好星期六许愿池",
+      "onboard_time": 1680672151,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205885,
       "num": 205885,
       "word": "陆柯燃三月vlog",
@@ -5841,14 +5913,6 @@
       "onboard_time": 1680408389,
       "rank": 23,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 203931,
-      "num": 203931,
-      "word": "喜欢你4男四女四来了",
-      "onboard_time": 1680671373,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 203573,
@@ -6491,6 +6555,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 193985,
+      "num": 193985,
+      "word": "艾薇自带简历上声生不息宝岛季",
+      "onboard_time": 1680671672,
+      "rank": 48,
+      "category": "综艺,幽默"
+    },
+    {
       "raw_hot": 193953,
       "num": 193953,
       "word": "孙千李沁双人大片",
@@ -6576,6 +6648,14 @@
       "word": "陈都灵新剧杀青vlog",
       "onboard_time": 1680589288,
       "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 191915,
+      "num": 201384,
+      "word": "玄彬李栋旭新电影杀青照",
+      "onboard_time": 1680672270,
+      "rank": 39,
       "category": "影视"
     },
     {
@@ -6795,6 +6875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187713,
+      "num": 187713,
+      "word": "清明节的思念",
+      "onboard_time": 1680672752,
+      "rank": 43,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 187570,
       "num": 197625,
       "word": "徐明浩说社恐小八来报到",
@@ -6947,20 +7035,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 183912,
-      "num": 183912,
-      "word": "青团是用什么做青",
-      "onboard_time": 1680667771,
-      "rank": 48,
-      "category": "美食"
-    },
-    {
       "raw_hot": 183834,
       "num": 183834,
       "word": "放学后等家长最安全的地方",
       "onboard_time": 1680431126,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 183611,
+      "num": 188992,
+      "word": "迪士尼里最适合我扮演的角色",
+      "onboard_time": 1680672151,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 183372,
@@ -7297,6 +7385,14 @@
       "onboard_time": 1680650420,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 173574,
+      "num": 173574,
+      "word": "秦岚说撒娇男人更好命",
+      "onboard_time": 1680672572,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 173414,
@@ -8617,14 +8713,6 @@
       "onboard_time": 1680343351,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 136706,
-      "num": 136706,
-      "word": "艾薇自带简历上声生不息宝岛季",
-      "onboard_time": 1680671672,
-      "rank": 48,
-      "category": "综艺,幽默"
     },
     {
       "raw_hot": 136608,
