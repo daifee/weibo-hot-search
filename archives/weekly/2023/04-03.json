@@ -1,6 +1,6 @@
 {
   "startTime": 1680452464197,
-  "endTime": 1680661395760,
+  "endTime": 1680662070458,
   "band_list": [
     {
       "raw_hot": 9506486,
@@ -75,6 +75,14 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 4692271,
+      "num": 4692271,
+      "word": "中国电科",
+      "onboard_time": 1680651982,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
       "raw_hot": 4666686,
       "num": 951847,
       "word": "张继科不愿意处在风口浪尖上",
@@ -97,14 +105,6 @@
       "onboard_time": 1680592951,
       "rank": 17,
       "category": "科技"
-    },
-    {
-      "raw_hot": 4314960,
-      "num": 4314960,
-      "word": "中国电科",
-      "onboard_time": 1680651982,
-      "rank": 4,
-      "category": "情感"
     },
     {
       "raw_hot": 3561338,
@@ -843,6 +843,14 @@
       "category": "时尚,艺人"
     },
     {
+      "raw_hot": 764763,
+      "num": 764763,
+      "word": "河北烟草",
+      "onboard_time": 1680658889,
+      "rank": 8,
+      "category": "教育"
+    },
+    {
       "raw_hot": 759378,
       "num": 759378,
       "word": "香椿炒鸡蛋",
@@ -915,6 +923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 719911,
+      "num": 420872,
+      "word": "CETC陈志龙",
+      "onboard_time": 1680652223,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 716821,
       "num": 716821,
       "word": "王楚钦世界排名升至第2",
@@ -931,20 +947,20 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 707963,
+      "num": 707963,
+      "word": "只有毛利兰受伤的世界达成了",
+      "onboard_time": 1680658410,
+      "rank": 7,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 700869,
       "num": 700869,
       "word": "重庆警方通报男子持刀行凶",
       "onboard_time": 1680450753,
       "rank": 4,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 700775,
-      "num": 700775,
-      "word": "只有毛利兰受伤的世界达成了",
-      "onboard_time": 1680658410,
-      "rank": 7,
-      "category": "影视,动漫"
     },
     {
       "raw_hot": 694950,
@@ -1027,14 +1043,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 671639,
-      "num": 671639,
-      "word": "河北烟草",
-      "onboard_time": 1680658889,
-      "rank": 8,
-      "category": "教育"
-    },
-    {
       "raw_hot": 666903,
       "num": 666903,
       "word": "95后寿衣模特回应被说阴气重",
@@ -1049,6 +1057,14 @@
       "onboard_time": 1680493713,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 661600,
+      "num": 661600,
+      "word": "女子称使用化妆品后流产",
+      "onboard_time": 1680659250,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 653611,
@@ -1147,14 +1163,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 620952,
-      "num": 620952,
-      "word": "女子称使用化妆品后流产",
-      "onboard_time": 1680659250,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 619907,
       "num": 619907,
       "word": "男孩扫墓跪求奶奶保佑不写作业不挨打",
@@ -1169,14 +1177,6 @@
       "onboard_time": 1680593311,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 606344,
-      "num": 420872,
-      "word": "CETC陈志龙",
-      "onboard_time": 1680652223,
-      "rank": 13,
-      "category": "情感"
     },
     {
       "raw_hot": 601265,
@@ -1499,6 +1499,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 483632,
+      "num": 483632,
+      "word": "最适合应届生过渡的工作",
+      "onboard_time": 1680658591,
+      "rank": 12,
+      "category": "情感,教育"
+    },
+    {
       "raw_hot": 483535,
       "num": 309612,
       "word": "叶舒华愿意上小S节目的原因",
@@ -1545,6 +1553,14 @@
       "onboard_time": 1680482371,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 478959,
+      "num": 478959,
+      "word": "长月烬明OST阵容",
+      "onboard_time": 1680661051,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 478458,
@@ -1649,14 +1665,6 @@
       "onboard_time": 1680489627,
       "rank": 49,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 450506,
-      "num": 450506,
-      "word": "最适合应届生过渡的工作",
-      "onboard_time": 1680658591,
-      "rank": 12,
-      "category": "情感,教育"
     },
     {
       "raw_hot": 440245,
@@ -1849,6 +1857,14 @@
       "onboard_time": 1680649581,
       "rank": 30,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 395883,
+      "num": 395883,
+      "word": "清明其实是三个节日",
+      "onboard_time": 1680660330,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 395742,
@@ -2425,14 +2441,6 @@
       "onboard_time": 1680597930,
       "rank": 24,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 276388,
-      "num": 276388,
-      "word": "清明其实是三个节日",
-      "onboard_time": 1680660330,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 275591,
@@ -3243,12 +3251,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 203487,
-      "num": 203487,
-      "word": "长月烬明OST阵容",
-      "onboard_time": 1680661051,
-      "rank": 31,
-      "category": "影视"
+      "raw_hot": 203759,
+      "num": 203759,
+      "word": "青山刚昌 端水",
+      "onboard_time": 1680661350,
+      "rank": 47,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 203426,
@@ -3457,6 +3465,14 @@
       "onboard_time": 1680621271,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 198149,
+      "num": 198149,
+      "word": "茉莉青柠多多",
+      "onboard_time": 1680661350,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 197416,
@@ -3907,14 +3923,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 176368,
-      "num": 176368,
-      "word": "茉莉青柠多多",
-      "onboard_time": 1680661350,
-      "rank": 35,
-      "category": "美食"
-    },
-    {
       "raw_hot": 175763,
       "num": 175763,
       "word": "张含韵说我爱我的三十岁",
@@ -4057,6 +4065,14 @@
       "onboard_time": 1680525573,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 169197,
+      "num": 169197,
+      "word": "杭州人的早餐",
+      "onboard_time": 1680659970,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 169087,
@@ -4233,6 +4249,14 @@
       "onboard_time": 1680510813,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 158345,
+      "num": 158345,
+      "word": "四月宋男友",
+      "onboard_time": 1680661170,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 158176,
@@ -4491,14 +4515,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 145339,
-      "num": 145339,
-      "word": "杭州人的早餐",
-      "onboard_time": 1680659970,
-      "rank": 39,
-      "category": "美食"
-    },
-    {
       "raw_hot": 144656,
       "num": 144656,
       "word": "赵粤库存跳舞视频",
@@ -4649,6 +4665,14 @@
       "onboard_time": 1680570990,
       "rank": 38,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 132736,
+      "num": 132736,
+      "word": "南柱赫寸头",
+      "onboard_time": 1680661828,
+      "rank": 40,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 132143,
@@ -4803,14 +4827,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 121593,
-      "num": 121593,
-      "word": "四月宋男友",
-      "onboard_time": 1680661170,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
       "raw_hot": 121346,
       "num": 121346,
       "word": "保你平安票房破6亿",
@@ -4907,12 +4923,36 @@
       "category": "社会议题,旅游"
     },
     {
+      "raw_hot": 112244,
+      "num": 112244,
+      "word": "湖人VS爵士",
+      "onboard_time": 1680661290,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 111390,
+      "num": 111390,
+      "word": "西湖醋鱼到底难不难吃",
+      "onboard_time": 1680661650,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 110740,
       "num": 396814,
       "word": "仅退款是维护消费者权益",
       "onboard_time": 1680602429,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 109047,
+      "num": 109047,
+      "word": "清明文案",
+      "onboard_time": 1680658290,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 108456,
@@ -4939,14 +4979,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 106861,
-      "num": 106861,
-      "word": "清明文案",
-      "onboard_time": 1680658290,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 105803,
       "num": 105803,
       "word": "高双星陈秀礼婚礼",
@@ -4961,14 +4993,6 @@
       "onboard_time": 1680563722,
       "rank": 48,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 105452,
-      "num": 105452,
-      "word": "青山刚昌 端水",
-      "onboard_time": 1680661350,
-      "rank": 47,
-      "category": "影视,动漫"
     },
     {
       "raw_hot": 104131,
@@ -5273,6 +5297,14 @@
       "onboard_time": 1680636792,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 14605,
+      "num": 1156167,
+      "word": "谢谢你们守护了祖国大好山河",
+      "onboard_time": 1680661952,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

@@ -1,10 +1,10 @@
 {
   "startTime": 1680625388129,
-  "endTime": 1680661395760,
+  "endTime": 1680662070458,
   "band_list": [
     {
-      "raw_hot": 4314960,
-      "num": 4314960,
+      "raw_hot": 4692271,
+      "num": 4692271,
       "word": "中国电科",
       "onboard_time": 1680651982,
       "rank": 4,
@@ -91,12 +91,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 764763,
+      "num": 764763,
+      "word": "河北烟草",
+      "onboard_time": 1680658889,
+      "rank": 8,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 719911,
+      "num": 420872,
+      "word": "CETC陈志龙",
+      "onboard_time": 1680652223,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 713445,
       "num": 492982,
       "word": "特朗普公开讲话",
       "onboard_time": 1680656247,
       "rank": 11,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 707963,
+      "num": 707963,
+      "word": "只有毛利兰受伤的世界达成了",
+      "onboard_time": 1680658410,
+      "rank": 7,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 704026,
@@ -107,27 +131,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 700775,
-      "num": 700775,
-      "word": "只有毛利兰受伤的世界达成了",
-      "onboard_time": 1680658410,
-      "rank": 7,
-      "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 671639,
-      "num": 671639,
-      "word": "河北烟草",
-      "onboard_time": 1680658889,
-      "rank": 8,
-      "category": "教育"
-    },
-    {
       "raw_hot": 666903,
       "num": 666903,
       "word": "95后寿衣模特回应被说阴气重",
       "onboard_time": 1680614552,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 661600,
+      "num": 661600,
+      "word": "女子称使用化妆品后流产",
+      "onboard_time": 1680659250,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -145,22 +161,6 @@
       "onboard_time": 1680612150,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 620952,
-      "num": 620952,
-      "word": "女子称使用化妆品后流产",
-      "onboard_time": 1680659250,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 606344,
-      "num": 420872,
-      "word": "CETC陈志龙",
-      "onboard_time": 1680652223,
-      "rank": 13,
-      "category": "情感"
     },
     {
       "raw_hot": 552794,
@@ -195,12 +195,28 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 483632,
+      "num": 483632,
+      "word": "最适合应届生过渡的工作",
+      "onboard_time": 1680658591,
+      "rank": 12,
+      "category": "情感,教育"
+    },
+    {
       "raw_hot": 482708,
       "num": 299748,
       "word": "9岁男孩4年跑坏3台跑步机没瘦下来",
       "onboard_time": 1680651862,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 478959,
+      "num": 478959,
+      "word": "长月烬明OST阵容",
+      "onboard_time": 1680661051,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 477060,
@@ -217,14 +233,6 @@
       "onboard_time": 1680652584,
       "rank": 9,
       "category": "影视"
-    },
-    {
-      "raw_hot": 450506,
-      "num": 450506,
-      "word": "最适合应届生过渡的工作",
-      "onboard_time": 1680658591,
-      "rank": 12,
-      "category": "情感,教育"
     },
     {
       "raw_hot": 435446,
@@ -249,6 +257,14 @@
       "onboard_time": 1680649581,
       "rank": 30,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 395883,
+      "num": 395883,
+      "word": "清明其实是三个节日",
+      "onboard_time": 1680660330,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 366568,
@@ -339,14 +355,6 @@
       "category": "影视,动漫"
     },
     {
-      "raw_hot": 276388,
-      "num": 276388,
-      "word": "清明其实是三个节日",
-      "onboard_time": 1680660330,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 272501,
       "num": 272501,
       "word": "把一群i人凑在一起",
@@ -435,12 +443,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 203487,
-      "num": 203487,
-      "word": "长月烬明OST阵容",
-      "onboard_time": 1680661051,
-      "rank": 31,
-      "category": "影视"
+      "raw_hot": 203759,
+      "num": 203759,
+      "word": "青山刚昌 端水",
+      "onboard_time": 1680661350,
+      "rank": 47,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 198871,
@@ -449,6 +457,14 @@
       "onboard_time": 1680621271,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 198149,
+      "num": 198149,
+      "word": "茉莉青柠多多",
+      "onboard_time": 1680661350,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 196757,
@@ -499,14 +515,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 176368,
-      "num": 176368,
-      "word": "茉莉青柠多多",
-      "onboard_time": 1680661350,
-      "rank": 35,
-      "category": "美食"
-    },
-    {
       "raw_hot": 174647,
       "num": 174647,
       "word": "罗云熙白鹿新剧相拥吻戏",
@@ -547,6 +555,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 169197,
+      "num": 169197,
+      "word": "杭州人的早餐",
+      "onboard_time": 1680659970,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 158345,
+      "num": 158345,
+      "word": "四月宋男友",
+      "onboard_time": 1680661170,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 154454,
       "num": 154454,
       "word": "借命而生编辑感谢肖战",
@@ -577,14 +601,6 @@
       "onboard_time": 1680654988,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 145339,
-      "num": 145339,
-      "word": "杭州人的早餐",
-      "onboard_time": 1680659970,
-      "rank": 39,
-      "category": "美食"
     },
     {
       "raw_hot": 145195,
@@ -643,6 +659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 132736,
+      "num": 132736,
+      "word": "南柱赫寸头",
+      "onboard_time": 1680661828,
+      "rank": 40,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 131936,
       "num": 131936,
       "word": "代号鸢",
@@ -699,14 +723,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 121593,
-      "num": 121593,
-      "word": "四月宋男友",
-      "onboard_time": 1680661170,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
       "raw_hot": 120735,
       "num": 120735,
       "word": "周扬青和长辈们去了峨眉山",
@@ -739,12 +755,36 @@
       "category": "社会议题,旅游"
     },
     {
+      "raw_hot": 112244,
+      "num": 112244,
+      "word": "湖人VS爵士",
+      "onboard_time": 1680661290,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111786,
       "num": 111786,
       "word": "求张继科事件视频当心触法",
       "onboard_time": 1680596971,
       "rank": 39,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 111390,
+      "num": 111390,
+      "word": "西湖醋鱼到底难不难吃",
+      "onboard_time": 1680661650,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 109047,
+      "num": 109047,
+      "word": "清明文案",
+      "onboard_time": 1680658290,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 107363,
@@ -755,28 +795,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 106861,
-      "num": 106861,
-      "word": "清明文案",
-      "onboard_time": 1680658290,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 106284,
       "num": 119744,
       "word": "儿化音别再为难广东人了",
       "onboard_time": 1680620733,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 105452,
-      "num": 105452,
-      "word": "青山刚昌 端水",
-      "onboard_time": 1680661350,
-      "rank": 47,
-      "category": "影视,动漫"
     },
     {
       "raw_hot": 104131,
@@ -937,6 +961,14 @@
       "onboard_time": 1680636792,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 14605,
+      "num": 1156167,
+      "word": "谢谢你们守护了祖国大好山河",
+      "onboard_time": 1680661952,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

@@ -1,0 +1,410 @@
+{
+  "runTime": 1680662070458,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4692271,
+        "num": 4692271,
+        "word": "中国电科",
+        "onboard_time": 1680651982,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1375159,
+        "num": 1375159,
+        "word": "柯哀亲了",
+        "onboard_time": 1680617614,
+        "rank": 1,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 14605,
+        "num": 1156167,
+        "word": "谢谢你们守护了祖国大好山河",
+        "onboard_time": 1680661952,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1825121,
+        "num": 1139862,
+        "word": "特朗普最高刑期可能达136年",
+        "onboard_time": 1680650358,
+        "rank": 3,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1092910,
+        "num": 1092910,
+        "word": "普通人攒一百万有多难",
+        "onboard_time": 1680657030,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1354874,
+        "num": 1031438,
+        "word": "当脱口秀演员被小三",
+        "onboard_time": 1680651682,
+        "rank": 5,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 764763,
+        "num": 764763,
+        "word": "河北烟草",
+        "onboard_time": 1680658889,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 707963,
+        "num": 707963,
+        "word": "只有毛利兰受伤的世界达成了",
+        "onboard_time": 1680658410,
+        "rank": 7,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 661600,
+        "num": 661600,
+        "word": "女子称使用化妆品后流产",
+        "onboard_time": 1680659250,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 609031,
+        "num": 609031,
+        "word": "青山刚昌",
+        "onboard_time": 1680617553,
+        "rank": 9,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 894770,
+        "num": 567275,
+        "word": "建议谢娜买回家",
+        "onboard_time": 1680650780,
+        "rank": 10,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 42910,
+        "num": 520748,
+        "word": "清明给英烈写句话",
+        "onboard_time": 1680611790,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 483632,
+        "num": 483632,
+        "word": "最适合应届生过渡的工作",
+        "onboard_time": 1680658591,
+        "rank": 12,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 478959,
+        "num": 478959,
+        "word": "长月烬明OST阵容",
+        "onboard_time": 1680661051,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 420944,
+        "num": 420944,
+        "word": "光大集团原董事长李晓鹏被查",
+        "onboard_time": 1680659610,
+        "rank": 14,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 407900,
+        "num": 407900,
+        "word": "台湾海峡中北部联合巡航巡查专项行动",
+        "onboard_time": 1680657149,
+        "rank": 15,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 395883,
+        "num": 395883,
+        "word": "清明其实是三个节日",
+        "onboard_time": 1680660330,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383577,
+        "num": 383577,
+        "word": "特朗普公开讲话",
+        "onboard_time": 1680656247,
+        "rank": 17,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 367999,
+        "num": 367999,
+        "word": "爱情而已3分钟变成30秒",
+        "onboard_time": 1680652584,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 315814,
+        "num": 315814,
+        "word": "帮忙摘橙子的金毛",
+        "onboard_time": 1680659491,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 719911,
+        "num": 312026,
+        "word": "CETC陈志龙",
+        "onboard_time": 1680652223,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 307900,
+        "num": 307900,
+        "word": "杨丽萍爱徒跳孔雀舞被批不雅",
+        "onboard_time": 1680651140,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303386,
+        "num": 303386,
+        "word": "清明时节雨纷纷有三大原因",
+        "onboard_time": 1680657510,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293681,
+        "num": 293681,
+        "word": "清明节",
+        "onboard_time": 1680649937,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 289568,
+        "num": 289568,
+        "word": "女专家不畏生死带免费药进麻风村",
+        "onboard_time": 1680651560,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283146,
+        "num": 283146,
+        "word": "9岁男孩4年跑坏3台跑步机没瘦下来",
+        "onboard_time": 1680651862,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280511,
+        "num": 280511,
+        "word": "高校回应招聘会设KTV陪酒岗位",
+        "onboard_time": 1680653485,
+        "rank": 26,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 263762,
+        "num": 263762,
+        "word": "特朗普接受传讯现场",
+        "onboard_time": 1680616532,
+        "rank": 27,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 245301,
+        "num": 245301,
+        "word": "95后寿衣模特回应被说阴气重",
+        "onboard_time": 1680614552,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242684,
+        "num": 242684,
+        "word": "特朗普一旦定罪或被判4年",
+        "onboard_time": 1680616410,
+        "rank": 29,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 212838,
+        "num": 212838,
+        "word": "陪最爱的人去拍遗照是什么体验",
+        "onboard_time": 1680654866,
+        "rank": 30,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 204569,
+        "num": 204569,
+        "word": "青团",
+        "onboard_time": 1680657331,
+        "rank": 31,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 203759,
+        "num": 203759,
+        "word": "青山刚昌 端水",
+        "onboard_time": 1680661350,
+        "rank": 32,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 198149,
+        "num": 198149,
+        "word": "茉莉青柠多多",
+        "onboard_time": 1680661350,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 196950,
+        "num": 196950,
+        "word": "窦骁何超莲佘诗曼聚餐",
+        "onboard_time": 1680651560,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187263,
+        "num": 187263,
+        "word": "兰哀亲了",
+        "onboard_time": 1680620733,
+        "rank": 35,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 169197,
+        "num": 169197,
+        "word": "杭州人的早餐",
+        "onboard_time": 1680659970,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 158345,
+        "num": 158345,
+        "word": "四月宋男友",
+        "onboard_time": 1680661170,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 149472,
+        "num": 149472,
+        "word": "刘嘉玲晒与彭于晏合照",
+        "onboard_time": 1680654266,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149131,
+        "num": 149131,
+        "word": "潘玮柏带老婆买戒指",
+        "onboard_time": 1680651260,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132736,
+        "num": 132736,
+        "word": "南柱赫寸头",
+        "onboard_time": 1680661828,
+        "rank": 40,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 127772,
+        "num": 127772,
+        "word": "张佳宁点痣了",
+        "onboard_time": 1680609390,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121345,
+        "num": 121345,
+        "word": "石家庄2.9级地震",
+        "onboard_time": 1680657991,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119677,
+        "num": 119677,
+        "word": "罗云熙白鹿新剧相拥吻戏",
+        "onboard_time": 1680650420,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 118935,
+        "num": 118935,
+        "word": "陈秀礼怀孕",
+        "onboard_time": 1680657209,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 112244,
+        "num": 112244,
+        "word": "湖人VS爵士",
+        "onboard_time": 1680661290,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112003,
+        "num": 112003,
+        "word": "你想要双休还是凑小长假",
+        "onboard_time": 1680613650,
+        "rank": 46,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 111390,
+        "num": 111390,
+        "word": "西湖醋鱼到底难不难吃",
+        "onboard_time": 1680661650,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 109047,
+        "num": 109047,
+        "word": "清明文案",
+        "onboard_time": 1680658290,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 108380,
+        "num": 108380,
+        "word": "借命而生编辑感谢肖战",
+        "onboard_time": 1680656851,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#英雄之光#"
+    }
+  }
+}
