@@ -1,0 +1,410 @@
+{
+  "runTime": 1680669317262,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2608244,
+        "num": 2608244,
+        "word": "李子柒油管广告收益",
+        "onboard_time": 1680664951,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 2330659,
+        "num": 2330659,
+        "word": "中电科回应员工疑痛批领导安排加班",
+        "onboard_time": 1680666389,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90772,
+        "num": 1428223,
+        "word": "谢谢你们守护了祖国大好山河",
+        "onboard_time": 1680661952,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1403151,
+        "num": 1403151,
+        "word": "国产剧能不能尊重一下产妇",
+        "onboard_time": 1680666751,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1312258,
+        "num": 1312258,
+        "word": "疑CETC陈志龙回应",
+        "onboard_time": 1680662851,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2328738,
+        "num": 1227550,
+        "word": "中国电科",
+        "onboard_time": 1680651982,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1014512,
+        "num": 1014512,
+        "word": "丫丫上海检疫后将被北动接走",
+        "onboard_time": 1680667171,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 955618,
+        "num": 955618,
+        "word": "特朗普最高刑期可能达136年",
+        "onboard_time": 1680650358,
+        "rank": 7,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 944659,
+        "num": 944659,
+        "word": "彭小苒的字",
+        "onboard_time": 1680665911,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 860615,
+        "num": 860615,
+        "word": "灰原哀人设",
+        "onboard_time": 1680667529,
+        "rank": 9,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 805441,
+        "num": 805441,
+        "word": "董俊",
+        "onboard_time": 1680665729,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 724876,
+        "num": 724876,
+        "word": "柯哀亲了",
+        "onboard_time": 1680617614,
+        "rank": 11,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 687078,
+        "num": 687078,
+        "word": "普通人攒一百万有多难",
+        "onboard_time": 1680657030,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 551199,
+        "num": 551199,
+        "word": "当脱口秀演员被小三",
+        "onboard_time": 1680651682,
+        "rank": 13,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 525953,
+        "num": 525953,
+        "word": "51岁的陈慧琳",
+        "onboard_time": 1680664531,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 457944,
+        "num": 457944,
+        "word": "南柱赫寸头",
+        "onboard_time": 1680661828,
+        "rank": 15,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 412190,
+        "num": 412190,
+        "word": "尽快补上死亡教育这一课",
+        "onboard_time": 1680662911,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 397660,
+        "num": 397660,
+        "word": "建议谢娜买回家",
+        "onboard_time": 1680650780,
+        "rank": 17,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 357747,
+        "num": 357747,
+        "word": "果然娱乐律师声明",
+        "onboard_time": 1680667951,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 342251,
+        "num": 342251,
+        "word": "长月烬明OST阵容",
+        "onboard_time": 1680661051,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 340566,
+        "num": 340566,
+        "word": "00后是怎么看待死亡的",
+        "onboard_time": 1680665670,
+        "rank": 20,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 339893,
+        "num": 339893,
+        "word": "清明其实是三个节日",
+        "onboard_time": 1680660330,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333597,
+        "num": 333597,
+        "word": "男子将遗产留给爷奶被改嫁母亲分走",
+        "onboard_time": 1680664051,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312404,
+        "num": 312404,
+        "word": "Lisa晒BLACKPINK科切拉彩排照",
+        "onboard_time": 1680663269,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 296760,
+        "num": 296760,
+        "word": "特朗普公开讲话",
+        "onboard_time": 1680656247,
+        "rank": 24,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 290857,
+        "num": 290857,
+        "word": "詹姆斯上篮准绝杀",
+        "onboard_time": 1680667891,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 290161,
+        "num": 290161,
+        "word": "邓超陈赫范志毅吃活生蚝",
+        "onboard_time": 1680666509,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 287147,
+        "num": 287147,
+        "word": "沈小婷的仪态",
+        "onboard_time": 1680667051,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266753,
+        "num": 266753,
+        "word": "爱情而已3分钟变成30秒",
+        "onboard_time": 1680652584,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 265607,
+        "num": 265607,
+        "word": "只有毛利兰受伤的世界达成了",
+        "onboard_time": 1680658410,
+        "rank": 29,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 237199,
+        "num": 237199,
+        "word": "最适合应届生过渡的工作",
+        "onboard_time": 1680658591,
+        "rank": 30,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 219012,
+        "num": 219012,
+        "word": "差点成为SEVENTEEN成员的艺名",
+        "onboard_time": 1680665610,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216912,
+        "num": 216912,
+        "word": "西湖醋鱼到底难不难吃",
+        "onboard_time": 1680661650,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 207522,
+        "num": 207522,
+        "word": "女子称使用化妆品后流产",
+        "onboard_time": 1680659250,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206671,
+        "num": 206671,
+        "word": "闵玧其IU合作曲预告",
+        "onboard_time": 1680667827,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 202138,
+        "num": 202138,
+        "word": "特朗普接受传讯现场",
+        "onboard_time": 1680616532,
+        "rank": 35,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 195522,
+        "num": 195522,
+        "word": "柯南电影的比喻图",
+        "onboard_time": 1680663392,
+        "rank": 36,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 192901,
+        "num": 192901,
+        "word": "河北烟草",
+        "onboard_time": 1680658889,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 192898,
+        "num": 192898,
+        "word": "湖人爵士加时",
+        "onboard_time": 1680668431,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187081,
+        "num": 187081,
+        "word": "特朗普一旦定罪或被判4年",
+        "onboard_time": 1680616410,
+        "rank": 39,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 183930,
+        "num": 183930,
+        "word": "马嘉祺宋亚轩黑白造型",
+        "onboard_time": 1680663929,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 163059,
+        "num": 163059,
+        "word": "湖人VS爵士",
+        "onboard_time": 1680661290,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161754,
+        "num": 161754,
+        "word": "朴珍荣确定将于5月8日入伍",
+        "onboard_time": 1680662191,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161278,
+        "num": 161278,
+        "word": "秦岚邓家佳张峻宁发导演表情包",
+        "onboard_time": 1680666810,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 160252,
+        "num": 160252,
+        "word": "帮忙摘橙子的金毛",
+        "onboard_time": 1680659491,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 159486,
+        "num": 159486,
+        "word": "青团是用什么做青",
+        "onboard_time": 1680667771,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 154479,
+        "num": 154479,
+        "word": "丫丫",
+        "onboard_time": 1680669153,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140762,
+        "num": 140762,
+        "word": "清明节",
+        "onboard_time": 1680649937,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138201,
+        "num": 138201,
+        "word": "詹姆斯37分",
+        "onboard_time": 1680667891,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99799,
+        "num": 134201,
+        "word": "杭州人的早餐",
+        "onboard_time": 1680659970,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#我没忘记你就还在#"
+    }
+  }
+}

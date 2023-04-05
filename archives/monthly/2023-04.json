@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680668445050,
+  "endTime": 1680669317262,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -355,6 +355,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 2330659,
+      "num": 2330659,
+      "word": "中电科回应员工疑痛批领导安排加班",
+      "onboard_time": 1680666389,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2318401,
       "num": 2318401,
       "word": "女子双腿绑14瓶茅台入境",
@@ -409,14 +417,6 @@
       "onboard_time": 1680613830,
       "rank": 30,
       "category": "科技"
-    },
-    {
-      "raw_hot": 2100205,
-      "num": 2100205,
-      "word": "中电科回应员工疑痛批领导安排加班",
-      "onboard_time": 1680666389,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2010722,
@@ -609,6 +609,14 @@
       "onboard_time": 1680360811,
       "rank": 3,
       "category": "社会新闻,社会正能量"
+    },
+    {
+      "raw_hot": 1403151,
+      "num": 1403151,
+      "word": "国产剧能不能尊重一下产妇",
+      "onboard_time": 1680666751,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 1391775,
@@ -899,6 +907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1014512,
+      "num": 1014512,
+      "word": "丫丫上海检疫后将被北动接走",
+      "onboard_time": 1680667171,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1007605,
       "num": 1007605,
       "word": "OMG战胜TES",
@@ -1003,20 +1019,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 937709,
-      "num": 937709,
+      "raw_hot": 944659,
+      "num": 944659,
       "word": "彭小苒的字",
       "onboard_time": 1680665911,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 934790,
-      "num": 934790,
-      "word": "国产剧能不能尊重一下产妇",
-      "onboard_time": 1680666751,
-      "rank": 7,
-      "category": "影视"
     },
     {
       "raw_hot": 933201,
@@ -1139,6 +1147,14 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 860615,
+      "num": 860615,
+      "word": "灰原哀人设",
+      "onboard_time": 1680667529,
+      "rank": 12,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 860190,
       "num": 860190,
       "word": "还得是伊能静",
@@ -1259,6 +1275,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 805441,
+      "num": 805441,
+      "word": "董俊",
+      "onboard_time": 1680665729,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 801125,
       "num": 801125,
       "word": "盘点张继科商业版图",
@@ -1304,14 +1328,6 @@
       "word": "夫妻结婚6年因3岁儿子转学想离婚",
       "onboard_time": 1680438688,
       "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 782345,
-      "num": 782345,
-      "word": "董俊",
-      "onboard_time": 1680665729,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1425,14 +1441,6 @@
       "onboard_time": 1680606869,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 726113,
-      "num": 726113,
-      "word": "丫丫上海检疫后将被北动接走",
-      "onboard_time": 1680667171,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 725902,
@@ -2129,14 +2137,6 @@
       "onboard_time": 1680484530,
       "rank": 33,
       "category": "艺人,幽默"
-    },
-    {
-      "raw_hot": 546098,
-      "num": 546098,
-      "word": "灰原哀人设",
-      "onboard_time": 1680667529,
-      "rank": 12,
-      "category": "影视,动漫"
     },
     {
       "raw_hot": 543449,
@@ -3387,6 +3387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 357747,
+      "num": 357747,
+      "word": "果然娱乐律师声明",
+      "onboard_time": 1680667951,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 357397,
       "num": 357397,
       "word": "王者荣耀杨玉环皮肤",
@@ -3667,6 +3675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 333597,
+      "num": 333597,
+      "word": "男子将遗产留给爷奶被改嫁母亲分走",
+      "onboard_time": 1680664051,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 332805,
       "num": 332805,
       "word": "熊猫在树上蹦迪",
@@ -3769,14 +3785,6 @@
       "onboard_time": 1680419367,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 324161,
-      "num": 324161,
-      "word": "男子将遗产留给爷奶被改嫁母亲分走",
-      "onboard_time": 1680664051,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 323829,
@@ -4067,6 +4075,22 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 290857,
+      "num": 290857,
+      "word": "詹姆斯上篮准绝杀",
+      "onboard_time": 1680667891,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 290161,
+      "num": 290161,
+      "word": "邓超陈赫范志毅吃活生蚝",
+      "onboard_time": 1680666509,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 289322,
       "num": 289322,
       "word": "长月烬明一眼万年海报",
@@ -4089,6 +4113,14 @@
       "onboard_time": 1680494735,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 287147,
+      "num": 287147,
+      "word": "沈小婷的仪态",
+      "onboard_time": 1680667051,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 286934,
@@ -4153,14 +4185,6 @@
       "onboard_time": 1680663392,
       "rank": 32,
       "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 281168,
-      "num": 281168,
-      "word": "邓超陈赫范志毅吃活生蚝",
-      "onboard_time": 1680666509,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 280919,
@@ -4417,14 +4441,6 @@
       "onboard_time": 1680522573,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 263975,
-      "num": 263975,
-      "word": "沈小婷的仪态",
-      "onboard_time": 1680667051,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 263884,
@@ -5611,6 +5627,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 206671,
+      "num": 206671,
+      "word": "闵玧其IU合作曲预告",
+      "onboard_time": 1680667827,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 206622,
       "num": 206622,
       "word": "Hero全员高光",
@@ -5649,14 +5673,6 @@
       "onboard_time": 1680430108,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 205811,
-      "num": 205811,
-      "word": "闵玧其IU合作曲预告",
-      "onboard_time": 1680667827,
-      "rank": 38,
-      "category": "音乐"
     },
     {
       "raw_hot": 205594,
@@ -6035,14 +6051,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 200541,
-      "num": 193212,
-      "word": "詹姆斯上篮准绝杀",
-      "onboard_time": 1680667891,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 200194,
       "num": 200194,
       "word": "小狼也很猛",
@@ -6088,14 +6096,6 @@
       "word": "龚俊愚人节plog",
       "onboard_time": 1680339750,
       "rank": 18,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 199770,
-      "num": 199770,
-      "word": "果然娱乐律师声明",
-      "onboard_time": 1680667951,
-      "rank": 41,
       "category": "艺人"
     },
     {
@@ -7723,6 +7723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159486,
+      "num": 159486,
+      "word": "青团是用什么做青",
+      "onboard_time": 1680667771,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 159313,
       "num": 152342,
       "word": "吴磊被送火烈鸟",
@@ -8969,14 +8977,6 @@
       "onboard_time": 1680424290,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 122897,
-      "num": 146281,
-      "word": "青团是用什么做青",
-      "onboard_time": 1680667771,
-      "rank": 48,
-      "category": "美食"
     },
     {
       "raw_hot": 122835,

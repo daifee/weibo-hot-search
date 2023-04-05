@@ -1,6 +1,6 @@
 {
   "startTime": 1680625388129,
-  "endTime": 1680668445050,
+  "endTime": 1680669317262,
   "band_list": [
     {
       "raw_hot": 4692271,
@@ -43,8 +43,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2100205,
-      "num": 2100205,
+      "raw_hot": 2330659,
+      "num": 2330659,
       "word": "中电科回应员工疑痛批领导安排加班",
       "onboard_time": 1680666389,
       "rank": 1,
@@ -57,6 +57,14 @@
       "onboard_time": 1680651682,
       "rank": 3,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 1403151,
+      "num": 1403151,
+      "word": "国产剧能不能尊重一下产妇",
+      "onboard_time": 1680666751,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 1338539,
@@ -83,6 +91,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 1014512,
+      "num": 1014512,
+      "word": "丫丫上海检疫后将被北动接走",
+      "onboard_time": 1680667171,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 983583,
       "num": 638701,
       "word": "建议谢娜买回家",
@@ -99,20 +115,20 @@
       "category": "影视,动漫"
     },
     {
-      "raw_hot": 937709,
-      "num": 937709,
+      "raw_hot": 944659,
+      "num": 944659,
       "word": "彭小苒的字",
       "onboard_time": 1680665911,
       "rank": 6,
       "category": "艺人"
     },
     {
-      "raw_hot": 934790,
-      "num": 934790,
-      "word": "国产剧能不能尊重一下产妇",
-      "onboard_time": 1680666751,
-      "rank": 7,
-      "category": "影视"
+      "raw_hot": 860615,
+      "num": 860615,
+      "word": "灰原哀人设",
+      "onboard_time": 1680667529,
+      "rank": 12,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 834861,
@@ -139,8 +155,8 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 782345,
-      "num": 782345,
+      "raw_hot": 805441,
+      "num": 805441,
       "word": "董俊",
       "onboard_time": 1680665729,
       "rank": 9,
@@ -160,14 +176,6 @@
       "word": "清明其实是三个节日",
       "onboard_time": 1680660330,
       "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 726113,
-      "num": 726113,
-      "word": "丫丫上海检疫后将被北动接走",
-      "onboard_time": 1680667171,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -257,14 +265,6 @@
       "onboard_time": 1680651140,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 546098,
-      "num": 546098,
-      "word": "灰原哀人设",
-      "onboard_time": 1680667529,
-      "rank": 12,
-      "category": "影视,动漫"
     },
     {
       "raw_hot": 528331,
@@ -379,6 +379,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 357747,
+      "num": 357747,
+      "word": "果然娱乐律师声明",
+      "onboard_time": 1680667951,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 347754,
       "num": 347754,
       "word": "清明节",
@@ -411,19 +419,19 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 333597,
+      "num": 333597,
+      "word": "男子将遗产留给爷奶被改嫁母亲分走",
+      "onboard_time": 1680664051,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 332180,
       "num": 332180,
       "word": "清明时节雨纷纷有三大原因",
       "onboard_time": 1680657510,
       "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 324161,
-      "num": 324161,
-      "word": "男子将遗产留给爷奶被改嫁母亲分走",
-      "onboard_time": 1680664051,
-      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -475,20 +483,36 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 290857,
+      "num": 290857,
+      "word": "詹姆斯上篮准绝杀",
+      "onboard_time": 1680667891,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 290161,
+      "num": 290161,
+      "word": "邓超陈赫范志毅吃活生蚝",
+      "onboard_time": 1680666509,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 287147,
+      "num": 287147,
+      "word": "沈小婷的仪态",
+      "onboard_time": 1680667051,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 283996,
       "num": 283996,
       "word": "柯南电影的比喻图",
       "onboard_time": 1680663392,
       "rank": 32,
       "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 281168,
-      "num": 281168,
-      "word": "邓超陈赫范志毅吃活生蚝",
-      "onboard_time": 1680666509,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 280000,
@@ -521,14 +545,6 @@
       "onboard_time": 1680661350,
       "rank": 47,
       "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 263975,
-      "num": 263975,
-      "word": "沈小婷的仪态",
-      "onboard_time": 1680667051,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 261930,
@@ -635,8 +651,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 205811,
-      "num": 205811,
+      "raw_hot": 206671,
+      "num": 206671,
       "word": "闵玧其IU合作曲预告",
       "onboard_time": 1680667827,
       "rank": 38,
@@ -665,22 +681,6 @@
       "onboard_time": 1680667891,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 200541,
-      "num": 193212,
-      "word": "詹姆斯上篮准绝杀",
-      "onboard_time": 1680667891,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 199770,
-      "num": 199770,
-      "word": "果然娱乐律师声明",
-      "onboard_time": 1680667951,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 198871,
@@ -819,11 +819,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 159486,
+      "num": 159486,
+      "word": "青团是用什么做青",
+      "onboard_time": 1680667771,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 157660,
       "num": 1638351,
       "word": "谢谢你们守护了祖国大好山河",
       "onboard_time": 1680661952,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154479,
+      "num": 154479,
+      "word": "丫丫",
+      "onboard_time": 1680669153,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -985,14 +1001,6 @@
       "onboard_time": 1680659550,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 122897,
-      "num": 146281,
-      "word": "青团是用什么做青",
-      "onboard_time": 1680667771,
-      "rank": 48,
-      "category": "美食"
     },
     {
       "raw_hot": 122661,
