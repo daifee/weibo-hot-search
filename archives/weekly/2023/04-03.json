@@ -1,6 +1,6 @@
 {
   "startTime": 1680452464197,
-  "endTime": 1680690967363,
+  "endTime": 1680693361072,
   "band_list": [
     {
       "raw_hot": 9506486,
@@ -284,7 +284,7 @@
     },
     {
       "raw_hot": 2234743,
-      "num": 447702,
+      "num": 453201,
       "word": "长期被自愿加班必然导致积怨",
       "onboard_time": 1680677848,
       "rank": 22,
@@ -1147,6 +1147,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 705477,
+      "num": 705477,
+      "word": "Doinb把冠军奖杯放地上",
+      "onboard_time": 1680690210,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 701370,
       "num": 701370,
       "word": "特朗普",
@@ -1403,6 +1411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 615967,
+      "num": 615967,
+      "word": "剪指甲最好剪成方形的",
+      "onboard_time": 1680691830,
+      "rank": 5,
+      "category": "情感"
+    },
+    {
       "raw_hot": 609798,
       "num": 609798,
       "word": "Amber 排名",
@@ -1555,6 +1571,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 555392,
+      "num": 309902,
+      "word": "金智秀solo初一位",
+      "onboard_time": 1680691891,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 552794,
       "num": 552794,
       "word": "杨丽萍爱徒跳孔雀舞被批不雅",
@@ -1657,6 +1681,14 @@
       "onboard_time": 1680664531,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 526400,
+      "num": 526400,
+      "word": "谢娜黄丽玲曾可妮乘风破浪上班路透",
+      "onboard_time": 1680690152,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 525045,
@@ -1769,6 +1801,14 @@
       "onboard_time": 1680577949,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 495319,
+      "num": 495319,
+      "word": "如果我变成蟑螂妈妈会怎么办",
+      "onboard_time": 1680689374,
+      "rank": 25,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 491719,
@@ -1979,6 +2019,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 456766,
+      "num": 452606,
+      "word": "鞠婧祎",
+      "onboard_time": 1680692852,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 450743,
       "num": 450743,
       "word": "湖南一家族20多人献了45万毫升血",
@@ -2051,6 +2099,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 431731,
+      "num": 309215,
+      "word": "崔杋圭撞脸宋亚轩",
+      "onboard_time": 1680689913,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 430971,
       "num": 430971,
       "word": "谢娜乘风破浪4路透",
@@ -2089,14 +2145,6 @@
       "onboard_time": 1680622769,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 422816,
-      "num": 304335,
-      "word": "崔杋圭撞脸宋亚轩",
-      "onboard_time": 1680689913,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 422391,
@@ -2145,6 +2193,14 @@
       "onboard_time": 1680518796,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 414775,
+      "num": 414775,
+      "word": "陈小纭发长文迎接薄冰",
+      "onboard_time": 1680691712,
+      "rank": 15,
+      "category": "影视,艺人"
     },
     {
       "raw_hot": 414354,
@@ -2201,6 +2257,14 @@
       "onboard_time": 1680523353,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 403546,
+      "num": 403546,
+      "word": "加班",
+      "onboard_time": 1680690871,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 399956,
@@ -2459,14 +2523,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 347703,
-      "num": 347703,
-      "word": "如果我变成蟑螂妈妈会怎么办",
-      "onboard_time": 1680689374,
-      "rank": 25,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 347062,
       "num": 330702,
       "word": "为什么家长认为考编很容易",
@@ -2619,14 +2675,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 329480,
-      "num": 329480,
-      "word": "Doinb把冠军奖杯放地上",
-      "onboard_time": 1680690210,
-      "rank": 15,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 328950,
       "num": 114339,
       "word": "李微敖晒出张继科500万借款欠条",
@@ -2691,12 +2739,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 314645,
-      "num": 314645,
-      "word": "谢娜黄丽玲曾可妮乘风破浪上班路透",
-      "onboard_time": 1680690152,
-      "rank": 18,
-      "category": "综艺"
+      "raw_hot": 318668,
+      "num": 308197,
+      "word": "杨紫毛衣马甲随拍",
+      "onboard_time": 1680693092,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 313850,
@@ -2729,6 +2777,14 @@
       "onboard_time": 1680523353,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 308167,
+      "num": 308167,
+      "word": "郭麒麟给准女婿上门提建议",
+      "onboard_time": 1680691830,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 305906,
@@ -4323,6 +4379,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 196371,
+      "num": 196371,
+      "word": "薄冰",
+      "onboard_time": 1680693272,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 196282,
       "num": 196282,
       "word": "赵弈钦新剧人设",
@@ -4449,6 +4513,14 @@
       "onboard_time": 1680525754,
       "rank": 38,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 192660,
+      "num": 192660,
+      "word": "扁鹊奇幻香踪新皮肤",
+      "onboard_time": 1680692371,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 192438,
@@ -5083,6 +5155,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 166305,
+      "num": 166305,
+      "word": "JDG对战BLG",
+      "onboard_time": 1680687688,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 165588,
       "num": 165588,
       "word": "巴黎圣日耳曼0比1里昂",
@@ -5259,14 +5339,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 158171,
-      "num": 158171,
-      "word": "加班",
-      "onboard_time": 1680690871,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 157660,
       "num": 1638351,
       "word": "谢谢你们守护了祖国大好山河",
@@ -5435,6 +5507,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 150691,
+      "num": 150691,
+      "word": "谁会记得第二名",
+      "onboard_time": 1680691652,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 150530,
       "num": 150530,
       "word": "电影无价之宝预告",
@@ -5513,14 +5593,6 @@
       "onboard_time": 1680486267,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 148585,
-      "num": 148585,
-      "word": "JDG对战BLG",
-      "onboard_time": 1680687688,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 148557,
@@ -5619,6 +5691,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 142218,
+      "num": 142218,
+      "word": "六公主连播张颂文张译主演电影",
+      "onboard_time": 1680693329,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 142089,
       "num": 142089,
       "word": "迪士尼成立100周年宣传片",
@@ -5665,6 +5745,14 @@
       "onboard_time": 1680595168,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 140586,
+      "num": 140586,
+      "word": "朱志鑫弹电吉他随拍",
+      "onboard_time": 1680691951,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 139454,

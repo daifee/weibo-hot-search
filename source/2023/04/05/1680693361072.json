@@ -1,0 +1,410 @@
+{
+  "runTime": 1680693361072,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8063456,
+        "num": 8063456,
+        "word": "中电科称痛批加班员工非集团公司员工",
+        "onboard_time": 1680683010,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1861142,
+        "num": 1861142,
+        "word": "胖东来创始人称加班不道德",
+        "onboard_time": 1680684568,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75216,
+        "num": 746149,
+        "word": "让春风带去我们的思念",
+        "onboard_time": 1680680070,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 705477,
+        "num": 705477,
+        "word": "Doinb把冠军奖杯放地上",
+        "onboard_time": 1680690210,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 626150,
+        "num": 626150,
+        "word": "特朗普",
+        "onboard_time": 1680687869,
+        "rank": 4,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 615967,
+        "num": 615967,
+        "word": "剪指甲最好剪成方形的",
+        "onboard_time": 1680691830,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 590605,
+        "num": 590605,
+        "word": "现在的衣服尺码",
+        "onboard_time": 1680673470,
+        "rank": 6,
+        "category": "幽默,时尚"
+      },
+      {
+        "raw_hot": 526400,
+        "num": 526400,
+        "word": "谢娜黄丽玲曾可妮乘风破浪上班路透",
+        "onboard_time": 1680690152,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 495319,
+        "num": 495319,
+        "word": "如果我变成蟑螂妈妈会怎么办",
+        "onboard_time": 1680689374,
+        "rank": 8,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 456537,
+        "num": 456537,
+        "word": "长月烬明",
+        "onboard_time": 1680684088,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 899985,
+        "num": 454776,
+        "word": "S先生疑为赌场叠码仔",
+        "onboard_time": 1680680070,
+        "rank": 10,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 775446,
+        "num": 453201,
+        "word": "长期被自愿加班必然导致积怨",
+        "onboard_time": 1680677848,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 456766,
+        "num": 452606,
+        "word": "鞠婧祎",
+        "onboard_time": 1680692852,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 448721,
+        "num": 448721,
+        "word": "更适合中国宝宝体质的",
+        "onboard_time": 1680686789,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 699028,
+        "num": 434470,
+        "word": "工会介入员工痛批领导安排加班事件",
+        "onboard_time": 1680676348,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414775,
+        "num": 414775,
+        "word": "陈小纭发长文迎接薄冰",
+        "onboard_time": 1680691712,
+        "rank": 15,
+        "category": "影视,艺人"
+      },
+      {
+        "raw_hot": 403546,
+        "num": 403546,
+        "word": "加班",
+        "onboard_time": 1680690871,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 491947,
+        "num": 362661,
+        "word": "疑CETC陈志龙回应",
+        "onboard_time": 1680662851,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315571,
+        "num": 315571,
+        "word": "国产恐怖片还有未来吗",
+        "onboard_time": 1680683429,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 310639,
+        "num": 310639,
+        "word": "灰原哀人设",
+        "onboard_time": 1680667529,
+        "rank": 19,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 581604,
+        "num": 310428,
+        "word": "以后能不能每个周三都放假",
+        "onboard_time": 1680672631,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 555392,
+        "num": 309902,
+        "word": "金智秀solo初一位",
+        "onboard_time": 1680691891,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 431731,
+        "num": 309215,
+        "word": "崔杋圭撞脸宋亚轩",
+        "onboard_time": 1680689913,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 409148,
+        "num": 308840,
+        "word": "中电科回应员工疑痛批领导安排加班",
+        "onboard_time": 1680666389,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318668,
+        "num": 308197,
+        "word": "杨紫毛衣马甲随拍",
+        "onboard_time": 1680693092,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308167,
+        "num": 308167,
+        "word": "郭麒麟给准女婿上门提建议",
+        "onboard_time": 1680691830,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 278787,
+        "num": 278787,
+        "word": "蝴蝶乒乓暂停销售有张继科肖像产品",
+        "onboard_time": 1680680310,
+        "rank": 26,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 271026,
+        "num": 271026,
+        "word": "法国总统马克龙抵达北京",
+        "onboard_time": 1680680548,
+        "rank": 27,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 263830,
+        "num": 263830,
+        "word": "朱珠Amber搭肩同框",
+        "onboard_time": 1680685770,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 245937,
+        "num": 245937,
+        "word": "公司早8晚11或涉嫌违法",
+        "onboard_time": 1680678568,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214242,
+        "num": 214242,
+        "word": "特朗普出庭画面曝光",
+        "onboard_time": 1680686549,
+        "rank": 30,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 204493,
+        "num": 204493,
+        "word": "丫丫上海检疫后将被北动接走",
+        "onboard_time": 1680667171,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202747,
+        "num": 202747,
+        "word": "Hero第三轮掉A",
+        "onboard_time": 1680689973,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 199920,
+        "num": 199920,
+        "word": "孙国友承包万亩沙地20年仅栽种600多亩",
+        "onboard_time": 1680680487,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196371,
+        "num": 196371,
+        "word": "薄冰",
+        "onboard_time": 1680693272,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 192660,
+        "num": 192660,
+        "word": "扁鹊奇幻香踪新皮肤",
+        "onboard_time": 1680692371,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 187278,
+        "num": 187278,
+        "word": "艺人工作助理详细",
+        "onboard_time": 1680681570,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182622,
+        "num": 182622,
+        "word": "中国电科",
+        "onboard_time": 1680651982,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 178443,
+        "num": 178443,
+        "word": "泰坦尼克号",
+        "onboard_time": 1680681992,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 166305,
+        "num": 166305,
+        "word": "JDG对战BLG",
+        "onboard_time": 1680687688,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 160217,
+        "num": 160217,
+        "word": "忠犬八公",
+        "onboard_time": 1680687869,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 153359,
+        "num": 153359,
+        "word": "吴磊赵今麦侧颜同框路透",
+        "onboard_time": 1680688287,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 150691,
+        "num": 150691,
+        "word": "谁会记得第二名",
+        "onboard_time": 1680691652,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142218,
+        "num": 142218,
+        "word": "六公主连播张颂文张译主演电影",
+        "onboard_time": 1680693329,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 140586,
+        "num": 140586,
+        "word": "朱志鑫弹电吉他随拍",
+        "onboard_time": 1680691951,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140159,
+        "num": 140159,
+        "word": "林彦俊破茧成蝶涅槃天使大片",
+        "onboard_time": 1680689492,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 139988,
+        "num": 139988,
+        "word": "成都人社局回应疑中电科强制员工加班",
+        "onboard_time": 1680671790,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139854,
+        "num": 139854,
+        "word": "养父母抱养25年后起诉养子补偿",
+        "onboard_time": 1680669752,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139272,
+        "num": 139272,
+        "word": "1分钟了解长月烬明世界观",
+        "onboard_time": 1680681570,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 139104,
+        "num": 139104,
+        "word": "酒酿青团双皮奶",
+        "onboard_time": 1680685529,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#我没忘记你就还在#"
+    }
+  }
+}
