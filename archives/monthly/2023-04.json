@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680712017153,
+  "endTime": 1680713047429,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -1635,6 +1635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 753275,
+      "num": 753275,
+      "word": "调剂",
+      "onboard_time": 1680708932,
+      "rank": 4,
+      "category": "教育"
+    },
+    {
       "raw_hot": 744478,
       "num": 744478,
       "word": "体育总局7人工作组正式进驻足协",
@@ -2073,14 +2081,6 @@
       "onboard_time": 1680485668,
       "rank": 14,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 637741,
-      "num": 637741,
-      "word": "调剂",
-      "onboard_time": 1680708932,
-      "rank": 4,
-      "category": "教育"
     },
     {
       "raw_hot": 635026,
@@ -4939,6 +4939,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 280689,
+      "num": 215097,
+      "word": "空气炸锅还有多少惊喜是我不知道的",
+      "onboard_time": 1680708752,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
       "raw_hot": 280268,
       "num": 199850,
       "word": "耳屎是怎样保护耳朵的",
@@ -5113,14 +5121,6 @@
       "onboard_time": 1680576867,
       "rank": 27,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 271372,
-      "num": 215097,
-      "word": "空气炸锅还有多少惊喜是我不知道的",
-      "onboard_time": 1680708752,
-      "rank": 24,
-      "category": "美食"
     },
     {
       "raw_hot": 271301,
@@ -10089,6 +10089,14 @@
       "onboard_time": 1680334891,
       "rank": 36,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 133814,
+      "num": 133814,
+      "word": "京城大师赛",
+      "onboard_time": 1680712344,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 133774,

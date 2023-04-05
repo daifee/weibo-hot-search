@@ -1,6 +1,6 @@
 {
   "startTime": 1680712017153,
-  "endTime": 1680712017153,
+  "endTime": 1680713047429,
   "band_list": [
     {
       "raw_hot": 1656680,
@@ -51,20 +51,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 753275,
+      "num": 753275,
+      "word": "调剂",
+      "onboard_time": 1680708932,
+      "rank": 4,
+      "category": "教育"
+    },
+    {
       "raw_hot": 678332,
       "num": 325998,
       "word": "天海祐希",
       "onboard_time": 1680706593,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 637741,
-      "num": 637741,
-      "word": "调剂",
-      "onboard_time": 1680708932,
-      "rank": 4,
-      "category": "教育"
     },
     {
       "raw_hot": 605153,
@@ -155,7 +155,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 271372,
+      "raw_hot": 280689,
       "num": 215097,
       "word": "空气炸锅还有多少惊喜是我不知道的",
       "onboard_time": 1680708752,
@@ -273,6 +273,14 @@
       "onboard_time": 1680694711,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 133814,
+      "num": 133814,
+      "word": "京城大师赛",
+      "onboard_time": 1680712344,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 132404,
@@ -395,6 +403,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 73637,
+      "num": 73637,
+      "word": "一秒让人破防的瞬间",
+      "onboard_time": 1680708213,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 17638,
       "num": 1021644,
       "word": "多希望你们看看山河无恙国泰民安",
@@ -406,6 +422,9 @@
   "hotgov_list": [
     {
       "word": "#为什么和平年代同样需要英雄情怀#"
+    },
+    {
+      "word": "#英雄之光#"
     }
   ]
 }
