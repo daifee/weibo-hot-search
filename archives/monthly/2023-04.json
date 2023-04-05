@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680651208235,
+  "endTime": 1680657024277,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -193,6 +193,14 @@
       "onboard_time": 1680406047,
       "rank": 17,
       "category": "科技"
+    },
+    {
+      "raw_hot": 3045784,
+      "num": 3045784,
+      "word": "特朗普最高刑期可能达136年",
+      "onboard_time": 1680650358,
+      "rank": 6,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 2990102,
@@ -587,12 +595,28 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1377777,
+      "num": 1377777,
+      "word": "当脱口秀演员被小三",
+      "onboard_time": 1680651682,
+      "rank": 3,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 1374355,
       "num": 1374355,
       "word": "乘风4初舞台排名",
       "onboard_time": 1680576867,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1361680,
+      "num": 1361680,
+      "word": "中国电科",
+      "onboard_time": 1680651982,
+      "rank": 4,
+      "category": "情感"
     },
     {
       "raw_hot": 1350707,
@@ -1219,6 +1243,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 778581,
+      "num": 778581,
+      "word": "女专家不畏生死带免费药进麻风村",
+      "onboard_time": 1680651560,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 777495,
       "num": 777495,
       "word": "重庆群众挺身而出制服行凶男子",
@@ -1427,6 +1459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 691583,
+      "num": 464409,
+      "word": "建议谢娜买回家",
+      "onboard_time": 1680650780,
+      "rank": 18,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 688377,
       "num": 688377,
       "word": "福建漳州老人",
@@ -1497,6 +1537,14 @@
       "onboard_time": 1680596971,
       "rank": 24,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 666903,
+      "num": 666903,
+      "word": "95后寿衣模特回应被说阴气重",
+      "onboard_time": 1680614552,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 666592,
@@ -1851,14 +1899,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 569422,
-      "num": 569422,
-      "word": "95后寿衣模特回应被说阴气重",
-      "onboard_time": 1680614552,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 568517,
       "num": 568517,
       "word": "特朗普一旦定罪或被判4年",
@@ -1891,6 +1931,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 557740,
+      "num": 463337,
+      "word": "特朗普公开讲话",
+      "onboard_time": 1680656247,
+      "rank": 11,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 556793,
       "num": 556793,
       "word": "武汉地铁",
@@ -1913,6 +1961,14 @@
       "onboard_time": 1680423749,
       "rank": 15,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 552794,
+      "num": 552794,
+      "word": "杨丽萍爱徒跳孔雀舞被批不雅",
+      "onboard_time": 1680651140,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 552389,
@@ -2283,6 +2339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 482708,
+      "num": 245965,
+      "word": "9岁男孩4年跑坏3台跑步机没瘦下来",
+      "onboard_time": 1680651862,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 481977,
       "num": 481977,
       "word": "代号鸢 养卡",
@@ -2369,6 +2433,14 @@
       "onboard_time": 1680613951,
       "rank": 39,
       "category": "其它"
+    },
+    {
+      "raw_hot": 473940,
+      "num": 473940,
+      "word": "爱情而已3分钟变成30秒",
+      "onboard_time": 1680652584,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 472984,
@@ -2521,6 +2593,14 @@
       "onboard_time": 1680361291,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 452082,
+      "num": 452082,
+      "word": "高校回应招聘会设KTV陪酒岗位",
+      "onboard_time": 1680653485,
+      "rank": 12,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 451567,
@@ -2753,6 +2833,14 @@
       "onboard_time": 1680354207,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 415862,
+      "num": 415862,
+      "word": "CETC陈志龙",
+      "onboard_time": 1680652223,
+      "rank": 13,
+      "category": "情感"
     },
     {
       "raw_hot": 415234,
@@ -3035,14 +3123,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 376713,
-      "num": 376713,
-      "word": "特朗普最高刑期可能达136年",
-      "onboard_time": 1680650358,
-      "rank": 6,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 372817,
       "num": 372817,
       "word": "间歇性冷漠",
@@ -3217,6 +3297,14 @@
       "onboard_time": 1680401728,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 347754,
+      "num": 347754,
+      "word": "清明节",
+      "onboard_time": 1680649937,
+      "rank": 7,
+      "category": "情感"
     },
     {
       "raw_hot": 347062,
@@ -3624,6 +3712,14 @@
       "word": "杨紫ins关注程潇",
       "onboard_time": 1680441874,
       "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 301990,
+      "num": 301990,
+      "word": "窦骁何超莲佘诗曼聚餐",
+      "onboard_time": 1680651560,
+      "rank": 17,
       "category": "艺人"
     },
     {
@@ -4059,14 +4155,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 267523,
-      "num": 267523,
-      "word": "清明节",
-      "onboard_time": 1680649937,
-      "rank": 7,
-      "category": "情感"
-    },
-    {
       "raw_hot": 267241,
       "num": 267241,
       "word": "时尚先生四月刊",
@@ -4457,6 +4545,14 @@
       "onboard_time": 1680419488,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 246167,
+      "num": 246167,
+      "word": "潘玮柏带老婆买戒指",
+      "onboard_time": 1680651260,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 246098,
@@ -6723,6 +6819,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 174647,
+      "num": 174647,
+      "word": "罗云熙白鹿新剧相拥吻戏",
+      "onboard_time": 1680650420,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 174191,
+      "num": 135800,
+      "word": "刘嘉玲晒与彭于晏合照",
+      "onboard_time": 1680654266,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 173414,
       "num": 173414,
       "word": "薄冰光影眼神杀",
@@ -7227,6 +7339,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 159109,
+      "num": 159109,
+      "word": "陪最爱的人去拍遗照是什么体验",
+      "onboard_time": 1680654866,
+      "rank": 26,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 158542,
       "num": 158542,
       "word": "谢谢你医生将加拿大播出",
@@ -7417,6 +7537,14 @@
       "onboard_time": 1680401606,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 153571,
+      "num": 153571,
+      "word": "C罗连续3场双响",
+      "onboard_time": 1680653906,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 153432,
@@ -7899,14 +8027,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 138671,
-      "num": 138671,
-      "word": "建议谢娜买回家",
-      "onboard_time": 1680650780,
-      "rank": 18,
-      "category": "幽默,艺人"
-    },
-    {
       "raw_hot": 138264,
       "num": 138264,
       "word": "静音车厢你爱了吗",
@@ -7971,6 +8091,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 136313,
+      "num": 136313,
+      "word": "社牛宝宝频繁搭讪小哥哥",
+      "onboard_time": 1680650658,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136267,
       "num": 136267,
       "word": "李斯丹妮想要高启强的出场方式",
@@ -7995,12 +8123,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 136114,
+      "num": 136114,
+      "word": "宋三川按头亲吻梁友安",
+      "onboard_time": 1680653303,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 135873,
       "num": 135873,
       "word": "童瑶造型RCFA全球最佳红毯",
       "onboard_time": 1680518796,
       "rank": 47,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 135493,
+      "num": 135493,
+      "word": "一个视频带你看懂清明节的起源",
+      "onboard_time": 1680656126,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 135237,
@@ -8347,6 +8491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 123054,
+      "num": 123054,
+      "word": "孙怡哭戏",
+      "onboard_time": 1680654988,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 122835,
       "num": 122835,
       "word": "当狗狗和好朋友开视频时",
@@ -8425,6 +8577,14 @@
       "onboard_time": 1680481891,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 120735,
+      "num": 120735,
+      "word": "周扬青和长辈们去了峨眉山",
+      "onboard_time": 1680652403,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 120388,
@@ -8601,6 +8761,14 @@
       "onboard_time": 1680292872,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 113528,
+      "num": 113528,
+      "word": "像不像小时候不睡午觉想出去玩的你",
+      "onboard_time": 1680652703,
+      "rank": 41,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 113428,
@@ -8819,6 +8987,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 103123,
+      "num": 103123,
+      "word": "借命而生编辑感谢肖战",
+      "onboard_time": 1680656851,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 102470,
       "num": 133131,
       "word": "黄山清明门票预约已满",
@@ -8995,6 +9171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 96821,
+      "num": 96821,
+      "word": "苏醒说这群鸭子有点问题",
+      "onboard_time": 1680655709,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 95149,
       "num": 95149,
       "word": "游戏战歌",
@@ -9009,6 +9193,14 @@
       "onboard_time": 1680267386,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 94925,
+      "num": 94925,
+      "word": "可以放倒广东人的鸭头",
+      "onboard_time": 1680651560,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 93953,
@@ -9057,14 +9249,6 @@
       "onboard_time": 1680404847,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 92019,
-      "num": 92019,
-      "word": "罗云熙白鹿新剧相拥吻戏",
-      "onboard_time": 1680650420,
-      "rank": 29,
-      "category": "影视"
     },
     {
       "raw_hot": 91489,
@@ -9176,14 +9360,6 @@
       "word": "北汽原董事长徐和谊被查",
       "onboard_time": 1680275010,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 78498,
-      "num": 78498,
-      "word": "社牛宝宝频繁搭讪小哥哥",
-      "onboard_time": 1680650658,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -9425,14 +9601,6 @@
       "onboard_time": 1680285077,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 51906,
-      "num": 51906,
-      "word": "杨丽萍爱徒跳孔雀舞被批不雅",
-      "onboard_time": 1680651140,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 50149,
