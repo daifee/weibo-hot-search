@@ -1,6 +1,6 @@
 {
   "startTime": 1680452464197,
-  "endTime": 1680672817310,
+  "endTime": 1680675738635,
   "band_list": [
     {
       "raw_hot": 9506486,
@@ -731,6 +731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 913489,
+      "num": 913489,
+      "word": "成都人社局回应疑中电科强制员工加班",
+      "onboard_time": 1680671790,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 913030,
       "num": 913030,
       "word": "难怪吃菠萝嘴巴疼",
@@ -849,6 +857,14 @@
       "onboard_time": 1680617313,
       "rank": 35,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 828044,
+      "num": 585153,
+      "word": "韩国店员说要和虞书欣结婚",
+      "onboard_time": 1680672452,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 822431,
@@ -1163,6 +1179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 658256,
+      "num": 658256,
+      "word": "果然娱乐CEO让鹭卓法院见",
+      "onboard_time": 1680671790,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 653611,
       "num": 653611,
       "word": "泰坦尼克号Rose床头的照片",
@@ -1355,6 +1379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 577599,
+      "num": 298321,
+      "word": "以后能不能每个周三都放假",
+      "onboard_time": 1680672631,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 573542,
       "num": 573542,
       "word": "他是谁结局",
@@ -1393,6 +1425,14 @@
       "onboard_time": 1680486747,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 559853,
+      "num": 559853,
+      "word": "明道直播回应与蒋雯丽演情侣",
+      "onboard_time": 1680673290,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 552794,
@@ -1499,6 +1539,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 523213,
+      "num": 523213,
+      "word": "现在的衣服尺码",
+      "onboard_time": 1680673470,
+      "rank": 14,
+      "category": "幽默,时尚"
+    },
+    {
       "raw_hot": 521704,
       "num": 351874,
       "word": "吴京问谢楠媳妇我错哪了",
@@ -1561,14 +1609,6 @@
       "onboard_time": 1680653485,
       "rank": 12,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 496970,
-      "num": 496970,
-      "word": "成都人社局回应疑中电科强制员工加班",
-      "onboard_time": 1680671790,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 496562,
@@ -2475,14 +2515,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 302902,
-      "num": 302902,
-      "word": "韩国店员说要和虞书欣结婚",
-      "onboard_time": 1680672452,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 300985,
       "num": 227808,
       "word": "刘耀文预告新歌",
@@ -2563,14 +2595,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 288568,
-      "num": 288568,
-      "word": "果然娱乐CEO让鹭卓法院见",
-      "onboard_time": 1680671790,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 287705,
       "num": 287705,
       "word": "娜扎环游世界芭莎大片",
@@ -2649,6 +2673,14 @@
       "onboard_time": 1680446323,
       "rank": 11,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 282984,
+      "num": 282984,
+      "word": "声生不息宝岛季",
+      "onboard_time": 1680673711,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 280083,
@@ -3083,6 +3115,14 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 237360,
+      "num": 237360,
+      "word": "爆浆青团蛋糕",
+      "onboard_time": 1680672091,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
       "raw_hot": 237109,
       "num": 237109,
       "word": "吴磊猛男娇羞",
@@ -3113,6 +3153,14 @@
       "onboard_time": 1680520414,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 230993,
+      "num": 230993,
+      "word": "秦岚说撒娇男人更好命",
+      "onboard_time": 1680672572,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 230080,
@@ -3443,22 +3491,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 209819,
-      "num": 209819,
-      "word": "以后能不能每个周三都放假",
-      "onboard_time": 1680672631,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 209508,
-      "num": 209508,
-      "word": "爆浆青团蛋糕",
-      "onboard_time": 1680672091,
-      "rank": 33,
-      "category": "美食"
-    },
-    {
       "raw_hot": 209468,
       "num": 209468,
       "word": "四成人投票不想加班时会拒绝",
@@ -3603,12 +3635,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 203765,
+      "num": 203765,
+      "word": "爱情而已马小跳",
+      "onboard_time": 1680675030,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 203426,
       "num": 203426,
       "word": "你会选择迂回式恋爱么",
       "onboard_time": 1680578970,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 203389,
+      "num": 203389,
+      "word": "玄彬李栋旭新电影杀青照",
+      "onboard_time": 1680672270,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 203376,
@@ -3995,14 +4043,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 191915,
-      "num": 201384,
-      "word": "玄彬李栋旭新电影杀青照",
-      "onboard_time": 1680672270,
-      "rank": 39,
-      "category": "影视"
-    },
-    {
       "raw_hot": 191805,
       "num": 181560,
       "word": "非法债务不受法律保护",
@@ -4161,6 +4201,14 @@
       "onboard_time": 1680504870,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 186100,
+      "num": 186100,
+      "word": "周雨彤素颜采访视频",
+      "onboard_time": 1680675628,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 185169,
@@ -4379,14 +4427,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 173574,
-      "num": 173574,
-      "word": "秦岚说撒娇男人更好命",
-      "onboard_time": 1680672572,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 173414,
       "num": 173414,
       "word": "薄冰光影眼神杀",
@@ -4513,6 +4553,14 @@
       "onboard_time": 1680586587,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 168550,
+      "num": 168550,
+      "word": "喜欢你4男一女一晨跑",
+      "onboard_time": 1680675269,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 167309,
@@ -4921,6 +4969,14 @@
       "onboard_time": 1680505052,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 149204,
+      "num": 149204,
+      "word": "2023清明档票房破亿",
+      "onboard_time": 1680674011,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 148641,
@@ -5369,6 +5425,14 @@
       "onboard_time": 1680572970,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 115469,
+      "num": 115469,
+      "word": "杭州美食七大硬伤",
+      "onboard_time": 1680675688,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 114470,
