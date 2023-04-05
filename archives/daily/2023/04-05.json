@@ -1,6 +1,6 @@
 {
   "startTime": 1680625388129,
-  "endTime": 1680708054271,
+  "endTime": 1680708935440,
   "band_list": [
     {
       "raw_hot": 9100612,
@@ -195,6 +195,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1329104,
+      "num": 1329104,
+      "word": "恋爱一个月男朋友送我伞带",
+      "onboard_time": 1680704372,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1310889,
       "num": 1310889,
       "word": "丫丫上海检疫后将被北动接走",
@@ -219,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1094524,
+      "num": 459829,
+      "word": "天海祐希",
+      "onboard_time": 1680706593,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1083444,
       "num": 1083444,
       "word": "马栓下线",
@@ -227,28 +243,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1043947,
-      "num": 455569,
-      "word": "天海祐希",
-      "onboard_time": 1680706593,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1040681,
       "num": 1040681,
       "word": "青山刚昌",
       "onboard_time": 1680617553,
       "rank": 5,
       "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 984268,
-      "num": 390723,
-      "word": "恋爱一个月男朋友送我伞带",
-      "onboard_time": 1680704372,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 983583,
@@ -827,6 +827,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 427541,
+      "num": 389413,
+      "word": "上海出发1小时就能到的城市",
+      "onboard_time": 1680705154,
+      "rank": 49,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 423684,
       "num": 423684,
       "word": "小美人鱼救王子剧照",
@@ -892,7 +900,7 @@
     },
     {
       "raw_hot": 394578,
-      "num": 263014,
+      "num": 303607,
       "word": "他这个钱赚得我是不眼红的",
       "onboard_time": 1680705694,
       "rank": 30,
@@ -913,14 +921,6 @@
       "onboard_time": 1680689973,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 389413,
-      "num": 389413,
-      "word": "上海出发1小时就能到的城市",
-      "onboard_time": 1680705154,
-      "rank": 49,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 385001,
@@ -961,6 +961,14 @@
       "onboard_time": 1680694711,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 361549,
+      "num": 298258,
+      "word": "早期央视镜头下的迪丽热巴",
+      "onboard_time": 1680707794,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 356666,
@@ -1219,6 +1227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 282950,
+      "num": 282950,
+      "word": "成龙69岁的状态",
+      "onboard_time": 1680706357,
+      "rank": 33,
+      "category": "作品衍生,幽默"
+    },
+    {
       "raw_hot": 282068,
       "num": 282068,
       "word": "Elk真想去亚运会",
@@ -1275,6 +1291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 270562,
+      "num": 270562,
+      "word": "风箫还得长大",
+      "onboard_time": 1680707374,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 269968,
       "num": 269968,
       "word": "西湖醋鱼到底难不难吃",
@@ -1289,6 +1313,14 @@
       "onboard_time": 1680685107,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 266115,
+      "num": 266115,
+      "word": "刘嘉玲晒梁朝伟彭于晏合影",
+      "onboard_time": 1680708093,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 265674,
@@ -1313,14 +1345,6 @@
       "onboard_time": 1680620672,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 257735,
-      "num": 257735,
-      "word": "风箫还得长大",
-      "onboard_time": 1680707374,
-      "rank": 31,
-      "category": "游戏"
     },
     {
       "raw_hot": 256631,
@@ -1379,14 +1403,6 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 241387,
-      "num": 241387,
-      "word": "成龙69岁的状态",
-      "onboard_time": 1680706357,
-      "rank": 33,
-      "category": "作品衍生,幽默"
-    },
-    {
       "raw_hot": 240128,
       "num": 240128,
       "word": "喜欢你4男一女一晨跑",
@@ -1409,6 +1425,14 @@
       "onboard_time": 1680672091,
       "rank": 33,
       "category": "美食"
+    },
+    {
+      "raw_hot": 233544,
+      "num": 233544,
+      "word": "KPOP女solo最快获得一位天数",
+      "onboard_time": 1680708273,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 230993,
@@ -1867,14 +1891,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 190693,
-      "num": 190693,
-      "word": "早期央视镜头下的迪丽热巴",
-      "onboard_time": 1680707794,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 190672,
       "num": 190672,
       "word": "电影龙马精神上海路演",
@@ -2265,6 +2281,14 @@
       "onboard_time": 1680701555,
       "rank": 44,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 148900,
+      "num": 148900,
+      "word": "一秒让人破防的瞬间",
+      "onboard_time": 1680708213,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 148646,
