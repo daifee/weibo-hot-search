@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680665627883,
+  "endTime": 1680668445050,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -193,6 +193,14 @@
       "onboard_time": 1680534816,
       "rank": 18,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 3086020,
+      "num": 3086020,
+      "word": "李子柒油管广告收益",
+      "onboard_time": 1680664951,
+      "rank": 7,
+      "category": "网红"
     },
     {
       "raw_hot": 3054432,
@@ -401,6 +409,14 @@
       "onboard_time": 1680613830,
       "rank": 30,
       "category": "科技"
+    },
+    {
+      "raw_hot": 2100205,
+      "num": 2100205,
+      "word": "中电科回应员工疑痛批领导安排加班",
+      "onboard_time": 1680666389,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2010722,
@@ -987,6 +1003,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 937709,
+      "num": 937709,
+      "word": "彭小苒的字",
+      "onboard_time": 1680665911,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 934790,
+      "num": 934790,
+      "word": "国产剧能不能尊重一下产妇",
+      "onboard_time": 1680666751,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 933201,
       "num": 928125,
       "word": "鹭卓 抄袭",
@@ -1275,6 +1307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 782345,
+      "num": 782345,
+      "word": "董俊",
+      "onboard_time": 1680665729,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 779318,
       "num": 779318,
       "word": "坂本龙一曾举办最后的音乐会",
@@ -1385,6 +1425,14 @@
       "onboard_time": 1680606869,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 726113,
+      "num": 726113,
+      "word": "丫丫上海检疫后将被北动接走",
+      "onboard_time": 1680667171,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 725902,
@@ -1593,14 +1641,6 @@
       "onboard_time": 1680312146,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 676963,
-      "num": 676963,
-      "word": "李子柒油管广告收益",
-      "onboard_time": 1680664951,
-      "rank": 7,
-      "category": "网红"
     },
     {
       "raw_hot": 672319,
@@ -2091,6 +2131,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 546098,
+      "num": 546098,
+      "word": "灰原哀人设",
+      "onboard_time": 1680667529,
+      "rank": 12,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 543449,
       "num": 172317,
       "word": "意大利宣布禁止使用ChatGPT",
@@ -2195,6 +2243,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 528331,
+      "num": 528331,
+      "word": "51岁的陈慧琳",
+      "onboard_time": 1680664531,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 525508,
       "num": 220685,
       "word": "徐冬冬自曝120斤",
@@ -2233,6 +2289,14 @@
       "onboard_time": 1680440433,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 520136,
+      "num": 520136,
+      "word": "尽快补上死亡教育这一课",
+      "onboard_time": 1680662911,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 519455,
@@ -2457,14 +2521,6 @@
       "onboard_time": 1680581852,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 481831,
-      "num": 481831,
-      "word": "51岁的陈慧琳",
-      "onboard_time": 1680664531,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 480517,
@@ -3099,14 +3155,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 394394,
-      "num": 394394,
-      "word": "尽快补上死亡教育这一课",
-      "onboard_time": 1680662911,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 394354,
       "num": 394354,
       "word": "飞猪",
@@ -3539,6 +3587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 341461,
+      "num": 341461,
+      "word": "00后是怎么看待死亡的",
+      "onboard_time": 1680665670,
+      "rank": 21,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 340498,
       "num": 340498,
       "word": "把一群i人凑在一起",
@@ -3715,6 +3771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 324161,
+      "num": 324161,
+      "word": "男子将遗产留给爷奶被改嫁母亲分走",
+      "onboard_time": 1680664051,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 323829,
       "num": 323829,
       "word": "4AM夺冠",
@@ -3825,14 +3889,6 @@
       "onboard_time": 1680621751,
       "rank": 23,
       "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 309902,
-      "num": 309902,
-      "word": "男子将遗产留给爷奶被改嫁母亲分走",
-      "onboard_time": 1680664051,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 309102,
@@ -4099,6 +4155,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 281168,
+      "num": 281168,
+      "word": "邓超陈赫范志毅吃活生蚝",
+      "onboard_time": 1680666509,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 280919,
       "num": 280919,
       "word": "谭松韵叫秦岚大狗子",
@@ -4353,6 +4417,14 @@
       "onboard_time": 1680522573,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 263975,
+      "num": 263975,
+      "word": "沈小婷的仪态",
+      "onboard_time": 1680667051,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 263884,
@@ -4939,11 +5011,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 229536,
+      "num": 229536,
+      "word": "湖人VS爵士",
+      "onboard_time": 1680661290,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 229476,
       "num": 193009,
       "word": "彭小苒说愚人节就是情人节",
       "onboard_time": 1680318209,
       "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 229303,
+      "num": 229303,
+      "word": "差点成为SEVENTEEN成员的艺名",
+      "onboard_time": 1680665610,
+      "rank": 48,
       "category": "艺人"
     },
     {
@@ -5563,12 +5651,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205811,
+      "num": 205811,
+      "word": "闵玧其IU合作曲预告",
+      "onboard_time": 1680667827,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 205594,
       "num": 205594,
       "word": "沉舟",
       "onboard_time": 1680351689,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 205473,
+      "num": 205473,
+      "word": "湖人爵士加时",
+      "onboard_time": 1680668431,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 205267,
@@ -5899,6 +6003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 201174,
+      "num": 201174,
+      "word": "詹姆斯37分",
+      "onboard_time": 1680667891,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 200947,
       "num": 200947,
       "word": "敖瑞鹏首登时尚芭莎",
@@ -5921,6 +6033,14 @@
       "onboard_time": 1680333269,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 200541,
+      "num": 193212,
+      "word": "詹姆斯上篮准绝杀",
+      "onboard_time": 1680667891,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 200194,
@@ -5968,6 +6088,14 @@
       "word": "龚俊愚人节plog",
       "onboard_time": 1680339750,
       "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 199770,
+      "num": 199770,
+      "word": "果然娱乐律师声明",
+      "onboard_time": 1680667951,
+      "rank": 41,
       "category": "艺人"
     },
     {
@@ -6899,6 +7027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 180577,
+      "num": 180577,
+      "word": "秦岚邓家佳张峻宁发导演表情包",
+      "onboard_time": 1680666810,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 180301,
       "num": 180301,
       "word": "TES掉入卡位赛",
@@ -7660,7 +7796,7 @@
     },
     {
       "raw_hot": 157660,
-      "num": 1156167,
+      "num": 1638351,
       "word": "谢谢你们守护了祖国大好山河",
       "onboard_time": 1680661952,
       "rank": 2,
@@ -7953,6 +8089,14 @@
       "onboard_time": 1680477381,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150463,
+      "num": 150463,
+      "word": "你更害怕死亡还是被忘记",
+      "onboard_time": 1680665670,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 150419,
@@ -8459,14 +8603,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 135496,
-      "num": 135496,
-      "word": "湖人VS爵士",
-      "onboard_time": 1680661290,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 135493,
       "num": 135493,
       "word": "一个视频带你看懂清明节的起源",
@@ -8835,20 +8971,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 122897,
+      "num": 146281,
+      "word": "青团是用什么做青",
+      "onboard_time": 1680667771,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 122835,
       "num": 122835,
       "word": "当狗狗和好朋友开视频时",
       "onboard_time": 1680411390,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 122709,
-      "num": 122709,
-      "word": "差点成为SEVENTEEN成员的艺名",
-      "onboard_time": 1680665610,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 122658,
