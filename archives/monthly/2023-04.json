@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680701999062,
+  "endTime": 1680704296699,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -308,7 +308,7 @@
     },
     {
       "raw_hot": 2672761,
-      "num": 350523,
+      "num": 453215,
       "word": "小鬼 余佳运",
       "onboard_time": 1680699394,
       "rank": 24,
@@ -505,6 +505,14 @@
       "onboard_time": 1680489868,
       "rank": 4,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1973281,
+      "num": 765104,
+      "word": "巩俐夫妇",
+      "onboard_time": 1680700653,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1967556,
@@ -707,6 +715,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1430617,
+      "num": 1430617,
+      "word": "翟欣欣案一审宣判",
+      "onboard_time": 1680697951,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1411076,
       "num": 1411076,
       "word": "麻六记因未给孕妇优待被打差评",
@@ -827,14 +843,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 1266155,
-      "num": 765104,
-      "word": "巩俐夫妇",
-      "onboard_time": 1680700653,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1241786,
       "num": 638733,
       "word": "肖战电影",
@@ -891,14 +899,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1171543,
-      "num": 1171543,
-      "word": "翟欣欣案一审宣判",
-      "onboard_time": 1680697951,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1153403,
       "num": 1153403,
       "word": "OMG战胜LNG",
@@ -944,6 +944,14 @@
       "word": "刘青松",
       "onboard_time": 1680522455,
       "rank": 1,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 1117063,
+      "num": 1117063,
+      "word": "Xun导 不愧是你",
+      "onboard_time": 1680702754,
+      "rank": 5,
       "category": "游戏"
     },
     {
@@ -1000,6 +1008,14 @@
       "word": "电视剧199爱改名要久久爱",
       "onboard_time": 1680575788,
       "rank": 19,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1083444,
+      "num": 1083444,
+      "word": "马栓下线",
+      "onboard_time": 1680700830,
+      "rank": 24,
       "category": "影视"
     },
     {
@@ -1523,6 +1539,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 776149,
+      "num": 776149,
+      "word": "请假了一天的工位",
+      "onboard_time": 1680697951,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 771482,
       "num": 771482,
       "word": "肖战杂志",
@@ -1609,14 +1633,6 @@
       "onboard_time": 1680660330,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 733450,
-      "num": 733450,
-      "word": "请假了一天的工位",
-      "onboard_time": 1680697951,
-      "rank": 27,
-      "category": "幽默"
     },
     {
       "raw_hot": 731250,
@@ -1721,14 +1737,6 @@
       "onboard_time": 1680656247,
       "rank": 11,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 712102,
-      "num": 712102,
-      "word": "马栓下线",
-      "onboard_time": 1680700830,
-      "rank": 24,
-      "category": "影视"
     },
     {
       "raw_hot": 709344,
@@ -1929,6 +1937,14 @@
       "onboard_time": 1680347130,
       "rank": 8,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 660734,
+      "num": 660734,
+      "word": "重庆坠亡姐弟生母清明节祭奠孩子",
+      "onboard_time": 1680702272,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 660013,
@@ -2188,7 +2204,7 @@
     },
     {
       "raw_hot": 599863,
-      "num": 347205,
+      "num": 369750,
       "word": "宫脇咲良和鞠婧祎专辑合照",
       "onboard_time": 1680696752,
       "rank": 20,
@@ -2305,6 +2321,22 @@
       "onboard_time": 1680530373,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 577624,
+      "num": 577624,
+      "word": "王哲林61分",
+      "onboard_time": 1680702630,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 575723,
+      "num": 575723,
+      "word": "工资六千的岗位面试了6轮",
+      "onboard_time": 1680703530,
+      "rank": 15,
+      "category": "幽默"
     },
     {
       "raw_hot": 573542,
@@ -2617,6 +2649,14 @@
       "onboard_time": 1680575427,
       "rank": 30,
       "category": "财经"
+    },
+    {
+      "raw_hot": 523767,
+      "num": 523767,
+      "word": "JDG战胜BLG",
+      "onboard_time": 1680702814,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 521704,
@@ -3203,6 +3243,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 440390,
+      "num": 440390,
+      "word": "陈鑫海演技",
+      "onboard_time": 1680700653,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 440245,
       "num": 440245,
       "word": "张继科事件能否掀起乒坛整风",
@@ -3321,14 +3369,6 @@
       "onboard_time": 1680617912,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 427730,
-      "num": 427730,
-      "word": "陈鑫海演技",
-      "onboard_time": 1680700653,
-      "rank": 19,
-      "category": "影视"
     },
     {
       "raw_hot": 423555,
@@ -3537,6 +3577,14 @@
       "onboard_time": 1680260906,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 400564,
+      "num": 400564,
+      "word": "TFBOYS前缀存档",
+      "onboard_time": 1680703952,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 399956,
@@ -3763,6 +3811,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 376614,
+      "num": 376614,
+      "word": "小美人鱼救王子剧照",
+      "onboard_time": 1680702871,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 373383,
       "num": 373383,
       "word": "爱情而已马小跳",
@@ -3881,6 +3937,14 @@
       "onboard_time": 1680332251,
       "rank": 18,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 356666,
+      "num": 356666,
+      "word": "BLG上野",
+      "onboard_time": 1680703293,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 355957,
@@ -4315,6 +4379,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 321870,
+      "num": 321870,
+      "word": "为何大家说杭州是美食荒漠",
+      "onboard_time": 1680701912,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 320634,
+      "num": 320634,
+      "word": "JDG对战BLG",
+      "onboard_time": 1680687688,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 319808,
       "num": 319808,
       "word": "陈晓被叫叔叔在线崩溃",
@@ -4433,6 +4513,14 @@
       "onboard_time": 1680357210,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 305021,
+      "num": 305021,
+      "word": "当外国人吃东北麻辣烫",
+      "onboard_time": 1680699631,
+      "rank": 34,
+      "category": "美食"
     },
     {
       "raw_hot": 304766,
@@ -5259,6 +5347,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 254711,
+      "num": 254711,
+      "word": "李沁刘巧珍哭戏共情力",
+      "onboard_time": 1680702991,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 254181,
       "num": 254181,
       "word": "传播他人私密视频最高可判无期",
@@ -5715,14 +5811,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 228194,
-      "num": 228194,
-      "word": "当外国人吃东北麻辣烫",
-      "onboard_time": 1680699631,
-      "rank": 34,
-      "category": "美食"
-    },
-    {
       "raw_hot": 227868,
       "num": 196270,
       "word": "一生都在要链接的女人",
@@ -5928,6 +6016,14 @@
       "word": "长月烬明买了寻常歌",
       "onboard_time": 1680670771,
       "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 219308,
+      "num": 219308,
+      "word": "假如现在抬了皓衣行",
+      "onboard_time": 1680702514,
+      "rank": 39,
       "category": "影视"
     },
     {
@@ -6667,14 +6763,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 203198,
-      "num": 203198,
-      "word": "JDG对战BLG",
-      "onboard_time": 1680687688,
-      "rank": 48,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 203142,
       "num": 203142,
       "word": "第十三届北京国际电影节主海报",
@@ -6865,6 +6953,14 @@
       "onboard_time": 1680326011,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 201466,
+      "num": 201466,
+      "word": "CBA",
+      "onboard_time": 1680702031,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 201454,
@@ -7419,6 +7515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 191873,
+      "num": 191873,
+      "word": "Bin打团",
+      "onboard_time": 1680703591,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 191805,
       "num": 181560,
       "word": "非法债务不受法律保护",
@@ -7513,6 +7617,14 @@
       "onboard_time": 1680336812,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 190370,
+      "num": 190370,
+      "word": "TTG扳回一分",
+      "onboard_time": 1680704071,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 190281,
@@ -8091,6 +8203,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 177931,
+      "num": 177931,
+      "word": "张皓嘉受伤",
+      "onboard_time": 1680703952,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177733,
       "num": 177733,
       "word": "F1",
@@ -8329,14 +8449,6 @@
       "onboard_time": 1680445363,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 170266,
-      "num": 170266,
-      "word": "为何大家说杭州是美食荒漠",
-      "onboard_time": 1680701912,
-      "rank": 37,
-      "category": "美食"
     },
     {
       "raw_hot": 170228,
@@ -11371,19 +11483,19 @@
       "category": "艺人,科技"
     },
     {
+      "raw_hot": 30297,
+      "num": 1824986,
+      "word": "多希望你们看看山河无恙国泰民安",
+      "onboard_time": 1680665070,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29779,
       "num": 39709,
       "word": "孟晚舟回应轮值董事长",
       "onboard_time": 1680261326,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 29411,
-      "num": 1824986,
-      "word": "多希望你们看看山河无恙国泰民安",
-      "onboard_time": 1680665070,
-      "rank": 2,
       "category": "社会新闻"
     },
     {

@@ -1,0 +1,410 @@
+{
+  "runTime": 1680704296699,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1919000,
+        "num": 1919000,
+        "word": "中电科称痛批加班员工非集团公司员工",
+        "onboard_time": 1680683010,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1664958,
+        "num": 1664958,
+        "word": "四川警方通报学生寝室内死亡",
+        "onboard_time": 1680696091,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30297,
+        "num": 1538183,
+        "word": "多希望你们看看山河无恙国泰民安",
+        "onboard_time": 1680665070,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1430617,
+        "num": 1430617,
+        "word": "翟欣欣案一审宣判",
+        "onboard_time": 1680697951,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1264652,
+        "num": 1264652,
+        "word": "谁会记得第二名",
+        "onboard_time": 1680691652,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1117063,
+        "num": 1117063,
+        "word": "Xun导 不愧是你",
+        "onboard_time": 1680702754,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1083444,
+        "num": 1083444,
+        "word": "马栓下线",
+        "onboard_time": 1680700830,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 879227,
+        "num": 879227,
+        "word": "豆瓣",
+        "onboard_time": 1680700830,
+        "rank": 7,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 776149,
+        "num": 776149,
+        "word": "请假了一天的工位",
+        "onboard_time": 1680697951,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 744302,
+        "num": 744302,
+        "word": "剪指甲最好剪成方形的",
+        "onboard_time": 1680691830,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1973281,
+        "num": 725033,
+        "word": "巩俐夫妇",
+        "onboard_time": 1680700653,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 745865,
+        "num": 723173,
+        "word": "郭德纲意外收到已故京剧老人的礼物",
+        "onboard_time": 1680697351,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 660734,
+        "num": 660734,
+        "word": "重庆坠亡姐弟生母清明节祭奠孩子",
+        "onboard_time": 1680702272,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 592434,
+        "num": 592434,
+        "word": "92岁默多克与未婚妻分手",
+        "onboard_time": 1680696271,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 577624,
+        "num": 577624,
+        "word": "王哲林61分",
+        "onboard_time": 1680702630,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 575723,
+        "num": 575723,
+        "word": "工资六千的岗位面试了6轮",
+        "onboard_time": 1680703530,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 541847,
+        "num": 541847,
+        "word": "以后能不能每个周三都放假",
+        "onboard_time": 1680672631,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 523767,
+        "num": 523767,
+        "word": "JDG战胜BLG",
+        "onboard_time": 1680702814,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 459138,
+        "num": 459138,
+        "word": "长月烬明",
+        "onboard_time": 1680684088,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 454817,
+        "num": 454817,
+        "word": "陈小纭发长文迎接薄冰",
+        "onboard_time": 1680691712,
+        "rank": 19,
+        "category": "影视,艺人"
+      },
+      {
+        "raw_hot": 2290654,
+        "num": 453215,
+        "word": "小鬼 余佳运",
+        "onboard_time": 1680699394,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 440390,
+        "num": 440390,
+        "word": "陈鑫海演技",
+        "onboard_time": 1680700653,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 401623,
+        "num": 401623,
+        "word": "广州TTG 今天也想过节吗",
+        "onboard_time": 1680699213,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 400564,
+        "num": 400564,
+        "word": "TFBOYS前缀存档",
+        "onboard_time": 1680703952,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 376614,
+        "num": 376614,
+        "word": "小美人鱼救王子剧照",
+        "onboard_time": 1680702871,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 369750,
+        "num": 369750,
+        "word": "宫脇咲良和鞠婧祎专辑合照",
+        "onboard_time": 1680696752,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 356666,
+        "num": 356666,
+        "word": "BLG上野",
+        "onboard_time": 1680703293,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 356453,
+        "num": 356453,
+        "word": "临时工",
+        "onboard_time": 1680695311,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321870,
+        "num": 321870,
+        "word": "为何大家说杭州是美食荒漠",
+        "onboard_time": 1680701912,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 320634,
+        "num": 320634,
+        "word": "JDG对战BLG",
+        "onboard_time": 1680687688,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 318739,
+        "num": 318739,
+        "word": "工会介入员工痛批领导安排加班事件",
+        "onboard_time": 1680676348,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305021,
+        "num": 305021,
+        "word": "当外国人吃东北麻辣烫",
+        "onboard_time": 1680699631,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 259038,
+        "num": 259038,
+        "word": "编剧吴迪",
+        "onboard_time": 1680699213,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 257459,
+        "num": 257459,
+        "word": "4岁女儿完美重现妈妈4岁时的脸",
+        "onboard_time": 1680694711,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254711,
+        "num": 254711,
+        "word": "李沁刘巧珍哭戏共情力",
+        "onboard_time": 1680702991,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 252179,
+        "num": 252179,
+        "word": "招惹",
+        "onboard_time": 1680702696,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 233979,
+        "num": 233979,
+        "word": "金智秀solo初一位",
+        "onboard_time": 1680691891,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229683,
+        "num": 229683,
+        "word": "疑CETC陈志龙回应",
+        "onboard_time": 1680662851,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225541,
+        "num": 225541,
+        "word": "崔杋圭撞脸宋亚轩",
+        "onboard_time": 1680689913,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219308,
+        "num": 219308,
+        "word": "假如现在抬了皓衣行",
+        "onboard_time": 1680702514,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 201466,
+        "num": 201466,
+        "word": "CBA",
+        "onboard_time": 1680702031,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193019,
+        "num": 193019,
+        "word": "胖东来创始人称加班不道德",
+        "onboard_time": 1680684568,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191873,
+        "num": 191873,
+        "word": "Bin打团",
+        "onboard_time": 1680703591,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 191271,
+        "num": 191271,
+        "word": "谢娜黄丽玲曾可妮乘风破浪上班路透",
+        "onboard_time": 1680690152,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190370,
+        "num": 190370,
+        "word": "TTG扳回一分",
+        "onboard_time": 1680704071,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 183729,
+        "num": 183729,
+        "word": "蝴蝶乒乓暂停销售有张继科肖像产品",
+        "onboard_time": 1680680310,
+        "rank": 45,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 182383,
+        "num": 182383,
+        "word": "杨紫毛衣马甲随拍",
+        "onboard_time": 1680693092,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177931,
+        "num": 177931,
+        "word": "张皓嘉受伤",
+        "onboard_time": 1680703952,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176619,
+        "num": 176619,
+        "word": "Doinb把冠军奖杯放地上",
+        "onboard_time": 1680690210,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 176376,
+        "num": 176376,
+        "word": "薛凯琪新发色",
+        "onboard_time": 1680700534,
+        "rank": 49,
+        "category": "艺人,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#在广袤祖国大地上种下片片绿色#"
+    }
+  }
+}
