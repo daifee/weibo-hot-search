@@ -1,6 +1,6 @@
 {
   "startTime": 1680625388129,
-  "endTime": 1680701371483,
+  "endTime": 1680701999062,
   "band_list": [
     {
       "raw_hot": 9100612,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 2672761,
-      "num": 295615,
+      "num": 350523,
       "word": "小鬼 余佳运",
       "onboard_time": 1680699394,
       "rank": 24,
@@ -139,8 +139,8 @@
       "category": "科技"
     },
     {
-      "raw_hot": 1596433,
-      "num": 1596433,
+      "raw_hot": 1618293,
+      "num": 1618293,
       "word": "谁会记得第二名",
       "onboard_time": 1680691652,
       "rank": 42,
@@ -176,6 +176,22 @@
       "word": "丫丫上海检疫后将被北动接走",
       "onboard_time": 1680667171,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1266155,
+      "num": 765104,
+      "word": "巩俐夫妇",
+      "onboard_time": 1680700653,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1171543,
+      "num": 1171543,
+      "word": "翟欣欣案一审宣判",
+      "onboard_time": 1680697951,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -243,6 +259,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 897491,
+      "num": 749309,
+      "word": "郭德纲意外收到已故京剧老人的礼物",
+      "onboard_time": 1680697351,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 895949,
       "num": 585153,
       "word": "韩国店员说要和虞书欣结婚",
@@ -273,14 +297,6 @@
       "onboard_time": 1680691830,
       "rank": 5,
       "category": "情感"
-    },
-    {
-      "raw_hot": 856123,
-      "num": 638280,
-      "word": "郭德纲意外收到已故京剧老人的礼物",
-      "onboard_time": 1680697351,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 834861,
@@ -355,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 733450,
+      "num": 733450,
+      "word": "请假了一天的工位",
+      "onboard_time": 1680697951,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 719911,
       "num": 420872,
       "word": "CETC陈志龙",
@@ -385,6 +409,14 @@
       "onboard_time": 1680656247,
       "rank": 11,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 712102,
+      "num": 712102,
+      "word": "马栓下线",
+      "onboard_time": 1680700830,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 707963,
@@ -459,28 +491,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 638928,
-      "num": 638928,
-      "word": "请假了一天的工位",
-      "onboard_time": 1680697951,
-      "rank": 27,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 637823,
       "num": 320371,
       "word": "惠英红 你信不信我揍你",
       "onboard_time": 1680620314,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 637476,
-      "num": 637476,
-      "word": "翟欣欣案一审宣判",
-      "onboard_time": 1680697951,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 630552,
@@ -500,7 +516,7 @@
     },
     {
       "raw_hot": 599863,
-      "num": 285172,
+      "num": 347205,
       "word": "宫脇咲良和鞠婧祎专辑合照",
       "onboard_time": 1680696752,
       "rank": 20,
@@ -563,20 +579,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 543385,
-      "num": 543385,
+      "raw_hot": 551032,
+      "num": 551032,
       "word": "广州TTG 今天也想过节吗",
       "onboard_time": 1680699213,
       "rank": 14,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 538640,
-      "num": 538640,
-      "word": "巩俐夫妇",
-      "onboard_time": 1680700653,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 537559,
@@ -683,8 +691,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 478191,
-      "num": 478191,
+      "raw_hot": 482132,
+      "num": 482132,
       "word": "长月烬明",
       "onboard_time": 1680684088,
       "rank": 8,
@@ -745,6 +753,14 @@
       "onboard_time": 1680675628,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 427730,
+      "num": 427730,
+      "word": "陈鑫海演技",
+      "onboard_time": 1680700653,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 423555,
@@ -844,7 +860,7 @@
     },
     {
       "raw_hot": 365629,
-      "num": 284185,
+      "num": 292106,
       "word": "4岁女儿完美重现妈妈4岁时的脸",
       "onboard_time": 1680694711,
       "rank": 21,
@@ -992,14 +1008,6 @@
       "word": "六公主连播张颂文张译主演电影",
       "onboard_time": 1680693329,
       "rank": 43,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 296449,
-      "num": 296449,
-      "word": "陈鑫海演技",
-      "onboard_time": 1680700653,
-      "rank": 19,
       "category": "影视"
     },
     {
@@ -1163,14 +1171,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 261774,
-      "num": 261774,
-      "word": "马栓下线",
-      "onboard_time": 1680700830,
-      "rank": 24,
-      "category": "影视"
-    },
-    {
       "raw_hot": 261191,
       "num": 204948,
       "word": "养过一次狗后再也不想养了",
@@ -1265,6 +1265,14 @@
       "onboard_time": 1680671131,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 228194,
+      "num": 228194,
+      "word": "当外国人吃东北麻辣烫",
+      "onboard_time": 1680699631,
+      "rank": 34,
+      "category": "美食"
     },
     {
       "raw_hot": 226590,
@@ -1643,14 +1651,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 189978,
-      "num": 189978,
-      "word": "当外国人吃东北麻辣烫",
-      "onboard_time": 1680699631,
-      "rank": 34,
-      "category": "美食"
-    },
-    {
       "raw_hot": 189972,
       "num": 189972,
       "word": "如何看待节假日被安排加班",
@@ -1867,6 +1867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 170266,
+      "num": 170266,
+      "word": "为何大家说杭州是美食荒漠",
+      "onboard_time": 1680701912,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 169882,
       "num": 169882,
       "word": "谭松韵白衬衫",
@@ -2001,6 +2009,14 @@
       "onboard_time": 1680665670,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 149358,
+      "num": 149358,
+      "word": "张宝儿背后抱孟昭博",
+      "onboard_time": 1680701555,
+      "rank": 44,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 148646,
@@ -2443,7 +2459,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 27257,
+      "raw_hot": 29411,
       "num": 1824986,
       "word": "多希望你们看看山河无恙国泰民安",
       "onboard_time": 1680665070,

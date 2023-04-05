@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680701371483,
+  "endTime": 1680701999062,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -308,7 +308,7 @@
     },
     {
       "raw_hot": 2672761,
-      "num": 295615,
+      "num": 350523,
       "word": "小鬼 余佳运",
       "onboard_time": 1680699394,
       "rank": 24,
@@ -587,20 +587,20 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 1618293,
+      "num": 1618293,
+      "word": "谁会记得第二名",
+      "onboard_time": 1680691652,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1610039,
       "num": 707764,
       "word": "律师解读张继科景甜视频风波",
       "onboard_time": 1680437067,
       "rank": 13,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 1596433,
-      "num": 1596433,
-      "word": "谁会记得第二名",
-      "onboard_time": 1680691652,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 1581630,
@@ -827,6 +827,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1266155,
+      "num": 765104,
+      "word": "巩俐夫妇",
+      "onboard_time": 1680700653,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1241786,
       "num": 638733,
       "word": "肖战电影",
@@ -881,6 +889,14 @@
       "onboard_time": 1680494855,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1171543,
+      "num": 1171543,
+      "word": "翟欣欣案一审宣判",
+      "onboard_time": 1680697951,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1153403,
@@ -1203,6 +1219,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 897491,
+      "num": 749309,
+      "word": "郭德纲意外收到已故京剧老人的礼物",
+      "onboard_time": 1680697351,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 897039,
       "num": 897039,
       "word": "低欲望生活 低预算生活",
@@ -1313,14 +1337,6 @@
       "onboard_time": 1680499471,
       "rank": 42,
       "category": "科技"
-    },
-    {
-      "raw_hot": 856123,
-      "num": 638280,
-      "word": "郭德纲意外收到已故京剧老人的礼物",
-      "onboard_time": 1680697351,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 848497,
@@ -1595,6 +1611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 733450,
+      "num": 733450,
+      "word": "请假了一天的工位",
+      "onboard_time": 1680697951,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 731250,
       "num": 370145,
       "word": "汪峰女儿小苹果17岁近照",
@@ -1697,6 +1721,14 @@
       "onboard_time": 1680656247,
       "rank": 11,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 712102,
+      "num": 712102,
+      "word": "马栓下线",
+      "onboard_time": 1680700830,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 709344,
@@ -1995,22 +2027,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 638928,
-      "num": 638928,
-      "word": "请假了一天的工位",
-      "onboard_time": 1680697951,
-      "rank": 27,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 637476,
-      "num": 637476,
-      "word": "翟欣欣案一审宣判",
-      "onboard_time": 1680697951,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 635026,
       "num": 635026,
       "word": "外卖不够起送价你会凑单吗",
@@ -2172,7 +2188,7 @@
     },
     {
       "raw_hot": 599863,
-      "num": 285172,
+      "num": 347205,
       "word": "宫脇咲良和鞠婧祎专辑合照",
       "onboard_time": 1680696752,
       "rank": 20,
@@ -2419,6 +2435,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 551032,
+      "num": 551032,
+      "word": "广州TTG 今天也想过节吗",
+      "onboard_time": 1680699213,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 547973,
       "num": 547973,
       "word": "沈腾2015年小品台词",
@@ -2449,14 +2473,6 @@
       "onboard_time": 1680503855,
       "rank": 9,
       "category": "教育"
-    },
-    {
-      "raw_hot": 543385,
-      "num": 543385,
-      "word": "广州TTG 今天也想过节吗",
-      "onboard_time": 1680699213,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 542277,
@@ -2505,14 +2521,6 @@
       "onboard_time": 1680322048,
       "rank": 19,
       "category": "情感,网红"
-    },
-    {
-      "raw_hot": 538640,
-      "num": 538640,
-      "word": "巩俐夫妇",
-      "onboard_time": 1680700653,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 538630,
@@ -3315,6 +3323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 427730,
+      "num": 427730,
+      "word": "陈鑫海演技",
+      "onboard_time": 1680700653,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 423555,
       "num": 423555,
       "word": "他是谁豆瓣降至6.6分",
@@ -3836,7 +3852,7 @@
     },
     {
       "raw_hot": 365629,
-      "num": 284185,
+      "num": 292106,
       "word": "4岁女儿完美重现妈妈4岁时的脸",
       "onboard_time": 1680694711,
       "rank": 21,
@@ -4515,14 +4531,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 296449,
-      "num": 296449,
-      "word": "陈鑫海演技",
-      "onboard_time": 1680700653,
-      "rank": 19,
-      "category": "影视"
-    },
-    {
       "raw_hot": 296063,
       "num": 296063,
       "word": "FPX",
@@ -5088,14 +5096,6 @@
       "word": "陈晓连播两部剧",
       "onboard_time": 1680496777,
       "rank": 36,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 261774,
-      "num": 261774,
-      "word": "马栓下线",
-      "onboard_time": 1680700830,
-      "rank": 24,
       "category": "影视"
     },
     {
@@ -5713,6 +5713,14 @@
       "onboard_time": 1680618575,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 228194,
+      "num": 228194,
+      "word": "当外国人吃东北麻辣烫",
+      "onboard_time": 1680699631,
+      "rank": 34,
+      "category": "美食"
     },
     {
       "raw_hot": 227868,
@@ -7547,14 +7555,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 189978,
-      "num": 189978,
-      "word": "当外国人吃东北麻辣烫",
-      "onboard_time": 1680699631,
-      "rank": 34,
-      "category": "美食"
-    },
-    {
       "raw_hot": 189972,
       "num": 189972,
       "word": "如何看待节假日被安排加班",
@@ -8329,6 +8329,14 @@
       "onboard_time": 1680445363,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 170266,
+      "num": 170266,
+      "word": "为何大家说杭州是美食荒漠",
+      "onboard_time": 1680701912,
+      "rank": 37,
+      "category": "美食"
     },
     {
       "raw_hot": 170228,
@@ -9217,6 +9225,14 @@
       "onboard_time": 1680408089,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 149358,
+      "num": 149358,
+      "word": "张宝儿背后抱孟昭博",
+      "onboard_time": 1680701555,
+      "rank": 44,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 149341,
@@ -11363,7 +11379,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 27257,
+      "raw_hot": 29411,
       "num": 1824986,
       "word": "多希望你们看看山河无恙国泰民安",
       "onboard_time": 1680665070,
