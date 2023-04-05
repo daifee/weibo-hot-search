@@ -1,6 +1,6 @@
 {
   "startTime": 1680712017153,
-  "endTime": 1680719888940,
+  "endTime": 1680722144073,
   "band_list": [
     {
       "raw_hot": 1656680,
@@ -457,6 +457,14 @@
       "onboard_time": 1680691712,
       "rank": 39,
       "category": "影视,艺人"
+    },
+    {
+      "raw_hot": 27023,
+      "num": 27023,
+      "word": "RW对战TTG",
+      "onboard_time": 1680694293,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 17638,
