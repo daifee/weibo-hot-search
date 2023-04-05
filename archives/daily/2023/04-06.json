@@ -1,6 +1,6 @@
 {
   "startTime": 1680712017153,
-  "endTime": 1680729390946,
+  "endTime": 1680730420164,
   "band_list": [
     {
       "raw_hot": 1656680,
@@ -435,20 +435,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 66913,
+      "num": 27768,
+      "word": "姐弟坠亡案生母称忏悔信非生父所写",
+      "onboard_time": 1680727632,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 48644,
       "num": 48644,
       "word": "小区不认识的狗送我上学",
       "onboard_time": 1680715039,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 45281,
-      "num": 27768,
-      "word": "姐弟坠亡案生母称忏悔信非生父所写",
-      "onboard_time": 1680727632,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 34009,
@@ -491,20 +491,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 18503,
+      "num": 18503,
+      "word": "BLACKPINK同名换装手游VCR",
+      "onboard_time": 1680728292,
+      "rank": 37,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 17638,
       "num": 1021644,
       "word": "多希望你们看看山河无恙国泰民安",
       "onboard_time": 1680665070,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 15708,
-      "num": 15708,
-      "word": "BLACKPINK同名换装手游VCR",
-      "onboard_time": 1680728292,
-      "rank": 37,
-      "category": "艺人,游戏"
     }
   ],
   "hotgov_list": [

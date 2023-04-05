@@ -1,6 +1,6 @@
 {
   "startTime": 1680452464197,
-  "endTime": 1680729390946,
+  "endTime": 1680730420164,
   "band_list": [
     {
       "raw_hot": 9506486,
@@ -6955,6 +6955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 66913,
+      "num": 27768,
+      "word": "姐弟坠亡案生母称忏悔信非生父所写",
+      "onboard_time": 1680727632,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 65472,
       "num": 1496457,
       "word": "清明给英烈写句话",
@@ -7017,14 +7025,6 @@
       "onboard_time": 1680468310,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 45281,
-      "num": 27768,
-      "word": "姐弟坠亡案生母称忏悔信非生父所写",
-      "onboard_time": 1680727632,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 42273,
@@ -7099,20 +7099,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 18503,
+      "num": 18503,
+      "word": "BLACKPINK同名换装手游VCR",
+      "onboard_time": 1680728292,
+      "rank": 37,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 16919,
       "num": 16919,
       "word": "大学生旅游主打的就是随性",
       "onboard_time": 1680549192,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 15708,
-      "num": 15708,
-      "word": "BLACKPINK同名换装手游VCR",
-      "onboard_time": 1680728292,
-      "rank": 37,
-      "category": "艺人,游戏"
     },
     {
       "raw_hot": 15601,
