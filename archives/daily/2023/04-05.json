@@ -1,7 +1,15 @@
 {
   "startTime": 1680625388129,
-  "endTime": 1680658314441,
+  "endTime": 1680661395760,
   "band_list": [
+    {
+      "raw_hot": 4314960,
+      "num": 4314960,
+      "word": "中国电科",
+      "onboard_time": 1680651982,
+      "rank": 4,
+      "category": "情感"
+    },
     {
       "raw_hot": 3423974,
       "num": 3423974,
@@ -27,20 +35,20 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 1361680,
-      "num": 1361680,
-      "word": "中国电科",
-      "onboard_time": 1680651982,
-      "rank": 4,
-      "category": "情感"
-    },
-    {
       "raw_hot": 1338539,
       "num": 128274,
       "word": "国家体育总局乒羽中心回应张继科事件",
       "onboard_time": 1680613351,
       "rank": 31,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1103201,
+      "num": 1103201,
+      "word": "普通人攒一百万有多难",
+      "onboard_time": 1680657030,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1040681,
@@ -51,12 +59,12 @@
       "category": "影视,动漫"
     },
     {
-      "raw_hot": 991410,
-      "num": 991410,
-      "word": "普通人攒一百万有多难",
-      "onboard_time": 1680657030,
-      "rank": 6,
-      "category": "社会新闻"
+      "raw_hot": 983583,
+      "num": 609084,
+      "word": "建议谢娜买回家",
+      "onboard_time": 1680650780,
+      "rank": 18,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 950786,
@@ -65,14 +73,6 @@
       "onboard_time": 1680620733,
       "rank": 3,
       "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 896156,
-      "num": 496322,
-      "word": "建议谢娜买回家",
-      "onboard_time": 1680650780,
-      "rank": 18,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 822914,
@@ -107,6 +107,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 700775,
+      "num": 700775,
+      "word": "只有毛利兰受伤的世界达成了",
+      "onboard_time": 1680658410,
+      "rank": 7,
+      "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 671639,
+      "num": 671639,
+      "word": "河北烟草",
+      "onboard_time": 1680658889,
+      "rank": 8,
+      "category": "教育"
+    },
+    {
       "raw_hot": 666903,
       "num": 666903,
       "word": "95后寿衣模特回应被说阴气重",
@@ -129,6 +145,22 @@
       "onboard_time": 1680612150,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 620952,
+      "num": 620952,
+      "word": "女子称使用化妆品后流产",
+      "onboard_time": 1680659250,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 606344,
+      "num": 420872,
+      "word": "CETC陈志龙",
+      "onboard_time": 1680652223,
+      "rank": 13,
+      "category": "情感"
     },
     {
       "raw_hot": 552794,
@@ -164,11 +196,19 @@
     },
     {
       "raw_hot": 482708,
-      "num": 253727,
+      "num": 299748,
       "word": "9岁男孩4年跑坏3台跑步机没瘦下来",
       "onboard_time": 1680651862,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 477060,
+      "num": 477060,
+      "word": "台湾海峡中北部联合巡航巡查专项行动",
+      "onboard_time": 1680657149,
+      "rank": 17,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 473940,
@@ -179,20 +219,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 450506,
+      "num": 450506,
+      "word": "最适合应届生过渡的工作",
+      "onboard_time": 1680658591,
+      "rank": 12,
+      "category": "情感,教育"
+    },
+    {
+      "raw_hot": 435446,
+      "num": 435446,
+      "word": "光大集团原董事长李晓鹏被查",
+      "onboard_time": 1680659610,
+      "rank": 13,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 423555,
       "num": 423555,
       "word": "他是谁豆瓣降至6.6分",
       "onboard_time": 1680622769,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 420872,
-      "num": 420872,
-      "word": "CETC陈志龙",
-      "onboard_time": 1680652223,
-      "rank": 13,
-      "category": "情感"
     },
     {
       "raw_hot": 399956,
@@ -219,12 +267,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 345940,
+      "num": 345940,
+      "word": "帮忙摘橙子的金毛",
+      "onboard_time": 1680659491,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 345083,
       "num": 234658,
       "word": "特朗普在法庭上做无罪辩护",
       "onboard_time": 1680649757,
       "rank": 19,
       "category": "国内要闻,社会新闻"
+    },
+    {
+      "raw_hot": 332180,
+      "num": 332180,
+      "word": "清明时节雨纷纷有三大原因",
+      "onboard_time": 1680657510,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 323046,
@@ -267,20 +331,20 @@
       "category": "影视,动漫"
     },
     {
-      "raw_hot": 295202,
-      "num": 295202,
-      "word": "台湾海峡中北部联合巡航巡查专项行动",
-      "onboard_time": 1680657149,
-      "rank": 17,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 294756,
       "num": 232665,
       "word": "贝克街的亡灵",
       "onboard_time": 1680607353,
       "rank": 16,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 276388,
+      "num": 276388,
+      "word": "清明其实是三个节日",
+      "onboard_time": 1680660330,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 272501,
@@ -331,6 +395,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 224276,
+      "num": 224276,
+      "word": "青团",
+      "onboard_time": 1680657331,
+      "rank": 28,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 219195,
       "num": 140152,
       "word": "WBG的训练赛",
@@ -355,19 +427,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 209702,
-      "num": 209702,
-      "word": "清明时节雨纷纷有三大原因",
-      "onboard_time": 1680657510,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 208538,
       "num": 208538,
       "word": "小妈文学拍成剧了",
       "onboard_time": 1680606869,
       "rank": 19,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 203487,
+      "num": 203487,
+      "word": "长月烬明OST阵容",
+      "onboard_time": 1680661051,
+      "rank": 31,
       "category": "影视"
     },
     {
@@ -377,14 +449,6 @@
       "onboard_time": 1680621271,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 197277,
-      "num": 188424,
-      "word": "青团",
-      "onboard_time": 1680657331,
-      "rank": 28,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 196757,
@@ -419,12 +483,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 179904,
+      "num": 179904,
+      "word": "特朗普面临34项重罪指控",
+      "onboard_time": 1680660092,
+      "rank": 33,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 179417,
       "num": 179417,
       "word": "学生趴睡手指压出淤血变紫",
       "onboard_time": 1680608910,
       "rank": 23,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 176368,
+      "num": 176368,
+      "word": "茉莉青柠多多",
+      "onboard_time": 1680661350,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 174647,
@@ -499,6 +579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 145339,
+      "num": 145339,
+      "word": "杭州人的早餐",
+      "onboard_time": 1680659970,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 145195,
       "num": 125637,
       "word": "肖战电影",
@@ -571,6 +659,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 126719,
+      "num": 126719,
+      "word": "肖蓉浩回应孔雀舞争议",
+      "onboard_time": 1680659670,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 124132,
       "num": 124132,
       "word": "刘巧珍眼里有光",
@@ -587,12 +683,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 123909,
+      "num": 123909,
+      "word": "薄冰今日开播",
+      "onboard_time": 1680659550,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 122661,
       "num": 122661,
       "word": "张杰演唱会",
       "onboard_time": 1680617132,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 121593,
+      "num": 121593,
+      "word": "四月宋男友",
+      "onboard_time": 1680661170,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 120735,
@@ -657,6 +769,22 @@
       "onboard_time": 1680620733,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 105452,
+      "num": 105452,
+      "word": "青山刚昌 端水",
+      "onboard_time": 1680661350,
+      "rank": 47,
+      "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 104131,
+      "num": 104131,
+      "word": "你若记得他便无悔",
+      "onboard_time": 1680660451,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 102545,

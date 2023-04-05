@@ -1,6 +1,6 @@
 {
   "startTime": 1680452464197,
-  "endTime": 1680658314441,
+  "endTime": 1680661395760,
   "band_list": [
     {
       "raw_hot": 9506486,
@@ -97,6 +97,14 @@
       "onboard_time": 1680592951,
       "rank": 17,
       "category": "科技"
+    },
+    {
+      "raw_hot": 4314960,
+      "num": 4314960,
+      "word": "中国电科",
+      "onboard_time": 1680651982,
+      "rank": 4,
+      "category": "情感"
     },
     {
       "raw_hot": 3561338,
@@ -435,14 +443,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1361680,
-      "num": 1361680,
-      "word": "中国电科",
-      "onboard_time": 1680651982,
-      "rank": 4,
-      "category": "情感"
-    },
-    {
       "raw_hot": 1350707,
       "num": 1350707,
       "word": "8日起丫丫起居全部移交中方人员",
@@ -571,6 +571,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1103201,
+      "num": 1103201,
+      "word": "普通人攒一百万有多难",
+      "onboard_time": 1680657030,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1100322,
       "num": 1100322,
       "word": "真实地活下去 不要忘记每天看月亮",
@@ -619,20 +627,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 991410,
-      "num": 991410,
-      "word": "普通人攒一百万有多难",
-      "onboard_time": 1680657030,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 988266,
       "num": 988266,
       "word": "不要随便接陌生电话",
       "onboard_time": 1680600631,
       "rank": 43,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 983583,
+      "num": 609084,
+      "word": "建议谢娜买回家",
+      "onboard_time": 1680650780,
+      "rank": 18,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 974892,
@@ -689,14 +697,6 @@
       "onboard_time": 1680507209,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 896156,
-      "num": 496322,
-      "word": "建议谢娜买回家",
-      "onboard_time": 1680650780,
-      "rank": 18,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 883134,
@@ -939,6 +939,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 700775,
+      "num": 700775,
+      "word": "只有毛利兰受伤的世界达成了",
+      "onboard_time": 1680658410,
+      "rank": 7,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 694950,
       "num": 694950,
       "word": "动物园称未经许可不得直播丫丫",
@@ -1017,6 +1025,14 @@
       "onboard_time": 1680596971,
       "rank": 24,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 671639,
+      "num": 671639,
+      "word": "河北烟草",
+      "onboard_time": 1680658889,
+      "rank": 8,
+      "category": "教育"
     },
     {
       "raw_hot": 666903,
@@ -1131,6 +1147,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 620952,
+      "num": 620952,
+      "word": "女子称使用化妆品后流产",
+      "onboard_time": 1680659250,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 619907,
       "num": 619907,
       "word": "男孩扫墓跪求奶奶保佑不写作业不挨打",
@@ -1145,6 +1169,14 @@
       "onboard_time": 1680593311,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 606344,
+      "num": 420872,
+      "word": "CETC陈志龙",
+      "onboard_time": 1680652223,
+      "rank": 13,
+      "category": "情感"
     },
     {
       "raw_hot": 601265,
@@ -1476,7 +1508,7 @@
     },
     {
       "raw_hot": 482708,
-      "num": 253727,
+      "num": 299748,
       "word": "9岁男孩4年跑坏3台跑步机没瘦下来",
       "onboard_time": 1680651862,
       "rank": 20,
@@ -1529,6 +1561,14 @@
       "onboard_time": 1680606452,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 477060,
+      "num": 477060,
+      "word": "台湾海峡中北部联合巡航巡查专项行动",
+      "onboard_time": 1680657149,
+      "rank": 17,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 475715,
@@ -1611,6 +1651,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 450506,
+      "num": 450506,
+      "word": "最适合应届生过渡的工作",
+      "onboard_time": 1680658591,
+      "rank": 12,
+      "category": "情感,教育"
+    },
+    {
       "raw_hot": 440245,
       "num": 440245,
       "word": "张继科事件能否掀起乒坛整风",
@@ -1659,6 +1707,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 435446,
+      "num": 435446,
+      "word": "光大集团原董事长李晓鹏被查",
+      "onboard_time": 1680659610,
+      "rank": 13,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 430971,
       "num": 430971,
       "word": "谢娜乘风破浪4路透",
@@ -1705,14 +1761,6 @@
       "onboard_time": 1680490948,
       "rank": 29,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 420872,
-      "num": 420872,
-      "word": "CETC陈志龙",
-      "onboard_time": 1680652223,
-      "rank": 13,
-      "category": "情感"
     },
     {
       "raw_hot": 417982,
@@ -2027,6 +2075,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 345940,
+      "num": 345940,
+      "word": "帮忙摘橙子的金毛",
+      "onboard_time": 1680659491,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 345083,
       "num": 234658,
       "word": "特朗普在法庭上做无罪辩护",
@@ -2105,6 +2161,14 @@
       "onboard_time": 1680594628,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 332180,
+      "num": 332180,
+      "word": "清明时节雨纷纷有三大原因",
+      "onboard_time": 1680657510,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 331910,
@@ -2251,14 +2315,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 295202,
-      "num": 295202,
-      "word": "台湾海峡中北部联合巡航巡查专项行动",
-      "onboard_time": 1680657149,
-      "rank": 17,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 295182,
       "num": 295182,
       "word": "不要让女性成为话题焦点",
@@ -2369,6 +2425,14 @@
       "onboard_time": 1680597930,
       "rank": 24,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 276388,
+      "num": 276388,
+      "word": "清明其实是三个节日",
+      "onboard_time": 1680660330,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 275591,
@@ -2835,6 +2899,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 224276,
+      "num": 224276,
+      "word": "青团",
+      "onboard_time": 1680657331,
+      "rank": 28,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 224006,
       "num": 224006,
       "word": "你坐火车时最反感什么行为",
@@ -3059,14 +3131,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 209702,
-      "num": 209702,
-      "word": "清明时节雨纷纷有三大原因",
-      "onboard_time": 1680657510,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 209349,
       "num": 209349,
       "word": "张艺兴长沙夜生活片头曲MV预告",
@@ -3177,6 +3241,14 @@
       "onboard_time": 1680505530,
       "rank": 36,
       "category": "科技"
+    },
+    {
+      "raw_hot": 203487,
+      "num": 203487,
+      "word": "长月烬明OST阵容",
+      "onboard_time": 1680661051,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 203426,
@@ -3393,14 +3465,6 @@
       "onboard_time": 1680581671,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 197277,
-      "num": 188424,
-      "word": "青团",
-      "onboard_time": 1680657331,
-      "rank": 28,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 197075,
@@ -3795,6 +3859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 179904,
+      "num": 179904,
+      "word": "特朗普面临34项重罪指控",
+      "onboard_time": 1680660092,
+      "rank": 33,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 179530,
       "num": 179530,
       "word": "陈乔恩晒她的三只狗狗",
@@ -3833,6 +3905,14 @@
       "onboard_time": 1680612931,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176368,
+      "num": 176368,
+      "word": "茉莉青柠多多",
+      "onboard_time": 1680661350,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 175763,
@@ -4411,6 +4491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 145339,
+      "num": 145339,
+      "word": "杭州人的早餐",
+      "onboard_time": 1680659970,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 144656,
       "num": 144656,
       "word": "赵粤库存跳舞视频",
@@ -4635,6 +4723,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 126719,
+      "num": 126719,
+      "word": "肖蓉浩回应孔雀舞争议",
+      "onboard_time": 1680659670,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 126434,
       "num": 126434,
       "word": "李泰民正式退伍",
@@ -4683,6 +4779,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 123909,
+      "num": 123909,
+      "word": "薄冰今日开播",
+      "onboard_time": 1680659550,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 123617,
       "num": 123617,
       "word": "为什么越来越多的人涌向猪厂",
@@ -4696,6 +4800,14 @@
       "word": "第25届上海国际电影节官宣",
       "onboard_time": 1680585334,
       "rank": 48,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 121593,
+      "num": 121593,
+      "word": "四月宋男友",
+      "onboard_time": 1680661170,
+      "rank": 44,
       "category": "影视"
     },
     {
@@ -4849,6 +4961,22 @@
       "onboard_time": 1680563722,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 105452,
+      "num": 105452,
+      "word": "青山刚昌 端水",
+      "onboard_time": 1680661350,
+      "rank": 47,
+      "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 104131,
+      "num": 104131,
+      "word": "你若记得他便无悔",
+      "onboard_time": 1680660451,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 102470,
