@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680704296699,
+  "endTime": 1680705272466,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -395,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2303185,
+      "num": 765104,
+      "word": "巩俐夫妇",
+      "onboard_time": 1680700653,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2296658,
       "num": 1741903,
       "word": "22岁女生在泰国遭绑架虐杀",
@@ -507,14 +515,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 1973281,
-      "num": 765104,
-      "word": "巩俐夫妇",
-      "onboard_time": 1680700653,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1967556,
       "num": 1967556,
       "word": "以后能不能每个周三都放假",
@@ -561,6 +561,14 @@
       "onboard_time": 1680491850,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1708941,
+      "num": 1708941,
+      "word": "工资六千的岗位面试了6轮",
+      "onboard_time": 1680703530,
+      "rank": 15,
+      "category": "幽默"
     },
     {
       "raw_hot": 1643326,
@@ -1321,6 +1329,14 @@
       "onboard_time": 1680671013,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 871732,
+      "num": 400564,
+      "word": "TFBOYS前缀存档",
+      "onboard_time": 1680703952,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 862416,
@@ -2331,11 +2347,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 575723,
-      "num": 575723,
-      "word": "工资六千的岗位面试了6轮",
-      "onboard_time": 1680703530,
-      "rank": 15,
+      "raw_hot": 575969,
+      "num": 258147,
+      "word": "恋爱一个月男朋友送我伞带",
+      "onboard_time": 1680704372,
+      "rank": 30,
       "category": "幽默"
     },
     {
@@ -3579,12 +3595,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 400564,
-      "num": 400564,
-      "word": "TFBOYS前缀存档",
-      "onboard_time": 1680703952,
-      "rank": 23,
-      "category": "艺人"
+      "raw_hot": 403318,
+      "num": 403318,
+      "word": "小美人鱼救王子剧照",
+      "onboard_time": 1680702871,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 399956,
@@ -3808,14 +3824,6 @@
       "word": "他是谁编剧说后面不是他写的",
       "onboard_time": 1680669692,
       "rank": 17,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 376614,
-      "num": 376614,
-      "word": "小美人鱼救王子剧照",
-      "onboard_time": 1680702871,
-      "rank": 24,
       "category": "影视"
     },
     {
@@ -4259,6 +4267,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 330862,
+      "num": 330862,
+      "word": "为何大家说杭州是美食荒漠",
+      "onboard_time": 1680701912,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 330763,
       "num": 330763,
       "word": "孙国友首次回应种树破坏生态质疑",
@@ -4377,14 +4393,6 @@
       "onboard_time": 1680317608,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 321870,
-      "num": 321870,
-      "word": "为何大家说杭州是美食荒漠",
-      "onboard_time": 1680701912,
-      "rank": 37,
-      "category": "美食"
     },
     {
       "raw_hot": 320634,
@@ -6459,6 +6467,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 207539,
+      "num": 207539,
+      "word": "重庆姐弟坠亡案4月6日二审",
+      "onboard_time": 1680704613,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 207220,
       "num": 207220,
       "word": "北影节天坛奖入围影片公布",
@@ -6481,6 +6497,14 @@
       "onboard_time": 1680264147,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 206936,
+      "num": 206936,
+      "word": "IVE正规专概念照",
+      "onboard_time": 1680705033,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 206849,
@@ -6553,6 +6577,14 @@
       "onboard_time": 1680672151,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 205978,
+      "num": 205978,
+      "word": "珍的栓Q彻底BE",
+      "onboard_time": 1680704673,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 205885,
@@ -7803,6 +7835,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 187420,
+      "num": 189397,
+      "word": "时音纪",
+      "onboard_time": 1680704732,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 187282,
       "num": 187282,
       "word": "宇宙探索编辑部 晕镜头",
@@ -8897,6 +8937,14 @@
       "onboard_time": 1680491188,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 159519,
+      "num": 159519,
+      "word": "上海出发1小时就能到的城市",
+      "onboard_time": 1680705154,
+      "rank": 49,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 159508,

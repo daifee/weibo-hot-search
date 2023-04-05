@@ -1,0 +1,410 @@
+{
+  "runTime": 1680705272466,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1708941,
+        "num": 1708941,
+        "word": "工资六千的岗位面试了6轮",
+        "onboard_time": 1680703530,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1701279,
+        "num": 1701279,
+        "word": "四川警方通报学生寝室内死亡",
+        "onboard_time": 1680696091,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29286,
+        "num": 1696465,
+        "word": "多希望你们看看山河无恙国泰民安",
+        "onboard_time": 1680665070,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1694420,
+        "num": 1694420,
+        "word": "中电科称痛批加班员工非集团公司员工",
+        "onboard_time": 1680683010,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1091087,
+        "num": 1091087,
+        "word": "翟欣欣案一审宣判",
+        "onboard_time": 1680697951,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1019673,
+        "num": 1019673,
+        "word": "谁会记得第二名",
+        "onboard_time": 1680691652,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 913658,
+        "num": 913658,
+        "word": "马栓下线",
+        "onboard_time": 1680700830,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 865168,
+        "num": 865168,
+        "word": "Xun导 不愧是你",
+        "onboard_time": 1680702754,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 716891,
+        "num": 716891,
+        "word": "剪指甲最好剪成方形的",
+        "onboard_time": 1680691830,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 699942,
+        "num": 699942,
+        "word": "92岁默多克与未婚妻分手",
+        "onboard_time": 1680696271,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2303185,
+        "num": 696668,
+        "word": "巩俐夫妇",
+        "onboard_time": 1680700653,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 687398,
+        "num": 687398,
+        "word": "郭德纲意外收到已故京剧老人的礼物",
+        "onboard_time": 1680697351,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 646775,
+        "num": 646775,
+        "word": "请假了一天的工位",
+        "onboard_time": 1680697951,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 596546,
+        "num": 596546,
+        "word": "重庆坠亡姐弟生母清明节祭奠孩子",
+        "onboard_time": 1680702272,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 524363,
+        "num": 524363,
+        "word": "豆瓣",
+        "onboard_time": 1680700830,
+        "rank": 14,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 515910,
+        "num": 515910,
+        "word": "王哲林61分",
+        "onboard_time": 1680702630,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 486981,
+        "num": 486981,
+        "word": "以后能不能每个周三都放假",
+        "onboard_time": 1680672631,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 431069,
+        "num": 431069,
+        "word": "长月烬明",
+        "onboard_time": 1680684088,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 419111,
+        "num": 419111,
+        "word": "陈鑫海演技",
+        "onboard_time": 1680700653,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 403318,
+        "num": 403318,
+        "word": "小美人鱼救王子剧照",
+        "onboard_time": 1680702871,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2250596,
+        "num": 399605,
+        "word": "小鬼 余佳运",
+        "onboard_time": 1680699394,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 871732,
+        "num": 368093,
+        "word": "TFBOYS前缀存档",
+        "onboard_time": 1680703952,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 335222,
+        "num": 335222,
+        "word": "JDG战胜BLG",
+        "onboard_time": 1680702814,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 330862,
+        "num": 330862,
+        "word": "为何大家说杭州是美食荒漠",
+        "onboard_time": 1680701912,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 324894,
+        "num": 324894,
+        "word": "陈小纭发长文迎接薄冰",
+        "onboard_time": 1680691712,
+        "rank": 24,
+        "category": "影视,艺人"
+      },
+      {
+        "raw_hot": 317381,
+        "num": 317381,
+        "word": "宫脇咲良和鞠婧祎专辑合照",
+        "onboard_time": 1680696752,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298900,
+        "num": 298900,
+        "word": "工会介入员工痛批领导安排加班事件",
+        "onboard_time": 1680676348,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284135,
+        "num": 284135,
+        "word": "临时工",
+        "onboard_time": 1680695311,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268510,
+        "num": 268510,
+        "word": "广州TTG 今天也想过节吗",
+        "onboard_time": 1680699213,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 258433,
+        "num": 258433,
+        "word": "BLG上野",
+        "onboard_time": 1680703293,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 575969,
+        "num": 258147,
+        "word": "恋爱一个月男朋友送我伞带",
+        "onboard_time": 1680704372,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 252414,
+        "num": 252414,
+        "word": "当外国人吃东北麻辣烫",
+        "onboard_time": 1680699631,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 247646,
+        "num": 247646,
+        "word": "4岁女儿完美重现妈妈4岁时的脸",
+        "onboard_time": 1680694711,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227435,
+        "num": 227435,
+        "word": "金智秀solo初一位",
+        "onboard_time": 1680691891,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222837,
+        "num": 222837,
+        "word": "招惹",
+        "onboard_time": 1680702696,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 220816,
+        "num": 220816,
+        "word": "疑CETC陈志龙回应",
+        "onboard_time": 1680662851,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215266,
+        "num": 215266,
+        "word": "假如现在抬了皓衣行",
+        "onboard_time": 1680702514,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207539,
+        "num": 207539,
+        "word": "重庆姐弟坠亡案4月6日二审",
+        "onboard_time": 1680704613,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206936,
+        "num": 206936,
+        "word": "IVE正规专概念照",
+        "onboard_time": 1680705033,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 205978,
+        "num": 205978,
+        "word": "珍的栓Q彻底BE",
+        "onboard_time": 1680704673,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204816,
+        "num": 204816,
+        "word": "编剧吴迪",
+        "onboard_time": 1680699213,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 201743,
+        "num": 201743,
+        "word": "崔杋圭撞脸宋亚轩",
+        "onboard_time": 1680689913,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193691,
+        "num": 193691,
+        "word": "JDG对战BLG",
+        "onboard_time": 1680687688,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 190320,
+        "num": 190320,
+        "word": "Doinb把冠军奖杯放地上",
+        "onboard_time": 1680690210,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 187420,
+        "num": 189397,
+        "word": "时音纪",
+        "onboard_time": 1680704732,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 188889,
+        "num": 188889,
+        "word": "李沁刘巧珍哭戏共情力",
+        "onboard_time": 1680702991,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 188612,
+        "num": 188612,
+        "word": "蝴蝶乒乓暂停销售有张继科肖像产品",
+        "onboard_time": 1680680310,
+        "rank": 46,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 174404,
+        "num": 174404,
+        "word": "杨紫毛衣马甲随拍",
+        "onboard_time": 1680693092,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163995,
+        "num": 163995,
+        "word": "谢娜黄丽玲曾可妮乘风破浪上班路透",
+        "onboard_time": 1680690152,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159519,
+        "num": 159519,
+        "word": "上海出发1小时就能到的城市",
+        "onboard_time": 1680705154,
+        "rank": 49,
+        "category": "旅游,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#为什么和平年代同样需要英雄情怀#"
+    }
+  }
+}
