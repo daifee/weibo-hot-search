@@ -1,0 +1,410 @@
+{
+  "runTime": 1680665627883,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2364081,
+        "num": 2364081,
+        "word": "疑CETC陈志龙回应",
+        "onboard_time": 1680662851,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1162335,
+        "num": 1162335,
+        "word": "柯哀亲了",
+        "onboard_time": 1680617614,
+        "rank": 1,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 149083,
+        "num": 866178,
+        "word": "谢谢你们守护了祖国大好山河",
+        "onboard_time": 1680661952,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1441900,
+        "num": 860909,
+        "word": "特朗普最高刑期可能达136年",
+        "onboard_time": 1680650358,
+        "rank": 3,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 734659,
+        "num": 734659,
+        "word": "清明其实是三个节日",
+        "onboard_time": 1680660330,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3547811,
+        "num": 721062,
+        "word": "中国电科",
+        "onboard_time": 1680651982,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 943992,
+        "num": 714580,
+        "word": "当脱口秀演员被小三",
+        "onboard_time": 1680651682,
+        "rank": 6,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 676963,
+        "num": 676963,
+        "word": "李子柒油管广告收益",
+        "onboard_time": 1680664951,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 634500,
+        "num": 634500,
+        "word": "河北烟草",
+        "onboard_time": 1680658889,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 630298,
+        "num": 630298,
+        "word": "普通人攒一百万有多难",
+        "onboard_time": 1680657030,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 806108,
+        "num": 622904,
+        "word": "建议谢娜买回家",
+        "onboard_time": 1680650780,
+        "rank": 10,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 799950,
+        "num": 597664,
+        "word": "南柱赫寸头",
+        "onboard_time": 1680661828,
+        "rank": 11,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 565832,
+        "num": 565832,
+        "word": "Lisa晒BLACKPINK科切拉彩排照",
+        "onboard_time": 1680663269,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 534116,
+        "num": 534116,
+        "word": "女子称使用化妆品后流产",
+        "onboard_time": 1680659250,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 519802,
+        "num": 519802,
+        "word": "长月烬明OST阵容",
+        "onboard_time": 1680661051,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 481831,
+        "num": 481831,
+        "word": "51岁的陈慧琳",
+        "onboard_time": 1680664531,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 468754,
+        "num": 468754,
+        "word": "只有毛利兰受伤的世界达成了",
+        "onboard_time": 1680658410,
+        "rank": 16,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 414052,
+        "num": 414052,
+        "word": "朴珍荣确定将于5月8日入伍",
+        "onboard_time": 1680662191,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 394394,
+        "num": 394394,
+        "word": "尽快补上死亡教育这一课",
+        "onboard_time": 1680662911,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382533,
+        "num": 382533,
+        "word": "最适合应届生过渡的工作",
+        "onboard_time": 1680658591,
+        "rank": 19,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 317221,
+        "num": 317221,
+        "word": "爱情而已3分钟变成30秒",
+        "onboard_time": 1680652584,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 309902,
+        "num": 309902,
+        "word": "男子将遗产留给爷奶被改嫁母亲分走",
+        "onboard_time": 1680664051,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305666,
+        "num": 305666,
+        "word": "光大集团原董事长李晓鹏被查",
+        "onboard_time": 1680659610,
+        "rank": 22,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 298642,
+        "num": 298642,
+        "word": "特朗普公开讲话",
+        "onboard_time": 1680656247,
+        "rank": 23,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 283996,
+        "num": 283996,
+        "word": "柯南电影的比喻图",
+        "onboard_time": 1680663392,
+        "rank": 24,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 269968,
+        "num": 269968,
+        "word": "西湖醋鱼到底难不难吃",
+        "onboard_time": 1680661650,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 257572,
+        "num": 257572,
+        "word": "帮忙摘橙子的金毛",
+        "onboard_time": 1680659491,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 228034,
+        "num": 228034,
+        "word": "9岁男孩4年跑坏3台跑步机没瘦下来",
+        "onboard_time": 1680651862,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221184,
+        "num": 221184,
+        "word": "张碧晨毛不易合唱黑月光",
+        "onboard_time": 1680663269,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 218358,
+        "num": 218358,
+        "word": "清明节",
+        "onboard_time": 1680649937,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 216777,
+        "num": 216777,
+        "word": "特朗普接受传讯现场",
+        "onboard_time": 1680616532,
+        "rank": 30,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 211846,
+        "num": 211846,
+        "word": "青山刚昌 端水",
+        "onboard_time": 1680661350,
+        "rank": 31,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 202904,
+        "num": 202904,
+        "word": "你不想加班时会怎么做",
+        "onboard_time": 1680665429,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197182,
+        "num": 197182,
+        "word": "特朗普一旦定罪或被判4年",
+        "onboard_time": 1680616410,
+        "rank": 33,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 189651,
+        "num": 189651,
+        "word": "杨丽萍爱徒跳孔雀舞被批不雅",
+        "onboard_time": 1680651140,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188515,
+        "num": 188515,
+        "word": "马嘉祺宋亚轩黑白造型",
+        "onboard_time": 1680663929,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 183056,
+        "num": 183056,
+        "word": "女专家不畏生死带免费药进麻风村",
+        "onboard_time": 1680651560,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173230,
+        "num": 173230,
+        "word": "杭州人的早餐",
+        "onboard_time": 1680659970,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 171676,
+        "num": 171676,
+        "word": "茉莉青柠多多",
+        "onboard_time": 1680661350,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 168275,
+        "num": 168275,
+        "word": "恩比德52分",
+        "onboard_time": 1680663269,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166851,
+        "num": 166851,
+        "word": "高校回应招聘会设KTV陪酒岗位",
+        "onboard_time": 1680653485,
+        "rank": 40,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 153459,
+        "num": 153459,
+        "word": "四月宋男友",
+        "onboard_time": 1680661170,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 152842,
+        "num": 152842,
+        "word": "山河记得我们记得",
+        "onboard_time": 1680664531,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145935,
+        "num": 145935,
+        "word": "清明时节雨纷纷有三大原因",
+        "onboard_time": 1680657510,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135496,
+        "num": 135496,
+        "word": "湖人VS爵士",
+        "onboard_time": 1680661290,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134648,
+        "num": 134648,
+        "word": "借命而生编辑感谢肖战",
+        "onboard_time": 1680656851,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129312,
+        "num": 129312,
+        "word": "兰哀亲了",
+        "onboard_time": 1680620733,
+        "rank": 46,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 128008,
+        "num": 128008,
+        "word": "95后寿衣模特回应被说阴气重",
+        "onboard_time": 1680614552,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122709,
+        "num": 122709,
+        "word": "差点成为SEVENTEEN成员的艺名",
+        "onboard_time": 1680665610,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121811,
+        "num": 121811,
+        "word": "张远叶炫清献唱长月烬明插曲",
+        "onboard_time": 1680665610,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#开局之年共奋进#"
+    }
+  }
+}
