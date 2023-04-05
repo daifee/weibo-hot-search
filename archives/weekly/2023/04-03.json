@@ -1,6 +1,6 @@
 {
   "startTime": 1680452464197,
-  "endTime": 1680690073469,
+  "endTime": 1680690967363,
   "band_list": [
     {
       "raw_hot": 9506486,
@@ -9,6 +9,14 @@
       "onboard_time": 1680490529,
       "rank": 0,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 9100612,
+      "num": 10017561,
+      "word": "中电科称痛批加班员工非集团公司员工",
+      "onboard_time": 1680683010,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 8591986,
@@ -25,14 +33,6 @@
       "onboard_time": 1680442296,
       "rank": 0,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 8461917,
-      "num": 9711917,
-      "word": "中电科称痛批加班员工非集团公司员工",
-      "onboard_time": 1680683010,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 6131711,
@@ -339,6 +339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 2054850,
+      "num": 2054850,
+      "word": "胖东来创始人称加班不道德",
+      "onboard_time": 1680684568,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2010722,
       "num": 448204,
       "word": "怎么看待李微敖公开景甜名字",
@@ -360,14 +368,6 @@
       "word": "丫丫",
       "onboard_time": 1680481647,
       "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1962569,
-      "num": 1962569,
-      "word": "胖东来创始人称加班不道德",
-      "onboard_time": 1680684568,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -1147,6 +1147,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 701370,
+      "num": 701370,
+      "word": "特朗普",
+      "onboard_time": 1680687869,
+      "rank": 11,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 700869,
       "num": 700869,
       "word": "重庆警方通报男子持刀行凶",
@@ -1283,6 +1291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 645823,
+      "num": 645823,
+      "word": "更适合中国宝宝体质的",
+      "onboard_time": 1680686789,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 642197,
       "num": 368182,
       "word": "离职半个月长出头发了",
@@ -1403,14 +1419,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 600485,
-      "num": 400796,
-      "word": "特朗普",
-      "onboard_time": 1680687869,
-      "rank": 11,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 594470,
       "num": 594470,
       "word": "不要在职场把自己当小孩",
@@ -1505,14 +1513,6 @@
       "onboard_time": 1680600990,
       "rank": 17,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 568621,
-      "num": 568621,
-      "word": "更适合中国宝宝体质的",
-      "onboard_time": 1680686789,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 568517,
@@ -2091,6 +2091,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 422816,
+      "num": 304335,
+      "word": "崔杋圭撞脸宋亚轩",
+      "onboard_time": 1680689913,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 422391,
       "num": 330396,
       "word": "白鹿新剧一人分饰三角",
@@ -2257,6 +2265,14 @@
       "onboard_time": 1680449499,
       "rank": 8,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 389703,
+      "num": 389703,
+      "word": "Hero第三轮掉A",
+      "onboard_time": 1680689973,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 388294,
@@ -2443,6 +2459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 347703,
+      "num": 347703,
+      "word": "如果我变成蟑螂妈妈会怎么办",
+      "onboard_time": 1680689374,
+      "rank": 25,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 347062,
       "num": 330702,
       "word": "为什么家长认为考编很容易",
@@ -2595,6 +2619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 329480,
+      "num": 329480,
+      "word": "Doinb把冠军奖杯放地上",
+      "onboard_time": 1680690210,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 328950,
       "num": 114339,
       "word": "李微敖晒出张继科500万借款欠条",
@@ -2657,6 +2689,14 @@
       "onboard_time": 1680593008,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 314645,
+      "num": 314645,
+      "word": "谢娜黄丽玲曾可妮乘风破浪上班路透",
+      "onboard_time": 1680690152,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 313850,
@@ -3651,14 +3691,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 215026,
-      "num": 215026,
-      "word": "如果我变成蟑螂妈妈会怎么办",
-      "onboard_time": 1680689374,
-      "rank": 25,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 214938,
       "num": 214938,
       "word": "北京动物园大熊猫馆人挤人",
@@ -3737,6 +3769,14 @@
       "onboard_time": 1680526834,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 212327,
+      "num": 212327,
+      "word": "张角久哲战至巅峰",
+      "onboard_time": 1680687509,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 211734,
@@ -3833,14 +3873,6 @@
       "onboard_time": 1680497734,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 208158,
-      "num": 208158,
-      "word": "崔杋圭撞脸宋亚轩",
-      "onboard_time": 1680689913,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 207220,
@@ -4659,14 +4691,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 183749,
-      "num": 183749,
-      "word": "张角久哲战至巅峰",
-      "onboard_time": 1680687509,
-      "rank": 38,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 183611,
       "num": 188992,
       "word": "迪士尼里最适合我扮演的角色",
@@ -5043,14 +5067,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 167141,
-      "num": 167141,
-      "word": "Hero第三轮掉A",
-      "onboard_time": 1680689973,
-      "rank": 43,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 166828,
       "num": 166828,
       "word": "在宇宙中写诗的科幻小片",
@@ -5227,11 +5243,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158938,
+      "num": 158938,
+      "word": "小落夏洛特Carry全场",
+      "onboard_time": 1680690450,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 158176,
       "num": 158176,
       "word": "清明祭扫哪些物品不能带上火车",
       "onboard_time": 1680574767,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158171,
+      "num": 158171,
+      "word": "加班",
+      "onboard_time": 1680690871,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
