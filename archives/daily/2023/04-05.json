@@ -1,6 +1,6 @@
 {
   "startTime": 1680625388129,
-  "endTime": 1680657024277,
+  "endTime": 1680658314441,
   "band_list": [
     {
       "raw_hot": 3423974,
@@ -19,8 +19,8 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 1377777,
-      "num": 1377777,
+      "raw_hot": 1544808,
+      "num": 1544808,
       "word": "当脱口秀演员被小三",
       "onboard_time": 1680651682,
       "rank": 3,
@@ -51,6 +51,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 991410,
+      "num": 991410,
+      "word": "普通人攒一百万有多难",
+      "onboard_time": 1680657030,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 950786,
       "num": 585395,
       "word": "兰哀亲了",
@@ -59,8 +67,16 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 896156,
+      "num": 496322,
+      "word": "建议谢娜买回家",
+      "onboard_time": 1680650780,
+      "rank": 18,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 822914,
-      "num": 135951,
+      "num": 160498,
       "word": "抖音崩了",
       "onboard_time": 1680613830,
       "rank": 30,
@@ -75,20 +91,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 713445,
+      "num": 492982,
+      "word": "特朗普公开讲话",
+      "onboard_time": 1680656247,
+      "rank": 11,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 704026,
       "num": 411289,
       "word": "张佳宁点痣了",
       "onboard_time": 1680609390,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 691583,
-      "num": 464409,
-      "word": "建议谢娜买回家",
-      "onboard_time": 1680650780,
-      "rank": 18,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 666903,
@@ -115,14 +131,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 557740,
-      "num": 463337,
-      "word": "特朗普公开讲话",
-      "onboard_time": 1680656247,
-      "rank": 11,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 552794,
       "num": 552794,
       "word": "杨丽萍爱徒跳孔雀舞被批不雅",
@@ -147,8 +155,16 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 498728,
+      "num": 498728,
+      "word": "高校回应招聘会设KTV陪酒岗位",
+      "onboard_time": 1680653485,
+      "rank": 12,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 482708,
-      "num": 245965,
+      "num": 253727,
       "word": "9岁男孩4年跑坏3台跑步机没瘦下来",
       "onboard_time": 1680651862,
       "rank": 20,
@@ -163,14 +179,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 452082,
-      "num": 452082,
-      "word": "高校回应招聘会设KTV陪酒岗位",
-      "onboard_time": 1680653485,
-      "rank": 12,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 423555,
       "num": 423555,
       "word": "他是谁豆瓣降至6.6分",
@@ -179,8 +187,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 415862,
-      "num": 415862,
+      "raw_hot": 420872,
+      "num": 420872,
       "word": "CETC陈志龙",
       "onboard_time": 1680652223,
       "rank": 13,
@@ -243,6 +251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 312542,
+      "num": 312542,
+      "word": "窦骁何超莲佘诗曼聚餐",
+      "onboard_time": 1680651560,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 311342,
       "num": 239094,
       "word": "新兰",
@@ -251,12 +267,12 @@
       "category": "影视,动漫"
     },
     {
-      "raw_hot": 301990,
-      "num": 301990,
-      "word": "窦骁何超莲佘诗曼聚餐",
-      "onboard_time": 1680651560,
+      "raw_hot": 295202,
+      "num": 295202,
+      "word": "台湾海峡中北部联合巡航巡查专项行动",
+      "onboard_time": 1680657149,
       "rank": 17,
-      "category": "艺人"
+      "category": "国内要闻"
     },
     {
       "raw_hot": 294756,
@@ -291,12 +307,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 256631,
+      "num": 165322,
+      "word": "陈秀礼怀孕",
+      "onboard_time": 1680657209,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 246167,
       "num": 246167,
       "word": "潘玮柏带老婆买戒指",
       "onboard_time": 1680651260,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 242721,
+      "num": 242721,
+      "word": "陪最爱的人去拍遗照是什么体验",
+      "onboard_time": 1680654866,
+      "rank": 26,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 219195,
@@ -323,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 209702,
+      "num": 209702,
+      "word": "清明时节雨纷纷有三大原因",
+      "onboard_time": 1680657510,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 208538,
       "num": 208538,
       "word": "小妈文学拍成剧了",
@@ -339,12 +379,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 197277,
+      "num": 188424,
+      "word": "青团",
+      "onboard_time": 1680657331,
+      "rank": 28,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 196757,
       "num": 196757,
       "word": "苹果天气",
       "onboard_time": 1680592951,
       "rank": 24,
       "category": "科技"
+    },
+    {
+      "raw_hot": 195244,
+      "num": 195244,
+      "word": "刘嘉玲晒与彭于晏合照",
+      "onboard_time": 1680654266,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 189668,
@@ -379,20 +435,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 174191,
-      "num": 135800,
-      "word": "刘嘉玲晒与彭于晏合照",
-      "onboard_time": 1680654266,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 173923,
       "num": 173923,
       "word": "张含韵说我爱我的三十岁",
       "onboard_time": 1680621452,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 172271,
+      "num": 172271,
+      "word": "石家庄2.9级地震",
+      "onboard_time": 1680657991,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 171839,
@@ -411,12 +467,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 159109,
-      "num": 159109,
-      "word": "陪最爱的人去拍遗照是什么体验",
-      "onboard_time": 1680654866,
-      "rank": 26,
-      "category": "社会新闻,情感"
+      "raw_hot": 154454,
+      "num": 154454,
+      "word": "借命而生编辑感谢肖战",
+      "onboard_time": 1680656851,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 153571,
@@ -435,6 +491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 146979,
+      "num": 146979,
+      "word": "孙怡哭戏",
+      "onboard_time": 1680654988,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 145195,
       "num": 125637,
       "word": "肖战电影",
@@ -449,6 +513,22 @@
       "onboard_time": 1680619054,
       "rank": 28,
       "category": "科技"
+    },
+    {
+      "raw_hot": 142006,
+      "num": 142006,
+      "word": "清明艾草糕",
+      "onboard_time": 1680657628,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 138098,
+      "num": 138098,
+      "word": "南北清明习俗差异有多大",
+      "onboard_time": 1680657568,
+      "rank": 37,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 136313,
@@ -507,14 +587,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 123054,
-      "num": 123054,
-      "word": "孙怡哭戏",
-      "onboard_time": 1680654988,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 122661,
       "num": 122661,
       "word": "张杰演唱会",
@@ -571,20 +643,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 106861,
+      "num": 106861,
+      "word": "清明文案",
+      "onboard_time": 1680658290,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 106284,
       "num": 119744,
       "word": "儿化音别再为难广东人了",
       "onboard_time": 1680620733,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 103123,
-      "num": 103123,
-      "word": "借命而生编辑感谢肖战",
-      "onboard_time": 1680656851,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 102545,
@@ -620,7 +692,7 @@
     },
     {
       "raw_hot": 94925,
-      "num": 94925,
+      "num": 104760,
       "word": "可以放倒广东人的鸭头",
       "onboard_time": 1680651560,
       "rank": 47,
@@ -700,7 +772,7 @@
     },
     {
       "raw_hot": 50171,
-      "num": 1386469,
+      "num": 1496457,
       "word": "清明给英烈写句话",
       "onboard_time": 1680611790,
       "rank": 2,

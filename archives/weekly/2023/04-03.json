@@ -1,6 +1,6 @@
 {
   "startTime": 1680452464197,
-  "endTime": 1680657024277,
+  "endTime": 1680658314441,
   "band_list": [
     {
       "raw_hot": 9506486,
@@ -371,6 +371,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1544808,
+      "num": 1544808,
+      "word": "当脱口秀演员被小三",
+      "onboard_time": 1680651682,
+      "rank": 3,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 1449363,
       "num": 605856,
       "word": "北极鲶鱼",
@@ -417,14 +425,6 @@
       "onboard_time": 1680512792,
       "rank": 17,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1377777,
-      "num": 1377777,
-      "word": "当脱口秀演员被小三",
-      "onboard_time": 1680651682,
-      "rank": 3,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 1374355,
@@ -619,6 +619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 991410,
+      "num": 991410,
+      "word": "普通人攒一百万有多难",
+      "onboard_time": 1680657030,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 988266,
       "num": 988266,
       "word": "不要随便接陌生电话",
@@ -681,6 +689,14 @@
       "onboard_time": 1680507209,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 896156,
+      "num": 496322,
+      "word": "建议谢娜买回家",
+      "onboard_time": 1680650780,
+      "rank": 18,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 883134,
@@ -907,6 +923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 713445,
+      "num": 492982,
+      "word": "特朗普公开讲话",
+      "onboard_time": 1680656247,
+      "rank": 11,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 700869,
       "num": 700869,
       "word": "重庆警方通报男子持刀行凶",
@@ -945,14 +969,6 @@
       "onboard_time": 1680496416,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 691583,
-      "num": 464409,
-      "word": "建议谢娜买回家",
-      "onboard_time": 1680650780,
-      "rank": 18,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 686502,
@@ -1235,14 +1251,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 557740,
-      "num": 463337,
-      "word": "特朗普公开讲话",
-      "onboard_time": 1680656247,
-      "rank": 11,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 552794,
       "num": 552794,
       "word": "杨丽萍爱徒跳孔雀舞被批不雅",
@@ -1387,6 +1395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 498728,
+      "num": 498728,
+      "word": "高校回应招聘会设KTV陪酒岗位",
+      "onboard_time": 1680653485,
+      "rank": 12,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 496562,
       "num": 253270,
       "word": "毛不易不理解周雨彤的时尚",
@@ -1460,7 +1476,7 @@
     },
     {
       "raw_hot": 482708,
-      "num": 245965,
+      "num": 253727,
       "word": "9岁男孩4年跑坏3台跑步机没瘦下来",
       "onboard_time": 1680651862,
       "rank": 20,
@@ -1587,14 +1603,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 452082,
-      "num": 452082,
-      "word": "高校回应招聘会设KTV陪酒岗位",
-      "onboard_time": 1680653485,
-      "rank": 12,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 450743,
       "num": 450743,
       "word": "湖南一家族20多人献了45万毫升血",
@@ -1699,6 +1707,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 420872,
+      "num": 420872,
+      "word": "CETC陈志龙",
+      "onboard_time": 1680652223,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 417982,
       "num": 417982,
       "word": "小兰救柯南最后一跳",
@@ -1721,14 +1737,6 @@
       "onboard_time": 1680518796,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 415862,
-      "num": 415862,
-      "word": "CETC陈志龙",
-      "onboard_time": 1680652223,
-      "rank": 13,
-      "category": "情感"
     },
     {
       "raw_hot": 414354,
@@ -2179,6 +2187,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 312542,
+      "num": 312542,
+      "word": "窦骁何超莲佘诗曼聚餐",
+      "onboard_time": 1680651560,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 311342,
       "num": 245292,
       "word": "新兰",
@@ -2201,14 +2217,6 @@
       "onboard_time": 1680580229,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 301990,
-      "num": 301990,
-      "word": "窦骁何超莲佘诗曼聚餐",
-      "onboard_time": 1680651560,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 300985,
@@ -2241,6 +2249,14 @@
       "onboard_time": 1680606990,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 295202,
+      "num": 295202,
+      "word": "台湾海峡中北部联合巡航巡查专项行动",
+      "onboard_time": 1680657149,
+      "rank": 17,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 295182,
@@ -2571,6 +2587,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 256631,
+      "num": 165322,
+      "word": "陈秀礼怀孕",
+      "onboard_time": 1680657209,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 256371,
       "num": 256371,
       "word": "IU的palette",
@@ -2681,6 +2705,14 @@
       "onboard_time": 1680515012,
       "rank": 31,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 242721,
+      "num": 242721,
+      "word": "陪最爱的人去拍遗照是什么体验",
+      "onboard_time": 1680654866,
+      "rank": 26,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 242540,
@@ -3027,6 +3059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 209702,
+      "num": 209702,
+      "word": "清明时节雨纷纷有三大原因",
+      "onboard_time": 1680657510,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 209349,
       "num": 209349,
       "word": "张艺兴长沙夜生活片头曲MV预告",
@@ -3355,6 +3395,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 197277,
+      "num": 188424,
+      "word": "青团",
+      "onboard_time": 1680657331,
+      "rank": 28,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 197075,
       "num": 197075,
       "word": "WE对战TES",
@@ -3409,6 +3457,14 @@
       "onboard_time": 1680495996,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 195244,
+      "num": 195244,
+      "word": "刘嘉玲晒与彭于晏合照",
+      "onboard_time": 1680654266,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 194909,
@@ -3819,14 +3875,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 174191,
-      "num": 135800,
-      "word": "刘嘉玲晒与彭于晏合照",
-      "onboard_time": 1680654266,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 173414,
       "num": 173414,
       "word": "薄冰光影眼神杀",
@@ -3857,6 +3905,14 @@
       "onboard_time": 1680584492,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 172271,
+      "num": 172271,
+      "word": "石家庄2.9级地震",
+      "onboard_time": 1680657991,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 171543,
@@ -4099,14 +4155,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 159109,
-      "num": 159109,
-      "word": "陪最爱的人去拍遗照是什么体验",
-      "onboard_time": 1680654866,
-      "rank": 26,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 158176,
       "num": 158176,
       "word": "清明祭扫哪些物品不能带上火车",
@@ -4193,6 +4241,14 @@
       "onboard_time": 1680605730,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 154454,
+      "num": 154454,
+      "word": "借命而生编辑感谢肖战",
+      "onboard_time": 1680656851,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 153607,
@@ -4323,6 +4379,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 146979,
+      "num": 146979,
+      "word": "孙怡哭戏",
+      "onboard_time": 1680654988,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 146705,
       "num": 145057,
       "word": "他是谁评分",
@@ -4387,6 +4451,14 @@
       "category": "影视,旅游"
     },
     {
+      "raw_hot": 142006,
+      "num": 142006,
+      "word": "清明艾草糕",
+      "onboard_time": 1680657628,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 141596,
       "num": 141596,
       "word": "乃万心游MV",
@@ -4416,6 +4488,14 @@
       "word": "静音车厢你爱了吗",
       "onboard_time": 1680489267,
       "rank": 46,
+      "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 138098,
+      "num": 138098,
+      "word": "南北清明习俗差异有多大",
+      "onboard_time": 1680657568,
+      "rank": 37,
       "category": "社会新闻,情感"
     },
     {
@@ -4611,14 +4691,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 123054,
-      "num": 123054,
-      "word": "孙怡哭戏",
-      "onboard_time": 1680654988,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 122658,
       "num": 122658,
       "word": "第25届上海国际电影节官宣",
@@ -4755,6 +4827,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 106861,
+      "num": 106861,
+      "word": "清明文案",
+      "onboard_time": 1680658290,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 105803,
       "num": 105803,
       "word": "高双星陈秀礼婚礼",
@@ -4769,14 +4849,6 @@
       "onboard_time": 1680563722,
       "rank": 48,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 103123,
-      "num": 103123,
-      "word": "借命而生编辑感谢肖战",
-      "onboard_time": 1680656851,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 102470,
@@ -4860,7 +4932,7 @@
     },
     {
       "raw_hot": 94925,
-      "num": 94925,
+      "num": 104760,
       "word": "可以放倒广东人的鸭头",
       "onboard_time": 1680651560,
       "rank": 47,
@@ -4948,7 +5020,7 @@
     },
     {
       "raw_hot": 65472,
-      "num": 1496102,
+      "num": 1496457,
       "word": "清明给英烈写句话",
       "onboard_time": 1680611790,
       "rank": 2,
