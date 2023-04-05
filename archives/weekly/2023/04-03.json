@@ -1,6 +1,6 @@
 {
   "startTime": 1680452464197,
-  "endTime": 1680705272466,
+  "endTime": 1680708054271,
   "band_list": [
     {
       "raw_hot": 9506486,
@@ -267,6 +267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2556151,
+      "num": 2556151,
+      "word": "工资六千的岗位面试了6轮",
+      "onboard_time": 1680703530,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 2357460,
       "num": 2357460,
       "word": "果然娱乐回应小鬼被抄袭",
@@ -425,14 +433,6 @@
       "onboard_time": 1680491850,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1708941,
-      "num": 1708941,
-      "word": "工资六千的岗位面试了6轮",
-      "onboard_time": 1680703530,
-      "rank": 15,
-      "category": "幽默"
     },
     {
       "raw_hot": 1704155,
@@ -795,6 +795,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1043947,
+      "num": 455569,
+      "word": "天海祐希",
+      "onboard_time": 1680706593,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1017908,
       "num": 1017908,
       "word": "姐弟坠亡案母亲称绝不放过叶诚尘",
@@ -811,12 +819,28 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 984268,
+      "num": 390723,
+      "word": "恋爱一个月男朋友送我伞带",
+      "onboard_time": 1680704372,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 983583,
       "num": 638701,
       "word": "建议谢娜买回家",
       "onboard_time": 1680650780,
       "rank": 18,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 980940,
+      "num": 400564,
+      "word": "TFBOYS前缀存档",
+      "onboard_time": 1680703952,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 976361,
@@ -953,14 +977,6 @@
       "onboard_time": 1680671013,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 871732,
-      "num": 400564,
-      "word": "TFBOYS前缀存档",
-      "onboard_time": 1680703952,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 862416,
@@ -1667,14 +1683,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 575969,
-      "num": 258147,
-      "word": "恋爱一个月男朋友送我伞带",
-      "onboard_time": 1680704372,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 573542,
       "num": 573542,
       "word": "他是谁结局",
@@ -2323,6 +2331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 423684,
+      "num": 423684,
+      "word": "小美人鱼救王子剧照",
+      "onboard_time": 1680702871,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 423555,
       "num": 423555,
       "word": "他是谁豆瓣降至6.6分",
@@ -2345,6 +2361,14 @@
       "onboard_time": 1680490948,
       "rank": 29,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 421536,
+      "num": 421536,
+      "word": "RW战胜TTG",
+      "onboard_time": 1680707255,
+      "rank": 16,
+      "category": "游戏"
     },
     {
       "raw_hot": 420456,
@@ -2451,14 +2475,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 403318,
-      "num": 403318,
-      "word": "小美人鱼救王子剧照",
-      "onboard_time": 1680702871,
-      "rank": 24,
-      "category": "影视"
-    },
-    {
       "raw_hot": 399956,
       "num": 190142,
       "word": "特朗普自曝被控33项罪名",
@@ -2473,6 +2489,14 @@
       "onboard_time": 1680444166,
       "rank": 7,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 394578,
+      "num": 263014,
+      "word": "他这个钱赚得我是不眼红的",
+      "onboard_time": 1680705694,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 394445,
@@ -2537,6 +2561,14 @@
       "onboard_time": 1680689973,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 389413,
+      "num": 389413,
+      "word": "上海出发1小时就能到的城市",
+      "onboard_time": 1680705154,
+      "rank": 49,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 388294,
@@ -2968,6 +3000,14 @@
       "word": "陈晓被叫叔叔在线崩溃",
       "onboard_time": 1680593008,
       "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 316207,
+      "num": 316207,
+      "word": "珍的栓Q彻底BE",
+      "onboard_time": 1680704673,
+      "rank": 39,
       "category": "影视"
     },
     {
@@ -3539,6 +3579,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 257735,
+      "num": 257735,
+      "word": "风箫还得长大",
+      "onboard_time": 1680707374,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 257196,
       "num": 257196,
       "word": "小美人鱼内地定档",
@@ -3593,6 +3641,14 @@
       "onboard_time": 1680702991,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 254230,
+      "num": 254230,
+      "word": "RW驯龙高手不然",
+      "onboard_time": 1680706357,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 254181,
@@ -3689,6 +3745,14 @@
       "onboard_time": 1680528278,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 241387,
+      "num": 241387,
+      "word": "成龙69岁的状态",
+      "onboard_time": 1680706357,
+      "rank": 33,
+      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 240128,
@@ -3851,12 +3915,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 225727,
+      "num": 225727,
+      "word": "CBA常规赛排名出炉",
+      "onboard_time": 1680706472,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 225391,
       "num": 225391,
       "word": "汪峰女儿小苹果自弹自唱",
       "onboard_time": 1680493773,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 225339,
+      "num": 225339,
+      "word": "RW对战TTG",
+      "onboard_time": 1680694293,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 224784,
@@ -3881,14 +3961,6 @@
       "onboard_time": 1680501091,
       "rank": 34,
       "category": "情感,社会新闻"
-    },
-    {
-      "raw_hot": 224006,
-      "num": 224006,
-      "word": "RW对战TTG",
-      "onboard_time": 1680694293,
-      "rank": 39,
-      "category": "游戏"
     },
     {
       "raw_hot": 223442,
@@ -4251,6 +4323,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 208106,
+      "num": 208106,
+      "word": "笑影周瑜MVP",
+      "onboard_time": 1680707312,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 207539,
       "num": 207539,
       "word": "重庆姐弟坠亡案4月6日二审",
@@ -4329,14 +4409,6 @@
       "onboard_time": 1680672151,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 205978,
-      "num": 205978,
-      "word": "珍的栓Q彻底BE",
-      "onboard_time": 1680704673,
-      "rank": 39,
-      "category": "影视"
     },
     {
       "raw_hot": 205473,
@@ -4616,6 +4688,14 @@
       "word": "OMG团战",
       "onboard_time": 1680606511,
       "rank": 33,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 200044,
+      "num": 200044,
+      "word": "RW侠状态回来了",
+      "onboard_time": 1680707671,
+      "rank": 42,
       "category": "游戏"
     },
     {
@@ -4937,6 +5017,14 @@
       "onboard_time": 1680591688,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 190693,
+      "num": 190693,
+      "word": "早期央视镜头下的迪丽热巴",
+      "onboard_time": 1680707794,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 190672,
@@ -5737,14 +5825,6 @@
       "onboard_time": 1680491188,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 159519,
-      "num": 159519,
-      "word": "上海出发1小时就能到的城市",
-      "onboard_time": 1680705154,
-      "rank": 49,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 159508,
@@ -6875,7 +6955,7 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 30297,
+      "raw_hot": 30306,
       "num": 1824986,
       "word": "多希望你们看看山河无恙国泰民安",
       "onboard_time": 1680665070,
