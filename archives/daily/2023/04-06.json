@@ -1,6 +1,6 @@
 {
   "startTime": 1680712017153,
-  "endTime": 1680787214584,
+  "endTime": 1680787995111,
   "band_list": [
     {
       "raw_hot": 4573993,
@@ -99,6 +99,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1869711,
+      "num": 1869711,
+      "word": "曝颖儿代言某家居品牌爆雷",
+      "onboard_time": 1680784890,
+      "rank": 14,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1847964,
+      "num": 1847964,
+      "word": "中电科确认不存在临时工情况",
+      "onboard_time": 1680786572,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1777717,
       "num": 1777717,
       "word": "迪丽热巴狼尾造型",
@@ -107,20 +123,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1755913,
+      "num": 1755913,
+      "word": "润玉时期多好看",
+      "onboard_time": 1680785010,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1735745,
       "num": 642253,
       "word": "内娱天选神女",
       "onboard_time": 1680768331,
       "rank": 17,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1705376,
-      "num": 1705376,
-      "word": "曝颖儿代言某家居品牌爆雷",
-      "onboard_time": 1680784890,
-      "rank": 14,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1687032,
@@ -185,14 +201,6 @@
       "onboard_time": 1680752970,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1425167,
-      "num": 1425167,
-      "word": "润玉时期多好看",
-      "onboard_time": 1680785010,
-      "rank": 43,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1423043,
@@ -281,14 +289,6 @@
       "onboard_time": 1680744688,
       "rank": 16,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1028108,
-      "num": 1028108,
-      "word": "中电科确认不存在临时工情况",
-      "onboard_time": 1680786572,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1012753,
@@ -784,6 +784,14 @@
       "word": "王一博第一季度工作表",
       "onboard_time": 1680752127,
       "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 438762,
+      "num": 438762,
+      "word": "密室逃脱拼到周笔畅",
+      "onboard_time": 1680786871,
+      "rank": 35,
       "category": "艺人"
     },
     {
@@ -1363,14 +1371,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 234811,
-      "num": 234811,
-      "word": "密室逃脱拼到周笔畅",
-      "onboard_time": 1680786871,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 234437,
       "num": 234437,
       "word": "这海豚嘴都亲秃噜皮了",
@@ -1500,7 +1500,7 @@
     },
     {
       "raw_hot": 211685,
-      "num": 211685,
+      "num": 218523,
       "word": "固定工位未来会不会消失",
       "onboard_time": 1680784291,
       "rank": 49,
@@ -1528,6 +1528,22 @@
       "word": "纪录片月背之上",
       "onboard_time": 1680757894,
       "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 208910,
+      "num": 208910,
+      "word": "大家去长沙不会都是为了吃吧",
+      "onboard_time": 1680786153,
+      "rank": 47,
+      "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 208570,
+      "num": 208570,
+      "word": "郭晓婷说去看看陈秀礼的家乡",
+      "onboard_time": 1680787234,
+      "rank": 38,
       "category": "影视"
     },
     {
@@ -1579,6 +1595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205101,
+      "num": 205101,
+      "word": "贺峻霖户外四宫格",
+      "onboard_time": 1680787113,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204945,
       "num": 204945,
       "word": "邓为古装扮相",
@@ -1609,6 +1633,14 @@
       "onboard_time": 1680785129,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 203359,
+      "num": 216866,
+      "word": "研究称高脂饮食自由或将实现",
+      "onboard_time": 1680786933,
+      "rank": 48,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 202407,
@@ -1673,6 +1705,14 @@
       "onboard_time": 1680772111,
       "rank": 39,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 197216,
+      "num": 197216,
+      "word": "于文文曹操吉他solo",
+      "onboard_time": 1680787414,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 195626,
@@ -1747,6 +1787,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 191524,
+      "num": 191524,
+      "word": "第四届动漫奖",
+      "onboard_time": 1680786812,
+      "rank": 41,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 190482,
       "num": 190482,
       "word": "范丞丞机车大片",
@@ -1763,12 +1811,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 189843,
-      "num": 189843,
-      "word": "第四届动漫奖",
-      "onboard_time": 1680786812,
-      "rank": 41,
-      "category": "动漫"
+      "raw_hot": 189083,
+      "num": 189083,
+      "word": "早期甜妹的杀伤力有多强",
+      "onboard_time": 1680783752,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 189072,
@@ -1801,6 +1849,14 @@
       "onboard_time": 1680702272,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 186954,
+      "num": 186954,
+      "word": "张杰曹操舞台打鼓",
+      "onboard_time": 1680787592,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 186906,
@@ -1883,14 +1939,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 181258,
-      "num": 181258,
-      "word": "早期甜妹的杀伤力有多强",
-      "onboard_time": 1680783752,
-      "rank": 43,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 180973,
       "num": 180973,
       "word": "葱香盐焗手撕鸡",
@@ -1913,14 +1961,6 @@
       "onboard_time": 1680760351,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 175122,
-      "num": 175122,
-      "word": "贺峻霖户外四宫格",
-      "onboard_time": 1680787113,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 174869,
@@ -1993,14 +2033,6 @@
       "onboard_time": 1680741992,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 165622,
-      "num": 165622,
-      "word": "大家去长沙不会都是为了吃吧",
-      "onboard_time": 1680786153,
-      "rank": 47,
-      "category": "美食,幽默"
     },
     {
       "raw_hot": 165530,
@@ -2145,14 +2177,6 @@
       "onboard_time": 1680764125,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 147161,
-      "num": 165040,
-      "word": "研究称高脂饮食自由或将实现",
-      "onboard_time": 1680786933,
-      "rank": 48,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 146375,
@@ -2329,6 +2353,14 @@
       "onboard_time": 1680751887,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 116838,
+      "num": 158550,
+      "word": "网友怒怼的是超时加班文化",
+      "onboard_time": 1680787955,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 116515,

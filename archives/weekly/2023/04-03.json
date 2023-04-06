@@ -1,6 +1,6 @@
 {
   "startTime": 1680452464197,
-  "endTime": 1680787214584,
+  "endTime": 1680787995111,
   "band_list": [
     {
       "raw_hot": 9506486,
@@ -507,12 +507,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1869711,
+      "num": 1869711,
+      "word": "曝颖儿代言某家居品牌爆雷",
+      "onboard_time": 1680784890,
+      "rank": 14,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1865561,
       "num": 485451,
       "word": "张佳宁点痣了",
       "onboard_time": 1680609390,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1847964,
+      "num": 1847964,
+      "word": "中电科确认不存在临时工情况",
+      "onboard_time": 1680786572,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1825439,
@@ -539,20 +555,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1755913,
+      "num": 1755913,
+      "word": "润玉时期多好看",
+      "onboard_time": 1680785010,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1735745,
       "num": 642253,
       "word": "内娱天选神女",
       "onboard_time": 1680768331,
       "rank": 17,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1705376,
-      "num": 1705376,
-      "word": "曝颖儿代言某家居品牌爆雷",
-      "onboard_time": 1680784890,
-      "rank": 14,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1704155,
@@ -729,14 +745,6 @@
       "onboard_time": 1680697951,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1425167,
-      "num": 1425167,
-      "word": "润玉时期多好看",
-      "onboard_time": 1680785010,
-      "rank": 43,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1423043,
@@ -1065,14 +1073,6 @@
       "onboard_time": 1680744688,
       "rank": 16,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1028108,
-      "num": 1028108,
-      "word": "中电科确认不存在临时工情况",
-      "onboard_time": 1680786572,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1017908,
@@ -2952,6 +2952,14 @@
       "word": "惠英红 想宋佳",
       "onboard_time": 1680608191,
       "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 438762,
+      "num": 438762,
+      "word": "密室逃脱拼到周笔畅",
+      "onboard_time": 1680786871,
+      "rank": 35,
       "category": "艺人"
     },
     {
@@ -5035,14 +5043,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 234811,
-      "num": 234811,
-      "word": "密室逃脱拼到周笔畅",
-      "onboard_time": 1680786871,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 234437,
       "num": 234437,
       "word": "这海豚嘴都亲秃噜皮了",
@@ -5548,7 +5548,7 @@
     },
     {
       "raw_hot": 211685,
-      "num": 211685,
+      "num": 218523,
       "word": "固定工位未来会不会消失",
       "onboard_time": 1680784291,
       "rank": 49,
@@ -5643,12 +5643,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 208910,
+      "num": 208910,
+      "word": "大家去长沙不会都是为了吃吧",
+      "onboard_time": 1680786153,
+      "rank": 47,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 208847,
       "num": 208847,
       "word": "乘风2023",
       "onboard_time": 1680602909,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 208570,
+      "num": 208570,
+      "word": "郭晓婷说去看看陈秀礼的家乡",
+      "onboard_time": 1680787234,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 208549,
@@ -5843,6 +5859,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 205101,
+      "num": 205101,
+      "word": "贺峻霖户外四宫格",
+      "onboard_time": 1680787113,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204945,
       "num": 204945,
       "word": "邓为古装扮相",
@@ -5953,6 +5977,14 @@
       "onboard_time": 1680506369,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 203359,
+      "num": 216866,
+      "word": "研究称高脂饮食自由或将实现",
+      "onboard_time": 1680786933,
+      "rank": 48,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 203319,
@@ -6275,6 +6307,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 197216,
+      "num": 197216,
+      "word": "于文文曹操吉他solo",
+      "onboard_time": 1680787414,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197075,
       "num": 197075,
       "word": "WE对战TES",
@@ -6571,6 +6611,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 191524,
+      "num": 191524,
+      "word": "第四届动漫奖",
+      "onboard_time": 1680786812,
+      "rank": 41,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 191486,
       "num": 191486,
       "word": "爱情而已小狗开会",
@@ -6643,14 +6691,6 @@
       "category": "社会议题"
     },
     {
-      "raw_hot": 189843,
-      "num": 189843,
-      "word": "第四届动漫奖",
-      "onboard_time": 1680786812,
-      "rank": 41,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 189709,
       "num": 189709,
       "word": "特朗普被正式拘捕",
@@ -6681,6 +6721,14 @@
       "onboard_time": 1680484826,
       "rank": 36,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 189083,
+      "num": 189083,
+      "word": "早期甜妹的杀伤力有多强",
+      "onboard_time": 1680783752,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 189072,
@@ -6793,6 +6841,14 @@
       "onboard_time": 1680607471,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 186954,
+      "num": 186954,
+      "word": "张杰曹操舞台打鼓",
+      "onboard_time": 1680787592,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 186906,
@@ -7003,14 +7059,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 181258,
-      "num": 181258,
-      "word": "早期甜妹的杀伤力有多强",
-      "onboard_time": 1680783752,
-      "rank": 43,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 181209,
       "num": 181209,
       "word": "詹姆斯生涯三双数升至历史第4",
@@ -7168,14 +7216,6 @@
       "word": "蔡徐坤粉丝篮球场公益项目",
       "onboard_time": 1680532778,
       "rank": 41,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 175122,
-      "num": 175122,
-      "word": "贺峻霖户外四宫格",
-      "onboard_time": 1680787113,
-      "rank": 45,
       "category": "艺人"
     },
     {
@@ -7449,14 +7489,6 @@
       "onboard_time": 1680741992,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 165622,
-      "num": 165622,
-      "word": "大家去长沙不会都是为了吃吧",
-      "onboard_time": 1680786153,
-      "rank": 47,
-      "category": "美食,幽默"
     },
     {
       "raw_hot": 165588,
@@ -8025,14 +8057,6 @@
       "onboard_time": 1680764125,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 147161,
-      "num": 165040,
-      "word": "研究称高脂饮食自由或将实现",
-      "onboard_time": 1680786933,
-      "rank": 48,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 146979,
@@ -8641,6 +8665,14 @@
       "onboard_time": 1680449975,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 116838,
+      "num": 158550,
+      "word": "网友怒怼的是超时加班文化",
+      "onboard_time": 1680787955,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 116002,
