@@ -1,6 +1,6 @@
 {
   "startTime": 1680712017153,
-  "endTime": 1680785351258,
+  "endTime": 1680787214584,
   "band_list": [
     {
       "raw_hot": 4573993,
@@ -115,6 +115,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1705376,
+      "num": 1705376,
+      "word": "曝颖儿代言某家居品牌爆雷",
+      "onboard_time": 1680784890,
+      "rank": 14,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1687032,
       "num": 1687032,
       "word": "工资六千的岗位面试了6轮",
@@ -137,6 +145,14 @@
       "onboard_time": 1680704372,
       "rank": 0,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1642648,
+      "num": 1642648,
+      "word": "工作4年就诊了50次",
+      "onboard_time": 1680782067,
+      "rank": 6,
+      "category": "情感"
     },
     {
       "raw_hot": 1623346,
@@ -171,6 +187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1425167,
+      "num": 1425167,
+      "word": "润玉时期多好看",
+      "onboard_time": 1680785010,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1423043,
       "num": 1423043,
       "word": "张艺兴起诉十九楼侵权胜诉",
@@ -193,14 +217,6 @@
       "onboard_time": 1680779911,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1267447,
-      "num": 1267447,
-      "word": "工作4年就诊了50次",
-      "onboard_time": 1680782067,
-      "rank": 6,
-      "category": "情感"
     },
     {
       "raw_hot": 1267197,
@@ -235,6 +251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1130746,
+      "num": 1130746,
+      "word": "声生不息把李玟怒斥好声音剪进正片",
+      "onboard_time": 1680784351,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1088442,
       "num": 520228,
       "word": "李沁回应雨刮器腿",
@@ -257,6 +281,14 @@
       "onboard_time": 1680744688,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1028108,
+      "num": 1028108,
+      "word": "中电科确认不存在临时工情况",
+      "onboard_time": 1680786572,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1012753,
@@ -321,6 +353,14 @@
       "onboard_time": 1680752367,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 868639,
+      "num": 868639,
+      "word": "五月天北京演唱会",
+      "onboard_time": 1680784951,
+      "rank": 15,
+      "category": "音乐"
     },
     {
       "raw_hot": 850971,
@@ -435,14 +475,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 740514,
-      "num": 740514,
-      "word": "声生不息把李玟怒斥好声音剪进正片",
-      "onboard_time": 1680784351,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 738491,
       "num": 519734,
       "word": "张译曾说刘浩存像他的一只猫",
@@ -524,7 +556,7 @@
     },
     {
       "raw_hot": 640290,
-      "num": 364734,
+      "num": 406386,
       "word": "痛经的人有福了",
       "onboard_time": 1680781528,
       "rank": 20,
@@ -611,6 +643,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 539965,
+      "num": 539965,
+      "word": "EDG晋级胜者组决赛",
+      "onboard_time": 1680785731,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 530940,
+      "num": 530940,
+      "word": "张杰华晨宇互唱对方代表作",
+      "onboard_time": 1680784531,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 528505,
       "num": 357500,
       "word": "接下来4个月都有10天假期",
@@ -641,14 +689,6 @@
       "onboard_time": 1680752608,
       "rank": 16,
       "category": "综艺,综艺"
-    },
-    {
-      "raw_hot": 491136,
-      "num": 491136,
-      "word": "曝颖儿代言某家居品牌爆雷",
-      "onboard_time": 1680784890,
-      "rank": 14,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 490201,
@@ -723,14 +763,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 459151,
-      "num": 459151,
-      "word": "五月天北京演唱会",
-      "onboard_time": 1680784951,
-      "rank": 15,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 452588,
       "num": 452588,
       "word": "姐弟坠亡案生母称忏悔信非生父所写",
@@ -779,6 +811,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 420730,
+      "num": 405000,
+      "word": "高加林刘巧珍爱情变亲情",
+      "onboard_time": 1680785251,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 419388,
       "num": 377243,
       "word": "周雨彤18岁到28岁颜值变化",
@@ -819,12 +859,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 406774,
+      "num": 406774,
+      "word": "EDG战胜OMG",
+      "onboard_time": 1680786212,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 402762,
       "num": 400726,
       "word": "乐华七子会解散吗",
       "onboard_time": 1680751468,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 399572,
+      "num": 399572,
+      "word": "穗禾成了润玉的手下",
+      "onboard_time": 1680785493,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 399261,
@@ -899,6 +955,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 363085,
+      "num": 378054,
+      "word": "下班该不该回领导信息",
+      "onboard_time": 1680782311,
+      "rank": 18,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 361991,
       "num": 361991,
       "word": "制片人辟谣高叶退出青春环游记",
@@ -907,28 +971,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 361277,
-      "num": 378054,
-      "word": "下班该不该回领导信息",
-      "onboard_time": 1680782311,
-      "rank": 18,
-      "category": "社会议题"
-    },
-    {
       "raw_hot": 359919,
       "num": 359919,
       "word": "定妆照诈骗",
       "onboard_time": 1680766708,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 352994,
-      "num": 352994,
-      "word": "张杰华晨宇互唱对方代表作",
-      "onboard_time": 1680784531,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 352620,
@@ -1115,6 +1163,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 281075,
+      "num": 281075,
+      "word": "目前本人的财务状况",
+      "onboard_time": 1680783271,
+      "rank": 29,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 280998,
       "num": 1115359,
       "word": "扭扭车男孩张亮走了16米",
@@ -1185,14 +1241,6 @@
       "onboard_time": 1680756573,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 269461,
-      "num": 269461,
-      "word": "目前本人的财务状况",
-      "onboard_time": 1680783271,
-      "rank": 29,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 267884,
@@ -1315,6 +1363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 234811,
+      "num": 234811,
+      "word": "密室逃脱拼到周笔畅",
+      "onboard_time": 1680786871,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 234437,
       "num": 234437,
       "word": "这海豚嘴都亲秃噜皮了",
@@ -1353,6 +1409,14 @@
       "onboard_time": 1680776252,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 228641,
+      "num": 228641,
+      "word": "爱情而已第28集预告",
+      "onboard_time": 1680786212,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 227495,
@@ -1435,6 +1499,14 @@
       "category": "作品衍生,幽默"
     },
     {
+      "raw_hot": 211685,
+      "num": 211685,
+      "word": "固定工位未来会不会消失",
+      "onboard_time": 1680784291,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211422,
       "num": 211422,
       "word": "金智秀新歌表演视频",
@@ -1481,6 +1553,14 @@
       "onboard_time": 1680768387,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 206453,
+      "num": 206453,
+      "word": "艾怡良唱往事只能回味",
+      "onboard_time": 1680786572,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 206239,
@@ -1635,14 +1715,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 193195,
-      "num": 193195,
-      "word": "高加林刘巧珍爱情变亲情",
-      "onboard_time": 1680785251,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 193040,
       "num": 193040,
       "word": "澹台烬黎苏苏救赎文学",
@@ -1691,6 +1763,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 189843,
+      "num": 189843,
+      "word": "第四届动漫奖",
+      "onboard_time": 1680786812,
+      "rank": 41,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 189072,
       "num": 189072,
       "word": "罗云熙长月烬明角色诠释度",
@@ -1723,12 +1803,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 187649,
-      "num": 187649,
-      "word": "润玉时期多好看",
+      "raw_hot": 186906,
+      "num": 186906,
+      "word": "蔡旻佑再唱19岁写的我可以",
       "onboard_time": 1680785010,
-      "rank": 43,
-      "category": "作品衍生"
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 186798,
@@ -1803,6 +1883,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 181258,
+      "num": 181258,
+      "word": "早期甜妹的杀伤力有多强",
+      "onboard_time": 1680783752,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 180973,
       "num": 180973,
       "word": "葱香盐焗手撕鸡",
@@ -1825,6 +1913,14 @@
       "onboard_time": 1680760351,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 175122,
+      "num": 175122,
+      "word": "贺峻霖户外四宫格",
+      "onboard_time": 1680787113,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 174869,
@@ -1897,6 +1993,14 @@
       "onboard_time": 1680741992,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 165622,
+      "num": 165622,
+      "word": "大家去长沙不会都是为了吃吧",
+      "onboard_time": 1680786153,
+      "rank": 47,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 165530,
@@ -2043,6 +2147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 147161,
+      "num": 165040,
+      "word": "研究称高脂饮食自由或将实现",
+      "onboard_time": 1680786933,
+      "rank": 48,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 146375,
       "num": 146375,
       "word": "编剧吴迪",
@@ -2185,14 +2297,6 @@
       "onboard_time": 1680742770,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 127007,
-      "num": 127007,
-      "word": "固定工位未来会不会消失",
-      "onboard_time": 1680784291,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 125329,

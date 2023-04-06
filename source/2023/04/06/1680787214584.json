@@ -1,0 +1,410 @@
+{
+  "runTime": 1680787214584,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1705376,
+        "num": 1705376,
+        "word": "曝颖儿代言某家居品牌爆雷",
+        "onboard_time": 1680784890,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1642648,
+        "num": 1642648,
+        "word": "工作4年就诊了50次",
+        "onboard_time": 1680782067,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 10259,
+        "num": 1465948,
+        "word": "卫星视角下的祖国大地春意盎然",
+        "onboard_time": 1680752308,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1425167,
+        "num": 1425167,
+        "word": "润玉时期多好看",
+        "onboard_time": 1680785010,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1130746,
+        "num": 1130746,
+        "word": "声生不息把李玟怒斥好声音剪进正片",
+        "onboard_time": 1680784351,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1077234,
+        "num": 1077234,
+        "word": "长月烬明配音对不上口型",
+        "onboard_time": 1680779250,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1028108,
+        "num": 1028108,
+        "word": "中电科确认不存在临时工情况",
+        "onboard_time": 1680786572,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 868639,
+        "num": 868639,
+        "word": "五月天北京演唱会",
+        "onboard_time": 1680784951,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 706667,
+        "num": 706667,
+        "word": "in了",
+        "onboard_time": 1680779911,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 658497,
+        "num": 658497,
+        "word": "美国男子承认掰断并偷走兵马俑手指",
+        "onboard_time": 1680773129,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1805028,
+        "num": 640802,
+        "word": "徐州烧烤",
+        "onboard_time": 1680777930,
+        "rank": 10,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1143727,
+        "num": 610077,
+        "word": "女子实名举报父亲受贿1900万元",
+        "onboard_time": 1680774928,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 569853,
+        "num": 569853,
+        "word": "白鹿演技",
+        "onboard_time": 1680779969,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 539965,
+        "num": 539965,
+        "word": "EDG晋级胜者组决赛",
+        "onboard_time": 1680785731,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 530940,
+        "num": 530940,
+        "word": "张杰华晨宇互唱对方代表作",
+        "onboard_time": 1680784531,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 522866,
+        "num": 522866,
+        "word": "为i做e",
+        "onboard_time": 1680767788,
+        "rank": 15,
+        "category": "情感,作品衍生"
+      },
+      {
+        "raw_hot": 504078,
+        "num": 504078,
+        "word": "国内新恋综游戏尺度",
+        "onboard_time": 1680781409,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 464690,
+        "num": 464690,
+        "word": "嘴大 冯晓桐",
+        "onboard_time": 1680782971,
+        "rank": 17,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 430524,
+        "num": 430524,
+        "word": "古偶魔尊天花板",
+        "onboard_time": 1680780629,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 406774,
+        "num": 406774,
+        "word": "EDG战胜OMG",
+        "onboard_time": 1680786212,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 525767,
+        "num": 406386,
+        "word": "痛经的人有福了",
+        "onboard_time": 1680781528,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 420730,
+        "num": 405000,
+        "word": "高加林刘巧珍爱情变亲情",
+        "onboard_time": 1680785251,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 399572,
+        "num": 399572,
+        "word": "穗禾成了润玉的手下",
+        "onboard_time": 1680785493,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 363085,
+        "num": 363085,
+        "word": "下班该不该回领导信息",
+        "onboard_time": 1680782311,
+        "rank": 23,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 392969,
+        "num": 354623,
+        "word": "长月烬明开播观后感",
+        "onboard_time": 1680779369,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 379869,
+        "num": 346266,
+        "word": "鹿晗 广海",
+        "onboard_time": 1680771330,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 311939,
+        "num": 311939,
+        "word": "接下来4个月都有10天假期",
+        "onboard_time": 1680769650,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 281075,
+        "num": 281075,
+        "word": "目前本人的财务状况",
+        "onboard_time": 1680783271,
+        "rank": 27,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 222538,
+        "num": 278508,
+        "word": "辽宁大连3.2级地震",
+        "onboard_time": 1680782189,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161718,
+        "num": 278019,
+        "word": "马克龙访华",
+        "onboard_time": 1680768449,
+        "rank": 29,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 416732,
+        "num": 278017,
+        "word": "朱一龙易烊千玺 合作",
+        "onboard_time": 1680775291,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 278013,
+        "num": 278013,
+        "word": "内娱天选神女",
+        "onboard_time": 1680768331,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 272319,
+        "num": 272319,
+        "word": "刘亦菲托腮自拍",
+        "onboard_time": 1680778289,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259669,
+        "num": 259669,
+        "word": "EDG对战OMG",
+        "onboard_time": 1680775111,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 248715,
+        "num": 248715,
+        "word": "张译曾说刘浩存像他的一只猫",
+        "onboard_time": 1680766889,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234811,
+        "num": 234811,
+        "word": "密室逃脱拼到周笔畅",
+        "onboard_time": 1680786871,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228641,
+        "num": 228641,
+        "word": "爱情而已第28集预告",
+        "onboard_time": 1680786212,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 213897,
+        "num": 213897,
+        "word": "孙策胸肌",
+        "onboard_time": 1680771211,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 211685,
+        "num": 211685,
+        "word": "固定工位未来会不会消失",
+        "onboard_time": 1680784291,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208609,
+        "num": 208609,
+        "word": "咸蛋黄月亮",
+        "onboard_time": 1680782009,
+        "rank": 39,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 206453,
+        "num": 206453,
+        "word": "艾怡良唱往事只能回味",
+        "onboard_time": 1680786572,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189843,
+        "num": 189843,
+        "word": "第四届动漫奖",
+        "onboard_time": 1680786812,
+        "rank": 41,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 186906,
+        "num": 186906,
+        "word": "蔡旻佑再唱19岁写的我可以",
+        "onboard_time": 1680785010,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181258,
+        "num": 181258,
+        "word": "早期甜妹的杀伤力有多强",
+        "onboard_time": 1680783752,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 178858,
+        "num": 178858,
+        "word": "张信哲唱孙燕姿的雨天",
+        "onboard_time": 1680783991,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175122,
+        "num": 175122,
+        "word": "贺峻霖户外四宫格",
+        "onboard_time": 1680787113,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168230,
+        "num": 168230,
+        "word": "秦昊回复伊能静刷我滴卡",
+        "onboard_time": 1680767128,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165622,
+        "num": 165622,
+        "word": "大家去长沙不会都是为了吃吧",
+        "onboard_time": 1680786153,
+        "rank": 47,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 147161,
+        "num": 165040,
+        "word": "研究称高脂饮食自由或将实现",
+        "onboard_time": 1680786933,
+        "rank": 48,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 117696,
+        "num": 164090,
+        "word": "法院认定谢娜张杰购房不存在跳单",
+        "onboard_time": 1680752668,
+        "rank": 49,
+        "category": "社会新闻,艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#我国经济发展实现较好开局#"
+    }
+  }
+}
