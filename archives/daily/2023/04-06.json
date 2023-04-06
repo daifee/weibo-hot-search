@@ -1,6 +1,6 @@
 {
   "startTime": 1680712017153,
-  "endTime": 1680759209611,
+  "endTime": 1680762099047,
   "band_list": [
     {
       "raw_hot": 4573993,
@@ -17,6 +17,14 @@
       "onboard_time": 1680747148,
       "rank": 21,
       "category": "体育,科技"
+    },
+    {
+      "raw_hot": 2172088,
+      "num": 822137,
+      "word": "才知道除了月经还有季经",
+      "onboard_time": 1680758490,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 2072993,
@@ -49,6 +57,14 @@
       "onboard_time": 1680747627,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1777717,
+      "num": 1777717,
+      "word": "迪丽热巴狼尾造型",
+      "onboard_time": 1680758132,
+      "rank": 46,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1687032,
@@ -91,6 +107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1494048,
+      "num": 235151,
+      "word": "官方回应网传张家界天门山多人跳崖自杀",
+      "onboard_time": 1680760469,
+      "rank": 20,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 1423043,
       "num": 1423043,
       "word": "张艺兴起诉十九楼侵权胜诉",
@@ -113,14 +137,6 @@
       "onboard_time": 1680746608,
       "rank": 3,
       "category": "科技"
-    },
-    {
-      "raw_hot": 1092608,
-      "num": 1092608,
-      "word": "迪丽热巴狼尾造型",
-      "onboard_time": 1680758132,
-      "rank": 46,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1037260,
@@ -211,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 803862,
+      "num": 803862,
+      "word": "四川总工会称加班事件事发地不在成都",
+      "onboard_time": 1680758728,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 802363,
       "num": 333963,
       "word": "中电科称痛批加班员工非集团公司员工",
@@ -251,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 709612,
+      "num": 395583,
+      "word": "白鹿蚌壳装",
+      "onboard_time": 1680758790,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 678332,
       "num": 325998,
       "word": "天海祐希",
@@ -275,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 660148,
+      "num": 394690,
+      "word": "李现的眉骨",
+      "onboard_time": 1680760170,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 630396,
       "num": 630396,
       "word": "半导体",
@@ -297,6 +337,14 @@
       "onboard_time": 1680703952,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 555138,
+      "num": 555138,
+      "word": "这个周四太幸福了",
+      "onboard_time": 1680761188,
+      "rank": 8,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 545634,
@@ -459,6 +507,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 357989,
+      "num": 229775,
+      "word": "辛芷蕾112页台词",
+      "onboard_time": 1680761069,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 341223,
       "num": 341223,
       "word": "巴萨0比4皇马",
@@ -481,6 +537,14 @@
       "onboard_time": 1680696271,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 332122,
+      "num": 332122,
+      "word": "沙特伊朗外长在北京会晤",
+      "onboard_time": 1680759327,
+      "rank": 14,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 321688,
@@ -595,14 +659,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 270727,
-      "num": 270727,
-      "word": "才知道除了月经还有季经",
-      "onboard_time": 1680758490,
-      "rank": 26,
-      "category": "情感"
-    },
-    {
       "raw_hot": 267884,
       "num": 267884,
       "word": "巧珍眼里没光了",
@@ -627,12 +683,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 255882,
+      "num": 223589,
+      "word": "什么精神状态设计出这茶漏",
+      "onboard_time": 1680759810,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 245760,
       "num": 245760,
       "word": "马栓下线",
       "onboard_time": 1680700830,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 244039,
+      "num": 244039,
+      "word": "梁静茹演唱会",
+      "onboard_time": 1680761609,
+      "rank": 18,
+      "category": "音乐"
     },
     {
       "raw_hot": 241356,
@@ -651,14 +723,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 240122,
-      "num": 240122,
-      "word": "白鹿蚌壳装",
-      "onboard_time": 1680758790,
-      "rank": 32,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 238697,
       "num": 238697,
       "word": "京考",
@@ -673,14 +737,6 @@
       "onboard_time": 1680701912,
       "rank": 41,
       "category": "美食"
-    },
-    {
-      "raw_hot": 238413,
-      "num": 238413,
-      "word": "四川总工会称加班事件事发地不在成都",
-      "onboard_time": 1680758728,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 234437,
@@ -867,6 +923,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 188334,
+      "num": 188334,
+      "word": "种地吧",
+      "onboard_time": 1680759509,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187892,
       "num": 187892,
       "word": "重庆坠亡姐弟生母清明节祭奠孩子",
@@ -915,6 +979,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 175321,
+      "num": 175321,
+      "word": "梁友安长发",
+      "onboard_time": 1680760351,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 174836,
       "num": 174836,
       "word": "金智秀solo初一位",
@@ -929,6 +1001,14 @@
       "onboard_time": 1680753630,
       "rank": 42,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 170916,
+      "num": 170916,
+      "word": "NBA",
+      "onboard_time": 1680759207,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 168429,
