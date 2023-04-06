@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680769320011,
+  "endTime": 1680770089003,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -331,6 +331,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 2618482,
+      "num": 2618482,
+      "word": "为i做e",
+      "onboard_time": 1680767788,
+      "rank": 0,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 2601228,
       "num": 1495467,
       "word": "国家体育总局乒羽中心回应张继科事件",
@@ -601,14 +609,6 @@
       "onboard_time": 1680747627,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1930710,
-      "num": 1930710,
-      "word": "为i做e",
-      "onboard_time": 1680767788,
-      "rank": 0,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1865561,
@@ -1803,6 +1803,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 771798,
+      "num": 421497,
+      "word": "内娱天选神女",
+      "onboard_time": 1680768331,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 771505,
       "num": 771505,
       "word": "陈飞宇周也新片be氛围感",
@@ -2065,6 +2073,14 @@
       "onboard_time": 1680690210,
       "rank": 15,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 703938,
+      "num": 703938,
+      "word": "女子拒绝公司查看手机被无偿辞退",
+      "onboard_time": 1680768089,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 702478,
@@ -2371,6 +2387,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 636812,
+      "num": 636812,
+      "word": "原来外卖的包装费还可以退",
+      "onboard_time": 1680766110,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 635026,
       "num": 635026,
       "word": "外卖不够起送价你会凑单吗",
@@ -2608,14 +2632,6 @@
       "word": "才知道八段锦这么有用",
       "onboard_time": 1680532657,
       "rank": 22,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 591028,
-      "num": 591028,
-      "word": "原来外卖的包装费还可以退",
-      "onboard_time": 1680766110,
-      "rank": 38,
       "category": "幽默"
     },
     {
@@ -3363,6 +3379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 478719,
+      "num": 478719,
+      "word": "马克龙访华",
+      "onboard_time": 1680768449,
+      "rank": 9,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 478458,
       "num": 478458,
       "word": "没有一句粗口却把我伤得体无完肤",
@@ -3465,14 +3489,6 @@
       "onboard_time": 1680431608,
       "rank": 8,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 470998,
-      "num": 421826,
-      "word": "女子拒绝公司查看手机被无偿辞退",
-      "onboard_time": 1680768089,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 470711,
@@ -3835,14 +3851,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 426477,
-      "num": 426477,
-      "word": "马克龙访华",
-      "onboard_time": 1680768449,
-      "rank": 9,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 425249,
       "num": 248219,
       "word": "女子和公公带俩孩给亡夫销户",
@@ -3905,14 +3913,6 @@
       "onboard_time": 1680707255,
       "rank": 16,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 421497,
-      "num": 421497,
-      "word": "内娱天选神女",
-      "onboard_time": 1680768331,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 420708,
@@ -5203,6 +5203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 306891,
+      "num": 306891,
+      "word": "制片人辟谣高叶退出青春环游记",
+      "onboard_time": 1680769591,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 305906,
       "num": 305906,
       "word": "原来摸鱼也是有技巧的",
@@ -5553,6 +5561,14 @@
       "onboard_time": 1680681090,
       "rank": 26,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 283413,
+      "num": 423397,
+      "word": "小米13Ultra",
+      "onboard_time": 1680768027,
+      "rank": 14,
+      "category": "科技"
     },
     {
       "raw_hot": 282984,
@@ -6323,6 +6339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 248533,
+      "num": 248533,
+      "word": "再也不怕回南天了",
+      "onboard_time": 1680768691,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 248015,
       "num": 194636,
       "word": "真的还是假的",
@@ -6401,6 +6425,14 @@
       "onboard_time": 1680429090,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 243253,
+      "num": 243253,
+      "word": "林心如模仿犯高光名场面",
+      "onboard_time": 1680768809,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 242721,
@@ -6881,6 +6913,14 @@
       "onboard_time": 1680361170,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 220740,
+      "num": 220740,
+      "word": "泰坦尼克号女主参演阿凡达2",
+      "onboard_time": 1680769710,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 220152,
@@ -7708,7 +7748,7 @@
     },
     {
       "raw_hot": 204080,
-      "num": 204080,
+      "num": 213267,
       "word": "再进化就得上班了",
       "onboard_time": 1680767609,
       "rank": 34,
@@ -7931,6 +7971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201842,
+      "num": 201842,
+      "word": "潮音乐嘉年华阵容",
+      "onboard_time": 1680769349,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 201746,
       "num": 201746,
       "word": "星星挑战",
@@ -7985,14 +8033,6 @@
       "onboard_time": 1680477501,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 201217,
-      "num": 201217,
-      "word": "林心如模仿犯高光名场面",
-      "onboard_time": 1680768809,
-      "rank": 37,
-      "category": "影视"
     },
     {
       "raw_hot": 201174,
@@ -8187,14 +8227,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 198974,
-      "num": 198974,
-      "word": "再也不怕回南天了",
-      "onboard_time": 1680768691,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 198871,
       "num": 198871,
       "word": "真人版芭比电影发布角色海报",
@@ -8281,14 +8313,6 @@
       "onboard_time": 1680581671,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 197338,
-      "num": 423397,
-      "word": "小米13Ultra",
-      "onboard_time": 1680768027,
-      "rank": 14,
-      "category": "科技"
     },
     {
       "raw_hot": 197309,
@@ -9619,6 +9643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 172044,
+      "num": 172044,
+      "word": "考研调剂系统已开通",
+      "onboard_time": 1680766830,
+      "rank": 43,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 172005,
       "num": 172005,
       "word": "张译这句分手台词好耳熟",
@@ -9873,14 +9905,6 @@
       "onboard_time": 1680405268,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 166864,
-      "num": 166864,
-      "word": "考研调剂系统已开通",
-      "onboard_time": 1680766830,
-      "rank": 43,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 166828,
@@ -11129,6 +11153,14 @@
       "onboard_time": 1680343351,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 136610,
+      "num": 152350,
+      "word": "父母给对象起的贴切外号",
+      "onboard_time": 1680770068,
+      "rank": 47,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 136608,
@@ -12787,6 +12819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 63948,
+      "num": 967876,
+      "word": "加快数字中国建设",
+      "onboard_time": 1680768331,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 63920,
       "num": 63920,
       "word": "4月开机的电视剧",
@@ -12897,14 +12937,6 @@
       "onboard_time": 1680285077,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 50950,
-      "num": 914874,
-      "word": "加快数字中国建设",
-      "onboard_time": 1680768331,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 50149,
