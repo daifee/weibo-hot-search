@@ -1,6 +1,6 @@
 {
   "startTime": 1680712017153,
-  "endTime": 1680787995111,
+  "endTime": 1680790530165,
   "band_list": [
     {
       "raw_hot": 4573993,
@@ -27,12 +27,28 @@
       "category": "体育,科技"
     },
     {
+      "raw_hot": 2568981,
+      "num": 2568981,
+      "word": "润玉时期多好看",
+      "onboard_time": 1680785010,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 2552781,
       "num": 2552781,
       "word": "这个周四太幸福了",
       "onboard_time": 1680761188,
       "rank": 8,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 2539594,
+      "num": 2539594,
+      "word": "中电科确认不存在临时工情况",
+      "onboard_time": 1680786572,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2421591,
@@ -107,28 +123,12 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 1847964,
-      "num": 1847964,
-      "word": "中电科确认不存在临时工情况",
-      "onboard_time": 1680786572,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1777717,
       "num": 1777717,
       "word": "迪丽热巴狼尾造型",
       "onboard_time": 1680758132,
       "rank": 46,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 1755913,
-      "num": 1755913,
-      "word": "润玉时期多好看",
-      "onboard_time": 1680785010,
-      "rank": 43,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1735745,
@@ -233,6 +233,14 @@
       "onboard_time": 1680699394,
       "rank": 20,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1244237,
+      "num": 518157,
+      "word": "郑容和被韩国酵母放了一马",
+      "onboard_time": 1680788850,
+      "rank": 10,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 1190291,
@@ -611,6 +619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 558737,
+      "num": 558737,
+      "word": "RNG上单 五世同堂",
+      "onboard_time": 1680789514,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 553792,
       "num": 553792,
       "word": "辅导员你真的很不幽默",
@@ -651,6 +667,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 536952,
+      "num": 508035,
+      "word": "密室逃脱拼到周笔畅",
+      "onboard_time": 1680786871,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 530940,
       "num": 530940,
       "word": "张杰华晨宇互唱对方代表作",
@@ -689,6 +713,14 @@
       "onboard_time": 1680752608,
       "rank": 16,
       "category": "综艺,综艺"
+    },
+    {
+      "raw_hot": 504373,
+      "num": 504373,
+      "word": "叶冰裳",
+      "onboard_time": 1680789395,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 490201,
@@ -763,6 +795,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 454701,
+      "num": 454701,
+      "word": "中电科称网上的任免文件明显伪造",
+      "onboard_time": 1680788492,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 452588,
       "num": 452588,
       "word": "姐弟坠亡案生母称忏悔信非生父所写",
@@ -784,14 +824,6 @@
       "word": "王一博第一季度工作表",
       "onboard_time": 1680752127,
       "rank": 18,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 438762,
-      "num": 438762,
-      "word": "密室逃脱拼到周笔畅",
-      "onboard_time": 1680786871,
-      "rank": 35,
       "category": "艺人"
     },
     {
@@ -907,6 +939,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 395425,
+      "num": 395425,
+      "word": "研究称高脂饮食自由或将实现",
+      "onboard_time": 1680786933,
+      "rank": 48,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 394749,
       "num": 394749,
       "word": "EDG对战OMG",
@@ -985,6 +1025,14 @@
       "onboard_time": 1680766708,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 354463,
+      "num": 354463,
+      "word": "重庆姐弟坠亡案",
+      "onboard_time": 1680789752,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 352620,
@@ -1145,6 +1193,14 @@
       "onboard_time": 1680700653,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 288279,
+      "num": 288279,
+      "word": "aespa吐槽ae成员",
+      "onboard_time": 1680788013,
+      "rank": 27,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 285661,
@@ -1411,6 +1467,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 228701,
+      "num": 228701,
+      "word": "大家去长沙不会都是为了吃吧",
+      "onboard_time": 1680786153,
+      "rank": 47,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 228641,
       "num": 228641,
       "word": "爱情而已第28集预告",
@@ -1443,6 +1507,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 224558,
+      "num": 224558,
+      "word": "早期甜妹的杀伤力有多强",
+      "onboard_time": 1680783752,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 222150,
       "num": 222150,
       "word": "Xun导 不愧是你",
@@ -1465,6 +1537,22 @@
       "onboard_time": 1680768387,
       "rank": 29,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 218913,
+      "num": 218913,
+      "word": "爱情而已明晚直通大结局",
+      "onboard_time": 1680789873,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 218785,
+      "num": 218785,
+      "word": "郭晓婷说去看看陈秀礼的家乡",
+      "onboard_time": 1680787234,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 218658,
@@ -1523,27 +1611,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 209770,
+      "num": 185448,
+      "word": "over me",
+      "onboard_time": 1680789153,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 209080,
       "num": 209080,
       "word": "纪录片月背之上",
       "onboard_time": 1680757894,
       "rank": 44,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 208910,
-      "num": 208910,
-      "word": "大家去长沙不会都是为了吃吧",
-      "onboard_time": 1680786153,
-      "rank": 47,
-      "category": "美食,幽默"
-    },
-    {
-      "raw_hot": 208570,
-      "num": 208570,
-      "word": "郭晓婷说去看看陈秀礼的家乡",
-      "onboard_time": 1680787234,
-      "rank": 38,
       "category": "影视"
     },
     {
@@ -1633,14 +1713,6 @@
       "onboard_time": 1680785129,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 203359,
-      "num": 216866,
-      "word": "研究称高脂饮食自由或将实现",
-      "onboard_time": 1680786933,
-      "rank": 48,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 202407,
@@ -1739,6 +1811,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 194728,
+      "num": 194728,
+      "word": "冯晓桐 王宝宝",
+      "onboard_time": 1680790233,
+      "rank": 37,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 194563,
       "num": 180888,
       "word": "今晚见长月烬明",
@@ -1811,14 +1891,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 189083,
-      "num": 189083,
-      "word": "早期甜妹的杀伤力有多强",
-      "onboard_time": 1680783752,
-      "rank": 43,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 189072,
       "num": 189072,
       "word": "罗云熙长月烬明角色诠释度",
@@ -1881,6 +1953,14 @@
       "onboard_time": 1680769051,
       "rank": 40,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 186269,
+      "num": 186269,
+      "word": "网友怒怼的是超时加班文化",
+      "onboard_time": 1680787955,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 185702,
@@ -2107,6 +2187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 157124,
+      "num": 157124,
+      "word": "人生之路",
+      "onboard_time": 1680789752,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 156673,
       "num": 156673,
       "word": "珍的栓Q彻底BE",
@@ -2123,12 +2211,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154515,
+      "num": 154515,
+      "word": "LPL十年回忆杀",
+      "onboard_time": 1680789212,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 154214,
       "num": 154214,
       "word": "苹果服务器再出故障",
       "onboard_time": 1680766526,
       "rank": 47,
       "category": "科技"
+    },
+    {
+      "raw_hot": 152127,
+      "num": 152127,
+      "word": "宋妍霏直播说自己鼻孔大",
+      "onboard_time": 1680787891,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 150316,
@@ -2353,14 +2457,6 @@
       "onboard_time": 1680751887,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 116838,
-      "num": 158550,
-      "word": "网友怒怼的是超时加班文化",
-      "onboard_time": 1680787955,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 116515,

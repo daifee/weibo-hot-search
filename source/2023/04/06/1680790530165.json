@@ -1,0 +1,410 @@
+{
+  "runTime": 1680790530165,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2568981,
+        "num": 2568981,
+        "word": "润玉时期多好看",
+        "onboard_time": 1680785010,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 2539594,
+        "num": 2539594,
+        "word": "中电科确认不存在临时工情况",
+        "onboard_time": 1680786572,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12764,
+        "num": 1485828,
+        "word": "卫星视角下的祖国大地春意盎然",
+        "onboard_time": 1680752308,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1455477,
+        "num": 1455477,
+        "word": "曝颖儿代言某家居品牌爆雷",
+        "onboard_time": 1680784890,
+        "rank": 3,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1337362,
+        "num": 1337362,
+        "word": "工作4年就诊了50次",
+        "onboard_time": 1680782067,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 779525,
+        "num": 779525,
+        "word": "声生不息把李玟怒斥好声音剪进正片",
+        "onboard_time": 1680784351,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 752215,
+        "num": 752215,
+        "word": "五月天北京演唱会",
+        "onboard_time": 1680784951,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 697692,
+        "num": 697692,
+        "word": "长月烬明配音对不上口型",
+        "onboard_time": 1680779250,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 558737,
+        "num": 558737,
+        "word": "RNG上单 五世同堂",
+        "onboard_time": 1680789514,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 520895,
+        "num": 520895,
+        "word": "白鹿演技",
+        "onboard_time": 1680779969,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1244237,
+        "num": 518157,
+        "word": "郑容和被韩国酵母放了一马",
+        "onboard_time": 1680788850,
+        "rank": 10,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 949238,
+        "num": 515732,
+        "word": "徐州烧烤",
+        "onboard_time": 1680777930,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 709764,
+        "num": 508898,
+        "word": "女子实名举报父亲受贿1900万元",
+        "onboard_time": 1680774928,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 536952,
+        "num": 508035,
+        "word": "密室逃脱拼到周笔畅",
+        "onboard_time": 1680786871,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 504373,
+        "num": 504373,
+        "word": "叶冰裳",
+        "onboard_time": 1680789395,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 497388,
+        "num": 497388,
+        "word": "美国男子承认掰断并偷走兵马俑手指",
+        "onboard_time": 1680773129,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 454701,
+        "num": 454701,
+        "word": "中电科称网上的任免文件明显伪造",
+        "onboard_time": 1680788492,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 450750,
+        "num": 450750,
+        "word": "为i做e",
+        "onboard_time": 1680767788,
+        "rank": 17,
+        "category": "情感,作品衍生"
+      },
+      {
+        "raw_hot": 432487,
+        "num": 432487,
+        "word": "国内新恋综游戏尺度",
+        "onboard_time": 1680781409,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 395425,
+        "num": 395425,
+        "word": "研究称高脂饮食自由或将实现",
+        "onboard_time": 1680786933,
+        "rank": 19,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 424558,
+        "num": 394775,
+        "word": "痛经的人有福了",
+        "onboard_time": 1680781528,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 384912,
+        "num": 384912,
+        "word": "张杰华晨宇互唱对方代表作",
+        "onboard_time": 1680784531,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 383442,
+        "num": 383442,
+        "word": "in了",
+        "onboard_time": 1680779911,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 374618,
+        "num": 374618,
+        "word": "长月烬明开播观后感",
+        "onboard_time": 1680779369,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 354463,
+        "num": 354463,
+        "word": "重庆姐弟坠亡案",
+        "onboard_time": 1680789752,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347830,
+        "num": 347830,
+        "word": "接下来4个月都有10天假期",
+        "onboard_time": 1680769650,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 292902,
+        "num": 292902,
+        "word": "刘亦菲托腮自拍",
+        "onboard_time": 1680778289,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288279,
+        "num": 288279,
+        "word": "aespa吐槽ae成员",
+        "onboard_time": 1680788013,
+        "rank": 27,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 258968,
+        "num": 258968,
+        "word": "高加林刘巧珍爱情变亲情",
+        "onboard_time": 1680785251,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 228701,
+        "num": 228701,
+        "word": "大家去长沙不会都是为了吃吧",
+        "onboard_time": 1680786153,
+        "rank": 29,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 390171,
+        "num": 228097,
+        "word": "朱一龙易烊千玺 合作",
+        "onboard_time": 1680775291,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 247323,
+        "num": 227777,
+        "word": "鹿晗 广海",
+        "onboard_time": 1680771330,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226654,
+        "num": 226654,
+        "word": "EDG晋级胜者组决赛",
+        "onboard_time": 1680785731,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 224558,
+        "num": 224558,
+        "word": "早期甜妹的杀伤力有多强",
+        "onboard_time": 1680783752,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 221688,
+        "num": 221688,
+        "word": "孙策胸肌",
+        "onboard_time": 1680771211,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 218913,
+        "num": 218913,
+        "word": "爱情而已明晚直通大结局",
+        "onboard_time": 1680789873,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 218785,
+        "num": 218785,
+        "word": "郭晓婷说去看看陈秀礼的家乡",
+        "onboard_time": 1680787234,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194728,
+        "num": 194728,
+        "word": "冯晓桐 王宝宝",
+        "onboard_time": 1680790233,
+        "rank": 37,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 186349,
+        "num": 186349,
+        "word": "目前本人的财务状况",
+        "onboard_time": 1680783271,
+        "rank": 38,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 186269,
+        "num": 186269,
+        "word": "网友怒怼的是超时加班文化",
+        "onboard_time": 1680787955,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209770,
+        "num": 185448,
+        "word": "over me",
+        "onboard_time": 1680789153,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184547,
+        "num": 184547,
+        "word": "爱情而已第28集预告",
+        "onboard_time": 1680786212,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 170167,
+        "num": 170167,
+        "word": "固定工位未来会不会消失",
+        "onboard_time": 1680784291,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161733,
+        "num": 161733,
+        "word": "嘴大 冯晓桐",
+        "onboard_time": 1680782971,
+        "rank": 43,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 157124,
+        "num": 157124,
+        "word": "人生之路",
+        "onboard_time": 1680789752,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 154515,
+        "num": 154515,
+        "word": "LPL十年回忆杀",
+        "onboard_time": 1680789212,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 152300,
+        "num": 152300,
+        "word": "EDG战胜OMG",
+        "onboard_time": 1680786212,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 152127,
+        "num": 152127,
+        "word": "宋妍霏直播说自己鼻孔大",
+        "onboard_time": 1680787891,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 148549,
+        "num": 148549,
+        "word": "马克龙访华",
+        "onboard_time": 1680768449,
+        "rank": 48,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 140146,
+        "num": 140146,
+        "word": "下班该不该回领导信息",
+        "onboard_time": 1680782311,
+        "rank": 49,
+        "category": "社会议题"
+      }
+    ],
+    "hotgov": {
+      "word": "#夯实思想之基汲取奋进力量#"
+    }
+  }
+}
