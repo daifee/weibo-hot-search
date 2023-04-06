@@ -1,6 +1,6 @@
 {
   "startTime": 1680798149468,
-  "endTime": 1680802410975,
+  "endTime": 1680805237263,
   "band_list": [
     {
       "raw_hot": 1289711,
@@ -417,6 +417,14 @@
       "onboard_time": 1680794430,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 25813,
+      "num": 25813,
+      "word": "好友好有爱",
+      "onboard_time": 1680795809,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 6430,

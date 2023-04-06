@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/04/03 00:21:04 ~ 2023/04/07 01:33:30
+本榜单时间：2023/04/03 00:21:04 ~ 2023/04/07 02:20:37
 </p>
 </blockquote>
 <p>
@@ -7079,6 +7079,12 @@ BLACKPINK同名换装手游VCR（热度：46011）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23INTO1%E5%91%8A%E5%88%AB%E6%BC%94%E5%94%B1%E4%BC%9A%E6%B3%B0%E5%9B%BD%E5%9C%BA%23" target="weibo">
 INTO1告别演唱会泰国场（热度：27133）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%BD%E5%8F%8B%E5%A5%BD%E6%9C%89%E7%88%B1%23" target="weibo">
+好友好有爱（热度：25813）
 </a>
 </li>
 

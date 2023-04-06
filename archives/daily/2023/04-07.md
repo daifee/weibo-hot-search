@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/04/07 00:22:29 ~ 2023/04/07 01:33:30
+本榜单时间：2023/04/07 00:22:29 ~ 2023/04/07 02:20:37
 </p>
 </blockquote>
 <p>
@@ -323,6 +323,12 @@ EDG晋级胜者组决赛（热度：82510）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E9%BE%99%E9%A9%AC%E7%B2%BE%E7%A5%9E%23" target="weibo">
 电影龙马精神（热度：35859）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%BD%E5%8F%8B%E5%A5%BD%E6%9C%89%E7%88%B1%23" target="weibo">
+好友好有爱（热度：25813）
 </a>
 </li>
 
