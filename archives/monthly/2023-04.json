@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680748300651,
+  "endTime": 1680748906850,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -508,7 +508,7 @@
     },
     {
       "raw_hot": 1989231,
-      "num": 417328,
+      "num": 424312,
       "word": "马克龙 黄渤",
       "onboard_time": 1680743188,
       "rank": 10,
@@ -588,7 +588,7 @@
     },
     {
       "raw_hot": 1660057,
-      "num": 205024,
+      "num": 275275,
       "word": "范丞丞工作室认证蓝V",
       "onboard_time": 1680746547,
       "rank": 20,
@@ -1019,6 +1019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1104655,
+      "num": 1104655,
+      "word": "极限挑战第九季官宣",
+      "onboard_time": 1680747627,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1103201,
       "num": 1103201,
       "word": "普通人攒一百万有多难",
@@ -1219,8 +1227,8 @@
       "category": "艺人,幽默"
     },
     {
-      "raw_hot": 954619,
-      "num": 954619,
+      "raw_hot": 955242,
+      "num": 955242,
       "word": "iPhone15将首次由印度参与首批供货",
       "onboard_time": 1680746608,
       "rank": 3,
@@ -1377,6 +1385,14 @@
       "onboard_time": 1680673470,
       "rank": 14,
       "category": "幽默,时尚"
+    },
+    {
+      "raw_hot": 891000,
+      "num": 269660,
+      "word": "苏炳添回应用iPhone14发微博",
+      "onboard_time": 1680747148,
+      "rank": 21,
+      "category": "体育,科技"
     },
     {
       "raw_hot": 887570,
@@ -1769,14 +1785,6 @@
       "onboard_time": 1680660330,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 732230,
-      "num": 204128,
-      "word": "苏炳添回应用iPhone14发微博",
-      "onboard_time": 1680747148,
-      "rank": 21,
-      "category": "体育,科技"
     },
     {
       "raw_hot": 731250,
@@ -2995,6 +3003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 490201,
+      "num": 490201,
+      "word": "乘风4一公歌单",
+      "onboard_time": 1680745048,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 490175,
       "num": 250411,
       "word": "叶一茜 森碟和亮仔都是我的宝贝",
@@ -3203,14 +3219,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 470277,
-      "num": 470277,
-      "word": "乘风4一公歌单",
-      "onboard_time": 1680745048,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 470050,
       "num": 470050,
       "word": "男子贪吃春笋后呕血又昏厥",
@@ -3233,6 +3241,14 @@
       "onboard_time": 1680576448,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 466898,
+      "num": 266181,
+      "word": "老人2800卖老照片女生感动险上当",
+      "onboard_time": 1680747209,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 464862,
@@ -3684,7 +3700,7 @@
     },
     {
       "raw_hot": 415725,
-      "num": 203181,
+      "num": 254270,
       "word": "刘浩存模仿自己的表情包",
       "onboard_time": 1680746129,
       "rank": 22,
@@ -3692,7 +3708,7 @@
     },
     {
       "raw_hot": 415524,
-      "num": 201042,
+      "num": 260420,
       "word": "于正写藏头诗宣传白鹿新剧",
       "onboard_time": 1680746967,
       "rank": 24,
@@ -3761,14 +3777,6 @@
       "onboard_time": 1680584854,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 407121,
-      "num": 407121,
-      "word": "极限挑战第九季官宣",
-      "onboard_time": 1680747627,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 406650,
@@ -3940,7 +3948,7 @@
     },
     {
       "raw_hot": 388128,
-      "num": 202365,
+      "num": 252281,
       "word": "柳智敏金发",
       "onboard_time": 1680743728,
       "rank": 29,
@@ -4161,14 +4169,6 @@
       "onboard_time": 1680707794,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 359600,
-      "num": 200300,
-      "word": "老人2800卖老照片女生感动险上当",
-      "onboard_time": 1680747209,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 357397,
@@ -4739,6 +4739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 312631,
+      "num": 312631,
+      "word": "王一博电影人鱼预计今年7月开机",
+      "onboard_time": 1680747926,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 312542,
       "num": 312542,
       "word": "窦骁何超莲佘诗曼聚餐",
@@ -5193,6 +5201,14 @@
       "onboard_time": 1680663269,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 279840,
+      "num": 279840,
+      "word": "不良人",
+      "onboard_time": 1680748167,
+      "rank": 36,
+      "category": "动漫"
     },
     {
       "raw_hot": 279196,
@@ -6051,6 +6067,14 @@
       "category": "艺人,美妆"
     },
     {
+      "raw_hot": 234437,
+      "num": 234437,
+      "word": "这海豚嘴都亲秃噜皮了",
+      "onboard_time": 1680745349,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 233544,
       "num": 233544,
       "word": "KPOP女solo最快获得一位天数",
@@ -6257,14 +6281,6 @@
       "onboard_time": 1680415527,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 224324,
-      "num": 196925,
-      "word": "这海豚嘴都亲秃噜皮了",
-      "onboard_time": 1680745349,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 224276,
@@ -7667,6 +7683,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 197138,
+      "num": 197138,
+      "word": "京考",
+      "onboard_time": 1680748108,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
       "raw_hot": 197075,
       "num": 197075,
       "word": "WE对战TES",
@@ -7705,14 +7729,6 @@
       "onboard_time": 1680451114,
       "rank": 30,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 196495,
-      "num": 196495,
-      "word": "王一博电影人鱼预计今年7月开机",
-      "onboard_time": 1680747926,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 196467,
@@ -8579,14 +8595,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 180815,
-      "num": 180815,
-      "word": "不良人",
-      "onboard_time": 1680748167,
-      "rank": 36,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 180684,
       "num": 180684,
       "word": "金玟庭荧光粉帽造型",
@@ -9025,6 +9033,14 @@
       "onboard_time": 1680586587,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 168697,
+      "num": 168697,
+      "word": "半导体",
+      "onboard_time": 1680748407,
+      "rank": 35,
+      "category": "财经,科技"
     },
     {
       "raw_hot": 168611,
@@ -10579,6 +10595,14 @@
       "category": "作品衍生,动漫"
     },
     {
+      "raw_hot": 130582,
+      "num": 130582,
+      "word": "巧珍眼里没光了",
+      "onboard_time": 1680748767,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 130534,
       "num": 130534,
       "word": "小兔子在家干什么",
@@ -10809,14 +10833,6 @@
       "onboard_time": 1680424290,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 123232,
-      "num": 123232,
-      "word": "京考",
-      "onboard_time": 1680748108,
-      "rank": 42,
-      "category": "教育"
     },
     {
       "raw_hot": 122835,
@@ -11347,6 +11363,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 103299,
+      "num": 103299,
+      "word": "网红景点vs去了以后",
+      "onboard_time": 1680748827,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 102470,
       "num": 133131,
       "word": "黄山清明门票预约已满",
@@ -11361,6 +11385,14 @@
       "onboard_time": 1680249206,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 102414,
+      "num": 102414,
+      "word": "街道办回应敬老院工作人员殴打老人",
+      "onboard_time": 1680748648,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 102188,

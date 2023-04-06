@@ -1,10 +1,10 @@
 {
   "startTime": 1680712017153,
-  "endTime": 1680748300651,
+  "endTime": 1680748906850,
   "band_list": [
     {
       "raw_hot": 1989231,
-      "num": 417328,
+      "num": 424312,
       "word": "马克龙 黄渤",
       "onboard_time": 1680743188,
       "rank": 10,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1660057,
-      "num": 205024,
+      "num": 275275,
       "word": "范丞丞工作室认证蓝V",
       "onboard_time": 1680746547,
       "rank": 20,
@@ -67,6 +67,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1104655,
+      "num": 1104655,
+      "word": "极限挑战第九季官宣",
+      "onboard_time": 1680747627,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1037260,
       "num": 417231,
       "word": "贾静雯状态",
@@ -75,8 +83,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 954619,
-      "num": 954619,
+      "raw_hot": 955242,
+      "num": 955242,
       "word": "iPhone15将首次由印度参与首批供货",
       "onboard_time": 1680746608,
       "rank": 3,
@@ -105,6 +113,14 @@
       "onboard_time": 1680741092,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 891000,
+      "num": 269660,
+      "word": "苏炳添回应用iPhone14发微博",
+      "onboard_time": 1680747148,
+      "rank": 21,
+      "category": "体育,科技"
     },
     {
       "raw_hot": 850971,
@@ -163,14 +179,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 732230,
-      "num": 204128,
-      "word": "苏炳添回应用iPhone14发微博",
-      "onboard_time": 1680747148,
-      "rank": 21,
-      "category": "体育,科技"
-    },
-    {
       "raw_hot": 678332,
       "num": 325998,
       "word": "天海祐希",
@@ -188,11 +196,19 @@
     },
     {
       "raw_hot": 605153,
-      "num": 217380,
+      "num": 236143,
       "word": "TFBOYS前缀存档",
       "onboard_time": 1680703952,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 490201,
+      "num": 490201,
+      "word": "乘风4一公歌单",
+      "onboard_time": 1680745048,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 482557,
@@ -203,12 +219,12 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 470277,
-      "num": 470277,
-      "word": "乘风4一公歌单",
-      "onboard_time": 1680745048,
-      "rank": 30,
-      "category": "综艺"
+      "raw_hot": 466898,
+      "num": 266181,
+      "word": "老人2800卖老照片女生感动险上当",
+      "onboard_time": 1680747209,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 452588,
@@ -244,7 +260,7 @@
     },
     {
       "raw_hot": 415725,
-      "num": 203181,
+      "num": 254270,
       "word": "刘浩存模仿自己的表情包",
       "onboard_time": 1680746129,
       "rank": 22,
@@ -252,19 +268,11 @@
     },
     {
       "raw_hot": 415524,
-      "num": 201042,
+      "num": 260420,
       "word": "于正写藏头诗宣传白鹿新剧",
       "onboard_time": 1680746967,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 407121,
-      "num": 407121,
-      "word": "极限挑战第九季官宣",
-      "onboard_time": 1680747627,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 406970,
@@ -284,19 +292,11 @@
     },
     {
       "raw_hot": 388128,
-      "num": 202365,
+      "num": 252281,
       "word": "柳智敏金发",
       "onboard_time": 1680743728,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 359600,
-      "num": 200300,
-      "word": "老人2800卖老照片女生感动险上当",
-      "onboard_time": 1680747209,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 341223,
@@ -308,7 +308,7 @@
     },
     {
       "raw_hot": 337552,
-      "num": 215982,
+      "num": 241521,
       "word": "早期央视镜头下的迪丽热巴",
       "onboard_time": 1680707794,
       "rank": 22,
@@ -345,6 +345,14 @@
       "onboard_time": 1680708093,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 312631,
+      "num": 312631,
+      "word": "王一博电影人鱼预计今年7月开机",
+      "onboard_time": 1680747926,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 303753,
@@ -387,6 +395,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 279840,
+      "num": 279840,
+      "word": "不良人",
+      "onboard_time": 1680748167,
+      "rank": 36,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 260498,
       "num": 260498,
       "word": "长月烬明",
@@ -411,6 +427,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 234437,
+      "num": 234437,
+      "word": "这海豚嘴都亲秃噜皮了",
+      "onboard_time": 1680745349,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 232021,
       "num": 232021,
       "word": "马克龙远道而来这些细节值得关注",
@@ -425,14 +449,6 @@
       "onboard_time": 1680705154,
       "rank": 25,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 224324,
-      "num": 196925,
-      "word": "这海豚嘴都亲秃噜皮了",
-      "onboard_time": 1680745349,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 222150,
@@ -483,12 +499,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 196495,
-      "num": 196495,
-      "word": "王一博电影人鱼预计今年7月开机",
-      "onboard_time": 1680747926,
-      "rank": 32,
-      "category": "影视"
+      "raw_hot": 197138,
+      "num": 197138,
+      "word": "京考",
+      "onboard_time": 1680748108,
+      "rank": 42,
+      "category": "教育"
     },
     {
       "raw_hot": 194563,
@@ -539,20 +555,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 180815,
-      "num": 180815,
-      "word": "不良人",
-      "onboard_time": 1680748167,
-      "rank": 36,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 174836,
       "num": 174836,
       "word": "金智秀solo初一位",
       "onboard_time": 1680691891,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 168697,
+      "num": 168697,
+      "word": "半导体",
+      "onboard_time": 1680748407,
+      "rank": 35,
+      "category": "财经,科技"
     },
     {
       "raw_hot": 168429,
@@ -667,6 +683,14 @@
       "category": "作品衍生,动漫"
     },
     {
+      "raw_hot": 130582,
+      "num": 130582,
+      "word": "巧珍眼里没光了",
+      "onboard_time": 1680748767,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 129062,
       "num": 129062,
       "word": "CBA常规赛排名出炉",
@@ -689,14 +713,6 @@
       "onboard_time": 1680724511,
       "rank": 34,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 123232,
-      "num": 123232,
-      "word": "京考",
-      "onboard_time": 1680748108,
-      "rank": 42,
-      "category": "教育"
     },
     {
       "raw_hot": 121752,
@@ -779,12 +795,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 103299,
+      "num": 103299,
+      "word": "网红景点vs去了以后",
+      "onboard_time": 1680748827,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 103291,
       "num": 103291,
       "word": "孙怡卸妆式擦脸",
       "onboard_time": 1680699871,
       "rank": 37,
       "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 102414,
+      "num": 102414,
+      "word": "街道办回应敬老院工作人员殴打老人",
+      "onboard_time": 1680748648,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 94114,

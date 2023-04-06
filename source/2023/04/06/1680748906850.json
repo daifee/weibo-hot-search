@@ -1,0 +1,410 @@
+{
+  "runTime": 1680748906850,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1545722,
+        "num": 1545722,
+        "word": "广东已经迎来甲流新流行高峰",
+        "onboard_time": 1680742230,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1361045,
+        "num": 1361045,
+        "word": "加班文化为啥屡禁不止",
+        "onboard_time": 1680743610,
+        "rank": 1,
+        "category": "社会议题,财经"
+      },
+      {
+        "raw_hot": 14383,
+        "num": 1108665,
+        "word": "多希望你们看看山河无恙国泰民安",
+        "onboard_time": 1680665070,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1104655,
+        "num": 1104655,
+        "word": "极限挑战第九季官宣",
+        "onboard_time": 1680747627,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 955242,
+        "num": 955242,
+        "word": "iPhone15将首次由印度参与首批供货",
+        "onboard_time": 1680746608,
+        "rank": 4,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 729920,
+        "num": 729920,
+        "word": "恋爱一个月男朋友送我伞带",
+        "onboard_time": 1680704372,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 701415,
+        "num": 701415,
+        "word": "工资六千的岗位面试了6轮",
+        "onboard_time": 1680703530,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 616976,
+        "num": 616976,
+        "word": "蛋仔派对",
+        "onboard_time": 1680744089,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 490201,
+        "num": 490201,
+        "word": "乘风4一公歌单",
+        "onboard_time": 1680745048,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 434383,
+        "num": 434383,
+        "word": "重庆姐弟坠亡案今日二审",
+        "onboard_time": 1680745768,
+        "rank": 9,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1614964,
+        "num": 424312,
+        "word": "马克龙 黄渤",
+        "onboard_time": 1680743188,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1017562,
+        "num": 408959,
+        "word": "贾静雯状态",
+        "onboard_time": 1680744688,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 455095,
+        "num": 403751,
+        "word": "NINEPERCENT微博认证还没改",
+        "onboard_time": 1680744688,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 385421,
+        "num": 385421,
+        "word": "长月烬明终极预告",
+        "onboard_time": 1680745886,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 353850,
+        "num": 353850,
+        "word": "中方回应麦卡锡高调会见蔡英文",
+        "onboard_time": 1680740490,
+        "rank": 14,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 312631,
+        "num": 312631,
+        "word": "王一博电影人鱼预计今年7月开机",
+        "onboard_time": 1680747926,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 289974,
+        "num": 289974,
+        "word": "创造营2019开播四周年",
+        "onboard_time": 1680744749,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286276,
+        "num": 286276,
+        "word": "请假了一天的工位",
+        "onboard_time": 1680697951,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 285736,
+        "num": 285736,
+        "word": "女子打人被拘期满后在线怼网友",
+        "onboard_time": 1680738927,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279840,
+        "num": 279840,
+        "word": "不良人",
+        "onboard_time": 1680748167,
+        "rank": 19,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 1508485,
+        "num": 275275,
+        "word": "范丞丞工作室认证蓝V",
+        "onboard_time": 1680746547,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 891000,
+        "num": 269660,
+        "word": "苏炳添回应用iPhone14发微博",
+        "onboard_time": 1680747148,
+        "rank": 21,
+        "category": "体育,科技"
+      },
+      {
+        "raw_hot": 466898,
+        "num": 266181,
+        "word": "老人2800卖老照片女生感动险上当",
+        "onboard_time": 1680747209,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 406676,
+        "num": 260420,
+        "word": "于正写藏头诗宣传白鹿新剧",
+        "onboard_time": 1680746967,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 386127,
+        "num": 254270,
+        "word": "刘浩存模仿自己的表情包",
+        "onboard_time": 1680746129,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 252281,
+        "num": 252281,
+        "word": "柳智敏金发",
+        "onboard_time": 1680743728,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 241521,
+        "num": 241521,
+        "word": "早期央视镜头下的迪丽热巴",
+        "onboard_time": 1680707794,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236143,
+        "num": 236143,
+        "word": "TFBOYS前缀存档",
+        "onboard_time": 1680703952,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234437,
+        "num": 234437,
+        "word": "这海豚嘴都亲秃噜皮了",
+        "onboard_time": 1680745349,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 218672,
+        "num": 218672,
+        "word": "四川警方通报学生寝室内死亡",
+        "onboard_time": 1680696091,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 554998,
+        "num": 209646,
+        "word": "马嘉祺丁程鑫暂停一期外务录制",
+        "onboard_time": 1680741092,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222237,
+        "num": 209041,
+        "word": "小鬼 余佳运",
+        "onboard_time": 1680699394,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 197138,
+        "num": 197138,
+        "word": "京考",
+        "onboard_time": 1680748108,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 174768,
+        "num": 174768,
+        "word": "天海祐希",
+        "onboard_time": 1680706593,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171831,
+        "num": 171831,
+        "word": "姐弟坠亡案生母称忏悔信非生父所写",
+        "onboard_time": 1680727632,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168697,
+        "num": 168697,
+        "word": "半导体",
+        "onboard_time": 1680748407,
+        "rank": 35,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 167235,
+        "num": 167235,
+        "word": "于文文声生不息曹操预告",
+        "onboard_time": 1680744627,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163190,
+        "num": 163190,
+        "word": "爸爸手绘600张图给儿子讲古建筑",
+        "onboard_time": 1680746427,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156170,
+        "num": 156170,
+        "word": "他这个钱赚得我是不眼红的",
+        "onboard_time": 1680705694,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 151827,
+        "num": 151827,
+        "word": "郭德纲意外收到已故京剧老人的礼物",
+        "onboard_time": 1680697351,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148495,
+        "num": 148495,
+        "word": "今天是秀粉的纪念日",
+        "onboard_time": 1680744806,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 146576,
+        "num": 146576,
+        "word": "为什么说总要去一次上海",
+        "onboard_time": 1680739170,
+        "rank": 41,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 139407,
+        "num": 139407,
+        "word": "巩俐夫妇",
+        "onboard_time": 1680700653,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130582,
+        "num": 130582,
+        "word": "巧珍眼里没光了",
+        "onboard_time": 1680748767,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 118438,
+        "num": 118438,
+        "word": "空气炸锅还有多少惊喜是我不知道的",
+        "onboard_time": 1680708752,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 114786,
+        "num": 114786,
+        "word": "巴萨0比4皇马",
+        "onboard_time": 1680736101,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112887,
+        "num": 112887,
+        "word": "剪指甲最好剪成方形的",
+        "onboard_time": 1680691830,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 103299,
+        "num": 103299,
+        "word": "网红景点vs去了以后",
+        "onboard_time": 1680748827,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 102916,
+        "num": 102916,
+        "word": "特朗普若定罪也不用被监禁",
+        "onboard_time": 1680716895,
+        "rank": 48,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 102414,
+        "num": 102414,
+        "word": "街道办回应敬老院工作人员殴打老人",
+        "onboard_time": 1680748648,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#为什么和平年代同样需要英雄情怀#"
+    }
+  }
+}
