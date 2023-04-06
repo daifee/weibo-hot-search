@@ -1,6 +1,6 @@
 {
   "startTime": 1680712017153,
-  "endTime": 1680780808184,
+  "endTime": 1680784373459,
   "band_list": [
     {
       "raw_hot": 4573993,
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1985281,
+      "num": 1985281,
+      "word": "徐州烧烤",
+      "onboard_time": 1680777930,
+      "rank": 19,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1959867,
       "num": 197609,
       "word": "电科",
@@ -139,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1551372,
+      "num": 1551372,
+      "word": "长月烬明配音对不上口型",
+      "onboard_time": 1680779250,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1548650,
       "num": 235151,
       "word": "官方回应网传张家界天门山多人跳崖自杀",
@@ -168,6 +184,14 @@
       "word": "鹿晗 广海",
       "onboard_time": 1680771330,
       "rank": 1,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1284035,
+      "num": 1284035,
+      "word": "in了",
+      "onboard_time": 1680779911,
+      "rank": 13,
       "category": "艺人"
     },
     {
@@ -227,14 +251,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1027399,
-      "num": 1027399,
-      "word": "长月烬明配音对不上口型",
-      "onboard_time": 1680779250,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1012753,
       "num": 1012753,
       "word": "女子拒绝公司查看手机被无偿辞退",
@@ -257,6 +273,14 @@
       "onboard_time": 1680752668,
       "rank": 7,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 931497,
+      "num": 931497,
+      "word": "工作4年就诊了50次",
+      "onboard_time": 1680782067,
+      "rank": 6,
+      "category": "情感"
     },
     {
       "raw_hot": 924951,
@@ -297,14 +321,6 @@
       "onboard_time": 1680752367,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 851817,
-      "num": 851817,
-      "word": "徐州烧烤",
-      "onboard_time": 1680777930,
-      "rank": 19,
-      "category": "美食"
     },
     {
       "raw_hot": 850971,
@@ -377,6 +393,22 @@
       "onboard_time": 1680683010,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 784002,
+      "num": 784002,
+      "word": "白鹿演技",
+      "onboard_time": 1680779969,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 783935,
+      "num": 783935,
+      "word": "嘴大 冯晓彤",
+      "onboard_time": 1680782971,
+      "rank": 8,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 771505,
@@ -459,19 +491,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 665926,
+      "num": 665926,
+      "word": "古偶魔尊天花板",
+      "onboard_time": 1680780629,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 660148,
       "num": 394690,
       "word": "李现的眉骨",
       "onboard_time": 1680760170,
       "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 637349,
-      "num": 637349,
-      "word": "in了",
-      "onboard_time": 1680779911,
-      "rank": 13,
       "category": "艺人"
     },
     {
@@ -507,6 +539,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 611785,
+      "num": 352292,
+      "word": "痛经的人有福了",
+      "onboard_time": 1680781528,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 608091,
+      "num": 608091,
+      "word": "国内新恋综游戏尺度",
+      "onboard_time": 1680781409,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 605153,
       "num": 236143,
       "word": "TFBOYS前缀存档",
@@ -531,18 +579,18 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 540162,
-      "num": 540162,
-      "word": "泰坦尼克号女主参演阿凡达2",
-      "onboard_time": 1680769710,
+      "raw_hot": 543070,
+      "num": 543070,
+      "word": "长月烬明开播观后感",
+      "onboard_time": 1680779369,
       "rank": 32,
       "category": "影视"
     },
     {
-      "raw_hot": 531511,
-      "num": 531511,
-      "word": "长月烬明开播观后感",
-      "onboard_time": 1680779369,
+      "raw_hot": 540162,
+      "num": 540162,
+      "word": "泰坦尼克号女主参演阿凡达2",
+      "onboard_time": 1680769710,
       "rank": 32,
       "category": "影视"
     },
@@ -564,7 +612,7 @@
     },
     {
       "raw_hot": 522177,
-      "num": 320391,
+      "num": 350081,
       "word": "刘亦菲托腮自拍",
       "onboard_time": 1680778289,
       "rank": 20,
@@ -771,6 +819,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 393327,
+      "num": 393327,
+      "word": "咸蛋黄月亮",
+      "onboard_time": 1680782009,
+      "rank": 16,
+      "category": "自然"
+    },
+    {
       "raw_hot": 388128,
       "num": 252281,
       "word": "柳智敏金发",
@@ -824,14 +880,6 @@
       "word": "定妆照诈骗",
       "onboard_time": 1680766708,
       "rank": 22,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 354943,
-      "num": 308484,
-      "word": "白鹿演技",
-      "onboard_time": 1680779969,
-      "rank": 25,
       "category": "影视"
     },
     {
@@ -955,6 +1003,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 304467,
+      "num": 378054,
+      "word": "下班该不该回领导信息",
+      "onboard_time": 1680782311,
+      "rank": 18,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 303753,
       "num": 303753,
       "word": "特朗普若定罪也不用被监禁",
@@ -995,6 +1051,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 285661,
+      "num": 279723,
+      "word": "声生不息",
+      "onboard_time": 1680782487,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 283413,
       "num": 423397,
       "word": "小米13Ultra",
@@ -1011,6 +1075,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 280998,
+      "num": 1115359,
+      "word": "扭扭车男孩张亮走了16米",
+      "onboard_time": 1680779849,
+      "rank": 4,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 280689,
       "num": 215097,
       "word": "空气炸锅还有多少惊喜是我不知道的",
@@ -1025,6 +1097,14 @@
       "onboard_time": 1680739170,
       "rank": 24,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 280247,
+      "num": 280247,
+      "word": "辽宁大连3.2级地震",
+      "onboard_time": 1680782189,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 279640,
@@ -1179,14 +1259,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 236462,
-      "num": 1115359,
-      "word": "扭扭车男孩张亮走了16米",
-      "onboard_time": 1680779849,
-      "rank": 4,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 235691,
       "num": 232930,
       "word": "五哈",
@@ -1201,6 +1273,14 @@
       "onboard_time": 1680745349,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 233635,
+      "num": 222385,
+      "word": "马嘉祺版本的在水一方",
+      "onboard_time": 1680783088,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 232021,
@@ -1241,6 +1321,14 @@
       "onboard_time": 1680765567,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 223988,
+      "num": 223988,
+      "word": "目前本人的财务状况",
+      "onboard_time": 1680783271,
+      "rank": 29,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 222150,
@@ -1355,6 +1443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205813,
+      "num": 205813,
+      "word": "长月烬明 滤镜",
+      "onboard_time": 1680779670,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 204945,
       "num": 204945,
       "word": "邓为古装扮相",
@@ -1411,6 +1507,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 201032,
+      "num": 195093,
+      "word": "魏如萱周菲戈唱再见我的爱人",
+      "onboard_time": 1680783271,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199996,
       "num": 199996,
       "word": "薛之谦济南演唱会抢票",
@@ -1448,6 +1552,14 @@
       "word": "全国校园音乐大赛音乐合伙人官宣",
       "onboard_time": 1680750328,
       "rank": 39,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 195076,
+      "num": 195076,
+      "word": "张信哲唱孙燕姿的雨天",
+      "onboard_time": 1680783991,
+      "rank": 36,
       "category": "音乐"
     },
     {
@@ -1771,6 +1883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 162171,
+      "num": 162171,
+      "word": "EXO见面会练习室花絮",
+      "onboard_time": 1680781828,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 160864,
       "num": 160864,
       "word": "影视作品中值得尊敬的职业形象",
@@ -1793,14 +1913,6 @@
       "onboard_time": 1680742650,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 154239,
-      "num": 154239,
-      "word": "古偶魔尊天花板",
-      "onboard_time": 1680780629,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 154214,
@@ -1865,6 +1977,14 @@
       "onboard_time": 1680699213,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 146229,
+      "num": 146229,
+      "word": "声生不息把李玟怒斥好声音剪进正片",
+      "onboard_time": 1680784351,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 146204,
@@ -2137,6 +2257,14 @@
       "onboard_time": 1680752308,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 101095,
+      "num": 101095,
+      "word": "固定工位未来会不会消失",
+      "onboard_time": 1680784291,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 97340,

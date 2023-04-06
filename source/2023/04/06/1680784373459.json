@@ -1,0 +1,410 @@
+{
+  "runTime": 1680784373459,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1985281,
+        "num": 1985281,
+        "word": "徐州烧烤",
+        "onboard_time": 1680777930,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1551372,
+        "num": 1551372,
+        "word": "长月烬明配音对不上口型",
+        "onboard_time": 1680779250,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 7742,
+        "num": 1354508,
+        "word": "卫星视角下的祖国大地春意盎然",
+        "onboard_time": 1680752308,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1284035,
+        "num": 1284035,
+        "word": "in了",
+        "onboard_time": 1680779911,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1116691,
+        "num": 1116691,
+        "word": "为i做e",
+        "onboard_time": 1680767788,
+        "rank": 4,
+        "category": "情感,作品衍生"
+      },
+      {
+        "raw_hot": 1900946,
+        "num": 1091960,
+        "word": "女子实名举报父亲受贿1900万元",
+        "onboard_time": 1680774928,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 931497,
+        "num": 931497,
+        "word": "工作4年就诊了50次",
+        "onboard_time": 1680782067,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 784002,
+        "num": 784002,
+        "word": "白鹿演技",
+        "onboard_time": 1680779969,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 783935,
+        "num": 783935,
+        "word": "嘴大 冯晓彤",
+        "onboard_time": 1680782971,
+        "rank": 8,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 775122,
+        "num": 775122,
+        "word": "美国男子承认掰断并偷走兵马俑手指",
+        "onboard_time": 1680773129,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 665926,
+        "num": 665926,
+        "word": "古偶魔尊天花板",
+        "onboard_time": 1680780629,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 608091,
+        "num": 608091,
+        "word": "国内新恋综游戏尺度",
+        "onboard_time": 1680781409,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 543070,
+        "num": 543070,
+        "word": "长月烬明开播观后感",
+        "onboard_time": 1680779369,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 540694,
+        "num": 540694,
+        "word": "鹿晗 广海",
+        "onboard_time": 1680771330,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 450641,
+        "num": 450641,
+        "word": "张译曾说刘浩存像他的一只猫",
+        "onboard_time": 1680766889,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 433686,
+        "num": 433686,
+        "word": "内娱天选神女",
+        "onboard_time": 1680768331,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 393327,
+        "num": 393327,
+        "word": "咸蛋黄月亮",
+        "onboard_time": 1680782009,
+        "rank": 16,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 482211,
+        "num": 385375,
+        "word": "朱一龙易烊千玺 合作",
+        "onboard_time": 1680775291,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 304467,
+        "num": 378054,
+        "word": "下班该不该回领导信息",
+        "onboard_time": 1680782311,
+        "rank": 18,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 280998,
+        "num": 369853,
+        "word": "扭扭车男孩张亮走了16米",
+        "onboard_time": 1680779849,
+        "rank": 19,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 611785,
+        "num": 352292,
+        "word": "痛经的人有福了",
+        "onboard_time": 1680781528,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 350081,
+        "num": 350081,
+        "word": "刘亦菲托腮自拍",
+        "onboard_time": 1680778289,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 323590,
+        "num": 323590,
+        "word": "接下来4个月都有10天假期",
+        "onboard_time": 1680769650,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 300263,
+        "num": 300263,
+        "word": "长月烬明",
+        "onboard_time": 1680767908,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 280247,
+        "num": 280247,
+        "word": "辽宁大连3.2级地震",
+        "onboard_time": 1680782189,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285661,
+        "num": 279723,
+        "word": "声生不息",
+        "onboard_time": 1680782487,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 285208,
+        "num": 278585,
+        "word": "秦昊回复伊能静刷我滴卡",
+        "onboard_time": 1680767128,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276555,
+        "num": 276555,
+        "word": "孙策胸肌",
+        "onboard_time": 1680771211,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 251904,
+        "num": 251904,
+        "word": "五十公里桃花坞",
+        "onboard_time": 1680777570,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223988,
+        "num": 223988,
+        "word": "目前本人的财务状况",
+        "onboard_time": 1680783271,
+        "rank": 29,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 233635,
+        "num": 222385,
+        "word": "马嘉祺版本的在水一方",
+        "onboard_time": 1680783088,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38856,
+        "num": 213543,
+        "word": "加快数字中国建设",
+        "onboard_time": 1680768331,
+        "rank": 31,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 205813,
+        "num": 205813,
+        "word": "长月烬明 滤镜",
+        "onboard_time": 1680779670,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 192836,
+        "num": 195732,
+        "word": "法院认定谢娜张杰购房不存在跳单",
+        "onboard_time": 1680752668,
+        "rank": 33,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 195107,
+        "num": 195107,
+        "word": "马克龙访华",
+        "onboard_time": 1680768449,
+        "rank": 34,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 201032,
+        "num": 195093,
+        "word": "魏如萱周菲戈唱再见我的爱人",
+        "onboard_time": 1680783271,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195076,
+        "num": 195076,
+        "word": "张信哲唱孙燕姿的雨天",
+        "onboard_time": 1680783991,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 184359,
+        "num": 184359,
+        "word": "北京草莓音乐节阵容公布",
+        "onboard_time": 1680774450,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 162171,
+        "num": 162171,
+        "word": "EXO见面会练习室花絮",
+        "onboard_time": 1680781828,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158066,
+        "num": 158066,
+        "word": "EDG对战OMG",
+        "onboard_time": 1680775111,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 162012,
+        "num": 156353,
+        "word": "IU成韩国片酬最高女演员",
+        "onboard_time": 1680773430,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152954,
+        "num": 152954,
+        "word": "才知道除了月经还有季经",
+        "onboard_time": 1680758490,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 148506,
+        "num": 148506,
+        "word": "IVE换官方队形",
+        "onboard_time": 1680779190,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146988,
+        "num": 146988,
+        "word": "周雨彤18岁到28岁颜值变化",
+        "onboard_time": 1680767369,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 146229,
+        "num": 146229,
+        "word": "声生不息把李玟怒斥好声音剪进正片",
+        "onboard_time": 1680784351,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130896,
+        "num": 130896,
+        "word": "女子拒绝公司查看手机被无偿辞退",
+        "onboard_time": 1680768089,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130487,
+        "num": 130487,
+        "word": "这个周四太幸福了",
+        "onboard_time": 1680761188,
+        "rank": 46,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 123786,
+        "num": 123786,
+        "word": "RA",
+        "onboard_time": 1680780092,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 115107,
+        "num": 115107,
+        "word": "infp",
+        "onboard_time": 1680770791,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 101095,
+        "num": 101095,
+        "word": "固定工位未来会不会消失",
+        "onboard_time": 1680784291,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#我国经济发展实现较好开局#"
+    }
+  }
+}

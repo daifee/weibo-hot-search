@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680780808184,
+  "endTime": 1680784373459,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -587,6 +587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1985281,
+      "num": 1985281,
+      "word": "徐州烧烤",
+      "onboard_time": 1680777930,
+      "rank": 19,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1979853,
       "num": 1979853,
       "word": "律师称若爆料属实张继科或涉多项违法",
@@ -787,6 +795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1551372,
+      "num": 1551372,
+      "word": "长月烬明配音对不上口型",
+      "onboard_time": 1680779250,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1548650,
       "num": 235151,
       "word": "官方回应网传张家界天门山多人跳崖自杀",
@@ -985,6 +1001,14 @@
       "onboard_time": 1680499952,
       "rank": 49,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1284035,
+      "num": 1284035,
+      "word": "in了",
+      "onboard_time": 1680779911,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 1278579,
@@ -1259,14 +1283,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1027399,
-      "num": 1027399,
-      "word": "长月烬明配音对不上口型",
-      "onboard_time": 1680779250,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1017908,
       "num": 1017908,
       "word": "姐弟坠亡案母亲称绝不放过叶诚尘",
@@ -1441,6 +1457,14 @@
       "onboard_time": 1680517474,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 931497,
+      "num": 931497,
+      "word": "工作4年就诊了50次",
+      "onboard_time": 1680782067,
+      "rank": 6,
+      "category": "情感"
     },
     {
       "raw_hot": 925827,
@@ -1659,14 +1683,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 851817,
-      "num": 851817,
-      "word": "徐州烧烤",
-      "onboard_time": 1680777930,
-      "rank": 19,
-      "category": "美食"
-    },
-    {
       "raw_hot": 850971,
       "num": 850971,
       "word": "蛋仔派对",
@@ -1881,6 +1897,22 @@
       "onboard_time": 1680438688,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 784002,
+      "num": 784002,
+      "word": "白鹿演技",
+      "onboard_time": 1680779969,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 783935,
+      "num": 783935,
+      "word": "嘴大 冯晓彤",
+      "onboard_time": 1680782971,
+      "rank": 8,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 779318,
@@ -2347,6 +2379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 665926,
+      "num": 665926,
+      "word": "古偶魔尊天花板",
+      "onboard_time": 1680780629,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 665757,
       "num": 665757,
       "word": "女子称使用化妆品后流产",
@@ -2473,14 +2513,6 @@
       "onboard_time": 1680485668,
       "rank": 14,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 637349,
-      "num": 637349,
-      "word": "in了",
-      "onboard_time": 1680779911,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 636812,
@@ -2635,6 +2667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 611785,
+      "num": 352292,
+      "word": "痛经的人有福了",
+      "onboard_time": 1680781528,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 611755,
       "num": 611755,
       "word": "教育局回应女孩自述曾遭校园霸凌",
@@ -2656,6 +2696,14 @@
       "word": "Amber 排名",
       "onboard_time": 1680593311,
       "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 608091,
+      "num": 608091,
+      "word": "国内新恋综游戏尺度",
+      "onboard_time": 1680781409,
+      "rank": 11,
       "category": "综艺"
     },
     {
@@ -2979,6 +3027,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 543070,
+      "num": 543070,
+      "word": "长月烬明开播观后感",
+      "onboard_time": 1680779369,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 542277,
       "num": 542277,
       "word": "林高远 德班",
@@ -3083,14 +3139,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 531511,
-      "num": 531511,
-      "word": "长月烬明开播观后感",
-      "onboard_time": 1680779369,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 530924,
       "num": 530924,
       "word": "yskm",
@@ -3164,7 +3212,7 @@
     },
     {
       "raw_hot": 522177,
-      "num": 320391,
+      "num": 350081,
       "word": "刘亦菲托腮自拍",
       "onboard_time": 1680778289,
       "rank": 20,
@@ -4363,6 +4411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 393327,
+      "num": 393327,
+      "word": "咸蛋黄月亮",
+      "onboard_time": 1680782009,
+      "rank": 16,
+      "category": "自然"
+    },
+    {
       "raw_hot": 392831,
       "num": 392831,
       "word": "医院手推床轮子脱落孕妇摔下床",
@@ -4729,14 +4785,6 @@
       "onboard_time": 1680450273,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 354943,
-      "num": 308484,
-      "word": "白鹿演技",
-      "onboard_time": 1680779969,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 354334,
@@ -5411,6 +5459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 304467,
+      "num": 378054,
+      "word": "下班该不该回领导信息",
+      "onboard_time": 1680782311,
+      "rank": 18,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 304449,
       "num": 304449,
       "word": "特朗普出庭画面曝光",
@@ -5707,6 +5763,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 285661,
+      "num": 279723,
+      "word": "声生不息",
+      "onboard_time": 1680782487,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 285224,
       "num": 243670,
       "word": "张小斐的锁骨痣",
@@ -5779,6 +5843,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 280998,
+      "num": 1115359,
+      "word": "扭扭车男孩张亮走了16米",
+      "onboard_time": 1680779849,
+      "rank": 4,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 280919,
       "num": 280919,
       "word": "谭松韵叫秦岚大狗子",
@@ -5809,6 +5881,14 @@
       "onboard_time": 1680314307,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 280247,
+      "num": 280247,
+      "word": "辽宁大连3.2级地震",
+      "onboard_time": 1680782189,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 280083,
@@ -6803,14 +6883,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 236462,
-      "num": 1115359,
-      "word": "扭扭车男孩张亮走了16米",
-      "onboard_time": 1680779849,
-      "rank": 4,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 236456,
       "num": 236456,
       "word": "卡位赛",
@@ -6841,6 +6913,14 @@
       "onboard_time": 1680745349,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 233635,
+      "num": 222385,
+      "word": "马嘉祺版本的在水一方",
+      "onboard_time": 1680783088,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 233544,
@@ -7089,6 +7169,14 @@
       "onboard_time": 1680501091,
       "rank": 34,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 223988,
+      "num": 223988,
+      "word": "目前本人的财务状况",
+      "onboard_time": 1680783271,
+      "rank": 29,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 223442,
@@ -7843,6 +7931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205813,
+      "num": 205813,
+      "word": "长月烬明 滤镜",
+      "onboard_time": 1680779670,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 205594,
       "num": 205594,
       "word": "沉舟",
@@ -8315,6 +8411,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 201032,
+      "num": 195093,
+      "word": "魏如萱周菲戈唱再见我的爱人",
+      "onboard_time": 1680783271,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200947,
       "num": 200947,
       "word": "敖瑞鹏首登时尚芭莎",
@@ -8745,6 +8849,14 @@
       "onboard_time": 1680654266,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 195076,
+      "num": 195076,
+      "word": "张信哲唱孙燕姿的雨天",
+      "onboard_time": 1680783991,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 194909,
@@ -10491,6 +10603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 162171,
+      "num": 162171,
+      "word": "EXO见面会练习室花絮",
+      "onboard_time": 1680781828,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 161522,
       "num": 189713,
       "word": "清明一天走过七座城",
@@ -10809,14 +10929,6 @@
       "onboard_time": 1680656851,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 154239,
-      "num": 154239,
-      "word": "古偶魔尊天花板",
-      "onboard_time": 1680780629,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 154214,
@@ -11193,6 +11305,14 @@
       "onboard_time": 1680671492,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146229,
+      "num": 146229,
+      "word": "声生不息把李玟怒斥好声音剪进正片",
+      "onboard_time": 1680784351,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 146204,
@@ -12719,6 +12839,14 @@
       "num": 116282,
       "word": "画手用镜子作画与古迹完美重合",
       "onboard_time": 1680353009,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 101095,
+      "num": 101095,
+      "word": "固定工位未来会不会消失",
+      "onboard_time": 1680784291,
       "rank": 49,
       "category": "社会新闻"
     },
