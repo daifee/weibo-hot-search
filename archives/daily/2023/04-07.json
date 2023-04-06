@@ -1,6 +1,6 @@
 {
   "startTime": 1680798149468,
-  "endTime": 1680820399715,
+  "endTime": 1680823020912,
   "band_list": [
     {
       "raw_hot": 1289711,
@@ -17,6 +17,14 @@
       "onboard_time": 1680792692,
       "rank": 5,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1145268,
+      "num": 1145268,
+      "word": "翟欣欣",
+      "onboard_time": 1680817992,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1024576,
@@ -99,6 +107,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 376808,
+      "num": 376808,
+      "word": "美国男子承认掰断并偷走兵马俑手指",
+      "onboard_time": 1680773129,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 353760,
+      "num": 353760,
+      "word": "中电科称网上的任免文件明显伪造",
+      "onboard_time": 1680788492,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 335360,
       "num": 335360,
       "word": "指望中国在台湾问题妥协退让是痴心妄想",
@@ -121,14 +145,6 @@
       "onboard_time": 1680779969,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 308709,
-      "num": 308709,
-      "word": "翟欣欣",
-      "onboard_time": 1680817992,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 308269,
@@ -163,6 +179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 262287,
+      "num": 262287,
+      "word": "接下来4个月都有10天假期",
+      "onboard_time": 1680769650,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 260054,
       "num": 260054,
       "word": "五月天北京演唱会",
@@ -187,19 +211,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 217012,
+      "num": 217012,
+      "word": "85花早期古装剧无滤镜剧照",
+      "onboard_time": 1680785129,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 209246,
       "num": 209246,
       "word": "女书",
       "onboard_time": 1680797066,
       "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 202212,
-      "num": 232563,
-      "word": "中电科称网上的任免文件明显伪造",
-      "onboard_time": 1680788492,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -235,20 +259,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 173685,
-      "num": 173685,
-      "word": "美国男子承认掰断并偷走兵马俑手指",
-      "onboard_time": 1680773129,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 173369,
-      "num": 173369,
-      "word": "接下来4个月都有10天假期",
-      "onboard_time": 1680769650,
-      "rank": 26,
-      "category": "情感"
+      "raw_hot": 172203,
+      "num": 148465,
+      "word": "当有身高差的人穿上青蛙服",
+      "onboard_time": 1680791614,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 170381,
@@ -283,20 +299,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 148465,
-      "num": 148465,
-      "word": "当有身高差的人穿上青蛙服",
-      "onboard_time": 1680791614,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 148291,
       "num": 148291,
       "word": "孙策胸肌",
       "onboard_time": 1680771211,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 147947,
+      "num": 99470,
+      "word": "中国电科下属单位已就网传不实信息报案",
+      "onboard_time": 1680822739,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142649,
@@ -339,12 +355,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 122394,
+      "num": 122394,
+      "word": "原来中国古代也有十二星座",
+      "onboard_time": 1680812651,
+      "rank": 41,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 116424,
       "num": 116424,
       "word": "大家去长沙不会都是为了吃吧",
       "onboard_time": 1680786153,
       "rank": 41,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 109707,
+      "num": 109707,
+      "word": "目前本人的财务状况",
+      "onboard_time": 1680783271,
+      "rank": 44,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 108591,
@@ -371,20 +403,28 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 103791,
-      "num": 103791,
-      "word": "目前本人的财务状况",
-      "onboard_time": 1680783271,
-      "rank": 44,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 102399,
       "num": 102399,
       "word": "爱情而已明晚直通大结局",
       "onboard_time": 1680789873,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 100313,
+      "num": 100313,
+      "word": "穗禾成了润玉的手下",
+      "onboard_time": 1680785493,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 95406,
+      "num": 95406,
+      "word": "女子被父母强制考公5年患精神分裂",
+      "onboard_time": 1680822560,
+      "rank": 32,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 92456,
@@ -411,6 +451,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 80868,
+      "num": 80868,
+      "word": "速8酒店回应不退顾客200押金",
+      "onboard_time": 1680822922,
+      "rank": 37,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 77750,
       "num": 77750,
       "word": "陈小纭说和彭冠英第一次见面是在厕所",
@@ -419,12 +467,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 67900,
-      "num": 67900,
-      "word": "原来中国古代也有十二星座",
-      "onboard_time": 1680812651,
+      "raw_hot": 64206,
+      "num": 64206,
+      "word": "巧珍开面馆",
+      "onboard_time": 1680821297,
       "rank": 41,
-      "category": "情感,网红"
+      "category": "影视"
     },
     {
       "raw_hot": 35859,
@@ -443,15 +491,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 16153,
-      "num": 16153,
-      "word": "穗禾成了润玉的手下",
-      "onboard_time": 1680785493,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 6430,
+      "raw_hot": 10773,
       "num": 678044,
       "word": "卫星视角下的祖国大地春意盎然",
       "onboard_time": 1680752308,
