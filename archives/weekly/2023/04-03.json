@@ -1,6 +1,6 @@
 {
   "startTime": 1680452464197,
-  "endTime": 1680794155768,
+  "endTime": 1680795221309,
   "band_list": [
     {
       "raw_hot": 9506486,
@@ -2587,6 +2587,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 513451,
+      "num": 513451,
+      "word": "北飘7年的房租",
+      "onboard_time": 1680791193,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 513431,
       "num": 513431,
       "word": "野猪一家团综",
@@ -3059,16 +3067,8 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 432472,
-      "num": 432472,
-      "word": "北飘7年的房租",
-      "onboard_time": 1680791193,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 432190,
-      "num": 432190,
+      "raw_hot": 434474,
+      "num": 434474,
       "word": "代号鸢",
       "onboard_time": 1680603930,
       "rank": 31,
@@ -3547,6 +3547,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 379211,
+      "num": 330638,
+      "word": "张小斐蓝裙子直播状态",
+      "onboard_time": 1680792933,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 378902,
       "num": 378902,
       "word": "招惹",
@@ -3937,14 +3945,6 @@
       "onboard_time": 1680701912,
       "rank": 37,
       "category": "美食"
-    },
-    {
-      "raw_hot": 330638,
-      "num": 330638,
-      "word": "张小斐蓝裙子直播状态",
-      "onboard_time": 1680792933,
-      "rank": 21,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 329882,
@@ -5387,6 +5387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 223375,
+      "num": 223375,
+      "word": "杨紫琼获戛纳电影节跃动她影奖",
+      "onboard_time": 1680793593,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 223238,
       "num": 223238,
       "word": "和去世亲人说的最后一句话",
@@ -6403,14 +6411,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 198481,
-      "num": 198481,
-      "word": "杨紫琼获戛纳电影节跃动她影奖",
-      "onboard_time": 1680793593,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 198276,
       "num": 198276,
       "word": "Hero誓约首战首胜",
@@ -6843,6 +6843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189552,
+      "num": 189552,
+      "word": "这狗子咋跟条毯子似的",
+      "onboard_time": 1680792633,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 189495,
       "num": 189495,
       "word": "官方辟谣泰勒来成都开演唱会",
@@ -7177,14 +7185,6 @@
       "onboard_time": 1680535474,
       "rank": 36,
       "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 181489,
-      "num": 181489,
-      "word": "这狗子咋跟条毯子似的",
-      "onboard_time": 1680792633,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 181429,
@@ -8929,6 +8929,14 @@
       "onboard_time": 1680437187,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 107653,
+      "num": 107653,
+      "word": "邓佳鑫日常vlog",
+      "onboard_time": 1680795030,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 107343,

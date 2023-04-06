@@ -1,6 +1,6 @@
 {
   "startTime": 1680712017153,
-  "endTime": 1680794155768,
+  "endTime": 1680795221309,
   "band_list": [
     {
       "raw_hot": 4573993,
@@ -739,6 +739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 513451,
+      "num": 513451,
+      "word": "北飘7年的房租",
+      "onboard_time": 1680791193,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 513431,
       "num": 513431,
       "word": "野猪一家团综",
@@ -859,16 +867,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 432472,
-      "num": 432472,
-      "word": "北飘7年的房租",
-      "onboard_time": 1680791193,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 432190,
-      "num": 432190,
+      "raw_hot": 434474,
+      "num": 434474,
       "word": "代号鸢",
       "onboard_time": 1680792692,
       "rank": 17,
@@ -1027,6 +1027,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 379211,
+      "num": 330638,
+      "word": "张小斐蓝裙子直播状态",
+      "onboard_time": 1680792933,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 375457,
       "num": 283214,
       "word": "我们都应该对月经羞耻说不",
@@ -1129,14 +1137,6 @@
       "onboard_time": 1680696271,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 330638,
-      "num": 330638,
-      "word": "张小斐蓝裙子直播状态",
-      "onboard_time": 1680792933,
-      "rank": 21,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 321688,
@@ -1571,6 +1571,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 223375,
+      "num": 223375,
+      "word": "杨紫琼获戛纳电影节跃动她影奖",
+      "onboard_time": 1680793593,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 223133,
       "num": 223133,
       "word": "爱情而已明晚直通大结局",
@@ -1827,14 +1835,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 198481,
-      "num": 198481,
-      "word": "杨紫琼获戛纳电影节跃动她影奖",
-      "onboard_time": 1680793593,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 197216,
       "num": 197216,
       "word": "于文文曹操吉他solo",
@@ -1953,6 +1953,14 @@
       "onboard_time": 1680778589,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 189552,
+      "num": 189552,
+      "word": "这狗子咋跟条毯子似的",
+      "onboard_time": 1680792633,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 189072,
@@ -2081,14 +2089,6 @@
       "onboard_time": 1680773371,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 181489,
-      "num": 181489,
-      "word": "这狗子咋跟条毯子似的",
-      "onboard_time": 1680792633,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 180973,
@@ -2601,6 +2601,14 @@
       "onboard_time": 1680676348,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 107653,
+      "num": 107653,
+      "word": "邓佳鑫日常vlog",
+      "onboard_time": 1680795030,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 107459,
