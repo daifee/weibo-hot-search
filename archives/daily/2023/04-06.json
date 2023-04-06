@@ -1,6 +1,6 @@
 {
   "startTime": 1680712017153,
-  "endTime": 1680758152784,
+  "endTime": 1680759209611,
   "band_list": [
     {
       "raw_hot": 4573993,
@@ -113,6 +113,14 @@
       "onboard_time": 1680746608,
       "rank": 3,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1092608,
+      "num": 1092608,
+      "word": "迪丽热巴狼尾造型",
+      "onboard_time": 1680758132,
+      "rank": 46,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1037260,
@@ -259,6 +267,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 674631,
+      "num": 674631,
+      "word": "金丝猴母亲轻轻放下夭折孩子画面看哭",
+      "onboard_time": 1680756994,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 630396,
       "num": 630396,
       "word": "半导体",
@@ -353,14 +369,6 @@
       "onboard_time": 1680752127,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 441906,
-      "num": 441906,
-      "word": "金丝猴母亲轻轻放下夭折孩子画面看哭",
-      "onboard_time": 1680756994,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 436949,
@@ -587,6 +595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 270727,
+      "num": 270727,
+      "word": "才知道除了月经还有季经",
+      "onboard_time": 1680758490,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 267884,
       "num": 267884,
       "word": "巧珍眼里没光了",
@@ -635,6 +651,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 240122,
+      "num": 240122,
+      "word": "白鹿蚌壳装",
+      "onboard_time": 1680758790,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 238697,
       "num": 238697,
       "word": "京考",
@@ -649,6 +673,14 @@
       "onboard_time": 1680701912,
       "rank": 41,
       "category": "美食"
+    },
+    {
+      "raw_hot": 238413,
+      "num": 238413,
+      "word": "四川总工会称加班事件事发地不在成都",
+      "onboard_time": 1680758728,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 234437,
@@ -731,6 +763,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 209080,
+      "num": 209080,
+      "word": "纪录片月背之上",
+      "onboard_time": 1680757894,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 207547,
+      "num": 207547,
+      "word": "快船战胜湖人",
+      "onboard_time": 1680757773,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 207001,
       "num": 207001,
       "word": "WayV见面会官宣中国香港场",
@@ -763,12 +811,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 200808,
-      "num": 200808,
-      "word": "快船战胜湖人",
-      "onboard_time": 1680757773,
-      "rank": 39,
-      "category": "体育"
+      "raw_hot": 201148,
+      "num": 194960,
+      "word": "李宇春新专辑周末愉快预告",
+      "onboard_time": 1680757952,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 195626,
+      "num": 195626,
+      "word": "吴磊周雨彤球场情侣大片",
+      "onboard_time": 1680758372,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 195375,
@@ -787,20 +843,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 194152,
+      "num": 194152,
+      "word": "马嘉祺在水一方高音",
+      "onboard_time": 1680757952,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 192493,
+      "num": 192493,
+      "word": "COA6帅气出征",
+      "onboard_time": 1680758490,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 189042,
       "num": 189042,
       "word": "铃芽之旅成清明档票房冠军",
       "onboard_time": 1680740194,
       "rank": 32,
       "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 188747,
-      "num": 188747,
-      "word": "李宇春新专辑周末愉快预告",
-      "onboard_time": 1680757952,
-      "rank": 42,
-      "category": "音乐"
     },
     {
       "raw_hot": 187892,
@@ -811,28 +875,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 186931,
-      "num": 186931,
-      "word": "马嘉祺在水一方高音",
-      "onboard_time": 1680757952,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 186808,
-      "num": 186808,
-      "word": "纪录片月背之上",
-      "onboard_time": 1680757894,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
       "raw_hot": 185702,
       "num": 185702,
       "word": "爸爸手绘600张图给儿子讲古建筑",
       "onboard_time": 1680746427,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185191,
+      "num": 185191,
+      "word": "半熟恋人2",
+      "onboard_time": 1680753330,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 185152,
@@ -859,14 +915,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 181788,
-      "num": 181788,
-      "word": "迪丽热巴狼尾造型",
-      "onboard_time": 1680758132,
-      "rank": 46,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 174836,
       "num": 174836,
       "word": "金智秀solo初一位",
@@ -889,14 +937,6 @@
       "onboard_time": 1680744328,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 168358,
-      "num": 168358,
-      "word": "半熟恋人2",
-      "onboard_time": 1680753330,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 167161,
@@ -1235,6 +1275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 59983,
+      "num": 444231,
+      "word": "华为MateX3到底能有多轻",
+      "onboard_time": 1680757229,
+      "rank": 14,
+      "category": "科技"
+    },
+    {
       "raw_hot": 48644,
       "num": 48644,
       "word": "小区不认识的狗送我上学",
@@ -1249,14 +1297,6 @@
       "onboard_time": 1680728292,
       "rank": 37,
       "category": "艺人,游戏"
-    },
-    {
-      "raw_hot": 43494,
-      "num": 444231,
-      "word": "华为MateX3到底能有多轻",
-      "onboard_time": 1680757229,
-      "rank": 14,
-      "category": "科技"
     },
     {
       "raw_hot": 34009,
