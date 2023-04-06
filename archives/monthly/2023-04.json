@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680765326228,
+  "endTime": 1680766399765,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -379,6 +379,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 2552781,
+      "num": 2552781,
+      "word": "这个周四太幸福了",
+      "onboard_time": 1680761188,
+      "rank": 8,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 2437384,
       "num": 2437384,
       "word": "观音桥",
@@ -433,14 +441,6 @@
       "onboard_time": 1680700653,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2300916,
-      "num": 2300916,
-      "word": "这个周四太幸福了",
-      "onboard_time": 1680761188,
-      "rank": 8,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 2296658,
@@ -1675,6 +1675,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 817073,
+      "num": 296508,
+      "word": "李沁回应雨刮器腿",
+      "onboard_time": 1680762746,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 814505,
       "num": 814505,
       "word": "为救高烧小朋友高铁临时停车2分钟",
@@ -2097,6 +2105,14 @@
       "onboard_time": 1680496416,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 691140,
+      "num": 691140,
+      "word": "Kakao涉嫌操纵股价被调查",
+      "onboard_time": 1680764787,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 688377,
@@ -3003,14 +3019,6 @@
       "category": "情感,网红"
     },
     {
-      "raw_hot": 517660,
-      "num": 296508,
-      "word": "李沁回应雨刮器腿",
-      "onboard_time": 1680762746,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 517571,
       "num": 517571,
       "word": "张继科持股公司仅1人参保",
@@ -3355,6 +3363,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 475567,
+      "num": 475567,
+      "word": "品如艾莉不在一组",
+      "onboard_time": 1680764067,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 474709,
       "num": 474709,
       "word": "武汉暴雨",
@@ -3380,7 +3396,7 @@
     },
     {
       "raw_hot": 473611,
-      "num": 229775,
+      "num": 245114,
       "word": "辛芷蕾112页台词",
       "onboard_time": 1680761069,
       "rank": 22,
@@ -3433,6 +3449,14 @@
       "onboard_time": 1680576448,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 465303,
+      "num": 465303,
+      "word": "闵玧其官宣NBA全球大使",
+      "onboard_time": 1680764546,
+      "rank": 15,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 464862,
@@ -3764,7 +3788,7 @@
     },
     {
       "raw_hot": 425249,
-      "num": 234938,
+      "num": 248219,
       "word": "女子和公公带俩孩给亡夫销户",
       "onboard_time": 1680762807,
       "rank": 42,
@@ -4187,14 +4211,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 386657,
-      "num": 293590,
-      "word": "品如艾莉不在一组",
-      "onboard_time": 1680764067,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 386276,
       "num": 244698,
       "word": "贝儿和妹妹",
@@ -4297,6 +4313,14 @@
       "onboard_time": 1680669692,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 375457,
+      "num": 283214,
+      "word": "我们都应该对月经羞耻说不",
+      "onboard_time": 1680764911,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 373383,
@@ -4819,14 +4843,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 327096,
-      "num": 179359,
-      "word": "Kakao涉嫌操纵股价被调查",
-      "onboard_time": 1680764787,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 326994,
       "num": 326994,
       "word": "太古里偶遇吉克隽逸",
@@ -5315,14 +5331,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 288844,
-      "num": 288844,
-      "word": "闵玧其官宣NBA全球大使",
-      "onboard_time": 1680764546,
-      "rank": 15,
-      "category": "体育,艺人"
-    },
-    {
       "raw_hot": 288694,
       "num": 202618,
       "word": "宫胁咲良刘海",
@@ -5627,6 +5635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 273251,
+      "num": 233220,
+      "word": "苏醒让程潇珍惜还有人找她跳舞",
+      "onboard_time": 1680764787,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 272594,
       "num": 272594,
       "word": "只给钱不给爱的婚姻该继续吗",
@@ -5639,14 +5655,6 @@
       "num": 272527,
       "word": "又是周一",
       "onboard_time": 1680481468,
-      "rank": 17,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 272515,
-      "num": 272515,
-      "word": "我们都应该对月经羞耻说不",
-      "onboard_time": 1680764911,
       "rank": 17,
       "category": "情感"
     },
@@ -6883,6 +6891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 217411,
+      "num": 217411,
+      "word": "成龙新电影是家庭聚会项目吧",
+      "onboard_time": 1680765386,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 217215,
       "num": 171514,
       "word": "宋雨琦喊李晨晨叔叔",
@@ -7073,6 +7089,14 @@
       "onboard_time": 1680487587,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 211626,
+      "num": 189015,
+      "word": "好可爱的性格 好美好的女孩子",
+      "onboard_time": 1680766046,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 211525,
@@ -8163,6 +8187,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 196470,
+      "num": 196470,
+      "word": "尤长靖说我做到了真好",
+      "onboard_time": 1680765567,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196467,
       "num": 196467,
       "word": "张国荣纪念音乐会直播点赞变玫瑰",
@@ -8209,14 +8241,6 @@
       "onboard_time": 1680355289,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 195710,
-      "num": 195710,
-      "word": "苏醒让程潇珍惜还有人找她跳舞",
-      "onboard_time": 1680764787,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 195626,
@@ -8432,6 +8456,14 @@
       "word": "陈都灵新剧杀青vlog",
       "onboard_time": 1680589288,
       "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 192318,
+      "num": 192318,
+      "word": "爱情而已离谱版",
+      "onboard_time": 1680765508,
+      "rank": 29,
       "category": "影视"
     },
     {
@@ -8939,6 +8971,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 183844,
+      "num": 183844,
+      "word": "刘耀文新歌与公主的适配度",
+      "onboard_time": 1680765929,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 183834,
       "num": 183834,
       "word": "放学后等家长最安全的地方",
@@ -9419,6 +9459,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 171441,
+      "num": 171441,
+      "word": "会帮你接水喝的小猫咪",
+      "onboard_time": 1680765807,
+      "rank": 33,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 171309,
       "num": 171309,
       "word": "2023清明档票房破亿",
@@ -9817,6 +9865,22 @@
       "onboard_time": 1680606151,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163422,
+      "num": 163422,
+      "word": "超级小桀没想到马力欧不吃蘑菇",
+      "onboard_time": 1680765867,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 162999,
+      "num": 162999,
+      "word": "NCTDREAM跳GOATED",
+      "onboard_time": 1680766347,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 162968,
@@ -10347,6 +10411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 150316,
+      "num": 150316,
+      "word": "高叶问这个高颅顶够高吧",
+      "onboard_time": 1680766169,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 150018,
       "num": 150018,
       "word": "蜘蛛侠纵横宇宙新预告",
@@ -10369,6 +10441,14 @@
       "onboard_time": 1680514112,
       "rank": 46,
       "category": "国内要闻,军事"
+    },
+    {
+      "raw_hot": 149538,
+      "num": 151661,
+      "word": "原来外卖的包装费还可以退",
+      "onboard_time": 1680766110,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 149390,
@@ -12115,6 +12195,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 97340,
+      "num": 151130,
+      "word": "洛阳全城剧本杀",
+      "onboard_time": 1680765026,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 97119,
       "num": 97119,
       "word": "国际爱鸟日",
@@ -12496,14 +12584,6 @@
       "word": "清明给英烈写句话",
       "onboard_time": 1680611790,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 64596,
-      "num": 144239,
-      "word": "洛阳全城剧本杀",
-      "onboard_time": 1680765026,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
