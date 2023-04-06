@@ -1,6 +1,6 @@
 {
   "startTime": 1680452464197,
-  "endTime": 1680766399765,
+  "endTime": 1680769320011,
   "band_list": [
     {
       "raw_hot": 9506486,
@@ -475,6 +475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1930710,
+      "num": 1930710,
+      "word": "为i做e",
+      "onboard_time": 1680767788,
+      "rank": 0,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1865561,
       "num": 485451,
       "word": "张佳宁点痣了",
@@ -907,6 +915,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1088442,
+      "num": 425055,
+      "word": "李沁回应雨刮器腿",
+      "onboard_time": 1680762746,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1088439,
       "num": 1088439,
       "word": "电视剧199爱改名要久久爱",
@@ -1259,20 +1275,20 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 827889,
+      "num": 425024,
+      "word": "秦昊回复伊能静刷我滴卡",
+      "onboard_time": 1680767128,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 822431,
       "num": 636625,
       "word": "南柱赫寸头",
       "onboard_time": 1680661828,
       "rank": 40,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 817073,
-      "num": 296508,
-      "word": "李沁回应雨刮器腿",
-      "onboard_time": 1680762746,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 814505,
@@ -1424,6 +1440,14 @@
       "word": "惠英红 你信不信我揍你",
       "onboard_time": 1680620314,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 738491,
+      "num": 424208,
+      "word": "张译曾说刘浩存像他的一只猫",
+      "onboard_time": 1680766889,
+      "rank": 13,
       "category": "艺人"
     },
     {
@@ -1915,6 +1939,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 591028,
+      "num": 591028,
+      "word": "原来外卖的包装费还可以退",
+      "onboard_time": 1680766110,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 590896,
       "num": 590896,
       "word": "名侦探柯南黑铁的鱼影",
@@ -2331,6 +2363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 490006,
+      "num": 490006,
+      "word": "乘风破浪4古装四美",
+      "onboard_time": 1680766408,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 489124,
       "num": 319995,
       "word": "聂小雨拿出割喉案关键证据",
@@ -2459,6 +2499,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 476554,
+      "num": 476554,
+      "word": "闵玧其官宣NBA全球大使",
+      "onboard_time": 1680764546,
+      "rank": 15,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 475829,
       "num": 475829,
       "word": "王一博电影人鱼预计今年7月开机",
@@ -2507,6 +2555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 470998,
+      "num": 421826,
+      "word": "女子拒绝公司查看手机被无偿辞退",
+      "onboard_time": 1680768089,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 470711,
       "num": 470711,
       "word": "编剧吴迪",
@@ -2521,14 +2577,6 @@
       "onboard_time": 1680576448,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 465303,
-      "num": 465303,
-      "word": "闵玧其官宣NBA全球大使",
-      "onboard_time": 1680764546,
-      "rank": 15,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 464862,
@@ -2723,6 +2771,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 426477,
+      "num": 426477,
+      "word": "马克龙访华",
+      "onboard_time": 1680768449,
+      "rank": 9,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 425249,
       "num": 248219,
       "word": "女子和公公带俩孩给亡夫销户",
@@ -2779,12 +2835,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 421497,
+      "num": 421497,
+      "word": "内娱天选神女",
+      "onboard_time": 1680768331,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 420456,
       "num": 308197,
       "word": "杨紫毛衣马甲随拍",
       "onboard_time": 1680693092,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 419388,
+      "num": 377243,
+      "word": "周雨彤18岁到28岁颜值变化",
+      "onboard_time": 1680767369,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 418946,
@@ -3043,6 +3115,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 385818,
+      "num": 385818,
+      "word": "小龙虾桶面",
+      "onboard_time": 1680767369,
+      "rank": 18,
+      "category": "美食"
+    },
+    {
       "raw_hot": 385270,
       "num": 283250,
       "word": "研究发现早晨课越多成绩越差",
@@ -3123,6 +3203,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 371796,
+      "num": 371796,
+      "word": "校方回应网传常熟某中学女生持刀伤人",
+      "onboard_time": 1680766589,
+      "rank": 21,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 370545,
       "num": 370545,
       "word": "女儿继承父亲警号后听到呼叫泪崩",
@@ -3177,6 +3265,14 @@
       "onboard_time": 1680707794,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 359919,
+      "num": 359919,
+      "word": "定妆照诈骗",
+      "onboard_time": 1680766708,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 357397,
@@ -3235,6 +3331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 349494,
+      "num": 349494,
+      "word": "好可爱的性格 好美好的女孩子",
+      "onboard_time": 1680766046,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 348410,
       "num": 248969,
       "word": "夫妻结婚6年因3岁儿子转学想离婚",
@@ -3289,6 +3393,14 @@
       "onboard_time": 1680649757,
       "rank": 19,
       "category": "国内要闻,社会新闻"
+    },
+    {
+      "raw_hot": 344721,
+      "num": 344721,
+      "word": "巴黎逛街偶遇王菲",
+      "onboard_time": 1680767548,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 344599,
@@ -3697,6 +3809,14 @@
       "onboard_time": 1680520774,
       "rank": 38,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 293821,
+      "num": 293821,
+      "word": "长月烬明最后可能只剩下剧名",
+      "onboard_time": 1680766589,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 292603,
@@ -4587,6 +4707,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 226759,
+      "num": 226759,
+      "word": "尤长靖说我做到了真好",
+      "onboard_time": 1680765567,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 226590,
       "num": 226590,
       "word": "光与夜之恋查理苏",
@@ -4689,6 +4817,14 @@
       "onboard_time": 1680506130,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 221246,
+      "num": 236724,
+      "word": "你认为儿童玩手机成瘾问题严重吗",
+      "onboard_time": 1680768387,
+      "rank": 29,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 220152,
@@ -4931,14 +5067,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 211626,
-      "num": 189015,
-      "word": "好可爱的性格 好美好的女孩子",
-      "onboard_time": 1680766046,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 211457,
       "num": 211457,
       "word": "纸飞机突然不唯美了",
@@ -5123,6 +5251,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 206668,
+      "num": 206668,
+      "word": "朱正廷说五周年快乐",
+      "onboard_time": 1680768387,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 206627,
       "num": 206627,
       "word": "周雨彤郑希怡片场亲亲",
@@ -5265,6 +5401,14 @@
       "onboard_time": 1680679228,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 204080,
+      "num": 204080,
+      "word": "再进化就得上班了",
+      "onboard_time": 1680767609,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 203426,
@@ -5435,6 +5579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 201217,
+      "num": 201217,
+      "word": "林心如模仿犯高光名场面",
+      "onboard_time": 1680768809,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 201174,
       "num": 201174,
       "word": "詹姆斯37分",
@@ -5539,6 +5691,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 198974,
+      "num": 198974,
+      "word": "再也不怕回南天了",
+      "onboard_time": 1680768691,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 198871,
       "num": 198871,
       "word": "真人版芭比电影发布角色海报",
@@ -5561,6 +5721,14 @@
       "onboard_time": 1680581671,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 197338,
+      "num": 423397,
+      "word": "小米13Ultra",
+      "onboard_time": 1680768027,
+      "rank": 14,
+      "category": "科技"
     },
     {
       "raw_hot": 197075,
@@ -5601,14 +5769,6 @@
       "onboard_time": 1680451114,
       "rank": 30,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 196470,
-      "num": 196470,
-      "word": "尤长靖说我做到了真好",
-      "onboard_time": 1680765567,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 196282,
@@ -6057,6 +6217,22 @@
       "onboard_time": 1680534816,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 186798,
+      "num": 186798,
+      "word": "蒋敦豪说种地吧房子装成他婚房了",
+      "onboard_time": 1680767489,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 186680,
+      "num": 186680,
+      "word": "灌篮高手全国大赛即将开赛",
+      "onboard_time": 1680769051,
+      "rank": 40,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 186516,
@@ -6595,6 +6771,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 166864,
+      "num": 166864,
+      "word": "考研调剂系统已开通",
+      "onboard_time": 1680766830,
+      "rank": 43,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 166828,
       "num": 166828,
       "word": "在宇宙中写诗的科幻小片",
@@ -6625,6 +6809,14 @@
       "onboard_time": 1680478043,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 165530,
+      "num": 165530,
+      "word": "张韶涵蓝色眼影",
+      "onboard_time": 1680769290,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 165320,
@@ -6923,6 +7115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 154214,
+      "num": 154214,
+      "word": "苹果服务器再出故障",
+      "onboard_time": 1680766526,
+      "rank": 47,
+      "category": "科技"
+    },
+    {
       "raw_hot": 153607,
       "num": 153607,
       "word": "闯入千里江山图的小猫",
@@ -7057,14 +7257,6 @@
       "onboard_time": 1680514112,
       "rank": 46,
       "category": "国内要闻,军事"
-    },
-    {
-      "raw_hot": 149538,
-      "num": 151661,
-      "word": "原来外卖的包装费还可以退",
-      "onboard_time": 1680766110,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 149358,
@@ -7931,6 +8123,14 @@
       "category": "科技,音乐"
     },
     {
+      "raw_hot": 93370,
+      "num": 152856,
+      "word": "第五人格",
+      "onboard_time": 1680766408,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 92821,
       "num": 92821,
       "word": "黄明昊跳了姐姐真漂亮",
@@ -8051,8 +8251,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 62250,
-      "num": 119968,
+      "raw_hot": 63413,
+      "num": 150565,
       "word": "春日第一口野菜",
       "onboard_time": 1680764187,
       "rank": 49,
@@ -8105,6 +8305,14 @@
       "onboard_time": 1680651140,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 50950,
+      "num": 914874,
+      "word": "加快数字中国建设",
+      "onboard_time": 1680768331,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 48644,
