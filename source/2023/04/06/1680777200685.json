@@ -1,0 +1,410 @@
+{
+  "runTime": 1680777200685,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3353692,
+        "num": 3353692,
+        "word": "为i做e",
+        "onboard_time": 1680767788,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 2410226,
+        "num": 2410226,
+        "word": "美国男子承认掰断并偷走兵马俑手指",
+        "onboard_time": 1680773129,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56949,
+        "num": 1677314,
+        "word": "加快数字中国建设",
+        "onboard_time": 1680768331,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1666335,
+        "num": 1666335,
+        "word": "女子实名举报父亲受贿1900万元",
+        "onboard_time": 1680774928,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 964591,
+        "num": 964591,
+        "word": "鹿晗 广海",
+        "onboard_time": 1680771330,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 816279,
+        "num": 816279,
+        "word": "樊振东",
+        "onboard_time": 1680773850,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 707297,
+        "num": 707297,
+        "word": "孙策胸肌",
+        "onboard_time": 1680771211,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 612597,
+        "num": 612597,
+        "word": "长月烬明",
+        "onboard_time": 1680767908,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 553792,
+        "num": 553792,
+        "word": "辅导员你真的很不幽默",
+        "onboard_time": 1680771449,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 537241,
+        "num": 537241,
+        "word": "这个周四太幸福了",
+        "onboard_time": 1680761188,
+        "rank": 9,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 1206446,
+        "num": 528795,
+        "word": "内娱天选神女",
+        "onboard_time": 1680768331,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1148502,
+        "num": 523595,
+        "word": "朱一龙易烊千玺 合作",
+        "onboard_time": 1680775291,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1058965,
+        "num": 514418,
+        "word": "IU成韩国片酬最高女演员",
+        "onboard_time": 1680773430,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 687675,
+        "num": 507190,
+        "word": "秦昊回复伊能静刷我滴卡",
+        "onboard_time": 1680767128,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 503244,
+        "num": 503244,
+        "word": "法院认定谢娜张杰购房不存在跳单",
+        "onboard_time": 1680752668,
+        "rank": 14,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 497984,
+        "num": 497984,
+        "word": "才知道除了月经还有季经",
+        "onboard_time": 1680758490,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 466182,
+        "num": 466182,
+        "word": "infp",
+        "onboard_time": 1680770791,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 452482,
+        "num": 452482,
+        "word": "北京草莓音乐节阵容公布",
+        "onboard_time": 1680774450,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 365168,
+        "num": 365168,
+        "word": "女子拒绝公司查看手机被无偿辞退",
+        "onboard_time": 1680768089,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309599,
+        "num": 309599,
+        "word": "EDG对战OMG",
+        "onboard_time": 1680775111,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 456244,
+        "num": 305147,
+        "word": "接下来4个月都有10天假期",
+        "onboard_time": 1680769650,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 300100,
+        "num": 300100,
+        "word": "长月烬明 特效",
+        "onboard_time": 1680776552,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 294014,
+        "num": 294014,
+        "word": "原来外卖的包装费还可以退",
+        "onboard_time": 1680766110,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 277867,
+        "num": 277867,
+        "word": "可算把明星礼服研究明白了",
+        "onboard_time": 1680775052,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 262217,
+        "num": 262217,
+        "word": "泰坦尼克号女主参演阿凡达2",
+        "onboard_time": 1680769710,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 254527,
+        "num": 254527,
+        "word": "周雨彤18岁到28岁颜值变化",
+        "onboard_time": 1680767369,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 254437,
+        "num": 254437,
+        "word": "情绪对结节影响有多大",
+        "onboard_time": 1680770489,
+        "rank": 26,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 250347,
+        "num": 250347,
+        "word": "水果麻辣拌",
+        "onboard_time": 1680770852,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 243748,
+        "num": 243748,
+        "word": "张译曾说刘浩存像他的一只猫",
+        "onboard_time": 1680766889,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228098,
+        "num": 238032,
+        "word": "多部门回应女子举报父亲受贿千万",
+        "onboard_time": 1680775173,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237017,
+        "num": 237017,
+        "word": "时代少年团团综主题曲先导片将上线",
+        "onboard_time": 1680773971,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 235074,
+        "num": 235074,
+        "word": "长月烬明最后可能只剩下剧名",
+        "onboard_time": 1680766589,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 231041,
+        "num": 231041,
+        "word": "OMG翻盘EDG",
+        "onboard_time": 1680776252,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 212652,
+        "num": 212652,
+        "word": "迪丽热巴狼尾造型",
+        "onboard_time": 1680758132,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 212282,
+        "num": 212282,
+        "word": "马克龙访华",
+        "onboard_time": 1680768449,
+        "rank": 34,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 209227,
+        "num": 209227,
+        "word": "李沁回应雨刮器腿",
+        "onboard_time": 1680762746,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 174869,
+        "num": 174869,
+        "word": "最食人间烟火色后劲",
+        "onboard_time": 1680776011,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 168783,
+        "num": 168783,
+        "word": "安卓手机体验超过iPhone了吗",
+        "onboard_time": 1680770972,
+        "rank": 37,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 168469,
+        "num": 168469,
+        "word": "男子用手电筒吓死千只鸡获刑6个月",
+        "onboard_time": 1680752367,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168428,
+        "num": 168428,
+        "word": "女子和公公带俩孩给亡夫销户",
+        "onboard_time": 1680762807,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167628,
+        "num": 167628,
+        "word": "刘诗诗或将出席戛纳红毯",
+        "onboard_time": 1680772111,
+        "rank": 40,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 167297,
+        "num": 167297,
+        "word": "五哈",
+        "onboard_time": 1680772832,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156854,
+        "num": 156854,
+        "word": "白鹿蚌壳装",
+        "onboard_time": 1680758790,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 156844,
+        "num": 156844,
+        "word": "校方回应网传常熟某中学女生持刀伤人",
+        "onboard_time": 1680766589,
+        "rank": 43,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 155025,
+        "num": 155025,
+        "word": "薛之谦济南演唱会抢票",
+        "onboard_time": 1680772893,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 153413,
+        "num": 153413,
+        "word": "好可爱的性格 好美好的女孩子",
+        "onboard_time": 1680766046,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149256,
+        "num": 149256,
+        "word": "定妆照诈骗",
+        "onboard_time": 1680766708,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 147394,
+        "num": 147394,
+        "word": "一种很新的旅游方式",
+        "onboard_time": 1680777151,
+        "rank": 47,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 145379,
+        "num": 145379,
+        "word": "制片人辟谣高叶退出青春环游记",
+        "onboard_time": 1680769591,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139647,
+        "num": 139647,
+        "word": "乘风破浪4古装四美",
+        "onboard_time": 1680766408,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#夯实思想之基汲取奋进力量#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1680452464197,
-  "endTime": 1680776276231,
+  "endTime": 1680777200685,
   "band_list": [
     {
       "raw_hot": 9506486,
@@ -307,6 +307,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 2410226,
+      "num": 2410226,
+      "word": "美国男子承认掰断并偷走兵马俑手指",
+      "onboard_time": 1680773129,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2357460,
       "num": 2357460,
       "word": "果然娱乐回应小鬼被抄袭",
@@ -385,14 +393,6 @@
       "onboard_time": 1680613830,
       "rank": 30,
       "category": "科技"
-    },
-    {
-      "raw_hot": 2105814,
-      "num": 2105814,
-      "word": "美国男子承认掰断并偷走兵马俑手指",
-      "onboard_time": 1680773129,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2093688,
@@ -537,6 +537,14 @@
       "onboard_time": 1680411988,
       "rank": 21,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1666335,
+      "num": 1666335,
+      "word": "女子实名举报父亲受贿1900万元",
+      "onboard_time": 1680774928,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1660057,
@@ -875,6 +883,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1148502,
+      "num": 523595,
+      "word": "朱一龙易烊千玺 合作",
+      "onboard_time": 1680775291,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1145139,
       "num": 1145139,
       "word": "唐伯虎 乘风4",
@@ -1067,14 +1083,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 963828,
-      "num": 523429,
-      "word": "朱一龙易烊千玺 合作",
-      "onboard_time": 1680775291,
-      "rank": 12,
-      "category": "影视"
-    },
-    {
       "raw_hot": 959032,
       "num": 959032,
       "word": "村民上坟奥迪停墓地旁被烧成空壳",
@@ -1145,14 +1153,6 @@
       "onboard_time": 1680741092,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 918156,
-      "num": 918156,
-      "word": "女子实名举报父亲受贿1900万元",
-      "onboard_time": 1680774928,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 913030,
@@ -1363,6 +1363,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 816279,
+      "num": 816279,
+      "word": "樊振东",
+      "onboard_time": 1680773850,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 814505,
       "num": 814505,
       "word": "为救高烧小朋友高铁临时停车2分钟",
@@ -1433,14 +1441,6 @@
       "onboard_time": 1680450753,
       "rank": 3,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 776275,
-      "num": 776275,
-      "word": "樊振东",
-      "onboard_time": 1680773850,
-      "rank": 6,
-      "category": "体育"
     },
     {
       "raw_hot": 771505,
@@ -1971,6 +1971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 612597,
+      "num": 612597,
+      "word": "长月烬明",
+      "onboard_time": 1680512551,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 609798,
       "num": 609798,
       "word": "Amber 排名",
@@ -2147,6 +2155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 553792,
+      "num": 553792,
+      "word": "辅导员你真的很不幽默",
+      "onboard_time": 1680771449,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 552794,
       "num": 552794,
       "word": "杨丽萍爱徒跳孔雀舞被批不雅",
@@ -2265,14 +2281,6 @@
       "onboard_time": 1680526533,
       "rank": 14,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 530792,
-      "num": 530792,
-      "word": "辅导员你真的很不幽默",
-      "onboard_time": 1680771449,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 528505,
@@ -2441,14 +2449,6 @@
       "onboard_time": 1680689374,
       "rank": 25,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 492745,
-      "num": 492745,
-      "word": "长月烬明",
-      "onboard_time": 1680512551,
-      "rank": 14,
-      "category": "影视"
     },
     {
       "raw_hot": 491719,
@@ -3875,6 +3875,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 300100,
+      "num": 300100,
+      "word": "长月烬明 特效",
+      "onboard_time": 1680776552,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 299814,
       "num": 299814,
       "word": "大河报",
@@ -4177,6 +4185,14 @@
       "onboard_time": 1680681330,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 277867,
+      "num": 277867,
+      "word": "可算把明星礼服研究明白了",
+      "onboard_time": 1680775052,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 275591,
@@ -4771,14 +4787,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 235292,
-      "num": 235292,
-      "word": "可算把明星礼服研究明白了",
-      "onboard_time": 1680775052,
-      "rank": 31,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 234437,
       "num": 234437,
       "word": "这海豚嘴都亲秃噜皮了",
@@ -4817,6 +4825,14 @@
       "onboard_time": 1680737064,
       "rank": 34,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 231041,
+      "num": 231041,
+      "word": "OMG翻盘EDG",
+      "onboard_time": 1680776252,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 230993,
@@ -4873,6 +4889,14 @@
       "onboard_time": 1680618575,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 228098,
+      "num": 238032,
+      "word": "多部门回应女子举报父亲受贿千万",
+      "onboard_time": 1680775173,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 227590,
@@ -5521,14 +5545,6 @@
       "onboard_time": 1680571170,
       "rank": 26,
       "category": "教育"
-    },
-    {
-      "raw_hot": 205006,
-      "num": 205006,
-      "word": "多部门回应女子举报父亲受贿千万",
-      "onboard_time": 1680775173,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 204856,
@@ -6763,6 +6779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 174869,
+      "num": 174869,
+      "word": "最食人间烟火色后劲",
+      "onboard_time": 1680776011,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 174647,
       "num": 174647,
       "word": "罗云熙白鹿新剧相拥吻戏",
@@ -7539,6 +7563,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 147394,
+      "num": 147394,
+      "word": "一种很新的旅游方式",
+      "onboard_time": 1680777151,
+      "rank": 47,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 147227,
       "num": 147227,
       "word": "孙怡北影节志愿者推广大使",
@@ -7689,14 +7721,6 @@
       "onboard_time": 1680595168,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 140608,
-      "num": 140608,
-      "word": "最食人间烟火色后劲",
-      "onboard_time": 1680776011,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 140586,
@@ -8049,14 +8073,6 @@
       "onboard_time": 1680659550,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 123851,
-      "num": 123851,
-      "word": "OMG翻盘EDG",
-      "onboard_time": 1680776252,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 123617,
@@ -8500,7 +8516,7 @@
     },
     {
       "raw_hot": 70190,
-      "num": 1454902,
+      "num": 1677314,
       "word": "加快数字中国建设",
       "onboard_time": 1680768331,
       "rank": 2,
