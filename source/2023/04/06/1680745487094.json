@@ -1,0 +1,410 @@
+{
+  "runTime": 1680745487094,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1403059,
+        "num": 1403059,
+        "word": "广东已经迎来甲流新流行高峰",
+        "onboard_time": 1680742230,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1304228,
+        "num": 1304228,
+        "word": "工资六千的岗位面试了6轮",
+        "onboard_time": 1680703530,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 17599,
+        "num": 1248805,
+        "word": "多希望你们看看山河无恙国泰民安",
+        "onboard_time": 1680665070,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1200041,
+        "num": 1200041,
+        "word": "加班文化为啥屡禁不止",
+        "onboard_time": 1680743610,
+        "rank": 3,
+        "category": "社会议题,财经"
+      },
+      {
+        "raw_hot": 959193,
+        "num": 959193,
+        "word": "恋爱一个月男朋友送我伞带",
+        "onboard_time": 1680704372,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 850971,
+        "num": 850971,
+        "word": "蛋仔派对",
+        "onboard_time": 1680744089,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 612759,
+        "num": 612759,
+        "word": "请假了一天的工位",
+        "onboard_time": 1680697951,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 427526,
+        "num": 427526,
+        "word": "四川警方通报学生寝室内死亡",
+        "onboard_time": 1680696091,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 357236,
+        "num": 357236,
+        "word": "姐弟坠亡案生母称忏悔信非生父所写",
+        "onboard_time": 1680727632,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223722,
+        "num": 223722,
+        "word": "创造营2019开播四周年",
+        "onboard_time": 1680744749,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1989231,
+        "num": 222777,
+        "word": "马克龙 黄渤",
+        "onboard_time": 1680743188,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 920657,
+        "num": 221139,
+        "word": "NINEPERCENT微博认证还没改",
+        "onboard_time": 1680744688,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 732524,
+        "num": 219963,
+        "word": "马嘉祺丁程鑫暂停一期外务录制",
+        "onboard_time": 1680741092,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 612290,
+        "num": 219441,
+        "word": "中方回应麦卡锡高调会见蔡英文",
+        "onboard_time": 1680740490,
+        "rank": 13,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 494894,
+        "num": 217501,
+        "word": "女子打人被拘期满后在线怼网友",
+        "onboard_time": 1680738927,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 476788,
+        "num": 216467,
+        "word": "巩俐夫妇",
+        "onboard_time": 1680700653,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 411676,
+        "num": 215493,
+        "word": "贾静雯状态",
+        "onboard_time": 1680744688,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 316794,
+        "num": 213097,
+        "word": "郭德纲意外收到已故京剧老人的礼物",
+        "onboard_time": 1680697351,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213061,
+        "num": 213061,
+        "word": "天海祐希",
+        "onboard_time": 1680706593,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196389,
+        "num": 196389,
+        "word": "特朗普若定罪也不用被监禁",
+        "onboard_time": 1680716895,
+        "rank": 19,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 533071,
+        "num": 194864,
+        "word": "小鬼 余佳运",
+        "onboard_time": 1680699394,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 388128,
+        "num": 191729,
+        "word": "柳智敏金发",
+        "onboard_time": 1680743728,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 322547,
+        "num": 188276,
+        "word": "TFBOYS前缀存档",
+        "onboard_time": 1680703952,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255821,
+        "num": 187390,
+        "word": "他这个钱赚得我是不眼红的",
+        "onboard_time": 1680705694,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 185152,
+        "num": 185152,
+        "word": "今天是秀粉的纪念日",
+        "onboard_time": 1680744806,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 252162,
+        "num": 184140,
+        "word": "早期央视镜头下的迪丽热巴",
+        "onboard_time": 1680707794,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235984,
+        "num": 182136,
+        "word": "为什么说总要去一次上海",
+        "onboard_time": 1680739170,
+        "rank": 26,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 194563,
+        "num": 180888,
+        "word": "今晚见长月烬明",
+        "onboard_time": 1680743249,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 179111,
+        "num": 179111,
+        "word": "5个特征辨别你是否湿气重",
+        "onboard_time": 1680722473,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174922,
+        "num": 174922,
+        "word": "上海出发1小时就能到的城市",
+        "onboard_time": 1680705154,
+        "rank": 29,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 253258,
+        "num": 174902,
+        "word": "乘风4一公歌单",
+        "onboard_time": 1680745048,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174874,
+        "num": 174874,
+        "word": "剪指甲最好剪成方形的",
+        "onboard_time": 1680691830,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 169153,
+        "num": 169153,
+        "word": "巴萨0比4皇马",
+        "onboard_time": 1680736101,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168429,
+        "num": 168429,
+        "word": "洪知秀照顾金珉奎的方式",
+        "onboard_time": 1680744328,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165902,
+        "num": 165902,
+        "word": "铃芽之旅成清明档票房冠军",
+        "onboard_time": 1680740194,
+        "rank": 34,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 157929,
+        "num": 157929,
+        "word": "马克龙远道而来这些细节值得关注",
+        "onboard_time": 1680737064,
+        "rank": 35,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 155803,
+        "num": 155803,
+        "word": "空气炸锅还有多少惊喜是我不知道的",
+        "onboard_time": 1680708752,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 155535,
+        "num": 155535,
+        "word": "于文文声生不息曹操预告",
+        "onboard_time": 1680744627,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148361,
+        "num": 148361,
+        "word": "金智秀新歌表演视频",
+        "onboard_time": 1680737363,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 146470,
+        "num": 146470,
+        "word": "为何大家说杭州是美食荒漠",
+        "onboard_time": 1680701912,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 137139,
+        "num": 137139,
+        "word": "江苏浙江的石楠花开了",
+        "onboard_time": 1680731052,
+        "rank": 40,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 132626,
+        "num": 132626,
+        "word": "刘嘉玲晒梁朝伟彭于晏合影",
+        "onboard_time": 1680708093,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130429,
+        "num": 130429,
+        "word": "seventeen聚餐合照",
+        "onboard_time": 1680741992,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129600,
+        "num": 129600,
+        "word": "小美人鱼救王子剧照",
+        "onboard_time": 1680702871,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 118460,
+        "num": 118460,
+        "word": "aespa新歌MV拍摄路透",
+        "onboard_time": 1680745108,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 114920,
+        "num": 114920,
+        "word": "用海贼王的画风画狂飙",
+        "onboard_time": 1680714141,
+        "rank": 45,
+        "category": "作品衍生,动漫"
+      },
+      {
+        "raw_hot": 114198,
+        "num": 114198,
+        "word": "珍的栓Q彻底BE",
+        "onboard_time": 1680704673,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 114047,
+        "num": 114047,
+        "word": "张大大说争取把更多好运带给更多人",
+        "onboard_time": 1680742770,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112489,
+        "num": 112489,
+        "word": "KPOP女solo最快获得一位天数",
+        "onboard_time": 1680708273,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86863,
+        "num": 105505,
+        "word": "这海豚嘴都亲秃噜皮了",
+        "onboard_time": 1680745349,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#为什么和平年代同样需要英雄情怀#"
+    }
+  }
+}

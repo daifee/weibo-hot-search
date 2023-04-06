@@ -1,7 +1,15 @@
 {
   "startTime": 1680712017153,
-  "endTime": 1680744038910,
+  "endTime": 1680745487094,
   "band_list": [
+    {
+      "raw_hot": 1989231,
+      "num": 237447,
+      "word": "马克龙 黄渤",
+      "onboard_time": 1680743188,
+      "rank": 10,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1959867,
       "num": 197609,
@@ -27,6 +35,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1403059,
+      "num": 1403059,
+      "word": "广东已经迎来甲流新流行高峰",
+      "onboard_time": 1680742230,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1267197,
       "num": 218112,
       "word": "小鬼 余佳运",
@@ -35,20 +51,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1156382,
-      "num": 1156382,
-      "word": "广东已经迎来甲流新流行高峰",
-      "onboard_time": 1680742230,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1103845,
-      "num": 237447,
-      "word": "马克龙 黄渤",
-      "onboard_time": 1680743188,
-      "rank": 10,
-      "category": "社会新闻"
+      "raw_hot": 1200041,
+      "num": 1200041,
+      "word": "加班文化为啥屡禁不止",
+      "onboard_time": 1680743610,
+      "rank": 15,
+      "category": "社会议题,财经"
     },
     {
       "raw_hot": 924951,
@@ -59,12 +67,28 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 920657,
+      "num": 221139,
+      "word": "NINEPERCENT微博认证还没改",
+      "onboard_time": 1680744688,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 918244,
       "num": 918244,
       "word": "马嘉祺丁程鑫暂停一期外务录制",
       "onboard_time": 1680741092,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 850971,
+      "num": 850971,
+      "word": "蛋仔派对",
+      "onboard_time": 1680744089,
+      "rank": 5,
+      "category": "游戏"
     },
     {
       "raw_hot": 848204,
@@ -163,6 +187,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 411676,
+      "num": 215493,
+      "word": "贾静雯状态",
+      "onboard_time": 1680744688,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 406970,
       "num": 321971,
       "word": "郭德纲意外收到已故京剧老人的礼物",
@@ -177,6 +209,14 @@
       "onboard_time": 1680691830,
       "rank": 8,
       "category": "情感"
+    },
+    {
+      "raw_hot": 388128,
+      "num": 202365,
+      "word": "柳智敏金发",
+      "onboard_time": 1680743728,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 341223,
@@ -267,12 +307,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 255784,
-      "num": 232556,
-      "word": "加班文化为啥屡禁不止",
-      "onboard_time": 1680743610,
-      "rank": 15,
-      "category": "社会议题,财经"
+      "raw_hot": 253258,
+      "num": 174902,
+      "word": "乘风4一公歌单",
+      "onboard_time": 1680745048,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 245760,
@@ -305,6 +345,14 @@
       "onboard_time": 1680705154,
       "rank": 25,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 223722,
+      "num": 223722,
+      "word": "创造营2019开播四周年",
+      "onboard_time": 1680744749,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 222150,
@@ -355,12 +403,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 202365,
-      "num": 202365,
-      "word": "柳智敏金发",
-      "onboard_time": 1680743728,
-      "rank": 29,
-      "category": "作品衍生"
+      "raw_hot": 194563,
+      "num": 180888,
+      "word": "今晚见长月烬明",
+      "onboard_time": 1680743249,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 189042,
@@ -379,12 +427,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 174922,
-      "num": 174922,
-      "word": "今晚见长月烬明",
-      "onboard_time": 1680743249,
-      "rank": 33,
-      "category": "影视"
+      "raw_hot": 185152,
+      "num": 185152,
+      "word": "今天是秀粉的纪念日",
+      "onboard_time": 1680744806,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 174836,
@@ -393,6 +441,14 @@
       "onboard_time": 1680691891,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 168429,
+      "num": 168429,
+      "word": "洪知秀照顾金珉奎的方式",
+      "onboard_time": 1680744328,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 167161,
@@ -425,6 +481,14 @@
       "onboard_time": 1680704673,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 155535,
+      "num": 155535,
+      "word": "于文文声生不息曹操预告",
+      "onboard_time": 1680744627,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 155018,
@@ -531,6 +595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118460,
+      "num": 118460,
+      "word": "aespa新歌MV拍摄路透",
+      "onboard_time": 1680745108,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 116515,
       "num": 116515,
       "word": "招惹",
@@ -635,6 +707,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 86863,
+      "num": 105505,
+      "word": "这海豚嘴都亲秃噜皮了",
+      "onboard_time": 1680745349,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 73637,
       "num": 73637,
       "word": "一秒让人破防的瞬间",
@@ -700,7 +780,7 @@
     },
     {
       "raw_hot": 21647,
-      "num": 1158097,
+      "num": 1248805,
       "word": "多希望你们看看山河无恙国泰民安",
       "onboard_time": 1680665070,
       "rank": 2,
