@@ -1,6 +1,6 @@
 {
   "startTime": 1680712017153,
-  "endTime": 1680777200685,
+  "endTime": 1680779643268,
   "band_list": [
     {
       "raw_hot": 4573993,
@@ -33,6 +33,14 @@
       "onboard_time": 1680761188,
       "rank": 8,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 2421591,
+      "num": 2421591,
+      "word": "女子实名举报父亲受贿1900万元",
+      "onboard_time": 1680774928,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2410226,
@@ -105,14 +113,6 @@
       "onboard_time": 1680703530,
       "rank": 1,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1666335,
-      "num": 1666335,
-      "word": "女子实名举报父亲受贿1900万元",
-      "onboard_time": 1680774928,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1660057,
@@ -347,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 804945,
+      "num": 804945,
+      "word": "长月烬明 特效",
+      "onboard_time": 1680776552,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 802363,
       "num": 333963,
       "word": "中电科称痛批加班员工非集团公司员工",
@@ -521,6 +529,14 @@
       "onboard_time": 1680747209,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 522177,
+      "num": 313618,
+      "word": "刘亦菲托腮自拍",
+      "onboard_time": 1680778289,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 513431,
@@ -779,6 +795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 352620,
+      "num": 352620,
+      "word": "五十公里桃花坞",
+      "onboard_time": 1680777570,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 352083,
       "num": 352083,
       "word": "梁静茹演唱会",
@@ -883,6 +907,14 @@
       "category": "财经,科技"
     },
     {
+      "raw_hot": 317275,
+      "num": 317275,
+      "word": "徐州烧烤",
+      "onboard_time": 1680777930,
+      "rank": 19,
+      "category": "美食"
+    },
+    {
       "raw_hot": 313891,
       "num": 313891,
       "word": "电影无名网播定档",
@@ -907,14 +939,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 300100,
-      "num": 300100,
-      "word": "长月烬明 特效",
-      "onboard_time": 1680776552,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 295687,
       "num": 295687,
       "word": "水果麻辣拌",
@@ -936,6 +960,14 @@
       "word": "陈鑫海演技",
       "onboard_time": 1680700653,
       "rank": 15,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 286824,
+      "num": 286824,
+      "word": "长月烬明配音对不上口型",
+      "onboard_time": 1680779250,
+      "rank": 22,
       "category": "影视"
     },
     {
@@ -1027,6 +1059,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 258990,
+      "num": 258990,
+      "word": "多部门回应女子举报父亲受贿千万",
+      "onboard_time": 1680775173,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 256159,
       "num": 256159,
       "word": "13岁男孩患急性脑脊髓炎突然瘫痪",
@@ -1073,6 +1113,14 @@
       "onboard_time": 1680749309,
       "rank": 29,
       "category": "科技"
+    },
+    {
+      "raw_hot": 240223,
+      "num": 240223,
+      "word": "黄奕印小天雪山跳蒙古舞",
+      "onboard_time": 1680778111,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 240175,
@@ -1145,14 +1193,6 @@
       "onboard_time": 1680776252,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 228098,
-      "num": 238032,
-      "word": "多部门回应女子举报父亲受贿千万",
-      "onboard_time": 1680775173,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 227495,
@@ -1235,6 +1275,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 210608,
+      "num": 210608,
+      "word": "长月烬明开播观后感",
+      "onboard_time": 1680779369,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 209080,
       "num": 209080,
       "word": "纪录片月背之上",
@@ -1283,6 +1331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 204945,
+      "num": 204945,
+      "word": "邓为古装扮相",
+      "onboard_time": 1680779250,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 204173,
       "num": 204173,
       "word": "尘封十三载",
@@ -1297,6 +1353,14 @@
       "onboard_time": 1680767609,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 202407,
+      "num": 202407,
+      "word": "懂事的孩子更应该吃到糖",
+      "onboard_time": 1680777270,
+      "rank": 36,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 201842,
@@ -1403,6 +1467,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 190357,
+      "num": 190357,
+      "word": "第五人格五周年",
+      "onboard_time": 1680778589,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 189072,
+      "num": 189072,
+      "word": "罗云熙长月烬明角色诠释度",
+      "onboard_time": 1680779430,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 189042,
       "num": 189042,
       "word": "铃芽之旅成清明档票房冠军",
@@ -1507,6 +1587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 175935,
+      "num": 175935,
+      "word": "IVE换官方队形",
+      "onboard_time": 1680779190,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 175321,
       "num": 175321,
       "word": "梁友安长发",
@@ -1595,12 +1683,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 164125,
+      "num": 164125,
+      "word": "2023KPL春季赛第三轮赛程",
+      "onboard_time": 1680778111,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 163422,
       "num": 163422,
       "word": "超级小桀没想到马力欧不吃蘑菇",
       "onboard_time": 1680765867,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 163186,
+      "num": 163186,
+      "word": "你在哪一刻突然想回家了",
+      "onboard_time": 1680779069,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 162999,
@@ -1617,6 +1721,14 @@
       "onboard_time": 1680700830,
       "rank": 31,
       "category": "科技"
+    },
+    {
+      "raw_hot": 162510,
+      "num": 162510,
+      "word": "BoysPlanet三公音源空降",
+      "onboard_time": 1680777990,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 160864,
@@ -2028,7 +2140,7 @@
     },
     {
       "raw_hot": 70190,
-      "num": 1677314,
+      "num": 2188030,
       "word": "加快数字中国建设",
       "onboard_time": 1680768331,
       "rank": 2,
