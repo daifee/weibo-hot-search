@@ -1,6 +1,6 @@
 {
   "startTime": 1680712017153,
-  "endTime": 1680791609265,
+  "endTime": 1680794155768,
   "band_list": [
     {
       "raw_hot": 4573993,
@@ -147,6 +147,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1681764,
+      "num": 704002,
+      "word": "郑容和被韩国酵母放了一马",
+      "onboard_time": 1680788850,
+      "rank": 10,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 1660057,
       "num": 406238,
       "word": "范丞丞工作室认证蓝V",
@@ -203,14 +211,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1456464,
-      "num": 591357,
-      "word": "郑容和被韩国酵母放了一马",
-      "onboard_time": 1680788850,
-      "rank": 10,
-      "category": "艺人,幽默"
-    },
-    {
       "raw_hot": 1423043,
       "num": 1423043,
       "word": "张艺兴起诉十九楼侵权胜诉",
@@ -225,6 +225,14 @@
       "onboard_time": 1680771330,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1330361,
+      "num": 943908,
+      "word": "重庆姐弟坠亡案",
+      "onboard_time": 1680789752,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1284035,
@@ -265,6 +273,14 @@
       "onboard_time": 1680775291,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1131246,
+      "num": 1131246,
+      "word": "重庆姐弟坠亡案二审择期宣判",
+      "onboard_time": 1680792394,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1130746,
@@ -321,14 +337,6 @@
       "onboard_time": 1680752668,
       "rank": 7,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 943908,
-      "num": 943908,
-      "word": "重庆姐弟坠亡案",
-      "onboard_time": 1680789752,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 924951,
@@ -465,6 +473,14 @@
       "onboard_time": 1680782971,
       "rank": 8,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 772849,
+      "num": 772849,
+      "word": "指望中国在台湾问题妥协退让是痴心妄想",
+      "onboard_time": 1680790533,
+      "rank": 18,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 771505,
@@ -843,6 +859,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 432472,
+      "num": 432472,
+      "word": "北飘7年的房租",
+      "onboard_time": 1680791193,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 432190,
+      "num": 432190,
+      "word": "代号鸢",
+      "onboard_time": 1680792692,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 425249,
       "num": 248219,
       "word": "女子和公公带俩孩给亡夫销户",
@@ -905,14 +937,6 @@
       "onboard_time": 1680697351,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 406955,
-      "num": 406955,
-      "word": "指望中国在台湾问题妥协退让是痴心妄想",
-      "onboard_time": 1680790533,
-      "rank": 18,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 406774,
@@ -1107,6 +1131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 330638,
+      "num": 330638,
+      "word": "张小斐蓝裙子直播状态",
+      "onboard_time": 1680792933,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 321688,
       "num": 215883,
       "word": "他这个钱赚得我是不眼红的",
@@ -1153,6 +1185,14 @@
       "onboard_time": 1680750146,
       "rank": 34,
       "category": "财经,科技"
+    },
+    {
+      "raw_hot": 316138,
+      "num": 316138,
+      "word": "冯晓桐 王宝宝",
+      "onboard_time": 1680790233,
+      "rank": 37,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 313891,
@@ -1225,14 +1265,6 @@
       "onboard_time": 1680768027,
       "rank": 14,
       "category": "科技"
-    },
-    {
-      "raw_hot": 282133,
-      "num": 282133,
-      "word": "冯晓桐 王宝宝",
-      "onboard_time": 1680790233,
-      "rank": 37,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 281276,
@@ -1795,6 +1827,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 198481,
+      "num": 198481,
+      "word": "杨紫琼获戛纳电影节跃动她影奖",
+      "onboard_time": 1680793593,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 197216,
       "num": 197216,
       "word": "于文文曹操吉他solo",
@@ -1843,6 +1883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193278,
+      "num": 193278,
+      "word": "当有身高差的人穿上青蛙服",
+      "onboard_time": 1680791614,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 193040,
       "num": 193040,
       "word": "澹台烬黎苏苏救赎文学",
@@ -1865,6 +1913,14 @@
       "onboard_time": 1680765508,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 192182,
+      "num": 192182,
+      "word": "刘耀文夜色侧颜随拍",
+      "onboard_time": 1680793230,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 191845,
@@ -2027,6 +2083,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 181489,
+      "num": 181489,
+      "word": "这狗子咋跟条毯子似的",
+      "onboard_time": 1680792633,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 180973,
       "num": 180973,
       "word": "葱香盐焗手撕鸡",
@@ -2171,6 +2235,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 162590,
+      "num": 162590,
+      "word": "陈小纭说和彭冠英第一次见面是在厕所",
+      "onboard_time": 1680793712,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 162510,
       "num": 162510,
       "word": "BoysPlanet三公音源空降",
@@ -2193,14 +2265,6 @@
       "onboard_time": 1680773251,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 158491,
-      "num": 158491,
-      "word": "北飘7年的房租",
-      "onboard_time": 1680791193,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 157124,
@@ -2297,6 +2361,14 @@
       "onboard_time": 1680764125,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 146477,
+      "num": 146477,
+      "word": "章昊连续两次公演第一",
+      "onboard_time": 1680792692,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 146375,
@@ -2465,6 +2537,14 @@
       "onboard_time": 1680702630,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 119374,
+      "num": 119374,
+      "word": "陈立农说不一样未来的第一天",
+      "onboard_time": 1680792573,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 118460,
