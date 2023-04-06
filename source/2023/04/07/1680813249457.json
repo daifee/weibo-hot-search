@@ -1,0 +1,410 @@
+{
+  "runTime": 1680813249457,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 154378,
+        "num": 154378,
+        "word": "代号鸢",
+        "onboard_time": 1680792692,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 94202,
+        "num": 94202,
+        "word": "润玉时期多好看",
+        "onboard_time": 1680785010,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1571,
+        "num": 67011,
+        "word": "卫星视角下的祖国大地春意盎然",
+        "onboard_time": 1680752308,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50814,
+        "num": 50814,
+        "word": "美国男子承认掰断并偷走兵马俑手指",
+        "onboard_time": 1680773129,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45632,
+        "num": 45632,
+        "word": "长月烬明开播观后感",
+        "onboard_time": 1680779369,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 42800,
+        "num": 42800,
+        "word": "曝颖儿代言某家居品牌爆雷",
+        "onboard_time": 1680784890,
+        "rank": 5,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 41350,
+        "num": 41350,
+        "word": "中电科称网上的任免文件明显伪造",
+        "onboard_time": 1680788492,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40637,
+        "num": 40637,
+        "word": "国内新恋综游戏尺度",
+        "onboard_time": 1680781409,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36080,
+        "num": 36080,
+        "word": "声生不息把李玟怒斥好声音剪进正片",
+        "onboard_time": 1680784351,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31491,
+        "num": 31491,
+        "word": "北漂7年的房租",
+        "onboard_time": 1680791193,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 54773,
+        "num": 31244,
+        "word": "郑容和被韩国酵母放了一马",
+        "onboard_time": 1680788850,
+        "rank": 10,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 41208,
+        "num": 31122,
+        "word": "女子实名举报父亲受贿1900万元",
+        "onboard_time": 1680774928,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36653,
+        "num": 31072,
+        "word": "重庆姐弟坠亡案",
+        "onboard_time": 1680789752,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30995,
+        "num": 30995,
+        "word": "工作4年就诊了50次",
+        "onboard_time": 1680782067,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 30186,
+        "num": 30186,
+        "word": "指望中国在台湾问题妥协退让是痴心妄想",
+        "onboard_time": 1680790533,
+        "rank": 14,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 30095,
+        "num": 30095,
+        "word": "叶冰裳",
+        "onboard_time": 1680789395,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 26736,
+        "num": 26736,
+        "word": "张杰华晨宇互唱对方代表作",
+        "onboard_time": 1680784531,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26259,
+        "num": 26259,
+        "word": "白鹿演技",
+        "onboard_time": 1680779969,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 23812,
+        "num": 23812,
+        "word": "孙策胸肌",
+        "onboard_time": 1680771211,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 25942,
+        "num": 23773,
+        "word": "长月烬明配音对不上口型",
+        "onboard_time": 1680779250,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 26427,
+        "num": 23772,
+        "word": "痛经的人有福了",
+        "onboard_time": 1680781528,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 23721,
+        "num": 23721,
+        "word": "接下来4个月都有10天假期",
+        "onboard_time": 1680769650,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 23000,
+        "num": 23000,
+        "word": "五月天鸟巢演唱会连开六场",
+        "onboard_time": 1680799762,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 22604,
+        "num": 22604,
+        "word": "重庆姐弟坠亡案二审择期宣判",
+        "onboard_time": 1680792394,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21179,
+        "num": 21179,
+        "word": "密室逃脱拼到周笔畅",
+        "onboard_time": 1680786871,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20042,
+        "num": 20042,
+        "word": "欧盟委员会主席访华",
+        "onboard_time": 1680797243,
+        "rank": 25,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 18334,
+        "num": 18334,
+        "word": "RNG上单 五世同堂",
+        "onboard_time": 1680789514,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 18007,
+        "num": 18007,
+        "word": "in了",
+        "onboard_time": 1680779911,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17722,
+        "num": 17722,
+        "word": "早期甜妹的杀伤力有多强",
+        "onboard_time": 1680783752,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 16827,
+        "num": 16827,
+        "word": "张小斐蓝裙子直播状态",
+        "onboard_time": 1680792933,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 16776,
+        "num": 16776,
+        "word": "徐州烧烤",
+        "onboard_time": 1680777930,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 16488,
+        "num": 16488,
+        "word": "目前本人的财务状况",
+        "onboard_time": 1680783271,
+        "rank": 31,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 16474,
+        "num": 16474,
+        "word": "高加林刘巧珍爱情变亲情",
+        "onboard_time": 1680785251,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 16029,
+        "num": 16029,
+        "word": "陈小纭说和彭冠英第一次见面是在厕所",
+        "onboard_time": 1680793712,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 15534,
+        "num": 15534,
+        "word": "研究称高脂饮食自由或将实现",
+        "onboard_time": 1680786933,
+        "rank": 34,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 15482,
+        "num": 15482,
+        "word": "朱一龙易烊千玺 合作",
+        "onboard_time": 1680775291,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 15206,
+        "num": 15206,
+        "word": "冯晓桐 王宝宝",
+        "onboard_time": 1680790233,
+        "rank": 36,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 15130,
+        "num": 15130,
+        "word": "刘亦菲托腮自拍",
+        "onboard_time": 1680778289,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15049,
+        "num": 15049,
+        "word": "大家去长沙不会都是为了吃吧",
+        "onboard_time": 1680786153,
+        "rank": 38,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 14494,
+        "num": 14494,
+        "word": "好友好有爱",
+        "onboard_time": 1680795809,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14468,
+        "num": 14468,
+        "word": "当有身高差的人穿上青蛙服",
+        "onboard_time": 1680791614,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 13565,
+        "num": 13565,
+        "word": "原来中国古代也有十二星座",
+        "onboard_time": 1680812651,
+        "rank": 41,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 12625,
+        "num": 12625,
+        "word": "aespa吐槽ae成员",
+        "onboard_time": 1680788013,
+        "rank": 42,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 12575,
+        "num": 12575,
+        "word": "鹿晗 广海",
+        "onboard_time": 1680771330,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 12217,
+        "num": 12572,
+        "word": "EDG晋级胜者组决赛",
+        "onboard_time": 1680785731,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 11591,
+        "num": 12566,
+        "word": "主打的就是一个弹性聊天",
+        "onboard_time": 1680792518,
+        "rank": 45,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 11386,
+        "num": 12559,
+        "word": "嘴大 冯晓桐",
+        "onboard_time": 1680782971,
+        "rank": 46,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 11357,
+        "num": 12557,
+        "word": "杨紫琼获戛纳电影节跃动她影奖",
+        "onboard_time": 1680793593,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 11317,
+        "num": 12552,
+        "word": "女书",
+        "onboard_time": 1680797066,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11212,
+        "num": 12546,
+        "word": "爱情而已明晚直通大结局",
+        "onboard_time": 1680789873,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#我国经济发展实现较好开局#"
+    }
+  }
+}
