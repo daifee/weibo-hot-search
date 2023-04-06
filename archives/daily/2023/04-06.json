@@ -1,6 +1,6 @@
 {
   "startTime": 1680712017153,
-  "endTime": 1680754842222,
+  "endTime": 1680755684938,
   "band_list": [
     {
       "raw_hot": 4573993,
@@ -11,8 +11,8 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 2551195,
-      "num": 2551195,
+      "raw_hot": 2593229,
+      "num": 2593229,
       "word": "苏炳添回应用iPhone14发微博",
       "onboard_time": 1680747148,
       "rank": 21,
@@ -25,6 +25,14 @@
       "onboard_time": 1680743188,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1962858,
+      "num": 1962858,
+      "word": "加班文化为啥屡禁不止",
+      "onboard_time": 1680743610,
+      "rank": 15,
+      "category": "社会议题,财经"
     },
     {
       "raw_hot": 1959867,
@@ -52,7 +60,7 @@
     },
     {
       "raw_hot": 1660057,
-      "num": 358246,
+      "num": 406238,
       "word": "范丞丞工作室认证蓝V",
       "onboard_time": 1680746547,
       "rank": 20,
@@ -73,14 +81,6 @@
       "onboard_time": 1680742230,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1547641,
-      "num": 1547641,
-      "word": "加班文化为啥屡禁不止",
-      "onboard_time": 1680743610,
-      "rank": 15,
-      "category": "社会议题,财经"
     },
     {
       "raw_hot": 1498158,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 1037260,
-      "num": 597181,
+      "num": 612844,
       "word": "贾静雯状态",
       "onboard_time": 1680744688,
       "rank": 16,
@@ -155,12 +155,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 867584,
-      "num": 867584,
+      "raw_hot": 904374,
+      "num": 904374,
       "word": "谁帮我回一下",
       "onboard_time": 1680752668,
       "rank": 7,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 872900,
+      "num": 417730,
+      "word": "男子用手电筒吓死千只鸡获刑6个月",
+      "onboard_time": 1680752367,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 850971,
@@ -177,14 +185,6 @@
       "onboard_time": 1680697951,
       "rank": 5,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 818124,
-      "num": 370892,
-      "word": "男子用手电筒吓死千只鸡获刑6个月",
-      "onboard_time": 1680752367,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 814505,
@@ -211,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 771505,
+      "num": 771505,
+      "word": "陈飞宇周也新片be氛围感",
+      "onboard_time": 1680752608,
+      "rank": 9,
+      "category": "影视,影视"
+    },
+    {
       "raw_hot": 768487,
       "num": 328453,
       "word": "巩俐夫妇",
@@ -225,14 +233,6 @@
       "onboard_time": 1680708932,
       "rank": 4,
       "category": "教育"
-    },
-    {
-      "raw_hot": 744273,
-      "num": 744273,
-      "word": "陈飞宇周也新片be氛围感",
-      "onboard_time": 1680752608,
-      "rank": 9,
-      "category": "影视,影视"
     },
     {
       "raw_hot": 736476,
@@ -292,7 +292,7 @@
     },
     {
       "raw_hot": 525115,
-      "num": 352114,
+      "num": 405415,
       "word": "老人2800卖老照片女生感动险上当",
       "onboard_time": 1680747209,
       "rank": 25,
@@ -363,6 +363,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 420250,
+      "num": 420250,
+      "word": "长月烬明角色练级局",
+      "onboard_time": 1680754774,
+      "rank": 29,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 418946,
       "num": 418946,
       "word": "长月烬明终极预告",
@@ -396,7 +404,7 @@
     },
     {
       "raw_hot": 402762,
-      "num": 344283,
+      "num": 400726,
       "word": "乐华七子会解散吗",
       "onboard_time": 1680751468,
       "rank": 34,
@@ -419,12 +427,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 342961,
-      "num": 342961,
+      "raw_hot": 371811,
+      "num": 371811,
       "word": "重庆密室好卷",
       "onboard_time": 1680752849,
       "rank": 25,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 347512,
+      "num": 347512,
+      "word": "今天开播三部新剧",
+      "onboard_time": 1680753990,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 341223,
@@ -483,6 +499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 317973,
+      "num": 317973,
+      "word": "湖人vs快船",
+      "onboard_time": 1680750028,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 317843,
       "num": 317843,
       "word": "小米2022年品牌价值缩水54%",
@@ -523,14 +547,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 282986,
-      "num": 282986,
-      "word": "长月烬明角色练级局",
-      "onboard_time": 1680754774,
-      "rank": 29,
-      "category": "影视,动漫"
-    },
-    {
       "raw_hot": 280689,
       "num": 215097,
       "word": "空气炸锅还有多少惊喜是我不知道的",
@@ -569,14 +585,6 @@
       "onboard_time": 1680684088,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 248312,
-      "num": 248312,
-      "word": "湖人vs快船",
-      "onboard_time": 1680750028,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 245760,
@@ -707,6 +715,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 205901,
+      "num": 205901,
+      "word": "高圆圆吃艾草麻糍",
+      "onboard_time": 1680755498,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204173,
       "num": 204173,
       "word": "尘封十三载",
@@ -745,14 +761,6 @@
       "onboard_time": 1680702272,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 187750,
-      "num": 187750,
-      "word": "今天开播三部新剧",
-      "onboard_time": 1680753990,
-      "rank": 39,
-      "category": "影视"
     },
     {
       "raw_hot": 185702,
@@ -811,6 +819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 168358,
+      "num": 168358,
+      "word": "半熟恋人2",
+      "onboard_time": 1680753330,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 167161,
       "num": 167161,
       "word": "宫脇咲良和鞠婧祎专辑合照",
@@ -827,20 +843,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 163989,
-      "num": 163989,
-      "word": "半熟恋人2",
-      "onboard_time": 1680753330,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 162649,
       "num": 162649,
       "word": "豆瓣",
       "onboard_time": 1680700830,
       "rank": 31,
       "category": "科技"
+    },
+    {
+      "raw_hot": 161083,
+      "num": 161083,
+      "word": "13岁男孩患急性脑脊髓炎突然瘫痪",
+      "onboard_time": 1680755315,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156673,
@@ -889,6 +905,14 @@
       "onboard_time": 1680699213,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 146204,
+      "num": 149578,
+      "word": "杨宗纬张韶涵陈立农唱第一天",
+      "onboard_time": 1680755255,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 144570,
@@ -1075,20 +1099,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 102052,
+      "num": 2045776,
+      "word": "卫星视角下的祖国大地春意盎然",
+      "onboard_time": 1680752308,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 94114,
       "num": 94114,
       "word": "蝴蝶乒乓暂停销售有张继科肖像产品",
       "onboard_time": 1680680310,
       "rank": 47,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 94018,
-      "num": 1887269,
-      "word": "卫星视角下的祖国大地春意盎然",
-      "onboard_time": 1680752308,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 94010,
