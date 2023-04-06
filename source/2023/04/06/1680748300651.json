@@ -1,0 +1,410 @@
+{
+  "runTime": 1680748300651,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1623346,
+        "num": 1623346,
+        "word": "广东已经迎来甲流新流行高峰",
+        "onboard_time": 1680742230,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1362399,
+        "num": 1362399,
+        "word": "加班文化为啥屡禁不止",
+        "onboard_time": 1680743610,
+        "rank": 1,
+        "category": "社会议题,财经"
+      },
+      {
+        "raw_hot": 14298,
+        "num": 979613,
+        "word": "多希望你们看看山河无恙国泰民安",
+        "onboard_time": 1680665070,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 954619,
+        "num": 954619,
+        "word": "iPhone15将首次由印度参与首批供货",
+        "onboard_time": 1680746608,
+        "rank": 3,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 750849,
+        "num": 750849,
+        "word": "恋爱一个月男朋友送我伞带",
+        "onboard_time": 1680704372,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 736970,
+        "num": 736970,
+        "word": "工资六千的岗位面试了6轮",
+        "onboard_time": 1680703530,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 703074,
+        "num": 703074,
+        "word": "蛋仔派对",
+        "onboard_time": 1680744089,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 482557,
+        "num": 482557,
+        "word": "重庆姐弟坠亡案今日二审",
+        "onboard_time": 1680745768,
+        "rank": 7,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 470277,
+        "num": 470277,
+        "word": "乘风4一公歌单",
+        "onboard_time": 1680745048,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 418946,
+        "num": 418946,
+        "word": "长月烬明终极预告",
+        "onboard_time": 1680745886,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1769171,
+        "num": 417328,
+        "word": "马克龙 黄渤",
+        "onboard_time": 1680743188,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1037260,
+        "num": 417231,
+        "word": "贾静雯状态",
+        "onboard_time": 1680744688,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 509643,
+        "num": 417101,
+        "word": "NINEPERCENT微博认证还没改",
+        "onboard_time": 1680744688,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 407121,
+        "num": 407121,
+        "word": "极限挑战第九季官宣",
+        "onboard_time": 1680747627,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 359370,
+        "num": 359370,
+        "word": "中方回应麦卡锡高调会见蔡英文",
+        "onboard_time": 1680740490,
+        "rank": 14,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 332103,
+        "num": 332103,
+        "word": "请假了一天的工位",
+        "onboard_time": 1680697951,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 318898,
+        "num": 318898,
+        "word": "创造营2019开播四周年",
+        "onboard_time": 1680744749,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 299870,
+        "num": 299870,
+        "word": "女子打人被拘期满后在线怼网友",
+        "onboard_time": 1680738927,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235575,
+        "num": 235575,
+        "word": "四川警方通报学生寝室内死亡",
+        "onboard_time": 1680696091,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205629,
+        "num": 205629,
+        "word": "天海祐希",
+        "onboard_time": 1680706593,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1660057,
+        "num": 205024,
+        "word": "范丞丞工作室认证蓝V",
+        "onboard_time": 1680746547,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 732230,
+        "num": 204128,
+        "word": "苏炳添回应用iPhone14发微博",
+        "onboard_time": 1680747148,
+        "rank": 21,
+        "category": "体育,科技"
+      },
+      {
+        "raw_hot": 415725,
+        "num": 203181,
+        "word": "刘浩存模仿自己的表情包",
+        "onboard_time": 1680746129,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 201067,
+        "num": 201067,
+        "word": "姐弟坠亡案生母称忏悔信非生父所写",
+        "onboard_time": 1680727632,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415524,
+        "num": 201042,
+        "word": "于正写藏头诗宣传白鹿新剧",
+        "onboard_time": 1680746967,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 359600,
+        "num": 200300,
+        "word": "老人2800卖老照片女生感动险上当",
+        "onboard_time": 1680747209,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265394,
+        "num": 199366,
+        "word": "小鬼 余佳运",
+        "onboard_time": 1680699394,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 260711,
+        "num": 198801,
+        "word": "柳智敏金发",
+        "onboard_time": 1680743728,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 244558,
+        "num": 198394,
+        "word": "TFBOYS前缀存档",
+        "onboard_time": 1680703952,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241612,
+        "num": 198177,
+        "word": "早期央视镜头下的迪丽热巴",
+        "onboard_time": 1680707794,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 629200,
+        "num": 197344,
+        "word": "马嘉祺丁程鑫暂停一期外务录制",
+        "onboard_time": 1680741092,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224324,
+        "num": 196925,
+        "word": "这海豚嘴都亲秃噜皮了",
+        "onboard_time": 1680745349,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 196495,
+        "num": 196495,
+        "word": "王一博电影人鱼预计今年7月开机",
+        "onboard_time": 1680747926,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 185702,
+        "num": 185702,
+        "word": "爸爸手绘600张图给儿子讲古建筑",
+        "onboard_time": 1680746427,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185611,
+        "num": 185611,
+        "word": "郭德纲意外收到已故京剧老人的礼物",
+        "onboard_time": 1680697351,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183278,
+        "num": 183278,
+        "word": "于文文声生不息曹操预告",
+        "onboard_time": 1680744627,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180815,
+        "num": 180815,
+        "word": "不良人",
+        "onboard_time": 1680748167,
+        "rank": 36,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 175375,
+        "num": 175375,
+        "word": "巩俐夫妇",
+        "onboard_time": 1680700653,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161336,
+        "num": 161336,
+        "word": "他这个钱赚得我是不眼红的",
+        "onboard_time": 1680705694,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 151953,
+        "num": 151953,
+        "word": "为什么说总要去一次上海",
+        "onboard_time": 1680739170,
+        "rank": 39,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 149520,
+        "num": 149520,
+        "word": "今天是秀粉的纪念日",
+        "onboard_time": 1680744806,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 133904,
+        "num": 133904,
+        "word": "剪指甲最好剪成方形的",
+        "onboard_time": 1680691830,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123232,
+        "num": 123232,
+        "word": "京考",
+        "onboard_time": 1680748108,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 118898,
+        "num": 118898,
+        "word": "空气炸锅还有多少惊喜是我不知道的",
+        "onboard_time": 1680708752,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 117328,
+        "num": 117328,
+        "word": "特朗普若定罪也不用被监禁",
+        "onboard_time": 1680716895,
+        "rank": 44,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 115754,
+        "num": 115754,
+        "word": "巴萨0比4皇马",
+        "onboard_time": 1680736101,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112914,
+        "num": 112914,
+        "word": "江苏浙江的石楠花开了",
+        "onboard_time": 1680731052,
+        "rank": 46,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 111594,
+        "num": 111594,
+        "word": "5个特征辨别你是否湿气重",
+        "onboard_time": 1680722473,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108328,
+        "num": 108328,
+        "word": "洪知秀照顾金珉奎的方式",
+        "onboard_time": 1680744328,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108204,
+        "num": 108204,
+        "word": "上海出发1小时就能到的城市",
+        "onboard_time": 1680705154,
+        "rank": 49,
+        "category": "旅游,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#为什么和平年代同样需要英雄情怀#"
+    }
+  }
+}

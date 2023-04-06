@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680745487094,
+  "endTime": 1680748300651,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -508,7 +508,7 @@
     },
     {
       "raw_hot": 1989231,
-      "num": 237447,
+      "num": 417328,
       "word": "马克龙 黄渤",
       "onboard_time": 1680743188,
       "rank": 10,
@@ -587,6 +587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1660057,
+      "num": 205024,
+      "word": "范丞丞工作室认证蓝V",
+      "onboard_time": 1680746547,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1656680,
       "num": 1656680,
       "word": "恋爱一个月男朋友送我伞带",
@@ -625,6 +633,14 @@
       "onboard_time": 1680620733,
       "rank": 7,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 1623346,
+      "num": 1623346,
+      "word": "广东已经迎来甲流新流行高峰",
+      "onboard_time": 1680742230,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1618293,
@@ -763,14 +779,6 @@
       "category": "社会新闻,社会正能量"
     },
     {
-      "raw_hot": 1403059,
-      "num": 1403059,
-      "word": "广东已经迎来甲流新流行高峰",
-      "onboard_time": 1680742230,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1391775,
       "num": 1391775,
       "word": "品如艾莉都参加乘风破浪4了",
@@ -801,6 +809,14 @@
       "onboard_time": 1680576867,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1362399,
+      "num": 1362399,
+      "word": "加班文化为啥屡禁不止",
+      "onboard_time": 1680743610,
+      "rank": 15,
+      "category": "社会议题,财经"
     },
     {
       "raw_hot": 1350707,
@@ -905,14 +921,6 @@
       "onboard_time": 1680323190,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1200041,
-      "num": 1200041,
-      "word": "加班文化为啥屡禁不止",
-      "onboard_time": 1680743610,
-      "rank": 15,
-      "category": "社会议题,财经"
     },
     {
       "raw_hot": 1192024,
@@ -1091,6 +1099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1037260,
+      "num": 417231,
+      "word": "贾静雯状态",
+      "onboard_time": 1680744688,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1017908,
       "num": 1017908,
       "word": "姐弟坠亡案母亲称绝不放过叶诚尘",
@@ -1203,6 +1219,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 954619,
+      "num": 954619,
+      "word": "iPhone15将首次由印度参与首批供货",
+      "onboard_time": 1680746608,
+      "rank": 3,
+      "category": "科技"
+    },
+    {
       "raw_hot": 953500,
       "num": 953500,
       "word": "Viper",
@@ -1260,7 +1284,7 @@
     },
     {
       "raw_hot": 924951,
-      "num": 236067,
+      "num": 359370,
       "word": "中方回应麦卡锡高调会见蔡英文",
       "onboard_time": 1680740490,
       "rank": 11,
@@ -1268,7 +1292,7 @@
     },
     {
       "raw_hot": 920657,
-      "num": 221139,
+      "num": 417101,
       "word": "NINEPERCENT微博认证还没改",
       "onboard_time": 1680744688,
       "rank": 11,
@@ -1732,7 +1756,7 @@
     },
     {
       "raw_hot": 736476,
-      "num": 235838,
+      "num": 299870,
       "word": "女子打人被拘期满后在线怼网友",
       "onboard_time": 1680738927,
       "rank": 12,
@@ -1745,6 +1769,14 @@
       "onboard_time": 1680660330,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 732230,
+      "num": 204128,
+      "word": "苏炳添回应用iPhone14发微博",
+      "onboard_time": 1680747148,
+      "rank": 21,
+      "category": "体育,科技"
     },
     {
       "raw_hot": 731250,
@@ -3035,6 +3067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 482557,
+      "num": 482557,
+      "word": "重庆姐弟坠亡案今日二审",
+      "onboard_time": 1680745768,
+      "rank": 7,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 481977,
       "num": 481977,
       "word": "代号鸢 养卡",
@@ -3161,6 +3201,14 @@
       "onboard_time": 1680699213,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 470277,
+      "num": 470277,
+      "word": "乘风4一公歌单",
+      "onboard_time": 1680745048,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 470050,
@@ -3579,6 +3627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 418946,
+      "num": 418946,
+      "word": "长月烬明终极预告",
+      "onboard_time": 1680745886,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 418841,
       "num": 418841,
       "word": "朴珍荣确定将于5月8日入伍",
@@ -3627,6 +3683,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 415725,
+      "num": 203181,
+      "word": "刘浩存模仿自己的表情包",
+      "onboard_time": 1680746129,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 415524,
+      "num": 201042,
+      "word": "于正写藏头诗宣传白鹿新剧",
+      "onboard_time": 1680746967,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 415234,
       "num": 415234,
       "word": "张嘉元误伤周柯宇",
@@ -3659,14 +3731,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 411676,
-      "num": 215493,
-      "word": "贾静雯状态",
-      "onboard_time": 1680744688,
-      "rank": 16,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 410090,
       "num": 410090,
       "word": "Billlie初一位",
@@ -3697,6 +3761,14 @@
       "onboard_time": 1680584854,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 407121,
+      "num": 407121,
+      "word": "极限挑战第九季官宣",
+      "onboard_time": 1680747627,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 406650,
@@ -4089,6 +4161,14 @@
       "onboard_time": 1680707794,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 359600,
+      "num": 200300,
+      "word": "老人2800卖老照片女生感动险上当",
+      "onboard_time": 1680747209,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 357397,
@@ -4585,6 +4665,14 @@
       "onboard_time": 1680334828,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 318898,
+      "num": 318898,
+      "word": "创造营2019开播四周年",
+      "onboard_time": 1680744749,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 318308,
@@ -5635,14 +5723,6 @@
       "category": "自然"
     },
     {
-      "raw_hot": 253258,
-      "num": 174902,
-      "word": "乘风4一公歌单",
-      "onboard_time": 1680745048,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 253090,
       "num": 218706,
       "word": "猫咪调摄像头向主人告状",
@@ -6179,6 +6259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 224324,
+      "num": 196925,
+      "word": "这海豚嘴都亲秃噜皮了",
+      "onboard_time": 1680745349,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 224276,
       "num": 224276,
       "word": "青团",
@@ -6193,14 +6281,6 @@
       "onboard_time": 1680501091,
       "rank": 34,
       "category": "情感,社会新闻"
-    },
-    {
-      "raw_hot": 223722,
-      "num": 223722,
-      "word": "创造营2019开播四周年",
-      "onboard_time": 1680744749,
-      "rank": 9,
-      "category": "综艺"
     },
     {
       "raw_hot": 223442,
@@ -7627,6 +7707,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 196495,
+      "num": 196495,
+      "word": "王一博电影人鱼预计今年7月开机",
+      "onboard_time": 1680747926,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 196467,
       "num": 196467,
       "word": "张国荣纪念音乐会直播点赞变玫瑰",
@@ -8227,6 +8315,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 185702,
+      "num": 185702,
+      "word": "爸爸手绘600张图给儿子讲古建筑",
+      "onboard_time": 1680746427,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185519,
       "num": 185519,
       "word": "WB对战狼队",
@@ -8363,6 +8459,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 183278,
+      "num": 183278,
+      "word": "于文文声生不息曹操预告",
+      "onboard_time": 1680744627,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183179,
       "num": 183179,
       "word": "一个招财猫一个要饭猫",
@@ -8473,6 +8577,14 @@
       "onboard_time": 1680604229,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 180815,
+      "num": 180815,
+      "word": "不良人",
+      "onboard_time": 1680748167,
+      "rank": 36,
+      "category": "动漫"
     },
     {
       "raw_hot": 180684,
@@ -9441,14 +9553,6 @@
       "onboard_time": 1680318868,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 155535,
-      "num": 155535,
-      "word": "于文文声生不息曹操预告",
-      "onboard_time": 1680744627,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 155522,
@@ -10707,6 +10811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 123232,
+      "num": 123232,
+      "word": "京考",
+      "onboard_time": 1680748108,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
       "raw_hot": 122835,
       "num": 122835,
       "word": "当狗狗和好朋友开视频时",
@@ -11553,14 +11665,6 @@
       "onboard_time": 1680399507,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 86863,
-      "num": 105505,
-      "word": "这海豚嘴都亲秃噜皮了",
-      "onboard_time": 1680745349,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 85804,
