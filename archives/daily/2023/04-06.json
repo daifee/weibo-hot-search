@@ -1,10 +1,10 @@
 {
   "startTime": 1680712017153,
-  "endTime": 1680751060734,
+  "endTime": 1680752031513,
   "band_list": [
     {
       "raw_hot": 1989231,
-      "num": 455972,
+      "num": 491977,
       "word": "马克龙 黄渤",
       "onboard_time": 1680743188,
       "rank": 10,
@@ -19,8 +19,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1881335,
-      "num": 1881335,
+      "raw_hot": 1952598,
+      "num": 1952598,
       "word": "极限挑战第九季官宣",
       "onboard_time": 1680747627,
       "rank": 13,
@@ -92,11 +92,19 @@
     },
     {
       "raw_hot": 1021196,
-      "num": 310156,
+      "num": 937826,
       "word": "苏炳添回应用iPhone14发微博",
       "onboard_time": 1680747148,
       "rank": 21,
       "category": "体育,科技"
+    },
+    {
+      "raw_hot": 997507,
+      "num": 997507,
+      "word": "黄景瑜白百何新片调查性侵案",
+      "onboard_time": 1680749786,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 924951,
@@ -155,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 770559,
+      "num": 770559,
+      "word": "为救高烧小朋友高铁临时停车2分钟",
+      "onboard_time": 1680749968,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 768487,
       "num": 328453,
       "word": "巩俐夫妇",
@@ -179,20 +195,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 712038,
-      "num": 712038,
-      "word": "黄景瑜白百何新片调查性侵案",
-      "onboard_time": 1680749786,
-      "rank": 6,
-      "category": "影视"
-    },
-    {
       "raw_hot": 678332,
       "num": 325998,
       "word": "天海祐希",
       "onboard_time": 1680706593,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 630396,
+      "num": 630396,
+      "word": "半导体",
+      "onboard_time": 1680748407,
+      "rank": 35,
+      "category": "财经,科技"
     },
     {
       "raw_hot": 622965,
@@ -209,14 +225,6 @@
       "onboard_time": 1680703952,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 593944,
-      "num": 593944,
-      "word": "半导体",
-      "onboard_time": 1680748407,
-      "rank": 35,
-      "category": "财经,科技"
     },
     {
       "raw_hot": 525115,
@@ -323,14 +331,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 379142,
-      "num": 379142,
-      "word": "为救高烧小朋友高铁临时停车2分钟",
-      "onboard_time": 1680749968,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 341223,
       "num": 341223,
       "word": "巴萨0比4皇马",
@@ -387,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 317843,
+      "num": 317843,
+      "word": "小米2022年品牌价值缩水54%",
+      "onboard_time": 1680750146,
+      "rank": 34,
+      "category": "财经,科技"
+    },
+    {
       "raw_hot": 313891,
       "num": 313891,
       "word": "电影无名网播定档",
@@ -435,6 +443,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 279640,
+      "num": 279640,
+      "word": "网红景点vs去了以后",
+      "onboard_time": 1680748827,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 267884,
       "num": 267884,
       "word": "巧珍眼里没光了",
@@ -451,14 +467,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 251357,
-      "num": 251357,
-      "word": "网红景点vs去了以后",
-      "onboard_time": 1680748827,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 245760,
       "num": 245760,
       "word": "马栓下线",
@@ -473,6 +481,14 @@
       "onboard_time": 1680749309,
       "rank": 29,
       "category": "科技"
+    },
+    {
+      "raw_hot": 240175,
+      "num": 240175,
+      "word": "恩爱两不疑饭点开播",
+      "onboard_time": 1680749613,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 238697,
@@ -523,6 +539,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 227495,
+      "num": 227495,
+      "word": "蛋仔派对回应无法登陆",
+      "onboard_time": 1680749727,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 222150,
       "num": 222150,
       "word": "Xun导 不愧是你",
@@ -563,20 +587,20 @@
       "category": "作品衍生,幽默"
     },
     {
-      "raw_hot": 212340,
-      "num": 212340,
-      "word": "小米2022年品牌价值缩水54%",
-      "onboard_time": 1680750146,
-      "rank": 34,
-      "category": "财经,科技"
-    },
-    {
       "raw_hot": 211422,
       "num": 211422,
       "word": "金智秀新歌表演视频",
       "onboard_time": 1680737363,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 210144,
+      "num": 210144,
+      "word": "乐华七子会解散吗",
+      "onboard_time": 1680751468,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 206239,
@@ -587,28 +611,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 205183,
-      "num": 205183,
-      "word": "恩爱两不疑饭点开播",
-      "onboard_time": 1680749613,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 204173,
       "num": 204173,
       "word": "尘封十三载",
       "onboard_time": 1680750207,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 203968,
-      "num": 203968,
-      "word": "蛋仔派对回应无法登陆",
-      "onboard_time": 1680749727,
-      "rank": 38,
-      "category": "游戏"
     },
     {
       "raw_hot": 195375,
@@ -691,6 +699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 167418,
+      "num": 167418,
+      "word": "考研热度为何居高不下",
+      "onboard_time": 1680751408,
+      "rank": 40,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 167161,
       "num": 167161,
       "word": "宫脇咲良和鞠婧祎专辑合照",
@@ -739,6 +755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 149336,
+      "num": 149336,
+      "word": "宋三川叫安从爸爸",
+      "onboard_time": 1680750987,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 147842,
       "num": 147842,
       "word": "以后能不能每个周三都放假",
@@ -761,6 +785,14 @@
       "onboard_time": 1680699213,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 144027,
+      "num": 144027,
+      "word": "灿烂的转身爽点",
+      "onboard_time": 1680751589,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 136297,
@@ -827,20 +859,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 118787,
-      "num": 118787,
-      "word": "宋三川叫安从爸爸",
-      "onboard_time": 1680750987,
-      "rank": 48,
-      "category": "影视"
-    },
-    {
       "raw_hot": 118460,
       "num": 118460,
       "word": "aespa新歌MV拍摄路透",
       "onboard_time": 1680745108,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 117427,
+      "num": 117427,
+      "word": "明日方舟",
+      "onboard_time": 1680751887,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 116515,

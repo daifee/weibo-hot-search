@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680751060734,
+  "endTime": 1680752031513,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -508,7 +508,7 @@
     },
     {
       "raw_hot": 1989231,
-      "num": 455972,
+      "num": 491977,
       "word": "马克龙 黄渤",
       "onboard_time": 1680743188,
       "rank": 10,
@@ -555,8 +555,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1881335,
-      "num": 1881335,
+      "raw_hot": 1952598,
+      "num": 1952598,
       "word": "极限挑战第九季官宣",
       "onboard_time": 1680747627,
       "rank": 13,
@@ -1124,7 +1124,7 @@
     },
     {
       "raw_hot": 1021196,
-      "num": 310156,
+      "num": 937826,
       "word": "苏炳添回应用iPhone14发微博",
       "onboard_time": 1680747148,
       "rank": 21,
@@ -1161,6 +1161,14 @@
       "onboard_time": 1680402627,
       "rank": 38,
       "category": "网红"
+    },
+    {
+      "raw_hot": 997507,
+      "num": 997507,
+      "word": "黄景瑜白百何新片调查性侵案",
+      "onboard_time": 1680749786,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 988266,
@@ -1691,6 +1699,14 @@
       "category": "时尚,艺人"
     },
     {
+      "raw_hot": 770559,
+      "num": 770559,
+      "word": "为救高烧小朋友高铁临时停车2分钟",
+      "onboard_time": 1680749968,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 769928,
       "num": 769928,
       "word": "国产恐怖片还有未来吗",
@@ -1889,14 +1905,6 @@
       "onboard_time": 1680656247,
       "rank": 11,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 712038,
-      "num": 712038,
-      "word": "黄景瑜白百何新片调查性侵案",
-      "onboard_time": 1680749786,
-      "rank": 6,
-      "category": "影视"
     },
     {
       "raw_hot": 709344,
@@ -2235,6 +2243,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 630396,
+      "num": 630396,
+      "word": "半导体",
+      "onboard_time": 1680748407,
+      "rank": 35,
+      "category": "财经,科技"
+    },
+    {
       "raw_hot": 629984,
       "num": 629984,
       "word": "法国总统马克龙抵达北京",
@@ -2401,14 +2417,6 @@
       "onboard_time": 1680509973,
       "rank": 46,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 593944,
-      "num": 593944,
-      "word": "半导体",
-      "onboard_time": 1680748407,
-      "rank": 35,
-      "category": "财经,科技"
     },
     {
       "raw_hot": 593416,
@@ -4067,14 +4075,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 379142,
-      "num": 379142,
-      "word": "为救高烧小朋友高铁临时停车2分钟",
-      "onboard_time": 1680749968,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 378584,
       "num": 378584,
       "word": "双马一矿通报与孙国友协商进展",
@@ -4723,6 +4723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 317843,
+      "num": 317843,
+      "word": "小米2022年品牌价值缩水54%",
+      "onboard_time": 1680750146,
+      "rank": 34,
+      "category": "财经,科技"
+    },
+    {
       "raw_hot": 316207,
       "num": 316207,
       "word": "珍的栓Q彻底BE",
@@ -5241,6 +5249,14 @@
       "onboard_time": 1680663269,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 279640,
+      "num": 279640,
+      "word": "网红景点vs去了以后",
+      "onboard_time": 1680748827,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 279196,
@@ -5803,14 +5819,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 251357,
-      "num": 251357,
-      "word": "网红景点vs去了以后",
-      "onboard_time": 1680748827,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 251234,
       "num": 251234,
       "word": "飞猪机票盲盒活动翻车",
@@ -6025,6 +6033,14 @@
       "onboard_time": 1680413488,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 240175,
+      "num": 240175,
+      "word": "恩爱两不疑饭点开播",
+      "onboard_time": 1680749613,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 240128,
@@ -6273,6 +6289,14 @@
       "onboard_time": 1680585689,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 227495,
+      "num": 227495,
+      "word": "蛋仔派对回应无法登陆",
+      "onboard_time": 1680749727,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 227355,
@@ -6747,14 +6771,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 212340,
-      "num": 212340,
-      "word": "小米2022年品牌价值缩水54%",
-      "onboard_time": 1680750146,
-      "rank": 34,
-      "category": "财经,科技"
-    },
-    {
       "raw_hot": 212327,
       "num": 212327,
       "word": "张角久哲战至巅峰",
@@ -6841,6 +6857,14 @@
       "onboard_time": 1680605131,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 210144,
+      "num": 210144,
+      "word": "乐华七子会解散吗",
+      "onboard_time": 1680751468,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 209978,
@@ -7123,14 +7147,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 205183,
-      "num": 205183,
-      "word": "恩爱两不疑饭点开播",
-      "onboard_time": 1680749613,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 205159,
       "num": 205159,
       "word": "赵丽颖与海鸥随拍",
@@ -7233,14 +7249,6 @@
       "onboard_time": 1680408389,
       "rank": 23,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 203968,
-      "num": 203968,
-      "word": "蛋仔派对回应无法登陆",
-      "onboard_time": 1680749727,
-      "rank": 38,
-      "category": "游戏"
     },
     {
       "raw_hot": 203573,
@@ -9187,6 +9195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 167418,
+      "num": 167418,
+      "word": "考研热度为何居高不下",
+      "onboard_time": 1680751408,
+      "rank": 40,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 167416,
       "num": 167416,
       "word": "阿娇孔雪儿蒋梦婕同框",
@@ -9987,6 +10003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 149336,
+      "num": 149336,
+      "word": "宋三川叫安从爸爸",
+      "onboard_time": 1680750987,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 148900,
       "num": 148900,
       "word": "一秒让人破防的瞬间",
@@ -10177,6 +10201,14 @@
       "onboard_time": 1680522933,
       "rank": 47,
       "category": "影视,时尚"
+    },
+    {
+      "raw_hot": 144027,
+      "num": 144027,
+      "word": "灿烂的转身爽点",
+      "onboard_time": 1680751589,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 143385,
@@ -11113,14 +11145,6 @@
       "onboard_time": 1680503429,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 118787,
-      "num": 118787,
-      "word": "宋三川叫安从爸爸",
-      "onboard_time": 1680750987,
-      "rank": 48,
-      "category": "影视"
     },
     {
       "raw_hot": 118460,
