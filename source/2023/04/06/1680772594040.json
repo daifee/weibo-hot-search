@@ -1,0 +1,410 @@
+{
+  "runTime": 1680772594040,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3541702,
+        "num": 3541702,
+        "word": "为i做e",
+        "onboard_time": 1680767788,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1175093,
+        "num": 1175093,
+        "word": "鹿晗 广海",
+        "onboard_time": 1680771330,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69574,
+        "num": 1032845,
+        "word": "加快数字中国建设",
+        "onboard_time": 1680768331,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 919691,
+        "num": 919691,
+        "word": "这个周四太幸福了",
+        "onboard_time": 1680761188,
+        "rank": 3,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 916631,
+        "num": 916631,
+        "word": "女子拒绝公司查看手机被无偿辞退",
+        "onboard_time": 1680768089,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 837128,
+        "num": 837128,
+        "word": "infp",
+        "onboard_time": 1680770791,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 805039,
+        "num": 805039,
+        "word": "孙策胸肌",
+        "onboard_time": 1680771211,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 719008,
+        "num": 719008,
+        "word": "才知道除了月经还有季经",
+        "onboard_time": 1680758490,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 523063,
+        "num": 523063,
+        "word": "泰坦尼克号女主参演阿凡达2",
+        "onboard_time": 1680769710,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 374286,
+        "num": 523057,
+        "word": "马克龙访华",
+        "onboard_time": 1680768449,
+        "rank": 9,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1735745,
+        "num": 522184,
+        "word": "内娱天选神女",
+        "onboard_time": 1680768331,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 897112,
+        "num": 521563,
+        "word": "秦昊回复伊能静刷我滴卡",
+        "onboard_time": 1680767128,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 733629,
+        "num": 520850,
+        "word": "法院认定谢娜张杰购房不存在跳单",
+        "onboard_time": 1680752668,
+        "rank": 12,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 573476,
+        "num": 520228,
+        "word": "李沁回应雨刮器腿",
+        "onboard_time": 1680762746,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 519734,
+        "num": 519734,
+        "word": "张译曾说刘浩存像他的一只猫",
+        "onboard_time": 1680766889,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 463792,
+        "num": 463792,
+        "word": "原来外卖的包装费还可以退",
+        "onboard_time": 1680766110,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 361991,
+        "num": 361991,
+        "word": "制片人辟谣高叶退出青春环游记",
+        "onboard_time": 1680769591,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 349214,
+        "num": 349214,
+        "word": "迪丽热巴狼尾造型",
+        "onboard_time": 1680758132,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 289100,
+        "num": 341443,
+        "word": "乘风破浪4古装四美",
+        "onboard_time": 1680766408,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253776,
+        "num": 341259,
+        "word": "苏炳添回应用iPhone14发微博",
+        "onboard_time": 1680747148,
+        "rank": 19,
+        "category": "体育,科技"
+      },
+      {
+        "raw_hot": 445066,
+        "num": 341242,
+        "word": "接下来4个月都有10天假期",
+        "onboard_time": 1680769650,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 341194,
+        "num": 341194,
+        "word": "周雨彤18岁到28岁颜值变化",
+        "onboard_time": 1680767369,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 297374,
+        "num": 297374,
+        "word": "男子用手电筒吓死千只鸡获刑6个月",
+        "onboard_time": 1680752367,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258257,
+        "num": 258257,
+        "word": "长月烬明最后可能只剩下剧名",
+        "onboard_time": 1680766589,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 239532,
+        "num": 239532,
+        "word": "好可爱的性格 好美好的女孩子",
+        "onboard_time": 1680766046,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 270797,
+        "num": 238602,
+        "word": "校方回应网传常熟某中学女生持刀伤人",
+        "onboard_time": 1680766589,
+        "rank": 25,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 250114,
+        "num": 237850,
+        "word": "定妆照诈骗",
+        "onboard_time": 1680766708,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 234660,
+        "num": 234660,
+        "word": "林心如模仿犯高光名场面",
+        "onboard_time": 1680768809,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 234312,
+        "num": 234312,
+        "word": "巴黎逛街偶遇王菲",
+        "onboard_time": 1680767548,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225620,
+        "num": 225620,
+        "word": "水果麻辣拌",
+        "onboard_time": 1680770852,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 229958,
+        "num": 221977,
+        "word": "Kakao涉嫌操纵股价被调查",
+        "onboard_time": 1680764787,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216224,
+        "num": 216224,
+        "word": "白鹿蚌壳装",
+        "onboard_time": 1680758790,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 200769,
+        "num": 200769,
+        "word": "女子和公公带俩孩给亡夫销户",
+        "onboard_time": 1680762807,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201802,
+        "num": 200768,
+        "word": "长月烬明",
+        "onboard_time": 1680767908,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 200651,
+        "num": 200651,
+        "word": "闵玧其官宣NBA全球大使",
+        "onboard_time": 1680764546,
+        "rank": 34,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 195845,
+        "num": 195845,
+        "word": "辅导员你真的很不幽默",
+        "onboard_time": 1680771449,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 191845,
+        "num": 191845,
+        "word": "张艺兴马伯骞单依纯合作新歌",
+        "onboard_time": 1680770551,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 189217,
+        "num": 189217,
+        "word": "安卓手机体验超过iPhone了吗",
+        "onboard_time": 1680770972,
+        "rank": 37,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 188809,
+        "num": 188809,
+        "word": "再也不怕回南天了",
+        "onboard_time": 1680768691,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 178028,
+        "num": 178028,
+        "word": "刘诗诗或将出席戛纳红毯",
+        "onboard_time": 1680772111,
+        "rank": 39,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 165128,
+        "num": 165128,
+        "word": "小龙虾桶面",
+        "onboard_time": 1680767369,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 158527,
+        "num": 158527,
+        "word": "蒋敦豪说种地吧房子装成他婚房了",
+        "onboard_time": 1680767489,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135816,
+        "num": 135816,
+        "word": "可爱的老师",
+        "onboard_time": 1680772411,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134982,
+        "num": 134982,
+        "word": "文俊辉晒尹净汉金珉奎翻船直拍",
+        "onboard_time": 1680771271,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134495,
+        "num": 134495,
+        "word": "品如艾莉不在一组",
+        "onboard_time": 1680764067,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133967,
+        "num": 133967,
+        "word": "情绪对结节影响有多大",
+        "onboard_time": 1680770489,
+        "rank": 45,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 133589,
+        "num": 133589,
+        "word": "再进化就得上班了",
+        "onboard_time": 1680767609,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133421,
+        "num": 133421,
+        "word": "考研调剂系统已开通",
+        "onboard_time": 1680766830,
+        "rank": 47,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 128400,
+        "num": 128400,
+        "word": "孔雪儿跳了tail",
+        "onboard_time": 1680770250,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 120018,
+        "num": 120018,
+        "word": "小米13Ultra",
+        "onboard_time": 1680768027,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#英雄之光#"
+    }
+  }
+}

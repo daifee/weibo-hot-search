@@ -1,6 +1,6 @@
 {
   "startTime": 1680712017153,
-  "endTime": 1680770089003,
+  "endTime": 1680772594040,
   "band_list": [
     {
       "raw_hot": 4573993,
@@ -11,8 +11,8 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 2618482,
-      "num": 2618482,
+      "raw_hot": 3541702,
+      "num": 3541702,
       "word": "为i做e",
       "onboard_time": 1680767788,
       "rank": 0,
@@ -83,6 +83,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1735745,
+      "num": 522184,
+      "word": "内娱天选神女",
+      "onboard_time": 1680768331,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1687032,
       "num": 1687032,
       "word": "工资六千的岗位面试了6轮",
@@ -147,6 +155,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1175093,
+      "num": 1175093,
+      "word": "鹿晗 广海",
+      "onboard_time": 1680771330,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1149478,
       "num": 955242,
       "word": "iPhone15将首次由印度参与首批供货",
@@ -156,7 +172,7 @@
     },
     {
       "raw_hot": 1088442,
-      "num": 425055,
+      "num": 520228,
       "word": "李沁回应雨刮器腿",
       "onboard_time": 1680762746,
       "rank": 35,
@@ -211,6 +227,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 916631,
+      "num": 916631,
+      "word": "女子拒绝公司查看手机被无偿辞退",
+      "onboard_time": 1680768089,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 897112,
+      "num": 521563,
+      "word": "秦昊回复伊能静刷我滴卡",
+      "onboard_time": 1680767128,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 872900,
       "num": 417730,
       "word": "男子用手电筒吓死千只鸡获刑6个月",
@@ -243,12 +275,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 827889,
-      "num": 425024,
-      "word": "秦昊回复伊能静刷我滴卡",
-      "onboard_time": 1680767128,
-      "rank": 12,
-      "category": "艺人"
+      "raw_hot": 837128,
+      "num": 837128,
+      "word": "infp",
+      "onboard_time": 1680770791,
+      "rank": 5,
+      "category": "情感"
     },
     {
       "raw_hot": 814505,
@@ -267,20 +299,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 805039,
+      "num": 805039,
+      "word": "孙策胸肌",
+      "onboard_time": 1680771211,
+      "rank": 6,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 802363,
       "num": 333963,
       "word": "中电科称痛批加班员工非集团公司员工",
       "onboard_time": 1680683010,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 771798,
-      "num": 421497,
-      "word": "内娱天选神女",
-      "onboard_time": 1680768331,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 771505,
@@ -308,7 +340,7 @@
     },
     {
       "raw_hot": 738491,
-      "num": 424208,
+      "num": 519734,
       "word": "张译曾说刘浩存像他的一只猫",
       "onboard_time": 1680766889,
       "rank": 13,
@@ -329,14 +361,6 @@
       "onboard_time": 1680758790,
       "rank": 32,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 703938,
-      "num": 703938,
-      "word": "女子拒绝公司查看手机被无偿辞退",
-      "onboard_time": 1680768089,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 691140,
@@ -427,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 523063,
+      "num": 523063,
+      "word": "泰坦尼克号女主参演阿凡达2",
+      "onboard_time": 1680769710,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 513431,
       "num": 513431,
       "word": "野猪一家团综",
@@ -460,7 +492,7 @@
     },
     {
       "raw_hot": 478719,
-      "num": 478719,
+      "num": 523057,
       "word": "马克龙访华",
       "onboard_time": 1680768449,
       "rank": 9,
@@ -512,6 +544,14 @@
       "word": "谁会记得第二名",
       "onboard_time": 1680691652,
       "rank": 6,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 445066,
+      "num": 341242,
+      "word": "接下来4个月都有10天假期",
+      "onboard_time": 1680769650,
+      "rank": 20,
       "category": "情感"
     },
     {
@@ -651,6 +691,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 361991,
+      "num": 361991,
+      "word": "制片人辟谣高叶退出青春环游记",
+      "onboard_time": 1680769591,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 359919,
       "num": 359919,
       "word": "定妆照诈骗",
@@ -769,14 +817,6 @@
       "onboard_time": 1680749309,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 306891,
-      "num": 306891,
-      "word": "制片人辟谣高叶退出青春环游记",
-      "onboard_time": 1680769591,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 303753,
@@ -995,6 +1035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 225620,
+      "num": 225620,
+      "word": "水果麻辣拌",
+      "onboard_time": 1680770852,
+      "rank": 29,
+      "category": "美食"
+    },
+    {
       "raw_hot": 222150,
       "num": 222150,
       "word": "Xun导 不愧是你",
@@ -1017,14 +1065,6 @@
       "onboard_time": 1680768387,
       "rank": 29,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 220740,
-      "num": 220740,
-      "word": "泰坦尼克号女主参演阿凡达2",
-      "onboard_time": 1680769710,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 218658,
@@ -1155,6 +1195,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 195845,
+      "num": 195845,
+      "word": "辅导员你真的很不幽默",
+      "onboard_time": 1680771449,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 195626,
       "num": 195626,
       "word": "吴磊周雨彤球场情侣大片",
@@ -1203,12 +1251,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 191845,
+      "num": 191845,
+      "word": "张艺兴马伯骞单依纯合作新歌",
+      "onboard_time": 1680770551,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 190482,
       "num": 190482,
       "word": "范丞丞机车大片",
       "onboard_time": 1680762267,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 189217,
+      "num": 189217,
+      "word": "安卓手机体验超过iPhone了吗",
+      "onboard_time": 1680770972,
+      "rank": 37,
+      "category": "科技"
     },
     {
       "raw_hot": 189042,
@@ -1305,6 +1369,14 @@
       "onboard_time": 1680759207,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 178028,
+      "num": 178028,
+      "word": "刘诗诗或将出席戛纳红毯",
+      "onboard_time": 1680772111,
+      "rank": 39,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 175321,
@@ -1515,6 +1587,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135816,
+      "num": 135816,
+      "word": "可爱的老师",
+      "onboard_time": 1680772411,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 134982,
+      "num": 134982,
+      "word": "文俊辉晒尹净汉金珉奎翻船直拍",
+      "onboard_time": 1680771271,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 133967,
+      "num": 133967,
+      "word": "情绪对结节影响有多大",
+      "onboard_time": 1680770489,
+      "rank": 45,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 133814,
       "num": 133814,
       "word": "京城大师赛",
@@ -1561,6 +1657,14 @@
       "onboard_time": 1680706472,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 128400,
+      "num": 128400,
+      "word": "孔雪儿跳了tail",
+      "onboard_time": 1680770250,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 128390,
@@ -1763,6 +1867,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 69574,
+      "num": 1032845,
+      "word": "加快数字中国建设",
+      "onboard_time": 1680768331,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 68109,
       "num": 68109,
       "word": "吴昕大侦探皮衣造型",
@@ -1777,14 +1889,6 @@
       "onboard_time": 1680736701,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 63948,
-      "num": 967876,
-      "word": "加快数字中国建设",
-      "onboard_time": 1680768331,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 63413,

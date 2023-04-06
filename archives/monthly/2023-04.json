@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680770089003,
+  "endTime": 1680772594040,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -187,6 +187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 3541702,
+      "num": 3541702,
+      "word": "为i做e",
+      "onboard_time": 1680767788,
+      "rank": 0,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 3471973,
       "num": 3471973,
       "word": "王刚清空账号解散粉丝群",
@@ -329,14 +337,6 @@
       "onboard_time": 1680680070,
       "rank": 1,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 2618482,
-      "num": 2618482,
-      "word": "为i做e",
-      "onboard_time": 1680767788,
-      "rank": 0,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 2601228,
@@ -649,6 +649,14 @@
       "onboard_time": 1680758132,
       "rank": 46,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1735745,
+      "num": 522184,
+      "word": "内娱天选神女",
+      "onboard_time": 1680768331,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1660057,
@@ -1035,6 +1043,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1175093,
+      "num": 1175093,
+      "word": "鹿晗 广海",
+      "onboard_time": 1680771330,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1153403,
       "num": 1153403,
       "word": "OMG战胜LNG",
@@ -1156,7 +1172,7 @@
     },
     {
       "raw_hot": 1088442,
-      "num": 425055,
+      "num": 520228,
       "word": "李沁回应雨刮器腿",
       "onboard_time": 1680762746,
       "rank": 35,
@@ -1411,6 +1427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 916631,
+      "num": 916631,
+      "word": "女子拒绝公司查看手机被无偿辞退",
+      "onboard_time": 1680768089,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 915160,
       "num": 915160,
       "word": "唐鹤德 夜阑静有谁共鸣",
@@ -1456,6 +1480,14 @@
       "word": "郭德纲意外收到已故京剧老人的礼物",
       "onboard_time": 1680697351,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 897112,
+      "num": 521563,
+      "word": "秦昊回复伊能静刷我滴卡",
+      "onboard_time": 1680767128,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -1659,6 +1691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 837128,
+      "num": 837128,
+      "word": "infp",
+      "onboard_time": 1680770791,
+      "rank": 5,
+      "category": "情感"
+    },
+    {
       "raw_hot": 835495,
       "num": 835495,
       "word": "陈都灵一天官宣两部剧",
@@ -1681,14 +1721,6 @@
       "onboard_time": 1680617313,
       "rank": 35,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 827889,
-      "num": 425024,
-      "word": "秦昊回复伊能静刷我滴卡",
-      "onboard_time": 1680767128,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 822431,
@@ -1729,6 +1761,14 @@
       "onboard_time": 1680665729,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 805039,
+      "num": 805039,
+      "word": "孙策胸肌",
+      "onboard_time": 1680771211,
+      "rank": 6,
+      "category": "游戏"
     },
     {
       "raw_hot": 801125,
@@ -1801,14 +1841,6 @@
       "onboard_time": 1680450753,
       "rank": 3,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 771798,
-      "num": 421497,
-      "word": "内娱天选神女",
-      "onboard_time": 1680768331,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 771505,
@@ -1900,7 +1932,7 @@
     },
     {
       "raw_hot": 738491,
-      "num": 424208,
+      "num": 519734,
       "word": "张译曾说刘浩存像他的一只猫",
       "onboard_time": 1680766889,
       "rank": 13,
@@ -2073,14 +2105,6 @@
       "onboard_time": 1680690210,
       "rank": 15,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 703938,
-      "num": 703938,
-      "word": "女子拒绝公司查看手机被无偿辞退",
-      "onboard_time": 1680768089,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 702478,
@@ -3035,6 +3059,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 523063,
+      "num": 523063,
+      "word": "泰坦尼克号女主参演阿凡达2",
+      "onboard_time": 1680769710,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 521704,
       "num": 351874,
       "word": "吴京问谢楠媳妇我错哪了",
@@ -3380,7 +3412,7 @@
     },
     {
       "raw_hot": 478719,
-      "num": 478719,
+      "num": 523057,
       "word": "马克龙访华",
       "onboard_time": 1680768449,
       "rank": 9,
@@ -3681,6 +3713,14 @@
       "onboard_time": 1680358890,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 445066,
+      "num": 341242,
+      "word": "接下来4个月都有10天假期",
+      "onboard_time": 1680769650,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 445044,
@@ -4515,6 +4555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 361991,
+      "num": 361991,
+      "word": "制片人辟谣高叶退出青春环游记",
+      "onboard_time": 1680769591,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 361549,
       "num": 298258,
       "word": "早期央视镜头下的迪丽热巴",
@@ -5201,14 +5249,6 @@
       "onboard_time": 1680691830,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 306891,
-      "num": 306891,
-      "word": "制片人辟谣高叶退出青春环游记",
-      "onboard_time": 1680769591,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 305906,
@@ -6803,6 +6843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 225620,
+      "num": 225620,
+      "word": "水果麻辣拌",
+      "onboard_time": 1680770852,
+      "rank": 29,
+      "category": "美食"
+    },
+    {
       "raw_hot": 225391,
       "num": 225391,
       "word": "汪峰女儿小苹果自弹自唱",
@@ -6913,14 +6961,6 @@
       "onboard_time": 1680361170,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 220740,
-      "num": 220740,
-      "word": "泰坦尼克号女主参演阿凡达2",
-      "onboard_time": 1680769710,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 220152,
@@ -8427,6 +8467,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 195845,
+      "num": 195845,
+      "word": "辅导员你真的很不幽默",
+      "onboard_time": 1680771449,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 195626,
       "num": 195626,
       "word": "吴磊周雨彤球场情侣大片",
@@ -8659,6 +8707,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 191845,
+      "num": 191845,
+      "word": "张艺兴马伯骞单依纯合作新歌",
+      "onboard_time": 1680770551,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 191805,
       "num": 181560,
       "word": "非法债务不受法律保护",
@@ -8857,6 +8913,14 @@
       "onboard_time": 1680484826,
       "rank": 36,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 189217,
+      "num": 189217,
+      "word": "安卓手机体验超过iPhone了吗",
+      "onboard_time": 1680770972,
+      "rank": 37,
+      "category": "科技"
     },
     {
       "raw_hot": 189132,
@@ -9441,6 +9505,14 @@
       "onboard_time": 1680347429,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 178028,
+      "num": 178028,
+      "word": "刘诗诗或将出席戛纳红毯",
+      "onboard_time": 1680772111,
+      "rank": 39,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 177931,
@@ -11251,6 +11323,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 135816,
+      "num": 135816,
+      "word": "可爱的老师",
+      "onboard_time": 1680772411,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 135493,
       "num": 135493,
       "word": "一个视频带你看懂清明节的起源",
@@ -11275,6 +11355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134982,
+      "num": 134982,
+      "word": "文俊辉晒尹净汉金珉奎翻船直拍",
+      "onboard_time": 1680771271,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 134732,
       "num": 134732,
       "word": "致敬英烈",
@@ -11289,6 +11377,14 @@
       "onboard_time": 1680406288,
       "rank": 35,
       "category": "艺人,音乐"
+    },
+    {
+      "raw_hot": 133967,
+      "num": 133967,
+      "word": "情绪对结节影响有多大",
+      "onboard_time": 1680770489,
+      "rank": 45,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 133936,
@@ -11513,6 +11609,14 @@
       "onboard_time": 1680320729,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 128400,
+      "num": 128400,
+      "word": "孔雪儿跳了tail",
+      "onboard_time": 1680770250,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 128390,
@@ -12747,6 +12851,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 69574,
+      "num": 1032845,
+      "word": "加快数字中国建设",
+      "onboard_time": 1680768331,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 69500,
       "num": 69500,
       "word": "有多少真心话被当成玩笑",
@@ -12817,14 +12929,6 @@
       "onboard_time": 1680611790,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 63948,
-      "num": 967876,
-      "word": "加快数字中国建设",
-      "onboard_time": 1680768331,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 63920,
