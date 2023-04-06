@@ -1,6 +1,6 @@
 {
   "startTime": 1680798149468,
-  "endTime": 1680819362758,
+  "endTime": 1680820399715,
   "band_list": [
     {
       "raw_hot": 1289711,
@@ -123,6 +123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 308709,
+      "num": 308709,
+      "word": "翟欣欣",
+      "onboard_time": 1680817992,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 308269,
       "num": 308269,
       "word": "北漂7年的房租",
@@ -227,6 +235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 173685,
+      "num": 173685,
+      "word": "美国男子承认掰断并偷走兵马俑手指",
+      "onboard_time": 1680773129,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173369,
       "num": 173369,
       "word": "接下来4个月都有10天假期",
@@ -265,14 +281,6 @@
       "onboard_time": 1680778289,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 152780,
-      "num": 152780,
-      "word": "美国男子承认掰断并偷走兵马俑手指",
-      "onboard_time": 1680773129,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 148465,
@@ -329,14 +337,6 @@
       "onboard_time": 1680792692,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 118968,
-      "num": 118968,
-      "word": "翟欣欣",
-      "onboard_time": 1680817992,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 116424,
@@ -419,8 +419,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 55946,
-      "num": 55946,
+      "raw_hot": 67900,
+      "num": 67900,
       "word": "原来中国古代也有十二星座",
       "onboard_time": 1680812651,
       "rank": 41,
@@ -436,7 +436,7 @@
     },
     {
       "raw_hot": 26730,
-      "num": 26730,
+      "num": 27909,
       "word": "好友好有爱",
       "onboard_time": 1680795809,
       "rank": 47,

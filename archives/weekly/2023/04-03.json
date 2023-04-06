@@ -1,6 +1,6 @@
 {
   "startTime": 1680452464197,
-  "endTime": 1680819362758,
+  "endTime": 1680820399715,
   "band_list": [
     {
       "raw_hot": 9506486,
@@ -4121,6 +4121,14 @@
       "onboard_time": 1680523353,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 308709,
+      "num": 308709,
+      "word": "翟欣欣",
+      "onboard_time": 1680817992,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 308701,
@@ -8859,14 +8867,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 118968,
-      "num": 118968,
-      "word": "翟欣欣",
-      "onboard_time": 1680817992,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 118460,
       "num": 118460,
       "word": "aespa新歌MV拍摄路透",
@@ -9283,6 +9283,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 67900,
+      "num": 67900,
+      "word": "原来中国古代也有十二星座",
+      "onboard_time": 1680812651,
+      "rank": 41,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 67476,
       "num": 67476,
       "word": "曼联1比0布伦特福德",
@@ -9337,14 +9345,6 @@
       "onboard_time": 1680536791,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 55946,
-      "num": 55946,
-      "word": "原来中国古代也有十二星座",
-      "onboard_time": 1680812651,
-      "rank": 41,
-      "category": "情感,网红"
     },
     {
       "raw_hot": 55896,
@@ -9444,7 +9444,7 @@
     },
     {
       "raw_hot": 26730,
-      "num": 26730,
+      "num": 27909,
       "word": "好友好有爱",
       "onboard_time": 1680795809,
       "rank": 47,
