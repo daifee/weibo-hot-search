@@ -1,6 +1,6 @@
 {
   "startTime": 1680452464197,
-  "endTime": 1680772594040,
+  "endTime": 1680773628224,
   "band_list": [
     {
       "raw_hot": 9506486,
@@ -123,6 +123,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 3876545,
+      "num": 3876545,
+      "word": "为i做e",
+      "onboard_time": 1680767788,
+      "rank": 0,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 3784633,
       "num": 3784633,
       "word": "中电科回应员工疑痛批领导安排加班",
@@ -145,14 +153,6 @@
       "onboard_time": 1680512909,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 3541702,
-      "num": 3541702,
-      "word": "为i做e",
-      "onboard_time": 1680767788,
-      "rank": 0,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 3471973,
@@ -516,7 +516,7 @@
     },
     {
       "raw_hot": 1735745,
-      "num": 522184,
+      "num": 524191,
       "word": "内娱天选神女",
       "onboard_time": 1680768331,
       "rank": 17,
@@ -691,6 +691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1415621,
+      "num": 1415621,
+      "word": "鹿晗 广海",
+      "onboard_time": 1680771330,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1399433,
       "num": 216539,
       "word": "观音桥",
@@ -835,14 +843,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1175093,
-      "num": 1175093,
-      "word": "鹿晗 广海",
-      "onboard_time": 1680771330,
-      "rank": 1,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1153403,
       "num": 1153403,
       "word": "OMG战胜LNG",
@@ -955,6 +955,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1075445,
+      "num": 1075445,
+      "word": "孙策胸肌",
+      "onboard_time": 1680771211,
+      "rank": 6,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1063073,
       "num": 377361,
       "word": "肖战回应形象变化",
@@ -976,6 +984,14 @@
       "word": "姐弟坠亡案母亲称绝不放过叶诚尘",
       "onboard_time": 1680502531,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1012753,
+      "num": 1012753,
+      "word": "女子拒绝公司查看手机被无偿辞退",
+      "onboard_time": 1680768089,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -1105,14 +1121,6 @@
       "onboard_time": 1680741092,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 916631,
-      "num": 916631,
-      "word": "女子拒绝公司查看手机被无偿辞退",
-      "onboard_time": 1680768089,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 913030,
@@ -1353,14 +1361,6 @@
       "onboard_time": 1680665729,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 805039,
-      "num": 805039,
-      "word": "孙策胸肌",
-      "onboard_time": 1680771211,
-      "rank": 6,
-      "category": "游戏"
     },
     {
       "raw_hot": 799786,
@@ -2171,6 +2171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 540162,
+      "num": 540162,
+      "word": "泰坦尼克号女主参演阿凡达2",
+      "onboard_time": 1680769710,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 539032,
       "num": 539032,
       "word": "马斯克将推特图标换成柴犬",
@@ -2219,6 +2227,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 528505,
+      "num": 341242,
+      "word": "接下来4个月都有10天假期",
+      "onboard_time": 1680769650,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 528331,
       "num": 528331,
       "word": "51岁的陈慧琳",
@@ -2265,14 +2281,6 @@
       "onboard_time": 1680702814,
       "rank": 17,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 523063,
-      "num": 523063,
-      "word": "泰坦尼克号女主参演阿凡达2",
-      "onboard_time": 1680769710,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 521704,
@@ -2524,7 +2532,7 @@
     },
     {
       "raw_hot": 478719,
-      "num": 523057,
+      "num": 531041,
       "word": "马克龙访华",
       "onboard_time": 1680768449,
       "rank": 9,
@@ -2667,6 +2675,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 452955,
+      "num": 452955,
+      "word": "IU成韩国片酬最高女演员",
+      "onboard_time": 1680773430,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 452588,
       "num": 452588,
       "word": "姐弟坠亡案生母称忏悔信非生父所写",
@@ -2681,14 +2697,6 @@
       "onboard_time": 1680489627,
       "rank": 49,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 445066,
-      "num": 341242,
-      "word": "接下来4个月都有10天假期",
-      "onboard_time": 1680769650,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 445044,
@@ -3097,6 +3105,14 @@
       "onboard_time": 1680516814,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 392227,
+      "num": 392227,
+      "word": "辅导员你真的很不幽默",
+      "onboard_time": 1680771449,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 390628,
@@ -3907,6 +3923,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 287766,
+      "num": 287766,
+      "word": "美国男子承认掰断并偷走兵马俑手指",
+      "onboard_time": 1680773129,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 287705,
       "num": 287705,
       "word": "娜扎环游世界芭莎大片",
@@ -3945,6 +3969,14 @@
       "onboard_time": 1680534456,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 286527,
+      "num": 262990,
+      "word": "水果麻辣拌",
+      "onboard_time": 1680770852,
+      "rank": 29,
+      "category": "美食"
     },
     {
       "raw_hot": 285224,
@@ -4651,6 +4683,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 237333,
+      "num": 237333,
+      "word": "安卓手机体验超过iPhone了吗",
+      "onboard_time": 1680770972,
+      "rank": 37,
+      "category": "科技"
+    },
+    {
       "raw_hot": 237109,
       "num": 237109,
       "word": "吴磊猛男娇羞",
@@ -4665,6 +4705,14 @@
       "onboard_time": 1680438148,
       "rank": 29,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 235691,
+      "num": 232930,
+      "word": "五哈",
+      "onboard_time": 1680772832,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 234437,
@@ -4809,14 +4857,6 @@
       "onboard_time": 1680706472,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 225620,
-      "num": 225620,
-      "word": "水果麻辣拌",
-      "onboard_time": 1680770852,
-      "rank": 29,
-      "category": "美食"
     },
     {
       "raw_hot": 225391,
@@ -5715,6 +5755,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 199996,
+      "num": 199996,
+      "word": "薛之谦济南演唱会抢票",
+      "onboard_time": 1680772893,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 199844,
       "num": 199844,
       "word": "陈哲是花琉璃里的裴少卿",
@@ -5769,6 +5817,14 @@
       "onboard_time": 1680615094,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 198924,
+      "num": 198924,
+      "word": "刘诗诗或将出席戛纳红毯",
+      "onboard_time": 1680772111,
+      "rank": 39,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 198871,
@@ -5857,14 +5913,6 @@
       "onboard_time": 1680686607,
       "rank": 38,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 195845,
-      "num": 195845,
-      "word": "辅导员你真的很不幽默",
-      "onboard_time": 1680771449,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 195626,
@@ -6179,14 +6227,6 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 189217,
-      "num": 189217,
-      "word": "安卓手机体验超过iPhone了吗",
-      "onboard_time": 1680770972,
-      "rank": 37,
-      "category": "科技"
-    },
-    {
       "raw_hot": 189042,
       "num": 189042,
       "word": "铃芽之旅成清明档票房冠军",
@@ -6459,6 +6499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 182240,
+      "num": 182240,
+      "word": "李马克solo预告视频",
+      "onboard_time": 1680773371,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 181886,
       "num": 181886,
       "word": "柯南贝克街的亡灵预售破500万",
@@ -6577,14 +6625,6 @@
       "onboard_time": 1680678449,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 178028,
-      "num": 178028,
-      "word": "刘诗诗或将出席戛纳红毯",
-      "onboard_time": 1680772111,
-      "rank": 39,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 177931,
@@ -6753,6 +6793,14 @@
       "onboard_time": 1680443922,
       "rank": 32,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 171386,
+      "num": 188734,
+      "word": "情绪对结节影响有多大",
+      "onboard_time": 1680770489,
+      "rank": 45,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 171309,
@@ -7025,6 +7073,14 @@
       "onboard_time": 1680697113,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160864,
+      "num": 160864,
+      "word": "影视作品中值得尊敬的职业形象",
+      "onboard_time": 1680773251,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 160628,
@@ -7571,6 +7627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 140305,
+      "num": 140305,
+      "word": "offer谈判原来这么简单",
+      "onboard_time": 1680773494,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 139454,
       "num": 139454,
       "word": "4AM夺冠",
@@ -7681,14 +7745,6 @@
       "onboard_time": 1680570212,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 133967,
-      "num": 133967,
-      "word": "情绪对结节影响有多大",
-      "onboard_time": 1680770489,
-      "rank": 45,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 133814,
@@ -8355,8 +8411,8 @@
       "category": "游戏,美食"
     },
     {
-      "raw_hot": 69574,
-      "num": 1032845,
+      "raw_hot": 70190,
+      "num": 1195133,
       "word": "加快数字中国建设",
       "onboard_time": 1680768331,
       "rank": 2,

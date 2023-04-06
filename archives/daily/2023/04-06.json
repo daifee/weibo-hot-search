@@ -1,6 +1,6 @@
 {
   "startTime": 1680712017153,
-  "endTime": 1680772594040,
+  "endTime": 1680773628224,
   "band_list": [
     {
       "raw_hot": 4573993,
@@ -11,8 +11,8 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 3541702,
-      "num": 3541702,
+      "raw_hot": 3876545,
+      "num": 3876545,
       "word": "为i做e",
       "onboard_time": 1680767788,
       "rank": 0,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1735745,
-      "num": 522184,
+      "num": 524191,
       "word": "内娱天选神女",
       "onboard_time": 1680768331,
       "rank": 17,
@@ -147,20 +147,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1415621,
+      "num": 1415621,
+      "word": "鹿晗 广海",
+      "onboard_time": 1680771330,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1267197,
       "num": 218112,
       "word": "小鬼 余佳运",
       "onboard_time": 1680699394,
       "rank": 20,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1175093,
-      "num": 1175093,
-      "word": "鹿晗 广海",
-      "onboard_time": 1680771330,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 1149478,
@@ -179,12 +179,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1075445,
+      "num": 1075445,
+      "word": "孙策胸肌",
+      "onboard_time": 1680771211,
+      "rank": 6,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1037260,
       "num": 612844,
       "word": "贾静雯状态",
       "onboard_time": 1680744688,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1012753,
+      "num": 1012753,
+      "word": "女子拒绝公司查看手机被无偿辞退",
+      "onboard_time": 1680768089,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 997507,
@@ -225,14 +241,6 @@
       "onboard_time": 1680741092,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 916631,
-      "num": 916631,
-      "word": "女子拒绝公司查看手机被无偿辞退",
-      "onboard_time": 1680768089,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 897112,
@@ -297,14 +305,6 @@
       "onboard_time": 1680696091,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 805039,
-      "num": 805039,
-      "word": "孙策胸肌",
-      "onboard_time": 1680771211,
-      "rank": 6,
-      "category": "游戏"
     },
     {
       "raw_hot": 802363,
@@ -443,20 +443,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 540162,
+      "num": 540162,
+      "word": "泰坦尼克号女主参演阿凡达2",
+      "onboard_time": 1680769710,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 528505,
+      "num": 341242,
+      "word": "接下来4个月都有10天假期",
+      "onboard_time": 1680769650,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 525115,
       "num": 405415,
       "word": "老人2800卖老照片女生感动险上当",
       "onboard_time": 1680747209,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 523063,
-      "num": 523063,
-      "word": "泰坦尼克号女主参演阿凡达2",
-      "onboard_time": 1680769710,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 513431,
@@ -492,7 +500,7 @@
     },
     {
       "raw_hot": 478719,
-      "num": 523057,
+      "num": 531041,
       "word": "马克龙访华",
       "onboard_time": 1680768449,
       "rank": 9,
@@ -531,6 +539,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 452955,
+      "num": 452955,
+      "word": "IU成韩国片酬最高女演员",
+      "onboard_time": 1680773430,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 452588,
       "num": 452588,
       "word": "姐弟坠亡案生母称忏悔信非生父所写",
@@ -544,14 +560,6 @@
       "word": "谁会记得第二名",
       "onboard_time": 1680691652,
       "rank": 6,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 445066,
-      "num": 341242,
-      "word": "接下来4个月都有10天假期",
-      "onboard_time": 1680769650,
-      "rank": 20,
       "category": "情感"
     },
     {
@@ -649,6 +657,14 @@
       "onboard_time": 1680752849,
       "rank": 25,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 392227,
+      "num": 392227,
+      "word": "辅导员你真的很不幽默",
+      "onboard_time": 1680771449,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 388128,
@@ -851,6 +867,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 287766,
+      "num": 287766,
+      "word": "美国男子承认掰断并偷走兵马俑手指",
+      "onboard_time": 1680773129,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 286527,
+      "num": 262990,
+      "word": "水果麻辣拌",
+      "onboard_time": 1680770852,
+      "rank": 29,
+      "category": "美食"
+    },
+    {
       "raw_hot": 283413,
       "num": 423397,
       "word": "小米13Ultra",
@@ -995,6 +1027,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 237333,
+      "num": 237333,
+      "word": "安卓手机体验超过iPhone了吗",
+      "onboard_time": 1680770972,
+      "rank": 37,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 235691,
+      "num": 232930,
+      "word": "五哈",
+      "onboard_time": 1680772832,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 234437,
       "num": 234437,
       "word": "这海豚嘴都亲秃噜皮了",
@@ -1033,14 +1081,6 @@
       "onboard_time": 1680765567,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 225620,
-      "num": 225620,
-      "word": "水果麻辣拌",
-      "onboard_time": 1680770852,
-      "rank": 29,
-      "category": "美食"
     },
     {
       "raw_hot": 222150,
@@ -1187,6 +1227,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 199996,
+      "num": 199996,
+      "word": "薛之谦济南演唱会抢票",
+      "onboard_time": 1680772893,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 199368,
       "num": 199368,
       "word": "薛之谦晚到的叙述",
@@ -1195,12 +1243,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 195845,
-      "num": 195845,
-      "word": "辅导员你真的很不幽默",
-      "onboard_time": 1680771449,
-      "rank": 35,
-      "category": "幽默"
+      "raw_hot": 198924,
+      "num": 198924,
+      "word": "刘诗诗或将出席戛纳红毯",
+      "onboard_time": 1680772111,
+      "rank": 39,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 195626,
@@ -1265,14 +1313,6 @@
       "onboard_time": 1680762267,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 189217,
-      "num": 189217,
-      "word": "安卓手机体验超过iPhone了吗",
-      "onboard_time": 1680770972,
-      "rank": 37,
-      "category": "科技"
     },
     {
       "raw_hot": 189042,
@@ -1363,20 +1403,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 182240,
+      "num": 182240,
+      "word": "李马克solo预告视频",
+      "onboard_time": 1680773371,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 180826,
       "num": 180826,
       "word": "NBA",
       "onboard_time": 1680759207,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 178028,
-      "num": 178028,
-      "word": "刘诗诗或将出席戛纳红毯",
-      "onboard_time": 1680772111,
-      "rank": 39,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 175321,
@@ -1417,6 +1457,14 @@
       "onboard_time": 1680765807,
       "rank": 33,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 171386,
+      "num": 188734,
+      "word": "情绪对结节影响有多大",
+      "onboard_time": 1680770489,
+      "rank": 45,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 168429,
@@ -1473,6 +1521,14 @@
       "onboard_time": 1680700830,
       "rank": 31,
       "category": "科技"
+    },
+    {
+      "raw_hot": 160864,
+      "num": 160864,
+      "word": "影视作品中值得尊敬的职业形象",
+      "onboard_time": 1680773251,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 156673,
@@ -1571,6 +1627,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 140305,
+      "num": 140305,
+      "word": "offer谈判原来这么简单",
+      "onboard_time": 1680773494,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 136610,
       "num": 152350,
       "word": "父母给对象起的贴切外号",
@@ -1601,14 +1665,6 @@
       "onboard_time": 1680771271,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 133967,
-      "num": 133967,
-      "word": "情绪对结节影响有多大",
-      "onboard_time": 1680770489,
-      "rank": 45,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 133814,
@@ -1867,8 +1923,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 69574,
-      "num": 1032845,
+      "raw_hot": 70190,
+      "num": 1195133,
       "word": "加快数字中国建设",
       "onboard_time": 1680768331,
       "rank": 2,
