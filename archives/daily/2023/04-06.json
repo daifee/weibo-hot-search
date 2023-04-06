@@ -1,6 +1,6 @@
 {
   "startTime": 1680712017153,
-  "endTime": 1680784373459,
+  "endTime": 1680785351258,
   "band_list": [
     {
       "raw_hot": 4573993,
@@ -195,6 +195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1267447,
+      "num": 1267447,
+      "word": "工作4年就诊了50次",
+      "onboard_time": 1680782067,
+      "rank": 6,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1267197,
       "num": 218112,
       "word": "小鬼 余佳运",
@@ -273,14 +281,6 @@
       "onboard_time": 1680752668,
       "rank": 7,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 931497,
-      "num": 931497,
-      "word": "工作4年就诊了50次",
-      "onboard_time": 1680782067,
-      "rank": 6,
-      "category": "情感"
     },
     {
       "raw_hot": 924951,
@@ -435,6 +435,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 740514,
+      "num": 740514,
+      "word": "声生不息把李玟怒斥好声音剪进正片",
+      "onboard_time": 1680784351,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 738491,
       "num": 519734,
       "word": "张译曾说刘浩存像他的一只猫",
@@ -465,6 +473,14 @@
       "onboard_time": 1680764787,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 688414,
+      "num": 688414,
+      "word": "嘴大 冯晓桐",
+      "onboard_time": 1680782971,
+      "rank": 10,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 678332,
@@ -507,6 +523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 640290,
+      "num": 364734,
+      "word": "痛经的人有福了",
+      "onboard_time": 1680781528,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 636812,
       "num": 636812,
       "word": "原来外卖的包装费还可以退",
@@ -537,14 +561,6 @@
       "onboard_time": 1680684088,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 611785,
-      "num": 352292,
-      "word": "痛经的人有福了",
-      "onboard_time": 1680781528,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 608091,
@@ -627,6 +643,14 @@
       "category": "综艺,综艺"
     },
     {
+      "raw_hot": 491136,
+      "num": 491136,
+      "word": "曝颖儿代言某家居品牌爆雷",
+      "onboard_time": 1680784890,
+      "rank": 14,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 490201,
       "num": 490201,
       "word": "乘风4一公歌单",
@@ -696,6 +720,14 @@
       "word": "北京草莓音乐节阵容公布",
       "onboard_time": 1680774450,
       "rank": 18,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 459151,
+      "num": 459151,
+      "word": "五月天北京演唱会",
+      "onboard_time": 1680784951,
+      "rank": 15,
       "category": "音乐"
     },
     {
@@ -875,12 +907,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 361277,
+      "num": 378054,
+      "word": "下班该不该回领导信息",
+      "onboard_time": 1680782311,
+      "rank": 18,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 359919,
       "num": 359919,
       "word": "定妆照诈骗",
       "onboard_time": 1680766708,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 352994,
+      "num": 352994,
+      "word": "张杰华晨宇互唱对方代表作",
+      "onboard_time": 1680784531,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 352620,
@@ -1001,14 +1049,6 @@
       "onboard_time": 1680749309,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 304467,
-      "num": 378054,
-      "word": "下班该不该回领导信息",
-      "onboard_time": 1680782311,
-      "rank": 18,
-      "category": "社会议题"
     },
     {
       "raw_hot": 303753,
@@ -1145,6 +1185,14 @@
       "onboard_time": 1680756573,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 269461,
+      "num": 269461,
+      "word": "目前本人的财务状况",
+      "onboard_time": 1680783271,
+      "rank": 29,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 267884,
@@ -1323,12 +1371,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 223988,
-      "num": 223988,
-      "word": "目前本人的财务状况",
-      "onboard_time": 1680783271,
-      "rank": 29,
-      "category": "幽默,情感"
+      "raw_hot": 226282,
+      "num": 226282,
+      "word": "孙珍妮新剧狐妖造型",
+      "onboard_time": 1680784652,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 222150,
@@ -1395,6 +1443,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 210240,
+      "num": 205813,
+      "word": "长月烬明 滤镜",
+      "onboard_time": 1680779670,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 209080,
       "num": 209080,
       "word": "纪录片月背之上",
@@ -1443,14 +1499,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 205813,
-      "num": 205813,
-      "word": "长月烬明 滤镜",
-      "onboard_time": 1680779670,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 204945,
       "num": 204945,
       "word": "邓为古装扮相",
@@ -1473,6 +1521,14 @@
       "onboard_time": 1680767609,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 203788,
+      "num": 194513,
+      "word": "85花早期古装剧无滤镜剧照",
+      "onboard_time": 1680785129,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 202407,
@@ -1579,6 +1635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193195,
+      "num": 193195,
+      "word": "高加林刘巧珍爱情变亲情",
+      "onboard_time": 1680785251,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 193040,
       "num": 193040,
       "word": "澹台烬黎苏苏救赎文学",
@@ -1657,6 +1721,14 @@
       "onboard_time": 1680702272,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 187649,
+      "num": 187649,
+      "word": "润玉时期多好看",
+      "onboard_time": 1680785010,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 186798,
@@ -1979,14 +2051,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 146229,
-      "num": 146229,
-      "word": "声生不息把李玟怒斥好声音剪进正片",
-      "onboard_time": 1680784351,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 146204,
       "num": 149578,
       "word": "杨宗纬张韶涵陈立农唱第一天",
@@ -2123,6 +2187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127007,
+      "num": 127007,
+      "word": "固定工位未来会不会消失",
+      "onboard_time": 1680784291,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 125329,
       "num": 125329,
       "word": "aespa洛杉矶疑似拍摄MV",
@@ -2257,14 +2329,6 @@
       "onboard_time": 1680752308,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 101095,
-      "num": 101095,
-      "word": "固定工位未来会不会消失",
-      "onboard_time": 1680784291,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 97340,
@@ -2434,6 +2498,9 @@
     },
     {
       "word": "#我国经济发展实现较好开局#"
+    },
+    {
+      "word": "#中法元首会谈承载怎样的期待#"
     }
   ]
 }
