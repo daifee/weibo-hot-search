@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680762099047,
+  "endTime": 1680762886150,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -419,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2307218,
+      "num": 988414,
+      "word": "才知道除了月经还有季经",
+      "onboard_time": 1680758490,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 2303185,
       "num": 765104,
       "word": "巩俐夫妇",
@@ -465,14 +473,6 @@
       "onboard_time": 1680413789,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2172088,
-      "num": 822137,
-      "word": "才知道除了月经还有季经",
-      "onboard_time": 1680758490,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 2127421,
@@ -747,6 +747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1548650,
+      "num": 235151,
+      "word": "官方回应网传张家界天门山多人跳崖自杀",
+      "onboard_time": 1680760469,
+      "rank": 20,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 1547164,
       "num": 1547164,
       "word": "特斯拉一夜暴跌2700亿",
@@ -777,14 +785,6 @@
       "onboard_time": 1680752970,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1494048,
-      "num": 235151,
-      "word": "官方回应网传张家界天门山多人跳崖自杀",
-      "onboard_time": 1680760469,
-      "rank": 20,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 1487073,
@@ -1219,6 +1219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 988424,
+      "num": 988424,
+      "word": "这个周四太幸福了",
+      "onboard_time": 1680761188,
+      "rank": 8,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 988266,
       "num": 988266,
       "word": "不要随便接陌生电话",
@@ -1579,6 +1587,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 847884,
+      "num": 803862,
+      "word": "四川总工会称加班事件事发地不在成都",
+      "onboard_time": 1680758728,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 846221,
       "num": 288444,
       "word": "杨幂说一不小心回到小时候",
@@ -1688,14 +1704,6 @@
       "word": "董俊",
       "onboard_time": 1680665729,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 803862,
-      "num": 803862,
-      "word": "四川总工会称加班事件事发地不在成都",
-      "onboard_time": 1680758728,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -2715,14 +2723,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 555138,
-      "num": 555138,
-      "word": "这个周四太幸福了",
-      "onboard_time": 1680761188,
-      "rank": 8,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 554829,
       "num": 554829,
       "word": "薛之谦演唱会",
@@ -3368,6 +3368,14 @@
       "word": "爱情而已3分钟变成30秒",
       "onboard_time": 1680652584,
       "rank": 9,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 473611,
+      "num": 229775,
+      "word": "辛芷蕾112页台词",
+      "onboard_time": 1680761069,
+      "rank": 22,
       "category": "影视"
     },
     {
@@ -4379,14 +4387,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 357989,
-      "num": 229775,
-      "word": "辛芷蕾112页台词",
-      "onboard_time": 1680761069,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 357397,
       "num": 357397,
       "word": "王者荣耀杨玉环皮肤",
@@ -4441,6 +4441,14 @@
       "onboard_time": 1680427228,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 352083,
+      "num": 352083,
+      "word": "梁静茹演唱会",
+      "onboard_time": 1680761609,
+      "rank": 18,
+      "category": "音乐"
     },
     {
       "raw_hot": 351822,
@@ -4521,6 +4529,14 @@
       "onboard_time": 1680345748,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 346149,
+      "num": 346149,
+      "word": "沙特伊朗外长在北京会晤",
+      "onboard_time": 1680759327,
+      "rank": 14,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 345940,
@@ -4721,14 +4737,6 @@
       "onboard_time": 1680657510,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 332122,
-      "num": 332122,
-      "word": "沙特伊朗外长在北京会晤",
-      "onboard_time": 1680759327,
-      "rank": 14,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 331910,
@@ -6193,14 +6201,6 @@
       "onboard_time": 1680423629,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 244039,
-      "num": 244039,
-      "word": "梁静茹演唱会",
-      "onboard_time": 1680761609,
-      "rank": 18,
-      "category": "音乐"
     },
     {
       "raw_hot": 244012,
@@ -8459,6 +8459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 190482,
+      "num": 190482,
+      "word": "范丞丞机车大片",
+      "onboard_time": 1680762267,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 190451,
       "num": 143023,
       "word": "王俊凯为宇宙探索编辑部做宣传",
@@ -9803,6 +9811,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 160332,
+      "num": 160332,
+      "word": "李沁回应雨刮器腿",
+      "onboard_time": 1680762746,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 160271,
       "num": 160271,
       "word": "女子走独木桥男子用脚猛踹",
@@ -10867,6 +10883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 135370,
+      "num": 135370,
+      "word": "女子和公公带俩孩给亡夫销户",
+      "onboard_time": 1680762807,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135237,
       "num": 135237,
       "word": "连书法老师都羡慕的手感",
@@ -10969,6 +10993,14 @@
       "onboard_time": 1680310886,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 132534,
+      "num": 132534,
+      "word": "大张伟吴昕大侦探斗嘴",
+      "onboard_time": 1680762207,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 132271,
@@ -11819,6 +11851,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 102491,
+      "num": 177385,
+      "word": "oner看好EDG夺冠",
+      "onboard_time": 1680757414,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 102470,
       "num": 133131,
       "word": "黄山清明门票预约已满",
@@ -11969,14 +12009,6 @@
       "onboard_time": 1680364890,
       "rank": 49,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 98722,
-      "num": 177385,
-      "word": "oner看好EDG夺冠",
-      "onboard_time": 1680757414,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 98616,

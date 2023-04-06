@@ -1,6 +1,6 @@
 {
   "startTime": 1680712017153,
-  "endTime": 1680762099047,
+  "endTime": 1680762886150,
   "band_list": [
     {
       "raw_hot": 4573993,
@@ -19,8 +19,8 @@
       "category": "体育,科技"
     },
     {
-      "raw_hot": 2172088,
-      "num": 822137,
+      "raw_hot": 2307218,
+      "num": 988414,
       "word": "才知道除了月经还有季经",
       "onboard_time": 1680758490,
       "rank": 26,
@@ -99,20 +99,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1548650,
+      "num": 235151,
+      "word": "官方回应网传张家界天门山多人跳崖自杀",
+      "onboard_time": 1680760469,
+      "rank": 20,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 1498158,
       "num": 1498158,
       "word": "刘国梁连任中国乒协主席",
       "onboard_time": 1680752970,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1494048,
-      "num": 235151,
-      "word": "官方回应网传张家界天门山多人跳崖自杀",
-      "onboard_time": 1680760469,
-      "rank": 20,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 1423043,
@@ -153,6 +153,14 @@
       "onboard_time": 1680749786,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 988424,
+      "num": 988424,
+      "word": "这个周四太幸福了",
+      "onboard_time": 1680761188,
+      "rank": 8,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 974717,
@@ -211,6 +219,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 847884,
+      "num": 803862,
+      "word": "四川总工会称加班事件事发地不在成都",
+      "onboard_time": 1680758728,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 814505,
       "num": 814505,
       "word": "为救高烧小朋友高铁临时停车2分钟",
@@ -224,14 +240,6 @@
       "word": "四川警方通报学生寝室内死亡",
       "onboard_time": 1680696091,
       "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 803862,
-      "num": 803862,
-      "word": "四川总工会称加班事件事发地不在成都",
-      "onboard_time": 1680758728,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -339,14 +347,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 555138,
-      "num": 555138,
-      "word": "这个周四太幸福了",
-      "onboard_time": 1680761188,
-      "rank": 8,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 545634,
       "num": 545634,
       "word": "赖冠霖撞脸于正",
@@ -392,6 +392,14 @@
       "word": "王一博电影人鱼预计今年7月开机",
       "onboard_time": 1680747926,
       "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 473611,
+      "num": 229775,
+      "word": "辛芷蕾112页台词",
+      "onboard_time": 1680761069,
+      "rank": 22,
       "category": "影视"
     },
     {
@@ -507,12 +515,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 357989,
-      "num": 229775,
-      "word": "辛芷蕾112页台词",
-      "onboard_time": 1680761069,
-      "rank": 22,
-      "category": "影视"
+      "raw_hot": 352083,
+      "num": 352083,
+      "word": "梁静茹演唱会",
+      "onboard_time": 1680761609,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 346149,
+      "num": 346149,
+      "word": "沙特伊朗外长在北京会晤",
+      "onboard_time": 1680759327,
+      "rank": 14,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 341223,
@@ -537,14 +553,6 @@
       "onboard_time": 1680696271,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 332122,
-      "num": 332122,
-      "word": "沙特伊朗外长在北京会晤",
-      "onboard_time": 1680759327,
-      "rank": 14,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 321688,
@@ -697,14 +705,6 @@
       "onboard_time": 1680700830,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 244039,
-      "num": 244039,
-      "word": "梁静茹演唱会",
-      "onboard_time": 1680761609,
-      "rank": 18,
-      "category": "音乐"
     },
     {
       "raw_hot": 241356,
@@ -915,6 +915,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 190482,
+      "num": 190482,
+      "word": "范丞丞机车大片",
+      "onboard_time": 1680762267,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189042,
       "num": 189042,
       "word": "铃芽之旅成清明档票房冠军",
@@ -1043,6 +1051,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 160332,
+      "num": 160332,
+      "word": "李沁回应雨刮器腿",
+      "onboard_time": 1680762746,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 156673,
       "num": 156673,
       "word": "珍的栓Q彻底BE",
@@ -1123,6 +1139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135370,
+      "num": 135370,
+      "word": "女子和公公带俩孩给亡夫销户",
+      "onboard_time": 1680762807,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133814,
       "num": 133814,
       "word": "京城大师赛",
@@ -1137,6 +1161,14 @@
       "onboard_time": 1680738268,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 132534,
+      "num": 132534,
+      "word": "大张伟吴昕大侦探斗嘴",
+      "onboard_time": 1680762207,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 130760,
@@ -1275,6 +1307,14 @@
       "category": "影视,幽默"
     },
     {
+      "raw_hot": 102491,
+      "num": 177385,
+      "word": "oner看好EDG夺冠",
+      "onboard_time": 1680757414,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 102414,
       "num": 102414,
       "word": "街道办回应敬老院工作人员殴打老人",
@@ -1289,14 +1329,6 @@
       "onboard_time": 1680752308,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 98722,
-      "num": 177385,
-      "word": "oner看好EDG夺冠",
-      "onboard_time": 1680757414,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 94114,
