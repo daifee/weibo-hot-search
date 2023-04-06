@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/04/07 00:22:29 ~ 2023/04/07 03:13:27
+本榜单时间：2023/04/07 00:22:29 ~ 2023/04/07 03:33:14
 </p>
 </blockquote>
 <p>
@@ -329,6 +329,12 @@ EDG晋级胜者组决赛（热度：82510）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%BD%E5%8F%8B%E5%A5%BD%E6%9C%89%E7%88%B1%23" target="weibo">
 好友好有爱（热度：26730）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A9%97%E7%A6%BE%E6%88%90%E4%BA%86%E6%B6%A6%E7%8E%89%E7%9A%84%E6%89%8B%E4%B8%8B%23" target="weibo">
+穗禾成了润玉的手下（热度：16153）
 </a>
 </li>
 

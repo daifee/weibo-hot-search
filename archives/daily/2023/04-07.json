@@ -1,6 +1,6 @@
 {
   "startTime": 1680798149468,
-  "endTime": 1680808407585,
+  "endTime": 1680809594021,
   "band_list": [
     {
       "raw_hot": 1289711,
@@ -425,6 +425,14 @@
       "onboard_time": 1680795809,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 16153,
+      "num": 16153,
+      "word": "穗禾成了润玉的手下",
+      "onboard_time": 1680785493,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 6430,
