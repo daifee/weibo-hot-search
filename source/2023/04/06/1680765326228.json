@@ -1,0 +1,410 @@
+{
+  "runTime": 1680765326228,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2300916,
+        "num": 2300916,
+        "word": "这个周四太幸福了",
+        "onboard_time": 1680761188,
+        "rank": 0,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 1003933,
+        "num": 1003933,
+        "word": "迪丽热巴狼尾造型",
+        "onboard_time": 1680758132,
+        "rank": 1,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 73384,
+        "num": 736683,
+        "word": "卫星视角下的祖国大地春意盎然",
+        "onboard_time": 1680752308,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1881356,
+        "num": 721749,
+        "word": "才知道除了月经还有季经",
+        "onboard_time": 1680758490,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 686758,
+        "num": 686758,
+        "word": "苏炳添回应用iPhone14发微博",
+        "onboard_time": 1680747148,
+        "rank": 4,
+        "category": "体育,科技"
+      },
+      {
+        "raw_hot": 384614,
+        "num": 384614,
+        "word": "金丝猴母亲轻轻放下夭折孩子画面看哭",
+        "onboard_time": 1680756994,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315616,
+        "num": 315616,
+        "word": "张艺兴起诉十九楼侵权胜诉",
+        "onboard_time": 1680752849,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315142,
+        "num": 315142,
+        "word": "梁静茹演唱会",
+        "onboard_time": 1680761609,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 314019,
+        "num": 314019,
+        "word": "沙特伊朗外长在北京会晤",
+        "onboard_time": 1680759327,
+        "rank": 8,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 302269,
+        "num": 302269,
+        "word": "刘国梁连任中国乒协主席",
+        "onboard_time": 1680752970,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1737959,
+        "num": 301871,
+        "word": "法院认定谢娜张杰购房不存在跳单",
+        "onboard_time": 1680752668,
+        "rank": 10,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 573481,
+        "num": 298036,
+        "word": "李现的眉骨",
+        "onboard_time": 1680760170,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 517660,
+        "num": 296508,
+        "word": "李沁回应雨刮器腿",
+        "onboard_time": 1680762746,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 386657,
+        "num": 293590,
+        "word": "品如艾莉不在一组",
+        "onboard_time": 1680764067,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 362519,
+        "num": 290830,
+        "word": "白鹿蚌壳装",
+        "onboard_time": 1680758790,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 288844,
+        "num": 288844,
+        "word": "闵玧其官宣NBA全球大使",
+        "onboard_time": 1680764546,
+        "rank": 15,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 281276,
+        "num": 281276,
+        "word": "你现在这份工作面试了几轮",
+        "onboard_time": 1680763285,
+        "rank": 16,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 272515,
+        "num": 272515,
+        "word": "我们都应该对月经羞耻说不",
+        "onboard_time": 1680764911,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 539172,
+        "num": 267130,
+        "word": "四川总工会称加班事件事发地不在成都",
+        "onboard_time": 1680758728,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248203,
+        "num": 248203,
+        "word": "极限挑战第九季官宣",
+        "onboard_time": 1680747627,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 427883,
+        "num": 247409,
+        "word": "男子用手电筒吓死千只鸡获刑6个月",
+        "onboard_time": 1680752367,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 425249,
+        "num": 234938,
+        "word": "女子和公公带俩孩给亡夫销户",
+        "onboard_time": 1680762807,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337363,
+        "num": 228180,
+        "word": "辛芷蕾112页台词",
+        "onboard_time": 1680761069,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 219258,
+        "num": 219258,
+        "word": "重庆姐弟坠亡案今日二审",
+        "onboard_time": 1680745768,
+        "rank": 23,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 218853,
+        "num": 218853,
+        "word": "老人2800卖老照片女生感动险上当",
+        "onboard_time": 1680747209,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216297,
+        "num": 216297,
+        "word": "加班文化为啥屡禁不止",
+        "onboard_time": 1680743610,
+        "rank": 25,
+        "category": "社会议题,财经"
+      },
+      {
+        "raw_hot": 199368,
+        "num": 199368,
+        "word": "薛之谦晚到的叙述",
+        "onboard_time": 1680764911,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 195710,
+        "num": 195710,
+        "word": "苏醒让程潇珍惜还有人找她跳舞",
+        "onboard_time": 1680764787,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186771,
+        "num": 186771,
+        "word": "长月烬明角色练级局",
+        "onboard_time": 1680754774,
+        "rank": 28,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 180826,
+        "num": 180826,
+        "word": "NBA",
+        "onboard_time": 1680759207,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 327096,
+        "num": 179359,
+        "word": "Kakao涉嫌操纵股价被调查",
+        "onboard_time": 1680764787,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236661,
+        "num": 176284,
+        "word": "iPhone15将首次由印度参与首批供货",
+        "onboard_time": 1680746608,
+        "rank": 31,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 172040,
+        "num": 172040,
+        "word": "赖冠霖撞脸于正",
+        "onboard_time": 1680753027,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170884,
+        "num": 170884,
+        "word": "谁帮我回一下",
+        "onboard_time": 1680752668,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 170147,
+        "num": 170147,
+        "word": "今天开播三部新剧",
+        "onboard_time": 1680753990,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 170115,
+        "num": 170115,
+        "word": "黄景瑜白百何新片调查性侵案",
+        "onboard_time": 1680749786,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 164034,
+        "num": 164034,
+        "word": "马克龙 黄渤",
+        "onboard_time": 1680743188,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163740,
+        "num": 163740,
+        "word": "什么精神状态设计出这茶漏",
+        "onboard_time": 1680759810,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147227,
+        "num": 147227,
+        "word": "孙怡北影节志愿者推广大使",
+        "onboard_time": 1680764125,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 64596,
+        "num": 144239,
+        "word": "洛阳全城剧本杀",
+        "onboard_time": 1680765026,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142299,
+        "num": 142299,
+        "word": "为救高烧小朋友高铁临时停车2分钟",
+        "onboard_time": 1680749968,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136550,
+        "num": 136550,
+        "word": "广东已经迎来甲流新流行高峰",
+        "onboard_time": 1680742230,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133460,
+        "num": 133460,
+        "word": "三生友幸坠入爱河",
+        "onboard_time": 1680764606,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 132928,
+        "num": 132928,
+        "word": "考研热度为何居高不下",
+        "onboard_time": 1680751408,
+        "rank": 43,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 132780,
+        "num": 132780,
+        "word": "种地吧",
+        "onboard_time": 1680759509,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132131,
+        "num": 132131,
+        "word": "高圆圆吃艾草麻糍",
+        "onboard_time": 1680755498,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131179,
+        "num": 131179,
+        "word": "范丞丞工作室认证蓝V",
+        "onboard_time": 1680746547,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100902,
+        "num": 129920,
+        "word": "重庆密室好卷",
+        "onboard_time": 1680752849,
+        "rank": 47,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 96631,
+        "num": 124829,
+        "word": "oner看好EDG夺冠",
+        "onboard_time": 1680757414,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 62250,
+        "num": 119968,
+        "word": "春日第一口野菜",
+        "onboard_time": 1680764187,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#为什么和平年代同样需要英雄情怀#"
+    }
+  }
+}

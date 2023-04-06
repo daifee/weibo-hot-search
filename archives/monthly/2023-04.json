@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680762886150,
+  "endTime": 1680765326228,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -433,6 +433,14 @@
       "onboard_time": 1680700653,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2300916,
+      "num": 2300916,
+      "word": "这个周四太幸福了",
+      "onboard_time": 1680761188,
+      "rank": 8,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 2296658,
@@ -1217,14 +1225,6 @@
       "onboard_time": 1680749786,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 988424,
-      "num": 988424,
-      "word": "这个周四太幸福了",
-      "onboard_time": 1680761188,
-      "rank": 8,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 988266,
@@ -3003,6 +3003,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 517660,
+      "num": 296508,
+      "word": "李沁回应雨刮器腿",
+      "onboard_time": 1680762746,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 517571,
       "num": 517571,
       "word": "张继科持股公司仅1人参保",
@@ -3755,6 +3763,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 425249,
+      "num": 234938,
+      "word": "女子和公公带俩孩给亡夫销户",
+      "onboard_time": 1680762807,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 425150,
       "num": 425150,
       "word": "长月烬明角色练级局",
@@ -4169,6 +4185,14 @@
       "onboard_time": 1680443981,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 386657,
+      "num": 293590,
+      "word": "品如艾莉不在一组",
+      "onboard_time": 1680764067,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 386276,
@@ -4795,6 +4819,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 327096,
+      "num": 179359,
+      "word": "Kakao涉嫌操纵股价被调查",
+      "onboard_time": 1680764787,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 326994,
       "num": 326994,
       "word": "太古里偶遇吉克隽逸",
@@ -5283,6 +5315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 288844,
+      "num": 288844,
+      "word": "闵玧其官宣NBA全球大使",
+      "onboard_time": 1680764546,
+      "rank": 15,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 288694,
       "num": 202618,
       "word": "宫胁咲良刘海",
@@ -5409,6 +5449,14 @@
       "onboard_time": 1680697053,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 281276,
+      "num": 281276,
+      "word": "你现在这份工作面试了几轮",
+      "onboard_time": 1680763285,
+      "rank": 16,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 280919,
@@ -5591,6 +5639,14 @@
       "num": 272527,
       "word": "又是周一",
       "onboard_time": 1680481468,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 272515,
+      "num": 272515,
+      "word": "我们都应该对月经羞耻说不",
+      "onboard_time": 1680764911,
       "rank": 17,
       "category": "情感"
     },
@@ -7891,6 +7947,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 199368,
+      "num": 199368,
+      "word": "薛之谦晚到的叙述",
+      "onboard_time": 1680764911,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 199340,
       "num": 199340,
       "word": "恩爱两不疑预告",
@@ -8145,6 +8209,14 @@
       "onboard_time": 1680355289,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 195710,
+      "num": 195710,
+      "word": "苏醒让程潇珍惜还有人找她跳舞",
+      "onboard_time": 1680764787,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 195626,
@@ -9027,6 +9099,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 180826,
+      "num": 180826,
+      "word": "NBA",
+      "onboard_time": 1680759207,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 180684,
       "num": 180684,
       "word": "金玟庭荧光粉帽造型",
@@ -9385,14 +9465,6 @@
       "onboard_time": 1680445363,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 170916,
-      "num": 170916,
-      "word": "NBA",
-      "onboard_time": 1680759207,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 170228,
@@ -9809,14 +9881,6 @@
       "onboard_time": 1680514112,
       "rank": 44,
       "category": "美食"
-    },
-    {
-      "raw_hot": 160332,
-      "num": 160332,
-      "word": "李沁回应雨刮器腿",
-      "onboard_time": 1680762746,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 160271,
@@ -10395,6 +10459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 147227,
+      "num": 147227,
+      "word": "孙怡北影节志愿者推广大使",
+      "onboard_time": 1680764125,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 147026,
       "num": 147026,
       "word": "五月天energy放手",
@@ -10883,14 +10955,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 135370,
-      "num": 135370,
-      "word": "女子和公公带俩孩给亡夫销户",
-      "onboard_time": 1680762807,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 135237,
       "num": 135237,
       "word": "连书法老师都羡慕的手感",
@@ -10944,6 +11008,14 @@
       "word": "无间",
       "onboard_time": 1680615031,
       "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 133460,
+      "num": 133460,
+      "word": "三生友幸坠入爱河",
+      "onboard_time": 1680764606,
+      "rank": 42,
       "category": "影视"
     },
     {
@@ -12427,6 +12499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 64596,
+      "num": 144239,
+      "word": "洛阳全城剧本杀",
+      "onboard_time": 1680765026,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 63920,
       "num": 63920,
       "word": "4月开机的电视剧",
@@ -12441,6 +12521,14 @@
       "onboard_time": 1680336515,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 62250,
+      "num": 119968,
+      "word": "春日第一口野菜",
+      "onboard_time": 1680764187,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 61854,

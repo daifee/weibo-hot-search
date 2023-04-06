@@ -1,6 +1,6 @@
 {
   "startTime": 1680712017153,
-  "endTime": 1680762886150,
+  "endTime": 1680765326228,
   "band_list": [
     {
       "raw_hot": 4573993,
@@ -25,6 +25,14 @@
       "onboard_time": 1680758490,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 2300916,
+      "num": 2300916,
+      "word": "这个周四太幸福了",
+      "onboard_time": 1680761188,
+      "rank": 8,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 2072993,
@@ -153,14 +161,6 @@
       "onboard_time": 1680749786,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 988424,
-      "num": 988424,
-      "word": "这个周四太幸福了",
-      "onboard_time": 1680761188,
-      "rank": 8,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 974717,
@@ -363,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 517660,
+      "num": 296508,
+      "word": "李沁回应雨刮器腿",
+      "onboard_time": 1680762746,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 513431,
       "num": 513431,
       "word": "野猪一家团综",
@@ -433,6 +441,14 @@
       "onboard_time": 1680709230,
       "rank": 7,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 425249,
+      "num": 234938,
+      "word": "女子和公公带俩孩给亡夫销户",
+      "onboard_time": 1680762807,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 425150,
@@ -507,6 +523,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 386657,
+      "num": 293590,
+      "word": "品如艾莉不在一组",
+      "onboard_time": 1680764067,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 380271,
       "num": 376622,
       "word": "今天开播三部新剧",
@@ -553,6 +577,14 @@
       "onboard_time": 1680696271,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 327096,
+      "num": 179359,
+      "word": "Kakao涉嫌操纵股价被调查",
+      "onboard_time": 1680764787,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 321688,
@@ -635,6 +667,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 288844,
+      "num": 288844,
+      "word": "闵玧其官宣NBA全球大使",
+      "onboard_time": 1680764546,
+      "rank": 15,
+      "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 281276,
+      "num": 281276,
+      "word": "你现在这份工作面试了几轮",
+      "onboard_time": 1680763285,
+      "rank": 16,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 280689,
       "num": 215097,
       "word": "空气炸锅还有多少惊喜是我不知道的",
@@ -657,6 +705,14 @@
       "onboard_time": 1680748827,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 272515,
+      "num": 272515,
+      "word": "我们都应该对月经羞耻说不",
+      "onboard_time": 1680764911,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 272165,
@@ -875,6 +931,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 199368,
+      "num": 199368,
+      "word": "薛之谦晚到的叙述",
+      "onboard_time": 1680764911,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 195710,
+      "num": 195710,
+      "word": "苏醒让程潇珍惜还有人找她跳舞",
+      "onboard_time": 1680764787,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 195626,
       "num": 195626,
       "word": "吴磊周雨彤球场情侣大片",
@@ -987,6 +1059,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 180826,
+      "num": 180826,
+      "word": "NBA",
+      "onboard_time": 1680759207,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 175321,
       "num": 175321,
       "word": "梁友安长发",
@@ -1009,14 +1089,6 @@
       "onboard_time": 1680753630,
       "rank": 42,
       "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 170916,
-      "num": 170916,
-      "word": "NBA",
-      "onboard_time": 1680759207,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 168429,
@@ -1049,14 +1121,6 @@
       "onboard_time": 1680700830,
       "rank": 31,
       "category": "科技"
-    },
-    {
-      "raw_hot": 160332,
-      "num": 160332,
-      "word": "李沁回应雨刮器腿",
-      "onboard_time": 1680762746,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 156673,
@@ -1099,6 +1163,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 147227,
+      "num": 147227,
+      "word": "孙怡北影节志愿者推广大使",
+      "onboard_time": 1680764125,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 146375,
       "num": 146375,
       "word": "编剧吴迪",
@@ -1139,20 +1211,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 135370,
-      "num": 135370,
-      "word": "女子和公公带俩孩给亡夫销户",
-      "onboard_time": 1680762807,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 133814,
       "num": 133814,
       "word": "京城大师赛",
       "onboard_time": 1680712344,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 133460,
+      "num": 133460,
+      "word": "三生友幸坠入爱河",
+      "onboard_time": 1680764606,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 133454,
@@ -1385,6 +1457,22 @@
       "onboard_time": 1680736701,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 64596,
+      "num": 144239,
+      "word": "洛阳全城剧本杀",
+      "onboard_time": 1680765026,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 62250,
+      "num": 119968,
+      "word": "春日第一口野菜",
+      "onboard_time": 1680764187,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 59983,
