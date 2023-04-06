@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680798149468,
+  "endTime": 1680799093315,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -1947,6 +1947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 789001,
+      "num": 789001,
+      "word": "代号鸢",
+      "onboard_time": 1680408267,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 786782,
       "num": 786782,
       "word": "南京大学新校长到底是哪里人",
@@ -3328,14 +3336,6 @@
       "word": "JDG战胜BLG",
       "onboard_time": 1680702814,
       "rank": 17,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 522292,
-      "num": 522292,
-      "word": "代号鸢",
-      "onboard_time": 1680408267,
-      "rank": 14,
       "category": "游戏"
     },
     {
@@ -8499,6 +8499,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 203039,
+      "num": 203039,
+      "word": "女书",
+      "onboard_time": 1680797066,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202974,
       "num": 202974,
       "word": "王俊凯学习滑雪vlog",
@@ -11217,14 +11225,6 @@
       "onboard_time": 1680430406,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 155971,
-      "num": 155971,
-      "word": "女书",
-      "onboard_time": 1680797066,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 155779,

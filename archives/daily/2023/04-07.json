@@ -1,6 +1,6 @@
 {
   "startTime": 1680798149468,
-  "endTime": 1680798149468,
+  "endTime": 1680799093315,
   "band_list": [
     {
       "raw_hot": 1289711,
@@ -27,6 +27,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 789001,
+      "num": 789001,
+      "word": "代号鸢",
+      "onboard_time": 1680792692,
+      "rank": 5,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 647786,
       "num": 647786,
       "word": "工作4年就诊了50次",
@@ -49,14 +57,6 @@
       "onboard_time": 1680784890,
       "rank": 4,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 522292,
-      "num": 522292,
-      "word": "代号鸢",
-      "onboard_time": 1680792692,
-      "rank": 5,
-      "category": "游戏"
     },
     {
       "raw_hot": 467344,
@@ -179,6 +179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 203039,
+      "num": 203039,
+      "word": "女书",
+      "onboard_time": 1680797066,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196828,
       "num": 196828,
       "word": "杨紫琼获戛纳电影节跃动她影奖",
@@ -249,14 +257,6 @@
       "onboard_time": 1680778289,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 155971,
-      "num": 155971,
-      "word": "女书",
-      "onboard_time": 1680797066,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 152780,
@@ -379,6 +379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 88449,
+      "num": 88449,
+      "word": "嘴大 冯晓桐",
+      "onboard_time": 1680782971,
+      "rank": 43,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 82510,
       "num": 82510,
       "word": "EDG晋级胜者组决赛",
@@ -396,7 +404,7 @@
     },
     {
       "raw_hot": 6430,
-      "num": 600099,
+      "num": 678044,
       "word": "卫星视角下的祖国大地春意盎然",
       "onboard_time": 1680752308,
       "rank": 2,
@@ -406,6 +414,9 @@
   "hotgov_list": [
     {
       "word": "#夯实思想之基汲取奋进力量#"
+    },
+    {
+      "word": "#我国经济发展实现较好开局#"
     }
   ]
 }
