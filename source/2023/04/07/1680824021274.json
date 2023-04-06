@@ -1,0 +1,410 @@
+{
+  "runTime": 1680824021274,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1304633,
+        "num": 1304633,
+        "word": "代号鸢",
+        "onboard_time": 1680792692,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 994463,
+        "num": 994463,
+        "word": "翟欣欣",
+        "onboard_time": 1680817992,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13646,
+        "num": 697897,
+        "word": "卫星视角下的祖国大地春意盎然",
+        "onboard_time": 1680752308,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 561000,
+        "num": 561000,
+        "word": "曝颖儿代言某家居品牌爆雷",
+        "onboard_time": 1680784890,
+        "rank": 3,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 526041,
+        "num": 526041,
+        "word": "润玉时期多好看",
+        "onboard_time": 1680785010,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 446438,
+        "num": 446438,
+        "word": "中国电科下属单位已就网传不实信息报案",
+        "onboard_time": 1680822739,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 395055,
+        "num": 395055,
+        "word": "美国男子承认掰断并偷走兵马俑手指",
+        "onboard_time": 1680773129,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329940,
+        "num": 329940,
+        "word": "国内新恋综游戏尺度",
+        "onboard_time": 1680781409,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 316165,
+        "num": 316165,
+        "word": "声生不息把李玟怒斥好声音剪进正片",
+        "onboard_time": 1680784351,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 269094,
+        "num": 269094,
+        "word": "长月烬明开播观后感",
+        "onboard_time": 1680779369,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 734695,
+        "num": 269062,
+        "word": "女子被父母强制考公5年患精神分裂",
+        "onboard_time": 1680822560,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 492882,
+        "num": 268924,
+        "word": "郑容和被韩国酵母放了一马",
+        "onboard_time": 1680788850,
+        "rank": 11,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 386436,
+        "num": 268694,
+        "word": "中电科称网上的任免文件明显伪造",
+        "onboard_time": 1680788492,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268449,
+        "num": 268449,
+        "word": "接下来4个月都有10天假期",
+        "onboard_time": 1680769650,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 231017,
+        "num": 231017,
+        "word": "工作4年就诊了50次",
+        "onboard_time": 1680782067,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 220232,
+        "num": 220232,
+        "word": "重庆姐弟坠亡案",
+        "onboard_time": 1680789752,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192662,
+        "num": 192662,
+        "word": "2000多年前这件衣服是打底还是外穿",
+        "onboard_time": 1680823161,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184208,
+        "num": 184208,
+        "word": "85花早期古装剧无滤镜剧照",
+        "onboard_time": 1680785129,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 179614,
+        "num": 179614,
+        "word": "北漂7年的房租",
+        "onboard_time": 1680791193,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 172893,
+        "num": 172893,
+        "word": "女子实名举报父亲受贿1900万元",
+        "onboard_time": 1680774928,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199516,
+        "num": 168107,
+        "word": "当有身高差的人穿上青蛙服",
+        "onboard_time": 1680791614,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162326,
+        "num": 162326,
+        "word": "白鹿演技",
+        "onboard_time": 1680779969,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 154113,
+        "num": 154113,
+        "word": "痛经的人有福了",
+        "onboard_time": 1680781528,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147841,
+        "num": 147841,
+        "word": "五月天鸟巢演唱会连开六场",
+        "onboard_time": 1680799762,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 141971,
+        "num": 141971,
+        "word": "穗禾成了润玉的手下",
+        "onboard_time": 1680785493,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 132846,
+        "num": 132846,
+        "word": "克拉盘",
+        "onboard_time": 1680823584,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131134,
+        "num": 131134,
+        "word": "指望中国在台湾问题妥协退让是痴心妄想",
+        "onboard_time": 1680790533,
+        "rank": 26,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 125248,
+        "num": 125248,
+        "word": "高加林刘巧珍爱情变亲情",
+        "onboard_time": 1680785251,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 125095,
+        "num": 125095,
+        "word": "重庆姐弟坠亡案二审择期宣判",
+        "onboard_time": 1680792394,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120339,
+        "num": 120339,
+        "word": "张小斐蓝裙子直播状态",
+        "onboard_time": 1680792933,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 250010,
+        "num": 118563,
+        "word": "速8酒店回应不退顾客200押金",
+        "onboard_time": 1680822922,
+        "rank": 30,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 116226,
+        "num": 116226,
+        "word": "RNG上单 五世同堂",
+        "onboard_time": 1680789514,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 114817,
+        "num": 114817,
+        "word": "叶冰裳",
+        "onboard_time": 1680789395,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 114298,
+        "num": 114298,
+        "word": "原来中国古代也有十二星座",
+        "onboard_time": 1680812651,
+        "rank": 33,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 107148,
+        "num": 107148,
+        "word": "目前本人的财务状况",
+        "onboard_time": 1680783271,
+        "rank": 34,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 106993,
+        "num": 106993,
+        "word": "密室逃脱拼到周笔畅",
+        "onboard_time": 1680786871,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97834,
+        "num": 97834,
+        "word": "张杰华晨宇互唱对方代表作",
+        "onboard_time": 1680784531,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95869,
+        "num": 95869,
+        "word": "大家去长沙不会都是为了吃吧",
+        "onboard_time": 1680786153,
+        "rank": 37,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 89945,
+        "num": 89945,
+        "word": "研究称高脂饮食自由或将实现",
+        "onboard_time": 1680786933,
+        "rank": 38,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 81156,
+        "num": 81156,
+        "word": "欧盟委员会主席访华",
+        "onboard_time": 1680797243,
+        "rank": 39,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 79579,
+        "num": 79579,
+        "word": "早期甜妹的杀伤力有多强",
+        "onboard_time": 1680783752,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 71804,
+        "num": 71804,
+        "word": "刘亦菲托腮自拍",
+        "onboard_time": 1680778289,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67870,
+        "num": 67870,
+        "word": "主打的就是一个弹性聊天",
+        "onboard_time": 1680792518,
+        "rank": 42,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 66644,
+        "num": 66644,
+        "word": "冯晓桐 王宝宝",
+        "onboard_time": 1680790233,
+        "rank": 43,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 65092,
+        "num": 65092,
+        "word": "徐州烧烤",
+        "onboard_time": 1680777930,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 62345,
+        "num": 62345,
+        "word": "朱一龙易烊千玺 合作",
+        "onboard_time": 1680775291,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 61499,
+        "num": 61499,
+        "word": "杨紫琼获戛纳电影节跃动她影奖",
+        "onboard_time": 1680793593,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 59983,
+        "num": 59983,
+        "word": "女子手指被挤断交警开道护送",
+        "onboard_time": 1680823946,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59930,
+        "num": 59930,
+        "word": "郭晓婷说去看看陈秀礼的家乡",
+        "onboard_time": 1680787234,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 59223,
+        "num": 59223,
+        "word": "巧珍开面馆",
+        "onboard_time": 1680821297,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#中法元首会谈承载怎样的期待#"
+    }
+  }
+}

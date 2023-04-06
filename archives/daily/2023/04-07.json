@@ -1,7 +1,15 @@
 {
   "startTime": 1680798149468,
-  "endTime": 1680823020912,
+  "endTime": 1680824021274,
   "band_list": [
+    {
+      "raw_hot": 1304633,
+      "num": 1304633,
+      "word": "代号鸢",
+      "onboard_time": 1680792692,
+      "rank": 5,
+      "category": "游戏"
+    },
     {
       "raw_hot": 1289711,
       "num": 1289711,
@@ -9,14 +17,6 @@
       "onboard_time": 1680785010,
       "rank": 0,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1241210,
-      "num": 1241210,
-      "word": "代号鸢",
-      "onboard_time": 1680792692,
-      "rank": 5,
-      "category": "游戏"
     },
     {
       "raw_hot": 1145268,
@@ -43,6 +43,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 734695,
+      "num": 269062,
+      "word": "女子被父母强制考公5年患精神分裂",
+      "onboard_time": 1680822560,
+      "rank": 32,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 647786,
       "num": 647786,
       "word": "工作4年就诊了50次",
@@ -59,8 +67,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 532757,
-      "num": 532757,
+      "raw_hot": 561000,
+      "num": 561000,
       "word": "曝颖儿代言某家居品牌爆雷",
       "onboard_time": 1680784890,
       "rank": 4,
@@ -83,12 +91,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 446438,
+      "num": 446438,
+      "word": "中国电科下属单位已就网传不实信息报案",
+      "onboard_time": 1680822739,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 420312,
       "num": 420312,
       "word": "国内新恋综游戏尺度",
       "onboard_time": 1680781409,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 395055,
+      "num": 395055,
+      "word": "美国男子承认掰断并偷走兵马俑手指",
+      "onboard_time": 1680773129,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 389229,
@@ -99,28 +123,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 386436,
+      "num": 353760,
+      "word": "中电科称网上的任免文件明显伪造",
+      "onboard_time": 1680788492,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 381757,
       "num": 237928,
       "word": "痛经的人有福了",
       "onboard_time": 1680781528,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 376808,
-      "num": 376808,
-      "word": "美国男子承认掰断并偷走兵马俑手指",
-      "onboard_time": 1680773129,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 353760,
-      "num": 353760,
-      "word": "中电科称网上的任免文件明显伪造",
-      "onboard_time": 1680788492,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 335360,
@@ -171,20 +187,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 269094,
+      "num": 269094,
+      "word": "长月烬明开播观后感",
+      "onboard_time": 1680779369,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 268449,
+      "num": 268449,
+      "word": "接下来4个月都有10天假期",
+      "onboard_time": 1680769650,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 264265,
       "num": 264265,
       "word": "in了",
       "onboard_time": 1680779911,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 262287,
-      "num": 262287,
-      "word": "接下来4个月都有10天假期",
-      "onboard_time": 1680769650,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 260054,
@@ -203,12 +227,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 256198,
-      "num": 256198,
-      "word": "长月烬明开播观后感",
-      "onboard_time": 1680779369,
-      "rank": 19,
-      "category": "影视"
+      "raw_hot": 250010,
+      "num": 118563,
+      "word": "速8酒店回应不退顾客200押金",
+      "onboard_time": 1680822922,
+      "rank": 37,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 217012,
@@ -227,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 199516,
+      "num": 168107,
+      "word": "当有身高差的人穿上青蛙服",
+      "onboard_time": 1680791614,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 196828,
       "num": 196828,
       "word": "杨紫琼获戛纳电影节跃动她影奖",
@@ -243,6 +275,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 192662,
+      "num": 192662,
+      "word": "2000多年前这件衣服是打底还是外穿",
+      "onboard_time": 1680823161,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181582,
       "num": 181582,
       "word": "RNG上单 五世同堂",
@@ -257,14 +297,6 @@
       "onboard_time": 1680784531,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 172203,
-      "num": 148465,
-      "word": "当有身高差的人穿上青蛙服",
-      "onboard_time": 1680791614,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 170381,
@@ -307,12 +339,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 147947,
-      "num": 99470,
-      "word": "中国电科下属单位已就网传不实信息报案",
-      "onboard_time": 1680822739,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 147841,
+      "num": 147841,
+      "word": "五月天鸟巢演唱会连开六场",
+      "onboard_time": 1680799762,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 142649,
@@ -321,6 +353,14 @@
       "onboard_time": 1680771330,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 141971,
+      "num": 141971,
+      "word": "穗禾成了润玉的手下",
+      "onboard_time": 1680785493,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 136587,
@@ -339,12 +379,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 131460,
-      "num": 131460,
-      "word": "五月天鸟巢演唱会连开六场",
-      "onboard_time": 1680799762,
-      "rank": 21,
-      "category": "音乐"
+      "raw_hot": 132846,
+      "num": 132846,
+      "word": "克拉盘",
+      "onboard_time": 1680823584,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 125149,
@@ -411,22 +451,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 100313,
-      "num": 100313,
-      "word": "穗禾成了润玉的手下",
-      "onboard_time": 1680785493,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 95406,
-      "num": 95406,
-      "word": "女子被父母强制考公5年患精神分裂",
-      "onboard_time": 1680822560,
-      "rank": 32,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 92456,
       "num": 92456,
       "word": "主打的就是一个弹性聊天",
@@ -451,14 +475,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 80868,
-      "num": 80868,
-      "word": "速8酒店回应不退顾客200押金",
-      "onboard_time": 1680822922,
-      "rank": 37,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 77750,
       "num": 77750,
       "word": "陈小纭说和彭冠英第一次见面是在厕所",
@@ -473,6 +489,14 @@
       "onboard_time": 1680821297,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 59983,
+      "num": 59983,
+      "word": "女子手指被挤断交警开道护送",
+      "onboard_time": 1680823946,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 35859,
@@ -491,8 +515,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 10773,
-      "num": 678044,
+      "raw_hot": 13646,
+      "num": 697897,
       "word": "卫星视角下的祖国大地春意盎然",
       "onboard_time": 1680752308,
       "rank": 2,

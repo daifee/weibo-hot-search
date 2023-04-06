@@ -1,6 +1,6 @@
 {
   "startTime": 1680452464197,
-  "endTime": 1680823020912,
+  "endTime": 1680824021274,
   "band_list": [
     {
       "raw_hot": 9506486,
@@ -867,6 +867,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1304633,
+      "num": 1304633,
+      "word": "代号鸢",
+      "onboard_time": 1680603930,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1287499,
       "num": 495665,
       "word": "张继科代言",
@@ -905,14 +913,6 @@
       "onboard_time": 1680601830,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1241210,
-      "num": 1241210,
-      "word": "代号鸢",
-      "onboard_time": 1680603930,
-      "rank": 31,
-      "category": "游戏"
     },
     {
       "raw_hot": 1192024,
@@ -1689,6 +1689,14 @@
       "onboard_time": 1680738927,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 734695,
+      "num": 269062,
+      "word": "女子被父母强制考公5年患精神分裂",
+      "onboard_time": 1680822560,
+      "rank": 32,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 734659,
@@ -2993,6 +3001,14 @@
       "onboard_time": 1680489627,
       "rank": 49,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 446438,
+      "num": 446438,
+      "word": "中国电科下属单位已就网传不实信息报案",
+      "onboard_time": 1680822739,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 445044,
@@ -4995,6 +5011,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 250010,
+      "num": 118563,
+      "word": "速8酒店回应不退顾客200押金",
+      "onboard_time": 1680822922,
+      "rank": 37,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 248533,
       "num": 248533,
       "word": "再也不怕回南天了",
@@ -6379,6 +6403,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 199516,
+      "num": 193278,
+      "word": "当有身高差的人穿上青蛙服",
+      "onboard_time": 1680791614,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 199383,
       "num": 199383,
       "word": "范丞丞脸颊比心",
@@ -6643,14 +6675,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 193278,
-      "num": 193278,
-      "word": "当有身高差的人穿上青蛙服",
-      "onboard_time": 1680791614,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 193265,
       "num": 190939,
       "word": "吴磊赵今麦侧颜同框路透",
@@ -6697,6 +6721,14 @@
       "onboard_time": 1680797243,
       "rank": 23,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 192662,
+      "num": 192662,
+      "word": "2000多年前这件衣服是打底还是外穿",
+      "onboard_time": 1680823161,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 192493,
@@ -8243,12 +8275,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 147947,
-      "num": 99470,
-      "word": "中国电科下属单位已就网传不实信息报案",
-      "onboard_time": 1680822739,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 147841,
+      "num": 147841,
+      "word": "五月天鸟巢演唱会连开六场",
+      "onboard_time": 1680799762,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 147394,
@@ -8611,6 +8643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 132846,
+      "num": 132846,
+      "word": "克拉盘",
+      "onboard_time": 1680823584,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 132534,
       "num": 132534,
       "word": "大张伟吴昕大侦探斗嘴",
@@ -8632,14 +8672,6 @@
       "word": "Billboard冠单朴智旻Like Crazy",
       "onboard_time": 1680563300,
       "rank": 32,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 131460,
-      "num": 131460,
-      "word": "五月天鸟巢演唱会连开六场",
-      "onboard_time": 1680799762,
-      "rank": 21,
       "category": "音乐"
     },
     {
@@ -9147,14 +9179,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 95406,
-      "num": 95406,
-      "word": "女子被父母强制考公5年患精神分裂",
-      "onboard_time": 1680822560,
-      "rank": 32,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 94925,
       "num": 104760,
       "word": "可以放倒广东人的鸭头",
@@ -9249,14 +9273,6 @@
       "onboard_time": 1680449915,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 80868,
-      "num": 80868,
-      "word": "速8酒店回应不退顾客200押金",
-      "onboard_time": 1680822922,
-      "rank": 37,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 77721,
@@ -9369,6 +9385,14 @@
       "onboard_time": 1680757229,
       "rank": 14,
       "category": "科技"
+    },
+    {
+      "raw_hot": 59983,
+      "num": 59983,
+      "word": "女子手指被挤断交警开道护送",
+      "onboard_time": 1680823946,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 57242,
