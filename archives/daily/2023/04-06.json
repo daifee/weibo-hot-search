@@ -1,7 +1,23 @@
 {
   "startTime": 1680712017153,
-  "endTime": 1680737607492,
+  "endTime": 1680744038910,
   "band_list": [
+    {
+      "raw_hot": 1959867,
+      "num": 197609,
+      "word": "电科",
+      "onboard_time": 1680740009,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1687032,
+      "num": 1687032,
+      "word": "工资六千的岗位面试了6轮",
+      "onboard_time": 1680703530,
+      "rank": 1,
+      "category": "幽默"
+    },
     {
       "raw_hot": 1656680,
       "num": 1656680,
@@ -11,20 +27,52 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1353952,
-      "num": 1353952,
-      "word": "工资六千的岗位面试了6轮",
-      "onboard_time": 1680703530,
-      "rank": 1,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 1267197,
       "num": 218112,
       "word": "小鬼 余佳运",
       "onboard_time": 1680699394,
       "rank": 20,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1156382,
+      "num": 1156382,
+      "word": "广东已经迎来甲流新流行高峰",
+      "onboard_time": 1680742230,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1103845,
+      "num": 237447,
+      "word": "马克龙 黄渤",
+      "onboard_time": 1680743188,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 924951,
+      "num": 236067,
+      "word": "中方回应麦卡锡高调会见蔡英文",
+      "onboard_time": 1680740490,
+      "rank": 11,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 918244,
+      "num": 918244,
+      "word": "马嘉祺丁程鑫暂停一期外务录制",
+      "onboard_time": 1680741092,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 848204,
+      "num": 848204,
+      "word": "请假了一天的工位",
+      "onboard_time": 1680697951,
+      "rank": 5,
+      "category": "幽默"
     },
     {
       "raw_hot": 806585,
@@ -59,6 +107,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 736476,
+      "num": 235838,
+      "word": "女子打人被拘期满后在线怼网友",
+      "onboard_time": 1680738927,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 678332,
       "num": 325998,
       "word": "天海祐希",
@@ -81,14 +137,6 @@
       "onboard_time": 1680703952,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 532365,
-      "num": 532365,
-      "word": "请假了一天的工位",
-      "onboard_time": 1680697951,
-      "rank": 5,
-      "category": "幽默"
     },
     {
       "raw_hot": 452588,
@@ -203,12 +251,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 280538,
+      "num": 212431,
+      "word": "为什么说总要去一次上海",
+      "onboard_time": 1680739170,
+      "rank": 24,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 260498,
       "num": 260498,
       "word": "长月烬明",
       "onboard_time": 1680684088,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 255784,
+      "num": 232556,
+      "word": "加班文化为啥屡禁不止",
+      "onboard_time": 1680743610,
+      "rank": 15,
+      "category": "社会议题,财经"
     },
     {
       "raw_hot": 245760,
@@ -225,6 +289,14 @@
       "onboard_time": 1680701912,
       "rank": 41,
       "category": "美食"
+    },
+    {
+      "raw_hot": 232021,
+      "num": 232021,
+      "word": "马克龙远道而来这些细节值得关注",
+      "onboard_time": 1680737064,
+      "rank": 34,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 231602,
@@ -251,6 +323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 218658,
+      "num": 211826,
+      "word": "5个特征辨别你是否湿气重",
+      "onboard_time": 1680722473,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 218114,
       "num": 218114,
       "word": "小美人鱼救王子剧照",
@@ -267,6 +347,30 @@
       "category": "作品衍生,幽默"
     },
     {
+      "raw_hot": 211422,
+      "num": 211422,
+      "word": "金智秀新歌表演视频",
+      "onboard_time": 1680737363,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 202365,
+      "num": 202365,
+      "word": "柳智敏金发",
+      "onboard_time": 1680743728,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 189042,
+      "num": 189042,
+      "word": "铃芽之旅成清明档票房冠军",
+      "onboard_time": 1680740194,
+      "rank": 32,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 187892,
       "num": 187892,
       "word": "重庆坠亡姐弟生母清明节祭奠孩子",
@@ -275,12 +379,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 185986,
-      "num": 149748,
-      "word": "5个特征辨别你是否湿气重",
-      "onboard_time": 1680722473,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 174922,
+      "num": 174922,
+      "word": "今晚见长月烬明",
+      "onboard_time": 1680743249,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 174836,
@@ -299,12 +403,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 165703,
+      "num": 165703,
+      "word": "seventeen聚餐合照",
+      "onboard_time": 1680741992,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 162649,
       "num": 162649,
       "word": "豆瓣",
       "onboard_time": 1680700830,
       "rank": 31,
       "category": "科技"
+    },
+    {
+      "raw_hot": 156673,
+      "num": 156673,
+      "word": "珍的栓Q彻底BE",
+      "onboard_time": 1680704673,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 155018,
+      "num": 155018,
+      "word": "UNINE出道四周年",
+      "onboard_time": 1680742650,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 149669,
@@ -321,14 +449,6 @@
       "onboard_time": 1680672631,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 147331,
-      "num": 147331,
-      "word": "珍的栓Q彻底BE",
-      "onboard_time": 1680704673,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 146375,
@@ -363,6 +483,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 133454,
+      "num": 133454,
+      "word": "李一桐车内随拍",
+      "onboard_time": 1680738268,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 130760,
+      "num": 130760,
+      "word": "用海贼王的画风画狂飙",
+      "onboard_time": 1680714141,
+      "rank": 30,
+      "category": "作品衍生,动漫"
+    },
+    {
       "raw_hot": 129062,
       "num": 129062,
       "word": "CBA常规赛排名出炉",
@@ -371,20 +507,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128390,
+      "num": 128390,
+      "word": "张大大说争取把更多好运带给更多人",
+      "onboard_time": 1680742770,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 125329,
+      "num": 125329,
+      "word": "aespa洛杉矶疑似拍摄MV",
+      "onboard_time": 1680724511,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 121752,
       "num": 121752,
       "word": "王哲林61分",
       "onboard_time": 1680702630,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 116881,
-      "num": 116881,
-      "word": "用海贼王的画风画狂飙",
-      "onboard_time": 1680714141,
-      "rank": 30,
-      "category": "作品衍生,动漫"
     },
     {
       "raw_hot": 116515,
@@ -433,14 +577,6 @@
       "onboard_time": 1680690210,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 105591,
-      "num": 105591,
-      "word": "马克龙远道而来这些细节值得关注",
-      "onboard_time": 1680737064,
-      "rank": 34,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 105478,
@@ -507,14 +643,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 69558,
-      "num": 69558,
-      "word": "金智秀新歌表演视频",
-      "onboard_time": 1680737363,
-      "rank": 43,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 68109,
       "num": 68109,
       "word": "吴昕大侦探皮衣造型",
@@ -571,16 +699,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 20401,
-      "num": 20401,
-      "word": "aespa洛杉矶疑似拍摄MV",
-      "onboard_time": 1680724511,
-      "rank": 34,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 17638,
-      "num": 1021644,
+      "raw_hot": 21647,
+      "num": 1158097,
       "word": "多希望你们看看山河无恙国泰民安",
       "onboard_time": 1680665070,
       "rank": 2,
