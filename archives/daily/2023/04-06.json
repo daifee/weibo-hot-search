@@ -1,10 +1,26 @@
 {
   "startTime": 1680712017153,
-  "endTime": 1680752031513,
+  "endTime": 1680754842222,
   "band_list": [
     {
+      "raw_hot": 4573993,
+      "num": 4573993,
+      "word": "法院认定谢娜张杰购房不存在跳单",
+      "onboard_time": 1680752668,
+      "rank": 0,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 2551195,
+      "num": 2551195,
+      "word": "苏炳添回应用iPhone14发微博",
+      "onboard_time": 1680747148,
+      "rank": 21,
+      "category": "体育,科技"
+    },
+    {
       "raw_hot": 1989231,
-      "num": 491977,
+      "num": 733225,
       "word": "马克龙 黄渤",
       "onboard_time": 1680743188,
       "rank": 10,
@@ -36,7 +52,7 @@
     },
     {
       "raw_hot": 1660057,
-      "num": 311930,
+      "num": 358246,
       "word": "范丞丞工作室认证蓝V",
       "onboard_time": 1680746547,
       "rank": 20,
@@ -59,12 +75,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1362399,
-      "num": 1362399,
+      "raw_hot": 1547641,
+      "num": 1547641,
       "word": "加班文化为啥屡禁不止",
       "onboard_time": 1680743610,
       "rank": 15,
       "category": "社会议题,财经"
+    },
+    {
+      "raw_hot": 1498158,
+      "num": 1498158,
+      "word": "刘国梁连任中国乒协主席",
+      "onboard_time": 1680752970,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1423043,
+      "num": 1423043,
+      "word": "张艺兴起诉十九楼侵权胜诉",
+      "onboard_time": 1680752849,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 1267197,
@@ -84,19 +116,11 @@
     },
     {
       "raw_hot": 1037260,
-      "num": 451134,
+      "num": 597181,
       "word": "贾静雯状态",
       "onboard_time": 1680744688,
       "rank": 16,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1021196,
-      "num": 937826,
-      "word": "苏炳添回应用iPhone14发微博",
-      "onboard_time": 1680747148,
-      "rank": 21,
-      "category": "体育,科技"
     },
     {
       "raw_hot": 997507,
@@ -131,6 +155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 867584,
+      "num": 867584,
+      "word": "谁帮我回一下",
+      "onboard_time": 1680752668,
+      "rank": 7,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 850971,
       "num": 850971,
       "word": "蛋仔派对",
@@ -147,6 +179,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 818124,
+      "num": 370892,
+      "word": "男子用手电筒吓死千只鸡获刑6个月",
+      "onboard_time": 1680752367,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 814505,
+      "num": 814505,
+      "word": "为救高烧小朋友高铁临时停车2分钟",
+      "onboard_time": 1680749968,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 806585,
       "num": 806585,
       "word": "四川警方通报学生寝室内死亡",
@@ -160,14 +208,6 @@
       "word": "中电科称痛批加班员工非集团公司员工",
       "onboard_time": 1680683010,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 770559,
-      "num": 770559,
-      "word": "为救高烧小朋友高铁临时停车2分钟",
-      "onboard_time": 1680749968,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -187,6 +227,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 744273,
+      "num": 744273,
+      "word": "陈飞宇周也新片be氛围感",
+      "onboard_time": 1680752608,
+      "rank": 9,
+      "category": "影视,影视"
+    },
+    {
       "raw_hot": 736476,
       "num": 299870,
       "word": "女子打人被拘期满后在线怼网友",
@@ -201,6 +249,14 @@
       "onboard_time": 1680706593,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 676403,
+      "num": 676403,
+      "word": "考研热度为何居高不下",
+      "onboard_time": 1680751408,
+      "rank": 40,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 630396,
@@ -227,12 +283,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 545634,
+      "num": 545634,
+      "word": "赖冠霖撞脸于正",
+      "onboard_time": 1680753027,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 525115,
-      "num": 308335,
+      "num": 352114,
       "word": "老人2800卖老照片女生感动险上当",
       "onboard_time": 1680747209,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 513431,
+      "num": 513431,
+      "word": "野猪一家团综",
+      "onboard_time": 1680752608,
+      "rank": 16,
+      "category": "综艺,综艺"
     },
     {
       "raw_hot": 490201,
@@ -275,6 +347,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 444187,
+      "num": 444187,
+      "word": "王一博第一季度工作表",
+      "onboard_time": 1680752127,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 436949,
       "num": 436949,
       "word": "肉糕一家亲",
@@ -315,6 +395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 402762,
+      "num": 344283,
+      "word": "乐华七子会解散吗",
+      "onboard_time": 1680751468,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 399261,
       "num": 399261,
       "word": "剪指甲最好剪成方形的",
@@ -329,6 +417,14 @@
       "onboard_time": 1680743728,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 342961,
+      "num": 342961,
+      "word": "重庆密室好卷",
+      "onboard_time": 1680752849,
+      "rank": 25,
+      "category": "旅游"
     },
     {
       "raw_hot": 341223,
@@ -427,6 +523,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 282986,
+      "num": 282986,
+      "word": "长月烬明角色练级局",
+      "onboard_time": 1680754774,
+      "rank": 29,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 280689,
       "num": 215097,
       "word": "空气炸锅还有多少惊喜是我不知道的",
@@ -467,6 +571,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 248312,
+      "num": 248312,
+      "word": "湖人vs快船",
+      "onboard_time": 1680750028,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 245760,
       "num": 245760,
       "word": "马栓下线",
@@ -505,14 +617,6 @@
       "onboard_time": 1680701912,
       "rank": 41,
       "category": "美食"
-    },
-    {
-      "raw_hot": 235974,
-      "num": 235974,
-      "word": "湖人vs快船",
-      "onboard_time": 1680750028,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 234437,
@@ -595,14 +699,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 210144,
-      "num": 210144,
-      "word": "乐华七子会解散吗",
-      "onboard_time": 1680751468,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 206239,
       "num": 206239,
       "word": "长月烬明蛟龙入梦海报",
@@ -651,6 +747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187750,
+      "num": 187750,
+      "word": "今天开播三部新剧",
+      "onboard_time": 1680753990,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 185702,
       "num": 185702,
       "word": "爸爸手绘600张图给儿子讲古建筑",
@@ -691,20 +795,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 172374,
+      "num": 172374,
+      "word": "灌篮高手三井寿角色预告",
+      "onboard_time": 1680753630,
+      "rank": 42,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 168429,
       "num": 168429,
       "word": "洪知秀照顾金珉奎的方式",
       "onboard_time": 1680744328,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 167418,
-      "num": 167418,
-      "word": "考研热度为何居高不下",
-      "onboard_time": 1680751408,
-      "rank": 40,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 167161,
@@ -721,6 +825,14 @@
       "onboard_time": 1680741992,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 163989,
+      "num": 163989,
+      "word": "半熟恋人2",
+      "onboard_time": 1680753330,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 162649,
@@ -971,6 +1083,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 94018,
+      "num": 1887269,
+      "word": "卫星视角下的祖国大地春意盎然",
+      "onboard_time": 1680752308,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 94010,
       "num": 94010,
       "word": "AI翻唱",
@@ -1076,6 +1196,9 @@
     },
     {
       "word": "#在广袤祖国大地上种下片片绿色#"
+    },
+    {
+      "word": "#夯实思想之基汲取奋进力量#"
     }
   ]
 }

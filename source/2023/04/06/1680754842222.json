@@ -1,0 +1,410 @@
+{
+  "runTime": 1680754842222,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4573993,
+        "num": 4573993,
+        "word": "法院认定谢娜张杰购房不存在跳单",
+        "onboard_time": 1680752668,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 2551195,
+        "num": 2551195,
+        "word": "苏炳添回应用iPhone14发微博",
+        "onboard_time": 1680747148,
+        "rank": 1,
+        "category": "体育,科技"
+      },
+      {
+        "raw_hot": 94018,
+        "num": 1887269,
+        "word": "卫星视角下的祖国大地春意盎然",
+        "onboard_time": 1680752308,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1547641,
+        "num": 1547641,
+        "word": "加班文化为啥屡禁不止",
+        "onboard_time": 1680743610,
+        "rank": 3,
+        "category": "社会议题,财经"
+      },
+      {
+        "raw_hot": 1498158,
+        "num": 1498158,
+        "word": "刘国梁连任中国乒协主席",
+        "onboard_time": 1680752970,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1423043,
+        "num": 1423043,
+        "word": "张艺兴起诉十九楼侵权胜诉",
+        "onboard_time": 1680752849,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1183169,
+        "num": 1183169,
+        "word": "极限挑战第九季官宣",
+        "onboard_time": 1680747627,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 867584,
+        "num": 867584,
+        "word": "谁帮我回一下",
+        "onboard_time": 1680752668,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 814505,
+        "num": 814505,
+        "word": "为救高烧小朋友高铁临时停车2分钟",
+        "onboard_time": 1680749968,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 744273,
+        "num": 744273,
+        "word": "陈飞宇周也新片be氛围感",
+        "onboard_time": 1680752608,
+        "rank": 9,
+        "category": "影视,影视"
+      },
+      {
+        "raw_hot": 897726,
+        "num": 733225,
+        "word": "马克龙 黄渤",
+        "onboard_time": 1680743188,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 712879,
+        "num": 712879,
+        "word": "黄景瑜白百何新片调查性侵案",
+        "onboard_time": 1680749786,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 676403,
+        "num": 676403,
+        "word": "考研热度为何居高不下",
+        "onboard_time": 1680751408,
+        "rank": 12,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 597181,
+        "num": 597181,
+        "word": "贾静雯状态",
+        "onboard_time": 1680744688,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 568559,
+        "num": 568559,
+        "word": "广东已经迎来甲流新流行高峰",
+        "onboard_time": 1680742230,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 545634,
+        "num": 545634,
+        "word": "赖冠霖撞脸于正",
+        "onboard_time": 1680753027,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 513431,
+        "num": 513431,
+        "word": "野猪一家团综",
+        "onboard_time": 1680752608,
+        "rank": 16,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 460956,
+        "num": 460956,
+        "word": "恋爱一个月男朋友送我伞带",
+        "onboard_time": 1680704372,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 444187,
+        "num": 444187,
+        "word": "王一博第一季度工作表",
+        "onboard_time": 1680752127,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 372755,
+        "num": 372755,
+        "word": "工资六千的岗位面试了6轮",
+        "onboard_time": 1680703530,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 818124,
+        "num": 370892,
+        "word": "男子用手电筒吓死千只鸡获刑6个月",
+        "onboard_time": 1680752367,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 675136,
+        "num": 361415,
+        "word": "iPhone15将首次由印度参与首批供货",
+        "onboard_time": 1680746608,
+        "rank": 21,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 588921,
+        "num": 358246,
+        "word": "范丞丞工作室认证蓝V",
+        "onboard_time": 1680746547,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 432661,
+        "num": 352114,
+        "word": "老人2800卖老照片女生感动险上当",
+        "onboard_time": 1680747209,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 402762,
+        "num": 344283,
+        "word": "乐华七子会解散吗",
+        "onboard_time": 1680751468,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 342961,
+        "num": 342961,
+        "word": "重庆密室好卷",
+        "onboard_time": 1680752849,
+        "rank": 25,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 328870,
+        "num": 328870,
+        "word": "长月烬明终极预告",
+        "onboard_time": 1680745886,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 322428,
+        "num": 322428,
+        "word": "半导体",
+        "onboard_time": 1680748407,
+        "rank": 27,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 304467,
+        "num": 304467,
+        "word": "小米2022年品牌价值缩水54%",
+        "onboard_time": 1680750146,
+        "rank": 28,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 282986,
+        "num": 282986,
+        "word": "长月烬明角色练级局",
+        "onboard_time": 1680754774,
+        "rank": 29,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 261456,
+        "num": 261456,
+        "word": "NINEPERCENT微博认证还没改",
+        "onboard_time": 1680744688,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253620,
+        "num": 253620,
+        "word": "中方回应麦卡锡高调会见蔡英文",
+        "onboard_time": 1680740490,
+        "rank": 31,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 251380,
+        "num": 251380,
+        "word": "网红景点vs去了以后",
+        "onboard_time": 1680748827,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 248312,
+        "num": 248312,
+        "word": "湖人vs快船",
+        "onboard_time": 1680750028,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 244707,
+        "num": 244707,
+        "word": "重庆姐弟坠亡案今日二审",
+        "onboard_time": 1680745768,
+        "rank": 34,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 241972,
+        "num": 241972,
+        "word": "乘风4一公歌单",
+        "onboard_time": 1680745048,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240112,
+        "num": 240112,
+        "word": "巧珍眼里没光了",
+        "onboard_time": 1680748767,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 219710,
+        "num": 219710,
+        "word": "马嘉祺丁程鑫暂停一期外务录制",
+        "onboard_time": 1680741092,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195602,
+        "num": 195602,
+        "word": "刘浩存模仿自己的表情包",
+        "onboard_time": 1680746129,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187750,
+        "num": 187750,
+        "word": "今天开播三部新剧",
+        "onboard_time": 1680753990,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 182889,
+        "num": 182889,
+        "word": "米粉节",
+        "onboard_time": 1680749309,
+        "rank": 40,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 182249,
+        "num": 182249,
+        "word": "不良人",
+        "onboard_time": 1680748167,
+        "rank": 41,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 172374,
+        "num": 172374,
+        "word": "灌篮高手三井寿角色预告",
+        "onboard_time": 1680753630,
+        "rank": 42,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 168461,
+        "num": 168461,
+        "word": "柳智敏金发",
+        "onboard_time": 1680743728,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 163989,
+        "num": 163989,
+        "word": "半熟恋人2",
+        "onboard_time": 1680753330,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158124,
+        "num": 158124,
+        "word": "这海豚嘴都亲秃噜皮了",
+        "onboard_time": 1680745349,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 156938,
+        "num": 156938,
+        "word": "电影无名网播定档",
+        "onboard_time": 1680749309,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 149421,
+        "num": 156934,
+        "word": "长月烬明蛟龙入梦海报",
+        "onboard_time": 1680750808,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 134041,
+        "num": 156930,
+        "word": "女子打人被拘期满后在线怼网友",
+        "onboard_time": 1680738927,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111959,
+        "num": 156928,
+        "word": "蛋仔派对回应无法登陆",
+        "onboard_time": 1680749727,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#夯实思想之基汲取奋进力量#"
+    }
+  }
+}
