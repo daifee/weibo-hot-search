@@ -1,0 +1,410 @@
+{
+  "runTime": 1680852807235,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2507087,
+        "num": 2507087,
+        "word": "中山大学",
+        "onboard_time": 1680847827,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2196681,
+        "num": 2196681,
+        "word": "被渣男传播私密照片怎么办",
+        "onboard_time": 1680838949,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74747,
+        "num": 1908469,
+        "word": "神十五航天员在轨工作有多忙",
+        "onboard_time": 1680839249,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1658935,
+        "num": 1658935,
+        "word": "董明珠称孟羽童已不做秘书",
+        "onboard_time": 1680849027,
+        "rank": 3,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1259860,
+        "num": 1259860,
+        "word": "密子君 无骨鸡爪",
+        "onboard_time": 1680840150,
+        "rank": 4,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 908854,
+        "num": 908854,
+        "word": "单休相当于一年多上2个月班",
+        "onboard_time": 1680848548,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 887804,
+        "num": 887804,
+        "word": "大连宝马撞人案司机被执行死刑",
+        "onboard_time": 1680845249,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 866423,
+        "num": 866423,
+        "word": "那英马嘉祺情头",
+        "onboard_time": 1680849207,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 718353,
+        "num": 718353,
+        "word": "马克龙想续租大熊猫",
+        "onboard_time": 1680844292,
+        "rank": 8,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 672261,
+        "num": 672261,
+        "word": "叶诚尘称自己有精神疾病",
+        "onboard_time": 1680845010,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1514114,
+        "num": 656665,
+        "word": "宋轶染发",
+        "onboard_time": 1680845431,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 636707,
+        "num": 636707,
+        "word": "长期不上班的人是什么状态",
+        "onboard_time": 1680838048,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 512280,
+        "num": 512280,
+        "word": "马克龙为何访问中山大学",
+        "onboard_time": 1680850170,
+        "rank": 12,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 435693,
+        "num": 435693,
+        "word": "迪丽热巴晒生活照",
+        "onboard_time": 1680845492,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 423552,
+        "num": 423552,
+        "word": "丰县八孩案一审宣判",
+        "onboard_time": 1680840993,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382422,
+        "num": 382422,
+        "word": "SMTOWN和HYBE联合账号注销",
+        "onboard_time": 1680850527,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 380095,
+        "num": 380095,
+        "word": "男子连喝10多年栀子茶险肠坏死",
+        "onboard_time": 1680844650,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329158,
+        "num": 329158,
+        "word": "花千骨作者也在追长月烬明",
+        "onboard_time": 1680844707,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 326648,
+        "num": 326648,
+        "word": "男子每日半包烟婚后2年不育",
+        "onboard_time": 1680850949,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322989,
+        "num": 322989,
+        "word": "张杰武汉巡演加五场",
+        "onboard_time": 1680850048,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 511411,
+        "num": 319707,
+        "word": "生育对女性的伤害有多大",
+        "onboard_time": 1680851008,
+        "rank": 20,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 314810,
+        "num": 314810,
+        "word": "孙海洋女儿呼吁取消拐骗罪",
+        "onboard_time": 1680837268,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300128,
+        "num": 300128,
+        "word": "澹台烬才是真公主吧",
+        "onboard_time": 1680843692,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 270052,
+        "num": 270052,
+        "word": "权志龙晚宴艺人合照",
+        "onboard_time": 1680845910,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257822,
+        "num": 257822,
+        "word": "丰县八孩案5人犯拐卖妇女罪",
+        "onboard_time": 1680841054,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252235,
+        "num": 252235,
+        "word": "阿里版GPT官宣内测",
+        "onboard_time": 1680849867,
+        "rank": 25,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 251078,
+        "num": 251078,
+        "word": "孙海洋让妻子不要来法庭",
+        "onboard_time": 1680843273,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247301,
+        "num": 247301,
+        "word": "黑暗荣耀林智妍入围百想最佳女配角",
+        "onboard_time": 1680846930,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 235257,
+        "num": 235257,
+        "word": "纸嫁衣",
+        "onboard_time": 1680842855,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 234030,
+        "num": 234030,
+        "word": "单休和双休有多大区别",
+        "onboard_time": 1680847408,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 233226,
+        "num": 233226,
+        "word": "张元英姐姐出道",
+        "onboard_time": 1680834566,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222427,
+        "num": 222427,
+        "word": "董志民致小花梅精神分裂",
+        "onboard_time": 1680843512,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205582,
+        "num": 205582,
+        "word": "和舞台上的华晨宇对视了",
+        "onboard_time": 1680852509,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 201279,
+        "num": 201279,
+        "word": "牛杂葡挞",
+        "onboard_time": 1680852450,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 200651,
+        "num": 200651,
+        "word": "张韶涵南宁演唱会",
+        "onboard_time": 1680852509,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 200598,
+        "num": 200598,
+        "word": "你会为了高工资选择单休吗",
+        "onboard_time": 1680852689,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197875,
+        "num": 197875,
+        "word": "印度12名男子将妇人斩首献祭",
+        "onboard_time": 1680835166,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185948,
+        "num": 195491,
+        "word": "赵露思打卡杀青应援花墙",
+        "onboard_time": 1680852570,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194593,
+        "num": 194593,
+        "word": "蔡徐坤海边随拍",
+        "onboard_time": 1680852570,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192268,
+        "num": 192268,
+        "word": "要久久爱",
+        "onboard_time": 1680849568,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 190554,
+        "num": 190554,
+        "word": "白鹿新剧又要跳城楼",
+        "onboard_time": 1680852509,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 178966,
+        "num": 178966,
+        "word": "常吃油炸食品或让皮肤变差",
+        "onboard_time": 1680851551,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184156,
+        "num": 175918,
+        "word": "EDG给罗云熙新剧打call",
+        "onboard_time": 1680847709,
+        "rank": 42,
+        "category": "影视,游戏"
+      },
+      {
+        "raw_hot": 172823,
+        "num": 172823,
+        "word": "中国电影大数据盛典阵容",
+        "onboard_time": 1680852150,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 169197,
+        "num": 169197,
+        "word": "花草药茶不可随意饮用",
+        "onboard_time": 1680851368,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170968,
+        "num": 168319,
+        "word": "如何看待科学技术和道德伦理的关系",
+        "onboard_time": 1680852570,
+        "rank": 45,
+        "category": "科技,社会议题"
+      },
+      {
+        "raw_hot": 166780,
+        "num": 166780,
+        "word": "韩国偶遇虞书欣逛街",
+        "onboard_time": 1680840150,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170051,
+        "num": 166779,
+        "word": "少年之名选手杨超文宣布退圈",
+        "onboard_time": 1680850228,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166777,
+        "num": 166777,
+        "word": "小花梅近况",
+        "onboard_time": 1680845010,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54287,
+        "num": 161206,
+        "word": "三个步骤轻松切菠萝",
+        "onboard_time": 1680848188,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#我国经济发展实现较好开局#"
+    }
+  }
+}

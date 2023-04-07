@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680851719784,
+  "endTime": 1680852807235,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -443,6 +443,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 2507087,
+      "num": 2507087,
+      "word": "中山大学",
+      "onboard_time": 1680847827,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2437384,
       "num": 2437384,
       "word": "观音桥",
@@ -555,6 +563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2196681,
+      "num": 2196681,
+      "word": "被渣男传播私密照片怎么办",
+      "onboard_time": 1680838949,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2174661,
       "num": 370500,
       "word": "男生给富婆塞纸条被其丈夫找上门",
@@ -617,14 +633,6 @@
       "onboard_time": 1680822560,
       "rank": 32,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 2044283,
-      "num": 2044283,
-      "word": "中山大学",
-      "onboard_time": 1680847827,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2026916,
@@ -803,6 +811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1658935,
+      "num": 1658935,
+      "word": "董明珠称孟羽童已不做秘书",
+      "onboard_time": 1680849027,
+      "rank": 41,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 1656680,
       "num": 1656680,
       "word": "恋爱一个月男朋友送我伞带",
@@ -825,14 +841,6 @@
       "onboard_time": 1680782067,
       "rank": 6,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1636736,
-      "num": 1636736,
-      "word": "被渣男传播私密照片怎么办",
-      "onboard_time": 1680838949,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1630812,
@@ -1113,14 +1121,6 @@
       "onboard_time": 1680484768,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1341884,
-      "num": 1341884,
-      "word": "董明珠称孟羽童已不做秘书",
-      "onboard_time": 1680849027,
-      "rank": 41,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 1341091,
@@ -1787,6 +1787,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 908854,
+      "num": 908854,
+      "word": "单休相当于一年多上2个月班",
+      "onboard_time": 1680848548,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 905565,
       "num": 848508,
       "word": "建议每天最少走7000步",
@@ -1921,6 +1929,14 @@
       "onboard_time": 1680784951,
       "rank": 15,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 866423,
+      "num": 866423,
+      "word": "那英马嘉祺情头",
+      "onboard_time": 1680849207,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 862416,
@@ -2209,14 +2225,6 @@
       "onboard_time": 1680782971,
       "rank": 8,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 783929,
-      "num": 783929,
-      "word": "那英马嘉祺情头",
-      "onboard_time": 1680849207,
-      "rank": 42,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 779318,
@@ -2673,14 +2681,6 @@
       "onboard_time": 1680485309,
       "rank": 16,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 683104,
-      "num": 683104,
-      "word": "单休相当于一年多上2个月班",
-      "onboard_time": 1680848548,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 682753,
@@ -3811,12 +3811,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 512280,
+      "num": 512280,
+      "word": "马克龙为何访问中山大学",
+      "onboard_time": 1680850170,
+      "rank": 26,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 511775,
       "num": 511775,
       "word": "你平时午睡吗",
       "onboard_time": 1680350428,
       "rank": 9,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 511411,
+      "num": 319707,
+      "word": "生育对女性的伤害有多大",
+      "onboard_time": 1680851008,
+      "rank": 24,
+      "category": "其它"
     },
     {
       "raw_hot": 509461,
@@ -5155,6 +5171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 382422,
+      "num": 382422,
+      "word": "SMTOWN和HYBE联合账号注销",
+      "onboard_time": 1680850527,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 382417,
       "num": 329126,
       "word": "铃芽之旅票房超你的名字",
@@ -5377,14 +5401,6 @@
       "onboard_time": 1680824066,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 359342,
-      "num": 359342,
-      "word": "SMTOWN和HYBE联合账号注销",
-      "onboard_time": 1680850527,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 357397,
@@ -5891,6 +5907,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 326648,
+      "num": 326648,
+      "word": "男子每日半包烟婚后2年不育",
+      "onboard_time": 1680850949,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 326313,
       "num": 326313,
       "word": "一建",
@@ -5945,6 +5969,14 @@
       "onboard_time": 1680488727,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 322989,
+      "num": 322989,
+      "word": "张杰武汉巡演加五场",
+      "onboard_time": 1680850048,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 322790,
@@ -7003,14 +7035,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 268719,
-      "num": 268719,
-      "word": "生育对女性的伤害有多大",
-      "onboard_time": 1680851008,
-      "rank": 24,
-      "category": "其它"
-    },
-    {
       "raw_hot": 268372,
       "num": 204355,
       "word": "专家建议房产税按家庭套数征收",
@@ -7051,14 +7075,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 264004,
-      "num": 264004,
-      "word": "张杰武汉巡演加五场",
-      "onboard_time": 1680850048,
-      "rank": 25,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 263884,
       "num": 263884,
       "word": "WE春季赛淘汰",
@@ -7081,14 +7097,6 @@
       "onboard_time": 1680581493,
       "rank": 27,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 263358,
-      "num": 263358,
-      "word": "马克龙为何访问中山大学",
-      "onboard_time": 1680850170,
-      "rank": 26,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 263332,
@@ -7387,6 +7395,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 252235,
+      "num": 252235,
+      "word": "阿里版GPT官宣内测",
+      "onboard_time": 1680849867,
+      "rank": 31,
+      "category": "科技"
+    },
+    {
       "raw_hot": 252125,
       "num": 193193,
       "word": "赵丽颖愚人节视频",
@@ -7665,14 +7681,6 @@
       "onboard_time": 1680426150,
       "rank": 28,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 240798,
-      "num": 240798,
-      "word": "阿里版GPT官宣内测",
-      "onboard_time": 1680849867,
-      "rank": 31,
-      "category": "科技"
     },
     {
       "raw_hot": 240661,
@@ -9107,6 +9115,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 205582,
+      "num": 205582,
+      "word": "和舞台上的华晨宇对视了",
+      "onboard_time": 1680852509,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 205473,
       "num": 205473,
       "word": "湖人爵士加时",
@@ -9595,6 +9611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 201279,
+      "num": 201279,
+      "word": "牛杂葡挞",
+      "onboard_time": 1680852450,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
       "raw_hot": 201174,
       "num": 201174,
       "word": "詹姆斯37分",
@@ -9641,6 +9665,22 @@
       "onboard_time": 1680835225,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 200651,
+      "num": 200651,
+      "word": "张韶涵南宁演唱会",
+      "onboard_time": 1680852509,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 200598,
+      "num": 200598,
+      "word": "你会为了高工资选择单休吗",
+      "onboard_time": 1680852689,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 200564,
@@ -10171,6 +10211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194593,
+      "num": 194593,
+      "word": "蔡徐坤海边随拍",
+      "onboard_time": 1680852570,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 194563,
       "num": 180888,
       "word": "今晚见长月烬明",
@@ -10411,14 +10459,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 191639,
-      "num": 191639,
-      "word": "男子每日半包烟婚后2年不育",
-      "onboard_time": 1680850949,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 191619,
       "num": 191619,
       "word": "林彦俊破茧成蝶涅槃天使大片",
@@ -10497,6 +10537,14 @@
       "onboard_time": 1680357930,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 190554,
+      "num": 190554,
+      "word": "白鹿新剧又要跳城楼",
+      "onboard_time": 1680852509,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 190482,
@@ -10881,6 +10929,14 @@
       "onboard_time": 1680841411,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 185948,
+      "num": 195491,
+      "word": "赵露思打卡杀青应援花墙",
+      "onboard_time": 1680852570,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 185702,
@@ -11315,6 +11371,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 178966,
+      "num": 178966,
+      "word": "常吃油炸食品或让皮肤变差",
+      "onboard_time": 1680851551,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 178951,
       "num": 178951,
       "word": "尘封十三载崩坏美学",
@@ -11555,6 +11619,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 172823,
+      "num": 172823,
+      "word": "中国电影大数据盛典阵容",
+      "onboard_time": 1680852150,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 172611,
       "num": 172611,
       "word": "成年人的体面是假发片给的",
@@ -11667,6 +11739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170968,
+      "num": 168319,
+      "word": "如何看待科学技术和道德伦理的关系",
+      "onboard_time": 1680852570,
+      "rank": 45,
+      "category": "科技,社会议题"
+    },
+    {
       "raw_hot": 170228,
       "num": 170228,
       "word": "大妈咖啡店里开茶话会并择菜",
@@ -11681,6 +11761,14 @@
       "onboard_time": 1680310286,
       "rank": 26,
       "category": "美食"
+    },
+    {
+      "raw_hot": 170051,
+      "num": 166779,
+      "word": "少年之名选手杨超文宣布退圈",
+      "onboard_time": 1680850228,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 169937,
@@ -12539,14 +12627,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 152916,
-      "num": 152916,
-      "word": "少年之名选手杨超文宣布退圈",
-      "onboard_time": 1680850228,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 152910,
       "num": 152910,
       "word": "华晨宇高山青彩排vlog",
@@ -12625,14 +12705,6 @@
       "onboard_time": 1680583234,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 151516,
-      "num": 151516,
-      "word": "常吃油炸食品或让皮肤变差",
-      "onboard_time": 1680851551,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 151305,
@@ -15241,6 +15313,14 @@
       "onboard_time": 1680651140,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 54287,
+      "num": 161206,
+      "word": "三个步骤轻松切菠萝",
+      "onboard_time": 1680848188,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 53685,
