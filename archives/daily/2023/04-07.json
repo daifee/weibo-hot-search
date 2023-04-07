@@ -1,6 +1,6 @@
 {
   "startTime": 1680798149468,
-  "endTime": 1680849317446,
+  "endTime": 1680851719784,
   "band_list": [
     {
       "raw_hot": 7516988,
@@ -51,6 +51,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 2044283,
+      "num": 2044283,
+      "word": "中山大学",
+      "onboard_time": 1680847827,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1883278,
       "num": 1883278,
       "word": "张元英姐姐出道",
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 1833474,
-      "num": 660334,
+      "num": 683682,
       "word": "宋轶染发",
       "onboard_time": 1680845431,
       "rank": 30,
@@ -72,6 +80,14 @@
       "word": "孙海洋女儿呼吁取消拐骗罪",
       "onboard_time": 1680837268,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1636736,
+      "num": 1636736,
+      "word": "被渣男传播私密照片怎么办",
+      "onboard_time": 1680838949,
+      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -91,14 +107,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 1552155,
-      "num": 1552155,
-      "word": "被渣男传播私密照片怎么办",
-      "onboard_time": 1680838949,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1541341,
       "num": 1541341,
       "word": "大连宝马撞人案司机被执行死刑",
@@ -113,6 +121,14 @@
       "onboard_time": 1680844292,
       "rank": 46,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 1341884,
+      "num": 1341884,
+      "word": "董明珠称孟羽童已不做秘书",
+      "onboard_time": 1680849027,
+      "rank": 41,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 1304633,
@@ -187,14 +203,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 1081405,
-      "num": 655459,
-      "word": "中山大学",
-      "onboard_time": 1680847827,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1024576,
       "num": 155227,
       "word": "中电科确认不存在临时工情况",
@@ -251,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 783929,
+      "num": 783929,
+      "word": "那英马嘉祺情头",
+      "onboard_time": 1680849207,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 759320,
       "num": 759320,
       "word": "宋仲基没有提名百想视帝",
@@ -296,6 +312,14 @@
       "word": "中国电科下属单位已就网传不实信息报案",
       "onboard_time": 1680822739,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 683104,
+      "num": 683104,
+      "word": "单休相当于一年多上2个月班",
+      "onboard_time": 1680848548,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -547,6 +571,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 359342,
+      "num": 359342,
+      "word": "SMTOWN和HYBE联合账号注销",
+      "onboard_time": 1680850527,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 355419,
       "num": 355419,
       "word": "小花梅近况",
@@ -659,6 +691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 312874,
+      "num": 312874,
+      "word": "单休和双休有多大区别",
+      "onboard_time": 1680847408,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 312456,
       "num": 312456,
       "word": "白鹿演技",
@@ -691,20 +731,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 294444,
+      "num": 294444,
+      "word": "黑暗荣耀林智妍入围百想最佳女配角",
+      "onboard_time": 1680846930,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 291954,
       "num": 291954,
       "word": "颖儿工作室声明",
       "onboard_time": 1680827911,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 291841,
-      "num": 291841,
-      "word": "黑暗荣耀林智妍入围百想最佳女配角",
-      "onboard_time": 1680846930,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 288639,
@@ -755,6 +795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 268719,
+      "num": 268719,
+      "word": "生育对女性的伤害有多大",
+      "onboard_time": 1680851008,
+      "rank": 24,
+      "category": "其它"
+    },
+    {
       "raw_hot": 268449,
       "num": 268449,
       "word": "接下来4个月都有10天假期",
@@ -769,6 +817,22 @@
       "onboard_time": 1680779911,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 264004,
+      "num": 264004,
+      "word": "张杰武汉巡演加五场",
+      "onboard_time": 1680850048,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 263358,
+      "num": 263358,
+      "word": "马克龙为何访问中山大学",
+      "onboard_time": 1680850170,
+      "rank": 26,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 260054,
@@ -835,14 +899,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 245246,
-      "num": 245246,
-      "word": "单休和双休有多大区别",
-      "onboard_time": 1680847408,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 244405,
       "num": 244405,
       "word": "菠萝为啥要用盐水泡一下再吃",
@@ -865,6 +921,14 @@
       "onboard_time": 1680826352,
       "rank": 31,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 240798,
+      "num": 240798,
+      "word": "阿里版GPT官宣内测",
+      "onboard_time": 1680849867,
+      "rank": 31,
+      "category": "科技"
     },
     {
       "raw_hot": 237356,
@@ -923,6 +987,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 230772,
+      "num": 230772,
+      "word": "要久久爱",
+      "onboard_time": 1680849568,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 228268,
       "num": 228268,
       "word": "孙卓和符建涛被拐案开庭",
@@ -977,6 +1049,14 @@
       "onboard_time": 1680835347,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 210242,
+      "num": 210242,
+      "word": "夏浩然兑现爱情而已直播flag",
+      "onboard_time": 1680851309,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 209246,
@@ -1035,6 +1115,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 203265,
+      "num": 203265,
+      "word": "花草药茶不可随意饮用",
+      "onboard_time": 1680851368,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202542,
       "num": 202542,
       "word": "刘耀文新歌唱rap",
@@ -1081,14 +1169,6 @@
       "onboard_time": 1680831206,
       "rank": 46,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 199009,
-      "num": 199009,
-      "word": "单休相当于一年多上2个月班",
-      "onboard_time": 1680848548,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 198642,
@@ -1169,6 +1249,14 @@
       "onboard_time": 1680797243,
       "rank": 23,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 191639,
+      "num": 191639,
+      "word": "男子每日半包烟婚后2年不育",
+      "onboard_time": 1680850949,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 190952,
@@ -1347,14 +1435,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 165875,
-      "num": 165875,
-      "word": "董明珠称孟羽童已不做秘书",
-      "onboard_time": 1680849027,
-      "rank": 41,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 162645,
       "num": 161876,
       "word": "朱一龙易烊千玺 合作",
@@ -1371,6 +1451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159211,
+      "num": 159211,
+      "word": "杭州火星人草坪",
+      "onboard_time": 1680851427,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 158484,
       "num": 158484,
       "word": "华晨宇演唱会杭州站游园打卡vlog",
@@ -1379,12 +1467,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 155378,
-      "num": 155378,
-      "word": "那英马嘉祺情头",
-      "onboard_time": 1680849207,
+      "raw_hot": 155068,
+      "num": 155068,
+      "word": "宋妍霏新剧被婆婆扇耳光",
+      "onboard_time": 1680849689,
       "rank": 42,
-      "category": "作品衍生"
+      "category": "影视"
     },
     {
       "raw_hot": 153723,
@@ -1393,6 +1481,14 @@
       "onboard_time": 1680843095,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 152916,
+      "num": 152916,
+      "word": "少年之名选手杨超文宣布退圈",
+      "onboard_time": 1680850228,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 152910,
@@ -1409,6 +1505,14 @@
       "onboard_time": 1680836909,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 151516,
+      "num": 151516,
+      "word": "常吃油炸食品或让皮肤变差",
+      "onboard_time": 1680851551,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 149192,
@@ -1668,7 +1772,7 @@
     },
     {
       "raw_hot": 54808,
-      "num": 128517,
+      "num": 140712,
       "word": "一场春雪九寨沟美如仙境",
       "onboard_time": 1680848608,
       "rank": 49,
