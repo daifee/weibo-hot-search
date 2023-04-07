@@ -1,10 +1,10 @@
 {
   "startTime": 1680798149468,
-  "endTime": 1680842107462,
+  "endTime": 1680844560608,
   "band_list": [
     {
-      "raw_hot": 4721879,
-      "num": 5943759,
+      "raw_hot": 7516988,
+      "num": 8351842,
       "word": "丰县八孩案一审宣判",
       "onboard_time": 1680840993,
       "rank": 8,
@@ -147,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1126628,
+      "num": 1126628,
+      "word": "丰县八孩案细节公布",
+      "onboard_time": 1680842855,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1092686,
       "num": 1092686,
       "word": "抖音宣布与腾讯视频合作",
@@ -251,6 +259,30 @@
       "category": "影视"
     },
     {
+      "raw_hot": 625250,
+      "num": 610911,
+      "word": "韩国偶遇虞书欣逛街",
+      "onboard_time": 1680840150,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 620070,
+      "num": 591815,
+      "word": "董志民致小花梅精神分裂",
+      "onboard_time": 1680843512,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 613323,
+      "num": 613323,
+      "word": "纸嫁衣",
+      "onboard_time": 1680842855,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 602920,
       "num": 455411,
       "word": "知情人称怼领导者为德阳某公司员工",
@@ -281,14 +313,6 @@
       "onboard_time": 1680784890,
       "rank": 4,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 559194,
-      "num": 559194,
-      "word": "韩国偶遇虞书欣逛街",
-      "onboard_time": 1680840150,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 547242,
@@ -427,6 +451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 351954,
+      "num": 351954,
+      "word": "董志民犯虐待罪非法拘禁罪",
+      "onboard_time": 1680841653,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 342078,
       "num": 342078,
       "word": "长月烬明血鸦宴",
@@ -457,6 +489,22 @@
       "onboard_time": 1680832466,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 330059,
+      "num": 330059,
+      "word": "张杰为于文文伴舞",
+      "onboard_time": 1680842555,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 328033,
+      "num": 328033,
+      "word": "第一次见阿姨在地铁上溜瓜",
+      "onboard_time": 1680841172,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 326313,
@@ -515,6 +563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 309152,
+      "num": 309152,
+      "word": "澹台烬才是真公主吧",
+      "onboard_time": 1680843692,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 308269,
       "num": 308269,
       "word": "北漂7年的房租",
@@ -537,6 +593,14 @@
       "onboard_time": 1680827370,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 293815,
+      "num": 230696,
+      "word": "孙海洋让妻子不要来法庭",
+      "onboard_time": 1680843273,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 291954,
@@ -635,22 +699,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 249079,
-      "num": 249079,
-      "word": "第一次见阿姨在地铁上溜瓜",
-      "onboard_time": 1680841172,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 248029,
-      "num": 248029,
-      "word": "董志民犯虐待罪非法拘禁罪",
-      "onboard_time": 1680841653,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 247776,
       "num": 247776,
       "word": "小鬼说小鬼和王琳凯已就位",
@@ -715,12 +763,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 230883,
+      "num": 230883,
+      "word": "马嘉祺看到榴莲的反应",
+      "onboard_time": 1680843932,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 230776,
       "num": 230776,
       "word": "小狗不要面子的吗",
       "onboard_time": 1680834147,
       "rank": 41,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 228268,
+      "num": 228268,
+      "word": "孙卓和符建涛被拐案开庭",
+      "onboard_time": 1680842011,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 217012,
@@ -779,12 +843,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207439,
+      "num": 207439,
+      "word": "董志民获刑9年",
+      "onboard_time": 1680843630,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 207086,
       "num": 207086,
       "word": "上官透时期的罗云熙",
       "onboard_time": 1680837509,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 205870,
+      "num": 205870,
+      "word": "吴磊回应在娱乐圈当运动员",
+      "onboard_time": 1680844352,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 205250,
@@ -811,12 +891,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 201335,
+      "num": 201335,
+      "word": "九尾直播听宋亚轩新歌",
+      "onboard_time": 1680843873,
+      "rank": 39,
+      "category": "音乐,游戏"
+    },
+    {
       "raw_hot": 200812,
       "num": 198601,
       "word": "孙千说电影院见",
       "onboard_time": 1680835225,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 199974,
+      "num": 199974,
+      "word": "严浩翔黑白卫衣",
+      "onboard_time": 1680843454,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 199516,
@@ -865,6 +961,14 @@
       "onboard_time": 1680793593,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 196515,
+      "num": 196515,
+      "word": "来活了兄弟整活概念海报",
+      "onboard_time": 1680844111,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 196131,
@@ -971,14 +1075,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 182304,
-      "num": 182304,
-      "word": "孙卓和符建涛被拐案开庭",
-      "onboard_time": 1680842011,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 181582,
       "num": 181582,
       "word": "RNG上单 五世同堂",
@@ -995,11 +1091,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 178857,
+      "num": 178857,
+      "word": "你喜欢看抖音的二创视频吗",
+      "onboard_time": 1680843454,
+      "rank": 44,
+      "category": "科技"
+    },
+    {
       "raw_hot": 177502,
       "num": 177502,
       "word": "克拉盘",
       "onboard_time": 1680823584,
       "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 175839,
+      "num": 175839,
+      "word": "王一博诉魔迹软糖侵权",
+      "onboard_time": 1680844470,
+      "rank": 45,
       "category": "艺人"
     },
     {
@@ -1017,6 +1129,14 @@
       "onboard_time": 1680834987,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 173187,
+      "num": 173187,
+      "word": "马克龙想续租大熊猫",
+      "onboard_time": 1680844292,
+      "rank": 46,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 172547,
@@ -1081,6 +1201,14 @@
       "onboard_time": 1680833306,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 153723,
+      "num": 171813,
+      "word": "KPL",
+      "onboard_time": 1680843095,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 152910,
@@ -1211,6 +1339,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 118835,
+      "num": 171759,
+      "word": "纸嫁衣5无间梦境",
+      "onboard_time": 1680842734,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 116424,
       "num": 116424,
       "word": "大家去长沙不会都是为了吃吧",
@@ -1321,6 +1457,14 @@
       "onboard_time": 1680821297,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 40156,
+      "num": 496213,
+      "word": "张艺兴店长初体验",
+      "onboard_time": 1680843630,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 35859,

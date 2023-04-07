@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680842107462,
+  "endTime": 1680844560608,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -59,6 +59,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 7516988,
+      "num": 8351842,
+      "word": "丰县八孩案一审宣判",
+      "onboard_time": 1680840993,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 7084987,
       "num": 7084987,
       "word": "邯郸车祸",
@@ -113,14 +121,6 @@
       "onboard_time": 1680617614,
       "rank": 24,
       "category": "动漫,影视"
-    },
-    {
-      "raw_hot": 4721879,
-      "num": 5943759,
-      "word": "丰县八孩案一审宣判",
-      "onboard_time": 1680840993,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 4692271,
@@ -1361,6 +1361,14 @@
       "onboard_time": 1680784351,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1126628,
+      "num": 1126628,
+      "word": "丰县八孩案细节公布",
+      "onboard_time": 1680842855,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1117063,
@@ -2899,6 +2907,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 625250,
+      "num": 610911,
+      "word": "韩国偶遇虞书欣逛街",
+      "onboard_time": 1680840150,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 624364,
       "num": 624364,
       "word": "警方通报上海一男子因纠纷杀害妻子",
@@ -2947,6 +2963,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 620070,
+      "num": 591815,
+      "word": "董志民致小花梅精神分裂",
+      "onboard_time": 1680843512,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 619907,
       "num": 619907,
       "word": "男孩扫墓跪求奶奶保佑不写作业不挨打",
@@ -2969,6 +2993,14 @@
       "onboard_time": 1680431189,
       "rank": 27,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 613323,
+      "num": 613323,
+      "word": "纸嫁衣",
+      "onboard_time": 1680842855,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 612281,
@@ -3233,14 +3265,6 @@
       "onboard_time": 1680275608,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 559194,
-      "num": 559194,
-      "word": "韩国偶遇虞书欣逛街",
-      "onboard_time": 1680840150,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 556793,
@@ -5307,6 +5331,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 351954,
+      "num": 351954,
+      "word": "董志民犯虐待罪非法拘禁罪",
+      "onboard_time": 1680841653,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 351822,
       "num": 291132,
       "word": "肖战vlog致敬电影罗马假日",
@@ -5659,6 +5691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 330059,
+      "num": 330059,
+      "word": "张杰为于文文伴舞",
+      "onboard_time": 1680842555,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 329882,
       "num": 329882,
       "word": "赵露思王安宇直播状态",
@@ -5681,6 +5721,14 @@
       "onboard_time": 1680303797,
       "rank": 31,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 328033,
+      "num": 328033,
+      "word": "第一次见阿姨在地铁上溜瓜",
+      "onboard_time": 1680841172,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 327996,
@@ -5963,6 +6011,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 309152,
+      "num": 309152,
+      "word": "澹台烬才是真公主吧",
+      "onboard_time": 1680843692,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 309102,
       "num": 309102,
       "word": "原来鲨鱼卵长这样",
@@ -6201,6 +6257,14 @@
       "onboard_time": 1680766589,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 293815,
+      "num": 230696,
+      "word": "孙海洋让妻子不要来法庭",
+      "onboard_time": 1680843273,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 293785,
@@ -7235,14 +7299,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 249079,
-      "num": 249079,
-      "word": "第一次见阿姨在地铁上溜瓜",
-      "onboard_time": 1680841172,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 249018,
       "num": 249018,
       "word": "导演说范丞丞给的惊喜太多了",
@@ -7273,14 +7329,6 @@
       "onboard_time": 1680768691,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 248029,
-      "num": 248029,
-      "word": "董志民犯虐待罪非法拘禁罪",
-      "onboard_time": 1680841653,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 248015,
@@ -7675,6 +7723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 230883,
+      "num": 230883,
+      "word": "马嘉祺看到榴莲的反应",
+      "onboard_time": 1680843932,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 230776,
       "num": 230776,
       "word": "小狗不要面子的吗",
@@ -7769,6 +7825,14 @@
       "onboard_time": 1680618575,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 228268,
+      "num": 228268,
+      "word": "孙卓和符建涛被拐案开庭",
+      "onboard_time": 1680842011,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 227868,
@@ -8619,6 +8683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 207439,
+      "num": 207439,
+      "word": "董志民获刑9年",
+      "onboard_time": 1680843630,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 207220,
       "num": 207220,
       "word": "北影节天坛奖入围影片公布",
@@ -8777,6 +8849,14 @@
       "onboard_time": 1680430108,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 205870,
+      "num": 205870,
+      "word": "吴磊回应在娱乐圈当运动员",
+      "onboard_time": 1680844352,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 205594,
@@ -9267,6 +9347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 201335,
+      "num": 201335,
+      "word": "九尾直播听宋亚轩新歌",
+      "onboard_time": 1680843873,
+      "rank": 39,
+      "category": "音乐,游戏"
+    },
+    {
       "raw_hot": 201174,
       "num": 201174,
       "word": "詹姆斯37分",
@@ -9361,6 +9449,14 @@
       "onboard_time": 1680772893,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 199974,
+      "num": 199974,
+      "word": "严浩翔黑白卫衣",
+      "onboard_time": 1680843454,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 199844,
@@ -9689,6 +9785,14 @@
       "onboard_time": 1680451114,
       "rank": 30,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 196515,
+      "num": 196515,
+      "word": "来活了兄弟整活概念海报",
+      "onboard_time": 1680844111,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 196467,
@@ -10779,14 +10883,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 182304,
-      "num": 182304,
-      "word": "孙卓和符建涛被拐案开庭",
-      "onboard_time": 1680842011,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 182240,
       "num": 182240,
       "word": "李马克solo预告视频",
@@ -10963,6 +11059,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 178857,
+      "num": 178857,
+      "word": "你喜欢看抖音的二创视频吗",
+      "onboard_time": 1680843454,
+      "rank": 44,
+      "category": "科技"
+    },
+    {
       "raw_hot": 178650,
       "num": 170728,
       "word": "愚人节文案",
@@ -11057,6 +11161,14 @@
       "onboard_time": 1680362372,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 175839,
+      "num": 175839,
+      "word": "王一博诉魔迹软糖侵权",
+      "onboard_time": 1680844470,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 175763,
@@ -11161,6 +11273,14 @@
       "onboard_time": 1680600511,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 173187,
+      "num": 173187,
+      "word": "马克龙想续租大熊猫",
+      "onboard_time": 1680844292,
+      "rank": 46,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 172963,
@@ -13675,6 +13795,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 118835,
+      "num": 171759,
+      "word": "纸嫁衣5无间梦境",
+      "onboard_time": 1680842734,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 118460,
       "num": 118460,
       "word": "aespa新歌MV拍摄路透",
@@ -14841,6 +14969,14 @@
       "onboard_time": 1680627741,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 40156,
+      "num": 496213,
+      "word": "张艺兴店长初体验",
+      "onboard_time": 1680843630,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 39982,
