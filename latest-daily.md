@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/04/08 00:22:06 ~ 2023/04/08 01:14:58
+本榜单时间：2023/04/08 00:22:06 ~ 2023/04/08 01:33:34
 </p>
 </blockquote>
 <p>
@@ -323,6 +323,12 @@ JackeyLove观战LPL季后赛（热度：115625）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AF%86%E5%AD%90%E5%90%9B%E9%81%93%E6%AD%89%23" target="weibo">
 密子君道歉（热度：54914）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%85%94%E5%AD%90%E7%9C%9F%E6%98%AF%E5%90%83%E7%B4%A0%E9%95%BF%E5%A4%A7%E7%9A%84%E5%90%97%23" target="weibo">
+这兔子真是吃素长大的吗（热度：36967）
 </a>
 </li>
 

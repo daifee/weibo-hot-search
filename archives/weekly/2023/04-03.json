@@ -1,6 +1,6 @@
 {
   "startTime": 1680452464197,
-  "endTime": 1680887698392,
+  "endTime": 1680888814841,
   "band_list": [
     {
       "raw_hot": 9506486,
@@ -12017,6 +12017,14 @@
       "onboard_time": 1680635834,
       "rank": 32,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 36967,
+      "num": 36967,
+      "word": "这兔子真是吃素长大的吗",
+      "onboard_time": 1680888795,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 35859,
