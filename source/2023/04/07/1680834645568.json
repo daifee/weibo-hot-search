@@ -1,0 +1,410 @@
+{
+  "runTime": 1680834645568,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1677519,
+        "num": 1677519,
+        "word": "张继科事件为何愈演愈烈",
+        "onboard_time": 1680824849,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 836389,
+        "num": 836389,
+        "word": "代号鸢",
+        "onboard_time": 1680792692,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 12013,
+        "num": 699605,
+        "word": "卫星视角下的祖国大地春意盎然",
+        "onboard_time": 1680752308,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 588600,
+        "num": 588600,
+        "word": "孟菲斯动物园将为丫丫举办告别派对",
+        "onboard_time": 1680826829,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1021550,
+        "num": 587533,
+        "word": "网友曝在赫莲娜做护理致脸部烧伤",
+        "onboard_time": 1680829350,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 582728,
+        "num": 582728,
+        "word": "顶着周雨彤头像骂周雨彤",
+        "onboard_time": 1680825268,
+        "rank": 5,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 541023,
+        "num": 541023,
+        "word": "丫丫租借合同到期",
+        "onboard_time": 1680829709,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 528233,
+        "num": 528233,
+        "word": "宋慧乔入围百想艺术大赏视后",
+        "onboard_time": 1680831866,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 471868,
+        "num": 471868,
+        "word": "BLACKPINK科切拉表演曲目",
+        "onboard_time": 1680830664,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 465904,
+        "num": 465904,
+        "word": "中国电科下属单位已就网传不实信息报案",
+        "onboard_time": 1680822739,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 852360,
+        "num": 461088,
+        "word": "女子被父母强制考公5年患精神分裂",
+        "onboard_time": 1680822560,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 798553,
+        "num": 459689,
+        "word": "杭州阿里巴巴由122亿减资至1亿",
+        "onboard_time": 1680824787,
+        "rank": 11,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 455133,
+        "num": 455133,
+        "word": "长月烬明云合首日播放量",
+        "onboard_time": 1680832108,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 392674,
+        "num": 392674,
+        "word": "制裁台独顽固分子萧美琴",
+        "onboard_time": 1680827490,
+        "rank": 13,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 379675,
+        "num": 379675,
+        "word": "江西吉安一男孩幼儿园内死亡",
+        "onboard_time": 1680825809,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 369037,
+        "num": 369037,
+        "word": "起床后为何不该立马叠被子",
+        "onboard_time": 1680824787,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 338407,
+        "num": 338407,
+        "word": "你会选择考公吗",
+        "onboard_time": 1680833187,
+        "rank": 16,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 334235,
+        "num": 334235,
+        "word": "张元英姐姐出道",
+        "onboard_time": 1680834566,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 333242,
+        "num": 333242,
+        "word": "王鹤棣结束桃花坞录制",
+        "onboard_time": 1680832466,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 326313,
+        "num": 326313,
+        "word": "一建",
+        "onboard_time": 1680832346,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 323347,
+        "num": 323347,
+        "word": "网友拍的张大大",
+        "onboard_time": 1680829049,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 316677,
+        "num": 316677,
+        "word": "长月烬明血鸦宴",
+        "onboard_time": 1680832646,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 297903,
+        "num": 297903,
+        "word": "马克龙",
+        "onboard_time": 1680826412,
+        "rank": 22,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 287593,
+        "num": 287593,
+        "word": "知情人称怼领导者为德阳某公司员工",
+        "onboard_time": 1680825389,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256898,
+        "num": 256898,
+        "word": "润玉时期多好看",
+        "onboard_time": 1680785010,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 221092,
+        "num": 221092,
+        "word": "菠萝为啥要用盐水泡一下再吃",
+        "onboard_time": 1680830129,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 215729,
+        "num": 215729,
+        "word": "五哈3在漠河舞厅杀青",
+        "onboard_time": 1680827370,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212825,
+        "num": 212825,
+        "word": "五月天鸟巢演唱会连开六场",
+        "onboard_time": 1680799762,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 199127,
+        "num": 199127,
+        "word": "对宣扬台独的有关机构予以惩戒",
+        "onboard_time": 1680831206,
+        "rank": 28,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 198366,
+        "num": 198366,
+        "word": "长月烬明",
+        "onboard_time": 1680826829,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 202013,
+        "num": 198021,
+        "word": "父母应该规划孩子的人生吗",
+        "onboard_time": 1680834147,
+        "rank": 30,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 183724,
+        "num": 195406,
+        "word": "陈伟霆说坐等一起露营吧",
+        "onboard_time": 1680833967,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193979,
+        "num": 193979,
+        "word": "园方回应男童在幼儿园内死亡",
+        "onboard_time": 1680830848,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185399,
+        "num": 185399,
+        "word": "丁程鑫宋亚轩刘耀文今年三首单曲战报",
+        "onboard_time": 1680830548,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 182826,
+        "num": 182826,
+        "word": "吴克群腹肌",
+        "onboard_time": 1680832947,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 174120,
+        "num": 174120,
+        "word": "百想艺术大赏",
+        "onboard_time": 1680834505,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 173132,
+        "num": 173132,
+        "word": "澹台烬撞脸白雪公主的王后",
+        "onboard_time": 1680824066,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 172462,
+        "num": 172462,
+        "word": "郑容和被韩国酵母放了一马",
+        "onboard_time": 1680788850,
+        "rank": 37,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 172136,
+        "num": 172136,
+        "word": "谷爱凌微博之夜六连拍",
+        "onboard_time": 1680828629,
+        "rank": 38,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 171906,
+        "num": 171906,
+        "word": "马克龙访华",
+        "onboard_time": 1680826352,
+        "rank": 39,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 158484,
+        "num": 158484,
+        "word": "华晨宇演唱会杭州站游园打卡vlog",
+        "onboard_time": 1680833306,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 155582,
+        "num": 155582,
+        "word": "小狗不要面子的吗",
+        "onboard_time": 1680834147,
+        "rank": 41,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 153841,
+        "num": 153841,
+        "word": "工作4年就诊了50次",
+        "onboard_time": 1680782067,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 150447,
+        "num": 150447,
+        "word": "SEVENTEEN将完整体出演出差十五夜",
+        "onboard_time": 1680830249,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138699,
+        "num": 138699,
+        "word": "九尾发博自省",
+        "onboard_time": 1680825389,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 135607,
+        "num": 135607,
+        "word": "德云社节目单",
+        "onboard_time": 1680832828,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124090,
+        "num": 124090,
+        "word": "克拉盘",
+        "onboard_time": 1680823584,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115831,
+        "num": 115831,
+        "word": "演完忠犬八公成狗生赢家",
+        "onboard_time": 1680828869,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 115448,
+        "num": 115448,
+        "word": "长月烬明剧情还原度",
+        "onboard_time": 1680834445,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 114839,
+        "num": 114839,
+        "word": "2000多年前这件衣服是打底还是外穿",
+        "onboard_time": 1680823161,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#我国经济发展实现较好开局#"
+    }
+  }
+}

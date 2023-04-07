@@ -1,6 +1,6 @@
 {
   "startTime": 1680798149468,
-  "endTime": 1680831684518,
+  "endTime": 1680834645568,
   "band_list": [
     {
       "raw_hot": 2432368,
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1021550,
+      "num": 587533,
+      "word": "网友曝在赫莲娜做护理致脸部烧伤",
+      "onboard_time": 1680829350,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 970520,
       "num": 446102,
       "word": "郑容和被韩国酵母放了一马",
@@ -123,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 582728,
+      "num": 582728,
+      "word": "顶着周雨彤头像骂周雨彤",
+      "onboard_time": 1680825268,
+      "rank": 14,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 580426,
       "num": 580426,
       "word": "声生不息把李玟怒斥好声音剪进正片",
@@ -139,12 +155,28 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 507113,
-      "num": 463682,
-      "word": "网友曝在赫莲娜做护理致脸部烧伤",
-      "onboard_time": 1680829350,
-      "rank": 24,
+      "raw_hot": 541023,
+      "num": 541023,
+      "word": "丫丫租借合同到期",
+      "onboard_time": 1680829709,
+      "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 528233,
+      "num": 528233,
+      "word": "宋慧乔入围百想艺术大赏视后",
+      "onboard_time": 1680831866,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 471868,
+      "num": 471868,
+      "word": "BLACKPINK科切拉表演曲目",
+      "onboard_time": 1680830664,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 468201,
@@ -163,19 +195,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 461926,
-      "num": 461926,
-      "word": "丫丫租借合同到期",
-      "onboard_time": 1680829709,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 461734,
       "num": 461734,
       "word": "长月烬明配音对不上口型",
       "onboard_time": 1680779250,
       "rank": 7,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 455133,
+      "num": 455133,
+      "word": "长月烬明云合首日播放量",
+      "onboard_time": 1680832108,
+      "rank": 12,
       "category": "影视"
     },
     {
@@ -185,14 +217,6 @@
       "onboard_time": 1680781409,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 411615,
-      "num": 411615,
-      "word": "顶着周雨彤头像骂周雨彤",
-      "onboard_time": 1680825268,
-      "rank": 14,
-      "category": "艺人,幽默"
     },
     {
       "raw_hot": 395055,
@@ -235,6 +259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 338407,
+      "num": 338407,
+      "word": "你会选择考公吗",
+      "onboard_time": 1680833187,
+      "rank": 16,
+      "category": "情感,教育"
+    },
+    {
       "raw_hot": 335360,
       "num": 335360,
       "word": "指望中国在台湾问题妥协退让是痴心妄想",
@@ -243,12 +275,52 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 334235,
+      "num": 334235,
+      "word": "张元英姐姐出道",
+      "onboard_time": 1680834566,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 333242,
+      "num": 333242,
+      "word": "王鹤棣结束桃花坞录制",
+      "onboard_time": 1680832466,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 326313,
+      "num": 326313,
+      "word": "一建",
+      "onboard_time": 1680832346,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 323347,
+      "num": 323347,
+      "word": "网友拍的张大大",
+      "onboard_time": 1680829049,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 323334,
       "num": 323334,
       "word": "徐州烧烤",
       "onboard_time": 1680777930,
       "rank": 12,
       "category": "美食"
+    },
+    {
+      "raw_hot": 316677,
+      "num": 316677,
+      "word": "长月烬明血鸦宴",
+      "onboard_time": 1680832646,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 316544,
@@ -323,28 +395,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 272894,
-      "num": 272894,
-      "word": "网友拍的张大大",
-      "onboard_time": 1680829049,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 269094,
       "num": 269094,
       "word": "长月烬明开播观后感",
       "onboard_time": 1680779369,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 268574,
-      "num": 268574,
-      "word": "BLACKPINK科切拉表演曲目",
-      "onboard_time": 1680830664,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 268449,
@@ -411,6 +467,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 221092,
+      "num": 221092,
+      "word": "菠萝为啥要用盐水泡一下再吃",
+      "onboard_time": 1680830129,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 217012,
       "num": 217012,
       "word": "85花早期古装剧无滤镜剧照",
@@ -419,20 +483,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 210114,
-      "num": 210114,
-      "word": "菠萝为啥要用盐水泡一下再吃",
-      "onboard_time": 1680830129,
-      "rank": 48,
-      "category": "美食"
-    },
-    {
       "raw_hot": 209246,
       "num": 209246,
       "word": "女书",
       "onboard_time": 1680797066,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202013,
+      "num": 198021,
+      "word": "父母应该规划孩子的人生吗",
+      "onboard_time": 1680834147,
+      "rank": 30,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 201776,
@@ -459,6 +523,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 199127,
+      "num": 199127,
+      "word": "对宣扬台独的有关机构予以惩戒",
+      "onboard_time": 1680831206,
+      "rank": 46,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 198642,
       "num": 198642,
       "word": "给2023届高考生的指路牌",
@@ -473,6 +545,14 @@
       "onboard_time": 1680793593,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 193979,
+      "num": 193979,
+      "word": "园方回应男童在幼儿园内死亡",
+      "onboard_time": 1680830848,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 192811,
@@ -499,20 +579,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 185399,
+      "num": 185399,
+      "word": "丁程鑫宋亚轩刘耀文今年三首单曲战报",
+      "onboard_time": 1680830548,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 183724,
+      "num": 195406,
+      "word": "陈伟霆说坐等一起露营吧",
+      "onboard_time": 1680833967,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 182826,
+      "num": 182826,
+      "word": "吴克群腹肌",
+      "onboard_time": 1680832947,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 181582,
       "num": 181582,
       "word": "RNG上单 五世同堂",
       "onboard_time": 1680789514,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 179874,
-      "num": 179874,
-      "word": "丁程鑫宋亚轩刘耀文今年三首单曲战报",
-      "onboard_time": 1680830548,
-      "rank": 35,
-      "category": "音乐"
     },
     {
       "raw_hot": 177502,
@@ -529,6 +625,14 @@
       "onboard_time": 1680784531,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 174120,
+      "num": 174120,
+      "word": "百想艺术大赏",
+      "onboard_time": 1680834505,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 170381,
@@ -561,6 +665,22 @@
       "onboard_time": 1680778289,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 158484,
+      "num": 158484,
+      "word": "华晨宇演唱会杭州站游园打卡vlog",
+      "onboard_time": 1680833306,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 155582,
+      "num": 155582,
+      "word": "小狗不要面子的吗",
+      "onboard_time": 1680834147,
+      "rank": 41,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 149034,
@@ -603,14 +723,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 136820,
-      "num": 136820,
-      "word": "园方回应男童在幼儿园内死亡",
-      "onboard_time": 1680830848,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 136587,
       "num": 136587,
       "word": "高加林刘巧珍爱情变亲情",
@@ -625,6 +737,14 @@
       "onboard_time": 1680783752,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 135607,
+      "num": 135607,
+      "word": "德云社节目单",
+      "onboard_time": 1680832828,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 131924,
@@ -659,20 +779,20 @@
       "category": "情感,网红"
     },
     {
-      "raw_hot": 116612,
-      "num": 116612,
-      "word": "对宣扬台独的有关机构予以惩戒",
-      "onboard_time": 1680831206,
-      "rank": 46,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 116424,
       "num": 116424,
       "word": "大家去长沙不会都是为了吃吧",
       "onboard_time": 1680786153,
       "rank": 41,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 115448,
+      "num": 115448,
+      "word": "长月烬明剧情还原度",
+      "onboard_time": 1680834445,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 115293,
