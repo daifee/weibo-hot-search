@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680838419924,
+  "endTime": 1680841268598,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -313,6 +313,14 @@
       "onboard_time": 1680519334,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2687594,
+      "num": 1780676,
+      "word": "陈志龙",
+      "onboard_time": 1680838160,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2686510,
@@ -707,6 +715,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1790649,
+      "num": 1790649,
+      "word": "孙海洋女儿呼吁取消拐骗罪",
+      "onboard_time": 1680837268,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1780219,
       "num": 1780219,
       "word": "曹格女儿说现在不喜欢被叫姐姐",
@@ -787,6 +803,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1628847,
+      "num": 672377,
+      "word": "印度12名男子将妇人斩首献祭",
+      "onboard_time": 1680835166,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1623765,
       "num": 928645,
       "word": "兰哀亲了",
@@ -801,6 +825,14 @@
       "onboard_time": 1680742230,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1622686,
+      "num": 1622686,
+      "word": "密子君 无骨鸡爪",
+      "onboard_time": 1680840150,
+      "rank": 3,
+      "category": "网红"
     },
     {
       "raw_hot": 1618293,
@@ -851,20 +883,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1563770,
-      "num": 506571,
-      "word": "印度12名男子将妇人斩首献祭",
-      "onboard_time": 1680835166,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1556798,
       "num": 641778,
       "word": "崔始源肿么了",
       "onboard_time": 1680584734,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1554662,
+      "num": 1554662,
+      "word": "腾讯视频和抖音集团达成合作",
+      "onboard_time": 1680836186,
+      "rank": 1,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 1552155,
+      "num": 1552155,
+      "word": "被渣男传播私密照片怎么办",
+      "onboard_time": 1680838949,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1551372,
@@ -897,14 +937,6 @@
       "onboard_time": 1680651682,
       "rank": 3,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 1537458,
-      "num": 1537458,
-      "word": "腾讯视频和抖音集团达成合作",
-      "onboard_time": 1680836186,
-      "rank": 1,
-      "category": "科技"
     },
     {
       "raw_hot": 1523923,
@@ -1395,6 +1427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1085071,
+      "num": 1085071,
+      "word": "长期不上班的人是什么状态",
+      "onboard_time": 1680838048,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1083444,
       "num": 1083444,
       "word": "马栓下线",
@@ -1489,6 +1529,14 @@
       "onboard_time": 1680749786,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 992136,
+      "num": 992136,
+      "word": "丰县八孩案一审宣判",
+      "onboard_time": 1680840993,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 988266,
@@ -2435,6 +2483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 697114,
+      "num": 697114,
+      "word": "张波叶诚尘二审翻供",
+      "onboard_time": 1680839609,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 694950,
       "num": 694950,
       "word": "动物园称未经许可不得直播丫丫",
@@ -2715,6 +2771,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 643901,
+      "num": 643901,
+      "word": "法官怎么能忍住不笑的",
+      "onboard_time": 1680835166,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 642197,
       "num": 368182,
       "word": "离职半个月长出头发了",
@@ -2939,14 +3003,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 605712,
-      "num": 605712,
-      "word": "法官怎么能忍住不笑的",
-      "onboard_time": 1680835166,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 602920,
       "num": 455411,
       "word": "知情人称怼领导者为德阳某公司员工",
@@ -2976,14 +3032,6 @@
       "word": "这一段路马英九走了73年",
       "onboard_time": 1680436828,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 597755,
-      "num": 461581,
-      "word": "孙海洋女儿呼吁取消拐骗罪",
-      "onboard_time": 1680837268,
-      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -3667,6 +3715,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 505085,
+      "num": 505085,
+      "word": "丰县八孩案5人犯拐卖妇女罪",
+      "onboard_time": 1680841054,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 504899,
       "num": 504899,
       "word": "林孝埈登长城",
@@ -3849,6 +3905,14 @@
       "onboard_time": 1680581852,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 481475,
+      "num": 481475,
+      "word": "韩国偶遇虞书欣逛街",
+      "onboard_time": 1680840150,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 480517,
@@ -5723,6 +5787,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 320994,
+      "num": 320994,
+      "word": "考公的压力有多大",
+      "onboard_time": 1680836845,
+      "rank": 30,
+      "category": "情感,教育"
+    },
+    {
       "raw_hot": 320634,
       "num": 320634,
       "word": "JDG对战BLG",
@@ -5913,14 +5985,6 @@
       "onboard_time": 1680691830,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 307217,
-      "num": 307217,
-      "word": "考公的压力有多大",
-      "onboard_time": 1680836845,
-      "rank": 30,
-      "category": "情感,教育"
     },
     {
       "raw_hot": 305906,
@@ -6273,6 +6337,14 @@
       "onboard_time": 1680349170,
       "rank": 15,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 286083,
+      "num": 286083,
+      "word": "汤唯入围百想艺术大赏影后",
+      "onboard_time": 1680839609,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 285832,
@@ -7243,6 +7315,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 246030,
+      "num": 246030,
+      "word": "警方通报男子行凶致4死后自服农药",
+      "onboard_time": 1680837869,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 244865,
       "num": 222994,
       "word": "肖战玉骨遥侧颜路透",
@@ -7465,6 +7545,14 @@
       "onboard_time": 1680362132,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 236720,
+      "num": 236720,
+      "word": "吴磊周雨彤爱情而已豆瓣开分8.3",
+      "onboard_time": 1680839067,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 236456,
@@ -7881,14 +7969,6 @@
       "onboard_time": 1680361170,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 220694,
-      "num": 220694,
-      "word": "警方通报男子行凶致4死后自服农药",
-      "onboard_time": 1680837869,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 220152,
@@ -9091,6 +9171,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 201776,
+      "num": 201776,
+      "word": "孙燕姿客串要久久爱",
+      "onboard_time": 1680840809,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 201746,
       "num": 201746,
       "word": "星星挑战",
@@ -9297,14 +9385,6 @@
       "onboard_time": 1680791614,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 199502,
-      "num": 199502,
-      "word": "陈志龙",
-      "onboard_time": 1680838160,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 199387,
@@ -10795,12 +10875,12 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 179610,
-      "num": 179610,
-      "word": "长期不上班的人是什么状态",
-      "onboard_time": 1680838048,
-      "rank": 44,
-      "category": "幽默"
+      "raw_hot": 179787,
+      "num": 179787,
+      "word": "宋妍霏的新剧观后感是140个哈",
+      "onboard_time": 1680840391,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 179530,
@@ -11115,6 +11195,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 171390,
+      "num": 487850,
+      "word": "上海愚园路一夜变蓝",
+      "onboard_time": 1680840029,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171309,
       "num": 171309,
       "word": "2023清明档票房破亿",
@@ -11209,6 +11297,14 @@
       "onboard_time": 1680677848,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 169787,
+      "num": 169787,
+      "word": "忠犬八公结局是HE",
+      "onboard_time": 1680839971,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 169786,
@@ -12675,6 +12771,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 139333,
+      "num": 139333,
+      "word": "第一次见阿姨在地铁上溜瓜",
+      "onboard_time": 1680841172,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 138961,
       "num": 138961,
       "word": "演完忠犬八公成狗生赢家",
@@ -13801,6 +13905,14 @@
       "onboard_time": 1680336209,
       "rank": 45,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 107699,
+      "num": 1696659,
+      "word": "神十五航天员在轨工作有多忙",
+      "onboard_time": 1680839249,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 107653,
