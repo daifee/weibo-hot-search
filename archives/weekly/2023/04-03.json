@@ -1,6 +1,6 @@
 {
   "startTime": 1680452464197,
-  "endTime": 1680884526258,
+  "endTime": 1680885485986,
   "band_list": [
     {
       "raw_hot": 9506486,
@@ -3867,6 +3867,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 432330,
+      "num": 432330,
+      "word": "才知道充电宝可以暂停计费",
+      "onboard_time": 1680878971,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 431731,
       "num": 309215,
       "word": "崔杋圭撞脸宋亚轩",
@@ -3921,14 +3929,6 @@
       "onboard_time": 1680863128,
       "rank": 36,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 426045,
-      "num": 426045,
-      "word": "才知道充电宝可以暂停计费",
-      "onboard_time": 1680878971,
-      "rank": 24,
-      "category": "幽默"
     },
     {
       "raw_hot": 425249,
@@ -9811,6 +9811,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 170524,
+      "num": 170524,
+      "word": "荒野行动",
+      "onboard_time": 1680883049,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 170051,
       "num": 166779,
       "word": "少年之名选手杨超文宣布退圈",
@@ -10867,14 +10875,6 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 138406,
-      "num": 138406,
-      "word": "荒野行动",
-      "onboard_time": 1680883049,
-      "rank": 33,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 138264,
       "num": 138264,
       "word": "静音车厢你爱了吗",
@@ -11121,6 +11121,14 @@
       "onboard_time": 1680847709,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 129669,
+      "num": 129669,
+      "word": "恋爱中不该说的四句话",
+      "onboard_time": 1680883886,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 129481,
@@ -11555,6 +11563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 103359,
+      "num": 96926,
+      "word": "闵玧其solo",
+      "onboard_time": 1680884664,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 102491,
       "num": 177385,
       "word": "oner看好EDG夺冠",
@@ -11755,20 +11771,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 81223,
-      "num": 92013,
-      "word": "恋爱中不该说的四句话",
-      "onboard_time": 1680883886,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 80904,
       "num": 80904,
       "word": "本泽马7分钟帽子戏法",
       "onboard_time": 1680449915,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 80696,
+      "num": 80696,
+      "word": "买了吃灰的网红小家电",
+      "onboard_time": 1680884723,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 77721,
