@@ -1,6 +1,6 @@
 {
   "startTime": 1680452464197,
-  "endTime": 1680844560608,
+  "endTime": 1680845615103,
   "band_list": [
     {
       "raw_hot": 9506486,
@@ -700,7 +700,7 @@
     },
     {
       "raw_hot": 1628847,
-      "num": 679772,
+      "num": 705156,
       "word": "印度12名男子将妇人斩首献祭",
       "onboard_time": 1680835166,
       "rank": 34,
@@ -1459,6 +1459,14 @@
       "category": "幽默,时尚"
     },
     {
+      "raw_hot": 884026,
+      "num": 884026,
+      "word": "董志民致小花梅精神分裂",
+      "onboard_time": 1680843512,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 883134,
       "num": 551049,
       "word": "胡先煦说真的没有快乐减肥",
@@ -1825,6 +1833,14 @@
       "onboard_time": 1680825268,
       "rank": 14,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 747499,
+      "num": 747499,
+      "word": "纸嫁衣",
+      "onboard_time": 1680842855,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 744478,
@@ -2324,7 +2340,7 @@
     },
     {
       "raw_hot": 625250,
-      "num": 610911,
+      "num": 618353,
       "word": "韩国偶遇虞书欣逛街",
       "onboard_time": 1680840150,
       "rank": 15,
@@ -2355,28 +2371,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 620070,
-      "num": 591815,
-      "word": "董志民致小花梅精神分裂",
-      "onboard_time": 1680843512,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 619907,
       "num": 619907,
       "word": "男孩扫墓跪求奶奶保佑不写作业不挨打",
       "onboard_time": 1680591988,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 613323,
-      "num": 613323,
-      "word": "纸嫁衣",
-      "onboard_time": 1680842855,
-      "rank": 9,
-      "category": "游戏"
     },
     {
       "raw_hot": 612597,
@@ -2739,6 +2739,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 533911,
+      "num": 533911,
+      "word": "大连宝马撞人案司机被执行死刑",
+      "onboard_time": 1680845249,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 532727,
       "num": 532727,
       "word": "朱珠Amber搭肩同框",
@@ -2891,6 +2899,14 @@
       "category": "综艺,综艺"
     },
     {
+      "raw_hot": 509482,
+      "num": 509482,
+      "word": "孙海洋让妻子不要来法庭",
+      "onboard_time": 1680843273,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 509461,
       "num": 509461,
       "word": "一出站就被惊艳了的宝藏地铁口",
@@ -3025,6 +3041,14 @@
       "onboard_time": 1680489748,
       "rank": 14,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 486751,
+      "num": 486751,
+      "word": "澹台烬才是真公主吧",
+      "onboard_time": 1680843692,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 483632,
@@ -3739,6 +3763,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 392944,
+      "num": 392944,
+      "word": "吴磊回应在娱乐圈当运动员",
+      "onboard_time": 1680844352,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 392831,
       "num": 392831,
       "word": "医院手推床轮子脱落孕妇摔下床",
@@ -3793,6 +3825,14 @@
       "onboard_time": 1680743728,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 386491,
+      "num": 386491,
+      "word": "花千骨作者也在追长月烬明",
+      "onboard_time": 1680844707,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 386090,
@@ -4137,6 +4177,14 @@
       "onboard_time": 1680659491,
       "rank": 17,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 345716,
+      "num": 345716,
+      "word": "马克龙想续租大熊猫",
+      "onboard_time": 1680844292,
+      "rank": 46,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 345083,
@@ -4531,14 +4579,6 @@
       "category": "影视,动漫"
     },
     {
-      "raw_hot": 309152,
-      "num": 309152,
-      "word": "澹台烬才是真公主吧",
-      "onboard_time": 1680843692,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 309102,
       "num": 309102,
       "word": "原来鲨鱼卵长这样",
@@ -4689,14 +4729,6 @@
       "onboard_time": 1680766589,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 293815,
-      "num": 230696,
-      "word": "孙海洋让妻子不要来法庭",
-      "onboard_time": 1680843273,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 292603,
@@ -5243,6 +5275,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 259986,
+      "num": 259986,
+      "word": "王一博诉魔迹软糖侵权",
+      "onboard_time": 1680844470,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 259883,
+      "num": 259883,
+      "word": "宋轶染发",
+      "onboard_time": 1680845431,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 259850,
       "num": 259850,
       "word": "长月烬明灭了吗订单",
@@ -5419,6 +5467,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 251780,
+      "num": 251780,
+      "word": "九尾直播听宋亚轩新歌",
+      "onboard_time": 1680843873,
+      "rank": 39,
+      "category": "音乐,游戏"
+    },
+    {
       "raw_hot": 251759,
       "num": 251759,
       "word": "张杰演唱会",
@@ -5521,6 +5577,14 @@
       "onboard_time": 1680830129,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 243649,
+      "num": 243649,
+      "word": "周雨彤为演戏去公司坐班",
+      "onboard_time": 1680844951,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 243253,
@@ -5995,6 +6059,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 221738,
+      "num": 221738,
+      "word": "马国明唐诗咏亲热戏",
+      "onboard_time": 1680845068,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 221257,
       "num": 221257,
       "word": "薄冰剧情版预告",
@@ -6064,6 +6136,14 @@
       "word": "5个特征辨别你是否湿气重",
       "onboard_time": 1680722473,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 218524,
+      "num": 218524,
+      "word": "男子连喝10多年栀子茶险肠坏死",
+      "onboard_time": 1680844650,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -6347,6 +6427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 209827,
+      "num": 209827,
+      "word": "叶诚尘称自己有精神疾病",
+      "onboard_time": 1680845010,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 209770,
       "num": 196350,
       "word": "over me",
@@ -6595,14 +6683,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 205870,
-      "num": 205870,
-      "word": "吴磊回应在娱乐圈当运动员",
-      "onboard_time": 1680844352,
-      "rank": 37,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 205473,
       "num": 205473,
       "word": "湖人爵士加时",
@@ -6617,6 +6697,14 @@
       "onboard_time": 1680686130,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 205330,
+      "num": 205330,
+      "word": "迪丽热巴晒生活照",
+      "onboard_time": 1680845492,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 205267,
@@ -6937,14 +7025,6 @@
       "onboard_time": 1680477501,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 201335,
-      "num": 201335,
-      "word": "九尾直播听宋亚轩新歌",
-      "onboard_time": 1680843873,
-      "rank": 39,
-      "category": "音乐,游戏"
     },
     {
       "raw_hot": 201174,
@@ -7707,6 +7787,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 187631,
+      "num": 187631,
+      "word": "小花梅近况",
+      "onboard_time": 1680845010,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187570,
       "num": 197625,
       "word": "徐明浩说社恐小八来报到",
@@ -8195,14 +8283,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 175839,
-      "num": 175839,
-      "word": "王一博诉魔迹软糖侵权",
-      "onboard_time": 1680844470,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 175763,
       "num": 175763,
       "word": "张含韵说我爱我的三十岁",
@@ -8267,6 +8347,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 173559,
+      "num": 173559,
+      "word": "华晨宇演唱会歌迷自发化火星妆",
+      "onboard_time": 1680845552,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 173414,
       "num": 173414,
       "word": "薄冰光影眼神杀",
@@ -8281,14 +8369,6 @@
       "onboard_time": 1680600511,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 173187,
-      "num": 173187,
-      "word": "马克龙想续租大熊猫",
-      "onboard_time": 1680844292,
-      "rank": 46,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 172963,
@@ -10259,6 +10339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 68985,
+      "num": 520057,
+      "word": "张艺兴店长初体验",
+      "onboard_time": 1680843630,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 68109,
       "num": 68109,
       "word": "吴昕大侦探皮衣造型",
@@ -10377,14 +10465,6 @@
       "onboard_time": 1680627741,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 40156,
-      "num": 496213,
-      "word": "张艺兴店长初体验",
-      "onboard_time": 1680843630,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 39982,
