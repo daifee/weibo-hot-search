@@ -1,6 +1,6 @@
 {
   "startTime": 1680452464197,
-  "endTime": 1680881621012,
+  "endTime": 1680884526258,
   "band_list": [
     {
       "raw_hot": 9506486,
@@ -3299,6 +3299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 509273,
+      "num": 509273,
+      "word": "离职是主动辞职好还是被辞退好",
+      "onboard_time": 1680880590,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 506660,
       "num": 506660,
       "word": "张继科代理律师称还未起诉",
@@ -3915,6 +3923,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 426045,
+      "num": 426045,
+      "word": "才知道充电宝可以暂停计费",
+      "onboard_time": 1680878971,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 425249,
       "num": 248219,
       "word": "女子和公公带俩孩给亡夫销户",
@@ -4483,6 +4499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 367541,
+      "num": 367541,
+      "word": "广州松园",
+      "onboard_time": 1680879813,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 367380,
       "num": 367380,
       "word": "为什么父母辈不理解双休",
@@ -4641,14 +4665,6 @@
       "onboard_time": 1680870507,
       "rank": 24,
       "category": "自然"
-    },
-    {
-      "raw_hot": 352699,
-      "num": 352699,
-      "word": "才知道充电宝可以暂停计费",
-      "onboard_time": 1680878971,
-      "rank": 24,
-      "category": "幽默"
     },
     {
       "raw_hot": 352620,
@@ -5193,14 +5209,6 @@
       "onboard_time": 1680621751,
       "rank": 23,
       "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 310676,
-      "num": 310676,
-      "word": "广州松园",
-      "onboard_time": 1680879813,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 309102,
@@ -6617,14 +6625,6 @@
       "onboard_time": 1680845970,
       "rank": 28,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 235151,
-      "num": 235151,
-      "word": "离职是主动辞职好还是被辞退好",
-      "onboard_time": 1680880590,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 234437,
@@ -10867,6 +10867,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 138406,
+      "num": 138406,
+      "word": "荒野行动",
+      "onboard_time": 1680883049,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 138264,
       "num": 138264,
       "word": "静音车厢你爱了吗",
@@ -11745,6 +11753,14 @@
       "onboard_time": 1680477141,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 81223,
+      "num": 92013,
+      "word": "恋爱中不该说的四句话",
+      "onboard_time": 1680883886,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 80904,
