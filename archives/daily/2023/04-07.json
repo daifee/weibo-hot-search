@@ -1,6 +1,6 @@
 {
   "startTime": 1680798149468,
-  "endTime": 1680880630677,
+  "endTime": 1680881621012,
   "band_list": [
     {
       "raw_hot": 7516988,
@@ -259,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1285363,
+      "num": 1285363,
+      "word": "黑莲花男主",
+      "onboard_time": 1680879512,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1240762,
       "num": 1240762,
       "word": "长期不上班的人是什么状态",
@@ -337,14 +345,6 @@
       "onboard_time": 1680877170,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 956578,
-      "num": 956578,
-      "word": "黑莲花男主",
-      "onboard_time": 1680879512,
-      "rank": 6,
-      "category": "影视"
     },
     {
       "raw_hot": 920886,
@@ -547,6 +547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 669952,
+      "num": 526414,
+      "word": "张雨绮手机壳 智者不入爱河",
+      "onboard_time": 1680878671,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 650836,
       "num": 650836,
       "word": "花千骨作者也在追长月烬明",
@@ -587,12 +595,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 627764,
-      "num": 505860,
-      "word": "张雨绮手机壳 智者不入爱河",
-      "onboard_time": 1680878671,
-      "rank": 11,
-      "category": "艺人"
+      "raw_hot": 628897,
+      "num": 628897,
+      "word": "安徽大学回应男老师让女生穿短裙跳操",
+      "onboard_time": 1680878793,
+      "rank": 9,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 626406,
@@ -699,6 +707,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 538701,
+      "num": 538701,
+      "word": "韩素希 OMEGA",
+      "onboard_time": 1680880292,
+      "rank": 36,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 528233,
       "num": 528233,
       "word": "宋慧乔入围百想艺术大赏视后",
@@ -713,14 +729,6 @@
       "onboard_time": 1680833187,
       "rank": 16,
       "category": "情感,教育"
-    },
-    {
-      "raw_hot": 514224,
-      "num": 514224,
-      "word": "安徽大学回应男老师让女生穿短裙跳操",
-      "onboard_time": 1680878793,
-      "rank": 9,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 510842,
@@ -971,6 +979,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 375101,
+      "num": 375101,
+      "word": "马小跳妈妈成了宋三川丈母娘",
+      "onboard_time": 1680879397,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 372695,
       "num": 372695,
       "word": "TF家族三代演唱会官宣",
@@ -1041,6 +1057,14 @@
       "onboard_time": 1680870507,
       "rank": 24,
       "category": "自然"
+    },
+    {
+      "raw_hot": 352699,
+      "num": 352699,
+      "word": "才知道充电宝可以暂停计费",
+      "onboard_time": 1680878971,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 351954,
@@ -1121,14 +1145,6 @@
       "onboard_time": 1680841172,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 327735,
-      "num": 300606,
-      "word": "马小跳妈妈成了宋三川丈母娘",
-      "onboard_time": 1680879397,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 327125,
@@ -1227,6 +1243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 310676,
+      "num": 310676,
+      "word": "广州松园",
+      "onboard_time": 1680879813,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 308269,
       "num": 308269,
       "word": "北漂7年的房租",
@@ -1260,7 +1284,7 @@
     },
     {
       "raw_hot": 303206,
-      "num": 245353,
+      "num": 255103,
       "word": "李沁说活得漂亮比生得漂亮更重要",
       "onboard_time": 1680877892,
       "rank": 46,
@@ -1307,6 +1331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 294543,
+      "num": 294543,
+      "word": "邢菲黑色露腰长裙",
+      "onboard_time": 1680877471,
+      "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 294444,
       "num": 294444,
       "word": "黑暗荣耀林智妍入围百想最佳女配角",
@@ -1337,14 +1369,6 @@
       "onboard_time": 1680827911,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 291194,
-      "num": 245174,
-      "word": "邢菲黑色露腰长裙",
-      "onboard_time": 1680877471,
-      "rank": 27,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 290886,
@@ -1579,14 +1603,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 245899,
-      "num": 245899,
-      "word": "才知道充电宝可以暂停计费",
-      "onboard_time": 1680878971,
-      "rank": 24,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 244780,
       "num": 244780,
       "word": "蓝基因崩了",
@@ -1675,6 +1691,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 235151,
+      "num": 235151,
+      "word": "离职是主动辞职好还是被辞退好",
+      "onboard_time": 1680880590,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 234158,
       "num": 234158,
       "word": "金智秀酒综预告",
@@ -1753,14 +1777,6 @@
       "onboard_time": 1680878793,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 228717,
-      "num": 200763,
-      "word": "韩素希 OMEGA",
-      "onboard_time": 1680880292,
-      "rank": 36,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 228268,
@@ -2675,14 +2691,6 @@
       "category": "综艺,艺人"
     },
     {
-      "raw_hot": 153764,
-      "num": 153764,
-      "word": "广州松园",
-      "onboard_time": 1680879813,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 153723,
       "num": 171813,
       "word": "KPL",
@@ -2851,6 +2859,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 127748,
+      "num": 127748,
+      "word": "鹿晗王勉睡一张床",
+      "onboard_time": 1680878551,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125590,
       "num": 125590,
       "word": "家属将公布苏享茂被胁迫细节",
@@ -2945,14 +2961,6 @@
       "onboard_time": 1680786933,
       "rank": 43,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 106713,
-      "num": 147834,
-      "word": "离职是主动辞职好还是被辞退好",
-      "onboard_time": 1680880590,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 106556,
