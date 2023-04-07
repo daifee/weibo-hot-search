@@ -1,6 +1,6 @@
 {
   "startTime": 1680452464197,
-  "endTime": 1680845615103,
+  "endTime": 1680848520609,
   "band_list": [
     {
       "raw_hot": 9506486,
@@ -611,6 +611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1790080,
+      "num": 645446,
+      "word": "宋轶染发",
+      "onboard_time": 1680845431,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1780219,
       "num": 1780219,
       "word": "曹格女儿说现在不喜欢被叫姐姐",
@@ -811,6 +819,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 1541341,
+      "num": 1541341,
+      "word": "大连宝马撞人案司机被执行死刑",
+      "onboard_time": 1680845249,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1498158,
       "num": 1498158,
       "word": "刘国梁连任中国乒协主席",
@@ -841,6 +857,14 @@
       "onboard_time": 1680697951,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1426045,
+      "num": 1426045,
+      "word": "马克龙想续租大熊猫",
+      "onboard_time": 1680844292,
+      "rank": 46,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 1423043,
@@ -1675,6 +1699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 802419,
+      "num": 802419,
+      "word": "孙海洋让妻子不要来法庭",
+      "onboard_time": 1680843273,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 799786,
       "num": 799786,
       "word": "女子乐山大佛头顶盘膝打坐",
@@ -2219,6 +2251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 650836,
+      "num": 650836,
+      "word": "花千骨作者也在追长月烬明",
+      "onboard_time": 1680844707,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 645823,
       "num": 645823,
       "word": "更适合中国宝宝体质的",
@@ -2376,6 +2416,14 @@
       "word": "男孩扫墓跪求奶奶保佑不写作业不挨打",
       "onboard_time": 1680591988,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 619780,
+      "num": 619780,
+      "word": "叶诚尘称自己有精神疾病",
+      "onboard_time": 1680845010,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -2739,14 +2787,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 533911,
-      "num": 533911,
-      "word": "大连宝马撞人案司机被执行死刑",
-      "onboard_time": 1680845249,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 532727,
       "num": 532727,
       "word": "朱珠Amber搭肩同框",
@@ -2899,14 +2939,6 @@
       "category": "综艺,综艺"
     },
     {
-      "raw_hot": 509482,
-      "num": 509482,
-      "word": "孙海洋让妻子不要来法庭",
-      "onboard_time": 1680843273,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 509461,
       "num": 509461,
       "word": "一出站就被惊艳了的宝藏地铁口",
@@ -2977,6 +3009,14 @@
       "onboard_time": 1680689374,
       "rank": 25,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 492910,
+      "num": 492910,
+      "word": "迪丽热巴晒生活照",
+      "onboard_time": 1680845492,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 491719,
@@ -3331,6 +3371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 442006,
+      "num": 442006,
+      "word": "男子连喝10多年栀子茶险肠坏死",
+      "onboard_time": 1680844650,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 440390,
       "num": 440390,
       "word": "陈鑫海演技",
@@ -3401,6 +3449,14 @@
       "onboard_time": 1680659610,
       "rank": 13,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 431908,
+      "num": 431908,
+      "word": "权志龙晚宴艺人合照",
+      "onboard_time": 1680845910,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 431731,
@@ -3827,14 +3883,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 386491,
-      "num": 386491,
-      "word": "花千骨作者也在追长月烬明",
-      "onboard_time": 1680844707,
-      "rank": 19,
-      "category": "影视"
-    },
-    {
       "raw_hot": 386090,
       "num": 386090,
       "word": "吃菠萝扎嘴的原因",
@@ -4067,12 +4115,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 356569,
+      "num": 356569,
+      "word": "中山大学",
+      "onboard_time": 1680847827,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 355957,
       "num": 355957,
       "word": "张杰打碟蹦迪",
       "onboard_time": 1680504270,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 355419,
+      "num": 355419,
+      "word": "小花梅近况",
+      "onboard_time": 1680845010,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 355150,
@@ -4177,14 +4241,6 @@
       "onboard_time": 1680659491,
       "rank": 17,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 345716,
-      "num": 345716,
-      "word": "马克龙想续租大熊猫",
-      "onboard_time": 1680844292,
-      "rank": 46,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 345083,
@@ -4875,6 +4931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 284086,
+      "num": 284086,
+      "word": "EDG给罗云熙新剧打call",
+      "onboard_time": 1680847709,
+      "rank": 25,
+      "category": "影视,游戏"
+    },
+    {
       "raw_hot": 283996,
       "num": 283996,
       "word": "柯南电影的比喻图",
@@ -5283,14 +5347,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 259883,
-      "num": 259883,
-      "word": "宋轶染发",
-      "onboard_time": 1680845431,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 259850,
       "num": 259850,
       "word": "长月烬明灭了吗订单",
@@ -5651,6 +5707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 239999,
+      "num": 239999,
+      "word": "黑暗荣耀林智妍入围百想最佳女配角",
+      "onboard_time": 1680846930,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 239489,
       "num": 239489,
       "word": "369酒桶",
@@ -5745,6 +5809,14 @@
       "onboard_time": 1680772832,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 235171,
+      "num": 235171,
+      "word": "张杰武汉站演唱会官宣加场",
+      "onboard_time": 1680845970,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 234437,
@@ -6099,6 +6171,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 219700,
+      "num": 219700,
+      "word": "白鹿孙珍妮的CP名叫妍珍",
+      "onboard_time": 1680847650,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 219507,
       "num": 219507,
       "word": "长月烬明买了寻常歌",
@@ -6136,14 +6216,6 @@
       "word": "5个特征辨别你是否湿气重",
       "onboard_time": 1680722473,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 218524,
-      "num": 218524,
-      "word": "男子连喝10多年栀子茶险肠坏死",
-      "onboard_time": 1680844650,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -6427,14 +6499,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 209827,
-      "num": 209827,
-      "word": "叶诚尘称自己有精神疾病",
-      "onboard_time": 1680845010,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 209770,
       "num": 196350,
       "word": "over me",
@@ -6553,6 +6617,14 @@
       "onboard_time": 1680704613,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207511,
+      "num": 207511,
+      "word": "贺峻霖安利中传美食",
+      "onboard_time": 1680847528,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 207439,
@@ -6697,14 +6769,6 @@
       "onboard_time": 1680686130,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 205330,
-      "num": 205330,
-      "word": "迪丽热巴晒生活照",
-      "onboard_time": 1680845492,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 205267,
@@ -7787,14 +7851,6 @@
       "category": "情感,社会新闻"
     },
     {
-      "raw_hot": 187631,
-      "num": 187631,
-      "word": "小花梅近况",
-      "onboard_time": 1680845010,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 187570,
       "num": 197625,
       "word": "徐明浩说社恐小八来报到",
@@ -8475,6 +8531,14 @@
       "category": "社会议题,艺人"
     },
     {
+      "raw_hot": 171160,
+      "num": 171160,
+      "word": "我被采访",
+      "onboard_time": 1680847168,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 171070,
       "num": 171070,
       "word": "罗一舟登场了北京中轴线剧照",
@@ -8521,6 +8585,14 @@
       "onboard_time": 1680677848,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 169651,
+      "num": 169651,
+      "word": "单休和双休有多大区别",
+      "onboard_time": 1680847408,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 169087,
@@ -9547,6 +9619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 134511,
+      "num": 134511,
+      "word": "在荆州看春天第一场电影盛会",
+      "onboard_time": 1680848371,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 133814,
       "num": 133814,
       "word": "京城大师赛",
@@ -9665,6 +9745,14 @@
       "onboard_time": 1680714141,
       "rank": 30,
       "category": "作品衍生,动漫"
+    },
+    {
+      "raw_hot": 130299,
+      "num": 130299,
+      "word": "长月烬明情头",
+      "onboard_time": 1680847709,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 129481,
