@@ -1,0 +1,410 @@
+{
+  "runTime": 1680856441306,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2135983,
+        "num": 2135983,
+        "word": "密子君道歉",
+        "onboard_time": 1680853768,
+        "rank": 0,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1638756,
+        "num": 1638756,
+        "word": "董明珠称孟羽童已不做秘书",
+        "onboard_time": 1680849027,
+        "rank": 1,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 60302,
+        "num": 1593480,
+        "word": "神十五航天员在轨工作有多忙",
+        "onboard_time": 1680839249,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1923422,
+        "num": 1584535,
+        "word": "被渣男传播私密照片怎么办",
+        "onboard_time": 1680838949,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1566169,
+        "num": 1566169,
+        "word": "大量张继科周边被粉丝甩卖",
+        "onboard_time": 1680853467,
+        "rank": 4,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1479907,
+        "num": 1479907,
+        "word": "中山大学",
+        "onboard_time": 1680847827,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 754874,
+        "num": 754874,
+        "word": "密子君 无骨鸡爪",
+        "onboard_time": 1680840150,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 716656,
+        "num": 716656,
+        "word": "马克龙想续租大熊猫",
+        "onboard_time": 1680844292,
+        "rank": 7,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 656466,
+        "num": 656466,
+        "word": "大连宝马撞人案司机被执行死刑",
+        "onboard_time": 1680845249,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 642256,
+        "num": 642256,
+        "word": "刘亦菲井柏然新剧或将播出",
+        "onboard_time": 1680855566,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 898978,
+        "num": 642110,
+        "word": "宋轶染发",
+        "onboard_time": 1680845431,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 640900,
+        "num": 640900,
+        "word": "那英马嘉祺情头",
+        "onboard_time": 1680849207,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 606804,
+        "num": 606804,
+        "word": "邓家佳话剧被嫌弃的松子的一生",
+        "onboard_time": 1680853587,
+        "rank": 12,
+        "category": "影视,艺人"
+      },
+      {
+        "raw_hot": 526423,
+        "num": 526423,
+        "word": "你会为了高工资选择单休吗",
+        "onboard_time": 1680852689,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 494698,
+        "num": 494698,
+        "word": "马克龙为何访问中山大学",
+        "onboard_time": 1680850170,
+        "rank": 14,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 451787,
+        "num": 451787,
+        "word": "长期不上班的人是什么状态",
+        "onboard_time": 1680838048,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 425459,
+        "num": 425459,
+        "word": "叶诚尘称自己有精神疾病",
+        "onboard_time": 1680845010,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 394430,
+        "num": 394430,
+        "word": "单休相当于一年多上2个月班",
+        "onboard_time": 1680848548,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294625,
+        "num": 294625,
+        "word": "魏晨的衣服口袋是防搜身专用",
+        "onboard_time": 1680853649,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 294005,
+        "num": 294005,
+        "word": "朱一龙持股成立影业公司",
+        "onboard_time": 1680852928,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 658862,
+        "num": 293851,
+        "word": "男子每日半包烟婚后2年不育",
+        "onboard_time": 1680850949,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 500165,
+        "num": 293667,
+        "word": "生育对女性的伤害有多大",
+        "onboard_time": 1680851008,
+        "rank": 21,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 342411,
+        "num": 293247,
+        "word": "周冬雨素颜状态",
+        "onboard_time": 1680854188,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 309318,
+        "num": 293008,
+        "word": "老太地铁求座女子自称孕妇怒怼",
+        "onboard_time": 1680853951,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292984,
+        "num": 292984,
+        "word": "张杰武汉巡演加五场",
+        "onboard_time": 1680850048,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 257547,
+        "num": 257547,
+        "word": "迪丽热巴晒生活照",
+        "onboard_time": 1680845492,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256998,
+        "num": 256998,
+        "word": "丫丫",
+        "onboard_time": 1680855510,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243665,
+        "num": 243665,
+        "word": "花千骨作者也在追长月烬明",
+        "onboard_time": 1680844707,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 238588,
+        "num": 238588,
+        "word": "SMTOWN和HYBE联合账号注销",
+        "onboard_time": 1680850527,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232109,
+        "num": 232109,
+        "word": "合理请假是工作一部分",
+        "onboard_time": 1680854787,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 230112,
+        "num": 230112,
+        "word": "男子连喝10多年栀子茶险肠坏死",
+        "onboard_time": 1680844650,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225228,
+        "num": 225228,
+        "word": "密子君说小强是自己红油里的",
+        "onboard_time": 1680855269,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 218802,
+        "num": 218802,
+        "word": "药店体重秤的标语",
+        "onboard_time": 1680852450,
+        "rank": 32,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 216993,
+        "num": 216993,
+        "word": "丰县八孩案一审宣判",
+        "onboard_time": 1680840993,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213226,
+        "num": 213226,
+        "word": "流浪地球2网播定档",
+        "onboard_time": 1680855867,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 208793,
+        "num": 208793,
+        "word": "澹台烬才是真公主吧",
+        "onboard_time": 1680843692,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 208431,
+        "num": 208431,
+        "word": "吴磊侧躺有腹肌",
+        "onboard_time": 1680854308,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194291,
+        "num": 194291,
+        "word": "华晨宇杭州演唱会",
+        "onboard_time": 1680854728,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 193673,
+        "num": 193673,
+        "word": "天蝎座的冷酷其实都是装的",
+        "onboard_time": 1680856108,
+        "rank": 38,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 48021,
+        "num": 193535,
+        "word": "为什么一到换季就鼻炎",
+        "onboard_time": 1680854427,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193501,
+        "num": 193501,
+        "word": "白鹿新剧又要跳城楼",
+        "onboard_time": 1680852509,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 192976,
+        "num": 192976,
+        "word": "SEVENTEEN关于青春的代名词",
+        "onboard_time": 1680854249,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191146,
+        "num": 191146,
+        "word": "BoysPlanet第三次顺位发表",
+        "onboard_time": 1680856227,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190828,
+        "num": 190828,
+        "word": "牛杂葡挞",
+        "onboard_time": 1680852450,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 185665,
+        "num": 185665,
+        "word": "丰县八孩案5人犯拐卖妇女罪",
+        "onboard_time": 1680841054,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172452,
+        "num": 172452,
+        "word": "赵露思打卡杀青应援花墙",
+        "onboard_time": 1680852570,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171797,
+        "num": 171797,
+        "word": "孙海洋女儿呼吁取消拐骗罪",
+        "onboard_time": 1680837268,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169588,
+        "num": 169588,
+        "word": "权志龙晚宴艺人合照",
+        "onboard_time": 1680845910,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143757,
+        "num": 162311,
+        "word": "纸嫁衣",
+        "onboard_time": 1680842855,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 62585,
+        "num": 159936,
+        "word": "鸳鸯债广播剧化",
+        "onboard_time": 1680853169,
+        "rank": 49,
+        "category": "动漫,作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#中法欧三方会晤#"
+    }
+  }
+}

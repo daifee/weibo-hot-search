@@ -1,6 +1,6 @@
 {
   "startTime": 1680452464197,
-  "endTime": 1680855670202,
+  "endTime": 1680856441306,
   "band_list": [
     {
       "raw_hot": 9506486,
@@ -795,6 +795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1566169,
+      "num": 1566169,
+      "word": "大量张继科周边被粉丝甩卖",
+      "onboard_time": 1680853467,
+      "rank": 5,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1556798,
       "num": 641778,
       "word": "崔始源肿么了",
@@ -905,14 +913,6 @@
       "onboard_time": 1680771330,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1413788,
-      "num": 1413788,
-      "word": "大量张继科周边被粉丝甩卖",
-      "onboard_time": 1680853467,
-      "rank": 5,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1399433,
@@ -2339,6 +2339,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 642256,
+      "num": 642256,
+      "word": "刘亦菲井柏然新剧或将播出",
+      "onboard_time": 1680855566,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 642197,
       "num": 368182,
       "word": "离职半个月长出头发了",
@@ -2913,6 +2921,14 @@
       "onboard_time": 1680831866,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 526423,
+      "num": 526423,
+      "word": "你会为了高工资选择单休吗",
+      "onboard_time": 1680852689,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 526400,
@@ -3699,14 +3715,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 417178,
-      "num": 417178,
-      "word": "你会为了高工资选择单休吗",
-      "onboard_time": 1680852689,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 416697,
       "num": 382805,
       "word": "力灿承认曾性骚扰",
@@ -4100,7 +4108,7 @@
     },
     {
       "raw_hot": 372008,
-      "num": 288224,
+      "num": 293247,
       "word": "周冬雨素颜状态",
       "onboard_time": 1680854188,
       "rank": 21,
@@ -4747,6 +4755,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 309318,
+      "num": 293008,
+      "word": "老太地铁求座女子自称孕妇怒怼",
+      "onboard_time": 1680853951,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 309102,
       "num": 309102,
       "word": "原来鲨鱼卵长这样",
@@ -4897,6 +4913,14 @@
       "onboard_time": 1680520774,
       "rank": 38,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 294625,
+      "num": 294625,
+      "word": "魏晨的衣服口袋是防搜身专用",
+      "onboard_time": 1680853649,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 294444,
@@ -5193,14 +5217,6 @@
       "onboard_time": 1680748827,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 279295,
-      "num": 279295,
-      "word": "魏晨的衣服口袋是防搜身专用",
-      "onboard_time": 1680853649,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 279196,
@@ -5667,14 +5683,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 252099,
-      "num": 252099,
-      "word": "老太地铁求座女子自称孕妇怒怼",
-      "onboard_time": 1680853951,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 251780,
       "num": 251780,
       "word": "九尾直播听宋亚轩新歌",
@@ -6027,6 +6035,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 232109,
+      "num": 232109,
+      "word": "合理请假是工作一部分",
+      "onboard_time": 1680854787,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 232021,
       "num": 232021,
       "word": "马克龙远道而来这些细节值得关注",
@@ -6217,6 +6233,14 @@
       "onboard_time": 1680694293,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 225228,
+      "num": 225228,
+      "word": "密子君说小强是自己红油里的",
+      "onboard_time": 1680855269,
+      "rank": 36,
+      "category": "网红"
     },
     {
       "raw_hot": 224784,
@@ -6563,6 +6587,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 213226,
+      "num": 213226,
+      "word": "流浪地球2网播定档",
+      "onboard_time": 1680855867,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 213173,
       "num": 213173,
       "word": "哇唧唧哇六周年怪6的",
@@ -6760,6 +6792,14 @@
       "word": "2023春推会参展剧目",
       "onboard_time": 1680497734,
       "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 208431,
+      "num": 208431,
+      "word": "吴磊侧躺有腹肌",
+      "onboard_time": 1680854308,
+      "rank": 35,
       "category": "影视"
     },
     {
@@ -7187,14 +7227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 202834,
-      "num": 202834,
-      "word": "吴磊侧躺有腹肌",
-      "onboard_time": 1680854308,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 202762,
       "num": 202762,
       "word": "狼队Hero包揽周最佳",
@@ -7259,14 +7291,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 202126,
-      "num": 202126,
-      "word": "密子君说小强是自己红油里的",
-      "onboard_time": 1680855269,
-      "rank": 36,
-      "category": "网红"
-    },
-    {
       "raw_hot": 201842,
       "num": 201842,
       "word": "潮音乐嘉年华阵容",
@@ -7289,14 +7313,6 @@
       "onboard_time": 1680507389,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 201663,
-      "num": 201663,
-      "word": "合理请假是工作一部分",
-      "onboard_time": 1680854787,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 201600,
@@ -7699,14 +7715,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 194608,
-      "num": 191638,
-      "word": "刘亦菲井柏然新剧或将播出",
-      "onboard_time": 1680855566,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 194593,
       "num": 194593,
       "word": "蔡徐坤海边随拍",
@@ -7761,6 +7769,14 @@
       "onboard_time": 1680584012,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193673,
+      "num": 193673,
+      "word": "天蝎座的冷酷其实都是装的",
+      "onboard_time": 1680856108,
+      "rank": 38,
+      "category": "情感,网红"
     },
     {
       "raw_hot": 193536,
@@ -7945,6 +7961,14 @@
       "onboard_time": 1680614493,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 191146,
+      "num": 191146,
+      "word": "BoysPlanet第三次顺位发表",
+      "onboard_time": 1680856227,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 190967,
@@ -10811,6 +10835,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 62585,
+      "num": 167167,
+      "word": "鸳鸯债广播剧化",
+      "onboard_time": 1680853169,
+      "rank": 49,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 61832,
       "num": 61832,
       "word": "100秒梳理张继科事件",
@@ -10825,14 +10857,6 @@
       "onboard_time": 1680592529,
       "rank": 49,
       "category": "旅游,教育"
-    },
-    {
-      "raw_hot": 60116,
-      "num": 167167,
-      "word": "鸳鸯债广播剧化",
-      "onboard_time": 1680853169,
-      "rank": 49,
-      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 59983,
@@ -10891,6 +10915,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 48021,
+      "num": 193535,
+      "word": "为什么一到换季就鼻炎",
+      "onboard_time": 1680854427,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 46509,
       "num": 46509,
       "word": "张馨予晒夜骑随拍",
@@ -10945,14 +10977,6 @@
       "onboard_time": 1680794430,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 31922,
-      "num": 193313,
-      "word": "为什么一到换季就鼻炎",
-      "onboard_time": 1680854427,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 30306,
