@@ -1,6 +1,6 @@
 {
   "startTime": 1680798149468,
-  "endTime": 1680878018393,
+  "endTime": 1680880630677,
   "band_list": [
     {
       "raw_hot": 7516988,
@@ -91,6 +91,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 2188997,
+      "num": 2188997,
+      "word": "中法联合声明全文",
+      "onboard_time": 1680875611,
+      "rank": 5,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 2054698,
       "num": 475236,
       "word": "女子被父母强制考公5年患精神分裂",
@@ -105,14 +113,6 @@
       "onboard_time": 1680866729,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1896795,
-      "num": 1896795,
-      "word": "中法联合声明全文",
-      "onboard_time": 1680875611,
-      "rank": 5,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 1883278,
@@ -331,6 +331,22 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 964020,
+      "num": 592378,
+      "word": "和马 米卡",
+      "onboard_time": 1680877170,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 956578,
+      "num": 956578,
+      "word": "黑莲花男主",
+      "onboard_time": 1680879512,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 920886,
       "num": 920886,
       "word": "刘亦菲井柏然新剧或将播出",
@@ -531,14 +547,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 654144,
-      "num": 592378,
-      "word": "和马 米卡",
-      "onboard_time": 1680877170,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 650836,
       "num": 650836,
       "word": "花千骨作者也在追长月烬明",
@@ -577,6 +585,14 @@
       "onboard_time": 1680835166,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 627764,
+      "num": 505860,
+      "word": "张雨绮手机壳 智者不入爱河",
+      "onboard_time": 1680878671,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 626406,
@@ -699,6 +715,14 @@
       "category": "情感,教育"
     },
     {
+      "raw_hot": 514224,
+      "num": 514224,
+      "word": "安徽大学回应男老师让女生穿短裙跳操",
+      "onboard_time": 1680878793,
+      "rank": 9,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 510842,
       "num": 510842,
       "word": "特斯拉员工被曝分享车主隐私画面",
@@ -728,6 +752,14 @@
       "word": "澹台烬才是真公主吧",
       "onboard_time": 1680843692,
       "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 486460,
+      "num": 486460,
+      "word": "长月烬明",
+      "onboard_time": 1680826829,
+      "rank": 19,
       "category": "影视"
     },
     {
@@ -763,19 +795,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 463435,
+      "num": 463435,
+      "word": "杨紫告别黄瀛子",
+      "onboard_time": 1680878012,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 461734,
       "num": 461734,
       "word": "长月烬明配音对不上口型",
       "onboard_time": 1680779250,
       "rank": 7,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 459390,
-      "num": 459390,
-      "word": "长月烬明",
-      "onboard_time": 1680826829,
-      "rank": 19,
       "category": "影视"
     },
     {
@@ -793,6 +825,14 @@
       "onboard_time": 1680871528,
       "rank": 42,
       "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 454625,
+      "num": 454625,
+      "word": "离职后该怎样退出工作群",
+      "onboard_time": 1680874771,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 451470,
@@ -963,6 +1003,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 357433,
+      "num": 357433,
+      "word": "王安宇欢4这一季没下过床吧",
+      "onboard_time": 1680878130,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 356537,
       "num": 356537,
       "word": "孟羽童曾称对直播不特别感兴趣",
@@ -1001,6 +1049,14 @@
       "onboard_time": 1680841653,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 348910,
+      "num": 301389,
+      "word": "EXO出道11周年",
+      "onboard_time": 1680878551,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 342347,
@@ -1065,6 +1121,14 @@
       "onboard_time": 1680841172,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 327735,
+      "num": 300606,
+      "word": "马小跳妈妈成了宋三川丈母娘",
+      "onboard_time": 1680879397,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 327125,
@@ -1195,6 +1259,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 303206,
+      "num": 245353,
+      "word": "李沁说活得漂亮比生得漂亮更重要",
+      "onboard_time": 1680877892,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 302959,
       "num": 302959,
       "word": "五哈3在漠河舞厅杀青",
@@ -1217,6 +1289,14 @@
       "onboard_time": 1680852928,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 298173,
+      "num": 298173,
+      "word": "中方专家抵美探访美香一家",
+      "onboard_time": 1680876991,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 294625,
@@ -1257,6 +1337,14 @@
       "onboard_time": 1680827911,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 291194,
+      "num": 245174,
+      "word": "邢菲黑色露腰长裙",
+      "onboard_time": 1680877471,
+      "rank": 27,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 290886,
@@ -1387,14 +1475,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 262862,
-      "num": 262862,
-      "word": "离职后该怎样退出工作群",
-      "onboard_time": 1680874771,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 260054,
       "num": 260054,
       "word": "五月天北京演唱会",
@@ -1497,6 +1577,22 @@
       "onboard_time": 1680837869,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 245899,
+      "num": 245899,
+      "word": "才知道充电宝可以暂停计费",
+      "onboard_time": 1680878971,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 244780,
+      "num": 244780,
+      "word": "蓝基因崩了",
+      "onboard_time": 1680879330,
+      "rank": 28,
+      "category": "科技"
     },
     {
       "raw_hot": 244445,
@@ -1649,6 +1745,22 @@
       "onboard_time": 1680849568,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 230481,
+      "num": 201234,
+      "word": "华晨宇演唱会舞美",
+      "onboard_time": 1680878793,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 228717,
+      "num": 200763,
+      "word": "韩素希 OMEGA",
+      "onboard_time": 1680880292,
+      "rank": 36,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 228268,
@@ -1931,14 +2043,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 201083,
-      "num": 201083,
-      "word": "邢菲黑色露腰长裙",
-      "onboard_time": 1680877471,
-      "rank": 27,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 201005,
       "num": 201005,
       "word": "两个神秘黑洞在地球后院被发现",
@@ -2179,6 +2283,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 191649,
+      "num": 152373,
+      "word": "罗云熙问破万发什么福利",
+      "onboard_time": 1680879931,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 191146,
       "num": 191146,
       "word": "BoysPlanet第三次顺位发表",
@@ -2241,14 +2353,6 @@
       "onboard_time": 1680877411,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 187970,
-      "num": 187970,
-      "word": "中方专家抵美探访美香一家",
-      "onboard_time": 1680876991,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 186283,
@@ -2571,6 +2675,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 153764,
+      "num": 153764,
+      "word": "广州松园",
+      "onboard_time": 1680879813,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153723,
       "num": 171813,
       "word": "KPL",
@@ -2673,14 +2785,6 @@
       "onboard_time": 1680874354,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 138101,
-      "num": 138101,
-      "word": "李沁说活得漂亮比生得漂亮更重要",
-      "onboard_time": 1680877892,
-      "rank": 46,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 137890,
@@ -2843,6 +2947,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 106713,
+      "num": 147834,
+      "word": "离职是主动辞职好还是被辞退好",
+      "onboard_time": 1680880590,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 106556,
       "num": 106556,
       "word": "嘴大 冯晓桐",
@@ -2963,7 +3075,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 21624,
+      "raw_hot": 26119,
       "num": 1967170,
       "word": "开局之年共奋进",
       "onboard_time": 1680876452,
@@ -2997,6 +3109,9 @@
     },
     {
       "word": "#凝心铸魂向复兴#"
+    },
+    {
+      "word": "#加快数字中国建设#"
     }
   ]
 }
