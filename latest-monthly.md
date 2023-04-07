@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/04/01 00:21:42 ~ 2023/04/08 00:38:05
+本榜单时间：2023/04/01 00:21:42 ~ 2023/04/08 01:14:58
 </p>
 </blockquote>
 <p>
@@ -5925,6 +5925,12 @@ WE春季赛淘汰（热度：263884）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%B0%E4%BA%86%E5%90%83%E7%81%B0%E7%9A%84%E7%BD%91%E7%BA%A2%E5%B0%8F%E5%AE%B6%E7%94%B5%23" target="weibo">
+买了吃灰的网红小家电（热度：258775）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%232023%E5%9B%BD%E9%99%85%E4%B9%92%E8%81%94%E7%AC%AC14%E5%91%A8%E6%8E%92%E5%90%8D%23" target="weibo">
 2023国际乒联第14周排名（热度：258586）
 </a>
@@ -6005,12 +6011,6 @@ IU的palette（热度：256371）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%80%E4%B9%88%E7%B2%BE%E7%A5%9E%E7%8A%B6%E6%80%81%E8%AE%BE%E8%AE%A1%E5%87%BA%E8%BF%99%E8%8C%B6%E6%BC%8F%23" target="weibo">
 什么精神状态设计出这茶漏（热度：255882）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%97%E4%BA%91%E7%86%99%E7%99%BD%E9%B9%BF%E9%95%BF%E6%9C%88%E7%83%AC%E6%98%8E%E5%A6%86%E9%80%A0%23" target="weibo">
-罗云熙白鹿长月烬明妆造（热度：255843）
 </a>
 </li>
 
