@@ -1,6 +1,6 @@
 {
   "startTime": 1680884526258,
-  "endTime": 1680909363656,
+  "endTime": 1680910402949,
   "band_list": [
     {
       "raw_hot": 1761181,
@@ -19,8 +19,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1050581,
-      "num": 1050581,
+      "raw_hot": 1053870,
+      "num": 1053870,
       "word": "陈某龙故意散布谣言被依法行拘",
       "onboard_time": 1680872427,
       "rank": 3,
@@ -211,6 +211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 189254,
+      "num": 186750,
+      "word": "马克龙参访中山大学",
+      "onboard_time": 1680910341,
+      "rank": 11,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 189245,
       "num": 172699,
       "word": "逼疯苏醒只要一首山歌",
@@ -227,12 +235,36 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 187408,
+      "num": 187408,
+      "word": "中船获法国超210亿元订单",
+      "onboard_time": 1680892633,
+      "rank": 16,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 185759,
+      "num": 185759,
+      "word": "张嘉倪怼脸哭戏",
+      "onboard_time": 1680909619,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 182470,
       "num": 182470,
       "word": "离职后该怎样退出工作群",
       "onboard_time": 1680874771,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 175417,
+      "num": 85262,
+      "word": "冲绳那霸机场 两只石狮子",
+      "onboard_time": 1680908537,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 172450,
@@ -257,14 +289,6 @@
       "onboard_time": 1680883049,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 168148,
-      "num": 168148,
-      "word": "中船获法国超210亿元订单",
-      "onboard_time": 1680892633,
-      "rank": 16,
-      "category": "财经"
     },
     {
       "raw_hot": 165418,
@@ -387,6 +411,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 104080,
+      "num": 104080,
+      "word": "EXO出道十一周年",
+      "onboard_time": 1680910099,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 103988,
+      "num": 103988,
+      "word": "丰县八孩案件庭审画面",
+      "onboard_time": 1680874111,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 103359,
       "num": 96926,
       "word": "闵玧其solo",
@@ -395,12 +435,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 100907,
-      "num": 100907,
-      "word": "丰县八孩案件庭审画面",
-      "onboard_time": 1680874111,
-      "rank": 46,
-      "category": "社会新闻"
+      "raw_hot": 98690,
+      "num": 98690,
+      "word": "黑莲花攻略手册",
+      "onboard_time": 1680910039,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 95528,
+      "num": 85029,
+      "word": "AI自主学习让吴京刘德华重返20岁",
+      "onboard_time": 1680909859,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 93976,
@@ -411,6 +459,30 @@
       "category": "科技"
     },
     {
+      "raw_hot": 89285,
+      "num": 83268,
+      "word": "山东推出399元高铁环游套票",
+      "onboard_time": 1680909798,
+      "rank": 34,
+      "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 86119,
+      "num": 86119,
+      "word": "陈若轩山河之影配音花絮",
+      "onboard_time": 1680909798,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 73646,
+      "num": 73646,
+      "word": "模范出租车",
+      "onboard_time": 1680910039,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 72577,
       "num": 91861,
       "word": "马克龙用普通话和粤语说大家好",
@@ -419,12 +491,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 71834,
-      "num": 71834,
-      "word": "冲绳那霸机场 两只石狮子",
-      "onboard_time": 1680908537,
-      "rank": 31,
-      "category": "幽默"
+      "raw_hot": 71010,
+      "num": 71010,
+      "word": "国产剧疯批人设天花板",
+      "onboard_time": 1680866548,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 64523,
@@ -435,16 +507,8 @@
       "category": "科技"
     },
     {
-      "raw_hot": 62843,
-      "num": 62843,
-      "word": "国产剧疯批人设天花板",
-      "onboard_time": 1680866548,
-      "rank": 34,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 56067,
-      "num": 56067,
+      "raw_hot": 62324,
+      "num": 62324,
       "word": "陈都灵演技",
       "onboard_time": 1680863370,
       "rank": 39,

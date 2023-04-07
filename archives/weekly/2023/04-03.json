@@ -1,6 +1,6 @@
 {
   "startTime": 1680452464197,
-  "endTime": 1680909363656,
+  "endTime": 1680910402949,
   "band_list": [
     {
       "raw_hot": 9506486,
@@ -8971,6 +8971,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 189254,
+      "num": 186750,
+      "word": "马克龙参访中山大学",
+      "onboard_time": 1680910341,
+      "rank": 11,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 189252,
       "num": 189252,
       "word": "苏醒说最后一攻为什么不给欧文呢",
@@ -9081,6 +9089,14 @@
       "onboard_time": 1680704732,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 187408,
+      "num": 187408,
+      "word": "中船获法国超210亿元订单",
+      "onboard_time": 1680892633,
+      "rank": 16,
+      "category": "财经"
     },
     {
       "raw_hot": 187282,
@@ -9216,6 +9232,14 @@
       "word": "赵露思打卡杀青应援花墙",
       "onboard_time": 1680852570,
       "rank": 37,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 185759,
+      "num": 185759,
+      "word": "张嘉倪怼脸哭戏",
+      "onboard_time": 1680909619,
+      "rank": 12,
       "category": "影视"
     },
     {
@@ -9603,6 +9627,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 175417,
+      "num": 85262,
+      "word": "冲绳那霸机场 两只石狮子",
+      "onboard_time": 1680908537,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 175321,
       "num": 175321,
       "word": "梁友安长发",
@@ -9929,14 +9961,6 @@
       "onboard_time": 1680865349,
       "rank": 45,
       "category": "情感,社会新闻"
-    },
-    {
-      "raw_hot": 168148,
-      "num": 168148,
-      "word": "中船获法国超210亿元订单",
-      "onboard_time": 1680892633,
-      "rank": 16,
-      "category": "财经"
     },
     {
       "raw_hot": 168083,
@@ -11587,6 +11611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 104080,
+      "num": 104080,
+      "word": "EXO出道十一周年",
+      "onboard_time": 1680910099,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 103359,
       "num": 96926,
       "word": "闵玧其solo",
@@ -11675,6 +11707,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 98690,
+      "num": 98690,
+      "word": "黑莲花攻略手册",
+      "onboard_time": 1680910039,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 98616,
       "num": 98616,
       "word": "突然就想换个专业读了",
@@ -11705,6 +11745,14 @@
       "onboard_time": 1680655709,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 95528,
+      "num": 85029,
+      "word": "AI自主学习让吴京刘德华重返20岁",
+      "onboard_time": 1680909859,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 94925,
@@ -11779,6 +11827,22 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 89285,
+      "num": 83268,
+      "word": "山东推出399元高铁环游套票",
+      "onboard_time": 1680909798,
+      "rank": 34,
+      "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 86119,
+      "num": 86119,
+      "word": "陈若轩山河之影配音花絮",
+      "onboard_time": 1680909798,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 84717,
       "num": 1870534,
       "word": "让春风带去我们的思念",
@@ -11835,12 +11899,12 @@
       "category": "游戏,美食"
     },
     {
-      "raw_hot": 71834,
-      "num": 71834,
-      "word": "冲绳那霸机场 两只石狮子",
-      "onboard_time": 1680908537,
-      "rank": 31,
-      "category": "幽默"
+      "raw_hot": 73646,
+      "num": 73646,
+      "word": "模范出租车",
+      "onboard_time": 1680910039,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 70190,
