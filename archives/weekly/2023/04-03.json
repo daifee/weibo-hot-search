@@ -1,6 +1,6 @@
 {
   "startTime": 1680452464197,
-  "endTime": 1680837481937,
+  "endTime": 1680838419924,
   "band_list": [
     {
       "raw_hot": 9506486,
@@ -539,6 +539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1883278,
+      "num": 1883278,
+      "word": "张元英姐姐出道",
+      "onboard_time": 1680834566,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1869711,
       "num": 1869711,
       "word": "曝颖儿代言某家居品牌爆雷",
@@ -552,14 +560,6 @@
       "word": "张佳宁点痣了",
       "onboard_time": 1680609390,
       "rank": 20,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1854027,
-      "num": 1854027,
-      "word": "张元英姐姐出道",
-      "onboard_time": 1680834566,
-      "rank": 17,
       "category": "艺人"
     },
     {
@@ -707,6 +707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1563770,
+      "num": 506571,
+      "word": "印度12名男子将妇人斩首献祭",
+      "onboard_time": 1680835166,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1556798,
       "num": 641778,
       "word": "崔始源肿么了",
@@ -747,12 +755,12 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 1504093,
-      "num": 506571,
-      "word": "印度12名男子将妇人斩首献祭",
-      "onboard_time": 1680835166,
-      "rank": 34,
-      "category": "社会新闻"
+      "raw_hot": 1537458,
+      "num": 1537458,
+      "word": "腾讯视频和抖音集团达成合作",
+      "onboard_time": 1680836186,
+      "rank": 1,
+      "category": "科技"
     },
     {
       "raw_hot": 1498158,
@@ -1699,6 +1707,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 759320,
+      "num": 759320,
+      "word": "宋仲基没有提名百想视帝",
+      "onboard_time": 1680836549,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 757773,
       "num": 757773,
       "word": "养父母抱养25年后起诉养子补偿",
@@ -2283,6 +2299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 605712,
+      "num": 605712,
+      "word": "法官怎么能忍住不笑的",
+      "onboard_time": 1680835166,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 602920,
       "num": 455411,
       "word": "知情人称怼领导者为德阳某公司员工",
@@ -2305,6 +2329,14 @@
       "onboard_time": 1680696752,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 597755,
+      "num": 461581,
+      "word": "孙海洋女儿呼吁取消拐骗罪",
+      "onboard_time": 1680837268,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 597334,
@@ -2419,6 +2451,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 570887,
+      "num": 570887,
+      "word": "欢乐颂4今晚开播",
+      "onboard_time": 1680836486,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 568517,
       "num": 568517,
       "word": "特朗普一旦定罪或被判4年",
@@ -2529,14 +2569,6 @@
       "onboard_time": 1680753027,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 545047,
-      "num": 545047,
-      "word": "宋仲基没有提名百想视帝",
-      "onboard_time": 1680836549,
-      "rank": 6,
-      "category": "影视"
     },
     {
       "raw_hot": 543403,
@@ -3163,6 +3195,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 445254,
+      "num": 445254,
+      "word": "张新成孙千这么多年提档",
+      "onboard_time": 1680837204,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 445044,
       "num": 445044,
       "word": "鹅鸭杀",
@@ -3233,14 +3273,6 @@
       "onboard_time": 1680709230,
       "rank": 7,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 436592,
-      "num": 436592,
-      "word": "法官怎么能忍住不笑的",
-      "onboard_time": 1680835166,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 435945,
@@ -3715,6 +3747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 384022,
+      "num": 384022,
+      "word": "白鹿吻戏",
+      "onboard_time": 1680836309,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 383911,
       "num": 383911,
       "word": "秋瓷炫跳的gee",
@@ -3736,14 +3776,6 @@
       "word": "今天开播三部新剧",
       "onboard_time": 1680753990,
       "rank": 39,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 380014,
-      "num": 335206,
-      "word": "白鹿吻戏",
-      "onboard_time": 1680836309,
-      "rank": 19,
       "category": "影视"
     },
     {
@@ -3873,14 +3905,6 @@
       "onboard_time": 1680707794,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 360630,
-      "num": 360630,
-      "word": "欢乐颂4今晚开播",
-      "onboard_time": 1680836486,
-      "rank": 16,
-      "category": "影视"
     },
     {
       "raw_hot": 359919,
@@ -4129,6 +4153,14 @@
       "onboard_time": 1680580953,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 339076,
+      "num": 339076,
+      "word": "张多雅",
+      "onboard_time": 1680836606,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 338595,
@@ -4401,6 +4433,14 @@
       "onboard_time": 1680691830,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 307217,
+      "num": 307217,
+      "word": "考公的压力有多大",
+      "onboard_time": 1680836845,
+      "rank": 30,
+      "category": "情感,教育"
     },
     {
       "raw_hot": 305906,
@@ -5115,14 +5155,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 258115,
-      "num": 258115,
-      "word": "张多雅",
-      "onboard_time": 1680836606,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 257943,
       "num": 257943,
       "word": "LPL春季赛四强确定",
@@ -5297,6 +5329,14 @@
       "onboard_time": 1680768691,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 247776,
+      "num": 247776,
+      "word": "小鬼说小鬼和王琳凯已就位",
+      "onboard_time": 1680836125,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 247640,
@@ -5787,6 +5827,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 220694,
+      "num": 220694,
+      "word": "警方通报男子行凶致4死后自服农药",
+      "onboard_time": 1680837869,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 220152,
       "num": 213189,
       "word": "张钧甯阮经天合照",
@@ -5947,6 +5995,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 214772,
+      "num": 214772,
+      "word": "kpopSolo歌手历代初动排名",
+      "onboard_time": 1680836006,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 214221,
       "num": 214221,
       "word": "洪世贤感觉又要被艾莉抢走",
@@ -5993,14 +6049,6 @@
       "onboard_time": 1680693512,
       "rank": 32,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 213223,
-      "num": 213223,
-      "word": "考公的压力有多大",
-      "onboard_time": 1680836845,
-      "rank": 30,
-      "category": "情感,教育"
     },
     {
       "raw_hot": 213173,
@@ -6203,20 +6251,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 208244,
-      "num": 208244,
-      "word": "kpopSolo歌手历代初动排名",
-      "onboard_time": 1680836006,
-      "rank": 32,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 208106,
       "num": 208106,
       "word": "笑影周瑜MVP",
       "onboard_time": 1680707312,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 207881,
+      "num": 207881,
+      "word": "龙马精神",
+      "onboard_time": 1680837928,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 207595,
@@ -6255,6 +6303,14 @@
       "num": 207178,
       "word": "长月烬明十二神群像海报",
       "onboard_time": 1680685889,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 207086,
+      "num": 207086,
+      "word": "上官透时期的罗云熙",
+      "onboard_time": 1680837509,
       "rank": 35,
       "category": "影视"
     },
@@ -6787,6 +6843,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 199502,
+      "num": 199502,
+      "word": "陈志龙",
+      "onboard_time": 1680838160,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 199383,
       "num": 199383,
       "word": "范丞丞脸颊比心",
@@ -6859,12 +6923,12 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 198556,
-      "num": 198556,
-      "word": "张新成孙千这么多年提档",
-      "onboard_time": 1680837204,
-      "rank": 36,
-      "category": "影视"
+      "raw_hot": 198524,
+      "num": 198524,
+      "word": "李现怼脸动图",
+      "onboard_time": 1680838107,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 198276,
@@ -7075,6 +7139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193536,
+      "num": 193536,
+      "word": "丁程鑫新歌的音色",
+      "onboard_time": 1680837685,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 193347,
       "num": 193347,
       "word": "长月烬明预约破400万",
@@ -7240,6 +7312,14 @@
       "word": "北影节官宣青年宣传推广大使吴磊",
       "onboard_time": 1680591688,
       "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 190952,
+      "num": 190952,
+      "word": "长月烬明悲剧含量",
+      "onboard_time": 1680837747,
+      "rank": 39,
       "category": "影视"
     },
     {
@@ -7675,14 +7755,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 182906,
-      "num": 182906,
-      "word": "小鬼说小鬼和王琳凯已就位",
-      "onboard_time": 1680836125,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 182865,
       "num": 182865,
       "word": "人生路不熟马丽角色预告",
@@ -7803,20 +7875,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 180010,
-      "num": 180010,
-      "word": "孙海洋女儿呼吁取消拐骗罪",
-      "onboard_time": 1680837268,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 179904,
       "num": 179904,
       "word": "特朗普面临34项重罪指控",
       "onboard_time": 1680660092,
       "rank": 33,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 179610,
+      "num": 179610,
+      "word": "长期不上班的人是什么状态",
+      "onboard_time": 1680838048,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 179530,
@@ -8193,6 +8265,14 @@
       "onboard_time": 1680597091,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 166115,
+      "num": 166115,
+      "word": "王源健身vlog",
+      "onboard_time": 1680838349,
+      "rank": 46,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 165959,
@@ -9257,6 +9337,14 @@
       "onboard_time": 1680620733,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 129089,
+      "num": 150018,
+      "word": "轻食版下午茶",
+      "onboard_time": 1680838107,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 128400,

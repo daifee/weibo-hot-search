@@ -1,0 +1,410 @@
+{
+  "runTime": 1680838419924,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1883278,
+        "num": 1883278,
+        "word": "张元英姐姐出道",
+        "onboard_time": 1680834566,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1537458,
+        "num": 1537458,
+        "word": "腾讯视频和抖音集团达成合作",
+        "onboard_time": 1680836186,
+        "rank": 1,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 11501,
+        "num": 797041,
+        "word": "卫星视角下的祖国大地春意盎然",
+        "onboard_time": 1680752308,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 759320,
+        "num": 759320,
+        "word": "宋仲基没有提名百想视帝",
+        "onboard_time": 1680836549,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 605712,
+        "num": 605712,
+        "word": "法官怎么能忍住不笑的",
+        "onboard_time": 1680835166,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 570887,
+        "num": 570887,
+        "word": "欢乐颂4今晚开播",
+        "onboard_time": 1680836486,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 563947,
+        "num": 563947,
+        "word": "中国电科下属单位已就网传不实信息报案",
+        "onboard_time": 1680822739,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 489339,
+        "num": 489339,
+        "word": "彭小苒曾演过西北女孩",
+        "onboard_time": 1680835825,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 487592,
+        "num": 487592,
+        "word": "代号鸢",
+        "onboard_time": 1680792692,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 473805,
+        "num": 473805,
+        "word": "宋慧乔入围百想艺术大赏视后",
+        "onboard_time": 1680831866,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1563770,
+        "num": 466824,
+        "word": "印度12名男子将妇人斩首献祭",
+        "onboard_time": 1680835166,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 597755,
+        "num": 461581,
+        "word": "孙海洋女儿呼吁取消拐骗罪",
+        "onboard_time": 1680837268,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 568821,
+        "num": 456160,
+        "word": "杭州阿里巴巴由122亿减资至1亿",
+        "onboard_time": 1680824787,
+        "rank": 12,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 518157,
+        "num": 446875,
+        "word": "女子被父母强制考公5年患精神分裂",
+        "onboard_time": 1680822560,
+        "rank": 13,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 445254,
+        "num": 445254,
+        "word": "张新成孙千这么多年提档",
+        "onboard_time": 1680837204,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 415288,
+        "num": 415288,
+        "word": "你会选择考公吗",
+        "onboard_time": 1680833187,
+        "rank": 15,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 390237,
+        "num": 390237,
+        "word": "丫丫租借合同到期",
+        "onboard_time": 1680829709,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384022,
+        "num": 384022,
+        "word": "白鹿吻戏",
+        "onboard_time": 1680836309,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 360488,
+        "num": 360488,
+        "word": "起床后为何不该立马叠被子",
+        "onboard_time": 1680824787,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 343490,
+        "num": 343490,
+        "word": "张碧晨毛不易合作新歌黑月光",
+        "onboard_time": 1680836064,
+        "rank": 19,
+        "category": "影视,音乐"
+      },
+      {
+        "raw_hot": 911260,
+        "num": 342569,
+        "word": "张继科事件为何愈演愈烈",
+        "onboard_time": 1680824849,
+        "rank": 20,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 578677,
+        "num": 340950,
+        "word": "网友曝在赫莲娜做护理致脸部烧伤",
+        "onboard_time": 1680829350,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339076,
+        "num": 339076,
+        "word": "张多雅",
+        "onboard_time": 1680836606,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 309167,
+        "num": 309167,
+        "word": "长月烬明云合首日播放量",
+        "onboard_time": 1680832108,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 307217,
+        "num": 307217,
+        "word": "考公的压力有多大",
+        "onboard_time": 1680836845,
+        "rank": 24,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 269615,
+        "num": 269615,
+        "word": "长月烬明血鸦宴",
+        "onboard_time": 1680832646,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 259599,
+        "num": 259599,
+        "word": "马克龙",
+        "onboard_time": 1680826412,
+        "rank": 26,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 247776,
+        "num": 247776,
+        "word": "小鬼说小鬼和王琳凯已就位",
+        "onboard_time": 1680836125,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233432,
+        "num": 233432,
+        "word": "江西吉安一男孩幼儿园内死亡",
+        "onboard_time": 1680825809,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230403,
+        "num": 230403,
+        "word": "孟菲斯动物园将为丫丫举办告别派对",
+        "onboard_time": 1680826829,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221472,
+        "num": 221472,
+        "word": "王鹤棣结束桃花坞录制",
+        "onboard_time": 1680832466,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220694,
+        "num": 220694,
+        "word": "警方通报男子行凶致4死后自服农药",
+        "onboard_time": 1680837869,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215102,
+        "num": 215102,
+        "word": "BLACKPINK科切拉表演曲目",
+        "onboard_time": 1680830664,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 214772,
+        "num": 214772,
+        "word": "kpopSolo歌手历代初动排名",
+        "onboard_time": 1680836006,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 207881,
+        "num": 207881,
+        "word": "龙马精神",
+        "onboard_time": 1680837928,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207086,
+        "num": 207086,
+        "word": "上官透时期的罗云熙",
+        "onboard_time": 1680837509,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199502,
+        "num": 199502,
+        "word": "陈志龙",
+        "onboard_time": 1680838160,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198524,
+        "num": 198524,
+        "word": "李现怼脸动图",
+        "onboard_time": 1680838107,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193536,
+        "num": 193536,
+        "word": "丁程鑫新歌的音色",
+        "onboard_time": 1680837685,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 190952,
+        "num": 190952,
+        "word": "长月烬明悲剧含量",
+        "onboard_time": 1680837747,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189320,
+        "num": 189320,
+        "word": "知情人称怼领导者为德阳某公司员工",
+        "onboard_time": 1680825389,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189148,
+        "num": 189148,
+        "word": "极限挑战剪影阵容猜测",
+        "onboard_time": 1680835347,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188152,
+        "num": 188152,
+        "word": "小狗不要面子的吗",
+        "onboard_time": 1680834147,
+        "rank": 42,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 184852,
+        "num": 184852,
+        "word": "马克龙访华",
+        "onboard_time": 1680826352,
+        "rank": 43,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 179610,
+        "num": 179610,
+        "word": "长期不上班的人是什么状态",
+        "onboard_time": 1680838048,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 167982,
+        "num": 167982,
+        "word": "孟菲斯邀请社会各界祝丫丫一路平安",
+        "onboard_time": 1680837027,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166115,
+        "num": 166115,
+        "word": "王源健身vlog",
+        "onboard_time": 1680838349,
+        "rank": 46,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 155211,
+        "num": 155211,
+        "word": "五月天鸟巢演唱会连开六场",
+        "onboard_time": 1680799762,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 129089,
+        "num": 150018,
+        "word": "轻食版下午茶",
+        "onboard_time": 1680838107,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 119500,
+        "num": 147122,
+        "word": "菠萝为啥要用盐水泡一下再吃",
+        "onboard_time": 1680830129,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#中法元首会谈承载怎样的期待#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1680798149468,
-  "endTime": 1680837481937,
+  "endTime": 1680838419924,
   "band_list": [
     {
       "raw_hot": 2432368,
@@ -19,20 +19,28 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 1854027,
-      "num": 1854027,
+      "raw_hot": 1883278,
+      "num": 1883278,
       "word": "张元英姐姐出道",
       "onboard_time": 1680834566,
       "rank": 17,
       "category": "艺人"
     },
     {
-      "raw_hot": 1504093,
+      "raw_hot": 1563770,
       "num": 506571,
       "word": "印度12名男子将妇人斩首献祭",
       "onboard_time": 1680835166,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1537458,
+      "num": 1537458,
+      "word": "腾讯视频和抖音集团达成合作",
+      "onboard_time": 1680836186,
+      "rank": 1,
+      "category": "科技"
     },
     {
       "raw_hot": 1304633,
@@ -123,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 759320,
+      "num": 759320,
+      "word": "宋仲基没有提名百想视帝",
+      "onboard_time": 1680836549,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 748812,
       "num": 748812,
       "word": "顶着周雨彤头像骂周雨彤",
@@ -163,11 +179,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 605712,
+      "num": 605712,
+      "word": "法官怎么能忍住不笑的",
+      "onboard_time": 1680835166,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 602920,
       "num": 455411,
       "word": "知情人称怼领导者为德阳某公司员工",
       "onboard_time": 1680825389,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 597755,
+      "num": 461581,
+      "word": "孙海洋女儿呼吁取消拐骗罪",
+      "onboard_time": 1680837268,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -177,6 +209,14 @@
       "onboard_time": 1680784351,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 570887,
+      "num": 570887,
+      "word": "欢乐颂4今晚开播",
+      "onboard_time": 1680836486,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 561000,
@@ -193,14 +233,6 @@
       "onboard_time": 1680829709,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 545047,
-      "num": 545047,
-      "word": "宋仲基没有提名百想视帝",
-      "onboard_time": 1680836549,
-      "rank": 6,
-      "category": "影视"
     },
     {
       "raw_hot": 528233,
@@ -259,12 +291,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 436592,
-      "num": 436592,
-      "word": "法官怎么能忍住不笑的",
-      "onboard_time": 1680835166,
-      "rank": 33,
-      "category": "幽默"
+      "raw_hot": 445254,
+      "num": 445254,
+      "word": "张新成孙千这么多年提档",
+      "onboard_time": 1680837204,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 420312,
@@ -307,28 +339,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 381757,
-      "num": 237928,
-      "word": "痛经的人有福了",
-      "onboard_time": 1680781528,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 380014,
-      "num": 335206,
+      "raw_hot": 384022,
+      "num": 384022,
       "word": "白鹿吻戏",
       "onboard_time": 1680836309,
       "rank": 19,
       "category": "影视"
     },
     {
-      "raw_hot": 360630,
-      "num": 360630,
-      "word": "欢乐颂4今晚开播",
-      "onboard_time": 1680836486,
-      "rank": 16,
-      "category": "影视"
+      "raw_hot": 381757,
+      "num": 237928,
+      "word": "痛经的人有福了",
+      "onboard_time": 1680781528,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 359673,
@@ -345,6 +369,14 @@
       "onboard_time": 1680832646,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 339076,
+      "num": 339076,
+      "word": "张多雅",
+      "onboard_time": 1680836606,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 335360,
@@ -409,6 +441,14 @@
       "onboard_time": 1680791193,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 307217,
+      "num": 307217,
+      "word": "考公的压力有多大",
+      "onboard_time": 1680836845,
+      "rank": 30,
+      "category": "情感,教育"
     },
     {
       "raw_hot": 305830,
@@ -491,14 +531,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 258115,
-      "num": 258115,
-      "word": "张多雅",
-      "onboard_time": 1680836606,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 257836,
       "num": 257836,
       "word": "重庆姐弟坠亡案",
@@ -521,6 +553,14 @@
       "onboard_time": 1680822922,
       "rank": 37,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 247776,
+      "num": 247776,
+      "word": "小鬼说小鬼和王琳凯已就位",
+      "onboard_time": 1680836125,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 244405,
@@ -555,6 +595,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 220694,
+      "num": 220694,
+      "word": "警方通报男子行凶致4死后自服农药",
+      "onboard_time": 1680837869,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 217012,
       "num": 217012,
       "word": "85花早期古装剧无滤镜剧照",
@@ -563,20 +611,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 214772,
+      "num": 214772,
+      "word": "kpopSolo歌手历代初动排名",
+      "onboard_time": 1680836006,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 213824,
       "num": 213824,
       "word": "园方回应男童在幼儿园内死亡",
       "onboard_time": 1680830848,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 213223,
-      "num": 213223,
-      "word": "考公的压力有多大",
-      "onboard_time": 1680836845,
-      "rank": 30,
-      "category": "情感,教育"
     },
     {
       "raw_hot": 212018,
@@ -595,12 +643,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 208244,
-      "num": 208244,
-      "word": "kpopSolo歌手历代初动排名",
-      "onboard_time": 1680836006,
-      "rank": 32,
-      "category": "音乐"
+      "raw_hot": 207881,
+      "num": 207881,
+      "word": "龙马精神",
+      "onboard_time": 1680837928,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 207595,
@@ -609,6 +657,14 @@
       "onboard_time": 1680836309,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207086,
+      "num": 207086,
+      "word": "上官透时期的罗云熙",
+      "onboard_time": 1680837509,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 205250,
@@ -651,6 +707,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 199502,
+      "num": 199502,
+      "word": "陈志龙",
+      "onboard_time": 1680838160,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 199241,
       "num": 199241,
       "word": "马克龙访华",
@@ -675,12 +739,12 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 198556,
-      "num": 198556,
-      "word": "张新成孙千这么多年提档",
-      "onboard_time": 1680837204,
-      "rank": 36,
-      "category": "影视"
+      "raw_hot": 198524,
+      "num": 198524,
+      "word": "李现怼脸动图",
+      "onboard_time": 1680838107,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 196846,
@@ -707,12 +771,28 @@
       "category": "影视,音乐"
     },
     {
+      "raw_hot": 193536,
+      "num": 193536,
+      "word": "丁程鑫新歌的音色",
+      "onboard_time": 1680837685,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 192811,
       "num": 192811,
       "word": "欧盟委员会主席访华",
       "onboard_time": 1680797243,
       "rank": 23,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 190952,
+      "num": 190952,
+      "word": "长月烬明悲剧含量",
+      "onboard_time": 1680837747,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 190463,
@@ -763,14 +843,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 182906,
-      "num": 182906,
-      "word": "小鬼说小鬼和王琳凯已就位",
-      "onboard_time": 1680836125,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 182826,
       "num": 182826,
       "word": "吴克群腹肌",
@@ -787,12 +859,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 180010,
-      "num": 180010,
-      "word": "孙海洋女儿呼吁取消拐骗罪",
-      "onboard_time": 1680837268,
-      "rank": 41,
-      "category": "社会新闻"
+      "raw_hot": 179610,
+      "num": 179610,
+      "word": "长期不上班的人是什么状态",
+      "onboard_time": 1680838048,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 177502,
@@ -849,6 +921,14 @@
       "onboard_time": 1680836186,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 166115,
+      "num": 166115,
+      "word": "王源健身vlog",
+      "onboard_time": 1680838349,
+      "rank": 46,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 162645,
@@ -961,6 +1041,14 @@
       "onboard_time": 1680825931,
       "rank": 38,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 129089,
+      "num": 150018,
+      "word": "轻食版下午茶",
+      "onboard_time": 1680838107,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 125590,
