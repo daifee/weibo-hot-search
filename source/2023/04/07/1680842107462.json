@@ -1,0 +1,410 @@
+{
+  "runTime": 1680842107462,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4721879,
+        "num": 5943759,
+        "word": "丰县八孩案一审宣判",
+        "onboard_time": 1680840993,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3110609,
+        "num": 3110609,
+        "word": "丰县八孩案5人犯拐卖妇女罪",
+        "onboard_time": 1680841054,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132925,
+        "num": 2755690,
+        "word": "神十五航天员在轨工作有多忙",
+        "onboard_time": 1680839249,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2544932,
+        "num": 2544932,
+        "word": "密子君 无骨鸡爪",
+        "onboard_time": 1680840150,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1422975,
+        "num": 1422975,
+        "word": "孙海洋女儿呼吁取消拐骗罪",
+        "onboard_time": 1680837268,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1347457,
+        "num": 1347457,
+        "word": "被渣男传播私密照片怎么办",
+        "onboard_time": 1680838949,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1240762,
+        "num": 1240762,
+        "word": "长期不上班的人是什么状态",
+        "onboard_time": 1680838048,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1151461,
+        "num": 1151461,
+        "word": "张元英姐姐出道",
+        "onboard_time": 1680834566,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1045372,
+        "num": 1045372,
+        "word": "腾讯视频和抖音集团达成合作",
+        "onboard_time": 1680836186,
+        "rank": 8,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 749403,
+        "num": 749403,
+        "word": "张波叶诚尘二审翻供",
+        "onboard_time": 1680839609,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2186079,
+        "num": 715331,
+        "word": "陈志龙",
+        "onboard_time": 1680838160,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1394646,
+        "num": 679772,
+        "word": "印度12名男子将妇人斩首献祭",
+        "onboard_time": 1680835166,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 578772,
+        "num": 578772,
+        "word": "法官怎么能忍住不笑的",
+        "onboard_time": 1680835166,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 559194,
+        "num": 559194,
+        "word": "韩国偶遇虞书欣逛街",
+        "onboard_time": 1680840150,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233035,
+        "num": 464996,
+        "word": "上海愚园路一夜变蓝",
+        "onboard_time": 1680840029,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 410919,
+        "num": 410919,
+        "word": "欢乐颂4今晚开播",
+        "onboard_time": 1680836486,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 433249,
+        "num": 405133,
+        "word": "宋仲基没有提名百想视帝",
+        "onboard_time": 1680836549,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 389773,
+        "num": 389773,
+        "word": "女子被父母强制考公5年患精神分裂",
+        "onboard_time": 1680822560,
+        "rank": 17,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 385264,
+        "num": 385264,
+        "word": "丫丫租借合同到期",
+        "onboard_time": 1680829709,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348964,
+        "num": 348964,
+        "word": "白鹿吻戏",
+        "onboard_time": 1680836309,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 484466,
+        "num": 347031,
+        "word": "张继科事件为何愈演愈烈",
+        "onboard_time": 1680824849,
+        "rank": 20,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 458879,
+        "num": 345866,
+        "word": "网友曝在赫莲娜做护理致脸部烧伤",
+        "onboard_time": 1680829350,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343089,
+        "num": 343089,
+        "word": "中国电科下属单位已就网传不实信息报案",
+        "onboard_time": 1680822739,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337358,
+        "num": 337358,
+        "word": "起床后为何不该立马叠被子",
+        "onboard_time": 1680824787,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 333763,
+        "num": 333763,
+        "word": "杭州阿里巴巴由122亿减资至1亿",
+        "onboard_time": 1680824787,
+        "rank": 24,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 317172,
+        "num": 317172,
+        "word": "孙燕姿客串要久久爱",
+        "onboard_time": 1680840809,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 301169,
+        "num": 301169,
+        "word": "马克龙",
+        "onboard_time": 1680826412,
+        "rank": 26,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 299486,
+        "num": 299486,
+        "word": "考公的压力有多大",
+        "onboard_time": 1680836845,
+        "rank": 27,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 289635,
+        "num": 289635,
+        "word": "张新成孙千这么多年提档",
+        "onboard_time": 1680837204,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 276554,
+        "num": 276554,
+        "word": "彭小苒曾演过西北女孩",
+        "onboard_time": 1680835825,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 259924,
+        "num": 259924,
+        "word": "汤唯入围百想艺术大赏影后",
+        "onboard_time": 1680839609,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 255324,
+        "num": 255324,
+        "word": "宋慧乔入围百想艺术大赏视后",
+        "onboard_time": 1680831866,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 249079,
+        "num": 249079,
+        "word": "第一次见阿姨在地铁上溜瓜",
+        "onboard_time": 1680841172,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 248029,
+        "num": 248029,
+        "word": "董志民犯虐待罪非法拘禁罪",
+        "onboard_time": 1680841653,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242315,
+        "num": 242315,
+        "word": "马克龙访华",
+        "onboard_time": 1680826352,
+        "rank": 34,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 239744,
+        "num": 239744,
+        "word": "长月烬明血鸦宴",
+        "onboard_time": 1680832646,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 231136,
+        "num": 231136,
+        "word": "吴磊周雨彤爱情而已豆瓣开分8.3",
+        "onboard_time": 1680839067,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 198943,
+        "num": 198943,
+        "word": "小鬼说小鬼和王琳凯已就位",
+        "onboard_time": 1680836125,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195499,
+        "num": 195499,
+        "word": "忠犬八公结局是HE",
+        "onboard_time": 1680839971,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 195439,
+        "num": 195439,
+        "word": "警方通报男子行凶致4死后自服农药",
+        "onboard_time": 1680837869,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186136,
+        "num": 186136,
+        "word": "闵玧其先行曲MV",
+        "onboard_time": 1680841411,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 182304,
+        "num": 182304,
+        "word": "孙卓和符建涛被拐案开庭",
+        "onboard_time": 1680842011,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179812,
+        "num": 179812,
+        "word": "BLACKPINK科切拉表演曲目",
+        "onboard_time": 1680830664,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 179058,
+        "num": 179058,
+        "word": "长月烬明云合首日播放量",
+        "onboard_time": 1680832108,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 178600,
+        "num": 178600,
+        "word": "张多雅",
+        "onboard_time": 1680836606,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177831,
+        "num": 177831,
+        "word": "张碧晨毛不易合作新歌黑月光",
+        "onboard_time": 1680836064,
+        "rank": 45,
+        "category": "影视,音乐"
+      },
+      {
+        "raw_hot": 167734,
+        "num": 167734,
+        "word": "kpopSolo歌手历代初动排名",
+        "onboard_time": 1680836006,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 143367,
+        "num": 167602,
+        "word": "代号鸢",
+        "onboard_time": 1680792692,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 91570,
+        "num": 166231,
+        "word": "菠萝为啥要用盐水泡一下再吃",
+        "onboard_time": 1680830129,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 72048,
+        "num": 165639,
+        "word": "轻食版下午茶",
+        "onboard_time": 1680838107,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#中法欧三方会晤#"
+    }
+  }
+}
