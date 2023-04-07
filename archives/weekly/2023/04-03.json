@@ -1,6 +1,6 @@
 {
   "startTime": 1680452464197,
-  "endTime": 1680866043016,
+  "endTime": 1680867210324,
   "band_list": [
     {
       "raw_hot": 9506486,
@@ -443,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2284246,
+      "num": 1849860,
+      "word": "罗云熙瘦脱相",
+      "onboard_time": 1680862171,
+      "rank": 4,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 2234743,
       "num": 453201,
       "word": "长期被自愿加班必然导致积怨",
@@ -617,14 +625,6 @@
       "onboard_time": 1680609390,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1849860,
-      "num": 1849860,
-      "word": "罗云熙瘦脱相",
-      "onboard_time": 1680862171,
-      "rank": 4,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1833474,
@@ -1081,6 +1081,14 @@
       "onboard_time": 1680515553,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1250009,
+      "num": 1250009,
+      "word": "成龙身体已经不能再打封闭了",
+      "onboard_time": 1680857547,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1241786,
@@ -1763,14 +1771,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 814192,
-      "num": 731604,
-      "word": "成龙身体已经不能再打封闭了",
-      "onboard_time": 1680857547,
-      "rank": 20,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 812473,
       "num": 812473,
       "word": "周杰伦海口演唱会",
@@ -2227,6 +2227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 689966,
+      "num": 689966,
+      "word": "名侦探柯南官方公告",
+      "onboard_time": 1680863248,
+      "rank": 49,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 688414,
       "num": 688414,
       "word": "嘴大 冯晓桐",
@@ -2289,14 +2297,6 @@
       "onboard_time": 1680751408,
       "rank": 40,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 675079,
-      "num": 675079,
-      "word": "名侦探柯南官方公告",
-      "onboard_time": 1680863248,
-      "rank": 49,
-      "category": "动漫"
     },
     {
       "raw_hot": 674631,
@@ -3116,7 +3116,7 @@
     },
     {
       "raw_hot": 511411,
-      "num": 377326,
+      "num": 466514,
       "word": "生育对女性的伤害有多大",
       "onboard_time": 1680851008,
       "rank": 24,
@@ -3209,6 +3209,14 @@
       "onboard_time": 1680689374,
       "rank": 25,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 494458,
+      "num": 494458,
+      "word": "肖战和TODS总裁合照",
+      "onboard_time": 1680866369,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 491719,
@@ -3636,7 +3644,7 @@
     },
     {
       "raw_hot": 436464,
-      "num": 297964,
+      "num": 308237,
       "word": "贺峻霖锤马嘉祺",
       "onboard_time": 1680864869,
       "rank": 21,
@@ -4073,6 +4081,14 @@
       "onboard_time": 1680689973,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 389636,
+      "num": 389636,
+      "word": "癌细胞的出发点",
+      "onboard_time": 1680865170,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 389387,
@@ -4947,6 +4963,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 307115,
+      "num": 307115,
+      "word": "北京拆迁退出历史舞台",
+      "onboard_time": 1680866729,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 306143,
       "num": 306143,
       "word": "天蝎座的冷酷其实都是装的",
@@ -5505,6 +5529,14 @@
       "onboard_time": 1680764787,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 272912,
+      "num": 272912,
+      "word": "罗云熙发文在线求食谱",
+      "onboard_time": 1680866609,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 272594,
@@ -6481,14 +6513,6 @@
       "onboard_time": 1680694293,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 224978,
-      "num": 224978,
-      "word": "癌细胞的出发点",
-      "onboard_time": 1680865170,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 224784,
@@ -7475,6 +7499,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 203065,
+      "num": 690221,
+      "word": "汉代文物上写着五星出东方利中国",
+      "onboard_time": 1680865528,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 203045,
       "num": 188755,
       "word": "StrayKids人气",
@@ -7667,6 +7699,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 200930,
+      "num": 200930,
+      "word": "孙珍妮荧幕初吻",
+      "onboard_time": 1680866787,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 200812,
       "num": 198601,
       "word": "孙千说电影院见",
@@ -7681,6 +7721,22 @@
       "onboard_time": 1680852509,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 200354,
+      "num": 200354,
+      "word": "山河之影",
+      "onboard_time": 1680866187,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 200335,
+      "num": 200335,
+      "word": "国产剧疯批人设天花板",
+      "onboard_time": 1680866548,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 200173,
@@ -10747,6 +10803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119267,
+      "num": 742852,
+      "word": "10项公安交管便利措施6月1日起实施",
+      "onboard_time": 1680865528,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 119127,
       "num": 119127,
       "word": "妈妈支持自闭症儿子追求音乐梦",
@@ -10865,14 +10929,6 @@
       "onboard_time": 1680824365,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 111405,
-      "num": 742852,
-      "word": "10项公安交管便利措施6月1日起实施",
-      "onboard_time": 1680865528,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 110740,
@@ -11336,14 +11392,6 @@
       "word": "为什么一到换季就鼻炎",
       "onboard_time": 1680854427,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 48011,
-      "num": 690221,
-      "word": "汉代文物上写着五星出东方利中国",
-      "onboard_time": 1680865528,
-      "rank": 6,
       "category": "社会新闻"
     },
     {

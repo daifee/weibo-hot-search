@@ -1,0 +1,410 @@
+{
+  "runTime": 1680867210324,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1250009,
+        "num": 1250009,
+        "word": "成龙身体已经不能再打封闭了",
+        "onboard_time": 1680857547,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 928046,
+        "num": 928046,
+        "word": "密子君道歉",
+        "onboard_time": 1680853768,
+        "rank": 1,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 11776,
+        "num": 696468,
+        "word": "神十五航天员在轨工作有多忙",
+        "onboard_time": 1680839249,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2284246,
+        "num": 693244,
+        "word": "罗云熙瘦脱相",
+        "onboard_time": 1680862171,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 119267,
+        "num": 690319,
+        "word": "10项公安交管便利措施6月1日起实施",
+        "onboard_time": 1680865528,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 689966,
+        "num": 689966,
+        "word": "名侦探柯南官方公告",
+        "onboard_time": 1680863248,
+        "rank": 5,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 203065,
+        "num": 656130,
+        "word": "汉代文物上写着五星出东方利中国",
+        "onboard_time": 1680865528,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 623753,
+        "num": 623753,
+        "word": "薛之谦南昌演唱会门票",
+        "onboard_time": 1680860128,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 644843,
+        "num": 600464,
+        "word": "特斯拉降价",
+        "onboard_time": 1680859588,
+        "rank": 8,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 557068,
+        "num": 557068,
+        "word": "中山大学",
+        "onboard_time": 1680847827,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1326393,
+        "num": 540281,
+        "word": "沈月 湖师大",
+        "onboard_time": 1680862407,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 598368,
+        "num": 531124,
+        "word": "裳月烬明",
+        "onboard_time": 1680862712,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 494458,
+        "num": 494458,
+        "word": "肖战和TODS总裁合照",
+        "onboard_time": 1680866369,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 466514,
+        "num": 466514,
+        "word": "生育对女性的伤害有多大",
+        "onboard_time": 1680851008,
+        "rank": 13,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 459612,
+        "num": 459612,
+        "word": "马克龙为何访问中山大学",
+        "onboard_time": 1680850170,
+        "rank": 14,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 399230,
+        "num": 399230,
+        "word": "南烟斋笔录",
+        "onboard_time": 1680861330,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 389636,
+        "num": 389636,
+        "word": "癌细胞的出发点",
+        "onboard_time": 1680865170,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 362151,
+        "num": 362151,
+        "word": "MetGala 蔡徐坤",
+        "onboard_time": 1680863128,
+        "rank": 17,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 328591,
+        "num": 328591,
+        "word": "刘亦菲井柏然新剧或将播出",
+        "onboard_time": 1680855566,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 309852,
+        "num": 309852,
+        "word": "马克龙想续租大熊猫",
+        "onboard_time": 1680844292,
+        "rank": 19,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 612633,
+        "num": 309151,
+        "word": "大量张继科周边被粉丝甩卖",
+        "onboard_time": 1680853467,
+        "rank": 20,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 379364,
+        "num": 308237,
+        "word": "贺峻霖锤马嘉祺",
+        "onboard_time": 1680864869,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 307115,
+        "num": 307115,
+        "word": "北京拆迁退出历史舞台",
+        "onboard_time": 1680866729,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289916,
+        "num": 289916,
+        "word": "陈都灵演技",
+        "onboard_time": 1680863370,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 287277,
+        "num": 287277,
+        "word": "特斯拉员工被曝分享车主隐私画面",
+        "onboard_time": 1680859708,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283575,
+        "num": 283575,
+        "word": "法国总统马克龙到访广州",
+        "onboard_time": 1680856827,
+        "rank": 25,
+        "category": "国内要闻,社会新闻"
+      },
+      {
+        "raw_hot": 272912,
+        "num": 272912,
+        "word": "罗云熙发文在线求食谱",
+        "onboard_time": 1680866609,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 255705,
+        "num": 255705,
+        "word": "孟羽童",
+        "onboard_time": 1680861868,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253212,
+        "num": 253212,
+        "word": "董明珠称孟羽童已不做秘书",
+        "onboard_time": 1680849027,
+        "rank": 28,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 238091,
+        "num": 238091,
+        "word": "马克龙用普通话和粤语说大家好",
+        "onboard_time": 1680861149,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216273,
+        "num": 216273,
+        "word": "长月烬明穿帮镜头",
+        "onboard_time": 1680860787,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 213464,
+        "num": 213464,
+        "word": "金智秀酒综预告",
+        "onboard_time": 1680865407,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209666,
+        "num": 209666,
+        "word": "网友环球影城偶遇宋轶",
+        "onboard_time": 1680858748,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206277,
+        "num": 206277,
+        "word": "你会为了高工资选择单休吗",
+        "onboard_time": 1680852689,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203420,
+        "num": 203420,
+        "word": "张杰辟谣武汉加五场",
+        "onboard_time": 1680860307,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 200930,
+        "num": 200930,
+        "word": "孙珍妮荧幕初吻",
+        "onboard_time": 1680866787,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 200354,
+        "num": 200354,
+        "word": "山河之影",
+        "onboard_time": 1680866187,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 200335,
+        "num": 200335,
+        "word": "国产剧疯批人设天花板",
+        "onboard_time": 1680866548,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 200020,
+        "num": 200020,
+        "word": "天蝎座的冷酷其实都是装的",
+        "onboard_time": 1680856108,
+        "rank": 38,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 199199,
+        "num": 199199,
+        "word": "两个神秘黑洞在地球后院被发现",
+        "onboard_time": 1680863907,
+        "rank": 39,
+        "category": "科技,自然"
+      },
+      {
+        "raw_hot": 184779,
+        "num": 184779,
+        "word": "老太地铁求座女子自称孕妇怒怼",
+        "onboard_time": 1680853951,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180559,
+        "num": 180559,
+        "word": "大连宝马撞人案司机被执行死刑",
+        "onboard_time": 1680845249,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174128,
+        "num": 174128,
+        "word": "丫丫",
+        "onboard_time": 1680855510,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172998,
+        "num": 172998,
+        "word": "TF家族三代演唱会官宣",
+        "onboard_time": 1680859227,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 169486,
+        "num": 169486,
+        "word": "华晨宇说打出了个清一色诶",
+        "onboard_time": 1680864869,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 154387,
+        "num": 154387,
+        "word": "我想和你唱",
+        "onboard_time": 1680862888,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151068,
+        "num": 151068,
+        "word": "长期不上班的人是什么状态",
+        "onboard_time": 1680838048,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 93478,
+        "num": 150123,
+        "word": "爱咖啡和爱榴莲的都沉默了",
+        "onboard_time": 1680858209,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 63022,
+        "num": 145325,
+        "word": "咖喱鸡胸薄饼披萨",
+        "onboard_time": 1680864928,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 51469,
+        "num": 144833,
+        "word": "火锅土豆泥拌粉",
+        "onboard_time": 1680857610,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#凝心铸魂向复兴#"
+    }
+  }
+}
