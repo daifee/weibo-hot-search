@@ -1,6 +1,6 @@
 {
   "startTime": 1680452464197,
-  "endTime": 1680903200612,
+  "endTime": 1680905728242,
   "band_list": [
     {
       "raw_hot": 9506486,
@@ -11907,6 +11907,14 @@
       "category": "旅游,教育"
     },
     {
+      "raw_hot": 60974,
+      "num": 60974,
+      "word": "中船获法国超210亿元订单",
+      "onboard_time": 1680892633,
+      "rank": 16,
+      "category": "财经"
+    },
+    {
       "raw_hot": 59983,
       "num": 444231,
       "word": "华为MateX3到底能有多轻",
@@ -11929,14 +11937,6 @@
       "onboard_time": 1680488489,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 55739,
-      "num": 51704,
-      "word": "中船获法国超210亿元订单",
-      "onboard_time": 1680892633,
-      "rank": 16,
-      "category": "财经"
     },
     {
       "raw_hot": 54808,
