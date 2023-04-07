@@ -1,0 +1,410 @@
+{
+  "runTime": 1680831684518,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2200462,
+        "num": 2200462,
+        "word": "张继科事件为何愈演愈烈",
+        "onboard_time": 1680824849,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1040468,
+        "num": 1040468,
+        "word": "孟菲斯动物园将为丫丫举办告别派对",
+        "onboard_time": 1680826829,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16210,
+        "num": 856209,
+        "word": "卫星视角下的祖国大地春意盎然",
+        "onboard_time": 1680752308,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 809622,
+        "num": 809622,
+        "word": "制裁台独顽固分子萧美琴",
+        "onboard_time": 1680827490,
+        "rank": 3,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 766287,
+        "num": 766287,
+        "word": "代号鸢",
+        "onboard_time": 1680792692,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 561108,
+        "num": 561108,
+        "word": "中国电科下属单位已就网传不实信息报案",
+        "onboard_time": 1680822739,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 555381,
+        "num": 555381,
+        "word": "润玉时期多好看",
+        "onboard_time": 1680785010,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 730141,
+        "num": 552774,
+        "word": "江西吉安一男孩幼儿园内死亡",
+        "onboard_time": 1680825809,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 548267,
+        "num": 548267,
+        "word": "起床后为何不该立马叠被子",
+        "onboard_time": 1680824787,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 468201,
+        "num": 468201,
+        "word": "马克龙",
+        "onboard_time": 1680826412,
+        "rank": 9,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1547244,
+        "num": 466032,
+        "word": "女子被父母强制考公5年患精神分裂",
+        "onboard_time": 1680822560,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 979746,
+        "num": 464401,
+        "word": "杭州阿里巴巴由122亿减资至1亿",
+        "onboard_time": 1680824787,
+        "rank": 11,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 507113,
+        "num": 463682,
+        "word": "网友曝在赫莲娜做护理致脸部烧伤",
+        "onboard_time": 1680829350,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 461926,
+        "num": 461926,
+        "word": "丫丫租借合同到期",
+        "onboard_time": 1680829709,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 455411,
+        "num": 455411,
+        "word": "知情人称怼领导者为德阳某公司员工",
+        "onboard_time": 1680825389,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336480,
+        "num": 336480,
+        "word": "郑容和被韩国酵母放了一马",
+        "onboard_time": 1680788850,
+        "rank": 15,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 314726,
+        "num": 314726,
+        "word": "工作4年就诊了50次",
+        "onboard_time": 1680782067,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 314432,
+        "num": 314432,
+        "word": "顶着周雨彤头像骂周雨彤",
+        "onboard_time": 1680825268,
+        "rank": 17,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 302959,
+        "num": 302959,
+        "word": "五哈3在漠河舞厅杀青",
+        "onboard_time": 1680827370,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 284137,
+        "num": 284137,
+        "word": "澹台烬撞脸白雪公主的王后",
+        "onboard_time": 1680824066,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 272867,
+        "num": 272867,
+        "word": "网友拍的张大大",
+        "onboard_time": 1680829049,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273433,
+        "num": 271648,
+        "word": "长月烬明",
+        "onboard_time": 1680826829,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 268732,
+        "num": 268732,
+        "word": "五月天鸟巢演唱会连开六场",
+        "onboard_time": 1680799762,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 268574,
+        "num": 268574,
+        "word": "BLACKPINK科切拉表演曲目",
+        "onboard_time": 1680830664,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256410,
+        "num": 256410,
+        "word": "谷爱凌微博之夜六连拍",
+        "onboard_time": 1680828629,
+        "rank": 24,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 220324,
+        "num": 220324,
+        "word": "2000多年前这件衣服是打底还是外穿",
+        "onboard_time": 1680823161,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211799,
+        "num": 211799,
+        "word": "国内新恋综游戏尺度",
+        "onboard_time": 1680781409,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210114,
+        "num": 210114,
+        "word": "菠萝为啥要用盐水泡一下再吃",
+        "onboard_time": 1680830129,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 201776,
+        "num": 201776,
+        "word": "华晨宇演唱会",
+        "onboard_time": 1680831446,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 199797,
+        "num": 199797,
+        "word": "颖儿工作室声明",
+        "onboard_time": 1680827911,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198642,
+        "num": 198642,
+        "word": "给2023届高考生的指路牌",
+        "onboard_time": 1680827252,
+        "rank": 30,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 194249,
+        "num": 194249,
+        "word": "罗云熙回应十二神冥夜穿得最多",
+        "onboard_time": 1680825509,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194094,
+        "num": 194094,
+        "word": "马克龙访华",
+        "onboard_time": 1680826352,
+        "rank": 32,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 190455,
+        "num": 190455,
+        "word": "SEVENTEEN将完整体出演出差十五夜",
+        "onboard_time": 1680830249,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185474,
+        "num": 185474,
+        "word": "九尾发博自省",
+        "onboard_time": 1680825389,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 179874,
+        "num": 179874,
+        "word": "丁程鑫宋亚轩刘耀文今年三首单曲战报",
+        "onboard_time": 1680830548,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 172512,
+        "num": 172512,
+        "word": "声生不息把李玟怒斥好声音剪进正片",
+        "onboard_time": 1680784351,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168724,
+        "num": 168724,
+        "word": "重庆姐弟坠亡案",
+        "onboard_time": 1680789752,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145175,
+        "num": 145175,
+        "word": "当有身高差的人穿上青蛙服",
+        "onboard_time": 1680791614,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138961,
+        "num": 138961,
+        "word": "演完忠犬八公成狗生赢家",
+        "onboard_time": 1680828869,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 136820,
+        "num": 136820,
+        "word": "园方回应男童在幼儿园内死亡",
+        "onboard_time": 1680830848,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135373,
+        "num": 135373,
+        "word": "女子手指被挤断交警开道护送",
+        "onboard_time": 1680823946,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132577,
+        "num": 132577,
+        "word": "谁教容祖儿这样演戏的",
+        "onboard_time": 1680824547,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 125497,
+        "num": 125497,
+        "word": "张继科事件对各行业的启示",
+        "onboard_time": 1680825931,
+        "rank": 43,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 125180,
+        "num": 125180,
+        "word": "克拉盘",
+        "onboard_time": 1680823584,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125076,
+        "num": 125076,
+        "word": "速8酒店回应不退顾客200押金",
+        "onboard_time": 1680822922,
+        "rank": 45,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 116612,
+        "num": 116612,
+        "word": "对宣扬台独的有关机构予以惩戒",
+        "onboard_time": 1680831206,
+        "rank": 46,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 115705,
+        "num": 115705,
+        "word": "痛经的人有福了",
+        "onboard_time": 1680781528,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 111635,
+        "num": 111635,
+        "word": "澹台烬叶夕雾先圆房后成婚",
+        "onboard_time": 1680824365,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 105933,
+        "num": 105933,
+        "word": "RNG上单 五世同堂",
+        "onboard_time": 1680789514,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#中法元首会谈承载怎样的期待#"
+    }
+  }
+}
