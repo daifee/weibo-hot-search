@@ -1,6 +1,6 @@
 {
   "startTime": 1680452464197,
-  "endTime": 1680874408872,
+  "endTime": 1680876902304,
   "band_list": [
     {
       "raw_hot": 9506486,
@@ -243,6 +243,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 2909686,
+      "num": 2909686,
+      "word": "做四休三",
+      "onboard_time": 1680870448,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 2899046,
       "num": 2863663,
       "word": "中国乒协证实张继科已退役",
@@ -329,14 +337,6 @@
       "onboard_time": 1680786572,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2570858,
-      "num": 2570858,
-      "word": "做四休三",
-      "onboard_time": 1680870448,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 2568981,
@@ -923,6 +923,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1500165,
+      "num": 1500165,
+      "word": "诈骗网红梅尼耶的MCN被申请破产",
+      "onboard_time": 1680871828,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1498158,
       "num": 1498158,
       "word": "刘国梁连任中国乒协主席",
@@ -1147,14 +1155,6 @@
       "category": "财经,科技"
     },
     {
-      "raw_hot": 1219018,
-      "num": 1219018,
-      "word": "诈骗网红梅尼耶的MCN被申请破产",
-      "onboard_time": 1680871828,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1192024,
       "num": 333141,
       "word": "张继科联合创立的茶饮品牌已成老赖",
@@ -1329,6 +1329,14 @@
       "onboard_time": 1680836186,
       "rank": 3,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1092180,
+      "num": 1092180,
+      "word": "中法联合声明全文",
+      "onboard_time": 1680875611,
+      "rank": 5,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 1088442,
@@ -1545,6 +1553,14 @@
       "onboard_time": 1680741092,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 913530,
+      "num": 592174,
+      "word": "大学男老师让女生穿超短裙跳操引不满",
+      "onboard_time": 1680871289,
+      "rank": 37,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 913030,
@@ -1817,6 +1833,14 @@
       "onboard_time": 1680773850,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 814713,
+      "num": 814713,
+      "word": "为什么说身体凉命更长",
+      "onboard_time": 1680872551,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 814505,
@@ -2211,14 +2235,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 710447,
-      "num": 592174,
-      "word": "大学男老师让女生穿超短裙跳操引不满",
-      "onboard_time": 1680871289,
-      "rank": 37,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 709612,
       "num": 395583,
       "word": "白鹿蚌壳装",
@@ -2425,6 +2441,14 @@
       "onboard_time": 1680659250,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 663064,
+      "num": 562194,
+      "word": "范志毅女儿",
+      "onboard_time": 1680876093,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 660734,
@@ -2665,6 +2689,14 @@
       "onboard_time": 1680591988,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 618614,
+      "num": 618614,
+      "word": "狂飙二创有多离谱",
+      "onboard_time": 1680873869,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 612597,
@@ -3787,14 +3819,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 430850,
-      "num": 430850,
-      "word": "为什么说身体凉命更长",
-      "onboard_time": 1680872551,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 430301,
       "num": 430301,
       "word": "周雨彤素颜采访视频",
@@ -4795,6 +4819,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 330972,
+      "num": 330972,
+      "word": "奔跑吧",
+      "onboard_time": 1680874650,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 330862,
       "num": 330862,
       "word": "为何大家说杭州是美食荒漠",
@@ -5113,6 +5145,14 @@
       "onboard_time": 1680580229,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 305143,
+      "num": 305143,
+      "word": "JackeyLove观战LPL季后赛",
+      "onboard_time": 1680874950,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 305021,
@@ -6395,6 +6435,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 237161,
+      "num": 204540,
+      "word": "白鹿眼神戏",
+      "onboard_time": 1680876330,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 237109,
       "num": 237109,
       "word": "吴磊猛男娇羞",
@@ -6417,6 +6465,14 @@
       "onboard_time": 1680839067,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 236384,
+      "num": 204183,
+      "word": "井胧 中传",
+      "onboard_time": 1680876153,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 235691,
@@ -6891,6 +6947,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 218952,
+      "num": 203681,
+      "word": "李洪基铁打的祝歌",
+      "onboard_time": 1680874950,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 218658,
       "num": 211826,
       "word": "5个特征辨别你是否湿气重",
@@ -7105,14 +7169,6 @@
       "onboard_time": 1680510273,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 212788,
-      "num": 212788,
-      "word": "狂飙二创有多离谱",
-      "onboard_time": 1680873869,
-      "rank": 34,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 212603,
@@ -7585,6 +7641,14 @@
       "onboard_time": 1680585689,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 204766,
+      "num": 204766,
+      "word": "丰县八孩案件庭审画面",
+      "onboard_time": 1680874111,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 204625,
@@ -8065,6 +8129,14 @@
       "onboard_time": 1680831206,
       "rank": 46,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 199066,
+      "num": 199066,
+      "word": "AG冲击春决",
+      "onboard_time": 1680875671,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 198998,
@@ -9363,6 +9435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 174769,
+      "num": 174769,
+      "word": "于文文电吉他版曹操练习室",
+      "onboard_time": 1680876629,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 174647,
       "num": 174647,
       "word": "罗云熙白鹿新剧相拥吻戏",
@@ -9689,14 +9769,6 @@
       "onboard_time": 1680597091,
       "rank": 35,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 166654,
-      "num": 166654,
-      "word": "丰县八孩案件庭审画面",
-      "onboard_time": 1680874111,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 166115,
@@ -11211,6 +11283,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 110922,
+      "num": 153977,
+      "word": "离职后该怎样退出工作群",
+      "onboard_time": 1680874771,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 110740,
       "num": 396814,
       "word": "仅退款是维护消费者权益",
@@ -11793,6 +11873,14 @@
       "onboard_time": 1680636792,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 13414,
+      "num": 1926598,
+      "word": "开局之年共奋进",
+      "onboard_time": 1680876452,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
