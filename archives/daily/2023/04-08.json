@@ -1,6 +1,6 @@
 {
   "startTime": 1680884526258,
-  "endTime": 1680888814841,
+  "endTime": 1680891636468,
   "band_list": [
     {
       "raw_hot": 1761181,
@@ -425,6 +425,14 @@
       "onboard_time": 1680888795,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 28563,
+      "num": 33160,
+      "word": "AG冲击春决",
+      "onboard_time": 1680875671,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 16963,
