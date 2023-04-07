@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680852807235,
+  "endTime": 1680855670202,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -443,6 +443,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 2532780,
+      "num": 2532780,
+      "word": "被渣男传播私密照片怎么办",
+      "onboard_time": 1680838949,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2507087,
       "num": 2507087,
       "word": "中山大学",
@@ -539,6 +547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2289878,
+      "num": 2289878,
+      "word": "密子君道歉",
+      "onboard_time": 1680853768,
+      "rank": 1,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 2234743,
       "num": 453201,
       "word": "长期被自愿加班必然导致积怨",
@@ -561,14 +577,6 @@
       "onboard_time": 1680497315,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 2196681,
-      "num": 2196681,
-      "word": "被渣男传播私密照片怎么办",
-      "onboard_time": 1680838949,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2174661,
@@ -787,6 +795,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1748439,
+      "num": 1748439,
+      "word": "董明珠称孟羽童已不做秘书",
+      "onboard_time": 1680849027,
+      "rank": 41,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 1735745,
       "num": 642253,
       "word": "内娱天选神女",
@@ -809,14 +825,6 @@
       "onboard_time": 1680746547,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1658935,
-      "num": 1658935,
-      "word": "董明珠称孟羽童已不做秘书",
-      "onboard_time": 1680849027,
-      "rank": 41,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 1656680,
@@ -1073,6 +1081,14 @@
       "onboard_time": 1680771330,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1413788,
+      "num": 1413788,
+      "word": "大量张继科周边被粉丝甩卖",
+      "onboard_time": 1680853467,
+      "rank": 5,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1411076,
@@ -2371,6 +2387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 739961,
+      "num": 739961,
+      "word": "男子每日半包烟婚后2年不育",
+      "onboard_time": 1680850949,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 739333,
       "num": 462034,
       "word": "惠英红 你信不信我揍你",
@@ -3011,6 +3035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 624490,
+      "num": 624490,
+      "word": "邓家佳话剧被嫌弃的松子的一生",
+      "onboard_time": 1680853587,
+      "rank": 12,
+      "category": "影视,艺人"
+    },
+    {
       "raw_hot": 624364,
       "num": 624364,
       "word": "警方通报上海一男子因纠纷杀害妻子",
@@ -3353,6 +3385,14 @@
       "onboard_time": 1680275608,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 557481,
+      "num": 557481,
+      "word": "马克龙为何访问中山大学",
+      "onboard_time": 1680850170,
+      "rank": 26,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 556793,
@@ -3809,14 +3849,6 @@
       "onboard_time": 1680307583,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 512280,
-      "num": 512280,
-      "word": "马克龙为何访问中山大学",
-      "onboard_time": 1680850170,
-      "rank": 26,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 511775,
@@ -4747,6 +4779,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 417178,
+      "num": 417178,
+      "word": "你会为了高工资选择单休吗",
+      "onboard_time": 1680852689,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 416697,
       "num": 382805,
       "word": "力灿承认曾性骚扰",
@@ -5265,6 +5305,14 @@
       "onboard_time": 1680588449,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 372008,
+      "num": 288224,
+      "word": "周冬雨素颜状态",
+      "onboard_time": 1680854188,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 371796,
@@ -5907,14 +5955,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 326648,
-      "num": 326648,
-      "word": "男子每日半包烟婚后2年不育",
-      "onboard_time": 1680850949,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 326313,
       "num": 326313,
       "word": "一建",
@@ -6297,6 +6337,14 @@
       "onboard_time": 1680731052,
       "rank": 18,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 300999,
+      "num": 300999,
+      "word": "朱一龙持股成立影业公司",
+      "onboard_time": 1680852928,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 300985,
@@ -6761,6 +6809,14 @@
       "onboard_time": 1680748827,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 279295,
+      "num": 279295,
+      "word": "魏晨的衣服口袋是防搜身专用",
+      "onboard_time": 1680853649,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 279196,
@@ -7411,6 +7467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 252099,
+      "num": 252099,
+      "word": "老太地铁求座女子自称孕妇怒怼",
+      "onboard_time": 1680853951,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 251780,
       "num": 251780,
       "word": "九尾直播听宋亚轩新歌",
@@ -7667,6 +7731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 241806,
+      "num": 241806,
+      "word": "药店体重秤的标语",
+      "onboard_time": 1680852450,
+      "rank": 28,
+      "category": "幽默,社会新闻"
+    },
+    {
       "raw_hot": 241356,
       "num": 241356,
       "word": "米粉节",
@@ -7921,6 +7993,14 @@
       "onboard_time": 1680737064,
       "rank": 34,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 231831,
+      "num": 231831,
+      "word": "华晨宇杭州演唱会",
+      "onboard_time": 1680854728,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 231041,
@@ -8259,6 +8339,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 222341,
+      "num": 222341,
+      "word": "SEVENTEEN关于青春的代名词",
+      "onboard_time": 1680854249,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 221896,
       "num": 221896,
       "word": "白鹿孙珍妮的CP名叫妍珍",
@@ -8465,6 +8553,14 @@
       "onboard_time": 1680307944,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 217052,
+      "num": 217052,
+      "word": "白鹿新剧又要跳城楼",
+      "onboard_time": 1680852509,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 217012,
@@ -9003,6 +9099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 206781,
+      "num": 206781,
+      "word": "牛杂葡挞",
+      "onboard_time": 1680852450,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
       "raw_hot": 206751,
       "num": 206751,
       "word": "春天真是美好 然而没有钱",
@@ -9427,6 +9531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 202834,
+      "num": 202834,
+      "word": "吴磊侧躺有腹肌",
+      "onboard_time": 1680854308,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 202768,
       "num": 202768,
       "word": "范丞丞找张大大要豹哥签名",
@@ -9523,6 +9635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 202126,
+      "num": 202126,
+      "word": "密子君说小强是自己红油里的",
+      "onboard_time": 1680855269,
+      "rank": 36,
+      "category": "网红"
+    },
+    {
       "raw_hot": 202004,
       "num": 202004,
       "word": "陈赫打乒乓全靠场外支援",
@@ -9571,6 +9691,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 201663,
+      "num": 201663,
+      "word": "合理请假是工作一部分",
+      "onboard_time": 1680854787,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 201600,
       "num": 201600,
       "word": "IVE换官方队形",
@@ -9609,14 +9737,6 @@
       "onboard_time": 1680477501,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 201279,
-      "num": 201279,
-      "word": "牛杂葡挞",
-      "onboard_time": 1680852450,
-      "rank": 33,
-      "category": "美食"
     },
     {
       "raw_hot": 201174,
@@ -9673,14 +9793,6 @@
       "onboard_time": 1680852509,
       "rank": 34,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 200598,
-      "num": 200598,
-      "word": "你会为了高工资选择单休吗",
-      "onboard_time": 1680852689,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 200564,
@@ -10211,6 +10323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194608,
+      "num": 191638,
+      "word": "刘亦菲井柏然新剧或将播出",
+      "onboard_time": 1680855566,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 194593,
       "num": 194593,
       "word": "蔡徐坤海边随拍",
@@ -10379,6 +10499,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 192684,
+      "num": 192684,
+      "word": "原来大家都不想上班",
+      "onboard_time": 1680854907,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 192493,
       "num": 192493,
       "word": "COA6帅气出征",
@@ -10539,14 +10667,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 190554,
-      "num": 190554,
-      "word": "白鹿新剧又要跳城楼",
-      "onboard_time": 1680852509,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 190482,
       "num": 190482,
       "word": "范丞丞机车大片",
@@ -10593,6 +10713,14 @@
       "onboard_time": 1680778589,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 190292,
+      "num": 190292,
+      "word": "碧姬可不是等着被救的公主",
+      "onboard_time": 1680855149,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 190281,
@@ -15259,6 +15387,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 60116,
+      "num": 167167,
+      "word": "鸳鸯债广播剧化",
+      "onboard_time": 1680853169,
+      "rank": 49,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 59983,
       "num": 444231,
       "word": "华为MateX3到底能有多轻",
@@ -15433,6 +15569,14 @@
       "onboard_time": 1680270870,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 31922,
+      "num": 193313,
+      "word": "为什么一到换季就鼻炎",
+      "onboard_time": 1680854427,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 31274,

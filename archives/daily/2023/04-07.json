@@ -1,6 +1,6 @@
 {
   "startTime": 1680798149468,
-  "endTime": 1680852807235,
+  "endTime": 1680855670202,
   "band_list": [
     {
       "raw_hot": 7516988,
@@ -35,6 +35,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 2532780,
+      "num": 2532780,
+      "word": "被渣男传播私密照片怎么办",
+      "onboard_time": 1680838949,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2507087,
       "num": 2507087,
       "word": "中山大学",
@@ -51,12 +59,12 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 2196681,
-      "num": 2196681,
-      "word": "被渣男传播私密照片怎么办",
-      "onboard_time": 1680838949,
-      "rank": 5,
-      "category": "社会新闻"
+      "raw_hot": 2289878,
+      "num": 2289878,
+      "word": "密子君道歉",
+      "onboard_time": 1680853768,
+      "rank": 1,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 2054698,
@@ -91,8 +99,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1658935,
-      "num": 1658935,
+      "raw_hot": 1748439,
+      "num": 1748439,
       "word": "董明珠称孟羽童已不做秘书",
       "onboard_time": 1680849027,
       "rank": 41,
@@ -129,6 +137,14 @@
       "onboard_time": 1680844292,
       "rank": 46,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 1413788,
+      "num": 1413788,
+      "word": "大量张继科周边被粉丝甩卖",
+      "onboard_time": 1680853467,
+      "rank": 5,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1304633,
@@ -307,6 +323,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 739961,
+      "num": 739961,
+      "word": "男子每日半包烟婚后2年不育",
+      "onboard_time": 1680850949,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 727085,
       "num": 727085,
       "word": "起床后为何不该立马叠被子",
@@ -363,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 624490,
+      "num": 624490,
+      "word": "邓家佳话剧被嫌弃的松子的一生",
+      "onboard_time": 1680853587,
+      "rank": 12,
+      "category": "影视,艺人"
+    },
+    {
       "raw_hot": 602920,
       "num": 455411,
       "word": "知情人称怼领导者为德阳某公司员工",
@@ -403,6 +435,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 557481,
+      "num": 557481,
+      "word": "马克龙为何访问中山大学",
+      "onboard_time": 1680850170,
+      "rank": 26,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 547242,
       "num": 547242,
       "word": "丫丫租借合同到期",
@@ -425,14 +465,6 @@
       "onboard_time": 1680833187,
       "rank": 16,
       "category": "情感,教育"
-    },
-    {
-      "raw_hot": 512280,
-      "num": 512280,
-      "word": "马克龙为何访问中山大学",
-      "onboard_time": 1680850170,
-      "rank": 26,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 511411,
@@ -523,6 +555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 417178,
+      "num": 417178,
+      "word": "你会为了高工资选择单休吗",
+      "onboard_time": 1680852689,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 395055,
       "num": 395055,
       "word": "美国男子承认掰断并偷走兵马俑手指",
@@ -585,6 +625,14 @@
       "onboard_time": 1680781528,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 372008,
+      "num": 288224,
+      "word": "周冬雨素颜状态",
+      "onboard_time": 1680854188,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 359673,
@@ -657,14 +705,6 @@
       "onboard_time": 1680841172,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 326648,
-      "num": 326648,
-      "word": "男子每日半包烟婚后2年不育",
-      "onboard_time": 1680850949,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 326313,
@@ -763,6 +803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 300999,
+      "num": 300999,
+      "word": "朱一龙持股成立影业公司",
+      "onboard_time": 1680852928,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 294444,
       "num": 294444,
       "word": "黑暗荣耀林智妍入围百想最佳女配角",
@@ -809,6 +857,14 @@
       "onboard_time": 1680839609,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 279295,
+      "num": 279295,
+      "word": "魏晨的衣服口袋是防搜身专用",
+      "onboard_time": 1680853649,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 273033,
@@ -883,6 +939,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 252099,
+      "num": 252099,
+      "word": "老太地铁求座女子自称孕妇怒怼",
+      "onboard_time": 1680853951,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 251780,
       "num": 251780,
       "word": "九尾直播听宋亚轩新歌",
@@ -939,6 +1003,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 241806,
+      "num": 241806,
+      "word": "药店体重秤的标语",
+      "onboard_time": 1680852450,
+      "rank": 28,
+      "category": "幽默,社会新闻"
+    },
+    {
       "raw_hot": 237356,
       "num": 237356,
       "word": "九尾发博自省",
@@ -979,6 +1051,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 231831,
+      "num": 231831,
+      "word": "华晨宇杭州演唱会",
+      "onboard_time": 1680854728,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 230883,
       "num": 230883,
       "word": "马嘉祺看到榴莲的反应",
@@ -1011,6 +1091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 222341,
+      "num": 222341,
+      "word": "SEVENTEEN关于青春的代名词",
+      "onboard_time": 1680854249,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 221896,
       "num": 221896,
       "word": "白鹿孙珍妮的CP名叫妍珍",
@@ -1024,6 +1112,14 @@
       "word": "马国明唐诗咏亲热戏",
       "onboard_time": 1680845068,
       "rank": 37,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 217052,
+      "num": 217052,
+      "word": "白鹿新剧又要跳城楼",
+      "onboard_time": 1680852509,
+      "rank": 40,
       "category": "影视"
     },
     {
@@ -1115,6 +1211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 206781,
+      "num": 206781,
+      "word": "牛杂葡挞",
+      "onboard_time": 1680852450,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
       "raw_hot": 205582,
       "num": 205582,
       "word": "和舞台上的华晨宇对视了",
@@ -1139,12 +1243,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 202834,
+      "num": 202834,
+      "word": "吴磊侧躺有腹肌",
+      "onboard_time": 1680854308,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 202542,
       "num": 202542,
       "word": "刘耀文新歌唱rap",
       "onboard_time": 1680836427,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 202126,
+      "num": 202126,
+      "word": "密子君说小强是自己红油里的",
+      "onboard_time": 1680855269,
+      "rank": 36,
+      "category": "网红"
     },
     {
       "raw_hot": 201776,
@@ -1155,12 +1275,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 201279,
-      "num": 201279,
-      "word": "牛杂葡挞",
-      "onboard_time": 1680852450,
-      "rank": 33,
-      "category": "美食"
+      "raw_hot": 201663,
+      "num": 201663,
+      "word": "合理请假是工作一部分",
+      "onboard_time": 1680854787,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 200812,
@@ -1177,14 +1297,6 @@
       "onboard_time": 1680852509,
       "rank": 34,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 200598,
-      "num": 200598,
-      "word": "你会为了高工资选择单休吗",
-      "onboard_time": 1680852689,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 199974,
@@ -1267,6 +1379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 194608,
+      "num": 191638,
+      "word": "刘亦菲井柏然新剧或将播出",
+      "onboard_time": 1680855566,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 194593,
       "num": 194593,
       "word": "蔡徐坤海边随拍",
@@ -1299,19 +1419,19 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 192684,
+      "num": 192684,
+      "word": "原来大家都不想上班",
+      "onboard_time": 1680854907,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 190952,
       "num": 190952,
       "word": "长月烬明悲剧含量",
       "onboard_time": 1680837747,
       "rank": 39,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 190554,
-      "num": 190554,
-      "word": "白鹿新剧又要跳城楼",
-      "onboard_time": 1680852509,
-      "rank": 40,
       "category": "影视"
     },
     {
@@ -1329,6 +1449,14 @@
       "onboard_time": 1680830249,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 190292,
+      "num": 190292,
+      "word": "碧姬可不是等着被救的公主",
+      "onboard_time": 1680855149,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 186283,
@@ -1393,6 +1521,14 @@
       "onboard_time": 1680847168,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 181633,
+      "num": 181633,
+      "word": "丫丫",
+      "onboard_time": 1680855510,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 181582,
@@ -1843,6 +1979,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 60116,
+      "num": 167167,
+      "word": "鸳鸯债广播剧化",
+      "onboard_time": 1680853169,
+      "rank": 49,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 54808,
       "num": 140712,
       "word": "一场春雪九寨沟美如仙境",
@@ -1865,6 +2009,14 @@
       "onboard_time": 1680794430,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 31922,
+      "num": 193313,
+      "word": "为什么一到换季就鼻炎",
+      "onboard_time": 1680854427,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 26730,
