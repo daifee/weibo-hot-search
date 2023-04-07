@@ -1,6 +1,6 @@
 {
   "startTime": 1680798149468,
-  "endTime": 1680848520609,
+  "endTime": 1680849317446,
   "band_list": [
     {
       "raw_hot": 7516988,
@@ -59,20 +59,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1833474,
+      "num": 660334,
+      "word": "宋轶染发",
+      "onboard_time": 1680845431,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1790649,
       "num": 1790649,
       "word": "孙海洋女儿呼吁取消拐骗罪",
       "onboard_time": 1680837268,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1790080,
-      "num": 645446,
-      "word": "宋轶染发",
-      "onboard_time": 1680845431,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 1628847,
@@ -107,8 +107,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1426045,
-      "num": 1426045,
+      "raw_hot": 1524172,
+      "num": 1524172,
       "word": "马克龙想续租大熊猫",
       "onboard_time": 1680844292,
       "rank": 46,
@@ -187,6 +187,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1081405,
+      "num": 655459,
+      "word": "中山大学",
+      "onboard_time": 1680847827,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1024576,
       "num": 155227,
       "word": "中电科确认不存在临时工情况",
@@ -216,6 +224,14 @@
       "word": "董志民致小花梅精神分裂",
       "onboard_time": 1680843512,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 858240,
+      "num": 858240,
+      "word": "叶诚尘称自己有精神疾病",
+      "onboard_time": 1680845010,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -323,14 +339,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 619780,
-      "num": 619780,
-      "word": "叶诚尘称自己有精神疾病",
-      "onboard_time": 1680845010,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 602920,
       "num": 455411,
       "word": "知情人称怼领导者为德阳某公司员工",
@@ -345,6 +353,14 @@
       "onboard_time": 1680784351,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 575511,
+      "num": 575511,
+      "word": "迪丽热巴晒生活照",
+      "onboard_time": 1680845492,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 570887,
@@ -387,20 +403,20 @@
       "category": "情感,教育"
     },
     {
-      "raw_hot": 492910,
-      "num": 492910,
-      "word": "迪丽热巴晒生活照",
-      "onboard_time": 1680845492,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 486751,
       "num": 486751,
       "word": "澹台烬才是真公主吧",
       "onboard_time": 1680843692,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 472015,
+      "num": 472015,
+      "word": "男子连喝10多年栀子茶险肠坏死",
+      "onboard_time": 1680844650,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 471868,
@@ -443,28 +459,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 450274,
+      "num": 450274,
+      "word": "权志龙晚宴艺人合照",
+      "onboard_time": 1680845910,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 445254,
       "num": 445254,
       "word": "张新成孙千这么多年提档",
       "onboard_time": 1680837204,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 442006,
-      "num": 442006,
-      "word": "男子连喝10多年栀子茶险肠坏死",
-      "onboard_time": 1680844650,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 431908,
-      "num": 431908,
-      "word": "权志龙晚宴艺人合照",
-      "onboard_time": 1680845910,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 420312,
@@ -537,14 +545,6 @@
       "onboard_time": 1680824066,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 356569,
-      "num": 356569,
-      "word": "中山大学",
-      "onboard_time": 1680847827,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 355419,
@@ -699,6 +699,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 291841,
+      "num": 291841,
+      "word": "黑暗荣耀林智妍入围百想最佳女配角",
+      "onboard_time": 1680846930,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 288639,
+      "num": 288639,
+      "word": "EDG给罗云熙新剧打call",
+      "onboard_time": 1680847709,
+      "rank": 25,
+      "category": "影视,游戏"
+    },
+    {
       "raw_hot": 288638,
       "num": 288638,
       "word": "长月烬明",
@@ -721,14 +737,6 @@
       "onboard_time": 1680839609,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 284086,
-      "num": 284086,
-      "word": "EDG给罗云熙新剧打call",
-      "onboard_time": 1680847709,
-      "rank": 25,
-      "category": "影视,游戏"
     },
     {
       "raw_hot": 273033,
@@ -827,6 +835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 245246,
+      "num": 245246,
+      "word": "单休和双休有多大区别",
+      "onboard_time": 1680847408,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 244405,
       "num": 244405,
       "word": "菠萝为啥要用盐水泡一下再吃",
@@ -849,14 +865,6 @@
       "onboard_time": 1680826352,
       "rank": 31,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 239999,
-      "num": 239999,
-      "word": "黑暗荣耀林智妍入围百想最佳女配角",
-      "onboard_time": 1680846930,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 237356,
@@ -923,19 +931,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 221896,
+      "num": 221896,
+      "word": "白鹿孙珍妮的CP名叫妍珍",
+      "onboard_time": 1680847650,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 221738,
       "num": 221738,
       "word": "马国明唐诗咏亲热戏",
       "onboard_time": 1680845068,
       "rank": 37,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 219700,
-      "num": 219700,
-      "word": "白鹿孙珍妮的CP名叫妍珍",
-      "onboard_time": 1680847650,
-      "rank": 32,
       "category": "影视"
     },
     {
@@ -1075,6 +1083,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 199009,
+      "num": 199009,
+      "word": "单休相当于一年多上2个月班",
+      "onboard_time": 1680848548,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198642,
       "num": 198642,
       "word": "给2023届高考生的指路牌",
@@ -1137,6 +1153,14 @@
       "onboard_time": 1680837685,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 193294,
+      "num": 193294,
+      "word": "在荆州看春天第一场电影盛会",
+      "onboard_time": 1680848371,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 192811,
@@ -1219,6 +1243,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 181977,
+      "num": 181977,
+      "word": "我被采访",
+      "onboard_time": 1680847168,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 181582,
       "num": 181582,
       "word": "RNG上单 五世同堂",
@@ -1283,28 +1315,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 171160,
-      "num": 171160,
-      "word": "我被采访",
-      "onboard_time": 1680847168,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 170381,
       "num": 170381,
       "word": "密室逃脱拼到周笔畅",
       "onboard_time": 1680786871,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 169651,
-      "num": 169651,
-      "word": "单休和双休有多大区别",
-      "onboard_time": 1680847408,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 169388,
@@ -1331,6 +1347,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 165875,
+      "num": 165875,
+      "word": "董明珠称孟羽童已不做秘书",
+      "onboard_time": 1680849027,
+      "rank": 41,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 162645,
       "num": 161876,
       "word": "朱一龙易烊千玺 合作",
@@ -1355,6 +1379,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 155378,
+      "num": 155378,
+      "word": "那英马嘉祺情头",
+      "onboard_time": 1680849207,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 153723,
       "num": 171813,
       "word": "KPL",
@@ -1376,6 +1408,14 @@
       "word": "澹台烬的乌鸦不好当",
       "onboard_time": 1680836909,
       "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 149192,
+      "num": 149192,
+      "word": "陈晓李沁人生之路直播",
+      "onboard_time": 1680848908,
+      "rank": 46,
       "category": "影视"
     },
     {
@@ -1441,14 +1481,6 @@
       "onboard_time": 1680832828,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 134511,
-      "num": 134511,
-      "word": "在荆州看春天第一场电影盛会",
-      "onboard_time": 1680848371,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 132925,
@@ -1633,6 +1665,14 @@
       "onboard_time": 1680821297,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 54808,
+      "num": 128517,
+      "word": "一场春雪九寨沟美如仙境",
+      "onboard_time": 1680848608,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 35859,
