@@ -1,6 +1,6 @@
 {
   "startTime": 1680798149468,
-  "endTime": 1680834645568,
+  "endTime": 1680835296895,
   "band_list": [
     {
       "raw_hot": 2432368,
@@ -91,12 +91,28 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 954377,
+      "num": 954377,
+      "word": "张元英姐姐出道",
+      "onboard_time": 1680834566,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 797857,
       "num": 797857,
       "word": "江西吉安一男孩幼儿园内死亡",
       "onboard_time": 1680825809,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 748812,
+      "num": 748812,
+      "word": "顶着周雨彤头像骂周雨彤",
+      "onboard_time": 1680825268,
+      "rank": 14,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 727085,
@@ -131,14 +147,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 582728,
-      "num": 582728,
-      "word": "顶着周雨彤头像骂周雨彤",
-      "onboard_time": 1680825268,
-      "rank": 14,
-      "category": "艺人,幽默"
-    },
-    {
       "raw_hot": 580426,
       "num": 580426,
       "word": "声生不息把李玟怒斥好声音剪进正片",
@@ -155,8 +163,8 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 541023,
-      "num": 541023,
+      "raw_hot": 547242,
+      "num": 547242,
       "word": "丫丫租借合同到期",
       "onboard_time": 1680829709,
       "rank": 29,
@@ -203,8 +211,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 455133,
-      "num": 455133,
+      "raw_hot": 456359,
+      "num": 456359,
       "word": "长月烬明云合首日播放量",
       "onboard_time": 1680832108,
       "rank": 12,
@@ -217,6 +225,14 @@
       "onboard_time": 1680781409,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 395958,
+      "num": 395958,
+      "word": "你会选择考公吗",
+      "onboard_time": 1680833187,
+      "rank": 16,
+      "category": "情感,教育"
     },
     {
       "raw_hot": 395055,
@@ -259,12 +275,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 338407,
-      "num": 338407,
-      "word": "你会选择考公吗",
-      "onboard_time": 1680833187,
-      "rank": 16,
-      "category": "情感,教育"
+      "raw_hot": 342078,
+      "num": 342078,
+      "word": "长月烬明血鸦宴",
+      "onboard_time": 1680832646,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 335360,
@@ -273,14 +289,6 @@
       "onboard_time": 1680790533,
       "rank": 11,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 334235,
-      "num": 334235,
-      "word": "张元英姐姐出道",
-      "onboard_time": 1680834566,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 333242,
@@ -313,14 +321,6 @@
       "onboard_time": 1680777930,
       "rank": 12,
       "category": "美食"
-    },
-    {
-      "raw_hot": 316677,
-      "num": 316677,
-      "word": "长月烬明血鸦宴",
-      "onboard_time": 1680832646,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 316544,
@@ -451,6 +451,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 244405,
+      "num": 244405,
+      "word": "菠萝为啥要用盐水泡一下再吃",
+      "onboard_time": 1680830129,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 237356,
       "num": 237356,
       "word": "九尾发博自省",
@@ -467,20 +475,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 221092,
-      "num": 221092,
-      "word": "菠萝为啥要用盐水泡一下再吃",
-      "onboard_time": 1680830129,
-      "rank": 48,
-      "category": "美食"
-    },
-    {
       "raw_hot": 217012,
       "num": 217012,
       "word": "85花早期古装剧无滤镜剧照",
       "onboard_time": 1680785129,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 213824,
+      "num": 213824,
+      "word": "园方回应男童在幼儿园内死亡",
+      "onboard_time": 1680830848,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 211251,
+      "num": 211251,
+      "word": "小狗不要面子的吗",
+      "onboard_time": 1680834147,
+      "rank": 41,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 209246,
@@ -491,8 +507,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 202013,
-      "num": 198021,
+      "raw_hot": 205250,
+      "num": 205250,
       "word": "父母应该规划孩子的人生吗",
       "onboard_time": 1680834147,
       "rank": 30,
@@ -505,6 +521,14 @@
       "onboard_time": 1680831446,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 200812,
+      "num": 198601,
+      "word": "孙千说电影院见",
+      "onboard_time": 1680835225,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 199516,
@@ -539,20 +563,28 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 197690,
+      "num": 197690,
+      "word": "印度12名男子将妇人斩首献祭",
+      "onboard_time": 1680835166,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196846,
+      "num": 196846,
+      "word": "严浩翔背对地球奔跑的rap",
+      "onboard_time": 1680835225,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 196828,
       "num": 196828,
       "word": "杨紫琼获戛纳电影节跃动她影奖",
       "onboard_time": 1680793593,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 193979,
-      "num": 193979,
-      "word": "园方回应男童在幼儿园内死亡",
-      "onboard_time": 1680830848,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 192811,
@@ -571,6 +603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187319,
+      "num": 197716,
+      "word": "法官怎么能忍住不笑的",
+      "onboard_time": 1680835166,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 186283,
       "num": 186283,
       "word": "谁教容祖儿这样演戏的",
@@ -585,6 +625,14 @@
       "onboard_time": 1680830548,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 184291,
+      "num": 197842,
+      "word": "百想艺术大赏",
+      "onboard_time": 1680834505,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 183724,
@@ -627,11 +675,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 174120,
-      "num": 174120,
-      "word": "百想艺术大赏",
-      "onboard_time": 1680834505,
-      "rank": 35,
+      "raw_hot": 174227,
+      "num": 174227,
+      "word": "罗云熙白鹿长月烬明猫眼登顶",
+      "onboard_time": 1680834987,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 170952,
+      "num": 170952,
+      "word": "对巧珍好的人都不在了",
+      "onboard_time": 1680834805,
+      "rank": 41,
       "category": "影视"
     },
     {
@@ -673,14 +729,6 @@
       "onboard_time": 1680833306,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 155582,
-      "num": 155582,
-      "word": "小狗不要面子的吗",
-      "onboard_time": 1680834147,
-      "rank": 41,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 149034,
