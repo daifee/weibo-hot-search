@@ -1,6 +1,6 @@
 {
   "startTime": 1680884526258,
-  "endTime": 1680905728242,
+  "endTime": 1680906798754,
   "band_list": [
     {
       "raw_hot": 1761181,
@@ -387,6 +387,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 86196,
+      "num": 86196,
+      "word": "中船获法国超210亿元订单",
+      "onboard_time": 1680892633,
+      "rank": 16,
+      "category": "财经"
+    },
+    {
       "raw_hot": 83130,
       "num": 93820,
       "word": "丰县八孩案件庭审画面",
@@ -409,14 +417,6 @@
       "onboard_time": 1680879330,
       "rank": 49,
       "category": "科技"
-    },
-    {
-      "raw_hot": 60974,
-      "num": 60974,
-      "word": "中船获法国超210亿元订单",
-      "onboard_time": 1680892633,
-      "rank": 16,
-      "category": "财经"
     },
     {
       "raw_hot": 54914,
