@@ -1,6 +1,6 @@
 {
   "startTime": 1680798149468,
-  "endTime": 1680863604447,
+  "endTime": 1680866043016,
   "band_list": [
     {
       "raw_hot": 7516988,
@@ -83,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1849860,
+      "num": 1849860,
+      "word": "罗云熙瘦脱相",
+      "onboard_time": 1680862171,
+      "rank": 4,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1833474,
       "num": 683682,
       "word": "宋轶染发",
@@ -123,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1584064,
+      "num": 550694,
+      "word": "沈月 湖师大",
+      "onboard_time": 1680862407,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1554662,
       "num": 1554662,
       "word": "腾讯视频和抖音集团达成合作",
@@ -145,14 +161,6 @@
       "onboard_time": 1680844292,
       "rank": 46,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 1468166,
-      "num": 1468166,
-      "word": "罗云熙瘦脱相",
-      "onboard_time": 1680862171,
-      "rank": 4,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1458986,
@@ -259,14 +267,6 @@
       "category": "艺人,幽默"
     },
     {
-      "raw_hot": 958266,
-      "num": 442692,
-      "word": "沈月 湖师大",
-      "onboard_time": 1680862407,
-      "rank": 32,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 920886,
       "num": 920886,
       "word": "刘亦菲井柏然新剧或将播出",
@@ -316,7 +316,7 @@
     },
     {
       "raw_hot": 814192,
-      "num": 370926,
+      "num": 731604,
       "word": "成龙身体已经不能再打封闭了",
       "onboard_time": 1680857547,
       "rank": 20,
@@ -403,6 +403,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 722515,
+      "num": 541415,
+      "word": "裳月烬明",
+      "onboard_time": 1680862712,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 718006,
       "num": 718006,
       "word": "南烟斋笔录",
@@ -419,12 +427,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 675079,
+      "num": 675079,
+      "word": "名侦探柯南官方公告",
+      "onboard_time": 1680863248,
+      "rank": 49,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 650836,
       "num": 650836,
       "word": "花千骨作者也在追长月烬明",
       "onboard_time": 1680844707,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 647986,
+      "num": 647986,
+      "word": "薛之谦南昌演唱会门票",
+      "onboard_time": 1680860128,
+      "rank": 8,
+      "category": "音乐"
     },
     {
       "raw_hot": 647786,
@@ -515,14 +539,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 557021,
-      "num": 557021,
-      "word": "薛之谦南昌演唱会门票",
-      "onboard_time": 1680860128,
-      "rank": 8,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 547242,
       "num": 547242,
       "word": "丫丫租借合同到期",
@@ -548,7 +564,7 @@
     },
     {
       "raw_hot": 511411,
-      "num": 332480,
+      "num": 377326,
       "word": "生育对女性的伤害有多大",
       "onboard_time": 1680851008,
       "rank": 24,
@@ -651,12 +667,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 424758,
-      "num": 424758,
-      "word": "裳月烬明",
-      "onboard_time": 1680862712,
-      "rank": 13,
-      "category": "影视"
+      "raw_hot": 436464,
+      "num": 297964,
+      "word": "贺峻霖锤马嘉祺",
+      "onboard_time": 1680864869,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 427104,
+      "num": 427104,
+      "word": "MetGala 蔡徐坤",
+      "onboard_time": 1680863128,
+      "rank": 36,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 420312,
@@ -1011,6 +1035,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 290886,
+      "num": 290886,
+      "word": "马克龙用普通话和粤语说大家好",
+      "onboard_time": 1680861149,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 290795,
+      "num": 290795,
+      "word": "陈都灵演技",
+      "onboard_time": 1680863370,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 290697,
       "num": 290697,
       "word": "爱咖啡和爱榴莲的都沉默了",
@@ -1219,14 +1259,6 @@
       "category": "幽默,社会新闻"
     },
     {
-      "raw_hot": 238851,
-      "num": 238851,
-      "word": "马克龙用普通话和粤语说大家好",
-      "onboard_time": 1680861149,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 237356,
       "num": 237356,
       "word": "九尾发博自省",
@@ -1249,6 +1281,14 @@
       "onboard_time": 1680845970,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 234158,
+      "num": 234158,
+      "word": "金智秀酒综预告",
+      "onboard_time": 1680865407,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 233710,
@@ -1321,6 +1361,14 @@
       "onboard_time": 1680842011,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 224978,
+      "num": 224978,
+      "word": "癌细胞的出发点",
+      "onboard_time": 1680865170,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 222341,
@@ -1459,14 +1507,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 207224,
-      "num": 207224,
-      "word": "MetGala 蔡徐坤",
-      "onboard_time": 1680863128,
-      "rank": 36,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 207166,
       "num": 207166,
       "word": "李马克solo新歌MV上线",
@@ -1547,6 +1587,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 201005,
+      "num": 201005,
+      "word": "两个神秘黑洞在地球后院被发现",
+      "onboard_time": 1680863907,
+      "rank": 35,
+      "category": "科技,自然"
+    },
+    {
       "raw_hot": 200812,
       "num": 198601,
       "word": "孙千说电影院见",
@@ -1611,6 +1659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 198456,
+      "num": 198456,
+      "word": "咖喱鸡胸薄饼披萨",
+      "onboard_time": 1680864928,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 196846,
       "num": 196846,
       "word": "严浩翔背对地球奔跑的rap",
@@ -1641,6 +1697,14 @@
       "onboard_time": 1680837088,
       "rank": 37,
       "category": "影视,音乐"
+    },
+    {
+      "raw_hot": 195968,
+      "num": 195968,
+      "word": "澹台烬乌鸦杀",
+      "onboard_time": 1680865826,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 195499,
@@ -1689,6 +1753,14 @@
       "onboard_time": 1680848371,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 193281,
+      "num": 193281,
+      "word": "华晨宇说打出了个清一色诶",
+      "onboard_time": 1680864869,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 192811,
@@ -1955,6 +2027,22 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 168430,
+      "num": 168430,
+      "word": "吴磊运动九宫格视频",
+      "onboard_time": 1680864869,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 168346,
+      "num": 168346,
+      "word": "晒晒下班路上的风景",
+      "onboard_time": 1680865349,
+      "rank": 45,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 168083,
       "num": 168083,
       "word": "童瑶F创刊封面",
@@ -2019,14 +2107,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 155029,
-      "num": 155029,
-      "word": "陈都灵演技",
-      "onboard_time": 1680863370,
-      "rank": 45,
-      "category": "影视"
-    },
-    {
       "raw_hot": 154135,
       "num": 154135,
       "word": "丁程鑫秦霄贤杨迪卡点运镜",
@@ -2041,6 +2121,14 @@
       "onboard_time": 1680843095,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 153099,
+      "num": 153099,
+      "word": "网红带货该对质量问题担责吗",
+      "onboard_time": 1680864327,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 152910,
@@ -2195,14 +2283,6 @@
       "category": "情感,网红"
     },
     {
-      "raw_hot": 122204,
-      "num": 135802,
-      "word": "名侦探柯南官方公告",
-      "onboard_time": 1680863248,
-      "rank": 49,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 118835,
       "num": 171759,
       "word": "纸嫁衣5无间梦境",
@@ -2241,6 +2321,14 @@
       "onboard_time": 1680824365,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 111405,
+      "num": 742852,
+      "word": "10项公安交管便利措施6月1日起实施",
+      "onboard_time": 1680865528,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 109707,
@@ -2363,6 +2451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 48011,
+      "num": 690221,
+      "word": "汉代文物上写着五星出东方利中国",
+      "onboard_time": 1680865528,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35859,
       "num": 44380,
       "word": "电影龙马精神",
@@ -2399,6 +2495,9 @@
     },
     {
       "word": "#中法欧三方会晤#"
+    },
+    {
+      "word": "#2023网络名人海南行#"
     }
   ]
 }
