@@ -1,6 +1,6 @@
 {
   "startTime": 1680798149468,
-  "endTime": 1680856441306,
+  "endTime": 1680858976160,
   "band_list": [
     {
       "raw_hot": 7516988,
@@ -25,6 +25,14 @@
       "onboard_time": 1680838160,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2642107,
+      "num": 2642107,
+      "word": "密子君道歉",
+      "onboard_time": 1680853768,
+      "rank": 1,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 2544932,
@@ -57,14 +65,6 @@
       "onboard_time": 1680824849,
       "rank": 0,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 2289878,
-      "num": 2289878,
-      "word": "密子君道歉",
-      "onboard_time": 1680853768,
-      "rank": 1,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 2054698,
@@ -107,20 +107,20 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 1735807,
+      "num": 1566169,
+      "word": "大量张继科周边被粉丝甩卖",
+      "onboard_time": 1680853467,
+      "rank": 5,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1628847,
       "num": 705156,
       "word": "印度12名男子将妇人斩首献祭",
       "onboard_time": 1680835166,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1566169,
-      "num": 1566169,
-      "word": "大量张继科周边被粉丝甩卖",
-      "onboard_time": 1680853467,
-      "rank": 5,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1554662,
@@ -243,6 +243,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 920886,
+      "num": 920886,
+      "word": "刘亦菲井柏然新剧或将播出",
+      "onboard_time": 1680855566,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 908854,
       "num": 908854,
       "word": "单休相当于一年多上2个月班",
@@ -275,11 +283,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 814192,
+      "num": 285250,
+      "word": "成龙身体已经不能再打封闭了",
+      "onboard_time": 1680857547,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 802419,
       "num": 802419,
       "word": "孙海洋让妻子不要来法庭",
       "onboard_time": 1680843273,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 801761,
+      "num": 801761,
+      "word": "你会为了高工资选择单休吗",
+      "onboard_time": 1680852689,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -289,6 +313,14 @@
       "onboard_time": 1680825809,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 779508,
+      "num": 582852,
+      "word": "网友环球影城偶遇宋轶",
+      "onboard_time": 1680858748,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 759320,
@@ -331,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 729635,
+      "num": 729635,
+      "word": "马克龙为何访问中山大学",
+      "onboard_time": 1680850170,
+      "rank": 26,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 727085,
       "num": 727085,
       "word": "起床后为何不该立马叠被子",
@@ -369,14 +409,6 @@
       "onboard_time": 1680835166,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 642256,
-      "num": 642256,
-      "word": "刘亦菲井柏然新剧或将播出",
-      "onboard_time": 1680855566,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 626406,
@@ -443,12 +475,12 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 557481,
-      "num": 557481,
-      "word": "马克龙为何访问中山大学",
-      "onboard_time": 1680850170,
-      "rank": 26,
-      "category": "国内要闻"
+      "raw_hot": 550603,
+      "num": 550603,
+      "word": "法国总统马克龙到访广州",
+      "onboard_time": 1680856827,
+      "rank": 12,
+      "category": "国内要闻,社会新闻"
     },
     {
       "raw_hot": 547242,
@@ -465,14 +497,6 @@
       "onboard_time": 1680831866,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 526423,
-      "num": 526423,
-      "word": "你会为了高工资选择单休吗",
-      "onboard_time": 1680852689,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 522340,
@@ -563,6 +587,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 432859,
+      "num": 432859,
+      "word": "丫丫",
+      "onboard_time": 1680855510,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 420312,
       "num": 420312,
       "word": "国内新恋综游戏尺度",
@@ -651,6 +683,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 356537,
+      "num": 356537,
+      "word": "孟羽童曾称对直播不特别感兴趣",
+      "onboard_time": 1680856471,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 355419,
       "num": 355419,
       "word": "小花梅近况",
@@ -691,6 +731,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 333613,
+      "num": 283382,
+      "word": "Prada官宣代言人李现",
+      "onboard_time": 1680857610,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 333242,
       "num": 333242,
       "word": "王鹤棣结束桃花坞录制",
@@ -713,6 +761,14 @@
       "onboard_time": 1680841172,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 327125,
+      "num": 293008,
+      "word": "老太地铁求座女子自称孕妇怒怼",
+      "onboard_time": 1680853951,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 326313,
@@ -785,14 +841,6 @@
       "onboard_time": 1680779969,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 309318,
-      "num": 293008,
-      "word": "老太地铁求座女子自称孕妇怒怼",
-      "onboard_time": 1680853951,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 308269,
@@ -883,6 +931,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 281558,
+      "num": 281558,
+      "word": "火锅土豆泥拌粉",
+      "onboard_time": 1680857610,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 279840,
+      "num": 279840,
+      "word": "天蝎座的冷酷其实都是装的",
+      "onboard_time": 1680856108,
+      "rank": 38,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 273033,
       "num": 225986,
       "word": "张小斐蓝裙子直播状态",
@@ -939,14 +1003,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 256998,
-      "num": 256998,
-      "word": "丫丫",
-      "onboard_time": 1680855510,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 256410,
       "num": 256410,
       "word": "谷爱凌微博之夜六连拍",
@@ -985,6 +1041,14 @@
       "onboard_time": 1680836125,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 246166,
+      "num": 246166,
+      "word": "合理请假是工作一部分",
+      "onboard_time": 1680854787,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 246030,
@@ -1027,6 +1091,22 @@
       "category": "幽默,社会新闻"
     },
     {
+      "raw_hot": 241178,
+      "num": 241178,
+      "word": "宋慧乔获视后概率有多大",
+      "onboard_time": 1680858509,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 237380,
+      "num": 237380,
+      "word": "临近生育前都在经历些什么",
+      "onboard_time": 1680857248,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 237356,
       "num": 237356,
       "word": "九尾发博自省",
@@ -1051,6 +1131,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 233710,
+      "num": 233710,
+      "word": "密子君说小强是自己红油里的",
+      "onboard_time": 1680855269,
+      "rank": 36,
+      "category": "网红"
+    },
+    {
       "raw_hot": 233035,
       "num": 487850,
       "word": "上海愚园路一夜变蓝",
@@ -1065,14 +1153,6 @@
       "onboard_time": 1680825509,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 232109,
-      "num": 232109,
-      "word": "合理请假是工作一部分",
-      "onboard_time": 1680854787,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 231831,
@@ -1115,12 +1195,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 225228,
-      "num": 225228,
-      "word": "密子君说小强是自己红油里的",
-      "onboard_time": 1680855269,
-      "rank": 36,
-      "category": "网红"
+      "raw_hot": 226708,
+      "num": 226708,
+      "word": "澹台烬没有喜欢叶冰裳",
+      "onboard_time": 1680857008,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 222341,
@@ -1299,6 +1379,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 202111,
+      "num": 202111,
+      "word": "爱咖啡和爱榴莲的都沉默了",
+      "onboard_time": 1680858209,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 201776,
       "num": 201776,
       "word": "华晨宇演唱会",
@@ -1411,14 +1499,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 193673,
-      "num": 193673,
-      "word": "天蝎座的冷酷其实都是装的",
-      "onboard_time": 1680856108,
-      "rank": 38,
-      "category": "情感,网红"
-    },
-    {
       "raw_hot": 193536,
       "num": 193536,
       "word": "丁程鑫新歌的音色",
@@ -1489,6 +1569,14 @@
       "onboard_time": 1680855149,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 189956,
+      "num": 189956,
+      "word": "何洁唱坏童话",
+      "onboard_time": 1680858090,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 186283,
@@ -1761,6 +1849,14 @@
       "onboard_time": 1680823946,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148833,
+      "num": 148833,
+      "word": "金子涵清唱socliché",
+      "onboard_time": 1680857908,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 148291,
