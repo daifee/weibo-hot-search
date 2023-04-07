@@ -1,0 +1,410 @@
+{
+  "runTime": 1680909363656,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 962639,
+        "num": 962639,
+        "word": "陈某龙故意散布谣言被依法行拘",
+        "onboard_time": 1680872427,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 721746,
+        "num": 721746,
+        "word": "做四休三",
+        "onboard_time": 1680870448,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 15571,
+        "num": 579050,
+        "word": "开局之年共奋进",
+        "onboard_time": 1680876452,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 520036,
+        "num": 520036,
+        "word": "范志毅女儿",
+        "onboard_time": 1680876093,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 330558,
+        "num": 330558,
+        "word": "诈骗网红梅尼耶的MCN被申请破产",
+        "onboard_time": 1680871828,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281639,
+        "num": 281639,
+        "word": "为什么说身体凉命更长",
+        "onboard_time": 1680872551,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201213,
+        "num": 201213,
+        "word": "北京拆迁退出历史舞台",
+        "onboard_time": 1680866729,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191525,
+        "num": 191525,
+        "word": "成龙身体已经不能再打封闭了",
+        "onboard_time": 1680857547,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 181738,
+        "num": 181738,
+        "word": "中法联合声明全文",
+        "onboard_time": 1680875611,
+        "rank": 8,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 174867,
+        "num": 174867,
+        "word": "才知道充电宝可以暂停计费",
+        "onboard_time": 1680878971,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 253241,
+        "num": 174316,
+        "word": "张雨绮手机壳 智者不入爱河",
+        "onboard_time": 1680878671,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189245,
+        "num": 172699,
+        "word": "逼疯苏醒只要一首山歌",
+        "onboard_time": 1680908477,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168148,
+        "num": 168148,
+        "word": "中船获法国超210亿元订单",
+        "onboard_time": 1680892633,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 165467,
+        "num": 165467,
+        "word": "杨紫告别黄瀛子",
+        "onboard_time": 1680878012,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 156629,
+        "num": 156629,
+        "word": "离职是主动辞职好还是被辞退好",
+        "onboard_time": 1680880590,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 148850,
+        "num": 148850,
+        "word": "黑莲花男主",
+        "onboard_time": 1680879512,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 144950,
+        "num": 144950,
+        "word": "买了吃灰的网红小家电",
+        "onboard_time": 1680884723,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122601,
+        "num": 122601,
+        "word": "王安宇欢4这一季没下过床吧",
+        "onboard_time": 1680878130,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 110831,
+        "num": 110831,
+        "word": "长月烬明",
+        "onboard_time": 1680875971,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 109014,
+        "num": 109014,
+        "word": "离职后该怎样退出工作群",
+        "onboard_time": 1680874771,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 106001,
+        "num": 106001,
+        "word": "中方专家抵美探访美香一家",
+        "onboard_time": 1680876991,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100907,
+        "num": 100907,
+        "word": "丰县八孩案件庭审画面",
+        "onboard_time": 1680874111,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93181,
+        "num": 93181,
+        "word": "和马 米卡",
+        "onboard_time": 1680877170,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88779,
+        "num": 88779,
+        "word": "少爷和我问长月烬明好看吗",
+        "onboard_time": 1680871528,
+        "rank": 23,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 83572,
+        "num": 83572,
+        "word": "马小跳妈妈成了宋三川丈母娘",
+        "onboard_time": 1680879397,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 80259,
+        "num": 80259,
+        "word": "法国总统马克龙到访广州",
+        "onboard_time": 1680856827,
+        "rank": 25,
+        "category": "国内要闻,社会新闻"
+      },
+      {
+        "raw_hot": 80026,
+        "num": 80026,
+        "word": "网传加班怼领导聊天记录系捏造",
+        "onboard_time": 1680871950,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76833,
+        "num": 76833,
+        "word": "爱情而已大结局",
+        "onboard_time": 1680870807,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 75353,
+        "num": 75353,
+        "word": "狂飙二创有多离谱",
+        "onboard_time": 1680873869,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 67785,
+        "num": 73264,
+        "word": "邢菲黑色露腰长裙",
+        "onboard_time": 1680877471,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 181346,
+        "num": 73149,
+        "word": "罗云熙瘦脱相",
+        "onboard_time": 1680862171,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 71834,
+        "num": 71834,
+        "word": "冲绳那霸机场 两只石狮子",
+        "onboard_time": 1680908537,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 68833,
+        "num": 68833,
+        "word": "支付宝乱码",
+        "onboard_time": 1680871770,
+        "rank": 32,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 67132,
+        "num": 67132,
+        "word": "肖战和TODS总裁合照",
+        "onboard_time": 1680866369,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62843,
+        "num": 62843,
+        "word": "国产剧疯批人设天花板",
+        "onboard_time": 1680866548,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 58658,
+        "num": 58658,
+        "word": "恋爱中不该说的四句话",
+        "onboard_time": 1680883886,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 58191,
+        "num": 58191,
+        "word": "裳月烬明",
+        "onboard_time": 1680862712,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 57618,
+        "num": 57618,
+        "word": "特斯拉降价",
+        "onboard_time": 1680859588,
+        "rank": 37,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 57350,
+        "num": 57350,
+        "word": "名侦探柯南官方公告",
+        "onboard_time": 1680863248,
+        "rank": 38,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 56067,
+        "num": 56067,
+        "word": "陈都灵演技",
+        "onboard_time": 1680863370,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 54909,
+        "num": 54909,
+        "word": "广州松园",
+        "onboard_time": 1680879813,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52724,
+        "num": 52724,
+        "word": "EXO出道11周年",
+        "onboard_time": 1680878551,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47638,
+        "num": 47638,
+        "word": "韩素希 OMEGA",
+        "onboard_time": 1680880292,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 47410,
+        "num": 47410,
+        "word": "警方通报网传中电科加班事件调查结果",
+        "onboard_time": 1680871828,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46800,
+        "num": 46800,
+        "word": "沈月 湖师大",
+        "onboard_time": 1680862407,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 44883,
+        "num": 44883,
+        "word": "欢乐颂4",
+        "onboard_time": 1680868409,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 44048,
+        "num": 44048,
+        "word": "荒野行动",
+        "onboard_time": 1680883049,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 38381,
+        "num": 38381,
+        "word": "Jennie与Lisa比心照",
+        "onboard_time": 1680869369,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36049,
+        "num": 36049,
+        "word": "JackeyLove观战LPL季后赛",
+        "onboard_time": 1680874950,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 30984,
+        "num": 36041,
+        "word": "AG冲击春决",
+        "onboard_time": 1680875671,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#凝心铸魂向复兴#"
+    }
+  }
+}

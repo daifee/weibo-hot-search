@@ -1,6 +1,6 @@
 {
   "startTime": 1680884526258,
-  "endTime": 1680906798754,
+  "endTime": 1680909363656,
   "band_list": [
     {
       "raw_hot": 1761181,
@@ -195,12 +195,28 @@
       "category": "影视,幽默"
     },
     {
+      "raw_hot": 201213,
+      "num": 201213,
+      "word": "北京拆迁退出历史舞台",
+      "onboard_time": 1680866729,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 193635,
       "num": 155812,
       "word": "爱情而已大结局",
       "onboard_time": 1680870807,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 189245,
+      "num": 172699,
+      "word": "逼疯苏醒只要一首山歌",
+      "onboard_time": 1680908477,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 187486,
@@ -243,6 +259,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 168148,
+      "num": 168148,
+      "word": "中船获法国超210亿元订单",
+      "onboard_time": 1680892633,
+      "rank": 16,
+      "category": "财经"
+    },
+    {
       "raw_hot": 165418,
       "num": 143377,
       "word": "裳月烬明",
@@ -256,14 +280,6 @@
       "word": "警方通报网传中电科加班事件调查结果",
       "onboard_time": 1680871828,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 158389,
-      "num": 158389,
-      "word": "北京拆迁退出历史舞台",
-      "onboard_time": 1680866729,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -379,28 +395,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 100907,
+      "num": 100907,
+      "word": "丰县八孩案件庭审画面",
+      "onboard_time": 1680874111,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 93976,
       "num": 93976,
       "word": "特斯拉降价",
       "onboard_time": 1680859588,
       "rank": 45,
       "category": "科技"
-    },
-    {
-      "raw_hot": 86196,
-      "num": 86196,
-      "word": "中船获法国超210亿元订单",
-      "onboard_time": 1680892633,
-      "rank": 16,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 83130,
-      "num": 93820,
-      "word": "丰县八孩案件庭审画面",
-      "onboard_time": 1680874111,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 72577,
@@ -411,12 +419,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 71834,
+      "num": 71834,
+      "word": "冲绳那霸机场 两只石狮子",
+      "onboard_time": 1680908537,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 64523,
       "num": 90428,
       "word": "蓝基因崩了",
       "onboard_time": 1680879330,
       "rank": 49,
       "category": "科技"
+    },
+    {
+      "raw_hot": 62843,
+      "num": 62843,
+      "word": "国产剧疯批人设天花板",
+      "onboard_time": 1680866548,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 56067,
+      "num": 56067,
+      "word": "陈都灵演技",
+      "onboard_time": 1680863370,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 54914,
@@ -427,6 +459,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 44883,
+      "num": 44883,
+      "word": "欢乐颂4",
+      "onboard_time": 1680868409,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 36967,
       "num": 36967,
       "word": "这兔子真是吃素长大的吗",
@@ -435,8 +475,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 28563,
-      "num": 33160,
+      "raw_hot": 30984,
+      "num": 36041,
       "word": "AG冲击春决",
       "onboard_time": 1680875671,
       "rank": 45,
