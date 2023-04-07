@@ -1,0 +1,410 @@
+{
+  "runTime": 1680873602643,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4350524,
+        "num": 5201049,
+        "word": "警方通报网传中电科加班事件调查结果",
+        "onboard_time": 1680871828,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2388738,
+        "num": 2388738,
+        "word": "做四休三",
+        "onboard_time": 1680870448,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 10238,
+        "num": 1796879,
+        "word": "神十五航天员在轨工作有多忙",
+        "onboard_time": 1680839249,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1771867,
+        "num": 1771867,
+        "word": "陈某龙故意散布谣言被依法行拘",
+        "onboard_time": 1680872427,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1388537,
+        "num": 1388537,
+        "word": "北京拆迁退出历史舞台",
+        "onboard_time": 1680866729,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1086816,
+        "num": 1086816,
+        "word": "诈骗网红梅尼耶的MCN被申请破产",
+        "onboard_time": 1680871828,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 879394,
+        "num": 879394,
+        "word": "成龙身体已经不能再打封闭了",
+        "onboard_time": 1680857547,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 798267,
+        "num": 798267,
+        "word": "网传加班怼领导聊天记录系捏造",
+        "onboard_time": 1680871950,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 605379,
+        "num": 605379,
+        "word": "爱情而已大结局",
+        "onboard_time": 1680870807,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 592174,
+        "num": 592174,
+        "word": "大学男老师让女生穿超短裙跳操引不满",
+        "onboard_time": 1680871289,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 674766,
+        "num": 566335,
+        "word": "生育对女性的伤害有多大",
+        "onboard_time": 1680851008,
+        "rank": 10,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 520863,
+        "num": 520863,
+        "word": "罗云熙发文在线求食谱",
+        "onboard_time": 1680866609,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 473215,
+        "num": 473215,
+        "word": "沈月 湖师大",
+        "onboard_time": 1680862407,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 397236,
+        "num": 397236,
+        "word": "密子君道歉",
+        "onboard_time": 1680853768,
+        "rank": 13,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 365857,
+        "num": 365857,
+        "word": "法国总统马克龙到访广州",
+        "onboard_time": 1680856827,
+        "rank": 14,
+        "category": "国内要闻,社会新闻"
+      },
+      {
+        "raw_hot": 332764,
+        "num": 332764,
+        "word": "肖战和TODS总裁合照",
+        "onboard_time": 1680866369,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 328836,
+        "num": 328836,
+        "word": "裳月烬明",
+        "onboard_time": 1680862712,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 326220,
+        "num": 326220,
+        "word": "草东没有派对",
+        "onboard_time": 1680869551,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 312884,
+        "num": 312884,
+        "word": "特斯拉降价",
+        "onboard_time": 1680859588,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 300065,
+        "num": 300065,
+        "word": "红月",
+        "onboard_time": 1680870507,
+        "rank": 19,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 455095,
+        "num": 290612,
+        "word": "少爷和我问长月烬明好看吗",
+        "onboard_time": 1680871528,
+        "rank": 20,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 274332,
+        "num": 274332,
+        "word": "张栋梁大张伟的组合名叫梁朝伟",
+        "onboard_time": 1680871588,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 269276,
+        "num": 269276,
+        "word": "Jennie与Lisa比心照",
+        "onboard_time": 1680869369,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268783,
+        "num": 268783,
+        "word": "名侦探柯南官方公告",
+        "onboard_time": 1680863248,
+        "rank": 23,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 259723,
+        "num": 259723,
+        "word": "速度与激情10内地定档",
+        "onboard_time": 1680871289,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 251417,
+        "num": 251417,
+        "word": "鹿晗被活蚕蛹吓出山歌",
+        "onboard_time": 1680871107,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241046,
+        "num": 241046,
+        "word": "中山大学",
+        "onboard_time": 1680847827,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238843,
+        "num": 238843,
+        "word": "孙卓被拐卖案择期宣判",
+        "onboard_time": 1680867928,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231472,
+        "num": 231472,
+        "word": "欢乐颂4",
+        "onboard_time": 1680868409,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 231451,
+        "num": 231451,
+        "word": "国产剧疯批人设天花板",
+        "onboard_time": 1680866548,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 996059,
+        "num": 230651,
+        "word": "罗云熙瘦脱相",
+        "onboard_time": 1680862171,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 538206,
+        "num": 230533,
+        "word": "支付宝乱码",
+        "onboard_time": 1680871770,
+        "rank": 31,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 229394,
+        "num": 229394,
+        "word": "大量张继科周边被粉丝甩卖",
+        "onboard_time": 1680853467,
+        "rank": 32,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 223710,
+        "num": 223710,
+        "word": "马克龙为何访问中山大学",
+        "onboard_time": 1680850170,
+        "rank": 33,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 220590,
+        "num": 220590,
+        "word": "刘亦菲井柏然新剧或将播出",
+        "onboard_time": 1680855566,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 212671,
+        "num": 212671,
+        "word": "为什么说身体凉命更长",
+        "onboard_time": 1680872551,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204249,
+        "num": 204249,
+        "word": "孙珍妮荧幕初吻",
+        "onboard_time": 1680866787,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204111,
+        "num": 204111,
+        "word": "Ame 超哥",
+        "onboard_time": 1680869728,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 203202,
+        "num": 203202,
+        "word": "华晨宇演唱会出场方式",
+        "onboard_time": 1680872849,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 193172,
+        "num": 193172,
+        "word": "哈哈哈哈哈",
+        "onboard_time": 1680872668,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176044,
+        "num": 176044,
+        "word": "南烟斋笔录",
+        "onboard_time": 1680861330,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 155224,
+        "num": 155224,
+        "word": "MetGala 蔡徐坤",
+        "onboard_time": 1680863128,
+        "rank": 41,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 153146,
+        "num": 153146,
+        "word": "陈赫范志毅喂摄像吃鲱鱼饺子",
+        "onboard_time": 1680871107,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144187,
+        "num": 144187,
+        "word": "张韶涵寓言巡演四站已售罄",
+        "onboard_time": 1680873452,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 137890,
+        "num": 137890,
+        "word": "DOU5对战ACT",
+        "onboard_time": 1680873028,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 136538,
+        "num": 136538,
+        "word": "马克龙用普通话和粤语说大家好",
+        "onboard_time": 1680861149,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135949,
+        "num": 135949,
+        "word": "神隐杀青大合照",
+        "onboard_time": 1680873568,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 135321,
+        "num": 135321,
+        "word": "汉代文物上写着五星出东方利中国",
+        "onboard_time": 1680865528,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126502,
+        "num": 126502,
+        "word": "天蝎座的冷酷其实都是装的",
+        "onboard_time": 1680856108,
+        "rank": 48,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 77973,
+        "num": 126235,
+        "word": "爱咖啡和爱榴莲的都沉默了",
+        "onboard_time": 1680858209,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#中法欧三方会晤#"
+    }
+  }
+}

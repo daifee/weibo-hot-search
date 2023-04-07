@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680871702666,
+  "endTime": 1680873602643,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -161,6 +161,14 @@
       "onboard_time": 1680592951,
       "rank": 17,
       "category": "科技"
+    },
+    {
+      "raw_hot": 4350524,
+      "num": 5201049,
+      "word": "警方通报网传中电科加班事件调查结果",
+      "onboard_time": 1680871828,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 4265606,
@@ -499,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2388738,
+      "num": 2388738,
+      "word": "做四休三",
+      "onboard_time": 1680870448,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 2369704,
       "num": 502482,
       "word": "景甜曾说司藤救赎了灰色世界的自己",
@@ -809,6 +825,14 @@
       "onboard_time": 1680758132,
       "rank": 46,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1771867,
+      "num": 1771867,
+      "word": "陈某龙故意散布谣言被依法行拘",
+      "onboard_time": 1680872427,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1748439,
@@ -1235,14 +1259,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 1297033,
-      "num": 1297033,
-      "word": "做四休三",
-      "onboard_time": 1680870448,
-      "rank": 23,
-      "category": "情感"
-    },
-    {
       "raw_hot": 1288162,
       "num": 1288162,
       "word": "孟菲斯动物园将为丫丫举办告别派对",
@@ -1561,6 +1577,14 @@
       "onboard_time": 1680575788,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1086816,
+      "num": 1086816,
+      "word": "诈骗网红梅尼耶的MCN被申请破产",
+      "onboard_time": 1680871828,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1083444,
@@ -2273,6 +2297,14 @@
       "onboard_time": 1680593429,
       "rank": 49,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 798267,
+      "num": 798267,
+      "word": "网传加班怼领导聊天记录系捏造",
+      "onboard_time": 1680871950,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 797857,
@@ -3283,6 +3315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 605379,
+      "num": 605379,
+      "word": "爱情而已大结局",
+      "onboard_time": 1680870807,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 602920,
       "num": 455411,
       "word": "知情人称怼领导者为德阳某公司员工",
@@ -3353,6 +3393,14 @@
       "onboard_time": 1680678568,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 592174,
+      "num": 592174,
+      "word": "大学男老师让女生穿超短裙跳操引不满",
+      "onboard_time": 1680871289,
+      "rank": 37,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 591943,
@@ -3737,6 +3785,14 @@
       "onboard_time": 1680320429,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 538206,
+      "num": 230533,
+      "word": "支付宝乱码",
+      "onboard_time": 1680871770,
+      "rank": 31,
+      "category": "科技"
     },
     {
       "raw_hot": 537559,
@@ -4539,6 +4595,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 455095,
+      "num": 290612,
+      "word": "少爷和我问长月烬明好看吗",
+      "onboard_time": 1680871528,
+      "rank": 42,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 454701,
       "num": 454701,
       "word": "中电科称网上的任免文件明显伪造",
@@ -4681,14 +4745,6 @@
       "onboard_time": 1680608191,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 438851,
-      "num": 438851,
-      "word": "爱情而已大结局",
-      "onboard_time": 1680870807,
-      "rank": 6,
-      "category": "影视"
     },
     {
       "raw_hot": 438162,
@@ -7251,6 +7307,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 274332,
+      "num": 274332,
+      "word": "张栋梁大张伟的组合名叫梁朝伟",
+      "onboard_time": 1680871588,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 273498,
       "num": 217942,
       "word": "孟子义能常驻你好星期六吗",
@@ -7427,6 +7491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 269276,
+      "num": 269276,
+      "word": "Jennie与Lisa比心照",
+      "onboard_time": 1680869369,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 268372,
       "num": 204355,
       "word": "专家建议房产税按家庭套数征收",
@@ -7583,6 +7655,14 @@
       "num": 259850,
       "word": "长月烬明灭了吗订单",
       "onboard_time": 1680592710,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 259723,
+      "num": 259723,
+      "word": "速度与激情10内地定档",
+      "onboard_time": 1680871289,
       "rank": 27,
       "category": "影视"
     },
@@ -7827,20 +7907,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 251417,
+      "num": 251417,
+      "word": "鹿晗被活蚕蛹吓出山歌",
+      "onboard_time": 1680871107,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 251234,
       "num": 251234,
       "word": "飞猪机票盲盒活动翻车",
       "onboard_time": 1680495457,
       "rank": 48,
       "category": "科技"
-    },
-    {
-      "raw_hot": 251196,
-      "num": 251196,
-      "word": "Jennie与Lisa比心照",
-      "onboard_time": 1680869369,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 251189,
@@ -8185,14 +8265,6 @@
       "onboard_time": 1680786153,
       "rank": 47,
       "category": "美食,幽默"
-    },
-    {
-      "raw_hot": 238903,
-      "num": 238903,
-      "word": "速度与激情10内地定档",
-      "onboard_time": 1680871289,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 238735,
@@ -9067,14 +9139,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 214845,
-      "num": 202028,
-      "word": "张栋梁大张伟的组合名叫梁朝伟",
-      "onboard_time": 1680871588,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 214772,
       "num": 214772,
       "word": "kpopSolo歌手历代初动排名",
@@ -9177,6 +9241,14 @@
       "onboard_time": 1680510273,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 212671,
+      "num": 212671,
+      "word": "为什么说身体凉命更长",
+      "onboard_time": 1680872551,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 212603,
@@ -9931,6 +10003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203202,
+      "num": 203202,
+      "word": "华晨宇演唱会出场方式",
+      "onboard_time": 1680872849,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 203142,
       "num": 203142,
       "word": "第十三届北京国际电影节主海报",
@@ -10201,14 +10281,6 @@
       "onboard_time": 1680477501,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 201208,
-      "num": 201208,
-      "word": "少爷和我问长月烬明好看吗",
-      "onboard_time": 1680871528,
-      "rank": 42,
-      "category": "影视,幽默"
     },
     {
       "raw_hot": 201174,
@@ -10985,6 +11057,14 @@
       "onboard_time": 1680591507,
       "rank": 32,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 193172,
+      "num": 193172,
+      "word": "哈哈哈哈哈",
+      "onboard_time": 1680872668,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 193127,
@@ -11913,14 +11993,6 @@
       "onboard_time": 1680535474,
       "rank": 36,
       "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 181885,
-      "num": 181885,
-      "word": "鹿晗被活蚕蛹吓出山歌",
-      "onboard_time": 1680871107,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 181622,
@@ -13187,14 +13259,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 157033,
-      "num": 202022,
-      "word": "大学男老师让女生穿超短裙跳操引不满",
-      "onboard_time": 1680871289,
-      "rank": 37,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 156286,
       "num": 156286,
       "word": "洛阳街头牡丹花开正艳",
@@ -13859,6 +13923,14 @@
       "category": "影视,时尚"
     },
     {
+      "raw_hot": 144187,
+      "num": 144187,
+      "word": "张韶涵寓言巡演四站已售罄",
+      "onboard_time": 1680873452,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 144027,
       "num": 144027,
       "word": "灿烂的转身爽点",
@@ -14099,6 +14171,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 137890,
+      "num": 137890,
+      "word": "DOU5对战ACT",
+      "onboard_time": 1680873028,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 137028,
       "num": 137028,
       "word": "贺三唱最食人间烟火色主题曲",
@@ -14208,6 +14288,14 @@
       "word": "宋三川按头亲吻梁友安",
       "onboard_time": 1680653303,
       "rank": 29,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 135949,
+      "num": 135949,
+      "word": "神隐杀青大合照",
+      "onboard_time": 1680873568,
+      "rank": 46,
       "category": "影视"
     },
     {

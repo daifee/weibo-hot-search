@@ -1,6 +1,6 @@
 {
   "startTime": 1680798149468,
-  "endTime": 1680871702666,
+  "endTime": 1680873602643,
   "band_list": [
     {
       "raw_hot": 7516988,
@@ -8,6 +8,14 @@
       "word": "丰县八孩案一审宣判",
       "onboard_time": 1680840993,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 4350524,
+      "num": 5201049,
+      "word": "警方通报网传中电科加班事件调查结果",
+      "onboard_time": 1680871828,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -67,6 +75,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 2388738,
+      "num": 2388738,
+      "word": "做四休三",
+      "onboard_time": 1680870448,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 2284246,
       "num": 1849860,
       "word": "罗云熙瘦脱相",
@@ -112,6 +128,14 @@
       "word": "孙海洋女儿呼吁取消拐骗罪",
       "onboard_time": 1680837268,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1771867,
+      "num": 1771867,
+      "word": "陈某龙故意散布谣言被依法行拘",
+      "onboard_time": 1680872427,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -195,14 +219,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 1297033,
-      "num": 1297033,
-      "word": "做四休三",
-      "onboard_time": 1680870448,
-      "rank": 23,
-      "category": "情感"
-    },
-    {
       "raw_hot": 1289711,
       "num": 1289711,
       "word": "润玉时期多好看",
@@ -265,6 +281,14 @@
       "onboard_time": 1680836186,
       "rank": 3,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1086816,
+      "num": 1086816,
+      "word": "诈骗网红梅尼耶的MCN被申请破产",
+      "onboard_time": 1680871828,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1024576,
@@ -368,6 +392,14 @@
       "word": "你会为了高工资选择单休吗",
       "onboard_time": 1680852689,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 798267,
+      "num": 798267,
+      "word": "网传加班怼领导聊天记录系捏造",
+      "onboard_time": 1680871950,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -523,12 +555,28 @@
       "category": "影视,艺人"
     },
     {
+      "raw_hot": 605379,
+      "num": 605379,
+      "word": "爱情而已大结局",
+      "onboard_time": 1680870807,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 602920,
       "num": 455411,
       "word": "知情人称怼领导者为德阳某公司员工",
       "onboard_time": 1680825389,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 592174,
+      "num": 592174,
+      "word": "大学男老师让女生穿超短裙跳操引不满",
+      "onboard_time": 1680871289,
+      "rank": 37,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 585120,
@@ -585,6 +633,14 @@
       "onboard_time": 1680829709,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 538206,
+      "num": 230533,
+      "word": "支付宝乱码",
+      "onboard_time": 1680871770,
+      "rank": 31,
+      "category": "科技"
     },
     {
       "raw_hot": 528233,
@@ -683,6 +739,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 455095,
+      "num": 290612,
+      "word": "少爷和我问长月烬明好看吗",
+      "onboard_time": 1680871528,
+      "rank": 42,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 451470,
       "num": 451470,
       "word": "丫丫",
@@ -704,14 +768,6 @@
       "word": "张新成孙千这么多年提档",
       "onboard_time": 1680837204,
       "rank": 36,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 438851,
-      "num": 438851,
-      "word": "爱情而已大结局",
-      "onboard_time": 1680870807,
-      "rank": 6,
       "category": "影视"
     },
     {
@@ -1211,12 +1267,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 274332,
+      "num": 274332,
+      "word": "张栋梁大张伟的组合名叫梁朝伟",
+      "onboard_time": 1680871588,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 273033,
       "num": 225986,
       "word": "张小斐蓝裙子直播状态",
       "onboard_time": 1680792933,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 269276,
+      "num": 269276,
+      "word": "Jennie与Lisa比心照",
+      "onboard_time": 1680869369,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 269094,
@@ -1267,6 +1339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 259723,
+      "num": 259723,
+      "word": "速度与激情10内地定档",
+      "onboard_time": 1680871289,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 257836,
       "num": 257836,
       "word": "重庆姐弟坠亡案",
@@ -1299,12 +1379,12 @@
       "category": "音乐,游戏"
     },
     {
-      "raw_hot": 251196,
-      "num": 251196,
-      "word": "Jennie与Lisa比心照",
-      "onboard_time": 1680869369,
-      "rank": 31,
-      "category": "艺人"
+      "raw_hot": 251417,
+      "num": 251417,
+      "word": "鹿晗被活蚕蛹吓出山歌",
+      "onboard_time": 1680871107,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 250596,
@@ -1384,14 +1464,6 @@
       "word": "欢乐颂4",
       "onboard_time": 1680868409,
       "rank": 35,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 238903,
-      "num": 238903,
-      "word": "速度与激情10内地定档",
-      "onboard_time": 1680871289,
-      "rank": 27,
       "category": "影视"
     },
     {
@@ -1563,14 +1635,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 214845,
-      "num": 202028,
-      "word": "张栋梁大张伟的组合名叫梁朝伟",
-      "onboard_time": 1680871588,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 214772,
       "num": 214772,
       "word": "kpopSolo歌手历代初动排名",
@@ -1593,6 +1657,14 @@
       "onboard_time": 1680855867,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 212671,
+      "num": 212671,
+      "word": "为什么说身体凉命更长",
+      "onboard_time": 1680872551,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 212018,
@@ -1715,6 +1787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203202,
+      "num": 203202,
+      "word": "华晨宇演唱会出场方式",
+      "onboard_time": 1680872849,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 202828,
       "num": 202828,
       "word": "职业规划对大学生有多重要",
@@ -1753,14 +1833,6 @@
       "onboard_time": 1680831446,
       "rank": 28,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 201208,
-      "num": 201208,
-      "word": "少爷和我问长月烬明好看吗",
-      "onboard_time": 1680871528,
-      "rank": 42,
-      "category": "影视,幽默"
     },
     {
       "raw_hot": 201005,
@@ -1947,6 +2019,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 193172,
+      "num": 193172,
+      "word": "哈哈哈哈哈",
+      "onboard_time": 1680872668,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192811,
       "num": 192811,
       "word": "欧盟委员会主席访华",
@@ -2097,14 +2177,6 @@
       "onboard_time": 1680847168,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 181885,
-      "num": 181885,
-      "word": "鹿晗被活蚕蛹吓出山歌",
-      "onboard_time": 1680871107,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 181582,
@@ -2299,14 +2371,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 157033,
-      "num": 202022,
-      "word": "大学男老师让女生穿超短裙跳操引不满",
-      "onboard_time": 1680871289,
-      "rank": 37,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 156531,
       "num": 149852,
       "word": "爱情而已",
@@ -2395,6 +2459,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 144187,
+      "num": 144187,
+      "word": "张韶涵寓言巡演四站已售罄",
+      "onboard_time": 1680873452,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 142649,
       "num": 142649,
       "word": "鹿晗 广海",
@@ -2419,6 +2491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 137890,
+      "num": 137890,
+      "word": "DOU5对战ACT",
+      "onboard_time": 1680873028,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 136587,
       "num": 136587,
       "word": "高加林刘巧珍爱情变亲情",
@@ -2433,6 +2513,14 @@
       "onboard_time": 1680783752,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 135949,
+      "num": 135949,
+      "word": "神隐杀青大合照",
+      "onboard_time": 1680873568,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 135607,
