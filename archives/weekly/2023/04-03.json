@@ -1,6 +1,6 @@
 {
   "startTime": 1680452464197,
-  "endTime": 1680870728417,
+  "endTime": 1680871702666,
   "band_list": [
     {
       "raw_hot": 9506486,
@@ -571,6 +571,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1971863,
+      "num": 1971863,
+      "word": "北京拆迁退出历史舞台",
+      "onboard_time": 1680866729,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1967556,
       "num": 1967556,
       "word": "以后能不能每个周三都放假",
@@ -697,14 +705,6 @@
       "onboard_time": 1680411988,
       "rank": 21,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 1704141,
-      "num": 1704141,
-      "word": "北京拆迁退出历史舞台",
-      "onboard_time": 1680866729,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1681764,
@@ -1057,6 +1057,14 @@
       "onboard_time": 1680603930,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1297033,
+      "num": 1297033,
+      "word": "做四休三",
+      "onboard_time": 1680870448,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 1288162,
@@ -1771,6 +1779,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 822308,
+      "num": 789365,
+      "word": "生育对女性的伤害有多大",
+      "onboard_time": 1680851008,
+      "rank": 24,
+      "category": "其它"
+    },
+    {
       "raw_hot": 816279,
       "num": 816279,
       "word": "樊振东",
@@ -1865,14 +1881,6 @@
       "onboard_time": 1680605249,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 789365,
-      "num": 789365,
-      "word": "生育对女性的伤害有多大",
-      "onboard_time": 1680851008,
-      "rank": 24,
-      "category": "其它"
     },
     {
       "raw_hot": 784002,
@@ -3643,6 +3651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 438851,
+      "num": 438851,
+      "word": "爱情而已大结局",
+      "onboard_time": 1680870807,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 438162,
       "num": 438162,
       "word": "吴尊友谈戴口罩",
@@ -3657,6 +3673,14 @@
       "onboard_time": 1680504209,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 437352,
+      "num": 437352,
+      "word": "草东没有派对",
+      "onboard_time": 1680869551,
+      "rank": 13,
+      "category": "音乐"
     },
     {
       "raw_hot": 436949,
@@ -4331,14 +4355,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 364025,
-      "num": 364025,
-      "word": "草东没有派对",
-      "onboard_time": 1680869551,
-      "rank": 13,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 363085,
       "num": 378054,
       "word": "下班该不该回领导信息",
@@ -4449,6 +4465,14 @@
       "onboard_time": 1680526956,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 352991,
+      "num": 352991,
+      "word": "红月",
+      "onboard_time": 1680870507,
+      "rank": 24,
+      "category": "自然"
     },
     {
       "raw_hot": 352620,
@@ -4595,19 +4619,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 342347,
+      "num": 342347,
+      "word": "孙珍妮荧幕初吻",
+      "onboard_time": 1680866787,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 342078,
       "num": 342078,
       "word": "长月烬明血鸦宴",
       "onboard_time": 1680832646,
       "rank": 21,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 341759,
-      "num": 341759,
-      "word": "孙珍妮荧幕初吻",
-      "onboard_time": 1680866787,
-      "rank": 35,
       "category": "影视"
     },
     {
@@ -5060,7 +5084,7 @@
     },
     {
       "raw_hot": 302056,
-      "num": 278388,
+      "num": 294832,
       "word": "国产剧疯批人设天花板",
       "onboard_time": 1680866548,
       "rank": 37,
@@ -6011,6 +6035,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 251196,
+      "num": 251196,
+      "word": "Jennie与Lisa比心照",
+      "onboard_time": 1680869369,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 251189,
       "num": 251189,
       "word": "来活了兄弟",
@@ -6028,7 +6060,7 @@
     },
     {
       "raw_hot": 250596,
-      "num": 194242,
+      "num": 201956,
       "word": "北大心理专家评爱情而已",
       "onboard_time": 1680869247,
       "rank": 25,
@@ -6203,12 +6235,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 239462,
+      "num": 239462,
+      "word": "欢乐颂4",
+      "onboard_time": 1680868409,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 239434,
       "num": 239434,
       "word": "大家去长沙不会都是为了吃吧",
       "onboard_time": 1680786153,
       "rank": 47,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 238903,
+      "num": 238903,
+      "word": "速度与激情10内地定档",
+      "onboard_time": 1680871289,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 238735,
@@ -6603,6 +6651,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 223858,
+      "num": 245004,
+      "word": "Ame 超哥",
+      "onboard_time": 1680869728,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 223442,
       "num": 223442,
       "word": "10省区将出现大到暴雨",
@@ -6771,14 +6827,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 218292,
-      "num": 175973,
-      "word": "Ame 超哥",
-      "onboard_time": 1680869728,
-      "rank": 30,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 218283,
       "num": 218283,
       "word": "Rookie",
@@ -6809,6 +6857,14 @@
       "onboard_time": 1680681268,
       "rank": 36,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 217634,
+      "num": 202043,
+      "word": "FreeOut厂牌CypherMV上线",
+      "onboard_time": 1680871289,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 217436,
@@ -6851,14 +6907,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 216025,
-      "num": 171865,
-      "word": "Jennie与Lisa比心照",
-      "onboard_time": 1680869369,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 215261,
       "num": 206080,
       "word": "时尚先生编辑说肖战有人情味",
@@ -6881,6 +6929,14 @@
       "onboard_time": 1680496236,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 214845,
+      "num": 202028,
+      "word": "张栋梁大张伟的组合名叫梁朝伟",
+      "onboard_time": 1680871588,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 214772,
@@ -7129,14 +7185,6 @@
       "onboard_time": 1680602909,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 208668,
-      "num": 208668,
-      "word": "做四休三",
-      "onboard_time": 1680870448,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 208549,
@@ -7675,6 +7723,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 202100,
+      "num": 202100,
+      "word": "新冠险理赔胜诉第一案",
+      "onboard_time": 1680869608,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201944,
+      "num": 201944,
+      "word": "陈赫范志毅喂摄像吃鲱鱼饺子",
+      "onboard_time": 1680871107,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201842,
       "num": 201842,
       "word": "潮音乐嘉年华阵容",
@@ -7729,6 +7793,14 @@
       "onboard_time": 1680477501,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 201208,
+      "num": 201208,
+      "word": "少爷和我问长月烬明好看吗",
+      "onboard_time": 1680871528,
+      "rank": 42,
+      "category": "影视,幽默"
     },
     {
       "raw_hot": 201174,
@@ -7851,14 +7923,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 199584,
-      "num": 199584,
-      "word": "红月",
-      "onboard_time": 1680870507,
-      "rank": 24,
-      "category": "自然"
-    },
-    {
       "raw_hot": 199560,
       "num": 199560,
       "word": "追诉期",
@@ -7913,14 +7977,6 @@
       "onboard_time": 1680831206,
       "rank": 46,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 199000,
-      "num": 156577,
-      "word": "欢乐颂4",
-      "onboard_time": 1680868409,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 198998,
@@ -8627,14 +8683,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 187949,
-      "num": 187949,
-      "word": "新冠险理赔胜诉第一案",
-      "onboard_time": 1680869608,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 187713,
       "num": 187713,
       "word": "清明节的思念",
@@ -8985,6 +9033,14 @@
       "onboard_time": 1680535474,
       "rank": 36,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 181885,
+      "num": 181885,
+      "word": "鹿晗被活蚕蛹吓出山歌",
+      "onboard_time": 1680871107,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 181429,
@@ -9857,6 +9913,14 @@
       "onboard_time": 1680512012,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 157033,
+      "num": 202022,
+      "word": "大学男老师让女生穿超短裙跳操引不满",
+      "onboard_time": 1680871289,
+      "rank": 37,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 155779,
