@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680858976160,
+  "endTime": 1680860014045,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -2115,6 +2115,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 824080,
+      "num": 582852,
+      "word": "网友环球影城偶遇宋轶",
+      "onboard_time": 1680858748,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 822431,
       "num": 636625,
       "word": "南柱赫寸头",
@@ -2140,7 +2148,7 @@
     },
     {
       "raw_hot": 814192,
-      "num": 285250,
+      "num": 319636,
       "word": "成龙身体已经不能再打封闭了",
       "onboard_time": 1680857547,
       "rank": 20,
@@ -2265,14 +2273,6 @@
       "onboard_time": 1680782971,
       "rank": 8,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 779508,
-      "num": 582852,
-      "word": "网友环球影城偶遇宋轶",
-      "onboard_time": 1680858748,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 779318,
@@ -3371,6 +3371,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 572390,
+      "num": 572390,
+      "word": "法国总统马克龙到访广州",
+      "onboard_time": 1680856827,
+      "rank": 12,
+      "category": "国内要闻,社会新闻"
+    },
+    {
       "raw_hot": 570887,
       "num": 570887,
       "word": "欢乐颂4今晚开播",
@@ -3505,14 +3513,6 @@
       "onboard_time": 1680699213,
       "rank": 14,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 550603,
-      "num": 550603,
-      "word": "法国总统马克龙到访广州",
-      "onboard_time": 1680856827,
-      "rank": 12,
-      "category": "国内要闻,社会新闻"
     },
     {
       "raw_hot": 547973,
@@ -5451,6 +5451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 362121,
+      "num": 317560,
+      "word": "Prada官宣代言人李现",
+      "onboard_time": 1680857610,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 361991,
       "num": 361991,
       "word": "制片人辟谣高叶退出青春环游记",
@@ -5843,6 +5851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 337397,
+      "num": 337397,
+      "word": "TF家族三代演唱会官宣",
+      "onboard_time": 1680859227,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 334380,
       "num": 292978,
       "word": "时代少年团的愚人节vlog",
@@ -5872,14 +5888,6 @@
       "word": "费曼发歌名怀念张国荣",
       "onboard_time": 1680321091,
       "rank": 15,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 333613,
-      "num": 283382,
-      "word": "Prada官宣代言人李现",
-      "onboard_time": 1680857610,
-      "rank": 22,
       "category": "艺人"
     },
     {
@@ -6227,6 +6235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 314568,
+      "num": 314568,
+      "word": "火锅土豆泥拌粉",
+      "onboard_time": 1680857610,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
       "raw_hot": 313891,
       "num": 313891,
       "word": "电影无名网播定档",
@@ -6313,6 +6329,14 @@
       "onboard_time": 1680691830,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 306143,
+      "num": 306143,
+      "word": "天蝎座的冷酷其实都是装的",
+      "onboard_time": 1680856108,
+      "rank": 38,
+      "category": "情感,网红"
     },
     {
       "raw_hot": 305906,
@@ -6595,6 +6619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 290697,
+      "num": 290697,
+      "word": "爱咖啡和爱榴莲的都沉默了",
+      "onboard_time": 1680858209,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 290161,
       "num": 290161,
       "word": "邓超陈赫范志毅吃活生蚝",
@@ -6779,20 +6811,20 @@
       "category": "作品衍生,幽默"
     },
     {
+      "raw_hot": 282545,
+      "num": 282545,
+      "word": "宋慧乔获视后概率有多大",
+      "onboard_time": 1680858509,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 282068,
       "num": 282068,
       "word": "Elk真想去亚运会",
       "onboard_time": 1680697053,
       "rank": 28,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 281558,
-      "num": 281558,
-      "word": "火锅土豆泥拌粉",
-      "onboard_time": 1680857610,
-      "rank": 24,
-      "category": "美食"
     },
     {
       "raw_hot": 281276,
@@ -6873,14 +6905,6 @@
       "onboard_time": 1680663269,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 279840,
-      "num": 279840,
-      "word": "天蝎座的冷酷其实都是装的",
-      "onboard_time": 1680856108,
-      "rank": 38,
-      "category": "情感,网红"
     },
     {
       "raw_hot": 279640,
@@ -6977,6 +7001,14 @@
       "onboard_time": 1680354028,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 274538,
+      "num": 274538,
+      "word": "临近生育前都在经历些什么",
+      "onboard_time": 1680857248,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 274335,
@@ -7201,6 +7233,14 @@
       "onboard_time": 1680522573,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 264295,
+      "num": 264295,
+      "word": "澹台烬没有喜欢叶冰裳",
+      "onboard_time": 1680857008,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 263884,
@@ -7819,14 +7859,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 241178,
-      "num": 241178,
-      "word": "宋慧乔获视后概率有多大",
-      "onboard_time": 1680858509,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 241175,
       "num": 241175,
       "word": "不要反复回味不愉快的事",
@@ -7937,14 +7969,6 @@
       "onboard_time": 1680605551,
       "rank": 27,
       "category": "艺人,综艺"
-    },
-    {
-      "raw_hot": 237380,
-      "num": 237380,
-      "word": "临近生育前都在经历些什么",
-      "onboard_time": 1680857248,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 237360,
@@ -8283,14 +8307,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 226708,
-      "num": 226708,
-      "word": "澹台烬没有喜欢叶冰裳",
-      "onboard_time": 1680857008,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 226590,
       "num": 226590,
       "word": "光与夜之恋查理苏",
@@ -8497,6 +8513,14 @@
       "onboard_time": 1680361170,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 220445,
+      "num": 220445,
+      "word": "无花果鸡汤煲",
+      "onboard_time": 1680859527,
+      "rank": 32,
+      "category": "美食"
     },
     {
       "raw_hot": 220152,
@@ -9155,6 +9179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 207498,
+      "num": 207498,
+      "word": "特斯拉降价",
+      "onboard_time": 1680859588,
+      "rank": 36,
+      "category": "科技"
+    },
+    {
       "raw_hot": 207439,
       "num": 207439,
       "word": "董志民获刑9年",
@@ -9185,6 +9217,14 @@
       "onboard_time": 1680264147,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207166,
+      "num": 207166,
+      "word": "李马克solo新歌MV上线",
+      "onboard_time": 1680859469,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 207086,
@@ -9563,6 +9603,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 203361,
+      "num": 203361,
+      "word": "日本东京偶遇吴彦祖",
+      "onboard_time": 1680859469,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203319,
       "num": 203319,
       "word": "一诺伽罗四连超凡",
@@ -9649,6 +9697,14 @@
       "onboard_time": 1680665429,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202828,
+      "num": 202828,
+      "word": "职业规划对大学生有多重要",
+      "onboard_time": 1680859527,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 202768,
@@ -9745,14 +9801,6 @@
       "onboard_time": 1680493956,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 202111,
-      "num": 202111,
-      "word": "爱咖啡和爱榴莲的都沉默了",
-      "onboard_time": 1680858209,
-      "rank": 36,
-      "category": "美食"
     },
     {
       "raw_hot": 202004,
@@ -10379,6 +10427,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 195295,
+      "num": 195295,
+      "word": "芝士番茄焗意面",
+      "onboard_time": 1680859227,
+      "rank": 41,
+      "category": "美食"
+    },
+    {
       "raw_hot": 195264,
       "num": 195264,
       "word": "英超联赛",
@@ -10955,6 +11011,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 189043,
+      "num": 189043,
+      "word": "时代少年团团综主题曲MV上线",
+      "onboard_time": 1680859887,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 189042,
       "num": 189042,
       "word": "铃芽之旅成清明档票房冠军",
@@ -11163,11 +11227,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 186206,
+      "num": 186206,
+      "word": "特斯拉员工被曝分享车主隐私画面",
+      "onboard_time": 1680859708,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 186136,
       "num": 186136,
       "word": "闵玧其先行曲MV",
       "onboard_time": 1680841411,
       "rank": 40,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 186007,
+      "num": 191052,
+      "word": "李宇春新专辑周末愉快封面",
+      "onboard_time": 1680859708,
+      "rank": 42,
       "category": "音乐"
     },
     {
