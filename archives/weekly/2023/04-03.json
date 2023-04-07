@@ -1,6 +1,6 @@
 {
   "startTime": 1680452464197,
-  "endTime": 1680876902304,
+  "endTime": 1680878018393,
   "band_list": [
     {
       "raw_hot": 9506486,
@@ -627,6 +627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1896795,
+      "num": 1896795,
+      "word": "中法联合声明全文",
+      "onboard_time": 1680875611,
+      "rank": 5,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 1883278,
       "num": 1883278,
       "word": "张元英姐姐出道",
@@ -835,6 +843,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1577630,
+      "num": 1577630,
+      "word": "范志毅女儿",
+      "onboard_time": 1680876093,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1573959,
       "num": 1573959,
       "word": "你想要双休还是凑小长假",
@@ -865,6 +881,14 @@
       "onboard_time": 1680836186,
       "rank": 1,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1551740,
+      "num": 1551740,
+      "word": "诈骗网红梅尼耶的MCN被申请破产",
+      "onboard_time": 1680871828,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1551372,
@@ -921,14 +945,6 @@
       "onboard_time": 1680844292,
       "rank": 46,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 1500165,
-      "num": 1500165,
-      "word": "诈骗网红梅尼耶的MCN被申请破产",
-      "onboard_time": 1680871828,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1498158,
@@ -1329,14 +1345,6 @@
       "onboard_time": 1680836186,
       "rank": 3,
       "category": "科技"
-    },
-    {
-      "raw_hot": 1092180,
-      "num": 1092180,
-      "word": "中法联合声明全文",
-      "onboard_time": 1680875611,
-      "rank": 5,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 1088442,
@@ -2443,14 +2451,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 663064,
-      "num": 562194,
-      "word": "范志毅女儿",
-      "onboard_time": 1680876093,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 660734,
       "num": 660734,
       "word": "重庆坠亡姐弟生母清明节祭奠孩子",
@@ -2472,6 +2472,14 @@
       "word": "果然娱乐CEO让鹭卓法院见",
       "onboard_time": 1680671790,
       "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 654144,
+      "num": 592378,
+      "word": "和马 米卡",
+      "onboard_time": 1680877170,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -2513,6 +2521,14 @@
       "onboard_time": 1680860128,
       "rank": 8,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 647263,
+      "num": 647263,
+      "word": "狂飙二创有多离谱",
+      "onboard_time": 1680873869,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 645823,
@@ -2689,14 +2705,6 @@
       "onboard_time": 1680591988,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 618614,
-      "num": 618614,
-      "word": "狂飙二创有多离谱",
-      "onboard_time": 1680873869,
-      "rank": 34,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 612597,
@@ -3652,7 +3660,7 @@
     },
     {
       "raw_hot": 455095,
-      "num": 290612,
+      "num": 290958,
       "word": "少爷和我问长月烬明好看吗",
       "onboard_time": 1680871528,
       "rank": 42,
@@ -4553,6 +4561,14 @@
       "onboard_time": 1680526956,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 354177,
+      "num": 354177,
+      "word": "井胧 中传",
+      "onboard_time": 1680876153,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 352991,
@@ -5899,6 +5915,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 262862,
+      "num": 262862,
+      "word": "离职后该怎样退出工作群",
+      "onboard_time": 1680874771,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 262004,
       "num": 262004,
       "word": "陈晓连播两部剧",
@@ -6465,14 +6489,6 @@
       "onboard_time": 1680839067,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 236384,
-      "num": 204183,
-      "word": "井胧 中传",
-      "onboard_time": 1680876153,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 235691,
@@ -7971,6 +7987,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 201083,
+      "num": 201083,
+      "word": "邢菲黑色露腰长裙",
+      "onboard_time": 1680877471,
+      "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 201032,
       "num": 195093,
       "word": "魏如萱周菲戈唱再见我的爱人",
@@ -8193,6 +8217,22 @@
       "onboard_time": 1680682171,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 197964,
+      "num": 182546,
+      "word": "白鹿学舞",
+      "onboard_time": 1680877712,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 197775,
+      "num": 173548,
+      "word": "童瑶谈女演员花期短",
+      "onboard_time": 1680877712,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 197416,
@@ -8835,6 +8875,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 188386,
+      "num": 168870,
+      "word": "澹台烬的烬言烬语",
+      "onboard_time": 1680877411,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 188334,
       "num": 188334,
       "word": "种地吧",
@@ -8857,6 +8905,14 @@
       "onboard_time": 1680519453,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 187970,
+      "num": 187970,
+      "word": "中方专家抵美探访美香一家",
+      "onboard_time": 1680876991,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 187713,
@@ -9105,6 +9161,14 @@
       "onboard_time": 1680834505,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 184053,
+      "num": 161377,
+      "word": "INTO1海外演出收官",
+      "onboard_time": 1680876930,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 183917,
@@ -10691,6 +10755,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 138101,
+      "num": 138101,
+      "word": "李沁说活得漂亮比生得漂亮更重要",
+      "onboard_time": 1680877892,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 138098,
       "num": 138098,
       "word": "南北清明习俗差异有多大",
@@ -11283,14 +11355,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 110922,
-      "num": 153977,
-      "word": "离职后该怎样退出工作群",
-      "onboard_time": 1680874771,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 110740,
       "num": 396814,
       "word": "仅退款是维护消费者权益",
@@ -11843,6 +11907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 21624,
+      "num": 1967170,
+      "word": "开局之年共奋进",
+      "onboard_time": 1680876452,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 20198,
       "num": 24302,
       "word": "你遇到过哪些不当倡议",
@@ -11873,14 +11945,6 @@
       "onboard_time": 1680636792,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 13414,
-      "num": 1926598,
-      "word": "开局之年共奋进",
-      "onboard_time": 1680876452,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

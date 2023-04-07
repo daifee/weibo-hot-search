@@ -1,0 +1,410 @@
+{
+  "runTime": 1680878018393,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2685366,
+        "num": 2685366,
+        "word": "做四休三",
+        "onboard_time": 1680870448,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 2078940,
+        "num": 2078940,
+        "word": "警方通报网传中电科加班事件调查结果",
+        "onboard_time": 1680871828,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21624,
+        "num": 1967170,
+        "word": "开局之年共奋进",
+        "onboard_time": 1680876452,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1896795,
+        "num": 1896795,
+        "word": "中法联合声明全文",
+        "onboard_time": 1680875611,
+        "rank": 3,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1577630,
+        "num": 1577630,
+        "word": "范志毅女儿",
+        "onboard_time": 1680876093,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1551740,
+        "num": 1551740,
+        "word": "诈骗网红梅尼耶的MCN被申请破产",
+        "onboard_time": 1680871828,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1199448,
+        "num": 1199448,
+        "word": "陈某龙故意散布谣言被依法行拘",
+        "onboard_time": 1680872427,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 798582,
+        "num": 798582,
+        "word": "为什么说身体凉命更长",
+        "onboard_time": 1680872551,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 647263,
+        "num": 647263,
+        "word": "狂飙二创有多离谱",
+        "onboard_time": 1680873869,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 627057,
+        "num": 627057,
+        "word": "成龙身体已经不能再打封闭了",
+        "onboard_time": 1680857547,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 654144,
+        "num": 592378,
+        "word": "和马 米卡",
+        "onboard_time": 1680877170,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 517338,
+        "num": 517338,
+        "word": "北京拆迁退出历史舞台",
+        "onboard_time": 1680866729,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 492209,
+        "num": 492209,
+        "word": "沈月 湖师大",
+        "onboard_time": 1680862407,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 459390,
+        "num": 459390,
+        "word": "长月烬明",
+        "onboard_time": 1680875971,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 366019,
+        "num": 366019,
+        "word": "爱情而已大结局",
+        "onboard_time": 1680870807,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 365494,
+        "num": 365494,
+        "word": "网传加班怼领导聊天记录系捏造",
+        "onboard_time": 1680871950,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354177,
+        "num": 354177,
+        "word": "井胧 中传",
+        "onboard_time": 1680876153,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 345339,
+        "num": 345339,
+        "word": "法国总统马克龙到访广州",
+        "onboard_time": 1680856827,
+        "rank": 17,
+        "category": "国内要闻,社会新闻"
+      },
+      {
+        "raw_hot": 317410,
+        "num": 317410,
+        "word": "奔跑吧",
+        "onboard_time": 1680874650,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 294746,
+        "num": 294746,
+        "word": "罗云熙发文在线求食谱",
+        "onboard_time": 1680866609,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 771900,
+        "num": 293055,
+        "word": "大学男老师让女生穿超短裙跳操引不满",
+        "onboard_time": 1680871289,
+        "rank": 20,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 304858,
+        "num": 290958,
+        "word": "少爷和我问长月烬明好看吗",
+        "onboard_time": 1680871528,
+        "rank": 21,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 287652,
+        "num": 287652,
+        "word": "JackeyLove观战LPL季后赛",
+        "onboard_time": 1680874950,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 262862,
+        "num": 262862,
+        "word": "离职后该怎样退出工作群",
+        "onboard_time": 1680874771,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 246613,
+        "num": 246613,
+        "word": "裳月烬明",
+        "onboard_time": 1680862712,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 237510,
+        "num": 237510,
+        "word": "肖战和TODS总裁合照",
+        "onboard_time": 1680866369,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229040,
+        "num": 229040,
+        "word": "名侦探柯南官方公告",
+        "onboard_time": 1680863248,
+        "rank": 26,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 201083,
+        "num": 201083,
+        "word": "邢菲黑色露腰长裙",
+        "onboard_time": 1680877471,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 195478,
+        "num": 195478,
+        "word": "特斯拉降价",
+        "onboard_time": 1680859588,
+        "rank": 28,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 187970,
+        "num": 187970,
+        "word": "中方专家抵美探访美香一家",
+        "onboard_time": 1680876991,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 867036,
+        "num": 185917,
+        "word": "罗云熙瘦脱相",
+        "onboard_time": 1680862171,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 327075,
+        "num": 185888,
+        "word": "支付宝乱码",
+        "onboard_time": 1680871770,
+        "rank": 31,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 219953,
+        "num": 185534,
+        "word": "密子君道歉",
+        "onboard_time": 1680853768,
+        "rank": 32,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 182791,
+        "num": 182791,
+        "word": "丰县八孩案件庭审画面",
+        "onboard_time": 1680874111,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197964,
+        "num": 182546,
+        "word": "白鹿学舞",
+        "onboard_time": 1680877712,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194253,
+        "num": 175263,
+        "word": "国产剧疯批人设天花板",
+        "onboard_time": 1680866548,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 197775,
+        "num": 173548,
+        "word": "童瑶谈女演员花期短",
+        "onboard_time": 1680877712,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 188386,
+        "num": 168870,
+        "word": "澹台烬的烬言烬语",
+        "onboard_time": 1680877411,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 186542,
+        "num": 164673,
+        "word": "Jennie与Lisa比心照",
+        "onboard_time": 1680869369,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162134,
+        "num": 162134,
+        "word": "AG冲击春决",
+        "onboard_time": 1680875671,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 184053,
+        "num": 161377,
+        "word": "INTO1海外演出收官",
+        "onboard_time": 1680876930,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 181362,
+        "num": 161037,
+        "word": "李洪基铁打的祝歌",
+        "onboard_time": 1680874950,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 173989,
+        "num": 160007,
+        "word": "南烟斋笔录",
+        "onboard_time": 1680861330,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 158641,
+        "num": 158641,
+        "word": "华晨宇演唱会出场方式",
+        "onboard_time": 1680872849,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 151031,
+        "num": 151031,
+        "word": "中山大学",
+        "onboard_time": 1680847827,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146766,
+        "num": 146766,
+        "word": "大量张继科周边被粉丝甩卖",
+        "onboard_time": 1680853467,
+        "rank": 45,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 138101,
+        "num": 138101,
+        "word": "李沁说活得漂亮比生得漂亮更重要",
+        "onboard_time": 1680877892,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 123281,
+        "num": 137873,
+        "word": "马克龙为何访问中山大学",
+        "onboard_time": 1680850170,
+        "rank": 47,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 122668,
+        "num": 136717,
+        "word": "马克龙用普通话和粤语说大家好",
+        "onboard_time": 1680861149,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85654,
+        "num": 134807,
+        "word": "Ame 超哥",
+        "onboard_time": 1680869728,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#凝心铸魂向复兴#"
+    }
+  }
+}
