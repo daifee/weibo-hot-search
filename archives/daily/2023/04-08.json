@@ -1,6 +1,6 @@
 {
   "startTime": 1680884526258,
-  "endTime": 1680894775429,
+  "endTime": 1680896003823,
   "band_list": [
     {
       "raw_hot": 1761181,
@@ -411,20 +411,20 @@
       "category": "科技"
     },
     {
+      "raw_hot": 55739,
+      "num": 51704,
+      "word": "中船获法国超210亿元订单",
+      "onboard_time": 1680892633,
+      "rank": 16,
+      "category": "财经"
+    },
+    {
       "raw_hot": 54914,
       "num": 78872,
       "word": "密子君道歉",
       "onboard_time": 1680853768,
       "rank": 49,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 47125,
-      "num": 47125,
-      "word": "中船获法国超210亿元订单",
-      "onboard_time": 1680892633,
-      "rank": 16,
-      "category": "财经"
     },
     {
       "raw_hot": 36967,
