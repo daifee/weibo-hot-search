@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680873602643,
+  "endTime": 1680874408872,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -411,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2570858,
+      "num": 2570858,
+      "word": "做四休三",
+      "onboard_time": 1680870448,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 2568981,
       "num": 2568981,
       "word": "润玉时期多好看",
@@ -505,14 +513,6 @@
       "onboard_time": 1680773129,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2388738,
-      "num": 2388738,
-      "word": "做四休三",
-      "onboard_time": 1680870448,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 2369704,
@@ -803,6 +803,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1798645,
+      "num": 1798645,
+      "word": "陈某龙故意散布谣言被依法行拘",
+      "onboard_time": 1680872427,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1790649,
       "num": 1790649,
       "word": "孙海洋女儿呼吁取消拐骗罪",
@@ -825,14 +833,6 @@
       "onboard_time": 1680758132,
       "rank": 46,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 1771867,
-      "num": 1771867,
-      "word": "陈某龙故意散布谣言被依法行拘",
-      "onboard_time": 1680872427,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1748439,
@@ -1347,6 +1347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1219018,
+      "num": 1219018,
+      "word": "诈骗网红梅尼耶的MCN被申请破产",
+      "onboard_time": 1680871828,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1192024,
       "num": 976342,
       "word": "张继科联合创立的茶饮品牌已成老赖",
@@ -1577,14 +1585,6 @@
       "onboard_time": 1680575788,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1086816,
-      "num": 1086816,
-      "word": "诈骗网红梅尼耶的MCN被申请破产",
-      "onboard_time": 1680871828,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1083444,
@@ -2691,6 +2691,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 710447,
+      "num": 592174,
+      "word": "大学男老师让女生穿超短裙跳操引不满",
+      "onboard_time": 1680871289,
+      "rank": 37,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 709612,
       "num": 395583,
       "word": "白鹿蚌壳装",
@@ -3243,6 +3251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 621994,
+      "num": 621994,
+      "word": "爱情而已大结局",
+      "onboard_time": 1680870807,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 621038,
       "num": 621038,
       "word": "电影营销 狗都看哭了",
@@ -3315,14 +3331,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 605379,
-      "num": 605379,
-      "word": "爱情而已大结局",
-      "onboard_time": 1680870807,
-      "rank": 6,
-      "category": "影视"
-    },
-    {
       "raw_hot": 602920,
       "num": 455411,
       "word": "知情人称怼领导者为德阳某公司员工",
@@ -3393,14 +3401,6 @@
       "onboard_time": 1680678568,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 592174,
-      "num": 592174,
-      "word": "大学男老师让女生穿超短裙跳操引不满",
-      "onboard_time": 1680871289,
-      "rank": 37,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 591943,
@@ -3731,6 +3731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 540547,
+      "num": 234956,
+      "word": "支付宝乱码",
+      "onboard_time": 1680871770,
+      "rank": 31,
+      "category": "科技"
+    },
+    {
       "raw_hot": 540332,
       "num": 540332,
       "word": "回顾张国荣生前最后一次亮相",
@@ -3785,14 +3793,6 @@
       "onboard_time": 1680320429,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 538206,
-      "num": 230533,
-      "word": "支付宝乱码",
-      "onboard_time": 1680871770,
-      "rank": 31,
-      "category": "科技"
     },
     {
       "raw_hot": 537559,
@@ -4825,6 +4825,14 @@
       "onboard_time": 1680567993,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 430850,
+      "num": 430850,
+      "word": "为什么说身体凉命更长",
+      "onboard_time": 1680872551,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 430788,
@@ -7211,6 +7219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 278797,
+      "num": 269276,
+      "word": "Jennie与Lisa比心照",
+      "onboard_time": 1680869369,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 278096,
       "num": 278096,
       "word": "达尔文盒饭厂",
@@ -7489,14 +7505,6 @@
       "onboard_time": 1680506912,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 269276,
-      "num": 269276,
-      "word": "Jennie与Lisa比心照",
-      "onboard_time": 1680869369,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 268372,
@@ -7891,6 +7899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 252124,
+      "num": 252124,
+      "word": "鹿晗被活蚕蛹吓出山歌",
+      "onboard_time": 1680871107,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 251780,
       "num": 251780,
       "word": "九尾直播听宋亚轩新歌",
@@ -7905,14 +7921,6 @@
       "onboard_time": 1680345210,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 251417,
-      "num": 251417,
-      "word": "鹿晗被活蚕蛹吓出山歌",
-      "onboard_time": 1680871107,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 251234,
@@ -8113,6 +8121,14 @@
       "onboard_time": 1680423629,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 244445,
+      "num": 244445,
+      "word": "华晨宇演唱会出场方式",
+      "onboard_time": 1680872849,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 244405,
@@ -9243,12 +9259,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 212671,
-      "num": 212671,
-      "word": "为什么说身体凉命更长",
-      "onboard_time": 1680872551,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 212788,
+      "num": 212788,
+      "word": "狂飙二创有多离谱",
+      "onboard_time": 1680873869,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 212603,
@@ -10003,14 +10019,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 203202,
-      "num": 203202,
-      "word": "华晨宇演唱会出场方式",
-      "onboard_time": 1680872849,
-      "rank": 38,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 203142,
       "num": 203142,
       "word": "第十三届北京国际电影节主海报",
@@ -10177,6 +10185,14 @@
       "onboard_time": 1680493956,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 202119,
+      "num": 202119,
+      "word": "白敬亭周五随拍九宫格",
+      "onboard_time": 1680873929,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 202100,
@@ -10985,6 +11001,14 @@
       "onboard_time": 1680584012,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193930,
+      "num": 193930,
+      "word": "神隐杀青大合照",
+      "onboard_time": 1680873568,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 193786,
@@ -12579,6 +12603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 169851,
+      "num": 169851,
+      "word": "方芷衡送李其行父子入狱",
+      "onboard_time": 1680873809,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 169786,
       "num": 169786,
       "word": "张杰演唱会首唱新歌蕾拉",
@@ -12761,6 +12793,14 @@
       "onboard_time": 1680597091,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 166654,
+      "num": 166654,
+      "word": "丰县八孩案件庭审画面",
+      "onboard_time": 1680874111,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 166236,
@@ -14147,6 +14187,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 138810,
+      "num": 138810,
+      "word": "何悯鸿回归变本加厉",
+      "onboard_time": 1680874354,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 138760,
       "num": 138760,
       "word": "男子30岁未婚回村后被大妈围着劝导",
@@ -14288,14 +14336,6 @@
       "word": "宋三川按头亲吻梁友安",
       "onboard_time": 1680653303,
       "rank": 29,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 135949,
-      "num": 135949,
-      "word": "神隐杀青大合照",
-      "onboard_time": 1680873568,
-      "rank": 46,
       "category": "影视"
     },
     {

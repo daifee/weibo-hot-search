@@ -1,6 +1,6 @@
 {
   "startTime": 1680798149468,
-  "endTime": 1680873602643,
+  "endTime": 1680874408872,
   "band_list": [
     {
       "raw_hot": 7516988,
@@ -43,6 +43,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 2570858,
+      "num": 2570858,
+      "word": "做四休三",
+      "onboard_time": 1680870448,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 2544932,
       "num": 2544932,
       "word": "密子君 无骨鸡爪",
@@ -73,14 +81,6 @@
       "onboard_time": 1680824849,
       "rank": 0,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 2388738,
-      "num": 2388738,
-      "word": "做四休三",
-      "onboard_time": 1680870448,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 2284246,
@@ -123,19 +123,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1798645,
+      "num": 1798645,
+      "word": "陈某龙故意散布谣言被依法行拘",
+      "onboard_time": 1680872427,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1790649,
       "num": 1790649,
       "word": "孙海洋女儿呼吁取消拐骗罪",
       "onboard_time": 1680837268,
       "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1771867,
-      "num": 1771867,
-      "word": "陈某龙故意散布谣言被依法行拘",
-      "onboard_time": 1680872427,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -251,6 +251,14 @@
       "category": "财经,科技"
     },
     {
+      "raw_hot": 1219018,
+      "num": 1219018,
+      "word": "诈骗网红梅尼耶的MCN被申请破产",
+      "onboard_time": 1680871828,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1181680,
       "num": 1181680,
       "word": "制裁台独顽固分子萧美琴",
@@ -281,14 +289,6 @@
       "onboard_time": 1680836186,
       "rank": 3,
       "category": "科技"
-    },
-    {
-      "raw_hot": 1086816,
-      "num": 1086816,
-      "word": "诈骗网红梅尼耶的MCN被申请破产",
-      "onboard_time": 1680871828,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1024576,
@@ -483,6 +483,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 710447,
+      "num": 592174,
+      "word": "大学男老师让女生穿超短裙跳操引不满",
+      "onboard_time": 1680871289,
+      "rank": 37,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 689966,
       "num": 689966,
       "word": "名侦探柯南官方公告",
@@ -555,8 +563,8 @@
       "category": "影视,艺人"
     },
     {
-      "raw_hot": 605379,
-      "num": 605379,
+      "raw_hot": 621994,
+      "num": 621994,
       "word": "爱情而已大结局",
       "onboard_time": 1680870807,
       "rank": 6,
@@ -569,14 +577,6 @@
       "onboard_time": 1680825389,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 592174,
-      "num": 592174,
-      "word": "大学男老师让女生穿超短裙跳操引不满",
-      "onboard_time": 1680871289,
-      "rank": 37,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 585120,
@@ -635,8 +635,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 538206,
-      "num": 230533,
+      "raw_hot": 540547,
+      "num": 234956,
       "word": "支付宝乱码",
       "onboard_time": 1680871770,
       "rank": 31,
@@ -785,6 +785,14 @@
       "onboard_time": 1680864869,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 430850,
+      "num": 430850,
+      "word": "为什么说身体凉命更长",
+      "onboard_time": 1680872551,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 427104,
@@ -1259,6 +1267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 278797,
+      "num": 269276,
+      "word": "Jennie与Lisa比心照",
+      "onboard_time": 1680869369,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 274538,
       "num": 274538,
       "word": "临近生育前都在经历些什么",
@@ -1281,14 +1297,6 @@
       "onboard_time": 1680792933,
       "rank": 21,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 269276,
-      "num": 269276,
-      "word": "Jennie与Lisa比心照",
-      "onboard_time": 1680869369,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 269094,
@@ -1371,20 +1379,20 @@
       "category": "科技"
     },
     {
+      "raw_hot": 252124,
+      "num": 252124,
+      "word": "鹿晗被活蚕蛹吓出山歌",
+      "onboard_time": 1680871107,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 251780,
       "num": 251780,
       "word": "九尾直播听宋亚轩新歌",
       "onboard_time": 1680843873,
       "rank": 39,
       "category": "音乐,游戏"
-    },
-    {
-      "raw_hot": 251417,
-      "num": 251417,
-      "word": "鹿晗被活蚕蛹吓出山歌",
-      "onboard_time": 1680871107,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 250596,
@@ -1425,6 +1433,14 @@
       "onboard_time": 1680837869,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 244445,
+      "num": 244445,
+      "word": "华晨宇演唱会出场方式",
+      "onboard_time": 1680872849,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 244405,
@@ -1659,12 +1675,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 212671,
-      "num": 212671,
-      "word": "为什么说身体凉命更长",
-      "onboard_time": 1680872551,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 212788,
+      "num": 212788,
+      "word": "狂飙二创有多离谱",
+      "onboard_time": 1680873869,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 212018,
@@ -1787,14 +1803,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 203202,
-      "num": 203202,
-      "word": "华晨宇演唱会出场方式",
-      "onboard_time": 1680872849,
-      "rank": 38,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 202828,
       "num": 202828,
       "word": "职业规划对大学生有多重要",
@@ -1809,6 +1817,14 @@
       "onboard_time": 1680836427,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 202119,
+      "num": 202119,
+      "word": "白敬亭周五随拍九宫格",
+      "onboard_time": 1680873929,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 202100,
@@ -1985,6 +2001,14 @@
       "onboard_time": 1680852570,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 193930,
+      "num": 193930,
+      "word": "神隐杀青大合照",
+      "onboard_time": 1680873568,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 193536,
@@ -2283,6 +2307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 169851,
+      "num": 169851,
+      "word": "方芷衡送李其行父子入狱",
+      "onboard_time": 1680873809,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 169388,
       "num": 169388,
       "word": "冯晓桐 王宝宝",
@@ -2321,6 +2353,14 @@
       "onboard_time": 1680836186,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 166654,
+      "num": 166654,
+      "word": "丰县八孩案件庭审画面",
+      "onboard_time": 1680874111,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 166115,
@@ -2491,6 +2531,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 138810,
+      "num": 138810,
+      "word": "何悯鸿回归变本加厉",
+      "onboard_time": 1680874354,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 137890,
       "num": 137890,
       "word": "DOU5对战ACT",
@@ -2513,14 +2561,6 @@
       "onboard_time": 1680783752,
       "rank": 39,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 135949,
-      "num": 135949,
-      "word": "神隐杀青大合照",
-      "onboard_time": 1680873568,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 135607,
