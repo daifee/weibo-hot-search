@@ -1,6 +1,6 @@
 {
   "startTime": 1680798149468,
-  "endTime": 1680860014045,
+  "endTime": 1680862656745,
   "band_list": [
     {
       "raw_hot": 7516988,
@@ -211,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1123630,
+      "num": 1123630,
+      "word": "特斯拉降价",
+      "onboard_time": 1680859588,
+      "rank": 36,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1092686,
       "num": 1092686,
       "word": "抖音宣布与腾讯视频合作",
@@ -259,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 889966,
+      "num": 889966,
+      "word": "罗云熙瘦脱相",
+      "onboard_time": 1680862171,
+      "rank": 4,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 884026,
       "num": 884026,
       "word": "董志民致小花梅精神分裂",
@@ -283,7 +299,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 824080,
+      "raw_hot": 857007,
       "num": 582852,
       "word": "网友环球影城偶遇宋轶",
       "onboard_time": 1680858748,
@@ -292,7 +308,7 @@
     },
     {
       "raw_hot": 814192,
-      "num": 319636,
+      "num": 370926,
       "word": "成龙身体已经不能再打封闭了",
       "onboard_time": 1680857547,
       "rank": 20,
@@ -377,6 +393,14 @@
       "onboard_time": 1680824787,
       "rank": 6,
       "category": "情感"
+    },
+    {
+      "raw_hot": 707987,
+      "num": 707987,
+      "word": "南烟斋笔录",
+      "onboard_time": 1680861330,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 685853,
@@ -483,6 +507,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 557021,
+      "num": 557021,
+      "word": "薛之谦南昌演唱会门票",
+      "onboard_time": 1680860128,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 547242,
       "num": 547242,
       "word": "丫丫租借合同到期",
@@ -508,11 +540,19 @@
     },
     {
       "raw_hot": 511411,
-      "num": 319707,
+      "num": 327527,
       "word": "生育对女性的伤害有多大",
       "onboard_time": 1680851008,
       "rank": 24,
       "category": "其它"
+    },
+    {
+      "raw_hot": 501162,
+      "num": 501162,
+      "word": "张杰辟谣武汉加五场",
+      "onboard_time": 1680860307,
+      "rank": 14,
+      "category": "音乐"
     },
     {
       "raw_hot": 486751,
@@ -595,12 +635,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 443999,
+      "num": 443999,
+      "word": "特斯拉员工被曝分享车主隐私画面",
+      "onboard_time": 1680859708,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 420312,
       "num": 420312,
       "word": "国内新恋综游戏尺度",
       "onboard_time": 1680781409,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 401583,
+      "num": 401583,
+      "word": "肖战罗马斗兽场随拍",
+      "onboard_time": 1680860187,
+      "rank": 17,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 395055,
@@ -667,6 +723,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 372695,
+      "num": 372695,
+      "word": "TF家族三代演唱会官宣",
+      "onboard_time": 1680859227,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 372008,
       "num": 293247,
       "word": "周冬雨素颜状态",
@@ -729,14 +793,6 @@
       "onboard_time": 1680836606,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 337397,
-      "num": 337397,
-      "word": "TF家族三代演唱会官宣",
-      "onboard_time": 1680859227,
-      "rank": 17,
-      "category": "音乐"
     },
     {
       "raw_hot": 335360,
@@ -915,12 +971,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 293467,
+      "num": 293467,
+      "word": "长月烬明穿帮镜头",
+      "onboard_time": 1680860787,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 291954,
       "num": 291954,
       "word": "颖儿工作室声明",
       "onboard_time": 1680827911,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 291802,
+      "num": 291802,
+      "word": "孟羽童",
+      "onboard_time": 1680861868,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 290697,
@@ -1147,6 +1219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 235504,
+      "num": 235504,
+      "word": "沈月 湖师大",
+      "onboard_time": 1680862407,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 235171,
       "num": 235171,
       "word": "张杰武汉站演唱会官宣加场",
@@ -1347,14 +1427,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 207498,
-      "num": 207498,
-      "word": "特斯拉降价",
-      "onboard_time": 1680859588,
-      "rank": 36,
-      "category": "科技"
-    },
-    {
       "raw_hot": 207439,
       "num": 207439,
       "word": "董志民获刑9年",
@@ -1481,6 +1553,14 @@
       "onboard_time": 1680831206,
       "rank": 46,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 198727,
+      "num": 198727,
+      "word": "马克龙用普通话和粤语说大家好",
+      "onboard_time": 1680861149,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 198642,
@@ -1649,14 +1729,6 @@
       "onboard_time": 1680824547,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 186206,
-      "num": 186206,
-      "word": "特斯拉员工被曝分享车主隐私画面",
-      "onboard_time": 1680859708,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 186136,
@@ -1835,6 +1907,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 168083,
+      "num": 168083,
+      "word": "童瑶F创刊封面",
+      "onboard_time": 1680861806,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 168031,
       "num": 168031,
       "word": "马嘉祺背对地球奔跑转音",
@@ -1889,6 +1969,14 @@
       "onboard_time": 1680849689,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 154135,
+      "num": 154135,
+      "word": "丁程鑫秦霄贤杨迪卡点运镜",
+      "onboard_time": 1680861688,
+      "rank": 45,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 153723,
@@ -2025,6 +2113,14 @@
       "onboard_time": 1680838107,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 128487,
+      "num": 128487,
+      "word": "追诉期",
+      "onboard_time": 1680862528,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 125590,

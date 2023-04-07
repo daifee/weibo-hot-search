@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680860014045,
+  "endTime": 1680862656745,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -1427,6 +1427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1123630,
+      "num": 1123630,
+      "word": "特斯拉降价",
+      "onboard_time": 1680859588,
+      "rank": 36,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1117063,
       "num": 1117063,
       "word": "Xun导 不愧是你",
@@ -1875,6 +1883,14 @@
       "category": "幽默,时尚"
     },
     {
+      "raw_hot": 889966,
+      "num": 889966,
+      "word": "罗云熙瘦脱相",
+      "onboard_time": 1680862171,
+      "rank": 4,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 887570,
       "num": 887570,
       "word": "生理性郁抑症",
@@ -2003,6 +2019,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 857007,
+      "num": 582852,
+      "word": "网友环球影城偶遇宋轶",
+      "onboard_time": 1680858748,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 850971,
       "num": 850971,
       "word": "蛋仔派对",
@@ -2115,14 +2139,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 824080,
-      "num": 582852,
-      "word": "网友环球影城偶遇宋轶",
-      "onboard_time": 1680858748,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 822431,
       "num": 636625,
       "word": "南柱赫寸头",
@@ -2148,7 +2164,7 @@
     },
     {
       "raw_hot": 814192,
-      "num": 319636,
+      "num": 370926,
       "word": "成龙身体已经不能再打封闭了",
       "onboard_time": 1680857547,
       "rank": 20,
@@ -2601,6 +2617,14 @@
       "onboard_time": 1680412229,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 707987,
+      "num": 707987,
+      "word": "南烟斋笔录",
+      "onboard_time": 1680861330,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 707963,
@@ -3435,6 +3459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 557021,
+      "num": 557021,
+      "word": "薛之谦南昌演唱会门票",
+      "onboard_time": 1680860128,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 556793,
       "num": 556793,
       "word": "武汉地铁",
@@ -3900,7 +3932,7 @@
     },
     {
       "raw_hot": 511411,
-      "num": 319707,
+      "num": 327527,
       "word": "生育对女性的伤害有多大",
       "onboard_time": 1680851008,
       "rank": 24,
@@ -3961,6 +3993,14 @@
       "onboard_time": 1680478223,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 501162,
+      "num": 501162,
+      "word": "张杰辟谣武汉加五场",
+      "onboard_time": 1680860307,
+      "rank": 14,
+      "category": "音乐"
     },
     {
       "raw_hot": 501098,
@@ -4531,6 +4571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 443999,
+      "num": 443999,
+      "word": "特斯拉员工被曝分享车主隐私画面",
+      "onboard_time": 1680859708,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 443246,
       "num": 443246,
       "word": "INTO1告别演唱会泰国场",
@@ -4979,6 +5027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 401583,
+      "num": 401583,
+      "word": "肖战罗马斗兽场随拍",
+      "onboard_time": 1680860187,
+      "rank": 17,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 399956,
       "num": 190142,
       "word": "特朗普自曝被控33项罪名",
@@ -5337,6 +5393,14 @@
       "onboard_time": 1680588449,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 372695,
+      "num": 372695,
+      "word": "TF家族三代演唱会官宣",
+      "onboard_time": 1680859227,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 372008,
@@ -5849,14 +5913,6 @@
       "onboard_time": 1680338491,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 337397,
-      "num": 337397,
-      "word": "TF家族三代演唱会官宣",
-      "onboard_time": 1680859227,
-      "rank": 17,
-      "category": "音乐"
     },
     {
       "raw_hot": 334380,
@@ -6579,6 +6635,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 293467,
+      "num": 293467,
+      "word": "长月烬明穿帮镜头",
+      "onboard_time": 1680860787,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 292973,
       "num": 216755,
       "word": "顾客买小龙虾99元4斤称重仅2斤多",
@@ -6593,6 +6657,14 @@
       "onboard_time": 1680827911,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 291802,
+      "num": 291802,
+      "word": "孟羽童",
+      "onboard_time": 1680861868,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 291649,
@@ -8035,6 +8107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 235504,
+      "num": 235504,
+      "word": "沈月 湖师大",
+      "onboard_time": 1680862407,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 235171,
       "num": 235171,
       "word": "张杰武汉站演唱会官宣加场",
@@ -9179,14 +9259,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 207498,
-      "num": 207498,
-      "word": "特斯拉降价",
-      "onboard_time": 1680859588,
-      "rank": 36,
-      "category": "科技"
-    },
-    {
       "raw_hot": 207439,
       "num": 207439,
       "word": "董志民获刑9年",
@@ -10161,6 +10233,14 @@
       "onboard_time": 1680316225,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 198727,
+      "num": 198727,
+      "word": "马克龙用普通话和粤语说大家好",
+      "onboard_time": 1680861149,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 198711,
@@ -11227,14 +11307,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 186206,
-      "num": 186206,
-      "word": "特斯拉员工被曝分享车主隐私画面",
-      "onboard_time": 1680859708,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 186136,
       "num": 186136,
       "word": "闵玧其先行曲MV",
@@ -12203,6 +12275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 168083,
+      "num": 168083,
+      "word": "童瑶F创刊封面",
+      "onboard_time": 1680861806,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 168031,
       "num": 168031,
       "word": "马嘉祺背对地球奔跑转音",
@@ -12897,6 +12977,14 @@
       "onboard_time": 1680766526,
       "rank": 47,
       "category": "科技"
+    },
+    {
+      "raw_hot": 154135,
+      "num": 154135,
+      "word": "丁程鑫秦霄贤杨迪卡点运镜",
+      "onboard_time": 1680861688,
+      "rank": 45,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 154024,
@@ -14113,6 +14201,14 @@
       "onboard_time": 1680320729,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 128487,
+      "num": 128487,
+      "word": "追诉期",
+      "onboard_time": 1680862528,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 128400,
