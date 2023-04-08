@@ -1,0 +1,410 @@
+{
+  "runTime": 1680930892329,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2129891,
+        "num": 2129891,
+        "word": "浙江工资不能低于这个数",
+        "onboard_time": 1680925528,
+        "rank": 0,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1505805,
+        "num": 1505805,
+        "word": "苏州科技大学",
+        "onboard_time": 1680923006,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 178852,
+        "num": 1288697,
+        "word": "镜头记录黄河水颜色变化有多大",
+        "onboard_time": 1680927928,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1153826,
+        "num": 1153826,
+        "word": "徐良回应消失的三年",
+        "onboard_time": 1680926909,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1014889,
+        "num": 1014889,
+        "word": "19岁女孩整形医院抽脂后3天死亡",
+        "onboard_time": 1680922406,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 827980,
+        "num": 827980,
+        "word": "苏科大回应凌晨4点发考研录取通知",
+        "onboard_time": 1680927508,
+        "rank": 5,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 687231,
+        "num": 687231,
+        "word": "白幼瘦审美",
+        "onboard_time": 1680921090,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 586608,
+        "num": 586608,
+        "word": "广东成最敢生娃的省份",
+        "onboard_time": 1680925827,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 538411,
+        "num": 538411,
+        "word": "网传王一博参加香奈儿大秀",
+        "onboard_time": 1680928530,
+        "rank": 8,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 502456,
+        "num": 502456,
+        "word": "长月烬明前8集戏份时长",
+        "onboard_time": 1680924627,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 458747,
+        "num": 458747,
+        "word": "WE Are One",
+        "onboard_time": 1680922588,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 936450,
+        "num": 452966,
+        "word": "罗云熙 牙",
+        "onboard_time": 1680917548,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 446103,
+        "num": 446103,
+        "word": "王嘉尔711给了你多少钱",
+        "onboard_time": 1680920609,
+        "rank": 12,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 377372,
+        "num": 377372,
+        "word": "马克龙参访中山大学",
+        "onboard_time": 1680930866,
+        "rank": 13,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 375022,
+        "num": 375022,
+        "word": "郑秀妍的直角肩",
+        "onboard_time": 1680928467,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 399763,
+        "num": 366244,
+        "word": "东部战区",
+        "onboard_time": 1680915927,
+        "rank": 15,
+        "category": "国内要闻,军事"
+      },
+      {
+        "raw_hot": 355244,
+        "num": 355244,
+        "word": "赵露思发缝",
+        "onboard_time": 1680911122,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 351207,
+        "num": 351207,
+        "word": "白鹿叶夕雾婚服",
+        "onboard_time": 1680927447,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 320761,
+        "num": 320761,
+        "word": "男孩被霸凌遭踹膝盖水杯倒风油精",
+        "onboard_time": 1680925167,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320447,
+        "num": 320447,
+        "word": "杭州女生摆摊卖樱花奶昔日入过千",
+        "onboard_time": 1680929488,
+        "rank": 19,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 316972,
+        "num": 316972,
+        "word": "何洁时隔17年再唱快乐宝贝",
+        "onboard_time": 1680929188,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 288850,
+        "num": 288850,
+        "word": "夫妻打闹妻子手不慎被掰骨折",
+        "onboard_time": 1680924808,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286963,
+        "num": 286963,
+        "word": "狂飙2正在筹备中",
+        "onboard_time": 1680911182,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 284330,
+        "num": 284330,
+        "word": "结婚建议远嫁吗",
+        "onboard_time": 1680925708,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 205341,
+        "num": 205341,
+        "word": "宠物鼠被滞留地铁上挠伤乘客",
+        "onboard_time": 1680923246,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205305,
+        "num": 205305,
+        "word": "杨丞琳爱过错过舞台",
+        "onboard_time": 1680929846,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200540,
+        "num": 200540,
+        "word": "能为互关做的只有这么多了",
+        "onboard_time": 1680926127,
+        "rank": 26,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 200458,
+        "num": 200458,
+        "word": "EXO出道颜值",
+        "onboard_time": 1680921568,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 192517,
+        "num": 192517,
+        "word": "周雨彤模仿吴磊小时候",
+        "onboard_time": 1680928467,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 142631,
+        "num": 178744,
+        "word": "8人伪造完美履历同时入职多个单位",
+        "onboard_time": 1680916705,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 528709,
+        "num": 174907,
+        "word": "领导多次在群内辱骂下属致其抑郁",
+        "onboard_time": 1680918387,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 458961,
+        "num": 174728,
+        "word": "吉林一科长性侵小学生被刑拘",
+        "onboard_time": 1680917247,
+        "rank": 31,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 168301,
+        "num": 168301,
+        "word": "金智秀FlowerMV播放量破亿",
+        "onboard_time": 1680925048,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 164751,
+        "num": 164751,
+        "word": "梁友安钻进宋三川被窝",
+        "onboard_time": 1680928228,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 164272,
+        "num": 164272,
+        "word": "人民网评陈某龙造谣被行拘",
+        "onboard_time": 1680918687,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163875,
+        "num": 163875,
+        "word": "娜扎江疏影同框视频",
+        "onboard_time": 1680930266,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162213,
+        "num": 162213,
+        "word": "范丞丞把猪吓跑了",
+        "onboard_time": 1680925348,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 158541,
+        "num": 158541,
+        "word": "柳智敏粉发",
+        "onboard_time": 1680920007,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 148156,
+        "num": 148156,
+        "word": "长月烬明刷新仙侠剧破万纪录",
+        "onboard_time": 1680913103,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 146439,
+        "num": 146439,
+        "word": "山东推出399元高铁环游套票",
+        "onboard_time": 1680909798,
+        "rank": 39,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 143646,
+        "num": 143646,
+        "word": "关晓彤工作室的评论区",
+        "onboard_time": 1680917606,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139747,
+        "num": 139747,
+        "word": "陈都灵戏份",
+        "onboard_time": 1680920968,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 131000,
+        "num": 131000,
+        "word": "如何看待年轻人失业后假装上班",
+        "onboard_time": 1680916225,
+        "rank": 42,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 127446,
+        "num": 127446,
+        "word": "勇士战胜国王",
+        "onboard_time": 1680930627,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125964,
+        "num": 125964,
+        "word": "最好的我们开播七年了",
+        "onboard_time": 1680922166,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 121519,
+        "num": 121519,
+        "word": "13岁孩子疑因游戏问题勒父亲脖子",
+        "onboard_time": 1680919886,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118002,
+        "num": 118002,
+        "word": "柯南贝克街的亡灵评分",
+        "onboard_time": 1680922047,
+        "rank": 46,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 116016,
+        "num": 116016,
+        "word": "北京最难约的博物馆竟不是故宫",
+        "onboard_time": 1680918750,
+        "rank": 47,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 112779,
+        "num": 112779,
+        "word": "黑莲花攻略手册",
+        "onboard_time": 1680910039,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 103751,
+        "num": 103751,
+        "word": "69岁成龙说我还能打还能跳",
+        "onboard_time": 1680929248,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#凝心铸魂向复兴#"
+    }
+  }
+}
