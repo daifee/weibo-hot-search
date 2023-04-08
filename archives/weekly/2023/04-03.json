@@ -1,6 +1,6 @@
 {
   "startTime": 1680452464197,
-  "endTime": 1680960794807,
+  "endTime": 1680963254213,
   "band_list": [
     {
       "raw_hot": 9506486,
@@ -1099,6 +1099,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1396043,
+      "num": 1098979,
+      "word": "气胸",
+      "onboard_time": 1680958049,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1391769,
       "num": 1391769,
       "word": "坂本龙一去世",
@@ -1137,6 +1145,14 @@
       "onboard_time": 1680484768,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1343944,
+      "num": 1343944,
+      "word": "因为镯子贴膜被同事嘲笑了",
+      "onboard_time": 1680958170,
+      "rank": 6,
+      "category": "幽默"
     },
     {
       "raw_hot": 1341091,
@@ -1356,7 +1372,7 @@
     },
     {
       "raw_hot": 1146476,
-      "num": 427463,
+      "num": 539969,
       "word": "宋祖儿希望45岁的白宇也要开心自在",
       "onboard_time": 1680952287,
       "rank": 32,
@@ -1523,6 +1539,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1077765,
+      "num": 1077765,
+      "word": "贝克汉姆回复王濛",
+      "onboard_time": 1680960991,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1075445,
       "num": 1075445,
       "word": "孙策胸肌",
@@ -1555,16 +1579,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1035378,
-      "num": 872844,
-      "word": "气胸",
-      "onboard_time": 1680958049,
-      "rank": 3,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 1032587,
-      "num": 463855,
+      "num": 475583,
       "word": "翁虹女儿颜值",
       "onboard_time": 1680947908,
       "rank": 10,
@@ -2180,7 +2196,7 @@
     },
     {
       "raw_hot": 813776,
-      "num": 462397,
+      "num": 502572,
       "word": "吴磊胸侧的疤",
       "onboard_time": 1680958467,
       "rank": 11,
@@ -2257,14 +2273,6 @@
       "onboard_time": 1680825809,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 796422,
-      "num": 796422,
-      "word": "因为镯子贴膜被同事嘲笑了",
-      "onboard_time": 1680958170,
-      "rank": 6,
-      "category": "幽默"
     },
     {
       "raw_hot": 795051,
@@ -2953,6 +2961,14 @@
       "onboard_time": 1680580112,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 641227,
+      "num": 641227,
+      "word": "山东泰山",
+      "onboard_time": 1680960869,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 640290,
@@ -3683,6 +3699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 527420,
+      "num": 527420,
+      "word": "吴世勋脸链",
+      "onboard_time": 1680958410,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 526400,
       "num": 526400,
       "word": "谢娜黄丽玲曾可妮乘风破浪上班路透",
@@ -3753,14 +3777,6 @@
       "onboard_time": 1680608069,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 520407,
-      "num": 299340,
-      "word": "吴世勋脸链",
-      "onboard_time": 1680958410,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 520136,
@@ -4012,7 +4028,7 @@
     },
     {
       "raw_hot": 487545,
-      "num": 284035,
+      "num": 416845,
       "word": "易烊千玺荆州",
       "onboard_time": 1680960331,
       "rank": 16,
@@ -4033,6 +4049,14 @@
       "onboard_time": 1680843692,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 483778,
+      "num": 483778,
+      "word": "ppgod",
+      "onboard_time": 1680962130,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 483632,
@@ -4291,6 +4315,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 457980,
+      "num": 457980,
+      "word": "90岁游本昌对年轻演员说你们好幸福",
+      "onboard_time": 1680958588,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 456359,
       "num": 456359,
       "word": "长月烬明云合首日播放量",
@@ -4361,6 +4393,14 @@
       "onboard_time": 1680845910,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 448632,
+      "num": 448632,
+      "word": "女子做实验硫酸蹭到脸上淡定冲水",
+      "onboard_time": 1680961710,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 445254,
@@ -4484,7 +4524,7 @@
     },
     {
       "raw_hot": 431087,
-      "num": 277725,
+      "num": 339129,
       "word": "戚薇克莱茵蓝西装",
       "onboard_time": 1680953848,
       "rank": 20,
@@ -5028,7 +5068,7 @@
     },
     {
       "raw_hot": 386533,
-      "num": 274856,
+      "num": 305279,
       "word": "青春环游记",
       "onboard_time": 1680583234,
       "rank": 45,
@@ -5105,6 +5145,14 @@
       "onboard_time": 1680581012,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 380892,
+      "num": 380892,
+      "word": "一起祝贺这位同学考研成功上岸211大学",
+      "onboard_time": 1680959909,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 380271,
@@ -5196,7 +5244,7 @@
     },
     {
       "raw_hot": 372448,
-      "num": 277059,
+      "num": 307174,
       "word": "带患癌妈妈理发还价5元遭店主咒骂",
       "onboard_time": 1680945146,
       "rank": 47,
@@ -5577,6 +5625,14 @@
       "onboard_time": 1680659491,
       "rank": 17,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 345732,
+      "num": 345732,
+      "word": "BLG战胜OMG",
+      "onboard_time": 1680962551,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 345083,
@@ -6179,6 +6235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 302706,
+      "num": 302706,
+      "word": "小狐狸勾叶夕雾下巴",
+      "onboard_time": 1680959610,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 302056,
       "num": 294832,
       "word": "国产剧疯批人设天花板",
@@ -6385,14 +6449,6 @@
       "onboard_time": 1680501030,
       "rank": 31,
       "category": "情感,网红"
-    },
-    {
-      "raw_hot": 291496,
-      "num": 217867,
-      "word": "小狐狸勾叶夕雾下巴",
-      "onboard_time": 1680959610,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 290886,
@@ -6753,6 +6809,14 @@
       "onboard_time": 1680775052,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 277106,
+      "num": 277106,
+      "word": "江疏影杨迪没有相爱只有相杀",
+      "onboard_time": 1680960210,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 275591,
@@ -7267,20 +7331,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 255635,
-      "num": 255635,
-      "word": "90岁游本昌对年轻演员说你们好幸福",
-      "onboard_time": 1680958588,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 254711,
       "num": 254711,
       "word": "李沁刘巧珍哭戏共情力",
       "onboard_time": 1680702991,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 254315,
+      "num": 203415,
+      "word": "徐峥谐音梗记徐明浩名字",
+      "onboard_time": 1680962910,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 254230,
@@ -7473,6 +7537,14 @@
       "onboard_time": 1680879330,
       "rank": 28,
       "category": "科技"
+    },
+    {
+      "raw_hot": 244485,
+      "num": 202878,
+      "word": "丁程鑫好会跳",
+      "onboard_time": 1680962253,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 244445,
@@ -8123,6 +8195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 221632,
+      "num": 197347,
+      "word": "李雪琴开场秀",
+      "onboard_time": 1680961229,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 221520,
       "num": 221520,
       "word": "湖人",
@@ -8256,14 +8336,6 @@
       "word": "没见过长这么大耳朵的狗",
       "onboard_time": 1680511952,
       "rank": 37,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 217676,
-      "num": 217676,
-      "word": "一起祝贺这位同学考研成功上岸211大学",
-      "onboard_time": 1680959909,
-      "rank": 34,
       "category": "幽默"
     },
     {
@@ -9091,6 +9163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 203764,
+      "num": 214235,
+      "word": "中小学生有必要穿校服吗",
+      "onboard_time": 1680960448,
+      "rank": 36,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 203426,
       "num": 203426,
       "word": "你会选择迂回式恋爱么",
@@ -9209,6 +9289,14 @@
       "onboard_time": 1680665429,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202878,
+      "num": 202877,
+      "word": "BLG晋级败者组决赛",
+      "onboard_time": 1680962670,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 202828,
@@ -9611,6 +9699,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 199361,
+      "num": 193346,
+      "word": "张杰说我们未live西安见",
+      "onboard_time": 1680962970,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 199340,
       "num": 199340,
       "word": "恩爱两不疑预告",
@@ -9755,6 +9851,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 197237,
+      "num": 197237,
+      "word": "BLG对战OMG",
+      "onboard_time": 1680951206,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 197216,
       "num": 197216,
       "word": "于文文曹操吉他solo",
@@ -9769,6 +9873,14 @@
       "onboard_time": 1680944664,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 197207,
+      "num": 193021,
+      "word": "侯明昊品质新锐剧星",
+      "onboard_time": 1680963210,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 197075,
@@ -9865,14 +9977,6 @@
       "onboard_time": 1680837088,
       "rank": 37,
       "category": "影视,音乐"
-    },
-    {
-      "raw_hot": 196030,
-      "num": 196030,
-      "word": "BLG对战OMG",
-      "onboard_time": 1680951206,
-      "rank": 33,
-      "category": "游戏"
     },
     {
       "raw_hot": 195968,
@@ -10001,6 +10105,14 @@
       "onboard_time": 1680671672,
       "rank": 48,
       "category": "综艺,幽默"
+    },
+    {
+      "raw_hot": 193975,
+      "num": 193975,
+      "word": "实探天门山涉事玻璃栈道恢复正常",
+      "onboard_time": 1680961350,
+      "rank": 39,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 193940,
@@ -10147,6 +10259,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 192723,
+      "num": 192723,
+      "word": "武汉三镇夺得超级杯冠军",
+      "onboard_time": 1680963028,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 192684,
       "num": 192684,
       "word": "原来大家都不想上班",
@@ -10201,14 +10321,6 @@
       "onboard_time": 1680793230,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 192152,
-      "num": 214235,
-      "word": "中小学生有必要穿校服吗",
-      "onboard_time": 1680960448,
-      "rank": 36,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 191873,
@@ -11857,6 +11969,14 @@
       "onboard_time": 1680697113,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161189,
+      "num": 192456,
+      "word": "山东研发出无人驾驶公交",
+      "onboard_time": 1680960933,
+      "rank": 45,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 160864,
@@ -14160,6 +14280,14 @@
       "word": "当清明诗词遇上古人春日必做清单",
       "onboard_time": 1680564563,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 39632,
+      "num": 1114232,
+      "word": "这是现实版人在画中游",
+      "onboard_time": 1680962910,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
