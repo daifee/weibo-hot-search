@@ -1,6 +1,6 @@
 {
   "startTime": 1680884526258,
-  "endTime": 1680957015753,
+  "endTime": 1680957970841,
   "band_list": [
     {
       "raw_hot": 2654974,
@@ -435,6 +435,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 588894,
+      "num": 588894,
+      "word": "长月烬明第十一集预告",
+      "onboard_time": 1680955166,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 586608,
       "num": 586608,
       "word": "广东成最敢生娃的省份",
@@ -473,14 +481,6 @@
       "onboard_time": 1680878971,
       "rank": 9,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 555379,
-      "num": 555379,
-      "word": "长月烬明第十一集预告",
-      "onboard_time": 1680955166,
-      "rank": 5,
-      "category": "影视"
     },
     {
       "raw_hot": 549713,
@@ -579,6 +579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 487924,
+      "num": 487924,
+      "word": "外来媳妇本地郎清明特辑",
+      "onboard_time": 1680956246,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 475912,
       "num": 424965,
       "word": "张雨绮手机壳 智者不入爱河",
@@ -628,7 +636,7 @@
     },
     {
       "raw_hot": 431087,
-      "num": 185034,
+      "num": 192302,
       "word": "戚薇克莱茵蓝西装",
       "onboard_time": 1680953848,
       "rank": 20,
@@ -657,6 +665,14 @@
       "onboard_time": 1680910039,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 409686,
+      "num": 409686,
+      "word": "易烊千玺曾饰演少年屈原",
+      "onboard_time": 1680956246,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 409205,
@@ -811,6 +827,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 355251,
+      "num": 219537,
+      "word": "张嘉倪祝高加林黄亚萍安好",
+      "onboard_time": 1680956667,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 348380,
       "num": 348380,
       "word": "长月烬明",
@@ -849,14 +873,6 @@
       "onboard_time": 1680923246,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 337869,
-      "num": 223576,
-      "word": "易烊千玺曾饰演少年屈原",
-      "onboard_time": 1680956246,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 336628,
@@ -905,14 +921,6 @@
       "onboard_time": 1680921568,
       "rank": 27,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 313049,
-      "num": 181032,
-      "word": "外来媳妇本地郎清明特辑",
-      "onboard_time": 1680956246,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 304038,
@@ -969,6 +977,14 @@
       "onboard_time": 1680922527,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 282367,
+      "num": 282367,
+      "word": "火焰戎装",
+      "onboard_time": 1680956488,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 278912,
@@ -1147,6 +1163,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 226876,
+      "num": 140278,
+      "word": "全圆佑这是报了个旅游团吧",
+      "onboard_time": 1680957568,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 225762,
       "num": 225762,
       "word": "澹台烬把叶夕雾挂在马上",
@@ -1161,14 +1185,6 @@
       "onboard_time": 1680931586,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 219213,
-      "num": 161279,
-      "word": "张嘉倪祝高加林黄亚萍安好",
-      "onboard_time": 1680956667,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 217436,
@@ -1299,14 +1315,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 202879,
-      "num": 202879,
-      "word": "火焰戎装",
-      "onboard_time": 1680956488,
-      "rank": 17,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 202574,
       "num": 1381574,
       "word": "镜头记录黄河水颜色变化有多大",
@@ -1355,6 +1363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 201357,
+      "num": 201357,
+      "word": "eStar对战狼队",
+      "onboard_time": 1680957328,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 201314,
       "num": 201314,
       "word": "能为互关做的只有这么多了",
@@ -1377,6 +1393,14 @@
       "onboard_time": 1680949586,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 200892,
+      "num": 153222,
+      "word": "朴灿烈大屏怼脸颜值",
+      "onboard_time": 1680956849,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 200553,
@@ -1531,6 +1555,14 @@
       "category": "影视,幽默"
     },
     {
+      "raw_hot": 188683,
+      "num": 127646,
+      "word": "你好星期六下周有刘雨昕",
+      "onboard_time": 1680957389,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188060,
       "num": 188009,
       "word": "澹台烬靠叶夕雾的肩膀",
@@ -1665,14 +1697,6 @@
       "onboard_time": 1680941486,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 175043,
-      "num": 153222,
-      "word": "朴灿烈大屏怼脸颜值",
-      "onboard_time": 1680956849,
-      "rank": 35,
-      "category": "音乐"
     },
     {
       "raw_hot": 174094,
@@ -1811,6 +1835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 159804,
+      "num": 127401,
+      "word": "IVE新歌Kitsch初舞台",
+      "onboard_time": 1680954207,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 158311,
       "num": 158311,
       "word": "TF家族",
@@ -1827,19 +1859,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 156135,
+      "num": 156135,
+      "word": "00后整顿职场同事一旁窃喜",
+      "onboard_time": 1680954506,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155404,
       "num": 127311,
       "word": "毛不易苏州演唱会",
       "onboard_time": 1680955349,
       "rank": 43,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 155286,
-      "num": 126464,
-      "word": "IVE新歌Kitsch初舞台",
-      "onboard_time": 1680954207,
-      "rank": 44,
       "category": "音乐"
     },
     {
@@ -2035,6 +2067,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 134327,
+      "num": 134327,
+      "word": "真不能穿黑色裤子抱宠物",
+      "onboard_time": 1680957027,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 133087,
       "num": 133087,
       "word": "尘封十三载",
@@ -2057,14 +2097,6 @@
       "onboard_time": 1680937108,
       "rank": 29,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 131942,
-      "num": 131942,
-      "word": "00后整顿职场同事一旁窃喜",
-      "onboard_time": 1680954506,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 131848,
@@ -2337,6 +2369,14 @@
       "onboard_time": 1680917486,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 97488,
+      "num": 115848,
+      "word": "宝马女司机醉驾撞人拖行案下周开庭",
+      "onboard_time": 1680957749,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 96134,
