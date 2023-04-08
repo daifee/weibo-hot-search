@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680941986538,
+  "endTime": 1680942809779,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -1955,6 +1955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 937006,
+      "num": 937006,
+      "word": "王宝强在老家广场唱戏",
+      "onboard_time": 1680937706,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 936446,
       "num": 936446,
       "word": "92岁默多克与未婚妻分手",
@@ -2032,14 +2040,6 @@
       "word": "唐鹤德 夜阑静有谁共鸣",
       "onboard_time": 1680309506,
       "rank": 3,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 914118,
-      "num": 914118,
-      "word": "王宝强在老家广场唱戏",
-      "onboard_time": 1680937706,
-      "rank": 32,
       "category": "艺人"
     },
     {
@@ -2371,6 +2371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 843105,
+      "num": 843105,
+      "word": "月薪两千的生活是怎样的",
+      "onboard_time": 1680937165,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 841833,
       "num": 841833,
       "word": "上海医生杀妻案岳母带小孩连夜搬家",
@@ -2385,14 +2393,6 @@
       "onboard_time": 1680422850,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 838945,
-      "num": 838945,
-      "word": "月薪两千的生活是怎样的",
-      "onboard_time": 1680937165,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 837448,
@@ -2425,6 +2425,14 @@
       "onboard_time": 1680658889,
       "rank": 8,
       "category": "教育"
+    },
+    {
+      "raw_hot": 832221,
+      "num": 832221,
+      "word": "中电科工会回应职工写周末不请假保证",
+      "onboard_time": 1680940887,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 828867,
@@ -3779,6 +3787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 584038,
+      "num": 584038,
+      "word": "这样追星可刑吗",
+      "onboard_time": 1680940527,
+      "rank": 8,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 583391,
       "num": 583391,
       "word": "网传王一博参加香奈儿大秀",
@@ -3923,6 +3939,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 559977,
+      "num": 204087,
+      "word": "小红书崩了",
+      "onboard_time": 1680941126,
+      "rank": 30,
+      "category": "科技"
+    },
+    {
       "raw_hot": 559336,
       "num": 559336,
       "word": "才知道充电宝可以暂停计费",
@@ -4009,14 +4033,6 @@
       "onboard_time": 1680699213,
       "rank": 14,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 548231,
-      "num": 548231,
-      "word": "中电科工会回应职工写周末不请假保证",
-      "onboard_time": 1680940887,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 547973,
@@ -4392,6 +4408,14 @@
       "word": "长月烬明刷新仙侠剧破万纪录",
       "onboard_time": 1680913103,
       "rank": 8,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 515622,
+      "num": 515622,
+      "word": "匪我思存追剧长月烬明",
+      "onboard_time": 1680941306,
+      "rank": 24,
       "category": "影视"
     },
     {
@@ -4857,14 +4881,6 @@
       "onboard_time": 1680761069,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 473159,
-      "num": 473159,
-      "word": "这样追星可刑吗",
-      "onboard_time": 1680940527,
-      "rank": 8,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 472984,
@@ -5707,14 +5723,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 399282,
-      "num": 204087,
-      "word": "小红书崩了",
-      "onboard_time": 1680941126,
-      "rank": 30,
-      "category": "科技"
-    },
-    {
       "raw_hot": 398672,
       "num": 398672,
       "word": "重庆密室好卷",
@@ -5753,6 +5761,14 @@
       "onboard_time": 1680786933,
       "rank": 48,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 395356,
+      "num": 395356,
+      "word": "萌兰再现经典一字马",
+      "onboard_time": 1680938248,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 394749,
@@ -6267,14 +6283,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 361387,
-      "num": 361387,
-      "word": "萌兰再现经典一字马",
-      "onboard_time": 1680938248,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 359919,
       "num": 359919,
       "word": "定妆照诈骗",
@@ -6475,6 +6483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 348049,
+      "num": 348049,
+      "word": "全国在校大学生来济南免费玩",
+      "onboard_time": 1680936867,
+      "rank": 34,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 347754,
       "num": 347754,
       "word": "清明节",
@@ -6617,14 +6633,6 @@
       "onboard_time": 1680508531,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 342512,
-      "num": 342512,
-      "word": "全国在校大学生来济南免费玩",
-      "onboard_time": 1680936867,
-      "rank": 34,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 342475,
@@ -8721,14 +8729,6 @@
       "onboard_time": 1680509912,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 250975,
-      "num": 250975,
-      "word": "匪我思存追剧长月烬明",
-      "onboard_time": 1680941306,
-      "rank": 24,
-      "category": "影视"
     },
     {
       "raw_hot": 250866,
@@ -11683,6 +11683,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 197977,
+      "num": 197977,
+      "word": "TF三代演唱会学院风公式照",
+      "onboard_time": 1680940645,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 197964,
       "num": 182546,
       "word": "白鹿学舞",
@@ -11817,14 +11825,6 @@
       "onboard_time": 1680591391,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 196256,
-      "num": 196256,
-      "word": "TF三代演唱会学院风公式照",
-      "onboard_time": 1680940645,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 196237,
@@ -12627,6 +12627,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 188064,
+      "num": 188064,
+      "word": "我国新冠溯源研究情况发布会",
+      "onboard_time": 1680942085,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188032,
       "num": 188032,
       "word": "宋三川学花泽类倒立",
@@ -13403,6 +13411,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 176130,
+      "num": 176130,
+      "word": "IVE先行曲一位",
+      "onboard_time": 1680941486,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 175763,
       "num": 175763,
       "word": "张含韵说我爱我的三十岁",
@@ -13761,14 +13777,6 @@
       "onboard_time": 1680355351,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 169234,
-      "num": 169234,
-      "word": "IVE先行曲一位",
-      "onboard_time": 1680941486,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 169087,
@@ -15275,6 +15283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141671,
+      "num": 141671,
+      "word": "宋三川给梁友安剪的狗啃刘海",
+      "onboard_time": 1680942205,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 141596,
       "num": 141596,
       "word": "乃万心游MV",
@@ -16075,6 +16091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 126465,
+      "num": 126465,
+      "word": "00后歌手的vocal实力",
+      "onboard_time": 1680942565,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 126434,
       "num": 126434,
       "word": "李泰民正式退伍",
@@ -16591,6 +16615,14 @@
       "num": 115293,
       "word": "18个年轻人关心的健康常识",
       "onboard_time": 1680828751,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 114410,
+      "num": 114410,
+      "word": "美国警察搞错出警地址误杀房主",
+      "onboard_time": 1680942505,
       "rank": 46,
       "category": "社会新闻"
     },

@@ -1,6 +1,6 @@
 {
   "startTime": 1680884526258,
-  "endTime": 1680941986538,
+  "endTime": 1680942809779,
   "band_list": [
     {
       "raw_hot": 2654974,
@@ -155,8 +155,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 914118,
-      "num": 914118,
+      "raw_hot": 937006,
+      "num": 937006,
       "word": "王宝强在老家广场唱戏",
       "onboard_time": 1680937706,
       "rank": 32,
@@ -219,12 +219,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 838945,
-      "num": 838945,
+      "raw_hot": 843105,
+      "num": 843105,
       "word": "月薪两千的生活是怎样的",
       "onboard_time": 1680937165,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 832221,
+      "num": 832221,
+      "word": "中电科工会回应职工写周末不请假保证",
+      "onboard_time": 1680940887,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 827980,
@@ -315,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 584038,
+      "num": 584038,
+      "word": "这样追星可刑吗",
+      "onboard_time": 1680940527,
+      "rank": 8,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 583391,
       "num": 583391,
       "word": "网传王一博参加香奈儿大秀",
@@ -331,6 +347,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 559977,
+      "num": 204087,
+      "word": "小红书崩了",
+      "onboard_time": 1680941126,
+      "rank": 30,
+      "category": "科技"
+    },
+    {
       "raw_hot": 559336,
       "num": 559336,
       "word": "才知道充电宝可以暂停计费",
@@ -345,14 +369,6 @@
       "onboard_time": 1680878793,
       "rank": 31,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 548231,
-      "num": 548231,
-      "word": "中电科工会回应职工写周末不请假保证",
-      "onboard_time": 1680940887,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 547537,
@@ -395,6 +411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 515622,
+      "num": 515622,
+      "word": "匪我思存追剧长月烬明",
+      "onboard_time": 1680941306,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 509273,
       "num": 509273,
       "word": "离职是主动辞职好还是被辞退好",
@@ -433,14 +457,6 @@
       "onboard_time": 1680910341,
       "rank": 11,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 473159,
-      "num": 473159,
-      "word": "这样追星可刑吗",
-      "onboard_time": 1680940527,
-      "rank": 8,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 468160,
@@ -507,12 +523,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 399282,
-      "num": 204087,
-      "word": "小红书崩了",
-      "onboard_time": 1680941126,
-      "rank": 30,
-      "category": "科技"
+      "raw_hot": 395356,
+      "num": 395356,
+      "word": "萌兰再现经典一字马",
+      "onboard_time": 1680938248,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 388506,
@@ -571,14 +587,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 361387,
-      "num": 361387,
-      "word": "萌兰再现经典一字马",
-      "onboard_time": 1680938248,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 356894,
       "num": 356894,
       "word": "成龙身体已经不能再打封闭了",
@@ -603,6 +611,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 348049,
+      "num": 348049,
+      "word": "全国在校大学生来济南免费玩",
+      "onboard_time": 1680936867,
+      "rank": 34,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 347133,
       "num": 347133,
       "word": "结婚建议远嫁吗",
@@ -625,14 +641,6 @@
       "onboard_time": 1680923246,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 342512,
-      "num": 342512,
-      "word": "全国在校大学生来济南免费玩",
-      "onboard_time": 1680936867,
-      "rank": 34,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 336628,
@@ -753,14 +761,6 @@
       "onboard_time": 1680914785,
       "rank": 22,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 250975,
-      "num": 250975,
-      "word": "匪我思存追剧长月烬明",
-      "onboard_time": 1680941306,
-      "rank": 24,
-      "category": "影视"
     },
     {
       "raw_hot": 249801,
@@ -987,20 +987,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 197977,
+      "num": 197977,
+      "word": "TF三代演唱会学院风公式照",
+      "onboard_time": 1680940645,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 197956,
       "num": 197956,
       "word": "盘尼西林Ricky合体梦回乐夏",
       "onboard_time": 1680941186,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 196256,
-      "num": 196256,
-      "word": "TF三代演唱会学院风公式照",
-      "onboard_time": 1680940645,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 193851,
@@ -1041,6 +1041,14 @@
       "onboard_time": 1680908477,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 188064,
+      "num": 188064,
+      "word": "我国新冠溯源研究情况发布会",
+      "onboard_time": 1680942085,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 187486,
@@ -1091,6 +1099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 176130,
+      "num": 176130,
+      "word": "IVE先行曲一位",
+      "onboard_time": 1680941486,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 173949,
       "num": 173949,
       "word": "TF家族蝴蝶效应全新公式照",
@@ -1121,14 +1137,6 @@
       "onboard_time": 1680883049,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 169234,
-      "num": 169234,
-      "word": "IVE先行曲一位",
-      "onboard_time": 1680941486,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 166583,
@@ -1257,6 +1265,14 @@
       "onboard_time": 1680930627,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 141671,
+      "num": 141671,
+      "word": "宋三川给梁友安剪的狗啃刘海",
+      "onboard_time": 1680942205,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 140504,
@@ -1403,6 +1419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 126465,
+      "num": 126465,
+      "word": "00后歌手的vocal实力",
+      "onboard_time": 1680942565,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 126294,
       "num": 126294,
       "word": "GEN对战KT",
@@ -1481,6 +1505,14 @@
       "onboard_time": 1680874950,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 114410,
+      "num": 114410,
+      "word": "美国警察搞错出警地址误杀房主",
+      "onboard_time": 1680942505,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 112981,
@@ -1651,20 +1683,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 56689,
+      "num": 115239,
+      "word": "2023KPL春季赛",
+      "onboard_time": 1680939566,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 54914,
       "num": 78872,
       "word": "密子君道歉",
       "onboard_time": 1680853768,
       "rank": 49,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 52417,
-      "num": 115239,
-      "word": "2023KPL春季赛",
-      "onboard_time": 1680939566,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 44883,
