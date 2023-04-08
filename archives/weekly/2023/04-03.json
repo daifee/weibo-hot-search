@@ -1,6 +1,6 @@
 {
   "startTime": 1680452464197,
-  "endTime": 1680964411111,
+  "endTime": 1680966975514,
   "band_list": [
     {
       "raw_hot": 9506486,
@@ -452,7 +452,7 @@
     },
     {
       "raw_hot": 2333080,
-      "num": 548516,
+      "num": 582666,
       "word": "陈翔夜市摆摊",
       "onboard_time": 1680948388,
       "rank": 11,
@@ -787,6 +787,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 1736823,
+      "num": 1736823,
+      "word": "因为镯子贴膜被同事嘲笑了",
+      "onboard_time": 1680958170,
+      "rank": 6,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1735807,
       "num": 1566169,
       "word": "大量张继科周边被粉丝甩卖",
@@ -849,14 +857,6 @@
       "onboard_time": 1680782067,
       "rank": 6,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1633075,
-      "num": 1633075,
-      "word": "因为镯子贴膜被同事嘲笑了",
-      "onboard_time": 1680958170,
-      "rank": 6,
-      "category": "幽默"
     },
     {
       "raw_hot": 1630812,
@@ -1161,6 +1161,14 @@
       "onboard_time": 1680571408,
       "rank": 41,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 1340381,
+      "num": 1340381,
+      "word": "何炅说自己从来没让旅伴花过钱",
+      "onboard_time": 1680964472,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 1330361,
@@ -2099,6 +2107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 838570,
+      "num": 838570,
+      "word": "女子做实验硫酸蹭到脸上淡定冲水",
+      "onboard_time": 1680961710,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 837448,
       "num": 375683,
       "word": "女子坐飞机意外发现自己包机了",
@@ -2225,6 +2241,14 @@
       "onboard_time": 1680665729,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 805306,
+      "num": 805306,
+      "word": "月薪多少才会让你感觉幸福",
+      "onboard_time": 1680964351,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 804945,
@@ -2521,14 +2545,6 @@
       "onboard_time": 1680503011,
       "rank": 16,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 727967,
-      "num": 482380,
-      "word": "女子做实验硫酸蹭到脸上淡定冲水",
-      "onboard_time": 1680961710,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 727599,
@@ -2889,6 +2905,14 @@
       "onboard_time": 1680671790,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 653924,
+      "num": 653924,
+      "word": "长月烬明陈都灵邓为戏份",
+      "onboard_time": 1680963870,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 653611,
@@ -4515,6 +4539,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 433194,
+      "num": 433194,
+      "word": "虞书欣自己化的水光妆",
+      "onboard_time": 1680966212,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 431731,
       "num": 309215,
       "word": "崔杋圭撞脸宋亚轩",
@@ -5003,6 +5035,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 393014,
+      "num": 393014,
+      "word": "澹台烬叶夕雾异地恋",
+      "onboard_time": 1680963448,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 392944,
       "num": 392944,
       "word": "吴磊回应在娱乐圈当运动员",
@@ -5153,6 +5193,14 @@
       "onboard_time": 1680581012,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 382407,
+      "num": 382407,
+      "word": "中小学生有必要穿校服吗",
+      "onboard_time": 1680960448,
+      "rank": 36,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 380271,
@@ -5643,14 +5691,6 @@
       "category": "国内要闻,社会新闻"
     },
     {
-      "raw_hot": 345034,
-      "num": 345034,
-      "word": "澹台烬叶夕雾异地恋",
-      "onboard_time": 1680963448,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 344721,
       "num": 344721,
       "word": "巴黎逛街偶遇王菲",
@@ -5897,6 +5937,14 @@
       "onboard_time": 1680585810,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 327958,
+      "num": 306161,
+      "word": "别太信任猫了",
+      "onboard_time": 1680963630,
+      "rank": 47,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 327125,
@@ -6209,14 +6257,6 @@
       "onboard_time": 1680686549,
       "rank": 44,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 304262,
-      "num": 304262,
-      "word": "中小学生有必要穿校服吗",
-      "onboard_time": 1680960448,
-      "rank": 36,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 304237,
@@ -7067,14 +7107,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 264165,
-      "num": 264165,
-      "word": "长月烬明陈都灵邓为戏份",
-      "onboard_time": 1680963870,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 263884,
       "num": 263884,
       "word": "WE春季赛淘汰",
@@ -7795,6 +7827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 235476,
+      "num": 203796,
+      "word": "沈月一秒猜中陈哲远任务",
+      "onboard_time": 1680965013,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 235171,
       "num": 235171,
       "word": "张杰武汉站演唱会官宣加场",
@@ -8355,6 +8395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 218309,
+      "num": 201794,
+      "word": "徐明浩也在追狂飙",
+      "onboard_time": 1680966270,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 218283,
       "num": 218283,
       "word": "Rookie",
@@ -8875,14 +8923,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 207279,
-      "num": 247180,
-      "word": "月薪多少才会让你感觉幸福",
-      "onboard_time": 1680964351,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 207220,
       "num": 207220,
       "word": "北影节天坛奖入围影片公布",
@@ -9179,11 +9219,27 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 204529,
+      "num": 204529,
+      "word": "狼队VS切尔西",
+      "onboard_time": 1680965970,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204502,
       "num": 156168,
       "word": "陈若轩采访谈陆铮落泪",
       "onboard_time": 1680955828,
       "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 204433,
+      "num": 189559,
+      "word": "张新成说未来我们一起加油",
+      "onboard_time": 1680964412,
+      "rank": 35,
       "category": "影视"
     },
     {
@@ -9273,6 +9329,14 @@
       "onboard_time": 1680859469,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 203328,
+      "num": 203328,
+      "word": "eStarPro",
+      "onboard_time": 1680964472,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 203319,
@@ -10475,6 +10539,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 190548,
+      "num": 142796,
+      "word": "马思唯歌词",
+      "onboard_time": 1680966329,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 190482,
       "num": 190482,
       "word": "范丞丞机车大片",
@@ -10587,6 +10659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189576,
+      "num": 189576,
+      "word": "狼队战胜eStar",
+      "onboard_time": 1680966212,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 189552,
       "num": 189552,
       "word": "这狗子咋跟条毯子似的",
@@ -10625,6 +10705,14 @@
       "onboard_time": 1680908477,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189147,
+      "num": 142110,
+      "word": "IVE正规专主打MV预告",
+      "onboard_time": 1680964590,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 189072,
@@ -11139,6 +11227,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 181553,
+      "num": 139421,
+      "word": "周震南音乐节造型",
+      "onboard_time": 1680965194,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 181429,
       "num": 2201162,
       "word": "前行就是最好的纪念",
@@ -11369,6 +11465,14 @@
       "onboard_time": 1680941486,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 176125,
+      "num": 1176974,
+      "word": "这是现实版人在画中游",
+      "onboard_time": 1680962910,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 175763,
@@ -11929,6 +12033,14 @@
       "onboard_time": 1680689252,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 164255,
+      "num": 164255,
+      "word": "张凯 我就说火舞可以打金蝉",
+      "onboard_time": 1680966509,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 164125,
@@ -12715,14 +12827,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 144659,
-      "num": 1176974,
-      "word": "这是现实版人在画中游",
-      "onboard_time": 1680962910,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 144656,
       "num": 144656,
       "word": "赵粤库存跳舞视频",
@@ -12761,14 +12865,6 @@
       "onboard_time": 1680751589,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 143979,
-      "num": 158164,
-      "word": "别太信任猫了",
-      "onboard_time": 1680963630,
-      "rank": 47,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 143145,

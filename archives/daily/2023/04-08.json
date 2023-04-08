@@ -1,6 +1,6 @@
 {
   "startTime": 1680884526258,
-  "endTime": 1680964411111,
+  "endTime": 1680966975514,
   "band_list": [
     {
       "raw_hot": 2654974,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2333080,
-      "num": 548516,
+      "num": 582666,
       "word": "陈翔夜市摆摊",
       "onboard_time": 1680948388,
       "rank": 11,
@@ -83,8 +83,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1633075,
-      "num": 1633075,
+      "raw_hot": 1736823,
+      "num": 1736823,
       "word": "因为镯子贴膜被同事嘲笑了",
       "onboard_time": 1680958170,
       "rank": 6,
@@ -113,6 +113,14 @@
       "onboard_time": 1680958049,
       "rank": 3,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1340381,
+      "num": 1340381,
+      "word": "何炅说自己从来没让旅伴花过钱",
+      "onboard_time": 1680964472,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 1271520,
@@ -339,6 +347,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 838570,
+      "num": 838570,
+      "word": "女子做实验硫酸蹭到脸上淡定冲水",
+      "onboard_time": 1680961710,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 827980,
       "num": 827980,
       "word": "苏科大回应凌晨4点发考研录取通知",
@@ -361,6 +377,14 @@
       "onboard_time": 1680958467,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 805306,
+      "num": 805306,
+      "word": "月薪多少才会让你感觉幸福",
+      "onboard_time": 1680964351,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 792955,
@@ -395,14 +419,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 727967,
-      "num": 482380,
-      "word": "女子做实验硫酸蹭到脸上淡定冲水",
-      "onboard_time": 1680961710,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 702033,
       "num": 702033,
       "word": "张云龙在三里屯摆摊",
@@ -433,6 +449,14 @@
       "onboard_time": 1680909798,
       "rank": 34,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 653924,
+      "num": 653924,
+      "word": "长月烬明陈都灵邓为戏份",
+      "onboard_time": 1680963870,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 645604,
@@ -739,6 +763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 433194,
+      "num": 433194,
+      "word": "虞书欣自己化的水光妆",
+      "onboard_time": 1680966212,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 431087,
       "num": 347555,
       "word": "戚薇克莱茵蓝西装",
@@ -859,6 +891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 393014,
+      "num": 393014,
+      "word": "澹台烬叶夕雾异地恋",
+      "onboard_time": 1680963448,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 388506,
       "num": 388506,
       "word": "为什么说身体凉命更长",
@@ -873,6 +913,14 @@
       "onboard_time": 1680955046,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 382407,
+      "num": 382407,
+      "word": "中小学生有必要穿校服吗",
+      "onboard_time": 1680960448,
+      "rank": 36,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 379069,
@@ -1011,14 +1059,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 345034,
-      "num": 345034,
-      "word": "澹台烬叶夕雾异地恋",
-      "onboard_time": 1680963448,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 343503,
       "num": 343503,
       "word": "宠物鼠被滞留地铁上挠伤乘客",
@@ -1051,6 +1091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 327958,
+      "num": 306161,
+      "word": "别太信任猫了",
+      "onboard_time": 1680963630,
+      "rank": 47,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 318363,
       "num": 318363,
       "word": "被骂后委屈成一滩小狗",
@@ -1073,14 +1121,6 @@
       "onboard_time": 1680921568,
       "rank": 27,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 304262,
-      "num": 304262,
-      "word": "中小学生有必要穿校服吗",
-      "onboard_time": 1680960448,
-      "rank": 36,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 304237,
@@ -1219,14 +1259,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 264165,
-      "num": 264165,
-      "word": "长月烬明陈都灵邓为戏份",
-      "onboard_time": 1680963870,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 263650,
       "num": 263650,
       "word": "上海警方破获本市首例套路应聘诈骗案",
@@ -1347,6 +1379,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 235476,
+      "num": 203796,
+      "word": "沈月一秒猜中陈哲远任务",
+      "onboard_time": 1680965013,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 233686,
       "num": 233686,
       "word": "范丞丞把猪吓跑了",
@@ -1417,6 +1457,14 @@
       "onboard_time": 1680931586,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 218309,
+      "num": 201794,
+      "word": "徐明浩也在追狂飙",
+      "onboard_time": 1680966270,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 217436,
@@ -1507,14 +1555,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 207279,
-      "num": 247180,
-      "word": "月薪多少才会让你感觉幸福",
-      "onboard_time": 1680964351,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 206681,
       "num": 206681,
       "word": "罗云熙长月烬明每集都在吐血",
@@ -1571,11 +1611,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 204529,
+      "num": 204529,
+      "word": "狼队VS切尔西",
+      "onboard_time": 1680965970,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204502,
       "num": 156168,
       "word": "陈若轩采访谈陆铮落泪",
       "onboard_time": 1680955828,
       "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 204433,
+      "num": 189559,
+      "word": "张新成说未来我们一起加油",
+      "onboard_time": 1680964412,
+      "rank": 35,
       "category": "影视"
     },
     {
@@ -1593,6 +1649,14 @@
       "onboard_time": 1680923848,
       "rank": 34,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 203328,
+      "num": 203328,
+      "word": "eStarPro",
+      "onboard_time": 1680964472,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 203128,
@@ -1835,6 +1899,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 190548,
+      "num": 142796,
+      "word": "马思唯歌词",
+      "onboard_time": 1680966329,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 190331,
       "num": 190331,
       "word": "当四川珍稀动物摆上龙门阵",
@@ -1851,6 +1923,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 189576,
+      "num": 189576,
+      "word": "狼队战胜eStar",
+      "onboard_time": 1680966212,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 189344,
       "num": 189344,
       "word": "伯远INTO1海外行程vlog",
@@ -1865,6 +1945,14 @@
       "onboard_time": 1680908477,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189147,
+      "num": 142110,
+      "word": "IVE正规专主打MV预告",
+      "onboard_time": 1680964590,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 188880,
@@ -1971,6 +2059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 181553,
+      "num": 139421,
+      "word": "周震南音乐节造型",
+      "onboard_time": 1680965194,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 180688,
       "num": 945727,
       "word": "国产新型直升机AC332成功首飞",
@@ -2017,6 +2113,14 @@
       "onboard_time": 1680941486,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 176125,
+      "num": 1176974,
+      "word": "这是现实版人在画中游",
+      "onboard_time": 1680962910,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 175014,
@@ -2129,6 +2233,14 @@
       "onboard_time": 1680862712,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 164255,
+      "num": 164255,
+      "word": "张凯 我就说火舞可以打金蝉",
+      "onboard_time": 1680966509,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 162453,
@@ -2297,22 +2409,6 @@
       "onboard_time": 1680949170,
       "rank": 39,
       "category": "美食"
-    },
-    {
-      "raw_hot": 144659,
-      "num": 1176974,
-      "word": "这是现实版人在画中游",
-      "onboard_time": 1680962910,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 143979,
-      "num": 158164,
-      "word": "别太信任猫了",
-      "onboard_time": 1680963630,
-      "rank": 47,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 143145,
