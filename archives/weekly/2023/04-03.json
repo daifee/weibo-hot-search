@@ -1,6 +1,6 @@
 {
   "startTime": 1680452464197,
-  "endTime": 1680974041458,
+  "endTime": 1680975199802,
   "band_list": [
     {
       "raw_hot": 9506486,
@@ -8083,6 +8083,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 228484,
+      "num": 228484,
+      "word": "EXO再唱咆哮",
+      "onboard_time": 1680973281,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 228338,
       "num": 228338,
       "word": "喜欢你我也是",
@@ -9331,6 +9339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 203695,
+      "num": 203695,
+      "word": "李佳航李晟看毛不易演唱会",
+      "onboard_time": 1680973999,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 203446,
       "num": 155271,
       "word": "周柏豪武汉",
@@ -10008,14 +10024,6 @@
       "word": "盘尼西林Ricky合体梦回乐夏",
       "onboard_time": 1680941186,
       "rank": 31,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 197926,
-      "num": 103055,
-      "word": "EXO再唱咆哮",
-      "onboard_time": 1680973281,
-      "rank": 26,
       "category": "音乐"
     },
     {
@@ -13099,6 +13107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 138528,
+      "num": 98310,
+      "word": "胡歌问虚拟人没电了怎么办",
+      "onboard_time": 1680973879,
+      "rank": 44,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 138299,
       "num": 138299,
       "word": "AI自主学习让吴京刘德华重返20岁",
@@ -14275,14 +14291,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 83422,
-      "num": 74412,
-      "word": "胡歌问虚拟人没电了怎么办",
-      "onboard_time": 1680973879,
-      "rank": 44,
-      "category": "影视,幽默"
-    },
-    {
       "raw_hot": 82186,
       "num": 82186,
       "word": "朋友借钱你会给吗",
@@ -14329,14 +14337,6 @@
       "onboard_time": 1680487227,
       "rank": 14,
       "category": "游戏,美食"
-    },
-    {
-      "raw_hot": 74372,
-      "num": 74372,
-      "word": "李佳航李晟看毛不易演唱会",
-      "onboard_time": 1680973999,
-      "rank": 45,
-      "category": "音乐"
     },
     {
       "raw_hot": 73646,
@@ -14537,6 +14537,14 @@
       "onboard_time": 1680728292,
       "rank": 37,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 45316,
+      "num": 50648,
+      "word": "当代女生对丑甲的执念",
+      "onboard_time": 1680974418,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 42273,
