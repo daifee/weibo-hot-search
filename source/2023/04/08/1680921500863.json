@@ -1,0 +1,410 @@
+{
+  "runTime": 1680921500863,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2080479,
+        "num": 2080479,
+        "word": "领导多次在群内辱骂下属致其抑郁",
+        "onboard_time": 1680918387,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1576263,
+        "num": 1576263,
+        "word": "东部战区",
+        "onboard_time": 1680915927,
+        "rank": 1,
+        "category": "国内要闻,军事"
+      },
+      {
+        "raw_hot": 16257,
+        "num": 1111051,
+        "word": "开局之年共奋进",
+        "onboard_time": 1680876452,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 728236,
+        "num": 728236,
+        "word": "8人伪造完美履历同时入职多个单位",
+        "onboard_time": 1680916705,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 573663,
+        "num": 573663,
+        "word": "做四休三",
+        "onboard_time": 1680870448,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 539127,
+        "num": 539127,
+        "word": "杨紫把范丞丞逗到弯腰笑",
+        "onboard_time": 1680916107,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 538358,
+        "num": 538358,
+        "word": "陈都灵戏份",
+        "onboard_time": 1680920968,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 534748,
+        "num": 534748,
+        "word": "如何看待年轻人失业后假装上班",
+        "onboard_time": 1680916225,
+        "rank": 7,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 526965,
+        "num": 526965,
+        "word": "狂飙2正在筹备中",
+        "onboard_time": 1680911182,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 475031,
+        "num": 475031,
+        "word": "马克龙参访中山大学",
+        "onboard_time": 1680921447,
+        "rank": 9,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 2148716,
+        "num": 472299,
+        "word": "吉林一科长性侵小学生被刑拘",
+        "onboard_time": 1680917247,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1891160,
+        "num": 471541,
+        "word": "罗云熙 牙",
+        "onboard_time": 1680917548,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 500156,
+        "num": 469256,
+        "word": "关晓彤工作室的评论区",
+        "onboard_time": 1680917606,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 463793,
+        "num": 463793,
+        "word": "江疏影欢4把绯闻比喻成蚊子吸血",
+        "onboard_time": 1680918568,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 887306,
+        "num": 451800,
+        "word": "赵露思发缝",
+        "onboard_time": 1680911122,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 438318,
+        "num": 438318,
+        "word": "13岁孩子疑因游戏问题勒父亲脖子",
+        "onboard_time": 1680919886,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 403568,
+        "num": 403568,
+        "word": "山东推出399元高铁环游套票",
+        "onboard_time": 1680909798,
+        "rank": 16,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 377258,
+        "num": 377258,
+        "word": "我有个出家人朋友",
+        "onboard_time": 1680914847,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 362098,
+        "num": 362098,
+        "word": "黑莲花攻略手册",
+        "onboard_time": 1680910039,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 342954,
+        "num": 342954,
+        "word": "陈某龙故意散布谣言被依法行拘",
+        "onboard_time": 1680872427,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298588,
+        "num": 298588,
+        "word": "柳智敏粉发",
+        "onboard_time": 1680920007,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 291375,
+        "num": 291375,
+        "word": "白鹿 长月烬明",
+        "onboard_time": 1680920907,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 270903,
+        "num": 270903,
+        "word": "张雨绮手机壳 智者不入爱河",
+        "onboard_time": 1680878671,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267628,
+        "num": 267628,
+        "word": "才知道充电宝可以暂停计费",
+        "onboard_time": 1680878971,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 265218,
+        "num": 265218,
+        "word": "北京最难约的博物馆竟不是故宫",
+        "onboard_time": 1680918750,
+        "rank": 24,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 263692,
+        "num": 263692,
+        "word": "长月烬明刷新仙侠剧破万纪录",
+        "onboard_time": 1680913103,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 263650,
+        "num": 263650,
+        "word": "上海警方破获本市首例套路应聘诈骗案",
+        "onboard_time": 1680918086,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237083,
+        "num": 237083,
+        "word": "人民网评陈某龙造谣被行拘",
+        "onboard_time": 1680918687,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234595,
+        "num": 234595,
+        "word": "姜思达钢管舞视频",
+        "onboard_time": 1680914366,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 233201,
+        "num": 233201,
+        "word": "为什么说身体凉命更长",
+        "onboard_time": 1680872551,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232789,
+        "num": 232789,
+        "word": "范志毅女儿",
+        "onboard_time": 1680876093,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205917,
+        "num": 205917,
+        "word": "白幼瘦审美",
+        "onboard_time": 1680921090,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 199664,
+        "num": 199664,
+        "word": "王嘉尔711给了你多少钱",
+        "onboard_time": 1680920609,
+        "rank": 32,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 199013,
+        "num": 199013,
+        "word": "张远问陈楚生站姐用了哪款美颜软件",
+        "onboard_time": 1680917306,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197446,
+        "num": 197446,
+        "word": "东部战区组织环台岛战备警巡",
+        "onboard_time": 1680915745,
+        "rank": 34,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 191167,
+        "num": 191167,
+        "word": "张艺兴十个非常感谢钢铁贝壳们",
+        "onboard_time": 1680920609,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190690,
+        "num": 190690,
+        "word": "桃花坞对面山头全是闪光灯",
+        "onboard_time": 1680915206,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184390,
+        "num": 184390,
+        "word": "SEVENTEEN韩团首个百万中输",
+        "onboard_time": 1680910821,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 178918,
+        "num": 178918,
+        "word": "护考",
+        "onboard_time": 1680919527,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 139420,
+        "num": 139420,
+        "word": "原来这些歌都是20年前的了",
+        "onboard_time": 1680914785,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 138294,
+        "num": 138294,
+        "word": "这周给人的感觉",
+        "onboard_time": 1680920548,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130174,
+        "num": 130174,
+        "word": "抱团养老",
+        "onboard_time": 1680917846,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128283,
+        "num": 128283,
+        "word": "孙家栋院士94岁生日快乐",
+        "onboard_time": 1680917726,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121736,
+        "num": 121736,
+        "word": "太阳vs湖人",
+        "onboard_time": 1680915146,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117751,
+        "num": 117751,
+        "word": "中船获法国超210亿元订单",
+        "onboard_time": 1680892633,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 113672,
+        "num": 113672,
+        "word": "离职是主动辞职好还是被辞退好",
+        "onboard_time": 1680880590,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113325,
+        "num": 113325,
+        "word": "诈骗网红梅尼耶的MCN被申请破产",
+        "onboard_time": 1680871828,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104494,
+        "num": 104494,
+        "word": "和马 米卡",
+        "onboard_time": 1680877170,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100096,
+        "num": 100096,
+        "word": "长月烬明剧组群演",
+        "onboard_time": 1680910582,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 62965,
+        "num": 98201,
+        "word": "荒野行动",
+        "onboard_time": 1680883049,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#加快数字中国建设#"
+    }
+  }
+}
