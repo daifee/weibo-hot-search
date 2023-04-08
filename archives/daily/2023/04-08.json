@@ -1,6 +1,6 @@
 {
   "startTime": 1680884526258,
-  "endTime": 1680957970841,
+  "endTime": 1680959881664,
   "band_list": [
     {
       "raw_hot": 2654974,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2333080,
-      "num": 453663,
+      "num": 482789,
       "word": "陈翔夜市摆摊",
       "onboard_time": 1680948388,
       "rank": 11,
@@ -323,12 +323,36 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 813776,
+      "num": 437700,
+      "word": "吴磊胸侧的疤",
+      "onboard_time": 1680958467,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 801293,
+      "num": 801293,
+      "word": "气胸",
+      "onboard_time": 1680958049,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 792955,
       "num": 792955,
       "word": "这样追星可刑吗",
       "onboard_time": 1680940527,
       "rank": 8,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 792746,
+      "num": 792746,
+      "word": "你好星期六下周有刘雨昕",
+      "onboard_time": 1680957389,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 785967,
@@ -387,6 +411,22 @@
       "category": "情感,教育"
     },
     {
+      "raw_hot": 641808,
+      "num": 641808,
+      "word": "因为镯子贴膜被同事嘲笑了",
+      "onboard_time": 1680958170,
+      "rank": 6,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 638280,
+      "num": 638280,
+      "word": "长月烬明第十一集预告",
+      "onboard_time": 1680955166,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 614234,
       "num": 448652,
       "word": "张元英姐姐全身照",
@@ -435,14 +475,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 588894,
-      "num": 588894,
-      "word": "长月烬明第十一集预告",
-      "onboard_time": 1680955166,
-      "rank": 5,
-      "category": "影视"
-    },
-    {
       "raw_hot": 586608,
       "num": 586608,
       "word": "广东成最敢生娃的省份",
@@ -481,6 +513,14 @@
       "onboard_time": 1680878971,
       "rank": 9,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 555207,
+      "num": 555207,
+      "word": "新兰",
+      "onboard_time": 1680958289,
+      "rank": 8,
+      "category": "动漫"
     },
     {
       "raw_hot": 549713,
@@ -579,6 +619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 491531,
+      "num": 491531,
+      "word": "宝马女司机醉驾撞人拖行案下周开庭",
+      "onboard_time": 1680957749,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 487924,
       "num": 487924,
       "word": "外来媳妇本地郎清明特辑",
@@ -635,8 +683,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 441505,
+      "num": 299340,
+      "word": "吴世勋脸链",
+      "onboard_time": 1680958410,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 431087,
-      "num": 192302,
+      "num": 277725,
       "word": "戚薇克莱茵蓝西装",
       "onboard_time": 1680953848,
       "rank": 20,
@@ -667,7 +723,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 409686,
+      "raw_hot": 412985,
       "num": 409686,
       "word": "易烊千玺曾饰演少年屈原",
       "onboard_time": 1680956246,
@@ -764,7 +820,7 @@
     },
     {
       "raw_hot": 372448,
-      "num": 266722,
+      "num": 277059,
       "word": "带患癌妈妈理发还价5元遭店主咒骂",
       "onboard_time": 1680945146,
       "rank": 47,
@@ -828,7 +884,7 @@
     },
     {
       "raw_hot": 355251,
-      "num": 219537,
+      "num": 272517,
       "word": "张嘉倪祝高加林黄亚萍安好",
       "onboard_time": 1680956667,
       "rank": 31,
@@ -873,6 +929,14 @@
       "onboard_time": 1680923246,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 341502,
+      "num": 274856,
+      "word": "青春环游记",
+      "onboard_time": 1680955046,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 336628,
@@ -923,6 +987,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 306191,
+      "num": 274378,
+      "word": "哈妹一惊一乍是薛佳凝设计的",
+      "onboard_time": 1680959311,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 304038,
       "num": 304038,
       "word": "张云龙高情商发言",
@@ -963,8 +1035,16 @@
       "category": "影视"
     },
     {
+      "raw_hot": 292396,
+      "num": 274076,
+      "word": "梁博现场",
+      "onboard_time": 1680959130,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 291746,
-      "num": 179616,
+      "num": 207944,
       "word": "李一桐玫瑰红裙造型",
       "onboard_time": 1680955466,
       "rank": 26,
@@ -993,6 +1073,14 @@
       "onboard_time": 1680910582,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 271107,
+      "num": 271107,
+      "word": "全圆佑这是报了个旅游团吧",
+      "onboard_time": 1680957568,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 269238,
@@ -1052,7 +1140,7 @@
     },
     {
       "raw_hot": 257810,
-      "num": 202434,
+      "num": 275238,
       "word": "猪鼻子是手机支架",
       "onboard_time": 1680951926,
       "rank": 49,
@@ -1089,14 +1177,6 @@
       "onboard_time": 1680878551,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 247009,
-      "num": 163335,
-      "word": "青春环游记",
-      "onboard_time": 1680955046,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 240802,
@@ -1163,14 +1243,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 226876,
-      "num": 140278,
-      "word": "全圆佑这是报了个旅游团吧",
-      "onboard_time": 1680957568,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 225762,
       "num": 225762,
       "word": "澹台烬把叶夕雾挂在马上",
@@ -1203,6 +1275,22 @@
       "category": "影视,幽默"
     },
     {
+      "raw_hot": 212722,
+      "num": 212722,
+      "word": "澹台烬善良",
+      "onboard_time": 1680959552,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 210870,
+      "num": 207952,
+      "word": "小狐狸勾叶夕雾下巴",
+      "onboard_time": 1680959610,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 210527,
       "num": 210527,
       "word": "张远问陈楚生站姐用了哪款美颜软件",
@@ -1233,6 +1321,14 @@
       "onboard_time": 1680945265,
       "rank": 32,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 207959,
+      "num": 207959,
+      "word": "品质盛典",
+      "onboard_time": 1680959670,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 207780,
@@ -1288,6 +1384,14 @@
       "word": "陈若轩采访谈陆铮落泪",
       "onboard_time": 1680955828,
       "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 204437,
+      "num": 204437,
+      "word": "澹台烬说萧凛没教",
+      "onboard_time": 1680958588,
+      "rank": 44,
       "category": "影视"
     },
     {
@@ -1364,7 +1468,7 @@
     },
     {
       "raw_hot": 201357,
-      "num": 201357,
+      "num": 273183,
       "word": "eStar对战狼队",
       "onboard_time": 1680957328,
       "rank": 19,
@@ -1387,8 +1491,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 201101,
+      "num": 201101,
+      "word": "杨洋品质影响力剧星",
+      "onboard_time": 1680959849,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 201069,
-      "num": 201069,
+      "num": 217363,
       "word": "一直不回家也不会想家",
       "onboard_time": 1680949586,
       "rank": 39,
@@ -1555,14 +1667,6 @@
       "category": "影视,幽默"
     },
     {
-      "raw_hot": 188683,
-      "num": 127646,
-      "word": "你好星期六下周有刘雨昕",
-      "onboard_time": 1680957389,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 188060,
       "num": 188009,
       "word": "澹台烬靠叶夕雾的肩膀",
@@ -1649,6 +1753,14 @@
       "onboard_time": 1680874771,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 181985,
+      "num": 276443,
+      "word": "00后整顿职场同事一旁窃喜",
+      "onboard_time": 1680954506,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 180688,
@@ -1859,14 +1971,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 156135,
-      "num": 156135,
-      "word": "00后整顿职场同事一旁窃喜",
-      "onboard_time": 1680954506,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 155404,
       "num": 127311,
       "word": "毛不易苏州演唱会",
@@ -1913,6 +2017,14 @@
       "onboard_time": 1680923968,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 149975,
+      "num": 272562,
+      "word": "真不能穿黑色裤子抱宠物",
+      "onboard_time": 1680957027,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 149935,
@@ -2011,8 +2123,16 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 138775,
+      "num": 222520,
+      "word": "2023LPL春季赛季后赛",
+      "onboard_time": 1680958410,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 138713,
-      "num": 138713,
+      "num": 190902,
       "word": "王哲林常规赛MVP",
       "onboard_time": 1680955225,
       "rank": 38,
@@ -2065,14 +2185,6 @@
       "onboard_time": 1680936026,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 134327,
-      "num": 134327,
-      "word": "真不能穿黑色裤子抱宠物",
-      "onboard_time": 1680957027,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 133087,
@@ -2227,6 +2339,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 119171,
+      "num": 215506,
+      "word": "90岁游本昌对年轻演员说你们好幸福",
+      "onboard_time": 1680958588,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 118802,
       "num": 118802,
       "word": "陈奕迅说好疯狂好激动",
@@ -2369,14 +2489,6 @@
       "onboard_time": 1680917486,
       "rank": 46,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 97488,
-      "num": 115848,
-      "word": "宝马女司机醉驾撞人拖行案下周开庭",
-      "onboard_time": 1680957749,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 96134,
