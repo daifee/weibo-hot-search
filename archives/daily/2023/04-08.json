@@ -1,6 +1,6 @@
 {
   "startTime": 1680884526258,
-  "endTime": 1680930892329,
+  "endTime": 1680932009970,
   "band_list": [
     {
       "raw_hot": 2654974,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1938370,
-      "num": 511945,
+      "num": 524041,
       "word": "罗云熙 牙",
       "onboard_time": 1680917548,
       "rank": 12,
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1271520,
+      "num": 1271520,
+      "word": "徐良回应消失的三年",
+      "onboard_time": 1680926909,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1215226,
       "num": 1215226,
       "word": "范志毅女儿",
@@ -89,14 +97,6 @@
       "onboard_time": 1680921090,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1153826,
-      "num": 1153826,
-      "word": "徐良回应消失的三年",
-      "onboard_time": 1680926909,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 1053870,
@@ -235,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 583391,
+      "num": 583391,
+      "word": "网传王一博参加香奈儿大秀",
+      "onboard_time": 1680928530,
+      "rank": 8,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 559336,
       "num": 559336,
       "word": "才知道充电宝可以暂停计费",
@@ -259,12 +267,12 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 538411,
-      "num": 538411,
-      "word": "网传王一博参加香奈儿大秀",
-      "onboard_time": 1680928530,
-      "rank": 8,
-      "category": "作品衍生,时尚"
+      "raw_hot": 544444,
+      "num": 544444,
+      "word": "杭州女生摆摊卖樱花奶昔日入过千",
+      "onboard_time": 1680929488,
+      "rank": 19,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 526371,
@@ -337,6 +345,14 @@
       "onboard_time": 1680875611,
       "rank": 8,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 451340,
+      "num": 451340,
+      "word": "再就业男团",
+      "onboard_time": 1680931465,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 419987,
@@ -473,14 +489,6 @@
       "onboard_time": 1680918687,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 320447,
-      "num": 320447,
-      "word": "杭州女生摆摊卖樱花奶昔日入过千",
-      "onboard_time": 1680929488,
-      "rank": 19,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 316972,
@@ -643,6 +651,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 221520,
+      "num": 221520,
+      "word": "湖人",
+      "onboard_time": 1680931586,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 212904,
       "num": 166998,
       "word": "少爷和我问长月烬明好看吗",
@@ -683,11 +699,27 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 202574,
+      "num": 1381574,
+      "word": "镜头记录黄河水颜色变化有多大",
+      "onboard_time": 1680927928,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202406,
       "num": 202406,
       "word": "高瀚宇无间道港风舞台",
       "onboard_time": 1680927807,
       "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 201942,
+      "num": 201942,
+      "word": "了不起舞社",
+      "onboard_time": 1680931646,
+      "rank": 26,
       "category": "综艺"
     },
     {
@@ -779,6 +811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189854,
+      "num": 189854,
+      "word": "青春环游记4今晚开播",
+      "onboard_time": 1680931525,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189245,
       "num": 172699,
       "word": "逼疯苏醒只要一首山歌",
@@ -811,14 +851,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 178852,
-      "num": 1381574,
-      "word": "镜头记录黄河水颜色变化有多大",
-      "onboard_time": 1680927928,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 172450,
       "num": 172450,
       "word": "法国总统马克龙到访广州",
@@ -843,28 +875,28 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 165418,
-      "num": 143377,
-      "word": "裳月烬明",
-      "onboard_time": 1680862712,
-      "rank": 32,
-      "category": "影视"
+      "raw_hot": 166583,
+      "num": 166583,
+      "word": "娜扎江疏影同框视频",
+      "onboard_time": 1680930266,
+      "rank": 35,
+      "category": "综艺"
     },
     {
-      "raw_hot": 164751,
-      "num": 164751,
+      "raw_hot": 166332,
+      "num": 166332,
       "word": "梁友安钻进宋三川被窝",
       "onboard_time": 1680928228,
       "rank": 46,
       "category": "影视"
     },
     {
-      "raw_hot": 163875,
-      "num": 163875,
-      "word": "娜扎江疏影同框视频",
-      "onboard_time": 1680930266,
-      "rank": 35,
-      "category": "综艺"
+      "raw_hot": 165418,
+      "num": 143377,
+      "word": "裳月烬明",
+      "onboard_time": 1680862712,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 160859,
@@ -931,12 +963,28 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 148052,
+      "num": 148052,
+      "word": "第十三届北影节天坛奖评委会阵容",
+      "onboard_time": 1680931886,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 147868,
       "num": 128932,
       "word": "李沁说活得漂亮比生得漂亮更重要",
       "onboard_time": 1680877892,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 143145,
+      "num": 143145,
+      "word": "勇士战胜国王",
+      "onboard_time": 1680930627,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 140504,
@@ -977,6 +1025,14 @@
       "onboard_time": 1680917846,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131848,
+      "num": 131848,
+      "word": "马嘉祺声生不息reaction",
+      "onboard_time": 1680931465,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 129669,
@@ -1025,14 +1081,6 @@
       "onboard_time": 1680866369,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 127446,
-      "num": 127446,
-      "word": "勇士战胜国王",
-      "onboard_time": 1680930627,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 125051,
@@ -1201,6 +1249,14 @@
       "onboard_time": 1680853768,
       "rank": 49,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 52544,
+      "num": 108408,
+      "word": "代号鸢心愿许愿",
+      "onboard_time": 1680931286,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 44883,

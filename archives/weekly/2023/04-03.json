@@ -1,6 +1,6 @@
 {
   "startTime": 1680452464197,
-  "endTime": 1680930892329,
+  "endTime": 1680932009970,
   "band_list": [
     {
       "raw_hot": 9506486,
@@ -668,7 +668,7 @@
     },
     {
       "raw_hot": 1938370,
-      "num": 511945,
+      "num": 524041,
       "word": "罗云熙 牙",
       "onboard_time": 1680917548,
       "rank": 12,
@@ -1219,6 +1219,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1271520,
+      "num": 1271520,
+      "word": "徐良回应消失的三年",
+      "onboard_time": 1680926909,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1241786,
       "num": 638733,
       "word": "肖战电影",
@@ -1289,14 +1297,6 @@
       "onboard_time": 1680494855,
       "rank": 15,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1153826,
-      "num": 1153826,
-      "word": "徐良回应消失的三年",
-      "onboard_time": 1680926909,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 1153403,
@@ -3035,6 +3035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 583391,
+      "num": 583391,
+      "word": "网传王一博参加香奈儿大秀",
+      "onboard_time": 1680928530,
+      "rank": 8,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 583224,
       "num": 321805,
       "word": "上班上出了结婚的感觉",
@@ -3235,6 +3243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 544444,
+      "num": 544444,
+      "word": "杭州女生摆摊卖樱花奶昔日入过千",
+      "onboard_time": 1680929488,
+      "rank": 19,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 543403,
       "num": 543403,
       "word": "四六级",
@@ -3296,14 +3312,6 @@
       "word": "韩素希 OMEGA",
       "onboard_time": 1680880292,
       "rank": 36,
-      "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 538411,
-      "num": 538411,
-      "word": "网传王一博参加香奈儿大秀",
-      "onboard_time": 1680928530,
-      "rank": 8,
       "category": "作品衍生,时尚"
     },
     {
@@ -3985,6 +3993,14 @@
       "onboard_time": 1680727632,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 451340,
+      "num": 451340,
+      "word": "再就业男团",
+      "onboard_time": 1680931465,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 450743,
@@ -5417,14 +5433,6 @@
       "onboard_time": 1680687688,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 320447,
-      "num": 320447,
-      "word": "杭州女生摆摊卖樱花奶昔日入过千",
-      "onboard_time": 1680929488,
-      "rank": 19,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 320037,
@@ -7483,6 +7491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 221520,
+      "num": 221520,
+      "word": "湖人",
+      "onboard_time": 1680931586,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 221257,
       "num": 221257,
       "word": "薄冰剧情版预告",
@@ -8467,6 +8483,14 @@
       "category": "美妆,时尚"
     },
     {
+      "raw_hot": 202574,
+      "num": 1381574,
+      "word": "镜头记录黄河水颜色变化有多大",
+      "onboard_time": 1680927928,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202542,
       "num": 202542,
       "word": "刘耀文新歌唱rap",
@@ -8544,6 +8568,14 @@
       "word": "陈赫范志毅喂摄像吃鲱鱼饺子",
       "onboard_time": 1680871107,
       "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 201942,
+      "num": 201942,
+      "word": "了不起舞社",
+      "onboard_time": 1680931646,
+      "rank": 26,
       "category": "综艺"
     },
     {
@@ -9507,6 +9539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189854,
+      "num": 189854,
+      "word": "青春环游记4今晚开播",
+      "onboard_time": 1680931525,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189709,
       "num": 189709,
       "word": "特朗普被正式拘捕",
@@ -10131,14 +10171,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 178852,
-      "num": 1381574,
-      "word": "镜头记录黄河水颜色变化有多大",
-      "onboard_time": 1680927928,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 177931,
       "num": 177931,
       "word": "张皓嘉受伤",
@@ -10563,6 +10595,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 166583,
+      "num": 166583,
+      "word": "娜扎江疏影同框视频",
+      "onboard_time": 1680930266,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 166332,
+      "num": 166332,
+      "word": "梁友安钻进宋三川被窝",
+      "onboard_time": 1680928228,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 166115,
       "num": 166115,
       "word": "王源健身vlog",
@@ -10651,14 +10699,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 164751,
-      "num": 164751,
-      "word": "梁友安钻进宋三川被窝",
-      "onboard_time": 1680928228,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
       "raw_hot": 164424,
       "num": 164424,
       "word": "五月天高雄vlog",
@@ -10681,14 +10721,6 @@
       "onboard_time": 1680778111,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 163875,
-      "num": 163875,
-      "word": "娜扎江疏影同框视频",
-      "onboard_time": 1680930266,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 163833,
@@ -11307,6 +11339,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 148052,
+      "num": 148052,
+      "word": "第十三届北影节天坛奖评委会阵容",
+      "onboard_time": 1680931886,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 147394,
       "num": 147394,
       "word": "一种很新的旅游方式",
@@ -11425,6 +11465,14 @@
       "onboard_time": 1680751589,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 143145,
+      "num": 143145,
+      "word": "勇士战胜国王",
+      "onboard_time": 1680930627,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 142941,
@@ -11787,6 +11835,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 131848,
+      "num": 131848,
+      "word": "马嘉祺声生不息reaction",
+      "onboard_time": 1680931465,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 131219,
       "num": 131219,
       "word": "五月天energy放手",
@@ -11881,14 +11937,6 @@
       "onboard_time": 1680878551,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 127446,
-      "num": 127446,
-      "word": "勇士战胜国王",
-      "onboard_time": 1680930627,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 127342,
@@ -12721,6 +12769,14 @@
       "onboard_time": 1680848188,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 52544,
+      "num": 108408,
+      "word": "代号鸢心愿许愿",
+      "onboard_time": 1680931286,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 48644,

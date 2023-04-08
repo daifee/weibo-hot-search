@@ -1,0 +1,410 @@
+{
+  "runTime": 1680932009970,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2070416,
+        "num": 2070416,
+        "word": "浙江工资不能低于这个数",
+        "onboard_time": 1680925528,
+        "rank": 0,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1271520,
+        "num": 1271520,
+        "word": "徐良回应消失的三年",
+        "onboard_time": 1680926909,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 202574,
+        "num": 1210129,
+        "word": "镜头记录黄河水颜色变化有多大",
+        "onboard_time": 1680927928,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1197387,
+        "num": 1197387,
+        "word": "苏州科技大学",
+        "onboard_time": 1680923006,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 910906,
+        "num": 910906,
+        "word": "19岁女孩整形医院抽脂后3天死亡",
+        "onboard_time": 1680922406,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 780982,
+        "num": 780982,
+        "word": "苏科大回应凌晨4点发考研录取通知",
+        "onboard_time": 1680927508,
+        "rank": 5,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 583391,
+        "num": 583391,
+        "word": "网传王一博参加香奈儿大秀",
+        "onboard_time": 1680928530,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 564230,
+        "num": 564230,
+        "word": "白幼瘦审美",
+        "onboard_time": 1680921090,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 563348,
+        "num": 563348,
+        "word": "广东成最敢生娃的省份",
+        "onboard_time": 1680925827,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 544444,
+        "num": 544444,
+        "word": "杭州女生摆摊卖樱花奶昔日入过千",
+        "onboard_time": 1680929488,
+        "rank": 9,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 928789,
+        "num": 524041,
+        "word": "罗云熙 牙",
+        "onboard_time": 1680917548,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 451340,
+        "num": 451340,
+        "word": "再就业男团",
+        "onboard_time": 1680931465,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 392232,
+        "num": 392232,
+        "word": "王嘉尔711给了你多少钱",
+        "onboard_time": 1680920609,
+        "rank": 12,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 369422,
+        "num": 369422,
+        "word": "长月烬明前8集戏份时长",
+        "onboard_time": 1680924627,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 366694,
+        "num": 366694,
+        "word": "马克龙参访中山大学",
+        "onboard_time": 1680931946,
+        "rank": 14,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 366813,
+        "num": 366317,
+        "word": "东部战区",
+        "onboard_time": 1680915927,
+        "rank": 15,
+        "category": "国内要闻,军事"
+      },
+      {
+        "raw_hot": 365221,
+        "num": 365221,
+        "word": "WE Are One",
+        "onboard_time": 1680922588,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 347785,
+        "num": 347785,
+        "word": "白鹿叶夕雾婚服",
+        "onboard_time": 1680927447,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 308783,
+        "num": 308783,
+        "word": "赵露思发缝",
+        "onboard_time": 1680911122,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 300478,
+        "num": 300478,
+        "word": "郑秀妍的直角肩",
+        "onboard_time": 1680928467,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 253975,
+        "num": 253975,
+        "word": "夫妻打闹妻子手不慎被掰骨折",
+        "onboard_time": 1680924808,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249031,
+        "num": 249031,
+        "word": "狂飙2正在筹备中",
+        "onboard_time": 1680911182,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 242409,
+        "num": 242409,
+        "word": "男孩被霸凌遭踹膝盖水杯倒风油精",
+        "onboard_time": 1680925167,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236698,
+        "num": 236698,
+        "word": "结婚建议远嫁吗",
+        "onboard_time": 1680925708,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 226780,
+        "num": 226780,
+        "word": "何洁时隔17年再唱快乐宝贝",
+        "onboard_time": 1680929188,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221520,
+        "num": 221520,
+        "word": "湖人",
+        "onboard_time": 1680931586,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201942,
+        "num": 201942,
+        "word": "了不起舞社",
+        "onboard_time": 1680931646,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189854,
+        "num": 189854,
+        "word": "青春环游记4今晚开播",
+        "onboard_time": 1680931525,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185618,
+        "num": 185618,
+        "word": "EXO出道颜值",
+        "onboard_time": 1680921568,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 129757,
+        "num": 181594,
+        "word": "8人伪造完美履历同时入职多个单位",
+        "onboard_time": 1680916705,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 482876,
+        "num": 181532,
+        "word": "领导多次在群内辱骂下属致其抑郁",
+        "onboard_time": 1680918387,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 404542,
+        "num": 181517,
+        "word": "吉林一科长性侵小学生被刑拘",
+        "onboard_time": 1680917247,
+        "rank": 31,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 181354,
+        "num": 181354,
+        "word": "宠物鼠被滞留地铁上挠伤乘客",
+        "onboard_time": 1680923246,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173497,
+        "num": 173497,
+        "word": "周雨彤模仿吴磊小时候",
+        "onboard_time": 1680928467,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 169743,
+        "num": 169743,
+        "word": "能为互关做的只有这么多了",
+        "onboard_time": 1680926127,
+        "rank": 34,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 166583,
+        "num": 166583,
+        "word": "娜扎江疏影同框视频",
+        "onboard_time": 1680930266,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166332,
+        "num": 166332,
+        "word": "梁友安钻进宋三川被窝",
+        "onboard_time": 1680928228,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 148052,
+        "num": 148052,
+        "word": "第十三届北影节天坛奖评委会阵容",
+        "onboard_time": 1680931886,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 143145,
+        "num": 143145,
+        "word": "勇士战胜国王",
+        "onboard_time": 1680930627,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142228,
+        "num": 142228,
+        "word": "人民网评陈某龙造谣被行拘",
+        "onboard_time": 1680918687,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139760,
+        "num": 139760,
+        "word": "范丞丞把猪吓跑了",
+        "onboard_time": 1680925348,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 137301,
+        "num": 137301,
+        "word": "柳智敏粉发",
+        "onboard_time": 1680920007,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 136949,
+        "num": 136949,
+        "word": "长月烬明刷新仙侠剧破万纪录",
+        "onboard_time": 1680913103,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 134665,
+        "num": 134665,
+        "word": "如何看待年轻人失业后假装上班",
+        "onboard_time": 1680916225,
+        "rank": 43,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 131848,
+        "num": 131848,
+        "word": "马嘉祺声生不息reaction",
+        "onboard_time": 1680931465,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131709,
+        "num": 131709,
+        "word": "金智秀FlowerMV播放量破亿",
+        "onboard_time": 1680925048,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 118248,
+        "num": 118248,
+        "word": "关晓彤工作室的评论区",
+        "onboard_time": 1680917606,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113965,
+        "num": 113965,
+        "word": "山东推出399元高铁环游套票",
+        "onboard_time": 1680909798,
+        "rank": 47,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 109025,
+        "num": 109025,
+        "word": "北京最难约的博物馆竟不是故宫",
+        "onboard_time": 1680918750,
+        "rank": 48,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 52544,
+        "num": 108408,
+        "word": "代号鸢心愿许愿",
+        "onboard_time": 1680931286,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#加快数字中国建设#"
+    }
+  }
+}
