@@ -1,6 +1,6 @@
 {
   "startTime": 1680884526258,
-  "endTime": 1680950007584,
+  "endTime": 1680952386510,
   "band_list": [
     {
       "raw_hot": 2654974,
@@ -19,8 +19,8 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 2281117,
-      "num": 449749,
+      "raw_hot": 2333080,
+      "num": 453663,
       "word": "陈翔夜市摆摊",
       "onboard_time": 1680948388,
       "rank": 11,
@@ -187,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1006534,
+      "num": 463855,
+      "word": "翁虹女儿颜值",
+      "onboard_time": 1680947908,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1005357,
       "num": 1005357,
       "word": "娜扎晒花少3合照",
@@ -208,14 +216,6 @@
       "word": "王宝强在老家广场唱戏",
       "onboard_time": 1680937706,
       "rank": 32,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 934766,
-      "num": 463855,
-      "word": "翁虹女儿颜值",
-      "onboard_time": 1680947908,
-      "rank": 10,
       "category": "艺人"
     },
     {
@@ -347,6 +347,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 663300,
+      "num": 663300,
+      "word": "张云龙在三里屯摆摊",
+      "onboard_time": 1680948868,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 663175,
       "num": 663175,
       "word": "山东推出399元高铁环游套票",
@@ -361,6 +369,14 @@
       "onboard_time": 1680932306,
       "rank": 20,
       "category": "情感,教育"
+    },
+    {
+      "raw_hot": 614234,
+      "num": 448652,
+      "word": "张元英姐姐全身照",
+      "onboard_time": 1680948987,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 603762,
@@ -571,6 +587,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 454202,
+      "num": 454202,
+      "word": "北京WB",
+      "onboard_time": 1680949887,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 451340,
       "num": 451340,
       "word": "再就业男团",
@@ -643,14 +667,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 387367,
-      "num": 387367,
-      "word": "张元英姐姐全身照",
-      "onboard_time": 1680948987,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 379069,
       "num": 379069,
       "word": "男孩被霸凌遭踹膝盖水杯倒风油精",
@@ -667,7 +683,7 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 368282,
+      "raw_hot": 372448,
       "num": 265810,
       "word": "带患癌妈妈理发还价5元遭店主咒骂",
       "onboard_time": 1680945146,
@@ -819,14 +835,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 309087,
-      "num": 216173,
-      "word": "张云龙在三里屯摆摊",
-      "onboard_time": 1680948868,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 304038,
       "num": 304038,
       "word": "张云龙高情商发言",
@@ -883,6 +891,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 270302,
+      "num": 270302,
+      "word": "秀智近照",
+      "onboard_time": 1680951567,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 269238,
       "num": 269238,
       "word": "杨超越淡黄色公主裙",
@@ -916,7 +932,7 @@
     },
     {
       "raw_hot": 259286,
-      "num": 196771,
+      "num": 253553,
       "word": "权志龙太阳大声同框",
       "onboard_time": 1680949947,
       "rank": 23,
@@ -1027,6 +1043,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 225832,
+      "num": 225832,
+      "word": "长月烬明带动优酷APP下载量登顶",
+      "onboard_time": 1680952287,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 225762,
       "num": 225762,
       "word": "澹台烬把叶夕雾挂在马上",
@@ -1099,6 +1123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205729,
+      "num": 205729,
+      "word": "澹台烬反杀成王",
+      "onboard_time": 1680951865,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 205305,
       "num": 205305,
       "word": "杨丞琳爱过错过舞台",
@@ -1115,12 +1147,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203671,
+      "num": 203671,
+      "word": "白鹤亮翅",
+      "onboard_time": 1680951507,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 203417,
       "num": 203417,
       "word": "喻言CHAMPION体育画报周年刊封面",
       "onboard_time": 1680923848,
       "rank": 34,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 203128,
+      "num": 203128,
+      "word": "全程没看弟弟也没放过弟弟",
+      "onboard_time": 1680947068,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 202574,
@@ -1243,6 +1291,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 197083,
+      "num": 197083,
+      "word": "宋祖儿希望45岁的白宇也要开心自在",
+      "onboard_time": 1680952287,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 196030,
+      "num": 196030,
+      "word": "BLG对战OMG",
+      "onboard_time": 1680951206,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 193851,
       "num": 193851,
       "word": "护考",
@@ -1281,6 +1345,22 @@
       "onboard_time": 1680923789,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190023,
+      "num": 190023,
+      "word": "严浩翔明天有新歌",
+      "onboard_time": 1680951926,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 189344,
+      "num": 189344,
+      "word": "伯远INTO1海外行程vlog",
+      "onboard_time": 1680951926,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 189245,
@@ -1339,20 +1419,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 185496,
+      "num": 185496,
+      "word": "李荣浩成都演唱会",
+      "onboard_time": 1680951387,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 185463,
       "num": 185463,
       "word": "唐艺昕一字肩花裙",
       "onboard_time": 1680939445,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 185008,
-      "num": 185008,
-      "word": "全程没看弟弟也没放过弟弟",
-      "onboard_time": 1680947068,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 183061,
@@ -1379,6 +1459,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 180448,
+      "num": 158079,
+      "word": "叶夕雾得到倾世之玉",
+      "onboard_time": 1680951026,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 180313,
+      "num": 160513,
+      "word": "苏醒如果被绑架你就眨眨眼",
+      "onboard_time": 1680949887,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179919,
       "num": 179919,
       "word": "徐明浩童年旧照",
@@ -1393,6 +1489,14 @@
       "onboard_time": 1680941486,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 175913,
+      "num": 754238,
+      "word": "国产新型直升机AC332成功首飞",
+      "onboard_time": 1680950428,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 173949,
@@ -1433,6 +1537,14 @@
       "onboard_time": 1680883049,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 167384,
+      "num": 151890,
+      "word": "长月烬明请敦煌专家指导服化细节",
+      "onboard_time": 1680948569,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 166583,
@@ -1483,20 +1595,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 160513,
-      "num": 160513,
-      "word": "苏醒如果被绑架你就眨眨眼",
-      "onboard_time": 1680949887,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 160247,
       "num": 160247,
       "word": "警方通报网传中电科加班事件调查结果",
       "onboard_time": 1680871828,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158737,
+      "num": 158737,
+      "word": "一直不回家也不会想家",
+      "onboard_time": 1680949586,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 158311,
@@ -1603,14 +1715,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 143856,
-      "num": 126701,
-      "word": "长月烬明请敦煌专家指导服化细节",
-      "onboard_time": 1680948569,
-      "rank": 45,
-      "category": "影视"
-    },
-    {
       "raw_hot": 143145,
       "num": 143145,
       "word": "勇士战胜国王",
@@ -1625,6 +1729,14 @@
       "onboard_time": 1680942205,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 140512,
+      "num": 154048,
+      "word": "新冠溯源发现地不等于起源地",
+      "onboard_time": 1680947187,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140504,
@@ -1691,14 +1803,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 135060,
-      "num": 154048,
-      "word": "新冠溯源发现地不等于起源地",
-      "onboard_time": 1680947187,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 133087,
       "num": 133087,
       "word": "尘封十三载",
@@ -1729,14 +1833,6 @@
       "onboard_time": 1680931465,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 131258,
-      "num": 125359,
-      "word": "北京WB",
-      "onboard_time": 1680949887,
-      "rank": 46,
-      "category": "游戏"
     },
     {
       "raw_hot": 130433,
@@ -1905,6 +2001,14 @@
       "onboard_time": 1680913704,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 111507,
+      "num": 139650,
+      "word": "猪鼻子是手机支架",
+      "onboard_time": 1680951926,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 111496,
@@ -2112,6 +2216,22 @@
       "word": "开局之年共奋进",
       "onboard_time": 1680876452,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21870,
+      "num": 680691,
+      "word": "青海湖一年一度壮美开湖",
+      "onboard_time": 1680952226,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8897,
+      "num": 558126,
+      "word": "被非遗高杆船技惊艳到了",
+      "onboard_time": 1680952226,
+      "rank": 6,
       "category": "社会新闻"
     }
   ],
