@@ -1,7 +1,15 @@
 {
   "startTime": 1680884526258,
-  "endTime": 1680916705690,
+  "endTime": 1680918030398,
   "band_list": [
+    {
+      "raw_hot": 1847263,
+      "num": 516472,
+      "word": "东部战区",
+      "onboard_time": 1680915927,
+      "rank": 11,
+      "category": "国内要闻,军事"
+    },
     {
       "raw_hot": 1761181,
       "num": 1761181,
@@ -12,7 +20,7 @@
     },
     {
       "raw_hot": 1528249,
-      "num": 454971,
+      "num": 513376,
       "word": "赵露思发缝",
       "onboard_time": 1680911122,
       "rank": 10,
@@ -33,6 +41,14 @@
       "onboard_time": 1680872427,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 858233,
+      "num": 858233,
+      "word": "杨紫把范丞丞逗到弯腰笑",
+      "onboard_time": 1680916107,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 856583,
@@ -75,6 +91,22 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 599276,
+      "num": 599276,
+      "word": "东部战区组织环台岛战备警巡",
+      "onboard_time": 1680915745,
+      "rank": 14,
+      "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 592683,
+      "num": 592683,
+      "word": "如何看待年轻人失业后假装上班",
+      "onboard_time": 1680916225,
+      "rank": 28,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 591950,
       "num": 150212,
       "word": "罗云熙瘦脱相",
@@ -83,20 +115,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 571093,
+      "num": 511945,
+      "word": "罗云熙 牙",
+      "onboard_time": 1680917548,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 559336,
       "num": 559336,
       "word": "才知道充电宝可以暂停计费",
       "onboard_time": 1680878971,
       "rank": 9,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 555922,
-      "num": 450823,
-      "word": "东部战区",
-      "onboard_time": 1680915927,
-      "rank": 11,
-      "category": "国内要闻,军事"
     },
     {
       "raw_hot": 548941,
@@ -115,6 +147,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 516370,
+      "num": 507602,
+      "word": "长月烬明刷新仙侠剧破万纪录",
+      "onboard_time": 1680913103,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 509421,
+      "num": 509421,
+      "word": "8人伪造完美履历同时入职多个单位",
+      "onboard_time": 1680916705,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 509273,
       "num": 509273,
       "word": "离职是主动辞职好还是被辞退好",
@@ -123,12 +171,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 479762,
-      "num": 479762,
-      "word": "长月烬明刷新仙侠剧破万纪录",
-      "onboard_time": 1680913103,
-      "rank": 8,
-      "category": "影视"
+      "raw_hot": 495327,
+      "num": 185549,
+      "word": "吉林一科长性侵小学生被刑拘",
+      "onboard_time": 1680917247,
+      "rank": 30,
+      "category": "社会负面"
     },
     {
       "raw_hot": 475912,
@@ -177,22 +225,6 @@
       "onboard_time": 1680872551,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 370537,
-      "num": 370537,
-      "word": "东部战区组织环台岛战备警巡",
-      "onboard_time": 1680915745,
-      "rank": 14,
-      "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 369942,
-      "num": 369942,
-      "word": "杨紫把范丞丞逗到弯腰笑",
-      "onboard_time": 1680916107,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 368063,
@@ -315,12 +347,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 227652,
+      "num": 227652,
+      "word": "关晓彤工作室的评论区",
+      "onboard_time": 1680917606,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 212904,
       "num": 166998,
       "word": "少爷和我问长月烬明好看吗",
       "onboard_time": 1680871528,
       "rank": 25,
       "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 210050,
+      "num": 210050,
+      "word": "桃花坞对面山头全是闪光灯",
+      "onboard_time": 1680915206,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 203058,
+      "num": 203058,
+      "word": "张远问陈楚生站姐用了哪款美颜软件",
+      "onboard_time": 1680917306,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 201462,
@@ -403,14 +459,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 165841,
-      "num": 165841,
-      "word": "如何看待年轻人失业后假装上班",
-      "onboard_time": 1680916225,
-      "rank": 28,
-      "category": "社会议题"
-    },
-    {
       "raw_hot": 165418,
       "num": 143377,
       "word": "裳月烬明",
@@ -419,20 +467,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 160859,
+      "num": 160859,
+      "word": "网友迪士尼偶遇章若楠",
+      "onboard_time": 1680912624,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 160247,
       "num": 160247,
       "word": "警方通报网传中电科加班事件调查结果",
       "onboard_time": 1680871828,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 158953,
-      "num": 158953,
-      "word": "桃花坞对面山头全是闪光灯",
-      "onboard_time": 1680915206,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 158311,
@@ -483,14 +531,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 132163,
-      "num": 132163,
-      "word": "网友迪士尼偶遇章若楠",
-      "onboard_time": 1680912624,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 129669,
       "num": 129669,
       "word": "恋爱中不该说的四句话",
@@ -524,7 +564,7 @@
     },
     {
       "raw_hot": 128607,
-      "num": 106433,
+      "num": 121882,
       "word": "时代少年团今日下班视频",
       "onboard_time": 1680913763,
       "rank": 40,
@@ -564,7 +604,7 @@
     },
     {
       "raw_hot": 112981,
-      "num": 105412,
+      "num": 105565,
       "word": "EXO出道十一周年",
       "onboard_time": 1680910099,
       "rank": 22,
@@ -603,12 +643,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 103771,
+      "num": 103771,
+      "word": "孙家栋院士94岁生日快乐",
+      "onboard_time": 1680917726,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 103359,
       "num": 96926,
       "word": "闵玧其solo",
       "onboard_time": 1680884664,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 98947,
+      "num": 98947,
+      "word": "李泳知金智秀舞蹈视频",
+      "onboard_time": 1680917486,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 96102,
+      "num": 96102,
+      "word": "抱团养老",
+      "onboard_time": 1680917846,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 93976,
