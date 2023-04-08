@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680946400181,
+  "endTime": 1680948995075,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -489,6 +489,14 @@
       "onboard_time": 1680847827,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2443840,
+      "num": 2443840,
+      "word": "新冠病毒可能来源于人类",
+      "onboard_time": 1680946587,
+      "rank": 0,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 2437384,
@@ -1531,6 +1539,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1151068,
+      "num": 1151068,
+      "word": "苏科大一院长说已电话通知考生",
+      "onboard_time": 1680943347,
+      "rank": 5,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 1149478,
       "num": 955242,
       "word": "iPhone15将首次由印度参与首批供货",
@@ -1609,14 +1625,6 @@
       "onboard_time": 1680842855,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1124126,
-      "num": 1124126,
-      "word": "苏科大一院长说已电话通知考生",
-      "onboard_time": 1680943347,
-      "rank": 5,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1117063,
@@ -2187,6 +2195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 882084,
+      "num": 882084,
+      "word": "吴磊说拍了七八个月10天就播完了",
+      "onboard_time": 1680946645,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 879922,
       "num": 879922,
       "word": "周梓倩",
@@ -2328,6 +2344,14 @@
       "word": "长月烬明前8集戏份时长",
       "onboard_time": 1680924627,
       "rank": 38,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 854243,
+      "num": 854243,
+      "word": "易烊千玺官宣中国电影大数据盛典",
+      "onboard_time": 1680945626,
+      "rank": 17,
       "category": "影视"
     },
     {
@@ -3611,6 +3635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 617792,
+      "num": 463855,
+      "word": "翁虹女儿颜值",
+      "onboard_time": 1680947908,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 617231,
       "num": 339569,
       "word": "成都锦城学院",
@@ -3737,6 +3769,14 @@
       "onboard_time": 1680277826,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 595072,
+      "num": 448684,
+      "word": "陈翔夜市摆摊",
+      "onboard_time": 1680948388,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 594470,
@@ -4633,6 +4673,14 @@
       "onboard_time": 1680653485,
       "rank": 12,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 498308,
+      "num": 498308,
+      "word": "杨紫追星成功孙燕姿",
+      "onboard_time": 1680948027,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 496562,
@@ -5795,6 +5843,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 398163,
+      "num": 398163,
+      "word": "马嘉祺丁程鑫张真源被认成三胞胎",
+      "onboard_time": 1680946105,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 397540,
       "num": 225787,
       "word": "因为近视重新爱上前男友",
@@ -6395,6 +6451,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 355896,
+      "num": 355896,
+      "word": "华晨宇演唱会来了多少神仙",
+      "onboard_time": 1680945926,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 355779,
       "num": 355779,
       "word": "柯南贝克街的亡灵评分",
@@ -6457,6 +6521,14 @@
       "onboard_time": 1680777570,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 352129,
+      "num": 265810,
+      "word": "带患癌妈妈理发还价5元遭店主咒骂",
+      "onboard_time": 1680945146,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 352083,
@@ -6873,6 +6945,14 @@
       "onboard_time": 1680573988,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 331382,
+      "num": 331382,
+      "word": "EXO十年前的小卡",
+      "onboard_time": 1680947607,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 330972,
@@ -7304,14 +7384,6 @@
       "word": "郭麒麟给准女婿上门提建议",
       "onboard_time": 1680691830,
       "rank": 25,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 306893,
-      "num": 306893,
-      "word": "易烊千玺官宣中国电影大数据盛典",
-      "onboard_time": 1680945626,
-      "rank": 17,
       "category": "影视"
     },
     {
@@ -8347,6 +8419,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 268466,
+      "num": 268466,
+      "word": "GEN晋级MSI",
+      "onboard_time": 1680947726,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 268372,
       "num": 204355,
       "word": "专家建议房产税按家庭套数征收",
@@ -9043,14 +9123,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 243584,
-      "num": 243584,
-      "word": "马嘉祺丁程鑫张真源被认成三胞胎",
-      "onboard_time": 1680946105,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 243407,
       "num": 225696,
       "word": "不做饭的人冰箱都放什么",
@@ -9097,14 +9169,6 @@
       "onboard_time": 1680749309,
       "rank": 29,
       "category": "科技"
-    },
-    {
-      "raw_hot": 241265,
-      "num": 207822,
-      "word": "带患癌妈妈理发还价5元遭店主咒骂",
-      "onboard_time": 1680945146,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 241175,
@@ -10539,6 +10603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 207780,
+      "num": 184986,
+      "word": "宋亚轩想看袁娅维的演唱会",
+      "onboard_time": 1680948868,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 207595,
       "num": 207595,
       "word": "一起露营吧2官宣",
@@ -11755,6 +11827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 198510,
+      "num": 183597,
+      "word": "贺峻霖想要北京车牌",
+      "onboard_time": 1680948027,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198456,
       "num": 198456,
       "word": "咖喱鸡胸薄饼披萨",
@@ -12819,14 +12899,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 187731,
-      "num": 187731,
-      "word": "华晨宇演唱会来了多少神仙",
-      "onboard_time": 1680945926,
-      "rank": 41,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 187713,
       "num": 187713,
       "word": "清明节的思念",
@@ -13507,6 +13579,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 178012,
+      "num": 178012,
+      "word": "全程没看弟弟也没放过弟弟",
+      "onboard_time": 1680947068,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 177931,
       "num": 177931,
       "word": "张皓嘉受伤",
@@ -13793,6 +13873,14 @@
       "onboard_time": 1680421468,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 171945,
+      "num": 154048,
+      "word": "曾黎中山公园随拍",
+      "onboard_time": 1680946765,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 171543,
@@ -15339,6 +15427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 145298,
+      "num": 145298,
+      "word": "边伯贤见面会饭拍",
+      "onboard_time": 1680947549,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 145264,
       "num": 145264,
       "word": "罗云熙还原澹台烬台词",
@@ -15361,6 +15457,14 @@
       "onboard_time": 1680683609,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 144614,
+      "num": 144614,
+      "word": "张元英姐姐全身照",
+      "onboard_time": 1680948987,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 144535,
@@ -15881,6 +15985,14 @@
       "onboard_time": 1680342509,
       "rank": 31,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 135060,
+      "num": 154048,
+      "word": "新冠溯源发现地不等于起源地",
+      "onboard_time": 1680947187,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 135055,
@@ -17521,6 +17633,14 @@
       "onboard_time": 1680256765,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 89415,
+      "num": 112397,
+      "word": "男子欲置换新车磕头跪谢8年旧车",
+      "onboard_time": 1680948268,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 88202,

@@ -1,6 +1,6 @@
 {
   "startTime": 1680884526258,
-  "endTime": 1680946400181,
+  "endTime": 1680948995075,
   "band_list": [
     {
       "raw_hot": 2654974,
@@ -9,6 +9,14 @@
       "onboard_time": 1680923006,
       "rank": 7,
       "category": "教育"
+    },
+    {
+      "raw_hot": 2443840,
+      "num": 2443840,
+      "word": "新冠病毒可能来源于人类",
+      "onboard_time": 1680946587,
+      "rank": 0,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 2184185,
@@ -107,8 +115,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1124126,
-      "num": 1124126,
+      "raw_hot": 1151068,
+      "num": 1151068,
       "word": "苏科大一院长说已电话通知考生",
       "onboard_time": 1680943347,
       "rank": 5,
@@ -187,6 +195,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 882084,
+      "num": 882084,
+      "word": "吴磊说拍了七八个月10天就播完了",
+      "onboard_time": 1680946645,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 879922,
       "num": 879922,
       "word": "周梓倩",
@@ -224,6 +240,14 @@
       "word": "长月烬明前8集戏份时长",
       "onboard_time": 1680924627,
       "rank": 38,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 854243,
+      "num": 854243,
+      "word": "易烊千玺官宣中国电影大数据盛典",
+      "onboard_time": 1680945626,
+      "rank": 17,
       "category": "影视"
     },
     {
@@ -315,6 +339,14 @@
       "category": "情感,教育"
     },
     {
+      "raw_hot": 617792,
+      "num": 463855,
+      "word": "翁虹女儿颜值",
+      "onboard_time": 1680947908,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 603762,
       "num": 444220,
       "word": "13岁孩子疑因游戏问题勒父亲脖子",
@@ -337,6 +369,14 @@
       "onboard_time": 1680942085,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 595072,
+      "num": 448684,
+      "word": "陈翔夜市摆摊",
+      "onboard_time": 1680948388,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 592683,
@@ -483,6 +523,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 498308,
+      "num": 498308,
+      "word": "杨紫追星成功孙燕姿",
+      "onboard_time": 1680948027,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 492586,
       "num": 492586,
       "word": "白鹿叶夕雾婚服",
@@ -571,6 +619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 398163,
+      "num": 398163,
+      "word": "马嘉祺丁程鑫张真源被认成三胞胎",
+      "onboard_time": 1680946105,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 395356,
       "num": 395356,
       "word": "萌兰再现经典一字马",
@@ -643,12 +699,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 355896,
+      "num": 355896,
+      "word": "华晨宇演唱会来了多少神仙",
+      "onboard_time": 1680945926,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 355779,
       "num": 355779,
       "word": "柯南贝克街的亡灵评分",
       "onboard_time": 1680922047,
       "rank": 17,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 352129,
+      "num": 265810,
+      "word": "带患癌妈妈理发还价5元遭店主咒骂",
+      "onboard_time": 1680945146,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 348380,
@@ -707,6 +779,14 @@
       "category": "音乐,社会新闻"
     },
     {
+      "raw_hot": 331382,
+      "num": 331382,
+      "word": "EXO十年前的小卡",
+      "onboard_time": 1680947607,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 318363,
       "num": 318363,
       "word": "被骂后委屈成一滩小狗",
@@ -729,14 +809,6 @@
       "onboard_time": 1680921568,
       "rank": 27,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 306893,
-      "num": 306893,
-      "word": "易烊千玺官宣中国电影大数据盛典",
-      "onboard_time": 1680945626,
-      "rank": 17,
-      "category": "影视"
     },
     {
       "raw_hot": 304038,
@@ -811,6 +883,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 268466,
+      "num": 268466,
+      "word": "GEN晋级MSI",
+      "onboard_time": 1680947726,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 263650,
       "num": 263650,
       "word": "上海警方破获本市首例套路应聘诈骗案",
@@ -857,22 +937,6 @@
       "onboard_time": 1680878551,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 243584,
-      "num": 243584,
-      "word": "马嘉祺丁程鑫张真源被认成三胞胎",
-      "onboard_time": 1680946105,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 241265,
-      "num": 207822,
-      "word": "带患癌妈妈理发还价5元遭店主咒骂",
-      "onboard_time": 1680945146,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 240802,
@@ -995,6 +1059,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 207780,
+      "num": 184986,
+      "word": "宋亚轩想看袁娅维的演唱会",
+      "onboard_time": 1680948868,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 206529,
       "num": 206529,
       "word": "你好星期六",
@@ -1105,6 +1177,14 @@
       "onboard_time": 1680926367,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 198510,
+      "num": 183597,
+      "word": "贺峻霖想要北京车牌",
+      "onboard_time": 1680948027,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 198064,
@@ -1219,14 +1299,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 187731,
-      "num": 187731,
-      "word": "华晨宇演唱会来了多少神仙",
-      "onboard_time": 1680945926,
-      "rank": 41,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 187486,
       "num": 153871,
       "word": "邢菲黑色露腰长裙",
@@ -1275,6 +1347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 178012,
+      "num": 178012,
+      "word": "全程没看弟弟也没放过弟弟",
+      "onboard_time": 1680947068,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 176130,
       "num": 176130,
       "word": "IVE先行曲一位",
@@ -1305,6 +1385,14 @@
       "onboard_time": 1680878130,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 171945,
+      "num": 154048,
+      "word": "曾黎中山公园随拍",
+      "onboard_time": 1680946765,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 170524,
@@ -1451,6 +1539,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 145298,
+      "num": 145298,
+      "word": "边伯贤见面会饭拍",
+      "onboard_time": 1680947549,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 144614,
+      "num": 144614,
+      "word": "张元英姐姐全身照",
+      "onboard_time": 1680948987,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 143145,
       "num": 143145,
       "word": "勇士战胜国王",
@@ -1529,6 +1633,14 @@
       "onboard_time": 1680936026,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 135060,
+      "num": 154048,
+      "word": "新冠溯源发现地不等于起源地",
+      "onboard_time": 1680947187,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 133087,
@@ -1817,6 +1929,14 @@
       "onboard_time": 1680859588,
       "rank": 45,
       "category": "科技"
+    },
+    {
+      "raw_hot": 89415,
+      "num": 112397,
+      "word": "男子欲置换新车磕头跪谢8年旧车",
+      "onboard_time": 1680948268,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 86119,
