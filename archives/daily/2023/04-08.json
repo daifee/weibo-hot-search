@@ -1,6 +1,6 @@
 {
   "startTime": 1680884526258,
-  "endTime": 1680945296398,
+  "endTime": 1680946400181,
   "band_list": [
     {
       "raw_hot": 2654974,
@@ -105,6 +105,14 @@
       "onboard_time": 1680921090,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1124126,
+      "num": 1124126,
+      "word": "苏科大一院长说已电话通知考生",
+      "onboard_time": 1680943347,
+      "rank": 5,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1081785,
@@ -243,6 +251,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 819130,
+      "num": 819130,
+      "word": "苏州科技大学致歉",
+      "onboard_time": 1680944604,
+      "rank": 21,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 792955,
       "num": 792955,
       "word": "这样追星可刑吗",
@@ -268,7 +284,7 @@
     },
     {
       "raw_hot": 742866,
-      "num": 204087,
+      "num": 208145,
       "word": "小红书崩了",
       "onboard_time": 1680941126,
       "rank": 30,
@@ -289,14 +305,6 @@
       "onboard_time": 1680909798,
       "rank": 34,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 656312,
-      "num": 656312,
-      "word": "苏科大一院长说已电话通知考生",
-      "onboard_time": 1680943347,
-      "rank": 5,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 645604,
@@ -371,6 +379,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 573155,
+      "num": 573155,
+      "word": "美国警察搞错出警地址误杀房主",
+      "onboard_time": 1680942505,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 559336,
       "num": 559336,
       "word": "才知道充电宝可以暂停计费",
@@ -427,6 +443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 516927,
+      "num": 516927,
+      "word": "00后歌手的vocal实力",
+      "onboard_time": 1680942565,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 516370,
       "num": 507602,
       "word": "长月烬明刷新仙侠剧破万纪录",
@@ -443,28 +467,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 503922,
-      "num": 503922,
-      "word": "00后歌手的vocal实力",
-      "onboard_time": 1680942565,
-      "rank": 42,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 501091,
-      "num": 501091,
-      "word": "美国警察搞错出警地址误杀房主",
-      "onboard_time": 1680942505,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 500156,
       "num": 469256,
       "word": "关晓彤工作室的评论区",
       "onboard_time": 1680917606,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 499416,
+      "num": 499416,
+      "word": "权志龙说出演选秀会被淘汰",
+      "onboard_time": 1680943705,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 492586,
@@ -577,14 +593,6 @@
       "onboard_time": 1680925167,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 375542,
-      "num": 375542,
-      "word": "权志龙说出演选秀会被淘汰",
-      "onboard_time": 1680943705,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 375022,
@@ -723,12 +731,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 310203,
-      "num": 310203,
-      "word": "苏州科技大学致歉",
-      "onboard_time": 1680944604,
-      "rank": 21,
-      "category": "社会新闻,教育"
+      "raw_hot": 306893,
+      "num": 306893,
+      "word": "易烊千玺官宣中国电影大数据盛典",
+      "onboard_time": 1680945626,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 304038,
@@ -747,12 +755,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 296910,
+      "num": 296910,
+      "word": "总裁刺瓜肠粉",
+      "onboard_time": 1680944366,
+      "rank": 34,
+      "category": "美食"
+    },
+    {
       "raw_hot": 296365,
       "num": 296365,
       "word": "独行侠",
       "onboard_time": 1680922047,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 296308,
+      "num": 296308,
+      "word": "宁安如梦播出时间",
+      "onboard_time": 1680944905,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 287364,
@@ -769,6 +793,14 @@
       "onboard_time": 1680910582,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 269238,
+      "num": 269238,
+      "word": "杨超越淡黄色公主裙",
+      "onboard_time": 1680944664,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 268994,
@@ -825,6 +857,22 @@
       "onboard_time": 1680878551,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 243584,
+      "num": 243584,
+      "word": "马嘉祺丁程鑫张真源被认成三胞胎",
+      "onboard_time": 1680946105,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 241265,
+      "num": 207822,
+      "word": "带患癌妈妈理发还价5元遭店主咒骂",
+      "onboard_time": 1680945146,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 240802,
@@ -939,6 +987,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 208426,
+      "num": 208426,
+      "word": "山东石榴太空进修每天绕地16圈",
+      "onboard_time": 1680945265,
+      "rank": 32,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 206529,
       "num": 206529,
       "word": "你好星期六",
@@ -953,6 +1009,14 @@
       "onboard_time": 1680929846,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 204656,
+      "num": 204656,
+      "word": "刘耀文说自己是最佳向导",
+      "onboard_time": 1680946105,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 203417,
@@ -1043,22 +1107,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 199064,
-      "num": 199064,
-      "word": "宁安如梦播出时间",
-      "onboard_time": 1680944905,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 198358,
-      "num": 198358,
-      "word": "山东石榴太空进修每天绕地16圈",
-      "onboard_time": 1680945265,
-      "rank": 32,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 198064,
       "num": 198064,
       "word": "原来指尖真的可以藏下宇宙",
@@ -1091,20 +1139,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 195778,
-      "num": 195778,
-      "word": "总裁刺瓜肠粉",
-      "onboard_time": 1680944366,
-      "rank": 34,
-      "category": "美食"
-    },
-    {
       "raw_hot": 193851,
       "num": 193851,
       "word": "护考",
       "onboard_time": 1680919527,
       "rank": 32,
       "category": "教育"
+    },
+    {
+      "raw_hot": 193637,
+      "num": 193637,
+      "word": "严浩翔说我要做一个欠打的甲方",
+      "onboard_time": 1680946105,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 193635,
@@ -1137,6 +1185,46 @@
       "onboard_time": 1680908477,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 188880,
+      "num": 188880,
+      "word": "澹台烬身边哪有好人啊",
+      "onboard_time": 1680946105,
+      "rank": 36,
+      "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 188060,
+      "num": 188009,
+      "word": "澹台烬靠叶夕雾的肩膀",
+      "onboard_time": 1680946105,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 188056,
+      "num": 188056,
+      "word": "IVE新主打曲预告",
+      "onboard_time": 1680946166,
+      "rank": 37,
+      "category": "音乐,艺人"
+    },
+    {
+      "raw_hot": 187901,
+      "num": 187901,
+      "word": "陈星旭的臂肌",
+      "onboard_time": 1680946166,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 187731,
+      "num": 187731,
+      "word": "华晨宇演唱会来了多少神仙",
+      "onboard_time": 1680945926,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 187486,
@@ -1184,14 +1272,6 @@
       "word": "徐明浩童年旧照",
       "onboard_time": 1680940706,
       "rank": 34,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 177957,
-      "num": 177957,
-      "word": "杨超越淡黄色公主裙",
-      "onboard_time": 1680944664,
-      "rank": 35,
       "category": "艺人"
     },
     {
@@ -1249,6 +1329,14 @@
       "onboard_time": 1680928228,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 165734,
+      "num": 165734,
+      "word": "人类幼崽对话珍稀动物",
+      "onboard_time": 1680946166,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 165418,
@@ -1563,14 +1651,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 121399,
-      "num": 121399,
-      "word": "带患癌妈妈理发还价5元遭店主咒骂",
-      "onboard_time": 1680945146,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 120328,
       "num": 120328,
       "word": "2023LCK",
@@ -1599,6 +1679,14 @@
       "num": 117162,
       "word": "代号鸢心愿许愿",
       "onboard_time": 1680931286,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 116861,
+      "num": 130583,
+      "word": "LGD拿下S组首胜",
+      "onboard_time": 1680946287,
       "rank": 49,
       "category": "游戏"
     },
