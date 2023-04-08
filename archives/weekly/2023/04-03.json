@@ -1,6 +1,6 @@
 {
   "startTime": 1680452464197,
-  "endTime": 1680939192826,
+  "endTime": 1680941986538,
   "band_list": [
     {
       "raw_hot": 9506486,
@@ -1547,6 +1547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1005357,
+      "num": 1005357,
+      "word": "娜扎晒花少3合照",
+      "onboard_time": 1680936447,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 997507,
       "num": 997507,
       "word": "黄景瑜白百何新片调查性侵案",
@@ -1699,6 +1707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 914118,
+      "num": 914118,
+      "word": "王宝强在老家广场唱戏",
+      "onboard_time": 1680937706,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 913530,
       "num": 592174,
       "word": "大学男老师让女生穿超短裙跳操引不满",
@@ -1769,14 +1785,6 @@
       "onboard_time": 1680673470,
       "rank": 14,
       "category": "幽默,时尚"
-    },
-    {
-      "raw_hot": 886771,
-      "num": 886771,
-      "word": "娜扎晒花少3合照",
-      "onboard_time": 1680936447,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 885398,
@@ -1969,6 +1977,14 @@
       "onboard_time": 1680518554,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 838945,
+      "num": 838945,
+      "word": "月薪两千的生活是怎样的",
+      "onboard_time": 1680937165,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 837448,
@@ -2764,7 +2780,7 @@
     },
     {
       "raw_hot": 645604,
-      "num": 266265,
+      "num": 303859,
       "word": "瞒着报清华全家都慌了",
       "onboard_time": 1680932306,
       "rank": 20,
@@ -3235,14 +3251,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 555513,
-      "num": 555513,
-      "word": "王宝强在老家广场唱戏",
-      "onboard_time": 1680937706,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 555392,
       "num": 309902,
       "word": "金智秀solo初一位",
@@ -3281,6 +3289,14 @@
       "onboard_time": 1680699213,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 548231,
+      "num": 548231,
+      "word": "中电科工会回应职工写周末不请假保证",
+      "onboard_time": 1680940887,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 547973,
@@ -3593,14 +3609,6 @@
       "onboard_time": 1680752608,
       "rank": 16,
       "category": "综艺,综艺"
-    },
-    {
-      "raw_hot": 512802,
-      "num": 512802,
-      "word": "月薪两千的生活是怎样的",
-      "onboard_time": 1680937165,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 510842,
@@ -3953,6 +3961,14 @@
       "onboard_time": 1680761069,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 473159,
+      "num": 473159,
+      "word": "这样追星可刑吗",
+      "onboard_time": 1680940527,
+      "rank": 8,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 472015,
@@ -4499,6 +4515,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 404217,
+      "num": 404217,
+      "word": "金珉奎晒与田柾国车银优聚会合照",
+      "onboard_time": 1680938666,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 403546,
       "num": 403546,
       "word": "加班",
@@ -4545,6 +4569,14 @@
       "onboard_time": 1680785493,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 399282,
+      "num": 204087,
+      "word": "小红书崩了",
+      "onboard_time": 1680941126,
+      "rank": 30,
+      "category": "科技"
     },
     {
       "raw_hot": 398672,
@@ -4987,6 +5019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 361387,
+      "num": 361387,
+      "word": "萌兰再现经典一字马",
+      "onboard_time": 1680938248,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 359919,
       "num": 359919,
       "word": "定妆照诈骗",
@@ -5257,6 +5297,14 @@
       "onboard_time": 1680508531,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 342512,
+      "num": 342512,
+      "word": "全国在校大学生来济南免费玩",
+      "onboard_time": 1680936867,
+      "rank": 34,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 342475,
@@ -6883,6 +6931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 250975,
+      "num": 250975,
+      "word": "匪我思存追剧长月烬明",
+      "onboard_time": 1680941306,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 250815,
       "num": 232393,
       "word": "龙马精神成了外国人团建电影",
@@ -6985,14 +7041,6 @@
       "onboard_time": 1680879330,
       "rank": 28,
       "category": "科技"
-    },
-    {
-      "raw_hot": 244658,
-      "num": 244658,
-      "word": "全国在校大学生来济南免费玩",
-      "onboard_time": 1680936867,
-      "rank": 34,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 244445,
@@ -7488,6 +7536,14 @@
       "word": "孙珍妮新剧狐妖造型",
       "onboard_time": 1680784652,
       "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 225762,
+      "num": 225762,
+      "word": "澹台烬把叶夕雾挂在马上",
+      "onboard_time": 1680938666,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -8891,14 +8947,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 200051,
-      "num": 200051,
-      "word": "金珉奎晒与田柾国车银优聚会合照",
-      "onboard_time": 1680938666,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 200044,
       "num": 200044,
       "word": "RW侠状态回来了",
@@ -9019,14 +9067,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 199017,
-      "num": 193066,
-      "word": "澹台烬把叶夕雾挂在马上",
-      "onboard_time": 1680938666,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 198998,
       "num": 198998,
       "word": "灿烂的转身微博评分8.3",
@@ -9097,6 +9137,14 @@
       "onboard_time": 1680877712,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 197956,
+      "num": 197956,
+      "word": "盘尼西林Ricky合体梦回乐夏",
+      "onboard_time": 1680941186,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 197775,
@@ -9185,6 +9233,14 @@
       "onboard_time": 1680591391,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 196256,
+      "num": 196256,
+      "word": "TF三代演唱会学院风公式照",
+      "onboard_time": 1680940645,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 196159,
@@ -10003,6 +10059,14 @@
       "category": "影视,社会新闻"
     },
     {
+      "raw_hot": 185463,
+      "num": 185463,
+      "word": "唐艺昕一字肩花裙",
+      "onboard_time": 1680939445,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 185399,
       "num": 185399,
       "word": "丁程鑫宋亚轩刘耀文今年三首单曲战报",
@@ -10273,6 +10337,14 @@
       "onboard_time": 1680666810,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 179919,
+      "num": 179919,
+      "word": "徐明浩童年旧照",
+      "onboard_time": 1680940706,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 179904,
@@ -10673,6 +10745,14 @@
       "onboard_time": 1680873809,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 169234,
+      "num": 169234,
+      "word": "IVE先行曲一位",
+      "onboard_time": 1680941486,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 169087,
@@ -11699,14 +11779,6 @@
       "category": "影视,音乐"
     },
     {
-      "raw_hot": 141090,
-      "num": 141090,
-      "word": "萌兰再现经典一字马",
-      "onboard_time": 1680938248,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 140968,
       "num": 140968,
       "word": "华晨宇看到奥特曼变身器的反应",
@@ -11795,6 +11867,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 138595,
+      "num": 138595,
+      "word": "陈哲远青春环游记4海报",
+      "onboard_time": 1680941007,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138299,
       "num": 138299,
       "word": "AI自主学习让吴京刘德华重返20岁",
@@ -11833,6 +11913,14 @@
       "onboard_time": 1680873028,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 137344,
+      "num": 137344,
+      "word": "山东人做生意有多实在",
+      "onboard_time": 1680941366,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 136610,
@@ -12009,6 +12097,14 @@
       "onboard_time": 1680839249,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132823,
+      "num": 196715,
+      "word": "叹早茶是澳门人早起的动力",
+      "onboard_time": 1680937108,
+      "rank": 29,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 132534,
@@ -12361,14 +12457,6 @@
       "onboard_time": 1680482552,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 119621,
-      "num": 196715,
-      "word": "叹早茶是澳门人早起的动力",
-      "onboard_time": 1680937108,
-      "rank": 29,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 119374,
@@ -12977,6 +13065,14 @@
       "onboard_time": 1680736701,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 67042,
+      "num": 115747,
+      "word": "赤辰露娜八战八胜",
+      "onboard_time": 1680940824,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 65472,
