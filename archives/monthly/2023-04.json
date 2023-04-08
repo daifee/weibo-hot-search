@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680963254213,
+  "endTime": 1680964411111,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -979,6 +979,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1633075,
+      "num": 1633075,
+      "word": "因为镯子贴膜被同事嘲笑了",
+      "onboard_time": 1680958170,
+      "rank": 6,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1630812,
       "num": 1533704,
       "word": "临时工",
@@ -1276,7 +1284,7 @@
     },
     {
       "raw_hot": 1396043,
-      "num": 1098979,
+      "num": 1108113,
       "word": "气胸",
       "onboard_time": 1680958049,
       "rank": 3,
@@ -1321,14 +1329,6 @@
       "onboard_time": 1680484768,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1343944,
-      "num": 1343944,
-      "word": "因为镯子贴膜被同事嘲笑了",
-      "onboard_time": 1680958170,
-      "rank": 6,
-      "category": "幽默"
     },
     {
       "raw_hot": 1341091,
@@ -2979,6 +2979,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 727967,
+      "num": 482380,
+      "word": "女子做实验硫酸蹭到脸上淡定冲水",
+      "onboard_time": 1680961710,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 727599,
       "num": 486300,
       "word": "小妈文学拍成剧了",
@@ -3169,6 +3177,14 @@
       "onboard_time": 1680307823,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 697790,
+      "num": 697790,
+      "word": "山东泰山",
+      "onboard_time": 1680960869,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 694950,
@@ -3537,14 +3553,6 @@
       "onboard_time": 1680580112,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 641227,
-      "num": 641227,
-      "word": "山东泰山",
-      "onboard_time": 1680960869,
-      "rank": 6,
-      "category": "体育"
     },
     {
       "raw_hot": 640290,
@@ -5403,14 +5411,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 448632,
-      "num": 448632,
-      "word": "女子做实验硫酸蹭到脸上淡定冲水",
-      "onboard_time": 1680961710,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 447729,
       "num": 188698,
       "word": "鹿晗广州",
@@ -5556,7 +5556,7 @@
     },
     {
       "raw_hot": 431087,
-      "num": 339129,
+      "num": 347555,
       "word": "戚薇克莱茵蓝西装",
       "onboard_time": 1680953848,
       "rank": 20,
@@ -5609,6 +5609,14 @@
       "onboard_time": 1680587969,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 429332,
+      "num": 429332,
+      "word": "一起祝贺这位同学考研成功上岸211大学",
+      "onboard_time": 1680959909,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 429169,
@@ -6331,14 +6339,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 380892,
-      "num": 380892,
-      "word": "一起祝贺这位同学考研成功上岸211大学",
-      "onboard_time": 1680959909,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 380827,
       "num": 380827,
       "word": "李健音乐节",
@@ -6953,6 +6953,14 @@
       "onboard_time": 1680649757,
       "rank": 19,
       "category": "国内要闻,社会新闻"
+    },
+    {
+      "raw_hot": 345034,
+      "num": 345034,
+      "word": "澹台烬叶夕雾异地恋",
+      "onboard_time": 1680963448,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 344721,
@@ -7691,6 +7699,22 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 304262,
+      "num": 304262,
+      "word": "中小学生有必要穿校服吗",
+      "onboard_time": 1680960448,
+      "rank": 36,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 304237,
+      "num": 304237,
+      "word": "eStar对战狼队",
+      "onboard_time": 1680957328,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 304038,
       "num": 304038,
       "word": "张云龙高情商发言",
@@ -7715,6 +7739,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 303342,
+      "num": 303342,
+      "word": "江疏影杨迪没有相爱只有相杀",
+      "onboard_time": 1680960210,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 303206,
       "num": 255103,
       "word": "李沁说活得漂亮比生得漂亮更重要",
@@ -7737,6 +7769,14 @@
       "onboard_time": 1680959610,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 302160,
+      "num": 302160,
+      "word": "徐峥谐音梗记徐明浩名字",
+      "onboard_time": 1680962910,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 302056,
@@ -8443,14 +8483,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 277106,
-      "num": 277106,
-      "word": "江疏影杨迪没有相爱只有相杀",
-      "onboard_time": 1680960210,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 275805,
       "num": 275805,
       "word": "忠犬八公豆瓣评分涨至8.2",
@@ -8763,6 +8795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 264165,
+      "num": 264165,
+      "word": "长月烬明陈都灵邓为戏份",
+      "onboard_time": 1680963870,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 263884,
       "num": 263884,
       "word": "WE春季赛淘汰",
@@ -8793,6 +8833,14 @@
       "onboard_time": 1680581493,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 263356,
+      "num": 263356,
+      "word": "华晨宇时隔五年再唱山海",
+      "onboard_time": 1680963391,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 263332,
@@ -8872,14 +8920,6 @@
       "word": "OMG翻盘BLG",
       "onboard_time": 1680952888,
       "rank": 21,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 260125,
-      "num": 273183,
-      "word": "eStar对战狼队",
-      "onboard_time": 1680957328,
-      "rank": 19,
       "category": "游戏"
     },
     {
@@ -9097,14 +9137,6 @@
       "onboard_time": 1680702991,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 254315,
-      "num": 203415,
-      "word": "徐峥谐音梗记徐明浩名字",
-      "onboard_time": 1680962910,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 254230,
@@ -10019,6 +10051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 227296,
+      "num": 227296,
+      "word": "张杰说我们未live西安见",
+      "onboard_time": 1680962970,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 227007,
       "num": 227007,
       "word": "Newjeans的HypeBoy获人歌一位",
@@ -10707,6 +10747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 211712,
+      "num": 247225,
+      "word": "实探天门山涉事玻璃栈道恢复正常",
+      "onboard_time": 1680961350,
+      "rank": 39,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 211685,
       "num": 218523,
       "word": "固定工位未来会不会消失",
@@ -10817,6 +10865,14 @@
       "onboard_time": 1680447168,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 209780,
+      "num": 185361,
+      "word": "成龙再现回旋飞扇",
+      "onboard_time": 1680963332,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 209770,
@@ -11025,6 +11081,14 @@
       "onboard_time": 1680843630,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207279,
+      "num": 247180,
+      "word": "月薪多少才会让你感觉幸福",
+      "onboard_time": 1680964351,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 207220,
@@ -11387,6 +11451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 204641,
+      "num": 182832,
+      "word": "陈立农说我会在春樱路一直等着你",
+      "onboard_time": 1680963569,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204625,
       "num": 192344,
       "word": "年轻人加班报告",
@@ -11465,14 +11537,6 @@
       "onboard_time": 1680951507,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 203764,
-      "num": 214235,
-      "word": "中小学生有必要穿校服吗",
-      "onboard_time": 1680960448,
-      "rank": 36,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 203573,
@@ -12155,14 +12219,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 199361,
-      "num": 193346,
-      "word": "张杰说我们未live西安见",
-      "onboard_time": 1680962970,
-      "rank": 42,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 199340,
       "num": 199340,
       "word": "恩爱两不疑预告",
@@ -12345,6 +12401,14 @@
       "onboard_time": 1680328952,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 198094,
+      "num": 169927,
+      "word": "严浩翔下班视频",
+      "onboard_time": 1680964351,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 198064,
@@ -12729,14 +12793,6 @@
       "onboard_time": 1680671672,
       "rank": 48,
       "category": "综艺,幽默"
-    },
-    {
-      "raw_hot": 193975,
-      "num": 193975,
-      "word": "实探天门山涉事玻璃栈道恢复正常",
-      "onboard_time": 1680961350,
-      "rank": 39,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 193953,
@@ -14323,6 +14379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175014,
+      "num": 192456,
+      "word": "山东研发出无人驾驶公交",
+      "onboard_time": 1680960933,
+      "rank": 45,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 174932,
       "num": 174932,
       "word": "阿娇怼脸生图状态",
@@ -15137,14 +15201,6 @@
       "onboard_time": 1680359251,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 161189,
-      "num": 192456,
-      "word": "山东研发出无人驾驶公交",
-      "onboard_time": 1680960933,
-      "rank": 45,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 160864,
@@ -16107,6 +16163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 144659,
+      "num": 1176974,
+      "word": "这是现实版人在画中游",
+      "onboard_time": 1680962910,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144656,
       "num": 144656,
       "word": "赵粤库存跳舞视频",
@@ -16153,6 +16217,14 @@
       "onboard_time": 1680751589,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 143979,
+      "num": 158164,
+      "word": "别太信任猫了",
+      "onboard_time": 1680963630,
+      "rank": 47,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 143385,
@@ -18840,14 +18912,6 @@
       "word": "当清明诗词遇上古人春日必做清单",
       "onboard_time": 1680564563,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 39632,
-      "num": 1114232,
-      "word": "这是现实版人在画中游",
-      "onboard_time": 1680962910,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
