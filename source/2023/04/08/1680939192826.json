@@ -1,0 +1,410 @@
+{
+  "runTime": 1680939192826,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1932762,
+        "num": 1932762,
+        "word": "美特斯邦威是怎么从步行街消失的",
+        "onboard_time": 1680934045,
+        "rank": 0,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 1051810,
+        "num": 1051810,
+        "word": "大学招聘体育老师要求为世界冠军",
+        "onboard_time": 1680933504,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 115645,
+        "num": 897081,
+        "word": "镜头记录黄河水颜色变化有多大",
+        "onboard_time": 1680927928,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 886771,
+        "num": 886771,
+        "word": "娜扎晒花少3合照",
+        "onboard_time": 1680936447,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 664954,
+        "num": 664954,
+        "word": "浙江工资不能低于这个数",
+        "onboard_time": 1680925528,
+        "rank": 4,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 647613,
+        "num": 647613,
+        "word": "徐良回应消失的三年",
+        "onboard_time": 1680926909,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 555513,
+        "num": 555513,
+        "word": "王宝强在老家广场唱戏",
+        "onboard_time": 1680937706,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 537590,
+        "num": 537590,
+        "word": "网传迪丽热巴新剧班底",
+        "onboard_time": 1680936746,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 517149,
+        "num": 517149,
+        "word": "苏州科技大学",
+        "onboard_time": 1680923006,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 512802,
+        "num": 512802,
+        "word": "月薪两千的生活是怎样的",
+        "onboard_time": 1680937165,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 946177,
+        "num": 506412,
+        "word": "于正快160斤了",
+        "onboard_time": 1680932726,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 846248,
+        "num": 505498,
+        "word": "周梓倩",
+        "onboard_time": 1680933865,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 490357,
+        "num": 490357,
+        "word": "浪姐4的王佳宇是谁",
+        "onboard_time": 1680935906,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 450365,
+        "num": 450365,
+        "word": "罗云熙嘴上的疤",
+        "onboard_time": 1680932908,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 361639,
+        "num": 361639,
+        "word": "19岁女孩整形医院抽脂后3天死亡",
+        "onboard_time": 1680922406,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328047,
+        "num": 328047,
+        "word": "seventeen知道百万中输的反应",
+        "onboard_time": 1680936327,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 314669,
+        "num": 314669,
+        "word": "被骂后委屈成一滩小狗",
+        "onboard_time": 1680936265,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 307867,
+        "num": 307867,
+        "word": "不走甜美风的张雨绮",
+        "onboard_time": 1680933445,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 280851,
+        "num": 280851,
+        "word": "王嘉尔711给了你多少钱",
+        "onboard_time": 1680920609,
+        "rank": 18,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 268219,
+        "num": 268219,
+        "word": "白幼瘦审美",
+        "onboard_time": 1680921090,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 471597,
+        "num": 266265,
+        "word": "瞒着报清华全家都慌了",
+        "onboard_time": 1680932306,
+        "rank": 20,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 248265,
+        "num": 248265,
+        "word": "马克龙参访中山大学",
+        "onboard_time": 1680939146,
+        "rank": 21,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 244658,
+        "num": 244658,
+        "word": "全国在校大学生来济南免费玩",
+        "onboard_time": 1680936867,
+        "rank": 22,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 214969,
+        "num": 214969,
+        "word": "苏科大回应凌晨4点发考研录取通知",
+        "onboard_time": 1680927508,
+        "rank": 23,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 205698,
+        "num": 205698,
+        "word": "杭州女生摆摊卖樱花奶昔日入过千",
+        "onboard_time": 1680929488,
+        "rank": 24,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 200051,
+        "num": 200051,
+        "word": "金珉奎晒与田柾国车银优聚会合照",
+        "onboard_time": 1680938666,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198262,
+        "num": 198262,
+        "word": "广东成最敢生娃的省份",
+        "onboard_time": 1680925827,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194567,
+        "num": 194567,
+        "word": "WE Are One",
+        "onboard_time": 1680922588,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194490,
+        "num": 194490,
+        "word": "东部战区",
+        "onboard_time": 1680915927,
+        "rank": 28,
+        "category": "国内要闻,军事"
+      },
+      {
+        "raw_hot": 119621,
+        "num": 193081,
+        "word": "叹早茶是澳门人早起的动力",
+        "onboard_time": 1680937108,
+        "rank": 29,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 199017,
+        "num": 193066,
+        "word": "澹台烬把叶夕雾挂在马上",
+        "onboard_time": 1680938666,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193023,
+        "num": 193023,
+        "word": "该不该找门槛低的工作过渡",
+        "onboard_time": 1680934647,
+        "rank": 31,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 173949,
+        "num": 173949,
+        "word": "TF家族蝴蝶效应全新公式照",
+        "onboard_time": 1680938307,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 169142,
+        "num": 169142,
+        "word": "长月烬明前8集戏份时长",
+        "onboard_time": 1680924627,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 164164,
+        "num": 164164,
+        "word": "再就业男团",
+        "onboard_time": 1680931465,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161534,
+        "num": 161534,
+        "word": "这个宿舍是选对了",
+        "onboard_time": 1680934945,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158523,
+        "num": 158523,
+        "word": "青春环游记4今晚开播",
+        "onboard_time": 1680931525,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180311,
+        "num": 157033,
+        "word": "吉林一科长性侵小学生被刑拘",
+        "onboard_time": 1680917247,
+        "rank": 37,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 207112,
+        "num": 156503,
+        "word": "领导多次在群内辱骂下属致其抑郁",
+        "onboard_time": 1680918387,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154642,
+        "num": 154642,
+        "word": "赵露思捧脸照",
+        "onboard_time": 1680937285,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 148557,
+        "num": 148557,
+        "word": "白鹿叶夕雾婚服",
+        "onboard_time": 1680927447,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 146340,
+        "num": 146340,
+        "word": "白宇听林俊杰演唱会",
+        "onboard_time": 1680934826,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 142636,
+        "num": 142636,
+        "word": "夫妻打闹妻子手不慎被掰骨折",
+        "onboard_time": 1680924808,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141090,
+        "num": 141090,
+        "word": "萌兰再现经典一字马",
+        "onboard_time": 1680938248,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139329,
+        "num": 139329,
+        "word": "网传王一博参加香奈儿大秀",
+        "onboard_time": 1680928530,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 133087,
+        "num": 133087,
+        "word": "尘封十三载",
+        "onboard_time": 1680938307,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 120328,
+        "num": 120328,
+        "word": "2023LCK",
+        "onboard_time": 1680938065,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 111629,
+        "num": 111629,
+        "word": "GEN对战KT",
+        "onboard_time": 1680935066,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 105281,
+        "num": 105281,
+        "word": "李斯丹妮被叫小宝贝",
+        "onboard_time": 1680937824,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93320,
+        "num": 104348,
+        "word": "zeta",
+        "onboard_time": 1680936205,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#加快数字中国建设#"
+    }
+  }
+}

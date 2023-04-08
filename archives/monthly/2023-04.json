@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680938061033,
+  "endTime": 1680939192826,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -803,6 +803,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1932762,
+      "num": 1932762,
+      "word": "美特斯邦威是怎么从步行街消失的",
+      "onboard_time": 1680934045,
+      "rank": 32,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 1883278,
       "num": 1883278,
       "word": "张元英姐姐出道",
@@ -921,14 +929,6 @@
       "onboard_time": 1680788850,
       "rank": 10,
       "category": "艺人,幽默"
-    },
-    {
-      "raw_hot": 1676933,
-      "num": 1676933,
-      "word": "美特斯邦威是怎么从步行街消失的",
-      "onboard_time": 1680934045,
-      "rank": 32,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 1660057,
@@ -1739,6 +1739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1051810,
+      "num": 1051810,
+      "word": "大学招聘体育老师要求为世界冠军",
+      "onboard_time": 1680933504,
+      "rank": 13,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1037260,
       "num": 612844,
       "word": "贾静雯状态",
@@ -1780,7 +1788,7 @@
     },
     {
       "raw_hot": 1012723,
-      "num": 480157,
+      "num": 506412,
       "word": "于正快160斤了",
       "onboard_time": 1680932726,
       "rank": 11,
@@ -1937,14 +1945,6 @@
       "onboard_time": 1680665911,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 941699,
-      "num": 941699,
-      "word": "大学招聘体育老师要求为世界冠军",
-      "onboard_time": 1680933504,
-      "rank": 13,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 936446,
@@ -2121,6 +2121,14 @@
       "onboard_time": 1680332552,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 886771,
+      "num": 886771,
+      "word": "娜扎晒花少3合照",
+      "onboard_time": 1680936447,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 886135,
@@ -2417,14 +2425,6 @@
       "onboard_time": 1680927508,
       "rank": 41,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 823456,
-      "num": 823456,
-      "word": "娜扎晒花少3合照",
-      "onboard_time": 1680936447,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 822431,
@@ -3332,7 +3332,7 @@
     },
     {
       "raw_hot": 645604,
-      "num": 265578,
+      "num": 266265,
       "word": "瞒着报清华全家都慌了",
       "onboard_time": 1680932306,
       "rank": 20,
@@ -3931,6 +3931,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 555513,
+      "num": 555513,
+      "word": "王宝强在老家广场唱戏",
+      "onboard_time": 1680937706,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 555392,
       "num": 309902,
       "word": "金智秀solo初一位",
@@ -4145,6 +4153,14 @@
       "onboard_time": 1680320429,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 537590,
+      "num": 537590,
+      "word": "网传迪丽热巴新剧班底",
+      "onboard_time": 1680936746,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 537559,
@@ -4411,6 +4427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 512802,
+      "num": 512802,
+      "word": "月薪两千的生活是怎样的",
+      "onboard_time": 1680937165,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 511775,
       "num": 511775,
       "word": "你平时午睡吗",
@@ -4449,14 +4473,6 @@
       "onboard_time": 1680396986,
       "rank": 7,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 507443,
-      "num": 476270,
-      "word": "网传迪丽热巴新剧班底",
-      "onboard_time": 1680936746,
-      "rank": 11,
-      "category": "影视"
     },
     {
       "raw_hot": 506660,
@@ -6676,7 +6692,7 @@
     },
     {
       "raw_hot": 336582,
-      "num": 314472,
+      "num": 328047,
       "word": "seventeen知道百万中输的反应",
       "onboard_time": 1680936327,
       "rank": 15,
@@ -8859,6 +8875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 244658,
+      "num": 244658,
+      "word": "全国在校大学生来济南免费玩",
+      "onboard_time": 1680936867,
+      "rank": 34,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 244445,
       "num": 244445,
       "word": "华晨宇演唱会出场方式",
@@ -9833,14 +9857,6 @@
       "onboard_time": 1680871289,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 217584,
-      "num": 217584,
-      "word": "月薪两千的生活是怎样的",
-      "onboard_time": 1680937165,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 217436,
@@ -11299,6 +11315,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 200051,
+      "num": 200051,
+      "word": "金珉奎晒与田柾国车银优聚会合照",
+      "onboard_time": 1680938666,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200044,
       "num": 200044,
       "word": "RW侠状态回来了",
@@ -11473,6 +11497,14 @@
       "onboard_time": 1680352649,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 199017,
+      "num": 193066,
+      "word": "澹台烬把叶夕雾挂在马上",
+      "onboard_time": 1680938666,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 199002,
@@ -13035,14 +13067,6 @@
       "category": "影视,动漫"
     },
     {
-      "raw_hot": 181689,
-      "num": 181689,
-      "word": "王宝强在老家广场唱戏",
-      "onboard_time": 1680937706,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 181622,
       "num": 181622,
       "word": "stayc无伴奏唱跳teddybear",
@@ -13395,20 +13419,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 174490,
-      "num": 174490,
-      "word": "全国在校大学生来济南免费玩",
-      "onboard_time": 1680936867,
-      "rank": 34,
-      "category": "社会新闻,旅游"
-    },
-    {
       "raw_hot": 174227,
       "num": 174227,
       "word": "罗云熙白鹿长月烬明猫眼登顶",
       "onboard_time": 1680834987,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 173949,
+      "num": 173949,
+      "word": "TF家族蝴蝶效应全新公式照",
+      "onboard_time": 1680938307,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 173559,
@@ -14107,6 +14131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 161534,
+      "num": 161534,
+      "word": "这个宿舍是选对了",
+      "onboard_time": 1680934945,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 161522,
       "num": 189713,
       "word": "清明一天走过七座城",
@@ -14331,14 +14363,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 157662,
-      "num": 157662,
-      "word": "这个宿舍是选对了",
-      "onboard_time": 1680934945,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 157660,
       "num": 1638351,
       "word": "谢谢你们守护了祖国大好山河",
@@ -14481,6 +14505,14 @@
       "onboard_time": 1680449318,
       "rank": 45,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 154642,
+      "num": 154642,
+      "word": "赵露思捧脸照",
+      "onboard_time": 1680937285,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 154515,
@@ -15185,6 +15217,14 @@
       "onboard_time": 1680423331,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 141090,
+      "num": 141090,
+      "word": "萌兰再现经典一字马",
+      "onboard_time": 1680938248,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 141044,
@@ -16219,6 +16259,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 120328,
+      "num": 120328,
+      "word": "2023LCK",
+      "onboard_time": 1680336932,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 120069,
       "num": 120069,
       "word": "曼城vs利物浦",
@@ -16265,6 +16313,14 @@
       "onboard_time": 1680426091,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 119621,
+      "num": 196715,
+      "word": "叹早茶是澳门人早起的动力",
+      "onboard_time": 1680937108,
+      "rank": 29,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 119421,
@@ -16451,14 +16507,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 114398,
-      "num": 114398,
-      "word": "赵露思捧脸照",
-      "onboard_time": 1680937285,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
       "raw_hot": 113888,
       "num": 113888,
       "word": "网友给品如艾莉安排的剧本",
@@ -16569,14 +16617,6 @@
       "onboard_time": 1680602429,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 110418,
-      "num": 196715,
-      "word": "叹早茶是澳门人早起的动力",
-      "onboard_time": 1680937108,
-      "rank": 29,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 109934,
@@ -16985,14 +17025,6 @@
       "onboard_time": 1680335549,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 98265,
-      "num": 98265,
-      "word": "2023LCK",
-      "onboard_time": 1680336932,
-      "rank": 42,
-      "category": "游戏"
     },
     {
       "raw_hot": 97431,

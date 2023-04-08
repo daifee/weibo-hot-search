@@ -1,6 +1,6 @@
 {
   "startTime": 1680884526258,
-  "endTime": 1680938061033,
+  "endTime": 1680939192826,
   "band_list": [
     {
       "raw_hot": 2654974,
@@ -43,6 +43,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1932762,
+      "num": 1932762,
+      "word": "美特斯邦威是怎么从步行街消失的",
+      "onboard_time": 1680934045,
+      "rank": 32,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 1847263,
       "num": 1639276,
       "word": "东部战区",
@@ -57,14 +65,6 @@
       "onboard_time": 1680870448,
       "rank": 0,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1676933,
-      "num": 1676933,
-      "word": "美特斯邦威是怎么从步行街消失的",
-      "onboard_time": 1680934045,
-      "rank": 32,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 1528249,
@@ -123,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1051810,
+      "num": 1051810,
+      "word": "大学招聘体育老师要求为世界冠军",
+      "onboard_time": 1680933504,
+      "rank": 13,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1015818,
       "num": 1015818,
       "word": "陈都灵戏份",
@@ -132,19 +140,19 @@
     },
     {
       "raw_hot": 1012723,
-      "num": 480157,
+      "num": 506412,
       "word": "于正快160斤了",
       "onboard_time": 1680932726,
       "rank": 11,
       "category": "艺人"
     },
     {
-      "raw_hot": 941699,
-      "num": 941699,
-      "word": "大学招聘体育老师要求为世界冠军",
-      "onboard_time": 1680933504,
-      "rank": 13,
-      "category": "社会新闻,教育"
+      "raw_hot": 886771,
+      "num": 886771,
+      "word": "娜扎晒花少3合照",
+      "onboard_time": 1680936447,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 885398,
@@ -211,14 +219,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 823456,
-      "num": 823456,
-      "word": "娜扎晒花少3合照",
-      "onboard_time": 1680936447,
-      "rank": 5,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 785967,
       "num": 785967,
       "word": "诈骗网红梅尼耶的MCN被申请破产",
@@ -252,7 +252,7 @@
     },
     {
       "raw_hot": 645604,
-      "num": 265578,
+      "num": 266265,
       "word": "瞒着报清华全家都慌了",
       "onboard_time": 1680932306,
       "rank": 20,
@@ -323,6 +323,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 555513,
+      "num": 555513,
+      "word": "王宝强在老家广场唱戏",
+      "onboard_time": 1680937706,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 548941,
       "num": 147286,
       "word": "安徽大学回应男老师让女生穿短裙跳操",
@@ -337,6 +345,14 @@
       "onboard_time": 1680920609,
       "rank": 35,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 537590,
+      "num": 537590,
+      "word": "网传迪丽热巴新剧班底",
+      "onboard_time": 1680936746,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 526371,
@@ -363,20 +379,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 512802,
+      "num": 512802,
+      "word": "月薪两千的生活是怎样的",
+      "onboard_time": 1680937165,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 509273,
       "num": 509273,
       "word": "离职是主动辞职好还是被辞退好",
       "onboard_time": 1680880590,
       "rank": 7,
       "category": "情感"
-    },
-    {
-      "raw_hot": 507443,
-      "num": 476270,
-      "word": "网传迪丽热巴新剧班底",
-      "onboard_time": 1680936746,
-      "rank": 11,
-      "category": "影视"
     },
     {
       "raw_hot": 500156,
@@ -580,7 +596,7 @@
     },
     {
       "raw_hot": 336582,
-      "num": 314472,
+      "num": 328047,
       "word": "seventeen知道百万中输的反应",
       "onboard_time": 1680936327,
       "rank": 15,
@@ -707,6 +723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 244658,
+      "num": 244658,
+      "word": "全国在校大学生来济南免费玩",
+      "onboard_time": 1680936867,
+      "rank": 34,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 240802,
       "num": 240802,
       "word": "马小跳妈妈成了宋三川丈母娘",
@@ -769,14 +793,6 @@
       "onboard_time": 1680931586,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 217584,
-      "num": 217584,
-      "word": "月薪两千的生活是怎样的",
-      "onboard_time": 1680937165,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 212904,
@@ -899,12 +915,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 200051,
+      "num": 200051,
+      "word": "金珉奎晒与田柾国车银优聚会合照",
+      "onboard_time": 1680938666,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199917,
       "num": 199917,
       "word": "李宇春新专辑宣传照曝光",
       "onboard_time": 1680926367,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 199017,
+      "num": 193066,
+      "word": "澹台烬把叶夕雾挂在马上",
+      "onboard_time": 1680938666,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 198064,
@@ -987,20 +1019,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 181689,
-      "num": 181689,
-      "word": "王宝强在老家广场唱戏",
-      "onboard_time": 1680937706,
+      "raw_hot": 173949,
+      "num": 173949,
+      "word": "TF家族蝴蝶效应全新公式照",
+      "onboard_time": 1680938307,
       "rank": 32,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 174490,
-      "num": 174490,
-      "word": "全国在校大学生来济南免费玩",
-      "onboard_time": 1680936867,
-      "rank": 34,
-      "category": "社会新闻,旅游"
+      "category": "作品衍生"
     },
     {
       "raw_hot": 172450,
@@ -1051,6 +1075,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 161534,
+      "num": 161534,
+      "word": "这个宿舍是选对了",
+      "onboard_time": 1680934945,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 160859,
       "num": 160859,
       "word": "网友迪士尼偶遇章若楠",
@@ -1075,20 +1107,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 157662,
-      "num": 157662,
-      "word": "这个宿舍是选对了",
-      "onboard_time": 1680934945,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 156970,
       "num": 156970,
       "word": "太阳vs湖人",
       "onboard_time": 1680915146,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 154642,
+      "num": 154642,
+      "word": "赵露思捧脸照",
+      "onboard_time": 1680937285,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 151615,
@@ -1147,6 +1179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141090,
+      "num": 141090,
+      "word": "萌兰再现经典一字马",
+      "onboard_time": 1680938248,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140504,
       "num": 140504,
       "word": "孙家栋院士94岁生日快乐",
@@ -1184,6 +1224,14 @@
       "word": "周雨彤哭戏镜头破碎感",
       "onboard_time": 1680936026,
       "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 133087,
+      "num": 133087,
+      "word": "尘封十三载",
+      "onboard_time": 1680938307,
+      "rank": 45,
       "category": "影视"
     },
     {
@@ -1291,6 +1339,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120328,
+      "num": 120328,
+      "word": "2023LCK",
+      "onboard_time": 1680938065,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 119621,
+      "num": 196715,
+      "word": "叹早茶是澳门人早起的动力",
+      "onboard_time": 1680937108,
+      "rank": 29,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 118802,
       "num": 118802,
       "word": "陈奕迅说好疯狂好激动",
@@ -1331,14 +1395,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 114398,
-      "num": 114398,
-      "word": "赵露思捧脸照",
-      "onboard_time": 1680937285,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
       "raw_hot": 112981,
       "num": 105565,
       "word": "EXO出道十一周年",
@@ -1361,14 +1417,6 @@
       "onboard_time": 1680871950,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 110418,
-      "num": 196715,
-      "word": "叹早茶是澳门人早起的动力",
-      "onboard_time": 1680937108,
-      "rank": 29,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 109934,
