@@ -1,6 +1,6 @@
 {
   "startTime": 1680970864988,
-  "endTime": 1680970864988,
+  "endTime": 1680971785283,
   "band_list": [
     {
       "raw_hot": 1180852,
@@ -43,6 +43,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 546078,
+      "num": 546078,
+      "word": "陈晓说我要是双星我就翻脸了",
+      "onboard_time": 1680967530,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 523725,
       "num": 523725,
       "word": "新冠病毒可能来源于人类",
@@ -57,14 +65,6 @@
       "onboard_time": 1680961710,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 491597,
-      "num": 491597,
-      "word": "陈晓说我要是双星我就翻脸了",
-      "onboard_time": 1680967530,
-      "rank": 6,
-      "category": "影视"
     },
     {
       "raw_hot": 483983,
@@ -83,20 +83,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 424980,
+      "num": 424980,
+      "word": "水哥封面",
+      "onboard_time": 1680968967,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 423365,
       "num": 423365,
       "word": "程潇三天速成的hiphop",
       "onboard_time": 1680968011,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 415271,
-      "num": 415271,
-      "word": "水哥封面",
-      "onboard_time": 1680968967,
-      "rank": 12,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 372869,
@@ -235,6 +235,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 164655,
+      "num": 127574,
+      "word": "广州海潮宇宙音乐节",
+      "onboard_time": 1680969688,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 155372,
       "num": 128036,
       "word": "周柏豪武汉",
@@ -281,14 +289,6 @@
       "onboard_time": 1680961350,
       "rank": 33,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 138609,
-      "num": 127574,
-      "word": "广州海潮宇宙音乐节",
-      "onboard_time": 1680969688,
-      "rank": 37,
-      "category": "音乐"
     },
     {
       "raw_hot": 133199,
@@ -339,11 +339,27 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 103866,
+      "raw_hot": 113699,
       "num": 103866,
       "word": "长月烬明带动优酷APP下载量登顶",
       "onboard_time": 1680952287,
       "rank": 43,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 110753,
+      "num": 110753,
+      "word": "猫咪爬上树默默看小狗寻找自己",
+      "onboard_time": 1680970405,
+      "rank": 47,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 107416,
+      "num": 89220,
+      "word": "人生之路",
+      "onboard_time": 1680971064,
+      "rank": 44,
       "category": "影视"
     },
     {
@@ -379,12 +395,12 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 72848,
-      "num": 96746,
-      "word": "猫咪爬上树默默看小狗寻找自己",
-      "onboard_time": 1680970405,
-      "rank": 47,
-      "category": "幽默,情感"
+      "raw_hot": 68688,
+      "num": 86577,
+      "word": "月亮",
+      "onboard_time": 1680971124,
+      "rank": 48,
+      "category": "自然"
     },
     {
       "raw_hot": 64848,
@@ -406,6 +422,9 @@
   "hotgov_list": [
     {
       "word": "#春天里我们都是奋斗者#"
+    },
+    {
+      "word": "#春耕农忙正当时#"
     }
   ]
 }
