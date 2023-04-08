@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680910402949,
+  "endTime": 1680916705690,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -1083,6 +1083,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1528249,
+      "num": 454971,
+      "word": "赵露思发缝",
+      "onboard_time": 1680911122,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1524172,
       "num": 1524172,
       "word": "马克龙想续租大熊猫",
@@ -2131,6 +2139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 856583,
+      "num": 856583,
+      "word": "狂飙2正在筹备中",
+      "onboard_time": 1680911182,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 850971,
       "num": 850971,
       "word": "蛋仔派对",
@@ -2915,6 +2931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 682010,
+      "num": 682010,
+      "word": "我有个出家人朋友",
+      "onboard_time": 1680914847,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
       "raw_hot": 681894,
       "num": 349369,
       "word": "女孩跳江获救3名救援小伙溺亡",
@@ -3017,6 +3041,14 @@
       "onboard_time": 1680347130,
       "rank": 8,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 663175,
+      "num": 663175,
+      "word": "山东推出399元高铁环游套票",
+      "onboard_time": 1680909798,
+      "rank": 34,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 660734,
@@ -3643,6 +3675,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 559336,
+      "num": 559336,
+      "word": "才知道充电宝可以暂停计费",
+      "onboard_time": 1680878971,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 556793,
       "num": 556793,
       "word": "武汉地铁",
@@ -3657,6 +3697,14 @@
       "onboard_time": 1680680310,
       "rank": 11,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 555922,
+      "num": 450823,
+      "word": "东部战区",
+      "onboard_time": 1680915927,
+      "rank": 11,
+      "category": "国内要闻,军事"
     },
     {
       "raw_hot": 555392,
@@ -4403,6 +4451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 479762,
+      "num": 479762,
+      "word": "长月烬明刷新仙侠剧破万纪录",
+      "onboard_time": 1680913103,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 478943,
       "num": 389999,
       "word": "黑暗荣耀",
@@ -4497,6 +4553,14 @@
       "onboard_time": 1680652584,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 473814,
+      "num": 473814,
+      "word": "马克龙参访中山大学",
+      "onboard_time": 1680910341,
+      "rank": 11,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 473611,
@@ -4899,14 +4963,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 432330,
-      "num": 432330,
-      "word": "才知道充电宝可以暂停计费",
-      "onboard_time": 1680878971,
-      "rank": 24,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 431731,
       "num": 309215,
       "word": "崔杋圭撞脸宋亚轩",
@@ -5081,6 +5137,14 @@
       "onboard_time": 1680318989,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 419407,
+      "num": 419407,
+      "word": "黑莲花攻略手册",
+      "onboard_time": 1680910039,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 419388,
@@ -5715,12 +5779,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 370537,
+      "num": 370537,
+      "word": "东部战区组织环台岛战备警巡",
+      "onboard_time": 1680915745,
+      "rank": 14,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 370206,
       "num": 370206,
       "word": "张国荣母校利兹大学长椅上摆满鲜花",
       "onboard_time": 1680364349,
       "rank": 14,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 369942,
+      "num": 369942,
+      "word": "杨紫把范丞丞逗到弯腰笑",
+      "onboard_time": 1680916107,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 368482,
@@ -5737,6 +5817,14 @@
       "onboard_time": 1680578428,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 368063,
+      "num": 368063,
+      "word": "姜思达钢管舞视频",
+      "onboard_time": 1680914366,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 367541,
@@ -6779,6 +6867,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 304038,
+      "num": 304038,
+      "word": "张云龙高情商发言",
+      "onboard_time": 1680914005,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 303949,
       "num": 249731,
       "word": "杨紫ins关注程潇",
@@ -7395,6 +7491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 278912,
+      "num": 278912,
+      "word": "长月烬明剧组群演",
+      "onboard_time": 1680910582,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 278797,
       "num": 269276,
       "word": "Jennie与Lisa比心照",
@@ -7931,6 +8035,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 257271,
+      "num": 257271,
+      "word": "SEVENTEEN韩团首个百万中输",
+      "onboard_time": 1680910821,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 257196,
       "num": 257196,
       "word": "小美人鱼内地定档",
@@ -8067,6 +8179,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 252961,
+      "num": 252961,
+      "word": "原来这些歌都是20年前的了",
+      "onboard_time": 1680914785,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 252235,
       "num": 252235,
       "word": "阿里版GPT官宣内测",
@@ -8185,6 +8305,14 @@
       "onboard_time": 1680822922,
       "rank": 37,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 249801,
+      "num": 249801,
+      "word": "中船获法国超210亿元订单",
+      "onboard_time": 1680892633,
+      "rank": 16,
+      "category": "财经"
     },
     {
       "raw_hot": 249018,
@@ -10507,6 +10635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 201462,
+      "num": 201462,
+      "word": "张嘉倪怼脸哭戏",
+      "onboard_time": 1680909619,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 201454,
       "num": 201454,
       "word": "切尔西主帅波特下课",
@@ -11707,14 +11843,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 189254,
-      "num": 186750,
-      "word": "马克龙参访中山大学",
-      "onboard_time": 1680910341,
-      "rank": 11,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 189252,
       "num": 189252,
       "word": "苏醒说最后一攻为什么不给欧文呢",
@@ -11867,14 +11995,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 187408,
-      "num": 187408,
-      "word": "中船获法国超210亿元订单",
-      "onboard_time": 1680892633,
-      "rank": 16,
-      "category": "财经"
-    },
-    {
       "raw_hot": 187282,
       "num": 187282,
       "word": "宇宙探索编辑部 晕镜头",
@@ -12008,14 +12128,6 @@
       "word": "赵露思打卡杀青应援花墙",
       "onboard_time": 1680852570,
       "rank": 37,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 185759,
-      "num": 185759,
-      "word": "张嘉倪怼脸哭戏",
-      "onboard_time": 1680909619,
-      "rank": 12,
       "category": "影视"
     },
     {
@@ -12265,6 +12377,14 @@
       "onboard_time": 1680832947,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 182667,
+      "num": 182667,
+      "word": "冲绳那霸机场 两只石狮子",
+      "onboard_time": 1680908537,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 182531,
@@ -12601,14 +12721,6 @@
       "onboard_time": 1680428967,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 175417,
-      "num": 85262,
-      "word": "冲绳那霸机场 两只石狮子",
-      "onboard_time": 1680908537,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 175321,
@@ -13147,6 +13259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 165841,
+      "num": 165841,
+      "word": "如何看待年轻人失业后假装上班",
+      "onboard_time": 1680916225,
+      "rank": 28,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 165703,
       "num": 165703,
       "word": "seventeen聚餐合照",
@@ -13507,6 +13627,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 158953,
+      "num": 158953,
+      "word": "桃花坞对面山头全是闪光灯",
+      "onboard_time": 1680915206,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158938,
       "num": 158938,
       "word": "小落夏洛特Carry全场",
@@ -13537,6 +13665,14 @@
       "onboard_time": 1680330750,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 158311,
+      "num": 158311,
+      "word": "TF家族",
+      "onboard_time": 1680914125,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 158255,
@@ -13609,6 +13745,14 @@
       "onboard_time": 1680512012,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 156970,
+      "num": 156970,
+      "word": "太阳vs湖人",
+      "onboard_time": 1680915146,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 156286,
@@ -14515,6 +14659,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 138299,
+      "num": 138299,
+      "word": "AI自主学习让吴京刘德华重返20岁",
+      "onboard_time": 1680909859,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 138264,
       "num": 138264,
       "word": "静音车厢你爱了吗",
@@ -14843,6 +14995,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 132163,
+      "num": 132163,
+      "word": "网友迪士尼偶遇章若楠",
+      "onboard_time": 1680912624,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 132143,
       "num": 132143,
       "word": "HYBE新男团BOYNEXTDOOR主页公开",
@@ -14993,6 +15153,14 @@
       "onboard_time": 1680341429,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 128607,
+      "num": 106433,
+      "word": "时代少年团今日下班视频",
+      "onboard_time": 1680913763,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 128538,
@@ -15579,6 +15747,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 112981,
+      "num": 105412,
+      "word": "EXO出道十一周年",
+      "onboard_time": 1680910099,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 112734,
       "num": 112734,
       "word": "你会忍着拥挤的烦恼出游吗",
@@ -15601,6 +15777,14 @@
       "onboard_time": 1680327869,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 111512,
+      "num": 104856,
+      "word": "华晨宇演唱会航拍视频",
+      "onboard_time": 1680913704,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 111345,
@@ -15769,14 +15953,6 @@
       "onboard_time": 1680660451,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 104080,
-      "num": 104080,
-      "word": "EXO出道十一周年",
-      "onboard_time": 1680910099,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 104067,
@@ -15979,14 +16155,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 98690,
-      "num": 98690,
-      "word": "黑莲花攻略手册",
-      "onboard_time": 1680910039,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 98616,
       "num": 98616,
       "word": "突然就想换个专业读了",
@@ -16041,14 +16209,6 @@
       "onboard_time": 1680655709,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 95528,
-      "num": 85029,
-      "word": "AI自主学习让吴京刘德华重返20岁",
-      "onboard_time": 1680909859,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 95149,
@@ -16193,14 +16353,6 @@
       "onboard_time": 1680256765,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 89285,
-      "num": 83268,
-      "word": "山东推出399元高铁环游套票",
-      "onboard_time": 1680909798,
-      "rank": 34,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 88202,
