@@ -1,6 +1,6 @@
 {
   "startTime": 1680970864988,
-  "endTime": 1680975199802,
+  "endTime": 1680977987411,
   "band_list": [
     {
       "raw_hot": 1180852,
@@ -147,6 +147,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 229108,
+      "num": 229108,
+      "word": "李佳航李晟看毛不易演唱会",
+      "onboard_time": 1680973999,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 228484,
       "num": 228484,
       "word": "EXO再唱咆哮",
@@ -195,20 +203,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 203695,
-      "num": 203695,
-      "word": "李佳航李晟看毛不易演唱会",
-      "onboard_time": 1680973999,
-      "rank": 45,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 195701,
       "num": 147668,
       "word": "吴世勋脸链",
       "onboard_time": 1680958410,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 192985,
+      "num": 192985,
+      "word": "EXO将5月回归",
+      "onboard_time": 1680977476,
+      "rank": 5,
+      "category": "音乐"
     },
     {
       "raw_hot": 188411,
@@ -308,7 +316,7 @@
     },
     {
       "raw_hot": 138528,
-      "num": 98310,
+      "num": 114339,
       "word": "胡歌问虚拟人没电了怎么办",
       "onboard_time": 1680973879,
       "rank": 44,
@@ -377,6 +385,14 @@
       "onboard_time": 1680952287,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 112686,
+      "num": 112686,
+      "word": "当代女生对丑甲的执念",
+      "onboard_time": 1680974418,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 107416,
@@ -449,14 +465,6 @@
       "onboard_time": 1680937165,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 45316,
-      "num": 50648,
-      "word": "当代女生对丑甲的执念",
-      "onboard_time": 1680974418,
-      "rank": 47,
-      "category": "幽默"
     }
   ],
   "hotgov_list": [
