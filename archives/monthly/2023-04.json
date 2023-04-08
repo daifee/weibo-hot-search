@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680921500863,
+  "endTime": 1680923843060,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -1419,6 +1419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1203068,
+      "num": 864235,
+      "word": "白幼瘦审美",
+      "onboard_time": 1680921090,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1192024,
       "num": 976342,
       "word": "张继科联合创立的茶饮品牌已成老赖",
@@ -1705,6 +1713,14 @@
       "onboard_time": 1680502531,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1015818,
+      "num": 1015818,
+      "word": "陈都灵戏份",
+      "onboard_time": 1680920968,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 1012753,
@@ -2257,6 +2273,14 @@
       "onboard_time": 1680422850,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 837683,
+      "num": 837683,
+      "word": "19岁女孩整形医院抽脂后3天死亡",
+      "onboard_time": 1680922406,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 837448,
@@ -3379,6 +3403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 623596,
+      "num": 623596,
+      "word": "WE Are One",
+      "onboard_time": 1680922588,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 622965,
       "num": 622965,
       "word": "NINEPERCENT成团出道五周年",
@@ -3467,12 +3499,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 609781,
+      "num": 609781,
+      "word": "苏州科技大学",
+      "onboard_time": 1680923006,
+      "rank": 7,
+      "category": "教育"
+    },
+    {
       "raw_hot": 608091,
       "num": 608091,
       "word": "国内新恋综游戏尺度",
       "onboard_time": 1680781409,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 603762,
+      "num": 444220,
+      "word": "13岁孩子疑因游戏问题勒父亲脖子",
+      "onboard_time": 1680919886,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 602920,
@@ -3969,14 +4017,6 @@
       "onboard_time": 1680320429,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 538358,
-      "num": 538358,
-      "word": "陈都灵戏份",
-      "onboard_time": 1680920968,
-      "rank": 6,
-      "category": "影视"
     },
     {
       "raw_hot": 537559,
@@ -4987,14 +5027,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 438318,
-      "num": 438318,
-      "word": "13岁孩子疑因游戏问题勒父亲脖子",
-      "onboard_time": 1680919886,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 438162,
       "num": 438162,
       "word": "吴尊友谈戴口罩",
@@ -5376,6 +5408,14 @@
       "word": "爱奇艺4月片单",
       "onboard_time": 1680584854,
       "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 407177,
+      "num": 407177,
+      "word": "白鹿 长月烬明",
+      "onboard_time": 1680920907,
+      "rank": 21,
       "category": "影视"
     },
     {
@@ -6043,6 +6083,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 355779,
+      "num": 355779,
+      "word": "柯南贝克街的亡灵评分",
+      "onboard_time": 1680922047,
+      "rank": 17,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 355419,
       "num": 355419,
       "word": "小花梅近况",
@@ -6081,6 +6129,14 @@
       "onboard_time": 1680427228,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 353366,
+      "num": 353366,
+      "word": "王嘉尔711给了你多少钱",
+      "onboard_time": 1680920609,
+      "rank": 35,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 352991,
@@ -6419,6 +6475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 333988,
+      "num": 333988,
+      "word": "光渊",
+      "onboard_time": 1680317608,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 333876,
       "num": 333876,
       "word": "迪丽热巴微博之夜发型拆解",
@@ -6656,14 +6720,6 @@
       "word": "1分钟了解长月烬明世界观",
       "onboard_time": 1680681570,
       "rank": 23,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 322251,
-      "num": 322251,
-      "word": "光渊",
-      "onboard_time": 1680317608,
-      "rank": 11,
       "category": "影视"
     },
     {
@@ -6947,6 +7003,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 304219,
+      "num": 304219,
+      "word": "最好的我们开播七年了",
+      "onboard_time": 1680922166,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 304038,
       "num": 304038,
       "word": "张云龙高情商发言",
@@ -7099,6 +7163,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 296365,
+      "num": 296365,
+      "word": "独行侠",
+      "onboard_time": 1680922047,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 296063,
       "num": 296063,
       "word": "FPX",
@@ -7187,6 +7259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 293791,
+      "num": 293791,
+      "word": "EXO出道颜值",
+      "onboard_time": 1680921568,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 293785,
       "num": 210145,
       "word": "肖战杂志怼脸镜头",
@@ -7241,14 +7321,6 @@
       "onboard_time": 1680501030,
       "rank": 31,
       "category": "情感,网红"
-    },
-    {
-      "raw_hot": 291375,
-      "num": 291375,
-      "word": "白鹿 长月烬明",
-      "onboard_time": 1680920907,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 290886,
@@ -7329,6 +7401,14 @@
       "onboard_time": 1680494735,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 287364,
+      "num": 287364,
+      "word": "无名",
+      "onboard_time": 1680922527,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 287216,
@@ -10203,14 +10283,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 205917,
-      "num": 205917,
-      "word": "白幼瘦审美",
-      "onboard_time": 1680921090,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 205901,
       "num": 205901,
       "word": "高圆圆吃艾草麻糍",
@@ -10961,14 +11033,6 @@
       "onboard_time": 1680416969,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 199664,
-      "num": 199664,
-      "word": "王嘉尔711给了你多少钱",
-      "onboard_time": 1680920609,
-      "rank": 35,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 199560,
@@ -12057,6 +12121,14 @@
       "onboard_time": 1680740194,
       "rank": 32,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 188754,
+      "num": 188754,
+      "word": "原来指尖真的可以藏下宇宙",
+      "onboard_time": 1680923608,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 188515,
@@ -14291,6 +14363,14 @@
       "category": "国内要闻,军事"
     },
     {
+      "raw_hot": 149664,
+      "num": 149664,
+      "word": "宠物鼠被滞留地铁上挠伤乘客",
+      "onboard_time": 1680923246,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 149390,
       "num": 149390,
       "word": "贾乃亮呼吁关注孤独症群体",
@@ -15177,6 +15257,14 @@
       "onboard_time": 1680538348,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 132023,
+      "num": 132023,
+      "word": "当四川珍稀动物摆上龙门阵",
+      "onboard_time": 1680923789,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131951,

@@ -1,6 +1,6 @@
 {
   "startTime": 1680884526258,
-  "endTime": 1680921500863,
+  "endTime": 1680923843060,
   "band_list": [
     {
       "raw_hot": 2184185,
@@ -59,12 +59,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1203068,
+      "num": 864235,
+      "word": "白幼瘦审美",
+      "onboard_time": 1680921090,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1053870,
       "num": 1053870,
       "word": "陈某龙故意散布谣言被依法行拘",
       "onboard_time": 1680872427,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1015818,
+      "num": 1015818,
+      "word": "陈都灵戏份",
+      "onboard_time": 1680920968,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 858233,
@@ -89,6 +105,14 @@
       "onboard_time": 1680879512,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 837683,
+      "num": 837683,
+      "word": "19岁女孩整形医院抽脂后3天死亡",
+      "onboard_time": 1680922406,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 785967,
@@ -121,6 +145,30 @@
       "onboard_time": 1680909798,
       "rank": 34,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 623596,
+      "num": 623596,
+      "word": "WE Are One",
+      "onboard_time": 1680922588,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 609781,
+      "num": 609781,
+      "word": "苏州科技大学",
+      "onboard_time": 1680923006,
+      "rank": 7,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 603762,
+      "num": 444220,
+      "word": "13岁孩子疑因游戏问题勒父亲脖子",
+      "onboard_time": 1680919886,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 599276,
@@ -161,14 +209,6 @@
       "onboard_time": 1680878793,
       "rank": 31,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 538358,
-      "num": 538358,
-      "word": "陈都灵戏份",
-      "onboard_time": 1680920968,
-      "rank": 6,
-      "category": "影视"
     },
     {
       "raw_hot": 526371,
@@ -235,14 +275,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 438318,
-      "num": 438318,
-      "word": "13岁孩子疑因游戏问题勒父亲脖子",
-      "onboard_time": 1680919886,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 419987,
       "num": 419987,
       "word": "和马 米卡",
@@ -256,6 +288,14 @@
       "word": "黑莲花攻略手册",
       "onboard_time": 1680910039,
       "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 407177,
+      "num": 407177,
+      "word": "白鹿 长月烬明",
+      "onboard_time": 1680920907,
+      "rank": 21,
       "category": "影视"
     },
     {
@@ -291,6 +331,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 355779,
+      "num": 355779,
+      "word": "柯南贝克街的亡灵评分",
+      "onboard_time": 1680922047,
+      "rank": 17,
+      "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 353366,
+      "num": 353366,
+      "word": "王嘉尔711给了你多少钱",
+      "onboard_time": 1680920609,
+      "rank": 35,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 348380,
       "num": 348380,
       "word": "长月烬明",
@@ -305,6 +361,22 @@
       "onboard_time": 1680918687,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 333988,
+      "num": 333988,
+      "word": "光渊",
+      "onboard_time": 1680922588,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 304219,
+      "num": 304219,
+      "word": "最好的我们开播七年了",
+      "onboard_time": 1680922166,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 304038,
@@ -323,11 +395,27 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 291375,
-      "num": 291375,
-      "word": "白鹿 长月烬明",
-      "onboard_time": 1680920907,
-      "rank": 21,
+      "raw_hot": 296365,
+      "num": 296365,
+      "word": "独行侠",
+      "onboard_time": 1680922047,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 293791,
+      "num": 293791,
+      "word": "EXO出道颜值",
+      "onboard_time": 1680921568,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 287364,
+      "num": 287364,
+      "word": "无名",
+      "onboard_time": 1680922527,
+      "rank": 29,
       "category": "影视"
     },
     {
@@ -451,14 +539,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 205917,
-      "num": 205917,
-      "word": "白幼瘦审美",
-      "onboard_time": 1680921090,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 201462,
       "num": 201462,
       "word": "张嘉倪怼脸哭戏",
@@ -483,14 +563,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 199664,
-      "num": 199664,
-      "word": "王嘉尔711给了你多少钱",
-      "onboard_time": 1680920609,
-      "rank": 35,
-      "category": "幽默,艺人"
-    },
-    {
       "raw_hot": 193851,
       "num": 193851,
       "word": "护考",
@@ -513,6 +585,14 @@
       "onboard_time": 1680908477,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 188754,
+      "num": 188754,
+      "word": "原来指尖真的可以藏下宇宙",
+      "onboard_time": 1680923608,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 187486,
@@ -611,6 +691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 149664,
+      "num": 149664,
+      "word": "宠物鼠被滞留地铁上挠伤乘客",
+      "onboard_time": 1680923246,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148113,
       "num": 129528,
       "word": "名侦探柯南官方公告",
@@ -655,6 +743,14 @@
       "num": 132928,
       "word": "抱团养老",
       "onboard_time": 1680917846,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132023,
+      "num": 132023,
+      "word": "当四川珍稀动物摆上龙门阵",
+      "onboard_time": 1680923789,
       "rank": 47,
       "category": "社会新闻"
     },
