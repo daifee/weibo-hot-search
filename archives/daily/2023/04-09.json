@@ -1,6 +1,6 @@
 {
   "startTime": 1680970864988,
-  "endTime": 1680986017153,
+  "endTime": 1680988426442,
   "band_list": [
     {
       "raw_hot": 1180852,
@@ -481,6 +481,14 @@
       "onboard_time": 1680964472,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 18534,
+      "num": 18534,
+      "word": "你是哪种旅行咖",
+      "onboard_time": 1680986771,
+      "rank": 29,
+      "category": "幽默"
     }
   ],
   "hotgov_list": [
