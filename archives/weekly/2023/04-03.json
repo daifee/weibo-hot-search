@@ -1,6 +1,6 @@
 {
   "startTime": 1680452464197,
-  "endTime": 1680959881664,
+  "endTime": 1680960794807,
   "band_list": [
     {
       "raw_hot": 9506486,
@@ -452,7 +452,7 @@
     },
     {
       "raw_hot": 2333080,
-      "num": 482789,
+      "num": 548516,
       "word": "陈翔夜市摆摊",
       "onboard_time": 1680948388,
       "rank": 11,
@@ -1555,6 +1555,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1035378,
+      "num": 872844,
+      "word": "气胸",
+      "onboard_time": 1680958049,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1032587,
       "num": 463855,
       "word": "翁虹女儿颜值",
@@ -1939,6 +1947,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 863957,
+      "num": 863957,
+      "word": "你好星期六下周有刘雨昕",
+      "onboard_time": 1680957389,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 862416,
       "num": 862416,
       "word": "剪指甲最好剪成方形的",
@@ -2164,7 +2180,7 @@
     },
     {
       "raw_hot": 813776,
-      "num": 437700,
+      "num": 462397,
       "word": "吴磊胸侧的疤",
       "onboard_time": 1680958467,
       "rank": 11,
@@ -2219,14 +2235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 801293,
-      "num": 801293,
-      "word": "气胸",
-      "onboard_time": 1680958049,
-      "rank": 3,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 799786,
       "num": 799786,
       "word": "女子乐山大佛头顶盘膝打坐",
@@ -2251,6 +2259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 796422,
+      "num": 796422,
+      "word": "因为镯子贴膜被同事嘲笑了",
+      "onboard_time": 1680958170,
+      "rank": 6,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 795051,
       "num": 795051,
       "word": "芬兰正式成为北约第31个成员国",
@@ -2273,14 +2289,6 @@
       "onboard_time": 1680940527,
       "rank": 8,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 792746,
-      "num": 792746,
-      "word": "你好星期六下周有刘雨昕",
-      "onboard_time": 1680957389,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 784002,
@@ -2939,14 +2947,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 641808,
-      "num": 641808,
-      "word": "因为镯子贴膜被同事嘲笑了",
-      "onboard_time": 1680958170,
-      "rank": 6,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 641320,
       "num": 641320,
       "word": "青春环游记4定档",
@@ -3379,12 +3379,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 570747,
+      "num": 570747,
+      "word": "新兰",
+      "onboard_time": 1680621751,
+      "rank": 23,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 568517,
       "num": 568517,
       "word": "特朗普一旦定罪或被判4年",
       "onboard_time": 1680592888,
       "rank": 34,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 565997,
+      "num": 565997,
+      "word": "宝马女司机醉驾撞人拖行案下周开庭",
+      "onboard_time": 1680957749,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 565832,
@@ -3433,14 +3449,6 @@
       "onboard_time": 1680691891,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 555207,
-      "num": 555207,
-      "word": "新兰",
-      "onboard_time": 1680621751,
-      "rank": 23,
-      "category": "影视,动漫"
     },
     {
       "raw_hot": 553792,
@@ -3747,6 +3755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 520407,
+      "num": 299340,
+      "word": "吴世勋脸链",
+      "onboard_time": 1680958410,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 520136,
       "num": 520136,
       "word": "尽快补上死亡教育这一课",
@@ -3939,14 +3955,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 491531,
-      "num": 491531,
-      "word": "宝马女司机醉驾撞人拖行案下周开庭",
-      "onboard_time": 1680957749,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 490283,
       "num": 373508,
       "word": "虞书欣韩国街边随拍",
@@ -4001,6 +4009,14 @@
       "onboard_time": 1680510273,
       "rank": 39,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 487545,
+      "num": 284035,
+      "word": "易烊千玺荆州",
+      "onboard_time": 1680960331,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 486924,
@@ -4371,14 +4387,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 441505,
-      "num": 299340,
-      "word": "吴世勋脸链",
-      "onboard_time": 1680958410,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 440390,
       "num": 440390,
       "word": "陈鑫海演技",
@@ -4529,6 +4537,14 @@
       "onboard_time": 1680863128,
       "rank": 36,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 427044,
+      "num": 274378,
+      "word": "哈妹一惊一乍是薛佳凝设计的",
+      "onboard_time": 1680959311,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 425249,
@@ -5009,6 +5025,14 @@
       "onboard_time": 1680743728,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 386533,
+      "num": 274856,
+      "word": "青春环游记",
+      "onboard_time": 1680583234,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 386090,
@@ -5515,6 +5539,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 346710,
+      "num": 274076,
+      "word": "梁博现场",
+      "onboard_time": 1680959130,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 346533,
       "num": 346533,
       "word": "酒酿青团双皮奶",
@@ -5625,14 +5657,6 @@
       "onboard_time": 1680832646,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 341502,
-      "num": 274856,
-      "word": "青春环游记",
-      "onboard_time": 1680583234,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 341461,
@@ -6083,14 +6107,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 306191,
-      "num": 274378,
-      "word": "哈妹一惊一乍是薛佳凝设计的",
-      "onboard_time": 1680959311,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 306143,
       "num": 306143,
       "word": "天蝎座的冷酷其实都是装的",
@@ -6347,14 +6363,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 292396,
-      "num": 274076,
-      "word": "梁博现场",
-      "onboard_time": 1680959130,
-      "rank": 27,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 291954,
       "num": 291954,
       "word": "颖儿工作室声明",
@@ -6377,6 +6385,14 @@
       "onboard_time": 1680501030,
       "rank": 31,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 291496,
+      "num": 217867,
+      "word": "小狐狸勾叶夕雾下巴",
+      "onboard_time": 1680959610,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 290886,
@@ -7051,6 +7067,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 260125,
+      "num": 273183,
+      "word": "eStar对战狼队",
+      "onboard_time": 1680957328,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 259986,
       "num": 259986,
       "word": "王一博诉魔迹软糖侵权",
@@ -7243,6 +7267,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 255635,
+      "num": 255635,
+      "word": "90岁游本昌对年轻演员说你们好幸福",
+      "onboard_time": 1680958588,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 254711,
       "num": 254711,
       "word": "李沁刘巧珍哭戏共情力",
@@ -7273,6 +7305,14 @@
       "onboard_time": 1680477262,
       "rank": 48,
       "category": "自然"
+    },
+    {
+      "raw_hot": 253001,
+      "num": 217750,
+      "word": "澹台烬说萧凛没教",
+      "onboard_time": 1680958588,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 252961,
@@ -8219,6 +8259,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 217676,
+      "num": 217676,
+      "word": "一起祝贺这位同学考研成功上岸211大学",
+      "onboard_time": 1680959909,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 217646,
       "num": 217646,
       "word": "原来外卖餐具还能这样用",
@@ -8465,14 +8513,6 @@
       "onboard_time": 1680606869,
       "rank": 32,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 210870,
-      "num": 207952,
-      "word": "小狐狸勾叶夕雾下巴",
-      "onboard_time": 1680959610,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 210527,
@@ -8819,6 +8859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 206442,
+      "num": 206442,
+      "word": "杨洋品质影响力剧星",
+      "onboard_time": 1680959849,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 206375,
       "num": 206375,
       "word": "税务师成绩",
@@ -8992,14 +9040,6 @@
       "word": "陈若轩采访谈陆铮落泪",
       "onboard_time": 1680955828,
       "rank": 33,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 204437,
-      "num": 204437,
-      "word": "澹台烬说萧凛没教",
-      "onboard_time": 1680958588,
-      "rank": 44,
       "category": "影视"
     },
     {
@@ -9371,14 +9411,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 201357,
-      "num": 273183,
-      "word": "eStar对战狼队",
-      "onboard_time": 1680957328,
-      "rank": 19,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 201314,
       "num": 201314,
       "word": "能为互关做的只有这么多了",
@@ -9401,14 +9433,6 @@
       "onboard_time": 1680757952,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 201101,
-      "num": 201101,
-      "word": "杨洋品质影响力剧星",
-      "onboard_time": 1680959849,
-      "rank": 45,
-      "category": "影视"
     },
     {
       "raw_hot": 201069,
@@ -9457,6 +9481,14 @@
       "onboard_time": 1680835225,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 200679,
+      "num": 200679,
+      "word": "丁程鑫演王子变青蛙",
+      "onboard_time": 1680959970,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 200651,
@@ -10169,6 +10201,14 @@
       "onboard_time": 1680793230,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 192152,
+      "num": 214235,
+      "word": "中小学生有必要穿校服吗",
+      "onboard_time": 1680960448,
+      "rank": 36,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 191873,
@@ -11883,6 +11923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159859,
+      "num": 272562,
+      "word": "真不能穿黑色裤子抱宠物",
+      "onboard_time": 1680957027,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 159804,
       "num": 127401,
       "word": "IVE新歌Kitsch初舞台",
@@ -12273,14 +12321,6 @@
       "onboard_time": 1680595051,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 149975,
-      "num": 272562,
-      "word": "真不能穿黑色裤子抱宠物",
-      "onboard_time": 1680957027,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 149935,
@@ -13339,12 +13379,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 119171,
-      "num": 215506,
-      "word": "90岁游本昌对年轻演员说你们好幸福",
-      "onboard_time": 1680958588,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 119187,
+      "num": 212178,
+      "word": "做个自信的酷girl一点都不难",
+      "onboard_time": 1680960210,
+      "rank": 38,
+      "category": "情感,时尚"
     },
     {
       "raw_hot": 119127,
@@ -13761,6 +13801,14 @@
       "onboard_time": 1680933926,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 95459,
+      "num": 192146,
+      "word": "熊猫真的有功夫在身上",
+      "onboard_time": 1680960570,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 94925,
@@ -14288,6 +14336,9 @@
     },
     {
       "word": "#春天里我们都是奋斗者#"
+    },
+    {
+      "word": "#春耕农忙正当时#"
     }
   ]
 }
