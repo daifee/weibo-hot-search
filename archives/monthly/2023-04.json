@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680988426442,
+  "endTime": 1680989635574,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -19281,6 +19281,14 @@
       "onboard_time": 1680459195,
       "rank": 47,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 19185,
+      "num": 19185,
+      "word": "陈鑫海卢洋洋互相介绍对方",
+      "onboard_time": 1680988931,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 18534,
