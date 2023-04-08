@@ -1,6 +1,6 @@
 {
   "startTime": 1680970864988,
-  "endTime": 1680989635574,
+  "endTime": 1680992102093,
   "band_list": [
     {
       "raw_hot": 1180852,
@@ -467,6 +467,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 56320,
+      "num": 56320,
+      "word": "陈鑫海卢洋洋互相介绍对方",
+      "onboard_time": 1680988931,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 35809,
       "num": 33112,
       "word": "华晨宇杭州演唱会",
@@ -483,20 +491,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 19185,
-      "num": 19185,
-      "word": "陈鑫海卢洋洋互相介绍对方",
-      "onboard_time": 1680988931,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 18534,
-      "num": 18534,
+      "raw_hot": 20396,
+      "num": 20396,
       "word": "你是哪种旅行咖",
       "onboard_time": 1680986771,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 15531,
+      "num": 15531,
+      "word": "周末可以做的N件事",
+      "onboard_time": 1680985572,
+      "rank": 45,
+      "category": "幽默,情感"
     }
   ],
   "hotgov_list": [

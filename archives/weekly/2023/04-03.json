@@ -1,6 +1,6 @@
 {
   "startTime": 1680452464197,
-  "endTime": 1680989635574,
+  "endTime": 1680992102093,
   "band_list": [
     {
       "raw_hot": 9506486,
@@ -14483,6 +14483,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 56320,
+      "num": 56320,
+      "word": "陈鑫海卢洋洋互相介绍对方",
+      "onboard_time": 1680988931,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 55896,
       "num": 2898891,
       "word": "第六届数字中国建设峰会新闻发布会",
@@ -14643,28 +14651,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 20396,
+      "num": 20396,
+      "word": "你是哪种旅行咖",
+      "onboard_time": 1680986771,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 20198,
       "num": 24302,
       "word": "你遇到过哪些不当倡议",
       "onboard_time": 1680459195,
       "rank": 47,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 19185,
-      "num": 19185,
-      "word": "陈鑫海卢洋洋互相介绍对方",
-      "onboard_time": 1680988931,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 18534,
-      "num": 18534,
-      "word": "你是哪种旅行咖",
-      "onboard_time": 1680986771,
-      "rank": 29,
-      "category": "幽默"
     },
     {
       "raw_hot": 16919,
@@ -14681,6 +14681,14 @@
       "onboard_time": 1680457816,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 15531,
+      "num": 15531,
+      "word": "周末可以做的N件事",
+      "onboard_time": 1680985572,
+      "rank": 45,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 14938,

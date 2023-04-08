@@ -1,0 +1,410 @@
+{
+  "runTime": 1680992102093,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 188168,
+        "num": 188168,
+        "word": "何炅说自己从来没让旅伴花过钱",
+        "onboard_time": 1680964472,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162510,
+        "num": 162510,
+        "word": "因为镯子贴膜被同事嘲笑了",
+        "onboard_time": 1680958170,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 21801,
+        "num": 136859,
+        "word": "这是现实版人在画中游",
+        "onboard_time": 1680962910,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136294,
+        "num": 136294,
+        "word": "新冠病毒可能来源于人类",
+        "onboard_time": 1680946587,
+        "rank": 3,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 103696,
+        "num": 103696,
+        "word": "月薪多少才会让你感觉幸福",
+        "onboard_time": 1680964351,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 93214,
+        "num": 93214,
+        "word": "中小学生有必要穿校服吗",
+        "onboard_time": 1680960448,
+        "rank": 5,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 81882,
+        "num": 81882,
+        "word": "女子做实验硫酸蹭到脸上淡定冲水",
+        "onboard_time": 1680961710,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76998,
+        "num": 76998,
+        "word": "贝克汉姆回复王濛",
+        "onboard_time": 1680960991,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 59958,
+        "num": 59958,
+        "word": "一起祝贺这位同学考研成功上岸211大学",
+        "onboard_time": 1680959909,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 56320,
+        "num": 56320,
+        "word": "陈鑫海卢洋洋互相介绍对方",
+        "onboard_time": 1680988931,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 92326,
+        "num": 53781,
+        "word": "陈翔夜市摆摊",
+        "onboard_time": 1680948388,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60307,
+        "num": 53311,
+        "word": "宋祖儿希望45岁的白宇也要开心自在",
+        "onboard_time": 1680952287,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51116,
+        "num": 51116,
+        "word": "陈晓说我要是双星我就翻脸了",
+        "onboard_time": 1680967530,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 47354,
+        "num": 47354,
+        "word": "长月烬明陈都灵邓为戏份",
+        "onboard_time": 1680963870,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 47029,
+        "num": 47029,
+        "word": "虞书欣自己化的水光妆",
+        "onboard_time": 1680966212,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45026,
+        "num": 45026,
+        "word": "胡歌问虚拟人没电了怎么办",
+        "onboard_time": 1680973879,
+        "rank": 15,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 40282,
+        "num": 40282,
+        "word": "李佳航李晟看毛不易演唱会",
+        "onboard_time": 1680973999,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 39704,
+        "num": 39704,
+        "word": "山东泰山",
+        "onboard_time": 1680960869,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38246,
+        "num": 38246,
+        "word": "梁博现场",
+        "onboard_time": 1680959130,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 37628,
+        "num": 37628,
+        "word": "实探天门山涉事玻璃栈道恢复正常",
+        "onboard_time": 1680961350,
+        "rank": 19,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 42164,
+        "num": 37444,
+        "word": "猫咪爬上树默默看小狗寻找自己",
+        "onboard_time": 1680970405,
+        "rank": 20,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 36397,
+        "num": 36397,
+        "word": "90岁游本昌对年轻演员说你们好幸福",
+        "onboard_time": 1680958588,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32692,
+        "num": 32692,
+        "word": "气胸",
+        "onboard_time": 1680958049,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 31579,
+        "num": 31579,
+        "word": "别太信任猫了",
+        "onboard_time": 1680963630,
+        "rank": 23,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 29411,
+        "num": 29411,
+        "word": "宝马女司机醉驾撞人拖行案下周开庭",
+        "onboard_time": 1680957749,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28892,
+        "num": 28892,
+        "word": "澹台烬叶夕雾异地恋",
+        "onboard_time": 1680963448,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 27553,
+        "num": 27553,
+        "word": "带患癌妈妈理发还价5元遭店主咒骂",
+        "onboard_time": 1680945146,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27040,
+        "num": 27040,
+        "word": "当代女生对丑甲的执念",
+        "onboard_time": 1680974418,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 26735,
+        "num": 26735,
+        "word": "吴磊说拍了七八个月10天就播完了",
+        "onboard_time": 1680946645,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 25839,
+        "num": 25839,
+        "word": "翁虹女儿颜值",
+        "onboard_time": 1680947908,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25748,
+        "num": 25748,
+        "word": "戚薇克莱茵蓝西装",
+        "onboard_time": 1680953848,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 23463,
+        "num": 23463,
+        "word": "eStar对战狼队",
+        "onboard_time": 1680957328,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 22070,
+        "num": 22070,
+        "word": "BLG战胜OMG",
+        "onboard_time": 1680962551,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 21238,
+        "num": 21238,
+        "word": "EXO将5月回归",
+        "onboard_time": 1680977476,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 20396,
+        "num": 20396,
+        "word": "你是哪种旅行咖",
+        "onboard_time": 1680986771,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 20093,
+        "num": 20093,
+        "word": "苏科大一院长说已电话通知考生",
+        "onboard_time": 1680943347,
+        "rank": 35,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 19118,
+        "num": 19118,
+        "word": "罗云熙眼神戏",
+        "onboard_time": 1680972561,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 18960,
+        "num": 18960,
+        "word": "程潇三天速成的hiphop",
+        "onboard_time": 1680968011,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18374,
+        "num": 18374,
+        "word": "水哥封面",
+        "onboard_time": 1680968967,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 18168,
+        "num": 18168,
+        "word": "易烊千玺荆州",
+        "onboard_time": 1680960331,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17020,
+        "num": 17020,
+        "word": "ppgod",
+        "onboard_time": 1680962130,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 16331,
+        "num": 16331,
+        "word": "吴世勋脸链",
+        "onboard_time": 1680958410,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16273,
+        "num": 16273,
+        "word": "长月烬明带动优酷APP下载量登顶",
+        "onboard_time": 1680952287,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 16101,
+        "num": 16101,
+        "word": "张凯 我就说火舞可以打金蝉",
+        "onboard_time": 1680966509,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 15768,
+        "num": 15768,
+        "word": "新兰",
+        "onboard_time": 1680958289,
+        "rank": 44,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 15531,
+        "num": 15531,
+        "word": "周末可以做的N件事",
+        "onboard_time": 1680985572,
+        "rank": 45,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 15093,
+        "num": 15093,
+        "word": "SK",
+        "onboard_time": 1680967948,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 14729,
+        "num": 14729,
+        "word": "广州海潮宇宙音乐节",
+        "onboard_time": 1680969688,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 14728,
+        "num": 14728,
+        "word": "狼队VS切尔西",
+        "onboard_time": 1680965970,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13842,
+        "num": 14724,
+        "word": "华晨宇时隔五年再唱山海",
+        "onboard_time": 1680963391,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#春天里我们都是奋斗者#"
+    }
+  }
+}
