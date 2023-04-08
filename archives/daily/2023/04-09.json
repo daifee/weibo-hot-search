@@ -1,6 +1,6 @@
 {
   "startTime": 1680970864988,
-  "endTime": 1680995756995,
+  "endTime": 1680996810626,
   "band_list": [
     {
       "raw_hot": 1180852,
@@ -49,6 +49,14 @@
       "onboard_time": 1680967530,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 535180,
+      "num": 196200,
+      "word": "懒羊羊在第一季第十一集出门忘带羊角",
+      "onboard_time": 1680995057,
+      "rank": 12,
+      "category": "动漫"
     },
     {
       "raw_hot": 523725,
@@ -123,8 +131,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 279885,
-      "num": 279885,
+      "raw_hot": 281860,
+      "num": 281860,
       "word": "中小学生有必要穿校服吗",
       "onboard_time": 1680960448,
       "rank": 16,
@@ -251,12 +259,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 170767,
+      "num": 170767,
+      "word": "四川一骑手背枪上路吓坏路人",
+      "onboard_time": 1680994396,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170221,
       "num": 142136,
       "word": "马思唯歌词",
       "onboard_time": 1680966329,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 169301,
+      "num": 169301,
+      "word": "哈妹一惊一乍是薛佳凝设计的",
+      "onboard_time": 1680959311,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 164655,
@@ -283,20 +307,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 148385,
+      "num": 148385,
+      "word": "EXO见面会",
+      "onboard_time": 1680995357,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 147342,
+      "num": 147342,
+      "word": "胡歌问虚拟人没电了怎么办",
+      "onboard_time": 1680973879,
+      "rank": 44,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 143261,
       "num": 143261,
       "word": "90岁游本昌对年轻演员说你们好幸福",
       "onboard_time": 1680958588,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 143140,
-      "num": 143140,
-      "word": "EXO见面会",
-      "onboard_time": 1680995357,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 140890,
@@ -323,20 +355,12 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 138528,
-      "num": 125274,
-      "word": "胡歌问虚拟人没电了怎么办",
-      "onboard_time": 1680973879,
-      "rank": 44,
-      "category": "影视,幽默"
-    },
-    {
-      "raw_hot": 135915,
-      "num": 135915,
-      "word": "懒羊羊在第一季第十一集出门忘带羊角",
-      "onboard_time": 1680995057,
-      "rank": 12,
-      "category": "动漫"
+      "raw_hot": 135336,
+      "num": 82253,
+      "word": "让你松弛下来的20件小事",
+      "onboard_time": 1680995777,
+      "rank": 30,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 133199,
@@ -393,14 +417,6 @@
       "onboard_time": 1680962130,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 114299,
-      "num": 114299,
-      "word": "哈妹一惊一乍是薛佳凝设计的",
-      "onboard_time": 1680959311,
-      "rank": 16,
-      "category": "影视"
     },
     {
       "raw_hot": 113699,
@@ -467,12 +483,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 93122,
-      "num": 93122,
-      "word": "四川一骑手背枪上路吓坏路人",
-      "onboard_time": 1680994396,
-      "rank": 22,
-      "category": "社会新闻"
+      "raw_hot": 91905,
+      "num": 89783,
+      "word": "张嘉倪祝高加林黄亚萍安好",
+      "onboard_time": 1680956667,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 90492,
+      "num": 90492,
+      "word": "尼斯0比2巴黎圣日耳曼",
+      "onboard_time": 1680995597,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 84497,
@@ -481,6 +505,30 @@
       "onboard_time": 1680943347,
       "rank": 46,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 82254,
+      "num": 82254,
+      "word": "哈兰德倒钩",
+      "onboard_time": 1680996198,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 77716,
+      "num": 77716,
+      "word": "长月烬明预告",
+      "onboard_time": 1680996618,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 68966,
+      "num": 68966,
+      "word": "杨洋不敢立flag",
+      "onboard_time": 1680992353,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 68688,
@@ -507,34 +555,18 @@
       "category": "情感"
     },
     {
-      "raw_hot": 59843,
-      "num": 59843,
-      "word": "张嘉倪祝高加林黄亚萍安好",
-      "onboard_time": 1680956667,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 58266,
-      "num": 57152,
-      "word": "杨洋不敢立flag",
-      "onboard_time": 1680992353,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 43217,
-      "num": 43217,
+      "raw_hot": 58923,
+      "num": 58923,
       "word": "周末可以做的N件事",
       "onboard_time": 1680985572,
       "rank": 45,
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 37802,
-      "num": 37802,
-      "word": "尼斯0比2巴黎圣日耳曼",
-      "onboard_time": 1680995597,
+      "raw_hot": 50264,
+      "num": 50264,
+      "word": "南安普顿1比4曼城",
+      "onboard_time": 1680996498,
       "rank": 44,
       "category": "体育"
     },

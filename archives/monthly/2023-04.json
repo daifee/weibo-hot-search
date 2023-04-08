@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680995756995,
+  "endTime": 1680996810626,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -4465,6 +4465,14 @@
       "onboard_time": 1680584074,
       "rank": 17,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 535180,
+      "num": 196200,
+      "word": "懒羊羊在第一季第十一集出门忘带羊角",
+      "onboard_time": 1680995057,
+      "rank": 12,
+      "category": "动漫"
     },
     {
       "raw_hot": 532727,
@@ -14803,6 +14811,14 @@
       "category": "科技,社会议题"
     },
     {
+      "raw_hot": 170767,
+      "num": 170767,
+      "word": "四川一骑手背枪上路吓坏路人",
+      "onboard_time": 1680994396,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170524,
       "num": 170524,
       "word": "荒野行动",
@@ -16187,6 +16203,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 148385,
+      "num": 148385,
+      "word": "EXO见面会",
+      "onboard_time": 1680995357,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 148052,
       "num": 148052,
       "word": "第十三届北影节天坛奖评委会阵容",
@@ -16209,6 +16233,14 @@
       "onboard_time": 1680401367,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 147342,
+      "num": 147342,
+      "word": "胡歌问虚拟人没电了怎么办",
+      "onboard_time": 1680973879,
+      "rank": 44,
+      "category": "影视,幽默"
     },
     {
       "raw_hot": 147227,
@@ -16417,14 +16449,6 @@
       "onboard_time": 1680930627,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 143140,
-      "num": 143140,
-      "word": "EXO见面会",
-      "onboard_time": 1680995357,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 143117,
@@ -16699,14 +16723,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 138528,
-      "num": 125274,
-      "word": "胡歌问虚拟人没电了怎么办",
-      "onboard_time": 1680973879,
-      "rank": 44,
-      "category": "影视,幽默"
-    },
-    {
       "raw_hot": 138299,
       "num": 138299,
       "word": "AI自主学习让吴京刘德华重返20岁",
@@ -16883,14 +16899,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 135915,
-      "num": 135915,
-      "word": "懒羊羊在第一季第十一集出门忘带羊角",
-      "onboard_time": 1680995057,
-      "rank": 12,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 135873,
       "num": 135873,
       "word": "童瑶造型RCFA全球最佳红毯",
@@ -16921,6 +16929,14 @@
       "onboard_time": 1680656126,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 135336,
+      "num": 82253,
+      "word": "让你松弛下来的20件小事",
+      "onboard_time": 1680995777,
+      "rank": 30,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 135295,
@@ -18571,14 +18587,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 93122,
-      "num": 93122,
-      "word": "四川一骑手背枪上路吓坏路人",
-      "onboard_time": 1680994396,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 92990,
       "num": 92990,
       "word": "宋三川霸气保护梁友安",
@@ -18649,6 +18657,14 @@
       "onboard_time": 1680610770,
       "rank": 49,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 90492,
+      "num": 90492,
+      "word": "尼斯0比2巴黎圣日耳曼",
+      "onboard_time": 1680995597,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 90149,
@@ -18731,6 +18747,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 82254,
+      "num": 82254,
+      "word": "哈兰德倒钩",
+      "onboard_time": 1680996198,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 82186,
       "num": 82186,
       "word": "朋友借钱你会给吗",
@@ -18769,6 +18793,14 @@
       "onboard_time": 1680598830,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 77716,
+      "num": 77716,
+      "word": "长月烬明预告",
+      "onboard_time": 1680996618,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 76745,
@@ -18889,6 +18921,14 @@
       "onboard_time": 1680843630,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 68966,
+      "num": 68966,
+      "word": "杨洋不敢立flag",
+      "onboard_time": 1680992353,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 68688,
@@ -19043,12 +19083,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 58266,
-      "num": 57152,
-      "word": "杨洋不敢立flag",
-      "onboard_time": 1680992353,
-      "rank": 37,
-      "category": "影视"
+      "raw_hot": 58923,
+      "num": 58923,
+      "word": "周末可以做的N件事",
+      "onboard_time": 1680985572,
+      "rank": 45,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 57242,
@@ -19115,6 +19155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 50264,
+      "num": 50264,
+      "word": "南安普顿1比4曼城",
+      "onboard_time": 1680996498,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 50149,
       "num": 120313,
       "word": "淘宝独播哥哥纪念音乐会",
@@ -19155,14 +19203,6 @@
       "category": "艺人,游戏"
     },
     {
-      "raw_hot": 43217,
-      "num": 43217,
-      "word": "周末可以做的N件事",
-      "onboard_time": 1680985572,
-      "rank": 45,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 42273,
       "num": 42273,
       "word": "大学生在打一种很新的卡",
@@ -19177,14 +19217,6 @@
       "onboard_time": 1680564563,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 37802,
-      "num": 37802,
-      "word": "尼斯0比2巴黎圣日耳曼",
-      "onboard_time": 1680995597,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 37796,
