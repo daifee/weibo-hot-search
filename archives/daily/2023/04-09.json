@@ -1,6 +1,6 @@
 {
   "startTime": 1680970864988,
-  "endTime": 1680993212727,
+  "endTime": 1680995756995,
   "band_list": [
     {
       "raw_hot": 1180852,
@@ -291,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143140,
+      "num": 143140,
+      "word": "EXO见面会",
+      "onboard_time": 1680995357,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 140890,
       "num": 127856,
       "word": "长月烬明第十一集预告",
@@ -316,11 +324,19 @@
     },
     {
       "raw_hot": 138528,
-      "num": 114339,
+      "num": 125274,
       "word": "胡歌问虚拟人没电了怎么办",
       "onboard_time": 1680973879,
       "rank": 44,
       "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 135915,
+      "num": 135915,
+      "word": "懒羊羊在第一季第十一集出门忘带羊角",
+      "onboard_time": 1680995057,
+      "rank": 12,
+      "category": "动漫"
     },
     {
       "raw_hot": 133199,
@@ -379,6 +395,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 114299,
+      "num": 114299,
+      "word": "哈妹一惊一乍是薛佳凝设计的",
+      "onboard_time": 1680959311,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 113699,
       "num": 103866,
       "word": "长月烬明带动优酷APP下载量登顶",
@@ -411,6 +435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 103613,
+      "num": 100136,
+      "word": "陈鑫海卢洋洋互相介绍对方",
+      "onboard_time": 1680988931,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 97118,
       "num": 97118,
       "word": "BLG战胜OMG",
@@ -435,12 +467,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 85528,
-      "num": 85528,
-      "word": "陈鑫海卢洋洋互相介绍对方",
-      "onboard_time": 1680988931,
-      "rank": 30,
-      "category": "影视"
+      "raw_hot": 93122,
+      "num": 93122,
+      "word": "四川一骑手背枪上路吓坏路人",
+      "onboard_time": 1680994396,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 84497,
@@ -475,6 +507,38 @@
       "category": "情感"
     },
     {
+      "raw_hot": 59843,
+      "num": 59843,
+      "word": "张嘉倪祝高加林黄亚萍安好",
+      "onboard_time": 1680956667,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 58266,
+      "num": 57152,
+      "word": "杨洋不敢立flag",
+      "onboard_time": 1680992353,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 43217,
+      "num": 43217,
+      "word": "周末可以做的N件事",
+      "onboard_time": 1680985572,
+      "rank": 45,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 37802,
+      "num": 37802,
+      "word": "尼斯0比2巴黎圣日耳曼",
+      "onboard_time": 1680995597,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 35809,
       "num": 33112,
       "word": "华晨宇杭州演唱会",
@@ -483,12 +547,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 24265,
-      "num": 24265,
-      "word": "杨洋不敢立flag",
-      "onboard_time": 1680992353,
-      "rank": 37,
-      "category": "影视"
+      "raw_hot": 32603,
+      "num": 32603,
+      "word": "BLG对战OMG",
+      "onboard_time": 1680951206,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 23981,
@@ -505,14 +569,6 @@
       "onboard_time": 1680986771,
       "rank": 29,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 19897,
-      "num": 19897,
-      "word": "周末可以做的N件事",
-      "onboard_time": 1680985572,
-      "rank": 45,
-      "category": "幽默,情感"
     }
   ],
   "hotgov_list": [

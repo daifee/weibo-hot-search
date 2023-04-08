@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680993212727,
+  "endTime": 1680995756995,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -16419,6 +16419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 143140,
+      "num": 143140,
+      "word": "EXO见面会",
+      "onboard_time": 1680995357,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 143117,
       "num": 143117,
       "word": "IVE回归先行曲达成CAK",
@@ -16692,7 +16700,7 @@
     },
     {
       "raw_hot": 138528,
-      "num": 114339,
+      "num": 125274,
       "word": "胡歌问虚拟人没电了怎么办",
       "onboard_time": 1680973879,
       "rank": 44,
@@ -16873,6 +16881,14 @@
       "onboard_time": 1680936026,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 135915,
+      "num": 135915,
+      "word": "懒羊羊在第一季第十一集出门忘带羊角",
+      "onboard_time": 1680995057,
+      "rank": 12,
+      "category": "动漫"
     },
     {
       "raw_hot": 135873,
@@ -18219,6 +18235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 103613,
+      "num": 100136,
+      "word": "陈鑫海卢洋洋互相介绍对方",
+      "onboard_time": 1680988931,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 103404,
       "num": 103404,
       "word": "短指症",
@@ -18547,6 +18571,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 93122,
+      "num": 93122,
+      "word": "四川一骑手背枪上路吓坏路人",
+      "onboard_time": 1680994396,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 92990,
       "num": 92990,
       "word": "宋三川霸气保护梁友安",
@@ -18681,14 +18713,6 @@
       "onboard_time": 1680296771,
       "rank": 32,
       "category": "综艺,幽默"
-    },
-    {
-      "raw_hot": 85528,
-      "num": 85528,
-      "word": "陈鑫海卢洋洋互相介绍对方",
-      "onboard_time": 1680988931,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 84717,
@@ -19019,6 +19043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 58266,
+      "num": 57152,
+      "word": "杨洋不敢立flag",
+      "onboard_time": 1680992353,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 57242,
       "num": 57242,
       "word": "麻雀挠头",
@@ -19123,6 +19155,14 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 43217,
+      "num": 43217,
+      "word": "周末可以做的N件事",
+      "onboard_time": 1680985572,
+      "rank": 45,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 42273,
       "num": 42273,
       "word": "大学生在打一种很新的卡",
@@ -19137,6 +19177,14 @@
       "onboard_time": 1680564563,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 37802,
+      "num": 37802,
+      "word": "尼斯0比2巴黎圣日耳曼",
+      "onboard_time": 1680995597,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 37796,
@@ -19259,14 +19307,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 24265,
-      "num": 24265,
-      "word": "杨洋不敢立flag",
-      "onboard_time": 1680992353,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 23161,
       "num": 1246932,
       "word": "带你共享花开烂漫时",
@@ -19305,14 +19345,6 @@
       "onboard_time": 1680459195,
       "rank": 47,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 19897,
-      "num": 19897,
-      "word": "周末可以做的N件事",
-      "onboard_time": 1680985572,
-      "rank": 45,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 16919,
