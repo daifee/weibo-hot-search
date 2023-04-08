@@ -1,6 +1,6 @@
 {
   "startTime": 1680970864988,
-  "endTime": 1680992102093,
+  "endTime": 1680993212727,
   "band_list": [
     {
       "raw_hot": 1180852,
@@ -435,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 85528,
+      "num": 85528,
+      "word": "陈鑫海卢洋洋互相介绍对方",
+      "onboard_time": 1680988931,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 84497,
       "num": 96773,
       "word": "苏科大一院长说已电话通知考生",
@@ -467,20 +475,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 56320,
-      "num": 56320,
-      "word": "陈鑫海卢洋洋互相介绍对方",
-      "onboard_time": 1680988931,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 35809,
       "num": 33112,
       "word": "华晨宇杭州演唱会",
       "onboard_time": 1680854728,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 24265,
+      "num": 24265,
+      "word": "杨洋不敢立flag",
+      "onboard_time": 1680992353,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 23981,
@@ -499,8 +507,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 15531,
-      "num": 15531,
+      "raw_hot": 19897,
+      "num": 19897,
       "word": "周末可以做的N件事",
       "onboard_time": 1680985572,
       "rank": 45,
