@@ -1,6 +1,6 @@
 {
   "startTime": 1680884526258,
-  "endTime": 1680952386510,
+  "endTime": 1680953600625,
   "band_list": [
     {
       "raw_hot": 2654974,
@@ -163,6 +163,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1032587,
+      "num": 463855,
+      "word": "翁虹女儿颜值",
+      "onboard_time": 1680947908,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1015818,
       "num": 1015818,
       "word": "陈都灵戏份",
@@ -185,14 +193,6 @@
       "onboard_time": 1680940887,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1006534,
-      "num": 463855,
-      "word": "翁虹女儿颜值",
-      "onboard_time": 1680947908,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1005357,
@@ -339,6 +339,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 702033,
+      "num": 702033,
+      "word": "张云龙在三里屯摆摊",
+      "onboard_time": 1680948868,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 682010,
       "num": 682010,
       "word": "我有个出家人朋友",
@@ -347,20 +355,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 663300,
-      "num": 663300,
-      "word": "张云龙在三里屯摆摊",
-      "onboard_time": 1680948868,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 663175,
       "num": 663175,
       "word": "山东推出399元高铁环游套票",
       "onboard_time": 1680909798,
       "rank": 34,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 652563,
+      "num": 427463,
+      "word": "宋祖儿希望45岁的白宇也要开心自在",
+      "onboard_time": 1680952287,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 645604,
@@ -603,6 +611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 423615,
+      "num": 423615,
+      "word": "Xun导",
+      "onboard_time": 1680952888,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 419987,
       "num": 419987,
       "word": "和马 米卡",
@@ -615,6 +631,22 @@
       "num": 419407,
       "word": "黑莲花攻略手册",
       "onboard_time": 1680910039,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 409205,
+      "num": 409205,
+      "word": "秀智近照",
+      "onboard_time": 1680951567,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 408952,
+      "num": 408952,
+      "word": "长月烬明带动优酷APP下载量登顶",
+      "onboard_time": 1680952287,
       "rank": 25,
       "category": "影视"
     },
@@ -684,7 +716,7 @@
     },
     {
       "raw_hot": 372448,
-      "num": 265810,
+      "num": 266722,
       "word": "带患癌妈妈理发还价5元遭店主咒骂",
       "onboard_time": 1680945146,
       "rank": 47,
@@ -891,14 +923,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 270302,
-      "num": 270302,
-      "word": "秀智近照",
-      "onboard_time": 1680951567,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 269238,
       "num": 269238,
       "word": "杨超越淡黄色公主裙",
@@ -931,6 +955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 260265,
+      "num": 260265,
+      "word": "OMG翻盘BLG",
+      "onboard_time": 1680952888,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 259286,
       "num": 253553,
       "word": "权志龙太阳大声同框",
@@ -945,6 +977,14 @@
       "onboard_time": 1680884723,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 257810,
+      "num": 202434,
+      "word": "猪鼻子是手机支架",
+      "onboard_time": 1680951926,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 257271,
@@ -1043,14 +1083,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 225832,
-      "num": 225832,
-      "word": "长月烬明带动优酷APP下载量登顶",
-      "onboard_time": 1680952287,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 225762,
       "num": 225762,
       "word": "澹台烬把叶夕雾挂在马上",
@@ -1115,6 +1147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 206681,
+      "num": 206681,
+      "word": "罗云熙长月烬明每集都在吐血",
+      "onboard_time": 1680953307,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 206529,
       "num": 206529,
       "word": "你好星期六",
@@ -1147,8 +1187,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 203671,
-      "num": 203671,
+      "raw_hot": 203773,
+      "num": 203773,
       "word": "白鹤亮翅",
       "onboard_time": 1680951507,
       "rank": 28,
@@ -1235,6 +1275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 201069,
+      "num": 201069,
+      "word": "一直不回家也不会想家",
+      "onboard_time": 1680949586,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 200553,
       "num": 200553,
       "word": "校园暴力记录该不该记入档案",
@@ -1291,14 +1339,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 197083,
-      "num": 197083,
-      "word": "宋祖儿希望45岁的白宇也要开心自在",
-      "onboard_time": 1680952287,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 196030,
       "num": 196030,
       "word": "BLG对战OMG",
@@ -1328,6 +1368,14 @@
       "word": "爱情而已大结局",
       "onboard_time": 1680870807,
       "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 193431,
+      "num": 193431,
+      "word": "承欢记班底",
+      "onboard_time": 1680953188,
+      "rank": 35,
       "category": "影视"
     },
     {
@@ -1411,6 +1459,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 187270,
+      "num": 197106,
+      "word": "一句话证明你看过爱情而已",
+      "onboard_time": 1680952409,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 185651,
       "num": 180747,
       "word": "薄冰酒店戏",
@@ -1459,6 +1515,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 180688,
+      "num": 812372,
+      "word": "国产新型直升机AC332成功首飞",
+      "onboard_time": 1680950428,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180664,
+      "num": 180664,
+      "word": "DRG零封WB",
+      "onboard_time": 1680952826,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 180448,
       "num": 158079,
       "word": "叶夕雾得到倾世之玉",
@@ -1468,7 +1540,7 @@
     },
     {
       "raw_hot": 180313,
-      "num": 160513,
+      "num": 162759,
       "word": "苏醒如果被绑架你就眨眨眼",
       "onboard_time": 1680949887,
       "rank": 38,
@@ -1491,20 +1563,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 175913,
-      "num": 754238,
-      "word": "国产新型直升机AC332成功首飞",
-      "onboard_time": 1680950428,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 173949,
       "num": 173949,
       "word": "TF家族蝴蝶效应全新公式照",
       "onboard_time": 1680938307,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 173824,
+      "num": 173824,
+      "word": "爱很美味",
+      "onboard_time": 1680952948,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 172450,
@@ -1601,14 +1673,6 @@
       "onboard_time": 1680871828,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 158737,
-      "num": 158737,
-      "word": "一直不回家也不会想家",
-      "onboard_time": 1680949586,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 158311,
@@ -2003,14 +2067,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 111507,
-      "num": 139650,
-      "word": "猪鼻子是手机支架",
-      "onboard_time": 1680951926,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 111496,
       "num": 111496,
       "word": "网传加班怼领导聊天记录系捏造",
@@ -2123,6 +2179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 75827,
+      "num": 680691,
+      "word": "青海湖一年一度壮美开湖",
+      "onboard_time": 1680952226,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73646,
       "num": 73646,
       "word": "模范出租车",
@@ -2187,6 +2251,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 53586,
+      "num": 558126,
+      "word": "被非遗高杆船技惊艳到了",
+      "onboard_time": 1680952226,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44883,
       "num": 44883,
       "word": "欢乐颂4",
@@ -2216,22 +2288,6 @@
       "word": "开局之年共奋进",
       "onboard_time": 1680876452,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 21870,
-      "num": 680691,
-      "word": "青海湖一年一度壮美开湖",
-      "onboard_time": 1680952226,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 8897,
-      "num": 558126,
-      "word": "被非遗高杆船技惊艳到了",
-      "onboard_time": 1680952226,
-      "rank": 6,
       "category": "社会新闻"
     }
   ],
