@@ -1,6 +1,6 @@
 {
   "startTime": 1680884526258,
-  "endTime": 1680934829472,
+  "endTime": 1680935605124,
   "band_list": [
     {
       "raw_hot": 2654974,
@@ -123,12 +123,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 958819,
+      "num": 388528,
+      "word": "于正快160斤了",
+      "onboard_time": 1680932726,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 885398,
       "num": 379860,
       "word": "不走甜美风的张雨绮",
       "onboard_time": 1680933445,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 879922,
+      "num": 879922,
+      "word": "周梓倩",
+      "onboard_time": 1680933865,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 875106,
@@ -187,20 +203,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 761612,
-      "num": 377707,
-      "word": "于正快160斤了",
-      "onboard_time": 1680932726,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 752332,
       "num": 752332,
       "word": "8人伪造完美履历同时入职多个单位",
       "onboard_time": 1680916705,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 717759,
+      "num": 717759,
+      "word": "大学招聘体育老师要求为世界冠军",
+      "onboard_time": 1680933504,
+      "rank": 13,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 682010,
@@ -217,6 +233,22 @@
       "onboard_time": 1680909798,
       "rank": 34,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 645604,
+      "num": 265578,
+      "word": "瞒着报清华全家都慌了",
+      "onboard_time": 1680932306,
+      "rank": 20,
+      "category": "情感,教育"
+    },
+    {
+      "raw_hot": 630140,
+      "num": 365704,
+      "word": "美特斯邦威是怎么从步行街消失的",
+      "onboard_time": 1680934045,
+      "rank": 32,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 603762,
@@ -275,14 +307,6 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 572946,
-      "num": 372933,
-      "word": "周梓倩",
-      "onboard_time": 1680933865,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 559336,
       "num": 559336,
       "word": "才知道充电宝可以暂停计费",
@@ -305,14 +329,6 @@
       "onboard_time": 1680920609,
       "rank": 35,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 545486,
-      "num": 257650,
-      "word": "瞒着报清华全家都慌了",
-      "onboard_time": 1680932306,
-      "rank": 20,
-      "category": "情感,教育"
     },
     {
       "raw_hot": 526371,
@@ -409,14 +425,6 @@
       "onboard_time": 1680910039,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 417248,
-      "num": 363010,
-      "word": "大学招聘体育老师要求为世界冠军",
-      "onboard_time": 1680933504,
-      "rank": 13,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 407177,
@@ -707,14 +715,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 226927,
-      "num": 161503,
-      "word": "美特斯邦威是怎么从步行街消失的",
-      "onboard_time": 1680934045,
-      "rank": 32,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 221520,
       "num": 221520,
       "word": "湖人",
@@ -744,6 +744,30 @@
       "word": "桃花坞对面山头全是闪光灯",
       "onboard_time": 1680915206,
       "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 210038,
+      "num": 210038,
+      "word": "该不该找门槛低的工作过渡",
+      "onboard_time": 1680934647,
+      "rank": 33,
+      "category": "社会议题"
+    },
+    {
+      "raw_hot": 208793,
+      "num": 208793,
+      "word": "白宇听林俊杰演唱会",
+      "onboard_time": 1680934826,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 206529,
+      "num": 206529,
+      "word": "你好星期六",
+      "onboard_time": 1680935364,
+      "rank": 25,
       "category": "综艺"
     },
     {
@@ -843,14 +867,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 194463,
-      "num": 158612,
-      "word": "该不该找门槛低的工作过渡",
-      "onboard_time": 1680934647,
-      "rank": 33,
-      "category": "社会议题"
-    },
-    {
       "raw_hot": 193851,
       "num": 193851,
       "word": "护考",
@@ -896,6 +912,14 @@
       "word": "邢菲黑色露腰长裙",
       "onboard_time": 1680877471,
       "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 183061,
+      "num": 183061,
+      "word": "黄仁俊钟辰乐封面大片",
+      "onboard_time": 1680934886,
+      "rank": 28,
       "category": "作品衍生,时尚"
     },
     {
@@ -1147,6 +1171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 126294,
+      "num": 126294,
+      "word": "GEN对战KT",
+      "onboard_time": 1680935066,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 125051,
       "num": 113281,
       "word": "井胧 中传",
@@ -1161,6 +1193,14 @@
       "onboard_time": 1680925348,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 118802,
+      "num": 118802,
+      "word": "陈奕迅说好疯狂好激动",
+      "onboard_time": 1680934284,
+      "rank": 39,
+      "category": "音乐"
     },
     {
       "raw_hot": 117320,
@@ -1187,14 +1227,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 115814,
-      "num": 115814,
-      "word": "陈奕迅说好疯狂好激动",
-      "onboard_time": 1680934284,
-      "rank": 39,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 115625,
       "num": 115625,
       "word": "JackeyLove观战LPL季后赛",
@@ -1209,6 +1241,14 @@
       "onboard_time": 1680910099,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 111596,
+      "num": 111596,
+      "word": "这个宿舍是选对了",
+      "onboard_time": 1680934945,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 111512,
@@ -1227,11 +1267,35 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 109934,
+      "num": 109934,
+      "word": "杨丞琳想和黄潇再合作",
+      "onboard_time": 1680935246,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 108143,
       "num": 108143,
       "word": "华晨宇演唱会舞美",
       "onboard_time": 1680878793,
       "rank": 44,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 104481,
+      "num": 104481,
+      "word": "Wolves对战ZETA",
+      "onboard_time": 1680935008,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 104254,
+      "num": 104254,
+      "word": "薛之谦演唱会小品",
+      "onboard_time": 1680935008,
+      "rank": 47,
       "category": "音乐"
     },
     {
