@@ -1,0 +1,410 @@
+{
+  "runTime": 1680927604483,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2654974,
+        "num": 2654974,
+        "word": "苏州科技大学",
+        "onboard_time": 1680923006,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 854494,
+        "num": 854494,
+        "word": "长月烬明前8集戏份时长",
+        "onboard_time": 1680924627,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 5714,
+        "num": 845587,
+        "word": "开局之年共奋进",
+        "onboard_time": 1680876452,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1524151,
+        "num": 743594,
+        "word": "19岁女孩整形医院抽脂后3天死亡",
+        "onboard_time": 1680922406,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1113564,
+        "num": 702059,
+        "word": "白幼瘦审美",
+        "onboard_time": 1680921090,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 875106,
+        "num": 621544,
+        "word": "WE Are One",
+        "onboard_time": 1680922588,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 592365,
+        "num": 592365,
+        "word": "东部战区",
+        "onboard_time": 1680915927,
+        "rank": 6,
+        "category": "国内要闻,军事"
+      },
+      {
+        "raw_hot": 448612,
+        "num": 448612,
+        "word": "陈都灵戏份",
+        "onboard_time": 1680920968,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 429001,
+        "num": 429001,
+        "word": "马克龙参访中山大学",
+        "onboard_time": 1680927567,
+        "rank": 8,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 401587,
+        "num": 401587,
+        "word": "最好的我们开播七年了",
+        "onboard_time": 1680922166,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1158082,
+        "num": 401004,
+        "word": "罗云熙 牙",
+        "onboard_time": 1680917548,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1028384,
+        "num": 400864,
+        "word": "浙江工资不能低于这个数",
+        "onboard_time": 1680925528,
+        "rank": 11,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 518871,
+        "num": 400060,
+        "word": "王嘉尔711给了你多少钱",
+        "onboard_time": 1680920609,
+        "rank": 12,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 399080,
+        "num": 399080,
+        "word": "狂飙2正在筹备中",
+        "onboard_time": 1680911182,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 521692,
+        "num": 390445,
+        "word": "赵露思发缝",
+        "onboard_time": 1680911122,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 655467,
+        "num": 381646,
+        "word": "领导多次在群内辱骂下属致其抑郁",
+        "onboard_time": 1680918387,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363141,
+        "num": 363141,
+        "word": "徐良回应消失的三年",
+        "onboard_time": 1680926909,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 352166,
+        "num": 352166,
+        "word": "男孩被霸凌遭踹膝盖水杯倒风油精",
+        "onboard_time": 1680925167,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347133,
+        "num": 347133,
+        "word": "结婚建议远嫁吗",
+        "onboard_time": 1680925708,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 346369,
+        "num": 346369,
+        "word": "广东成最敢生娃的省份",
+        "onboard_time": 1680925827,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366462,
+        "num": 345397,
+        "word": "夫妻打闹妻子手不慎被掰骨折",
+        "onboard_time": 1680924808,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343503,
+        "num": 343503,
+        "word": "宠物鼠被滞留地铁上挠伤乘客",
+        "onboard_time": 1680923246,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293389,
+        "num": 293389,
+        "word": "白鹿叶夕雾婚服",
+        "onboard_time": 1680927447,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 254944,
+        "num": 254944,
+        "word": "13岁孩子疑因游戏问题勒父亲脖子",
+        "onboard_time": 1680919886,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243463,
+        "num": 243463,
+        "word": "人民网评陈某龙造谣被行拘",
+        "onboard_time": 1680918687,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233686,
+        "num": 233686,
+        "word": "范丞丞把猪吓跑了",
+        "onboard_time": 1680925348,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 233526,
+        "num": 233526,
+        "word": "EXO出道颜值",
+        "onboard_time": 1680921568,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 229259,
+        "num": 229259,
+        "word": "金智秀FlowerMV播放量破亿",
+        "onboard_time": 1680925048,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 226185,
+        "num": 226185,
+        "word": "光渊",
+        "onboard_time": 1680922588,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171805,
+        "num": 225460,
+        "word": "8人伪造完美履历同时入职多个单位",
+        "onboard_time": 1680916705,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224926,
+        "num": 224926,
+        "word": "柯南贝克街的亡灵评分",
+        "onboard_time": 1680922047,
+        "rank": 30,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 858277,
+        "num": 223282,
+        "word": "吉林一科长性侵小学生被刑拘",
+        "onboard_time": 1680917247,
+        "rank": 31,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 221251,
+        "num": 221251,
+        "word": "山东推出399元高铁环游套票",
+        "onboard_time": 1680909798,
+        "rank": 32,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 201591,
+        "num": 201591,
+        "word": "要久久爱导演夸赞杨紫演技",
+        "onboard_time": 1680927148,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199917,
+        "num": 199917,
+        "word": "李宇春新专辑宣传照曝光",
+        "onboard_time": 1680926367,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 197873,
+        "num": 197873,
+        "word": "无名",
+        "onboard_time": 1680922527,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 195656,
+        "num": 195656,
+        "word": "能为互关做的只有这么多了",
+        "onboard_time": 1680926127,
+        "rank": 36,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 186290,
+        "num": 186290,
+        "word": "柳智敏粉发",
+        "onboard_time": 1680920007,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 184843,
+        "num": 184843,
+        "word": "如何看待年轻人失业后假装上班",
+        "onboard_time": 1680916225,
+        "rank": 38,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 184125,
+        "num": 184125,
+        "word": "独行侠",
+        "onboard_time": 1680922047,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183826,
+        "num": 183826,
+        "word": "关晓彤工作室的评论区",
+        "onboard_time": 1680917606,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167019,
+        "num": 167019,
+        "word": "苏科大回应凌晨4点发考研录取通知",
+        "onboard_time": 1680927508,
+        "rank": 41,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 166103,
+        "num": 166103,
+        "word": "黑莲花攻略手册",
+        "onboard_time": 1680910039,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 157006,
+        "num": 157006,
+        "word": "SEVENTEEN韩团首个百万中输",
+        "onboard_time": 1680910821,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 149093,
+        "num": 149093,
+        "word": "北京最难约的博物馆竟不是故宫",
+        "onboard_time": 1680918750,
+        "rank": 44,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 142414,
+        "num": 142414,
+        "word": "原来指尖真的可以藏下宇宙",
+        "onboard_time": 1680923608,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 140517,
+        "num": 140517,
+        "word": "张艺兴十个非常感谢钢铁贝壳们",
+        "onboard_time": 1680920609,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149935,
+        "num": 139966,
+        "word": "长月烬明片头细节感",
+        "onboard_time": 1680926127,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 139184,
+        "num": 139184,
+        "word": "你支持拐卖犯罪终身追责吗",
+        "onboard_time": 1680926127,
+        "rank": 48,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 64638,
+        "num": 138055,
+        "word": "荒野行动",
+        "onboard_time": 1680883049,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#加快数字中国建设#"
+    }
+  }
+}

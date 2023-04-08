@@ -1,6 +1,6 @@
 {
   "startTime": 1680452464197,
-  "endTime": 1680924816268,
+  "endTime": 1680927604483,
   "band_list": [
     {
       "raw_hot": 9506486,
@@ -297,6 +297,14 @@
       "onboard_time": 1680680070,
       "rank": 1,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 2654974,
+      "num": 2654974,
+      "word": "苏州科技大学",
+      "onboard_time": 1680923006,
+      "rank": 7,
+      "category": "教育"
     },
     {
       "raw_hot": 2642107,
@@ -659,14 +667,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1914373,
-      "num": 1914373,
-      "word": "苏州科技大学",
-      "onboard_time": 1680923006,
-      "rank": 7,
-      "category": "教育"
-    },
-    {
       "raw_hot": 1883278,
       "num": 1883278,
       "word": "张元英姐姐出道",
@@ -993,6 +993,14 @@
       "onboard_time": 1680844292,
       "rank": 46,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 1524151,
+      "num": 892213,
+      "word": "19岁女孩整形医院抽脂后3天死亡",
+      "onboard_time": 1680922406,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1498158,
@@ -1435,14 +1443,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1077057,
-      "num": 892213,
-      "word": "19岁女孩整形医院抽脂后3天死亡",
-      "onboard_time": 1680922406,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1075445,
       "num": 1075445,
       "word": "孙策胸肌",
@@ -1465,6 +1465,14 @@
       "onboard_time": 1680744688,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1028384,
+      "num": 400864,
+      "word": "浙江工资不能低于这个数",
+      "onboard_time": 1680925528,
+      "rank": 11,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 1021550,
@@ -1755,6 +1763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 875106,
+      "num": 838830,
+      "word": "WE Are One",
+      "onboard_time": 1680922588,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 872900,
       "num": 417730,
       "word": "男子用手电筒吓死千只鸡获刑6个月",
@@ -1843,6 +1859,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 854494,
+      "num": 854494,
+      "word": "长月烬明前8集戏份时长",
+      "onboard_time": 1680924627,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 850971,
       "num": 850971,
       "word": "蛋仔派对",
@@ -1881,14 +1905,6 @@
       "onboard_time": 1680518554,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 838830,
-      "num": 838830,
-      "word": "WE Are One",
-      "onboard_time": 1680922588,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 837448,
@@ -3164,7 +3180,7 @@
     },
     {
       "raw_hot": 547537,
-      "num": 362424,
+      "num": 400060,
       "word": "王嘉尔711给了你多少钱",
       "onboard_time": 1680920609,
       "rank": 35,
@@ -4347,6 +4363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 401587,
+      "num": 401587,
+      "word": "最好的我们开播七年了",
+      "onboard_time": 1680922166,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 401583,
       "num": 401583,
       "word": "肖战罗马斗兽场随拍",
@@ -4731,6 +4755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 366462,
+      "num": 345397,
+      "word": "夫妻打闹妻子手不慎被掰骨折",
+      "onboard_time": 1680924808,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 366438,
       "num": 366438,
       "word": "光渊",
@@ -4745,6 +4777,14 @@
       "onboard_time": 1680694711,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 363141,
+      "num": 363141,
+      "word": "徐良回应消失的三年",
+      "onboard_time": 1680926909,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 363085,
@@ -4875,14 +4915,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 354314,
-      "num": 354314,
-      "word": "最好的我们开播七年了",
-      "onboard_time": 1680922166,
-      "rank": 24,
-      "category": "影视"
-    },
-    {
       "raw_hot": 354177,
       "num": 354177,
       "word": "井胧 中传",
@@ -4905,6 +4937,14 @@
       "onboard_time": 1680777570,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 352166,
+      "num": 352166,
+      "word": "男孩被霸凌遭踹膝盖水杯倒风油精",
+      "onboard_time": 1680925167,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 352083,
@@ -4963,6 +5003,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 347133,
+      "num": 347133,
+      "word": "结婚建议远嫁吗",
+      "onboard_time": 1680925708,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 347062,
       "num": 330702,
       "word": "为什么家长认为考编很容易",
@@ -4977,6 +5025,14 @@
       "onboard_time": 1680685529,
       "rank": 36,
       "category": "美食"
+    },
+    {
+      "raw_hot": 346369,
+      "num": 346369,
+      "word": "广东成最敢生娃的省份",
+      "onboard_time": 1680925827,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 346149,
@@ -5025,6 +5081,14 @@
       "onboard_time": 1680443800,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 343503,
+      "num": 343503,
+      "word": "宠物鼠被滞留地铁上挠伤乘客",
+      "onboard_time": 1680923246,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 343433,
@@ -5712,6 +5776,14 @@
       "word": "长月烬明穿帮镜头",
       "onboard_time": 1680860787,
       "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 293389,
+      "num": 293389,
+      "word": "白鹿叶夕雾婚服",
+      "onboard_time": 1680927447,
+      "rank": 22,
       "category": "影视"
     },
     {
@@ -6955,14 +7027,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 235659,
-      "num": 235659,
-      "word": "宠物鼠被滞留地铁上挠伤乘客",
-      "onboard_time": 1680923246,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 235171,
       "num": 235171,
       "word": "张杰武汉站演唱会官宣加场",
@@ -7001,6 +7065,14 @@
       "onboard_time": 1680855269,
       "rank": 36,
       "category": "网红"
+    },
+    {
+      "raw_hot": 233686,
+      "num": 233686,
+      "word": "范丞丞把猪吓跑了",
+      "onboard_time": 1680925348,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 233635,
@@ -7137,6 +7209,14 @@
       "onboard_time": 1680665610,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 229259,
+      "num": 229259,
+      "word": "金智秀FlowerMV播放量破亿",
+      "onboard_time": 1680925048,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 229189,
@@ -8443,6 +8523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 201591,
+      "num": 201591,
+      "word": "要久久爱导演夸赞杨紫演技",
+      "onboard_time": 1680927148,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 201570,
       "num": 201570,
       "word": "景区回应女子翻栏杆上大佛头顶",
@@ -8585,6 +8673,14 @@
       "onboard_time": 1680843454,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 199917,
+      "num": 199917,
+      "word": "李宇春新专辑宣传照曝光",
+      "onboard_time": 1680926367,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 199844,
@@ -8857,6 +8953,14 @@
       "onboard_time": 1680865826,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 195656,
+      "num": 195656,
+      "word": "能为互关做的只有这么多了",
+      "onboard_time": 1680926127,
+      "rank": 36,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 195626,
@@ -9472,14 +9576,6 @@
       "word": "季曼想起意中人就是宁钰轩",
       "onboard_time": 1680610289,
       "rank": 35,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 187452,
-      "num": 187452,
-      "word": "长月烬明前8集戏份时长",
-      "onboard_time": 1680924627,
-      "rank": 38,
       "category": "影视"
     },
     {
@@ -10379,6 +10475,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 167019,
+      "num": 167019,
+      "word": "苏科大回应凌晨4点发考研录取通知",
+      "onboard_time": 1680927508,
+      "rank": 41,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 166828,
       "num": 166828,
       "word": "在宇宙中写诗的科幻小片",
@@ -11019,6 +11123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 149935,
+      "num": 139966,
+      "word": "长月烬明片头细节感",
+      "onboard_time": 1680926127,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 149871,
       "num": 149871,
       "word": "马英九唱月亮代表我的心",
@@ -11323,6 +11435,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 139184,
+      "num": 139184,
+      "word": "你支持拐卖犯罪终身追责吗",
+      "onboard_time": 1680926127,
+      "rank": 48,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 138961,
       "num": 138961,
       "word": "演完忠犬八公成狗生赢家",
@@ -11625,14 +11745,6 @@
       "onboard_time": 1680883886,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 129493,
-      "num": 129493,
-      "word": "夫妻打闹妻子手不慎被掰骨折",
-      "onboard_time": 1680924808,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 129481,
