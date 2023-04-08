@@ -1,0 +1,410 @@
+{
+  "runTime": 1680945296398,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1254902,
+        "num": 1254902,
+        "word": "美特斯邦威是怎么从步行街消失的",
+        "onboard_time": 1680934045,
+        "rank": 0,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 1012536,
+        "num": 1012536,
+        "word": "中电科工会回应职工写周末不请假保证",
+        "onboard_time": 1680940887,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95542,
+        "num": 857146,
+        "word": "镜头记录黄河水颜色变化有多大",
+        "onboard_time": 1680927928,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 792955,
+        "num": 792955,
+        "word": "这样追星可刑吗",
+        "onboard_time": 1680940527,
+        "rank": 3,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 735768,
+        "num": 735768,
+        "word": "娜扎晒花少3合照",
+        "onboard_time": 1680936447,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 656312,
+        "num": 656312,
+        "word": "苏科大一院长说已电话通知考生",
+        "onboard_time": 1680943347,
+        "rank": 5,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 631995,
+        "num": 631995,
+        "word": "大学招聘体育老师要求为世界冠军",
+        "onboard_time": 1680933504,
+        "rank": 6,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 620187,
+        "num": 620187,
+        "word": "王宝强在老家广场唱戏",
+        "onboard_time": 1680937706,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 597806,
+        "num": 597806,
+        "word": "我国新冠溯源研究情况发布会",
+        "onboard_time": 1680942085,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 549713,
+        "num": 549713,
+        "word": "匪我思存追剧长月烬明",
+        "onboard_time": 1680941306,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 528909,
+        "num": 528909,
+        "word": "于正快160斤了",
+        "onboard_time": 1680932726,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 503922,
+        "num": 503922,
+        "word": "00后歌手的vocal实力",
+        "onboard_time": 1680942565,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 501091,
+        "num": 501091,
+        "word": "美国警察搞错出警地址误杀房主",
+        "onboard_time": 1680942505,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 455270,
+        "num": 455270,
+        "word": "周梓倩",
+        "onboard_time": 1680933865,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 443735,
+        "num": 443735,
+        "word": "月薪两千的生活是怎样的",
+        "onboard_time": 1680937165,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 375542,
+        "num": 375542,
+        "word": "权志龙说出演选秀会被淘汰",
+        "onboard_time": 1680943705,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 357925,
+        "num": 357925,
+        "word": "浪姐4的王佳宇是谁",
+        "onboard_time": 1680935906,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 352914,
+        "num": 352914,
+        "word": "罗云熙嘴上的疤",
+        "onboard_time": 1680932908,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 323496,
+        "num": 323496,
+        "word": "萌兰再现经典一字马",
+        "onboard_time": 1680938248,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322571,
+        "num": 322571,
+        "word": "苏州科技大学",
+        "onboard_time": 1680923006,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 401043,
+        "num": 317661,
+        "word": "瞒着报清华全家都慌了",
+        "onboard_time": 1680932306,
+        "rank": 20,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 310203,
+        "num": 310203,
+        "word": "苏州科技大学致歉",
+        "onboard_time": 1680944604,
+        "rank": 21,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 286481,
+        "num": 286481,
+        "word": "金珉奎晒与田柾国车银优聚会合照",
+        "onboard_time": 1680938666,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245304,
+        "num": 245304,
+        "word": "19岁女孩整形医院抽脂后3天死亡",
+        "onboard_time": 1680922406,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239788,
+        "num": 239788,
+        "word": "赵今麦化妆自拍",
+        "onboard_time": 1680943884,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224083,
+        "num": 224083,
+        "word": "马克龙参访中山大学",
+        "onboard_time": 1680945265,
+        "rank": 25,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 218299,
+        "num": 218299,
+        "word": "网传迪丽热巴新剧班底",
+        "onboard_time": 1680936746,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207494,
+        "num": 207494,
+        "word": "WE Are One",
+        "onboard_time": 1680922588,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203470,
+        "num": 203470,
+        "word": "浙江工资不能低于这个数",
+        "onboard_time": 1680925528,
+        "rank": 28,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 200553,
+        "num": 200553,
+        "word": "校园暴力记录该不该记入档案",
+        "onboard_time": 1680944126,
+        "rank": 29,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 742866,
+        "num": 200165,
+        "word": "小红书崩了",
+        "onboard_time": 1680941126,
+        "rank": 30,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 199064,
+        "num": 199064,
+        "word": "宁安如梦播出时间",
+        "onboard_time": 1680944905,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 198358,
+        "num": 198358,
+        "word": "山东石榴太空进修每天绕地16圈",
+        "onboard_time": 1680945265,
+        "rank": 32,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 197212,
+        "num": 197212,
+        "word": "陈少熙让羊给遛了",
+        "onboard_time": 1680944664,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195778,
+        "num": 195778,
+        "word": "总裁刺瓜肠粉",
+        "onboard_time": 1680944366,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 177957,
+        "num": 177957,
+        "word": "杨超越淡黄色公主裙",
+        "onboard_time": 1680944664,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177533,
+        "num": 177533,
+        "word": "澹台烬把叶夕雾挂在马上",
+        "onboard_time": 1680938666,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 175299,
+        "num": 175299,
+        "word": "全国在校大学生来济南免费玩",
+        "onboard_time": 1680936867,
+        "rank": 37,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 162532,
+        "num": 162532,
+        "word": "seventeen知道百万中输的反应",
+        "onboard_time": 1680936327,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 158319,
+        "num": 158319,
+        "word": "被骂后委屈成一滩小狗",
+        "onboard_time": 1680936265,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 151232,
+        "num": 151232,
+        "word": "盘尼西林Ricky合体梦回乐夏",
+        "onboard_time": 1680941186,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 148894,
+        "num": 148894,
+        "word": "林更新活动生图",
+        "onboard_time": 1680944967,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141598,
+        "num": 141598,
+        "word": "白幼瘦审美",
+        "onboard_time": 1680921090,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137873,
+        "num": 137873,
+        "word": "GW第五人格",
+        "onboard_time": 1680944485,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 133599,
+        "num": 133599,
+        "word": "TF三代演唱会学院风公式照",
+        "onboard_time": 1680940645,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 131452,
+        "num": 131452,
+        "word": "徐良回应消失的三年",
+        "onboard_time": 1680926909,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 126758,
+        "num": 126758,
+        "word": "IVE先行曲一位",
+        "onboard_time": 1680941486,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121399,
+        "num": 121399,
+        "word": "带患癌妈妈理发还价5元遭店主咒骂",
+        "onboard_time": 1680945146,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121221,
+        "num": 121221,
+        "word": "王嘉尔711给了你多少钱",
+        "onboard_time": 1680920609,
+        "rank": 48,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 116513,
+        "num": 116513,
+        "word": "唐艺昕一字肩花裙",
+        "onboard_time": 1680939445,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#春天里我们都是奋斗者#"
+    }
+  }
+}

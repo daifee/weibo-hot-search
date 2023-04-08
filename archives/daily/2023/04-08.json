@@ -1,6 +1,6 @@
 {
   "startTime": 1680884526258,
-  "endTime": 1680942809779,
+  "endTime": 1680945296398,
   "band_list": [
     {
       "raw_hot": 2654974,
@@ -140,11 +140,19 @@
     },
     {
       "raw_hot": 1012723,
-      "num": 506412,
+      "num": 528909,
       "word": "于正快160斤了",
       "onboard_time": 1680932726,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1012536,
+      "num": 1012536,
+      "word": "中电科工会回应职工写周末不请假保证",
+      "onboard_time": 1680940887,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1005357,
@@ -227,20 +235,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 832221,
-      "num": 832221,
-      "word": "中电科工会回应职工写周末不请假保证",
-      "onboard_time": 1680940887,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 827980,
       "num": 827980,
       "word": "苏科大回应凌晨4点发考研录取通知",
       "onboard_time": 1680927508,
       "rank": 41,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 792955,
+      "num": 792955,
+      "word": "这样追星可刑吗",
+      "onboard_time": 1680940527,
+      "rank": 8,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 785967,
@@ -259,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 742866,
+      "num": 204087,
+      "word": "小红书崩了",
+      "onboard_time": 1680941126,
+      "rank": 30,
+      "category": "科技"
+    },
+    {
       "raw_hot": 682010,
       "num": 682010,
       "word": "我有个出家人朋友",
@@ -275,8 +291,16 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 656312,
+      "num": 656312,
+      "word": "苏科大一院长说已电话通知考生",
+      "onboard_time": 1680943347,
+      "rank": 5,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 645604,
-      "num": 303859,
+      "num": 317661,
       "word": "瞒着报清华全家都慌了",
       "onboard_time": 1680932306,
       "rank": 20,
@@ -297,6 +321,14 @@
       "onboard_time": 1680915745,
       "rank": 14,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 597806,
+      "num": 597806,
+      "word": "我国新冠溯源研究情况发布会",
+      "onboard_time": 1680942085,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 592683,
@@ -323,14 +355,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 584038,
-      "num": 584038,
-      "word": "这样追星可刑吗",
-      "onboard_time": 1680940527,
-      "rank": 8,
-      "category": "体育,艺人"
-    },
-    {
       "raw_hot": 583391,
       "num": 583391,
       "word": "网传王一博参加香奈儿大秀",
@@ -347,20 +371,20 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 559977,
-      "num": 204087,
-      "word": "小红书崩了",
-      "onboard_time": 1680941126,
-      "rank": 30,
-      "category": "科技"
-    },
-    {
       "raw_hot": 559336,
       "num": 559336,
       "word": "才知道充电宝可以暂停计费",
       "onboard_time": 1680878971,
       "rank": 9,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 549713,
+      "num": 549713,
+      "word": "匪我思存追剧长月烬明",
+      "onboard_time": 1680941306,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 548941,
@@ -411,20 +435,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 515622,
-      "num": 515622,
-      "word": "匪我思存追剧长月烬明",
-      "onboard_time": 1680941306,
-      "rank": 24,
-      "category": "影视"
-    },
-    {
       "raw_hot": 509273,
       "num": 509273,
       "word": "离职是主动辞职好还是被辞退好",
       "onboard_time": 1680880590,
       "rank": 7,
       "category": "情感"
+    },
+    {
+      "raw_hot": 503922,
+      "num": 503922,
+      "word": "00后歌手的vocal实力",
+      "onboard_time": 1680942565,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 501091,
+      "num": 501091,
+      "word": "美国警察搞错出警地址误杀房主",
+      "onboard_time": 1680942505,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 500156,
@@ -545,6 +577,14 @@
       "onboard_time": 1680925167,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 375542,
+      "num": 375542,
+      "word": "权志龙说出演选秀会被淘汰",
+      "onboard_time": 1680943705,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 375022,
@@ -683,6 +723,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 310203,
+      "num": 310203,
+      "word": "苏州科技大学致歉",
+      "onboard_time": 1680944604,
+      "rank": 21,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 304038,
       "num": 304038,
       "word": "张云龙高情商发言",
@@ -785,6 +833,14 @@
       "onboard_time": 1680879397,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 239788,
+      "num": 239788,
+      "word": "赵今麦化妆自拍",
+      "onboard_time": 1680943884,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 239356,
@@ -971,12 +1027,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 200553,
+      "num": 200553,
+      "word": "校园暴力记录该不该记入档案",
+      "onboard_time": 1680944126,
+      "rank": 29,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 199917,
       "num": 199917,
       "word": "李宇春新专辑宣传照曝光",
       "onboard_time": 1680926367,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 199064,
+      "num": 199064,
+      "word": "宁安如梦播出时间",
+      "onboard_time": 1680944905,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 198358,
+      "num": 198358,
+      "word": "山东石榴太空进修每天绕地16圈",
+      "onboard_time": 1680945265,
+      "rank": 32,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 198064,
@@ -1001,6 +1081,22 @@
       "onboard_time": 1680941186,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 197212,
+      "num": 197212,
+      "word": "陈少熙让羊给遛了",
+      "onboard_time": 1680944664,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 195778,
+      "num": 195778,
+      "word": "总裁刺瓜肠粉",
+      "onboard_time": 1680944366,
+      "rank": 34,
+      "category": "美食"
     },
     {
       "raw_hot": 193851,
@@ -1041,14 +1137,6 @@
       "onboard_time": 1680908477,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 188064,
-      "num": 188064,
-      "word": "我国新冠溯源研究情况发布会",
-      "onboard_time": 1680942085,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 187486,
@@ -1096,6 +1184,14 @@
       "word": "徐明浩童年旧照",
       "onboard_time": 1680940706,
       "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 177957,
+      "num": 177957,
+      "word": "杨超越淡黄色公主裙",
+      "onboard_time": 1680944664,
+      "rank": 35,
       "category": "艺人"
     },
     {
@@ -1235,6 +1331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 148894,
+      "num": 148894,
+      "word": "林更新活动生图",
+      "onboard_time": 1680944967,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 148113,
       "num": 129528,
       "word": "名侦探柯南官方公告",
@@ -1313,6 +1417,14 @@
       "onboard_time": 1680920548,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 137873,
+      "num": 137873,
+      "word": "GW第五人格",
+      "onboard_time": 1680944485,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 137344,
@@ -1419,14 +1531,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 126465,
-      "num": 126465,
-      "word": "00后歌手的vocal实力",
-      "onboard_time": 1680942565,
-      "rank": 42,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 126294,
       "num": 126294,
       "word": "GEN对战KT",
@@ -1457,6 +1561,14 @@
       "onboard_time": 1680937824,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121399,
+      "num": 121399,
+      "word": "带患癌妈妈理发还价5元遭店主咒骂",
+      "onboard_time": 1680945146,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 120328,
@@ -1505,14 +1617,6 @@
       "onboard_time": 1680874950,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 114410,
-      "num": 114410,
-      "word": "美国警察搞错出警地址误杀房主",
-      "onboard_time": 1680942505,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 112981,

@@ -1,6 +1,6 @@
 {
   "startTime": 1680452464197,
-  "endTime": 1680942809779,
+  "endTime": 1680945296398,
   "band_list": [
     {
       "raw_hot": 9506486,
@@ -1540,11 +1540,19 @@
     },
     {
       "raw_hot": 1012723,
-      "num": 506412,
+      "num": 528909,
       "word": "于正快160斤了",
       "onboard_time": 1680932726,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1012536,
+      "num": 1012536,
+      "word": "中电科工会回应职工写周末不请假保证",
+      "onboard_time": 1680940887,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1005357,
@@ -2019,14 +2027,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 832221,
-      "num": 832221,
-      "word": "中电科工会回应职工写周末不请假保证",
-      "onboard_time": 1680940887,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 828867,
       "num": 396953,
       "word": "律师建议张继科不要逃避",
@@ -2169,6 +2169,14 @@
       "onboard_time": 1680605249,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 792955,
+      "num": 792955,
+      "word": "这样追星可刑吗",
+      "onboard_time": 1680940527,
+      "rank": 8,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 784002,
@@ -2321,6 +2329,14 @@
       "onboard_time": 1680485609,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 742866,
+      "num": 204087,
+      "word": "小红书崩了",
+      "onboard_time": 1680941126,
+      "rank": 30,
+      "category": "科技"
     },
     {
       "raw_hot": 739961,
@@ -2731,6 +2747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 656312,
+      "num": 656312,
+      "word": "苏科大一院长说已电话通知考生",
+      "onboard_time": 1680943347,
+      "rank": 5,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 653611,
       "num": 653611,
       "word": "泰坦尼克号Rose床头的照片",
@@ -2788,7 +2812,7 @@
     },
     {
       "raw_hot": 645604,
-      "num": 303859,
+      "num": 317661,
       "word": "瞒着报清华全家都慌了",
       "onboard_time": 1680932306,
       "rank": 20,
@@ -3035,6 +3059,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 597806,
+      "num": 597806,
+      "word": "我国新冠溯源研究情况发布会",
+      "onboard_time": 1680942085,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 597334,
       "num": 597334,
       "word": "RNG上单 五世同堂",
@@ -3121,14 +3153,6 @@
       "onboard_time": 1680867928,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 584038,
-      "num": 584038,
-      "word": "这样追星可刑吗",
-      "onboard_time": 1680940527,
-      "rank": 8,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 583391,
@@ -3251,14 +3275,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 559977,
-      "num": 204087,
-      "word": "小红书崩了",
-      "onboard_time": 1680941126,
-      "rank": 30,
-      "category": "科技"
-    },
-    {
       "raw_hot": 559336,
       "num": 559336,
       "word": "才知道充电宝可以暂停计费",
@@ -3313,6 +3329,14 @@
       "onboard_time": 1680699213,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 549713,
+      "num": 549713,
+      "word": "匪我思存追剧长月烬明",
+      "onboard_time": 1680941306,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 547973,
@@ -3603,14 +3627,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 515622,
-      "num": 515622,
-      "word": "匪我思存追剧长月烬明",
-      "onboard_time": 1680941306,
-      "rank": 24,
-      "category": "影视"
-    },
-    {
       "raw_hot": 513863,
       "num": 513863,
       "word": "特朗普接受传讯现场",
@@ -3683,6 +3699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 503922,
+      "num": 503922,
+      "word": "00后歌手的vocal实力",
+      "onboard_time": 1680942565,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 503429,
       "num": 494458,
       "word": "肖战和TODS总裁合照",
@@ -3705,6 +3729,14 @@
       "onboard_time": 1680681029,
       "rank": 7,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 501091,
+      "num": 501091,
+      "word": "美国警察搞错出警地址误杀房主",
+      "onboard_time": 1680942505,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 500156,
@@ -4859,6 +4891,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 375542,
+      "num": 375542,
+      "word": "权志龙说出演选秀会被淘汰",
+      "onboard_time": 1680943705,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 375457,
       "num": 283214,
       "word": "我们都应该对月经羞耻说不",
@@ -5753,6 +5793,14 @@
       "onboard_time": 1680621751,
       "rank": 23,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 310203,
+      "num": 310203,
+      "word": "苏州科技大学致歉",
+      "onboard_time": 1680944604,
+      "rank": 21,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 309102,
@@ -7137,6 +7185,14 @@
       "onboard_time": 1680608429,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 239788,
+      "num": 239788,
+      "word": "赵今麦化妆自拍",
+      "onboard_time": 1680943884,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 239489,
@@ -8931,6 +8987,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 200553,
+      "num": 200553,
+      "word": "校园暴力记录该不该记入档案",
+      "onboard_time": 1680944126,
+      "rank": 29,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 200354,
       "num": 200354,
       "word": "山河之影",
@@ -9067,6 +9131,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 199064,
+      "num": 199064,
+      "word": "宁安如梦播出时间",
+      "onboard_time": 1680944905,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 198998,
       "num": 198998,
       "word": "灿烂的转身微博评分8.3",
@@ -9113,6 +9185,14 @@
       "onboard_time": 1680864928,
       "rank": 36,
       "category": "美食"
+    },
+    {
+      "raw_hot": 198358,
+      "num": 198358,
+      "word": "山东石榴太空进修每天绕地16圈",
+      "onboard_time": 1680945265,
+      "rank": 32,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 198276,
@@ -9176,6 +9256,14 @@
       "word": "于文文曹操吉他solo",
       "onboard_time": 1680787414,
       "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 197212,
+      "num": 197212,
+      "word": "陈少熙让羊给遛了",
+      "onboard_time": 1680944664,
+      "rank": 33,
       "category": "综艺"
     },
     {
@@ -9273,6 +9361,14 @@
       "onboard_time": 1680865826,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 195778,
+      "num": 195778,
+      "word": "总裁刺瓜肠粉",
+      "onboard_time": 1680944366,
+      "rank": 34,
+      "category": "美食"
     },
     {
       "raw_hot": 195626,
@@ -9867,14 +9963,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 188064,
-      "num": 188064,
-      "word": "我国新冠溯源研究情况发布会",
-      "onboard_time": 1680942085,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 188032,
       "num": 188032,
       "word": "宋三川学花泽类倒立",
@@ -10417,6 +10505,14 @@
       "onboard_time": 1680843454,
       "rank": 44,
       "category": "科技"
+    },
+    {
+      "raw_hot": 177957,
+      "num": 177957,
+      "word": "杨超越淡黄色公主裙",
+      "onboard_time": 1680944664,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 177931,
@@ -11587,6 +11683,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 148894,
+      "num": 148894,
+      "word": "林更新活动生图",
+      "onboard_time": 1680944967,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 148833,
       "num": 148833,
       "word": "金子涵清唱socliché",
@@ -11928,6 +12032,14 @@
       "word": "DOU5对战ACT",
       "onboard_time": 1680873028,
       "rank": 44,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 137873,
+      "num": 137873,
+      "word": "GW第五人格",
+      "onboard_time": 1680944485,
+      "rank": 43,
       "category": "游戏"
     },
     {
@@ -12291,14 +12403,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 126465,
-      "num": 126465,
-      "word": "00后歌手的vocal实力",
-      "onboard_time": 1680942565,
-      "rank": 42,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 126434,
       "num": 126434,
       "word": "李泰民正式退伍",
@@ -12433,6 +12537,14 @@
       "onboard_time": 1680665610,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 121399,
+      "num": 121399,
+      "word": "带患癌妈妈理发还价5元遭店主咒骂",
+      "onboard_time": 1680945146,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121346,
@@ -12616,14 +12728,6 @@
       "word": "英雄之光",
       "onboard_time": 1680447168,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 114410,
-      "num": 114410,
-      "word": "美国警察搞错出警地址误杀房主",
-      "onboard_time": 1680942505,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
