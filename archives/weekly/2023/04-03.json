@@ -1,6 +1,6 @@
 {
   "startTime": 1680452464197,
-  "endTime": 1680948995075,
+  "endTime": 1680950007584,
   "band_list": [
     {
       "raw_hot": 9506486,
@@ -403,8 +403,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2443840,
-      "num": 2443840,
+      "raw_hot": 2455752,
+      "num": 2455752,
       "word": "新冠病毒可能来源于人类",
       "onboard_time": 1680946587,
       "rank": 0,
@@ -481,6 +481,14 @@
       "onboard_time": 1680862171,
       "rank": 4,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 2281117,
+      "num": 449749,
+      "word": "陈翔夜市摆摊",
+      "onboard_time": 1680948388,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 2234743,
@@ -1491,6 +1499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1078251,
+      "num": 1078251,
+      "word": "吴磊说拍了七八个月10天就播完了",
+      "onboard_time": 1680946645,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1075445,
       "num": 1075445,
       "word": "孙策胸肌",
@@ -1651,6 +1667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 958315,
+      "num": 958315,
+      "word": "杨紫追星成功孙燕姿",
+      "onboard_time": 1680948027,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 950709,
       "num": 950709,
       "word": "清明放假1天",
@@ -1681,6 +1705,14 @@
       "onboard_time": 1680696271,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 934766,
+      "num": 463855,
+      "word": "翁虹女儿颜值",
+      "onboard_time": 1680947908,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 933201,
@@ -1833,14 +1865,6 @@
       "onboard_time": 1680599310,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 882084,
-      "num": 882084,
-      "word": "吴磊说拍了七八个月10天就播完了",
-      "onboard_time": 1680946645,
-      "rank": 3,
-      "category": "影视"
     },
     {
       "raw_hot": 879922,
@@ -3027,14 +3051,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 617792,
-      "num": 463855,
-      "word": "翁虹女儿颜值",
-      "onboard_time": 1680947908,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 612597,
       "num": 612597,
       "word": "长月烬明",
@@ -3113,14 +3129,6 @@
       "onboard_time": 1680789514,
       "rank": 8,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 595072,
-      "num": 448684,
-      "word": "陈翔夜市摆摊",
-      "onboard_time": 1680948388,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 594470,
@@ -3809,14 +3817,6 @@
       "onboard_time": 1680653485,
       "rank": 12,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 498308,
-      "num": 498308,
-      "word": "杨紫追星成功孙燕姿",
-      "onboard_time": 1680948027,
-      "rank": 9,
-      "category": "影视"
     },
     {
       "raw_hot": 496562,
@@ -4851,6 +4851,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 387367,
+      "num": 387367,
+      "word": "张元英姐姐全身照",
+      "onboard_time": 1680948987,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 386090,
       "num": 386090,
       "word": "吃菠萝扎嘴的原因",
@@ -5032,6 +5040,14 @@
       "word": "女儿继承父亲警号后听到呼叫泪崩",
       "onboard_time": 1680494496,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 368282,
+      "num": 265810,
+      "word": "带患癌妈妈理发还价5元遭店主咒骂",
+      "onboard_time": 1680945146,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -5257,14 +5273,6 @@
       "onboard_time": 1680777570,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 352129,
-      "num": 265810,
-      "word": "带患癌妈妈理发还价5元遭店主咒骂",
-      "onboard_time": 1680945146,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 352083,
@@ -5889,6 +5897,14 @@
       "onboard_time": 1680523353,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 309087,
+      "num": 216173,
+      "word": "张云龙在三里屯摆摊",
+      "onboard_time": 1680948868,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 308701,
@@ -6857,6 +6873,14 @@
       "onboard_time": 1680871289,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 259286,
+      "num": 196771,
+      "word": "权志龙太阳大声同框",
+      "onboard_time": 1680949947,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 259160,
@@ -8396,7 +8420,7 @@
     },
     {
       "raw_hot": 207780,
-      "num": 184986,
+      "num": 185298,
       "word": "宋亚轩想看袁娅维的演唱会",
       "onboard_time": 1680948868,
       "rank": 33,
@@ -10307,6 +10331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 185651,
+      "num": 180747,
+      "word": "薄冰酒店戏",
+      "onboard_time": 1680949410,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 185481,
       "num": 185481,
       "word": "张大大为惊天救援打call",
@@ -10353,6 +10385,14 @@
       "onboard_time": 1680744806,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 185008,
+      "num": 185008,
+      "word": "全程没看弟弟也没放过弟弟",
+      "onboard_time": 1680947068,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 184605,
@@ -10665,14 +10705,6 @@
       "onboard_time": 1680843454,
       "rank": 44,
       "category": "科技"
-    },
-    {
-      "raw_hot": 178012,
-      "num": 178012,
-      "word": "全程没看弟弟也没放过弟弟",
-      "onboard_time": 1680947068,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 177931,
@@ -11387,6 +11419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 160513,
+      "num": 160513,
+      "word": "苏醒如果被绑架你就眨眨眼",
+      "onboard_time": 1680949887,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 160121,
       "num": 160121,
       "word": "四月宋男友",
@@ -11995,6 +12035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 145269,
+      "num": 155158,
+      "word": "山东烧烤看淄博",
+      "onboard_time": 1680949170,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 144656,
       "num": 144656,
       "word": "赵粤库存跳舞视频",
@@ -12009,14 +12057,6 @@
       "onboard_time": 1680683609,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 144614,
-      "num": 144614,
-      "word": "张元英姐姐全身照",
-      "onboard_time": 1680948987,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 144279,
@@ -12040,6 +12080,14 @@
       "word": "灿烂的转身爽点",
       "onboard_time": 1680751589,
       "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 143856,
+      "num": 126701,
+      "word": "长月烬明请敦煌专家指导服化细节",
+      "onboard_time": 1680948569,
+      "rank": 45,
       "category": "影视"
     },
     {
@@ -12475,6 +12523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131258,
+      "num": 125359,
+      "word": "北京WB",
+      "onboard_time": 1680949887,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 131219,
       "num": 131219,
       "word": "五月天energy放手",
@@ -12497,6 +12553,14 @@
       "onboard_time": 1680714141,
       "rank": 30,
       "category": "作品衍生,动漫"
+    },
+    {
+      "raw_hot": 130433,
+      "num": 130433,
+      "word": "这就是倔酱吗",
+      "onboard_time": 1680949348,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 130299,
