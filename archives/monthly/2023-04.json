@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680968003099,
+  "endTime": 1680970864988,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -2515,6 +2515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 841679,
+      "num": 441790,
+      "word": "虞书欣自己化的水光妆",
+      "onboard_time": 1680966212,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 840632,
       "num": 517068,
       "word": "罗志祥以朱碧石身份上泰国节目",
@@ -4035,14 +4043,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 577882,
-      "num": 441790,
-      "word": "虞书欣自己化的水光妆",
-      "onboard_time": 1680966212,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 577624,
       "num": 577624,
       "word": "王哲林61分",
@@ -4864,6 +4864,14 @@
       "word": "白鹿叶夕雾婚服",
       "onboard_time": 1680927447,
       "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 491597,
+      "num": 491597,
+      "word": "陈晓说我要是双星我就翻脸了",
+      "onboard_time": 1680967530,
+      "rank": 26,
       "category": "影视"
     },
     {
@@ -5723,6 +5731,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 423365,
+      "num": 423365,
+      "word": "程潇三天速成的hiphop",
+      "onboard_time": 1680968011,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 423067,
       "num": 423067,
       "word": "王俊凯或将出演贾樟柯新电影",
@@ -5873,6 +5889,14 @@
       "onboard_time": 1680746967,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 415271,
+      "num": 415271,
+      "word": "水哥封面",
+      "onboard_time": 1680968967,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 415234,
@@ -9899,6 +9923,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 231777,
+      "num": 231777,
+      "word": "张凯 我就说火舞可以打金蝉",
+      "onboard_time": 1680966509,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 231293,
       "num": 231293,
       "word": "我想和你唱",
@@ -10105,14 +10137,6 @@
       "onboard_time": 1680423449,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 226836,
-      "num": 226836,
-      "word": "张凯 我就说火舞可以打金蝉",
-      "onboard_time": 1680966509,
-      "rank": 38,
-      "category": "游戏"
     },
     {
       "raw_hot": 226759,
@@ -10371,12 +10395,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 220184,
-      "num": 176682,
-      "word": "陈晓说我要是双星我就翻脸了",
-      "onboard_time": 1680967530,
-      "rank": 26,
-      "category": "影视"
+      "raw_hot": 220274,
+      "num": 220274,
+      "word": "SK",
+      "onboard_time": 1680967948,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 220152,
@@ -15875,6 +15899,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 151626,
+      "num": 151626,
+      "word": "拜仁",
+      "onboard_time": 1680966688,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 151624,
       "num": 151624,
       "word": "为了这个家操碎心的狗狗",
@@ -16571,14 +16603,6 @@
       "category": "社会议题"
     },
     {
-      "raw_hot": 139161,
-      "num": 139161,
-      "word": "拜仁",
-      "onboard_time": 1680966688,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 138961,
       "num": 138961,
       "word": "演完忠犬八公成狗生赢家",
@@ -16625,6 +16649,14 @@
       "onboard_time": 1680955225,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 138609,
+      "num": 127574,
+      "word": "广州海潮宇宙音乐节",
+      "onboard_time": 1680969688,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 138595,
@@ -18451,14 +18483,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 93512,
-      "num": 120504,
-      "word": "SK",
-      "onboard_time": 1680967948,
-      "rank": 49,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 93370,
       "num": 152856,
       "word": "第五人格",
@@ -18729,6 +18753,14 @@
       "onboard_time": 1680279507,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 72848,
+      "num": 96746,
+      "word": "猫咪爬上树默默看小狗寻找自己",
+      "onboard_time": 1680970405,
+      "rank": 47,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 70325,
