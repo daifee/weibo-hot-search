@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680923843060,
+  "endTime": 1680924816268,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -787,6 +787,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1914373,
+      "num": 1914373,
+      "word": "苏州科技大学",
+      "onboard_time": 1680923006,
+      "rank": 7,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1883278,
       "num": 1883278,
       "word": "张元英姐姐出道",
@@ -1420,7 +1428,7 @@
     },
     {
       "raw_hot": 1203068,
-      "num": 864235,
+      "num": 895832,
       "word": "白幼瘦审美",
       "onboard_time": 1680921090,
       "rank": 31,
@@ -1665,6 +1673,14 @@
       "onboard_time": 1680700830,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1077057,
+      "num": 892213,
+      "word": "19岁女孩整形医院抽脂后3天死亡",
+      "onboard_time": 1680922406,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1075445,
@@ -2275,12 +2291,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 837683,
-      "num": 837683,
-      "word": "19岁女孩整形医院抽脂后3天死亡",
-      "onboard_time": 1680922406,
-      "rank": 4,
-      "category": "社会新闻"
+      "raw_hot": 838830,
+      "num": 838830,
+      "word": "WE Are One",
+      "onboard_time": 1680922588,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 837448,
@@ -3403,14 +3419,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 623596,
-      "num": 623596,
-      "word": "WE Are One",
-      "onboard_time": 1680922588,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 622965,
       "num": 622965,
       "word": "NINEPERCENT成团出道五周年",
@@ -3497,14 +3505,6 @@
       "onboard_time": 1680593311,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 609781,
-      "num": 609781,
-      "word": "苏州科技大学",
-      "onboard_time": 1680923006,
-      "rank": 7,
-      "category": "教育"
     },
     {
       "raw_hot": 608091,
@@ -3881,6 +3881,14 @@
       "onboard_time": 1680575427,
       "rank": 35,
       "category": "作品衍生,社会新闻"
+    },
+    {
+      "raw_hot": 547537,
+      "num": 362424,
+      "word": "王嘉尔711给了你多少钱",
+      "onboard_time": 1680920609,
+      "rank": 35,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 547242,
@@ -5971,6 +5979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 366438,
+      "num": 366438,
+      "word": "光渊",
+      "onboard_time": 1680317608,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 365629,
       "num": 292106,
       "word": "4岁女儿完美重现妈妈4岁时的脸",
@@ -6115,6 +6131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 354314,
+      "num": 354314,
+      "word": "最好的我们开播七年了",
+      "onboard_time": 1680922166,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 354177,
       "num": 354177,
       "word": "井胧 中传",
@@ -6129,14 +6153,6 @@
       "onboard_time": 1680427228,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 353366,
-      "num": 353366,
-      "word": "王嘉尔711给了你多少钱",
-      "onboard_time": 1680920609,
-      "rank": 35,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 352991,
@@ -6473,14 +6489,6 @@
       "onboard_time": 1680277885,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 333988,
-      "num": 333988,
-      "word": "光渊",
-      "onboard_time": 1680317608,
-      "rank": 11,
-      "category": "影视"
     },
     {
       "raw_hot": 333876,
@@ -6859,6 +6867,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 314070,
+      "num": 314070,
+      "word": "EXO出道颜值",
+      "onboard_time": 1680921568,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 313891,
       "num": 313891,
       "word": "电影无名网播定档",
@@ -7001,14 +7017,6 @@
       "onboard_time": 1680686549,
       "rank": 44,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 304219,
-      "num": 304219,
-      "word": "最好的我们开播七年了",
-      "onboard_time": 1680922166,
-      "rank": 24,
-      "category": "影视"
     },
     {
       "raw_hot": 304038,
@@ -7257,14 +7265,6 @@
       "onboard_time": 1680766589,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 293791,
-      "num": 293791,
-      "word": "EXO出道颜值",
-      "onboard_time": 1680921568,
-      "rank": 27,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 293785,
@@ -8907,6 +8907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 235659,
+      "num": 235659,
+      "word": "宠物鼠被滞留地铁上挠伤乘客",
+      "onboard_time": 1680923246,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 235171,
       "num": 235171,
       "word": "张杰武汉站演唱会官宣加场",
@@ -10523,6 +10531,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 203417,
+      "num": 203417,
+      "word": "喻言CHAMPION体育画报周年刊封面",
+      "onboard_time": 1680923848,
+      "rank": 34,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 203389,
       "num": 203389,
       "word": "玄彬李栋旭新电影杀青照",
@@ -11251,6 +11267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198064,
+      "num": 198064,
+      "word": "原来指尖真的可以藏下宇宙",
+      "onboard_time": 1680923608,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 198047,
       "num": 198047,
       "word": "未央三杀再拿一分",
@@ -11963,6 +11987,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 190331,
+      "num": 190331,
+      "word": "当四川珍稀动物摆上龙门阵",
+      "onboard_time": 1680923789,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190292,
       "num": 190292,
       "word": "碧姬可不是等着被救的公主",
@@ -12123,14 +12155,6 @@
       "category": "影视,动漫"
     },
     {
-      "raw_hot": 188754,
-      "num": 188754,
-      "word": "原来指尖真的可以藏下宇宙",
-      "onboard_time": 1680923608,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 188515,
       "num": 188515,
       "word": "马嘉祺宋亚轩黑白造型",
@@ -12216,6 +12240,14 @@
       "word": "季曼想起意中人就是宁钰轩",
       "onboard_time": 1680610289,
       "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 187452,
+      "num": 187452,
+      "word": "长月烬明前8集戏份时长",
+      "onboard_time": 1680924627,
+      "rank": 38,
       "category": "影视"
     },
     {
@@ -14275,6 +14307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 150672,
+      "num": 150672,
+      "word": "了不起舞社2开播",
+      "onboard_time": 1680923968,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 150605,
       "num": 150605,
       "word": "KPL选手们的国服有多卷",
@@ -14361,14 +14401,6 @@
       "onboard_time": 1680514112,
       "rank": 46,
       "category": "国内要闻,军事"
-    },
-    {
-      "raw_hot": 149664,
-      "num": 149664,
-      "word": "宠物鼠被滞留地铁上挠伤乘客",
-      "onboard_time": 1680923246,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 149390,
@@ -15259,14 +15291,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 132023,
-      "num": 132023,
-      "word": "当四川珍稀动物摆上龙门阵",
-      "onboard_time": 1680923789,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 131951,
       "num": 131951,
       "word": "Billboard冠单朴智旻Like Crazy",
@@ -15377,6 +15401,14 @@
       "onboard_time": 1680883886,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 129493,
+      "num": 129493,
+      "word": "夫妻打闹妻子手不慎被掰骨折",
+      "onboard_time": 1680924808,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129481,
