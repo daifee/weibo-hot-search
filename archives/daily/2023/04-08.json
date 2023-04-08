@@ -1,6 +1,6 @@
 {
   "startTime": 1680884526258,
-  "endTime": 1680932009970,
+  "endTime": 1680934829472,
   "band_list": [
     {
       "raw_hot": 2654974,
@@ -99,6 +99,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1081785,
+      "num": 1081785,
+      "word": "罗云熙嘴上的疤",
+      "onboard_time": 1680932908,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1053870,
       "num": 1053870,
       "word": "陈某龙故意散布谣言被依法行拘",
@@ -113,6 +121,14 @@
       "onboard_time": 1680920968,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 885398,
+      "num": 379860,
+      "word": "不走甜美风的张雨绮",
+      "onboard_time": 1680933445,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 875106,
@@ -169,6 +185,14 @@
       "onboard_time": 1680871828,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 761612,
+      "num": 377707,
+      "word": "于正快160斤了",
+      "onboard_time": 1680932726,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 752332,
@@ -243,6 +267,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 576339,
+      "num": 576339,
+      "word": "杭州女生摆摊卖樱花奶昔日入过千",
+      "onboard_time": 1680929488,
+      "rank": 19,
+      "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 572946,
+      "num": 372933,
+      "word": "周梓倩",
+      "onboard_time": 1680933865,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 559336,
       "num": 559336,
       "word": "才知道充电宝可以暂停计费",
@@ -267,12 +307,12 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 544444,
-      "num": 544444,
-      "word": "杭州女生摆摊卖樱花奶昔日入过千",
-      "onboard_time": 1680929488,
-      "rank": 19,
-      "category": "社会新闻,美食"
+      "raw_hot": 545486,
+      "num": 257650,
+      "word": "瞒着报清华全家都慌了",
+      "onboard_time": 1680932306,
+      "rank": 20,
+      "category": "情感,教育"
     },
     {
       "raw_hot": 526371,
@@ -369,6 +409,14 @@
       "onboard_time": 1680910039,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 417248,
+      "num": 363010,
+      "word": "大学招聘体育老师要求为世界冠军",
+      "onboard_time": 1680933504,
+      "rank": 13,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 407177,
@@ -473,6 +521,14 @@
       "onboard_time": 1680925708,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 346163,
+      "num": 346163,
+      "word": "青春环游记4今晚开播",
+      "onboard_time": 1680931525,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 343503,
@@ -651,6 +707,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 226927,
+      "num": 161503,
+      "word": "美特斯邦威是怎么从步行街消失的",
+      "onboard_time": 1680934045,
+      "rank": 32,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 221520,
       "num": 221520,
       "word": "湖人",
@@ -779,6 +843,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 194463,
+      "num": 158612,
+      "word": "该不该找门槛低的工作过渡",
+      "onboard_time": 1680934647,
+      "rank": 33,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 193851,
       "num": 193851,
       "word": "护考",
@@ -809,14 +881,6 @@
       "onboard_time": 1680923789,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 189854,
-      "num": 189854,
-      "word": "青春环游记4今晚开播",
-      "onboard_time": 1680931525,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 189245,
@@ -1107,12 +1171,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 117162,
+      "num": 117162,
+      "word": "代号鸢心愿许愿",
+      "onboard_time": 1680931286,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 116222,
       "num": 116222,
       "word": "金晨快乐工作vlog",
       "onboard_time": 1680928408,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 115814,
+      "num": 115814,
+      "word": "陈奕迅说好疯狂好激动",
+      "onboard_time": 1680934284,
+      "rank": 39,
+      "category": "音乐"
     },
     {
       "raw_hot": 115625,
@@ -1179,12 +1259,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 102131,
+      "num": 102131,
+      "word": "EXO11周年问候视频",
+      "onboard_time": 1680932246,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 98947,
       "num": 98947,
       "word": "李泳知金智秀舞蹈视频",
       "onboard_time": 1680917486,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 96134,
+      "num": 96134,
+      "word": "金智秀FlowerMVreaction视频",
+      "onboard_time": 1680933926,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 93976,
@@ -1249,14 +1345,6 @@
       "onboard_time": 1680853768,
       "rank": 49,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 52544,
-      "num": 108408,
-      "word": "代号鸢心愿许愿",
-      "onboard_time": 1680931286,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 44883,
