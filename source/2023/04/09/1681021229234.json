@@ -1,0 +1,410 @@
+{
+  "runTime": 1681021229234,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1256909,
+        "num": 1256909,
+        "word": "丫丫正式移交中方",
+        "onboard_time": 1681012828,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 900363,
+        "num": 900363,
+        "word": "华晨宇回应华语乐坛永远的神",
+        "onboard_time": 1681009765,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 59326,
+        "num": 806154,
+        "word": "中国航天员在太空划船什么样",
+        "onboard_time": 1681010547,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 729604,
+        "num": 729604,
+        "word": "这是选秀里该出现的身材吗",
+        "onboard_time": 1681019246,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 651937,
+        "num": 651937,
+        "word": "我海军军舰与台舰目视距离5海里",
+        "onboard_time": 1681017148,
+        "rank": 4,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 614108,
+        "num": 614108,
+        "word": "淄博烧烤",
+        "onboard_time": 1681014808,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 453488,
+        "num": 453488,
+        "word": "95后男生国企辞职和妻子收废品",
+        "onboard_time": 1681012049,
+        "rank": 6,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 411554,
+        "num": 411554,
+        "word": "胃病转向胃癌有5个信号",
+        "onboard_time": 1680998963,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358260,
+        "num": 358260,
+        "word": "关于中国留学生在泰遇害的情况通报",
+        "onboard_time": 1681016790,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354671,
+        "num": 354671,
+        "word": "鬼灭之刃",
+        "onboard_time": 1681015109,
+        "rank": 9,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 1429009,
+        "num": 350935,
+        "word": "宋祖儿编辑记录",
+        "onboard_time": 1681014329,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 619237,
+        "num": 325922,
+        "word": "马克龙称赞中国大学生用法语提问",
+        "onboard_time": 1681018707,
+        "rank": 11,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 388053,
+        "num": 324165,
+        "word": "前助理评价李现",
+        "onboard_time": 1681011869,
+        "rank": 12,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 369629,
+        "num": 296867,
+        "word": "韩国人有自己的张远",
+        "onboard_time": 1681008566,
+        "rank": 13,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 295918,
+        "num": 295918,
+        "word": "对台岛关键目标模拟精确打击",
+        "onboard_time": 1681015949,
+        "rank": 14,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 294347,
+        "num": 294347,
+        "word": "吴磊杭州",
+        "onboard_time": 1681011266,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264230,
+        "num": 264230,
+        "word": "BLG发布律师声明",
+        "onboard_time": 1681016188,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 252166,
+        "num": 252166,
+        "word": "长月烬明新副本",
+        "onboard_time": 1681015289,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 239339,
+        "num": 239339,
+        "word": "贾静雯的体重",
+        "onboard_time": 1681002986,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238919,
+        "num": 238919,
+        "word": "林俊杰买虚拟地产浮亏91%",
+        "onboard_time": 1681000224,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 401597,
+        "num": 234728,
+        "word": "25岁以上就不用订闹钟了",
+        "onboard_time": 1681009587,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 229729,
+        "num": 229729,
+        "word": "孙海洋",
+        "onboard_time": 1681020865,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211957,
+        "num": 211957,
+        "word": "医院回应2老人长住等候椅",
+        "onboard_time": 1681013850,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209140,
+        "num": 209140,
+        "word": "丫丫回国准备最新进展",
+        "onboard_time": 1681020147,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200876,
+        "num": 200876,
+        "word": "爆汁龙眼牛肉",
+        "onboard_time": 1681019607,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 199113,
+        "num": 199113,
+        "word": "张峻豪说谢谢你愿意为我而来",
+        "onboard_time": 1681020085,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 196594,
+        "num": 196594,
+        "word": "原来胃是这样被弄坏的",
+        "onboard_time": 1681005625,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 196037,
+        "num": 196037,
+        "word": "T1对战GEN",
+        "onboard_time": 1681020865,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 191365,
+        "num": 191365,
+        "word": "罗云熙烬皇亲征剧照",
+        "onboard_time": 1681020506,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187678,
+        "num": 187678,
+        "word": "王一博擦飞机",
+        "onboard_time": 1681012350,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 155621,
+        "num": 155621,
+        "word": "张颂文散文登贵州省一模试卷",
+        "onboard_time": 1681011989,
+        "rank": 30,
+        "category": "教育,艺人"
+      },
+      {
+        "raw_hot": 148876,
+        "num": 148876,
+        "word": "范丞丞要久久爱直男打伞",
+        "onboard_time": 1681017267,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147165,
+        "num": 147165,
+        "word": "你觉得工资越高越幸福吗",
+        "onboard_time": 1681003108,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143093,
+        "num": 143093,
+        "word": "UFC287",
+        "onboard_time": 1681016308,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133744,
+        "num": 133744,
+        "word": "被闹钟惊醒对身体危害大",
+        "onboard_time": 1681005748,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119046,
+        "num": 119046,
+        "word": "原来国色天香美得如此大气",
+        "onboard_time": 1681020267,
+        "rank": 35,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 118294,
+        "num": 118294,
+        "word": "乘坐淄博烧烤专列的幸福感",
+        "onboard_time": 1681016609,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 117854,
+        "num": 117854,
+        "word": "苏新皓说谢谢你愿意为我而来",
+        "onboard_time": 1681019666,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 116853,
+        "num": 116853,
+        "word": "EXO蝴蝶少女饭拍视频",
+        "onboard_time": 1681016850,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 113805,
+        "num": 113805,
+        "word": "胡歌为谭卓打call",
+        "onboard_time": 1681020746,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113238,
+        "num": 113238,
+        "word": "TF家族三代演唱会为粉丝准备的礼物",
+        "onboard_time": 1681017148,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 140273,
+        "num": 112913,
+        "word": "法新社",
+        "onboard_time": 1681011808,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112512,
+        "num": 112512,
+        "word": "恋与制作人",
+        "onboard_time": 1681018107,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 109100,
+        "num": 109100,
+        "word": "长月烬明冥夜桑酒角色海报",
+        "onboard_time": 1681009647,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 108740,
+        "num": 108740,
+        "word": "再就业男团红到什么水平了",
+        "onboard_time": 1681004007,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107282,
+        "num": 107282,
+        "word": "艾伦沈腾新电影定档",
+        "onboard_time": 1681014026,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 103654,
+        "num": 103654,
+        "word": "马克龙发文感谢广州",
+        "onboard_time": 1681002625,
+        "rank": 46,
+        "category": "国内要闻,社会新闻"
+      },
+      {
+        "raw_hot": 103270,
+        "num": 103270,
+        "word": "蔡文静西藏出游指南",
+        "onboard_time": 1681019246,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 97748,
+        "num": 103179,
+        "word": "双向奔赴是一种什么样的体验",
+        "onboard_time": 1681016250,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 95050,
+        "num": 102961,
+        "word": "周雨彤面对误解的态度",
+        "onboard_time": 1681014568,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#春耕农忙正当时#"
+    }
+  }
+}
