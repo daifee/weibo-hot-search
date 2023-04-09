@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681078529065,
+  "endTime": 1681079633114,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -16876,7 +16876,7 @@
     },
     {
       "raw_hot": 166091,
-      "num": 96728,
+      "num": 147201,
       "word": "顾客称吃85度C三明治发现番茄长毛",
       "onboard_time": 1681062914,
       "rank": 13,
@@ -20484,7 +20484,7 @@
     },
     {
       "raw_hot": 102087,
-      "num": 80017,
+      "num": 101191,
       "word": "留学生们在外面真的要好好保护自己",
       "onboard_time": 1681064473,
       "rank": 31,
@@ -21579,20 +21579,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 24143,
+      "num": 24143,
+      "word": "看得出来她是真的喜欢讲话",
+      "onboard_time": 1681066814,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 23802,
+      "num": 23802,
+      "word": "原神",
+      "onboard_time": 1681069931,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 23161,
       "num": 1246932,
       "word": "带你共享花开烂漫时",
       "onboard_time": 1680248546,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22949,
-      "num": 22949,
-      "word": "原神",
-      "onboard_time": 1681069931,
-      "rank": 18,
-      "category": "游戏"
     },
     {
       "raw_hot": 21657,
@@ -21625,14 +21633,6 @@
       "onboard_time": 1680459195,
       "rank": 47,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 19439,
-      "num": 19439,
-      "word": "看得出来她是真的喜欢讲话",
-      "onboard_time": 1681066814,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 16919,
