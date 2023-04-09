@@ -1,6 +1,6 @@
 {
   "startTime": 1680970864988,
-  "endTime": 1681046305386,
+  "endTime": 1681047202123,
   "band_list": [
     {
       "raw_hot": 2140320,
@@ -11,7 +11,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2055092,
+      "raw_hot": 2084198,
       "num": 446232,
       "word": "王力宏霍建华林心如聚会",
       "onboard_time": 1681043309,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1704505,
-      "num": 486347,
+      "num": 634469,
       "word": "张杰女儿的奖励",
       "onboard_time": 1681044809,
       "rank": 3,
@@ -123,7 +123,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1076752,
+      "raw_hot": 1162326,
       "num": 385227,
       "word": "普宁",
       "onboard_time": 1681043127,
@@ -137,6 +137,14 @@
       "onboard_time": 1681022548,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1060401,
+      "num": 1060401,
+      "word": "陈梦",
+      "onboard_time": 1681046009,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 1037220,
@@ -355,6 +363,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 634298,
+      "num": 634298,
+      "word": "长月烬明",
+      "onboard_time": 1681045826,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 623852,
       "num": 623852,
       "word": "绿币厕所",
@@ -380,7 +396,7 @@
     },
     {
       "raw_hot": 595251,
-      "num": 294140,
+      "num": 296777,
       "word": "阿姨用筷子蘸肉包馄饨几乎只有皮",
       "onboard_time": 1681034546,
       "rank": 31,
@@ -428,7 +444,7 @@
     },
     {
       "raw_hot": 555516,
-      "num": 295356,
+      "num": 301052,
       "word": "过度超前消费有多可怕",
       "onboard_time": 1681042226,
       "rank": 24,
@@ -508,7 +524,7 @@
     },
     {
       "raw_hot": 498580,
-      "num": 295621,
+      "num": 298541,
       "word": "王冰冰说一不小心和海虹撞了衫",
       "onboard_time": 1681042105,
       "rank": 20,
@@ -568,14 +584,6 @@
       "word": "长月烬明冥夜桑酒角色海报",
       "onboard_time": 1681009647,
       "rank": 13,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 429545,
-      "num": 429545,
-      "word": "长月烬明",
-      "onboard_time": 1681045826,
-      "rank": 6,
       "category": "影视"
     },
     {
@@ -745,6 +753,14 @@
       "onboard_time": 1681032748,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 343674,
+      "num": 293987,
+      "word": "白鹿桑酒妆造",
+      "onboard_time": 1681046729,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 340790,
@@ -1051,6 +1067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 244197,
+      "num": 204805,
+      "word": "刘宇宁直播",
+      "onboard_time": 1681046187,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 242499,
       "num": 242499,
       "word": "长月烬明五粮液同款配色婚服",
@@ -1105,6 +1129,14 @@
       "onboard_time": 1680966509,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 230782,
+      "num": 865197,
+      "word": "这些旅游专列已发车",
+      "onboard_time": 1681042525,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 230700,
@@ -1283,14 +1315,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 208054,
-      "num": 865197,
-      "word": "这些旅游专列已发车",
-      "onboard_time": 1681042525,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 208022,
       "num": 208022,
       "word": "要久久爱首发杀青特辑",
@@ -1371,6 +1395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 200486,
+      "num": 200486,
+      "word": "啜妮名字谐音梗",
+      "onboard_time": 1681046669,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 199800,
       "num": 199800,
       "word": "TF家族三代演唱会为粉丝准备的礼物",
@@ -1393,6 +1425,14 @@
       "onboard_time": 1681018048,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 199631,
+      "num": 199631,
+      "word": "拜托你啦朋友",
+      "onboard_time": 1681045467,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 199300,
@@ -1499,6 +1539,14 @@
       "category": "影视,幽默"
     },
     {
+      "raw_hot": 191687,
+      "num": 191687,
+      "word": "王栎鑫问苏醒还能活几集",
+      "onboard_time": 1681045950,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191591,
       "num": 191591,
       "word": "清清吕布主打一个猛",
@@ -1513,6 +1561,14 @@
       "onboard_time": 1681015408,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 188963,
+      "num": 307300,
+      "word": "CBA季后赛",
+      "onboard_time": 1681045768,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 188411,
@@ -1579,14 +1635,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 182819,
-      "num": 182819,
-      "word": "拜托你啦朋友",
-      "onboard_time": 1681045467,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 181055,
       "num": 181055,
       "word": "李荣浩演唱会大合唱乌梅子酱",
@@ -1601,14 +1649,6 @@
       "onboard_time": 1681018107,
       "rank": 29,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 178636,
-      "num": 178636,
-      "word": "刘宇宁直播",
-      "onboard_time": 1681046187,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 178279,
@@ -1739,14 +1779,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 159211,
-      "num": 183946,
-      "word": "陈梦",
-      "onboard_time": 1681046009,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 158890,
       "num": 158890,
       "word": "成都草莓音乐节",
@@ -1769,14 +1801,6 @@
       "onboard_time": 1681043608,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 158119,
-      "num": 208682,
-      "word": "CBA季后赛",
-      "onboard_time": 1681045768,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 155972,
@@ -1812,7 +1836,7 @@
     },
     {
       "raw_hot": 151794,
-      "num": 151794,
+      "num": 199676,
       "word": "有这样的老师天天都不舍得下课",
       "onboard_time": 1681045226,
       "rank": 39,
@@ -1907,6 +1931,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 140657,
+      "num": 176831,
+      "word": "陈梦晋级冠军赛16强",
+      "onboard_time": 1681047028,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140160,
       "num": 140160,
       "word": "让你松弛下来的20件小事",
@@ -1937,6 +1969,14 @@
       "onboard_time": 1680961350,
       "rank": 33,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 137432,
+      "num": 163661,
+      "word": "AG对战TES",
+      "onboard_time": 1681046368,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 136923,
@@ -2281,6 +2321,14 @@
       "onboard_time": 1681001545,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 99820,
+      "num": 147612,
+      "word": "懒人吹发头神器",
+      "onboard_time": 1681046968,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 97118,
