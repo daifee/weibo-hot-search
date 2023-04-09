@@ -1,6 +1,6 @@
 {
   "startTime": 1680970864988,
-  "endTime": 1681043427357,
+  "endTime": 1681044387162,
   "band_list": [
     {
       "raw_hot": 2140320,
@@ -91,6 +91,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 1272540,
+      "num": 446232,
+      "word": "王力宏霍建华林心如聚会",
+      "onboard_time": 1681043309,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1218650,
       "num": 1218650,
       "word": "林俊杰买虚拟地产浮亏91%",
@@ -163,6 +171,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 967690,
+      "num": 967690,
+      "word": "燃烧的巴黎圣母院",
+      "onboard_time": 1681037784,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 933128,
       "num": 933128,
       "word": "95后男生国企辞职和妻子收废品",
@@ -193,14 +209,6 @@
       "onboard_time": 1681008566,
       "rank": 11,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 850362,
-      "num": 850362,
-      "word": "燃烧的巴黎圣母院",
-      "onboard_time": 1681037784,
-      "rank": 14,
-      "category": "影视"
     },
     {
       "raw_hot": 845660,
@@ -348,7 +356,7 @@
     },
     {
       "raw_hot": 595251,
-      "num": 263030,
+      "num": 294140,
       "word": "阿姨用筷子蘸肉包馄饨几乎只有皮",
       "onboard_time": 1681034546,
       "rank": 31,
@@ -451,6 +459,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 503759,
+      "num": 503759,
+      "word": "EXO或将以LoveMeRight概念回归",
+      "onboard_time": 1681044149,
+      "rank": 6,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 500962,
       "num": 500962,
       "word": "小美人鱼反派公主剧照",
@@ -468,7 +484,7 @@
     },
     {
       "raw_hot": 486556,
-      "num": 261313,
+      "num": 292626,
       "word": "二等功喜报送到妻子工作的小学",
       "onboard_time": 1681030525,
       "rank": 21,
@@ -489,6 +505,14 @@
       "onboard_time": 1681038025,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 471661,
+      "num": 295621,
+      "word": "王冰冰说一不小心和海虹撞了衫",
+      "onboard_time": 1681042105,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 467909,
@@ -539,14 +563,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 429162,
-      "num": 265121,
-      "word": "王冰冰说一不小心和海虹撞了衫",
-      "onboard_time": 1681042105,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 424980,
       "num": 424980,
       "word": "水哥封面",
@@ -595,6 +611,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 412583,
+      "num": 412583,
+      "word": "当许杨玉琢被要联系方式",
+      "onboard_time": 1681041749,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 403511,
+      "num": 295356,
+      "word": "过度超前消费有多可怕",
+      "onboard_time": 1681042226,
+      "rank": 24,
+      "category": "财经,社会议题"
+    },
+    {
       "raw_hot": 403142,
       "num": 403142,
       "word": "安乐传",
@@ -628,11 +660,19 @@
     },
     {
       "raw_hot": 390561,
-      "num": 260773,
+      "num": 293431,
       "word": "肖战把水瓶摆正",
       "onboard_time": 1681039165,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 385227,
+      "num": 385227,
+      "word": "普宁",
+      "onboard_time": 1681043127,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 372869,
@@ -641,14 +681,6 @@
       "onboard_time": 1680954326,
       "rank": 13,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 370642,
-      "num": 370642,
-      "word": "当许杨玉琢被要联系方式",
-      "onboard_time": 1681041749,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 360807,
@@ -932,7 +964,7 @@
     },
     {
       "raw_hot": 261783,
-      "num": 219923,
+      "num": 238359,
       "word": "江疏影抢工作室物料",
       "onboard_time": 1681040906,
       "rank": 27,
@@ -971,6 +1003,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 255126,
+      "num": 245202,
+      "word": "白鹿蚌壳装土味应援桑酒",
+      "onboard_time": 1681041866,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 253305,
       "num": 253305,
       "word": "杨紫皮衣live图",
@@ -1004,7 +1044,7 @@
     },
     {
       "raw_hot": 241200,
-      "num": 196440,
+      "num": 210434,
       "word": "职场中文凭真的有那么重要吗",
       "onboard_time": 1681042105,
       "rank": 30,
@@ -1107,14 +1147,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 222289,
-      "num": 222289,
-      "word": "过度超前消费有多可怕",
-      "onboard_time": 1681042226,
-      "rank": 24,
-      "category": "财经,社会议题"
-    },
-    {
       "raw_hot": 221428,
       "num": 210120,
       "word": "邢菲活动生图",
@@ -1185,14 +1217,6 @@
       "onboard_time": 1680960869,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 214039,
-      "num": 196229,
-      "word": "白鹿蚌壳装土味应援桑酒",
-      "onboard_time": 1681041866,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 212593,
@@ -1347,6 +1371,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 197483,
+      "num": 152612,
+      "word": "2023电影频道M榜荣誉名单",
+      "onboard_time": 1681043728,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 196618,
       "num": 196618,
       "word": "JDG挺进春决",
@@ -1401,6 +1433,14 @@
       "onboard_time": 1681012769,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 193169,
+      "num": 148039,
+      "word": "吴磊收工日落随拍",
+      "onboard_time": 1681043788,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 192985,
@@ -1563,14 +1603,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 174278,
-      "num": 174278,
-      "word": "王力宏霍建华林心如聚会",
-      "onboard_time": 1681043309,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 171882,
       "num": 142713,
       "word": "梁博现场",
@@ -1667,6 +1699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158175,
+      "num": 158175,
+      "word": "肉糕打满五局",
+      "onboard_time": 1681043608,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 155972,
       "num": 155972,
       "word": "T1四连亚",
@@ -1705,6 +1745,14 @@
       "onboard_time": 1680966688,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 150709,
+      "num": 865197,
+      "word": "这些旅游专列已发车",
+      "onboard_time": 1681042525,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 150667,
@@ -2131,14 +2179,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 101958,
-      "num": 110645,
-      "word": "普宁",
-      "onboard_time": 1681043127,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 101823,
       "num": 101823,
       "word": "白鹿桑酒转场视频",
@@ -2169,14 +2209,6 @@
       "onboard_time": 1681001545,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 97287,
-      "num": 865197,
-      "word": "这些旅游专列已发车",
-      "onboard_time": 1681042525,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 97118,

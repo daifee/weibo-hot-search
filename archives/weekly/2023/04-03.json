@@ -1,6 +1,6 @@
 {
   "startTime": 1680452464197,
-  "endTime": 1681043427357,
+  "endTime": 1681044387162,
   "band_list": [
     {
       "raw_hot": 9506486,
@@ -1355,6 +1355,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1272540,
+      "num": 446232,
+      "word": "王力宏霍建华林心如聚会",
+      "onboard_time": 1681043309,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1271520,
       "num": 1271520,
       "word": "徐良回应消失的三年",
@@ -1851,6 +1859,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 967690,
+      "num": 967690,
+      "word": "燃烧的巴黎圣母院",
+      "onboard_time": 1681037784,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 964020,
       "num": 592378,
       "word": "和马 米卡",
@@ -2249,14 +2265,6 @@
       "onboard_time": 1680744089,
       "rank": 5,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 850362,
-      "num": 850362,
-      "word": "燃烧的巴黎圣母院",
-      "onboard_time": 1681037784,
-      "rank": 14,
-      "category": "影视"
     },
     {
       "raw_hot": 848204,
@@ -3564,7 +3572,7 @@
     },
     {
       "raw_hot": 595251,
-      "num": 263030,
+      "num": 294140,
       "word": "阿姨用筷子蘸肉包馄饨几乎只有皮",
       "onboard_time": 1681034546,
       "rank": 31,
@@ -4315,6 +4323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 503759,
+      "num": 503759,
+      "word": "EXO或将以LoveMeRight概念回归",
+      "onboard_time": 1681044149,
+      "rank": 6,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 503429,
       "num": 494458,
       "word": "肖战和TODS总裁合照",
@@ -4500,7 +4516,7 @@
     },
     {
       "raw_hot": 486556,
-      "num": 261313,
+      "num": 292626,
       "word": "二等功喜报送到妻子工作的小学",
       "onboard_time": 1681030525,
       "rank": 21,
@@ -4696,6 +4712,14 @@
       "word": "BLACKPINK科切拉表演曲目",
       "onboard_time": 1680830664,
       "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 471661,
+      "num": 295621,
+      "word": "王冰冰说一不小心和海虹撞了衫",
+      "onboard_time": 1681042105,
+      "rank": 20,
       "category": "艺人"
     },
     {
@@ -5067,14 +5091,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 429162,
-      "num": 265121,
-      "word": "王冰冰说一不小心和海虹撞了衫",
-      "onboard_time": 1681042105,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 427541,
       "num": 389413,
       "word": "上海出发1小时就能到的城市",
@@ -5315,6 +5331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 412583,
+      "num": 412583,
+      "word": "当许杨玉琢被要联系方式",
+      "onboard_time": 1681041749,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 410090,
       "num": 410090,
       "word": "Billlie初一位",
@@ -5401,6 +5425,14 @@
       "onboard_time": 1680690871,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 403511,
+      "num": 295356,
+      "word": "过度超前消费有多可怕",
+      "onboard_time": 1681042226,
+      "rank": 24,
+      "category": "财经,社会议题"
     },
     {
       "raw_hot": 403142,
@@ -5612,7 +5644,7 @@
     },
     {
       "raw_hot": 390561,
-      "num": 260773,
+      "num": 293431,
       "word": "肖战把水瓶摆正",
       "onboard_time": 1681039165,
       "rank": 23,
@@ -5705,6 +5737,14 @@
       "onboard_time": 1680484889,
       "rank": 24,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 385227,
+      "num": 385227,
+      "word": "普宁",
+      "onboard_time": 1681043127,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 385001,
@@ -5865,14 +5905,6 @@
       "onboard_time": 1680766589,
       "rank": 21,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 370642,
-      "num": 370642,
-      "word": "当许杨玉琢被要联系方式",
-      "onboard_time": 1681041749,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 370545,
@@ -7980,7 +8012,7 @@
     },
     {
       "raw_hot": 261783,
-      "num": 219923,
+      "num": 238359,
       "word": "江疏影抢工作室物料",
       "onboard_time": 1681040906,
       "rank": 27,
@@ -8249,6 +8281,14 @@
       "onboard_time": 1680597870,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 255126,
+      "num": 245202,
+      "word": "白鹿蚌壳装土味应援桑酒",
+      "onboard_time": 1681041866,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 254711,
@@ -8556,7 +8596,7 @@
     },
     {
       "raw_hot": 241200,
-      "num": 196440,
+      "num": 210434,
       "word": "职场中文凭真的有那么重要吗",
       "onboard_time": 1681042105,
       "rank": 30,
@@ -9219,14 +9259,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 222289,
-      "num": 222289,
-      "word": "过度超前消费有多可怕",
-      "onboard_time": 1681042226,
-      "rank": 24,
-      "category": "财经,社会议题"
-    },
-    {
       "raw_hot": 221896,
       "num": 221896,
       "word": "白鹿孙珍妮的CP名叫妍珍",
@@ -9561,14 +9593,6 @@
       "onboard_time": 1680435806,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 214039,
-      "num": 196229,
-      "word": "白鹿蚌壳装土味应援桑酒",
-      "onboard_time": 1681041866,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 213929,
@@ -11163,6 +11187,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 197483,
+      "num": 152612,
+      "word": "2023电影频道M榜荣誉名单",
+      "onboard_time": 1681043728,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 197416,
       "num": 197416,
       "word": "KPL春季赛第八周最佳阵容",
@@ -11585,6 +11617,14 @@
       "onboard_time": 1680872668,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193169,
+      "num": 148039,
+      "word": "吴磊收工日落随拍",
+      "onboard_time": 1681043788,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 193127,
@@ -12923,14 +12963,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 174278,
-      "num": 174278,
-      "word": "王力宏霍建华林心如聚会",
-      "onboard_time": 1681043309,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 174227,
       "num": 174227,
       "word": "罗云熙白鹿长月烬明猫眼登顶",
@@ -13731,6 +13763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158175,
+      "num": 158175,
+      "word": "肉糕打满五局",
+      "onboard_time": 1681043608,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 157704,
       "num": 149953,
       "word": "黄景瑜下班随拍",
@@ -14025,6 +14065,14 @@
       "onboard_time": 1680607828,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 150709,
+      "num": 865197,
+      "word": "这些旅游专列已发车",
+      "onboard_time": 1681042525,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 150691,
@@ -15787,14 +15835,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 101958,
-      "num": 110645,
-      "word": "普宁",
-      "onboard_time": 1681043127,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 101823,
       "num": 101823,
       "word": "白鹿桑酒转场视频",
@@ -15896,14 +15936,6 @@
       "word": "洛阳全城剧本杀",
       "onboard_time": 1680765026,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 97287,
-      "num": 865197,
-      "word": "这些旅游专列已发车",
-      "onboard_time": 1681042525,
-      "rank": 2,
       "category": "社会新闻"
     },
     {

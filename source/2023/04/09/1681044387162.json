@@ -1,0 +1,410 @@
+{
+  "runTime": 1681044387162,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 967690,
+        "num": 967690,
+        "word": "燃烧的巴黎圣母院",
+        "onboard_time": 1681037784,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 751483,
+        "num": 751483,
+        "word": "EDG醒醒",
+        "onboard_time": 1681040125,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 150709,
+        "num": 616612,
+        "word": "这些旅游专列已发车",
+        "onboard_time": 1681042525,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 604712,
+        "num": 604712,
+        "word": "长月烬明化妆师",
+        "onboard_time": 1681029148,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 534988,
+        "num": 534988,
+        "word": "曾可妮搂刘雅瑟脖子",
+        "onboard_time": 1681040666,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 568480,
+        "num": 527446,
+        "word": "长月烬明吃席了",
+        "onboard_time": 1681036045,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 503759,
+        "num": 503759,
+        "word": "EXO或将以LoveMeRight概念回归",
+        "onboard_time": 1681044149,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 866778,
+        "num": 503472,
+        "word": "警方通报男子驾车冲撞女子致3死7伤",
+        "onboard_time": 1681038565,
+        "rank": 7,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 502133,
+        "num": 502133,
+        "word": "绿币厕所",
+        "onboard_time": 1681038926,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241476,
+        "num": 492112,
+        "word": "苏翊鸣羽生结弦同框",
+        "onboard_time": 1681036947,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1279154,
+        "num": 468954,
+        "word": "时间夺走了杨洋的什么",
+        "onboard_time": 1681034425,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1272540,
+        "num": 446232,
+        "word": "王力宏霍建华林心如聚会",
+        "onboard_time": 1681043309,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 894398,
+        "num": 417855,
+        "word": "镇政府回应男子当街强吻踹飞女孩",
+        "onboard_time": 1681033465,
+        "rank": 12,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 412583,
+        "num": 412583,
+        "word": "当许杨玉琢被要联系方式",
+        "onboard_time": 1681041749,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 385227,
+        "num": 385227,
+        "word": "普宁",
+        "onboard_time": 1681043127,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388635,
+        "num": 361780,
+        "word": "长月烬明后期P掉了水管",
+        "onboard_time": 1681030405,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 327125,
+        "num": 327125,
+        "word": "拍写真建议大家找女摄",
+        "onboard_time": 1681022007,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 322347,
+        "num": 322347,
+        "word": "周雨彤 韩火火",
+        "onboard_time": 1681024648,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 297083,
+        "num": 297083,
+        "word": "游客吐槽甘孜一公厕需凭空瓶进入",
+        "onboard_time": 1681027584,
+        "rank": 18,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 124212,
+        "num": 296613,
+        "word": "我海军军舰与台舰目视距离5海里",
+        "onboard_time": 1681017148,
+        "rank": 19,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 471661,
+        "num": 295621,
+        "word": "王冰冰说一不小心和海虹撞了衫",
+        "onboard_time": 1681042105,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 403511,
+        "num": 295356,
+        "word": "过度超前消费有多可怕",
+        "onboard_time": 1681042226,
+        "rank": 21,
+        "category": "财经,社会议题"
+      },
+      {
+        "raw_hot": 367678,
+        "num": 294140,
+        "word": "阿姨用筷子蘸肉包馄饨几乎只有皮",
+        "onboard_time": 1681034546,
+        "rank": 22,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 350052,
+        "num": 293431,
+        "word": "肖战把水瓶摆正",
+        "onboard_time": 1681039165,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237281,
+        "num": 292626,
+        "word": "二等功喜报送到妻子工作的小学",
+        "onboard_time": 1681030525,
+        "rank": 24,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 292394,
+        "num": 292394,
+        "word": "看得出来长月的片场真的很冷",
+        "onboard_time": 1681038805,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 247446,
+        "num": 247446,
+        "word": "苏有朋留胡子了",
+        "onboard_time": 1681038025,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 255126,
+        "num": 245202,
+        "word": "白鹿蚌壳装土味应援桑酒",
+        "onboard_time": 1681041866,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 238436,
+        "num": 238436,
+        "word": "这是选秀里该出现的身材吗",
+        "onboard_time": 1681019246,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196938,
+        "num": 238377,
+        "word": "上海地铁回应2女子在车厢内薅头发",
+        "onboard_time": 1681035265,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238359,
+        "num": 238359,
+        "word": "江疏影抢工作室物料",
+        "onboard_time": 1681040906,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210434,
+        "num": 210434,
+        "word": "职场中文凭真的有那么重要吗",
+        "onboard_time": 1681042105,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 179974,
+        "num": 179974,
+        "word": "第一次见小猫坐月子",
+        "onboard_time": 1681031127,
+        "rank": 32,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 174387,
+        "num": 174387,
+        "word": "JDG挺进春决",
+        "onboard_time": 1681040486,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 158175,
+        "num": 158175,
+        "word": "肉糕打满五局",
+        "onboard_time": 1681043608,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 197483,
+        "num": 152612,
+        "word": "2023电影频道M榜荣誉名单",
+        "onboard_time": 1681043728,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 197444,
+        "num": 150297,
+        "word": "蔡卓妍张天爱合照",
+        "onboard_time": 1681040666,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193169,
+        "num": 148039,
+        "word": "吴磊收工日落随拍",
+        "onboard_time": 1681043788,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142408,
+        "num": 142408,
+        "word": "面包店赠试吃吐司块被顾客差评",
+        "onboard_time": 1681026866,
+        "rank": 38,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 132793,
+        "num": 132793,
+        "word": "丫丫正式移交中方",
+        "onboard_time": 1681012828,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176589,
+        "num": 132532,
+        "word": "易烊千玺透露将有音乐作品问世",
+        "onboard_time": 1681036286,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 160922,
+        "num": 132180,
+        "word": "李彩领你可是爱豆啊",
+        "onboard_time": 1681032205,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175579,
+        "num": 130821,
+        "word": "王祖蓝李亚男海豹式鼓掌",
+        "onboard_time": 1681042826,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 129270,
+        "num": 129270,
+        "word": "GEN夺冠",
+        "onboard_time": 1681035146,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 150979,
+        "num": 128445,
+        "word": "张婧仪一字肩绿色纱裙",
+        "onboard_time": 1681027886,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 117536,
+        "num": 117536,
+        "word": "被阿姨一句话气哭了",
+        "onboard_time": 1681032748,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 99927,
+        "num": 99927,
+        "word": "丫丫将由中美团队共同照料至月底",
+        "onboard_time": 1681022726,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95030,
+        "num": 95030,
+        "word": "T1四连亚",
+        "onboard_time": 1681037910,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 91451,
+        "num": 91451,
+        "word": "电子人会流下仿生泪吗",
+        "onboard_time": 1681033585,
+        "rank": 48,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 85973,
+        "num": 85973,
+        "word": "TTG对战Hero",
+        "onboard_time": 1681033644,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#开局加把劲#"
+    }
+  }
+}
