@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681054400658,
+  "endTime": 1681057279449,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -651,6 +651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2164948,
+      "num": 2164948,
+      "word": "李坤城去世",
+      "onboard_time": 1681052670,
+      "rank": 13,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 2140320,
       "num": 2140320,
       "word": "丫丫正式移交中方",
@@ -1025,14 +1033,6 @@
       "onboard_time": 1680788850,
       "rank": 10,
       "category": "艺人,幽默"
-    },
-    {
-      "raw_hot": 1668695,
-      "num": 1668695,
-      "word": "李坤城去世",
-      "onboard_time": 1681052670,
-      "rank": 13,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1660057,
@@ -3468,7 +3468,7 @@
     },
     {
       "raw_hot": 709363,
-      "num": 505035,
+      "num": 578390,
       "word": "贵州失联母子已平安找到",
       "onboard_time": 1681052131,
       "rank": 30,
@@ -5816,6 +5816,14 @@
       "word": "北京草莓音乐节阵容公布",
       "onboard_time": 1680774450,
       "rank": 18,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 466553,
+      "num": 466553,
+      "word": "五月天告五人合唱知足",
+      "onboard_time": 1681054531,
+      "rank": 6,
       "category": "音乐"
     },
     {
@@ -8747,6 +8755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 303361,
+      "num": 303361,
+      "word": "桑酒为救冥夜自愿献出仙髓",
+      "onboard_time": 1681052554,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 303342,
       "num": 303342,
       "word": "江疏影杨迪没有相爱只有相杀",
@@ -9489,6 +9505,14 @@
       "onboard_time": 1680597930,
       "rank": 24,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 278074,
+      "num": 278074,
+      "word": "四川气温热到全国第一",
+      "onboard_time": 1681053750,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 277957,
@@ -10835,6 +10859,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 238014,
+      "num": 238014,
+      "word": "第一份工作其实没那么重要",
+      "onboard_time": 1681053571,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 237956,
       "num": 237956,
       "word": "Amber小跑和黄晓明握手",
@@ -11971,14 +12003,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 213818,
-      "num": 213818,
-      "word": "桑酒为救冥夜自愿献出仙髓",
-      "onboard_time": 1681052554,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 213704,
       "num": 213704,
       "word": "南韩酵母",
@@ -12321,6 +12345,14 @@
       "onboard_time": 1680413910,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 208618,
+      "num": 208618,
+      "word": "金晨翻跳金智秀Flower",
+      "onboard_time": 1681055129,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 208549,
@@ -18795,6 +18827,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 135953,
+      "num": 135953,
+      "word": "日本坠机师团长曾妄议台湾问题",
+      "onboard_time": 1681056505,
+      "rank": 37,
+      "category": "军事"
+    },
+    {
       "raw_hot": 135873,
       "num": 135873,
       "word": "童瑶造型RCFA全球最佳红毯",
@@ -19241,6 +19281,14 @@
       "onboard_time": 1680742770,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 128347,
+      "num": 128946,
+      "word": "高诗岩13投1中",
+      "onboard_time": 1681053869,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 128275,
@@ -19907,14 +19955,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 115752,
-      "num": 128946,
-      "word": "高诗岩13投1中",
-      "onboard_time": 1681053869,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 115469,
       "num": 115469,
       "word": "杭州美食七大硬伤",
@@ -20233,14 +20273,6 @@
       "onboard_time": 1680561557,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 105701,
-      "num": 126573,
-      "word": "四川气温热到全国第一",
-      "onboard_time": 1681053750,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 105658,
@@ -20649,6 +20681,14 @@
       "onboard_time": 1680960570,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 95422,
+      "num": 95422,
+      "word": "利物浦vs阿森纳",
+      "onboard_time": 1681055067,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 95174,
