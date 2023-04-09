@@ -1,0 +1,410 @@
+{
+  "runTime": 1681003421508,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1824009,
+        "num": 1824009,
+        "word": "胃病转向胃癌有5个信号",
+        "onboard_time": 1680998963,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1218650,
+        "num": 1218650,
+        "word": "林俊杰买虚拟地产浮亏91%",
+        "onboard_time": 1681000224,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121542,
+        "num": 1054366,
+        "word": "这是现实版人在画中游",
+        "onboard_time": 1680962910,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 893134,
+        "num": 893134,
+        "word": "懒羊羊在第一季第十一集出门忘带羊角",
+        "onboard_time": 1680995057,
+        "rank": 3,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 583151,
+        "num": 583151,
+        "word": "因为镯子贴膜被同事嘲笑了",
+        "onboard_time": 1680958170,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 788941,
+        "num": 578764,
+        "word": "丫丫吃水果冰蛋糕",
+        "onboard_time": 1681000645,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 566775,
+        "num": 566775,
+        "word": "外卖小哥月入过万真的很容易吗",
+        "onboard_time": 1681000583,
+        "rank": 6,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 412861,
+        "num": 412861,
+        "word": "何炅说自己从来没让旅伴花过钱",
+        "onboard_time": 1680964472,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 456779,
+        "num": 409547,
+        "word": "孟菲斯动物园为丫丫举行送别活动",
+        "onboard_time": 1680997759,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 403142,
+        "num": 403142,
+        "word": "安乐传",
+        "onboard_time": 1680997640,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 380205,
+        "num": 380205,
+        "word": "樊振东",
+        "onboard_time": 1680999563,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 376916,
+        "num": 376916,
+        "word": "月薪多少才会让你感觉幸福",
+        "onboard_time": 1680964351,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 373581,
+        "num": 373581,
+        "word": "马克龙发文感谢广州",
+        "onboard_time": 1681002625,
+        "rank": 12,
+        "category": "国内要闻,社会新闻"
+      },
+      {
+        "raw_hot": 340790,
+        "num": 340790,
+        "word": "灰原哀内心独白",
+        "onboard_time": 1680998182,
+        "rank": 13,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 270592,
+        "num": 270592,
+        "word": "毛不易演唱会造福求婚的情侣",
+        "onboard_time": 1681000765,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 261741,
+        "num": 261741,
+        "word": "贾静雯的体重",
+        "onboard_time": 1681002986,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251563,
+        "num": 251563,
+        "word": "女子做实验硫酸蹭到脸上淡定冲水",
+        "onboard_time": 1680961710,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232767,
+        "num": 232767,
+        "word": "长月烬明预告",
+        "onboard_time": 1680996618,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 228431,
+        "num": 228431,
+        "word": "虞书欣自己化的水光妆",
+        "onboard_time": 1680966212,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211233,
+        "num": 211233,
+        "word": "一起祝贺这位同学考研成功上岸211大学",
+        "onboard_time": 1680959909,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 461357,
+        "num": 210246,
+        "word": "浙江富家子开保时捷碰瓷",
+        "onboard_time": 1681000946,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221428,
+        "num": 210120,
+        "word": "邢菲活动生图",
+        "onboard_time": 1681002509,
+        "rank": 21,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 208416,
+        "num": 208416,
+        "word": "生活中我们应该怎么保护自己的胃",
+        "onboard_time": 1681002686,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207586,
+        "num": 207586,
+        "word": "陈晓说我要是双星我就翻脸了",
+        "onboard_time": 1680967530,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199409,
+        "num": 199409,
+        "word": "陈翔夜市摆摊",
+        "onboard_time": 1680948388,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194327,
+        "num": 194327,
+        "word": "贝克汉姆回复王濛",
+        "onboard_time": 1680960991,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186570,
+        "num": 186570,
+        "word": "巴尔韦德打人",
+        "onboard_time": 1681002147,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183733,
+        "num": 183733,
+        "word": "胡歌问虚拟人没电了怎么办",
+        "onboard_time": 1680973879,
+        "rank": 27,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 182754,
+        "num": 182754,
+        "word": "新冠病毒可能来源于人类",
+        "onboard_time": 1680946587,
+        "rank": 28,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 173741,
+        "num": 173741,
+        "word": "中小学生有必要穿校服吗",
+        "onboard_time": 1680960448,
+        "rank": 29,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 195402,
+        "num": 168618,
+        "word": "你觉得工资越高越幸福吗",
+        "onboard_time": 1681003108,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 162837,
+        "num": 162837,
+        "word": "电视剧品质盛典",
+        "onboard_time": 1680999684,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 162427,
+        "num": 162427,
+        "word": "四川一骑手背枪上路吓坏路人",
+        "onboard_time": 1680994396,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156654,
+        "num": 156654,
+        "word": "EXO见面会",
+        "onboard_time": 1680995357,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147587,
+        "num": 147587,
+        "word": "这个表演在整个教育界都是相当炸裂的",
+        "onboard_time": 1680999442,
+        "rank": 34,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 140160,
+        "num": 140160,
+        "word": "让你松弛下来的20件小事",
+        "onboard_time": 1680995777,
+        "rank": 35,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 137397,
+        "num": 137397,
+        "word": "气胸",
+        "onboard_time": 1680958049,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 134213,
+        "num": 134213,
+        "word": "哈兰德倒钩",
+        "onboard_time": 1680996198,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132297,
+        "num": 132297,
+        "word": "长月烬明陈都灵邓为戏份",
+        "onboard_time": 1680963870,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 124521,
+        "num": 124521,
+        "word": "李荣浩演唱会",
+        "onboard_time": 1680997159,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 108582,
+        "num": 108582,
+        "word": "哈妹一惊一乍是薛佳凝设计的",
+        "onboard_time": 1680959311,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 107288,
+        "num": 107288,
+        "word": "黑铁的鱼影",
+        "onboard_time": 1680999083,
+        "rank": 41,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 106818,
+        "num": 106818,
+        "word": "单依纯分享睡觉秘诀",
+        "onboard_time": 1681002327,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102627,
+        "num": 102627,
+        "word": "澹台烬叶夕雾异地恋",
+        "onboard_time": 1680963448,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 101995,
+        "num": 101995,
+        "word": "别太信任猫了",
+        "onboard_time": 1680963630,
+        "rank": 44,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 99835,
+        "num": 99835,
+        "word": "林一跳爱你",
+        "onboard_time": 1681001545,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 99272,
+        "num": 99272,
+        "word": "王鹤棣 白鹤亮翅",
+        "onboard_time": 1681003406,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 95174,
+        "num": 95174,
+        "word": "辅警白堤狂奔1公里为救护车开道",
+        "onboard_time": 1681001784,
+        "rank": 47,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 91331,
+        "num": 91331,
+        "word": "梁博现场",
+        "onboard_time": 1680959130,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 65098,
+        "num": 89450,
+        "word": "实探天门山涉事玻璃栈道恢复正常",
+        "onboard_time": 1680961350,
+        "rank": 49,
+        "category": "旅游,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#春耕农忙正当时#"
+    }
+  }
+}

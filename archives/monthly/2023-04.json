@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1680996810626,
+  "endTime": 1681003421508,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -883,6 +883,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1824009,
+      "num": 1824009,
+      "word": "胃病转向胃癌有5个信号",
+      "onboard_time": 1680998963,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1798645,
       "num": 1798645,
       "word": "陈某龙故意散布谣言被依法行拘",
@@ -1496,6 +1504,14 @@
       "word": "李亚玲道歉声明",
       "onboard_time": 1680323190,
       "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1218650,
+      "num": 1218650,
+      "word": "林俊杰买虚拟地产浮亏91%",
+      "onboard_time": 1681000224,
+      "rank": 1,
       "category": "艺人"
     },
     {
@@ -2227,6 +2243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 893134,
+      "num": 893134,
+      "word": "懒羊羊在第一季第十一集出门忘带羊角",
+      "onboard_time": 1680995057,
+      "rank": 12,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 891877,
       "num": 891877,
       "word": "现在的衣服尺码",
@@ -2745,6 +2769,14 @@
       "onboard_time": 1680940527,
       "rank": 8,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 788941,
+      "num": 578764,
+      "word": "丫丫吃水果冰蛋糕",
+      "onboard_time": 1681000645,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 786782,
@@ -4123,6 +4155,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 566775,
+      "num": 566775,
+      "word": "外卖小哥月入过万真的很容易吗",
+      "onboard_time": 1681000583,
+      "rank": 6,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 565997,
       "num": 565997,
       "word": "宝马女司机醉驾撞人拖行案下周开庭",
@@ -4465,14 +4505,6 @@
       "onboard_time": 1680584074,
       "rank": 17,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 535180,
-      "num": 196200,
-      "word": "懒羊羊在第一季第十一集出门忘带羊角",
-      "onboard_time": 1680995057,
-      "rank": 12,
-      "category": "动漫"
     },
     {
       "raw_hot": 532727,
@@ -5283,6 +5315,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 461357,
+      "num": 210246,
+      "word": "浙江富家子开保时捷碰瓷",
+      "onboard_time": 1681000946,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 460892,
       "num": 460892,
       "word": "王刚回应清空社交账号",
@@ -5328,6 +5368,14 @@
       "word": "90岁游本昌对年轻演员说你们好幸福",
       "onboard_time": 1680958588,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 456779,
+      "num": 409547,
+      "word": "孟菲斯动物园为丫丫举行送别活动",
+      "onboard_time": 1680997759,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -6059,6 +6107,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 403142,
+      "num": 403142,
+      "word": "安乐传",
+      "onboard_time": 1680997640,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 402762,
       "num": 400726,
       "word": "乐华七子会解散吗",
@@ -6505,6 +6561,14 @@
       "onboard_time": 1680928467,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 373581,
+      "num": 373581,
+      "word": "马克龙发文感谢广州",
+      "onboard_time": 1681002625,
+      "rank": 12,
+      "category": "国内要闻,社会新闻"
     },
     {
       "raw_hot": 373383,
@@ -7145,6 +7209,14 @@
       "onboard_time": 1680671373,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 340790,
+      "num": 340790,
+      "word": "灰原哀内心独白",
+      "onboard_time": 1680998182,
+      "rank": 13,
+      "category": "动漫"
     },
     {
       "raw_hot": 340498,
@@ -8739,6 +8811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 270592,
+      "num": 270592,
+      "word": "毛不易演唱会造福求婚的情侣",
+      "onboard_time": 1681000765,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 270587,
       "num": 244799,
       "word": "爱情而已表演式婚姻太窒息",
@@ -8937,6 +9017,14 @@
       "onboard_time": 1680496777,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 261741,
+      "num": 261741,
+      "word": "贾静雯的体重",
+      "onboard_time": 1681002986,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 261191,
@@ -9907,6 +9995,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 232767,
+      "num": 232767,
+      "word": "长月烬明预告",
+      "onboard_time": 1680996618,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 232490,
       "num": 232490,
       "word": "罗云熙回应十二神冥夜穿得最多",
@@ -10385,6 +10481,14 @@
       "onboard_time": 1680931586,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 221428,
+      "num": 210120,
+      "word": "邢菲活动生图",
+      "onboard_time": 1681002509,
+      "rank": 21,
+      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 221257,
@@ -11097,6 +11201,14 @@
       "onboard_time": 1680945265,
       "rank": 32,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 208416,
+      "num": 208416,
+      "word": "生活中我们应该怎么保护自己的胃",
+      "onboard_time": 1681002686,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 208300,
@@ -12811,6 +12923,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 195402,
+      "num": 168618,
+      "word": "你觉得工资越高越幸福吗",
+      "onboard_time": 1681003108,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 195375,
       "num": 195375,
       "word": "全国校园音乐大赛音乐合伙人官宣",
@@ -13779,6 +13899,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 186570,
+      "num": 186570,
+      "word": "巴尔韦德打人",
+      "onboard_time": 1681002147,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 186516,
       "num": 186516,
       "word": "品如剧本",
@@ -14025,6 +14153,14 @@
       "onboard_time": 1680431126,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 183733,
+      "num": 183733,
+      "word": "胡歌问虚拟人没电了怎么办",
+      "onboard_time": 1680973879,
+      "rank": 44,
+      "category": "影视,幽默"
     },
     {
       "raw_hot": 183724,
@@ -15347,6 +15483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 162837,
+      "num": 162837,
+      "word": "电视剧品质盛典",
+      "onboard_time": 1680999684,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 162590,
       "num": 162590,
       "word": "陈小纭说和彭冠英第一次见面是在厕所",
@@ -15665,6 +15809,14 @@
       "onboard_time": 1680915146,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 156654,
+      "num": 156654,
+      "word": "EXO见面会",
+      "onboard_time": 1680995357,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 156286,
@@ -16203,20 +16355,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 148385,
-      "num": 148385,
-      "word": "EXO见面会",
-      "onboard_time": 1680995357,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 148052,
       "num": 148052,
       "word": "第十三届北影节天坛奖评委会阵容",
       "onboard_time": 1680931886,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 147587,
+      "num": 147587,
+      "word": "这个表演在整个教育界都是相当炸裂的",
+      "onboard_time": 1680999442,
+      "rank": 34,
+      "category": "幽默,教育"
     },
     {
       "raw_hot": 147394,
@@ -16233,14 +16385,6 @@
       "onboard_time": 1680401367,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 147342,
-      "num": 147342,
-      "word": "胡歌问虚拟人没电了怎么办",
-      "onboard_time": 1680973879,
-      "rank": 44,
-      "category": "影视,幽默"
     },
     {
       "raw_hot": 147227,
@@ -16627,6 +16771,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 140160,
+      "num": 140160,
+      "word": "让你松弛下来的20件小事",
+      "onboard_time": 1680995777,
+      "rank": 30,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 140025,
       "num": 140025,
       "word": "爱情而已全员助攻",
@@ -16931,14 +17083,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 135336,
-      "num": 82253,
-      "word": "让你松弛下来的20件小事",
-      "onboard_time": 1680995777,
-      "rank": 30,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 135295,
       "num": 135295,
       "word": "接住春天的小朋友",
@@ -16985,6 +17129,14 @@
       "onboard_time": 1680406288,
       "rank": 35,
       "category": "艺人,音乐"
+    },
+    {
+      "raw_hot": 134213,
+      "num": 134213,
+      "word": "哈兰德倒钩",
+      "onboard_time": 1680996198,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 133936,
@@ -17497,6 +17649,14 @@
       "onboard_time": 1680925348,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124521,
+      "num": 124521,
+      "word": "李荣浩演唱会",
+      "onboard_time": 1680997159,
+      "rank": 39,
+      "category": "音乐"
     },
     {
       "raw_hot": 124269,
@@ -18131,6 +18291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107288,
+      "num": 107288,
+      "word": "黑铁的鱼影",
+      "onboard_time": 1680999083,
+      "rank": 41,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 107095,
       "num": 107095,
       "word": "谁说未央露娜不行",
@@ -18145,6 +18313,14 @@
       "onboard_time": 1680406106,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 106818,
+      "num": 106818,
+      "word": "单依纯分享睡觉秘诀",
+      "onboard_time": 1681002327,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 106410,
@@ -18411,6 +18587,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 99835,
+      "num": 99835,
+      "word": "林一跳爱你",
+      "onboard_time": 1681001545,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 99815,
       "num": 99815,
       "word": "妖刀是队霸吧",
@@ -18441,6 +18625,14 @@
       "onboard_time": 1680261627,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 99272,
+      "num": 99272,
+      "word": "王鹤棣 白鹤亮翅",
+      "onboard_time": 1681003406,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 99145,
@@ -18521,6 +18713,14 @@
       "onboard_time": 1680960570,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 95174,
+      "num": 95174,
+      "word": "辅警白堤狂奔1公里为救护车开道",
+      "onboard_time": 1681001784,
+      "rank": 47,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 95149,
@@ -18747,14 +18947,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 82254,
-      "num": 82254,
-      "word": "哈兰德倒钩",
-      "onboard_time": 1680996198,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 82186,
       "num": 82186,
       "word": "朋友借钱你会给吗",
@@ -18793,14 +18985,6 @@
       "onboard_time": 1680598830,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 77716,
-      "num": 77716,
-      "word": "长月烬明预告",
-      "onboard_time": 1680996618,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 76745,
