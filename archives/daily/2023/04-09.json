@@ -1,10 +1,10 @@
 {
   "startTime": 1680970864988,
-  "endTime": 1681014009494,
+  "endTime": 1681014810632,
   "band_list": [
     {
-      "raw_hot": 1909674,
-      "num": 1909674,
+      "raw_hot": 2140320,
+      "num": 2140320,
       "word": "丫丫正式移交中方",
       "onboard_time": 1681012828,
       "rank": 0,
@@ -27,6 +27,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1287647,
+      "num": 357545,
+      "word": "前助理评价李现",
+      "onboard_time": 1681011869,
+      "rank": 10,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 1218650,
       "num": 1218650,
       "word": "林俊杰买虚拟地产浮亏91%",
@@ -41,14 +49,6 @@
       "onboard_time": 1680964472,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1102523,
-      "num": 357545,
-      "word": "前助理评价李现",
-      "onboard_time": 1681011869,
-      "rank": 10,
-      "category": "艺人,幽默"
     },
     {
       "raw_hot": 1029327,
@@ -107,8 +107,16 @@
       "category": "情感"
     },
     {
+      "raw_hot": 771831,
+      "num": 771831,
+      "word": "95后男生国企辞职和妻子收废品",
+      "onboard_time": 1681012049,
+      "rank": 4,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 695181,
-      "num": 204584,
+      "num": 244727,
       "word": "25岁以上就不用订闹钟了",
       "onboard_time": 1681009587,
       "rank": 30,
@@ -131,14 +139,6 @@
       "category": "国内要闻,社会新闻"
     },
     {
-      "raw_hot": 672189,
-      "num": 672189,
-      "word": "95后男生国企辞职和妻子收废品",
-      "onboard_time": 1681012049,
-      "rank": 4,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 668117,
       "num": 668117,
       "word": "被闹钟惊醒对身体危害大",
@@ -155,8 +155,8 @@
       "category": "作品衍生,幽默"
     },
     {
-      "raw_hot": 617427,
-      "num": 617427,
+      "raw_hot": 654093,
+      "num": 654093,
       "word": "吴磊杭州",
       "onboard_time": 1681011266,
       "rank": 5,
@@ -177,6 +177,14 @@
       "onboard_time": 1680948388,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 595149,
+      "num": 595149,
+      "word": "法新社",
+      "onboard_time": 1681011808,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 579317,
@@ -211,14 +219,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 529377,
-      "num": 529377,
-      "word": "法新社",
-      "onboard_time": 1681011808,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 523725,
       "num": 523725,
       "word": "新冠病毒可能来源于人类",
@@ -244,7 +244,7 @@
     },
     {
       "raw_hot": 467909,
-      "num": 204381,
+      "num": 243190,
       "word": "王一博擦飞机",
       "onboard_time": 1681012350,
       "rank": 21,
@@ -387,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 316428,
+      "num": 242597,
+      "word": "芭乐椰椰爽",
+      "onboard_time": 1681013008,
+      "rank": 22,
+      "category": "美食"
+    },
+    {
       "raw_hot": 315862,
       "num": 315862,
       "word": "你我皆是高加林",
@@ -403,20 +411,20 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 299409,
+      "num": 299409,
+      "word": "张颂文散文登贵州省一模试卷",
+      "onboard_time": 1681011989,
+      "rank": 17,
+      "category": "教育,艺人"
+    },
+    {
       "raw_hot": 281860,
       "num": 281860,
       "word": "中小学生有必要穿校服吗",
       "onboard_time": 1680960448,
       "rank": 16,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 276752,
-      "num": 276752,
-      "word": "张颂文散文登贵州省一模试卷",
-      "onboard_time": 1681011989,
-      "rank": 17,
-      "category": "教育,艺人"
     },
     {
       "raw_hot": 270592,
@@ -451,12 +459,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 256317,
+      "num": 256317,
+      "word": "宋祖儿编辑记录",
+      "onboard_time": 1681014329,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 240949,
       "num": 240949,
       "word": "浙大一个走廊被紫藤花淹没",
       "onboard_time": 1681004126,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 237767,
+      "num": 237767,
+      "word": "艾伦沈腾新电影定档",
+      "onboard_time": 1681014026,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 233370,
@@ -595,12 +619,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 207157,
-      "num": 204284,
-      "word": "芭乐椰椰爽",
-      "onboard_time": 1681013008,
-      "rank": 22,
-      "category": "美食"
+      "raw_hot": 207765,
+      "num": 207765,
+      "word": "刘耀文是不是把严浩翔伞拿走了",
+      "onboard_time": 1681014089,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 205072,
@@ -644,7 +668,7 @@
     },
     {
       "raw_hot": 195403,
-      "num": 162751,
+      "num": 193012,
       "word": "白鹿晒桑酒花絮照",
       "onboard_time": 1681013909,
       "rank": 30,
@@ -673,6 +697,14 @@
       "onboard_time": 1680963630,
       "rank": 23,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 186069,
+      "num": 186069,
+      "word": "周雨彤面对误解的态度",
+      "onboard_time": 1681014568,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 184714,
@@ -843,6 +875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 142980,
+      "num": 142980,
+      "word": "医院回应2老人长住等候椅",
+      "onboard_time": 1681013850,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140890,
       "num": 127856,
       "word": "长月烬明第十一集预告",
@@ -987,6 +1027,14 @@
       "category": "社会新闻,军事"
     },
     {
+      "raw_hot": 123054,
+      "num": 901789,
+      "word": "中国航天员在太空划船什么样",
+      "onboard_time": 1681010547,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 119314,
       "num": 119314,
       "word": "ppgod",
@@ -1009,14 +1057,6 @@
       "onboard_time": 1680974418,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 109288,
-      "num": 901789,
-      "word": "中国航天员在太空划船什么样",
-      "onboard_time": 1681010547,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 107416,
