@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681071425982,
+  "endTime": 1681072411577,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -21587,20 +21587,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 22949,
+      "num": 22949,
+      "word": "原神",
+      "onboard_time": 1681069931,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 21657,
       "num": 22877,
       "word": "朴智旻宫胁咲良中村一叶舞蹈挑战",
       "onboard_time": 1680384373,
       "rank": 47,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 20729,
-      "num": 20729,
-      "word": "原神",
-      "onboard_time": 1681069931,
-      "rank": 18,
-      "category": "游戏"
     },
     {
       "raw_hot": 20448,
@@ -21627,8 +21627,8 @@
       "category": "社会议题"
     },
     {
-      "raw_hot": 17860,
-      "num": 17860,
+      "raw_hot": 19359,
+      "num": 18816,
       "word": "看得出来她是真的喜欢讲话",
       "onboard_time": 1681066814,
       "rank": 49,
