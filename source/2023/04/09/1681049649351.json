@@ -1,0 +1,410 @@
+{
+  "runTime": 1681049649351,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1454992,
+        "num": 1454992,
+        "word": "陈梦",
+        "onboard_time": 1681046009,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 939055,
+        "num": 939055,
+        "word": "长月烬明化妆师",
+        "onboard_time": 1681029148,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187795,
+        "num": 795517,
+        "word": "这些旅游专列已发车",
+        "onboard_time": 1681042525,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1182019,
+        "num": 788815,
+        "word": "张杰女儿的奖励",
+        "onboard_time": 1681044809,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 772007,
+        "num": 772007,
+        "word": "官方回应男子骂剖腹产妻子她疼她死",
+        "onboard_time": 1681047569,
+        "rank": 4,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 601616,
+        "num": 601616,
+        "word": "长月烬明",
+        "onboard_time": 1681045826,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 493191,
+        "num": 493191,
+        "word": "刘宇宁直播",
+        "onboard_time": 1681046187,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 379000,
+        "num": 379000,
+        "word": "吴京张译领奖比心",
+        "onboard_time": 1681048769,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 364071,
+        "num": 364071,
+        "word": "懒人吹发头神器",
+        "onboard_time": 1681046968,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 182212,
+        "num": 363421,
+        "word": "CBA季后赛",
+        "onboard_time": 1681045768,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1688506,
+        "num": 362021,
+        "word": "王力宏霍建华林心如聚会",
+        "onboard_time": 1681043309,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1076012,
+        "num": 359578,
+        "word": "宣璐发缝",
+        "onboard_time": 1681047812,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 378279,
+        "num": 358440,
+        "word": "燃烧的巴黎圣母院",
+        "onboard_time": 1681037784,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 785110,
+        "num": 357235,
+        "word": "镇政府回应男子当街强吻踹飞女孩",
+        "onboard_time": 1681033465,
+        "rank": 13,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 318588,
+        "num": 354904,
+        "word": "游客吐槽甘孜一公厕需凭空瓶进入",
+        "onboard_time": 1681027584,
+        "rank": 14,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 659183,
+        "num": 353568,
+        "word": "时间夺走了杨洋的什么",
+        "onboard_time": 1681034425,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 466517,
+        "num": 352236,
+        "word": "EXO或将以LoveMeRight概念回归",
+        "onboard_time": 1681044149,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 386536,
+        "num": 350650,
+        "word": "警方通报男子驾车冲撞女子致3死7伤",
+        "onboard_time": 1681038565,
+        "rank": 17,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 369325,
+        "num": 348502,
+        "word": "极限挑战",
+        "onboard_time": 1681047391,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200869,
+        "num": 347021,
+        "word": "陈梦晋级冠军赛16强",
+        "onboard_time": 1681047028,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 502712,
+        "num": 345005,
+        "word": "过度超前消费有多可怕",
+        "onboard_time": 1681042226,
+        "rank": 20,
+        "category": "财经,社会议题"
+      },
+      {
+        "raw_hot": 426194,
+        "num": 343883,
+        "word": "白鹿桑酒妆造",
+        "onboard_time": 1681046729,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 342338,
+        "num": 342338,
+        "word": "阿姨用筷子蘸肉包馄饨几乎只有皮",
+        "onboard_time": 1681034546,
+        "rank": 22,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 292047,
+        "num": 330127,
+        "word": "论文很烂但致谢被老师夸了",
+        "onboard_time": 1681048411,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 221648,
+        "num": 321626,
+        "word": "马龙vs卡尔伯格",
+        "onboard_time": 1681049312,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 248265,
+        "num": 321066,
+        "word": "EDG醒醒",
+        "onboard_time": 1681040125,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 320825,
+        "num": 320825,
+        "word": "王冰冰说一不小心和海虹撞了衫",
+        "onboard_time": 1681042105,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 306794,
+        "num": 306794,
+        "word": "Lisa日巡新发色",
+        "onboard_time": 1681049191,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 207574,
+        "num": 293503,
+        "word": "上海地铁回应2女子在车厢内薅头发",
+        "onboard_time": 1681035265,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167476,
+        "num": 293209,
+        "word": "二等功喜报送到妻子工作的小学",
+        "onboard_time": 1681030525,
+        "rank": 29,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 293206,
+        "num": 293206,
+        "word": "肖战把水瓶摆正",
+        "onboard_time": 1681039165,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278795,
+        "num": 278795,
+        "word": "长月烬明吃席了",
+        "onboard_time": 1681036045,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 219100,
+        "num": 219100,
+        "word": "易烊千玺M榜年度影响力演员",
+        "onboard_time": 1681048530,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 218380,
+        "num": 218380,
+        "word": "汪苏泷音乐节",
+        "onboard_time": 1681049130,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 198376,
+        "num": 216055,
+        "word": "拍写真建议大家找女摄",
+        "onboard_time": 1681022007,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 215977,
+        "num": 215977,
+        "word": "当许杨玉琢被要联系方式",
+        "onboard_time": 1681041749,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215745,
+        "num": 215745,
+        "word": "长月烬明后期P掉了水管",
+        "onboard_time": 1681030405,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 195282,
+        "num": 195282,
+        "word": "王栎鑫问苏醒还能活几集",
+        "onboard_time": 1681045950,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166075,
+        "num": 190408,
+        "word": "崔永熙隔扣",
+        "onboard_time": 1681047751,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165131,
+        "num": 187547,
+        "word": "光明正大薅熊猫毛的乌鸦",
+        "onboard_time": 1681048112,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 187429,
+        "num": 187429,
+        "word": "周雨彤 韩火火",
+        "onboard_time": 1681024648,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136047,
+        "num": 185652,
+        "word": "山东男篮vs广州男篮",
+        "onboard_time": 1681047990,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185551,
+        "num": 185551,
+        "word": "苏有朋留胡子了",
+        "onboard_time": 1681038025,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176323,
+        "num": 176323,
+        "word": "曾可妮搂刘雅瑟脖子",
+        "onboard_time": 1681040666,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154318,
+        "num": 154318,
+        "word": "蔡徐坤在欧洲录歌",
+        "onboard_time": 1681048228,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 149033,
+        "num": 149033,
+        "word": "第一次见小猫坐月子",
+        "onboard_time": 1681031127,
+        "rank": 45,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 134102,
+        "num": 134102,
+        "word": "有这样的老师天天都不舍得下课",
+        "onboard_time": 1681045226,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 125365,
+        "num": 125365,
+        "word": "马龙",
+        "onboard_time": 1681049553,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119085,
+        "num": 119085,
+        "word": "绿币厕所",
+        "onboard_time": 1681038926,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118323,
+        "num": 118323,
+        "word": "TTG战胜Hero",
+        "onboard_time": 1681045289,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#开局加把劲#"
+    }
+  }
+}

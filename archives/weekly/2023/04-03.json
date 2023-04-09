@@ -1,6 +1,6 @@
 {
   "startTime": 1680452464197,
-  "endTime": 1681047202123,
+  "endTime": 1681049649351,
   "band_list": [
     {
       "raw_hot": 9506486,
@@ -868,7 +868,7 @@
     },
     {
       "raw_hot": 1704505,
-      "num": 634469,
+      "num": 788815,
       "word": "张杰女儿的奖励",
       "onboard_time": 1681044809,
       "rank": 3,
@@ -1137,6 +1137,14 @@
       "onboard_time": 1680859588,
       "rank": 36,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1454992,
+      "num": 1454992,
+      "word": "陈梦",
+      "onboard_time": 1681046009,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 1449363,
@@ -1675,6 +1683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1076012,
+      "num": 359578,
+      "word": "宣璐发缝",
+      "onboard_time": 1681047812,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1075445,
       "num": 1075445,
       "word": "孙策胸肌",
@@ -1697,14 +1713,6 @@
       "onboard_time": 1680494072,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1060401,
-      "num": 1060401,
-      "word": "陈梦",
-      "onboard_time": 1681046009,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 1051810,
@@ -2617,6 +2625,14 @@
       "onboard_time": 1680790533,
       "rank": 18,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 772007,
+      "num": 772007,
+      "word": "官方回应男子骂剖腹产妻子她疼她死",
+      "onboard_time": 1681047569,
+      "rank": 4,
+      "category": "社会负面"
     },
     {
       "raw_hot": 771505,
@@ -3604,7 +3620,7 @@
     },
     {
       "raw_hot": 595251,
-      "num": 296777,
+      "num": 342338,
       "word": "阿姨用筷子蘸肉包馄饨几乎只有皮",
       "onboard_time": 1681034546,
       "rank": 31,
@@ -3892,7 +3908,7 @@
     },
     {
       "raw_hot": 555516,
-      "num": 301052,
+      "num": 345005,
       "word": "过度超前消费有多可怕",
       "onboard_time": 1681042226,
       "rank": 24,
@@ -4428,7 +4444,7 @@
     },
     {
       "raw_hot": 498580,
-      "num": 298541,
+      "num": 320825,
       "word": "王冰冰说一不小心和海虹撞了衫",
       "onboard_time": 1681042105,
       "rank": 20,
@@ -4457,6 +4473,14 @@
       "onboard_time": 1680689374,
       "rank": 25,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 493191,
+      "num": 493191,
+      "word": "刘宇宁直播",
+      "onboard_time": 1681046187,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 492586,
@@ -4556,7 +4580,7 @@
     },
     {
       "raw_hot": 486556,
-      "num": 292626,
+      "num": 293209,
       "word": "二等功喜报送到妻子工作的小学",
       "onboard_time": 1681030525,
       "rank": 21,
@@ -5144,6 +5168,14 @@
       "word": "哈妹一惊一乍是薛佳凝设计的",
       "onboard_time": 1680959311,
       "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 426194,
+      "num": 343883,
+      "word": "白鹿桑酒妆造",
+      "onboard_time": 1681046729,
+      "rank": 23,
       "category": "影视"
     },
     {
@@ -5835,6 +5867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 379000,
+      "num": 379000,
+      "word": "吴京张译领奖比心",
+      "onboard_time": 1681048769,
+      "rank": 7,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 378902,
       "num": 378902,
       "word": "招惹",
@@ -5931,6 +5971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 369325,
+      "num": 348502,
+      "word": "极限挑战",
+      "onboard_time": 1681047391,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 368209,
       "num": 328203,
       "word": "陈延年陈乔年墓旁的桃花开了",
@@ -5993,6 +6041,14 @@
       "onboard_time": 1680694711,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 364071,
+      "num": 364071,
+      "word": "懒人吹发头神器",
+      "onboard_time": 1681046968,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 363085,
@@ -6284,7 +6340,7 @@
     },
     {
       "raw_hot": 346543,
-      "num": 260819,
+      "num": 293503,
       "word": "上海地铁回应2女子在车厢内薅头发",
       "onboard_time": 1681035265,
       "rank": 47,
@@ -6369,14 +6425,6 @@
       "onboard_time": 1680443800,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 343674,
-      "num": 293987,
-      "word": "白鹿桑酒妆造",
-      "onboard_time": 1681046729,
-      "rank": 23,
-      "category": "影视"
     },
     {
       "raw_hot": 343503,
@@ -7019,6 +7067,14 @@
       "category": "教育,艺人"
     },
     {
+      "raw_hot": 306794,
+      "num": 306794,
+      "word": "Lisa日巡新发色",
+      "onboard_time": 1681049191,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 306143,
       "num": 306143,
       "word": "天蝎座的冷酷其实都是装的",
@@ -7313,6 +7369,14 @@
       "onboard_time": 1680861868,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 292047,
+      "num": 330127,
+      "word": "论文很烂但致谢被老师夸了",
+      "onboard_time": 1681048411,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 291954,
@@ -8563,14 +8627,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 244197,
-      "num": 204805,
-      "word": "刘宇宁直播",
-      "onboard_time": 1681046187,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 243649,
       "num": 243649,
       "word": "周雨彤为演戏去公司坐班",
@@ -9323,6 +9379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 221648,
+      "num": 321626,
+      "word": "马龙vs卡尔伯格",
+      "onboard_time": 1681049312,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 221632,
       "num": 197347,
       "word": "李雪琴开场秀",
@@ -9451,6 +9515,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 219100,
+      "num": 219100,
+      "word": "易烊千玺M榜年度影响力演员",
+      "onboard_time": 1681048530,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 219003,
       "num": 219003,
       "word": "昆明的绿化带",
@@ -9481,6 +9553,14 @@
       "onboard_time": 1680683551,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 218380,
+      "num": 218380,
+      "word": "汪苏泷音乐节",
+      "onboard_time": 1681049130,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 218340,
@@ -10915,6 +10995,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 200869,
+      "num": 347021,
+      "word": "陈梦晋级冠军赛16强",
+      "onboard_time": 1681047028,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 200812,
       "num": 198601,
       "word": "孙千说电影院见",
@@ -11483,6 +11571,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 195282,
+      "num": 195282,
+      "word": "王栎鑫问苏醒还能活几集",
+      "onboard_time": 1681045950,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 195244,
       "num": 195244,
       "word": "刘嘉玲晒与彭于晏合照",
@@ -11843,14 +11939,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 191687,
-      "num": 191687,
-      "word": "王栎鑫问苏醒还能活几集",
-      "onboard_time": 1681045950,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 191649,
       "num": 152373,
       "word": "罗云熙问破万发什么福利",
@@ -12132,7 +12220,7 @@
     },
     {
       "raw_hot": 188963,
-      "num": 307300,
+      "num": 363421,
       "word": "CBA季后赛",
       "onboard_time": 1681045768,
       "rank": 24,
@@ -13467,6 +13555,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 166075,
+      "num": 190408,
+      "word": "崔永熙隔扣",
+      "onboard_time": 1681047751,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 165959,
       "num": 165959,
       "word": "澹台烬不被爱的前半生",
@@ -13521,6 +13617,14 @@
       "onboard_time": 1680670351,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 165131,
+      "num": 187547,
+      "word": "光明正大薅熊猫毛的乌鸦",
+      "onboard_time": 1681048112,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 165013,
@@ -14025,6 +14129,14 @@
       "onboard_time": 1681026988,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 154318,
+      "num": 154318,
+      "word": "蔡徐坤在欧洲录歌",
+      "onboard_time": 1681048228,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 154214,
@@ -14611,14 +14723,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 140657,
-      "num": 176831,
-      "word": "陈梦晋级冠军赛16强",
-      "onboard_time": 1681047028,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 140627,
       "num": 140627,
       "word": "见过最厉害的放风筝技术",
@@ -14841,6 +14945,14 @@
       "onboard_time": 1680653303,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 136047,
+      "num": 185652,
+      "word": "山东男篮vs广州男篮",
+      "onboard_time": 1681047990,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 135993,
@@ -15281,6 +15393,14 @@
       "onboard_time": 1680685409,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 125365,
+      "num": 125365,
+      "word": "马龙",
+      "onboard_time": 1681049553,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 125333,
@@ -16001,14 +16121,6 @@
       "onboard_time": 1681001545,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 99820,
-      "num": 147612,
-      "word": "懒人吹发头神器",
-      "onboard_time": 1681046968,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 99466,
