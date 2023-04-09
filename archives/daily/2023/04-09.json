@@ -1,6 +1,6 @@
 {
   "startTime": 1680970864988,
-  "endTime": 1681007578292,
+  "endTime": 1681008132344,
   "band_list": [
     {
       "raw_hot": 1824009,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1029327,
-      "num": 444559,
+      "num": 460233,
       "word": "贾静雯的体重",
       "onboard_time": 1681002986,
       "rank": 15,
@@ -67,8 +67,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 778128,
-      "num": 778128,
+      "raw_hot": 834918,
+      "num": 834918,
       "word": "你觉得工资越高越幸福吗",
       "onboard_time": 1681003108,
       "rank": 30,
@@ -91,20 +91,20 @@
       "category": "国内要闻,社会新闻"
     },
     {
+      "raw_hot": 656794,
+      "num": 656794,
+      "word": "罗云熙下海动图",
+      "onboard_time": 1681005025,
+      "rank": 4,
+      "category": "作品衍生,幽默"
+    },
+    {
       "raw_hot": 612781,
       "num": 612781,
       "word": "外卖小哥月入过万真的很容易吗",
       "onboard_time": 1681000583,
       "rank": 6,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 612107,
-      "num": 612107,
-      "word": "罗云熙下海动图",
-      "onboard_time": 1681005025,
-      "rank": 4,
-      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 608017,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 579317,
-      "num": 433130,
+      "num": 441319,
       "word": "原来胃是这样被弄坏的",
       "onboard_time": 1681005625,
       "rank": 11,
@@ -131,20 +131,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 551938,
+      "num": 551938,
+      "word": "再就业男团红到什么水平了",
+      "onboard_time": 1681004007,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 546078,
       "num": 546078,
       "word": "陈晓说我要是双星我就翻脸了",
       "onboard_time": 1680967530,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 545744,
-      "num": 545744,
-      "word": "再就业男团红到什么水平了",
-      "onboard_time": 1681004007,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 523725,
@@ -163,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 503061,
+      "num": 503061,
+      "word": "被闹钟惊醒对身体危害大",
+      "onboard_time": 1681005748,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 483983,
       "num": 483983,
       "word": "气胸",
@@ -172,7 +180,7 @@
     },
     {
       "raw_hot": 461357,
-      "num": 249421,
+      "num": 258707,
       "word": "浙江富家子开保时捷碰瓷",
       "onboard_time": 1681000946,
       "rank": 20,
@@ -184,14 +192,6 @@
       "word": "孟菲斯动物园为丫丫举行送别活动",
       "onboard_time": 1680997759,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 453774,
-      "num": 453774,
-      "word": "被闹钟惊醒对身体危害大",
-      "onboard_time": 1681005748,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -243,6 +243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 381141,
+      "num": 381141,
+      "word": "曾黎回应姨圈顶流",
+      "onboard_time": 1681006947,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 372869,
       "num": 372869,
       "word": "EXO 蝴蝶少女",
@@ -251,8 +259,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 341232,
-      "num": 341232,
+      "raw_hot": 348911,
+      "num": 348911,
       "word": "网友跟风模仿致使共享单车滞留山顶",
       "onboard_time": 1681003826,
       "rank": 25,
@@ -283,11 +291,19 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 317210,
-      "num": 317210,
+      "raw_hot": 325955,
+      "num": 325955,
       "word": "王鹤棣 白鹤亮翅",
       "onboard_time": 1681003406,
       "rank": 46,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 282867,
+      "num": 282867,
+      "word": "你我皆是高加林",
+      "onboard_time": 1681006706,
+      "rank": 29,
       "category": "影视"
     },
     {
@@ -315,11 +331,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 241758,
-      "num": 241758,
-      "word": "曾黎回应姨圈顶流",
-      "onboard_time": 1681006947,
-      "rank": 22,
+      "raw_hot": 258240,
+      "num": 258240,
+      "word": "王一博魏若来造型",
+      "onboard_time": 1681006587,
+      "rank": 24,
       "category": "作品衍生"
     },
     {
@@ -329,14 +345,6 @@
       "onboard_time": 1681004126,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 239114,
-      "num": 239114,
-      "word": "王一博魏若来造型",
-      "onboard_time": 1681006587,
-      "rank": 24,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 233370,
@@ -363,6 +371,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 230154,
+      "num": 230154,
+      "word": "VAVA张欣尧拍戏了",
+      "onboard_time": 1681005986,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 229108,
       "num": 229108,
       "word": "李佳航李晟看毛不易演唱会",
@@ -384,14 +400,6 @@
       "word": "吴磊说拍了七八个月10天就播完了",
       "onboard_time": 1680946645,
       "rank": 20,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 224883,
-      "num": 224883,
-      "word": "VAVA张欣尧拍戏了",
-      "onboard_time": 1681005986,
-      "rank": 26,
       "category": "影视"
     },
     {
@@ -459,14 +467,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 198936,
-      "num": 198936,
-      "word": "你我皆是高加林",
-      "onboard_time": 1681006706,
-      "rank": 29,
-      "category": "影视"
-    },
-    {
       "raw_hot": 195701,
       "num": 147668,
       "word": "吴世勋脸链",
@@ -507,20 +507,20 @@
       "category": "影视,幽默"
     },
     {
+      "raw_hot": 181055,
+      "num": 181055,
+      "word": "李荣浩演唱会大合唱乌梅子酱",
+      "onboard_time": 1681005206,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 178279,
       "num": 144761,
       "word": "易烊千玺荆州",
       "onboard_time": 1680960331,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 177256,
-      "num": 177256,
-      "word": "李荣浩演唱会大合唱乌梅子酱",
-      "onboard_time": 1681005206,
-      "rank": 32,
-      "category": "音乐"
     },
     {
       "raw_hot": 175310,
@@ -579,12 +579,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 162055,
+      "num": 162055,
+      "word": "陈晓李沁被拉cp的表情",
+      "onboard_time": 1681007786,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 158875,
       "num": 158875,
       "word": "EXO见面会",
       "onboard_time": 1680995357,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 156035,
+      "num": 156035,
+      "word": "瓜农刺死城管案律师作无罪辩护",
+      "onboard_time": 1681007426,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 155372,
@@ -657,6 +673,14 @@
       "onboard_time": 1680957749,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138963,
+      "num": 138963,
+      "word": "张元英音银巴黎饭拍视频",
+      "onboard_time": 1681007248,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 138885,
@@ -755,14 +779,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 118296,
-      "num": 118296,
-      "word": "张元英音银巴黎饭拍视频",
-      "onboard_time": 1681007248,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 113699,
       "num": 103866,
       "word": "长月烬明带动优酷APP下载量登顶",
@@ -803,6 +819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 104887,
+      "num": 104887,
+      "word": "90后的苏感男演员",
+      "onboard_time": 1681007846,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 103723,
       "num": 77473,
       "word": "罗云熙眼神戏",
@@ -817,14 +841,6 @@
       "onboard_time": 1680988931,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 102863,
-      "num": 102863,
-      "word": "瓜农刺死城管案律师作无罪辩护",
-      "onboard_time": 1681007426,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 102623,
