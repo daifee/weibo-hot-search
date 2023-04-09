@@ -1,6 +1,6 @@
 {
   "startTime": 1680970864988,
-  "endTime": 1681014810632,
+  "endTime": 1681017309568,
   "band_list": [
     {
       "raw_hot": 2140320,
@@ -19,6 +19,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1669690,
+      "num": 366737,
+      "word": "宋祖儿编辑记录",
+      "onboard_time": 1681014329,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1639231,
       "num": 1639231,
       "word": "华晨宇回应华语乐坛永远的神",
@@ -28,7 +36,7 @@
     },
     {
       "raw_hot": 1287647,
-      "num": 357545,
+      "num": 361472,
       "word": "前助理评价李现",
       "onboard_time": 1681011869,
       "rank": 10,
@@ -65,6 +73,14 @@
       "onboard_time": 1680958170,
       "rank": 1,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 933128,
+      "num": 933128,
+      "word": "95后男生国企辞职和妻子收废品",
+      "onboard_time": 1681012049,
+      "rank": 4,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 893134,
@@ -107,12 +123,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 771831,
-      "num": 771831,
-      "word": "95后男生国企辞职和妻子收废品",
-      "onboard_time": 1681012049,
+      "raw_hot": 824779,
+      "num": 824779,
+      "word": "淄博烧烤",
+      "onboard_time": 1681014808,
       "rank": 4,
-      "category": "社会新闻,情感"
+      "category": "美食"
     },
     {
       "raw_hot": 695181,
@@ -244,7 +260,7 @@
     },
     {
       "raw_hot": 467909,
-      "num": 243190,
+      "num": 243561,
       "word": "王一博擦飞机",
       "onboard_time": 1681012350,
       "rank": 21,
@@ -323,6 +339,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 410219,
+      "num": 410219,
+      "word": "鬼灭之刃",
+      "onboard_time": 1681015109,
+      "rank": 8,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 403142,
       "num": 403142,
       "word": "安乐传",
@@ -387,6 +411,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 320194,
+      "num": 320194,
+      "word": "对台岛关键目标模拟精确打击",
+      "onboard_time": 1681015949,
+      "rank": 14,
+      "category": "军事,国内要闻"
+    },
+    {
+      "raw_hot": 318525,
+      "num": 318525,
+      "word": "BLG发布律师声明",
+      "onboard_time": 1681016188,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 316428,
       "num": 242597,
       "word": "芭乐椰椰爽",
@@ -411,8 +451,8 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 299409,
-      "num": 299409,
+      "raw_hot": 307165,
+      "num": 307165,
       "word": "张颂文散文登贵州省一模试卷",
       "onboard_time": 1681011989,
       "rank": 17,
@@ -443,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 266702,
+      "num": 266702,
+      "word": "长月烬明新副本",
+      "onboard_time": 1681015289,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 258881,
       "num": 258881,
       "word": "新版乳腺癌诊疗指南发布",
@@ -459,19 +507,19 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 256317,
-      "num": 256317,
-      "word": "宋祖儿编辑记录",
-      "onboard_time": 1681014329,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 240949,
       "num": 240949,
       "word": "浙大一个走廊被紫藤花淹没",
       "onboard_time": 1681004126,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 240300,
+      "num": 240300,
+      "word": "医院回应2老人长住等候椅",
+      "onboard_time": 1681013850,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -595,6 +643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 212593,
+      "num": 212593,
+      "word": "刘耀文是不是把严浩翔伞拿走了",
+      "onboard_time": 1681014089,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 210119,
       "num": 210119,
       "word": "灌篮高手流川枫角色预告",
@@ -617,14 +673,6 @@
       "onboard_time": 1681009587,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 207765,
-      "num": 207765,
-      "word": "刘耀文是不是把严浩翔伞拿走了",
-      "onboard_time": 1681014089,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 205072,
@@ -651,12 +699,44 @@
       "category": "影视"
     },
     {
+      "raw_hot": 203360,
+      "num": 203360,
+      "word": "张极说我们现场见",
+      "onboard_time": 1681016728,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 202590,
+      "num": 200648,
+      "word": "EXO蝴蝶少女饭拍视频",
+      "onboard_time": 1681016850,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 202482,
+      "num": 202482,
+      "word": "关于中国留学生在泰遇害的情况通报",
+      "onboard_time": 1681016790,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 199694,
       "num": 199694,
       "word": "陈晓李沁被拉cp的表情",
       "onboard_time": 1681007786,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 195840,
+      "num": 195840,
+      "word": "双向奔赴是一种什么样的体验",
+      "onboard_time": 1681016250,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 195701,
@@ -689,6 +769,22 @@
       "onboard_time": 1680977476,
       "rank": 5,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 190908,
+      "num": 190908,
+      "word": "比泰国广告还离谱",
+      "onboard_time": 1681015408,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 189661,
+      "num": 189661,
+      "word": "UFC287",
+      "onboard_time": 1681016308,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 188411,
@@ -787,6 +883,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 166485,
+      "num": 166485,
+      "word": "TF家族三代演唱会为粉丝准备的礼物",
+      "onboard_time": 1681017148,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 164655,
       "num": 164165,
       "word": "广州海潮宇宙音乐节",
@@ -835,6 +939,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 152210,
+      "num": 152210,
+      "word": "乘坐淄博烧烤专列的幸福感",
+      "onboard_time": 1681016609,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 151626,
       "num": 151626,
       "word": "拜仁",
@@ -872,14 +984,6 @@
       "word": "90岁游本昌对年轻演员说你们好幸福",
       "onboard_time": 1680958588,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 142980,
-      "num": 142980,
-      "word": "医院回应2老人长住等候椅",
-      "onboard_time": 1681013850,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -931,6 +1035,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 135012,
+      "num": 135012,
+      "word": "我海军军舰与台舰目视距离5海里",
+      "onboard_time": 1681017148,
+      "rank": 41,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 134213,
       "num": 134213,
       "word": "哈兰德倒钩",
@@ -960,6 +1072,22 @@
       "word": "狼队VS切尔西",
       "onboard_time": 1680965970,
       "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 129236,
+      "num": 129236,
+      "word": "Ella到达长沙vlog",
+      "onboard_time": 1681016909,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 128275,
+      "num": 128275,
+      "word": "黑龙三箭",
+      "onboard_time": 1681017028,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -1057,6 +1185,14 @@
       "onboard_time": 1680974418,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 107506,
+      "num": 107506,
+      "word": "范丞丞要久久爱直男打伞",
+      "onboard_time": 1681017267,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 107416,
@@ -1271,6 +1407,9 @@
     },
     {
       "word": "#协调好经济增长民生保障节能减排#"
+    },
+    {
+      "word": "#中法元首会晤细节拉满成果满满#"
     }
   ]
 }
