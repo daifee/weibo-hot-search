@@ -1,6 +1,6 @@
 {
   "startTime": 1680452464197,
-  "endTime": 1681004799931,
+  "endTime": 1681007578292,
   "band_list": [
     {
       "raw_hot": 9506486,
@@ -1611,6 +1611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1029327,
+      "num": 444559,
+      "word": "贾静雯的体重",
+      "onboard_time": 1681002986,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1021550,
       "num": 587533,
       "word": "网友曝在赫莲娜做护理致脸部烧伤",
@@ -2307,14 +2315,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 801873,
-      "num": 393786,
-      "word": "贾静雯的体重",
-      "onboard_time": 1681002986,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 801761,
       "num": 801761,
       "word": "你会为了高工资选择单休吗",
@@ -2393,6 +2393,14 @@
       "onboard_time": 1680651560,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 778128,
+      "num": 778128,
+      "word": "你觉得工资越高越幸福吗",
+      "onboard_time": 1681003108,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 777495,
@@ -3243,6 +3251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 612107,
+      "num": 612107,
+      "word": "罗云熙下海动图",
+      "onboard_time": 1681005025,
+      "rank": 4,
+      "category": "作品衍生,幽默"
+    },
+    {
       "raw_hot": 609798,
       "num": 609798,
       "word": "Amber 排名",
@@ -3427,12 +3443,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 579317,
+      "num": 433130,
+      "word": "原来胃是这样被弄坏的",
+      "onboard_time": 1681005625,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
       "raw_hot": 577624,
       "num": 577624,
       "word": "王哲林61分",
       "onboard_time": 1680702630,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 577412,
+      "num": 577412,
+      "word": "唐山撞船致5死案船主被控故意杀人",
+      "onboard_time": 1681003587,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 576339,
@@ -3505,14 +3537,6 @@
       "onboard_time": 1680592888,
       "rank": 34,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 566494,
-      "num": 566494,
-      "word": "你觉得工资越高越幸福吗",
-      "onboard_time": 1681003108,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 565997,
@@ -3649,6 +3673,14 @@
       "onboard_time": 1680967530,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 545744,
+      "num": 545744,
+      "word": "再就业男团红到什么水平了",
+      "onboard_time": 1681004007,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 545634,
@@ -4412,7 +4444,7 @@
     },
     {
       "raw_hot": 461357,
-      "num": 240363,
+      "num": 249421,
       "word": "浙江富家子开保时捷碰瓷",
       "onboard_time": 1681000946,
       "rank": 20,
@@ -4491,6 +4523,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 453774,
+      "num": 453774,
+      "word": "被闹钟惊醒对身体危害大",
+      "onboard_time": 1681005748,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 452588,
       "num": 452588,
       "word": "姐弟坠亡案生母称忏悔信非生父所写",
@@ -4521,14 +4561,6 @@
       "onboard_time": 1680845910,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 448626,
-      "num": 384353,
-      "word": "唐山撞船致5死案船主被控故意杀人",
-      "onboard_time": 1681003587,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 445254,
@@ -4849,6 +4881,14 @@
       "onboard_time": 1680662191,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 418653,
+      "num": 418653,
+      "word": "王宝强回归综艺效果",
+      "onboard_time": 1681005147,
+      "rank": 12,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 417982,
@@ -5889,6 +5929,14 @@
       "onboard_time": 1680665670,
       "rank": 21,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 341232,
+      "num": 341232,
+      "word": "网友跟风模仿致使共享单车滞留山顶",
+      "onboard_time": 1681003826,
+      "rank": 25,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 341223,
@@ -7771,14 +7819,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 243941,
-      "num": 243941,
-      "word": "再就业男团红到什么水平了",
-      "onboard_time": 1681004007,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 243649,
       "num": 243649,
       "word": "周雨彤为演戏去公司坐班",
@@ -7819,12 +7859,28 @@
       "category": "幽默,社会新闻"
     },
     {
+      "raw_hot": 241758,
+      "num": 241758,
+      "word": "曾黎回应姨圈顶流",
+      "onboard_time": 1681006947,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 241356,
       "num": 241356,
       "word": "米粉节",
       "onboard_time": 1680749309,
       "rank": 29,
       "category": "科技"
+    },
+    {
+      "raw_hot": 240949,
+      "num": 240949,
+      "word": "浙大一个走廊被紫藤花淹没",
+      "onboard_time": 1681004126,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 240223,
@@ -7889,6 +7945,14 @@
       "onboard_time": 1680786153,
       "rank": 47,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 239114,
+      "num": 239114,
+      "word": "王一博魏若来造型",
+      "onboard_time": 1681006587,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 238735,
@@ -8345,6 +8409,14 @@
       "onboard_time": 1680694293,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 224883,
+      "num": 224883,
+      "word": "VAVA张欣尧拍戏了",
+      "onboard_time": 1681005986,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 224784,
@@ -9363,6 +9435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205072,
+      "num": 205072,
+      "word": "严浩翔原创单曲H",
+      "onboard_time": 1681006465,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 204945,
       "num": 204945,
       "word": "邓为古装扮相",
@@ -9955,14 +10035,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 200326,
-      "num": 200326,
-      "word": "网友跟风模仿致使共享单车滞留山顶",
-      "onboard_time": 1681003826,
-      "rank": 25,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 200173,
       "num": 200173,
       "word": "OMG团战",
@@ -10096,6 +10168,14 @@
       "word": "灿烂的转身微博评分8.3",
       "onboard_time": 1680615094,
       "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 198936,
+      "num": 198936,
+      "word": "你我皆是高加林",
+      "onboard_time": 1681006706,
+      "rank": 29,
       "category": "影视"
     },
     {
@@ -11699,6 +11779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 177256,
+      "num": 177256,
+      "word": "李荣浩演唱会大合唱乌梅子酱",
+      "onboard_time": 1681005206,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 176606,
       "num": 176606,
       "word": "网购沙发拆开发现是纸片做的",
@@ -11737,6 +11825,14 @@
       "onboard_time": 1680760351,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 175310,
+      "num": 175310,
+      "word": "SMTOWN新女团不露脸挑战",
+      "onboard_time": 1681004247,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 175182,
@@ -12281,14 +12377,6 @@
       "onboard_time": 1680969688,
       "rank": 37,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 164484,
-      "num": 164484,
-      "word": "浙大一个走廊被紫藤花淹没",
-      "onboard_time": 1681004126,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 164424,
@@ -12963,6 +13051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 149019,
+      "num": 149019,
+      "word": "LCK",
+      "onboard_time": 1681004548,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 148900,
       "num": 148900,
       "word": "一秒让人破防的瞬间",
@@ -13201,14 +13297,6 @@
       "onboard_time": 1680657628,
       "rank": 36,
       "category": "美食"
-    },
-    {
-      "raw_hot": 141767,
-      "num": 141767,
-      "word": "SMTOWN新女团不露脸挑战",
-      "onboard_time": 1681004247,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 141671,
@@ -14059,6 +14147,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 118296,
+      "num": 118296,
+      "word": "张元英音银巴黎饭拍视频",
+      "onboard_time": 1681007248,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 117427,
       "num": 117427,
       "word": "明日方舟",
@@ -14345,6 +14441,22 @@
       "onboard_time": 1680884664,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 102863,
+      "num": 102863,
+      "word": "瓜农刺死城管案律师作无罪辩护",
+      "onboard_time": 1681007426,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 102623,
+      "num": 102623,
+      "word": "王源唱骄傲",
+      "onboard_time": 1681004846,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 102491,
@@ -14673,14 +14785,6 @@
       "onboard_time": 1680910039,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 72713,
-      "num": 90158,
-      "word": "LCK",
-      "onboard_time": 1681004548,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 70190,
