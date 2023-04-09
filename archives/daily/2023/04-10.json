@@ -1,6 +1,6 @@
 {
   "startTime": 1681057279449,
-  "endTime": 1681057279449,
+  "endTime": 1681058192886,
   "band_list": [
     {
       "raw_hot": 2164948,
@@ -67,19 +67,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 488357,
+      "num": 488357,
+      "word": "五月天告五人合唱知足",
+      "onboard_time": 1681054531,
+      "rank": 6,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 468418,
       "num": 468418,
       "word": "范丞丞来看小鬼音乐节",
       "onboard_time": 1681051112,
       "rank": 5,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 466553,
-      "num": 466553,
-      "word": "五月天告五人合唱知足",
-      "onboard_time": 1681054531,
-      "rank": 6,
       "category": "音乐"
     },
     {
@@ -147,6 +147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 302311,
+      "num": 302311,
+      "word": "四川气温热到全国第一",
+      "onboard_time": 1681053750,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 295210,
       "num": 295210,
       "word": "时间夺走了杨洋的什么",
@@ -155,20 +163,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 288060,
+      "num": 157074,
+      "word": "日本坠机师团长曾妄议台湾问题",
+      "onboard_time": 1681056505,
+      "rank": 37,
+      "category": "军事"
+    },
+    {
       "raw_hot": 287081,
       "num": 257880,
       "word": "赵露思去游乐园只看不玩",
       "onboard_time": 1681053447,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 278074,
-      "num": 278074,
-      "word": "四川气温热到全国第一",
-      "onboard_time": 1681053750,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 255648,
@@ -291,14 +299,6 @@
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 135953,
-      "num": 135953,
-      "word": "日本坠机师团长曾妄议台湾问题",
-      "onboard_time": 1681056505,
-      "rank": 37,
-      "category": "军事"
-    },
-    {
       "raw_hot": 128347,
       "num": 128347,
       "word": "高诗岩13投1中",
@@ -347,20 +347,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 102220,
+      "num": 102220,
+      "word": "利物浦vs阿森纳",
+      "onboard_time": 1681055067,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99938,
       "num": 718772,
       "word": "这些旅游专列已发车",
       "onboard_time": 1681042525,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 95422,
-      "num": 95422,
-      "word": "利物浦vs阿森纳",
-      "onboard_time": 1681055067,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 94166,
@@ -406,6 +406,9 @@
   "hotgov_list": [
     {
       "word": "#中法元首会晤上满满岭南元素#"
+    },
+    {
+      "word": "#开局加把劲#"
     }
   ]
 }
