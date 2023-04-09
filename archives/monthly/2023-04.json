@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681050801686,
+  "endTime": 1681053360392,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -891,6 +891,14 @@
       "category": "国内要闻,军事"
     },
     {
+      "raw_hot": 1841491,
+      "num": 835585,
+      "word": "官方回应男子骂剖腹产妻子她疼她死",
+      "onboard_time": 1681047569,
+      "rank": 4,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1833746,
       "num": 494340,
       "word": "杨幂发了六条微博",
@@ -1219,14 +1227,6 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 1541535,
-      "num": 835585,
-      "word": "官方回应男子骂剖腹产妻子她疼她死",
-      "onboard_time": 1681047569,
-      "rank": 4,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 1541341,
       "num": 1541341,
       "word": "大连宝马撞人案司机被执行死刑",
@@ -1288,6 +1288,14 @@
       "word": "刘国梁连任中国乒协主席",
       "onboard_time": 1680752970,
       "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1497101,
+      "num": 1497101,
+      "word": "马龙",
+      "onboard_time": 1681049553,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -1811,6 +1819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1120836,
+      "num": 331667,
+      "word": "重庆姐弟坠亡案改判可能性几乎为零",
+      "onboard_time": 1681050210,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1117063,
       "num": 1117063,
       "word": "Xun导 不愧是你",
@@ -2121,6 +2137,14 @@
       "onboard_time": 1680749786,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 996686,
+      "num": 996686,
+      "word": "55岁小学老师去世后做了大体老师",
+      "onboard_time": 1681049911,
+      "rank": 17,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 988266,
@@ -2891,6 +2915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 814175,
+      "num": 814175,
+      "word": "范丞丞来看小鬼音乐节",
+      "onboard_time": 1681051112,
+      "rank": 3,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 813776,
       "num": 502572,
       "word": "吴磊胸侧的疤",
@@ -3041,14 +3073,6 @@
       "onboard_time": 1681044149,
       "rank": 6,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 779412,
-      "num": 779412,
-      "word": "马龙",
-      "onboard_time": 1681049553,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 779318,
@@ -4027,6 +4051,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 628915,
+      "num": 231677,
+      "word": "贵州失联母子已平安找到",
+      "onboard_time": 1681052131,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 628897,
       "num": 628897,
       "word": "安徽大学回应男老师让女生穿短裙跳操",
@@ -4209,6 +4241,14 @@
       "onboard_time": 1680593311,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 608465,
+      "num": 410314,
+      "word": "李坤城去世",
+      "onboard_time": 1681052670,
+      "rank": 13,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 608091,
@@ -4579,6 +4619,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 563673,
+      "num": 563673,
+      "word": "许嵩音乐节",
+      "onboard_time": 1681051652,
+      "rank": 6,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 563401,
       "num": 563401,
       "word": "贾静雯浪姐路透",
@@ -4617,6 +4665,14 @@
       "onboard_time": 1680680310,
       "rank": 11,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 556443,
+      "num": 331622,
+      "word": "论文很烂但致谢被老师夸了",
+      "onboard_time": 1681048411,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 555516,
@@ -4913,14 +4969,6 @@
       "onboard_time": 1680584074,
       "rank": 17,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 534334,
-      "num": 330127,
-      "word": "论文很烂但致谢被老师夸了",
-      "onboard_time": 1681048411,
-      "rank": 23,
-      "category": "幽默"
     },
     {
       "raw_hot": 532727,
@@ -5241,6 +5289,14 @@
       "onboard_time": 1680681870,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 504830,
+      "num": 504830,
+      "word": "张艺谋第一次拍网剧",
+      "onboard_time": 1681052429,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 504267,
@@ -7436,7 +7492,7 @@
     },
     {
       "raw_hot": 355939,
-      "num": 222855,
+      "num": 241611,
       "word": "汪苏泷音乐节",
       "onboard_time": 1681049130,
       "rank": 33,
@@ -8043,6 +8099,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 331715,
+      "num": 331715,
+      "word": "一诺三连MVP",
+      "onboard_time": 1681052554,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 331488,
       "num": 659084,
       "word": "荆州籍影人李现助力家乡乡村振兴",
@@ -8585,14 +8649,6 @@
       "onboard_time": 1680856108,
       "rank": 38,
       "category": "情感,网红"
-    },
-    {
-      "raw_hot": 305998,
-      "num": 305998,
-      "word": "55岁小学老师去世后做了大体老师",
-      "onboard_time": 1681049911,
-      "rank": 17,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 305906,
@@ -10835,6 +10891,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 236467,
+      "num": 229798,
+      "word": "吴磊后仰苏感",
+      "onboard_time": 1681050930,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 236456,
       "num": 236456,
       "word": "卡位赛",
@@ -10873,6 +10937,14 @@
       "onboard_time": 1680316709,
       "rank": 41,
       "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 234479,
+      "num": 234479,
+      "word": "好险差点就脱单了",
+      "onboard_time": 1681050089,
+      "rank": 29,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 234437,
@@ -11020,7 +11092,7 @@
     },
     {
       "raw_hot": 230782,
-      "num": 865197,
+      "num": 874309,
       "word": "这些旅游专列已发车",
       "onboard_time": 1681042525,
       "rank": 2,
@@ -11201,6 +11273,14 @@
       "onboard_time": 1680321331,
       "rank": 22,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 227805,
+      "num": 227805,
+      "word": "光明正大薅熊猫毛的乌鸦",
+      "onboard_time": 1681048112,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 227590,
@@ -12009,14 +12089,6 @@
       "onboard_time": 1680784291,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 211559,
-      "num": 211559,
-      "word": "光明正大薅熊猫毛的乌鸦",
-      "onboard_time": 1681048112,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 211525,
@@ -13187,6 +13259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 202240,
+      "num": 202240,
+      "word": "杨采钰方芷衡俯卧撑挑战",
+      "onboard_time": 1681052970,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 202168,
       "num": 202168,
       "word": "杨丞琳郑秀妍舞社2抢人",
@@ -13739,14 +13819,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 199005,
-      "num": 223824,
-      "word": "重庆姐弟坠亡案改判可能性几乎为零",
-      "onboard_time": 1681050210,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 199002,
       "num": 199002,
       "word": "陈立农声生不息宝岛季彩排vlog",
@@ -13817,6 +13889,14 @@
       "onboard_time": 1680441936,
       "rank": 36,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 198588,
+      "num": 198588,
+      "word": "桑酒为救冥夜自愿献出仙髓",
+      "onboard_time": 1681052554,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 198524,
@@ -14243,6 +14323,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 194853,
+      "num": 194853,
+      "word": "第一次觉得增重好难",
+      "onboard_time": 1681051531,
+      "rank": 38,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 194810,
       "num": 194810,
       "word": "光与夜之恋陆沉",
@@ -14408,6 +14496,14 @@
       "word": "长月烬明预约破400万",
       "onboard_time": 1680604111,
       "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 193331,
+      "num": 193331,
+      "word": "冥夜桑酒的宿命早已注定",
+      "onboard_time": 1681050869,
+      "rank": 39,
       "category": "影视"
     },
     {
@@ -15139,6 +15235,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 187406,
+      "num": 187406,
+      "word": "NV积分第一晋级春决",
+      "onboard_time": 1681052070,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 187282,
       "num": 187282,
       "word": "宇宙探索编辑部 晕镜头",
@@ -15249,6 +15353,14 @@
       "onboard_time": 1680504870,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 186330,
+      "num": 186330,
+      "word": "AG战胜TES",
+      "onboard_time": 1681052489,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 186283,
@@ -15635,6 +15747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 182450,
+      "num": 182450,
+      "word": "华晨宇再现改编版双截棍",
+      "onboard_time": 1681052312,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 182346,
       "num": 182346,
       "word": "白敬亭春日海边随拍",
@@ -15977,6 +16097,14 @@
       "onboard_time": 1680338252,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 177207,
+      "num": 177207,
+      "word": "海潮宇宙音乐节",
+      "onboard_time": 1681052131,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 177031,
@@ -18497,6 +18625,14 @@
       "onboard_time": 1680944485,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 137751,
+      "num": 177475,
+      "word": "你怎么看超前消费",
+      "onboard_time": 1681052012,
+      "rank": 44,
+      "category": "社会议题"
     },
     {
       "raw_hot": 137432,

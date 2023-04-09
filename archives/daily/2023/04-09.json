@@ -1,6 +1,6 @@
 {
   "startTime": 1680970864988,
-  "endTime": 1681050801686,
+  "endTime": 1681053360392,
   "band_list": [
     {
       "raw_hot": 2140320,
@@ -35,6 +35,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1841491,
+      "num": 835585,
+      "word": "官方回应男子骂剖腹产妻子她疼她死",
+      "onboard_time": 1681047569,
+      "rank": 4,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1824009,
       "num": 1824009,
       "word": "胃病转向胃癌有5个信号",
@@ -67,20 +75,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1541535,
-      "num": 835585,
-      "word": "官方回应男子骂剖腹产妻子她疼她死",
-      "onboard_time": 1681047569,
-      "rank": 4,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 1499917,
       "num": 1499917,
       "word": "游客吐槽甘孜一公厕需凭空瓶进入",
       "onboard_time": 1681027584,
       "rank": 15,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 1497101,
+      "num": 1497101,
+      "word": "马龙",
+      "onboard_time": 1681049553,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 1454992,
@@ -155,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1120836,
+      "num": 331667,
+      "word": "重庆姐弟坠亡案改判可能性几乎为零",
+      "onboard_time": 1681050210,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1070241,
       "num": 394181,
       "word": "蒋勤勤未修生图",
@@ -209,6 +225,14 @@
       "onboard_time": 1681035146,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 996686,
+      "num": 996686,
+      "word": "55岁小学老师去世后做了大体老师",
+      "onboard_time": 1681049911,
+      "rank": 17,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 967690,
@@ -283,20 +307,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 814175,
+      "num": 814175,
+      "word": "范丞丞来看小鬼音乐节",
+      "onboard_time": 1681051112,
+      "rank": 3,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 782317,
       "num": 503759,
       "word": "EXO或将以LoveMeRight概念回归",
       "onboard_time": 1681044149,
       "rank": 6,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 779412,
-      "num": 779412,
-      "word": "马龙",
-      "onboard_time": 1681049553,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 752721,
@@ -403,6 +427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 628915,
+      "num": 231677,
+      "word": "贵州失联母子已平安找到",
+      "onboard_time": 1681052131,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 623852,
       "num": 623852,
       "word": "绿币厕所",
@@ -417,6 +449,14 @@
       "onboard_time": 1681000583,
       "rank": 6,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 608465,
+      "num": 410314,
+      "word": "李坤城去世",
+      "onboard_time": 1681052670,
+      "rank": 13,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 608017,
@@ -475,6 +515,22 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 563673,
+      "num": 563673,
+      "word": "许嵩音乐节",
+      "onboard_time": 1681051652,
+      "rank": 6,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 556443,
+      "num": 331622,
+      "word": "论文很烂但致谢被老师夸了",
+      "onboard_time": 1681048411,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 555516,
       "num": 345005,
       "word": "过度超前消费有多可怕",
@@ -507,14 +563,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 534334,
-      "num": 330127,
-      "word": "论文很烂但致谢被老师夸了",
-      "onboard_time": 1681048411,
-      "rank": 23,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 532190,
       "num": 673875,
       "word": "张婧仪一字肩绿色纱裙",
@@ -545,6 +593,14 @@
       "onboard_time": 1681015109,
       "rank": 8,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 504830,
+      "num": 504830,
+      "word": "张艺谋第一次拍网剧",
+      "onboard_time": 1681052429,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 500962,
@@ -657,6 +713,14 @@
       "onboard_time": 1681046729,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 430743,
+      "num": 430743,
+      "word": "白桃星座",
+      "onboard_time": 1681052190,
+      "rank": 9,
+      "category": "情感"
     },
     {
       "raw_hot": 429468,
@@ -796,7 +860,7 @@
     },
     {
       "raw_hot": 355939,
-      "num": 222855,
+      "num": 241611,
       "word": "汪苏泷音乐节",
       "onboard_time": 1681049130,
       "rank": 33,
@@ -897,6 +961,14 @@
       "onboard_time": 1681028844,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 331715,
+      "num": 331715,
+      "word": "一诺三连MVP",
+      "onboard_time": 1681052554,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 331488,
@@ -1001,14 +1073,6 @@
       "onboard_time": 1681011989,
       "rank": 17,
       "category": "教育,艺人"
-    },
-    {
-      "raw_hot": 305998,
-      "num": 305998,
-      "word": "55岁小学老师去世后做了大体老师",
-      "onboard_time": 1681049911,
-      "rank": 17,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 303674,
@@ -1203,6 +1267,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 236467,
+      "num": 229798,
+      "word": "吴磊后仰苏感",
+      "onboard_time": 1681050930,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 234479,
+      "num": 234479,
+      "word": "好险差点就脱单了",
+      "onboard_time": 1681050089,
+      "rank": 29,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 233370,
       "num": 233370,
       "word": "翁虹女儿颜值",
@@ -1228,7 +1308,7 @@
     },
     {
       "raw_hot": 230782,
-      "num": 865197,
+      "num": 874309,
       "word": "这些旅游专列已发车",
       "onboard_time": 1681042525,
       "rank": 2,
@@ -1273,6 +1353,14 @@
       "onboard_time": 1680973281,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 227805,
+      "num": 227805,
+      "word": "光明正大薅熊猫毛的乌鸦",
+      "onboard_time": 1681048112,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 227060,
@@ -1371,14 +1459,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 211559,
-      "num": 211559,
-      "word": "光明正大薅熊猫毛的乌鸦",
-      "onboard_time": 1681048112,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 210119,
       "num": 210119,
       "word": "灌篮高手流川枫角色预告",
@@ -1475,6 +1555,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 202240,
+      "num": 202240,
+      "word": "杨采钰方芷衡俯卧撑挑战",
+      "onboard_time": 1681052970,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 201841,
       "num": 201841,
       "word": "周深又用采访麦飙歌了",
@@ -1563,12 +1651,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 199005,
-      "num": 223824,
-      "word": "重庆姐弟坠亡案改判可能性几乎为零",
-      "onboard_time": 1681050210,
-      "rank": 24,
-      "category": "社会新闻"
+      "raw_hot": 198588,
+      "num": 198588,
+      "word": "桑酒为救冥夜自愿献出仙髓",
+      "onboard_time": 1681052554,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 197483,
@@ -1627,6 +1715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194853,
+      "num": 194853,
+      "word": "第一次觉得增重好难",
+      "onboard_time": 1681051531,
+      "rank": 38,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 194607,
       "num": 194607,
       "word": "KSG翻盘MTG",
@@ -1641,6 +1737,14 @@
       "onboard_time": 1681012769,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 193331,
+      "num": 193331,
+      "word": "冥夜桑酒的宿命早已注定",
+      "onboard_time": 1681050869,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 193169,
@@ -1707,11 +1811,27 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 187406,
+      "num": 187406,
+      "word": "NV积分第一晋级春决",
+      "onboard_time": 1681052070,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 186945,
       "num": 186945,
       "word": "2023LCK春决",
       "onboard_time": 1681022548,
       "rank": 38,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 186330,
+      "num": 186330,
+      "word": "AG战胜TES",
+      "onboard_time": 1681052489,
+      "rank": 41,
       "category": "游戏"
     },
     {
@@ -1763,6 +1883,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 182450,
+      "num": 182450,
+      "word": "华晨宇再现改编版双截棍",
+      "onboard_time": 1681052312,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 181055,
       "num": 181055,
       "word": "李荣浩演唱会大合唱乌梅子酱",
@@ -1801,6 +1929,14 @@
       "onboard_time": 1681031486,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 177207,
+      "num": 177207,
+      "word": "海潮宇宙音乐节",
+      "onboard_time": 1681052131,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 177031,
@@ -2121,6 +2257,14 @@
       "onboard_time": 1680961350,
       "rank": 33,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 137751,
+      "num": 177475,
+      "word": "你怎么看超前消费",
+      "onboard_time": 1681052012,
+      "rank": 44,
+      "category": "社会议题"
     },
     {
       "raw_hot": 137432,
