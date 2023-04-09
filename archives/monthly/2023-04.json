@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681058192886,
+  "endTime": 1681060448238,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -8403,6 +8403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 318550,
+      "num": 204511,
+      "word": "日本坠机师团长曾妄议台湾问题",
+      "onboard_time": 1681056505,
+      "rank": 37,
+      "category": "军事"
+    },
+    {
       "raw_hot": 318363,
       "num": 318363,
       "word": "被骂后委屈成一滩小狗",
@@ -9177,14 +9185,6 @@
       "onboard_time": 1680788013,
       "rank": 27,
       "category": "艺人,幽默"
-    },
-    {
-      "raw_hot": 288060,
-      "num": 157074,
-      "word": "日本坠机师团长曾妄议台湾问题",
-      "onboard_time": 1681056505,
-      "rank": 37,
-      "category": "军事"
     },
     {
       "raw_hot": 287705,
@@ -20849,6 +20849,14 @@
       "onboard_time": 1680708573,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 90719,
+      "num": 90719,
+      "word": "小时候最喜欢的天然零食",
+      "onboard_time": 1681058839,
+      "rank": 31,
+      "category": "情感,美食"
     },
     {
       "raw_hot": 90702,
