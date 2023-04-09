@@ -1,6 +1,6 @@
 {
   "startTime": 1681057279449,
-  "endTime": 1681067565640,
+  "endTime": 1681068805741,
   "band_list": [
     {
       "raw_hot": 2164948,
@@ -371,6 +371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102087,
+      "num": 34504,
+      "word": "留学生们在外面真的要好好保护自己",
+      "onboard_time": 1681064473,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 99938,
       "num": 718772,
       "word": "这些旅游专列已发车",
@@ -393,14 +401,6 @@
       "onboard_time": 1681052970,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 88609,
-      "num": 34504,
-      "word": "留学生们在外面真的要好好保护自己",
-      "onboard_time": 1681064473,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 79889,
@@ -449,6 +449,14 @@
       "onboard_time": 1681048530,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 11526,
+      "num": 15357,
+      "word": "看得出来她是真的喜欢讲话",
+      "onboard_time": 1681066814,
+      "rank": 49,
+      "category": "幽默"
     }
   ],
   "hotgov_list": [
