@@ -1,6 +1,6 @@
 {
   "startTime": 1680970864988,
-  "endTime": 1681039994649,
+  "endTime": 1681043427357,
   "band_list": [
     {
       "raw_hot": 2140320,
@@ -115,6 +115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1037220,
+      "num": 894910,
+      "word": "警方通报男子驾车冲撞女子致3死7伤",
+      "onboard_time": 1681038565,
+      "rank": 34,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1029327,
       "num": 460233,
       "word": "贾静雯的体重",
@@ -163,6 +171,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 932306,
+      "num": 932306,
+      "word": "EDG醒醒",
+      "onboard_time": 1681040125,
+      "rank": 0,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 893134,
       "num": 893134,
       "word": "懒羊羊在第一季第十一集出门忘带羊角",
@@ -177,6 +193,14 @@
       "onboard_time": 1681008566,
       "rank": 11,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 850362,
+      "num": 850362,
+      "word": "燃烧的巴黎圣母院",
+      "onboard_time": 1681037784,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 845660,
@@ -259,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 665639,
+      "num": 665639,
+      "word": "曾可妮搂刘雅瑟脖子",
+      "onboard_time": 1681040666,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 657687,
       "num": 657687,
       "word": "孙海洋",
@@ -289,6 +321,14 @@
       "onboard_time": 1681017148,
       "rank": 41,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 623852,
+      "num": 623852,
+      "word": "绿币厕所",
+      "onboard_time": 1681038926,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 612781,
@@ -353,14 +393,6 @@
       "onboard_time": 1681022906,
       "rank": 8,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 555953,
-      "num": 412630,
-      "word": "警方通报男子驾车冲撞女子致3死7伤",
-      "onboard_time": 1681038565,
-      "rank": 34,
-      "category": "社会负面"
     },
     {
       "raw_hot": 551938,
@@ -507,6 +539,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 429162,
+      "num": 265121,
+      "word": "王冰冰说一不小心和海虹撞了衫",
+      "onboard_time": 1681042105,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 424980,
       "num": 424980,
       "word": "水哥封面",
@@ -571,14 +611,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 398655,
-      "num": 398655,
-      "word": "燃烧的巴黎圣母院",
-      "onboard_time": 1681037784,
-      "rank": 14,
-      "category": "影视"
-    },
-    {
       "raw_hot": 394573,
       "num": 394573,
       "word": "丫丫将由中美团队共同照料至月底",
@@ -595,12 +627,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 377346,
-      "num": 443004,
-      "word": "绿币厕所",
-      "onboard_time": 1681038926,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 390561,
+      "num": 260773,
+      "word": "肖战把水瓶摆正",
+      "onboard_time": 1681039165,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 372869,
@@ -609,6 +641,14 @@
       "onboard_time": 1680954326,
       "rank": 13,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 370642,
+      "num": 370642,
+      "word": "当许杨玉琢被要联系方式",
+      "onboard_time": 1681041749,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 360807,
@@ -681,6 +721,14 @@
       "onboard_time": 1681029507,
       "rank": 14,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 335844,
+      "num": 335844,
+      "word": "看得出来长月的片场真的很冷",
+      "onboard_time": 1681038805,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 335424,
@@ -779,6 +827,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 309455,
+      "num": 221986,
+      "word": "EXO新歌LetMeIn",
+      "onboard_time": 1681041806,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 307800,
       "num": 307800,
       "word": "陈都灵林允同框生图",
@@ -875,20 +931,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 261783,
+      "num": 219923,
+      "word": "江疏影抢工作室物料",
+      "onboard_time": 1681040906,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 261725,
       "num": 221118,
       "word": "淄博烧烤店主苦口婆心劝排队顾客",
       "onboard_time": 1681021225,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 260773,
-      "num": 260773,
-      "word": "肖战把水瓶摆正",
-      "onboard_time": 1681039165,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 258909,
@@ -944,6 +1000,14 @@
       "word": "长月烬明五粮液同款配色婚服",
       "onboard_time": 1681037065,
       "rank": 24,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 241200,
+      "num": 196440,
+      "word": "职场中文凭真的有那么重要吗",
+      "onboard_time": 1681042105,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -1035,6 +1099,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 224824,
+      "num": 196390,
+      "word": "蔡卓妍张天爱合照",
+      "onboard_time": 1681040666,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 222289,
+      "num": 222289,
+      "word": "过度超前消费有多可怕",
+      "onboard_time": 1681042226,
+      "rank": 24,
+      "category": "财经,社会议题"
+    },
+    {
       "raw_hot": 221428,
       "num": 210120,
       "word": "邢菲活动生图",
@@ -1107,6 +1187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 214039,
+      "num": 196229,
+      "word": "白鹿蚌壳装土味应援桑酒",
+      "onboard_time": 1681041866,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 212593,
       "num": 212593,
       "word": "刘耀文是不是把严浩翔伞拿走了",
@@ -1129,14 +1217,6 @@
       "onboard_time": 1681017388,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 208752,
-      "num": 190726,
-      "word": "看得出来长月的片场真的很冷",
-      "onboard_time": 1681038805,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 208416,
@@ -1251,12 +1331,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 199300,
+      "num": 193542,
+      "word": "王祖蓝李亚男海豹式鼓掌",
+      "onboard_time": 1681042826,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 199113,
       "num": 199113,
       "word": "张峻豪说谢谢你愿意为我而来",
       "onboard_time": 1681020085,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 196618,
+      "num": 196618,
+      "word": "JDG挺进春决",
+      "onboard_time": 1681040486,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 195840,
@@ -1273,6 +1369,14 @@
       "onboard_time": 1680958410,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 195473,
+      "num": 195473,
+      "word": "罗云熙可仙可魔角色塑造力",
+      "onboard_time": 1681043127,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 195403,
@@ -1457,6 +1561,14 @@
       "onboard_time": 1681033644,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 174278,
+      "num": 174278,
+      "word": "王力宏霍建华林心如聚会",
+      "onboard_time": 1681043309,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 171882,
@@ -2019,6 +2131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 101958,
+      "num": 110645,
+      "word": "普宁",
+      "onboard_time": 1681043127,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 101823,
       "num": 101823,
       "word": "白鹿桑酒转场视频",
@@ -2049,6 +2169,14 @@
       "onboard_time": 1681001545,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 97287,
+      "num": 865197,
+      "word": "这些旅游专列已发车",
+      "onboard_time": 1681042525,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 97118,
@@ -2253,6 +2381,9 @@
     },
     {
       "word": "#中法元首会晤的三个关键词#"
+    },
+    {
+      "word": "#开局加把劲#"
     }
   ]
 }

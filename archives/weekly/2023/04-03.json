@@ -1,6 +1,6 @@
 {
   "startTime": 1680452464197,
-  "endTime": 1681039994649,
+  "endTime": 1681043427357,
   "band_list": [
     {
       "raw_hot": 9506486,
@@ -1691,6 +1691,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1037220,
+      "num": 894910,
+      "word": "警方通报男子驾车冲撞女子致3死7伤",
+      "onboard_time": 1681038565,
+      "rank": 34,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1032587,
       "num": 475583,
       "word": "翁虹女儿颜值",
@@ -1913,6 +1921,14 @@
       "onboard_time": 1681012049,
       "rank": 4,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 932306,
+      "num": 932306,
+      "word": "EDG醒醒",
+      "onboard_time": 1681040125,
+      "rank": 0,
+      "category": "游戏"
     },
     {
       "raw_hot": 925827,
@@ -2233,6 +2249,14 @@
       "onboard_time": 1680744089,
       "rank": 5,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 850362,
+      "num": 850362,
+      "word": "燃烧的巴黎圣母院",
+      "onboard_time": 1681037784,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 848204,
@@ -3115,6 +3139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 665639,
+      "num": 665639,
+      "word": "曾可妮搂刘雅瑟脖子",
+      "onboard_time": 1681040666,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 663175,
       "num": 663175,
       "word": "山东推出399元高铁环游套票",
@@ -3392,6 +3424,14 @@
       "word": "警方通报上海一男子因纠纷杀害妻子",
       "onboard_time": 1680499830,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 623852,
+      "num": 623852,
+      "word": "绿币厕所",
+      "onboard_time": 1681038926,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -3809,14 +3849,6 @@
       "onboard_time": 1680680310,
       "rank": 11,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 555953,
-      "num": 412630,
-      "word": "警方通报男子驾车冲撞女子致3死7伤",
-      "onboard_time": 1681038565,
-      "rank": 34,
-      "category": "社会负面"
     },
     {
       "raw_hot": 555392,
@@ -5035,6 +5067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 429162,
+      "num": 265121,
+      "word": "王冰冰说一不小心和海虹撞了衫",
+      "onboard_time": 1681042105,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 427541,
       "num": 389413,
       "word": "上海出发1小时就能到的城市",
@@ -5435,14 +5475,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 398655,
-      "num": 398655,
-      "word": "燃烧的巴黎圣母院",
-      "onboard_time": 1681037784,
-      "rank": 14,
-      "category": "影视"
-    },
-    {
       "raw_hot": 398163,
       "num": 398163,
       "word": "马嘉祺丁程鑫张真源被认成三胞胎",
@@ -5577,6 +5609,14 @@
       "onboard_time": 1680576691,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 390561,
+      "num": 260773,
+      "word": "肖战把水瓶摆正",
+      "onboard_time": 1681039165,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 390344,
@@ -5755,14 +5795,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 377346,
-      "num": 443004,
-      "word": "绿币厕所",
-      "onboard_time": 1681038926,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 375457,
       "num": 283214,
       "word": "我们都应该对月经羞耻说不",
@@ -5833,6 +5865,14 @@
       "onboard_time": 1680766589,
       "rank": 21,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 370642,
+      "num": 370642,
+      "word": "当许杨玉琢被要联系方式",
+      "onboard_time": 1681041749,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 370545,
@@ -6427,6 +6467,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 335844,
+      "num": 335844,
+      "word": "看得出来长月的片场真的很冷",
+      "onboard_time": 1681038805,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 335424,
       "num": 335424,
       "word": "BLG发布律师声明",
@@ -6857,6 +6905,14 @@
       "onboard_time": 1681010127,
       "rank": 41,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 309455,
+      "num": 221986,
+      "word": "EXO新歌LetMeIn",
+      "onboard_time": 1681041806,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 309102,
@@ -7923,6 +7979,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 261783,
+      "num": 219923,
+      "word": "江疏影抢工作室物料",
+      "onboard_time": 1681040906,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 261725,
       "num": 221118,
       "word": "淄博烧烤店主苦口婆心劝排队顾客",
@@ -7945,14 +8009,6 @@
       "onboard_time": 1680787234,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 260773,
-      "num": 260773,
-      "word": "肖战把水瓶摆正",
-      "onboard_time": 1681039165,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 260709,
@@ -8497,6 +8553,14 @@
       "onboard_time": 1680749309,
       "rank": 29,
       "category": "科技"
+    },
+    {
+      "raw_hot": 241200,
+      "num": 196440,
+      "word": "职场中文凭真的有那么重要吗",
+      "onboard_time": 1681042105,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 240949,
@@ -9059,6 +9123,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 224824,
+      "num": 196390,
+      "word": "蔡卓妍张天爱合照",
+      "onboard_time": 1681040666,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 224784,
       "num": 224784,
       "word": "最食人间烟火色",
@@ -9145,6 +9217,14 @@
       "onboard_time": 1680854249,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 222289,
+      "num": 222289,
+      "word": "过度超前消费有多可怕",
+      "onboard_time": 1681042226,
+      "rank": 24,
+      "category": "财经,社会议题"
     },
     {
       "raw_hot": 221896,
@@ -9483,6 +9563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 214039,
+      "num": 196229,
+      "word": "白鹿蚌壳装土味应援桑酒",
+      "onboard_time": 1681041866,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 213929,
       "num": 213929,
       "word": "电竞少年踏春记",
@@ -9777,14 +9865,6 @@
       "onboard_time": 1680934826,
       "rank": 24,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 208752,
-      "num": 190726,
-      "word": "看得出来长月的片场真的很冷",
-      "onboard_time": 1681038805,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 208549,
@@ -10931,6 +11011,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 199300,
+      "num": 193542,
+      "word": "王祖蓝李亚男海豹式鼓掌",
+      "onboard_time": 1681042826,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 199199,
       "num": 199199,
       "word": "舒淇为张艺兴新片打call",
@@ -11163,6 +11251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 196618,
+      "num": 196618,
+      "word": "JDG挺进春决",
+      "onboard_time": 1681040486,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 196614,
       "num": 180159,
       "word": "王一博白色小香风造型花絮",
@@ -11240,6 +11336,14 @@
       "word": "忠犬八公结局是HE",
       "onboard_time": 1680839971,
       "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 195473,
+      "num": 195473,
+      "word": "罗云熙可仙可魔角色塑造力",
+      "onboard_time": 1681043127,
+      "rank": 36,
       "category": "影视"
     },
     {
@@ -12816,6 +12920,14 @@
       "word": "太古里偶遇吉克隽逸",
       "onboard_time": 1680443981,
       "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 174278,
+      "num": 174278,
+      "word": "王力宏霍建华林心如聚会",
+      "onboard_time": 1681043309,
+      "rank": 41,
       "category": "艺人"
     },
     {
@@ -15675,6 +15787,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 101958,
+      "num": 110645,
+      "word": "普宁",
+      "onboard_time": 1681043127,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 101823,
       "num": 101823,
       "word": "白鹿桑酒转场视频",
@@ -15776,6 +15896,14 @@
       "word": "洛阳全城剧本杀",
       "onboard_time": 1680765026,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 97287,
+      "num": 865197,
+      "word": "这些旅游专列已发车",
+      "onboard_time": 1681042525,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -16455,6 +16583,9 @@
     },
     {
       "word": "#中法元首会晤的三个关键词#"
+    },
+    {
+      "word": "#开局加把劲#"
     }
   ]
 }
