@@ -1,6 +1,6 @@
 {
   "startTime": 1680970864988,
-  "endTime": 1681053360392,
+  "endTime": 1681054400658,
   "band_list": [
     {
       "raw_hot": 2140320,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2084198,
-      "num": 455626,
+      "num": 516094,
       "word": "王力宏霍建华林心如聚会",
       "onboard_time": 1681043309,
       "rank": 41,
@@ -65,6 +65,14 @@
       "onboard_time": 1681044809,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1668695,
+      "num": 1668695,
+      "word": "李坤城去世",
+      "onboard_time": 1681052670,
+      "rank": 13,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1639231,
@@ -132,7 +140,7 @@
     },
     {
       "raw_hot": 1285722,
-      "num": 449679,
+      "num": 540412,
       "word": "宣璐发缝",
       "onboard_time": 1681047812,
       "rank": 11,
@@ -339,12 +347,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 737745,
+      "num": 737745,
+      "word": "张艺谋第一次拍网剧",
+      "onboard_time": 1681052429,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 728408,
       "num": 728408,
       "word": "吴京张译领奖比心",
       "onboard_time": 1681048769,
       "rank": 7,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 709363,
+      "num": 505035,
+      "word": "贵州失联母子已平安找到",
+      "onboard_time": 1681052131,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 695181,
@@ -427,14 +451,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 628915,
-      "num": 231677,
-      "word": "贵州失联母子已平安找到",
-      "onboard_time": 1681052131,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 623852,
       "num": 623852,
       "word": "绿币厕所",
@@ -449,14 +465,6 @@
       "onboard_time": 1681000583,
       "rank": 6,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 608465,
-      "num": 410314,
-      "word": "李坤城去世",
-      "onboard_time": 1681052670,
-      "rank": 13,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 608017,
@@ -555,6 +563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 541312,
+      "num": 541312,
+      "word": "白桃星座",
+      "onboard_time": 1681052190,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 538603,
       "num": 538603,
       "word": "苏翊鸣羽生结弦同框",
@@ -593,14 +609,6 @@
       "onboard_time": 1681015109,
       "rank": 8,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 504830,
-      "num": 504830,
-      "word": "张艺谋第一次拍网剧",
-      "onboard_time": 1681052429,
-      "rank": 7,
-      "category": "影视"
     },
     {
       "raw_hot": 500962,
@@ -713,14 +721,6 @@
       "onboard_time": 1681046729,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 430743,
-      "num": 430743,
-      "word": "白桃星座",
-      "onboard_time": 1681052190,
-      "rank": 9,
-      "category": "情感"
     },
     {
       "raw_hot": 429468,
@@ -873,6 +873,14 @@
       "onboard_time": 1681030766,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 353159,
+      "num": 262493,
+      "word": "赵露思去游乐园只看不玩",
+      "onboard_time": 1681053447,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 352541,
@@ -1155,6 +1163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 262262,
+      "num": 262262,
+      "word": "好险差点就脱单了",
+      "onboard_time": 1681050089,
+      "rank": 29,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 261783,
       "num": 238359,
       "word": "江疏影抢工作室物料",
@@ -1275,14 +1291,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 234479,
-      "num": 234479,
-      "word": "好险差点就脱单了",
-      "onboard_time": 1681050089,
-      "rank": 29,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 233370,
       "num": 233370,
       "word": "翁虹女儿颜值",
@@ -1308,7 +1316,7 @@
     },
     {
       "raw_hot": 230782,
-      "num": 874309,
+      "num": 951175,
       "word": "这些旅游专列已发车",
       "onboard_time": 1681042525,
       "rank": 2,
@@ -1451,6 +1459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 213818,
+      "num": 213818,
+      "word": "桑酒为救冥夜自愿献出仙髓",
+      "onboard_time": 1681052554,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 212593,
       "num": 212593,
       "word": "刘耀文是不是把严浩翔伞拿走了",
@@ -1521,6 +1537,14 @@
       "onboard_time": 1681002147,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 204388,
+      "num": 204388,
+      "word": "刘宇宁也不知道安乐传什么时候播出",
+      "onboard_time": 1681053689,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 204205,
@@ -1651,20 +1675,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 198588,
-      "num": 198588,
-      "word": "桑酒为救冥夜自愿献出仙髓",
-      "onboard_time": 1681052554,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 197483,
       "num": 152612,
       "word": "2023电影频道M榜荣誉名单",
       "onboard_time": 1681043728,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 196952,
+      "num": 196952,
+      "word": "第一次觉得增重好难",
+      "onboard_time": 1681051531,
+      "rank": 38,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 196618,
@@ -1713,14 +1737,6 @@
       "onboard_time": 1681045950,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 194853,
-      "num": 194853,
-      "word": "第一次觉得增重好难",
-      "onboard_time": 1681051531,
-      "rank": 38,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 194607,
@@ -2307,6 +2323,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 133016,
+      "num": 133016,
+      "word": "三生友幸连麦睡觉",
+      "onboard_time": 1681053928,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 130215,
       "num": 130215,
       "word": "胡歌为谭卓打call",
@@ -2361,6 +2385,14 @@
       "onboard_time": 1680970405,
       "rank": 47,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 126632,
+      "num": 126632,
+      "word": "三生有幸的心动瞬间",
+      "onboard_time": 1681053628,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 126604,
@@ -2475,6 +2507,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 115752,
+      "num": 128946,
+      "word": "高诗岩13投1中",
+      "onboard_time": 1681053869,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115310,
       "num": 115310,
       "word": "LPL",
@@ -2553,6 +2593,14 @@
       "onboard_time": 1681036224,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 105701,
+      "num": 126573,
+      "word": "四川气温热到全国第一",
+      "onboard_time": 1681053750,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 104887,
@@ -2832,6 +2880,9 @@
     },
     {
       "word": "#开局加把劲#"
+    },
+    {
+      "word": "#中法元首会晤上满满岭南元素#"
     }
   ]
 }
