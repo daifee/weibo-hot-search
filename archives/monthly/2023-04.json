@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681028380698,
+  "endTime": 1681029203325,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -2971,6 +2971,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 767844,
+      "num": 267284,
+      "word": "游客吐槽甘孜一公厕需凭空瓶进入",
+      "onboard_time": 1681027584,
+      "rank": 15,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 766991,
       "num": 362626,
       "word": "陈坤 白宇是真的好演员",
@@ -5443,6 +5451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 472638,
+      "num": 219780,
+      "word": "面包店赠试吃吐司块被顾客差评",
+      "onboard_time": 1681026866,
+      "rank": 21,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 472015,
       "num": 472015,
       "word": "男子连喝10多年栀子茶险肠坏死",
@@ -6051,6 +6067,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 423540,
+      "num": 423540,
+      "word": "张婧仪一字肩绿色纱裙",
+      "onboard_time": 1681027886,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 423365,
       "num": 423365,
       "word": "程潇三天速成的hiphop",
@@ -6345,14 +6369,6 @@
       "onboard_time": 1680523353,
       "rank": 18,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 405534,
-      "num": 219780,
-      "word": "面包店赠试吃吐司块被顾客差评",
-      "onboard_time": 1681026866,
-      "rank": 21,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 404217,
@@ -9315,14 +9331,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 267284,
-      "num": 267284,
-      "word": "游客吐槽甘孜一公厕需凭空瓶进入",
-      "onboard_time": 1681027584,
-      "rank": 15,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 267241,
       "num": 267241,
       "word": "时尚先生四月刊",
@@ -9969,6 +9977,14 @@
       "onboard_time": 1680421349,
       "rank": 17,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 246444,
+      "num": 227037,
+      "word": "最食人间烟火色大合照",
+      "onboard_time": 1681025906,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 246183,
@@ -11688,14 +11704,6 @@
       "word": "宇宙探索编辑部",
       "onboard_time": 1680324870,
       "rank": 27,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 208486,
-      "num": 208486,
-      "word": "最食人间烟火色大合照",
-      "onboard_time": 1681025906,
-      "rank": 23,
       "category": "影视"
     },
     {
@@ -14675,6 +14683,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 185317,
+      "num": 185317,
+      "word": "长月烬明化妆师",
+      "onboard_time": 1681029148,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 185191,
       "num": 185191,
       "word": "半熟恋人2",
@@ -14697,6 +14713,14 @@
       "onboard_time": 1680744806,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 184950,
+      "num": 157928,
+      "word": "金智秀Flower人歌初舞台",
+      "onboard_time": 1681028666,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 184945,
@@ -14785,14 +14809,6 @@
       "onboard_time": 1680589826,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 183915,
-      "num": 183915,
-      "word": "张婧仪一字肩绿色纱裙",
-      "onboard_time": 1681027886,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 183844,
@@ -15281,6 +15297,14 @@
       "onboard_time": 1680443502,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 176649,
+      "num": 176649,
+      "word": "2022年中国篮球名人堂入堂仪式",
+      "onboard_time": 1681026026,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 176606,
@@ -16283,14 +16307,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 160659,
-      "num": 160659,
-      "word": "2022年中国篮球名人堂入堂仪式",
-      "onboard_time": 1681026026,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 160628,
       "num": 168584,
       "word": "代号鸢周瑜",
@@ -16473,6 +16489,14 @@
       "onboard_time": 1680406468,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158204,
+      "num": 158204,
+      "word": "林诗栋",
+      "onboard_time": 1681028844,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 158195,
@@ -18875,6 +18899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 116037,
+      "num": 116037,
+      "word": "黄建新评价无名票房表现",
+      "onboard_time": 1681029025,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 116027,
       "num": 183000,
       "word": "阿森纳vs利兹联",
@@ -19465,6 +19497,14 @@
       "onboard_time": 1681018347,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 99890,
+      "num": 99890,
+      "word": "何洛洛说未来工作以表演为主",
+      "onboard_time": 1681028965,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 99835,

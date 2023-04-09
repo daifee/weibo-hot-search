@@ -1,0 +1,410 @@
+{
+  "runTime": 1681029203325,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1115679,
+        "num": 1115679,
+        "word": "华晨宇回应华语乐坛永远的神",
+        "onboard_time": 1681009765,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 454721,
+        "num": 454721,
+        "word": "马克龙称赞中国大学生用法语提问",
+        "onboard_time": 1681018707,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 50409,
+        "num": 444075,
+        "word": "春天里我们都是奋斗者",
+        "onboard_time": 1681025188,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 572069,
+        "num": 443135,
+        "word": "这是选秀里该出现的身材吗",
+        "onboard_time": 1681019246,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 441761,
+        "num": 441761,
+        "word": "内娱追星成功天花板",
+        "onboard_time": 1681022906,
+        "rank": 4,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 423540,
+        "num": 423540,
+        "word": "张婧仪一字肩绿色纱裙",
+        "onboard_time": 1681027886,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 396304,
+        "num": 396304,
+        "word": "我海军军舰与台舰目视距离5海里",
+        "onboard_time": 1681017148,
+        "rank": 6,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 330107,
+        "num": 330107,
+        "word": "小美人鱼反派公主剧照",
+        "onboard_time": 1681021405,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 251135,
+        "num": 251135,
+        "word": "张静初聊奶奶的处世智慧",
+        "onboard_time": 1681026026,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 228836,
+        "num": 228836,
+        "word": "T1对战GEN",
+        "onboard_time": 1681020865,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1713688,
+        "num": 228770,
+        "word": "周雨彤 韩火火",
+        "onboard_time": 1681024648,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1091161,
+        "num": 228416,
+        "word": "拍写真建议大家找女摄",
+        "onboard_time": 1681022007,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 767844,
+        "num": 228132,
+        "word": "游客吐槽甘孜一公厕需凭空瓶进入",
+        "onboard_time": 1681027584,
+        "rank": 12,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 675214,
+        "num": 227992,
+        "word": "蒋勤勤未修生图",
+        "onboard_time": 1681022548,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 512332,
+        "num": 227847,
+        "word": "丫丫正式移交中方",
+        "onboard_time": 1681012828,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333125,
+        "num": 227562,
+        "word": "丫丫将由中美团队共同照料至月底",
+        "onboard_time": 1681022726,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275897,
+        "num": 227360,
+        "word": "前助理评价李现",
+        "onboard_time": 1681011869,
+        "rank": 16,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 246444,
+        "num": 227037,
+        "word": "最食人间烟火色大合照",
+        "onboard_time": 1681025906,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 226951,
+        "num": 226951,
+        "word": "淄博烧烤",
+        "onboard_time": 1681014808,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 215456,
+        "num": 215456,
+        "word": "95后男生国企辞职和妻子收废品",
+        "onboard_time": 1681012049,
+        "rank": 19,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 548064,
+        "num": 215046,
+        "word": "Angelababy晒偶遇的猫头鹰",
+        "onboard_time": 1681026447,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 472638,
+        "num": 214524,
+        "word": "面包店赠试吃吐司块被顾客差评",
+        "onboard_time": 1681026866,
+        "rank": 21,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 233720,
+        "num": 214141,
+        "word": "25岁以上就不用订闹钟了",
+        "onboard_time": 1681009587,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 213597,
+        "num": 213597,
+        "word": "对台岛关键目标模拟精确打击",
+        "onboard_time": 1681015949,
+        "rank": 23,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 197293,
+        "num": 197293,
+        "word": "赵弈钦李沐宸吻戏花絮",
+        "onboard_time": 1681022548,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 191315,
+        "num": 191315,
+        "word": "谁才是动漫颜值天花板",
+        "onboard_time": 1681023626,
+        "rank": 25,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 185317,
+        "num": 185317,
+        "word": "长月烬明化妆师",
+        "onboard_time": 1681029148,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176649,
+        "num": 176649,
+        "word": "2022年中国篮球名人堂入堂仪式",
+        "onboard_time": 1681026026,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162296,
+        "num": 162296,
+        "word": "淄博烧烤店主苦口婆心劝排队顾客",
+        "onboard_time": 1681021225,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158204,
+        "num": 158204,
+        "word": "林诗栋",
+        "onboard_time": 1681028844,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184950,
+        "num": 157928,
+        "word": "金智秀Flower人歌初舞台",
+        "onboard_time": 1681028666,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157099,
+        "num": 157099,
+        "word": "鬼灭之刃",
+        "onboard_time": 1681015109,
+        "rank": 31,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 156143,
+        "num": 156143,
+        "word": "吴磊杭州",
+        "onboard_time": 1681011266,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156067,
+        "num": 156067,
+        "word": "易烊千玺黑色外套高铁路透",
+        "onboard_time": 1681022367,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147987,
+        "num": 147987,
+        "word": "韩国人有自己的张远",
+        "onboard_time": 1681008566,
+        "rank": 34,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 132942,
+        "num": 132942,
+        "word": "罗云熙烬皇亲征剧照",
+        "onboard_time": 1681020506,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 124488,
+        "num": 124488,
+        "word": "导演说消失的她主演将带来颠覆表演",
+        "onboard_time": 1681026988,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 122856,
+        "num": 122856,
+        "word": "毛不易巡演官宣长沙站",
+        "onboard_time": 1681023507,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 117326,
+        "num": 117326,
+        "word": "王一博擦飞机",
+        "onboard_time": 1681012350,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 116037,
+        "num": 116037,
+        "word": "黄建新评价无名票房表现",
+        "onboard_time": 1681029025,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 105963,
+        "num": 105963,
+        "word": "2023LCK春决",
+        "onboard_time": 1681022548,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 105464,
+        "num": 105464,
+        "word": "胃病转向胃癌有5个信号",
+        "onboard_time": 1680998963,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100413,
+        "num": 100413,
+        "word": "白鹿桑酒转场视频",
+        "onboard_time": 1681025066,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 99890,
+        "num": 99890,
+        "word": "何洛洛说未来工作以表演为主",
+        "onboard_time": 1681028965,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 96067,
+        "num": 96067,
+        "word": "孙海洋",
+        "onboard_time": 1681020865,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94901,
+        "num": 94901,
+        "word": "BLG发布律师声明",
+        "onboard_time": 1681016188,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 94238,
+        "num": 94238,
+        "word": "医院回应2老人长住等候椅",
+        "onboard_time": 1681013850,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90808,
+        "num": 90808,
+        "word": "原来胃是这样被弄坏的",
+        "onboard_time": 1681005625,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 86520,
+        "num": 86520,
+        "word": "你觉得工资越高越幸福吗",
+        "onboard_time": 1681003108,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 85405,
+        "num": 85405,
+        "word": "周雨彤面对误解的态度",
+        "onboard_time": 1681014568,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#中法元首会晤细节拉满成果满满#"
+    }
+  }
+}
