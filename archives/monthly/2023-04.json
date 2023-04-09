@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681008132344,
+  "endTime": 1681010244720,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -3451,6 +3451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 668117,
+      "num": 668117,
+      "word": "被闹钟惊醒对身体危害大",
+      "onboard_time": 1681005748,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 666903,
       "num": 666903,
       "word": "95后寿衣模特回应被说阴气重",
@@ -4116,7 +4124,7 @@
     },
     {
       "raw_hot": 579317,
-      "num": 441319,
+      "num": 545615,
       "word": "原来胃是这样被弄坏的",
       "onboard_time": 1681005625,
       "rank": 11,
@@ -4899,14 +4907,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 503061,
-      "num": 503061,
-      "word": "被闹钟惊醒对身体危害大",
-      "onboard_time": 1681005748,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 501162,
       "num": 501162,
       "word": "张杰辟谣武汉加五场",
@@ -5619,6 +5619,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 442825,
+      "num": 420420,
+      "word": "韩国人有自己的张远",
+      "onboard_time": 1681008566,
+      "rank": 11,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 440390,
       "num": 440390,
       "word": "陈鑫海演技",
@@ -5761,6 +5769,14 @@
       "onboard_time": 1680274590,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 429468,
+      "num": 429468,
+      "word": "王宝强回归综艺效果",
+      "onboard_time": 1681005147,
+      "rank": 12,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 429346,
@@ -5963,14 +5979,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 418653,
-      "num": 418653,
-      "word": "王宝强回归综艺效果",
-      "onboard_time": 1681005147,
-      "rank": 12,
-      "category": "综艺,艺人"
-    },
-    {
       "raw_hot": 417982,
       "num": 417982,
       "word": "小兰救柯南最后一跳",
@@ -6033,6 +6041,14 @@
       "onboard_time": 1680429510,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 415070,
+      "num": 415070,
+      "word": "曾黎回应姨圈顶流",
+      "onboard_time": 1681006947,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 414354,
@@ -6547,14 +6563,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 381141,
-      "num": 381141,
-      "word": "曾黎回应姨圈顶流",
-      "onboard_time": 1681006947,
-      "rank": 22,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 380827,
       "num": 380827,
       "word": "李健音乐节",
@@ -6648,6 +6656,14 @@
       "word": "爱情而已马小跳",
       "onboard_time": 1680675030,
       "rank": 28,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 373038,
+      "num": 373038,
+      "word": "长月烬明冥夜桑酒角色海报",
+      "onboard_time": 1681009647,
+      "rank": 13,
       "category": "影视"
     },
     {
@@ -7259,6 +7275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 341967,
+      "num": 341967,
+      "word": "华晨宇回应华语乐坛永远的神",
+      "onboard_time": 1681009765,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 341658,
       "num": 341658,
       "word": "白鹿找镜头",
@@ -7763,6 +7787,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 315862,
+      "num": 315862,
+      "word": "你我皆是高加林",
+      "onboard_time": 1681006706,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 315573,
       "num": 315573,
       "word": "湖北事业单位",
@@ -8227,6 +8259,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 293949,
+      "num": 293949,
+      "word": "瓜农刺死城管案律师作无罪辩护",
+      "onboard_time": 1681007426,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 293821,
       "num": 293821,
       "word": "长月烬明最后可能只剩下剧名",
@@ -8459,6 +8499,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 285798,
+      "num": 203461,
+      "word": "25岁以上就不用订闹钟了",
+      "onboard_time": 1681009587,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 285661,
       "num": 279723,
       "word": "声生不息",
@@ -8521,14 +8569,6 @@
       "onboard_time": 1680706357,
       "rank": 33,
       "category": "作品衍生,幽默"
-    },
-    {
-      "raw_hot": 282867,
-      "num": 282867,
-      "word": "你我皆是高加林",
-      "onboard_time": 1681006706,
-      "rank": 29,
-      "category": "影视"
     },
     {
       "raw_hot": 282545,
@@ -11243,6 +11283,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 209011,
+      "num": 209011,
+      "word": "灌篮高手流川枫角色预告",
+      "onboard_time": 1681008625,
+      "rank": 26,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 208917,
       "num": 208917,
       "word": "甜咸口青团大pk",
@@ -11337,6 +11385,14 @@
       "onboard_time": 1680707312,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 208022,
+      "num": 208022,
+      "word": "要久久爱首发杀青特辑",
+      "onboard_time": 1681009587,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 207959,
@@ -12547,6 +12603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 199694,
+      "num": 199694,
+      "word": "陈晓李沁被拉cp的表情",
+      "onboard_time": 1681007786,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 199687,
       "num": 199687,
       "word": "任嘉伦成都随拍",
@@ -12585,6 +12649,14 @@
       "onboard_time": 1680578010,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 199378,
+      "num": 199378,
+      "word": "黄奕黑色露腰开衩裙",
+      "onboard_time": 1681009826,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 199368,
@@ -13723,6 +13795,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 189475,
+      "num": 189475,
+      "word": "武汉人体检数据有哪些变化",
+      "onboard_time": 1681008566,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189344,
       "num": 189344,
       "word": "伯远INTO1海外行程vlog",
@@ -14073,6 +14153,14 @@
       "onboard_time": 1680852570,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 185874,
+      "num": 185874,
+      "word": "新版乳腺癌诊疗指南发布",
+      "onboard_time": 1681009107,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 185702,
@@ -15651,14 +15739,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 162055,
-      "num": 162055,
-      "word": "陈晓李沁被拉cp的表情",
-      "onboard_time": 1681007786,
-      "rank": 34,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 161534,
       "num": 161534,
       "word": "这个宿舍是选对了",
@@ -15961,14 +16041,6 @@
       "onboard_time": 1680411748,
       "rank": 41,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 156035,
-      "num": 156035,
-      "word": "瓜农刺死城管案律师作无罪辩护",
-      "onboard_time": 1681007426,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 156013,
@@ -16355,6 +16427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 150092,
+      "num": 150092,
+      "word": "LCK",
+      "onboard_time": 1680332732,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 150018,
       "num": 150018,
       "word": "蜘蛛侠纵横宇宙新预告",
@@ -16433,14 +16513,6 @@
       "onboard_time": 1680823946,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 149019,
-      "num": 149019,
-      "word": "LCK",
-      "onboard_time": 1680332732,
-      "rank": 40,
-      "category": "游戏"
     },
     {
       "raw_hot": 148900,
@@ -16691,6 +16763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 144766,
+      "num": 144766,
+      "word": "斗破苍穹",
+      "onboard_time": 1681010127,
+      "rank": 41,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 144656,
       "num": 144656,
       "word": "赵粤库存跳舞视频",
@@ -16736,6 +16816,14 @@
       "word": "灿烂的转身爽点",
       "onboard_time": 1680751589,
       "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 143776,
+      "num": 143776,
+      "word": "长月烬明OST界上线",
+      "onboard_time": 1681010067,
+      "rank": 42,
       "category": "影视"
     },
     {
