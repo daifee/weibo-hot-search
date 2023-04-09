@@ -1,6 +1,6 @@
 {
   "startTime": 1680970864988,
-  "endTime": 1681036414635,
+  "endTime": 1681038789720,
   "band_list": [
     {
       "raw_hot": 2140320,
@@ -9,6 +9,14 @@
       "onboard_time": 1681012828,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2037878,
+      "num": 646625,
+      "word": "时间夺走了杨洋的什么",
+      "onboard_time": 1681034425,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1862844,
@@ -51,12 +59,12 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 1462747,
-      "num": 646625,
-      "word": "时间夺走了杨洋的什么",
-      "onboard_time": 1681034425,
-      "rank": 11,
-      "category": "作品衍生"
+      "raw_hot": 1419332,
+      "num": 1419332,
+      "word": "镇政府回应男子当街强吻踹飞女孩",
+      "onboard_time": 1681033465,
+      "rank": 3,
+      "category": "社会负面"
     },
     {
       "raw_hot": 1368434,
@@ -147,14 +155,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 1002256,
-      "num": 1002256,
-      "word": "镇政府回应男子当街强吻踹飞女孩",
-      "onboard_time": 1681033465,
-      "rank": 3,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 933128,
       "num": 933128,
       "word": "95后男生国企辞职和妻子收废品",
@@ -233,6 +233,14 @@
       "onboard_time": 1680964351,
       "rank": 3,
       "category": "情感"
+    },
+    {
+      "raw_hot": 685295,
+      "num": 685295,
+      "word": "长月烬明吃席了",
+      "onboard_time": 1681036045,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 674466,
@@ -323,6 +331,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 578056,
+      "num": 263030,
+      "word": "阿姨用筷子蘸肉包馄饨几乎只有皮",
+      "onboard_time": 1681034546,
+      "rank": 31,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 577412,
       "num": 577412,
       "word": "唐山撞船致5死案船主被控故意杀人",
@@ -377,6 +393,14 @@
       "onboard_time": 1680961710,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 514620,
+      "num": 514620,
+      "word": "苏翊鸣羽生结弦同框",
+      "onboard_time": 1681036947,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 507498,
@@ -515,14 +539,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 411508,
-      "num": 262751,
-      "word": "阿姨用筷子蘸肉包馄饨几乎只有皮",
-      "onboard_time": 1681034546,
-      "rank": 31,
-      "category": "美食,社会新闻"
-    },
-    {
       "raw_hot": 403142,
       "num": 403142,
       "word": "安乐传",
@@ -555,6 +571,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 368130,
+      "num": 368130,
+      "word": "苏有朋留胡子了",
+      "onboard_time": 1681038025,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 360807,
       "num": 360807,
       "word": "关于中国留学生在泰遇害的情况通报",
@@ -571,6 +595,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 353160,
+      "num": 353160,
+      "word": "燃烧的巴黎圣母院",
+      "onboard_time": 1681037784,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 352541,
       "num": 246652,
       "word": "第一次见小猫坐月子",
@@ -585,6 +617,14 @@
       "onboard_time": 1681003826,
       "rank": 25,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 346543,
+      "num": 256083,
+      "word": "上海地铁回应2女子在车厢内薅头发",
+      "onboard_time": 1681035265,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 345902,
@@ -625,6 +665,14 @@
       "onboard_time": 1681016188,
       "rank": 15,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 333031,
+      "num": 251055,
+      "word": "易烊千玺透露将有音乐作品问世",
+      "onboard_time": 1681036286,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 332273,
@@ -689,6 +737,14 @@
       "onboard_time": 1681006706,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 311142,
+      "num": 491765,
+      "word": "电子人会流下仿生泪吗",
+      "onboard_time": 1681033585,
+      "rank": 44,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 310639,
@@ -771,12 +827,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 275405,
-      "num": 275405,
-      "word": "长月烬明吃席了",
-      "onboard_time": 1681036045,
-      "rank": 17,
-      "category": "影视"
+      "raw_hot": 276568,
+      "num": 276568,
+      "word": "JDG对战EDG",
+      "onboard_time": 1681033045,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 270592,
@@ -859,6 +915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 242499,
+      "num": 242499,
+      "word": "长月烬明五粮液同款配色婚服",
+      "onboard_time": 1681037065,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 240949,
       "num": 240949,
       "word": "浙大一个走廊被紫藤花淹没",
@@ -873,14 +937,6 @@
       "onboard_time": 1681014026,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 237064,
-      "num": 237064,
-      "word": "上海地铁回应2女子在车厢内薅头发",
-      "onboard_time": 1681035265,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 233370,
@@ -955,14 +1011,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 223620,
-      "num": 223620,
-      "word": "JDG对战EDG",
-      "onboard_time": 1681033045,
-      "rank": 27,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 221428,
       "num": 210120,
       "word": "邢菲活动生图",
@@ -1027,14 +1075,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 214490,
-      "num": 214490,
-      "word": "易烊千玺透露将有音乐作品问世",
-      "onboard_time": 1681036286,
-      "rank": 28,
-      "category": "影视"
-    },
-    {
       "raw_hot": 212593,
       "num": 212593,
       "word": "刘耀文是不是把严浩翔伞拿走了",
@@ -1075,6 +1115,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 205546,
+      "num": 205546,
+      "word": "王鹤棣趴在地上和宋丹丹视频通话",
+      "onboard_time": 1681035926,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205072,
       "num": 205072,
       "word": "严浩翔原创单曲H",
@@ -1089,6 +1137,14 @@
       "onboard_time": 1681002147,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 204205,
+      "num": 204205,
+      "word": "MSI",
+      "onboard_time": 1681037065,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 204073,
@@ -1113,6 +1169,14 @@
       "onboard_time": 1681016850,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 201841,
+      "num": 201841,
+      "word": "周深又用采访麦飙歌了",
+      "onboard_time": 1681037606,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 200876,
@@ -1225,14 +1289,6 @@
       "onboard_time": 1681015408,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 189210,
-      "num": 189210,
-      "word": "电子人会流下仿生泪吗",
-      "onboard_time": 1681033585,
-      "rank": 44,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 188411,
@@ -1379,6 +1435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170295,
+      "num": 170295,
+      "word": "警方通报男子驾车冲撞女子致3死7伤",
+      "onboard_time": 1681038565,
+      "rank": 34,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 170221,
       "num": 142136,
       "word": "马思唯歌词",
@@ -1401,6 +1465,14 @@
       "onboard_time": 1681023507,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 167359,
+      "num": 167359,
+      "word": "Peyz获FMVP",
+      "onboard_time": 1681037127,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 166544,
@@ -1449,6 +1521,14 @@
       "onboard_time": 1680995357,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 155972,
+      "num": 155972,
+      "word": "T1四连亚",
+      "onboard_time": 1681037910,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 155372,
@@ -1505,14 +1585,6 @@
       "onboard_time": 1680999442,
       "rank": 34,
       "category": "幽默,教育"
-    },
-    {
-      "raw_hot": 147382,
-      "num": 147382,
-      "word": "王鹤棣趴在地上和宋丹丹视频通话",
-      "onboard_time": 1681035926,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 147236,
@@ -1787,6 +1859,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 115310,
+      "num": 115310,
+      "word": "LPL",
+      "onboard_time": 1681038086,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 113699,
       "num": 103866,
       "word": "长月烬明带动优酷APP下载量登顶",
@@ -1801,6 +1881,14 @@
       "onboard_time": 1680974418,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 112299,
+      "num": 112299,
+      "word": "傲寒戈娅四杀",
+      "onboard_time": 1681037606,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 111522,
