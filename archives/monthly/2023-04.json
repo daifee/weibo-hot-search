@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681035395299,
+  "endTime": 1681036414635,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -860,7 +860,7 @@
     },
     {
       "raw_hot": 1862844,
-      "num": 355969,
+      "num": 639622,
       "word": "周雨彤 韩火火",
       "onboard_time": 1681024648,
       "rank": 12,
@@ -1275,6 +1275,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1462747,
+      "num": 646625,
+      "word": "时间夺走了杨洋的什么",
+      "onboard_time": 1681034425,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1458986,
       "num": 1458986,
       "word": "特斯拉降价",
@@ -1444,7 +1452,7 @@
     },
     {
       "raw_hot": 1309309,
-      "num": 353816,
+      "num": 636258,
       "word": "拍写真建议大家找女摄",
       "onboard_time": 1681022007,
       "rank": 46,
@@ -1884,7 +1892,7 @@
     },
     {
       "raw_hot": 1070241,
-      "num": 352707,
+      "num": 394181,
       "word": "蒋勤勤未修生图",
       "onboard_time": 1681022548,
       "rank": 11,
@@ -2003,6 +2011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1010173,
+      "num": 1010173,
+      "word": "GEN夺冠",
+      "onboard_time": 1681035146,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1007605,
       "num": 1007605,
       "word": "OMG战胜TES",
@@ -2025,6 +2041,14 @@
       "onboard_time": 1680936447,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1002256,
+      "num": 1002256,
+      "word": "镇政府回应男子当街强吻踹飞女孩",
+      "onboard_time": 1681033465,
+      "rank": 3,
+      "category": "社会负面"
     },
     {
       "raw_hot": 1000798,
@@ -2577,14 +2601,6 @@
       "onboard_time": 1680945626,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 853394,
-      "num": 853394,
-      "word": "镇政府回应男子当街强吻踹飞女孩",
-      "onboard_time": 1681033465,
-      "rank": 3,
-      "category": "社会负面"
     },
     {
       "raw_hot": 850971,
@@ -3409,14 +3425,6 @@
       "onboard_time": 1680565527,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 694933,
-      "num": 355248,
-      "word": "时间夺走了杨洋的什么",
-      "onboard_time": 1681034425,
-      "rank": 11,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 694774,
@@ -4772,7 +4780,7 @@
     },
     {
       "raw_hot": 532190,
-      "num": 532190,
+      "num": 673875,
       "word": "张婧仪一字肩绿色纱裙",
       "onboard_time": 1681027886,
       "rank": 26,
@@ -5300,7 +5308,7 @@
     },
     {
       "raw_hot": 486556,
-      "num": 245752,
+      "num": 261313,
       "word": "二等功喜报送到妻子工作的小学",
       "onboard_time": 1681030525,
       "rank": 21,
@@ -6300,7 +6308,7 @@
     },
     {
       "raw_hot": 414472,
-      "num": 353108,
+      "num": 375743,
       "word": "李彩领你可是爱豆啊",
       "onboard_time": 1681032205,
       "rank": 30,
@@ -6337,6 +6345,14 @@
       "onboard_time": 1680609390,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 411508,
+      "num": 262751,
+      "word": "阿姨用筷子蘸肉包馄饨几乎只有皮",
+      "onboard_time": 1681034546,
+      "rank": 31,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 410090,
@@ -7284,7 +7300,7 @@
     },
     {
       "raw_hot": 352541,
-      "num": 244711,
+      "num": 246652,
       "word": "第一次见小猫坐月子",
       "onboard_time": 1681031127,
       "rank": 30,
@@ -7457,6 +7473,14 @@
       "onboard_time": 1680659491,
       "rank": 17,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 345902,
+      "num": 345902,
+      "word": "被阿姨一句话气哭了",
+      "onboard_time": 1681032748,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 345732,
@@ -7651,14 +7675,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 337256,
-      "num": 337256,
-      "word": "被阿姨一句话气哭了",
-      "onboard_time": 1681032748,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 336628,
       "num": 336628,
       "word": "人民网评陈某龙造谣被行拘",
@@ -7772,7 +7788,7 @@
     },
     {
       "raw_hot": 331488,
-      "num": 358545,
+      "num": 659084,
       "word": "荆州籍影人李现助力家乡乡村振兴",
       "onboard_time": 1681033825,
       "rank": 8,
@@ -8891,6 +8907,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 285011,
+      "num": 257610,
+      "word": "T1状态",
+      "onboard_time": 1681035086,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 284490,
       "num": 284490,
       "word": "王者荣耀",
@@ -9169,6 +9193,14 @@
       "onboard_time": 1680572011,
       "rank": 35,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 275405,
+      "num": 275405,
+      "word": "长月烬明吃席了",
+      "onboard_time": 1681036045,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 275061,
@@ -9891,6 +9923,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 253305,
+      "num": 253305,
+      "word": "杨紫皮衣live图",
+      "onboard_time": 1681034663,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 253090,
       "num": 218706,
       "word": "猫咪调摄像头向主人告状",
@@ -10459,6 +10499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 237064,
+      "num": 237064,
+      "word": "上海地铁回应2女子在车厢内薅头发",
+      "onboard_time": 1681035265,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 236735,
       "num": 220161,
       "word": "小学生继盘串后又流行起盘头",
@@ -10995,6 +11043,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 223620,
+      "num": 223620,
+      "word": "JDG对战EDG",
+      "onboard_time": 1681033045,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 223442,
       "num": 223442,
       "word": "10省区将出现大到暴雨",
@@ -11459,6 +11515,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 214490,
+      "num": 214490,
+      "word": "易烊千玺透露将有音乐作品问世",
+      "onboard_time": 1681036286,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 214221,
       "num": 214221,
       "word": "洪世贤感觉又要被艾莉抢走",
@@ -11553,14 +11617,6 @@
       "onboard_time": 1680510273,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 212782,
-      "num": 212782,
-      "word": "JDG对战EDG",
-      "onboard_time": 1681033045,
-      "rank": 27,
-      "category": "游戏"
     },
     {
       "raw_hot": 212722,
@@ -11777,14 +11833,6 @@
       "onboard_time": 1680574469,
       "rank": 25,
       "category": "影视,音乐"
-    },
-    {
-      "raw_hot": 209341,
-      "num": 209341,
-      "word": "GEN夺冠",
-      "onboard_time": 1681035146,
-      "rank": 28,
-      "category": "游戏"
     },
     {
       "raw_hot": 209246,
@@ -12233,14 +12281,6 @@
       "onboard_time": 1680686130,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 205343,
-      "num": 205343,
-      "word": "杨紫皮衣live图",
-      "onboard_time": 1681034663,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 205305,
@@ -13635,14 +13675,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 196281,
-      "num": 196281,
-      "word": "阿姨用筷子蘸肉包馄饨几乎只有皮",
-      "onboard_time": 1681034546,
-      "rank": 31,
-      "category": "美食,社会新闻"
-    },
-    {
       "raw_hot": 196237,
       "num": 196237,
       "word": "何洁陈楚生合唱",
@@ -14465,6 +14497,14 @@
       "onboard_time": 1680908477,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189210,
+      "num": 189210,
+      "word": "电子人会流下仿生泪吗",
+      "onboard_time": 1681033585,
+      "rank": 44,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 189147,
@@ -15617,6 +15657,14 @@
       "onboard_time": 1680419248,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 174888,
+      "num": 174888,
+      "word": "TTG对战Hero",
+      "onboard_time": 1681033644,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 174869,
@@ -17211,14 +17259,6 @@
       "category": "国内要闻,军事"
     },
     {
-      "raw_hot": 149412,
-      "num": 149412,
-      "word": "T1状态",
-      "onboard_time": 1681035086,
-      "rank": 41,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 149390,
       "num": 149390,
       "word": "贾乃亮呼吁关注孤独症群体",
@@ -17355,12 +17395,28 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 147382,
+      "num": 147382,
+      "word": "王鹤棣趴在地上和宋丹丹视频通话",
+      "onboard_time": 1681035926,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 147345,
       "num": 150229,
       "word": "舞社2主理人阵容官宣",
       "onboard_time": 1680401367,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 147236,
+      "num": 147236,
+      "word": "无名网播评分破8",
+      "onboard_time": 1681035566,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 147227,
@@ -18443,14 +18499,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 129121,
-      "num": 129121,
-      "word": "电子人会流下仿生泪吗",
-      "onboard_time": 1681033585,
-      "rank": 44,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 129089,
       "num": 165639,
       "word": "轻食版下午茶",
@@ -18835,6 +18883,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 121657,
+      "num": 121657,
+      "word": "都暻秀手势舞",
+      "onboard_time": 1681036224,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 121346,
       "num": 121346,
       "word": "保你平安票房破6亿",
@@ -19107,14 +19163,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 116341,
-      "num": 116341,
-      "word": "上海地铁回应2女子在车厢内薅头发",
-      "onboard_time": 1681035265,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 116222,
       "num": 116222,
       "word": "金晨快乐工作vlog",
@@ -19307,20 +19355,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 110918,
-      "num": 110918,
-      "word": "TTG对战Hero",
-      "onboard_time": 1681033644,
-      "rank": 48,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 110740,
       "num": 396814,
       "word": "仅退款是维护消费者权益",
       "onboard_time": 1680602429,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110458,
+      "num": 110458,
+      "word": "李斯丹妮舞社2初舞台被举来举去",
+      "onboard_time": 1681035746,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 109934,
@@ -19433,6 +19481,14 @@
       "onboard_time": 1681002327,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 106419,
+      "num": 106419,
+      "word": "PEL季后赛收官之战",
+      "onboard_time": 1681036224,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 106410,
@@ -20492,7 +20548,7 @@
     },
     {
       "raw_hot": 56034,
-      "num": 924833,
+      "num": 1004762,
       "word": "春天里我们都是奋斗者",
       "onboard_time": 1681025188,
       "rank": 2,
