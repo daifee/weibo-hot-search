@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681068805741,
+  "endTime": 1681071425982,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -21595,6 +21595,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 20729,
+      "num": 20729,
+      "word": "原神",
+      "onboard_time": 1681069931,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 20448,
       "num": 21759,
       "word": "金硕珍素颜照",
@@ -21617,6 +21625,14 @@
       "onboard_time": 1680459195,
       "rank": 47,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 17860,
+      "num": 17860,
+      "word": "看得出来她是真的喜欢讲话",
+      "onboard_time": 1681066814,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 16919,
@@ -21649,14 +21665,6 @@
       "onboard_time": 1680383591,
       "rank": 49,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 11526,
-      "num": 15357,
-      "word": "看得出来她是真的喜欢讲话",
-      "onboard_time": 1681066814,
-      "rank": 49,
-      "category": "幽默"
     }
   ],
   "hotgov_list": [
