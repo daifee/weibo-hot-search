@@ -1,6 +1,6 @@
 {
   "startTime": 1680970864988,
-  "endTime": 1681022025196,
+  "endTime": 1681024457348,
   "band_list": [
     {
       "raw_hot": 2140320,
@@ -43,6 +43,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 1246818,
+      "num": 330148,
+      "word": "拍写真建议大家找女摄",
+      "onboard_time": 1681022007,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1218650,
       "num": 1218650,
       "word": "林俊杰买虚拟地产浮亏91%",
@@ -57,6 +65,14 @@
       "onboard_time": 1680964472,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1070241,
+      "num": 327599,
+      "word": "蒋勤勤未修生图",
+      "onboard_time": 1681022548,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1029327,
@@ -131,8 +147,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 761226,
-      "num": 761226,
+      "raw_hot": 824491,
+      "num": 824491,
       "word": "这是选秀里该出现的身材吗",
       "onboard_time": 1681019246,
       "rank": 3,
@@ -140,7 +156,7 @@
     },
     {
       "raw_hot": 752721,
-      "num": 325922,
+      "num": 709687,
       "word": "马克龙称赞中国大学生用法语提问",
       "onboard_time": 1681018707,
       "rank": 11,
@@ -291,6 +307,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 500962,
+      "num": 500962,
+      "word": "小美人鱼反派公主剧照",
+      "onboard_time": 1681021405,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 483983,
       "num": 483983,
       "word": "气胸",
@@ -419,6 +443,22 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 343722,
+      "num": 319905,
+      "word": "丫丫将由中美团队共同照料至月底",
+      "onboard_time": 1681022726,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 343215,
+      "num": 343215,
+      "word": "内娱追星成功天花板",
+      "onboard_time": 1681022906,
+      "rank": 8,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 340790,
       "num": 340790,
       "word": "灰原哀内心独白",
@@ -507,6 +547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 290022,
+      "num": 290022,
+      "word": "赵弈钦李沐宸吻戏花絮",
+      "onboard_time": 1681022548,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 283652,
       "num": 283652,
       "word": "罗云熙烬皇亲征剧照",
@@ -561,6 +609,14 @@
       "onboard_time": 1681006587,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 249869,
+      "num": 221118,
+      "word": "淄博烧烤店主苦口婆心劝排队顾客",
+      "onboard_time": 1681021225,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 240949,
@@ -643,6 +699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 222362,
+      "num": 222362,
+      "word": "T1对战GEN",
+      "onboard_time": 1681020865,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 221428,
       "num": 210120,
       "word": "邢菲活动生图",
@@ -699,12 +763,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 218607,
-      "num": 218607,
-      "word": "小美人鱼反派公主剧照",
-      "onboard_time": 1681021405,
-      "rank": 19,
-      "category": "影视"
+      "raw_hot": 216215,
+      "num": 216215,
+      "word": "易烊千玺黑色外套高铁路透",
+      "onboard_time": 1681022367,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 212593,
@@ -777,14 +841,6 @@
       "onboard_time": 1681016728,
       "rank": 28,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 202790,
-      "num": 202790,
-      "word": "T1对战GEN",
-      "onboard_time": 1681020865,
-      "rank": 27,
-      "category": "游戏"
     },
     {
       "raw_hot": 202590,
@@ -881,6 +937,14 @@
       "onboard_time": 1680977476,
       "rank": 5,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 192072,
+      "num": 152257,
+      "word": "回南天版哈利波特",
+      "onboard_time": 1681022786,
+      "rank": 30,
+      "category": "影视,幽默"
     },
     {
       "raw_hot": 190908,
@@ -1051,6 +1115,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 153095,
+      "num": 153095,
+      "word": "毛不易巡演官宣长沙站",
+      "onboard_time": 1681023507,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 152210,
       "num": 152210,
       "word": "乘坐淄博烧烤专列的幸福感",
@@ -1179,6 +1251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 129819,
+      "num": 129819,
+      "word": "谁才是动漫颜值天花板",
+      "onboard_time": 1681023626,
+      "rank": 34,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 129708,
       "num": 115262,
       "word": "新兰",
@@ -1283,14 +1363,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 122866,
-      "num": 122866,
-      "word": "淄博烧烤店主苦口婆心劝排队顾客",
-      "onboard_time": 1681021225,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 119314,
       "num": 119314,
       "word": "ppgod",
@@ -1313,6 +1385,14 @@
       "onboard_time": 1680952287,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 113154,
+      "num": 113154,
+      "word": "2023LCK春决",
+      "onboard_time": 1681022548,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 112686,
@@ -1403,14 +1483,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 97852,
-      "num": 97852,
-      "word": "拍写真建议大家找女摄",
-      "onboard_time": 1681022007,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 97118,
       "num": 97118,
       "word": "BLG战胜OMG",
@@ -1433,6 +1505,14 @@
       "onboard_time": 1681001784,
       "rank": 47,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 94330,
+      "num": 94330,
+      "word": "SZ对战ACT",
+      "onboard_time": 1681022965,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 91905,
@@ -1487,6 +1567,14 @@
       "num": 96699,
       "word": "eStar对战狼队",
       "onboard_time": 1680957328,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 64842,
+      "num": 64842,
+      "word": "LCK宣传片",
+      "onboard_time": 1681024285,
       "rank": 48,
       "category": "游戏"
     },
