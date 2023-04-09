@@ -1,0 +1,410 @@
+{
+  "runTime": 1681039994649,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1365416,
+        "num": 1365416,
+        "word": "镇政府回应男子当街强吻踹飞女孩",
+        "onboard_time": 1681033465,
+        "rank": 0,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 809989,
+        "num": 809989,
+        "word": "游客吐槽甘孜一公厕需凭空瓶进入",
+        "onboard_time": 1681027584,
+        "rank": 1,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 34196,
+        "num": 775984,
+        "word": "春天里我们都是奋斗者",
+        "onboard_time": 1681025188,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 748132,
+        "num": 748132,
+        "word": "长月烬明吃席了",
+        "onboard_time": 1681036045,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 538603,
+        "num": 538603,
+        "word": "苏翊鸣羽生结弦同框",
+        "onboard_time": 1681036947,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 547879,
+        "num": 536764,
+        "word": "长月烬明化妆师",
+        "onboard_time": 1681029148,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 482659,
+        "num": 482659,
+        "word": "苏有朋留胡子了",
+        "onboard_time": 1681038025,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 525660,
+        "num": 472616,
+        "word": "长月烬明后期P掉了水管",
+        "onboard_time": 1681030405,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 450751,
+        "num": 450751,
+        "word": "这是选秀里该出现的身材吗",
+        "onboard_time": 1681019246,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 377346,
+        "num": 443004,
+        "word": "绿币厕所",
+        "onboard_time": 1681038926,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1867008,
+        "num": 433558,
+        "word": "时间夺走了杨洋的什么",
+        "onboard_time": 1681034425,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 571013,
+        "num": 428591,
+        "word": "拍写真建议大家找女摄",
+        "onboard_time": 1681022007,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 555953,
+        "num": 412630,
+        "word": "警方通报男子驾车冲撞女子致3死7伤",
+        "onboard_time": 1681038565,
+        "rank": 12,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 537215,
+        "num": 409913,
+        "word": "周雨彤 韩火火",
+        "onboard_time": 1681024648,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 400298,
+        "num": 400298,
+        "word": "JDG对战EDG",
+        "onboard_time": 1681033045,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 398655,
+        "num": 398655,
+        "word": "燃烧的巴黎圣母院",
+        "onboard_time": 1681037784,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 351251,
+        "num": 351251,
+        "word": "GEN夺冠",
+        "onboard_time": 1681035146,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 290435,
+        "num": 290435,
+        "word": "被阿姨一句话气哭了",
+        "onboard_time": 1681032748,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 260971,
+        "num": 260971,
+        "word": "电子人会流下仿生泪吗",
+        "onboard_time": 1681033585,
+        "rank": 18,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 168156,
+        "num": 260926,
+        "word": "我海军军舰与台舰目视距离5海里",
+        "onboard_time": 1681017148,
+        "rank": 19,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 595251,
+        "num": 260879,
+        "word": "阿姨用筷子蘸肉包馄饨几乎只有皮",
+        "onboard_time": 1681034546,
+        "rank": 20,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 309771,
+        "num": 260863,
+        "word": "易烊千玺透露将有音乐作品问世",
+        "onboard_time": 1681036286,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 304012,
+        "num": 260819,
+        "word": "上海地铁回应2女子在车厢内薅头发",
+        "onboard_time": 1681035265,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260773,
+        "num": 260773,
+        "word": "肖战把水瓶摆正",
+        "onboard_time": 1681039165,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252804,
+        "num": 252804,
+        "word": "二等功喜报送到妻子工作的小学",
+        "onboard_time": 1681030525,
+        "rank": 24,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 250760,
+        "num": 250760,
+        "word": "蒋勤勤未修生图",
+        "onboard_time": 1681022548,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249590,
+        "num": 249590,
+        "word": "李彩领你可是爱豆啊",
+        "onboard_time": 1681032205,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219596,
+        "num": 219596,
+        "word": "王鹤棣趴在地上和宋丹丹视频通话",
+        "onboard_time": 1681035926,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216362,
+        "num": 216362,
+        "word": "杨紫皮衣live图",
+        "onboard_time": 1681034663,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214711,
+        "num": 214711,
+        "word": "长月烬明五粮液同款配色婚服",
+        "onboard_time": 1681037065,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 191591,
+        "num": 191591,
+        "word": "清清吕布主打一个猛",
+        "onboard_time": 1681039046,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 208752,
+        "num": 190726,
+        "word": "看得出来长月的片场真的很冷",
+        "onboard_time": 1681038805,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 188429,
+        "num": 188429,
+        "word": "张婧仪一字肩绿色纱裙",
+        "onboard_time": 1681027886,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 188147,
+        "num": 188147,
+        "word": "MSI",
+        "onboard_time": 1681037065,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 186039,
+        "num": 186039,
+        "word": "丫丫正式移交中方",
+        "onboard_time": 1681012828,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186001,
+        "num": 186001,
+        "word": "第一次见小猫坐月子",
+        "onboard_time": 1681031127,
+        "rank": 35,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 174110,
+        "num": 174110,
+        "word": "Angelababy晒偶遇的猫头鹰",
+        "onboard_time": 1681026447,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170296,
+        "num": 170296,
+        "word": "面包店赠试吃吐司块被顾客差评",
+        "onboard_time": 1681026866,
+        "rank": 37,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 161098,
+        "num": 161098,
+        "word": "周深又用采访麦飙歌了",
+        "onboard_time": 1681037606,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 152339,
+        "num": 152339,
+        "word": "金智秀Flower人歌初舞台",
+        "onboard_time": 1681028666,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144979,
+        "num": 144979,
+        "word": "孔雪儿拉萨旅行vlog",
+        "onboard_time": 1681039465,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143642,
+        "num": 143642,
+        "word": "T1状态",
+        "onboard_time": 1681035086,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 133645,
+        "num": 133645,
+        "word": "淄博烧烤",
+        "onboard_time": 1681014808,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 132233,
+        "num": 132233,
+        "word": "荆州籍影人李现助力家乡乡村振兴",
+        "onboard_time": 1681033825,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 129412,
+        "num": 129412,
+        "word": "丫丫将由中美团队共同照料至月底",
+        "onboard_time": 1681022726,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129295,
+        "num": 129295,
+        "word": "T1四连亚",
+        "onboard_time": 1681037910,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 124992,
+        "num": 124992,
+        "word": "边伯贤跳HypeBoy",
+        "onboard_time": 1681033106,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 123923,
+        "num": 123923,
+        "word": "马克龙称赞中国大学生用法语提问",
+        "onboard_time": 1681018707,
+        "rank": 47,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 123651,
+        "num": 123651,
+        "word": "Peyz获FMVP",
+        "onboard_time": 1681037127,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 121349,
+        "num": 121349,
+        "word": "无名网播评分破8",
+        "onboard_time": 1681035566,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#中法元首会晤细节拉满成果满满#"
+    }
+  }
+}

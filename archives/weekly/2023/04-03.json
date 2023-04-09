@@ -1,6 +1,6 @@
 {
   "startTime": 1680452464197,
-  "endTime": 1681038789720,
+  "endTime": 1681039994649,
   "band_list": [
     {
       "raw_hot": 9506486,
@@ -2659,6 +2659,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 748132,
+      "num": 748132,
+      "word": "长月烬明吃席了",
+      "onboard_time": 1681036045,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 747499,
       "num": 747499,
       "word": "纸嫁衣",
@@ -2977,14 +2985,6 @@
       "onboard_time": 1680822739,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 685295,
-      "num": 685295,
-      "word": "长月烬明吃席了",
-      "onboard_time": 1681036045,
-      "rank": 17,
-      "category": "影视"
     },
     {
       "raw_hot": 683843,
@@ -3523,6 +3523,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 595251,
+      "num": 263030,
+      "word": "阿姨用筷子蘸肉包馄饨几乎只有皮",
+      "onboard_time": 1681034546,
+      "rank": 31,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 595149,
       "num": 595149,
       "word": "法新社",
@@ -3657,14 +3665,6 @@
       "onboard_time": 1681005625,
       "rank": 11,
       "category": "情感"
-    },
-    {
-      "raw_hot": 578056,
-      "num": 263030,
-      "word": "阿姨用筷子蘸肉包馄饨几乎只有皮",
-      "onboard_time": 1681034546,
-      "rank": 31,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 577624,
@@ -3809,6 +3809,14 @@
       "onboard_time": 1680680310,
       "rank": 11,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 555953,
+      "num": 412630,
+      "word": "警方通报男子驾车冲撞女子致3死7伤",
+      "onboard_time": 1681038565,
+      "rank": 34,
+      "category": "社会负面"
     },
     {
       "raw_hot": 555392,
@@ -3977,6 +3985,14 @@
       "onboard_time": 1680880292,
       "rank": 36,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 538603,
+      "num": 538603,
+      "word": "苏翊鸣羽生结弦同框",
+      "onboard_time": 1681036947,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 537590,
@@ -4185,14 +4201,6 @@
       "onboard_time": 1680913103,
       "rank": 8,
       "category": "影视"
-    },
-    {
-      "raw_hot": 514620,
-      "num": 514620,
-      "word": "苏翊鸣羽生结弦同框",
-      "onboard_time": 1681036947,
-      "rank": 6,
-      "category": "体育"
     },
     {
       "raw_hot": 513863,
@@ -4497,6 +4505,14 @@
       "onboard_time": 1680651862,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 482659,
+      "num": 482659,
+      "word": "苏有朋留胡子了",
+      "onboard_time": 1681038025,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 482557,
@@ -5379,6 +5395,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 400298,
+      "num": 400298,
+      "word": "JDG对战EDG",
+      "onboard_time": 1681033045,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 399956,
       "num": 190142,
       "word": "特朗普自曝被控33项罪名",
@@ -5409,6 +5433,14 @@
       "onboard_time": 1680752849,
       "rank": 25,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 398655,
+      "num": 398655,
+      "word": "燃烧的巴黎圣母院",
+      "onboard_time": 1681037784,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 398163,
@@ -5723,6 +5755,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 377346,
+      "num": 443004,
+      "word": "绿币厕所",
+      "onboard_time": 1681038926,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 375457,
       "num": 283214,
       "word": "我们都应该对月经羞耻说不",
@@ -5809,14 +5849,6 @@
       "onboard_time": 1680578428,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 368130,
-      "num": 368130,
-      "word": "苏有朋留胡子了",
-      "onboard_time": 1681038025,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 368063,
@@ -6043,14 +6075,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 353160,
-      "num": 353160,
-      "word": "燃烧的巴黎圣母院",
-      "onboard_time": 1681037784,
-      "rank": 14,
-      "category": "影视"
-    },
-    {
       "raw_hot": 352991,
       "num": 352991,
       "word": "红月",
@@ -6172,7 +6196,7 @@
     },
     {
       "raw_hot": 346543,
-      "num": 256083,
+      "num": 260819,
       "word": "上海地铁回应2女子在车厢内薅头发",
       "onboard_time": 1681035265,
       "rank": 47,
@@ -6428,7 +6452,7 @@
     },
     {
       "raw_hot": 333031,
-      "num": 251055,
+      "num": 260863,
       "word": "易烊千玺透露将有音乐作品问世",
       "onboard_time": 1681036286,
       "rank": 28,
@@ -7603,14 +7627,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 276568,
-      "num": 276568,
-      "word": "JDG对战EDG",
-      "onboard_time": 1681033045,
-      "rank": 27,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 275591,
       "num": 275591,
       "word": "特朗普抵达纽约曼哈顿",
@@ -7929,6 +7945,14 @@
       "onboard_time": 1680787234,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 260773,
+      "num": 260773,
+      "word": "肖战把水瓶摆正",
+      "onboard_time": 1681039165,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 260709,
@@ -9243,6 +9267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 219596,
+      "num": 219596,
+      "word": "王鹤棣趴在地上和宋丹丹视频通话",
+      "onboard_time": 1681035926,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 219507,
       "num": 219507,
       "word": "长月烬明买了寻常歌",
@@ -9747,6 +9779,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 208752,
+      "num": 190726,
+      "word": "看得出来长月的片场真的很冷",
+      "onboard_time": 1681038805,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 208549,
       "num": 208549,
       "word": "宇宙探索编辑部",
@@ -10049,14 +10089,6 @@
       "onboard_time": 1680852509,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 205546,
-      "num": 205546,
-      "word": "王鹤棣趴在地上和宋丹丹视频通话",
-      "onboard_time": 1681035926,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 205473,
@@ -11611,6 +11643,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 191591,
+      "num": 191591,
+      "word": "清清吕布主打一个猛",
+      "onboard_time": 1681039046,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 191524,
       "num": 191524,
       "word": "第四届动漫奖",
@@ -12995,14 +13035,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 170295,
-      "num": 170295,
-      "word": "警方通报男子驾车冲撞女子致3死7伤",
-      "onboard_time": 1681038565,
-      "rank": 34,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 170051,
       "num": 166779,
       "word": "少年之名选手杨超文宣布退圈",
@@ -14209,6 +14241,14 @@
       "onboard_time": 1680949170,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 144979,
+      "num": 144979,
+      "word": "孔雪儿拉萨旅行vlog",
+      "onboard_time": 1681039465,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 144656,
