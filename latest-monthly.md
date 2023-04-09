@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/04/01 00:21:42 ~ 2023/04/10 07:16:21
+本榜单时间：2023/04/01 00:21:42 ~ 2023/04/10 07:33:38
 </p>
 </blockquote>
 <p>
@@ -2183,6 +2183,12 @@ infp（热度：837128）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E5%B7%9E%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E8%87%B4%E6%AD%89%23" target="weibo">
 苏州科技大学致歉（热度：819130）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E8%BE%9F%E8%B0%A3%E4%B8%80%E5%A4%A7%E5%B7%B4%E8%BD%BD%E5%B8%82%E5%A7%94%E5%8F%8A%E5%AE%B6%E5%B1%9E%E6%97%85%E6%B8%B8%E5%9B%A2%23" target="weibo">
+上海辟谣一大巴载市委及家属旅游团（热度：816956）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ TXT演唱会裤子（热度：344550）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%AD%8C%E6%89%8B%E9%81%AD%E7%94%B7%E5%AD%90%E6%B3%BC%E9%85%92%E5%90%8E%E9%9C%B8%E6%B0%94%E5%9B%9E%E6%B3%BC%23" target="weibo">
 女歌手遭男子泼酒后霸气回泼（热度：338455）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E7%BD%91%E8%AF%84%E9%99%88%E6%9F%90%E9%BE%99%E9%80%A0%E8%B0%A3%E8%A2%AB%E8%A1%8C%E6%8B%98%23" target="weibo">
-人民网评陈某龙造谣被行拘（热度：336628）
 </a>
 </li>
 

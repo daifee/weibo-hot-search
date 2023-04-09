@@ -1,0 +1,410 @@
+{
+  "runTime": 1681083218955,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 816956,
+        "num": 816956,
+        "word": "上海辟谣一大巴载市委及家属旅游团",
+        "onboard_time": 1681080917,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 591197,
+        "num": 591197,
+        "word": "张艺谋第一次拍网剧",
+        "onboard_time": 1681052429,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 95469,
+        "num": 466416,
+        "word": "这些旅游专列已发车",
+        "onboard_time": 1681042525,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1322902,
+        "num": 444984,
+        "word": "李坤城去世",
+        "onboard_time": 1681052670,
+        "rank": 3,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 420343,
+        "num": 420343,
+        "word": "重庆姐弟坠亡案",
+        "onboard_time": 1681082182,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 402493,
+        "num": 402493,
+        "word": "55岁小学老师去世后做了大体老师",
+        "onboard_time": 1681049911,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 340245,
+        "num": 340245,
+        "word": "贵州失联母子已平安找到",
+        "onboard_time": 1681052131,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338301,
+        "num": 338301,
+        "word": "顾客称吃85度C三明治发现番茄长毛",
+        "onboard_time": 1681062914,
+        "rank": 7,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 291288,
+        "num": 291288,
+        "word": "林靖恩",
+        "onboard_time": 1681082721,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280742,
+        "num": 280742,
+        "word": "日本坠机师团长曾妄议台湾问题",
+        "onboard_time": 1681056505,
+        "rank": 9,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 710549,
+        "num": 272822,
+        "word": "王力宏霍建华林心如聚会",
+        "onboard_time": 1681043309,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235058,
+        "num": 235058,
+        "word": "时间夺走了杨洋的什么",
+        "onboard_time": 1681034425,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 227656,
+        "num": 227656,
+        "word": "张杰女儿的奖励",
+        "onboard_time": 1681044809,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227073,
+        "num": 227073,
+        "word": "长月烬明化妆师",
+        "onboard_time": 1681029148,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194907,
+        "num": 194907,
+        "word": "网传市委及家属旅游团一事为不实信息",
+        "onboard_time": 1681082240,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187714,
+        "num": 187714,
+        "word": "森林狼内讧",
+        "onboard_time": 1681082781,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178582,
+        "num": 178582,
+        "word": "镇政府回应男子当街强吻踹飞女孩",
+        "onboard_time": 1681033465,
+        "rank": 16,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 176302,
+        "num": 176302,
+        "word": "白鲨挺进春决会师AG",
+        "onboard_time": 1681081939,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 171632,
+        "num": 171632,
+        "word": "宣璐发缝",
+        "onboard_time": 1681047812,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 170876,
+        "num": 170876,
+        "word": "小S去看张惠妹演唱会了",
+        "onboard_time": 1681082119,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 647868,
+        "num": 170476,
+        "word": "官方回应男子骂剖腹产妻子她疼她死",
+        "onboard_time": 1681047569,
+        "rank": 20,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 483372,
+        "num": 169995,
+        "word": "重庆姐弟坠亡案改判可能性几乎为零",
+        "onboard_time": 1681050210,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169041,
+        "num": 169041,
+        "word": "留学生们在外面真的要好好保护自己",
+        "onboard_time": 1681064473,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249044,
+        "num": 168799,
+        "word": "过度超前消费有多可怕",
+        "onboard_time": 1681042226,
+        "rank": 23,
+        "category": "财经,社会议题"
+      },
+      {
+        "raw_hot": 225781,
+        "num": 166373,
+        "word": "论文很烂但致谢被老师夸了",
+        "onboard_time": 1681048411,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163111,
+        "num": 163111,
+        "word": "小时候最喜欢的天然零食",
+        "onboard_time": 1681058839,
+        "rank": 25,
+        "category": "情感,美食"
+      },
+      {
+        "raw_hot": 161895,
+        "num": 161895,
+        "word": "2023第100天",
+        "onboard_time": 1681082540,
+        "rank": 26,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 151343,
+        "num": 151343,
+        "word": "四川气温热到全国第一",
+        "onboard_time": 1681053750,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150398,
+        "num": 150398,
+        "word": "范丞丞来看小鬼音乐节",
+        "onboard_time": 1681051112,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 144021,
+        "num": 144021,
+        "word": "刘宇宁直播唱长月烬明片头曲",
+        "onboard_time": 1681082600,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 135402,
+        "num": 135402,
+        "word": "第一份工作其实没那么重要",
+        "onboard_time": 1681053571,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134151,
+        "num": 134151,
+        "word": "周深的舞台里藏着待播电影名",
+        "onboard_time": 1681081761,
+        "rank": 31,
+        "category": "影视,音乐"
+      },
+      {
+        "raw_hot": 133613,
+        "num": 133613,
+        "word": "许嵩音乐节",
+        "onboard_time": 1681051652,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 133533,
+        "num": 133533,
+        "word": "桑酒为救冥夜自愿献出仙髓",
+        "onboard_time": 1681052554,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 129269,
+        "num": 129269,
+        "word": "华晨宇新世界连接太空光柱",
+        "onboard_time": 1681082302,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 125077,
+        "num": 125077,
+        "word": "北京一小区电动车爆炸起火致2死1伤",
+        "onboard_time": 1681083023,
+        "rank": 35,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 118754,
+        "num": 118754,
+        "word": "苏有朋留胡子了",
+        "onboard_time": 1681038025,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 118416,
+        "num": 118416,
+        "word": "阿姨用筷子蘸肉包馄饨几乎只有皮",
+        "onboard_time": 1681034546,
+        "rank": 37,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 109377,
+        "num": 109377,
+        "word": "白桃星座",
+        "onboard_time": 1681052190,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 108006,
+        "num": 108006,
+        "word": "宋妍霏新剧撞柱子好离谱",
+        "onboard_time": 1681049669,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 105120,
+        "num": 105120,
+        "word": "闵玧其坂本龙一合作曲",
+        "onboard_time": 1681082540,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 101309,
+        "num": 101309,
+        "word": "赵露思去游乐园只看不玩",
+        "onboard_time": 1681053447,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98647,
+        "num": 98647,
+        "word": "马龙",
+        "onboard_time": 1681049553,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93382,
+        "num": 93382,
+        "word": "祝绪丹蓝色头纱造型",
+        "onboard_time": 1681083083,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92605,
+        "num": 92605,
+        "word": "张泽禹翻跳Candy视频",
+        "onboard_time": 1681081518,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91985,
+        "num": 91985,
+        "word": "利物浦2比2阿森纳",
+        "onboard_time": 1681081879,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90637,
+        "num": 90637,
+        "word": "好险差点就脱单了",
+        "onboard_time": 1681050089,
+        "rank": 46,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 90247,
+        "num": 90247,
+        "word": "白鹿桑酒妆造",
+        "onboard_time": 1681046729,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 89207,
+        "num": 89207,
+        "word": "第五人格",
+        "onboard_time": 1681082781,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 77175,
+        "num": 77175,
+        "word": "第一次觉得增重好难",
+        "onboard_time": 1681051531,
+        "rank": 49,
+        "category": "幽默,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#开局加把劲#"
+    }
+  }
+}

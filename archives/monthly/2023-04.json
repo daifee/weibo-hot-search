@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681082181437,
+  "endTime": 1681083218955,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -2897,6 +2897,14 @@
       "onboard_time": 1680944604,
       "rank": 21,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 816956,
+      "num": 816956,
+      "word": "上海辟谣一大巴载市委及家属旅游团",
+      "onboard_time": 1681080917,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 816279,
@@ -8307,14 +8315,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 323860,
-      "num": 178030,
-      "word": "上海辟谣一大巴载市委及家属旅游团",
-      "onboard_time": 1681080917,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 323829,
       "num": 323829,
       "word": "4AM夺冠",
@@ -8420,7 +8420,7 @@
     },
     {
       "raw_hot": 318550,
-      "num": 260042,
+      "num": 280742,
       "word": "日本坠机师团长曾妄议台湾问题",
       "onboard_time": 1681056505,
       "rank": 37,
@@ -9121,6 +9121,14 @@
       "onboard_time": 1680501030,
       "rank": 31,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 291288,
+      "num": 291288,
+      "word": "林靖恩",
+      "onboard_time": 1681082721,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 290886,
@@ -14411,6 +14419,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 194907,
+      "num": 194907,
+      "word": "网传市委及家属旅游团一事为不实信息",
+      "onboard_time": 1681082240,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194810,
       "num": 194810,
       "word": "光与夜之恋陆沉",
@@ -15289,6 +15305,14 @@
       "onboard_time": 1680946166,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 187714,
+      "num": 187714,
+      "word": "森林狼内讧",
+      "onboard_time": 1681082781,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 187713,
@@ -16243,6 +16267,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 176302,
+      "num": 176302,
+      "word": "白鲨挺进春决会师AG",
+      "onboard_time": 1681081939,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 176130,
       "num": 176130,
       "word": "IVE先行曲一位",
@@ -16577,6 +16609,14 @@
       "onboard_time": 1680852570,
       "rank": 45,
       "category": "科技,社会议题"
+    },
+    {
+      "raw_hot": 170876,
+      "num": 170876,
+      "word": "小S去看张惠妹演唱会了",
+      "onboard_time": 1681082119,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 170767,
@@ -17115,6 +17155,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 163111,
+      "num": 163111,
+      "word": "小时候最喜欢的天然零食",
+      "onboard_time": 1681058839,
+      "rank": 31,
+      "category": "情感,美食"
+    },
+    {
       "raw_hot": 162999,
       "num": 162999,
       "word": "NCTDREAM跳GOATED",
@@ -17187,6 +17235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 161895,
+      "num": 161895,
+      "word": "2023第100天",
+      "onboard_time": 1681082540,
+      "rank": 26,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 161534,
       "num": 161534,
       "word": "这个宿舍是选对了",
@@ -17209,14 +17265,6 @@
       "onboard_time": 1680359251,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 161056,
-      "num": 161056,
-      "word": "小时候最喜欢的天然零食",
-      "onboard_time": 1681058839,
-      "rank": 31,
-      "category": "情感,美食"
     },
     {
       "raw_hot": 160956,
@@ -18371,6 +18419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 144021,
+      "num": 144021,
+      "word": "刘宇宁直播唱长月烬明片头曲",
+      "onboard_time": 1681082600,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 143385,
       "num": 5295131,
       "word": "春天的花花美到挪不开眼",
@@ -18408,14 +18464,6 @@
       "word": "OMG和TES决胜局",
       "onboard_time": 1680439530,
       "rank": 38,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 142543,
-      "num": 142543,
-      "word": "白鲨挺进春决会师AG",
-      "onboard_time": 1681081939,
-      "rank": 17,
       "category": "游戏"
     },
     {
@@ -19259,6 +19307,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 129269,
+      "num": 129269,
+      "word": "华晨宇新世界连接太空光柱",
+      "onboard_time": 1681082302,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 129236,
       "num": 129236,
       "word": "Ella到达长沙vlog",
@@ -19537,6 +19593,14 @@
       "onboard_time": 1680724511,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 125077,
+      "num": 125077,
+      "word": "北京一小区电动车爆炸起火致2死1伤",
+      "onboard_time": 1681083023,
+      "rank": 35,
+      "category": "社会负面"
     },
     {
       "raw_hot": 125046,
@@ -20339,6 +20403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 105120,
+      "num": 105120,
+      "word": "闵玧其坂本龙一合作曲",
+      "onboard_time": 1681082540,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 104887,
       "num": 104887,
       "word": "90后的苏感男演员",
@@ -20811,6 +20883,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 93382,
+      "num": 93382,
+      "word": "祝绪丹蓝色头纱造型",
+      "onboard_time": 1681083083,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 93370,
       "num": 152856,
       "word": "第五人格",
@@ -20851,12 +20931,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 92605,
+      "num": 92605,
+      "word": "张泽禹翻跳Candy视频",
+      "onboard_time": 1681081518,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 92456,
       "num": 92456,
       "word": "主打的就是一个弹性聊天",
       "onboard_time": 1680792518,
       "rank": 46,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 91985,
+      "num": 91985,
+      "word": "利物浦2比2阿森纳",
+      "onboard_time": 1681081879,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 91489,
@@ -21073,14 +21169,6 @@
       "onboard_time": 1680370038,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 75730,
-      "num": 75730,
-      "word": "利物浦2比2阿森纳",
-      "onboard_time": 1681081879,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 75720,
@@ -21361,14 +21449,6 @@
       "onboard_time": 1681069931,
       "rank": 18,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 57284,
-      "num": 57284,
-      "word": "小S去看张惠妹演唱会了",
-      "onboard_time": 1681082119,
-      "rank": 46,
-      "category": "音乐"
     },
     {
       "raw_hot": 57242,
