@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681060448238,
+  "endTime": 1681061617665,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -17739,6 +17739,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 152808,
+      "num": 132284,
+      "word": "小时候最喜欢的天然零食",
+      "onboard_time": 1681058839,
+      "rank": 31,
+      "category": "情感,美食"
+    },
+    {
       "raw_hot": 152724,
       "num": 152724,
       "word": "SEVENTEEN出道初VS后期的颜值变化",
@@ -20849,14 +20857,6 @@
       "onboard_time": 1680708573,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 90719,
-      "num": 90719,
-      "word": "小时候最喜欢的天然零食",
-      "onboard_time": 1681058839,
-      "rank": 31,
-      "category": "情感,美食"
     },
     {
       "raw_hot": 90702,

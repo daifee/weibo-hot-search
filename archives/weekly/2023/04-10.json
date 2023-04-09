@@ -1,6 +1,6 @@
 {
   "startTime": 1681057279449,
-  "endTime": 1681060448238,
+  "endTime": 1681061617665,
   "band_list": [
     {
       "raw_hot": 2164948,
@@ -251,6 +251,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 152808,
+      "num": 132284,
+      "word": "小时候最喜欢的天然零食",
+      "onboard_time": 1681058839,
+      "rank": 31,
+      "category": "情感,美食"
+    },
+    {
       "raw_hot": 150120,
       "num": 150120,
       "word": "王冰冰说一不小心和海虹撞了衫",
@@ -379,14 +387,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 90719,
-      "num": 90719,
-      "word": "小时候最喜欢的天然零食",
-      "onboard_time": 1681058839,
-      "rank": 31,
-      "category": "情感,美食"
-    },
-    {
       "raw_hot": 79889,
       "num": 79889,
       "word": "陈梦",
@@ -417,6 +417,14 @@
       "onboard_time": 1681047391,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 33990,
+      "num": 33990,
+      "word": "IVE正规专试听",
+      "onboard_time": 1681050691,
+      "rank": 48,
+      "category": "音乐"
     }
   ],
   "hotgov_list": [
