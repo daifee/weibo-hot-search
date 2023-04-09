@@ -1,6 +1,6 @@
 {
   "startTime": 1680452464197,
-  "endTime": 1681044387162,
+  "endTime": 1681046305386,
   "band_list": [
     {
       "raw_hot": 9506486,
@@ -595,6 +595,14 @@
       "category": "社会议题,财经"
     },
     {
+      "raw_hot": 2055092,
+      "num": 446232,
+      "word": "王力宏霍建华林心如聚会",
+      "onboard_time": 1681043309,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2054850,
       "num": 2054850,
       "word": "胖东来创始人称加班不道德",
@@ -856,6 +864,14 @@
       "word": "何炅说自己从来没让旅伴花过钱",
       "onboard_time": 1680964472,
       "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1704505,
+      "num": 486347,
+      "word": "张杰女儿的奖励",
+      "onboard_time": 1681044809,
+      "rank": 3,
       "category": "综艺"
     },
     {
@@ -1355,14 +1371,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 1272540,
-      "num": 446232,
-      "word": "王力宏霍建华林心如聚会",
-      "onboard_time": 1681043309,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1271520,
       "num": 1271520,
       "word": "徐良回应消失的三年",
@@ -1657,6 +1665,14 @@
       "onboard_time": 1680960991,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1076752,
+      "num": 385227,
+      "word": "普宁",
+      "onboard_time": 1681043127,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1075445,
@@ -2561,6 +2577,14 @@
       "onboard_time": 1680782971,
       "rank": 8,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 782317,
+      "num": 503759,
+      "word": "EXO或将以LoveMeRight概念回归",
+      "onboard_time": 1681044149,
+      "rank": 6,
+      "category": "音乐"
     },
     {
       "raw_hot": 778581,
@@ -3859,6 +3883,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 555516,
+      "num": 295356,
+      "word": "过度超前消费有多可怕",
+      "onboard_time": 1681042226,
+      "rank": 24,
+      "category": "财经,社会议题"
+    },
+    {
       "raw_hot": 555392,
       "num": 309902,
       "word": "金智秀solo初一位",
@@ -4323,14 +4355,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 503759,
-      "num": 503759,
-      "word": "EXO或将以LoveMeRight概念回归",
-      "onboard_time": 1681044149,
-      "rank": 6,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 503429,
       "num": 494458,
       "word": "肖战和TODS总裁合照",
@@ -4393,6 +4417,14 @@
       "onboard_time": 1680653485,
       "rank": 12,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 498580,
+      "num": 295621,
+      "word": "王冰冰说一不小心和海虹撞了衫",
+      "onboard_time": 1681042105,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 496562,
@@ -4712,14 +4744,6 @@
       "word": "BLACKPINK科切拉表演曲目",
       "onboard_time": 1680830664,
       "rank": 23,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 471661,
-      "num": 295621,
-      "word": "王冰冰说一不小心和海虹撞了衫",
-      "onboard_time": 1681042105,
-      "rank": 20,
       "category": "艺人"
     },
     {
@@ -5427,14 +5451,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 403511,
-      "num": 295356,
-      "word": "过度超前消费有多可怕",
-      "onboard_time": 1681042226,
-      "rank": 24,
-      "category": "财经,社会议题"
-    },
-    {
       "raw_hot": 403142,
       "num": 403142,
       "word": "安乐传",
@@ -5737,14 +5753,6 @@
       "onboard_time": 1680484889,
       "rank": 24,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 385227,
-      "num": 385227,
-      "word": "普宁",
-      "onboard_time": 1681043127,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 385001,
@@ -9883,6 +9891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 208822,
+      "num": 208822,
+      "word": "TTG战胜Hero",
+      "onboard_time": 1681045289,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 208793,
       "num": 208793,
       "word": "白宇听林俊杰演唱会",
@@ -9905,6 +9921,14 @@
       "onboard_time": 1680497734,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 208450,
+      "num": 208450,
+      "word": "清清不然并列MVP榜一",
+      "onboard_time": 1681045226,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 208431,
@@ -9945,6 +9969,14 @@
       "onboard_time": 1680707312,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 208054,
+      "num": 865197,
+      "word": "这些旅游专列已发车",
+      "onboard_time": 1681042525,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 208022,
@@ -12539,6 +12571,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 182819,
+      "num": 182819,
+      "word": "拜托你啦朋友",
+      "onboard_time": 1681045467,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 182667,
       "num": 182667,
       "word": "冲绳那霸机场 两只石狮子",
@@ -12793,6 +12833,14 @@
       "onboard_time": 1681018107,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 178636,
+      "num": 178636,
+      "word": "刘宇宁直播",
+      "onboard_time": 1681046187,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 178098,
@@ -13715,6 +13763,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 159211,
+      "num": 183946,
+      "word": "陈梦",
+      "onboard_time": 1681046009,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158938,
       "num": 158938,
       "word": "小落夏洛特Carry全场",
@@ -13769,6 +13825,14 @@
       "onboard_time": 1681043608,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 158119,
+      "num": 208682,
+      "word": "CBA季后赛",
+      "onboard_time": 1681045768,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 157704,
@@ -14035,6 +14099,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 151794,
+      "num": 151794,
+      "word": "有这样的老师天天都不舍得下课",
+      "onboard_time": 1681045226,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 151626,
       "num": 151626,
       "word": "拜仁",
@@ -14065,14 +14137,6 @@
       "onboard_time": 1680607828,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 150709,
-      "num": 865197,
-      "word": "这些旅游专列已发车",
-      "onboard_time": 1681042525,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 150691,
