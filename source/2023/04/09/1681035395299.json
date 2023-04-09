@@ -1,0 +1,410 @@
+{
+  "runTime": 1681035395299,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1290297,
+        "num": 1290297,
+        "word": "游客吐槽甘孜一公厕需凭空瓶进入",
+        "onboard_time": 1681027584,
+        "rank": 0,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 1028632,
+        "num": 1028632,
+        "word": "长月烬明后期P掉了水管",
+        "onboard_time": 1681030405,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 39150,
+        "num": 868577,
+        "word": "春天里我们都是奋斗者",
+        "onboard_time": 1681025188,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 853394,
+        "num": 853394,
+        "word": "镇政府回应男子当街强吻踹飞女孩",
+        "onboard_time": 1681033465,
+        "rank": 3,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 752781,
+        "num": 752781,
+        "word": "长月烬明化妆师",
+        "onboard_time": 1681029148,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 635074,
+        "num": 635074,
+        "word": "这是选秀里该出现的身材吗",
+        "onboard_time": 1681019246,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 392573,
+        "num": 392573,
+        "word": "T1对战GEN",
+        "onboard_time": 1681020865,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 359015,
+        "num": 359015,
+        "word": "张婧仪一字肩绿色纱裙",
+        "onboard_time": 1681027886,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 331488,
+        "num": 358545,
+        "word": "荆州籍影人李现助力家乡乡村振兴",
+        "onboard_time": 1681033825,
+        "rank": 8,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 269554,
+        "num": 357662,
+        "word": "马克龙称赞中国大学生用法语提问",
+        "onboard_time": 1681018707,
+        "rank": 9,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 965658,
+        "num": 355969,
+        "word": "周雨彤 韩火火",
+        "onboard_time": 1681024648,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 694933,
+        "num": 355248,
+        "word": "时间夺走了杨洋的什么",
+        "onboard_time": 1681034425,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 647459,
+        "num": 353816,
+        "word": "拍写真建议大家找女摄",
+        "onboard_time": 1681022007,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 414472,
+        "num": 353108,
+        "word": "李彩领你可是爱豆啊",
+        "onboard_time": 1681032205,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 352707,
+        "num": 352707,
+        "word": "蒋勤勤未修生图",
+        "onboard_time": 1681022548,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 337256,
+        "num": 337256,
+        "word": "被阿姨一句话气哭了",
+        "onboard_time": 1681032748,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 317480,
+        "num": 317480,
+        "word": "中国电影大数据盛典",
+        "onboard_time": 1681032506,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 317025,
+        "num": 317025,
+        "word": "丫丫正式移交中方",
+        "onboard_time": 1681012828,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259885,
+        "num": 259885,
+        "word": "我海军军舰与台舰目视距离5海里",
+        "onboard_time": 1681017148,
+        "rank": 18,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 246141,
+        "num": 246141,
+        "word": "陈都灵林允同框生图",
+        "onboard_time": 1681029446,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 402038,
+        "num": 245752,
+        "word": "二等功喜报送到妻子工作的小学",
+        "onboard_time": 1681030525,
+        "rank": 20,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 270016,
+        "num": 244711,
+        "word": "第一次见小猫坐月子",
+        "onboard_time": 1681031127,
+        "rank": 21,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 246665,
+        "num": 243854,
+        "word": "面包店赠试吃吐司块被顾客差评",
+        "onboard_time": 1681026866,
+        "rank": 22,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 241806,
+        "num": 241806,
+        "word": "topik",
+        "onboard_time": 1681030766,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 230458,
+        "num": 230458,
+        "word": "于文文说给前任4写了主题曲",
+        "onboard_time": 1681032327,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 228708,
+        "num": 228708,
+        "word": "淄博烧烤",
+        "onboard_time": 1681014808,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 224226,
+        "num": 224226,
+        "word": "科学家建议体育比赛前不要玩手机",
+        "onboard_time": 1681029507,
+        "rank": 26,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 212782,
+        "num": 212782,
+        "word": "JDG对战EDG",
+        "onboard_time": 1681033045,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 209341,
+        "num": 209341,
+        "word": "GEN夺冠",
+        "onboard_time": 1681035146,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 205343,
+        "num": 205343,
+        "word": "杨紫皮衣live图",
+        "onboard_time": 1681034663,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202155,
+        "num": 202155,
+        "word": "华晨宇回应华语乐坛永远的神",
+        "onboard_time": 1681009765,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 196281,
+        "num": 196281,
+        "word": "阿姨用筷子蘸肉包馄饨几乎只有皮",
+        "onboard_time": 1681034546,
+        "rank": 31,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 194607,
+        "num": 194607,
+        "word": "KSG翻盘MTG",
+        "onboard_time": 1681034607,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 189911,
+        "num": 189911,
+        "word": "金智秀Flower人歌初舞台",
+        "onboard_time": 1681028666,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186945,
+        "num": 186945,
+        "word": "2023LCK春决",
+        "onboard_time": 1681022548,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 184182,
+        "num": 184182,
+        "word": "边伯贤跳HypeBoy",
+        "onboard_time": 1681033106,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 175526,
+        "num": 175526,
+        "word": "Angelababy晒偶遇的猫头鹰",
+        "onboard_time": 1681026447,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172745,
+        "num": 172745,
+        "word": "小美人鱼反派公主剧照",
+        "onboard_time": 1681021405,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 160468,
+        "num": 160468,
+        "word": "丫丫将由中美团队共同照料至月底",
+        "onboard_time": 1681022726,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151169,
+        "num": 151169,
+        "word": "内娱追星成功天花板",
+        "onboard_time": 1681022906,
+        "rank": 39,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 150766,
+        "num": 150766,
+        "word": "易烊千玺黑色外套高铁路透",
+        "onboard_time": 1681022367,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149412,
+        "num": 149412,
+        "word": "T1状态",
+        "onboard_time": 1681035086,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 136921,
+        "num": 136921,
+        "word": "对台岛关键目标模拟精确打击",
+        "onboard_time": 1681015949,
+        "rank": 42,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 132324,
+        "num": 132324,
+        "word": "王曼昱3比2梅谢芙",
+        "onboard_time": 1681032506,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129121,
+        "num": 129121,
+        "word": "电子人会流下仿生泪吗",
+        "onboard_time": 1681033585,
+        "rank": 44,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 125333,
+        "num": 125333,
+        "word": "罗云熙长月烬明挑眉杀",
+        "onboard_time": 1681032866,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 122989,
+        "num": 122989,
+        "word": "KPL",
+        "onboard_time": 1681034966,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 116341,
+        "num": 116341,
+        "word": "上海地铁回应2女子在车厢内薅头发",
+        "onboard_time": 1681035265,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110918,
+        "num": 110918,
+        "word": "TTG对战Hero",
+        "onboard_time": 1681033644,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 108796,
+        "num": 108796,
+        "word": "水星的魔女",
+        "onboard_time": 1681030824,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#协调好经济增长民生保障节能减排#"
+    }
+  }
+}

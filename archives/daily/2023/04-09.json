@@ -1,6 +1,6 @@
 {
   "startTime": 1680970864988,
-  "endTime": 1681032801474,
+  "endTime": 1681035395299,
   "band_list": [
     {
       "raw_hot": 2140320,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1862844,
-      "num": 334994,
+      "num": 355969,
       "word": "周雨彤 韩火火",
       "onboard_time": 1681024648,
       "rank": 12,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1309309,
-      "num": 330148,
+      "num": 353816,
       "word": "拍写真建议大家找女摄",
       "onboard_time": 1681022007,
       "rank": 46,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 1070241,
-      "num": 327599,
+      "num": 352707,
       "word": "蒋勤勤未修生图",
       "onboard_time": 1681022548,
       "rank": 11,
@@ -105,6 +105,14 @@
       "onboard_time": 1681002986,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1028632,
+      "num": 1028632,
+      "word": "长月烬明后期P掉了水管",
+      "onboard_time": 1681030405,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 1017347,
@@ -147,6 +155,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 853394,
+      "num": 853394,
+      "word": "镇政府回应男子当街强吻踹飞女孩",
+      "onboard_time": 1681033465,
+      "rank": 3,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 845660,
       "num": 660913,
       "word": "丫丫吃水果冰蛋糕",
@@ -187,20 +203,20 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 744272,
-      "num": 744272,
-      "word": "长月烬明后期P掉了水管",
-      "onboard_time": 1681030405,
-      "rank": 7,
-      "category": "影视"
-    },
-    {
       "raw_hot": 695181,
       "num": 271894,
       "word": "25岁以上就不用订闹钟了",
       "onboard_time": 1681009587,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 694933,
+      "num": 355248,
+      "word": "时间夺走了杨洋的什么",
+      "onboard_time": 1681034425,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 688507,
@@ -372,7 +388,7 @@
     },
     {
       "raw_hot": 500210,
-      "num": 235357,
+      "num": 243854,
       "word": "面包店赠试吃吐司块被顾客差评",
       "onboard_time": 1681026866,
       "rank": 21,
@@ -380,7 +396,7 @@
     },
     {
       "raw_hot": 486556,
-      "num": 233197,
+      "num": 245752,
       "word": "二等功喜报送到妻子工作的小学",
       "onboard_time": 1681030525,
       "rank": 21,
@@ -483,6 +499,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 414472,
+      "num": 353108,
+      "word": "李彩领你可是爱豆啊",
+      "onboard_time": 1681032205,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 403142,
       "num": 403142,
       "word": "安乐传",
@@ -497,6 +521,14 @@
       "onboard_time": 1681022726,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 392573,
+      "num": 392573,
+      "word": "T1对战GEN",
+      "onboard_time": 1681020865,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 372869,
@@ -524,7 +556,7 @@
     },
     {
       "raw_hot": 352541,
-      "num": 220406,
+      "num": 244711,
       "word": "第一次见小猫坐月子",
       "onboard_time": 1681031127,
       "rank": 30,
@@ -555,6 +587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 337256,
+      "num": 337256,
+      "word": "被阿姨一句话气哭了",
+      "onboard_time": 1681032748,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 336144,
       "num": 336144,
       "word": "科学家建议体育比赛前不要玩手机",
@@ -579,6 +619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 331488,
+      "num": 358545,
+      "word": "荆州籍影人李现助力家乡乡村振兴",
+      "onboard_time": 1681033825,
+      "rank": 8,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 327071,
       "num": 327071,
       "word": "一起祝贺这位同学考研成功上岸211大学",
@@ -601,6 +649,14 @@
       "onboard_time": 1681007426,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 317480,
+      "num": 317480,
+      "word": "中国电影大数据盛典",
+      "onboard_time": 1681032506,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 316428,
@@ -673,14 +729,6 @@
       "onboard_time": 1681020506,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 282559,
-      "num": 282559,
-      "word": "T1对战GEN",
-      "onboard_time": 1681020865,
-      "rank": 27,
-      "category": "游戏"
     },
     {
       "raw_hot": 281860,
@@ -819,6 +867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 230458,
+      "num": 230458,
+      "word": "于文文说给前任4写了主题曲",
+      "onboard_time": 1681032327,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 230154,
       "num": 230154,
       "word": "VAVA张欣尧拍戏了",
@@ -915,6 +971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 212782,
+      "num": 212782,
+      "word": "JDG对战EDG",
+      "onboard_time": 1681033045,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 212593,
       "num": 212593,
       "word": "刘耀文是不是把严浩翔伞拿走了",
@@ -929,6 +993,14 @@
       "onboard_time": 1681008625,
       "rank": 26,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 209341,
+      "num": 209341,
+      "word": "GEN夺冠",
+      "onboard_time": 1681035146,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 209013,
@@ -953,6 +1025,14 @@
       "onboard_time": 1681009587,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 205343,
+      "num": 205343,
+      "word": "杨紫皮衣live图",
+      "onboard_time": 1681034663,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 205072,
@@ -1043,6 +1123,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 196281,
+      "num": 196281,
+      "word": "阿姨用筷子蘸肉包馄饨几乎只有皮",
+      "onboard_time": 1681034546,
+      "rank": 31,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 195840,
       "num": 195840,
       "word": "双向奔赴是一种什么样的体验",
@@ -1059,20 +1147,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 195601,
-      "num": 195601,
-      "word": "中国电影大数据盛典",
-      "onboard_time": 1681032506,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 195403,
       "num": 193012,
       "word": "白鹿晒桑酒花絮照",
       "onboard_time": 1681013909,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 194607,
+      "num": 194607,
+      "word": "KSG翻盘MTG",
+      "onboard_time": 1681034607,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 193759,
@@ -1115,20 +1203,20 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 186945,
+      "num": 186945,
+      "word": "2023LCK春决",
+      "onboard_time": 1681022548,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 186069,
       "num": 186069,
       "word": "周雨彤面对误解的态度",
       "onboard_time": 1681014568,
       "rank": 28,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 185211,
-      "num": 185211,
-      "word": "于文文说给前任4写了主题曲",
-      "onboard_time": 1681032327,
-      "rank": 29,
-      "category": "影视"
     },
     {
       "raw_hot": 184714,
@@ -1139,12 +1227,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 184045,
-      "num": 184045,
-      "word": "李彩领你可是爱豆啊",
-      "onboard_time": 1681032205,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 184182,
+      "num": 184182,
+      "word": "边伯贤跳HypeBoy",
+      "onboard_time": 1681033106,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 183733,
@@ -1363,6 +1451,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 149412,
+      "num": 149412,
+      "word": "T1状态",
+      "onboard_time": 1681035086,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 147587,
       "num": 147587,
       "word": "这个表演在整个教育界都是相当炸裂的",
@@ -1443,14 +1539,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 137361,
-      "num": 137361,
-      "word": "2023LCK春决",
-      "onboard_time": 1681022548,
-      "rank": 38,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 136923,
       "num": 136923,
       "word": "宇宙探索编辑部",
@@ -1515,6 +1603,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 129121,
+      "num": 129121,
+      "word": "电子人会流下仿生泪吗",
+      "onboard_time": 1681033585,
+      "rank": 44,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 128275,
       "num": 128275,
       "word": "黑龙三箭",
@@ -1545,6 +1641,14 @@
       "onboard_time": 1680945146,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125333,
+      "num": 125333,
+      "word": "罗云熙长月烬明挑眉杀",
+      "onboard_time": 1681032866,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 125331,
@@ -1595,6 +1699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122989,
+      "num": 122989,
+      "word": "KPL",
+      "onboard_time": 1681034966,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 119314,
       "num": 119314,
       "word": "ppgod",
@@ -1609,6 +1721,14 @@
       "onboard_time": 1681019666,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 116341,
+      "num": 116341,
+      "word": "上海地铁回应2女子在车厢内薅头发",
+      "onboard_time": 1681035265,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 116037,
@@ -1641,6 +1761,14 @@
       "onboard_time": 1681030347,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 110918,
+      "num": 110918,
+      "word": "TTG对战Hero",
+      "onboard_time": 1681033644,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 107416,
@@ -1817,14 +1945,6 @@
       "onboard_time": 1681029927,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 84974,
-      "num": 84974,
-      "word": "被阿姨一句话气哭了",
-      "onboard_time": 1681032748,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 84497,
