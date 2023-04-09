@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/04/10 00:21:19 ~ 2023/04/10 02:33:39
+本榜单时间：2023/04/10 00:21:19 ~ 2023/04/10 03:12:45
 </p>
 </blockquote>
 <p>
@@ -190,7 +190,7 @@ Lisa日巡新发色（热度：186868）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E7%A7%B0%E5%90%8385%E5%BA%A6C%E4%B8%89%E6%98%8E%E6%B2%BB%E5%8F%91%E7%8E%B0%E7%95%AA%E8%8C%84%E9%95%BF%E6%AF%9B%23" target="weibo">
-顾客称吃85度C三明治发现番茄长毛（热度：166022）
+顾客称吃85度C三明治发现番茄长毛（热度：166091）
 </a>
 </li>
 
@@ -309,6 +309,12 @@ EDG醒醒（热度：109582）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%95%99%E5%AD%A6%E7%94%9F%E4%BB%AC%E5%9C%A8%E5%A4%96%E9%9D%A2%E7%9C%9F%E7%9A%84%E8%A6%81%E5%A5%BD%E5%A5%BD%E4%BF%9D%E6%8A%A4%E8%87%AA%E5%B7%B1%23" target="weibo">
+留学生们在外面真的要好好保护自己（热度：88609）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A2%A6%23" target="weibo">
 陈梦（热度：79889）
 </a>
@@ -333,12 +339,6 @@ EDG醒醒（热度：109582）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%95%99%E5%AD%A6%E7%94%9F%E4%BB%AC%E5%9C%A8%E5%A4%96%E9%9D%A2%E7%9C%9F%E7%9A%84%E8%A6%81%E5%A5%BD%E5%A5%BD%E4%BF%9D%E6%8A%A4%E8%87%AA%E5%B7%B1%23" target="weibo">
-留学生们在外面真的要好好保护自己（热度：36658）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23IVE%E6%AD%A3%E8%A7%84%E4%B8%93%E8%AF%95%E5%90%AC%23" target="weibo">
 IVE正规专试听（热度：33990）
 </a>
@@ -346,7 +346,7 @@ IVE正规专试听（热度：33990）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BAM%E6%A6%9C%E5%B9%B4%E5%BA%A6%E5%BD%B1%E5%93%8D%E5%8A%9B%E6%BC%94%E5%91%98%23" target="weibo">
-易烊千玺M榜年度影响力演员（热度：25857）
+易烊千玺M榜年度影响力演员（热度：28108）
 </a>
 </li>
 

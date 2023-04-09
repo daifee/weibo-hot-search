@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681065219175,
+  "endTime": 1681067565640,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -16875,20 +16875,20 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 166091,
+      "num": 60020,
+      "word": "顾客称吃85度C三明治发现番茄长毛",
+      "onboard_time": 1681062914,
+      "rank": 13,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 166075,
       "num": 190408,
       "word": "崔永熙隔扣",
       "onboard_time": 1681047751,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 166022,
-      "num": 60020,
-      "word": "顾客称吃85度C三明治发现番茄长毛",
-      "onboard_time": 1681062914,
-      "rank": 13,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 166007,
@@ -20907,6 +20907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 88609,
+      "num": 34504,
+      "word": "留学生们在外面真的要好好保护自己",
+      "onboard_time": 1681064473,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 88202,
       "num": 88202,
       "word": "梁友安内涵宋三川",
@@ -21481,14 +21489,6 @@
       "onboard_time": 1680888795,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 36658,
-      "num": 34504,
-      "word": "留学生们在外面真的要好好保护自己",
-      "onboard_time": 1681064473,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 35859,
