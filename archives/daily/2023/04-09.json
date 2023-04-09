@@ -1,6 +1,6 @@
 {
   "startTime": 1680970864988,
-  "endTime": 1681003421508,
+  "endTime": 1681004799931,
   "band_list": [
     {
       "raw_hot": 1824009,
@@ -43,6 +43,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 845660,
+      "num": 660913,
+      "word": "丫丫吃水果冰蛋糕",
+      "onboard_time": 1681000645,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 841679,
       "num": 421552,
       "word": "虞书欣自己化的水光妆",
@@ -51,12 +59,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 788941,
-      "num": 578764,
-      "word": "丫丫吃水果冰蛋糕",
-      "onboard_time": 1681000645,
-      "rank": 5,
-      "category": "社会新闻"
+      "raw_hot": 801873,
+      "num": 393786,
+      "word": "贾静雯的体重",
+      "onboard_time": 1681002986,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 688507,
@@ -67,6 +75,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 674466,
+      "num": 674466,
+      "word": "马克龙发文感谢广州",
+      "onboard_time": 1681002625,
+      "rank": 12,
+      "category": "国内要闻,社会新闻"
+    },
+    {
+      "raw_hot": 612781,
+      "num": 612781,
+      "word": "外卖小哥月入过万真的很容易吗",
+      "onboard_time": 1681000583,
+      "rank": 6,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 608017,
       "num": 419402,
       "word": "陈翔夜市摆摊",
@@ -75,12 +99,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 566775,
-      "num": 566775,
-      "word": "外卖小哥月入过万真的很容易吗",
-      "onboard_time": 1681000583,
-      "rank": 6,
-      "category": "社会新闻,科技"
+      "raw_hot": 566494,
+      "num": 566494,
+      "word": "你觉得工资越高越幸福吗",
+      "onboard_time": 1681003108,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 546078,
@@ -116,7 +140,7 @@
     },
     {
       "raw_hot": 461357,
-      "num": 210246,
+      "num": 240363,
       "word": "浙江富家子开保时捷碰瓷",
       "onboard_time": 1681000946,
       "rank": 20,
@@ -128,6 +152,14 @@
       "word": "孟菲斯动物园为丫丫举行送别活动",
       "onboard_time": 1680997759,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 448626,
+      "num": 384353,
+      "word": "唐山撞船致5死案船主被控故意杀人",
+      "onboard_time": 1681003587,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -155,28 +187,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 403142,
-      "num": 403142,
-      "word": "安乐传",
-      "onboard_time": 1680997640,
-      "rank": 9,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 380205,
-      "num": 380205,
+      "raw_hot": 418063,
+      "num": 418063,
       "word": "樊振东",
       "onboard_time": 1680999563,
       "rank": 10,
       "category": "体育"
     },
     {
-      "raw_hot": 373581,
-      "num": 373581,
-      "word": "马克龙发文感谢广州",
-      "onboard_time": 1681002625,
-      "rank": 12,
-      "category": "国内要闻,社会新闻"
+      "raw_hot": 403142,
+      "num": 403142,
+      "word": "安乐传",
+      "onboard_time": 1680997640,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 372869,
@@ -211,6 +235,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 317210,
+      "num": 317210,
+      "word": "王鹤棣 白鹤亮翅",
+      "onboard_time": 1681003406,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 281860,
       "num": 281860,
       "word": "中小学生有必要穿校服吗",
@@ -227,12 +259,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 261741,
-      "num": 261741,
-      "word": "贾静雯的体重",
-      "onboard_time": 1681002986,
-      "rank": 15,
-      "category": "艺人"
+      "raw_hot": 243941,
+      "num": 243941,
+      "word": "再就业男团红到什么水平了",
+      "onboard_time": 1681004007,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 233370,
@@ -257,6 +289,14 @@
       "onboard_time": 1680966509,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 229737,
+      "num": 229737,
+      "word": "马克龙",
+      "onboard_time": 1681003527,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 229108,
@@ -331,20 +371,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 204772,
+      "num": 204772,
+      "word": "巴尔韦德打人",
+      "onboard_time": 1681002147,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 200326,
+      "num": 200326,
+      "word": "网友跟风模仿致使共享单车滞留山顶",
+      "onboard_time": 1681003826,
+      "rank": 25,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 195701,
       "num": 147668,
       "word": "吴世勋脸链",
       "onboard_time": 1680958410,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 195402,
-      "num": 168618,
-      "word": "你觉得工资越高越幸福吗",
-      "onboard_time": 1681003108,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 192985,
@@ -361,14 +409,6 @@
       "onboard_time": 1680963630,
       "rank": 23,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 186570,
-      "num": 186570,
-      "word": "巴尔韦德打人",
-      "onboard_time": 1681002147,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 184714,
@@ -435,6 +475,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 164484,
+      "num": 164484,
+      "word": "浙大一个走廊被紫藤花淹没",
+      "onboard_time": 1681004126,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162837,
       "num": 162837,
       "word": "电视剧品质盛典",
@@ -443,8 +491,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 156654,
-      "num": 156654,
+      "raw_hot": 158875,
+      "num": 158875,
       "word": "EXO见面会",
       "onboard_time": 1680995357,
       "rank": 11,
@@ -475,12 +523,28 @@
       "category": "幽默,教育"
     },
     {
+      "raw_hot": 146265,
+      "num": 146265,
+      "word": "李羲承巴黎音银饭拍",
+      "onboard_time": 1681003647,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 143261,
       "num": 143261,
       "word": "90岁游本昌对年轻演员说你们好幸福",
       "onboard_time": 1680958588,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 141767,
+      "num": 141767,
+      "word": "SMTOWN新女团不露脸挑战",
+      "onboard_time": 1681004247,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 140890,
@@ -563,6 +627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 124943,
+      "num": 1054366,
+      "word": "这是现实版人在画中游",
+      "onboard_time": 1680962910,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124521,
       "num": 124521,
       "word": "李荣浩演唱会",
@@ -579,12 +651,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 121542,
-      "num": 1054366,
-      "word": "这是现实版人在画中游",
-      "onboard_time": 1680962910,
-      "rank": 2,
-      "category": "社会新闻"
+      "raw_hot": 123437,
+      "num": 123437,
+      "word": "00后战士在祖国边防线上过生日",
+      "onboard_time": 1681003706,
+      "rank": 43,
+      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 119314,
@@ -659,14 +731,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 99272,
-      "num": 99272,
-      "word": "王鹤棣 白鹤亮翅",
-      "onboard_time": 1681003406,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
       "raw_hot": 97118,
       "num": 97118,
       "word": "BLG战胜OMG",
@@ -707,12 +771,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 90459,
+      "num": 90459,
+      "word": "皇马2比3比利亚雷亚尔",
+      "onboard_time": 1681004786,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 84497,
       "num": 96773,
       "word": "苏科大一院长说已电话通知考生",
       "onboard_time": 1680943347,
       "rank": 46,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 72713,
+      "num": 90158,
+      "word": "LCK",
+      "onboard_time": 1681004548,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 68966,

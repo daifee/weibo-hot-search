@@ -1,0 +1,410 @@
+{
+  "runTime": 1681004799931,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1682843,
+        "num": 1682843,
+        "word": "胃病转向胃癌有5个信号",
+        "onboard_time": 1680998963,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1216540,
+        "num": 1216540,
+        "word": "林俊杰买虚拟地产浮亏91%",
+        "onboard_time": 1681000224,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124943,
+        "num": 788862,
+        "word": "这是现实版人在画中游",
+        "onboard_time": 1680962910,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 742139,
+        "num": 742139,
+        "word": "懒羊羊在第一季第十一集出门忘带羊角",
+        "onboard_time": 1680995057,
+        "rank": 3,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 674466,
+        "num": 674466,
+        "word": "马克龙发文感谢广州",
+        "onboard_time": 1681002625,
+        "rank": 4,
+        "category": "国内要闻,社会新闻"
+      },
+      {
+        "raw_hot": 845660,
+        "num": 660913,
+        "word": "丫丫吃水果冰蛋糕",
+        "onboard_time": 1681000645,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 612781,
+        "num": 612781,
+        "word": "外卖小哥月入过万真的很容易吗",
+        "onboard_time": 1681000583,
+        "rank": 6,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 592181,
+        "num": 592181,
+        "word": "因为镯子贴膜被同事嘲笑了",
+        "onboard_time": 1680958170,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 566494,
+        "num": 566494,
+        "word": "你觉得工资越高越幸福吗",
+        "onboard_time": 1681003108,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 418063,
+        "num": 418063,
+        "word": "樊振东",
+        "onboard_time": 1680999563,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 801873,
+        "num": 393786,
+        "word": "贾静雯的体重",
+        "onboard_time": 1681002986,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 448626,
+        "num": 384353,
+        "word": "唐山撞船致5死案船主被控故意杀人",
+        "onboard_time": 1681003587,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368743,
+        "num": 368743,
+        "word": "安乐传",
+        "onboard_time": 1680997640,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 338605,
+        "num": 338605,
+        "word": "何炅说自己从来没让旅伴花过钱",
+        "onboard_time": 1680964472,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 317210,
+        "num": 317210,
+        "word": "王鹤棣 白鹤亮翅",
+        "onboard_time": 1681003406,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 287260,
+        "num": 287260,
+        "word": "虞书欣自己化的水光妆",
+        "onboard_time": 1680966212,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269153,
+        "num": 269153,
+        "word": "灰原哀内心独白",
+        "onboard_time": 1680998182,
+        "rank": 16,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 268851,
+        "num": 268851,
+        "word": "月薪多少才会让你感觉幸福",
+        "onboard_time": 1680964351,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 273484,
+        "num": 261762,
+        "word": "孟菲斯动物园为丫丫举行送别活动",
+        "onboard_time": 1680997759,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243941,
+        "num": 243941,
+        "word": "再就业男团红到什么水平了",
+        "onboard_time": 1681004007,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 436063,
+        "num": 240363,
+        "word": "浙江富家子开保时捷碰瓷",
+        "onboard_time": 1681000946,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229737,
+        "num": 229737,
+        "word": "马克龙",
+        "onboard_time": 1681003527,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217572,
+        "num": 217572,
+        "word": "毛不易演唱会造福求婚的情侣",
+        "onboard_time": 1681000765,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 207886,
+        "num": 207886,
+        "word": "女子做实验硫酸蹭到脸上淡定冲水",
+        "onboard_time": 1680961710,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204772,
+        "num": 204772,
+        "word": "巴尔韦德打人",
+        "onboard_time": 1681002147,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200326,
+        "num": 200326,
+        "word": "网友跟风模仿致使共享单车滞留山顶",
+        "onboard_time": 1681003826,
+        "rank": 25,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 185798,
+        "num": 185798,
+        "word": "长月烬明预告",
+        "onboard_time": 1680996618,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 178108,
+        "num": 178108,
+        "word": "陈晓说我要是双星我就翻脸了",
+        "onboard_time": 1680967530,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 169124,
+        "num": 169124,
+        "word": "一起祝贺这位同学考研成功上岸211大学",
+        "onboard_time": 1680959909,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 164484,
+        "num": 164484,
+        "word": "浙大一个走廊被紫藤花淹没",
+        "onboard_time": 1681004126,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163522,
+        "num": 163522,
+        "word": "胡歌问虚拟人没电了怎么办",
+        "onboard_time": 1680973879,
+        "rank": 30,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 160112,
+        "num": 160112,
+        "word": "新冠病毒可能来源于人类",
+        "onboard_time": 1680946587,
+        "rank": 31,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 158875,
+        "num": 158875,
+        "word": "EXO见面会",
+        "onboard_time": 1680995357,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152126,
+        "num": 152126,
+        "word": "贝克汉姆回复王濛",
+        "onboard_time": 1680960991,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147466,
+        "num": 147466,
+        "word": "中小学生有必要穿校服吗",
+        "onboard_time": 1680960448,
+        "rank": 34,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 146265,
+        "num": 146265,
+        "word": "李羲承巴黎音银饭拍",
+        "onboard_time": 1681003647,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145657,
+        "num": 145657,
+        "word": "四川一骑手背枪上路吓坏路人",
+        "onboard_time": 1680994396,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145341,
+        "num": 145341,
+        "word": "长月烬明陈都灵邓为戏份",
+        "onboard_time": 1680963870,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 141767,
+        "num": 141767,
+        "word": "SMTOWN新女团不露脸挑战",
+        "onboard_time": 1681004247,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129576,
+        "num": 129576,
+        "word": "电视剧品质盛典",
+        "onboard_time": 1680999684,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 128674,
+        "num": 128674,
+        "word": "这个表演在整个教育界都是相当炸裂的",
+        "onboard_time": 1680999442,
+        "rank": 40,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 124493,
+        "num": 124493,
+        "word": "哈兰德倒钩",
+        "onboard_time": 1680996198,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123446,
+        "num": 123446,
+        "word": "邢菲活动生图",
+        "onboard_time": 1681002509,
+        "rank": 42,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 123437,
+        "num": 123437,
+        "word": "00后战士在祖国边防线上过生日",
+        "onboard_time": 1681003706,
+        "rank": 43,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 118697,
+        "num": 118697,
+        "word": "让你松弛下来的20件小事",
+        "onboard_time": 1680995777,
+        "rank": 44,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 113638,
+        "num": 113638,
+        "word": "陈翔夜市摆摊",
+        "onboard_time": 1680948388,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107327,
+        "num": 107327,
+        "word": "气胸",
+        "onboard_time": 1680958049,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 105298,
+        "num": 105298,
+        "word": "李荣浩演唱会",
+        "onboard_time": 1680997159,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 90459,
+        "num": 90459,
+        "word": "皇马2比3比利亚雷亚尔",
+        "onboard_time": 1681004786,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72713,
+        "num": 90158,
+        "word": "LCK",
+        "onboard_time": 1681004548,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#中法共同推动世界安全与稳定#"
+    }
+  }
+}
