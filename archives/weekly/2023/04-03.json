@@ -1,6 +1,6 @@
 {
   "startTime": 1680452464197,
-  "endTime": 1681011237164,
+  "endTime": 1681014009494,
   "band_list": [
     {
       "raw_hot": 9506486,
@@ -699,6 +699,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 1909674,
+      "num": 1909674,
+      "word": "丫丫正式移交中方",
+      "onboard_time": 1681012828,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1883278,
       "num": 1883278,
       "word": "张元英姐姐出道",
@@ -873,6 +881,14 @@
       "onboard_time": 1680782067,
       "rank": 6,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1639231,
+      "num": 1639231,
+      "word": "华晨宇回应华语乐坛永远的神",
+      "onboard_time": 1681009765,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 1630812,
@@ -1419,14 +1435,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1144518,
-      "num": 1144518,
-      "word": "华晨宇回应华语乐坛永远的神",
-      "onboard_time": 1681009765,
-      "rank": 16,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 1139639,
       "num": 1139639,
       "word": "青山刚昌",
@@ -1481,6 +1489,14 @@
       "onboard_time": 1680657030,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1102523,
+      "num": 357545,
+      "word": "前助理评价李现",
+      "onboard_time": 1681011869,
+      "rank": 10,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 1100322,
@@ -2772,7 +2788,7 @@
     },
     {
       "raw_hot": 695181,
-      "num": 203461,
+      "num": 204584,
       "word": "25岁以上就不用订闹钟了",
       "onboard_time": 1681009587,
       "rank": 30,
@@ -2921,6 +2937,14 @@
       "onboard_time": 1680596971,
       "rank": 24,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 672189,
+      "num": 672189,
+      "word": "95后男生国企辞职和妻子收废品",
+      "onboard_time": 1681012049,
+      "rank": 4,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 670816,
@@ -3265,6 +3289,14 @@
       "onboard_time": 1680591988,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 617427,
+      "num": 617427,
+      "word": "吴磊杭州",
+      "onboard_time": 1681011266,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 614234,
@@ -3851,6 +3883,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 529377,
+      "num": 529377,
+      "word": "法新社",
+      "onboard_time": 1681011808,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 528505,
       "num": 357500,
       "word": "接下来4个月都有10天假期",
@@ -4433,6 +4473,14 @@
       "onboard_time": 1680918568,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 467909,
+      "num": 204381,
+      "word": "王一博擦飞机",
+      "onboard_time": 1681012350,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 466898,
@@ -6427,6 +6475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 310639,
+      "num": 310639,
+      "word": "斗破苍穹",
+      "onboard_time": 1681010127,
+      "rank": 41,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 309102,
       "num": 309102,
       "word": "原来鲨鱼卵长这样",
@@ -6457,14 +6513,6 @@
       "onboard_time": 1680691830,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 307399,
-      "num": 307399,
-      "word": "斗破苍穹",
-      "onboard_time": 1681010127,
-      "rank": 41,
-      "category": "动漫"
     },
     {
       "raw_hot": 306143,
@@ -7137,6 +7185,14 @@
       "onboard_time": 1680775052,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 276752,
+      "num": 276752,
+      "word": "张颂文散文登贵州省一模试卷",
+      "onboard_time": 1681011989,
+      "rank": 17,
+      "category": "教育,艺人"
     },
     {
       "raw_hot": 275591,
@@ -9323,6 +9379,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 207157,
+      "num": 204284,
+      "word": "芭乐椰椰爽",
+      "onboard_time": 1681013008,
+      "rank": 22,
+      "category": "美食"
+    },
+    {
       "raw_hot": 207086,
       "num": 207086,
       "word": "上官透时期的罗云熙",
@@ -9673,6 +9737,14 @@
       "onboard_time": 1680767609,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 204073,
+      "num": 204073,
+      "word": "超能一家人主创把废话文学玩明白了",
+      "onboard_time": 1681013969,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 203773,
@@ -10547,6 +10619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 195403,
+      "num": 162751,
+      "word": "白鹿晒桑酒花絮照",
+      "onboard_time": 1681013909,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 195375,
       "num": 195375,
       "word": "全国校园音乐大赛音乐合伙人官宣",
@@ -10665,6 +10745,14 @@
       "onboard_time": 1680919527,
       "rank": 32,
       "category": "教育"
+    },
+    {
+      "raw_hot": 193759,
+      "num": 193759,
+      "word": "檀健次DREAMS预告",
+      "onboard_time": 1681012769,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 193637,
@@ -12611,6 +12699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 160956,
+      "num": 160956,
+      "word": "打戏斗破苍穹会出手",
+      "onboard_time": 1681012530,
+      "rank": 32,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 160864,
       "num": 160864,
       "word": "影视作品中值得尊敬的职业形象",
@@ -13995,6 +14091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 126604,
+      "num": 126604,
+      "word": "阿凡达2中国平台榜单表现",
+      "onboard_time": 1681012227,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 126434,
       "num": 126434,
       "word": "李泰民正式退伍",
@@ -14057,6 +14161,14 @@
       "onboard_time": 1680685409,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 125331,
+      "num": 125331,
+      "word": "复活节",
+      "onboard_time": 1681013249,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 125329,
@@ -14425,6 +14537,14 @@
       "onboard_time": 1680935246,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 109288,
+      "num": 901789,
+      "word": "中国航天员在太空划船什么样",
+      "onboard_time": 1681010547,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 109047,
@@ -15163,14 +15283,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 34579,
-      "num": 852405,
-      "word": "中国航天员在太空划船什么样",
-      "onboard_time": 1681010547,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 31223,
       "num": 114502,
       "word": "2023PEL春季赛季后赛",
@@ -15326,6 +15438,9 @@
     },
     {
       "word": "#中法共同推动世界安全与稳定#"
+    },
+    {
+      "word": "#协调好经济增长民生保障节能减排#"
     }
   ]
 }

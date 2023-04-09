@@ -1,7 +1,15 @@
 {
   "startTime": 1680970864988,
-  "endTime": 1681011237164,
+  "endTime": 1681014009494,
   "band_list": [
+    {
+      "raw_hot": 1909674,
+      "num": 1909674,
+      "word": "丫丫正式移交中方",
+      "onboard_time": 1681012828,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1824009,
       "num": 1824009,
@@ -9,6 +17,14 @@
       "onboard_time": 1680998963,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1639231,
+      "num": 1639231,
+      "word": "华晨宇回应华语乐坛永远的神",
+      "onboard_time": 1681009765,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 1218650,
@@ -27,12 +43,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1144518,
-      "num": 1144518,
-      "word": "华晨宇回应华语乐坛永远的神",
-      "onboard_time": 1681009765,
-      "rank": 16,
-      "category": "音乐"
+      "raw_hot": 1102523,
+      "num": 357545,
+      "word": "前助理评价李现",
+      "onboard_time": 1681011869,
+      "rank": 10,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 1029327,
@@ -92,7 +108,7 @@
     },
     {
       "raw_hot": 695181,
-      "num": 203461,
+      "num": 204584,
       "word": "25岁以上就不用订闹钟了",
       "onboard_time": 1681009587,
       "rank": 30,
@@ -115,6 +131,14 @@
       "category": "国内要闻,社会新闻"
     },
     {
+      "raw_hot": 672189,
+      "num": 672189,
+      "word": "95后男生国企辞职和妻子收废品",
+      "onboard_time": 1681012049,
+      "rank": 4,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 668117,
       "num": 668117,
       "word": "被闹钟惊醒对身体危害大",
@@ -129,6 +153,14 @@
       "onboard_time": 1681005025,
       "rank": 4,
       "category": "作品衍生,幽默"
+    },
+    {
+      "raw_hot": 617427,
+      "num": 617427,
+      "word": "吴磊杭州",
+      "onboard_time": 1681011266,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 612781,
@@ -179,6 +211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 529377,
+      "num": 529377,
+      "word": "法新社",
+      "onboard_time": 1681011808,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 523725,
       "num": 523725,
       "word": "新冠病毒可能来源于人类",
@@ -200,6 +240,14 @@
       "word": "气胸",
       "onboard_time": 1680958049,
       "rank": 7,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 467909,
+      "num": 204381,
+      "word": "王一博擦飞机",
+      "onboard_time": 1681012350,
+      "rank": 21,
       "category": "作品衍生"
     },
     {
@@ -347,8 +395,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 307399,
-      "num": 307399,
+      "raw_hot": 310639,
+      "num": 310639,
       "word": "斗破苍穹",
       "onboard_time": 1681010127,
       "rank": 41,
@@ -361,6 +409,14 @@
       "onboard_time": 1680960448,
       "rank": 16,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 276752,
+      "num": 276752,
+      "word": "张颂文散文登贵州省一模试卷",
+      "onboard_time": 1681011989,
+      "rank": 17,
+      "category": "教育,艺人"
     },
     {
       "raw_hot": 270592,
@@ -539,6 +595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 207157,
+      "num": 204284,
+      "word": "芭乐椰椰爽",
+      "onboard_time": 1681013008,
+      "rank": 22,
+      "category": "美食"
+    },
+    {
       "raw_hot": 205072,
       "num": 205072,
       "word": "严浩翔原创单曲H",
@@ -555,6 +619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 204073,
+      "num": 204073,
+      "word": "超能一家人主创把废话文学玩明白了",
+      "onboard_time": 1681013969,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 199694,
       "num": 199694,
       "word": "陈晓李沁被拉cp的表情",
@@ -569,6 +641,22 @@
       "onboard_time": 1680958410,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 195403,
+      "num": 162751,
+      "word": "白鹿晒桑酒花絮照",
+      "onboard_time": 1681013909,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 193759,
+      "num": 193759,
+      "word": "檀健次DREAMS预告",
+      "onboard_time": 1681012769,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 192985,
@@ -683,6 +771,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 160956,
+      "num": 160956,
+      "word": "打戏斗破苍穹会出手",
+      "onboard_time": 1681012530,
+      "rank": 32,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 158890,
       "num": 158890,
       "word": "成都草莓音乐节",
@@ -787,6 +883,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 136923,
+      "num": 136923,
+      "word": "宇宙探索编辑部",
+      "onboard_time": 1681011508,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 134213,
       "num": 134213,
       "word": "哈兰德倒钩",
@@ -827,12 +931,28 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 126604,
+      "num": 126604,
+      "word": "阿凡达2中国平台榜单表现",
+      "onboard_time": 1681012227,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 126208,
       "num": 126208,
       "word": "带患癌妈妈理发还价5元遭店主咒骂",
       "onboard_time": 1680945146,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125331,
+      "num": 125331,
+      "word": "复活节",
+      "onboard_time": 1681013249,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 124943,
@@ -889,6 +1009,14 @@
       "onboard_time": 1680974418,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 109288,
+      "num": 901789,
+      "word": "中国航天员在太空划船什么样",
+      "onboard_time": 1681010547,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 107416,
@@ -1067,14 +1195,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 34579,
-      "num": 852405,
-      "word": "中国航天员在太空划船什么样",
-      "onboard_time": 1681010547,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 32603,
       "num": 32603,
       "word": "BLG对战OMG",
@@ -1108,6 +1228,9 @@
     },
     {
       "word": "#中法共同推动世界安全与稳定#"
+    },
+    {
+      "word": "#协调好经济增长民生保障节能减排#"
     }
   ]
 }
