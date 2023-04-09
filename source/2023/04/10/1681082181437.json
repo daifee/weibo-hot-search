@@ -1,0 +1,410 @@
+{
+  "runTime": 1681082181437,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1166603,
+        "num": 1166603,
+        "word": "李坤城去世",
+        "onboard_time": 1681052670,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 500392,
+        "num": 500392,
+        "word": "张艺谋第一次拍网剧",
+        "onboard_time": 1681052429,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 78397,
+        "num": 412870,
+        "word": "这些旅游专列已发车",
+        "onboard_time": 1681042525,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 401673,
+        "num": 401673,
+        "word": "55岁小学老师去世后做了大体老师",
+        "onboard_time": 1681049911,
+        "rank": 3,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 343533,
+        "num": 343533,
+        "word": "顾客称吃85度C三明治发现番茄长毛",
+        "onboard_time": 1681062914,
+        "rank": 4,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 323139,
+        "num": 323139,
+        "word": "贵州失联母子已平安找到",
+        "onboard_time": 1681052131,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260042,
+        "num": 260042,
+        "word": "日本坠机师团长曾妄议台湾问题",
+        "onboard_time": 1681056505,
+        "rank": 6,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 221373,
+        "num": 221373,
+        "word": "周深的舞台里藏着待播电影名",
+        "onboard_time": 1681081761,
+        "rank": 7,
+        "category": "影视,音乐"
+      },
+      {
+        "raw_hot": 198209,
+        "num": 198209,
+        "word": "长月烬明化妆师",
+        "onboard_time": 1681029148,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187920,
+        "num": 187920,
+        "word": "留学生们在外面真的要好好保护自己",
+        "onboard_time": 1681064473,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 661914,
+        "num": 179584,
+        "word": "王力宏霍建华林心如聚会",
+        "onboard_time": 1681043309,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 323860,
+        "num": 178030,
+        "word": "上海辟谣一大巴载市委及家属旅游团",
+        "onboard_time": 1681080917,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207354,
+        "num": 174017,
+        "word": "时间夺走了杨洋的什么",
+        "onboard_time": 1681034425,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 165970,
+        "num": 165970,
+        "word": "镇政府回应男子当街强吻踹飞女孩",
+        "onboard_time": 1681033465,
+        "rank": 13,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 161056,
+        "num": 161056,
+        "word": "小时候最喜欢的天然零食",
+        "onboard_time": 1681058839,
+        "rank": 14,
+        "category": "情感,美食"
+      },
+      {
+        "raw_hot": 158733,
+        "num": 158733,
+        "word": "张杰女儿的奖励",
+        "onboard_time": 1681044809,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143988,
+        "num": 143988,
+        "word": "四川气温热到全国第一",
+        "onboard_time": 1681053750,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142543,
+        "num": 142543,
+        "word": "白鲨挺进春决会师AG",
+        "onboard_time": 1681081939,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 123106,
+        "num": 123106,
+        "word": "桑酒为救冥夜自愿献出仙髓",
+        "onboard_time": 1681052554,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 122094,
+        "num": 122094,
+        "word": "苏有朋留胡子了",
+        "onboard_time": 1681038025,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 593713,
+        "num": 122092,
+        "word": "官方回应男子骂剖腹产妻子她疼她死",
+        "onboard_time": 1681047569,
+        "rank": 20,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 470567,
+        "num": 122064,
+        "word": "重庆姐弟坠亡案改判可能性几乎为零",
+        "onboard_time": 1681050210,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214170,
+        "num": 122053,
+        "word": "过度超前消费有多可怕",
+        "onboard_time": 1681042226,
+        "rank": 22,
+        "category": "财经,社会议题"
+      },
+      {
+        "raw_hot": 184320,
+        "num": 122028,
+        "word": "论文很烂但致谢被老师夸了",
+        "onboard_time": 1681048411,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122015,
+        "num": 122015,
+        "word": "范丞丞来看小鬼音乐节",
+        "onboard_time": 1681051112,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 116464,
+        "num": 116464,
+        "word": "宣璐发缝",
+        "onboard_time": 1681047812,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 113165,
+        "num": 113165,
+        "word": "阿姨用筷子蘸肉包馄饨几乎只有皮",
+        "onboard_time": 1681034546,
+        "rank": 26,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 110459,
+        "num": 110459,
+        "word": "第一份工作其实没那么重要",
+        "onboard_time": 1681053571,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 106512,
+        "num": 106512,
+        "word": "许嵩音乐节",
+        "onboard_time": 1681051652,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 98463,
+        "num": 98463,
+        "word": "白桃星座",
+        "onboard_time": 1681052190,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 92235,
+        "num": 92235,
+        "word": "赵露思去游乐园只看不玩",
+        "onboard_time": 1681053447,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91986,
+        "num": 91986,
+        "word": "刘宇宁也不知道安乐传什么时候播出",
+        "onboard_time": 1681053689,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 87861,
+        "num": 87861,
+        "word": "宋妍霏新剧撞柱子好离谱",
+        "onboard_time": 1681049669,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 86328,
+        "num": 86328,
+        "word": "马龙",
+        "onboard_time": 1681049553,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84688,
+        "num": 84688,
+        "word": "吴京张译领奖比心",
+        "onboard_time": 1681048769,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 83080,
+        "num": 83080,
+        "word": "好险差点就脱单了",
+        "onboard_time": 1681050089,
+        "rank": 35,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 75739,
+        "num": 75739,
+        "word": "白鹿桑酒妆造",
+        "onboard_time": 1681046729,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 75730,
+        "num": 75730,
+        "word": "利物浦2比2阿森纳",
+        "onboard_time": 1681081879,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 74076,
+        "num": 74076,
+        "word": "吴磊后仰苏感",
+        "onboard_time": 1681050930,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 73303,
+        "num": 73303,
+        "word": "王冰冰说一不小心和海虹撞了衫",
+        "onboard_time": 1681042105,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71339,
+        "num": 71339,
+        "word": "第一次觉得增重好难",
+        "onboard_time": 1681051531,
+        "rank": 40,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 67659,
+        "num": 67659,
+        "word": "长月烬明",
+        "onboard_time": 1681045826,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 63242,
+        "num": 63242,
+        "word": "懒人吹发头神器",
+        "onboard_time": 1681046968,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 66448,
+        "num": 61962,
+        "word": "冥夜桑酒的宿命早已注定",
+        "onboard_time": 1681050869,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 58277,
+        "num": 58277,
+        "word": "极限挑战",
+        "onboard_time": 1681047391,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 57297,
+        "num": 57297,
+        "word": "原神",
+        "onboard_time": 1681069931,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 57284,
+        "num": 57284,
+        "word": "小S去看张惠妹演唱会了",
+        "onboard_time": 1681082119,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 56213,
+        "num": 56213,
+        "word": "利物浦vs阿森纳",
+        "onboard_time": 1681055067,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 53498,
+        "num": 53498,
+        "word": "Lisa日巡新发色",
+        "onboard_time": 1681049191,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 51418,
+        "num": 51418,
+        "word": "EXO或将以LoveMeRight概念回归",
+        "onboard_time": 1681044149,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#中法元首会晤上满满岭南元素#"
+    }
+  }
+}

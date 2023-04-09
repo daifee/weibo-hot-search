@@ -1,6 +1,6 @@
 {
   "startTime": 1681057279449,
-  "endTime": 1681079633114,
+  "endTime": 1681082181437,
   "band_list": [
     {
       "raw_hot": 2164948,
@@ -35,6 +35,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 661914,
+      "num": 383850,
+      "word": "王力宏霍建华林心如聚会",
+      "onboard_time": 1681043309,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 613174,
       "num": 397987,
       "word": "宣璐发缝",
@@ -57,14 +65,6 @@
       "onboard_time": 1681050210,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 549380,
-      "num": 383850,
-      "word": "王力宏霍建华林心如聚会",
-      "onboard_time": 1681043309,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 488357,
@@ -131,6 +131,22 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 343533,
+      "num": 343533,
+      "word": "顾客称吃85度C三明治发现番茄长毛",
+      "onboard_time": 1681062914,
+      "rank": 13,
+      "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 323860,
+      "num": 178030,
+      "word": "上海辟谣一大巴载市委及家属旅游团",
+      "onboard_time": 1681080917,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 322912,
       "num": 259830,
       "word": "论文很烂但致谢被老师夸了",
@@ -140,7 +156,7 @@
     },
     {
       "raw_hot": 318550,
-      "num": 204511,
+      "num": 260042,
       "word": "日本坠机师团长曾妄议台湾问题",
       "onboard_time": 1681056505,
       "rank": 37,
@@ -195,12 +211,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 221373,
+      "num": 221373,
+      "word": "周深的舞台里藏着待播电影名",
+      "onboard_time": 1681081761,
+      "rank": 7,
+      "category": "影视,音乐"
+    },
+    {
       "raw_hot": 208618,
       "num": 208618,
       "word": "金晨翻跳金智秀Flower",
       "onboard_time": 1681055129,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 187920,
+      "num": 187920,
+      "word": "留学生们在外面真的要好好保护自己",
+      "onboard_time": 1681064473,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186868,
@@ -235,14 +267,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 166091,
-      "num": 147201,
-      "word": "顾客称吃85度C三明治发现番茄长毛",
-      "onboard_time": 1681062914,
-      "rank": 13,
-      "category": "美食,社会新闻"
-    },
-    {
       "raw_hot": 162725,
       "num": 162725,
       "word": "好险差点就脱单了",
@@ -259,8 +283,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 152808,
-      "num": 132284,
+      "raw_hot": 161056,
+      "num": 161056,
       "word": "小时候最喜欢的天然零食",
       "onboard_time": 1681058839,
       "rank": 31,
@@ -299,6 +323,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 142543,
+      "num": 142543,
+      "word": "白鲨挺进春决会师AG",
+      "onboard_time": 1681081939,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 141078,
       "num": 273277,
       "word": "懒人吹发头神器",
@@ -329,6 +361,14 @@
       "onboard_time": 1681050930,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 122094,
+      "num": 122094,
+      "word": "苏有朋留胡子了",
+      "onboard_time": 1681038025,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 120468,
@@ -371,14 +411,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 102087,
-      "num": 101191,
-      "word": "留学生们在外面真的要好好保护自己",
-      "onboard_time": 1681064473,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 99938,
       "num": 718772,
       "word": "这些旅游专列已发车",
@@ -403,6 +435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 87861,
+      "num": 87861,
+      "word": "宋妍霏新剧撞柱子好离谱",
+      "onboard_time": 1681049669,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 79889,
       "num": 79889,
       "word": "陈梦",
@@ -419,6 +459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 75730,
+      "num": 75730,
+      "word": "利物浦2比2阿森纳",
+      "onboard_time": 1681081879,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 67432,
       "num": 75507,
       "word": "上海地铁回应2女子在车厢内薅头发",
@@ -427,12 +475,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 46886,
-      "num": 46886,
+      "raw_hot": 58277,
+      "num": 58277,
       "word": "极限挑战",
       "onboard_time": 1681047391,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 57297,
+      "num": 57297,
+      "word": "原神",
+      "onboard_time": 1681069931,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 57284,
+      "num": 57284,
+      "word": "小S去看张惠妹演唱会了",
+      "onboard_time": 1681082119,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 33990,
@@ -457,14 +521,6 @@
       "onboard_time": 1681066814,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 23802,
-      "num": 23802,
-      "word": "原神",
-      "onboard_time": 1681069931,
-      "rank": 18,
-      "category": "游戏"
     }
   ],
   "hotgov_list": [

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/04/01 00:21:42 ~ 2023/04/10 06:33:53
+本榜单时间：2023/04/01 00:21:42 ~ 2023/04/10 07:16:21
 </p>
 </blockquote>
 <p>
@@ -5895,6 +5895,12 @@ TXT演唱会裤子（热度：344550）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E7%A7%B0%E5%90%8385%E5%BA%A6C%E4%B8%89%E6%98%8E%E6%B2%BB%E5%8F%91%E7%8E%B0%E7%95%AA%E8%8C%84%E9%95%BF%E6%AF%9B%23" target="weibo">
+顾客称吃85度C三明治发现番茄长毛（热度：343533）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%A0%E7%89%A9%E9%BC%A0%E8%A2%AB%E6%BB%9E%E7%95%99%E5%9C%B0%E9%93%81%E4%B8%8A%E6%8C%A0%E4%BC%A4%E4%B9%98%E5%AE%A2%23" target="weibo">
 宠物鼠被滞留地铁上挠伤乘客（热度：343503）
 </a>
@@ -6005,12 +6011,6 @@ TXT演唱会裤子（热度：344550）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E7%BD%91%E8%AF%84%E9%99%88%E6%9F%90%E9%BE%99%E9%80%A0%E8%B0%A3%E8%A2%AB%E8%A1%8C%E6%8B%98%23" target="weibo">
 人民网评陈某龙造谣被行拘（热度：336628）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23seventeen%E7%9F%A5%E9%81%93%E7%99%BE%E4%B8%87%E4%B8%AD%E8%BE%93%E7%9A%84%E5%8F%8D%E5%BA%94%23" target="weibo">
-seventeen知道百万中输的反应（热度：336582）
 </a>
 </li>
 
