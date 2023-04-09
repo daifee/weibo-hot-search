@@ -1,6 +1,6 @@
 {
   "startTime": 1680970864988,
-  "endTime": 1681029203325,
+  "endTime": 1681031702422,
   "band_list": [
     {
       "raw_hot": 2140320,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1862844,
-      "num": 300504,
+      "num": 326209,
       "word": "周雨彤 韩火火",
       "onboard_time": 1681024648,
       "rank": 12,
@@ -41,6 +41,22 @@
       "onboard_time": 1681009765,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1398279,
+      "num": 1398279,
+      "word": "游客吐槽甘孜一公厕需凭空瓶进入",
+      "onboard_time": 1681027584,
+      "rank": 15,
+      "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 1368434,
+      "num": 1368434,
+      "word": "长月烬明化妆师",
+      "onboard_time": 1681029148,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 1309309,
@@ -163,14 +179,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 767844,
-      "num": 267284,
-      "word": "游客吐槽甘孜一公厕需凭空瓶进入",
-      "onboard_time": 1681027584,
-      "rank": 15,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 752721,
       "num": 709687,
       "word": "马克龙称赞中国大学生用法语提问",
@@ -268,7 +276,7 @@
     },
     {
       "raw_hot": 588146,
-      "num": 225202,
+      "num": 229114,
       "word": "Angelababy晒偶遇的猫头鹰",
       "onboard_time": 1681026447,
       "rank": 20,
@@ -315,6 +323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 532190,
+      "num": 532190,
+      "word": "张婧仪一字肩绿色纱裙",
+      "onboard_time": 1681027886,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 523725,
       "num": 523725,
       "word": "新冠病毒可能来源于人类",
@@ -347,20 +363,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 500210,
+      "num": 235357,
+      "word": "面包店赠试吃吐司块被顾客差评",
+      "onboard_time": 1681026866,
+      "rank": 21,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 483983,
       "num": 483983,
       "word": "气胸",
       "onboard_time": 1680958049,
       "rank": 7,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 472638,
-      "num": 219780,
-      "word": "面包店赠试吃吐司块被顾客差评",
-      "onboard_time": 1681026866,
-      "rank": 21,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 467909,
@@ -419,14 +435,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 423540,
-      "num": 423540,
-      "word": "张婧仪一字肩绿色纱裙",
-      "onboard_time": 1681027886,
-      "rank": 26,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 423365,
       "num": 423365,
       "word": "程潇三天速成的hiphop",
@@ -467,12 +475,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 402165,
+      "num": 233197,
+      "word": "二等功喜报送到妻子工作的小学",
+      "onboard_time": 1681030525,
+      "rank": 21,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 394573,
       "num": 394573,
       "word": "丫丫将由中美团队共同照料至月底",
       "onboard_time": 1681022726,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 374077,
+      "num": 374077,
+      "word": "长月烬明后期P掉了水管",
+      "onboard_time": 1681030405,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 372869,
@@ -521,6 +545,14 @@
       "onboard_time": 1681016188,
       "rank": 15,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 332273,
+      "num": 332273,
+      "word": "林诗栋",
+      "onboard_time": 1681028844,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 327071,
@@ -587,12 +619,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 299820,
+      "num": 299820,
+      "word": "科学家建议体育比赛前不要玩手机",
+      "onboard_time": 1681029507,
+      "rank": 14,
+      "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 294091,
+      "num": 294091,
+      "word": "陈都灵林允同框生图",
+      "onboard_time": 1681029446,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 290022,
       "num": 290022,
       "word": "赵弈钦李沐宸吻戏花絮",
       "onboard_time": 1681022548,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 284187,
+      "num": 225175,
+      "word": "金智秀Flower人歌初舞台",
+      "onboard_time": 1681028666,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 283652,
@@ -676,7 +732,7 @@
     },
     {
       "raw_hot": 246444,
-      "num": 227037,
+      "num": 236552,
       "word": "最食人间烟火色大合照",
       "onboard_time": 1681025906,
       "rank": 23,
@@ -769,6 +825,14 @@
       "onboard_time": 1680946645,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 223763,
+      "num": 223763,
+      "word": "topik",
+      "onboard_time": 1681030766,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 221428,
@@ -1035,22 +1099,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 185317,
-      "num": 185317,
-      "word": "长月烬明化妆师",
-      "onboard_time": 1681029148,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 184950,
-      "num": 157928,
-      "word": "金智秀Flower人歌初舞台",
-      "onboard_time": 1681028666,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 184714,
       "num": 146609,
       "word": "宋祖儿希望45岁的白宇也要开心自在",
@@ -1065,6 +1113,14 @@
       "onboard_time": 1680973879,
       "rank": 44,
       "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 183154,
+      "num": 183154,
+      "word": "水星的魔女",
+      "onboard_time": 1681030824,
+      "rank": 29,
+      "category": "动漫"
     },
     {
       "raw_hot": 183043,
@@ -1171,6 +1227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 166534,
+      "num": 166534,
+      "word": "第一次见小猫坐月子",
+      "onboard_time": 1681031127,
+      "rank": 30,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 164655,
       "num": 164165,
       "word": "广州海潮宇宙音乐节",
@@ -1209,14 +1273,6 @@
       "onboard_time": 1680995357,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 158204,
-      "num": 158204,
-      "word": "林诗栋",
-      "onboard_time": 1681028844,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 155372,
@@ -1281,6 +1337,14 @@
       "onboard_time": 1681003647,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 145346,
+      "num": 145346,
+      "word": "林诗栋晋级冠军赛16强",
+      "onboard_time": 1681030225,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 143261,
@@ -1403,6 +1467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 129203,
+      "num": 129203,
+      "word": "何洛洛说未来工作以表演为主",
+      "onboard_time": 1681028965,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 128275,
       "num": 128275,
       "word": "黑龙三箭",
@@ -1515,12 +1587,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 113024,
+      "num": 113024,
+      "word": "王菊路演状态",
+      "onboard_time": 1681031486,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 112686,
       "num": 112686,
       "word": "当代女生对丑甲的执念",
       "onboard_time": 1680974418,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 111522,
+      "num": 111522,
+      "word": "用甄嬛传的方式打开恩爱两不疑",
+      "onboard_time": 1681030347,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 107416,
@@ -1603,14 +1691,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 99890,
-      "num": 99890,
-      "word": "何洛洛说未来工作以表演为主",
-      "onboard_time": 1681028965,
-      "rank": 43,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 99835,
       "num": 99835,
       "word": "林一跳爱你",
@@ -1659,6 +1739,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 90883,
+      "num": 90883,
+      "word": "Doran的酒桶",
+      "onboard_time": 1681029446,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 90492,
       "num": 90492,
       "word": "尼斯0比2巴黎圣日耳曼",
@@ -1675,12 +1763,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88017,
+      "num": 88017,
+      "word": "陈冲说和狗狗演戏最愉悦因为它们不装",
+      "onboard_time": 1681029927,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 84574,
+      "num": 84574,
+      "word": "王栎鑫转鼓锤好熟练",
+      "onboard_time": 1681031367,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 84497,
       "num": 96773,
       "word": "苏科大一院长说已电话通知考生",
       "onboard_time": 1680943347,
       "rank": 46,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 79885,
+      "num": 79885,
+      "word": "刘彰版alright",
+      "onboard_time": 1681031606,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 68966,
@@ -1732,7 +1844,7 @@
     },
     {
       "raw_hot": 56034,
-      "num": 724700,
+      "num": 924833,
       "word": "春天里我们都是奋斗者",
       "onboard_time": 1681025188,
       "rank": 2,

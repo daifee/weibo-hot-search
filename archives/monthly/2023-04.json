@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681029203325,
+  "endTime": 1681031702422,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -860,7 +860,7 @@
     },
     {
       "raw_hot": 1862844,
-      "num": 300504,
+      "num": 326209,
       "word": "周雨彤 韩火火",
       "onboard_time": 1681024648,
       "rank": 12,
@@ -1331,6 +1331,14 @@
       "category": "社会新闻,社会正能量"
     },
     {
+      "raw_hot": 1398279,
+      "num": 1398279,
+      "word": "游客吐槽甘孜一公厕需凭空瓶进入",
+      "onboard_time": 1681027584,
+      "rank": 15,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 1396043,
       "num": 1108113,
       "word": "气胸",
@@ -1369,6 +1377,14 @@
       "onboard_time": 1680576867,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1368434,
+      "num": 1368434,
+      "word": "长月烬明化妆师",
+      "onboard_time": 1681029148,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 1350707,
@@ -2971,14 +2987,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 767844,
-      "num": 267284,
-      "word": "游客吐槽甘孜一公厕需凭空瓶进入",
-      "onboard_time": 1681027584,
-      "rank": 15,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 766991,
       "num": 362626,
       "word": "陈坤 白宇是真的好演员",
@@ -4196,7 +4204,7 @@
     },
     {
       "raw_hot": 588146,
-      "num": 225202,
+      "num": 229114,
       "word": "Angelababy晒偶遇的猫头鹰",
       "onboard_time": 1681026447,
       "rank": 20,
@@ -4739,6 +4747,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 532190,
+      "num": 532190,
+      "word": "张婧仪一字肩绿色纱裙",
+      "onboard_time": 1681027886,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 532116,
       "num": 312797,
       "word": "赵丽颖又瘦了",
@@ -5099,6 +5115,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 500210,
+      "num": 235357,
+      "word": "面包店赠试吃吐司块被顾客差评",
+      "onboard_time": 1681026866,
+      "rank": 21,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 500156,
       "num": 469256,
       "word": "关晓彤工作室的评论区",
@@ -5449,14 +5473,6 @@
       "onboard_time": 1680329492,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 472638,
-      "num": 219780,
-      "word": "面包店赠试吃吐司块被顾客差评",
-      "onboard_time": 1681026866,
-      "rank": 21,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 472015,
@@ -6067,14 +6083,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 423540,
-      "num": 423540,
-      "word": "张婧仪一字肩绿色纱裙",
-      "onboard_time": 1681027886,
-      "rank": 26,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 423365,
       "num": 423365,
       "word": "程潇三天速成的hiphop",
@@ -6417,6 +6425,14 @@
       "onboard_time": 1680751468,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 402165,
+      "num": 233197,
+      "word": "二等功喜报送到妻子工作的小学",
+      "onboard_time": 1681030525,
+      "rank": 21,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 401587,
@@ -6865,6 +6881,14 @@
       "onboard_time": 1680928467,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 374077,
+      "num": 374077,
+      "word": "长月烬明后期P掉了水管",
+      "onboard_time": 1681030405,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 373383,
@@ -7659,6 +7683,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 332273,
+      "num": 332273,
+      "word": "林诗栋",
+      "onboard_time": 1681028844,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 332180,
       "num": 332180,
       "word": "清明时节雨纷纷有三大原因",
@@ -8355,6 +8387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 299820,
+      "num": 299820,
+      "word": "科学家建议体育比赛前不要玩手机",
+      "onboard_time": 1681029507,
+      "rank": 14,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 299814,
       "num": 299814,
       "word": "大河报",
@@ -8513,6 +8553,14 @@
       "onboard_time": 1680345990,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 294091,
+      "num": 294091,
+      "word": "陈都灵林允同框生图",
+      "onboard_time": 1681029446,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 293821,
@@ -8777,6 +8825,14 @@
       "onboard_time": 1680496236,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 284187,
+      "num": 225175,
+      "word": "金智秀Flower人歌初舞台",
+      "onboard_time": 1681028666,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 283996,
@@ -9980,7 +10036,7 @@
     },
     {
       "raw_hot": 246444,
-      "num": 227037,
+      "num": 236552,
       "word": "最食人间烟火色大合照",
       "onboard_time": 1681025906,
       "rank": 23,
@@ -10857,6 +10913,14 @@
       "onboard_time": 1680869728,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 223763,
+      "num": 223763,
+      "word": "topik",
+      "onboard_time": 1681030766,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 223442,
@@ -14683,14 +14747,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 185317,
-      "num": 185317,
-      "word": "长月烬明化妆师",
-      "onboard_time": 1681029148,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 185191,
       "num": 185191,
       "word": "半熟恋人2",
@@ -14713,14 +14769,6 @@
       "onboard_time": 1680744806,
       "rank": 24,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 184950,
-      "num": 157928,
-      "word": "金智秀Flower人歌初舞台",
-      "onboard_time": 1681028666,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 184945,
@@ -14881,6 +14929,14 @@
       "onboard_time": 1680445968,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 183154,
+      "num": 183154,
+      "word": "水星的魔女",
+      "onboard_time": 1681030824,
+      "rank": 29,
+      "category": "动漫"
     },
     {
       "raw_hot": 183061,
@@ -15955,6 +16011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 166534,
+      "num": 166534,
+      "word": "第一次见小猫坐月子",
+      "onboard_time": 1681031127,
+      "rank": 30,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 166332,
       "num": 166332,
       "word": "梁友安钻进宋三川被窝",
@@ -16489,14 +16553,6 @@
       "onboard_time": 1680406468,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 158204,
-      "num": 158204,
-      "word": "林诗栋",
-      "onboard_time": 1681028844,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 158195,
@@ -17289,6 +17345,14 @@
       "onboard_time": 1680404546,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 145346,
+      "num": 145346,
+      "word": "林诗栋晋级冠军赛16强",
+      "onboard_time": 1681030225,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 145336,
@@ -18235,6 +18299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 129203,
+      "num": 129203,
+      "word": "何洛洛说未来工作以表演为主",
+      "onboard_time": 1681028965,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 129159,
       "num": 129159,
       "word": "让郭帆付钱的电影",
@@ -19011,6 +19083,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 113024,
+      "num": 113024,
+      "word": "王菊路演状态",
+      "onboard_time": 1681031486,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 112981,
       "num": 105565,
       "word": "EXO出道十一周年",
@@ -19048,6 +19128,14 @@
       "word": "待播影视剧愚人节海报",
       "onboard_time": 1680327869,
       "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 111522,
+      "num": 111522,
+      "word": "用甄嬛传的方式打开恩爱两不疑",
+      "onboard_time": 1681030347,
+      "rank": 43,
       "category": "影视"
     },
     {
@@ -19499,14 +19587,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 99890,
-      "num": 99890,
-      "word": "何洛洛说未来工作以表演为主",
-      "onboard_time": 1681028965,
-      "rank": 43,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 99835,
       "num": 99835,
       "word": "林一跳爱你",
@@ -19763,6 +19843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 90883,
+      "num": 90883,
+      "word": "Doran的酒桶",
+      "onboard_time": 1681029446,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 90799,
       "num": 90799,
       "word": "广东人清明特色小吃",
@@ -19819,6 +19907,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 88017,
+      "num": 88017,
+      "word": "陈冲说和狗狗演戏最愉悦因为它们不装",
+      "onboard_time": 1681029927,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 86947,
       "num": 86947,
       "word": "搜救犬飞檐走壁快到重影",
@@ -19867,6 +19963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 84574,
+      "num": 84574,
+      "word": "王栎鑫转鼓锤好熟练",
+      "onboard_time": 1681031367,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 83509,
       "num": 83509,
       "word": "拥有可移动的家有多自由",
@@ -19897,6 +20001,14 @@
       "onboard_time": 1680449915,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 79885,
+      "num": 79885,
+      "word": "刘彰版alright",
+      "onboard_time": 1681031606,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 79862,
@@ -20228,7 +20340,7 @@
     },
     {
       "raw_hot": 56034,
-      "num": 724700,
+      "num": 924833,
       "word": "春天里我们都是奋斗者",
       "onboard_time": 1681025188,
       "rank": 2,
