@@ -1,0 +1,410 @@
+{
+  "runTime": 1681018406735,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1786981,
+        "num": 1786981,
+        "word": "丫丫正式移交中方",
+        "onboard_time": 1681012828,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1014800,
+        "num": 1014800,
+        "word": "淄博烧烤",
+        "onboard_time": 1681014808,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 76657,
+        "num": 886438,
+        "word": "中国航天员在太空划船什么样",
+        "onboard_time": 1681010547,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 801548,
+        "num": 801548,
+        "word": "华晨宇回应华语乐坛永远的神",
+        "onboard_time": 1681009765,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 710494,
+        "num": 710494,
+        "word": "95后男生国企辞职和妻子收废品",
+        "onboard_time": 1681012049,
+        "rank": 4,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 520589,
+        "num": 520589,
+        "word": "胃病转向胃癌有5个信号",
+        "onboard_time": 1680998963,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 507498,
+        "num": 507498,
+        "word": "鬼灭之刃",
+        "onboard_time": 1681015109,
+        "rank": 6,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 443710,
+        "num": 443710,
+        "word": "吴磊杭州",
+        "onboard_time": 1681011266,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 390737,
+        "num": 390737,
+        "word": "我海军军舰与台舰目视距离5海里",
+        "onboard_time": 1681017148,
+        "rank": 8,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 378616,
+        "num": 378616,
+        "word": "法新社",
+        "onboard_time": 1681011808,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1742193,
+        "num": 376305,
+        "word": "宋祖儿编辑记录",
+        "onboard_time": 1681014329,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 594220,
+        "num": 373228,
+        "word": "前助理评价李现",
+        "onboard_time": 1681011869,
+        "rank": 11,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 469241,
+        "num": 371121,
+        "word": "韩国人有自己的张远",
+        "onboard_time": 1681008566,
+        "rank": 12,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 417861,
+        "num": 365240,
+        "word": "对台岛关键目标模拟精确打击",
+        "onboard_time": 1681015949,
+        "rank": 13,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 364373,
+        "num": 364373,
+        "word": "林俊杰买虚拟地产浮亏91%",
+        "onboard_time": 1681000224,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 360807,
+        "num": 360807,
+        "word": "关于中国留学生在泰遇害的情况通报",
+        "onboard_time": 1681016790,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335424,
+        "num": 335424,
+        "word": "BLG发布律师声明",
+        "onboard_time": 1681016188,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 303674,
+        "num": 303674,
+        "word": "医院回应2老人长住等候椅",
+        "onboard_time": 1681013850,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286130,
+        "num": 286130,
+        "word": "贾静雯的体重",
+        "onboard_time": 1681002986,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275372,
+        "num": 275372,
+        "word": "原来胃是这样被弄坏的",
+        "onboard_time": 1681005625,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 432669,
+        "num": 271894,
+        "word": "25岁以上就不用订闹钟了",
+        "onboard_time": 1681009587,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 267823,
+        "num": 267823,
+        "word": "长月烬明新副本",
+        "onboard_time": 1681015289,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 265701,
+        "num": 265701,
+        "word": "王一博擦飞机",
+        "onboard_time": 1681012350,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 238835,
+        "num": 238835,
+        "word": "张颂文散文登贵州省一模试卷",
+        "onboard_time": 1681011989,
+        "rank": 23,
+        "category": "教育,艺人"
+      },
+      {
+        "raw_hot": 209013,
+        "num": 209013,
+        "word": "元宇宙幻城之夜复原古都盛世",
+        "onboard_time": 1681017388,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204555,
+        "num": 204555,
+        "word": "被闹钟惊醒对身体危害大",
+        "onboard_time": 1681005748,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200628,
+        "num": 200628,
+        "word": "UFC287",
+        "onboard_time": 1681016308,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199800,
+        "num": 199800,
+        "word": "TF家族三代演唱会为粉丝准备的礼物",
+        "onboard_time": 1681017148,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 195303,
+        "num": 195303,
+        "word": "长月烬明冥夜桑酒角色海报",
+        "onboard_time": 1681009647,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 178827,
+        "num": 178827,
+        "word": "恋与制作人",
+        "onboard_time": 1681018107,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 199680,
+        "num": 177362,
+        "word": "左航说我们现场见",
+        "onboard_time": 1681018048,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 175550,
+        "num": 175550,
+        "word": "艾伦沈腾新电影定档",
+        "onboard_time": 1681014026,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 169010,
+        "num": 169010,
+        "word": "芭乐椰椰爽",
+        "onboard_time": 1681013008,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 168337,
+        "num": 168337,
+        "word": "马克龙发文感谢广州",
+        "onboard_time": 1681002625,
+        "rank": 33,
+        "category": "国内要闻,社会新闻"
+      },
+      {
+        "raw_hot": 166544,
+        "num": 166544,
+        "word": "范丞丞要久久爱直男打伞",
+        "onboard_time": 1681017267,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156183,
+        "num": 156183,
+        "word": "你觉得工资越高越幸福吗",
+        "onboard_time": 1681003108,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155382,
+        "num": 155382,
+        "word": "再就业男团红到什么水平了",
+        "onboard_time": 1681004007,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139506,
+        "num": 139506,
+        "word": "乘坐淄博烧烤专列的幸福感",
+        "onboard_time": 1681016609,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 192432,
+        "num": 139191,
+        "word": "刘耀文是不是把严浩翔伞拿走了",
+        "onboard_time": 1681014089,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138831,
+        "num": 138831,
+        "word": "周雨彤面对误解的态度",
+        "onboard_time": 1681014568,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 134302,
+        "num": 134302,
+        "word": "比泰国广告还离谱",
+        "onboard_time": 1681015408,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133446,
+        "num": 133446,
+        "word": "斗破苍穹",
+        "onboard_time": 1681010127,
+        "rank": 41,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 130455,
+        "num": 130455,
+        "word": "EXO蝴蝶少女饭拍视频",
+        "onboard_time": 1681016850,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 130368,
+        "num": 130368,
+        "word": "罗云熙下海动图",
+        "onboard_time": 1681005025,
+        "rank": 43,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 120150,
+        "num": 120150,
+        "word": "黑龙三箭",
+        "onboard_time": 1681017028,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120244,
+        "num": 119736,
+        "word": "白鹿晒桑酒花絮照",
+        "onboard_time": 1681013909,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 118456,
+        "num": 118456,
+        "word": "浙江富家子开保时捷碰瓷",
+        "onboard_time": 1681000946,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113908,
+        "num": 113908,
+        "word": "Ella到达长沙vlog",
+        "onboard_time": 1681016909,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103479,
+        "num": 103479,
+        "word": "双向奔赴是一种什么样的体验",
+        "onboard_time": 1681016250,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 99903,
+        "num": 99903,
+        "word": "赞多舞社2再现大风车",
+        "onboard_time": 1681018347,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#春耕农忙正当时#"
+    }
+  }
+}

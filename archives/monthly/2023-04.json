@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681017309568,
+  "endTime": 1681018406735,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -939,6 +939,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 1742193,
+      "num": 376305,
+      "word": "宋祖儿编辑记录",
+      "onboard_time": 1681014329,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1736823,
       "num": 1736823,
       "word": "因为镯子贴膜被同事嘲笑了",
@@ -977,14 +985,6 @@
       "onboard_time": 1680788850,
       "rank": 10,
       "category": "艺人,幽默"
-    },
-    {
-      "raw_hot": 1669690,
-      "num": 366737,
-      "word": "宋祖儿编辑记录",
-      "onboard_time": 1681014329,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 1660057,
@@ -1436,7 +1436,7 @@
     },
     {
       "raw_hot": 1287647,
-      "num": 361472,
+      "num": 373228,
       "word": "前助理评价李现",
       "onboard_time": 1681011869,
       "rank": 10,
@@ -1921,6 +1921,14 @@
       "onboard_time": 1680920968,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1014800,
+      "num": 1014800,
+      "word": "淄博烧烤",
+      "onboard_time": 1681014808,
+      "rank": 4,
+      "category": "美食"
     },
     {
       "raw_hot": 1012753,
@@ -2683,14 +2691,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 824779,
-      "num": 824779,
-      "word": "淄博烧烤",
-      "onboard_time": 1681014808,
-      "rank": 4,
-      "category": "美食"
-    },
-    {
       "raw_hot": 822431,
       "num": 636625,
       "word": "南柱赫寸头",
@@ -3324,7 +3324,7 @@
     },
     {
       "raw_hot": 695181,
-      "num": 244727,
+      "num": 271894,
       "word": "25岁以上就不用订闹钟了",
       "onboard_time": 1681009587,
       "rank": 30,
@@ -4939,6 +4939,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 507498,
+      "num": 507498,
+      "word": "鬼灭之刃",
+      "onboard_time": 1681015109,
+      "rank": 8,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 506660,
       "num": 506660,
       "word": "张继科代理律师称还未起诉",
@@ -5412,7 +5420,7 @@
     },
     {
       "raw_hot": 467909,
-      "num": 243561,
+      "num": 265701,
       "word": "王一博擦飞机",
       "onboard_time": 1681012350,
       "rank": 21,
@@ -6083,6 +6091,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 417861,
+      "num": 365240,
+      "word": "对台岛关键目标模拟精确打击",
+      "onboard_time": 1681015949,
+      "rank": 14,
+      "category": "军事,国内要闻"
+    },
+    {
       "raw_hot": 416697,
       "num": 382805,
       "word": "力灿承认曾性骚扰",
@@ -6169,14 +6185,6 @@
       "onboard_time": 1680609390,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 410219,
-      "num": 410219,
-      "word": "鬼灭之刃",
-      "onboard_time": 1681015109,
-      "rank": 8,
-      "category": "动漫"
     },
     {
       "raw_hot": 410090,
@@ -6497,6 +6505,14 @@
       "onboard_time": 1680328891,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 390737,
+      "num": 390737,
+      "word": "我海军军舰与台舰目视距离5海里",
+      "onboard_time": 1681017148,
+      "rank": 41,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 390628,
@@ -6945,6 +6961,14 @@
       "onboard_time": 1680707794,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 360807,
+      "num": 360807,
+      "word": "关于中国留学生在泰遇害的情况通报",
+      "onboard_time": 1681016790,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 359919,
@@ -7467,6 +7491,14 @@
       "category": "音乐,社会新闻"
     },
     {
+      "raw_hot": 335424,
+      "num": 335424,
+      "word": "BLG发布律师声明",
+      "onboard_time": 1681016188,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 334380,
       "num": 292978,
       "word": "时代少年团的愚人节vlog",
@@ -7771,14 +7803,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 320194,
-      "num": 320194,
-      "word": "对台岛关键目标模拟精确打击",
-      "onboard_time": 1681015949,
-      "rank": 14,
-      "category": "军事,国内要闻"
-    },
-    {
       "raw_hot": 320037,
       "num": 320037,
       "word": "不良人",
@@ -7809,14 +7833,6 @@
       "onboard_time": 1680744749,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 318525,
-      "num": 318525,
-      "word": "BLG发布律师声明",
-      "onboard_time": 1681016188,
-      "rank": 15,
-      "category": "游戏"
     },
     {
       "raw_hot": 318363,
@@ -8129,6 +8145,14 @@
       "onboard_time": 1680716895,
       "rank": 30,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 303674,
+      "num": 303674,
+      "word": "医院回应2老人长住等候椅",
+      "onboard_time": 1681013850,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 303342,
@@ -9163,20 +9187,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 267823,
+      "num": 267823,
+      "word": "长月烬明新副本",
+      "onboard_time": 1681015289,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 267241,
       "num": 267241,
       "word": "时尚先生四月刊",
       "onboard_time": 1680403349,
       "rank": 16,
       "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 266702,
-      "num": 266702,
-      "word": "长月烬明新副本",
-      "onboard_time": 1681015289,
-      "rank": 18,
-      "category": "影视"
     },
     {
       "raw_hot": 265674,
@@ -9993,14 +10017,6 @@
       "onboard_time": 1680413488,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 240300,
-      "num": 240300,
-      "word": "医院回应2老人长住等候椅",
-      "onboard_time": 1681013850,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 240223,
@@ -11459,6 +11475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 209013,
+      "num": 209013,
+      "word": "元宇宙幻城之夜复原古都盛世",
+      "onboard_time": 1681017388,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208917,
       "num": 208917,
       "word": "甜咸口青团大pk",
@@ -12379,14 +12403,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 202482,
-      "num": 202482,
-      "word": "关于中国留学生在泰遇害的情况通报",
-      "onboard_time": 1681016790,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 202459,
       "num": 202459,
       "word": "任嘉伦活动现场人气",
@@ -12691,6 +12707,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 200628,
+      "num": 200628,
+      "word": "UFC287",
+      "onboard_time": 1681016308,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 200564,
       "num": 200564,
       "word": "丁程鑫胡一天粉扑游戏",
@@ -12787,6 +12811,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 199800,
+      "num": 199800,
+      "word": "TF家族三代演唱会为粉丝准备的礼物",
+      "onboard_time": 1681017148,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 199782,
       "num": 199782,
       "word": "龚俊愚人节plog",
@@ -12817,6 +12849,14 @@
       "onboard_time": 1680416969,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 199680,
+      "num": 177362,
+      "word": "左航说我们现场见",
+      "onboard_time": 1681018048,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 199560,
@@ -13993,14 +14033,6 @@
       "onboard_time": 1680650420,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 189661,
-      "num": 189661,
-      "word": "UFC287",
-      "onboard_time": 1681016308,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 189576,
@@ -15675,12 +15707,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 166485,
-      "num": 166485,
-      "word": "TF家族三代演唱会为粉丝准备的礼物",
-      "onboard_time": 1681017148,
-      "rank": 36,
-      "category": "音乐"
+      "raw_hot": 166544,
+      "num": 166544,
+      "word": "范丞丞要久久爱直男打伞",
+      "onboard_time": 1681017267,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 166332,
@@ -17611,14 +17643,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 135012,
-      "num": 135012,
-      "word": "我海军军舰与台舰目视距离5海里",
-      "onboard_time": 1681017148,
-      "rank": 41,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 134982,
       "num": 134982,
       "word": "文俊辉晒尹净汉金珉奎翻船直拍",
@@ -18827,14 +18851,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 107506,
-      "num": 107506,
-      "word": "范丞丞要久久爱直男打伞",
-      "onboard_time": 1681017267,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 107343,
       "num": 107343,
       "word": "AG战胜EDGM",
@@ -19161,6 +19177,14 @@
       "onboard_time": 1680607229,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 99903,
+      "num": 99903,
+      "word": "赞多舞社2再现大风车",
+      "onboard_time": 1681018347,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 99835,
