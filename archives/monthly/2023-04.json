@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681061617665,
+  "endTime": 1681064367985,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -20529,6 +20529,14 @@
       "onboard_time": 1680609149,
       "rank": 48,
       "category": "情感,旅游"
+    },
+    {
+      "raw_hot": 100855,
+      "num": 60020,
+      "word": "顾客称吃85度C三明治发现番茄长毛",
+      "onboard_time": 1681062914,
+      "rank": 13,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 100833,
