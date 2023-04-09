@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681049649351,
+  "endTime": 1681050801686,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -692,7 +692,7 @@
     },
     {
       "raw_hot": 2084198,
-      "num": 446232,
+      "num": 455626,
       "word": "王力宏霍建华林心如聚会",
       "onboard_time": 1681043309,
       "rank": 41,
@@ -1004,7 +1004,7 @@
     },
     {
       "raw_hot": 1704505,
-      "num": 788815,
+      "num": 828512,
       "word": "张杰女儿的奖励",
       "onboard_time": 1681044809,
       "rank": 3,
@@ -1217,6 +1217,14 @@
       "onboard_time": 1680651682,
       "rank": 3,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 1541535,
+      "num": 835585,
+      "word": "官方回应男子骂剖腹产妻子她疼她死",
+      "onboard_time": 1681047569,
+      "rank": 4,
+      "category": "社会负面"
     },
     {
       "raw_hot": 1541341,
@@ -1521,6 +1529,14 @@
       "onboard_time": 1680499952,
       "rank": 49,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1285722,
+      "num": 449679,
+      "word": "宣璐发缝",
+      "onboard_time": 1681047812,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1285363,
@@ -1921,14 +1937,6 @@
       "onboard_time": 1680960991,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1076012,
-      "num": 359578,
-      "word": "宣璐发缝",
-      "onboard_time": 1681047812,
-      "rank": 11,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1075445,
@@ -3035,6 +3043,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 779412,
+      "num": 779412,
+      "word": "马龙",
+      "onboard_time": 1681049553,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 779318,
       "num": 779318,
       "word": "坂本龙一曾举办最后的音乐会",
@@ -3065,14 +3081,6 @@
       "onboard_time": 1680790533,
       "rank": 18,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 772007,
-      "num": 772007,
-      "word": "官方回应男子骂剖腹产妻子她疼她死",
-      "onboard_time": 1681047569,
-      "rank": 4,
-      "category": "社会负面"
     },
     {
       "raw_hot": 771505,
@@ -3289,6 +3297,14 @@
       "onboard_time": 1680503011,
       "rank": 16,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 728408,
+      "num": 728408,
+      "word": "吴京张译领奖比心",
+      "onboard_time": 1681048769,
+      "rank": 7,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 727599,
@@ -4899,6 +4915,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 534334,
+      "num": 330127,
+      "word": "论文很烂但致谢被老师夸了",
+      "onboard_time": 1681048411,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 532727,
       "num": 532727,
       "word": "朱珠Amber搭肩同框",
@@ -5859,6 +5883,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 456102,
+      "num": 456102,
+      "word": "懒人吹发头神器",
+      "onboard_time": 1681046968,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 455702,
       "num": 455702,
       "word": "不是所有人都适合午睡",
@@ -6115,12 +6147,28 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 432168,
+      "num": 432168,
+      "word": "Lisa日巡新发色",
+      "onboard_time": 1681049191,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 431731,
       "num": 309215,
       "word": "崔杋圭撞脸宋亚轩",
       "onboard_time": 1680689913,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 431467,
+      "num": 343883,
+      "word": "白鹿桑酒妆造",
+      "onboard_time": 1681046729,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 431087,
@@ -6224,14 +6272,6 @@
       "word": "哈妹一惊一乍是薛佳凝设计的",
       "onboard_time": 1680959311,
       "rank": 26,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 426194,
-      "num": 343883,
-      "word": "白鹿桑酒妆造",
-      "onboard_time": 1681046729,
-      "rank": 23,
       "category": "影视"
     },
     {
@@ -6907,6 +6947,14 @@
       "category": "影视,音乐"
     },
     {
+      "raw_hot": 388359,
+      "num": 348502,
+      "word": "极限挑战",
+      "onboard_time": 1681047391,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 388294,
       "num": 388294,
       "word": "黄晓明回归乘风4",
@@ -7075,14 +7123,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 379000,
-      "num": 379000,
-      "word": "吴京张译领奖比心",
-      "onboard_time": 1681048769,
-      "rank": 7,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 378584,
       "num": 378584,
       "word": "双马一矿通报与孙国友协商进展",
@@ -7203,14 +7243,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 369325,
-      "num": 348502,
-      "word": "极限挑战",
-      "onboard_time": 1681047391,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 368482,
       "num": 201395,
       "word": "王鹤棣站姐发了meiko",
@@ -7289,14 +7321,6 @@
       "onboard_time": 1680694711,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 364071,
-      "num": 364071,
-      "word": "懒人吹发头神器",
-      "onboard_time": 1681046968,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 363085,
@@ -7408,6 +7432,14 @@
       "word": "张杰打碟蹦迪",
       "onboard_time": 1680504270,
       "rank": 18,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 355939,
+      "num": 222855,
+      "word": "汪苏泷音乐节",
+      "onboard_time": 1681049130,
+      "rank": 33,
       "category": "音乐"
     },
     {
@@ -8115,6 +8147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 327072,
+      "num": 321626,
+      "word": "马龙vs卡尔伯格",
+      "onboard_time": 1681049312,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 326994,
       "num": 326994,
       "word": "太古里偶遇吉克隽逸",
@@ -8539,20 +8579,20 @@
       "category": "教育,艺人"
     },
     {
-      "raw_hot": 306794,
-      "num": 306794,
-      "word": "Lisa日巡新发色",
-      "onboard_time": 1681049191,
-      "rank": 27,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 306143,
       "num": 306143,
       "word": "天蝎座的冷酷其实都是装的",
       "onboard_time": 1680856108,
       "rank": 38,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 305998,
+      "num": 305998,
+      "word": "55岁小学老师去世后做了大体老师",
+      "onboard_time": 1681049911,
+      "rank": 17,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 305906,
@@ -8937,14 +8977,6 @@
       "onboard_time": 1680861868,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 292047,
-      "num": 330127,
-      "word": "论文很烂但致谢被老师夸了",
-      "onboard_time": 1681048411,
-      "rank": 23,
-      "category": "幽默"
     },
     {
       "raw_hot": 291954,
@@ -10459,6 +10491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 246004,
+      "num": 219100,
+      "word": "易烊千玺M榜年度影响力演员",
+      "onboard_time": 1681048530,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 245593,
       "num": 216215,
       "word": "易烊千玺黑色外套高铁路透",
@@ -11419,14 +11459,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 221648,
-      "num": 321626,
-      "word": "马龙vs卡尔伯格",
-      "onboard_time": 1681049312,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 221632,
       "num": 197347,
       "word": "李雪琴开场秀",
@@ -11587,14 +11619,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 219100,
-      "num": 219100,
-      "word": "易烊千玺M榜年度影响力演员",
-      "onboard_time": 1681048530,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 219003,
       "num": 219003,
       "word": "昆明的绿化带",
@@ -11625,14 +11649,6 @@
       "onboard_time": 1680683551,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 218380,
-      "num": 218380,
-      "word": "汪苏泷音乐节",
-      "onboard_time": 1681049130,
-      "rank": 33,
-      "category": "音乐"
     },
     {
       "raw_hot": 218378,
@@ -11993,6 +12009,14 @@
       "onboard_time": 1680784291,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 211559,
+      "num": 211559,
+      "word": "光明正大薅熊猫毛的乌鸦",
+      "onboard_time": 1681048112,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 211525,
@@ -13715,6 +13739,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 199005,
+      "num": 223824,
+      "word": "重庆姐弟坠亡案改判可能性几乎为零",
+      "onboard_time": 1681050210,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 199002,
       "num": 199002,
       "word": "陈立农声生不息宝岛季彩排vlog",
@@ -14657,6 +14689,14 @@
       "onboard_time": 1680856227,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191088,
+      "num": 191088,
+      "word": "宋妍霏新剧撞柱子好离谱",
+      "onboard_time": 1681049669,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 190967,
@@ -15681,6 +15721,14 @@
       "onboard_time": 1681005206,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 181001,
+      "num": 181001,
+      "word": "马龙晋级冠军赛16强",
+      "onboard_time": 1681050691,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 180980,
@@ -16755,14 +16803,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 165131,
-      "num": 187547,
-      "word": "光明正大薅熊猫毛的乌鸦",
-      "onboard_time": 1681048112,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 165067,
       "num": 231755,
       "word": "千年前的高分作文秘籍有多绝",
@@ -17105,6 +17145,14 @@
       "onboard_time": 1680396447,
       "rank": 32,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 158998,
+      "num": 158998,
+      "word": "IVE正规专试听",
+      "onboard_time": 1681050691,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 158938,
@@ -19201,14 +19249,6 @@
       "onboard_time": 1680685409,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 125365,
-      "num": 125365,
-      "word": "马龙",
-      "onboard_time": 1681049553,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 125333,
