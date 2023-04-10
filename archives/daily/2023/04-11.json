@@ -1,6 +1,6 @@
 {
   "startTime": 1681143739918,
-  "endTime": 1681168631386,
+  "endTime": 1681169625588,
   "band_list": [
     {
       "raw_hot": 936247,
@@ -11,8 +11,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 888846,
-      "num": 888846,
+      "raw_hot": 924045,
+      "num": 924045,
       "word": "被当街踹倒女子好友发声",
       "onboard_time": 1681136310,
       "rank": 1,
@@ -99,6 +99,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 379258,
+      "num": 379258,
+      "word": "为什么有人上班可以很快乐",
+      "onboard_time": 1681130606,
+      "rank": 34,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 378643,
       "num": 378643,
       "word": "蒋依依红毯拍照把裙尾扯掉了",
@@ -123,14 +131,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 311039,
-      "num": 311039,
-      "word": "为什么有人上班可以很快乐",
-      "onboard_time": 1681130606,
-      "rank": 34,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 308535,
       "num": 308535,
       "word": "石楠花好臭",
@@ -147,6 +147,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 249794,
+      "num": 249794,
+      "word": "五一当天三倍工资你愿意加班吗",
+      "onboard_time": 1681125145,
+      "rank": 15,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 246824,
       "num": 243220,
       "word": "ive新歌和你xx的适配度",
@@ -161,14 +169,6 @@
       "onboard_time": 1681133129,
       "rank": 14,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 236013,
-      "num": 236013,
-      "word": "五一当天三倍工资你愿意加班吗",
-      "onboard_time": 1681125145,
-      "rank": 15,
-      "category": "社会议题"
     },
     {
       "raw_hot": 230889,
@@ -203,12 +203,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 204375,
+      "raw_hot": 205658,
       "num": 204375,
       "word": "南京紫峰广场内一女子从中庭坠落身亡",
       "onboard_time": 1681135828,
       "rank": 26,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 193877,
+      "num": 193877,
+      "word": "北京沙尘暴",
+      "onboard_time": 1681130007,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 188799,
@@ -235,12 +243,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 170485,
-      "num": 190297,
-      "word": "北京沙尘暴",
-      "onboard_time": 1681130007,
-      "rank": 28,
-      "category": "社会新闻"
+      "raw_hot": 177849,
+      "num": 177849,
+      "word": "环台岛演习72小时",
+      "onboard_time": 1681168459,
+      "rank": 44,
+      "category": "军事"
     },
     {
       "raw_hot": 163692,
@@ -257,6 +265,14 @@
       "onboard_time": 1681136730,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155323,
+      "num": 155323,
+      "word": "石楠花的花语 yue",
+      "onboard_time": 1681168879,
+      "rank": 15,
+      "category": "情感"
     },
     {
       "raw_hot": 153908,
@@ -299,6 +315,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 147768,
+      "num": 147768,
+      "word": "灌篮高手中国首映礼官宣",
+      "onboard_time": 1681168699,
+      "rank": 16,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 146154,
       "num": 146154,
       "word": "杨幂关雪定妆照",
@@ -307,8 +331,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 138621,
-      "num": 138621,
+      "raw_hot": 142528,
+      "num": 142528,
       "word": "接受了永别却没忍住思念",
       "onboard_time": 1681141825,
       "rank": 44,
@@ -323,8 +347,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 114353,
-      "num": 96616,
+      "raw_hot": 117487,
+      "num": 117487,
       "word": "今年五一实际只放一天",
       "onboard_time": 1681113988,
       "rank": 42,
@@ -352,6 +376,14 @@
       "word": "吴磊的小鸟依人",
       "onboard_time": 1681138710,
       "rank": 43,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 94857,
+      "num": 94857,
+      "word": "陈晓陆行知定妆花絮",
+      "onboard_time": 1681164793,
+      "rank": 49,
       "category": "影视"
     },
     {
@@ -387,15 +419,23 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 64103,
-      "num": 64103,
+      "raw_hot": 74699,
+      "num": 74699,
       "word": "长月烬明神魔大战",
       "onboard_time": 1681136909,
       "rank": 46,
       "category": "影视,游戏"
     },
     {
-      "raw_hot": 62838,
+      "raw_hot": 69567,
+      "num": 69567,
+      "word": "戈贝尔被禁赛一场",
+      "onboard_time": 1681169119,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 67416,
       "num": 189427,
       "word": "瘫痪女童复健3年能骑自行车了",
       "onboard_time": 1681127308,
@@ -427,16 +467,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 45150,
-      "num": 45150,
-      "word": "陈晓陆行知定妆花絮",
-      "onboard_time": 1681164793,
-      "rank": 49,
-      "category": "影视"
-    },
-    {
       "raw_hot": 43870,
-      "num": 32091,
+      "num": 47769,
       "word": "多个商家注册竹筒奶茶店",
       "onboard_time": 1681155073,
       "rank": 49,
@@ -451,12 +483,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 39084,
-      "num": 39084,
-      "word": "环台岛演习72小时",
-      "onboard_time": 1681168459,
-      "rank": 44,
-      "category": "军事"
+      "raw_hot": 33465,
+      "num": 520588,
+      "word": "抢抓战略机遇增强发展信心",
+      "onboard_time": 1681132827,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 33330,
@@ -465,14 +497,6 @@
       "onboard_time": 1681118248,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 30648,
-      "num": 520588,
-      "word": "抢抓战略机遇增强发展信心",
-      "onboard_time": 1681132827,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 27946,
