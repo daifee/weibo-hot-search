@@ -1,6 +1,6 @@
 {
   "startTime": 1681057279449,
-  "endTime": 1681083218955,
+  "endTime": 1681089653531,
   "band_list": [
     {
       "raw_hot": 2164948,
@@ -11,19 +11,51 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1463179,
+      "num": 489362,
+      "word": "林俊杰 听说最近很多人想帮我理财",
+      "onboard_time": 1681083383,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1193563,
+      "num": 1193563,
+      "word": "iPhone15ProMax预计售价2万块",
+      "onboard_time": 1681088489,
+      "rank": 0,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 1113597,
+      "num": 1113597,
+      "word": "苏州新晋网红竹筒奶茶",
+      "onboard_time": 1681085008,
+      "rank": 1,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 944238,
-      "num": 269173,
+      "num": 286618,
       "word": "官方回应男子骂剖腹产妻子她疼她死",
       "onboard_time": 1681047569,
       "rank": 20,
       "category": "社会负面"
     },
     {
-      "raw_hot": 816956,
-      "num": 816956,
+      "raw_hot": 854047,
+      "num": 854047,
       "word": "上海辟谣一大巴载市委及家属旅游团",
       "onboard_time": 1681080917,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 853174,
+      "num": 853174,
+      "word": "瑞丽通知泼水节可连休4天",
+      "onboard_time": 1681086628,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -36,7 +68,7 @@
     },
     {
       "raw_hot": 710549,
-      "num": 383850,
+      "num": 441397,
       "word": "王力宏霍建华林心如聚会",
       "onboard_time": 1681043309,
       "rank": 11,
@@ -49,6 +81,14 @@
       "onboard_time": 1681052429,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 701424,
+      "num": 701424,
+      "word": "林俊德去世前曾一次次拒绝儿子探望",
+      "onboard_time": 1681086086,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 613174,
@@ -75,12 +115,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 570681,
+      "num": 570681,
+      "word": "北京一小区电动车爆炸起火致2死1伤",
+      "onboard_time": 1681083023,
+      "rank": 35,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 540571,
+      "num": 540571,
+      "word": "又周一了",
+      "onboard_time": 1681085068,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
       "raw_hot": 488357,
       "num": 488357,
       "word": "五月天告五人合唱知足",
       "onboard_time": 1681054531,
       "rank": 6,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 480125,
+      "num": 480125,
+      "word": "男子骑车下班被拦路光纤线割喉住院",
+      "onboard_time": 1681085549,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 468418,
@@ -91,12 +155,28 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 420343,
-      "num": 420343,
+      "raw_hot": 458417,
+      "num": 458417,
+      "word": "在美流浪32年老人回国后续",
+      "onboard_time": 1681088248,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 431142,
+      "num": 431142,
       "word": "重庆姐弟坠亡案",
       "onboard_time": 1681082182,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 417668,
+      "num": 417668,
+      "word": "李兰迪被鸟屎砸中",
+      "onboard_time": 1681086330,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 407700,
@@ -113,6 +193,22 @@
       "onboard_time": 1681049911,
       "rank": 8,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 404923,
+      "num": 404923,
+      "word": "湖南邵阳警方通报男子当街踹倒女子",
+      "onboard_time": 1681084345,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 400508,
+      "num": 400508,
+      "word": "林靖恩",
+      "onboard_time": 1681082721,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 399962,
@@ -156,7 +252,7 @@
     },
     {
       "raw_hot": 322912,
-      "num": 259830,
+      "num": 284951,
       "word": "论文很烂但致谢被老师夸了",
       "onboard_time": 1681048411,
       "rank": 22,
@@ -169,6 +265,14 @@
       "onboard_time": 1681056505,
       "rank": 37,
       "category": "军事"
+    },
+    {
+      "raw_hot": 315705,
+      "num": 315705,
+      "word": "田柾国近照",
+      "onboard_time": 1681084648,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 303361,
@@ -195,12 +299,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 291288,
-      "num": 291288,
-      "word": "林靖恩",
-      "onboard_time": 1681082721,
-      "rank": 8,
-      "category": "艺人"
+      "raw_hot": 288397,
+      "num": 288397,
+      "word": "A股进全面注册制时代",
+      "onboard_time": 1681086628,
+      "rank": 19,
+      "category": "财经"
     },
     {
       "raw_hot": 287081,
@@ -209,6 +313,22 @@
       "onboard_time": 1681053447,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 282076,
+      "num": 282076,
+      "word": "森林狼内讧",
+      "onboard_time": 1681082781,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 280505,
+      "num": 280505,
+      "word": "山西晋城为改善空气禁止露天烧烤",
+      "onboard_time": 1681088667,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 255648,
@@ -227,12 +347,36 @@
       "category": "情感"
     },
     {
+      "raw_hot": 225703,
+      "num": 225703,
+      "word": "戈贝尔道歉",
+      "onboard_time": 1681088726,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 221373,
       "num": 221373,
       "word": "周深的舞台里藏着待播电影名",
       "onboard_time": 1681081761,
       "rank": 7,
       "category": "影视,音乐"
+    },
+    {
+      "raw_hot": 220553,
+      "num": 220553,
+      "word": "李凯尔",
+      "onboard_time": 1681088008,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 213247,
+      "num": 213247,
+      "word": "湖人附加赛将对阵森林狼",
+      "onboard_time": 1681083624,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 208618,
@@ -243,12 +387,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 203473,
+      "num": 203473,
+      "word": "金智秀翻牌小朋友新歌挑战",
+      "onboard_time": 1681088068,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 198589,
+      "num": 198589,
+      "word": "2023年已经过了快3分之1",
+      "onboard_time": 1681087529,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 194907,
       "num": 194907,
       "word": "网传市委及家属旅游团一事为不实信息",
       "onboard_time": 1681082240,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190251,
+      "num": 190251,
+      "word": "长月烬明新副本细节",
+      "onboard_time": 1681089085,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 187920,
@@ -259,20 +427,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 187714,
-      "num": 187714,
-      "word": "森林狼内讧",
-      "onboard_time": 1681082781,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
       "raw_hot": 186868,
       "num": 186868,
       "word": "Lisa日巡新发色",
       "onboard_time": 1681049191,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 184293,
+      "num": 184293,
+      "word": "曾黎火烧云裙造型",
+      "onboard_time": 1681083925,
+      "rank": 34,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 181328,
+      "num": 181328,
+      "word": "张晋拍动作戏受伤",
+      "onboard_time": 1681089027,
+      "rank": 35,
+      "category": "艺人,影视"
     },
     {
       "raw_hot": 179493,
@@ -315,6 +491,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 166264,
+      "num": 166264,
+      "word": "秦岚希望女性都能做最勇敢的自己",
+      "onboard_time": 1681085246,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 163111,
       "num": 163111,
       "word": "小时候最喜欢的天然零食",
@@ -347,11 +531,35 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 154980,
+      "num": 154980,
+      "word": "谭松韵许凯你比星光美丽拥抱路透",
+      "onboard_time": 1681086749,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 151957,
+      "num": 151957,
+      "word": "舞台夹缝中的周深",
+      "onboard_time": 1681085246,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 150120,
       "num": 150120,
       "word": "王冰冰说一不小心和海虹撞了衫",
       "onboard_time": 1681042105,
       "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 146536,
+      "num": 146536,
+      "word": "张真源走路视频",
+      "onboard_time": 1681089208,
+      "rank": 44,
       "category": "艺人"
     },
     {
@@ -403,6 +611,22 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 134225,
+      "num": 134225,
+      "word": "戈贝尔拳打安德森",
+      "onboard_time": 1681083683,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 131807,
+      "num": 131807,
+      "word": "何炅张若昀刘昊然现场交流网速",
+      "onboard_time": 1681084046,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 129269,
       "num": 129269,
       "word": "华晨宇新世界连接太空光柱",
@@ -425,14 +649,6 @@
       "onboard_time": 1681050930,
       "rank": 39,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 125077,
-      "num": 125077,
-      "word": "北京一小区电动车爆炸起火致2死1伤",
-      "onboard_time": 1681083023,
-      "rank": 35,
-      "category": "社会负面"
     },
     {
       "raw_hot": 122094,
@@ -500,7 +716,7 @@
     },
     {
       "raw_hot": 99938,
-      "num": 718772,
+      "num": 964822,
       "word": "这些旅游专列已发车",
       "onboard_time": 1681042525,
       "rank": 2,

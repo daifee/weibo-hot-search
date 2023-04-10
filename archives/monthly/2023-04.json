@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681083218955,
+  "endTime": 1681089653531,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -1323,6 +1323,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1463179,
+      "num": 489362,
+      "word": "林俊杰 听说最近很多人想帮我理财",
+      "onboard_time": 1681083383,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1458986,
       "num": 1458986,
       "word": "特斯拉降价",
@@ -1659,6 +1667,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1193563,
+      "num": 1193563,
+      "word": "iPhone15ProMax预计售价2万块",
+      "onboard_time": 1681088489,
+      "rank": 0,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1192024,
       "num": 976342,
       "word": "张继科联合创立的茶饮品牌已成老赖",
@@ -1841,6 +1857,14 @@
       "onboard_time": 1680702754,
       "rank": 5,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1113597,
+      "num": 1113597,
+      "word": "苏州新晋网红竹筒奶茶",
+      "onboard_time": 1681085008,
+      "rank": 1,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 1109691,
@@ -2707,6 +2731,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 854047,
+      "num": 854047,
+      "word": "上海辟谣一大巴载市委及家属旅游团",
+      "onboard_time": 1681080917,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 853174,
+      "num": 853174,
+      "word": "瑞丽通知泼水节可连休4天",
+      "onboard_time": 1681086628,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 850971,
       "num": 850971,
       "word": "蛋仔派对",
@@ -2897,14 +2937,6 @@
       "onboard_time": 1680944604,
       "rank": 21,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 816956,
-      "num": 816956,
-      "word": "上海辟谣一大巴载市委及家属旅游团",
-      "onboard_time": 1681080917,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 816279,
@@ -3529,6 +3561,14 @@
       "onboard_time": 1680948868,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 701424,
+      "num": 701424,
+      "word": "林俊德去世前曾一次次拒绝儿子探望",
+      "onboard_time": 1681086086,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 701370,
@@ -4595,6 +4635,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 570681,
+      "num": 570681,
+      "word": "北京一小区电动车爆炸起火致2死1伤",
+      "onboard_time": 1681083023,
+      "rank": 35,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 568517,
       "num": 568517,
       "word": "特朗普一旦定罪或被判4年",
@@ -4873,6 +4921,14 @@
       "onboard_time": 1680446323,
       "rank": 6,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 540571,
+      "num": 540571,
+      "word": "又周一了",
+      "onboard_time": 1681085068,
+      "rank": 8,
+      "category": "情感"
     },
     {
       "raw_hot": 540547,
@@ -5627,6 +5683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 480125,
+      "num": 480125,
+      "word": "男子骑车下班被拦路光纤线割喉住院",
+      "onboard_time": 1681085549,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 479963,
       "num": 479963,
       "word": "特朗普计划今天飞纽约接受传讯",
@@ -5913,6 +5977,14 @@
       "onboard_time": 1680479308,
       "rank": 9,
       "category": "情感"
+    },
+    {
+      "raw_hot": 458417,
+      "num": 458417,
+      "word": "在美流浪32年老人回国后续",
+      "onboard_time": 1681088248,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 458101,
@@ -6523,6 +6595,14 @@
       "category": "军事,国内要闻"
     },
     {
+      "raw_hot": 417668,
+      "num": 417668,
+      "word": "李兰迪被鸟屎砸中",
+      "onboard_time": 1681086330,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 416697,
       "num": 382805,
       "word": "力灿承认曾性骚扰",
@@ -6707,6 +6787,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 404923,
+      "num": 404923,
+      "word": "湖南邵阳警方通报男子当街踹倒女子",
+      "onboard_time": 1681084345,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 404217,
       "num": 404217,
       "word": "金珉奎晒与田柾国车银优聚会合照",
@@ -6769,6 +6857,14 @@
       "onboard_time": 1680860187,
       "rank": 17,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 400508,
+      "num": 400508,
+      "word": "林靖恩",
+      "onboard_time": 1681082721,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 400298,
@@ -8523,6 +8619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 315705,
+      "num": 315705,
+      "word": "田柾国近照",
+      "onboard_time": 1681084648,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 315573,
       "num": 315573,
       "word": "湖北事业单位",
@@ -9123,14 +9227,6 @@
       "category": "情感,网红"
     },
     {
-      "raw_hot": 291288,
-      "num": 291288,
-      "word": "林靖恩",
-      "onboard_time": 1681082721,
-      "rank": 8,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 290886,
       "num": 290886,
       "word": "马克龙用普通话和粤语说大家好",
@@ -9201,6 +9297,14 @@
       "onboard_time": 1680847709,
       "rank": 25,
       "category": "影视,游戏"
+    },
+    {
+      "raw_hot": 288397,
+      "num": 288397,
+      "word": "A股进全面注册制时代",
+      "onboard_time": 1681086628,
+      "rank": 19,
+      "category": "财经"
     },
     {
       "raw_hot": 288279,
@@ -9403,6 +9507,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 282076,
+      "num": 282076,
+      "word": "森林狼内讧",
+      "onboard_time": 1681082781,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 282068,
       "num": 282068,
       "word": "Elk真想去亚运会",
@@ -9465,6 +9577,14 @@
       "onboard_time": 1680739170,
       "rank": 24,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 280505,
+      "num": 280505,
+      "word": "山西晋城为改善空气禁止露天烧烤",
+      "onboard_time": 1681088667,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 280268,
@@ -11164,7 +11284,7 @@
     },
     {
       "raw_hot": 230782,
-      "num": 951175,
+      "num": 964822,
       "word": "这些旅游专列已发车",
       "onboard_time": 1681042525,
       "rank": 2,
@@ -11459,6 +11579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 225703,
+      "num": 225703,
+      "word": "戈贝尔道歉",
+      "onboard_time": 1681088726,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 225391,
       "num": 225391,
       "word": "汪峰女儿小苹果自弹自唱",
@@ -11665,6 +11793,14 @@
       "onboard_time": 1680361170,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 220553,
+      "num": 220553,
+      "word": "李凯尔",
+      "onboard_time": 1681088008,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 220445,
@@ -12065,6 +12201,14 @@
       "onboard_time": 1680348209,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 213247,
+      "num": 213247,
+      "word": "湖人附加赛将对阵森林狼",
+      "onboard_time": 1681083624,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 213226,
@@ -13067,6 +13211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 203473,
+      "num": 203473,
+      "word": "金智秀翻牌小朋友新歌挑战",
+      "onboard_time": 1681088068,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203446,
       "num": 155271,
       "word": "周柏豪武汉",
@@ -13985,6 +14137,14 @@
       "onboard_time": 1680441936,
       "rank": 36,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 198589,
+      "num": 198589,
+      "word": "2023年已经过了快3分之1",
+      "onboard_time": 1681087529,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 198524,
@@ -15019,6 +15179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190251,
+      "num": 190251,
+      "word": "长月烬明新副本细节",
+      "onboard_time": 1681089085,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 190186,
       "num": 190186,
       "word": "铃芽之旅连续10天票房日冠",
@@ -15305,14 +15473,6 @@
       "onboard_time": 1680946166,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 187714,
-      "num": 187714,
-      "word": "森林狼内讧",
-      "onboard_time": 1681082781,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 187713,
@@ -15675,6 +15835,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 184293,
+      "num": 184293,
+      "word": "曾黎火烧云裙造型",
+      "onboard_time": 1681083925,
+      "rank": 34,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 184291,
       "num": 197842,
       "word": "百想艺术大赏",
@@ -15929,6 +16097,14 @@
       "onboard_time": 1680570390,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181328,
+      "num": 181328,
+      "word": "张晋拍动作戏受伤",
+      "onboard_time": 1681089027,
+      "rank": 35,
+      "category": "艺人,影视"
     },
     {
       "raw_hot": 181273,
@@ -16931,6 +17107,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 166264,
+      "num": 166264,
+      "word": "秦岚希望女性都能做最勇敢的自己",
+      "onboard_time": 1681085246,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 166236,
       "num": 152627,
       "word": "男子饭店内持刀伤人致1死2伤",
@@ -17675,6 +17859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154980,
+      "num": 154980,
+      "word": "谭松韵许凯你比星光美丽拥抱路透",
+      "onboard_time": 1681086749,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 154953,
       "num": 154953,
       "word": "于文文声生不息舞台预告",
@@ -17881,6 +18073,14 @@
       "onboard_time": 1680787891,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 151957,
+      "num": 151957,
+      "word": "舞台夹缝中的周深",
+      "onboard_time": 1681085246,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 151794,
@@ -18249,6 +18449,14 @@
       "onboard_time": 1680521253,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 146536,
+      "num": 146536,
+      "word": "张真源走路视频",
+      "onboard_time": 1681089208,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 146477,
@@ -19011,6 +19219,14 @@
       "category": "艺人,音乐"
     },
     {
+      "raw_hot": 134225,
+      "num": 134225,
+      "word": "戈贝尔拳打安德森",
+      "onboard_time": 1681083683,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134213,
       "num": 134213,
       "word": "哈兰德倒钩",
@@ -19184,6 +19400,14 @@
       "word": "马嘉祺声生不息reaction",
       "onboard_time": 1680931465,
       "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 131807,
+      "num": 131807,
+      "word": "何炅张若昀刘昊然现场交流网速",
+      "onboard_time": 1681084046,
+      "rank": 47,
       "category": "综艺"
     },
     {
@@ -19593,14 +19817,6 @@
       "onboard_time": 1680724511,
       "rank": 34,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 125077,
-      "num": 125077,
-      "word": "北京一小区电动车爆炸起火致2死1伤",
-      "onboard_time": 1681083023,
-      "rank": 35,
-      "category": "社会负面"
     },
     {
       "raw_hot": 125046,
