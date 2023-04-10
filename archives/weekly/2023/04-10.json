@@ -1,6 +1,6 @@
 {
   "startTime": 1681057279449,
-  "endTime": 1681137246208,
+  "endTime": 1681139773335,
   "band_list": [
     {
       "raw_hot": 3188779,
@@ -131,8 +131,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1345312,
-      "num": 1345312,
+      "raw_hot": 1457597,
+      "num": 1457597,
       "word": "跟老爸说买了墓地旁边的房子",
       "onboard_time": 1681132047,
       "rank": 26,
@@ -153,6 +153,14 @@
       "onboard_time": 1681090466,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1198638,
+      "num": 557085,
+      "word": "虞书欣泳衣旧照",
+      "onboard_time": 1681134207,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1190529,
@@ -203,20 +211,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1021624,
-      "num": 557085,
-      "word": "虞书欣泳衣旧照",
-      "onboard_time": 1681134207,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 991924,
       "num": 991924,
       "word": "今年的假期余额只剩6天了",
       "onboard_time": 1681098928,
       "rank": 16,
       "category": "情感"
+    },
+    {
+      "raw_hot": 977353,
+      "num": 977353,
+      "word": "被当街踹倒女子好友发声",
+      "onboard_time": 1681136310,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 944993,
@@ -283,6 +291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 866668,
+      "num": 866668,
+      "word": "迪丽热巴进组",
+      "onboard_time": 1681136130,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 854047,
       "num": 854047,
       "word": "上海辟谣一大巴载市委及家属旅游团",
@@ -329,6 +345,14 @@
       "onboard_time": 1681096529,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 820474,
+      "num": 515985,
+      "word": "白鹿影视资源",
+      "onboard_time": 1681138469,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 810660,
@@ -443,6 +467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 661201,
+      "num": 661201,
+      "word": "高加林终于知道顶替真相",
+      "onboard_time": 1681136490,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 655808,
       "num": 440389,
       "word": "爸爸抽烟甩手时不慎烫伤孩子眼睛",
@@ -457,14 +489,6 @@
       "onboard_time": 1681097008,
       "rank": 30,
       "category": "美食"
-    },
-    {
-      "raw_hot": 650583,
-      "num": 650583,
-      "word": "迪丽热巴进组",
-      "onboard_time": 1681136130,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 640383,
@@ -907,6 +931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 416170,
+      "num": 416170,
+      "word": "热门歌手演唱会人头数",
+      "onboard_time": 1681134809,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 414848,
       "num": 414848,
       "word": "白鹿看别人拍吻戏",
@@ -920,6 +952,14 @@
       "word": "哈尔滨沙尘暴",
       "onboard_time": 1681110689,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 412718,
+      "num": 412718,
+      "word": "江宁路",
+      "onboard_time": 1681136730,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -1009,14 +1049,6 @@
       "onboard_time": 1681099111,
       "rank": 23,
       "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 381689,
-      "num": 381689,
-      "word": "热门歌手演唱会人头数",
-      "onboard_time": 1681134809,
-      "rank": 22,
-      "category": "音乐"
     },
     {
       "raw_hot": 377306,
@@ -1371,6 +1403,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 266809,
+      "num": 266809,
+      "word": "罗云熙打戏",
+      "onboard_time": 1681138948,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 265244,
       "num": 239943,
       "word": "白鹿武戏没做满意哭了",
@@ -1401,6 +1441,14 @@
       "onboard_time": 1681095807,
       "rank": 37,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 258460,
+      "num": 258460,
+      "word": "当香港人在东北买水果时",
+      "onboard_time": 1681138768,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 257983,
@@ -1465,14 +1513,6 @@
       "onboard_time": 1681107809,
       "rank": 38,
       "category": "军事"
-    },
-    {
-      "raw_hot": 245658,
-      "num": 228525,
-      "word": "高加林终于知道顶替真相",
-      "onboard_time": 1681136490,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 242553,
@@ -1633,14 +1673,6 @@
       "onboard_time": 1681108107,
       "rank": 23,
       "category": "社会新闻,军事"
-    },
-    {
-      "raw_hot": 225834,
-      "num": 225834,
-      "word": "被当街踹倒女子好友发声",
-      "onboard_time": 1681136310,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 224976,
@@ -1819,14 +1851,6 @@
       "category": "科技,科技"
     },
     {
-      "raw_hot": 208641,
-      "num": 208641,
-      "word": "江宁路",
-      "onboard_time": 1681136730,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 208618,
       "num": 208618,
       "word": "金晨翻跳金智秀Flower",
@@ -1873,6 +1897,14 @@
       "onboard_time": 1681119508,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204212,
+      "num": 204212,
+      "word": "宋妍霏张昊唯新剧头盔差",
+      "onboard_time": 1681139070,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 203725,
@@ -2147,6 +2179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 193898,
+      "num": 193898,
+      "word": "权志龙许允真中村一叶合照",
+      "onboard_time": 1681139552,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193249,
       "num": 193249,
       "word": "今年五一十大热门旅游城市",
@@ -2387,6 +2427,22 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 177354,
+      "num": 177354,
+      "word": "因家长决策失误而耽误过大事",
+      "onboard_time": 1681138409,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 176634,
+      "num": 176634,
+      "word": "无刺榴莲",
+      "onboard_time": 1681138169,
+      "rank": 38,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 176302,
       "num": 176302,
       "word": "白鲨挺进春决会师AG",
@@ -2579,6 +2635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 151131,
+      "num": 151131,
+      "word": "吴磊的小鸟依人",
+      "onboard_time": 1681138710,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 150120,
       "num": 150120,
       "word": "王冰冰说一不小心和海虹撞了衫",
@@ -2745,6 +2809,14 @@
       "onboard_time": 1681106188,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 135770,
+      "num": 135770,
+      "word": "崔然竣裙装",
+      "onboard_time": 1681138111,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 134225,

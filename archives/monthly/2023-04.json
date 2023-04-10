@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681137246208,
+  "endTime": 1681139773335,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -1451,6 +1451,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1457597,
+      "num": 1457597,
+      "word": "跟老爸说买了墓地旁边的房子",
+      "onboard_time": 1681132047,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1454992,
       "num": 1454992,
       "word": "陈梦",
@@ -1577,14 +1585,6 @@
       "onboard_time": 1680484768,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1345312,
-      "num": 1345312,
-      "word": "跟老爸说买了墓地旁边的房子",
-      "onboard_time": 1681132047,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 1341091,
@@ -1801,6 +1801,14 @@
       "onboard_time": 1680921090,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1198638,
+      "num": 557085,
+      "word": "虞书欣泳衣旧照",
+      "onboard_time": 1681134207,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1192024,
@@ -2235,14 +2243,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1021624,
-      "num": 557085,
-      "word": "虞书欣泳衣旧照",
-      "onboard_time": 1681134207,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1021550,
       "num": 587533,
       "word": "网友曝在赫莲娜做护理致脸部烧伤",
@@ -2393,6 +2393,14 @@
       "onboard_time": 1680703952,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 977353,
+      "num": 977353,
+      "word": "被当街踹倒女子好友发声",
+      "onboard_time": 1681136310,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 976361,
@@ -2867,6 +2875,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 866668,
+      "num": 866668,
+      "word": "迪丽热巴进组",
+      "onboard_time": 1681136130,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 866423,
       "num": 866423,
       "word": "那英马嘉祺情头",
@@ -3201,6 +3217,14 @@
       "onboard_time": 1680851008,
       "rank": 24,
       "category": "其它"
+    },
+    {
+      "raw_hot": 820474,
+      "num": 515985,
+      "word": "白鹿影视资源",
+      "onboard_time": 1681138469,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 819130,
@@ -4219,6 +4243,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 661201,
+      "num": 661201,
+      "word": "高加林终于知道顶替真相",
+      "onboard_time": 1681136490,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 660734,
       "num": 660734,
       "word": "重庆坠亡姐弟生母清明节祭奠孩子",
@@ -4328,14 +4360,6 @@
       "word": "花千骨作者也在追长月烬明",
       "onboard_time": 1680844707,
       "rank": 19,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 650583,
-      "num": 650583,
-      "word": "迪丽热巴进组",
-      "onboard_time": 1681136130,
-      "rank": 40,
       "category": "影视"
     },
     {
@@ -7339,6 +7363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 416170,
+      "num": 416170,
+      "word": "热门歌手演唱会人头数",
+      "onboard_time": 1681134809,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 415954,
       "num": 352430,
       "word": "aespa将在东京巨蛋举办演唱会",
@@ -7432,6 +7464,14 @@
       "word": "哈尔滨沙尘暴",
       "onboard_time": 1681110689,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 412718,
+      "num": 412718,
+      "word": "江宁路",
+      "onboard_time": 1681136730,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -8025,14 +8065,6 @@
       "onboard_time": 1680960448,
       "rank": 36,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 381689,
-      "num": 381689,
-      "word": "热门歌手演唱会人头数",
-      "onboard_time": 1681134809,
-      "rank": 22,
-      "category": "音乐"
     },
     {
       "raw_hot": 380827,
@@ -11027,6 +11059,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 266809,
+      "num": 266809,
+      "word": "罗云熙打戏",
+      "onboard_time": 1681138948,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 265674,
       "num": 265674,
       "word": "青山刚昌 端水",
@@ -11313,6 +11353,14 @@
       "onboard_time": 1680568711,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 258460,
+      "num": 258460,
+      "word": "当香港人在东北买水果时",
+      "onboard_time": 1681138768,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 258320,
@@ -11840,14 +11888,6 @@
       "word": "易烊千玺M榜年度影响力演员",
       "onboard_time": 1681048530,
       "rank": 32,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 245658,
-      "num": 228525,
-      "word": "高加林终于知道顶替真相",
-      "onboard_time": 1681136490,
-      "rank": 30,
       "category": "影视"
     },
     {
@@ -12809,14 +12849,6 @@
       "onboard_time": 1680315267,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 225834,
-      "num": 225834,
-      "word": "被当街踹倒女子好友发声",
-      "onboard_time": 1681136310,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 225762,
@@ -13931,14 +13963,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 208641,
-      "num": 208641,
-      "word": "江宁路",
-      "onboard_time": 1681136730,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 208618,
       "num": 208618,
       "word": "金晨翻跳金智秀Flower",
@@ -14585,6 +14609,14 @@
       "onboard_time": 1681119508,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204212,
+      "num": 204212,
+      "word": "宋妍霏张昊唯新剧头盔差",
+      "onboard_time": 1681139070,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 204205,
@@ -16385,6 +16417,14 @@
       "onboard_time": 1681096648,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 193898,
+      "num": 193898,
+      "word": "权志龙许允真中村一叶合照",
+      "onboard_time": 1681139552,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 193851,
@@ -18259,6 +18299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 177354,
+      "num": 177354,
+      "word": "因家长决策失误而耽误过大事",
+      "onboard_time": 1681138409,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 177331,
       "num": 177331,
       "word": "恩比德52分",
@@ -18305,6 +18353,14 @@
       "onboard_time": 1681026026,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 176634,
+      "num": 176634,
+      "word": "无刺榴莲",
+      "onboard_time": 1681138169,
+      "rank": 38,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 176606,
@@ -20115,6 +20171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 151131,
+      "num": 151131,
+      "word": "吴磊的小鸟依人",
+      "onboard_time": 1681138710,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 150691,
       "num": 150691,
       "word": "喜欢你4女三零票",
@@ -21249,6 +21313,14 @@
       "onboard_time": 1680772411,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 135770,
+      "num": 135770,
+      "word": "崔然竣裙装",
+      "onboard_time": 1681138111,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 135607,
