@@ -1,6 +1,6 @@
 {
   "startTime": 1681057279449,
-  "endTime": 1681129941993,
+  "endTime": 1681130903123,
   "band_list": [
     {
       "raw_hot": 3188779,
@@ -427,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 632133,
+      "num": 632133,
+      "word": "比亚迪发布会",
+      "onboard_time": 1681128684,
+      "rank": 4,
+      "category": "科技"
+    },
+    {
       "raw_hot": 627033,
       "num": 627033,
       "word": "到底是谁发明了调休",
@@ -497,14 +505,6 @@
       "onboard_time": 1681052131,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 572132,
-      "num": 572132,
-      "word": "比亚迪发布会",
-      "onboard_time": 1681128684,
-      "rank": 4,
-      "category": "科技"
     },
     {
       "raw_hot": 570728,
@@ -619,8 +619,16 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 529558,
+      "num": 529558,
+      "word": "长月烬明预告",
+      "onboard_time": 1681127667,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 519629,
-      "num": 349757,
+      "num": 377050,
       "word": "肖战白色开衫造型",
       "onboard_time": 1681127488,
       "rank": 11,
@@ -643,6 +651,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 514535,
+      "num": 514535,
+      "word": "蒋依依红毯拍照把裙尾扯掉了",
+      "onboard_time": 1681129645,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 506714,
       "num": 439369,
       "word": "赵丽颖早期旧照",
@@ -660,19 +676,11 @@
     },
     {
       "raw_hot": 494725,
-      "num": 346713,
+      "num": 371689,
       "word": "叶舒华 喜欢赚钱",
       "onboard_time": 1681125687,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 493134,
-      "num": 493134,
-      "word": "长月烬明预告",
-      "onboard_time": 1681127667,
-      "rank": 5,
-      "category": "影视"
     },
     {
       "raw_hot": 488357,
@@ -771,6 +779,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 425674,
+      "num": 425674,
+      "word": "四川西昌突发森林火灾",
+      "onboard_time": 1681126106,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 414848,
       "num": 414848,
       "word": "白鹿看别人拍吻戏",
@@ -819,8 +835,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 401257,
-      "num": 401257,
+      "raw_hot": 401575,
+      "num": 401575,
       "word": "孙怡模仿TangoZ红毯姿势",
       "onboard_time": 1681126348,
       "rank": 43,
@@ -865,14 +881,6 @@
       "onboard_time": 1681099111,
       "rank": 23,
       "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 387438,
-      "num": 387438,
-      "word": "四川西昌突发森林火灾",
-      "onboard_time": 1681126106,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 377306,
@@ -1251,6 +1259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 250524,
+      "num": 250524,
+      "word": "家属称男孩坠湖景区安全绳不规范",
+      "onboard_time": 1681129825,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 249331,
       "num": 249331,
       "word": "景区回应骆驼被轮番棒打屈膝求饶",
@@ -1323,8 +1339,16 @@
       "category": "情感"
     },
     {
+      "raw_hot": 237433,
+      "num": 237433,
+      "word": "云辇",
+      "onboard_time": 1681130066,
+      "rank": 16,
+      "category": "科技"
+    },
+    {
       "raw_hot": 235888,
-      "num": 195908,
+      "num": 215279,
       "word": "金钟仁去修手机了",
       "onboard_time": 1681127605,
       "rank": 22,
@@ -1379,6 +1403,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 229686,
+      "num": 190048,
+      "word": "放个屁风筝",
+      "onboard_time": 1681129527,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 229612,
       "num": 229612,
       "word": "张译神补刀苏有朋",
@@ -1408,6 +1440,14 @@
       "word": "澹台烬 优雅的疯子",
       "onboard_time": 1681106667,
       "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 222536,
+      "num": 214681,
+      "word": "白鹿武戏没做满意哭了",
+      "onboard_time": 1681130126,
+      "rank": 23,
       "category": "影视"
     },
     {
@@ -1483,6 +1523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 217056,
+      "num": 217056,
+      "word": "北京沙尘暴",
+      "onboard_time": 1681130007,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 216511,
       "num": 216511,
       "word": "王俊凯在镜子上签名",
@@ -1513,6 +1561,14 @@
       "onboard_time": 1681117648,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 214505,
+      "num": 214505,
+      "word": "瘫痪女童复健3年能骑自行车了",
+      "onboard_time": 1681127308,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 213247,
@@ -1628,7 +1684,7 @@
     },
     {
       "raw_hot": 202030,
-      "num": 168073,
+      "num": 190051,
       "word": "林俊杰出道20周年直播",
       "onboard_time": 1681129645,
       "rank": 30,
@@ -1851,14 +1907,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 193281,
-      "num": 193281,
-      "word": "瘫痪女童复健3年能骑自行车了",
-      "onboard_time": 1681127308,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 193249,
       "num": 193249,
       "word": "今年五一十大热门旅游城市",
@@ -1873,6 +1921,14 @@
       "onboard_time": 1681101092,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 192695,
+      "num": 192695,
+      "word": "文俊辉尹净汉双人画报",
+      "onboard_time": 1681130545,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 192173,
@@ -1905,6 +1961,14 @@
       "onboard_time": 1681107987,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 189939,
+      "num": 189939,
+      "word": "毛雪汪下期宋茜做客",
+      "onboard_time": 1681128447,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 189767,
@@ -2043,6 +2107,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 180301,
+      "num": 180301,
+      "word": "冥夜桑酒诀别",
+      "onboard_time": 1681130426,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 179520,
       "num": 179520,
       "word": "卡维",
@@ -2155,14 +2227,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 168062,
-      "num": 168062,
-      "word": "蒋依依红毯拍照把裙尾扯掉了",
-      "onboard_time": 1681129645,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 163111,
       "num": 163111,
       "word": "小时候最喜欢的天然零食",
@@ -2201,14 +2265,6 @@
       "onboard_time": 1681044149,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 159475,
-      "num": 159475,
-      "word": "毛雪汪下期宋茜做客",
-      "onboard_time": 1681128447,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 157907,
@@ -2387,6 +2443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141549,
+      "num": 141549,
+      "word": "影视剧一眼惊艳的女二",
+      "onboard_time": 1681129166,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 141078,
       "num": 273277,
       "word": "懒人吹发头神器",
@@ -2411,28 +2475,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 138781,
-      "num": 138781,
-      "word": "影视剧一眼惊艳的女二",
-      "onboard_time": 1681129166,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 135873,
       "num": 135873,
       "word": "白鹿叶夕雾害怕血鸦",
       "onboard_time": 1681106188,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 135216,
-      "num": 145684,
-      "word": "放个屁风筝",
-      "onboard_time": 1681129527,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 134225,
@@ -2545,14 +2593,6 @@
       "onboard_time": 1681083083,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 116763,
-      "num": 116763,
-      "word": "家属称男孩坠湖景区安全绳不规范",
-      "onboard_time": 1681129825,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 110885,
@@ -2675,20 +2715,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 81633,
+      "num": 949794,
+      "word": "运20机长回忆志愿军烈士回家路",
+      "onboard_time": 1681127846,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 79889,
       "num": 79889,
       "word": "陈梦",
       "onboard_time": 1681046009,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 77878,
-      "num": 949794,
-      "word": "运20机长回忆志愿军烈士回家路",
-      "onboard_time": 1681127846,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 77525,
