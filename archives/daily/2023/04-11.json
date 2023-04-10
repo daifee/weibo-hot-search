@@ -1,6 +1,6 @@
 {
   "startTime": 1681143739918,
-  "endTime": 1681150852597,
+  "endTime": 1681151646113,
   "band_list": [
     {
       "raw_hot": 936247,
@@ -427,20 +427,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 27501,
-      "num": 27501,
-      "word": "长空之王雷宇和父母对话好心酸",
-      "onboard_time": 1681140508,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 25934,
-      "num": 25934,
+      "raw_hot": 29588,
+      "num": 29588,
       "word": "长月烬明神魔大战",
       "onboard_time": 1681136909,
       "rank": 46,
       "category": "影视,游戏"
+    },
+    {
+      "raw_hot": 27946,
+      "num": 27946,
+      "word": "长空之王雷宇和父母对话好心酸",
+      "onboard_time": 1681140508,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 20409,
