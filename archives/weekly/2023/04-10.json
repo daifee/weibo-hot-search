@@ -1,6 +1,6 @@
 {
   "startTime": 1681057279449,
-  "endTime": 1681104799459,
+  "endTime": 1681107731601,
   "band_list": [
     {
       "raw_hot": 3188779,
@@ -227,6 +227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 674399,
+      "num": 674399,
+      "word": "张杰演唱会门票谁抢走了",
+      "onboard_time": 1681105589,
+      "rank": 5,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 674386,
       "num": 674386,
       "word": "军队文职",
@@ -257,6 +265,14 @@
       "onboard_time": 1681097008,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 640672,
+      "num": 640672,
+      "word": "黄晓明问贾乃亮龚俊我可以相信你们吗",
+      "onboard_time": 1681105349,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 635373,
@@ -363,6 +379,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 538527,
+      "num": 538527,
+      "word": "被偷五年的小狗自己回来了",
+      "onboard_time": 1681101755,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 537431,
       "num": 537431,
       "word": "粉丝美国偶遇虞书欣",
@@ -376,14 +400,6 @@
       "word": "凌晨的火车上全是大学生",
       "onboard_time": 1681101454,
       "rank": 16,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 504567,
-      "num": 504567,
-      "word": "被偷五年的小狗自己回来了",
-      "onboard_time": 1681101755,
-      "rank": 17,
       "category": "幽默"
     },
     {
@@ -451,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 422014,
+      "num": 422014,
+      "word": "东部战区组织环台岛战备警巡",
+      "onboard_time": 1681105349,
+      "rank": 12,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 407700,
       "num": 407700,
       "word": "许嵩音乐节",
@@ -505,6 +529,14 @@
       "onboard_time": 1681094966,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 396927,
+      "num": 396927,
+      "word": "我的工资和我的假期一样少",
+      "onboard_time": 1681102413,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 393021,
@@ -587,6 +619,22 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 343202,
+      "num": 343202,
+      "word": "pledis称SEVENTEEN此次回归为历代级",
+      "onboard_time": 1681104750,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 329838,
+      "num": 329838,
+      "word": "于和伟 街溜子",
+      "onboard_time": 1681103968,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 322912,
       "num": 284951,
       "word": "论文很烂但致谢被老师夸了",
@@ -627,6 +675,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 312670,
+      "num": 312670,
+      "word": "女子起诉邻居装可视门铃法院判拆除",
+      "onboard_time": 1681104268,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 303361,
       "num": 303361,
       "word": "桑酒为救冥夜自愿献出仙髓",
@@ -665,14 +721,6 @@
       "onboard_time": 1681094606,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 289683,
-      "num": 289683,
-      "word": "于和伟 街溜子",
-      "onboard_time": 1681103968,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 288397,
@@ -803,20 +851,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 236812,
-      "num": 236812,
-      "word": "我的工资和我的假期一样少",
-      "onboard_time": 1681102413,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 235671,
       "num": 235671,
       "word": "淄博烧烤到底好不好吃",
       "onboard_time": 1681093945,
       "rank": 34,
       "category": "美食"
+    },
+    {
+      "raw_hot": 235383,
+      "num": 235383,
+      "word": "Twins瑞丽封面",
+      "onboard_time": 1681107448,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 235186,
@@ -859,6 +907,14 @@
       "category": "影视,音乐"
     },
     {
+      "raw_hot": 220931,
+      "num": 220931,
+      "word": "澹台烬 优雅的疯子",
+      "onboard_time": 1681106667,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 220801,
       "num": 220801,
       "word": "晋江崩了",
@@ -881,6 +937,30 @@
       "onboard_time": 1681091485,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 220134,
+      "num": 220134,
+      "word": "姐弟恋有何好处",
+      "onboard_time": 1681105949,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 217544,
+      "num": 213040,
+      "word": "梁友安坦白自己不能生孩子",
+      "onboard_time": 1681107207,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 216006,
+      "num": 216006,
+      "word": "花莲上空连传4声不明巨响",
+      "onboard_time": 1681105768,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 215765,
@@ -913,6 +993,22 @@
       "onboard_time": 1681096467,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 210046,
+      "num": 210046,
+      "word": "江苏专转本",
+      "onboard_time": 1681106126,
+      "rank": 31,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 208913,
+      "num": 208913,
+      "word": "如何用国产AI玩成语接龙",
+      "onboard_time": 1681107329,
+      "rank": 32,
+      "category": "科技,科技"
     },
     {
       "raw_hot": 208618,
@@ -985,6 +1081,14 @@
       "onboard_time": 1681093407,
       "rank": 30,
       "category": "科技"
+    },
+    {
+      "raw_hot": 200538,
+      "num": 200538,
+      "word": "anan柯南封面",
+      "onboard_time": 1681105827,
+      "rank": 34,
+      "category": "影视,作品衍生"
     },
     {
       "raw_hot": 199223,
@@ -1129,14 +1233,6 @@
       "onboard_time": 1681100974,
       "rank": 45,
       "category": "作品衍生,艺人"
-    },
-    {
-      "raw_hot": 189402,
-      "num": 189402,
-      "word": "pledis称SEVENTEEN此次回归为历代级",
-      "onboard_time": 1681104750,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 188348,
@@ -1363,6 +1459,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 152029,
+      "num": 152029,
+      "word": "林俊杰新专辑重拾快乐",
+      "onboard_time": 1681106067,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 151957,
       "num": 151957,
       "word": "舞台夹缝中的周深",
@@ -1385,6 +1489,14 @@
       "onboard_time": 1681096350,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 148600,
+      "num": 148600,
+      "word": "新疆草莓音乐节",
+      "onboard_time": 1681107088,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 146536,
@@ -1467,12 +1579,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 138248,
+      "num": 138248,
+      "word": "卡维",
+      "onboard_time": 1681107148,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 135873,
+      "num": 135873,
+      "word": "白鹿叶夕雾害怕血鸦",
+      "onboard_time": 1681106188,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 134225,
       "num": 134225,
       "word": "戈贝尔拳打安德森",
       "onboard_time": 1681083683,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132479,
+      "num": 132479,
+      "word": "这个东西只能小孩子玩",
+      "onboard_time": 1681107567,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 131807,
