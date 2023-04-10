@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681162425449,
+  "endTime": 1681164983858,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -24395,6 +24395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 18731,
+      "num": 18731,
+      "word": "网剧藏药令杀青",
+      "onboard_time": 1681155431,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 17126,
       "num": 24739,
       "word": "城市巡游记",
@@ -24411,14 +24419,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 15666,
-      "num": 15666,
-      "word": "网剧藏药令杀青",
-      "onboard_time": 1681155431,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 15601,
       "num": 15601,
       "word": "德塔文认证徐正溪花琉璃有效播剧",
@@ -24433,6 +24433,14 @@
       "onboard_time": 1680636792,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 13543,
+      "num": 18723,
+      "word": "陈晓陆行知定妆花絮",
+      "onboard_time": 1681164793,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 12137,
