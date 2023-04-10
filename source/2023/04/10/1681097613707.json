@@ -1,0 +1,410 @@
+{
+  "runTime": 1681097613707,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2771612,
+        "num": 2771612,
+        "word": "今年五一连休五天",
+        "onboard_time": 1681091305,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2733036,
+        "num": 2733036,
+        "word": "周杰伦起诉网易不正当竞争",
+        "onboard_time": 1681095266,
+        "rank": 1,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 31056,
+        "num": 1012443,
+        "word": "这些旅游专列已发车",
+        "onboard_time": 1681042525,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 831893,
+        "num": 831893,
+        "word": "极限挑战第九季阵容官宣",
+        "onboard_time": 1681093825,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 829328,
+        "num": 829328,
+        "word": "面试时撒过最大的谎是什么",
+        "onboard_time": 1681090466,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 728519,
+        "num": 728519,
+        "word": "周雨彤签约壹心",
+        "onboard_time": 1681096529,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 686596,
+        "num": 686596,
+        "word": "30元竹筒奶茶是智商税吗",
+        "onboard_time": 1681092686,
+        "rank": 6,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 682644,
+        "num": 682644,
+        "word": "五一调休",
+        "onboard_time": 1681093106,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 621010,
+        "num": 621010,
+        "word": "KnowKnow跳水压倒一片观众",
+        "onboard_time": 1681094846,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 599620,
+        "num": 599620,
+        "word": "军队文职",
+        "onboard_time": 1681092686,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 971833,
+        "num": 595707,
+        "word": "iPhone15ProMax预计售价2万块",
+        "onboard_time": 1681088489,
+        "rank": 10,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 584330,
+        "num": 584330,
+        "word": "骆驼被景区人员轮番棒打惨叫下跪",
+        "onboard_time": 1681095448,
+        "rank": 11,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 526885,
+        "num": 526885,
+        "word": "为什么五一要调休",
+        "onboard_time": 1681096286,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 504460,
+        "num": 504460,
+        "word": "在杭州西湖遭遇划船刺客",
+        "onboard_time": 1681090946,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 416044,
+        "num": 416044,
+        "word": "韩国称美国监听自己不会动摇韩美同盟",
+        "onboard_time": 1681091785,
+        "rank": 14,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 413744,
+        "num": 413744,
+        "word": "Kpop圈首位印度成员ARIA",
+        "onboard_time": 1681091305,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 373359,
+        "num": 373359,
+        "word": "辞职带来的快乐是一时的",
+        "onboard_time": 1681094305,
+        "rank": 16,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 366618,
+        "num": 366618,
+        "word": "冥夜天欢VS冥夜桑酒",
+        "onboard_time": 1681094966,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 344658,
+        "num": 344658,
+        "word": "2万块的iPhone15你会买吗",
+        "onboard_time": 1681091847,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 333937,
+        "num": 333937,
+        "word": "华为连发三款手机新品",
+        "onboard_time": 1681092866,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 582420,
+        "num": 332662,
+        "word": "爸爸抽烟甩手时不慎烫伤孩子眼睛",
+        "onboard_time": 1681096409,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385454,
+        "num": 332521,
+        "word": "宋三川尿检结果异常",
+        "onboard_time": 1681095207,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 312886,
+        "num": 312886,
+        "word": "熊猫也有平替",
+        "onboard_time": 1681095024,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 306656,
+        "num": 306656,
+        "word": "林俊杰 听说最近很多人想帮我理财",
+        "onboard_time": 1681083383,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273545,
+        "num": 273545,
+        "word": "张彬彬代旭新剧官宣杀青",
+        "onboard_time": 1681094666,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 259953,
+        "num": 259953,
+        "word": "苹果去年在爱尔兰利润增至693亿美元",
+        "onboard_time": 1681095807,
+        "rank": 25,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 256525,
+        "num": 256525,
+        "word": "神隐",
+        "onboard_time": 1681094606,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 229612,
+        "num": 229612,
+        "word": "张译神补刀苏有朋",
+        "onboard_time": 1681095687,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 227726,
+        "num": 227726,
+        "word": "车银优演唱会用粉丝手机自拍",
+        "onboard_time": 1681095748,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 222094,
+        "num": 222094,
+        "word": "苏州新晋网红竹筒奶茶",
+        "onboard_time": 1681085008,
+        "rank": 29,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 222975,
+        "num": 220416,
+        "word": "西湖醋鱼换鱼了",
+        "onboard_time": 1681097008,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 210443,
+        "num": 210443,
+        "word": "原来真有大学生不会骑电车",
+        "onboard_time": 1681096949,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 209933,
+        "num": 209933,
+        "word": "易烊千玺对镜头打招呼",
+        "onboard_time": 1681092602,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 207103,
+        "num": 207103,
+        "word": "神隐德塔文待播剧景气指数第一",
+        "onboard_time": 1681096709,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 202612,
+        "num": 202612,
+        "word": "淄博烧烤到底好不好吃",
+        "onboard_time": 1681093945,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 206508,
+        "num": 201188,
+        "word": "神隐全员动物设定",
+        "onboard_time": 1681096467,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 197457,
+        "num": 197457,
+        "word": "许嵩说我的外壳是冷的内心是热烈的",
+        "onboard_time": 1681091186,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 196498,
+        "num": 196498,
+        "word": "李兰迪被鸟屎砸中",
+        "onboard_time": 1681086330,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193905,
+        "num": 193905,
+        "word": "罗云熙白鹿新剧情感特辑",
+        "onboard_time": 1681096648,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189429,
+        "num": 189429,
+        "word": "官方回应男子骂剖腹产妻子她疼她死",
+        "onboard_time": 1681047569,
+        "rank": 39,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 186713,
+        "num": 186713,
+        "word": "李宇春新专辑12首歌",
+        "onboard_time": 1681096887,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 186462,
+        "num": 186462,
+        "word": "黄明昊加盟极限挑战9",
+        "onboard_time": 1681097369,
+        "rank": 41,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 152074,
+        "num": 152074,
+        "word": "周一至周五哪天更适合工作",
+        "onboard_time": 1681097186,
+        "rank": 42,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 150983,
+        "num": 150983,
+        "word": "林俊德去世前曾一次次拒绝儿子探望",
+        "onboard_time": 1681086086,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146429,
+        "num": 146429,
+        "word": "惊天救援王千源人物预告",
+        "onboard_time": 1681096350,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 140230,
+        "num": 140230,
+        "word": "方芷衡郭声扬欢4醉酒戏上大分",
+        "onboard_time": 1681097369,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 134101,
+        "num": 134101,
+        "word": "范丞丞小鬼同框热聊",
+        "onboard_time": 1681091847,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 133972,
+        "num": 133972,
+        "word": "沈月回应青环比划猜有剧本",
+        "onboard_time": 1681091066,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130800,
+        "num": 130800,
+        "word": "王一博长空之王我们这代人预告",
+        "onboard_time": 1681093767,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 130496,
+        "num": 130496,
+        "word": "说唱是男人最好的医美",
+        "onboard_time": 1681097609,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#中法元首会晤的三个关键词#"
+    }
+  }
+}

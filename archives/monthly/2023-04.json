@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681096677724,
+  "endTime": 1681097613707,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -355,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2733036,
+      "num": 2733036,
+      "word": "周杰伦起诉网易不正当竞争",
+      "onboard_time": 1681095266,
+      "rank": 1,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 2687594,
       "num": 1780676,
       "word": "陈志龙",
@@ -633,14 +641,6 @@
       "onboard_time": 1680497315,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 2199703,
-      "num": 2199703,
-      "word": "周杰伦起诉网易不正当竞争",
-      "onboard_time": 1681095266,
-      "rank": 1,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 2188997,
@@ -2915,6 +2915,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 831893,
+      "num": 831893,
+      "word": "极限挑战第九季阵容官宣",
+      "onboard_time": 1681093825,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 828867,
       "num": 396953,
       "word": "律师建议张继科不要逃避",
@@ -3411,6 +3419,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 728519,
+      "num": 728519,
+      "word": "周雨彤签约壹心",
+      "onboard_time": 1681096529,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 728408,
       "num": 728408,
       "word": "吴京张译领奖比心",
@@ -3465,14 +3481,6 @@
       "onboard_time": 1680652223,
       "rank": 13,
       "category": "情感"
-    },
-    {
-      "raw_hot": 719409,
-      "num": 719409,
-      "word": "极限挑战第九季阵容官宣",
-      "onboard_time": 1681093825,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 718006,
@@ -3721,6 +3729,14 @@
       "onboard_time": 1680322471,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 686596,
+      "num": 686596,
+      "word": "30元竹筒奶茶是智商税吗",
+      "onboard_time": 1681092686,
+      "rank": 13,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 686502,
@@ -4283,14 +4299,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 622786,
-      "num": 622786,
-      "word": "30元竹筒奶茶是智商税吗",
-      "onboard_time": 1681092686,
-      "rank": 13,
-      "category": "美食,社会新闻"
-    },
-    {
       "raw_hot": 621994,
       "num": 621994,
       "word": "爱情而已大结局",
@@ -4305,6 +4313,14 @@
       "onboard_time": 1680350668,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 621010,
+      "num": 621010,
+      "word": "KnowKnow跳水压倒一片观众",
+      "onboard_time": 1681094846,
+      "rank": 9,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 619907,
@@ -4571,6 +4587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 584330,
+      "num": 584330,
+      "word": "骆驼被景区人员轮番棒打惨叫下跪",
+      "onboard_time": 1681095448,
+      "rank": 13,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 583391,
       "num": 583391,
       "word": "网传王一博参加香奈儿大秀",
@@ -4600,6 +4624,14 @@
       "word": "俄一战地记者在咖啡馆被炸身亡",
       "onboard_time": 1680483452,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 582420,
+      "num": 332662,
+      "word": "爸爸抽烟甩手时不慎烫伤孩子眼睛",
+      "onboard_time": 1681096409,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -4697,14 +4729,6 @@
       "onboard_time": 1680856827,
       "rank": 12,
       "category": "国内要闻,社会新闻"
-    },
-    {
-      "raw_hot": 571832,
-      "num": 571832,
-      "word": "KnowKnow跳水压倒一片观众",
-      "onboard_time": 1681094846,
-      "rank": 9,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 570887,
@@ -5225,6 +5249,14 @@
       "onboard_time": 1680958410,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 526885,
+      "num": 526885,
+      "word": "为什么五一要调休",
+      "onboard_time": 1681096286,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 526400,
@@ -6084,7 +6116,7 @@
     },
     {
       "raw_hot": 459759,
-      "num": 294875,
+      "num": 332521,
       "word": "宋三川尿检结果异常",
       "onboard_time": 1681095207,
       "rank": 20,
@@ -7235,14 +7267,6 @@
       "category": "影视,音乐"
     },
     {
-      "raw_hot": 388569,
-      "num": 388569,
-      "word": "骆驼被景区人员轮番棒打惨叫下跪",
-      "onboard_time": 1681095448,
-      "rank": 13,
-      "category": "社会新闻,旅游"
-    },
-    {
       "raw_hot": 388359,
       "num": 348502,
       "word": "极限挑战",
@@ -7475,6 +7499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 373359,
+      "num": 373359,
+      "word": "辞职带来的快乐是一时的",
+      "onboard_time": 1681094305,
+      "rank": 42,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 372817,
       "num": 372817,
       "word": "间歇性冷漠",
@@ -7601,6 +7633,14 @@
       "onboard_time": 1680573089,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 366618,
+      "num": 366618,
+      "word": "冥夜天欢VS冥夜桑酒",
+      "onboard_time": 1681094966,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 366462,
@@ -7817,14 +7857,6 @@
       "onboard_time": 1680427228,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 353302,
-      "num": 353302,
-      "word": "辞职带来的快乐是一时的",
-      "onboard_time": 1681094305,
-      "rank": 42,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 353175,
@@ -8201,14 +8233,6 @@
       "onboard_time": 1680998182,
       "rank": 13,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 340650,
-      "num": 340650,
-      "word": "冥夜天欢VS冥夜桑酒",
-      "onboard_time": 1681094966,
-      "rank": 18,
-      "category": "影视"
     },
     {
       "raw_hot": 340498,
@@ -8851,6 +8875,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 312886,
+      "num": 312886,
+      "word": "熊猫也有平替",
+      "onboard_time": 1681095024,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 312874,
       "num": 312874,
       "word": "单休和双休有多大区别",
@@ -9201,14 +9233,6 @@
       "onboard_time": 1680876991,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 298144,
-      "num": 298144,
-      "word": "熊猫也有平替",
-      "onboard_time": 1681095024,
-      "rank": 19,
-      "category": "幽默"
     },
     {
       "raw_hot": 298089,
@@ -9939,6 +9963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 273545,
+      "num": 273545,
+      "word": "张彬彬代旭新剧官宣杀青",
+      "onboard_time": 1681094666,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 273498,
       "num": 217942,
       "word": "孟子义能常驻你好星期六吗",
@@ -10363,6 +10395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 259953,
+      "num": 259953,
+      "word": "苹果去年在爱尔兰利润增至693亿美元",
+      "onboard_time": 1681095807,
+      "rank": 37,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 259850,
       "num": 259850,
       "word": "长月烬明灭了吗订单",
@@ -10609,14 +10649,6 @@
       "onboard_time": 1681091066,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 254454,
-      "num": 254454,
-      "word": "张彬彬代旭新剧官宣杀青",
-      "onboard_time": 1681094666,
-      "rank": 24,
-      "category": "影视"
     },
     {
       "raw_hot": 254230,
@@ -11508,7 +11540,7 @@
     },
     {
       "raw_hot": 230782,
-      "num": 964822,
+      "num": 1012443,
       "word": "这些旅游专列已发车",
       "onboard_time": 1681042525,
       "rank": 2,
@@ -11593,6 +11625,14 @@
       "onboard_time": 1680435868,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 229612,
+      "num": 229612,
+      "word": "张译神补刀苏有朋",
+      "onboard_time": 1681095687,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 229536,
@@ -11851,14 +11891,6 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 224212,
-      "num": 224212,
-      "word": "张译神补刀苏有朋",
-      "onboard_time": 1681095687,
-      "rank": 31,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 224006,
       "num": 224006,
       "word": "你坐火车时最反感什么行为",
@@ -11913,6 +11945,14 @@
       "onboard_time": 1680789873,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 222975,
+      "num": 220416,
+      "word": "西湖醋鱼换鱼了",
+      "onboard_time": 1681097008,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 222730,
@@ -12315,14 +12355,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 216272,
-      "num": 216272,
-      "word": "为什么五一要调休",
-      "onboard_time": 1681096286,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 216169,
       "num": 216169,
       "word": "惠英红马思纯王锵voguefilm大片",
@@ -12609,6 +12641,14 @@
       "onboard_time": 1681096467,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 210443,
+      "num": 210443,
+      "word": "原来真有大学生不会骑电车",
+      "onboard_time": 1681096949,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 210361,
@@ -12977,6 +13017,14 @@
       "onboard_time": 1680859469,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 207103,
+      "num": 207103,
+      "word": "神隐德塔文待播剧景气指数第一",
+      "onboard_time": 1681096709,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 207086,
@@ -13889,14 +13937,6 @@
       "onboard_time": 1680927148,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 201586,
-      "num": 201586,
-      "word": "爸爸抽烟甩手时不慎烫伤孩子眼睛",
-      "onboard_time": 1681096409,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 201570,
@@ -14891,14 +14931,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 194957,
-      "num": 194957,
-      "word": "周雨彤签约壹心",
-      "onboard_time": 1681096529,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 194909,
       "num": 194909,
       "word": "吃过一次不想再吃的食物",
@@ -15024,6 +15056,14 @@
       "word": "神隐杀青大合照",
       "onboard_time": 1680873568,
       "rank": 46,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 193905,
+      "num": 193905,
+      "word": "罗云熙白鹿新剧情感特辑",
+      "onboard_time": 1681096648,
+      "rank": 44,
       "category": "影视"
     },
     {
@@ -15257,14 +15297,6 @@
       "onboard_time": 1680765508,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 192218,
-      "num": 192218,
-      "word": "苹果去年在爱尔兰利润增至693亿美元",
-      "onboard_time": 1681095807,
-      "rank": 37,
-      "category": "科技,财经"
     },
     {
       "raw_hot": 192182,
@@ -15955,6 +15987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 186713,
+      "num": 186713,
+      "word": "李宇春新专辑12首歌",
+      "onboard_time": 1681096887,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 186680,
       "num": 186680,
       "word": "灌篮高手全国大赛即将开赛",
@@ -15969,6 +16009,14 @@
       "onboard_time": 1680582513,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 186462,
+      "num": 186462,
+      "word": "黄明昊加盟极限挑战9",
+      "onboard_time": 1681097369,
+      "rank": 41,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 186454,
@@ -18339,14 +18387,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 153317,
-      "num": 153317,
-      "word": "罗云熙白鹿新剧情感特辑",
-      "onboard_time": 1681096648,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
       "raw_hot": 153253,
       "num": 153253,
       "word": "Rookie3000杀",
@@ -18441,6 +18481,14 @@
       "onboard_time": 1680787891,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 152074,
+      "num": 152074,
+      "word": "周一至周五哪天更适合工作",
+      "onboard_time": 1681097186,
+      "rank": 42,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 151957,
@@ -19227,6 +19275,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 140230,
+      "num": 140230,
+      "word": "方芷衡郭声扬欢4醉酒戏上大分",
+      "onboard_time": 1681097369,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 140160,
       "num": 140160,
       "word": "让你松弛下来的20件小事",
@@ -19865,6 +19921,14 @@
       "onboard_time": 1680326669,
       "rank": 38,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 130496,
+      "num": 130496,
+      "word": "说唱是男人最好的医美",
+      "onboard_time": 1681097609,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 130433,
