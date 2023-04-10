@@ -1,10 +1,10 @@
 {
   "startTime": 1681057279449,
-  "endTime": 1681093878449,
+  "endTime": 1681094498326,
   "band_list": [
     {
-      "raw_hot": 2745654,
-      "num": 2745654,
+      "raw_hot": 2963132,
+      "num": 2963132,
       "word": "今年五一连休五天",
       "onboard_time": 1681091305,
       "rank": 0,
@@ -35,8 +35,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1252905,
-      "num": 1252905,
+      "raw_hot": 1269304,
+      "num": 1269304,
       "word": "面试时撒过最大的谎是什么",
       "onboard_time": 1681090466,
       "rank": 33,
@@ -107,8 +107,16 @@
       "category": "影视"
     },
     {
-      "raw_hot": 637349,
-      "num": 637349,
+      "raw_hot": 674386,
+      "num": 674386,
+      "word": "军队文职",
+      "onboard_time": 1681092686,
+      "rank": 8,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 669151,
+      "num": 669151,
       "word": "在杭州西湖遭遇划船刺客",
       "onboard_time": 1681090946,
       "rank": 47,
@@ -123,12 +131,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 623719,
+      "num": 623719,
+      "word": "五一调休",
+      "onboard_time": 1681093106,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 613174,
       "num": 397987,
       "word": "宣璐发缝",
       "onboard_time": 1681047812,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 579352,
+      "num": 579352,
+      "word": "2万块的iPhone15你会买吗",
+      "onboard_time": 1681091847,
+      "rank": 4,
+      "category": "科技"
     },
     {
       "raw_hot": 578390,
@@ -155,12 +179,20 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 563830,
-      "num": 563830,
-      "word": "2万块的iPhone15你会买吗",
-      "onboard_time": 1681091847,
-      "rank": 4,
-      "category": "科技"
+      "raw_hot": 554915,
+      "num": 554915,
+      "word": "韩国称美国监听自己不会动摇韩美同盟",
+      "onboard_time": 1681091785,
+      "rank": 12,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 544237,
+      "num": 544237,
+      "word": "Kpop圈首位印度成员ARIA",
+      "onboard_time": 1681091305,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 540571,
@@ -171,20 +203,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 534236,
-      "num": 534236,
-      "word": "Kpop圈首位印度成员ARIA",
-      "onboard_time": 1681091305,
-      "rank": 5,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 520514,
-      "num": 406733,
-      "word": "韩国称美国监听自己不会动摇韩美同盟",
-      "onboard_time": 1681091785,
-      "rank": 12,
-      "category": "国外要闻"
+      "raw_hot": 503496,
+      "num": 503496,
+      "word": "30元竹筒奶茶是智商税吗",
+      "onboard_time": 1681092686,
+      "rank": 13,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 495322,
@@ -227,14 +251,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 451704,
-      "num": 451704,
-      "word": "军队文职",
-      "onboard_time": 1681092686,
-      "rank": 8,
-      "category": "教育"
-    },
-    {
       "raw_hot": 431142,
       "num": 431142,
       "word": "重庆姐弟坠亡案",
@@ -249,14 +265,6 @@
       "onboard_time": 1681051652,
       "rank": 7,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 406530,
-      "num": 406530,
-      "word": "30元竹筒奶茶是智商税吗",
-      "onboard_time": 1681092686,
-      "rank": 13,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 405222,
@@ -297,6 +305,14 @@
       "onboard_time": 1681052190,
       "rank": 9,
       "category": "情感"
+    },
+    {
+      "raw_hot": 373754,
+      "num": 373754,
+      "word": "华为连发三款手机新品",
+      "onboard_time": 1681092866,
+      "rank": 19,
+      "category": "科技"
     },
     {
       "raw_hot": 358836,
@@ -371,14 +387,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 302341,
-      "num": 302341,
-      "word": "华为连发三款手机新品",
-      "onboard_time": 1681092866,
-      "rank": 19,
-      "category": "科技"
-    },
-    {
       "raw_hot": 302311,
       "num": 302311,
       "word": "四川气温热到全国第一",
@@ -419,20 +427,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 285360,
-      "num": 285360,
-      "word": "五一调休",
-      "onboard_time": 1681093106,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 282076,
       "num": 282076,
       "word": "森林狼内讧",
       "onboard_time": 1681082781,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 269348,
+      "num": 269348,
+      "word": "极限挑战第九季阵容官宣",
+      "onboard_time": 1681093825,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 255648,
@@ -443,8 +451,8 @@
       "category": "财经,社会议题"
     },
     {
-      "raw_hot": 247034,
-      "num": 247034,
+      "raw_hot": 254661,
+      "num": 254661,
       "word": "沈月回应青环比划猜有剧本",
       "onboard_time": 1681091066,
       "rank": 24,
@@ -481,6 +489,14 @@
       "onboard_time": 1681081761,
       "rank": 7,
       "category": "影视,音乐"
+    },
+    {
+      "raw_hot": 220801,
+      "num": 220801,
+      "word": "晋江崩了",
+      "onboard_time": 1681093048,
+      "rank": 35,
+      "category": "科技"
     },
     {
       "raw_hot": 220553,
@@ -555,6 +571,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 197409,
+      "num": 197409,
+      "word": "神隐杀青特辑",
+      "onboard_time": 1681093346,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 197119,
       "num": 197119,
       "word": "秦岚希望女性都能做最勇敢的自己",
@@ -595,11 +619,19 @@
       "category": "艺人,影视"
     },
     {
-      "raw_hot": 191153,
-      "num": 191153,
-      "word": "神隐杀青特辑",
-      "onboard_time": 1681093346,
+      "raw_hot": 190078,
+      "num": 190078,
+      "word": "淄博烧烤到底好不好吃",
+      "onboard_time": 1681093945,
       "rank": 34,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 188012,
+      "num": 188012,
+      "word": "电影暴风潮汕话版终极预告",
+      "onboard_time": 1681093945,
+      "rank": 36,
       "category": "影视"
     },
     {
@@ -609,22 +641,6 @@
       "onboard_time": 1681064473,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 187481,
-      "num": 187481,
-      "word": "晋江崩了",
-      "onboard_time": 1681093048,
-      "rank": 35,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 186942,
-      "num": 186942,
-      "word": "极限挑战第九季阵容官宣",
-      "onboard_time": 1681093825,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 186868,
@@ -651,20 +667,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 175682,
+      "num": 175682,
+      "word": "范丞丞小鬼同框热聊",
+      "onboard_time": 1681091847,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 175005,
       "num": 175005,
       "word": "刘宇宁也不知道安乐传什么时候播出",
       "onboard_time": 1681053689,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 173362,
-      "num": 173362,
-      "word": "范丞丞小鬼同框热聊",
-      "onboard_time": 1681091847,
-      "rank": 40,
-      "category": "音乐"
     },
     {
       "raw_hot": 171707,
@@ -723,12 +739,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 155406,
+      "num": 155406,
+      "word": "电影我经过风暴定档",
+      "onboard_time": 1681094245,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 154980,
       "num": 154980,
       "word": "谭松韵许凯你比星光美丽拥抱路透",
       "onboard_time": 1681086749,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 152461,
+      "num": 152461,
+      "word": "辞职带来的快乐是一时的",
+      "onboard_time": 1681094305,
+      "rank": 42,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 151957,

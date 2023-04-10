@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681093878449,
+  "endTime": 1681094498326,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -291,6 +291,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 2963132,
+      "num": 2963132,
+      "word": "今年五一连休五天",
+      "onboard_time": 1681091305,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2909686,
       "num": 2909686,
       "word": "做四休三",
@@ -345,14 +353,6 @@
       "onboard_time": 1680519334,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2745654,
-      "num": 2745654,
-      "word": "今年五一连休五天",
-      "onboard_time": 1681091305,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2687594,
@@ -1627,8 +1627,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1252905,
-      "num": 1252905,
+      "raw_hot": 1269304,
+      "num": 1269304,
       "word": "面试时撒过最大的谎是什么",
       "onboard_time": 1681090466,
       "rank": 33,
@@ -3795,6 +3795,14 @@
       "category": "国内要闻,社会新闻"
     },
     {
+      "raw_hot": 674386,
+      "num": 674386,
+      "word": "军队文职",
+      "onboard_time": 1681092686,
+      "rank": 8,
+      "category": "教育"
+    },
+    {
       "raw_hot": 672319,
       "num": 449413,
       "word": "求张继科事件视频当心触法",
@@ -3817,6 +3825,14 @@
       "onboard_time": 1680878671,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 669151,
+      "num": 669151,
+      "word": "在杭州西湖遭遇划船刺客",
+      "onboard_time": 1681090946,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 668117,
@@ -4083,14 +4099,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 637349,
-      "num": 637349,
-      "word": "在杭州西湖遭遇划船刺客",
-      "onboard_time": 1681090946,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 636812,
       "num": 636812,
       "word": "原来外卖的包装费还可以退",
@@ -4216,6 +4224,14 @@
       "word": "绿币厕所",
       "onboard_time": 1681038926,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 623719,
+      "num": 623719,
+      "word": "五一调休",
+      "onboard_time": 1681093106,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -4571,6 +4587,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 579352,
+      "num": 579352,
+      "word": "2万块的iPhone15你会买吗",
+      "onboard_time": 1681091847,
+      "rank": 4,
+      "category": "科技"
+    },
+    {
       "raw_hot": 579317,
       "num": 545615,
       "word": "原来胃是这样被弄坏的",
@@ -4715,14 +4739,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 563830,
-      "num": 563830,
-      "word": "2万块的iPhone15你会买吗",
-      "onboard_time": 1681091847,
-      "rank": 4,
-      "category": "科技"
-    },
-    {
       "raw_hot": 563673,
       "num": 563673,
       "word": "许嵩音乐节",
@@ -4793,6 +4809,14 @@
       "onboard_time": 1680691891,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 554915,
+      "num": 554915,
+      "word": "韩国称美国监听自己不会动摇韩美同盟",
+      "onboard_time": 1681091785,
+      "rank": 12,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 554829,
@@ -4912,6 +4936,14 @@
       "word": "赖冠霖撞脸于正",
       "onboard_time": 1680753027,
       "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 544237,
+      "num": 544237,
+      "word": "Kpop圈首位印度成员ARIA",
+      "onboard_time": 1681091305,
+      "rank": 5,
       "category": "艺人"
     },
     {
@@ -5091,14 +5123,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 534236,
-      "num": 534236,
-      "word": "Kpop圈首位印度成员ARIA",
-      "onboard_time": 1681091305,
-      "rank": 5,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 532727,
       "num": 532727,
       "word": "朱珠Amber搭肩同框",
@@ -5257,14 +5281,6 @@
       "onboard_time": 1680440433,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 520514,
-      "num": 406733,
-      "word": "韩国称美国监听自己不会动摇韩美同盟",
-      "onboard_time": 1681091785,
-      "rank": 12,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 520136,
@@ -5441,6 +5457,14 @@
       "onboard_time": 1680478223,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 503496,
+      "num": 503496,
+      "word": "30元竹筒奶茶是智商税吗",
+      "onboard_time": 1681092686,
+      "rank": 13,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 503429,
@@ -6179,14 +6203,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 451704,
-      "num": 451704,
-      "word": "军队文职",
-      "onboard_time": 1681092686,
-      "rank": 8,
-      "category": "教育"
-    },
-    {
       "raw_hot": 451567,
       "num": 451567,
       "word": "学会拒绝不属于自己的评价",
@@ -6843,14 +6859,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 406530,
-      "num": 406530,
-      "word": "30元竹筒奶茶是智商税吗",
-      "onboard_time": 1681092686,
-      "rank": 13,
-      "category": "美食,社会新闻"
-    },
-    {
       "raw_hot": 405965,
       "num": 405965,
       "word": "迷笛",
@@ -7409,6 +7417,14 @@
       "onboard_time": 1680928467,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 373754,
+      "num": 373754,
+      "word": "华为连发三款手机新品",
+      "onboard_time": 1681092866,
+      "rank": 19,
+      "category": "科技"
     },
     {
       "raw_hot": 373383,
@@ -9011,14 +9027,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 302341,
-      "num": 302341,
-      "word": "华为连发三款手机新品",
-      "onboard_time": 1681092866,
-      "rank": 19,
-      "category": "科技"
-    },
-    {
       "raw_hot": 302311,
       "num": 302311,
       "word": "四川气温热到全国第一",
@@ -9513,14 +9521,6 @@
       "onboard_time": 1680782487,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 285360,
-      "num": 285360,
-      "word": "五一调休",
-      "onboard_time": 1681093106,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 285224,
@@ -10059,6 +10059,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 269348,
+      "num": 269348,
+      "word": "极限挑战第九季阵容官宣",
+      "onboard_time": 1681093825,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 269238,
       "num": 269238,
       "word": "杨超越淡黄色公主裙",
@@ -10531,6 +10539,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 254661,
+      "num": 254661,
+      "word": "沈月回应青环比划猜有剧本",
+      "onboard_time": 1681091066,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 254230,
       "num": 254230,
       "word": "RW驯龙高手不然",
@@ -10793,14 +10809,6 @@
       "onboard_time": 1680421349,
       "rank": 17,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 247034,
-      "num": 247034,
-      "word": "沈月回应青环比划猜有剧本",
-      "onboard_time": 1681091066,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 246444,
@@ -11905,6 +11913,14 @@
       "onboard_time": 1680768387,
       "rank": 29,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 220801,
+      "num": 220801,
+      "word": "晋江崩了",
+      "onboard_time": 1681093048,
+      "rank": 35,
+      "category": "科技"
     },
     {
       "raw_hot": 220746,
@@ -14427,6 +14443,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 197409,
+      "num": 197409,
+      "word": "神隐杀青特辑",
+      "onboard_time": 1681093346,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 197309,
       "num": 197309,
       "word": "T1晋级MSI",
@@ -15219,14 +15243,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 191153,
-      "num": 191153,
-      "word": "神隐杀青特辑",
-      "onboard_time": 1681093346,
-      "rank": 34,
-      "category": "影视"
-    },
-    {
       "raw_hot": 191146,
       "num": 191146,
       "word": "BoysPlanet第三次顺位发表",
@@ -15401,6 +15417,14 @@
       "onboard_time": 1680437307,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 190078,
+      "num": 190078,
+      "word": "淄博烧烤到底好不好吃",
+      "onboard_time": 1681093945,
+      "rank": 34,
+      "category": "美食"
     },
     {
       "raw_hot": 190023,
@@ -15635,6 +15659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 188012,
+      "num": 188012,
+      "word": "电影暴风潮汕话版终极预告",
+      "onboard_time": 1681093945,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 187976,
       "num": 187976,
       "word": "宋威龙托腮照",
@@ -15673,14 +15705,6 @@
       "onboard_time": 1680582754,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 187481,
-      "num": 187481,
-      "word": "晋江崩了",
-      "onboard_time": 1681093048,
-      "rank": 35,
-      "category": "科技"
     },
     {
       "raw_hot": 187470,
@@ -15761,14 +15785,6 @@
       "onboard_time": 1681022548,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 186942,
-      "num": 186942,
-      "word": "极限挑战第九季阵容官宣",
-      "onboard_time": 1681093825,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 186906,
@@ -16659,6 +16675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 175682,
+      "num": 175682,
+      "word": "范丞丞小鬼同框热聊",
+      "onboard_time": 1681091847,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 175492,
       "num": 175492,
       "word": "王冰冰古装随拍",
@@ -16809,14 +16833,6 @@
       "onboard_time": 1680572068,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 173362,
-      "num": 173362,
-      "word": "范丞丞小鬼同框热聊",
-      "onboard_time": 1681091847,
-      "rank": 40,
-      "category": "音乐"
     },
     {
       "raw_hot": 173232,
@@ -18003,6 +18019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 155406,
+      "num": 155406,
+      "word": "电影我经过风暴定档",
+      "onboard_time": 1681094245,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 155404,
       "num": 127311,
       "word": "毛不易苏州演唱会",
@@ -18233,6 +18257,14 @@
       "onboard_time": 1680836909,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 152461,
+      "num": 152461,
+      "word": "辞职带来的快乐是一时的",
+      "onboard_time": 1681094305,
+      "rank": 42,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 152280,
