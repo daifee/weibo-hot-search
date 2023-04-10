@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681164983858,
+  "endTime": 1681166019271,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -24323,6 +24323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 26932,
+      "num": 26932,
+      "word": "陈晓陆行知定妆花絮",
+      "onboard_time": 1681164793,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 26730,
       "num": 27909,
       "word": "好友好有爱",
@@ -24337,6 +24345,14 @@
       "onboard_time": 1680876452,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24325,
+      "num": 25709,
+      "word": "网剧藏药令杀青",
+      "onboard_time": 1681155431,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 24143,
@@ -24395,14 +24411,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 18731,
-      "num": 18731,
-      "word": "网剧藏药令杀青",
-      "onboard_time": 1681155431,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 17126,
       "num": 24739,
       "word": "城市巡游记",
@@ -24433,14 +24441,6 @@
       "onboard_time": 1680636792,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 13543,
-      "num": 18723,
-      "word": "陈晓陆行知定妆花絮",
-      "onboard_time": 1681164793,
-      "rank": 49,
-      "category": "影视"
     },
     {
       "raw_hot": 12137,
