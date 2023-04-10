@@ -1,6 +1,6 @@
 {
   "startTime": 1681057279449,
-  "endTime": 1681112005241,
+  "endTime": 1681114902757,
   "band_list": [
     {
       "raw_hot": 3188779,
@@ -59,6 +59,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1713200,
+      "num": 964459,
+      "word": "李敏镐也没逃过韩国酵母",
+      "onboard_time": 1681111827,
+      "rank": 38,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 1463179,
       "num": 489362,
       "word": "林俊杰 听说最近很多人想帮我理财",
@@ -105,6 +113,14 @@
       "onboard_time": 1681047569,
       "rank": 20,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 941993,
+      "num": 941993,
+      "word": "竹筒奶茶 发霉",
+      "onboard_time": 1681113447,
+      "rank": 4,
+      "category": "美食"
     },
     {
       "raw_hot": 915946,
@@ -155,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 848628,
+      "num": 276808,
+      "word": "发明调休的 建议您两天都不要进餐",
+      "onboard_time": 1681113988,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 831893,
       "num": 831893,
       "word": "极限挑战第九季阵容官宣",
@@ -185,6 +209,14 @@
       "onboard_time": 1681049553,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 766596,
+      "num": 766596,
+      "word": "长月烬明被删掉18集",
+      "onboard_time": 1681113568,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 766265,
@@ -331,6 +363,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 584940,
+      "num": 584940,
+      "word": "巩俐 于佩尔",
+      "onboard_time": 1681112729,
+      "rank": 7,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 579352,
       "num": 579352,
       "word": "2万块的iPhone15你会买吗",
@@ -403,6 +443,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 540011,
+      "num": 540011,
+      "word": "男孩玩滑索坠湖父亲营救不幸遇难",
+      "onboard_time": 1681111228,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 538527,
       "num": 538527,
       "word": "被偷五年的小狗自己回来了",
@@ -441,6 +489,14 @@
       "onboard_time": 1681108706,
       "rank": 20,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 506714,
+      "num": 439369,
+      "word": "赵丽颖早期旧照",
+      "onboard_time": 1681110393,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 495322,
@@ -537,6 +593,14 @@
       "onboard_time": 1681109248,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 412831,
+      "num": 412831,
+      "word": "哈尔滨沙尘暴",
+      "onboard_time": 1681110689,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 407700,
@@ -643,14 +707,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 373342,
-      "num": 373342,
-      "word": "赵丽颖早期旧照",
-      "onboard_time": 1681110393,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 367686,
       "num": 367686,
       "word": "女子起诉邻居装可视门铃法院判拆除",
@@ -715,6 +771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 330373,
+      "num": 330373,
+      "word": "冥夜桑酒醉酒圆房",
+      "onboard_time": 1681110447,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 329838,
       "num": 329838,
       "word": "于和伟 街溜子",
@@ -731,11 +795,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 323450,
-      "num": 228254,
-      "word": "冥夜桑酒醉酒圆房",
-      "onboard_time": 1681110447,
-      "rank": 30,
+      "raw_hot": 323580,
+      "num": 323580,
+      "word": "满江红第三次延长上映",
+      "onboard_time": 1681113929,
+      "rank": 15,
       "category": "影视"
     },
     {
@@ -811,12 +875,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 291487,
+      "num": 207659,
+      "word": "淄博政府反应也好快",
+      "onboard_time": 1681114408,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 290052,
       "num": 290052,
       "word": "神隐",
       "onboard_time": 1681094606,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 290013,
+      "num": 290013,
+      "word": "上海海事大学称举报均不属实",
+      "onboard_time": 1681113210,
+      "rank": 18,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 288397,
@@ -1107,6 +1187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 214825,
+      "num": 214825,
+      "word": "张元英发布会生图",
+      "onboard_time": 1681113867,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 213247,
       "num": 213247,
       "word": "湖人附加赛将对阵森林狼",
@@ -1155,6 +1243,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 208047,
+      "num": 208047,
+      "word": "今年五一实际只放一天",
+      "onboard_time": 1681113988,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 208038,
       "num": 208038,
       "word": "央华版如梦之梦十周年",
@@ -1169,6 +1265,14 @@
       "onboard_time": 1681096709,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 206562,
+      "num": 206562,
+      "word": "王俊凯直播",
+      "onboard_time": 1681114408,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 206080,
@@ -1355,6 +1459,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 194595,
+      "num": 194595,
+      "word": "想去淄博吃烧烤",
+      "onboard_time": 1681113267,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 193905,
       "num": 193905,
       "word": "罗云熙白鹿新剧情感特辑",
@@ -1387,14 +1499,6 @@
       "category": "艺人,影视"
     },
     {
-      "raw_hot": 191478,
-      "num": 191478,
-      "word": "男孩玩滑索坠湖父亲营救不幸遇难",
-      "onboard_time": 1681111228,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 191034,
       "num": 198944,
       "word": "BoysPlanet选手的年龄",
@@ -1417,6 +1521,14 @@
       "onboard_time": 1681100974,
       "rank": 45,
       "category": "作品衍生,艺人"
+    },
+    {
+      "raw_hot": 189302,
+      "num": 189302,
+      "word": "半熟恋人2全员红秀大片",
+      "onboard_time": 1681112549,
+      "rank": 34,
+      "category": "综艺,时尚"
     },
     {
       "raw_hot": 188348,
@@ -1515,14 +1627,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 181753,
-      "num": 181753,
-      "word": "李敏镐也没逃过韩国酵母",
-      "onboard_time": 1681111827,
-      "rank": 38,
-      "category": "艺人,幽默"
-    },
-    {
       "raw_hot": 180425,
       "num": 180425,
       "word": "周一至周五哪天更适合工作",
@@ -1616,6 +1720,14 @@
       "word": "小S去看张惠妹演唱会了",
       "onboard_time": 1681082119,
       "rank": 46,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 170269,
+      "num": 170269,
+      "word": "IVE主打曲iam",
+      "onboard_time": 1681114110,
+      "rank": 38,
       "category": "音乐"
     },
     {
@@ -1787,6 +1899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141796,
+      "num": 141796,
+      "word": "去年是诀症今年是神烬病",
+      "onboard_time": 1681114467,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 141078,
       "num": 273277,
       "word": "懒人吹发头神器",
@@ -1851,6 +1971,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 128710,
+      "num": 128710,
+      "word": "黄景瑜问贾乃亮真的吗亮哥",
+      "onboard_time": 1681112609,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 128347,
       "num": 128347,
       "word": "高诗岩13投1中",
@@ -1897,6 +2025,14 @@
       "onboard_time": 1681111949,
       "rank": 47,
       "category": "科技"
+    },
+    {
+      "raw_hot": 117913,
+      "num": 117913,
+      "word": "无锡着火",
+      "onboard_time": 1681114288,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 116903,
