@@ -1,6 +1,6 @@
 {
   "startTime": 1681057279449,
-  "endTime": 1681166019271,
+  "endTime": 1681168631386,
   "band_list": [
     {
       "raw_hot": 3188779,
@@ -2899,6 +2899,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 138621,
+      "num": 138621,
+      "word": "接受了永别却没忍住思念",
+      "onboard_time": 1681141825,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 135873,
       "num": 135873,
       "word": "白鹿叶夕雾害怕血鸦",
@@ -3211,14 +3219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 64027,
-      "num": 64027,
-      "word": "接受了永别却没忍住思念",
-      "onboard_time": 1681141825,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 58277,
       "num": 58277,
       "word": "极限挑战",
@@ -3243,20 +3243,36 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 43997,
-      "num": 43997,
+      "raw_hot": 48751,
+      "num": 48751,
       "word": "折一条裤子可以有多快",
       "onboard_time": 1681142305,
       "rank": 45,
       "category": "幽默"
     },
     {
+      "raw_hot": 45150,
+      "num": 45150,
+      "word": "陈晓陆行知定妆花絮",
+      "onboard_time": 1681164793,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 43870,
-      "num": 26697,
+      "num": 32091,
       "word": "多个商家注册竹筒奶茶店",
       "onboard_time": 1681155073,
       "rank": 49,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 39084,
+      "num": 39084,
+      "word": "环台岛演习72小时",
+      "onboard_time": 1681168459,
+      "rank": 44,
+      "category": "军事"
     },
     {
       "raw_hot": 33990,
@@ -3280,14 +3296,6 @@
       "word": "易烊千玺M榜年度影响力演员",
       "onboard_time": 1681048530,
       "rank": 46,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 26932,
-      "num": 26932,
-      "word": "陈晓陆行知定妆花絮",
-      "onboard_time": 1681164793,
-      "rank": 49,
       "category": "影视"
     },
     {

@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681166019271,
+  "endTime": 1681168631386,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -21179,6 +21179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 138621,
+      "num": 138621,
+      "word": "接受了永别却没忍住思念",
+      "onboard_time": 1681141825,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 138595,
       "num": 138595,
       "word": "陈哲远青春环游记4海报",
@@ -23947,14 +23955,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 64027,
-      "num": 64027,
-      "word": "接受了永别却没忍住思念",
-      "onboard_time": 1681141825,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 63920,
       "num": 63920,
       "word": "4月开机的电视剧",
@@ -24147,6 +24147,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 48751,
+      "num": 48751,
+      "word": "折一条裤子可以有多快",
+      "onboard_time": 1681142305,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 48644,
       "num": 48644,
       "word": "小区不认识的狗送我上学",
@@ -24179,16 +24187,16 @@
       "category": "艺人,游戏"
     },
     {
-      "raw_hot": 43997,
-      "num": 43997,
-      "word": "折一条裤子可以有多快",
-      "onboard_time": 1681142305,
-      "rank": 45,
-      "category": "幽默"
+      "raw_hot": 45150,
+      "num": 45150,
+      "word": "陈晓陆行知定妆花絮",
+      "onboard_time": 1681164793,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 43870,
-      "num": 26697,
+      "num": 32091,
       "word": "多个商家注册竹筒奶茶店",
       "onboard_time": 1681155073,
       "rank": 49,
@@ -24209,6 +24217,14 @@
       "onboard_time": 1680564563,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 39084,
+      "num": 39084,
+      "word": "环台岛演习72小时",
+      "onboard_time": 1681168459,
+      "rank": 44,
+      "category": "军事"
     },
     {
       "raw_hot": 37796,
@@ -24321,14 +24337,6 @@
       "onboard_time": 1680261326,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 26932,
-      "num": 26932,
-      "word": "陈晓陆行知定妆花絮",
-      "onboard_time": 1681164793,
-      "rank": 49,
-      "category": "影视"
     },
     {
       "raw_hot": 26730,
