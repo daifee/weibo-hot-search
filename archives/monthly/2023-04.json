@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681094498326,
+  "endTime": 1681096677724,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -291,8 +291,8 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 2963132,
-      "num": 2963132,
+      "raw_hot": 2970044,
+      "num": 2970044,
       "word": "今年五一连休五天",
       "onboard_time": 1681091305,
       "rank": 0,
@@ -633,6 +633,14 @@
       "onboard_time": 1680497315,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2199703,
+      "num": 2199703,
+      "word": "周杰伦起诉网易不正当竞争",
+      "onboard_time": 1681095266,
+      "rank": 1,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 2188997,
@@ -3203,6 +3211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 766265,
+      "num": 766265,
+      "word": "五一调休",
+      "onboard_time": 1681093106,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 759378,
       "num": 759378,
       "word": "香椿炒鸡蛋",
@@ -3449,6 +3465,14 @@
       "onboard_time": 1680652223,
       "rank": 13,
       "category": "情感"
+    },
+    {
+      "raw_hot": 719409,
+      "num": 719409,
+      "word": "极限挑战第九季阵容官宣",
+      "onboard_time": 1681093825,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 718006,
@@ -4227,14 +4251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 623719,
-      "num": 623719,
-      "word": "五一调休",
-      "onboard_time": 1681093106,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 623715,
       "num": 623715,
       "word": "为什么从来不和爸妈分享日常",
@@ -4265,6 +4281,14 @@
       "onboard_time": 1680396386,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 622786,
+      "num": 622786,
+      "word": "30元竹筒奶茶是智商税吗",
+      "onboard_time": 1681092686,
+      "rank": 13,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 621994,
@@ -4673,6 +4697,14 @@
       "onboard_time": 1680856827,
       "rank": 12,
       "category": "国内要闻,社会新闻"
+    },
+    {
+      "raw_hot": 571832,
+      "num": 571832,
+      "word": "KnowKnow跳水压倒一片观众",
+      "onboard_time": 1681094846,
+      "rank": 9,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 570887,
@@ -5459,14 +5491,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 503496,
-      "num": 503496,
-      "word": "30元竹筒奶茶是智商税吗",
-      "onboard_time": 1681092686,
-      "rank": 13,
-      "category": "美食,社会新闻"
-    },
-    {
       "raw_hot": 503429,
       "num": 494458,
       "word": "肖战和TODS总裁合照",
@@ -6057,6 +6081,14 @@
       "onboard_time": 1680443922,
       "rank": 27,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 459759,
+      "num": 294875,
+      "word": "宋三川尿检结果异常",
+      "onboard_time": 1681095207,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 459623,
@@ -7203,6 +7235,14 @@
       "category": "影视,音乐"
     },
     {
+      "raw_hot": 388569,
+      "num": 388569,
+      "word": "骆驼被景区人员轮番棒打惨叫下跪",
+      "onboard_time": 1681095448,
+      "rank": 13,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 388359,
       "num": 348502,
       "word": "极限挑战",
@@ -7779,6 +7819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 353302,
+      "num": 353302,
+      "word": "辞职带来的快乐是一时的",
+      "onboard_time": 1681094305,
+      "rank": 42,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 353175,
       "num": 353175,
       "word": "topik",
@@ -8153,6 +8201,14 @@
       "onboard_time": 1680998182,
       "rank": 13,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 340650,
+      "num": 340650,
+      "word": "冥夜天欢VS冥夜桑酒",
+      "onboard_time": 1681094966,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 340498,
@@ -9147,6 +9203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 298144,
+      "num": 298144,
+      "word": "熊猫也有平替",
+      "onboard_time": 1681095024,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 298089,
       "num": 298089,
       "word": "外交部对坂本龙一去世表示哀悼",
@@ -9369,6 +9433,14 @@
       "onboard_time": 1680666509,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 290052,
+      "num": 290052,
+      "word": "神隐",
+      "onboard_time": 1681094606,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 290022,
@@ -10059,14 +10131,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 269348,
-      "num": 269348,
-      "word": "极限挑战第九季阵容官宣",
-      "onboard_time": 1681093825,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 269238,
       "num": 269238,
       "word": "杨超越淡黄色公主裙",
@@ -10545,6 +10609,14 @@
       "onboard_time": 1681091066,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 254454,
+      "num": 254454,
+      "word": "张彬彬代旭新剧官宣杀青",
+      "onboard_time": 1681094666,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 254230,
@@ -11251,6 +11323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 235671,
+      "num": 235671,
+      "word": "淄博烧烤到底好不好吃",
+      "onboard_time": 1681093945,
+      "rank": 34,
+      "category": "美食"
+    },
+    {
       "raw_hot": 235476,
       "num": 203796,
       "word": "沈月一秒猜中陈哲远任务",
@@ -11361,6 +11441,14 @@
       "onboard_time": 1680825509,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 232341,
+      "num": 232341,
+      "word": "车银优演唱会用粉丝手机自拍",
+      "onboard_time": 1681095748,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 232021,
@@ -11761,6 +11849,14 @@
       "onboard_time": 1680657331,
       "rank": 28,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 224212,
+      "num": 224212,
+      "word": "张译神补刀苏有朋",
+      "onboard_time": 1681095687,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 224006,
@@ -12219,6 +12315,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 216272,
+      "num": 216272,
+      "word": "为什么五一要调休",
+      "onboard_time": 1681096286,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 216169,
       "num": 216169,
       "word": "惠英红马思纯王锵voguefilm大片",
@@ -12497,6 +12601,14 @@
       "onboard_time": 1680917306,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 210492,
+      "num": 210492,
+      "word": "神隐全员动物设定",
+      "onboard_time": 1681096467,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 210361,
@@ -13779,6 +13891,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 201586,
+      "num": 201586,
+      "word": "爸爸抽烟甩手时不慎烫伤孩子眼睛",
+      "onboard_time": 1681096409,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201570,
       "num": 201570,
       "word": "景区回应女子翻栏杆上大佛头顶",
@@ -14571,6 +14691,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 196619,
+      "num": 196619,
+      "word": "投资者对苹果头显缺乏信心原因",
+      "onboard_time": 1681095807,
+      "rank": 35,
+      "category": "财经,科技"
+    },
+    {
       "raw_hot": 196618,
       "num": 196618,
       "word": "JDG挺进春决",
@@ -14761,6 +14889,14 @@
       "onboard_time": 1680783991,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 194957,
+      "num": 194957,
+      "word": "周雨彤签约壹心",
+      "onboard_time": 1681096529,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 194909,
@@ -15123,6 +15259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 192218,
+      "num": 192218,
+      "word": "苹果去年在爱尔兰利润增至693亿美元",
+      "onboard_time": 1681095807,
+      "rank": 37,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 192182,
       "num": 192182,
       "word": "刘耀文夜色侧颜随拍",
@@ -15417,14 +15561,6 @@
       "onboard_time": 1680437307,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 190078,
-      "num": 190078,
-      "word": "淄博烧烤到底好不好吃",
-      "onboard_time": 1681093945,
-      "rank": 34,
-      "category": "美食"
     },
     {
       "raw_hot": 190023,
@@ -16473,6 +16609,14 @@
       "onboard_time": 1680509431,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 179447,
+      "num": 179447,
+      "word": "淄博宣传",
+      "onboard_time": 1681095387,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 179186,
@@ -18195,6 +18339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 153317,
+      "num": 153317,
+      "word": "罗云熙白鹿新剧情感特辑",
+      "onboard_time": 1681096648,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 153253,
       "num": 153253,
       "word": "Rookie3000杀",
@@ -18257,14 +18409,6 @@
       "onboard_time": 1680836909,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 152461,
-      "num": 152461,
-      "word": "辞职带来的快乐是一时的",
-      "onboard_time": 1681094305,
-      "rank": 42,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 152280,
@@ -18473,6 +18617,14 @@
       "onboard_time": 1680514112,
       "rank": 46,
       "category": "国内要闻,军事"
+    },
+    {
+      "raw_hot": 149653,
+      "num": 149653,
+      "word": "惊天救援王千源人物预告",
+      "onboard_time": 1681096350,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 149390,
